@@ -1,0 +1,342 @@
+#4900
+daemon ice~
+the ice daemon~
+A hideous horned daemon scrapes rime from his scales here.
+~
+   A ghastly creature, this daemon appears to be a larger, slower version
+of conventional demons typically conjured by mad necromancers.  Standing
+at nearly eight feet in height, its leathery scaled hide radiates a 
+stagnant chill which appears to whiten its greyish flesh.
+~
+8 0 0 0 0 0 0 0 -500 E
+24 -4 -14 24d5+276 16d4+16
+300 35000
+8 8 0
+BareHandAttack: 8
+Race: 11
+E
+#4901
+para elemental smoke creature~
+the smoke elemental~
+A strange smoke coalesces into a humanoid elemental form here.
+~
+This beast appears to be a magical conjuration derived from the smoke of
+the volcano.  Its stands nearly nine feet tall and its glowing yellow
+eyes seem to float in an incorporeal mass of ether.
+~
+237582 0 0 0 67112960 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 0
+BareHandAttack: 7
+Race: 25
+Noise: A loud hissing erupts from an unseen orifice.
+E
+#4902
+elemental fire beast~
+the fire elemental~
+An elemental beast of fire burns here.
+~
+Borne from living flames, this beast stands nearly eight feet tall and
+sports two cylindrical appendages of fire that maintain their form even
+when moving.
+~
+8 0 0 0 0 0 0 0 0 E
+22 -2 -12 22d5+230 14d4+14
+0 30000
+8 8 0
+Race: 25
+Noise: A crackling noise can be heard from somewhere nearby.
+E
+#4903
+daemon guard beast~
+the daemon guard~
+A winged, leather-skinned beast stands here, its sword drawn.
+~
+Over eight feel tall, this beast flicks a reptilian tongue across its
+exposed sword.  Its yellow eyes regard you carefully, intelligently.
+Clearly, this is no brute, but rather a calculating being.
+~
+16426 0 0 0 0 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+16
+100 37500
+8 8 0
+BareHandAttack: 3
+Race: 11
+Noise: You hear a low hissing sound.
+E
+#4904
+elemental ooze~
+the ooze elemental~
+A sickening ooze elemental stands here.
+~
+Borne from Earth and Water, this extra-dimensional creature shambles
+slowly toward you, perhaps to get a better look at a lesser being.
+~
+8 0 0 0 0 0 0 0 0 E
+28 -8 -18 28d5+368 18d4+18
+0 50000
+8 8 0
+BareHandAttack: 7
+Race: 25
+Noise: You can hear the sound of someone walking through mud.
+E
+#4905
+lich gaunt being~
+the lich~
+A gaunt being in robes stands here.
+~
+Through the hood of the cloak, you can see leather skin pulled over a
+masculine skull.  This being has strange, reddish eyes that seem to glow.
+~
+174088 0 0 0 1073848360 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 1
+BareHandAttack: 12
+Race: 9
+E
+#4906
+daemon undead~
+the undead daemon~
+A fleshless undead daemon stands motionless here.
+~
+Just looking at this skinless beast makes you nauseous.  Ichor oozes
+from broken membranes in the beast's torso and legs while a venomous
+fluid drips from its mouth.
+~
+10 0 0 0 40 0 0 0 -400 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 0
+BareHandAttack: 9
+Race: 9
+Noise: You think you hear blood drops hitting the stone floor.
+E
+#4907
+daemon smith~
+the daemon smith~
+A daemon smith hammers studs into dead flesh here.
+~
+A fire daemon, this smith uses his nimble fingers to sew and hammer metal
+studs into daemon-leather armor.
+~
+10 0 0 0 1064 0 0 0 -400 E
+30 -10 -20 30d5+414 20d4+20
+2000 60000
+8 8 0
+Race: 19
+Noise: You can hear metal being hammered.
+E
+#4908
+daemon necromancer necro~
+the daemon necromancer~
+A Daemon necromancer chants here.
+~
+It's a ghastly beast, cloaked in midnight robes. The stench of death
+surrounds him.
+~
+174094 0 0 0 42152 0 0 0 -1000 E
+30 -10 -20 30d5+414 20d4+20
+100 75000
+8 8 0
+Race: 19
+Noise: You can hear the crackling of magical energy.
+E
+#4909
+daemon courier~
+the daemon courier~
+A small daemon pushes a cart here.
+~
+Smaller than other daemons, this little horned beast is little more than
+a quasit, but seems capable of enough thought to take orders correctly.
+~
+526346 0 0 0 1064 0 0 0 -500 E
+23 -3 -13 23d5+253 15d4+15
+0 32500
+8 8 0
+BareHandAttack: 1
+Race: 11
+E
+#4910
+undead daemon guard~
+the undead guard~
+A guard stands here, immobile.
+~
+This poor daemon obviously gave its life for his Lord as it evident by
+the vicious scars and rents in its body.
+~
+10 0 0 0 40 0 0 0 0 E
+21 -1 -11 21d5+220 14d4+14
+0 27500
+8 8 0
+Race: 9
+E
+#4911
+merchant daemon~
+the daemon merchant~
+A daemon merchant haggles here.
+~
+An ice daemon, this articulate beast sounds like he speaks several
+languages from across the planes.
+~
+10 0 0 0 40 0 0 0 -200 E
+24 -4 -14 24d5+276 16d4+16
+200 35000
+8 8 0
+BareHandAttack: 10
+Race: 11
+Noise: You hear arguing.
+E
+#4912
+smoke elemental merchant~
+the elemental merchant~
+A smoke elemental stands here, haggling with other races.
+~
+This non-corporeal elemental chitters quietly as it negotiates a fair
+price for a vial of extradimensional mist.
+~
+10 0 0 0 0 0 0 0 0 E
+26 -6 -16 26d5+322 17d4+17
+1000 55000
+8 8 0
+Race: 25
+Noise: You hear the rushing of air.
+E
+#4913
+merchant lich~
+the merchant lich~
+A lich stands here, demanding a higher price for his bone dust.
+~
+He's a lich of the lowest form, barely animated enough to have sentience.
+~
+10 0 0 0 32936 0 0 0 -300 E
+32 -12 -22 32d5+1580 21d4+21
+0 1000
+8 8 0
+BareHandAttack: 12
+Race: 9
+E
+#4914
+lord drath overlord mischra daemon~
+Overlord Mischra Drath~
+The daemon lord of the Fortress stands before you.
+~
+A mighty ice daemon, this beast's white flesh and horns are barely
+concealed under his metallic plate armor and visor.  A longsword
+whose blade is nearly as long as your leg rests casually in his 
+six-fingered hand.
+~
+780347 0 0 0 132264 0 0 0 -1000 E
+33 -13 -23 33d5+2163 22d4+22
+0 180000
+8 8 1
+Race: 11
+Noise: You can hear a deep, throaty chuckling.
+E
+#4915
+game gamesmaster daemon overseer~
+the daemon gamesmaster~
+An overseer of the gaming house watches you closely.
+~
+This fire daemon seems ready to toss out anyone who no longer has the
+funding to play.  Everyone here is engaged in gambling, with no one
+observing from the background.
+~
+65562 0 0 0 1192 0 0 0 -300 E
+28 -8 -18 28d5+368 18d4+18
+1000 77000
+8 8 1
+BareHandAttack: 8
+Race: 11
+E
+#4916
+daemon warlord~
+the daemon warlord~
+A daemon warlord, perhaps the second in command of this realm, sits here.
+~
+Rime and ice lay in the fingerprints of this six-fingered ice daemon.
+He looks at you carefully, not underestimating any lesser mortal.
+~
+239642 0 0 0 1179816 0 0 0 -300 E
+30 -10 -20 30d5+414 20d4+20
+300 90000
+8 8 1
+BareHandAttack: 8
+Race: 11
+E
+#4917
+bat blood~
+the blood bat~
+A blood bat hangs here.
+~
+Typical of bats, this flying mammal has a high pitched chittering
+alarm that senses movement.  Its leathery wings lay folded about its
+body.
+~
+67738 0 0 0 1064 0 0 0 -300 E
+18 2 -8 18d5+190 12d4+12
+0 20000
+8 8 0
+BareHandAttack: 4
+Race: 24
+Noise: You can hear a squeal.
+E
+#4918
+devil horned~
+the horned devil~
+A horned devil bears an heavy-looking pack on his back.
+~
+A typical red devil, this man-sized creature carried a heavy sack in 
+which you can see crude shards of coloured gems protrude from the
+opening.
+~
+8 0 0 0 0 0 0 0 -500 E
+21 -1 -11 21d5+220 14d4+14
+0 100
+8 8 0
+Race: 11
+E
+#4919
+daemon mage~
+the daemon mage~
+A daemon, cloaked in thick robes, chants quietly here.
+~
+You can make out no details of the daemon through his heavy clothing.
+~
+239643 0 0 0 2261160 0 0 0 -500 E
+30 -10 -20 30d5+414 20d4+20
+100 145000
+8 8 0
+Race: 11
+Noise: You can hear quiet chanting.
+E
+#4920
+daemon fire~
+the fire daemon~
+A fire daemon stands here, its hair ablaze.
+~
+Standing almost eight feet tall, this lumbering beast stares down upon
+you from behind three greenish eyes.
+~
+8 0 0 0 0 0 0 0 -200 E
+27 -7 -17 27d5+345 18d5+18
+100 70000
+8 8 0
+Race: 11
+Noise: You hear the crackling of fire.
+E
+#4990
+Sil Silverstreak~
+Sil Silverstreak~
+Sil Silverstreak stands here, a feral grin playing on his unshaven face.
+~
+Bloodied and obviously hungry, this man is adorned with silver armor
+and bright silver weapons.
+~
+262168 0 0 0 1836074 0 0 0 0 E
+31 -11 -21 31d5+997 20d4+20
+0 90000
+8 8 1
+E
+$

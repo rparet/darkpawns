@@ -1,0 +1,378 @@
+#7900
+Anastatia~
+Anastatia~
+Anastatia is here, searching for demons.
+~
+She is a young, beautiful human, charged by her religion with a horrible
+quest:  To seek out and destroy demons - the bane of humanity.  A pity really
+as she is quite beautiful, but beneath those shy and and naive looking eyes
+lives the soul of a killer.  Don't mess with her.
+~
+559117 0 0 0 5256 0 0 0 400 E
+31 -11 -21 31d5+997 20d4+20
+666 90000
+8 8 2
+Race: 0
+E
+#7901
+talon~
+Talon~
+Talon is here, looking for his brother.
+~
+Talon is a tall elf with blond hair and icy blue eyes.  His fair skin is
+flawless with the exception of a narrow scar that runs across his neck -
+the result of a failed assassination attempt.  He is looking for his lost
+brother.
+~
+8456349 0 0 0 435400 0 0 0 -600 E
+33 -13 -23 33d5+2163 22d4+22
+400 180000
+8 8 1
+Race: 1
+E
+#7902
+dag barbarian~
+Dag the Barbarian~
+Dag grunts in your general direction.
+~
+Dag is a big, mean, smelly barbarian.  He takes one look at you and
+snorts loudly, disgusted by your sophistication.
+~
+960525 0 0 0 33800 0 0 0 -350 E
+36 -16 -26 36d5+3912 24d4+24
+200 363000
+8 8 1
+Race: 0
+E
+#7903
+Dracula figure~
+Dracula~
+A black cloaked figure sweeps by you and disappears.
+~
+Dracula stares back at you, his cold eyes peering deep into your soul. You
+feel mesmerized.
+~
+559117 0 0 0 1256 0 0 0 -700 E
+32 -12 -22 32d5+1580 21d4+21
+50 120000
+8 8 1
+Race: 8
+E
+#7904
+War man~
+War~
+War rides through on a horse black as night.
+~
+War is one of the four horsemen of the Apocalypse. Clothed head-to-toe in black
+armor, he fears no mortal man.
+~
+821260 0 0 0 1224 0 0 0 -700 E
+31 -11 -20 20d4+997 20d4+20
+50 90000
+8 8 1
+Race: 19
+E
+#7905
+Death man~
+Death~
+Death rides on a pale horse.
+~
+Death is one of the four horsemen of the Apocalypse. This skeletal figure has
+one goal: to collect souls for judgment. It looks as though he has decided to
+start with yours.
+~
+821260 0 0 0 1160 0 0 0 -700 E
+31 -11 -21 31d5+997 20d4+20
+50 90000
+8 8 1
+Race: 19
+E
+#7906
+Famine man~
+Famine~
+An imposing man on a black horse rides here.
+~
+Famine is one of the four horsemen of the Apocalypse.
+Although wearing only rags, his immortal stature
+makes him a threat to your very existence.
+~
+821260 0 0 0 1096 0 0 0 -700 E
+31 -11 -21 31d5+997 20d4+20
+50 90000
+8 8 1
+Race: 19
+E
+#7907
+Pestilence man~
+Pestilence~
+Pestilence rides here on a lame horse.
+~
+Pestilence is one of the four horsemen of the Apocalypse. Spreading disease and
+death across the land, he pays little attention to the living.
+~
+821260 0 0 0 1224 0 0 0 -700 E
+31 -11 -21 30d5+997 20d4+20
+50 90000
+8 8 1
+Race: 19
+E
+#7908
+Quetzalcoatl~
+Quetzalcoatl~
+The mighty Quetzalcoatl hovers before you.
+~
+Quetzalcoatl is a giant feathered snake.  The ssaurs and lizardmen worship
+him as a trickster god - both benevolent and destructive at the same time.
+Standing before him, you feel a sense of awe - and fear.
+~
+501768 0 0 0 67142792 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+0 270000
+8 8 1
+Race: 19
+E
+#7909
+elf avenger~
+the elven avenger~
+A sharply-dressed, lithe elf adventures here.
+~
+He looks very strong and agile. Muscles ripple beneath his green tunic, and
+his eyes seem to size you up with a glance. He's easily the scariest elf
+you've ever seen.
+~
+843785 0 0 0 132104 0 0 0 1000 E
+30 -10 -20 30d5+414 20d4+20
+120 60000
+8 8 1
+Race: 1
+E
+#7910
+killer hunter nightbreed~
+a nightbreed hunter~
+A nightbreed hunter is here, looking for weres and vamps.
+~
+He's muttering something about revenge, and seems quite insane with rage.
+~
+264201 0 0 0 1256 0 0 0 500 E
+30 -10 -20 30d5+414 20d4+20
+550 60000
+8 8 1
+Race: 0
+E
+#7911
+assassin man~
+an assassin~
+An assassin hunts you down.
+~
+He is a lithe, foreign looking man who wears a constant sneer across his
+scarred face.
+~
+8710168 0 0 0 8823816 0 0 0 -800 E
+30 -10 -20 30d5+414 20d4+20
+1230 60000
+8 8 1
+Race: 0
+E
+#7912
+spy far off land~
+a spy~
+A spy from a far-off land sneaks about.
+~
+Although he is trying to remain unobtrusive, this foreign spy
+sticks out like a sore thumb.
+~
+8669340 0 0 0 263240 0 0 0 -500 E
+31 -11 -21 31d5+997 20d4+20
+2222 90000
+8 8 1
+Race: 0
+E
+#7913
+shambler~
+the Shambler~
+A huge mound of rotting vegetation shambles toward you.
+~
+No one knows how the Shambler came to be, one day it just seemed to appear.  It
+is made up of a pile of rotting leaves, decomposing wood, and putrid vines that
+stands ten feet tall.  Two moldy, quivering stumps hang from its sides, slimy
+roots flailing wildly about.  It has no legs, instead moving like a slug,
+leaving a trail of thick, green-tinted slime.
+~
+616456 0 0 0 1032 0 0 0 -800 E
+33 -13 -23 33d5+2163 22d4+22
+8 180000
+8 8 0
+BareHandAttack: 9
+Race: 17
+E
+#7914
+behemoth~
+the Behemoth~
+The huge, green scaled Behemoth is here, eating everything in sight.
+~
+The behemoth is huge.  It's at least fifty feet long and twenty feet tall.  Its
+huge jaw clamps down on everything it sees with the two bulging red eyes
+located on the front of its reptilian face, each as large as your head.  The
+mottled green scales covering its body look thicker than the plates of steel
+used to make the strongest of armors.
+~
+8751160 0 0 0 1224 0 0 0 -1000 E
+34 -14 -24 34d5+2746 22d4+22
+0 270000
+8 8 0
+BareHandAttack: 4
+Race: 25
+Noise: The earth shakes.
+E
+#7915
+paladin mighty daerovis~
+Daerovis the Mighty Paladin~
+Daerovis the Mighty Paladin is here searching for evil things to destroy.
+~
+He is a tall, handsome human, dressed in full battle armor.  His white armor
+gleams in the sunlight, and he smiles as he surveys the landscape in front
+of him.
+~
+313497 0 0 0 38024 0 0 0 900 E
+32 -12 -22 32d5+1580 21d4+21
+100 120000
+8 8 1
+Race: 0
+E
+#7916
+barnstad dwarf old ancient~
+Barnstad~
+An old dwarf treks across the countryside.
+~
+Barnstad's entire race was nearly wiped out by the Dark One hundreds of years
+ago.  He used to be a happy man, a fine craftsman.  But now, his friends
+are all dead, battle scars mar his old face, and all that is left inside
+him is hatred.
+~
+8685592 0 0 0 38024 0 0 0 900 E
+32 -12 -22 32d5+1580 21d4+21
+500 120000
+8 8 1
+Race: 2
+E
+#7917
+knight paladin man adonis~
+Adonis, Paladin of the Moonshear~
+Adonis the mighty paladin is here surveying the horizion.
+~
+A mighty champion is here covered in gleaming white armor that reflects
+the light about him.  At his side is a gorgeous looking longsword that 
+sheds its own light.  He smiles at you as you look upon him and then turns
+his gaze out towards the horizon.
+~
+518424 0 0 0 1184956 0 0 0 750 E
+34 -14 -24 34d5+2746 22d4+22
+1500 270000
+8 8 1
+BareHandAttack: 10
+Race: 0
+E
+#7920
+pyros daemon lord~
+Pyros, the Daemon Lord~
+Pyros, the Daemon Lord screams in rage.
+~
+Surrounded by flames with an evil grin on its face, Pyros stands before you.
+Known in the underworld as the Daemon Lord, Pyros is more than capable of
+destroying you in this world.
+~
+254008 0 0 0 1073742888 0 0 0 -1000 E
+37 -17 -27 37d5+4495 24d4+24
+0 369000
+8 8 0
+BareHandAttack: 10
+Race: 11
+E
+#7969
+black cloaked wanderer mysterious man~
+a black-cloaked wanderer~
+A mysterious man in a long black cloak wanders about.
+~
+To say that he is inconspicuous would be an understatement.  You find that if
+you don't concentrate on following his movements every second, you lose track
+of exactly what he is doing.
+~
+960537 0 0 0 33992 0 0 0 -700 E
+33 -13 -23 33d5+2163 22d4+22
+50 180000
+8 8 1
+Race: 19
+E
+#7970
+unicorn~
+the Unicorn~
+A beautiful white horse with a single, spiral horn stands here.
+~
+The Unicorn is an ancient, mystical creature, the symbol of Life in druidic
+religions.  There is rumored to be only a single one in the entire world.
+~
+190489 0 0 0 38024 0 0 0 1000 E
+31 -11 -21 31d5+997 20d4+20
+0 90000
+8 8 2
+BareHandAttack: 9
+Race: 12
+E
+#7971
+Eric Draven Crow~
+Eric Draven~
+The Crow is here, dressed like a mime from hell.
+~
+He's dressed in black leather pants and a tight long-sleeve top.
+Electrical tape holds his clothes together.
+~
+786440 0 0 0 1224 0 0 0 -700 E
+29 -9 -19 29d5+391 19d4+19
+330 55000
+8 8 1
+Race: 0
+E
+#7979
+kender thief~
+a kender~
+A wide-eyed kender is here, adventuring.
+~
+Complete with top-knot and rows and rows of pouches, He looks to have been
+adventuring for some time. His happy countenance is marked with a look of
+much experience.
+~
+16393 0 0 0 263168 0 0 0 0 E
+16 4 -6 16d5+170 10d4+10
+0 16000
+8 8 1
+Race: 3
+E
+#7980
+xena princess warrior~
+Xena, warrior princess~
+Xena, warrior princess, searches for new adventure.
+~
+Wearing a low-cut, steel-breasted garment that leaves little to the imagi-
+nation, she's an intelligent vixen who kicks ass and doesn't bother to take
+names.
+~
+264216 0 0 0 164872 0 0 0 600 E
+32 -12 -22 32d5+1580 21d4+21
+25 120000
+8 8 2
+Race: 0
+E
+#7981
+space gnome~
+a space gnome~
+A devilish space gnome is here.
+~
+These little buggers are the scum of the universe.
+Whack 'em.
+~
+16520 0 0 0 32770 0 0 0 0 E
+5 15 5 5d5+60 3d4+2
+0 900
+8 8 1
+E
+$

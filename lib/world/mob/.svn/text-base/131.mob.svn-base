@@ -1,0 +1,201 @@
+#13100
+angry guard guardsman~
+an angry guard~
+An angry guardsman is here, protecting the fortress from invaders.
+~
+He's big, mean, and about to lob your head off.
+~
+6158 0 0 0 0 0 0 0 0 E
+20 0 -10 20d5+210 16d4+16
+20 25000
+8 8 0
+BareHandAttack: 3
+Race: 0
+E
+#13101
+King E'douird~
+King E'douird~
+King E'douird is sitting on his throne here, accepting bribes.
+~
+He is the war-proclaimed King of Dun Liu, his rule is tyrannical and cruel.
+Just the sight of him and how he rules makes you want to rip off his arms and
+feed them to some poor beggar of the crime ridden streets of Dun Liu.
+~
+26634 0 0 0 8 0 0 0 -200 E
+30 -10 -20 30d5+390 24d4+24
+200 60000
+8 8 1
+BareHandAttack: 10
+Race: 0
+E
+#13102
+Cheese Vendor~
+the cheese vendor~
+The Cheese Vendor is here, resting on all fours.
+~
+It looks, err, unfinished.
+~
+18442 0 0 0 32904 0 0 0 0 E
+33 -13 -23 33d5+1650 26d4+27
+0 180000
+8 8 0
+BareHandAttack: 9
+E
+#13103
+patrolman guard angry~
+an angry patrolman~
+An angry patrolman is here, making his rounds.
+~
+He's angry at the King, who is always making his life more miserable, but
+then the King does that to everyone...
+~
+268364 0 0 0 262144 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+10 6000
+8 8 0
+Race: 0
+E
+#13104
+Swiss Apothecary~
+Swiss~
+Swiss is here, mixing strange potions and feeding them to dogs.
+~
+He is apparently from Switzerland. He wears four watches and sums you up
+with a quick glance and an eager smile.
+~
+59419 0 0 0 8 0 0 0 0 E
+35 -15 -25 35d5+2490 28d4+28
+5000 360000
+8 8 1
+E
+#13105
+Gandalf~
+Gandalf~
+Gandalf is here, counting his profits greedily.
+~
+Big, white, and old.
+~
+26651 0 0 0 131080 0 0 0 0 E
+35 -15 -25 35d5+2490 28d4+28
+5000 360000
+8 8 1
+E
+#13106
+Black Knight~
+the Black Knight~
+The Black Knight is here, guarding the bridge.
+~
+He stands tall and alert, ready for any sort of attack his enemies might
+try to use against him.  To enter the castle, you will have to defeat him.
+~
+18443 0 0 0 136 0 0 0 0 E
+20 0 -10 20d5+210 16d4+16
+56 25000
+8 8 1
+Race: 0
+Noise: Someone shouts, 'Come back and I'll bite your kneecaps off!
+E
+#13107
+dark figure thief~
+a dark figure~
+A dark figure is wandering about here, hiding in the shadows.
+~
+You can't make out much about the dark figure. It appears to be a man, but
+his entire body is covered by his cloak and other garments. The look in his
+eyes tells you this is a man not to be trifled with.
+~
+278616 0 0 0 294914 0 0 0 0 E
+25 -5 -15 25d5+290 20d4+20
+0 37500
+8 8 1
+Race: 0
+E
+#13108
+gremlin~
+a gremlin~
+A gremlin is here, wondering what the hell you're doing.
+~
+It's a short green... ummm... thing! The little monster glares are you
+greedily and puts out his hand.
+~
+24602 0 0 0 524296 0 0 0 0 E
+35 -15 -25 35d5+2490 28d4+28
+0 360000
+8 8 1
+BareHandAttack: 4
+Race: 25
+E
+#13109
+mistress king~
+the King's mistress~
+The King's mistress is lying here, sharing pillow talk.
+~
+She's beautiful. Long blond hair with a voluptuous body that would make any
+woman jealous. As you look at her she merely licks her lips and smiles.
+~
+2058 0 0 0 0 0 0 0 0 E
+20 0 -10 20d5+210 16d4+16
+50 25000
+8 8 2
+Race: 0
+E
+#13110
+filthy peasant~
+a filthy peasant~
+A filthy peasant lies here, reeking of his own fluids.
+~
+He smells like the worst shit you've ever smelt. He wears rags that are torn
+and caked with grease and sweat. You feel disgusted just being around him.
+~
+204 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 3d4+3
+0 900
+8 8 1
+Race: 0
+E
+#13111
+rat~
+a beady-eyed rat~
+A beady-eyed rat stares at you angrily.
+~
+The rat glares at you with a fierce look in it's eyes. Although it looks
+small, who knows what kinds of diseases it carries in it's mangy black
+fur and long fangs.
+~
+268952 0 0 0 1024 0 0 0 0 E
+3 17 7 3d5+40 2d4+2
+0 350
+8 8 0
+BareHandAttack: 4
+Race: 15
+Noise: Squeak!
+E
+#13112
+Mango Rat~
+the Mango rat~
+A huge, fruity-looking creature glares at you with beady eyes.
+~
+"Um" is the first word to come to mind. This rodent has more colors than a
+Frutopia bottle and looks just as psychadellic. This is one whacked rat.
+~
+2106 0 0 0 524288 0 0 0 -100 E
+20 0 -10 20d5+210 16d4+16
+1 25000
+8 8 0
+BareHandAttack: 8
+Noise: Squeak!
+E
+#13199
+odif yltsaeb~
+a odif yltsaeb~
+A odif yltsaeb stands here growling furiously.
+~
+WOOF!
+~
+264280 0 0 0 8650752 0 0 0 0 E
+16 4 -6 16d5+170 12d4+13
+500 16000
+8 8 0
+BareHandAttack: 4
+E
+$

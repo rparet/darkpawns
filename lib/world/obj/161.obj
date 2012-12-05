@@ -1,0 +1,649 @@
+#16100
+trident lightning~
+a lightning trident~
+A lightning trident is lying here.~
+~
+5 4309003 0 0 0 8193 0 0 0
+0 3 4 12
+6 0 50.00
+E
+trident lightning~
+   You are gazing upon a trident wrapped in a mystical lightning that
+cascades all over the surface of the weapon.  The trident's forward barbed
+blades glow with a peaceful otherworldly light.
+~
+A
+1 2
+A
+12 15
+A
+19 1
+#16101
+staff light~
+a staff of light~
+A shimmering staff of light is lying here.~
+~
+5 68867 0 0 0 8193 0 0 0
+0 2 4 12
+6 0 50.00
+E
+staff light~
+  At first, you think this is a beam of light, and look around for the light's
+source, and seeing none, realize that this is an item of light, that glows
+with an ethereal brightness.  All manner of evil seem to shrink away from 
+this extraordinary item made for the defenders of good and righteousness...
+~
+A
+13 5
+A
+12 5
+A
+24 1
+#16102
+blue axe~
+a blue axe~
+A blue-bladed axe is lying here.~
+~
+5 2106402 0 0 0 8193 0 0 0
+0 2 4 5
+11 0 70.00
+E
+blue axe~
+  A double-bladed battle axe.  The axe's blade is made from some otherworldly
+blue metal, with serpentine designs etched across the blade's face, and 
+spiralling down the axe's shaft toward the handle.  The handle itself seems
+to have a grip and heft just right for you, which you find to be rather odd,
+considering the immensity of the blade.
+~
+A
+17 -1
+#16103
+fireball~
+a fireball~
+An ethereal fireball is suspended in the air here.~
+~
+1 65545 0 0 0 262145 0 0 0
+0 0 -1 0
+0 0 100.00
+E
+fireball~
+  A blue flame in a semi-spherical shape hovers in the air here.  Despite
+the color of the flame, it casts white light enough with which to see by.
+~
+A
+4 1
+#16104
+phoenix feather~
+a phoenix feather~
+A phoenix feather is lying here.~
+~
+12 3076 0 0 0 16401 0 0 0
+0 0 0 0
+0 3000 30.00
+E
+phoenix feather~
+  A brilliantly colored feather that ranges in color from bright yellow at 
+the root, to a deep crimson towards the end.  The feather appears as if it
+is aflame, yet what's odd is, it just might be...
+~
+A
+13 2
+A
+12 2
+A
+5 1
+A
+6 1
+#16105
+glowing headband~
+a glowing headband~
+A glowing headband is lying here.~
+~
+9 1027 0 0 0 17 0 0 0
+-2 0 0 0
+2 2000 70.00
+E
+glowing headband~
+  A beautiful metal band designed to be worn about the head, with intricate
+carvings of rather regal looking dragons decorating the sides of the band.
+The metal resembles gold, yet glows with a pale, warm light.
+~
+A
+20 1
+A
+22 1
+#16106
+winged sandals~
+a pair of winged sandals~
+A pair of winged sandals are levitating here.~
+~
+9 66560 0 0 0 65 0 0 0
+-1 0 0 0
+0 0 100.00
+E
+winged sandals~
+  This pair of sandals would normally look like any common place sandals, if
+it weren't for the small, feathery wings protruding from the ankles.  As you
+get closer to the sandals, you notice the wings start to slowly flap up and
+down, almost as if in anticipation...
+~
+A
+10 -10
+A
+14 5
+#16107
+white loincloth~
+a white loincloth~
+A white loincloth is lying here.~
+~
+11 256 0 0 0 65537 0 0 0
+0 0 0 0
+3 2006 80.00
+E
+white loincloth~
+  A pure white length of cloth in pristine condition that is worn around the
+waist, and hangs down over the wearer's legs in front and back, exposing the
+legs so as not to hinder movement.  The design of a golden dragon is sewn
+onto the front of the cloth, and is surrounded by a golden trim border.
+~
+A
+13 10
+A
+17 -2
+#16108
+glowing bracelet~
+a glowing bracelet~
+A glowing bracelet is lying here.~
+~
+9 3 0 0 0 4097 0 0 0
+-2 0 0 0
+5 4500 66.00
+E
+glowing bracelet~
+ A bracelet of a strange metal, the likes of which you've never seen before.
+The light striking it's surface makes the bracelet glitter with light and
+glow as it alive.  Intricate patterns of valiant dragons are sculpted on the
+side of the bracelet.
+~
+A
+23 2
+A
+1 -1
+A
+19 -1
+A
+4 1
+A
+3 1
+#16109
+white cape~
+a white cape~
+A white cape is lying here.~
+~
+11 541696 0 0 0 1025 0 0 0
+0 0 0 0
+3 1000 60.00
+E
+white cape~
+  A pure white cape in pristine condition.  The perfect condition and
+workmanship of this cape belittle how old it must really be.
+~
+A
+17 -2
+A
+5 1
+A
+2 -1
+#16110
+gold apple~
+a gold apple~
+A gold apple is lying here.~
+~
+8 0 0 0 0 16385 0 0 0
+0 0 0 0
+5 5000 100.00
+E
+gold apple~
+   This extraordinary fruit is made of a solid organic gold.  While it may
+not be very edible, it is very wonderous to gaze upon.  You begin to recall
+legends of a treasure of judgement and balance, which while it could bestow
+great wealth, it came with a penalty of greed and suffering.  Could this be
+that forbidden treasure?
+~
+A
+3 -1
+A
+4 -1
+A
+6 2
+#16111
+spiffy pants~
+a pair of spiffy pants~
+A pair of spiffy pants are lying here.~
+  Woah!!! Pants!!!
+~
+9 65551 0 0 0 33 0 0 0
+-2 0 0 0
+0 0 100.00
+E
+spiffy pants~
+Woah!!! Pants!!!
+~
+A
+12 10
+A
+13 10
+A
+1 2
+A
+19 30
+#16112
+golden lance~
+a golden lance~
+A golden lance is lying here.~
+~
+5 609547 0 0 0 8193 0 0 0
+1 3 3 11
+10 0 100.00
+E
+golden lance~
+  You are staring upon an exquisite lance, obviously made by a very skilled
+craftsmen.  You even doubt it was crafted, possibly made by a divine being.
+Light sparkles all over the surface, and refracts in all different 
+directions.  For such a large weapon, it is strangely easy enough to use,
+and is very balanced.
+~
+A
+19 2
+A
+1 1
+#16113
+pixie's dagger~
+a pixie's dagger~
+A pixie's dagger is lying here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 4 14
+1 50 50
+E
+pixie dagger~
+  A tiny blade designed for the hands of the wee folk of the pixie.  Very
+odd for you to wield, it is however usable...
+~
+A
+2 1
+A
+18 -3
+A
+17 1
+#16114
+scroll~
+a yellow scroll~
+A yellow colored scroll is lying here.~
+~
+2 0 0 0 0 1 0 0 0
+3 19 19 19
+1 1500 1500
+E
+yellow scroll~
+A yellow colored paper, neatly rolled up into a scroll.
+~
+#16115
+fountain~
+a crystal fountain~
+A crystal fountain is here bubbling merrily.~
+~
+23 1 0 0 0 0 0 0 0
+999999 999999 0 0
+1000004 0 100.00
+E
+fountain~
+  Light sparkles across the fountain with golden details.  Even the cool
+water bubbling from the fountain has a golden hue to it.  Exquisite flowered
+vines grow up the sides of the fountain adding to it's graceful appearance.
+~
+#16116
+apple~
+an apple~
+An apple lies here.~
+~
+19 65536 0 0 0 1 0 0 0
+3 0 0 0
+1 3 3
+E
+apple~
+  A bright red apple.
+~
+#16117
+strange exotic fruit~
+a strange exotic fruit~
+A strange exotic fruit is lying here.~
+~
+19 65536 0 0 0 1 0 0 0
+10 0 0 0
+3 10 10
+E
+strange exotic fruit~
+  Mutiple colored, this strange fruit is supposedly edible, but is so 
+appealing that you almost want to keep it instead of eat it.  A thick, sweet
+syrup runs down the side of the rainbow colored fruit, making you hungry.
+~
+#16118
+grapes~
+some grapes~
+A small vine covered with grapes is lying here.~
+~
+19 65536 0 0 0 1 0 0 0
+5 0 0 0
+2 5 5
+E
+grapes~
+  A small vine covered in large, juicy, bright green grapes.
+~
+#16119
+orange~
+an orange~
+An orange lies here.~
+~
+19 65536 0 0 0 1 0 0 0
+2 0 0 0
+1 2 2
+E
+orange~
+  A brightly colored orange.
+~
+#16120
+scroll~
+a green scroll~
+A green colored scroll is lying here.~
+
+
+~
+2 0 0 0 0 1 0 0 0
+3 20 20 20
+1 1100 1000
+E
+green scroll~
+  A green colored paper, neatly rolled up into a scroll.
+~
+#16121
+scroll~
+a blue scroll~
+A blue scroll is lying here.~
+~
+2 0 0 0 0 1 0 0 0
+3 50 50 50
+1 1400 1400
+E
+blue scroll~
+A blue colored paper, rolled neatly into a scroll.
+~
+#16122
+orange scroll~
+an orange scroll~
+An orange scroll is lying here.~
+~
+2 0 0 0 0 1 0 0 0
+3 44 44 44
+1 1200 1200
+E
+orange scroll~
+An orange colored paper rolled neatly into a scroll.
+~
+#16123
+ruby~
+a ruby~
+A ruby is lying here.~
+~
+8 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 1000 1000
+E
+ruby~
+A beautiful, crimson red ruby with sparkling facets.
+~
+A
+6 -3
+A
+13 -5
+#16124
+emerald~
+an emerald~
+An emerald is lying here.~
+~
+8 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 1000 1000
+E
+emerald~
+A vivid green colored gem, the emerald is truly a precious gem.
+~
+A
+6 -2
+A
+4 -1
+#16125
+sapphire~
+a sapphire~
+A sapphire is lying here.~
+~
+8 65676 0 0 0 16385 0 0 0
+0 0 0 0
+1 1000 1000
+E
+sapphire~
+A brightly colored blue gem of exquisite beauty.
+~
+#16126
+diamond~
+a diamond~
+A diamond is lying here.~
+~
+8 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 1000 1000
+E
+diamond~
+A pristine diamond.  Light reflects from all different angles from this
+attractive gem.
+~
+A
+12 -10
+#16127
+onyx crystal~
+an onyx crystal~
+An onyx crystal is lying here.~
+~
+8 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 1000 1000
+E
+onyx crystal~
+An opaque black crystal of mysterious beauty.
+~
+A
+18 -5
+A
+19 -5
+#16128
+dragon-shaped key~
+a dragon-shaped key~
+A dragon-shaped key is lying here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+3 0 100.00
+E
+dragon-shaped dragon key~
+A white gold key with the head of a marvelous dragon forming the handle,
+scales wrapping around the shaft of the key and forming the prongs which
+unlock what must be an important door somewhere...
+~
+#16129
+mountain of gold and gems~
+a mountain of gold and gems~
+A mountain of gold and gems is lying here.~
+~
+8 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+mountain gold gems~
+A huge hoard of gold and gems which are of value far beyond what you could
+imagine.  The gold seems melted together somewhat, either by extreme heat,
+or by the immense weight of bahamut as this is his bed.  Gems sparkle in the
+light, encased in a tomb of gold forever.  
+~
+#16130
+chest~
+an old chest~
+An old chest is lying here.~
+~
+15 0 0 0 0 0 0 0 0
+300 5 -1 0
+0 0 100.00
+E
+chest old~
+An old, yet sturdy chest of an unknown make, with an emblem of a dragon
+emblazoned on it's clasp.
+~
+#16131
+red scroll~
+a red scroll~
+A red scroll is lying here.~
+~
+2 0 0 0 0 1 0 0 0
+3 18 18 18
+0 1300 1300
+E
+red scroll~
+A colored paper rolled eatly into a scroll.
+
+~
+#16132
+banana~
+a banana~
+A banana is lying here.~
+~
+19 65536 0 0 0 1 0 0 0
+4 0 0 0
+1 4 4
+E
+banana~
+A bright yellow banana.
+~
+#16133
+pear~
+a pear~
+A pear is lying here.~
+~
+19 65536 0 0 0 1 0 0 0
+3 0 0 0
+1 3 3
+E
+pear~
+A cool green colored pear with a small stem protruding from the top of it's
+bell shape.
+~
+#16134
+leafy fruit~
+a leafy fruit~
+A leafy fruit is lying here.~
+~
+19 65536 0 0 0 1 0 0 0
+6 0 0 0
+2 7 7
+E
+leafy fruit~
+Small, mint shaped leaves envelop this blue colored fruit with a tangy nectar.
+~
+#16135
+juice filled fruit~
+a juice filled fruit~
+A juice filled fruit is lying here.~
+~
+19 65536 0 0 0 1 0 0 0
+8 0 0 0
+3 8 8
+E
+juice filled fruit~
+A plump, round purple colored fruit filled with a lightly sweet juice under
+a thin peel.
+~
+#16136
+bubbling black flask~
+a bubbling black flask~
+A bubbling black flask is lying here.~
+~
+10 0 0 0 0 1 0 0 0
+3 56 56 56
+3 2000 2000
+E
+bubbling black flask~
+A flask of some kind of mysterious bubbling syrupy black liquid.
+~
+#16137
+multi colored flask~
+a multi colored flask~
+A multi colored flask is lying here.~
+~
+10 0 0 0 0 1 0 0 0
+3 43 43 43
+3 1000 1000
+E
+multi colored flask~
+A flask of some strange liquid which changes into various colors n wavy
+patterns.
+~
+#16138
+glittering flask~
+a glittering flask~
+A glittering flask is lying here.~
+~
+10 0 0 0 0 1 0 0 0
+3 16 16 16
+3 1800 1500
+E
+glittering flask~
+
+A flask of a clear liquid which glitters wherever light strikes it.
+~
+#16139
+smoking fire red flask~
+a smoking fire red flask~
+A smoking fire red flask is lying here.~
+~
+10 0 0 0 0 1 0 0 0
+3 14 14 14
+3 1100 1100
+E
+smoking fire red flask~
+A thick red liquid the color of flame.  Smoke eminates from the strange
+fluid.
+~
+#16140
+placid blue flask~
+a placid blue flask~
+A placid blue flask is lying here.~
+~
+10 0 0 0 0 1 0 0 0
+3 1 1 1
+3 1000 1000
+E
+placid blue flask~
+A flask of a smooth, blue liquid.
+~
+#16141
+wavy orange flask~
+a wavy orange flask~
+A wavy orange flask is lying here.~
+~
+10 0 0 0 0 1 0 0 0
+3 3 3 3
+3 1700 1700
+E
+wavy orange flask~
+A flask of an orange fluid which waves back and forth like an ocean wave.
+Even at rest, the liquid still moves back and forth.
+~
+$~

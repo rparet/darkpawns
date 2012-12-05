@@ -1,0 +1,410 @@
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+It's Puff!
+~
+16393 0 0 0 0 0 0 0 1000 E
+26 -6 -16 26d5+322 17d4+17
+10 40000
+8 8 2
+Race: 10
+E
+#2
+Abishai~
+Abishai~
+Abishai, Ayesha's siamese cat, paces around fretfully.
+~
+He looks like Ayesha's pussy.
+~
+8 0 0 0 0 0 0 0 1000 E
+26 -6 -16 26d5+322 17d4+17
+0 40000
+8 8 1
+E
+#3
+Test~
+Test~
+Test, the testing mob is here... testing.
+~
+He looks like a tester.
+~
+27 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+Race: 0
+E
+#4
+remorter man~
+the remorter~
+An aged man stands here, selling used souls.
+~
+A grey goatee matches tangled shoulder-length hair. An aura of great
+power surrounds him.
+~
+1107977 0 0 0 1160 0 0 0 0 E
+31 -11 -21 31d5+997 20d4+20
+1000 90000
+8 8 1
+Race: 0
+E
+#5
+generic mob~
+the generic mob~
+A generic prototype stands here, waiting for an identity.
+~
+This is a generic prototype, meant to be used with string
+for the amusement of the Gods.
+~
+49226 0 0 0 0 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 0
+BareHandAttack: 12
+E
+#6
+a girl~
+a girl~
+A girl stands here
+~
+She's almost as pretty as Ayesha.
+~
+8 0 0 0 0 0 0 0 -1000 E
+0 19 9 1d5+10 0d4+0
+0 0
+8 8 2
+Race: 0
+E
+#7
+lunatic~
+a lunatic~
+A lunatic stands here, raving about the moon.
+~
+He's human, but only barely. Blood coats his nails, obviously from the
+damage he's inflicted on his own body. Tattered rags cover his body, which
+although thin, professes the strength of madness.
+~
+262152 0 0 0 1024 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 1
+Noise: You hear a mad scream.
+E
+#8
+recharger man~
+the recharger~
+An old man carrying a bundle of staves and wands stands here.
+~
+He looks like a half-elf, and has a very dour expression on his face. Perhaps
+he is tired of selling his goods (or services?)
+~
+288905 0 0 0 128 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 1
+Race: 27
+Noise: Someone yells out, "Recharge your staves here! Recharge your wands!"
+E
+#9
+skull~
+a flaming skull~
+A flaming skull floats in midair here.
+~
+It's a human skull from which flames shoot forth brightly. It's magickal
+existance in this plane seems tenuous at best, or it shimmers as if it was
+about to disappear at any second.
+~
+32776 0 0 0 67108992 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 4
+Race: 11
+E
+#10
+zombie~
+a zombie~
+A zombie stares mindlessly into space.
+~
+The zombie appears fragile. Its grey-green flesh looks soft and even its bones
+seem brittle. Its eyes are dark, empty pits that somehow seem to see anyway. The
+zombie's lips and cheeks have shrunk, revealing large, crooked teeth. Its hands
+end in sharp, talonlike nails that bear little resemblance to a normal persons
+fingernails. 
+~
+8 0 0 0 0 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 0
+Race: 9
+Noise: A strong, rotting stench fills the air.
+E
+#11
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+10 0d1+0
+0 0
+8 8 1
+E
+#23
+roach~
+a large roach~
+A large roach scurries here.
+~
+It is a huge brown and black roach, much like it's smaller counterpart.  But
+you can not squash this one with your boot.  It appears to be searching for
+food.  You best be careful of this beast.
+~
+8201 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+BareHandAttack: 1
+Race: 21
+E
+#30
+wandering adventurer ostay~
+Ostay, the wandering adventurer~
+A lost adventurer wanders aimlessly past you.
+~
+He looks rather tired and worn out and seems to have no idea where he is
+or where he's going. He has a small satchel at his side and it looks as
+though there's something in it.
+~
+239624 0 0 0 132136 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+5000 60000
+8 8 1
+BareHandAttack: 8
+Race: 0
+E
+#31
+devourer void black~
+the Devourer~
+A black void senses you and moves towards you.
+~
+You're not even sure what you're seeing is there, but the thing before you
+is quite real and it looks like it's found you. It knows nothing but death
+and destroys all within its path.
+~
+9283608 0 0 0 67273896 0 0 0 -1000 E
+35 -15 -25 35d5+3329 23d4+23
+10000 360000
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: The sky grows dark and you shiver uncomfortably.
+E
+#32
+galeru master elements~
+Galeru, the Master of the Elements~
+A giant rainbow snake coils itself around you.
+~
+The snake is enormous! Towering well above you, the snake peers at you with
+sheer disdain. It is the one, the master, the creator of all and you are
+but a small part of that.
+~
+26654 0 0 0 9256 0 0 0 1000 E
+34 -14 -24 34d5+2746 22d4+22
+100 270000
+8 8 0
+BareHandAttack: 8
+Race: 13
+E
+#33
+mordraneth stealer souls black cloaked figure~
+Mordraneth, stealer of souls~
+A black-cloaked figure awaits patiently.
+~
+A skeletal figure peers back at you, a glowing ball of fire in its right
+hand. Its eyes seem to bury deep within your soul and you shiver as you feel
+your life force slip away. Best you leave it alone...
+~
+8642586 0 0 0 1073874088 2 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+10000 360000
+8 8 0
+BareHandAttack: 8
+Race: 11
+E
+#34
+figure bounty hunter~
+a bounty hunter~
+A figure moves silently in the shadows, his body covered with weapons.
+~
+You can't see him very well, he prefers the darkness before striking at his
+prey. You want to hope it's not you...
+~
+188440 0 0 0 1064 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+100 10000
+8 8 0
+Race: 17
+E
+#66
+demon~
+a big black demon~
+A big black demon glares at you.
+~
+He's big with horns and glowing red eyes.
+The number 666 is tattooed into his forehead.
+He looks like someone your mother would probably date.
+~
+188426 0 0 0 0 0 0 0 -500 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 1
+BareHandAttack: 9
+Race: 11
+E
+#69
+clone~
+a clone~
+A clone is standing here.
+~
+undefined~
+8 0 0 0 0 0 0 0 0 E
+0 19 9 1d5+10 1d4+0
+0 100
+8 8 0
+Race: 25
+E
+#70
+satan klaus~
+Satan Klaus~
+Satan Klaus sings, "Slay Bells Ring, Are Ya Listening?"
+~
+Satan Klaus looks a little bit like Adolf Hitler 
+in a big red suit. He has a VERY evil grin on his
+face.
+~
+8 0 0 0 0 0 0 0 0 E
+40 -20 -30 40d5+6244 26d4+26
+2000 400000
+8 8 1
+BareHandAttack: 10
+Race: 0
+E
+#71
+death dealer~
+Death Dealer~
+Death Dealer looks you over coldly.
+~
+A tall, otherworldly man in jet black armor with a sinister lochaber.
+Death Dealer wanders the world in search of souls for his
+demonic masters.
+~
+845832 0 0 0 1256 0 0 0 -1000 E
+32 -12 -22 32d5+1580 21d4+21
+3300 120000
+8 8 1
+Race: 25
+E
+#81
+elemental earth~
+an earth elemental~
+A large animated rock in the shape of a man stands here.
+~
+Summoned from the plane of elemental Earth, this elemental has been bound
+to this plane by powerful magicks. The elemental can barely conceal the
+rage in its cold, stone eyes.
+~
+94217 0 0 0 1024 0 0 0 0 E
+0 20 10 1d1+10 1d1+0
+0 0
+8 8 0
+Race: 25
+E
+#82
+water elemental waterspout~
+a water elemental~
+A waterspout about the size of a man whirls about.
+~
+Summoned from the elemental plane of Water, this elemental has been
+bound to this plane by powerful magicks.  
+~
+94233 0 0 0 67109888 0 0 0 0 E
+0 20 10 1d1+10 1d1+0
+0 0
+8 8 0
+Race: 25
+E
+#83
+air elemental cyclone~
+an air elemental~
+A small cyclone twists here.
+~
+Summoned from the elemental plane of Air, this elemental has been
+bound to this plane by powerful magicks.
+~
+94233 0 0 0 67109888 0 0 0 0 E
+0 20 10 1d1+10 1d1+0
+0 0
+8 8 0
+Race: 25
+E
+#84
+fire elemental~
+a fire elemental~
+A column of living fire twists and burns everything in its path.
+~
+This elemental has been summoned from the elemental plane of Fire.
+It has been bound to this plane by powerful magicks.
+~
+94233 0 0 0 1024 0 0 0 0 E
+0 20 10 1d1+10 1d1+0
+0 0
+8 8 0
+Race: 25
+E
+#85
+angel light dominion~
+a Dominion Angel~
+A glorious Angel in full battle dress stands before you.
+~
+This is a Dominion Angel, the race of Angels that are sent to the material world to aid
+the mortal servants of their eldrich masters. He looks very solemn and holy.
+~
+20745 0 0 0 1160 0 0 0 1000 E
+0 20 10 1d1+10 1d1+0
+0 0
+8 8 1
+Race: 19
+E
+#86
+angel evil dominion~
+a Dominion Angel~
+A evil looking Angel dressed in full battle array stands before you.
+~
+This is Angel belongs to the Dominion, a class of Angels sent to the material world to
+further their masters goals. He looks and smells of Death.
+~
+21001 0 0 0 1160 0 0 0 -1000 E
+0 20 10 1d1+10 1d1+0
+0 0
+8 8 1
+Race: 19
+E
+#87
+tymora mistress demon~
+Tymora, Mistress of the 8th Dimension~
+Tymora, Mistress of the 8th Dimension, looks at you in disdain.
+~
+Tymora is a beautiful half-demon, with nut-brown skin and amber eyes. Legend
+holds her to be the first of the succubi, it is said that her vagina is a
+many-toothed maw capable of devouring men whole.
+~
+1040410 0 0 0 46216 0 0 0 -1000 E
+38 -18 -28 38d5+5078 25d4+25
+0 372000
+8 8 2
+Race: 11
+E
+$

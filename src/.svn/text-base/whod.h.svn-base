@@ -1,0 +1,37 @@
+/************************************************************************\
+* File: whod.c, WHO Daemon.                          Adapted for DIKUMUD *
+* Version: 1.01                                                          *
+* Usage: Set up port to answer external WHO-calls to the MUD             *
+* Copyright (c) 1992, d90-jkr@nada.kth.se (Johan Krisar),                *
+*                     robert@diku.dk (Robert Martin-Legene),             *
+*                           DikuMud is a copyright (c) of the Diku Group *
+\************************************************************************/
+
+/*
+  All parts of this code not covered by the copyright by the Trustees of
+  the Johns Hopkins University are Copyright (C) 1996, 97, 98 by the
+  Dark Pawns Coding Team.
+
+  This includes all original code done for Dark Pawns MUD by other authors.
+  All code is the intellectual property of the author, and is used here
+  by permission.
+
+  No original code may be duplicated, reused, or executed without the
+  written permission of the author. All rights reserved.
+
+  See dp-team.txt or "help coding" online for members of the Dark Pawns
+  Coding Team.
+*/
+
+/* $Id$ */
+
+#ifndef _WHOD_H
+#define _WHOD_H
+
+void do_whod (struct char_data *ch, char *arg, int cmd);
+void init_whod(int port);
+void close_whod (void);
+void whod_loop(void);
+
+#endif  /* _WHOD_H */
+

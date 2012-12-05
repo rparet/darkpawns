@@ -1,0 +1,193 @@
+#4201
+kresh scale kreshscale jacket~
+a kreshscale jacket~
+A jacket made from the scales of the giant kresh lies here.~
+~
+9 0 0 0 0 9 0 0 0
+12 0 0 0
+20 700 5.00
+#4202
+kresh scale kreshscale helmet~
+a kreshscale helmet~
+A helmet made from the scales of the giant kresh rests here.~
+~
+9 0 0 0 0 17 0 0 0
+7 0 0 0
+6 550 5.00
+#4203
+kresh scale kreshscale leggings~
+some kreshscale leggings~
+Some leggings made from the scales of the giant kresh is here.~
+~
+9 0 0 0 0 33 0 0 0
+9 0 0 0
+16 700 5.00
+#4204
+kresh scale kreshscale armplates~
+some kreshscale armplates~
+Some armplates made from the scales of the giant kresh lie here.~
+~
+9 0 0 0 0 257 0 0 0
+5 0 0 0
+6 550 5.00
+#4205
+kresh scale kreshscale shield~
+a kreshscale shield~
+A shield made from the scales of the giant kresh lies here.~
+~
+9 0 0 0 0 513 0 0 0
+7 0 0 0
+10 550 5.00
+#4206
+kresh scale girdle kreshscale~
+a kreshscale girdle~
+A girdle made from the scales of the giant kresh rests here.~
+~
+9 0 0 0 0 2049 0 0 0
+5 0 0 0
+4 225 5.00
+#4207
+spear sturdy~
+a sturdy spear~
+A long, sturdy spear lies on he ground.~
+~
+5 6311936 0 0 0 8193 0 0 0
+0 4 4 14
+10 900 10.00
+A
+18 2
+A
+19 2
+#4208
+sparkling rope~
+a sparkling rope~
+A length of rope sparkles in the sun light.~
+~
+12 65 0 0 0 6149 0 0 0
+0 0 0 0
+3 2500 10.00
+A
+12 5
+#4209
+ring opal~
+an opal ring~
+A ring made of opal gathers dust on the ground.~
+~
+8 10501184 0 0 0 3 0 0 0
+0 0 0 0
+1 4000 10.00
+A
+18 2
+A
+19 2
+#4210
+jade ring~
+a jade ring~
+A ring made of jade gathers dust on the ground.~
+~
+8 10500672 0 0 0 3 0 0 0
+0 0 0 0
+2 4000 10.00
+E
+jade ring~
+The ring is a circular band of carved jade.  Complex runes have been etched
+onto both the inside and outside surfaces of the ring, perhaps glyphs of
+combat or protection.
+~
+A
+18 2
+A
+19 2
+#4211
+key worn~
+a worn gate key~
+Someone has left a worn key lying here.~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0
+1 0 20.00
+#4212
+icy prism~
+an icy prism~
+A small prism made of ice gives off a soft glowing light.~
+~
+1 81 0 0 0 16385 0 0 0
+0 0 -1 0
+5 2150 10.00
+#4213
+treasure gold coins~
+the ice dragon's treasure~
+A large mound of gold coins lies here.~
+~
+20 0 0 0 0 1 0 0 0
+9543 0 0 0
+50 9543 90.00
+#4214
+well~
+a well-kept well~
+A wonderfully well cared for well rises out of a corner of the room.~
+~
+23 13312 0 0 0 3 0 0 0
+10000 10000 0 0
+10005 2000 100.00
+A
+18 1
+A
+19 1
+A
+17 1
+#4220
+key icy~
+an icy key~
+A key made from solid ice is here. You wonder why it doesn't melt.~
+~
+18 68 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 35.00
+#4221
+chest ice~
+a chest made of ice~
+A chest made completely from ice is here. Even the lock is made of ice.~
+~
+15 68 0 0 0 0 0 0 0
+500 15 4220 0
+500 0 100.00
+#4290
+key twisted iron~
+a twisted iron key~
+A long iron key twisted into and odd shape lies on the ground.~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0
+1 10 30.00
+#4291
+test cloak~
+a testing cloak~
+Undefined~
+~
+11 4 0 0 0 1024 0 0 0
+0 0 0 0
+1 6000 100.00
+A
+19 20
+#4292
+test light~
+a testing light~
+Undefined~
+~
+1 4 0 0 0 262144 0 0 0
+0 0 -1 0
+1 6000 100.00
+A
+19 20
+#4293
+test bracelet~
+a testing bracelet~
+Undefined~
+~
+11 4 0 0 0 4096 0 0 0
+0 0 0 0
+1 6000 100.00
+A
+19 10
+$~

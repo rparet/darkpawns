@@ -1,0 +1,3100 @@
+#2501
+Standing on a Sandbar~
+   This is the western tip of a small sandbar at what looks like the entrance
+to a larger bay to the south. Although the sandbar is high enough to keep
+you dry, the sand itself is quite moist and is difficult to move through.
+~
+25 0 0 0 0 10
+D0
+~
+~
+0 0 2635
+D1
+~
+~
+0 0 2502
+D2
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2640
+S
+#2502
+Standing on a Sandbar~
+   You are on a narrow strip of sand which runs east-west. Further to the
+east you can see a wooden jetty which may have berthed one or two ships in
+its time. To the south, the calmer waters of a large bay look slightly more
+inviting than the ocean waves.
+~
+25 0 0 0 0 10
+D0
+~
+~
+0 0 2636
+D1
+~
+~
+0 0 2503
+D2
+~
+~
+0 0 2507
+D3
+~
+~
+0 0 2501
+S
+#2503
+Standing on a Sandbar~
+   Waves sweep forward from the surrounding ocean to the north but the
+sandbar you are on prevents any further travel to the south where you can
+see much calmer waters. You can travel to the east or west along the sandbar,
+south into the sheltered bay or north into the ocean waves.
+~
+25 0 0 0 0 10
+D0
+~
+~
+0 0 2637
+D1
+~
+~
+0 0 2504
+D2
+~
+~
+0 0 2508
+D3
+~
+~
+0 0 2502
+S
+#2504
+Standing on a Sandbar~
+   You stand at the eastern end of a small sandbar which stretches away to
+the west. You can walk onto an old looking jetty to the north but it doesn't
+look overly safe given its current condition of neglect.
+~
+25 0 0 0 0 10
+D0
+~
+~
+0 0 2638
+D1
+~
+~
+0 0 2641
+D2
+~
+~
+0 0 2509
+D3
+~
+~
+0 0 2503
+S
+#2505
+A Dense Jungle~
+   You emerge from the thickness to the south and the view before you leaves
+you breathless. Standing at the top of an 80-foot cliff, the world around
+you is amazing to say the least. Ocean waves crash against the cliff face
+to the west while the waters of the island lagoon lap calmly to the east.
+Behind you, the island you find yourself on is covered in all forms of
+plant-life which make travel look difficult.
+   Towards the southwestern corner of the island you can see a fairly large
+wooden structure but you have no idea on how you're going to get there.
+~
+25 0 0 0 0 4
+D2
+~
+~
+0 0 2511
+S
+#2506
+A Shallow Lagoon~
+   The sheltered waters of this lagoon are due in part to the sandbar to the
+north and an almost vertical cliff to the west. You can wade your way to the
+east or south into the lagoon if you wish.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2501
+D1
+~
+~
+0 0 2507
+D2
+~
+~
+0 0 2512
+S
+#2507
+A Shallow Lagoon~
+   The waters of this place are quite shallow and you walk easily on the
+sandy floor. The sandbar to the north prevents the ocean waves from having
+any effect while large cliffs to the west and east provide additional
+shelter.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2502
+D1
+~
+~
+0 0 2508
+D2
+~
+~
+0 0 2513
+D3
+~
+~
+0 0 2506
+S
+#2508
+A Shallow Lagoon~
+   You are now waist deep in the calm waters of this lagoon. It is quite
+temperate and you could certainly swim around in it to relieve the pressures
+of your travels. A sandbar to the north provides adequate protection from
+the ocean while cliffs further to the west and east shelter the lagoon from
+the harsh ocean winds.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2503
+D1
+~
+~
+0 0 2509
+D2
+~
+~
+0 0 2514
+D3
+~
+~
+0 0 2507
+S
+#2509
+A Shallow Lagoon~
+   You wade through the shallow waters of the lagoon and now have the choice
+of travelling to the west or south. If you wish to dry off, a small sandbar
+to the north offers some respite while a cliff face to the east stops you
+travelling in that direction.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2504
+D2
+~
+~
+0 0 2515
+D3
+~
+~
+0 0 2508
+S
+#2510
+A Jungle~
+   The view before you is absolutely breathtaking. Standing at the top of an
+80 foot cliff, the world around you is amazing to say the least. Ocean waves
+crash against the cliff face to the east while waters of the island lagoon
+lap calmly to the west. Behind you, the island you find yourself on is
+covered in all forms of plant-life and you imagine travel will be difficult
+in those areas.
+~
+25 0 0 0 0 4
+D2
+~
+~
+0 0 2516
+S
+#2511
+A Dense Jungle~
+   The ground slopes increasingly upwards towards the north and you now find
+yourself totally submerged in the jungle. You have the option of continuing
+to the north or to the south.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2505
+D2
+~
+~
+0 0 2517
+S
+#2512
+A Shallow Lagoon~
+   Steep cliffs to the east and south block your path and they are simply
+not suitable for climbing. The lagoon continues to the east and also to the
+north where you see a small sandbar.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2506
+D1
+~
+~
+0 0 2513
+S
+#2513
+A Shallow Lagoon~
+   The center of the lagoon offers a good view of the surrounding landscape;
+to the north lies a small sandbar which blocks the entrance from ocean waves,
+to the south the lagoon narrows as cliff faces converge at what looks like
+a beach while to the east and west the lagoon continues.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2507
+D1
+~
+~
+0 0 2514
+D2
+~
+~
+0 0 2519
+D3
+~
+~
+0 0 2512
+S
+#2514
+A Shallow Lagoon~
+   The center of the lagoon offers a good view of the surrounding landscape;
+to the north lies a small sandbar which blocks the entrance from ocean waves,
+to the south the lagoon narrows as cliff faces converge at what looks like
+a beach while to the east and west the lagoon continues.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2508
+D1
+~
+~
+0 0 2515
+D2
+~
+~
+0 0 2520
+D3
+~
+~
+0 0 2513
+S
+#2515
+A Shallow Lagoon~
+   Steep cliffs to the east and south block your path and they are simply
+not suitable for climbing. The lagoon continues to the west and also to the
+north where you see a small sandbar.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2509
+D3
+~
+~
+0 0 2514
+S
+#2516
+A Jungle~
+   The end of the path is not far from here, a few short steps further to
+the north. You are quite high above the surrounding waters now, the lagoon
+to the west and the ocean to the east - a fall from this height would surely
+be fatal.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2510
+D2
+~
+~
+0 0 2522
+S
+#2517
+A Dense Jungle~
+   It is difficult to imagine anyone having walked through this place before
+judging by the size of the grass, the overgrown bushes and the closely packed
+trees. You have to fight your way forward and the effort is tiring to say
+the least.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2511
+D1
+~
+~
+0 0 2518
+D2
+~
+~
+0 0 2524
+S
+#2518
+A Dense Jungle~
+   You emerge from the thick vegetation and almost plunge head first down
+a rocky cliff face. You stand overlooking the western edge of the lagoon
+which lies a fair distance below you. You have no option but to return to
+the jungle.
+~
+25 0 0 0 0 2
+D2
+~
+~
+0 0 2525
+D3
+~
+~
+0 0 2517
+S
+#2519
+A Shallow Lagoon~
+   A school of little fish passes close by and darts away at the last second
+to avoid hitting you. A small section of sand to the south offers a dry
+place to stand while the waters of this lagoon continue to the north and east.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2513
+D1
+~
+~
+0 0 2520
+D2
+~
+~
+0 0 2526
+S
+#2520
+A Shallow Lagoon~
+   You find it slightly difficult to walk in the lagoon given the sandy
+bottom and the waist deep water you are in. You can make your way slowly
+to the west or north to remain in the lagoon or to the south where a small
+beach offers a place to dry off.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2514
+D2
+~
+~
+0 0 2527
+D3
+~
+~
+0 0 2519
+S
+#2521
+A Jungle~
+   There is a small worn path here and it looks like someone or something
+has made an effort to keep the place clear of vegetation. You find yourself
+walking along a narrow ledge on top of a cliff, to the west lies the shallow
+waters of the lagoon while to the east the path continues.
+~
+25 0 0 0 0 4
+D1
+~
+~
+0 0 2522
+D2
+~
+~
+0 0 2528
+S
+#2522
+A Jungle~
+   You almost trip over a hidden rock and fall over the cliff edge to the
+east. Regaining your composure, you look out at the vast ocean which lies
+to the east and south. The path continues to the west and further upwards to
+the north.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2516
+D3
+~
+~
+0 0 2521
+S
+#2523
+A Dense Jungle~
+   The lushness of this area stops suddenly as you stand on the edge of a
+large cliff. The ocean lies before you to the west and waves crash against
+the cliff face with an almighty force. A narrow walkway exists to the south
+which appears to follow the ridgeline above the cliff and is free from the
+undergrowth which dominates the rest of the island.
+~
+25 0 0 0 0 3
+D1
+~
+~
+0 0 2524
+D2
+~
+~
+0 0 2529
+S
+#2524
+A Dense Jungle~
+   You stumble into a small clearing in the thick vegetation, a fruit tree of
+some sort grows in the middle. Some of the fruit lies on the ground and in no
+way looks edible, but there are still some pieces in the tree.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2517
+D1
+~
+~
+0 0 2525
+D2
+~
+~
+0 0 2530
+D3
+~
+~
+0 0 2523
+E
+forest~
+It's quite large really and dominates the small clearing.
+~
+E
+fruit~
+You look up at the fruit that hangs in the tree and decide it might be a
+little too dangerous to climb up there to get it.
+~
+S
+#2525
+A Dense Jungle~
+   The ground rolls gently as you make your way through the dense growth.
+It is quite thick in areas and at times you lose your direction and
+orientation, but you manage to push forward. There is a small sandy area to
+the east.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2518
+D1
+~
+~
+0 0 2526
+D2
+~
+~
+0 0 2531
+D3
+~
+~
+0 0 2524
+S
+#2526
+A Sandy Beach~
+   You make your way along a section of beach which also extends to the east.
+Water laps at your feet, a silent invitation to enter the lagoon to the
+north. Almost immediately to the west and south of here, a dense jungle blocks
+any view of what lies beyond.
+~
+25 4 0 0 0 10
+D0
+~
+~
+0 0 2519
+D1
+~
+~
+0 0 2527
+D2
+~
+~
+0 0 2532
+D3
+~
+~
+0 0 2525
+S
+#2527
+A Sandy Beach~
+   You make your way along a section of beach which also extends to the west.
+Water laps at your feet, a silent invitation to enter the lagoon to the
+north. A dirt path leads away to the south between overgrown patches of grass
+and plant-life.
+~
+25 4 0 0 0 10
+D0
+~
+~
+0 0 2520
+D1
+~
+~
+0 0 2528
+D2
+~
+~
+0 0 2533
+D3
+~
+~
+0 0 2526
+S
+#2528
+A Jungle~
+   You take a moment to survey the surrounds and are glad you are where you
+are. This area is actually quite tame while further to the south and over to
+the west, dense growth makes travel look difficult. A sandy beach can be
+reached to the west while the terrain here slopes gently upward towards the
+north.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2521
+D2
+~
+~
+0 0 2534
+D3
+~
+~
+0 0 2527
+S
+#2529
+A Dense Jungle~
+   A strong ocean breeze hits you in the face as you skirt the edge of this
+ridgeline, an almost vertical cliff face drops to the sea below. The island
+sounds alive with bird life but you can hear only their song, they are
+nowhere to be seen.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2523
+D1
+~
+~
+0 0 2530
+D2
+~
+~
+0 0 2538
+S
+#2530
+A Dense Jungle~
+   It doesn't matter where you look, all you can see is an overgrown
+collection of trees, bushes and other plant-life. The sound of the ocean is
+strong here, perhaps it is not that far away...
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2524
+D1
+~
+~
+0 0 2531
+D2
+~
+~
+0 0 2539
+D3
+~
+~
+0 0 2529
+S
+#2531
+A Dense Jungle~
+   You continue to trek up and down rolling hills, fighting your way through
+the thick vegetation that presents itself. Every direction looks exactly the
+same so you have the choice to travel any way you wish.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2525
+D1
+~
+~
+0 0 2532
+D2
+~
+~
+0 0 2540
+D3
+~
+~
+0 0 2530
+S
+#2532
+A Dense Jungle~
+   Each step you take brings you deeper and deeper into the jungle that
+grows all over the island. There is a more open area to the north but apart
+from that, you have no guide as to which way to travel.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2526
+D1
+~
+~
+0 0 2533
+D2
+~
+~
+0 0 2541
+D3
+~
+~
+0 0 2531
+S
+#2533
+A Narrow Dirt Path~
+   Head high grass quickly closes in around you as you make your way down
+the dirt path. It's certainly not impenetrable but perhaps if you were to
+follow the path you would have a better chance of getting out of this
+mess.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2527
+D1
+~
+~
+0 0 2534
+D2
+~
+~
+0 0 2542
+D3
+~
+~
+0 0 2532
+S
+#2534
+A Dense Jungle~
+   You once again disappear into the undergrowth and have trouble finding a
+way out! You quickly lose your bearings and must rely on instinct if you
+wish to leave this place.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2528
+D1
+~
+~
+0 0 2535
+D2
+~
+~
+0 0 2543
+D3
+~
+~
+0 0 2533
+S
+#2535
+A Dense Jungle~
+   You find yourself skirting the top of a ridgeline, a healthy drop to the
+ocean lies to the north and east. You can travel deeper into the dense
+vegetation if you wish but finding your way through it may prove to be
+difficult.
+~
+25 0 0 0 0 3
+D2
+~
+~
+0 0 2544
+D3
+~
+~
+0 0 2534
+S
+#2536
+A Jungle Clearing~
+   You stand on a solitary finger of land that juts northward into the
+ocean. To the south you can see a clearing in the jungle before the trees
+and undergrowth simply closes in and prevents you from seeing further. There
+is a single tree in the middle of the clearing that appears to have some
+arcane markings on it but you are unsure why.
+~
+25 262164 0 0 0 2
+D2
+~
+~
+0 0 2546
+E
+tree arcane~
+The markings are unfamiliar to you but as you look them over, they glow
+softly and you are filled with a sense of peace.
+~
+S
+#2537
+A Dense Jungle~
+   You find yourself skirting the top of a ridgeline, a healthy drop to the
+ocean lies to the north and west. You can travel deeper into the dense
+vegetation if you wish but finding your way through it may prove to be
+difficult.
+~
+25 0 0 0 0 3
+D1
+~
+~
+0 0 2538
+D2
+~
+~
+0 0 2548
+S
+#2538
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2529
+D1
+~
+~
+0 0 2539
+D2
+~
+~
+0 0 2549
+D3
+~
+~
+0 0 2537
+S
+#2539
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+   On a nearby tree, a crudely made spear has been impaled perhaps as a
+warning to keep away.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2530
+D1
+~
+~
+0 0 2540
+D2
+~
+~
+0 0 2550
+D3
+~
+~
+0 0 2538
+S
+#2540
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2531
+D1
+~
+~
+0 0 2541
+D2
+~
+~
+0 0 2551
+D3
+~
+~
+0 0 2539
+S
+#2541
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2532
+D1
+~
+~
+0 0 2542
+D2
+~
+~
+0 0 2552
+D3
+~
+~
+0 0 2540
+S
+#2542
+A Narrow Dirt Path~
+   This path looks well used and you wonder by whom. High grass lines the
+sides making travel off the path extremely difficult but not impossible.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2533
+D1
+~
+~
+0 0 2543
+D2
+~
+~
+0 0 2553
+D3
+~
+~
+0 0 2541
+S
+#2543
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2534
+D1
+~
+~
+0 0 2544
+D2
+~
+~
+0 0 2554
+D3
+~
+~
+0 0 2542
+S
+#2544
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 0
+D0
+~
+~
+0 0 2535
+D1
+~
+~
+0 0 2545
+D2
+~
+~
+0 0 2555
+D3
+~
+~
+0 0 2543
+S
+#2545
+A Jungle Clearing~
+   You begin to think you are not alone on this island after walking around
+in this jungle clearing. Someone has gone to great effort to ensure the
+vegetation does not intrude into this place, perhaps to keep the several
+rough-cut tombstones here clearly visible.
+   There is quite a steep drop to the north where the ocean waves crash
+forcefully into the cliff above which you now stand.
+~
+25 0 0 0 0 2
+D1
+~
+~
+0 0 2546
+D2
+~
+~
+0 0 2556
+D3
+~
+~
+0 0 2544
+E
+tombstones~
+You are unsure where the rock came from the make these, but they definately
+are tombstones and most likely mark a number of graves.
+~
+S
+#2546
+A Jungle Clearing~
+   The clearing extends as far as possible to the edge of the cliff which
+you now overlook. Gazing to the east, the wide expanse of the ocean opens
+before you and you realise the journey down would be both long and painful.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2536
+D2
+~
+~
+0 0 2557
+D3
+~
+~
+0 0 2545
+S
+#2547
+Along a Ridgeline~
+   You have reached the corner of a large wooden structure although you have
+no idea as to what lies inside as it is surrounded by an equally large wooden
+wall. You can travel along the western edge of the structure and this
+ridgeline to the south or enter the dense overgrowth to the east.
+~
+25 0 0 0 0 4
+D1
+~
+~
+0 0 2548
+D2
+~
+~
+0 0 2558
+S
+#2548
+A Dense Jungle~
+   You once again disappear into the undergrowth and have trouble finding a
+way out! You quickly lose your bearings and must rely on instinct if you
+wish to leave this place. The only guide you have is a wooden wall to the
+south which prevents you from moving in that direction.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2537
+D1
+~
+~
+0 0 2549
+D3
+~
+~
+0 0 2547
+S
+#2549
+A Dense Jungle~
+   You once again disappear into the undergrowth and have trouble finding a
+way out! You quickly lose your bearings and must rely on instinct if you
+wish to leave this place. The only guide you have is a wooden wall to the
+south which prevents you from moving in that direction.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2538
+D1
+~
+~
+0 0 2550
+D3
+~
+~
+0 0 2548
+S
+#2550
+A Dense Jungle~
+   You once again disappear into the undergrowth and have trouble finding a
+way out! You quickly lose your bearings and must rely on instinct if you
+wish to leave this place. The only guide you have is a wooden wall to the
+south which prevents you from moving in that direction.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2539
+D1
+~
+~
+0 0 2551
+D3
+~
+~
+0 0 2549
+S
+#2551
+A Dense Jungle~
+   You once again disappear into the undergrowth and have trouble finding a
+way out! You quickly lose your bearings and must rely on instinct if you
+wish to leave this place. The only guide you have is a wooden wall to the
+south which prevents you from moving in that direction.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2540
+D1
+~
+~
+0 0 2552
+D3
+~
+~
+0 0 2550
+S
+#2552
+A Dense Jungle~
+   You once again disappear into the undergrowth and have trouble finding a
+way out! You quickly lose your bearings and must rely on instinct if you
+wish to leave this place. The only guide you have is a wooden wall to the
+south which prevents you from moving in that direction.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2541
+D1
+~
+~
+0 0 2553
+D3
+~
+~
+0 0 2551
+S
+#2553
+A Narrow Dirt Path~
+   The dirt path continues to the north and south. The occassional bird call
+or rustling in the tall grass grabs your attention but you can't see
+anything unless it passes right in front of you.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2542
+D1
+~
+~
+0 0 2554
+D2
+~
+~
+0 0 2564
+D3
+~
+~
+0 0 2552
+S
+#2554
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2543
+D1
+~
+~
+0 0 2555
+D2
+~
+~
+0 0 2565
+D3
+~
+~
+0 0 2553
+S
+#2555
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+   There is a rustling noise to the east although with all of the thick
+grass and overgrown bushes, you're not sure what it is.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2544
+D1
+~
+~
+0 0 2556
+D2
+~
+~
+0 0 2566
+D3
+~
+~
+0 0 2554
+S
+#2556
+A Jungle Clearing~
+   The jungle simply stops to the west and south of here, this small area
+having been cleared by someone. A number of tombstones lie scattered around
+and you are careful to avoid walking between them...just in case...
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2545
+D1
+~
+~
+0 0 2557
+D2
+~
+~
+0 0 2567
+D3
+~
+~
+0 0 2555
+S
+#2557
+A Jungle Clearing~
+   The clearing extends as far as possible to the edge of the cliff which
+you now overlook. The jungle vegetation grows thicker to the south and you
+realize that eventually you will probably have to leave the relative space
+of this area and fight your way through it.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2546
+D2
+~
+~
+0 0 2568
+D3
+~
+~
+0 0 2556
+S
+#2558
+Along a Ridgeline~
+   You can make your way to the north or south along the ridgeline, the ocean
+thunders away below you to the west although to reach it would mean suicide
+from this height. The wooden wall parallels the ridgeline and you have no
+way of getting into the structure from here.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2547
+D2
+~
+~
+0 0 2569
+S
+#2559
+The Barracks~
+   You have a great view of the ocean to the west of the island through one
+of the holes in the building's walls. Fresh, salt air blasts your face with
+some force which is rather invigorating. Taking another deep breath, you
+can continue to the east or south.
+~
+25 8 0 0 0 0
+D1
+~
+~
+0 0 2560
+D2
+~
+~
+0 0 2570
+S
+#2560
+The Barracks~
+   You continue to wander between what remains of the furniture within
+the building. You may travel to the west, south or east.
+~
+25 8 0 0 0 0
+D1
+~
+~
+0 0 2561
+D2
+~
+~
+0 0 2571
+D3
+~
+~
+0 0 2559
+S
+#2561
+The Barracks~
+   The building appears to have been used as a mass sleeping and accomodation
+area. There must be at least a dozen beds, or remnants thereof, within this
+place.
+~
+25 8 0 0 0 0
+D2
+~
+~
+0 0 2572
+D3
+~
+~
+0 0 2560
+S
+#2562
+The Island Temple~
+   Icons have been carved into the wooden altar which is bare apart from a
+few bowls and what looks like a candlestick. There is enough room behind it
+for the temple priest to preach to the assembled congregation.
+~
+25 8 0 0 0 0
+D1
+~
+~
+0 0 2563
+D2
+~
+~
+0 0 2573
+D5
+~
+secret altar~
+2 2505 2646
+E
+Icons~
+These are holy symbols, depicting new life and salvation.
+~
+S
+#2563
+The Island Temple~
+   Although the temple is often considered a place of sanctuary, you get no
+such feelings of peace and safety here. It might just be your imagination
+but something in the back of your mind keeps you on guard. Stairs lead from
+here to the floor above.
+~
+25 8 0 0 0 0
+D2
+~
+~
+0 0 2574
+D3
+~
+~
+0 0 2562
+D4
+~
+~
+0 0 2643
+S
+#2564
+A Narrow Dirt Path~
+   The dirt path continues to the north and south of here. There is a large
+wooden wall to the west which prevents travel in that direction.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2553
+D1
+~
+~
+0 0 2565
+D2
+~
+~
+0 0 2575
+S
+#2565
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2554
+D1
+~
+~
+0 0 2566
+D2
+~
+~
+0 0 2576
+D3
+~
+~
+0 0 2564
+S
+#2566
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2555
+D1
+~
+~
+0 0 2567
+D2
+~
+~
+0 0 2577
+D3
+~
+~
+0 0 2565
+S
+#2567
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2556
+D1
+~
+~
+0 0 2568
+D2
+~
+~
+0 0 2578
+D3
+~
+~
+0 0 2566
+S
+#2568
+A Dense Jungle~
+   You find yourself skirting the top of a ridgeline, a healthy drop to the
+ocean lies to the south and east. You can travel deeper into the dense
+vegetation if you wish, but finding your way through it may prove to be
+difficult.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2557
+D3
+~
+~
+0 0 2567
+S
+#2569
+Along a Ridgeline~
+   You can make your way to the north or south along the ridgeline, the ocean
+thunders away below you to the west although to reach it would mean suicide
+from this height. The wooden wall parallels the ridgeline and you have no
+way of getting into the structure from here.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2558
+D2
+~
+~
+0 0 2579
+S
+#2570
+The Barracks~
+   It dawns on you that given the island is so isolated, that perhaps the
+inhabitants of this place were caretakers of some sort. It's obvious that if
+they indeed ever arrived here, then they have not been here for some time.
+You can continue to the north or east.
+~
+25 8 0 0 0 0
+D0
+~
+~
+0 0 2559
+D1
+~
+~
+0 0 2571
+S
+#2571
+The Barracks~
+   Although this room has definately been neglected, it has not been
+abandoned. There are fresh footprints in the dirt covered floor which 
+travel all around the room and leave via the entrance to the east.
+~
+25 8 0 0 0 0
+D0
+~
+~
+0 0 2560
+D1
+~
+~
+0 0 2572
+D3
+~
+~
+0 0 2570
+S
+#2572
+The Barracks~
+   You are in a run-down building that clearly shows the signs of age.
+Numerous holes are in the walls, the floor is covered in all manner of dirt
+and small plants have even begun to grow. What look like beds are scattered
+around the building.
+~
+25 8 0 0 0 0
+D0
+~
+~
+0 0 2561
+D2
+~
+~
+0 0 2582
+D3
+~
+~
+0 0 2571
+S
+#2573
+The Island Temple~
+   This structure has been set aside as a temple, a place to shelter from
+the elements and find redemption from a greater power than mortal man. Roughly
+cut pews have been carved from some of the many tree trunks on the island and
+an altar dominates the north-western corner of the room. Further to the
+northeast, a set of stairs leads to the floor above.
+~
+25 8 0 0 0 0
+D0
+~
+~
+0 0 2562
+D1
+~
+~
+0 0 2574
+D2
+~
+door~
+1 0 2583
+S
+#2574
+The Island Temple~
+   You take a moment and rest your weary bones on a nearby pew, giving you
+time to survey the temple. It certainly isn't as grand as the temples of
+Kir Drax'in or Aloazar but serves essentially the same purpose. To the north,
+a set of stairs disappears through the ceiling.
+~
+25 8 0 0 0 0
+D0
+~
+~
+0 0 2563
+D3
+~
+~
+0 0 2573
+S
+#2575
+A Narrow Dirt Path~
+   The dirt path continues to the north and south of here. There is a large
+wooden wall to the west which prevents travel in that direction.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2564
+D1
+~
+~
+0 0 2576
+D2
+~
+~
+0 0 2585
+S
+#2576
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+   You can just make out a narrow dirt path to the west and south of here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2565
+D1
+~
+~
+0 0 2577
+D2
+~
+~
+0 0 2586
+D3
+~
+~
+0 0 2575
+S
+#2577
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2566
+D1
+~
+~
+0 0 2578
+D2
+~
+~
+0 0 2587
+D3
+~
+~
+0 0 2576
+S
+#2578
+A Dense Jungle~
+   You concentrate very closely on making sure you don't fall down the
+cliff to the east, the ever-present jungle making that a difficult task.
+The trees literally grow right up to the edge and at times you have to hug
+them as you make your way along.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2567
+D2
+~
+~
+0 0 2588
+D3
+~
+~
+0 0 2577
+S
+#2579
+Along a Ridgeline~
+   You can make your way to the north or south along the ridgeline, the ocean
+thunders away below you to the west although to reach it would mean suicide
+from this height. The wooden wall parallels the ridgeline and you have no
+way of getting into the structure from here.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2569
+D2
+~
+~
+0 0 2589
+S
+#2580
+A Prison Cell~
+   The cell is very small and is in no way comfortable - although you would
+expect prisoners would not be afforded the luxuries of law abiding citizens.
+The eastern wall is made simply of iron bars which show the signs of
+corrosion, a likely effect of the sea air. A small window on the western
+wall, again with bars to prevent escape, allows you to view the vastness
+of the ocean which surrounds the island.
+~
+25 8 0 0 0 0
+D1
+~
+bars~
+1 0 2581
+S
+#2581
+A Narrow Passage~
+   The passage ends here with access to one of the three prison cells to
+the west. The remains of a chair have been scattered over the floor, the last
+occupant suffering the same fate. A crude spear hangs loosely out of the
+eastern wall.
+~
+25 8 0 0 0 0
+D2
+~
+~
+0 0 2591
+D3
+~
+bars~
+1 0 2580
+E
+occupant~
+This poor soul appears to have suffered a terrible death, his bones clearly
+broken and teeth marks are evident on his arms and legs. In a final insult,
+the skull has been seperated from the torso and crushed into small pieces.
+~
+S
+#2582
+A Small Walkway~
+   You have reached a T-junction, able to travel to the north, east or
+south. A structure to the north looks like it might provide some protection
+from the elements but given the huge holes in its walls and roof, you assume
+not much.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 2572
+D1
+~
+~
+0 0 2583
+D2
+~
+~
+0 0 2592
+S
+#2583
+A Small Walkway~
+   You pass two doors; one to the north and the other to the south. The
+remains of a paved walkway continue to the west and terminate in an open
+courtyard to the east. A number of stocks, some still with remains, line the
+sides of the walkway.
+~
+25 0 0 0 0 1
+D0
+~
+door~
+1 0 2573
+D1
+~
+~
+0 0 2584
+D2
+There is a very small structure to the south, but you'd have to go inside
+to look.
+~
+door~
+1 0 2593
+D3
+~
+~
+0 0 2582
+E
+stocks~
+Constructed of rotting wood and rusty iron, they would have kept prisoners
+restrained. Now, they are mere supports for the skeletons that remain.
+~
+S
+#2584
+A Paved Courtyard~
+   You stand at the entrance to a rather grand looking, if not run down,
+collection of wooden buildings shielded from the majority of island overgrowth
+by large walls. Cracked and mouldy cobblestones cover the ground, adding to
+the sense of decay which strikes you. To the east, open gates lead back into
+the wilderness while small walkways lead to the west and south.
+~
+25 0 0 0 0 1
+D1
+~
+~
+0 0 2585
+D2
+~
+~
+0 0 2594
+D3
+~
+~
+0 0 2583
+S
+#2585
+A Narrow Dirt Path~
+   You stand at a junction in a narrow dirt path that winds its way
+through the overgrowth to the north and east. Large trees and all manner of
+plant-life surround the path which would make travel difficult. There is
+a large, open gate to the west which allows entry into a paved courtyard.
+~
+25 4 0 0 0 2
+D0
+~
+~
+0 0 2575
+D1
+~
+~
+0 0 2586
+D2
+~
+~
+0 0 2595
+D3
+~
+~
+0 0 2584
+S
+#2586
+A Narrow Dirt Path~
+   The path weaves its way in and out of large clumps of vegetation and at
+times you think you have actually turned around and are heading the wrong
+way. You can continue along the path to the west or east.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2576
+D1
+~
+~
+0 0 2587
+D2
+~
+~
+0 0 2596
+D3
+~
+~
+0 0 2585
+S
+#2587
+A Narrow Dirt Path~
+   The path curves suddenly to avoid a large banana tree and you have the
+choice of moving along it to the west or south.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2577
+D1
+~
+~
+0 0 2588
+D2
+~
+~
+0 0 2597
+D3
+~
+~
+0 0 2586
+E
+banana~
+There are absolutely huge! The climate on this island allows for such fruit
+trees to grow quite easily. Unfortunately, you have no way of climbing up
+the tree to get any.
+~
+S
+#2588
+A Dense Jungle~
+   The thick vegetation gives way slightly, enough for you to see a narrow
+path to the west and the ocean expanse to the east. You could be mistaken,
+but there appears to be some type of wooden structure towards the southeast
+part of the island.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2578
+D2
+~
+~
+0 0 2598
+D3
+~
+~
+0 0 2587
+S
+#2589
+Along a Ridgeline~
+   You can make your way to the north or south along the ridgeline, the ocean
+thunders away below you to the west although to reach it would mean suicide
+from this height. The wooden wall parallels the ridgeline and you have no
+way of getting into the structure from here.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2579
+D2
+~
+~
+0 0 2601
+S
+#2590
+A Prison Cell~
+   The cell is very small and is in no way comfortable - although you would
+expect prisoners would not be afforded the luxuries of law abiding citizens.
+The eastern wall is made simply of iron bars which show the severe signs of
+corrosion. A skeleton has been nailed to the western wall, sharp metal spikes
+through its hands and feet.
+~
+25 8 0 0 0 0
+D1
+~
+bars~
+1 0 2591
+S
+#2591
+A Narrow Passage~
+   The passage continues to the north and south. The size of this place
+certainly would not allow many prisoners to be detained - perhaps the
+remoteness of the island is all that was intended for people sent here.
+~
+25 8 0 0 0 0
+D0
+~
+~
+0 0 2581
+D2
+~
+~
+0 0 2603
+D3
+~
+bars~
+1 0 2590
+S
+#2592
+A Small Walkway~
+   The cobblestones are slightly uneven as if something in the ground below
+was trying to force its way upwards. You can continue to the north or south,
+buildings either side of you preventing travel to the east or west. Although,
+given their state of decay, it's probably not that difficult to simply crash
+through the walls.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 2582
+D2
+~
+~
+0 0 2604
+S
+#2593
+A Sentry Post~
+   The structure is quite small and lacks any furnishings whatsoever. There
+is only the single exit to the north which can be closed off if the weather
+becomes too much. This place could only serve one purpose and that would be
+as some type of guard post, to monitor traffic into and out of the gates
+which are visible through a small window in the eastern wall.
+   Of course, now the post is nothing more than a few wooden planks strung
+together. Various forms of fungi grow on the walls and floor and the smell
+of decay floats in from all directions.
+~
+25 8 0 0 0 0
+D0
+There is a paved walkway out there.
+~
+door~
+1 0 2583
+S
+#2594
+A Small Walkway~
+   You pass between the wall and a ramshackle structure to the west. The
+semi-paved cobblestone walkway, in a severe state of disrepair, continues to
+the north and south. There is a roughly cut opening in the wall of the
+structure to the west.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 2584
+D2
+~
+~
+0 0 2606
+S
+#2595
+A Dense Jungle~
+   You hack and slash your way through the undergrowth, small insects buzzing
+around you. A wooden wall stretches high above your head to the west and
+you can hear what sounds like voices coming from the other side.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2585
+D1
+~
+~
+0 0 2596
+D2
+~
+~
+0 0 2607
+S
+#2596
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2586
+D1
+~
+~
+0 0 2597
+D2
+~
+~
+0 0 2608
+D3
+~
+~
+0 0 2595
+S
+#2597
+A Narrow Dirt Path~
+  The path slopes gently upwards to the south. Looking down, you can see
+many different sets of footsteps indicating the path is well travelled. You
+can hear what sounds like someone chopping a tree down but with the
+background noise you can't say which direction it's coming from.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2587
+D1
+~
+~
+0 0 2598
+D2
+~
+~
+0 0 2609
+D3
+~
+~
+0 0 2596
+S
+#2598
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2588
+D1
+~
+~
+0 0 2599
+D2
+~
+~
+0 0 2610
+D3
+~
+~
+0 0 2597
+S
+#2599
+A Dense Jungle~
+   The lushness of this area stops suddenly as you stand on the edge of a
+large cliff. The ocean lies before you to the north and waves crash against
+the cliff face with an almighty force. A narrow walkway exists to the west
+and the east which follows the ridgeline for a short distance.
+~
+25 0 0 0 0 3
+D1
+~
+~
+0 0 2600
+D2
+~
+~
+0 0 2611
+D3
+~
+~
+0 0 2598
+S
+#2600
+A Dense Jungle~
+   Your trek ends here overlooking a magnificient view of the ocean, its
+waves crashing into the base of the cliff upon which you stand. Looking down,
+several trees are actually growing horizontally from the cliff face providing
+good nesting places for sea birds.
+   To the south, you can just make out a narrow dirt path and what looks like
+a wooden gate.
+~
+25 0 0 0 0 3
+D2
+~
+~
+0 0 2612
+D3
+~
+~
+0 0 2599
+S
+#2601
+Along a Ridgeline~
+   You can make your way to the north or south along the ridgeline, the ocean
+thunders away below you to the west although to reach it would mean suicide
+from this height. The wooden wall parallels the ridgeline and you have no
+way of getting into the structure from here.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2589
+D2
+~
+~
+0 0 2613
+S
+#2602
+A Prison Cell~
+   The cell is very small and is in no way comfortable - although you would
+expect prisoners would not be afforded the luxuries of law abiding citizens.
+It has become something of a storeroom, shreds of clothing of crude weapons
+have been dumped on the floor. Decomposed bodies, or parts thereof, have
+been hung from the bars to dry.
+~
+25 8 0 0 0 0
+D1
+~
+bars~
+1 0 2603
+S
+#2603
+The Prison Entrance~
+   You stand at the southern end of a narrow passage which provides access
+to three prison cells on the western side of the building. A door to the
+east leads into a small walkway. The sounds of vermin scurrying away are
+everywhere, as is the dried blood and bones. The bars have long since rusted
+from the salt air and any piece of wood has become a haven for all forms of
+fungi.
+~
+25 8 0 0 0 0
+D0
+~
+~
+0 0 2591
+D1
+~
+door~
+1 0 2604
+D3
+~
+bars~
+1 0 2602
+S
+#2604
+A Small Walkway~
+   The rough walkway turns here and proceeds to the north and east. What
+remains of a door lies to the west, providing access to a larger building
+compared to those around it. The word "freedom" has been carved into the door
+with a crude instrument and the smell of death is very strong from within.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 2592
+D1
+~
+~
+0 0 2605
+D3
+~
+door~
+1 0 2603
+S
+#2605
+A Small Walkway~
+   The walkway twists and turns a little before continuing to the west and
+east between a structure to the north and the walls to the south. Jungle rot
+has set in over the years and the wood literally falls apart at your touch.
+Moisture is rich in the air and it's not long before you sweat profusely with
+the intense humidity.
+~
+25 0 0 0 0 1
+D1
+~
+~
+0 0 2606
+D3
+~
+~
+0 0 2604
+S
+#2606
+A Small Walkway~
+   The walkway curves here and you can continue to the north or west. The
+sound of the ocean calls to you from the distance and a number of bird calls
+add life to this place. Skeletons with shreds of clothing have been strung
+up on the southern wall, sharp wooden stakes still evident protruding through
+various parts of their once whole bodies.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 2594
+D3
+~
+~
+0 0 2605
+S
+#2607
+A Dense Jungle~
+   You use the wall to the west as a reference point to stop yourself from
+getting lost, which silly as it may sound is highly likely. The dense
+undergrowth surrounds you to the south, east and north.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2595
+D1
+~
+~
+0 0 2608
+D2
+~
+~
+0 0 2619
+S
+#2608
+A Dense Jungle~
+   Dense undergrowth surrounds you giving no clue as to which way you can
+travel to get out of here. Every direction looks exactly the same to you
+and a sinking feeling comes over you, almost a despair at having to even
+be here.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2596
+D1
+~
+~
+0 0 2609
+D2
+~
+~
+0 0 2620
+D3
+~
+~
+0 0 2607
+S
+#2609
+A Narrow Dirt Path~
+   The path curves here, continuing to the north and east. Bird calls taunt
+you from the thick vegetation either side of the path and the option to
+investigate is open to you.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2597
+D1
+~
+~
+0 0 2610
+D2
+~
+~
+0 0 2621
+D3
+~
+~
+0 0 2608
+S
+#2610
+A Narrow Dirt Path~
+   The sound of the ocean is strong here...you can almost feel the force of
+the waves as they strike the base of the island. The dirt path on which you
+stand travels east and west and it looks relatively well-used, but by whom you
+do not know.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2598
+D1
+~
+~
+0 0 2611
+D2
+~
+~
+0 0 2622
+D3
+~
+~
+0 0 2609
+S
+#2611
+A Narrow Dirt Path~
+   The path hugs a wooden wall to the south as it continues to the east and
+west. There appears to be some sort of gate further to the east and you can
+also make out a number of voices from the other side of the wall.
+~
+25 0 0 0 0 2
+D0
+~
+~
+0 0 2599
+D1
+~
+~
+0 0 2612
+D3
+~
+~
+0 0 2610
+S
+#2612
+A Narrow Dirt Path~
+   The dirt path ends abruptly at a set of wooden gates to the south. They
+are crudely made from a few of the many trees on the island, but certainly
+strong enough to keep someone or something out. Just a little further to the
+east lies the island's edge, a steep cliff preventing anyone except the
+insane from continuing in that direction.
+~
+25 4 0 0 0 2
+D0
+~
+~
+0 0 2600
+D2
+~
+gates~
+1 0 2624
+D3
+~
+~
+0 0 2611
+S
+#2613
+Along a Ridgeline~
+   You have reached the corner of a large wooden structure although you have
+no idea as to what lies inside as it is surrounded by an equally large wooden
+wall. You can travel along the western edge of the structure and this
+ridgeline to the north or enter a small clearing to the south.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2601
+D1
+~
+~
+0 0 2614
+D2
+~
+~
+0 0 2626
+S
+#2614
+Along a Ridgeline~
+   You can make your way to the east or west along the ridgeline. The ocean
+thunders away below you to the south, although to reach it would mean suicide
+from this height. The wooden wall parallels the ridgeline and you have no
+way of getting into the structure from here.
+~
+25 0 0 0 0 4
+D1
+~
+~
+0 0 2615
+D2
+~
+~
+0 0 2627
+D3
+~
+~
+0 0 2613
+S
+#2615
+Along a Ridgeline~
+   You can make your way to the east or west along the ridgeline. The ocean
+thunders away below you to the south, although to reach it would mean suicide
+from this height. The wooden wall parallels the ridgeline and you have no
+way of getting into the structure from here.
+~
+25 0 0 0 0 4
+D1
+~
+~
+0 0 2616
+D3
+~
+~
+0 0 2614
+S
+#2616
+Along a Ridgeline~
+   You can make your way to the east or west along the ridgeline. The ocean
+thunders away below you to the south, although to reach it would mean suicide
+from this height. The wooden wall parallels the ridgeline and you have no
+way of getting into the structure from here.
+~
+25 0 0 0 0 4
+D1
+~
+~
+0 0 2617
+D3
+~
+~
+0 0 2615
+S
+#2617
+Along a Ridgeline~
+   You can make your way to the east or west along the ridgeline. The ocean
+thunders away below you to the south, although to reach it would mean suicide
+from this height. The wooden wall parallels the ridgeline and you have no
+way of getting into the structure from here.
+~
+25 0 0 0 0 4
+D1
+~
+~
+0 0 2618
+D3
+~
+~
+0 0 2616
+S
+#2618
+Along a Ridgeline~
+   You can make your way to the east or west along the ridgeline. The ocean
+thunders away below you to the south, although to reach it would mean suicide
+from this height. The wooden wall parallels the ridgeline and you have no
+way of getting into the structure from here.
+~
+25 0 0 0 0 4
+D1
+~
+~
+0 0 2619
+D3
+~
+~
+0 0 2617
+S
+#2619
+Along a Ridgeline~
+   You can make your way to the east or west along the ridgeline, or to the
+north along a large wooden wall. This point appears to be the southeastern
+corner of a wooden structure within the walls, although you don't know where
+the entrance lies as the thick vegetation hides almost everything.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2607
+D1
+~
+~
+0 0 2620
+D3
+~
+~
+0 0 2618
+S
+#2620
+Along a Ridgeline~
+   You can make your way to the east or west along the ridgeline. The dense
+undergrowth, although not inviting, lies to the north.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2608
+D1
+~
+~
+0 0 2621
+D3
+~
+~
+0 0 2619
+S
+#2621
+Along a Ridgeline~
+   You can make your way to the east or west along the ridgeline. The dense
+undergrowth, although not inviting, lies to the north.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2609
+D1
+~
+~
+0 0 2622
+D3
+~
+~
+0 0 2620
+S
+#2622
+Along a Ridgeline~
+   You can make your way to the west along the ridgeline or fight your way
+through a patch of tall grass to the north. Your passage east is stopped by
+a large wooden wall while to the south, a hefty drop to the ocean makes
+you think twice.
+~
+25 0 0 0 0 3
+D0
+~
+~
+0 0 2610
+D3
+~
+~
+0 0 2621
+S
+#2623
+A Ramshackle Hut~
+   The hut has been constructed using materials from the forest: trees, long
+grass, leaves and bark. You can tell some time has gone into its creation,
+but it still looks as if it will fall down with the slightest of breezes.
+A number of human skulls hang from the western wall as if it were a trophy
+case.
+~
+25 8 0 0 0 0
+D1
+~
+~
+0 0 2624
+D2
+~
+~
+0 0 2628
+E
+skulls~
+They have been cleaned remarkably well although a number of them show signs
+of massive head trauma, most likely the cause of death.
+~
+S
+#2624
+An Enclosed Compound~
+   You stand at the entrance of a wide, open area enclosed within wooden
+walls. Someone has gone to a great effort to both clear this place of
+vegetation and ensure it remains clear. Ramshackle huts sit in the corners
+to the west, east and further away to the southwest and southeast. A narrow
+dirt path leads away to the north into the dense jungle.
+~
+25 0 0 0 0 1
+D0
+~
+gates~
+1 0 2612
+D1
+~
+~
+0 0 2625
+D2
+~
+~
+0 0 2629
+D3
+~
+~
+0 0 2623
+E
+walls~
+The wall is constructed of tree trunks, each end sharpened to produce a large
+spike perhaps to keep people from getting in.
+~
+S
+#2625
+A Ramshackle Hut~
+   The hut has been created with great care although looking at it, you
+wouldn't have realized that. It's rather ingenious really, the combination
+of natural materials used to create a haven from the elements. The other
+huts within the compound look very similar and can be approached to the
+west, southwest or south from here.
+~
+25 8 0 0 0 0
+D2
+~
+~
+0 0 2630
+D3
+~
+~
+0 0 2624
+S
+#2626
+A Clearing Above the Ocean~
+   You have an almost perfect 180 degree view to the south and can see that
+you are almost at the southern-most point of the island. Tracks lead to the
+north and east along a high ridgeline which skirts around a large wooden
+structure just near here.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2613
+D1
+~
+~
+0 0 2627
+S
+#2627
+A Clearing Above the Ocean~
+   You walk right up to the cliff edge and peer over...it's a fantastic view
+but you'd prefer to see it from up here than to watch it as you fall to the
+ocean waves below. The clearing continues to the west and a small track lies
+just north of here.
+~
+25 0 0 0 0 4
+D0
+~
+~
+0 0 2614
+D3
+~
+~
+0 0 2626
+S
+#2628
+An Enclosed Compound~
+   You skirt the western wall and have the choice of entering one of the huts
+to the north or south. Alternatively, you could walk around the compound
+further by moving to the east.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 2623
+D1
+~
+~
+0 0 2629
+D2
+~
+~
+0 0 2631
+S
+#2629
+An Enclosed Compound~
+   This is the center of the compound, an area that was perhaps used for
+storage at one time or another but now is home to some of the island
+inhabitants. This place is well travelled given the number of footprints on
+the ground and you think you can hear voices coming from the hut to the north
+west.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 2624
+D1
+~
+~
+0 0 2630
+D2
+~
+~
+0 0 2632
+D3
+~
+~
+0 0 2628
+S
+#2630
+An Enclosed Compound~
+   As you walk along the eastern wall, the sound of the ocean is quite
+strong. It's as if it lies beyond the wall itself, so perhaps it would be
+prudent not to get to close to the edge. You can enter one of the ramshackle
+huts to the north or south.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 2625
+D2
+~
+~
+0 0 2633
+D3
+~
+~
+0 0 2629
+S
+#2631
+A Ramshackle Hut~
+   At a bare minimum, the hut provides some protection from the elements, but
+not much else. You could never expect privacy since two of the four walls
+don't even exist. A few sleeping mats, made from the long grass that grows
+plentifully on the island lie around here.
+~
+25 8 0 0 0 0
+D0
+~
+~
+0 0 2628
+D1
+~
+~
+0 0 2632
+S
+#2632
+An Enclosed Compound~
+   You are careful not to get too close to the southern wall as the ground
+appears to be falling away and you known the ocean lies just beyond. You can
+enter one of two huts, either to the west or east or move back into the center
+of the compound to the north.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 2629
+D1
+~
+~
+0 0 2633
+D3
+~
+~
+0 0 2631
+S
+#2633
+A Ramshackle Hut~
+   The ground rumbles every few minutes, possibly due to the ocean waves
+which you can hear striking the island. You can see other huts to the west
+and north from here.
+~
+25 8 0 0 0 0
+D0
+~
+~
+0 0 2630
+D3
+~
+~
+0 0 2632
+S
+#2634
+On the Ocean~
+  You are floating above the turbulent surface of the ocean.  As you voyage
+across the sea's surface, you note your image below, fading with the eddies.
+A bit further to the south east, you notice what looks like a sandbar
+breaking the surface of the waves.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 22200
+D1
+~
+~
+0 0 2635
+D2
+~
+~
+0 0 2640
+D3
+~
+~
+0 0 22215
+S
+#2635
+On the Ocean~
+   Waves crash onto a sandbar just to the south of here. You have to fight
+the tow to remain where you are so perhaps it is best if you move on before
+you lose your strength.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 22201
+D1
+~
+~
+0 0 2636
+D2
+~
+~
+0 0 2501
+D3
+~
+~
+0 0 2634
+S
+#2636
+On the Ocean~
+   A large wave crashes down upon you and forces you beneath the surface.
+You twist and turn, not sure which way is up or in which direction you are
+travelling. You just manage to break the surface and gasp for air before
+another wave hits you - you catch a quick glimpse of what appears to be a
+sandbar to the south.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 22202
+D1
+~
+~
+0 0 2637
+D2
+~
+~
+0 0 2502
+D3
+~
+~
+0 0 2635
+S
+#2637
+On the Ocean~
+   You are being tossed around in the ocean waves and have the option of
+climbing onto a run-down dock to the east or clawing your way up a small
+sandbar to the south.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 22203
+D1
+~
+~
+0 0 2638
+D2
+~
+~
+0 0 2503
+D3
+~
+~
+0 0 2636
+S
+#2638
+A Rickety Jetty~
+   Perhaps in its day this may have been a suitable area for landing a ship.
+Now, the ocean has literally torn the jetty apart and what little remains
+does so out of spite! You can carefully move your way to the north or south
+along the jetty or plunge into the ocean to the east or west.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 2642
+D1
+~
+~
+0 0 2639
+D2
+~
+~
+0 0 2504
+D3
+~
+~
+0 0 2637
+S
+#2639
+On the Ocean~
+   The wide water spans across your perception, making you lose all sense
+of direction. You marvel at the schools of salmon that streak through the
+water as though they were birds coasting in the air. To the west, a rickety
+looking jetty breaks the ocean monotony.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 22204
+D1
+~
+~
+0 0 22216
+D2
+~
+~
+0 0 2641
+D3
+~
+~
+0 0 2638
+S
+#2640
+On the Ocean~
+   You are floating without direction on the surface of the water. As you
+float above the surface, waves crash into you, forcing you to pay attention
+to the water's motion. A sandbar breaks the surface of the ocean to the
+east while a vertical cliff face to the south prevents travel in that
+direction.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2634
+D1
+~
+~
+0 0 2501
+D3
+~
+~
+0 0 22226
+S
+#2641
+On the Ocean~
+   You are floating without direction on the surface of the water. As you
+float above the surface, waves crash into you, forcing you to pay attention
+to the water's motion. A sandbar breaks the surface of the ocean to the
+west while a vertical cliff face to the south prevents travel in that
+direction.
+~
+25 0 0 0 0 7
+D0
+~
+~
+0 0 2639
+D1
+~
+~
+0 0 22227
+D3
+~
+~
+0 0 2504
+S
+#2642
+A Rickety Jetty~
+   You stand on the end of a barely recognisable wooden jetty. Rotten ropes
+still remain tied to the support posts which are about the only thing holding
+the jetty together. You can travel along the jetty to the south where you
+can see a small sandbar or into the ocean in any other direction.
+~
+25 0 0 0 0 1
+D0
+~
+~
+0 0 22169
+D1
+~
+~
+0 0 22204
+D2
+~
+~
+0 0 22053
+D3
+~
+~
+0 0 22203
+S
+#2643
+Climbing the Staircase~
+   The stairs ascend a simple wooden bell tower and descend into a small
+temple below. The wind strength is obviously increasing since it is now
+making an audible noise as it buffets against the tower.
+~
+25 8 0 0 0 0
+D4
+~
+~
+0 0 2644
+D5
+~
+~
+0 0 2563
+S
+#2644
+Climbing the Staircase~
+   You are almost at the top of the tower, just another flight of stairs to
+climb. Unfortunately, you are not as close to the ground floor which offers
+relatively more safety than this old wooden structure. You can feel the
+tower sway with the wind and are concerned that it may not remain standing
+for too much longer.
+~
+25 8 0 0 0 0
+D4
+~
+~
+0 0 2645
+D5
+~
+~
+0 0 2643
+S
+#2645
+The Top of the Bell Tower~
+   You are offered a remarkable 360 degree view of the island and surrounding
+ocean. Rough waves crash into the cliff faces, an extensive reef preventing
+anything from coming remotely close to the island. There is, however, a
+sandbar on the northern side which would allow a ship to dock if it were
+careful enough.
+   You're almost blown from your vantage point by the now strong wind which
+cuts through your armor and clothes. The bell that hangs here is no more than
+a rusted shell, incapable of creating very much noise. Stairs are the only
+exit from the top of the tower.
+~
+25 8 0 0 0 0
+D5
+~
+~
+0 0 2644
+S
+#2646
+Beneath the Reliquery~
+   This is a rather small room but by church standards is adequate for the
+storage of religious items. It has been kept hidden and for good reason, the
+theft of these holy relics would prove to be a great loss to the temple priest.
+~
+25 269 0 0 0 0
+D4
+~
+altar~
+2 2505 2562
+S
+$~

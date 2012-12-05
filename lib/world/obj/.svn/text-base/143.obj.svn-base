@@ -1,0 +1,197 @@
+#14300
+flamberge sword~
+a large flamberge~
+A long, jagged-edged sword is laying here, in the dirt.~
+~
+5 268464640 0 0 0 8193 0 0 0
+0 4 5 3
+14 600 5.00
+A
+19 2
+#14301
+whip cat o nine tails cords handle~
+a cat-o'-nine-tails~
+A whip consisting of nine knotted cords fastened to a handle lays here.~
+~
+5 512 0 0 0 8193 0 0 0
+10 3 3 10
+4 300 25.00
+A
+19 3
+A
+6 -3
+#14302
+hammer war warhammer~
+a huge warhammer~
+A huge warhammer has been left here by some clumsy adventurer.~
+~
+5 20480 0 0 0 8193 0 0 0
+0 2 6 9
+15 700 10.00
+A
+19 3
+A
+14 -10
+#14303
+axe giant ogre~
+a giant, two-handed axe~
+A giant axe reflects your light from the ground here.~
+~
+5 268464962 0 0 0 8193 0 0 0
+0 4 6 3
+14 1000 15.00
+E
+axe~
+This is what the emperor of the ogres uses to keep the rest of the ogres in
+line, with this weapon, he slayed the previous occupant of his position and
+his entire clan.
+~
+A
+19 3
+A
+25 20
+#14304
+manacles set manacle~
+a set of iron manacles~
+A crude-looking set of iron manacles must have fallen off a slave here.~
+~
+9 16512 0 0 0 33 0 0 0
+10 0 0 0
+30 10 100.00
+A
+2 -5
+A
+14 -30
+#14305
+collar spiked silver~
+a silver-spiked collar~
+A large, silver spiked collar is here, gathering dust.~
+~
+11 257 0 0 0 5 0 0 0
+0 0 0 0
+3 600 25.00
+A
+1 1
+A
+2 -1
+A
+17 -3
+#14306
+silver heart~
+a giant, silver heart~
+A giant, silver heart lays here, beating.~
+~
+8 260 0 0 0 16385 0 0 0
+0 0 0 0
+7 800 15.00
+A
+6 5
+A
+17 3
+A
+13 15
+#14307
+fire beetle gland~
+a fire beetle gland~
+The glowing gland of a fire beetle lays here, emitting a strange, red aura.~
+~
+1 65541 0 0 0 16385 0 0 0
+0 0 10 0
+1 5 100.00
+#14308
+cluster eggs egg~
+a small cluster of eggs~
+A small cluster of eggs is here, waiting for something to hatch in.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#14309
+black dragon claw~
+black dragon's claw~
+The large claw of a black dragon is here.~
+~
+4 21121 0 0 0 16385 0 0 0
+15 17 8 75
+8 1100 10.00
+E
+claw black dragon~
+It's the left front paw of a large black dragon, it seems to have been
+preserved so that it wouldn't rot.
+~
+A
+19 1
+A
+23 -5
+#14310
+halberd~
+a halberd~
+A long, sharp halberd is here, collecting rust.~
+~
+5 28672 0 0 0 8193 0 0 0
+0 2 6 3
+13 200 25.00
+A
+18 3
+#14311
+ring wisdom stone stone~
+a small, stone ring~
+A small ring made of carven stone is here.~
+~
+11 257 0 0 0 3 0 0 0
+0 0 0 0
+1 300 10.00
+A
+4 2
+#14312
+sword troll~
+a troll sword~
+A short, clumsily-made sword is here, growing moss.~
+~
+5 12801 0 0 0 1 0 0 0
+0 3 3 3
+5 70 10.00
+A
+19 -2
+#14313
+pile corpse corpses~
+a pile of corpses~
+A large pile of corpses sits here, decomposing.~
+~
+15 16 0 0 0 0 0 0 0
+5000 0 -1 0
+750 10000 100.00
+E
+corpse corpses pile~
+Ewwww! It's a rotting pile of corpses, maggots crawling over everything
+along with other vermin. Not all the bodies are whole and some are missing
+limbs, or just have chunks missing where the ogres have ripped pieces out
+to eat.
+~
+#14314
+gilded ring~
+a gilded ring~
+A beautiful gilded ring sits here, yearning to be worn.~
+~
+3 32769 0 0 0 16387 0 0 0
+30 10 3 76
+1 1000 7000.00
+A
+6 2
+#14315
+wooden key~
+a wooden key~
+An ugly, wooden key sits here.~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0
+2 0 50.00
+#14316
+treasure~
+the ogres stash~
+The ogres stash of treasure is lying here.~
+~
+20 0 0 0 0 1 0 0 0
+571 0 0 0
+1 0 100.00
+$~

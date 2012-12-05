@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1437"
+   name=""
+   committed-date="2008-04-30T03:27:43.811158Z"
+   url="file:///var/svn/trunk/2.2/src/lua/doc"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1437"
+   name="lua.1"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="bc017bb4fbe78cc76c662a5b576bc42e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="manual.html"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="61013a59e95a78bdc94bd65a23813a97"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="readme.html"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="8214a078cc0fb8eebc121391035d2e74"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="luac.1"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="d8220372ee7b795e55ea65fd23ac2cee"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="logo.gif"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="22869dda5967bd1eb89589f40a4878c5"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lua.html"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="a8bd30e54a989891e1084d68c8612016"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="idx.html"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="84f9cf3c96bb261aa51f857efabf29cb"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="luac.html"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="dcca796e69ddb61dcd983076e5e2a0f8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="index.html"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="5c861dcaca0ac4f20aae3c5bced3e3da"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+</wc-entries>

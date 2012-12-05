@@ -1,0 +1,240 @@
+#3500
+anthropoid kuo-toa~
+a kuo-toa~
+A sleek, scaly anthropoid stands here with an offensive bearing.
+~
+The creature's face is elongated and fishlike, with thin, protective
+layers of skin that cover its elongated eyes. It moves with swift
+precision, and carries a vicious air.
+~
+16428 0 0 0 525384 0 0 0 0 E
+11 9 -1 11d5+120 7d4+7
+0 5000
+8 8 0
+BareHandAttack: 10
+Race: 26
+Noise: Something moves in the distance.
+E
+#3501
+Kuo-Metha Metha creature~
+Kuo-Metha~
+A sinewy, fishlike creature is sheathed here in biotic armor.
+~
+This massive hybrid seems to be more muscular than the average kuo-toa.
+Its marked, organic gear seems to signify the warrior class. This is an
+obvious veteran, for its body is marred and disfigured from many battles.
+~
+16424 0 0 0 1082440 0 0 0 0 E
+21 -1 -11 21d5+220 14d4+14
+0 15000
+8 8 0
+BareHandAttack: 10
+Race: 26
+E
+#3502
+brachyura crab creature~
+a brachyura~
+An abnormal, crablike creature scurries about, minding its duties.
+~
+With abnormally extended legs, and a tough, barbed shell, this crablike
+creature strikes you as being both mysterious and lethal.
+~
+16552 0 0 0 1088 0 0 0 0 E
+7 13 3 7d5+80 4d4+3
+0 2500
+8 8 0
+BareHandAttack: 8
+E
+#3503
+Kuo-Dun humanoid~
+Kuo-Dun~
+A seemingly laggard, yet stout humanoid stands here.
+~
+This short, stalky, humanoid resembles a dwarf. Its features are round
+and plump, yet its arms are massive and out of proportion with the rest
+of its body.
+~
+84008 0 0 0 33800 0 0 0 0 E
+21 -1 -11 21d5+220 14d4+14
+0 15000
+8 8 0
+Race: 26
+E
+#3504
+Kuo-Mythus Mythus~
+Kuo-Mythus~
+Kuo-Mythus, the unrelenting combatant, is protecting his species.
+~
+This tall, stealthy humanoid is marked as a warrior by his dull, organic
+armor. The makeshift blades that are fastened to the beast's forearms,
+and its sharp, capped teeth add to the already sinister presence of the
+militant kuo-toa.
+~
+2056 0 0 0 296008 0 0 0 0 E
+21 -1 -11 21d5+220 14d4+14
+0 15000
+8 8 0
+BareHandAttack: 3
+Race: 26
+Noise: You hear a faint groan in the distance.
+E
+#3505
+larva~
+a morbid larva~
+A morbid, large-jawed larva is awaiting its prey.
+~
+This creature resemlbes an oversized ant-lion with thick tentacles used
+for trapping its victims. The creature seems to be placed here for the
+purpouse of consuming the crablike creatures and then depositing their
+glowing fluids back into the earth via defecation.
+~
+16442 0 0 0 525312 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 10000
+8 8 0
+BareHandAttack: 6
+Race: 21
+E
+#3506
+kuo toan toa kuo-toa kuo-toan mother~
+kuo-toan mother~
+A livid, bulbous kuo-toan is guarding its eggs.
+~
+This strange female creature is somehow appealing in an odd,
+lustful way.  She is naked, revealing her alien, manifold entries,
+apparently designed for pleasure.
+~
+16442 0 0 0 1073742856 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+0 10000
+8 8 2
+BareHandAttack: 8
+Race: 26
+E
+#3507
+yuan-ti abomination snake ssyzyil~
+Ssyzyil, the Abomination~
+An enormous black man-snake lashes about here.
+~
+Until now, you though that yuan-ti existed only in books and the nightmares
+of children.  Indeed, Ssyzyil appears to be a living, breathing nightmare,
+his thirteen foot black-bloated body raising up before you.  His humanoid
+body from his torso up is equally black and bloated and covered in a
+mixture of skin and scales.  The abomination's face is dominated by black,
+lidless eyes which cannot conceal the rage that burns within him.
+Ssyzyil smiles at you, his mouth full of sharp fangs as well as more
+human looking teeth.
+~
+379128 0 0 0 140424 0 0 0 -1000 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 1
+BareHandAttack: 4
+Race: 13
+E
+#3568
+sound~
+a sound~
+A sound stands here.
+~
+It looks, err, unfinished.
+~
+16394 0 0 0 32768 0 0 0 0 E
+1 8 9 1d5+20 1d4+0
+0 100
+8 8 0
+BareHandAttack: 9
+Noise: The column to the south hums faintly.
+E
+#3569
+sound~
+a sound~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Noise: Steam is vented from a small hole above your head.
+E
+#3570
+sound~
+a sound~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+10 1d1+0
+0 0
+8 8 0
+Noise: A reflection dances on the column to the north.
+E
+#3571
+a sound~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Noise: The channel sways slightly.
+E
+#3572
+Ocean sound~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Noise: Waves crash into the fringe to the south.
+E
+#3573
+mob sound~
+sound mob~
+You hear a pounding sound.
+~
+You can see nothing, but can hear sounds of crashing waves.
+~
+245770 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 0
+8 8 0
+Noise: Violent waves bang into the fringe.
+E
+#3574
+a sound~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Noise: A school of fish flows by the observatory.
+E
+#3575
+a sound~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Noise: Something's moving in here.
+E
+$

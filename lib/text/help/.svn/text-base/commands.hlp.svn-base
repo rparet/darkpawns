@@ -1,0 +1,2284 @@
+! ^
+
+Use ! to repeat the last command typed at the keyboard.
+
+Use ^ to replace a string from the last command with a new string.  The
+syntax is the same as in unix: "^old-string^replacement"
+
+Examples:
+
+  > tell rasmusse Hi there, how are you?
+  No-one by that name here.
+
+  > ^rasmusse^rasmussen
+  You tell Rasmussen, 'Hi there, how are you?'
+
+  > ^you^you doing^
+  You tell Rasmussen, 'Hi there, how are you doing?'
+
+See also: ALIAS
+#
+ABILITIES
+
+Usage: abilities
+
+This command will display your current ability scores in the following
+format:
+
+   Your current ability scores: 
+    Strength:      (excellent)
+    Dexterity:     (decent)
+    Intelligence:  (decent)
+    Wisdom:        (fair)
+    Constitution:  (good)
+    Charisma:      (bad)
+
+There are not any numeric representations of ability scores on Dark Pawns.
+
+#
+AID FIRST "FIRST AID"
+
+Usage: aid <victim>
+
+Use this skill to help incapacitated friends. This only works on characters
+who are almost dead, however.
+
+See also: RANGER
+
+#
+AMBUSH
+
+Usage: ambush <victim>
+
+With their superior knowledge of the lay of the land, a Ranger can prepare a
+sneaky ambush for his enemies. You can only ambush someone where there is 
+enough cover to hide, of course.  If you can successfully ambush someone
+while staying hidden, you increase the damage dealt to them.
+
+See also: RANGER, HIDE
+#
+ALIAS ALIASES
+
+Usage: alias [alias name] [command]
+
+An alias is a single command used to represent one or more other commands.
+The ALIAS command can be used to manipulate your character's aliases.  Type
+ALIAS alone to see a list of your currently defined aliases.
+
+  > alias
+
+Type ALIAS <alias name> <command> to create a new alias.  The alias name must
+be one word.  The command can be any string.  Aliases may not be nested or
+used recursively.  Any command may be overridden by an alias (other than the
+ALIAS command itself, of course).
+
+  > alias gbb get bread bag
+  > alias gac get all corpse
+
+Type ALIAS <alias-name> to delete an alias that has already been defined.
+
+  > alias gbb
+
+A semicolon (";") can be used to define multiple actions to be taken with
+a single alias.
+
+  > alias eat get bread bag; eat bread
+
+Note that the 'eat' contained within the eat alias is interpreted as the MUD's
+internal eat command; aliases may not be nested or used recursively.  The
+variables $1, $2, ... $9 may be used to represent arguments given with
+an alias.
+
+Examples:
+
+  > alias killem cast 'fireball' $1; cast 'harm' $2
+  > killem fido mage
+
+Would cast fireball on fido, followed by casting harm on mage.  Variables
+may be used repeatedly and in any order:
+
+  > alias helpem cast 'heal' $1; cast 'bless' $1; cast 'armor' $1
+
+The special variable $* represents the entire input line after an alias:
+
+  > alias tr tell rasmussen $*
+  > tr hi there, how are you today?
+  You tell Rasmussen, 'hi there, how are you today?'
+
+See also: ! ^
+#
+ANSI COLOR
+
+Usage: color [off | sparse | normal | complete]
+
+If you have a color-capable terminal and wish to see useful color-coding
+of information, use the COLOR command to set the level of coloring you see.
+
+  > color off
+  This command disables all color.
+
+  > color sparse
+  > color normal
+  > color complete
+
+These three commands turn color on to various levels.  Experiment to see
+which level suits your personal taste.
+
+'color' with no argument will display your current color level.
+'color on' defaults to 'complete'.
+
+Using color will slow down the speed at which you see messages VERY slightly.
+The effect is more noticeable on slower connections.  Even if you have
+color turned on, non-colorized messages will not be slowed down at all.
+
+See also: COLORSPRAY, "COLOR SPRAY"
+#
+APPRAISE
+
+Usage	: appraise <object in inventory>
+Example	: appraise sword
+		  appraise 2.dagger
+
+A successful appraisal gives an item value within 20 or so coins.
+Unsuccessful appraisals can be much, much worse.
+
+#
+ASSIST
+
+Usage: ASSIST <person in need>
+
+If Quifael is being beaten senseless by a warg and you feel brave enough
+to help him, type ASSIST QUIFAEL to hit the warg.  Note that the warg will
+keep hitting Quifael; assist only makes you start to fight whomever the
+person you're assisting is fighting.
+
+  > assist Quifael
+
+See also: FLEE, KILL, RESCUE, WARRIOR, PALADIN, RANGER
+#
+AUCTION CHANNEL CHANNELS GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS
+
+Usage: auction <message>
+       gossip <message>
+       grats <message>
+       newbie <message>
+
+These are channels reserved for specific purposes.  Messages on these
+channels reach everyone who is monitoring them.  You must be at least level
+two to use these channels, except the newbie channel.
+
+To toggle a channel on and off, use the NONEWBIE, NOGOSS, NOAUC, etc. 
+commands.
+Usage: nonewbie
+       nogossip
+
+Examples:
+
+  > auction short sword -- minimum bid 100k
+  > gossip Hey, is that a short sword on your belt or are you happy to see me?
+  > grats LEVEL!!!!!!!!
+  > grats GRATS CATJE!!!!!!!!
+  > newbie Damn, where's the donation room?
+  > newbie Help me please, any high levelers listening?
+
+See also: EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT
+#
+AUTO LOOT SPLIT
+
+Usage: auto [ <option> ]
+
+When used alone, "auto" will show what handy automatic features you are
+using.  When used with an option (see down a few lines) it will toggle that
+option for you.
+
+The options available are:
+	exits		Show exits in room descriptions
+	loot		Strip the equipment, including gold, off a fresh kill
+	gold		Strip the gold off a fresh kill
+	split		Split the loot with your group
+
+Note: To use AUTO SPLIT, AUTO GOLD must be set.
+
+See also: TOGGLE
+#
+BACKSTAB
+
+Usage	: 	backstab <victim>
+
+Backstab is a way to sneak up on a person and attempt to place your dagger
+in his back, at exactly the point where it does most damage.  A successful
+backstab gives a damage multiplier, depending on level.
+
+The chance of successfully backstabbing a person depends on how well you have
+practiced backstab at your guild. Also, backstabbing a person will lag you
+for about two rounds of combat.
+
+See also: THIEF, ASSASSIN
+#
+BANK WITHDRAW DEPOSIT BALANCE
+
+Commands to take money out of the bank, put money in the bank, or see how
+much money you have in the bank.
+
+Examples:
+
+  > deposit 400
+  > withdraw 1000
+  > balance
+
+See also: GOLD, SCORE
+#
+BASH
+
+The success of a bash depends upon how well you are learned.  To bash someone
+is to attempt to 'knock' that person over.  If you succeed you will inflict
+minor damage, and cause the victim to fall on it's rear.  The victim will be
+unable to issue any commands for 2 rounds of violence.  If you miss you lose
+your balance and fall.
+
+A bash makes you unable to type commands for 2 rounds of violence.
+
+See also: KICK, RESCUE, WARRIOR, PALADIN, RANGER
+#
+BEARHUG
+
+Usage: bearhug <victim>
+
+By using this skill, the combatant can grab their adversary in a rib-breaking squeeze,
+slowing them down during combat.  Note that this also slows you down as well.
+
+See also: WARRIOR, PALADIN, RANGER
+#
+BEHEAD
+
+Usage:  behead corpse
+
+Lets you take home a trophy from your kill....
+Beheads the corpse of your fallen adversary and places it in your inventory.
+#
+BERSERK
+
+Usage: berserk
+
+Lose your control and let your battle rage take over... While berserking you 
+care less about your own safety, but inflict a barrage of damaging blows to 
+thy enemies.
+Berserking can only be attempted successfully once every two game hours
+(ticks).
+
+See also: WARRIOR, PALADIN
+#
+BITE
+
+Usage	:	bite <victim>
+
+In the case of vampires, this is a mere side-affect, as using the bite command
+to suck the blood of their victim is a common and natural thing, as the blood
+suffuses them with life and satiates their almost veracious appetites.
+
+See also: VAMPIRE WEREWOLF TRANSFORM
+#
+BRIEF
+
+Usage: brief
+
+Toggle "brief mode".  When in brief mode, you don't see the descriptions of
+the room you are in; only the name of the room and the people and objects
+there.  Unless you're very familiar with the area in which you're traveling,
+however, it is not advisable to use this command.  Frequently, you will find
+small but vital hints in the descriptions of the rooms: An extra peek at your
+surroundings could mean the difference between life and death!
+
+If you explicitly type 'look', you will always see the full room description,
+even in BRIEF mode.
+
+Looking into other rooms by typing LOOK [direction] will appear in 
+"brief mode" if brief is on.
+
+See also: COMPACT, LOOK
+#
+BUG TYPO IDEA
+
+Usage: bug <bug report>
+       idea <your new idea>
+       typo <that nasty typo>       
+
+For making useful suggestions and reporting problems to the Powers that Be.
+
+Examples:
+
+  > bug the entire game crashes when I type 'put bag in bag'
+  > idea make a restaurant in Kir-Oshi
+  > typo 'sence' should be spelled 'sense'
+
+There's no need to tell where the bug/typo is; We can tell what room you're in.
+
+ > typo there is no exit to the west here, but the descript says there is
+
+#
+BUY
+
+Usage: buy <item name>
+       buy #<item number>
+       buy n.<item name>
+       buy n <item name>
+       buy n #<item number>
+
+If you'd like to purchase an item from a shop and have the money, you can buy
+it.  Items can be bought by name, or by their number in the shop listing,
+and can be bought in quantity.
+ 
+Examples:
+ 
+  > buy sword        (buy the first sword on the list)
+  > buy #3           (buy the third item on the list)
+  > buy 4.sword      (buy the fourth sword on the list)
+  > buy 10 bread     (buy 10 pieces of bread)
+  > buy 10 #2        (buy 10 of the second item on the list)
+ 
+See also: LIST, SELL, SHOPS, VALUE
+#
+CARVE
+
+Usage:  carve corpse
+
+Lets you carve up some dinner off of certain dead mobiles.
+Typically, any type of animal should be able to be carved up for a nice tasty diner.
+
+See also: EAT, FOOD
+#
+CHARGE
+
+Usage: charge <victim>
+
+The charge is offensive move, used by a warrior to try to impale
+the victim. A successful charge deals a great deal of damage, the 
+only drawback being the recover-time from a charge is quite lengthy.
+
+See also: PALADIN
+#
+CIRCLE
+
+Usage	: 	circle <victim>
+
+Use this command to circle behind an opponent and stab him in the back. This
+is basically a form of backstab that can be used in battle but does less 
+damage.  You can only attempt to circle when you are not being hit.
+
+See also: BACKSTAB, THIEF, ASSASSIN
+#
+CLAN CLANS
+
+On Dark Pawns, CLANS are associations of players that have banded together
+for a specific purpose.  Most CLANS are made up of adventurers who have decided
+to work together for mutual gain.
+
+If you would like to form your own clan, you need to be over level 10 and enlist
+the aid of two other players (not multis) who are currently not in any other clans.
+After these requirements have been met, ask to speak to a God.  Additionally, there 
+is usually a minor quest or task involved in order to finalize the creation of your
+new clan.
+
+CLAN WHO Displays the names and ranks of fellow clan-members that are currently
+	 online.
+
+CLAN MEMBERS Displays all the members in your clan.
+
+CLAN STATUS Displays your current rank in your CLAN.
+
+CLAN INFO Displays all available information on a named CLAN (type CLAN INFO
+	  without any arguments to get a list of current CLANS).
+
+CLAN QUIT Allows you to leave your clan behind.
+
+CLAN APPLY Apply to join a named clan, but only if you meet their requirements.
+
+CLAN ENROLL Allows you to enroll players into your clan. Typing CLAN ENROLL
+            without any arguments shows a list of players who have applied to
+            join your clan.
+
+CLAN EXPEL Allows you to kick someone out of your clan. 
+
+CLAN PROMOTE Promote a player in your clan to a higher rank
+
+CLAN DEMOTE Demote a player in your clan to a lower rank
+
+CLAN WITHDRAW Make a withdrawal from the clan bank account
+
+CLAN DEPOSIT Deposit into the clan bank account
+
+CLAN SET RANKS Set the number of ranks in your clan
+
+CLAN SET APPFEE Set the application fee for people to apply for your clan
+
+CLAN SET DUES Set the required monthly dues for your clan members
+
+CLAN SET APPLEV Set the minimum level a player must be to apply to your clan
+
+CLAN SET PLAN Create a description of your clan for all to see
+
+CLAN PRIVATE Toggle whether or not your clan is private or public
+
+CLAN SET PRIVILEGE Set the privileges of the clan commands for clan members
+
+CLAN SET TITLE Set the title for each rank in your clan
+
+See also: CTELL
+#
+CLEAR CLS
+
+Clears the screen.
+Note that in most clients, this typically erases scrollback.
+
+#
+COMMANDS
+
+Usage: commands
+
+The COMMANDS command gives a canonical list of all the known verbs.
+
+Each command listed should have help available by typing "HELP <command>".
+
+See also: SOCIAL, SOCIALS
+#
+COMPACT
+
+Usage: compact
+
+This command toggles the extra blank line output to your screen after each
+command.  Useful if you have a small display.
+
+See also: BRIEF
+#
+COMPARE
+
+Usage	:	compare <item1> <item2>
+
+Compare two weapons, or two pieces of armor of the same type.
+Thieves and Assassins excel at this comparison, but everyone has a chance 
+of comparing accurately.
+
+See also: THIEF, ASSASSIN
+#
+CONSIDER
+
+Usage: consider <monster>
+
+This command gives a rough estimate of your opponent. Three things are 
+considered: Your enemy's strength, health, and level. So while they may
+be very powerful, and have be a much higher level, they may be almost
+dead, etc.
+
+Example:
+
+  > consider fido
+
+See also: HIT, KILL
+#
+CTELL
+
+Usage: ctell [ '#' ] <message>
+
+Use ctell to communicate privately with members of your clan that are
+currently online. Use ctell #<number> to send a message to all clan members
+ranked <number> and over.
+
+> ctell How is everyone today?
+> ctell #5 Shh, here is a secret message for you guys.
+
+See also: CLAN
+#
+CUTTHROAT
+
+Usage: cutthroat <victim>
+
+With the proper weapon, you can slit their throat, making it hard for them to 
+fight, heal, and generally making life hell until they are healed by magickal 
+means.
+
+See also: THIEF, ASSASSIN
+#
+DIAGNOSE
+
+Usage: diagnose [character]
+
+The DIAGNOSE command tells you how wounded a character looks.  If you are
+fighting someone, you can use DIAGNOSE with no arguments to diagnose the
+person you're fighting. This can be particularly useful if looking at your
+adversary has particularly nasty side effects.
+
+Examples: 
+
+  > diagnose
+  > diagnose rasmussen
+
+See also: CONSIDER
+#
+DISARM
+
+Usage: disarm
+
+Calling upon your skills, you attempt to disarm your opponent. Failed
+attempts are usually pretty messy.
+
+See also: RANGER, PALADIN
+
+#
+DISEMBOWEL
+
+Usage: disembowel <victim>
+
+An experienced vagabond can slice open the stomach of a victim with the 
+proper weapon, spilling their victim's guts everywhere. Performing this
+procedure is tricky, however, and usually takes some time.
+
+See also: THIEF, ASSASSIN
+#
+DISMOUNT
+
+Usage: dismount
+
+Used to get off of your favorite mode of transport.
+
+See also: MOUNT
+#
+DISPLAY PROMPT
+
+Usage: prompt < H | M | V | T | F | all | off >
+
+Modify your prompt to show your hit points, mana, and/or movement points.
+
+  > prompt hv          Display hit points and movement points
+  > prompt t           Display the status of the tank
+  > prompt f           Display the status of the person you are fighting
+  > prompt all         Display hit, mana, and move points, and status of tank
+                       and person you are fighting.
+  > prompt off         Return to normal prompt
+
+See also: TOGGLE COLOR
+#
+DONATE
+
+Usage: donate <object>
+       donate <number> coins
+
+
+This command takes an object that you no longer want and deposits it in the
+donation room of Kir Drax'in to assist newbies in getting started.  There is
+a 50% chance objects donated will wind up in a donation room in Kir Drax'in,
+a 25% chance objects donated will wind up in a donation room in Kir Oshi, and 
+a 25% chance the item will be junked.
+
+  > donate shield
+  > donate all.bread
+  > donate 500 coins
+
+See also: JUNK
+#
+"DRAGON KICK" DRAGON
+
+Usage: dragon <victim>
+
+The secret attack of the Hidden Dragon school of ninjitsu, this powerful
+upper body kick slams into the victim with devastating force, knocking 
+backwards and leaving them dazed.
+
+#
+DROP
+
+Usage: drop <item>
+       drop all.<item>
+       drop all
+       drop <number> coins
+
+If you lose interest in a carried item, you can drop it on the ground.
+You should always respect other players however and not leave your stuff 
+littering the ground.  To get rid of items, use JUNK or DONATE.
+
+  > drop bottle
+  > drop all.bread
+  > drop all
+  > drop 1000 coins
+
+See also: DONATE, GET, JUNK
+#
+EAT DRINK SIP TASTE
+
+Usage: eat <item>
+       taste [from] <item>
+       drink [from] <item>
+       sip [from] <item>
+
+If you're hungry or thirsty, these commands are for you!
+
+  > eat bread
+  > taste bread
+  > drink from cup
+> sip fountain
+
+#
+EMOTE :
+
+Usage: emote <message>
+       : <message>
+
+Show people what you're feeling.  The shorthand is ":".
+
+"emote <string>" will display your name, then the string.
+
+Example:
+
+If your name is "Helt",
+
+  > emote is feeling very sad today.
+
+will display:
+
+Helt is feeling very sad today.
+
+See also: SOCIALS
+#
+ENTER
+
+Usage: enter [place]
+
+If you type 'enter' while you are outdoors, you'll enter any nearby shelter.
+You can also follow 'enter' with an argument; for example, 'enter window', or
+'enter moongate'.
+
+#
+"ESCAPE OF THE MONGOOSE" ESCAPE
+
+Usage: escape
+
+A successful escape while fighting results in your leaving battle without
+losing the experience points that results from fleeing normally. If your WIMPY
+is triggered while fighting, there is a chance that you may automatically ESCAPE 
+instead of fleeing.
+
+See Also: FLEE, NINJA, WIMPY
+#
+EQUIPMENT
+
+Usage: equipment
+
+Gives you a list of all the equipment you're wearing, holding, and wielding.
+
+See also: INVENTORY, REMOVE, WEAR
+#
+EVASION
+
+This skill will allow you to evade anyone who is tracking you, there is no
+Command to type; just practice the skill.
+
+See also: NINJA, ASSASSIN
+
+#
+EXAMINE
+
+Usage: examine <thing to examine>
+
+May give you some valuable information about an item or monster.
+A little more detailed than LOOK.
+
+See also: LOOK
+#
+EXITS
+
+Usage: exits
+
+Gives you a list of the obvious exits from your location.  Of course, the less
+obvious ones won't show up here - you have to THINK in order to locate those.
+
+See also: AUTO, SEARCH
+#
+FILL
+
+Usage: fill <item> <object to fill from>
+
+If you want to fill a container you're holding with liquid from a fountain
+in the same room as you.
+
+Example:
+
+  > fill canteen fountain
+
+See also: POUR, DRINK
+#
+FINGER WHOIS
+
+Usage	: finger <player name>
+	  whois  <player name>
+
+Lists the level, class, name and title of <player name>, if they exist.
+#
+FLEE
+
+Usage: flee
+
+If you are in a fight and things are beginning to get a little uncomfortable
+(maybe you are dying), just type 'flee', and presto!  You are out of harms way
+- that is, IF there is a suitable exit nearby, and IF that exit doesn't simply
+bring you from the ashes to the fire... but then, who wants to live forever?
+
+Fleeing from battle will also cost you some experience points, but hey, thats
+what you get for wimping out.
+
+See also: WIMPY
+#
+FLESH ALTER "FLESH ALTER"
+
+Usage:	alter
+
+Flesh alter allows the mentalist to manipulate the molecules in their arm,
+hardening them into a weapon. While this skill is being used, no other weapon
+may be wielded. The weapon's stats:
+	tohit:(level/3)+1
+	todam:(level/2)+1
+
+Level  		Weapon
+-----		------
+1 - 3		club
+4 - 6		dagger
+7 - 9 	        axe (hand)
+10-12		mace
+13-15		flail
+16-18		axe (battle)
+19-21		axe (double-headed battle)
+22-24		morning-star
+25-27		sword (broad)
+28-29		sword (long)
+30		scythe
+
+
+See also: PSIONIC, MYSTIC
+
+#
+FOLLOW
+
+Usage: follow <leader>
+
+Use FOLLOW to automatically follow someone else.
+
+Examples:
+
+  > follow ras
+  > follow self
+
+See also: GROUP, SNEAK, SHADOW
+#
+GET TAKE
+
+"Get" and "take" are exactly the same and can be used interchangeably.
+
+Usage: get | take <object>
+       get | take all [object]
+       get | take all all.<object>
+       get | take all.<object> all.<object>
+
+If you find something interesting on the ground, you may use 'get' to pick
+it up. 'get' can also be used to extract items from containers.
+
+Examples:
+
+  > get sword corpse
+  > get all corpse
+  > get all all.bag
+  > get all.bread all.bag
+
+See also: DROP, PUT
+#
+GIVE
+
+Usage: give <object> <victim>
+       give <number> coins <victim>
+
+If you feel benevolent, you may give some stuff to someone in need.
+
+  > give all ras
+  > give bread doctor
+  > give all.bronze mirlen
+  > give 40000 coins nia
+#
+GLANCE
+
+Usage: glance <victim>
+
+Use GLANCE to get a rough estimate of how wounded your opponent is.
+
+See also: DIAGNOSE
+#
+GOLD
+
+Usage: gold
+
+Displays how much gold you have.
+Gold is the primary currency in Dark Pawns and can be used to buy
+services, goods, and bribes to city officials and religious institutions.
+
+See also: BALANCE, DEPOSIT, WITHDRAW
+#
+GRAB HOLD
+
+Usage: grab <object>
+       hold <object>
+
+For getting a good grip on something; a torch, for example.
+
+Examples:
+
+  > hold torch
+  > grab stone
+
+See also: EQUIPMENT, REMOVE, WEAR, WIELD
+#
+GROINRIP
+
+Usage: groinrip <victim>
+
+A popular street-fighting move, this dirty little trick leaves 'em puking 
+in the aisles. The victim can be male only, of course.
+
+See also: THIEF, ASSASSIN
+
+#
+GROUP
+
+Usage: group [player]
+       group all
+
+GROUP with no arguments shows the status of your group.  GROUP <player>
+adds or removes <player> from your group.  GROUP ALL adds everyone who is
+following you to your group.
+
+If you are a group member, then you will share experience points for killing
+monsters equally among the group.  Experience points will only be shared among
+group members that are in the same location, at the time of the killing
+blow.  Sharing is regardless of whether the group members have been
+participating in the fight.
+
+Group with no argument shows a list of people with whom you are grouped.
+"group all" groups all people who are following you.
+
+To make a group, a "leader" must be selected.  All members of the group
+must then "follow" the leader using the follow command.  The leader should
+NOT follow anyone at all!  The leader can now toggle group membership for
+each player in the group, by using "group <player_name>".  The leader
+should remember to include himself in the group.
+
+Example:
+
+  Quifael and Redferne wishes to group with Dragon.
+
+  Quifael : "follow dragon"
+  Redferne: "follow dragon"
+  (Dragon should be following no one but himself)
+  Dragon  : "group dragon"
+  Dragon  : "group redferne"
+  Dragon  : "group quifael"
+
+Later when Dragon get upset at Quifael (because he is sleeping all the time)
+he types : "Group Quifael" to kick Quifael out of the group.
+
+See also: EXPERIENCE, UNGROUP, XP
+#
+GSAY GTELL
+
+Usage: gsay <message>
+       gtell <message>
+
+Tell something to all the members of your group, even if they're not in the
+room.
+
+See also: GROUP, TELL, SAY
+#
+HEADBUTT
+
+Usage: headbutt <victim>
+
+Put the hurtin' on 'em! (But wear protection!)
+A successful headbutt can leave the victim reeling, as well as doing
+a nice amount of damage.
+
+See also: WARRIOR, PALADIN, RANGER
+#
+HELP ?
+
+Usage: help [command]
+       ? [command]
+
+Help searches for a partial match of the entered word, including any
+spaces that may follow the word.  Help alone will give a list of the
+most common commands in the game.
+
+Examples:
+
+  > help magic mis
+    will find the help text for the magic missile spell.
+
+  > help mag
+    will match 'magic user' or 'magic missile' depending on first
+    occurrence in the help file.
+
+  > ? help
+    will give you this help file
+
+See also: COMMANDS, SOCIALS
+#
+HIDE
+
+When you type hide there is a chance that you hide in the room.  If hidden
+you can only be "sensed" by the "sense life" spell.  Even if sensed your
+identity will remain hidden. If you perform any action while hidden, there 
+is a good chance that you will be discovered.  It is possible to do things 
+and remain hidden, however.
+
+See also: SNEAK, THIEF, ASSASSIN, RANGER
+#
+HOUSE
+
+Usage: house guest <player name>
+       house transfer <player name>
+          
+The HOUSE command is used to add or remove guests from your house's guest
+list.  You must be standing in your house to use this command.  Only the
+primary owner of a house (not guests) may change the guest list using the
+HOUSE command.
+
+The HOUSE command can also transfer ownership of the house from one player
+to another.  If you do this and wish to retain access to the house, make
+sure the transfering character is on the guest list before you transfer!
+
+Typing 'house guest' with no arguments gives a list of the people currently 
+on your house's guest list.  Typing 'house guest' with the name of a player 
+will add that player to your guest list if the player is not on the list, 
+or will remove the player from the guest list if the player is already on 
+the list.
+
+The player specified must be in the player database for the MUD, although
+he or she does not necessarily have to be logged on at the time.
+
+Guests of your house will be able to enter your house until you remove them
+from the guest list.
+
+See also: CASTLES, QUEST
+#
+INACTIVE
+
+Usage: inactive
+
+This command toggles your "inactive" status. While inactive, you don't get
+hungry or thirsty, but you don't heal or regenerate movement or mana, either.
+
+#
+INFO NEWS POLICY VERSION FUTURE
+
+These commands show you important information about Dark Pawns.  It is a good
+idea to read them every once in a while.
+
+   info     - useful information about the game for beginners
+   faq      - even more of the same useful information
+   news     - latest changes to the code and areas
+   policy   - policies on topics like player killing, multis, etc.
+   credits  - DikuMUD credits
+   version  - displays the current Dark Pawns release number
+   future   - what new things are coming down the line
+
+ See Also: INFOBAR
+#
+INFOBAR 
+
+
+Usage: infobar
+       infobar <on | off>
+
+This will allow a status bar to develop on your screen.  It assumes a
+24 lines by default screen.  Helpful information will be there instead
+of in your prompt.  It can be resized with the "lines" command.
+
+See also: LINES
+#
+INVENTORY
+
+Usage: inventory
+
+If you're uncertain about what you're carrying, or simply want to check
+that no thieves have got to your backpack.
+
+See also: EQUIPMENT, GRAB, HOLD, REMOVE, WEAR
+#
+JUNK
+
+Usage: junk <object>
+       junk <number> coins
+
+Use JUNK instead of DROP if you want to keep the world a little cleaner.  If
+you JUNK something, it will disappear and you'll get a few coins or experience
+points, just as if you had dropped it in the dump.
+
+Examples:
+
+  > junk cup
+  > junk all.bronze
+  > junk 500 coins
+
+See also: DONATE, DROP
+#
+KABUKI
+Usage	:	kabuki	
+
+Named after the ancient Oriental play-acting, this skill hides the user, if
+successful. You can only been sensed by the "sense life" spell, or seen by
+a thorough search (The seeker types "look at <your name here>", for example.)
+If you perform any actions while using kabuki, you will be discovered.  However,
+there is a small chance that you will be able to perform certain actions and 
+still remain hidden.
+
+See also: NINJA
+#
+KICK
+
+Usage: kick <victim>
+
+The first type of combat learned by a warrior.
+The success of a kick depends upon how well you are learned.  The higher
+level you reach the harder you kick. 
+
+See also: BASH, RESCUE, WARRIOR, PALADIN, RANGER
+#
+KILL HIT
+
+Usage: kill <victim>
+       hit <victim>
+
+A good way to start a fight.  Not a good idea to hit other players.
+
+See also: FLEE, WIMPY, PK, POLICY
+#
+KUJI-KIRI RIN KYO TOH SHA KAI JIN RETSU ZAI ZHEN
+
+Kuji-Kiri ("nine ways cutting") is a form of mystical meditation involving
+finger interlacing. The ninja is taught nine different ways to interlace
+his fingers, each with its own symbolic significance. By meditating on this
+gesture, the ninja can grant himself certain powers of a temporary (about 5
+game hours) nature.
+
+Power - Meaning                            - Affect
+-----   -------                              ------
+Rin   - "protection"                       - armors the ninja
+Kyo   - "direction of energy"              - performance in battle increases
+Toh   - "force and vulnerability"          - more power, less defense
+Sha   - "healing"                          - hit points increase
+Kai   - "the strength within"              - less power, more defense
+Zhen  - "endurance"                        - vitality increases
+Retsu - "mastery of time and space"        - ninja teleports 
+Zai   - "the mask of illusion"             - ninja becomes invisible
+Jin   - "regeneration"                     - increased healing
+
+Usage:  rin
+	  kyo
+	  toh
+	  etc....
+
+See also: NINJA
+#
+LEAVE
+
+Usage: leave
+
+If you feel claustrophobic, typing 'leave' will make you use the nearest
+obvious exit to the outside.
+
+See also: ENTER
+#
+LEVELS
+
+Usage: levels
+
+Lists the levels of your class and the experience required to attain each
+level.
+
+See also: CLASSES
+#
+LINES
+
+Usage: lines
+       lines <number>
+
+Allows you to set the number of lines you have to your screen.  It can
+range anywhere from 7 to 50 inclusive.  Without an argument, this
+command will tell you what your current screen is set at.  This number
+is only used in the infobar and OLC for immorts.
+
+See also: INFOBAR
+#
+LIST
+
+Usage: list [item type]
+
+If you'd like to see what items a shop has for sale, take a look at the
+list.  The list contains all of the items currently for sale and in
+what quantity.  The price for each item is also listed.  If you are
+interested in a particular type of item, you can specify which items to
+list.
+ 
+Examples:
+ 
+  > list             (list all items for sale)
+  > list sword       (list all swords for sale)
+ 
+See also: BUY, SELL, SHOPS, VALUE
+#
+LOOK
+
+Usage: look
+       look [in | at] [the] <item>
+       look <direction>
+
+For studying your surroundings.
+
+Examples:
+
+  > look                                      
+  > look AT the angel
+  > look IN the bag
+  > look south (May give some information as to what is south)
+
+Note that if you LOOK AT CORPSE you will not see its inventory.
+To see what's inside a container (i.e. a corpse) use LOOK IN <object>.
+
+Looking in directions will show you either a description of the door
+in that direction (if any), a generalized one line description of what
+lies in that direction, or the actual room itself.  Players may turn off 
+full room listings while using look [direction] by playing in BRIEF mode.
+
+See also: EXAMINE, GET, READ, TAKE, RACE, BRIEF
+#
+CHECK MAIL RECEIVE
+
+Usage: check
+       mail <person>
+       receive
+       
+The commands used by the Dark Pawns Mail System (DPMS) are MAIL, CHECK, and
+RECEIVE.  These commands can only be used while in an Official DPMS Post
+Office.  You must be at least second level in order to use the DPMS.
+
+Examples:
+
+  To check and see if you have any mail waiting:
+  > check
+
+  To write mail to Niandra:
+  > mail Niandra
+
+  To ask the Postmaster to give you your mail, if you have any waiting:
+  > receive
+
+Stamps cost 25 coins.
+
+#
+MOTD
+
+Usage: motd
+
+Displays the message of the day.  Contains important information
+regarding the status of the MUD.  You should be sure to read it
+when you login.  If you miss it at login, just use this command!
+
+See also: INFO, NEWS
+#
+MULTI MULTIPLAY MULTI-PLAY
+
+Dark Pawns has been designed to be a challenging mud.  Because of this, 
+Playing only one char who doesn't group with other players will prove to
+be tough. At first, a solo player should be able to do fine by themselves.
+However, it will take some time to level and earn decent equipment. Once 
+you get into the mid levels though, going solo might prove to be extremely
+difficult. A level 1 player fighting a level 1 mob is about even.  A level
+15 player fighting a level 15 mob doesn't probably stand a chance.
+
+Because some players prefer to adventure alone, we have instituted a policy
+Of multi-playing in order to offset this somewhat. Each player may have a 
+Total of 3 characters at any given time. More than three players is not 
+tolerated and will be severely punished when caught (I think this policy is 
+More than generous, why push it?) Please note, linkdead characters that are 
+still in game count towards your three multis. Log 'em out if you aren't 
+using them.
+
+Finally, if you don't know about mud-clients:
+you should look into them. In a nutshell, mud-clients are front-end 
+programs that allow you to manage aspects of mudding much easier, including
+multi characters. Ask a high level player about them or search them out on 
+the web. Three popular ones are Tintin, Tinyfugue(both for UNIX shell accounts) 
+and Zmud (Windows based). Please do not bother the Imms and Gods about mud
+clients!
+
+#
+MURDER
+
+Usage: murder <victim>
+
+Kill command to hit another player.  To avoid accidental flagging (i.e.
+trying to type "kiss Nia" but accidentally typing "kill Nia").
+
+See also: FLAGS, PK
+#
+NECKBREAK
+
+Usage: neckbreak <victim>
+
+The trained master of ninjitsu can execute a one-time attempt to break his
+victims neck quickly.  Success deals nearly lethal damage to the victim, 
+failures are usually quite messy.
+
+#
+NEWBIE
+ 
+Newbie is a term used to describe people who are new to MUDding, and sometimes
+just one particular MUD. As a newbie you start out with a few choice pieces
+of equipment and enough food to last until you gather enough money to buy
+more. The INFO and POLICY commands will tell you the rules and basics of
+Dark Pawns, and the NEWS file will keep you updated on various added features.
+Also, check out help FAQ, which has the answers to some of frequently asked
+newbie questions.
+
+You will start out in the Temple of your home town.  The first thing you should
+do is find your GUILD and PRACTICE your starting skills.  After that, investigate
+the training areas available in your city.  The Guard Barracks in Kir Drax'in is
+one of the best places to start.  Once there you will be able to kill things for
+EXPERIENCE so you can gain levels and become more powerful.
+
+Renting here is free, but only in certain areas, the main one being the Temple
+and Altar in the city of Kir Drax'in. The HELP MAP file will show you a map of
+Kir Drax'in, and the locations of all the stores, guilds and sub-areas within.
+
+Once you get on your way, you'll probably want to check out information on
+MULTIplaying, which the mud is designed for.
+
+See also: FAQ, NEWS, POLICY, MULTI, MAP, CLASSES, RACES
+#
+NOREPEAT
+
+Usage: norepeat
+
+This command toggles whether or not you see your communication echoed
+back to you (i.e., from commands such as SAY, SHOUT, HOLLER, GOSSIP, etc.)
+Useful if you have a slow connection or if it just annoys you.
+
+See also: TOGGLE
+#
+NORTH SOUTH EAST WEST UP DOWN
+
+Usage: north
+       south
+       east
+       west
+       up
+       down
+
+To travel in a given direction. To see directions available for travel, 
+use EXITS or better yet AUTO EXIT.
+
+See also: EXIT, AUTO
+#
+NOSHOUT
+
+Usage: noshout
+
+NOSHOUT toggles whether or not you hear shouts.  (deaf) will appear after
+your name in the WHO list.
+
+See also: FLAGS, HOLLER, SHOUT, TOGGLE, WHO
+#
+NOSUMMON
+
+Usage: nosummon
+
+When nosummon is on, players and monsters can not summon you easily. T
+his does NOT mean you are totally protected against summoning, however.
+
+See also: SUMMON, TOGGLE
+#
+NOTELL
+
+Usage: notell
+
+Use NOTELL if you wish to prevent other players from using "tell" to
+communicate with you.  (notell) will appear after your name in the WHO
+list if you have notell on.
+
+See also: FLAGS, TELL, TOGGLE, WHO
+#
+OFFER RENT
+
+Usage: offer
+       rent
+
+ RENT has been disabled. See QUIT.
+ If you have an item that is !RENT, it will disappear when you quit.
+
+ RENT files time out with inactivity.  Normal rent files (where you QUIT 
+ normally) will timeout and be deleted after 30 real life days of inactivity.
+ This means that if you do not log into the mud every month, your items will
+ be deleted.  In the event of a crash save or idle save, the timeout period
+ is 10 days.  If for some reason the mud goes down for more than 10 days,
+ these restrictions may be lifted.
+
+#
+OPEN CLOSE LOCK UNLOCK
+
+Usage: open | close | lock | unlock <door> [direction]
+
+To open, close, lock, and unlock doors, of course.
+
+Examples:
+
+  > open portal
+  > lock door
+  > unlock door south
+  > close gate
+
+See also: ENTER, LEAVE
+#
+ORDER
+
+Usage: order <character> <command>
+       order followers <command>
+
+Used for ordering pets and charmed people to do your evil bidding.  You
+can order everyone under your command with "order followers".
+
+Examples:
+
+  > order puppy eat bread
+  > order cityguard sleep
+  > order followers kill Link
+
+See also: CHARM
+#
+PALM
+
+Usage	:	palm <item in room>
+
+Used for getting an item without getting noticed. A successful palm of an
+item lets you acquire it (to your inventory) with no one noticing. A 
+failed palm is just like a normal "get <object>". 
+
+Only items in the room can be palmed, not objects in containers. The 
+Smaller the object, the easier it is to palm.
+
+See also: STEAL
+#
+PARRY
+
+Usage: parry
+
+Used to strike a defensive stance and parry (counter) the attacks of your
+opponent. Most effective on opponents with multiple attacks. A successful
+parry will counter one of your opponents attacks.  A higher dexterity means
+that more of your opponent's attacks will be countered.
+
+Parry is sometimes automatic once you have learned the skill.  It occurs 
+reflexively in combat, with greater skill providing more frequent parries.
+
+See also: WARRIOR, PALADIN, RANGER
+#
+PEEK
+
+Usage: peek <victim>
+
+When being caught staring could be bad for your health, peek lets you size
+up your victim without being noticed. A failed peek is just like a normal
+"look <victim>"; however it's hard to tell if you're noticed. (Unless of 
+course, they start pounding on you.)
+
+See also: THIEF, ASSASSIN
+#
+"PICK LOCKS" LOCKS LOCKPICKS PICKS
+
+Usage: pick <lock name> [direction]
+
+For picking locks.  Not all locks can be picked. Those that can require a
+set of held lockpicks. Lockpicks can be found in most major cities and are
+usually very cheap. (Unfortunately, the quality is usually the same as the
+price.) As your experience picking locks grows, the chance of mangling your
+lockpicks lessens.
+
+Examples:
+
+  > pick door south
+  > pick safe
+
+See also: OPEN, CLOSE, LOCK, UNLOCK
+#
+POINT
+
+Usage:  point
+	point <victim>
+	point <object>
+	point <direction>
+
+Used for... pointing things out.
+Remember what your mother said however... its not nice to point.
+#
+POUR
+
+Usage: pour <from container> <to container>
+       pour <from container> out
+
+If you want to pour some liquid from one container to another.  Pouring
+out simply empties the contents of the container onto the ground.
+
+Examples:
+
+  > pour canteen cup
+  > pour cup out
+
+See also: FILL, DRINK
+#
+PRACTICE PRACTICE TRAIN
+
+Usage: practice [skill or spell name]
+
+Practice is the way you improve your spells and skills.  You can only do
+so in your guild, where your guildmaster can help you train.  Type
+"practice <skill>" to improve your abilities while in your guild.  You can
+only practice a certain amount for each level you gain.  Unused practice
+sessions will accumulate for use in future levels.
+
+If you type practice anywhere other than in your guild, you will get a 
+List of all of the spells and skills you know and your level of proficiency
+At each. For spells, you also get your current mana cost to cast them.
+
+Everyday use of certain skills also improves them.
+
+Practice sessions are gained when you level, and based on your wisdom. The
+amount you learn in each session is based on your intelligence.
+
+See also: CLASSES
+#
+PUT
+
+Usage: put <item> <container>
+       put all.<item> <container>
+       put all <container>
+
+For putting items into containers.
+
+Examples:
+
+  > put bread bag
+  > put all.bread bag
+  > put all chest
+
+See also: GET
+#
+SCOUT
+
+Usage: scout <direction>
+
+Rangers are superior scouts, and they can use their scouting abilities to
+determine what lies in a specific direction.  This can be useful in finding
+difficult to track persons, as well as assessing the size of an enemy force
+and avoiding certain natural pitfalls.
+
+See also: RANGER
+#
+SEARCH SECRET DOORS DOOR DETECT
+
+Usage: search    
+
+Using this command, an adventurer calls upon his skills in detection,
+Surveying every inch of the room for a secret door or hidden entrance.
+Classes that excel in this ability are Thieves, Assassins, and Rangers.
+Elves also have an uncanny knack of being able to spot secret entrances.
+
+See also: THIEF, ASSASSIN, RANGER
+#
+SHARPEN
+
+Usage:	sharpen <bladed weapon>
+
+This skill works only on bladed weapons of a certain quality. 
+Magickal blades can not be sharpened. Sharpened blades do more damage.
+
+See also: RANGER, PALADIN
+#
+SHOOT BOW ARROW
+Usage: shoot <projectile name> <direction> <target name>
+
+Example: shoot arrow east janitor
+         shoot quarrel up anybody
+      
+You must be wielding a missile weapon, such as a bow, and carrying the 
+projectile. You can't shoot while fighting. If the <target name> is not
+found in the room to the <direction>, your projectile will fly toward 
+the first creature in the room.
+
+#
+SLEEPER
+
+The legendary sleeper hold. Just grab your opponent by the neck and soon
+its sleepy time for them. Zzzzz.
+
+Note: sleeper works best on humanoid-types and some people may be too big
+or too strong to knock unconscious using this method. Also, you must be 
+bare-handed to sleeper someone.
+
+See also: WARRIOR, PALADIN, RANGER
+#
+SPIKE STAKE
+Usage: SPIKE <werewolf name>
+       STAKE <vampire name>
+
+You must be holding the correct spike or stake for your form of beastly
+target, and it must be done while the target is in beastly form.
+A failed save throw by the beast results in immediate, painful
+death and loss of beastliness. Do not pass go, do not collect $200.00.
+
+See also: WEREWOLF, VAMPIRE
+#
+SUBDUE
+
+Usage: subdue <victim>
+
+When you don't want to kill them (right away), subdue them. This command,
+When executed successfully, leaves the victim stunned and unable to move 
+until the next tick of the game clock. A successful subdue maneuver leaves
+the victim unknowing who subdued them.
+
+See also: THIEF, NINJA, ASSASSIN
+#
+QSAY
+
+Usage: qsay <message>
+
+To tell something to everyone on the current Quest.
+
+See also: QUEST
+#
+QUAFF POTION POTIONS
+
+Usage: quaff <potion>
+
+Quaff is used to "drink" a (magical) potion.  The magic will take effect
+immediately, for better or for worse...
+#
+QUEST
+
+Usage: quest
+
+This simple toggle command merely informs the Powers that Be that you
+wish to participate in the currently running Quest.  If an immortal
+is running a Quest and needs to know who wishes to participate, he/she
+will ask players to turn on their Quest flags using this QUEST command
+if they are interested in the Quest.  It also allows you to listen in on
+the quest channel and receive information specific to the quest.
+
+See also: QSAY
+#
+QUI SHUTDOW
+
+Just to prevent accidental quittings and/or shutdowns.
+This command doesn't DO anything, it simply is.
+
+See also: QUIT
+#
+QUIT
+
+When you get tired of playing, you can leave the game by typing 'quit'.
+There is no RENT on Dark Pawns. Your equipment is saved as long as you 
+quit out in a safe area.  To see a list of how long your equipment is 
+saved for, type HELP RENT.  
+
+Again, to keep your items, you must quit in the safe area in your hometown. 
+The safe areas are the Temple of the Unholy in Kir Drax'in, The public temple 
+in Kir-Oshi, and the ziggurat in Alaozar.
+
+If you have to type REALLYQUIT to leave the game, your items did not save,
+and were dropped on the ground in the room you quit out in.
+
+See Also: HOMETOWN, RECALL, WORD OF RECALL, RENT, REALLYQUIT
+#
+RECHARGE RECHARGER
+
+Find the recharger and he will recharge your staves and wands, 
+for a price.  Recharging decreases the max charges for the object.
+The recharger himself has more info on the subject.
+
+#
+RSAY
+Usage: rsay <sentence>
+
+Rsay (race-say) lets you speak in your own native tongue. Those 
+not of your race see a gibberish-type message. Careful.. this message
+IS decipherable.
+
+See also: RACE
+#
+READ
+
+Usage: read <object>
+       read <board message number>
+
+When you want to read something.
+
+READ is also used to read messages on bulletin boards; type HELP BOARDS
+for more information.
+
+Example:
+
+  > read note
+
+See also: BOARDS
+#
+REALLYQUIT
+
+Use this command if you really want to quit and lose all your equipment.
+It will fall to the ground and will not be on your character when you 
+re-enter the game. To quit and keep your equipment, see help on QUIT.
+
+See also: QUIT
+#
+RECALL
+
+Usage: recall
+
+For new players, this command will send you to the Temple of the Unholy in the 
+main town of Kir Drax'in.
+
+See also: "WORD OF RECALL", QUIT, HOMETOWN
+#
+RECITE SCROLL SCROLLS
+ 
+Usage: recite <scroll> [Target]
+ 
+Is used to "read" a magical scroll.  Target can be an object, character or
+nothing (which defaults to yourself). When read, scrolls will dissolve. Some 
+scrolls may contain more than one spell.
+
+IMPORTANT NOTE: Recall scrolls *cannot* be used during combat. You *must* be
+out of battle to use a recall scroll.
+ 
+See also: SPELLS, MAGICK
+#
+REMOVE
+
+Usage: remove <item>
+       remove all
+       remove all.<keyword>
+
+If you tire of wearing some armor or wielding a weapon, remove it.
+
+Examples:
+
+  > remove boots
+  > remove sword
+  > remove all
+  > remove all.bronze
+
+See also: GRAB, HOLD, WEAR, WIELD
+#
+REPLY .
+
+Usage: reply <message>
+	or
+       . <message>
+
+This command will send a reply to the last person to send you a message
+using TELL.  It works just as if you had typed 'tell <player> <message>'
+but makes it a bit easier.  It can also be very useful in case someone
+invisible sends you a message.
+
+Example:
+
+Ras tells you, 'Hi!'
+> reply hey
+You tell Ras, 'hey'
+>
+Someone tells you, 'I am your secret admirer.'
+> . Who are you?
+You tell someone, 'Who are you?'
+
+See also: TELL, NOTELL
+#
+REPORT
+
+Usage: report
+
+This command sends a report of your current health, as well as other
+general statistics, to everyone in the room that you are currently in.
+
+#
+RESCUE
+
+Usage: rescue <victim>
+
+This command is useful if you want to try and make an attacker hit you
+instead of your poor friend who is being pummeled.  You can only 'turn'
+one monster for each rescue attempt.  This is very useful when playing
+in groups, of course.
+
+Example:
+
+> rescue Yankee
+
+See also: WARRIOR, PALADIN, RANGER
+
+#
+RETREAT
+
+Usage: retreat
+
+A successful retreat while fighting results in your leaving battle without
+losing the experience points that incurs from fleeing.  If your WIMPY is 
+triggered during battle, you may be able to retreat instead of fleeing.
+
+See Also: FLEE, WIMPY
+#
+RETRIEVE
+
+Usage: retrieve
+
+You can retrieve your corpse for a price at any skilled Mortician in the
+realms.  These Morticians are known to be few and far between however.
+Also, certain practitioners of the Black Arts are known to be able to
+retrieve corpses, but their motives are probably less than respectable.
+
+See also: DEATH, CORPSE
+# 
+REVIEW
+
+Usage: review
+
+Lets you review the last 25 gossips.
+
+See also: GOSSIP
+#
+RIDE MOUNT MOUNTS
+Usage: ride <mount name>
+Example: Ride horse
+
+Used to mount your favorite mode of transport.
+
+See also: DISMOUNT
+#
+SAVE
+
+Usage: save
+
+Save your persona.  This includes experience points, strength, gold, etc.
+Your equipment is also saved in the (unlikely?) event of a crash.  The
+game periodically auto-saves you and your equipment, so it is not
+necessary to have your client auto-save you as well.
+
+You CANNOT load a saved version if you die -- your persona still exists,
+but you will lose experience, and all your objects stay in the game, with
+your corpse.
+
+Note that the SAVE command only saves your equipment in the event of a
+crash.  If you are leaving the game normally, SAVE will NOT save your
+equipment - You must quit out at a temple.
+
+See also: HOMETOWN, QUIT, DEATH, REALLYQUIT
+#
+SAY TELL ASK WHISPER SHOUT HOLLER '
+
+Usage: say | shout | holler <string>
+       tell | whisper | ask <player> <string>
+
+If you consider communicating with other beings, you might be understood
+better if you start your sentences with either say, tell, whisper or shout.
+
+Examples:
+
+  > say Hey, does anyone know how to get to Oz?
+  > tell catje hi, how are you?
+
+You can use ' as a shorthand for say, as in:
+
+  > ' hello there.
+
+Shout broadcasts your message to everyone is your geographic zone.  Holler
+broadcasts to everyone in the game but costs 20 movement points.  You must
+be level 2 before you can use shout or holler.
+
+See also: AUCTION, GOSSIP, GSAY, NOREPEAT, QSAY, REPLY
+#
+SCORE
+
+Usage: score
+
+Provides useful information on your status such as age, hit points,
+mana, movement points, armor class, alignment, experience points, gold
+on hand, how long you've been playing, and your level.
+
+See also: AC, EXPERIENCE, SPELLS, ABILITIES
+#
+SCROUNGE
+
+Usage: scrounge
+
+The skilled Ranger can scrounge up a meal anywhere, just by feeding off of the
+land.
+
+See also: RANGER
+#
+SELL
+
+Usage: sell [#] <item>
+       sell <#>.<item>
+
+If you'd like to sell an item to a shopkeeper, trying selling it to them.
+Most shops specialize in what they will buy, so you may have to look around
+to find a buyer for your items.
+ 
+Examples:
+ 
+  > sell sword       (sell the first sword in your inventory)
+  > sell 3 sword     (sell the first three swords in your inventory)
+ 
+See also: BUY, LIST, SHOPS, VALUE
+#
+"SERPENT KICK"
+
+Usage: serpent <victim>
+
+This punishing, lethal kick is part of the Golden Serpent Kung Fu style, and
+knowledge of it is forbidden outside the Liu'she Ch'uan tong. Learning it
+earns a sentence of death from any tong member. Beware.
+
+See also: NINJA
+#
+SHADOW
+
+Usage: shadow <victim>
+
+Use this command to unobtrusively follow your victim. When used in conjunction
+with the sneak and hide skills, a successful shadower can be virtually 
+undetectable.
+
+See also: FOLLOW, THIEF, ASSASSIN
+#
+SLEEP
+
+SLEEP is both a command and the name of a spell.
+
+The SLEEP command puts you to sleep, allowing you to regain your health more
+quickly.  You will be largely unaware of your surroundings while asleep.
+You can awaken yourself with the WAKE command.
+
+The SLEEP spell forces the victim into a magical sleep such that they 
+Cannot be awakened until the spell wears off.
+
+Usage       : cast 'sleep' <victim>
+Accumulative: Yes (Duration)
+Duration    : 4 hours + level/4
+Level       : Mage level 8.
+
+If failing saving throw versus spell, the person will fall asleep.
+A person who is affected by sleep can only be awakened if attacked.
+
+See also: WAKE, MAGE
+#
+SLUG
+
+Usage: slug <victim>
+
+This is a devastating blow, used to by the bare-handed warrior to rattle
+a little sense into the victim.
+
+See also: WARRIOR, PALADIN, RANGER
+#
+SMACKHEADS
+
+Usage: smackheads <victim1> <victim2>
+
+Ex:     smackheads warg janitor
+        smackheads cityguard 2.cityguard
+
+Grab some hair and bash their brains! Only thing more satisfying than 
+smacking two heads together is... well, there's not much more satisfying
+in battle, at least.
+
+See also: COMBAT, WARRIOR, PALADIN, RANGER
+#
+SNEAK
+
+Usage: sneak
+
+Used for sneaking (moving in and out of rooms without anyone taking notice).
+When you type sneak, there is no way to know if you're actually sneaking.
+If you successfully sneak, then you'll continue to sneak for a little while.
+
+See also: HIDE, STEALTH, THIEF, ASSASSIN
+#
+STEALTH
+
+Usage: stealth
+
+Used for moving stealthily (in and out of rooms without anyone taking notice).
+When you type stealth, there is no way to know if you're actually moving
+stealthily.  If you are successful, then you'll continue to move unnoticed
+for a little while.
+
+See also: KABUKI, NINJA
+#
+SPLIT
+
+Usage: split <amount to split>
+
+Split is used to split money among people in your group who are in the same
+room as you.  If you are in a group with 4 other people, all of whom are in
+the same room with you, and you type SPLIT 100, you will give each of the
+other 4 group members 20 coins each.  (100 coins is split 5 ways; you keep
+your share and give everyone else their share).
+
+See also: FOLLOW, GROUP, GOLD
+#
+STEAL
+
+Usage: steal <item> <victim>
+
+Use steal to steal gold or items from people.  The chance of not getting
+caught depends on how well you have practiced steal, and if the person
+is asleep.
+
+Stealing from players is probably not a good idea at all.
+
+Examples:
+
+  > steal gold drunk
+  > steal sword mercenary
+    (If it's wielded, only possible if he is sleeping)
+
+See also: FLAGS, PSTEAL, THIEF, ASSASSIN
+#
+"STRIKE OF REVENGE"
+
+Usage	: strike <victim>
+
+Allows the trained martial artist to deal a stunning, sometimes lethal 
+Strike to the victim's throat.
+
+Developed by the Mist Viper school of Ninjitsu, "Saito Yuriko's Strike of
+Revenge" is a brutal, devastating blow.
+
+See also: NINJA, COMBAT
+#
+TAG IT
+
+Usage: tag <player>
+
+They're IT!
+Used to start a game of tag or tag another player after you have been tagged IT.
+
+See also: ANNOYING GAMES
+#
+"TIGER PUNCH" TIGER
+
+Usage: tiger <victim>
+
+This devastating uppercut can do serious damage to the victim if they are unable
+to block it.  The tiger punch is a more aggressive style of ninja combat, used 
+when the ninja cannot avoid direct confrontation.
+
+#
+THINK
+
+Usage: think <message>
+
+Lets others see what you're thinking!
+
+See also: SOCIALS
+#
+TIME
+
+Usage: time
+
+Gives you the current game time.  Your initial reaction to the output of
+this command may be one of surprise, but you'll get used to it.  You'll
+have to, at any rate, since certain things in the game depend on this
+particular notion of time; the opening hours of the shops, for example.
+
+Also listed is the phase of the moon; this is important to VAMPIREs and
+WEREWOLVES, as the fullness of the moon decides the bonuses they get (mana
+and hit points, respectively.) During the nights of a full moon, they are 
+forced to TRANSFORM. Moon phase also affects MOONGATES.
+
+See also: WEREWOLF, VAMPIRE, TRANSFORM, MOONGATE, GATE
+#
+TITLE
+
+Usage: title <new title>
+
+Sets the title people see on the WHO list and when you're in the room with
+them.  You can't use parentheses (the "(" and ")" characters) because those
+are reserved for flags.
+
+Do not abuse this command; if you do, it will be taken from you.
+
+See also: FLAGS, WHO
+#
+TOGGLE
+
+Usage: toggle
+
+TOGGLE shows you the current values of various toggles available on the MUD.
+This command CAN NOT be used to change these values (see related commands.)
+All of these toggles remain the same until you change them; i.e. they are
+saved when you quit or rent.
+
+See also: BRIEF, COMPACT, DISPLAY, NOSHOUT, NOSUMMON, NOTELL, QUEST
+          NOREPEAT, WIMP
+#
+TRACK
+
+Usage: track <victim>
+
+Used for finding the first step on the shortest route to another person. A 
+Failed attempt results in the wrong direction.  Some people are more 
+difficult to track than others. Tracking also doesn't work very well when
+it is raining outside, or if there is a body of water separating you from
+your target.
+
+Example:
+
+  > track warg
+  You sense a trail south from here!
+
+See also: EVASION
+#
+TRANSFORM
+
+Usage: transform
+
+This command allows lycanthropes and vampires to change form from common
+man into nightbreed. Beast-shape can only be assumed during the night
+hours, and only be shed during the day -- once you transform, there's no 
+going back until the next dusk/dawn.
+
+See Also: VAMPIRE LYCANTHROPE TIME STAKE SPIKE
+#
+TRIP
+
+Usage: trip <victim>
+
+Causes the victim to fall, leaving them open for more damage.
+
+See also: COMBAT
+#
+TURN
+
+With this power, a cleric or avatar can cause undead forces in the same
+room to flee from his presence.  This power varies with level, and low
+level clerics may not be able to turn away certain powerful (ie: demonic)
+undead forces.  On the upside, very powerful clerics and avatars are able
+to completely destroy lesser undead.
+
+Please note that this is a SKILL, not a SPELL, although it does consume
+MANA.  The amount of mana consumed is proportional to the clerics level.
+
+See also: COMBAT, CLERIC, AVATAR
+#
+UNGROUP
+
+Usage: ungroup [group member]
+
+UNGROUP can be used by group leaders to disband the entire group, or
+to kick a specific group member out of the group (and stop him/her from
+following the leader).
+
+Examples:
+
+  > ungroup
+  > ungroup homer
+
+See also: GROUP
+#
+USE WAND STAFF STAFFS WANDS
+
+Usage: use <staff>
+       use <wand> <Target>
+
+Using a staff will automatically target everybody (or everything) in a
+room, except yourself.  Therefore staffs are naturally very powerful, and
+yet may be very dangerous to use around other players.
+
+Using wands require that you point it at a target, which can be either a
+character or an object.
+
+Both staffs and wands must be HELD in the hand prior to use!  (Use the
+grab or hold commands).  You must still supply the name of the staff or
+wand to avoid confusion.
+
+See also: RECITE
+#
+VALUE
+
+Usage: value <item>
+
+Before selling an item to a shop, you can ask the shopkeeper how much
+he or she is willing to pay for it.
+ 
+Example:
+ 
+  > value bread
+ 
+See also: BUY, LIST, SELL, SHOPS
+#
+VISIBLE
+
+Usage: visible
+
+Use this command to break your spell of invisibility before it expires, or
+to stop sneaking.
+
+See also: INVISIBILITY, SNEAK, STEALTH
+#
+WAKE SLEEPING REST SIT STAND
+
+Commands for changing your position.  If you feel weary, it's probably 
+a good idea to sit and rest for a while, or maybe even take a nap.
+
+The SLEEP command puts you to sleep, allowing you to regain your health 
+More quickly.  You will be largely unaware of your surroundings while 
+asleep. You can awaken yourself (and others) with the WAKE command.
+
+Also, certain rooms such as holy rooms and places of ancient power allow
+you to heal and regenerate faster.
+
+#
+WEAR
+
+Usage: wear <item> [location]
+
+Use this if you want to wear some clothes, armor or the like.
+
+Also, to wear everything in your inventory (or at least try to, as wearing 
+things like loaves of bread is not a good way to win friends and influence
+people) you can type "wear all".
+
+Optionally, you can specify what part of your body to wear the equipment 
+on.
+
+Examples:
+
+  > wear boots
+  > wear all.bronze
+  > wear all
+  > wear ring finger
+
+ If you have more than one pair in your inventory
+  > wear 2.boots 
+
+See also: EQUIPMENT, REMOVE
+#
+WEATHER
+
+Usage: weather
+
+If you're uncertain whether the sun is shining or the rain is 
+pouring down. You'll have to be outside in order to tell however.
+
+See also: "CONTROL WEATHER"
+#
+WHO
+
+Usage: who [minlev[-maxlev]] [-n sname] [-c classlist] [-s] [-o] [-q]
+
+Lists the people currently in the game.  Some people may be invisible.
+Command-line options can be used to limit the listing.  The parameters
+can be specified on the command-line in any order.
+
+minlev, maxlev : list only people whose level is at or above minlev, and
+                 optionally, at or below maxlev
+-n : list only people whose names or titles contain sname
+-c : list only people of a certain class, where classlist is any 
+     combination of the letters w, m, c, t, n, m, a, p
+-s : list names in the short form (4 columns of names, without titles or
+     flags)
+-o : list only outlaws
+-q : list only people who are on the Quest
+
+Examples:
+
+  > who -c wc -s -l 20
+  List, in short form, warriors and clerics at or above level 20
+
+  > who 15-25 -o 
+  List all outlaws between levels 15 and 25.
+#
+WHOAMI
+
+Usage: whoami
+
+Displays your character's name, if you want to be sure you are who
+you think you are. Useful if you get confused between all your MULTIs.
+
+See also: MULTIPLAY, WHO, FINGER
+#
+WIELD
+
+Usage: wield <weapon>
+
+When you get tired of bashing monsters with your fists, you might consider
+wielding a weapon.
+
+Example:
+
+  > wield sword
+  > wield 3.sword    (Wield the third sword in your inventory)
+
+See also: EQUIPMENT, REMOVE, WEAR
+#
+WIMPY
+
+Usage: wimpy [hp]
+
+Use the WIMPY command to automatically flee once your health drops below
+a certain level. Note that you can't flee if you are not standing.
+WIMPY will also trigger ESCAPE or RETREAT, if you possess those abilities.
+
+Examples:
+
+  > wimpy 35    will make your character automatically flee a fight
+                if you have less than 35 hit points.
+  > wimpy 0     will turn off wimpy mode.
+  > wimpy       will show you your current wimp status.
+
+See also: FLEE, TOGGLE, ESCAPE, RETREAT
+#
+WIZLIST IMMLIST
+
+Usage: wizlist | immlist
+
+Lists the most powerful beings on the MUD.  These are the people
+responsible for the background operation of Dark Pawns.
+
+See also: IMPLEMENTOR
+#
+WRITE
+
+Usage: write <object>
+       write <title of board note>
+
+In order to write a note, you need a piece of blank paper (or similar), and
+a pen of some sort.  You can then type something like "write on the paper with
+the pen", whereupon you'll be asked to type in your note at the keyboard.
+
+WRITE is also used to post messages to bulletin boards.  Type HELP BOARDS
+for more information.
+
+See also: BOARDS, MAIL
+#
+YANK
+
+Usage: yank <victim>
+
+For those slow-to-move group members, you can yank them onto their feet.
+
+See also: GROUP
+#
+$

@@ -1,0 +1,95 @@
+#11700
+golem crystal~
+a crystal golem~
+A crystal golem lumbers by on an unknown errand.
+~
+Almost transparent, the golem stomps around mindlessly.
+~
+8268 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 2d4+1
+2 350
+8 8 0
+Race: 25
+E
+#11701
+flame crystal~
+a living crystal flame~
+An enormous crystal shell houses a living flame.
+~
+It looks to be a burning soul encased in crystal.
+~
+74 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+5 600
+8 8 0
+Race: 25
+E
+#11702
+keeper flame man~
+the keeper of the flame~
+A wizened old man runs about madly.
+~
+A long flowing beard on his face is the same shade as the frazzled hair on his 
+head.
+You gather that his job is the upkeep of the eternal flames.
+~
+8268 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+25 900
+8 8 1
+Race: 0
+E
+#11703
+bat black~
+a black bat~
+A huge black bat claws at your eyes.
+~
+It looks like a ferocious black rat with wings.
+~
+104 0 0 0 67108864 0 0 0 -10 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+Race: 15
+E
+#11704
+golem crystal~
+a crystal golem~
+A crystal golem lumbers by on an unknown errand.
+~
+Almost transparent, the golem stomps around mindlessly.
+~
+8268 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+5 600
+8 8 0
+Race: 25
+E
+#11705
+golem crystal~
+a crystal golem~
+A crystal golem stares aimlessly into space.
+~
+Almost transparent, the golem stomps around mindlessly.
+~
+8268 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+6 350
+8 8 0
+Race: 25
+E
+#11706
+demon l'cath~
+the demon L'cath~
+Two red eyes glow softly in the darkness.
+~
+The demon L'cath has escaped into this world.. and seems quite intent
+upon remaining.
+~
+16491 0 0 0 136 0 0 0 -1000 E
+34 -14 -24 34d5+2746 22d4+22
+2000 270000
+8 8 2
+Race: 11
+E
+$

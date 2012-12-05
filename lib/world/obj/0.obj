@@ -1,0 +1,566 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.  Please report it immediately using the BUG command, or tell a god if one is on.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 100.00
+#1
+fountain~
+a fountain~
+A delicate marble fountain bubbles merrily in the sun.~
+~
+23 0 0 0 0 0 0 0 0
+1100 1100 2 0
+20000 0 100.00
+#2
+scroll remove curse~
+a scroll~
+A scroll lies here in the dirt.~
+~
+2 64 0 0 0 16385 0 0 0
+26 35 0 0
+1 200 100.00
+E
+scroll~
+The scroll is covered in magickal runes, which your trained eye scans to
+discover it seems to be a spell of curse removal.
+~
+#3
+arrow cloth~
+a cloth arrow~
+A bizarre arrow made of cloth lies here.~
+~
+7 64 0 0 0 1 0 0 0
+0 2 4 11
+1 0 100.00
+#6
+boat~
+a boat~
+A small wooden boat lies here.     ~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0
+60 300 100.00
+#11
+slab beef~
+a slab of salted beef~
+A slab of salted beef lies on the ground.~
+~
+19 0 0 0 0 1 0 0 0
+8 0 0 0
+1 3 100.00
+#12
+filet fish~
+a filet of fish~
+A nicely gutted fish lies here.~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0
+1 20 10
+#13
+bird leg legs~
+a leg of bird~
+A nice hunk of bird leg here looks very tasty.~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0
+1 20 10
+#14
+rabbit chops~
+some rabbit chops~
+A nice piece of rabbit chops lies here.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0
+1 22 10
+#15
+slab ribs~
+a slab of barbecued ribs~
+A slab of barbecued ribs lies on the ground.~
+~
+19 0 0 0 0 1 0 0 0
+8 0 0 0
+3 4 100.00
+#16
+head~
+the head of someone~
+The head of someone lies here.~
+~
+17 4 0 0 0 16385 0 0 0
+1 1 13 0
+5 0 10
+#17
+corpse headless beheaded~
+a beheaded corpse~
+A beheaded corpse is here, spilling fresh blood.~
+~
+15 12 0 0 0 0 0 0 0
+1 0 -1 0
+150 0 500
+#18
+dust pile~
+a pile of dust~
+A pile of dust lies here.~
+~
+13 4 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+E
+dust pile~
+It looks very old.. almost more like ancient ashes than dust.
+~
+#19
+pile flesh bones~
+a mangled pile of flesh and bones~
+A mangled pile of flesh and bones lies here.~
+~
+15 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+E
+pile flesh bones~
+Looks like some sort of wild animal killed it's prey here.
+~
+#20
+puddle~
+a puddle~
+A small puddle of liquid has been formed here.~
+squish
+~
+23 0 0 0 0 0 0 0 0
+2 2 0 0
+7 0 100.00
+E
+puddle~
+You can't tell whether it was formed by rain, someone pouring out a liquid,
+or something... relieving itself. In any case, it looks very unappealing.
+~
+#21
+puke puddle~
+an orange puddle of puke~
+An orange puddle has been made here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 100.00
+E
+puke puddle~
+It looks like something threw up. Whatever it was eating beforehand looks
+even less appetizing now.
+~
+#26
+statue dont delete me~
+a statue~
+A crumbling statue stands here in a niche in the wall.~
+~
+13 64 0 0 0 0 0 0 0
+999999 999999 15 0
+9999 0 100.00
+#27
+fish~
+some foreign breed of fish~
+A odd-looking fish lies here, limp and slimy.~
+~
+19 65548 0 0 0 1 0 0 0
+12 0 0 0
+2 0 100.00
+#28
+game~
+some small game~
+Some small game is here, attracting buzzards.~
+~
+19 65548 0 0 0 1 0 0 0
+12 0 0 0
+9 0 100.00
+E
+game~
+This small grouse seems ideal as a one-person meal.
+~
+#29
+field mouse~
+a field mouse~
+A dead field mouse is here, rotting away.~
+~
+19 65548 0 0 0 1 0 0 0
+3 0 0 0
+1 0 100.00
+#30
+sandworm worm~
+a sandworm~
+A brownish-looking worm is here, lying very still.~
+~
+19 65548 0 0 0 1 0 0 0
+3 0 0 0
+1 0 100.00
+#31
+berries~
+some edible berries~
+Some berries lie here, juicy and ripe.~
+~
+19 65548 0 0 0 1 0 0 0
+12 0 0 0
+10 0 100.00
+#33
+fun quest token~
+quest token~
+A small quest token lies here.~
+Redeemable for 10 gold coins by Kja.
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#40
+hatred~
+Complete and Utter Hatred~
+A huge sword has been abandoned here~
+~
+6 4 0 0 0 8193 0 0 0
+10 1 100 0
+1 0 100.00
+#50
+fire wall~
+a wall of fire~
+A wall of fire shoots out licks of flames and waves of heat.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+1 5500 5500
+#51
+ice wall~
+a wall of ice~
+A wall of ice blocks all passage.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+1 5500 5500
+#52
+cloud poison gas~
+a noxious cloud of poison gas~
+A noxious cloud of poison gas fills the air.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 5500 5500
+#64
+circle summoning~
+a circle of summoning~
+A mystical circle has been drawn on the ground here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 100.00
+#65
+Nyte Shade~
+Nyte Shade~
+An ancient wicked dagger lies here.~
+~
+5 65674 0 0 0 8192 0 0 0
+0 1000 1 11
+1 0 100.00
+A
+1 5
+A
+2 5
+A
+3 5
+A
+4 5
+A
+5 5
+A
+6 10
+#66
+blackrazor black razor~
+Blackrazor~
+The mighty sword Blackrazor lies here.~
+~
+5 33554531 0 0 0 8193 0 0 0
+0 20 1 3
+12 10000 0.00
+#69
+bad thing~
+a really bad thing~
+A really bad thing is lying here.~
+~
+5 0 0 0 0 24577 0 0 0
+0 100 20 0
+1 0 100.00
+A
+19 30
+A
+18 30
+A
+2 5
+A
+1 5
+A
+23 -50
+#70
+potion lycanthropy~
+a potion of lycanthropy~
+A potion of lycanthropy lies here.~
+$n quaffs $p, and lets out a lone, solitary howl...
+~
+10 0 0 0 0 1 0 0 0
+30 54 0 0
+1 50 5.00
+#71
+a rare object~
+a rare object~
+A rare prototype object is lying here.~
+~
+13 16777232 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#72
+sack large~
+a large sack~
+A large sack lies here, wonder what's in it?~
+~
+15 0 0 0 0 16385 0 0 0
+50 0 -1 0
+5 10 100.00
+#74
+black vellum scroll~
+an old, black vellum~
+A rolled up ancient looking vellum lies here.~
+~
+2 0 0 0 0 16385 0 0 0
+30 92 0 0
+1 10000 0.00
+#75
+black rune runed lochaber~
+a black runed lochaber~
+A sinister looking double bladed axe is stuck in the ground here.~
+~
+5 183335488 0 0 0 8193 0 0 0
+0 7 4 10
+25 10000 18.00
+A
+18 1
+A
+19 1
+A
+26 -3
+#76
+flag red team~
+a red flag~
+The Red Team's Flag is lying here.~
+~
+12 33619989 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#77
+flag blue team~
+a blue flag~
+The Blue Team's Flag is lying here.~
+~
+12 65557 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#78
+wretched armor~
+wretched armor~
+A suit of grey, ghostly looking armor lies here.~
+~
+9 166687425 0 0 0 9 0 0 0
+17 0 0 0
+1 7400 0.00
+A
+29 3
+A
+29 10
+#79
+ancient powerful glyph~
+an ancient glyph~
+An ancient, powerful glyph has been etched cleanly into the ground.~
+~
+12 84 0 0 0 0 0 0 0
+0 0 0 0
+1 0 100.00
+#80
+coins platinum~
+a gigantic pile of platinum coins~
+A giantic pile of platinum coins lies all over the room.~
+~
+20 0 0 0 0 1 0 0 0
+150000 0 0 0
+1 0 100.00
+#81
+earth earthen pot brazier~
+an earthen brazier~
+An earthen pot used for rituals sits on the ground here.~
+~
+12 80 0 0 0 1 0 0 0
+0 0 0 0
+2 1000 10.00
+#82
+water bowl brazier clock~
+a water clock~
+A tall vase used as a water clock stands here.~
+~
+12 80 0 0 0 1 0 0 0
+0 0 0 0
+15 1000 100.00
+E
+water clock~
+This tall vase has holes marked evenly into its sides, and when filled
+with water at sunrise, it marks the passage of time.
+~
+#83
+bone flute instrument bones~
+a bone flute~
+A slender instrument made from animal bones lies here.~
+~
+12 80 0 0 0 1 0 0 0
+0 0 0 0
+1 1000 100.00
+E
+bone flute instrument~
+This flute has been ornately carved, and appears to be made from the
+bones of some animal.
+~
+#84
+red candle~
+a large red candle~
+A large red ceremonial candle stands here.~
+~
+12 80 0 0 0 1 0 0 0
+0 0 0 0
+2 1000 100.00
+#90
+dusty red covered book time~
+the book of time~
+A dusty red-covered book sits on the ground.~
+~
+16 1 0 0 0 16385 0 0 0
+0 0 0 0
+4 20 100.00
+E
+dusty red covered book time~
+The book looks as old as creation itself and its pages are completely blank
+except for one:
+
+"...and he shall return to our fair land, the harbringer of death, destroyer
+of all within his path. Known throughout the ages as the Devourer, his true
+name is the secret to his control. When the moon is full, Senyakhaz will
+come if summoned...
+
+The remainder of the page crumbles before you can read further.
+~
+E
+blah~
+Eh?
+~
+#91
+black rock meteorite~
+a blackrock meteorite~
+A smouldering meteorite lies half-buried in the ground.~
+~
+15 65545 0 0 0 0 0 0 0
+80 15 95 0
+20 2000 100.00
+E
+black rock meteorite~
+It glows softly with residual heat from its heavenly passage. It's made of
+a mineral you have never seen before and appears to be impervious to any
+form of damage. You wonder what it could contain...
+~
+#92
+small chunk blackrock mineral~
+a small chunk of blackrock~
+A small chunk of an unfamilar mineral sits here.~
+~
+12 65544 0 0 0 1 0 0 0
+0 0 0 0
+3 100 100.00
+E
+small chunk blackrock mineral~
+The chunk is highly polished as if blasted by severe heat, possibly the
+remains of a meteor. It is made of a mineral you have never seen before...
+~
+#93
+corpse orc~
+the corpse of an orc~
+There is the corpse of an orc here, recently deceased.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10 10 100.00
+E
+corpse orc~
+Perhaps it was the impact or perhaps the heat, but this orc probably didn't
+know what hit it. There are a series of footprints leading away from the
+corpse to the north and track marks as if something were dragged.
+~
+#94
+piece blackrock mineral~
+a piece of blackrock~
+A piece of a strange looking mineral sits here.~
+~
+12 65545 0 0 0 1 0 0 0
+0 0 0 0
+15 100 100.00
+E
+piece blackrock mineral~
+It is rough with jagged edges, obviously having survived its travels through
+space and time to reach you. It glows softly in your hand and you wonder
+what to do with it...
+~
+#95
+golden ring~
+a golden ring~
+Someone has carelessly left a golden ring here.~
+~
+11 65537 0 0 0 3 0 0 0
+0 0 0 0
+2 20 100.00
+E
+ring golden~
+It glows softly and has been made using only the finest and purest of
+gold.
+~
+#96
+hefty leather bound book keep stone~
+the Keep of Stones~
+A hefty leather-bound book, covered in dust, has been left here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+2 100 100.00
+E
+hefty leather bound book keep stone~
+The book is more a journal than anything else. You skim through it and the
+only page of note reads as follows:
+
+"During the daemonic wars of Vymornia, a sanctuary was built high within
+the mountains where the mages of the land could develop some form of defense
+against the foul beasts. Hidden from the eye of the common man, Stonekeep
+was born and although many have sought the secrets it contains, few have
+returned to speak of it.
+
+Many years have passed and the land is at peace. The acolytes of the keep
+have not been seen for some time and the only evidence that they still
+practice their arts is the occassional streak of fire across the sky."
+~
+#97
+ancient book~
+an ancient book~
+An ancient book, worn with age, sits on the ground.~
+~
+16 65609 0 0 0 16385 0 0 0
+0 0 0 0
+20 5000 100.00
+E
+ancient book~
+Most of it has faded away but there is one interesting chapter...
+
+..."and the creator of all, the Master of the Elements, shall return to
+this physical plane"...
+
+The rest is garbled and you can't make it out. Other sections of the book
+reference a plane of elements yet no detail is given.
+~
+$~

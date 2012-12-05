@@ -1,0 +1,54 @@
+#18601
+beast~
+a great horned beast~
+A great horned beast walks toward you menacingly.
+~
+A huge humanoid beast with dark leathery skin and huge ram-like horns.
+~
+105 0 0 0 8 0 0 0 -500 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 0
+Race: 27
+E
+#18602
+creature~
+a swift running creature~
+A swift running creature hisses as it rushes toward you.
+~
+Humanoid in appearance, it's eyes gleam with a feral intelligence. Mottled
+grey skin and talon-like fingers end any resemblance to a human.
+~
+104 0 0 0 0 0 0 0 -351 E
+10 10 0 10d5+110 5d4+5
+20 6000
+8 8 0
+Race: 22
+E
+#18603
+humanoid~
+a brown humanoid~
+An evil looking brown humanoid hisses as it sees you.
+~
+It has an angry, evil countenance.
+~
+105 0 0 0 0 0 0 0 -400 E
+9 11 1 9d5+100 4d4+4
+20 4500
+8 8 0
+Race: 27
+E
+#18604
+thing~
+the pale thing~
+The pale thing looks for prey.
+~
+A tall, lean, pale, ugly thing.
+~
+105 0 0 0 8 0 0 0 -600 E
+11 9 -1 11d5+120 7d4+7
+0 7500
+8 8 0
+Race: 27
+E
+$

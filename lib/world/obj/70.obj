@@ -1,0 +1,312 @@
+#7001
+wheat grass juice shot~
+a shot of wheat grass juice~
+A shot of dark green liquid rests here.~
+~
+10 0 0 0 0 1 0 0 0
+5 3 0 0
+1 50 100.00
+#7002
+ornate-key~
+an ornate key~
+An ornate key on a leather thong, depicting a naked young boy, lies here.~
+~
+18 4 0 0 0 16389 0 0 0
+0 0 0 0
+1 0 100.00
+#7003
+metal odd~
+an odd piece of metal~
+An oddly shaped slender piece of metal lies here.~
+~
+18 2 0 0 0 16385 0 0 0
+0 0 0 0
+2 0 100.00
+E
+metal~
+It has an odd shape and upon close examination, has tiny magikal
+runes over most of the surface. It is extremely lightweight for its
+size and is of some sort of dull brushed metal.
+~
+#7004
+steel-key~
+a steel key~
+A large, simple steel key was left here.~
+~
+18 4 0 0 0 16385 0 0 0
+0 0 0 0
+4 0 100.00
+#7005
+tap key~
+a broken tap~
+An old, broken beer tap has been discarded here.~
+~
+18 4 0 0 0 16385 0 0 0
+0 0 0 0
+5 0 100.00
+#7006
+cleaver~
+a meat cleaver~
+A well-tuned meat cleaver has been carefully set here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 4 10
+20 200 25.00
+E
+cleaver~
+Polished to perfection, honed to a razor-edged sharpness, this sucker
+is well suited to seperating body parts from bodies.
+~
+A
+2 -1
+#7007
+bo sticks club~
+a bo stick~
+A sweat-stained balanced bo stick lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 6 6
+5 100 15.00
+E
+bo stick club~
+It's about a foot to a foot-and-a-half long and seems to be well-used,
+judging by the polished feel of the wood and the dark stains marking it.
+Hefting it, you find the balance to be exceptional. The owner of this
+weapon sure knows his craft.
+~
+A
+18 1
+A
+19 1
+A
+17 -10
+#7008
+hair-clasp pin~
+an exquisite hair clasp~
+A beautifully wrought hair-clasp has been dropped here.~
+~
+1 81298432 0 0 0 17 0 0 0
+0 0 -1 0
+2 200 15.00
+E
+pin clasp hair-clasp hair~
+It is a beautiful work of art, a magnificent array of fine details carved
+intricately into a silvery metal. Given it's fine nature, it is likely
+that it is of elven design.
+~
+A
+6 1
+A
+1 1
+#7009
+breast plate dented breastplate~
+a badly dented breastplate~
+A badly dented breastplate lies abandoned here.~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0
+10 50 50.00
+A
+2 -1
+#7010
+clasp cloak-pin~
+a small cloak-pin~
+A small jeweled cloak-pin has been set here.~
+~
+11 0 0 0 0 5 0 0 0
+0 0 0 0
+1 100 80.00
+A
+17 -1
+A
+6 1
+#7011
+bracer leather~
+a leather bracer~
+A leather bracer with bits of metal wired to it sits here.~
+~
+9 0 0 0 0 4097 0 0 0
+4 0 0 0
+1 25 25.00
+E
+leather bracer~
+A cheaply made leather bracer that has been modified by wiring bits of 
+metal and scraps to it in an attempt to make it stronger.
+~
+#7012
+belt leather~
+a leather belt~
+A heavy leather belt lies coiled here.~
+~
+9 0 0 0 0 1025 0 0 0
+4 0 0 0
+6 50 20.00
+#7013
+gloves leather~
+fine leather gloves~
+A pair of fine calf-skin leather gloves rest here.~
+~
+9 0 0 0 0 129 0 0 0
+3 0 0 0
+3 100 20.00
+E
+gloves~
+A pait of baby soft calf-skin gloves.
+~
+A
+2 1
+A
+18 1
+A
+1 -2
+#7014
+sling~
+a sling~
+A simple leather sling was dropped here.~
+~
+6 0 0 0 0 8193 0 0 0
+0 1 3 0
+1 0 25.00
+#7015
+pebble rock~
+a rounded pebble~
+A smooth rounded pebble lies here.~
+~
+7 0 0 0 0 1 0 0 0
+0 1 3 0
+1 0 10.00
+#7016
+lotus black lump tarry~
+a tarry black lump~
+A small vial of tar-like black fluid has been dropped here.~
+$n swallows $p, a dreamy look passing over $s face.
+~
+10 0 0 0 0 1 0 0 0
+30 33 57 17
+1 25 100.00
+E
+lump tarry black~
+Small and tacky, this is the extracted concentrate of the black lotus fruit.
+It can be eaten, heated and injected with bamboo shoots, or smoked. Most 
+usally it is smoked as that is the quickest method with best effect.
+~
+#7017
+tonic~
+a murky tonic~
+A strange smelling murky brew sits here.~
+~
+10 0 0 0 0 1 0 0 0
+9 43 56 35
+1 100 100.00
+#7018
+staff~
+a twisted staff~
+A long and twisted staff of an unknown material lies here.~
+~
+4 80863297 0 0 0 8193 0 0 0
+30 4 3 92
+15 2000 10.00
+#7019
+scroll yellowed~
+a yellowed scroll~
+A brittle yellowed scroll rests here.~
+~
+2 0 0 0 0 16385 0 0 0
+10 66 0 0
+1 1000 10.00
+#7020
+pouch waist-pouch~
+a large waist-pouch~
+A large pouch on a heavy leather thong lies crumpled on the ground.~
+~
+15 0 0 0 0 3073 0 0 0
+30 5 -1 0
+5 100 100.00
+#7021
+rapier~
+a rapier~
+A slender rapier has been set here.~
+~
+5 136589312 0 0 0 8193 0 0 0
+0 3 3 11
+7 100 25.00
+E
+inscription~
+Crafted by Feinweir Bakdralash, Master Weaponer
+~
+E
+rapier~
+Carefully crafted, this slender weapon is ineffectual in the hand of the
+uninitiated, and deadly in the hands of the skilled. Made of many layers
+of folded steel, the strength of the thin blade is surprisingly resilient.
+A fine wire-mesh basket protects the hands of the wielder and provides
+a guard with which to break the opponents blade. There is an inscriptions
+along the blade.
+~
+#7022
+sash~
+a silken sash~
+A crimson silken sash lies crumpled on the ground.~
+~
+9 0 0 0 0 2049 0 0 0
+3 0 0 0
+3 50 50.00
+#7023
+vest~
+a scaled vest~
+A soft, supple vest made of scales was dropped here.~
+~
+9 0 0 0 0 9 0 0 0
+7 0 0 0
+7 300 15.00
+E
+vest scales~
+Made from some sort of reptilian creature, the vest is amazingly soft and
+supple, yet virtually resistant to piercing and slashing.
+~
+#7024
+chest iron~
+a heavy iron chest~
+A large, and heavy, iron chest rest here.~
+~
+15 0 0 0 0 0 0 0 0
+50 15 7002 0
+300 400 100.00
+E
+chest iron~
+Made completely of iron, the chest is rather, ummm, impenetrable.
+~
+#7025
+wand~
+a fat wand~
+A fat, oblong wand sits here.~
+$n holds $p about waist high and strokes it ...
+~
+3 0 0 0 0 16385 0 0 0
+20 8 4 76
+5 150 25.00
+#7026
+gold imperials~
+a pile of gold~
+A large pile of golden Imperials is heaped here.~
+~
+20 0 0 0 0 1 0 0 0
+1000 0 0 0
+100 1000 100.00
+#7027
+baton sceptre~
+a golden baton~
+A heavy golden baton has been tossed here.~
+~
+5 67 0 0 0 8193 0 0 0
+0 1 10 5
+15 200 15.00
+#7028
+root grave-root~
+a white root~
+A nasty white, pulpy root lays here.~
+~
+10 0 0 0 0 1 0 0 0
+30 28 0 0
+5 100 5.00
+$~

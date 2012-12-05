@@ -1,0 +1,114 @@
+#30300
+Inside a giant pinball machine~
+Through the black swirling vortex around you, you manage to force your way into this giant pinball machine, an electricly swirling place of colors, light
+and most of all, sound. The noise is deafening in here! Bells, whistles, and 
+a thundrous roar pound down around you, all making for a nice nap.
+Lightning strikes the plastic ground and fizzles into a lump of molten goo.
+~
+303 0 0 0 0 0
+D2
+You try to escape from the lightning and end up falling down the chute!
+~
+~
+1 0 30301
+E
+lightning light colors~
+Bluish purple lightning, with flashes of red and orange about the tips streaks through the machine, jumping in great branching arcs from pinball part to 
+pinball part
+~
+S
+#30301
+Like, dead and stuff.~
+Lightning strikes no more than 2 inches from your head!
+~
+303 0 0 0 0 0
+D0
+~
+~
+1 0 30300
+D2
+~
+~
+0 0 30303
+E
+north~
+it leads into a giant pinball machine
+~
+S
+#30302
+a room for hidden mobs~
+you aint sposed to see this
+~
+303 0 0 0 0 0
+D0
+~
+~
+0 0 4
+D1
+~
+~
+0 0 4
+D2
+~
+~
+0 0 4
+D3
+~
+~
+0 0 4
+D4
+~
+~
+0 0 4
+D5
+~
+~
+0 0 4
+S
+#30303
+In the Ball Slot~
+  Three Immensely huge silver spheres are lined up in the valley that creates
+a slot for the spheres to rest. An enormous spring like device is to the south, ready to catapult the lead sphere at any moment, better get out of here before
+that happens.
+~
+303 0 0 0 0 0
+D0
+~
+~
+0 0 30301
+S
+#30304
+In the Vineyard~
+  You stand amid acres of green vines, growing from bare moist soil.
+The mist on the horizons refracts the sunlight into octagons and rainbows, 
+and the green mountains surrounding this valley enhance the effect. Deeply
+rooted vines with lush full grapes hanging on them have grown to almost over-
+flow the dark wooden trellises.
+~
+303 0 0 0 0 2
+D0
+The lush green vines stretch for miles in all directions until they reach the 
+mountains.
+~
+~
+0 0 30304
+D1
+The lush green vines stretch for miles in all directions until they reach the
+mountains.
+~
+~
+0 0 30304
+D2
+The lush green vines stretch for miles in all directions until they reach the
+mountains.
+~
+~
+0 0 30304
+D3
+The lush green vines stretch for miles in all directions until they reach the
+mountains.
+~
+~
+0 0 30304
+S
+$~

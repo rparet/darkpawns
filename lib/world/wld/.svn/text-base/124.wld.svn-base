@@ -1,0 +1,2397 @@
+#12400
+Immortal room~
+You are in an unfinished room.
+~
+124 0 0 0 0 0
+S
+#12401
+Calm Waters~
+The water beneath you is calm and ripples softly in the cool breeze that
+flows here.  To the north lies a dismal stretch of land, while the ocean
+continues in all other directions.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12330
+D1
+~
+~
+0 0 12402
+D2
+~
+~
+0 0 12406
+D3
+~
+~
+0 0 12418
+S
+#12402
+Calm Waters~
+The water beneath you is calm and ripples softly in the cool breeze that
+flows here.  To the north lies a dismal stretch of land, while the ocean
+continues in all other directions.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12331
+D1
+~
+~
+0 0 12403
+D2
+~
+~
+0 0 12407
+D3
+~
+~
+0 0 12401
+S
+#12403
+Calm Waters~
+The water beneath you is calm and ripples softly in the cool breeze that
+flows here.  To the north lies a dismal stretch of land, while the ocean
+continues in all other directions.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12332
+D1
+~
+~
+0 0 12404
+D2
+~
+~
+0 0 12408
+D3
+~
+~
+0 0 12402
+S
+#12404
+Calm Waters~
+The water beneath you is calm and ripples softly in the cool breeze that
+flows here.  To the north lies a dismal stretch of land, while the ocean
+continues in all other directions.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12333
+D1
+~
+~
+0 0 12405
+D2
+~
+~
+0 0 12409
+D3
+~
+~
+0 0 12403
+S
+#12405
+Calm Waters~
+The water beneath you is calm and ripples softly in the cool breeze that
+drifts by.  To the north lies a dismal stretch of land, while the ocean
+continues in all other directions.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12334
+D1
+~
+~
+0 0 22361
+D2
+~
+~
+0 0 12410
+D3
+~
+~
+0 0 12404
+S
+#12406
+Calm Waters~
+To the north can be seen the dismal swampy coastline of the mainland; a stark
+contrast to the lush vegetation of the large island to the south. The water
+here is still and dark, and looks very deep.     
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12401
+D1
+~
+~
+0 0 12407
+D2
+~
+~
+0 0 12411
+D3
+~
+~
+0 0 12417
+S
+#12407
+Calm Waters~
+To the north can be seen the dismal swampy coastline of the mainland; a stark
+contrast to the lush vegetation of the large island to the south. The water
+here is still and dark, and looks very deep.     
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12402
+D1
+~
+~
+0 0 12408
+D2
+~
+~
+0 0 12412
+D3
+~
+~
+0 0 12406
+S
+#12408
+Calm Waters~
+The water beneath you is calm and ripples softly in the cool breeze that
+flows here.  To the north lies a dismal stretch of land, while the ocean
+continues in all other directions.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12403
+D1
+~
+~
+0 0 12409
+D2
+~
+~
+0 0 12413
+D3
+~
+~
+0 0 12407
+S
+#12409
+Calm Waters~
+The water beneath you is calm and ripples softly in the cool breeze that
+flows here.  To the north lies a dismal stretch of land, while the ocean
+continues in all other directions.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12404
+D1
+~
+~
+0 0 12410
+D2
+~
+~
+0 0 12414
+D3
+~
+~
+0 0 12408
+S
+#12410
+Calm Waters~
+   The dismal swampy coastline of the mainland can be seen off to the north -
+a stark contrast to the endless waters of the ocean to the south and east.
+The water here is still and dark, and looks very deep.     
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12405
+D1
+~
+~
+0 0 22366
+D3
+~
+~
+0 0 12409
+S
+#12411
+Calm Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12406
+D1
+~
+~
+0 0 12412
+D3
+~
+~
+0 0 12416
+S
+#12412
+Calm Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12407
+D1
+~
+~
+0 0 12413
+D3
+~
+~
+0 0 12411
+S
+#12413
+Calm Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 12415
+D1
+~
+~
+0 0 12414
+D3
+~
+~
+0 0 12412
+S
+#12414
+Calm Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 22371
+D1
+~
+~
+0 0 12415
+D3
+~
+~
+0 0 12413
+S
+#12415
+Calm Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 2097216 0 0 0 7
+D0
+~
+~
+0 0 22370
+D1
+~
+~
+0 0 22371
+D3
+~
+~
+0 0 12414
+S
+#12416
+Calm Ocean Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12417
+D1
+~
+~
+0 0 12411
+D3
+~
+~
+0 0 12420
+S
+#12417
+Calm Ocean Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12418
+D1
+~
+~
+0 0 12406
+D2
+~
+~
+0 0 12416
+D3
+~
+~
+0 0 12421
+S
+#12418
+Calm Ocean Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12419
+D1
+~
+~
+0 0 12401
+D2
+~
+~
+0 0 12417
+D3
+~
+~
+0 0 12422
+S
+#12419
+Ocean Brine~
+   You are floating along the surface of the ocean where it blends with a
+stagnant swamp to the northeast.  The ocean stretches in all other directions,
+becoming more turbulent to the distant south.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12321
+D1
+~
+~
+0 0 12330
+D2
+~
+~
+0 0 12418
+D3
+~
+~
+0 0 12423
+S
+#12420
+Calm Ocean Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12421
+D1
+~
+~
+0 0 12416
+D3
+~
+~
+0 0 12424
+S
+#12421
+Calm Ocean Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12422
+D1
+~
+~
+0 0 12417
+D2
+~
+~
+0 0 12420
+D3
+~
+~
+0 0 12425
+S
+#12422
+Calm Ocean Waters~
+   You are floating on calm, almost stagnant ocean waters.  The air is thick
+which the scent of salt and algae and you can already see the waters darken
+with the dark mud of the swamp to the north.  Open ocean lies in all other
+directions.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12423
+D1
+~
+~
+0 0 12418
+D2
+~
+~
+0 0 12421
+D3
+~
+~
+0 0 12426
+S
+#12423
+Ocean Brine~
+   You are floating along the surface of the ocean where it blends with a
+stagnant swamp to the northeast.  The ocean stretches in all other directions,
+becoming more turbulent to the distant south.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12320
+D1
+~
+~
+0 0 12419
+D2
+~
+~
+0 0 12422
+D3
+~
+~
+0 0 12427
+S
+#12424
+Calm Ocean Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12425
+D1
+~
+~
+0 0 12420
+D3
+~
+~
+0 0 12428
+S
+#12425
+Calm Ocean Waters~
+   The coastal mainland lies far to the north, beyond the swamp, while the
+open ocean lies to the south and east.  The water of the bay lies placid
+to the distant west, while a few sea-birds circle above you.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12426
+D1
+~
+~
+0 0 12421
+D2
+~
+~
+0 0 12424
+D3
+~
+~
+0 0 12429
+S
+#12426
+Calm Ocean Waters~
+   You are floating on calm, almost stagnant ocean waters.  The air is thick
+which the scent of salt and algae and you can already see the waters darken
+with the dark mud of the swamp to the north.  Open ocean lies in all other
+directions.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12427
+D1
+~
+~
+0 0 12422
+D2
+~
+~
+0 0 12425
+D3
+~
+~
+0 0 12430
+S
+#12427
+Ocean Brine~
+   You are floating along the surface of the ocean where it blends with a
+stagnant swamp to the northeast.  The ocean stretches in all other directions,
+becoming more turbulent to the distant south.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12319
+D1
+~
+~
+0 0 12423
+D2
+~
+~
+0 0 12426
+D3
+~
+~
+0 0 12431
+S
+#12428
+Calm Ocean Waters~
+   You are floating on calm, almost stagnant ocean waters.  The air is thick
+which the scent of salt and algae and you can already see the waters darken
+with the dark mud of the swamp to the north.  Open ocean lies in all other
+directions.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12429
+D1
+~
+~
+0 0 12424
+D3
+~
+~
+0 0 12433
+S
+#12429
+Ocean Waters~
+   You are floating on calm, almost stagnant ocean waters.  The air is thick
+which the scent of salt and algae and you can already see the waters darken
+with the dark mud of the swamp to the north.  Open ocean lies in all other
+directions.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12430
+D1
+~
+~
+0 0 12425
+D2
+~
+~
+0 0 12428
+D3
+~
+~
+0 0 12434
+S
+#12430
+Ocean Waters~
+   You are floating on calm, almost stagnant ocean waters.  The air is thick
+which the scent of salt and algae and you can already see the waters darken
+with the dark mud of the swamp to the north.  Open ocean lies in all other
+directions.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12431
+D1
+~
+~
+0 0 12426
+D2
+~
+~
+0 0 12429
+D3
+~
+~
+0 0 12435
+S
+#12431
+Ocean Brine~
+   You are floating along the surface of the ocean where it blends with a
+stagnant swamp to the northeast.  The ocean stretches in all other directions,
+becoming more turbulent to the distant south.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12432
+D1
+~
+~
+0 0 12427
+D2
+~
+~
+0 0 12430
+D3
+~
+~
+0 0 12436
+S
+#12432
+Ocean Brine~
+   You are floating along the surface of the ocean where it blends with a
+stagnant swamp to the northeast.  The ocean stretches in all other directions,
+becoming more turbulent to the distant south.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12305
+D1
+~
+~
+0 0 12319
+D2
+~
+~
+0 0 12431
+D3
+~
+~
+0 0 12437
+S
+#12433
+Calm Ocean Waters~
+   You are floating on calm, almost stagnant ocean waters.  The air is thick
+which the scent of salt and algae and you can already see the waters darken
+with the dark mud of the swamp to the north.  Open ocean lies in all other
+directions.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12434
+D1
+~
+~
+0 0 12428
+D3
+~
+~
+0 0 12438
+S
+#12434
+Calm Ocean Waters~
+   You are floating on calm, almost stagnant ocean waters.  The air is thick
+which the scent of salt and algae and you can already see the waters darken
+with the dark mud of the swamp to the north.  Open ocean lies in all other
+directions.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12435
+D1
+~
+~
+0 0 12429
+D2
+~
+~
+0 0 12433
+D3
+~
+~
+0 0 12439
+S
+#12435
+Ocean Waters~
+   You are floating on calm, almost stagnant ocean waters.  The air is thick
+which the scent of salt and algae and you can already see the waters darken
+with the dark mud of the swamp to the north.  Open ocean lies in all other
+directions.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12436
+D1
+~
+~
+0 0 12430
+D2
+~
+~
+0 0 12434
+D3
+~
+~
+0 0 12440
+S
+#12436
+Ocean Brine~
+   You are floating along the surface of the ocean where it blends with a
+stagnant swamp to the northeast.  The ocean stretches in all other directions,
+becoming more turbulent to the distant south.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12437
+D1
+~
+~
+0 0 12431
+D2
+~
+~
+0 0 12435
+D3
+~
+~
+0 0 12441
+S
+#12437
+Ocean Brine~
+   You are floating along the surface of the ocean where it blends with a
+stagnant swamp to the northeast.  The ocean stretches in all other directions,
+becoming more turbulent to the distant south.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12304
+D1
+~
+~
+0 0 12432
+D2
+~
+~
+0 0 12436
+D3
+~
+~
+0 0 12442
+S
+#12438
+Calm Ocean Waters~
+   You are floating on calm, almost stagnant ocean waters.  The air is thick
+which the scent of salt and algae and you can already see the waters darken
+with the dark mud of the swamp to the north.  Open ocean lies in all other
+directions.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12439
+D1
+~
+~
+0 0 12433
+D3
+~
+~
+0 0 12443
+S
+#12439
+Calm Ocean Waters~
+   You are floating on calm, almost stagnant ocean waters.  The air is thick
+which the scent of salt and algae and you can already see the waters darken
+with the dark mud of the swamp to the north.  Open ocean lies in all other
+directions.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12440
+D1
+~
+~
+0 0 12434
+D2
+~
+~
+0 0 12438
+D3
+~
+~
+0 0 12444
+S
+#12440
+Ocean Waters~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12441
+D1
+~
+~
+0 0 12435
+D2
+~
+~
+0 0 12439
+D3
+~
+~
+0 0 12445
+S
+#12441
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12442
+D1
+~
+~
+0 0 12436
+D2
+~
+~
+0 0 12440
+D3
+~
+~
+0 0 12446
+S
+#12442
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the north and the swamp to the east.  To the
+south, warm ocean water stretches to the horizon.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 9276
+D1
+~
+~
+0 0 12437
+D2
+~
+~
+0 0 12441
+D3
+~
+~
+0 0 12447
+S
+#12443
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12444
+D1
+~
+~
+0 0 12438
+D2
+~
+~
+0 0 12650
+D3
+~
+~
+0 0 12449
+S
+#12444
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12445
+D1
+~
+~
+0 0 12439
+D2
+~
+~
+0 0 12443
+D3
+~
+~
+0 0 12450
+S
+#12445
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12446
+D1
+~
+~
+0 0 12440
+D2
+~
+~
+0 0 12444
+D3
+~
+~
+0 0 12451
+S
+#12446
+On the Ocean~
+   Here, dolphins and terns sail, splashing dutifully into the 
+sea.  As you float above the surface, waves crash into you, 
+forcing you to pay attention to the water's motion.  Zephyrs rush 
+past you, hitting you with spray and bits of driftwood. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12447
+D1
+~
+~
+0 0 12441
+D2
+~
+~
+0 0 12445
+D3
+~
+~
+0 0 12452
+S
+#12447
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the north and the brackish waters of the 
+swampy east.  To the south warm ocean water stretches as far as
+you can see.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12448
+D1
+~
+~
+0 0 12442
+D2
+~
+~
+0 0 12446
+D3
+~
+~
+0 0 12453
+S
+#12448
+Coastal Waters~
+   You are floating above the churning surface of the ocean where it
+it meets the coast to the north and northeast.  To the south and west
+the ocean stretches as far as you can see, appearing to become more
+calm as you look out to the edge of the western horizon.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 9274
+D1
+~
+~
+0 0 9276
+D2
+~
+~
+0 0 12447
+D3
+~
+~
+0 0 12454
+S
+#12449
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12450
+D1
+~
+~
+0 0 12443
+D2
+~
+~
+0 0 12649
+D3
+~
+~
+0 0 12456
+S
+#12450
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12451
+D1
+~
+~
+0 0 12444
+D2
+~
+~
+0 0 12449
+D3
+~
+~
+0 0 12457
+S
+#12451
+On the Ocean~
+   The wide ocean spans across your vision, making you lose all 
+sense of direction.  Your ears sting as the mist condenses you, 
+bringing tears of pain to your eyes.  In the distance, you can see 
+the foam of broken water eddies. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12452
+D1
+~
+~
+0 0 12445
+D2
+~
+~
+0 0 12450
+D3
+~
+~
+0 0 12458
+S
+#12452
+On the Ocean~
+   Here, otters and terns circle, splashing happily into the 
+ocean.  You marvel at the schools of mackereal that streak through 
+the ocean as though they were birds sailing in the air.  Gales 
+rush past you, pummeling you with spray and bits of flotsam. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12453
+D1
+~
+~
+0 0 12446
+D2
+~
+~
+0 0 12451
+D3
+~
+~
+0 0 12459
+S
+#12453
+On the Ocean~
+   Here, otters and terns circle, splashing happily into the 
+ocean.  You marvel at the schools of mackereal that streak through 
+the ocean as though they were birds sailing in the air.  Gales 
+rush past you, pummeling you with spray and bits of flotsam. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12454
+D1
+~
+~
+0 0 12447
+D2
+~
+~
+0 0 12452
+D3
+~
+~
+0 0 12460
+S
+#12454
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the distant north and the brackish waters of
+east.  To the south warm ocean water stretches as far as you can see.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12455
+D1
+~
+~
+0 0 12448
+D2
+~
+~
+0 0 12453
+D3
+~
+~
+0 0 12461
+S
+#12455
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the north and east.  In all other directions
+the ocean stretches to the horizon.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 9271
+D1
+~
+~
+0 0 9274
+D2
+~
+~
+0 0 12454
+D3
+~
+~
+0 0 12462
+S
+#12456
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12457
+D1
+~
+~
+0 0 12449
+D2
+~
+~
+0 0 12648
+D3
+~
+~
+0 0 12464
+S
+#12457
+On the Ocean~
+   Here, otters and terns circle, splashing happily into the 
+ocean.  You marvel at the schools of mackereal that streak through 
+the ocean as though they were birds sailing in the air.  Gales 
+rush past you, pummeling you with spray and bits of flotsam. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12458
+D1
+~
+~
+0 0 12450
+D2
+~
+~
+0 0 12456
+D3
+~
+~
+0 0 12465
+S
+#12458
+On the Ocean~
+   Here, otters and terns circle, splashing happily into the 
+ocean.  You marvel at the schools of mackerel that streak through 
+the ocean as though they were birds sailing in the air.  Gales 
+rush past you, pummeling you with spray and bits of flotsam. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12459
+D1
+~
+~
+0 0 12451
+D2
+~
+~
+0 0 12457
+D3
+~
+~
+0 0 12466
+S
+#12459
+On the Ocean~
+   Here, otters and terns float, splashing freely into the water.  
+As you float above the surface, waves crash into you, forcing you 
+to pay attention to the water's motion.  On the water's surface, 
+you note seaweed floating gently beside you. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12460
+D1
+~
+~
+0 0 12452
+D2
+~
+~
+0 0 12458
+D3
+~
+~
+0 0 12467
+S
+#12460
+On the Ocean~
+   The wide sea spans across your vision, making you lose all 
+sense of direction.  Your nostrils sting as the spray shimmers 
+on your flesh, bringing tears of pain to your eyes.  A piece
+of driftwood floats by, rotted with brine.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12461
+D1
+~
+~
+0 0 12453
+D2
+~
+~
+0 0 12459
+D3
+~
+~
+0 0 12468
+S
+#12461
+On the Ocean~
+   Here, otters and terns float, splashing freely into the water.  
+As you float above the surface, waves crash into you, forcing you 
+to pay attention to the water's motion.  On the water's surface, 
+you note seaweed floating gently beside you. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12462
+D1
+~
+~
+0 0 12454
+D2
+~
+~
+0 0 12460
+D3
+~
+~
+0 0 12469
+S
+#12462
+On the Ocean~
+   The wide sea spans across your vision, making you lose all 
+sense of direction.  Your nostrils sting as the spray shimmers 
+on your flesh, bringing tears of pain to your eyes.  A piece
+of driftwood floats by, rotted with brine.
+~
+124 0 0 0 0 6
+D0
+~
+~
+0 0 12463
+D1
+~
+~
+0 0 12455
+D2
+~
+~
+0 0 12461
+D3
+~
+~
+0 0 12470
+S
+#12463
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the north and east.  In all other directions
+the ocean stretches to the horizon.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 9266
+D1
+~
+~
+0 0 9271
+D2
+~
+~
+0 0 12462
+D3
+~
+~
+0 0 12471
+S
+#12464
+On the Ocean~
+   You are floating above the churning surface of the sea.  You 
+marvel at the schools of tuna that streak through the water as 
+though they were birds sailing in the air.  In the distance to
+the south, you can see the foam of broken sea waves crash against
+the tall cliffs of a small island.
+   You note with dismay that the cliffs show no beach and offer
+no place to dock.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12465
+D1
+~
+~
+0 0 12456
+D3
+~
+~
+0 0 12474
+S
+#12465
+On the Ocean~
+   Here, porpoises and manatees swim, splashing happily into the 
+water.  You marvel at the schools of trout that streak through
+the sea as though they were birds coasting in the air.  In the 
+distance, you can see the foam broken water currents as they
+dash against coral reefs.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12466
+D1
+~
+~
+0 0 12457
+D2
+~
+~
+0 0 12464
+D3
+~
+~
+0 0 12475
+S
+#12466
+On the Ocean~
+   You are floating above the restless surface of the water.  As 
+you venture across the water's surface, you note your shadow 
+below, distorting with the currents.  Gales rush past you, hitting 
+you with spray and bits of seamoss. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12467
+D1
+~
+~
+0 0 12458
+D2
+~
+~
+0 0 12465
+D3
+~
+~
+0 0 12476
+S
+#12467
+On the Ocean~
+   The wide ocean spans across your vision, making you lose all 
+sense of direction.  Your nostrils sting as the mist shimmers you, 
+bringing tears of pain to your eyes.  In the distance, you can see 
+the foam of a broken water currents. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12468
+D1
+~
+~
+0 0 12459
+D2
+~
+~
+0 0 12466
+D3
+~
+~
+0 0 12477
+S
+#12468
+On the Ocean~
+   Here, porpoises and terns float, splashing happily into the 
+water.  As you travel across the water's surface, you note your 
+shadow below, fading with the currents.  In the distance, you can 
+see the foam of a broken water waves. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12469
+D1
+~
+~
+0 0 12460
+D2
+~
+~
+0 0 12467
+D3
+~
+~
+0 0 12478
+S
+#12469
+On the Ocean~
+   You are floating above the listless surface of the water.  As 
+you venture across the water's surface, you note your shadow 
+below, waving with the waves.  Gusts rush past you, blasting you 
+with foam and bits of driftwood. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12470
+D1
+~
+~
+0 0 12461
+D2
+~
+~
+0 0 12468
+D3
+~
+~
+0 0 12479
+S
+#12470
+On the Ocean~
+   Here, otters and terns float, splashing freely into the water.  
+As you float above the surface, waves crash into you, forcing you 
+to pay attention to the water's motion.  On the water's surface, 
+you note seaweed floating gently beside you. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12471
+D1
+~
+~
+0 0 12462
+D2
+~
+~
+0 0 12469
+D3
+~
+~
+0 0 12480
+S
+#12471
+On the Ocean~
+   The wide sea spans across your vision, making you lose all 
+sense of direction.  Your wrists sting as the crest highlights 
+you, bringing tears of pain to your eyes.  On the sea's surface, 
+you note flotsam floating erratically beside you. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12472
+D1
+~
+~
+0 0 12463
+D2
+~
+~
+0 0 12470
+D3
+~
+~
+0 0 12481
+S
+#12472
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the far north and east.  To the south and
+west the ocean stretches to the horizon.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12473
+D1
+~
+~
+0 0 9266
+D2
+~
+~
+0 0 12471
+D3
+~
+~
+0 0 12482
+S
+#12473
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the north and east.  To the south and west
+the coast stretches toward the horizon.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 9253
+D1
+~
+~
+0 0 9260
+D2
+~
+~
+0 0 12472
+D3
+~
+~
+0 0 12483
+S
+#12474
+On the Ocean~
+   Here, otters and manatees circle, splashing purposely into the 
+sea.  You marvel at the schools of salmon that streak through the 
+sea as though they were birds coasting in the air.  In the distance,
+you can see the foam of broken sea waves whiten the surface of the
+water and crash against the tall vertical cliffs of a small island
+to the southeast.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12475
+D1
+~
+~
+0 0 12464
+D2
+~
+~
+0 0 12643
+D3
+~
+~
+0 0 12485
+S
+#12475
+On the Ocean~
+   You are floating above the restless surface of the ocean.  You 
+marvel at the schools of trout that streak through the ocean as 
+though they were birds coasting in the air.  Rotted driftwood
+floats along beside you.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12476
+D1
+~
+~
+0 0 12465
+D2
+~
+~
+0 0 12474
+D3
+~
+~
+0 0 12486
+S
+#12476
+On the Ocean~
+   The wide water spans across your sight, making you lose all 
+sense of direction.  As you float above the surface, waves crash 
+into you, forcing you to pay attention to the water's motion.  A
+rotted lobster trap floats here, tossed on the water's surface.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12477
+D1
+~
+~
+0 0 12466
+D2
+~
+~
+0 0 12475
+D3
+~
+~
+0 0 12487
+S
+#12477
+On the Ocean~
+   The wide sea spans fills your perception, making you lose all
+sense of direction.  Your wrists sting as the spray bites into
+you, bringing tears of pain to your eyes.  A broken buoy floats
+here, tossed along at the mercy of the sea.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12478
+D1
+~
+~
+0 0 12467
+D2
+~
+~
+0 0 12476
+D3
+~
+~
+0 0 12488
+S
+#12478
+On the Ocean~
+   You are floating above the churning surface of the water.  Your 
+nostrils sting as the crests of the waves crash into you, bringing
+tears of pain to your eyes.  On the ocean's surface, you note flotsam
+floating beside you. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12479
+D1
+~
+~
+0 0 12468
+D2
+~
+~
+0 0 12477
+D3
+~
+~
+0 0 12489
+S
+#12479
+On the Ocean~
+   You are floating above the listless surface of the water.  You 
+marvel at the schools of salmon that streak through the sea as 
+though they were birds coating in the air.  Gales blow into you,
+spraying you with algae and bits of seamoss. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12480
+D1
+~
+~
+0 0 12469
+D2
+~
+~
+0 0 12478
+D3
+~
+~
+0 0 12490
+S
+#12480
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float above the surface, eddies crash into you, forcing you to 
+pay attention to the water's motion.  On the water's surface, you 
+note seaweed floating at the mercy of the sea beside you. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12481
+D1
+~
+~
+0 0 12470
+D2
+~
+~
+0 0 12479
+D3
+~
+~
+0 0 12491
+S
+#12481
+On the Ocean~
+   The wide water dazzles your perception, making you lose all sense
+of direction.  As you travel across the sea's surface, you note your
+shadow below, fading with the waves.  Breezes rush past you, spraying
+you with bits of seaweed. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12482
+D1
+~
+~
+0 0 12471
+D2
+~
+~
+0 0 12480
+D3
+~
+~
+0 0 12492
+S
+#12482
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float above the surface, eddies crash into you, forcing you to 
+pay attention to the water's motion.  On the water's surface, you 
+note seaweed floating at the mercy of the sea beside you. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12483
+D1
+~
+~
+0 0 12472
+D2
+~
+~
+0 0 12481
+D3
+~
+~
+0 0 12493
+S
+#12483
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the north and east.  To the south and west
+the coast stretches toward the horizon.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12484
+D1
+~
+~
+0 0 12473
+D2
+~
+~
+0 0 12482
+D3
+~
+~
+0 0 12494
+S
+#12484
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the north and east.  The ocean stretches to
+the horizon to the west and south.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 9244
+D1
+~
+~
+0 0 9253
+D2
+~
+~
+0 0 12483
+D3
+~
+~
+0 0 12495
+S
+#12485
+On the Ocean~
+   Here, otters and manatees float, splashing dutifully into the 
+ocean.  As you float above the surface, currents crash into you, 
+forcing you to pay attention to the water's motion.  The buoy 
+seems to be rotted with age. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12486
+D1
+~
+~
+0 0 12474
+D2
+~
+~
+0 0 12642
+D3
+~
+~
+0 0 12496
+S
+#12486
+On the Ocean~
+   You are floating above the listless surface of the water.  As 
+you float above the surface, currents crash into you, forcing you 
+to pay attention to the water's motion.  On the ocean's surface, 
+you note seamoss floating at the mercy of the sea beside you. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12487
+D1
+~
+~
+0 0 12475
+D2
+~
+~
+0 0 12485
+D3
+~
+~
+0 0 12497
+S
+#12487
+On the Ocean~
+   Here, otters and manatees circle, splashing purposely into the 
+sea.  You marvel at the schools of salmon that streak through the 
+sea as though they were birds coasting coating in the air.  In the
+distance, you can see the foam of broken sea waves. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12488
+D1
+~
+~
+0 0 12476
+D2
+~
+~
+0 0 12486
+D3
+~
+~
+0 0 12498
+S
+#12488
+On the Ocean~
+   You are floating without direction on the surface of the water. 
+ Your face sting as the spray whisps you, bringing tears of pain 
+to your eyes.  The piece of driftwood seems to be rotted with 
+wind. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12489
+D1
+~
+~
+0 0 12477
+D2
+~
+~
+0 0 12487
+D3
+~
+~
+0 0 12499
+S
+#12489
+On the Ocean~
+   The wide sea spans across your sight, making you lose all sense 
+of direction.  Your face sting as the foam condenses you, bringing 
+tears of pain to your eyes.  Gusts rush past you, hitting you with 
+froth and bits of kelp. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12490
+D1
+~
+~
+0 0 12478
+D2
+~
+~
+0 0 12488
+D3
+~
+~
+0 0 12500
+S
+#12490
+On the Ocean~
+   The wide ocean spans across your sight, making you lose all 
+sense of direction.  You marvel at the schools of mackereal that 
+streak through the sea as though they were birds sailing in the 
+air.  The buoy seems to be rotted with brine. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12491
+D1
+~
+~
+0 0 12479
+D2
+~
+~
+0 0 12489
+D3
+~
+~
+0 0 12501
+S
+#12491
+On the Ocean~
+   Here, otters and terns sail, splashing happily into the water.  
+As you voyage across the ocean's surface, you note your image 
+below, fading with the currents.  Gales rush past you, blasting 
+you with mist and bits of kelp. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12492
+D1
+~
+~
+0 0 12480
+D2
+~
+~
+0 0 12490
+D3
+~
+~
+0 0 12502
+S
+#12492
+On the Ocean~
+   You are floating above the restless surface of the water.  As 
+you venture across the water's surface, you note your shadow 
+below, distorting with the currents.  Gales rush past you, hitting 
+you with spray and bits of seamoss. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12493
+D1
+~
+~
+0 0 12481
+D2
+~
+~
+0 0 12491
+D3
+~
+~
+0 0 12503
+S
+#12493
+On the Ocean~
+   You are floating without direction on the surface of the water. 
+You marvel at the schools of mackerel that streak through the ocean
+as though they were birds sailing in the air.  In the distance, you
+can see the foam of broken ocean currents. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12494
+D1
+~
+~
+0 0 12482
+D2
+~
+~
+0 0 12492
+D3
+~
+~
+0 0 12504
+S
+#12494
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the far north and east.  To the south and
+west the coast stretches toward the horizon.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12495
+D1
+~
+~
+0 0 12483
+D2
+~
+~
+0 0 12493
+D3
+~
+~
+0 0 12505
+S
+#12495
+Coastal Waters~
+   You are floating above the churning surface of the water where
+it meets the coast to the north and far east.  The ocean stretches
+to the horizon to the west and south.
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 9243
+D1
+~
+~
+0 0 12484
+D2
+~
+~
+0 0 12494
+D3
+~
+~
+0 0 12506
+S
+#12496
+On the Ocean~
+   You are floating above the churning surface of the ocean.  As 
+you float above the surface, eddies crash into you, forcing you to 
+pay attention to the water's motion.  In the distance, you can see 
+the foam of a broken water waves. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12497
+D1
+~
+~
+0 0 12485
+D2
+~
+~
+0 0 12641
+D3
+~
+~
+0 0 12507
+S
+#12497
+On the Ocean~
+   You are floating above the restless surface of the ocean.  You 
+marvel at the schools of trout that streak through the ocean as 
+though they were birds coating in the air.  The piece of driftwood 
+seems to be rotted with wind. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12498
+D1
+~
+~
+0 0 12486
+D2
+~
+~
+0 0 12496
+D3
+~
+~
+0 0 12508
+S
+#12498
+On the Ocean~
+   The wide ocean spans across your sight, making you lose all 
+sense of direction.  You marvel at the schools of mackereal that 
+streak through the sea as though they were birds sailing in the 
+air.  The buoy seems to be rotted with brine. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12499
+D1
+~
+~
+0 0 12487
+D2
+~
+~
+0 0 12497
+D3
+~
+~
+0 0 12509
+S
+#12499
+On the Ocean~
+   Here, otters and terns skim, splashing dutifully into the 
+water.  As you float above the surface, eddies crash into you, 
+forcing you to pay attention to the water's motion.  Gales rush 
+past you, hitting you with wavecrests and bits of seaweed. 
+~
+124 0 0 0 0 7
+D0
+~
+~
+0 0 12500
+D1
+~
+~
+0 0 12488
+D2
+~
+~
+0 0 12498
+D3
+~
+~
+0 0 12510
+S
+$~

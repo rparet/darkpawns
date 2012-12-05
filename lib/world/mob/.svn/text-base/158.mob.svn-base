@@ -1,0 +1,266 @@
+#15801
+ghost apparation figure~
+an apparition~
+A ghostly looking figure stands before you.
+~
+There's not much to see except for the wall on the other side. This thing
+is completely transparent and at times it is difficult to even see it.
+~
+256088 0 0 0 1074168872 0 0 0 0 E
+18 2 -8 18d5+190 12d4+12
+0 20000
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: Something nearby lets out a bone chilling scream.
+E
+#15802
+skeleton skeletal guard~
+a skeletal guard~
+A skeletal guard stands in front of the door.
+~
+At one time, this creature could have been an actual guard but it has been
+summoned from the world of the undead to guard entry into the room to the
+south.
+~
+190506 0 0 0 140320 0 0 0 -400 E
+22 -2 -12 22d5+230 14d4+14
+10 30000
+8 8 0
+Race: 9
+E
+#15803
+deformed creature~
+the deformed creature~
+A deformed creature lies in a heap on the floor.
+~
+Surprisingly, this is the only creature that has not been restrained. It
+is quite large and prefers to be left alone, hiding in the corner.
+~
+190600 0 0 0 1024 0 0 0 600 E
+16 4 -6 16d5+170 10d4+10
+0 16000
+5 5 0
+BareHandAttack: 4
+Noise: One of the prisoners pleads for help.
+E
+#15804
+Nihassa necromancer~
+Nihassa the Necromancer~
+The Necromancer turns her frosty gaze upon you.
+~
+Now you've done it...no one disturbs the work of the necromancer and gets
+away with it. She has isolated herself from the world so that she may
+practice magic that is forbidden, and you have disrupted that isolation.
+~
+8640569 0 0 0 42152 0 0 0 -1000 E
+31 -11 -21 31d5+997 20d4+20
+300 90000
+8 8 2
+BareHandAttack: 12
+Race: 0
+Noise: A female voice bellows out, "Who dares to enter my domain!"
+E
+#15805
+crazed prisoner man crazy~
+a crazed prisoner~
+A crazy looking man runs at you screaming.
+~
+Months of being imprisoned have left this poor soul completely insane, he
+no longer has control over himself.
+~
+172 0 0 0 0 0 0 0 500 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 1
+Race: 0
+E
+#15806
+undead creature alchemist~
+the undead alchemist~
+An undead creature wanders around, focused solely on its work.
+~
+This creature must have done something during its mortal life to be trapped
+in its present form. It ignores your gaze and continues with whatever
+experiments it was performing.
+~
+24 0 0 0 1056 0 0 0 0 E
+16 4 -6 16d5+170 10d4+10
+10 16000
+8 8 0
+Race: 9
+E
+#15807
+spectral figure arborius~
+Arborius~
+Tending to the light, a spectral figure turns his gaze upon you.
+~
+For his sins, Arborius has returned to this world to continue the job he
+was chosen for during his mortal life. Although as a ghost, his presense
+here no longer serves a purpose.
+~
+221210 0 0 0 1073742888 0 0 0 -750 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 1
+Race: 25
+E
+#15808
+member ship crew pirate smuggler~
+a smuggler~
+A member of the ship's crew walks around the deck.
+~
+The smuggler is too occupied with his work to worry about you. Although, he
+is well equipped to fight and will do anything to prevent the secret of the
+operation to escape.
+~
+153608 0 0 0 131072 0 0 0 -500 E
+16 4 -6 16d5+170 10d4+10
+30 16000
+8 8 1
+Race: 0
+E
+#15809
+rough man smuggler~
+a smuggler~
+Breathing heavily, a rough looking man moves casks around.
+~
+He looks rather nervous as he goes about his work, well aware that if caught
+he would be killed for such smuggling activities.
+~
+22568 0 0 0 132096 0 0 0 -300 E
+15 5 -5 15d5+160 10d4+10
+30 14000
+8 8 1
+Race: 0
+E
+#15810
+rough man supervises smuggler supervisor~
+the smuggler supervisor~
+Barking orders, a rough looking man supervises the ongoing work.
+~
+In charge of the smuggling operation, this rough looking character is ready
+to fight.
+~
+153640 0 0 0 132096 0 0 0 -500 E
+18 2 -8 18d5+190 12d4+12
+75 20000
+8 8 1
+Race: 0
+Noise: A rough looking man spots you and starts yelling for his comrades.
+E
+#15811
+ship captain pirate smuggler~
+the ship captain~
+The ship captain is quite angry at your intrusion.
+~
+Perhaps it's the patch over his right eye, but you get the feeling this guy
+is well experienced in combat.
+~
+161834 0 0 0 139264 0 0 0 -500 E
+26 -6 -16 26d5+322 17d4+17
+100 40000
+8 8 1
+Race: 0
+E
+#15812
+well armed pirate guard~
+a pirate guard~
+A well-armed guard walks towards you pointing his weapon.
+~
+Tall, lean and well muscled, the guard takes his job seriously.
+~
+268328 0 0 0 163840 0 0 0 -500 E
+15 5 -5 15d5+160 10d4+10
+50 14000
+8 8 1
+Race: 0
+E
+#15813
+green slime~
+the green slime~
+A pulsating pile of green slime creeps toward you.
+~
+Kinda a snot-green, you can safely assume it is hostile.
+
+~
+239736 0 0 0 1032 0 0 0 -300 E
+11 9 -1 11d5+120 7d4+7
+0 7500
+8 8 0
+BareHandAttack: 1
+E
+#15814
+torture chamber master~
+the Chamber Master~
+The master of this torture chamber grins evily at you.
+~
+This sick and twisted individual takes pleasure in his work and by the looks
+of him, he's quite good at it too.
+~
+26650 0 0 0 1032 0 0 0 -1000 E
+22 -2 -12 22d5+230 14d4+14
+100 30000
+8 8 1
+Race: 9
+E
+#15815
+laboratory experiment~
+the laboratory experiment~
+What remains of a laboratory experiment crawls around the floor.
+~
+You're not quite sure what it is, because it is the combination of various
+races. It has several legs, three arms and two heads...perhaps you should
+put it out of its misery.
+~
+136 0 0 0 1024 0 0 0 400 E
+14 6 -4 14d5+150 9d4+9
+0 12000
+8 8 0
+BareHandAttack: 4
+E
+#15816
+human hawk creature khial~
+the khial~
+Some type of creature, half human and half hawk stands before you.
+~
+It has the head of a hawk and the body of a human, both appear to have been
+combined quite successfully to form the creature before you.
+~
+65544 0 0 0 132096 0 0 0 0 E
+16 4 -6 16d5+170 10d4+10
+20 16000
+8 8 2
+BareHandAttack: 13
+Race: 24
+E
+#15817
+brutish troll servant~
+the servant of the Necromancer~
+A brutish troll wanders the halls, servant to the necromancer.
+~
+Responsible for the movement, sedation and control of prisoners, this servant
+is loyal only to his master.
+~
+6152 0 0 0 132136 0 0 0 0 E
+18 2 -8 18d5+190 12d4+12
+30 20000
+8 8 1
+Race: 6
+E
+#15818
+Charbroil smuggler cook grotty man~
+Charbroil, the smuggler cook~
+A grotty little man cuts up some meat on the bench top.
+~
+Charbroil has given up his life at sea to remain here and prepare food for
+future voyages. His time as a pirate and smuggler have taught him a trick or
+two on how to fight.
+~
+24590 0 0 0 1024 0 0 0 0 E
+16 4 -6 16d5+170 10d4+10
+20 16000
+8 8 1
+Race: 0
+E
+$

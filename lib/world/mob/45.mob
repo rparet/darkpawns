@@ -1,0 +1,101 @@
+#4500
+rat giant~
+a giant rat~
+A giant rat stares at you with beady red eyes.
+~
+The rat is covered in dirty grey fur, infested with lice. It's about 2 
+feet long not counting its foot-long tail.
+~
+76 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+BareHandAttack: 4
+Race: 15
+E
+#4501
+mold carnivorous~
+a carnivorous mold~
+A corner of the wall here is covered in a heap of green mold.
+~
+It looks like a patch of green carpet.. that moves and wants to eat you.
+~
+104 0 0 0 0 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+E
+#4502
+minotaur~
+the minotaur~
+A gigantic minotaur stands before you, snorting angrily.
+~
+The minotaur looks like a muscled warrior with the head of a bull. Horns the 
+size of your dagger sprout from its head, and its breath steams in the cold
+air of the labyrinth.
+~
+46 0 0 0 0 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+50 3500
+8 8 1
+Race: 30
+E
+#4503
+bat black~
+a black bat~
+A huge black bat claws at your eyes.
+~
+It looks like a ferocious black rat with wings.
+~
+104 0 0 0 67108864 0 0 0 -10 E
+3 17 7 3d5+40 2d4+1
+0 350
+8 8 0
+Race: 15
+E
+#4504
+revenant skeleton~
+the revenant~
+A skeletal figure rags rises from its grave and points at you wordlessly.
+~
+The figure looks like an animated skeleton.. An undead with too much will to 
+stay in the grave!
+~
+46 0 0 0 0 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+20 3500
+8 8 0
+Race: 9
+E
+#4505
+rat giant rabid~
+a giant rat~
+A giant rat drips saliva from its mouth as it peers at you.
+~
+The rat is covered in dirty grey fur, infested with lice. It's about 2 feet
+long not counting its foot-long tail.
+~
+76 0 0 0 0 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+BareHandAttack: 4
+Race: 15
+E
+#4506
+harpy rock~
+the rock harpy~
+A rock harpy screeches at you as it lunges for your throat.
+~
+The rock harpy is a close kin to the normal harpy, but its vestigal wings have
+left it earthbound and ashamed.. So it hides here below the ground, waiting for 
+whatever food comes its way.
+~
+104 0 0 0 0 0 0 0 -1000 E
+5 15 5 5d5+60 2d4+2
+20 900
+8 8 2
+BareHandAttack: 8
+Race: 25
+E
+$

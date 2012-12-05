@@ -1,0 +1,421 @@
+#4800
+man sailor~
+a sailor~
+A tired sailor stands here, leaning wearily on a crate.
+~
+   From the lines and wind scars on his sunburnt face, you can see that
+this man has clearly spent most of his adult life on the deck of a ship.
+~
+2120 0 0 0 1032 0 0 0 300 E
+18 2 -8 18d5+190 12d4+12
+10 20000
+8 8 1
+Race: 0
+E
+#4801
+waiter~
+a waiter~
+A waiter is here, carrying a tray full of food.
+~
+This yellow-skinned man rushes with the energy, though not the enthusiasm,
+of a child, delivering food and drinks to those who dine and gamble here.
+~
+76 0 0 0 0 0 0 0 500 E
+12 8 -2 12d5+130 8d4+8
+10 9000
+8 8 0
+Race: 0
+E
+#4802
+citizen~
+a citizen~
+A common citizen is here, walking down the street.
+~
+This man is little more than a common laborer.  Adjusting his torn,
+cloth shirt, he ignores you and continues walking down the street.
+~
+72 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 5d4+4
+10 4500
+8 8 1
+Race: 0
+E
+#4804
+dockworker~
+a dockworker~
+A muscled dockworker is here, carrying crates around.
+~
+Tanned and rippling with muscles, this native Xixieqian seems to earn
+his living by carrying heavy crates from the dockyard onto the ships
+for export.
+~
+72 0 0 0 0 0 0 0 0 E
+18 2 -8 18d5+190 12d4+12
+200 20000
+8 8 1
+Race: 0
+E
+#4805
+lodger~
+a lodger~
+A lodger has rented this room and is resting here.
+~
+Road-weary, this wanderer has decided to take advantage of the comforts
+of this inn.  He appears to be unarmed, but his muscles and scars tell
+of many adventures on the open road.
+~
+72 0 0 0 131072 0 0 0 500 E
+18 2 -8 18d5+190 12d4+12
+0 20000
+5 5 1
+Race: 0
+E
+#4806
+woman~
+a woman~
+A haggard woman, perhaps the mother of a young child, stands here.
+~
+She looks very, very tired, this poor woman.  Lines of fatigue and toil
+mar her face as she stands, leaning against a wall of a building for a 
+rest.
+~
+72 0 0 0 0 0 0 0 500 E
+12 8 -2 12d5+130 8d4+8
+2 9000
+8 8 2
+Race: 0
+E
+#4807
+child Xixieqian~
+a Xixieqian child~
+A Xixieqian child plays here.
+~
+This child appears to be no more than seven and runs in circles here,
+apparently chasing an invisible dog.
+~
+72 0 0 0 0 0 0 0 100 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 1
+Race: 0
+E
+#4808
+Soo Lin Tao~
+Soo Lin Tao~
+Soo Lin Tao stands here, tapping a cork into a cask of wine.
+~
+This middle-aged man smiles at you as you enter the store.  Perhaps,
+he thinks, you may buy something from him.
+~
+10 0 0 0 1032 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 1
+Race: 0
+E
+#4809
+Hrenchao~
+Hrenchao~
+Hrenchao sits here, mixing a poultice.
+~
+Hrenchao is an old, old man.  His tanned, yellow skin is mottled with
+spots of age while his face bears the wrinkles and scars of the
+adventures of many decades.
+~
+10 0 0 0 1032 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+21
+30000 120000
+8 8 0
+Race: 0
+E
+#4811
+Lin Chao~
+Lin Chao~
+Lin Chao stands here, tending the bar.
+~
+A portly, yellow-skinned man, Lin Chao appears to be in his midlife with
+slightly greying hair amidst the black strands.
+~
+10 0 0 0 1032 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+21
+1000 120000
+8 8 1
+Race: 0
+E
+#4812
+Sage~
+a sage~
+A sage sits here, reading a book.
+~
+This wrinkled old man appears to be little more than a scholarly prune.
+Age spots and fold of skin hang from his gaunt face, giving the appearance
+that his flesh is trying to escape his bones.
+~
+32798 0 0 0 4224 0 0 0 600 E
+18 2 -8 18d5+190 12d4+12
+50 20000
+8 8 1
+Race: 0
+E
+#4813
+channeler~
+the channeler~
+A channeler of spirits and ghosts is here, casting his eyes upward.
+~
+This man appears to be in a daze.  He whispers quiet mutterings to the
+air, apparently receiving answers to his words, as his eyes are glazed,
+but his expressions are lucid.
+~
+90127 0 0 0 128 0 0 0 0 E
+31 -11 -21 31d5+997 20d4+20
+1000 90000
+8 8 1
+BareHandAttack: 12
+Race: 0
+E
+#4814
+constable~
+the constable~
+The constable stands here, surrounded by parchments and scribes.
+~
+This tall man appears to be a well-trained warrior.  His biceps and
+pectorals bulge though his silken shirt while his abdominals muscles
+appear to be trying to thrust his belt dagger through its scabbard
+within his waistband.
+~
+383002 0 0 0 1064 0 0 0 200 E
+27 -7 -17 27d5+345 18d4+18
+100 45000
+8 8 1
+Race: 0
+E
+#4815
+scribe~
+a legal scribe~
+A scribe sits here, scribbling out passes and permits.
+~
+This young, yellow-skinned man appears to be well-suited for the life of
+a scribe.  His long, dextrous fingers quickly scribble down orders and
+requisitions for those who pay the necessary fees.  His hawkish nose is
+windburned and peeling, while sweat pours off his lithe frame, drenching
+his stained white scribe's robes.
+~
+4234 0 0 0 1032 0 0 0 500 E
+18 2 -8 18d5+190 12d4+12
+10 20000
+8 8 1
+Race: 0
+E
+#4816
+cook~
+a cook~
+A yellow-skinned cook stands here, boiling water.
+~
+Dripping with sweat, this overworked man fries something in a giant
+wok.  His hair is wet with steam from the boiling water around him,
+and you notice a burn on one of his slender hands.
+~
+10 0 0 0 0 0 0 0 500 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 1
+Race: 0
+E
+#4817
+Nijen man~
+Nijen~
+A middle-aged man is here, polishing a snuff bottle.
+~
+This man appears to be intoxicated, or perhaps under the influence of
+some substance.  His eyes are glazed, but there can be no question as
+to his skill in glassworking, as is evident by the flawless crystal
+earring on his right earlobe and the snuff bottles which line the
+shelves along the wall.
+~
+10 0 0 0 4104 0 0 0 500 E
+31 -11 -21 31d5+997 20d4+20
+1000 90000
+8 8 1
+Race: 0
+E
+#4818
+guard~
+a gate guard~
+A gate guard stands here, monitoring the passers-by.
+~
+Lean and tense, this yellow-skinned man seems hypervigilant and well-
+suited to guard the gate against suspicious intruders.
+~
+38938 0 0 0 1064 0 0 0 500 E
+24 -4 -14 24d5+276 16d4+16
+10 35000
+8 8 1
+Race: 0
+E
+#4819
+Ping Xiao~
+Ping Xiao~
+Ping Xiao stands here, overseeing the gaming, gambling, and bartending.
+~
+Marred with pockmarks from oversampling of his stock, this slender man
+leans over a game of bones, wary of any cheaters.
+~
+2186 0 0 0 1032 0 0 0 600 E
+31 -11 -21 31d5+997 20d4+20
+500 90000
+8 8 1
+Race: 0
+E
+#4820
+Ta'lon Chao~
+Ta'lon Chao~
+Ta'lon Chao sits here, mixing reagents.
+~
+This woman appears to me in late-middle age, her yellow skin has grown
+brown as the years have passed, leading you to believe that she is much
+older than she appears.
+~
+215054 0 0 0 5160 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+21
+20000 120000
+8 8 1
+Race: 0
+E
+#4821
+master training warrior~
+the master warrior~
+A master warrior stands here, training those of lesser skills.
+~
+This is easily the largest man you have seen in Xixieqi.  At nearly
+seven feet tall, this giant wears his hair in a singular braid which
+flows down the length of this back.  His arms are scarred and bruised,
+evidence of his daily work with those who choose to spar with him to
+improve their skills.
+~
+6155 0 0 0 1032 0 0 0 500 E
+33 -13 -23 33d5+2163 22d4+22
+5 180000
+8 8 1
+Race: 0
+E
+#4822
+Moo Shi armorer armourer~
+Moo Shi~
+Moo Shi, the armourer, stands here, hammering metal on an anvil.
+~
+Powerfully built, this man appears to be working on fashioning a new
+set of scale armour.  His face is hairless, as are his muscled arms,
+evidence of many hours working with hot steel and iron.
+~
+10 0 0 0 1032 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+21
+20000 120000
+8 8 1
+Race: 0
+E
+#4823
+Yui Gui Pan~
+Yui Gui Pan~
+Yui Gui Pan, the tanner, sits here, poking holes into a yak skin.
+~
+Apparently the best tanner in the city, this yellow-skinned man has the
+regal, almost arrogant bearing of a man who knows he is an expert at his
+trade.  He gestures to you and then you his wares, offering you his fine
+leathers.
+~
+10 0 0 0 1032 0 0 0 500 E
+32 -12 -22 32d5+1580 21d4+21
+20000 120000
+8 8 1
+Race: 0
+E
+#4824
+weaponer~
+the weaponer~
+The weaponer stands here, chiseling a whetstone from granite.
+~
+Lean and obviously skilled with blades, this merchant gestures you to
+examine his wares.
+~
+14 0 0 0 8 0 0 0 500 E
+32 -12 -22 32d5+1580 21d4+21
+20000 120000
+8 8 1
+Race: 0
+E
+#4825
+Fang woman~
+Fang~
+A lithe, almost cat-like woman stands here, examining documents.
+~
+If it weren't for her yellow skin - that of a native - you would think this
+slender woman was an elf.  With feline movements and grace, she looks you 
+over, apparently not in approval.
+~
+2079 0 0 0 1032 0 0 0 -300 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 2
+Race: 0
+E
+#4826
+Yuang Li Tao~
+Yuang Li Tao~
+Yuang Li Tao, the seamstress, is here, mending a hole in a silk shirt.
+~
+An older woman, Yuang Li Tao appears to just want to sew as the last days of
+her life pass.  The work she appears to do is exquisite however, as fine
+silken shirts hang from rails around her.
+~
+10 0 0 0 8 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+1000 180000
+8 8 2
+Race: 0
+E
+#4827
+priest cult~
+a cult priest~
+A priest of the cult bows low, welcoming you.
+~
+Cloaked in thick white robes, you can make out no facial features.  His
+hands are smooth, with long tapered fingers however, betraying the man's
+age to be young.
+~
+137226 0 0 0 1032 0 0 0 600 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 1
+Race: 0
+E
+#4828
+Meng~
+Meng~
+Meng stand here, trying to interest you in provisions.
+~
+This man appears to be the classic Xixieqian.  Yellow skin, brown eyes,
+short black hair, and almond-shaped eyes clearly show his heritage and
+race.
+~
+2058 0 0 0 1032 0 0 0 500 E
+33 -13 -23 33d5+2163 22d4+22
+20000 180000
+8 8 1
+Race: 0
+E
+#4836
+a merchant~
+a merchant~
+A wealthy merchant stands here, smoking a pipe.
+~
+Dressed in fine clothes and slippers, this stately man appears to have
+all the necessities of his life fulfilled, as is evident by the plush
+fur carpets and the leather furniture around him.
+~
+2056 0 0 0 1032 0 0 0 500 E
+18 2 -8 18d5+190 12d4+12
+100 20000
+8 8 1
+Race: 0
+E
+$

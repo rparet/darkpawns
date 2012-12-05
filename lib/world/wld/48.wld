@@ -1,0 +1,2211 @@
+#4800
+The Docks of XiXieqi~
+You are standing on the docks of an active seaside village.  Fishmongers
+and fishermen haggle over the prices of the seafood in their junks as they
+inhale the saline stench of the ocean and the sea life.  Everywhere, 
+citizens rush to make purchases of fresh food and imported goods to take
+home to their awaiting families.  To the south, east, and west, the docks
+continue, while to the north, the open sea invites you for a long sea
+journey.
+~
+48 0 0 0 0 1
+D0
+~
+~
+0 0 21780
+D1
+~
+~
+0 0 19173
+D2
+A dockyard lies in the open to the south.
+~
+~
+0 0 4801
+D3
+~
+~
+0 0 21811
+S
+#4801
+Xixieqi Dockyard~
+   You are standing in the midst of a busy dockyard.  Burly men carry
+barrels and crates about the yard while both loading and unloading
+cargo from incoming ships and junks.  The scent of fish and seafood
+is overwhelming here, making the dockside shops to the east seem very
+inviting.  To the north, the docks of Xixieqi meet the open sea, as
+ships sail past to dock immediately to the west where the sea foam
+comes up over the open pier.  To the south, the street continues, 
+toward the heart of Xixieqi city.
+~
+48 0 0 0 0 1
+D0
+You see a dock to the north.
+~
+~
+0 0 4800
+D1
+The dockyard continues in that direction.
+~
+~
+0 0 4811
+D2
+The street continues to the south.
+~
+~
+0 0 4802
+D3
+~
+~
+0 0 21842
+S
+#4802
+Qitiexi Street At The Dockyard~
+   You are standing in the southern end of a dockyard.  Horsedrawn carriages
+trot past you as their yellow-skinned drivers scream at you to get out of
+the way.  Beneath your feet, you can see where the street that creeps in
+from the south disseminates into the common dockyard around you.  To the
+north and east, the dockyard surrounds you, while to the south, a street
+leads into the city.  You notice the dock end just footsteps away to your
+west and opt not to go for a swim in the churning waters.
+~
+48 0 0 0 0 1
+D0
+The street continues and the scent of fish gets stronger to the
+north.
+~
+~
+0 0 4801
+D1
+The dockyard continues in that direction.
+~
+~
+0 0 4812
+D2
+The street continues to the south.
+~
+~
+0 0 4803
+S
+#4803
+Qitiexi Street~
+   You are dodging fast-moving people and carts in the middle of a busy
+street.  Beneath you, the gravel is worn into depressions where many
+years of travel along this lane have left their indentations.  The
+street continues to the north and south, while shops line the eastern
+side of the road.  To the west, a few fishing stalls have opened up 
+along the seaside.
+~
+48 0 0 0 0 1
+D0
+The street continues to the north.
+~
+~
+0 0 4802
+D1
+There is a shop in that direction.  The sign on its fron
+shows a bottle of wine and glasses of spirits surrounding
+it.
+~
+~
+0 0 4813
+D2
+The street continues to the south, where it later meets a common
+city square.
+~
+~
+0 0 4804
+S
+#4804
+Qitiexi Street~
+   You are standing just north of a populated city square.  All around
+you, yellow-skinned men and women bustle about their daily duties, 
+scrambling about their business.  The street to each side of you is 
+lined with busy venders; each trying to hawk his valuables on passers-by.
+The street continues to the north, while to the east and west, an
+herbalist and a fishmonger's stall invite you to examine their wares.
+~
+48 0 0 0 0 1
+D0
+The street continues to the north.
+~
+~
+0 0 4803
+D1
+There is a shop there.  Its sign bears a ginseng root and a blue
+bottle.
+~
+~
+0 0 4814
+D2
+The street ends at a common square and a black monolith.
+~
+~
+0 0 4805
+S
+#4805
+Maoqi Square~
+You stand before an enormous monolith.  Here, three streets converge
+as if to pay homage to the black spire which seems to stab at the sky.
+Oddly enough, you feel a rhythmic pulsing coming from the spire.  As
+you look up at it, you notice thick grey clouds gathering at its tip,
+as though they were being drawn into its peak.  To the north, south,
+and east, shop-lined streets and shacks invite you to explore this
+city.
+~
+48 262144 0 0 0 1
+D0
+The square meets a busy street to the north.
+~
+~
+0 0 4804
+D1
+You see a street cut in from that direction.
+~
+~
+0 0 4815
+D2
+The residential section of the city lies to the south.
+~
+~
+0 0 4806
+S
+#4806
+Dinxi Street~
+   You seem to be standing in the residential section of the city.  Here,
+older ladies and children converse and play, discussing complaints of 
+their daily lives and plans for the future.  To the east and west, shacks
+and other small dwellings which house the population line the streets,
+while to the south, the street continues further into the residential
+part of the city.  To the north, a city square hosts an enormous black
+monolith.
+~
+48 0 0 0 0 1
+D0
+You see an enormous monolith there.
+~
+~
+0 0 4805
+D1
+You see a civilian dwelling to the east.
+~
+door bamboo~
+1 0 4816
+D2
+You see a littered streeet to the south.
+~
+~
+0 0 4807
+S
+#4807
+Dinxi Street~
+   You are standing in the middle of a garbage-strewn street.  It appears
+as though the residents of this city care little for the conditions of
+the city outside their homes as is evident by the amount of old cloth,
+crumpled paper, parchment, and other garbage which lines the streets
+on both sides.  To the east and west, you can see homes, while to the
+north and south, the street continues.
+~
+48 0 0 0 0 1
+D0
+You see the street continue to the north.
+~
+~
+0 0 4806
+D1
+You can see a simple home to the west.
+~
+door bamboo~
+1 0 4817
+D2
+The street continues to the south.
+~
+~
+0 0 4808
+S
+#4808
+Dinxi Street~
+   You are standing in the middle of a garbage-strewn street.  It appears
+as though the residents of this city care little for the conditions of
+the city outside their homes as is evident by the amount of old cloth,
+crumpled paper, parchment, and other garbage which lines the streets
+on both sides.  To the east and west, you can see homes, while to the
+north and south, the street continues.
+~
+48 0 0 0 0 1
+D0
+The street continue to the north.
+~
+~
+0 0 4807
+D1
+You see a simply city home to the east.
+~
+door bamboo~
+1 0 4818
+D2
+The street turns a corner to the south.
+~
+~
+0 0 4809
+S
+#4809
+The Corner Of Dinxi And Maojeng~
+   Here, the residential district of the city of Xixieqi ends at a
+sharp corner.  No alleys provide any space to the west and south, 
+though the streets continue to the north and east.  All around you, 
+you can hear the noise of screaming mothers and wailing children.
+~
+48 0 0 0 0 1
+D0
+The street continues to the north.
+~
+~
+0 0 4808
+D1
+The street continues in that direction.
+~
+~
+0 0 4819
+D2
+You see a common dwelling to the south.
+~
+door bamboo~
+1 0 4810
+S
+#4810
+A City Home~
+   You are standing in the main room of a typical city dwelling.  The
+place is divided into four small rooms, each separated by bamboo walls
+and tapestry door curtains.  The door to the north is the only exit to
+the outside and appears to be made of fire-hardened bamboo stalks.
+~
+48 8 0 0 0 0
+D0
+You see the doorway leading to the street to the north.
+~
+door bamboo~
+1 0 4809
+S
+#4811
+Xixieqi Dockyard~
+You are standing in a busy dockyard.  Burly men carry barrels and crates
+about the yard while both loading and unloading cargo from incoming ships
+and junks.  The scent of fish and seafood is overwhelming here, making the
+dockside shops to the east seem very inviting.  To the north, the docks of
+Xixieqi meet the open sea, prohibiting your travel as there is no dock
+to greet you, while the dockyard continues to both the west and south.
+~
+48 0 0 0 0 1
+D1
+There appears to be a fine dockside inn to the east.
+~
+~
+0 0 4821
+D2
+The dockyard continues to the south.
+~
+~
+0 0 4812
+D3
+The dockyard continues to the west.
+~
+~
+0 0 4801
+S
+#4812
+Xixieqi Dockyard~
+You are standing in a busy dockyard.  Burly men carry barrels and crates
+about the yard while both loading and unloading cargo from incoming ships
+and junks.  The scent of fish and seafood is overwhelming here, making the
+dockside shops to the east seem very inviting.  To the north, the docks of
+Xixieqi meet the dockyard, while to the west, you see a main street enter
+the dock area.  You notice yet another dockside shop to the south.
+~
+48 0 0 0 0 0
+D0
+The dockyard continues to the north.
+~
+~
+0 0 4811
+D2
+There appears to be a distillery of some kind to the south.
+~
+~
+0 0 4813
+D3
+The dockyard continues in that direction.
+~
+~
+0 0 4802
+S
+#4813
+Soo Lin Tao's Distillery~
+   All around you, bottles of distilled water, brewed rice wines and
+whiskeys, and fermenting fruit juices rest in barrels and kegs which
+line the walls.
+   A single proprietor, Soo Lin Tao looks at you as you enter and
+inspect the bottles of alcoholic items he has stored on his shelves.
+~
+48 8 0 0 0 0
+D0
+You see the dockyard to the north.
+~
+~
+0 0 4812
+D1
+You see a solid wooden doorway there.
+~
+~
+0 0 4823
+D3
+You can see the street to the west.
+~
+~
+0 0 4803
+S
+#4814
+Hrenchao's Herbs And Potions~
+   You stand dizzily as this room's powerful scent of cloying herbs
+and sweet roots assail your senses.  All around you, flowers, pollen,
+odd leaves, and vapourous potions line shelves and fill open crates
+that occupy this tiny shop.
+   There is a door to the west, leading to the street and a smaller
+one to the east, most likely leading to this shop's storeroom or
+second floor.
+~
+48 148 0 0 0 0
+D1
+You see a firm wooden door attached to solid iron hinges.
+~
+door wooden solid~
+1 0 4824
+D2
+You see a street outside to the south.
+~
+~
+0 0 4815
+D3
+You can see the street in that direction.
+~
+~
+0 0 4804
+S
+#4815
+Mito Avenue~
+   You are standing on a busy street.  Around you, people, mules, horses,
+and some strange six-legged pack animals bear boxes and sacks as they
+rush about their business.  
+   You can see an herbalist shop to the north, as it evident by the
+sign which bears a twisted ginseng root resting against a pale blue
+bottle of liquid.  To the south, you see the wall of someone's two-
+level home.  The street continues to the east, and terminates to your 
+west where a tall monolith springs from the junction of three streets.
+~
+48 0 0 0 0 1
+D0
+You see an herbalist's shop to the north.
+~
+~
+0 0 4814
+D1
+The street continues to the east.
+~
+~
+0 0 4825
+D3
+You see an enormous monolith in that direction.
+~
+~
+0 0 4805
+S
+#4816
+A City Home~
+   You are standing in the main room of a typical city dwelling.  The
+place is divided into four small rooms, each separated by bamboo walls
+and tapestry door curtains.  The door to the west is the only exit to
+the outside and appears to be made of fire-hardened bamboo stalks.
+~
+48 8 0 0 0 0
+D3
+You see the door leading to the street there.
+~
+door bamboo~
+1 0 4806
+S
+#4817
+A City Home~
+   You are standing in the main room of a typical city dwelling.  The
+place is divided into four small rooms, each separated by bamboo walls
+and tapestry door curtains.  The door to the west is the only exit to
+the outside and appears to be made of fire-hardened bamboo stalks.
+~
+48 8 0 0 0 0
+D3
+You see the bamboo door leading to the street there.
+~
+door bamboo~
+1 0 4807
+S
+#4818
+A City Home~
+   You are standing in the main room of a typical city dwelling.  The
+place is divided into four small rooms, each separated by bamboo walls
+and tapestry door curtains.  The door to the west is the only exit to
+the outside and appears to be made of fire-hardened bamboo stalks.
+~
+48 8 0 0 0 0
+D3
+You see a bamboo doorway leading to the street.
+~
+door wooden~
+1 0 4808
+S
+#4819
+Maojeng Lane~
+   This is little more than a crudely gravelled road which runs towards
+the seedier section of town.  Homes continue to line the streets, though
+here and there, a warehouse appears between them, throwing shadows on
+the smaller dwellings around them.  This east-west street appears to 
+turn sharply to the west, around the side of the home to the north.  To
+your south, a locked wooden gate prevents you from entering what appears
+to be a ruined temple of some kind.
+~
+48 0 0 0 0 1
+D1
+The street continues to the east.
+~
+~
+0 0 4829
+D2
+You see a locked wooden gate to the south.
+~
+gate wooden~
+2 4846 4820
+D3
+The street bends sharply northward in that direction.
+~
+~
+0 0 4809
+S
+#4820
+Temple Of The Sands~
+   You are standing in a ruined temple.  A cracked statue lies sideways
+on a perched and diased marble altar against the southern wall while
+threadbare tapestries lie half-eaten by insects on the floor.
+   There is an exit to the north.
+~
+48 9 0 0 0 0
+D0
+You see an exit to the north.
+~
+gate wooden~
+2 4846 4819
+S
+#4821
+Lin Chao's Brine Delights~
+   You are standing in a marvelous inn and restaurant.  Tables and
+benches line the walls and surround the tables which are covered
+with fine seafoods, dumplings, and goblets of wine.
+   To the west, you can see the dockyard, while to the east and south,
+the restaurant continues.
+~
+48 0 0 0 0 0
+D1
+You see the inn continue in that direction.
+~
+~
+0 0 4831
+D2
+The inn continues to the south, where you can smell more seafood.
+~
+~
+0 0 4822
+D3
+The dockyard lies that way.
+~
+~
+0 0 4811
+S
+#4822
+Lin Chao's Brine Delights~
+   You are standing in a marvelous inn and restaurant.  Tables and
+benches line the walls and surround the tables which are covered
+with fine seafoods, cold sushi, and bottles of fine brews.
+   To the west and south, you can see painting and tapestries cover
+the walls, while to the north and east, the inn and restaurant
+continues.
+~
+48 8 0 0 0 0
+D0
+The inn continues to the north.
+~
+~
+0 0 4821
+D1
+You can see a bar in that direction.
+~
+~
+0 0 4832
+S
+#4823
+Distillery Storeroom~
+   You are standing in the back room of a distillery.  Here, barrels of
+wine and casks of ale stand open, ready to fill glass bottles for sales
+to common patrons.  An enormous crate of bottles stand open, corks
+resting in a small box beside them.
+   There are no windows here, and the only exit you see lies to the
+west.
+~
+48 9 0 0 0 0
+D3
+You see the doorway to the front of the distillery.
+~
+~
+1 0 4813
+S
+#4824
+The Herbalist's Back Room~
+   Here, herbs and plants hang in clusters from the ceiling.  Bitter
+and foul-smelling roots and garlic seem to overwhelm the more pleasing
+scents of ginseng and powdered orangeseed which occupy bottles on the
+floor.
+   The only apparent exit from this room is back to the west.
+~
+48 9 0 0 0 0
+D3
+You see the doorway to the front of the shop there.
+~
+door wooden~
+1 0 4814
+D5
+You see a panel.
+~
+~
+0 0 4834
+S
+#4825
+Mito Avenue~
+   You are standing on a busy street.  Around you, people, mules, horses,
+and some strange six-legged pack animals bear boxes and sacks as they
+rush about their business.
+   You can see the wall of an herbalist's shop to the north, as it evident by
+sign off to the west by its door.  To the south, you see the entrance
+to someone's home, while the street continues to the east and west.
+~
+48 0 0 0 0 1
+D1
+The street continues in that direction, passing a lovely home to
+the south.
+~
+~
+0 0 4835
+D2
+You see a dwelling to the south.
+~
+door bamboo~
+1 0 4826
+D3
+The street continues to the west.
+~
+~
+0 0 4815
+S
+#4826
+A City Home~
+   You are standing in the main room of a typical city dwelling.  The
+place is divided into four small rooms, each separated by bamboo walls
+and tapestry door curtains.  The door to the north is the only exit to
+the outside and appears to be made of fire-hardened bamboo stalks.
+~
+48 8 0 0 0 0
+D0
+You see the door to the outside there.
+~
+door bamboo~
+1 0 4825
+S
+#4827
+A Sage's Home~
+   You are standing in the house of a kindly, old man.  Around you, wicker
+and reed furniture invites you to relax and read the tomes of lore on the
+shelves of this room.
+   As ashtray on a central table shows evidence of burnt opium and a pale
+green tobacco.
+   The exit is to the south.
+~
+48 41 0 0 0 0
+D2
+You see the main room of the house.
+~
+~
+0 0 4828
+S
+#4828
+A Sage's Home~
+   You are standing comfortably in the house of a kindly, old man.
+Around you, wicker and reed furniture invites you to relax and listen
+to the wise one's legends and tales.
+   Smoke from his pipe fills the room with a thick, almost nectar-like
+aroma.
+   You notice an open doorway to the north while the exit lies to the
+south.
+~
+48 8 0 0 0 0
+D0
+You see the more of the house to the north.
+~
+~
+0 0 4827
+D2
+You see the exit to the south.
+~
+door bamboo wooden~
+1 0 4829
+S
+#4829
+Maojeng Lane~
+   This is little more than a crudely gravelled road which runs towards
+the seedier section of town.  Homes continue to line the streets, though
+here and there, a warehouse appears between them, throwing shadows on
+the smaller dwellings around them.
+   To the north, you can see a stout, solid house of wood and bamboo.
+The place appears to be well-tended and is obviously more than just a
+home.  To the south, a warehouse blocks most of the street in shadow,
+though as you try the door, you find it solid, as if the door was false.
+   The street continues to the east and west.
+~
+48 0 0 0 0 1
+D0
+You see a stately home to the north.
+~
+door wooden bamboo~
+1 0 4828
+D1
+The street continues to the east.
+~
+~
+0 0 4839
+D2
+You see a stout, solid door to the warehouse to the south.
+~
+door solid wooden~
+2 0 4830
+D3
+You see the street continue to the west.
+~
+~
+0 0 4819
+S
+#4830
+A Warehouse~
+   You are standing in an enormous square room.  All around you, mouse
+droppings and rats scuttle about the bare wooden floor, seeking out
+any available tidbit of food.
+   There are no windows here and only the solid door to the north
+provides any exit.
+~
+48 9 0 0 0 0
+D0
+You see the exit to the north.
+~
+door wooden solid~
+2 0 4829
+S
+#4831
+Lin Chao's Brine Delights Common Room~
+   All around you, yellow-skinned men and women partake in the feast
+which is spread across each table.  To the east, a set of stairs leads
+upwards to the sleeping rooms, while to the west, the inn continues.
+~
+48 8 0 0 0 0
+D2
+You see a bar to the south.
+~
+~
+0 0 4832
+D3
+The inn continues to the west.
+~
+~
+0 0 4821
+D4
+You see a dim hallway at the top of the stairs.
+~
+~
+0 0 4841
+S
+#4832
+Lin Chao's Brine Delights Bar~
+   Before you stands the bar.  A lanky, yellow-skinned man stands
+behind the bar, pouring rice and wheat whiskey into a small class.
+On the bar is a registry book.  It appears that the barman is also
+the innkeeper here.
+   To the north and west, the inn continues, while to the east, 
+behind the bar, you can hear the sounds of sizzling food and 
+clanging pots.  The southern wall is solid, but boasts an elegant,
+if not tattered, silk tapestry.
+~
+48 8 0 0 0 0
+D0
+You see more of the inn to the north.
+~
+~
+0 0 4831
+D1
+You see the kitchen in there.
+~
+~
+0 2 4842
+D3
+The inn continues in that direction.
+~
+~
+0 0 4822
+E
+book registry~
+It reads:
+Serapis was here!
+~
+S
+#4833
+Below The Herbalist Shop~
+   You are standing in a damp, musty chamber below the herbalist's shop.
+Here, mushrooms grow in herb-treated compost, adding potency to the fungus
+which appears to be ready for picking.  You can feel a cold draft coming
+from somewhere, as though you were standing in a cave, and not a basement.
+   To your west, you can see a stone wall whose bricks are stacked in
+columns and not the usual center-on-edge form.  To the south and east,
+the basement of the shop continues.
+~
+48 265 0 0 0 0
+D1
+The basement continues to the east.
+~
+~
+0 0 4843
+D2
+The basement continues to the south.
+~
+~
+0 0 4834
+S
+#4834
+Below The Herbalist Shop~
+   You are standing below the herbalist's back staircase.  Here, mushrooms
+grow in herb-treated compost, adding potency to the fungus which appears
+to be ready for picking.  You can feel a cold draft coming from somewhere,
+as though you were standing in a cave, and not a basement.
+   The stairs you came down are above you, while the mushroom chamber
+continues to the north and east.
+~
+48 1048841 0 0 0 0
+D0
+The basement continues to the north.
+~
+~
+0 0 4833
+D1
+The basement continues to the east.
+~
+~
+0 0 4844
+D4
+You can see the stairs above you.
+~
+panel secret door~
+2 0 4824
+S
+#4835
+Mito Avenue~
+   You are standing on a busy street.  Around you, people, mules, horses,
+and some strange six-legged pack animals bear boxes and sacks as they rush
+about their business.
+   You can see a wall to the north, probably part of a house.  To the south,
+you see a newly-renovated home, perhaps that of a merchant.  The street
+continues to the east and west along this cobbled lane.
+~
+48 0 0 0 0 1
+D1
+The street meets a junction to the east.
+~
+~
+0 0 4845
+D2
+You see an elegant home to the south.
+~
+door wooden~
+1 0 4836
+D3
+The street continues to the west.
+~
+~
+0 0 4825
+S
+#4836
+An Elegant Home~
+   Unlike much of the bamboo city around you, you stand in a home of
+wood, brick, and mortar.  Apparently, the owner of this place is
+sufficiently wealthy to invest in better, longer lasting materials.
+   A lone fireplace rests against the southern wall, and as you 
+investigate the home, you find similar hearths in each of the rooms,
+all apparently connected to a central chimney overhead.
+   The only exit appears to be to the north, the way you came in.
+~
+48 8 0 0 0 0
+D0
+You see a solid wooden doorframe and door to the north.
+~
+door wooden~
+1 0 4835
+S
+#4837
+The Channeling Room~
+   You stand in a dark room whose shelves are lined with ancient tomes
+and bottles of captured wispy gases.  In the center of the room, an
+old, wrinkled man in stained robes sits at the head of a wooden table.
+   Suddenly, the table begins to rattle, as though it was being lifted
+by an unseen force.
+~
+48 173 0 0 0 0
+D1
+You see the exit to the east.
+~
+door wooden~
+1 0 4847
+S
+#4838
+A City Home~
+   You are standing in the main room of a typical city dwelling.  The
+place is divided into four small rooms, each separated by bamboo walls
+and tapestry door curtains.  The door to the south is the only exit to
+the outside and appears to be made of fire-hardened bamboo stalks.
+~
+48 8 0 0 0 0
+D2
+You see the doorway leading to the street.
+~
+door bamboo~
+1 0 4839
+S
+#4839
+Maojeng Lane~
+   This is little more than a crudely gravelled road which runs towards
+the seedier section of town.  Homes continue to line the streets, though
+here and there, a warehouse appears between them, throwing shadows on
+the smaller dwellings around them.
+   To the north, you can see a decrepit house, while to the south, you 
+see the local law enforcement facility.  The street continues to the 
+east and west.
+~
+48 0 0 0 0 1
+D0
+You see a run-down house to the north.
+~
+door bamboo~
+1 0 4838
+D1
+The street continues to the east.
+~
+~
+0 0 4849
+D2
+You see the door to the constable's office.
+~
+door wooden~
+1 0 4840
+D3
+The street continues to the west.
+~
+~
+0 0 4829
+S
+#4840
+The Constable's Office~
+   You have just entered a busy room.  Here, clerks and other petty
+bureaucrats issue and stamp licenses, keys, and permits to foreigners,
+tradesmen, and nomads who wish to peddle their wares within the city.
+   The constable himself is in the back of the room, mercilessly berating
+one of his underlings for some infraction.
+   The only exit is to the north.
+~
+48 12 0 0 0 0
+D0
+You see the doorway leading to the street to the north.
+~
+door wooden~
+1 0 4839
+S
+#4841
+An Upstairs Hallway~
+   You are standing on the landing of the inn's stairwell.  The hall
+extends on wooden floors to the east, where many doors can be seen
+lining its southern wall.  Below you, you can see the main room of the 
+inn and smell the crispness of chilled and frozen sushi as well as
+the steam rising from the shellfish in the kitchen below.
+~
+48 8 0 0 0 0
+D1
+The hall continues to the east.
+~
+~
+0 0 4851
+D5
+You see the main room of the inn to the south.
+~
+~
+0 0 4831
+S
+#4842
+Kitchen~
+   You are standing in the midst of a busy kitchen.  Yellow-skinned
+men and women shout at each other in this crowded room, demanding
+more space for their dishes and more wood to keep the cooking pots
+and fires hot.  All in the kitchen notice your presence and none 
+appear to be happy with you for adding yet another body to the
+crowd.
+~
+48 8 0 0 0 0
+D3
+You see the bar just outside the kitchen.
+~
+~
+0 0 4832
+S
+#4843
+Below The Herbalist Shop~
+   You are standing in a damp, musty chamber below the herbalist's shop.
+Here, mushrooms grow in herb-treated compost, adding potency to the fungus
+which appears to be ready for picking.  You can feel a cold draft coming
+from somewhere, as though you were standing in a cave, and not a basement.
+   To your east, you can see a stone wall whose bricks are stacked in
+columns and not the usual center-on-edge form.  To the south and west,
+the basement of the shop continues.
+~
+48 265 0 0 0 0
+D2
+The chamber continues to the south.
+~
+~
+0 0 4844
+D3
+The basement continues to the west.
+~
+~
+0 0 4833
+S
+#4844
+Below The Herbalist Shop~
+   You are standing in a damp, musty chamber below the herbalist's shop.
+Here, mushrooms grow in herb-treated compost, adding potency to the fungus
+which appears to be ready for picking.  You can feel a cold draft coming
+from somewhere, as though you were standing in a cave, and not a basement.
+   To your east, you can see a stone wall whose bricks are stacked in
+columns and not the usual center-on-edge form.  To the north and west,
+the basement of the shop continues.
+~
+48 265 0 0 0 0
+D0
+The basement extends to the north.
+~
+~
+0 0 4843
+D3
+The basement continues in that direction.
+~
+~
+0 0 4834
+S
+#4845
+Mito Avenue~
+   You are standing on a busy street.  Around you, people, mules, horses,
+and some strange six-legged pack animals bear boxes and crates as they rush
+about their business.
+   To the north, you can see a red-brick wall, which strikes you as quite
+out of place in this city of mortar and bamboo.  The brick seems to extend
+to the building to the northeast.  To the south, a small, modest home bears
+the signs of neglect, as though the owner had died or been too old to tend
+it.  The street continues to the east and west, meeting a junction of three
+streets just off to the east.
+~
+48 0 0 0 0 1
+D1
+You see a junction of the streets there.
+~
+~
+0 0 4855
+D2
+You see a decrepit home to the south.
+~
+door wooden~
+1 0 4846
+D3
+The street continues to the west.
+~
+~
+0 0 4835
+S
+#4846
+An Unkempt Home~
+   You stand in a small wooden hut.  Only one large room comprises this
+structure which houses a simple cot, small coal-burning brazier, and a
+dry larder.
+   Dust is everywhere and appears that no one has been in this place for a
+very long time.
+~
+48 0 0 0 0 0
+D0
+You can see the doorway leading to the street there.
+~
+door wooden~
+1 0 4845
+S
+#4847
+Yao Tai's House of Channeling~
+   You appear to be standing in an antechamber.  A lone woman is here,
+staring at the ceiling as if she hears voices coming from it.  As you
+cast your gaze upon her, you notice that she seems to exist in some
+different place - as though she were really a projection of the person
+she appears to be.
+   The room is spartan, with only eastern and western doors.
+~
+48 184 0 0 0 0
+D1
+You see the door leading to the street there.
+~
+door wooden~
+1 0 4857
+D3
+You see a sturdy wooden door in that direction.
+~
+door wooden~
+1 0 4837
+S
+#4848
+Nijen's Glass and Lamps~
+   You are standing in the middle of a glassblowers shop.  Piles of
+white sand occupy most of the floor as it spills from holes in burlap
+sacks on the floor.  A broad chimney in the northern wall apparently
+houses the molten glass which the master craftsman blows into bulbs
+for lamps and fashions into shotglasses.
+   The exit to this shop is to the south.
+~
+48 24 0 0 0 0
+D2
+The exit lies in that direction.
+~
+door wooden~
+1 0 4849
+S
+#4849
+Maojeng Lane~
+   This is little more than a crudely gravelled road which runs towards
+the seedier section of town.  Homes continue to line the streets, though
+here and there, a warehouse appears between them, throwing shadows on
+the smaller dwellings around them.
+   To the north, you can see a shop of some sort, perhaps a glassblower's
+shop judging by the amounts of stained glass and windchimes in the front
+of the shop.
+   To the south, you see a guardhouse, obviously used to monitor traffic
+in and out of the southern gates of the city just to the southeast.
+   The street continues to the east and west.
+~
+48 0 0 0 0 1
+D0
+You see the glassblower's shop to the north.
+~
+door wooden~
+1 0 4848
+D1
+The street meets an intersection to the east.
+~
+~
+0 0 4859
+D2
+You see a guardhouse to the south.
+~
+door wooden~
+1 0 4850
+D3
+The street continues to the west.
+~
+~
+0 0 4839
+S
+#4850
+Guardhouse~
+   You are standing in a guardhouse.  Through the eastern window, you
+see yellow-skinned guards inspect and question those who enter and exit
+the city.
+   Here, in the shade of the guardhouse, guards sit around a table, 
+playing bones, polishing weapons, and swearing as they gamble and lose
+to their companions.
+   The only exit is to the north.
+~
+48 8 0 0 0 0
+D0
+You see an exit to the north.
+~
+door wooden~
+1 0 4849
+S
+#4851
+An Upstairs Hallway~
+   You are standing in the inn's upstairs hall.  Doors to each of the
+available rooms line the southern wall.  To the north, the windows
+look out upon the sea and the incoming ships which ceaselessly enter
+and exit the harbour below.  The hall continues to the east and west.
+~
+48 8 0 0 0 0
+D1
+The hall continues to the east.
+~
+~
+0 0 4861
+D2
+You see a doorway leading into a room.
+~
+~
+0 0 4852
+D3
+The hallway continues to the west.
+~
+~
+0 0 4841
+S
+#4852
+A Rented Room~
+   You are standing in a rented room in the upper floor of the inn.
+Through a southern window, you can look out into the city, while to
+the north, a bamboo door provides the only exit to the room.
+   You look around at the furnishings in satisfaction.  The straw
+and burlap mattress appears to have been recently stuffed, while
+the hooded lantern and table appear well-polished and sturdy.
+~
+48 8 0 0 0 0
+D0
+You can see the doorway leading to the hall.
+~
+~
+0 0 4851
+S
+#4853
+Ping Xiao's House Of Pleasure~
+   You are being pushed around in this massive crowd of drinkers.  Around
+you, yellow-skinned men serve food, drink, and hot, moist towels to the
+seated patrons who anxiously await their meals.
+   Before you is a polished bar.  Spilled rice whiskey and wine add spots
+of discolour to the otherwise well-maintained serving area.
+   As you look around, you can see that the only way out of this place is
+to the south.
+~
+48 8 0 0 0 0
+D2
+You see the main room of the tavern to the south.
+~
+~
+0 0 4854
+S
+#4854
+Ping Xiao's House Of Pleasure~
+   You stand amidst a crowd in this busy tavern.  All around you, yellow-
+skinned men serve food, drink, and hot, moist towels to the seated patrons
+while avoiding the occasional trip from a stray foot or outset chair.
+   To the north, you can see tables, rowdy people, and gamblers playing
+around a bar, each here to enjoy themselves in whatever activity they can
+participate in.
+~
+48 8 0 0 0 0
+D0
+You can see a bar to the north.
+~
+~
+0 0 4853
+D2
+You see the doorway leading to the street.
+~
+door bamboo~
+1 0 4855
+S
+#4855
+Qing Crossing~
+   You stand at the junction of three streets.  Here, a strange red-brick
+tavern greets you with the sounds of fluted songs and the clinking of
+glasses coming through its door to the north.
+   To the east and south, roughly cobbled streets extend into city,
+while to the west, the street runs smoothly on crushed gravel and well-
+maintained cobblestone slabs.
+~
+48 0 0 0 0 1
+D0
+You see the entrance to a tavern.
+~
+door bamboo~
+1 0 4854
+D1
+You see a long, broad street there.
+~
+~
+0 0 4865
+D2
+A street extends to the south.
+~
+~
+0 0 4856
+D3
+The street extends to the west.  Far off in the distance, you can see a
+gleaming spire.
+~
+~
+0 0 4845
+S
+#4856
+Wen Tan Lane~
+   You are standing on the crude cobbles of a well-travelled street.
+All around you, burly men seem to be coming from alleys and side streets
+to enter and exit the building to your east.
+   Judging by the number of sweaty, yellow-skinned men leaving the place,
+and the sheer size of those who do, it appears to be some sort of sparring
+hall or arena.
+   The street continues to the north, where it neets a junction at an odd
+brick building and to the south, where it extends toward the southern
+city gates.  To the west, you see a sturdy fence separate you from an
+old hut.
+~
+48 0 0 0 0 1
+D0
+You see the street end at a junction to the north.
+~
+~
+0 0 4855
+D1
+You see a sturdy wooden door to the east.  That building appears to
+be some sort of sporting arena.
+~
+door sturdy wooden~
+1 0 4866
+D2
+The street continues to the south.
+~
+~
+0 0 4857
+S
+#4857
+Wen Tan Lane~
+    You are standing on the crude cobbles of a well-travelled street.
+All around you, burly men seem to be coming from alleys and side streets
+to enter and exit the building to your northeast.
+The street continues to the north, where it meets a junction at an odd
+brick building and to the south, where it extends toward the southern
+city gates. To the east and west, you see shops, though barred and
+closed windows offer no information as to what they may be.
+~
+48 0 0 0 0 1
+D0
+You see the street continue in that direction.
+~
+~
+0 0 4856
+D1
+You see a shop of some kind in that direction.
+~
+door wooden~
+1 0 4867
+D2
+The street continues to the south.
+~
+~
+0 0 4858
+D3
+It appears to be a closed shop of some kind.
+~
+door wooden~
+1 0 4847
+S
+#4858
+Wen Tan Lane~
+   You are standing on the crude cobbles of a well-travelled street.
+All around you, yellow-skinned men and women walk with their sacks
+and goods, each eyeing the other suspiciously, as if their wares
+were prizes worthy of jealous guarding.
+   The street continues to the north and south, while the walls of
+buildings prevent travel to the immediate east and west.
+~
+48 0 0 0 0 1
+D0
+The street continues to the north.
+~
+~
+0 0 4857
+D2
+The street meets an intersection to the south.
+~
+~
+0 0 4859
+S
+#4859
+Maojeng At Wen Tan Lane~
+   You are standing at a busy intersection.  Caravans from the desert
+and dry plains to the south come northward from the city gates to the
+south, all laden with goods from distant lands and the desert itself.
+   Streets lead off in all directions, though the gate to the grasslands
+and the desert lies to the south.
+~
+48 0 0 0 0 1
+D0
+You see a street lead from this intersection.
+~
+~
+0 0 4858
+D1
+A street leads eastward from this intersection.
+~
+~
+0 0 4869
+D2
+You see the city gate to the south.
+~
+~
+0 0 4860
+D3
+A street leads from this intersection toward the west.
+~
+~
+0 0 4849
+S
+#4860
+Xixieqi City Gate~
+   You are standing among a crowd of people.  Merchant caravans and nomads
+speak to the gateguards, occasionally slipping them a few coins as they
+pass into the city from the south.
+   Just outside the southern gate, you see a lush grassland, but the dry
+wind that blows through the gate tells you that the desert is not too far
+beyond it.
+   To the north, you see an intersection, while you notice you are flanked
+by guardhouses to the east and west.
+~
+48 0 0 0 0 1
+D0
+You see an intersection of streets to the north.
+~
+~
+0 0 4859
+D2
+~
+~
+0 0 5040
+S
+#4861
+An Upstairs Hallway~
+   You are standing in the inn's upstairs hall.  Doors to each of the
+available rooms line the southern wall.  To the north, the windows
+look out upon the sea and the incoming ships which ceaselessly enter
+and exit the harbour below.  The hall continues to the east and west.
+~
+48 8 0 0 0 0
+D1
+The hall continues to the east.
+~
+~
+0 0 4871
+D2
+You see a bamboo doorway to the south.
+~
+~
+0 0 4862
+D3
+The hall continues in that direction.
+~
+~
+0 0 4851
+S
+#4862
+A Rented Room~
+   You are standing in a rented room in the upper floor of the inn.
+Through a southern window, you can look out into the city, while to
+the north, a bamboo door provides the only exit to the room.
+   You look around at the furnishings in satisfaction.  The straw
+and burlap mattress appears to have been recently stuffed, while
+the hooded lantern and table appear well-polished and sturdy.
+~
+48 8 0 0 0 0
+D0
+You see the doorway leading to the hall.
+~
+~
+0 0 4861
+S
+#4863
+A Storeroom~
+   You are standing in a dark, foul-smelling room.  Crates of bones lie
+beside sacks of pestels used for crushing bone shards into powder.  The
+stench in here is overpowering and reeks of decay.
+   There is an exit to the south.
+~
+48 9 0 0 0 0
+D2
+You see the doorway leading to the shop there.
+~
+door lock bamboo~
+2 0 4864
+S
+#4864
+Ta'lon Chao's Mystic Marvels~
+   You are standing in a foul-smelling shop.  The shelves on the walls
+boast a variety of snuff bottles, each containing some powdery substance,
+while the wooden counter to the north boasts several strips of glowing
+bamboo and other hardwoods.
+   There is a door to the north, probably a storage room, while the exit
+lies to the south.
+~
+48 8 0 0 0 0
+D0
+You see a doorway to the north.
+~
+door lock bamboo~
+2 0 4863
+D2
+You see the doorway leading to the street.
+~
+door bamboo~
+1 0 4865
+S
+#4865
+Chiang Street~
+   You are standing on crude cobblestones in the middle of the street.
+A few people ignore you as you walk by, though most look upon your odd
+skin colour and wonder about your origins.
+    To the north, you can see the entrance to some sort of shop.  Its
+window boasts stained glass depictions of dragons and its sign appears
+to bear some sort of compact bottle.  To the south, a tall establishment
+boasts a wide set of wooden, not bamboo, doors.  No signs appear near
+nor on the door itself to give a clue as to what the place is.
+    The street continues to the east, where it offers more shops, and
+west, where it appears to meet a junction.
+~
+48 0 0 0 0 1
+D0
+You see a shop of some kind to the north.  Perhaps and herbalist or
+a mystic, judging from the faint scent of herbs coming from that
+direction.
+~
+door bamboo~
+1 0 4864
+D1
+The street continues in that direction.
+~
+~
+0 0 4875
+D2
+You see a sturdy doorway on the building to the south.
+~
+door wooden sturdy~
+1 0 4866
+D3
+You see a junction of three streets there.
+~
+~
+0 0 4855
+S
+#4866
+Martial Artists Training Facility~
+   You are standing in an enormous square hall.  Yellow-skinned men as
+well as a few women and feisty children spar here with staves, blades,
+and bare hands.  All seem to be advancing their level of fitness rather
+than their combat abilities, however, as only a few of the fighters
+appear to be true masters of combat.
+   There are exits to both the west and north.
+~
+48 168 0 0 0 0
+D0
+You see an exit to the north.
+~
+door wooden sturdy~
+1 0 4865
+D3
+You see the exit in that direction.
+~
+door wooden sturdy~
+1 0 4856
+S
+#4867
+Moo Shi's Banded Scales and Armours~
+   You have entered a well-lit workshop.  All around you, suits of armour
+made from sewn metal scales rest on wooden dummies, while scale gloves and
+bootcovers hang from strong iron hooks on the walls.
+   There is a counter against the eastern wall, where a powerfully built,
+yellow-skinned man hammers and shapes tiny metal plates into shape.
+~
+48 156 0 0 0 0
+D3
+You see the exit to the west.
+~
+door wooden~
+1 0 4857
+S
+#4868
+Yui Gui Pan's Hides and Tanning~
+   You are standing in a tanner's shop.  Hides of desert cattle and
+grassland livestock covers the walls, awaiting tailoring into fine
+suits of defensive clothing.
+   There is an exit to the south.
+~
+48 24 0 0 0 0
+D2
+You see a doorway to the south.
+~
+door wooden~
+1 0 4869
+S
+#4869
+Maojeng Lane~
+   This is little more than a crudely gravelled road which runs towards
+the seedier section of town.  Homes continue to line the streets, though
+here and there, a warehouse appears between them, throwing shadows on
+the smaller dwellings around them.
+   To the north, you can see a shop of some sort, a cold smithy or
+leatherworker's place, perhaps, judging from the yakhide on the sign in the
+front of the shop.
+   To the south, you see a guardhouse, obviously used to monitor traffic
+in and out of the southern gates of the city just to the southwest.
+   The street continues to the east and west.
+~
+48 0 0 0 0 1
+D0
+You see a shop to the north.
+~
+door wooden~
+1 0 4868
+D1
+The street continues to the east.
+~
+~
+0 0 4879
+D2
+You see a guardhouse to the south.
+~
+door wooden~
+1 0 4870
+D3
+You see an intersection to the west.
+~
+~
+0 0 4859
+S
+#4870
+Guardhouse~
+   You are standing in a guardhouse.  Through the western window, you
+see yellow-skinned guards inspect and question those who enter and exit
+the city.
+   Here, in the shade of the guardhouse, guards sit around a table, 
+playing bones, polishing weapons, and swearing as they gamble and lose
+to their companions.
+   The only exit is to the north.
+~
+48 8 0 0 0 0
+D0
+You see the doorway to the street to the north.
+~
+door wooden~
+1 0 4869
+S
+#4871
+An Upstairs Hallway~
+   You are standing in the inn's upstairs hall.  Doors to each of the
+available rooms line the southern wall.  To the north, the windows
+look out upon the sea and the incoming ships which ceaselessly enter
+and exit the harbour below.  The hall continues to the east and west.
+~
+48 8 0 0 0 0
+D1
+The hall continues to the east.
+~
+~
+0 0 4881
+D2
+You see a bamboo doorway to the south.
+~
+~
+0 0 4872
+D3
+The hall continues to the west.
+~
+~
+0 0 4861
+S
+#4872
+A Rented Room~
+   You are standing in a rented room in the upper floor of the inn.
+Through a southern window, you can look out into the city, while to
+the north, a bamboo door provides the only exit to the room.
+   You look around at the furnishings in satisfaction.  The straw
+and burlap mattress appears to have been recently stuffed, while
+the hooded lantern and table appear well-polished and sturdy.
+~
+48 8 0 0 0 1
+D0
+You see the doorway leading to the hall to the north.
+~
+~
+0 0 4871
+S
+#4873
+A Storeroom~
+   You are standing in a dark, cramped room.  Crates of daggers, darts,
+and similar weapons rest here, stacked to the ceiling while bundles of
+bamboo staves lean slanted against the iron walls.
+   There is an exit to the south.
+~
+48 9 0 0 0 0
+D2
+You see a sturdy iron doorframe.
+~
+door iron~
+2 0 4874
+S
+#4874
+The Dragon's Claw~
+   You stand in an arsenal.  Blades, bows, staves, and other deadly items
+line the walls and rest on the floor as a large yellow-skinned man stares
+cautiously at you from behind the counter against the northern wall.
+~
+48 24 0 0 0 0
+D0
+You see a large iron door to the north.
+~
+door iron~
+2 0 4873
+D2
+You see the doorway leading to the street.
+~
+~
+1 0 4875
+S
+#4875
+Chiang Street~
+   You are standing on crude cobblestones in the middle of the street.
+A few people ignore you as you walk by, though most look upon your odd
+skin colour and wonder about your origins.
+    To the north, you can see the entrance to some sort of shop.  Its
+window shows two hanging daggers and its sign bears a small wooden
+shield.  To the south, you notice a windowless warehouse with a sturdy-
+looking door.
+~
+48 0 0 0 0 1
+D0
+You see the doorway to a shop there.
+~
+~
+0 0 4874
+D1
+The street continues in that direction.
+~
+~
+0 0 4885
+D2
+You see the sturdy wooden door of a warehouse to the south.
+~
+door lock wooden~
+2 0 4876
+D3
+The street continues to the west.
+~
+~
+0 0 4865
+S
+#4876
+A Dark Warehouse~
+   At first, you think this is nothing more than an old warehouse with
+forgotten crates of mouldy goods.  As you look further, though, you notice
+that the crates are stacked in defensive positions, to give both seclusion
+and secrecy for those behind them.
+   In the blink of an eye, a cutthroat appraches you, dagger in reach and
+asks you what you are doing here.
+~
+48 524441 0 0 0 0
+D0
+You see the exit to the north.
+~
+door wooden lock~
+2 0 4875
+D2
+You see a wall.  It appears to be made of thick panels of wood.
+~
+panel panels~
+1 0 4877
+S
+#4877
+Guild Of The Katana~
+   This is a featureless room with no windows.  You suspect that there
+are secret panels among the wooden walls and floors, but can see nothing
+other than the woman standing before you.
+   As you look at the woman, you know immediately that she is a thief. A
+small knife rests comfortably in her belt while a small set of darts
+protrude from the side of her high boots.
+~
+48 524313 0 0 0 0
+D0
+You see the panel you came through to the north.
+~
+panel~
+1 0 4876
+S
+#4878
+Grain Storage~
+   You have entered a grain warehouse.  Sacks of grains, both local
+and imported, lie in large sacks here, awaiting the owner of the 
+warehouse to pick them up.
+   You see little of value here and the exit to the south looks like
+its about to collapse.
+~
+48 9 0 0 0 0
+D2
+You see the exit to the south.
+~
+door wooden~
+2 0 4879
+S
+#4879
+Maojeng Lane~
+   This is little more than a crudely gravelled road which runs towards
+the seedier section of town.  Homes continue to line the streets, though
+here and there, a warehouse appears between them, throwing shadows on
+the smaller dwellings around them.
+   To the north, you can see a warehouse, though it could easily be
+an enclosed stadium, so high are the walls, while to the south, you
+see a very old hut.  The street continues to the east and west.
+~
+48 0 0 0 0 1
+D0
+You see a warehouse to the north.
+~
+door wooden~
+2 0 4878
+D1
+The street continues to the east.
+~
+~
+0 0 4889
+D2
+You see an old hut to the south.
+~
+door bamboo~
+1 0 4880
+D3
+The street continues to the west.
+~
+~
+0 0 4869
+S
+#4880
+An Old City Home~
+   You are standing in the main room of a typical city dwelling.  The
+place is divided into two small rooms, both separated by bamboo walls
+and tapestry door curtains.  The door to the north is the only exit to
+the outside and appears to be made of rotted bamboo stalks.
+~
+48 8 0 0 0 0
+D0
+You can see the doorway leading to the street.
+~
+door bamboo~
+1 0 4879
+S
+#4881
+An Upstairs Hallway~
+   You are standing in the inn's upstairs hall.  Doors to each of the
+available rooms line the southern wall.  To the north, the windows
+look out upon the sea and the incoming ships which ceaselessly enter
+and exit the harbour below.  The hall continues to the east and west.
+~
+48 8 0 0 0 0
+D1
+You see the end of the hall.
+~
+~
+0 0 4891
+D2
+You see a bamboo doorway to the south.
+~
+~
+0 0 4882
+D3
+You see the hall continue to the west.
+~
+~
+0 0 4871
+S
+#4882
+A Rented Room~
+   You are standing in a rented room in the upper floor of the inn.
+Through a southern window, you can look out into the city, while to
+the north, a bamboo door provides the only exit to the room.
+   You look around at the furnishings in satisfaction.  The straw
+and burlap mattress appears to have been recently stuffed, while
+the hooded lantern and table appear well-polished and sturdy.
+~
+48 8 0 0 0 0
+D0
+You see a bamboo doorway in that direction.
+~
+~
+0 0 4881
+S
+#4883
+A Storeroom~
+   You are standing in a dark, cramped room.  Crates of imported threads
+and yarns rest here, stacked to the ceiling while bolts of silk and 
+other cloth hang from clotheslines across the walls.
+   There is an exit to the south.
+~
+48 9 0 0 0 0
+D2
+You see the doorway to the main room.
+~
+door bamboo~
+0 0 4884
+S
+#4884
+Yuang Li Tao's Fine Silks and Yarns~
+   You are standing in a clothing store.  Kimonos, vests, robes, hose,
+and slippers adorn wooden models and shelves in an attempt to catch your
+eye.  A haggard old woman stands behind a counter, knitting a blanket
+with some obviously imported woolen yarn.
+   She smiles a gap-toothed grin at you, gesturing to the wares around
+her.
+~
+48 8 0 0 0 0
+D0
+You see a doorway there.
+~
+door bamboo~
+1 0 4883
+D2
+You see the doorway leading to the street there.
+~
+~
+0 0 4885
+S
+#4885
+Chiang Street~
+   You are standing on crude cobblestones in the middle of the street.
+A few people ignore you as you walk by, though most look upon your odd
+skin colour and wonder about your origins.
+    To the north, you can see the entrance to some sort of shop.  Its
+window shows nothing but its sign bears a bobtail cat playing with
+some yarn.  To the south, you notice a small temple of some kind, though
+to which deity it may be dedicated to is beyond you.
+    The street continues to the east and west, though you notice a sharp
+southward bend to it in the east.
+~
+48 0 0 0 0 1
+D0
+There appears to be a knitting or clothing store to the north.
+~
+~
+0 0 4884
+D1
+You see the street continue to the east.
+~
+~
+0 0 4895
+D2
+You see a temple of some sort to the south.
+~
+door temple~
+1 0 4886
+D3
+You see the street continue in that direction.
+~
+~
+0 0 4875
+S
+#4886
+Temple of the Ice Dragon~
+   You appear to be standing in a cult temple.  Here, yellow-skinned men
+kneel, cloaked in white robes, bowing before an obsidian altar.  The room
+is domed, clearing showing constellations of the familiar summer sky on
+its curved ceiling.  
+   You notice one constellation in particular: that of the Ice Dragon, a
+mythological beast that swallows worlds with hellish flames and searing
+gases.
+   All around you, carving and statues of Pan-Lung, the fabled dragon
+adorn the statues, walls, and even the exit door to the north.
+~
+48 56 0 0 0 0
+D0
+The exit lies in that direction.
+~
+door temple~
+1 0 4885
+S
+#4887
+A City Home~
+   You are standing in the main room of a typical city dwelling.  The
+place is divided into four small rooms, each separated by bamboo walls
+and tapestry door curtains.  The door to the east is the only exit to
+the outside and appears to be made of fire-hardened bamboo stalks.
+~
+48 8 0 0 0 0
+D1
+You see the exit in that direction.
+~
+door bamboo~
+1 0 4897
+S
+#4888
+A Monument~
+   When the first nomads settled this town, they were victims to heavy
+winds which toppled their homes and salty breezes which rusted their
+equipment.  To prevent these losses, this stone house was constructed
+from sea stones and clay.
+   Currently, there are no doors on this building, a monument open to
+all who reside in Xixieqi City.
+~
+48 8 0 0 0 0
+D1
+You see the street to the east.
+~
+~
+0 0 4898
+D2
+You see the street to the south.
+~
+~
+0 0 4889
+S
+#4889
+Maojeng Lane~
+   This is little more than a crudely gravelled road which runs towards
+the seedier section of town.  Homes continue to line the streets, though
+here and there, a warehouse appears between them, throwing shadows on
+the smaller dwellings around them.
+   To the north, you can see a stone structure.  Stone.  In a city of
+bamboo and reeds, you question the origin of such a building.  To the
+south, you see an old building.
+   The street continues east and west, turning sharply north as you go
+east.
+~
+48 0 0 0 0 1
+D0
+You see a doorless, stone building to the north.
+~
+~
+0 0 4888
+D1
+The street continues to the east, then bends sharply north.
+~
+~
+0 0 4899
+D2
+You see an old home to the south.
+~
+door bamboo~
+1 0 4890
+D3
+The street continues to the west.
+~
+~
+0 0 4879
+S
+#4890
+An Old City Home~
+   You are standing in the main room of a typical city dwelling.  The
+place is divided into two small rooms, both separated by bamboo walls
+and tapestry door curtains.  The door to the north is the only exit to
+the outside and appears to be made of rotted bamboo stalks.
+~
+48 8 0 0 0 0
+D0
+You see the doorway leading to the street.
+~
+door bamboo~
+1 0 4889
+S
+#4891
+The End Of The Hall~
+You are standing at the end of the upstairs hall.  A door in the south
+wall sits opposite the open window to the north, when a warm, briny
+breeze blows in.  An additional window looks over the rest of the city
+to the east.  To the west, the hall continues back toward the stairs.
+~
+48 8 0 0 0 0
+D2
+You see the doorway to the last room in the hall there.
+~
+~
+0 0 4892
+D3
+The hall continues to the west.
+~
+~
+0 0 4881
+S
+#4892
+A Rented Room~
+   You are standing in a rented room in the upper floor of the inn.
+Through the southern and eastern windows, you can see into the city,
+while to the north, a bamboo door provides the only exit to the room.
+   You look around at the furnishings in satisfaction.  The straw
+and burlap mattress appears to have been recently stuffed, while
+the hooded lantern and table appear well-polished and sturdy.
+~
+48 8 0 0 0 0
+D0
+You see a bamboo doorway in that direction.
+~
+~
+0 0 4891
+S
+#4893
+A Storeroom~
+   You are standing in a dark, cramped room.  Crates of common items
+such as torches, waterskins, and sacks rests here, stacked to the ceiling
+while lanterns hang from dozens of hooks high on the walls here.
+   There is an exit to the south.
+~
+48 9 0 0 0 0
+D2
+A curtain separates this room from the main store.
+~
+curtain~
+1 0 4894
+S
+#4894
+Meng's General Wares~
+  You are standing in a room full of boxes.  Backpacks, large sacks,
+chests, beltpouches, and torches fill the crates and shelves of this
+little shop.
+   To the north, you see a set of curtains leading to another room,
+but it appears to be off-limits to patrons.  To the south, you see
+the entrance to the shop.
+~
+48 24 0 0 0 0
+D0
+You see a curtain there.
+~
+curtain~
+1 0 4893
+D2
+You see the doorway leading to the street there.
+~
+~
+1 0 4895
+S
+#4895
+Corner Of Chiang And Misa~
+   You are standing at the corner of two streets.  To your east, you see
+the city wall rising high before you.  To the north, you see a shop of
+some kind judging by the sign and the backpacks hanging in the glass
+window.
+   The streets split off to the south and west from here.
+~
+48 0 0 0 0 1
+D0
+You see a shop to the north.
+~
+door bamboo~
+1 0 4894
+D2
+The street continues to the south.
+~
+~
+0 0 4896
+D3
+You see the street continue to the west.
+~
+~
+0 0 4885
+S
+#4896
+Misa Street~
+   You are standing along the eastern wall of the city.  You can hear
+strong winds whistling across the desert and dry plains just outside
+the wall.
+   To the north and south, this lane continues, blocked to the east and
+west by both a city wall and a temple's courtyard fence.
+~
+48 0 0 0 0 1
+D0
+You see the street continue to the north, then bend sharply west.
+~
+~
+0 0 4895
+D2
+The street continues to the south.
+~
+~
+0 0 4897
+S
+#4897
+Misa Street~
+   You are standing along the eastern wall of the city.  You can hear
+strong winds whistling across the desert and dry plains just outside
+the wall.
+   To the north and south, this lane continues.  A small home is to the
+west, and the east is blocked by a city wall.
+~
+48 0 0 0 0 1
+D0
+The street continues to the north.
+~
+~
+0 0 4896
+D2
+The street continues to the south.
+~
+~
+0 0 4898
+D3
+You see a typical city home to the west. 
+~
+door bamboo~
+1 0 4887
+S
+#4898
+Misa Street~
+   You are standing along the eastern wall of the city.  You can hear
+strong winds whistling across the desert and dry plains just outside
+the wall.
+   To the north and south, this lane continues.  A stone home is to the
+west, and the east is blocked by a city wall.
+~
+48 0 0 0 0 1
+D0
+The street continues to the north.
+~
+~
+0 0 4897
+D2
+The street bends to the south.
+~
+~
+0 0 4899
+D3
+You see a doorless stone home to the west.
+~
+~
+0 0 4888
+S
+#4899
+Corner of Maojeng and Misa~
+   You are standing on the corner of two streets.  To the east, the
+city wall protects you against the heavy winds that whip about outside
+town, while to the south, a large home, obviously in disrepair, slowly
+falls to pieces.  You notice with dismay that most of the roof has 
+collapsed, blocking the front door with tons of broken reeds and bamboo.
+   The street continues to the north and west.
+~
+48 0 0 0 0 1
+D0
+You see the street continue to the north.
+~
+~
+0 0 4898
+D3
+You see the street continue to the west.
+~
+~
+0 0 4889
+S
+$~

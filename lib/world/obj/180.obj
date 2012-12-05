@@ -1,0 +1,63 @@
+#18001
+statue John Kennedy~
+a statue of John F. Kennedy~
+A large stone statue of John F. Kennedy stands here.~
+
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0
+999 0 100.00
+E
+statue John Kennedy~
+You see a large stone statue of John F. Kennedy, the United States's 35th
+President.
+~
+#18002
+golden medallion~
+a golden medallion~
+A golden medallion is lying here looking shiny and pretty.~
+~
+11 3 0 0 0 5 0 0 0
+0 0 0 0
+0 0 100.00
+#18004
+handcuffs cuffs~
+a pair of handcuffs~
+A pair of handcuffs are lying here.~
+~
+0 0 0 0 0 4097 0 0 0
+0 0 0 0
+0 0 100.00
+#18005
+whiskey jigger~
+a jigger~
+A jigger of whiskey is lying here.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 5 0
+6 10 100.00
+#18007
+beer pint guinness~
+a pint of Guinness~
+A pint of Guinness is lying here...how wasteful.~
+~
+17 0 0 0 0 1 0 0 0
+6 6 1 0
+11 10 100.00
+#18098
+black lace bra~
+a black lace bra~
+A black lace bra has been thrown carelessly to the ground.~
+~
+11 131072 0 0 0 9 0 0 0
+0 0 0 0
+0 0 100.00
+#18099
+slave bracelet~
+a slave bracelet~
+A slave bracelet lies here~
+~
+0 0 0 0 0 4099 0 0 0
+0 0 0 0
+0 0 100.00
+$~

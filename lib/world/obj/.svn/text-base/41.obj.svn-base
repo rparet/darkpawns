@@ -1,0 +1,147 @@
+#4101
+ale mug~
+a mug~
+A shiny mug is sitting on the ground.~
+~
+17 0 0 0 0 16385 0 0 0
+1 1 4 0
+2 3 100.00
+#4102
+ale mug~
+a mug~
+A chipped mug is lying on the ground.~
+~
+17 0 0 0 0 16385 0 0 0
+1 1 3 0
+2 3 100.00
+#4103
+speciality glass~
+a glass~
+A glass full of red liquid lies on the ground.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 8 0
+1 3 100.00
+#4104
+greenberry glass~
+a glass~
+A glass full of green liquid lies on the ground.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 1 0
+1 3 100.00
+#4105
+ebony cloak~
+an ebony cloak~
+A pile of ebony cloth lies in the dust.~
+~
+11 211034176 0 0 0 1025 0 0 0
+0 0 0 0
+1 2000 5.00
+A
+12 10
+A
+4 1
+A
+3 1
+#4106
+rune covered blade~
+a rune covered blade~
+A longish sword, covered in all manner of magical runes lies here.~
+~
+5 147091523 0 0 0 8193 0 0 0
+0 3 6 3
+12 1900 5.00
+A
+18 1
+A
+19 1
+A
+1 1
+A
+2 1
+A
+13 -5
+A
+24 -5
+#4107
+glowing sphere~
+a glowing sphere~
+A bright ball of light lies in the dust.~
+~
+1 141299777 0 0 0 16385 0 0 0
+0 0 -1 0
+2 390 5.00
+A
+12 5
+#4108
+shimmering talisman~
+a shimmering talisman~
+A shimmering talisman lies in the corner.~
+~
+8 8396865 0 0 0 5 0 0 0
+0 0 0 0
+1 1000 10.00
+A
+17 -4
+A
+13 4
+#4109
+silver silvery shield~
+a silvery shield~
+A shield made of silver is collecting dust.~
+~
+9 6836288 0 0 0 513 0 0 0
+9 0 0 0
+16 900 15.00
+A
+17 -5
+A
+23 -3
+A
+20 -3
+#4110
+carved oak oaken bracelet~
+a carved oaken bracelet~
+A circlet of wood lies on the ground.~
+~
+8 2625600 0 0 0 4097 0 0 0
+0 0 0 0
+3 1500 30.00
+A
+13 5
+A
+17 -3
+#4111
+wide golden belt gold~
+a wide golden belt~
+A belt made of solid gold has been left here.~
+~
+9 0 0 0 0 2049 0 0 0
+3 0 0 0
+6 800 15.00
+A
+5 1
+A
+2 1
+#4112
+robe many pockets~
+a robe of many pockets~
+A robe cover with dozens of pockets is lying here.~
+~
+15 215801920 0 0 0 9 0 0 0
+75 0 -1 0
+8 1000 10.00
+#4113
+electric gloves~
+some electric gloves~
+A pair of gloves lies here, giving off sparks.~
+~
+3 76587075 0 0 0 129 0 0 0
+30 100 20 37
+1 2000 5.00
+A
+19 1
+A
+17 2
+$~

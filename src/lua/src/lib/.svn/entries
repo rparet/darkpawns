@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1437"
+   name=""
+   committed-date="2008-04-30T03:27:43.811158Z"
+   url="file:///var/svn/trunk/2.2/src/lua/src/lib"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1437"
+   name="lauxlib.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="32c435e7354a837b2d1f473c8163817a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="ldblib.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="8b3cd62438af394f4ec1049fa0e5ffad"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="liolib.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="bfa84148e51b0e1656487cf0ba245f84"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lstrlib.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="e87f00a7a40d4180ebb53f072af6b9e4"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="Makefile"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="f69bbf19e01c84d83d22afc00cd77896"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="README"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="fee0dd064c0bda16189cceba0a4b78eb"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lmathlib.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="97c5456015412ec2edd48b10a618015c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lbaselib.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="180587a918141105f837bb32fe75adb3"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+</wc-entries>

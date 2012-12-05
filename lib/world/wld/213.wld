@@ -1,0 +1,1215 @@
+#21300
+A Corner in the Sewers~
+You are standing knee-high in filthy water deep within the sewer
+system underneath the streets of Alaozar.  Everything from half-eaten
+food to rotting corpses of dead animals float in this nasty water.  You
+can continue to the south or east from this point.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21301
+D2
+~
+~
+0 1 21307
+S
+#21301
+In a Sewer Tunnel~
+This section of the sewers looks a bit older than the majority of the
+tunnels you have seen.  Looking carefully at the walls you note that
+there seem to be sealed tombs along them and deduce that this area used
+to be a catacomb.  Dead rats and waste float past you in the water and
+the stench is so bad here you nearly vmoit.  You can continue to the
+east or west.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21302
+D3
+~
+~
+0 1 21300
+S
+#21302
+In the Sewer Tunnel~
+The filthy water has grown more shallow here, thankfully, and you can
+nearly see the brick floor as you walk through the filth.  Every so
+often a gush of dirty water rushes out of little openings in the ceiling
+and makes you scurry to get out of the way.  The northern wall here is
+made of thick grey stone, instead of simple brick and mortar.  You can
+go east or west.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21303
+D3
+~
+~
+0 1 21301
+S
+#21303
+In the Sewer Tunnel~
+The water here is only an inch deep or so and it leaks through all
+of the walls except the northern one which is made of re-enforced
+grey stone and mortar.  On the southern wall you see what appear to
+be well-sealed tombs and surmise that this area of the sewers may
+have once been used as a catacomb.  You may proceed to the west or
+east.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21304
+D3
+~
+~
+0 1 21302
+S
+#21304
+An Intersection in the Sewers~
+You have reached a kind of junction of sewer pipes.  One very small
+pipe at ground level leads to the south and seems to connect this
+pipe with another.  This pipe continues both east and west.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21305
+D2
+The pipe is small and flooded but it looks like you could just squeeze
+through.
+~
+~
+0 1 21311
+D3
+~
+~
+0 1 21303
+S
+#21305
+A Dry Room~
+Amazing, the ground here is totally dry and the filthy waters of the
+sewer no longer surround and eat at your feet.  While the stench here
+is not so bad as to the west, it is still pretty smelly.  This place
+seems to be a dead-end room of some kind.  You do not know who would
+ever build a room under a city in a maze of sewers, though!  Someone
+has even bothered to hang a large, mud-caked area rug on the eastern
+wall.  The only apparent exit is to the west.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21306
+D3
+~
+~
+0 1 21304
+S
+#21306
+In the Secret Passageway~
+Here, in a passageway with stone floors and a more raised dome than
+most sewer pipes, the odor of decay and filth is not strong at all.
+Through a mud-caked area rug to the west you can hear rushing water and
+assume that the sewer system runs in that direction.  This passageway
+leads off to the south into the darkness.  The only obvious exit
+is to the south.
+~
+213 9 0 0 0 0
+D2
+~
+~
+0 1 21313
+D3
+~
+~
+0 1 21305
+S
+#21307
+In a Large Sewer Pipe~
+You are standing in knee-high water inside a large sewer pipe under the
+city of Alaozar.  Filthy gushes of water and waste rush down from small
+openings in the ceiling of this pipe and cascade into the water in which
+you stand.  The western wall, unlike the others, is made of huge grey
+stones, iron spikes, and mortar.  A little brick passageway leads to the
+north and seems to join this pipe with a smaller one.  This tunnel itself
+continues to the east.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21300
+D1
+~
+~
+0 1 21308
+S
+#21308
+At a Junction in the Sewers~
+From this point, a rather large sewer pipe leads both east and west while
+yet another smaller pipe runs off to the south into the distance.  The
+water here is pretty dirty; full of trash, dirt, and waste.  Needless to
+say, the smell is very unpleasant, too.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21309
+D2
+~
+~
+0 1 21315
+D3
+~
+~
+0 1 21307
+S
+#21309
+In a Sewer Tunnel~
+You are wading through waist-high water carefully trying to avoid the many
+floating collections of filth which share your bath.  There seems to be a
+current here -- it is pushing you to the west.  This pipe leads both to the
+east and west.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21310
+D3
+~
+~
+0 1 21308
+S
+#21310
+At a Junction in the Sewers~
+Here, a small pipe intersects with a larger one and you are offered the
+opportunity to go west, east, or south.  A current in the water is
+pushing the filth inexorably.  The large pipe in which you stand runs east
+and west while another pipe with a smaller diameter runs off to the south
+seemingly connecting this tunnel to another.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21311
+D2
+~
+~
+0 1 21317
+D3
+~
+~
+0 1 21309
+S
+#21311
+At a Junction in the Sewers~
+The current here has really picked up;  the water around you is being
+pushed steadily to the west.  You find a dry ledge running parallel to
+the flow along the wall and are, thankfully, able to stand on it rather
+than in the filth.  A little tunnel leads north from here, seemingly
+connecting this tunnel to another.  The pipe in which you stand leads
+to the west and east.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21304
+D1
+~
+~
+0 1 21312
+D3
+~
+~
+0 1 21310
+S
+#21312
+At a Corner in the Sewers~
+Thankfully you are able to scoot along a thin lip on the wall here rather
+than wade through the cold, filthy water.  And it's a good thing too, because
+there seems to be a strong current swiftly moving the trash and waste along.
+This pipe bends sharply here, causing a small whirlpool.  You can
+continue to the south or move with the current to the west.
+~
+213 9 0 0 0 0
+D2
+~
+~
+0 1 21319
+D3
+~
+~
+0 1 21311
+S
+#21313
+In a Dry Tunnel~
+This tunnel is made of strong grey rock and you suspect you are moving
+through or near the city walls.  You notice a thick layer of dust on
+the ground and wonder how long it has been since anyone has come this
+way.  There is also a faint draft coming from the south.  You can go
+north or south.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21306
+D2
+~
+~
+0 1 21320
+S
+#21314
+At a Dead-End in the Sewers~
+You have come to a dead-end with the only exit being to the east, against
+the current.  The water here swirls and turns as more rushes and you are
+forced to cling to one of the moldy walls to keep your balance.  You also
+notice that the western wall is not like the others here -- it is made of
+huge grey stones instead of old bricks.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21315
+S
+#21315
+At a Junction in the Sewers~
+You have reached a four-way intersection; here, a smaller pipe leads to
+the north and south while one with a larger diameter runs both east and
+west.  Most of the water flows in from the north and east and rushes off
+to the south.  There is a little whirlpool here and you notice water is
+both leaving and returning from the west...  You can proceed in any dir-
+ection.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21308
+D1
+~
+~
+0 1 21316
+D2
+~
+~
+0 1 21322
+D3
+~
+~
+0 1 21314
+S
+#21316
+At a Turn in the Sewer Pipe~
+The pipe you are in bends here leading west and south.  The floor of the
+tunnel is very uneven and seems to almost slope against the current which
+flows in from the south and runs off to the west.  As the water moves, it
+rushes over the uneven floor making rapids.  You can go west or south.
+~
+213 9 0 0 0 0
+D2
+~
+~
+0 1 21323
+D3
+~
+~
+0 1 21315
+S
+#21317
+At a Junction in the Sewers~
+This sewer pipe is full of fast-moving water which enters from the east
+and flows off to the south.  You also hear what sounds like an angry
+river from the south.  A smaller pipe leads north connecting this tunnel
+to yet another.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21310
+D1
+~
+~
+0 1 21318
+D2
+~
+~
+0 1 21324
+S
+#21318
+In a Sewer Tunnel~
+You are standing on a ledge just above the raging waters which rush
+through this pipe from east to west.  A plaque is set in the wall
+here right next to where you crouch.  You may continue either west
+or east.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21319
+D3
+~
+~
+0 1 21317
+S
+#21319
+At a Junction in the Sewers~
+This is a very large pipe which seems to lead north and south.  You are
+lucky to be up on the lip of the tunnel because huge amounts of water
+run in from the south.  More than half of the current rushes down a
+large tunnel to the west.  Some of the flow also runs to the north.
+You may go north, west or south.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21312
+D2
+~
+~
+0 1 21326
+D3
+~
+~
+0 1 21318
+S
+#21320
+In a Dry Tunnel~
+You must be either directly under the wall or right next to it because
+the stones all around you look exactly like the ones used to make the
+town walls.  You notice that there are some very old chairs here and
+what look to be several empty weapon cases.  While this tunnel only leads
+to the north, there is a slight draft coming from the eastern wall!
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21313
+S
+#21321
+At a Bend in the Sewer Tunnel~
+The pipe in which you stand turns sharply here; water comes in from the
+east, swirls around in a little whirlpool, and flows out to the south.
+You are standing on a small ledge apparently built for sewer workers to
+avoid getting their feet wet.  South of here the tunnel seems to open
+into a very large tunnel.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21322
+D2
+~
+~
+0 1 21329
+S
+#21322
+At a Bend in the Sewer Tunnel~
+This section of the pipe seems to have been engineered and built to
+slow down the current.  Its floor is very uneven and the water is
+forced to flow around or over many obsticles made of brick.  You
+also note that the grade of the ground is not even -- the water is
+forced to rush uphill to the west and it able to only because of
+it's momentum.  You may continue to the west or north.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21315
+D3
+~
+~
+0 1 21321
+S
+#21323
+In a Sewer Tunnel~
+You are at a turn in this sewer pipe -- water that roars in from the
+east spins for a while in a little whirlpool and then tears away to 
+the north.  You are on a small ledge made of bricks and attached to
+one wall praying that it does not give way and send you plummeting
+into the filthy waters just below.  You can go north or east.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21316
+D1
+~
+~
+0 1 21324
+S
+#21324
+Under the Grate~
+You are standing in a sewer tunnel on a little ledge as dirty water
+rushes past below you.  Far, far above you see a grate and, looking
+carefully, espy a ladder that you might use to reach it.  This
+sewer tunnel leads both west and north.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21317
+D3
+~
+~
+0 1 21323
+S
+#21325
+In a Sewer Tunnel~
+The tunnel turns here and the clean water flows in from the south and
+rushes away to the east.  Through an opening in the south wall you see
+the massive Chartuse River tunnel and hear the roar of the entire river
+as it gushes under town.  You can go south or east.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21326
+D2
+~
+~
+0 1 21333
+S
+#21326
+At a Junction in the Sewers~
+Here the sewer tunnel in which you stand is joined by another leading to 
+the north.  Clean water flows in from the west and rushes off to the
+north.  You can also go east.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21319
+D1
+~
+~
+0 1 21327
+D3
+~
+~
+0 1 21325
+S
+#21327
+At a Dead-End in the Sewers~
+You have reached a dead-end... the only exit is to the west.  The water
+here is about waist-deep and swirls around you and more water rushes in
+from the west.
+~
+213 9 0 0 0 0
+D3
+~
+~
+0 1 21326
+S
+#21328
+Room #21328~
+This description is yet unfinished...  ~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21329
+S
+#21329
+Behind the Grate~
+Wow... the current that pushes against you from the east is almost
+unbelievable!  Although this massive tunnel leads east, you cannot
+defeat the current to move that direction.  A large grate blocks your
+way to the west and through it you see the outside world.  All around
+you the waters of the Chartuse River roar as rush past, pin you to the
+grate, and flow off to the west.  There is a medium-sized tunnel to
+the north from which a stream of filth-ridden water joins the rest
+of the river; you could probibly fight the strong current to reach
+it.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21321
+S
+#21330
+In the Chartuse River Tunnel~
+You are being swept along by the Chartuse River as it gushes through a
+massive tunnel deep below Alaozar!  It is all you can do to maintain a
+grip on the wall and prevent yourself from being swept away by the strong
+current.  As you begin to lose you grip, you notice a passageway to the
+south which emits a steady flow of filty water into the river.  Even-
+though there is no possible way for you to fight the river and move
+along this tunnel to the east, you do suspect you could reach the
+tunnel in the southern wall.  You can also move with the current to
+the west.
+~
+213 9 0 0 0 0
+D2
+~
+~
+0 1 21338
+D3
+~
+~
+0 1 21329
+S
+#21331
+In the Chartuse River Tunnel~
+This massive tunnel is half-filled by the entire Chartuse River!  The
+current here is almost indescribable... tons of water rush past you as
+you desperatly cling to the moldy wall to prevent yourself from being
+swept away.  There is very little you can do in this tunnel -- the
+current is far too strong to fight and you cannot move to the east.
+The only thing to do, it would seem, is move with the current to the
+west.
+~
+213 9 0 0 0 0
+D3
+~
+~
+0 1 21330
+S
+#21332
+In the Chartuse River Tunnel~
+This huge tunnel houses the entire Chartuse River!  The current here is
+unbelievable and it is all you can do just to cling to a wall to prevent
+youself from being swept away by the flood.  While the tunnel leads both
+east and west, there is no way to fight the flow of this river by moving
+to the east.  It would seem that the only thing to do is move with the
+current to the west.
+~
+213 16777225 0 0 0 0
+D3
+~
+~
+0 1 21331
+S
+#21333
+In the Chartuse River Tunnel~
+The current here is so strong that you cannot fight it and move to the
+east.  While you cling to the moldy wall here, about to lose your grip,
+thinking your only option is to carefully move with the water to the
+west, you notice a tunnel carved into the northern wall into which some
+of the water branches.  Perhaps you could reach it and go north...?
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21325
+D3
+~
+~
+0 1 21332
+S
+#21334
+In the Chartuse River Tunnel~
+This massive subterranean tunnel houses the entire Chartuse River!  The
+current is unimaginable and you are clinging to the slimey wall just to
+keep yourself from being swept away by the tons of water rushing past
+you.  Unfortunately, the river is far too strong to move against to the
+east.  As you glance around, you see a tunnel leading south into which
+a steady stream of water flows.  If you could just reach it without
+losing your grip...
+~
+213 9 0 0 0 0
+D2
+~
+~
+0 1 21342
+D3
+~
+~
+0 1 21333
+S
+#21335
+Behind the Grate~
+Maybe coming here was a mistake... the river seems to pick up speed
+as it is forced into this large tunnel and the current here is amazing.
+It is all you can do to hold on to the moldy wall and avoid being swept
+away by the water.  Although you can see out a grate in the eastern wall,
+there is just no way to move against the current and reach it.  As you
+study your situation you realize that the only thing to do is move with
+the current to the west and hope for the best.
+~
+213 9 0 0 0 0
+D3
+~
+~
+0 1 21334
+S
+#21336
+Room #21336~
+This description is yet unfinished...
+~
+213 9 0 0 0 0
+D3
+~
+~
+0 1 21335
+S
+#21337
+At a Bend in the Tunnel~
+You are standing in a filthy sewer tunnel; the water here is full of
+dirt, grime, waste, and gunk that has dripped down through drainage
+vents in town and collected in these waters.  The current moves to the
+east.  You may go east or south.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21338
+D2
+~
+~
+0 1 21344
+S
+#21338
+A Junction in the Sewers~
+You are standing where one large pipe joins with another.  North of here,
+through a little tunnel, you hear the roar of water.  A filthy flow of
+waste water rushes in from the west and gushes through the passage to
+the north.  A ledge on the eastern wall seems to lead off to some dryer
+tunnels.  You may go north, west or east.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21330
+D1
+~
+~
+0 1 21339
+D3
+~
+~
+0 1 21337
+S
+#21339
+In a Dry Tunnel~
+This tunnel was probibly not constructed as part of the sewers but rather,
+you suspect, is older than the sewers and was perhaps used once as a cat-
+acomb.  The ground and walls are not made of brick like the sewer system
+but are, instead, made of stone and clay.  Judging from the amount of
+dust here, no one has been this way in a while.  To the west, over a small
+ledge, you see the sewer system.  East of here, this tunnel joins more
+like it.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21340
+D3
+~
+~
+0 1 21338
+S
+#21340
+In a Dry Tunnel~
+You are in a tunnel which is older than the sewer system of Alaozar.  This
+place seems to have once been used as a burial ground judging from the seal-
+ed tombs in the clay and stone walls.  As you look around carefully, you
+notice some carving on one of the walls here.  This dry tunnel leads to
+the west and east.
+~
+213 9 0 0 0 0
+D2
+~
+~
+0 1 21347
+D3
+~
+~
+0 1 21339
+S
+#21341
+In a Strange Chamber~
+This place seems to be a big burial vault -- or at least at one time it
+must have been.  There are tombs sealed in the walls and writing here
+and there.  Now it would seem someone is living here!  There is a big,
+old sofa next to one of the tombs and a little wooden table sitting in
+the center of the room.  Passages lead off to the west and south.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21342
+D2
+~
+~
+0 1 21348
+S
+#21342
+At a bend in the Sewer Tunnel~
+You are standing at a bend in the sewer tunnel perched atop a little lip
+on one of the walls and thankful that you do not have to wade in this
+water.  Every now and again streams of filth and dirt gush from tiny
+holes in the ceiling and are embraced by the water flowing beneath you.
+Current comes in from the east and rushes off to the south.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21334
+D1
+~
+~
+0 1 21343
+D3
+~
+~
+0 1 21341
+S
+#21343
+At a Junction in the Sewers~
+The noise of rushing water to the north is almost deafening and the amount
+of water that gushes in from the tunnel leading north is amazing.  This
+pipe leads off to the west and the water follows it.  Over a tall dam,
+a passageway also leads to the east.  Of course, you can also try to
+fight the water current and move to the north.
+~
+213 9 0 0 0 0
+D2
+~
+~
+0 1 21350
+D3
+~
+~
+0 1 21342
+S
+#21344
+In a Dry Room~
+This seems to be a single dry room.  Some iron pipes run along the walls
+and up through the stone ceiling.  Wow, do people in the city above really
+have running water?  The only exit seems to be to the west over a big dam
+and back into the waters and sewer.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21337
+D1
+~
+~
+0 1 21345
+D2
+~
+~
+0 1 21351
+S
+#21345
+In a Sewer Tunnel~
+You are standing in a sewer tunnel and are forced to actually wade through
+the filth as the lip of this tunnel designed to allow people to walk here
+without getting wet has crumbled away.  The western wall, unlike the
+others, is made of huge grey stone that remind you of the town walls.
+Water gushes in from the south and east and runs off to the north.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21346
+D3
+~
+~
+0 1 21344
+S
+#21346
+In a Sewer Tunnel~
+You are standing in a sewer tunnel perched on a thin ledge on one wall.
+Below you, water full of filth and dirt rushes by from east to west.  The
+brick walls here are old, seemingly older than the rest of the sewer sys-
+tem.  You can go east or west.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21347
+D3
+~
+~
+0 1 21345
+S
+#21347
+In a Sewer Tunnel~
+You are standing on a little ledge on one brick wall of this sewer pipe.
+Just below you, somewhat clean water runs from the east to west.  Through
+pipes in the ceiling, great flows of filth plop down into the water here
+to be embrased and swept away.  You can go west or east.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21340
+D1
+~
+~
+0 1 21348
+D3
+~
+~
+0 1 21346
+S
+#21348
+At a Junction in the Sewers~
+Here, a large pipe running east-west is joined by a strange tunnel leading
+north.  The tunnel to the north seems to be older than these sewers and its
+floor is dry -- protected from water by a tall legde.  Water here runs from
+east to west and appears to be somewhat clean still.  You may go north, east,
+or west.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21341
+D1
+~
+~
+0 1 21349
+D3
+~
+~
+0 1 21347
+S
+#21349
+At a Junction in the Sewers~
+This is a large subterranean chamber far underneath the city of Alaozar.
+Here, water rushes in through a big pipe to the north and flows away
+through a tunnel leading west.  There is a raised tunnel leading away
+to the east and since the water level is low it is still dry.  You may
+go north, west, or east.
+~
+213 9 0 0 0 0
+D2
+~
+~
+0 1 21356
+D3
+~
+~
+0 1 21348
+S
+#21350
+In the Overflow Tunnel~
+This tunnel was surely designed to fill only if the water level of the
+Chartuse River rose dangerously high to prevent damage to the sewer
+system and flooding in the streets above.  The ground here is not bone
+dry but rather moldy and slightly moist.  You suspect this place gets
+its share of water every now and then when the rains are heavy.  You
+can go west or south from this point.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21343
+D2
+~
+~
+0 1 21357
+S
+#21351
+In a Dry Tunnel~
+The walls here are made of the same re-inforced grey stone that was used
+in the city walls and if your sense of direction is right you must be
+either next to or underneath those massive walls right now.  This passage
+leads off to the north and south.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21344
+D1
+~
+~
+0 1 21352
+S
+#21352
+In the Overflow Tunnel~
+You are in some kind of overflow tunnel; the amount of water here is minimal
+and it is raised several feet above the other sewer tunnels you have seen.
+Clearly this tunnel was built to prevent flooding or damage that might be
+caused in the event of a water level rise.  You can go north or east from
+here.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21353
+D3
+~
+~
+0 1 21351
+S
+#21353
+In the Overflow Tunnel~
+You are standing in a tunnel designed to act as an overflow tunnel so
+that if the water level in the sewers rose too high it would fill and
+help alleviate the pressure and reduce the risk of flooding.  Right now,
+there is very little water here and you can see the thick mold and slime
+on the brick tunnel floor.  There is a huge brick pit here leading down
+into the darkness.  Perhaps the engineers thought that this "well" would
+take even more overflowing waters back to the earth or some underground
+river?  You could probibly climb down.  The overflow tunnel here leads
+both east and west.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21354
+D3
+~
+~
+0 1 21352
+D5
+~
+~
+0 1 21366
+S
+#21354
+In the Overflow Tunnel~
+This tunnel was built as a way to prevent flooding in the rainy season
+when the Chartuse River's level typically rises.  Right now there is
+very little water on the ground here and you walk over strange green
+mold which, like a carpet, covers the floor.  You can go east or west.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21355
+D3
+~
+~
+0 1 21353
+S
+#21355
+In the Overflow Tunnel~
+This is a mostly dry tunnel with a very large diameter and a lot of
+mold growing on the walls and floor.  It leads both west and east.
+~
+213 9 0 0 0 0
+D1
+~
+~
+0 1 21356
+D3
+~
+~
+0 1 21354
+S
+#21356
+In the Overflow Tunnel~
+This tunnel changes direction here, sloping gradually downward to the west
+while rising slightly to the north.  Since this entire area is a few feet
+higher than the rest of the sewer network, you assume it was built to help
+reduce pressure on the other tunnels when the water level rose in rainy
+times.  You can go north or west.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21349
+D3
+~
+~
+0 1 21355
+S
+#21357
+In a Secret Passageway~
+This passage is clearly not part of the sewers.  Instead it was built
+of the same stone used to make the city walls.  There are a few old
+chairs here and what look like cases to store weapons.  Could this
+way have once been guarded by soldiers from the city?  You can go
+north or east.
+~
+213 9 0 0 0 0
+D0
+~
+~
+0 1 21350
+D1
+~
+~
+0 1 21358
+S
+#21358
+Under the Walls!~
+This must be a secret passageway under the city walls!  The stones all
+around you look just like the massive grey ones used to build the huge
+walls protecting Alaozar.  You are far below the ground and suspect you
+have found a secret tunnel out of the city.  Perhaps it was made so that
+if ever beseiged, soldiers from Alaozar could smuggle in food or get out
+to sneak attack the enemy.  You can go east or west.
+~
+213 9 0 0 0 0
+D1
+A small, tight tunnel leads into the darkness.
+~
+~
+0 1 21359
+D3
+~
+~
+0 1 21357
+S
+#21359
+In a Small Tunnel!~
+This tunnel is very small and difficult to move through.  It leads both
+east and west into the darkness.
+~
+213 9 0 0 0 0
+D1
+A small tight tunnel leads into the darkness.
+~
+~
+0 1 21360
+D3
+The tunnel seems to open up to the west.
+~
+~
+0 1 21358
+S
+#21360
+In a Small Tunnel!~
+This tunnel is very small and difficult to move through.  It leads both
+east and west into the darkness.
+~
+213 9 0 0 0 0
+D3
+The tunnel continues.
+~
+~
+0 1 21358
+S
+#21361
+In an underground river!~
+The current is not as strong here and you have a moment to rest and
+breathe again.  While you can not find the strength to move back against
+the water to the north, there is a little crack in the southern wall that
+you just might be able to fit through...~
+213 9 0 0 0 0
+D2
+You cannot see through the crack and you doubt you will be able to
+fit back through.
+~
+~
+0 1 14325
+S
+#21362
+In an underground river!~
+SPUTTER... you are being swept along by an underground river.  It is very
+difficult to breathe here and there are huge rocks above your head that
+you are trying to avoid being swept into.  The water here is freezing
+cold and you are beginning to lose feeling in your limbs.  At some places
+it is all you can do to find air pockets to breathe in!  Although this
+stream seems to run north and south, the current here is way too strong
+to fight by moving north.  You can only swim south, with the current.
+~
+213 9 0 0 0 0
+D2
+You cannot see, the water is too dark.
+~
+~
+0 1 21361
+S
+#21363
+In an underground river!~
+COUGH... you just swallowed some of this mineral-rich water and almost
+choked when it went down the wrong passage.  You are struggling with
+this very swift underground river and are being swept along to the
+south by the current.  You can hardly breathe... ...and if that were
+not enough you are worried about the low-hangling stalagtites and that
+this damn river threatons to bach you into.  The water rushes north to
+south and is impossible to move against.
+~
+213 9 0 0 0 0
+D2
+You cannot see, the water is too dark.
+~
+~
+0 1 21362
+S
+#21364
+In an underground river!~
+WHEW... you just missed a huge, low-hanging rock that, at the speed this
+water is carrying you, would have dashed the life out of you.  The river
+is very cold and you are beginning to lose feeling in your arms and legs.
+To top it all off, you can hardly breathe!  The current is too strong to
+fight by moving north and the only direction you can move is south, with
+the flow.
+~
+213 9 0 0 0 0
+D2
+You cannot see, the water is too dark.
+~
+~
+0 1 21363
+S
+#21365
+In an underground river!~
+GASP... you are being swept along by an underground river.  It is very
+difficult to breathe here and there are huge rocks above your head that
+you are trying to avoid being swept into.  The current is carrying you
+in a southward direction and it is impossible to fight.  The best move
+might be just to take a deep breath, dive under, and hope for the best!
+~
+213 9 0 0 0 0
+D2
+You cannot see, the water is too dark.
+~
+~
+0 1 21364
+S
+#21366
+In an underground river!~
+SPLASH... you fall right into a raging subterranean stream and are
+immediately caught in the strong current.  The rapids pull you
+under and it is all you can do to breathe.  The mineral-rich water
+is frigid and your limbs start to lose feeling.  You cannot reach the
+wall to hang on and are being inexoirable swept southward!
+~
+213 9 0 0 0 0
+D2
+You cannot see, the water is too dark.
+~
+~
+0 1 21365
+S
+$~

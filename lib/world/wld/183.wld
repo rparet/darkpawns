@@ -1,0 +1,1849 @@
+#18300
+An Immortal Map Room~
+This is a map room of zone 183.  There is a map taped to the wall here.
+~
+183 512 0 0 0 0
+E
+map~
+
+    F----F----F----F----F----F----F----F
+    |    |    |    |    |    |    |    |
+    |    |    |    |    |    |    |    |
+    F----F----F----F----F----F----F----F
+    |    |    |    |    |    |    |    |
+    |    |    |    |    |    |    |    |
+    F----F----F----F----F----F----F----F
+    |    |    |    |    |    |    |    |
+    |    |    |    |    |    |    |    |
+    F----F----F----F----F----F----F----F
+    |    |    |    |    |    |    |    |
+    |    |    |    |    |    |    |    |
+    F----F----F----F----F----F----F----F---F
+    |    |    |    |    |    |    |    |
+    |    |    |    |    |    |    |    |
+    F----F----F----F----F----F----F----F
+    |    |    |    |    |    |    |    |
+    |    |    |    |    |    |    |    |
+    F----F----F----F----F----F----F----F
+    |    |    |    |    |    |    |    |
+    |    |    |    |    |    |    |    |
+    F----F----F----F----F----F----F----F
+
+Map brought to you by Orodreth.
+~
+S
+#18301
+A Red Square~
+You are in the north-west corner of the board in a gleaming red tiled plaza.
+There are exits to the east and south.
+~
+183 32768 0 0 0 2
+D1
+A Black Square~
+~
+0 -1 18302
+D2
+A Black Square~
+~
+0 -1 18309
+S
+#18302
+A Black Square~
+This is the north-west section of the main plaza.  This particular section of
+the plaza is made up of black tiles.  There is a wall to the north and exits 
+lead in the other cardinal directions.
+~
+183 32768 0 0 0 2
+D1
+A Red Square~
+~
+0 -1 18303
+D2
+A Red Square~
+~
+0 -1 18310
+D3
+A Red Square~
+~
+0 -1 18301
+S
+#18303
+A Red Square~
+This is the north-west section of the plaza.  This section is made up of small
+red tiles in an ornate pattern.  There is a wall to the north but there are
+exits to the east, south, and west.
+~
+183 32768 0 0 0 2
+D1
+A Black Square~
+~
+0 -1 18304
+D2
+A Black Square~
+~
+0 -1 18311
+D3
+A Black Square~
+~
+0 -1 18302
+S
+#18304
+A Black Square~
+This is basically the north-center of the main plaza.  This section of the
+plaza is made up of semi-circular black tiles.  There is a wall to the north
+north and exits lead in the other cardinal directions.
+~
+183 32768 0 0 0 2
+D1
+A Red Square~
+~
+0 -1 18305
+D2
+A Red Square~
+~
+0 -1 18312
+D3
+A Red Square~
+~
+0 -1 18303
+S
+#18305
+A Red Square~
+You are basically about the center of the plaza right at the north wall.  This
+area is made up of small, triangular red tiles.  Exits lead east, west, and
+south.
+~
+183 32768 0 0 0 2
+D1
+A Black Square~
+~
+0 -1 18306
+D2
+A Black Square~
+~
+0 -1 18313
+D3
+A Black Square~
+~
+0 -1 18304
+S
+#18306
+A Black Square~
+You are in the north-east section of the of the plaza.  This area is made of 
+a black streaked stone.  Exits lead east, south and west.
+~
+183 32768 0 0 0 2
+D1
+A Red Square~
+~
+0 -1 18307
+D2
+A Red Square~
+~
+0 -1 18314
+D3
+A Red Square~
+~
+0 -1 18305
+S
+#18307
+A Red Square~
+This is the north-east section of the main plaza.  This little square is made up
+of small, irregular red stones, much like little cobbles.  You can leave west,
+south, or east.
+~
+183 32768 0 0 0 2
+D1
+A Black Square~
+~
+0 -1 18308
+D2
+A Black Square~
+~
+0 -1 18315
+D3
+A Black Square~
+~
+0 -1 18306
+S
+#18308
+A Black Square~
+This is the north-east corner of the plaza.  This area has a smooth-as-glass,
+gleaming black floor.  You can leave south or west.
+~
+183 32768 0 0 0 2
+D2
+A Red Square~
+~
+0 -1 18316
+D3
+A Red Square~
+~
+0 -1 18307
+S
+#18309
+A Black Square~
+Along the west wall in the north-west section of the plaza.  The floor is a 
+rough black surface.  You can leave to the north, east, or south.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18301
+D1
+A Red Square~
+~
+0 -1 18310
+D2
+A Red Square~
+~
+0 -1 18317
+S
+#18310
+A Red Square~
+You are in the north-west section of the main plaza.  This area has a slick red
+floor.  Exits lead north, east, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18302
+D1
+A Black Square~
+~
+0 -1 18311
+D2
+A Black Square~
+~
+0 -1 18318
+D3
+A Black Square~
+~
+0 -1 18309
+S
+#18311
+A Black Square~
+The north-west section of the main plaza.  This small zone is made up of very
+small black tiles.  Exits lead in all the cardinal directions.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18303
+D1
+A Red Square~
+~
+0 -1 18312
+D2
+A Red Square~
+~
+0 -1 18319
+D3
+A Red Square~
+~
+0 -1 18310
+S
+#18312
+A Red Square~
+You are in the north-east corner of the plaza.  The floor is made of flat, red
+stones.  Exits lead in the four basic directions.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18304
+D1
+A Black Square~
+~
+0 -1 18313
+D2
+A Black Square~
+~
+0 -1 18320
+D3
+A Black Square~
+~
+0 -1 18311
+S
+#18313
+A Black Square~
+You are in the north-east section of the plaza.  The floor here is covered by
+a fine black gravel.  Exits lead north, east, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18305
+D1
+A Red Square~
+~
+0 -1 18314
+D2
+A Red Square~
+~
+0 -1 18321
+D3
+A Red Square~
+~
+0 -1 18312
+S
+#18314
+A Red Square~
+This small area in the north-east part of the plaza is made up of very large
+slabs of dull red stone.  Exits lead north, east, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18306
+D1
+A Black Square~
+~
+0 -1 18315
+D2
+A Black Square~
+~
+0 -1 18322
+D3
+A Black Square~
+~
+0 -1 18313
+S
+#18315
+A Black Square~
+In the north-east section of the main plaza, this square is made up of chunks of
+mismatched black stone.  Exits lead in all compass directions.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18307
+D1
+A Red Square~
+~
+0 -1 18316
+D2
+A Red Square~
+~
+0 -1 18323
+D3
+A Red Square~
+~
+0 -1 18314
+S
+#18316
+A Red Square~
+Along the east wall in the north-east of the plaza, this square's floor is made
+up of a hard packed red clay.  Exits lead north, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18308
+D2
+A Black Square~
+~
+0 -1 18324
+D3
+A Black Square~
+~
+0 -1 18315
+S
+#18317
+A Red Square~
+This is along the west wall in the north-west area.  The floor here is made up
+of small red beads that appear to be glued to the ground.  Exits lead north, 
+east, and south. 
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18309
+D1
+A Black Square~
+~
+0 -1 18318
+D2
+A Black Square~
+~
+0 -1 18325
+S
+#18318
+A Black Square~
+In the north-west section of the plaza, this very plain looking square with a
+black floor has exits in all of the cardinal directions.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18310
+D1
+A Red Square~
+~
+0 -1 18319
+D2
+A Red Square~
+~
+0 -1 18326
+D3
+A Red Square~
+~
+0 -1 18317
+S
+#18319
+A Red Square~
+The floor of this room is some covered with some kind of pine needles, which is
+strange because there are no trees on the plaza.  Exits lead north, south, east,
+and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18311
+D1
+A Black Square~
+~
+0 -1 18320
+D2
+A Black Square~
+~
+0 -1 18327
+D3
+A Black Square~
+~
+0 -1 18318
+S
+#18320
+A Black Square~
+There is moss growing on the ground here, covering the original color of the
+floor.  This moss is a black, icky looking thing.  Exits lead in the four basic
+directions from here.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18312
+D1
+A Red Square~
+~
+0 -1 18321
+D2
+A Red Square~
+~
+0 -1 18328
+D3
+A Red Square~
+~
+0 -1 18319
+S
+#18321
+A Red Square~
+There is a thick, red, shag carpet here.  Because of the carpet it seems
+very quiet.  Exits lead north, east, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18313
+D1
+A Black Square~
+~
+0 -1 18322
+D2
+A Black Square~
+~
+0 -1 18329
+D3
+A Black Square~
+~
+0 -1 18320
+S
+#18322
+A Black Square~
+In the north-east section of the plaza, this open area is made completely up of
+a single slab of onyx.  Exits lead in the four directions.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18314
+D1
+A Red Square~
+~
+0 -1 18323
+D2
+A Red Square~
+~
+0 -1 18330
+D3
+A Red Square~
+~
+0 -1 18321
+S
+#18323
+A Red Square~
+This is in the north-east section of the main plaza.  The room is all done up
+with red painted wood.  There are exits to the north, east, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18315
+D1
+A Black Square~
+~
+0 -1 18324
+D2
+A Black Square~
+~
+0 -1 18331
+D3
+A Black Square~
+~
+0 -1 18322
+S
+#18324
+A Black Square~
+   This room has a mute, black, indescribable feel to it.  Directly to your
+east is the east wall.  Exits lead north, west, and south. 
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18316
+D2
+A Red Square~
+~
+0 -1 18332
+D3
+A Red Square~
+~
+0 -1 18323
+S
+#18325
+A Black Square~
+Along the west wall this square is made up of a fine black stone, inlayed with
+a little gold.  Exits lead to the north, east, and south.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18317
+D1
+A Red Square~
+~
+0 -1 18326
+D2
+A Red Square~
+~
+0 -1 18333
+S
+#18326
+A Red Square~
+A richly ornated area, this place in the north-west portion of the plaza has
+many comfortable items that are all done in a tasteful red.  Exits lead in the
+four basic directions.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18318
+D1
+A Black Square~
+~
+0 -1 18327
+D2
+A Black Square~
+~
+0 -1 18334
+D3
+A Black Square~
+~
+0 -1 18325
+S
+#18327
+A Black Square~
+In the north-west area of the main plaza, this mini-plaza is done in a low pile
+carpet.  It is a charcoal gray, almost black, in color.  Exits lead north,
+south, east, and west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18319
+D1
+A Red Square~
+~
+0 -1 18328
+D2
+A Red Square~
+~
+0 -1 18335
+D3
+A Red Square~
+~
+0 -1 18326
+S
+#18328
+A Red Square~
+   This area is coated in a fine red powder.  It is in the air and dries
+out your throat very quickly.  Exits lead in the four cardinal directions.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18320
+D1
+A Black Square~
+~
+0 -1 18329
+D2
+A Black Square~
+~
+0 -1 18336
+D3
+A Black Square~
+~
+0 -1 18327
+S
+#18329
+A Black Square~
+It is very dark here, although the sun still gives its light.  It seems that
+all the items are sucking up the light, making it have a black feel to it. 
+Exits are to the north, east, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18321
+D1
+A Red Square~
+~
+0 -1 18330
+D2
+A Red Square~
+~
+0 -1 18337
+D3
+A Red Square~
+~
+0 -1 18328
+S
+#18330
+A Red Square~
+There is a glow about this room.  You have no idea where the light is coming
+from but it basks exerything in a eerie red glow.  Exits lead north, east,
+south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18322
+D1
+A Black Square~
+~
+0 -1 18331
+D2
+A Black Square~
+~
+0 -1 18338
+D3
+A Black Square~
+~
+0 -1 18329
+S
+#18331
+A Black Square~
+This area in the north-east quadrant of the plaza is done in a gothic, but
+tasteful decore.  Unfortunately, the only color is black.  Exits lead north,
+south, east, and west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18323
+D1
+A Red Square~
+~
+0 -1 18332
+D2
+A Red Square~
+~
+0 -1 18339
+D3
+A Red Square~
+~
+0 -1 18330
+S
+#18332
+A Red Square~
+This square looks like it could be a garnet mine.  There is little flakes of the
+red stone imbeded into the walls and floor.  A wall is directly to the east
+here.  Exits lead north, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18324
+D2
+A Black Square~
+~
+0 -1 18340
+D3
+A Black Square~
+~
+0 -1 18331
+S
+#18333
+A Red Square~
+There are small red pebbles lying all over the place.  They fit nicely, 
+thorough, and cause no problems walking or running.  There is a wall to the
+west.  Exits lead north, south, and east.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18325
+D1
+A Black Square~
+~
+0 -1 18334
+D2
+A Black Square~
+~
+0 -1 18342
+S
+#18334
+A Black Square~
+This is a dingy, dank, and dark place.  It is kind of surprising to see here
+in the ordinarily bright plaza.  Exits lead north, south, east, and west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18326
+D1
+A Red Square~
+~
+0 -1 18335
+D2
+A Red Square~
+~
+0 -1 18343
+D3
+A Red Square~
+~
+0 -1 18333
+S
+#18335
+A Red Square~
+The walls and floor here are painted with a very gleaming red paint.  Why would
+anyone actually do that to a place?  Exits lead in the four basic directions.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18327
+D1
+A Black Square~
+~
+0 -1 18336
+D2
+A Black Square~
+~
+0 -1 18344
+D3
+A Black Square~
+~
+0 -1 18334
+S
+#18336
+A Black Square~
+There is a black tarp rolled out over this part of the plaza.  Maybe there is
+some tile work they are trying to save from wear.  Exits lead in the four
+cardinal directions.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18328
+D1
+A Red Square~
+~
+0 -1 18337
+D2
+A Red Square~
+~
+0 -1 18345
+D3
+A Red Square~
+~
+0 -1 18335
+S
+#18337
+A Red Square~
+In the south-east section of the plaza, this area is covered with a plush red
+material.  Exits head north, east, south, or west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18329
+D1
+A Black Square~
+~
+0 -1 18338
+D2
+A Black Square~
+~
+0 -1 18346
+D3
+A Black Square~
+~
+0 -1 18336
+S
+#18338
+A Black Square~
+There is a mixture of black, gray, and gold tiles here to form an ornate
+pattern.  Exits lead in the basic four directions.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18330
+D1
+A Red Square~
+~
+0 -1 18339
+D2
+A Red Square~
+~
+0 -1 18347
+D3
+A Red Square~
+~
+0 -1 18337
+S
+#18339
+A Red Square~
+There is a finely crafted mural made of small stones with colors ranging from 
+white to pink to a deep red on the floor here.  Exits lead north, west, south,
+and east.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18331
+D1
+A Black Square~
+~
+0 -1 18340
+D2
+A Black Square~
+~
+0 -1 18348
+D3
+A Black Square~
+~
+0 -1 18338
+S
+#18340
+A Black Square~
+This is along the east wall.  The ground is made of a fine crushed black powder.
+There is a iron gate to the east and exits lead to the north, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18332
+D1
+A solid looking iron gate.
+~
+gate~
+2 -1 18341
+D2
+A Red Square~
+~
+0 -1 18349
+D3
+A Red Square~
+~
+0 -1 18339
+S
+#18341
+A Gateway~
+This is a small platform in the middle of a vast ethereal light that leads up to
+a heavy iron gate to the west.  There is a big sign posted here.
+~
+183 32772 0 0 0 2
+D1
+A misty red portal
+~
+~
+0 -1 18382
+D3
+A solid looking iron gate.
+~
+gate~
+2 -1 18340
+E
+sign~
+
+   --------------------------------------------------------
+   |                       BEWARE!                        |
+   | THIS IS A CREATION OF THE TWISTED MAGE/GOD ORODRETH. |
+   |  WHAT LIES BEYOND THIS GATE IS NOT WHAT IT MAY SEEM  |
+   |                         AND                          |
+   |                 MAY BE VERY HARMFUL.                 | 
+   |                YOU HAVE BEEN WARNED!                 |
+   --------------------------------------------------------
+      | |                                            | |
+      | |                                            | |
+      | |                                            | |
+      | |                                            | |
+~
+S
+#18342
+A Black Square~
+A thin black mist rolls on the ground in this little square.  The wall is just
+west of here.  Exits lead north, east, and south.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18333
+D1
+A Red Square~
+~
+0 -1 18343
+D2
+A Red Square~
+~
+0 -1 18350
+S
+#18343
+A Red Square~
+There is a high slab of red streaked stone used as the floor here.  Exits lead
+in the four basic directions.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18334
+D1
+A Black Square~
+~
+0 -1 18344
+D2
+A Black Square~
+~
+0 -1 18351
+D3
+A Black Square~
+~
+0 -1 18342
+S
+#18344
+A Black Square~
+The floor here is a very rough, broken mess of stones.  They are all black in
+color which makes you worry about twisting your ankle or something.  Exits lead
+in the four basic directions.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18335
+D1
+A Red Square~
+~
+0 -1 18345
+D2
+A Red Square~
+~
+0 -1 18352
+D3
+A Red Square~
+~
+0 -1 18343
+S
+#18345
+A Red Square~
+In the south-west section of the main plaza, this room's floor is of a simple
+tile pattern with little red tiles.  Exits lead in the basic cardinal 
+dirctions.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18336
+D1
+A Black Square~
+~
+0 -1 18346
+D2
+A Black Square~
+~
+0 -1 18353
+D3
+A Black Square~
+~
+0 -1 18344
+S
+#18346
+A Black Square~
+There is a tightly formed mosaic on the floor here.  It has black, gray, and
+gold tiles forming it.  There is an exit to the north, the south, the east, and
+the west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18337
+D1
+A Red Square~
+~
+0 -1 18347
+D2
+A Red Square~
+~
+0 -1 18354
+D3
+A Red Square~
+~
+0 -1 18345
+S
+#18347
+A Red Square~
+This is the south-east section of the plaza.  The floor here is made of a neat
+circle and triangle tiles fit together with a gray morter.  Exits are to the
+north, south, east, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18338
+D1
+A Black Square~
+~
+0 -1 18348
+D2
+A Black Square~
+~
+0 -1 18355
+D3
+A Black Square~
+~
+0 -1 18346
+S
+#18348
+A Black Square~
+This floor is made of large black tiles fit together fairly loosely.  Exits 
+lead north, east, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18339
+D1
+A Red Square~
+~
+0 -1 18349
+D2
+A Red Square~
+~
+0 -1 18356
+D3
+A Red Square~
+~
+0 -1 18347
+S
+#18349
+A Red Square~
+This square is situated in the south-east section of the plaza, along the east
+wall.  The floor here is made up of a strange red rock that is sort of gleaming.
+Exits lead to the north, west, and south.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18340
+D2
+A Black Square~
+~
+0 -1 18357
+D3
+A Black Square~
+~
+0 -1 18348
+S
+#18350
+A Red Square~
+This square is along the west wall.  The floor is made of a red stone that
+looks rounded.  It is used in a cobbled fashion.  Exits lead north, east, and
+south.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18342
+D1
+A Black Square~
+~
+0 -1 18351
+D2
+A Black Square~
+~
+0 -1 18358
+S
+#18351
+A Black Square~
+This is in the south west section of the main plaza.  The floor is a smooth,
+checker pattern with black and dark gray patterns.  Exits lead north, east,
+south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18343
+D1
+A Red Square~
+~
+0 -1 18352
+D2
+A Red Square~
+~
+0 -1 18359
+D3
+A Red Square~
+~
+0 -1 18350
+S
+#18352
+A Red Square~
+There is a fine red gravel on the ground here.  There are exits to the north,
+south, east, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18344
+D1
+A Black Square~
+~
+0 -1 18353
+D2
+A Black Square~
+~
+0 -1 18360
+D3
+A Black Square~
+~
+0 -1 18351
+S
+#18353
+A Black Square~
+This is in the south-west section of the plaza.  The ground is covered in a
+thick, black water like substance.  It is rather gross.  Exits lead to the
+north, east, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18345
+D1
+A Red Square~
+~
+0 -1 18354
+D2
+A Red Square~
+~
+0 -1 18361
+D3
+A Red Square~
+~
+0 -1 18352
+S
+#18354
+A Red Square~
+There is a red surface here, though you don't know what it is.  It is not
+really stone or wood, but it is safe to walk on.  There are exits in the four
+basic directions.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18346
+D1
+A Black Square~
+~
+0 -1 18355
+D2
+A Black Square~
+~
+0 -1 18362
+D3
+A Black Square~
+~
+0 -1 18353
+S
+#18355
+A Black Square~
+There is an ornate pattern made out of tiny tiles here, it must have taken
+ages to construct.  There are exits in the four basic cardinal directions.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18347
+D1
+A Red Square~
+~
+0 -1 18356
+D2
+A Red Square~
+~
+0 -1 18363
+D3
+A Red Square~
+~
+0 -1 18354
+S
+#18356
+A Red Square~
+There is a basic red tile floor here in the south-east section of the main
+plaza.  The exits are in the basic four directions.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18348
+D1
+A Black Square~
+~
+0 -1 18357
+D2
+A Black Square~
+~
+0 -1 18364
+D3
+A Black Square~
+~
+0 -1 18355
+S
+#18357
+A Black Square~
+The east wall is just to your east here.  The floor is made up of a simple
+triangle pattern with black tiles.  Exits head north, south, and west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18349
+D2
+A Red Square~
+~
+0 -1 18365
+D3
+A Red Square~
+~
+0 -1 18356
+S
+#18358
+A Black Square~
+This is the south-west corner of the plaza.  The floor here is a simple black 
+tile one.  Exits lead north and east.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18350
+D1
+A Red Square~
+~
+0 -1 18359
+S
+#18359
+A Red Square~
+A wall is just to your south.  This square is made up a rough, red stone that
+really doesn't look well cut or placed.  There are exits to the north, east,
+and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18351
+D1
+A Black Square~
+~
+0 -1 18360
+D3
+A Black Sqaure~
+~
+0 -1 18358
+S
+#18360
+A Black Square~
+This square is along the south wall.  There is a clean, black slate for the
+floor here.  Exits head east, west, north.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18352
+D1
+A Red Square~
+~
+0 -1 18361
+D3
+A Red Square~
+~
+0 -1 18359
+S
+#18361
+A Red Square~
+On the floor here is a complex pattern painted onto a white stone floor.  A
+wall is just to your south.  Exits are east, north, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18353
+D1
+A Black Square~
+~
+0 -1 18362
+D3
+A Black Square~
+~
+0 -1 18360
+S
+#18362
+A Black Square~
+Someone has created a swirl pattern with the small black tiles on the floor
+here.  Exits head off to the north, the east, and the west.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18354
+D1
+A Red Square~
+~
+0 -1 18363
+D3
+A Red Square~
+~
+0 -1 18361
+S
+#18363
+A Red Square~
+There is a spongy red material on the floor here.  Exits are to the north,
+east, and west.
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18355
+D1
+A Black Square~
+~
+0 -1 18364
+D3
+A Black Square~
+~
+0 -1 18362
+S
+#18364
+A Black Square~
+There is a strange soft black material covering everything except for a small
+path in the square.  Could that be velvet?  There are exits to the west, east,
+and north.
+~
+183 32768 0 0 0 2
+D0
+A Red Square~
+~
+0 -1 18356
+D1
+A Red Square~
+~
+0 -1 18365
+D3
+A Red Square~
+~
+0 -1 18363
+S
+#18365
+A Red Square~
+There a huge piece of red stone being used as the floor here.  There are viens
+of gold running thru it.  To the east and south are walls.  Exits are to the
+north and west. 
+~
+183 32768 0 0 0 2
+D0
+A Black Square~
+~
+0 -1 18357
+D3
+A Black Square~
+~
+0 -1 18364
+S
+#18366
+Map Room for hill to labyrinth and checkers~
+   *--*--*--*--*
+   |  |  /  |  |
+   *--*-\*/-*--*
+   |  |  \  |  |
+   *--*--*--*--*
+~
+183 0 0 0 0 0
+S
+#18367
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. All is silent here. To the southeast
+you see a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D1
+~
+~
+0 -1 18368
+D2
+~
+~
+0 -1 18372
+S
+#18368
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. All is silent here. To the southeast
+you see a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D1
+~
+~
+0 -1 18369
+D2
+~
+~
+0 -1 18373
+D3
+~
+~
+0 -1 18367
+S
+#18369
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. A small hill rises up here to stop
+at a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D1
+~
+~
+0 -1 18370
+D3
+~
+~
+0 -1 18368
+D4
+~
+~
+0 -1 18374
+S
+#18370
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. All is silent here. To the southwest
+you see a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D1
+~
+~
+0 -1 18371
+D2
+~
+~
+0 -1 18375
+D3
+~
+~
+0 -1 18369
+S
+#18371
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. All is silent here. To the southwest
+you see a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D0
+~
+~
+0 -1 9631
+D2
+~
+~
+0 -1 18376
+D3
+~
+~
+0 -1 18370
+S
+#18372
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. To the east you see a small shack on
+a tall hill.
+~
+183 0 0 0 0 0
+D0
+~
+~
+0 -1 18367
+D1
+~
+~
+0 -1 18373
+D2
+~
+~
+0 -1 18377
+S
+#18373
+In a Grassy Clearing~
+You stand at the edge of a grassy clearing. A small hill rises up here to stop
+at a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D0
+~
+~
+0 -1 18368
+D2
+~
+~
+0 -1 18378
+D3
+~
+~
+0 -1 18372
+D4
+~
+~
+0 -1 18374
+S
+#18374
+Outside the Wizard's Retreat~
+A small shack, it's doorway with the actual door  long since destroyed by 
+age, opens to the north.  In all other directions a grassy hilltop travels 
+down.
+~
+183 0 0 0 0 0
+D0
+Looking inside, the shack seems old but sturdy.
+~
+~
+0 -1 18382
+D1
+~
+~
+0 -1 18375
+D2
+~
+~
+0 -1 8062
+D3
+~
+~
+0 -1 18373
+S
+#18375
+In a Grassy Clearing~
+You stand at the edge of a grassy clearing. A small hill rises up here to stop
+at a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D0
+~
+~
+0 -1 18370
+D1
+~
+~
+0 -1 18376
+D2
+~
+~
+0 -1 18380
+D4
+~
+~
+0 -1 18374
+S
+#18376
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. To the west you see a small shack on
+a tall hill.
+~
+183 0 0 0 0 0
+D0
+~
+~
+0 -1 18371
+D2
+~
+~
+0 -1 18381
+D3
+~
+~
+0 -1 18375
+S
+#18377
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. All is silent here. To the northeast
+you see a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D0
+~
+~
+0 -1 18372
+D1
+~
+~
+0 -1 18378
+S
+#18378
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. All is silent here. To the northeast
+you see a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D0
+~
+~
+0 -1 18373
+D1
+~
+~
+0 -1 18379
+D3
+~
+~
+0 -1 18377
+S
+#18379
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. A small hill rises up here to stop
+at a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D1
+~
+~
+0 -1 18380
+D3
+~
+~
+0 -1 18378
+D4
+~
+~
+0 -1 18374
+S
+#18380
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. All is silent here. To the northeast
+you see a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D0
+~
+~
+0 -1 18375
+D1
+~
+~
+0 -1 18381
+D3
+~
+~
+0 -1 18379
+S
+#18381
+The Edge of a Grassy Clearing~
+You stand at the edge of a grassy clearing. All is silent here. To the 
+northwest you see a small shack on a tall hill.
+~
+183 0 0 0 0 0
+D0
+~
+~
+0 -1 18376
+D3
+~
+~
+0 -1 18380
+S
+#18382
+In the Wizard's Shack~
+A small table and fireplace fill the north wall, and the door to the south is 
+missing, leaving a hole to the outside world. On the west wall is a glowing red
+portal, while a matching black one takes up the eastern wall. The table before
+you is covered with board games and puzzle books, all in remarkably good shape.
+A red, leatherbound book glows faintly where it lies, but resists all your 
+efforts to pick it up.
+~
+183 32780 0 0 0 0
+D1
+You see boiling black mist.
+~
+~
+0 -1 4565
+D3
+You see boiling red mist.
+~
+~
+0 -1 18341
+S
+#18396
+The HITEC Lab~
+
+You are in a really cool lab, that your tax dollars paid for :)  This
+place is so cool that it even has a police car with working lights in it.
+This is the kinda place that all us computer geeks want to call home.
+~
+183 8 0 0 0 0
+S
+#18397
+Orodreth's Quarters~
+This is the sleeping chamber of a meticulous mage.  There is nothing out of
+place here.  It almost looks as though the person who uses this room, does not
+actually need to sleep here.  There is a doorway to the east with a sign
+hanging over it.
+~
+183 525832 0 0 0 0
+D1
+~
+~
+0 0 18398
+E
+sign door~
+The sign over the door reads,
+   "If you can read this,
+    you are too close"
+~
+S
+#18398
+Orodreth's Library~
+All along the walls are huge floor-to-ceiling bookshelves full of books.  Some
+are the newest releases from ORA and some are novels as old as time itself.
+The knowledge that is contained on these shelves... it is amazing...
+There are two exits on back into the main room which is to the west and a
+small door on the north wall leads somewhere.
+~
+183 525832 0 0 0 0
+D0
+The Coding Room~
+~
+0 -1 18399
+D3
+The Main Chamber~
+~
+0 -1 18397
+E
+book books shelves~
+There is everything here, from Programming in PERL to Odan the First Warrior
+of Carsis.  Where the heck is Carsis?
+~
+S
+#18399
+The Coding Room~
+You are in a large room by its dimesions, but not by the looks of it.  It
+is cluttered with printouts, manuals, and snack wrappers.  There are two
+large tables along the two of the walls and a large painting on the other.
+You see a wonderful colection of hardware, which is all connected with a lag-
+free internet link, must be nice.  The only door is to the south.
+~
+183 525832 0 0 0 0
+D2
+~
+~
+0 0 18398
+E
+hardware computers~
+Wow, look at all this cool stuff, man you could run the world from here!
+~
+E
+painting~
+There is a large picture of the world on it.  The longer you look the more
+it seems to spin... how strange.
+~
+E
+paper piles printout printouts~
+There are reams and reams of printouts here, stacked and scattered.  Most
+have code on them, but some are maps, and some even look to be letters or
+memos.
+~
+E
+table tables~
+They are long sturdy tables coverered in paper printouts of code and maps.
+Everything looks scattered, but yet... organized.
+~
+S
+$~

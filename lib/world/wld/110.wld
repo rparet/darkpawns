@@ -1,0 +1,10640 @@
+#11000
+The Desert~
+   Black dunes rise from the desert landscape around you. No signs of life
+are to be seen, and you wonder what made you come here. A huge cave opens
+under a sand-covered shelf of rock to the west.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11001
+D2
+~
+~
+0 -1 11011
+D3
+~
+~
+0 -1 11512
+S
+#11001
+The Desert~
+   Sand chafes your skin and blinds your eyes as you sink to your ankles
+in this black sand that stretches in all directions save north, where a
+rock outcropping offers a bit of shade, though is too tall to climb.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11002
+D2
+~
+~
+0 -1 11012
+D3
+~
+~
+0 -1 11000
+S
+#11002
+The Desert~
+   The only wind that blows is a harsh desert breeze that does nothing
+buy blow the black sand into your eyes and nose.
+   The desert continues in all directions save north, where a basalt
+outcropping rises high into the desert sky.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11003
+D2
+~
+~
+0 -1 11013
+D3
+~
+~
+0 -1 11001
+S
+#11003
+The Desert~
+   Black sand gets in your boots, in your eyes, in your hair. There is 
+little in sight that makes the journey here exciting or adventurous, 
+except for the rock outcropping that spans the northern horizon and 
+breaks up an otherwise boring scene.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11004
+D2
+~
+~
+0 -1 11014
+D3
+~
+~
+0 -1 11002
+S
+#11004
+The Desert~
+   The sand blows here so hard you can hardly stand to open your eyes as
+you stumble almost blindly forward through the desert.  Even the rocks
+that streak from the desert floor to the north offer no protection from
+the winds.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11005
+D2
+~
+~
+0 -1 11015
+D3
+~
+~
+0 -1 11003
+S
+#11005
+The Desert~
+   The desert wind pelts your skin with sand, but does not cool your
+hot skin.  A small overhang of rock stretches overhead as it reaches
+out from the outcropping to the north.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11006
+D2
+~
+~
+0 -1 11016
+D3
+~
+~
+0 -1 11004
+S
+#11006
+The Desert~
+   Sweat streams down your body as you trudge through the heat-retaining
+sands.  Only thoughts of water and shelter from the sun fill your mind.
+   A row of basalt monoliths streak from the surface to the north, much
+to steep and wind-smoothed to climb.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11007
+D2
+~
+~
+0 -1 11017
+D3
+~
+~
+0 -1 11005
+S
+#11007
+The Desert~
+   Protected by the rock outcropping to the north, here you enjoy a
+short break from the blistering winds and blowing sands that tear
+into you from out in the open desert.
+   It seems as though it would be a decent place to camp.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11008
+D2
+~
+~
+0 -1 11018
+D3
+~
+~
+0 -1 11006
+S
+#11008
+The Desert~
+   A storm seems to be brewing to the east as dark clouds peek over
+the rock monoliths to the north.  In all other directions, you can
+see only mile after mile of the same bleak, black sands.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11009
+D2
+~
+~
+0 -1 11019
+D3
+~
+~
+0 -1 11007
+S
+#11009
+The Desert~
+   The storm to the east seems to be moving this way, but it's hard to tell 
+since there are no real reference points, save the natural basalt wall of
+unclimbable height to the north.  Great billows of sand shoot into the sky,
+driven by the strong wind.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11010
+D2
+~
+~
+0 -1 11020
+D3
+~
+~
+0 -1 11008
+S
+#11010
+The Desert~
+   Hugging the northern outcropping, you look out to see that a storm
+to the east is definitely heading this way.  Pausing, you look around
+and ponder if it would be a good idea to head back soon.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11446
+D2
+~
+~
+0 -1 11021
+D3
+~
+~
+0 -1 11009
+S
+#11011
+The Desert~
+   The wind is blowing sand so hard you can hardly stand to open your eyes.
+You stumble almost blindly forward through the desert, though maintain some
+sense well enough to know not to head west, where the black sands and horrid
+sandholes would quickly swallow you and end your days with a suffocating and
+crushing death.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11000
+D1
+~
+~
+0 -1 11012
+D2
+~
+~
+0 -1 11022
+S
+#11012
+The Desert~
+   A large figure appears south of you, then suddenly flickers out of existence.
+You are apparently hallucinating already.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11001
+D1
+~
+~
+0 -1 11013
+D2
+~
+~
+0 -1 11023
+D3
+~
+~
+0 -1 11011
+S
+#11013
+The Desert~
+   The waves of heat rolling off the desert make mirages constantly flicker on
+the horizon. The dark sand only heightens the effect.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11002
+D1
+~
+~
+0 -1 11014
+D2
+~
+~
+0 -1 11024
+D3
+~
+~
+0 -1 11012
+S
+#11014
+The Desert~
+   You are lost in the desert. Black sands shift too rapidly to gain any
+sense of place.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11003
+D1
+~
+~
+0 -1 11015
+D2
+~
+~
+0 -1 11025
+D3
+~
+~
+0 -1 11013
+S
+#11015
+The Desert~
+   The metal in your equipment is almost sandblasted into uselessness.  You
+you wonder if anything could survive here - including yourself.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11004
+D1
+~
+~
+0 -1 11016
+D2
+~
+~
+0 -1 11026
+D3
+~
+~
+0 -1 11014
+S
+#11016
+The Desert~
+   You catch yourself staring oddly off into the horizon and wonder if
+you will be to explore here for any amount of time without permanent
+effects.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11005
+D1
+~
+~
+0 -1 11017
+D2
+~
+~
+0 -1 11027
+D3
+~
+~
+0 -1 11015
+S
+#11017
+The Desert~
+   You top a dune slightly higher than the rest and see only more black
+desert that spans to the horizon.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11006
+D1
+~
+~
+0 -1 11018
+D2
+~
+~
+0 -1 11028
+D3
+~
+~
+0 -1 11016
+S
+#11018
+The Desert~
+   You glance up from the mesmerizing desert floor and see a great sandstorm
+boiling to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11007
+D1
+~
+~
+0 -1 11019
+D2
+~
+~
+0 -1 11029
+D3
+~
+~
+0 -1 11017
+S
+#11019
+The Desert~
+   Except for the dark clouds to the east, all directions look the same. 
+Sand is everywhere.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11008
+D1
+~
+~
+0 -1 11020
+D2
+~
+~
+0 -1 11030
+D3
+~
+~
+0 -1 11018
+S
+#11020
+The Desert~
+   The storm to the east picks up speed and seems to leap toward you. Thoughts
+of the being caught in the gale fill you with a sense a dread.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11009
+D1
+~
+~
+0 -1 11021
+D2
+~
+~
+0 -1 11031
+D3
+~
+~
+0 -1 11019
+S
+#11021
+The Desert~
+   To the east the edge of the storm looks like it is alive; boiling like
+a vast cauldron of sand.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11010
+D1
+~
+~
+0 -1 11448
+D2
+~
+~
+0 -1 11032
+D3
+~
+~
+0 -1 11020
+S
+#11022
+The Desert~
+   Thirst overwhelms you as you trod through the sands of the desert that
+seems to have no end.  What makes the situation worse however, is that a
+few sandholes - eddies of funneling sand - appear to the west and consume
+the desert and anything that dares dwell on top of it.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11011
+D1
+~
+~
+0 -1 11023
+D2
+~
+~
+0 -1 11033
+S
+#11023
+The Desert~
+   A sun-bleached bone glares against the dark ground, proving to you that
+you are not the first person to brave this region. Hopefully you will not
+meet the same fate as this poor soul.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11012
+D1
+~
+~
+0 -1 11024
+D2
+~
+~
+0 -1 11034
+D3
+~
+~
+0 -1 11022
+S
+#11024
+The Desert~
+   The sections of your armor warmed by the latent heat of the sand
+and the intensity of the burning sun sizzle as droplets of sweat fall
+across them.
+   Around you, all is quiet.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11013
+D1
+~
+~
+0 -1 11025
+D2
+~
+~
+0 -1 11035
+D3
+~
+~
+0 -1 11023
+S
+#11025
+The Desert~
+   The wind is so strong you can hardly stand to open your eyes for fear
+of getting blinded by the sand that whips around you in all directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11014
+D1
+~
+~
+0 -1 11026
+D2
+~
+~
+0 -1 11036
+D3
+~
+~
+0 -1 11024
+S
+#11026
+The Desert~
+   Looking back, you see your footsteps quickly erased by the desert breezes
+that blow continuously yet cool nothing.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11015
+D1
+~
+~
+0 -1 11027
+D2
+~
+~
+0 -1 11037
+D3
+~
+~
+0 -1 11025
+S
+#11027
+The Desert~
+   The wind is so strong you can hardly stand to open your eyes for fear
+of getting blinded by the sand that whips around you in all directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11016
+D1
+~
+~
+0 -1 11028
+D2
+~
+~
+0 -1 11038
+D3
+~
+~
+0 -1 11026
+E
+terek~
+I love you!!!!
+~
+S
+#11028
+The Desert~
+   Your skin begins to blister by the fierce heat, and it's a struggle to 
+continue moving.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11017
+D1
+~
+~
+0 -1 11029
+D2
+~
+~
+0 -1 11039
+D3
+~
+~
+0 -1 11027
+S
+#11029
+The Desert~
+   A fin crests the desert sand for a brief instant. Now you find yourself
+wondering how many types of monsters live beneath the desert surface.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11018
+D1
+~
+~
+0 -1 11030
+D2
+~
+~
+0 -1 11040
+D3
+~
+~
+0 -1 11028
+S
+#11030
+The Desert~
+   The wind is so strong you can hardly stand to open your eyes for fear
+of getting blinded by the sand that whips around you in all directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11019
+D1
+~
+~
+0 -1 11031
+D2
+~
+~
+0 -1 11041
+D3
+~
+~
+0 -1 11029
+S
+#11031
+The Desert~
+   Stopping for a moment to rest, you eye the dark storm brewing to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11020
+D1
+~
+~
+0 -1 11032
+D2
+~
+~
+0 -1 11042
+D3
+~
+~
+0 -1 11030
+S
+#11032
+The Desert~
+   The storm to the east blacks out the sky, but in other directions the sun
+is too harsh to look up for very long.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11021
+D1
+~
+~
+0 -1 11449
+D2
+~
+~
+0 -1 11043
+D3
+~
+~
+0 -1 11031
+S
+#11033
+The Desert~
+   The black sand seems to suck all the strength from your steps, making your
+journey all the more difficult.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11022
+D1
+~
+~
+0 -1 11034
+D2
+~
+~
+0 -1 11044
+S
+#11034
+The Desert~
+   A crystal spring bubbles up before you, spilling onto the black sand.
+Rushing forward, you find only another mirage. Crestfallen, you trudge on.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11023
+D1
+~
+~
+0 -1 11035
+D2
+~
+~
+0 -1 11045
+D3
+~
+~
+0 -1 11033
+S
+#11035
+The Desert~
+   All that you see turns to brown as the desert sun burns the ground.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11024
+D1
+~
+~
+0 -1 11036
+D2
+~
+~
+0 -1 11046
+D3
+~
+~
+0 -1 11034
+S
+#11036
+The Crest Of A Dune~
+   You arrive at the top of a large dune.  Looking out, you see only more
+trackless desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11025
+D1
+~
+~
+0 -1 11037
+D2
+~
+~
+0 -1 11047
+D3
+~
+~
+0 -1 11035
+S
+#11037
+The Desert~
+   Time and distance are meaningless now.  Only your will to live keeps you
+moving at all.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11026
+D1
+~
+~
+0 -1 11038
+D2
+~
+~
+0 -1 11048
+D3
+~
+~
+0 -1 11036
+S
+#11038
+The Desert~
+   A dune large than most rises to the south. Other than that, everything looks
+the same.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11027
+D1
+~
+~
+0 -1 11039
+D2
+~
+~
+0 -1 11049
+D3
+~
+~
+0 -1 11037
+E
+terek~
+I love you!!!!
+~
+S
+#11039
+The Desert~
+   The wind is so strong you can hardly stand to open your eyes for fear
+of getting blinded by the sand that whips around you in all directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11028
+D1
+~
+~
+0 -1 11040
+D2
+~
+~
+0 -1 11050
+D3
+~
+~
+0 -1 11038
+S
+#11040
+The Desert~
+   You pitch forward into the sand, collapsing from the heat and effort.
+After a moments rest, you drag yourself to your feet and manage to go on.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11029
+D1
+~
+~
+0 -1 11041
+D2
+~
+~
+0 -1 11051
+D3
+~
+~
+0 -1 11039
+S
+#11041
+The Desert~
+   An enormous sandstorm blots out the eastern horizon. Elsewhere no clouds
+float to blot the sky.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11030
+D1
+~
+~
+0 -1 11042
+D2
+~
+~
+0 -1 11052
+D3
+~
+~
+0 -1 11040
+S
+#11042
+The Desert~
+   The storm to the east rolls even closer, and the hot desert wind picks up.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11031
+D1
+~
+~
+0 -1 11043
+D2
+~
+~
+0 -1 11053
+D3
+~
+~
+0 -1 11041
+S
+#11043
+The Desert~
+   The sandstorm eastward is almost on top of you, making you reconsider
+traveling in that direction with a calmer desert to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11032
+D1
+~
+~
+0 -1 11450
+D2
+~
+~
+0 -1 11054
+D3
+~
+~
+0 -1 11042
+S
+#11044
+The Desert~
+   A tall man clad in white appears on the horizon, then vanishes as you
+blink, leaving you wondering if it was real or yet another mirage.
+   What is most definitely not a mirage is the gaping sandhole to the
+west that seems to grow as the desert sands are swallowed by it.
+   Realizing what a rapid death that would be, you reconsider your other
+options of travel.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11033
+D1
+~
+~
+0 -1 11045
+D2
+~
+~
+0 -1 11055
+S
+#11045
+The Desert~
+   You stop for a moment, dumping out the handfuls of sand that have collected
+in your boots.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11034
+D1
+~
+~
+0 -1 11046
+D2
+~
+~
+0 -1 11056
+D3
+~
+~
+0 -1 11044
+S
+#11046
+The Desert~
+   Rays of heat seem to melt into your brain. The sun never seems to set.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11035
+D1
+~
+~
+0 -1 11047
+D2
+~
+~
+0 -1 11057
+D3
+~
+~
+0 -1 11045
+S
+#11047
+The Desert~
+   The black sand that absorbs the desert heat finally burns a blister through
+the soles of your boots.  You know that this will be the first of many such
+costs of the heat.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11036
+D1
+~
+~
+0 -1 11048
+D2
+~
+~
+0 -1 11058
+D3
+~
+~
+0 -1 11046
+S
+#11048
+The Desert~
+   To the south you think you see some sort of large obelisk.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11037
+D1
+~
+~
+0 -1 11049
+D2
+~
+~
+0 -1 11059
+D3
+~
+~
+0 -1 11047
+S
+#11049
+The Desert~
+   A large dune breaks the horizon to the south - or is it the north?  The
+sun is directly overhead so you cannot easily tell.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11038
+D1
+~
+~
+0 -1 11050
+D2
+~
+~
+0 -1 11060
+D3
+~
+~
+0 -1 11048
+S
+#11050
+The Desert~
+   Some sort of structure to the south breaks the horizon.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11039
+D1
+~
+~
+0 -1 11051
+D2
+~
+~
+0 -1 11061
+D3
+~
+~
+0 -1 11049
+S
+#11051
+The Desert~
+   The wind is so strong you can hardly stand to open your eyes for fear
+of getting blinded by the sand that whips around you in all directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11040
+D1
+~
+~
+0 -1 11052
+D2
+~
+~
+0 -1 11062
+D3
+~
+~
+0 -1 11050
+S
+#11052
+A Charred Strike~
+   A spot of darker black mars the ground. It looks like lightning hit here,
+turning the sand into a circular sheet of black glass.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11041
+D1
+~
+~
+0 -1 11053
+D2
+~
+~
+0 -1 11063
+D3
+~
+~
+0 -1 11051
+S
+#11053
+The Desert~
+   Nothing much matters to you anymore except water.  A cloud of blowing
+sand marks the edge of a storm to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11042
+D1
+~
+~
+0 -1 11054
+D2
+~
+~
+0 -1 11064
+D3
+~
+~
+0 -1 11052
+S
+#11054
+The Desert~
+   The darkness of the storm to the east is impenetratable, even by the
+desert sun.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11043
+D1
+~
+~
+0 -1 11451
+D2
+~
+~
+0 -1 11065
+D3
+~
+~
+0 -1 11053
+S
+#11055
+The Desert~
+   An oasis breaks the monotony of the desert to the south as you gaze
+upon wild palms that surround what must be a pool of water!
+   Reining in your excitement, however is a gaping sandhole that grows
+rapidly in size to the west.  Quickly, you rush away from the deadly
+region and head for more stable ground.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11044
+D1
+~
+~
+0 -1 11056
+D2
+~
+~
+0 -1 11066
+S
+#11056
+The Desert~
+   To the southwest a clump of trees grows - it must be an oasis!
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11045
+D1
+~
+~
+0 -1 11057
+D2
+~
+~
+0 -1 11067
+D3
+~
+~
+0 -1 11055
+S
+#11057
+The Desert~
+   You have stopped sweating: a sure sign that heat stroke can't be far away.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11046
+D1
+~
+~
+0 -1 11058
+D2
+~
+~
+0 -1 11068
+D3
+~
+~
+0 -1 11056
+S
+#11058
+The Desert~
+   A structure of some sort rises out of the sand to the southeast. In all 
+other directions, you see only the wavy black line of the desert horizon.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11047
+D1
+~
+~
+0 -1 11059
+D2
+~
+~
+0 -1 11069
+D3
+~
+~
+0 -1 11057
+S
+#11059
+In the Desert~
+   A dark, unmoving shape to the south is dwarfed only slightly by the
+dune that blocks your sight to the southeast.  The heat that rises
+from the desert sand feels like you are trudging through Hell.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11048
+D1
+~
+~
+0 -1 11060
+D2
+~
+~
+0 -1 11070
+D3
+~
+~
+0 -1 11058
+S
+#11060
+In the Desert~
+   The dryness of the air flakes your skin and makes you mouth so dry it
+seems to crack even the inner walls of your cheeks.  Looking southward,
+you see a large dune rise against the horizon.  Elsewhere you see only
+dark sand.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11049
+D1
+~
+~
+0 -1 11061
+D2
+~
+~
+0 -1 11071
+D3
+~
+~
+0 -1 11059
+S
+#11061
+In the Desert~
+   A dark, unmoving shape to the south is dwarfed only slightly by the
+dune that blocks your sight to the southwest.  Strong gusts beat on you,
+pelting you with stinging sand.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11050
+D1
+~
+~
+0 -1 11062
+D2
+~
+~
+0 -1 11072
+D3
+~
+~
+0 -1 11060
+S
+#11062
+The Desert~
+   A statuesque monument stands to the southeast. You wonder what it is and
+who could have built it.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11051
+D1
+~
+~
+0 -1 11063
+D2
+~
+~
+0 -1 11073
+D3
+~
+~
+0 -1 11061
+S
+#11063
+The Desert~
+   The sand spins furiously into a whirlwind to the east.  Though it
+is spinning, it doesn't seem to be moving in any particular direction.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11052
+D1
+~
+~
+0 -1 11064
+D2
+~
+~
+0 -1 11074
+D3
+~
+~
+0 -1 11062
+S
+#11064
+The Desert~
+   A sandstorm of wreaks havoc to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11053
+D1
+~
+~
+0 -1 11065
+D2
+~
+~
+0 -1 11075
+D3
+~
+~
+0 -1 11063
+S
+#11065
+The Desert~
+   Sand from east whips at your body, stinging your face and other exposed
+body parts.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11054
+D1
+~
+~
+0 -1 11452
+D2
+~
+~
+0 -1 11076
+D3
+~
+~
+0 -1 11064
+S
+#11066
+The Desert~
+   The oasis you thought you've seen from afar turns out to be just another
+mirage, one of many you have seen this day, even in the escaping heat of
+night.
+   To the west, a few sandholes appears.  Occasionally, a huge worm raises
+its head from the orifice, only to plunge back into sand. It appears that
+there must be a solid shelf of rock beneath you as the sand, though warm,
+is firmly packed, as though it is resting upon something solid.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11055
+D1
+~
+~
+0 -1 11067
+D2
+~
+~
+0 -1 11077
+S
+#11067
+The Desert~
+   An oasis springs from the desert floor to the west. Your mouth almost begins
+to salivate at the thought of fresh water.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11056
+D1
+~
+~
+0 -1 11068
+D2
+~
+~
+0 -1 11078
+D3
+~
+~
+0 -1 11066
+S
+#11068
+The Desert~
+   The eastern horizon is interrupted by an unmoving structure. All other
+directions lead to more desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11057
+D1
+~
+~
+0 -1 11069
+D2
+~
+~
+0 -1 11079
+D3
+~
+~
+0 -1 11067
+S
+#11069
+The Desert~
+   A large statue of some sort is to the east.  Judging the distance, you
+would guess it is larger than most of the shops in Malikor.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11058
+D1
+~
+~
+0 -1 11070
+D2
+~
+~
+0 -1 11080
+D3
+~
+~
+0 -1 11068
+S
+#11070
+Before the Sphinx~
+   Perhaps the only shade for miles is here, beside the base of stone on
+which rests an enormous figure. A massive dune towers to the southeast,
+and other marble figures can be seen to the south and east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11059
+D1
+~
+~
+0 -1 11071
+D2
+~
+~
+0 -1 11081
+D3
+~
+~
+0 -1 11069
+S
+#11071
+North of the Enormous Dune~
+   South of you is an enormous sand dune, not quite tall enough to shelter
+you from the heat of the sun that bakes your skin.  East and west of you
+stand huge marble sphinxes. 
+   Oddly, they seem to be watching you.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11060
+D1
+~
+~
+0 -1 11072
+D2
+~
+~
+0 -1 11082
+D3
+~
+~
+0 -1 11070
+S
+#11072
+Before the Sphinx~
+   Perhaps the only shade for miles is here, beside the base of stone on
+which rests an enormous figure. A massive dune towers to the southwest,
+and other marble figures can be seen to the south and west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11061
+D1
+~
+~
+0 -1 11073
+D2
+~
+~
+0 -1 11083
+D3
+~
+~
+0 -1 11071
+S
+#11073
+The Desert~
+   To the west a marble figure stands guardian over the desert. Nothing else
+can be seen for miles.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11062
+D1
+~
+~
+0 -1 11074
+D2
+~
+~
+0 -1 11084
+D3
+~
+~
+0 -1 11072
+S
+#11074
+The Desert~
+   A large storm brews to the east, but perhaps you can find shelter in the
+lee of a large mound of rocks to the southeast.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11063
+D1
+~
+~
+0 -1 11075
+D2
+~
+~
+0 -1 11085
+D3
+~
+~
+0 -1 11073
+S
+#11075
+The Desert~
+   You think you see an opening in a rough outcrop of rock that juts out of the 
+ground to the southeast.
+~
+110 32772 0 0 0 10
+D0
+~
+~
+0 -1 11064
+D1
+~
+~
+0 -1 11076
+D2
+~
+~
+0 -1 11086
+D3
+~
+~
+0 -1 11074
+S
+#11076
+The Desert~
+   You think you see an opening in a rough outcrop of rock that juts out of the 
+ground to the south.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11065
+D1
+~
+~
+0 -1 11453
+D2
+~
+~
+0 -1 11087
+D3
+~
+~
+0 -1 11075
+S
+#11077
+The Desert~
+   There seems to be an oasis to the north! Finally you can dip into some
+refreshing water after many days in the desert.
+   There also seems to be another anomaly to the west, as geysers of sand
+spew up from the desert floor to create earthen rains and sinkholes in that
+direction.  You quickly assess the footing and decide against traveling to
+the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11066
+D1
+~
+~
+0 -1 11078
+D2
+~
+~
+0 -1 11088
+S
+#11078
+The Desert~
+   To the northwest, you can see green foliage - there must be water!
+In all other directions, however, sun-blistered sands blanket the hot
+terrain, making the oasis seem that much more inviting.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11067
+D1
+~
+~
+0 -1 11079
+D2
+~
+~
+0 -1 11089
+D3
+~
+~
+0 -1 11077
+S
+#11079
+The Desert~
+   A massive dune, black as night, rises to the east. Waves of heated air
+escape the surface and distort your vision of the surrounding desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11068
+D1
+~
+~
+0 -1 11080
+D2
+~
+~
+0 -1 11090
+D3
+~
+~
+0 -1 11078
+S
+#11080
+The Desert~
+   You notice that the large dune to the east is flanked on the north and
+south by large statues, as though the tall marble figures stood as sentinels
+to guard the sandy mound.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11069
+D1
+~
+~
+0 -1 11081
+D2
+~
+~
+0 -1 11091
+D3
+~
+~
+0 -1 11079
+S
+#11081
+West of the Enormous Dune~
+   East of you is an enormous sand dune that is easily tall enough to 
+protect against daylight sun and nighttime winds.  North and south of
+you stand huge marble sphinxes.
+   Oddly, they seem to be watching you.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11070
+D1
+~
+~
+0 -1 11082
+D2
+~
+~
+0 -1 11092
+D3
+~
+~
+0 -1 11080
+S
+#11082
+On Top of a Sand Dune~
+   You sink ankle-deep into the top of the dune, peering around at the
+bleak desert before you.  Mountains loom far to the north and west, and
+the black desert spreads out as far you can see to the south.
+   Just below you, you notice a patch of odd colored sand.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11071
+D1
+~
+~
+0 -1 11083
+D2
+~
+~
+0 -1 11093
+D3
+~
+~
+0 -1 11081
+D5
+The Tomb.
+~
+tomb entrance~
+2 11018 11176
+E
+sand~
+Brushing away the sand reveals a tomb entrance.
+~
+E
+tomb~
+Inscribed on the entrance, you translate:
+
+To the stars, great one!
+Live forever among the stars,
+And shine your light down
+upon our unworthy faces.
+To the stars!
+~
+S
+#11083
+East Of the Enormous Dune~
+   West of you is an enormous sand dune that is easily tall enough to 
+protect against daylight sun and nighttime winds.  North and south of
+you stand huge marble sphinxes.
+   Oddly, they seem to be watching you.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11072
+D1
+~
+~
+0 -1 11084
+D2
+~
+~
+0 -1 11094
+D3
+~
+~
+0 -1 11082
+S
+#11084
+The Desert~
+   The large dune to the west is flanked on the north and south by large 
+statues.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11073
+D1
+~
+~
+0 -1 11085
+D2
+~
+~
+0 -1 11095
+D3
+~
+~
+0 -1 11083
+E
+statues~
+They are huge, and seem to be made of marble.  They are fashioned in
+an image of a lion with a man's head.
+~
+S
+#11085
+The Desert~
+   To the west a large dune rises above the others. Eastward a dark storm
+clouds the horizon, but a large jut of rock stands between you and the
+coming storm.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11074
+D1
+~
+~
+0 -1 11086
+D2
+~
+~
+0 -1 11096
+D3
+~
+~
+0 -1 11084
+S
+#11086
+The Desert~
+   You think you see an opening in a rough outcrop of rock that juts out
+of the ground to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11075
+D1
+~
+~
+0 -1 11087
+D2
+~
+~
+0 -1 11097
+D3
+~
+~
+0 -1 11085
+S
+#11087
+Entrance to the Tunnel~
+   Before you opens the mouth of a large cave, leading eastward into the
+earth.  The darkness looks inviting after so long in the hot sands and
+open desert.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11076
+D1
+~
+~
+0 -1 11379
+D2
+~
+~
+0 -1 11098
+D3
+~
+~
+0 -1 11086
+S
+#11088
+The Desert~
+   The winds blow so hard you can hardly stand to open your eyes, and you
+stumble almost blindly forward through the desert.  You are aware enough
+however to walk away from the rumbling and the blasting sand geysers that
+dot the terrain to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11077
+D1
+~
+~
+0 -1 11089
+D2
+~
+~
+0 -1 11099
+S
+#11089
+The Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements and quickly burrows itself, making
+you wonder how many other creatures live beneath the desert floor.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11078
+D1
+~
+~
+0 -1 11090
+D2
+~
+~
+0 -1 11100
+D3
+~
+~
+0 -1 11088
+S
+#11090
+The Desert~
+   To the northeast a dune slightly larger than the ones around it stands
+between two enormous statues.  The statues appear to be sand-blasted and
+well-worn, but still appear to be formidable and able to defy the daytime
+sun.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11079
+D1
+~
+~
+0 -1 11091
+D2
+~
+~
+0 -1 11101
+D3
+~
+~
+0 -1 11089
+S
+#11091
+The Desert~
+   Directly east of you, a gigantic marble sphinx sits watching the desert.
+Northeast of you is a massive dune of black sand, just one of many that
+rise in the desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11080
+D1
+~
+~
+0 -1 11092
+D2
+~
+~
+0 -1 11102
+D3
+~
+~
+0 -1 11090
+S
+#11092
+Before the Sphinx~
+   Perhaps the only shade for miles is here, beside the base of stone on
+which rests an enormous figure.  A massive dune towers to the northeast,
+and other marble figures can be seen to the north and east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11081
+D1
+~
+~
+0 -1 11093
+D2
+~
+~
+0 -1 11103
+D3
+~
+~
+0 -1 11091
+S
+#11093
+South of the Enormous Dune~
+   North of you is an enormous sand dune, almost tall enough to block
+out the nighttime winds and blot out the daytime sun.  East and west 
+of here stand two enormous marble sphinxes.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11082
+D1
+~
+~
+0 -1 11094
+D2
+~
+~
+0 -1 11104
+D3
+~
+~
+0 -1 11092
+S
+#11094
+Before the Sphinx~
+   Perhaps what would be the only shade from the daytime sun for miles
+lies here.  Beside the base of stone that rises well above you, a dark
+statue rises into the desert sky.
+   A massive dune towers to the northwest, while other marble figures
+can be seen to the north and west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11083
+D1
+~
+~
+0 -1 11095
+D2
+~
+~
+0 -1 11105
+D3
+~
+~
+0 -1 11093
+S
+#11095
+The Desert~
+   West of here, a stone sphinx rests on a marble base, stories tall.
+Just northwest of it, a black sand dune touches the sky.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11084
+D1
+~
+~
+0 -1 11096
+D2
+~
+~
+0 -1 11106
+D3
+~
+~
+0 -1 11094
+S
+#11096
+The Desert~
+   To the northwest, a dune slightly larger than the ones around it stands
+between two enormous statues.
+   The desert extends in all directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11085
+D1
+~
+~
+0 -1 11097
+D2
+~
+~
+0 -1 11107
+D3
+~
+~
+0 -1 11095
+S
+#11097
+The Desert~
+   You think you see an opening in a rough outcrop of rock that juts out
+of the ground to the northeast.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11086
+D1
+~
+~
+0 -1 11098
+D2
+~
+~
+0 -1 11108
+D3
+~
+~
+0 -1 11096
+S
+#11098
+The Desert~
+   You think you see an opening in a rough outcrop of rock that juts out
+of the ground to the north.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11087
+D1
+~
+~
+0 -1 11454
+D2
+~
+~
+0 -1 11109
+D3
+~
+~
+0 -1 11097
+S
+#11099
+The Desert~
+  Through the desert, you catch a glipse of green foliage to the southeast at   the bottom of the ravine.  A small, tight pathway to the west seems to wind     itself towards the edge of the ravine.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11088
+D1
+~
+~
+0 -1 11100
+D2
+~
+~
+0 -1 11110
+S
+#11100
+The Desert~
+   Palms and shrubbery form a tight ring around a small pool of water to the
+south.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11089
+D1
+~
+~
+0 -1 11101
+D2
+~
+~
+0 -1 11111
+D3
+~
+~
+0 -1 11099
+S
+#11101
+The Desert~
+   To the southwest a small ring of green growth marks a desert oasis.
+Blistering heat trapped in the desert sands as well as from the hot
+air make stopping by the oasis a necessity.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11090
+D1
+~
+~
+0 -1 11102
+D2
+~
+~
+0 -1 11112
+D3
+~
+~
+0 -1 11100
+S
+#11102
+The Desert~
+   A massive statue on a marble base towers above you to the northeast.
+Only slightly larger is the black dune of sand which rests behind the
+statue.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11091
+D1
+~
+~
+0 -1 11103
+D2
+~
+~
+0 -1 11113
+D3
+~
+~
+0 -1 11101
+S
+#11103
+In the Desert~
+   A dark unmoving shape to the north is dwarfed only slightly by the
+dune that blocks your sight to the northeast.  The wind-tossed sands
+beat into you like fiery hailstones.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11092
+D1
+~
+~
+0 -1 11104
+D2
+~
+~
+0 -1 11114
+D3
+~
+~
+0 -1 11102
+S
+#11104
+In the Desert~
+   Your mouth is so dry it seems to crumble. Looking northward you see a
+rather large dune rise against the horizon.  Elsewhere you see only sand.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11093
+D1
+~
+~
+0 -1 11105
+D2
+~
+~
+0 -1 11115
+D3
+~
+~
+0 -1 11103
+S
+#11105
+In the Desert~
+   A dark unmoving shape to the north is dwarfed only slightly by the
+dune to the northwest.  Blowing sands beat down on you like a searing
+rain.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11094
+D1
+~
+~
+0 -1 11106
+D2
+~
+~
+0 -1 11116
+D3
+~
+~
+0 -1 11104
+S
+#11106
+The Desert~
+   A large dune rises behind the unmoving statue to the northwest. Everywhere 
+else the desert sucks the life out of its residents.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11095
+D1
+~
+~
+0 -1 11107
+D2
+~
+~
+0 -1 11117
+D3
+~
+~
+0 -1 11105
+S
+#11107
+The Desert~
+   The winds blows sand into your face so hard, you can barely stand to open
+your eyes as you stumble blindly through the desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11096
+D1
+~
+~
+0 -1 11108
+D2
+~
+~
+0 -1 11118
+D3
+~
+~
+0 -1 11106
+S
+#11108
+The Desert~
+   A dark cloud blocks out the desert sky to the east. To the northeast
+a large jumble of rocks sticks out of the desert floor.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11097
+D1
+~
+~
+0 -1 11109
+D2
+~
+~
+0 -1 11119
+D3
+~
+~
+0 -1 11107
+S
+#11109
+The Desert~
+   The storm to the east picks up speed and covers the ground rapidly,
+bearing down on you as you gaze upon it.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11098
+D1
+~
+~
+0 -1 11455
+D2
+~
+~
+0 -1 11120
+D3
+~
+~
+0 -1 11108
+S
+#11110
+The Desert~
+   The desert oasis to the east is a welcome sight after so many days in the
+heat. Hopefully the the water there is drinkable.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11099
+D1
+~
+~
+0 -1 11111
+D2
+~
+~
+0 -1 11121
+S
+#11111
+The Oasis~
+   A well of water springs forth from deep within the desert here.  A
+few ragged palms and shrubs huddle near to the life-giving pool, but the
+harsh sun keeps anything from flourishing beyond the tight ring of green
+growth.  Tracks of many undefinable animals can be seen near the edge of
+the water.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11100
+D1
+~
+~
+0 -1 11112
+D2
+~
+~
+0 -1 11122
+D3
+~
+~
+0 -1 11110
+S
+#11112
+The Desert~
+   The desert oasis to the west is a welcome sight after so many days in the
+heat.  Hopefully the water there is drinkable.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11101
+D1
+~
+~
+0 -1 11113
+D2
+~
+~
+0 -1 11123
+D3
+~
+~
+0 -1 11111
+S
+#11113
+The Desert~
+   Looking down, you see horse tracks, ending in a great disarray of sand.
+Some great struggle took place here; carrying the horse into the air, or
+perhaps under the sand.
+   The desert continues all around you.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11102
+D1
+~
+~
+0 -1 11114
+D2
+~
+~
+0 -1 11124
+D3
+~
+~
+0 -1 11112
+S
+#11114
+The Desert~
+   Fatigue which seemingly vanished during the last rest period comes back,
+stronger than ever.  You have to fight to stay on your feet.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11103
+D1
+~
+~
+0 -1 11115
+D2
+~
+~
+0 -1 11125
+D3
+~
+~
+0 -1 11113
+S
+#11115
+The Desert~
+   A cobblestone roadway lies to the southeast, almost buried under the
+ever-growing desert.  It appears older than the sand itself.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11104
+D1
+~
+~
+0 -1 11116
+D2
+~
+~
+0 -1 11126
+D3
+~
+~
+0 -1 11114
+S
+#11116
+The Desert~
+   A cobblestone roadway is to the south, almost buried under the 
+desert.  You can't imagine why it is here, or who built it.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11105
+D1
+~
+~
+0 -1 11117
+D2
+~
+~
+0 -1 11127
+D3
+~
+~
+0 -1 11115
+S
+#11117
+The Desert~
+   A cobblestone roadway is to the south, almost buried under the desert
+sands that stretch in all directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11106
+D1
+~
+~
+0 -1 11118
+D2
+~
+~
+0 -1 11128
+D3
+~
+~
+0 -1 11116
+S
+#11118
+The Desert~
+   A cobblestone roadway is to your southwest, almost buried under the
+ever-shifting desert sands that reach to the horizon.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11107
+D1
+~
+~
+0 -1 11119
+D2
+~
+~
+0 -1 11129
+D3
+~
+~
+0 -1 11117
+S
+#11119
+The Desert~
+   A dark storm blackens the eastern sky and stirs up the sands beneath
+it, providing a sharp contrast with the calm, dead desert in the other
+directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11108
+D1
+~
+~
+0 -1 11120
+D2
+~
+~
+0 -1 11130
+D3
+~
+~
+0 -1 11118
+S
+#11120
+The Desert~
+   The storm to the east picks up speed and covers the ground rapidly, bearing
+down on you.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11109
+D1
+~
+~
+0 -1 11456
+D2
+~
+~
+0 -1 11131
+D3
+~
+~
+0 -1 11119
+S
+#11121
+The Desert~
+   You blink your eyes, hoping that the trees to the northeast are not
+yet another mirage.
+   What is certainly not a mirage is the gaping sandhole to the west
+that seems to devour the desert as it meanders throughout the sea of
+silt.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11110
+D1
+~
+~
+0 -1 11122
+D2
+~
+~
+0 -1 11132
+S
+#11122
+The Desert~
+   You catch a glint of water between the palms that form a small oasis to the
+north.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11111
+D1
+~
+~
+0 -1 11123
+D2
+~
+~
+0 -1 11133
+D3
+~
+~
+0 -1 11121
+S
+#11123
+The Desert~
+   To the northwest a small oasis is the only sign of vegetation in miles of
+black sand.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11112
+D1
+~
+~
+0 -1 11124
+D2
+~
+~
+0 -1 11134
+D3
+~
+~
+0 -1 11122
+S
+#11124
+The Desert~
+   Stopping once again, you empty your boots of sand.  Around you, all is
+silent.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11113
+D1
+~
+~
+0 -1 11125
+D2
+~
+~
+0 -1 11135
+D3
+~
+~
+0 -1 11123
+S
+#11125
+The Desert~
+   The winds blow sand so hard, you can hardly stand to open your eyes
+as you plow blindly through the desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11114
+D1
+~
+~
+0 -1 11126
+D2
+~
+~
+0 -1 11136
+D3
+~
+~
+0 -1 11124
+S
+#11126
+The Desert~
+   Here, you look out over the desert to see a cobblestone road split the
+tall dunes to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11115
+D1
+~
+~
+0 -1 11127
+D2
+~
+~
+0 -1 11137
+D3
+~
+~
+0 -1 11125
+S
+#11127
+The Cobblestone Road~
+   This small road of cobblestones seems to be the last vestiges of some
+civilization.  All around are tall dunes that flank the road that extends
+east and south.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11116
+D1
+~
+~
+0 -1 11128
+D2
+~
+~
+0 -1 11138
+D3
+~
+~
+0 -1 11126
+S
+#11128
+End of the Cobblestone Road~
+   The cobblestone road ends here, engulfed by the desert sand.  You figure
+that another storm will completely destroy any traces of civilization that
+remain.
+   The road continues to the west.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11117
+D1
+~
+~
+0 -1 11129
+D2
+~
+~
+0 -1 11139
+D3
+~
+~
+0 -1 11127
+S
+#11129
+The Desert~
+   A cobblestone road ends to the west.  In all other directions, you see
+only the familiar black desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11118
+D1
+~
+~
+0 -1 11130
+D2
+~
+~
+0 -1 11140
+D3
+~
+~
+0 -1 11128
+S
+#11130
+The Desert~
+   A steady stream of sweat travels down your back. If you don't find water
+again soon, you'll dehydrate.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11119
+D1
+~
+~
+0 -1 11131
+D2
+~
+~
+0 -1 11141
+D3
+~
+~
+0 -1 11129
+S
+#11131
+The Desert~
+   The storm to the east picks up speed and covers the ground rapidly, bearing
+down on you.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11120
+D1
+~
+~
+0 -1 11457
+D2
+~
+~
+0 -1 11142
+D3
+~
+~
+0 -1 11130
+S
+#11132
+The Desert~
+   The land to the south is marked with dark scars and small craters.
+   Similarly, active craters mar the terrain to the west as deadly sandholes
+swallow and spit sand into the sky.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11121
+D1
+~
+~
+0 -1 11133
+D2
+~
+~
+0 -1 11143
+S
+#11133
+The Desert~
+   The land to the south is marked with patches of darker black on the desert
+floor.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11122
+D1
+~
+~
+0 -1 11134
+D2
+~
+~
+0 -1 11144
+D3
+~
+~
+0 -1 11132
+S
+#11134
+The Desert~
+   The desert is cratered with holes and black marks to the south. There is no 
+sign of what could have caused the destruction.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11123
+D1
+~
+~
+0 -1 11135
+D2
+~
+~
+0 -1 11145
+D3
+~
+~
+0 -1 11133
+S
+#11135
+The Desert~
+   The land to the southeast is marked with patches of darker black on the
+desert floor.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11124
+D1
+~
+~
+0 -1 11136
+D2
+~
+~
+0 -1 11146
+D3
+~
+~
+0 -1 11134
+S
+#11136
+The Desert~
+   To the southeast is the end of an abandoned cobblestone road. Around it
+tall dunes have formed.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11125
+D1
+~
+~
+0 -1 11137
+D2
+~
+~
+0 -1 11147
+D3
+~
+~
+0 -1 11135
+S
+#11137
+The Desert~
+   An ancient cobblestone road bends from the southeast and ends to the south.
+All around you are tall dunes.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11126
+D1
+~
+~
+0 -1 11138
+D2
+~
+~
+0 -1 11148
+D3
+~
+~
+0 -1 11136
+S
+#11138
+The Cobblestone Road~
+   This ancient road is worn almost smooth by the desert winds and sand.
+It turns eastward to the north and westward to the south.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11127
+D1
+~
+~
+0 -1 11139
+D2
+~
+~
+0 -1 11149
+D3
+~
+~
+0 -1 11137
+S
+#11139
+The Desert~
+   Standing atop a tall dune, you see an ancient road curve to the west and
+end to the north.  No other signs of civilization are visible.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11128
+D1
+~
+~
+0 -1 11140
+D2
+~
+~
+0 -1 11150
+D3
+~
+~
+0 -1 11138
+S
+#11140
+The Desert~
+   An ancient cobblestone road ends to the northwest.  
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11129
+D1
+~
+~
+0 -1 11141
+D2
+~
+~
+0 -1 11151
+D3
+~
+~
+0 -1 11139
+S
+#11141
+The Desert~
+   The sky overhead is blotted out by a dark storm to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11130
+D1
+~
+~
+0 -1 11142
+D2
+~
+~
+0 -1 11152
+D3
+~
+~
+0 -1 11140
+S
+#11142
+The Desert~
+   A dark storm to the east makes a horrendous howling noise as it moves
+closer.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11131
+D1
+~
+~
+0 -1 11458
+D2
+~
+~
+0 -1 11153
+D3
+~
+~
+0 -1 11141
+S
+#11143
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass.  Something
+has melted the black sand with a great heat.
+   Off to the west, a sandhole has opened up, swallowing the terrain and
+spewing it in semi-liquid geysers.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11132
+D1
+~
+~
+0 -1 11144
+D2
+~
+~
+0 -1 11154
+S
+#11144
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass.  Something
+has melted the black sand with a great heat.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11133
+D1
+~
+~
+0 -1 11145
+D2
+~
+~
+0 -1 11155
+D3
+~
+~
+0 -1 11143
+S
+#11145
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass.  Something
+has melted the black sand with a great heat.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11134
+D1
+~
+~
+0 -1 11146
+D2
+~
+~
+0 -1 11156
+D3
+~
+~
+0 -1 11144
+S
+#11146
+The Desert~
+   To the west the ground is dotted with strange circles blacker than the
+earth around them.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11135
+D1
+~
+~
+0 -1 11147
+D2
+~
+~
+0 -1 11157
+D3
+~
+~
+0 -1 11145
+S
+#11147
+The Desert~
+   An ancient cobblestone road ends to the east; it appears much older than the 
+desert itself.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11136
+D1
+~
+~
+0 -1 11148
+D2
+~
+~
+0 -1 11158
+D3
+~
+~
+0 -1 11146
+S
+#11148
+End of the Cobblestone Road~
+   The road made of small cobblestones ends here, covered by the desert sand.
+You figure that another storm will completely destroy any traces of ancient
+civilizations that may have been here.  
+   The road continues to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11137
+D1
+~
+~
+0 -1 11149
+D2
+~
+~
+0 -1 11159
+D3
+~
+~
+0 -1 11147
+S
+#11149
+The Cobblestone Road~
+   This small road of cobblestones seems to be the last vestiges of some
+civilization.   All around, tall dunes cast shadows on the road the winds
+west and north.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11138
+D1
+~
+~
+0 -1 11150
+D2
+~
+~
+0 -1 11160
+D3
+~
+~
+0 -1 11148
+S
+#11150
+The Desert~
+   An ancient cobblestone road curves northward to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11139
+D1
+~
+~
+0 -1 11151
+D2
+~
+~
+0 -1 11161
+D3
+~
+~
+0 -1 11149
+S
+#11151
+The Desert~
+   The wind blows the sands so hard, you can hardly stand to open your eyes
+as you stumble blindly forward through the desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11140
+D1
+~
+~
+0 -1 11152
+D2
+~
+~
+0 -1 11162
+D3
+~
+~
+0 -1 11150
+S
+#11152
+The Desert~
+   To the east a great storm hurls sand high into the air.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11141
+D1
+~
+~
+0 -1 11153
+D2
+~
+~
+0 -1 11163
+D3
+~
+~
+0 -1 11151
+S
+#11153
+The Desert~
+   The storm to the east only barely blots out the desert sun.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11142
+D1
+~
+~
+0 -1 11459
+D2
+~
+~
+0 -1 11164
+D3
+~
+~
+0 -1 11152
+S
+#11154
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass.  Something has
+melted the black sand with a great heat.
+   Deadly sandholes blot the terrain to the west, making passage impossible.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11143
+D1
+~
+~
+0 -1 11155
+D2
+~
+~
+0 -1 11165
+S
+#11155
+The Hole in the Blasted Desert~
+   Judging from the size of the hole below you, a creature of considerable size
+must dwell underneath your very feet.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11144
+D1
+~
+~
+0 -1 11156
+D2
+~
+~
+0 -1 11166
+D3
+~
+~
+0 -1 11154
+D5
+~
+~
+0 -1 11497
+S
+#11156
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass.  Something has
+melted the black sand with a great heat.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11145
+D1
+~
+~
+0 -1 11157
+D2
+~
+~
+0 -1 11167
+D3
+~
+~
+0 -1 11155
+S
+#11157
+The Desert~
+   Jet-black circles dot the ground to the west.  Elsewhere is only desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11146
+D1
+~
+~
+0 -1 11158
+D2
+~
+~
+0 -1 11168
+D3
+~
+~
+0 -1 11156
+S
+#11158
+The Desert~
+   An ancient cobblestone road appears from between some dunes to the
+northeast.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11147
+D1
+~
+~
+0 -1 11159
+D2
+~
+~
+0 -1 11169
+D3
+~
+~
+0 -1 11157
+S
+#11159
+The Desert~
+   An ancient road ends to the north and runs eastward.  High dunes surround
+it on all sides.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11148
+D1
+~
+~
+0 -1 11160
+D2
+~
+~
+0 -1 11170
+D3
+~
+~
+0 -1 11158
+S
+#11160
+The Desert~
+   A cobblestone road curves west and runs away from you just north of here.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11149
+D1
+~
+~
+0 -1 11161
+D2
+~
+~
+0 -1 11171
+D3
+~
+~
+0 -1 11159
+S
+#11161
+The Desert~
+   An ancient cobblestone road takes a bend to the northwest.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11150
+D1
+~
+~
+0 -1 11162
+D2
+~
+~
+0 -1 11172
+D3
+~
+~
+0 -1 11160
+S
+#11162
+The Desert~
+   An obsidian-like circle of glass has formed on the desert floor here,
+perhaps due to a strike of lightning.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11151
+D1
+~
+~
+0 -1 11163
+D2
+~
+~
+0 -1 11173
+D3
+~
+~
+0 -1 11161
+S
+#11163
+The Desert~
+   To the east a great storm rises above the desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11152
+D1
+~
+~
+0 -1 11164
+D2
+~
+~
+0 -1 11174
+D3
+~
+~
+0 -1 11162
+S
+#11164
+The Desert~
+   The edge of the storm is just east of here, forming a barrier between
+total darkness and relative light.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11153
+D1
+~
+~
+0 -1 11460
+D2
+~
+~
+0 -1 11175
+D3
+~
+~
+0 -1 11163
+S
+#11165
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass.  Something
+has melted the black sand with a great heat and formed an unnatural solid
+wall of hardened silica to the south and west.
+   From behind the wave-shaped walls, you can hear the rumblings and wild
+churnings of sand being crunched and tossed into the air.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11154
+D1
+~
+~
+0 -1 11166
+S
+#11166
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass.  Something
+has melted the black sand with a great heat and formed an unnatural solid
+wall of hardened silica to the south.
+   From behind the wave-shaped wall, you can hear the rumblings and wild
+churning of sand being crunched and tossed into the air.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11155
+D1
+~
+~
+0 -1 11167
+D3
+~
+~
+0 -1 11165
+S
+#11167
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass.  Something
+has melted the black sand with a great heat and formed an unnatural solid
+wall of hardened silica to the south.
+   From behind the wave-shaped wall, you can hear the rumblings and wild
+churning of sand being crunched and tossed into the air.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11156
+D1
+~
+~
+0 -1 11168
+D3
+~
+~
+0 -1 11166
+S
+#11168
+The Desert~
+   Jet-black circles dot the ground to the west.  Elsewhere is only desert.
+   A series of blasts are heard coming from the south where deadly geysers
+of sand spew into the air.  Even from here, you can feel the sting of the 
+falling sand.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11157
+D1
+~
+~
+0 -1 11169
+D3
+~
+~
+0 -1 11167
+S
+#11169
+The Desert~
+   The winds blow sand into your eyes, making it impossible to keep the open.
+Cursing, you stumble almost blindly forward through the desert, careful to
+avoid the source of the blasting sands to the south.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11158
+D1
+~
+~
+0 -1 11170
+D3
+~
+~
+0 -1 11168
+S
+#11170
+The Desert~
+   The winds blow sand into your eyes, making it impossible to keep the open.
+Cursing, you stumble almost blindly forward through the desert, careful to
+avoid the source of the blasting sands to the south.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11159
+D1
+~
+~
+0 -1 11171
+D3
+~
+~
+0 -1 11169
+S
+#11171
+The Desert~
+   Waves of heat wash over you, bringing on a torrent of sweat that seems to
+steam in the dry air as the sandholes blow stinging grains into you from the
+south.
+   Quickly, you turn your back to the southern sand-geysers and move on.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11160
+D1
+~
+~
+0 -1 11172
+D3
+~
+~
+0 -1 11170
+S
+#11172
+The Desert~
+   Closing your eyes does little to block out the unforgiving winds and sands.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11161
+D1
+~
+~
+0 -1 11173
+D3
+~
+~
+0 -1 11171
+S
+#11173
+The Desert~
+   Waves of heat wash over you, bringing on a torrent of sweat that seems to
+steam in the dry air as the sandholes blow stinging grains into you from the
+south.
+   Quickly, you turn your back to the southern sand-geysers and move on.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11162
+D1
+~
+~
+0 -1 11174
+D3
+~
+~
+0 -1 11172
+S
+#11174
+The Desert~
+   A dark cloud brews on the eastern horizon, making the deadly sandholes
+to the south petty in comparison no matter how deadly they may be.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11163
+D1
+~
+~
+0 -1 11175
+D3
+~
+~
+0 -1 11173
+S
+#11175
+The Desert~
+   The sandstorm to the east shrieks fiendishly as it churns across the
+desert, roaring above the noise of the deadly sandholes to the south.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11164
+D1
+~
+~
+0 -1 11461
+D3
+~
+~
+0 -1 11174
+S
+#11176
+Inside the Tomb~
+   Sand filters in from above, threatening to fill the shaft.  The smell of
+decay makes your stomach churn, and light from the opening above you seems
+to dissolve as it reaches the ground.  You think you hear something stirring
+in the enormous cavern to the south.
+~
+110 32781 0 0 0 0
+D2
+~
+~
+0 -1 11177
+D4
+~
+tomb~
+1 11018 11082
+S
+#11177
+Inside the Tomb~
+   Even with a light source, the darkness here is barely pierced.  The stench
+of death is overwhelming.  You hear something rustle in the darkness to the
+south, and you catch yourself glancing longingly at the entrance shaft to the
+north.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11176
+D1
+~
+~
+0 -1 11178
+D2
+~
+~
+0 -1 11179
+D3
+~
+~
+0 -1 11187
+S
+#11178
+In the Tomb~
+   Walls surround you north and east, and a pillar of granite blocks your way
+to the south.  Something seems to be moving on the other side of the pillar,
+but you cannot be sure if its not just your imagination.
+~
+110 32777 0 0 0 0
+D3
+~
+~
+0 -1 11177
+S
+#11179
+Between Two Pillars~
+   The light from the entrance to the north is barely a flicker, and
+the darkness to the south complete.  You get a strong feeling that you
+are being watched from behind the pillars on either side of you.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11177
+D2
+~
+~
+0 -1 11181
+S
+#11180
+Behind the Drape~
+   The decapitated corpses of the dead are strewn haphazardly about the room,
+and a wall of gleaming skulls seems to peer intently at you.  You sense an
+old, powerful presence here and feel certain that it has sensed you.
+   The only exit is to the east.
+~
+110 32777 0 0 0 0
+D1
+~
+drape~
+1 -1 11181
+S
+#11181
+Inside the Tomb~
+   A gold drape to your west covers a doorway, and crumbles at your touch.  You
+can barely squeeze between two pillars to the east, and the tomb seems to open
+up to the south.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11179
+D1
+The natural space between the pillar and wall would be difficult, though
+possible, to pass through.
+~
+~
+0 -1 11182
+D2
+~
+~
+0 -1 11183
+D3
+~
+drape~
+1 -1 11180
+S
+#11182
+Behind the Pillar~
+   In the corner lays an emaciated body, obviously at least part of the source
+of the tremendous odor in the tomb.  Judging from the smell and new, bloated
+appearance, the corpse couldn't be more than a few days old.  The cause of
+death seems to have been starvation.  But what could have made a man choose
+certain excruciating death by starvation over the chance of survival in the
+open desert?
+~
+110 32781 0 0 0 0
+D3
+~
+drape~
+0 -1 11181
+E
+corpse~
+It's a very dead male human corpse.
+~
+S
+#11183
+In the Tomb~
+   You wonder if you haven't gotten disoriented in the vast darkness.  The
+southern wall of the tomb suddenly appears before you, and a pillar blocks
+your way west.  To the east darkness reigns supreme.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11181
+D1
+~
+~
+0 -1 11184
+S
+#11184
+Before the Heathen Altar~
+   A black altar inscribed with pagan runes drips fresh blood steadily onto
+the rough-hewn floor.  Waves of evil emanate from behind the altar to the
+south.
+~
+110 32777 0 0 0 0
+D2
+Something senses your movements, and stirs from behind the altar.
+~
+~
+0 -1 11185
+D3
+~
+~
+0 -1 11183
+S
+#11185
+Behind the Heathen Altar~
+   Blood and gore cover the walls in this den of putrid evil.  You wonder to
+yourself what has led you to proceed into this mausoleum, and the dark shape
+that seems to rise endlessly from the floor makes you wonder if this will be
+your final resting place.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11184
+D5
+~
+door stone altar~
+2 11017 11186
+S
+#11186
+The Nest~
+   This room housed some sort of nest for the creature above.  Mangled bones,
+weapons, armor, and treasure are intermingled in a horrible matte of nauseating
+excrement.
+~
+110 32909 0 0 0 0
+D4
+~
+door~
+1 11017 11185
+S
+#11187
+In The Tomb~
+   Walls surround you north and west, and a pillar of granite blocks your
+way to the south.  Something seems to be moving on the other side of the
+pillar, but you cannot be sure if its not just your imagination.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11177
+S
+#11200
+The Desert~
+   A terrible storm to the west cuts off any passage that direction, unless
+you are willing to try to enter it.
+   To the north, a geyser of sand spews tons of fine grains into the air,
+falling as a stinging rain the pelts you and draws blood from your exposed
+flesh.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11201
+D2
+~
+~
+0 -1 11211
+D3
+~
+~
+0 -1 11447
+S
+#11201
+The Desert~
+   The wind is blowing sand at you so hard, you can hardly stand to open your
+eyes, and you stumble almost blindly forward through the desert.
+   To the north, a deadly sand-geyser spews from behind a small monolith of
+basalt.  The monolith appears to buffer you against the full force of the 
+geyser behind it.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11202
+D2
+~
+~
+0 -1 11212
+D3
+~
+~
+0 -1 11200
+S
+#11202
+The Desert~
+   The wind is blowing sand at you so hard, you can hardly stand to open your
+eyes, and you stumble almost blindly forward through the desert.
+   To the north, a deadly sand-geyser spews from behind a small monolith of
+basalt.  The monolith appears to buffer you against the full force of the 
+geyser behind it.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11203
+D2
+~
+~
+0 -1 11213
+D3
+~
+~
+0 -1 11201
+S
+#11203
+The Desert~
+   You stumble in the thick black sand, and have to use all your willpower to
+stand again.  The urge to succumb to the heat radiating upward from the sand
+is overwhelming.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11204
+D2
+~
+~
+0 -1 11214
+D3
+~
+~
+0 -1 11202
+S
+#11204
+The Desert~
+   To the east, the desert gives birth to a dusty road.  It looks rarely
+used, though is a sign that some civilization once dwelled here.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11205
+D2
+~
+~
+0 -1 11215
+D3
+~
+~
+0 -1 11203
+S
+#11205
+A Dusty Road Through The Desert~
+   This worn trail can barely be called a road.  It has seen little use and
+threatens to be turned back into desert.
+   To the north, a basalt monolith blocks passage in that direction.  You 
+can hear sounds of spewing sand behind it and are thankful for the defense.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11206
+D2
+~
+~
+0 -1 11216
+D3
+~
+~
+0 -1 11204
+S
+#11206
+The Desert~
+   To the west is a dusty road through the desert. The black sand is fire-hot 
+under your boots, even though the impassable basalt outcropping to the north
+shield the sands from the daytime heat.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11207
+D2
+~
+~
+0 -1 11217
+D3
+~
+~
+0 -1 11205
+S
+#11207
+The Desert~
+   The wind is blowing sand at you so hard, you can hardly stand to open your
+eyes, and you stumble almost blindly forward through the desert.
+   To the north, a deadly sand-geyser spews from behind a small monolith of
+basalt.  The monolith appears to buffer you against the full force of the 
+geyser behind it.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11208
+D2
+~
+~
+0 -1 11218
+D3
+~
+~
+0 -1 11206
+S
+#11208
+The Desert~
+   The heat of the desert sand stifles all thoughts of adventuring or aimless
+exploring.  You hug the basalt outcropping to the north, feeling its lukewarm
+surface cool you slightly against the heat.
+   There appears to be something to the south, but knowing the heat, it is
+almost certainly a mirage.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11209
+D2
+~
+~
+0 -1 4004
+D3
+~
+~
+0 -1 11207
+S
+#11209
+The Desert~
+   The heat of the desert sand stifles all thoughts of adventuring or aimless
+exploring.  You hug the basalt outcropping to the north, feeling its lukewarm
+surface cool you slightly against the heat.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11210
+D2
+~
+~
+0 -1 11220
+D3
+~
+~
+0 -1 11208
+S
+#11210
+In The Desert~
+   Silent sands surround you to the south and west, sweeping outward away
+from the tall outcroppings to the north and east that seem to form some
+sort of ancient, volcanic barrier that borders the desert.
+~
+110 32768 0 0 0 10
+D2
+~
+~
+0 -1 11221
+D3
+~
+~
+0 -1 11209
+S
+#11211
+The Desert~
+   An awesome storm rages to the west.  In all other directions the sky 
+remains clear except for the occasional blast of desert sand.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11200
+D1
+~
+~
+0 -1 11212
+D2
+~
+~
+0 -1 11222
+D3
+~
+~
+0 -1 11462
+S
+#11212
+The Desert~
+   The ground around you is pitch black like a cinder.  The black sands 
+extend lifelessly in all directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11201
+D1
+~
+~
+0 -1 11213
+D2
+~
+~
+0 -1 11223
+D3
+~
+~
+0 -1 11211
+S
+#11213
+The Desert~
+   Your feet begin to blister under the latent heat of the sands.  There
+seems to be no escape from the heat.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11202
+D1
+~
+~
+0 -1 11214
+D2
+~
+~
+0 -1 11224
+D3
+~
+~
+0 -1 11212
+S
+#11214
+The Desert~
+   Wiping off the sweat from your brow for the hundredth time, you trudge on.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11203
+D1
+~
+~
+0 -1 11215
+D2
+~
+~
+0 -1 11225
+D3
+~
+~
+0 -1 11213
+S
+#11215
+The Desert~
+  A dusty road cuts through the desert to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11204
+D1
+~
+~
+0 -1 11216
+D2
+~
+~
+0 -1 11226
+D3
+~
+~
+0 -1 11214
+S
+#11216
+A Dusty Road Through The Desert~
+   This worn trail can barely be called a road.  It has seen little use and
+threatens to be turned back into desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11205
+D1
+~
+~
+0 -1 11217
+D2
+~
+~
+0 -1 11227
+D3
+~
+~
+0 -1 11215
+S
+#11217
+The Desert~
+   A dusty road cuts through the desert to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11206
+D1
+~
+~
+0 -1 11218
+D2
+~
+~
+0 -1 11228
+D3
+~
+~
+0 -1 11216
+S
+#11218
+In The Desert~
+   A pile of bleached bones stares up at you from the black sand. You try not
+to think that it could be you one day very soon.
+   A cluster of trees that has to be a mirage appears to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11207
+D1
+~
+~
+0 -1 4004
+D2
+~
+~
+0 -1 11229
+D3
+~
+~
+0 -1 11217
+S
+#11219
+The Desert~
+   It is extremely hot and you are in need of a good drink of water.  The
+black desert stretches endlessly around you.
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11208
+D1
+~
+~
+0 -1 11220
+D2
+~
+~
+0 -1 11230
+D3
+~
+~
+0 -1 11218
+S
+#11220
+The Desert~
+   You see only the gently rolling sand dunes, stretching out for miles,
+except for the tips of some leafy green plants over the dunes to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11210
+D1
+~
+~
+0 -1 11232
+D2
+~
+~
+0 -1 11232
+D3
+~
+~
+0 -1 4004
+S
+#11221
+In the Desert~
+   You see only the gently rolling sand dunes, stretching out for miles.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11210
+D1
+~
+~
+0 -1 11232
+D2
+~
+~
+0 -1 11232
+D3
+~
+~
+0 -1 11220
+S
+#11222
+The Desert~
+   You trudge through the desert, no longer certain of where you are; 
+no longer caring.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11211
+D1
+~
+~
+0 -1 11223
+D2
+~
+~
+0 -1 11233
+D3
+~
+~
+0 -1 11463
+S
+#11223
+The Desert~
+   A dusty trail leads around some sort of encampment to the southeast.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11212
+D1
+~
+~
+0 -1 11224
+D2
+~
+~
+0 -1 11234
+D3
+~
+~
+0 -1 11222
+S
+#11224
+The Desert~
+   A small dusty trail to the south skirts a quiet village beyond.  In all
+other directions, the desert stretches without end.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11213
+D1
+~
+~
+0 -1 11225
+D2
+~
+~
+0 -1 11235
+D3
+~
+~
+0 -1 11223
+S
+#11225
+The Desert~
+   To the south, a small dusty east-west trail leads to a quiet village in
+the distance.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11214
+D1
+~
+~
+0 -1 11226
+D2
+~
+~
+0 -1 11236
+D3
+~
+~
+0 -1 11224
+S
+#11226
+The Desert~
+   To the southeast some large gates defend the entrance to a small village.
+East of here a dusty road leads north through the desert while to the south,
+a worn trail heads around the village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11215
+D1
+~
+~
+0 -1 11227
+D2
+~
+~
+0 -1 11237
+D3
+~
+~
+0 -1 11225
+S
+#11227
+A Dusty Road Through the Desert~
+   This worn trail can barely be called a road.  It has seen little use and
+threatens to turn back into desert.  To the south are the gates of a small
+village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11216
+D1
+~
+~
+0 -1 11228
+D2
+~
+~
+0 -1 11238
+D3
+~
+~
+0 -1 11226
+S
+#11228
+The Desert~
+   To the southwest are some large gates leading into a small village.
+West of here, a dusty road leads north through the desert, while to
+the south, a worn trail heads around the village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11217
+D1
+~
+~
+0 -1 11229
+D2
+~
+~
+0 -1 11239
+D3
+~
+~
+0 -1 11227
+S
+#11229
+The Desert~
+   To the south a trail has been worn in the sand around a fenced village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11218
+D1
+~
+~
+0 -1 11230
+D2
+~
+~
+0 -1 11240
+D3
+~
+~
+0 -1 11228
+S
+#11230
+The Desert~
+   You are standing north of trail leading around a high village fence.  The
+desert surrounds you in all directions, save north where you can see a few
+trees.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 4004
+D1
+~
+~
+0 -1 11231
+D2
+~
+~
+0 -1 11241
+D3
+~
+~
+0 -1 11229
+S
+#11231
+The Desert~
+   In the distance to the southwest, a dusty trail bends around the corner
+of a quiet village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11220
+D1
+~
+~
+0 -1 11232
+D2
+~
+~
+0 -1 11242
+D3
+~
+~
+0 -1 11230
+S
+#11232
+The Desert~
+   The wind drives the sand into your eyes so hard you can barely open them
+to see.  You struggle as you stumble forward through the desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11221
+D1
+~
+~
+0 -1 11243
+D2
+~
+~
+0 -1 11243
+D3
+~
+~
+0 -1 11231
+S
+#11233
+The Desert~
+   The heat of the sand is so intense that you contemplate entering the rising
+storm to the west just to feel the cooler, moving air.  The desert stretches
+in all other direction.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11222
+D1
+~
+~
+0 -1 11234
+D2
+~
+~
+0 -1 11244
+D3
+~
+~
+0 -1 11464
+S
+#11234
+The Desert~
+   Off to the east, you notice a bend in a dusty trail that leads around a
+high, spiked wall.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11223
+D1
+~
+~
+0 -1 11235
+D2
+~
+~
+0 -1 11245
+D3
+~
+~
+0 -1 11233
+S
+#11235
+A Dusty Trail~
+   The trail bends here, heading south and east around a high spiked fence.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11224
+D1
+~
+~
+0 -1 11236
+D2
+~
+~
+0 -1 11246
+D3
+~
+~
+0 -1 11234
+S
+#11236
+A Dusty Trail~
+   The trail leads east and west around a high fence to the south.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11225
+D1
+~
+~
+0 -1 11237
+D3
+~
+~
+0 -1 11235
+S
+#11237
+A Dusty Trail~
+   The trail leads east and west around a high fence to the south.  To the 
+east lie the gates of the village that lies behind the fence, defended from
+the surrounding desert.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11226
+D1
+~
+~
+0 -1 11238
+D3
+~
+~
+0 -1 11236
+S
+#11238
+The Gates of the Rakshasa Village~
+   To the south you notice a break in the high, spiked fence that surrounds
+the village.  A dusty road leads north, away from the town, while a series
+of splintering paths lead away from the road to the east and west outside the
+wall.
+~
+110 32772 0 0 0 4
+D0
+~
+~
+0 -1 11227
+D1
+~
+~
+0 -1 11239
+D2
+Through the gate of the Rakshasa village.
+~
+gate~
+1 -1 11249
+D3
+~
+~
+0 -1 11237
+S
+#11239
+A Dusty Trail~
+   The trail leads east and west around a high fence to the south.  To the
+west, you see the gates of the village.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11228
+D1
+~
+~
+0 -1 11240
+D3
+~
+~
+0 -1 11238
+S
+#11240
+A Dusty Trail~
+   The trail leads east and west around a high fence to the south.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11229
+D1
+~
+~
+0 -1 11241
+D3
+~
+~
+0 -1 11239
+S
+#11241
+A Dusty Trail~
+   The trail bends here, heading south and west around a high, spiked fence.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11230
+D1
+~
+~
+0 -1 11242
+D2
+~
+~
+0 -1 11252
+D3
+~
+~
+0 -1 11240
+S
+#11242
+The Desert~
+   To the west is a bend in a dusty trail around a high, spiked fence.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11231
+D1
+~
+~
+0 -1 11243
+D2
+~
+~
+0 -1 11253
+D3
+~
+~
+0 -1 11241
+S
+#11243
+The Desert~
+   The wind blows the sands so hard into your eyes that you can barely stand
+to open them as you stumble through the desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11232
+D1
+~
+~
+0 -1 11254
+D2
+~
+~
+0 -1 11254
+D3
+~
+~
+0 -1 11242
+S
+#11244
+The Desert~
+   A sandstorm to the west threatens to overtake you.  Suddenly, the open
+desert looks much more inviting.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11233
+D1
+~
+~
+0 -1 11245
+D2
+~
+~
+0 -1 11255
+D3
+~
+~
+0 -1 11465
+S
+#11245
+The Desert~
+   You stand just west of a worn trail around a small village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11234
+D1
+~
+~
+0 -1 11246
+D2
+~
+~
+0 -1 11256
+D3
+~
+~
+0 -1 11244
+S
+#11246
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11235
+D2
+~
+~
+0 -1 11257
+D3
+~
+~
+0 -1 11245
+S
+#11247
+A Straw Hut~
+   This straw and mud hut is where the Rakshasa citizens live.  A bare rug
+lies on the floor while a simple table stands in the corner, providing a
+resting place for an assortment of bones.
+   Looking closer, you are uncertain whether they are the bones of humans or
+some animal and wonder if it would be best if you didn't stick around to find
+out.
+   To the east you see a path and to the south you see another large hut.
+~
+110 32776 0 0 0 0
+D1
+~
+~
+0 -1 11248
+D2
+~
+~
+0 -1 11258
+S
+#11248
+A Path Along the Wall~
+   Rakshasan citizens travel along this path, ignoring you as they go about
+their business.  You notice the blandness of the decorations and the lack of
+vegetation of the village, and begin to wonder why they would choose this
+area in which to live.
+   To the west you see a large hut.  The path leads east through the village.
+~
+110 32776 0 0 0 1
+D1
+~
+~
+0 -1 11249
+D3
+~
+~
+0 -1 11247
+S
+#11249
+Inside The Gate~
+   You see Rakshasan citizens scurry along the road to their destinations,
+seeming to be in a hurry to complete their tasks.
+   From here you can make out the details of the village: the wide, dusty
+streets, the windowless straw and mud huts, the dry, cracked village walls,
+and the general lack of vegetation in the area.
+   The road leads east, south, and west through the village and out to the
+desert to the north.
+~
+110 32776 0 0 0 1
+D0
+Through the gates of the Rakshasa village.
+~
+gate~
+1 -1 11238
+D1
+~
+~
+0 -1 11250
+D2
+~
+~
+0 -1 11260
+D3
+~
+~
+0 -1 11248
+S
+#11250
+A Path Along the Wall~
+   There are many Rakshasa citizens traveling along this path.  You notice the
+blandness of the decorations and the lack of vegetation and begin to wonder
+what compels these residents to stay.
+   To the east you see a large hut.  The path leads west through the village.
+~
+110 32776 0 0 0 1
+D1
+~
+~
+0 -1 11251
+D3
+~
+~
+0 -1 11249
+S
+#11251
+A Straw Hut~
+   This straw and mud hut is where the Rakshasa citizens live.  A bare rug
+lies on the floor while a simple table stands in the corner, providing a
+resting place for an assortment of bones.
+   Looking closer, you are uncertain whether they are the bones of humans or
+some animal and wonder if it would be best if you didn't stick around to find
+out.
+   To the west you see a path and to the south you see another large hut.
+~
+110 32776 0 0 0 0
+D2
+~
+~
+0 -1 11262
+D3
+~
+~
+0 -1 11250
+S
+#11252
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11241
+D1
+~
+~
+0 -1 11253
+D2
+~
+~
+0 -1 11263
+S
+#11253
+The Desert~
+   You stand just east of a worn trail.  The hot sands radiate heat in all
+other directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11242
+D1
+~
+~
+0 -1 11254
+D2
+~
+~
+0 -1 11264
+D3
+~
+~
+0 -1 11252
+S
+#11254
+The Desert~
+   You stumble blindly through the blowing sands of the desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11243
+D1
+~
+~
+0 -1 11265
+D2
+~
+~
+0 -1 11265
+D3
+~
+~
+0 -1 11253
+S
+#11255
+The Desert~
+   A storm brews to the west, gathering speed as it seemingly rises from
+nowhere.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11244
+D1
+~
+~
+0 -1 11256
+D2
+~
+~
+0 -1 11266
+D3
+~
+~
+0 -1 11466
+S
+#11256
+The Desert~
+   A trail to the east leads around a small village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11245
+D1
+~
+~
+0 -1 11257
+D2
+~
+~
+0 -1 11267
+D3
+~
+~
+0 -1 11255
+S
+#11257
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11246
+D2
+~
+~
+0 -1 11268
+D3
+~
+~
+0 -1 11256
+S
+#11258
+A Straw Hut~
+   You see a bare, desolate living quarters.  There are few items in this hut,
+but you are able to make out the weapons' rack on the wall and the training
+dummy in the corner.  This cannot be the hut of a lowly Rakshasa citizen; it
+obviously belongs to someone of stature and power.
+   To the north you see another straw hut.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11247
+S
+#11259
+A Straw Hut~
+   Upon entrance, you notice a Rakshasan stirring a pot of boiling water with
+bones sticking out of the top.  The only other decoration in the room is a
+framed picture of the Brown Dragon, the God of the Rakshasa village.
+   The exit is to the east.
+~
+110 32776 0 0 0 0
+D1
+~
+~
+0 -1 11260
+S
+#11260
+The Feline Way~
+   You are traveling on the main street of the village.  There is a lot of
+hustling and bustling as the Rakshasa citizens go about on their methods of
+plotting to kill strangers.
+   The street continues north and south through the village.  To the east
+and west, dark straw buildings line the street.
+~
+110 32768 0 0 0 1
+D0
+~
+~
+0 -1 11249
+D1
+~
+~
+0 -1 11261
+D2
+~
+~
+0 -1 11271
+D3
+~
+~
+0 -1 11259
+S
+#11261
+A Straw Hut~
+   Upon entrance, you notice a Rakshasan stirring a pot of boiling water with
+bones sticking out of the top.  The only other decoration in the room is a
+framed picture of the Brown Dragon, the God of the Rakshasa village.
+   The exit is to the west.
+~
+110 32776 0 0 0 0
+D3
+~
+~
+0 -1 11260
+S
+#11262
+A Straw Hut~
+   You see a bare, desolate living quarters.  There are few items in this hut,
+but you are able to make out the weapons' rack on the wall and the training
+dummy in the corner.  This cannot be the hut of a lowly Rakshasa citizen; it
+obviously belongs to someone of stature and power.
+   To the north you see another straw hut.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11251
+S
+#11263
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11252
+D1
+~
+~
+0 -1 11264
+D2
+~
+~
+0 -1 11509
+S
+#11264
+In the Desert~
+   To the west a trail around a small village looks as if it gets little
+use.  In all other directions, desert stretches to the horizon.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11253
+D1
+~
+~
+0 -1 11265
+D2
+~
+~
+0 -1 11510
+D3
+~
+~
+0 -1 11263
+S
+#11265
+The Desert~
+   All horizons look the same in this bleak, black desert.  The heat rising
+off the sands is almost unbearable.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11254
+D1
+~
+~
+0 -1 11276
+D2
+~
+~
+0 -1 11276
+D3
+~
+~
+0 -1 11264
+S
+#11266
+In the Desert~
+   Your bloodshot eyes marvel at the cloud formations shifting through
+the storm to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11255
+D1
+~
+~
+0 -1 11267
+D2
+~
+~
+0 -1 11277
+D3
+~
+~
+0 -1 11467
+S
+#11267
+In the Desert~
+   You are west of a dusty trail surrounding a quiet village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11256
+D1
+~
+~
+0 -1 11268
+D2
+~
+~
+0 -1 11278
+D3
+~
+~
+0 -1 11266
+S
+#11268
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11257
+D2
+~
+~
+0 -1 11279
+D3
+~
+~
+0 -1 11267
+S
+#11269
+A Dark Weapons Shop~
+  Candles on the wall illuminate the room just enough for you to see all the
+full weapons' racks on the walls.  Apparently the Rakshasa aren't a peaceful
+bunch.  You cannot seem to find the keeper of all these weapons, so you are
+wary, careful not to turn your back for too long to the dark corner of the
+room.  He may be hiding there.  A large sign hangs on the wall.  There is
+a door to the east.
+~
+110 32904 0 0 0 0
+D1
+~
+door~
+1 -1 11270
+E
+sign~
+No magic permitted on this premises by orders from the higher gods.
+~
+S
+#11270
+Entrance To The Weapons Shop~
+   It's so dark here that you can barely see your own hand before your eyes.
+Better watch out; the Rakshasa are great at pouncing from dark corners.  To
+the west lies a door to the shop and to the east the main street extends into
+the village.
+~
+110 32776 0 0 0 0
+D1
+~
+~
+0 -1 11271
+D3
+~
+door~
+1 -1 11269
+S
+#11271
+The Feline Way~
+   You are traveling on the main street of the village.  There is a lot of
+activity here as the Rakshasa citizens go about on their business.
+   The street continues north and south through the village, flanked on the
+east and west by large, dark buildings.  You can hear sounds coming from
+inside them.
+~
+110 32768 0 0 0 1
+D0
+~
+~
+0 -1 11260
+D1
+~
+~
+0 -1 11272
+D2
+~
+~
+0 -1 11282
+D3
+~
+~
+0 -1 11270
+S
+#11272
+The Entrance to a Dark Magic Shop~
+   This unlit shop smells strongly of herbs and decaying flesh.  The shadows
+are thick and you become aware of a Rakshasan watching you from the corner as
+you examine the wares around you.
+   To the east is a door and to the west is the main street.
+~
+110 32776 0 0 0 0
+D1
+~
+door~
+1 -1 11273
+D3
+~
+~
+0 -1 11271
+S
+#11273
+A Dark Magic Shop~
+   Candles on the wall illuminate the room just enough for you to notice all
+the strange concoctions on the shelves.  You look around the chamber for the
+mad wizard who created all this, but he is nowhere to be found.  You see a
+sign on the wall.
+   There is a door to the west.
+~
+110 32776 0 0 0 0
+D3
+~
+door~
+1 -1 11272
+E
+sign~
+Although this is a magic shop, no magic is permitted in here by orders of the
+higher gods.
+~
+S
+#11274
+The Heavenly Meadows~
+   You are on soft, pink clouds, somewhere high up in the skies. Far above and
+a little to the left, you see a raspberry moon, pinned to the firmament, maybe
+by some drunken God with a peculiar sense of humor. You notice that there is
+no cream on the raspberry. This place fills you with pinkish happiness and you
+suddenly get the urge to eat those little pills your Mother warned you about!
+~
+110 512 0 0 0 0
+D0
+The soft, pink clouds continue in unceasing happiness as far as can be seen.
+~
+~
+0 -1 11274
+D1
+The soft, pink clouds continue in unceasing happiness as far as can be seen.
+~
+~
+0 -1 11274
+D2
+The soft, pink clouds continue in unceasing happiness as far as can be seen.
+~
+~
+0 -1 11274
+D3
+The soft, pink clouds continue in unceasing happiness as far as can be seen.
+~
+~
+0 -1 11274
+D4
+You see the raspberry moon.
+~
+~
+0 -1 11275
+E
+moon raspberry~
+It looks very juicy and tasty, but you feel that the lack of cream makes
+it an inferior meal.
+~
+E
+cloud clouds~
+The soft, pinkish clouds give the room a touch of dream-like lightness. You
+feel like bouncing around here forever.
+~
+E
+cream~
+There is none.
+>
+You sniff sadly.
+~
+S
+#11275
+On The Raspberry Moon~
+   You are on a HUUUGE raspberry, which has a somewhat moon-like appearance.
+It hangs by a particularly thin thread from the nearby firmament.  You get a
+feeling of overwhelming sadness as you notice the complete absence of light,
+fluffy cream.
+~
+110 512 0 0 0 0
+D5
+  In a mortal way, you realize that the firmament is the limit of your
+comprehension and the start of something far greater than your petty self.
+~
+~
+0 -1 11274
+E
+firmament~
+It stretches unendingly in all imaginable directions. You soon come to the
+unavoidable realization that you cannot possibly hope to comprehend even
+the minutest fraction of its endless complexity.
+~
+E
+thread~
+It hangs from a small pin, loosely fastened in the firmament. The thread is
+almost infinitesimally thin, and your mind boggles at the question of how
+this intricate construction can possibly maintain its worldly existence,
+in defiance of all physical and unavoidable laws ever invented.
+~
+E
+cream~
+There is none
+>
+You sniff sadly.
+~
+S
+#11276
+In the Desert~
+   A massive tower juts out of the ground to the east.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11265
+D1
+~
+~
+0 -1 11477
+D2
+~
+~
+0 -1 11287
+D3
+~
+~
+0 -1 11510
+S
+#11277
+The Desert~
+   A small dune rises to the west at the edge of a gigantic sandstorm.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11266
+D1
+~
+~
+0 -1 11278
+D2
+~
+~
+0 -1 11288
+D3
+~
+~
+0 -1 11468
+S
+#11278
+The Desert~
+   The trail to the east surrounds a high spiked fence.  All other directions
+lead back into the desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11267
+D1
+~
+~
+0 -1 11279
+D2
+~
+~
+0 -1 11289
+D3
+~
+~
+0 -1 11277
+S
+#11279
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11268
+D2
+~
+~
+0 -1 11290
+D3
+~
+~
+0 -1 11278
+S
+#11280
+A Side Road~
+   This road leads east through the Rakshasa Village and is blocked by a high,
+spiked fence to the west.  There is less traffic on this road than the main
+street. 
+   To the south you see a very large, evil-looking building.
+~
+110 32768 0 0 0 1
+D1
+~
+~
+0 -1 11281
+D2
+~
+door~
+1 -1 11291
+S
+#11281
+A Side Road~
+   This road leads east and west through the Rakshasa Village.  There is less
+traffic on this road than the main street.
+~
+110 32768 0 0 0 1
+D1
+~
+~
+0 -1 11282
+D3
+~
+~
+0 -1 11280
+S
+#11282
+The Feline Way~
+   You are traveling on the main street of the village.  There is a lot of
+activity here as the Rakshasa citizens go about their daily business.
+   The street continues north and south through the village.  You see a side
+road leading east and west from here as well.  At the point in which the two
+roads cross, you see a large, deep well.
+~
+110 32768 0 0 0 1
+D0
+~
+~
+0 -1 11271
+D1
+~
+~
+0 -1 11283
+D2
+~
+~
+0 -1 11293
+D3
+~
+~
+0 -1 11281
+S
+#11283
+A Side Road~
+   This road leads east and west through the Rakshasa Village.  There is less
+traffic on this road than the main street.
+~
+110 32768 0 0 0 1
+D1
+~
+~
+0 -1 11284
+D3
+~
+~
+0 -1 11282
+S
+#11284
+A Side Road~
+   This road leads west through the Rakshasa Village and is blocked by a high,
+spiked fence to the east.  There is less traffic on this road than the main
+street. 
+   To the south you see a large well-maintained building.
+~
+110 32768 0 0 0 1
+D2
+~
+door~
+1 -1 11295
+D3
+~
+~
+0 -1 11283
+S
+#11285
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11509
+D1
+~
+~
+0 -1 11286
+D2
+~
+~
+0 -1 11296
+S
+#11286
+The Desert~
+   To the west a trail around a small village looks as if it gets little use.
+All other directions lead off into the desert.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11510
+D1
+~
+~
+0 -1 11287
+D2
+~
+~
+0 -1 11297
+D3
+~
+~
+0 -1 11285
+S
+#11287
+The Desert~
+   There's so much sand in your eyes you wish you were blind and the heat
+rising from the desert dunes almost makes your wish come true as your tears
+mix with the grains and tear at your eyes.
+   All the horizons look the same.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11276
+D1
+~
+~
+0 -1 11298
+D2
+~
+~
+0 -1 11298
+D3
+~
+~
+0 -1 11286
+S
+#11288
+The Desert~
+   A shrill howling rises from the storm raging to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11277
+D1
+~
+~
+0 -1 11299
+D2
+~
+~
+0 -1 11299
+D3
+~
+~
+0 -1 11469
+S
+#11289
+The Desert~
+   You stand west of worn trail around a walled village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11278
+D1
+~
+~
+0 -1 11290
+D2
+~
+~
+0 -1 11300
+D3
+~
+~
+0 -1 11288
+S
+#11290
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11279
+D2
+~
+~
+0 -1 11301
+D3
+~
+~
+0 -1 11289
+S
+#11291
+An Entrance to the Temple~
+   his room leads to the Temple of the Rakshasa Village.  The candles on the
+walls light your way through the building.  The room continues east and south
+of here.
+~
+110 32776 0 0 0 0
+D0
+~
+door~
+1 -1 11280
+D1
+~
+~
+0 -1 11292
+D2
+~
+~
+0 -1 11302
+S
+#11292
+North Of The Altar~
+   You are standing in a small niche just north of a strangely-shaped altar.
+The air is dry here and is full of static energy.
+~
+110 32776 0 0 0 0
+D2
+~
+~
+0 -1 11303
+D3
+~
+~
+0 -1 11291
+S
+#11293
+The Feline Way~
+   You are traveling on the main street of the village.  There is a lot of
+activity here as the Rakshasa citizens go about their lives.
+   The street continues north and south through the village.
+~
+110 32768 0 0 0 1
+D0
+~
+~
+0 -1 11282
+D2
+~
+~
+0 -1 11304
+S
+#11294
+Inside The Nursery~
+   Here, Rakshasa cubs wrestle each other playfully.  The walls are
+decorated with pictures of the Brown Dragon, as well as pictures of
+humans, elves, and dwarves to teach the cubs what to hunt.
+~
+110 32776 0 0 0 0
+D1
+~
+~
+0 -1 11295
+D2
+~
+~
+0 -1 11305
+S
+#11295
+Entrance To The Nursery~
+   You hear the sounds of the Rakshasa cubs playfully growling in the
+background.  The walls are decorated with figures of the Brown Dragon,
+to instill fear into the cubs at an early age, no doubt.  The floor is
+littered with toys and torn objects.
+~
+110 32776 0 0 0 0
+D0
+~
+door~
+1 -1 11284
+D2
+~
+~
+0 -1 11306
+D3
+~
+~
+0 -1 11294
+S
+#11296
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11285
+D1
+~
+~
+0 -1 11297
+D2
+~
+~
+0 -1 11307
+S
+#11297
+The Desert~
+   You stand just east of a worn trail.  The desert heat rises from the dunes
+in all other directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11286
+D1
+~
+~
+0 -1 11298
+D2
+~
+~
+0 -1 11308
+D3
+~
+~
+0 -1 11296
+S
+#11298
+In the Desert~
+   There is so much sand in your eyes you fear permanent damage from the
+constant abrasions.  The wind blows hard and you struggle to find shelter.
+   To the east lies a sand-covered mine entrance while the desert stretches
+outward in all other directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11287
+D1
+~
+~
+0 -1 12832
+D2
+~
+~
+0 -1 11309
+D3
+~
+~
+0 -1 11297
+S
+#11299
+In the Dry Dusty Desert~
+   The sand is not as fine here as it was farther north, and cacti grow more
+abundant.  You look around for shelter from the storm to the west, but find
+none in sight.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11288
+D1
+~
+~
+0 -1 11310
+D2
+~
+~
+0 -1 11310
+D3
+~
+~
+0 -1 11470
+S
+#11300
+The Dry Dusty Desert~
+   A worn trail to the east leads around a high spiked wall.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11289
+D1
+~
+~
+0 -1 11301
+D2
+~
+~
+0 -1 11311
+D3
+~
+~
+0 -1 11299
+S
+#11301
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11290
+D2
+~
+~
+0 -1 11312
+D3
+~
+~
+0 -1 11300
+S
+#11302
+West of the Altar~
+   You are standing in the shadows of an Altar room.  The altar itself
+stands in the open to the east, inviting you to explore its polished
+surface and intricate designs.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11291
+D1
+~
+~
+0 -1 11303
+S
+#11303
+The Temple Altar~
+   In the center of the room, you see a black marble altar shaped like a huge
+tiger claw.  There are bloodstains all around the room, not just on the altar.
+There have obviously been many sacrifices to the Brown Dragon in this room.
+You can almost hear the screams of those who have been tortured here.
+   To the north and west you can see the chamber lead away from the altar.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11292
+D3
+~
+~
+0 -1 11302
+S
+#11304
+The Feline Way~
+   You are traveling on the main street of the village. There is a lot of
+activity here as the Rakshasa citizens go about on their daily lives.
+   The street continues north and south through the village.
+~
+110 32768 0 0 0 1
+D0
+~
+~
+0 -1 11293
+D2
+~
+~
+0 -1 11315
+S
+#11305
+Inside the Nursery~
+   You see the Rakshasa cubs wrestling each other playfully.  The walls are
+decorated with more pictures of the Brown Dragon, as well as those of humans,
+elves, and dwarves, obviously intended as instruction on what to fear and
+what to hunt.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11294
+D1
+~
+~
+0 -1 11306
+S
+#11306
+Inside the Nursery~
+   You see the Rakshasa cubs wrestling each other playfully.  The walls are
+decorated with more pictures of the Brown Dragon, as well as those of humans,
+elves, and dwarves, obviously intended as instruction on what to fear and
+what to hunt.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11295
+D3
+~
+~
+0 -1 11305
+S
+#11307
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11296
+D1
+~
+~
+0 -1 11308
+D2
+~
+~
+0 -1 11318
+S
+#11308
+In the Desert~
+   To the west a trail around a small village looks as if it gets little
+use.  All other directions lead off into the desert that threatens to 
+devour the faint trail.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11297
+D1
+~
+~
+0 -1 11309
+D2
+~
+~
+0 -1 11319
+D3
+~
+~
+0 -1 11307
+S
+#11309
+In the Dry Dusty Desert~
+   Through shimmering waves of rising heat, you think you see a large structure
+to the west.  Everything you wear is almost too hot to touch now, and sweat
+streams down your body in rivulets.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11298
+D1
+~
+~
+0 -1 11320
+D2
+~
+~
+0 -1 11320
+D3
+~
+~
+0 -1 11308
+S
+#11310
+The Dry Dusty Desert~
+   Coarse sand crunches under your feet, but doesn't drown out the sound
+of the shrieking storm to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11299
+D1
+~
+~
+0 -1 11321
+D2
+~
+~
+0 -1 11321
+D3
+~
+~
+0 -1 11471
+S
+#11311
+The Dry Dusty Desert~
+   The trail east of you circles a small village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11300
+D1
+~
+~
+0 -1 11312
+D2
+~
+~
+0 -1 11322
+D3
+~
+~
+0 -1 11310
+S
+#11312
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11301
+D2
+~
+~
+0 -1 11323
+D3
+~
+~
+0 -1 11311
+S
+#11313
+Base of the Tower~
+   You are standing at the base of an enormous tower.  There is a small square
+door in the ceiling, guarded by several large felines.  Someone or something
+of importance must lie in the room above.
+   The tower exits to the east.
+~
+110 32776 0 0 0 0
+D1
+~
+~
+0 -1 11314
+D4
+A small square door in the ceiling.
+~
+door~
+1 -1 11508
+S
+#11314
+Path Along The Wall~
+   Many Rakshasan citizens travel along this path.  You notice the blandness
+of the decorations and the lack of vegetation of the village which seems to
+reflect the Rakshasan mentality of simplicity.
+   To the west lies a large tower, at the end of the east-west road that
+splits the village.
+~
+110 32776 0 0 0 1
+D1
+~
+~
+0 -1 11315
+D3
+~
+~
+0 -1 11313
+S
+#11315
+The Feline Way~
+   You are traveling on the main street of the village.  There is a lot of
+activity here as the Rakshasa citizens go about on their daily business.
+   The street continues north through the village and south, where you see
+a gate exiting into the desert.  A path extends to the east and west from
+here as well.
+~
+110 32768 0 0 0 1
+D0
+~
+~
+0 -1 11304
+D1
+~
+~
+0 -1 11316
+D2
+You see a gate into the desert.
+~
+gate~
+1 -1 11326
+D3
+~
+~
+0 -1 11314
+S
+#11316
+A Path Along the Wall~
+   Rakshasan citizens travel along this path, ignoring the blandness of the
+decorations and the lack of vegetation of the village, and directing their
+attentions to other business.
+   To the east, at the end of this east-west road, a large hut stands open.
+~
+110 32776 0 0 0 1
+D1
+~
+~
+0 -1 11317
+D3
+~
+~
+0 -1 11315
+S
+#11317
+A Straw Hut~
+   This is where the Rakshasan citizens live.  The hut is made of a straw and
+mud mixture and displays only a rug on the floor and a table in the corner.
+On the table are some bones, though it is hard to make out whether they are
+the bones of humans or some animal.
+   To the west an exit leads to the street.
+~
+110 32776 0 0 0 0
+D3
+~
+~
+0 -1 11316
+S
+#11318
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11307
+D1
+~
+~
+0 -1 11319
+D2
+~
+~
+0 -1 11329
+S
+#11319
+The Dry Dusty Desert~
+   The sand is not as fine here as it was farther north, and cacti grow more
+abundantly. To the west a trail worn of sand leads around a high spiked fence.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11308
+D1
+~
+~
+0 -1 11320
+D2
+~
+~
+0 -1 11330
+D3
+~
+~
+0 -1 11318
+S
+#11320
+The Dry Dusty Desert~
+   The sand is not as fine here as it was farther north, and cacti grow more
+abundantly.  Shelter from the hot, blowing sands is the center of all your
+thoughts.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11309
+D1
+~
+~
+0 -1 11331
+D2
+~
+~
+0 -1 11331
+D3
+~
+~
+0 -1 11319
+S
+#11321
+The Dry Dusty Desert~
+   You brush against a cactus in your path but decide against stopping to pull
+out splinters due to the storm to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11310
+D1
+~
+~
+0 -1 11332
+D2
+~
+~
+0 -1 11332
+D3
+~
+~
+0 -1 11472
+S
+#11322
+The Dry Dusty Desert~
+   To the east is a bend in the dusty trail outside of a spiked fence.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11311
+D1
+~
+~
+0 -1 11323
+D2
+~
+~
+0 -1 11333
+D3
+~
+~
+0 -1 11321
+S
+#11323
+A Dusty Trail~
+   The trail bends here, heading north and east around a high spiked fence.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11312
+D1
+~
+~
+0 -1 11324
+D2
+~
+~
+0 -1 11334
+D3
+~
+~
+0 -1 11322
+S
+#11324
+A Dusty Trail~
+   The trail leads east and west around a high fence to the north.
+~
+110 32768 0 0 0 4
+D1
+~
+~
+0 -1 11325
+D2
+~
+~
+0 -1 11335
+D3
+~
+~
+0 -1 11323
+S
+#11325
+A Dusty Trail~
+   The trail leads east and west around a high fence to the north.
+~
+110 32768 0 0 0 4
+D1
+~
+~
+0 -1 11326
+D2
+~
+~
+0 -1 11336
+D3
+~
+~
+0 -1 11324
+S
+#11326
+Gates Of A Rakshasan Village~
+   To the north is a break in the high spiked fence around a small village.
+A worn trail leads east and west outside the wall.
+   Dry desert lies everywhere outside the gates.
+~
+110 32772 0 0 0 4
+D0
+You see a gate to the Rakshasa Village.
+~
+gate~
+1 -1 11315
+D1
+~
+~
+0 -1 11327
+D2
+~
+~
+0 -1 11337
+D3
+~
+~
+0 -1 11325
+S
+#11327
+A Dusty Trail~
+   The trail leads east and west around a high fence to the north.
+~
+110 32768 0 0 0 4
+D1
+~
+~
+0 -1 11328
+D2
+~
+~
+0 -1 11338
+D3
+~
+~
+0 -1 11326
+S
+#11328
+A Dusty Trail~
+   The trail leads east and west around a high fence to the north.
+~
+110 32768 0 0 0 4
+D1
+~
+~
+0 -1 11329
+D2
+~
+~
+0 -1 11339
+D3
+~
+~
+0 -1 11327
+S
+#11329
+A Dusty Trail~
+   The trail bends here, heading north and west around a high spiked fence.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11318
+D1
+~
+~
+0 -1 11330
+D2
+~
+~
+0 -1 11340
+D3
+~
+~
+0 -1 11328
+S
+#11330
+The Desert~
+   To the west is a bend in a dusty trail around a high spiked fence.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11319
+D1
+~
+~
+0 -1 11331
+D2
+~
+~
+0 -1 11341
+D3
+~
+~
+0 -1 11329
+S
+#11331
+In the Dry Dusty Desert~
+   The sand is not as fine here as it was farther north, and cacti grow more
+abundantly.  Shelter from the blowing sand occupies your thoughts.
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11320
+D1
+~
+~
+0 -1 11342
+D2
+~
+~
+0 -1 11342
+D3
+~
+~
+0 -1 11330
+S
+#11332
+Trekking Through The Desert~
+   The desert seems tense as the storm westward heads this way.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11321
+D1
+~
+~
+0 -1 11343
+D2
+~
+~
+0 -1 11343
+D3
+~
+~
+0 -1 11473
+S
+#11333
+Trekking Through The Desert~
+   Small scrub grows up through the sand, and small pesky flies bite at your
+exposed skin.  To the northeast is a dusty trail around a quiet village.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11322
+D1
+~
+~
+0 -1 11334
+D2
+~
+~
+0 -1 11344
+D3
+~
+~
+0 -1 11332
+S
+#11334
+Trekking Through The Desert~
+   A worn trail leads around a small village to the north.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11323
+D1
+~
+~
+0 -1 11335
+D2
+~
+~
+0 -1 11345
+D3
+~
+~
+0 -1 11333
+S
+#11335
+Trekking Through The Desert~
+   You are just south a dusty trail around a high spiked fence.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11324
+D1
+~
+~
+0 -1 11336
+D2
+~
+~
+0 -1 11346
+D3
+~
+~
+0 -1 11334
+S
+#11336
+Trekking Through The Desert~
+   You are just south a dusty trail around a high spiked fence.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11325
+D1
+~
+~
+0 -1 11337
+D2
+~
+~
+0 -1 11347
+D3
+~
+~
+0 -1 11335
+S
+#11337
+Trekking Through The Desert~
+   You are just south a dusty trail around a high spiked fence.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11326
+D1
+~
+~
+0 -1 11338
+D2
+~
+~
+0 -1 11348
+D3
+~
+~
+0 -1 11336
+S
+#11338
+Trekking Through The Desert~
+   You are just south a dusty trail around a high spiked fence.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11327
+D1
+~
+~
+0 -1 11339
+D2
+~
+~
+0 -1 11349
+D3
+~
+~
+0 -1 11337
+S
+#11339
+Near The Burrows~
+   Deep burrows mar the surface of the sand south of here.  There is no sign
+of what could have created the enormous trenches, and judging from the size,
+you're not sure if you want to find the creature that made them.
+   To the north is a worn dusty trail around a small village.
+~
+110 32772 0 0 0 4
+D0
+~
+~
+0 -1 11328
+D1
+~
+~
+0 -1 11340
+D2
+~
+~
+0 -1 11350
+D3
+~
+~
+0 -1 11338
+S
+#11340
+Near The Burrows~
+   Deep burrows mar the surface of the sand south of here.  There is no sign
+of what could have created the enormous trenches, and judging from the size,
+you're not sure if you want to find the creature that made them.
+   To the north is a worn dusty trail around a small village.
+~
+110 32772 0 0 0 4
+D0
+~
+~
+0 -1 11329
+D1
+~
+~
+0 -1 11341
+D2
+~
+~
+0 -1 11351
+D3
+~
+~
+0 -1 11339
+S
+#11341
+Near The Burrows~
+   Deep burrows mar the surface of the sand south of here.  There is no sign
+of what could have created the enormous trenches, and judging from the size,
+you're not sure if you want to find the creature that made them.
+   To the northwest is a worn dusty trail around a small village.
+~
+110 32772 0 0 0 5
+D0
+~
+~
+0 -1 11330
+D1
+~
+~
+0 -1 11342
+D2
+~
+~
+0 -1 11352
+D3
+~
+~
+0 -1 11340
+S
+#11342
+Near The Burrows~
+   Deep burrows mar the surface of the sand south of here.  There is no sign
+of what could have created the enormous trenches, and judging from the size,
+you're not sure if you want to find the creature that made them.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11331
+D1
+~
+~
+0 0 11343
+D2
+~
+~
+0 -1 11353
+D3
+~
+~
+0 -1 11341
+S
+#11343
+Trekking Through The Desert~
+   Lightning crashes in the midst of the storm to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11332
+D1
+~
+~
+0 0 11344
+D2
+~
+~
+0 -1 11354
+D3
+~
+~
+0 0 11342
+S
+#11344
+Trekking Through The Desert~
+   Small scrub grows up through the sand, and small pesky flies bite at your
+exposed skin.  Unfortunately, there's still no sign of water.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11333
+D1
+~
+~
+0 -1 11345
+D2
+~
+~
+0 -1 11355
+D3
+~
+~
+0 0 11343
+S
+#11345
+Trekking Through The Desert~
+   Small scrub grows up through the sand, and small pesky flies bite at your
+exposed skin.  Unfortunately, there's still no sign of water or civilization.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11334
+D1
+~
+~
+0 -1 11346
+D2
+~
+~
+0 -1 11356
+D3
+~
+~
+0 -1 11344
+S
+#11346
+Trekking Through The Desert~
+   Small scrub grows up through the sand, and small pesky flies bite at your
+exposed skin.  Unfortunately, there's still no sign of water or civilization.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11335
+D1
+~
+~
+0 -1 11347
+D2
+~
+~
+0 -1 11357
+D3
+~
+~
+0 -1 11345
+S
+#11347
+Trekking Through The Desert~
+   Small scrub grows up through the sand, and small pesky flies bite at your
+exposed skin.  Unfortunately, there's still no sign of water or civilization.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11336
+D1
+~
+~
+0 -1 11348
+D2
+~
+~
+0 -1 11358
+D3
+~
+~
+0 -1 11346
+S
+#11348
+Trekking Through The Desert~
+   Small scrub grows up through the sand, and small pesky flies bite at your
+exposed skin.  Unfortunately, there's still no sign of water or civilization.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11337
+D1
+~
+~
+0 -1 11349
+D2
+~
+~
+0 -1 11359
+D3
+~
+~
+0 -1 11347
+S
+#11349
+Trekking Through The Desert~
+   Small scrub grows up through the sand, and small pesky flies bite at your
+exposed skin.  Unfortunately, there's still no sign of water or civilization.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11338
+D1
+~
+~
+0 -1 11350
+D2
+~
+~
+0 -1 11360
+D3
+~
+~
+0 -1 11348
+S
+#11350
+Near The Burrows~
+   Deep burrows mar the surface of the sand east of here.  There is no sign
+of what could have created the enormous trenches, and judging from the size,
+you're not sure if you want to find the creature that made them.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11339
+D1
+~
+~
+0 -1 11351
+D2
+~
+~
+0 -1 11361
+D3
+~
+~
+0 -1 11349
+S
+#11351
+The Barrows~
+   You stand in the midst of a huge pile of Rakshasa bones.  Two long poles on
+either side of you have leather straps swaying in the wind.  This is evidently
+a place of live sacrifice - but to whom?
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11340
+D1
+~
+~
+0 -1 11352
+D2
+~
+~
+0 -1 11362
+D3
+~
+~
+0 -1 11350
+S
+#11352
+The Barrows~
+   You stand ankle-deep in a trench of loose sand.  The edges of the ditch are
+about eye level, and you could scale them, even though it would be difficult.
+Suddenly, the ground trembles beneath your feet.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11341
+D1
+~
+~
+0 -1 11353
+D2
+~
+~
+0 -1 11363
+D3
+~
+~
+0 -1 11351
+S
+#11353
+The Barrows~
+   You stand ankle-deep in a trench of loose sand.  The edges of the ditch are
+about eye level, and you could scale them, even though it would be difficult.
+Suddenly, the ground trembles beneath your feet.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11342
+D1
+~
+~
+0 -1 15171
+D2
+~
+~
+0 -1 11364
+D3
+~
+~
+0 -1 11352
+S
+#11354
+Edge Of A Desert~
+   The desert ends here at a canyon to the south that drops thousands of feet
+down into a dried river bed far below.  To the west a sandstorm rolls closer to
+you, threatening to catch you on the canyon's edge.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11343
+D1
+~
+~
+0 -1 11355
+D2
+~
+~
+0 -1 11365
+D3
+~
+~
+0 -1 11475
+S
+#11355
+Edge Of A Desert~
+   The desert ends here at a canyon to the south that drops thousands of feet
+down into a dried river bed far below.  
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11344
+D1
+~
+~
+0 -1 11356
+D2
+~
+~
+0 0 11366
+D3
+~
+~
+0 -1 11354
+S
+#11356
+Edge Of A Desert~
+   The desert ends here at a canyon to the south that drops thousands of feet
+down into a dried river bed far below.  
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11345
+D1
+~
+~
+0 -1 11357
+D2
+~
+~
+0 -1 11367
+D3
+~
+~
+0 -1 11355
+S
+#11357
+Edge Of A Desert~
+   The desert ends here at a canyon to the south that drops thousands of feet
+down into a dried river bed far below.  
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11346
+D1
+~
+~
+0 -1 11358
+D2
+~
+~
+0 -1 11368
+D3
+~
+~
+0 -1 11356
+S
+#11358
+Edge Of A Desert~
+   The desert ends here at a canyon to the south that drops thousands of feet
+down into a dried river bed far below.  
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11347
+D1
+~
+~
+0 -1 11359
+D2
+~
+~
+0 -1 11369
+D3
+~
+~
+0 -1 11357
+S
+#11359
+Edge Of A Desert~
+   The desert ends here at a canyon to the south that drops thousands of feet
+down into a dried river bed far below.  
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11348
+D1
+~
+~
+0 -1 11360
+D2
+~
+~
+0 -1 11370
+D3
+~
+~
+0 -1 11358
+S
+#11360
+Edge Of A Desert~
+   The desert ends here at a canyon to the south that drops thousands of feet
+down into a dried river bed far below.  
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11349
+D1
+~
+~
+0 -1 11361
+D2
+~
+~
+0 -1 11371
+D3
+~
+~
+0 -1 11359
+S
+#11361
+Near The Burrows~
+   Deep burrows mar the surface of the sand east of here.  There is no sign
+of what could have created the enormous trenches, and judging from the size,
+you're not sure if you want to find the creature that made them.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11350
+D1
+~
+~
+0 -1 11362
+D2
+~
+~
+0 -1 11372
+D3
+~
+~
+0 -1 11360
+S
+#11362
+The Barrows~
+   You stand in a wasteland of bones, sand, and lifeless earth.  A hot wind
+blows into you as you plod through the barrows, searching for any sign of
+life.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11351
+D1
+~
+~
+0 -1 11363
+D2
+~
+~
+0 -1 11373
+D3
+~
+~
+0 -1 11361
+S
+#11363
+The Barrows~
+   You stand ankle-deep in a trench of loose sand.  The edges of the ditch are
+about eye level, and you could scale them, even though it would be difficult.
+Below you opens an enormous hole into which you can easily descend, but it is
+quite dark and may require an external light source.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11352
+D1
+~
+~
+0 -1 11364
+D2
+~
+~
+0 0 11374
+D3
+~
+~
+0 -1 11362
+D5
+~
+~
+0 0 11513
+S
+#11364
+The Barrows~
+   You stand ankle deep in a trench of loose sand.  The edges of the ditch are
+about eye level, and you could scale them, even though it would be difficult.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11353
+D1
+~
+~
+0 0 11365
+D2
+~
+~
+0 -1 11375
+D3
+~
+~
+0 -1 11363
+S
+#11365
+Edge Of A Canyon~
+   You stand on the very edge of a canyon.  The horizon on the other side is
+dotted with trees and other signs of flourishing life, but the deadly drop to
+the south makes it far out of your reach.  A sandstorm to the west threatens
+to overtake you as you look out over the ravine.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11354
+D1
+~
+~
+0 0 11366
+D2
+A Fall to Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 0 11364
+S
+#11366
+Edge Of A Canyon~
+   You stand on the very edge of a canyon.  The horizon on the other side is
+dotted with trees and other signs of flourishing life, but the deadly drop to
+the south makes it far out of your reach.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 0 11355
+D1
+~
+~
+0 0 11367
+D2
+A Fall to Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 0 11365
+S
+#11367
+Edge Of A Canyon~
+   You stand on the very edge of a canyon.  The horizon on the other side is
+dotted with trees and other signs of flourishing life, but the deadly drop to
+the south makes it far out of your reach.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11356
+D1
+~
+~
+0 -1 11368
+D2
+A Fall to Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 0 11366
+S
+#11368
+Edge Of A Canyon~
+   You stand on the very edge of a canyon.  The horizon on the other side is
+dotted with trees and other signs of flourishing life, but the deadly drop to
+the south makes it far out of your reach.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11357
+D1
+~
+~
+0 -1 11369
+D2
+A Fall to Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 -1 11367
+S
+#11369
+Edge Of A Canyon~
+   You stand on the very edge of a canyon.  The horizon on the other side is
+dotted with trees and other signs of flourishing life, but the deadly drop to
+the south makes it far out of your reach.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11358
+D1
+~
+~
+0 -1 11370
+D2
+A Fall to Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 -1 11368
+S
+#11370
+Edge Of A Canyon~
+   You stand on the very edge of a canyon.  The horizon on the other side is
+dotted with trees and other signs of flourishing life, but the deadly drop to
+the south makes it far out of your reach.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11359
+D1
+~
+~
+0 -1 11371
+D2
+A Fall to Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 -1 11369
+S
+#11371
+Edge Of A Canyon~
+   You stand on the very edge of a canyon.  The horizon on the other side is
+dotted with trees and other signs of flourishing life, but the deadly drop to
+the south makes it far out of your reach.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11360
+D1
+~
+~
+0 -1 11372
+D2
+A Fall to Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 -1 11370
+S
+#11372
+Edge Of A Canyon~
+   You stand on the very edge of a canyon.  The horizon on the other side is
+dotted with trees and other signs of flourishing life, but the deadly drop to
+the south makes it far out of your reach.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11361
+D1
+~
+~
+0 -1 11373
+D2
+A Fall to Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 -1 11371
+S
+#11373
+Edge Of A Canyon~
+   You stand in a barrow that runs straight into the canyon to the south.
+Proceeding that direction would certainly shorten your life as few could
+survive such a fall.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11362
+D1
+~
+~
+0 0 11374
+D2
+A Fall to Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 -1 11372
+S
+#11374
+Edge Of A Canyon~
+   You stand in a barrow that runs straight into the canyon to the south.
+Proceeding that direction would certainly shorten your life as few could
+survive such a fall.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 0 11363
+D1
+~
+~
+0 0 11375
+D2
+A Fall to Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 0 11373
+S
+#11375
+The Edge of the Canyon~
+You stand in a deep barrow that runs along the canyon to the southwest.
+Proceeding that direction would certainly shorten your life - better to
+skirt the canyon altogether and move on.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11364
+D3
+~
+~
+0 0 11374
+S
+#11376
+A Step Into The Canyon~
+   You seem to be caught in some sort of cross wind as you make your plunge
+into the canyon. Suddenly, you realize that not even a magical ward of flying
+would be sufficient to stop the winds from dashing you into the hard, sharp
+surface of the canyon walls that pierce and batter you.
+   Mercifully, you begin to lose consciousness before you reach the thrusting
+spire below you and you take consolation in the fact that your death is not
+a slow one.
+~
+110 32774 0 0 0 4
+S
+#11379
+A Long Tunnel~
+   The passageway seems to open straight back into the mountain.  The light
+from the entranceway to the west glints eerily off your weapon.
+~
+110 32781 0 0 0 0
+D1
+~
+~
+0 -1 11380
+D3
+~
+~
+0 -1 11087
+S
+#11380
+A Long Tunnel~
+   The passageway seems to open eastward back into the mountain, stretching
+west back into the desert.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11381
+D3
+~
+~
+0 -1 11379
+S
+#11381
+A Long Tunnel~
+   The tunnel is cool, almost cold after the hot desert.  The black walls are
+dry to the touch, but the humidity is rising as you go deeper into the ground.
+   The passage continues to the east and west.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11382
+D3
+~
+~
+0 -1 11380
+S
+#11382
+A Long Tunnel~
+   The tunnel is cool, almost cold after the hot desert.  The black walls are
+dry to the touch, but the humidity is rising as you go deeper into the ground.
+   The passage continues to the east and west.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11383
+D3
+~
+~
+0 -1 11381
+S
+#11383
+A Long Tunnel~
+   The tunnel is cool, almost cold after the hot desert.  The black walls are
+dry to the touch, but the humidity is rising as you go deeper into the ground.
+   The passage continues to the east and west.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11384
+D3
+~
+~
+0 -1 11382
+S
+#11384
+A Long Tunnel~
+   You trail your fingers along the wall, stepping over fallen stones and rock
+formations.  The ceiling above you seems to be solid enough for you to be
+comfortable that it will not cave in on you.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11385
+D3
+~
+~
+0 -1 11383
+S
+#11385
+End Of A Long Tunnel~
+   The passageway apparently stops abruptly to the east, but its really too
+dark to be certain.  The cool darkness of the tunnel is refreshing after so 
+long in the desert.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11386
+D3
+~
+~
+0 -1 11384
+S
+#11386
+The Top Of A Hole~
+   You stand precariously at the edge of a hole slightly larger than your
+shoulders.  You could probably drop yourself down safely, but it would be 
+a rough landing and you would have to be skilled at climbing to get back
+up.  The stone walls are actually glistening with moisture now - the first 
+signs of water you've seen outside the desert.
+~
+110 32777 0 0 0 0
+D3
+~
+~
+0 -1 11385
+D5
+A Short Drop to the Ground
+~
+~
+0 -1 11387
+S
+#11387
+A Short Drop To The Ground~
+   A narrow tunnel leads off to the east, and you may be able to scale the
+ledge upwards if you're agile enough.  The rock walls are slick and muddy.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11406
+D4
+~
+~
+0 -1 11386
+S
+#11388
+A Bend In The Tunnel~
+   The tunnel reaches a junction to the south, and seems to abruptly end to
+the east.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11389
+D2
+~
+~
+0 -1 11392
+S
+#11389
+A Dead End~
+   The tunnel comes to a sudden halt behind the dried up form of a mummified
+elf.  The corpse looks as though it would disintegrate if disturbed. Above the
+head of the figure is some writing carved into the stone.
+~
+110 32777 0 0 0 0
+D3
+~
+~
+0 -1 11388
+E
+writing~
+Written in an ancient form of the common language, you see the words:
+                      Beware the Uamphyri!
+     Your blood is their life, and your life is taken easily.
+                      Beware the Pagan Hordes!
+     Your possessions are your mark, and their mark is of the Beast.
+                      Beware the Cruel Gods!
+     Your actions are noted in heaven, and punishment is swift.
+~
+S
+#11390
+A Dead End~
+   The tunnel narrows to a stop in a small cavern.  Something stirs from the 
+walls all around you as you pass by.
+~
+110 32777 0 0 0 0
+D2
+~
+~
+0 -1 11398
+S
+#11391
+A Shiny Cavern~
+   This cavern gleams brightly from pyrite deposits in the walls.  A pit in the
+floor leads down, and a narrow tunnel begins to the east.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11392
+D5
+~
+~
+0 -1 11399
+S
+#11392
+A Junction~
+   The tunnel splits northward here from the east-west tunnel.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11388
+D1
+~
+~
+0 -1 11393
+D3
+~
+~
+0 -1 11391
+S
+#11393
+A Narrow Tunnel~
+   The tunnel narrows to the west, and continues to the east.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11394
+D3
+~
+~
+0 -1 11392
+S
+#11394
+A Narrow Tunnel~
+   The tunnel narrows to the west, and continues to the east.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11395
+D3
+~
+~
+0 -1 11393
+S
+#11395
+A Junction~
+   To the east the tunnel seems to enter a cavern, and a landslide has created
+a large hole in the floor.  To the west the tunnel narrows.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11396
+D3
+~
+~
+0 -1 11394
+D5
+~
+~
+0 -1 11403
+S
+#11396
+The Second Cavern~
+   Your boots crunch on something as you enter the cavern, and you look down
+to see the bones and trappings of some poor desert nomad.  Shining your light
+around, you can't see the floor due to the myriad other shiny skeletons that
+litter the floor.  In the shadows, you sense that the cause of all the death
+looms before you.
+~
+110 32781 0 0 0 0
+D3
+~
+~
+0 -1 11395
+S
+#11397
+A Rocky Tunnel~
+   Stalactites brush you as you pass, and your boots are covered in black mud.
+The tunnel continues east and opens into a large cavern downward.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11398
+D5
+~
+~
+0 -1 11406
+S
+#11398
+A Rocky Tunnel~
+   The tunnel branches to the north here.  The footing is dangerous, and holes
+in the floor reveal tremendous drops if you should slip.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11390
+D1
+~
+~
+0 -1 11399
+D3
+~
+~
+0 -1 11397
+S
+#11399
+A Rocky Tunnel~
+   A large hole in the ceiling reveals another giant room above you.  The t
+tunnel stretches on east and west.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11400
+D3
+~
+~
+0 -1 11398
+D4
+~
+~
+0 -1 11391
+S
+#11400
+A Rocky Tunnel~
+   A cool breeze wafts by you, drying the tunnel walls the lead east and
+west.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11401
+D3
+~
+~
+0 -1 11399
+S
+#11401
+A Rocky Tunnel~
+   You almost stumble into a dark pit in the floor, from which cold air blows
+steadily.  The tunnel continues east and west.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11402
+D3
+~
+~
+0 -1 11400
+D5
+~
+~
+0 -1 11410
+S
+#11402
+A Rocky Tunnel~
+A cool breeze wafts by you, but the tunnel walls are becoming drier. The
+tunnel leads east and west.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11403
+D3
+~
+~
+0 -1 11401
+S
+#11403
+A Landslide~
+A landslide has closed the tunnel to the east, but opened a passable hole
+in the ceiling. You nervously eye the roof inches above your head for signs
+of crumbling, but it seems to be solid rock.
+~
+110 32777 0 0 0 0
+D3
+~
+~
+0 -1 11402
+D4
+~
+~
+0 -1 11395
+S
+#11404
+Inside the Caves~
+Harsh sunlight streams weakly in from the east, not quite illuminating the
+gnarled sandy wall. A pit in the midst of the floor leads down into the
+mountains.
+~
+110 32781 0 0 0 0
+D1
+~
+~
+0 -1 11468
+D5
+~
+~
+0 -1 11413
+S
+#11406
+In the First Cavern~
+Your light doesn't reach the top of this enormous cavern, and the silence is
+overwhelming. A rocky tunnel leads upwards, and hole in the floor goes deeper
+into the earth.
+~
+110 32777 0 0 0 0
+D3
+~
+~
+0 -1 11387
+D4
+~
+~
+0 -1 11397
+D5
+~
+~
+0 -1 11414
+S
+#11407
+The End of the Shaft~
+The shaft opens up into this large room, dusty and obviously made by the same
+creature that created the shaft. The sand on the floor reveals the room has
+been recently occupied.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11408
+S
+#11408
+In the Shaft~
+The walls are unwaveringly level, but rough and marked, possibly by some
+sort of claw. A room opens up to the west, and you strain your ear to
+hear signs of life.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11409
+D3
+~
+~
+0 -1 11407
+S
+#11409
+In the Shaft~
+The walls are unwaveringly level, but rough and marked, possibly by some
+sort of claw.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11410
+D3
+~
+~
+0 -1 11408
+S
+#11410
+Entrance to the Shaft~
+A horizontal shaft has been bored straight through the wall by something
+tremendously strong. Small holes in the thin floor seem to be the source
+of the continual breeze.
+~
+110 32777 0 0 0 0
+D3
+~
+~
+0 -1 11409
+D4
+~
+~
+0 -1 11401
+S
+#11411
+Behind the Waterfall~
+A waterfall streams down before you, bringing a damp mist, but to the east a
+hot sandy wind blows.. the desert must be in that direction. You stand on a
+small ledge behind the waterfall; below you the torrent of water turns into a
+river heading deeper into the mountains.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11412
+D5
+~
+~
+0 -1 11433
+S
+#11412
+A Sandy Tunnel~
+Hot sandy air blows in from the east, but the sound of rushing water from the
+west seems strangely out of place in the desert heat.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11413
+D3
+~
+~
+0 -1 11411
+S
+#11413
+A Sandy Tunnel~
+You can hear the sound of running water to the west, and it calls to you as
+you hatefully eye the sand trickling down from the hole in the ceiling just
+above your head.
+~
+110 32777 0 0 0 0
+D3
+~
+~
+0 -1 11412
+D4
+~
+~
+0 -1 11404
+S
+#11414
+The Muddy Tunnel~
+The black mud is shin deep here, and you trudge through it with effort. A
+slick muddy hole opens above you onto a ledge, and the tunnel continues
+south.
+~
+110 32777 0 0 0 0
+D2
+~
+~
+0 -1 11419
+D4
+~
+~
+0 -1 11406
+S
+#11415
+The Muddy Tunnel~
+You are beginning to feel as you're moving in circles.. all the mud-covered
+walls look the same.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11416
+D3
+~
+~
+0 -1 11418
+S
+#11416
+The Muddy Tunnel~
+You are beginning to feel as you're moving in circles.. all the mud-covered
+walls look the same.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11417
+D2
+~
+~
+0 -1 11422
+D3
+~
+~
+0 -1 11415
+S
+#11417
+The Muddy Tunnel~
+You are beginning to feel as you're moving in circles.. all the mud-covered
+walls look the same.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11418
+D3
+~
+~
+0 -1 11416
+S
+#11418
+The Muddy Tunnel~
+You are beginning to feel as you're moving in circles.. all the mud-covered
+walls look the same.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11415
+D3
+~
+~
+0 -1 11417
+S
+#11419
+The Muddy Tunnel~
+An opening leads east and the tunnel continues north-south...A steady, cool
+breeze blows from the south.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11414
+D1
+~
+~
+0 -1 11420
+D2
+~
+~
+0 -1 11426
+S
+#11420
+The Muddy Tunnel~
+Mud slurps at your knees as you trudge by.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11421
+D3
+~
+~
+0 -1 11419
+S
+#11421
+The Mud Pit~
+You step into the room and start to panic as you sink to your knees, then
+to your thighs, then to your waist. You finally feel solid ground stop you
+from drowning, but at that point the odor of the place overwhelms you. The
+cavern smells worse than the castle sewers.
+~
+110 32777 0 0 0 0
+D3
+~
+~
+0 -1 11420
+S
+#11422
+The Muddy Tunnel~
+You are beginning to feel as you're moving in circles.. all the mud-covered
+walls look the same.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11416
+D1
+~
+~
+0 -1 11423
+D2
+~
+~
+0 -1 11429
+S
+#11423
+The Muddy Tunnel~
+The wind whistling softly by your ears suddenly brings a new sound: running
+water! You force your companions to move faster as you anticipate the taste
+of fresh water for the first time in days.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11424
+D3
+~
+~
+0 -1 11422
+S
+#11424
+The Muddy Tunnel Junction~
+An almost sheer drop to the east ends in a deep pit, but the sound of rushing
+water beckons you to the south. The mud is not as deep here, and not as thick.
+~
+110 32777 0 0 0 0
+D1
+The Bottom of the Slide
+~
+~
+0 -1 11425
+D2
+~
+~
+0 -1 11431
+D3
+~
+~
+0 -1 11423
+S
+#11425
+The Bottom of the Slide~
+Your feet slip out from under you as you try to climb down the treacherous
+incline, and a startled scream slips from between your clenched teeth. After
+a short rough ride, you stand dazed and battered at the bottom of the slide.
+Judging from the bones sticking up out of the mud, you're not the only one
+to have been trapped here.
+~
+110 32781 0 0 0 0
+S
+#11426
+A Bend in the Tunnel~
+The tunnel takes a sharp turn to the east here, and narrows into a crawlspace
+barely large enough to fit yourself into. Only the cold mud that seeps into
+your armor keeps the rocky walls from tearing at your skin as you force your
+way deeper into the cave.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11419
+D1
+~
+~
+0 -1 11427
+S
+#11427
+The Muddy Tunnel~
+Inching yourself along on hands and knees, you begin to feel like heading back
+for a more easily accessible way past the mountains.
+~
+110 32777 0 0 0 5
+D1
+~
+~
+0 -1 11428
+D3
+~
+~
+0 -1 11426
+S
+#11428
+The Muddy Tunnel~
+Inching yourself along on hands and knees, you begin to feel like heading back
+for a more easily accessible way past the mountains.
+~
+110 32777 0 0 0 5
+D1
+~
+~
+0 -1 11429
+D3
+~
+~
+0 -1 11427
+S
+#11429
+The Muddy Tunnel~
+The crawlspace enlarges to let you walk, although stooped over, at a faster
+pace through the tunnel. A narrow slit in the wall leads north, and the tunnel
+continues east.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11422
+D1
+~
+~
+0 -1 11430
+D3
+~
+~
+0 -1 11428
+S
+#11430
+The Dead End~
+The tunnel dead ends here at a mass of tumbled stone mired in the mud.
+~
+110 32777 0 0 0 0
+D3
+~
+~
+0 -1 11429
+S
+#11431
+In the Underground River~
+The shallow river runs rapidly here over smooth stones. You sip a little,
+and it tastes fantastic after so many days in the hot sun. You can follow
+the river to the east, or head north into a muddy tunnel. A small stream of
+water from the ceiling has created a natural well here.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11424
+D1
+~
+~
+0 -1 11432
+S
+#11432
+In the Underground River~
+The sound of splashing water echoes from the east. The water seeps into the
+links of your armor, making the sand grit even more harshly against your skin.
+~
+110 9 0 0 0 6
+D1
+~
+~
+0 -1 11433
+D3
+~
+~
+0 -1 11431
+S
+#11433
+Before the Waterfall~
+A stream of water jets down from the ceiling many feet above you. Behind the
+waterfall you can see a stone ledge.
+~
+110 32777 0 0 0 0
+D3
+~
+~
+0 -1 11432
+D4
+~
+~
+0 -1 11411
+S
+#11434
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11440
+D1
+~
+~
+0 -1 11435
+D2
+~
+~
+0 -1 11440
+D3
+~
+~
+0 -1 11446
+S
+#11435
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.... but to the north you seem to be able to see some sort of 
+structure.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 0 14101
+D1
+~
+~
+0 -1 11440
+D2
+~
+~
+0 -1 11436
+D3
+~
+~
+0 -1 11434
+S
+#11436
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11435
+D1
+~
+~
+0 -1 11437
+D2
+~
+~
+0 -1 11440
+D3
+~
+~
+0 -1 11440
+S
+#11437
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11440
+D1
+~
+~
+0 -1 11440
+D2
+~
+~
+0 -1 11438
+D3
+~
+~
+0 -1 11436
+S
+#11438
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11437
+D1
+~
+~
+0 -1 11439
+D2
+~
+~
+0 -1 11440
+D3
+~
+~
+0 -1 11440
+S
+#11439
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11440
+D1
+~
+~
+0 -1 11440
+D2
+~
+~
+0 -1 11440
+D3
+~
+~
+0 -1 11438
+S
+#11440
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11439
+D1
+~
+~
+0 -1 11441
+D2
+~
+~
+0 -1 11440
+D3
+~
+~
+0 -1 11440
+S
+#11441
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11440
+D1
+~
+~
+0 -1 11440
+D2
+~
+~
+0 -1 11442
+D3
+~
+~
+0 -1 11440
+S
+#11442
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11441
+D1
+~
+~
+0 -1 11443
+D2
+~
+~
+0 -1 11440
+D3
+~
+~
+0 -1 11440
+S
+#11443
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11440
+D1
+~
+~
+0 -1 11440
+D2
+~
+~
+0 -1 11444
+D3
+~
+~
+0 -1 11442
+S
+#11444
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11443
+D1
+~
+~
+0 -1 11445
+D2
+~
+~
+0 -1 11440
+D3
+~
+~
+0 -1 11440
+S
+#11445
+In the Sandstorm~
+Sand swirls all around you in a blinding mist. All directions appear the same,
+and as the weight of the wind blown sand pushes down on you, you feel the end
+growing near.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11440
+D1
+~
+~
+0 -1 11447
+D2
+~
+~
+0 -1 11440
+D3
+~
+~
+0 -1 11444
+S
+#11446
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11448
+D3
+~
+~
+0 -1 11010
+S
+#11447
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11200
+D2
+~
+~
+0 -1 11462
+D3
+~
+~
+0 -1 11445
+S
+#11448
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11446
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11449
+D3
+~
+~
+0 -1 11021
+S
+#11449
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11448
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11450
+D3
+~
+~
+0 -1 11032
+S
+#11450
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11449
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11451
+D3
+~
+~
+0 -1 11043
+S
+#11451
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11450
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11452
+D3
+~
+~
+0 -1 11054
+S
+#11452
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11451
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11453
+D3
+~
+~
+0 -1 11065
+S
+#11453
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot. A
+large jut of rock blocks your way south.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11452
+D1
+~
+~
+0 -1 11434
+D3
+~
+~
+0 -1 11076
+S
+#11454
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot. A
+large jut of rock blocks your way north.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11455
+D3
+~
+~
+0 -1 11098
+S
+#11455
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11454
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11456
+D3
+~
+~
+0 -1 11109
+S
+#11456
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11455
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11457
+D3
+~
+~
+0 -1 11120
+S
+#11457
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11456
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11458
+D3
+~
+~
+0 -1 11131
+S
+#11458
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11457
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11459
+D3
+~
+~
+0 -1 11142
+S
+#11459
+The Edge of the Storm~
+   The wind picks up speed quickly.  Black sand whips around you, tearing
+at your exposed flesh.  To the east the storm rages furiously, while a
+short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11458
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11460
+D3
+~
+~
+0 -1 11153
+S
+#11460
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11459
+D1
+~
+~
+0 -1 11434
+D2
+~
+~
+0 -1 11461
+D3
+~
+~
+0 -1 11164
+S
+#11461
+The Edge of the Storm~
+The wind picks up speed in the blink of an eye. Black sand whips around you,
+tearing at your exposed flesh. To the east the storm rages furiously, while
+a short distance west it is calm and peaceful, though still hellishly hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11460
+D1
+~
+~
+0 -1 11434
+D3
+~
+~
+0 -1 11175
+S
+#11462
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11447
+D1
+~
+~
+0 -1 11211
+D2
+~
+~
+0 -1 11463
+D3
+~
+~
+0 -1 11445
+S
+#11463
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11462
+D1
+~
+~
+0 -1 11222
+D2
+~
+~
+0 -1 11464
+D3
+~
+~
+0 -1 11445
+S
+#11464
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11463
+D1
+~
+~
+0 -1 11233
+D2
+~
+~
+0 -1 11465
+D3
+~
+~
+0 -1 11445
+S
+#11465
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11464
+D1
+~
+~
+0 -1 11244
+D2
+~
+~
+0 -1 11466
+D3
+~
+~
+0 -1 11445
+S
+#11466
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11465
+D1
+~
+~
+0 -1 11255
+D2
+~
+~
+0 -1 11467
+D3
+~
+~
+0 -1 11445
+S
+#11467
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11466
+D1
+~
+~
+0 -1 11266
+D2
+~
+~
+0 -1 11468
+D3
+~
+~
+0 -1 11445
+S
+#11468
+Entrance to the Tunnel~
+A hole in the sand to the west leads under a small dune. The storm to the west
+causes sand to pour steadily into the opening, threatening to seal off the
+entrance at any time. Although the threat of being buried alive scares you, the
+darkness looks inviting after so long in the blinding sun and sand.
+~
+110 32772 0 0 0 12
+D0
+~
+~
+0 -1 11467
+D1
+~
+~
+0 -1 11277
+D2
+~
+~
+0 -1 11469
+D3
+~
+~
+0 -1 11404
+S
+#11469
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11468
+D1
+~
+~
+0 -1 11288
+D2
+~
+~
+0 -1 11470
+D3
+~
+~
+0 -1 11445
+S
+#11470
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11469
+D1
+~
+~
+0 -1 11299
+D2
+~
+~
+0 -1 11471
+D3
+~
+~
+0 -1 11445
+S
+#11471
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11470
+D1
+~
+~
+0 -1 11310
+D2
+~
+~
+0 -1 11472
+D3
+~
+~
+0 -1 11445
+S
+#11472
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11471
+D1
+~
+~
+0 -1 11321
+D2
+~
+~
+0 -1 11473
+D3
+~
+~
+0 -1 11445
+S
+#11473
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11472
+D1
+~
+~
+0 -1 11332
+D2
+~
+~
+0 -1 11474
+D3
+~
+~
+0 -1 11445
+S
+#11474
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11473
+D1
+~
+~
+0 -1 11343
+D2
+~
+~
+0 -1 11475
+D3
+~
+~
+0 -1 11445
+S
+#11475
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11474
+D1
+~
+~
+0 -1 11354
+D2
+~
+~
+0 -1 11476
+D3
+~
+~
+0 -1 11445
+S
+#11476
+The Edge of the Storm~
+The black sand at your feet jumps into the air as a freak storm suddenly
+springs right on top of you. The air is dark with gale force winds to the west
+while a short distance east it is calm and peaceful, though still hellishly
+hot. You almost fall to your death as you perch perilously on the edge of
+deep canyon south of you.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11475
+D1
+~
+~
+0 -1 11365
+D2
+A Fall To Your Death
+~
+~
+0 -1 11376
+D3
+~
+~
+0 -1 11445
+S
+#11477
+Outside the Abandoned Citadel~
+The crest on the doors before you shows this to be the ancient Citadel, used
+by the Knights of Solamnia as a meeting place for strategic planning against
+the forces of the dark pagan hordes. History says that evil magic besieged the 
+Citadel with their magical arts, forcing it open and slaying all within.
+When the last tortured scream of the knights died out, they perversed their
+spirits with the forces of the entire black coven, and banished the Citadel 
+here as a last insult to the brave knights that tried to defend their homeland.
+~
+110 32768 0 0 0 10
+D1
+The Doors of the Citadel
+~
+doors~
+1 -1 11478
+D3
+~
+~
+0 -1 11276
+S
+#11478
+Inside the Abandoned Citadel~
+The ceiling is cracked and blackened, and the very stone of the walls seems
+to be warped from the terrors and magics that were worked here. The desert
+lies through the great doors to the west, and an enormous spiral staircase is
+northeast of here.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11480
+D1
+~
+~
+0 -1 11479
+D3
+Outside the Citadel
+~
+doors~
+1 -1 11477
+S
+#11479
+In the Abandoned Citadel~
+A great stone spiral staircase is north of here, and the exit to the west
+leads into the abandoned citadel. The air seems to echo with the spirits of the
+dead.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11481
+D3
+~
+doors~
+0 -1 11478
+S
+#11480
+In the Abandoned Citadel~
+A great stone spiral staircase is east of here, and the exit to the south leads
+into the citadel south. The air seems to echo with the spirits of the dead. 
+~
+110 32776 0 0 0 0
+D1
+~
+~
+0 -1 11481
+D2
+~
+~
+0 -1 11478
+S
+#11481
+In the Abandoned Citadel~
+The spiral stairway rises above you, fading into darkness before you can see
+the roof. An enormous pile of bleached bones has built up in the middle of the
+stair's spiral, obviously having been flung down from above. Insects crawl all
+about, living off of this macabre spectacle.
+~
+110 32776 0 0 0 0
+D2
+~
+~
+0 -1 11479
+D3
+~
+doors~
+0 -1 11480
+D4
+~
+~
+0 -1 11482
+S
+#11482
+On the Spiral Staircase~
+The stairs spiral upwards to the roof of the Citadel. The individual steps
+are so large it takes two paces to cross them, and the craftsmanship that
+keeps them from crushing under their own weight astounds you.
+~
+110 32780 0 0 0 0
+D4
+~
+~
+0 -1 11486
+D5
+~
+~
+0 -1 11481
+S
+#11483
+In the Abandoned Citadel~
+The spiral staircase continues to rise here. You can see sunlight shining into
+the level above you.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11485
+D1
+~
+~
+0 -1 11484
+D4
+~
+~
+0 -1 11487
+S
+#11484
+In the Abandoned Citadel~
+This corner of the landing houses a remarkable tapestry preserved by the
+desert heat. It pictures Knights of Solamnia battering down the ferocious
+Jun Horde. The spiral staircase heads down to the north, and upwards west of
+here.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11486
+D3
+~
+~
+0 -1 11483
+S
+#11485
+In the Abandoned Citadel~
+The floor seems unstable here, crumbling beneath your feet. Obviously the dark
+magics transportation of the Citadel caused considerable strain to the 
+structure.
+~
+110 32776 0 0 0 0
+D1
+~
+~
+0 -1 11486
+D2
+~
+~
+0 -1 11483
+S
+#11486
+In the Abandoned Citadel~
+The stairs make a landing here, continuing upwards to the southwest and
+heading back down at this point to the ground level.
+~
+110 32776 0 0 0 0
+D2
+~
+~
+0 -1 11484
+D3
+~
+~
+0 -1 11485
+D5
+~
+~
+0 -1 11482
+S
+#11487
+On the Spiral Staircase~
+The stairs spiral upwards to the roof of the Citadel. The individual steps
+are so large it takes two paces to cross them, and the craftsmanship that
+keeps them from crushing under their own weight astounds you.
+~
+110 32780 0 0 0 0
+D4
+~
+~
+0 -1 11488
+D5
+~
+~
+0 -1 11483
+S
+#11488
+In the Abandoned Citadel~
+The wall to the west has a gaping hole in it, giving a terrific view of the
+rolling sand dunes of the desert below. A great sand storm brews on the
+horizon, and you hope that it quickly dissipates and does not head this way.
+The spiral stair continues to the northeast.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11490
+D1
+~
+~
+0 -1 11489
+D5
+~
+~
+0 -1 11487
+S
+#11489
+In the Abandoned Citadel~
+You see a shadow cast from above cross the stairs to the north. Battle fear
+creeps slowly into your system, heightening your senses and quickening your
+pulse.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11491
+D3
+~
+~
+0 -1 11488
+S
+#11490
+In the Abandoned Citadel~
+   The stone walls of the Citadel are hot to the touch, obviously being
+baked from outside by the blistering sun. The stairs leads up to the east
+and down to the south.
+   Something shakes the ceiling above you, bringing dust down onto your
+head.
+~
+110 32776 0 0 0 0
+D1
+~
+~
+0 -1 11491
+D2
+~
+~
+0 -1 11488
+S
+#11491
+In the Abandoned Citadel~
+A loud scuffling on the floor above you is suddenly quiet as you approach
+the base of the stairs. Only your party's measured breathing can be heard.
+~
+110 32776 0 0 0 0
+D2
+~
+~
+0 -1 11489
+D3
+~
+~
+0 -1 11490
+D4
+~
+~
+0 -1 11492
+S
+#11492
+On the Spiral Staircase~
+The stairs spiral upwards to the roof of the Citadel. Sunlight glinting from
+below seems to fade into blackness as you concentrate on surviving the monster
+above you.
+~
+110 32780 0 0 0 0
+D4
+~
+~
+0 -1 11496
+D5
+~
+~
+0 -1 11491
+S
+#11493
+The Lair of the Dragon~
+This corner of the room is obviously the Brass Dragon's sleeping quarters.
+The floor is littered with treasures mingled admist fleshless skeletons.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11495
+D1
+~
+~
+0 -1 11494
+S
+#11494
+The Dragon's Floor~
+Solamnic runes cover the walls, denoting this as the floor belonging to the
+most powerful magic-users among the Knights. Scratch marks from dragon's
+talons mar the stone floor.
+~
+110 32776 0 0 0 0
+D0
+~
+~
+0 -1 11496
+D3
+~
+~
+0 -1 11493
+S
+#11495
+The Dragon's Floor~
+Solamnic runes cover the walls, denoting this as the floor belonging to the
+most powerful magic-users among the Knights. Scratch marks from dragon's
+talons mar the stone floor.
+~
+110 32776 0 0 0 0
+D1
+~
+~
+0 -1 11496
+D2
+~
+~
+0 -1 11493
+S
+#11496
+The Dragon's Floor~
+A huge Brass Dragon eyes you from across the room. He has evidently set up
+residence here in the absence of a suitable cave, and seems angered at your
+intrusion into his home.
+~
+110 32776 0 0 0 0
+D2
+~
+~
+0 -1 11494
+D3
+~
+~
+0 -1 11495
+D5
+~
+~
+0 -1 11492
+S
+#11497
+Entrance to the Lair of the Blue Dragon~
+Harsh sunlight pours down on your head from above, but does not reach into
+the cavern hollowed out of the earth to the south. No sound can be heard
+from within.
+~
+110 32780 0 0 0 0
+D2
+~
+~
+0 -1 11499
+D4
+~
+~
+0 -1 11155
+S
+#11498
+The Lair of the Blue Dragon~
+The black rock walls reflect no light, and the sand floor absorbs all sound.
+The blue dragon seems to come at you from all directions.
+~
+110 32777 0 0 0 0
+D1
+~
+~
+0 -1 11499
+D2
+~
+~
+0 -1 11501
+S
+#11499
+The Lair of the Blue Dragon~
+A rustle in the dark makes you curse your eyes, struggling to adjust to the
+darkness. Light filters in from the north, but doesn't illuminate anything
+but your companions.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11497
+D1
+~
+~
+0 -1 11500
+D2
+~
+~
+0 -1 11502
+D3
+~
+~
+0 -1 11498
+S
+#11500
+The Lair of the Blue Dragon~
+The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+110 32777 0 0 0 0
+D2
+~
+~
+0 -1 11503
+D3
+~
+~
+0 -1 11499
+S
+#11501
+The Lair of the Blue Dragon~
+The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11498
+D1
+~
+~
+0 -1 11502
+D2
+~
+~
+0 -1 11504
+S
+#11502
+The Lair of the Blue Dragon~
+The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+110 32777 0 0 0 4
+D0
+~
+~
+0 -1 11499
+D1
+~
+~
+0 -1 11503
+D2
+~
+~
+0 -1 11505
+D3
+~
+~
+0 -1 11501
+S
+#11503
+The Lair of the Blue Dragon~
+The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11500
+D2
+~
+~
+0 -1 11506
+D3
+~
+~
+0 -1 11502
+S
+#11504
+The Lair of the Blue Dragon~
+The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11501
+D1
+~
+~
+0 -1 11505
+S
+#11505
+The Lair of the Blue Dragon~
+The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11502
+D1
+~
+~
+0 -1 11506
+D2
+~
+secret door~
+1 666 11507
+D3
+~
+~
+0 -1 11504
+S
+#11506
+The Lair of the Blue Dragon~
+The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+110 32777 0 0 0 0
+D0
+~
+~
+0 -1 11503
+D3
+~
+~
+0 -1 11505
+S
+#11507
+The Dragon's Horde~
+This must have been the dragon's treasure room.. sapphires and gold lie all
+around.
+~
+110 32777 0 0 0 0
+D0
+~
+door~
+1 -1 11505
+S
+#11508
+The Maharajah's Quarters~
+You see an elegantly decorated room with many finely made tapestries of the
+Brown Dragon hanging on the walls. Many scantily clad Rakshasi consorts
+surround the Maharajah and succumb to his every desire.
+~
+110 32776 0 0 0 0
+D5
+A trapdoor in the floor.
+~
+door~
+1 -1 11313
+S
+#11509
+A Dusty Trail~
+The trail leads north and south around a high fence to the west.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11263
+D1
+~
+~
+0 -1 11510
+D2
+~
+~
+0 -1 11285
+S
+#11510
+The Desert~
+You stand just east of a worn trail. The sun burns hot on the desert in all
+other directions.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11264
+D1
+~
+~
+0 -1 11276
+D2
+~
+~
+0 -1 11286
+D3
+~
+~
+0 -1 11509
+S
+#11511
+The Lair of the Dracolich~
+All is dark here....
+~
+110 32781 0 0 0 0
+D1
+~
+~
+0 -1 11512
+S
+#11512
+Outside the Abandoned Lair~
+A deep pit opens into the ground before you. Within is total darkness.
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11000
+D3
+~
+~
+0 -1 11511
+S
+#11513
+In a Strange Cave~
+You stand in a cave seemingly carved from solid rock. Loose desert sand sifts
+down  in through the opening above your head. To the south, a dark hole
+opens into a gigantic cavern. Tracks beneath your feet can only be those of a
+dragon.
+~
+110 32776 0 0 0 0
+D2
+~
+~
+0 0 11514
+D4
+~
+~
+0 0 11363
+S
+#11514
+In the Dragon's Lair~
+Bones and bits of armor litter the floor here, and the rock walls are scarred 
+from the centuries of abrasion against the dragon's diamond-hard scales.
+The only exit is to the north.
+~
+110 32780 0 0 0 0
+D0
+~
+~
+0 0 11513
+S
+#11666
+The Temple of Serapis~
+A bloodstained throne rises before you between black onyx columns. The
+vaulted ceiling rises out of sight, but half-rotted corpses dangle down to
+eye level on silver hooks. Great tapestries line the walls: a picture of
+Pagan and Chalkara fighting a huge lich in Market Square; a picture of a
+broken corpse in the baker's stall; and a huge picture of the Goddess Tresia
+lounging on a bed surrounded by sleek-furred tigers. 
+~
+110 520 0 0 0 0
+D1
+A dark cavernous room containing a deep well.
+~
+~
+0 -1 11667
+D5
+~
+~
+0 -1 8008
+S
+#11667
+The Well of Souls~
+Serapis' most horrific creatures are sprung into existence here, in the depths
+of the brackish pool that fills the center of the room. A ball of light hangs
+suspended by magick in the air above the pool, filling the room with a soft
+glow that seems to make more shadows than it dispels. The entrance to the west
+seems to have disappeared.
+~
+110 136 0 0 0 0
+S
+$~

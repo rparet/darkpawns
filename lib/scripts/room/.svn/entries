@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1523"
+   name=""
+   committed-date="2008-06-20T20:24:47.938361Z"
+   url="file:///var/svn/trunk/2.2/lib/scripts/room"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   name="archive"
+   kind="dir"/>
+<entry
+   name="30"
+   kind="dir"/>
+<entry
+   committed-rev="1523"
+   name="pattern_tport.lua"
+   text-time="2008-07-09T01:02:48.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="affe7f0f9aed638b32ca0a8ad3de834c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:48.000000Z"/>
+</wc-entries>

@@ -1,0 +1,752 @@
+#8000
+beer barrel~
+a barrel~
+A beer barrel has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+12 12 1 0
+55 30 100.00
+#8001
+beer cask~
+a cask~
+A cask of beer has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 1 0
+13 3 100.00
+#8002
+ale bottle dark~
+a bottle~
+A dark bottle of ale has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 3 0
+13 2 100.00
+#8003
+firebreather bottle~
+a clear bottle~
+A clear bottle with a dragon's head on the label lies here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 7 0
+13 15 100.00
+#8004
+local bottle~
+a dark bottle~
+A dark bottle has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 8 0
+13 2 100.00
+#8005
+cup tin~
+a tin cup~
+A tin cup lies here in the dust.~
+~
+17 0 0 0 0 16385 0 0 0
+1 1 4 0
+2 3 100.00
+#8006
+belt pouch beltpouch~
+a beltpouch~
+A beltpouch lies on the ground.~
+~
+15 0 0 0 0 2049 0 0 0
+18 5 -1 0
+1 50 25.00
+#8007
+ring wedding band~
+a wedding band~
+A small ring of gold lies here.~
+~
+11 0 0 0 0 3 0 0 0
+0 0 0 0
+1 5 100.00
+E
+ring wedding band~
+Inscribed on the inside in flowing script are the words:
+"Forever in Love"
+~
+#8008
+necklace runed~
+a runed necklace~
+A runed, golden necklace lies here.~
+~
+9 0 0 0 0 5 0 0 0
+2 0 0 0
+2 25 100.00
+E
+necklace runes runed~
+The necklace is inscribed with a minor rune of protection.
+~
+#8010
+loaf bread~
+a loaf of bread~
+A loaf of bread lies here.~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0
+2 3 100.00
+#8011
+danish pastry~
+a danish pastry~
+A nice looking delicious danish pastry has been placed here.~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0
+1 2 100.00
+#8012
+canteen~
+a canteen~
+A shiny canteen lies on the ground.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 0 0
+13 16 100.00
+#8015
+meat chunk~
+a piece of meat~
+A rather dubious looking piece of meat is on the ground here.~
+~
+19 0 0 0 0 1 0 0 0
+14 0 0 0
+5 14 100.00
+E
+meat~
+It's not so much that the meat looks poisoned or anything, but that you
+just are not sure of it's origins.  You doubt that a hunter would drop a
+side of venison or rabbit meat... what in the world could this meat have
+come from, you wonder...
+~
+#8019
+tunic~
+a frayed tunic~
+A frayed tunic is lying on the ground.~
+~
+11 131072 0 0 0 9 0 0 0
+0 0 0 0
+10 0 100.00
+A
+17 -1
+#8020
+dagger~
+a dagger~
+A dagger with a long thin blade is here.~
+pierce~
+5 0 0 0 0 8193 0 0 0
+0 1 6 11
+1 20 100.00
+#8021
+short sword~
+a short sword~
+A short sword lies here.~
+slash~
+5 0 0 0 0 8193 0 0 0
+0 1 6 11
+3 30 100.00
+E
+inscription~
+It says: "May this sword be a good companion."
+~
+E
+sword small~
+The small sword seems to have an inscription of some sort inscription...~
+#8022
+sword long~
+a long sword~
+A long sword has been left here.~
+slash~
+5 0 0 0 0 8193 0 0 0
+0 3 4 3
+8 55 100.00
+#8023
+club wooden~
+a wooden club~
+A simple looking wooden club is here.~
+pound~
+5 0 0 0 0 8193 0 0 0
+0 1 6 7
+3 12 100.00
+#8024
+warhammer hammer~
+a warhammer~
+A medium sized warhammer is here.~
+pound~
+5 0 0 0 0 8193 0 0 0
+0 1 8 7
+6 45 100.00
+#8025
+flail large~
+a flail~
+A large flail is here.~
+pound~
+5 0 0 0 0 8193 0 0 0
+0 3 3 6
+6 85 100.00
+#8026
+axe battle~
+a battle axe~
+A battle axe is here.~
+~
+5 8192 0 0 0 8193 0 0 0
+0 4 3 3
+13 301 100.00
+#8027
+lockpicks picks set~
+a set of lockpicks~
+A set of lockpicks have been left here.~
+~
+12 65536 0 0 0 16385 0 0 0
+0 0 0 0
+1 5 100.00
+E
+picks lockpicks pick~
+It's a set of wires and strangely-shaped ribbons of metal fastened together
+by a steel ring. With these and a little bit of skill, you could pick most
+anything.
+~
+#8028
+picks lockpicks~
+a broken set of lockpicks~
+A mangled set of lockpicks lie here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+E
+pick picks lockpicks~
+They're broken beyond repair, and certainly beyond use.
+~
+#8030
+torch~
+a torch~
+A large torch.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 24 0
+1 3 3.00
+#8031
+lantern~
+a lantern~
+A brass lantern is here.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 96 0
+1 32 100.00
+#8032
+bag~
+a bag~
+A small bag is here.~
+~
+15 0 0 0 0 16385 0 0 0
+30 0 0 0
+2 20 100.00
+#8033
+box~
+a box~
+A small box is here.~
+~
+15 0 0 0 0 16385 0 0 0
+40 0 0 0
+5 50 100.00
+#8034
+atm teller bank machine~
+an automatic teller machine~
+An automatic teller machine has been installed in the wall here.~
+~
+12 16 0 0 0 0 0 0 0
+0 0 0 0
+5000 100 100.00
+E
+atm teller bank machine~
+There is a small note on the machine which says:
+
+To use, type "BALANCE", "WITHDRAW x", or "DEPOSIT x".  Please report any
+strange occurrences to the bank manager.
+~
+#8035
+fountain water~
+the large fountain~
+A large fountain carved from blue-streaked marble is here, bubbling merrily.~
+It is a well crafted fountain, carved from a single piece of marble.  It seems
+to be enchanted in some manner, as the water level seems to never lower.
+~
+23 80 0 0 0 0 0 0 0
+999999 999999 15 0
+1000004 0 100.00
+E
+marble blue streaked~
+It is very beautiful white marble, shot through with electric blue streaks
+that look almost like lightning dancing along the sides of the fountain.
+~
+#8036
+dagger~
+a dagger~
+A small, sharp dagger is on the ground here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 6 11
+1 20 100.00
+#8037
+short sword~
+a short sword~
+A shiny short sword is here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 6 3
+5 30 100.00
+#8038
+backpack pack~
+a backpack~
+A well-used backpack lies in the dirt here.~
+~
+15 65544 0 0 0 17417 0 0 0
+20 5 -1 0
+1 0 100.00
+E
+backpack pack~
+It's a leather pack, well-used yet still operational; the flap on top
+opens and closes securely.
+~
+#8040
+breast plate~
+a breast plate~
+A breast plate is lying on the ground.~
+~
+9 0 0 0 0 9 0 0 0
+7 0 0 0
+40 300 100.00
+#8041
+chain mail shirt~
+a chain mail shirt~
+A chain mail shirt is lying on the ground.~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0
+22 250 100.00
+#8042
+shield~
+a shield~
+A small wooden shield is lying on the ground.~
+~
+9 0 0 0 0 513 0 0 0
+2 0 0 0
+7 50 100.00
+#8043
+jacket soft leather~
+a leather jacket~
+A soft leather jacket is lying on the ground.~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0
+10 30 100.00
+#8044
+jacket studded~
+a studded leather jacket~
+A studded leather jacket is lying on the ground.~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0
+6 50 100.00
+#8045
+jacket scale mail~
+a scale mail jacket~
+A scale mail jacket is lying on the ground.~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0
+25 275 100.00
+#8046
+bronze breast plate~
+a bronze breast plate~
+A bronze breast plate is lying on the ground.~
+~
+9 0 0 0 0 9 0 0 0
+6 0 0 0
+40 290 100.00
+#8050
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 64 0 0 0 16385 0 0 0
+30 60 0 0
+1 1200 100.00
+E
+scroll identify~
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+~
+#8051
+potion yellow seeinvis~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+~
+10 64 0 0 0 16385 0 0 0
+12 19 -1 -1
+1 400 100.00
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#8052
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 64 0 0 0 16385 0 0 0
+12 42 -1 -1
+2 150 100.00
+E
+scroll~
+The scroll has written a formulae of 'Word of Recall' upon it.
+~
+#8053
+wand invis~
+a wand of invisibility~
+A wand has carelessly been left here.~
+~
+3 64 0 0 0 16385 0 0 0
+12 2 2 29
+2 1000 100.00
+E
+wand~
+The wand is an old dark stick.  You notice a small symbol etched at the
+base of the wand.  It looks like this:
+
+     \ /
+    - O -
+     / \
+~
+#8054
+staff sleep~
+a staff of sleep~
+A staff has carelessly been left here.~
+~
+4 64 0 0 0 16385 0 0 0
+12 1 1 38
+17 800 800.00
+E
+staff~
+The staff is made of old oak, and is around five feet long. It fits
+perfectly into your hand. You notice a small symbol etched at the
+base of the staff, it looks like:
+
+  ZZZZZ
+     Z
+    Z
+   Z
+  ZZZZZ  z   z
+~
+#8055
+staff~
+a staff of healing~
+A staff has carelessly been left here.~
+~
+4 64 0 0 0 16385 0 0 0
+10 8 8 15
+7 8500 8500.00
+E
+staff~
+The staff is made of metals unknown to you.
+~
+#8060
+raft~
+a raft~
+A raft has been left here.~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0
+75 40 100.00
+E
+raft~
+The raft looks very primitive.
+~
+#8061
+canoe~
+a canoe~
+A canoe has been left here.~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0
+32 1000 10.00
+E
+canoe~
+The canoe is fairly light.
+~
+#8062
+magical magic mushroom~
+a Magic Mushroom~
+A beautiful multicolored mushroom has been left on the ground.~
+~
+19 64 0 0 0 1 0 0 0
+12 0 0 0
+1 0 100.00
+#8063
+water skin~
+a water skin~
+A leather water skin has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+5 5 0 0
+10 0 100.00
+#8064
+board bulletin customs~
+a bulletin board~
+A large board filled with items for sale or trade hangs from the wall.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10 0 100.00
+#8065
+board chosen~
+a chosen board~
+A holy looking bulletin board has been mounted on a wall here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10 0 100.00
+#8066
+chest runed~
+a runed chest~
+A large chest sits here, inscribed with dozens of magick runes.~
+~
+15 89 0 0 0 0 0 0 0
+1000 1 -1 0
+333 0 100.00
+E
+chest runed~
+It is covered in dozens of magick runes; some you recognize as common warding
+symbols, some as sigils of strength and permanence. Other symbols on the 
+chest almost glow with a light of their own... The chest itself looks
+extremely heavy and unbreakable.
+~
+#8067
+cabinet weapons golden~
+a golden weapons cabinet~
+A golden weapons cabinet takes up most of the wall.~
+~
+15 25 0 0 0 0 0 0 0
+1000 1 -1 0
+333 0 100.00
+E
+cabinet weapons golden~
+Almost head high and twice as wide, this cabinet is a tribute to dwarven
+craftsmanship. The exterior is gold foil, inlaid with precious stones and 
+etched with scenes of battle. The glass front is of such quality it could
+only have been created by magic, and the felt-lined interior can hold dozens
+of weapons.
+~
+#8068
+case armor display~
+an armor display case~
+An armor display case is mounted in the stone here.~
+~
+15 1 0 0 0 0 0 0 0
+1000 1 -1 0
+333 0 100.00
+E
+case armor display~
+It is mounted about a foot off the floor, and rises just above eye-level.
+Housed within it are stands for suits of armor, shields and helms, and the
+entire case itself seems a tribute to prowess in war. 
+~
+#8070
+gauntlets bronze~
+a pair of bronze gauntlets~
+A pair of bronze gauntlets is lying on the ground.~
+~
+9 0 0 0 0 129 0 0 0
+6 0 0 0
+8 150 100.00
+#8071
+gloves leather~
+a pair of leather gloves~
+A pair of leather gloves is lying on the ground.~
+~
+9 0 0 0 0 129 0 0 0
+1 0 0 0
+2 30 1010.00
+#8075
+helmet bronze~
+a bronze helmet~
+A bronze helmet is lying on the ground.~
+~
+9 0 0 0 0 17 0 0 0
+6 0 0 0
+8 300 100.00
+#8076
+cap leather~
+a leather cap~
+A leather cap is lying on the ground.~
+~
+9 0 0 0 0 17 0 0 0
+2 0 0 0
+3 20 100.00
+#8077
+ring of holy fire~
+a ring of holy fire~
+A ring encased in magical fire lies here.~
+~
+11 132097 0 0 0 3 0 0 0
+0 0 0 0
+1 8000 100.00
+A
+12 5
+A
+25 6
+#8078
+dagger of vengeance~
+a dagger of vengeance~
+A wicked looking dagger lies here.~
+~
+5 131072 0 0 0 8193 0 0 0
+0 4 4 11
+3 5000 10.00
+A
+18 1
+A
+19 1
+A
+5 -1
+#8080
+leggings bronze~
+a pair of bronze leggings~
+A pair of bronze leggings is lying on the ground.~
+~
+9 0 0 0 0 33 0 0 0
+6 0 0 0
+8 500 100.00
+#8081
+pants leather~
+a pair of leather pants~
+A pair of leather pants is lying on the ground.~
+~
+9 0 0 0 0 33 0 0 0
+3 0 0 0
+8 30 100.00
+#8085
+sleeves bronze~
+a pair of bronze sleeves~
+A pair of bronze sleeves is lying on the ground.~
+~
+9 0 0 0 0 257 0 0 0
+6 0 0 0
+8 200 100.00
+#8086
+sleeves leather~
+a pair of leather sleeves~
+A pair of leather sleeves is lying on the ground.~
+~
+9 0 0 0 0 257 0 0 0
+1 0 0 0
+3 20 100.00
+#8087
+fountain water~
+the large fountain~
+A large fountain carved from blue-streaked marble is here, bubbling merrily.~
+It is a well crafted fountain, carved from a single piece of marble.  It seems
+to be enchanted in some manner, as the water level seems to never lower.
+~
+23 80 0 0 0 0 0 0 0
+999999 999999 15 0
+1000004 0 100.00
+E
+marble blue streaked~
+It is very beautiful white marble, shot through with electric blue streaks
+that look almost like lightning dancing along the sides of the fountain.
+~
+#8089
+golden bracers~
+golden bracers~
+Some golden bracers lie here in the dust.~
+~
+9 131072 0 0 0 257 0 0 0
+9 0 0 0
+10 3000 15.00
+A
+1 1
+A
+13 2
+#8095
+changes made bulletin board~
+A mystical, floating, neon-lit bulletin board is here.~
+A mystical, floating, neon-lit bulletin board is here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0.00
+E
+board~
+Try "look board" to read the messages.
+~
+#8096
+board area creation bulletin~
+an area creation bulletin board~
+A large bulletin board dedicated to the creation of areas is here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+9999 0 100.00
+E
+board~
+If you can read this, the board is not working. Try "look board".
+~
+#8097
+board frozen bulletin~
+a frozen bulletin board~
+A large bulletin board is here, carved from a block of ice.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+9999 10000 100.00
+E
+board~
+If you can read this, the board is not working. Try "look board".
+~
+#8098
+board holy bulletin~
+a holy bulletin board~
+A large bulletin board is mounted on a wall here.  It glows with a faint aura.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+9999 0 100.00
+E
+board~
+Try "look board" to read the messages.
+~
+#8099
+board bulletin~
+a bulletin board~
+A large bulletin board is mounted on a wall here.~
+~
+13 16 0 0 0 0 0 0 0
+0 0 0 0
+9999 0 100.00
+E
+board~
+Try "look board" to read the messages.
+~
+#8100
+chest~
+a sturdy chest~
+A sturdy chest is here.~
+~
+15 0 0 0 0 1 0 0 0
+1000000 0 -1 0
+500 0 100.00
+#8101
+potion yellow invis~
+a yellow potion~
+A yellowish potion is here.~
+~
+10 0 0 0 0 1 0 0 0
+10 19 0 0
+1 110 100.00
+$~

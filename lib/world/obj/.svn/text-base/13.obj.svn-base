@@ -1,0 +1,272 @@
+#1300
+talisman earth elemental~
+an elemental talisman of earth~
+An elemental talisman of earth has been dropped here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+2 400 25.00
+E
+talisman earth elemental~
+The talisman has been carved into the shape of an elemental god
+but you are unfamiliar with the figure. There is a small symbol on
+the back of the talisman which identifies it as the element of earth.
+~
+#1301
+talisman air elemental~
+an elemental talisman of air~
+An elemental talisman of air has been dropped here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+2 400 20.00
+E
+talisman air elemental~
+The talisman has been carved into the shape of an elemental god
+but you are unfamiliar with the figure. There is a small symbol on
+the back of the talisman which identifies it as the element of air.
+~
+#1302
+talisman fire elemental~
+an elemental talisman of fire~
+An elemental talisman of fire has been dropped here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+2 400 20.00
+E
+talisman fire elemental~
+The talisman has been carved into the shape of an elemental god
+but you are unfamiliar with the figure. There is a small symbol on
+the back of the talisman which identifies it as the element of fire.
+~
+#1303
+talisman water elemental~
+an elemental talisman of water~
+An elemental talisman of water has been dropped here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+2 400 20.00
+E
+talisman water elemental~
+The talisman has been carved into the shape of an elemental god
+but you are unfamiliar with the figure. There is a small symbol on
+the back of the talisman which identifies it as the element of water.
+~
+#1304
+green cylinder light~
+the green cylinder of light~
+A green cylinder of light extends upwards from the top of the pillar.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+green cylinder light~
+It's relatively small, perhaps only 2 feet tall. You can't seem to
+find the source of the light but the talisman certainly triggered
+it's appearance.
+~
+#1305
+yellow cylinder light~
+the yellow cylinder of light~
+A yellow cylinder of light extends upwards from the top of the pillar.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+yellow cylinder light~
+It's relatively small, perhaps only 2 feet tall. You can't seem to
+find the source of the light but the talisman certainly triggered
+it's appearance.
+~
+#1306
+red cylinder light~
+the red cylinder of light~
+A red cylinder of light extends upwards from the top of the pillar.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+red cylinder light~
+It's relatively small, perhaps only 2 feet tall. You can't seem to
+find the source of the light but the talisman certainly triggered
+it's appearance.
+~
+#1307
+blue cylinder light~
+the blue cylinder of light~
+A blue cylinder of light extends upwards from the top of the pillar.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+blue cylinder light~
+It's relatively small, perhaps only 2 feet tall. You can't seem to
+find the source of the light but the talisman certainly triggered
+it's appearance.
+~
+#1308
+earthly shield rock stone~
+an earthly shield~
+A shield made solely from rock and stone lies heavily on the ground.~
+~
+9 64 0 0 0 513 0 0 0
+15 0 0 0
+30 900 10.00
+E
+earthly shield rock stone~
+Although quite heavy and difficult to use, the shield offers great
+protection and is of sturdy construction.
+~
+A
+18 -1
+A
+2 -1
+A
+1 3
+#1309
+uncut gem~
+an uncut gem~
+A large, uncut gem sparkles in the light.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+6 3000 10.00
+E
+uncut gem~
+The gem fits snuggly into your hands and is surely worth a small fortune
+in gold...if you could polish it, you'd probably make even more money
+from its sale.
+~
+#1310
+magma gauntlets~
+some magma gauntlets~
+A pair of magma gauntlets emit a fiery glow.~
+~
+9 1 0 0 0 129 0 0 0
+8 0 0 0
+6 3000 15.00
+E
+magma gauntlets~
+The gauntlets glow softly as if constructed of magma themselves - there is
+a burning sensation when you place them on your hands but nothing you
+can't deal with.
+~
+A
+26 -2
+A
+19 1
+#1311
+scaled girdle scales~
+a scaled girdle~
+A girdle made from the scales of an unknown creature has been left here.~
+~
+9 0 0 0 0 2049 0 0 0
+7 0 0 0
+4 420 15.00
+E
+scaled girdle scales~
+The scales reflect any source of light and almost seem to enhance it creating
+a highly reflective surface. The girdle is relatively light and should
+afford you some decent protection given the thickness of the scales.
+~
+#1312
+blazing ring gold~
+a blazing ring~
+A small, gold ring glows softly on the ground.~
+~
+11 65 0 0 0 3 0 0 0
+0 0 0 0
+1 1000 20.00
+E
+blazing ring gold~
+It is rather nondescript apart from the fact that it glows like the embers
+of a dieing fire.
+~
+A
+3 2
+#1313
+half moon necklace delicate~
+a half-moon necklace~
+A delicate necklace, fashioned in the shape of a half-moon is here.~
+~
+8 1 0 0 0 5 0 0 0
+0 0 0 0
+2 1500 15.00
+E
+half moon necklace delicate~
+It is made of pure silver and should fetch a good price.
+~
+#1314
+elemental dust pile~
+a pile of elemental dust~
+A pile of elemental dust lies here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 25.00
+#1315
+black rock idol stone blackrock~
+a blackrock idol~
+A small idol, fashioned from an unknown stone, has been left here.~
+~
+12 68190290 0 0 0 16385 0 0 0
+0 0 0 0
+5 4000 20.00
+E
+black rock idol stone~
+Perhaps an ancient god or even the creator itself, the idol has been crafted
+from a strange mineral which hums softly as you hold it. It's origin or
+purpose is not known to you.
+~
+A
+18 3
+A
+19 2
+A
+4 1
+#1316
+rainbow prism~
+a rainbow prism~
+A beautiful prism absorbs all surrounding light and refracts it.~
+~
+11 2113 0 0 0 262145 0 0 0
+0 0 0 0
+2 5000 15.00
+E
+rainbow prism~
+The prism floats aimlessly around you, almost as if it had a life of its
+own but no purpose. Light enters the prism and a rainbow of colors beams
+out in almost every direction.
+~
+A
+19 2
+A
+27 3
+A
+5 -2
+#1317
+eye elemental gem golden amulet~
+the elemental eye~
+A large gem centered in a golden amulet has been carelessly left here.~
+~
+11 65 0 0 0 5 0 0 0
+0 0 0 0
+2 8000 20.00
+E
+eye elemental gem golden amulet~
+The elemental eye is a rare find! Centered within the golden amulet lies a
+glorious red ruby, easily the largest gem you've encountered.
+~
+A
+26 3
+A
+27 3
+A
+28 3
+$~

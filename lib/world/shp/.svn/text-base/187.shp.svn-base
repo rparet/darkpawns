@@ -1,0 +1,26 @@
+CircleMUD v3.0 Shop File~
+#18700~
+-1
+25.00
+1.00
+12junk
+13more junk
+-1
+%s Eh? I dont think I have any of that.~
+%s I dont see that you are carrying it. Perhaps someone borrowed it?~
+%s I may buy lots of junk, but I sure don't buy that!~
+%s Being a kender is a trying task indeed. I'm afraid I dont have enough money to buy that.~
+%s I've got to feed my sheep you know. Come back with some money!~
+%s %d shiny gold coins in my pouch. Nice doin business wit' ye.~
+%s Deal! %d coins.~
+0
+0
+18711
+0
+1
+-1
+0
+28
+0
+0
+$~

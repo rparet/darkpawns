@@ -1,0 +1,69 @@
+#20301
+gauntlets giant mist~
+some mist giant gauntlets~
+Some giant misty guantlets lie here.~
+~
+9 64 0 0 0 129 0 0 0
+3 0 0 0
+27 900 10.00
+A
+11 3
+A
+26 1
+A
+24 5
+#20302
+gong war~
+a war gong~
+A thin metal gong lies on the ground here.~
+$n bangs on a war gong, sending a resounding note through the air.
+~
+4 64 0 0 0 16385 0 0 0
+10 3 3 23
+6 500 10.00
+A
+18 1
+A
+23 5
+A
+21 5
+#20500
+armbands crude~
+some crude armbands~
+Some crudely made armbands lie here.~
+~
+9 2101248 0 0 0 257 0 0 0
+5 0 0 0
+5 100 50.00
+E
+armbands crude~
+They're some sort of dried, hardened animal skin.       
+~
+#20501
+symbol war~
+a war symbol~
+A crudely carved war symbol lies here.~
+~
+11 66128 0 0 0 5 0 0 0
+0 0 0 0
+2 200 15.00
+E
+war symbol~
+Its a wooden carving of a wheel; the orcish amge rune for war. Its suspended
+on a leather thong.
+~
+A
+18 1
+A
+1 1
+A
+3 -1
+#20502
+scythe hand blade~
+a hand scythe~
+A small curved blade lies here.~
+~
+5 8396800 0 0 0 8193 0 0 0
+0 1 8 3
+5 150 150
+$~

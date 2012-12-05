@@ -1,0 +1,505 @@
+#12100
+plump jovial merchant man~
+the fat merchant~
+A plump and jovial merchant hovers around you.
+~
+The merchant could stand to lose a few pounds as he lumbers his way towards
+you, obviously happy to see a customer in the otherwise deserted store.
+~
+24586 0 0 0 0 0 0 0 100 E
+20 0 -10 20d4+210 12d3+13
+0 25000
+8 8 1
+Race: 0
+Noise: A merchant calls out, "Spices...spices for sale"
+E
+#12101
+Largo fisherman~
+Largo the fisherman~
+A local fisherman smiles as you enter and asks you to look around.
+~
+Largo is one of the few local fisherman who has chosen to stay in Haven,
+the majority sailing to more prosperous and safer areas. He is well built
+and is quite capable of taking care of himself.
+~
+26634 0 0 0 0 0 0 0 100 E
+24 -4 -14 24d5+276 16d4+16
+60 35000
+8 8 1
+Race: 0
+E
+#12102
+Hansen merchant~
+Hansen the merchant~
+Hansen, the owner of this store, welcomes you in with open arms.
+~
+A fairly prosperous merchant compared to others in Haven, Hansen is an
+expert at shady deals and has gathered a variety of junk to sell to the
+unaware adventurer.
+~
+59402 0 0 0 0 0 0 0 -100 E
+24 -4 -14 24d5+276 16d4+16
+60 35000
+8 8 1
+Race: 0
+E
+#12103
+beast guardian~
+the Guardian~
+A huge beast lumbers towards you, angry at your intrusion.
+~
+Obtained from one of the remote islands, the beast before you is like nothing
+you've seen before. It is large, will not reason with you, and definitely
+looks like it can kill you.
+~
+8413242 0 0 0 1074954240 0 0 0 -600 E
+22 -2 -12 22d5+230 14d4+14
+1 30000
+8 8 0
+BareHandAttack: 8
+E
+#12104
+guild member merchant~
+a guild member~
+A guild member wanders by, planning his next journey.
+~
+He looks deep in thought and doesn't pay any attention to you.
+~
+4168 0 0 0 8388608 0 0 0 750 E
+15 5 -5 15d5+160 10d4+10
+20 14000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#12105
+flustered man repair public works officer talis~
+Talis~
+A flustered man sits here, muttering something about repairs.
+~
+This guy is stressed! His sole responsibility is the upkeep of the town and
+with the amount of visitors that journey here, the town certainly needs to
+be kept in top condition.
+~
+59546 0 0 0 0 0 0 0 1000 E
+16 4 -6 16d5+170 10d4+10
+30 16000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#12106
+mariner captain~
+an old mariner~
+An old mariner sits at the desk offering to sell you a boat.
+~
+Once captain of his own ship, the retired mariner has been conditioned over
+years spent at sea and despite his age is quite capable of defending himself.
+~
+10 0 0 0 131072 0 0 0 800 E
+28 -8 -18 28d5+368 18d4+18
+800 50000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#12107
+merchant store keeper~
+the store keeper~
+A store keeper rearranges a shipment of new barrels.
+~
+She moves with grace and ease, despite the fact that she is stronger and
+bigger than many of the males in the town.
+~
+2058 0 0 0 131072 0 0 0 800 E
+26 -6 -16 26d5+322 17d4+17
+800 40000
+8 8 2
+BareHandAttack: 13
+Race: 0
+E
+#12108
+drunk sleeping sailor~
+the drunk sailor~
+A drunk sailor has collapsed on the mattress and is sleeping soundly.
+~
+He's rather large and it would have taken a number of rum shots to put him
+in such a deep sleep. Do you really want to wake him up?
+~
+104 0 0 0 0 0 0 0 300 E
+20 0 -10 20d5+210 13d4+13
+20 25000
+4 4 1
+Race: 0
+E
+#12109
+man sailor~
+a sailor~
+A well tanned man stumbles around, spilling beer in the process.
+~
+A weatherworn man who has probably spent more time on board a ship then dry land.
+~
+4168 0 0 0 8519680 0 0 0 200 E
+17 3 -7 17d5+180 11d4+11
+10 18000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#12110
+innkeeper~
+the innkeeper~
+The innkeeper walks around, serving drinks and cleaning tables.
+~
+The innkeeper smells as much of alcohol as do the patrons of the inn. He
+works tirelessly for what must be days on end.
+~
+22600 0 0 0 131072 0 0 0 600 E
+34 -14 -24 34d5+2746 22d4+22
+500 270000
+8 8 1
+Race: 0
+Noise: Many sets of eyes move with you as you wander around.
+E
+#12111
+elf elven pirate~
+an elven pirate~
+An elven pirate sits calmly at the table examining her cards.
+~
+She has traveled far and sacked a number of towns and villages.
+~
+6154 0 0 0 4104 0 0 0 300 E
+22 -2 -12 22d5+230 14d4+14
+600 30000
+8 8 2
+BareHandAttack: 13
+Race: 1
+Noise: A scuffle breaks out in the corner of the room.
+E
+#12112
+ogre~
+an ogre~
+A large ogre sits at the table and is annoyed at your entrance.
+~
+He is here for one reason only...to win money. And you seem to have broken
+his thinking process.
+~
+8454186 0 0 0 1179648 0 0 0 250 E
+26 -6 -16 26d5+322 17d4+17
+500 40000
+8 8 1
+Race: 20
+E
+#12113
+livian adventurer~
+Livian~
+An adventurer looks nervously at her cards.
+~
+Livian has explored the far reaches of the world and has unfortunately ended
+up here.
+~
+6154 0 0 0 128 0 0 0 500 E
+20 0 -10 20d5+210 13d4+13
+150 25000
+8 8 2
+Race: 2
+E
+#12114
+pirate~
+a pirate~
+A large, nimble looking pirate gives you a toothy grin.
+~
+Bad mistake! Those who rape, pillage and loot for a profession do not like
+to be recognized and unfortunately you now have an accurate description of
+the pirate in front of you. He draws his cutlass with a grim smile and saunters
+your way.
+~
+6236 0 0 0 131072 0 0 0 -500 E
+17 3 -7 17d5+180 11d4+11
+75 18000
+8 8 1
+BareHandAttack: 10
+Race: 0
+E
+#12115
+gull seagull bird~
+a seagull~
+A seagull is scavenging for food here.
+~
+It's a loud, dirty, annoying bird, and you're tempted to give it a quick kick
+in the tail-feathers.
+~
+201 0 0 0 67108864 0 0 0 0 E
+3 17 7 3d5+40 2d4+1
+0 350
+8 8 0
+BareHandAttack: 8
+Race: 24
+E
+#12116
+Ulrich customs man~
+Ulrich~
+An officious looking man gives you a greasy smile as you enter his office.
+~
+Ulrich seems to be doing rather well for himself for a customs official.  His
+smile makes you wonder if perhaps he can persuaded to look the other way while
+you conduct your business.
+~
+26698 0 0 0 131072 0 0 0 -500 E
+34 -14 -24 34d5+2746 22d4+22
+2000 270000
+8 8 1
+Race: 0
+E
+#12117
+rakshasa tiger humanoid~
+a rakshasa~
+A strange, tiger-like humanoid looks at you arrogantly.
+~
+This must be one of the legendary rakshasas on a trading mission for his master.
+The look he gives you is that of a calculating killer, but no one else seems
+to look worried, maybe he's on a peaceful mission.
+~
+10316 0 0 0 263168 0 0 0 -500 E
+21 -1 -11 21d5+220 14d4+14
+200 27500
+8 8 1
+BareHandAttack: 8
+Race: 5
+E
+#12118
+female kender woman~
+a kender~
+A mischevious, elf-like woman stares at everything in wide-eyed wonder.
+~
+GROAN! Oh, no! It's a kender! You hastily check your belongings to make sure
+everything is still in place.
+~
+24589 0 0 0 394240 0 0 0 1000 E
+14 6 -4 14d5+150 9d4+9
+100 12000
+8 8 2
+Race: 3
+E
+#12119
+stevedore dock worker~
+a stevedore~
+One of the local dock workers walks by, awaiting the next ship.
+~
+Years of loading and unloading ships has created the stevedore before you,
+muscles bulging from his tattered clothes.
+~
+2120 0 0 0 131072 0 0 0 400 E
+16 4 -6 16d5+170 10d4+10
+50 16000
+8 8 1
+Race: 27
+E
+#12120
+dwarf dwarven trader~
+a dwarven trader~
+A dwarven trader checks her coin purse as she heads for the nearest store.
+~
+Having traveled from afar on a mission known only to her, the trader gives
+you a wide berth considering the amount of coins she must carry.
+~
+92236 0 0 0 5128 0 0 0 800 E
+19 1 -9 19d5+200 12d4+12
+150 22500
+8 8 2
+Race: 2
+E
+#12121
+man pirate Black Dog ~
+Black Dog~
+A dark-haired man shoves his way through the crowds, maybe you should run.
+~
+Black Dog is a mean looking pirate with wrists as thick as your neck.
+Maybe you better run.
+~
+796748 0 0 0 132232 0 0 0 -400 E
+22 -2 -12 22d5+230 14d4+14
+300 30000
+8 8 1
+Race: 0
+E
+#12122
+cat merchant rakshasa creature~
+the rakshasa merchant~
+A slender cat-like creature sits quietly drinking in the corner.
+~
+The rakshasa merchant has traveled far to sell or perhaps buy goods from
+Haven. Her yellow eyes stare right into your soul.
+~
+16408 0 0 0 40 0 0 0 400 E
+18 2 -8 18d5+190 12d4+12
+100 20000
+6 6 2
+BareHandAttack: 8
+Race: 5
+E
+#12123
+worker dock rowdy~
+a dock worker~
+A rowdy dock worker attempts to sing to an unknown tune.
+~
+He is probably more interested in making a fool of himself than worrying
+about you, but he does look drunk enough to fly off the handle at any
+given moment.
+~
+260264 0 0 0 0 0 0 0 800 E
+26 -6 -16 26d5+322 17d4+17
+120 40000
+8 8 1
+Race: 0
+Noise: You can hear someone singing a drunken jig off-key.
+E
+#12124
+Fiona adventurer~
+Fiona~
+Fiona stands her in disgust, looking at the mess around her.
+~
+Having journeyed from afar, Fiona is a well renowned adventurer and is
+definitely not impressed with the state of the room!
+~
+2058 0 0 0 4224 0 0 0 650 E
+22 -2 -12 22d5+230 14d4+14
+20 30000
+8 8 2
+Race: 0
+E
+#12125
+Kataar pirate captain~
+Kataar the pirate captain~
+A pirate captain glares at you with utter disdain.
+~
+Kataar has earned the reputation for the toughest, meanest and unfriendliest
+human to walk the world or sail the seas. He has murdered as many people as
+he has sacked cities and you are simply in his way...
+~
+8415242 0 0 0 1187968 0 0 0 -600 E
+26 -6 -16 26d5+322 17d4+17
+150 40000
+8 8 1
+Race: 0
+E
+#12126
+troll bouncer~
+the troll bouncer~
+A large, ugly troll stands at the doorway to the south.
+~
+He is a big, ugly troll whose job it is to keep the ruffians and scabs out
+of the gambling establishment to the south. He seems to enjoy his work,
+smiling with large crooked teeth as he throws would-be patrons out of the
+doorway.
+~
+253978 0 0 0 1064 0 0 0 -200 E
+20 0 -10 20d5+210 13d4+13
+5 25000
+8 8 1
+Race: 6
+E
+#12127
+cutpurse shady character~
+the cutpurse~
+A shady character eyes you from the shadows.
+~
+You're not sure what it is because of the cloak it has wrapped itself in,
+but you do know that it has its eye on your coin purse.
+~
+16585 0 0 0 917536 0 0 0 -400 E
+10 10 0 10d5+110 5d4+5
+30 6000
+8 8 0
+Race: 0
+Noise: A shout for help can be heard in the distance.
+E
+#12128
+lars harbor master~
+Lars the Harbor Master~
+The Harbor Master awaits the next ship.
+~
+Lars is a tall human in his early forties.  It is his responsibility to
+ensure the safe loading and unloading of cargoes from the ships that
+dock in Haven.
+~
+194760 0 0 0 4096 0 0 0 800 E
+22 -2 -12 22d5+230 14d4+14
+15 30000
+8 8 1
+Race: 0
+E
+#12129
+member port authority authorities guard~
+a member of the port authority~
+One of the port authorities wanders by, ensuring order is maintained.
+~
+These guards patrol the streets of Haven to maintain order in what could
+easily become a lawless town.
+~
+30792 0 0 0 168104 0 0 0 1000 E
+18 2 -8 18d5+190 12d4+12
+5 20000
+8 8 2
+Race: 0
+E
+#12130
+games master hirto~
+Hirto, the Games Master~
+The Games Master roams the den, looking for thieves and cheats.
+~
+Hirto the Games Master is a big, ugly troll.  It's his job to catch
+anyone stealing or cheating inside the casino.  Best not get caught
+doing anything wrong... this guy could hurt you.
+~
+8445976 0 0 0 132104 0 0 0 -500 E
+28 -8 -18 28d5+368 18d4+18
+100 50000
+8 8 1
+Race: 6
+E
+#12131
+drunk drunken floosy girl~
+a drunken floosy~
+A drunken floosy falls all over you.
+~
+She is a young girl with enormous breasts and a drunken flush across
+her face.  She looks at you with glazed eyes and smiles coyly before
+bursting out in a fit of giggles.
+~
+49288 0 0 0 0 0 0 0 -50 E
+15 5 -5 15d5+160 10d4+10
+1 14000
+8 8 2
+Race: 0
+E
+#12132
+depressed man~
+a depressed man~
+A depressed man gambles away his life.
+~
+He looks sad and pathetic, his skin a dull grey and his eyes sunken from long
+days and nights inside the casino.
+~
+136 0 0 0 131072 0 0 0 0 E
+11 9 -1 11d5+120 7d4+7
+0 7500
+8 8 1
+Race: 0
+E
+#12133
+old woman~
+an old woman~
+An old woman gambles away her life savings.
+~
+She just sits here, day after day, throwing all of her money away.
+She doesn't acknowledge you or anyone else around her, seemingly cold
+and isolated.
+~
+142 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 2
+Race: 0
+E
+$

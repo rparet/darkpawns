@@ -1,0 +1,320 @@
+#3100
+Sinnach bandit~
+Sinnach ap Paedrig~
+Sinnach ap Paedrig hurries by on some mysterious errand for the resistance.
+~
+Sinnach, like all the bandits, is dressed in utilitarian clothes designed
+for guerilla warfare.  He has some of the gaunt, sparse, large frame of his 
+father Paedrig, but his eyes twinkle with the merriment of youth.
+~
+264524 0 0 0 262144 0 0 0 500 E
+25 -5 -15 25d5+299 16d4+16
+100 37500
+8 8 1
+Race: 0
+E
+#3101
+Paedrig cullain bandit~
+Paedrig Cullain~
+Paedrig Cullain, leader of the resistance, glares at you.
+~
+Paedrig Cullain, leader of the resistance and son of the former lord of Ironwood
+Forest, is dressed in shades of green and brown which make him all but invisible
+in the brush.  Gaunt and tall, with a haunted bitter look in his eye, you wonder
+what devastating forces drives this man.
+~
+264524 0 0 0 0 0 0 0 28 E
+28 -8 -18 28d5+368 18d4+18
+100 50000
+8 8 1
+Race: 0
+E
+#3102
+Brioch~
+Brioch~
+Brioch the Lame growls at you menacingly.
+~
+Black-bearded and beetle-browed, Brioch is a large and imposing figure despite
+his lame leg, which was reportedly hacked off in a battle with Paedrig.
+~
+264780 0 0 0 0 0 0 0 -500 E
+27 -7 -17 27d5+345 18d4+18
+80 45000
+8 8 1
+Race: 0
+E
+#3103
+wizard Bradoch ~
+Bradoch~
+A wizard in midnight blue robes grins at you evilly.
+~
+Bradoch, brother to Brioch and wizard of the court, is attired in the
+traditional garb of wizards. He is reputed to be the true power behind the
+Duchy of Glyndwr.
+~
+2637 0 0 0 128 0 0 0 -600 E
+29 -9 -19 29d5+391 19d4+19
+70 55000
+8 8 1
+Race: 0
+E
+#3104
+Twitch bandit~
+Twitch~
+Twitch the bandit paces nervously.
+~
+Looking at his face, you have no problems deducing how he earned his name.
+~
+264268 0 0 0 0 0 0 0 400 E
+26 -6 -16 26d5+322 17d4+17
+60 40000
+8 8 1
+Race: 0
+E
+#3105
+knight figure~
+a knight of Glyndwr~
+An armored figure patrols the area.
+~
+One of Brioch's minions, he has a perpetual sneer on his face, and he looks like
+he's itching for a fight.
+~
+264780 0 0 0 0 0 0 0 -200 E
+18 2 -8 18d5+190 12d4+12
+50 20000
+8 8 1
+Race: 0
+E
+#3106
+Shadow~
+Shadow~
+Shadow lies along the ground, following your every move.
+~
+He looks like a ninja, when you perchance to see him...
+~
+264268 0 0 0 0 0 0 0 200 E
+25 -5 -15 25d5+299 16d4+16
+40 37500
+8 8 1
+Race: 0
+E
+#3107
+Mikel~
+Mikel~
+Mikel screams his agony to the heavens.
+~
+You barely recognize the former lord of Glyndwr, Mikel the Just. But this
+formerly handsome man has been twisted by foul magics, his form is bent and
+twisted, and his face is disfigured by numerous scars. With horror, you
+realize that his body is rotting... he is one of the undead!
+~
+551018 0 0 0 128 0 0 0 0 E
+27 -7 -17 27d5+345 18d4+18
+0 45000
+6 8 1
+Race: 8
+E
+#3108
+brinnach figure~
+Brinnach~
+A lanky figure blends in the surroundings.
+~
+As you peer at him more closely, you recognize Brinnach the Tall, Master
+Huntsman of the old lord, Mikel the Just.
+~
+264268 0 0 0 0 0 0 0 200 E
+26 -6 -16 26d5+322 17d4+17
+80 40000
+8 8 1
+Race: 0
+E
+#3109
+creeper giant vine~
+a giant creeper~
+A giant vine crosses the path.
+~
+It almost looks sentient...
+~
+2156 0 0 0 0 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 1
+Race: 17
+E
+#3110
+mad man madman~
+a madman~
+A madman runs around, frothing at the mouth.
+~
+He looks like a dirty old beggar who's been bitten one too many times by
+the wargs that run the city streets.
+~
+526444 0 0 0 0 0 0 0 0 E
+16 4 -6 16d5+170 10d4+10
+0 16000
+8 8 1
+Race: 0
+E
+#3111
+Dinas liegeman leigemen~
+Dinas~
+One of Mikel's old liegemen is here.
+~
+Oh, its only Dinas, he's a bit elderly, but in his prime was a feared fighter.
+~
+2124 0 0 0 0 0 0 0 240 E
+24 -4 -14 24d5+276 16d4+16
+30 35000
+8 8 1
+Race: 0
+E
+#3112
+black blackguard guard~
+a Blackguard~
+One of Brioch's Blackguard frowns as you pass by.
+~
+Dressed in black armor and wearing a scowl, these are the enforcers of 
+Brioch's will.
+~
+4168 0 0 0 0 0 0 0 -200 E
+17 3 -7 17d5+180 11d4+11
+10 18000
+8 8 1
+Race: 0
+E
+#3113
+Meredydd Sorceress  woman~
+Meredydd the Sorceress~
+An incredibly beautiful woman dressed in a sky blue robe scowls as you enter.
+~
+Breathtakingly beautiful, but with a petulant, even arrogant look on her face,
+Meredydd is a sorceress of great power, as many who have underestimated her
+because of her beauty have learned.
+~
+264269 0 0 0 136 0 0 0 -450 E
+26 -6 -16 26d5+322 17d4+17
+150 40000
+8 8 2
+Race: 0
+E
+#3114
+creeper vine~
+a forest creeper~
+A lithe vine dangles over the path.
+~
+ It almost looks sentient...
+~
+2156 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 0
+Race: 17
+E
+#3115
+innkeeper~
+the innkeeper~
+The innkeeper is here, making his bed.
+~
+He looks like he's seen many hard days. The beaten look in his eyes, however,
+is overshadowed by the girth of his shoulders.
+~
+2122 0 0 0 0 0 0 0 0 E
+24 -4 -14 24d5+276 16d4+16
+50 35000
+8 8 1
+Race: 0
+E
+#3116
+monk~
+the monk~
+A brown-robed monk chants Latin while banging his forehead with a board.
+~
+He's a plain man in a brown cowl.
+~
+2156 0 0 0 0 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+80 25000
+8 8 1
+Race: 0
+E
+#3117
+something darkness~
+Something in the darkness~
+Something brushes against your face in the darkness.
+~
+Tell me what to look at and I'll tell you what it looks like...
+~
+74 0 0 0 786432 0 0 0 0 E
+24 -4 -14 24d5+276 16d4+16
+0 35000
+8 8 1
+Race: 25
+E
+#3118
+Kyllikki woman ~
+Kyllikki~
+Kyllikki, the mysterious hermit-like woman looks at you proudly.
+~
+You can't see much, but the figure is definitely female.
+~
+79 0 0 0 128 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+16
+50 37500
+8 8 2
+Race: 0
+E
+#3119
+cutthroat~
+a cutthroat~
+A skulking cutthroat jumps you from behind.
+~
+  He's a greedy, unshaven ruffian with no morals. A lot like yourself,
+actually.
+~
+2156 0 0 0 0 0 0 0 0 E
+19 1 -9 19d5+200 12d4+12
+10 22500
+8 8 1
+Race: 0
+E
+#3120
+wench girl~
+a serving wench~
+A serving wench bustles about, seeing to her customers.
+~
+She's pretty, though a bit young and a bit on the thin side.  Still, she gives you a warm smiles as you meet her eyes.
+~
+72 0 0 0 0 0 0 0 0 E
+16 4 -6 16d5+170 10d4+10
+10 16000
+8 8 2
+Race: 0
+E
+#3121
+witch~
+a witch~
+You interrupt a witch in the middle of brewing a potion.
+~
+An old hag, dressed in soft brown robes, she seems very intent on her work.
+~
+2154 0 0 0 0 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 2
+Race: 0
+E
+#3122
+Cabal moireach figure~
+Cabal Moireach~
+A towering figure with a gaunt, skull-like face stands here.
+~
+Standing almost 7 feet tall, this massive figure looks like an animated
+cadaver.
+~
+2154 0 0 0 0 0 0 0 -475 E
+24 -4 -14 24d5+276 16d4+16
+10 35000
+8 8 1
+Race: 0
+E
+$

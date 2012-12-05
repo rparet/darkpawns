@@ -1,0 +1,5933 @@
+#20000
+Labyrinth Passageway~
+You are in a dark, twisty little passageway in a maze designed to confuse
+and frustrate the impatient adventurer.  The walls here are made of highly
+polished black ebonstone but they seem to absorb the light in this area
+rather than reflect it.  From here a long passageway leads off to the south
+and another little hallway branches to the east.
+~
+200 9 0 0 0 0
+D1
+It is very dark over there.
+~
+~
+0 1 20001
+D2
+The labyrinth seems to continue forever!
+~
+~
+0 1 20006
+S
+#20001
+Near Total Darkness~
+It is extremely dark here; you can just barely see the items in your
+inventory.  The walls of black ebonstone seem to be absorbing nearly all
+the light in this room.  Carefully, you feel around searching for exits.
+There seems to be a passage leading south from here, another seems to lead
+westward, and there is yet a third opening in the eastern wall.  As you stand
+here, trying to choose your path, you catch a faint, putrid smell coming from
+the east.
+~
+200 9 0 0 0 0
+D1
+It is even darker over there!
+~
+~
+0 1 20002
+D2
+The labyrinth seems to continue forever!
+~
+~
+0 1 20007
+D3
+The labyrinth seems to continue forever!
+~
+~
+0 1 20000
+S
+#20002
+Total Darkness~
+It is extremely dark here.  The walls and ceiling here seem to absorb almost
+all the light in this room.  Groping around in the darkness, you feel a
+exits to the south and west.  It smells very bad here, like rancid, rotten
+flesh... the smell seems to be coming from the south.
+~
+200 13 0 0 0 0
+D2
+You can't see anything that way but it sure smells awful!
+~
+~
+0 1 20008
+D3
+It seems a bit lighter out there.
+~
+~
+0 1 20001
+S
+#20003
+Buried Alive?!~
+The world spins and you slowly lose consciousness.  When you awake you find
+yourself trapped in a very small, very dark area -- your light does little
+to illuminate your cell as the stone that imprison you devour the light
+As you feel around you realize, to your horror, that there are no exits
+from this claustrophobic little nightmare.  There is no use in screaming
+but you do it anyway, until the air runs out in the room, that is.
+~
+200 14 0 0 0 0
+E
+wall walls door~
+The walls here are thick and solid.  There does not appear to be any way out.
+Maybe you should ask someone to summon you.
+~
+S
+#20004
+Labyrinth Passageway~
+This is a small, dark passage that threatens to confuse you with its numerous
+twists and turns.  The walls of black ebonstone are highly polished and your
+torchlight reflects off them brilliantly.  The floor is made of hard, rough
+stone.  This passage continues southward into the darkness.  As you look
+down the passage leading west, a urgent feeling of dread paralyzes you!
+~
+200 9 0 0 0 0
+D2
+The labyrinth seems to continue forever!
+~
+~
+0 1 20010
+D3
+You catch a slight hint of movement to the west but are overcome with terror
+as you think about following that passage!
+~
+~
+0 1 20003
+S
+#20005
+Labyrinth Chamber~
+This is a medium-sized, circular room with walls of black ebonstone and a
+low ceiling.  A thick gas turns and swirls slowly in the cold air here and
+chokes you as you try to breathe.  Strange runes have been carved into the
+walls here, they seem to glow faintly.  Passages lead southward and
+eastward.
+~
+200 9 0 0 0 0
+D1
+You get very confused as you look that way.
+~
+~
+0 1 20012
+D2
+The room spins as you look that way.
+~
+~
+0 1 20006
+E
+rune runes marks inscription words writing~
+Although the runes are written in an ancient, long-forgotten elven dialect,
+you think they say something about "death" "mist" and "confusion"...?
+~
+E
+fog mist air~
+The mist is an unnatural, greenish-black tint.  It is very hard to breathe
+in here...
+~
+S
+#20006
+Labyrinth Passageway~
+You are in a twisty, dimly-lit passage that was designed to confuse the
+unwary adventurer.  Just beyond your field of vision, in the deep shadows,
+you see something move... or did you imagine that?  Exits in all directions
+but up and down.
+~
+200 9 0 0 0 0
+D0
+You see your own back!
+~
+~
+0 1 20035
+D1
+Another labyrinth passage...
+~
+~
+0 1 20007
+D2
+The labyrinth seems to continue forever!
+~
+~
+0 1 20013
+D3
+You see a strange room, wow, you feel kinda dizzy!
+~
+~
+0 1 20005
+S
+#20007
+Labyrinth Passage~
+This is a small, dark passage that threatens to confuse you with its numerous
+twists and turns.  The walls of black ebonstone are highly polished and your
+torchlight reflects off them brilliantly.  The floor is made of hard, rough
+stone.  One hallway leads north from here and another veers off to the west.
+~
+200 9 0 0 0 0
+D0
+The labyrinth seems to continue forever!
+~
+~
+0 1 20001
+D3
+The labyrinth seems to continue forever!
+~
+~
+0 1 20006
+S
+#20008
+Demon Imp's Abode~
+This little room is bathed in long, deep shadows and littered with corpses
+in various state of decay.  Bones lie strewn about the floor and a nasty,
+greenish-black fog swirls lazily in the air and makes you think you see
+movement in the shadows.  A dark passageway leads northward.  A black door
+hangs on the southern wall.
+~
+200 9 0 0 0 0
+D0
+It is very, very dark in there.
+~
+~
+0 1 20002
+D2
+There seems to be another room to the south
+~
+door~
+2 1000 20015
+S
+#20009
+Labyrinth Passageway~
+You are in a small, confusing hallway.  Although you try to resist, you find
+yourself growing tired, dizzy and frustrated.  Although you carry a light
+source, the walls here seem to absorb much of the light in this room; it is
+very difficult to see here.  Exits lead east, south and north but, as you
+look into the darkness north of here, a powerful feeling of terror
+overwhelms you and you have difficulty maintaining your calm.
+~
+200 9 0 0 0 0
+D0
+You are overcome by fear as you look northward!
+~
+~
+0 1 20003
+D1
+The labyrinth seems to continue forever!
+~
+~
+0 1 20010
+D2
+The labyrinth seems to continue forever!
+~
+~
+0 1 20016
+S
+#20010
+Labyrinth Passageway~
+You are in a dark, twisty little passageway in a maze designed to confuse
+and frustrate the impatient adventurer.  The walls here are made of highly
+polished black ebonstone but they seem to absorb the light in this area
+rather than reflect it.  Exits lead north, south, and west.
+~
+200 9 0 0 0 0
+D0
+You your own back!
+~
+~
+0 1 20004
+D2
+The labyrinth seems to continue forever!
+~
+~
+0 1 20017
+D3
+You someone sneaking around over there!
+~
+~
+0 1 20009
+S
+#20011
+Dead End~
+You have come to a dead end in the labyrinth.  This passageway abruptly ends
+here, the way to the north blocked by a massive wall of black marble.  The
+only exit is back to the south.
+~
+200 9 0 0 0 0
+D2
+Dead ends are good and bad for your health.
+~
+~
+0 1 20040
+E
+wall marble~
+The wall is very solid, you can find no way to open it.
+~
+S
+#20012
+Labyrinth Passageway~
+You are in a dark, twisty little passageway in a maze designed to confuse
+and frustrate the impatient adventurer.  The walls here are made of highly
+polished black ebonstone but they seem to absorb the light in this area
+rather than reflect it.  This hallway continues to the north and south but
+another passage leads off in an eastwardly direction.
+~
+200 9 0 0 0 0
+D0
+You see a strange chamber.
+~
+~
+0 1 20005
+D1
+The labyrinth seems to continue forever!
+~
+~
+0 1 20013
+D2
+The labyrinth seems to continue forever!
+~
+~
+0 1 20019
+S
+#20013
+Labyrinth Passageway~
+You are in a small, confusing hallway.  Although you try to resist, you find
+yourself growing tired, dizzy and frustrated.  Although you carry a light
+source, the walls here seem to absorb much of the light in this room; it is
+very difficult to see here.  This hallway continues to the north and south,
+another passage branches off to the west.
+~
+200 9 0 0 0 0
+D0
+You see your own back!
+~
+~
+0 1 20006
+D2
+The labyrinth seems to continue forever!
+~
+~
+0 1 20020
+D3
+Another labyrinth passageway...
+~
+~
+0 1 20012
+S
+#20014
+Dead End~
+You have come to a dead end in the labyrinth.  This passageway abruptly ends
+here, the way to the north blocked by a massive wall of black marble.  The
+only exit is back to the south.
+~
+200 9 0 0 0 0
+D2
+Here's a tip: there are some other tips if you look around.
+~
+~
+0 1 20018
+E
+wall marble~
+The wall is very solid and smooth.  There seems to be no way to open it.
+~
+S
+#20015
+Portal Room~
+This is a large, elegant room.  Pillars of black ebonstone support the high
+ceiling and the walls are covered in strange markings.  On the north wall
+there is a large door, to the east there is a flickering, glowing portal,
+and to the west there is another magic portal.  An inscription on the
+southern wall catches your eye.
+~
+200 77 0 0 0 0
+D0
+You see a stinky dark room.
+~
+~
+2 1000 20008
+D1
+The portal glows brightly and hums with magic.  There is no telling
+where it will take you.
+~
+~
+0 1 20111
+D3
+The portal is a solid, flickering magical doorway.  Where it leads no one
+can be sure...
+~
+~
+0 1 20138
+E
+inscription~
+The inscription reads:
+"Invited guest, have no fear,
+ I will watch your progress and be always near,
+ Strangers who invade my spire,
+ Will burn for'ere in magik fire."
+~
+S
+#20016
+Labyrinth Passageway~
+You are in a twisty, dimly-lit passage that was designed to confuse the
+unwary adventurer.  Just beyond your field of vision, in the deep shadows,
+you see something move... or did you imagine that?  There are exits to the
+north and south.
+~
+200 9 0 0 0 0
+D0
+You see yourself looking north from a distance.
+~
+~
+0 1 20038
+D2
+Another labyrinth passageway...
+~
+~
+0 1 20024
+S
+#20017
+Labyrinth Passageway~
+You are in a twisty, dimly-lit passage that was designed to confuse the
+unwary adventurer.  Just beyond your field of vision, in the deep shadows,
+you see something move... or did you imagine that?  Exits lead to the north,
+east, and south.
+~
+200 9 0 0 0 0
+D0
+Another labyrinth passageway...
+~
+~
+0 1 20010
+D1
+Another labyrinth passageway...
+~
+~
+0 1 20018
+D2
+Another labyrinth passageway...
+~
+~
+0 1 20025
+S
+#20018
+Labyrinth Passageway~
+This is a small, dark passage that threatens to confuse you with its numerous
+twists and turns.  The walls of black ebonstone are highly polished and your
+torchlight reflects off them brilliantly.  The floor is made of hard, rough
+stone.  This hallway turns sharply offering an exit to the north and another
+to the west.
+~
+200 9 0 0 0 0
+D0
+It looks like a dead end, but only one way to find out...
+~
+~
+0 1 20011
+D3
+Another labyrinth passageway...
+~
+~
+0 1 20017
+S
+#20019
+Labyrinth Passageway~
+You are in a twisty, dimly-lit passage that was designed to confuse the
+unwary adventurer.  Just beyond your field of vision, in the deep shadows,
+you see something move... or did you imagine that?  You may go either north
+or east from here.
+~
+200 9 0 0 0 0
+D0
+Another labyrinth passageway...
+~
+~
+0 1 20012
+D1
+Another labyrinth passageway...
+~
+~
+0 1 20020
+S
+#20020
+Labyrinth Passageway~
+This is a small, dark passage that threatens to confuse you with its numerous
+twists and turns.  The walls of black ebonstone are highly polished and your
+torchlight reflects off them brilliantly.  The floor is made of hard, rough
+stone.  Two passages intersect here and you can go in any cardinal direction.
+~
+200 9 0 0 0 0
+D0
+Another labyrinth passageway...
+~
+~
+0 1 20013
+D1
+The labyrinth seems to go on forever!
+~
+~
+0 1 20021
+D2
+You see your professor grading your homework... drat, you got an F.
+~
+~
+0 1 20028
+D3
+Another labyrinth passageway...
+~
+~
+0 1 20019
+S
+#20021
+Labyrinth Passageway~
+You are in a dark, twisty little passageway in a maze designed to confuse
+and frustrate the impatient adventurer.  The walls here are made of highly
+polished black ebonstone but they seem to absorb the light in this area
+rather than reflect it.  This cooridoor leads both north and south; another
+passageway opens to the west.
+~
+200 9 0 0 0 0
+D0
+It appears to be a dead end, but you never know...
+~
+~
+0 1 20014
+D2
+Another labyrinth passageway...
+~
+~
+0 1 20029
+D3
+Another labyrinth passageway...
+~
+~
+0 1 20020
+S
+#20022
+Falling...~
+You nimbly slide over the lip of the pit and begin to scale down the smooth
+sides.  After about two minutes you realize it was a big mistake -- the
+sides of the pit are very hot and offer very little to grab onto.  Ouch,
+you lose your grip and plummet towards the bottom, miles below.  Mercifully
+you pass out before your body is shattered on sharp rocks and consumed by the
+fires of the underworld.
+~
+200 14 0 0 0 0
+D4
+~
+~
+0 0 20023
+S
+#20023
+In Furnace Room~
+This vast room is some kind of furnace.  A large, deep pit has been drilled
+deep into the ground; indeed, it is so deep that the bottom is lost in
+shadow.  Waves of superhot air rush up from the underworld and into this
+room -- it is so hot here that your skin is beginning to sting.  At the
+top of the chamber there are large conduits which, presumably, bring the
+hot air up to the top levels of the tower.  While you could certainly
+climb down the pit, it looks difficult and very unsafe; the sides are very hot
+and smooth.  A small passageway leads east.
+~
+200 13 0 0 0 0
+D1
+~
+~
+0 1 20024
+D5
+~
+~
+0 0 20022
+S
+#20024
+Labyrinth Passageway~
+You are in an intersection in the labyrinth.  A dark, twisty little passage
+leads north and south from this point.  To the east another hallway
+continues into the darkness.  West of here there seems to be a large room...
+it is very warm here...
+~
+200 9 0 0 0 0
+D0
+You see your own back?!
+~
+~
+0 1 20016
+D1
+Another labyrinth passageway...
+~
+~
+0 1 20025
+D2
+Another labyrinth passageway...
+~
+~
+0 1 20031
+D3
+You can't see much but its hot as hell in there.
+~
+~
+0 1 20023
+S
+#20025
+Labyrinth Passageway~
+You are in a small, confusing hallway.  Although you try to resist, you find
+yourself growing tired, dizzy and frustrated.  Although you carry a light
+source, the walls here seem to absorb much of the light in this room; it is
+very difficult to see here.  Converging passages offer you exits in any
+cardinal direction.
+~
+200 9 0 0 0 0
+D0
+Another labyrinth passageway...
+~
+~
+0 1 20017
+D1
+Seems to be a dead end, but you can't see for sure.
+~
+~
+0 1 20026
+D2
+The labyrinth seems to go on forever...
+~
+~
+0 1 20032
+D3
+Another labyrinth passageway...
+~
+~
+0 1 20024
+S
+#20026
+Dead End~
+This is a dead end in the labyrinth, the only exit is to the west.
+~
+200 9 0 0 0 0
+D3
+You might want to avoid dead ends, never know where you will end up if
+you keep running into them...
+~
+~
+0 1 20004
+S
+#20027
+Dead End~
+You have come to a dead end in the labyrinth.  This passageway abruptly ends
+here, the way to the north blocked by a massive wall of black marble.  The
+only exit is back to the south.
+~
+200 9 0 0 0 0
+D2
+Beware the Labyrinth Chambers, its easy to get turned around in them.  shhh,
+keep a secret, eh?!
+~
+~
+0 1 20018
+E
+wall marble~
+The wall is quite solid, you cannot go north.
+~
+S
+#20028
+Labyrinth Passageway~
+You are in a twisty, dimly-lit passage that was designed to confuse the
+unwary adventurer.  Just beyond your field of vision, in the deep shadows,
+you see something move... or did you imagine that?  While this passageway
+continues both north and south, another cooridoor leads off to the east.
+~
+200 9 0 0 0 0
+D0
+The labyrinth seems to go on forever...
+~
+~
+0 1 20020
+D1
+The labyrinth never seems to end...
+~
+~
+0 1 20029
+D2
+The labyrinth seems to go on forever...
+~
+~
+0 1 20035
+S
+#20029
+The world spins for a moment, then the feeling passes.~
+
+Labyrinth Passageway
+You are in a small, twisty passage in a strange, magical maze.  Four
+passages intersect here and you may go north, south, east or west.
+~
+200 9 0 0 0 0
+D0
+The labyrinth seems to go on forever...
+~
+~
+0 1 20021
+D1
+You see some kind of room.
+~
+~
+0 1 20030
+D2
+The labyrinth seems to go on forever...
+~
+~
+0 1 20036
+D3
+The labyrinth seems to go on forever...
+~
+~
+0 1 20028
+S
+#20030
+Labyrinth Chamber~
+This is a medium-sized, circular room with walls of black ebonstone and a
+low ceiling.  A thick gas turns and swirls slowly in the cold air here and
+chokes you as you try to breathe.  Strange runes have been carved into the
+walls here, they seem to glow faintly.  Passages lead southward and
+westward.
+~
+200 9 0 0 0 0
+D2
+The room spins and you feel very dizzy as you look that way.
+~
+~
+0 1 20029
+D3
+The room spins and you are almost sick as you look down the passage.
+~
+~
+0 1 20037
+E
+runes~
+They are clearly magick, but you can't tell what they mean.
+~
+S
+#20031
+Labyrinth Passageway~
+This is a small, dark passage that threatens to confuse you with its numerous
+twists and turns.  The walls of black ebonstone are highly polished and your
+torchlight reflects off them brilliantly.  The floor is made of hard, rough
+stone.  This passage continues to the north and south.
+~
+200 9 0 0 0 0
+D0
+The labyrinth seems to go on forever...
+~
+~
+0 1 20024
+D2
+The labyrinth seems to go on forever...and ever and ever...
+~
+~
+0 1 20038
+S
+#20032
+Labyrinth Passage~
+This is a small, dark passage that threatens to confuse you with its numerous
+twists and turns.  The walls of black ebonstone are highly polished and your
+torchlight reflects off them brilliantly.  The floor is made of hard, rough
+stone.  This passage continues to the north and south.
+~
+200 9 0 0 0 0
+D0
+The labyrinth seems to go on forever... and ever, and ever and ever.
+~
+~
+0 1 20025
+D2
+The labyrinth seems to go on forever...
+~
+~
+0 1 20039
+S
+#20033
+Dead End~
+This is a dead end in the labyrinth; the way north is blocked by a high,
+strong wall.  The only exit is back south.
+~
+200 9 0 0 0 0
+D2
+Hey, I'll level with you, every time you hit a dead end you are being
+teleported as you leave... shhh! its a secret. ;)
+~
+~
+0 1 20034
+S
+#20034
+Labyrinth Passageway~
+You are walking down a long, twisty hallway deep within a maze of confusing
+turns and magic teleporters.  This hallway twists sharply at one point and
+connects with another leading northward.  To the east, it hits another dark
+cooridoor.
+~
+200 9 0 0 0 0
+D0
+It appears to be a dead end, but you can't tell for sure.
+~
+~
+0 1 20027
+D1
+The labyrinth seems to go on forever...
+~
+~
+0 1 20035
+S
+#20035
+Labyrinth Passageway~
+You are in a dark, twisty little passageway in a maze designed to confuse
+and frustrate the impatient adventurer.  The walls here are made of highly
+polished black ebonstone but they seem to absorb the light in this area
+rather than reflect it.  Two passages intersect here, one leads north-south
+and the other runs east and west.  You may go in any cardinal direction.
+~
+200 9 0 0 0 0
+D0
+The labyrinth seems to go on forever...
+~
+~
+0 1 20028
+D1
+The labyrinth seems to go on forever...
+~
+~
+0 1 20036
+D2
+The labyrinth seems to go on forever...
+~
+~
+0 1 20041
+D3
+The labyrinth seems to go on forever...
+~
+~
+0 1 20034
+S
+#20036
+Labyrinth Passageway~
+You are in a small, confusing hallway.  Although you try to resist, you find
+yourself growing tired, dizzy and frustrated.  Although you carry a light
+source, the walls here seem to absorb much of the light in this room; it is
+very difficult to see here.  This cooridoor leads north-south, an opening
+on the western wall seems to lead into another passageway.
+~
+200 9 0 0 0 0
+D0
+The labyrinth seems to go on forever...
+~
+~
+0 1 20029
+D2
+The labyrinth has no end.
+~
+~
+0 1 20042
+D3
+Another damn passage.
+~
+~
+0 1 20035
+S
+#20037
+You feel yourself yanked by a powerful magic force!~
+
+Labyrinth Passageway
+You are in a dark, twisty little passage in a confusing and frustrating
+maze.  Exits lead both north and east.
+~
+200 9 0 0 0 0
+D0
+There is a strange room to the north.
+~
+~
+0 1 20030
+D1
+East of here you see another damn passageway.
+~
+~
+0 1 20038
+S
+#20038
+Labyrinth Passageway~
+You are in a dark, twisty little passageway in a maze designed to confuse
+and frustrate the impatient adventurer.  The walls here are made of highly
+polished black ebonstone but they seem to absorb the light in this area
+rather than reflect it.  Two passages intersect here, one leads north-south
+and the other runs east and west.  You may go in any cardinal direction.
+~
+200 9 0 0 0 0
+D0
+It goes north forever...
+~
+~
+0 1 20031
+D1
+The labyrinth seems to go on forever...
+~
+~
+0 1 20039
+D2
+The labyrinth seems to go on forever...
+~
+~
+0 1 20044
+D3
+The labyrinth seems to go on forever...
+~
+~
+0 1 20037
+S
+#20039
+Labyrinth Passageway~
+You are in a twisty, dimly-lit passage that was designed to confuse the
+unwary adventurer.  Just beyond your field of vision, in the deep shadows,
+you see something move... or did you imagine that?  Another hallway crosses
+this one here, leaving exits to the north, south, east and west.
+~
+200 9 0 0 0 0
+D0
+The labyrinth seems to go on forever...
+~
+~
+0 1 20032
+D1
+The labyrinth seems to go on forever...
+~
+~
+0 1 20040
+D2
+Ok, here's another secret: try looking out from the Labyrinth Chambers.
+~
+~
+0 1 20045
+D3
+The labyrinth seems to go on forever...
+~
+~
+0 1 20038
+S
+#20040
+Labyrinth Passageway~
+You are in a small, confusing hallway.  Although you try to resist, you find
+yourself growing tired, dizzy and frustrated.  Although you carry a light
+source, the walls here seem to absorb much of the light in this room; it is
+very difficult to see here.  Exits lead north and west.
+~
+200 9 0 0 0 0
+D0
+Looks like a dead end that way... or is that a door up there?
+~
+~
+0 1 20033
+D3
+Do you like walking in circles?
+~
+~
+0 1 20039
+S
+#20041
+Labyrinth Passageway~
+This is a small, dark passage that threatens to confuse you with its numerous
+twists and turns.  The walls of black ebonstone are highly polished and your
+torchlight reflects off them brilliantly.  The floor is made of hard, rough
+stone.  You can continue both north and east from this point.
+You sense an evil presence watching you from afar.
+~
+200 9 0 0 0 0
+D0
+The labyrinth seems to go on forever...
+~
+~
+0 1 20035
+D1
+The labyrinth seems to go on forever...
+~
+~
+0 1 20042
+S
+#20042
+Labyrinth Passageway~
+You feel slightly disoriented as you wander through this maze of corridors,
+which continue to the north and to the west.
+~
+200 9 0 0 0 0
+D0
+Do you enjoy walking in circles?
+~
+~
+0 1 20036
+D3
+The labyrinth seems to go on forever...
+~
+~
+0 1 20041
+S
+#20043
+Northern End of Entry Hall~
+This is a large, ornate hallway with highly polished walls of fine, black
+ebonstone and a high, vaulted ceiling.  A deep-red carpet leads south, to
+the other end of this large room, and matching tapestries of the finest silk
+hang here on the blackened walls.  Three crystal doors are set into the
+walls here; a beautiful door of crimson crystal lies to the north, a large
+door of ebony crystal is set in the western wall, and a glowing door of
+white, gleaming crystal hangs on the eastern wall.  The hall continues to
+the south.
+~
+200 9 0 0 0 0
+D0
+You see a maze through the door.
+~
+crimson red~
+2 1001 20037
+D1
+You see a maze through the door.
+~
+white gleaming glowing~
+2 1003 20044
+D2
+The hallway continues to the south.
+~
+~
+0 1 20046
+D3
+You see a maze through the door.
+~
+ebony black~
+2 1002 20042
+E
+tapestries tapestry~
+The tapestries are made of fine elvish silk and have been embroidered with
+beautiful golden thread.  Although they are certainly quite valuable, the
+wallcoverings have been hung far above your reach.
+~
+E
+carpet carpeting rug~
+The rug is an elegant deep-red color.  It is very heavy...
+~
+E
+gate door doors~
+The doors are breathtaking!  The white one glows so brilliantly that, at
+times, it hurts your eyes to look at it; the red one emits a lusty, healthy
+glow and makes the northern wall seem surreal; the black door actually seems
+to suck up the light around it!  Each gate has minute etchings on the face
+of the crystal!
+~
+E
+etching etchings marks~
+The marks on the crystal surface of the doors were clearly done by a
+talented artist.  The etchings on the white gate are a tribute to the gods,
+and depict a creation scene; those on the black gate are a prayer to the
+Fire Lord and depict a scene in hell; Upon the red gate are pictures of all
+the great heroes of old.
+~
+S
+#20044
+You feel very dizzy and confused for an instant...~
+
+Labyrinth Passageway
+You are in a cold, dark cooridoor that continues to the north and east.
+Although it is very dark here, you can see that both exits lead to passages
+remarkably like this one!
+~
+200 9 0 0 0 0
+D0
+You see another passageway through the labyrinth.
+~
+~
+0 1 20038
+D1
+You see another passageway through the labyrinth.
+~
+~
+0 1 20045
+S
+#20045
+Labyrinth Passageway~
+You are in a dark, twisty little passageway in a maze designed to confuse
+and frustrate the impatient adventurer.  The walls here are made of highly
+polished black ebonstone but they seem to absorb the light in this area
+rather than reflect it.  A larger passageway leads north into the darkness,
+another continues to the west.
+~
+200 9 0 0 0 0
+D0
+Do you like walking in circles?
+~
+~
+0 1 20039
+D3
+You see another damn passageway...
+~
+~
+0 1 20044
+S
+#20046
+Southern End of Entry Hall~
+This is a regal, vast hallway with beautiful walls of polished ebonstone and
+a tall, vaulted ceiling.  A rich, deep-red carpeting continues northward, to
+the other end of this large hall.  The elegant, vivid tapestries that adorn
+the walls here appear to be made of fine silk and have been embroidered with
+golden thread.  The hallway continues to the north and, on the southern
+wall, there is a massive ebonstone gate.
+~
+200 9 0 0 0 0
+D0
+The hallway continues to the north.
+~
+~
+0 1 20043
+E
+tapestries tapestry~
+The tapestries here are truly marvelous.  Made from the finest silk
+available they have been embroidered with thin, golden thread.  They must be
+very valuable but they are hung high up on the walls, far beyond your
+reach.
+~
+E
+rug carpeting~
+It runs north, to the other end of the hall.
+~
+E
+ebonstone~
+The walls are made of highly polished blac ebonstone. It must have cost a fortune to
+build this tower!
+~
+E
+gate~
+The gate is a huge slab of blackened ebonstone.  It is featureless but
+beautiful.
+~
+S
+#20047
+Servants' Room~
+This room is very small and cold.  A solitary window has been cut into the
+northern wall, and two beds are arranged parallel to each other, on
+opposite sides of the room.  It does not look as if very many servants could
+live here comfortably, but most of the Dark Mage's slaves are magically
+created creatures which need no rest anyway.  The only exit is to the south.
+~
+200 9 0 0 0 0
+D2
+A large, beautiful hall lies to the south.
+~
+~
+0 1 20051
+E
+bed bunks beds~
+The beds are hard and uncomfortable.  The sheets are filthy and smell bad.
+~
+E
+window~
+Through the small window you see the lake and trees.
+~
+S
+#20048
+Large Study~
+This is a beautifully appointed, comfortable study.  A bright, warm fire
+flickers in the stone fireplace even though it has no apparent fuel.  Books
+cover the walls; sets of magic tomes arranged carefully and meticuliously.
+The large, expensive mahogany writing desk sitting in the center of the room
+is empty right now.  The only exit is to the south.
+~
+200 9 0 0 0 0
+D2
+You see a large hallway.
+~
+~
+0 1 20052
+E
+fire fireplace flame stone~
+The flame burns in the stone fireplace and fills the room with heat.  There
+is no wood or other fuel source, instead the fire just dances happily on the
+bare rock.
+~
+E
+book books tome tomes~
+They are surely powerful books of magic for, as you grew close and touched
+one a strong shock darted up your arm and caused you to cry out in alarm.
+~
+E
+desk wood mahogany~
+The finely crafted writing desk is heavy.  Its surface is empty at the
+moment.
+~
+S
+#20049
+The Baths~
+This large chamber is very steamy and hot.  Three large tubs made from fine
+grey marble are set in the ground here, full of steaming hot water.  The
+floor of black stone has been left very rough so that bathers do not slip
+and hurt themselves.  A strange magical orb hangs suspended near the ceiling
+and there is a large chest on the western wall.  The only exit is to the
+south, to the hallway.
+~
+200 9 0 0 0 0
+D2
+There is a hall to the south, make sure you get dressed before you leave!
+~
+~
+0 1 20053
+E
+tub tubs marble grey~
+The tubs are full of scented, steaming water full of soap bubbles.  They are
+very large, many people could comfortably bathe in this room.
+~
+E
+orb ball~
+The magical orb glows red and gives off heat.
+~
+E
+chest~
+The chest is empty.
+~
+S
+#20050
+The Marble Hallway~
+You are in a wondrous hallway somewhere inside the tower.  Huge pillars of
+blackened marble hold up a high ceiling.  The floor here is tiled in with
+squares of different colored marble arranged in a pattern.  Breath taking
+artwork decorates the walls here and a fine, crystal window is set in the
+north wall.  The hall continues both east and south from here.
+~
+200 9 0 0 0 0
+D1
+The marble hallway continues into the distance.
+~
+~
+0 1 20051
+D2
+A small, artistic hallway leads south.
+~
+~
+0 1 20057
+E
+pillar column pillars~
+The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble.
+~
+E
+tiles tile square pattern~
+The pattern is very geometric and is made of black, white and grey tiles.
+It repeats itself over and over down the length of the hallway.
+~
+E
+art artwork painting paintings~
+This hall is full of colorful paintings of shapes and lines.
+~
+E
+window crystal north~
+You see the end of the world out the window... isn't it time you talked to
+the gods about helping full it up?
+~
+S
+#20051
+The Marble Hallway~
+This is an immense hallway all done in marble.  Large ionic columns stretch
+up to the ceiling, far above and the floor is a meandering pattern of many
+marble tiles.  The walls are made of highly polished black marble that
+shines as it reflects your light.  Neatly arranged around the hallway are
+colorful paintings framed with grey marble.  A small room lies north of
+here, the hallway continues to the east and west.
+~
+200 9 0 0 0 0
+D0
+A grubby little room...
+~
+~
+0 1 20047
+D1
+The marble hall continues that way...
+~
+~
+0 1 20052
+D3
+The marble hall leads westward into the distance.
+~
+~
+0 1 20050
+E
+pillar column pillars~
+The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble.
+~
+E
+tiles tile square pattern~
+The pattern is very geometric and is made of black, white and grey tiles.
+It repeats itself over and over down the length of the hallway.
+~
+E
+art artwork painting paintings~
+This hall is full of colorful paintings of shapes and lines.
+~
+S
+#20052
+The Marble Hallway~
+Your footsteps resound against the marble tiled floor and echo through this
+glorious hallway.  The ceiling, high overhead, is supported by thick, ionic
+pillars and the walls here are made of highly polished black marble.  A
+large metal sculpture dominates the center of this room.  The hallway itself
+continues both east and west while a small door leads northward.
+~
+200 9 0 0 0 0
+D0
+You see a flickering fire and bunches of books.
+~
+~
+0 1 20048
+D1
+The hallway continues.
+~
+~
+0 1 20053
+D3
+In the immortal words of Mack: "uhhh, could it be more hallway?"
+~
+~
+0 1 20051
+E
+sculpture~
+You really can't tell what it is... it looks like a pyramid caught in a
+meat grinder.  Odd.
+~
+E
+pillar column pillars~
+The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble.
+~
+E
+tiles tile square pattern~
+The pattern is very geometric and is made of black, white and grey tiles.
+It repeats itself over and over down the length of the hallway.
+~
+E
+art artwork painting paintings~
+This hall is full of colorful paintings of shapes and lines.
+~
+S
+#20053
+The Marble Hallway~
+You are standing in a grand, beautiful hallway done completely in fine
+marble.  Strong, thick columns reach from the tiled floor up to the heavy
+ceiling far above.  Modern art adorns the walls here and a small doorway
+leads northward.  The hallway itself continues east and west.
+~
+200 9 0 0 0 0
+D0
+That room is very steamy.
+~
+~
+0 1 20049
+D1
+The hallway continues.
+~
+~
+0 1 20054
+D3
+The hallway continues.
+~
+~
+0 1 20052
+E
+pillar column pillars~
+The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble.
+~
+E
+tiles tile square pattern~
+The pattern is very geometric and is made of black, white and grey tiles.
+It repeats itself over and over down the length of the hallway.
+~
+E
+art artwork painting paintings~
+This hall is full of colorful paintings of shapes and lines.
+~
+S
+#20054
+The Marble Hallway~
+This is the most beautiful part of the marble hallway.  On the floor is a
+geometric meandering pattern of grey, white and black marble tiles, but the
+walls to the north and east are made of pure, transparent crystal.  The
+marble hall leads to the west and another hallway begins just south of here.
+~
+200 9 0 0 0 0
+D2
+A small hallway leads into the distance.
+~
+~
+0 1 20065
+D3
+The hall continues.
+~
+~
+0 1 20053
+E
+window crystal~
+You gaze through the crystal walls.
+Quickly, you estimate that must VERY far above the ground, as the landscape below looks
+flat and distant.  The scenery outside of the tower is nothing to gaze at really, the
+lands you see outside the window are blasted, scortched, and abandoned.  Mountains rise
+up on the horizon, and to the north you can see large pillars of smoke and ash pouring
+out of them.
+~
+E
+pillar column pillars~
+The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble.
+~
+E
+tiles tile square pattern~
+The pattern is very geometric and is made of black, white and grey tiles.
+It repeats itself over and over down the length of the hallway.
+~
+E
+art artwork painting paintings~
+This hall is full of colorful paintings of shapes and lines.
+~
+S
+#20055
+The Northern Side of the Reflecting Pool~
+You are standing in the reflecting pool; the water comes up to your knees.
+To the south is the center of the reflecting pool; thick ebonstone walls
+impede your progress in any other direction.  This water is ice cold and
+your feet are beginning to feel numb.
+~
+200 9 0 0 0 6
+D2
+That way leads to the center of the pool.
+~
+~
+0 1 20059
+E
+water pool~
+The water is very clear and cold, when you stepped into the pool it was calm
+but now it is slightly disturbed.
+~
+S
+#20056
+Northern End of the Great Library~
+This is the legendary library of the Dark Mage -- largest collection of
+knowledge in the know world.  Books line every wall, from the floor to
+the ceiling high above.  Sliding ladders are available for the retrieval
+of books from the topmost shelves.  Books on every topic are housed here,
+some are ancient manuscripts from lost ages which have not survived anywhere
+else.  The library continues as far as the eye can see south of here.  A
+small doorway in the eastern wall leads out of the library.
+~
+200 9 0 0 0 0
+D1
+There is some kind of large hallway that way.
+~
+~
+0 1 20057
+D2
+The library continues...
+~
+~
+0 1 20068
+E
+book books collection tomes~
+The collection of books is second to none; fiction, non-fiction, reference
+books, encyclopedias of magic and everything else under the sun.  This
+library makes the one in the castle look like a sad joke.  What's that?
+No you can't take any!  The Mage's collection is not for lending.
+~
+E
+ladder ladders wooden sliding~
+The ladders are very tall and have been mounted on tracks to facilitate
+sliding them around the walls full of books.  They all have silly little
+signs that say "Please ask for assistance, Thank you".  Bah!
+~
+S
+#20057
+Western Hallway~
+This hallway is small and cozy, the walls made of fine ebonstone and trimmed
+with white plaster.  A plaster sculpture of a dryad stares at you with
+beautiful eyes from atop a plaster pedestal.  To the north the hallway dead
+ends into a larger, grander hall, west of here is a small doorway and to
+the south the western hallway continues into the darkness.
+~
+200 9 0 0 0 0
+D0
+You see a grand, vast hallway.
+~
+~
+0 1 20050
+D2
+The Western Hallway continues into the darkness.
+~
+~
+0 1 20069
+D3
+The door seems to lead into an immense library.
+~
+~
+0 1 20056
+E
+statue dryad plaster pedestal~
+The dryad is a Daughter of the Sea, she is depicted lying on a large rock
+in the sun, naked.  The sculpture is supported by a large, plaster pedestal.
+~
+S
+#20058
+The Western Side of the Reflecting Pool~
+You are up to your knees in frigid water!  You are standing in the
+reflecting pool, at the western side.  East of here is the center of the
+pool, your progress in any other direction is blocked by thick ebonstone
+walls.
+~
+200 9 0 0 0 6
+D1
+The center of the pool...
+~
+~
+0 1 20059
+E
+water pool~
+The pool is full of freezing-cold water.  It was very calm and tranquil
+before you decided to jump in, now it is swirling slowly.
+~
+S
+#20059
+The Center of the Reflecting Pool~
+The water here is deeper than at the sides of the pool, it comes up to your
+waist.  The water, which had been still when you decided to take a swim,
+has begun to churn and swirl.  The pool gets shallower to the north, south
+and west and you can climb out altogether by proceeding to the east.  The
+longer you stand here the colder this water becomes, you are beginning to
+feel very uncomfortable.
+~
+200 9 0 0 0 6
+D0
+The divining pool continues all the way to a large black wall.
+~
+~
+0 1 20055
+D1
+You can get back out of the divining pool by going that way.
+~
+~
+0 1 20060
+D2
+The divining pool continues all the way to a large black wall.
+~
+~
+0 1 20067
+D3
+The divining pool continues all the way to a large black wall.
+~
+~
+0 1 20058
+E
+pool water swirl~
+The water is churning and swirling very quickly, you have disturbed
+definitely disturbed the pool.
+~
+S
+#20060
+Near the Reflecting Pool~
+You are on a large platform just east of a large pool of still water.  The
+water does not appear to be very deep but it is so cold that you feel a
+chill just standing near it.  Powerful runes have been scorched into the
+pool itself and you assume that this pool is used as a divining aide by
+the Dark Mage on occasion.  By going west you can wade out into the pool,
+there is another exit to the east.
+~
+200 13 0 0 0 0
+D1
+There appears to be a hallway to the east.
+~
+~
+0 1 20061
+D3
+The pool looks cold, still and not very deep.
+~
+~
+0 1 20059
+E
+pool water~
+The water does not appear to be very deep but it is freezing cold and
+it looks very calm and peaceful just the way it is.
+~
+E
+platform~
+The platform on which you stand is composed of black marble.
+~
+S
+#20061
+Small Hallway~
+This is a small, comfortable hallway with stained, wooden panels and thick,
+brown carpeting.  A large portrait hangs on the northern wall and there
+appears to be a room to the west, through a high archway.  The hall itself
+continues both to the south and to the east.
+~
+200 9 0 0 0 0
+D1
+The hallway continues.
+~
+~
+0 1 20062
+D2
+The hall continues.
+~
+~
+0 1 20070
+D3
+You see some kind of large room.
+~
+~
+0 1 20060
+E
+paiting portrait picture~
+The picture is of an old man with a beard standing in some gardens.
+~
+E
+carpet carpeting rug~
+The rug is tan colored and very rich.
+~
+E
+panels~
+The wooden panels are made of stained mahogany wood and are a nice
+change of pace, I was getting quite tired of the damn stone walls.
+~
+S
+#20062
+Small Hallway~
+This is a comfortable, well-decorated hallway with fine wood paneling on the
+walls and a thick carpeting on the floor.  On the northern wall, in an
+elegant frame, there is a skillfully painted portrait.  You seem to be at a
+T-intersection; to the south, under a high arch, is a dark room, the hallway
+itself continues both east and west.
+~
+200 9 0 0 0 0
+D1
+The hall continues.
+~
+~
+0 1 20063
+D2
+Its some kind of room...
+~
+~
+0 1 20071
+D3
+Could it be more hallway?
+~
+~
+0 1 20061
+E
+carpet carpeting rug~
+The rug is tan colored and very rich.
+~
+E
+paneling~
+The wooden panels are made of stained mahogany wood and are a nice
+change of pace, I was getting quite tired of the damn stone walls.
+~
+E
+painting portrait~
+The portrait is of a dark, beautiful woman smiling secretively.
+~
+E
+arch archway~
+The archway is made of plaster and has been beautifully crafted.
+~
+S
+#20063
+Small Hallway~
+This is a small, elegantly-appointed hallway with beautifully stained
+wooden paneling on the walls and a thick carpet on the floor.  On the
+eastern wall there is a small doorway.  To the south and west, the
+hall continues.
+~
+200 9 0 0 0 0
+D1
+You see the desk in your own room!
+~
+~
+0 1 20064
+D2
+More hallway...
+~
+~
+0 1 20072
+D3
+More hallway...
+~
+~
+0 1 20062
+E
+carpet carpeting rug~
+The rug is tan colored and very rich.
+~
+E
+paneling~
+The wooden panels are made of stained mahogany wood and are a nice
+change of pace, I was getting quite tired of the damn stone walls.
+~
+S
+#20064
+Small Study~
+This appears to be a small, private study, a single shelf has been mounted
+on the wall above a crude, heavy desk.  There are no windows and the only
+exit is to the east.
+~
+200 9 0 0 0 0
+D3
+Help!  I don't want to study anymore!
+~
+~
+0 1 20063
+E
+desk~
+The desk is made of cheap wood and is nicked and scratched up.  Wax deposits
+on the top have accumulated; evidently someone studys here with a candle
+sometimes.  Even if you wanted to take the ugly desk, it would be far too
+heavy to carry with you.
+~
+E
+shelf bookshelf book books~
+The bookshelf is empty right now.
+~
+S
+#20065
+The Eastern Hallway~
+This is a medium sized, cozy hallway.  The walls are made of polished black
+ebonstone trimmed with fine white plaster.  Small, circular pillars are here
+more for effect than function, it would seem.  Beneath a plaster arch, to
+the east, there seems to be another room.  The hallway continues to the
+south but to the north it seems to empty into a much larger hall.
+~
+200 9 0 0 0 0
+D0
+I told you it hits a much larger hallway, read the damn description!
+~
+~
+0 1 20054
+D1
+You see the Swedish Chef from the Muppet Show.
+~
+~
+0 1 20066
+D2
+The hall continues...
+~
+~
+0 1 20073
+E
+pillar pillars plaster trim~
+The plaster trim and pillars look very nice against the black walls.
+~
+S
+#20066
+The Kitchen~
+This room is full of exotic fruits and rare vintages.  The wonderful smell
+of freshly baked bread wafts through the air, reminding you of the bakery
+in town and making your mouth water.  There is a door to the south and one
+to the west.
+~
+200 9 0 0 0 0
+D2
+You see a very nice place to take that special someone for an elegant,
+romantic dinner by candlelight.
+~
+~
+0 1 20074
+D3
+You see a boring old hall.
+~
+~
+0 1 20065
+E
+wine vintage bottle bottles~
+The wine bottles are rare and old.
+~
+E
+fruit fruits~
+There are some fruits here you have never seen before, not even at the
+fruit lady's shop, far away in the desert...
+~
+S
+#20067
+The Southern Side of the Reflecting Pool~
+You are standing knee-deep in the frigid water of the reflecting pool.  To
+the north of here, in the center of the pool, the water slightly deeper.
+Your way to the south, east and west is blocked by tall, black walls.
+~
+200 9 0 0 0 6
+D0
+Thats the only way out, friend.
+~
+~
+0 1 20059
+E
+water pool~
+The water is cold and is beginning to churn violently even though it was
+perfectly calm before you stepped in...
+~
+S
+#20068
+In the Great Library~
+You are near the center of the legendary Great Library -- largest collection
+of books in the known world.  There are small tables around the area for
+studying and sturdy wooden ladders that are used to retrieve books from
+shelves too high to reach unaided.  The Dark Mage has all manner of books
+in his collection, antiquarian and contemporary.  It is rumored that there
+are ancient manuscripts from forgotten ages that have survived no where else
+but inside this mystical tower.  The library continues both south and north
+from here.
+~
+200 9 0 0 0 0
+D0
+More books!
+~
+~
+0 1 20056
+D2
+More books!
+~
+~
+0 1 20076
+E
+book books collection tomes~
+The collection of books is second to none; fiction, non-fiction, reference
+books, encyclopedias of magic and everything else under the sun.  This
+library makes the one in the castle look like a sad joke.  What's that?
+No you can't take any!  The Mage's collection is not for lending.
+~
+E
+ladder ladders wooden sliding~
+The ladders are very tall and have been mounted on tracks to facilitate
+sliding them around the walls full of books.  They all have silly little
+signs that say "Please ask for assistance, Thank you".  Bah!
+~
+S
+#20069
+The Western Hallway~
+You are in the Western Hallway.  The walls here, like many other places
+around the tower, are made of fine ebonstone.  Skillfully cast white plaster
+is used as trim around the hallway.  From atop a pedestal a sculpture of the
+god Marek stares down at you, majestic power reflected in his eyes.  The
+hallway continues to the north and south.
+~
+200 9 0 0 0 0
+D0
+The hallway continues.
+~
+~
+0 1 20057
+D2
+I'm not telling you, read the description again.
+~
+~
+0 1 20077
+E
+statue plaster god marek~
+The sculpture depicts the god Marek molding mountains out of clay and
+helping to hold together the world.  It sits upon a plaster dias.
+~
+S
+#20070
+Small Hallway~
+This is a small, private hallway deep inside the tower.  The walls, which
+are surely made of ebonstone, have been completely covered over by elegantly
+stained mahogany panels and the hard floor is covered by a plush carpeting.
+The hallway itself leads north and south into the darkness.
+~
+200 9 0 0 0 0
+D0
+More hallway.
+~
+~
+0 1 20061
+D2
+More hallway.
+~
+~
+0 1 20079
+E
+carpet carpeting rug~
+The rug is tan colored and very rich.
+~
+E
+panel wood panels paneling mahogany~
+The wooden panels are made of stained mahogany wood and are a nice
+change of pace, I was getting quite tired of the damn stone walls.
+~
+S
+#20071
+The Portal Room~
+You are in a large, spartan room with a very high ceiling and walls of fine
+ebonstone.  To the south there is a flickering, glowing portal which will
+surely magically teleport you somewhere else.  To the north an ebon archway
+leads into darkness.
+~
+200 77 0 0 0 0
+D0
+It seems to lead into a dark hallway.
+~
+~
+0 1 20062
+D2
+There is no telling where this magic portal leads...
+~
+~
+0 1 20015
+E
+portal magic~
+The magic portal twists and dances like a living being.  There is no telling
+where you will end up should you step though.
+~
+S
+#20072
+Small Hallway~
+This is a small, cozy hallway with fine panels of stained mahogany on the
+walls and a thick, comfortable carpeting over the cold stone floor.  A large
+portrait has been framed on the eastern wall.  The hallway leads north and
+south.
+~
+200 9 0 0 0 0
+D0
+More more hallway damnit...
+~
+~
+0 1 20063
+D2
+More more more hallway...
+~
+~
+0 1 20081
+S
+#20073
+The Eastern Hallway~
+The reflective walls of black ebonstone and the carefully made plaster
+pillars give this hallway a regal ambiance.  A large picture has been
+framed and hung on the western wall and the hallway itself continues
+both to the north and south.
+~
+200 9 0 0 0 0
+D0
+More hallway.
+~
+~
+0 1 20065
+D2
+The hallway continues.
+~
+~
+0 1 20085
+E
+picture painting~
+The painting is very very large and seems to depict some sort of strange
+garden hedge maze.  As you look at it you swear it is moving!  You begin
+to lose track of time as your eyes search out every last detail of the
+artist's masterpiece.  Soon you realize that the air has begun to smell
+like flowers and the room has grown a great deal brighter.  The world
+spins and you feel like you are high.  Abruptly, you snap to your senses
+and find yourself...
+
+
+~
+E
+plaster white trim column columns~
+The plaster trim and columns are all very pretty and clean.
+~
+S
+#20074
+The Northern Dining Room~
+This is a truly wonderful room -- the crystal tables and chairs are very
+nice but the view is what makes this room special.  The entire eastern wall
+has been turned transparent, and the view is remarkable.  Although you can
+see leaves blown by a strong wind, the air here is still and warm.  The
+dining area extends to the south and a small door leads north into an
+adjacent room.
+~
+200 9 0 0 0 0
+D0
+You see the Swedish Chef from the muppet show!
+~
+~
+0 1 20066
+D2
+The dining area continues to the south.
+~
+~
+0 1 20086
+E
+wall~
+You walk over to the transparent wall and gaze out upon the land.
+All that greets your eyes are untold miles of blasted, scortched
+landscape, with mountains futher in the distance.  The sky is jet black
+and without stars.
+~
+E
+tables~
+The tables, chairs and place settings are made of fine, strong crystal.
+They must be quite valuable; as you touch a crystal knife you are shocked
+and instantly pull your hand away.  I guess whoever set the table doesn't
+want you messing it up.
+~
+S
+#20075
+Northern End of the Statue Gardens~
+You are in a very odd room; exotic plants and trees grow from soily ground
+here even though you are inside the tower still.  Far above your head, you
+see that the ceiling has been made of some transparent substance and allows
+light to feed the plants during the day.  A small path leads southward.
+~
+200 0 0 0 0 0
+D2
+The statue gardens continue.
+~
+~
+0 1 20083
+E
+tree trees plant plants~
+The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable.
+~
+E
+path~
+It leads south.
+~
+E
+ceiling~
+It is clear and looks as if it would allow sunlight to come in here.
+~
+S
+#20076
+Southern End of the Great Library~
+You are surrounded by books.  This is the southern end of the Dark Mage's
+Great Library, the largest collection of knowledge in the known world.
+Books literally line every wall, from floor to ceiling.  To the north,
+the library continues as far as you can see.  There is a small door on the
+eastern wall.
+~
+200 9 0 0 0 0
+D0
+More books!
+~
+~
+0 1 20068
+D1
+Some kind hall.
+~
+~
+0 1 20077
+E
+book books collection tomes~
+The collection of books is second to none; fiction, non-fiction, reference
+books, encyclopedias of magic and everything else under the sun.  This
+library makes the one in the castle look like a sad joke.  What's that?
+No you can't take any!  The Mage's collection is not for lending.
+~
+E
+ladder ladders wooden sliding~
+The ladders are very tall and have been mounted on tracks to facilitate
+sliding them around the walls full of books.  They all have silly little
+signs that say "Please ask for assistance, Thank you".  Bah!
+~
+S
+#20077
+The Eastern Hallway~
+You are in a hallway dominated by the statue of a wicked Dopsodod who
+stares at in hatred with his plaster eyes.  The walls here are made from
+blocks of ebonstone and contrasting white plaster trim.  The hallway
+extends to the north but empties into a larger area to the south.  A small
+doorway hangs on the western wall.
+~
+200 9 0 0 0 0
+D0
+You look north.
+~
+~
+0 1 20069
+D2
+You look south.
+~
+~
+0 1 20088
+D3
+You look west.
+~
+~
+0 1 20076
+E
+statue dop dopsodod~
+The dopsodod is a creature born of dark magic.  He has large eyes from
+living in dark caves and a wicked, evil smile.  He appears to be preparing
+to cast a spell.  The statue sits upon a plaster pedestal.
+~
+S
+#20078
+The Supply Closet~
+This room is not very big at all.  The counters on the walls here make
+it very hard to manuever.  This place smells very musty; it must be
+seldom used and maybe forgotten.  Interesting, you notice that someone has
+written something in the dust on the floor.
+The only exit is to the east.
+~
+200 9 0 0 0 0
+D1
+A sturdy wooden door
+~
+door wood wooden~
+1 -1 20079
+E
+dust marks mark writing message~
+In the dust someone has drawn a holy symbol and a prayer to the powerful
+gods of the Dark Pawns.  Reading the pious adventurer's message makes
+you feel very safe and tranquil.
+~
+S
+#20079
+Small Hallway~
+You are in a comfortable hallway that runs to the north and east.  Fine
+mahogany panels line the walls here and a plush carpeting covers the hard
+stone floor.
+~
+200 9 0 0 0 0
+D0
+North.
+~
+~
+0 1 20070
+D1
+East!
+~
+~
+0 1 20080
+D3
+A sturdy wooden door.
+~
+wooden door~
+1 -1 20078
+S
+#20080
+Small Hallway~
+This appears to be a T-intersection.  The small, comfortable hallway with
+wooden paneled walls continues both east and west from here while to the
+south a small corridor leads into the darkness.  A painting hangs from the
+northern wall.
+~
+200 9 0 0 0 0
+D1
+The hallway continues.
+~
+~
+0 1 20081
+D2
+You see a large room.
+~
+~
+0 1 20090
+D3
+The hallway continues.
+~
+~
+0 1 20079
+S
+#20081
+Small Hallway~
+You are in a comfortable, well-decorated hallway which leads to the north
+and west.  Potted plants hang from the ceiling here and the walls have been
+covered in fine wood panels.  To the east you hear birds chirping!
+~
+200 9 0 0 0 0
+D0
+Turn off the brief mode if you are lost.
+~
+~
+0 1 20072
+D1
+Turn off brief mode if you are lost!
+~
+~
+0 1 20082
+D3
+Read the damn description, thats what its there for.
+~
+~
+0 1 20080
+S
+#20082
+Entrance to the statue gardens~
+The ground here is soft and mushy!  Reaching down you find, to your
+surprise, that it is made of rich soil and covered in bark chips.  Exotic
+plants grow all around and tall trees stretch up nearly to the crystal
+ceiling that admits sunlight during the day.  Vividly colored birds fly
+from branch to branch; there is a small birdbath here also.  A small path
+leads to the east, to the west there is some kind of hallway.
+~
+200 13 0 0 0 0
+D1
+Looks like east.
+~
+~
+0 1 20083
+D3
+Looks like west.
+~
+~
+0 1 20081
+E
+birds bird birdies~
+They are nice, colorful tropical birds, for the most part.
+~
+E
+ceiling~
+It is clear and looks as if it would allow sunlight to come in here.
+~
+E
+path~
+It leads east.
+~
+E
+tree trees plant plants~
+The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable.
+~
+S
+#20083
+The Center of the Statue Gardens~
+At the very center of the gardens there is a large, circular bench made of
+dark ebonstone.  In the center of the bench is a large hole from which waves
+of hot air rush from time to time, heating this room.  Paths lead off in all
+directions and beautiful, rare plants grow around this area.
+~
+200 9 0 0 0 0
+D0
+Looks like a dead end.
+~
+~
+0 1 20075
+D1
+Dead end.
+~
+~
+0 1 20084
+D2
+Reminds you of badgerland.
+~
+~
+0 1 20087
+D3
+The way out.
+~
+~
+0 1 20082
+E
+tree trees plant plants~
+The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable.
+~
+E
+path~
+Which path!?  One leads north, south east and west.
+~
+E
+ceiling~
+It is clear and looks as if it would allow sunlight to come in here.
+~
+E
+birds bird birdies~
+They are nice, colorful tropical birds, for the most part.
+~
+S
+#20084
+The Eastern Side of the Statue Gardens~
+You are at the eastern side of the wondrous indoor gardens.  The trees
+here are so tall that they brush against the crystal roof hundreds of feet
+above your head.  Lovely tropical birds fill the air with song.  A small
+pathway leads westward.
+~
+200 9 0 0 0 0
+D3
+Looks like the only choice you have.
+~
+~
+0 1 20083
+E
+tree trees plant plants~
+The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable.
+~
+E
+path~
+It leads west.
+~
+E
+ceiling~
+It is clear and looks as if it would allow sunlight to come in here.
+~
+E
+birds bird birdies~
+They are nice, colorful tropical birds, for the most part.
+~
+S
+#20085
+Eastern Hallway~
+This is a medium-sized hallway.  Its white plaster trim stands out in
+contrast to the black walls of polished ebonstone.  There is a large,
+ornate archway set in the eastern wall.  This hallway leads north into
+the distance but south of here there is another, larger hall.
+~
+200 9 0 0 0 0
+D0
+Look kinda like north.
+~
+~
+0 1 20073
+D1
+To the east you see a mess hall.
+~
+~
+0 1 20086
+D2
+There's a deadly monster to the south, I wouldn't go.
+~
+~
+0 1 20092
+E
+trim plaster column pillar~
+The white plaster is very pretty.
+~
+S
+#20086
+Dining Area~
+This is where the servants eat, you assume.  While the tables are not
+elegant, they are solidly made and sturdy.  To the north the dining area
+continues and on the western wall there is a large, plaster arch.
+~
+200 9 0 0 0 0
+D0
+You see chez pierre's
+~
+~
+0 1 20074
+D3
+There seems to be a hallway that way.
+~
+~
+0 1 20085
+E
+table chair~
+The tables and chairs here are made of crude, strong oak.  They are not
+set at the moment.
+~
+S
+#20087
+The Southern Edge of the Statue Garden~
+This part of the statue garden is full of tropical herbs and ferns.  Insects
+crawl around happily on the ground and exotic birds flap from shrub to
+shrub.  A little path leads northward.
+~
+200 9 0 0 0 0
+D0
+The path leads back to the center of the gardens.
+~
+~
+0 1 20083
+E
+tree trees plant plants~
+The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable.
+~
+E
+path~
+It leads north.
+~
+E
+ceiling~
+It is clear and looks as if it would allow sunlight to come in here.
+~
+E
+fern herb~
+The plants growing here looks as if they may be valuable spell components.
+~
+S
+#20088
+The Crystal Hallway~
+This is one end of a vast hallway made of dark crystal.  The walls hum and
+vibrate as they conduct magical energy.  Every so often a streak of light
+races through the inside of the crystal with lightning speed.  The hallway
+continues to the east and to the north a smaller cooridoor leads into the
+distance.
+~
+200 9 0 0 0 0
+D0
+You see a second rate hallway.
+~
+~
+0 1 20077
+D1
+The crystal hallway continues.
+~
+~
+0 1 20089
+E
+crystal wall walls ceiling floor pillar column black dark~
+The walls, floor and ceiling are made of dark humming dark crystal.
+~
+S
+#20089
+The Crystal Hallway~
+You are standing in a vast hallway with walls, floor and ceiling made of
+living black crystal.  Under your feet the floor gently hums and shakes
+as currents of magic race through the crystal all around.  Every so often
+bolts of energy leap between the floor and ceiling and cause the air to
+crackle.  The hallway leads east-west.
+~
+200 9 0 0 0 0
+D1
+More hallway.
+~
+~
+0 1 20090
+D2
+Some small room.
+~
+~
+0 1 20093
+D3
+A large chamber in that direction.
+~
+~
+0 1 20088
+E
+crystal~
+The walls, floor and ceiling are made of dark humming dark crystal.
+~
+S
+#20090
+The Crystal Observatory~
+The ceiling here is transparent and, on a high dias in the center of the
+room, a stargazing device is pointed up toward the heavens.  The walls here
+are made of strange black crystal that vibrates and hums as if alive.  Every
+so often waves of magical light are conducted through the crystal walls at
+lightning speed.  On the southern wall there is a shimmering waterfall of
+magical energy.  Hallways lead east and west and a small passageway branches
+north.
+~
+200 9 0 0 0 0
+D0
+You wish that your wounds would stop BLEEDING that much!
+~
+~
+0 1 20080
+D1
+That really did HURT!
+~
+~
+0 1 20091
+D2
+PANIC! You couldn't escape.
+~
+~
+0 1 20094
+D3
+Someone utters the words 'yaphurr'
+You are enveloped in a fireball sent by Someone
+That really did HURT!
+~
+~
+0 1 20089
+E
+crystal wall walls ceiling floor pillar column black dark~
+The walls, floor and ceiling are made of dark humming dark crystal.
+~
+E
+telescope device stargazer~
+The telescope is a marvel in optical technology and magical power.
+It is large and complicated, you had better not touch it.
+~
+S
+#20091
+The Crystal Hallway~
+You are in a large hallway made entirely of black crystal.  Great pillars
+stretch from floor to ceiling and there are mystical runes carved into
+the walls here.  You can go east, west or south.
+~
+200 9 0 0 0 0
+D1
+More hallway.
+~
+~
+0 1 20092
+D2
+You are hungry.
+~
+~
+0 1 20095
+D3
+You are thirsty.
+~
+~
+0 1 20090
+E
+crystal wall walls ceiling floor pillar column black dark~
+The walls, floor and ceiling are made of dark humming dark crystal.
+~
+S
+#20092
+The Crystal Hallway~
+This is the end of a large, beautiful hallway made entirely of blackened
+crystal which hums and vibrates as it conducts magical energies.  The hall
+continues to the west while another, smaller one leads off to the north.
+~
+200 9 0 0 0 0
+D0
+The Dark Mage's Tower, Copyright (C) 1105 by Vyga, All rights reserved.
+~
+~
+0 1 20085
+D3
+For a map and hintbook send $19.95 check or money order to:
+P.O. Box 124
+Justkidding, VA 12345
+~
+~
+0 1 20091
+S
+#20093
+Bathroom~
+This is a large, private bathroom with a large of blackened marble set in
+the floor and filled with steaming, bubbly water.  There is a basin on the
+wall along with a large silver mirror.  The only exit is to the north.
+~
+200 9 0 0 0 0
+D0
+A large hallway.
+~
+~
+0 1 20089
+E
+basin tub bath~
+Both the washbasin and the bath are made of fine black marble.
+~
+E
+mirror silver~
+The mirror is made with fine silver and is mounted on the back of the
+door.  You look very good, you notice.
+~
+E
+water bubbles steam steaming~
+A hot bath has been drawn, foamy little soap bubbles float on its surface.
+~
+S
+#20094
+Guest Quarters~
+This is where the rare visitor who accepts an invitation to the Dark Tower
+sleeps.  The bed in the corner of the room is very comfortable but is not
+made up.  A large wardrobe made of fine wood dominates the southern wall.
+The only exit is to the north.
+~
+200 9 0 0 0 0
+D0
+Some kind of hallway.
+~
+~
+0 1 20090
+E
+bed bunk~
+It is a comfortable king-sized bed.
+~
+E
+wardrobe cabinet~
+The wardrobe cabinet is made of fine mahogany wood and is full of fur
+coats... it looks like it goes a long way back.
+~
+S
+#20095
+Portal Room~
+You are in another portal room... the magical transporter flickers and
+dances happily on the southern wall.  Where it will take you is anyone's
+guess.  There is a door back to the hallway to the north.
+~
+200 77 0 0 0 0
+D0
+Hallway...
+~
+~
+2 1004 20091
+D2
+
+~
+~
+0 1 20135
+E
+portal~
+Its a magical doorway, but who knows where it leads.
+~
+S
+#20096
+Dungeon Cell~
+You are standing in a small, smelly cell deep under the ground.  Musty,
+fleshy odors assail you.  Mildew grows on the hard, straw cot and water
+drips from the rough stone ceiling above.  A few loose bones are scattered
+about the room.  The only exit is though a door on the southern wall.
+~
+200 9 0 0 0 0
+D2
+There is a dimly lit hallway beyond the door.
+~
+cell door~
+2 20023 20100
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
+~
+E
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+cot straw hay lice flea~
+The hay appears to be where prisoners sleep; it is very dirty and lice
+infested.  Yuck!
+~
+E
+scratch mark marks~
+There are a series of marks scratched into the wall, it looks like someone
+was trying to keep track of time in here.
+~
+S
+#20097
+Torture Room~
+This appears to be where prisoners are taken to be tortured.  A large rack
+bolted solidly into the wall with nasty looking spikes and strong leather
+straps is covered in bloodstains.  On the walls there are diagrams of human
+anatomy and in a case near the door are a set of strangely-shaped blades.
+There are notches in the doorframe.  The only exit is through a door on the
+southern wall.
+~
+200 9 0 0 0 0
+D2
+A hallway.
+~
+door~
+1 0 20101
+E
+rack~
+The rack is a large wooden device with leather straps and long iron spikes.
+Iron cables run through gears below the rack -- it appears that the rack can
+be stretched.
+~
+E
+bloodstains~
+The wicked looking, iron spikes and blades are covered in old, dry blood.
+~
+E
+notches~
+Someone is keeping track of something... there are about 300 marks.
+~
+E
+blades~
+The strong case houses a variety of strange looking torture blades.  They
+are very sharp, you'd better not touch them...
+~
+E
+diagram~
+The diagrams show anatomical differences between the races and methods of
+interrogation.  They are quite distressing.
+~
+S
+#20098
+Storage Room~
+There is a large set of empty shelves along the entire northern wall here.
+This is, most likely, the place where items stolen from prisoners are stored
+in times when the dungeon is fuller.  There is a large, sturdy door set in
+the southern wall.
+~
+200 9 0 0 0 0
+D2
+There is a hallway beyond the door.
+~
+door~
+2 20023 20102
+E
+shelf shelves~
+The shelves are empty.
+~
+S
+#20099
+Dungeon Cell~
+This is a very small, cold room with a lice-ridden cot of hard straw and a
+rusty water basin on the western wall.  Mold grows thick on the unfinished
+walls of black stone here, and through a crack in the ceiling, water
+incessantly drips to the hard floor and down a small drain.  The only exit
+is through a door on the eastern wall.
+~
+200 9 0 0 0 0
+D1
+Through the bars in the door you see a dark hallway.
+~
+cell door~
+2 20023 20100
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
+~
+E
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+cot straw hay lice flea~
+The hay appears to be where prisoners sleep; it is very dirty and lice
+infested.  Yuck!
+~
+E
+scratch mark marks~
+There are a series of marks scratched into the wall, it looks like someone
+was trying to keep track of time in here.
+~
+E
+crack ceiling~
+The crack is very small... but water has found its way in.
+~
+E
+drain floor~
+The drain on the floor is made of iron and is only the size of a small
+plate.
+~
+S
+#20100
+Hallway~
+This is an unremarkable stone hallway through a subterranean dungeon
+complex.  There are strong doors on to the north and the west, while
+the hallway itself continues to the east and south.
+~
+200 9 0 0 0 0
+D0
+You see a small, smelly room beyond a door.
+~
+cell door~
+2 20023 20096
+D1
+You see a room beyond the door.
+~
+~
+2 1120 20101
+D2
+The hallway continues into the darkness.
+~
+~
+0 1 20105
+D3
+Through the bars in a heavy door you see a little cell.
+~
+cell door~
+1 20023 20099
+E
+walls floor ceiling stone torch iron fixture~
+everything about this hall is ordinary and unremarkable :)
+~
+S
+#20101
+Hallway~
+You are walking down an unremarkable hallway through an underground dungeon
+far below the tower.  The walls here are made of unfinished black stone and
+are lines, on the north, with cell doors.  The hallway itself continues to
+the east and west and another passageway leads off southward.
+~
+200 9 0 0 0 0
+D0
+There looks to be a room to the north.
+~
+door~
+1 20023 20097
+D1
+hallway
+~
+~
+0 1 20102
+D2
+cooridoor
+~
+~
+0 1 20106
+D3
+hallway
+~
+~
+0 1 20100
+S
+#20102
+Hallway~
+You are at a corner in a cold, stone hallway through the dungeon; from this
+point the hallway runs both east and south into the darkness.  Strong doors
+are set in the north and west walls.
+~
+200 9 0 0 0 0
+D0
+There seems to be something behind the door.
+~
+door~
+2 20023 20098
+D1
+You see a small prison cell through the bars on the door.
+~
+cell door~
+2 20023 20103
+D2
+Hallway.
+~
+~
+0 1 20107
+D3
+~
+~
+0 1 20101
+S
+#20103
+Dungeon Cell~
+This is a rank, vile prison cell somewhere far below the tower.  The only
+furnishings are a filthy straw cot and a rickety old table.  A strong, iron
+door hangs on the western wall and is the only exit.
+~
+200 9 0 0 0 0
+D3
+An unremarkable hallway.
+~
+cell door~
+2 20023 20102
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
+~
+E
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+cot straw hay lice flea~
+The hay appears to be where prisoners sleep; it is very dirty and lice
+infested.  Yuck!
+~
+E
+scratch mark marks~
+There are a series of marks scratched into the wall, it looks like someone
+was trying to keep track of time in here.
+~
+S
+#20104
+Graak's Room~
+This is not a fancy room, but it is much nicer than the cells in the other
+parts of this dungeon.  A medium sized, functional bed is pushed up against
+the western wall and a nice writing desk sits perpendicular to the bed.  A
+torch bolted into the wall lights the entire room.  Anatomical charts have
+been hung from the walls and diagrams of standard torture techniques are
+taped to the desk.  The only exit is through a door to the east.
+~
+200 9 0 0 0 0
+D1
+~
+door~
+1 0 20105
+E
+bed~
+There is a neatly made bed against the wall.  There seems to be a plastic
+tarp under the sheet, maybe someone has a bed-wetting problem...?
+~
+E
+desk~
+There is a letter addressed "Dear Mommy" on the desk.  It seems to be
+written in blood.
+~
+E
+torch~
+It is just an ordinary, standard issue torch.  Its bolted down so that YOU
+can't take it!
+~
+E
+diagram~
+The posters show some standard torture methods and the anatomy of the
+different races.  There are glosses and notes penned in on many of them.
+~
+S
+#20105
+Hallway~
+This is an ordinary hallway made of rough stone and lit by torches bolted
+to the walls.  A flimsy door hangs on the western wall, the hallway itself
+leads north-south.
+~
+200 9 0 0 0 0
+D0
+More hallway.
+~
+~
+0 1 20100
+D2
+More hallway...
+~
+~
+0 1 20110
+D3
+You see a torture master.
+~
+door~
+1 0 20104
+S
+#20106
+Dark Corridor~
+   This is a rancid-smelling dark cooridoor somewhere far below the ground.
+To the north and south, hallways cross it to form a 4-way intersection.
+You may continue to the north or south from here.
+~
+200 9 0 0 0 0
+D0
+You see a cross-hallway.
+~
+~
+0 1 20101
+D2
+You see an intersection.
+~
+~
+0 1 20111
+S
+#20107
+Hallway~
+This is a smelly hallway made of ordinary black stone.  Torches hang from
+iron fixtures set in the walls and a heavy cell door leads eastward.  This
+hallway continues to the north and south.
+~
+200 9 0 0 0 0
+D0
+A corner.
+~
+~
+0 1 20102
+D1
+A small room.
+~
+cell door~
+2 20023 20108
+D2
+More hallway leads into the distance.
+~
+~
+0 1 20112
+S
+#20108
+Dungeon Cell~
+This is a very smelly prison cell with a lice-infested hay pile in one
+corner and a pile of human waste in another.  It looks as if someone has
+been here recently.  The only exit is to the west through a heavy door.
+~
+200 9 0 0 0 0
+D3
+Hallway.
+~
+cell door~
+2 20023 20107
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
+~
+E
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+hay~
+The hay appears to be where prisoners sleep; it is very dirty and lice
+infested.  Yuck!
+~
+E
+scratch mark marks~
+There are a series of marks scratched into the wall, it looks like someone
+was trying to keep track of time in here.
+~
+E
+waste~
+There is a nice pile of shit lying in the corner; it smells wonderful.  Ah,
+well, at least it didn't attack you like piles do on the farm...
+~
+S
+#20109
+Dungeon Cell~
+   A pile of dirty straw rests on the cold, hard floor here and seems to
+be the only thing in this cell.  The walls are made of thick, black stone
+while the cell door to the east is made of a reinforced iron.
+   Small scratch marks have been etched into a stone near the straw, but
+offer little other than an indication that some trapped soul was bored
+during his imprisonment.
+~
+200 9 0 0 0 0
+D1
+You see an angry looking prison guard walking up a hallway!
+~
+cell door~
+2 20023 20110
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
+~
+E
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+cot straw hay lice flea~
+The hay appears to be where prisoners sleep; it is very dirty and lice
+infested.  Yuck!
+~
+E
+mark marks~
+There are a series of marks scratched into the wall, it looks like someone
+was trying to keep track of time in here.
+~
+S
+#20110
+Hallway~
+This is an unremarkable subterranean hallway made of ordinary black stone
+and running though a dark, rancid dungeon.  A cell door is set in the wall
+to the west of here, to the east a small passageway leads into darkness.
+This hallway continues both to the north and south.
+~
+200 9 0 0 0 0
+D0
+More hallway.
+~
+~
+0 1 20105
+D1
+An intersection.
+~
+~
+0 1 20111
+D2
+More hallway.
+~
+~
+0 1 20115
+D3
+A prison cell.
+~
+cell door~
+2 20023 20109
+S
+#20111
+A 4-Way Intersection~
+You are standing at the junction of two hallways; the smaller one leads to
+the north and south while the larger continues east and west.  You may
+proceed in any cardinal direction.
+~
+200 13 0 0 0 0
+D0
+Read the description.
+~
+~
+0 1 20106
+D1
+A large cooridoor appears to dead-end into the main dungeon hall.
+~
+~
+0 1 20112
+D2
+A small cooridoor leads into the darkness.
+~
+~
+0 1 20116
+D3
+A large cooridoor hits the main dungeon hallway to the west.
+~
+~
+0 1 20110
+S
+#20112
+Hallway~
+This is an ugly, spartan hallway made entirely of unfinished black stone and
+lit by large torches set into the walls.  A large, reinforced door hangs on
+the eastern wall while the hallway itself continues to the north and south.
+A small opening in the western wall leads into the darkness.
+~
+200 9 0 0 0 0
+D0
+The hallway continues into the distance.
+~
+~
+0 1 20107
+D1
+There is a small room beyond the door!
+~
+cell door~
+2 20023 20113
+D2
+The hallways leads into the darkness.
+~
+~
+0 1 20117
+D3
+A passageway leads into the darkness.
+~
+~
+0 1 20111
+S
+#20113
+Dungeon Cell~
+The vile state of this room makes your stomach lurch.  The decomposing
+cadaver of what looks to be an elf rots in the centre of the floor.
+A cot of dirty straw and a rusty basin of water set into the wall are
+the only other things in this wretched little cell.  The only exit is
+to the west through a large, iron bound door.
+~
+200 9 0 0 0 0
+D3
+A dungeon hallway.
+~
+cell door~
+2 20023 20112
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
+~
+E
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+cot straw hay lice flea~
+The hay appears to be where prisoners sleep; it is very dirty and lice
+infested.  Yuck!
+~
+E
+scratch mark marks~
+There are a series of marks scratched into the wall, it looks like someone
+was trying to keep track of time in here.
+~
+E
+basin rusty~
+The rusty basin has filthy, warm water in it.
+~
+S
+#20114
+Warden's Room~
+This is a comfortable little room with a nice desk, an armoir, and a
+comfortable-looking bed.  There is a clean basin of water set in one wall
+and a wooden door set in another.  The only exit is to the east.
+~
+200 9 0 0 0 0
+D1
+~
+door~
+2 0 20115
+E
+desk chair armoir bed~
+The furniture in this room is made of matching oak and is nicely stained.
+~
+E
+basin~
+It looks as if someone comes down here and cleans the basin regularly.
+~
+S
+#20115
+Hallway~
+This is an ordinary stone hallway running through the dungeon.  To the east
+a flimsy wooden door bars the way.  The hallway itself continues to the
+north and south.
+~
+200 9 0 0 0 0
+D0
+The hallway leads into the darkness.
+~
+~
+0 1 20110
+D2
+The hallway seems to end soon.
+~
+~
+0 1 20120
+D3
+The warden's room.
+~
+door~
+2 0 20114
+S
+#20116
+A Dark Corridor~
+This is a small, dark corridor far underground.  It continues both to the
+north and south.                  
+~
+200 9 0 0 0 0
+D0
+Dark Cooridoor.
+~
+~
+0 1 20111
+D2
+You think you can see a hallway up ahead.
+~
+~
+0 1 20121
+S
+#20117
+Hallway~
+You are standing in an unremarkable stone hallway through an underground
+dungeon.  A large door is set into the eastern wall and this hallway
+continues to the north and south.
+~
+200 9 0 0 0 0
+D0
+More hallway.
+~
+~
+0 1 20112
+D1
+Mmmm, bread and water!
+~
+~
+2 1 20118
+D2
+Hallway corner.
+~
+~
+0 1 20122
+S
+#20118
+Small Kitchen~
+This facility is not very clean or well-equipped.  A few filthy pots and
+pans are strewn about, insects crawl around looking for crumbs of the rock
+hard bread this kitchen produces.  A small, rusty faucet spigot is set
+in the eastern wall and a wooden door hangs on the western wall offering
+the only exit.
+~
+200 9 0 0 0 0
+D3
+~
+~
+2 1 20117
+E
+pots pans~
+The pots and pans have crusty, baked on, burnt remains of hard bread stuck
+to the bottoms.  They are sitting in a big pile on the dirty floor.
+~
+E
+spicket~
+The handle of the faucet is so rusty that you have a hard time turning it...
+when you do a gush of smelly, metallic sludge squirts out.
+~
+E
+floor crumbs insects insect~
+The floor is covered with little roaches feasting on small, hard crumbs.
+~
+S
+#20119
+Torture Room~
+This is a room with a large, strange device mounted to the floor.  Strong
+iron shackles hang from the walls next to a large diagram.  The only exit
+is back to the west.
+~
+200 9 0 0 0 0
+D1
+Hallway.
+~
+cell door~
+2 20023 20120
+E
+chart picture diagram drawing wall poster~
+It is a poster of a very beautiful human female tied into a large torture
+rack.  Interesting...
+~
+E
+shackle shackles iron wall walls~
+Some of the iron shackles on the walls here are empty; from the others
+bones and, in one case, a complete skeleton hangs.
+~
+E
+skeleton~
+It is the skeleton of a small elf child.
+~
+E
+rack device~
+It is too complicated to describe -- lets just say it is a mass of moving
+parts, leather straps, sharp blades, large gears and bloodstains.
+~
+S
+#20120
+Hallway~
+This is a dark corner of the main hallway through the dungeon; it continues
+to the north and east.  To the south a strange, magical door hums slightly
+and to the west a small wooden door blocks the way.
+~
+200 9 0 0 0 0
+D0
+More hallway
+~
+~
+0 1 20115
+D1
+The door says "Torture Room B"
+~
+~
+2 1 20121
+D2
+It must be some kind of magical cell.
+~
+humming magic door~
+2 20023 20124
+D3
+More hallway.
+~
+cell door~
+2 20023 20119
+S
+#20121
+Hallway~
+You are in a small, dark hallway through the dungeons.  There is a small
+opening in the northern wall they you might be able to squeeze through, a
+strange, humming door is set in the southern wall.  This hallway continues
+to the east and west.
+~
+200 9 0 0 0 0
+D0
+Through the crack you see nothing but darkness.
+~
+~
+0 1 20116
+D1
+The hallway continues.
+~
+~
+0 1 20122
+D2
+It must be a magical cell?
+~
+humming magic cell door~
+2 20023 20125
+D3
+The hallway continues.
+~
+~
+0 1 20120
+S
+#20122
+Hallway~
+This is a stereotypical, ordinary, boring hallway made of rough black stone.
+Large, iron torches have been bolted into the walls and there is a small
+wooden door which leads east.  The hallway itself continues both north
+and west as far as you can see, there is a large door to the south.
+~
+200 9 0 0 0 0
+D0
+More hallway.
+~
+~
+0 1 20117
+D1
+The door says "guard barracks" and these ain't no cityguards.
+~
+door~
+2 0 20123
+D2
+It must be a prison cell.
+~
+cell door~
+2 20023 20126
+D3
+More hallway...
+~
+~
+0 1 20121
+S
+#20123
+Guard Barracks~
+This is a small, impersonal room dominated by row after row of triple bunks.
+The door set in the western wall is the only exit.
+~
+200 9 0 0 0 0
+D3
+Hallway.
+~
+door~
+2 0 20122
+E
+bed beds bunk bunks triple~
+The bunks are military-style and are made neatly.  There is a teddy bear
+on one.
+~
+E
+teddy bear~
+The teddy bear has a cute little uniform with a captain's bars on his
+collar.  He is about a foot tall and has been posed saluting crisply.
+~
+S
+#20124
+Magical Cell~
+This is a strange, magical cell;  Large runes have been scorched into the
+walls and smaller magical symbols have been burned into each individual
+stone.  On the floor a giant circle has been drawn, there is a bed in the
+center of the circle.  There is a strange, crystal window in the southern
+wall.
+~
+200 13 0 0 0 0
+E
+window~
+Through the window you see strange, ugly fish swimming in dark water.  It
+takes you a moment but you suddenly realize you are looking out into the
+depths of Death Lake from a submerged section of the tower.
+~
+E
+rune runes symbols markings~
+They appear to be magical marks that bind one stone to another and make
+the room inescapable.
+~
+S
+#20125
+Magical Cell~
+You are in a strange, magical cell; the walls of black stone seems to hum
+with vast amounts of magical energy.  Large symbols have been burned into
+the floor and ceiling, smaller runes burned into each individual stone.
+On the southern wall is a glowing energy vortex which flickers and lights
+up this entire room.  Evidently someone found a way to penetrate the magic
+of this cell and escaped very recently.  The vortex seems to be losing
+its strength... I'd suggest you leave before you are trapped!
+~
+200 141 0 0 0 0
+D2
+The portal seems very unstable, it is possible a powerful wizard used
+it to escape from this cell recently.
+~
+~
+1 1 20015
+E
+rune runes symbols markings~
+They appear to be magical marks that bind one stone to another and make
+the room inescapable.
+~
+S
+#20126
+Dungeon Cell~
+This must be the VIP cell -- it is well decorated, spacious and, well,
+comfortable.  There is a large bed on one wall and a fine wooden dresser
+opposite it.  The only exit is back to the north.
+~
+200 9 0 0 0 0
+D0
+Hallway.
+~
+cell door~
+2 20023 20122
+S
+#20127
+The Apprentice's Room~
+You stand in a large, comfortable sleeping chamber.  A large crystal window
+commands an awe inspiring but somewhat horrific view of the blasted
+landscape outside of the tower.  A large, regal bed is positioned on
+one wall and a beautiful desk made of fine ebonstone stands opposite the
+bed.  On the plaster ceiling a great artist has painted an epic mural.
+An opening in the eastern wall leads into an adjoining chamber and
+there is a door set in the southern wall.
+~
+200 9 0 0 0 0
+D1
+The chamber to the east appears to be a bathing area.
+~
+~
+0 1 20128
+D2
+The door leads into a hallway.
+~
+~
+2 1 20130
+E
+window~
+The window is made from thick, transparent crystal and does not appear to
+be openable.  The view it affords is quite breathtaking.  You must be near
+the top of the tower, from way up here you can see all the way to the end
+of the world.  Below, you see the cold waters of Death Lake, and, further
+north, the formidable mountains that are so tall no one can climb beyond
+them yet.  Beyond that is the great northern wasteland, a void not yet
+filled.
+~
+E
+bed~
+The bed is large and well built, its blackened wood has been skillfully
+decorated by a expert wood-carver.  The four posts extend up and support
+a track from which fine curtains of black suede hang.  On the wooden
+headboard is a carving which tells the story of the fall of the Great
+Empire.
+~
+E
+carving headboard~
+The headboard carving tells of foolish kings and nobles who became so
+greedy that the peasants rebelled against them.  Alone, the commoners
+would have been no match for the Imperial Knights but the gods pitied
+the brave serfs and caused great heroes to join the battle on their side.
+When the war had ended, the Great Empire was no more and the Last Outpost
+was founded by the wise gods.  Since then, many great adventurers have
+come to these lands seeking fame, power and fortune.
+~
+E
+desk ebonstone ebon~
+The large desk looks like one a great scribe would use; its surface is made
+of smooth, black ebonstone and is supported by fine, stained wood sides.
+~
+E
+mural~
+The mural depicts the creation of the Dopsodod, a powerful creature born
+of pure dark magic.  It shows a man in a blowing dark cloak granting the
+energy of life to a creature crafted of stone and clay.  Overhead, the gods
+look on in disapproval; not only is it distressing that a mere mortal has
+mastered the secrets of creation, but the vain mage has made a mockery of
+the gods by forming evil, wicked creatures in their sacred images.  Storm
+clouds gather and foreshadow coming doom.
+~
+S
+#20128
+Apprentice's Private Bath~
+This room is made entirely of smooth grey marble.  The center of the floor
+tapers down into a large tub full of steaming water.  The flawless marble
+walls are trimmed with white plaster and four thick plaster columns run
+from the floor up to the stone ceiling.  The only exit is through an opening
+on the western wall.
+~
+200 9 0 0 0 0
+D3
+A sleeping room.
+~
+~
+0 1 20127
+E
+stone~
+The walls, floor, and ceiling are made of expensive, flawlessly cut blocks
+of fine grey marble.  Since marble is rare and not indigenous to this land,
+they must have been either magically created or shipped in from over the
+sea.
+~
+E
+tub~
+The bath is quite large and has been fashioned out of one very large piece
+of marble stone; to find such a large slab of marble must have taken
+decades.  Steps lead down into the steaming water and pipes run fresh,
+hot water into the tub as a small drain allow a bit of water to run the
+bottom of the tub.
+~
+E
+plaster~
+The plaster trim is a tactile, meandering pattern of rectangles in a
+repeating series.  At the tops of the columns, upon the ionic cap, carvings
+of the God of the Sea and his servants gaze down at you.
+~
+S
+#20129
+Apprentice's Laboratory~
+Although you have been in the alchemist's shop many times, you have never
+seen such a laboratory as this one.  Indeed, this room makes the alchemist's
+workplace seem small and insignificant.  The room is dominated by a large
+black counter upon which sit a myriad of flasks, beakers and vials.  A
+strange, large table hangs from one wall, the likes of which you have never
+seen before.  Runes of protection have been chiseled into the walls and
+ceiling.  The only exit is back to the east.
+~
+200 9 0 0 0 0
+D1
+Hallway.
+~
+~
+0 1 20130
+E
+flasks vials~
+Inside the many containers on the counter are strange liquids of all colors
+and properties.  Some smoke and bubble, others glow and pulse.  Still others
+constantly change color and some are simply plain and dull.  You are very
+tempted to take a few vials of liquid with you but, since you know nothing
+about alchemy, you would be very afraid to quaff any of them.
+~
+E
+counter workspace desk black~
+The large counter sits in the center of the room.  Its sides are covered
+with powerful runes of protection and it's black top has many stains and
+chips in its surface.  Atop the workspace sit many glass vials and flasks.
+~
+E
+rune runes~
+The runes have been chiseled everywhere... upon the walls, on the desk,
+in the ceiling, even on the stone floor.  Although they are quite archaic
+and strange, you sense that they serve to protect the room from and
+accidental explosion or fire caused by the mixture of potent chemical
+agents.
+~
+E
+chart table periodic wall~
+On one wall of ebonstone hangs a strange table with many entries upon it.
+The first four you immediately recognize as basic elements -- Water, Fire
+Air and Earth -- any educated person would.  But the table continues
+describing many other substances of which you have never heard.
+~
+S
+#20130
+Hallway~
+You are standing in a large, elegant hallway with a high ceiling and marbled
+ebon walls.  On the ceiling, far above, there is a beautiful mural done in
+ancient style.  A beautifully crafted door is set in the northern wall and to
+the east an opening leads into another room.  This hallway leads south and
+an opening on the western wall leads into darkness.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20127
+D1
+~
+~
+0 1 20131
+D2
+~
+~
+0 1 20133
+D3
+~
+~
+0 1 20129
+E
+mural ceiling painting~
+The mural must have been commissioned of some ancient master, his name
+forgotten with the passage of time.  It depicts a mage in flowing black
+robes locked in battle with a rival warlock and his allies.  Bolts of
+radiant fire leap from the outstretched hands of the black clad mage,
+streaking towards his foe.  The other mage, clad in a pure white robe,
+holds his hands before him, as if trying to shield himself from the
+impending blast.  All about the ground are corpses of other magicians,
+all clad in white.  The work is entitled "The Fall of the White Order".
+~
+E
+door crafted wood wooden~
+The wooden door is constructed of a hard, beautiful wood which you have
+never seen before.  It must have been magically procured from a far away
+land.
+~
+S
+#20131
+Summoning Chamber~
+This is a circular room with plain walls of stone and a giant magical
+symbol cut into the floor.  Runes gilded in gold are cast in the walls
+around the chamber.  The opening to the west has magical words etched
+above it and is the only apparent exit from this chamber.
+~
+200 9 0 0 0 0
+D3
+~
+~
+0 1 20130
+E
+symbol floor~
+The symbol is a large circle with a large rune drawn in its center.  The
+rune is archaic and complicated but you suspect its function is to entrap
+dangerous creatures summoned here from this world and others so that they
+are powerless to harm their summoner.  You are not certain what spells the
+mages use to activate the enchantment on this room so you doubt if they
+would protect you from beasts you might summon.
+~
+E
+rune runes walls wall~
+The runes set in the walls and covered with gold are old and difficult to
+decipher.  Even so, you suspect they are enchantments to protect the tower
+and the magic-user from creatures of great power summoned here from both
+this world and others.  You, however, are ignorant as to the exact meanings
+of the many runes and as to the way to activate their powerful magic, so
+you highly doubt if they would protect you from any creatures you might
+summon.
+~
+S
+#20132
+Private Study~
+This room is a cozy, private study which probably belongs to the Apprentice
+Mage.  An elegant, leather chair sits in front of a large fireplace in which
+a roaring fire blazes despite the fact that it has no apparent fuel.  Black
+candles around the room light up as you walk in the door and illuminate the
+impressive collection of spellbooks stored neatly on the shelves here.  On
+the plaster ceiling, high overhead, is a great mural which is so beautiful
+it must have taken years to complete.  An opening in the eastern wall leads
+into the darkness.
+~
+200 9 0 0 0 0
+D1
+A Hallway.
+~
+~
+0 1 20133
+E
+mural~
+The mural is a true masterpiece.  It is painted in the long forgotten style
+of the ancient masters and depicts a young man clad in the traditional robes
+of an apprentice mage walking through hell towards the lair of the Fire
+Lord.  His eyes are closed in deep concentration and his fists are clenched
+in fierce determination.  High above, the gods look on, keenly interested.
+Far away, a much older mage watches through a magical looking glass as in
+the darkness the Fire Lord has sensed the intruder and prepares to roast the
+foolish young mage.  The work is entitled "The Testing of the Dark Mage:
+his Assention to Membership in the Black Order".
+~
+E
+spellbooks~
+On the shelves are literally hundreds of spellbooks.  Fascinated, you boldly
+pull one from its place and wince in pain as channels of energy rush up your
+arm, zapping you.  Enduring the pain, you open the tome of power and find
+that is it written in a strange, ancient language which you do not begin to
+understand.  Dismayed, you replace the book.
+~
+E
+fire fireplace~
+The large fire has no wood to burn but shows no sign of dying as it roars
+in the stone fireplace.
+~
+E
+chair leather~
+The leather chair is large, heavy and comfortable.
+~
+S
+#20133
+Hallway~
+This is the end of a huge hallway with tall ebon walls and a beautiful mural
+painted on the ceiling high above.  The hallway continues to the north but
+there are openings allowing you to go any direction but up and down from
+this point.
+~
+200 9 0 0 0 0
+D0
+The hallway continues.
+~
+~
+0 1 20130
+D1
+There is a room that way.
+~
+~
+0 1 20134
+D2
+There is a room that way.
+~
+~
+0 1 20135
+D3
+There is a room that way.
+~
+~
+0 1 20132
+E
+mural painting ceiling~
+The mural is quite beautiful and was, obviously, commissioned of a great
+artist long ago.  It pictures an old man, dressed in the black robes of
+an Archmage, standing in a dark room with his eyes closed and his hands
+raised above his head.  Before him, in the shadows, a mighty demi-god bows
+before the mage with a look of considerable frustration and anger on his
+hideous face.  The mage has, apparently given the beast a difficult and
+dangerous task to perform.  In the heavens above, the gods have convened
+in a Great Counsel and are discussing something heatedly.  Outside, a great
+battle rages.  The painting is entitled, "The Dark Mage's Quest for Supreme
+Power: The Attempted Assassination of a Deity."
+~
+S
+#20134
+Apprentice's Living Room~
+This is a comfortable room with a large window set in the eastern wall which
+commands a breathtaking view of the lands.  An elegant couch is sits here
+and a warm fire burns in the fireplace.  A large painting has been framed
+and hung on the southern wall.  The only exit is to the west.
+~
+200 9 0 0 0 0
+D3
+Hallway.
+~
+~
+0 1 20133
+E
+painting~
+The painting is not quite as old as some of the others in this area and is
+not as skillfully crafted.  It shows the gods smiting the dark mage and
+causing his evil creations to turn against each other and their creator.
+A group of powerful Dopsodods are locked in battle with each other as dark
+spirits and hideous creatures born of magic join the fray.  The Dark Mage
+looks on in frustration and rage and plots his vengeance against the gods.
+Far in the distance is the opening of a deep cave and the mage watches it
+now with a strange gleam in his eye.  The painting is called "The Humbling
+of the Dark Mage"
+~
+E
+couch sofa~
+The sofa is made of fine leather and is quite comfortable.
+~
+E
+window~
+Through the window you have a view of the woodlands, the swamp, and a large
+field of grass far to the southeast.  You can just barely see the last
+outpost on the horizon.
+~
+S
+#20135
+Portal Room~
+You are standing in a portal room; the only non-magical exit is to the
+north.  On the other walls great magical portals shimmer like brilliant
+waterfalls of pure energy.  Where the portals lead, you cannot tell.
+~
+200 77 0 0 0 0
+D0
+Hallway.
+~
+~
+0 1 20133
+D1
+~
+~
+0 1 20157
+D2
+~
+~
+0 1 20071
+D3
+~
+~
+0 1 20162
+S
+#20136
+Northern Balcony~
+You have come a stone balcony overlooking the lands far beneath the tower.
+A golden guardrail is here to prevent you from falling.  Your only exit
+is to the south.
+~
+200 9 0 0 0 0
+D2
+Hallway continues to the south...
+~
+~
+0 1 20139
+E
+guard guardrail golden~
+The guardrail is gold-plated is bolted firmly into the stone of the tower.
+~
+S
+#20137
+Storage Closet~
+This is a dark, musty storage closet; there is a large set of empty shelves
+on the northern wall and a small drain in the stone floor.  Various buckets
+and brooms are scattered about the room.  Your only exit is back to the south.
+~
+200 9 0 0 0 0
+D2
+There is a hallway in that direction...
+~
+~
+0 1 20143
+E
+broom bucket buckets brooms~
+The buckets and brooms are old and dirty, they are used by the servants when
+cleaning the tower.
+~
+S
+#20138
+Portal Room~
+This is a large, stone chamber with a gleaming, magical portal on the northern
+wall.  Through an opening to the south you see a large hallway.  Strange runes
+have been carved into the ebon walls here.  You may continue south or step
+through the portal, to the north.
+~
+200 77 0 0 0 0
+D0
+The portal is a glimmering magical doorway, you cannot be sure where it
+leads...
+~
+~
+0 1 20111
+D2
+There is a hallway that way.
+~
+~
+0 1 20144
+E
+portal~
+The portal flickers and dances like a living entity... it is made of pure
+magical energy.  There is no way of telling where it will take you.
+~
+S
+#20139
+Hallway~
+This is a large, opulent hallway with walls of polished ebon trimmed with
+golden decorations.  The floor is tiled with squares of marble arranged in
+a meandering pattern.  You may go north or south.
+~
+200 9 0 0 0 0
+D0
+A balcony.
+~
+~
+0 1 20136
+D2
+An intersection.
+~
+~
+0 1 20145
+S
+#20140
+Thrall Breeding Pit~
+This is a nasty-smelling, dirty room high in the Dark Tower.  Grime and dirt
+are caked onto the hard stone floor.  Apparently this is where the Dark Mage
+has been trying to breed his army of evil minions.  There is an opening on the
+southern wall and another leads to the east.
+~
+200 9 0 0 0 0
+D1
+~
+~
+0 1 20141
+D2
+~
+~
+0 1 20146
+S
+#20141
+Thrall Graveyard~
+In this cold, dark stone room there are bones strewn about the floor and
+bloodstains on the walls.  Apparently this is where the Dark Mage disposes
+of creation that do not live up to his expectations.  A doorway leads to
+the west and another doorway leads south.
+~
+200 9 0 0 0 0
+D2
+~
+~
+0 1 20147
+D3
+~
+~
+0 1 20140
+S
+#20142
+Western Balcony~
+You are standing on a balcony overlooking the lands to the west of the tower.
+A thick, gold-plated guardrail is here to prevent you from falling into the
+lake, hundreds of meters below.  Cold, strong winds whistle past you as they
+gust around the top of the tower.  The only exit is to the east.
+~
+200 9 0 0 0 0
+D1
+A large hallway.
+~
+~
+0 1 20143
+S
+#20143
+Hallway~
+This is a large hallway with dirty stone walls and a tall, arched ceiling
+far above.  You fight the urge to upchuck as you are assailed by smells of
+biological waste.  A strange, stone statue is set in the middle of the hall
+and is surrounded by worthless gifts and offerings.  Apparently the creatures
+who live in this area revere the ugly image as a god.  The hallway continues
+to the west and east; there are doors on the northern and southern walls.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20137
+D1
+~
+~
+0 1 20144
+D2
+~
+~
+0 1 20149
+D3
+~
+~
+0 1 20142
+E
+statue stone ugly~
+The statue is of an ugly female Thrall with a large belly and huge, wicked
+looking fangs.  Her eyes are dull and moronic.  The inscription on the bottom
+of the idol reads: "Vae - Goddess of Pleasure and Art"
+~
+S
+#20144
+Hallway~
+This is a smelly, vile hallway leading through the Dark Tower.  Dirt and
+grime cover the walls and the stone floor is covered with muddy bootprints.
+This hallway leads east-west, there are doors to the north and south.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20138
+D1
+~
+~
+0 1 20145
+D2
+~
+~
+0 1 20150
+D3
+~
+~
+0 1 20143
+E
+boot bootprints floor muddy mud~
+The prints appear to be made by large, military-style boots.
+~
+S
+#20145
+Intersection~
+You are at the intersection of two hallways; the one which continues north
+and south is well-decorated and clean while the other, leading east-west, is
+putrid, dirty and foul.  A large altar has been erected here, it is covered
+with the images of the deities of the Thralls.  Although you doubt that these
+Thrall gods have much power, you do feel safe and peaceful here.  You may
+continue in any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20139
+D1
+~
+~
+0 1 20146
+D2
+~
+~
+0 1 20151
+D3
+~
+~
+0 1 20144
+S
+#20146
+Hallway~
+You are having trouble fighting the urge to vomit; this hallway smells of old,
+putrid waste and decaying corpses.  It continues to the east and west while
+to the north and south you see adjoining chambers.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20140
+D1
+~
+~
+0 1 20147
+D2
+~
+~
+0 1 20152
+D3
+~
+~
+0 1 20145
+S
+#20147
+Hallway~
+You are in a large, filthy hallway frequented by the Thralls.  In the center
+of this area they have built a large, ugly statue of stone.  It is poorly
+crafted and worthless, but they seem to revere it as a god -- for there are
+offerings and tributes lying at its feet.  Exits lead in every direction but
+up and down.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20141
+D1
+~
+~
+0 1 20148
+D2
+~
+~
+0 1 20153
+D3
+~
+~
+0 1 20146
+E
+statue idol stone~
+The stone idol is a large, male Thrall holding a long, serrated dagger in one
+hand and the skull of a large beast in the other.  It is very crudely made...
+The inscription on the bottom reads: "Guk, the god of War and Anarchy"
+~
+S
+#20148
+Eastern Balcony~
+This perch commands a magnificent view of the lands to the east of the dark
+tower.  A railing has been bolted into place here to prevent you from falling
+but the stupid Thralls have knocked it loose.  As you gaze down at the cold
+lake, hundreds of meters below, you see large-bones skeletons shattered on
+the rocky shore.  The only exit is back to the west.
+~
+200 9 0 0 0 0
+D3
+~
+~
+0 1 20147
+S
+#20149
+Thrall Room~
+This appears to be a military training area for the ugly, stupid Thralls.
+Blunted, crude swords lie in a messy pile on the floor here and strange
+bloodstains are caked on the walls.  The entire place smells of death.
+Exits lead to the north and east.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20143
+D1
+~
+~
+0 1 20150
+S
+#20150
+Thrall Sleeping Area~
+You are in a large, filthy room where the Thralls sleep.  It is connected to
+another room via a small passageway on the western wall.  This room is very
+dirty, several large piles of hay lie on the stone floor.  There is another
+door on the northern wall.
+~
+200 9 0 0 0 0
+D0
+A hallway.
+~
+~
+0 1 20144
+D3
+A large, dark chamber.
+~
+~
+0 1 20149
+E
+pile piles hay~
+The hay is very old and stinky.  Little bugs crawl around in it the piles.
+~
+S
+#20151
+Hallway~
+This is a large, elegant hallway with a tall vaulted ceiling and fine walls
+of polished ebon.  The grey floors are immaculately clean and there are old,
+clay vases on plaster stands along the way.  To the north there appears to
+be some sort of intersection; the hallway continues both north and south.
+~
+200 9 0 0 0 0
+D0
+Intersection
+~
+~
+0 1 20145
+D2
+Romeo, Romeo, wherefore art thou romeo?
+~
+~
+0 1 20154
+S
+#20152
+Thrall Captain's Room~
+Rank has its privileges among the Thralls... although this place is not much
+nicer than the other places where Thralls abide.  At least the Captain gets
+his own bedroom and a measure of privacy.  He must sleep on the filthy hay
+cot pushed up against one wall.  The only exit is to the north.
+~
+200 9 0 0 0 0
+D0
+Hallway.
+~
+~
+0 1 20146
+S
+#20153
+Thrall Eating Area~
+This looks to be some kind of eating area; bones and primitive eating utensils
+lie strewn about on the floor here.  The entire dark room smells like rotten
+meat.  It looks like there have been alot of foodfights here... the only
+exit is to the north.
+~
+200 9 0 0 0 0
+D0
+Hallway
+~
+~
+0 1 20147
+S
+#20154
+Portal Room~
+This is a large, circular room which whose sole function seems to be to
+house the flickering magical portal that flickers on the southern wall.
+A hallway continues northward, into the darkness; where the magic exit
+to the south leads is anyone's guess...
+~
+200 77 0 0 0 0
+D0
+~
+~
+0 1 20151
+D2
+~
+~
+0 1 20071
+S
+#20155
+The Perch~
+This is a small stone ledge outside the tower.  You look down for a second
+and are instantly very dizzy and frightened.  Far below you are the black
+waters of Tower Lake.  There is only one exit -- through the small window
+in the eastern wall.  Don't look down!
+~
+200 9 0 0 0 0
+D1
+~
+~
+0 1 20156
+S
+#20156
+Mage's Study~
+This is the Archmage's study; where he reads to increase his command over
+the magical worlds.  There are hundreds of books neatly arranged on the
+shelves lining the walls of this cozy room.  A worn, leather chair sits
+next to an equally worn, matching sofa.  A magical ball of light flickers
+to life as you enter the room.  Through a small opening in the western
+wall you can crawl out onto some kind of perch, another exit leads to the
+south.
+~
+200 9 0 0 0 0
+D2
+~
+~
+0 1 20159
+D3
+~
+~
+0 1 20155
+S
+#20157
+Portal Room~
+You are in a large chamber with a tall ceiling and hard walls of fine,
+polished ebon.  A flickering portal stands open on the northern wall
+and another lies opposite it, on the southern wall.  The only non-magical
+exit is to the east, into a dark room.
+~
+200 77 0 0 0 0
+D0
+~
+~
+0 1 20135
+D1
+~
+~
+0 1 20158
+D2
+!
+~
+~
+0 1 20015
+S
+#20158
+Living Room~
+You are in a comfortable room, richly decorated and cozy at the same time.
+A pleasant fire burns in a stone hearth and gives heat to the large chamber.
+The walls are made of a beautiful substance you have never seen before; it
+shimmers and radiates beautiful light.  Just as you are beginning to think
+that it is odd that no furniture is in this room, a comfortable chair appears
+beside you -- neat!  Exits lead in every direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20155
+D1
+~
+~
+0 1 20159
+D2
+~
+~
+0 1 20160
+D3
+~
+~
+0 1 20157
+S
+#20159
+Dark Mage's Bedroom~
+You are in the bedroom of the Dark Mage.  It's a good thing that He's not here
+right now...  The room is large and well-appointed.  A comfortable-looking bed
+is flanked by a set of nightstands and a matching dresser stands on the
+opposite wall.  A large desk sits near the door.  The only exit is to the
+east.
+~
+200 9 0 0 0 0
+D0
+You see a dimly lit study.
+~
+~
+0 1 20156
+D3
+~
+~
+0 1 20158
+S
+#20160
+Dark Mage's Laboratory~
+This is a room filled with beakers and flasks.  It puts the alchemist's shop
+in town to shame!  A large counter dominates the chamber, two tall stools sit
+next to it.  On one wall there is a large chart.  Exits lead to the north and
+the east.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20158
+D1
+~
+~
+0 1 20161
+S
+#20161
+Dark Mage's Summoning Room~
+This is a large, secluded chamber with runes of power etched into the walls
+and floor. Apparently this is where the Dark Mage comes to summon dangerous
+creatures from this world and others. Although you do not understand the
+magical symbols carved all around, you are fairly certain they are to protect
+the caster and tower from the wrath of aggressive beasts. The only exit is to
+the west.
+~
+200 9 0 0 0 0
+D3
+~
+~
+0 1 20160
+S
+#20162
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  Black squares
+lie to the east and south of here.
+~
+200 9 0 0 0 0
+D1
+~
+~
+0 1 20163
+D2
+~
+~
+0 1 20170
+S
+#20163
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  White squares
+lie in all directions but north.
+~
+200 9 0 0 0 0
+D1
+~
+~
+0 1 20164
+D2
+~
+~
+0 1 20171
+D3
+~
+~
+0 1 20162
+S
+#20164
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  Black squares
+lie in all directions but north.
+~
+200 9 0 0 0 0
+D1
+~
+~
+0 1 20165
+D2
+~
+~
+0 1 20172
+D3
+~
+~
+0 1 20163
+S
+#20165
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  From here you
+can go in any direction but north, where the board ends.
+~
+200 9 0 0 0 0
+D1
+~
+~
+0 1 20166
+D2
+~
+~
+0 1 20173
+D3
+~
+~
+0 1 20164
+S
+#20166
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  In all
+directions but north you see black squares.
+~
+200 9 0 0 0 0
+D1
+~
+~
+0 1 20167
+D2
+~
+~
+0 1 20174
+D3
+~
+~
+0 1 20165
+S
+#20167
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  White squares
+lie in all directions but north, where the board abruptly ends.
+~
+200 9 0 0 0 0
+D1
+~
+~
+0 1 20168
+D2
+~
+~
+0 1 20175
+D3
+~
+~
+0 1 20166
+S
+#20168
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You may go
+any direction but north.
+~
+200 9 0 0 0 0
+D1
+~
+~
+0 1 20169
+D2
+~
+~
+0 1 20176
+D3
+~
+~
+0 1 20167
+S
+#20169
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You seem to
+be in a corner of the board, exits lead south and west.
+~
+200 9 0 0 0 0
+D2
+~
+~
+0 1 20177
+D3
+~
+~
+0 1 20168
+S
+#20170
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You seem to
+be at the edge of the board, exits lead in all directions but west.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20162
+D1
+~
+~
+0 1 20171
+D2
+~
+~
+0 1 20178
+S
+#20171
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  Black squares
+lie in all directions.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20163
+D1
+~
+~
+0 1 20172
+D2
+~
+~
+0 1 20179
+D3
+~
+~
+0 1 20170
+S
+#20172
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  White squares
+surround this one.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20164
+D1
+~
+~
+0 1 20173
+D2
+~
+~
+0 1 20180
+D3
+~
+~
+0 1 20171
+S
+#20173
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You see black
+squares in every direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20165
+D1
+~
+~
+0 1 20174
+D2
+~
+~
+0 1 20181
+D3
+~
+~
+0 1 20172
+S
+#20174
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  White squares
+lie to the north, south, east and west.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20166
+D1
+~
+~
+0 1 20175
+D2
+~
+~
+0 1 20182
+D3
+~
+~
+0 1 20173
+S
+#20175
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  Black squares
+lie in every direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20167
+D1
+~
+~
+0 1 20176
+D2
+~
+~
+0 1 20183
+D3
+~
+~
+0 1 20174
+S
+#20176
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  White squares
+lie in every direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20168
+D1
+~
+~
+0 1 20177
+D2
+~
+~
+0 1 20184
+D3
+~
+~
+0 1 20175
+S
+#20177
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You seem to
+be at the edge of the board; I hope you aren't a Knight.  Squares lie to the
+north, south and west of here.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20169
+D2
+~
+~
+0 1 20185
+D3
+~
+~
+0 1 20176
+S
+#20178
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You are at the
+eastern edge of the board, black squares lie north, south and east of here.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20170
+D1
+~
+~
+0 1 20179
+D2
+~
+~
+0 1 20186
+S
+#20179
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  White squares
+lie in all directions.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20171
+D1
+~
+~
+0 1 20180
+D2
+~
+~
+0 1 20187
+D3
+~
+~
+0 1 20178
+S
+#20180
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20172
+D1
+~
+~
+0 1 20181
+D2
+~
+~
+0 1 20188
+D3
+~
+~
+0 1 20179
+S
+#20181
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  White squares
+lie in every direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20173
+D1
+~
+~
+0 1 20182
+D2
+~
+~
+0 1 20189
+D3
+~
+~
+0 1 20180
+S
+#20182
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  Black squares
+lie north, south, east and west of here.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20174
+D1
+~
+~
+0 1 20183
+D2
+~
+~
+0 1 20190
+D3
+~
+~
+0 1 20181
+S
+#20183
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  This is a very
+strange place.  White squares lie in every direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20175
+D1
+~
+~
+0 1 20184
+D2
+~
+~
+0 1 20191
+D3
+~
+~
+0 1 20182
+S
+#20184
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You may
+proceed in any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20176
+D1
+~
+~
+0 1 20185
+D2
+~
+~
+0 1 20192
+D3
+~
+~
+0 1 20183
+S
+#20185
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  This appears
+to be the eastern edge of the board... to the east of here the board ends
+with a sheer drop into a great void.  You may go any direction but east.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20177
+D2
+~
+~
+0 1 20193
+D3
+~
+~
+0 1 20184
+S
+#20186
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  This is the
+western edge of the board; to the west the board stops suddenly and drops
+off into darkness.  Rumor has it that pieces slain in battle are cast off the
+board into the great nothingness beyond -- Don't fall off!  White squares lie
+to the north, south and east.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20178
+D1
+~
+~
+0 1 20187
+D2
+~
+~
+0 1 20194
+S
+#20187
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You may go
+any direction from this square.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20179
+D1
+~
+~
+0 1 20188
+D2
+~
+~
+0 1 20195
+D3
+~
+~
+0 1 20186
+S
+#20188
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You look every
+direction and see that this square is surrounded by white squares.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20180
+D1
+~
+~
+0 1 20189
+D2
+~
+~
+0 1 20196
+D3
+~
+~
+0 1 20187
+S
+#20189
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  From here,
+black squares lie in every direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20181
+D1
+~
+~
+0 1 20190
+D2
+~
+~
+0 1 20197
+D3
+~
+~
+0 1 20188
+S
+#20190
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You may
+move to any of the adjacent white squares to the north, south, east or west.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20182
+D1
+~
+~
+0 1 20191
+D2
+~
+~
+0 1 20198
+D3
+~
+~
+0 1 20189
+S
+#20191
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You may go
+in any cardinal direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20183
+D1
+~
+~
+0 1 20192
+D2
+~
+~
+0 1 20199
+D3
+~
+~
+0 1 20190
+S
+#20192
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You seem to
+be somewhere in the center of the board, you can go in any direction but up
+and down.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20184
+D1
+~
+~
+0 1 20193
+D2
+~
+~
+0 1 20200
+D3
+~
+~
+0 1 20191
+S
+#20193
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  This is the
+very edge of the board; you can proceed in any direction but east.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20185
+D2
+~
+~
+0 1 20201
+D3
+~
+~
+0 1 20192
+S
+#20194
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  Because this
+is an edge square, you can go any direction but west.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20186
+D1
+~
+~
+0 1 20195
+D2
+~
+~
+0 1 20202
+S
+#20195
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  There is a
+pool of fresh blood on the ground here.  You may proceed in any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20187
+D1
+~
+~
+0 1 20196
+D2
+~
+~
+0 1 20203
+D3
+~
+~
+0 1 20194
+S
+#20196
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  It appears
+that a horse rode through here recently, for there are horse tracks of wet,
+red blood on the ground here.  You may continue in any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20188
+D1
+~
+~
+0 1 20197
+D2
+~
+~
+0 1 20204
+D3
+~
+~
+0 1 20195
+S
+#20197
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You may
+proceed in any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20189
+D1
+~
+~
+0 1 20198
+D2
+~
+~
+0 1 20205
+D3
+~
+~
+0 1 20196
+S
+#20198
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20190
+D1
+~
+~
+0 1 20199
+D2
+~
+~
+0 1 20206
+D3
+~
+~
+0 1 20197
+S
+#20199
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  There is a
+small memorial set up here.  You may continue in any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20191
+D1
+~
+~
+0 1 20200
+D2
+~
+~
+0 1 20207
+D3
+~
+~
+0 1 20198
+E
+memorial~
+The memorial is to Agyv, the Grandmaster.
+~
+S
+#20200
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  From this
+square you may go to any of the black squares adjacent.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20192
+D1
+~
+~
+0 1 20201
+D2
+~
+~
+0 1 20208
+D3
+~
+~
+0 1 20199
+S
+#20201
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  As this is the
+edge of the board, you may continue in any direction but to the east, where
+you see a dangerous drop off into nothing but darkness.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20193
+D2
+~
+~
+0 1 20209
+D3
+~
+~
+0 1 20200
+S
+#20202
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  This is the
+very edge of the gameboard, you may proceed in any direction but west, where
+there is a dangerous drop into nothingness.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20194
+D1
+~
+~
+0 1 20203
+D2
+~
+~
+0 1 20210
+S
+#20203
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  Wow, there is
+a fresh pool of blood on the ground here... it makes things very slippery.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20195
+D1
+~
+~
+0 1 20204
+D2
+~
+~
+0 1 20211
+D3
+~
+~
+0 1 20202
+S
+#20204
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You may
+continue in any cardinal direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20196
+D1
+~
+~
+0 1 20205
+D2
+~
+~
+0 1 20212
+D3
+~
+~
+0 1 20203
+S
+#20205
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You see
+black squares in every direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20197
+D1
+~
+~
+0 1 20206
+D2
+~
+~
+0 1 20213
+D3
+~
+~
+0 1 20204
+S
+#20206
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  Examining the
+ground here closely, you notice faint bloodstains.  Clearly someone tried to
+clean them but maybe there was so much carnage here that it was impossible to
+purge the ground completely of evidence.  You may go in any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20198
+D1
+~
+~
+0 1 20207
+D2
+~
+~
+0 1 20214
+D3
+~
+~
+0 1 20205
+S
+#20207
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  Fresh horse
+droppings are on the ground here, watch your step.  You may go any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20199
+D1
+~
+~
+0 1 20208
+D2
+~
+~
+0 1 20215
+D3
+~
+~
+0 1 20206
+S
+#20208
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  As you are
+somewhere in the middle of the gameboard, you can go in any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20200
+D1
+~
+~
+0 1 20209
+D2
+~
+~
+0 1 20216
+D3
+~
+~
+0 1 20207
+S
+#20209
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  This seems to
+be the eastern edge of the field of glory, you may continue any way but east.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20201
+D2
+~
+~
+0 1 20217
+D3
+~
+~
+0 1 20208
+S
+#20210
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You have come
+to the western edge of the battlefield.  You may go any direction but further
+west.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20202
+D1
+~
+~
+0 1 20211
+D2
+~
+~
+0 1 20218
+S
+#20211
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20203
+D1
+~
+~
+0 1 20212
+D2
+~
+~
+0 1 20219
+D3
+~
+~
+0 1 20210
+S
+#20212
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20204
+D1
+~
+~
+0 1 20213
+D2
+~
+~
+0 1 20220
+D3
+~
+~
+0 1 20211
+S
+#20213
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20205
+D1
+~
+~
+0 1 20214
+D2
+~
+~
+0 1 20221
+D3
+~
+~
+0 1 20212
+S
+#20214
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  There is a
+shattered sword on the ground here.  You can go any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20206
+D1
+~
+~
+0 1 20215
+D2
+~
+~
+0 1 20222
+D3
+~
+~
+0 1 20213
+S
+#20215
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20207
+D1
+~
+~
+0 1 20216
+D2
+~
+~
+0 1 20223
+D3
+~
+~
+0 1 20214
+S
+#20216
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You may go
+any direction.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20208
+D1
+~
+~
+0 1 20217
+D2
+~
+~
+0 1 20224
+D3
+~
+~
+0 1 20215
+S
+#20217
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You seem to
+be at the western edge of the checker-board; you may proceed in any direction
+but west.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20209
+D2
+~
+~
+0 1 20225
+D3
+~
+~
+0 1 20216
+S
+#20218
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You seem to
+be at a corner of the board, to the west and south are dangerous drops.  You
+may either proceed northward or eastward.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20210
+D1
+~
+~
+0 1 20219
+S
+#20219
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You are at
+the southern border of this beautiful, strange board -- you may only go east,
+west or north.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20211
+D1
+~
+~
+0 1 20220
+D3
+~
+~
+0 1 20218
+S
+#20220
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  This is the
+very edge of this huge, strange board... it ends abruptly to the south with
+a steep drop into darkness -- don't look down!  You may go north, west or
+east.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20212
+D1
+~
+~
+0 1 20221
+D3
+~
+~
+0 1 20219
+S
+#20221
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You have come
+to the edge of the board -- to the south is a sheer drop off into nothingness.
+You may go any direction but south.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20213
+D1
+~
+~
+0 1 20222
+D3
+~
+~
+0 1 20220
+S
+#20222
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  This seems to
+be the southern edge of the playing field; white squares are to the north,
+east and west.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20214
+D1
+~
+~
+0 1 20223
+D3
+~
+~
+0 1 20221
+S
+#20223
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  This appears
+to the the southern edge of the board.  From here you may go north, west or
+east.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20215
+D1
+~
+~
+0 1 20224
+D3
+~
+~
+0 1 20222
+S
+#20224
+A Black Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  You seem to
+be on the edge of the board; you can continue to the north, east, or west.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20216
+D1
+~
+~
+0 1 20225
+D3
+~
+~
+0 1 20223
+S
+#20225
+A White Square~
+You are on a some kind of a large game board.  There is either no ceiling or
+it is simply so high overhead that it is obscured by darkness.  The squares
+are about ten square feet in size, the white ones made of fine white marble,
+the black ones made of polished ebonstone.  You note that between the squares
+there is a fine, thin line of gold embedded in the huge board.  A vivid,
+magical portal of pure energy stands open to the south of here, black squares
+are to the north and west, and there is nothing to the east but a sheep drop
+off.
+~
+200 9 0 0 0 0
+D0
+~
+~
+0 1 20217
+D2
+~
+~
+0 1 20071
+D3
+~
+~
+0 1 20224
+S
+$~

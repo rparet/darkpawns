@@ -1,0 +1,172 @@
+#16300
+recruiter~
+the Kir Drax'in Recruiter~
+A tired old recruiter sits behind the desk here.
+~
+He looks like he's pushing fifty or so, has thin greying hair and a long
+scar running down his left cheek.
+~
+57354 0 0 0 0 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+0 0
+8 8 1
+Race: 0
+E
+#16301
+dirty farmer man~
+a dirty farmer~
+A dirty farmer stands here.
+~
+Either his crops aren't doing so hot or this guy is just tired of working
+in the dirt, what ever the reason he's come to try his luck at city service.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+1 100
+8 8 1
+E
+#16302
+recruit new man~
+a new recruit~
+A new recruit is wandering around here.
+~
+He looks like your average lower class citizen, hoping to make a career
+in the Kir Drax'in city guard.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+1 100
+8 8 1
+Race: 0
+E
+#16303
+trainee guard~
+a guard trainee~
+A grey outfitted guard trainee is here.
+~
+Dressed in a simple grey jumpsuit, this trainee looks a little confused as
+to what he's suppose to be doing.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+3 100
+8 8 1
+Race: 0
+E
+#16304
+instructor man~
+the instructor~
+A chubby instructor is here yelling at the trainees.
+~
+He's about five and a half feet tall, wearing a grey uniform with
+"instructor" stenciled on a small white patch on his left shoulder.
+Although he's about thirty or fourty pounds over weight he stands iron
+straight and barks commands and instructions at the trainees with a grim
+serious look on his face.
+~
+72 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+13 725
+8 8 1
+Race: 0
+E
+#16305
+guard trainee white~
+a guard trainee~
+A white outfitted guard trainee is here.
+~
+Dressed in a simple white jumpsuit, this trainee looks a little confused
+about what he's supposed to be doing.
+~
+10 0 0 0 0 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+3 245
+8 8 1
+Race: 0
+E
+#16306
+guard trainee green~
+a guard trainee~
+A green outfitted guard trainee is here.
+~
+This trainee looks a little bit tougher and skillful than those on
+the previous levels. Maybe this training course does work.
+~
+10 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+6 400
+8 8 1
+Race: 0
+E
+#16307
+guard trainee brown~
+a guard trainee~
+A brown armored guard trainee stands here.
+~
+This man's time in the training centre has obviously been well spent.
+He seems highly trained and no doubt deadly.
+~
+10 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+10 700
+8 8 1
+Race: 0
+E
+#16308
+guard black burly~
+a burly guard~
+A big, burly guard dressed in all black guards the door.
+~
+He looks big and mean. He regards you with a sneer and shakes his head.
+~
+11 0 0 0 0 0 0 0 -50 E
+5 15 5 5d5+60 2d4+2
+15 1000
+8 8 1
+Race: 0
+E
+#16309
+guard member initiate~
+a guard initiate~
+An initiate of the Kir Drax'in guard stands here.
+~
+He looks like every other guard you've ever seen, big, menacing
+and a complete zombie.
+~
+10 0 0 0 0 0 0 0 -10 E
+5 15 5 5d5+60 2d4+2
+20 1100
+8 8 1
+Race: 0
+E
+#16310
+old priest~
+an old priest~
+An old priest hands out equipment to the initiates.
+~
+This old cleric acts as a quartermaster for the church, insuring that
+the church guard is kept in the best equipment.
+~
+10 0 0 0 0 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+0 1750
+8 8 1
+Race: 0
+E
+#16350
+priest fanatic~
+a fanatic priest~
+A fanatical priest gives the initates their holy orders.
+~
+He is a rather tall man with long wirey white hair and beady little black
+eyes. A long black robe with a strange symbol resembling a burning heart
+emblazoned in gold across the back.
+~
+24586 0 0 0 132096 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+0 1800
+8 8 1
+BareHandAttack: 12
+Race: 0
+E
+$

@@ -1,0 +1,1012 @@
+#18800
+Map Room~
+If you've stumbled in here by mistake, please... find your way out.
+Zone not open to public.
+~
+188 0 0 0 0 0
+D5
+~
+~
+0 0 18801
+S
+#18801
+--~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18804
+D1
+~
+~
+0 0 18802
+S
+#18802
+--~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18805
+D3
+~
+~
+0 0 18801
+S
+#18803
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18809
+D1
+~
+~
+0 0 18804
+S
+#18804
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18810
+D1
+~
+~
+0 0 18805
+D2
+~
+~
+0 0 18801
+D3
+~
+~
+0 0 18803
+S
+#18805
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18811
+D1
+~
+~
+0 0 18806
+D2
+~
+~
+0 0 18802
+D3
+~
+~
+0 0 18804
+S
+#18806
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18812
+D1
+~
+~
+0 0 18807
+D3
+~
+~
+0 0 18805
+S
+#18807
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18813
+D3
+~
+~
+0 0 18806
+S
+#18808
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18815
+D1
+~
+~
+0 0 18809
+S
+#18809
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18816
+D1
+~
+~
+0 0 18810
+D2
+~
+~
+0 0 18803
+D3
+~
+~
+0 0 18808
+S
+#18810
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18817
+D1
+~
+~
+0 0 18811
+D2
+~
+~
+0 0 18804
+D3
+~
+~
+0 0 18809
+S
+#18811
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18818
+D1
+~
+~
+0 0 18812
+D2
+~
+~
+0 0 18805
+D3
+~
+~
+0 0 18810
+S
+#18812
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18819
+D1
+~
+~
+0 0 18813
+D2
+~
+~
+0 0 18806
+D3
+~
+~
+0 0 18811
+S
+#18813
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18820
+D1
+~
+~
+0 0 18814
+D2
+~
+~
+0 0 18807
+D3
+~
+~
+0 0 18812
+S
+#18814
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18821
+D3
+~
+~
+0 0 18813
+S
+#18815
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18816
+D2
+~
+~
+0 0 18808
+S
+#18816
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18822
+D1
+~
+~
+0 0 18817
+D2
+~
+~
+0 0 18809
+D3
+~
+~
+0 0 18815
+S
+#18817
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18823
+D1
+~
+~
+0 0 18818
+D2
+~
+~
+0 0 18810
+D3
+~
+~
+0 0 18816
+S
+#18818
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18824
+D1
+~
+~
+0 0 18819
+D2
+~
+~
+0 0 18811
+D3
+~
+~
+0 0 18817
+S
+#18819
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18820
+D2
+~
+~
+0 0 18812
+D3
+~
+~
+0 0 18818
+S
+#18820
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18826
+D1
+~
+~
+0 0 18821
+D2
+~
+~
+0 0 18813
+D3
+~
+~
+0 0 18819
+S
+#18821
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18827
+D2
+~
+~
+0 0 18814
+D3
+~
+~
+0 0 18820
+S
+#18822
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18823
+D2
+~
+~
+0 0 18816
+S
+#18823
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18824
+D2
+~
+~
+0 0 18817
+D3
+~
+~
+0 0 18822
+S
+#18824
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18828
+D2
+~
+~
+0 0 18818
+D3
+~
+~
+0 0 18823
+S
+#18825
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18826
+D4
+~
+~
+0 0 18832
+S
+#18826
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18827
+D2
+~
+~
+0 0 18820
+D3
+~
+~
+0 0 18825
+S
+#18827
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D2
+~
+~
+0 0 18821
+D3
+~
+~
+0 0 18826
+S
+#18828
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18829
+D2
+~
+~
+0 0 18824
+S
+#18829
+Lower Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D3
+~
+~
+0 0 18828
+S
+#18830
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18831
+D2
+~
+~
+0 0 18834
+S
+#18831
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18832
+D2
+~
+~
+0 0 18835
+D3
+~
+~
+0 0 18830
+S
+#18832
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D3
+~
+~
+0 0 18831
+D5
+~
+~
+0 0 18825
+S
+#18833
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18834
+S
+#18834
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18830
+D1
+~
+~
+0 0 18835
+D2
+~
+~
+0 0 18838
+D3
+~
+~
+0 0 18833
+S
+#18835
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18831
+D1
+~
+~
+0 0 18836
+D2
+~
+~
+0 0 18839
+D3
+~
+~
+0 0 18834
+S
+#18836
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18837
+D2
+~
+~
+0 0 18840
+D3
+~
+~
+0 0 18835
+S
+#18837
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D2
+~
+~
+0 0 18841
+D3
+~
+~
+0 0 18836
+S
+#18838
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18834
+D1
+~
+~
+0 0 18839
+S
+#18839
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18835
+D1
+~
+~
+0 0 18840
+D3
+~
+~
+0 0 18838
+S
+#18840
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18836
+D1
+~
+~
+0 0 18841
+D2
+~
+~
+0 0 18842
+D3
+~
+~
+0 0 18839
+S
+#18841
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18837
+D3
+~
+~
+0 0 18840
+S
+#18842
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18840
+D1
+~
+~
+0 0 18843
+D2
+~
+~
+0 0 18844
+S
+#18843
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D3
+~
+~
+0 0 18842
+D4
+~
+~
+0 0 18854
+S
+#18844
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18842
+D5
+~
+~
+0 0 18858
+S
+#18845
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18846
+S
+#18846
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18847
+D2
+~
+~
+0 0 18848
+D3
+~
+~
+0 0 18845
+S
+#18847
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D2
+~
+~
+0 0 18849
+D3
+~
+~
+0 0 18846
+S
+#18848
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18846
+D1
+~
+~
+0 0 18849
+S
+#18849
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18847
+D1
+~
+~
+0 0 18850
+D2
+~
+~
+0 0 18851
+D3
+~
+~
+0 0 18848
+S
+#18850
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D2
+~
+~
+0 0 18852
+D3
+~
+~
+0 0 18849
+S
+#18851
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18849
+D1
+~
+~
+0 0 18852
+D2
+~
+~
+0 0 18853
+S
+#18852
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18850
+D2
+~
+~
+0 0 18854
+D3
+~
+~
+0 0 18851
+S
+#18853
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18851
+D2
+~
+~
+0 0 18856
+S
+#18854
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18852
+D5
+~
+~
+0 0 18843
+S
+#18855
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18856
+S
+#18856
+Top Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18853
+D3
+~
+~
+0 0 18855
+S
+#18857
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18858
+D2
+~
+~
+0 0 18859
+S
+#18858
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D2
+~
+~
+0 0 18860
+D3
+~
+~
+0 0 18857
+D4
+~
+~
+0 0 18844
+S
+#18859
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18857
+D1
+~
+~
+0 0 18860
+S
+#18860
+2nd Floor~
+You are in an unfinished room.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18858
+D3
+~
+~
+0 0 18859
+S
+$~

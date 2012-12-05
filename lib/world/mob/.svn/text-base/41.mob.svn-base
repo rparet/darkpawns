@@ -1,0 +1,93 @@
+#4101
+zylarthana~
+Zylarthana~
+Zylarthana is here, having a mug with her friends.
+~
+With beautiful, long, flowing black hair and dark, gleaming eyes, Zylarthana
+is the essence of beauty.
+~
+526347 0 0 0 8 0 0 0 500 E
+23 -3 -13 23d5+253 15d4+15
+361 32500
+8 8 2
+Race: 0
+E
+#4102
+sostratos~
+Sostratos~
+Sostratos is here, warming his hands at the fire.
+~
+He's a cleric with an attitude.
+~
+526347 0 0 0 8 0 0 0 250 E
+24 -4 -14 24d5+276 16d4+16
+290 35000
+8 8 1
+Race: 0
+E
+#4103
+wintermute~
+Wintermute~
+Wintermute is practicing with his sword, ready for some action.
+~
+This daring samurai looks like he's just waiting for an excuse to kill you.
+~
+530442 0 0 0 8 0 0 0 500 E
+20 0 -10 20d5+210 13d4+13
+226 25000
+8 8 1
+Race: 0
+E
+#4104
+slash~
+Slash~
+Slash is sitting at a table, sharpening his sword.
+~
+A pirate of untold power.
+~
+530442 0 0 0 8 0 0 0 500 E
+18 2 -8 18d5+190 12d4+12
+238 20000
+8 8 1
+Race: 0
+E
+#4105
+sky~
+Sky~
+Sky is sitting here, wolfing down a meal.
+~
+He's big, he's mean, he's a fighting machine.
+~
+583690 0 0 0 8 0 0 0 -250 E
+34 -14 -24 34d5+2746 22d4+22
+846 270000
+8 8 1
+Race: 0
+E
+#4106
+gertrude cook dwarf~
+Gertrude~
+Gertrude the dwarf is here, cooking up your favorite foods.
+~
+There's something strangely exciting about women with beards.         
+~
+10 0 0 0 0 0 0 0 0 E
+17 3 -7 17d5+180 11d4+11
+67 18000
+8 8 2
+Race: 2
+E
+#4107
+maid barmaid~
+a barmaid~
+A barmaid wanders around, serving the customers.
+~
+She's one of the meanest little old ladies you've ever seen.
+~
+24584 0 0 0 0 0 0 0 250 E
+15 5 -5 15d5+160 10d4+10
+50 14000
+8 8 2
+Race: 0
+E
+$

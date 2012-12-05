@@ -1,0 +1,157 @@
+#5500
+creeper forest ~
+a forest creeper~
+A forest creeper grows along the ground here.
+~
+It looks like a living vine. Though it survives by strangling its prey,
+you are much to big for it to kill. You hope.
+~
+138 0 0 0 1024 0 0 0 350 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 1
+Race: 17
+E
+#5501
+wolf guardian carve_meat~
+a guardian wolf~
+A large wolf paces back and forth here, guarding the forest from intruders.
+~
+He is a dull grey, blending in with the night mist.
+~
+104 0 0 0 263168 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 1
+BareHandAttack: 4
+Race: 22
+E
+#5502
+taltos common~
+a Taltos~
+A large Taltos stands here, surveying you kindly.
+~
+The Taltos stands about 7 feet tall, and is the most beautiful creature you
+have ever seen. Almost human, you feel irrestibly drawn to it, right before it
+tries to rip your head off.
+~
+8268 0 0 0 1032 0 0 0 -800 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 1
+Race: 18
+E
+#5503
+taltos mage~
+a Taltos Mage~
+A small but powerful looking Taltos walks here.
+~
+The Taltos is short for his race.. only about 6 feet tall. However, he appears
+to be highly intellgent, and just as beautiful and dangerous as the rest of
+his kind.
+~
+8269 0 0 0 1032 0 0 0 -800 E
+8 12 2 8d5+90 4d4+4
+20 3500
+8 8 1
+Race: 18
+E
+#5504
+taltos female~
+a Taltos female~
+A Taltos female walks silently here.
+~
+She is so beautiful your heart almost breaks. She is so deadly, your spine
+almost does the same.
+~
+8268 0 0 0 1032 0 0 0 -800 E
+8 12 2 8d5+90 4d4+4
+15 3500
+8 8 2
+Race: 18
+E
+#5505
+taltos warrior~
+a Taltos Warrior~
+A HUGE Taltos stomps around here angrily.
+~
+This Taltos looks has the same alluring looks as the rest of his race, but
+is carrying a ferocious looking weapon.
+~
+8268 0 0 0 1032 0 0 0 -800 E
+9 11 1 9d5+100 5d4+4
+10 4500
+8 8 1
+Race: 18
+E
+#5506
+taltos clanleader~
+the Taltos clanleader~
+The clanleader of the Taltos stands before you.
+~
+This Taltos is the father of the clan. High on the milk of the clanmother,
+he's pretty harmless unless provoked. 
+~
+4106 0 0 0 1032 0 0 0 -800 E
+12 8 -2 12d5+130 8d4+8
+60 9000
+8 8 1
+Race: 18
+E
+#5507
+taltos clanmother~
+the Taltos clanmother~
+The mother of all Taltos rests here.
+~
+Female Taltos are rare, and one that can breed is rarer still. This
+clanmother is revered by all living Taltos.
+~
+4106 0 0 0 1032 0 0 0 -800 E
+10 10 0 10d5+110 5d4+5
+70 6000
+8 8 2
+Race: 18
+E
+#5508
+lump~
+Lump~
+There's a lump here in the forest.
+~
+She's Lump! She's Lump! She's Lump! She's in your head!
+~
+1048648 0 0 0 1032 0 0 0 -1000 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 2
+E
+#5509
+wisp o will~
+the Will o' the Wisp~
+A huge glowing sphere floats in the corner of your vision before attacking.
+~
+The will o' the wisp is just a glowing ball of light... that hates all living
+things.
+~
+104 0 0 0 1160 0 0 0 -1000 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+5 5 2
+Race: 25
+E
+#5510
+beast werewolf~
+the werewolf~
+A vaguely man-shaped beast stalks through the trees. 
+~
+It's a humanoid beast, dressed in the tattered clothes of a sorcerer of the 
+black arts. The evil robes are almost worn away, and you can see that every
+inch of his skin is covered in thick, bristly hair... he's a werewolf!
+~
+1065097 0 0 0 33800 0 0 0 -800 E
+8 12 2 8d5+90 4d4+4
+10 3500
+8 8 1
+BareHandAttack: 8
+Race: 7
+E
+$

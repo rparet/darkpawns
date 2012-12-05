@@ -1,0 +1,558 @@
+#5700
+painting~
+a painting~
+A half finished painting sits here.~
+
+~
+12 12 0 0 0 1 0 0 0
+0 0 0 0
+4 0 100.00
+E
+back rear~
+                    * (Red)
+                    |
+                    |
+                    |
+                    |
+                   / \
+                 /     \
+               /         \
+             /             \
+  (Yellow) *                 * (Blue)
+~
+E
+painting~
+It could have been a beautiful painting ... had it been finished.  There
+appears to be something on the reverse side.
+~
+#5701
+palette~
+a palette~
+A dried up palette lies here.~
+~
+12 12 0 0 0 1 0 0 0
+0 0 0 0
+0 0 100.00
+E
+writing back~
+In elven script is written ...
+
+A traitor abides here ... beware, he is ... 
+~
+E
+palette~
+All the paint has long since dried up. There looks to be some crude writing
+on the back.
+~
+#5702
+skeleton figure skeletal~
+the skeleton~
+A skeletal figure sits slumped over in a chair.~
+~
+15 0 0 0 0 0 0 0 0
+20 0 -1 0
+0 0 100.00
+E
+skeleton figure skeletal~
+The skeleton appears to be Elven judging by its fine bone structure. By the 
+looks of it, he is the artist of the painting as he is holding a palette and
+brush still in his hand.  His position makes you wonder how he died ...
+
+A palette is in the skeleton.
+A brush is in the skeleton.
+~
+#5703
+iron chest~
+an iron chest~
+A small iron chest sits here.~
+~
+15 0 0 0 0 1 0 0 0
+100 13 5704 0
+60 0 100.00
+E
+chest iron~
+It looks quite secure and very heavy.
+~
+#5704
+key~
+a small iron key~
+A small iron key lays here.~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#5705
+book leatherbound~
+a leatherbound book~
+A large leatherbound book rests here.~
+~
+8 68 0 0 0 1 0 0 0
+0 0 0 0
+20 0 100.00
+E
+page-4~
+The rest of the book is burnt beyond recognition ...
+~
+E
+page-3~
+Only the following is readable:
+
+.... today i make my attempt .... destroy the wizard and take ....
+~
+E
+page-2~
+The page is burnt beyond recognition ...
+~
+E
+page-1 page1 page 1 chapter chapter-1 chapter1~
+Page-1
+
+Besides the page number, the page is burnt beyond recognition ...
+~
+E
+book~
+It is a large leatherbound book with a runic "F" on it's cover. The book
+is closed.
+~
+#5706
+couch~
+a couch~
+A wooden couch sits here strewn with colorful pillows.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+80 0 100.00
+E
+couch~
+A colorful couch sits here with big fluffy cushions and pillows.  Something
+doesn't seem quite right though, the number of pillows seems disproportionate.
+~
+#5707
+silver basket~
+a silver wire basket~
+A finely wrought silver wire basket hangs suspended here.~
+~
+8 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 100.00
+E
+silver basket~
+It appear magikal and looks to be of one solid piece having no
+discernable beginning, end, or seams.
+~
+#5708
+servant figure~
+a time-stopped body~
+A figure stands frozen stooped over the table.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+figure~
+The figure is dressed in a simple brown tunic and appears to be a
+servant.  It looks like he was polishing the table.  Whatever has
+frozen him in place also defies all your atempts to affect him.
+~
+#5709
+keg~
+a small oaken keg~
+A small oak keg sits here.~
+~
+17 0 0 0 0 1 0 0 0
+10 10 2 0
+10 0 100.00
+#5710
+barrel~
+a large oak barrel~
+A large oak barrel rests here.~
+~
+17 0 0 0 0 1 0 0 0
+20 20 1 0
+25 0 100.00
+#5711
+iron pot~
+an iron pot~
+An iron pot hangs here.~
+~
+15 0 0 0 0 1 0 0 0
+20 0 -1 0
+0 0 100.00
+#5712
+chair throne~
+an ornate throne~
+A large oak throne with a high back sits here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+300 0 100.00
+E
+script back~
+the script says:
+
+Only the master may know the way ...
+~
+E
+chair throne~
+It is a large oak throne with a high back and two brightly glowing
+orbs set on the back posts. Some script is written on the back of
+the chair.
+~
+#5713
+iron band~
+a jewel encrusted band~
+A strange jewel encrusted band lies here.~
+~
+11 64 0 0 0 17 0 0 0
+0 0 0 0
+3 0 100.00
+E
+band~
+It looks valuable.  Intermingled with the gems are magikal inscriptions.
+The ten gems encircling the band appear to be sapphires.
+~
+#5714
+book spellbook~
+a spell book~
+A students spell book sits here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+5 0 100.00
+E
+page-3~
+Sleep Spell
+
+Final description needed ...
+~
+E
+page-2~
+Read Magic Spell
+
+More spell description needed ...
+~
+E
+page-1~
+Dancing Lights Spell
+
+Blah blah, spell description needed ....
+~
+E
+book~
+The spell book has the following listed in the index.
+
+Page-1 Dancing Lights
+Page-2 Read Magic
+Page-3 Sleep
+~
+#5715
+chest wooden~
+a small wooden chest~
+A small wooden chest stands in the corner.~
+~
+15 0 0 0 0 1 0 0 0
+25 5 -1 0
+20 0 100.00
+E
+chest wooden~
+It is a robust chest made from short, heavy planks that have been fastened
+together with tenons.
+~
+#5716
+cards deck~
+a deck of cards~
+A worn deck of cards is stacked here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#5717
+vellum roll~
+a roll of vellum~
+A roll of vellum sits here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#5718
+pants~
+a pair of pants~
+A pair of pants has been left here.~
+~
+11 0 0 0 0 33 0 0 0
+0 0 0 0
+2 0 100.00
+A
+17 1
+#5719
+robe simple~
+a simple robe~
+A simple robe hangs here.~
+~
+9 0 0 0 0 1 0 0 0
+4 0 0 0
+7 50 30.00
+#5720
+shoes leather~
+a pair of leather shoes~
+A pair of worn leather shoes sits here.~
+~
+9 0 0 0 0 1 0 0 0
+2 0 0 0
+6 25 30.00
+#5721
+shirt~
+a shirt~
+A shirt lies here on the ground~
+~
+9 0 0 0 0 1 0 0 0
+2 0 0 0
+3 25 30.00
+#5722
+sandals~
+a pair of leather sandals~
+A pair of leather sandals has been dropped here.~
+~
+9 0 0 0 0 1 0 0 0
+1 0 0 0
+5 25 30.00
+#5723
+ink vial~
+a vial of black ink~
+A stoppered vial of black ink rests here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 10 30.00
+#5724
+shield bullet~
+an embossed bullet shield~
+A small, but sturdy, embossed bullet shield has been left here.~
+~
+9 0 0 0 0 1 0 0 0
+8 0 0 0
+10 200 25.00
+E
+bullet shield~
+You see a nicely crafted shield painted white and embossed with a green
+sword on its face.
+~
+#5725
+chain mail shirt~
+a chain mail shirt~
+A chain mail shirt lies here.~
+~
+9 0 0 0 0 9 0 0 0
+8 0 0 0
+30 75 20.00
+#5726
+box~
+a small box~
+A small box is here.~
+~
+15 0 0 0 0 1 0 0 0
+20 5 -1 0
+15 100 30.00
+#5727
+tiny key~
+a tiny metal key~
+A tiny metal key has been placed here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 100 30.00
+#5728
+book~
+a spell book~
+A student's spell book lies here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+10 100 30.00
+E
+index~
+Index
+
+Page-1
+Page-2
+Page-3
+Page-4
+Page-5
+~
+E
+page-1 Page-1~
+Dancing Lights Spell
+
+Magikal blah blah ...
+~
+E
+page-2 Page-2~
+Read Magic Spell
+
+BLah blah...
+~
+E
+page-3 Page-3~
+Sleep Spell
+
+Zzzzzzzzzz......
+~
+E
+page-4 Page-4~
+Shocking Grasp Spell
+
+How electrifying!
+~
+E
+page-5 Page-5~
+Wizard Lock Spell
+
+Lock em down ....
+~
+#5729
+pearl~
+a lusterous pearl~
+A lusterous pearl sits here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+1 250 20.00
+#5730
+man~
+a man in nightclothes~
+A man in nightclothes is frozen in combat here.~
+~
+15 0 0 0 0 0 0 0 0
+50 2 -1 0
+750 1000 100.00
+E
+man~
+He appears to have been engaged in combat before something froze them
+in place.  All attempt to affect him is to naught.  A jeweled band
+hangs at an odd angle from his head.
+~
+#5731
+man~
+a man in nightclothes~
+A man in nightclothes is frozen in combat here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+750 1000 100.00
+E
+man~
+He appear to have been engaged in combat before something froze them
+in place.  All attempts to affect him are for naught.
+~
+#5732
+platinum medallion~
+a platinum medallion~
+An engraved platinum medallion has been placed here.~
+~
+9 0 0 0 0 5 0 0 0
+6 0 0 0
+10 500 15.00
+A
+24 -2
+#5733
+red keystone~
+a red orb~
+A polished red orb is resting here.~
+~
+18 65631 0 0 0 1 0 0 0
+0 0 0 0
+5 1000 100.00
+#5734
+plate breast silvery~
+a silvery breast plate~
+There is a silvery breast plate on the floor.~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0
+10 30 25.00
+E
+plate breast~
+On the breast plate you a relief of a griffin.  The metal seems to
+be some kind of silver or platinum.
+~
+#5735
+carving knife blade~
+a small carving knife~
+A small wood carving knife has been stuck here.~
+~
+5 0 0 0 0 24577 0 0 0
+0 2 3 14
+4 50 20.00
+E
+carving knife blade~
+A small bladed knife used for carving wood.
+~
+A
+2 1
+#5736
+shield~
+a large round shield~
+A large round shield has been left here.~
+~
+9 20480 0 0 0 513 0 0 0
+10 0 0 0
+20 20 30.00
+E
+shield~
+It is made from hardwoods that have been re-inforced with heavy
+iron bands.
+~
+#5737
+owl~
+a carved owl~
+A carved owl.~
+~
+11 0 0 0 0 262145 0 0 0
+0 0 0 0
+3 100 15.00
+A
+3 1
+#5738
+bear~
+a carved bear~
+A carved bear sits here.~
+~
+11 0 0 0 0 16385 0 0 0
+0 0 0 0
+6 100 15.00
+A
+19 1
+#5739
+hill giant~
+a carved hill giant~
+A carved hill giant stands here.~
+~
+11 0 0 0 0 16385 0 0 0
+0 0 0 0
+10 100 15.00
+A
+1 1
+A
+18 1
+#5740
+dagger jeweled~
+a jeweled dagger~
+A jeweled dagger with a long thin blade is here.~
+~
+5 0 0 0 0 24577 0 0 0
+0 1 4 11
+8 25 30.00
+E
+dagger jeweled~
+The dagger looks usable as a weapon, but was probably used for ceremonial
+purposes. It is inset with many small semi-precious stones.
+~
+#5741
+gem amethyst~
+an amethyst~
+An amethyst is sitting here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+3 100 30.00
+$~

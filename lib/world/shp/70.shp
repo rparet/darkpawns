@@ -1,0 +1,28 @@
+CircleMUD v3.0 Shop File~
+#7001~
+7001
+7017
+-1
+1.00
+0.50
+10wheat
+10tonic
+-1
+%s My humble apologies, I don't seem to carry that.~
+%s Oh dear, it appears you've misplaced that particular item.~
+%s I'm afraid I have no interest in such items.~
+%s That is more Imperials than I have at the moment.~
+%s I'm sorry, it appears you've misplaced your pouch!~
+%s Bless you. That will be %d Imperials. Drink in good health!~
+%s I am able to trade %d Imperials for that. Merry meet again!~
+0
+3
+7035
+0
+7010
+-1
+0
+28
+0
+0
+$~

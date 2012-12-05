@@ -1,0 +1,29 @@
+#5700
+couch sofa mimic~
+a mimic~
+A wooden couch sits here strewn with colorful pillows.
+~
+A colorful couch sits here with big fluffy cushions and pillows.  Something
+doesn't seem quite right though, the number of pillows seem disproportionate.
+~
+260170 0 0 0 40 0 0 0 0 E
+7 13 3 7d5+80 4d4+7
+300 2500
+8 8 0
+BareHandAttack: 5
+E
+#5701
+cat guardian familiar~
+the familiar~
+A long-haired flame orange cat is sleeping on top of the chest.
+~
+The cat looks peaceful.  You get the feeling that even though it is sleeping it
+is aware of your presence.
+~
+174107 0 0 0 139304 0 0 0 0 E
+7 13 3 7d5+80 4d4+4
+0 2500
+4 4 2
+BareHandAttack: 8
+E
+$

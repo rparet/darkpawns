@@ -1,0 +1,1195 @@
+#11700
+Entrance to the Crystal Temple~
+Before you a huge building towers over the horizon. It looks ancient beyond
+belief, and the signs of the altar and holy flame above the door and on the
+gables show it to be a temple. The entire building is made of some slick black
+stone, possibly onyx.
+~
+117 12 0 0 0 0
+D0
+The Door to the Crystal Temple.
+~
+door~
+1 -1 11725
+D2
+~
+~
+0 -1 8078
+S
+#11701
+The Secret Room~
+The southern wall of this room is dark onyx which shows up like a dirty stain
+against the other three clear crystal walls. The door that was hidden from the
+outside is plainly visible on this side, leading south out into the
+keeper's lair.
+~
+117 8 0 0 0 0
+D2
+~
+door~
+1 -1 11703
+S
+#11702
+In the Keeper's Lair~
+The dark stone that makes up this room is cold to the touch, and reflects back
+no warmth. Your boots tap eerily against the flawless smooth floor.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11703
+D2
+~
+~
+0 -1 11705
+S
+#11703
+In the Keeper's Lair~
+A cold breeze blows out from under the wall to the north, and a huge door
+takes up most the wall to the south. The vaulted ceiling rises high above your
+head, and the cold floor completes your crystal encasement.
+~
+117 8 0 0 0 0
+D0
+~
+secret door~
+2 11700 11701
+D1
+~
+~
+0 -1 11704
+D2
+~
+~
+0 -1 11706
+D3
+~
+~
+0 -1 11702
+S
+#11704
+In the Keeper's Lair~
+The dark stone that makes up this room is cold to the touch, and reflects back
+no warmth. Your boots tap eerily against the flawless smooth floor.
+~
+117 8 0 0 0 0
+D2
+~
+~
+0 0 11707
+D3
+~
+~
+0 -1 11703
+S
+#11705
+Inside the Keeper's Lair~
+A huge door in the southern wall to the east leads out into the bright crystal
+hallway, but this room is molded of the same dark stone that made up the
+outside of the temple. No light reflects off its dark surface, and you wonder
+what, or who, could live here.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11702
+D1
+~
+~
+0 -1 11706
+S
+#11706
+Inside the Keeper's Lair~
+A huge door to the south leads out into the bright crystal hallway, but this
+room is molded of the same dark stone that made up the outside of the temple.
+No light reflects off its dark surface, and you wonder what, or who, could
+live here.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11703
+D1
+~
+~
+0 -1 11707
+D2
+~
+door~
+1 -1 11710
+D3
+~
+~
+0 -1 11705
+S
+#11707
+Inside the Keeper's Lair~
+A huge door in the southern wall to the west leads out into the bright crystal
+hallway, but this room is molded of the same dark stone that made up the
+outside of the temple. No light reflects off its dark surface, and you wonder
+what, or who, could live here.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 0 11704
+D3
+~
+~
+0 -1 11706
+S
+#11708
+A Bend in the Crystal Passage~
+A large transluscent door is set into the southern wall here, and the tunnel
+leads back east.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11709
+D2
+~
+door~
+1 -1 11713
+S
+#11709
+A Crystal Passage~
+You travel down the hall, one hand out in front of you to make sure you don't
+run into a clear wall. The soft glow of your armor is obnoxiously bright in the
+reflection of the crystal around you.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11710
+D3
+~
+~
+0 -1 11708
+S
+#11710
+A Crystal Hallway~
+The enormous door in front of you extends far up into the vaulted ceiling of
+the temple. There are no visible keyholes, but it swings partly open at your
+touch, seeming very light on its hidden hinges. The marble hall branches east
+and west, and leads to the exit door to the south.
+~
+117 8 0 0 0 0
+D0
+You see a large crystal door.
+~
+door~
+1 -1 11706
+D1
+~
+~
+0 -1 11711
+D2
+~
+door~
+1 -1 11715
+D3
+~
+~
+0 -1 11709
+S
+#11711
+A Crystal Passage~
+You travel down the hall, one hand out in front of you to make sure you don't
+run into a clear wall. The soft glow of your armor is obnoxiously bright in
+the reflection of the crystal around you.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11712
+D3
+~
+~
+0 -1 11710
+S
+#11712
+A Bend in the Crystal Passage~
+A large transluscent door is set into the southern wall here, and the tunnel
+leads back west.
+~
+117 8 0 0 0 0
+D2
+~
+door~
+1 -1 11717
+D3
+~
+~
+0 -1 11711
+S
+#11713
+A Twisting Passage~
+The passage turns from the north abruptly back to the east, where you can see
+it bend southward again. There's something moving around the corner to the
+southeast.
+~
+117 8 0 0 0 0
+D0
+~
+door~
+1 -1 11708
+D1
+~
+~
+0 -1 11714
+S
+#11714
+Before the Crystal Flame~
+A bright light burns beneath the door to the south. The already bright hallway
+is bearable to the west.
+~
+117 8 0 0 0 0
+D2
+~
+door~
+1 -1 11719
+D3
+~
+~
+0 -1 11713
+S
+#11715
+A Crystal Passage~
+Doors exit this narrow passage to the north and south. On either side of you
+you dark shapes are blurred by the crystal walls. Something or someone is
+definitely moving on the other side of the walls to your east and west.
+~
+117 8 0 0 0 0
+D0
+~
+door~
+1 -1 11710
+D2
+~
+door~
+1 -1 11720
+S
+#11716
+Before the Crystal Flame~
+A bright light burns beneath the door to the south. The already bright hallway
+is bearable to the east.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11717
+D2
+~
+door~
+1 -1 11721
+S
+#11717
+A Twisting Passage~
+The passage turns from the north abruptly back to the west, where you can see
+it bend southward again. There's something moving around the corner to the
+southwest.
+~
+117 8 0 0 0 0
+D0
+~
+door~
+1 -1 11712
+D3
+~
+~
+0 -1 11716
+S
+#11718
+At the Top of the Stairs~
+A stairway leads down into the depths of the temple here. The crystal steps
+look thin but sturdy, and as you test your weight on them, you hear the
+curious noise of stone-on-stone coming from below.
+~
+117 8 0 0 0 0
+D2
+~
+~
+0 -1 11723
+D5
+You see the cellar of the temple.
+~
+~
+0 -1 11737
+S
+#11719
+On the Dais of the Crystal Flame~
+Stepping up on the dais you notice the walls, floor and ceiling of this place
+not only reflect back the light radiated in the chamber, but give off some
+sort of bright light of their own. The hall leads out to the north.
+~
+117 8 0 0 0 0
+D0
+~
+door~
+1 -1 11714
+S
+#11720
+A Crystal Passage~
+The passage continues north and south, and on either side of you dark shapes
+are blurred by the crystal walls. Something or someone is definitely moving on
+the other side of the walls to your east and west.
+~
+117 8 0 0 0 0
+D0
+~
+door~
+1 -1 11715
+D2
+~
+door~
+1 -1 11725
+S
+#11721
+On the Dais of the Crystal Flame~
+Stepping up on the dais you notice the walls, floor and ceiling of this place
+not only reflect back the light radiated in the chamber, but give off some
+sort of bright light of their own. The hall leads out to the north.
+~
+117 8 0 0 0 0
+D0
+~
+door~
+1 -1 11716
+S
+#11722
+The Base of a Crystal Stairway~
+Above you rises an exquisite spiral staircase. Sunlight gleams in from the
+room above you, glinting of the stairs like fine jewels. At the top of the
+stairs you see a small room containing an even smaller door.
+~
+117 8 0 0 0 0
+D2
+~
+~
+0 -1 11727
+D4
+~
+~
+0 -1 11728
+S
+#11723
+A Bend in the Crystal Hallway~
+You almost walk into the wall before you notice it is there. The hallway bends
+north and east here; to the north you see a stairway.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11718
+D1
+~
+~
+0 -1 11724
+S
+#11724
+A Crystal Passage~
+Your boots tap eerily on the clear crystal, and looking down, you notice shapes
+moving under the floor... something is alive in the rooms below you. The
+passage continues east and west.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11725
+D3
+~
+~
+0 -1 11723
+S
+#11725
+Inside the Crystal Temple~
+This grand hallway is a exact reversal of the dismal walls outside. Made of
+clear crystal, it's hard to tell where the hall end and walls begin. The
+hallway leads in all directions here; passage south is blocked by a gigantic
+crystal door leading outside.
+~
+117 8 0 0 0 0
+D0
+~
+door~
+1 -1 11720
+D1
+~
+~
+0 -1 11726
+D2
+The Door Exiting the Crystal Temple.
+~
+door~
+1 -1 11700
+D3
+~
+~
+0 -1 11724
+S
+#11726
+A Crystal Passage~
+Your boots tap eerily on the clear crystal. Looking around, you notice shapes
+moving above the ceiling - something is alive in the rooms over you. The
+passage continues east and west.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11727
+D3
+~
+~
+0 -1 11725
+S
+#11727
+A Bend in the Crystal Hallway~
+You almost walk into the wall before you notice it is there. The hallway bends
+north and west here; to the north you see a stairway.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11722
+D3
+~
+~
+0 -1 11726
+S
+#11728
+The Landing~
+To the east a small door is barely wide enough for you to crawl through. It
+looks extremely out of place next to the enormous staircase on which you stand.
+~
+117 8 0 0 0 0
+D1
+~
+door~
+1 -1 11729
+D5
+~
+~
+0 -1 11722
+S
+#11729
+A Short Hall~
+This short hall leads east and west and has a door at either end. The door
+here is so tiny you would have to crawl through on your hands and knees.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11730
+D3
+~
+door~
+1 -1 11728
+S
+#11730
+A Short Hall~
+This short hall leads east and west and has a door at either end. The door
+here is gigantic, taking up the entire wall.
+~
+117 8 0 0 0 0
+D1
+~
+door~
+1 -1 11733
+D3
+~
+~
+0 -1 11729
+S
+#11731
+The Bell Room~
+In the midst of this room is a gigantic bell so large that you wonder if the
+room was built around it. Windows in the walls around you provide a fantastic
+view of the countryside.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11732
+D2
+~
+~
+0 -1 11733
+S
+#11732
+The Bell Room~
+In the midst of this room is a gigantic bell so large that you wonder if the
+room was built around it. Windows in the walls around you provide a fantastic
+view of the countryside.
+~
+117 8 0 0 0 0
+D2
+~
+~
+0 -1 11734
+D3
+~
+~
+0 -1 11731
+S
+#11733
+The Bell Room~
+In the midst of this room is a gigantic bell so large that you wonder if the
+room was built around it. Windows in the walls around you provide a fantastic
+view of the countryside. To the west is a door leading back inside the temple.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11731
+D1
+~
+~
+0 -1 11734
+D2
+~
+~
+0 -1 11735
+D3
+~
+door~
+1 -1 11730
+E
+bell~
+It's about twice the size of your father's cart back home. It's made of
+poor grade of iron, with a clapper the size of your head. It looks rusted
+the point that ringing it would be mere fantasy.
+~
+S
+#11734
+The Bell Room~
+In the midst of this room is a gigantic bell so large that you wonder if the
+room was built around it. Windows in the walls around you provide a fantastic
+view of the countryside.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11732
+D2
+~
+~
+0 -1 11736
+D3
+~
+~
+0 -1 11733
+S
+#11735
+The Bell Room~
+In the midst of this room is a gigantic bell so large that you wonder if the
+room was built around it. Windows in the walls around you provide a fantastic
+view of the countryside.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11733
+D1
+~
+~
+0 -1 11736
+S
+#11736
+The Bell Room~
+In the midst of this room is a gigantic bell so large that you wonder if the
+room was built around it. Windows in the walls around you provide a fantastic
+view of the countryside.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11734
+D3
+~
+~
+0 -1 11735
+S
+#11737
+At the Bottom of the Stairs~
+Crystal steps lead up to the main floor here, and a solid-looking door blocks
+your passage south. From behind the door you hear the sound of stone hitting
+stone.
+~
+117 8 0 0 0 0
+D2
+~
+door~
+1 -1 11740
+D4
+~
+~
+0 -1 11718
+S
+#11738
+In the Crystal Tunnels~
+Evidently this part of the temple was never finished. The crystal tunnel is
+rough-hewn but large enough for grown ogres to walk side-by-side. The tunnel
+turns sharply south here, and continues to the east.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11739
+D2
+~
+~
+0 -1 11742
+S
+#11739
+In the Crystal Tunnels~
+Evidently this part of the temple was never finished. The crystal tunnel is
+rough-hewn but large enough for grown ogres to walk side-by-side. The tunnel
+turns sharply to the west, and you see a door in the north wall to the east.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11740
+D3
+~
+~
+0 -1 11738
+S
+#11740
+In the Crystal Tunnels~
+Evidently this part of the temple was never finished. The crystal tunnel is
+rough-hewn but large enough for grown ogres to walk side-by-side. A large door
+leads north to a crystal stairway, and the passage leads east and west.
+~
+117 8 0 0 0 0
+D0
+~
+door~
+1 -1 11737
+D1
+~
+~
+0 -1 11741
+D3
+~
+~
+0 -1 11739
+S
+#11741
+In the Crystal Tunnels~
+The tunnel curves here, heading to the south. There's a door to the northwest
+that spans the height of the wall. You see flitters of movement reflecting
+from the walls all around you.
+~
+117 8 0 0 0 0
+D2
+~
+~
+0 -1 11745
+D3
+~
+~
+0 -1 11740
+S
+#11742
+In the Crystal Tunnels~
+The tunnel twists sharply here, heading east and north. The sound of stone
+hitting stone that reverberates throughout the temple is extremely loud here,
+obviously caused by the crystal golem's footsteps on the stone floor.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11738
+D1
+~
+~
+0 -1 11743
+S
+#11743
+In the Crystal Tunnels~
+Evidently this part of the temple was never finished. The crystal tunnel is
+rough-hewn but large enough for grown ogres to walk side-by-side. The tunnel
+turns sharply to the west and to the east.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11744
+D3
+~
+~
+0 -1 11742
+S
+#11744
+In the Crystal Tunnels~
+Evidently this part of the temple was never finished. The crystal tunnel is
+rough-hewn but large enough for grown ogres to walk side-by-side. The tunnel
+turns sharply south here, and continues to the west.
+~
+117 8 0 0 0 0
+D2
+~
+~
+0 -1 11748
+D3
+~
+~
+0 -1 11743
+S
+#11745
+In the Crystal Tunnels~
+The tunnel ends at a door to the south, and curves westward just north of here.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11741
+D2
+~
+~
+0 -1 11749
+S
+#11746
+In the Crystal Tunnels~
+A small door in the southern wall is unlocked and opens at your touch. The
+tunnel leads eastward from here.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11747
+D2
+~
+door~
+1 -1 11750
+S
+#11747
+In the Crystal Tunnels~
+To the west the tunnel ends at a small door, and continues back eastward.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11748
+D3
+~
+~
+0 -1 11746
+S
+#11748
+In the Crystal Tunnels~
+The tunnel seems to end at a small door to the west, and continues its
+twisting path to the north.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11744
+D3
+~
+~
+0 -1 11747
+S
+#11749
+In the Crystal Tunnels~
+The Tunnel heads of the north from here. In the south wall you see a small
+door that seems to be unlocked.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11745
+D2
+~
+door~
+1 -1 11753
+S
+#11750
+The Slanting Room~
+This room slopes sharply downward to the east. The crystal floor is quite
+slick, but not so much that you can't stand and fight with confidence. A small
+door is in the north wall here.
+~
+117 8 0 0 0 0
+D0
+~
+door~
+1 -1 11746
+D1
+~
+~
+0 -1 11751
+S
+#11751
+The Grand Hall~
+This large hall is richly decorated in huge crystal statues. The statue here
+has a small plaque at its base.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11752
+D2
+~
+~
+0 -1 11754
+D3
+~
+~
+0 -1 11750
+E
+plaque~
+Tracer, son of the giver of much joy!
+~
+E
+statue tracer~
+You see a lopsided statue featuring a man with two halves: one side is a
+brazen, imposing figure that fills you with wonder.. while the other half of
+the statue is a twisted, deformed gnome so hideously life-like that you want
+to retch.
+~
+S
+#11752
+The Grand Hall~
+This large hall is richly decorated in huge crystal statues. The statue here
+has a small plaque at its base.
+~
+117 8 0 0 0 0
+D1
+~
+~
+0 -1 11753
+D2
+~
+~
+0 -1 11755
+D3
+~
+~
+0 -1 11751
+E
+plaque~
+Arak, Deceptor of the planes
+~
+E
+statue arak~
+Before you stands the statue of a hooded, cloaked figure. No face can be seen,
+and even the statue itself seems to suck in the light from the room. You are
+overcome by the waves of evil that radiate from this horrendous work of art.
+~
+S
+#11753
+The Slanting Room~
+This room slopes sharply downward to the west. The crystal floor is quite
+slick, but not so much that you can't stand and fight with confidence. A small
+door is in the north wall here.
+~
+117 8 0 0 0 0
+D0
+~
+door~
+1 -1 11749
+D3
+~
+~
+0 -1 11752
+S
+#11754
+The Grand Hall~
+This large hall is richly decorated in huge crystal statues. The statue here
+has a small plaque at its base.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11751
+D1
+~
+~
+0 -1 11755
+D2
+~
+~
+0 -1 11756
+E
+plaque~
+Serapis, God of the Underworld
+~
+E
+statue serapis~
+Before you stands the statue of a hawk-headed man. Well over six feet tall,
+you are filled with a sense of dread and awe as you gaze at what can only be
+described as a god.
+~
+S
+#11755
+The Grand Hall~
+This large hall is richly decorated in huge crystal statues. The statue here
+has a small plaque at its base.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11752
+D2
+~
+~
+0 -1 11757
+D3
+~
+~
+0 -1 11754
+E
+plaque~
+Ayesha, Lollipop of the Gods!
+~
+E
+statue ayesha~
+The statue before you is of a big... lollipop.
+~
+S
+#11756
+The Grand Hall~
+This large hall is richly decorated in huge crystal statues. The statue here
+has a small plaque at its base.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11754
+D1
+~
+~
+0 -1 11757
+E
+plaque~
+Nevyn, the Eternal Champion
+~
+E
+statue nevyn~
+It is the color of a bleached skull, his flesh; and the long hair which flows
+below his shoulders is milk-white. From the tapering, beautiful head stare
+two slanting eyes, crimson and moody, and from the solid sleeves of his yellow
+robe emerge two slender hands, also the color of bone, resting on each arm of
+a seat which has been carved from a single, massive ruby. This is truly a
+beautiful likeness.
+~
+S
+#11757
+The Grand Hall~
+This large hall is richly decorated in huge crystal statues. The statue here
+has a small plaque at its base.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11755
+D2
+~
+~
+0 -1 11758
+D3
+~
+~
+0 -1 11756
+E
+plaque~
+Oddity, God of Creation.
+~
+E
+statue oddity~
+This is a statue of a beautiful man. Although men aren't normally described
+as beautiful, there is no other way to describe this statue. Looking in the
+statue's golden eyes, however, you see something very strange. A glint of 
+insanity perhaps? It's hard to say. Whatever it is, you're amazed that after
+seeing the other statues that this one which actually seems to be the 
+most human also seems to be the most disturbing.
+~
+S
+#11758
+The Alcove~
+This small room is no larger than a broom closet. On the wall hangs a long
+tapestry.
+~
+117 8 0 0 0 0
+D0
+~
+~
+0 -1 11757
+E
+tapestry wall~
+You see a faded tapestry picturing the god Tracer looking evilly down on the 
+town of Kir Drax'in.
+~
+S
+#11759
+A narrow path~
+Flames lick up on both sides of the path. The yawning chasm beneath
+your feet promises certain death should you fall.
+~
+117 0 0 0 0 0
+D0
+~
+~
+0 0 11760
+D1
+~
+~
+0 0 11764
+D3
+~
+~
+0 0 11764
+D5
+~
+~
+0 0 11764
+S
+#11760
+A narrow path~
+Ahead lies the end of the path. The flame roaring below obscures any sound,
+and its smoke obscures your sight of what lies before you.
+~
+117 0 0 0 0 5
+D0
+~
+~
+0 0 11761
+D1
+~
+~
+0 0 11764
+D2
+~
+~
+0 0 11759
+D3
+~
+~
+0 0 11764
+D5
+~
+~
+0 0 11764
+S
+#11761
+A lair above the lava~
+The path to the south ends here on a smooth stone pedestal. All around you
+fire leaps and crackles fiercely.
+~
+117 0 0 0 0 0
+D0
+~
+~
+0 0 11762
+D1
+~
+~
+0 0 11764
+D2
+~
+~
+0 0 11760
+D3
+~
+~
+0 0 11764
+D5
+~
+~
+0 0 11764
+S
+#11762
+A narrow path~
+Ahead lies the end of the path. The flame roaring below obscures any sound,
+its smoke obscures your sight of what lies before you.
+~
+117 0 0 0 0 5
+D0
+~
+~
+0 0 11763
+D1
+~
+~
+0 0 11764
+D2
+~
+~
+0 0 11761
+D3
+~
+~
+0 0 11764
+D5
+~
+~
+0 0 11764
+S
+#11763
+A narrow path~
+Ahead lies the end of the path. The flame roaring below obscures any sound,
+e obscures your sight of what lies before you.
+~
+117 0 0 0 0 5
+D1
+~
+~
+0 0 11764
+D2
+~
+~
+0 0 11762
+D3
+~
+~
+0 0 11764
+D5
+~
+~
+0 0 11764
+S
+#11764
+In the endless chasm~
+An endless chasm doesn't really seem plausible.. Perhaps you'll hit
+bottom in a few weeks, if you don't starve to death or burn to a crisp
+first.
+In any case.... You're dead.
+~
+117 518 0 0 0 0
+S
+$~

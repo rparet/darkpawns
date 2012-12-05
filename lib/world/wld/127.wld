@@ -1,0 +1,310 @@
+#12700
+On the Ocean~
+   The wide ocean spans across your sight, making you lose all 
+sense of direction.  As you float above the surface, currents 
+crash into you, forcing you to pay attention to the water's 
+motion.  Breezes rush past you, spraying you with bits of red
+seaweed.
+   A small pier lies to the south, where the ocean meets the
+coastline.  A city rises high above the pier, where foreign
+ships dock and disembark, loading and unloading their wares.
+~
+127 0 0 0 0 7
+D0
+~
+~
+0 0 21746
+D1
+~
+~
+0 0 12699
+D2
+~
+~
+0 0 19173
+D3
+~
+~
+0 0 21780
+S
+#12701
+On the Ocean~
+   Here, otters and terns circle, splashing happily into the 
+ocean.  You marvel at the schools of fish that streak through 
+the ocean as though they were birds sailing in the air.  Gales 
+rush past you, pummeling you with spray and bits of flotsam. 
+   A small platform rises just above the surface of the water
+to the north.
+~
+127 0 0 0 0 7
+D0
+~
+~
+0 0 3506
+D2
+~
+~
+0 0 5105
+D3
+~
+~
+0 0 12702
+S
+#12702
+On the Ocean~
+   The wide sea spans across your vision, making you lose all 
+sense of direction.  Your nostrils sting as the spray shimmers 
+you, bringing tears of pain to your eyes, and clouding over the
+small raised platform that rises over the water to the north.
+~
+127 0 0 0 0 7
+D0
+~
+~
+0 0 3507
+D1
+~
+~
+0 0 12701
+D2
+~
+~
+0 0 5104
+D3
+~
+~
+0 0 12703
+S
+#12703
+On the Ocean~
+   You are floating without direction on the surface of the water. 
+You marvel at the schools of sharks that streak through the water 
+as though they were birds coasting in the air.
+   To the north a raised platform rises from the ocean surface,
+offer a chance to land and put your feet under something solid.
+~
+127 0 0 0 0 7
+D0
+~
+~
+0 0 3500
+D1
+~
+~
+0 0 12702
+D2
+~
+~
+0 0 5103
+D3
+~
+~
+0 0 12704
+S
+#12704
+On the Ocean~
+   You are floating above the listless surface of the water.  As 
+you venture across the water's surface, you note your shadow 
+below, waving with the waves.  Gusts rush past you, blasting you 
+with foam and bits of driftwood. 
+~
+127 0 0 0 0 7
+D0
+~
+~
+0 0 12692
+D1
+~
+~
+0 0 12703
+D2
+~
+~
+0 0 5102
+D3
+~
+~
+0 0 12705
+S
+#12705
+On the Ocean~
+   Here, otters and terns float, splashing intentionally into the 
+sea.  As you float across the sea's surface, you note your shadow 
+below, fading and distorting with the waves and eddies.
+   The ocean continues to all horizons.
+~
+127 0 0 0 0 0
+D0
+~
+~
+0 0 12693
+D1
+~
+~
+0 0 12704
+D2
+~
+~
+0 0 5101
+D3
+~
+~
+0 0 12706
+S
+#12706
+A Rocky Coast~
+   The wide sea spans across your sight to the north, east, and west,
+momentarily disorienting you.  Your ears sting as the mist whips into
+into you, bringing tears of pain to your eyes, and blurring the rocky
+coast to the south.
+~
+127 0 0 0 0 0
+D0
+~
+~
+0 0 12694
+D1
+~
+~
+0 0 12705
+D2
+~
+~
+0 0 5100
+D3
+~
+~
+0 0 12707
+S
+#12707
+A Rocky Coast~
+   Here, whales and sea lions sail, splashing purposely into the 
+sea.  Your ears sting as the spray highlights you, bringing tears 
+of pain to your eyes.  In the distance, you can see the foam of a 
+broken ocean eddies and waves smash into the rocky southern coast.
+The force of the gales and the waves prevent you from any kind of
+safe landing to the south.
+~
+127 0 0 0 0 7
+D0
+~
+~
+0 0 12695
+D1
+~
+~
+0 0 12706
+D2
+~
+~
+0 0 5091
+D3
+~
+~
+0 0 12708
+S
+#12708
+A Rocky Coast~
+   Here, otters and gulls float, splashing purposely into the 
+ocean.  As you float above the surface, currents crash into you, 
+forcing you to pay attention to the water's motion.  In the 
+distance to the south, you can see great waves smashing against
+a rocky, sheer cliff that appears impossible to dock with.
+~
+127 0 0 0 0 7
+D0
+~
+~
+0 0 12696
+D1
+~
+~
+0 0 12707
+D3
+~
+~
+0 0 12709
+S
+#12709
+A Rocky Coast~
+   Here, otters and terns circle, splashing happily into the 
+ocean.  You marvel at the schools of perch that streak through
+the ocean as though they were birds sailing in the air.  Gales 
+rush past you, pummeling you with spray and bits of flotsam. 
+   To the south a rocky coast emerges, boasting a small city
+that rises high on top of it.  The coastline appears to be 
+dangerous, and impossible to dock upon, however, especially
+from the height of the crashing waves.
+~
+127 0 0 0 0 7
+D0
+~
+~
+0 0 12697
+D1
+~
+~
+0 0 12708
+D3
+~
+~
+0 0 12710
+S
+#12710
+A Rocky Coast~
+   You are floating above the listless surface of the water.  You 
+marvel at the schools of salmon that streak through the sea as 
+though they were birds coasting in the air.  Gales rush past you, 
+spraying you with wavecrests and bits of seamoss. 
+   A rocky coastline lies to the south, upon which a small city
+has been built.  There appears to be no place to dock, however,
+as the waves are powerful and the winds extremely dangerous that
+close to the coast.
+~
+127 0 0 0 0 7
+D0
+~
+~
+0 0 12698
+D1
+~
+~
+0 0 12709
+D3
+~
+~
+0 0 12711
+S
+#12711
+A Rocky Coast~
+   Here, otters and terns sail, splashing happily into the water.  
+As you voyage across the ocean's surface, you note your image 
+below, fading with the currents.  Gales rush past you, blasting 
+you with mist and bits of kelp. 
+   A small dock lies to the west, jutting out from the abrupt
+coastline that stretches along the southern horizon.
+~
+127 0 0 0 0 7
+D0
+~
+~
+0 0 12699
+D1
+~
+~
+0 0 12710
+D3
+~
+~
+0 0 19173
+S
+#12712
+On the Ocean~
+   You are floating without direction on the surface of the water. 
+You marvel at the schools of bluefish that streak through the
+ocean as though they were birds sailing in the air.  In the 
+distance, you can see the foam of a broken ocean currents. 
+~
+127 0 0 0 0 7
+S
+$~

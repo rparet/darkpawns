@@ -1,0 +1,2030 @@
+#19700
+Mad King's Secret Study~
+You are in a small stone chamber.  The walls are bare granite blocks, 
+and the ceiling is lost in the inky blackness above.  In the middle of
+the room a large book rests under a sheet of glass in a small display
+case.
+~
+197 12 0 0 0 0
+D0
+There is a shimmering field to the north through which you can barely
+make out what appears to be the entrance to this keep.
+~
+~
+0 -1 19703
+E
+book display case~
+The book is opened to a page which reads:
+   "The Mad King Seilon was obsessed with the thought that burglars
+were after his treasures, so he designed his small keep to lure
+unsuspecting would-be theives to an untimely death.  There was,
+however, a method of reaching the treasure room, known only to King
+Seilon himself.  That secret is now lost as no one knows what became 
+of the poor king who sadly disappeared many years ago."
+~
+S
+#19701
+Foot of a Hill~
+A small path winds its way up the crest of a small hill to the north,
+leading to a black keep perched up high among the bare rocky earth.
+~
+197 32768 0 0 0 2
+D0
+The small path is overgrown, but not treacherous.  Unfortunately the
+same cannot be said for the keep at the end of the path!
+~
+~
+0 -1 19702
+D2
+~
+~
+0 0 19791
+S
+#19702
+Before the Keep Entrance~
+Before you stand the battered gates of an old, broken-down keep.  The
+structure appears completely deserted, yet there is something quite
+unsettling about it.
+~
+197 32772 0 0 0 1
+D0
+The gates are large and imposing.
+~
+gates battered~
+2 -1 19703
+D2
+Compared to your other choice, this direction leads to paradise!
+~
+~
+0 -1 19701
+S
+#19703
+Middle of Hallway~
+You are in the middle of a long east-west hallway.  Dust and cobwebs
+are everywhere, yet there are semi-fresh footprints of many sizes
+indicating that someone has been here fairly recently.  On the door
+to the north there has been placed a small plaque.  To the south are 
+the gates leading out to the surrounding countryside.
+~
+197 32777 0 0 0 0
+D0
+There is a small plaque placed upon this door.
+~
+door~
+2 -1 19713
+D1
+You gaze placidly down the hallway.
+~
+~
+0 -1 19705
+D2
+The gates are huge and imposing.
+~
+gates battered~
+2 -1 19702
+D3
+You gaze placidly down the hallway.
+~
+~
+0 -1 19704
+E
+plaque~
+The plaque reads:
+   "Enter, gentle traveller, to the Hall of Wonders.  This collection
+is my gift to you and ALL who would come see it.
+-- King Seilon"
+~
+S
+#19704
+West End of Hallway~
+You are at the west end of a long east-west hallway.  Dust and cobwebs
+are everywhere, yet there are semi-fresh footprints of many sizes 
+indicating that someone has been here fairly recently.  On the door
+to the north there has been placed a small plaque.
+~
+197 32777 0 0 0 0
+D0
+A small plaque has been placed upon this door.
+~
+door~
+2 -1 19706
+D1
+You gaze placidly down the entrance hallway.
+~
+~
+0 -1 19703
+E
+plaque~
+The plaque reads:
+   "Wine cellars.  Authorized Personnel only!  Watch your step, 
+footing may be hazardous.
+   -- King Seilon"
+~
+S
+#19705
+East End of Hallway~
+You are at the east end of a long east-west hallway.  Dust and cobwebs
+are everywhere, yet there are semi-fresh footprints of many sizes
+indicating that someone has been here fairly recently.  On the door 
+to the north there has been placed a small plaque.
+~
+197 32777 0 0 0 0
+D0
+Some has placed a small plaque upon this door.
+~
+door~
+2 -1 19709
+D3
+You gaze placidly down the entrance hallway.
+~
+~
+0 -1 19703
+E
+plaque~
+The plaque reads:
+   "Please enjoy the view from my southern tower.  It was positioned 
+to give a most splendid view of the surrounding countryside.
+   --King Seilon"
+~
+S
+#19706
+Small Passage~
+This is a small, cold passage.  The walls appear to have been once
+decorated with fine wood paneling, but all that is left now are a few
+crumbling slats.
+~
+197 32777 0 0 0 0
+D3
+The small passage continues for a ways before turning south.
+~
+~
+0 -1 19707
+S
+#19707
+Small Passage~
+This small passage is rather depressing in its state of disrepair.
+Mouldering piles of old tapestries lie in heaps on the floor and 
+rusty torch sconces crumble underfoot.
+~
+197 32777 0 0 0 0
+D1
+You see more of the same faded remains of a once fine castle.
+~
+~
+0 -1 19706
+D2
+In the dimness, you think you can make out a staircase leading down.
+~
+~
+0 -1 19708
+S
+#19708
+Top of Staircase~
+You stand at the top of a small rickety staircase.  It does not look
+very safe.
+~
+197 32777 0 0 0 0
+D0
+There is a small passage to the north choked with the remains of
+castle finery.
+~
+~
+0 -1 19707
+D5
+The stairs look especially old and seem about ready to fall apart.  
+They lead down into total darkness.
+~
+~
+0 -1 19729
+S
+#19709
+Hallway to Tower~
+The ceiling of this hallway has collapsed, giving you a view through
+the rafters of a tall tower standing proudly against the sky.  You 
+must clamber over the debris, causing it to shift dangerously.
+~
+197 32776 0 0 0 1
+D1
+The hallway is not so clogged in this direction.
+~
+~
+0 -1 19710
+D2
+~
+door~
+1 0 19705
+S
+#19710
+Hallway to Tower~
+This hallway leads from the South Tower to the Keep entrance (or vice
+versa, depending on how you look at it!)
+There is also a small alcove to the north.
+~
+197 32776 0 0 0 0
+D0
+It looks and smells like something died in the alcove to the north.
+~
+~
+0 -1 19711
+D1
+A staircase spirals upwards to the east.
+~
+~
+0 -1 19712
+D3
+A large pile of debris partially clogs the hallway to the west.
+~
+~
+0 -1 19709
+S
+#19711
+Small Alcove~
+This small alcove may have once been a guard station, or even a privy,
+it is hard to tell.  Judging from the smell, however, it certainly 
+appears that something died here!
+~
+197 32776 0 0 0 0
+D2
+The hallway directly south is not as ruined as some locations you've 
+seen around here, but not much else can be said for it.
+~
+~
+0 -1 19710
+S
+#19712
+Bottom of Staircase~
+You stand at the bottom of a spiral staircase leading up to the tower.
+Some of the stones appear cracked and could give way at any moment!
+~
+197 32776 0 0 0 0
+D3
+At the far end of this hallway is a pile of rubble.  Above the rubble
+is the hole in the ceiling it came from.
+~
+~
+0 -1 19710
+D4
+Tread carefully!  The stone steps look very unstable.
+~
+~
+0 -1 19776
+S
+#19713
+Hall of Wonders~
+What's so wonderful about this hallway, you wonder.  As far as you can
+see, there is nothing here but dust and cobwebs.  Maybe there is 
+something wonderful behind the doors that line the hallway...
+~
+197 32777 0 0 0 0
+D0
+The hallway continues north for quite a ways.  A number of doors open
+out onto it as well.
+~
+~
+0 -1 19714
+D2
+~
+door~
+1 0 19703
+S
+#19714
+Hall of Wonders~
+What a boring Hall of Wonders!  You wonder if anything wonderful is 
+beyond the doors lining the halls.  You notice small openings cut in
+the doors to the east and west, underneath which are nailed small
+signs.
+~
+197 32777 0 0 0 0
+D0
+The hallway continues further to the north.
+~
+~
+0 -1 19717
+D1
+Above a small sign nailed to the eastern door is a hole, allowing you
+to peer inside.
+~
+door~
+2 -1 19716
+D2
+The hallway continues a bit to the south, ending at a door.
+~
+~
+0 -1 19713
+D3
+Above a small sign nailed to the western door is an opening, allowing
+you to peer inside.
+~
+door~
+2 -1 19715
+E
+opening~
+Inside the room to the west you spot a large chest filled to bursting
+with more gold and jewels than you can remember ever seeing in one 
+place before.
+~
+E
+hole~
+Inside the room to the east you can see a full suit of armor, shining
+brightly as if it were brand new.
+~
+E
+sign~
+The sign reads:
+  "Gaze upon my wondrous collections, but please do not enter."
+~
+S
+#19715
+Room of Wonders~
+This room is very small, and was obviously only meant to contain its
+wonders and little else, though you see some writing carved into the 
+floor.
+~
+197 295177 0 0 0 0
+D1
+Another room faces this one across the Hall of Wonders.
+~
+door~
+2 -1 19714
+E
+writing floor carving~
+These words are carved into the floor:
+"Thief!  You have trespassed and have been caught red-handed!  Death 
+awaits you!"
+~
+S
+#19716
+Room of Wonders~
+This is a small room, obviously meant to contain its displayed wonders
+and not much else, but you do notice some writing carved into the 
+floor.
+~
+197 295177 0 0 0 0
+D3
+Another room much like this one can be seen across the Hall of Wonders.
+~
+door~
+2 -1 19714
+E
+writing carving floor~
+The writing says:
+"Thief!  How dare you enter my home and try to steal my things?  You 
+shall die!"
+~
+S
+#19717
+Hall of Wonders~
+You are midway through the Hall of Wonders.  On either side of you is
+a door, complete with holes and signs like the other doors in this 
+hallway.
+~
+197 32777 0 0 0 0
+D0
+Just more boring Hall of Wonders
+~
+~
+0 -1 19721
+D1
+There is a hole cut into the door to the east, underneath which is a 
+small sign.
+~
+door~
+2 -1 19720
+D2
+More of the same.
+~
+~
+0 -1 19714
+D3
+There is an opening cut into the door to the west, under which is a 
+small sign.
+~
+door~
+2 -1 19718
+E
+opening~
+Through the opening in the western door can be seen the portrait of
+beautiful woman.  It appears to have been painted by that famous 
+artist, oh what's his name?  It must have cost a great fortune.
+~
+E
+hole~
+Through the hole in the eastern door can be seen a very old book.  It
+is quite old and has many arcane symbols in gold leaf upon the binding.
+It must contain all the wisdom of the ages.
+~
+E
+sign~
+The sign reads:
+  "Gaze upon my wondrous collections, but please do not enter."
+~
+S
+#19718
+Room of Wonders~
+This is a small room, and you are quite cramped.  On the western wall
+is some writing.
+~
+197 295177 0 0 0 0
+D1
+Across the way, you spot a room very similar to this one.
+~
+door~
+2 -1 19717
+D3
+There is some writing on this wall.
+~
+door~
+2 -1 19719
+E
+carving writing wall~
+The writing says:
+"Bloody thief!  Try as you might, you'll never find the keys to my 
+greatest treasure!  For you shall die first!"
+~
+S
+#19719
+Secret Chamber~
+This cleverly hidden secret chamber was not hidden well enough from 
+the likes you you!
+~
+197 32781 0 0 0 0
+D1
+Not that tiny room again!
+~
+door~
+2 -1 19718
+S
+#19720
+Room of Wonders~
+This is small room.  So small you are almost afraid to breathe!  Under
+your feet you notice some faint carvings on the floor.
+~
+197 295177 0 0 0 0
+D3
+Woohoo!  The Hall of Wonders!
+~
+door~
+2 -1 19717
+E
+carving writing floor~
+The writing says:
+"Thief!  I shall visit you in the small hours of the night and put a 
+bat up your nightdress!  Die!"
+~
+S
+#19721
+Hall of Wonders~
+You are near the northern end of the Hall of Wonders.  So far it 
+doesn't appear to be all that wondrous, however.  About the only 
+exciting thing you can see are the signs and holes in the doors to 
+the east and west.
+~
+197 32777 0 0 0 0
+D0
+You see a T-junction.
+~
+~
+0 -1 19724
+D1
+Beneath a small opening in the eastern door is nailed a small wooden 
+sign.
+~
+door~
+2 -1 19723
+D2
+The Hall of Wonders continues south.
+~
+~
+0 -1 19717
+D3
+Beneath a small hole in the western door is nailed a small wooden 
+sign.
+~
+door~
+2 -1 19722
+E
+opening~
+You are startled by the sight of a large red dragon staring back at 
+you, but you soon realize that it is only the head, stuffed and 
+mounted on the wall.  What a great trophy!
+~
+E
+hole~
+Through the hole in the western door you can see the finest array of
+weapons you have ever seen.
+~
+E
+sign~
+The sign reads:
+"Gaze upon my wondrous collections, but please do not enter and 
+disturb them."
+~
+S
+#19722
+Room of Wonders~
+This is a VERY small room.  It was obviously not designed with comfort
+in mind.  Carved into the stone floor is a small inscription.
+~
+197 295177 0 0 0 0
+D1
+The Hall of Wonders awaits.
+~
+door~
+2 -1 19721
+E
+carving inscription floor~
+The inscription reads:
+"Thief!  You shall die for your unwanted intrusion!"
+~
+S
+#19723
+Room of Wonders~
+This room is VERY small!  It's a wonder you were able to fit in here 
+at all!  Beneath your feet is some writing carved into the floor.
+~
+197 295177 0 0 0 0
+D3
+The Hall of Wonders awaits without!
+~
+door~
+2 -1 19721
+E
+writing floor~
+The writing says:
+"Thief!  You shall die a thousand deaths for your unwelcome presence
+here!"
+~
+S
+#19724
+Hall of Wonders~
+You stand at the northernmost end of the Hall of Wonders.  There is a
+small plaque placed upon the wall here.
+~
+197 32777 0 0 0 0
+D1
+A large marble staircase descends into darkness.
+~
+~
+0 -1 19726
+D2
+South lies the Hall of Wonders.  Doors open out onto the hallway from
+both sides at various locations along its length.
+~
+~
+0 -1 19721
+D3
+A large marble staircase rises to upper stories.
+~
+~
+0 -1 19725
+E
+plaque~
+The plaque reads:
+"The Hall of Wonders is the product of years of scouring the earth for
+the finest and most magnificent works of art money can buy.  They have
+been placed here on display for the benefit of all.  Please do not 
+disturb them."
+~
+S
+#19725
+Foot of Marble Staircase~
+The staircase here is in reasonably good condition.  Faded tapestries
+hang limply from the walls and the crumbled remains of small statuettes
+lie in the alcoves which once protected them.
+~
+197 32777 0 0 0 0
+D1
+A twin to the staircase here descends down to lower levels on the 
+other side of the hallway to the east.
+~
+~
+0 -1 19724
+D4
+The staircase rises through the old keep.  Along the way, a number of
+small windows let in a small amount of light from the outside.
+~
+~
+0 -1 19762
+S
+#19726
+Head of Marble Staircase~
+This must have once been a very beautiful palace, but now all is in
+ruins.  The banister for the staircase here has fallen away in many 
+places and your every move stirs up great clouds of dust.
+~
+197 32777 0 0 0 0
+D3
+A hallway extends southwards, and another set of stairs rises up 
+farther west.
+~
+~
+0 -1 19724
+D5
+~
+~
+0 0 19744
+S
+#19727
+Spiral Staircase~
+You stand at the foot of a set of stair that spiral upwards to the 
+Northern Tower.  The air here is musty and thick.
+~
+197 9 0 0 0 0
+D3
+You see a small room cluttered with barrels, broken shelves and other
+miscellany.
+~
+~
+0 -1 19728
+D4
+The stairs continue up into the gloom.
+~
+~
+0 -1 19786
+S
+#19728
+Back Entrance~
+This is the back entrance to the keep.  A great amount of junk has 
+been stored here- from old barrels and casks to shelves packed with 
+rotting bags of flour and grains to things so far gone, they must 
+remain nameless.
+~
+197 9 0 0 0 0
+D0
+A thickly barred door presumably opens out onto the general 
+countryside.
+~
+door~
+2 19712 8008
+D1
+A small spiralling staircase leads up to the Northern Tower.
+~
+~
+0 -1 19727
+E
+bag flour grain~
+Best leave this to the rats!
+~
+S
+#19729
+Bottom of Rickety Stairs~
+This small antechamber leads to the entrance to the wine cellars of 
+King Seilon.  The walls here are moist and the floor is covered with 
+slime.
+~
+197 32777 0 0 0 0
+D2
+The door to the wine cellar appears to have had a small sign fastened
+to it which has now vanished, for there is a lighter rectangle amid 
+the darker wood.
+~
+door~
+2 -1 19730
+D4
+These stairs look very unstable.  I'd be careful going up them if I 
+were you!
+~
+~
+0 -1 19708
+E
+floor slime~
+The slime at your feet has a greenish cast to it and sticks to your 
+feet when you move.
+~
+E
+walls~
+The walls are wet and covered with some sort of fungus.
+~
+S
+#19730
+Entrance to Wine Cellars~
+This is a very disgusting part of the keep.  The walls and floor are
+covered with wet, slimy fungus and there are strands of something 
+hanging from the ceiling which continually become tangled in your 
+hair and wrap themselves about your face.
+~
+197 32777 0 0 0 0
+D0
+A small doorway leads north.  Wherever it goes, it must be better 
+than this!
+~
+door~
+2 -1 19729
+D1
+The entranceway opens up to the east where there stand a few barrels 
+and empty bottles amid the muck.
+~
+~
+0 -1 19731
+E
+something strands ceiling~
+Something wet and stringy is hanging down from above.  You aren't sure
+that you even WANT to know what it really is!
+~
+E
+wall floor slime~
+Truly gross!  You can't wait to escape from this slimepit!
+~
+S
+#19731
+Entrance to Wine Cellar~
+This room is as bad as the last!  More slime, more sludge, a few 
+broken bottles and a barrel or two.
+~
+197 32777 0 0 0 0
+D0
+The wine cellar proper.  You can make out many racks of wine in the 
+gloomy dark.
+~
+~
+0 -1 19732
+D3
+It is hard to make out anything in the enveloping darkness.
+~
+~
+0 -1 19730
+E
+slime sludge~
+Wet, brown and sticky, what more could you ask for?
+~
+S
+#19732
+Wine Cellar~
+This is the wine cellar.  The old King Seilon must have had quite a 
+nice stock of good wines once, but you are afraid most of this stuff 
+has long gone bad.  You try to stay out of the worst of the muck.
+~
+197 32777 0 0 0 0
+D0
+To the north stands a great hogshead of beer.
+~
+~
+0 -1 19734
+D1
+More racks of old wine.
+~
+~
+0 -1 19733
+D2
+To the south is the entrance to the wine cellar.
+~
+~
+0 -1 19731
+S
+#19733
+Wine Cellar~
+This is the wine cellar.  The old King Seilon must have had quite a 
+nice stock of good wines once, but you are afraid most of this stuff 
+has long gone bad. You try to stay out of the worst of the muck.
+~
+197 32777 0 0 0 0
+D0
+More racks of old wine.
+~
+~
+0 -1 19735
+D3
+More racks of old wine.
+~
+~
+0 -1 19732
+S
+#19734
+Slime Filled Pit~
+Look out!  The floor here has given away and you have fallen into a
+sinkhole half filled with disgusting slime and muck.  You've fallen 
+quite a ways down and the sides of the pit are too slippery to climb.
+The stench in here is almost overpowering!
+~
+197 295177 0 0 0 0
+E
+slime muck~
+You find nothing in the slime that will help you escape.
+~
+S
+#19735
+Wine Cellar~
+This is the wine cellar.  The old King Seilon must have had quite a 
+nice stock of good wines once, but you are afraid most of this stuff 
+has long since gone bad.  You try to stay out of the worst of the muck.
+~
+197 32777 0 0 0 0
+D0
+This wine cellar is quite extensive!
+~
+~
+0 -1 19737
+D2
+The southern corner of the wine cellar.
+~
+~
+0 -1 19733
+D3
+A couple of hogsheads of beer drip green ooze from their nozzles to 
+the west.
+~
+~
+0 -1 19734
+S
+#19736
+Wine Cellar~
+This is the wine cellar.  The old King Seilon must have had quite a 
+nice stock of good wines once, but you are afraid most of this stuff 
+has long since gone bad.  You try to stay out of the worst of the muck.
+~
+197 32777 0 0 0 0
+D0
+The wine cellar seems to go on forever!
+~
+~
+0 -1 19738
+D1
+Another set of wine racks stands opposite you to the east.
+~
+~
+0 -1 19737
+D2
+There are a couple of hogsheads of beer to the south.
+~
+~
+0 -1 19734
+S
+#19737
+Wine Cellar~
+This is the wine cellar.  The old King Seilon must have had quite a 
+nice stock of good wines once, but you are afraid most of this stuff 
+has long since gone bad.  You try to stay out of the worst of the muck.
+~
+197 32777 0 0 0 0
+D0
+The wine racks immediately to the north are curiously empty of wine 
+bottles.
+~
+~
+0 -1 19739
+D2
+Surely there is an end to all this wine somewhere!
+~
+~
+0 -1 19735
+D3
+More wine racks stand against the wall to the west.
+~
+~
+0 -1 19736
+S
+#19738
+Wine Cellar~
+This is the wine cellar.  The old King Seilon must have had quite a 
+nice stock of good wines once, but you are afraid most of this stuff 
+has long since gone bad.  You try to stay out of the worst of the muck.
+~
+197 32777 0 0 0 0
+D0
+It looks like the racks to the north toppled over sometime in the past
+~
+~
+0 -1 19740
+D1
+The wine racks to the east are curiously empty.
+~
+~
+0 -1 19739
+D2
+Wine, wine everywhere, and not a dropto drink!
+~
+~
+0 -1 19736
+S
+#19739
+Slime-Filled Pit~
+Blast!  You have fallen into some sort of pit you must have missed 
+seeing because of all the darkness and the smell which is making your
+eyes water.  There is a sign on the eastern wall here.
+~
+197 295177 0 0 0 0
+D1
+There is a sign on the eastern wall, which somehow seems to have less
+slime on it than the rest of the cellar.
+~
+door~
+2 19707 19757
+E
+sign~
+The sign reads:
+"Now I have caught you, bloody thief!  You shall rot here for all 
+eternity!  You have little chance of escaping now!"
+~
+S
+#19740
+Wine Cellar~
+The wine racks here seem to have toppled over, crushing someone, for 
+you can see some bones wrapped in old rags sticking out from under the
+racks.
+~
+197 32777 0 0 0 0
+D0
+The northern end of the wine cellar.
+~
+~
+0 -1 19742
+D1
+The wine racks appear ok in this direction.
+~
+~
+0 -1 19738
+D2
+The wine racks appear ok in this direction.
+~
+~
+0 -1 19741
+E
+rack~
+Taking a closer look at this rack, you notice signs that make you 
+think it may have been booby trapped!  That dead guy must've been 
+trying to take a bottle of King Seilon's wine!
+~
+S
+#19741
+Wine Cellar~
+This is the wine cellar.  The old King Seilon must have had quite a
+nice stock of good wines once, but you are afraid most of this stuff 
+has long since gone bad. You try to stay out of the worst of the muck.
+~
+197 32777 0 0 0 0
+D0
+The northern end of the wine cellar.
+~
+~
+0 -1 19743
+D2
+The wine racks to the south are curiously bare.
+~
+~
+0 -1 19739
+D3
+The racks to the west seem to have
+toppled over sometime in the past.
+~
+~
+0 -1 19740
+S
+#19742
+Slime-Filled Pit~
+Whoops!  You slipped on some of the'slime and muck that fill the 
+cellar and have slid down into a pit filled with a reeking stench that
+makes your eyes water profusely.  Looking back the way you fell, you 
+realize climbing out is out of the question.
+~
+197 295177 0 0 0 0
+S
+#19743
+Wine Cellar~
+This is the wine cellar.  The old King Seilon must have had quite a 
+nice stock of good wines once, but you are afraid most of this stuff 
+has long since gone bad. You try to stay out of the worst of the muck.
+There is a small drainage grate near the floor here.
+~
+197 32777 0 0 0 0
+D0
+A dark tube runs down out of sight to the north beyond the grate.
+~
+grate~
+2 -1 19753
+D2
+The wine cellar extends past the reach of your light to the south.
+~
+~
+0 -1 19741
+D3
+Just more in the seemingly never-ending wine collection of old King 
+Seilon.
+~
+~
+0 -1 19742
+S
+#19744
+Foot of the Marble Staircase~
+This part of the keep is much better preserved than the rest.  The 
+air smells good, and there is nothing ruined or broken around you.
+~
+197 32777 0 0 0 0
+D1
+The hallway continues east, then ends with a doorway to the south.
+~
+~
+0 -1 19745
+D3
+A fine marble staircase stretches up to the west.
+~
+~
+0 -1 19726
+D4
+~
+~
+0 0 19726
+S
+#19745
+Before the Vault Entrance~
+Here at the eastern end of the hallway is a great iron door.  Whatever
+is in here must be VERY special because this door looks especially 
+secure.
+~
+197 32777 0 0 0 0
+D2
+The Vault of King Seilon.
+~
+iron door~
+2 19704 19746
+D3
+At the other end of the hallway, a great marble staircase leads up to
+the rest of the keep.
+~
+~
+0 -1 19744
+S
+#19746
+Vault Entrance~
+This is the first room in what looks to be a heavily secured vault.  
+Something valuable must lie further in!  A solid metal portcullis 
+blocks further passage to the south, while a great iron door is to the
+north.
+~
+197 32777 0 0 0 0
+D0
+North leads out of the vault, back to the rest of the keep.
+~
+iron door~
+2 19704 19745
+D2
+Beyond the portcullis is yet another chamber of this impressive vault.
+~
+metal portcullis~
+2 19705 19747
+S
+#19747
+Entrance to the Vault~
+Someone sure doesn't want anyone getting to whatever they keep in this
+vault.  A heavy oak door stands to the east, and to the north, a large
+metal portcullis can be brought down to prevent passage in that 
+direction.
+~
+197 32777 0 0 0 0
+D0
+Northwards should lead you eventually out of the vault.
+~
+metal portcullis~
+2 19705 19746
+D1
+What lies beyond the door to the east?
+~
+oak door~
+2 19706 19748
+S
+#19748
+Entrance to the Vault~
+This much security makes you tremble with anticipation.  To the west,
+a heavy oak door, to the north, a wrought iron gate.
+~
+197 32777 0 0 0 0
+D0
+This gate has been fashioned with lots of little curlies and fancy 
+decorations, but looks as solid as can be.
+~
+wrought iron gate~
+2 19707 19749
+D3
+You always have been partial to oak.
+~
+heavy oak door~
+2 19706 19747
+S
+#19749
+Entrance to the Vault~
+This is the biggest vault you have ever seen, and the most protected 
+too!  To the south, someone has placed a wrought iron gate and a great
+steel door with a combination lock to the north.
+~
+197 32777 0 0 0 0
+D0
+Duh!  More vault, what did you think?
+~
+great steel door~
+2 19708 19750
+D2
+What hath God wrought?
+Sorry, had to throw that in somewhere.
+~
+wrought iron gate~
+2 19707 19748
+E
+lock~
+Hmmm, now are you supposed to turn to the right two times to the first
+number then to the left, or is it the other way around?  Combination 
+locks suck!
+~
+S
+#19750
+Entrance to the Vault~
+Security must have been especially important to King Seilon.  To the 
+south there is a great steel door with a combination lock, while 
+passage to the east is blocked by a strange shimmering field, beside 
+which is a small box.
+~
+197 32777 0 0 0 0
+D1
+The things they can do with magic nowadays will never cease to amaze 
+you.
+~
+shimmering field~
+2 19709 19751
+D2
+Seilon must've stolen this door from Wells Fargo or something!
+~
+great steel door~
+2 19708 19749
+E
+box~
+Imprinted on this small box is the outline of a human hand.
+How strange....
+~
+S
+#19751
+Entrance to the Vault~
+King Seilon's favorite saying must've been, "Better safe than sorry!"
+Some kind of magic shimmering field lies to the west and a heavy stone
+door blocks the way south.
+~
+197 32777 0 0 0 0
+D2
+heavy stone door:
+It must have taken many strong men to get that stone door in place, 
+though, of course it must've taken many more to put the whole keep 
+together!
+~
+heavy stone door~
+2 19710 19752
+D3
+A small box lies beside the doorway to the west.
+~
+magic shimmering field~
+2 19709 19750
+E
+small box~
+The small box has the imprint of a human hand etched into it.
+Strange...
+~
+S
+#19752
+Deep in the Vault~
+Down the stairs at your feet must lie whatever is hidden in this 
+impressive vault.  The way north is blocked by a heavy stone door.
+~
+197 32777 0 0 0 0
+D0
+heavy stone door:
+You practically get a hernia just thinking about moving that stone!
+~
+heavy stone door~
+2 19710 19751
+D5
+The stairs are steep and narrow.  Good thing there's a handrail!
+~
+~
+0 -1 19753
+S
+#19753
+Lower Vault~
+Deep beneath the surface of the earth, King Seilon has hidden his most
+secret treasures.  The air is still and the complete silence is broken
+only by the faint sounds of water dripping somewhere else in these 
+dank caverns.  To the south is a heavy iron door.
+~
+197 32777 0 0 0 0
+D2
+The door to the south looks strong enough to stop any who would try 
+to go through.
+~
+heavy iron door~
+2 19704 19754
+D4
+This staircase leads up and out of the lower vault.
+~
+~
+0 -1 19752
+S
+#19754
+Lower Vault~
+The floor here slopes gently downwards to the west, where a wide pool 
+of stagnant water impedes further progress.  To the north is a heavy 
+iron door.
+~
+197 32777 0 0 0 0
+D0
+The door must be at least a foot thick!
+~
+heavy iron door~
+2 19704 19753
+D3
+There's no telling how deep the water gets farther out.
+~
+~
+0 -1 19755
+S
+#19755
+Stagnant Pool~
+The water in this pool is covered by a thick layer of stinking scum.
+To the east and west the floor emerges from this cesspool again.
+~
+197 262409 0 0 0 6
+D1
+The pool of water eventually ends as the floor rises above the surface
+~
+~
+0 -1 19754
+D3
+The pool of water eventually ends as the floor rises above the surface.
+~
+~
+0 -1 19756
+S
+#19756
+Lower Vault~
+The passageway to the north is blocked by an intricate spiderweb of 
+iron chains stretched across the opening.  A single large padlock 
+shaped like a giant spider straddles the center of the web.  To the 
+west is a small alcove while a stagnant pool of water lies to the east.
+~
+197 32777 0 0 0 0
+D0
+Whoever thought up this protective device must have been a genius!
+~
+spiderweb web~
+2 19700 19758
+D1
+The floor sinks down below a stagnant pool of water covered with a 
+thick green slime.
+~
+~
+0 -1 19755
+D3
+A small alcove with no distinctive features whatsoever, save a small 
+sign on the western wall.
+~
+~
+0 -1 19757
+E
+padlock lock~
+The lock has been fashioned to look like a two foot wide black widow.
+~
+S
+#19757
+Small Alcove~
+Something has swept this area clean for the floor is devoid of much 
+of the same mess found elsewhere in the keep.  On the western wall 
+hangs a small sign.
+~
+197 32777 0 0 0 0
+D1
+The lower vault stretches off into the distance.
+~
+~
+0 -1 19756
+E
+sign~
+The sign reads:
+"Greed shall destroy you.
+Greed is the great redeemer!
+Greed tears down all foundations.
+Greed shall save us all."
+~
+S
+#19758
+Outer Vault~
+You have penetrated into King Seilon's Outer vault.  The way south is
+closed off by a spiderweb fashioned from iron chains, and the northern
+wall is taken up entirely by a large grinning face carved from stone.
+~
+197 32777 0 0 0 0
+D0
+The gaptoothed grin on this face is terrible!
+~
+grinning face~
+2 19701 19759
+D2
+Such a clever idea.
+~
+spiderweb web~
+2 19700 19756
+E
+gaptoothed grin grinning~
+There is a large gap between two of the upper teeth, large enough for
+a whole other tooth!
+~
+S
+#19759
+Inner Vault~
+You have broken into King Seilon's Inner Vault.  A huge face with a
+gaptoothed grin fills up the entire southern wall while to the north 
+there is a door made entirely of what appears to be human bones.
+~
+197 32777 0 0 0 0
+D0
+Many people must have died in order to produce the door to the north.
+A shiver runs down your spine at the thought.
+~
+human bone door~
+2 19702 19760
+D2
+The gaptoothed grin on this face is terrible!
+~
+grinning face~
+2 19701 19758
+S
+#19760
+Inner Sanctum~
+Both terrible and beautiful at the same time, this room is the work of
+a mad genius.  Angles are not quite square, proportions are just a 
+little bit off, colors just don't seem right. Strangely, you 
+experience both claustrophia AND agoraphobia with a touch of vertigo 
+thrown in for good measure.  The skeletal decor is continued here; you
+see chairs, tables, whole cabinets fashioned of bones, many of which 
+are completely unrecognizable to you.  To the north, a pair of french
+doors leads out onto a balcony, and a door made of human bones leads 
+south.
+~
+197 32777 0 0 0 0
+D0
+The balcony must have a great view ofthe surrounding countryside.
+~
+french doors~
+2 19703 19761
+D2
+Many people must have died to provide the materials to construct the 
+door to the south.
+~
+human bone door~
+2 19702 19759
+E
+chair cabinet furniture~
+All the furniture here has been made from old, yellowing bones.  In 
+some places, a blood red velvet adds a dash of color.
+~
+S
+#19761
+Balcony~
+The view from this balcony is spectacular.  You can see why the old 
+king chose to build here on this mountaintop.  Looking down, you see 
+a trail not far below.
+~
+197 32768 0 0 0 0
+D2
+The inner sanctum awaits.
+~
+french doors~
+2 19703 19760
+D5
+The trail below is not too far down, if you jumped, you probably 
+wouldn't get hurt.
+~
+~
+0 -1 19702
+E
+view~
+In the far distance is a great mountain range, barely visible through 
+the haze.  Closer up, an immense, verdant forest blankets the foothills
+and surrounding countryside.
+~
+S
+#19762
+Marble Staircase~
+Judging by the amount of dust on the floors, far fewer people have 
+made it to the upper floors of the keep than down below.  At the head
+of the stairs, a small wooden door blocks the way west.
+~
+197 32777 0 0 0 0
+D3
+This way doesn't appear to have been used very often, even when the 
+keep was still in everyday use.
+~
+small wooden door~
+2 19711 19763
+D5
+The marble staircase leads down to the Hall of Wonders.
+~
+~
+0 -1 19725
+S
+#19763
+Storage Room~
+Now you think you know why the upper area wasn't used much.  You are 
+in a small storage room with no apparent exits, besides the way you 
+came in.  You think it was kind of stupid to build a big staircase 
+like that just to get to this stupid room.
+~
+197 32777 0 0 0 0
+D1
+Look Buzz!  An Alien!  hahaha
+~
+small wooden door~
+2 19711 19762
+D2
+~
+door~
+2 -1 19764
+S
+#19764
+Secret Hallway~
+How tricky!  A secret hallway!  A door stands at the end of the 
+hallway.  There is also a big portrait hanging on the eastern wall.
+~
+197 32777 0 0 0 0
+D0
+~
+door~
+2 -1 19763
+D1
+~
+door~
+2 -1 19765
+D2
+Where might this secret hall lead to?
+~
+door~
+2 -1 19766
+E
+portrait~
+The man in this painting would have been considered very handsome by 
+the standards of his time.  He is dressed in chain armor and mounted
+on a charging stallion.  A simple gold crown sits atop his brow.
+~
+S
+#19765
+Secret Room~
+That devilish King Seilon was full of little surprises, and obviously
+liked secrets.  This room is small and virtually without distinguishing
+features.  There is only the exit to the west, or is there?  You begin
+to wonder if EVERY wall hides a secret door!
+~
+197 32777 0 0 0 0
+D3
+Back out to the secret hallway you go.
+~
+door~
+2 -1 19764
+S
+#19766
+Small Bedroom~
+Was this the King's bedroom?  It is very small and not really fit for
+a king, but Seilon was supposed to have been a strange character, and
+you have heard of stranger things before.  To the south, part of the 
+wall has fallen away, and you think you see a small crawlspace beyond.
+~
+197 32777 0 0 0 0
+D0
+The Secret Hallway.
+~
+door~
+2 -1 19764
+D2
+The crawlspace looks tight, and you're not sure it leads anywhere, 
+but what the hell.
+~
+~
+0 -1 19767
+S
+#19767
+Crawlspace~
+It's REALLY tight in here!  
+There is a hole in the wall here to the north, and the crawlspace 
+continues on to the east.
+~
+197 33033 0 0 0 0
+D0
+You can see a small bedroom through a hole in the wall here.
+~
+~
+0 -1 19766
+D1
+The crawlspace continues.
+~
+~
+0 -1 19768
+S
+#19768
+Crawlspace~
+The crawlspace turns a corner here and leads west and south.
+~
+197 33033 0 0 0 0
+D2
+The crawlspace continues.
+~
+~
+0 -1 19769
+D3
+The crawlspace continues.
+~
+~
+0 -1 19767
+S
+#19769
+Crawlspace~
+The crawlspace extends north and south for a ways here.
+~
+197 33033 0 0 0 0
+D0
+The crawlspace turns to the west up north.
+~
+~
+0 -1 19768
+D2
+The crawlspace turns to the east down south.
+~
+~
+0 -1 19770
+S
+#19770
+Crawlspace~
+The crawlspace turns a corner here and leads north and east.
+~
+197 33033 0 0 0 0
+D0
+The crawlspace continues.
+~
+~
+0 -1 19769
+D1
+It looks like the crawlspace comes to an end shortly.
+~
+~
+0 -1 19771
+S
+#19771
+End of Crawlspace~
+The crawlspace has come to an end here, but there is a small hole in 
+the floor which you could probably squeeze through.
+~
+197 33033 0 0 0 0
+D3
+The crawlspace continues.
+~
+~
+0 -1 19770
+D5
+It's hard to tell from this angle, but it looks like the hole would 
+drop you out back into the foyer.
+~
+~
+0 -1 19703
+S
+#19772
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+~
+197 32768 0 0 0 0
+D0
+The balcony continues out around the west side of the tower.
+~
+~
+0 -1 19775
+D1
+The balcony continues out around the south side of the tower.
+~
+~
+0 -1 19773
+S
+#19773
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+~
+197 32768 0 0 0 0
+D1
+The balcony continues out around the south side of the tower.
+~
+~
+0 -1 19774
+D3
+The balcony continues out around the south side of the tower.
+~
+~
+0 -1 19772
+S
+#19774
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+~
+197 32768 0 0 0 0
+D0
+The balcony continues out around the east side of the tower.
+~
+~
+0 -1 19777
+D3
+The balcony continues out around the south side of the tower.
+~
+~
+0 -1 19773
+S
+#19775
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+~
+197 32768 0 0 0 0
+D0
+The balcony continues out around the west side of the tower.
+~
+~
+0 -1 19778
+D2
+The balcony continues out around the west side of the tower.
+~
+~
+0 -1 19772
+S
+#19776
+Spiral Staircase~
+You are at the top of a spiral staircase leading back down into the
+heart of the keep.  The tower balcony lies to the east.
+~
+197 32777 0 0 0 0
+D1
+The tower balcony overlooks the surrounding countryside.
+~
+~
+0 -1 19777
+D5
+The spiral staircase winds down into the darkness.
+~
+~
+0 -1 19712
+S
+#19777
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+~
+197 32768 0 0 0 0
+D0
+The balcony continues out around the east side of the tower.
+~
+~
+0 -1 19780
+D2
+The balcony continues out around the east side of the tower.
+~
+~
+0 -1 19774
+D3
+~
+~
+0 0 19776
+S
+#19778
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+To the north you can see the North Tower.
+~
+197 32768 0 0 0 0
+D1
+The balcony continues out around the north side of the tower.
+~
+~
+0 -1 19779
+D2
+The balcony continues out around the west side of the tower.
+~
+~
+0 -1 19775
+S
+#19779
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+Through a break in the railing to the north, you can see the North 
+Tower.
+~
+197 32768 0 0 0 0
+D0
+The gap is much too far to try jumping across.
+~
+~
+0 -1 19781
+D1
+The balcony continues out around the north side of the tower.
+~
+~
+0 -1 19780
+D3
+The balcony continues out around the north side of the tower.
+~
+~
+0 -1 19778
+S
+#19780
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+To the north, you can see the North Tower.
+~
+197 32768 0 0 0 0
+D2
+The balcony continues out around the west side of the tower.
+~
+~
+0 -1 19777
+D3
+The balcony continues out around the north side of the tower.
+~
+~
+0 -1 19779
+S
+#19781
+Between the Towers~
+DON'T LOOK DOWN!
+You must really be insane, you know that?!?  
+You float high above the keep between the two towers.
+~
+197 32768 0 0 0 10
+D0
+You see a spot on the North Tower where you can land.
+~
+~
+0 -1 19783
+D2
+You locate a break in the railing around the South Tower where you can
+land.
+~
+~
+0 -1 19779
+S
+#19782
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+To the south you can see the South Tower.
+~
+197 32768 0 0 0 0
+D0
+The balcony continues out around the west side of the tower.
+~
+~
+0 -1 19785
+D1
+The balcony continues out around the south side of the tower.
+~
+~
+0 -1 19783
+S
+#19783
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+Through a break in the railing to the south, you can see the South
+Tower.
+~
+197 32768 0 0 0 0
+D1
+The balcony continues out around the south side of the tower.
+~
+~
+0 -1 19784
+D2
+The gap is much to great to try jumping across.
+~
+~
+0 -1 19781
+D3
+The balcony continues out around the south side of the tower.
+~
+~
+0 -1 19782
+S
+#19784
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+To the south you can see the South Tower.
+~
+197 32768 0 0 0 0
+D0
+The balcony continues out around the east side of the tower.
+~
+~
+0 -1 19787
+D3
+The balcony continues out around the south side of the tower.
+~
+~
+0 -1 19783
+S
+#19785
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+~
+197 32768 0 0 0 0
+D0
+The balcony continues out around the west side of the tower.
+~
+~
+0 -1 19788
+D2
+The balcony continues out around the west side of the tower.
+~
+~
+0 -1 19782
+S
+#19786
+Spiral Staircase~
+You are at the top of a spiral staircase leading back down into the
+heart of the keep.  The tower balcony lies to the east.
+~
+197 9 0 0 0 0
+D1
+The tower balcony overlooks the surrounding countryside to the east.
+~
+~
+0 -1 19787
+D5
+The spiral staircase winds down into the darkness.
+~
+~
+0 -1 19727
+S
+#19787
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+~
+197 32768 0 0 0 0
+D0
+The balcony continues out around the east side of the tower.
+~
+~
+0 -1 19790
+D2
+The balcony continues out around the east side of the tower.
+~
+~
+0 -1 19784
+S
+#19788
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+~
+197 32768 0 0 0 0
+D1
+The balcony continues out around the north side of the tower.
+~
+~
+0 -1 19789
+D2
+The balcony continues out around the west side of the tower.
+~
+~
+0 -1 19785
+S
+#19789
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+~
+197 32768 0 0 0 0
+D1
+The balcony continues out around the north side of the tower.
+~
+~
+0 -1 19790
+D3
+The balcony continues out around the north side of the tower.
+~
+~
+0 -1 19788
+S
+#19790
+Tower Balcony~
+You stand on a balcony high above the rest of the keep.  A railing has
+been set up to keep idiots from falling over the edge, but it in no 
+way detracts from the amazing view.  It's a little spooky when you 
+look down, however.
+~
+197 32768 0 0 0 0
+D2
+The balcony continues out around the east side of the tower.
+~
+~
+0 -1 19787
+D3
+The balcony continues out around the north side of the tower.
+~
+~
+0 -1 19789
+S
+#19791
+The End of the Road~
+The road ends here, turning into nothing more than a winding footpath that
+leads up a hill northward to a deserted-looking keep. Clouds dot the sky 
+behind it's turrets, and a lone bird wheels in the air, making this place
+seem like the end of civilization. 
+~
+197 32768 0 0 0 0
+D0
+~
+~
+0 0 19701
+D1
+~
+~
+0 0 9619
+D3
+~
+~
+0 0 19792
+S
+#19792
+On a narrow trail~
+To the east the Great Western Road ends, but it seems someone, or something,
+has succeeded in making a thin trail that extends off of it into the forest
+to the west. The trail is narrow and bordered on both sides by a thick thorny
+brush.
+~
+197 32768 0 0 0 3
+D1
+~
+~
+0 0 19791
+D3
+~
+~
+0 0 19794
+S
+#19793
+On a narrow trail~
+    To your west, the forest takes on a dark and sinister look,
+that must be the begining of the Dark Forest, called Noirwood by the local
+inhabitants.  A small trail leads into this evil looking forest to the
+west.
+~
+197 32768 0 0 0 0
+D1
+~
+~
+0 0 19794
+D3
+~
+~
+0 0 20314
+S
+#19794
+On a narrow trail~
+The trees here are tall, reaching up far above you and forming a canopy. Some
+thorn bushes line the sides of the trail, dissuading you from going north or
+south. The trail, however goes east and west unimpaired.
+~
+197 32768 0 0 0 0
+D1
+~
+~
+0 0 19792
+D3
+~
+~
+0 0 19793
+S
+$~

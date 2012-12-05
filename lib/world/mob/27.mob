@@ -1,0 +1,877 @@
+#2716
+mandor~
+Mandor~
+Mandor is here, observing everything around him.
+~
+Mandor is Merlin's half-brother and visits him in Amber frequently. He has
+sharp blue eyes and hard, angular features beneath a mass of pure white hair.
+He is dressed all in black, except for a bit of white collar and sleeves 
+showing beneath his glossy, tight-fitting jacket.
+~
+976969 0 0 0 67405000 0 0 0 -300 E
+34 -14 -24 34d5+2746 22d4+22
+0 270000
+8 8 1
+BareHandAttack: 12
+E
+#2717
+accountant monk~
+an old monk accountant~
+An accountant is here working on the books.
+~
+An elderly monk who seems absorbed by his work.
+~
+2378 0 0 0 0 0 0 0 1000 E
+15 5 -5 15d5+160 10d4+10
+50 14000
+8 8 1
+Race: 0
+E
+#2718
+servant female~
+a castle servant~
+A castle servant is hard at work here.
+~
+She looks like she'll do anything to serve you.
+~
+22732 0 0 0 8 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+5 6000
+8 8 2
+Race: 0
+E
+#2719
+servant male~
+a castle servant~
+A castle servant is hard at work here.
+~
+ This guy might be only a servant but he's a real hunk.
+~
+22732 0 0 0 8 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+5 6000
+8 8 1
+Race: 0
+E
+#2720
+ghostwheel amber~
+Ghostwheel~
+Some sort of mechanism is spinning in the air here.
+~
+ It's difficult for you to understand what you see. It looks like
+a ghostly wheel spinning in mid-air.
+~
+976971 0 0 0 1048712 2 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+0 360000
+8 8 0
+Race: 25
+E
+#2721
+Luke Rinaldo amber~
+Luke~
+Luke Rinaldo is here, looking for his bud Merlin.
+~
+ The newly crowned king of Kashfa, Rinaldo is a son of Brand.
+~
+976968 0 0 0 136 0 0 0 250 E
+32 -12 -22 32d5+1580 21d4+21
+173 120000
+8 8 1
+Race: 0
+E
+#2722
+Flora princess amber~
+Flora~
+Flora is hurrying by on some business.
+~
+Flora is a striking young woman with clear blue eyes and fiery red hair.
+~
+976968 0 0 0 136 0 0 0 -350 E
+32 -12 -22 32d5+1580 21d4+21
+63 120000
+8 8 2
+Race: 0
+E
+#2723
+vialle queen girl~
+Queen Vialle~
+A young, blind girl sits here... sculpturing!
+~
+She is the young and beautiful Vialle, the Queen of Amber and--an
+even greater accomplishment--the woman who convinced Random to
+settle down.
+~
+976970 0 0 0 136 0 0 0 750 E
+34 -14 -24 34d5+2746 22d4+22
+73 270000
+8 8 2
+Race: 0
+E
+#2724
+Random king amber~
+King Random~
+The King is standing here.
+~
+ The King of Amber is a wiry fellow with a twinkle in his eyes and
+mischievious grin on his face.
+~
+1042506 0 0 0 136 0 0 0 250 E
+36 -16 -26 36d5+3912 24d4+24
+285 363000
+8 8 1
+Race: 0
+E
+#2725
+Eric ghost prince amber~
+the ghost of Eric~
+A haunting ghost is floating here!
+~
+The ghost of Eric, former king of Amber, with hair and beard so black
+that it's almost blue. You can tell that he has a real cruel streak
+running through him.
+~
+976968 0 0 0 136 0 0 0 -250 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 1
+Race: 9
+E
+#2726
+Bleys prince amber~
+Prince Bleys~
+Bleys is pacing around here, looking a little drunk.
+~
+Bleys, the son of Oberon and Clarissa, has bright red hair and a
+sunny disposition.
+~
+1042504 0 0 0 131208 0 0 0 250 E
+33 -13 -23 33d5+2163 22d4+22
+73 180000
+8 8 1
+Race: 0
+E
+#2727
+Caine ghost prince amber~
+the ghost of Caine~
+A dashing figure of a ghost is here.
+~
+Caine, swarthy and dark-eyed, looks at you jealously from the other
+side of death.
+~
+976968 0 0 0 136 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 1
+Race: 9
+E
+#2728
+Llewella princess amber~
+Princess Llewella~
+Llewella is here, looking for Random.
+~
+Princess Llewella has jade-colored eyes and hair.
+~
+976968 0 0 0 136 0 0 0 -100 E
+32 -12 -22 32d5+1580 21d4+21
+73 120000
+8 8 2
+Race: 0
+E
+#2729
+Martin prince amber~
+Prince Martin~
+Martin appears surprised that you're here.
+~
+The son of Random looks to be in his twenties and sports a mohawk.
+~
+976968 0 0 0 136 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+21
+73 120000
+8 8 1
+Race: 0
+E
+#2730
+image Deirdre amber~
+a fleeting image~
+A fleeting, transparent image of a young woman is here.
+~
+She appears to be a young woman with dark hair, blue eyes, and a
+determined and courageous expression on her face. She doesn't seem
+to be a ghost but rather someone who is trying to appear here but
+just can't quite make it.
+~
+190536 0 0 0 128 0 0 0 250 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 2
+Race: 0
+E
+#2731
+Corwin prince amber~
+Prince Corwin~
+Corwin is standing here, deep in thought.
+~
+Corwin has black hair and green eyes. He looks like a powerful fighter.
+~
+1042776 0 0 0 1179784 0 0 0 750 E
+34 -14 -24 34d5+2746 22d4+22
+660 270000
+8 8 1
+Race: 0
+E
+#2732
+Fiona princess amber~
+Princess Fiona~
+Fiona is here, looking for someone...
+~
+Lovely Fiona has fiery red hair, green eyes and a white complexion. Although
+she is short at five feet, two inches, she has a very forceful presence and
+carries herself with great charm.
+~
+976969 0 0 0 136 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 2
+Race: 0
+E
+#2733
+Brand ghost prince amber~
+the ghost of Brand~
+A horrifying ghost flows in the air here.
+~
+Mad Brand, prince and betrayer of Amber, screams at you as you
+disturb the privacy of his quarters.
+~
+977001 0 0 0 136 0 0 0 -1000 E
+33 -13 -23 33d5+2163 22d4+22
+0 180000
+8 8 1
+Race: 9
+E
+#2734
+Merlin king amber~
+Merlin~
+Merlin is here, looking for his father Corwin.
+~
+Merlin is a young man with dark hair and green eyes. His is a unique
+heritage, being the son of a prince of Amber and Lady Dara of Chaos.
+Just now he seems to be muttering something about (or maybe TO)
+someone called Frakir.
+~
+8841321 0 0 0 136 0 0 0 1000 E
+34 -14 -24 34d5+2746 22d4+22
+60 270000
+8 8 1
+Race: 0
+E
+#2735
+elite king guard~
+the elite King's Guard~
+A strong, serious guard stands here.
+~
+A member of the Elite King's Guards. He's serious, he's powerful, he's 
+dedicated, and he's not happy to see you here.
+~
+457034 0 0 0 136 0 0 0 500 E
+28 -8 -18 28d5+368 18d4+18
+60 50000
+8 8 1
+Race: 0
+E
+#2736
+castleguard guard~
+an Amber castleguard~
+A castleguard is here, guarding the castle.
+~
+ A young, dedicated guard of the castle. He looks you over.
+~
+268360 0 0 0 8 0 0 0 500 E
+22 -2 -12 22d5+230 14d4+14
+16 30000
+8 8 1
+Race: 0
+E
+#2737
+Benedict prince amber~
+Prince Benedict~
+Benedict is here, tending his garden.
+~
+ Benedict is tall and thin. He looks very fast and powerful.
+~
+976970 0 0 0 136 0 0 0 500 E
+32 -12 -22 32d5+1580 21d4+21
+89 120000
+8 8 1
+Race: 0
+E
+#2738
+Morganstern horse amber carve_meat~
+Morganstern~
+A huge, fierce horse snorts and rears at you!
+~
+ The biggest horse you've ever seen. He's jet black with fiery red
+eyes. It looks like hellfire in his mouth and there's smoke rising
+from his hooves!
+~
+837704 0 0 0 136 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 0
+Race: 12
+E
+#2739
+horse carve_meat~
+a horse~
+A horse is here, grazing.
+~
+ This horse looks strong and healthy.
+~
+2099276 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 0
+Race: 12
+E
+#2740
+monk humble~
+a humble monk~
+A humble monk tends the grove.
+~
+ A simple, humble fellow.
+~
+319498 0 0 0 136 0 0 0 1000 E
+30 -10 -20 30d5+414 20d4+20
+5 60000
+8 8 1
+Race: 0
+E
+#2741
+hellhound~
+a hellhound~
+A growling hellhound charges at you!
+~
+ A huge, black hound with fiery eyes and long, long teeth.
+~
+104 0 0 0 0 0 0 0 -1000 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 0
+Race: 11
+E
+#2742
+Julian prince amber~
+Prince Julian~
+Julian glares in your direction!
+~
+ Julian is one of the princes of Amber and he has taken Arden as
+his own. There is neither passion nor compassion in his eyes.
+~
+845896 0 0 0 136 0 0 0 800 E
+32 -12 -22 32d5+1580 21d4+21
+660 120000
+8 8 1
+Race: 0
+E
+#2743
+manticore old~
+an old manticore~
+An old, old manticore is here.
+~
+ This old fellow looks like he's been around a while.
+~
+57388 0 0 0 136 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 0
+E
+#2744
+hunter~
+a hunter from Arden~
+A stealthy hunter is here, hunting everything that moves.
+~
+ A crafty looking guy with an evil gleam in his eye.
+~
+264268 0 0 0 524424 0 0 0 -500 E
+25 -5 -15 25d5+299 16d4+16
+76 37500
+8 8 1
+Race: 0
+E
+#2745
+pegasus colt~
+a young pegasus~
+A beautiful, young pegasus is here.
+~
+ It looks like a young colt with wings. It is brilliantly white.
+~
+204 0 0 0 0 0 0 0 500 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+Race: 22
+E
+#2746
+griffin cub~
+a griffin cub~
+A small griffin is nibbling on something here.
+~
+ It has the head and wings of an eagle on the body of a lion. This one
+looks quite young.
+~
+204 0 0 0 0 0 0 0 -500 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+Race: 22
+E
+#2747
+cityguard guard~
+an Amber cityguard~
+An amber cityguard is here, looking for troublemakers like you.
+~
+  This is a very big fellow. Even though he's smiling, you feel that
+he takes his job very seriously.
+~
+268360 0 0 0 8 0 0 0 500 E
+22 -2 -12 22d5+230 14d4+14
+33 30000
+8 8 1
+Race: 0
+E
+#2748
+Cecil sheriff high~
+Cecil the High Sheriff of Amber~
+The High Sheriff of Amber wonders what you want.
+~
+  This fat cat local politico looks like he knows his way around. He's
+probably as good in a scrap in a back alley as he is at getting himself
+elected.
+~
+452682 0 0 0 136 0 0 0 500 E
+29 -9 -19 29d5+391 19d4+19
+575 55000
+8 8 1
+Race: 0
+E
+#2749
+citizen male~
+a male citizen of Amber~
+A citizen of Amber is strolling along here.
+~
+This guy looks like an average enough fellow. He's bopping along,
+apparently having a wonderful time.
+~
+2120 0 0 0 0 0 0 0 500 E
+12 8 -2 12d5+130 8d4+8
+63 9000
+8 8 1
+Race: 0
+E
+#2750
+citizen female~
+a female citizen of Amber~
+A citizen of Amber is strolling along here.
+~
+  She's quite lovely. She seems to be looking for something.
+~
+2120 0 0 0 0 0 0 0 500 E
+12 8 -2 12d5+130 8d4+8
+68 9000
+8 8 2
+Race: 0
+E
+#2751
+child~
+a child of Amber~
+A child of Amber is playing here.
+~
+  There's nothing like the joyous sound of children's laughter, is
+there?
+~
+2120 0 0 0 0 0 0 0 1000 E
+5 15 5 5d5+60 3d4+2
+1 900
+8 8 1
+Race: 0
+E
+#2752
+gentleman~
+a gentleman of Amber~
+A gentleman of Amber is relaxing here.
+~
+  This fellow looks pretty affluent and important. He might be worth
+rolling.
+~
+2120 0 0 0 0 0 0 0 500 E
+11 9 -1 11d5+120 7d4+7
+85 7500
+8 8 1
+Race: 0
+E
+#2753
+callgirl whore~
+an expensive callgirl~
+An expensive callgirl is here looking very appealing.
+~
+  She looks expensive and worth every cent.
+~
+2120 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+30 14000
+8 8 2
+Race: 0
+E
+#2754
+showgirl~
+a beautiful showgirl~
+A beautiful showgirl is dancing here.
+~
+  This absolutely gorgeous young lady is almost naked. She's a good
+dancer, too.
+~
+2122 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 2
+Race: 0
+E
+#2755
+manager hotel~
+the Hotel Manager~
+The Hotel Manager is here doing paperwork.
+~
+  The Hotel Manager sorts through her paperwork in a cool,
+professional manner. She looks up at you with a question forming
+on her lips...
+~
+280650 0 0 0 128 0 0 0 0 E
+27 -7 -17 27d5+345 18d4+18
+100 45000
+8 8 2
+Race: 0
+E
+#2756
+waiter hotel~
+a waiter at the Grand Hotel~
+A waiter is here to take your order.
+~
+ This waiter will do his best to fulfill your every need; and he
+accepts tips.
+~
+2120 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 1
+Race: 0
+E
+#2757
+bellhop hotel~
+a bellhop~
+A bellhop is here, ready to take your luggage.
+~
+ The bellhop looks capable of grabbing your bags and doing the 100
+in four flat.
+~
+2120 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 1
+Race: 0
+E
+#2758
+chef hotel~
+the Grand Hotel Chef~
+The Chef looks like he doesn't like visitors in his kitchen.
+~
+ The Chef looks very capable in a kitchen or a prize-fighting ring.
+~
+264266 0 0 0 136 0 0 0 0 E
+29 -9 -19 29d5+391 19d4+19
+100 55000
+8 8 1
+Race: 0
+E
+#2759
+Droppa Mapants jester amber~
+Droppa Mapants~
+Droppa, the court jester, is here and is drunk as usual.
+~
+ Droppa looks like some kind of clown or something.
+~
+280648 0 0 0 136 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+5 60000
+8 8 1
+Race: 0
+E
+#2760
+Ben shopkeeper Benjamin~
+Ben~
+Benjamin, the new owner, is ready to take your order.
+~
+ Ben is a somber, tall man who looks exactly like someone
+you don't want to mess with.
+~
+247818 0 0 0 136 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 1
+Race: 0
+E
+#2761
+demon chaos amber~
+a horrifying chaos demon~
+A chaos demon is here, looking for a sacrifice.
+~
+The chaos demon is big and ugly. It has huge tusks.
+~
+714858 0 0 0 136 0 0 0 -1000 E
+28 -8 -18 28d5+368 18d4+18
+0 50000
+8 8 0
+Race: 11
+E
+#2762
+Dalt enemy amber~
+Dalt~
+Dalt is here, going through the Captain's pockets.
+~
+ Dalt, bastard son of Oberon and Deela, hates Amber and everyone in it.
+He is tall and muscular, and looks like he would make a formidable foe.
+~
+59978 0 0 0 136 0 0 0 -500 E
+31 -11 -21 31d5+997 20d4+20
+0 90000
+8 8 1
+Race: 0
+E
+#2763
+Gerard prince amber~
+Prince Gerard~
+Gerard is here and seems to be in a bad mood.
+~
+Gerard is a big and powerful man with a fringe beard and a light
+moustache. He is a Prince of Amber and his strength is legendary.
+~
+976970 0 0 0 136 0 0 0 500 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 1
+Race: 0
+E
+#2764
+sailor~
+a sailor~
+A sailor with the Royal Fleet of Amber is here.
+~
+ The sailor is a nimble-looking fellow that looks like he has been
+in a scrap or two.
+~
+2124 0 0 0 0 0 0 0 500 E
+18 2 -8 18d5+190 12d4+12
+10 20000
+8 8 1
+Race: 0
+E
+#2765
+prisoner man~
+one of Dalt's men~
+A prisoner is here.
+~
+He looks like a prisoner of war or something.
+~
+2122 0 0 0 0 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+1000 25000
+8 8 1
+Race: 0
+E
+#2766
+artist tattoo man tattooist~
+a sleazy tattoo artist~
+There is a man here leering at you.
+~
+ This scum looks as though he belongs here. Sleazy.
+~
+188427 0 0 0 136 0 0 0 -500 E
+31 -11 -21 31d5+997 20d4+20
+66 90000
+8 8 1
+Race: 0
+E
+#2767
+Cathy clerk hotel~
+Cathy the Hotel Desk Clerk~
+The desk clerk of the hotel greets you with a friendly smile.
+~
+She has dark-brown, curly hair and a cheerful disposition.
+~
+188426 0 0 0 8 0 0 0 0 E
+29 -9 -19 29d5+391 19d4+19
+100 55000
+8 8 2
+Race: 0
+E
+#2768
+Megan armorer shopkeeper~
+Megan the armorer~
+Megan the armorer is here, selling her wares.
+~
+Megan is an athletic woman with beautiful brown hair and a
+winning smile.
+~
+188426 0 0 0 8 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 2
+Race: 0
+E
+#2769
+Stven weaponer shopkeeper~
+Stven the weaponer~
+Stven the weaponer is here, selling his wares.
+~
+Stven is a brown-eyed redhead, a giant of a man with a very
+expressive face.
+~
+188426 0 0 0 8 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 1
+Race: 0
+E
+#2770
+Killis smith shopkeeper~
+Killis the blacksmith~
+Killis is here, ready to buy and sell junk.
+~
+Killis looks like a typical blacksmith with a long ponytail and a 
+cheerful twinkle in his eyes. There's a pair of drum sticks sticking
+out of his pocket. He looks like he could ROCK THE HOUSE!!!
+~
+188426 0 0 0 8 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 1
+Race: 0
+E
+#2771
+spark pattern~
+a spark~
+A spark rises from the Pattern.
+~
+sparkle!
+~
+106 0 0 0 128 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+Race: 25
+E
+#2772
+sparks pattern~
+sparks~
+A cloud of sparks rises from the Pattern.
+~
+sparks!
+~
+106 0 0 0 128 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+Race: 25
+E
+#2773
+sparks pattern~
+sparks~
+A flurry of sparks rises from the Pattern.
+~
+more sparks!!
+~
+106 0 0 0 128 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 0
+Race: 25
+E
+#2774
+sparks pattern~
+sparks~
+A storm of sparks rises from the Pattern.
+~
+even more sparks!!!
+~
+106 0 0 0 128 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+0 4500
+8 8 0
+Race: 25
+E
+#3005
+receptionist~
+the receptionist~
+The receptionist stands here in boredom.
+~
+She's the innkeeper's wife... She looks rather worn out.
+~
+172043 0 0 0 0 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 2
+E
+#3010
+postman~
+the postman~
+The postman is here, shuffling through his mail.
+~
+He's liable to go postal on you at any moment.
+~
+253963 0 0 0 0 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+0 270000
+8 8 1
+Race: 0
+E
+#3022
+guildmaster thief~
+Destiny~
+A black-clothed assassin sits and watches your every move.
+~
+She's nearly invisible in the near darkness, but you make out a very 
+feminine form beneath the tight clothes she wears.
+~
+27 0 0 0 0 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 2
+E
+#3063
+mercenary merc~
+a mercenary~
+A mercenary sits around, waiting to be hired.
+~
+He's dressed in ragged leather armor and carries a well-honed sword.  
+He sees you eyeing him and says, 'Give me 100 coins and I'll be
+loyal to the end.'
+~
+8 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 1
+E
+#3094
+wolf carve_meat~
+a wolf~
+A wolf prowls around reslessly.
+~
+It has dark brown fur and four huge paws that house razor sharp claws. It's
+muzzle growls open to reveal pointed canines that could rip you to shreds.
+~
+8 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+BareHandAttack: 8
+E
+$

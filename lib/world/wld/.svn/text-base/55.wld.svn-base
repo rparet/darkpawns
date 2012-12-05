@@ -1,0 +1,2276 @@
+#5500
+The Forest~
+   Huge trees tower above you, blocking out most of the sky's light.
+The brush all around you is rustled by things unseen.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 9816
+D1
+~
+~
+0 -1 5501
+D2
+~
+~
+0 -1 5510
+S
+#5501
+The Forest~
+   Nothing stirs in this section of the forest, although you can hear 
+things - many things - moving farther out all around you.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 9817
+D1
+~
+~
+0 -1 5502
+D2
+~
+~
+0 -1 5511
+D3
+~
+~
+0 -1 5500
+S
+#5502
+The Forest~
+   Dead leaves crunch under your boots as you weave your way through the
+endless trees of the forest.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 9818
+D1
+~
+~
+0 -1 5503
+D2
+~
+~
+0 -1 5512
+D3
+~
+~
+0 -1 5501
+S
+#5503
+The Forest~
+   You see something scamper though the trees above your head, then vanish.
+The nagging thought of something dropping down on you makes you keep your
+head up.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 9819
+D1
+~
+~
+0 -1 5504
+D2
+~
+~
+0 -1 5513
+D3
+~
+~
+0 -1 5502
+S
+#5504
+The Forest~
+   The trees all around you seem to be normal ironwood - hard as steel and
+stretching out into the sky.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 9820
+D1
+~
+~
+0 -1 5505
+D2
+~
+~
+0 -1 5514
+D3
+~
+~
+0 -1 5503
+S
+#5505
+The Forest~
+   A large stump is here, ages old. Looking around, you see other stumps
+spread out in the surrounding woods. You wonder who would go to such 
+lengths of cutting an ironwood tree - and how.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 9821
+D1
+~
+~
+0 -1 5506
+D2
+~
+~
+0 -1 5515
+D3
+~
+~
+0 -1 5504
+S
+#5506
+The Forest~
+   Leaves suddenly rain down on you from above. Something is definitely
+up there, but you see no easy way to get there.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 9822
+D1
+~
+~
+0 -1 5507
+D2
+~
+~
+0 -1 5516
+D3
+~
+~
+0 -1 5505
+S
+#5507
+The Forest~
+   Dead leaves whip around you as a sudden breeze springs up. It makes
+the coldness of the forest seem more oppressive.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 9823
+D1
+~
+~
+0 -1 5508
+D2
+~
+~
+0 -1 5517
+D3
+~
+~
+0 -1 5506
+S
+#5508
+The Forest~
+   A tree before you stands out because it is totally bare, almost as if
+something had shaken all the leaves off. But what could be that strong?
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 9824
+D1
+~
+~
+0 -1 5509
+D2
+~
+~
+0 -1 5518
+D3
+~
+~
+0 -1 5507
+S
+#5509
+The Forest~
+   Wind whispers through the trees, almost sounding like voices.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 9834
+D2
+~
+~
+0 -1 5519
+D3
+~
+~
+0 -1 5508
+S
+#5510
+The Forest~
+   Eyeing the treetops above, you see two red eyes glaring out of a dark
+canopy.  You wonder how many other living beings inhabit the treetops.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5500
+D1
+~
+~
+0 -1 5511
+D2
+~
+~
+0 -1 5520
+S
+#5511
+The Forest~
+   A tree just ahead of you has been stripped of its bark.  This boggles
+your mind since ironwood bark is one of the hardest substances on the
+earthly plane.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5501
+D1
+~
+~
+0 -1 5512
+D2
+~
+~
+0 -1 5521
+D3
+~
+~
+0 -1 5510
+E
+tree~
+The bark has been stripped away, as if by a deer or some other animal sharp-
+ening its horns.. but you don't of any horns with enough strength to do that
+kind of damage. Hell, you don't know of ANYTHING with enough strength to do
+that kind of damage - except maybe a dragon.
+~
+S
+#5512
+The Forest~
+   Shadows deepen all around you as move further into the forest.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5502
+D1
+~
+~
+0 -1 5513
+D2
+~
+~
+0 -1 5522
+D3
+~
+~
+0 -1 5511
+S
+#5513
+The Forest~
+   Dead branches rain down on you from above, knocked into the air by an 
+unseen traveler in the treetops.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5503
+D1
+~
+~
+0 -1 5514
+D2
+~
+~
+0 -1 5523
+D3
+~
+~
+0 -1 5512
+S
+#5514
+The Forest~
+   Old legends of this forest scared you as a child, and seeing it now you
+know why.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5504
+D1
+~
+~
+0 -1 5515
+D2
+~
+~
+0 -1 5524
+D3
+~
+~
+0 -1 5513
+S
+#5515
+The Forest~
+   The smell of rotting leaves beneath your feet coupled with the noises
+of the forest make you wonder if you are the only first person to walk
+here.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5505
+D1
+~
+~
+0 -1 5516
+D2
+~
+~
+0 -1 5525
+D3
+~
+~
+0 -1 5514
+S
+#5516
+The Forest~
+   To the east a section of the forest seems to be swaying madly in the
+wind, but here, all is calm.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5506
+D1
+~
+~
+0 -1 5517
+D2
+~
+~
+0 -1 5526
+D3
+~
+~
+0 -1 5515
+S
+#5517
+The Forest~
+   A tangle of vines cling to your boots for a moment, tightening as you
+move. You hope that the other, larger vegetation in the forest is not as
+hungry.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5507
+D1
+~
+~
+0 -1 5518
+D2
+~
+~
+0 -1 5527
+D3
+~
+~
+0 -1 5516
+S
+#5518
+The Forest~
+   Your trek through the forest stirs up a nest of brush birds, who startle
+you with their loud squawking before flying up into a nearby tree to watch
+you pass by.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5508
+D1
+~
+~
+0 -1 5519
+D2
+~
+~
+0 -1 5528
+D3
+~
+~
+0 -1 5517
+S
+#5519
+The Forest~
+   An exceptionally large ironwood tree stands here. It is easily ten feet
+in diameter and probably thousands of years old.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5509
+D1
+~
+~
+0 -1 9842
+D2
+~
+~
+0 -1 5529
+D3
+~
+~
+0 -1 5518
+S
+#5520
+The Forest~
+   Leaves crunch under your boots as you work your way through the maze
+of trees.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5510
+D1
+~
+~
+0 -1 5521
+D2
+~
+~
+0 -1 5530
+D3
+~
+~
+0 -1 9140
+S
+#5521
+The Forest~
+   Leaves crunch under your boots as you work your way through the maze of
+trees.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5511
+D1
+~
+~
+0 -1 5522
+D2
+~
+~
+0 -1 5531
+D3
+~
+~
+0 -1 5520
+S
+#5522
+The Forest~
+   Leaves crunch under your boots as you work your way through the maze of
+trees.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5512
+D1
+~
+~
+0 -1 5523
+D2
+~
+~
+0 -1 5532
+D3
+~
+~
+0 -1 5521
+S
+#5523
+The Forest~
+   Rotting leaves under your feet assault your nostrils, and the forest's 
+cool breeze seeps through the chinks in your armor.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5513
+D1
+~
+~
+0 -1 5524
+D2
+~
+~
+0 -1 5533
+D3
+~
+~
+0 -1 5522
+S
+#5524
+The Forest~
+   The forest stretches out around you in all directions. 
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5514
+D1
+~
+~
+0 -1 5525
+D2
+~
+~
+0 -1 5534
+D3
+~
+~
+0 -1 5523
+S
+#5525
+The Forest~
+   A deep fog rolls in about your ankles. The woods, before shrouded in
+shadows are now steeped in darkness.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5515
+D1
+~
+~
+0 -1 5526
+D2
+~
+~
+0 -1 5535
+D3
+~
+~
+0 -1 5524
+S
+#5526
+The Forest~
+   All about, the shadows move, unaccounted for even in the slight breeze.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5516
+D1
+~
+~
+0 -1 5527
+D2
+~
+~
+0 -1 5536
+D3
+~
+~
+0 -1 5525
+S
+#5527
+The Forest~
+   The tall ironwood trees surrounding you are suddenly still as the breeze
+dies.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5517
+D1
+~
+~
+0 -1 5528
+D2
+~
+~
+0 -1 5537
+D3
+~
+~
+0 -1 5526
+S
+#5528
+The Forest~
+   Your boots crunch in the dead leaves below you boots, but below the leaves
+lies a soggy morass of swamp. You look about warily for sinkholes.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5518
+D1
+~
+~
+0 -1 5529
+D2
+~
+~
+0 -1 5538
+D3
+~
+~
+0 -1 5527
+S
+#5529
+The Forest~
+   Trees, trees, and more trees. All around you are trees.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5519
+D1
+~
+~
+0 -1 9852
+D2
+~
+~
+0 -1 5539
+D3
+~
+~
+0 -1 5528
+S
+#5530
+The Forest~
+   Eyeing the trees nervously, you get the definite feeling you're being
+watched.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5520
+D1
+~
+~
+0 -1 5531
+D2
+~
+~
+0 -1 5540
+D3
+~
+~
+0 -1 9154
+S
+#5531
+The Forest~
+   All around you the tall ironwood trees stand like silent guardians.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5521
+D1
+~
+~
+0 -1 5532
+D2
+~
+~
+0 -1 5541
+D3
+~
+~
+0 -1 5530
+S
+#5532
+The Forest~
+   Leaves and branches shower down upon you from above. Looking up, you
+see nothing.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5522
+D1
+~
+~
+0 -1 5533
+D2
+~
+~
+0 -1 5542
+D3
+~
+~
+0 -1 5531
+S
+#5533
+The Forest~
+   A small ring of mushrooms grows here, but nothing else seems out of place.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5523
+D1
+~
+~
+0 -1 5534
+D2
+~
+~
+0 -1 5543
+D3
+~
+~
+0 -1 5532
+S
+#5534
+The Forest~
+   A wave of evil washes over you from the east. The trees here seem darker
+than elsewhere in the forest.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5524
+D1
+~
+~
+0 -1 5535
+D2
+~
+~
+0 -1 5544
+D3
+~
+~
+0 -1 5533
+S
+#5535
+The Forest~
+   Ironwood trees surround you on all sides, but you are able to push through
+them with only a little difficulty. The forest is alive with noise all around
+you.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5525
+D1
+~
+~
+0 -1 5536
+D2
+~
+~
+0 -1 5545
+D3
+~
+~
+0 -1 5534
+S
+#5536
+The Forest~
+   The trees all around you seem to stretch on endlessly.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5526
+D1
+~
+~
+0 -1 5537
+D2
+~
+~
+0 -1 5546
+D3
+~
+~
+0 -1 5535
+S
+#5537
+The Forest~
+   Peering through the trees, you keep catching glimpses of movement out
+of the corner of your eye.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5527
+D1
+~
+~
+0 -1 5538
+D2
+~
+~
+0 -1 5547
+D3
+~
+~
+0 -1 5536
+S
+#5538
+The Forest~
+   The rotting leave are thinner here, as is the space between the trees
+where the sky shows through.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5528
+D1
+~
+~
+0 -1 5539
+D2
+~
+~
+0 -1 5548
+D3
+~
+~
+0 -1 5537
+S
+#5539
+The Forest~
+   The tree canopy above you is almost fully blocking the sky now. The
+shadows around you deepen.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5529
+D1
+~
+~
+0 -1 9860
+D2
+~
+~
+0 -1 5549
+D3
+~
+~
+0 -1 5538
+S
+#5540
+The Forest~
+   There really are a great many trees around here.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5530
+D1
+~
+~
+0 -1 5541
+D2
+~
+~
+0 -1 5550
+D3
+~
+~
+0 -1 9168
+S
+#5541
+The Forest~
+   Darkness reigns supreme in this section of the forest. The tall ironwoods
+around you block all light from above and amplify the sounds of the creatures
+that you now know surround you.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5531
+D1
+~
+~
+0 -1 5542
+D2
+~
+~
+0 -1 5551
+D3
+~
+~
+0 -1 5540
+S
+#5542
+The Forest~
+   The forest is turning into a bog. Water seeps up between the dead leaves
+at your feet, and mushrooms grow abundantly.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5532
+D1
+~
+~
+0 -1 5543
+D2
+~
+~
+0 -1 5552
+D3
+~
+~
+0 -1 5541
+S
+#5543
+The Forest~
+   Red eyes glow from behind the trees all around you, then wink out all
+at once as if by some unheard signal.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5533
+D1
+~
+~
+0 -1 5544
+D2
+~
+~
+0 -1 5553
+D3
+~
+~
+0 -1 5542
+S
+#5544
+The Forest~
+   You are pretty sick of seeing trees. They seem to go on forever.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5534
+D1
+~
+~
+0 -1 5545
+D2
+~
+~
+0 -1 5554
+D3
+~
+~
+0 -1 5543
+S
+#5545
+The Forest~
+   The mist around your ankles almost obscures the leaves over which you
+walk. You look carefully ahead for sinkholes.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5535
+D1
+~
+~
+0 -1 5546
+D2
+~
+~
+0 -1 5555
+D3
+~
+~
+0 -1 5544
+S
+#5546
+The Forest~
+   The forest's mist is thicker here, obscuring your view for all but a
+few feet ahead of you.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5536
+D1
+~
+~
+0 -1 5547
+D2
+~
+~
+0 -1 5556
+D3
+~
+~
+0 -1 5545
+S
+#5547
+The Forest~
+   The thick rolls all around you, leaving you with your hand in front of
+your face to protect you from stray branches.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5537
+D1
+~
+~
+0 -1 5548
+D2
+~
+~
+0 -1 5557
+D3
+~
+~
+0 -1 5546
+S
+#5548
+The Forest~
+   Leaves fall down all around you, disturbed from above by something unseen.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5538
+D1
+~
+~
+0 -1 5549
+D2
+~
+~
+0 -1 5558
+D3
+~
+~
+0 -1 5547
+S
+#5549
+The Forest~
+   Leaves fall down all around you, disturbed from above by something unseen.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5539
+D1
+~
+~
+0 -1 9870
+D2
+~
+~
+0 -1 5559
+D3
+~
+~
+0 -1 5548
+S
+#5550
+The Forest~
+   Leaves fall down all around you, disturbed from above by something unseen.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5540
+D1
+~
+~
+0 -1 5551
+D2
+~
+~
+0 -1 5560
+D3
+~
+~
+0 -1 9181
+S
+#5551
+The Forest~
+   Leaves fall down all around you, disturbed from above by something unseen.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5541
+D1
+~
+~
+0 -1 5552
+D2
+~
+~
+0 -1 5561
+D3
+~
+~
+0 -1 5550
+S
+#5552
+The Forest~
+   Leaves fall down all around you, disturbed from above by something unseen.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5542
+D1
+~
+~
+0 -1 5553
+D2
+~
+~
+0 -1 5562
+D3
+~
+~
+0 -1 5551
+S
+#5553
+The Forest~
+   Leaves fall down all around you, disturbed from above by something unseen.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5543
+D1
+~
+~
+0 -1 5554
+D2
+~
+~
+0 -1 5563
+D3
+~
+~
+0 -1 5552
+S
+#5554
+The Forest~
+   Leaves fall down all around you, disturbed from above by something unseen.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5544
+D1
+~
+~
+0 -1 5555
+D2
+~
+~
+0 -1 5564
+D3
+~
+~
+0 -1 5553
+S
+#5555
+The Forest~
+   All around you, you suddenly hear whispered voices in an unknown language.
+There is much more hidden here than what stands before you from time to time.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5545
+D1
+~
+~
+0 -1 5556
+D2
+~
+~
+0 -1 5565
+D3
+~
+~
+0 -1 5554
+S
+#5556
+The Forest~
+   Pools of water form around your footsteps, erasing them as soon as you
+pass. You begin to wonder if you aren't lost.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5546
+D1
+~
+~
+0 -1 5557
+D2
+~
+~
+0 -1 5566
+D3
+~
+~
+0 -1 5555
+S
+#5557
+The Forest~
+   Pools of water form around your footsteps, erasing them as soon as you
+pass. You begin to wonder if you aren't lost.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5547
+D1
+~
+~
+0 -1 5558
+D2
+~
+~
+0 -1 5567
+D3
+~
+~
+0 -1 5556
+S
+#5558
+The Forest~
+   Pools of water form around your footsteps, erasing them as soon as you
+pass. You begin to wonder if you aren't lost.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5548
+D1
+~
+~
+0 -1 5559
+D2
+~
+~
+0 -1 5568
+D3
+~
+~
+0 -1 5557
+S
+#5559
+The Forest~
+   Pools of water form around your footsteps, erasing them as soon as you
+pass. You begin to wonder if you aren't lost.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5549
+D1
+~
+~
+0 -1 9878
+D2
+~
+~
+0 -1 5569
+D3
+~
+~
+0 -1 5558
+S
+#5560
+The Forest~
+   Pools of water form around your footsteps, erasing them as soon as
+you pass. You begin to wonder if you aren't lost.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5550
+D1
+~
+~
+0 -1 5561
+D2
+~
+~
+0 -1 5570
+D3
+~
+~
+0 -1 9193
+S
+#5561
+The Forest~
+   Pools of water form around your footsteps, erasing them as soon as you
+pass. You begin to wonder if you aren't lost.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5551
+D1
+~
+~
+0 -1 5562
+D2
+~
+~
+0 -1 5571
+D3
+~
+~
+0 -1 5560
+S
+#5562
+The Forest~
+   You are standing in a darker section of the forest, smothered by 
+shadows and choked by the mists that surround you.  Crumpled leaves
+litter the ground, damp from the moisture that seems confined to the
+forest floor.
+   You can hack through the forest in any direction.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5552
+D1
+~
+~
+0 -1 5563
+D2
+~
+~
+0 -1 5572
+D3
+~
+~
+0 -1 5561
+S
+#5563
+The Forest~
+   The mist swirls around you, making the land seem hazy and dreamlike. 
+The towering dark trees make it seem more like a nightmare.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5553
+D1
+~
+~
+0 -1 5564
+D2
+~
+~
+0 -1 5573
+D3
+~
+~
+0 -1 5562
+S
+#5564
+The Forest~
+   The mist swirls around you, making the land seem hazy and dreamlike.
+The towering dark trees make it seem more like a nightmare.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5554
+D1
+~
+~
+0 -1 5565
+D2
+~
+~
+0 -1 5574
+D3
+~
+~
+0 -1 5563
+S
+#5565
+The Forest~
+   The mist swirls around you, making the land seem hazy and dreamlike.
+The towering dark trees make it seem more like a nightmare.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5555
+D1
+~
+~
+0 -1 5566
+D2
+~
+~
+0 -1 5575
+D3
+~
+~
+0 -1 5564
+S
+#5566
+The Forest~
+   The mist swirls around you, making the land seem hazy and dreamlike. 
+The towering dark trees make it seem more like a nightmare.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5556
+D1
+~
+~
+0 -1 5567
+D2
+~
+~
+0 -1 5576
+D3
+~
+~
+0 -1 5565
+S
+#5567
+The Forest~
+   The mist swirls around you, making the land seem hazy and dreamlike.
+The towering dark trees make it seem more like a nightmare.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5557
+D1
+~
+~
+0 -1 5568
+D2
+~
+~
+0 -1 5577
+D3
+~
+~
+0 -1 5566
+S
+#5568
+The Forest~
+   The mist swirls around you, making the land seem hazy and dreamlike.
+The towering dark trees make it seem more like a nightmare.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5558
+D1
+~
+~
+0 -1 5569
+D2
+~
+~
+0 -1 5578
+D3
+~
+~
+0 -1 5567
+S
+#5569
+The Forest~
+The mist swirls around you, making the land seem hazy and dreamlike. The 
+towering dark trees make it seem more like a nightmare.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5559
+D1
+~
+~
+0 -1 9884
+D2
+~
+~
+0 -1 5579
+D3
+~
+~
+0 -1 5568
+S
+#5570
+The Forest~
+   The mist swirls around you, making the land seem hazy and dreamlike. 
+The towering dark trees make it seem more like a nightmare.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5560
+D1
+~
+~
+0 -1 5571
+D2
+~
+~
+0 -1 5580
+D3
+~
+~
+0 -1 9202
+S
+#5571
+The Forest~
+   The tall ironwood trees around you suddenly echo as if struck; a harsh
+metallic 'clang' reaches your ears, but you can't tell where it comes from.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5561
+D1
+~
+~
+0 -1 5572
+D2
+~
+~
+0 -1 5581
+D3
+~
+~
+0 -1 5570
+S
+#5572
+The Forest~
+   A large branch the size of your arm crashes down beside you. You swear
+up at the treetop, yet thank fate that you weren't knocked out.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5562
+D1
+~
+~
+0 -1 5573
+D2
+~
+~
+0 -1 5582
+D3
+~
+~
+0 -1 5571
+S
+#5573
+The Forest~
+   The tall ironwood trees around you suddenly echo as if struck; a harsh
+metallic 'clang' reaches your ears, but you can't tell where it comes from.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5563
+D1
+~
+~
+0 -1 5574
+D2
+~
+~
+0 -1 5583
+D3
+~
+~
+0 -1 5572
+S
+#5574
+The Forest~
+   The forest thickens here, becoming almost impassable.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5564
+D1
+~
+~
+0 -1 5575
+D2
+~
+~
+0 -1 5584
+D3
+~
+~
+0 -1 5573
+S
+#5575
+The Forest~
+   The forest thickens here, becoming almost impassable.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5565
+D1
+~
+~
+0 -1 5576
+D2
+~
+~
+0 -1 5585
+D3
+~
+~
+0 -1 5574
+S
+#5576
+The Forest~
+   The forest thickens here, becoming almost impassable.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5566
+D1
+~
+~
+0 -1 5577
+D2
+~
+~
+0 -1 5586
+D3
+~
+~
+0 -1 5575
+S
+#5577
+The Forest~
+   A large totem pole is stuck in the ground here. It pictures a giant
+of a man worshipping - what else?  A tree.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5567
+D1
+~
+~
+0 -1 5578
+D2
+~
+~
+0 -1 5587
+D3
+~
+~
+0 -1 5576
+S
+#5578
+The Forest~
+   A small space has been cleared off here, even the stumps of the ironwood
+trees have been uprooted and cleared away.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5568
+D1
+~
+~
+0 -1 5579
+D2
+~
+~
+0 -1 5588
+D3
+~
+~
+0 -1 5577
+S
+#5579
+The Forest~
+   A large totem pole is stuck in the ground here. It pictures a giant
+of a man worshipping - what else?  A tree.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5569
+D1
+~
+~
+0 -1 9891
+D2
+~
+~
+0 -1 5589
+D3
+~
+~
+0 -1 5578
+S
+#5580
+The Forest~
+   An exceptionally large ironwood tree grows here. It must be thousands
+of years old.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5570
+D1
+~
+~
+0 -1 5581
+D2
+~
+~
+0 -1 5590
+D3
+~
+~
+0 -1 9209
+S
+#5581
+The Forest~
+   To the west grows an exceptionally large ironwood tree.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5571
+D1
+~
+~
+0 -1 5582
+D2
+~
+~
+0 -1 5591
+D3
+~
+~
+0 -1 5580
+S
+#5582
+The Forest~
+   A large sinkhole has filled with stagnant water here. It smells like
+rotten meat.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5572
+D1
+~
+~
+0 -1 5583
+D2
+~
+~
+0 -1 5592
+D3
+~
+~
+0 -1 5581
+S
+#5583
+The Forest~
+   A large pool of muddy water has formed to the west. Elsewhere you see
+only more trees.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5573
+D1
+~
+~
+0 -1 5584
+D2
+~
+~
+0 -1 5593
+D3
+~
+~
+0 -1 5582
+S
+#5584
+The Forest~
+   The mist that has followed you for so long starts to thin out here, 
+but the barrage of trees stays the same.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5574
+D1
+~
+~
+0 -1 5585
+D2
+~
+~
+0 -1 5594
+D3
+~
+~
+0 -1 5583
+S
+#5585
+The Forest~
+   The forest seems unending, and the haunting shadows that tail you
+begin to grate your nerves.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5575
+D1
+~
+~
+0 -1 5586
+D2
+~
+~
+0 -1 5595
+D3
+~
+~
+0 -1 5584
+S
+#5586
+The Forest~
+   Leaves and branches fall down on you from above, cast by an unseen force.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5576
+D1
+~
+~
+0 -1 5587
+D2
+~
+~
+0 -1 5596
+D3
+~
+~
+0 -1 5585
+S
+#5587
+The Forest~
+   The forest is beginning to thin here, but you still can't see far between
+the trees.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5577
+D1
+~
+~
+0 -1 5588
+D2
+~
+~
+0 -1 5597
+D3
+~
+~
+0 -1 5586
+S
+#5588
+The Forest~
+   The forest is beginning to thin here, but you still can't see far 
+between the trees.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5578
+D1
+~
+~
+0 -1 5589
+D2
+~
+~
+0 -1 5598
+D3
+~
+~
+0 -1 5587
+S
+#5589
+The Forest~
+   The forest is beginning to thin here, but you still can't see far 
+between the trees.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5579
+D1
+~
+~
+0 -1 9894
+D2
+~
+~
+0 -1 5599
+D3
+~
+~
+0 -1 5588
+S
+#5590
+The Forest~
+   The forest is beginning to thin here, but you still can't see far 
+between the trees.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5580
+D1
+~
+~
+0 -1 5591
+D2
+~
+~
+0 -1 9219
+D3
+~
+~
+0 -1 9213
+S
+#5591
+The Forest~
+   The edge of the forest is just ahead, thankfully leading into open land.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5581
+D1
+~
+~
+0 -1 5592
+D2
+~
+~
+0 -1 9220
+D3
+~
+~
+0 -1 5590
+S
+#5592
+The Forest~
+   The edge of the forest is just ahead, thankfully leading into open land.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5582
+D1
+~
+~
+0 -1 5593
+D2
+~
+~
+0 -1 9221
+D3
+~
+~
+0 -1 5591
+S
+#5593
+The Forest~
+   The edge of the forest is just ahead, thankfully leading into open land.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5583
+D1
+~
+~
+0 -1 5594
+D2
+~
+~
+0 -1 9222
+D3
+~
+~
+0 -1 5592
+S
+#5594
+The Forest~
+   The edge of the forest is just ahead, thankfully leading into open land.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5584
+D1
+~
+~
+0 -1 5595
+D2
+~
+~
+0 -1 9223
+D3
+~
+~
+0 -1 5593
+S
+#5595
+The Forest~
+   The edge of the forest is just ahead, thankfully leading into open land.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5585
+D1
+~
+~
+0 -1 5596
+D2
+~
+~
+0 -1 9224
+D3
+~
+~
+0 -1 5594
+S
+#5596
+The Forest~
+   The edge of the forest is just ahead, thankfully leading into open land.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5586
+D1
+~
+~
+0 -1 5597
+D2
+~
+~
+0 -1 9225
+D3
+~
+~
+0 -1 5595
+S
+#5597
+The Forest~
+   The edge of the forest is just ahead, thankfully leading into open land.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5587
+D1
+~
+~
+0 -1 5598
+D2
+~
+~
+0 -1 9226
+D3
+~
+~
+0 -1 5596
+S
+#5598
+The Forest~
+   The edge of the forest is just ahead, thankfully leading into open land.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5588
+D1
+~
+~
+0 -1 5599
+D2
+~
+~
+0 -1 9227
+D3
+~
+~
+0 -1 5597
+S
+#5599
+The Forest~
+   The edge of the forest is just ahead, thankfully leading into open land.
+~
+55 0 0 0 0 3
+D0
+~
+~
+0 -1 5589
+D1
+~
+~
+0 -1 9217
+D2
+~
+~
+0 -1 9228
+D3
+~
+~
+0 -1 5598
+S
+$~

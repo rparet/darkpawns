@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1522"
+   name=""
+   committed-date="2008-06-20T19:25:58.198492Z"
+   url="file:///var/svn/trunk/2.2/bin"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   prop-time="2008-06-19T18:47:00.000000Z"
+   revision="1525"/>
+<entry
+   committed-rev="1522"
+   name=".empty"
+   text-time="2008-07-09T01:02:50.000000Z"
+   committed-date="2008-06-20T19:25:58.198492Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:50.000000Z"/>
+</wc-entries>

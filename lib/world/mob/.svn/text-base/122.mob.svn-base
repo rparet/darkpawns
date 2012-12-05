@@ -1,0 +1,321 @@
+#12200
+spinning whirlpool~
+a magical whirlpool~
+A magical whirlpool is spinning through the water.
+~
+A magical whirlpool is here, bearing people to far away places.
+~
+1335373 0 0 0 67109960 0 0 0 0 E
+38 -18 -28 38d5+5078 25d4+25
+1 372000
+8 8 0
+E
+#12201
+bullywug warrior creature~
+a bullywug warrior~
+A strange, amphibian-looking creature stalks you from the bushes.
+~
+The bullywug is covered with a smooth, mottled olive green hide. It's face
+resembles that of a frog, with a wide mouth and large, bulbous eyes; it's
+feet and hands are webbed.
+~
+1050728 0 0 0 787528 0 0 0 -400 E
+16 4 -6 16d5+170 4d6+10
+5 16000
+8 8 1
+Race: 26
+E
+#12202
+croc crocodile~
+a crocodile~
+A large crocodile floats in the water here.
+~
+It has a long, squat body and a jaw filled with sharp, conical teeth.
+~
+1312872 0 0 0 262208 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+1 6000
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#12203
+giant croc crocodile~
+a giant crocodile~
+A giant crocodile begins floating towards you, jaws glistening.
+~
+It's huge!
+~
+3145832 0 0 0 525376 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+1 25000
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#12204
+crayfish giant~
+a giant crayfish~
+A giant crayfish pops out of the water next to you.
+~
+It has a multi-plated shell, numerous legs, eyes set on stalks, and two wicked
+pincers.
+~
+1048652 0 0 0 1088 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+1 10500
+8 8 0
+BareHandAttack: 8
+E
+#12205
+giant frog~
+a giant frog~
+A giant frog sits here, staring at you with bulging eyes.
+~
+It looks like a normal frog, only this one is 6 feet long.
+~
+1048666 0 0 0 262248 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+1 10500
+8 8 0
+BareHandAttack: 4
+Race: 26
+E
+#12206
+killer giant frog~
+a giant killer frog~
+A giant killer frog sits here, contemplating you as it's next meal.
+~
+It looks like a normal frog, except larger and with a mouth filled with sharp
+teeth.
+~
+1048680 0 0 0 131136 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+1 10500
+8 8 0
+BareHandAttack: 4
+Race: 26
+E
+#12207
+grippli frog man warrior~
+a grippli warrior~
+A small man that looks like a frog is hiding here, eyeing you warily.
+~
+Grippli resemble small, intelligent, humanoid tree frogs.
+~
+1050824 0 0 0 918594 0 0 0 -500 E
+15 5 -5 15d5+160 10d4+10
+1 14000
+8 8 1
+Race: 26
+E
+#12208
+giant leech~
+a giant leech~
+A giant leech squirms around here, dreaming of it's next meal.
+~
+Giant leeches are horrid, slug-like creatures that dwell in wet, slimy areas
+and suck the blood of warm-blooded creatures.
+~
+1048680 0 0 0 787520 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+1 10500
+8 8 0
+E
+#12209
+swarm leech leeches cloud~
+a swarm of leeches~
+A dark cloud moves under the water here, looking evil.
+~
+Almost as one body, the dark flitting shapes churn the water to a boil
+trying to get to the blood that feeds them. Each one almost 6 inches in
+length, this is the most leeches you've ever encountered.
+~
+1048680 0 0 0 263232 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+1 25000
+8 8 0
+BareHandAttack: 10
+E
+#12210
+grung warrior~
+a grung warrior~
+A small, toad-like man sits here, ready to hop.
+~
+Standing about three feet tall, this creature has a lower body that strongly
+resembles that of a giant frog or toad, with powerful legs and large, webbed
+feet. It's upper body, however, is more developed, with muscular forelimbs,
+opposable thumbs, and a smaller, more humanoid looking head.
+~
+1048680 0 0 0 787520 0 0 0 -400 E
+15 5 -5 15d5+160 10d4+10
+1 14000
+8 8 1
+Race: 26
+E
+#12211
+froghemoth thing~
+a large froghemoth~
+The oddest thing you've ever seen is standing here.
+~
+A froghemoth has a yellowish underbelly; undersides of the rear legs and
+tentacles are a pale yellowish color. Its sides are light green and its back
+and upper legs and tentacles are mottled green. The ocular appendage is 
+yellow-green, as are its 2 nostril stalks. Its eyeballs are amber with a
+greenish tinge, and the slit, vertical pupils are bright green edged with
+orange.
+~
+1050732 0 0 0 262336 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 0
+BareHandAttack: 5
+Race: 26
+E
+#12212
+mud monster pile~
+a mud monster~
+A pile of mud moves slowly by.
+~
+The pile of mud has the vague shape of a bipedal figure. It slowly churns
+the water as it passes through the area. Two eyes, dark as night, stare back
+at you from a featureless face.
+~
+1286216 0 0 0 524352 0 0 0 -200 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 0
+BareHandAttack: 6
+Race: 25
+E
+#12213
+muck dweller dinosaur muckdweller~
+a muckdweller~
+A very small dinosaur is standing here.
+~
+This small creature resembles an upright gila monster. From the back of its
+head protrudes a dorsal fin. It's standing here, chattering its teeth 
+insanely fast. Wonder what it's up to?
+~
+1052780 0 0 0 296000 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#12214
+swamp giant warrior~
+a swamp giant warrior~
+A swamp giant warrior stands here, eyeing you over.
+~
+This guy stands about nine feet tall and is wearing quite a bit of old,
+rusted armor. On his hip is a well-used and well-rusted sword. He looks at
+you with mild interest, probably because no one usually comes this deep into
+the swamp.
+~
+1378380 0 0 0 263232 0 0 0 -500 E
+14 6 -4 14d5+150 9d4+9
+0 12000
+8 8 1
+BareHandAttack: 3
+Race: 18
+E
+#12215
+turtle snapping~
+a snapping turtle~
+A turtle swims slowly through the water
+~
+A long slender neck extends from a stumpy, pointed shell. Its large eyes are
+set back in its head, slightly behind its mouth. The mouth looks like a beak
+with a sharp point aimed down on the very tip.
+~
+1048648 0 0 0 1088 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#12216
+snapper alligator turtle~
+a alligator snapping turtle~
+A very large snapping turtle floats by lazily.
+~
+This turtle is huge. Its shell looks to be nearly four feet in diameter and
+its neck extends about a foot out from under its armored carapace. It glances
+in your direction and emits a loud hiss. It doesn't look like something to be
+trifled with.
+~
+1114232 0 0 0 1088 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#12217
+bug mosquito~
+a mosquito~
+A mosquito buzzes annoyingly around your head.
+~
+This mosquito is quite annoying. He looks like all the other ones, long legged
+and has a nasty sucker on his nose.
+~
+1052776 0 0 0 67372064 0 0 0 -100 E
+3 17 7 3d5+40 2d4+1
+0 350
+8 8 0
+BareHandAttack: 11
+Race: 21
+E
+#12218
+giant mosquito~
+a giant mosquito~
+A very large mosquito buzzes by you.
+~
+This mosquito is HUGE. Its wingspan is at least three feet, its eyes glow
+with an inner light and it seems as though an outer world intelligence guides
+its movements.
+~
+1114216 0 0 0 67109888 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+0 10500
+8 8 0
+BareHandAttack: 11
+Race: 21
+E
+#12219
+larvae~
+a mosquito larvae~
+A funny looking larvae floats by you.
+~
+Its head barely sticks out of the muck surrounding you. A large set of eyes
+protrude from small stalks, which reside right behind a large needle-looking
+mouth.
+~
+1048680 0 0 0 1088 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+BareHandAttack: 11
+Race: 21
+E
+#12220
+old ssaur healer~
+an old ssauran healer~
+An old ssauran healer sits here, weary with age.
+~
+Lacking the stength to continue his journey, the healer has chosen this
+location in which to practise his skills in what little time he has left.
+Well adapted to the swamp, the healer is more than happy and you would do
+well not to assume too much from his appearance.
+~
+16834590 0 0 0 33960 0 0 0 1000 E
+20 0 -10 20d5+210 13d4+13
+100 25000
+6 6 1
+Race: 29
+Script: 122/healer.lua 24
+E
+$

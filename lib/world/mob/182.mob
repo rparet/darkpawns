@@ -1,0 +1,387 @@
+#18201
+commoner~
+the commoner~
+A commoner is standing here.
+~
+One of Kir-Oshi's citizens, out on errands no doubt.
+~
+2120 0 0 0 0 0 0 0 900 E
+5 15 5 5d5+60 2d4+2
+10 900
+8 8 2
+Race: 0
+E
+#18202
+commoner dirty~
+the dirty commoner~
+A dirty commoner accosts you.
+~
+One of the poorer denziens of the city, this commoner looks like he could use
+a good meal.
+~
+2120 0 0 0 0 0 0 0 900 E
+5 15 5 5d5+60 2d4+2
+20 900
+8 8 1
+E
+#18203
+wharf rat~
+the wharf rat~
+A wharf rat scurries around your feet.
+~
+This vermin has the lean look of pestilence and disease in his eye.
+Wharf rats are an unfortunate side effect of Kir-Oshi's bustling port.
+~
+8429 0 0 0 0 0 0 0 -200 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 1
+Race: 22
+E
+#18204
+Piyun baker~
+Piyun~
+Piyun the baker is here, taking a break from cooking to tend your needs.
+~
+You see that he is a large and formidable man, probably from all the sweets.
+~
+2058 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+15000 270000
+8 8 1
+E
+#18205
+Keng-tu bartender~
+Keng-tu~
+Keng-tu is here, tending bar.
+~
+Definitely not one of the friendliest bartenders you've ever seen. 
+~
+2058 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 1
+E
+#18206
+Shonya florist~
+Shonya~
+Shonya the florist is here, tending a bonzai tree.
+~
+She's a petite little wisp of woman, with long silken black hair that
+reaches almost to her knees.
+~
+2058 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 2
+E
+#18207
+Kane weaponsmith~
+Kane the weaponsmith~
+Kane the weaponsmith is here polishing his already glowing weapons.
+~
+You see a man who looks old but timeless.  Even without all of these weapons
+you know he could hurt you real bad.
+~
+2058 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+450000 270000
+8 8 1
+E
+#18208
+Guiee waiter~
+Guiee the suishi bar waiter~
+Guiee is here, taking in all the smells that fish have to offer.
+~
+You see a large man... the manager/owner of the famous Guiee's Sushi Bar.
+~
+2058 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+15000 270000
+8 8 1
+Race: 0
+E
+#18209
+receptionist~
+an old fogie receptionist~
+An old, steely-eyed receptionist is here, bitching at the world in general.
+~
+This is a fat, old man that hates the world we live in, and doesn't mind telling
+you that over and over.
+~
+2058 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+25000 270000
+8 8 1
+E
+#18210
+clerk~
+a young clerk~
+A hip young clerk is showing off her goods.
+~
+You see a little blonde girl showing off the best of imported goods from
+far away lands. She looks out of place amid all the dark haired citizens of
+this town.
+~
+2058 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 2
+E
+#18211
+attack guard~
+a large attack guard~
+A large attack guard looks at you with death in his eyes... your death.
+~
+This is a huge, burly attack guard with an attitude.
+He really want to kick your ass.
+~
+2090 0 0 0 0 0 0 0 -100 E
+10 10 0 10d5+110 5d4+5
+34 6000
+8 8 1
+Race: 0
+E
+#18212
+Tan Lee armorer~
+Tan Lee~
+Tan Lee, the armorer, is here cleaning the metal that will save your life.      
+~
+Tan lee is scarred from many a battle, but you believe the only reason he is
+here to sell you anything at all is because he knows his armor.
+~
+2058 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+450000 270000
+8 8 1
+E
+#18213
+confucius tattooist~
+Confucius~
+A balding tattooist in a monk's garment stands here.
+~
+He's an aging bald man with a brown robe and gnarled fingers. Tattoos cover
+him from head to toe.
+~
+59419 0 0 0 0 0 0 0 500 E
+29 -9 -19 29d5+391 19d4+19
+50 55000
+8 8 1
+Race: 0
+E
+#18214
+man cloaked lao tse lao-tse~
+Lao-Tse~
+A cloaked man stands here, lost in thought.
+~
+You can't see his face, but the point of a goatee sticks out of the shadows
+created by his hood. He looks quite muscular but not threatening.
+~
+264202 0 0 0 394248 0 0 0 500 E
+24 -4 -14 24d5+276 16d4+16
+23 35000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#18215
+guard kir-oshi~
+a Kir-Oshi guard~
+A Kir-Oshi guard defends the city walls.
+~
+He is a brave but simple warrior, trained from birth for this job
+To be a guard for his city is his greatest joy, and he does the job
+well.
+~
+6235 0 0 0 0 0 0 0 1000 E
+17 3 -7 17d5+180 11d4+11
+2 18000
+8 8 1
+Race: 0
+E
+#18216
+lou ching~
+Lou Ching~
+Lou Ching gives you an icy stare.
+~
+Lou Ching, master of nefarious and covert tactics.  Don't trust him
+even if he is right in front of you.
+~
+714778 0 0 0 139264 0 0 0 -500 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 1
+Race: 0
+E
+#18217
+ts'ao man ancient protector~
+Ts'ao Ts'ao~
+Ts'ao Ts'ao the Ancient Protector stands here.
+~
+Perhaps one of the greatest generals of his time, the gods saw fit
+to have Ts'ao live on to protect his native land.
+He exudes a great aura of physical power.
+~
+1448024 0 0 0 1160 0 0 0 1000 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 1
+BareHandAttack: 13
+Race: 19
+E
+#18218
+vagabond~
+a vagabond~
+A vagabond slinks around here.
+~
+Careful, these guys are slicker than grease.
+~
+201 0 0 0 0 0 0 0 -25 E
+6 14 4 6d5+70 3d4+3
+10 1500
+8 8 1
+Race: 3
+E
+#18219
+zen master~
+the Zen master~
+An ancient Zen master wanders about.         
+~
+He walks about, aware of the world, but at the same time aware of
+another reality completely.  He has found the inner peace.
+~
+1089561 0 0 0 5256 0 0 0 1000 E
+30 -5 -15 30d5+414 20d4+20
+0 60000
+8 8 1
+Race: 0
+E
+#18220
+shaolin monk~
+a shaolin monk~
+A shaolin monk is here, contemplating.
+~
+Though by no means a master, the shaolin monk is certainly
+adept at contemplating higher realities.  He also looks like
+he's pretty athletic.
+~
+10 0 0 0 131072 0 0 0 10 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#18221
+tong assassin~
+the tong assassin~
+An assassin from the Liu'she Ch'uan tong sneaks about.
+~
+The tong assassin is the executioner of those who have gone against
+the tong in some way.  Better hope he's not looking for you.
+~
+450696 0 0 0 951336 0 0 0 0 E
+19 1 -9 19d5+200 12d4+12
+0 22500
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#18222
+sailor~
+a sailor~
+A sailor walks around, stretching his sea-legs.
+~
+He's just out looking for a good time.
+That, and some 2 dollar hookers.
+~
+72 0 0 0 0 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+0 10500
+8 8 1
+Race: 0
+E
+#18223
+harbor guard~
+a harbor guard~
+A harbor guard guards the port.
+~
+He's nothing but a hired thug.
+~
+6232 0 0 0 1032 0 0 0 -300 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 1
+Race: 0
+E
+#18224
+harbor master~
+the harbor master~
+The harbor master maintains order on the pier.
+~
+The harbor master is a big fat guy who smokes a long-stem pipe.
+He looks pretty burly though, better not mess with him.
+~
+268376 0 0 0 0 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+100 25000
+8 8 1
+Race: 0
+E
+#18225
+wu chien wu'chien~
+Wu'Chien~
+Wu'Chien silently observes your every move.
+~
+Once a ninja for the Liu'she Ch'uan tong, he is now Ronin - but
+none the less dangerous.
+~
+190554 0 0 0 131080 0 0 0 0 E
+24 -4 -14 24d5+276 16d4+16
+10 35000
+8 8 1
+Race: 0
+E
+#18226
+tor waki~
+Tor Waki~
+Tor Waki is here, plotting.
+~
+A ruthless, sinister, and dishonorable fighter. Tor Waki is blood thirsty and
+is always looking for a good fight.  Too bad he's such a coward.
+~
+579754 0 0 0 1032 0 0 0 -400 E
+23 -3 -13 23d5+253 15d4+15
+28 32500
+8 8 1
+BareHandAttack: 13
+Race: 1
+E
+#18227
+monk old blind~
+the blind monk~
+An old, blind monk tries to reach Nirvana.
+~
+He sits in Samahdei, perfectly in tune with his environment. No
+doubt he is aware of your presence, even though he cannot see you.
+~
+174106 0 0 0 131241 0 0 0 800 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 1
+Race: 0
+E
+#18228
+clerk~
+a clerk~
+A clerk shuffles some papers around and calls it work.
+~
+He obviously works for the home office.
+~
+188427 0 0 0 0 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+0 270000
+8 8 1
+Race: 0
+E
+$

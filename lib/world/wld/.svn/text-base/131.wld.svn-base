@@ -1,0 +1,1914 @@
+#13100
+The Immortal Map Room to Dun Liu~
+Type 'look sign' for the Fortress Map
+Type 'look poster' for the Terrain Map
+~
+131 548 0 0 0 0
+D5
+~
+~
+0 0 13101
+E
+poster~
+I'll have thisi up as soon as the terrain is done.
+~
+E
+sign~
+I'll write this later.
+~
+S
+#13101
+The Throne Room~
+  You stand among the nobles and knights of Dun Liu. Servants hurry by you 
+and nobody pays much attention to you. Against the back wall stands a huge 
+throne, made plush and comfortable for the King's oversized arse. Fron here
+you can watch the bribes and blackmail merge all over the world. The only
+exit is to the north.
+~
+131 8 0 0 0 0
+D0
+The Great Doors
+~
+door great doors~
+1 0 13102
+D4
+~
+~
+0 0 13142
+S
+#13102
+The Ante Chamber~
+  You are standing in the Ante Chamber. It's just another word for waiting
+room, but everyone who wants to see the King must pass through it. Servants
+scuttle by you in their rush to serve the King and the nobles about you. As
+you walk around you notice all the expensive tapestries and artwork hanging
+and begin to wonder if the King is spending the people's money on himself
+instead of his people. What appears to be the throne room lies to the south,
+while a great deal of noise comes from the north.
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13103
+D2
+~
+~
+0 0 13101
+S
+#13103
+A Heavily Guarded Room~
+  For some reason this room is heavily guarded. The guard rooms were well
+guarded, but this room is amazing! Guards stand at their posts in a wall of
+weapon-wielding maniacs. How insecure could a King be to have so much defense
+within the walls of his own fortress? There are exits to the east, west, and
+south.
+~
+131 8 0 0 0 0
+D1
+~
+~
+0 0 13105
+D2
+~
+~
+0 0 13102
+D3
+~
+~
+0 0 13104
+S
+#13104
+The Royal Hallway~
+  This is just another lavishly decorated room, built and decorated by the
+King to make him feel more 'at home' in the lands of Dun Liu. You notice many
+fine pieces of art and jewelry here. Sculptures stand tall against the walls
+while expensive paintings hang behind them. It's begging to look more like an
+art gallery than a castle. The Royal Hallway continues east and south.
+~
+131 8 0 0 0 0
+D1
+~
+~
+0 0 13103
+D2
+~
+~
+0 0 13106
+S
+#13105
+The Royal Hallway~
+  This is just another lavishly decorated room, built and decorated by the
+King to make him feel more 'at home' in the lands of Dun Liu. You notice many
+fine pieces of art and jewelry here. Sculptures stand tall against the walls
+while expensive paintings hang behind them. It's begging to look more like an
+art gallery than a castle. The Royal Hallway continues south and west.
+~
+131 8 0 0 0 0
+D2
+~
+~
+0 0 13107
+D3
+~
+~
+0 0 13103
+D4
+~
+trapdoor trap door~
+1 13110 13144
+S
+#13106
+The Royal Hallway~
+  This is just another lavishly decorated room, built and decorated by the
+King to make him feel more 'at home' in the lands of Dun Liu. You notice many
+fine pieces of art and jewelry here. Sculptures stand tall against the walls
+while expensive paintings hang behind them. It's begging to look more like an
+art gallery than a castle. The Royal Hallway continues north and south.
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13104
+D2
+~
+~
+0 0 13108
+S
+#13107
+The Royal Hallway~
+  This is just another lavishly decorated room, built and decorated by the
+King to make him feel more 'at home' in the lands of Dun Liu. You notice many
+fine pieces of art and jewelry here. Sculptures stand tall against the walls
+while expensive paintings hang behind them. It's begging to look more like an
+art gallery than a castle. The Royal Hallway continues north and south.
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13105
+D2
+~
+~
+0 0 13109
+S
+#13108
+The Royal Hallway~
+  This is just another lavishly decorated room, built and decorated by the
+King to make him feel more 'at home' in the lands of Dun Liu. You notice many
+fine pieces of art and jewelry here. Sculptures stand tall against the walls
+while expensive paintings hang behind them. It's begging to look more like an
+art gallery than a castle. The Royal Hallway continues north and south.
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13106
+D2
+~
+~
+0 0 13110
+S
+#13109
+The Royal Hallway~
+  This is just another lavishly decorated room, built and decorated by the
+King to make him feel more 'at home' in the lands of Dun Liu. You notice many
+fine pieces of art and jewelry here. Sculptures stand tall against the walls
+while expensive paintings hang behind them. It's begging to look more like an
+art gallery than a castle. The Royal Hallway continues north and south.
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13107
+D2
+~
+~
+0 0 13111
+S
+#13110
+The Royal Hallway~
+  This is just another lavishly decorated room, built and decorated by the
+King to make him feel more 'at home' in the lands of Dun Liu. You notice many
+fine pieces of art and jewelry here. Sculptures stand tall against the walls
+while expensive paintings hang behind them. It's begging to look more like an
+art gallery than a castle. The Royal Hallway continues north with a guard
+post to the east.
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13108
+D1
+~
+~
+0 0 13112
+S
+#13111
+The Royal Hallway~
+  This is just another lavishly decorated room, built and decorated by the
+King to make him feel more 'at home' in the lands of Dun Liu. You notice many
+fine pieces of art and jewelry here. Sculptures stand tall against the walls
+while expensive paintings hang behind them. It's begging to look more like an
+art gallery than a castle. The Royal Hallway continues north with a guard
+post to the west.
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13109
+D3
+~
+~
+0 0 13112
+S
+#13112
+A Guard Room~
+  This is one of the many guard rooms of Dun Liu, instituted by the paranoid
+King to make sure no assassins could sneak in and kill him. As you walk past
+the guards, one of them notices your weapons and calls his comrades to arms.
+The are exits south, west, and east with the sound of rattling armor coming
+from all of them.
+~
+131 8 0 0 0 0
+D1
+~
+~
+0 0 13111
+D2
+~
+~
+0 0 13113
+D3
+~
+~
+0 0 13110
+S
+#13113
+A Guard Room~
+  This is one of the many guard rooms of Dun Liu, instituted by the paranoid
+King to make sure no assassins could sneak in and kill him. As you walk past
+the guards, one of them notices your weapons and calls his comrades to arms.
+The are exits north, west, and east with the sound of rattling armor coming
+from all of them.
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13112
+D1
+~
+~
+0 0 13115
+D3
+~
+~
+0 0 13114
+S
+#13114
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+There is a guard post to the east, while the outer hall continues west.
+~
+131 8 0 0 0 0
+D1
+~
+~
+0 0 13113
+D3
+~
+~
+0 0 13116
+S
+#13115
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+There is a guard post to the west, while the outer hall continues east.
+~
+131 8 0 0 0 0
+D1
+~
+~
+0 0 13117
+D3
+~
+~
+0 0 13113
+S
+#13116
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hall continues north and east.
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13118
+D1
+~
+~
+0 0 13114
+S
+#13117
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hall continues north and west.
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13119
+D3
+~
+~
+0 0 13115
+S
+#13118
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hallway continues north and south.
+
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13120
+D2
+~
+~
+0 0 13116
+S
+#13119
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hallway continues north and south.
+
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13121
+D2
+~
+~
+0 0 13117
+S
+#13120
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hallway continues north and south.
+
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13122
+D2
+~
+~
+0 0 13118
+S
+#13121
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hallway continues north and south.
+
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13123
+D2
+~
+~
+0 0 13119
+S
+#13122
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hallway continues north and south.
+
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13124
+D2
+~
+~
+0 0 13120
+S
+#13123
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hallway continues north and south.
+
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13125
+D2
+~
+~
+0 0 13121
+S
+#13124
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hallway continues north and south.
+
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13126
+D2
+~
+~
+0 0 13122
+S
+#13125
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hallway continues north and south.
+
+~
+131 8 0 0 0 0
+D0
+~
+~
+0 0 13127
+D2
+~
+~
+0 0 13123
+S
+#13126
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hall continues south and east.
+~
+131 8 0 0 0 0
+D1
+~
+~
+0 0 13128
+D2
+~
+~
+0 0 13124
+S
+#13127
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+The outer hall continues south and west.
+~
+131 8 0 0 0 0
+D2
+~
+~
+0 0 13125
+D3
+~
+~
+0 0 13129
+S
+#13128
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+There is a guard post to the east, while the outer hall continues west.
+~
+131 32776 0 0 0 0
+D1
+~
+~
+0 0 13130
+D3
+~
+~
+0 0 13126
+S
+#13129
+The Outer Hall~
+  As you walk down this hallway you note the elaborate textures and designs
+hanging on the wall here. As you stroll by the various works of art you
+admire the colors and general appearance of the finely carpeted and furnished
+hallway. Aside from the occasional angry guard, this is a beautiful place.
+There is a guard post to the west, while the outer hall continues east.
+~
+131 32776 0 0 0 0
+D1
+~
+~
+0 0 13127
+D3
+~
+~
+0 0 13130
+S
+#13130
+A Guard Room~
+  This is one of the many guard rooms of Dun Liu, instituted by the paranoid
+King to make sure no assassins could sneak in and kill him. As you walk past
+the guards, one of them notices your weapons and calls his comrades to arms.
+The are exits north, west, and east with the sound of rattling armor coming
+from all but the north... odd.
+~
+131 32776 0 0 0 0
+D0
+~
+~
+0 0 13131
+D1
+~
+~
+0 0 13129
+D3
+~
+~
+0 0 13128
+S
+#13131
+On the drawbridge~
+You stand on a great drawbridge crossing over the moat of Dun Liu.
+~
+131 32772 0 0 0 0
+D0
+~
+~
+0 0 13132
+D2
+~
+~
+0 0 13130
+S
+#13132
+The Gatehouse~
+  You are at the gatehouse to Dun Liu. Stretching to the south are the tall
+walls of Dun Liu. The drawbridge is usually down and today is no different.
+The orange brick road lies to the north.
+~
+131 32772 0 0 0 0
+D0
+~
+drawbridge~
+2 0 13133
+D2
+~
+~
+0 0 13131
+S
+#13133
+The Orange Brick Road~
+  You are on an interesting orange-colored brick road. People hustle and 
+bustle around you as you walk by. A humungous building spans to the north-
+east, while the gatehouse lies just south of here, the King has only one 
+guard stand watch, a tall man in shiny black armor. The orange brick road
+continues north.
+~
+131 32768 0 0 0 1
+D0
+~
+~
+0 0 13134
+D2
+~
+~
+0 0 13132
+S
+#13134
+The Orange Brick Road~
+  You are on an interesting orange-colored brick road. People hustle and 
+bustle around you as you walk by. There is an incredibly tall building to
+the north-east and a gatehouse is just a few paces to the south now, the
+entrance to the great castle Dun Liu. The orange brick road continues north
+and south.
+~
+131 32768 0 0 0 1
+D0
+~
+~
+0 0 13135
+D2
+~
+~
+0 0 13133
+S
+#13135
+The Orange Brick Road~
+  You are on an interesting orange-colored brick road. People hustle and 
+bustle around you as you walk by. As you walk you can see the castle itself
+growing larger in the horizon to the south. A deep forest grows to the north-
+east, and Gandalf's Spells and Sorcery, Ltd stands before you to the east.
+The orange brick road continues north and south.
+~
+131 32768 0 0 0 1
+D0
+~
+~
+0 0 13138
+D1
+~
+~
+0 0 13137
+D2
+~
+~
+0 0 13134
+D5
+~
+grate~
+1 0 13156
+S
+#13136
+A strange laboratory~
+  You are in the middle of a odd-looking room. Across from you sits an odd-
+looking man in an odd-looking chair with an odd look on his face. Perhaps
+something odd is going on here... Apparently the only exit is back down the
+staircase.
+~
+131 8 0 0 0 0
+D5
+~
+~
+0 0 13152
+S
+#13137
+Scrolls and Sorcery, Ltd.~
+  You have wandered into the best magic store this side of Kir Drax'in! Gandalf
+stands at a counter, greedily counting his profits and grinning at you in a
+way that sends a chill down your spine. As you walk about the store you
+notice loads of staves, scrolls, and other little trinkets with plump price 
+tags. Just in case you run out of money, there is an ATM mounted on the wall
+next to the counter. The only exit is back out onto the Orange Brick Road.
+~
+131 32776 0 0 0 0
+D3
+~
+~
+0 0 13135
+S
+#13138
+The Orange Brick Road~
+  You are on an interesting orange-colored brick road. Shops and cafes line 
+the street all around you, and an especially large building stands to the 
+south-east, with the letters S&S Ltd on the side, while the fortress grows
+larger to the south. A peculiar dirt road stretches off the the east and the
+orange brick road continues to the west and south.
+~
+131 32768 0 0 0 1
+D1
+~
+~
+0 0 13139
+D2
+~
+~
+0 0 13135
+D3
+~
+~
+0 0 13140
+S
+#13139
+A dirt road~
+  You are walking along a dark, winding road. The roadside is filled with
+dark, ominous trees and sounds of feirce animals. There is a dark, densly
+forested area somewhere off to the north. The dirt road continues east,
+while the orange brick road lies to the west.
+~
+131 32768 0 0 0 2
+D1
+~
+~
+0 0 13141
+D3
+~
+~
+0 0 13138
+S
+#13140
+The Orange Brick Road~
+  You are on an interesting orange-colored brick road. People bustle and
+bustle around you as you walk by. Stretching high over the buildings you 
+can see a mighty castle to the south-east. Just down the road to the east
+a forest of tall oaks and pines reaches into the horizon. The city gate is
+to the west.
+~
+131 32768 0 0 0 1
+D1
+~
+~
+0 0 13138
+D3
+You see a sturdy gate set into a high stone wall.
+~
+gate~
+1 0 3203
+S
+#13141
+A dirt road~
+  You are walking along a dark, winding road. The roadside is filled with
+dark, ominous trees and sounds of feirce animals. A large, eerie thicket
+lies far ahead to the north, while Dun Liu lies just to the west. The dirt
+road continues north and west.
+~
+131 32768 0 0 0 2
+D0
+~
+~
+0 0 13143
+D3
+~
+~
+0 0 13139
+S
+#13142
+The King's Bedchamber~
+  Here is where thte King E'douird spends his long nights. As you look around
+you notice that it is very defendable and has guards walk by regularly. In 
+fact, it sounds like the guards now are coming now...
+~
+131 8 0 0 0 0
+D5
+~
+~
+0 0 13101
+S
+#13143
+A dirt road~
+  You are walking along a dark, winding road. The roadside is filled with
+dark, ominous trees and sounds of feirce animals. There is a strange thicket
+to the north, growing creepier and scarier. The dirt road continues south
+and west.
+~
+131 32769 0 0 0 2
+D2
+~
+~
+0 0 13141
+D3
+~
+~
+0 0 13145
+S
+#13144
+A winding staircase~
+  You are standing on a dark, dank staircase. As you climb up step by step
+all you can see is a tiny light comming from the top. All sorts of insects
+pass you on their way to forage for food. As you climb you dodge various
+spider webs and disgusting little insect nests that would make any other
+person vomit uncontrollably. Whoever is at the top must have a strong stomach.
+~
+131 9 0 0 0 0
+D4
+~
+~
+0 0 13146
+D5
+~
+trapdoor~
+1 0 13105
+S
+#13145
+A dirt road~
+  You are walking along a dark, winding road. The roadside is filled
+with dark, ominous trees and sounds of feirce animals. A dark forest
+lies somewhere off to the north, grownig creepier the longer you
+look at it. The dirt road continues east and west.
+~
+131 32769 0 0 0 2
+D1
+~
+~
+0 0 13143
+D3
+~
+~
+0 0 13147
+S
+#13146
+A winding staircase~
+  You are standing on a dark, dank staircase. As you climb up step by step
+all you can see is a tiny light comming from the top. All sorts of insects
+pass you on their way to forage for food. As you climb you dodge various
+spider webs and disgusting little insect nests that would make any other
+person vomit uncontrollably. Whoever is at the top must have a strong stomach.
+~
+131 9 0 0 0 0
+D4
+~
+~
+0 0 13148
+D5
+~
+~
+0 0 13144
+S
+#13147
+A dirt road~
+  You are walking along a dark, winding road. The roadside is filled
+with dark, ominous trees and sounds of feirce animals. A dark forest
+lies just a few steps to the north, filled with mystery. The dirt road
+continues north and east.
+~
+131 32769 0 0 0 2
+D0
+~
+~
+0 0 13149
+D1
+~
+~
+0 0 13145
+S
+#13148
+A winding staircase~
+  You are standing on a dark, dank staircase. As you climb up step by step
+all you can see is a tiny light comming from the top. All sorts of insects
+pass you on their way to forage for food. As you climb you dodge various
+spider webs and disgusting little insect nests that would make any other
+person vomit uncontrollably. Whoever is at the top must have a strong stomach.
+~
+131 9 0 0 0 0
+D4
+~
+~
+0 0 13150
+D5
+~
+~
+0 0 13146
+S
+#13149
+A dirt road~
+  You are walking along a dark, winding road. The roadside is filled
+with dark, ominous trees and sounds of feirce animals. You are nearing
+a dark thicket, which looks to be just north of you.  The dirt road 
+continues south, back towards the castle town of Dun Liu.
+~
+131 32773 0 0 0 2
+D0
+~
+~
+0 0 13151
+D2
+~
+~
+0 0 13147
+S
+#13150
+A winding staircase~
+  You are standing on a dark, dank staircase. As you climb up step by step
+all you can see is a tiny light comming from the top. All sorts of insects
+pass you on their way to forage for food. As you climb you dodge various
+spider webs and disgusting little insect nests that would make any other
+person vomit uncontrollably. Whoever is at the top must have a strong stomach.
+~
+131 8 0 0 0 0
+D4
+~
+~
+0 0 13152
+D5
+~
+~
+0 0 13148
+S
+#13151
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... The road
+goes back south, while the thicket continues north, east, and west.
+~
+131 32769 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13153
+D2
+~
+~
+0 0 13149
+D3
+~
+~
+0 0 13197
+S
+#13152
+A winding staircase~
+  You are standing on a dark, dank staircase. As you climb up step by step
+all you can see is a tiny light comming from the top. All sorts of insects
+pass you on their way to forage for food. As you climb you dodge various
+spider webs and disgusting little insect nests that would make any other
+person vomit uncontrollably. Whoever is at the top must have a strong stomach.
+stomach.
+~
+131 0 0 0 0 0
+D4
+~
+~
+0 0 13136
+D5
+~
+~
+0 0 13150
+S
+#13153
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13155
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13197
+S
+#13154
+The end of a hidden tunnel~
+  The gremlin is long gone, so you must be inside the fortress. Now that
+you're in, how're you going to get back?  There is a trapdoor above you.
+~
+131 0 0 0 0 0
+D4
+~
+door trap trapdoor~
+1 0 13102
+S
+#13155
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13157
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13197
+S
+#13156
+A small underground passage~
+  You are at the top of a tiny passage. Solid rock forms the walls of the
+tunnel and you can barely see in any direction. There is a metal grate
+above you and the passage continues below you.
+~
+131 33025 0 0 0 0
+D4
+~
+grate~
+1 0 13135
+D5
+~
+~
+0 0 13158
+S
+#13157
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13159
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13197
+S
+#13158
+A small underground passage~
+  You are at the top of a tiny passage. Solid rock forms the walls of the
+tunnel and you can barely see in any direction. The sound of rushing
+water comes from underneath you, along with the usual squeaks and moans
+of it's residents. The passage continues above you and the sewer flows
+below you.
+~
+131 33025 0 0 0 0
+D4
+~
+~
+0 0 13156
+D5
+~
+~
+0 0 13160
+S
+#13159
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13161
+D3
+~
+~
+0 0 13197
+S
+#13160
+In the sewers~
+  You are in a deep, dark sewer. You are standing at in a chamber that
+spreads in almost every direction. Slime and sludge oozes all around
+you. Rats and vermin spread through the tunnels like a disease. The
+sewer continues to the north, south, east, and west, with a tunnel
+leading up.
+~
+131 33025 0 0 0 0
+D0
+~
+~
+0 0 13162
+D1
+~
+~
+0 0 13164
+D2
+~
+~
+0 0 13166
+D3
+~
+~
+0 0 13170
+D4
+~
+~
+0 0 13158
+S
+#13161
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13163
+S
+#13162
+In the sewers~
+  You are in a deep, dark sewer. You are standing at in a chamber that
+spreads in almost every direction. Slime and sludge ooze all around
+you. Rats and vermin spread through the tunnels like a disease. The
+sewer continues to the north and south.
+~
+131 33025 0 0 0 0
+D0
+~
+~
+0 0 13172
+D2
+~
+~
+0 0 13160
+S
+#13163
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13165
+D3
+~
+~
+0 0 13197
+S
+#13164
+In the sewers~
+  You are in a deep, dark sewer. You are standing at in a chamber that
+spreads in almost every direction. Slime and sludge ooze all around
+you. Rats and vermin spread through the tunnels like a disease. The
+sewer continues to the east and west.
+~
+131 33025 0 0 0 0
+D1
+~
+~
+0 0 13174
+D3
+~
+~
+0 0 13160
+S
+#13165
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13167
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13197
+S
+#13166
+In the sewers~
+  You are in a deep, dark sewer. You are standing at in a chamber that
+spreads in almost every direction. Slime and sludge ooze all around
+you. Rats and vermin spread through the tunnels like a disease. The
+sewer continues to the north and south.
+~
+131 32768 0 0 0 0
+D0
+~
+~
+0 0 13160
+D2
+~
+~
+0 0 13176
+S
+#13167
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13169
+D3
+~
+~
+0 0 13197
+S
+#13168
+In the sewers~
+You are in an unfinished room.
+~
+131 257 0 0 0 0
+S
+#13169
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13171
+S
+#13170
+In the sewers~
+  You are in a deep, dark sewer. You are standing at in a chamber that
+spreads in almost every direction. Slime and sludge ooze all around
+you. Rats and vermin spread through the tunnels like a disease. The
+sewer continues to the east and west.
+~
+131 33025 0 0 0 0
+D1
+~
+~
+0 0 13160
+D3
+~
+~
+0 0 13180
+S
+#13171
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13173
+D3
+~
+~
+0 0 13197
+S
+#13172
+In the sewers~
+  You are in a deep, dark sewer. You are standing at in a chamber that
+spreads in almost every direction. Slime and sludge ooze all around
+you. Rats and vermin spread through the tunnels like a disease. The
+only exit is to the south.
+~
+131 33025 0 0 0 0
+D2
+~
+~
+0 0 13162
+S
+#13173
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13175
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13197
+S
+#13174
+In the sewers~
+  You are in a deep, dark sewer. You are standing at in a chamber that
+spreads in almost every direction. Slime and sludge ooze all around
+you. Rats and vermin spread through the tunnels like a disease. The
+sewer continues west and there appears to be some kind of tunnel going
+down.
+~
+131 33025 0 0 0 0
+D3
+~
+~
+0 0 13164
+D5
+~
+~
+0 0 13182
+S
+#13175
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13177
+D3
+~
+~
+0 0 13197
+S
+#13176
+In the sewers~
+  You are in a deep, dark sewer. You are standing at in a chamber that
+spreads in almost every direction. Slime and sludge ooze all around
+you. Rats and vermin spread through the tunnels like a disease. The
+only exit is to the north.
+~
+131 33025 0 0 0 0
+D0
+~
+~
+0 0 13166
+S
+#13177
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13179
+S
+#13178
+In the sewers~
+You are in an unfinished room.
+~
+131 257 0 0 0 0
+S
+#13179
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13181
+D3
+~
+~
+0 0 13197
+S
+#13180
+In the sewers~
+  You are in a deep, dark sewer. You are standing at in a chamber that
+spreads in almost every direction. Slime and sludge ooze all around
+you. Rats and vermin spread through the tunnels like a disease. The
+only exit is to the east.
+~
+131 33025 0 0 0 0
+D1
+~
+~
+0 0 13170
+S
+#13181
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13183
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13197
+S
+#13182
+A slimy passage~
+  You have entered a slimy passage. There is some sort of ooze covering the
+walls, the floor, EVERYTHING. The air is dark and damp and everywhere seems
+to lead nowhere. There are exits above and below you.
+~
+131 33025 0 0 0 0
+D4
+~
+~
+0 0 13174
+D5
+~
+~
+0 0 13184
+S
+#13183
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13185
+D3
+~
+~
+0 0 13197
+S
+#13184
+A slimy passage~
+  You have entered a slimy passage. There is some sort of ooze covering the
+walls, the floor, EVERYTHING. The air is dark and damp and everywhere seems
+to lead nowhere. There is an exit to the west and an exit leading up.
+~
+131 257 0 0 0 0
+D3
+~
+~
+0 0 13186
+D4
+~
+~
+0 0 13182
+S
+#13185
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13187
+S
+#13186
+A slimy passage~
+  You have entered a slimy passage. There is some sort of ooze covering the
+walls, the floor, EVERYTHING. The air is dark and damp and everywhere seems
+to lead nowhere. There are exits to the east and south.
+~
+131 257 0 0 0 0
+D1
+~
+~
+0 0 13184
+D2
+~
+~
+0 0 13188
+S
+#13187
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13189
+D3
+~
+~
+0 0 13197
+S
+#13188
+A slimy passage~
+  You have entered a slimy passage. There is some sort of ooze covering the
+walls, the floor, EVERYTHING. The air is dark and damp and everywhere seems
+to lead nowhere. There are exits to the north and east.
+~
+131 257 0 0 0 0
+D0
+~
+~
+0 0 13186
+D1
+~
+~
+0 0 13190
+S
+#13189
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13191
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13197
+S
+#13190
+A slimy passage~
+  You have entered a slimy passage. There is some sort of ooze covering the
+walls, the floor, EVERYTHING. The air is dark and damp and everywhere seems
+to lead nowhere. There are exits to the west and south.
+~
+131 257 0 0 0 0
+D2
+~
+~
+0 0 13192
+D3
+~
+~
+0 0 13188
+S
+#13191
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13193
+D3
+~
+~
+0 0 13197
+S
+#13192
+A slimy passage~
+  You have entered a slimy passage. There is some sort of ooze covering the
+walls, the floor, EVERYTHING. The air is dark and damp and everywhere seems
+to lead nowhere. There is an exit to the north and another tunnel leading
+down.
+~
+131 257 0 0 0 0
+D0
+~
+~
+0 0 13190
+D5
+~
+~
+0 0 13194
+S
+#13193
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13197
+D3
+~
+door secret back~
+2 13110 13195
+S
+#13194
+A dark crevice~
+  You have entered a deep, dark crevice. There is an eerie lack of light
+here, destroyed the instant you enter. Apparently there is little or no life
+down here... as if anything could actually be disgusting enough to survive
+down here anyway. The tunnel continues below you and it empties into a
+passage above you.
+~
+131 257 0 0 0 0
+D4
+~
+~
+0 0 13192
+D5
+~
+~
+0 0 13196
+S
+#13195
+A back room~
+  You stand amid piles and piles of miscellaneous junk. Scrolls, potions,
+staves, wands, anything you can imagine. There is a door on the west wall,
+leading back into some shop, if you could only figure out how to use it...
+There is a door to the west and east.
+~
+131 0 0 0 0 0
+D1
+~
+door secret back~
+2 13111 13193
+S
+#13196
+A slimy passage~
+  You have entered a deep, dark crevice. There is an eerie lack of light
+here, destroyed the instant you enter. Apparently there is little or no life
+down here... as if anything could actually be disgusting enough to survive
+down here anyway. The tunnel continues above and below you.
+~
+131 257 0 0 0 0
+D4
+~
+~
+0 0 13194
+D5
+~
+~
+0 0 13198
+S
+#13197
+A dark thicket~
+  You are in a very dark thicket. All around you different trees and plants
+sprout up, making everything feel like it's closing in on you. Strange noises
+come from deeper into the thicket, made by some tortured animal... There
+appears to be no way out of this hellish place, all the paths look the same!
+~
+131 1 0 0 0 4
+D0
+~
+~
+0 0 13197
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13151
+D3
+~
+~
+0 0 13197
+S
+#13198
+A dark crevice~
+  The dark crevice ends abruptly here. There is a horrible stench, much
+worse than any other smell in all of the tunnels. There is an eerie lack
+of scum and rats in this room, making in very quiet... too quiet.
+~
+131 261 0 0 0 0
+D4
+~
+~
+0 0 13196
+S
+#13199
+The Cheese Chamber~
+  Welcome to the Cheese Chamber.  Here lies the various tasks Phondew set
+out to complete but never has, including this area!  You notice packages
+of cheese strewn about without any order in this room of chaos.  An orange
+couch lies in a corner and there is a area of the room devoted to worshipping
+the Sacred Cow, whom resides in the very room at all times looking to convert
+others to the Way Of The Cow.
+~
+131 1028 0 0 0 0
+S
+$~

@@ -1,0 +1,259 @@
+#18701
+cow bell~
+a cow bell~
+A small cow bell is on the ground here.~
+~
+13 0 0 0 0 5 0 0 0
+0 0 0 0
+1 20 25.00
+E
+cow bell~
+This is a minature version of a normal cow bell.  It has a leather strap for
+hanging about a neck.
+~
+#18702
+ender spear~
+an ender spear~
+An ender spear is stuck in the ground here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 12 14
+5 135 20.00
+E
+ender spear~
+This is a small spear, but it is just as deadly sharp as any of its bigger
+cousins.
+~
+#18703
+ender staff~
+an ender staff~
+An ender staff is just lying here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 2 6
+7 155 20.00
+E
+ender staff~
+This staff is carved to have the perfect balance to be used as a weapon.  It is
+a little smaller than a normal staff, but it is quite usable.
+~
+#18704
+ender sword~
+an ender sword~
+An ender sword is here gleaming in the light.~
+~
+5 0 0 0 0 8193 0 0 0
+0 4 3 3
+7 210 20.00
+E
+ender sword~
+This little sword is polished to a mirror reflection and is razor sharp.
+~
+#18705
+ender king sceptre~
+the ender king's sceptre~
+The ender king's sceptre is unceremoniously lying on the ground here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+5 800 15.00
+E
+ender king sceptre~
+This is a staff that can be used to guide your way, it seems like it may even 
+be more than that.
+~
+A
+19 1
+A
+1 -1
+A
+14 -30
+#18706
+ender queen jewel~
+the ender queen's jewel~
+The ender queen's jewel has been tossed here.~
+~
+8 1 0 0 0 16389 0 0 0
+0 0 0 0
+3 850 15.00
+E
+ender queen jewel~
+This is a simple-looking jewel that the ender queen usually keeps close to
+her heart.  You begin to wonder if someone is looking for it.
+~
+A
+24 -2
+A
+3 1
+A
+12 3
+#18707
+ender dirk~
+an ender dirk~
+An ender dirk is stuck in a piece of wood here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 8 11
+2 76 25.00
+E
+ender dirk~
+This is a slender-bladed weapon.  It is quite small in size and is razor sharp,
+ideal for piercing the flesh of an opponent.
+~
+A
+18 1
+#18708
+ender small knife~
+a small ender knife~
+A small ender knife is here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 5 11
+2 55 20.00
+E
+ender small knife~
+This is a small knife that is very sharp.
+~
+#18709
+ender pouch~
+an ender's pouch~
+An ender's pouch is sitting on the ground here.~
+~
+15 0 0 0 0 16385 0 0 0
+50 1 -1 0
+2 75 20.00
+E
+ender pouch~
+This is a small pouch with a deep bottom, you wonder how much you can actually
+fit in such a small pouch.
+~
+#18710
+ender ball~
+a little ender ball~
+A little ender ball is on the ground here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+3 10 2.00
+E
+ender ball~
+This is a simple ball that all kids seem to like to play with.
+~
+#18711
+ender pie~
+an ender pie~
+An ender pie is cooling here.~
+~
+19 0 0 0 0 16385 0 0 0
+5 0 0 0
+2 15 13.00
+E
+ender pie~
+This is a meat based pie that looks quite tasty.
+~
+#18712
+ender cake~
+an ender cake~
+An ender cake is here.~
+~
+19 0 0 0 0 16385 0 0 0
+4 0 0 0
+2 15 13.00
+E
+ender cake~
+This is a sweet cake, that is quite small but looks very appetizing.
+~
+#18713
+ender hammer smithy~
+an ender smithy's hammer~
+An ender smithy's hammer is resting here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+10 25 25.00
+E
+ender hammer smithy~
+This is strong but small hammer that has been well used to pound metal.
+~
+#18714
+ender sewing kit tailor~
+an ender tailor's sewing kit~
+An ender tailor's sewing kit is here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 10 14.00
+E
+ender sewing kit tailor~
+This is a tiny little sewing kit.  How can anyone use needles that small?
+~
+#18715
+fountain water floating~
+a floating fountain~
+A small fountain is floating just above the ground here.~
+~
+23 64 0 0 0 0 0 0 0
+999999 999999 15 0
+1000004 0 100.00
+E
+fountain water floating~
+This is some kind of magical fountain.  It probably should not be here, who
+knows where it originally came from.
+~
+#18716
+key silver simple~
+a simple silver key~
+A simple silver key is lying on the ground here.~
+~
+18 0 0 0 0 16385 0 0 0
+2 0 0 0
+1 0 100.00
+E
+key silver simple~
+This key is small but sturdy, you wonder what it opens...
+~
+#18717
+rust rusty key~
+a rusty key~
+A small rusty key is lying half hidden in the dirt here.~
+~
+18 65536 0 0 0 16385 0 0 0
+0 0 0 0
+1 100 15.00
+#18718
+wood wooden chest~
+a wooden chest~
+A large wooden chest is here.~
+~
+15 0 0 0 0 0 0 0 0
+100 5 -1 0
+200 1 100.00
+#18719
+pile coins gold~
+a huge pile of gold coins~
+A huge pile of gold coins is here.~
+~
+20 0 0 0 0 1 0 0 0
+250 0 0 0
+20 0 70.00
+#18720
+torak dagger~
+Torak's Dagger~
+Torak's Dagger is lying here.~
+~
+5 0 0 0 0 8193 0 0 0
+2 3 4 11
+2 3020 30.00
+A
+18 2
+A
+19 1
+#18721
+green beer~
+a bottle of green beer~
+A bottle of green beer is here waiting to be drunk.~
+~
+10 1 0 0 0 1 0 0 0
+30 66 36 1
+1 10000 100.00
+$~

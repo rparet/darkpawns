@@ -1,0 +1,153 @@
+#4101
+In the Lakeshore Tavern~
+   You are standing in the common room of the Lakeshore Tavern. The rough -
+hewn walls of stone hold many portraits of heroes and legends from the
+past. Maybe one day, you could have your portrait here too. The tables
+and chairs surrounding you look comfortable and inviting, but not as
+inviting as the roaring fireplace to the east.  
+   To the southeast, a bar where one can order drinks or food seats 
+thirsty patrons.
+~
+41 32776 0 0 0 0
+D1
+~
+~
+0 0 4102
+D2
+~
+~
+0 0 9714
+S
+#4102
+In the Lakeshore Tavern~
+   You are standing before a roaring fireplace in the Lakeshore
+Tavern. The warmth of the fireplace is very comforting, as is the
+general atmosphere of the tavern. It's no mystery as to why so
+many people like to come here.
+   Just south of here, the back door of the tavern leads out to
+the docks.
+~
+41 32776 0 0 0 0
+D2
+~
+~
+0 0 4104
+D3
+~
+~
+0 0 4101
+S
+#4103
+On the Docks at the Lakeshore Tavern~
+   You are standing on the old wooden docks just behind the Lakeshore
+Tavern.  Looking out east over the beautiful Lake Kialoren, you can
+only wonder at the majesty that is nature. The fast flowing Bhyroga
+River flows into the lake just north of you. To the south, you can
+see the back door of the Lakeshore Tavern.
+~
+41 32768 0 0 0 0
+D0
+~
+~
+0 0 9706
+D2
+~
+~
+0 0 4105
+S
+#4104
+In the Lakeshore Tavern~
+   You are standing just before the back door of the Lakeshore Tavern.
+The common room is full of life as people sit around at tables with
+mugs of ale, recounting numerous tales of bravery and heroism. Just
+south of here, you can see the bar, where fine food and drink is 
+served.
+   To the north, a cozy fireplace is embedded in the wall.
+~
+41 32776 0 0 0 0
+D0
+~
+~
+0 0 4102
+D1
+~
+door~
+1 0 4105
+D2
+~
+~
+0 0 4107
+D3
+~
+~
+0 0 9714
+S
+#4105
+On the Docks at the Lakeshore Tavern~
+   You are standing on some old wooden docks just behind the Lakeshore
+Tavern.  Looking out east over the beautiful Lake Kialoren, you can only
+wonder at the majesty that is nature. A door to your west goes to inside
+the Lakeshore Tavern.
+~
+41 32772 0 0 0 0
+D0
+~
+~
+0 0 4103
+D3
+~
+door~
+1 0 4104
+S
+#4106
+In the Lakeshore Tavern~
+   The common room bustles with life and looks very much as if it never
+dies.  The wooden spiral stairs leading up to the second floor here seem
+like they've been here for centuries, but they're just as firm as when
+they were first put in. A welcoming bar to the east offers refreshment.
+~
+41 32776 0 0 0 0
+D0
+~
+~
+0 0 9714
+D1
+~
+~
+0 0 4107
+S
+#4107
+In the Lakeshore Tavern~
+   You are standing beside the bar inside the common room of the Lakeshore
+Tavern.  The worn and polished bar looks grand, despite its age. The aged
+innkeeper stands behind the bar, directing his workers with a kind, but 
+firm tone of voice.  Waitresses walk in and out of the door to the east
+that leads to the kitchen.
+~
+41 32776 0 0 0 0
+D0
+~
+~
+0 0 4104
+D1
+~
+door~
+2 -1 4108
+D3
+~
+~
+0 0 4106
+S
+#4108
+The Kitchen of the Lakeshore Tavern~
+   You are standing in the kitchen of the Lakeshore Tavern. People are hard
+at work here, trying to make the wonderful food that the tavern offers to
+its patrons. The smell of the food being cooked here is absolutely delightful.
+~
+41 32776 0 0 0 0
+D3
+~
+door~
+2 -1 4107
+S
+$~

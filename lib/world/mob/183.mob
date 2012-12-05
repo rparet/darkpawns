@@ -1,0 +1,96 @@
+#18301
+piece red checker~
+the red checker piece~
+A red checker piece tries to jump on you.
+~
+It looks just like a regular plstic red checker piece, only larger. Theres
+is a small face with dark, beady eyes and a mouth rimmed with sharp teeth.
+~
+73 0 0 0 8 0 0 0 500 E
+3 17 7 3d5+40 1d4+1
+10 350
+8 8 0
+BareHandAttack: 9
+Race: 25
+E
+#18302
+piece black checker~
+the black checker piece~
+A black checker piece tries to jump on you.
+~
+It looks just like a black checker pience, only much larger.  There is a small
+face with dark beady eyes and a moth rimmed with sharp teeth.
+~
+73 0 0 0 8 0 0 0 -500 E
+4 16 6 4d5+50 2d4+2
+10 600
+8 8 0
+BareHandAttack: 9
+Race: 25
+E
+#18303
+piece king red checker~
+the red checker king~
+A red checker king attempts to crush you.
+~
+It looks like a checker king, no doubt about that except for the face with
+those dark eyes and mouth with sharp teeth, you can imagine it playing a big
+roll in a game of checkers.
+~
+73 0 0 0 8 0 0 0 600 E
+5 15 5 5d5+60 2d4+2
+25 900
+8 8 0
+BareHandAttack: 9
+Race: 25
+E
+#18304
+piece king black checker~
+the black checker king~
+A black checker king attempts to crush you.
+~
+It looks like a checker king, no doubt about that except for the face with
+those dark eyes and mouth with sharp teeth, you can imagine it playing a big
+roll in a game of checkers.
+~
+73 0 0 0 8 0 0 0 -600 E
+5 15 5 5d5+60 2d4+2
+25 900
+8 8 0
+BareHandAttack: 9
+Race: 25
+E
+#18305
+cleaner~
+a Big Burly Cleaner~
+A very large, burly cleaner is cleaning up here.
+~
+What a nasty looking being.  It is just a lump of twisted flesh, that looks
+somewhat humaniod, but still..  There are scars all over his fleshy body.
+There is no way this could be a natural creature.
+~
+2124 0 0 0 0 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+0 10500
+8 8 1
+Race: 25
+E
+#18306
+cuchi~
+Cuchi~
+A cute little striped cat is here.
+~
+This is a cute, but seemingly magical cat.  I wouldn't mess with her, she is
+someones favorite pet.  She (you can tell it is a she by looking for, well,
+let us just say that she has the 'parts' of a female cat) is smallish with
+grey and black stripes and some well placed tuffs of white fur.  She is so
+cute it makes you feel all warm and fuzzy just looking at her.
+~
+2123 0 0 0 0 0 0 0 0 E
+36 -16 -26 36d5+3912 24d4+24
+0 363000
+6 6 2
+BareHandAttack: 8
+Race: 25
+E
+$

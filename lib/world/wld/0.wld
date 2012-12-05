@@ -1,0 +1,221 @@
+#0
+The Void~
+  You don't think that you are not floating in nothing.
+~
+0 12 0 0 0 1
+D4
+void~
+~
+0 -1 8004
+S
+#1
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 131208 0 0 0 1
+S
+#3
+A Totally Empty Room~
+  The walls are completely bare...nothing at all in the room...weird.
+~
+0 1036 0 0 0 0
+S
+#4
+Frontline's Sphere~
+You float inside a massive clear glass sphere that seems to be suspended in
+fire! If you will yourself, you find that you can move about the sphere with
+some difficulty.  Although it is clear that the blazing fires of Hell lie
+just outside the walls of this sphere, the atmosphere inside is almost too
+comfortable. Many random objects float about in this space with you, some
+of which are charred corpses. Hrmm.. hope Frontline isn't mad at you.
+~
+0 655500 0 0 0 0
+S
+#5
+Falling...~
+You fall and fall and fall and fall and fall and fall
+and fall and fall and fall and fall and fall and fall
+and fall and fall and fall and fall and fall....
+and then you die.
+~
+0 2 0 0 0 0
+S
+#7
+The Tower of Aralius~
+   You stand in a small, circular room atop a tall granite tower.
+Below you, you can see the wispy tendrils of cumulus clouds that
+conceal the tower from the mortal world below.
+   Out the northern window you can see a dark sphere floating in
+a layer of suspended ice crystals where the cold emptiness of
+space meets the outer reaches of the planet.  A few eruptions of
+bright light stream from the sphere, often followed by loud
+explosions and swearing.
+~
+0 56 0 0 0 0
+S
+#23
+Skarash's Room~
+DAMMIT SKARASH, GET TO WORK!!!! :)
+~
+0 524288 0 0 0 0
+E
+sign~
+Welcome to Skarash's Wholesale Bordello.
+Please ask about our buy one get one free special.
+~
+S
+#33
+A Safe Haven~
+  This ancient room whispers of unfathomable history and wealth.  Intricate 
+marble carvings interlace and entwine within themselves along the thick
+columns that line the walls.  Brass-leaf lanterns hang suspended from the
+ceiling, bathing everything in an ethereal glow.  Rich, plush rugs cover
+the black marble floor, scattered with silken and velvet pillows.  Above,
+three cresent moons have been carved from the cathedral ceiling to gaze
+upon the heavens above.
+~
+0 524352 0 0 0 0
+S
+#34
+Prep Room~
+  You find yourself in the prep room for battle, various artifacts and 
+weaponry line the walls in honor of the great victors that have passed
+before.  Large mystical runes lie to the east, creating a doorway into
+the onslaught.  A peaceful aura is settled around the room, allowing 
+you to prepare for the battle that awaits.
+~
+0 16 0 0 0 0
+D1
+~
+~
+0 0 8152
+S
+#41
+The Immortal Conference Room~
+You are in a huge stone room.  The walls are made of huge grey-stone blocks
+that seem to reach to the sky.  In the center of the room is a huge wooden
+table that is perfectly round.  In the center of the table is a large
+fire that lights most of the room.  There are torches along the walls that
+provide even more light.  There are huge wooden chairs around the room that
+allow all of the pantheon to assemble in some sort of order.
+~
+0 56 0 0 0 0
+E
+table~
+It is a huge wooden table, probably 25 feet across, and perfectly round.
+The wood is a dark rich wood, unlike any that comes from nature.
+~
+E
+chair chairs~
+They are huge wooden seats made from the same wood that the
+round table are made from.  They are fit for a God.
+~
+S
+#42
+The Hall of Fortune~
+   You are in a huge room, ballroom-sized, in fact.  Tapestries
+of the greatest battles in history adorn the walls.  In glass
+cases are some of the most exquisite pieces of art ever created.
+Jewels, paintings, swords, rings, goblets - it is all here!  You
+must be a welcome guest, for not just anyone should be here.
+~
+0 525832 0 0 0 0
+S
+#43
+Roach Coach~
+You are in a seedy, vile place.  What a nasty looking area.  It must breed
+some nasty beings.  Little roachs scurry around, but there are some large
+footprints here as well.  Strange.
+~
+0 1 0 0 0 0
+E
+footprint footprints~
+The look like huge insect footprints.  As big as a man's in fact.  Would
+hate to run into the thing that made those.
+~
+S
+#44
+A Stable (Buy 'em Here)~
+You are in, imagine this, a stable.  You know.  Where you buy horses.
+~
+0 0 0 0 0 0
+D1
+~
+~
+0 0 45
+D3
+~
+~
+0 0 42
+S
+#45
+A Stable (Rent 'em Here)~
+You are in, imagine this, a stable.  You know.  But you don't buy them
+here, you give your horse a place to sleep here.
+~
+0 0 0 0 0 0
+D3
+~
+~
+0 0 44
+S
+#69
+Strawberry Fields Forever~
+.
+~
+0 524 0 0 0 0
+D0
+~
+~
+0 0 69
+D1
+~
+~
+0 0 69
+D2
+~
+~
+0 0 69
+D3
+~
+~
+0 0 69
+D4
+Temple
+~
+~
+0 -1 69
+D5
+~
+~
+0 0 69
+S
+#72
+Nevyn's Room~
+  The room before you reeks of the sharp, clean smell of plants, spring
+growth, rotting leaves, and biting nettles. A large iron cauldron stands in
+the center of the room cooking over redly glowing coals. Steam rises from
+under the cauldron's lid. The walls are crammed with boxes; the ceiling is
+hung with bunches of strange herbs, many of them still fresh. You hear a
+sudden scuttling noise, and one of the boxes falls from a shelf, spilling
+black seeds over the dirt floor.
+~
+0 918124 0 0 0 0
+E
+cauldron inscription~
+Ozymandias sucks monkey balls!
+~
+S
+#90
+Walking the Etherial Plane~
+   You are here..yet you are not. This place exists in a single time frame
+and nothing else has meaning here. For an instant, you are walking the
+hills near the Pagoda, the next you're rowing across a vast ocean. Your
+mind is generating many images all of which appear before you.
+~
+0 655432 0 0 0 0
+S
+$~

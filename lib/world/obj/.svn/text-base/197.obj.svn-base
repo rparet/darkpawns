@@ -1,0 +1,432 @@
+#19700
+metal spider~
+a small metal spider~
+A small metal spider is resting here.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#19701
+stone tooth~
+a large stone tooth~
+A strange stone carved to look like a tooth sits here.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+4 0 100.00
+#19702
+skeleton key~
+a small bone key~
+You see a small skeleton key.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#19703
+fancy brass key~
+a fancy brass key~
+You spot a fancy brass key.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#19704
+cast-iron key~
+a cast-iron key~
+Lying here is a cast-iron key.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 0 100.00
+#19705
+ruby key~
+a sparkling ruby key~
+A sparkling ruby key catches your eye.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#19706
+wooden key~
+a wooden key~
+A wooden key lies nearby.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#19707
+iron key~
+an iron key~
+A key made of iron is here.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 0 100.00
+#19708
+paper~
+a slip of paper with "30-19-45" written upon it~
+A small slip of paper is here.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#19709
+severed hand~
+a severed hand~
+A severed hand is dripping blood here.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#19710
+stone key~
+a stone key~
+A stone key defies gravity and floats in the air.~
+~
+18 66 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#19711
+rusty key~
+a rusty key~
+A rusty key grabs your attention.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#19712
+thick steel key~
+a thick steel key~
+You have found a thick steel key.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 0 100.00
+#19713
+tiny silver key~
+a tiny silver key~
+You see a tiny silver key.~
+~
+18 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 1000.00
+#19714
+heap mouldering tapestry~
+a heap of mouldering tapestry~
+A heap of mouldering tapestry adorns the floor triumphantly.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+100 0 100.00
+#19715
+pile stone rubble~
+a pile of stone rubble~
+A pile of stone rubble has fallen from the walls.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+50 0 100.00
+#19716
+dust layer~
+a thick layer of dust~
+The floor is carpeted with a thick layer of dust.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 100.00
+#19717
+leg bone~
+a human leg bone~
+Someone has lost their leg bone here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 4 7
+2 10 100.00
+#19718
+pile dirty rags~
+a pile of dirty rags~
+A pile of dirty rags has been abandoned here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 100.00
+#19719
+gold coin~
+a single gold coin~
+A single gold coin lies here!~
+~
+20 0 0 0 0 1 0 0 0
+1 0 0 0
+1 1 100.00
+#19720
+pile gold coins~
+a small pile of gold coins~
+You stumble upon a small pile of coins.~
+~
+20 0 0 0 0 1 0 0 0
+10 0 0 0
+1 10 100.00
+#19721
+heap gold coins~
+a big heap of gold coins~
+You see a large heap of gold coins!~
+~
+20 0 0 0 0 1 0 0 0
+100 0 0 0
+1 100 100.00
+#19722
+bat droppings~
+a small pile of bat droppings~
+A kind bat has left a present of its droppings here for you!~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+1 0 100.00
+#19723
+rat droppings~
+a small pile of rat droppings~
+A fragrant pile of rat droppings lie steaming on the floor.~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 1
+1 0 100.00
+#19724
+water barrel~
+a large water barrel~
+You notice a large water barrel.~
+~
+17 0 0 0 0 1 0 0 0
+20 3 9 0
+25 10 100.00
+#19725
+wine barrel~
+a large wine barrel~
+You notice a large wine barrel.~
+~
+17 0 0 0 0 1 0 0 0
+20 20 2 0
+25 10 10.00
+#19726
+broken barrel~
+a broken barrel~
+A broken barrel sits here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+25 0 100.00
+#19727
+wine bottle~
+a wine bottle~
+You take note of a wine bottle.~
+~
+17 0 0 0 0 1 0 0 0
+3 3 2 0
+4 2 100.00
+#19728
+broken bottle~
+a broken bottle~
+A broken bottle with VERY sharp edges sits here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 6 3
+1 0 100.00
+#19729
+small wooden chest~
+a small wooden chest~
+Sitting peacefully on the ground is a small wooden chest.~
+~
+15 0 0 0 0 1 0 0 0
+40 5 -1 0
+15 15 100.00
+#19730
+painting portrait~
+a fabulous portrait~
+A beautiful portrait of a lovely lady hangs on a wall.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+5 50 100.00
+#19731
+bleached human skull~
+a bleached human skull~
+Someone lost their head and left their skull here!~
+~
+13 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 0 50.00
+A
+3 2
+#19732
+bubbly potion~
+a strange bubbly potion~
+A strange bubbly potion catches your attention.~
+~
+10 2 0 0 0 1 0 0 0
+10 29 1 34
+3 150 75.00
+#19733
+dented helmet~
+an old dented helmet~
+An old dented helmet has been discarded here.~
+~
+9 0 0 0 0 17 0 0 0
+5 0 0 0
+15 5 5.00
+A
+2 -1
+A
+24 2
+#19734
+rusty sword~
+a rusty sword~
+A rusty-edged sword lies here.~
+~
+5 64 0 0 0 8193 0 0 0
+0 1 12 3
+15 200 205.00
+A
+19 1
+A
+18 -1
+#19735
+leather codpiece~
+a leather codpiece~
+A huge leather codpiece sits erectly here.~
+~
+15 0 0 0 0 2049 0 0 0
+2 15 19713 0
+2 20 100.00
+A
+17 -5
+A
+1 2
+#19736
+twisted stick~
+a twisted stick~
+A twisted stick sits abandoned here.~
+~
+3 65 0 0 0 16385 0 0 0
+20 5 5 30
+1 250 250.00
+#19737
+torch~
+a torch~
+A torch waits for someone to light it.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 6 0
+2 1 100.00
+#19738
+large inlaid chest~
+a large inlaid chest~
+A large inlaid chest takes up a lot of room.~
+~
+15 0 0 0 0 1 0 0 0
+100 5 -1 0
+35 20 100.00
+#19739
+diamond ring~
+a glittering diamond ring~
+Your eye lights upon a glittering diamond ring!~
+~
+8 1 0 0 0 3 0 0 0
+0 0 0 0
+1 1000 10.00
+A
+2 1
+A
+18 3
+#19740
+large warhammer~
+a large warhammer~
+A powerful looking warhammer is begging to be used to smash some skulls.~
+~
+5 640 0 0 0 8193 0 0 0
+0 10 1 6
+50 2000 2000.00
+A
+19 1
+A
+13 -5
+#19741
+human corpse~
+a dead man~
+A man has met his end here.~
+~
+15 0 0 0 0 0 0 0 0
+100 5 -1 0
+600 0 100.00
+#19742
+family jewels~
+the family jewels~
+You have discovered the family jewels!  A man's most prized posessions.~
+~
+8 323 0 0 0 16385 0 0 0
+0 0 0 0
+1 900 20.00
+A
+24 -3
+A
+18 3
+#19743
+paper~
+a slip of paper with some words on it~
+A slip of paper with some words on it lies here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+E
+paper words~
+The writing is smudged in places, and the paper is torn in half, but you can make 
+out some of the writing:
+
+   ________________________________________________
+   |The Keys ........ and ......... ewels!  Don't /
+   | wine cellar is ..... safe.  Be careful when  \
+   | your steps migh ....... down below.  That's  /
+   |______________________________________________\
+~
+#19744
+paper~
+a slip of paper with some words on it~
+A slip of paper with some words on it lies here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+E
+paper words~
+The writing is smudged in places, and the paper is torn, but you can make
+out some of the writing:
+
+   _________________________________
+   |The King ....... guards the key/
+   |Inner Sanctum ......... upstai \
+   |_______________________________/
+~
+#19745
+paper~
+a slip of paper with some words on it~
+A slip of paper with some words on it lies here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+E
+paper words~
+The writing is smudged in places, and the paper is torn, but you can make
+out some of the writing:
+
+       /\/\/\/\/\/\/\/\/\
+       \       _____|   /
+       /       |    |   \
+       \       |    []  /
+       /  _____|____|   \
+       \  |    |    |   /
+       /  |    $    []  \
+       \  |____|____|   /
+       /       |    |   \
+       \/\/\/\/\/\/\/\/\/
+~
+$~

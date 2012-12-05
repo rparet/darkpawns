@@ -1,0 +1,2084 @@
+#5800
+Now Entering The Midlands~
+        Well, welcome to Scythe's second creation and hopefully not
+my last.  This area is based on a trilogy of fantasy books I am reading
+called the Sword of Truth Trilogy by Terry Goodkind.  I admit that it
+is not entirely my creation, but it will make a very interesting area.
+This will be one of the biggest areas on the mud, and it consists of 
+about 5 separate parts.  There are mobs ranging from all levels as
+well as equipment ranging from all levels.  There are a couple of
+REALLY good pieces of equipment in here that should be worth the trouble
+of getting them.  If you have any questions or comments, good or bad, 
+just post them and I will respond.
+~
+58 516 0 0 0 2
+D2
+Looking south you can see a dense forest.
+~
+~
+0 -1 5801
+S
+#5801 
+Entering The Hartland Forest~
+        You stand at the entrance to a rather dense forest.  You are
+surprised to find that you do not feel any dread at entering such a 
+forest, but you actually feel drawn to the forest.  There is an exit 
+to the south.
+~
+57 32772 0 0 0 2
+D0 
+~
+~
+0 0 9025
+D2 
+Looking south you feel a pull towards the dense forest.
+~
+~
+0 -1 5802
+S
+#5802
+In The Hartland Forest~
+        You are now standing in a forest with a very thick canopy.  You
+can hardly see where you entered the forest from due to the fact that
+the canopy blocks out all light from overhead.  The trees around you 
+look to be very old.  Exits lie in all directions.
+~
+58 1 0 0 0 3
+D0
+To the north lies the entrance to the forest, you can barely tell it is
+there due to the darkness.
+~
+~
+0 -1 5801
+D1
+Off to the east, a path cuts through the trees.
+~
+~
+0 -1 5803
+D2
+A well worn path leads off to the south.
+~
+~
+0 -1 5817
+D3
+To the west you can see a somewhat obscured path.
+~
+~
+0 -1 5813
+S
+#5803
+A Path Through The Hartland~
+        You continue on the path, noticing the size of the trees all
+around you.  You feel dwarfed next to these creations of nature.  Their
+sheer size and age amazes you.  You notice a hole in the ground off to
+your right.  The paths continues to the east and west.
+~
+58 1 0 0 0 3
+D1 
+A well worn path continues on to the east.
+~
+~
+0 -1 5804
+D3 
+The path heads west, back through the trees.
+~
+~
+0 -1 5802
+E
+hole~
+You notice a hole in the ground.  It's probably the home of a snake or
+a rodent of some kind.  Other than that, you see nothing out of the 
+ordinary.  
+~
+S
+#5804
+A Worn Path In The Forest~
+        The path continues yet deeper into the forest, you are starting
+to wonder if you would be able to find your way out of here if you go
+much deeper.  You have noticed that there are many creatures that are
+scurrying about, none that are threatening though.  The path turns so 
+that it heads south or west.
+~
+58 1 0 0 0 3
+D2
+To the south a path cuts between the trees.
+~
+~
+0 -1 5805
+D3
+A well worn path leads back to the west.
+~
+~
+0 -1 5803
+S
+#5805
+Deeper In The Forest~
+        You are going deeper and deeper into the forest.  You begin to
+get a faint feeling of magic in the air.  You can feel a powerful source
+of magic is nearby, you just hope that whatever it is, it is friendly.
+The path leads north, east or south.
+~
+58 1 0 0 0 3
+D0
+To the north lies a small brook.
+~
+~
+0 -1 5804
+D1
+You feel a powerful magic source in that direction.
+~
+~
+0 -1 5806
+D2
+To the south you sense a coldness you haven't felt while in the forest
+yet.
+~
+~
+0 -1 5812
+S
+#5806
+Entrance To An Old Cabin~
+        You stand before an old cabin.  From the looks of it this cabin
+has been here for a hundred years.  There is a porch and on the porch 
+you see a rocking chair that looks in perfect condition.  There are two
+windows to the cabin, but they are so dirty that you can't see into the 
+interior of the cabin.  The cabin lies to the north and a path leads off 
+to the east.
+~
+58 0 0 0 0 3
+D0
+To the north you see a door leading into the cabin.
+~
+door~
+1 -1 5811
+D1
+To the east a worn path leads away into the forest.
+~
+~
+0 -1 5807
+E
+rocking chair~
+A fairly new but recently used rocking chair is on the porch.  You are
+not sure if you want to meet it's owner.
+~
+E
+porch~
+The porch is just as old as the rest of the house.  It appears to have
+many loose boards and even has a few missing ones.  You get the feeling
+that whoever lives here doesn't leave too much and doesn't get many 
+visitors.
+~
+S
+#5807
+Further In The Hartland Forest~
+        You can tell that the forest is growing more dense with every
+step you take.  It looks as though soon you will not be able to continue
+walking through the forest.  A path leads to the east and a similar
+path heads off in a westernly direction.
+~
+58 1 0 0 0 3
+D1
+A worn path continues on to the east.
+~
+~
+0 -1 5808
+D3 
+Back to the west you can see a path through the trees.
+~
+~
+0 -1 5806
+S
+#5808
+The Hartland Forest~
+        You notice that the trees in this particular area are much 
+larger than the ones you have previously seen.  You feel like a dwarf
+as you continue to walk along this path.  The path leads to the north,
+south and the west.
+~
+58 1 0 0 0 3
+D0
+~
+~
+0 -1 5809
+D2
+~
+~
+0 -1 5810
+D3
+To the west you can see a small path.
+~
+~
+0 -1 5807
+S
+#5809
+End Of The Path~
+        You seem to have come to the abrupt end of the path as the path
+has been completely swallowed up by nature. The only way out is back to 
+the south.
+~
+58 1 0 0 0 3
+D2
+The path lies to the south.
+~
+~
+0 -1 5808
+S
+#5810
+An Abrupt End To The Path~
+        The path here seems to have disappeared.  Try as you might, you 
+cannot seem to find the path.  Your only exit is back to the north.
+~
+58 1 0 0 0 3
+D0
+The path lies to the north.
+~
+~
+0 -1 5808
+S
+#5811
+Zedd's Log Cabin~
+        You are now in the old cabin.  You notice a sign on the wall
+which indicates that this is the humble abode of Zeddicus Zu'l Zorander,
+a wizard of the First Order.  You notice a large table, some shelves
+with many books and suck on them.  There is a fire going in the hearth
+and a pot of stew cooking on it.  You wonder where this wizard was and
+if he would mind if you took some of his food.
+~
+58 12 0 0 0 0
+D2
+To the south is the porch of the cabin and the forest.
+~
+door~
+1 -1 5806
+S
+#5812
+The Edge Of The Boundary~
+        You now stand at the edge of the pass which goes through the
+boundary.  You aren't sure why, but you feel the presence of spirits 
+nearby.  The path leads north or south.
+~
+58 5 0 0 0 3
+D0
+The path leads back into the forest.
+~
+~
+0 -1 5805
+D2
+To the south is the boundary, you sense danger in that direction.
+~
+~
+0 -1 5822
+S
+#5813
+In The Forest~
+        The forest canopy is not quite as dense here and you find that
+you can see much better now.  The wildlife has been friendly enough
+in the forest, you hope that it stays that way.  You can follow the
+path east or west.
+~
+58 0 0 0 0 3
+D1
+Back to the east a path cuts through the trees.
+~
+~
+0 -1 5802
+D3
+The path to the west goes deeper into the forest.
+~
+~
+0 -1 5814
+S
+#5814
+Deeper In The Hartland Forest~
+        You have moved deeper into the forest and you find that the
+canopy has sealed off the ceiling of the forest again and there is
+once again no light coming through.  There are huge, ancient trees
+all around.  You wonder at how old they must be.  You can head to
+the east or to the south.
+~
+58 1 0 0 0 3
+D1
+A well worn path leads back to the east.
+~
+~
+0 -1 5813
+D2
+To the south lies a large clearing.
+~
+~
+0 -1 5815
+S
+#5815
+A Clearing In The Forest~
+        You suddenly emerge from the thickest part of the forest and
+you are now standing in a large clearing in the forest.  You notice
+a circle of rocks at the center of the clearing indicating that other
+people have been here before and camped.  For some strange reason, you 
+feel safe and secure in this clearing.  There are entrances back into
+the dense forest to the east and the north.
+~
+58 20 0 0 0 2
+D0
+You can enter the thick forest to the north, but you can't see beyond
+that.
+~
+~
+0 -1 5814
+D1
+The forest lies to the east.
+~
+~
+0 -1 5816
+E
+rock rocks circle~
+This circle of rocks is used to make a campfire safely without burning
+down the whole forest.  You think you should start a fire and use it
+for what it was intended for.
+~
+S
+#5816
+In The Forest~
+        You are once again in a dark and dense part of the forest.
+It is difficult to see where you are headed.  You hope that you 
+don't walk into, BAM!! Too late, you just walked into a tree.  You can
+head west or north.
+~
+58 1 0 0 0 3
+D0
+The path continues on into the forest to the north.
+~
+~
+0 -1 5813
+D3
+A large clearing lies to the west.  It appears to be rather safe.
+~
+~
+0 -1 5815
+S
+#5817
+Further In The Hartland~
+        You are walking on a path that is rather clear for right now.
+Looking ahead of you, you can tell that the forest gets much thicker
+and you begin to wonder how long you can follow this path.  You can 
+head to the north or the south.
+~
+58 0 0 0 0 3
+D0
+To the north you can see the entrance to the forest.  Maybe you should
+go back there before you get lost.
+~
+~
+0 -1 5802
+D2
+The path narrows a bit to the south as it heads off into a dense forest.
+~
+~
+0 -1 5818
+S
+#5818
+Deeper In The Hartland~
+        You are now into the thick of the forest.  The canopy seals out
+all light in here.  You notice that the trees are growing larger and 
+older as you move deeper.  You can go east, west or north.
+~
+58 1 0 0 0 3
+D0
+To the north you can see the lighter part of the forest.
+~
+~
+0 -1 5817
+D1
+The path continues to the east but narrows a bit more.
+~
+~
+0 -1 5820
+D3
+The path leads west to a very dark region of the forest.
+~
+~
+0 -1 5819
+S
+#5819
+The Darkest Part Of The Forest~
+        It's too dark to see anything at all!
+~
+58 1 0 0 0 3
+D1
+~
+~
+0 -1 5818
+S
+#5820
+At The Fringe Of The Boundary~
+        You stand at the edge of the boundary, or more to the point,
+the pass that goes through the boundary.  You can see a glowing green 
+wall that marks the division of the boundary from the pass.  You can 
+continue on to the south and the west.
+~
+58 5 0 0 0 3
+D2
+To the south lies the rocky pass through the boundary.
+~
+~
+0 -1 5821
+D3 
+Back to the west lies the Hartland Forest.
+~
+~
+0 -1 5819
+S
+#5821 
+In The Pass Through The Boundary~
+        You are now on the pass that will take you through the boundary.
+Here the pass is rather wide so you are not that close to the boundary
+yet.  You can see the green wall from here, but it is a distance away.
+You can head east or north.
+~
+58 0 0 0 0 4
+D0
+Looking to the north you can see where you entered the pass.
+~
+~
+0 -1 5820
+D1
+Off to the east you can see a large boulder and nothing beyond that.
+~
+~
+0 -1 5822
+S
+#5822
+At The Large Boulder~
+        You notice that the pass heads uphill here.  There is a large
+boulder here that almost blocks the path.  With all of the boulders and
+rock formations here in the pass, it is very difficult to see what lies 
+ahead.  The pass leads in all directions.
+~
+58 0 0 0 0 4
+D0
+Looking downhill, you can see that the boundary is very close to the 
+pass.
+~
+~
+0 -1 5812
+D1
+~
+~
+0 -1 5823
+D2
+~
+~
+0 -1 5829
+D3 
+Back to the west you can see the pass and the boundary beyond.
+~
+~
+0 -1 5821
+E
+large boulder~
+The large boulder has something chiseled into it:
+        BEWARE THE GREEN WALLS!
+~
+S
+#5823
+Past The Boulder~
+        You are now past the large boulder but you are now much closer
+to the boundary.  You don't think you want to hang around here for long.
+You can head east or west.
+~
+58 0 0 0 0 4
+D1
+~
+~
+0 -1 5824
+D3
+~
+~
+0 -1 5822
+S
+#5824
+At The Boundary~
+        You are now so close you are almost in the boundary.  You can
+see many spirits of the people you love and hate calling you to join 
+them in there.  You know if you enter you will never come back.  You 
+can go to the west or the south.
+~
+58 0 0 0 0 4
+D2
+~
+~
+0 -1 5825
+D3
+~
+~
+0 -1 5823
+E
+boundary green~
+The green walls of the boundary hold the spirits back.  It is a division
+between the world of the living and the world of the dead.
+~
+S
+#5825
+At The Boundary~
+        You are still just along the edge of the boundary.  You hear 
+the longing calls of the spirits through the wall and have to give all
+your concentration in order to keep from heeding their calls.  You can
+continue downhill to the south or head back to the north.
+~
+58 0 0 0 0 4
+D0
+~
+~
+0 -1 5824
+D2
+~
+~
+0 -1 5826
+S
+#5826
+At The Boundary~
+        At the green wall to the boundary, you can feel yourself being
+drawn in and do not think it would be wise to remain here for long.  
+It could be a matter of life and death if you remain.  The pass leads
+north and west.
+~
+58 0 0 0 0 4
+D0
+~
+~
+0 -1 5825
+D3
+~
+~
+0 -1 5827
+S
+#5827 
+At The Boundary~
+        You are moving away from the boundary, but you are still too
+close for comfort.  The calls from the spirits are still rather loud
+from here and it is still taking you quite a bit of concentration not
+to go running to them.  You can continue on to the east and the west.
+~
+58 0 0 0 0 4
+D1
+~
+~
+0 -1 5826
+D3
+~
+~
+0 -1 5828
+S
+#5828
+Crossroads In The Pass~
+        You have come to a crossroads in the pass.  You notice that
+all the paths look the same and that there are not really any traces
+of life here.  Paths lie in all directions.
+~
+58 0 0 0 0 4
+D0
+~
+~
+0 -1 5829
+D1
+~
+~
+0 -1 5827
+D2 
+~
+~
+0 -1 5837
+D3
+~
+~
+0 -1 5831
+S
+#5829
+Entrance To A Cave~
+        You stand before a rather large cave.  It does not appear to
+have life of any kind, but since you can't see in there, you cannot
+tell.  The pass leads north and south, and the cave lies to the east.
+~
+58 0 0 0 0 4
+D0
+To the north you see a large boulder.
+~
+~
+0 -1 5822
+D2
+~
+~
+0 -1 5828
+D1
+~
+~
+0 -1 5830
+S
+#5830
+The Cave In The Pass~
+        The cave is rather large.  You can see a huge pile of skeletons
+in the dirt against the wall of the cave.  It doesn't appear that there
+is anything in here right now, but obviously something lives here.  You
+begin to wonder if it would be wise to wait for them to return.  The 
+only exit is to the west.
+~
+58 9 0 0 0 0
+D3
+The entrance to the cave is to the west.
+~
+~
+0 -1 5829
+E
+pile skeletons bones~
+There is a big pile of bones here.  Unfortunately, they are ALL human.
+~
+S
+#5831
+Another Pass In The Boundary~
+        This pass is a bit steeper than the others.  You can feel the
+strain on the muscles in your legs as you begin to hike up the pass.
+You have a constant feeling of uneasiness in this place.  The pass
+leads east and north.
+~
+58 0 0 0 0 4
+D0
+~
+~
+0 -1 5832
+D3
+~
+~
+0 -1 5828
+S
+#5832
+The Top Of The Rise~
+        After hiking up the slope you appear to have reached the top,
+only to find yourself closer to the boundary.  You can once again hear
+the beckoning of the spirits.  You can go back down the slope to the
+south or continue on the pass to the west.
+~
+58 0 0 0 0 4
+D2
+~
+~
+0 -1 5831
+D3 
+~
+~
+0 -1 5833
+S
+#5833
+Next To The Boundary~
+        You are now standing directly next to the boundary.  You are 
+so close to it that you can feel the magic and the death emanating
+from it.  The pass continues to the south or to the east.
+~
+58 0 0 0 0 4
+D1
+~
+~
+0 -1 5832
+D2
+~
+~
+0 -1 5834
+S
+#5834
+Next To The Boundary~
+        Still walking right next to the boundary, you continue on a 
+path sloping downward.  The eerie green color is really starting to
+annoy you along with the voices of the spirits.  You feel you might
+go insane if you stay here to much longer.  You can continue on to
+the south or head back up the slope to the north.
+~
+58 0 0 0 0 4
+D0
+~
+~
+0 -1 5833
+D2
+~
+~
+0 -1 5835
+S
+#5835 
+The Bottom Of The Slope~
+        You are now at the bottom of the slope, and a little farther
+away from the actual boundary, but you can still hear the spirits
+calling to you.  The pass heads north up the slope or to the east.
+~
+58 0 0 0 0 4
+D0
+~
+~
+0 -1 5834
+D1
+~
+~
+0 -1 5836
+S
+#5836
+Away From The Boundary~
+        Now that you are a little farther away from the boundary, the
+call of the spirits is not as loud and you feel you might actually
+remain sane a while longer.  The pass continues east or heads back west.
+~
+58 0 0 0 0 4
+D1
+~
+~
+0 -1 5837
+D3
+~
+~
+0 -1 5835
+S
+#5837
+Entrance To A Cavern~
+        You stand before a narrow but long cavern.  It is the narrowest
+part of the pass, and it is where the sides of the boundary almost meet.
+You can see a faint light on the other side of the cavern.  You can go in 
+all directions.
+~
+58 0 0 0 0 4
+D0
+~
+~
+0 -1 5828
+D1
+~
+~
+0 -1 5838
+D2
+A long and narrow cavern lies to the south, this being the narrowest
+part of the pass through the boundary.
+~
+~
+0 -1 5840
+D3
+~
+~
+0 -1 5836
+E
+cavern pass~
+The mouth of the cavern is very narrow, looks wide enough only to
+accommodate one person.  
+~
+S
+#5838
+The Edge Of The Boundary~
+        You notice that the path has leveled off here and that the 
+boulders do not block your view here.  You can follow the path east
+or west.
+~
+58 0 0 0 0 4
+D1
+To the east you see the boundary, it looks like if you go there, you
+will actually go through the boundary.  If you do that, the Keeper
+will surely have you.
+~
+~
+0 -1 5839
+D3
+The entrance to the cavern lies back to the west.
+~
+~
+0 -1 5837
+S
+#5839
+Death At The Hands Of The Keeper~
+        You know as soon as you walk in here that all is lost.  The 
+Keeper smiles down at you wickedly.  Using his Subtractive magic, he 
+slices open your abdomen to read your entrails.  You try to scream but
+no sound escapes as he has ripped your vocal cords out.  He then begins
+to tear your limbs off one at a time, as if he were picking an insect
+apart.  You never thought you would ever wish for death.
+~
+58 2 0 0 0 0
+D3
+~
+~
+0 -1 5838
+S
+#5840
+In Between The Boundary~
+        You have entered the cavern's passage and you realize that
+the walls of the boundary are on both sides of you.  In fact, they
+are so close together at this point that you have to keep your arms
+in close to your body to keep from touching the boundary on either
+side.  You may continue on through the passage south or head back 
+north.
+~
+58 264 0 0 0 0
+D0
+Looking back to the north, you can see the walls of the boundary are
+much further apart on that part of the pass.
+~
+~
+0 -1 5837
+D2
+The walls of the boundary remain close together to the south.
+~
+~
+0 -1 5841
+S
+#5841 
+Lost In The Cavern~
+        Looking back, you can no longer see the light from outside the
+cavern to the north or the south.  You realize that you really don't 
+know which way you are headed.  
+~
+58 264 0 0 0 0
+D0
+Back to the north, all you can see is the walls of the boundary.
+~
+~
+0 -1 5840
+D2
+To the south you see the walls of the boundary.  They almost appear to
+be touching.
+~
+~
+0 -1 5842
+S
+#5842
+Almost Through The Cavern~
+        You can now see light up ahead and it looks to be the way out
+of here.  Looking back all you see is blackness and the greenish color
+of the boundary walls.  You can exit the cavern to the south or head 
+back into it to the north.
+~
+58 264 0 0 0 0
+D0
+All you see is the eerie greenish color of the boundary walls.
+~
+~
+0 -1 5841
+D2
+You can see light to the south and a forest of some kind.
+~
+~
+0 -1 5843
+S
+#5843
+Through The Boundary~
+        You are finally out of the boundary.  You have decided that
+you will be happy if you never have to go back there again in your
+entire life.  As you look around, you realize how much smaller the 
+trees are in this forest compared to the trees in the Hartland forest.
+Something about this forest warns you of great danger.  Paths lead off
+in all directions.
+~
+58 4 0 0 0 2
+D0
+To the north you can see the eerie glow of the boundary walls.
+~
+~
+0 -1 5842
+D1
+A path cuts through the trees and heads into the forest to the east.
+~
+~
+0 -1 5844
+D2
+A small, narrow path heads off into the forest to the south.
+~
+~
+0 -1 5868
+D3
+To the west a path heads off between the trees.
+~
+~
+0 -1 5871
+S
+#5844
+In The Midlands Forest~
+        Standing in the forest, you almost feel at home again now that
+you are out of the pass in the boundary.  There is a tree that stands
+out to your right, it has many things carved into the bark.  You have 
+noticed that there really are not any of the smaller, harmless creatures
+such as the ones in the Hartlands Forest.  The path heads out of the
+forest to the west or continues deeper to the east.
+~
+58 0 0 0 0 3
+D1
+To the east you can see that the path turns in many directions.
+~
+~
+0 -1 5845
+D3
+The path heads out of the forest to the west.
+~
+~
+0 -1 5843
+E
+tree carvings~
+The carvings in the tree portray a creature of some kind hunting a 
+human and then devouring.  That is strange, aren't humans supposed
+to be the ones who hunt the animals, not the other way around?
+~
+S
+#5845
+A Crossroads In The Midlands~
+        You are now standing in a crossroads of some sort with the path
+splitting off in many directions.  There is another tree with something
+cut into the bark in front of you.  As you look up a large branch falls
+off of one of the trees to crash right next to you.  Another inch or two
+and you would be underneath of it.  The path turns to the north and the
+south.  You can also head back to the west.
+~
+58 0 0 0 0 3
+D0
+To the north you can see the path heading off for a distance.
+~
+~
+0 -1 5846
+D2
+The path to the south looks to have a bit thicker growth around it.
+~
+~
+0 -1 5862
+D3
+To the west you can head back towards the entrance to the forest.
+~
+~
+0 -1 5844
+E
+tree carvings~
+When you look at this tree, you suddenly realize that the "carvings"
+in this tree are not man-made.  In fact, you realize that they aren't
+even carvings, this is a claw mark from something REALLY big.
+~
+S
+#5846
+In The Midlands~
+        You are heading deeper and deeper into the forest.  For some
+odd reason you are getting the feeling like you are being watched by
+someone or something.  You decide that haste would be in order as you
+are sure you don't want to meet up with whatever is out there.
+~
+58 0 0 0 0 3
+D0
+Looking to the north you can see that the path turns.
+~
+~
+0 -1 5847
+D2
+You can see the crossroads to the south.
+~
+~
+0 -1 5845
+S
+#5847
+A Turn In The Path~
+        The path now turns in the forest.  It heads to the east or back
+to the south.
+~
+58 0 0 0 0 3
+D1
+To the east you can see the path and that's about it.
+~
+~
+0 -1 5848
+D2
+To the south the path continues towards a crossroads of some kind.
+~
+~
+0 -1 5846
+S
+#5848
+Continuing On The Path~
+        Looking around you, you notice that the trees and underbrush 
+are more sparse here and the path is a bit more visible.  Even though
+the growth here is not as thick, you still feel as though you are being
+watched or possibly even hunted.  The path turns to the south or goes
+back to the west.
+~
+58 0 0 0 0 3
+D2
+To the south, the forest thins a bit more.
+~
+~
+0 -1 5849
+D3
+Back to the west, the path turns again.
+~
+~
+0 -1 5847
+S
+#5849
+The Edge Of The Midlands Forest~
+        The forest has almost completely disappeared here, and so has
+the path.  Most likely the path has disappeared because no one ever
+travels this way.  Despite that thought, you are still glad to be 
+moving away from the forest and that eerie feeling of being watched.
+The path looks to continue to the east and to the north.
+~
+58 0 0 0 0 3
+D0
+You can enter the forest to the north.
+~
+~
+0 -1 5848
+D1
+Off to the east you see a much rockier terrain and a mountain off
+in the distance.
+~
+~
+0 -1 5850
+S
+#5850
+In The Hills~
+        The hills here are much steeper and rockier than the ones that
+you traveled through in the pass.  As you look around, you notice no
+immediate signs of life in these parts.  This area is actually quite 
+steep and appears to lead to a mountain off in the distance.
+~
+58 4 0 0 0 4
+D2
+The path grows steeper and rockier to the south.
+~
+~
+0 -1 5849
+D3 
+You see a great forest off to the west.
+~
+~
+0 -1 5851
+S
+#5851
+Climbing The Rocky Terrain~
+        You are still heading up and the terrain is much rockier here.
+You are beginning to sweat from the work of climbing.  It looks as 
+though soon the path will be almost unclimbable, or at least what little
+bit of a path you can see.  
+~
+58 0 0 0 0 4
+D0
+Looking to the north, you can see the terrain slope downwards.
+~
+~
+0 -1 5850
+D1
+To the east you can see the mountain off in the distance.
+~
+~
+0 -1 5852
+S
+#5852
+Up The Slope~
+        You continue to head up the slope.  All of a sudden, a boulder
+comes rolling down the slope.  You just barely dive out of the way as
+it rolls by you down the slope.  Now you wonder if someone pushed that
+at you or if it just rolled on it's own.  You can continue climbing to 
+the south as the path to the east is completely blocked or you can head
+back to the west.
+~
+58 0 0 0 0 5
+D2
+To the south you can see a sharp rise.  It looks to be a plateau of
+some kind.
+~
+~
+0 -1 5853
+D3 
+The path heads down to the west.
+~
+~
+0 -1 5851
+S
+#5853
+A Sharp Rise In The Path~
+        You are now before a sharp rise in the path.  It is some kind
+of plateau and it looks climbable from here.  Guess you won't know
+until you try.  You can climb the rise or head back down the path.
+~
+58 0 0 0 0 5
+D0
+The path goes downhill to the north.
+~
+~
+0 -1 5852
+D4
+As you look up, you can see that the path flattens out a bit at the top.
+~
+~
+0 -1 5854
+S
+#5854 
+On The Plateau~
+        After finally reaching the top of the plateau, you realize that
+you have climbed a good twenty feet or so.  From this height you have a
+breathtaking view of the forest and hills below.  Looking around you
+you notice a skeleton lying in the dirt.  It looks like he has drawn
+something in the dirt.  You can go back down the plateau or you can 
+continue to the west.
+~
+58 0 0 0 0 5
+D2
+The plateau extends outwards to the south.
+~
+~
+0 -1 5855
+D5
+Looking back down you can see the hills about 20 feet below you.
+~
+~
+0 -1 5853
+E
+skeleton~
+It has been here for quite some time.  The skull has a massive hole
+in it indicating he was probably crushed by something.
+~
+E
+dirt drawing~
+It is the picture of something huge, in fact it looks like a picture
+of a dragon.  You hope you don't end up like the artist, because he
+didn't get the chance to finish the drawing.
+~
+S
+#5855
+The Edge Of The Plateau~
+        You have reached the far side of the plateau.  Your view of
+the forest is obscured by massive boulders.  You can now climb down
+this side of the plateau or head back towards the other edge.
+~
+58 0 0 0 0 5
+D0
+~
+~
+0 -1 5856
+D5
+~
+~
+0 -1 5854
+S
+#5856
+The Foot Of The Mountain~
+        You finish climbing down from the top of the plateau without
+any major injuries.  You are now standing at the base of the mountain
+you could see off in the distance earlier.  As you look at the mountain
+you realize that the climb to the top is almost straight up.  You can 
+head south to the base of the mountain or you can climb back up to the
+top of the plateau.
+~
+58 0 0 0 0 5
+D2
+An enormous mountain heads straight up into the sky to the south.
+~
+~
+0 -1 5857
+D4
+You can see the top of the plateau from here.  It looks to be a climb
+of about 40 feet from here.
+~
+~
+0 -1 5855
+S
+#5857 
+The Base Of The Mountain~
+        Standing below the mountain, you conclude that it would be
+one hell of a climb to reach the top.  It appears to head almost
+straight up right into the clouds.  The view from the top must be
+quite breathtaking.  You can climb the mountain or head back down 
+to below the plateau.
+~
+58 0 0 0 0 5
+D0
+To the north you can see the base of the plateau.
+~
+~
+0 -1 5856
+D4
+Looking up you are awe struck with the sheer height of this mountain.
+~
+~
+0 -1 5858
+S
+#5858
+Climbing The Face Of The Mountain~
+        You are now climbing the face of this great mountain.  You 
+cannot believe you are even thinking about doing this, much less
+actually doing it.  You now know you will always regret doing this.
+~
+58 0 0 0 0 13
+D4
+Looking up the mountain all you see are the clouds.
+~
+~
+0 -1 5859
+D5
+You look down and... decide you shouldn't do that, you almost
+feinted when you saw how far down it was.
+~
+~
+0 -1 5857
+S
+#5859
+Climbing The Face Of The Mountain~
+        You continue on your climb up the face of this outrageously
+high mountain.  You are wondering if you will have the energy to finish
+the climb.  You better have!
+~
+58 0 0 0 0 13
+D4
+Looking up the mountain all you can see are the clouds.
+~
+~
+0 -1 5860
+D5
+You look down and... decide you shouldn't do that, you almost 
+feinted when you saw how far down it was.
+~
+~
+0 -1 5858
+S
+#5860
+Climbing The Face Of The Mountain~
+        Nearing the end of your endurance, you wonder how much higher
+you will have to climb as you have not found a place to rest yet.  It
+had better be soon or you will be eternally resting at the base of the
+mountain.
+~
+58 0 0 0 0 13
+D4
+As you look up you can finally see the top of the mountain and what 
+appears to be some kind of cave right at the top.  There is smoke
+coming out of the cave.
+~
+~
+0 -1 5861
+D5
+You look down and... you decide you shouldn't do that, you almost
+feinted when you saw how far down it was.
+~
+~
+0 -1 5859
+S
+#5861
+The Cave At The Top Of The Mountain~
+        You are now inside the cave.  At the back of the cave is a
+rather large egg sitting in a very large nest made out of straw.  
+Whatever laid that egg, you surely don't want to meet it, especially
+if it is a dragon's egg.  Everyone knows how fiercely protective
+dragons can be of their young.
+~
+58 12 0 0 0 0
+D5
+You look down and see the forest and hills below.  From this height
+it is impossible to the see the place where you actually started your
+climb.
+~
+~
+0 -1 5860
+E
+egg~
+The egg is extremely large and looks about ready to hatch.  You hope
+that the mother isn't around, because you just realized that it is a
+dragon's egg.
+~
+S
+#5862
+Another Crossroads In The Midlands~
+        You leave one crossroads and come to another.  The paths here
+are a bit worn down indicating that others besides yourself come through
+here.  The paths lead off in three directions, east, west and north.
+~
+58 4 0 0 0 3
+D0
+A crossroads lies to the north.
+~
+~
+0 -1 5845
+D1
+Off to the east, it appears as though the path ends, but you can't be
+sure from here.
+~
+~
+0 -1 5863
+D3
+The path continues on between the trees to the west.
+~
+~
+0 -1 5864
+S
+#5863
+A Small Clearing~
+        This clearing in the forest seems odd because all around you
+the forest is so dense that you cannot exit the clearing except by
+the way you entered it.  For some strange reason you feel safer here
+than you have the entire time you have been in this forest.
+~
+58 262164 0 0 0 2
+D3
+A crossroads in the forest lies to the west.
+~
+~
+0 -1 5862
+S
+#5864
+A Turn In The Forest~
+        The path begins to wind a bit at this point.  The path has
+been growing a bit narrower as you continue into the forest.  At 
+least the forest isn't so dark here that you can't see where you
+are going but it is still dense enough that you really can't see
+what lies beyond the forest.  The path turns to the south and it leads
+back to the east.
+~
+58 0 0 0 0 3
+D1
+You can see a crossroads and a small clearing beyond that to the east.
+~
+~
+0 -1 5862
+D2
+The path appears to split to the south.
+~
+~
+0 -1 5865
+S
+#5865
+A Split In The Narrow Path~
+        The path has split off in two directions.  There is a small
+clearing in the forest here where the path lies indicating that this
+must be a well used path.  You also notice that both the eastern and
+western paths are much wider than the ones you have been traveling on
+up to this point.  The path splits off, heading east, west or back to 
+the north.
+~
+58 0 0 0 0 3
+D0
+The path turns to the north.
+~
+~
+0 -1 5864
+D1
+There is a turn in the path to the east.
+~
+~
+0 -1 5866
+D3
+There is a large crossroads to the west.
+~
+~
+0 -1 5867
+S
+#5866
+Another Turn In The Path~
+        The path turns yet again so that it leads off to the south or
+you can head back to the west.
+~
+58 4 0 0 0 3
+D3
+A small crossroads lies off to the west.
+~
+~
+0 -1 5865
+D2
+The path continues off for a ways, you can't see how far from here.
+~
+~
+0 -1 5896
+S
+#5867 
+The Main Crossroads~
+        You are standing in what is obviously a major crossroads as
+it is very worn and wide.  There are hoof prints and footprints all 
+over and they are relatively fresh.  It would not be advisable to 
+wait here long since many people pass through here.  The path goes
+off in all directions.
+~
+58 0 0 0 0 3
+D0
+A road continues on to the east through the forest.
+~
+~
+0 -1 5868
+D1
+To the east you can see a split in the path.
+~
+~
+0 -1 5865
+D2
+The path to the south continues for a ways and then turns.
+~
+~
+0 -1 5891
+D3
+There is a split in the path to the west.
+~
+~
+0 -1 5869
+E
+hoofprints footprints prints~
+The prints here in the dirt are relatively fresh.  As you study them it
+appears that whoever made these prints was a large group that was 
+running from something.
+~
+S
+#5868
+The Main Northern Road~
+        This is the major road that heads north through the midlands
+forest.  It is rather wide, wide enough to march an army on and it
+looks to head directly north for a little ways.  The road continues
+on to the north and the south.
+~
+58 0 0 0 0 2
+D0
+You can see a clearing that looks to be an entrance to the forest.
+~
+~
+0 -1 5843
+D2
+The main crossroads lies to the south.
+~
+~
+0 -1 5867
+S
+#5869
+A Split In The Western Road~
+        The western road splits here, so that it leads north, east or
+west.  There are still many tracks in the dirt, whatever came through
+here, came through here in quite a hurry.  They appear to have been
+running from something.
+~
+58 0 0 0 0 2
+D0
+A wide path splits off of the road and heads north.
+~
+~
+0 -1 5870
+D1
+The main crossroads lies off to the east.
+~
+~
+0 -1 5867
+D3
+The road continues on to the west.
+~
+~
+0 -1 5894
+S
+#5870
+A Wide Path~
+        This path is quite wide, but not to the scale of the western
+road.  The trees line the path on both sides with some underbrush 
+sprouting up here and there.  This path must be used often, for there
+is nothing growing in the path.
+~
+58 0 0 0 0 2
+D0
+The path continues on to the north, with the path splitting off in 
+many directions.
+~
+~
+0 -1 5871
+D2
+The western road lies off to the south.
+~
+~
+0 -1 5869
+S
+#5871
+The Path Splits Four Ways~
+        Here the path splits off in all directions.  Off in the distance
+you think you here the sounds of a small village of some sort.  It would
+appear from the path to the west that not too many people travel to or
+from whatever lies in that direction.
+~
+58 0 0 0 0 3
+D0
+A path leads off through the trees to the north towards a valley.  
+~
+~
+0 -1 5872
+D1
+You can see a clearing to the east.
+~
+~
+0 -1 5843
+D2
+To the south is a rather wide path that has seen much use.
+~
+~
+0 -1 5870
+D3
+A road leads off to the west towards what sounds like a village.
+~
+~
+0 -1 5875
+S
+#5872
+Entering Agaden Reach~
+        The forest extends into a valley of some kind that appears to
+be rather large.  The forest here is much darker and you feel as though
+you are being watched as you walk through this valley.  For some reason
+you get a terrible feeling of danger about this place.  The valley 
+extends to the north or you can reenter the midlands forest to the south.
+~
+58 1 0 0 0 3
+D0
+The valley extends into the distance to the north.
+~
+~
+0 -1 5873
+D2
+A forest lies to the south.
+~
+~
+0 -1 5871
+S
+#5873
+In Agaden Reach~
+        Walking along the path through the valley, you feel your fear
+beginning to rise inside you.  It almost looks like the trees have eyes
+but then you realize that that is silly, or is it?  The valley extends
+to the north and the south.
+~
+58 1 0 0 0 3
+D0
+The path winds to the north.
+~
+~
+0 -1 5874
+D2
+A path leads out of the valley to the south.
+~
+~
+0 -1 5872
+S
+#5874
+The Fountain In The Reach~
+        You stand in a large, open area in the shape of a circle.  
+There are vines growing on the trees all around this circle.  
+The path appears to end here at this circle.  The trees completely 
+block out the light from the sun or the moon in this clearing.  Your 
+only options are to remain here or head back south.
+~
+58 5 0 0 0 3
+D2
+A winding path leads to the south, out of the valley.
+~
+~
+0 -1 5873
+S
+#5875 
+In The Plains~
+        Traveling through on this path through the plains is quite a 
+change from the deep, thick forest you have been traveling through.  
+This is a rather narrow path through these plains and fields, indicating
+that the people who live near here do not use animals or equipment to
+do their farming.  The path continues through the fields to the west and
+back into the forest to the east.
+~
+58 4 0 0 0 2
+D1
+A dark, thick forest lies to the east.
+~
+~
+0 -1 5871
+D3
+The plains and fields continue to the west.
+~
+~
+0 -1 5876
+S
+#5876
+In The Fields~
+        The plains have gradually disappeared and now there are only
+cultivated fields around you.  These fields are well taken care of but
+strangely enough you haven't seen anyone guarding them yet.  The path
+continues to the west and the east.
+~
+58 4 0 0 0 2
+D1
+The plains lie off to the east.
+~
+~
+0 -1 5875
+D3
+A village of some sort lies off to the west.
+~
+~
+0 -1 5877
+E
+fields crops~
+The fields look to be producing very well and look to be well tended.
+~
+S
+#5877
+Entrance To The Village~
+        You are on a muddy path that leads to a small village.  There
+are huts all around you.  Except for a few things you see here and 
+there, everything looks to be covered in mud, including the inhabitants.
+To the west you enter the village and to the east you enter the fields.
+~
+58 0 0 0 0 2
+D1
+A path leads out of the village towards some fields.
+~
+~
+0 -1 5876
+D3
+The village lies to the west.
+~
+~
+0 -1 5878
+E
+huts hut~
+The huts are made of straw and mud mostly.  They have a wooden frame
+but from the looks of them, they are leaky and not very sturdy.
+~
+S
+#5878 
+In The Village~
+        Looking around you, you notice many small huts with smoke coming
+out of an opening in the top of the huts.  Walking through this small
+village you see many people, all covered in mud.  They are giving you
+strange looks as if to say, "What are you doing here?"
+~
+58 0 0 0 0 1
+D0
+To the north the path continues through the small village.
+~
+~
+0 -1 5879
+D1
+The path leads out of the village, back towards the plains.
+~
+~
+0 -1 5877
+D2
+Another path heads off towards what appears to be the center of the
+village.
+~
+~
+0 -1 5886
+S
+#5879
+Turn In The Village~
+        The huts are becoming fewer in number as you continue further
+into the village.  You can see a slightly larger hut off to the east.
+The path continues into the village to the south and the west.
+~
+58 0 0 0 0 1
+D1
+A large hut lies off to the east of you.
+~
+~
+0 -1 5880
+D2
+You can see the path to the south and the entrance to the village to
+the southeast.
+~
+~
+0 -1 5878
+D3
+Some huts lie off to the west.
+~
+~
+0 -1 5881
+S
+#5880
+Within A Large Hut~
+        You now stand inside of one of the larger huts.  There are many
+items strewn about and a few beds arranged around the fire at the center
+of the hut.  This is obviously the hut of an important person, probably
+an elder of the village.  From the looks of the smaller clothes and the
+few "toys" in the hut, he is a family man as well.
+~
+58 8 0 0 0 0
+D3
+You can exit the hut to the west and head back into the village.
+~
+~
+0 -1 5879
+E
+beds~
+The beds are made of a straw neatly arranged and tied to a wooden frame
+so as to avoid the flames from the fire.
+~
+E
+fire campfire~
+The fire is burning brightly at the center of the hut, indicating that
+the inhabitants of this particular hut will be back soon.
+~
+S
+#5881
+A Crossroads In The Village~
+        From the looks of the people in this village, you are beginning
+to understand why they are called the Mud People.  Every inhabitant of
+this village is covered in mud from head to toe, including their hair.
+The path through the village splits off in all directions, with huts
+on all sides of you.
+~
+58 0 0 0 0 1
+D0
+A very important looking hut lies to the north.  It is much larger than
+any hut you have seen in this village yet.
+~
+~
+0 -1 5882
+D1
+The path to the east leads to a large hut.
+~
+~
+0 -1 5879
+D2
+The village continues to the south.
+~
+~
+0 -1 5884
+D3
+A smaller hut lies to the west.
+~
+~
+0 -1 5883
+S
+#5882
+The Spirit Hut~
+        You now stand within a very large hut that appears to be some
+kind of gathering place for the elders.  There is a bowl full of some
+weird looking frogs and another bowl with a strange type of paint in
+it.  This appears to be some sort of spirit gathering place.  Your
+only exit is to the south.
+~
+58 24 0 0 0 0
+D2
+You can exit the spirit house to the south.
+~
+~
+0 -1 5881
+E
+frogs~
+The frogs have some kind of weird slime on them.  When you touch the
+slime you think you can hear voices calling you from beyond this plane
+of existence.
+~
+E
+bowl paint~
+The paint is of a deep, red color and looks to be used to paint your body
+when attempting to call forth the spirits.
+~
+S
+#5883
+A Small Hut In The Village~
+        This is a much smaller hut with many weapons lying about as well
+as many tools.  There is a bed in the corner and a small campfire in the
+center, beyond that there is nothing else in this hut.  It is very
+spartanesque.  This is probably the hut of a hunter or a warrior.
+~
+58 8 0 0 0 0
+D1
+The exit from the hut lies to the east.
+~
+~
+0 -1 5881
+E
+weapons~
+The weapons consist of a few bows, some arrows with many different tips,
+and a couple of knives and spears.
+~
+E
+tools~
+These tools appear to be used for repairing the weapons.
+~
+S
+#5884
+In The Village~
+        The village continues along this road.  The huts are spaced
+apart in increments of about ten to twenty feet.  The people are
+walking about, minding their business, almost as if they don't even
+notice you at all.
+~
+58 0 0 0 0 1
+D0
+A crossroads lies to the north.
+~
+~
+0 -1 5881
+D2
+The path through the village turns to the south.
+~
+~
+0 -1 5885
+S
+#5885
+A Turn In The Village~
+        The path turns here so it is now heading east and north.  The
+amount of mud in this village is quite amazing, considering that people
+actually live here.  It's no wonder they came to be known as the mud
+people.
+~
+58 0 0 0 0 1
+D0
+The path to the north leads towards a large hut.
+~
+~
+0 -1 5884
+D1
+To the east there is a junction of sorts.
+~
+~
+0 -1 5886
+S
+#5886
+A Split In The Path~
+        The path now splits off in three directions, north, south and
+west.
+~
+58 0 0 0 0 1
+D0
+The path leads off through the village towards more huts.
+~
+~
+0 -1 5878
+D2
+A center of some type lies to the south.
+~
+~
+0 -1 5887
+D3
+The path turns to the west.
+~
+~
+0 -1 5885
+S
+#5887
+The Busy Center~
+        You are standing in what looks to be a main center of the village
+with many huts around it and a large open area at the center of these
+huts.  There are huts of all types in all directions.
+~
+58 0 0 0 0 1
+D0
+A path leads back into the village to the north.
+~
+~
+0 -1 5886
+D1
+A small hut lies to the east.
+~
+~
+0 -1 5889
+D2
+A rather strange looking hut lies to the south.  It appears to be
+some kind of shop with a person who is definitely not a mud person.
+~
+~
+0 -1 5888
+D3
+Another small hut lies off to the hut.  There doesn't appear to be
+anything special about.
+~
+~
+0 -1 5890
+S
+#5888
+The Village Store~
+        You are standing within a shop that appears to carry just about
+everything possible.  You see weapons all around you, as well as armor
+and magical items of all sorts.  The only exit is to the north.
+~
+58 8 0 0 0 0
+D0
+The center of the village lies to the north.
+~
+~
+0 -1 5887
+S
+#5889
+A Small Hut~
+        This hut is really plain.  There are a couple of furs and some
+spears around the hut, other than that there isn't much in here.  Your
+exit is to the west.
+~
+58 8 0 0 0 0
+D3
+The center of the village lies to the west.
+~
+~
+0 -1 5887
+S
+#5890
+Another Hut~
+        There is a small fire burning at the center of the hut with
+the smoke coming out of the top of the hut.  There is a bow lying in
+the corner and a quiver with many arrows in it.  The exit is to the
+east.
+~
+58 8 0 0 0 0
+D1
+The center of the village lies to the east.
+~
+~
+0 -1 5887
+S
+#5891
+A Turn In The Midlands Path~
+        The path through the forest turns here.  You are no longer
+on a main road, but on a much smaller path that splits off of the
+road.  The exits lie to the north and the west.
+~
+58 0 0 0 0 3
+D0
+To the north you can see a crossroads and a road.
+~
+~
+0 -1 5867
+D3
+The path continues through the forest to the west.
+~
+~
+0 -1 5892
+S
+#5892
+Deeper In The Midlands~
+        The forest is growing much more dense as you continue along
+this path.  The trees obscure the light a bit more this deep in the
+forest and the path is a bit narrower.  You can follow the path to
+the east or the west.
+~
+58 0 0 0 0 3
+D1
+The path turns to the east.
+~
+~
+0 -1 5891
+D3
+It looks like the path splits to the west, although it's hard to tell
+in this deep part of the woods.
+~
+~
+0 -1 5893
+S
+#5893
+Another Split In The Path~
+        The path splits here so that it heads north and south.  You
+notice that there are many footprints here as though someone had a
+struggle here.  You hope that a similar fate does not befall you.
+~
+58 0 0 0 0 3
+D0
+The path turns to the north.
+~
+~
+0 -1 5894
+D2
+To the south the forest appears to grow darker and thicker.
+~
+~
+0 -1 5895
+E
+footprints~
+The prints here indicate that someone had a struggle.  You can tell that
+they were outnumbered.  It looks as though the loser was dragged off to
+the south by the looks of the lines in the path.
+~
+S
+#5894
+A Turn In The Midlands~
+        The forest is not quite as dense here.  The path has widened a
+bit and the trees do not appear to be as large as they are in other parts
+of the forest.  The path turns here so that it now leads east or south.
+~
+58 0 0 0 0 3
+D1
+A road splits off of a crossroads to the east.
+~
+~
+0 -1 5869
+D2
+To the south the path leads into the deep, dark forest.
+~
+~
+0 -1 5893
+S
+#5895
+The Edge Of The Midlands~
+        Amazingly, you continue on the path and just when the path looks
+to be at it's end, you are at the edge of the forest.  The trees have
+almost completely disappeared here.  You can see the faint marks where
+someone was dragged down this path.  The path now leads east and north.
+~
+58 4 0 0 0 2
+D0
+The path continues into the forest.
+~
+~
+0 -1 5893
+D1
+To the east the forest disappears and a road of sorts begins.
+~
+~
+0 -1 5900
+S
+#5896
+In The Deep Midlands~
+        The forest is much deeper here.  It almost seems as if the forest
+has swallowed up all light from the "outside" world.  You can barely see
+the hint of a path.  You are getting the idea that no one travels this
+way much anymore.  You can go north or south.
+~
+58 5 0 0 0 3
+D0
+To the north the path grows a bit more pronounceable.
+~
+~
+0 -1 5866
+D2
+To the south the forest looks almost impassable.
+~
+~
+0 -1 5897
+S
+#5897
+Deep In The Midlands~
+        You have now lost all signs of a path and you are not even sure
+which way would lead you back out of here.  The forest to the south and
+east is so thick that you cannot even think of going in that direction.
+Your only options are to go east or north.
+~
+58 1 0 0 0 3
+D0
+There looks to be a path to the north, but it's hard to tell in this
+deep forest.
+~
+~
+0 -1 5896
+D1
+~
+~
+0 -1 5898
+S
+#5898
+Lost In The Midlands Forest~
+        You are beginning to get dizzy after walking through this forest
+because you are lost.  You can't see much and you hurt your nose when you
+walked into a tree.  There is a faint light to the south.
+~
+58 1 0 0 0 3
+D2
+The forest appears to open up a bit to the south.
+~
+~
+0 -1 5899
+D3
+~
+~
+0 -1 5897
+S
+#5899
+Out of The Midlands~
+        You are finally out of that forest and can get some feeling of
+where you are going now.  You are relieved to finally be out of that
+forest and back in the light again.
+~
+58 0 0 0 0 2
+D0
+A deep, dark forest lies to the north.
+~
+~
+0 -1 5898
+S
+#99999
+$~

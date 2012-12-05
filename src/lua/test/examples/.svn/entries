@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1437"
+   name=""
+   committed-date="2008-04-30T03:27:43.811158Z"
+   url="file:///var/svn/trunk/2.2/src/lua/test/examples"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   name="ps"
+   kind="dir"/>
+<entry
+   name="www"
+   kind="dir"/>
+</wc-entries>

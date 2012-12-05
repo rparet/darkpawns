@@ -1,0 +1,791 @@
+#8001
+Hans guard gateguard~
+Hans the gateguard~
+Hans the gateguard is standing here.
+~
+Hans looks a tad constipated.
+~
+38939 0 0 0 1032 0 0 0 700 E
+22 -2 -12 22d5+230 14d4+14
+20 30000
+8 8 1
+Race: 0
+E
+#8002
+Franz guard gateguard~
+Franz the gateguard~
+Franz the gateguard is leaning against the wall beside the gate.
+~
+Looking as strong and stupid as ever!
+~
+38938 0 0 0 1032 0 0 0 700 E
+22 -2 -12 22d5+230 14d4+14
+20 30000
+8 8 1
+Race: 0
+E
+#8003
+Darek weaponsmith~
+Darek the weaponsmith~
+Darek the weaponsmith is gazing at you through a rack of swords.
+~
+Darek is a stout, dwarven weaponsmith of the highest caliber. His smithy
+work is insurmountable, typical of shopkeepers in a city this size.
+~
+190474 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+600000 270000
+8 8 1
+Race: 2
+E
+#8004
+Jack armorer~
+Jack the armorer~
+Jack the armorer is here polishing his platemail.
+~
+You see a very large, very strong armorer.
+~
+174090 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+600000 270000
+8 8 1
+Race: 0
+Noise: You hear the clanging of metal from the armory.
+E
+#8005
+Byron bronzeworker~
+Byron the bronzeworker~
+Good 'ol Byron is here sniffing his bronze cleaner.
+~
+Definitely baked most of the time you'd imagine.
+~
+174090 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+46200 270000
+8 8 1
+Race: 0
+E
+#8006
+Leon leatherworker~
+Leon the leatherworker~
+Leon the leatherworker is busily seeing what he can do for you.
+~
+Always talking about sports, but never playing them, a tad odd
+you think to yourself.
+~
+174090 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+39160 270000
+8 8 1
+Race: 0
+E
+#8007
+Pula banker~
+Pula the banker~
+Pula is sitting behind the counter waiting to serve you.
+~
+This is one woman you DEFINITELY don't want to rob.  Though she is
+rather attractive in a hairy kinda way.
+~
+174090 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+45955 270000
+8 8 2
+Race: 0
+E
+#8008
+Telf baker~
+Telf the baker~
+Telf the baker stands here enjoying the dough.
+~
+Telf is not a thin fellow, but it looks as if he takes pride in
+his work.  There is not a spot behind the counter, though there
+are small amounts of flour on the walls and doors where he
+has had to put his hands.
+~
+174090 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+100000 270000
+8 8 1
+Race: 0
+E
+#8009
+Emmet~
+Emmet~
+Emmet stands against the back wall, watching you.
+~
+Emmet is a tall, lanky human in his mid-forties.  Knowing your kind well,
+he watches you move about his store with a wary eye.
+~
+172042 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+100000 270000
+8 8 1
+Race: 0
+E
+#8010
+lawana drow elf mistress~
+Lawana Fel'Enwar~
+An outcast drow elf mistress eyes you with cold oval pupils.
+~
+ Pearly-white hair sweeps down around a beautiful, dark-skinned elven
+face. The slanted eyes common of all elves reflect nothing of the 
+feelings of this drow.
+~
+174090 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+100000 270000
+8 8 2
+Race: 1
+E
+#8011
+Kira apothecary~
+Kira the apothecary~
+The apothecary is here, brewing some potions.
+~
+Dressed in red flowing robes, Kira is grinding a foul-smelling stone into
+powder.
+~
+190474 0 0 0 0 0 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+20736 270000
+8 8 2
+Race: 0
+E
+#8012
+Belar guildmaster warrior master~
+Belar the master warrior~
+Belar the master warrior stands here waiting to teach you.
+~
+He is one of the biggest humans you've ever seen. Bulging muscles ripple
+across his bare chest, and several scars across his body prove that he was
+using weapons before you were even born. He has a calm look on his face.
+~
+6154 0 0 0 131072 0 0 0 600 E
+33 -13 -23 33d5+2163 22d4+22
+82 180000
+8 8 1
+Race: 0
+E
+#8013
+Silencio thief guildmaster master~
+Silencio~
+A well-dressed thief stands here silently.
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief.  She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+2059 0 0 0 136 0 0 0 1000 E
+33 -13 -23 33d5+2163 22d4+22
+1001 180000
+8 8 2
+Race: 0
+E
+#8014
+Le Tal cleric guildmaster master~
+Le Tal the master cleric~
+Le Tal the master cleric is standing here.
+~
+You are in no doubt that this guildmaster is truly close to your god; he has
+a peaceful, loving look.  You notice that he is surrounded by a white aura.
+~
+2059 0 0 0 136 0 0 0 1000 E
+33 -13 -23 33d5+2163 22d4+22
+117 180000
+8 8 1
+Race: 0
+E
+#8015
+Eldrich guildmaster mage master~
+Eldrich the sorcerer~
+Eldrich the sorcerer is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses.  She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+2059 0 0 0 136 0 0 0 1000 E
+33 -13 -23 33d5+2163 22d4+22
+108 180000
+8 8 2
+Race: 0
+E
+#8016
+sorcerer guildguard~
+the sorcerer~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive as
+well as defensive spells make him a deadly opponent.
+~
+190475 0 0 0 136 0 0 0 900 E
+33 -13 -23 33d5+2163 22d4+22
+147 0
+8 8 1
+Race: 0
+E
+#8017
+knight templar guild guard~
+the knight templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the Faith.
+His duty is to protect the faithful from persecution and infidel attacks and
+his religious devotion combined with his superior skill makes him a deadly
+opponent.
+~
+190475 0 0 0 136 0 0 0 1000 E
+33 -13 -23 33d5+2163 22d4+22
+216 0
+8 8 1
+Race: 0
+E
+#8018
+guild guard tavern keeper~
+the tavern keeper~
+The old tavern keeper surveys you from behind the bar.
+~
+He is an old man, with many scars across his face.  You notice that
+the few people who he does converse with treat him with utmost respect
+and consideration.  He looks to be quite old, but the way he move about
+the tavern in the course of his duties tells of quick dexterity and
+fluidness of motion.  You get the impression that the tavern keeper is
+studying you closely, even though he appears not to be at all.
+~
+182283 0 0 0 1032 0 0 0 400 E
+33 -13 -23 33d5+2163 22d4+22
+181 0
+8 8 1
+Race: 0
+E
+#8019
+warrior guildguard~
+the warrior~
+A big brute of a warrior is guarding the entrance.
+~
+He is a fighter who has specialized in killing others as effectively as 
+possible, using all sorts of weapons.  His superior knowledge of how and 
+where to use them combined with his extraordinary strength makes him a deadly 
+opponent.
+~
+174091 0 0 0 0 0 0 0 400 E
+33 -13 -23 33d5+2163 22d4+22
+255 0
+8 8 1
+Race: 0
+E
+#8020
+guard church armored~
+a church guard~
+An armored church guard keeps an eye on the gate.
+~
+He's a holy looking man with a pointed beard and helm to match. Though he
+works for the church (or perhaps because of that fact) there's nothing
+friendly about him as he sweeps your bloodstained apparel with a disdainful
+glance.
+~
+38939 0 0 0 1032 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+10 25000
+8 8 1
+Race: 0
+E
+#8021
+horse carve_meat~
+a horse~
+A horse stands here, flicking its tail.
+~
+It is a gelded, well-bred steed with a dark brown coat and legs trained for
+long-distance travel.
+~
+2097160 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+1 350
+8 8 0
+BareHandAttack: 9
+Race: 12
+E
+#8022
+stable stablehand~
+the stablehand~
+A stablehand stands here, brushing a horse.
+~
+He's dressed in some decent leather breeches and a matching vest. He
+has an air about him that seems to reflect his knowledge of horses, and
+stench about him that definitely reflects his commitment to the job.
+~
+59403 0 0 0 0 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+1 180000
+8 8 1
+Race: 0
+E
+#8023
+hooker whore prostitute elf~
+a half-elven prostitute~
+A lithe blonde prostitute flaunts her wares.
+~
+Already blonde hair has been dyed nearly white, and the skirt she's wearing
+barely covers her naked rump.
+That she was beautiful once cannot be denied, but now she looks more like a 
+circus performer.
+~
+1048649 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+2 100
+8 8 2
+Race: 1
+E
+#8024
+psionist guildmaster muntara~
+Muntara~
+Muntara, the Psionic guildmistress, sits here meditating.
+~
+She has the serene look of one who can explode your mind from the inside out.
+~
+2123 0 0 0 160 0 0 0 600 E
+39 -19 -29 39d5+5661 26d4+26
+100 375000
+8 8 2
+Race: 0
+E
+#8025
+ninja guild guard guildguard men-shen man~
+the men-shen~
+A large man stands here, barring your way.
+~
+The ninja guildguard appears to be an oversized human with a grim countenance
+and golden skin.
+~
+253963 0 0 0 144392 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+0 0
+8 8 1
+Race: 11
+E
+#8026
+ninja guildmaster man~
+the ninja guildmaster~
+An old, hunched man sits on a stool here, remembering the past.
+~
+He looks awfully old, but as his eyes seem to search into your soul, you
+realize he's more than he looks.
+~
+122891 0 0 0 13368 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+0 180000
+6 6 1
+Race: 0
+E
+#8027
+guard city guardsman guard_stationary~
+a city guard~
+A city guardsman stands watch here.
+~
+He is a young human dressed in the garb of a Cross guardsman.  You guess
+that he is a neophyte, just out of training, as the job of playing glorified
+watchman is usually given to the newer members, while the veterans take patrol
+or gate duty.
+~
+47130 0 0 0 1032 0 0 0 800 E
+16 4 -6 16d5+170 10d4+10
+0 16000
+8 8 1
+Race: 0
+E
+#8059
+Aversin captain guard~
+Aversin, Captain of the Guard~
+Aversin, Captain of the Guard, stands here eyeing his surroundings.
+~
+Aversin is a tall, muscular human in his early forties.  He strikes you as
+being a very charismatic leader -- you've heard that his guard is fanatically
+devoted to him.  Although he has never been ordained, his garb is the same
+as that of a Paladin of the Cross, signifying the great respect that the church
+has for him and his position.  
+~
+268361 0 0 0 1064 0 0 0 800 E
+31 -11 -21 31d5+997 20d4+20
+90 90000
+8 8 1
+Race: 0
+E
+#8060
+cityguard guard guard_ns~
+a city guard~
+A city guard patrols the wall road.
+~
+He's a big, strong, helpful, trust-worthy guard that looks like he'd take a
+bribe in a heartbeat.
+~
+47131 0 0 0 1032 0 0 0 1000 E
+16 4 -6 16d5+170 10d4+10
+20 16000
+8 8 1
+Race: 0
+E
+#8061
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+ Commissioned by the church, he "volunteered" to keep the city clean rather
+than spend a day in the stockades.
+~
+1050697 0 0 0 0 0 0 0 800 E
+1 19 9 1d5+20 1d4+0
+3 100
+8 8 1
+Race: 3
+E
+#8062
+citizen~
+the citizen~
+A citizen is standing here.
+~
+Going about his business, the citizen keeps a wary eye out for armed visitors
+like yourself - and an even more cautious eye out for the dominating city 
+guards.
+~
+2121 0 0 0 0 0 0 0 900 E
+1 19 9 1d5+20 0d4+0
+10 100
+8 8 1
+Race: 0
+E
+#8063
+warg hybrid fido dog carve_meat~
+the hybrid warg~
+A hybrid warg runs the streets, looking for fresh kills.
+~
+The warg is a small animal that looks like a cross between a dog and a pig that
+has a foul smell and pieces of rotten meat hanging around his teeth.
+~
+16777417 0 0 0 0 0 0 0 -200 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 1
+BareHandAttack: 4
+Race: 22
+E
+#8066
+petitioner~
+a petitioner~
+A petitioner tries to get you to sign something.
+~
+Dressed in a flowing trouser-suit, he thrusts a piece of paper under your
+nose, babbling on about signing this form to outlaw weapons in the city.
+~
+8396 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+4 100
+8 8 1
+Race: 0
+E
+#8067
+carpenter~
+a carpenter~
+A carpenter sings loudly.
+~
+He's a balding man with a leather tool belt around his waist. You figure
+he's in town to help with the building of new shops and such.
+~
+2120 0 0 0 0 0 0 0 400 E
+1 19 9 1d5+20 1d4+0
+6 100
+8 8 1
+Race: 0
+E
+#8068
+town crier~
+the town crier~
+The town crier sobs as he tells his life story.
+~
+With a tear in his eye and a sorrow torn expression, you can only feel sorry
+for him.
+~
+2248 0 0 0 0 0 0 0 500 E
+1 19 9 1d5+20 1d4+0
+10 100
+8 8 1
+Race: 0
+E
+#8069
+zealot~
+a zealot~
+A zealot tells you how to be saved.
+~
+He is dressed in old, filthy clothing and his hair is tangled and nappy.
+He wanders about the city with a crazed look in his eyes and spouts scripture
+from the book of the Cross.
+~
+2120 0 0 0 0 0 0 0 900 E
+1 19 9 1d5+20 1d4+0
+10 100
+8 8 1
+Race: 0
+E
+#8070
+street urchin~
+a street urchin~
+A street urchin gives you a pitiful look.
+~
+He's a shifty looking character who keeps glancing at you out of the corner
+of his eye.
+~
+8396 0 0 0 0 0 0 0 -400 E
+1 19 9 1d5+20 0d4+0
+3 100
+8 8 1
+Race: 0
+E
+#8071
+beggar~
+a beggar~
+A beggar asks for your loose change.
+~
+He's dressed in decrepit rags and his toes show through his shoes. You feel
+a twinge of pity. Almost.
+~
+10444 0 0 0 0 0 0 0 400 E
+1 19 9 1d5+20 1d4+0
+3 100
+8 8 1
+Race: 0
+E
+#8072
+drunk~
+a singing drunk~
+A singing drunk vomits on the ground.
+~
+He looks like he had a few too many bottles of ale for breakfast this morning.
+~
+2120 0 0 0 0 0 0 0 400 E
+1 19 9 1d5+20 1d4+0
+5 100
+8 8 1
+Race: 0
+E
+#8074
+wandering minstrel~
+a wandering minstrel~
+A wandering minstrel plays his flute.
+~
+He's an elven minstrel; traveled far from his homeland in search of the
+perfect ballad.
+~
+2248 0 0 0 0 0 0 0 700 E
+1 19 9 1d5+20 1d4+0
+10 100
+8 8 1
+Race: 1
+E
+#8076
+harga~
+Harga~
+Harga is here trying to get people to buy his ribs.
+~
+This large man can only be the famous Harga, proprietor and owner of
+Harga's House of Ribs. He looks like he's been up to his elbows in grease
+for a long time.
+~
+188426 0 0 0 0 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+1 270000
+8 8 0
+Race: 0
+E
+#8078
+Thib jeweler~
+Thib the jeweler~
+Thib the jeweler stands here, eyeing a fine stone through a monocle.
+~
+He's a tall, red-haired man with a serious look. A sharp dagger with an
+emerald-inlaid hilt hangs from his side.
+~
+190474 0 0 0 0 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+100000 270000
+8 8 1
+Race: 0
+E
+#8079
+mime~
+a mime~
+A mime stands here, trapped in an invisible box.
+~
+Kill it! Kill it now!
+God have mercy on us all, please kill it!
+~
+1048648 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d3+0
+4 50
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#8080
+acolyte priestess~
+an acolyte priestess~
+An acolyte priestess runs errands for her mistress.
+~
+She is a young, naive thing, destined for the priesthood since birth.
+She smiles at you shyly as she hurries by on her errand.
+~
+200 0 0 0 0 0 0 0 600 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 2
+Race: 0
+E
+#8081
+sorcerer apprentice~
+an apprentice sorcerer~
+A young sorcerer stands here, staring at the sights.
+~
+Obviously a tourist; he's gawking at the buildings and holding tightly onto
+his purse.
+~
+1048584 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+10 100
+8 8 1
+Race: 0
+E
+#8083
+psionic psionist guildguard~
+the psionic guildguard~
+A balding psionic in grey robes guards the mistress's chamber.
+~
+He stares straight forward, but you can sense his feathery probes at your
+mind as he continually searches you for signs of violence.
+~
+172043 0 0 0 0 0 0 0 600 E
+33 -13 -23 33d5+2163 22d4+22
+50 0
+8 8 1
+Race: 0
+E
+#8086
+berzerker tattooist~
+Berzerker the tattoo guy~
+Berzerker grins evilly at you as you enter his shop.
+~
+No one knows exactly where he came from, or how he got here, but he makes some
+bad-ass tattoos. Just as you are about to turn away from him, his face seems
+to twist into some foul mockery of a human's visage, but just as you notice
+it, it returns to normal.
+~
+256027 0 0 0 1474568 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+5000 0
+6 6 1
+Race: 0
+E
+#8087
+identifier Ferrenx~
+Ferrenx the identifier~
+Ferrenx the identifier stands here, perusing an old magic book.
+~
+He's dressed in fine silk clothes, dyed white to match his bowl-cut hair
+and bushy eyebrows.
+~
+253963 0 0 0 1073873032 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+1 0
+8 8 1
+Race: 0
+E
+#8088
+guard jail jailguard~
+the jailguard~
+A fat jailguard sits here, wiggling a loose tooth.
+~
+He's fat, ugly, and willing to take a bribe.
+~
+11 0 0 0 0 0 0 0 0 E
+29 -9 -19 29d5+391 19d4+19
+20 55000
+6 6 1
+Race: 0
+E
+#8089
+guard~
+the guard~
+A guard is here, keeping you from going into prison.
+~
+This man came into town poor, but now works in one of the cities most important
+positions, he keeps people from wandering into jail.
+~
+45083 0 0 0 144392 0 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+20 360000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#8092
+servant house~
+the Servant~
+The Servant is here, making sure everything is organized.
+~
+A long-snouted, pointed-eared individual, well-fanged and clawed, of a
+greenish-silver cast of complexion, eyes large and shining, damp leathery wings
+folded against its lean sides. From its expression, you can't tell whether it
+is smiling or in pain.
+~
+16395 0 0 0 1032 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 0
+8 8 1
+Race: 25
+E
+#8093
+Tyr bartender~
+Tyr~
+Tyr stands here, tending the bar.
+~
+Once a great warrior, he's now retired to "brew the perfect cask of ale", as
+he puts it. The muscles stretching the arms of his tunic show he can still
+break up -- or finish -- a bar fight.
+~
+239642 0 0 0 0 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 1
+Race: 0
+Noise: You hear the clinking of bottles from the pub to the east.
+E
+#8095
+mortician undertaker~
+the Mortician~
+The Mortician, dressed all in black, stares at you knowingly.
+~
+Type 'Retrieve' to get your corpse back without venturing into
+the wilds NAKED!
+~
+16395 0 0 0 0 0 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+0 360000
+8 8 1
+Race: 0
+E
+#8096
+old guard~
+an old guard~
+An old guard stands watch here.
+~
+He is an old human, dressed in templar garb, but the heraldry on his uniform
+is like none you have ever seen.  He must be a templar from an old religion
+the likes of which you have never heard of.  Although he looks frail and
+tired, there is still a familiar gleam in his soft green eyes.
+~
+188443 0 0 0 1064 0 0 0 0 E
+38 -18 -28 38d5+5078 25d4+25
+0 0
+8 8 1
+Race: 0
+E
+$

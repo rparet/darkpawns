@@ -1,0 +1,383 @@
+#19500
+avian stone order~
+an avian stone of order~
+A stone carved with the image of an avian prince lies here.~
+~
+12 1 0 0 0 1 0 0 0
+0 0 0 0
+3 0 100.00
+#19501
+avian stone prosperity~
+an avian stone of prosperity~
+A stone carved with the image of an avian princess lies here.~
+~
+12 1 0 0 0 1 0 0 0
+0 0 0 0
+3 0 100.00
+#19502
+sandstone key~
+a sandstone key~
+A key carved out of the finest sandstone lies here.~
+~
+18 2 0 0 0 1 0 0 0
+0 0 0 0
+2 0 100.00
+#19503
+marble key~
+a marble key~
+A key crafted out of the finest white marble lies here.~
+~
+18 2 0 0 0 1 0 0 0
+0 0 0 0
+0 0 100.00
+#19504
+tomb key~
+a tomb key~
+A key carved out of white marble and inlaid with gold lies here.~
+~
+18 1 0 0 0 1 0 0 0
+0 0 0 0
+2 0 100.00
+#19505
+sword sunfire~
+a sword named "Sunfire"~
+A sword wreathed in sunlight and cold flames lies here.~
+~
+5 142439747 0 0 0 8193 0 0 0
+0 4 8 3
+20 7000 5.00
+A
+29 12
+A
+19 2
+#19506
+steel battle skirt~
+a steel battleskirt~
+A battleskirt forged out of the finest steel lies here.~
+~
+9 65600 0 0 0 65537 0 0 0
+8 0 0 0
+6 4500 15.00
+A
+17 -5
+#19507
+steel battle bracer~
+a steel battle bracer~
+A bracer made out of the finest steel and wrapped in blades lies here.~
+~
+9 65536 0 0 0 4097 0 0 0
+8 0 0 0
+6 4500 15.00
+#19508
+ankh sun~
+the Ankh of the Sun~
+An egyptian ankh lies here radiating pure light.~
+~
+1 66883 0 0 0 16385 0 0 0
+0 0 -1 0
+5 7000 5.00
+A
+18 2
+A
+19 3
+#19509
+gleaming breastplate sun~
+a gleaming breastplate of the sun~
+A breastplate lies here with the depiction of the sun embossed upon it.~
+~
+9 141391171 0 0 0 9 0 0 0
+18 0 0 0
+30 7000 5.00
+A
+19 2
+A
+2 2
+#19510
+sun temple book tome~
+the Temple of the Avian Sun God~
+An ancient book about the avian sun temple lies here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 100.00
+#19511
+avian book tome~
+the history of the Avians~
+A tome about the history of the avian race lies here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 100.00
+#19512
+sarcophogus marble tomb~
+a marble sarcophogus~
+An extravagant sarcophogus lies here.~
+~
+15 64 0 0 0 0 0 0 0
+30 15 19513 0
+100100 0 100.00
+E
+sarcophogus tomb marble~
+A sarcophagus carved out of the finest white marble and the strongest sandstone
+is here.  It seems to be latched closed with multiple hinges made of some 
+unkown metal.  In the center is a strange keyhole perhaps this is the secret to
+opening it, who knows what treasure may lie hidden inside.
+~
+#19513
+sarcophogus key~
+a sarcophogus key~
+A key imprinted with the picture of a sarcophogus lies here.~
+~
+18 67 0 0 0 1 0 0 0
+0 0 0 0
+10 0 1.00
+#19514
+mythology avian tome book~
+Avian Mythology~
+An ancient book on the avian mythology lies here.~
+~
+16 284 0 0 0 1 0 0 0
+0 0 0 0
+10 100 100.00
+#19515
+elven bow~
+an elven bow~
+A superiorly crafted bow lies here.~
+~
+6 10760282 0 0 0 8193 0 0 0
+0 3 4 0
+5 2250 30.00
+E
+elven bow~
+A magnificent bow that is crafted out of twisted ironwood.
+~
+A
+24 -5
+A
+10 -10
+A
+19 1
+A
+18 3
+#19516
+elven arrow~
+an elven arrow~
+A superbly crafted arrow lies here.~
+~
+7 64 0 0 0 8193 0 0 0
+0 3 4 0
+1 250 100.00
+E
+arrow~
+An arrow the quality of which only elves could make.
+~
+#19517
+tree life tako-ethreina~
+the tree of life~
+A massive tree is here teeming with life.~
+~
+12 64 0 0 0 0 0 0 0
+0 0 0 0
+500000 0 100.00
+E
+tree life~
+  The tree before you is massive, never has there been one like it nor will
+there ever be.  Its branches begin well out of reach around thirty feet above
+the ground.  Succulent fruits can be seen hanging from its boughs up high, none
+of which seem to have ever dropped to the ground.  Squirrels, owls and other
+various birds and animals have made their homes in its higher branches.  The
+tree seems to "kiss the sky" and its top disappears into the clouds.
+~
+#19518
+elven scimitar~
+an elven scimitar~
+A sleek, razor sharp scimitar lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 6 3
+2 250 100.00
+#19519
+elven longsword~
+an elven longsword~
+A sleek, razor sharp longsword lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 6 3
+3 400 100.00
+#19520
+elven shortsword~
+an elven shortsword~
+A sleek, razor sharp shortsword lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 4 3
+2 175 100.00
+#19521
+elven blade silverstar~
+an elven blade named "Silverstar"~
+A blade honed to a razors edge, and encrusted with runes lies here.~
+~
+5 347 0 0 0 8193 0 0 0
+0 4 6 3
+20 7000 8.00
+A
+2 2
+A
+18 1
+A
+19 1
+A
+26 3
+#19522
+elven chainmail~
+some elven chainmail~
+A suit of light yet durable chainmail lies here.~
+~
+9 322 0 0 0 9 0 0 0
+14 0 0 0
+8 500 100.00
+#19523
+elven helmet~
+an elven battle helmet~
+A helmet designed for battle lies here.~
+~
+9 322 0 0 0 17 0 0 0
+10 0 0 0
+6 350 100.00
+#19524
+elven chain leggings~
+some elven chain leggings~
+A pair of elven made chain leggings lie here.~
+~
+9 320 0 0 0 33 0 0 0
+10 0 0 0
+8 400 100.00
+#19525
+elven battle cloak~
+an elven battle cloak~
+An elven battle cloak lies here shimmering.~
+~
+9 322 0 0 0 1025 0 0 0
+8 0 0 0
+6 3500 40.00
+A
+18 2
+A
+2 1
+#19526
+small creek~
+a small creek~
+A small creek is here flowing gently by.~
+~
+23 0 0 0 0 0 0 0 0
+999999 999999 15 0
+1000004 0 100.00
+#19527
+tree stump~
+a hollowed out tree stump~
+A hollowed out tree stump lies here, rotting away.~
+~
+15 0 0 0 0 0 0 0 0
+10 0 -1 0
+0 0 100.00
+#19528
+fallen tree~
+a fallen tree~
+A fallen tree lies here, rotting away.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+#19529
+campfire~
+a campfire~
+A campfire burns here with a spit roasting over the coals.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+campfire~
+  The fire burning brightly here is using a type of fuel you have never seen
+before.  It appears to be a number of medium sized stones, each around four
+inches in diameter.
+~
+#19530
+honeycomb~
+honeycomb~
+A honeycomb is lying here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 0 100.00
+#19533
+avian stone recall~
+an avian stone carved with the runes for "recall"~
+A strangely carved avian stone lies here collecting dust.~
+~
+12 3 0 0 0 1 0 0 0
+0 0 0 0
+2 0 100.00
+#19593
+portal golden~
+a shimmering golden portal~
+A shimmering portal of golden light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 2 0
+0 8008 0.00
+S portal.lua 2
+#19594
+portal golden~
+a shimmering golden portal~
+A shimmering portal of golden light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 0 0
+0 19511 0.00
+S portal.lua 2
+#19595
+portal golden~
+a shimmering golden portal~
+A shimmering portal of golden light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 0 0
+0 19537 0.00
+S portal.lua 2
+#19596
+portal golden~
+a shimmering golden portal~
+A shimmering portal of golden light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 0 0
+0 19563 0.00
+S portal.lua 2
+#19597
+portal golden~
+a shimmering golden portal~
+A shimmering portal of golden light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 0 0
+0 19550 0.00
+S portal.lua 2
+#19598
+portal golden~
+a shimmering golden portal~
+A shimmering portal of golden light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 0 0
+0 19569 0.00
+S portal.lua 2
+#19599
+sanctuary potion~
+Testing Re-Sanc~
+A sanctuary potion from the Immortals lies here.~
+~
+10 0 0 0 0 1 0 0 0
+30 36 36 36
+0 0 100.00
+$~

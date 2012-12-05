@@ -1,0 +1,134 @@
+#9101
+sharp dagger~
+a sharp dagger~
+A sharp dagger has been stabbed into the ground here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 2 11
+4 250 100.00
+#9102
+cornucopia basket~
+a cornucopia~
+A basket full of fruit lies on the ground.~
+This basket sure holds a lot of fruit!
+~
+15 0 0 0 0 1 0 0 0
+30 0 -1 0
+10 50 100.00
+#9103
+fruit banana~
+a banana~
+A banana lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9104
+fruit apple~
+an apple~
+An apple lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9105
+fruit pear~
+a pear~
+A pear lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9106
+fruit orange~
+an orange~
+An orange lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9107
+fruit pineapple~
+a pineapple~
+A pineapple lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9108
+fruit grapes~
+some grapes~
+Some grapes lie here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9109
+fruit grapefruit~
+a grapefruit~
+A grapefruit lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9110
+fruit peach~
+a peach~
+A peach lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9111
+fruit watermelon~
+a watermelon~
+A watermelon lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9112
+fruit kiwi~
+a kiwi~
+A kiwi lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9113
+fruit canteloupe~
+a canteloupe~
+A fresh canteloupe lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9114
+fruit mango~
+a mango~
+A mango lies here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+1 1 100.00
+#9115
+ancient dagger druid sacrificial~
+an ancient dagger~
+An old, well-used sacrificial dagger lies on the ground here.~
+~
+5 136581440 0 0 0 8193 0 0 0
+0 3 5 11
+8 3350 30.00
+A
+18 1
+A
+19 1
+#9401
+rugged leather backpack~
+a rugged leather backpack~
+A rugged leather backpack lies here.~
+~
+15 0 0 0 0 1025 0 0 0
+50 1 -1 0
+5 50 40.00
+$~

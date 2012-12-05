@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1311"
+   name=""
+   committed-date="2006-08-24T04:26:22.564988Z"
+   url="file:///var/svn/trunk/2.2/lib/database"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1311"
+   name="dp-schema.sql"
+   text-time="2006-10-09T21:26:54.000000Z"
+   committed-date="2006-08-24T04:26:22.564988Z"
+   checksum="19f8965d410eeba76fc3598a990e98c4"
+   last-author="jravn"
+   kind="file"
+   prop-time="2006-10-09T21:26:54.000000Z"/>
+<entry
+   committed-rev="1311"
+   name="config.cnf.sample"
+   text-time="2006-10-09T21:26:54.000000Z"
+   committed-date="2006-08-24T04:26:22.564988Z"
+   checksum="ab5e0f10b3b6ff7ac57fa41f362efa1e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2006-10-09T21:26:54.000000Z"/>
+<entry
+   committed-rev="1311"
+   name="imm-zone22.sql"
+   text-time="2006-10-09T21:26:54.000000Z"
+   committed-date="2006-08-24T04:26:22.564988Z"
+   checksum="fa3fbc7af1b3a84cf18825a301c297d1"
+   last-author="jravn"
+   kind="file"
+   prop-time="2006-10-09T21:26:54.000000Z"/>
+<entry
+   committed-rev="1311"
+   name="flag-data.sql"
+   text-time="2006-10-09T21:26:54.000000Z"
+   committed-date="2006-08-24T04:26:22.564988Z"
+   checksum="9a08fb71e8519150bdd33d8c9d7b36fa"
+   last-author="jravn"
+   kind="file"
+   prop-time="2006-10-09T21:26:54.000000Z"/>
+</wc-entries>

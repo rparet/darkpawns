@@ -1,0 +1,11 @@
+#/bin/sh
+#usage: ./movesel <zone#>
+
+echo "Moving zone $1...."
+cp obj/$1.obj ~/build/lib/world/obj/$1.obj
+cp wld/$1.wld ~/build/lib/world/wld/$1.wld
+cp shp/$1.shp ~/build/lib/world/shp/$1.shp
+cp zon/$1.zon ~/build/lib/world/zon/$1.zon
+cp mob/$1.mob ~/build/lib/world/mob/$1.mob
+echo "Finished moving zone $1!"
+

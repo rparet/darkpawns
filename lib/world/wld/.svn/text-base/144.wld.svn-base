@@ -1,0 +1,1677 @@
+#14400
+The Overseer's Chamber~
+This is where Nevyn watches the events that happen in the Grey Keep. It is a
+large room, with a bed, a bookshelf, a desk, a couple chairs, and a decorative
+shield hanging on the wall with the sigil of Gil-Glash upon it.
+~
+144 525836 0 0 0 0
+D4
+~
+~
+0 0 0
+D5
+~
+~
+0 0 14413
+E
+map~
+map goes here.
+~
+S
+#14401
+Before a Great Wall~
+Looming before you is a tall wall made out of some dark mineral which you
+cannot identify. The wall is somehow melded into the mountain to the west of
+you, making it more solid and giving more protection in case what the wall is
+guarding is ever under siege.
+~
+144 4 0 0 0 4
+D1
+~
+~
+0 0 14402
+S
+#14402
+Before a Massive Gate~
+Standing before you is the biggest gate you've ever seen, wide enough to let
+three wagons through side by side and tall enough for the tallest of giants to
+walk through while holding his head high.  Unfortunately, the gates appear to
+be made of the same solid stone as the mountains which surround them, and you
+can see no way of opening them.
+~
+144 4 0 0 0 2
+D1
+~
+~
+0 0 14403
+D2
+~
+~
+0 0 14494
+D3
+~
+~
+0 0 14401
+S
+#14403
+Before a Great Wall~
+Looming before you is a tall wall made out of some dark mineral which you
+cannot identify. The wall is somehow melded into the mountain to the east of
+you, making it more solid and giving more protection in case what the wall is
+protecting is ever under siege.
+~
+144 4 0 0 0 4
+D3
+~
+~
+0 0 14402
+S
+#14404
+Inside the Wall~
+This side of the wall faces a huge castle that spans the whole width of the
+valley and is probably wider and deeper than you can imagine. The side of the
+mountain to the west has been worked smooth and radiates a strong aura of
+protection magicks. High green grass grows here, strangly, without weeds.
+~
+144 132 0 0 0 1
+D0
+~
+~
+0 0 14407
+D1
+~
+~
+0 0 14405
+S
+#14405
+Inside the Gate~
+This side of the huge gate to your south faces what looks like the front of
+a remarkably giant castle made out of grey stone.  The gate itself is made
+of solid stone and looks unopenable.  You are presently standing on a grassy
+patch of land that appears to rim the castle wall to the east and west.
+~
+144 196 0 0 0 1
+D0
+~
+~
+0 0 14408
+D1
+~
+~
+0 0 14406
+D3
+~
+~
+0 0 14404
+S
+#14406
+Inside the Wall~
+This side of the wall faces a huge castle that spans the whole width of the
+valley and is probably wider and deeper than you can fathom. The side of the
+mountain to the east has been worked smooth and radiates a strong aura of
+protection magicks. The grass here is a vibrant green and grows up to your
+knees.
+~
+144 132 0 0 0 1
+D0
+~
+~
+0 0 14409
+D3
+~
+~
+0 0 14405
+S
+#14407
+Before the Castle~
+The castle wall before you is made up of a strange grey material, which gives
+it an oddly forbidding appearance. Thin arrow slits line the wall to the north
+and the side of the mountain to the west has been worked smooth. As you look
+up you are amazed at how tall the castle is, although it is not nearly as tall
+as the wall slightly to your south. Green, knee-high grass rubs against you
+as you move around.
+~
+144 132 0 0 0 1
+D1
+~
+~
+0 0 14408
+D2
+~
+~
+0 0 14404
+S
+#14408
+At the Entrance to the Castle~
+A couple wide steps lead up to a big set of wooden double doors that are bound
+in black iron. The walls to the east and west of the doors are lined with thin
+arrow slits in case of attackers. The grass here is a bright green and is not
+worn down much, this place must not get many visitors.
+~
+144 132 0 0 0 1
+D0
+~
+doors wooden~
+1 0 14410
+D1
+~
+~
+0 0 14409
+D2
+~
+~
+0 0 14405
+D3
+~
+~
+0 0 14407
+S
+#14409
+Before the Castle~
+The castle wall before you is made up of a strange grey material, which gives
+it an oddly forboding appearance. Thin arrow slits line the wall to the north
+and the side of the mountain to the east has been worked smooth. As you look
+up you are amazed at how tall the castle is, although not nearly as tall as the
+wall to the south. Not much grass grows here, and the grass that does grow is
+small and not as green as the rest of the field.
+~
+144 132 0 0 0 1
+D2
+~
+~
+0 0 14406
+D3
+~
+~
+0 0 14408
+S
+#14410
+The Foyer~
+As you walk into the foyer of the huge castle, balls of light that have been
+inset into the east and west walls light up, dispersing all shadows from the
+room. The room is unfurnished and a tall, thin door is on the east wall. To
+the north is a great hall and to the south is a set of thick, wooden double
+doors.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14411
+D2
+~
+doors wooden~
+1 0 14408
+S
+#14411
+A Great Hall~
+You are in a huge room, exits lie in all directions. Silken tapestries line the
+walls depicting great battles throughout history. Hanging from the high ceiling
+is a huge crystal chandelier which seems to illuminate the entire room, even
+the corners. A beautiful red carpet leads off to the north.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14412
+D1
+~
+~
+0 0 14414
+D2
+~
+~
+0 0 14410
+D3
+~
+~
+0 0 14444
+S
+#14412
+The Ante Chamber~
+This room has been furnished beautifully, which is odd compared to the rest of
+the keep. Banners and flags hang from the walls and a thick, red carpet runs
+from the hall in the south to the room north of here. Balls of light the size
+of your head have been inset into the walls.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14413
+D2
+~
+~
+0 0 14411
+S
+#14413
+The Throne Room~
+An enormous room opens before you, stretching well over a hundred feet to the
+other end. The ceiling is higher than all but the tallest trees. The walls and
+ceiling are layered in hammered gold, finely filigreed and delicately painted.
+Rich silk tapestries hang from the walls. The far end of the room appears to be
+one huge, red velvet curtain. Centered against the backdrop of the curtain is
+a monolithic throne. The chair itself sits atop a raised, stepped stage as tall
+as a man. The throne itself is sized to seat a giant, not a man. It is worked
+in silver and inlaid with sapphires and emeralds.
+~
+144 8 0 0 0 0
+D1
+~
+door~
+1 0 14490
+D2
+~
+~
+0 0 14412
+E
+painting~
+It is a picture of a landscape of some foreign land, though it doesn't look like
+a place you'd like to visit in your adventures. A group of trees that have
+serpents instead of wood and leaves is being rained on by what seems to be blood
+and pits of flames dot the ground.
+~
+S
+#14414
+A Hallway~
+You are in part of a long hallway, a door is in the north wall to the east of
+you. The hallway is lighted, but not enough so that you can see everything,
+and something might be hiding in the shadows.
+~
+144 8 0 0 0 0
+D1
+~
+~
+0 0 14415
+D3
+~
+~
+0 0 14411
+S
+#14415
+A Hallway~
+You're in a long hallway that goes east and west. It is lighted here but not
+bright enough so that something couldn't sneak by you in the shadows. There
+is a thick, iron door to the north.
+~
+144 8 0 0 0 0
+D0
+~
+door iron~
+1 0 14416
+D1
+~
+~
+0 0 14417
+D3
+~
+~
+0 0 14414
+S
+#14416
+The Smithy~
+You've entered a huge room filled with all the necessary tools a blacksmith
+would need to make a suit of armor. A forge is burning in the north-west corner
+and shelves on the east and south walls have all sorts of ingots and rods on
+them.
+~
+144 8 0 0 0 0
+D2
+~
+door iron~
+1 0 14415
+S
+#14417
+An Intersection~
+This is where the hallway splits into different directions, you can go west,
+towards the entrance of the keep, east to what seems to be a large spiral
+staircase, north to another hall, and there's a door in the south wall. This
+room is well lit, but not enough so all the shadows are banished.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14421
+D1
+~
+~
+0 0 14420
+D2
+~
+door~
+1 0 14418
+D3
+~
+~
+0 0 14415
+S
+#14418
+Weapon Storage~
+This room is filled with all sorts of weapons, from awl pikes to zweihanders,
+you're sure you could find any weapon ever heard of here. Steel chests and
+wooden crates are in the back of the room, surely holding other weapons. There
+are doors to the north and south.
+~
+144 8 0 0 0 0
+D0
+~
+door~
+1 0 14417
+D2
+~
+door~
+1 0 14419
+S
+#14419
+Armor Storage~
+In contrast to the room north of here, this room is filled with all sorts of
+armor, from the antali warrior's hard pelts to the Grey Keep's own suits of
+grey armor. Each set of armor is equipped by wood carved into shapes of
+the different races of the land, some familiar like Ssaurs, others you've
+never even imagined existing.
+~
+144 8 0 0 0 0
+D0
+~
+door~
+1 0 14418
+S
+#14420
+On a Spiral Staircase~
+You have reached a spiral staircase, from here you can go west towards the
+great hall, or down into the darkness. The staircase isn't lighted well and
+seems kind of dangerous.
+~
+144 8 0 0 0 0
+D3
+~
+~
+0 0 14417
+D5
+~
+~
+0 0 14459
+S
+#14421
+A Hallway~
+This hallway runs north and south, and there is a door set into the east wall.
+A bright beam of light shoots out of the crack between the bottom of the door
+and the floor, dispersing the shadows.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14423
+D1
+~
+door~
+1 0 14422
+D2
+~
+~
+0 0 14417
+S
+#14422
+Nimos' Chamber~
+Nimos didn't need much room, so unlike some of Gil-Glash's other generals, he
+only asked for one small chamber without servants. The room is more like a
+cluttered attic than the abode of a powerful warlock. All sorts of books and
+scrolls litter the floor of the room, even the bed is partially covered with
+papers. Shelves, bolted into the stone walls, line every wall but the north
+one, which is dominated by a massive stone bookshelf which happens to be the
+most organized part of the room. A large mirror stands in the south-east
+corner, reflecting everything in the room at you.
+~
+144 12 0 0 0 0
+D0
+~
+bookshelf~
+1 0 14428
+D3
+~
+door~
+1 0 14421
+S
+#14423
+A Hallway~
+This part of the hallway is lighted, but not so much that something couldn't
+sneak by you unnoticed. There are doors on the east wall to the north and to
+the south.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14424
+D2
+~
+~
+0 0 14421
+S
+#14424
+A Hallway~
+This hallway is much like the rest of the other hallways in the keep, there's
+enough light to see but not enough so that things can't hide in the shadows.
+There is a door in the east wall.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14429
+D1
+~
+door~
+1 0 14425
+D2
+~
+~
+0 0 14423
+S
+#14425
+Entrance to Lady Amber's Quarters~
+This is a large room that is mainly empty, except for benches along the north
+and south walls, and plants in the corners. There are doors on the east and
+west walls.
+~
+144 8 0 0 0 0
+D1
+~
+door~
+1 0 14426
+D3
+~
+door~
+1 0 14424
+S
+#14426
+The Hall of Crossed Swords~
+This is the room that Lady Amber trains her fighting skills in, and where she
+has duels with other swordspeople. All swords of sword hang on every wall.
+Weights and conditioning aids are ocver in the corner of the large room, and
+next to them are diagrams of the anatomy of various races and charts showing
+different weapons and schematics teaching positioning during battle.
+~
+144 12 0 0 0 0
+D2
+~
+~
+0 0 14427
+D3
+~
+door~
+1 0 14425
+S
+#14427
+Lady Amber's Bedroom~
+This room seems to be totally unlike the serious, battle-hardened Lady Amber.
+A huge, four poster bed dominates most of the room, and a window to the east
+looks out over a beautiful landscape. A closet in the west wall is where she
+must store her clothing, and on the wall next to the closet is a huge square
+of silvered glass.
+~
+144 262156 0 0 0 0
+D0
+~
+~
+0 0 14426
+D3
+~
+mirror~
+1 0 14428
+E
+window landscape~
+You remember the outside of the keep and wonder what it's looking out over. It
+radiates a strong aura of divining magicks.
+~
+S
+#14428
+The Secret Room~
+This large room is strangely hotter than most of the other rooms in the keep,
+and a big bed is pushed up against the northern wall. On the west wall are
+all sorts of strange objects, some look like they're used to cause pain, and
+others look like they're meant to cause pleasure.
+~
+144 77 0 0 0 0
+D1
+~
+door~
+1 0 14427
+D2
+~
+door~
+1 0 14422
+S
+#14429
+A Hallway~
+This hallway seems a bit brighter than all the others. A dark red banner is
+hanging from the north wall. The hallway goes west and south.
+~
+144 8 0 0 0 0
+D2
+~
+~
+0 0 14424
+D3
+~
+~
+0 0 14430
+S
+#14430
+A Hallway~
+You are in a dark, gloomy hallway that leads east and west. A dim sphere of
+light is inset into the northern wall here, giving the room the little amount
+of light it has.
+~
+144 8 0 0 0 0
+D1
+~
+~
+0 0 14429
+D3
+~
+~
+0 0 14431
+S
+#14431
+A Hallway~
+This hall is much like the other halls in the keep, except that to the west
+and north the hallway opens up to a large chamber. From here you can go east
+or west.
+~
+144 8 0 0 0 0
+D1
+~
+~
+0 0 14430
+D3
+~
+~
+0 0 14432
+S
+#14432
+A Large Chamber~
+The large room you are in opens up to a great dining hall to the north, the
+dining hall is brightly lit and this room has no shadows. The hallway leads
+west and east from here.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14433
+D1
+~
+~
+0 0 14431
+D3
+~
+~
+0 0 14436
+S
+#14433
+The Dining Hall~
+This huge room is lit up brightly by a great crystal chandelier that hovers
+high above the table, but doesn't touch the tall ceiling. There is a large
+black marble table, with crimson veins, in the center of the room. At the head
+of the table, on the northern side of the room, is Gil-Glash's towering seat.
+On each side of the table are three smaller seats, all made of a different
+material. On the end of the table a comfortable, but small, chair rests. There
+is a wide door in the eastern wall.
+~
+144 8 0 0 0 0
+D1
+~
+door~
+1 0 14434
+D2
+~
+~
+0 0 14432
+S
+#14434
+The Kitchen~
+This long, narrow room contains the mixed scents of all sorts of food
+products. A long counter stretches the length of the north wall. On the east
+side of the room is a huge metal door with a big lock on it.
+~
+144 262152 0 0 0 0
+D1
+~
+door~
+2 14403 14435
+D3
+~
+door~
+1 0 14433
+S
+#14435
+The Meat Locker~
+This room is freezing! Frost covers all of the walls and the floor is slick
+with a thin layer of ice. Small icicles hang down all over the ceiling along
+with big, sharp hooks that hold up carcasses of herd beasts. Near the back of
+the room, you see many, more familiar, shapes hanging from hooks.
+~
+144 109 0 0 0 0
+D3
+~
+door~
+2 14403 14434
+E
+shapes~
+They're corpses of all sorts of humanoids.
+~
+S
+#14436
+A Hallway~
+This hall is a lot like the other halls in the keep, but to the north-east the
+hallway opens up into a large chamber, from which light spills out, brightening
+this part of the hall. From here you can go east or west.
+~
+144 8 0 0 0 0
+D1
+~
+~
+0 0 14432
+D3
+~
+~
+0 0 14437
+S
+#14437
+A Hallway~
+This part of the hallway is dark, but once your eyes get accustomed to the
+blackness, you can tell that to the west the hall ends and turns south.
+~
+144 8 0 0 0 0
+D1
+~
+~
+0 0 14436
+D3
+~
+~
+0 0 14438
+S
+#14438
+A Hallway~
+This hallway seems a little bit brighter than some of the other hallways. A
+dark, navy blue banner hangs from the north wall. From here you can go south
+and east.
+~
+144 8 0 0 0 0
+D1
+~
+~
+0 0 14437
+D2
+~
+~
+0 0 14439
+S
+#14439
+A Hallway~
+This part of the hallway does not have much light in it. A large, dim sphere
+has been placed into the ceiling. There is a door in the western wall.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14438
+D2
+~
+~
+0 0 14440
+D3
+~
+door~
+1 0 14446
+S
+#14440
+A Hallway~
+You are in a long, dark hallway. There is enough light to show you where you
+are going, but not enough so that something couldn't sneak by in the shadows.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14439
+D2
+~
+~
+0 0 14441
+S
+#14441
+A Hallway~
+This hallway is lighted fairly well. To the south you can see that the hallway
+splits off into two other directions. On the west wall here is a door.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14440
+D2
+~
+~
+0 0 14442
+D3
+~
+door~
+1 0 14453
+S
+#14442
+An Intersection~
+From here you can go in four directions. To the north, deeper into the keep,
+east, back towards the entrance to the keep. West, towards a spiral staircase,
+or you can enter the door to the south.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14441
+D1
+~
+~
+0 0 14443
+D2
+~
+door~
+1 0 14451
+D3
+~
+~
+0 0 14458
+S
+#14443
+A Hallway~
+You are in a dark hallway. An indescribable smell emanates from under the door
+in the northern wall.
+~
+144 8 0 0 0 0
+D0
+~
+door~
+1 0 14445
+D1
+~
+~
+0 0 14444
+D3
+~
+~
+0 0 14442
+S
+#14444
+A Hallway~
+This hall is illuminated by a light from the big room that opens up to the east
+of here. From here you can go deeper into the keep by going west, back towards
+the entrance by going east, or south into the Grey Slayer's barracks.
+~
+144 8 0 0 0 0
+D1
+~
+~
+0 0 14411
+D2
+~
+door~
+1 0 14457
+D3
+~
+~
+0 0 14443
+S
+#14445
+A Strange Laboratory~
+This large room is divided into several sections and is filled with shelves and
+long tables. You can't see any chairs in the whole room. The shelves contain
+books, liquids of varying colors, strange sculptures, stuffed animals, jars of
+live insects, worms, lizards, reams of blank parchment, glassware of all shapes
+and sizes and so on.
+~
+144 12 0 0 0 0
+D2
+~
+door~
+1 0 14443
+S
+#14446
+The Vestibule~
+This small room has benches lined against the north and south wall. To the
+west, the room seems to open up into a big chamber, but you can't tell what's
+in it. You can tell that this room is lit by some magickal force, but you
+can't see anything that could be a light source.
+~
+144 12 0 0 0 0
+D1
+~
+door~
+1 0 14439
+D3
+~
+~
+0 0 14447
+S
+#14447
+The Receiving Room~
+This is where Hisczdrezzez receives all his visitors, he only lets his most
+trusted allies and servants go into the rooms to the north, south and west. Only
+Gil-Glash can walk around the yuan-ti's rooms without permission, though he 
+respects Hisczdrezzez's privacy and would only go through his rooms in a dire
+emergency. A strangely-made throne sits on the west side of the room, in front
+of a large, red divan.
+~
+144 136 0 0 0 0
+D0
+~
+~
+0 0 14448
+D1
+~
+~
+0 0 14446
+D2
+~
+door south~
+1 0 14450
+D3
+~
+door west~
+1 0 14449
+S
+#14448
+A Sunken Chamber~
+The floor to this chamber is sunken, and covered with pillows of all sizes,
+making it look like a giant bed. Intricate tapestries line the walls, 
+displaying great events in the history of the yuan-ti race, and some show
+other, more reptilian beings being worshipped by the now almost extinct group.
+~
+144 262156 0 0 0 0
+D2
+~
+~
+0 0 14447
+S
+#14449
+The Shrine~
+This is Hisczdrezzez's sacred shrine to the snake goddess that once spawned
+the yuan-ti race. He lets no one enter this room, and only Gil-Glash if he
+specifically demands it. There is a huge, jade statue against the western wall,
+in front of a shallow dip in the center of the floor. There is an inscription
+near the bottom of the statue.
+~
+144 12 0 0 0 0
+D1
+~
+door~
+1 0 14447
+E
+inscription~
+It says:
+
+'Haaashaastaak, Lady of Lizards,
+Your children were fathers of us,
+Haaashaastaak, Princess of Reptiles.
+Come aid a grandchild now!'
+
+'Haaashaastaak, Mother of Scales,
+Cold-blooded bringer of life...'
+~
+S
+#14450
+Hisczdrezzez's Armory~
+This room is lined with wooden weapon racks holding many strange-looking
+weapons. In the back of the room is one even stranger suit of armor that
+appears to be hovering in mid-air. This is Hisczdrezzez's private armory,
+where he keeps the weapons sacred to his race and worshippers of his goddess.
+Most of the weapons radiate an aura of danger, and the armors of protection.
+~
+144 12 0 0 0 0
+D0
+~
+door~
+1 0 14447
+S
+#14451
+The Questioning Room~
+This stone room is barren of all furniture, except for a long, wooden table
+with several chips taken out of it and blood stains all over. This is where the
+alhoon Alhazred interrogates prisoners and spies. Shackles hang every five feet
+on the walls, and, judging from the dried blood that drenches the walls, they
+were used quite recently.
+~
+144 44 0 0 0 0
+D0
+~
+door~
+1 0 14442
+D2
+~
+door~
+1 0 14452
+S
+#14452
+Alhazred's Private Chamber~
+This is where the alhoon rests and thinks up plans for the future. A very
+comfortable-looking bed is in the south-west side of the room, opposite a
+stainless steel tub in the south-east side, it seems to be filled with a thick,
+pink liquid. Burnt into the stone floor is a large, circle covered with all
+sorts of arcane letters and runes. Next to the door is a big, stone bookshelf.
+~
+144 8 0 0 0 0
+D0
+~
+door~
+1 0 14451
+E
+liquid tub~
+After a closer examination, which you wish you never did, you realize it's
+embryonic fluid.
+~
+S
+#14453
+The Anteroom~
+This is the entryway to Raithir's rooms, it is draped in black and dark crimson
+tapestries and there are comfortable looking benches against the north and
+south walls. Small ceramic pots with different types of mushrooms growing from
+them are in the four corners of the room. From here you can go through either
+the door to the east and back to the hallway, or the door to the west and into
+the rest of Raithir's chambers.
+~
+144 72 0 0 0 0
+D1
+~
+door~
+1 0 14441
+D3
+~
+door~
+1 0 14454
+S
+#14454
+Raithir's Office~
+This room is Raithir's so-called 'office' from which he has audience with the
+others who call the Grey Keep home. There is a huge, black marble desk that is
+covered in all sorts of documents that look important. The only light in this
+room comes from the glowing fungi that dot the walls. There are doors on the
+east, south and north walls.
+~
+144 8 0 0 0 0
+D0
+~
+door~
+1 0 14455
+D1
+~
+door~
+1 0 14453
+D2
+~
+door~
+2 14409 14456
+S
+#14455
+Raithir's Bedroom~
+This is where Raithir spends his nights when not skulking around the keep. Most
+of the room is dominated by a large, black bed with silken sheets. A small
+nightstand is sitting next to the bed, and on the nightstand is a small pillar
+that illuminates the room. A big stone bookshelf has been placed against the
+eastern wall.
+~
+144 262152 0 0 0 0
+D2
+~
+door~
+1 0 14454
+S
+#14456
+Raithir's Treasury~
+This is where Raithir keeps all the gold and magical items he's 'acquired' in
+his travels, and it is truly a magnificent sight to behold. Large mounds of
+gold, silver, and foreign coins are scattered around the floor. Wands, staves
+and other items occasionally protrude from the piles.
+~
+144 72 0 0 0 0
+D0
+~
+door~
+2 14409 14454
+S
+#14457
+The Grey Slayer's Barracks~
+This is where some of the Grey Slayers sleep when not on duty. It is a long
+room lined with old cots. At the foot of each cot is a trunk in which the
+belongings of the Grey Slayer is kept. A small, glowing sphere is inset into
+the wall over the headboard of each bed.
+~
+144 262152 0 0 0 0
+D0
+~
+door~
+1 0 14444
+S
+#14458
+At the Top of a Spiral Staircase~
+You have reached a massive, spiraling staircase which isn't lighted well and
+seems a little dangerous. From here you can go east towards the great hall or
+down into the darkness.
+~
+144 8 0 0 0 0
+D1
+~
+~
+0 0 14442
+D5
+~
+~
+0 0 14460
+S
+#14459
+On a Spiral Staircase~
+You are on a massive spiral staircase. The only directions you can go from here
+are up, towards the ground level, or down, deeper into the bowels of the earth.
+~
+144 8 0 0 0 0
+D4
+~
+~
+0 0 14420
+D5
+~
+~
+0 0 14475
+S
+#14460
+At the Bottom of a Spiral Staircase~
+You are at the bottom of the dark, gloomy staircase. There is no light source
+here and it isn't very bright. To the east is a large, open room.
+~
+144 8 0 0 0 0
+D1
+~
+~
+0 0 14461
+D4
+~
+~
+0 0 14458
+S
+#14461
+The Entrance to the First Dungeon~
+This room is not furnished at all except for a tiny stool. This is the room
+that everything must go through to move between the first dungeon and the rest
+of the Keep. There is a huge steel door on the east wall.
+~
+144 8 0 0 0 0
+D1
+~
+door~
+2 14412 14462
+D3
+~
+~
+0 0 14460
+S
+#14462
+In the First Dungeon~
+You are in a long corridor lined with doors. There is not much light here, but
+there is enough for you to tell the doors were made to keep things inside,
+permanently. There is a huge steel door on the western wall.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14463
+D2
+~
+~
+0 0 14465
+D3
+~
+door~
+2 14412 14461
+S
+#14463
+In the First Dungeon~
+You are in a long, dark corridor lined with doors. There are doors to the east
+and west of you, thick wooden doors with little hatches through which you can
+see the prisoner inside.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14464
+D1
+~
+door~
+2 14412 14470
+D2
+~
+~
+0 0 14462
+D3
+~
+door~
+2 14412 14469
+S
+#14464
+In the First Dungeon~
+You have reached the end of a long, dark corridor. There are doors to the east
+and west of you. The doors are thick and wooden and have little holes about
+five and a half feet from the bottom of the door through which you can see
+what is happening inside.
+~
+144 8 0 0 0 0
+D1
+~
+door~
+2 14412 14468
+D2
+~
+~
+0 0 14463
+D3
+~
+door~
+2 14412 14467
+S
+#14465
+In the First Dungeon~
+You are in a long, dark corridor. There is a thick, metal door on the east and
+west walls. There are small hatches in the bottom of the door where the
+prisoner inside is fed from.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14462
+D1
+~
+door~
+2 14412 14472
+D2
+~
+~
+0 0 14466
+D3
+~
+door~
+2 14412 14471
+S
+#14466
+In the First Dungeon~
+You are at the end of a long, dark corridor. On the east and west walls are
+thick, steel doors which are covered in all sorts of arcane runes.
+~
+144 8 0 0 0 0
+D0
+~
+~
+0 0 14465
+D1
+~
+door~
+2 14412 14474
+D3
+~
+door~
+2 14412 14473
+S
+#14467
+Amaristee's Cell~
+This room is a filthy mess, feces and other wastes are piled into a corner and
+are being dug through by all sorts of vermin. The only light in this room comes
+from whenever the door, or the hatch on the door, is open, and even then only
+a little light is spread into the vermin-ridden chamber.
+~
+144 73 0 0 0 0
+D1
+~
+door~
+2 14412 14464
+S
+#14468
+Yathruin's Cell~
+This dirty room smells like it hasn't been cleaned since it was built. Piles
+of dirt, feces, and other refuse dot the floor. There is no light here, and
+the only light that ever touches this chamber is when the door is opened to
+allow food to the cell's occupant.
+~
+144 73 0 0 0 0
+D3
+~
+door~
+2 14412 14464
+S
+#14469
+An Empty Cell~
+This room has been scrubbed clean, although you still notice some marks left
+by the last occupant of the cell. Trash and debris is still stuck in the
+corners of the room, but otherwise it doesn't look like it would be too bad to
+live here, of course only if you were fed well and could walk in and out
+whenever you wished.
+~
+144 73 0 0 0 0
+D1
+~
+door~
+2 14412 14463
+S
+#14470
+Rilithinn's Cell~
+This cell is cleaner than some of the others, because it's current owner has
+moved in just recently. The room is still dark, and the only light comes from
+when the door is opened or the hole in the door uncovered.
+~
+144 9 0 0 0 0
+D3
+~
+door~
+2 14412 14463
+S
+#14471
+Aldegund's Cell~
+This room is smaller than most of the other cells you've seen so far, giving
+barely enough room to sleep and almost none to stand. It is dark in here, but
+because of your light you can see the small pile of feces and other refuse that
+seems to be used as a pillow.
+~
+144 329 0 0 0 0
+D1
+~
+door~
+2 14412 14465
+S
+#14472
+Ratharr's Cell~
+This cell is so compact that you have to hunch over and breath in deeply to
+enter, whoever the occupant is must not be a very happy being. With the door
+closed, this room would be completely black, but it wouldn't matter much, since
+there's nothing to see anyways.
+~
+144 329 0 0 0 0
+D3
+~
+door~
+2 14412 14465
+S
+#14473
+Belaerzyn's Cell~
+This large cell is basically empty, and seems like it is cleaned every day. On
+the middle of the floor is a large, round pentagram which seems to have been
+drawn in blood, and is slowly flaking away. The room is as dark as the others,
+and is only illuminated when the door is open.
+~
+144 131273 0 0 0 0
+D1
+~
+door~
+2 14412 14466
+S
+#14474
+An Empty Cell~
+This room looks like it hasn't been used in a long while, a carpet of dust at
+least half an inch thick covers the floor, and through it you can barely see
+the outline of what used to be a pentagram in the middle of the floor.
+~
+144 131273 0 0 0 0
+D3
+~
+door~
+2 14412 14466
+S
+#14475
+At the Bottom of a Spiral Staircase~
+You are at the bottom of the massive spiral staircase, it is still dark, but
+some light emanates from a room that opens up to the west. You can either go
+up the spiral staircase or west, into the bright room.
+~
+144 8 0 0 0 0
+D3
+~
+~
+0 0 14476
+D4
+~
+~
+0 0 14459
+S
+#14476
+The Entrance to the Second Dungeon~
+This large, room is illuminated by half a dozen glowing spheres that hover in
+a circle formation near the ceiling. There is a chair and desk against the
+north wall and a thick, black door against the west wall.
+~
+144 8 0 0 0 0
+D1
+~
+~
+0 0 14475
+D3
+~
+door~
+2 14414 14477
+S
+#14477
+In the Second Dungeon~
+You are in a long, bright corridor. The thick stone walls are lined with thick,
+metal doors. The source of the light is the round, glowing sphere above each
+set of doors.
+~
+144 8 0 0 0 0
+D0
+~
+door~
+2 14414 14484
+D1
+~
+door~
+2 14414 14476
+D2
+~
+door~
+2 14414 14489
+D3
+~
+~
+0 0 14478
+S
+#14478
+In the Second Dungeon~
+You are in a long, bright corridor. Doors line the walls and to the north and
+south are two thick metal ones. The door on the southern wall looks like the
+thing on the other side has tried to break out more than once.
+~
+144 8 0 0 0 0
+D0
+~
+door~
+2 14414 14483
+D1
+~
+~
+0 0 14477
+D2
+~
+door~
+2 14414 14488
+D3
+~
+~
+0 0 14479
+S
+#14479
+In the Second Dungeon~
+This part of the long, bright corridor is the same as the others. There are
+two thick, steel doors here, one on the north wall and one on the south.
+~
+144 8 0 0 0 0
+D0
+~
+door~
+2 14414 14482
+D1
+~
+~
+0 0 14478
+D2
+~
+door~
+2 14414 14487
+D3
+~
+~
+0 0 14480
+S
+#14480
+In the Second Dungeon~
+You have reached the end of the long, bright corridor, there are three thick,
+steel doors here, one on the north wall, one on the south, and one on the west.
+~
+144 8 0 0 0 0
+D0
+~
+door~
+2 14414 14481
+D1
+~
+~
+0 0 14479
+D2
+~
+door~
+2 14414 14486
+D3
+~
+door~
+2 14414 14485
+S
+#14481
+A Large Cell~
+The walls of this cell have magickal runes carved straight into the stone on
+them. The runes are now dull and don't seem to be doing anything. This room
+must be very dark when the door is closed, for you cannot see any source of
+light.
+~
+144 9 0 0 0 0
+D2
+~
+door~
+2 14414 14480
+S
+#14482
+A Large Cell~
+The walls of this chamber are covered in magickal runes that glow with an
+unearthly aura. The room seems devoid of all life and you feel the life slowly
+being drained from your soul.
+~
+144 131304 0 0 0 0
+D2
+~
+door~
+2 14414 14479
+S
+#14483
+A Large Cell~
+The walls of this room are engraved with all sorts of magickal runes and
+glyphs. A small pool of water lies in the northeast corner of the room, slowly
+becoming stagnant. Aside from the glowing runes, there is no light source in
+this room and it is very dark.
+~
+144 131304 0 0 0 0
+D2
+~
+door~
+2 14414 14478
+S
+#14484
+A Large Cell~
+Glowing runes and glyphs are engraved on each stone that make up the walls of
+this cell. Aside from that, there is no light in the room and it is a very
+gloomy place to be. A small pool of water is in the northwest corner of the
+room, and the rotting carcass of what must be a cow is in the southwest corner.
+~
+144 131304 0 0 0 0
+D2
+~
+door~
+2 14414 14477
+S
+#14485
+A Huge Cell~
+This cell is amazingly huge, you can't imagine how many stones make up the
+walls, ceiling, and floor of this room, and wouldn't even fathom the amount of
+individual runes and glyphs on each of them. A large pool of water is in the
+northwest part of the cell, which is more like a cavern.
+~
+144 131304 0 0 0 0
+D1
+~
+door~
+2 14414 14480
+S
+#14486
+A Small Cell~
+This cell is big enough to house a man, albeit uncomfortably. A small puddle of
+water is in the southeast corner of the chamber and the remains of what seem to
+be fish. Maggots crawl over the remaining carrion.
+~
+144 131304 0 0 0 0
+D0
+~
+door~
+2 14414 14480
+S
+#14487
+A Small Cell~
+The walls of this small room are covered with arcane glyphs of all kinds. Now
+they are dull, instead of glowing lightly like the ones in the other cells. The
+room is empty and looks like it's been cleaned often.
+~
+144 131304 0 0 0 0
+D0
+~
+door~
+2 14414 14479
+S
+#14488
+A Large Cell~
+You are in a large cell, the only light comes from the glowing runes and glyphs
+that cover the walls. A small pool of brackish water lies in the southwest
+corner of the cell. The inside of the door to the north has many dents and
+scratches, the most recent occupant of this room must have wanted out.
+~
+144 131304 0 0 0 0
+D0
+~
+door~
+2 14414 14478
+S
+#14489
+A Large Cell~
+The walls of this cell are covered in runes and glyphs that glow. Their light
+shines through the scorched marks that have been burnt into the walls, it seems
+that whoever is this cell's occupant had some control over fire that wasn't
+just magickal.
+~
+144 131304 0 0 0 0
+D0
+~
+door~
+2 14414 14477
+S
+#14490
+Gil-Glash's Bedroom~
+This room has been lavishly decorated. A massive bed takes up a majority of the
+space here. Aside from the doors to the west and north, the walls are covered
+in bookshelves. You can see a large summoning circle that has been etched into
+the floor, but it is partially covered by the bed.
+~
+144 8 0 0 0 0
+D0
+~
+door~
+1 0 14491
+D3
+~
+door~
+1 0 14413
+S
+#14491
+Gil-Glash's Harem~
+The floor of this room is covered with silken pillows and sheets. This is where
+Gil-Glash releases his stress and he comes here sometimes when he is frustrated
+enough so that he cannot concentrate.
+~
+144 262216 0 0 0 0
+D2
+~
+door~
+1 0 14490
+S
+#14492
+In a Narrow Valley~
+You are in a narrow valley, wide enough for a small wagon to pass through with
+ease. To the east lie the foothills of the dor-Sefrith plains and the valley
+continues running to the west.
+~
+144 64 0 0 0 4
+D1
+~
+~
+0 0 15155
+D3
+~
+~
+0 0 14493
+S
+#14493
+In a Narrow Valley~
+You are in a narrow valley in the Grey Mountains, the valley curves towards the
+north from here, where the valley seems to open up. To the east the valley
+continues.
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14494
+D1
+~
+~
+0 0 14492
+S
+#14494
+Before a Wide, Open Valley~
+You are at a part in the valley where it opens up into a large, cavern-like
+space. Strangely enough, a huge black wall blocks your view to the end of the
+valley.
+~
+144 0 0 0 0 4
+D0
+~
+~
+0 0 14402
+D2
+~
+~
+0 0 14493
+S
+#14495
+A Chamber of Glass~
+The walls of this round room are made from thick glass, you don't think you
+could break through it. The ceiling is the only part not made of glass, it seems
+to be some sort of wood with many holes. You cannot see any exit, but through
+the glass many things seem to be going on, but it is too blurry to tell.
+~
+144 655532 0 0 0 0
+S
+#14496
+A Strange Cell~
+This room is strange, the walls are invisible and all you can see behind them
+is white, cloudy space, like you're on some other plane. Occasionally you see
+dark patches move rapidly by your prison, nothing slow or close enough to let
+you make out the forms. The cell is big enough to let you move around, but you
+get the feeling that you won't need to move around for a long while.
+~
+144 655532 0 0 0 0
+S
+#14499
+The Sewer~
+This large room is filled with garbage. Holes in the ceiling that reach up to
+most of the individual rooms are where the garbage and other, more aromatic,
+refuse comes from.
+~
+144 8 0 0 0 0
+S
+$~

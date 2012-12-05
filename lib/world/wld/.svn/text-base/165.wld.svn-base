@@ -1,0 +1,436 @@
+#16500
+Stone Path~
+   This path is aligned with smooth stones which all look
+identical in size and shape. Black candles rest on every other
+stone which light the path with a faint, flickering glow. The path
+continues east, and leads back to the stone walkway to the west.
+~
+165 524288 0 0 0 0
+D1
+~
+~
+0 0 16502
+D3
+~
+~
+0 0 19598
+S
+#16501
+Stone Path~
+   The path continues to stretch around the perimeter of the stone
+wall. In the distance you hear sacred chanting, which seems to
+grow louder the further you head west. A large, obsidian fountain
+can be seen to the south.
+~
+165 524288 0 0 0 0
+D1
+~
+~
+0 0 19598
+D3
+~
+~
+0 0 16509
+S
+#16502
+Path Corner~
+   You stand in the north east corner of the stone path. It bends
+slowly to the south as you continue onward. This courtyard reminds
+you of a oriental monk's garden back on your home planet. Yet, the
+monk's garden was peaceful and sacred, this place, unfortunately,
+has the opposite effect.
+~
+165 524288 0 0 0 0
+D2
+~
+~
+0 0 16503
+D3
+~
+~
+0 0 16500
+S
+#16503
+Stone Path~
+   To the south, you can hear faint chanting. You think you see
+something moving in the distance, perhaps it's your imagination.
+On stone wall to the east hangs a large skull with twisted
+antlers. It, like the other skulls, is used as a ominous candle
+holder. To the west you see a large, granite fountain. The water
+seems to glow at the base.
+~
+165 524288 0 0 0 0
+D0
+~
+~
+0 0 16502
+D2
+~
+~
+0 0 16504
+S
+#16504
+Stone Path~
+   To the west, you see a line of walkers, clothed in black cowls.
+Their faces are cloaked by large, black hoods. They are all
+walking single file. The leader of the line claps two blocks of
+wood together in a rhythmic manner. At first with a slow,
+repetitive beat, then eventually speeding up to a fast, vigorious
+pulse, then he repeates the sequence again. This clapping of the
+wood keeps the line moving at a stedy pace.
+~
+165 524288 0 0 0 0
+D0
+~
+~
+0 0 16503
+D2
+~
+~
+0 0 16505
+S
+#16505
+Stone Path~
+   The path continues south towards a large building. The stones
+which align the path get larger the further you walk. Apparently
+the landscaping here was designed so that everything, including
+the shrubbery, heightens the further south you go south. This
+unique landscape seems to have been designed for aesthetic reasons
+rather than for practicality.
+~
+165 524288 0 0 0 0
+D0
+~
+~
+0 0 16504
+D2
+~
+~
+0 0 16506
+S
+#16506
+Path Corner~
+   You stand in the south east corner of the courtyard. Directly
+south of you is the side of a large, black building. Celestial
+windows align the upper wall, and oversized rafters hang out over
+the path. There is also stainglass which depicts a fiendish tale.
+In the pictorial, there is a large, black-armored knight, with
+red, glowing eyes. It stands triumphantly over mounds of burning
+corpses. The sinister knight raises his sword high in the air as a
+sign of victory.
+~
+165 524288 0 0 0 0
+D0
+~
+~
+0 0 16505
+D3
+~
+~
+0 0 16507
+S
+#16507
+Stone Path~
+   To the west is the entryway to the building. There is a large,
+chain-link tapestry that hangs on the south wall, and to the north
+you can see the head of a stone figure peering over the hedge. On
+the tapestry is a blood-red hex symbol which represents the cult's
+demonic following.
+~
+165 524288 0 0 0 0
+D1
+~
+~
+0 0 16506
+D3
+~
+~
+0 0 16508
+E
+tapestry~
+|     ..-=------=-..     |
+|   *'              `*   |
+| ,' \-=._      _.=-/ ', |
+| 7   \   -=__=-   /   T |
+| |    \_.=-  -=._/    | |
+| |_.=- \        / -=._| |
+| L------\------/------7 |
+| `.      \    /      .' |
+|   *,     \  /     ,*   |
+|     ``-=__\/__=-''     |
+\                        /
+ \ / \/ \/ \/\/ \/ \/ \ /  
+~
+S
+#16508
+Before the Entryway~
+   The entryway is so tremendous, that it makes you feel like a
+miniature figurine. The whole building, its ornamentation and
+adornment, reflect the cult's credo: a transcendental, monolithic
+entity, which rules with a sovereign aura of darkness. You hope
+this is not the last form of religion in this decimated world.
+~
+165 524288 0 0 0 0
+D0
+~
+~
+0 0 16515
+D1
+~
+~
+0 0 16507
+D3
+~
+~
+0 0 16514
+S
+#16509
+Path Corner~
+   You stand in the north west corner of the stone path. To the
+south, you can make out what looks to be a single-file line of
+monks. They walk in a compulsive, rhythmic manner. You think they
+are heading your direction, until you loose sight of them. The
+path curls around the perimeter of a stone wall, and fades into
+the darkness to the south.
+~
+165 524288 0 0 0 0
+D1
+~
+~
+0 0 16501
+D2
+~
+~
+0 0 16510
+S
+#16510
+Stone Path~
+   On the west wall is what looks to be a ox skull. Its thick,
+twisted horns protrude out at least two feet in either direction.
+It, too, is being used as a light source. These skulls, with their
+evil lighted eyes, are making you feel paranoid. The further you
+wander along this path, the more you become overcome by anxiety.
+~
+165 524288 0 0 0 0
+D0
+~
+~
+0 0 16509
+D2
+~
+~
+0 0 16511
+S
+#16511
+Stone Path~
+   Chant, the likes of which you have never head before, lingers
+in the air, and seems to have no source. The pitch and timbre seem
+to drone on without fluctuation. A low baseline seems to support
+the higher pitched variations. The chanting is of another
+language, almost completely alien to your ears. It is almost
+trancing, much like the mystics' sacred chant from your home
+world; however, this chant twists the mind. If you pause long
+enough to allow yourself to listen, you'll become hypnotized, and
+will convert to the wicked ways of the Order.
+~
+165 524288 0 0 0 0
+D0
+~
+~
+0 0 16510
+D2
+~
+~
+0 0 16512
+S
+#16512
+Stone Path~
+   The landscaping here is very peculiar. It has been designed in
+such a way, that it creates an almost optical illusion. Everything,
+including the shrubbery and walkway, has been heightened. The
+constant, slow-changing elevation, almost goes unnoticed. Until
+you turn around and gaze back to where you came from, you wouldn't
+notice the bizarre alterations of the landscape. It makes you feel
+a bit unbalanced and queazy.
+~
+165 524288 0 0 0 0
+D0
+~
+~
+0 0 16511
+D2
+~
+~
+0 0 16513
+S
+#16513
+Path Corner~
+   You stand in the south west corner of the courtyard. To the
+south, is the side of a large, black building. Rafters hang out
+over the path above, and huge stainglass windows depict mythical
+legends. Gazing up, the sharp rafters look like giant teeth,
+violently gnashing at the sky. The stainglass seems to be
+symbolic, even archetypal: an old man, a young child, and a
+beautiful maiden, are lying naked on stone alters. Above them are
+dark, swirling vapors. The whole pictorial is permeated with
+shadows, which seem to be cast from the fateful, menacing murk.
+~
+165 524288 0 0 0 0
+D0
+~
+~
+0 0 16512
+D1
+~
+~
+0 0 16514
+S
+#16514
+Stone Path~
+   To the east you can see the entryway of the dark building.
+Dangling from the rafter is a chain-link tapestry, painted with a
+blood-red, hexagonal design. It seems as though the devastation
+here, whatever it was, has had traumatic effects on the
+inhibitors. This explains this counterculture, this demonic
+escapism. The followers of this Order have become psychotic; they
+have become trapped in a nihilistic loop, unable to break free
+from their perpetual neurasthenia. 
+~
+165 524288 0 0 0 0
+D1
+~
+~
+0 0 16508
+D3
+~
+~
+0 0 16513
+S
+#16515
+Courtyard Walkway~
+   Metal beams extend out over the walkway. Each beam holds a 
+cow skull which illuminates the path. The walkway, when looked at 
+from a distance, appears to be the jaws of a large beast, with its 
+teeth arching over the path, as if it's trying to swallow it. In the 
+distance you can hear chanting. The chant permeates throughout 
+the air, and leaves no sign of origin. If one was subjected to this 
+constant, low-pitched murmuring for longer than a day, one would 
+be driven mad.
+~
+165 0 0 0 0 0
+D0
+~
+~
+0 0 16518
+D2
+~
+~
+0 0 16508
+S
+#16516
+Courtyard Walkway~
+You are in an unfinished room.
+~
+165 0 0 0 0 0
+D0
+~
+~
+0 0 16518
+D2
+~
+~
+0 0 16515
+S
+#16517
+Courtyard Walkway~
+   Thin stone plates are scattered about on the path. They have 
+been smoothed down by use, and create a nice, flat surface. This 
+walkway has been designed so that it stands out from all the rest 
+of the courtyard. Its size is double what it should be, which creates 
+a pleasant, unobstructed sensation. Steel beams jut out of the 
+ground on either side of the walkway. Black, braided leather
+hangs from the spires, and fastens a cow skull. The skulls have
+been hollowed, and cut open on the top so they can hold candles
+in the skull, rather than in the eye-sockets. The skulls look as if 
+they are glowing from within, like an oversized fire-fly.
+~
+165 0 0 0 0 0
+D0
+~
+~
+0 0 19598
+D2
+~
+~
+0 0 16518
+S
+#16518
+Centeral Sanctuary~
+   Massive obsidian stones have been carved and polished in the
+shape of sharp pyramids. They are placed evenly around this 
+sanctum, forming a large, circular fringe. Placed in the center of 
+the sanctuary, is a towering stone sculpture of a man wearing a 
+cowl, yet, he has the head of a goat. Placed around the statue are 
+black, circular cushions, used for meditation. There are many 
+offerings placed around the base of the statue. You assume this 
+satanic figure, this dark guru, is the lord of this Order of darkness.
+~
+165 0 0 0 0 0
+D0
+~
+~
+0 0 16517
+D1
+~
+~
+0 0 16519
+D2
+~
+~
+0 0 16515
+D3
+~
+~
+0 0 16520
+S
+#16519
+Peaceful Grove~
+You are in an unfinished room.
+~
+165 0 0 0 0 0
+D3
+~
+~
+0 0 16518
+S
+#16520
+Peaceful Grove~
+You are in an unfinished room.
+~
+165 0 0 0 0 0
+D1
+~
+~
+0 0 16518
+S
+#16598
+Roap Sound~
+Soundroom
+~
+165 0 0 0 0 0
+D0
+~
+~
+0 0 19591
+S
+#16599
+Intersection Sound~
+Soundroom
+~
+165 0 0 0 0 0
+D0
+~
+~
+0 0 19593
+S
+$~

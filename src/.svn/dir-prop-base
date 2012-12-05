@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 94
+build.count.h
+.build.count
+build
+TAGS
+svn_revision.h
+stamp-h1
+Makefile
+config.h
+.deps
+libdp.a
+
+END

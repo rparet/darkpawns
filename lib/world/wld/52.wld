@@ -1,0 +1,1140 @@
+#5200
+Sloping Hills~
+   You are wandering in some tall grass, just south of a hillock that shows
+evidence of long-waged battles.  The yellow-green reeds of grain grow tall
+here, and seem to deepen into a richer, brighter hue as you head south, up
+the face of the sloping hills and into the wilderness beyond.
+   Hills of greenery continue all around you, save north, where a defensable
+hillock looks out over the northern desert, and west, where outcroppings of
+basalt appear to have been blasted out of the ground at odd angles.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5009
+D1
+~
+~
+0 0 5201
+D2
+~
+~
+0 0 5210
+S
+#5201
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5019
+D1
+~
+~
+0 0 5202
+D2
+~
+~
+0 0 5211
+D3
+~
+~
+0 0 5200
+S
+#5202
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5029
+D1
+~
+~
+0 0 5203
+D2
+~
+~
+0 0 5212
+D3
+~
+~
+0 0 5201
+S
+#5203
+Sloping Hills~
+   You are wandering in some tall grass, just west of a road that splits
+these foothills into separate tracts of land.  Though the grass and reeds
+around you are chest-high, you can make out the desert to the south and
+catch the faintest whiff of carrion on the breeze.
+   The hills continue all around you, save east, where a road offers some
+sense of direction.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5039
+D1
+~
+~
+0 0 5204
+D2
+~
+~
+0 0 5213
+D3
+~
+~
+0 0 5202
+S
+#5204
+A Road Through The Hills~
+   The road widens here into a large circular lot as the northern caravan
+trail through the forest meets this lane that comes straight out of the 
+hills to the south.
+   A few empty, broken crates litter the ground here, perhaps evidence of
+an accident, or a past enchange of goods between those who dwell in the
+mountains and those who live on the coast and in the desert.
+   Hills and fields span to the eastern and western horizons, while the
+road continues north and south.
+~
+52 4 0 0 0 4
+D0
+~
+~
+0 0 5049
+D1
+~
+~
+0 0 5205
+D2
+~
+~
+0 0 5214
+D3
+~
+~
+0 0 5203
+S
+#5205
+Sloping Hills~
+   You are wandering in some tall grass, just east of a road that splits
+these foothills into separate tracts of land.  Though the grass and reeds
+around you are chest-high, you can make out the desert to the south and
+catch the faintest sound of a screeching hawk on the breeze.
+   Grasses sway all around you, save west, where a road offers some sense
+of direction.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5059
+D1
+~
+~
+0 0 5206
+D2
+~
+~
+0 0 5215
+D3
+~
+~
+0 0 5204
+S
+#5206
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5069
+D1
+~
+~
+0 0 5207
+D2
+~
+~
+0 0 5216
+D3
+~
+~
+0 0 5205
+S
+#5207
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5079
+D1
+~
+~
+0 0 5208
+D2
+~
+~
+0 0 5217
+D3
+~
+~
+0 0 5206
+S
+#5208
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5089
+D1
+~
+~
+0 0 5209
+D2
+~
+~
+0 0 5218
+D3
+~
+~
+0 0 5207
+S
+#5209
+Sloping Hills~
+   You are standing on a hill of high grass, just west of a dense thicket
+of impenetrable undergrowth.  It appears that this is the eastern border
+of the grassy foothills, where it stops amid a cluster of tall, leafy
+trees and mountain-rainforest-type shrubs.
+   To the north you can see the hills merge with rich savanna fields, 
+while to the south, you can barely make out a path through the densely
+covered hills as they rise.  The hills continue at this elevation to the
+west.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5099
+D1
+~
+~
+0 0 5190
+D2
+~
+~
+0 0 5219
+D3
+~
+~
+0 0 5208
+S
+#5210
+Sloping Hills~
+   You are wandering in some tall grass, just east of the site of a tectonic
+shift, where plates far below you have pushed masses of granite and basalt
+to the surface to form an effective barrier against travel.
+   The reeds below your feet crunch with dryness and you realize that even
+a single bolt of lightning could set the fields alight.
+   The hills continue all around you, growing steeper as you head south.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5200
+D1
+~
+~
+0 0 5211
+D2
+~
+~
+0 0 5220
+S
+#5211
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5201
+D1
+~
+~
+0 0 5212
+D2
+~
+~
+0 0 5221
+D3
+~
+~
+0 0 5210
+S
+#5212
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5202
+D1
+~
+~
+0 0 5213
+D2
+~
+~
+0 0 5222
+D3
+~
+~
+0 0 5211
+S
+#5213
+Grassy, Sloping Hills~
+   You are wandering in some tall grass, just west of a road that splits
+these foothills into separate tracts of land.  Though the grass and reeds
+around you are chest-high, you can make out the desert in the far, far
+distance to the south.
+   The hills continue all around you, save east, where a road offers some
+sense of direction.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5203
+D1
+~
+~
+0 0 5214
+D2
+~
+~
+0 0 5223
+D3
+~
+~
+0 0 5212
+S
+#5214
+A Road Through The Hills~
+   You are travelling along an oft-travelled road that splits the hills
+as it climbs higher into the mountains to the south.  Shrubs and tall
+grasses spring from the moist ground, perhaps tapping some unseen water
+source deep in the ground and away from the harsh desert heat to the
+north.
+   The road continues to the north and south, while the hills extend far
+to the east and west.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5204
+D1
+~
+~
+0 0 5215
+D2
+~
+~
+0 0 5224
+D3
+~
+~
+0 0 5213
+S
+#5215
+Sloping Hills~
+   You are wandering in some tall grass, just east of a road that splits
+these foothills into separate tracts of land.  The grass is dry here and
+could definitely use some rain to prevent field fires.
+   Grasses sway all around you, save west, where a road offers some sense
+of direction.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5205
+D1
+~
+~
+0 0 5216
+D2
+~
+~
+0 0 5225
+D3
+~
+~
+0 0 5214
+S
+#5216
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5206
+D1
+~
+~
+0 0 5217
+D2
+~
+~
+0 0 5226
+D3
+~
+~
+0 0 5215
+S
+#5217
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5207
+D1
+~
+~
+0 0 5218
+D2
+~
+~
+0 0 5227
+D3
+~
+~
+0 0 5216
+S
+#5218
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5208
+D1
+~
+~
+0 0 5219
+D2
+~
+~
+0 0 5228
+D3
+~
+~
+0 0 5217
+S
+#5219
+Some Wooded Paths~
+   You are standing on a hill of high grass, just west of a dense thicket
+of impenetrable undergrowth.  It appears that this is the eastern border
+of the grassy foothills, where it stops amid a cluster of tall, leafy
+trees and mountain-rainforest-type shrubs.
+   To the north you can see the hills slope towards rich savanna fields, 
+while to the south, you can barely make out the path that continues 
+through the sloping hills.  The hills continue at this elevation to the
+west.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5209
+D2
+~
+~
+0 0 5229
+D3
+~
+~
+0 0 5218
+S
+#5220
+Sloping Hills~
+   You are wandering in some tall grass, just east of the site of a tectonic
+shift, where plates far below you have pushed masses of granite and basalt
+to the surface to form an effective barrier against travel.
+   The reeds below your feet crunch with dryness and you realize that even
+a single bolt of lightning could set the fields alight.
+   The hills continue all around you, growing steeper as you head south.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5210
+D1
+~
+~
+0 0 5221
+D2
+~
+~
+0 0 5230
+S
+#5221
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5211
+D1
+~
+~
+0 0 5222
+D2
+~
+~
+0 0 5231
+D3
+~
+~
+0 0 5220
+S
+#5222
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5212
+D1
+~
+~
+0 0 5223
+D2
+~
+~
+0 0 5232
+D3
+~
+~
+0 0 5221
+S
+#5223
+Grassy, Sloping Hills~
+   You are wandering in some tall grass, just west of a road that splits
+these foothills into separate tracts of land.  Though the grass and reeds
+around you are chest-high, you can make out the desert in the far, far
+distance to the south.
+   The hills continue all around you, save east, where a road offers some
+sense of direction.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5213
+D1
+~
+~
+0 0 5224
+D2
+~
+~
+0 0 5233
+D3
+~
+~
+0 0 5222
+S
+#5224
+A Road Through The Hills~
+   You are standing on a gravel road that winds though the rolling hills
+all around you.  Greenery and a few shady trees mar the otherwise seemless
+terrain to the east and west, while the road ascends into the higher slopes
+to the south.
+   Far to the south, you can make out a desert that flanks the road.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5214
+D1
+~
+~
+0 0 5225
+D2
+~
+~
+0 0 5234
+D3
+~
+~
+0 0 5223
+S
+#5225
+Sloping Hills~
+   You are wandering in some tall grass, just east of a road that splits
+these foothills into separate tracts of land.  The grass is dry here and
+could definitely use some rain to prevent field fires.
+   Grasses sway all around you, save west, where a road offers some sense
+of direction.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5215
+D1
+~
+~
+0 0 5226
+D2
+~
+~
+0 0 5235
+D3
+~
+~
+0 0 5224
+S
+#5226
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5216
+D1
+~
+~
+0 0 5227
+D2
+~
+~
+0 0 5236
+D3
+~
+~
+0 0 5225
+S
+#5227
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing less steep as you head
+north.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5217
+D1
+~
+~
+0 0 5228
+D2
+~
+~
+0 0 5237
+D3
+~
+~
+0 0 5226
+S
+#5228
+Sloping Hills~
+   You are wandering in some tall grass, lost in the reeds and waving 
+mass of wild grains that sway with the wind.  The ground is steep here,
+and ascends into the hills to the south.
+   The hills continue all around you, growing more dense and covered
+with underbrush to the east.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5218
+D1
+~
+~
+0 0 5229
+D2
+~
+~
+0 0 5238
+D3
+~
+~
+0 0 5227
+S
+#5229
+Some Wooded Paths~
+   You are standing on a hill of high grass, just west of a dense thicket
+of impenetrable undergrowth.  It appears that this is the eastern border
+of the grassy foothills, where it stops amid a cluster of tall, leafy
+trees and mountain-rainforest-type shrubs.
+   To the north you can see the path wind through down the shrub-covered
+slope toward more open ground, while to the south, you can barely make out
+the trail that continues through the sloping hills.
+   The hills continue at this elevation to the west, though you have to
+hack your way through some brush to get through it.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5219
+D2
+~
+~
+0 0 5239
+D3
+~
+~
+0 0 5228
+S
+#5230
+Cliff Face~
+   You are standing atop a hill, just below a near-vertical cliff face.
+The view from here is extraordinary, as you look out over the rolling
+hills to the south and east.
+   To the west outcroppings of tectonic plate shifts have thrust up from
+the surface and prevented traveling in that direction, while to the south,
+the cliff face provides an even more impassible climb, as the faint rushing
+of gusting winds prevent you from even flying to the top.
+~
+52 4 0 0 0 4
+D0
+~
+~
+0 0 5220
+D1
+~
+~
+0 0 5231
+S
+#5231
+Cliff Face~
+   You are standing atop a hill, just below a near-vertical cliff face.
+The view from here is extraordinary, as you look out over the rolling
+hills to the south and east.
+   To the east and west, the tall hills continue to roll across the
+region, while to the south, the cliff face provides an impassible climb,
+as the sounds of powerful winds resonate off the rock above you.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5221
+D1
+~
+~
+0 0 5232
+D3
+~
+~
+0 0 5230
+S
+#5232
+Cliff Face~
+   You are standing atop a hill, just below a near-vertical cliff face.
+The view from here is extraordinary, as you look out over the rolling
+hills to the south and east.
+   To the east and west, the tall hills continue to roll across the
+region, while to the south, the cliff face provides an impassible climb,
+as the sounds of powerful winds resonate off the rock above you.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5222
+D1
+~
+~
+0 0 5233
+D3
+~
+~
+0 0 5231
+S
+#5233
+A Carved Cliff~
+   You stand below a vertical cliff, looking out over the northern
+horizon, across fields and rolling hills of tall grass.  
+   Here, someone has taken the time to chisel into the rock the head
+of a serpent - a companion to the one across the road to the east.
+It appears that gems or glass were once in place in the carving's
+eyes, but have long since vanished.
+   The hills continue to the west and north, while a road appears
+to scale the mountains to the east.  Only the cliff face appears to
+the south and there seems no way to scale it.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5223
+D1
+~
+~
+0 0 5234
+D3
+~
+~
+0 0 5232
+S
+#5234
+A Road Through The Hills~
+   You are standing on a gravel road that winds though the rolling hills
+all around you.  Trees and shrubs dot the grassy terrain while patches
+of moss and lichens adorn their trunks and stems.
+   The hills continue to the east and west, while the road ascends to
+the south and flows through the rolling terrain to the south.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5224
+D1
+~
+~
+0 0 5235
+D2
+~
+~
+0 0 5244
+D3
+~
+~
+0 0 5233
+S
+#5235
+A Carved Cliff~
+   You stand below a vertical cliff, looking out over the northern
+horizon, across fields and rolling hills of tall grass.  
+   Here, someone has taken the time to chisel into the rock the head
+of a serpent - a companion to the one across the road to the west.
+   The hills continue to the east and north, while a road appears
+to scale the mountains to the west.  Only the cliff face appears to
+the south and there seems no way to scale it.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5225
+D1
+~
+~
+0 0 5236
+D3
+~
+~
+0 0 5234
+S
+#5236
+Cliff Face~
+   You are standing atop a hill, just below a near-vertical cliff face.
+The view from here is extraordinary, as you look out over the rolling
+hills to the south and east.
+   To the east and west, the tall hills continue to roll across the
+region, while to the south, the cliff face provides an impassible climb,
+as the sounds of powerful winds resonate off the rock above you.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5226
+D1
+~
+~
+0 0 5237
+D3
+~
+~
+0 0 5235
+S
+#5237
+Cliff Face~
+   You are standing atop a hill, just below a near-vertical cliff face.
+The view from here is extraordinary, as you look out over the rolling
+hills to the south and east.
+   To the east and west, the tall hills continue to roll across the
+region, while to the south, the cliff face provides an impassible climb,
+as the sounds of powerful winds resonate off the rock above you.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5227
+D1
+~
+~
+0 0 5238
+D3
+~
+~
+0 0 5236
+S
+#5238
+Cliff Face~
+   You are standing atop a hill, just below a near-vertical cliff face.
+The view from here is extraordinary, as you look out over the rolling
+hills to the south and east.
+   To the east and west, the tall hills continue to roll across the
+region, while to the south, the cliff face provides an impassible climb,
+as the sounds of powerful winds resonate off the rock above you.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5228
+D1
+~
+~
+0 0 5239
+D3
+~
+~
+0 0 5237
+S
+#5239
+Some Wooded Paths~
+   You are standing on a hill of high grass, just west of a dense thicket
+of impenetrable undergrowth.  It appears that this is the eastern border
+of the grassy foothills, where it stops amid a cluster of tall, leafy
+trees and mountain-rainforest-type shrubs.
+   To the north you can see the path stop abruptly at a tall shelf of 
+rock, while to the south, you can barely make out the trail that winds
+through the sloping hills.
+   The hills continue at this elevation to the west, though you have to
+hack your way through some brush to get through it.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5229
+D3
+~
+~
+0 0 5238
+S
+#5244
+A Road Through The Hills~
+   You are standing on a rough gravel road where the sloping hills begin
+their ascent into the snow-capped peaks to the south.  Rocks and tall,
+leafy trees blanket the terrain and surround the road while offering a
+bit of shelter to the noisy groundling birds and squirrels that chitter
+at your approach.
+   The hills continue to the east and west, while the road ascends to
+the south and flows through the rolling terrain to the south.
+~
+52 0 0 0 0 4
+D0
+~
+~
+0 0 5234
+D2
+~
+~
+0 0 5254
+S
+#5254
+A Mountain Road~
+   You are standing on a steep road, surrounded by tall pines.  The view
+from here is lovely and to the north you can look out and see the desert
+across the northern horizon.
+   Mossy rocks lie to either side of the road, their green faces showing
+which way is north, while their lichens point out the western direction
+of the mountain.
+   The road descends into the lower elevations to the north and climbs
+high into the clouds to the south.  Rocks and trees lie too dense to 
+travel anywhere else.
+~
+52 0 0 0 0 5
+D0
+~
+~
+0 0 5244
+D2
+~
+~
+0 0 5264
+S
+#5264
+A Mountain Road~
+   You are standing on a steep road, surrounded by tall pines that block
+the rushing winds you hear whipping their green tops.  The view from here
+is extraordinary and to the north you can look out and see the desert and
+the ocean beyond it.
+   Mossy rocks rest to either side of the road, the grooves at their base
+showing signs that they had been moved from the ascending trail to allow
+easier passage up and down the mountain.
+   The road descends into the lower elevations to the north and climbs
+high into the clouds to the south.  Rocks and trees lie too dense to 
+travel anywhere else.
+~
+52 0 0 0 0 5
+D0
+~
+~
+0 0 5254
+D2
+~
+~
+0 0 5274
+S
+#5274
+A Mountainous Trail~
+   You are standing on a rock-strewn road that ascends the icy mountain
+below you.  The air is growing thin and your breath is starting to become
+labored.
+   The road ascends to the south and descends to the north.
+~
+52 0 0 0 0 5
+D0
+~
+~
+0 0 5264
+D2
+~
+~
+0 0 5284
+S
+#5284
+A Mountainous Trail~
+   You are standing on a rock-strewn road that ascends the icy mountain
+below you.  The air is thin here and you find yourself taking two heavy
+breaths just to keep your vision from becoming blurred and your head 
+from swimming.
+   The air smells of rich pine, and its heady scent is only reinforced
+by the jumbles of pine cones that litter both the steep road and the 
+forest flanking it.
+   The road ascends the mountain to the south and slopes downward to the
+north.
+~
+52 0 0 0 0 5
+D0
+~
+~
+0 0 5274
+D2
+~
+~
+0 0 5294
+S
+#5294
+A Mountain Pass~
+   You are standing at a gusty, snowy mountain pass.  A narrow road cuts
+through a break in the peak before you to the south, slicing through a
+large jumble of fallen stones that flank the open road.  The way south
+seems to level off a bit into a plateau-like smoothness into the peaks
+before turning steeply upward after a few hundred yards while the road
+bends sharply down the face of the mountain to the north.
+~
+52 0 0 0 0 5
+D0
+~
+~
+0 0 5284
+D2
+~
+~
+0 0 19401
+S
+$~

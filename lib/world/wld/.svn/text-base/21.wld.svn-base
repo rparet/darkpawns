@@ -1,0 +1,1956 @@
+#2100
+The Immortal Map Room of the Orc Burrows~
+   You stand upon a cloud in the sky, overlooking an intricate maze of passages
+below, even though in fact they reside below the surface.
+~
+21 524 0 0 0 0
+D5
+~
+~
+0 0 2149
+E
+maze~
+         U     0        U
+         |     |        |
+      0--0--0--0--0  0--0                  Upper Level of Orc Burrows
+            |     |  |  |                  --------------------------
+      0--0  0  0--P--0  0--0
+      |  |  |  |     |     |
+      0  0--0  0  0--0--0--0               U - Exit to surface (One Way)
+      |     |  |  |        |               D - Down to lower level
+U--0--0  0--0--0  0--0  0--0--U            E - Entrance to the burrows
+      |  |     |     |  |  |               W - River (Flows to east)
+      0  0  0--0  D--0  0  0               P - Pit (No exit)
+      |  |  |  |        |  |
+      0--0--0--E--0--0--0--0
+      |     |  |  |     |  |
+   P--0--0  0  0--0--0--0--0--U
+         |  |  |  |  |        |
+         0--0--0  0  0  0--0--0
+         |     |  |  |  |
+      U--0--0--0  0  U--0  D
+               |           |
+            0--0           0--0
+            |  |           |  |
+            W->W->W->W->W->W--W
+~
+S
+#2101
+A Tunnel Within the Burrows~
+   For the first time during your journey beneath the surface, you actually
+feel a sense of peace and security. If you wish, you can remain here to rest
+your weary bones or you could venture back into the network of tunnels to the
+south. It may also be possible to work your way through the dirt roof and
+back onto the surface.
+~
+21 32797 0 0 0 0
+D2
+~
+~
+0 0 2105
+D4
+You can't quite see through the tunnel roof.
+~
+~
+0 0 20303
+S
+#2102
+A Tunnel Within the Burrows~
+   Small is right! You have no sooner walked into the tunnel than you are at
+its end. The only choice you have is to return the way you came.
+~
+21 32777 0 0 0 0
+D2
+~
+~
+0 0 2107
+S
+#2103
+A Tunnel Within the Burrows~
+   You walk further down the tunnel and come face to face with a wall of dirt.
+Whether it was intentional or not, work on this area of the tunnel has not been
+completed. You could be mistaken, but it looks like you could work your way
+through the scant covering of grass above you and onto the surface. The tunnel
+to the south will take you back into the burrows.
+~
+21 32777 0 0 0 0
+D2
+~
+~
+0 0 2110
+D4
+You can't quite see through the tunnel roof.
+~
+~
+0 0 20310
+S
+#2104
+A Tunnel Within the Burrows~
+   As expected, you now stand face to face with a wall of dirt. It appears
+as if this area of the tunnel as been set aside as some type of animal shelter,
+a number of kennel-like holes dug into the tunnel walls either side of you.
+The bones of small forest creatures lie scattered about on the floor and
+tufts of fur have been placed down to fashion what looks like a mat.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2105
+S
+#2105
+A Tunnel Within the Burrows~
+   For once you can see relatively well further ahead of you and unfortunately
+it doesn't look like there's a lot there. The tunnel extends to the west and
+north, both directions ending in a dirt wall. There is also the option to
+return east.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2101
+D1
+~
+~
+0 0 2106
+D3
+~
+~
+0 0 2104
+S
+#2106
+A Tunnel Within the Burrows~
+   It is becoming remarkably cooler the further north you travel within the
+burrows. You cannot see it but can quite clearly hear the dripping of water
+from the east and wonder what its source is. The tunnel also extends to the
+west and south.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2107
+D2
+~
+~
+0 0 2113
+D3
+~
+~
+0 0 2105
+S
+#2107
+A Tunnel Within the Burrows~
+   The sound of dripping water grows louder and is most probably coming from
+the east. There is also a small recess in the northern wall which you could
+enter or you may travel back to the west.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2102
+D1
+~
+~
+0 0 2108
+D3
+~
+~
+0 0 2106
+S
+#2108
+A Tunnel Within the Burrows~
+   You discover the source of the water is in fact numerous tree roots which
+crowd the southern exit from the tunnel. It streams down the roots and forms
+pools of water on the ground, changing the usually dry dirt into mud. You
+could push your way south through the roots or return to the west.
+~
+21 32777 0 0 0 0
+D2
+With all of the roots over there, you can't see what lies beyond.
+~
+~
+0 0 2115
+D3
+~
+~
+0 0 2107
+S
+#2109
+A Tunnel Within the Burrows~
+   The temperature within the burrows is actually starting to cool down but
+you are unsure as to why. The layer of dirt covering every part of your
+exposed body is now a thin film of mud thanks to the heat you've already
+experienced. You may travel to the east or south from here.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2110
+D2
+~
+~
+0 0 2116
+S
+#2110
+A Tunnel Within the Burrows~
+   A T-junction in the tunnel system allows you to travel to the north, west
+or south. Any thoughts of leaving a trail should have been carried out by
+now as you find yourself deep within the maze beneath the surface. Looking
+down, you see a series of footprints, the majority of which lead to the north.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2103
+D2
+~
+~
+0 0 2117
+D3
+~
+~
+0 0 2109
+S
+#2111
+A Tunnel Within the Burrows~
+   Crawling around on your hands and knees is becoming tiresome, especially
+since you are now filthy! You make a silent promise that next time you'll
+let others do the adventuring for you. You may crawl to the south or east of
+here.
+~
+21 33033 0 0 0 0
+D1
+~
+~
+0 0 2112
+D2
+~
+~
+0 0 2119
+S
+#2112
+A Tunnel Within the Burrows~
+   A light breeze cools you down slightly and you wonder why you had not
+noticed any air flow previously. The only entrance for air into this place
+was through the way you came in and it certainly couldn't progress this far
+without an exit point. You are uncertain as to which direction the breeze
+came from but you can try and find it by crawling to the west or south.
+~
+21 33033 0 0 0 0
+D2
+~
+~
+0 0 2120
+D3
+~
+~
+0 0 2111
+S
+#2113
+A Tunnel Within the Burrows~
+   The first thing you notice is the smell, then you see the cause. Off to
+the side of the tunnel is the rotting carcass of what must have been a deer.
+You are almost overwhelmed by the stench but notice that the animal could not
+have been dead for too long. Large sections of flesh have been torn from its
+body and congealed blood has mixed with dirt to form a sticky mass on the
+floor. You decide to move on and can travel to the north or south.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2106
+D2
+~
+~
+0 0 2121
+S
+#2114
+A Tunnel Within the Burrows~
+   As you make your way northward you become even more suspicious that there
+is a reason no one walks this route. You are unsure why because the path to
+the east is covered by large tree roots beyond which you cannot see. However,
+they look flexible enough so you might be able to squeeze through if you
+wanted. Otherwise, you will have to journey back to the south.
+~
+21 32777 0 0 0 0
+D1
+You cannot see beyond the tree roots.
+~
+~
+0 0 2115
+D2
+~
+~
+0 0 2122
+S
+#2115
+At the Bottom of a Pit~
+   No sooner have you made your way through the wall of roots than you stumble
+and fall down a rather deep pit. Cursing silently you realize there is no easy
+way out of here and climbing up the dirt wall would surely result in half of
+it collapsing down upon you. The bones of others as fortunate as yourself rest
+on the ground but you can find nothing that would aid in your escape.
+~
+21 32781 0 0 0 0
+S
+#2116
+A Tunnel Within the Burrows~
+   For some reason this area of the burrows has been frequented regularly 
+judging by the number of footprints on the ground. However, what strikes you
+as odd is that they only travel north and south along the tunnel, not to the
+west. Tree roots to the west make it difficult to pass but you could certainly
+squeeze through with some effort.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2109
+D2
+~
+~
+0 0 2124
+D3
+The roots prevent you from seeing clearly.
+~
+~
+0 0 2115
+S
+#2117
+A Tunnel Within the Burrows~
+   The tunnel turns abruptly here and allows you to travel to the east or to
+the north. As you ponder which way to go, the earthen walls begin to shake and
+a cloud of dirt fills the air. There is a rumbling noise which grows louder
+and louder by the minute before it passes over the top of you and is gone
+as suddenly as it came. You have no idea what is was and decide that it might
+be more prudent to move on unless the roof itself caves in upon you.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2110
+D1
+~
+~
+0 0 2118
+S
+#2118
+A Tunnel Within the Burrows~
+   You pass by the unfortunate corpse of a fellow adventurer. It's still in
+one piece so you can only assume it wasn't eaten by the inhabitants of this
+place. Whatever remained of the poor soul's possessions have been taken and
+he now rests here in eternal sleep. Stepping over the corpse, you can go to
+the west or south.
+~
+21 32777 0 0 0 0
+D2
+~
+~
+0 0 2126
+D3
+~
+~
+0 0 2117
+S
+#2119
+A Tunnel Within the Burrows~
+   Well...you are now stuck. You are wedged firmly between the walls and no
+matter how hard you struggle, you can't pull yourself through. While you sit
+and ponder what to do, you hear what sounds like escaping air. You realize that
+by sticking yourself in the tunnel, you've created a pressure differential
+which thankfully pushes you out. Of course, you strike your head on a tree
+root in the process but you are now free to continue to the north or south.
+~
+21 33033 0 0 0 0
+D0
+~
+~
+0 0 2111
+D2
+~
+~
+0 0 2129
+S
+#2120
+A Tunnel Within the Burrows~
+   You work your way through the narrow tunnel hoping beyond all hope that it
+actually leads somewhere. To the east, it opens out into a larger tunnel where
+you can again stand or you may crawl northward into the darkness.
+~
+21 33033 0 0 0 0
+D0
+~
+~
+0 0 2112
+D1
+~
+~
+0 0 2121
+S
+#2121
+A Tunnel Within the Burrows~
+   The tunnel twists and turns for several hundred feet before arriving at
+this T-junction. There is a small opening in the western wall which you could
+probably crawl through or you may progress to the north or south if you wish
+to remain upright.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2113
+D2
+~
+~
+0 0 2131
+D3
+~
+~
+0 0 2120
+S
+#2122
+A Tunnel Within the Burrows~
+   The first thing you notice about this tunnel is that it doesn't appear to
+have ever been used. Of course, something had to create it but over time, any
+footprints on the ground have been covered by the endless amount of dirt down
+here. You can travel to the north or south.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2114
+D2
+~
+~
+0 0 2132
+S
+#2123
+A Tunnel Within the Burrows~
+   You make your way slowly as you are now on your hands and knees. The earth
+closes in around you and it's a tight squeeze to move yourself through. The
+tunnel continues to the south and also to the east where it opens up.
+~
+21 33033 0 0 0 0
+D1
+~
+~
+0 0 2124
+D2
+~
+~
+0 0 2133
+S
+#2124
+A Tunnel Within the Burrows~
+   The odor grows stronger to the west and you can just hear the faint sounds
+of metal moving against metal. The tunnel in that directions also grows rather
+small so it will be necessary to crawl through it should you wish to travel
+that way. Alternatively, the tunnels to the north and east are more open.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2116
+D1
+~
+~
+0 0 2125
+D3
+~
+~
+0 0 2123
+S
+#2125
+A Tunnel Within the Burrows~
+   You detect a faint odor from the west and it's not overly pleasant. Noises
+from the east also grab your attention and you must now decide which is the
+safest of the two options.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2126
+D3
+~
+~
+0 0 2124
+S
+#2126
+A Tunnel Within the Burrows~
+   You realize that you had better pay attention to where you walk as you get
+your foot snagged on another of those annoying roots. Thankfully, you do not
+injure yourself and may continue to the north, west or south.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2118
+D2
+~
+~
+0 0 2136
+D3
+~
+~
+0 0 2125
+S
+#2127
+A Tunnel Within the Burrows~
+   You crawl further down the tunnel and come face to face with a wall of
+dirt. Whether it was intentional or not, work on this area of the tunnel has
+not been completed. You could be mistaken, but it looks like you could work
+your way through the scant covering of grass above you and onto the surface.
+The tunnel to the east will take you back into the burrows.
+~
+21 33033 0 0 0 0
+D1
+~
+~
+0 0 2128
+D4
+You can't quite see through the tunnel roof.
+~
+~
+0 0 20429
+S
+#2128
+A Tunnel Within the Burrows~
+   The tunnel slopes uphill gently before leveling off, thus making it an
+even tighter squeeze than it was before. Fortunately, the tunnel ends further
+to the west or you can return to the T-junction to the east to escape the
+narrow crawlspace.
+~
+21 33033 0 0 0 0
+D1
+~
+~
+0 0 2129
+D3
+~
+~
+0 0 2127
+S
+#2129
+A Tunnel Within the Burrows~
+   The earthen walls still make it difficult to squeeze more than one person
+through at a time. The tunnel now splits and you can travel to the west,
+north or south.
+~
+21 33033 0 0 0 0
+D0
+~
+~
+0 0 2119
+D2
+~
+~
+0 0 2138
+D3
+~
+~
+0 0 2128
+S
+#2130
+A Tunnel Within the Burrows~
+   The tunnel turns abruptly here and allows you to travel to the south or
+east. You are finding it difficult to breathe with the combination of the heat
+within these tunnels and the cloud of dirt that you kick up as you move.
+Nothing seems more appealing right now than cool, fresh air and perhaps a swim
+in the river to clean yourself.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2131
+D2
+~
+~
+0 0 2139
+S
+#2131
+A Tunnel Within the Burrows~
+   As you work your way through the burrows, you notice that the roof is
+sometimes nothing more than a thin layer of dirt covered by grass on the
+surface above. It's a wonder that nothing walking above you comes crashing
+down but whatever constructed these tunnels has obviously done the bare
+minimum of work to ensure that won't happen. You have a choice of exits; north
+west or east.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2121
+D1
+~
+~
+0 0 2132
+D3
+~
+~
+0 0 2130
+S
+#2132
+A Tunnel Within the Burrows~
+   You could swear that there are a number of eyes staring at you but the more
+you try and peer into the darkness, the less you are able to see. You stand
+silently for a moment and hear nothing but your own breathing. You may push on
+to the west, south or north.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2122
+D2
+~
+~
+0 0 2141
+D3
+~
+~
+0 0 2131
+S
+#2133
+A Tunnel Within the Burrows~
+   You have difficulty navigating the bend in this narrow tunnel. You almost
+get stuck but have just enough room to continue to the north or to the east.
+The odor is getting close to unbearable and is definitely coming from the
+east.
+~
+21 33033 0 0 0 0
+D0
+~
+~
+0 0 2123
+D1
+~
+~
+0 0 2134
+S
+#2134
+A Tunnel Within the Burrows~
+   You find yourself crawling through a small layer of what appears to be
+blood! It's fairly fresh too considering the warmth and ease at which it
+ripples as you place you hands and knees in it. The tunnel bends again and
+continues to the west and south.
+~
+21 33033 0 0 0 0
+D2
+~
+~
+0 0 2143
+D3
+~
+~
+0 0 2133
+S
+#2135
+A Tunnel Within the Burrows~
+   You peer around the corner in the tunnel and are dismayed to find even more
+dirt. Face it, you're not getting out of here in a hurry. The roof is also
+quite low here which means you have to stoop to get by. It looks very similar
+to the south while to the east you may be able to stand upright.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2136
+D2
+~
+~
+0 0 2144
+S
+#2136
+A Tunnel Within the Burrows~
+   You have a choice of four directions here, the only difference being that
+to the west the tunnel roof slopes downward so it may be difficult to travel
+through. You notice another bundle of tree roots to the east.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2126
+D1
+~
+~
+0 0 2137
+D2
+~
+~
+0 0 2145
+D3
+~
+~
+0 0 2135
+S
+#2137
+A Tunnel Within the Burrows~
+   The roots here surround three sides of the tunnels end and would allow
+you to easily climb them if you wish. The tunnel roof might take some work to
+get through but if you wish to leave this place, it's definitely an option.
+~
+21 32777 0 0 0 0
+D3
+~
+~
+0 0 2136
+D4
+You can't quite see through the tunnel roof.
+~
+~
+0 0 20402
+S
+#2138
+A Tunnel Within the Burrows~
+   You have to push your way through the tunnel walls to progress any further
+and as a result are now covered in dirt. You would have thought that the tunnel
+would now be wider but it looks the same as it did before. A large tree root
+passes from the west to east through the wall and you have to crouch down to
+get by it. The tunnel extends to the north and south.
+~
+21 33033 0 0 0 0
+D0
+~
+~
+0 0 2129
+D2
+~
+~
+0 0 2146
+S
+#2139
+A Tunnel Within the Burrows~
+   You have actually found the first signs of life within the earthen walls of
+this place! They may only be worms, but they are indeed a sign that something
+happens here. You may continue to the north or south.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2130
+D2
+~
+~
+0 0 2147
+S
+#2140
+A Tunnel Within the Burrows~
+   You must be careful to avoid the tree roots which protrude through the
+tunnel roof. and disappear into the dirt floor upon which you stand. Numerous
+footsteps can be seen on the ground, some of them yours, the majority belonging
+to something else. The tunnel bends here and you can travel to the east or to
+the south.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2141
+D2
+~
+~
+0 0 2148
+S
+#2141
+A Tunnel Within the Burrows~
+   The tunnel has simply been carved out of the earth as is evident by the
+claw marks on the tunnel walls. A small amount of light comes from an opening
+to the south allowing you to see without the aid of a torch or magic. Tunnels
+to the north and west stretch into the darkness.
+~
+21 32776 0 0 0 0
+D0
+~
+~
+0 0 2132
+D2
+~
+~
+0 0 2149
+D3
+~
+~
+0 0 2140
+S
+#2142
+A Tunnel Within the Burrows~
+   You have found the source of the odor and it's through a large hole in the
+tunnel floor. The fresh blood drips down into it and you can hear it collecting
+at the bottom which doesn't sound that far away. Tree roots will allow easy
+access to the lower level if you wish to go down there.
+~
+21 33033 0 0 0 0
+D1
+~
+~
+0 0 2143
+D5
+It's a little too far down there to see anything.
+~
+~
+0 0 2191
+S
+#2143
+A Tunnel Within the Burrows~
+   You now have trouble staying in one spot as the tunnel slopes downward to
+the south and the layer of blood is making traction difficult. Fortunately,
+the number of tree roots is growing larger and you are able to steady yourself
+as you travel. The tunnel extends to the north and west.
+~
+21 33033 0 0 0 0
+D0
+~
+~
+0 0 2134
+D3
+~
+~
+0 0 2142
+S
+#2144
+A Tunnel Within the Burrows~
+   You are forced to stoop as you make your way through the tunnel, the roof
+dipping quite significantly compared to other areas you have progressed
+through. To the south, the tunnel opens into a larger chamber while it doesn't
+appear to be much better to the north.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2135
+D2
+~
+~
+0 0 2152
+S
+#2145
+A Tunnel Within the Burrows~
+   You actually have found the first signs of life within the earthen walls
+of this place! They may only be worms, but they are indeed a sign that
+something happens here. You can continue to the north or south.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2136
+D2
+~
+~
+0 0 2153
+E
+worms~
+You have no need for them and they definitely did NOT build this tunnel!
+~
+S
+#2146
+A Tunnel Within the Burrows~
+   You find it surprising that whoever built these tunnels was not uniform
+about it. While the place you stand is the same as the tunnel to the east and
+south, the tunnel to the north is noticeably smaller and would slow you down
+immensely if you wanted to travel through it.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2138
+D1
+~
+~
+0 0 2147
+D2
+~
+~
+0 0 2155
+S
+#2147
+A Tunnel Within the Burrows~
+   You just miss falling into a small ditch in the middle of the tunnel. It is
+perfectly shaped as though a giant ball had been placed there at one time.
+Fortunately, you are not hurt and can continue to the west, north or east.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2139
+D1
+~
+~
+0 0 2148
+D3
+~
+~
+0 0 2146
+S
+#2148
+A Tunnel Within the Burrows~
+   Clumps of dirt fall from the roof and walls as you walk through the burrows.
+Despite the roots that appear to extend in all directions, the tunnels lack
+the moisture necessary to hold this area together. You must be careful as you
+journey to avoid being buried alive. A small source of light can just be seen
+to the east while tunnels continue to the north, west and south.
+~
+21 32776 0 0 0 0
+D0
+~
+~
+0 0 2140
+D1
+~
+~
+0 0 2149
+D2
+~
+~
+0 0 2157
+D3
+~
+~
+0 0 2147
+S
+#2149
+Entrance to the Burrows~
+   Light filters through a maze of tree roots above you and illuminates a
+small room carved out of the earth. Tunnels spear off in all directions
+although you can't see more than a few feet into them. Unknown sounds
+occasionally break the silence around you and a shiver runs down your spine
+either in anticipation or fear.
+~
+21 32776 0 0 0 0
+D0
+You can't see down the tunnel very well.
+~
+~
+0 0 2141
+D1
+You can't see down the tunnel very well.
+~
+~
+0 0 2150
+D2
+You can't see down the tunnel very well.
+~
+~
+0 0 2158
+D3
+You can't see down the tunnel very well.
+~
+~
+0 0 2148
+D4
+~
+~
+0 0 20472
+S
+#2150
+A Tunnel Within the Burrows~
+   Dirt, dirt and even more dirt. Not surprising since the tunnel has been
+created beneath the surface of the forest but you're already covered in the
+stuff and it's not pleasant. You duck just in time to miss one of the many
+tree roots that criss-cross the roof and walls and wonder how far this
+tunnel system could possibly extend. You can barely make out a small room to
+the west while the tunnel extends to the south and east.
+~
+21 32776 0 0 0 0
+D1
+~
+~
+0 0 2151
+D2
+~
+~
+0 0 2159
+D3
+~
+~
+0 0 2149
+S
+#2151
+A Tunnel Within the Burrows~
+   It must have taken years to build this underground network, especially
+since it looks like it was done by hand...or perhaps you could say claw. The
+scratch marks in the walls are very obvious and although the earthen walls
+crumble easily under your touch, it must have taken a lot of work to dig
+through and then remove the tons of dirt. Your only options here are to
+travel to the west or east.
+~
+21 32777 0 0 0 0
+D1
+The tunnel opens up into a larger area although you can't quite see into it.
+~
+~
+0 0 2152
+D3
+~
+~
+0 0 2150
+S
+#2152
+An Open Cave~
+   You step into the northwestern corner of what appears to be a sleeping 
+chamber within the burrows. The only difference between this area and the
+tunnels you have traveled through is the size, dirt is still everywhere and
+the oppressive heat from lack of air flow is starting to wear you down. Simple
+mats of branches and leaves are scattered haphazardly around the cave and you
+can easily hear the loud slumber of something but you cannot see into the
+darkness. The cave continues to the east and south or you may enter one of
+the tunnels to the north or west.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2144
+D1
+~
+~
+0 0 2153
+D2
+~
+~
+0 0 2161
+D3
+~
+~
+0 0 2151
+E
+mats~
+They certainly don't look comfortable to you but they keep the owners off the
+earthen floor at least.
+~
+S
+#2153
+An Open Cave~
+   This corner of the chamber is noticeably smaller than the others and funnels
+into a tunnel that leads to the north. You trip on something and land face
+first into the dirt floor, narrowly missing one of the branches laid out here.
+Looking back, a collection of six animal bones has been painstakingly buried
+into the ground in the shape of a circle for reasons unknown. Ponder as you
+might, you cannot find a reason and decide to continue.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2145
+D2
+~
+~
+0 0 2162
+D3
+~
+~
+0 0 2152
+S
+#2154
+At the Bottom of a Pit~
+   No sooner have you made your way through the wall of roots than you stumble
+and fall down a rather deep pit. Cursing silently you realize there is no easy
+way out of here and climbing up the dirt wall would surely result in half of it
+collapsing down upon you. The bones of others as fortunate as yourself rest on
+the ground but you can find nothing that would aid in your escape.
+~
+21 77 0 0 0 0
+S
+#2155
+A Tunnel Within the Burrows~
+   Once again you are forced to weave your way through a number of tree roots
+that pierce the surface and continue downward through the dirt floor. With a
+little effort, you could push your way westward or travel to the north and east
+where the roots aren't as thick as they are here.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2146
+D1
+~
+~
+0 0 2156
+D3
+The wall of roots prevents you from seeing what lies beyond.
+~
+~
+0 0 2154
+S
+#2156
+A Tunnel Within the Burrows~
+   The tunnel turns abruptly here and allows you to travel to the west or to
+the south. As you ponder which way to go, the earthen walls begin to shake
+and a cloud of dirt fills the air. There is a rumbling noise which grows louder
+and louder by the minute before it passes over the to of you and is gone as
+suddenly as it came. You have no idea what it was and decide that it might
+be more prudent to move on unless the roof itself caves in upon you.
+~
+21 32777 0 0 0 0
+D2
+~
+~
+0 0 2164
+D3
+~
+~
+0 0 2155
+S
+#2157
+A Tunnel Within the Burrows~
+   A sense of foreboding descends upon you as you walk by what appears to be
+the carcass of a small animal. It has been here for some time judging by the
+distinct lack of flesh and the layer of dirt covering it but why it is here
+remains a mystery. The tunnel extends to the north and south.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2148
+D2
+~
+~
+0 0 2165
+E
+carcass~
+On closer inspection, the bones actually have scratches in them indicating
+that the animal was eaten rather than dieing of natural causes.
+~
+S
+#2158
+A Tunnel Within the Burrows~
+   The tunnel gently slopes downhill to the south and the roof of grass and
+roots is slowly replaced by a layer of dirt. A recess to the west appears to
+have been the beginning of another tunnel but it never progressed more than a
+few feet. The entrance to the burrows lies just to the north while the tunnel
+continues to the east and south.
+~
+21 32776 0 0 0 0
+D0
+~
+~
+0 0 2149
+D1
+~
+~
+0 0 2159
+D2
+~
+~
+0 0 2166
+S
+#2159
+A Tunnel Within the Burrows~
+   You stand at a crossroads within the tunnel system. The only difference
+between any of the exits is that the one to the south looks slightly narrower
+than the other three. Even with your light source, you cannot see much further
+than a few feet in front of you as clouds of dust and dirt float around you.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2150
+D1
+~
+~
+0 0 2160
+D2
+~
+~
+0 0 2167
+D3
+~
+~
+0 0 2158
+S
+#2160
+A Tunnel Within the Burrows~
+   This T-junction allows you to access tunnels to the west and south while
+it enters a slightly larger chamber to the east. You can hear sounds of some
+description coming from the chamber but apart from that, no others factors
+can help with your decision on which way to go.
+~
+21 32777 0 0 0 0
+D1
+A larger area opens up to the east.
+~
+~
+0 0 2161
+D2
+~
+~
+0 0 2168
+D3
+~
+~
+0 0 2159
+S
+#2161
+An Open Cave~
+   You find yourself in the southwestern corner of a small cave which is in
+fact merely an extension of the tunnel system you have made your way through.
+It's simply connected to three other rooms and has had the centre area removed
+to increase its size. Judging by the collection of branches and leaves, you
+believe the area is used as a sleeping chamber by the tunnel occupants which is
+somewhat disconcerting since it means they are probably still here. The cave
+continues to the north and east while a single tunnel departs to the west.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2152
+D1
+~
+~
+0 0 2162
+D3
+~
+~
+0 0 2160
+S
+#2162
+An Open Cave~
+   You weave your way through the makeshift beds to another corner of this
+sleeping chamber. The only difference between this area and the tunnels
+through which you arrived is the size. A fair amount of work has gone into its
+construction to provide a suitable area to accommodate a large number of
+creatures, whoever they may be. The cave opens up to the north an west while
+a tunnel leaves to the east.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2153
+D1
+~
+~
+0 0 2163
+D3
+~
+~
+0 0 2161
+S
+#2163
+A Tunnel Within the Burrows~
+   You blink as shafts of light beam through small holes in the roof. You fear
+that anything walking on the surface above you would more than likely come
+through the weakened roof and land on you so perhaps it is prudent to move
+into the tunnel to the west or south. You could also try and climb out onto
+the surface.
+~
+21 32776 0 0 0 0
+D2
+~
+~
+0 0 2171
+D3
+It looks like a small cave lies in that direction.
+~
+~
+0 0 2162
+D4
+You can't quite see through the tunnel roof.
+~
+~
+0 0 20588
+S
+#2164
+A Tunnel Within the Burrows~
+   A section of the earthen wall has collapsed making it difficult to proceed
+in any direction but you have the choice of north, east or south. The heat
+within the tunnels is almost unbearable as there is virtually no air flow.
+You can imagine this place during the heat of the day as being similar to
+walking through a wall of fire and are thankful at least that the darkness
+keeps the temperature down a little.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2156
+D1
+~
+~
+0 0 2165
+D2
+~
+~
+0 0 2173
+S
+#2165
+A Tunnel Within the Burrows~
+   A T-junction in the tunnel system allows you to travel to the north, west
+or east. Thoughts of leaving a trail enter your mind as you progress deeper
+into the maze as every part of this area looks exactly the same. Looking down,
+you see a series of footprints and wonder if any of them are actually yours.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2157
+D1
+~
+~
+0 0 2166
+D3
+~
+~
+0 0 2164
+S
+#2166
+A Tunnel Within the Burrows~
+   The tunnel walls narrow here and are just wide enough to allow one person to
+pass through. You trip and fall on an exposed root and curse at your misfortune
+as you get a face full of dirt. Coughing and spitting, you have the choice to
+travel north, west or south.
+~
+21 33033 0 0 0 0
+D0
+~
+~
+0 0 2158
+D2
+~
+~
+0 0 2175
+D3
+~
+~
+0 0 2165
+S
+#2167
+A Tunnel Within the Burrows~
+   You have to push your way through the tunnel walls to progress any further
+and as a result you are now covered in dirt. You would have thought that the
+tunnel would now be wider but it looks the same as it did before. A large tree
+root passes from the west to east through the wall and you have to crouch down
+to get by. The tunnel extends to the north and to the south.
+~
+21 33033 0 0 0 0
+D0
+~
+~
+0 0 2159
+D2
+~
+~
+0 0 2176
+S
+#2168
+A Tunnel Within the Burrows~
+   The first thing you notice is the smell, then you see the cause. Off to the
+side of the tunnel is the rotting carcass of what must have been a deer. You
+are almost overwhelmed by the stench but notice that the animal could not
+have been dead for too long. Large sections of flesh have been torn from its
+body and congealed blood has mixed with dirt to form a sticky mess on the
+floor. You decide to move on and can travel to the north or south.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2160
+D2
+~
+~
+0 0 2177
+S
+#2169
+A Tunnel Within the Burrows~
+   The tunnel turns abruptly here and allows you to travel to the south or
+east. You are finding it difficult to breathe with the combination of the heat
+within these tunnels and the cloud of dirt that you kick up as you move.
+Nothing seems more appealing right now than cool, fresh air and perhaps a swim
+in the river to clean yourself.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2170
+D2
+~
+~
+0 0 2178
+S
+#2170
+A Tunnel Within the Burrows~
+   Clumps of grass have begun to grow on the floor in front of you indicating
+that perhaps the tunnels in this part of the burrows have been here for quite
+some time. You are amazed that the grass can grow without the aid of sunlight
+and water but then again, you don't know what lies beneath your feet if in fact
+the burrows extend that far. You can travel to the west or east.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2171
+D3
+~
+~
+0 0 2169
+S
+#2171
+A Tunnel Within the Burrows~
+   The earthen walls slowly give way to solid rock to the east which is why the
+tunnel continues to the west and north. There is evidence that whoever
+constructed these tunnels did try to dig through the rock but it was obviously
+unsuccessful.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2163
+D3
+~
+~
+0 0 2170
+S
+#2172
+A Tunnel Within the Burrows~
+   You walk further down the tunnel and come face to face with a wall of dirt.
+Whether it was intentional or not, work on this area of the tunnel has not been
+completed. You could be mistaken, but it looks like you could work your way
+through the scant covering of grass above you and onto the surface. The tunnel
+to the east will take you back into the burrows.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2173
+D4
+You can't quite see through the tunnel roof.
+~
+~
+0 0 20689
+S
+#2173
+A Tunnel Within the Burrows~
+   As you work your way through the burrows, you notice that the roof is
+sometimes nothing more than a thin layer of dirt covered by grass on the
+surface above. It's a wonder that nothing walking above you comes crashing
+down but whatever constructed these tunnels has obviously done the bare
+minimum of work to ensure that won't happen. You have a choice of exits;
+north, west or east.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2164
+D1
+~
+~
+0 0 2174
+D3
+~
+~
+0 0 2172
+S
+#2174
+A Tunnel Within the Burrows~
+   You almost get wedged between the narrowing tunnel walls but just scrape
+through. Something similar to a snicker catches your attention but before you
+can register a direction, it is gone. The tunnel opens up to the west and
+continues deeper into the darkness to the east.
+~
+21 33033 0 0 0 0
+D1
+~
+~
+0 0 2175
+D3
+~
+~
+0 0 2173
+S
+#2175
+A Tunnel Within the Burrows~
+   The earthen walls still make it difficult to squeeze more than one person
+through at a time but it looks as if the tunnel opens up to the south where you
+can also hear the sound of running water. Alternatively, you could try and make
+your way to the west or north.
+~
+21 33033 0 0 0 0
+D0
+~
+~
+0 0 2166
+D2
+~
+~
+0 0 2181
+D3
+~
+~
+0 0 2174
+S
+#2176
+A Tunnel Within the Burrows~
+   The effort to reach the tunnels end seems hardly worth it. Whoever built
+the tunnels has decided that this section should travel no further and you now
+stare blankly at a wall of dirt, claw marks still visible on the southern end
+of the tunnel. Bones cover the floor although you cannot determine the original
+owner or why they sit in this place.
+~
+21 33033 0 0 0 0
+D0
+~
+~
+0 0 2167
+S
+#2177
+A Tunnel Within the Burrows~
+   The tunnel bends here and continues to the north and east. The roots that
+have been quite prolific elsewhere are noticeably absent from the roof of
+this section. You notice that its nothing more than a thin layer of dirt
+covered by grass on the surface above. With a little effort, you might be
+able to force your way through the roof and back into the forest.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2168
+D1
+~
+~
+0 0 2178
+D4
+You can't quite see through the tunnel roof.
+~
+~
+0 0 20733
+S
+#2178
+A Tunnel Within the Burrows~
+   Footsteps on the dirt floor lead to the north and west from here, the only
+exits from this part of the tunnel system. You are almost speared by one of the
+numerous tree roots while you stare at the ground but manage to pull yourself
+back in time. An ear piercing shriek startles you but it is the only sound made
+and you are uncertain as to which direction it came from.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2169
+D3
+~
+~
+0 0 2177
+S
+#2179
+A Tunnel Within the Burrows~
+   The tunnel ends almost as soon as it started...it is nothing more than a
+small recess off the cavern to the south. The walls here are almost purely
+constructed from tree roots which provide hand and foot holds through the
+hole in the ground. Silence is the only thin to greet you from the hole and
+its murky darkness provides no clue as to what lies below.
+~
+21 9 0 0 0 0
+D2
+~
+~
+0 0 2182
+D5
+It's too dark to see down there.
+~
+~
+0 0 2199
+S
+#2180
+The Edge of an Underground River~
+   The edge of the river is relatively small and you have to be careful not
+to sink too deeply into the mud that has been created. Dirt walls prevent
+further travel to the west or north but you can travel along the shoreline to
+the east. The river to your south simply appears from an opening in the wall
+and flows steadily to the east.
+~
+21 32777 0 0 0 0
+D1
+~
+~
+0 0 2181
+D2
+You can see an underground river.
+~
+~
+0 0 2184
+S
+#2181
+The Edge of an Underground River~
+   If you had been wondering where the many trees of Noirwood got their
+nutrients then the river before you is the most likely of answers. You stand
+on the edge of an underground river that flows to the east and into a small
+tunnel that you cannot clearly see down. The shoreline extends to the west
+and abruptly ends while the tunnel network of the burrows lies to the north
+through a narrow opening.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2175
+D2
+You can see an underground river.
+~
+~
+0 0 2185
+D3
+~
+~
+0 0 2180
+S
+#2182
+The Edge of an Underground Lake~
+   The shoreline extends to the east and abruptly ends while a narrow tunnel
+leads off to the north. The calmer waters of this underground lake lie directly
+to the south but you would have to fight the river current if you intended to
+leave this place.
+~
+21 9 0 0 0 0
+D0
+~
+~
+0 0 2179
+D1
+~
+~
+0 0 2183
+D2
+~
+~
+0 0 2189
+S
+#2183
+The Edge of an Underground Lake~
+   Unless you plan to return to the water, your only option here is to walk
+along the shoreline to the west. Although there is no natural source of light
+within the cavern, the obvious exit appears to be back along the river you
+traveled although you can make out the entrance to a tunnel at the western end
+of the shore.
+~
+21 9 0 0 0 0
+D2
+~
+~
+0 0 2190
+D3
+~
+~
+0 0 2182
+S
+#2184
+Floating on an Underground River~
+   The river flows through a narrow opening in the western wall but it is too
+small for you to fit into. A steady current travels to the east where in the
+distance you can see the river disappears into the eastern wall. A small
+shoreline lies to the north.
+~
+21 8388617 0 0 0 7
+D0
+~
+~
+0 0 2180
+D1
+~
+~
+0 0 2185
+S
+#2185
+Floating on an Underground River~
+   The river pulls you towards the east as it rushes into a narrow tunnel in
+the wall. You could fight the steady current and travel to the west or
+alternatively, you could struggle onto the shoreline to the north.
+~
+21 8388617 0 0 0 7
+D0
+~
+~
+0 0 2181
+D1
+~
+~
+0 0 2186
+D3
+~
+~
+0 0 2184
+S
+#2186
+Floating on an Underground River~
+   The river continues its travel to the east although you can try and move
+upstream to the west if you wish. The sound of the river reverberates off the
+hollowed tunnel and is almost deafening at times.
+~
+21 8388617 0 0 0 7
+D1
+~
+~
+0 0 2187
+D3
+~
+~
+0 0 2185
+S
+#2187
+Floating on an Underground River~
+   The river continues its travel to the east although you can try and move
+upstream to the west if you wish. The sound of the river reverberates off the
+hollowed tunnel and is almost deafening at times.
+~
+21 8388617 0 0 0 7
+D1
+~
+~
+0 0 2188
+D3
+~
+~
+0 0 2186
+S
+#2188
+Floating on an Underground River~
+   The river continues its travel to the east although you can try and move
+upstream to the west if you wish. The sound of the river reverberates off the
+hollowed tunnel and is almost deafening at times. You can see what looks like a
+small lake to the east where your journey will undoubtably end.
+~
+21 8388617 0 0 0 7
+D1
+~
+~
+0 0 2189
+D3
+~
+~
+0 0 2187
+S
+#2189
+Floating on an Underground Lake~
+   The river pours out into a larger chamber and the current dies almost
+instantly allowing you free travel around this underground lake. The lake
+itself is not overly large, the southern side terminates at a wall of mud
+and dirt while to the north you can see another shoreline.
+~
+21 9 0 0 0 7
+D0
+~
+~
+0 0 2182
+D1
+~
+~
+0 0 2190
+D3
+~
+~
+0 0 2188
+S
+#2190
+Floating on an Underground Lake~
+   This is the furthest point on the underground lake that you can travel. To
+your south and east you are prevented from moving further by the cavern wall
+but you can continue back to the west or onto the shore to the north.
+~
+21 9 0 0 0 7
+D0
+~
+~
+0 0 2183
+D3
+~
+~
+0 0 2189
+S
+#2191
+At the Base of a Large Hole~
+   You are standing at the bottom of a large hole in the roof, ankle deep in
+a pool of blood. This thought doesn't overly worry you since you've had to
+slay many creatures to reach here, but the fact that the blood is still warm
+does concern you. Just above your head sit a number of tree roots which you
+could use to climb back to the level above or you could enter a medium sized
+chamber to the south.
+~
+21 32781 0 0 0 0
+D2
+~
+~
+0 0 2193
+D4
+~
+~
+0 0 2142
+S
+#2192
+An Orc Storeroom~
+   The two rooms here, the other to the south, are obviously used to store
+the bounty the orcs obtain when they go on their village raids. You can see
+a variety of weapons and armor pieces, chests of treasure and a number of
+useless trinkets which must have caught their eye. Most of the items here
+are damaged beyond repair but something may be of value if you scrounge
+around a bit.
+~
+21 9 0 0 0 0
+D2
+~
+~
+0 0 2197
+S
+#2193
+The Center of the Burrows~
+   You have stumbled across the heart of the orc burrows for it is here that
+the numerous raids these creatures carry out are planned. The rotting corpses
+of many unfortunate creatures litter the floor and the stench of death is
+very overpowering. Screams of agony echo around you and you realize not all
+within this chamber is dead. Eyes glow in the surrounding darkness and all
+seem to be focused on you.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2191
+D1
+~
+~
+0 0 2194
+D2
+~
+~
+0 0 2195
+S
+#2194
+The Center of the Burrows~
+   You skirt around a makeshift table in the centre of the room and have the
+choice of moving to the west or south. You trip over a collection of bones
+in the corner and land head first into the carcass of a small forest animal.
+The signs of decay are abundant as you look around after having wiped yourself
+off and you pity the victims of the Dharzi orcs who will eventually wind up
+here.
+~
+21 32777 0 0 0 0
+D2
+~
+~
+0 0 2196
+D3
+~
+~
+0 0 2193
+S
+#2195
+The Center of the Burrows~
+   You step on the arm of what looks like a dwarven warrior and he yelps in
+pain and surprise. He has a number of tear marks and his flesh almost hangs
+from his body. The Dharzi orcs have claimed another victim who will shortly
+join his companions in the spiritual plane. You may leave him and travel to
+the north or east.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2193
+D1
+~
+~
+0 0 2196
+S
+#2196
+The Center of the Burrows~
+   Blood pooling on the floor is now rising at an alarming level given the
+size of this chamber. You are now up to your ankles in the stuff which doesn't
+seem to be disappearing quickly. Body parts from numerous creatures have been
+hung from the chamber roof in the twisted maze of roots that cover it. You
+decide it might be more prudent to continue moving to the north or west.
+~
+21 32777 0 0 0 0
+D0
+~
+~
+0 0 2194
+D3
+~
+~
+0 0 2195
+S
+#2197
+An Orc Storeroom~
+   The two rooms here, the other to the north, are obviously used to store
+the bounty the orcs obtain when they go on their village raids. You can see
+a variety of weapons and armor pieces, chests of treasure and a number of
+useless trinkets which must have caught their eye. Most of the items here
+are damaged beyond repair but something may be of value if you scrounge
+around a bit.
+~
+21 9 0 0 0 0
+D0
+~
+~
+0 0 2192
+D1
+~
+~
+0 0 2198
+S
+#2198
+A Tunnel Within the Burrows~
+   You stand outside some type of store room, only apparent by the large amount
+of goods you can see through the molded doorway in the western wall. You may
+enter if you wish or journey back down the tunnel to the south.
+~
+21 9 0 0 0 0
+D2
+~
+~
+0 0 2199
+D3
+~
+~
+0 0 2197
+S
+#2199
+At the Base of a Large Hole~
+   There is no real difference between the tunnel you now find yourself in and
+those you have passed through to get here. At least the proximity to the river
+has provided some moisture to the earthen walls and they now look slightly more
+robust that others within the burrow. The tunnel leads on to the north or you
+can return to the upper level through the hole in the roof.
+~
+21 9 0 0 0 0
+D0
+~
+~
+0 0 2198
+D4
+~
+~
+0 0 2179
+S
+$~

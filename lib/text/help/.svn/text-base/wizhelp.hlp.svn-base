@@ -1,0 +1,1251 @@
+ACTION A-DESC
+
+The A-desc (action desc) of objs is used for held wands, held staves, scrolls
+and potions! Please don't confuse it with Extra description, which is what you 
+see when you LOOK <object>. 
+The A-desc is shown when the item is used/quaffed/recited. For example, a 
+potion of lycanthropy might have:
+$n quaffs $p and hair sprouts from $s every pore!
+
+See Also: "ACT FLAGS"
+
+wizonly
+#
+"ACT FLAGS"
+
+Each control character is preceded by a '$'.
+
+$n - Write name, short description, or "someone", for ch, depending on whether 
+	ch is a PC, a NPC, or an invisible PC/NPC.
+$N - Like $n, except insert the text for victim
+$m - "him", "her", or "it", depending on the gender of ch.
+$M - Like $m, for vict.
+$s - "his", "her", or "it", depending on the gender of ch.
+$S - Like $s, for vict.
+$e - "he", "she", "it", depending on the gender of ch.
+$E - Like $e, for vict.
+$o - Name or "something" for obj, depending on visibility.
+$O - Like $o, for vict_obj. i.e. A wand of invis pointed at a sword; sword is $O
+$p - Short description or "something" for obj.
+$P - Like $p for vict_obj.
+$a - "an" or "a", depending on the first character of obj's name.
+$A - Like $a, for vict_obj.
+$T - Prints the string pointed to by vict_obj.
+$F - Processes the string pointed to by vict_obj with fname() prior to printing.
+$$ - Print the character '$'.
+
+
+Example:
+Drakos is is holding a wand of invis and uses it on Xira.
+$n points $p at $N, and $E vanishes!
+would print:
+Drakos points a wand of invis at Xira, and she vanishes!
+
+wizonly
+#
+ADVANCE
+
+Usage: advance <victim> <level>
+
+ADVANCE moves a player to a new level.  If used to promote a player to an
+immortal level, and if you have the autowiz program installed, the wizlist and
+immlist will automatically be recreated.
+
+Example:
+
+  > advance rasmussen 34
+
+See also: SET
+wizonly
+#
+BUILDING BUILD
+
+Some not-so-obvious things about OLC:
+
+REDIT: Room flags: REGEN_ROOM .. PCs (and mobs) rege mana/HPs faster in this
+			room. 
+		   BFR  .. Bad for recall, recall doesn't work here.
+                   NEUTRAL .. can't die here. PCs get sent back to the temple
+	                  instead. As such, entry to these rooms (or the rooms
+                          themselves), should be !MOB
+		   PEACEFUL .. violence and violent magic isn't allowed here.
+		   ATRIUM, *, and HCRSH ..  do not use
+		   PRIVATE .. Only two people allowed here. If more try to 
+			enter, they get the following message:
+			" A private conversation is going on in that room"
+		   TUNNEL ..  Only one person allowed here. If more try to 
+			enter, they get the following message:
+		        "There's no room for you there!"
+ 		   BFS, *, ATRIUM, HCRSH, HOUSE, and **: do not use
+	See Also: HELP FLOW
+			
+As of 2.2, Sector types only affect movement rate.
+
+The sectors: Earth, Air, Water, Fire are for use in the elemental planes.
+
+OEDIT:  When making a liquid container, the first alias-name should be the
+name of the liquid initially in the container (unless it's empty, of course).
+The second name should be the item.. only 2 names should be used.
+Example: water skin   OR     beer bottle 
+Cost, vs. cost-per-day: The cost is the value of the item. This should not 
+exceed 10000. Cost-per-day is the number used to calculate wether or not
+the item will load. In most cases, assign cost-per-day = cost. If cost per
+day is > 10000, the difference is the % chance the item will have to load.
+Example: 
+  item: a loaf o bread    cost:5 cost-per-day:10100 (loads 100% of the time)
+  item: a dagger of blood cost:8500 cost-per-day:8500 (approx 10% of the time)
+  item: a helm of greed   cost:300  cost-per-day:10050 (loads 50% of the time)
+
+To be able to backstab with an item, it must be type "pierce". Clerics can not
+use slashing weapons, even if they don't have a !CLERIC flag on them.
+
+HELP NAMED
+HELP ACTION
+
+MEDIT:  Setting the LEVEL (choice 6) puts defaults into the other blanks, so
+set the mobs level first, then the other slots, else they will get over-
+written.
+When setting a mob with flag 21 (RNDLD-ZONE), use zedit to load him anywhere
+in your zone. The RNDLD-ZONE flag will cause his location to actually be a
+random room in the zone. It won't load in GODROOM, PRIVATE, !MOB, or DEATH 
+rooms.
+Noise is the message sent to rooms surrounding the mob every once in a
+	while... An example for a dragon might be:
+	"You hear the sound of great wings rustling."
+	or perhaps:
+	"A cloud of noxious gas wafts into the room."
+See HELP NOISE
+
+  AWARE (flag 5) mobs can't be backstabbed. AGGR24 (flag 20) makes the mob 
+aggressive to PCs level 24 and above. AGGR24 mobs speak before attacking, and 
+sometimes gossip when they have killed. A mob flagged AGGR24 and AGGR(flag 6) 
+will attack other mobs that are 3+ levels below him, but only when fully 
+healed.  HUNTER(flag 19) mobs will hunt through !mob rooms, and a hunting mob 
+ignores their own SENTINEL(flag 2) assignment.
+  
+  If you add "carve_meat", "carve_rabbit", "carve_fish", or "carve_bird" to a
+mob's namelist, they will become carveable.
+
+SEDIT: Sell rate should be lower than buy rate. Using the Rooms menu(choice R)
+then adding a new sell room (choice A)  with the vnum of 1 will make a mob 
+sell anywhere.. good for making wandering shopkeepers.
+
+ZEDIT: If you use an item/mob created in another zone, post it on the board so
+Serapis or Oddity can up the max_exist for the entire world. 
+About max-exist: since %load controls objects loading, set the max_exist for
+eq loading on a mob to 999, unless it an extremely powerful item or an artifact.
+Set the max_exist for eq loading directly into a room (like ATMs) to 1.
+
+CAUTION: Items given to shopkeeper's are affected by %load. If you want a 
+shopkeeper to ALWAYS have a certain item (like, for example, the baker to have 
+bread), make the item's cost-per-day 10100.
+
+wizonly
+#
+CHECKLOAD
+
+Usage: checkload < obj | mob > <virtual number>
+
+Used to check where a particular mobile or object loads given its virtual
+number.
+
+Examples:
+
+   > checkload o 1300	(where does object 1300 load?)
+   > checkload m 1315	(where does mobile 1315 load?)
+
+wizonly
+#
+COLOR_TAGS
+
+Colors are:       &n - normal
+  &d - black      &D - gray           &0 - background black
+  &b - blue       &B - bright blue    &1 - background blue
+  &g - green      &G - bright green   &2 - background green
+  &c - cyan       &C - bright cyan    &3 - background cyan
+  &r - red        &R - bright red     &4 - background red
+  &m - magneta    &M - bright magneta &5 - background magneta
+  &y - yellow     &Y - bright yellow  &6 - background yellow
+  &w - white      &W - bright white   &7 - background white
+Extra codes:      &l - blink          &o - bold
+  &u - underline  &e - reverse video  && - single &
+
+Note that not all tags are supported.
+
+wizonly
+#
+WIZAT
+
+Usage: at <room VNUM | item | mob | player name> <command> <arguments>
+
+AT can be used to perform an action in a location other than where you are
+standing.  The first argument can be a virtual room number or the name of a
+character or object.  The remainder of the line is passed to the command
+interpreter.
+
+Examples:
+
+  > at 3001 look
+  > at fido kill fido
+  > at 3.corpse get all corpse
+  > at catje wave catje
+
+See also: GOTO
+wizonly
+#
+BAN UNBAN
+
+Usage: ban [<all | new | select> <site>]
+       unban <site>
+
+These commands prevent anyone from a site with a hostname containing the
+site substring from logging in to the game.  You may ban a site to ALL, NEW
+or SELECT players.  Banning a site to NEW players prevents any new players
+from registering.  Banning a site to ALL players disallows ANY connections
+from that site.  Banning a site SELECTively allows only players with site-ok
+flags to log in from that site.  Ban with no argument returns a list of
+currently banned sites.
+
+Unban removes the ban.
+
+Examples:
+
+  > ban all whitehouse.gov
+  > unban ai.mit.edu
+
+See also: WIZLOCK
+wizonly
+#
+CHOSEN
+
+The CHOSEN flag means a mortal is chosen of the gods.
+
+The CHOSEN character is basically a playtester for the game, and can
+both see and use WIZNET. 
+
+To speak to true imms only, use WIZNET #31 <message>.
+
+Mortals do not see the CHOSEN flag (even Chosen mortals) on anyone but
+themselves.
+
+
+wizonly
+#
+DARK
+
+Usage: dark
+
+This commands stops all fighting in the room, and stops any NPCs in the room
+from remembering. (Hey, you're the jerk that attacked me!)
+
+wizonly
+#
+DATE
+
+Shows the current real time. (Not a social)
+wizonly
+#
+DC
+
+Usage: dc <descriptor number>
+
+DC (DisConnect) is used to disconnect a socket.  If used on a playing socket,
+the player will lose his/her link, but, unlike PURGE, will not extract the
+player or dump the player's inventory on the ground.
+
+DC is also useful for disconnecting people who have accidentally left
+themselves at the main menu, or connections sitting in the "Get name" state.
+
+See also: USERS
+wizonly
+#
+DIG
+
+Usage: dig <dir> <roomnum>
+
+Creates an exit leading <dir> to <roomnumber>, and the reverse direction, too. 
+Dir can be: N S E W U or D.
+
+Example:
+
+You are in room 30000.
+
+> dig e 30001
+
+You create an exit e to 30001.
+
+> e
+
+You are in room 30001.
+
+> w
+
+You are in room 30000.
+
+wizonly
+#
+ECHO GECHO QECHO SEND
+
+Usage: echo <message>
+       gecho <message>
+       send <victim> <message>
+       qecho <message>
+
+ECHO displays a string to everyone in your room.
+GECHO displays the string to everyone in the game.
+QECHO displays the string to everyone with the QUEST flag.
+SEND displays the string to a particular person.
+
+Examples:
+
+  > echo Hi, everyone in the room.
+  > gecho Hi, everyone in the game, isn't this annoying?
+  > send rasmussen You are being watched.
+wizonly
+#
+FLOW ROOM_FLOW ROOM_FLOW_NORTH FLOWING
+
+These rooms push the inhabitants in the direction specified. The message
+"<name> drifts <direction>." is sent to the room. 
+
+Sector-based drift messages can be created if needed. (i.e. For sector wind, 
+perhaps "<name> is blown <dir>.")
+
+Room inhabitants have a 50% chance of getting pushed every 10 and 15 seconds.
+
+wizonly
+#
+FORCE
+
+Usage: force <victim | all> <command> <arguments>
+
+FORCE forces a character, either monster or player, to perform a certain
+action.  FORCE ALL forces everyone in the game; FORCE ROOM forces everyone in
+your room.
+
+Example:
+
+  > force fido drop meat
+  > force all save
+  > force room look fido
+
+If you are invisible to the one being forced, the force will be performed
+silently.
+wizonly
+#
+FREEZE THAW
+
+Usage: freeze <victim>
+       thaw <victim>
+
+FREEZE, originally invented here at CircleMUD (we think), is used to prevent
+a player from playing.  If frozen, the game will ignore all commands entered
+by the player, including QUIT, until the player is unfrozen with THAW.
+
+Obviously, this command should only be used in extreme disciplinary
+circumstances.
+
+See also: SET -> FROZEN
+wizonly
+#
+GOTO TRANS WIZTELEPORT
+
+Usage: goto <location>
+       trans <victim>
+       teleport <victim> <location>
+
+These commands are used to transports yourself and others to different rooms.
+GOTO allows you to go to other rooms; TRANS transports a person from wherever
+they are to the room YOU are in; TELEPORT transports your victim to some other
+location.
+
+For both GOTO and TELEPORT, the location specifier can be either a virtual
+room number, or the name of a character or object.
+
+Examples:
+
+  > goto 3001
+  > goto rasmussen
+  > trans fido
+  > teleport fido 3001
+  > teleport fido 2.fido
+
+See also: POOFIN, POOFOUT, SET -> ROOM, WIZAT
+wizonly
+#
+HANDBOOK
+
+Usage: handbook
+
+Guidelines for having an Immortal character -- you should read it.
+wizonly
+#
+HCONTROL
+
+Usage: hcontrol build <house vnum> <exit dir> <player name>
+       hcontrol destroy <house vnum>
+       hcontrol pay <house vnum>
+       hcontrol show
+
+House control, controls the addition, removal, and payments of houses.
+Hcontrol show will show all the houses currently defined in the game
+along with their last 'rent' payment date.
+
+See also: HOUSE, HOUSES
+wizonly
+#
+HOLYLIGHT
+
+Usage: holylight
+
+A toggle which allows you to see:
+   Invisible people and objects, even if you don't have 'detect invisibility'
+   Hidden people, even if you don't have 'sense life'
+   Dark rooms, even if you don't have a light
+
+It is expected most immortals will keep HOLYLIGHT on most of the time;
+it exists so that you have the ability to see what mortals see for
+debugging purposes.
+wizonly
+#
+HOME
+
+Usage:	home <vnum>
+	home
+
+This command sets your load room. The standard home is 1204. Certain rooms,
+like other immortals private rooms, cannot be made your home.
+wizonly
+#
+IDLIST
+
+This creates a text file on the server with a list of all the items in the
+game. Each item is described as if it had been identified in game.
+#
+IMOTD
+
+Usage: imotd
+
+Displays the Immortal message of the day.  This file usually contains
+new information on commands recently added, new features and other
+important information that immortals should be aware of.
+
+See also: MOTD
+wizonly
+#
+INVIS
+
+Usage: invis [level]
+
+INVIS sets your invisibility level.  With no argument, invis toggles between
+making you fully visible and fully invisible.  If you specify a level, only
+people at and above the level you specify will be able to see you.
+
+Examples:
+
+  > invis
+  > invis 31
+
+See also: VISIBLE
+wizonly
+#
+LAST
+
+Usage: last <player_name>
+
+For checking the last time a person logged on, their sitename, and their
+ID number.
+
+Example: 
+
+  > last ras
+  [  24] [14 Cl] Ras          : somesite.edu : Tue May 16 22:07:09 1995
+
+See also: STAT
+wizonly
+#
+LOAD
+
+Usage: load <mob | obj> <virtual number>
+       load <mob | obj> <name>
+
+LOAD is used to create mobiles and objects.  The first argument specifies if
+you are trying to load a mobile or an object; the second is the virtual
+number or name.
+
+Example:
+
+  > load obj 8099
+  You create a bulletin board.
+
+  > load mob 8005
+  You create the receptionist.
+
+  > load mob warg
+  You create the hybrid warg.
+
+  > load obj ring
+  You're not godly enough for that!  (This is because load-by-name attempts
+	to load lowest-vnumbered object with that name, and Tracer's ring
+	is above your load limit.)
+
+See also: VNUM
+wizonly
+#
+LUAEDIT
+
+Usage: lua [directory] [file[.lua]]
+
+Edit or view a lua script depending on your level. If a filename is not 
+provided it lists all scripts in the given directory.
+
+Leave a script blank to delete it.
+
+wizonly
+#
+MOLD
+
+Usage: mold <object> <name> <description>
+
+Makes an object have a TEMPORARY name and description. This only lasts until
+reboot or owner's logout, at which point the oject reverts to what it started 
+as.
+Only certain objects are moldable- a halo, clay, or playdoh(tm).
+
+Ex:
+	> load o clay
+	You create some clay.
+	> mold clay shit a pile of shit
+        The clay hardens as you magically create a pile of shit.
+	> give shit Oddity
+	You give a pile of shit to Oddity.
+
+wizonly
+#
+MUTE
+
+Usage: mute <victim>
+
+MUTE is used to shut a player up.  When muted, a player will not be able to
+use most communication channels until he/she is unmuted.
+
+See also: FLAGS
+wizonly
+#
+NOHASSLE
+
+Usage: nohassle
+
+Toggles a flag to prevent aggressive monsters from attacking.
+wizonly
+#
+NAMED
+
+Named items: These objects should have a namelist consisting of the short 
+descrip minus the leading article.
+Example:
+  name:             emerald ring
+  short_descrition: an emerald ring
+  long description: An emerald ring lies here.
+When worn, the ring's short descrip becomes <wearer name> <name>
+For example, if Bob wears the ring above, you'd look at Bob and see:
+<Worn on right finger> Bob's emerald ring
+
+wizonly
+#
+NOISE
+
+      The noise option for mobs adds an interesting element to the mud.
+The noise of the mob is heard through all the exits of his room.
+      Now if you create a room that can only be exited and place a noisey
+mob within.  The mob will project his noise through the exits into the
+other rooms.  A player in these rooms will hear the noises, but will
+not know their origins.  Application: Haunted House -moaning spirits-
+                                    : Monster cave -drums in the deep-
+      But the noise option doesn't need to be limited to noises.  Using
+the noise option the mud simply states your noise statement as you have
+written in. 
+         O)Noise : You here the chirping of crickets.
+         > You hear the chirping of crickets.
+With this idea in mind you can create non-noise 'noises'.  Using the 
+noise option and the 'hidden' mob, you can create enviromental effects.
+Ex. 'You feel a cool breeze', 'You stumble on the slick floor.'  
+These effects will continue to occur at the same interval as regular 
+noises, but because the mob is unreachable and unkillable (!SUMM,SENTINEL),
+The noise will never end.  Application: Sea shore -breeze-
+                                      : Garbage heap -trip-
+                                      : Wet cavern -slip-
+
+
+[ Submitted by Isengrim - Thanks! ]
+wizonly
+#
+NOTITLE
+
+Usage: notitle <vicitim>
+
+Prevent players from being able to set their own titles; i.e., if the
+player consistently has an offensive title.  The definition of offensive
+is left as an exercise for the reader.
+
+See also: TITLE
+wizonly
+#
+NOWIZ
+
+Usage: nowiz
+
+Allows you to hear or ignore messages coming over the wiznet.
+
+See also: WIZNET
+wizonly
+#
+OLC
+
+Usage: olc [save]
+
+Lists the olc'd areas that need saving. With the 'save' option, it saves
+all areas that need saving.
+
+See also: REDIT, SEDIT, OEDIT, MEDIT, ZEDIT, TEDIT, SET
+wizonly
+#
+REDIT SEDIT OEDIT MEDIT ZEDIT TEDIT
+
+Usage:
+
+redit                           - edit the room you are standing in 
+redit <virtual room num>        - edit/create room
+redit save <zone>               - save all the rooms in zone to disk 
+
+zedit                           - edit the zone info for the room 
+					you are standing in
+zedit <virtual room num>        - edit the zone info for that room 
+zedit save <zone>               - save all the zone info for that zone
+					to disk 
+zedit new <zone>                - IMPLs only - create a new zone. 
+
+oedit <virtual obj num>         - edit/create object
+oedit save <zone>               - save all the objects in zone to disk 
+
+medit <virtual mob num>         - edit/create mobile
+medit save <zone>               - save all the mobiles in zone to disk 
+
+sedit <virtual shop num>        - edit/create shop
+sedit save <zone>               - save all shops in zone to disk.
+
+tedit 	   			- list text files
+tedit <file>			- edit a text file
+
+set <player name> olc <zone>    - IMPLs only - allow player to edit
+olc                             - List all the things that have been edited
+                                   	but not yet saved.
+
+WARNING:  This OLC will let you set values to values that
+shouldn't be set.  For example, it'll let you set a mobile with a
+GROUP flag.  This is good in the sense that it allows you to test
+anything you please, but bad in the sense that builders can crash
+the mud with ease. (Hey, that rhymes!). 
+/****************************************************************
+In short: If you don't know what it does, ask before using it!!!!
+****************************************************************/
+
+See also: SET OLC RLIST
+wizonly
+#
+RLIST MLIST OLIST ZLIST
+
+Usage: rlist <zone-number>
+       mlist <zone-number>
+       olist <zone-number>
+       zlist <zone number>
+
+Lists the rooms in a zone (rlist), objects in a zone (olist), mobs in a 
+zone (mlist), or zone-commands in a zone (zlist).
+wizonly
+#
+PAGE
+
+Usage: page <player | all> <message>
+
+PAGE is used to send a message, along with a beep, to another player.  Use
+PAGE ALL to send a message and a beep to everyone in the game.
+
+Examples:
+
+  > page rasmussen Hey, are you still at the keyboard?
+  > page all GAME WILL BE SHUTTING DOWN IN 10 MINUTES
+
+Do not abuse this command.
+wizonly
+#
+PARDON
+
+Usage: pardon <victim>
+
+Removes killer and thief flags from a player.
+wizonly
+#
+POOFIN POOFOUT
+
+Usage: poofin <message>
+       poofout <message>
+
+Sets the message seen by players when you use GOTO to move to a different
+room.  POOFIN with no argument resets your poofin to the default "<Name> 
+appears with an ear-splitting bang"; POOFOUT with no argument defaults to 
+"<Name> disappears in a puff of smoke." Your POOFOUT message also appears
+when you use the HOME command.
+
+Ex: poofin You cream as Ayesha enters the room.
+    poofout Your heart melts as Antryg blows kisses and walks away.
+
+See also: GOTO HOME
+wizonly
+#
+PURGE
+
+Usage: purge [name]
+
+Purge destroys things.  If used with no arguments, it will clear a room of all
+mobiles and objects, but will not harm players.  If the argument is an object,
+that object (and all of its contents, if any) will be destroyed.  If the
+argument is a mobile, the mobile will be destroyed, leaving its inventory and
+equipment lying on the ground.
+
+If the argument is the name of a player, the player's inventory and equipment
+will drop on the ground and the player will lose his/her connection.  For this
+reason, PURGE should only be used on players in disciplinary situations.
+
+Examples:
+
+  > purge
+  > purge Pom
+  > purge sword
+  > purge dragon
+
+See also: DC
+wizonly
+#
+PURGEPLAY
+
+This is done periodically by an admin to clean out stale players.  These
+are the cut off points for those players (and gods in fact):
+
+Level		Time Idle (to be purged)
+1		10 days
+2-4		20 days
+5-10		30 days
+11-30		60 days
+Immortal	120 days
+Gods		120 days
+
+This is going to be done every few months when the player file grows too
+big.  That is the way it has to be, there were too many non-players in
+that database.
+
+wizonly
+#
+RELOAD
+
+Usage: reload < '*' | all | file >
+
+Reload is used to reload text files such as the MOTD from disk into memory.
+reload * reloads all the text files below.
+
+Valid files are:
+
+  background (/mud_dir/lib/text/background)
+  credits    (/mud_dir/lib/text/credits)
+  handbook   (/mud_dir/lib/text/handbook)
+  help       (/mud_dir/lib/text/help)
+  immlist    (/mud_dir/lib/text/immlist)
+  imotd      (/mud_dir/lib/text/imotd)
+  news       (/mud_dir/lib/text/news)
+  motd       (/mud_dir/lib/text/motd)
+  info       (/mud_dir/lib/text/info)
+  policy     (/mud_dir/lib/text/policies)
+  wizlist    (/mud_dir/lib/text/wizlist)
+  xhelp      (/mud_dir/lib/text/help/*)  future     (/mud_dir/lib/text/future)
+  
+wizonly
+#
+REROLL
+
+Usage: reroll <player>
+
+REROLL gives a player new stats (i.e., Str, Int, Wis, Dex, Con, and Cha)
+
+See also: STAT
+wizonly
+#
+RESTORE
+
+Usage: restore <player | mobile>
+
+RESTORE restores a player or mobile to full hit, mana, and movement points.
+If used on immortals, it also sets all skill levels to 100%.
+wizonly
+#
+RETURN
+
+Usage: return
+
+RETURN returns you to your regular body if you are switched into a mob.
+
+See also: SWITCH
+wizonly
+#
+ROOMFLAGS
+
+Usage: roomflags
+
+Toggles a flag which causes the virtual room number and room flags, if any,
+to be displayed next to room names.
+wizonly
+#
+SET
+
+Usage: set [ file | player ] <character> <field> <value>
+
+SET is an extremely powerful command, capable of setting dozens of aspects of
+characters, both players and mobiles.
+
+SET PLAYER forces set to look for a player and not a mobile; useful for
+players with names such as 'guard'.
+
+SET FILE lets you change players who are not logged on.  If you use SET FILE
+on a player who IS logged on, your change will be lost.  If you wish to set
+a player who is in the game but is linkless, use set twice -- once with the
+FILE argument, and once without -- to make sure that the change takes.
+
+For toggled fields (BINARY), the value must be ON, OFF, YES, or NO.
+
+The following are valid fields:
+
+Field                 Level Required    Who     Value
+-----------------------------------------------------------------------------
+    { "brief",          LVL_GOD,        PC,     BINARY },  
+    { "invstart",       LVL_GOD,        PC,     BINARY }, 
+    { "title",          LVL_GOD,        PC,     MISC },
+    { "nosummon",       LVL_GRGOD,      PC,     BINARY },
+    { "maxhit",         LVL_GRGOD,      BOTH,   NUMBER },
+    { "maxmana",        LVL_GRGOD,      BOTH,   NUMBER },  
+    { "maxmove",        LVL_GRGOD,      BOTH,   NUMBER },
+    { "hit",            LVL_GRGOD,      BOTH,   NUMBER },
+    { "mana",           LVL_GRGOD,      BOTH,   NUMBER },
+    { "move",           LVL_GRGOD,      BOTH,   NUMBER },
+    { "align",          LVL_GOD,        BOTH,   NUMBER }, 
+    { "str",            LVL_GRGOD,      BOTH,   NUMBER },
+    { "stradd",         LVL_GRGOD,      BOTH,   NUMBER },
+    { "int",            LVL_GRGOD,      BOTH,   NUMBER },
+    { "wis",            LVL_GRGOD,      BOTH,   NUMBER },
+    { "dex",            LVL_GRGOD,      BOTH,   NUMBER },  
+    { "con",            LVL_GRGOD,      BOTH,   NUMBER },
+    { "sex",            LVL_GRGOD,      BOTH,   MISC },
+    { "ac",             LVL_GRGOD,      BOTH,   NUMBER },
+    { "gold",           LVL_GOD,        BOTH,   NUMBER },
+    { "bank",           LVL_GOD,        PC,     NUMBER },  
+    { "exp",            LVL_GRGOD,      BOTH,   NUMBER },
+    { "hitroll",        LVL_GRGOD,      BOTH,   NUMBER },
+    { "damroll",        LVL_GRGOD,      BOTH,   NUMBER },
+    { "invis",          LVL_IMPL,       PC,     NUMBER },
+    { "nohassle",       LVL_GRGOD,      PC,     BINARY },  
+    { "frozen",         LVL_FREEZE,     PC,     BINARY },
+    { "practices",      LVL_GRGOD,      PC,     NUMBER },
+    { "lessons",        LVL_GRGOD,      PC,     NUMBER },
+    { "drunk",          LVL_GRGOD,      BOTH,   MISC },  
+    { "hunger",         LVL_GRGOD,      BOTH,   MISC },    
+    { "thirst",         LVL_GRGOD,      BOTH,   MISC },  
+    { "outlaw",         LVL_GOD,        PC,     BINARY },
+    { "name",           LVL_GRGOD,      PC,     MISC },  
+    { "level",          LVL_GRGOD,      BOTH,   NUMBER },
+    { "room",           LVL_IMPL,       BOTH,   NUMBER },  
+    { "roomflag",       LVL_GRGOD,      PC,     BINARY },
+    { "siteok",         LVL_GRGOD,      PC,     BINARY },
+    { "deleted",        LVL_GRGOD,      PC,     BINARY },
+    { "class",          LVL_GRGOD,      BOTH,   MISC },  
+    { "nowizlist",      LVL_GOD,        PC,     BINARY },  
+    { "quest",          LVL_GOD,        PC,     BINARY },
+    { "loadroom",       LVL_GRGOD,      PC,     MISC },
+    { "color",          LVL_GOD,        PC,     BINARY },
+    { "idnum",          LVL_IMPL-1,     PC,     NUMBER },
+    { "passwd",         LVL_IMPL-1,     PC,     MISC },    
+    { "nodelete",       LVL_GOD,        PC,     BINARY },
+    { "cha",            LVL_GRGOD,      BOTH,   NUMBER },
+    { "olc",            LVL_SET_BUILD,  PC,     NUMBER },
+    { "race",           LVL_GOD,        PC,     MISC },  
+    { "kills",          LVL_GRGOD,      BOTH,   NUMBER },  
+    { "pks",            LVL_GRGOD,      BOTH,   NUMBER },
+    { "deaths",         LVL_GRGOD,      BOTH,   NUMBER },
+    { "home",           LVL_GRGOD,      PC,     NUMBER },
+    { "tattoo",         LVL_GRGOD,      PC,     NUMBER },
+    { "origcon",        LVL_GRGOD,      PC,     NUMBER }, 
+    { "chosen",         LVL_GRGOD,      PC,     BINARY },
+    { "clan",           LVL_GRGOD,      PC,     NUMBER },
+
+See also: STAT
+wizonly
+#
+SHOW
+
+Usage: show <mode> [argument]
+
+Valid Modes:
+
+death          errors         godrooms       houses
+player         rent           shops          stats
+zones          tattoos	      aggr
+
+The SHOW command displays information.  Some modes of show require additional
+information, such as a player name.
+
+   death: Shows all death traps in the game.
+  errors: Shows errant rooms.
+godrooms: Shows the rooms in the 'god zone'.
+  houses: Shows the houses that are currently defined.
+  player: Shows player summary information, simply provide a player name.
+    rent: Shows the filename and path to a players rent file.
+   shops: Shows all the shops in the game and their buy/sell parameters.
+   stats: Shows game status information including players in game, mobs etc.
+   zones: Shows all the zones in the game and their current reset status.
+          An age of -1 means it is in the 'to be reset next' queue.
+ tattoos: Shows a list of available tattoo index numbers
+    aggr: Shows a list of attitude mobs
+
+See also: STAT, ZRESET
+wizonly
+#
+SHUTDOWN
+
+Usage: shutdown [reboot | die | pause]
+
+SHUTDOWN shuts the MUD down.  The SHUTDOWN command works in conjunction with
+CircleMUD's 'autorun' script.  If you are not using autorun, the arguments are
+meaningless.  If you are using autorun, the following arguments are available:
+
+REBOOT     Pause only 5 seconds instead of the normal 40 before trying to
+           restart the MUD.
+
+DIE        Kill the autorun script; the MUD will not reboot until autorun is
+           explicitly run again.
+
+PAUSE      Create a file called 'paused' in Circle's root directory; do not
+           try to restart the MUD until 'paused' is removed.
+wizonly
+#
+SKILLSET
+
+Usage: skillset <name> '<skill>' <value>
+
+Sets the specified skill to the specified value.
+
+See also: SET
+wizonly
+#
+SETHUNT
+
+Usage: sethunt <victim> <hunter>
+Sets hunter hunting victim. If victim is not specified, it takes the first
+mobile in the room.
+
+wizonly
+#
+SLOWNS
+
+Usage: slowns
+
+Toggles whether or not IP addresses are resolved into readable site names.
+If slow nameserver is enabled, USERS will show only IP addresses.
+(128.123.222.111 etc).
+
+See also: USERS
+wizonly
+#
+SNOOP
+
+Usage: snoop [player]
+
+Snoop allows you to listen in on another player's session; everything the
+player sees or types will be displayed on your terminal preceded by a '%'.
+
+Obviously, there are many ethical considerations to the use of this command; 
+snoop should be used minimally, and only for disciplinary purposes.
+
+Type snoop <your name> or just snoop to stop snooping.
+wizonly
+#
+SNOWBALL
+
+Snowball is just a social -- it prints a funny message, and nothing more.
+wizonly
+#
+STAT
+
+Usage: stat [player | object | mobile | file | room] <name>
+
+Gives information about players, monsters, and objects in the game.  The type
+argument is optional.
+
+STAT PLAYER will search only for players; useful for statting people with
+names such as Red or Cityguard.
+
+STAT OBJECT will search only for objects.
+
+STAT MOBILE will search only for monsters.
+
+STAT FILE is used to stat players who are not logged in; the information
+displayed comes from the playerfile.
+
+STAT ROOM is used to stat the room.
+
+Examples:
+
+  > stat fido
+  > stat player red
+  > stat mobile red
+  > stat file niandra
+  > stat object thunderbolt
+  > stat room
+
+See also: VSTAT
+wizonly
+#
+STRING
+
+Usage: string <type> <name> <field> [<string> | <keyword>]
+
+For changing the text-strings associated with objects and characters.  The
+format is:
+
+Type is either 'obj' or 'mob'.
+
+Field is one of the following(the names may be abbreviated):
+
+Name                  (the call-name of an obj/char - kill giant)
+Short                 (for inventory lists (obj's) and actions (char's))
+Long                  (for when obj/character is seen in room)
+Title                 (for players)
+Description           (For look at.  For obj's, must be followed by a keyword)
+Delete-description    (only for obj's. Must be followed by keyword)
+
+Where a string is expected as the last argument, a newline will make you enter
+a string mode, and the game will prompt you for new lines to the string until
+you exceed the maximum length for the string or you end a line with a '@'.
+
+Players currently cannot be strung.
+wizonly
+#
+SWITCH
+
+Usage: switch <monster>
+
+SWITCH is used to take over the body of mobiles; useful for interactive
+adventures.  If the monster in which you are switched is killed you will be
+returned to your own body.
+
+See also: RETURN
+wizonly
+#
+SYSLOG
+
+Usage: syslog [off | brief | normal | complete]
+
+The SYSLOG command controls how detailed of an on-line system log you see.
+Messages surrounded by '[' and ']' are syslog messages and are in green
+if you have color on.
+
+The messages you receive are level dependent.
+
+Examples:
+
+  > syslog complete
+  > syslog off
+
+See also: COLOR
+wizonly
+#
+SYSFILE
+
+Usage: sysfile <file>
+Valid Files:
+
+bugs		todo		ideas		typos
+
+The SYSFILE command displays information submitted by the players as well
+as the time and location.
+
+ bugs: Displays reported bugs.
+ todo: Displays a list of items submitted by Immortals to do at a later time.
+ideas: Displays player ideas and suggestions.
+typos: Displays typographical or grammatical errors.
+
+wizonly
+#
+TICK
+
+Forces a game tick to occur.
+wizonly
+#
+UNAFFECT
+
+Usage: unaffect <victim>
+
+Removes all affections (i.e., spell effects) from a player.
+
+See also: STAT
+wizonly
+#
+UPTIME
+
+Usage: uptime
+
+Displays when the game was booted and calculates how long ago that was.
+wizonly
+#
+USERS
+
+Usage: users [switches]
+
+USERS gives a list of all sockets (i.e., connections) currently active on the
+MUD.  The multi-column display shows the socket number (used by DC), class,
+level, and name of the player connected, connection state, idle time, and
+hostname.
+
+The following switches are available:
+
+-k or -o   Show only outlaws (killers and thieves).
+-p         Show only sockets in the playing sockets.
+-d         Show only non-playing (deadweight) sockets.
+-l min-max Show only sockets whose characters are from level min to max.
+-n <name>  Show the socket with <name> associated with it.
+-h <host>  Show all sockets from <host>.
+-c list    Show only sockets whose characters' classes are in list.
+
+See also: DC, SLOWNS
+wizonly
+#
+VNUM
+
+Usage: vnum <mob | obj> <name>
+
+Gives a list of the virtual numbers of objects or mobiles which have the
+specified name.
+
+Examples:
+
+  > vnum obj ring
+  1. [  904] a platinum ring
+  2. [ 2543] a seashell ring
+  3. [ 2588] a small emerald ring
+  
+  > vnum mob dragon
+  1. [    1] Puff
+  2. [  908] the dragon turtle
+  3. [ 2548] the Master of Illusions
+wizonly
+#
+VSTAT
+
+Usage: vstat < mob | obj > <virtual number>
+
+Used to stat a prototypical mobile or object by virtual number.
+
+Examples:
+
+  > vstat obj 3000
+  > vstat mob 3001
+
+See also: LOAD, STAT, VNUM
+wizonly
+#
+WHERE
+
+Usage: where < obj | mob >
+
+To locate an object and/or mobile with a specific name.
+
+Examples:
+
+  > where sword
+  > where wizard
+
+See also: CHECKLOAD
+wizonly
+#
+WIZHELP
+
+Usage: wizhelp
+
+Gives a list of the special commands available at your level.
+wizonly
+#
+WIZLOCK
+
+Usage: wizlock [value]
+
+WIZLOCK allows you to restrict the game.  WIZLOCK 1 prevents new characters
+from being created.  WIZLOCK n, 2 <= n <= 34, prevents new characters and
+allows only characters level n and above to log on.  WIZLOCK with no argument
+displays the current WIZLOCK level.
+
+See also: BAN
+wizonly
+#
+WIZNET ;
+
+The immortal communication channel.
+
+Usage: wiznet [ '@' | '*' | '#' ] [<text>]
+
+Examples:
+
+  >; <text>    - just sends text
+  >; *burp     - sends "<--- burp"
+  >; #32 Immortals suck	- sends "Immortals suck" to everyone level 32 and above.
+  >; @         - shows all gods that are on and visible to you
+               - also shows if the gods who are visible to you are writing
+
+This code was provided by Gnort.
+
+See also: NOWIZ CHOSEN
+wizonly
+#
+WNEWBIE
+
+Usage: wnewbie <victim>
+
+Conjures up a bunch of newbie eq for <victim> and sticks it in their inventory.
+
+wizonly
+#
+WHOD
+
+The who daemon is run on a separate port. The following commands exists:
+
+name    : Toggles peoples name on/off the list (useless)
+class   : Toggles peoples level on/off the list
+title   : Toggles peoples title on/off the list
+wizinvis: Toggles whether or not wizinvis people should be shown on the list
+site    : Toggles peoples site names on/off the list
+wizlevel: Toggles whether or not to show wizards class and level
+on      : Turns the whod on, and thereby opens the port
+off     : Turns the whod off, and thereby closes the port
+
+NOTE:     The on/off feature is only made to use, if someone starts polling
+        a few times a second or the like, and thereby abusing the net. You
+        might then want to shut down the daemon for 15 minutes or so.
+wizonly
+#
+ZRESET
+
+Usage: zreset < zone | '*' | '.' >
+
+Used to force a zone to reset.  '*' forces all zones to reset.  '.' forces
+the zone you are in to reset.
+
+See also: SHOW->ZONES
+wizonly
+#
+$
+#

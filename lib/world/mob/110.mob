@@ -1,0 +1,611 @@
+#11000
+dragon brown shax'in shaxin~
+Shax'in, the brown dragon~
+The brown dragon rises up from the sand!
+~
+This wingless dragon is covered in craggy scales that seem to blend into the
+sand around him. Razor sharp teeth are honed to the point that tearing your
+flesh from your bones is child's play.
+~
+591931 0 0 0 525448 0 0 0 -1000 E
+39 -19 -29 39d5+5661 30d4+26
+2000 375000
+8 8 1
+BareHandAttack: 8
+Race: 10
+E
+#11001
+dragon blue nixith~
+Nixith, the blue dragon~
+The blue dragon is here, watching you with sparkling eyes.
+~
+Covered in deep indigo scales, the blue dragon roars at you through a mouth
+full of glistening fangs. A sharp row of small horns starts at the tip of his
+snout and morph into rigid fins as they head down the back of his neck. The
+great wyrm seems infuriated at your presence.
+~
+632889 0 0 0 787592 0 0 0 -1000 E
+35 -15 -25 35d5+3329 25d4+23
+0 360000
+8 8 1
+BareHandAttack: 8
+Race: 10
+E
+#11002
+dragon brass xedent~
+Xedent, the brass dragon~
+The brass dragon lunges at you from across the room.
+~
+Covered in burnished scales, the brass dragon has made the abandoned citadel
+his home, and is not happy you have entered it. A long tongue snakes from his
+mouth, and sharp talons claw the air.
+~
+600185 0 0 0 787592 0 0 0 -1000 E
+37 -17 -27 37d5+4495 28d4+24
+0 369000
+8 8 1
+BareHandAttack: 8
+Race: 10
+Noise: The floor shakes beneath your feet.
+E
+#11004
+sphinx statue~
+the sphinx~
+An enormous sphinx is here, resting on a pedestal.
+~
+It appears to be living marble, and pays little attention to you.
+~
+2058 0 0 0 136 0 0 0 0 E
+31 -11 -21 31d5+997 20d4+20
+90 90000
+5 8 0
+E
+#11005
+raider first draco~
+Draco, the First Desert Raider~
+Draco, the First Desert Raider, scours the desert for souls.
+~
+He seems to be little more than a rotting skeleton, held together by strong
+forces of magic. Fire glows in his empty eye sockets as he looks for souls
+to steal.  Little is left of recognition of this once mighty commander of
+Drakaan's desert raiders.
+~
+788557 0 0 0 1160 0 0 0 -1000 E
+32 -12 -22 32d5+1580 21d4+21
+100 120000
+8 8 0
+Race: 9
+E
+#11006
+raider second sabbat~
+Sabbat, the Second Desert Raider~
+Sabbat, the Second Desert Raider, scours the desert for souls.
+~
+She seems to be little more than a rotting skeleton, held together by strong
+forces of magic. Fire glows in her empty eye sockets as she looks for souls
+to steal. A mangled bloody ribbon tied to her belt reads "Drakaan".
+~
+526413 0 0 0 1160 0 0 0 -1000 E
+32 -12 -22 32d5+1580 21d4+21
+1500 120000
+8 8 2
+Race: 9
+E
+#11007
+raider third daemon~
+Daemon, the Third Desert Raider~
+Daemon, the Third Desert Raider, scours the desert for souls.
+~
+He seems to be little more than a rotting skeleton, held together by strong
+forces of magic. Fire glows in his empty eye sockets as he looks for souls
+to steal.  Little is left of recognition of this once mighty commander of
+Drakaan's desert raiders.
+~
+524365 0 0 0 1160 0 0 0 -1000 E
+32 -12 -22 32d5+1580 21d4+21
+100 120000
+8 8 0
+Race: 9
+E
+#11008
+raider fourth malleus~
+Malleus, the Fourth Desert Raider~
+Malleus, the Fourth Desert Raider, scours the desert for souls.
+~
+He seems to be little more than a rotting skeleton, held together by strong
+forces of magic. Fire glows in his empty eye sockets as he looks for souls
+to steal.  Little is left of recognition of this once mighty commander of
+Drakaan's desert raiders.
+~
+524365 0 0 0 263304 0 0 0 -1000 E
+32 -12 -22 32d5+1580 21d4+21
+800 120000
+8 8 1
+Race: 9
+E
+#11009
+bulette landshark shark~
+the bulette~
+A landshark searches the desert for something edible.
+~
+Covered in blue-grey stoney plates, the bulette (also known as a
+landshark) will eat anything, and decides to start with you.
+~
+108 0 0 0 1572864 0 0 0 -500 E
+23 -3 -13 23d5+253 15d4+15
+35 32500
+8 8 0
+Race: 25
+E
+#11010
+tarantula spider~
+a tarantula~
+A giant tarantula skitters under the sand as you pass.
+~
+It's a big hairy arachnid that is probably more scared of you than you are of
+it.
+~
+72 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 0
+Race: 14
+E
+#11011
+beholder ultimate~
+the ultimate~
+A gigantic beholder floats amid probing eyestalks.
+~
+Nearly twice the size of other beholders, the Ultimate fills the room. Eyes
+probe you from the end of long stalks attached to the Ultimate's body, and a
+cavernous mouth drips saliva from between rows of sharp teeth.
+~
+8407083 0 0 0 1160 0 0 0 -1000 E
+33 -13 -23 33d5+2163 22d4+22
+0 180000
+8 8 0
+E
+#11012
+headless spirit~
+the headless spirit~
+A headless spirit searches for new trophies.
+~
+Wait! it DOES have a head... it's tucked under its arm. No, wait again.. 
+that's someone else's head.
+~
+110 0 0 0 1048712 0 0 0 -400 E
+32 -12 -22 32d5+1580 21d4+21
+100 120000
+8 8 0
+Race: 9
+E
+#11013
+piercer stalactite~
+a piercer~
+A stalactite grows from the cave ceiling.
+~
+The piercer looks like a sentinent stalactite, intent on puncturing your skull.
+~
+106 0 0 0 1049600 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+E
+#11014
+umber hulk male~
+the umber hulk~
+An umber hulk burrows through the earth.
+~
+The umber hulk looks like a humanoid ant.. huge mandibles on a squat body.
+Long, stone-hard claws used for breaking up rock are just as easily used
+for breaking apart your bones.
+~
+108 0 0 0 1032 0 0 0 -500 E
+17 3 -7 17d5+180 11d4+11
+0 18000
+8 8 1
+E
+#11015
+umber hulk female~
+the female umber hulk~
+A female umber hulk is building a nest here.
+~
+The umber hulk looks like a humanoid ant.. huge mandibles on a squat body.
+Long, stone-hard claws used for breaking up rock are just as easily used
+for breaking apart your bones.
+~
+110 0 0 0 1032 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+8 14000
+8 8 2
+E
+#11016
+raider leader drakaan~
+Drakaan, Leader of the Desert Raiders~
+Drakaan, Leader of the Desert Raiders stands here in a pool of his own blood.
+~
+Drakaan has obviously been here for a long time, and been dead for the
+majority of that time. Betrayed by Sabbat and the other desert raiders,
+Drakaan called down a curse from the gods. The gods saw fit to punish all
+the raiders for their unjust ways.. and turned them all into living corpses.
+Sabbat and her companions fled into the desert.. after hacking Drakaan to
+pieces and burning enough of him to leave Drakaan barely in existence.
+Drakaan lived on as a broken undead being; barely able to kill the few
+foolish mortals who stumbled upon him.
+~
+8439851 0 0 0 1160 0 0 0 -1000 E
+33 -13 -23 33d5+2163 22d4+22
+2500 180000
+8 8 1
+Race: 9
+E
+#11017
+roper larva~
+the roper larva~
+A roper larva writhes in anticipation of hot blood.
+~
+This newly-hatched roper is still in the larvic stage. Three tendrils stretch
+out of the central slug-like mass and flail about madly for the blood the
+creature sense flowing in your veins.
+~
+110 0 0 0 1049608 0 0 0 -10 E
+11 9 -1 11d5+120 7d4+7
+0 7500
+8 8 0
+E
+#11018
+vodyanoi~
+the vodyanoi~
+The vodyanoi attacks from beneath the surface of the pool.
+~
+It looks like something out of a nightmare... Huge mandibles on a scaled
+body that looks almost humanoid. Powerful claws sprout out the edge of
+webbed paws.
+~
+110 0 0 0 1049736 0 0 0 -10 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 0
+E
+#11019
+spirit vengeful~
+a vengeful spirit~
+The vengeful spirit of a Knight of Solamnia floats about.
+~
+It resents your intrusion into its home; resents your trespassing on its
+last resting place; and most of all resents your life where it has none.
+~
+108 0 0 0 524426 0 0 0 -10 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 0
+Race: 9
+E
+#11020
+rakshasa~
+a rakshasa~
+A rakshasa eyes you with a cold hatred before attacking.
+~
+It's a humanoid tiger, dressed in male clothes. His hatred for humanity knows
+no bounds, and your presence in his village angers him more.
+~
+108 0 0 0 8 0 0 0 -10 E
+17 3 -7 17d5+180 11d4+11
+30 18000
+8 8 1
+Race: 5
+E
+#11021
+rakshasi consort~
+a rakshasi consort~
+A rakshasi consort awaits orders from her master.
+~
+It's a humanoid tiger, dressed in female clothes. Her loyalty is with the
+maharajah and she will do as he commands. Her hatred for humanity knows no
+bounds, and your presence in her village angers her more.
+~
+108 0 0 0 8 0 0 0 -10 E
+15 5 -5 15d5+160 10d4+10
+10 14000
+8 8 2
+Race: 5
+E
+#11022
+rakshasa ruhk~
+a rakshasa ruhk~
+A rakshasa ruhk draws his weapon and attacks.
+~
+It's a humanoid tiger, dressed in intricate armor. Sworn to defend his leader,
+the maharajah, you seem only a minor threat, but still a threat.
+~
+108 0 0 0 8 0 0 0 -10 E
+19 1 -9 19d5+200 12d4+12
+10 22500
+8 8 1
+Race: 5
+E
+#11023
+rakshasa rajah~
+a rakshasa rajah~
+A rakshasa rajah signs an unholy symbol in the air.
+~
+It's a humanoid tiger, dressed in priestly robes. Sworn to uphold his faith,
+he must kill you, or be killed, to appease his god.
+~
+109 0 0 0 136 0 0 0 -500 E
+20 0 -10 20d5+210 13d4+13
+11 25000
+8 8 1
+Race: 5
+E
+#11024
+rakshasa maharajah~
+a rakshasa maharajah~
+A rakshasa maharajah bellows for your destruction.
+~
+This seems to be the leader of the Rakshasa. Richly detailed armor covers
+his body, and his sleek fur glints of perfumed oils. When he stands, he is
+well over 8-feet-tall, and growls as he looks down on you. You may be his 
+next meal.
+~
+16493 0 0 0 136 0 0 0 -500 E
+23 -3 -13 23d5+253 15d4+15
+52 32500
+8 8 1
+Race: 5
+E
+#11025
+tiger saber-toothed~
+a saber-toothed tiger~
+A saber-toothed tiger prowls restlessly guarding the village.
+~
+Fur as soft as velvet covers muscles as hard as iron. Long canine teeth
+protrude from the tiger's mouth, and low growl issues from his throat. You get
+the feeling he doesn't trust you.
+~
+106 0 0 0 524288 0 0 0 0 E
+11 9 -1 11d5+120 7d4+7
+0 7500
+8 8 1
+Race: 22
+E
+#11026
+golem iron black~
+a black iron golem~
+A black iron golem wanders about, mindlessly.
+~
+It's made out of.. iron. It's big, it's bad and it could probably kick your
+ass with one hand smelted behind its back.
+~
+8505416 0 0 0 1032 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+0 180000
+8 8 0
+Race: 25
+E
+#11027
+manscorpion warrior~
+a manscorpion warrior~
+A manscorpion warrior patrols the desert.
+~
+Part-human and part-scorpion, the manscorpion is a grotesque freak of
+nature. A human torso sits atop a bony 6-legged arachnoid body. A barbed
+hook twitches nervously at the end long tail.
+~
+108 0 0 0 262144 0 0 0 -20 E
+21 -1 -11 21d5+220 14d4+14
+20 27500
+8 8 1
+Race: 14
+E
+#11028
+manscorpion leader~
+a manscorpion leader~
+A manscorpion leader rallies his men.
+~
+Part-human and part-scorpion, the manscorpion is a grotesque freak of
+nature. A human torso sits atop a bony 6-legged arachnoid body. A barbed
+hook twitches nervously at the end long tail.
+~
+108 0 0 0 262144 0 0 0 -20 E
+23 -3 -13 23d5+253 15d4+15
+60 32500
+8 8 1
+Race: 14
+E
+#11029
+manscorpion mage~
+a manscorpion mage~
+A manscorpion mage stares into the void.
+~
+Part-human and part-scorpion, the manscorpion is a grotesque freak of
+nature. A human torso sits atop a bony 6-legged arachnoid body. A barbed
+hook twitches nervously at the end long tail.
+~
+109 0 0 0 1160 0 0 0 -20 E
+22 -2 -12 22d5+230 14d4+14
+40 30000
+8 8 1
+Race: 14
+E
+#11030
+rakshasa wizard~
+a rakshasa wizard~
+A rakshasa wizard won't trade with the likes of you.
+~
+It's a humanoid tiger, dressed in dark robes. He sells magic items to the
+citizens in his village, but he would never deal with you. However, the idea
+of killing you makes him happy.
+~
+8562731 0 0 0 1160 0 0 0 10 E
+30 -10 -20 30d5+414 20d4+20
+50 60000
+8 8 1
+Race: 5
+E
+#11031
+rakshasa weaponsmith~
+a rakshasa weaponsmith~
+A rakshasa weaponsmith picks from an assortment of arms for one to use on you.
+~
+It's a humanoid tiger, dressed in black armor. He sells weapons to the
+citizens in his village, but he would never deal with you. However, he will
+gladly take your life.
+~
+8628282 0 0 0 131208 0 0 0 -1000 E
+31 -11 -21 31d5+997 20d4+20
+100 90000
+8 8 1
+Race: 5
+E
+#11032
+scorpion small~
+a small scorpion~
+A small scorpion scurries under the sand as you approach.
+~
+It's about 4 inches long, with two inch-long pinchers. It's more scared of you
+than you are of it.
+~
+72 0 0 0 0 0 0 0 -50 E
+3 17 7 3d5+40 2d4+1
+0 350
+8 8 0
+Race: 14
+E
+#11033
+scorpion giant~
+a giant scorpion~
+A giant scorpion lifts a venom-dripping stinger at you.
+~
+It's about as long as you are tall, and looks quite well protected under its
+hard, chitinous carapace. A foot-long stinger drips deadly poison.
+~
+104 0 0 0 1024 0 0 0 -300 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 0
+Race: 14
+E
+#11034
+rakshasa cub~
+a rakshasa cub~
+A rakshasa cub growls at you, half-heartedly.
+~
+It seems a little more aware than a human baby of its size would be. Covered
+in sleek fur, yet with fingers and toes instead of paws, it seems a shame
+to kill such a defenseless creature. Maybe you'll do it anyway.
+~
+72 0 0 0 0 0 0 0 110 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 0
+Race: 5
+E
+#11035
+tiger cub~
+a tiger cub~
+A tiger cub mewls playfully.
+~
+It looks like.. a baby tiger.
+~
+72 0 0 0 0 0 0 0 110 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+E
+#11036
+dune stalker~
+a dune stalker~
+A dune stalker roams the desert, searching for its summoner.
+~
+It looks like a naked human, with clawed fingers and toes. It's bony
+appearance belies its true nature as a creature of great strength.
+~
+540776 0 0 0 918536 0 0 0 -500 E
+30 -10 -20 30d5+414 20d4+20
+40 60000
+8 8 0
+BareHandAttack: 8
+Race: 11
+E
+#11037
+sphinx statue key~
+the sphinx~
+An enormous sphinx is here, resting on a pedestal.
+~
+It appears to be living marble, and pays little attention to you.
+~
+2058 0 0 0 1160 0 0 0 0 E
+31 -11 -21 31d5+997 20d4+20
+0 90000
+5 8 0
+BareHandAttack: 6
+E
+#11038
+minion~
+a minion of Serapis~
+A minion of Serapis walks the land in search of souls for his master.
+~
+Sent by Serapis to search the land for threats to his rule... you
+seem to qualify. Death by his hand will not be pretty.
+~
+811085 0 0 0 1160 0 0 0 -1000 E
+31 -11 -21 31d5+997 20d4+20
+666 90000
+8 8 0
+Race: 11
+E
+#11039
+dracolich skeletal dragon~
+the dracolich~
+A skeletal dragon rises before you.
+~
+Covered in bony scales, this undead creature's only intent is to seal
+your doom.
+~
+2155 0 0 0 1162 0 0 0 -1000 E
+38 -18 -28 38d5+5078 25d4+25
+5500 372000
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#11040
+bulette landshark baby~
+the young bulette~
+A young landshark searches the desert for something edible.
+~
+Covered in blue-grey stoney plates, the bulette (also known as a
+landshark) will eat anything, and decides to start with you.
+~
+76 0 0 0 524288 0 0 0 -500 E
+10 10 0 10d5+110 5d4+5
+0 6600
+8 8 0
+BareHandAttack: 8
+E
+#11041
+sphinx statue~
+the sphinx~
+An enormous sphinx is here, resting on a pedestal.
+~
+It appears to be living marble, and pays little attention to you.
+~
+2058 0 0 0 136 0 0 0 0 E
+31 -11 -21 31d5+997 20d4+20
+90 90000
+5 8 0
+E
+#11042
+sphinx statue~
+the sphinx~
+An enormous sphinx is here, resting on a pedestal.
+~
+It appears to be living marble, and pays little attention to you.
+~
+2058 0 0 0 136 0 0 0 0 E
+31 -11 -21 31d5+997 20d4+20
+90 90000
+5 8 0
+E
+$

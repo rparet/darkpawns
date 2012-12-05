@@ -1,0 +1,27 @@
+CircleMUD v3.0 Shop File~
+#2508~
+1229
+1227
+1233
+-1
+1.00
+1.00
+-1
+%s I do not possess such an item.~
+%s You don't seem to have that.~
+%s I do not trade for such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s I require %d gold coins for that.~
+%s I'll give you %d coins for that.~
+0
+2
+2508
+0
+1
+-1
+0
+28
+0
+0
+$~

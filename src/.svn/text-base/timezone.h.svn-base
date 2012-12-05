@@ -1,0 +1,76 @@
+/*
+  All parts of this code not covered by the copyright by the Trustees of
+  the Johns Hopkins University are Copyright (C) 1996, 97, 98 by the
+  Dark Pawns Coding Team.
+
+  This includes all original code done for Dark Pawns MUD by other authors.
+  All code is the intellectual property of the author, and is used here
+  by permission.
+
+  No original code may be duplicated, reused, or executed without the
+  written permission of the author. All rights reserved.
+
+  See dp-team.txt or "help coding" online for members of the Dark Pawns
+  Coding Team.
+*/
+
+/* $Id$ */
+
+#ifndef _TIMEZONE_H_
+#define _TIMEZONE_H_
+
+#define MAX_TIMEZONE    40
+#define TZ_LOWBITS   0x3f
+#define TZ_DST_ON    0x40
+#define TZ_DST_OFF   0x80
+struct time_zone_data
+{
+  sh_int const offset;  /* in minutes */
+  char const name[6];
+  char const description[80];
+};
+
+struct time_zone_data const time_zone_table[MAX_TIMEZONE] =
+{
+  {    0, "UT",    "Universal Time" },
+  {    0, "GMT",   "Greenwich Mean Time" },
+  {  780, "TONGT", "Tonga" },
+  {  765, "CHAT",  "Chatham Isle" },
+  {  720, "NZT",   "New Zealand, Fidschi, Marsh." },
+  {  690, "NORFT", "Norfolk" },
+  {  660, "SALT",  "Salomon, Neukaledonien, Kurilen" },
+  {  630, "LHT",   "Lord Howe" },
+  {  600, "NSWT",  "NSW, Queensland, Tasmania, Neuguinea" },
+  {  570, "AUST",  "North and South Australia" },
+  {  540, "JST",   "Japan, Korea, Indonesia" },
+  {  480, "HKT",   "Hongkong, Singapore, China, W-Austr." },
+  {  420, "VIT",   "Vietnam, Kambodscha, Thailand" },
+  {  390, "MMT",   "Myanmar, Cocos" },
+  {  360, "BDT",   "Bangla Desh" },
+  {  345, "NEPT",  "Nepal" },
+  {  330, "INDT",  "India, Sri Lanka" },
+  {  300, "PAKT",  "Pakistan, Meldiven" },
+  {  270, "AFGHT", "Afghanistan" },
+  {  240, "SEYT",  "Sychellen, Georgien, Aserbaidschan, Oman" },
+  {  210, "IRT",   "Iran" },
+  {  180, "KENT",  "Kenia, Tansania, S.Arabia, Aethiopien, Madagaskar" },
+  {  120, "EET",   "East Europe, Israel, South Africa" },
+  {   60, "MET",   "Middle Europe" },
+  {    0, "WET",   "West Europe" },
+  {  -60, "AZT",   "Azoren, Kap Verde" },
+  { -120, "SGT",   "S. Sandwich, S. Georgien, Brazil-DeNoronhe" },
+  { -180, "AGT",   "Argentina, E-Brazil, Uruguay, Greenland" },
+  { -210, "NST",   "Newfoundland" },
+  { -225, "GUT",   "Guayana" },
+  { -240, "AST",   "NA Atlantic, Chile, Venezuela, Bolivia" },
+  { -300, "EST",   "NA Eastern, Ecuador, Peru, Columbia" },
+  { -360, "CST",   "NA Central" },
+  { -420, "MST",   "NA Mountain" },
+  { -480, "PST",   "NA Pacific" },
+  { -510, "PIT",   "Pitcairn Island" },
+  { -570, "MIT",   "Marquesa Islands" },
+  { -600, "HST",   "Hawaii, Aleuten, Soc.Isl." },
+  { -660, "SST",   "Samoa, Midway, Phoenix" }
+};
+
+#endif /* _TIMEZONE_H */

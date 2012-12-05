@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 54
+plrpoof
+plrnotes
+plralias
+house
+plrobjs
+object_idlist
+
+END

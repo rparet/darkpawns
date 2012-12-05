@@ -1,0 +1,554 @@
+#14500
+The Entrance~
+You are at the entrance to the Kir Drax'in Zoo. All sorts of creatures have
+been captured and placed in artificially created biomes so that visitors can
+see creatures as they are in the wild. The room opens up to the north where
+there is a lot of commotion going on.
+~
+145 12 0 0 0 0
+D0
+~
+~
+0 0 14501
+D2
+~
+~
+0 0 8076
+S
+#14501
+The Zoo~
+You are in a large room with a wooden podium in the middle.
+There are exits in all four major directions.  A large sign
+displays information about all the attractions at the Zoo.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14515
+D1
+~
+~
+0 0 14525
+D2
+~
+~
+0 0 14500
+D3
+~
+~
+0 0 14502
+E
+podium~
+It's made from wood.
+~
+E
+sign~
+Welcome to the world-renowed Kir Drax'in Zoo!
+Our Attractions:
+    o  The Aviary (in the north wing) For Levels 1-2
+    o  Our "Wild Animals in Captivity" (in the west wing)
+       For Levels 3 and up, with each room getting wilder!
+    o  Our "Rare and Exotic" Collection. (in the east wing)
+       For Levels 4-6
+
+Please mind our zookeepers, who are there for your protection,
+as well as the protection of the animals.
+Thank you.
+                         -The Mgmnt.
+~
+S
+#14502
+The Zoo~
+You are standing at the start of the west wing. Loud shrieks and screams emanate
+from the room north of here, while the south is strangely quiet.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14503
+D1
+~
+~
+0 0 14501
+D2
+~
+~
+0 0 14504
+D3
+~
+~
+0 0 14505
+S
+#14503
+Malchor's Monkey World~
+This room looks like a tornado has gone through it, a tree has been knocked
+over to allow more things for the monkeys to climb on, branches are strewn
+about the floor, and piles of feces are cumulating in the corners.
+~
+145 8 0 0 0 0
+D2
+~
+~
+0 0 14502
+S
+#14504
+Lyratha's House of Lizards~
+This room is very creepy, the magically created light is dimmed to simulate
+nighttime, and vines hang down from the ceiling. The floor is covered with
+leaves and sprinkled with dirt. A few hollowed out logs make room for the
+inhabitants of the room to sleep and play around in.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14502
+S
+#14505
+The Zoo~
+You are in the west wing of the zoo. To the north lies Haerund's Hyena Haven
+and to the south is Blazidon's Badger Paradise.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14506
+D1
+~
+~
+0 0 14502
+D2
+~
+~
+0 0 14507
+D3
+~
+~
+0 0 14508
+S
+#14506
+Haerund's Hyena Haven~
+The floor of this room is covered in sand, and the corpse of a cow lies in
+the middle of the floor, rotting and causing a distinct odor. In the northeast
+corner of the room is a small pool of water.
+~
+145 8 0 0 0 0
+D2
+~
+~
+0 0 14505
+S
+#14507
+Blazidon's Badger Paradise~
+The ground here is dirt, with mounds piled up where the badgers have dug their
+burrows. A tree with long, curling roots gives them places to hide in the
+shade of their artificial sun.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14505
+S
+#14508
+The Zoo~
+You are  in the west wing of the Kir Drax'in Zoo. To the north lies Banadar's
+Bear Bungalow, and to the south is Wally's Wolverine Farm.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14509
+D1
+~
+~
+0 0 14505
+D2
+~
+~
+0 0 14510
+D3
+~
+~
+0 0 14511
+S
+#14509
+Banadar's Bear Bungalow~
+This room was constructed to look like the inside of a large cave
+complete with stalactites and talagmites.  There are a few large
+boulders lying around, and a sign is posted on one of them.
+~
+145 8 0 0 0 0
+D2
+~
+~
+0 0 14508
+E
+sign~
+It says: DO NOT MOLEST THE BEARS
+~
+S
+#14510
+Wally's Wolverine Farm~
+This room is made up to look like a subarctic forest. A thin layer of snow
+covers the ground, and some tall, leafless trees litter the landscape. In the
+back of the room is a small cave, not large enough for a human to fit in.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14508
+S
+#14511
+The Zoo~
+You are at the end of the west wing. To the west is Pizentios' Pachyderm
+Playground. To the south is Trunnian's Tiger Hut, and to the north is
+Regnet's Rhino Emporium.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14512
+D1
+~
+~
+0 0 14508
+D2
+~
+~
+0 0 14513
+D3
+~
+~
+0 0 14514
+S
+#14512
+Regnet's Rhino Emporium~
+The ground in this room is dusty, but you can see some lush greenery growing
+near a large pool of clear water. The artificial sun beats down upon you
+mercilessly, the creator of this place must have been very skilled, and you
+contemplate standing under one of the few trees scattered about.
+~
+145 8 0 0 0 0
+D2
+~
+~
+0 0 14511
+S
+#14513
+Trunnian's Tiger Hut~
+You are in a room designed to be a thick, jungle-like biome. Bamboo shoots
+sprout out all over, and the ground is soft and loamy.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14511
+S
+#14514
+Pizentios' Pachyderm Playground~
+This room is fashioned out to be a grassland. The hard, dusty ground sprouts
+tufts of grass all over, and a tree droops over a pool of clean water. Another
+pool of water, muddy and brackish stands several yards away from the clean one.
+~
+145 8 0 0 0 0
+D1
+~
+~
+0 0 14511
+S
+#14515
+The Zoo~
+Through the door to your north is the aviary, where all types of birds live. To
+the south is the main room, from which you can leave the zoo or enter another
+wing.
+~
+145 12 0 0 0 0
+D0
+~
+door~
+1 0 14517
+D2
+~
+~
+0 0 14501
+S
+#14516
+The Aviary~
+You are in the southwest corner of the aviary. Many different forms of
+vegetation are grown here, giving the birds food and shelter. Small puddles
+of water dot the soft dirt.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14519
+D1
+~
+~
+0 0 14517
+S
+#14517
+The Aviary~
+You are in the southern part of the aviary, where the zoo keeps all the birds
+and vegetation. Strange plants grow here, amongst tall trees that keep the
+low areas shaded from the artificial sun.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14520
+D1
+~
+~
+0 0 14518
+D2
+~
+door~
+1 0 14515
+D3
+~
+~
+0 0 14516
+S
+#14518
+The Aviary~
+You are in the southeast corner of the aviary, where the zoo keeps its birds,
+bird-like creatures, and exotic vegetation. Strange trees grow here, with long,
+curling roots sucking up all the water.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14521
+D3
+~
+~
+0 0 14517
+S
+#14519
+The Aviary~
+You are in the western part of the aviary. Small forms fly high above you,
+above even the tall trees looming all around. A large pool of water stands in
+a circle of jagged stones.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14522
+D1
+~
+~
+0 0 14520
+D2
+~
+~
+0 0 14516
+S
+#14520
+The Aviary~
+You are in the center of the aviary. You can hear the songs of many different
+birds, making beautiful music. Something moves among the plants nearby and
+you get the feeling you shouldn't stand around for too long.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14523
+D1
+~
+~
+0 0 14521
+D2
+~
+~
+0 0 14517
+D3
+~
+~
+0 0 14519
+S
+#14521
+The Aviary~
+You are in the eastern portion of the aviary. All different sorts of flowers
+grow here, filling the air with their scents.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14524
+D2
+~
+~
+0 0 14518
+D3
+~
+~
+0 0 14520
+S
+#14522
+The Aviary~
+You are in the northwest part of the aviary. Your feet are partially submerged
+in a small pond, and you notice little fish swimming away from the ripples you
+create with your movements.
+~
+145 8 0 0 0 0
+D1
+~
+~
+0 0 14523
+D2
+~
+~
+0 0 14519
+S
+#14523
+The Aviary~
+You are in the northern portion of the aviary. Small birds hop on the leaves
+of giant plants as you approach, some flying away with chirps of anger.
+~
+145 8 0 0 0 0
+D1
+~
+~
+0 0 14524
+D2
+~
+~
+0 0 14520
+D3
+~
+~
+0 0 14522
+S
+#14524
+The Aviary~
+You are in the northeast part of the aviary. The ground here is desert-like and
+the plant life consists mainly of cacti of all sizes.
+~
+145 0 0 0 0 0
+D2
+~
+~
+0 0 14521
+D3
+~
+~
+0 0 14523
+S
+#14525
+The Zoo~
+This is where the zookeepers keep the more exotic creatures. There are animal
+pens to the north and south.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14526
+D1
+~
+~
+0 0 14528
+D2
+~
+~
+0 0 14527
+D3
+~
+~
+0 0 14501
+S
+#14526
+The Zaivrag Chamber~
+This room is designed to look like some sort of mountainous territory, and
+your footing isn't very stable. You can see a big nest several yards away from
+your current position.
+~
+145 8 0 0 0 0
+D2
+~
+~
+0 0 14525
+S
+#14527
+The Maaralis Chamber~
+This room is meant to be a marsh biome. The whole area lets off a dreary aura
+with its low-hanging moss-covered half-dead trees.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14525
+S
+#14528
+The Zoo~
+This is the end of the east wing, which contains exotic beasts. There are pens
+in all directions, except west which leads back to the center of the zoo.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14529
+D1
+~
+~
+0 0 14531
+D2
+~
+~
+0 0 14530
+D3
+~
+~
+0 0 14525
+S
+#14529
+The Steel Slug Chamber~
+This room is made out to be the inside of a cave, a thin film of moisture seems
+to cover every surface. A small pool of water stands in the far corner.
+~
+145 8 0 0 0 0
+D2
+~
+~
+0 0 14528
+S
+#14530
+The Torewe Chamber~
+This room is designed like a forest, with trees and bushes everywhere. The sun
+is almost set and it isn't too bright here.
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14528
+S
+#14531
+The Nark Chamber~
+This room was created like a desert, with sand, cacti and everything. There
+are a few rock outcroppings, but no major obstructions in the horizon.
+~
+145 8 0 0 0 0
+D3
+~
+~
+0 0 14528
+S
+$~

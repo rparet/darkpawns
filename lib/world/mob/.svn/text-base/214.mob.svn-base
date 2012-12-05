@@ -1,0 +1,53 @@
+#21400
+ahuizotl dark shadow~
+the ahuizotl~
+A dark shadow passes beneath the surface.
+~
+You can't quite get a good look at it, but it has very mammalian features
+and appears to have extremely sharp teeth. Should it get close enough to you,
+you'll find out exactly how sharp...
+~
+1130600 0 0 0 33888 0 0 0 -400 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 10
+Race: 23
+E
+#21401
+great white shark~
+a great white shark~
+A large fin sticks out of the water with a large shadow underneath.
+~
+This great beast of the ocean is around twenty feet in length with a
+mouthful of mean looking dagger-like teeth.  It's belly is the color
+of snow and it seems to be looking at you with a fierce hunger in its
+eyes.
+~
+1065064 0 0 0 1179752 16 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 0
+BareHandAttack: 4
+Race: 23
+E
+#21402
+Leviathan sea dragon~
+the Leviathan~
+A massive serpentine creature swims here, leaving destruction in its wake.
+~
+The Leviathan's skin is like a double coat of chainmail, with overlapping
+scales as large as shields on its back, and as sharp and hard as jagged steel
+on its under-parts. It breathes smoke from its nostrils and flames from its
+mouth which is rimmed with teeth. Its fins radiate a brilliant light and its
+eyes are like the glimmerings of dawn.
+~
+1828988 0 0 0 1180908 16 0 0 -700 E
+38 -18 -28 38d5+5078 27d4+25
+8500 372000
+8 8 1
+BareHandAttack: 4
+Race: 10
+Noise: The sea begins to boil underneath you with an intense heat.
+E
+$

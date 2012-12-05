@@ -1,0 +1,31 @@
+CircleMUD v3.0 Shop File~
+#19432~
+19412
+-1
+2.35
+0.45
+9armor mail
+5sword dagger axe
+2scroll
+10potion
+3wand
+4staff
+-1
+%s I'm a hermit for Serapis' sake! I don't have that here in my cave.~
+%s Ummmm , care to check you pack? You don't seem to have it.~
+%s I'd buy that, but I don't think I'd get much use out of it here in my cave.~
+%s I'm a hermit , I don't keep that kind of cash here in my cave.......~
+%s I may be a nice guy and willing to let you rest here, but if you want charity go to a holy mission.~
+%s I hate to ask for money, but that'll be %d coins. I gotta eat to you know.~
+%s I can spare %d coins for that. I'll just put this over here.......~
+0
+2
+19406
+0
+19432
+-1
+8
+20
+0
+0
+$~

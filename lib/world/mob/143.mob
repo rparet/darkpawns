@@ -1,0 +1,252 @@
+#14300
+ogre~
+the ogre~
+A large, mean-looking ogre lumbers towards you.
+~
+This ogre sure looks mean. He has a sickly violet hue to his skin and is
+covered in black, warty bumps which are placed all over its hide. His eyes
+are purple with white pupils. His teeth and talons are midnight black and
+glisten in your lights presence. The ogre has long, greasy black hair which
+is braided down the middle of its back. Its odor is so revolting you can't
+help but want to retch.
+~
+126 0 0 0 1064 0 0 0 -500 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 1
+Race: 20
+E
+#14301
+ogre slave driver~
+the ogre slave-driver~
+A massive, black ogre is here, keeping his slaves in line.
+~
+This ogre looks a bit bigger than most of the other ones you've seen in your
+adventures. His pitch black skin and bright orange bumps identify him as part
+of the current emperor's clan, a previously little-known group. He clearly
+likes his job as slave-driver and you notice his evil grin every time he whips
+one of his defenseless captives. Though he seems like an ordinary, if large,
+ogre, you notice he moves with a feline grace uncommon to the ogrish race.
+~
+65578 0 0 0 140296 0 0 0 -1000 E
+11 9 -1 11d5+120 7d4+7
+0 7500
+8 8 1
+Race: 20
+E
+#14302
+ogre chieftain~
+the ogre chieftain~
+A big, nasty ogre begins walking towards you.
+~
+This ogre is big! Even bigger than the slave-drivers you've seen, and you can
+tell from his black skin with orange bumps that he's of the same tribe. He
+seems much more calmed than the other ogres you've seen so far, but that
+probably won't stop him from splitting you in two.
+~
+2106 0 0 0 1064 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+0 10500
+8 8 1
+Race: 20
+E
+#14303
+ogre emperor leader king~
+the Ogre Emperor~
+The biggest ogre you've ever seen is standing here, ignoring your existence.
+~
+This ogre is the mac daddy of all ogres, he's the emperor, which means that he,
+through whatever means necessary combined the might of all the ogre clans in
+the land and now leads them as a legion of doom. You notice a strange glint
+of intelligence in his beady purple and white eyes and you also see the same
+feline grace of some of the other ogres in the stronghold.
+~
+67642 0 0 0 9400 0 0 0 -750 E
+16 4 -6 16d5+170 10d4+10
+1100 16000
+8 8 1
+Race: 20
+E
+#14304
+human slave~
+a human slave~
+A slave toils here, doing whatever his masters say.
+~
+He's been through a lot, after the ogres had raided his village they made him
+watch as the ogres raped his wife and daughter and slaughtered his sons in cold
+blood. As his eyes meet yours you can't help but feel that killing him would
+be putting him out of his misery.
+~
+2186 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+0 4500
+8 8 1
+Race: 0
+E
+#14305
+tiger saber toothed carve_meat~
+a saber-toothed tiger~
+A large saber-toothed tiger prowls around here.
+~
+This is the Ogre Emperor's favorite pet, though normally saber-toothed tigers
+are untrainable, it seems this one is an exeption. The Emperor uses the tiger
+to rip his enemies to pieces, for entertainment purposes, of course.
+~
+2099242 0 0 0 951296 0 0 0 0 E
+14 6 -4 14d5+150 9d4+9
+0 12000
+8 8 0
+BareHandAttack: 4
+Race: 22
+E
+#14306
+guardian suwyze tentacles~
+the guardian~
+A huge mass of arms, tentacles, and feelers lurches towards you.
+~
+It's hideous! It seems to be made from only feathery antennae, wispy tendrils,
+and long feelers. You know not where this alien beast has come from, only that
+it does not belong in this place, and it seems to feel the same way about you.
+~
+210990 0 0 0 132264 0 0 0 0 E
+14 6 -4 14d5+150 9d4+9
+0 12000
+8 8 0
+Race: 25
+E
+#14307
+beetle fire~
+a fire beetle~
+A big fire beetle scurries around here.
+~
+These fire beetles are breeded by the ogres to make lights for the walls of
+their stronghold, and when they go out at night to raid the nearby villages.
+~
+65674 0 0 0 132096 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 0
+BareHandAttack: 4
+Race: 21
+E
+#14308
+carrion stalker~
+a carrion stalker~
+A carrion stalker jumps towards you, tentacles outstretched!
+~
+It's one of the most disgusting things you've ever seen. It looks like a
+horseshoe crab except without the tail and instead of legs it has long,
+slimy tentacles that squirm around each other. It lives in corpses and waits
+for unsuspecting victims to disturb their rest, like you just have.
+~
+518152 0 0 0 1024 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+0 1
+8 8 0
+BareHandAttack: 1
+Race: 21
+E
+#14309
+lizard man shaman~
+the lizard man shaman~
+A lizard man dressed in the robes of a priest is standing here, chanting.
+~
+He is the leader of the group of lizard men sent to the ogre stronghold to
+negotiate a peace treaty. His king sent him because he was the most
+intelligent of the lizard men in the tribe, soon the treaty will be signed
+and the lizard men shall have free reign of some of the ogre territory, like
+your home city.
+~
+2090 0 0 0 13448 0 0 0 -500 E
+11 9 -1 11d5+120 7d4+7
+10 7500
+8 8 1
+Race: 27
+E
+#14310
+lizard man warrior~
+a lizard man warrior~
+A lizard man is standing here, staying guard.
+~
+This lizard man was sent by the lizard king to guard the shaman, in case the
+ogres had planned a trick. Although not the biggest of the rest of the lizard
+men in his tribe, he looks like he can hold his own in a fight with someone
+like...you.
+~
+2090 0 0 0 132104 0 0 0 -500 E
+10 10 0 10d5+110 5d4+5
+5 6000
+8 8 1
+Race: 27
+E
+#14311
+troll ambassador~
+the troll ambassador~
+An intelligent-looking troll sits here, looking over some documents.
+~
+He must have been the runt of his litter, for he is much smaller than any
+other troll you've ever seen. But it looks like what he is at a loss in
+brawn, he makes up for in brains. Normally he'd be advising at the troll king's
+side but after the ogre emperor asked him to come to make up a peace treaty,
+he figured it was a good idea and took a leave for as long as the signing of
+the treaties will last.
+~
+8331 0 0 0 1024 0 0 0 -700 E
+11 9 -1 11d5+120 7d4+7
+0 7500
+6 6 1
+BareHandAttack: 8
+Race: 6
+E
+#14312
+troll warrior~
+a troll warrior~
+A large, burly-looking troll stands here, drowsing off.
+~
+Originally one of the troll king's elite guards, this troll was releived of
+his post when an envoy was sent to the ogre stronghold to make up a treaty of
+some kind and now guards the troll ambassador from any harm anyone would
+bring upon him.
+~
+2091 0 0 0 132136 0 0 0 -700 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 1
+Race: 6
+E
+#14313
+giant rat~
+a giant rat~
+A giant rat charges at you, beady eyes flashing.
+~
+This is what the ogres use for entertainment when not raiding the nearby
+villages. It's gotten used to the ogres and is more like a pet than a pest
+and now obeys most of the orders it understands from the ogres.
+~
+42 0 0 0 263168 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 0
+BareHandAttack: 4
+Race: 15
+E
+#14314
+ogre shaman~
+the ogre shaman~
+A dark-robed ogre glances at you bemusedly, before chanting an incantation...
+~
+This ogre is the emperor's right hand man and is basically the whole reason
+that the emperor is what he is today. One day when the now emperor was training
+with the other ogres of his tribe, this shaman that seemed to be of the same
+clan walked up to him and offered him a proposal, no one knows exactly what
+the proposal was but now it's assumed that it had something to do with becoming
+emperor of the ogre clans. Ever since the emperor was in place, the shaman has
+always been there to advise him.
+~
+2090 0 0 0 1152 0 0 0 -1000 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 1
+Race: 20
+E
+$

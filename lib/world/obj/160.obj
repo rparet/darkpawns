@@ -1,0 +1,160 @@
+#16000
+titan's mit~
+a titan's mit~
+A titan's mit is lying here.~
+~
+9 34 0 0 0 129 0 0 0
+2 0 0 0
+4 2000 40.00
+E
+titan's mit~
+   This large glove is rather bulky and it's doubtful whether your hand can
+fit inside it's spacious interior.  The glove has heavily padded segments
+to help facilitate free movement of a hand much larger than your own.  Gems
+e sparsely embedded on the exterior of the glove, and although you can see
+the gems, strangely enough, you can't feel them, much less remove them...
+~
+A
+1 3
+A
+19 1
+A
+2 -1
+A
+18 -1
+#16001
+roc feather~
+a roc feather~
+A roc feather is lying here.~
+~
+12 32832 0 0 0 16385 0 0 0
+0 0 0 0
+3 50 60.00
+E
+roc feather~
+   A feather of a huge bird.   This feather is easily the size of a sword
+and has some heft to it which is strange for a feather.
+~
+A
+5 1
+A
+1 2
+A
+14 5
+#16002
+climber's hook~
+a climber's hook~
+A climber's hook is lying here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 35 77.00
+E
+climber's hook~
+  An old hook used for grappling and climbing.  The hook's surface is
+spotted with small circles of rust from over-exposure to the thin, damp air
+of the mountains.
+~
+A
+14 20
+#16003
+dragonne's scale~
+a dragonne's scale~
+A dragonne's scale is lying here.~
+~
+9 11 0 0 0 5 0 0 0
+2 0 0 0
+1 800 60.00
+E
+dragonne's scale~
+  A bronze shimmering scale from some exotic beast.  Light plays across it's
+surface with a prism-like brilliance.
+~
+A
+17 2
+A
+23 1
+A
+6 2
+A
+1 1
+#16004
+red mushroom~
+a red mushroom~
+A red mushroom grows here.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0
+0 0 100.00
+E
+red mushroom~
+   This small, red mushroom has a sweet smell to it.  You have a feeling
+that this mushroom is indiginous to these mountains, and with that in
+consideration, they could have a strange effect on whoever eats them...
+~
+#16005
+climber's pack~
+a climber's pack~
+A climber's pack is lying here.~
+~
+15 32 0 0 0 1025 0 0 0
+80 1 -1 0
+5 100 70.00
+E
+lost pack~
+  For all intents and purposes, this climber's pack appears normal.  A fine
+layer of dust has accumulated on the pack, and suggests that the original
+owner has forgotten all about it.
+~
+A
+14 -5
+A
+13 10
+A
+17 2
+#16006
+stone club~
+a stone club~
+A stone club is lying here.~
+   A large jagged stone, fashioned into the shape of a club.
+~
+5 256 0 0 0 8193 0 0 0
+0 2 6 7
+15 200 80.00
+A
+1 1
+A
+18 -2
+#16007
+green mushroom~
+a green mushroom~
+A green mushroom is growing here.~
+~
+19 0 0 0 0 1 0 0 0
+0 0 0 4
+0 0 100.00
+E
+green mushroom~
+  This brilliant green mushroom is very exotic looking.  You wager a guess
+that this fungus is indiginous to the mountians, and with that in mind,
+they could have strange effects on whoever eats them.
+~
+#16008
+dried husk corpse~
+a withered, dried out husk of a corpse~
+A dried out husk of a corpse is lying here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+husk dried corpse withered~
+  Upon closer inspection of this gruesome cadaver, you find that the former
+humanoid that should have some heft to it's corpse is rather light, due to
+it's insides being sucked dry and leaving the skin dry, wrinkled, cracked,
+and leather-like.  Eye sockets holding withered milky looking eyes trap an
+immortal look of preternatural horror on the face of this unfortunate
+individual.  As the body is moved, you can actually hear it's bones rattling
+loosely inside the withered mummified skin.
+~
+$~

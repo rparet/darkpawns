@@ -1,0 +1,3860 @@
+#3100
+Inside the Pub~
+  This run-down wooden building has seen better days. Business seems really
+slow.
+~
+31 8 0 0 0 0
+D5
+~
+~
+0 -1 3158
+S
+#3101
+A Dirt Road through the Forest~
+   The ironwood trees begin to thin out, giving way to huge ancient willows 
+and oaks festooned with spanish moss.  The effect is eerie.  A trail running
+roughly north and south can be barely made out, and a narrow path to the east
+leads behind some tall ironwood trees.
+   As you scan the trail to the south, you make out a set of gates, mostly
+obscured by the branches that jut out into the path.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3102
+D1
+~
+~
+0 0 9376
+D2
+~
+~
+0 0 12101
+D3
+~
+~
+0 0 9653
+S
+#3102
+A Dirt Road through the Forest~
+   The forest crowds in around you, as if eager to reclaim the path you are
+travelling upon.  In some places the brush is so thick that you are forced to
+hack your way through.  In one such section, your efforts reveal a decrepit
+building just to your east.  You can still see remnants of the path to your 
+north and south.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3109
+D1
+~
+~
+0 -1 3103
+D2
+~
+~
+0 -1 3101
+D3
+~
+~
+0 0 9645
+S
+#3103
+Before a Pagan Altar~
+   This shrine has seen better days.  The roof has collapsed, leaves are piled
+in several places, the door is ripped from its hinges, creaking eerily with the
+wind. Something about the altar nags at you though.  The forest is to your west.
+~
+31 8 0 0 0 0
+D3
+~
+~
+0 -1 3102
+E
+altar~
+The altar is covered with blood not more than a week old!
+~
+S
+#3104
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3111
+D1
+~
+~
+0 -1 3293
+D2
+~
+~
+0 -1 3287
+S
+#3105
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3113
+D1
+~
+~
+0 -1 3106
+D2
+~
+~
+0 0 9642
+D3
+~
+~
+0 -1 9483
+S
+#3106
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3107
+D2
+~
+~
+0 0 9643
+D3
+~
+~
+0 -1 3105
+S
+#3107
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3108
+D2
+~
+~
+0 0 9644
+D3
+~
+~
+0 -1 3106
+S
+#3108
+A Dirt Road through the Forest~
+   The narrow dirth road continues through the gloomy Ironwood forest to
+the east and west.  The forest completely surrounds you, with no end in
+sight.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3116
+D1
+~
+~
+0 -1 3109
+D2
+~
+~
+0 0 9645
+D3
+~
+~
+0 -1 3107
+S
+#3109
+A Dirt Road through the Forest~
+  Ironwood trees spring up all around you. To the south a narrow path begins.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3117
+D1
+~
+~
+0 -1 3110
+D2
+~
+~
+0 0 3102
+D3
+~
+~
+0 -1 3108
+S
+#3110
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3118
+D1
+~
+~
+0 0 3111
+D3
+~
+~
+0 -1 3109
+S
+#3111
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3119
+D1
+~
+~
+0 -1 3112
+D2
+~
+~
+0 0 9370
+D3
+~
+~
+0 0 3110
+S
+#3112
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3120
+D1
+~
+~
+0 0 9366
+D2
+~
+~
+0 0 9371
+D3
+~
+~
+0 -1 3111
+S
+#3113
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3123
+D1
+~
+~
+0 -1 3114
+D2
+~
+~
+0 -1 3105
+D3
+~
+~
+0 -1 9482
+S
+#3114
+A Grassy Clearing~
+  This small clearing is quiet and peaceful.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 -1 3124
+D1
+~
+~
+0 -1 3115
+D3
+~
+~
+0 -1 3113
+S
+#3115
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3125
+D1
+~
+~
+0 -1 3116
+D3
+~
+~
+0 -1 3114
+S
+#3116
+A Dirt Road through the Forest~
+   Ironwood trees spring up on both sides of this narrow dirt road.  Your
+passage into the forest will be a treacherous wade into the thick, thorny
+underbrush.  The dirt road continues north and south.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3126
+D1
+~
+~
+0 -1 3117
+D2
+~
+~
+0 -1 3108
+D3
+~
+~
+0 -1 3115
+S
+#3117
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D2
+~
+~
+0 -1 3109
+D3
+~
+~
+0 -1 3116
+S
+#3118
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3128
+D2
+~
+~
+0 -1 3110
+S
+#3119
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3129
+D1
+~
+~
+0 -1 3120
+D2
+~
+~
+0 -1 3111
+S
+#3120
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3130
+D1
+~
+~
+0 -1 3121
+D2
+~
+~
+0 -1 3112
+D3
+~
+~
+0 -1 3119
+S
+#3121
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3131
+D1
+~
+~
+0 -1 3122
+D2
+~
+~
+0 0 9366
+D3
+~
+~
+0 -1 3120
+S
+#3122
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3132
+D1
+~
+~
+0 0 9364
+D2
+~
+~
+0 0 9367
+D3
+~
+~
+0 -1 3121
+S
+#3123
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3133
+D1
+~
+~
+0 -1 3124
+D2
+~
+~
+0 -1 3113
+D3
+~
+~
+0 -1 9479
+S
+#3124
+A Grassy Clearing~
+  This little glade is quiet and peaceful.
+~
+31 144 0 0 0 2
+D0
+~
+~
+0 -1 3134
+D1
+~
+~
+0 -1 3125
+D2
+~
+~
+0 -1 3114
+D3
+~
+~
+0 -1 3123
+S
+#3125
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3135
+D1
+~
+~
+0 -1 3126
+D2
+~
+~
+0 -1 3115
+D3
+~
+~
+0 -1 3124
+S
+#3126
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 -1 3136
+D1
+~
+~
+0 -1 3127
+D2
+~
+~
+0 -1 3116
+D3
+~
+~
+0 -1 3125
+S
+#3127
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3137
+D1
+~
+~
+0 -1 3128
+D3
+~
+~
+0 -1 3126
+S
+#3128
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3129
+D2
+~
+~
+0 -1 3118
+D3
+~
+~
+0 -1 3127
+S
+#3129
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3139
+D2
+~
+~
+0 -1 3119
+D3
+~
+~
+0 -1 3128
+S
+#3130
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3140
+D1
+~
+~
+0 -1 3131
+D2
+~
+~
+0 -1 3120
+S
+#3131
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3141
+D1
+~
+~
+0 -1 3132
+D2
+~
+~
+0 -1 3121
+D3
+~
+~
+0 -1 3130
+S
+#3132
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3142
+D1
+~
+~
+0 0 9362
+D2
+~
+~
+0 -1 3122
+D3
+~
+~
+0 -1 3131
+S
+#3133
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush, and to the north lies the Colden River.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3143
+D1
+~
+~
+0 -1 3134
+D2
+~
+~
+0 -1 3123
+D3
+~
+~
+0 -1 9473
+S
+#3134
+A Small Clearing~
+  This grassy clearing is quiet and peaceful.
+~
+31 144 0 0 0 2
+D0
+~
+~
+0 -1 3144
+D1
+~
+~
+0 -1 3135
+D2
+~
+~
+0 -1 3124
+D3
+~
+~
+0 -1 3133
+S
+#3135
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3145
+D1
+~
+~
+0 -1 3136
+D2
+~
+~
+0 -1 3125
+D3
+~
+~
+0 -1 3134
+S
+#3136
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3146
+D2
+~
+~
+0 -1 3126
+D3
+~
+~
+0 -1 3135
+S
+#3137
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3147
+D1
+~
+~
+0 -1 3138
+D2
+~
+~
+0 -1 3127
+S
+#3138
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3139
+D3
+~
+~
+0 -1 3137
+S
+#3139
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3149
+D1
+~
+~
+0 -1 3140
+D2
+~
+~
+0 -1 3129
+D3
+~
+~
+0 -1 3138
+S
+#3140
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3150
+D1
+~
+~
+0 -1 3141
+D2
+~
+~
+0 -1 3130
+D3
+~
+~
+0 -1 3139
+S
+#3141
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3151
+D1
+~
+~
+0 -1 3142
+D2
+~
+~
+0 -1 3131
+D3
+~
+~
+0 -1 3140
+S
+#3142
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3152
+D1
+~
+~
+0 0 9360
+D2
+~
+~
+0 -1 3132
+D3
+~
+~
+0 -1 3141
+S
+#3143
+On The Colden River~
+  The water is dark and deep here.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3153
+D1
+~
+~
+0 -1 3144
+D2
+~
+~
+0 -1 3133
+D3
+~
+~
+0 -1 9467
+S
+#3144
+On The Colden River~
+  The water is dark and deep here.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3154
+D1
+~
+~
+0 -1 3145
+D2
+~
+~
+0 -1 3134
+D3
+~
+~
+0 -1 3143
+S
+#3145
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3155
+D1
+~
+~
+0 -1 3146
+D2
+~
+~
+0 -1 3135
+D3
+~
+~
+0 -1 3144
+S
+#3146
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 -1 3156
+D2
+~
+~
+0 -1 3136
+D3
+~
+~
+0 -1 3145
+S
+#3147
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3157
+D1
+~
+~
+0 -1 3148
+D2
+~
+~
+0 -1 3137
+S
+#3148
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush. There is a wooden wall to the north.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3149
+D3
+~
+~
+0 -1 3147
+S
+#3149
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush. The side of a building rises to the north.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3150
+D2
+~
+~
+0 -1 3139
+D3
+~
+~
+0 -1 3148
+S
+#3150
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3151
+D2
+~
+~
+0 -1 3140
+D3
+~
+~
+0 -1 3149
+S
+#3151
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3152
+D2
+~
+~
+0 -1 3141
+D3
+~
+~
+0 -1 3150
+S
+#3152
+On the Colden River~
+  The water is dark and deep here.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3162
+D1
+~
+~
+0 0 9358
+D2
+~
+~
+0 -1 3142
+D3
+~
+~
+0 -1 3151
+S
+#3153
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3163
+D1
+~
+~
+0 -1 3154
+D2
+~
+~
+0 -1 3143
+D3
+~
+~
+0 -1 9464
+S
+#3154
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3164
+D1
+~
+~
+0 -1 3155
+D2
+~
+~
+0 -1 3144
+D3
+~
+~
+0 -1 3153
+S
+#3155
+On the Colden River~
+  The water is dark and deep here.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3165
+D1
+~
+~
+0 -1 3156
+D2
+~
+~
+0 -1 3145
+D3
+~
+~
+0 -1 3154
+S
+#3156
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 -1 3166
+D1
+~
+~
+0 -1 3157
+D2
+~
+~
+0 -1 3146
+D3
+~
+~
+0 -1 3155
+S
+#3157
+The Forest~
+  The ironwood forest thins out here. The tall side of a building blocks your
+way to the north and east.
+~
+31 0 0 0 0 3
+D2
+~
+~
+0 -1 3147
+D3
+~
+~
+0 -1 3156
+S
+#3158
+Inside the Pub~
+  This rickety pub is pretty barren. A narrow staircase leads to an upstairs
+room, but this floor holds little except a battered bar.
+~
+31 8 0 0 0 0
+D0
+~
+~
+0 -1 3168
+D4
+~
+~
+0 -1 3100
+S
+#3159
+In the Cellar~
+  This musty room probably used to hold wine and ale, but it's empty now.
+~
+31 8 0 0 0 0
+D0
+~
+~
+0 -1 3169
+S
+#3160
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in most
+directions by a thick underbrush.  A high fence blocks your way north, and
+the side of a building lies to the west.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3161
+S
+#3161
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3171
+D1
+~
+~
+0 -1 3162
+D3
+~
+~
+0 -1 3160
+S
+#3162
+On the Colden River~
+  The water is dark and deep here.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3172
+D1
+~
+~
+0 0 9356
+D2
+~
+~
+0 -1 3152
+D3
+~
+~
+0 -1 3161
+S
+#3163
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3173
+D1
+~
+~
+0 -1 3164
+D2
+~
+~
+0 -1 3153
+D3
+~
+~
+0 -1 9461
+S
+#3164
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3174
+D1
+~
+~
+0 -1 3165
+D2
+~
+~
+0 -1 3154
+D3
+~
+~
+0 -1 3163
+S
+#3165
+The Colden River~
+  The water here is clear and shallow.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3175
+D1
+~
+~
+0 -1 3166
+D2
+~
+~
+0 -1 3155
+D3
+~
+~
+0 -1 3164
+S
+#3166
+The Road~
+  This road looks well-traveled. The dirt is packed down hard. There
+is an entrance into a building to the east.
+~
+31 4 0 0 0 2
+D0
+~
+~
+0 -1 3176
+D1
+~
+door~
+1 -1 3167
+D2
+~
+~
+0 -1 3156
+D3
+~
+~
+0 -1 3165
+S
+#3167
+Inside the Pub~
+  This run-down wooden building has seen better days. Business seems really
+slow.
+~
+31 8 0 0 0 0
+D0
+~
+~
+0 -1 3177
+D1
+~
+~
+0 -1 3168
+D3
+~
+door~
+1 -1 3166
+S
+#3168
+Inside the Pub~
+  This run-down wooden building has seen better days. Business seems really
+slow.
+~
+31 8 0 0 0 0
+D2
+~
+~
+0 -1 3158
+D3
+~
+~
+0 -1 3167
+S
+#3169
+A Garden~
+  A wilted garden grows here. To the south an underground cellar is 
+nearly overgrown.
+~
+31 0 0 0 0 2
+D1
+~
+~
+0 -1 3170
+D2
+~
+~
+0 -1 3159
+S
+#3170
+A Garden~
+  A wilted garden grows here. To the southeast an underground cellar 
+is nearly overgrown. A high fence runs along your east and south.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 -1 3180
+D3
+~
+~
+0 -1 3169
+S
+#3171
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush. There is an old iron fence to the west.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3181
+D1
+~
+~
+0 -1 3172
+D2
+~
+~
+0 -1 3161
+S
+#3172
+On the Colden River~
+  The water is dark and deep.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3182
+D1
+~
+~
+0 0 9354
+D2
+~
+~
+0 -1 3162
+D3
+~
+~
+0 -1 3171
+S
+#3173
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3183
+D1
+~
+~
+0 -1 3174
+D2
+~
+~
+0 -1 3163
+D3
+~
+~
+0 -1 9458
+S
+#3174
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3184
+D1
+~
+~
+0 -1 3175
+D2
+~
+~
+0 -1 3164
+D3
+~
+~
+0 -1 3173
+S
+#3175
+The Colden River~
+  The water here is clear and shallow.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3185
+D1
+~
+~
+0 -1 3176
+D2
+~
+~
+0 -1 3165
+D3
+~
+~
+0 -1 3174
+S
+#3176
+The Road~
+  The road here is well-maintained.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3186
+D2
+~
+~
+0 -1 3166
+D3
+~
+~
+0 -1 3175
+S
+#3177
+Inside the Pub~
+  The floor and walls are made of rough wooden planks. To the west a board
+is missing, letting you see into the next room.
+~
+31 8 0 0 0 0
+D2
+~
+~
+0 -1 3167
+E
+window board hole ~
+Though it's nearly pitch black, you see many shapes flitting through the
+darkness.~
+S
+#3178
+The Dark Room~
+  This room is almost pitch black, but you get the feeling you're not alone.
+~
+31 9 0 0 0 0
+D1
+~
+door~
+1 -1 3179
+S
+#3179
+The Dark Room~
+  This room is almost pitch black, but you get the feeling you're not alone.
+~
+31 9 0 0 0 0
+D0
+~
+~
+0 -1 3189
+D3
+~
+door~
+1 -1 3178
+S
+#3180
+A Narrow Street~
+  You stand on a narrow street on the shadier side of town. A foul stench
+rises from the gutters.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3190
+D1
+~
+~
+0 -1 3181
+D2
+~
+~
+0 -1 3170
+S
+#3181
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3191
+D2
+~
+~
+0 -1 3171
+D3
+~
+~
+0 -1 3180
+S
+#3182
+On the Colden River~
+  The water is dark and deep.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3192
+D1
+~
+~
+0 0 9351
+D2
+~
+~
+0 -1 3172
+S
+#3183
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3184
+D2
+~
+~
+0 -1 3173
+D3
+~
+~
+0 -1 9455
+S
+#3184
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3194
+D1
+~
+~
+0 -1 3185
+D2
+~
+~
+0 -1 3174
+D3
+~
+~
+0 -1 3183
+S
+#3185
+The Colden River~
+  The water is clear and shallow.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3195
+D1
+~
+~
+0 -1 3186
+D2
+~
+~
+0 -1 3175
+D3
+~
+~
+0 -1 3184
+S
+#3186
+The Road~
+  This road runs directly in front of a wooden building to the east.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3196
+D1
+~
+door~
+1 -1 3187
+D2
+~
+~
+0 -1 3176
+D3
+~
+~
+0 -1 3185
+S
+#3187
+Inside the Bordello~
+  This looks like the foyer of an old bordello. It's been many years since any
+scantily clad females ran around giggling.
+~
+31 8 0 0 0 0
+D1
+~
+~
+0 -1 3188
+D3
+~
+door~
+1 -1 3186
+S
+#3188
+Inside a Dark Building~
+  A bare mattress is the adornment of this large room which is partitioned
+into several cubicles by dingy sheets.
+~
+31 9 0 0 0 0
+D1
+~
+~
+0 -1 3189
+D3
+~
+~
+0 -1 3187
+S
+#3189
+The Dark Room~
+  Something brushes your face in the near darkness. Rustling sounds fill the
+air and you know have company here.
+~
+31 9 0 0 0 0
+D2
+~
+~
+0 -1 3179
+D3
+~
+~
+0 -1 3188
+S
+#3190
+The Narrow Street~
+  The stench of excrement and urine from the gutter almost overpower you.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3200
+D1
+~
+~
+0 -1 3191
+D2
+~
+~
+0 -1 3180
+S
+#3191
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3201
+D2
+~
+~
+0 -1 3181
+D3
+~
+~
+0 -1 3190
+S
+#3192
+On the Colden River~
+  The water is dark and deep.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3202
+D1
+~
+~
+0 0 9348
+D2
+~
+~
+0 -1 3182
+S
+#3193
+The Forest~
+   To the north a wall blocks your passage, obviously encompassing some sort
+of small hamlet and a rather large castle. Thick underbrush blocks your way
+south.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3194
+D3
+~
+~
+0 -1 9452
+S
+#3194
+The Forest~
+  To the north lies a hard-packed dirt road, bordering a walled castle and it's
+surrounding lands to the northwest. Forest lies all around you.      
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3204
+D1
+~
+~
+0 -1 3195
+D2
+~
+~
+0 -1 3184
+D3
+~
+~
+0 -1 3193
+S
+#3195
+A Colden River~
+  The clear water is a bit deeper here.
+~
+31 0 0 0 0 6
+D1
+~
+~
+0 -1 3196
+D2
+~
+~
+0 -1 3185
+D3
+~
+~
+0 -1 3194
+S
+#3196
+The Road~
+  This road appears well-used and very old.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3206
+D2
+~
+~
+0 -1 3186
+D3
+~
+~
+0 -1 3195
+S
+#3197
+A Broom Closet~
+  This tiny room holds a broom and chamber pot.
+~
+31 8 0 0 0 0
+D1
+~
+door east~
+1 -1 3198
+S
+#3198
+Inside a House~
+  This looks just like any other farmer's house.
+~
+31 8 0 0 0 0
+D0
+~
+door north~
+1 -1 3208
+D1
+~
+door east~
+1 -1 3199
+D3
+~
+door west~
+1 -1 3197
+S
+#3199
+A Bedroom~
+  A tiny hay-filled bed and home-made table are the only adornment in this
+room.
+~
+31 8 0 0 0 0
+D3
+~
+door west~
+1 -1 3198
+S
+#3200
+The Narrow Road~
+  The stench of excrement and urine from the gutter almost overpower you.  
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3210
+D1
+~
+~
+0 -1 3201
+D2
+~
+~
+0 -1 3190
+S
+#3201
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3211
+D2
+~
+~
+0 -1 3191
+D3
+~
+~
+0 -1 3200
+S
+#3202
+On the Colden River~
+  The water is dark and deep.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3212
+D1
+~
+~
+0 0 9345
+D2
+~
+~
+0 -1 3192
+S
+#3203
+The Forest~
+  You are surrounded in every direction by the forest which doesn't seem to
+end.  Trees grown close together, perhaps intentionally, bar your way to the
+south and east.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3213
+D3
+~
+~
+0 -1 9449
+S
+#3204
+The Dirt Road~
+   This dusty path hardly qualifies as a road; to the east it crosses a
+small bridge. Directly west of here is rough stone wall bordering what
+appears to be a town and a rather large castle.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3214
+D1
+~
+~
+0 -1 3205
+D2
+~
+~
+0 -1 3194
+S
+#3205
+On the T(r)oll Bridge~
+   Heavy snoring sounds from below as you pass over this rough wooden
+bridge.
+~
+31 1 0 0 0 1
+D1
+~
+~
+0 -1 3206
+D3
+~
+~
+0 -1 3204
+S
+#3206
+Town Center~
+  An abandoned castle can be seen across a moat to the north. A gate closes
+off a narrow road that leads behind some buildings to the east and a rickety
+bridge is to the west.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3216
+D1
+~
+gate~
+1 -1 3207
+D2
+~
+~
+0 -1 3196
+D3
+~
+~
+0 -1 3205
+S
+#3207
+The Narrow Road~
+  This narrow road leads between a dark moat to the north and the back of an
+old building to the south. A tall gate is to the west.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3217
+D1
+~
+~
+0 -1 3208
+D3
+~
+gate~
+1 -1 3206
+S
+#3208
+The Narrow Road~
+  This narrow road opens to a small house to the south and leads east and west.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 0 3218
+D1
+~
+~
+0 -1 3209
+D2
+~
+door north~
+1 -1 3198
+D3
+~
+~
+0 -1 3207
+S
+#3209
+The Narrow Road~
+  The water from the moat to the north has flooded here, so you keep trudging
+through the muck that used to be a road.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3219
+D1
+~
+~
+0 -1 3210
+D3
+~
+~
+0 -1 3208
+S
+#3210
+The Narrow Road~
+  The narrow road turns a corner here, running west and south. To the north
+is a dark moat and to the east lies an ironwood forest.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3220
+D1
+~
+~
+0 -1 3211
+D2
+~
+~
+0 -1 3200
+D3
+~
+~
+0 -1 3209
+S
+#3211
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3221
+D1
+~
+~
+0 -1 3212
+D2
+~
+~
+0 -1 3201
+D3
+~
+~
+0 -1 3210
+S
+#3212
+On the Colden River~
+  The water is dark and deep.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3222
+D1
+~
+~
+0 0 9342
+D2
+~
+~
+0 -1 3202
+D3
+~
+~
+0 -1 3211
+S
+#3213
+The Forest~
+   You are standing amidst tall pines and firs.  A few birds and forest
+foragers rustle about the ground, stirring leaves and twigs as they
+rush about in frolic.
+   To the southeast lies the walls of a small town, the center of which
+houses a rather stately castle. South of here you can see a gate in the
+wall, and in all other directions lies forest.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3223
+D1
+~
+~
+0 -1 3214
+D2
+~
+~
+0 -1 3203
+D3
+~
+~
+0 -1 9446
+S
+#3214
+The Dirt Road~
+  Hard-packed dirt makes up this dusty road heading south along a high wall.
+Over the wall to the southwest can be seen the top of several dwellings, and
+an old castle.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3224
+D2
+~
+~
+0 -1 3204
+D3
+~
+~
+0 -1 3213
+S
+#3215
+The Moat~
+  Dark shapes swim below the surface of the murky water below you.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3225
+D1
+~
+~
+0 -1 3217
+S
+#3216
+On the Bridge~
+  This old wooden bridge shows little sign of use.
+~
+31 8 0 0 0 0
+D0
+~
+~
+0 -1 3226
+D2
+~
+~
+0 -1 3206
+S
+#3217
+The Moat~
+  Dark shapes swim below the surface of the murky water below you.
+~
+31 0 0 0 0 0
+D1
+~
+~
+0 -1 3218
+D2
+~
+~
+0 -1 3207
+D3
+~
+~
+0 -1 3215
+S
+#3218
+The Moat~
+  Dark shapes swim below the surface of the murky water below you.
+~
+31 0 0 0 0 0
+D1
+~
+~
+0 -1 3219
+D2
+~
+~
+0 -1 3208
+D3
+~
+~
+0 -1 3217
+S
+#3219
+The Moat~
+  Dark shapes swim below the surface of the murky water below you.
+~
+31 0 0 0 0 0
+D1
+~
+~
+0 -1 3220
+D2
+~
+~
+0 -1 3209
+D3
+~
+~
+0 -1 3218
+S
+#3220
+The Moat~
+  Dark shapes swim below the surface of the murky water below you.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3230
+D1
+~
+~
+0 -1 3221
+D2
+~
+~
+0 -1 3210
+D3
+~
+~
+0 -1 3219
+S
+#3221
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3231
+D2
+~
+~
+0 -1 3211
+D3
+~
+~
+0 -1 3220
+S
+#3222
+On the Colden River~
+  The water is dark and deep.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3232
+D1
+~
+~
+0 0 9339
+D2
+~
+~
+0 -1 3212
+S
+#3223
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3233
+D2
+~
+~
+0 -1 3213
+D3
+~
+~
+0 -1 9443
+S
+#3224
+The Dirt Road~
+  Hard-packed dirt makes up this dusty road.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3234
+D1
+~
+~
+0 -1 3225
+D2
+~
+~
+0 -1 3214
+D3
+~
+~
+0 -1 3225
+S
+#3225
+The Moat~
+  The water looks dark and dangerous.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3235
+D2
+~
+~
+0 -1 3215
+D3
+~
+~
+0 -1 3224
+S
+#3226
+Inside the Abandoned Castle~
+  This castle shows no signs of living residents in a long time.. 
+~
+31 8 0 0 0 0
+D0
+~
+~
+0 -1 3236
+D1
+~
+~
+0 -1 3227
+D2
+~
+~
+0 -1 3216
+S
+#3227
+Inside the Abandoned Castle~
+  This castle shows no signs of living residents in a long time..
+~
+31 8 0 0 0 0
+D0
+~
+~
+0 -1 3237
+D1
+~
+~
+0 -1 3228
+D3
+~
+~
+0 -1 3226
+S
+#3228
+Inside the Abandoned Castle~
+  This castle shows no signs of living residents in a long time..
+~
+31 8 0 0 0 0
+D0
+~
+~
+0 -1 3238
+D1
+~
+~
+0 -1 3229
+D3
+~
+~
+0 -1 3227
+S
+#3229
+Inside the Abandoned Castle~
+  This castle shows no signs of living residents in a long time..
+~
+31 8 0 0 0 0
+D0
+~
+~
+0 -1 3239
+D3
+~
+~
+0 -1 3228
+S
+#3230
+The Moat~
+  The murky water looks cold and is filled with algae and slime.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3240
+D1
+~
+~
+0 -1 3231
+D2
+~
+~
+0 -1 3220
+S
+#3231
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3241
+D2
+~
+~
+0 -1 3221
+D3
+~
+~
+0 -1 3230
+S
+#3232
+On the Colden River~
+  The water is dark and deep.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3242
+D1
+~
+~
+0 0 9336
+D2
+~
+~
+0 -1 3222
+S
+#3233
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3243
+D1
+~
+~
+0 -1 3234
+D2
+~
+~
+0 -1 3223
+D3
+~
+~
+0 -1 9440
+S
+#3234
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3244
+D1
+~
+~
+0 -1 3235
+D2
+~
+~
+0 -1 3224
+D3
+~
+~
+0 -1 3233
+S
+#3235
+The Moat~
+  The murky water looks cold and is filled with algae and slime.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3245
+D2
+~
+~
+0 -1 3225
+D3
+~
+~
+0 -1 3234
+S
+#3236
+Inside the Abandoned Castle~
+   This castle shows no signs of living residents in a long time.
+~
+31 8 0 0 0 0
+D1
+~
+~
+0 -1 3237
+D2
+~
+~
+0 -1 3226
+S
+#3237
+Inside the Abandoned Castle~
+   This castle shows no signs of living residents in a long time.
+~
+31 8 0 0 0 0
+D1
+~
+~
+0 -1 3238
+D2
+~
+~
+0 -1 3227
+D3
+~
+~
+0 -1 3236
+S
+#3238
+Inside the Abandoned Castle~
+   This castle shows no signs of living residents in a long time.
+~
+31 8 0 0 0 0
+D1
+~
+~
+0 -1 3239
+D2
+~
+~
+0 -1 3228
+D3
+~
+~
+0 -1 3237
+S
+#3239
+Inside the Abandoned Castle~
+   This castle shows no signs of living residents in a long time.
+~
+31 8 0 0 0 0
+D2
+~
+~
+0 -1 3229
+D3
+~
+~
+0 -1 3238
+S
+#3240
+The Moat~
+  The murky water looks cold and is filled with algae and slime.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3250
+D1
+~
+~
+0 -1 3241
+D2
+~
+~
+0 -1 3230
+S
+#3241
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3251
+D2
+~
+~
+0 -1 3231
+D3
+~
+~
+0 -1 3240
+S
+#3242
+On the Colden River~
+  The water is dark and deep.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3252
+D1
+~
+~
+0 0 9333
+D2
+~
+~
+0 -1 3232
+S
+#3243
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3253
+D1
+~
+~
+0 -1 3244
+D2
+~
+~
+0 -1 3233
+D3
+~
+~
+0 -1 9437
+S
+#3244
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3254
+D1
+~
+~
+0 -1 3245
+D2
+~
+~
+0 -1 3234
+D3
+~
+~
+0 -1 3243
+S
+#3245
+The Moat~
+  The murky water looks cold and is filled with algae and slime.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3255
+D1
+~
+~
+0 -1 3246
+D2
+~
+~
+0 -1 3235
+D3
+~
+~
+0 -1 3244
+S
+#3246
+The Moat~
+  The murky water looks cold and is filled with algae and slime.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3256
+D1
+~
+~
+0 -1 3247
+D3
+~
+~
+0 -1 3245
+S
+#3247
+The Moat~
+  The murky water looks cold and is filled with algae and slime.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3257
+D1
+~
+~
+0 -1 3248
+D3
+~
+~
+0 -1 3246
+S
+#3248
+The Moat~
+  The murky water looks cold and is filled with algae and slime.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3258
+D1
+~
+~
+0 -1 3249
+D3
+~
+~
+0 -1 3247
+S
+#3249
+The Moat~
+  The murky water looks cold and is filled with algae and slime.
+~
+31 0 0 0 0 0
+D0
+~
+~
+0 -1 3259
+D1
+~
+~
+0 -1 3250
+D3
+~
+~
+0 -1 3248
+S
+#3250
+The Moat~
+  The murky water looks cold and is filled with algae and slime.
+~
+31 0 0 0 0 0
+D2
+~
+~
+0 -1 3240
+D3
+~
+~
+0 -1 3249
+S
+#3251
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D2
+~
+~
+0 -1 3241
+S
+#3252
+On the Colden River~
+  The water is dark and deep.
+~
+31 0 0 0 0 6
+D0
+~
+~
+0 -1 3262
+D1
+~
+~
+0 0 9330
+D2
+~
+~
+0 -1 3242
+S
+#3253
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 9433
+D1
+~
+~
+0 -1 3254
+D2
+~
+~
+0 -1 3243
+D3
+~
+~
+0 -1 9435
+S
+#3254
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3263
+D1
+~
+~
+0 -1 3255
+D2
+~
+~
+0 -1 3244
+D3
+~
+~
+0 -1 3253
+S
+#3255
+The Dirt Road~
+  This dusty path turns east, and comes to an end to the south at a murky moat
+before a large desolate-looking castle. There doesn't seem to be any draw-
+bridge on this side.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3264
+D1
+~
+~
+0 -1 3256
+D2
+~
+~
+0 -1 3245
+D3
+~
+~
+0 -1 3254
+S
+#3256
+The Dirt Road~
+   The road continues to the west, and comes into a grassy clearing to the
+east. South of here, a dark moat churns with unseen life before a giant castle.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3265
+D1
+~
+~
+0 -1 3257
+D2
+~
+~
+0 -1 3246
+D3
+~
+~
+0 -1 3255
+S
+#3257
+A Grassy Clearing~
+  This small clearing is quiet and peaceful. A small dirt road is to the
+north, and a dark moat is just south of here.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 -1 3266
+D1
+~
+~
+0 -1 3258
+D2
+~
+~
+0 -1 3247
+D3
+~
+~
+0 -1 3256
+S
+#3258
+A Grassy Clearing~
+  This small clearing seems quiet and peaceful. A dark moat is just south of
+here.
+~
+31 0 0 0 0 2
+D0
+~
+~
+0 -1 3267
+D1
+~
+~
+0 -1 3259
+D2
+~
+~
+0 -1 3248
+D3
+~
+~
+0 -1 3257
+S
+#3259
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3268
+D1
+~
+~
+0 -1 3260
+D2
+~
+~
+0 -1 3249
+D3
+~
+~
+0 -1 3258
+S
+#3260
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3269
+D3
+~
+~
+0 -1 3259
+S
+#3262
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3271
+D1
+~
+~
+0 0 9327
+D2
+~
+~
+0 -1 3252
+S
+#3263
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 9431
+D1
+~
+~
+0 -1 3264
+D2
+~
+~
+0 -1 3254
+D3
+~
+~
+0 -1 9433
+S
+#3264
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3265
+D2
+~
+~
+0 -1 3255
+D3
+~
+~
+0 -1 3263
+S
+#3265
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3273
+D1
+~
+~
+0 -1 3266
+D2
+~
+~
+0 -1 3256
+D3
+~
+~
+0 -1 3264
+S
+#3266
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 3
+D2
+~
+~
+0 -1 3257
+D3
+~
+~
+0 -1 3265
+S
+#3267
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3275
+D2
+~
+~
+0 -1 3258
+S
+#3268
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3276
+D1
+~
+~
+0 -1 3269
+D2
+~
+~
+0 -1 3259
+S
+#3269
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3277
+D1
+~
+~
+0 -1 3270
+D2
+~
+~
+0 -1 3260
+D3
+~
+~
+0 -1 3268
+S
+#3270
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3278
+D1
+~
+~
+0 -1 3271
+D3
+~
+~
+0 -1 3269
+S
+#3271
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3279
+D1
+~
+~
+0 0 9323
+D2
+~
+~
+0 -1 3262
+D3
+~
+~
+0 -1 3270
+S
+#3272
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 9428
+D1
+~
+~
+0 -1 3273
+D2
+~
+~
+0 -1 3264
+D3
+~
+~
+0 -1 9431
+S
+#3273
+The Dirt Road~
+  This dusty path barely qualifies as a road.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3280
+D2
+~
+~
+0 -1 3265
+D3
+~
+~
+0 -1 3272
+S
+#3274
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3281
+S
+#3275
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3282
+D1
+~
+~
+0 -1 3276
+D2
+~
+~
+0 -1 3267
+S
+#3276
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3283
+D1
+~
+~
+0 -1 3277
+D2
+~
+~
+0 -1 3268
+D3
+~
+~
+0 -1 3275
+S
+#3277
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3284
+D2
+~
+~
+0 -1 3269
+D3
+~
+~
+0 -1 3276
+S
+#3278
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3279
+D2
+~
+~
+0 -1 3270
+S
+#3279
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3286
+D1
+~
+~
+0 0 9319
+D2
+~
+~
+0 -1 3271
+D3
+~
+~
+0 -1 3278
+S
+#3280
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 9425
+D2
+~
+~
+0 -1 3273
+D3
+~
+~
+0 -1 9428
+S
+#3281
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3287
+D1
+~
+~
+0 -1 3282
+D2
+~
+~
+0 -1 3274
+S
+#3282
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3288
+D1
+~
+~
+0 -1 3283
+D2
+~
+~
+0 -1 3275
+D3
+~
+~
+0 -1 3281
+S
+#3283
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3289
+D1
+~
+~
+0 -1 3284
+D2
+~
+~
+0 -1 3276
+D3
+~
+~
+0 -1 3282
+S
+#3284
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D2
+~
+~
+0 -1 3277
+D3
+~
+~
+0 -1 3283
+S
+#3285
+At the Bottom of a Hill~
+  This grassy clearing is at the bottom of hill that rises toward
+the north.
+~
+31 0 0 0 0 4
+D0
+~
+~
+0 -1 3291
+D1
+~
+~
+0 -1 3286
+S
+#3286
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3292
+D1
+~
+~
+0 0 9315
+D2
+~
+~
+0 -1 3279
+D3
+~
+~
+0 -1 3285
+S
+#3287
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 9421
+D1
+~
+~
+0 -1 3288
+D2
+~
+~
+0 -1 3281
+D3
+~
+~
+0 -1 9425
+S
+#3288
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3293
+D1
+~
+~
+0 -1 3289
+D2
+~
+~
+0 -1 3282
+D3
+~
+~
+0 -1 3287
+S
+#3289
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3294
+D2
+~
+~
+0 -1 3283
+D3
+~
+~
+0 -1 3288
+S
+#3290
+The Top of the Hill~
+  This is the highest point of the grassy hill. You can see for miles in all
+directions, which means you can see a lot of treetops. To the southwest,
+however, you can just make out the roof of a large stone building.
+~
+31 0 0 0 0 4
+D1
+~
+~
+0 -1 3291
+S
+#3291
+The Hillside~
+  The grassy hillside is sheltered by the forest. There is what appears
+to be the remains of a fire pit here.
+~
+31 0 0 0 0 4
+D2
+~
+~
+0 -1 3285
+D3
+~
+~
+0 -1 3290
+S
+#3292
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3297
+D1
+~
+~
+0 0 9311
+D2
+~
+~
+0 -1 3286
+S
+#3293
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 9417
+D1
+~
+~
+0 -1 3294
+D2
+~
+~
+0 -1 3288
+D3
+~
+~
+0 -1 9421
+S
+#3294
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 0 3298
+D1
+~
+~
+0 -1 3295
+D2
+~
+~
+0 -1 3289
+D3
+~
+~
+0 -1 3293
+S
+#3295
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 3299
+D1
+~
+~
+0 -1 3296
+D3
+~
+~
+0 -1 3294
+S
+#3296
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 -1 3297
+D3
+~
+~
+0 -1 3112
+S
+#3297
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D1
+~
+~
+0 0 9307
+D2
+~
+~
+0 -1 3292
+D3
+~
+~
+0 -1 3296
+S
+#3298
+The Forest~
+    The pine forest begins to turn into tall Ironwood trees here. Thick
+underbrush hinders your travel along the ground here.  You find that
+you have to hack at the scrubland in some places just to get by.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 9413
+D1
+~
+~
+0 -1 3299
+D2
+~
+~
+0 0 3294
+D3
+~
+~
+0 -1 9417
+S
+#3299
+The Forest~
+  Ironwood trees spring up all around you. Your passage is blocked in some
+directions by a thick underbrush.
+~
+31 0 0 0 0 3
+D0
+~
+~
+0 -1 9414
+D2
+~
+~
+0 -1 3295
+D3
+~
+~
+0 -1 3298
+S
+$~

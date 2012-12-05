@@ -1,0 +1,410 @@
+#19900
+Immortal Map room~
+Troll caves:
+                         19901
+                          *
+                          |
+                          |
+                          *2
+                          |
+                          |
+                      4*--*--*5
+                       |  3  |
+                       |     |
+                      6*     *7
+                       |     |
+                       |     |
+                 10*-\8*     *9/-*11       19 20 21
+                   |   |     |   |          *--*--*
+                   |   *12   *13 |          |     |
+                   *14           *15--*--*--*     *--*23
+                                     16 17 18     22
+~
+199 512 0 0 0 0
+D2
+~
+~
+0 -1 19901
+S
+#19901
+Entrance of a Narrow Pass~
+To the south you can pass between two unclimbable rock mountain faces. The
+narrow pass there looks like it opens up into a treeless clearing.
+~
+199 0 0 0 0 4
+D0
+~
+~
+0 -1 9169
+D2
+You see a narrow pass between two high cliff faces.
+~
+~
+0 -1 19902
+S
+#19902
+In the Narrow Pass~
+Towering shale cliffs on either side of you seem to threaten an avalanche at
+an moment. Even as you think it, a few pebbles tumble down as if brushed loose
+by something high above.
+~
+199 0 0 0 0 2
+D0
+The narrow pass opens up as it leaves the high cliffs on either side.
+~
+~
+0 -1 19901
+D2
+You see a small clearing.
+~
+~
+0 -1 19903
+S
+#19903
+In a Clearing~
+To the east and west, treacherous trails lead up the rocky slope and wind
+themselves around the mountain which bars your passage south.
+~
+199 0 0 0 0 2
+D0
+You see a narrow pass between towering shale cliffs.
+~
+~
+0 -1 19902
+D1
+~
+~
+0 -1 19905
+D3
+~
+~
+0 -1 19904
+S
+#19904
+On a Rocky Trail~
+You stand on a narrow trail which rises sharply to the south. To the east the
+rockly slope drops down into a grassy vale.
+~
+199 0 0 0 0 5
+D1
+~
+~
+0 -1 19903
+D2
+~
+~
+0 -1 19906
+S
+#19905
+On a Rocky Trail~
+You stand on a narrow trail which rises sharply to the south. To the west the
+rockly slope drops down into a grassy vale.
+~
+199 0 0 0 0 5
+D2
+~
+~
+0 -1 19907
+D3
+~
+~
+0 -1 19903
+S
+#19906
+On a Rocky Trail~
+The rocky trail you stand on winds southward and drops sharply down to the
+valley floor northeast of here. There's a fantastic view from this height.
+~
+199 0 0 0 0 5
+D0
+~
+~
+0 -1 19904
+D2
+~
+~
+0 -1 19908
+S
+#19907
+On a Rocky Trail~
+The rocky trail you stand on winds southward and drops sharply down to the
+valley floor northwest of here.  The view is fantastic from this height.
+~
+199 0 0 0 0 5
+D0
+~
+~
+0 -1 19905
+D2
+~
+~
+0 -1 19909
+S
+#19908
+On a Rocky Ledge~
+The trail leads north here, and the slippery cliff face looks climbable above
+you. A dark cave to the south echoes a cold howl of wind out it's dank opening.
+~
+199 0 0 0 0 5
+D0
+~
+~
+0 -1 19906
+D2
+~
+~
+0 -1 19912
+D4
+The cliff face looks less treacherous here and climbable.
+~
+~
+0 -1 19910
+S
+#19909
+On a Rocky Ledge~
+The trail leads north here, and the slippery cliff face looks climbable above
+you. A dark cave to the south is almost no more than a deep niche in the
+side of the mountain, but you can squeeze through. The sun can't quite
+reach this slope, and a bitter cold wind sweeps into the links in your
+armor.
+~
+199 0 0 0 0 5
+D0
+~
+~
+0 -1 19907
+D2
+You see a large crack in the rock, but can't tell what may be inside.
+~
+~
+0 -1 19913
+D4
+The cliff face looks like a difficult but not impossible climb.
+~
+~
+0 -1 19911
+S
+#19910
+Outside a Cave~
+The dark cave to the south looks very uninviting. Below you is a rough trail
+leading down into a green vale.
+~
+199 0 0 0 0 4
+D2
+You don't not see nothing un-special.
+~
+~
+0 -1 19914
+D5
+You see a short drop down to a rough trail.
+~
+~
+0 -1 19908
+S
+#19911
+On a Narrow Ledge~
+You stand on a narrow ledge, barely wide enough to place your feet 
+side-by-side. With some difficulty you can climb down the rock face
+here, or follow the trail south.
+~
+199 0 0 0 0 4
+D2
+The narrow ledge continues on.
+~
+~
+0 -1 19915
+D5
+You see a wider trail a short distance below.
+~
+~
+0 -1 19909
+S
+#19912
+In a Dark Cave~
+This dusty cave is filled with cracked bones, some fresher than others but all
+humanoid.
+~
+199 9 0 0 0 0
+D0
+~
+~
+0 -1 19908
+S
+#19913
+In a Dark Cave~
+This dusty cave is filled with cracked bones, some fresher than others but all
+humanoid.
+~
+199 9 0 0 0 0
+D0
+~
+~
+0 -1 19909
+S
+#19914
+In a Troll Cave~
+This wide cave holds little furnishings except a bed of mats in one corner and
+a long-extinguished fire.
+~
+199 9 0 0 0 0
+D0
+~
+~
+0 -1 19910
+S
+#19915
+Outside a Dark Cave~
+You stand outside a dark opening in the cliff face to the east. The trail
+continues back out into sunlight north of here.
+~
+199 0 0 0 0 5
+D0
+~
+~
+0 -1 19911
+D1
+~
+~
+0 -1 19916
+S
+#19916
+Inside the First Cavern~
+Sunlight gleams dimly in from the west. To the east a series of caverns glow
+faintly with a green light that seems to be emitted by a spongy mold that
+grows on the walls.
+~
+199 9 0 0 0 0
+D1
+~
+~
+0 -1 19917
+D3
+~
+~
+0 -1 19915
+S
+#19917
+In a Narrow Tunnel~
+You stand in a narrow tunnel between two caverns. The walls glow faintly with
+a green light, but nothing can be heard besides the clank of your armor.
+~
+199 9 0 0 0 0
+D1
+~
+~
+0 -1 19918
+D3
+~
+~
+0 -1 19916
+S
+#19918
+In the Second Cavern~
+This cavern has a high ceiling that rises far out of the reach of your light
+source. Narrow tunnels open to the north and west.
+~
+199 9 0 0 0 0
+D0
+~
+~
+0 -1 19919
+D3
+~
+~
+0 -1 19917
+S
+#19919
+A Curved Tunnel~
+This short passage has exits south and east, both leading into large rooms.
+~
+199 9 0 0 0 0
+D1
+~
+~
+0 -1 19920
+D2
+~
+~
+0 -1 19918
+S
+#19920
+In the Third Cavern~
+You stand inside a large cavern. Passages lead out of it almost straight
+across from one another, east and west.
+~
+199 9 0 0 0 0
+D1
+~
+~
+0 -1 19921
+D3
+~
+~
+0 -1 19919
+S
+#19921
+A Curved Tunnel~
+This short passage has exits south and west, both leading into large rooms.
+~
+199 9 0 0 0 0
+D2
+~
+~
+0 -1 19922
+D3
+~
+~
+0 -1 19920
+S
+#19922
+In the Atrium~
+An absolutely gigantic cavern opens up to the east. You hear movement from
+within, as well as the sound of rushing water.
+~
+199 9 0 0 0 0
+D0
+~
+~
+0 -1 19921
+D1
+~
+~
+0 -1 19923
+S
+#19923
+In the Gigantic Cavern~
+This gigantic cavern is focused around two objects: a rushing waterfall of
+pouring water that cascades through a pit in the floor, and a grotesque
+throne made of humanoid bones.
+~
+199 9 0 0 0 0
+D3
+~
+~
+0 -1 19922
+D5
+Gallons of water rush into this huge pit in the floor.
+~
+~
+0 -1 19924
+E
+pit water waterfall~
+Gallons of water rush into this wide hole in the floor.
+~
+E
+throne~
+You figure your skeleton could be made into a cool matching foot rest.
+~
+S
+#19924
+Under the Waterfall~
+You stand under a rushing torrent of water, a deluge that sluices the mud off
+of your armor and seeps through it to soak your skin.
+~
+199 9 0 0 0 0
+D4
+~
+~
+0 -1 19923
+S
+$~

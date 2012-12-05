@@ -1,0 +1,117 @@
+#12832
+hunter treasure man~
+a treasure hunter~
+A treasure hunter stands here searching in vain for treasure.
+~
+He is very dirty and looks as though he hasn't seen the outside 
+light in several months.
+~
+108 0 0 0 525312 0 0 0 -100 E
+21 -1 -11 21d5+220 14d4+14
+93 27500
+8 8 1
+Race: 0
+E
+#12848
+knight demon~
+the Demon Knight~
+A large demon knight stands before you looking for his next victim.
+~
+You are so repulsed by his looks that you almost can not bear to look 
+at him.  He is a decaying corpse with pieces of putrid flesh hanging
+loosely from his body.  There is blood dripping from many parts of him.
+You gaze into his demonic eyes and you realize that he most certainly
+means to kill you.  
+
+>
+The Demon Knight grins at you with a satanic grin.
+
+~
+524333 0 0 0 1162 0 0 0 -600 E
+26 -6 -16 26d5+322 17d4+17
+228 40000
+8 8 1
+Race: 11
+E
+#12850
+indiana indy jones~
+Indiana Jones~
+Indiana Jones stands here ready for action.
+~
+He stands up from a kneeling position and turns around to face you.
+He is a man of about six feet in height and a medium build.  He looks
+a little rough since he hasn't shaved in a couple of days.  He has a 
+bullwhip in one hand and a glowing golden idol in the other.  He is 
+wearing a leather jacket that is quite old and dirty.  His hat also 
+has the same much-used look about it.  He looks at you but does not
+say anything.
+~
+329 0 0 0 131208 0 0 0 1000 E
+32 -12 -22 32d5+1580 21d4+21
+264 120000
+8 8 1
+Race: 0
+E
+#12868
+crypt keeper cryptkeeper~
+the Cryptkeeper~
+A short skeleton with a satanic grin on his face stands here.
+~
+It appears to be a living, breathing skeleton.  The skeleton is short in
+stature and stands there with an evil grin.  He would look quite harmless
+were it not for that very large scythe that he is wielding in his right
+hand.  You wonder how such a tiny creature could wield such a large and 
+heavy weapon.  
+~
+524330 0 0 0 1160 0 0 0 -1000 E
+26 -6 -16 26d5+322 17d4+17
+111 40000
+8 8 1
+Race: 9
+E
+#12870
+robber thief~
+a grave robber~
+A grave robber pops out of the shadows and attacks.
+~
+He is a little upset that you are coming after his treasure.
+~
+2156 0 0 0 525312 0 0 0 -1000 E
+21 -1 -11 21d5+220 14d4+14
+108 27500
+8 8 1
+Race: 0
+E
+#12876
+guardian guard statue~
+a Guardian of the Tomb~
+A statue stands here blocking your path.
+~
+It is made of solid gold as is much of this tomb.  The statue stands 
+about 10 feet in height and appears to be looking down at you.  As you 
+try to move past him he blocks your path and says, "None shall pass."
+~
+231466 0 0 0 1160 0 0 0 100 E
+31 -11 -21 31d5+997 20d4+20
+1 90000
+8 8 1
+BareHandAttack: 7
+E
+#12877
+solomon king~
+King Solomon~
+The wise King Solomon stands here adorned in gold.
+~
+He looks to be about seven feet tall with a very big build.  You feel
+dwarfed as you stand before this mighty king.  He projects an aura of
+intelligence and wisdom greater than any that you have ever seen before.
+His face wears the burdens of a very troubled man who has ruled for many,
+many years.  He looks as though he is still alive.
+~
+2315 0 0 0 1160 0 0 0 500 E
+35 -15 -25 35d5+3329 23d4+23
+2317 360000
+8 8 1
+Race: 19
+E
+$

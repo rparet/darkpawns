@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1471"
+   name=""
+   committed-date="2008-05-21T15:38:21.418609Z"
+   url="file:///var/svn/trunk/2.2/lib/scripts/mob/212"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1456"
+   name="blacksmith.lua"
+   text-time="2008-05-23T03:43:21.000000Z"
+   committed-date="2008-05-17T17:06:18.100971Z"
+   checksum="143f7c15197ca3f4f3b1851628a27b4d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:21.000000Z"/>
+<entry
+   committed-rev="1471"
+   name="highpriest.lua"
+   text-time="2008-05-23T03:43:21.000000Z"
+   committed-date="2008-05-21T15:38:21.418609Z"
+   checksum="77a3affa1898140efa97f7d2303e0b4d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:21.000000Z"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1437"
+   name=""
+   committed-date="2008-04-30T03:27:43.811158Z"
+   url="file:///var/svn/trunk/2.2/src/lua/bin"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1437"
+   name="lua.exe"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="7122eb6a5a25ef6b026f49bfcdfe3a18"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="luac.exe"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="0d4b834198dddcf8d3d7e69dcf42e514"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+</wc-entries>

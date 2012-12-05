@@ -1,0 +1,148 @@
+#18000
+Magic Sword~
+a Magical Sword~
+The sword appears to be made of a violet crystal, it glows with some hidden     power.
+~
+It looks very sharp.
+~
+69896 0 0 0 67502092 0 0 0 0 E
+20 0 -10 20d5+210 16d4+16
+1936 25000
+8 8 0
+BareHandAttack: 3
+E
+#18001
+elf~
+the Wood Elf Waywatcher~
+A Waywatcher stands here, guarding the entrance to Athel Loren.
+~
+He is a Wood Elf Waywatcher they are masters of camoflauge, often hidden.
+They will attack if they see you are a danger to the forest.
+~
+264536 0 0 0 393252 0 0 0 0 E
+17 3 -7 17d5+180 13d4+14
+777 18000
+8 6 1
+BareHandAttack: 3
+E
+#18002
+man irishman~
+an Irishman~
+An Irishman stumbles by.
+~
+His red nose and pungent odor leaves little to the imagination.
+~
+200 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 1
+E
+#18003
+woman Irishwoman~
+an Irishwoman~
+An Irishwoman whistles merrily to herself.
+~
+She looks happy.
+~
+200 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 2d4+2
+0 350
+8 8 2
+E
+#18004
+guest~
+a guest~
+A guest stands here ready to get a room.
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 3d4+3
+20 900
+8 8 1
+E
+#18005
+bono~
+Bono~
+Bono is here singing one of his new tunes.
+~
+Hold me, thrill me, kiss me, kill me.
+~
+11 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 4d4+4
+400 2500
+8 8 1
+E
+#18006
+IRA member~
+an IRA member~
+An IRA member snarls at you.
+~
+It looks, err, unfinished.
+~
+43 0 0 0 1024 0 0 0 -100 E
+7 13 3 7d5+80 4d4+4
+0 2500
+8 8 1
+E
+#18007
+Kevin~
+Kevin the bartender~
+Kevin is here, waiting to get you a drink.
+~
+Tell him all of your problem, he's a bartender, he's use to it.
+~
+2058 0 0 0 0 0 0 0 0 E
+20 0 -10 20d5+210 16d4+16
+0 25000
+8 8 1
+E
+#18009
+father priest~
+Father O' Malley~
+Father O' Malley is here, writing at his desk.
+~
+I wouldn't let MY children near him.
+~
+2058 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 12d4+12
+0 14000
+8 6 1
+E
+#18011
+boy little~
+a little boy~
+A little boy is crouched in the corner.
+~
+He looks harmless, yet extremely frightened.
+~
+11 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+1
+0 100
+6 6 1
+E
+#18040
+Mrs McCaskey teacher~
+Mrs. McCaskey~
+Mrs. McCaskey is here to teach you some biology.
+~
+Never get shot in the stomach, cause you could die from bacterial infection.
+~
+8 0 0 0 0 0 0 0 0 E
+0 19 9 1d5+20 1d4+1
+0 100
+8 8 2
+E
+#18075
+Patrick saint~
+St. Patrick~
+St. Patrick is here, chasing away snakes.
+~
+It looks, err, unfinished.
+~
+266 0 0 0 4224 0 0 0 0 E
+30 -10 -20 30d5+390 24d4+24
+3000 60000
+8 8 1
+E
+$

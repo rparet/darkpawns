@@ -1,0 +1,77 @@
+#5500
+spear ironwood~
+an ironwood spear~
+A spear made of ironwood has been left here.~
+pierce~
+5 0 0 0 0 8193 0 0 0
+0 2 4 14
+12 135 20.00
+A
+18 1
+#5501
+mace ironwood~
+an ironwood mace~
+A wooden mace lies here.~
+crush~
+5 0 0 0 0 8193 0 0 0
+0 3 2 7
+12 150 20.00
+A
+18 2
+A
+19 2
+#5502
+bracers intricate~
+a pair of intricately designed bracers~
+A pair of intricately designed bracers has been dropped here.~
+~
+9 65 0 0 0 257 0 0 0
+2 0 0 0
+3 100 25.00
+A
+5 1
+#5503
+gauntlets strength~
+a pair of gauntlets~
+A pair of gauntlets is lying on the ground.~
+~
+9 1 0 0 0 129 0 0 0
+2 0 0 0
+3 500 20.00
+A
+1 2
+#5504
+wand lightning ironwood~
+an ironwood wand~
+An ironwood wand has been dropped in the dirt.~
+~
+3 64 0 0 0 16385 0 0 0
+10 3 3 30
+1 500 10.00
+#5505
+ring leaf golden intertwined leaves~
+a golden ring of intertwined leaves~
+A small golden ring lies in the dirt.~
+~
+8 64 0 0 0 3 0 0 0
+1 0 0 0
+1 500 35.00
+A
+12 4
+A
+13 4
+#5506
+orb pulsing~
+a pulsing orb~
+A strange orb pulses on the ground here.~
+~
+12 65 0 0 0 16385 0 0 0
+10 0 0 0
+2 500 40.00
+A
+23 -1
+A
+24 -1
+A
+17 -5
+$~

@@ -1,0 +1,81 @@
+#18100
+murphy dinosaur triceratops tri~
+Murphy the triceratops~
+Murphy is here, chewing on anything he can get his mouth on.
+~
+Don't make this mob over level 35
+~
+2113548 0 0 0 128 0 0 0 300 E
+1 19 9 1d5+20 1d4+1
+0 100
+8 8 1
+BareHandAttack: 11
+E
+#18101
+borogrove bird~
+the borogrove~
+A borogrove is sitting on a thorny branch here looking mimsy.
+~
+A borogrove is a thin and shabby looking bird with feathers sticking out
+all around.  Borogroves look something like live mops; in general they
+look mimsy -- flimsy and miserable.  The do not even sing well, in
+fact their song has been found to ivoke violent reactions in most people.
+~
+136 0 0 0 0 0 0 0 200 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 2
+BareHandAttack: 4
+E
+#18102
+tove~
+the tove~
+A slithy tove is sitting here looking confused.
+~
+Toves are small but fierce burrowing mammals; they are something like
+badgers, something like lizards, and something like corkscrews.  They are,
+indeed, strange creatures.  The best word to describe them is slithy which
+means lithe and slimy.
+It is common knowledge that the favorite food of a tove is tumtum fruit.
+
+~
+8 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 1
+BareHandAttack: 8
+E
+#18103
+helper~
+the trimmer's helper~
+A trimmer's helper is here, picking up clippings and tending the hedges.
+~
+The helper is dressed in thick, protective clothes so that the thorns do
+not poke her.  She is walking around picking up hedge clippings but she
+seems to be very nervious; she checks over her shoulder every now so
+often.
+~
+8 0 0 0 0 0 0 0 400 E
+11 9 -1 11d5+120 8d4+9
+0 7500
+8 8 2
+BareHandAttack: 13
+E
+#18104
+jabberwock jabberwocky~
+the Jabberwock~
+The Jabberwock, with eyes of flame, is whiffling through the air here.
+~
+The Jabberwock is a fearful bandersnatch; his bright eyes constantly glance
+this way and that searching for prey to devour.  His large jaw is lined
+with fearfully sharp teeth and long claws grow from his arms.  Two big,
+leathery wings sprout from his back and his long, thrashing tail looks
+dragon-like.  I hope he doesn't see you or you will become dinner!
+~
+278632 0 0 0 67371016 0 0 0 -700 E
+30 -10 -20 30d5+390 24d4+24
+0 60000
+8 8 1
+BareHandAttack: 8
+E
+$

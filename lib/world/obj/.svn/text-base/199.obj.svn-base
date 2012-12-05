@@ -1,0 +1,97 @@
+#19900
+worm glow~
+a glow worm~
+A dead glow worm lies in the dirt.~
+~
+1 65 0 0 0 16385 0 0 0
+0 0 99 0
+1 25 20.00
+A
+3 -1
+A
+4 -1
+#19901
+sword crude~
+a crude sword~
+A crude sword has been dropped here.~
+slash~
+5 0 0 0 0 8193 0 0 0
+0 3 3 3
+5 300 20.00
+A
+2 -1
+A
+19 1
+#19902
+bracelet stone~
+a stone bracelet~
+A stone bracelet lies here.~
+~
+11 0 0 0 0 4097 0 0 0
+0 0 0 0
+6 150 20.00
+A
+17 -3
+#19903
+boots troll~
+some troll boots~
+Some crude boots lie here in the dust.~
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0
+3 550 15.00
+A
+5 1
+#19904
+mask stone~
+a stone mask~
+A stone mask lies here.~
+~
+9 0 0 0 0 131073 0 0 0
+2 0 0 0
+8 100 20.00
+#19905
+gauntlets troll~
+some troll gauntlets~
+Some troll's gauntlets lie on the ground.~
+~
+9 0 0 0 0 129 0 0 0
+2 0 0 0
+5 500 15.00
+A
+5 1
+#19906
+ring troll~
+a troll ring~
+A crude ring lies here.~
+~
+11 0 0 0 0 3 0 0 0
+0 0 0 0
+1 900 20.00
+A
+19 1
+A
+20 5
+A
+3 -1
+#19907
+stone amulet~
+a stone amulet~
+An amulet made of stone is lying here.~
+~
+11 0 0 0 0 5 0 0 0
+0 0 0 0
+3 400 20.00
+A
+17 -5
+#19908
+troll belt~
+a troll belt~
+An ugly belt is here, collecting dust.~
+~
+9 0 0 0 0 2049 0 0 0
+2 0 0 0
+4 450 15.00
+A
+5 1
+$~

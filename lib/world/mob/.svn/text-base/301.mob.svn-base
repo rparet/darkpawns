@@ -1,0 +1,253 @@
+#30101
+huge condor~
+a huge condor~
+A huge condor stares at you, protecting her young.
+~
+You see a huge bird's red eyes staring at you.
+~
+20570 0 0 0 0 0 0 0 0 E
+17 3 -7 17d5+180 11d4+11
+0 18000
+8 8 2
+BareHandAttack: 8
+Race: 18
+E
+#30102
+small bird~
+a small bird~
+A small blue bird chirps, as it passes by.
+~
+You watch a small bird fly in circles, until it gracefully lands.
+~
+8 0 0 0 67108864 0 0 0 0 E
+1 19 9 1d5+20 0d1+0
+0 40
+8 8 0
+BareHandAttack: 8
+Noise: You hear a bird song.
+E
+#30103
+baby~
+a baby condor~
+You see a giant baby condor staring at you hungrily.
+~
+It looks, err, unfinished.
+~
+4186 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 0
+BareHandAttack: 4
+Race: 18
+E
+#30104
+pixie~
+a pixie~
+A tiny pixie hides here behind a rock.
+~
+You see a pixie stare at you, with a tiny dagger drawn.
+~
+76 0 0 0 0 0 0 0 -100 E
+3 17 7 3d5+40 1d4+1
+5 350
+8 8 1
+BareHandAttack: 11
+Race: 28
+E
+#30105
+guard pixie~
+a pixie guard~
+An impressive pixie guard stands before you.
+~
+A well armed and armored pixie guard stands before you.
+~
+4170 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 0
+Race: 28
+E
+#30107
+tree old~
+an old pine tree~
+You see a swaying old pine tree.
+~
+As you stare you see the tree begin to uproot itself.
+~
+90 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 0
+Noise: You hear the creaking of old tree limbs.
+E
+#30108
+blue green flower~
+a writhing flower~
+A flower with blue and green petals snaps its teeth at you.
+~
+A bizzare looking flower with blue and green petals stands here.
+~
+74 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+BareHandAttack: 4
+Race: 11
+E
+#30109
+red yellow flower~
+a writhing flower~
+A flower with red and yellow petals snaps its teeth at you.
+~
+A bizzare looking flower with red and yellow petals stands here.
+~
+24650 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 0
+BareHandAttack: 4
+Race: 11
+E
+#30110
+purple flower~
+a writhing flower~
+A purple flower stares at you with a single eye and licks its teeth.
+~
+A very bizzare flower stands here staring at you.
+~
+254042 0 0 0 131072 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+0 2000
+8 8 0
+BareHandAttack: 4
+Race: 11
+E
+#30111
+putrid bird~
+a putrid bird~
+An algea covered bird soars toward you.
+~
+You can see parts of his bird has become gangrenous.
+~
+5993 0 0 0 67108864 0 0 0 0 E
+1 19 9 1d5+6 0d4+0
+0 150
+8 8 0
+BareHandAttack: 8
+Race: 9
+Noise: You hear an unearthly bird screech.
+E
+#30112
+bee~
+a bee~
+A bee flies around your head.
+~
+You listen to the bees' gentle buzz.
+~
+8 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+5 0d1+0
+0 50
+8 8 0
+BareHandAttack: 1
+Race: 21
+Noise: You hear the buzzing of bees.
+E
+#30113
+drone bee~
+a drone bee~
+A drone bee hovers near your face.
+~
+This bee is getting awfully close.
+~
+4170 0 0 0 0 0 0 0 0 E
+2 18 8 1d5+20 1d4+1
+0 100
+8 8 0
+BareHandAttack: 1
+Race: 21
+Noise: You hear the buzzing of bees.
+E
+#30114
+queen bee~
+a queen bee~
+The queen bee hovers near the beehive.
+~
+You see the queen stareing back at you.
+~
+74 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+BareHandAttack: 1
+Race: 21
+Noise: You hear the buzzing of bees.
+E
+#30115
+catepillar~
+a huge catepillar~
+A huge catepillar is here eating the mushrooms.
+~
+You watch the catepillar is amazement.
+~
+74 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 1
+Race: 21
+E
+#30116
+phantom~
+a faceless phantom~
+A phantom cloaked in darkness floats passed carrying a scythe.
+~
+You stare into its hood and see a faceless empty void.
+~
+16472 0 0 0 0 0 0 0 -1000 E
+30 -10 -20 30d5+500 20d4+20
+0 62000
+8 8 0
+BareHandAttack: 3
+Race: 9
+Noise: You hear an unearthly scream.
+E
+#30117
+prince pixie~
+a pixie prince~
+A pixie prince is here drinking from a small glass.
+~
+This pixie looks completely unattentive.
+~
+74 0 0 0 0 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+100 1500
+8 8 1
+Race: 28
+E
+#30118
+princess pixie~
+a pixie princess~
+A beautiful pixie princess dances here.
+~
+A pixie in flowing silken gown dances not noticing you.
+~
+74 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+40 600
+8 8 2
+Race: 28
+E
+#30119
+guardian pixie~
+a pixie guardian~
+An armored pixie guardian stands before his prince.
+~
+This looks like a vicious pixie.
+~
+4186 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+40 2500
+8 8 0
+Race: 28
+E
+$

@@ -1,0 +1,179 @@
+#2100
+small nimble orc scout~
+an orc scout~
+A short, nimble looking orc snarls at you before charging.
+~
+The orc before you is a vhati, a junior member in the great Dharzi army
+whose job it is to scout ahead and locate prey for the remainder of the
+hoarde. It's blood-stained tusks jut out from it's wart-covered snout and
+it grins evilly at you, glad to have achieved its mission.
+~
+108 0 0 0 1024 0 0 0 -600 E
+14 6 -4 14d5+150 9d4+9
+20 12000
+8 8 1
+E
+#2101
+orc worker~
+an orc worker~
+A hefty orc worker spots you and lumbers towards you with an evil grin.
+~
+Not the brightest race of creatures, the worker before you lacks even the
+simple intelligence his brethren are endowed with. He does, however, make up
+for his shortcomings with sheer strength and judging by the blood dripping
+from his mouth, he enjoys a hearty meal.
+~
+108 0 0 0 1024 0 0 0 -200 E
+15 5 -5 15d5+160 10d4+10
+5 14000
+8 8 1
+E
+#2102
+orc worker~
+an orc worker~
+A hefty orc worker spots you and lumbers towards you with an evil grin.
+~
+Not the brightest race of creatures, the worker before you lacks even the
+simple intelligence her brethren are endowed with. She does, however, make up
+for her shortcomings with sheer strength and judging by the blood dripping
+from her mouth, she enjoys a hearty meal.
+~
+108 0 0 0 1024 0 0 0 -200 E
+15 5 -5 15d5+160 10d4+10
+5 14000
+8 8 2
+E
+#2103
+orc raider~
+an orc raider~
+An orc raider runs at you screaming.
+~
+Very ugly and aggressive, the sole purpose of the creature in front of you is
+to go forth and pillage. What he cannot take with him, he destroys or eats!
+Upon seeing you, he screams loudly and runs at you.
+~
+4204 0 0 0 1024 0 0 0 -800 E
+17 3 -7 17d5+180 11d4+11
+50 18000
+8 8 1
+E
+#2104
+dominant orc commander~
+an orc commander~
+A tall, dominant orc lets out a blood-curdling scream before attacking you.
+~
+What little she is wearing indicates the orc before you is a Kolo-Vhati, a
+commander of the Dharzi legion. The blood lust and sheer rage in her eyes
+are reason enough not to remain here. She barks an order to any of her minions
+before coming at you.
+~
+20584 0 0 0 33824 0 0 0 -1000 E
+19 1 -9 19d5+200 12d4+12
+40 22500
+8 8 2
+Noise: You hear a blood-curdling scream followed by a loud chorus of cheers.
+E
+#2105
+orc leader dharzi kil thar kilthar leader~
+Kil'thar~
+Kil'thar, leader of the Dharzi orcs stands before you.
+~
+Renowned for his utter contempt for life, Kil'that is a giant amongst his
+clan. The mere mention of his name brings fear upon many within the forest
+of Noirwood and few have managed to meet him and survive.
+~
+20600 0 0 0 33832 0 0 0 -1000 E
+21 -1 -11 21d5+220 14d4+14
+100 27500
+8 8 1
+E
+#2106
+orc guard~
+an orc guard~
+An orc guard is angered by your intrusion.
+~
+Normally a large race, the Lamra-Vhati before you is huge in comparison. It
+has been raised as a sentry and easily fits within the doorway blocking all
+access. It snarls at you, bearing razor sharp teeth before stepping towards
+you.
+~
+61547 0 0 0 1064 0 0 0 -500 E
+17 3 -7 17d5+180 11d4+11
+20 18000
+8 8 1
+E
+#2107
+subterranean mole creature short haired~
+a subterranean mole~
+A short-haired creature senses your presense and continues to dig.
+~
+The creature before you is in fact a mole, albeit five times the size of its
+cousins. It posesses a the natural ability to dig without the aid of light
+and has probably aided the orcs in the construction of this place.
+~
+216 0 0 0 41 0 0 0 200 E
+13 7 -3 13d5+140 8d4+8
+1 10500
+8 8 0
+Race: 15
+E
+#2108
+orc witch raek til~
+Raek'til, the orc witch~
+An orc witch stares at you coldly, mumbling an incantation.
+~
+Although not intelligent as other species, the orc witch before you has
+certainly mastered the art of spell casting.
+~
+254057 0 0 0 9384 0 0 0 -600 E
+19 1 -9 19d5+200 12d4+12
+30 22500
+8 8 2
+E
+#2109
+sleeping orc worker~
+an orc worker~
+One of the orc workers sleeps nearby.
+~
+Fatigued with having to continually repair their home, the orc worker sleeps
+the majority of the time but occassionally staggers around if awakened.
+~
+108 0 0 0 1024 0 0 0 -200 E
+15 5 -5 15d5+160 10d4+10
+5 14000
+4 4 1
+E
+#2110
+hunting dog dharzi~
+a Dharzi hunting dog~
+One of the Dharzi hunting dogs growls at your presense.
+~
+It first appears to be a dog, but this is no dog...it is half dog and half
+bird with a lean, shaggy body and legs but also possessing birdlike talons in
+place of paws and savagely curved beaks which snap where muzzles should be.
+These strange creatures have been domesticated by the Dharzi orcs, the only
+things the dogs won't attack. Unfortunately, you don't appear to be a Dharzi
+orc.
+~
+1050856 0 0 0 163880 0 0 0 -500 E
+7 13 3 7d5+80 4d4+3
+1 2500
+8 8 1
+BareHandAttack: 8
+Noise: You can hear a low growl nearby.
+E
+#2111
+huge warrior orc~
+an orc warrior~
+A huge warrior grunts in displeasure and bears his tusks.
+~
+The orc before you is a Lomba-Dharzi, a small clan of warriors that spend
+the vast majority of their life training for battle. Usually found in raiding
+parties, the one before you is still a formidable opponent by himself.
+~
+6248 0 0 0 132096 0 0 0 -500 E
+16 4 -6 16d5+170 10d4+10
+10 16000
+8 8 1
+E
+$

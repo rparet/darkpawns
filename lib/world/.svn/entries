@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1523"
+   name=""
+   committed-date="2008-06-20T20:24:47.938361Z"
+   url="file:///var/svn/trunk/2.2/lib/world"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   name="wld"
+   kind="dir"/>
+<entry
+   name="zon"
+   kind="dir"/>
+<entry
+   name="obj"
+   kind="dir"/>
+<entry
+   name="shp"
+   kind="dir"/>
+<entry
+   committed-rev="1368"
+   name="movesel"
+   text-time="1999-07-06T23:55:26.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="52436bd7f843e7fcb52492633290d0a6"
+   last-author="rparet"
+   kind="file"
+   prop-time="2008-04-16T20:06:20.000000Z"/>
+<entry
+   name="mob"
+   kind="dir"/>
+</wc-entries>

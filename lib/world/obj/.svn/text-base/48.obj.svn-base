@@ -1,0 +1,584 @@
+#4800
+crate~
+a crate~
+A crate rests here.~
+This is a massive wooden crate, suitable for carrying large quantities
+of materials across the sea on ships.
+~
+15 0 0 0 0 1 0 0 0
+500 5 -1 0
+500 1 100.00
+E
+crate~
+The crate is large and smells of rotten fish.  Wood splinters 
+appear to prevent safe lifting of it.
+~
+#4801
+hoopak bamboo~
+a bamboo hoopak~
+An odd hoopak made from treated bamboo lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 4 7
+3 100 100
+E
+hoopak bamboo~
+A favourite weapon of smaller folk, this weapon appears to be a
+sling-spear.
+~
+#4802
+hoopak bamboo missile~
+a sling missile hoopak~
+A missile-ready bamboo hoopak rests against the ground here.~
+~
+6 0 0 0 0 8193 0 0 0
+0 5 3 0
+3 500 100.00
+E
+hoopak bamboo missile~
+This hoopak is designed exclusively for slinging stones.
+The blunted end is tipped with metal, but seems ineffective
+as a weapon.
+~
+A
+25 29
+A
+25 6
+A
+12 -5
+A
+13 -5
+#4803
+rope coil~
+a coil of rope~
+A coil of rope lies on the ground here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+10 10 100.00
+E
+coil rope~
+It is hemp, and feels heavy and wet.
+~
+#4804
+water bottle~
+a crystal bottle~
+A crystal bottle rests here.~
+~
+17 0 0 0 0 1 0 0 0
+10 10 15 0
+15 20 100.00
+E
+bottle water~
+The water bottle glistens with superior Oriental craftsmanship.
+~
+#4805
+wine bottle~
+a bottle~
+A fine crystal bottle sits here, ready for consumption.~
+~
+17 0 0 0 0 1 0 0 0
+10 10 2 0
+15 30 100.00
+E
+bottle~
+It is a typical wine bottle - long necked and made of glass.
+~
+#4806
+beer jug~
+a jug~
+A ceramic jug lies here, sloshing with liquid.~
+~
+17 0 0 0 0 1 0 0 0
+15 15 1 0
+20 30 100.00
+E
+jug~
+It is a ceramic beer jug.  No designs paint its white surface.
+~
+#4807
+whiskey bottle~
+a small bottle~
+A small glass bottle lies here.~
+The smell of whiskey burns your nostrils.
+~
+17 0 0 0 0 1 0 0 0
+5 5 5 0
+5 50 100.00
+E
+bottle whiskey~
+This little flask smells strongly of spirits.
+~
+#4808
+root garlic~
+a garlic root~
+A fresh garlic root dries in the heat here.~
+You smell garlic from somewhere nearby.
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0
+1 20 100.00
+E
+garlic root bulb~
+The garlic root smells strong and seems moist, as though it is ready
+for potting or planting.
+~
+#4809
+root mandrake~
+a mandrake root~
+An odd shaped root lies ready for use in potions here.~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 24
+1 50 100.00
+E
+mandrake root~
+Among the deadlier poisons, this pale root seems to have been shaved
+and sheared to remove its more potent components.
+~
+#4810
+nightshade~
+some nightshade~
+A red berry grows here on a vine in the darkness.~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 96
+1 100 100.00
+E
+nightshade~
+This deadly berry is useful for poisoning small animals and rodents.
+Its reddish colour seems to attract pests.
+~
+#4811
+potion healing~
+a healing potion~
+A potion labelled "General Remedy" occupies a vial here.~
+~
+10 0 0 0 0 16385 0 0 0
+30 15 0 0
+1 300 25
+E
+healing potion~
+The potion is clear and smells of ginseng and garlic.
+~
+#4812
+potion opiate misty~
+a misty potion~
+A strong-smelling potion lies corked in a vial here.~
+You smell the faintest hint of opium from somewhere nearby.
+~
+10 0 0 0 0 1 0 0 0
+35 67 72 0
+1 500 20
+E
+potion opiate misty~
+Liquid snuff.  This potion will make you far more intoxicated than
+alcohol ever will.
+~
+#4813
+rod divining~
+a divining rod~
+A bamboo divining rod lies here.~
+The divining rod bends toward the ground.
+~
+4 0 0 0 0 1 0 0 0
+30 30 20 44
+10 400 50
+E
+bamboo divining rod~
+The diving rod has been carved from pale bamboo reeds and points
+downward when water is nearby.
+~
+#4814
+potion garlic~
+a garlic potion~
+A foul-smelling potion rests corked in a vial here.~
+~
+10 0 0 0 0 1 0 0 0
+30 43 16 0
+1 100 100.00
+E
+garlic potion~
+This potion is a curative, so strong is the scent of garlic that it must
+purify the blood.
+~
+#4815
+gyoza dumpling~
+a gyoza dumpling~
+A delicious vegetable gyoza sits on a plate here, ready to be devoured.~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 0
+1 3 100.00
+E
+gyoza~
+This is a simple seafood dumpling.
+~
+#4816
+takosu octopus sushi~
+some takosu~
+A succulent dish of takosu emits its sweet scent here.~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0
+1 20 100.00
+E
+takosu octopus sushi~
+It is a lavender-coloured dish and smells strongly of vinegar.
+~
+#4817
+sunomono shrimp sushi~
+some sunomono~
+A plate of sunomono lies chilled on the table.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0
+1 30 100.00
+E
+sunomono shrimp sushi~
+This is raw shrimp, pink and cold.
+~
+#4818
+ebi shrimp sushi~
+some ebi~
+A plate of sweet ebi is chilled with ice here.~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 0
+1 10 100.00
+E
+ebi shrimp sushi~
+This is a sweeter, less mild shrimp.  It is grey and brown
+and is cold to the touch.
+~
+#4819
+book spells magic tome~
+a tome of spells~
+An ancient tome written in an unknown language lies here.~
+~
+2 64 0 0 0 16385 0 0 0
+30 59 24 86
+4 700 100.00
+E
+book spells magic tome~
+You cannot make out the spells listed in this tome.
+The binding is bamboo and the pages are vellum.
+~
+#4820
+mushroom~
+a mushroom~
+There is a huge mushroom growing here.~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0
+1 4 100.00
+E
+mushroom~
+It is a simple mushroom.
+~
+#4821
+bottle snuff~
+a snuff bottle~
+Here, you see a hand-painted snuff bottle.~
+~
+15 0 0 0 0 16385 0 0 0
+5 5 0 0
+1 250 100.00
+E
+bottle snuff~
+Collectors items, these bottled are used to store small quantities
+of opium.  Each one is handpainted with a different scene.  This one
+bears the picture of a mountain waterfall spilling over rocks.
+~
+A
+6 1
+#4822
+snuff opium~
+snuff~
+There is a small amount of snuff here, piled into a small mound.~
+You smell opium.
+~
+3 0 0 0 0 16385 0 0 0
+30 1 1 57
+1 300 100.00
+E
+snuff~
+This white powder can make its users feel euphoric when snorted.
+~
+#4823
+lamp~
+an oil lamp~
+There is an oil lamp here.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 50 0
+5 50 100.00
+E
+lamp oil~
+The brass oil lamp appears to be about half-full of a clear,
+resinous liquid.
+~
+#4824
+amulet ~
+an amulet~
+A small amulet hangs from a gold chain here.~
+~
+1 320 0 0 0 5 0 0 0
+0 0 50 0
+1 700 100.00
+E
+amulet~
+This is a simple yin-yang, a sign of balance and harmony.
+~
+A
+17 -3
+#4825
+staff bamboo~
+a bamboo staff~
+A bamboo staff lies on the ground here.~
+~
+4 0 0 0 0 16385 0 0 0
+30 5 5 22
+8 1000 100.00
+E
+bamboo staff~
+At 7 feet tall, this staff is quite an impressive weapon.
+~
+#4826
+potion clear~
+a clear potion~
+A clear potion, perhaps even water, sloshes in a small vial here.~
+~
+10 64 0 0 0 1 0 0 0
+30 39 67 68
+1 450 100.00
+E
+clear potion~
+Odorless and clear - could be water.
+~
+#4827
+wand driftwood~
+a driftwood wand~
+A wand of some kind lies on the counter here.~
+~
+3 68714560 0 0 0 16385 0 0 0
+30 20 20 13
+2 500 100.00
+E
+driftwood wand~
+The wand seems blessed, but not magical.  The wood is warped,
+however, which accounts for the lack of magical feeling.
+~
+#4828
+armor armour scale mail vest~
+a Xixieqian scale mail vest~
+A scale mail vest shines brightly here.~
+~
+9 141316096 0 0 0 9 0 0 0
+8 0 0 0
+30 450 100.00
+E
+armor armour scale mail vest~
+Hundreds of hammered interlocking scales make this vest of armour
+suitable for flexibility and maneuvering in combat.
+~
+#4829
+gauntlets scale mail xixieqian~
+Xixieqian scale gauntlets~
+A nice pair of gauntlets is lying here.~
+~
+9 7098368 0 0 0 129 0 0 0
+6 0 0 0
+4 340 30.00
+E
+gauntlets scale mail~
+These appear to be chain mail gloves with a flexible layer of steel
+scales over them.
+~
+#4830
+boots scale xixi~
+scale mail boots~
+A pair of scale boots rests here on the floor.~
+~
+9 0 0 0 0 65 0 0 0
+6 0 0 0
+5 300 100.00
+E
+boots scale~
+These are hard leather boots.  Tiny scale plates have been sewn
+onto the fabric to provide added foot protection.
+~
+#4831
+vest yakhide~
+a yakhide vest~
+A newly-tanned yakhide vest is here.~
+~
+9 0 0 0 0 9 0 0 0
+7 0 0 0
+10 200 100.00
+E
+vest yakhide~
+This vest appears to be made from the hide of a yak rather than
+the skin of a cow.  A small, thin trim of yak hair lines its
+borders.
+~
+#4832
+no-dachi~
+a no-dachi~
+A beautiful Xixieqian no-dachi lies in its scabbard here.~
+~
+5 12611584 0 0 0 8193 0 0 0
+1 4 4 3
+10 500 100.00
+E
+no-dachi~
+This oriental longsword seems capable of lopping off the heads of
+several opponents at once.  It looks very heavy and cumbersome, but
+shines with a new polish.
+~
+#4833
+staff Xixieqian short~
+a short staff~
+A short staff rests here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 8 5
+3 50 100.00
+E
+staff Xixieqian short~
+This is a short bamboo staff, suitable for training or children.
+~
+#4834
+bow Xixieqian~
+a Xixieqian bow~
+A bow is lying here.~
+~
+6 0 0 0 0 24577 0 0 0
+1 2 5 0
+10 300 100.00
+E
+bow Xixieqian~
+This is a bamboo shortbow.  Yak intestines provide the bowstring with
+added spring.
+~
+#4835
+robe silk~
+a silken robe~
+A silken robe hangs here.~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0
+2 400 100.00
+E
+silk robe~
+It appears to be the kind of robe a serving girl or housewife would wear
+to go about her daily chores.
+~
+#4836
+vest silk~
+a silken vest~
+A silken vest lies folded here.~
+~
+9 0 0 0 0 9 0 0 0
+2 0 0 0
+1 450 100.00
+E
+silk vest~
+This stylish vest seems suitable for being worn on top of normal
+clothes, though it would be a tight fit.  Complex designs showing
+rushing rivers and mossy rocks adorn the vest's back.
+~
+#4837
+backpack pack~
+a backpack~
+A backpack rests on the ground here.~
+~
+15 0 0 0 0 17409 0 0 0
+50 1 -1 0
+10 200 100.00
+E
+backpack pack~
+This is a simple leather rucksack.
+~
+#4838
+pouch belt beltpouch~
+a beltpouch~
+A beltpouch lies here.~
+~
+15 0 0 0 0 2049 0 0 0
+20 1 0 0
+1 20 100.00
+E
+pouch belt beltpouch~
+It is back and made of velvet.
+~
+#4839
+torch pitch~
+a pitch torch~
+A pitch torch lies here.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 24 0
+2 5 100.00
+E
+torch pitch~
+Though made from chestnut, the torch is coated in pine sap.
+~
+#4841
+arrow~
+an arrow~
+A bamboo arrow lies ready for use.~
+~
+7 0 0 0 0 1 0 0 0
+1 2 4 0
+1 2 100.00
+E
+arrow~
+This arrow is over an arm's length and is tipped with a barbed steel head.
+~
+#4842
+barrel~
+a barrel~
+A barrel rests here.~
+~
+15 0 0 0 0 0 0 0 0
+500 1 -1 0
+100 1 100.00
+E
+barrel~
+This is a simple wooden barrel, used to store water, fish, or fruits.
+~
+#4845
+fountain fount stone~
+a stone fountain~
+A fountain of bubbling water burbles here.~
+~
+23 0 0 0 0 0 0 0 0
+20000 20000 0 0
+20005 0 100.00
+E
+fountain fount stone~
+The fountain is that of a carved dragon that spews water from its
+mouth to pool in its curved, coiled tail.
+~
+#4846
+wooden key~
+a wooden key~
+A wooden key lies here collecting dust.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 25.00
+#4847
+broken key~
+a broken key~
+One part of a broken key lies here on the ground.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+0 1 100.00
+E
+broken key~
+It looks like a piece of a wooden key that has been snapped in half.
+~
+$~

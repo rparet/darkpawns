@@ -1,0 +1,368 @@
+CircleMUD v3.0 Shop File~
+#21207~
+21228
+21229
+-1
+1.00
+0.01
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21211
+0
+1
+-1
+0
+28
+0
+0
+#21218~
+14431
+8052
+15802
+14400
+14436
+19120
+-1
+1.21
+0.70
+12book
+2book scroll
+8book
+16book
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21205
+0
+1
+-1
+6
+18
+6
+18
+#21219~
+21208
+21210
+-1
+1.10
+0.30
+10
+-1
+%s Won't find any of those here.~
+%s What, exactly, are you talking about?~
+%s Alchemists deal in potions, not those.~
+%s I'm sorry, I don't have enough money to pay you.~
+%s You're too poor, get out of my shop!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21204
+0
+1
+-1
+6
+18
+6
+18
+#21220~
+8053
+-1
+1.00
+0.60
+3
+4
+2
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21206
+0
+1
+-1
+6
+18
+6
+18
+#21221~
+4102
+18203
+-1
+1.00
+0.01
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21207
+0
+1
+-1
+0
+28
+0
+0
+#21224~
+7905
+7904
+8030
+8031
+8032
+21224
+8027
+1207
+1208
+-1
+1.10
+0.30
+12
+15
+1
+11
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s 11~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21222
+0
+1
+-1
+6
+18
+6
+18
+#21226~
+-1
+1.10
+0.90
+-1
+%s Me no have nun of dose.~
+%s HAR HAR HAR, funny hooman try to sell imaminari ting.~
+%s Me no need more junk.~
+%s Me no have nuff coin.~
+%s You no have nuff coin!~
+%s That be %d coin, peeze.~
+%s Me give you %d coin for dat.~
+0
+3
+21240
+0
+1
+-1
+6
+18
+6
+18
+#21227~
+8010
+8011
+-1
+1.12
+0.90
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21208
+0
+1
+-1
+6
+18
+6
+18
+#21230~
+21205
+21206
+-1
+2.00
+0.40
+6
+7
+5
+-1
+%s I'm sorry, I don't have any of those.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21223
+0
+1
+-1
+6
+18
+6
+18
+#21232~
+21217
+21218
+21220
+21223
+-1
+1.35
+0.49
+9
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21224
+0
+1
+-1
+6
+18
+6
+18
+#21233~
+-1
+1.00
+0.45
+11
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21220
+0
+1
+-1
+6
+18
+6
+18
+#21238~
+-1
+1.00
+0.60
+4
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21213
+0
+1
+-1
+6
+18
+6
+18
+#21249~
+21225
+21226
+21227
+-1
+0.90
+0.10
+11shoe shoes boot boots sandals slippers
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21218
+0
+1
+-1
+6
+18
+6
+18
+#21261~
+11
+12
+13
+14
+4101
+8001
+-1
+1.00
+0.01
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+21226
+0
+1
+-1
+0
+28
+0
+0
+$~

@@ -1,0 +1,1040 @@
+#4500
+Map Room~
+There's a map here for immortal use.
+~
+45 521 0 0 0 0
+E
+map sign~
+
+   *--*--*--*--*--*--*--*--*
+   |
+   *  *--*--*--*--*--*--*--*
+   |  |                    |
+   *  *     *--*--*--*--*  *
+   |  |                 |  |
+   *  *  *--*--*--*--*  *  *
+   |  |        |        |  |
+   *--*--*     *--*  *--*  *
+   |  |  |        |  |  |  |
+   *  *  *        *  *  *  *
+   |  |  |        |     |  |
+   *  *  *  *--*--*  *--*  *
+      |           |  |  |  |
+      *--*--*--*--*  *  *--* 
+~
+S
+#4501
+A Turn in the Labyrinth~
+   The stone corridor curves east and south here. From somewhere in the
+distance, you hear the sound of a large roaring, as if from some great
+beast.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4502
+D2
+~
+~
+0 -1 4510
+S
+#4502
+In the Labyrinth~
+   The corridor turns sharply to the west, and continues eastward. It's
+dark as pitch, and every hall looks the same.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4503
+D3
+~
+~
+0 -1 4501
+S
+#4503
+In the Labyrinth~
+   The hallway continues east and west, and the sounds of your boots ring
+loudly on the stone floor.  The sound carries well, as you can hear the
+sounds of other creatures moving elsewhere in the darkness.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4504
+D3
+~
+~
+0 -1 4502
+S
+#4504
+In the Labyrinth~
+   The stone hallway leads east and west into darkness.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4505
+D3
+~
+~
+0 -1 4503
+S
+#4505
+In the Labyrinth~
+   This corridor stretches interminably, yet seems to be leading due east
+and west, though it's hard to tell after being down here for any length of
+time.  Your sense of direction is lost in this darkness.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4506
+D3
+~
+~
+0 -1 4504
+S
+#4506
+In the Labyrinth~
+   This corridor stretches interminably, yet seems to be leading due east
+and west, though it's hard to tell after being down here for any length of
+time.  Your sense of direction is lost in this darkness.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4507
+D3
+~
+~
+0 -1 4505
+S
+#4507
+In the Labyrinth~
+   This corridor stretches interminably, yet seems to be leading due east
+and west, though it's hard to tell after being down here for any length of
+time.  Your sense of direction is lost in this darkness.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4508
+D3
+~
+~
+0 -1 4506
+S
+#4508
+In the Labyrinth~
+   The corridor opens into a large room to the east, and continues back
+into darkness to the west.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4509
+D3
+~
+~
+0 -1 4507
+S
+#4509
+A Large Room in the Labyrinth~
+   This large room is seemingly hollowed out of solid stone, but by whose
+hand is unknown.  The craftsmanship looks nothing like the careful work of
+dwarves, nor does it look like it was done by any type of tool you've ever
+seen. It almost looks CLAWED out by something. Eyeing the debris on the 
+floor in front of you, you feel like this is the home of that something.
+~
+45 9 0 0 0 0
+D3
+~
+~
+0 -1 4508
+S
+#4510
+In the Labyrinth~
+   The stone hall turns eastward to the north, and continues southward
+into darkness.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4501
+D2
+~
+~
+0 -1 4519
+S
+#4511
+A Turn in the Labyrinth~
+   The stone corridor curves east and south here.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4512
+D2
+~
+~
+0 -1 4520
+S
+#4512
+In the Labyrinth~
+   This hallway is strewn with garbage and bones, most of which are so
+old that they don't stink - much.  The hall leads east and turns south
+west of here.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4513
+D3
+~
+~
+0 -1 4511
+S
+#4513
+In the Labyrinth~
+   The garbage-lined hall is quite long, leading east and west. The trash 
+gets deeper to the east.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4514
+D3
+~
+~
+0 -1 4512
+S
+#4514
+In the Labyrinth~
+   The trash and debris in the hall are about knee-deep here. The rough stone
+walls are turning slimy and black from all the rotting garbage.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4515
+D3
+~
+~
+0 -1 4513
+S
+#4515
+In the Labyrinth~
+   The garbage reaches crotch-deep levels in this part of the hall. You probe
+gently ahead for pitfalls.  Sinking into this mess would be like bathing in
+a toilet.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4516
+D3
+~
+~
+0 -1 4514
+S
+#4516
+In the Labyrinth~
+   Wading through the waist-high garbage, you suddenly think of MANY things
+you'd rather be doing. Actually, you can't think of anything much worse. 
+The hall continues east and west.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4517
+D3
+~
+~
+0 -1 4515
+S
+#4517
+In the Labyrinth~
+   The maze of halls continues into deep trash to the west, and turns
+southward east of here. The level of stench and refuse is less in that
+direction.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4518
+D3
+~
+~
+0 -1 4516
+S
+#4518
+A Turn In the Labyrinth~
+   The slimy, rough rock tunnel turns south and west here, both ways as
+dark as a bat's wings.
+~
+45 9 0 0 0 0
+D2
+~
+~
+0 -1 4526
+D3
+~
+~
+0 -1 4517
+S
+#4519
+In the Labyrinth~
+   The rough stone walls of the labyrinth allow you to continue north and
+south.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4510
+D2
+~
+~
+0 -1 4527
+S
+#4520
+In the Labyrinth~
+   The rough stone walls of the labyrinth allow you to continue north and
+south.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4511
+D2
+~
+~
+0 -1 4528
+S
+#4521
+The Noisy Cave~
+   The source of the screeching that echoed through the labyrinth can be
+found here, in the midst of its own waste and corpses of tons of rats.
+The exit is to the east.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4522
+S
+#4522
+In the Labyrinth~
+   A loud screeching fills your ears from the west. The rat population
+seems much less dense here.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4523
+D3
+~
+~
+0 -1 4521
+S
+#4523
+In the Labrinth~
+   The rats that have milling about your feet seem to disperse at some
+unseen signal. Suddenly, a loud screech fills your ears from the west.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4524
+D3
+~
+~
+0 -1 4522
+S
+#4524
+In the Labyrinth~
+   The stone corridor that entombs you leads east and west. A loud animal's
+screech pierces the air from the west, and the tunnel makes a sharp turn to
+the east.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4525
+D3
+~
+~
+0 -1 4523
+S
+#4525
+A Turn in the Labyrinth~
+   The corridor turns here, leading south and west.
+~
+45 9 0 0 0 0
+D2
+~
+~
+0 -1 4534
+D3
+~
+~
+0 -1 4524
+S
+#4526
+In the Labyrinth~
+   This long stone corridor turns just north of here, and continues south
+past the extent of your light.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4518
+D2
+~
+~
+0 -1 4535
+S
+#4527
+In the Labyrinth~
+   The rough stone walls of the labyrinth allow you to continue north or
+south.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4519
+D2
+~
+~
+0 -1 4536
+S
+#4528
+In the Labyrinth~
+   A large junction of passages is to the south, and the current hallway
+continues north.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4520
+D2
+~
+~
+0 -1 4537
+S
+#4529
+A Furnished Room In The Labyrinth~
+   Strangely out of place, this room is lit by the soft glow of candles,
+and is home to a bed, chair, table, and several other domestic necessities.
+A fresh pot of rat stew boils over a small fire that fills the room with
+acrid smoke.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4530
+S
+#4530
+In The Labyrinth~
+   Smoke rolls out of a lit room to the west.  The labyrinth continues to
+the east.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4531
+D3
+You see a small room, containing furniture and an open fire.
+~
+~
+0 -1 4529
+S
+#4531
+A Junction In The Labyrinth~
+   The tunnel splits east, south, and west here. Smoke fills the chamber
+and becomes thicker to the west.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4532
+D2
+~
+~
+0 -1 4539
+D3
+~
+~
+0 -1 4530
+S
+#4532
+In The Labyrinth~
+   There is a split in the tunnels to the west, and the corridor dead-ends
+to the east.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4533
+D3
+~
+~
+0 -1 4531
+S
+#4533
+A Dead End In The Labyrinth~
+   The corridor comes to a end here, at a large pile of refuse teeming
+with rats and other vermin.
+~
+45 9 0 0 0 0
+D3
+~
+~
+0 -1 4532
+S
+#4534
+In the Labyrinth~
+   The stone tunnel turns to the north, and opens into a junction south
+of here.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4525
+D2
+~
+~
+0 -1 4542
+S
+#4535
+In the Labyrinth~
+   The stone tunnel leads north and south into darkness.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4526
+D2
+~
+~
+0 -1 4543
+S
+#4536
+A Junction in the Labyrinth~
+   This large junction has passages leading off in all directions but west,
+yet none of them look more inviting than another.  To the east there may
+be another junction but it's just too dark to tell.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4527
+D1
+~
+~
+0 -1 4537
+D2
+~
+~
+0 -1 4544
+S
+#4537
+A Junction in the Labyrinth~
+   This huge room has exits in all directions - large openings to the north
+and east, and two smaller ones to the south and west.  Huge rats, although
+fearless of humanoids, still skitter away from your light.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4528
+D1
+~
+~
+0 -1 4538
+D2
+~
+~
+0 -1 4545
+D3
+~
+~
+0 -1 4536
+S
+#4538
+A Turn in the Labyrinth~
+   The corridors lead south and westward here. The steady sound of dripping
+water rises from the south (along with a horrid stench), and a large series
+of junctions opens to the west. A steady tide of rats run from your light
+as you approach, and nip at your heels as you pass.
+~
+45 9 0 0 0 0
+D2
+~
+~
+0 -1 4546
+D3
+~
+~
+0 -1 4537
+S
+#4539
+A Turn in the Labrinth~
+   The tunnel opens into a junction to the north, and turns southward east
+of here.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4531
+D1
+~
+~
+0 -1 4540
+S
+#4540
+A Turn in the Labyrinth~
+   The stone tunnel leads west and south here.
+~
+45 9 0 0 0 0
+D2
+~
+~
+0 -1 4547
+D3
+~
+~
+0 -1 4539
+S
+#4541
+A Turn in the Labyrinth~
+   The stone tunnel leads east and south here.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4542
+D2
+~
+~
+0 -1 4548
+S
+#4542
+A Junction in the Labyrinth~
+   The tunnel branches off north, west and south here.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4534
+D2
+~
+~
+0 -1 4549
+D3
+~
+~
+0 -1 4541
+S
+#4543
+In the Labyrinth~
+   The stone tunnel leads north and south into darkness.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4535
+D2
+~
+~
+0 -1 4550
+S
+#4544
+A Narrow Corridor in the Labyrinth~
+   This tunnel is more narrow than others you've seen, and seems to narrow
+into no more than a crack to the south.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4536
+D2
+~
+~
+0 -1 4551
+S
+#4545
+In the Labyrinth~
+   This small tunnel is packed with fat rats, all scampering over each other
+to get out of your way. A junction opens up to the north, and southward the
+tunnel continues.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4537
+D2
+~
+~
+0 -1 4552
+S
+#4546
+A Wet Corridor in the Labyrinth~
+   This north-south corridor is filled with the stench of raw sewage.
+Unfortunately for you, its also filled WITH raw sewage. Brown muck
+covers your boots and leggings. The rats everywhere seem to love it.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4538
+D2
+~
+~
+0 -1 4553
+S
+#4547
+In the Labyrinth~
+   This corridor runs north and south. The scent of smoke fills the air from
+the north.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4540
+D2
+~
+~
+0 -1 4556
+S
+#4548
+A Dead End in the Labyrinth~
+   The tunnel stops abruptly here at a dead end.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4541
+S
+#4549
+In the Labyrinth~
+   This corridor runs north and south. There's a junction to the north.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4542
+D2
+~
+~
+0 -1 4558
+S
+#4550
+In the Labyrinth~
+   This corridor runs north and south - or are you walking in circles?
+It's too dark to tell.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4543
+D2
+~
+~
+0 -1 4559
+S
+#4551
+A Dead End in the Labyrinth~
+   The already narrow rock tunnel narrows down to just a slit in the wall
+here.  You can continue back north, or squeeze into the misty blackness to
+the west.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4544
+D3
+It looks like a misty black hole in the rock.
+~
+~
+0 -1 18382
+E
+crack slit~
+You see a glimmer of light through the narrow slit. It looks like sunlight.
+~
+S
+#4552
+In the Labyrinth~
+   The labyrinth turns sharply just south of here, and continues back north.
+The endless chittering of the rats is beginning to grate on your nerves.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4545
+D2
+~
+~
+0 -1 4560
+S
+#4553
+A Dead End in the Labyrinth~
+   A steady stream of liquid waste flows from a hole in the ceiling here,
+much too small for you to crawl through, even if you could stomach it. A 
+pool of sludge fills the room, serving as a great breeding ground for the
+denizens of the labyrinth.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4546
+S
+#4554
+A Dead End in the Labyrinth~
+   The tunnel suddenly ends here.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4555
+S
+#4555
+In the Labyrinth~
+   This tunnel runs east and west. There's a dead end to the west.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4556
+D3
+~
+~
+0 -1 4554
+S
+#4556
+A Junction in the Labyrinth~
+   This triple junction leads north, south, and west. None of the passages
+look too appealing.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4547
+D2
+~
+~
+0 -1 4564
+D3
+~
+~
+0 -1 4555
+S
+#4557
+In the Labyrinth~
+   You are in a rough stone corridor that leads east and turns south.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4558
+D2
+~
+~
+0 -1 4565
+S
+#4558
+A Junction in the Labyrinth~
+   This triple junction leads north, south, and west.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4549
+D2
+~
+~
+0 -1 4566
+D3
+~
+~
+0 -1 4557
+S
+#4559
+In the Labyrinth~
+   The rough stone corridor leads north and south.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4550
+D2
+~
+~
+0 -1 4567
+S
+#4560
+A Turn in the Labyrinth~
+   The stone passage leads north and east here.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4552
+D1
+~
+~
+0 -1 4561
+S
+#4561
+In the Labyrinth~
+   The narrow corridor leads east and west.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4562
+D3
+~
+~
+0 -1 4560
+S
+#4562
+In the Labyrinth~
+   The narrow corridor leads east and west.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4563
+D3
+~
+~
+0 -1 4561
+S
+#4563
+In the Labyrinth~
+   The narrow corridor leads east and west.
+~
+45 9 0 0 0 0
+D1
+~
+~
+0 -1 4564
+D3
+~
+~
+0 -1 4562
+S
+#4564
+A Turn in the Labyrinth~
+   The stone passage leads north and west here.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4556
+D3
+~
+~
+0 -1 4563
+S
+#4565
+A Dead End in the Labyrinth~
+   The tunnel suddenly ends here at a rush of water spouting from a hole
+in the ceiling.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4557
+D4
+~
+grate~
+1 -1 21241
+S
+#4566
+A Turn in the Labyrinth~
+   The stone passage leads north and east here.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4558
+D1
+~
+~
+0 -1 4567
+S
+#4567
+A Turn in the Labyrinth~
+   The stone passage leads north and west here.
+~
+45 9 0 0 0 0
+D0
+~
+~
+0 -1 4559
+D3
+~
+~
+0 -1 4566
+S
+$~

@@ -1,0 +1,187 @@
+CircleMUD v3.0 Shop File~
+#18225~
+18204
+18205
+-1
+1.00
+0.90
+-1
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18204
+0
+18225
+-1
+0
+28
+0
+0
+#18226~
+18211
+18212
+-1
+1.20
+0.90
+13carnation
+13rose
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18206
+0
+18226
+-1
+0
+28
+0
+0
+#18227~
+18213
+18214
+18215
+18216
+18217
+-1
+1.10
+0.90
+5
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18207
+0
+18227
+-1
+0
+28
+0
+0
+#18230~
+18218
+18219
+18220
+18225
+18226
+18227
+-1
+1.20
+0.80
+9
+1
+-1
+%s Look at the list, stranger! I don't have that!~
+%s You try to rip me off? Leave my store at once!~
+%s I have no interest in such a thing...~
+%s It is far too valuable for my poor shop...~
+%s You have no money, you get no goods! Begone!~
+%s That'll be %d coins, come again soon.~
+%s You take %d coins for that!~
+0
+0
+18212
+0
+18230
+-1
+0
+28
+0
+0
+#18248~
+18202
+18203
+-1
+1.10
+0.90
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18205
+0
+18248
+-1
+0
+28
+0
+0
+#18249~
+18206
+18233
+-1
+1.10
+0.90
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s 3~
+0
+0
+18208
+0
+18249
+-1
+0
+28
+0
+0
+#18250~
+18209
+18208
+1207
+1208
+-1
+1.50
+0.50
+11
+12
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18210
+0
+18250
+-1
+0
+28
+0
+0
+$~

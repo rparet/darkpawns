@@ -1,0 +1,687 @@
+#10011
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D1
+~
+~
+0 0 10012
+D2
+~
+~
+0 0 10017
+S
+#10012
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D1
+~
+~
+0 0 10013
+D2
+~
+~
+0 0 10018
+D3
+~
+~
+0 0 10011
+S
+#10013
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D1
+~
+~
+0 0 10014
+D2
+~
+~
+0 0 10019
+D3
+~
+~
+0 0 10012
+S
+#10014
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D1
+~
+~
+0 0 10015
+D2
+~
+~
+0 0 10020
+D3
+~
+~
+0 0 10013
+S
+#10015
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D2
+~
+~
+0 0 10021
+D3
+~
+~
+0 0 10014
+S
+#10016
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center 
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D1
+~
+~
+0 0 10017
+D2
+~
+~
+0 0 10023
+S
+#10017
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10011
+D1
+~
+~
+0 0 10018
+D3
+~
+~
+0 0 10016
+S
+#10018
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10012
+D1
+~
+~
+0 0 10019
+D3
+~
+~
+0 0 10017
+S
+#10019
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10013
+D1
+~
+~
+0 0 10020
+D3
+~
+~
+0 0 10018
+S
+#10020
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10014
+D1
+~
+~
+0 0 10021
+D3
+~
+~
+0 0 10019
+S
+#10021
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10015
+D1
+~
+~
+0 0 10022
+D3
+~
+~
+0 0 10020
+S
+#10022
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D2
+~
+~
+0 0 10024
+D3
+~
+~
+0 0 10021
+S
+#10023
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10016
+D2
+~
+~
+0 0 10025
+S
+#10024
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10022
+D2
+~
+~
+0 0 10026
+S
+#10025
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10023
+D2
+~
+~
+0 0 10027
+S
+#10026
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10024
+D2
+~
+~
+0 0 10028
+S
+#10027
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10025
+D2
+~
+~
+0 0 10029
+S
+#10028
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10026
+D2
+~
+~
+0 0 10035
+S
+#10029
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10027
+D1
+~
+~
+0 0 10030
+S
+#10030
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D1
+~
+~
+0 0 10031
+D2
+~
+~
+0 0 10036
+D3
+~
+~
+0 0 10029
+S
+#10031
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D1
+~
+~
+0 0 10032
+D2
+~
+~
+0 0 10037
+D3
+~
+~
+0 0 10030
+S
+#10032
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32776 0 0 0 0
+D1
+~
+~
+0 0 10033
+D2
+~
+~
+0 0 10038
+D3
+~
+~
+0 0 10031
+D5
+~
+~
+0 0 10041
+S
+#10033
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D1
+~
+~
+0 0 10034
+D2
+~
+~
+0 0 10039
+D3
+~
+~
+0 0 10032
+S
+#10034
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D1
+~
+~
+0 0 10035
+D2
+~
+~
+0 0 10040
+D3
+~
+~
+0 0 10033
+S
+#10035
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10028
+D3
+~
+~
+0 0 10034
+S
+#10036
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10030
+D1
+~
+~
+0 0 10037
+S
+#10037
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10031
+D1
+~
+~
+0 0 10038
+D3
+~
+~
+0 0 10036
+S
+#10038
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32776 0 0 0 0
+D0
+~
+~
+0 0 10032
+D1
+~
+~
+0 0 10039
+D3
+~
+~
+0 0 10037
+S
+#10039
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10033
+D1
+~
+~
+0 0 10040
+D3
+~
+~
+0 0 10038
+S
+#10040
+In the Stands~
+You are standing high in the stands of a large stadium. Down in the center
+of the stadium, you can see a game in progress.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10034
+D3
+~
+~
+0 0 10039
+S
+#10041
+Inside the Stadium~
+You are standing inside a large stadium. To the north, you see some doors
+that can only lead to the field. Up from here is the stands. To the south,
+you can see the entrance to the stadium.
+~
+100 32772 0 0 0 0
+D0
+You see the entrance to the arena.
+~
+door doors~
+1 0 10043
+D2
+~
+~
+0 0 10042
+D4
+~
+~
+0 0 10032
+S
+#10042
+The Entrance to the Stadium~
+You are at the entrance to a large stadium. The roar of the crowd inside is
+deafening. Obviously, there are a LOT of people in there enjoying themselves.
+To the north, you can continue further into the stadium. To the south, you
+can see the Avenue of the Gods. There is a SIGN tacked up over the entrance,
+written in crude common.
+~
+100 32772 0 0 0 0
+D0
+~
+~
+0 0 10041
+D2
+~
+~
+0 0 8071
+E
+sign~
+Beware! Spectators get quite aggressive during events!
+~
+S
+#10043
+The Arena~
+You stand just inside the doors of the arena, which lie to the south. Bits
+of broken weapons and bones line the ground, and the sparse grass that grows
+here is stained with old blood. Spectators line the seats above you in the
+stands.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10045
+D1
+~
+~
+0 0 10044
+D2
+You see the exit of the arena.
+~
+door doors~
+1 0 10041
+S
+#10044
+The Arena~
+You stand upon the blood-stained grass of the arena. Fans above you shout
+and scream; some for you, some against. The sounds of battle come from all 
+around. The exit lies to the west.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10046
+D1
+~
+~
+0 0 10048
+D3
+~
+~
+0 0 10043
+S
+#10045
+The Arena~
+The arena field under your feet is pitted and rough. The smell of blood fills
+your nose just as the screams of the spectators fills your ears. The rage of
+battle boils in your blood.
+~
+100 32768 0 0 0 0
+D1
+~
+~
+0 0 10046
+D2
+~
+~
+0 0 10043
+S
+#10046
+The Arena~
+The doors to the southwest seem very far away across the battle-torn field.
+Above you, fans shout for you to press your attack.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10047
+D1
+~
+~
+0 0 10049
+D2
+~
+~
+0 0 10044
+D3
+~
+~
+0 0 10045
+S
+#10047
+The Arena~
+Far to the southwest you see the doors of the arena. Around you rise the
+stands on which shouting fans revel, and on the field before you a managerie
+of assorted monsters seek your blood.
+~
+100 32768 0 0 0 0
+D2
+~
+~
+0 0 10046
+S
+#10048
+The Arena~
+You are standing in the southeastern corner of a wide arena. The noise coming
+at you from all directions is deafening. The crowd, the battles... it's enough
+to make you feel a bit overwhelmed.
+~
+100 32768 0 0 0 0
+D0
+~
+~
+0 0 10049
+D3
+~
+~
+0 0 10044
+S
+#10049
+The Arena~
+The stench of death fills your nose and your eyes glaze over with the thick
+haze covering the arena. The spectators in the stands above you shout loudly
+for blood.
+~
+100 32768 0 0 0 0
+D2
+~
+~
+0 0 10048
+D3
+~
+~
+0 0 10046
+S
+$~

@@ -1,0 +1,688 @@
+#21200
+cityguard guard~
+a cityguard~
+A cityguard stands here, patrolling the streets and looking for trouble.
+~
+The cityguard is a large, neatly dressed man. His hair is shaved and he
+wears the navy and grey uniform of a sergeant. He looks brave and trustworthy.
+~
+26713 0 0 0 32808 0 0 0 700 E
+16 4 -6 16d5+170 10d4+10
+45 16000
+8 8 1
+Race: 0
+E
+#21201
+cityguard guard~
+a cityguard~
+A cityguard is here, searching the town for wrongdoers.
+~
+The cityguard is a strong, tall woman in the grey and blue uniform of a
+sergeant. She has short, dark hair. She looks brave and trustworthy.
+~
+2121 0 0 0 8 0 0 0 700 E
+16 4 -6 16d5+170 10d4+10
+45 16000
+8 8 2
+Race: 0
+E
+#21202
+guard captain kharzed~
+Kharzed, the Captain of the Guard~
+The Captain of the Guard is here, patrolling the streets.
+~
+Kharzed is a huge man, he stands over seven feet tall. His hair is a bit longer
+than his troops' and he wears a neatly trimmed beard. His uniform has the navy
+and gold of a Captain. He looks a bit older than his troops but he is still
+very young to be an officer. He must have a bright future indeed.
+~
+264265 0 0 0 40 0 0 0 700 E
+31 -11 -21 31d5+997 20d4+20
+45 90000
+8 8 1
+Race: 0
+E
+#21203
+guard gate~
+a gate guard~
+A gate guard stands here, vigilantly watching the gate.
+~
+The gate guard is a large, neatly dressed man. His hair is shaved and he wears
+the navy and grey uniform of a sergeant. He looks brave and trustworthy.
+~
+2123 0 0 0 40 0 0 0 700 E
+11 9 -1 11d5+120 7d4+7
+45 7500
+8 8 1
+Race: 0
+E
+#21204
+alchemist chemist zaebos~
+Zaebos the alchemist~
+Zaebos the alchemist stands here, carefully mixing some sort of potion.
+~
+The alchemist is an older man with a greyish white beard and a bald head. He
+wears a dirty white robe that has a few stains and burn marks on it. He seems
+to be in good shape, though.
+~
+34831 0 0 0 131112 0 0 0 800 E
+34 -14 -24 34d5+2746 22d4+22
+99999 270000
+8 8 1
+Race: 0
+E
+#21205
+bookseller book owner bookstore~
+the bookstore owner~
+The owner of this bookstore stands here, looking over a new arrival.
+~
+The bookstore owner is a younger man with a love for books. He wears thick
+glasses on his face and his clothes are neat and dapper.
+~
+59407 0 0 0 131112 0 0 0 800 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 1
+Race: 0
+E
+#21206
+mage abernathanorial~
+Abernathanorial, the retired mage~
+Abernathanorial, the retired mage is here, writing his spellbook and thinking of the old days.
+~
+The retired mage is very old and can barely see anymore.  People say he is
+one of the Old Age Masters and has opened a shop in town so that he can relax
+and write the definative spellbook in his spare time.  He wears a long purple
+cloak and a funny looking hat.
+~
+188427 0 0 0 1192 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 1
+Race: 0
+E
+#21207
+al bartender~
+Al, the bartender~
+Al the bartender stands here, whistling a tune while he cleans glasses.
+~
+Al is a happy young man who inherited this establishment from his father.
+He always has something nice to say to his patrons and keeps the bar very
+clean and neat.  Although he is not very big, he looks like he has come
+through some rough situations and can hold his own in a brawl.
+~
+59423 0 0 0 32808 0 0 0 700 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 1
+Race: 0
+E
+#21208
+zeb baker~
+Zeb the baker~
+Zeb the baker is here, wiping flour off her hands while the bread bakes.
+~
+Zeb is a fat, young woman with rose red cheeks and a happy laugh. She wears
+a puffy white hat and a big smile. She also keeps a long sword in the corner
+of the room and looks like she knows how to use it.
+~
+253963 0 0 0 40 0 0 0 700 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 2
+Race: 0
+E
+#21209
+Amantis librarian~
+Amantis the librarian~
+Amantis the librarian is here, reading a book at her desk.
+~
+You look upon a beautiful young woman.  Educated at some university far
+away, she took this job so she could spend time continuing her studies.
+Her bright, intelligent eyes regard you with a welcome and her lovely
+smile fills you with a warmth of self-assurance.
+~
+190490 0 0 0 32808 0 0 0 700 E
+38 -18 -28 38d5+5078 25d4+25
+10000 0
+8 8 2
+Race: 0
+E
+#21210
+blacksmith hashkar~
+Hashkar the blacksmith~
+Hashkar the blacksmith is here, hammering a glowing hot bit of iron.
+~
+   Hashkar is a huge, strong man with a deep and powerful voice.  His large
+hands are very tough and his arms bear scars where he has accidentally burned
+himself in the past.  He is tall and barrel chested -- someone you would be
+wise not to mess with.  
+~
+16967694 0 0 0 1064 0 0 0 1000 E
+38 -18 -28 38d5+5078 25d4+25
+10000 0
+8 8 1
+Race: 0
+Script: 212/blacksmith.lua 24
+E
+#21211
+waitress mirissa~
+Mirissa the waitress~
+Mirissa the waitress is here, walking around smiling at customers.
+~
+Mirissa is an old woman with grey hair and a thick order pad. She has been
+working here most of her life and still does not own the tavern. She is a
+very good-looking woman now; when she was in her prime she must have had to
+fight off all the over-friendly customers. Now she has worn out eyes and
+looks very tired of her job.
+~
+180235 0 0 0 40 0 0 0 900 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 2
+Race: 0
+E
+#21212
+receptionist~
+the receptionist~
+The receptionist gazes at you like you were the center of the universe.
+~
+The receptionist looks lean and mean.  Her long, painted fingernails remind
+you of claws and the arcane gleam in her eye reminds you of a powerful mage.
+She is rumored to be the keeper of the rentfiles and defender of the inn's
+vault.  Surely she is a powerful and dangerous woman to offend.
+~
+190478 0 0 0 40 0 0 0 1000 E
+38 -18 -28 38d5+5078 25d4+25
+5000 372000
+8 8 2
+Race: 0
+E
+#21213
+wonkots man~
+Wonkots, the walkin' cane man~
+Wonkots, the walkin' cane man, is here, looking over his merchandise.
+~
+Wonkots is a big old walkin' cane man! He was raised far away and his poor
+father apprenticed him to a walking cane maker.  Eventually his mentor died
+and Wonkots took to adventuring.  When he found he was not cut out to be an
+outdoorsman, he set up shop in Alaozar and now trades canes, staves and
+wands.  Although he is not too hearty looking, surely he has mastered some
+kind of magic needed to craft these fine wands.
+~
+188427 0 0 0 1064 0 0 0 1000 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 1
+Race: 0
+E
+#21214
+guildmaster master tiberius~
+Tiberius the mage guildmaster~
+Tiberius the mage guildmaster is here, looking over an old spellbook.
+~
+Tiberius is a true master of magic. His powerful mind, like a vault, contains
+all the secrets of the ancient magicians. Lost secrets are known to this old
+mage who, ever the patient teacher, passed his knowledge along to the next
+generations.
+~
+190479 0 0 0 131112 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+15 60000
+8 8 1
+Race: 0
+E
+#21215
+jrevis guildmaster master~
+Jrevis the cleric guildmaster~
+Jrevis, the cleric guildmaster is here, communing with the gods.
+~
+Jrevis is a pious, holy man with a long white robe and a look of inner
+peace broadcasted on his face. Although surely he is as powerful as the
+High Priests and Archbishops who tend the temples around the land, his
+calling was to teach the holy ways to others and, ever obedient, he
+patiently instructs at this guild.
+~
+59407 0 0 0 131112 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+15 60000
+8 8 1
+Race: 0
+E
+#21216
+gorad drummerhaven guildmaster~
+Gorad the warrior guildmaster~
+Gorad Drummerhaven the warrior guildmaster is here, honing his weapon skills.
+~
+A veteran of many wars, you suspect that despite his age the guildmaster
+could easily slay a powerful dragon or massacre legions of enemy troops..
+He is large-framed and his arms look almost as thick as a normal man's legs!
+He moves with a grace and confidence not many other fighters possess.
+~
+190479 0 0 0 131112 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+15 60000
+8 8 1
+Race: 0
+E
+#21217
+shadow guildmaster thief~
+Shadow the thief guildmaster~
+Shadow the thief guildmaster is here, hiding in the shadows.
+~
+Shadow is a slender, handsome woman with fine features and a mysterious glimmer
+in her eyes. You notice how smoothly and silently she moves about and are
+amazed at her skills. Once a master robber, she now has retired and teaches her
+ways to the next generations.
+~
+190478 0 0 0 131112 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+15 60000
+8 8 2
+Race: 0
+E
+#21218
+rackhir shoe maker cobbler~
+Rackhir the Cobbler~
+Rackhir the cobbler stands here, hammering the soles into a new pair of boots.
+~
+Rackhir set up shop here soon after the first cobbler died during the Dark 
+One's attack upon Alaozar, since then he has made a good living and made many
+friends among the population of the Holy City.
+~
+188427 0 0 0 1064 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+15 270000
+8 8 1
+Race: 0
+E
+#21219
+naga guardian snake creature~
+the guardian naga~
+A huge guardian naga is here, wrapped around the automatic teller machine.
+~
+Surrounded with a flowery sweet scent, the guardian naga is marked by
+green-gold scales, silvery spines, and flashing golden eyes. It was summoned
+by the High Priest to guard the bank from would-be theives.
+~
+190478 0 0 0 131112 0 0 0 500 E
+30 -10 -20 30d5+414 20d4+20
+15 0
+8 8 2
+BareHandAttack: 10
+Race: 13
+E
+#21220
+tailor~
+the tailor~
+The tailor is standing here, waiting for the next customer.
+~
+He's an average looking man, in fact you wouldn't notice him if he walked by
+you in a crowd.
+~
+190474 0 0 0 131112 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+15 270000
+8 8 1
+E
+#21221
+priest high alaozar~
+the High Priest of Alaozar~
+The High Priest of Alaozar is here, preparing his next sermon.
+~
+He's been around for a long, long time, and rumor has it that he was the one
+that summoned the allies needed to destroy the Dark One's forces during the
+Great War, since then he's been here, waiting for something that even he does
+not understand.
+~
+59406 0 0 0 132136 0 0 0 1000 E
+30 -10 -20 30d5+414 20d4+20
+15 60000
+8 8 1
+Race: 0
+Script: 212/highpriest.lua 24
+E
+#21222
+ab grocer~
+Ab the grocer~
+Ab the grocer stands at the counter, with a slightly impatient look on his face.
+~
+Ab moves two 200 pound bags of flour around on his huge shoulders. He looks at
+you while checking off his inventory list as if to ask "What do you want?"
+~
+188427 0 0 0 8 0 0 0 900 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 1
+Race: 0
+E
+#21223
+galt weaponsmith~
+Galt the weaponsmith~
+Galt is standing here, eager to sell you his newest, finest weapons.
+~
+He's a young weaponsmith, who still has lots to learn.
+~
+188427 0 0 0 8 0 0 0 900 E
+34 -14 -24 34d5+2746 22d4+22
+50000 270000
+8 8 1
+Race: 0
+E
+#21224
+beldam armorer~
+Beldam the armorer~
+Beldam the armorer stands here, displaying his shiny new armors.
+~
+An old but very strong armorer.  He has made more armors in his life than you
+have ever seen.
+~
+188427 0 0 0 8 0 0 0 900 E
+34 -14 -24 34d5+2746 22d4+22
+50000 270000
+8 8 1
+Race: 0
+E
+#21225
+postmaster post master~
+the Postmaster~
+The head Postmaster is standing here, waiting to help you with your mail.
+~
+The Postmaster seems like a happy old man, though a bit sluggish.  He worries
+about the reputation of the Mail Service, as many people seem to think that
+it's slow.  Perhaps if he were to brush the cobwebs from his uniform it'd help
+to make a better impression.
+~
+256010 0 0 0 8 0 0 0 1000 E
+33 -13 -23 33d5+2163 22d4+22
+2000 180000
+8 8 1
+Race: 0
+E
+#21226
+bartender~
+the bartender~
+The bartender watches you calmly, while he skillfully mixes a drink.
+~
+He's just a tired-looking bartender who hates trouble in his bar.
+~
+190474 0 0 0 0 0 0 0 900 E
+34 -14 -24 34d5+2746 22d4+22
+10000 270000
+8 8 1
+Race: 0
+E
+#21227
+keeper peacekeeper~
+a Peacekeeper~
+A Peacekeeper is hovering around here, keeping the ruffians in line.
+~
+Just seeing the large, silver sphere triples your sense of security.
+~
+1058889 0 0 0 0 0 0 0 1000 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 0
+BareHandAttack: 3
+Race: 0
+E
+#21228
+watchman guard man~
+a watchman~
+A watchman is here, watching for signs of trouble.
+~
+You see a strong young man who is ready to leap into action at the smallest
+sign of trouble.
+~
+2251 0 0 0 8 0 0 0 1000 E
+18 2 -8 18d5+190 12d4+12
+45 20000
+8 8 1
+Race: 0
+E
+#21229
+janitor~
+a janitor~
+A janitor is walking around, cleaning up.
+~
+He looks like a Phil.
+~
+1050633 0 0 0 0 0 0 0 800 E
+3 17 7 3d5+40 1d4+1
+10 350
+8 8 1
+Race: 0
+E
+#21230
+stray dog~
+the stray dog~
+A stray dog is here mucking through the garbage looking for food.     
+~
+The dog is small and has a foul smell and pieces of rotted meat hanging
+around his ugly teeth.
+~
+169 0 0 0 0 0 0 0 -200 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 1
+Race: 22
+E
+#21231
+rakshasa tiger creature man~
+a rakshasa~
+A tall, tiger-like creature stands here, studying the crowd.
+~
+One of the many rakshasa that seem to finally be integrating into society.
+~
+1312780 0 0 0 394248 0 0 0 -330 E
+8 12 2 8d5+90 4d4+4
+40 3500
+8 8 1
+Race: 5
+E
+#21232
+messenger~
+a messenger~
+A messenger is running along here, delivering a message.
+~
+He's a young man with a good honest job, his mother would be proud.
+~
+1048586 0 0 0 0 0 0 0 400 E
+5 15 5 5d5+60 2d4+2
+25 900
+8 8 1
+Race: 0
+E
+#21233
+lackey~
+an over-worked lackey~
+An over-worked lackey passes by here, doing things for his master.
+~
+This young man has a hard job but makes the best of it and works real hard
+and gets paid very well.
+~
+1062920 0 0 0 0 0 0 0 400 E
+5 15 5 5d5+60 2d4+2
+12 900
+8 8 1
+Race: 0
+E
+#21234
+kitten~
+the kitten~
+A small loyal kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+14 0 0 0 0 0 0 0 200 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Race: 22
+E
+#21235
+puppy~
+the puppy~
+A small loyal puppy is here.
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+14 0 0 0 0 0 0 0 100 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Race: 22
+E
+#21236
+beagle~
+the beagle~
+A small, quick, loyal beagle is here.
+~
+The beagle looks like a fierce fighter.
+~
+14 0 0 0 0 0 0 0 50 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+Race: 22
+E
+#21237
+rottweiler~
+the rottweiler~
+A large, loyal rottweiler is here.
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+14 0 0 0 0 0 0 0 -200 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+Race: 22
+E
+#21238
+wolf~
+the wolf~
+A large, trained wolf is here.
+~
+The wolf looks like a strong, fearless fighter.
+~
+14 0 0 0 0 0 0 0 -200 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 0
+Race: 22
+E
+#21239
+brat kid~
+the little brat~
+A grubby little kid is here, playing in the dirty street.
+~
+The kid is very dirty and his parents are nowhere to be found. He has a little
+stick in his hand and is pretending it is a sword. He goes running around the
+streets whapping horses and buildings all the while mumbling magic words, he
+is quite annoying.
+~
+1048780 0 0 0 0 0 0 0 600 E
+2 18 8 2d5+30 1d4+1
+15 200
+8 8 1
+Race: 0
+E
+#21240
+hill giant~
+the hill giant~
+A hill giant is here, minding his shop.
+~
+This hill giant is very tall and large. He stands well over ten feet tall and
+must weigh over six-hundred stones. He wears the tattered robes of a mage,
+although you suspect he did not progress too far in his studies for he does
+not seem to be very intelligent...
+~
+237578 0 0 0 40 0 0 0 -900 E
+34 -14 -24 34d5+2746 22d4+22
+10000 0
+8 8 1
+Race: 18
+E
+#21241
+man sailor large~
+a sailor~
+A large man is here, checking out the town.
+~
+He's just come in and is looking for a place to have a good time.
+~
+1048716 0 0 0 0 0 0 0 -900 E
+6 14 4 6d5+70 3d4+3
+20 1500
+8 8 1
+Race: 0
+E
+#21242
+thief~
+the sneaky little thief~
+A sneaky thief is here, hiding in the shadows and skulking around.
+~
+The thief is sneaky and cunning... he enjoys his work.
+~
+1048668 0 0 0 786464 0 0 0 -500 E
+7 13 3 7d5+80 3d4+3
+652 2500
+8 8 1
+Race: 3
+E
+#21243
+alaozarian noble~
+an Alaozarian noble~
+An Alaozarian nobleman walks by here, looking at you in disgust.
+~
+He was born with a silver spoon in his mouth and was raised hating
+your kind.
+~
+1310920 0 0 0 131072 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+25 900
+8 8 1
+Race: 0
+E
+#21244
+tattooist artist Polywig~
+Polywig~
+A well-dressed tattoo artist stands here.
+~
+His fine clothes and demeanor seem stark contrast to his tattooed body. An
+aura of magic radiates from many of his tattoos.
+~
+122891 0 0 0 0 0 0 0 0 E
+29 -9 -19 29d5+391 19d4+19
+550 55000
+8 8 1
+E
+#21245
+attendant girl~
+the pet shop attendant~
+A lovely store attendant stands here, feeding a small kitten.
+~
+She's rather pretty, even in her common garb. Long brown hair is streaked
+with blonde, seeming to glitter in the meager light.
+~
+188426 0 0 0 8 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+16
+0 0
+8 8 2
+E
+#21246
+shadow mage shadowmage~
+the shadowmage~
+The shadowmage is here, practicing forbidden arts.
+~
+He is a tall, somewhat young man. His face appears distorted as if some
+magical spell was hiding his true appearance from you.
+~
+256027 0 0 0 132232 0 0 0 -500 E
+32 -12 -22 32d5+1580 21d4+21
+0 0
+8 8 1
+BareHandAttack: 12
+Race: 0
+E
+$

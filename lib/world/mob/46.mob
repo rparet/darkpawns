@@ -1,0 +1,247 @@
+#4600
+Spandaramet~
+Spandaramet~
+Spandaramet glides through the swamp in search of lost souls.
+~
+A fallen godess of the eath as well as the underworld. Ancient texts
+refer to her as the patroness of the dead. In some cultures, her name
+is a synonym for "Hell".
+~
+329832 0 0 0 1032 0 0 0 700 E
+20 0 -10 20d5+210 13d4+13
+10 25000
+8 8 2
+E
+#4601
+naga Ananta~
+the naga Ananta~
+A large naga slithers here.
+~
+Half man and half snake, the nagas are thought to bring both fertility and
+disaster.
+~
+2152 0 0 0 524288 0 0 0 -500 E
+18 2 -8 18d5+190 12d4+12
+10 20000
+8 8 0
+BareHandAttack: 4
+Race: 13
+Noise: Something slithers beneath your feet.
+E
+#4602
+Vasuki naga~
+the naga Vasuki~
+A large naga slithers here.
+~
+Half man and half snake, the nagas are thought to bring both fertility and
+disaster.
+~
+2152 0 0 0 524288 0 0 0 -500 E
+18 2 -8 18d5+190 12d4+12
+10 20000
+8 8 0
+Race: 13
+Noise: Something slithers beneath your feet.
+E
+#4603
+daeva~
+a daeva~
+A daeva stands here.
+~
+Daevas are demons who cause plagues and diseases and who fight every form of
+religion.
+~
+2152 0 0 0 524288 0 0 0 -1000 E
+16 4 -6 16d5+170 10d4+10
+10 16000
+8 8 0
+Race: 11
+E
+#4604
+daeva~
+a daeva~
+A daeva stands here.
+~
+Daevas are demons who cause plagues and diseases and who fight every form of
+religion.
+~
+2152 0 0 0 524288 0 0 0 -1000 E
+16 4 -6 16d5+170 10d4+10
+10 16000
+8 8 0
+Race: 11
+E
+#4605
+water daemon Gandarewa weird~
+Gandarewa~
+A strange entity made of water rises up from the muck!
+~
+Gandarewa is the good-devouring water weird that your mother warned
+you about.
+~
+2152 0 0 0 1034 0 0 0 0 E
+19 1 -9 19d5+200 12d4+12
+10 22500
+8 8 0
+E
+#4606
+Cao Guo-jiu Guo jiu~
+Cao Guo-jiu~
+Cao Guo-jiu stands here.
+~
+Cao Guo-jiu is one of the Ba Xian.. an immortal saint and sage.
+~
+2152 0 0 0 525320 0 0 0 0 E
+16 4 -6 16d5+170 10d4+10
+10 16000
+8 8 0
+Race: 19
+E
+#4607
+He-Xian-gu He Xian gu~
+He-Xian-gu~
+He-Xian-gu stands here.
+~
+He-Xian-gu is one of the Ba Xian.. an immortal saint and sage.
+~
+2152 0 0 0 525320 0 0 0 500 E
+19 1 -9 19d5+200 12d4+12
+50 22500
+8 8 0
+Race: 19
+E
+#4608
+Lan Cai-he cai he~
+Lan Cai-he~
+Lan Cai-he stands here.
+~
+Lan Cai-he is one of the Ba Xian.. an immortal saint and sage.
+~
+2152 0 0 0 525320 0 0 0 400 E
+16 4 -6 16d5+170 10d4+10
+50 16000
+8 8 0
+E
+#4609
+Zhong-Li-Quan zhong li quan~
+Zhong-Li-Quan~
+Zhong-Li-Quan stands here.
+~
+Zhong-Li-Quan is one of the Ba Xian.. an immortal saint and sage.
+~
+2152 0 0 0 525320 0 0 0 500 E
+15 5 -5 15d5+160 10d4+10
+50 14000
+8 8 0
+E
+#4610
+Aatxe~
+Aatxe~
+Aatxe stands here.
+~
+Aatxe is half man, half bull, all mean. 
+~
+2152 0 0 0 1032 0 0 0 -500 E
+15 5 -5 15d5+160 10d4+10
+50 14000
+8 8 0
+Race: 30
+E
+#4611
+Xindhi~
+a Xindhi~
+A Xindhi stands here.
+~
+The Xindhi are elves or elfish creatures in there descent, though long removed.
+~
+2152 0 0 0 1032 0 0 0 0 E
+16 4 -6 16d5+170 10d4+10
+50 16000
+8 8 0
+E
+#4612
+Xindhi~
+a Xindhi~
+A Xindhi stands here.
+~
+The Xindhi are elves or elfish creatures in there descent, though long removed.
+~
+2152 0 0 0 1032 0 0 0 0 E
+16 4 -6 16d5+170 10d4+10
+50 16000
+8 8 0
+E
+#4613
+Fenrir wererat~
+Fenrir~
+Fenrir snarls at you.
+~
+Fenrir is an enormous wererat.
+~
+264296 0 0 0 1032 0 0 0 -800 E
+20 0 -10 20d5+210 13d4+13
+50 25000
+8 8 0
+BareHandAttack: 4
+Race: 7
+E
+#4614
+Chimera~
+a Chimera~
+A vicious Chimera rears its heads towards you.
+~
+The chimera is an animal with the head of a lion, the body of a she-goat, and
+the tail of a dragon.
+~
+2152 0 0 0 1224 0 0 0 -1000 E
+18 2 -8 18d5+190 12d4+12
+50 20000
+8 8 0
+BareHandAttack: 4
+Noise: You hear a ferocious snarling nearby.
+E
+#4615
+Bolla~
+Bolla~
+Bolla stands here.
+~
+Bolla is a snake-like creature that sleeps for an entire year, only to wake up
+and devour whatever it looks upon. Fortunately this one seems blind.
+~
+2152 0 0 0 525322 0 0 0 -500 E
+16 4 -6 16d5+170 10d4+10
+50 16000
+8 8 0
+BareHandAttack: 4
+Race: 13
+Noise: Something slithers through the swamp water.
+E
+#4616
+Kulshedra~
+Kulshedra~
+Kulshedra scowers the swamp in search of its next meal.
+~
+Kulshedra is a dragonesque creature with nine tongues and big, pointy fangs.
+~
+264296 0 0 0 1032 0 0 0 0 E
+18 2 -8 18d5+190 12d4+12
+50 20000
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#4617
+Iya storm~
+Iya~
+A storm brews here.
+~
+This storm seems almost sentient...
+~
+2152 0 0 0 1128 0 0 0 -500 E
+19 1 -9 19d5+200 12d4+12
+50 22500
+8 8 0
+Race: 25
+Noise: The wind seems to get stronger here.
+E
+$

@@ -1,0 +1,152 @@
+#18600
+horns~
+great curved horns~
+Great ram-like horns are lying on the ground.~
+~
+11 64 0 0 0 17 0 0 0
+0 0 0 0
+15 1200 15.00
+A
+13 5
+#18601
+claw~
+a sickle-shaped claw~
+A sickle-shaped claw is lying on the ground.~
+~
+8 64 0 0 0 16385 0 0 0
+0 0 0 0
+3 1750 15.00
+E
+claw sickle~
+A long sickle or crescent shaped claw. It looks like it came from something
+big.
+~
+A
+19 2
+#18602
+translucent ring~
+a translucent ring~
+A translucent ring is lying in the dust.~
+~
+8 64 0 0 0 3 0 0 0
+0 0 0 0
+1 100 20.00
+A
+12 4
+#18603
+necklace stones translucent~
+a necklace of translucent stones~
+A necklace with large, translucent stones is lying in a heap.~
+~
+8 64 0 0 0 5 0 0 0
+0 0 0 0
+3 650 20.00
+A
+12 3
+#18604
+human skin boots~
+human skin boots~
+Some ugly leather boots lie on the floor.~
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0
+2 25 25.00
+#18606
+human skin jacket~
+a human skin jacket~
+An ugly leather jacket lies on the floor here.~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0
+5 50 20.00
+#18607
+human arm bone~
+a human arm bone~
+A cracked arm bone lies on the ground here.~
+~
+13 0 0 0 0 16385 0 0 0
+0 0 0 0
+5 0 100.00
+E
+arm bone~
+It's cracked at one end and it looks like it was chewed on.
+~
+#18608
+human rib bone~
+a human rib bone~
+A rib bone lies on the ground.~
+~
+13 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#18609
+infant pelt~
+an infant's pelt~
+The skin of an infant lies on the ground here.~
+~
+13 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+#18610
+key~
+a key~
+A key lies on the ground.~
+~
+18 4 0 0 0 16385 0 0 0
+1 0 0 0
+1 1 100.00
+#18611
+chair~
+a broken chair~
+A broken chair lies on the ground here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+12 0 100.00
+#18612
+fork~
+a fork~
+A fork is here, covered in blood.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 1 11
+1 5 100.00
+#18613
+stone rock~
+a stone~
+A stone lies on the ground.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+5 0 100.00
+#18614
+platter~
+a platter~
+A dirty platter is here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 5 100.00
+#18615
+claw sickle~
+a sickle-shaped claw~
+The claw of some creature lies here.~
+~
+12 64 0 0 0 16385 0 0 0
+0 0 0 0
+1 1800 15.00
+A
+19 1
+A
+17 -3
+A
+2 1
+#18650
+a supercalifragilistikexpialadocicator~
+a supercalifragilistikexpialadocicator~
+Something odd lies on the ground here.~
+~
+5 67 0 0 0 8193 0 0 0
+0 15 2 6
+1 1 100.00
+$~

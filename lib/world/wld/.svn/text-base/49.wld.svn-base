@@ -1,0 +1,2268 @@
+#4900
+A Volcanic Tunnel~
+   You are standing in a steam-filled vent.  Walls of sulfur and pumice
+converge in a dome above you to form a rough ceiling.  The floor of the
+vent hosts a small rivulet of dark, impure lava no more than a hand's
+breadth wide which runs westward into the open air from the south.
+   The vent continues to the south.
+~
+49 4 0 0 0 0
+D2
+~
+~
+0 0 4901
+D3
+The exit to the volcano lies in that direction.
+~
+~
+0 0 4729
+S
+#4901
+A Volcanic Vent~
+   A trail of lava burns into the igneous floor here, winding its way
+northward from the bend to the east to exit the chamber in a rivulet of
+molten rock.  The walls to the west and south emit a sulfurous steam,
+obscuring your vision in the vent as hot air blasts by you, rushing to
+escape to the outside.
+   Your ears are beginning to pop a bit, and you know that the pressure
+will only get worse as you venture deeper into the volcano.
+~
+49 8 0 0 0 0
+D0
+~
+~
+0 0 4900
+D1
+The vent seems to slope gently upward to the east.
+~
+~
+0 0 4911
+S
+#4902
+A Street Corner~
+   You stand at the junction of two tiled streets.  A few elemental beings,
+ooze elementals judging by the muddy texture of their bodies, shamble past
+you in their lumbering gait, completely ignoring the lesser beings in their
+path.
+   The street continues to the south, where you can see the wall of the
+fortress keep at the end, and to the east where beings stroll in and out
+of a gaming house.
+~
+49 8 0 0 0 0
+D1
+The street continues in that direction.
+~
+~
+0 0 4912
+D2
+The street continues to the south.
+~
+~
+0 0 4903
+S
+#4903
+A Fortress Street~
+   You are standing on a street of crushed basalt between the wall of a 
+dark building and the tall sloping edge of the cavern itself.  Here, the
+clawed tracks of some sort of beast mar and scatter the gravel beneath 
+you.
+   To the north, the street turns sharply eastward around a corner, while
+to the south, the street continues to the main keep of the fortress.
+~
+49 8 0 0 0 0
+D0
+You see a street corner.
+~
+~
+0 0 4902
+D2
+The street continues to the south.
+~
+~
+0 0 4904
+S
+#4904
+A Fortress Street~
+  You stand just to the west of a huge bazaar.  There, daemons and all
+manner of undead lords as well as elemental beings haggle and negotiate
+for each other's valuables.
+  The bazaar extends to the east and southeast, while the street you stand
+on continues north and south.
+~
+49 8 0 0 0 0
+D0
+The street continues to the north.
+~
+~
+0 0 4903
+D1
+You can see a bazaar there.
+~
+~
+0 0 4914
+D2
+The street continues to the south.
+~
+~
+0 0 4905
+S
+#4905
+A Fortress Street~
+   You are standing along the cavern wall which rises hundreds of feet
+above you to the west.  To the east, daemons and other creatures have
+set up stands and wagons to trade their native goods.
+   Occasionally, you see a fight break out, perhaps a daemon with too
+little patience arguing with an elemental lord.  Wisps of smoke and a
+few shooting streams of yellowish blood streak from the scene of the
+brawls, mostly ignored by the others in the bazaar.
+   To the south, the street bends sharply as it meets the main keep
+of the fortress.
+~
+49 8 0 0 0 0
+D0
+The street continues to the north.
+~
+~
+0 0 4904
+D1
+You can see the bazaar there.
+~
+~
+0 0 4915
+D2
+The street continues to the south.
+~
+~
+0 0 4906
+S
+#4906
+Before The Fortress Keep~
+   You stand at the corner of the fortress street where the cavern wall
+meets the main keep.  Looking above you, you can see great black blocks
+of volcanic stone comprising the wall of the keep, its pitch sheen, 
+probably obsidian, absorbing the flickering torchlights and wispglows
+of the bazaar.
+   To the east, the street continues toward the main gate of the keep,
+while to the north, the street leads past the bazaar.
+~
+49 8 0 0 0 0
+D0
+The street continues to the north.
+~
+~
+0 0 4905
+D1
+You can see the keep's gate there.
+~
+~
+0 0 4916
+S
+#4907
+Chamber Of The Undead~
+   Fleshless undead daemons stand in uniform ranks here, each quiet and
+lifeless, awaiting enchantment of undead life.
+   The smooth walls of this obsidian chamber reflect the images of the
+undead, making the dozen or so in here seem like an army of hundreds,
+each gazing in a different direction and leaving no part of the room
+unseen.
+   Only the monstrous beings appear to inhabit this room which lies
+bereft of furniture or similar items.  Fortunately, they show no signs
+of animation.
+   The exit lies to the south.
+~
+49 9 0 0 0 0
+D2
+The room exits to the south.
+~
+door~
+1 0 4908
+S
+#4908
+A Smithy~
+   Strips of dead flesh hang from the lifeless guards as they lie
+suspended over a vat of tanning solution.  You can see from the
+suits of leather skins around the room what the strips are used
+for.
+   The chamber is obviously a leatherworkers shop, and his talents,
+though macabre, must be admired judging from the craftesmanship.
+   The exit lies to the south, while to the north, you see an open
+hall.
+~
+49 8 0 0 0 0
+D0
+You can see a door.
+~
+door~
+1 0 4907
+D2
+The portcullis is to the south.
+~
+port portcullis~
+1 0 4909
+S
+#4909
+Dead Guards~
+   This corner of the fortress seems to be inhabited with the corpses
+of dead daemon guards.  Lined along the wall here, the dead stare out
+from behind glassy, dry eyes, no longer exuding fire, frost, or toxic
+gases as they did in life.
+   Still, you feel as though they may come to life.
+   Tearing for gaze from them, you notice a large chamber to the north,
+a portcullis of wrought iron forbidding your passage, while the hall 
+entends back to the east toward the shouted orders of other guards.
+~
+49 9 0 0 0 0
+D0
+The portcullis lies to the north.
+~
+port portcullis~
+1 0 4908
+D1
+The hall continues to the east.
+~
+~
+0 0 4919
+S
+#4910
+A Volcanic Tunnel~
+   You are standing in a smoking tunnel of the active volcano.  The
+stream of molten rock flows from out of the northern wall here, 
+heading south toward the exit of the mountain.  To the east, the
+tunnel continues.
+   As you stand still to check the air, you notice a faint breeze of
+cooler air coming from the eastern tunnel, as though the heart of the
+mountain itself was dormant.
+   To the north and west, cave walls of hardened lava stand before you,
+while to the south, the rivulet streams toward the exit.
+~
+49 9 0 0 0 0
+D1
+A hand-carved tunnel leads off in that direction.
+~
+~
+0 0 4920
+D2
+The tunnel continues to the south.
+~
+~
+0 0 4911
+S
+#4911
+A Volcanic Tunnel~
+   You cover your mouth and nose as you enter this tunnel of volcanic
+smoke and ash.  The smooth walls bear the scars of intense heat which
+blackened the stone itself as magma flowed eastward here from the north.
+A trickle of lava flows in the middle of the tunnel, streaming eastward
+toward the exit.
+~
+49 9 0 0 0 0
+D0
+The tunnel continues to the north.
+~
+~
+0 0 4910
+D3
+The air gets cooler in that direction.
+~
+~
+0 0 4901
+S
+#4912
+A Fortress Street~
+   An unremarkable city street, this place seem to be a path of low
+traffic.  To the south, you see an open building from which the rancid
+scent of burning flesh and rotten meat wafts over you, making you weak
+and naseous.
+   As you look west, you see the street bend southward, around the odd
+building, while the street continues toward the main gate to the east.
+~
+49 8 0 0 0 0
+D1
+ The street continues to the east.
+~
+~
+0 0 4922
+D2
+You can see a dark building there.
+~
+~
+0 0 4913
+D3
+The street continues in that direction.
+~
+~
+0 0 4902
+S
+#4913
+A Guard Post~
+   Though this place smells more like a carnal house, it appears as though
+only brutish daemon guards inhabit this place, each sharing what appears to
+be the leg of a fellow daemon or similar beast.
+   Each of the guards stand well over eight feet in height, their horns
+glistening and their tails swishing in delight as they devour their meal.
+   The only exit appears to be to the north.
+~
+49 9 0 0 0 0
+D0
+You can see the exit to the north.
+~
+~
+0 0 4912
+S
+#4914
+An Infernal Bazaar~
+   Like most bazaars in the overworld, this one features different beings
+from foreign lands coming together to trade their native goods.  Here,
+gems, silks, rare stones, vials of blood, bones, and other interplanar
+wares are bought and sold, each item bringing a fair price to its seller.
+   The bazaar extends to the east and south, stretching across the area
+to the southeast as well.
+~
+49 8 0 0 0 0
+D1
+The bazaar continues in that direction.
+~
+~
+0 0 4924
+D2
+The bazaar continues to the south.
+~
+~
+0 0 4915
+D3
+You can see a street to the west.
+~
+~
+0 0 4904
+S
+#4915
+An Infernal Bazaar~
+   Like most bazaars in the overworld, this one features different beings
+from foreign lands coming together to trade their native goods.  Here,
+gems, silks, rare stones, vials of blood, bones, and other interplanar
+wares are bought and sold, each item bringing a fair price to its seller.
+   The bazaar extends to the east and north, stretching across the area
+to the northeast as well.  To the south, a street cuts in from the east,
+running across the keep's gate to the south.
+~
+49 8 0 0 0 0
+D0
+The bazaar continues to the north.
+~
+~
+0 0 4914
+D1
+The bazaar continues to the east.
+~
+~
+0 0 4925
+D2
+You can see the gate to the south.
+~
+~
+0 0 4916
+D3
+You can see a street there.
+~
+~
+0 0 4905
+S
+#4916
+The Fortress Gate~
+   Though unimpressive, the wrought iron gate leading into the castle's
+main keep appear to be both sturdy and functional.  Flanked by two guards
+on each side, the gate remains tightly closed and, judging by the stern
+looks you receive from the guards, off limits to anyone who is uninvited.
+   The keep rises high above you to the south, while to the north, the
+bustling activity in the bazaar seems to be a delightful distraction from
+the terrors and risks of living in the undermountain.  
+   Beneath you, the street runs to the east and west, away from the keep.
+~
+49 8 0 0 0 0
+D0
+You can see the bazaar there.
+~
+~
+0 0 4915
+D1
+The street continues in that direction.
+~
+~
+0 0 4926
+D2
+The gate lies to the south.
+~
+gate wrought iron~
+2 4919 4917
+D3
+The street continues in that direction, bending sharply to the north.
+~
+~
+0 0 4906
+S
+#4917
+Inside The Keep~
+   You are standing in a dark foyer.  Obsidian slabs have been sheared
+to form the tile walls and floors of this palacial fortress.  A single
+black chandelier hangs from above you in this entranceway, apparently
+burning a black flame that combats the light from your own source.
+   To the south, the hall continues to a set of doors, while to the
+north, you can exit the keep.
+~
+49 9 0 0 0 0
+D0
+The bazaar lies beyond the gate to the north.
+~
+gate wrought iron~
+2 4919 4916
+D2
+The hall continues to the south.
+~
+~
+0 0 4918
+S
+#4918
+Dark Doors~
+   You are standing before a set of double doors which have been mounted
+into the southern wall.  Regal carvings have been burned into the black
+doors which seem to exude an unnatural chill.
+   The walls to the east and west glisten a bit as well, as though the
+cold from behind the door escaped only to condense with moisture in
+this hall.
+   The hall continues to the north, back toward the exit.
+~
+49 9 0 0 0 0
+D0
+The hall continues to a foyer there.
+~
+~
+0 0 4917
+D2
+You can see a set of dark double doors.
+~
+door doors double~
+2 0 4919
+S
+#4919
+A Fortress Hall~
+   Immediately, you are assaulted by the stench of daemons.  The bodies
+of the beasts line the southern walls, watchful, though not conscious
+of any intruders as they stare directly ahead.
+   The hall continues to the east and west, and exits to the north 
+toward the bazaar.
+~
+49 9 0 0 0 0
+D0
+You can see the doors.
+~
+door doors double~
+2 0 4918
+D1
+You can see some sort of meeting room past the guards to the east.
+~
+~
+0 0 4929
+D3
+You can see rows of guards lining the walls to the west.
+~
+~
+0 0 4909
+S
+#4920
+A Carved Tunnel~
+   Strangely enough, this tunnel seems to have been carved to square
+corners to form a corridor.  Obsidian flakes and stone fragments litter
+the floor of the area where the lava to the west could not consume them.
+   The corridor continues to the east into the darker, cooler regions
+of the undermountain, while to the west, the natural tunnel bends to
+the south.
+~
+49 9 0 0 0 0
+D1
+The tunnel continues to the east.
+~
+~
+0 0 4930
+D3
+You see lava streaming from the walls in that direction.
+~
+~
+0 0 4910
+S
+#4921
+In The Cavern Wall~
+   You are standing in a natural fissure in the cavern.  Here, a slab
+of stone has fallen neatly to form a secret stone panel leading into
+the city to the south.
+   All around you, the scents of rusting metal and burning sulfur fill
+this area.
+   The fissure leads to the east, where the terrain seems to slope a
+bit downward.
+~
+49 265 0 0 0 0
+D1
+The fissure extends to the east.
+~
+~
+0 0 4931
+D2
+The city lies beyond the panel to the south.
+~
+panel stone~
+1 0 4922
+S
+#4922
+A Fortress Street~
+   You are shoving your way past hideous beasts and ghastly monsters.
+A few strange animals serve as mounts for their owners as they pass you
+by, obviously uninterested in your coins, as it appears that gems and
+blood are the currency of transaction here.
+   To the north, the high walls of the cavern rise above you to form
+a dome, while to the east and west, this street continues.
+   To the south, however, you see a strange sort of establishment.  It
+sounds as though the occupants of this city are gambling.  Judging by the
+snarls, and the occasional flying body that soars out the door, it appears
+that many are losing.
+~
+49 8 0 0 0 0
+D0
+You see the stone wall.
+~
+panel stone~
+1 0 4921
+D1
+The street continues in that direction.
+~
+~
+0 0 4932
+D2
+You see a the sound of rattling bones and gutteral laughter in that
+building.
+~
+~
+0 0 4923
+D3
+The street continues to the west.
+~
+~
+0 0 4912
+S
+#4923
+The House Of Bones~
+   Bone dice, bone darts, and bone dust are the three biggest games
+of activity in this gaming house.  Looking around, you see creatures
+of all levels of existence here, each gambling vials of blood and
+rare gems against one another on the next roll of the dice or toss
+of a dart.
+   A few burly guards, both over nine feet tall, flank the only exit
+to the place to the north, while some sort of overseer, a fire daemon
+from the look of him, wanders from table to table, apparently looking
+for cheaters.
+~
+49 12 0 0 0 0
+D0
+You can see the street there.
+~
+~
+0 0 4922
+S
+#4924
+An Infernal Bazaar~
+   Like most bazaars in the overworld, this one features different beings
+from foreign lands coming together to trade their native goods.  Here,
+gems, silks, rare stones, vials of blood, bones, and other interplanar
+wares are bought and sold, each item bringing a fair price to its seller.
+   The bazaar extends to the west and south, stretching across the area
+to the southwest as well.
+~
+49 8 0 0 0 0
+D1
+The street lies in that direction.
+~
+~
+0 0 4934
+D2
+The bazaar continues to the south.
+~
+~
+0 0 4925
+D3
+The bazaar continues in that direction.
+~
+~
+0 0 4914
+S
+#4925
+An Infernal Bazaar~
+   Like most bazaars in the overworld, this one features different beings
+from foreign lands coming together to trade their native goods.  Here,
+gems, silks, rare stones, vials of blood, bones, and other interplanar
+wares are bought and sold, each item bringing a fair price to its seller.
+   The bazaar extends to the west and north, stretching across the area
+to the northwest as well.  To the south, a street cuts in from the east,
+running toward the gate to the southwest.
+~
+49 8 0 0 0 0
+D0
+The bazaar continues to the north.
+~
+~
+0 0 4924
+D1
+You can see a street there.
+~
+~
+0 0 4935
+D2
+You can see a street there.
+~
+~
+0 0 4926
+D3
+The bazaar continues in that direction.
+~
+~
+0 0 4915
+S
+#4926
+Before The Fortress Keep~
+   You are standing at the base of the keep's front wall.  A few spires
+add decorations to the otherwise stark fortress, but the entire structure
+still looks as though it was carved from the soul of an evil god.
+   To the north, you can see the bazaar where trading and bickering seems
+to be the rule, while to the east and west, the street continues.
+   Off to the west however, you notice the main gate to the keep.
+~
+49 8 0 0 0 0
+D0
+You can see the bazaar there.
+~
+~
+0 0 4925
+D1
+The street bends northward in that direction.
+~
+~
+0 0 4936
+D3
+The gate of the keep lies just over there.
+~
+~
+0 0 4916
+S
+#4927
+Pit Of Blackfire~
+   You have entered a black room.  The obsidian walls and floors absorb
+your light, leaving you in near-total blackness.
+   As your eyes adjust to the dim light, you can begin to make out a
+few details in the chamber.  Before you, a large, deep pit has been
+carved into the floor.  In it, you can hear the crackling of blackfire
+as it consumes what appears to be the phosphorescent bones of dead
+fire daemons.
+   Looking around you, you realize that you can see nothing in any 
+direction, save for the few torchlights that occupy the hallway to
+the south.
+~
+49 41 0 0 0 0
+D1
+You can see nothing in this darkness.
+~
+~
+0 0 4937
+D2
+A hall extends to the south.
+~
+~
+0 0 4928
+S
+#4928
+A Royal Hall~
+   Fine silks and hides of extradimensional beasts adorn the obsidian walls
+of this marble-tiled corridor.  Easily a hundred feet long, a patrol of ice
+daemon guards stroll along this corridor, their furred tails swishing
+in tune to their steps.
+   To the north, the hall seems to empty into some sort of private room,
+though with no door to enclose it, it must have some other function.  To
+the south, a door lies set into the obsidian wall.
+~
+49 9 0 0 0 0
+D0
+The hall ends to the north at a round chamber.
+~
+~
+0 0 4927
+D2
+The hall ends at a door to the south.
+~
+door~
+1 0 4929
+S
+#4929
+A Council Room~
+   A large bone-legged table dominates the center of this circular chamber.
+All around it, incorporeal mists shout at each other, mentally ordering
+their subordinates to search and seize potential enemies of the Daemon Lord.
+   It appears as though you are glimpsing through a window to a different
+dimension as the beings do not seem to notice your presence and appear to
+be mere images of their true selves.
+   A door rests in the north wall, exiting the large, domed chamber,
+while a corridor cuts in from a curved doorway to the west.
+~
+49 41 0 0 0 0
+D0
+You can see a door there.
+~
+door~
+1 0 4928
+D3
+A hall leads to the west.
+~
+~
+0 0 4919
+S
+#4930
+A Carved Corridor~
+   Smooth, flawless obsidian surrounds you on all sides of this long
+corridor which grows cooler as you travel deeper into the mountain.
+Shards and flakes of obsidian lie here, obviously remnants of a time
+when the walls and ceiling were more uneven.
+   Standing quietly, you can hear a deep rumbling coming from below
+you and can feel slight vibrations as plates shift deep below the 
+surface of the mountain.
+   The tunnel extends to the east and west.
+~
+49 9 0 0 0 0
+D1
+The tunnel continues to the east, growing colder as you move in that
+direction.
+~
+~
+0 0 4940
+D3
+The tunnel grows warmer in that direction.
+~
+~
+0 0 4920
+S
+#4931
+In The Fissure~
+   You stand among fallen slabs of rock, victims of the volcanic tremors
+which tend to occur with regularity in these caverns.
+   Above you, out of the reach of your light, you can hear the chirping
+of blood bats who have obviously been awakened by your presence.  Still,
+the tiny flying rodents shouldn't bother with what they cannot swallow.
+   The fissure widens and grows deeper as you travel east, narrowing as
+you look back to the west, toward the exit of this part of the cavern.
+~
+49 265 0 0 0 0
+D1
+The fissure grows deeper to the east.
+~
+~
+0 0 4941
+D3
+The fissure continues there.
+~
+~
+0 0 4921
+S
+#4932
+Inside The Fortress Gate~
+   Daemons, devils, and a few beasts of elemental origin carry their wares
+past heavily armed daemon guards and the spiked gates here.  A few of the
+smaller daemons appear to have been detained for inspection by the guards,
+ever wary of smugglers and illegal items.
+   All around you, odd creatures seemed to have set up shop in this tiny
+courtyard, a few bartering with their neighbors while others absorb the
+dark splendor of the fortress and the shadowy keep off to the south.
+   Streets branch off to the south and west, away from the busy main
+gate.
+~
+49 9 0 0 0 0
+D1
+The gate leads to a street in that direction.
+~
+gate double~
+1 0 4942
+D2
+The street continues to the south, in the direction of the keep.
+~
+~
+0 0 4933
+D3
+A street leads off in that direction.
+~
+~
+0 0 4922
+S
+#4933
+A Fortress Street~
+   You are walking along a street that leads southward, toward a large
+keep.  Daemon guards walk along the fortress wall to the east, staring
+down at you occasionally, apparently recognizing you as not one of the
+more advanced races.  
+   A bazaar of sorts appears to the southwest and you can see the main 
+gate of the fortress to the north.
+~
+49 8 0 0 0 0
+D0
+The street ends at the main gate to the north.
+~
+~
+0 0 4932
+D2
+The street continues to the south.
+~
+~
+0 0 4934
+S
+#4934
+A Fortress Street~
+  You stand just to the east of a huge bazaar.  There, daemons and all
+manner of undead lords as well as elemental beings haggle and negotiate
+for each other's valuables.
+  The bazaar extends to the west and southwest, while the street you stand
+on continues north and south.
+~
+49 8 0 0 0 0
+D0
+The street continues to the north.
+~
+~
+0 0 4933
+D2
+The street continues to the south.
+~
+~
+0 0 4935
+D3
+The bazaar extends to the west.
+~
+~
+0 0 4924
+S
+#4935
+A Fortress Street~
+   You are standing along the fortress wall which rises some thirty feet
+above you to the east.  To the west, daemons and other creatures have
+set up stalls and wagons to trade their wares.
+   Occasionally, you see a fight break out, perhaps a daemon with too
+little patience arguing with an elemental lord.  Wisps of smoke and a
+few shooting streams of yellowish blood streak from the scene of the
+brawls, mostly ignored by the others in the bazaar.
+   To the south, the street bends sharply as it meets the main keep
+of the fortress.
+~
+49 8 0 0 0 0
+D0
+The street continues to the north.
+~
+~
+0 0 4934
+D2
+You see the keep wall in that direction.
+~
+~
+0 0 4936
+D3
+You can see a bazaar there.
+~
+~
+0 0 4925
+S
+#4936
+Before The Fortress Keep~
+   You stand at the corner of the fortress street where the outer wall
+of the fortress meets the main keep.  Looking above you, you can see
+great blocks of volcanic stone comprising the wall of the keep, its
+black sheen, probably obsidian, absorbing the flickering torchlights
+around the city.
+   To the west, the street continues toward the main gate of the keep,
+while to the north, the street leads to the fortress gate.
+~
+49 8 0 0 0 0
+D0
+The street continues to the north.
+~
+~
+0 0 4935
+D3
+The street continues toward the gate of the keep to the west.
+~
+~
+0 0 4926
+S
+#4937
+The Overlord's Chamber~
+   Piles of gems, chests of valuables, and stacks of rare carpets and
+tapestries blanket most of this vast chamber.  Measuring some fifty feet
+square, the long obsidian walls of this domed chamber absorb your light,
+dimming the room to a dusky orange, making the gems seem dull and
+lackluster.
+   A grand central table dominates the room, though it is empty and 
+seems to have been carved from mahogany.
+   You can see only the exit you came from here.
+~
+49 41 0 0 0 0
+D2
+You can see a chest of cloth there.
+~
+chest~
+1 0 4938
+D3
+You can see nothing but darkness in that direction.
+~
+~
+0 0 4927
+S
+#4938
+A Misty Tunnel~
+   You are standing in a secret tunnel deep within the fortress.  Strange,
+swirling mists float around you, stinging you with their energy which sets
+your hair on end.  The walls here seem to be whispering for you to turn
+back.
+   Heavy breathing seems to be coming from the south, as though some old
+dragon was deep in slumber.
+~
+49 265 0 0 0 0
+D0
+You can see a chest.
+~
+chest~
+1 0 4937
+D2
+The tunnel continues to the south.
+~
+~
+0 0 4939
+S
+#4939
+At Death's Door~
+   You are standing at the doorway to the Astral Plane.  Only the dead
+float beyond the gateway to the south, thus you cannot enter in your
+current living state.
+   As you look into the glassy portal, you can see spirits being 
+escorted by deva and similar angel-like beings who legends say have
+been assigned to protect them for eternity.
+   The only exit is to the north.
+~
+49 169 0 0 0 0
+D0
+The tunnel continues to the north.
+~
+~
+0 0 4938
+S
+#4940
+A Carved Corridor~
+   Here, the tunnel turns markedly cooler, enough so that the obsidian
+under your feet begins to flake and chip as you walk across it.  The walls
+are similarly flawed, though you can clearly see that they were once smooth
+and whole.  
+   The tunnel extends to the east and west.
+~
+49 9 0 0 0 0
+D1
+The tunnel continues in that direction.
+~
+~
+0 0 4950
+D3
+The tunnel continues in that direction.
+~
+~
+0 0 4930
+S
+#4941
+Deep Within A Fissure~
+   You are tripping over fall rocks as you negotiate a path through the
+rubble here.  The area is warm, probably heated by volcanic activity
+from further in the fissure below.
+   A few slithering animals reside here, sidling away from the foreign
+scent of your body.
+   The fissure continues to the west, where it rises steeply and to the
+east, where it seems to drop off sharply.
+~
+49 265 0 0 0 0
+D1
+The fissure drops steeply to the east.
+~
+~
+0 0 4951
+D3
+The fissure climbs in that direction.
+~
+~
+0 0 4931
+S
+#4942
+Outside The Fortress Gate~
+   You can hear nothing though the murmurings and shouts of the daemons
+and otherworldly creatures around you.  Tails and wings slap lazily at 
+you while a stray horn or spike prods you to move on from behind.
+   The cavern seems to end here, with only the gate of the fortress
+to break the monotony of solid walls rising above you to the north and 
+east.  You can also escape the pack by bolting to the south, though
+the beasts around you form an almost impenetrable barrier to pass.
+~
+49 12 0 0 0 0
+D2
+The pack seems to thin a bit to the south.
+~
+~
+0 0 4943
+D3
+You see the main gate to the fortress.
+~
+gate~
+1 0 4932
+S
+#4943
+Amidst The Crowd~
+   You are being bounced and buffeted against leather-skinned creatures
+that rush past you as they go about their own business.  Before you,
+an ice daemon slaps a forked, lizardlike tongue against your cheek,
+stinging you with its cold, as though telling you to get away from
+him.
+   As you look around, trying to exit the crowd, you notice that the
+cavern wall rises high to the east and slopes above you to form the
+dome of the undermountain itself.  To the west, the fortress wall
+stands tall, patrolled by tailed, weaponed beasts at its peak.
+   The street continues to the south, away from the beings and the
+mob that threatens to crush you under their scaly heels.
+~
+49 8 0 0 0 0
+D0
+Through the crowd, the street continues northward.
+~
+~
+0 0 4942
+D2
+The street continues to the south, away from the crowd.
+~
+~
+0 0 4944
+S
+#4944
+A Busy Street~
+   Burly daemons of all types mingle here, pushing past each other to
+enter or exit into the main gates of the undermountain fortress.  In
+the distance to the north, the functional double doors of the fortress
+entrance stand open, though heavily guarded as odd, perhaps even
+extradimensional, beings bear sacks and crates of unknown cargo through
+them.
+   To the north, you can enter the crowd of beings or head south and
+get away from the rush.
+~
+49 8 0 0 0 0
+D0
+The street continues into a mob of horrible, strange beings to the north.
+~
+~
+0 0 4943
+D2
+The street continues to a checkpoint to the south.
+~
+~
+0 0 4945
+S
+#4945
+Checkpoint~
+   You stand at a guard's checkpoint.  Dark stone forms an arch that leads
+northward toward some loud noises and sounds of activity.
+   To the north the tiled street continues along the western wall, flanked
+on its eastern side by the wall of the cavern.  To the south, the street
+continues back toward the exit of the undermountain cavern.
+~
+49 8 0 0 0 0
+D0
+The street continues to the north.
+~
+~
+0 0 4944
+D2
+The street continues to the south.
+~
+~
+0 0 4946
+S
+#4946
+A Tiled Street~
+   You are strolling along a street that is bordered to the west by a
+massive stone wall.  Horned, devilish guards sport tridents on the
+minarets above you, watching you carefully as you walk past.
+   To the east, a tall tower juts high from the cavern floor, though
+no door is apparent on this side.
+   The street continues to the north, where enormous demon-like beings
+patrol the streets, each wielding exposed weapons.
+
+~
+49 8 0 0 0 0
+D0
+The street continues to a checkpoint to the north.  Daemon guards
+stand at attention there.
+~
+~
+0 0 4945
+D2
+The street continues to the south.
+~
+~
+0 0 4947
+S
+#4947
+A Tiled Street~
+   You are strolling along a street that is bordered to the west by a
+massive stone wall.  Horned, devilish guards sport tridents on the
+minarets above you, watching you carefully as you walk past.
+   To the east, a crude street, perhaps an alley curves around the
+stone structure to the northeast.
+   The street continues to the north, where enormous demon-like beings
+patrol the streets, each wielding exposed weapons.
+~
+49 8 0 0 0 0
+D0
+The street continues to the north.
+~
+~
+0 0 4946
+D1
+You see an alley there.
+~
+~
+0 0 4957
+D2
+The street continues to the south.
+~
+~
+0 0 4948
+S
+#4948
+A Tiled Street~
+   You are strolling along a street that is bordered to the west by a
+massive stone wall.  Horned, devilish guards sport tridents on the
+minarets above you, watching you carefully as you walk past.
+   To the east, a small windowless building stands with a missing door.
+The scent of burnt leather and oiled steel emanates from within.
+   The street continues to the north, where enormous demon-like beings
+patrol the streets, each bearing broadswords the size of a human leg.
+~
+49 8 0 0 0 0
+D0
+The street continues to the north.
+~
+~
+0 0 4947
+D1
+You see some sort of dark building.
+~
+~
+0 0 4958
+D2
+The street continues to the south.
+~
+~
+0 0 4949
+S
+#4949
+A Tiled Street~
+   Carved basalt has been cut into slabs and placed on the ground to 
+create this street.  Wheel treads can be seen marring the crude tiles,
+giving the impression of heavy carts being pulled down this lane and
+out the courtyard to the east.
+   To your west, a wall, perhaps that of a building or defensive
+structure, stands high above you, partially melding with the ceiling
+almost thirty feet above you.
+   The street continues to the north and exits to the courtyard east
+of here.
+~
+49 8 0 0 0 0
+D0
+The street continues to the north.
+~
+~
+0 0 4948
+D1
+You see the entrance courtyard to the city there.
+~
+~
+0 0 4959
+S
+#4950
+A Flawed Corridor~
+   Clearly, an earthquake is responsible for the partial collapse of this
+tunnel.  Powered flakes of obsidian litter the floor amidst the boulders
+of igenous stones that once help up the ceiling.
+   A small crawlspace extends through the rubble to the east where you can
+hear a soft moaning.  The corridor leads back toward the exit to the west.
+~
+49 9 0 0 0 0
+D1
+Rubble impedes the passage, though a crawlspace can be seen amidst it.
+~
+~
+0 0 4960
+D3
+The tunnel extends, free of debris, to the west.
+~
+~
+0 0 4940
+S
+#4951
+Stairs~
+   Someone has carved a set of crude stairs into the otherwise steep walls
+of the fissure here.  Below you, at the base of the long staircase, you 
+can hear the rushing of air, as though an underground vent exited into the
+chamber below.
+   Darkness surrounds you, making the exit to the west seem very inviting.
+~
+49 265 0 0 0 0
+D3
+The path ascends to the west.
+~
+~
+0 0 4941
+D5
+The stairs descend into darkness there.
+~
+~
+0 0 4961
+S
+#4952
+Tower Overlook~
+   You are prone on your belly as you peer out over the tower's edge.
+The entire undercity seems to be visible from here, including the dark
+outbuildings and the well-lit bazaar that rests behind the fortress
+wall.
+   As you look out from your perch, some 200 feet above the cavern floor,
+you notice the abundance of guards at the fortress gate far to the
+north, as well as the patrols that monitor the activity within.  Far
+over the western wall, you can see daemons haggling the prices of their
+goods as they set up stalls in a bazaar.
+   The only non-fatal way to leave here is east, across the top of the
+tower.
+~
+49 9 0 0 0 0
+D1
+The tower continues to the east.
+~
+~
+0 0 4962
+S
+#4953
+A Relief Door~
+   Odd carvings depict a circular object streaking across the sky on
+the door here.  Perhaps a comet, the door displays an astronomical map,
+but from which celestial position you cannot be certain, particularly
+since you know this place to be deep within the undermountain.
+   The only exit from here is down, all other directions blocked by thick
+stone walls.
+~
+49 41 0 0 0 0
+D1
+You see a carved door.
+~
+door carved~
+1 0 4963
+D5
+The stairs descend into the mists below.
+~
+~
+0 0 4954
+S
+#4954
+Stone Stairs~
+   You are standing in a large niche in the wall of the Chamber of the
+Rifts.  Here, a stone stairwell ascends above the chamber and into a
+damp darkness above you.
+   You can hear nothing other than the rushing of winds which seem to
+emanate from the east.  The southern and western walls here are slick
+with moisture as are the stairs that lead up.
+   Oddly enough, a greenish moss seems to grow on the walls in patches
+here, apparently lacking the need for sunlight to grow.
+~
+49 41 0 0 0 0
+D1
+~
+~
+0 0 4964
+D4
+The stairs ascend in that direction.
+~
+~
+0 0 4953
+S
+#4955
+On the Tower Stairs~
+   Bleak stairs and dark shadows face you as you traverse the steps of
+the tower.  An odd mist appears to rise from somewhere nearby, perhaps
+that landing to the east.  
+   Only black rock and faint whispers from above share your company
+here, making the exit below you seem very inviting.
+~
+49 41 0 0 0 0
+D1
+The stairs come to a landing to the east.
+~
+~
+0 0 4965
+D5
+The stairs lead down.
+~
+~
+0 0 4956
+S
+#4956
+The Tower Floor~
+   Gravel covers the floor of this monolithic tower which seems to rise
+endlessly into the darkness above you.  A set of stone stairs ascend the
+tower along the western wall where the gravel seems to pulse and shift,
+perhaps just a trick of the light. 
+   This circular room boasts only the exit to the east.  No doors or
+windows allow any type of light to enter and even sound seems muffled
+in here.
+~
+49 41 0 0 0 0
+D1
+You see the tower door.
+~
+door tower~
+1 0 4966
+D4
+The tower stairs ascend in that direction.
+~
+~
+0 0 4955
+S
+#4957
+An Alley~
+   You stand on the crushed basalt and sand of an alley between two
+large structures.  To the south, the wall of the building seems to be 
+made from great slabs of volcanic rock which have been raised to lean
+against each other to create a solid foundation.
+   To the north, an odd tower rises from the cavern floor to stare
+westward over the guarded wall.
+   The alley continues to the east, where it bends sharply northward,
+and west to the main street.
+~
+49 8 0 0 0 0
+D1
+The alley bends to the east.
+~
+~
+0 0 4967
+D3
+You see a tiled street to the west.
+~
+~
+0 0 4947
+S
+#4958
+A Guard Post~
+   You stand within the crude walls of a dark guardhouse.  A few strange
+beasts stand here staring at you from behind sickly yellowish eyes, a 
+putrid stench emanating from the bare, leathery flesh which ripples as
+they move.
+   They don't seem to wish to bother with you however; perhaps thinking
+you are not worth the trouble to trounce.
+   The exit lies to the west.
+~
+49 8 0 0 0 0
+D3
+You see an open door there.
+~
+~
+0 0 4948
+S
+#4959
+A Courtyard~
+   You are standing in an underground volcanic cavern.  At some point long
+in the past, a pocket of magma drained away from this place, leaving a flat
+cavern floor and a domed ceiling nearly two hundred feet above you.
+   Towers and structures of basalt, obviously constructed rather than natural,
+have turned this cavern into a subterranean city.  Clawed footprints mar
+the courtyard where you have entered, indicating that this is a high-traffic
+area for the inhabitants of this city.
+   To the north, you can see the side of a building, while to the south,
+smooth cavern walls rise and slope above you.  As you look west, you
+see the street continue, then turn sharply as it meets the side of another
+building to the west.
+~
+49 8 0 0 0 0
+D1
+You see a stone door there.
+~
+door stone~
+1 0 4969
+D3
+You can see a street lead northward to the west.
+~
+~
+0 0 4949
+S
+#4960
+Rubble~
+   You are crawling through a narrow crawlspace.  Sharp slabs of pumice
+and obsidian scrape against your face and hands as you maneuver through
+the tunnel.
+   To the west, the crawlspace opens to an open corridor, while to the
+east, you feel a cool draft and smell the faintest scent of ozone.
+~
+49 13 0 0 0 0
+D1
+You can see nothing but darkness.
+~
+~
+0 0 4970
+D3
+The crawlspace opens into a corridor to the west.
+~
+~
+0 0 4950
+S
+#4961
+The Base Of The Fissure~
+   Sulfurous gases and vapours rise from a volcanic vent in the western 
+wall, choking you as you struggle for breath.  You quickly become dizzy,
+almost sick, as you stumble about, looking for an exit.
+~
+49 265 0 0 0 0
+D1
+The air grows even more foul to the east.
+~
+~
+0 0 4971
+D4
+The stairs climb out of the fissure there.
+~
+~
+0 0 4951
+S
+#4962
+The Tower's Peak~
+   You are standing on a raised dias from which you can look over the
+fortress wall to the west and see bustling activity.  Daemons and other
+extra-dimensional beasts seem to be haggling and arguing, negotiating
+and threatening, pushing and dealing, all in attempts to barter their
+wares from their own native lands.
+   The tower top dips slightly to the east and west, both offering 
+different views of the fortress below.
+~
+49 9 0 0 0 0
+D1
+The top of the tower extends there.
+~
+~
+0 0 4972
+D3
+You can get a better look from the tower to the west.
+~
+~
+0 0 4952
+S
+#4963
+The Master Chamber~
+   You stand in the darkest chamber you have ever seen, as though some
+evil god created a hole in the shadows themselves.  Through your feeble
+light, you can make out almost no details, other than a few stone tables
+and shelves which stand along the circular stone walls.  
+   A circular dias on which an altar of some sort has been built rests
+in the center of the room, a black crystal floating above it, seemingly
+absorbing the light and emitting its own inky colour around you.
+   Through your searching, you come across a door set into the eastern
+wall, its stone hinges set to last an eternity.  Its twin, carved with a
+relief of stars and other celestial objects lies in the western wall,
+where a damp, almost humid, scent of vapour originates.
+~
+49 41 0 0 0 0
+D1
+You see a door there.
+~
+door stone~
+1 0 4973
+D3
+You see a carved door there.
+~
+door carved~
+1 0 4953
+S
+#4964
+Chamber Of The Rifts~
+   Swirling mists and strange gases surround you in this chamber.  Voices
+whisper around you, mixing warnings to turn back with wailing pleads for
+help.
+   You can see little but mists around you, as though you were standing
+behind the splash of a waterfall.  A rushing of air deafens you, but
+does nothing to clear your vision through the vapour.
+~
+49 41 0 0 0 0
+D1
+You see a stone door.
+~
+door stone~
+1 0 4974
+D3
+You can see a hollow in the wall, and some stone stairs circling upward.
+~
+~
+0 0 4954
+S
+#4965
+A Landing~
+   You are standing on a wide landing in the dark tower.  A deathly cold
+chill rises from the stone beneath you and the sounds of heavy breathing
+come from somewhere very near.
+   Through your light, you peer over a guardrail - the only defense against
+a fatal fall from the stairs - and see nothing but dust drift past you
+from above.
+   The stairs ascend to the east, along a circular path and descend back
+to the west.
+~
+49 41 0 0 0 0
+D1
+The stairs climb to the west, circling around to the south as it climbs.
+~
+~
+0 0 4975
+D3
+The stairs descend in that direction.
+~
+~
+0 0 4955
+S
+#4966
+Cul-de-sac~
+   You have entered a dead-end cave.  Flawed, unnatural stone walls
+rise above you to the north and west, a few cracks betraying the 
+outlines of a door in the eastern wall.
+   To the west, a solid steel door provides entry into a tower that
+scrapes the cavern ceiling above you.  The dark stone of the tower
+seems to blend in suitably with the surrounding cavern walls.
+~
+49 9 0 0 0 0
+D1
+You can see a stone door there.
+~
+door stone~
+1 0 4976
+D2
+The cul-de-sac opens into an alley to the south.
+~
+~
+0 0 4967
+D3
+You see the tower door there.
+~
+door tower~
+1 0 4956
+S
+#4967
+A Bend In The Alley~
+   Here, the alley bends sharply northward into a cavelike cul-de-sac.
+The shadows here are thick, lacking the natural phosphorescence of the
+cavern walls around you, making you think twice about entering the area 
+to the north.
+   To the east and south, the walls of the cavern are marred with large,
+claw-like scratches, evidence of some daemon's hostility and rage, while
+to the west, the alley continues toward the main street.
+~
+49 8 0 0 0 0
+D0
+The alley ends in a cul-de-sac to the north.
+~
+~
+0 0 4966
+D3
+The alley continues in that direction.
+~
+~
+0 0 4957
+S
+#4968
+A Guard Post~
+   You stand within the crude walls of a dark guardhouse.  A few strange
+beasts stand here staring at you from behind sickly yellowish eyes, a 
+putrid stench emanating from the bare, leathery flesh which ripples as
+they move.
+   They don't seem to wish to bother with you however; perhaps thinking
+you are not worth the trouble to trounce.
+   The exit lies to the west.
+~
+49 40 0 0 0 0
+D3
+You see the street through the open door.
+~
+~
+0 0 4958
+S
+#4969
+A Rift~
+   Swirling gases engulf you as you enter this semi-ethereal corridor.
+There appears to be no floor, no walls, no substance to this vortex
+of mists and vapours.
+   To the west, huge bands of magically cold iron reinforce a magical
+door of solid light, preventing entrance from the material world into
+what lies beyond.
+   To the east, the corridor seems to lead back to the material world,
+and though you are not certain of your location, you feel sure that 
+you stand in a rift between worlds.
+~
+49 264 0 0 0 0
+D1
+The rift enters the prime material world there.
+~
+~
+0 0 4979
+D3
+You see a stone door.
+~
+door stone~
+1 0 4959
+S
+#4970
+An Antechamber~
+   You are standing in a very cold room.  The walls, like the floor, are
+made of obsidian slats which seem to reflect the chill that freezes the
+air around you.
+   A solid iron door stands firmly attached to the eastern wall and is
+deathly cold to the touch.  Its iron bands reinforce its strength while
+a solid handle of wrought metal stands firmly in the left center of the
+door.
+   Pausing, you catch the faintest scent of old decay and an almost
+electric sense of apprehension.
+   The only other exit lies through the rubble to the west.
+~
+49 9 0 0 0 0
+D1
+A solid iron door rests firmly hinged to the wall.
+~
+door iron~
+1 0 4980
+D3
+Rubble blocks the passage.
+~
+~
+0 0 4960
+S
+#4971
+A Noxious Cave~
+   Molten sulfur bubbles up from the fissure floor here, suffocating you.
+The gas coming from the pool is already starting to thicken and swirl,
+following the air currents of your exhalations.
+   Death will come quickly here should you linger.
+~
+49 265 0 0 0 11
+D3
+You can escape the foul air to the west.
+~
+~
+0 0 4961
+S
+#4972
+The Top Of The Tower~
+   You are standing on the top of the black tower.  To the west, you can
+see the rest of the tower peak which stands just out of hand's reach from
+the ceiling of the cavern.
+   A few footprints have scuffed the stone on the floor here - guard tracks,
+perhaps, or maybe a curious onlooker who wished to get a better view of
+the cavern from above.
+   Looking for exits, you notice that only the west and the stairs back
+into the tower do not offer fatal falls.
+~
+49 9 0 0 0 0
+D3
+The tower continues to the west.
+~
+~
+0 0 4962
+D5
+The stairs continue below.
+~
+~
+0 0 4973
+S
+#4973
+A Stairway~
+   You are standing in a dark stairwell.  Black stone steps lead above
+you to fresher, warmer air past the stone walls that compose most of this
+tower.
+   The only other exit is through the door to the west.
+~
+49 41 0 0 0 0
+D3
+You see a door there.
+~
+door stone~
+1 0 4963
+D4
+The stairs lead up, apparently out of the tower.
+~
+~
+0 0 4972
+S
+#4974
+Tower Stairs~
+   You appear to have arrived on the tower's main floor.  As you look
+over the rail, you can see the stairs that descend over a hundred feet
+below into darkness.
+   Here, the stairs have opened onto a small landing blocked with a solid
+stone door which seems to radiate an intense, biting cold.  An iron handle,
+wrought and twisted from what appears to have been a dull blade, rests
+firmly attached to the stone, obviously meant to be pulled outward, rather
+than pushed.
+   The stone wall of the tower lies unblemished as you cast your eyes
+southward and to the east, while the gaping darkness seems to hold some
+secret as you look over the handrail to the north.
+~
+49 41 0 0 0 0
+D3
+You see a stone door.
+~
+door stone~
+1 0 4964
+D5
+The stairs descend below.
+~
+~
+0 0 4975
+S
+#4975
+Tower Stairs~
+   Reptilian footprints mar the otherwise undisturbed dust on the stairs
+here.  A few dried scales have flaked off some unknown creature as it
+molted, leaving its ovular dead skin behind.
+   The stairs wind around the tower, ascending in their circular climb
+which seems to turn southwest as you go upward.  A landing can be seen
+just west of here, still in the range of your light.
+~
+49 41 0 0 0 0
+D3
+You see a landing there.
+~
+~
+0 0 4965
+D4
+The stairs ascend above.
+~
+~
+0 0 4974
+S
+#4976
+An Acid Cistern~
+   A deep well seems to naturally erupt from the floor here, spattering
+the walls within with a sizzling acid.  The stench of sulfur is powerful
+here, no doubt an ingredient in the well's contents.
+   A tunnel trails off to the south, leading away from the acrid, stinging
+fumes that airse from the acidic pit, while a door of stone, pitted and
+etched with acid, exits this place to the west.
+~
+49 9 0 0 0 0
+D2
+The tunnel leads into darkness to the south.
+~
+~
+0 0 4977
+D3
+You see a stone door.
+~
+door stone~
+1 0 4966
+S
+#4977
+A Dark Hollow~
+   This non-descript hollow seems to have been carved out by acid washes
+over the passage of many years.  Smooth walls and curved floors form an
+almost perfect cylinder in this cave which leads south, further into
+the undermountain.
+~
+49 9 0 0 0 0
+D0
+Acidic fumes come from that direction
+~
+~
+0 0 4976
+D2
+The tunnel continues to the south.
+~
+~
+0 0 4978
+S
+#4978
+Bones And Scales~
+   You seem to have stumbled into a cemetary of some sort.  Acid-washed
+exoskeletons and scales of dead daemons litter this place, a dead-end
+in an acid-carved tunnel.
+   A small altar rests in the southern wall, obviously a carved niche
+into which a daemon skull rests, its hollow eye sockets gleaming yellow
+as it watches over the dead.
+   The only exit is to the north.
+~
+49 9 0 0 0 0
+D0
+The tunnel continues to the north.
+~
+~
+0 0 4977
+S
+#4979
+A Cavern~
+   You are walking in a high-ceilinged cavern.  No stalactites hang from
+above as these tunnels show evidence of volcanic activity which long
+since dissolved any limestone formations had they been present.
+   The tunnel continues to both the east and west, growing misty and
+clouded as you head away.
+~
+49 8 0 0 0 0
+D1
+You feel warm air coming from that direction.
+~
+~
+0 0 4989
+D3
+You see swirling gases there.
+~
+~
+0 0 4969
+S
+#4980
+Chamber Of The Pits~
+   Glyphs and magical wards adorn the smooth walls and ceiling of this
+frigid chamber.  In the floor, five shallow pits have been carved, each
+a semi-spherical bowl in which sigils have been scribed.  Power, dark
+power, radiates in this room.  
+   A single door lies in the southern wall while a small crevasse can
+be seen flawing the glyphs on the eastern wall.
+~
+49 9 0 0 0 0
+D1
+You see nothing special.
+~
+wall hidden~
+1 0 4990
+D2
+The runes above the door arch look remarkably similar to fire magick runes.
+~
+door sturdy~
+1 0 4981
+D3
+An iron door can be seen there.
+~
+door iron~
+1 0 4970
+S
+#4981
+A Burning Corridor~
+   You are standing in what could only be a volcanic vent.  Smoke and fire
+rises up from the smouldering floor, filling the air with a burning, choking 
+ash.  The walls themselves boast crystals of hot sulfur and seem to melt
+in the intense heat.
+   The corridor continues to the south, where it grows even hotter.  To the
+north however, a cold mist seeps from under the door, creating a vortex of
+roiling steam at its base.
+~
+49 13 0 0 0 11
+D0
+You can see a sturdy door to the north.
+~
+door~
+0 0 4980
+D2
+The tunnel grows into an inferno to the south.
+~
+~
+0 0 4982
+S
+#4982
+A Searing Tunnel~
+   Smoke billows from the streaming lava that bubbles and flows backwards
+into the heart of the mountain.  The eastern and western walls show strong
+signs of melting and molten sulfur drips onto the tunnel floor, creating
+a toxic gas as it splashes into the lava streams.
+   The tunnel continues to the south, though it seems to look more stable
+to the north.
+~
+49 40 0 0 0 11
+D0
+The tunnel continues to the north.
+~
+~
+0 0 4981
+D2
+The tunnel continues to the south.
+~
+~
+0 0 4983
+S
+#4983
+A Flame Geyser~
+   Bluish fire spews upward from a vent here in the floor, boring a small
+chimney in the tunnel ceiling.  Molten sulfur drips into the flame, creating
+a yellowish gas which chokes you despite your magical protection from the
+hellish elements.
+   The tunnel continues southward through the flames and northward into
+an unstable tunnel.
+~
+49 40 0 0 0 11
+D0
+The tunnel continues to the north.
+~
+~
+0 0 4982
+D2
+You see a lot of steam rising to the south.
+~
+~
+0 0 4984
+S
+#4984
+A Volcanic Chimney~
+   You stand at the top of a chimney.  Superheated air mixes with ash here
+to create a thick smoke which blinds you as you stare down into the depths 
+of the hole.  The walls, dripping with molten sulfur and other minerals,
+form rivulets into the pit that get spewed out during the updrafts from 
+below.
+   The exit of the tunnel lies to the north, where the tunnel gradually
+melts away like the southern, eastern, and wested walls here.
+~
+49 44 0 0 0 11
+D0
+You see bluish fire to the north.
+~
+~
+0 0 4983
+D5
+The chimney leads DEEP into the heart of the mountain.
+~
+~
+0 0 4985
+S
+#4985
+In The Chimney~
+   You are floating, buffeted by streams of superheated air and ash.  As
+you rise and fall, you feel that you can manipulate the currents, riding
+the cooler ones to descend into the chimney while floating on hotter ones
+to rise.
+   All around you, the walls of the chimney are scarred with a blackened
+crystal amidst the dense black rock that composes the core of the mountain.
+   Below you, you can see nothing but are aware of the occasional geyser
+of ash that disrupts the currents and spins you around.
+~
+49 44 0 0 0 11
+D4
+The top of the shaft lies in that direction.
+~
+~
+0 0 4984
+D5
+You can see nothing below you through the smoke and ash.
+~
+~
+0 0 4986
+S
+#4986
+A Volcanic Chimney~
+   Flames erupt from below you, shooting past you in yellow spears of
+light.  The walls of the shaft seem to drip inward, streaming into the
+heart of the chimney below.
+   The winds are powerful here and you find controlling your movements
+is becoming more difficult as you soar upwards on hot currents or
+plummet on cold ones.
+~
+49 44 0 0 0 11
+D4
+The chimney continues above you.
+~
+~
+0 0 4985
+D5
+The chimney continues below.
+~
+~
+0 0 4987
+S
+#4987
+A Volcanic Chimney~
+   Flames erupt from below you, shooting past you in yellow spears of
+light.  The walls of the shaft seem to drip inward, streaming into the
+heart of the chimney below.
+   The winds are powerful here and you find controlling your movements
+is becoming more difficult as you soar upwards on hot currents or
+plummet on cold ones.
+~
+49 44 0 0 0 11
+D4
+The chimney continues above you.
+~
+~
+0 0 4986
+D5
+You see a pool of magma below you.
+~
+~
+0 0 4988
+S
+#4988
+Searing Flames~
+   You are floating above a massive pool of magma.  Through the waves of
+heat, you can make out the enormous mass of fiery liquid which bubbles and
+shoots forth flames below you.
+   Oddly enough, you notice a cavern opening up below you to the south,
+just beyond the range of the pool.  The reddish glow of the magma lights
+the area in a hellish crimson.
+   Above you, ash and smoke roil in the currents of air.
+~
+49 44 0 0 0 11
+D4
+The chimney continues above you.
+~
+~
+0 0 4987
+D5
+You see the pool of magma below you.
+~
+~
+0 0 4989
+S
+#4989
+Magma Pool~
+   You are standing on the southern end of a high-walled magma pool.  A
+path here curves around the pool to the west, skirting the wall that holds
+back the molten rock.
+   The air is strangely breathable here and almost tolerable aside from 
+the constant scent of sulfur that seems to dominate the walls and floors 
+of the hellish cavern.
+~
+49 40 0 0 0 0
+D3
+A cavern leads off in that direction.
+~
+~
+0 0 4979
+D4
+The chimney of the volcano appears above you.
+~
+~
+0 0 4988
+S
+#4990
+A Shaft~
+   A cold mist rises from a deep shaft here which leads deep into the
+base of the mountain.  Screams and shouts of agony whisper their faint
+torments on the vapours which brush your ears, making you wonder if you
+imagined the horrid calls of distress.
+   Above you, a single stalactite points into the shaft, standing a
+silent vigil over the frigid fog.
+~
+49 12 0 0 0 0
+D3
+The wall is smooth to the west.
+~
+wall secret~
+1 0 4980
+D5
+You see nothing, not even a bottom, in the deep shaft.
+~
+~
+0 0 4991
+S
+#4991
+A Shaft~
+   You can hear nothing as you negotiate the powerful air currents which
+scream past your ears.  Your clothes, wet with the cold mist which rises
+from within the shaft, cling to you, freezing you as the moisture in the
+sodden fabric rubs into your skin.
+   The walls of the shaft are smooth and slick with water, making purchase
+impossible.
+   Staring down, you notice a faint glow.  A pale, almost sickly, blue
+light seems to radiate from deep within the shaft below you.
+~
+49 41 0 0 0 9
+D4
+You can see the top of the shaft there.
+~
+~
+0 0 4990
+D5
+The shaft continues below.
+~
+~
+0 0 4992
+S
+#4992
+Deep Within The Shaft~
+   You are quite literally several hundred feet below the top of the shaft.
+Drenched with moisture, you stare below and notice the faint blue glow 
+growing larger as yellow tendrils of mist swirl around the light below.
+   The wet walls prevent you from getting a foothold in any direction.  
+You can only travel up or down the shaft.
+~
+49 12 0 0 0 9
+D4
+The sharf continues, growing darker above.
+~
+~
+0 0 4991
+D5
+The glow grows stronger below you.
+~
+~
+0 0 4993
+S
+#4993
+Deep Within The Shaft~
+   You are surrounded by a yellowish mist which sems to drag you down
+toward the bluish light.  The sky-coloured luminescence seems to grow
+a sickly green as you descend and the stench of sulfur begins to mix
+with the ozone scent of the surronding mist.
+   You are easily a quarter mile or more from the top of the shaft and
+judging from the congealing moisture on the shaft walls, you have the
+odd sensation that you are no longer within the mountain.
+   You can descend toward the greenish light or ascend toward the 
+dark top of the shaft.
+~
+49 12 0 0 0 9
+D4
+The shaft grows darker as you stare above you.
+~
+~
+0 0 4992
+D5
+The light glows more pale below.
+~
+~
+0 0 4994
+S
+#4994
+Blood Runs Red~
+   You are fighting turbulent air currents as you travel this vertical
+shaft.  The wet walls, once slick with cold moisture, seem to drip with
+a bloodlike liquid, as though the sides of the shaft themselves were 
+bleeding from the abusive wind currents that shoot upwards from the
+putrid greenish glow below.
+   Tendrils of foul-smelling mist wind and twist around you, somehow
+still cohesive despite the strong constant air currents from below.
+   You can continue up or down the tunnel.
+~
+49 12 0 0 0 9
+D4
+You see the shaft extend upwards.
+~
+~
+0 0 4993
+D5
+The glow grows slightly stronger below you.
+~
+~
+0 0 4995
+S
+#4995
+Blistering Cold~
+   Frozen red liquid hangs in slanted streaks on the shaft walls, victim to
+the gusts which blast from the sickly yellow-green light below.  The misty
+tendrils are still writhing here, oblivious to the winds and to your touch
+as you pass through them.
+   The glow beneath you turns pale yellow as you grow closer to it.
+   Examining your options, you know that you are half a mile below the
+top of the shaft which is far out of sight in the darkness above you.
+Below you, you can see the mists swirl and you catch a strong scent of
+sulfur.
+~
+49 12 0 0 0 9
+D4
+You see the shaft continue upward into darkness and mist.
+~
+~
+0 0 4994
+D5
+The pit continues below.
+~
+~
+0 0 4996
+S
+#4996
+Blood Ice~
+   The reddish ooze on the shaft walls have frozen into a blood-coloured
+ice here tinting the yellowish tendrils to an ethereal orange.  Below you,
+perhaps a half mile or more, the swirling, pulsing glow grows more intense.
+Already, the sickly fog is becoming more luminous, changing into a bright
+yellowish ochre.
+   The shaft continues upwards, far out of sight and descends into frigid
+winds below you.
+~
+49 44 0 0 0 9
+D4
+The top of the shaft is over half a mile away up there.
+~
+~
+0 0 4995
+D5
+The shaft grows colder as you descend.
+~
+~
+0 0 4997
+S
+#4997
+Blood Mist~
+   The ethereal wisps glow with a deep burgundy color as they surround you,
+chilling you with icy fangs.  The walls of the shaft, encrusted with an 
+icy blood-coloured rime, seem to fluoresce with the illumination from
+below.
+   Above you, perhaps a mile or more, the top of the shaft lies far out of 
+sight and reach.  Below you, the burgundy mists seem to solidify and you
+can swear you hear faint shrieks of pain coming from them.
+~
+49 44 0 0 0 9
+D4
+The shaft continues above you.
+~
+~
+0 0 4996
+D5
+Whispers of pain come from below.
+~
+~
+0 0 4998
+S
+#4998
+Eternal Screams~
+   Just below you lies an enormous circular field of light.  Swirls of
+luminescent pink swim with and consume streaks of blood crimson as
+wispy tendrils of yellow mist take vague shape here.
+   Around you, the tentacle-like wisps form humanoid faces, each one
+gaping a soft, near-silent scream as it escapes from the light below.
+   The cold here is unbearable and you are quickly losing feeling in your
+extremeties.  Below you, the circle of light mesmerizes you and invites
+you closer, though above you, the shaft grows warmer and seems far less
+dangerous.
+~
+49 44 0 0 0 9
+D4
+The shaft entrance lies far above you.
+~
+~
+0 0 4997
+D5
+You can see nothing but a swirling circle of light below you.
+~
+~
+0 0 4999
+S
+#4999
+The Gate~
+   Ethereal beings are trying to escape out of this multi-coloured rift.
+Clearly, the pain on their transparent faces is all that needs to be seen
+to know that travelling through the rift is much more costly than a simple
+jaunt through the lights.
+   From below the rift, you can feel a frigid cold pass though the field
+of light, as though a glacier was housed beneath it.  The being seem to be
+anxious to escape more than the cold however, judging by the looks of mixed
+terror and relief as they soar past you.
+~
+49 44 0 0 0 9
+D4
+The shaft continues upwards.
+~
+~
+0 0 4998
+S
+$~

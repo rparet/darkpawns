@@ -1,0 +1,119 @@
+#14500
+black horn doom~
+a great, black horn~
+A great black horn is laying here.~
+~
+12 65626 0 0 0 16385 0 0 0
+0 0 0 0
+9 5500 100.00
+A
+19 2
+A
+26 -5
+A
+1 2
+A
+6 -3
+#14501
+glass jar~
+a glass jar~
+A glass jar has been left here.~
+~
+12 65608 0 0 0 16385 0 0 0
+0 0 0 0
+2 5500 5500
+E
+jar glass~
+It's a normal sized jar, with a large cork for a lid.
+~
+#14502
+mirror~
+a large mirror~
+A large, golden-bordered mirror is standing here.~
+~
+12 80 0 0 0 0 0 0 0
+0 0 0 0
+90 0 0.00
+#14503
+broken mirror~
+a broken mirror~
+A broken mirror is standing here, destroyed forever.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#14504
+mirror~
+a huge mirror~
+A huge mirror with an intricately carved border is standing here.~
+~
+12 80 0 0 0 0 0 0 0
+0 0 0 0
+200 0 5500
+#14531
+ivory amulet~
+an ivory amulet~
+A small ivory amulet in the form of a lion is lying here.~
+~
+8 15220736 0 0 0 5 0 0 0
+0 0 0 0
+1 2000 20.00
+A
+24 -5
+A
+19 1
+A
+1 1
+A
+12 -50
+#14532
+shield zebra skin targe~
+a zebra-skin covered targe~
+A small shield lies here.~
+~
+15 145502208 0 0 0 513 0 0 0
+5 5 -1 0
+8 1000 50.00
+E
+shield~
+It's made from zebra skin-covered wood.
+~
+A
+17 -6
+#14533
+morion black~
+a black morion~
+A smooth, black faceplate is here.~
+~
+9 110666256 0 0 0 131073 0 0 0
+20 0 0 0
+1 3000 20.00
+A
+27 10
+A
+29 10
+A
+29 18
+#14534
+cape quicksilver~
+a flowing, quicksilver cape~
+A puddle of silver lies here.~
+~
+9 512 0 0 0 1025 0 0 0
+20 0 0 0
+1 0 100.00
+A
+17 -20
+#14535
+object testin~
+a testing object~
+Testing this thing~
+~
+12 0 0 0 0 1025 0 0 0
+0 0 0 0
+1 0 100.00
+A
+29 31
+A
+26 30
+$~

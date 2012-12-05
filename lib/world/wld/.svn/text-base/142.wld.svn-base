@@ -1,0 +1,555 @@
+#14201
+In the Corner of a Battlefield~
+You are in the corner of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the north and west are mountains, to the south and east lies
+the battlefield.
+~
+142 0 0 0 0 4
+D1
+~
+~
+0 0 14202
+D2
+~
+~
+0 0 14206
+S
+#14202
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the north are mountains, and the battlefield lies in the other
+directions.
+~
+142 0 0 0 0 4
+D1
+~
+~
+0 0 14203
+D2
+~
+~
+0 0 14207
+D3
+~
+~
+0 0 14201
+S
+#14203
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the north are mountains, and the battlefield lies in the other
+directions.
+~
+142 0 0 0 0 4
+D1
+~
+~
+0 0 14204
+D2
+~
+~
+0 0 14208
+D3
+~
+~
+0 0 14202
+S
+#14204
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the north are mountains, and the battlefield lies in the other
+directions.
+~
+142 0 0 0 0 4
+D1
+~
+~
+0 0 14205
+D2
+~
+~
+0 0 14209
+D3
+~
+~
+0 0 14203
+S
+#14205
+In the Corner of a Battlefield~
+You are in the corner of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage to the warriors fighting in the
+battlefield.
+~
+142 0 0 0 0 4
+D2
+~
+~
+0 0 14210
+D3
+~
+~
+0 0 14204
+S
+#14206
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the west are mountains, and the battlefield lies in the other
+directions.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14201
+D1
+~
+~
+0 0 14207
+D2
+~
+~
+0 0 14211
+S
+#14207
+In the Battlefield~
+You are on a large battlefield. The ground is riddled with corpses, but there
+aren't enough to make you lose your footing during a fight, if you have
+experience in fighting, that is.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14202
+D1
+~
+~
+0 0 14208
+D2
+~
+~
+0 0 14212
+D3
+~
+~
+0 0 14206
+S
+#14208
+In the Battlefield~
+You are on a large battlefield. The ground is riddled with corpses, but there
+aren't enough to make you lose your footing during a fight, if you have
+experience in fighting, that is.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14203
+D1
+~
+~
+0 0 14209
+D2
+~
+~
+0 0 14213
+D3
+~
+~
+0 0 14207
+S
+#14209
+In the Battlefield~
+You are on a large battlefield. The ground is riddled with corpses, but there
+aren't enough to make you lose your footing during a fight, if you have
+experience in fighting, that is.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14204
+D1
+~
+~
+0 0 14210
+D2
+~
+~
+0 0 14214
+D3
+~
+~
+0 0 14208
+S
+#14210
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the east are mountains, and the battlefield lies in the other
+directions.
+~
+142 8 0 0 0 4
+D0
+~
+~
+0 0 14205
+D2
+~
+~
+0 0 14215
+D3
+~
+~
+0 0 14209
+S
+#14211
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the west are mountains, and the battlefield lies in the other
+directions.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14206
+D1
+~
+~
+0 0 14212
+D2
+~
+~
+0 0 14216
+S
+#14212
+In the Battlefield~
+You are on a large battlefield. The ground is riddled with corpses, but there
+aren't enough to make you lose your footing during a fight, if you have
+experience in fighting, that is.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14207
+D1
+~
+~
+0 0 14213
+D2
+~
+~
+0 0 14217
+D3
+~
+~
+0 0 14211
+S
+#14213
+The Center of the Battlefield~
+You are standing in the center of the battlefield. From this point you can see
+what's happening in every direction. For some reason the ground here isn't
+blood-soaked, and there's a silver plaque imbedded into the ground.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14208
+D1
+~
+~
+0 0 14214
+D2
+~
+~
+0 0 14218
+D3
+~
+~
+0 0 14212
+E
+writing bronze~
+Thou that dost conquer all thine enemies shalt aquire Nimos' Blessing.
+~
+E
+plaque silver~
+It's a silver plaque with some bronze writing on it.
+~
+S
+#14214
+In the Battlefield~
+You are on a large battlefield. The ground is riddled with corpses, but there
+aren't enough to make you lose your footing during a fight, if you have
+experience in fighting, that is.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14209
+D1
+~
+~
+0 0 14215
+D2
+~
+~
+0 0 14219
+D3
+~
+~
+0 0 14213
+S
+#14215
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the east are mountains, and the battlefield lies in the other
+directions.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14210
+D2
+~
+~
+0 0 14220
+D3
+~
+~
+0 0 14214
+S
+#14216
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the west are mountains, and the battlefield lies in the other
+directions.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14211
+D1
+~
+~
+0 0 14217
+D2
+~
+~
+0 0 14221
+S
+#14217
+In the Battlefield~
+You are on a large battlefield. The ground is riddled with corpses, but there
+aren't enough to make you lose your footing during a fight, if you have
+experience in fighting, that is.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14212
+D1
+~
+~
+0 0 14218
+D2
+~
+~
+0 0 14222
+D3
+~
+~
+0 0 14216
+S
+#14218
+In the Battlefield~
+You are on a large battlefield. The ground is riddled with corpses, but there
+aren't enough to make you lose your footing during a fight, if you have
+experience in fighting, that is.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14213
+D1
+~
+~
+0 0 14219
+D2
+~
+~
+0 0 14223
+D3
+~
+~
+0 0 14217
+S
+#14219
+In the Battlefield~
+You are on a large battlefield. The ground is riddled with corpses, but there
+aren't enough to make you lose your footing during a fight, if you have
+experience in fighting, that is.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14214
+D1
+~
+~
+0 0 14220
+D2
+~
+~
+0 0 14224
+D3
+~
+~
+0 0 14218
+S
+#14220
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the east are mountains, and the battlefield lies in the other
+directions.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14215
+D2
+~
+~
+0 0 14225
+D3
+~
+~
+0 0 14219
+S
+#14221
+In the Corner of a Battlefield~
+You are in the corner of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the west and south are mountains, to the north and east lies
+the battlefield.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14216
+D1
+~
+~
+0 0 14222
+S
+#14222
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the south are mountains, and the battlefield lies in the other
+directions.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14217
+D1
+~
+~
+0 0 14223
+D3
+~
+~
+0 0 14221
+S
+#14223
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the south are mountains, but you think you can make out some
+sort of trail leading through them. The battlefield is in the west, north and
+east.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14218
+D1
+~
+~
+0 0 14224
+D2
+~
+~
+0 0 14151
+D3
+~
+~
+0 0 14222
+S
+#14224
+On the Edge of a Battlefield~
+You are on the edge of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the south are mountains, and the battlefield lies in the other
+directions.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14219
+D1
+~
+~
+0 0 14225
+D3
+~
+~
+0 0 14223
+S
+#14225
+In the Corner of a Battlefield~
+You are in the corner of a large battlefield. Piles of corpses have been left
+here so as not to make a disadvantage for the warriors who fight in the
+battlefield. To the east and south are mountains, to the north and west lies
+the battlefield.
+~
+142 0 0 0 0 4
+D0
+~
+~
+0 0 14220
+D3
+~
+~
+0 0 14224
+S
+#14299
+Nevyn's Room~
+You are in an unfinished room.
+~
+142 4 0 0 0 0
+S
+$~

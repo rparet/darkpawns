@@ -1,0 +1,331 @@
+#15100
+quagga male carve_meat~
+a quagga~
+A quagga stands here grazing contentedly, eyes wary of predators.
+~
+A horse-like animal with zebra stripes on his forequarters and solid
+colorings on his haunches, the quagga keeps a wary eye out for predators.
+While he is an herbivore, his sharp hooves can be deadly to attackers.       
+~
+1048776 0 0 0 8388608 0 0 0 0 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 1
+BareHandAttack: 10
+E
+#15101
+quagga female carve_meat~
+a quagga~
+A quagga stands here grazing contentedly, ears cocked listening for predators.
+~
+A horse-like animal with zebra stripes on her forequarters and solid
+colorings on here haunches, the quagga stops often and listens intently 
+for predators. While normally a peaceful creature, her sharp hooves can
+be dangerous when defending herself.
+
+~
+1048776 0 0 0 8388608 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 2
+BareHandAttack: 10
+E
+#15102
+quagga baby carve_meat~
+a quagga~
+A young quagga frolicks here, unaware of the dangers.
+~
+A horse-like animal with zebra stripes on her forequarters and solid
+colorings on her haunches, the quagga has no idea how nasty the world
+can be. If she's lucky, she will survive and learn.
+
+~
+1048776 0 0 0 8388608 0 0 0 0 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 2
+E
+#15103
+marmot~
+the marmot~
+A marmot is here, turning the plains into swiss cheese.
+~
+Short, squat, and furry, what more do you wanna see.  These burrowing little
+rodents trust no one. As you approach they chitter endlessly until you go
+away.
+
+~
+1048776 0 0 0 8388608 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+E
+#15104
+oryx carve_meat~
+an oryx~
+The oryx is here, munching placidly on the grassy plains.
+~
+A member of the antelope family, the oryx has a slim, sleek body built for
+speed and long, sharp, curving horns that could run you through and extend
+out the other side of your body. Good thing for you the orxy is a peaceful
+creature.
+
+~
+1048776 0 0 0 1024 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 11
+E
+#15105
+okapi carve_meat~
+the okapi~
+The okapi stands here, munching on a nice cud of leaves.
+~
+A near cousin to a giraffe, the okapi is much shorter and is minus the extra
+long neck. Gee, it looks kinda cute.
+
+~
+1048776 0 0 0 1024 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 5
+E
+#15106
+ocelot~
+an ocelot~
+An ocelot crouches here, looking for a nice afternoon meal.
+~
+The ocelot appears to be feline, with a tawny-grayish or yellow coat with 
+black spots. It looks like it is built for speed and as it hisses at you, 
+it looks like they don't care to share their meal.
+
+~
+1048696 0 0 0 394240 0 0 0 0 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 0
+BareHandAttack: 8
+E
+#15107
+giant land tortoise~
+a giant tortoise~
+A giant land tortoise is here, mowing an inexorable path across the plains.
+~
+Huge, highly armored, and extremely ponderous. The word Dreadnought comes
+to mind. You can't help but wonder how long it takes these things to cross
+the plains.
+
+~
+1048652 0 0 0 1024 0 0 0 0 E
+11 9 -1 11d5+120 7d4+7
+0 7500
+8 8 0
+BareHandAttack: 4
+E
+#15108
+vulture~
+the vulture~
+The vulture sits here, obsidian eyes glittering at the prospect of dinner.
+~
+Lanky and un-coordinated, yet powerful in its own right, the vulture will
+eat anything ... as long as it's dead. Its great hooked beak is capable of
+rending large gobbits or flesh, alive or dead. Dying around one of these
+guys probably wouldn't be a good idea.
+
+~
+1050840 0 0 0 67239936 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+BareHandAttack: 4
+E
+#15109
+blesbok carve_meat~
+a blesbok~
+A blesbok feeds here, ready to bolt at the first sign of danger.
+~
+Similar to an antelope, it has long curved horns and a white face. Somehow,
+you get the impression this creature is an important part of the lower
+food chain.
+
+~
+1048776 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 0
+E
+#15110
+emu~
+an emu~
+An emu stands here, looking lost.
+~
+A tall thin-legged bird with a plump round upper body, the emu is a
+relative of the ostrich.
+
+~
+1048776 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 0
+BareHandAttack: 5
+E
+#15111
+peccary carve_meat~
+a peccary~
+The peccary roots here, looking for truffles.
+~
+Short, squat, and covered with thick black bristles, the peccary is of a
+porcine nature.
+
+~
+1048776 0 0 0 1024 0 0 0 0 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 0
+BareHandAttack: 10
+E
+#15112
+cacomistle~
+a cacomistle~
+A cacomistle searches through the grass, looking for baubles.
+~
+Sort of a cross between perhaps a possum and a raccoon, the cacomistle loves
+shiny objects and will hoard them whenever found.
+
+~
+1048780 0 0 0 1024 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+BareHandAttack: 4
+E
+#15113
+devil dog devil-dog~
+a devil-dog~
+A devil-dog prowls here, looking for an easy kill.
+~
+Covered in mangy yellow fur with a black face and snout, these dogs are 
+wild and malicious, fearful of nothing. They have baleful red eyes, which
+commoners took be be a sign of evil, hence their name devil dogs.
+
+~
+1050744 0 0 0 132096 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+BareHandAttack: 4
+E
+#15114
+pantaur~
+a pantaur~
+An imposing pantaur stands here, leaning on a wicked-looking spear.
+~
+Wearing no clothes, this cat centaur has only a pouch slung across his back
+and a wicked-looking spear with a worked metal head. His upper torso is
+vaguely human, with the features of a panther's eyes, ears, and fur.
+You get the feeling they like to run just for the feel of it.
+~
+1128776 0 0 0 136328 0 0 0 500 E
+12 8 -2 12d5+130 8d4+8
+100 9000
+8 8 1
+BareHandAttack: 11
+E
+#15115
+cat centaur~
+a cat centaur~
+A cat centaur stands here, one hand on a hip, the other holding a spear.
+~
+Wearing no clothes, the cat centaur only has a satchel slung across one
+shoulder and a wicked looking spear in one hand. A fully human upper torso, 
+and emphatically female at that, with a lower torso of a great cat. She has
+a twinkle in her eyes as you try not to stare at her assets.
+
+~
+1120584 0 0 0 136328 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+100 9000
+8 8 2
+BareHandAttack: 11
+E
+#15116
+dzur~
+a dzur~
+A dzur prowls here, surveying its domain.
+~
+A large feline of stately proportions, the dzur spends most of its time
+lounging in the shade of the intermittent trees that dot the plains. The 
+statement "Living a cat's life" comes from the observations of the scholar
+Pliny, who study these great creatures for the better part of his life.
+
+~
+1050712 0 0 0 132096 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 8
+E
+#15117
+jhegaala~
+a jhegaala~
+A jhegaala crouches here, ready to pounce.
+~
+A long sleek feline, it can accelerate incredibly, taking down all sorts
+of prey with long, sharp curving claws and razor-sharp teeth.
+
+~
+1048664 0 0 0 132096 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 8
+E
+#15118
+yendi~
+a yendi~
+A yendi slithers through the grass here, looking to strike.
+~
+Mottled brown and quite long, the yendi is deadly poisonous. It paralyzes
+and kills it's victims with its poison, and then eats them.
+
+~
+1050696 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 0
+BareHandAttack: 4
+E
+#15119
+jhereg~
+a jhereg~
+A jhereg circles, reveling in the pleasures of flight, looking for dinner.
+~
+Commoners call them little dragons. Actually, they are distants cousins to
+wyrverns. Possessing sharp claws, pointed beak, and large, wide, and leathery
+wings, the jhereg prefers dead carcasses over fresh kills.
+
+~
+1048664 0 0 0 67109888 0 0 0 0 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 0
+BareHandAttack: 8
+E
+#15120
+kethna carve_meat~
+a kethna~
+A large kethna grazes here, trimming the grass to a few inches.
+~
+A large cow-like creature with backward sloping curly horns, the kethna
+would provide you with many steaks, and roasts, and filets, and ...
+
+~
+1048776 0 0 0 1024 0 0 0 0 E
+11 9 -1 11d5+120 7d4+7
+0 7500
+8 8 0
+BareHandAttack: 5
+E
+$

@@ -1,0 +1,817 @@
+#7001
+man~
+a poor man~
+A poor man stands dejected here wondering how he can feed his family.
+~
+A once proud  and strong man, now frail and afraid. He has too many children
+and no means of caring for them. You can see his spirit flickering within 
+sunken eyes if you look close enough.
+
+~
+2252 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+5 900
+8 8 1
+Race: 0
+E
+#7002
+woman~
+a poor woman~
+A haggard looking woman tends a small fire.
+~
+She looks haggard and worried. How can she make this poor soup stretch far
+enough? Little and doesn't seem to be getting better.  When will more money
+be coming in?  She looks hopelessly resigned to a life of misery.
+
+~
+204 0 0 0 0 0 0 0 100 E
+3 17 7 3d5+40 1d4+1
+2 350
+8 8 2
+Race: 0
+E
+#7003
+lotus purveyor seller~
+a lotus purveyor~
+A lotus purveyor stands here, looking to peddle more black death.
+~
+A scum of the lowest sort, one who preys upon the addictions of others.
+Dressed in an outrageouly floppy hat and multi-colored jerkin and hose,
+he grins insolently at you, knowing that you can't resist.
+
+~
+200 0 0 0 0 0 0 0 -100 E
+9 11 1 9d5+100 4d4+4
+25 4500
+8 8 1
+Race: 0
+E
+#7004
+bully~
+a young bully~
+A young bully poses here, trying to look tough.
+~
+He's young and brash, scared of everything, but can't let anyone see it.
+He'll pick a fight with smaller weaker opponents at the drop of a hat, 
+but proves spineless when the going gets tough.
+
+~
+200 0 0 0 0 0 0 0 -25 E
+5 15 5 5d5+60 3d4+2
+3 900
+8 8 1
+Race: 0
+Noise: A bully says, "Whatcha lookin' at, punk?"
+E
+#7005
+thug~
+a thug~
+A thug rests here, looking you over and trying not to be obvious.
+~
+Basically a bully grown up, but much more lethal than a bully. Still, you
+can count on the fact that when the goin gets bad, the bad will get going.
+
+~
+2248 0 0 0 0 0 0 0 -100 E
+8 12 2 8d5+90 4d4+4
+10 3500
+8 8 1
+Race: 0
+Noise: A thug eyes your belongings intently.
+E
+#7006
+assassin man young~
+a dangerous young man~
+A deadly looking young man surveys the area.
+~
+While the man is young, he appears more mature than his age would lead you
+to believe. His eyes seem to flick about the area absorbing everything. His
+attire is simple and economical. While he wears a simple short sword about
+his waist, you get the feeling from the way he stands that it would be the
+last weapon he used.
+~
+264280 0 0 0 425984 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+40 9000
+8 8 1
+Race: 0
+E
+#7007
+baby~
+a young baby~
+A young baby lies here crying.
+~
+A young baby, crying because it is hungry. It looks so helpless.
+
+~
+74 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+BareHandAttack: 4
+Race: 0
+Noise: A baby sniffs and cries out loud.
+E
+#7008
+boy dirty young~
+a dirty young boy~
+A dirty young boy hides here, totally absorbed in a game of tag.
+~
+Covered from head to toe in filth, he looks like he's having a good time 
+playing. He eyes you warily as you approach.
+
+~
+2124 0 0 0 0 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 1
+Race: 0
+Noise: A dirty boy runs around in the street.
+E
+#7009
+girl dirty young~
+a dirty young girl~
+A dirty young girl stands here, pretending to comb a doll's hair.
+~
+Like the boys playing in the streets, she's filthy dirty. She looks rather
+wary and won't even come near you. 
+
+~
+204 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 2
+Race: 0
+E
+#7010
+rat~
+a rat~
+A beady-eyed rat sits here, guarding it's loot.
+~
+A small city rat of the ring-tailed variety.
+
+~
+4168 0 0 0 1024 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Race: 15
+E
+#7011
+unstable man~
+an unstable man~
+A man stands here wearing a startled look, mumbling incomprehensible things.
+~
+By all appearances he's as nutty as can be. He wears ragged and filthy
+clothing about his rail-thin frame. By listening closely, you can sort of
+make out what he's mumbling about, something about the church is actually
+a manifestation of wargs who control the universal door to ... ???
+
+~
+88 0 0 0 8 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+5 2500
+8 8 1
+Race: 0
+E
+#7012
+boy effete~
+an effete looking young boy~
+An effete young boy hovers nearby, an anticipatory look upon his face.
+~
+A young boy, thin and slender, with golden-brown hair. He wears saffron
+colored silk breeches and shirt, with soft slippers upon his feet. He 
+hovers near the beggar king, hand resting on the hilt of a short sword.
+He watches you intently, occasionally glancing at his master, the beggar
+king.
+
+~
+4234 0 0 0 131072 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 1
+Race: 0
+E
+#7013
+boy butler~
+a timid young boy~
+A young boy stands here, dressed in the garb of a butler.
+~
+One of the youngest you've seen here, he appears to be serving as a
+butler.  Like all the others, he is slender and has blonde-brown hair.
+Unlike the others, he appears somewhat uncomfortable here.  There is a nasty
+bruise upon his left cheek and his eye is still swollen shut some.
+~
+4234 0 0 0 0 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 1
+Race: 0
+E
+#7014
+homeless man~
+a homeless man~
+A homeless man sits here looking defeated.
+~
+Looking haggard and listless, he is one of the many without shelter or
+means of supporting himself. Despite his condition, he does not appear to
+be begging for any help. Perhaps he is to proud to do that?
+
+~
+204 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 600
+6 6 1
+Race: 0
+E
+#7015
+homeless woman~
+a homeless woman~
+A homeless woman sits here, knees drawn up, a wary look upon her face.
+~
+Like the homeless men in the area, she is gaunt and lifeless. She glances
+around repetitively and rapidly, her fear plain upon her face. Despite her
+condition, she does not appear to be begging. Most strange.
+
+~
+204 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+6 6 2
+Race: 0
+E
+#7016
+dog carve_meat~
+a stray dog~
+A half-starved stray dog trots by, looking for scraps.
+~
+While its ribs show through its coat, it appears to eat better than many
+of the inhabitants of this area. Its coat is matted and filthy with large
+patches missing. Its yellowed teeth still look quite capable though.
+
+~
+200 0 0 0 131072 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+BareHandAttack: 4
+Race: 22
+Noise: You hear a dog barking.
+E
+#7017
+muskrat carve_meat~
+a muskrat~
+A filthy, dirty muskrat bares it fangs at you.
+~
+This weasel-like rodent appears to be scavenging for food.  Its claws
+are caked with dirt and dried blood.
+~
+216 0 0 0 131072 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 1
+BareHandAttack: 8
+Race: 22
+E
+#7018
+beggar man~
+a beggar~
+A beggar sits here, begging for mercy ... and money!
+~
+A despicable site, many of the beggars around here seem to be missing body
+parts. Perhaps they are old war veterans, forgotten and neglected. As you
+walk by, they plead and beg for money. Looking upon their sad state, you
+almost can't help but feel sorry for them.
+
+~
+8396 0 0 0 0 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+5 1500
+6 6 1
+Race: 0
+Noise: A beggar cries out for alms.
+E
+#7019
+druggie user man~
+a lotus user~
+A Black Lotus user sits here, eyes glazed over.
+~
+Addicted to the deadly and deteriorating Black Lotus, he sits here staring
+at a world that only he can see. A disposable pipe is held loosely in
+his grasp, a small trickle of drool streams down one cheek. They come
+in all sizes, shapes and sexes, but the end result is the same, a slow
+death as they rot from the inside out.
+
+~
+200 0 0 0 0 0 0 0 -10 E
+3 17 7 3d5+40 2d4+1
+0 350
+6 6 1
+Race: 0
+E
+#7020
+user lotus druggie~
+a passed out druggie~
+A lotus user lies here, passed out from too much lotus.
+~
+After inhaling too much Black Lotus, the body shuts down. In some cases, it
+can cease to function entirely. This is the danger of lotus, for the body
+gets weaker the more that is used, and the chance of never waking up
+increases with each hit. Impartial to all, lotus users come in all shapes
+sizes, and sex.
+
+~
+72 0 0 0 0 0 0 0 -10 E
+1 19 9 1d5+20 1d4+0
+0 100
+4 4 0
+Race: 0
+E
+#7021
+patron~
+a bar patron~
+A bar patron sits here, enjoying good food, drink, and company.
+~
+People of all sorts crowd the room, drinking, eating and talking about many
+different things. The atmosphere is relaxed, and most patrons seem to having
+an enjoyable time. 
+
+~
+74 0 0 0 0 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+10 1700
+8 8 0
+BareHandAttack: 13
+Race: 0
+E
+#7022
+richard nogin lout~
+Richard Nogin~
+A large lout is here, being obnoxious as usual.
+~
+An obnoxious sort, Richard Nogin stands at the bar telling boastful tales
+of his prowess and insulting everyone around him. He stand well over six
+and a half feet tall and has a neck as thick as most peoples thigh. This
+prolly accounts for the reason why people seem to let him get away with
+insulting them. Most people in the room seem to be studiously ignoring him.
+
+~
+2250 0 0 0 0 0 0 0 -50 E
+10 10 0 10d5+110 5d4+5
+15 6000
+8 8 1
+Race: 0
+E
+#7023
+slave mage slave-mage~
+the slave-mage~
+A sickly slave-mage is here, serving Tymora.
+~
+It is a grey skinned sickly creature with big eyes that bulge from its
+face.  The slave-mage wears a bulky collar that allows its master to keep
+its magical energies in check.
+~
+188427 0 0 0 144552 0 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+150 0
+6 6 0
+BareHandAttack: 12
+Race: 25
+E
+#7024
+beggar-king king~
+the beggar king~
+A haughty looking man dressed in silks stares at you insolently.
+~
+Like the boys surrounding him, he is dressed in fine silks of saffron colors.
+His hands are adorned with guady costume jewelry rings, his hair is oiled
+and swept back. Given his status, you would expect him to be obese, but to
+the contrary, he seems almost anemic and is very skinny. However, he lounges
+about the room with indifference, knowing full well he rules all in this
+domain.
+
+~
+18458 0 0 0 163840 0 0 0 -750 E
+13 7 -3 13d5+140 8d4+8
+500 10500
+8 8 1
+BareHandAttack: 7
+Race: 0
+E
+#7025
+courtesan woman girl~
+the beautiful courtesan~
+A beautiful and erotically clad woman smiles at you knowingly.
+~
+She wears a long kimono like dress, with a high collar and a diamond-shaped
+cutout in front to reveal some extreme curvature of cleavage. Long, painted
+fingernails adorn slender agile hands resting on her womanly hips while
+silky-lidded eyes stare at you, a half-smile pursed on full red lips. As
+you look at her, you can't help but notice the firm erect nipples protruding
+from underneath her silken dress.
+
+~
+4298 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 2
+Race: 0
+E
+#7026
+sound~
+sound 1~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+16394 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Noise: A soft moan escapes from one of the silken rooms.
+E
+#7027
+sound~
+sound 2~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+16394 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Noise: You hear a female voice moan in ecstacy.
+E
+#7028
+sound~
+sound 3~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+16394 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Noise: You hear the sounds of leather whips and chains from one of the rooms.
+E
+#7029
+sound~
+sound 4~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+16394 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Noise: You hear a curious sucking sound coming from behind a curtain.
+E
+#7030
+sound~
+sound 5~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+16394 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Noise: A faint rythmic sound emanates from somewhere behind the curtains.
+E
+#7031
+boy plain~
+a plain-clothed young boy~
+A serious looking boy in a plain grey shirt and breeches looks at you.
+~
+Small and lithe, the look upon his face belies his age. His stance is that
+of someone versed in combat. His plain and simple attire is well suited to
+this purpose as well.
+
+~
+2136 0 0 0 131072 0 0 0 -50 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 1
+Race: 0
+E
+#7032
+boy guard~
+a well muscled young man~
+A well-toned young man stands here, looking at you with a sneer.
+~
+He is the oldest of the young boys that seems to populate this place, and
+certainly the most dangerous looking. He wields a wicked looking thin-blade
+sword with which he appears to be quite comfortable and familiar with. As
+with all the others, he is light-haired and slender.
+
+~
+88090 0 0 0 655360 0 0 0 -50 E
+9 11 1 9d5+100 5d4+4
+3 4500
+8 8 1
+BareHandAttack: 11
+Race: 0
+E
+#7033
+gambler~
+a gambler~
+A gambler sits here, intent upon the game they are playing.
+~
+Occasionally smiling, sometimes distraught, they are mostly serious bunch
+intent upon losing their money gambling. While they may come out on top
+from time to time, in the long run it's the house that wins.    
+~
+2186 0 0 0 0 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+25 1700
+6 6 0
+BareHandAttack: 13
+Race: 0
+Noise: You hear the sound of a noisy dice game from a back room.
+E
+#7034
+sticks~
+Sticks~
+Sticks is here, watching the room, tapping out a rythym with his Bo sticks.
+~
+You've not seen many people who seem to enjoy their work as much as sticks.
+He wanders about sometimes, sits in a corner sometimes, but is always
+smiling and tapping out a rythym with his Bo sticks, or just whirling them
+in his hands. He looks quite capable of keeping the many patrons of the
+room in line.
+
+~
+22554 0 0 0 132264 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+50 9000
+8 8 1
+BareHandAttack: 5
+Race: 1
+E
+#7035
+bartender Padrisha woman~
+Padrisha~
+A beautiful woman stands behind the bar serving drinks.
+~
+Padrisha is a well known figure here. She is known not only for her skill
+in mixing drinks and beauty, but also for her healthful concoctions.
+Always smiling, she radiates caring and compassion. Perhaps this is one
+reason everyone in the room is so relaxed.
+~
+188427 0 0 0 1064 0 0 0 10 E
+35 -15 -25 35d5+3329 23d4+23
+0 0
+8 8 2
+Race: 0
+E
+#7036
+boy finely~
+a finely dressed young boy~
+A finely yet simply dressed young boy searches about apprehensibly.
+~
+He seems out of place here, his clothes are fine if not simple, and he is
+well manicured and clean. He seems to be searching about for something and
+given his ashen color, the biting of his lip, and the scared look in his
+eyes, he seems quite afraid of something.
+
+~
+200 0 0 0 131072 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 1
+Race: 0
+E
+#7037
+cook woman gourmet~
+a gourmet cook~
+A cook stands here, cleaver in hand and chefs hat listing hard to starboard.
+~
+Beads of sweat dot her brow and her cheeks are ruddy. She wear a funky set
+of multi-colored pants and a much stained double-breasted chefs smock. As
+you stand there oogling, her brows knit together into a scowl.
+
+~
+218 0 0 0 0 0 0 0 25 E
+10 10 0 10d5+110 5d4+5
+10 6000
+8 8 2
+BareHandAttack: 10
+Race: 0
+E
+#7038
+hooded figure Ruar bishop~
+a hooded figure~
+A cloaked and hooded figure sits here, half-hidden in the semi-darkness.
+~
+Looking closely, you are fairly certain that this figure is a man, though
+it is impossible to tell for sure.  As you turn away, the figure leans forward
+a bit and look to the end of the table.  As they do this, the light
+highlights their face for a brief moment.  Your eyes must be deceiving
+you though, it looked like the Bishop Ruar Thelion! Impossible!
+~
+18586 0 0 0 32772 0 0 0 -50 E
+12 8 -2 12d5+130 8d4+8
+100 9000
+6 6 1
+Race: 0
+E
+#7039
+hooded figure~
+a hooded figure~
+A cloaked and hooded figure sits here, half-hidden in the semi-darkness.
+~
+It is hard to see in this room and all the people surrounding the table are
+wearing full cloaks, all alike, and have the hood drawn up. You cannot tell
+with any certainty the sex of the person. Looking around at the figures, they
+all look alike except for subtle differences such as hands and tell-tale
+mustaches. This person has their back to you, so you have no idea as to their
+identity.
+
+~
+16474 0 0 0 0 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+6 6 0
+Race: 0
+E
+#7040
+gargoyle~
+a marble gargoyle~
+A hard, marble gargoyle sits here impassively.
+~
+Skillfully carved, the gargoyle seems almost alive. As you step closer, you
+realize it is alive!
+~
+57434 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 8
+Race: 25
+E
+#7041
+bush~
+a dead bush~
+A withered and skeletal looking bush is planted here.
+~
+Seemingly dead, the plant is far from that. It is the deadly grave-root, so
+named for the duality of it's nature. The plant itself is deadly both for
+its toxins as well as its aggressive nature. It feeds itself from the 
+decaying corpse of living things. Despite the deadly nature of this plant,
+the root is just the opposite, know for its healing.
+~
+57402 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 0
+BareHandAttack: 2
+Race: 17
+E
+#7042
+hooded figure glynwyn warrior~
+a hooded figure~
+A cloaked and hooded figure sits here, half-hidden in the semi-darkness.
+~
+Scanning quickly now, you see this person is also male. The bushy beard and 
+broad facial features indicates that this is probably Glynwyn Babcockson, a
+high level member of the Warriors guild. What would he be doing in such
+company?
+
+~
+16458 0 0 0 163840 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+100 9000
+8 8 1
+BareHandAttack: 3
+Race: 0
+E
+#7043
+hooded figure alyssa assassin~
+a hooded figure~
+A cloaked and hooded figure sits here, half-hidden in the semi-darkness.
+~
+As your eyes begin to adjust to the dim light, they travel to the next person.
+The sharp angular face of Master Assassin Alyssa Tomis. Unlike the rest, her
+hood is slightly back and she wears a slight smile upon her face. She is as
+beautiful as the stories say she is ... and probably as deadly!
+
+~
+90 0 0 0 425984 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+100 10500
+8 8 2
+BareHandAttack: 11
+Race: 0
+E
+#7044
+hooded figure srali magus~
+a hooded figure~
+A cloaked and hooded figure sits here, half-hidden in the semi-darkness.
+~
+Glancing quickly now to the opposite side of the table, you quickly identify
+Srali Modesta, Magus of the inner circle and high ranking Mages Guild member.
+This is certainly strange company! There appears to be some documents
+scattered about the table, but you can't quite make out what they might be of.
+
+~
+202 0 0 0 1064 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+100 9000
+8 8 1
+BareHandAttack: 12
+Race: 0
+E
+#7045
+hooded figure merchant~
+a hooded figure~
+A cloaked and hooded figure sits here, half-hidden in the semi-darkness.
+~
+Withdrawn into the depths of the shadows around their chair, this figure is 
+impossible to accurately identify. As you start to look to the next person,
+you see the glint of a ring. It's a signet from the Merchant's guild! By the 
+blood, they are outspoken opponents of the Church's power! Yet here they sit
+with a ranking member of the Theocracy!
+
+~
+18650 0 0 0 32768 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+100 6000
+8 8 0
+BareHandAttack: 13
+Race: 0
+E
+#7046
+hooded figure Avrie trader~
+a hooded figure~
+A cloaked and hooded figure sits here, half-hidden in the semi-darkness.
+~
+Sitting at the edge of the light, you discern that this is Avrie Soernsin,
+head of the lesser know, and lesser powerful, Trader's Guild. Avrie managed a 
+spin off from the main Merchant's Guild to establish the Trader's Guild. He
+fidgits nervously in his seat.
+~
+16602 0 0 0 167936 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+100 6000
+8 8 1
+BareHandAttack: 5
+Race: 0
+E
+#7047
+hooded figure artisan~
+a hooded figure~
+A cloaked and hooded figure sits here, half-hidden in the semi-darkness.
+~
+Glancing back across the table you see Lady Sophie, as she likes to be called,
+Master Artisan of the Arts & Crafts Guild. Unlike most of the rest, she 
+ignores your presence and continues to read something. Is that a map of the
+city on the table in front of her?
+
+~
+202 0 0 0 32768 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+100 6000
+8 8 2
+Race: 0
+E
+#7048
+hooded figure unknown~
+a hooded figure~
+A cloaked and hooded figure sits here, half-hidden in the semi-darkness.
+~
+Finally looking to the end of the table sits an unknown figure, fully 
+withdrawn into the shadows surrounding his chair. You can discern nothing of 
+their identity. Judging by the size of the figure sitting, they must be well
+over six feet tall. Thinking hard, you try to place them in this who's who of
+power figures from Kir Draxin's upper eschelon. You hear someone clear their
+throat.  Perhaps you'd best leave now.
+~
+374794 0 0 0 140328 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+200 10500
+8 8 0
+BareHandAttack: 9
+Race: 7
+E
+#7049
+jasper withrold scribe~
+Jasper Withrold~
+Jasper Withrold, Scribe to His Holiness putters about here.
+~
+Small and anemic, Jasper is typical of most scribes. The term bookish comes
+to mind when envisioning him. His pinched features and hawk nose make him
+a rather distinctive individual. Combined with his outlandishly ornate
+emerald colored robes, you doubt Jasper could hide if he wanted to.
+
+~
+8392 0 0 0 36864 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+30 6000
+8 8 1
+Race: 1
+E
+$

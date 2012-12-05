@@ -1,0 +1,504 @@
+#16300
+Guard Barracks~
+   You are in the foyer of the barracks of the city guard.  A pair of
+large iron-bound oak doors lead south into a room marked "Training area".
+A large board with several recruitment posters hangs on the eastern wall
+above a small wooden desk.  The rest of the barracks are off-limits to
+civilians such as yourself.
+~
+163 76 0 0 0 0
+D1
+~
+~
+0 0 8102
+D2
+~
+door doors~
+1 0 16301
+E
+south~
+There is a door that leads in to the training centre.
+~
+E
+posters~
+The posters are propaganda from the Cross encouraging all able male citizens
+to serve in the guard as their public duty.  
+~
+S
+#16301
+The New Recruit Training Area~
+   Several people are wandering around here, obviously new recruits 
+waiting to be sent into training for the city guard. The large open
+area extends to the east. A large set of oak doors is to the north.
+~
+163 12 0 0 0 0
+D0
+~
+doors door~
+1 0 16300
+D1
+~
+~
+0 0 16302
+S
+#16302
+The New Recruit Training Area~
+   Several people are wandering around here, obviously new recruits
+waiting to be sent into training for the city guard. The large open
+area extends to the west and north where a wide stairway descends to
+another level.
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16303
+D3
+~
+~
+0 0 16301
+S
+#16303
+The New Recruit Training Area~
+   Several people are wandering around here, obviously new recruits
+waiting to be sent into training for the city guard.  The large open
+area extends to the south, and a wide stairway leads down into the
+guard training centre here.
+~
+163 8 0 0 0 0
+D2
+~
+~
+0 0 16302
+D5
+~
+~
+0 0 16304
+S
+#16304
+Kir Drax'in Guard Basic Training - Level One~
+   Several recruits dressed in grey outfits with "trainee" stenciled on the
+back are being trained in basic procedures here.  A wide stairway leads up
+to the recruitment centre here.  The open training area extends to the west
+and south.
+~
+163 8 0 0 0 0
+D2
+~
+~
+0 0 16305
+D3
+~
+~
+0 0 16307
+D4
+~
+~
+0 0 16303
+S
+#16305
+Kir Drax'in Guard Basic Training - Level One~
+   Several recruits dressed in grey outfits with "trainee" stenciled on the
+back are being trained in basic procedures here. The training area extends
+to the west and north from here.
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16304
+D3
+~
+~
+0 0 16306
+S
+#16306
+Kir Drax'in Guard Basic Training - Level One~
+   Several recruits dressed in grey outfits with "trainee" stenciled on the
+back are being trained in basic procedures here. The training area extends
+to the east and north. A wide stairway descends to another level here.
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16307
+D1
+~
+~
+0 0 16305
+D5
+~
+~
+0 0 16308
+S
+#16307
+Kir Drax'in Guard Basic Training - Level One~
+   Several recruits dressed in grey outfits with "trainee" stenciled on the 
+back are being trained in basic procedures here. The training area extends
+to the east and the south.
+~
+163 8 0 0 0 0
+D1
+~
+~
+0 0 16304
+D2
+~
+~
+0 0 16306
+S
+#16308
+Kir Drax'in Guard Basic Training - Level Two~
+   This is the northwest corner of the second level of the training centre.
+A flight of stairs leads back up to level one, and the second level extends 
+to your south and east.  The trainees on this level wear white outfits and
+practice the basics of hand-to-hand combat.
+~
+163 8 0 0 0 0
+D1
+~
+~
+0 0 16309
+D2
+~
+~
+0 0 16311
+D4
+~
+~
+0 0 16306
+S
+#16309
+Kir Drax'in Guard Basic Training - Level Two~
+  This is the northeast corner of the second level.  Men in white outfits 
+practice hand-to-hand combat here, assisted by large, burly instructors.  
+The level extends to your south and west.
+~
+163 8 0 0 0 0
+D2
+~
+~
+0 0 16310
+D3
+~
+~
+0 0 16308
+S
+#16310
+Kir Drax'in Guard Basic Training - Level Two~
+   This is the southeast corner of the second level of the centre, a flight
+of stone step leads down to the third level here.  The rest of the second
+level is to the northwest, but all there is is open space with trainees in
+white jumpsuits practicing hand-to-hand combat on straw mats which have
+been placed on the floor.
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16309
+D3
+~
+~
+0 0 16311
+D5
+~
+~
+0 0 16312
+S
+#16311
+Kir Drax'in Guard Basic Training - Level Two~
+   This is a corner of the second level of the guard training centre, where 
+men in white jumpsuits practice beating each other up with their hands.  You
+imagine that this is pretty good practice for the real world, unless their
+assailant is armed, of course.
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16308
+D1
+~
+~
+0 0 16310
+S
+#16312
+Kir Drax'in Guard Basic Training - Level Three~
+   You stand at the bottom of stone steps which lead up to the second
+level.  The third level of the training centre stretches out to your
+southwest, with trainees in green outfits practicing combat with the
+typical standard-issue Kir Drax'in Guard sabers.  You notice that the
+sabers appear to have been dulled; they are clearly not meant to wound
+the opponent, mortally or otherwise.
+~
+163 8 0 0 0 0
+D2
+~
+~
+0 0 16315
+D3
+~
+~
+0 0 16313
+D4
+~
+~
+0 0 16310
+S
+#16313
+Kir Drax'in Guard Basic Training - Level Three~
+   This is the northwest corner of the third level of the training centre.  
+All around you, men in green armor attempt to slice one another with ill-
+manufactured weaponry.  You notice, however, that some of the sabers are
+sharp enough to cut, judging by the minor gashes on some of the men.
+   These guys must be pretty serious about serving in the guard to go 
+through this kind of exercise.
+~
+163 8 0 0 0 0
+D1
+~
+~
+0 0 16312
+D2
+~
+~
+0 0 16314
+S
+#16314
+Kir Drax'in Guard Basic Training - Level Three~
+  This is the southwest corner of the third level.  Here, a flight of stone 
+steps leads down to level four, where you can hear the loud clanging of 
+what sounds like real combat.  The third level extends to your northeast, 
+amid a sea of green-armored trainees.
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16313
+D1
+~
+~
+0 0 16315
+D5
+~
+~
+0 0 16316
+S
+#16315
+Kir Drax'in Guard Basic Training - Level Three~
+   This is the southeast corner of the third level.  Many trainees in green 
+armor battle each other with sabers, while being instructed in the finer
+points of bladed combat by large officers whose duty it is to train new
+recruits.  The third level extends to your northwest.
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16312
+D3
+~
+~
+0 0 16314
+S
+#16316
+Kir Drax'in Guard Basic Training - Level Four~
+   This is the beginning of the fourth level of the guard training center, a 
+flight of stairs leads back up to level three here.  This level seems to have 
+split the men from the boys; you notice that all the recruits here seem to be
+bigger and tougher looking than those on the floors above.  Their training
+must be close to complete.  This level extends to the southeast.
+~
+163 8 0 0 0 0
+D1
+~
+~
+0 0 16318
+D2
+~
+~
+0 0 16317
+D4
+~
+~
+0 0 16314
+S
+#16317
+Kir Drax'in Guard Basic Training - Level Four~
+   This is the southwest corner of the fourth level of the Kir Drax'in Guard 
+training centre.  This level is much the same as the ones above, except that
+the men here are wearing brown armor are seem much more vicious than the
+ones on the floors above.  These guys almost look like they could be members
+of the church guard.
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16316
+D1
+~
+~
+0 0 16319
+S
+#16318
+Kir Drax'in Guard Basic Training - Level Four~
+   You stand in the northeast corner of the fourth floor.  All around you, 
+men in brown armor are gritting their teeth in combat against one another,
+using the standard weaponry of the church guard: polearms and sabers. The
+sabers are pretty dull, of course, but the polearms look like they hurt,
+and make a sickening smacking sound when they connect with one of their
+opponents heads.  The fourth floor extends to your southwest.
+~
+163 8 0 0 0 0
+D2
+~
+~
+0 0 16319
+D3
+~
+~
+0 0 16316
+S
+#16319
+Kir Drax'in Guard Basic Training - Level Four~
+   This is the southeast corner of the fourth level.  There is a flight of 
+stairs leading down to what must be the fifth level, and you notice that 
+only the heartiest and strongest men are allowed to pass down them.  Maybe
+you could sneak by and see what is down there?
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16318
+D3
+~
+~
+0 0 16317
+D5
+~
+~
+0 0 16320
+S
+#16320
+The Fifth Level~
+   The walls of this room have been painted matte black, and very little 
+light reflects off them from the two large torches that barely seem to
+illuminate this room.  Occasionally, a warrior from above descends the
+stairs and enters through the doorway to the south.  However, the door
+itself is guarded by a particularly menacing guard, and you doubt he'll
+let you by if he doesn't think you are worthy.  Above the door there is
+an inscription that reads: "Indoctrination Centre".
+~
+163 8 0 0 0 0
+D2
+~
+~
+0 0 16321
+D4
+~
+~
+0 0 16319
+S
+#16321
+The Indoctrination Centre~
+   This is apparently where the trainees become fully inducted in to the 
+Kir Drax'in Guard.  There are trainees waiting in line to receive their
+standard issue weapons to the east, and their armor to the west. The 
+main centre extends to the south, and to the north through a heavily
+guarded doorway.  This room is decorated with religious icons and 
+candles, and some new initiates to the guard kneel in prayer before 
+proceeding to the south.
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16320
+D1
+~
+~
+0 0 16323
+D2
+~
+~
+0 0 16324
+D3
+~
+~
+0 0 16322
+S
+#16322
+Armor Depot~
+   This is where the new members of the Kir Drax'in guard are fitted for 
+their standard issue armor.  A young priest hands out the armor to the 
+new initiates that are waiting in line. Written on the wall are the ten 
+commandments of the Kir Drax'in guard, and other religious propaganda.
+The centre continues to the east.
+~
+163 8 0 0 0 0
+D1
+~
+~
+0 0 16321
+S
+#16323
+Weapons Depot~
+   In this room a line of new guard members wait for their standard issue 
+sabers. These men have been picked out of hundreds of trainees to defend
+Kir Drax'in against the monsters of the Wyldlands.  They are chosen not
+only for their ability to fight, but for their ability to be programmed,
+zealous defenders of the church.  You sure as hell hope they are ready.
+The centre continues to the west.
+~
+163 8 0 0 0 0
+D3
+~
+~
+0 0 16321
+S
+#16324
+Indoctrination Centre~
+   This is apparently the final room in the complex, as you see the new 
+fully-armored guards of Kir Drax'in march through a stone archway and
+ascend a flight of stairs to your south.  As they pass through this room,
+a member of the clergy bestows their holy orders upon them.  You realize
+that these new guards are not just guardians of the city, but guardians
+of the church as well.
+~
+163 8 0 0 0 0
+D0
+~
+~
+0 0 16321
+D4
+It is a long, black stairwell leading god knows where.
+~
+~
+0 0 16325
+S
+#16325
+Guard Barracks~
+   You are inside the Barracks of the Kir Drax'in Guard, just north of the
+reception foyer.  This is apparently where the new initiates go to get their
+assignments, although it seems rather vacant right now.  As soon as you
+step out of the stairwell, some priests close and bar the door behind you,
+to prepare for the next batch of initiates.  It appears that the only
+way out is south into the reception foyer.
+~
+163 8 0 0 0 0
+D2
+The reception foyer.
+~
+~
+0 0 16300
+D5
+~
+~
+0 0 16324
+S
+$~

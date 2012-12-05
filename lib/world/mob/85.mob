@@ -1,0 +1,323 @@
+#8501
+Boofa cleric guildmaster~
+Boofa the cleric guildmaster~
+Boffa the cleric guildmaster is standing here patiently.
+~
+Young, but wise enough to teach the youngest of adventurers.
+~
+2123 0 0 0 160 0 0 0 600 E
+39 -19 -29 39d5+5661 26d4+26
+100 375000
+8 8 1
+Race: 0
+E
+#8502
+templar guildguard~
+a cleric templar~
+A young cleric templar is standing here.
+~
+He's barely old enough to shave, but you sense the protection of the
+gods on him.
+~
+2123 0 0 0 0 0 0 0 600 E
+39 -19 -29 39d5+5661 26d4+26
+150 375000
+8 8 1
+Race: 0
+E
+#8503
+sorcerer guildguard~
+the sorcerer~
+A young sorcerer is standing here.
+~
+One of the most promising students, he has been assigned to keep out
+intruders.
+~
+2123 0 0 0 0 0 0 0 600 E
+39 -19 -29 39d5+5661 26d4+26
+15 375000
+8 8 1
+Race: 0
+E
+#8504
+Lana mage magic user guildmistress~
+Lana the mage guildmistress~
+Lana the mage guildmistress is eyeing you funny.
+~
+A young lady but wise enough to teach the youngest of adventurers
+~
+2123 0 0 0 160 0 0 0 600 E
+39 -19 -29 39d5+5661 26d4+26
+100 375000
+8 8 2
+Race: 0
+E
+#8505
+warrior guildguard~
+the warrior guildguard~
+A young warrior is standing here.
+~
+He may be young, but the muscles rippling beneath his tunic suggest a good
+fight is at hand if you try to pass unpermitted.
+~
+2123 0 0 0 0 0 0 0 600 E
+39 -19 -29 39d5+5661 26d4+26
+10 375000
+8 8 1
+Race: 0
+E
+#8506
+Snarl warrior guildmaster~
+Snarl the warrior guildmaster~
+Snarl the master warrior looks like he wants to hurt you.
+~
+Young, but wise enough to teach the youngest of adventurers.
+~
+2123 0 0 0 160 0 0 0 600 E
+39 -19 -29 39d5+5661 26d4+26
+100 375000
+8 8 1
+Race: 0
+E
+#8507
+psionic psionist guildguard~
+the psionic guildguard~
+A balding psionic in grey robes guards the mistress's chamber.
+~
+He stares straight forward, but you can sense his feathery probes at your 
+as he continually searches you for signs of violence.
+~
+172043 0 0 0 0 0 0 0 600 E
+33 -13 -23 33d5+2163 22d4+22
+50 0
+8 8 1
+Race: 0
+E
+#8508
+bon thief guildmaster~
+Bon the thief guildmaster~
+Bon the thief guildmaster looks like she wants to steal something from you.
+~
+Young, but wise enough to teach the youngest of adventurers.
+~
+2123 0 0 0 160 0 0 0 600 E
+39 -19 -29 39d5+5661 26d4+26
+100 375000
+8 8 2
+Race: 0
+E
+#8509
+psionist guildmaster muntara~
+Muntara~
+Muntara, the Psionic guildmistress, sits here meditating.
+~
+She has the serene look of one who can explode your mind from the inside out.
+~
+2123 0 0 0 160 0 0 0 600 E
+39 -19 -29 39d5+5661 26d4+26
+100 375000
+8 8 2
+Race: 0
+E
+#8511
+small training monster~
+a small training monster~
+A small training monster doesn't look very tough.
+~
+It's small.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+BareHandAttack: 8
+E
+#8512
+training monster~
+a training monster~
+A training monster is here, boxing with himself.
+~
+It's not that small.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+E
+#8513
+large training monster~
+a large training monster~
+A large training monster looks very fierce!
+~
+It's large.
+~
+10 0 0 0 0 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+E
+#8514
+ninja guild guard guildguard men-shen man~
+the men-shen~
+A large man stands here, barring your way.
+~
+The ninja guildguard appears to be an oversized human with a grim countenance
+and golden skin.
+~
+253963 0 0 0 144392 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+0 0
+8 8 1
+Race: 11
+E
+#8515
+ninja guildmaster man~
+the ninja guildmaster~
+An old, hunched man sits on a stool here, remembering the past.
+~
+He looks awfully old, but as his eyes seem to search into your soul, you 
+realize he's more than he looks.
+~
+122890 0 0 0 13368 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+0 180000
+6 6 1
+Race: 0
+E
+#8550
+chimera~
+a chimera~
+A viscious chimera snarls at you menacingly.
+~
+It has the head of a lion, body of a dragon and hindquarters of a goat.
+Teeth the size of a dagger gleam in the faint green light from above.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 9 1d3+10 0d4+0
+2 30
+8 8 0
+BareHandAttack: 4
+Race: 25
+E
+#8551
+elf fighter~
+an Elven fighter~
+A young elven fighter stands here, looking for battle.
+~
+He's dressed in a simple green tunic with matching breeches. His pointy
+ears and almond-shaped eyes give him away as a pure-bred elf. Beads of 
+sweat drop off his brow as he looks around for his next victim.
+~
+8 0 0 0 0 0 0 0 500 E
+1 20 9 1d5+20 0d4+0
+6 55
+8 8 1
+Race: 1
+E
+#8552
+giant woodland~
+a woodland giant~
+An enormous giant towers above your head.
+~
+He's a woodland giant, one of the "smaller" variety (as giants go). He's
+not very intelligent, but his size more than makes up for it. He looks
+like he could squash you like a bug.
+~
+8 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+1 100
+8 8 1
+BareHandAttack: 5
+Race: 18
+E
+#8553
+manticore~
+a manticore~
+A young manticore opens its blood-caked maw and roars at you.
+~
+It looks like a brontosaurus with the head of a boar. Its gigantic body
+is slow and bluky, but its long neck gives it a great reach.
+~
+8 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+BareHandAttack: 4
+Race: 25
+E
+#8554
+ant giant~
+a giant ant~
+An ant the size of a small horse stands here, clicking its mandibles.
+~
+It looks like a giant ant -- a glistening red carapace with black pincers
+protruding from its jaws.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 9 1d5+10 0d4+0
+0 100
+8 8 0
+BareHandAttack: 4
+Race: 21
+E
+#8555
+rakshasa adventurer~
+a rakshasa~
+A tiger-headed Rakshasan adventurer stands here, whiskers twitching.
+~
+He's one of the Rakshasan race; the desert dwellers that are becoming
+more and more common in the outposts of humanity.
+~
+8 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+5 100
+8 8 0
+BareHandAttack: 8
+Race: 5
+E
+#8556
+skeleton warrior undead~
+a skeletal warrior~
+A skeleton clad in rotting armor raises a blood soaked sword above its kill.
+~
+Dressed only in some rotting, ancient armor, it's a fearsome sight to behold;
+a grinning skull with eyes burning like fire.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 9 1d5+10 0d4+0
+8 70
+8 8 0
+BareHandAttack: 3
+Race: 9
+E
+#8557
+cobra giant~
+a giant cobra~
+A hooded cobra the length of three carts slithers silently over the field.
+~
+It's a giant snake, with long fangs glistening in the meager light.
+~
+8 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#8558
+rat sewer~
+a sewer rat~
+A fat, lice-ridden sewer rat sits here, nibbling on some trash.
+~
+Its about the size of a small dog, with incisors protruding out the front
+of its mouth. Its grey fur is crawling with a variety of parasites, and
+watches you out of the perimeter of its vision.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 9 1d5+10 0d4+0
+0 50
+8 8 0
+BareHandAttack: 4
+Race: 15
+E
+$

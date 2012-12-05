@@ -1,0 +1,124 @@
+act.comm.o: act.comm.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h screen.h clan.h
+act.display.o: act.display.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h db.h screen.h vt100.h
+act.informative.o: act.informative.c conf.h sysdep.h structs.h utils.h \
+  comm.h interpreter.h handler.h db.h spells.h screen.h oc.h clan.h \
+  vt100.h timezone.h
+act.item.o: act.item.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h scripts.h
+act.movement.o: act.movement.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h house.h scripts.h
+act.offensive.o: act.offensive.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h events.h queue.h
+act.other.o: act.other.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h screen.h house.h ident.h clan.h
+act.social.o: act.social.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h
+act.wizard.o: act.wizard.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h house.h screen.h olc.h clan.h
+alias.o: alias.c conf.h sysdep.h structs.h utils.h interpreter.h
+ban.o: ban.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+  handler.h db.h
+boards.o: boards.c conf.h sysdep.h structs.h utils.h comm.h db.h boards.h \
+  interpreter.h handler.h improved-edit.h
+clan.o: clan.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+  interpreter.h spells.h handler.h clan.h
+class.o: class.c conf.h sysdep.h structs.h db.h utils.h spells.h \
+  interpreter.h
+comm.o: comm.c conf.h sysdep.h vt100.h events.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h house.h olc.h ident.h screen.h random.h \
+  spells.h scripts.h
+config.o: config.c conf.h sysdep.h structs.h
+constants.o: constants.c conf.h sysdep.h structs.h
+db.o: db.c conf.h sysdep.h structs.h utils.h db.h comm.h handler.h \
+  spells.h mail.h interpreter.h house.h scripts.h
+dream.o: dream.c conf.h sysdep.h structs.h utils.h comm.h dream.h \
+  handler.h db.h interpreter.h
+fight.o: fight.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
+  interpreter.h db.h spells.h screen.h scripts.h
+file-edit.o: file-edit.c conf.h sysdep.h structs.h utils.h interpreter.h \
+  comm.h db.h olc.h improved-edit.h
+gate.o: gate.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+  handler.h db.h spells.h screen.h
+graph.o: graph.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+  handler.h db.h spells.h
+handler.o: handler.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+  handler.h interpreter.h spells.h events.h
+house.o: house.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+  interpreter.h utils.h house.h
+improved-edit.o: improved-edit.c conf.h sysdep.h structs.h utils.h db.h \
+  comm.h interpreter.h improved-edit.h
+ident.o: ident.c conf.h sysdep.h structs.h utils.h comm.h db.h ident.h
+interpreter.o: interpreter.c conf.h sysdep.h structs.h comm.h \
+  interpreter.h db.h utils.h spells.h handler.h mail.h screen.h olc.h \
+  clan.h improved-edit.h scripts.h tedit.h
+limits.o: limits.c conf.h sysdep.h structs.h utils.h spells.h comm.h db.h \
+  handler.h screen.h dream.h
+luaedit.o: luaedit.c conf.h sysdep.h structs.h utils.h interpreter.h \
+  comm.h db.h olc.h improved-edit.h file-edit.h
+magic.o: magic.c conf.h sysdep.h structs.h utils.h comm.h spells.h \
+  handler.h db.h
+mail.o: mail.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+  interpreter.h handler.h mail.h
+mapcode.o: mapcode.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+  screen.h vt100.h
+medit.o: medit.c conf.h sysdep.h structs.h comm.h spells.h utils.h db.h \
+  shop.h olc.h improved-edit.h constants.h
+mobact.o: mobact.c conf.h sysdep.h structs.h utils.h db.h comm.h \
+  interpreter.h handler.h spells.h scripts.h
+mobprog.o: mobprog.c conf.h sysdep.h structs.h comm.h utils.h \
+  interpreter.h handler.h db.h mobprog.h spells.h
+modify.o: modify.c conf.h sysdep.h structs.h utils.h interpreter.h \
+  handler.h db.h comm.h spells.h mail.h boards.h olc.h improved-edit.h \
+  tedit.h file-edit.h
+new_cmds.o: new_cmds.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h screen.h
+new_cmds2.o: new_cmds2.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h screen.h olc.h
+objsave.o: objsave.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+  interpreter.h utils.h spells.h
+oc.o: oc.c conf.h sysdep.h structs.h utils.h db.h comm.h handler.h \
+  screen.h oc.h
+oedit.o: oedit.c conf.h sysdep.h structs.h comm.h spells.h utils.h db.h \
+  boards.h shop.h olc.h constants.h improved-edit.h
+olc.o: olc.c conf.h sysdep.h structs.h interpreter.h comm.h utils.h db.h \
+  olc.h screen.h
+poof.o: poof.c conf.h sysdep.h structs.h utils.h interpreter.h
+random.o: random.c random.h
+redit.o: redit.c conf.h sysdep.h structs.h comm.h utils.h db.h boards.h \
+  olc.h constants.h improved-edit.h
+scripts.o: scripts.c include/lua.h include/lualib.h include/lua.h \
+  include/lauxlib.h conf.h sysdep.h structs.h utils.h spells.h db.h \
+  comm.h interpreter.h handler.h events.h vt100.h shop.h
+sedit.o: sedit.c conf.h sysdep.h structs.h comm.h utils.h db.h shop.h \
+  olc.h
+shop.o: shop.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+  interpreter.h utils.h shop.h
+spec_assign.o: spec_assign.c conf.h sysdep.h structs.h db.h interpreter.h \
+  utils.h
+spec_procs.o: spec_procs.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h screen.h
+spec_procs2.o: spec_procs2.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h house.h
+spec_procs3.o: spec_procs3.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h
+spell_parser.o: spell_parser.c conf.h sysdep.h structs.h utils.h \
+  interpreter.h spells.h handler.h comm.h db.h
+spells.o: spells.c conf.h sysdep.h structs.h utils.h comm.h spells.h \
+  handler.h db.h interpreter.h
+tattoo.o: tattoo.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+  handler.h db.h spells.h screen.h
+tedit.o: tedit.c conf.h sysdep.h structs.h utils.h interpreter.h comm.h \
+  db.h olc.h improved-edit.h file-edit.h
+utils.o: utils.c conf.h sysdep.h structs.h utils.h comm.h screen.h \
+  spells.h handler.h random.h
+svn_version.o: svn_version.c
+version.o: version.c conf.h sysdep.h structs.h utils.h interpreter.h
+weather.o: weather.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
+  interpreter.h db.h
+whod.o: whod.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+  whod.h screen.h
+zedit.o: zedit.c conf.h sysdep.h structs.h comm.h utils.h db.h olc.h
+events.o: events.c conf.h sysdep.h structs.h utils.h queue.h events.h
+queue.o: queue.c conf.h sysdep.h structs.h utils.h queue.h

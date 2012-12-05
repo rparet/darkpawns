@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1523"
+   name=""
+   committed-date="2008-06-20T20:24:47.938361Z"
+   url="file:///var/svn/trunk/2.2/lib/scripts"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1400"
+   name="moveall"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-23T02:37:23.058480Z"
+   checksum="7307f3c2c7e83e497a4c681a507426e7"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1449"
+   name="globals.lua"
+   text-time="2008-05-23T03:43:21.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="6e7c0df40b0c75a0819f9865326d48f6"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:21.000000Z"/>
+<entry
+   name="obj"
+   kind="dir"/>
+<entry
+   name="room"
+   kind="dir"/>
+<entry
+   name="mob"
+   kind="dir"/>
+</wc-entries>

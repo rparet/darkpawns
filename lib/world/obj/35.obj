@@ -1,0 +1,164 @@
+#3500
+biotic card ~
+a biotic card~
+A small, thin card is lying here.~
+An organic, elastic card used as a key.
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0
+1 0 25.00
+#3501
+living ring~
+a living ring~
+A thin circlet moves about on the ground like a worm.~
+~
+8 207405121 0 0 0 3 0 0 0
+0 0 0 0
+1 1000 5.00
+A
+12 6
+A
+18 1
+A
+27 1
+#3502
+biotic blade~
+a biotic blade~
+An organic blade is lying here.~
+~
+5 136581185 0 0 0 8193 0 0 0
+0 3 5 3
+10 500 10.00
+A
+19 2
+A
+18 2
+A
+26 2
+#3503
+biotic dagger~
+a biotic dagger~
+An organic, thin dagger lays half hidden on the ground.~
+~
+5 69906497 0 0 0 8193 0 0 0
+0 4 4 11
+5 1000 12.00
+A
+19 3
+A
+18 2
+#3504
+biotic organic armor~
+some biotic armor~
+An organic suit of dull armor rests here.~
+~
+9 64 0 0 0 9 0 0 0
+10 0 0 0
+20 500 10.00
+#3505
+kuo-toan helmet~
+a kuo-toan helmet~
+A scaly helmet is lying here.~
+~
+9 64 0 0 0 17 0 0 0
+6 0 0 0
+5 500 10.00
+#3506
+biotic armgear~
+some biotic armgear~
+Some organic armgear is lying here.~
+~
+9 64 0 0 0 257 0 0 0
+5 0 0 0
+20 500 10.00
+#3507
+organic shroud~
+an organic shroud~
+An organic shroud rests here.~
+~
+9 64 0 0 0 1025 0 0 0
+4 0 0 0
+10 500 10.00
+#3508
+biotic face mask~
+a biotic face mask~
+An odd, organic mask is lying here.~
+~
+9 320 0 0 0 131073 0 0 0
+5 0 0 0
+10 500 10.00
+#3509
+biotic leg shielding~
+biotic leg shielding~
+Rubbery, organic leggings are lying here.~
+~
+9 15364161 0 0 0 33 0 0 0
+11 0 0 0
+10 5000 5.00
+A
+18 1
+A
+26 1
+#3510
+organic shield~
+an elongated, organic shield~
+A long, organic shield is lying here.~
+~
+9 64 0 0 0 513 0 0 0
+6 0 0 0
+10 500 10.00
+#3511
+biotic wristlet~
+a biotic wristlet~
+A strange, circular creature twitches on the ground.~
+~
+9 149712961 0 0 0 4097 0 0 0
+6 0 0 0
+20 5000 5.00
+A
+18 1
+#3512
+organic footgear~
+some organic footgear~
+Thin, rubbery booties rest on the ground.~
+~
+9 64 0 0 0 65 0 0 0
+5 0 0 0
+10 500 10.00
+A
+14 10
+#3513
+kelp~
+a piece of kelp~
+A thin, slimy strand of seaweed is coiled on the floor.~
+~
+13 33554432 0 0 0 1 0 0 0
+0 0 0 0
+1 0 90095.00
+#3514
+glowing puddle liquid~
+the glowing liquid~
+A small puddle of luminescent liquid rests on the floor.~
+~
+1 33554432 0 0 0 0 0 0 0
+0 0 0 0
+1 0 100.00
+#3515
+bulbous kelp~
+the kelp~
+A piece of kelp with a gourd-like tale is resting on the floor.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#3516
+arcane bracer~
+an arcane bracer~
+An ancient, powerful looking bracer lays on the ground.~
+~
+9 179073089 0 0 0 4097 0 0 0
+6 0 0 0
+2 3300 15.00
+A
+19 1
+$~

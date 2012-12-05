@@ -1,0 +1,7321 @@
+#2700
+A Clearing In The Forest Arden~
+  You stand in a small clearing in the huge and primal forest of
+Arden. All other forests you've ever seen were mere shadows of this
+great wood. It appears dangerous and is rumoured to be the favorite
+hunting grounds of Julian, a Prince of Amber. Beware that you don't
+become his prey.
+~
+27 0 0 0 0 3
+D0
+~
+~
+0 0 2701
+D1
+~
+~
+0 0 2712
+D2
+~
+~
+0 0 3297
+D3
+~
+~
+0 0 2716
+S
+#2701
+A Narrow Trail Through Arden~
+  Here, an overgrown trail winds through the forest.  There are a few animal
+track in the dirt here, several of which appear to be hoofprints. The
+trail winds its way east and there is a clearing to the south.
+~
+27 0 0 0 0 3
+D1
+~
+~
+0 0 2702
+D2
+~
+~
+0 0 2700
+D3
+~
+~
+0 0 2717
+E
+horse hoof print~
+It's a damn big hoof print.
+~
+S
+#2702
+A Trail In Arden~
+  This narrow trail winds its way east and west through the heart of the
+forest Arden.  There is a wide, quick-moving steam to the north, and the
+forest extends in all other directions.
+~
+27 0 0 0 0 3
+D0
+~
+~
+0 0 2710
+D1
+~
+~
+0 0 2703
+D2
+~
+~
+0 0 2712
+D3
+~
+~
+0 0 2701
+S
+#2703
+A Trail In Arden~
+  The trail turns sharply to the north here, where it appears you can
+ford the stream to the north by walking across a large, fallen tree. The
+forest Arden surrounds you, and you can smell the faint scent of tea leaves
+burning on the wind.
+~
+27 0 0 0 0 3
+D0
+~
+~
+0 0 2704
+D1
+~
+~
+0 0 2715
+D2
+~
+~
+0 0 2713
+D3
+~
+~
+0 0 2702
+S
+#2704
+A Tree Fallen Over The Stream~
+  It might be difficult, but you think that this might be your only way
+of getting across the stream with dry feet.  You can definitely smell tea
+brewing nearby, its scent carried by the winds coming from the northeast.
+~
+27 0 0 0 0 3
+D0
+There's a wide place in the trail there.
+~
+~
+0 0 2705
+D2
+~
+~
+0 0 2703
+D5
+~
+~
+0 0 2708
+E
+log~
+Falling off a log isn't as easy as it's cracked up to be.
+~
+E
+log~
+Falling off a log isn't as easy as it's cracked up to be.
+~
+E
+tree~
+It's an old log, fallen across the stream and making a perfectly servicable
+bridge. It looks like you could climb down its sides into the stream.
+~
+S
+#2705
+A Trail In Arden~
+   You are standing on a wide trail, flanked on either side by tall
+trees and shrubs.  A few chittering birds fly overhead, singing their
+warbling tunes, while voles rustle the dried leaves around you.
+~
+27 0 0 0 0 3
+D0
+~
+~
+0 0 2707
+D1
+It looks like a hunting camp.
+~
+~
+0 0 2706
+D2
+~
+~
+0 0 2704
+D3
+~
+~
+0 0 2719
+S
+#2706
+Julian's Hunting Camp~
+  This is the campsite of the legendary hunter and Prince of Amber,
+Julian. There's a fire going in the center of the clearing and a pot
+of coffee steaming above it. There are a few animal hides lying about.
+~
+27 0 0 0 0 3
+D0
+You see a trail.
+~
+~
+0 0 2711
+D3
+~
+~
+0 0 2705
+E
+south~
+You see impassable brush.
+~
+E
+east~
+You see impassable boulders.
+~
+E
+fire campfire~
+It's a campfire. It's lighting things up around here and it's keeping the
+coffee hot.
+~
+E
+coffee pot~
+Yum, smell that coffee! Smells like the Cafe du Monde here.
+~
+E
+hide hides animal~
+There is a wide variety of pelts, hides, and skins, all stretched to dry.
+~
+S
+#2707
+A Trail In Arden~
+  You are walking along a trail that splits the forest of Arden.  Off to
+the southeast, you can see a campsite of some sort, though you cannot
+tell if anyone is nearby.
+~
+27 0 0 0 0 3
+D1
+~
+~
+0 0 2711
+D2
+~
+~
+0 0 2705
+E
+north~
+You see the sheer face of Mt. Kolvir.
+~
+E
+west~
+You see an impassable cliff.
+~
+S
+#2708
+Stream Under A Fallen Tree~
+  You are splashing around in a shallow stream.  Just above your head is a
+fallen tree that crosses the stream.  The stream gets rockier towards the
+east, where you can see rapids, and seems to be calm west of here.  The
+north and south banks appear to be too steep to climb.
+~
+27 0 0 0 0 6
+D1
+~
+~
+0 0 2709
+D3
+~
+~
+0 0 2710
+D4
+~
+~
+0 0 2704
+E
+bank~
+The bank of the stream can't be climbed there.
+~
+E
+banks~
+The bank of the stream can't be climbed there.
+~
+S
+#2709
+Rocky Streambed~
+It's hard to move around here. The rocks make very uncertain footing. The
+north and south banks are too steep to climb, but the sound of muted voices
+drifts down from the north bank.
+~
+27 0 0 0 0 6
+D3
+~
+~
+0 0 2708
+E
+banks~
+The bank is too steep to climb there.
+~
+E
+banks~
+The stream is too rocky to wade there.
+~
+E
+banks~
+The bank is too brushy to climb there.
+~
+S
+#2710
+Stream~
+  You are splashing around in a shallow stream. East of here, the steam
+crosses under a tree which has fallen across it.  To the west, the stream
+appears to branch in two directions.
+~
+27 0 0 0 0 6
+D1
+~
+~
+0 0 2708
+D2
+~
+~
+0 0 2702
+D3
+~
+~
+0 0 2718
+E
+north~
+The bank is too steep to climb there.
+~
+S
+#2711
+A Trail In Arden~
+  This is yet another trail in the massive forest of Arden.  To the north
+you can see the top of a large mountain peeking out above the trees.
+There is apparently a campsite of some sort to your south.
+~
+27 0 0 0 0 3
+D0
+~
+~
+0 0 2733
+D2
+~
+~
+0 0 2706
+D3
+~
+~
+0 0 2707
+E
+east~
+You see impassable boulders there.
+~
+E
+kolvir~
+Mt. Kolvir looks like a mountain climber's worst nightmare.
+~
+S
+#2712
+The Forest Arden~
+  This is a beautiful forest but there are so many trees, it's a little
+difficult to walk around. There is a small shrine here.
+~
+27 0 0 0 0 3
+D0
+~
+~
+0 0 2702
+D1
+~
+~
+0 0 2713
+D3
+~
+~
+0 0 2700
+E
+shrine~
+A small shrine to honor Julian, a Prince of Amber. Julian is a large,
+powerful man who spends much of his time hunting in these woods. He is
+Arden's self-proclaimed guardian. He can often be seen riding his horse,
+Morgenstern, who he formed from the stuff of shadow, and wearing his
+mystical white scale armor. His other shadow creatures, the hellhounds,
+are never far from his side.
+~
+S
+#2713
+The Forest Arden~
+  You wander through the forest Arden. The trees are lush and plentiful
+here, and you can hear the endless banter of birds and other woodland
+creatures.  The forest surrounds you in all directions.
+~
+27 0 0 0 0 3
+D0
+~
+~
+0 0 2703
+D1
+~
+~
+0 0 2714
+D3
+~
+~
+0 0 2712
+E
+shrine~
+This is a small shrine honoring Benedict, a Prince of Amber. Benedict is
+a quiet and serious man who leads an almost monk-like existence. He is
+also the greatest hand-to-hand combatant in the known universe, a master
+of all arms, and a consummate strategist.
+~
+S
+#2714
+The Forest Arden~
+  The pines and willows are beautiful and plentiful here.  Exits lead
+into the forest to the north, south, and west, while the coast lies to
+the east.
+~
+27 0 0 0 0 3
+D0
+~
+~
+0 0 2715
+D3
+~
+~
+0 0 2713
+E
+shrine~
+This is a small shrine honoring Gerard, a Prince of Amber. Huge,
+strong, solid Gerard is a steadfast protector of Amber and the crown.
+He enjoys wrestling and drinking contests.
+~
+S
+#2715
+The Forest Arden~
+  The pines and willows are beautiful and plentiful here.  Exits lead
+into the forest to the south and west, while the ocean's coast lies to
+the north and east.
+~
+27 0 0 0 0 3
+D2
+~
+~
+0 0 2714
+D3
+~
+~
+0 0 2703
+E
+log~
+You see a brushy dropoff to a stream, too steep to climb down.
+~
+E
+shrine~
+This is a small shrine honoring Random, the King of Amber. Random was
+once known for his irresponsibility and lack of interest in family
+politics. After spending hundreds of years playing the drums, gambling,
+and wenching throughout shadow, however, he married and settled down.
+He was selected to rule Amber by the unicorn itself. He possesses the
+powerful and mysterious Jewel of Judgement, which is rumoured to impart
+great powers upon its wearer at a great price~
+S
+#2716
+The Forest Arden~
+  There's a small stand of saplings here. There must have been a fire
+here some time ago. There are more different kinds of trees here than
+you've ever seen before.
+~
+27 0 0 0 0 3
+D0
+~
+~
+0 0 2717
+D1
+~
+~
+0 0 2700
+D2
+~
+~
+0 -1 3296
+D3
+~
+~
+0 0 3299
+S
+#2717
+The Forest Arden~
+  You are wandering in the forest Arden.  The trees are very tall here and
+there is little undergrowth.  To the east, you can see a narrow, overgrown
+trail.  To the north, a wide, quick-moving stream rushes by.  The forest
+extends in all other directions.
+~
+27 0 0 0 0 3
+D0
+~
+~
+0 0 2725
+D1
+~
+~
+0 0 2701
+D2
+~
+~
+0 0 2716
+S
+#2718
+A Fork In The Stream~
+  The stream divides here and goes north, east, and west. There is a
+deep pool to the north. You hear water falling.
+~
+27 0 0 0 0 6
+D0
+~
+~
+0 0 2721
+D1
+~
+~
+0 0 2710
+D3
+~
+~
+0 0 2725
+S
+#2719
+A Cliff Above A Deep Pool~
+  This is a beautiful and peaceful little clearing. The grasses are soft and
+inviting. The imposing face of Mt. Kolvir is to the north. An overgrown drop
+to the stream is to the south. The edge of the cliff is west of here.  Water
+falls into a deep pool below there.
+~
+27 4 0 0 0 2
+D1
+~
+~
+0 0 2705
+D3
+You stare out into thin air.
+~
+~
+0 0 2720
+E
+pool~
+It's about 4 meters below you.
+~
+S
+#2720
+The Thin Air Above A Deep Pool~
+  You're standing in the thin air above a deep pool! There must be a
+powerful updraft here, generated by the waterfall to the north. A cliff
+is to the east and there's nothing but treetops to the west and south.
+~
+27 4 0 0 0 9
+D0
+~
+secret waterfall~
+1 0 2722
+D1
+~
+~
+0 0 2719
+D5
+~
+~
+0 0 2721
+E
+waterfall~
+It's a nice waterfall. You think you see something behind it.
+~
+S
+#2721
+A Deep Pool~
+  A deep and swirling pool at the foot of a waterfall. It looks too 
+turbulent for swimming. There's a stream to the south and the waterfall
+is to the north.
+~
+27 0 0 0 0 6
+D2
+~
+~
+0 0 2718
+D4
+There's nothing there but thin air!
+~
+~
+0 0 2720
+E
+north~
+You see water falling.
+~
+E
+waterfall~
+It's a pretty waterfall... pretty big and pretty loud.
+~
+S
+#2722
+A Ledge Behind The Waterfall~
+  This is a small ledge in the mountain behind the waterfall.
+~
+27 265 0 0 0 0
+D1
+~
+~
+0 0 2723
+D2
+~
+secret waterfall~
+1 0 2720
+D3
+~
+~
+0 0 2724
+E
+north~
+You see a wall of rock.
+~
+S
+#2723
+A Ledge Behind The Waterfall~
+  This a narrow ledge behind the waterfall.
+~
+27 265 0 0 0 0
+D3
+~
+~
+0 0 2722
+E
+east~
+You see a wall of rock.
+~
+E
+north~
+You see a wall of rock.
+~
+S
+#2724
+A Ledge Behind A Waterfall~
+  This is a narrow ledge behind the waterfall. There's a cave to the north.
+~
+27 265 0 0 0 0
+D0
+~
+~
+0 0 2730
+D1
+~
+~
+0 0 2722
+E
+south~
+There's water falling there.
+~
+S
+#2725
+A Stream In Arden~
+  This looks like the backwash from the steam. It eddies around here and goes
+nowhere. The banks to the north and south can be climbed.
+~
+27 0 0 0 0 6
+D0
+~
+~
+0 0 2726
+D1
+~
+~
+0 0 2718
+D2
+~
+~
+0 0 2717
+S
+#2726
+Tall Trees In Arden~
+   Beautiful, healthy oaks and pines dominate the woods here.  All around
+you, birds and squirrels chitter in their endless banter as they build
+nests among the tall branches above.  The forest extends in all directions,
+save the south, where a stream cuts through the forest.
+~
+27 0 0 0 0 3
+D0
+You peer into forest.
+~
+~
+0 0 2727
+D1
+~
+~
+0 0 2726
+D2
+You look towards forest.
+~
+~
+0 0 2725
+S
+#2727
+Grand Trees In Arden~
+  You are wandering through the heart of the forest Arden. Mt. Kolvir rises
+sharply to the north above the massive pines and oaks that surround you in
+every direction.
+~
+27 0 0 0 0 3
+D1
+~
+~
+0 0 2728
+D2
+~
+~
+0 0 2726
+E
+kolvir~
+You see a mountainside that you wouldn't want to try to climb.
+~
+E
+Kolvir~
+Mt Kolvir looks to be a sheer, unrelenting mountain.
+~
+S
+#2728
+The Forest Arden~
+  You wander though the forest Arden.  The abundance of lush, healthy plant
+and wildlife is amazing.  Mt. Kolvir rises sharply to the north.  There
+is a sharp dropoff to to the south.
+~
+27 0 0 0 0 3
+D1
+~
+~
+0 0 2729
+D3
+~
+~
+0 0 2727
+E
+Kolvir~
+You see Mt. Kolvir.
+~
+E
+Kolvir~
+Mt. Kolvir is very steep here.
+~
+E
+dropoff~
+You see the ground fall away abruptly.
+~
+S
+#2729
+The Grove Of The Unicorn~
+  This is a peaceful grove between the foot of Mt. Kolvir and the primal
+forest Arden.  It does not look like it occurred naturally, rather it
+appears to have been crafted by a skilled horticulturalist. The forest
+Arden is to your west.
+~
+27 0 0 0 0 3
+D3
+~
+~
+0 0 2728
+E
+south~
+The ground falls away sharply there.
+~
+E
+east~
+You see an impassable wall of boulders there.
+~
+E
+north~
+You see Mt. Kolvir rising sharply there.
+~
+E
+shrine~
+This is a shrine to a unicorn. Legend has it that the creator of Amber
+(and, thereby, the creator of all order in the universe) was Dworkin who
+came here with the Jewel of Judgement and used it to inscribe The Pattern
+into the bedrock of reality. Dworkin then, as the story goes, mated with
+the unicorn (the physical incarnation of The Pattern) to produce a son,
+Oberon. Oberon ruled Amber for eons and sired many sons. Julian was one.
+Random was another and now rules by the choice of the unicorn itself.
+~
+E
+altar~
+If Amber has such a thing as a patron saint, the unicorn is it. In fact,
+rumor has it that the founder of all order in the universe and creator
+of Amber, Dworkin of Chaos, mated with the unicorn. The fruit of that
+union was Oberon, late King of Amber and father of Julian, Corwin,
+Random, and the other princes of Amber.
+~
+S
+#2730
+A Sparkling Cave~
+  The walls of this cave sparkle like silver and gold, but when you
+chip a piece of the cave wall away, the shard you obtain looks more like
+rough granite.  You must be in the heart of Mt. Kolvir.
+~
+27 265 0 0 0 0
+D1
+~
+~
+0 0 2731
+D2
+~
+~
+0 0 2724
+S
+#2731
+A Sparkling Cave~
+  The sparkling cave continues here, the sparkles reflecting the light
+of your torch.  There is something odd about the ceiling here.
+~
+27 265 0 0 0 0
+D3
+~
+~
+0 0 2730
+D4
+~
+shrine~
+1 0 2732
+E
+ceiling~
+Yes, that's definitely odd. Someone has painted "open shrine" on the ceiling.
+~
+S
+#2732
+Corwin's Glen~
+  This is a pretty little glen where birds probably sing, flowers probably
+grown, and young lovers probably... love.  There is a small shrine here.
+~
+27 0 0 0 0 2
+D1
+~
+~
+0 0 2733
+D5
+~
+shrine~
+1 0 2731
+E
+shrine~
+This is a shrine honoring Corwin, a Prince of Amber. Corwin once tried
+to forcibly take the kingship of Amber from his brother Eric (but only
+after Corwin's receiving a communication from Oberon that he should rule).
+He spent several years in the dungeon below the castle thereafter, he
+later became King until the Unicorn chose Random for the position.
+Corwin wields the mystical Grayswandir, the nightblade, which he forged
+from the stuff of shadow, and he wears silver and black.
+~
+S
+#2733
+A Precarious Path Along The Precipice of Mount Kolvir~
+  At your feet is the beginning of a path up the southern slope of Mount
+Kolvir. Arden is to the south. A small glen is to the west. There is a
+sign here.
+~
+27 4 0 0 0 5
+D0
+It's a path up the mountain.
+~
+~
+0 0 2734
+D2
+~
+~
+0 0 2711
+D3
+~
+~
+0 0 2732
+E
+sign~
+The roadsign says "Welcome to Amber. Follow the path to civilization."
+~
+S
+#2734
+A Precarious Path Along The Precipice of Mount Kolvir~
+  This is a narrow path which allows to to climb northward up the face
+of Mount Kolvir, or southward back into the forest Arden. You are still
+not high enough to see over the tall trees of Arden, but you can see that
+the path you are on scales up the mountain as far as you can see.
+~
+27 260 0 0 0 5
+D0
+It's a path up the mountain.
+~
+~
+0 0 2735
+D2
+It's a path down the mountain.
+~
+~
+0 0 2733
+S
+#2735
+A Precarious Path Along The Precipice Of Mount Kolvir~
+  The narrow path gets steeper here, and you find that you occasionally
+need to look for handholds on the face of the mountain to pull yourself along.
+You can see most of the forest Arden from this perspective, as well as
+the ocean to the southeast.
+~
+27 260 0 0 0 5
+D2
+It's a path down the mountain.
+~
+~
+0 0 2734
+D4
+It's a path up the mountain.
+~
+~
+0 0 2736
+S
+#2736
+A Precarious Path Along The Precipice Of Mount Kolvir~
+  The path is so steep here that it could almost be defined as ruts cut into
+the face of the mountain. A fall now would be horrifingly fatal. There
+is a brass and stone historical marker embedded in the face of the mountain
+here.
+~
+27 260 0 0 0 5
+D4
+A path up the mountain.
+~
+~
+0 0 2737
+D5
+A path down the mountain.
+~
+~
+0 0 2735
+E
+marker~
+The historical marker says, "On this spot, Prince Corwin and Prince Bleys
+were stopped in their attempt to lead an army into Amber and take the
+crown from Eric."
+~
+S
+#2737
+A Widening Path Along Mount Kolvir~
+  The edge of the face of Mt. Kolvir is just below you, a narrow spiralling
+ledge that only barely qualifies as a path is your only exit from the
+mountain.  Here, the path widens some and extends to the north, although
+movement here is still very uncomfortable.
+~
+27 260 0 0 0 5
+D0
+~
+~
+0 0 2738
+D5
+~
+~
+0 0 2736
+S
+#2738
+A Precarious Path Along The Precipice Of Mount Kolvir~
+  This wide section of path ends as abruptly as it began, another narrow
+ledge spirals upward along the another face of Mt. Kolvir.  South of here
+the path widens and then drops off down the main face of the mountain.
+~
+27 260 0 0 0 5
+D2
+A path down the mountain.
+~
+~
+0 0 2737
+D4
+It looks like the top of the mountain.
+~
+~
+0 0 2739
+S
+#2739
+The Top Of Mount Kolvir~
+  The path ends here at the broad roundtop of Mount Kolvir. To the north
+the mountain slopes downward into a saddle, invisible from all angles
+except this one.  There appears to be a fairly large town and a castle
+secreted in the woods at the top of the mountain here.
+~
+27 4 0 0 0 5
+D0
+The road to Amber.
+~
+~
+0 0 2741
+D2
+~
+~
+0 0 2740
+D5
+It's a path down the mountain.
+~
+~
+0 0 2738
+S
+#2740
+Viewing Platform~
+  This is a redwood deck that overhangs the southern edge of the top of
+Mt. Kolvir. The view of Arden from here is breathtaking! You can also
+see a long ways down the path between here and Arden. In fact, this
+would be a great place from which to drop a rock on somebody.
+~
+27 0 0 0 0 5
+D0
+The top of the mountain.
+~
+~
+0 0 2739
+E
+arden forest~
+Damn, that's one big forest.
+~
+E
+unset~
+It looks like redwood but, then, maybe it's not.
+~
+E
+path~
+It's a very narrow path in some spots.
+~
+E
+deck~
+It looks like redwood but, then, maybe it's not.
+~
+S
+#2741
+A Fork In The Road To Amber~
+  This is a wide, paved road. There is a sign here.
+~
+27 0 0 0 0 2
+D0
+~
+~
+0 0 2742
+D2
+~
+~
+0 0 2739
+D3
+~
+~
+0 0 2744
+E
+sign~
+Castle Amber  :  NORTH
+Town of Amber :  WEST
+Arden         :  SOUTH
+~
+S
+#2742
+Gate To The South Courtyard~
+  This is the gateway to the southern courtyard of Castle Amber. The
+castle sprawls in all its glory before you to the north.
+~
+27 0 0 0 0 1
+D0
+~
+gate~
+1 0 2743
+D2
+There's a fork in the road there.
+~
+~
+0 0 2741
+S
+#2743
+Inside The South Gate~
+  A wide, paved area just inside the south gate.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2828
+D2
+You look towards the gate.
+~
+gate~
+1 0 2742
+S
+#2744
+Road To The City~
+  This is a tree-lined, well-maintained road leading to the city.
+~
+27 0 0 0 0 1
+D1
+A fork in the road.
+~
+~
+0 0 2741
+D3
+~
+~
+0 0 2745
+S
+#2745
+Road To The City~
+  This is a tree-lined, well-maintained road leading to the city.
+~
+27 4 0 0 0 1
+D1
+~
+~
+0 0 2744
+D3
+~
+~
+0 0 2746
+S
+#2746
+The Road To The City~
+  This is the road to the city. The city is just north of here.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2747
+D1
+~
+~
+0 0 2745
+S
+#2747
+Seaward Street~
+  This is the intersection of Seaward Street and Pearl Avenue. A guard
+house stands on the east side of the road.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2748
+D1
+~
+door~
+1 0 2749
+D2
+~
+~
+0 0 2746
+D3
+~
+~
+0 0 2750
+S
+#2748
+Seaward Street~
+  A lighted street in the city of Amber. The bank is west and the jail
+is east of here.
+~
+27 0 0 0 0 1
+D0
+The street continues north.
+~
+~
+0 0 2754
+D1
+It looks like a jail.
+~
+door jail~
+1 0 2753
+D2
+An intersection.
+~
+~
+0 0 2747
+D3
+It looks like a bank.
+~
+door bank~
+1 0 2751
+S
+#2749
+City Of Amber Guardhouse~
+  This looks like a typical guardhouse. Tables and chairs are here and there.
+Looks like a few "Wanted:" sketches are hanging on the back wall.
+~
+27 8 0 0 0 0
+D3
+~
+door~
+1 0 2747
+E
+pinups~
+Hard to tell from this distance but they might be pictures of women.
+~
+E
+pinups pinup~
+It's hard to tell from this distance but they might be pictures of women.
+~
+E
+table tables chair chairs~
+They're just ordinary wooden tables and chairs.
+~
+S
+#2750
+Pearl Avenue~
+This is a very nice-looking street. The city wall is to the south.
+To your north stand a tall building.
+~
+27 0 0 0 0 1
+D0
+It looks like a bank.
+~
+door~
+1 0 2751
+D1
+~
+~
+0 0 2747
+D3
+~
+~
+0 0 2752
+E
+wall~
+It's a very high, very strong wall.
+~
+S
+#2751
+First Bank Of Amber~
+  A bank with a long counter of teller windows is here. Doors lead out
+to the east and south. The vault is west of here.
+~
+27 8 0 0 0 0
+D1
+~
+door bank~
+1 0 2748
+D2
+~
+door~
+1 0 2750
+D3
+It looks just exactly like a bank vault.
+~
+vault door~
+1 0 2826
+S
+#2752
+Pearl Avenue~
+  This is a very nice street. The city wall is to the south.
+~
+27 0 0 0 0 1
+D1
+The avenue continues.
+~
+~
+0 0 2750
+D3
+The avenue continues.
+~
+~
+0 0 2785
+S
+#2753
+City Of Amber Jail~
+  It's a small jail. There's a desk up front; the cages are in the back.
+~
+27 8 0 0 0 0
+D3
+~
+door jail~
+1 0 2748
+E
+desk~
+Actually, it's a high desk where a desk sergeant should be sitting to
+take complaints. He must be out for donuts.
+~
+E
+cage cages~
+Stone walls and iron bars do not a prison make...
+~
+S
+#2754
+Seaward Street~
+  This is a street in Amber.
+~
+27 0 0 0 0 1
+D0
+You peer at a square in the city.
+~
+~
+0 0 2755
+D2
+~
+~
+0 0 2748
+D3
+You peer thru the open portal of a church.
+~
+~
+0 0 2764
+S
+#2755
+Deirdre Square~
+  You are in a festive square in the city of Amber. Music fills the air
+from the nearby Cafe. To the east is the city park. There is a statue
+here of Deirdre, Princess of Amber. A gate leads east into a park.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2756
+D1
+~
+gate~
+1 0 2757
+D2
+~
+~
+0 0 2754
+D3
+~
+~
+0 0 2758
+E
+plaque sign~
+The plaque reads, "Deirdre, Princess of Amber, fell in battle in the
+Courts of Chaos while fighting to defend Amber and Order in the universe."
+~
+E
+statue~
+The statue depicts a lovely young woman with a courageous and determined
+expression. There is a plaque below the statue.
+~
+S
+#2756
+Seaward Street~
+  Seaward Street extends to the north and south, and there is a small cafe
+to the west from which loud music is playing.
+~
+27 0 0 0 0 1
+D0
+Seaward Street continues.
+~
+~
+0 0 2777
+D2
+~
+~
+0 0 2755
+D3
+You look towards the Hard Rock Cafe.
+~
+door~
+1 0 2763
+S
+#2757
+A Path Through The Park~
+  This is a pretty little walking path through the park. A door leads
+west out of the park and a gate leads east down a path.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2759
+D1
+~
+gate~
+1 0 2761
+D2
+~
+~
+0 0 2760
+D3
+~
+gate~
+1 0 2755
+S
+#2758
+Shell Avenue~
+  A city street running east and west.
+~
+27 0 0 0 0 1
+D0
+~
+door~
+1 0 2763
+D1
+~
+~
+0 0 2755
+D2
+~
+~
+0 0 2764
+D3
+~
+~
+0 0 2762
+S
+#2759
+Park~
+  There are lots of trees here. It looks like a nice place for a picnic.
+The park fence is to the west and the city wall is east.
+~
+27 0 0 0 0 1
+D2
+~
+~
+0 0 2757
+S
+#2760
+Park Playground~
+   This is a quiet play area for children.  A few deep tranches of orange
+sand and a hole of firm mud provide tons of activities for children in this
+tree-covered area.  The park fence is to the west and the city wall is east.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2757
+S
+#2761
+Small, Paved Path~
+  A small, paved path that runs east and west.
+~
+27 0 0 0 0 1
+D1
+~
+~
+0 0 2862
+D3
+~
+gate~
+1 0 2757
+S
+#2762
+Shell Avenue~
+  This is a city street running east and west. There is a quiet hall
+north of here.
+~
+27 0 0 0 0 1
+D0
+~
+door~
+1 0 2818
+D1
+~
+~
+0 0 2758
+D3
+~
+~
+0 0 2765
+E
+south wall~
+There's just a blank wall there.
+~
+S
+#2763
+Cafe Amber~
+   This restaurant and tavern plays host to the younger crowds of Amber.
+A bard with a harsh, brassy voice bellows a bawdy tune about the trials
+and sufferings of young love while patrons dance in erratic, irrythmic
+motions, waving their hands in intricate semantics.
+~
+27 8 0 0 0 0
+D1
+~
+door~
+1 0 2756
+D2
+~
+door~
+1 0 2758
+S
+#2764
+Church Of The Unicorn~
+  You're in a small chapel, very lavishly decorated with tapestries depicting
+various members of the royal family. There are some pews here. The altar is
+west.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2758
+D1
+~
+~
+0 0 2754
+D3
+~
+~
+0 0 2811
+E
+pews~
+As pews go, these look pretty comfortable.
+~
+E
+tap tapestry tapestries~
+There are tapestries of Merlin, Brand, Fiona, Corwin, Deirdre, Martin,
+Llewella, and Caine here.
+~
+E
+Merlin~
+Merlin is a sorcerer from the Courts of Chaos and a computer science
+graduate from Berkeley... The son of Corwin of Amber and Dara of Chaos,
+he looks a great deal like his father. He recently was crowned King of
+The Courts of Chaos.
+~
+E
+brand~
+ Brand was a redhead with blue eyes. In this tapestry, he wears a
+green riding suit and sits atop a white horse. At this side is
+Werewindle, the daysword, sister sword to Corwin's Grayswandir and
+a powerful weapon. Brand was also a powerful sorcerer but his final
+attempt to gain more power unbalanced him and he died fighting his
+brothers and sisters while trying to destroy Amber.
+~
+E
+fiona~
+ The tapestry shows Fiona, hair like Bleys or Brand, eyes like Corwin,
+and a complexion like mother of pearl.
+~
+E
+corwin~
+ You see a picture of Corwin. He has green eyes, black hair, and is
+dressed in black and silver. His black cloak is slightly furled as
+though blown by a wind, his boots are black, his blade is gray and
+silver. His gloves are silver and scaled, and the clasp at his neck
+is cast in the form of silver rose.
+~
+E
+martin~
+ Martin looks a lot like his father, Random, but a little less sneaky
+and more tall.
+~
+E
+llewella~
+ Llewella's hair matches her jade-colored eyes and she is dressed in
+shimmering gray and green with a lavender belt.
+~
+E
+caine~
+ Caine is swarthy and dark-eyed, dressed all in satin that is green and
+black, wearing a dark three-cornered hat set at a rakish angle, a
+green plume of feathers trailing down the back. He wears an emerald-
+studded dagger at this belt.
+~
+E
+deirdre~
+ A black-haired girl with blue eyes, Deirdre's hair hangs long and
+she is dressed all in black, a silver girdle about her waist. She is
+lovely.
+~
+S
+#2765
+Oberon Center~
+  This is a somewhat somber square in the city honoring Oberon. There is a
+statue here.
+~
+27 0 0 0 0 1
+D0
+The way continues north.
+~
+~
+0 0 2781
+D1
+The way continues east.
+~
+~
+0 0 2762
+D2
+The way continues south.
+~
+~
+0 0 2783
+D3
+The way continues west.
+~
+~
+0 0 2766
+E
+plaque~
+Oberon, first king of Amber, mysteriously disappeared and his son Eric
+assumed control of Amber, first as regent and later as king. Oberon
+returned to Amber shortly before his death during the last war against
+the Courts of Chaos. Rumor has it that Oberon perished while using the
+Jewel of Judgment to repair the Pattern.
+~
+E
+statue~
+The statue is of a massive man with a flowing beard, long hair, and a
+stern expression. There is a plaque here.
+~
+S
+#2766
+Shell Avenue~
+  This is a city street running east and west. There is an elegant oak
+door to the north.
+~
+27 0 0 0 0 1
+D0
+You look towards a fancy private club.
+~
+door oak~
+1 0 2819
+D1
+~
+~
+0 0 2765
+D3
+Shell Avenue continues.
+~
+~
+0 0 2767
+E
+south~
+There's a brick wall to the south.
+~
+S
+#2767
+Shell Avenue~
+  This is a city street running east and west.
+~
+27 0 0 0 0 1
+D1
+Shell Avenue continues.
+~
+~
+0 0 2766
+D3
+Shell Street ends at a gate.
+~
+~
+0 0 2768
+S
+#2768
+Inside West Gate Of Amber~
+  A round, cobblestoned area just inside the western gate of Amber.
+~
+27 0 0 0 0 1
+D0
+Just a dirt trail.
+~
+~
+0 0 2769
+D1
+Shell Avenue running east.
+~
+~
+0 0 2767
+D2
+Just a dirt trail.
+~
+~
+0 0 2791
+D3
+~
+gate~
+2 2827 2827
+S
+#2769
+Dirt Track By The Wall~
+  This is a rough trail that crewmen use for making repairs to the city wall.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2770
+D2
+~
+~
+0 0 2768
+S
+#2770
+Dirt Track By The Wall~
+  This is a rough trail that crewmen use in making repairs to the wall.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2771
+D2
+~
+~
+0 0 2769
+S
+#2771
+Dworkin Circle~
+  This is a quiet square in the city of Amber honoring Dworkin. There is a
+statue here.
+~
+27 0 0 0 0 1
+D1
+~
+~
+0 0 2772
+D2
+~
+~
+0 0 2770
+E
+statue~
+You see a statue of an old, hunchbacked dwarf.
+  There is a plaque below the statue.
+~
+E
+plaque~
+Dworkin, creator of the Pattern and of Amber.
+~
+S
+#2772
+Fishmonger's Road~
+   This is a rather run-down road running east and west. The
+smell of fish, booze, and blood is almost overpowering.
+~
+27 0 0 0 0 1
+D1
+~
+~
+0 0 2773
+D3
+~
+~
+0 0 2771
+S
+#2773
+Fishmonger's Road~
+   This is a rather run-down road running east and west. The smell
+of fish, booze, and blood is almost overpowering. A sleazy shop
+lies south of here.
+~
+27 0 0 0 0 1
+D1
+~
+~
+0 0 2774
+D2
+You see a doorway leading to a tattoo parlor.
+~
+door tattoo~
+1 0 2809
+D3
+The road continues.
+~
+~
+0 0 2772
+S
+#2774
+Hardcase Mall~
+  This is a boisterous little square honoring Hardcase. There is a
+statue here.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 3066
+D1
+The way continues east.
+~
+~
+0 0 2775
+D2
+The way continues south.
+~
+~
+0 0 2782
+D3
+The way continues west.
+~
+~
+0 0 2773
+E
+statue~
+This is a statue of a powerful human with a long ponytail. There is a plaque
+beneath the statue.
+~
+E
+plaque~
+Hardcase was a traveler from shadow who visited our city and defended
+it against a horde of attackers while the Royal family was away.
+~
+S
+#2775
+Fishmonger's Road~
+   This is a really seedy part of town but the restaurant to the south is
+supposedly worth the trip. There is a wall of somekind to the north.
+~
+27 0 0 0 0 1
+D1
+The road continues on.
+~
+~
+0 0 2776
+D2
+You see a doorway leading to Bloody Eddie's joint.
+~
+door~
+1 0 2792
+D3
+~
+~
+0 0 2774
+S
+#2776
+Fishmonger's Road~
+  This is a really bad part of town. The docks are north. A restaurant is
+south, but there is no door here.
+~
+27 0 0 0 0 1
+D1
+~
+~
+0 0 2778
+D3
+~
+~
+0 0 2775
+E
+north window~
+You peer thru a window into a seafood restaurant.
+~
+E
+seawall wall~
+It's a plain wall to keep the sea out of the city during storms.
+~
+S
+#2777
+Seaward Street~
+   There's a warehouse of some sort to the east.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2778
+D1
+You look towards a warehouse.
+~
+door~
+1 0 2779
+D2
+~
+~
+0 0 2756
+E
+window west~
+You peer thru a window into a seafood restaurant. This looks like the bar.
+~
+E
+warehouse~
+A large sign on the warehouse reads, "Bayle's."
+~
+S
+#2778
+Eric Court~
+  This is a grimy little square honoring Eric. The docks are north.
+Fishmonger's Road is west. Seaward Street is south. There is a statue here.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2794
+D2
+~
+~
+0 0 2777
+D3
+~
+~
+0 0 2776
+E
+statue~
+A statue of a dark and brooding man wearing a large jewel around his neck
+and holding a crown in his hand. There is a plaque beneath the statue.
+~
+E
+plaque~
+Following the disappearence of Oberon, Eric assumed the throne and ruled
+Amber until he fell in the Battle of Shadowfall at the base of Mt. Kolvir.
+It is said that the powerful talisman, the Jewel of Judgement, was as
+responsible for his death as the hordes of shadow demons.
+~
+S
+#2779
+Bayle's Warehouse~
+  This is a big warehouse. There's sawdust on the floor. Bottles of wine are
+securely locked into rows and rows of wineracks.
+~
+27 8 0 0 0 0
+D0
+There's more warehouse there.
+~
+~
+0 0 2780
+D3
+~
+door~
+1 0 2777
+E
+bottle wine~
+You examine a bottle of wine that is firmly locked into a wall case. The label
+says, "Bayle's Red" and "Bayle's Best" and, even more, says "Served to the
+Royal Family!"
+~
+E
+sawdust floor~
+It's a very clean floor.
+~
+S
+#2780
+Bayle's Warehouse~
+  Actually, it's a huge warehouse. Are the Bayles selling any wine? There are
+more locked racks of wine bottles here.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2779
+E
+bottle wine rack~
+You read the label on a bottle of wine. It says "Bayle's Gold" and, below
+that, "The Economical Table Wine for Everyone!"
+  "Ah," you think. "The cheap stuff."
+~
+S
+#2781
+Hill Street~
+   This is a city street in decent repair running north and south.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2782
+D2
+~
+~
+0 0 2765
+S
+#2782
+Hill Street~
+   This is a city street running north and south. You see the wall of some
+building to the east. To the west is a tattoo parlor.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2774
+D2
+~
+~
+0 0 2781
+D3
+You look towards a sleazy tattoo shop.
+~
+~
+1 0 2809
+S
+#2783
+Hill Street~
+  This street is brightly lighted by the facade lights of the Grand Hotel to
+the west.
+~
+27 4 0 0 0 1
+D0
+~
+~
+0 0 2765
+D1
+You look thru an arched doorway into a church.
+~
+~
+0 0 2811
+D2
+The street continues south.
+~
+~
+0 0 2784
+D3
+~
+~
+0 0 2797
+S
+#2784
+Hill Street~
+  This street is brightly lighted by the facade lights of the Grand Hotel to
+the west.
+~
+27 4 0 0 0 1
+D0
+The street continues north.
+~
+~
+0 0 2783
+D2
+~
+~
+0 0 2785
+S
+#2785
+Pearl Avenue~
+  The intersection of Pearl Avenue and Hill Street.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2784
+D1
+~
+~
+0 0 2752
+D3
+~
+~
+0 0 2786
+S
+#2786
+Pearl Alley~
+  Pearl Alley is a narrow, dark road that runs east and west between the
+southern city wall and the side of the Grand Hotel. To the east is the
+brightly lit Pearl Street.
+~
+27 1 0 0 0 1
+D1
+The street is brighter and much more hospitable there.
+~
+~
+0 0 2785
+D3
+~
+~
+0 0 2787
+S
+#2787
+Pearl Alley~
+  This is a dark alley that runs between the southern city wall and the
+wall of the Grand Hotel. There's a small door to the north.
+~
+27 5 0 0 0 1
+D0
+It looks like a large kitchen.
+~
+door small~
+1 0 2802
+D1
+~
+~
+0 0 2786
+D3
+~
+~
+0 0 2788
+S
+#2788
+Beneath The Watchtower~
+  You're in an open area beneath a city watchtower. There are some stairs up
+here. There's a small dirt path to the north and Pearl Alley is to the east.
+~
+27 1 0 0 0 1
+D0
+~
+~
+0 0 2791
+D1
+~
+~
+0 0 2787
+D4
+~
+~
+0 0 2789
+D5
+~
+secret trapdoor~
+2 2790 2790
+S
+#2789
+Inside The Watchtower~
+  Unexpectedly, this room looks more like an office than a watch station.
+~
+27 8 0 0 0 0
+D5
+~
+~
+0 0 2788
+S
+#2790
+City Vault~
+It looks like a big hole in the ground. You wonder if there might be
+buried treasure here.... The ground feels loose under your feet.
+~
+27 9 0 0 0 0
+D4
+You look below the tower.
+~
+trapdoor~
+2 2790 2788
+S
+#2791
+Dirt Trail~
+   This is a small dirt trail running north and south by the city wall.
+~
+27 0 0 0 0 1
+D0
+You try to stare northward but it just makes your eyes water.
+~
+~
+0 0 2768
+D2
+~
+~
+0 0 2788
+S
+#2792
+Bloody Eddie's~
+   This place was once reputed to serve the finest seafood in the known
+universe, but from the looks of this dump, it must have been a very, very
+long time ago.  Sawdust litters the floors, while large holes gape wide
+in the tablecloth.  The crude wallpaper hangs loosely and in tatters from 
+the warping wood walls.
+   A small blackboard hangs on the wall above the cash drawer.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 0 2775
+D1
+~
+~
+0 0 2793
+E
+sawdust floor~
+There are some very suspicious looking stains on the floor.
+~
+E
+table cloth tablecloth~
+The usual red-and-white checkered kind you've seen hundreds of times before.
+These look like they've had better days, though.
+~
+E
+cash~
+Don't bother. It's empty. The new owner, Jim Powell, doesn't trust
+cash drawers. But if you stare at it too long, he might show you how
+he came to 'inherit' this joint from Eddie.
+~
+E
+blackboard black board~
+The blackboard says:
+                     CATCH  OF  THE  DAY
+                         red snapper
+
+                      TODAY'S HOUSE WINE
+                        Bayle's Piss
+
+~
+S
+#2793
+Bloody Eddie's Bar~
+  There's a long bar here with stools. A few more tables and chairs are
+scattered about.
+~
+27 8 0 0 0 0
+D3
+~
+~
+0 0 2792
+E
+bar~
+This was once a magnificent mahagony bar with brass trim.
+~
+E
+stools~
+The stools seem to be bolted to the floor.
+~
+E
+tables table cloth tablecloth~
+These tables don't have tablecloths.
+~
+E
+stool stools~
+The stools seem to be bolted to the floor.
+~
+E
+chair chairs~
+It's a plain wooden chair.
+~
+S
+#2794
+Docks~
+   You are standing on part of the docks of Amber.  A ship rocks docked here.
+~
+27 0 0 0 0 1
+D2
+~
+~
+0 0 2778
+D3
+~
+~
+0 0 2795
+E
+ship~
+The ship is tied on just north of here. It appears to be the flagship of the
+Amber fleet, the HMS Fiona.
+~
+S
+#2795
+Docks~
+  Part of the docks of Amber. There is a gangplank north of here.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 2796
+D1
+~
+~
+0 0 2794
+E
+gangplank~
+It's a gangplank. You can walk on it between the dock and the ship.
+~
+S
+#2796
+Gangplank~
+   You find yourself moving gently up and down on a perfectly ordinary
+gangplank. Suddenly you notice the ship is flying pirate colors. This
+might not be such a good idea after all.
+~
+27 4 0 0 0 1
+D0
+A ship is there.
+~
+~
+0 0 2812
+D2
+~
+~
+0 0 2795
+S
+#2797
+The Grand Lobby~
+   You're in the lobby of the Grand Hotel and you've never seen such a
+lavishly decorated room. Gold curtains hang upon marble columns, large
+oil paintings adorn the walls, the carpet is deep burgundy in color and
+very plush. There is a stair here going up. The Grand Niteclub is west;
+the Grand Dining Room is south.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2783
+D2
+~
+~
+0 0 2799
+D3
+~
+~
+0 0 2798
+D4
+~
+~
+0 0 2801
+S
+#2798
+The Grand Nightclub~
+  The lighting is dim but you can see that this is a fine nightclub that
+probably offers up some good entertainment. In fact, there are some foxy
+babes dancing on stage now. There is a placard here, on an easel by the door.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2797
+D2
+~
+door~
+1 0 2802
+D4
+~
+~
+0 0 2803
+E
+babe dancer~
+The archetypal showgirl: blonde, busty, and wearing 1 percent of
+a costume.
+~
+E
+stage~
+It's not too high. You could probably get up on the stage.
+~
+E
+placard~
+The placard says:
+                          Appearing next weekend
+
+                             SMASHING PUMPKINS!
+~
+S
+#2799
+Grand Dining Room~
+  This is a richly decorated dining room. The finest brocade tablecloths,
+gleaming silverware, and the finest china. There is a swinging door leading
+west from here.
+~
+27 8 0 0 0 0
+D0
+You look towards the lobby.
+~
+~
+0 0 2797
+D3
+You see a doorway leading to the kitchen.
+~
+door swinging~
+1 0 2802
+S
+#2800
+Choice's Bedroom~
+  There's a bed here that's big enough for Choice and a rather
+powerfully-built, tall, blonde Ultrahuman that you possibly have
+heard about. In fact, the bed seems to be occupied at this very moment
+by someone comfortably buried beneath the sheets and pillows.
+There's a huge picture window to the south, a fireplace to the east, and
+bookshelves everywhere else. Thick bear skins cover the floor. A Macintosh
+computer sits upon a nearby desk.
+~
+27 520 0 0 0 0
+D4
+~
+~
+0 0 2774
+D5
+~
+~
+0 0 8004
+E
+pussy twat cunt~
+Choice's pussy hair is just a shade darker than that on her head. It's
+very thick but she has shaved it into a narrow triangle... at least,
+you've never seen pubic hair grow like that. Her pussy is small and is slightly parted by her position. It looks warm, wet, snug and inviting.
+~
+E
+brunette hair~
+Choice has beautiful brunette hair, in a couple of places.
+~
+E
+thigh ass~
+Choice's thighs are muscular and delightful. She can really wrap them around
+you and squeeze! Her ass is round, firm, and perky!
+~
+E
+figure build~
+Choice's figure is extraordinary! Her breasts are large and firm.
+Her ass is round and muscular.
+~
+E
+tit tits breast breasts knockers~
+Choice's breasts are large and firm. Her nipples are erect. She must
+be having nice dreams.
+~
+E
+mac macintosh computer~
+The Macintosh computer is, of course, the very BEST computer there is. A
+cheerful screen saver on this one spells out "Balou and Reaper suck!"
+in several festive colors and fonts.
+~
+E
+fireplace~
+This appears to be a very efficient fireplace.
+~
+E
+bed~
+It's one helluva bed. Huge down pillows with satin cases, satin sheets,
+fluffy comforters, colorful quilts, and Choice, soundly asleep.
+~
+E
+window~
+The window looks out and down upon the vast forest of Arden. A waterfall
+is just to the right and a really inviting pool is directly below.
+~
+E
+choice~
+Choice looks like she's sound asleep in that comfy bed. She was developed
+into an ultrahuman by the Choice Corporation as a spokesperson and
+ultraheroine. Much to their chagrin, she was her own woman and left
+their employ. She's also one of the most beautiful women you've ever
+seen. A magnificent brunette with an awesome figure. Her usual costume
+is no where in sight. She looks delicious. You wonder where Hardcase is...
+~
+E
+book books bookshelf bookshelves~
+You see a bunch of comic books, most of them from Marvel/Malibu and
+featuring your favorite characters from the Ultraverse. There are a lot
+of books written by Roger Zelazny here as well.
+~
+E
+pillow pillows~
+These are extra big, extra fluffy pillows.
+~
+E
+sheet sheets quilt comforter~
+The sheets are soft and sleek statin in royal blue and gold. They match
+the quilts and comforters.
+~
+E
+bear skin rugs~
+Thick, fluffy bear skins. One of them is even blue! Poor Baloo.
+~
+S
+#2801
+Second Floor~
+   You are standing on the second floor of the inn.  Doors lead in all
+cardinal directions into suites, while stairs lead up and down from
+here.
+   A sturdy door at the top of the stairs bears a faded set of letters
+that read "Manager."
+~
+27 8 0 0 0 0
+D0
+You look towards the King's Suite.
+~
+door kings~
+1 0 2808
+D1
+You look towards the Queen's Suite.
+~
+door queens~
+1 0 2804
+D2
+You look towards the Prince's Suite.
+~
+door princes~
+1 0 2805
+D3
+You look towards the Princess Suite.
+~
+door princess~
+1 0 2806
+D4
+You look towards the Manager's Office.
+~
+door managers~
+2 2807 2807
+D5
+You look down into the lobby.
+~
+~
+0 0 2797
+S
+#2802
+Kitchen~
+   This is a large, well-stocked kitchen. Doors lead north, east, and south.
+~
+27 8 0 0 0 0
+D0
+You look towards a nightclub. WHOA! Topless dancers!
+~
+door~
+1 0 2798
+D1
+~
+door swinging~
+1 0 2799
+D2
+You look towards Pearl Alley.
+~
+door small~
+1 0 2787
+S
+#2803
+The Stage~
+  This is a small stage in the Grand Niteclub.
+~
+27 8 0 0 0 0
+D5
+~
+~
+0 0 2798
+S
+#2804
+The Queen's Suite~
+You are in a lavish guest room in the Grand Hotel. A door lies west.
+In the east corner stands a large bed, blankets are folded on it.
+~
+27 8 0 0 0 0
+D3
+You look out onto the second-floor landing.
+~
+door queens~
+1 0 2801
+S
+#2805
+The Prince's Suite~
+You are in a lavish guest room in the Grand Hotel. A door lies north.
+A small bed stands in the middle of the room.
+~
+27 8 0 0 0 0
+D0
+You look out onto the second-floor landing.
+~
+door princes~
+1 0 2801
+S
+#2806
+The Princess Suite~
+  You are in a lavish guest room in the Grand Hotel. A door lies east.
+~
+27 8 0 0 0 0
+D1
+You look out onto the second-floor landing.
+~
+door princess~
+1 0 2801
+S
+#2807
+The Manager's Office~
+  You are in the office of the hotel manager. A door leads down. The
+huge hotel safe is east.
+~
+27 8 0 0 0 0
+D1
+~
+secret safe~
+1 2732 3072
+D5
+You see a doorway leading to the second-floor landing.
+~
+door managers~
+2 2807 2801
+S
+#2808
+The King's Suite~
+You are in a lavish guest room in the Grand Hotel. A door lies south.
+A large king-sized bed stands in the middle of the room.
+~
+27 8 0 0 0 0
+D2
+You see a doorway leading to the second-floor landing.
+~
+door kings~
+1 0 2801
+S
+#2809
+Sleazy Tattoo Parlor~
+  You're in a sleazy tattoo parlor. There's sleazy artwork on all the walls.
+There's a sleazy counter here.
+~
+27 8 0 0 0 0
+D0
+~
+door tattoo~
+1 0 2773
+D1
+~
+~
+1 0 2782
+D5
+~
+secret counter~
+1 2810 2810
+E
+counter~
+There seems to be a small door in the counter. How odd. Maybe you could
+open up the counter?
+~
+E
+art artwork~
+These are examples of the sleazy kind of tattoos you could get here.
+~
+S
+#2810
+Cult Of The Logrus~
+  BRRRR! This is a creepy place. It seems to be some sort of secret temple.
+There's an elaborate mosaic of a dragon on the wall. There's a stone altar
+with reddish-brown stains on it.
+~
+27 9 0 0 0 0
+D4
+The sleazy tattoo parlor looks a lot better from down here.
+~
+secret counter~
+1 2810 2809
+E
+dragon mosaic~
+It looks like a very powerful creature but it seems to be missing an eye...
+~
+E
+altar stains~
+It looks like something (or someone) has been sacrificed on this altar.
+~
+E
+altar~
+It looks like something (or someone) has been sacrificed on this altar.
+~
+S
+#2811
+The Altar Of The Unicorn~
+  You're at the front of the Church. There's an altar here. Tapestries hang
+high on the walls.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2764
+D3
+Hill Street
+~
+~
+0 0 2783
+E
+altar~
+The altar depicts a magnificent unicorn.
+~
+E
+tap tapestry tapestries~
+There are tapestries here depicting Julian, Gerard, Bleys, Benedict,
+Eric, Random, and Flora.
+~
+E
+Julian~
+Here is the passive contenance of Julian, dark hair hanging long,
+blue eyes containing neither passion nor compassion. He is dressed
+in scaled white armor.
+~
+E
+gerard~
+A big and powerful man regards you from this tapestry. He strongly
+resembles Corwin but is much heavier. His strength is legendary. He
+wears a dressing gown of blue and gray clasped about the middle witH
+a wide, black belt. From about his neck, on a heavy cord, hangs a
+silver hunting horn. He wears a fringe beard and a light mustache and
+a laugh upon his lips. He is Gerard.
+~
+E
+bleys~
+Fiery bearded, flame-crowned Bleys, dessed all in red and orange,
+eyes as blue as Flora's or Eric's. He word two huge rings on his
+right hand and one on his left: an emerald, a ruby, and a sapphire.
+~
+E
+benedict~
+Here is Benedict, tall and dour, thin; thin of body, thin of face,
+wide of mind. He wears orange and yellow and brown, and reminds you
+of haystacks and pumpkins and scarecrows and the Legend of Sleepy
+Hollow. He has a strong jaw and hazel eyes and brown hair that never
+curls.
+~
+E
+eric~
+A tapestry of Eric, handsome by anyone's standards, his hair so dark
+as to be nearly blue. His beard curls around a mouth that always
+smiles and he is dressed simply in a leather jacket and leggings; a
+plain cloak and high black boots.
+~
+E
+random~
+Random is a wily-looking man, with a sharp nose and a laughing mouth
+and a shock of straw-colored hair. He is dressed in something like
+a Renaissance costume of orange, red, and brown. A section of the
+tapestry appears to have been knitted in later. It shows Random's hand
+holding a crown and a huge ruby on a chain.
+~
+E
+flora~
+Flora is shown with flame-colored hair, worn long with low bangs, and
+deep blue eyes.
+~
+S
+#2812
+Amidships~
+  You're on deck of a sea-going warship. There is a hatch leading down.
+~
+27 0 0 0 0 1
+D1
+You look sternward.
+~
+~
+0 0 2813
+D2
+~
+~
+0 0 2796
+D3
+You look bowward.
+~
+~
+0 0 2814
+D5
+You peer down below deck.
+~
+hatch~
+1 0 2815
+S
+#2813
+Stern~
+  You on on deck of a sea-going warship.
+~
+27 0 0 0 0 1
+D3
+You look amidships.
+~
+~
+0 0 2812
+S
+#2814
+Bow~
+  You are on deck of a sea-going warship.
+~
+27 0 0 0 0 1
+D1
+You look amidships.
+~
+~
+0 0 2812
+S
+#2815
+Below Deck~
+   You are below deck on a sea-going warship. The captain's quarter's
+lie east from here, and the brig is west. Fresh sea air can be smealt
+from the hatch leading up out of the hold.
+~
+27 8 0 0 0 0
+D1
+You look towards the Captain's Quarters.
+~
+door~
+1 0 2816
+D3
+You see a doorway leading to the Brig.
+~
+brig~
+2 2817 2817
+D4
+~
+hatch~
+1 0 2812
+S
+#2816
+Captain's Quarters~
+   This looks like a bedroom for a seafaring man. In the east corner
+stands something that looks like something a man could sleep on.
+~
+27 8 0 0 0 0
+D3
+You look towards the hold.
+~
+door~
+1 0 2815
+E
+map chart maps charts~
+Since you don't know much about nautical charts, these don't mean much to you.
+~
+S
+#2817
+Brig~
+  This is the Brig. It's not a good place to be.
+~
+27 8 0 0 0 0
+D1
+You look towards the hold.
+~
+brig~
+2 2817 2815
+S
+#2818
+A Commercial Library~
+  This looks like a good place to learn about Amber. There are signs on
+the walls and administrative booklets and pamphlets on the shelves.  A
+door leads back south.
+~
+27 8 0 0 0 0
+D2
+~
+door~
+1 0 2762
+E
+sign4~
+ There are lovely tapestries of the Royals on display in the The Church
+of the Unicorn across the street.
+~
+E
+sign3~
+       KNOWN AND SUSPECTED GENEALOGY OF THE AMBER ROYALS
+
+The Unicorn mated with Dworkin: Oberon, first king of Amber
+Cymnea wed to Oberon: Benedict, Osric, Finndo
+Faiella wed to Oberon: Eric, Corwin, Deirdre
+Clarissa wed to Oberon: Fiona, Bleys, Brand
+Moins wed to Oberon: Llewella
+Rilga wed to Oberon: Caine, Julian, Gerard
+Dybele wed to Oberon: Flora
+Kinta mated with Oberon: Coral
+Paulette wed to Oberon: Random, Mirelle
+Lora wed to Oberon: Sand, Delwin
+Deela raped by Oberon: Dalt
+Dara mated with Corwin: Merlin
+Jasra wed to Brand: Rinaldo (also called Luke)
+Merlin: created sentient computer, Ghostwheel
+~
+E
+sign2~
+                             THE PATTERN
+
+ The Pattern was forged by the ancient mage Dworkin, who fled from the
+Courts of Chaos with the Jewel of Judgment. Using the jewel, Dworkin
+created the Pattern and order was formed out of the chaotic state of the
+universe. Two major religious factions argue over the primacy of the
+Pattern that lies beneath the Castle Amber. One says that it is the very
+Pattern that Dworkin forged and, thus, is the primal Pattern. The other
+says that the Pattern below the castle is the first shadow of the primal
+Pattern, which is elsewhere.
+ Descendants of Dworkin can walk the Pattern and survive (although it is
+difficult and dangerous for them) and gain the power to walk through
+Shadow. The Pattern is almost always lethal to any who attempt to walk
+it who are not of the royal blood.
+~
+E
+sign1~
+                                    AMBER
+
+ Amber is the primal city of the universe. All other worlds you've seen or
+will ever see are merely shadows of Amber. Therefore, everything, and more,
+is here that is anywhere else. The one other place that is 'original' in
+the universe is the Courts of Chaos. Lying on the extreme other edge of
+Shadow from Amber, little is known of it.
+~
+E
+sign signs~
+Four signs are in the room.
+LOOK AT SIGN1
+LOOK AT SIGN2
+LOOK AT SIGN3
+LOOK AT SIGN4
+~
+S
+#2819
+Fiddler's Green~
+   You are in the front hall of a private club called Fiddler's Green.
+A door leads south out of the club, and west, further inside.
+~
+27 12 0 0 0 0
+D2
+~
+door oak~
+1 0 2766
+D3
+~
+door folding~
+1 0 2820
+S
+#2820
+Main Room~
+  You are in the main entertainment room of Fiddler's Green. There are a
+variety of diversions available here. A door leads eastward.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2821
+D1
+~
+door folding~
+1 0 2819
+S
+#2821
+Main Room~
+  You are in the main entertainment area of Fiddler's Green. There are a
+variety of diversions available here. There is a spiral staircase here.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2820
+D4
+~
+~
+0 0 2822
+S
+#2822
+Lounge~
+  You are upstairs in Fiddler's Green. The furnishings are plush.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2825
+D3
+~
+~
+0 0 2823
+D5
+~
+~
+0 0 2821
+S
+#2823
+Lounge~
+  You are upstairs in Fiddler's Green. The furnishings are plush.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2822
+D2
+~
+~
+0 0 2824
+S
+#2824
+Lounge~
+  You are upstairs in Fiddler's Green. The furnishings are plush.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2823
+D1
+~
+~
+0 0 2825
+S
+#2825
+Lounge~
+  You are upstairs in Fiddler's Green. The furnishings are plush.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2822
+D3
+~
+~
+0 0 2824
+S
+#2826
+Bank Vault~
+  You are in a very secure bank vault. The door is east.
+~
+27 8 0 0 0 0
+D1
+You peer back into the bank.
+~
+vault door~
+1 0 2751
+S
+#2827
+Outside The West Gate Of Amber~
+  You are standing in a small clearing. To the east you see the entrance
+to the city of Amber.
+~
+27 4 0 0 0 2
+D1
+You peer towards the city of Amber.
+~
+gate~
+2 0 2768
+S
+#2828
+Southern Courtyard~
+  A small but elegant courtyard south of the main entrance to the castle.
+~
+27 4 0 0 0 1
+D0
+You look towards the Main Hall of Castle Amber.
+~
+Door~
+1 2828 2829
+D2
+~
+~
+0 0 2743
+E
+door~
+The front doors close to form an arch. They are 15 feet high and 8 feet
+wide when together, and they are made of a dark, heavy wood that Oberon
+brought out of shadow. Although not especially ornate, they are carved
+with several designs. The central design is a unicorn, half on each door.
+When the doors are closed, the Unicorn seals the castle.
+~
+S
+#2829
+Main Hall~
+  The floor here is dark flagstone and the walls are white marble
+streaked with bluish gray. A door leads south into a courtyard.
+~
+27 12 0 0 0 0
+D0
+~
+~
+0 0 2830
+D2
+You look towards the courtyard.
+~
+Door~
+1 2828 2828
+S
+#2830
+Main Hall~
+  The floor here is dark flagstone and the walls are white marble streaked
+with bluish gray. False arches and columns nearly hide the high, beamed
+ceiling. There are large, colorful tapestries firmly affixed to the walls
+here.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2831
+D1
+~
+~
+0 0 2863
+D2
+~
+~
+0 0 2829
+E
+tapestry tapestries~
+ There are hunting scenes, pastoral scenes, and scenes from Amber's
+mythology. In one, Dworkin and the Unicorn compose THE BOOK OF THE
+UNICORN. In another, the Pattern of Amber forms inside Kolvir. Another
+shows Oberon in chains in the dungeons of Chaos.
+~
+S
+#2831
+Main Hall~
+  The floor here is of dark flagstone and the walls are white marble streaked
+with bluish gray.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2832
+D2
+~
+~
+0 0 2830
+D3
+~
+door~
+1 2828 2838
+S
+#2832
+Main Hall~
+  The floor here is dark flagstone and the walls are white marble streaked
+with bluish gray. There are weapons and shields hanging high on the walls.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2833
+D2
+~
+~
+0 0 2831
+E
+weapon weapons shield shields~
+Of particular interest are the halberd used by a guard to save Dworkin's
+life; the stiletto used by Paulette, Oberon's third wife, to take her
+own life; and a shield bearing the crest of Amber, the Unicorn.
+~
+S
+#2833
+Main Hall~
+  The floor here is dark flagstone and the walls are white marble streaked
+with bluish gray.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2834
+D1
+~
+~
+0 0 2871
+D2
+~
+~
+0 0 2832
+D3
+~
+door~
+1 0 2844
+S
+#2834
+Main Hall~
+  The floor here is dark flagstone and the walls are white marble streaked
+with bluish gray. There are vibrant tapestries firmly affixed to the walls here.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2835
+D2
+~
+~
+0 0 2833
+E
+tapestries~
+The two largest tapestries in the hall are here. One shows Corwin and Bleys
+on the stair of Kolvir, shadow-warriors fallen around them, and Eric
+standing defiantly in the doorway. The other depicts Corwin creating the
+Pattern, sparks about his grim face and exhaustion showing in his limbs.
+~
+S
+#2835
+The Grand Stair~
+  You are standing on a broad, ornate staircase that goes up to the second
+floor.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2834
+D4
+~
+~
+0 0 2836
+E
+stair stairs staircase~
+The steps are of white marble streaked with gold. A thick, red runner
+goes up the center of the stair. The railings are a shining dark wood
+with gold trimmings.
+~
+S
+#2836
+The Grand Stair - 2nd Floor~
+  You are on a broad and ornate stair leading up and down.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2884
+D4
+~
+~
+0 0 2837
+D5
+~
+~
+0 0 2835
+E
+stair stairs staircase~
+The steps are of white marble streaked with gold. The railings are a
+shinny dark wood with gold fixtures.
+~
+S
+#2837
+The Grand Stair - 3rd Floor~
+  You are on a broad and ornate staircase that goes down.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2937
+D5
+~
+~
+0 0 2836
+E
+stair stairs staircase~
+The steps are of white marble steaked with gold. The railings are of a
+shinning dark wood with gold fixtures.
+~
+S
+#2838
+The East Side Of The Great Hall~
+  The Great Hall measures approximately 50 feet wide by 90 feet long. Its
+beamed and plastered ceiling is almost 40 feet above the floor. Royal
+weddings, coronations, and funerals occur here. On the south wall, doorways
+lead to sitting rooms, while on the north wall two doors lead to a corridor
+near the kitchen. A bar stands in the northwest corner. Light comes through
+beveled windows from 25 feet up the west wall. The effect is almost prismatic
+and the Hall takes on a beautiful, hypnotic shimmer. The deep green vein in
+the white marble walls seems to slither its way from the ceiling to the floor.
+Under a bright moon, the vein is predominant. The Great Hall at night is
+eerie.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2839
+D1
+You look towards the Main Hall.
+~
+door~
+1 0 2831
+D2
+~
+~
+0 0 2846
+D3
+~
+~
+0 0 2848
+S
+#2839
+The Northeast Corner Of The Great Hall~
+  The Great Hall measures approximately 50 feet wide by 90 feet long. Its
+beamed and plastered ceiling is almost 40 feet above the floor. Royal
+weddings, coronations, and funerals occur here. On the south wall, doorways
+lead to sitting rooms, while on the north wall two doors lead to a corridor
+near the kitchen. A bar stands in the northwest corner. Light comes through
+beveled windows from 25 feet up the west wall. The effect is almost prismatic
+and the Hall takes on a beautiful, hypnotic shimmer. The deep green vein in
+the white marble walls seems to slither its way from the ceiling to the floor.
+Under a bright moon, the vein is predominant. The Great Hall at night is
+eerie.
+~
+27 8 0 0 0 0
+D0
+You look towards a corridor.
+~
+curtain~
+1 0 2844
+D2
+~
+~
+0 0 2838
+D3
+~
+~
+0 0 2849
+S
+#2840
+Servants' Quarters~
+  There is room here for many bunks, with screens to partition the area
+a bit and provide some privacy. There is a door west.
+~
+27 8 0 0 0 0
+D3
+~
+door servants~
+1 0 2841
+S
+#2841
+Spiral Staircase~
+  You are in a small room containing a spiral staircase. It must be the
+stair that the servants use. Doors lie south and east.
+~
+27 8 0 0 0 0
+D1
+You see a doorway leading to the servants' quarters.
+~
+door servants~
+1 2828 2840
+D2
+You look towards the corridor.
+~
+door~
+1 0 2842
+D4
+~
+~
+0 0 2936
+E
+staircase~
+It goes up.
+~
+S
+#2842
+Corridor~
+  You are in a corridor near the servants' quarters. Doors lead
+north and south.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 2828 2841
+D1
+~
+~
+0 0 2843
+D2
+Ah! There's the bar!
+~
+curtain~
+1 0 2845
+S
+#2843
+Corridor~
+  You are in a corridor near the kitchen and the servants' quarters.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2844
+D3
+~
+~
+0 0 2842
+S
+#2844
+Corridor~
+   You are in a short corridor near the kitchen. A door leads south.
+~
+27 8 0 0 0 0
+D0
+It looks like part of the kitchen.
+~
+~
+0 0 2857
+D1
+~
+door~
+1 2828 2833
+D2
+~
+curtain~
+1 0 2839
+D3
+~
+~
+0 0 2843
+S
+#2845
+Bar~
+You are near a small, well-stocked wet bar. When you look into the
+bar you see several bottles of wine standing in it. Behind them
+is a bottle of whiskey. Doors go north and south.
+~
+27 8 0 0 0 0
+D0
+You look towards a corridor.
+~
+curtain~
+1 0 2842
+D1
+~
+~
+0 0 2849
+D2
+You stare into a hallway.
+~
+door~
+1 2828 2850
+S
+#2846
+The Southeast Corner Of The Great Hall~
+  The Great Hall measures approximately 50 feet wide by 90 feet long. Its
+beamed and plastered ceiling is almost 40 feet above the floor. Royal
+weddings, coronations, and funerals occur here. On the south wall,
+doorways lead to sitting rooms, while on the north wall two doors lead
+to a corridor near the kitchen. A bar stands in the northwest corner.
+Light comes through beveled windows from 25 feet up the west wall. The
+effect is almost prismatic and the Hall takes on a beautiful, hypnotic
+shimmer. The deep green vein in the white marble walls seems to slither
+its way from the ceiling to the floor. Under a bright moon, the vein is
+predominant. The Great Hall at night is eerie.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2838
+D2
+~
+door~
+1 0 2856
+D3
+~
+~
+0 0 2847
+S
+#2847
+Southwest Corner Of The Great Hall~
+  Immediately above you is the musicians' loft. Above that are the windows.
+There are shields from the Golden Circle Kingdoms securely affixed to the wall
+here.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2848
+D1
+~
+~
+0 0 2846
+D2
+~
+door~
+1 0 2855
+E
+shield shields~
+Bregma's shield shows a sword pointing downwards. The shield of Eregnor
+depicts a single tower rising into a blue sky.
+~
+S
+#2848
+The West Side Of The Great Hall~
+  Immediately above you is the musicians' loft. Above that are the beveled
+windows. There are shields of the Golden Circle Kingdoms securely affixed to
+the wall here.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2849
+D1
+~
+~
+0 0 2838
+D2
+~
+~
+0 0 2847
+E
+shield shields~
+The shield of Gaiga bears a single tree. Kashfa's features a mountain
+with three stars off to its left side.
+~
+S
+#2849
+The Northwest Corner Of The Great Hall~
+  The Great Hall measures approximately 50 feet wide by 90 feet long. Its
+beamed and plastered ceiling is almost 40 feet above the floor. Royal
+weddings, coronations, and funerals occur here. On the south wall,
+doorways lead to sitting rooms, while on the north wall two doors
+lead to a corridor near the kitchen. A bar stands in the corner west
+of here. There is a statue of the Unicorn here.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2839
+D2
+~
+~
+0 0 2848
+D3
+Ah! There's the bar!
+~
+~
+0 0 2845
+E
+statue unicorn~
+Carved from black and white marble, the statue of the Unicorn is the
+mirror image of the design on the front doors. Its horn points towards
+the windows on the western wall and it seems to beckon the sunlight. On
+nonfestive occasions, the Unicorn is behind a set of deep green curtains.
+~
+E
+north~
+Against the wall is a statue of the Unicorn.
+~
+S
+#2850
+Hallway~
+  This is a short hallway going north and south.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 0 2845
+D2
+~
+~
+0 0 2851
+S
+#2851
+Throne Storage Room~
+  This is a small, plain storage room where the Throne of Amber is stored
+when it is not needed in the Great Hall for official occasions. A door
+stands on the south wall.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2850
+D2
+It looks like a huge stone spiral stair.
+~
+door~
+1 2828 2852
+S
+#2852
+The Great Stair~
+  You are on a huge stone spiral stair. It appears to have been carved
+from the solid rock of Mt. Kolvir. A door leads north.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 0 2851
+D4
+~
+~
+0 0 2853
+D5
+~
+~
+0 0 2979
+E
+stair spiral stone rock staircase~
+The steps radiate from a thick column of solid stone. There are no
+discernable joints or cracks anywhere. There is no railing around the
+perimeter.
+~
+E
+edge perimeter~
+Looking up or down, the stair vanishes into darkness.
+~
+S
+#2853
+The Great Stair~
+  You are on a huge stone spiral stair that seems to have been carved from the
+solid rock of Kolvir.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2854
+D5
+~
+~
+0 0 2852
+S
+#2854
+Musicians' Loft~
+  This is a small balcony over the Great Hall where the musicians sit
+and play.
+
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2853
+S
+#2855
+Sitting Room~
+  This is a small, comfortable room where small groups can visit. A door
+leads north.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 0 2847
+S
+#2856
+Sitting Room~
+  This is a small, comfortable room where small groups can visit. A door
+leads north.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 0 2846
+S
+#2857
+Kitchen~
+  This appears to be the part of the kitchen where the finishing touches
+are made to the food and it is placed on trays for serving.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2858
+D2
+~
+~
+0 0 2844
+S
+#2858
+Kitchen~
+  This appears to be the main area where food is prepared.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2857
+D3
+~
+~
+0 0 2859
+S
+#2859
+Kitchen~
+  This appears to be where the dishes and stuff are cleaned.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2858
+D3
+~
+~
+0 0 2860
+S
+#2860
+Nook~
+  This small, cheerful area is probably where the servants eat and where
+members of the royal family sneak midnight snacks. A door leads west into
+a garden.
+~
+27 12 0 0 0 0
+D1
+~
+~
+0 0 2859
+D3
+You look towards a garden path.
+~
+door~
+1 2828 2861
+S
+#2861
+Garden Path~
+  You're on a pretty, little path.
+~
+27 0 0 0 0 1
+D1
+You look towards a small dining area in the castle.
+~
+door~
+1 2828 2860
+D3
+~
+~
+0 0 2862
+S
+#2862
+Benedict's Japanese Garden~
+   Here is a perfectly lovely meditation garden. The sands and stones,
+plants and waters are laid out in perfect harmony among themselves. Oddly,
+there seems to be an underlying pattern to the garden that is almost
+familiar.
+~
+27 0 0 0 0 1
+D1
+~
+~
+0 0 2861
+D3
+~
+~
+0 0 2761
+E
+oddly~
+Wait, it's not oddly, it's ODDITY!
+~
+S
+#2863
+Hallway~
+  You are in a hallway. There is a door on the south wall.
+~
+27 8 0 0 0 0
+D0
+You look towards a small library.
+~
+~
+0 0 2865
+D1
+~
+~
+0 0 2864
+D2
+~
+door~
+1 2828 2866
+D3
+~
+~
+0 0 2830
+S
+#2864
+Hallway~
+  You are in a hallway.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+2 0 2882
+D3
+~
+~
+0 0 2863
+S
+#2865
+Small Library~
+  This is a small library, presumedly for the use of family and friends.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2870
+D2
+You look towards a hallway.
+~
+~
+0 0 2863
+S
+#2866
+The Yellow Room~
+  This is a small sitting room where the King of Amber conducts official
+business. The floors and walls are constructed of a yellowish stone.
+Doors lead north and east.
+~
+27 8 0 0 0 0
+D0
+You look towards the hallway.
+~
+door~
+1 0 2863
+D1
+You look towards a plain room.
+~
+door heavy~
+1 2828 2867
+S
+#2867
+Guard Room~
+  This looks like a room used by guards. Doors lead east and west.
+~
+27 8 0 0 0 0
+D1
+You look towards the Counting Room.
+~
+door heavy~
+1 2828 2868
+D3
+You look towards the Yellow Room.
+~
+door heavy~
+2 0 2866
+S
+#2868
+Counting Room~
+  This appears to be a room where money could be counted. Doors lead
+north and west.
+~
+27 8 0 0 0 0
+D0
+~
+door iron~
+1 2828 2869
+D3
+You look towards the Guard Room.
+~
+door heavy~
+1 2828 2867
+S
+#2869
+Treasury~
+  This looks like the kind of place where money, records, and valuables
+might be stored. An iron door lies on the south wall.
+~
+27 8 0 0 0 0
+D2
+You look towards the Counting Room.
+~
+door iron~
+2 0 2868
+S
+#2870
+Reading Room~
+  This is a small, comfortable room that looks like a good place to read a
+book. There is a fireplace against the west wall.
+~
+27 8 0 0 0 0
+D0
+You look towards a hallway.
+~
+~
+0 0 2871
+D2
+~
+~
+0 0 2865
+E
+fireplace~
+It's a nice little fireplace that looks quite efficient.
+~
+S
+#2871
+Hallway~
+  You are in a small hallway.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 2828 2873
+D1
+~
+~
+0 0 2872
+D2
+~
+~
+0 0 2870
+D3
+~
+~
+0 0 2833
+S
+#2872
+Hallway~
+  You are in a hallway. A door lies in the north wall.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 2828 2876
+D1
+~
+~
+0 0 2875
+D2
+~
+~
+0 0 2877
+D3
+~
+~
+0 0 2871
+S
+#2873
+Guest Room~
+  You are in a comfortable sitting room for guests of the castle.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2874
+D2
+~
+door~
+1 0 2871
+S
+#2874
+Guest Bedroom~
+You are in a comfortable bedroom for guests of the castle.
+A large, comfortable bed stand in the north corner of the room.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2873
+S
+#2875
+Atrium~
+   You are in a courtyard that is open to the outside but somehow protected
+from the weather. The view out the east wall is stunning, looking straight
+off the cliff of Kolvir.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2878
+D2
+~
+~
+0 0 2879
+D3
+~
+~
+0 0 2872
+S
+#2876
+Guard Room~
+  You are in a large guard room in front of the Armory. A door leads
+south from here.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2880
+D2
+~
+door~
+1 2828 2872
+S
+#2877
+Lounge~
+  If you didn't know better, you wouldn't know you were in a huge castle.
+This cozy room has warm wood paneling and a low, textured ceiling. There's
+a friendly circular fireplace set into the floor at the room's center.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2872
+D2
+~
+~
+0 0 2882
+S
+#2878
+Atrium~
+  You are in the odd court.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2875
+S
+#2879
+Atrium~
+  You are in the strange court.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2875
+S
+#2880
+Armory~
+  You are in the castle armory. New and antique weapons are probably stored
+here.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2881
+D2
+~
+~
+0 0 2876
+S
+#2881
+Armory~
+  You are in the castle armory.
+~
+27 8 0 0 0 0
+D3
+~
+~
+0 0 2880
+S
+#2882
+Billiards Room~
+  How can you play pool on this table? It has no pockets!
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2877
+D1
+~
+~
+0 0 2883
+D2
+You look towards a hallway.
+~
+door~
+1 2828 2864
+S
+#2883
+Small Bar~
+You are near a small, well-stocked wet bar. Inside the bar are
+a few bottles with alcoholic contents. There is a sign here.
+~
+27 8 0 0 0 0
+D3
+~
+~
+0 0 2882
+E
+note~
+The note says: NOT FUNNY, CORWIN. (signed) Gerard.
+~
+E
+sign~
+The sign says "Fam'bly Waterin' Hole" and it features a drawing of a
+large man who is obviously in his cups. There is a note stuck to the sign
+with a dagger.
+~
+S
+#2884
+Hall~
+  The floor is a light-gray marble with bluish gray streaks. There is
+a door south from here.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2836
+D1
+~
+~
+0 0 2887
+D2
+You look towards Benedict's room.
+~
+door benedicts~
+1 2828 2924
+D3
+~
+~
+0 0 2885
+S
+#2885
+Hall~
+  The floor here is of light-gray marble with bluish gray streaks. A
+door goes west.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2886
+D1
+~
+~
+0 0 2884
+D3
+You look towards Caine's rooms.
+
+~
+door caines~
+2 2926 2926
+S
+#2886
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks.
+A door goes west.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2885
+D3
+~
+door bleys~
+1 2828 2928
+S
+#2887
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2888
+D2
+~
+~
+0 0 2894
+D3
+~
+~
+0 0 2884
+S
+#2888
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2889
+D2
+~
+~
+0 0 2887
+S
+#2889
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks. There
+are doors in the south and east wall.
+~
+27 8 0 0 0 0
+D1
+You see a doorway leading to a bathroom.
+~
+door bath~
+1 2828 2890
+D2
+You are looking towards Merlin's room.~
+door merlins~
+1 2930 2930
+D3
+~
+~
+0 0 2888
+S
+#2890
+Bathroom~
+   This bathroom has an emerald-green floor and jade-green walls. The toilet
+and tub appear to be carved from solid white marble. There is a door in the
+west wall.
+~
+27 8 0 0 0 0
+D2
+~
+secret pedal~
+2 2891 2891
+D3
+~
+door bath~
+1 2828 2889
+E
+toilet~
+The toilet is a magnificent piece of functional artistry marred only by
+a small, dirty smudge on its base.
+~
+E
+dirt smudge base~
+The smudge is around a brass knob protruding from the lower base. From a
+distance, it looked like a bolt.
+~
+E
+brass knob~
+Up close, it looks more like a push button or a pedal.
+~
+E
+tub bathtub~
+The bathtub is a four-legged work of sheer artistry.
+~
+E
+push button pedal~
+Next to the thing, whatever it is, there appears to be a keyhole.
+~
+S
+#2891
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks. There
+is a door heading south and the way back through the secret toilet lies
+north from here.
+~
+27 8 0 0 0 0
+D0
+~
+toilet~
+2 2891 2890
+D2
+~
+door~
+1 2892 2892
+S
+#2892
+Brand's Sitting Room~
+  Eclectic and tasteless, Brand's room reflects the man's volatile
+temperament. A door is in the north wall.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 2892 2891
+D2
+You see a doorway leading to Brand's bedroom.
+~
+~
+0 0 2893
+S
+#2893
+Brand's Bedroom~
+   The bed is unmade and the remains of the last meal he ate here before
+his death still rest in dishes on the floor. Chains have been embedded
+in the wall in one corner and there is a small pile of ashes near them.
+Several papers - essays on magic and the Pattern - lie scattered on the
+desk. Old and brittle, they are as useless as the vials and jars of
+unidentified substances that are pushed to the back.
+~
+27 8 0 0 0 0
+D0
+You stare towards Brand's Sitting Room.
+~
+~
+0 0 2892
+S
+#2894
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2887
+D2
+~
+~
+0 0 2895
+S
+#2895
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks. There
+is a door heading west.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2894
+D1
+~
+~
+0 0 2896
+D2
+~
+~
+0 0 2897
+D3
+~
+door gerards~
+1 2828 2922
+S
+#2896
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks. A door
+heads south.
+~
+27 8 0 0 0 0
+D2
+You see a doorway leading to Corwin's chambers.
+~
+door corwins~
+2 2900 2900
+D3
+~
+~
+0 0 2895
+S
+#2897
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2895
+D2
+~
+~
+0 0 2899
+D3
+~
+~
+0 0 2898
+S
+#2898
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks. A door
+exits south.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2897
+D2
+~
+door fionas~
+1 2828 2908
+D3
+~
+~
+0 0 2911
+S
+#2899
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2897
+D2
+~
+~
+0 0 2906
+S
+#2900
+Corwin's Room~
+  Corwin's decorating tastes appear to run to the functional and 
+austere. Doors go north and east.
+~
+27 8 0 0 0 0
+D0
+~
+door corwins~
+1 2900 2896
+D1
+~
+door~
+1 0 2901
+S
+#2901
+Corwin's Bath~
+  Corwin apparently likes a good soak. There's a huge sunken tub here with
+jacuzi jets. There is a panel in the wall to the south and a door goes west.
+~
+27 8 0 0 0 0
+D2
+~
+panel~
+1 2900 2902
+D3
+~
+door~
+1 2900 2900
+S
+#2902
+Hall~
+  The floor is black marble here. A door is on the south wall and
+a panel bars the way north.
+~
+27 8 0 0 0 0
+D0
+~
+panel~
+1 0 2901
+D2
+~
+door~
+1 2905 2904
+D3
+~
+~
+0 0 2903
+S
+#2903
+Small Staircase~
+  You are on a small spiral staircase that goes up from here.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2902
+D4
+~
+~
+0 0 2957
+S
+#2904
+Deirdre's Bedroom~
+  The bedroom is tasteful, modern, and expensive. The bed is made with a lovely quilt and the room is immaculate.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 0 2902
+D3
+~
+screen~
+0 0 2905
+E
+bed~
+It's a large, comfortable bed covered by a warm quilt.
+~
+E
+quilt~
+The quilt has a crescent moon theme.
+~
+S
+#2905
+Deirdre's Sitting Room~
+  The sitting room is decorated in an elegant, modern Manhattan-style.
+The chairs are geniune Frank Lloyd Wright designs. A door goes west.
+~
+27 8 0 0 0 0
+D1
+~
+screen~
+0 0 2904
+D3
+~
+door deirdres~
+1 2905 2906
+S
+#2906
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks. There
+are doors on the east and west walls.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2899
+D1
+You look towards Deirdre's sitting room.
+~
+door deirdres~
+1 2905 2905
+D3
+~
+door~
+1 0 2907
+S
+#2907
+Bathroom~
+  You are in a bathroom decorated in black and silver. It's very striking.
+~
+27 8 0 0 0 0
+D1
+~
+door~
+1 0 2906
+S
+#2908
+Fiona's Sitting Room~
+  This room is tastefully decorated in the style called contemporary
+Scandinavian on Shadow Earth. A door goes north.
+~
+27 8 0 0 0 0
+D0
+~
+door fionas~
+2 2908 2898
+D3
+You stare into Fiona's bedroom.
+~
+~
+0 0 2909
+S
+#2909
+Fiona's Bedroom~
+  The Scandinavian designs emphasize simplicity and sparseness, which Fiona
+turned to very good advantage here.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2908
+D2
+~
+door~
+1 0 2910
+S
+#2910
+Fiona's Bath~
+  The room features sleek, flowing fixtures which blend functionality and
+simple elegance.
+~
+27 8 0 0 0 0
+D0
+You look towards Fiona's bedroom.
+~
+door~
+1 0 2909
+S
+#2911
+Hall~
+  The floor here is of light-gray marble with bluish-gray streaks.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2898
+D3
+~
+~
+0 0 2912
+S
+#2912
+Dining Hall~
+  You are in a small dining hall, probably used by the family when they
+don't take their meals in their rooms. A door is on the north wall.
+~
+27 8 0 0 0 0
+D0
+~
+door Julians~
+1 2828 2920
+D1
+~
+~
+0 0 2911
+D2
+~
+~
+0 0 2913
+D3
+~
+~
+0 0 2914
+S
+#2913
+Library~
+  You are in the library. This one is much larger than the one downstairs.
+There are books all over the place!
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2912
+D2
+~
+~
+0 0 2915
+D3
+~
+~
+0 0 2917
+S
+#2914
+Hall~
+  There is a spiral staircase here. A door is on the north wall.
+~
+27 12 0 0 0 0
+D0
+You see a doorway leading to Eric's room.
+~
+door erics~
+1 2828 2918
+D1
+~
+~
+0 0 2912
+D2
+~
+~
+0 0 2917
+D4
+~
+~
+0 0 2932
+D5
+~
+~
+0 0 2933
+E
+staircase~
+You see a small spiral staircase that goes up and down from here.
+~
+S
+#2915
+Library~
+  You are in the library. This one is much larger than the one downstairs.
+There are books all over the place!
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2913
+D3
+~
+~
+0 0 2916
+E
+books~
+There are books of all sizes, shapes, and colors here. Some of them look
+very, very old.
+~
+S
+#2916
+Library~
+  You are in the library. This one is much larger than the one downstairs.
+There are books all over the place!
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2917
+D1
+~
+~
+0 0 2915
+E
+books~
+There are books of all sizes, shapes, and colors here. Some of them look
+very, very old.
+~
+S
+#2917
+Library~
+  You are in the library. This one is much larger than the one downstairs.
+There are books all over the place!
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2914
+D1
+~
+~
+0 0 2913
+D2
+~
+~
+0 0 2916
+E
+books~
+There are books of all sizes, shapes, and colors here. Some of them look
+very, very old.
+~
+S
+#2918
+Eric's Room~
+Eric's room is decorated in no particular style but it is, for the most
+part, neat and accessible. A small bed stands in the middle of the room.
+A door goes south.
+~
+27 8 0 0 0 0
+D0
+You look towards Eric's bath.
+~
+~
+0 0 2919
+D2
+~
+door erics~
+1 0 2914
+S
+#2919
+Eric's Bath~
+  This is a neat and functional room.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 2918
+S
+#2920
+Julian's Room~
+This room has rugs and furniture made from various animal skins. A bed
+with animal skins on it stands in a corner. A door exits south.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+0 0 2921
+D2
+~
+Julians~
+1 0 2912
+S
+#2921
+Julian's Bath~
+  The hunter's motif is extended to the bath. There's a huge sunken tub
+with a small waterfall.
+~
+27 8 0 0 0 0
+D2
+~
+door~
+0 0 2920
+S
+#2922
+Gerard's Room~
+  Gerard's room reflects his physical orientation. A huge dragon's head
+hangs stuffed and mounted on the far wall. Gerard is less than tidy and
+there are many items scattered about. A door leaves east.
+~
+27 8 0 0 0 0
+D1
+~
+door gerards~
+1 0 2895
+D3
+~
+~
+0 0 2923
+E
+dragon head~
+With its gold and green scales and its huge, polished teeth, the dragon
+has been captured in a pose of attack.
+~
+S
+#2923
+Gerard's Room~
+  Unlike all his siblings, Gerard preferred to eliminate the interior walls in
+his apartment in favor of one large, uninterrupted living space. His bed is in
+this portion of the room.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2922
+S
+#2924
+Benedict's Front Room~
+  Benedict has imported all his furnishings from one specific shadow,
+pre-nineteenth century Japan of Shadow Earth. Upon entering this room,
+visitors are expected to remove their shoes. Doors go north and west.
+~
+27 8 0 0 0 0
+D0
+~
+door benedicts~
+1 0 2884
+D3
+~
+door screen~
+1 0 2925
+S
+#2925
+Benedict's Back Room~
+  Benedict has converted this room into a combination bedroom and Japanese
+garden bath. A door leads east.
+~
+27 8 0 0 0 0
+D1
+~
+door screen~
+1 0 2924
+S
+#2926
+Caine's Living Room~
+  Although not as motif-oriented as some, Caine's apartments clearly reflect
+his interests in naval and military matters. Doors go east and west.
+~
+27 8 0 0 0 0
+D1
+~
+door caines~
+1 2926 2885
+D3
+You see a doorway leading to Caine's bedroom.
+~
+door~
+1 0 2927
+S
+#2927
+Caine's Bedroom~
+The bedroom maintains the nautical motif.  A door goes east.
+You see a bed standing in a corner of the room.
+~
+27 8 0 0 0 0
+D1
+You look towards Caine's front room.
+~
+door~
+1 0 2926
+S
+#2928
+Bleys' Sitting Room~
+  Bleys's rooms are very untidy. His bookshelves are lined with books on
+all sorts of magics, chess, military history, heraldry, weapons design,
+and ship construction. Doors lead east and west.
+~
+27 8 0 0 0 0
+D1
+~
+door bleys~
+1 0 2886
+D3
+~
+door~
+1 0 2929
+S
+#2929
+Bleys' Bedroom~
+  Bleys' bedroom is sparse and untidy. There are various unidentified 
+magical items about. His books are mostly arcane and linguistically
+impenetrable. There is a door on the east wall.
+~
+27 8 0 0 0 0
+D1
+~
+door~
+1 0 2928
+S
+#2930
+Merlin's Sitting Room~
+  Merlin's room reflects his esoteric tastes. A large, colorful Oriental rug
+depicting a hunting scene covers the floor. Its line of trees overwhelms the
+entire room. The furniture is simple, perhaps to counter the rug's dominance.
+Doors lead north and south.
+~
+27 8 0 0 0 0
+D0
+~
+door merlins~
+1 2930 2889
+D2
+You look towards Merlin's bedroom.
+~
+door~
+1 0 2931
+E
+scene~
+ The rug powerfully depicts two horsemen with spears riding hellbent
+after their dogs, all in front of a line of trees.
+~
+E
+furniture~
+ There is only a simple sofa, an end table, and two chairs.
+~
+S
+#2931
+Merlin's Bedroom~
+  Merlin's bedroom has high ceilings and is filled with magickal clutter
+and other bric-a-brac.  A massive ancient astrological device has been
+mounted on the western wall.  Books and bookshelves dominate the rest of
+this room, in some places large volumes are stacked on the floor as high
+as your head! The only apparent exit is through the door to the north.
+~
+27 8 0 0 0 0
+D0
+You look towards Merlin's sitting room.
+~
+door~
+1 0 2930
+E
+device~
+This device looks like it is an artifact of some kind, a large circular
+piece of wrought metal with two pendulums and several counterweights.
+Various astrological symbols have been etched onto the surface of the
+circle, and you surmize that the device is meant to be used to track
+the positions of stars.  You can't imagine taking it however, it is
+bolted to the wall and looks far to heavy to move besides.
+~
+S
+#2932
+Hall~
+  The floor here is bluish-gray marble with black streaks. You can see the
+library downstairs to the south. There is a spiral staircase here. A single
+door leads north.
+~
+27 8 0 0 0 0
+D0
+You look towards a laboratory.
+~
+door~
+1 2828 2966
+D1
+~
+~
+0 0 2945
+D5
+~
+~
+0 0 2914
+E
+library~
+It looks like a lot of books from this angle, too.
+~
+E
+south~
+You can look down into the library from here.
+~
+S
+#2933
+Corridor Between Floors~
+  You are in a passage for servants.
+~
+27 264 0 0 0 0
+D0
+The passage continues.
+~
+~
+0 0 2934
+D4
+~
+~
+0 0 2914
+S
+#2934
+Corridor Between Floors~
+  You are in a passage for servants.
+~
+27 268 0 0 0 0
+D0
+The passage continues.
+~
+~
+0 0 2935
+D2
+The passage continues.
+~
+~
+0 0 2933
+S
+#2935
+Corridor Between Floors~
+  You are in a passage used by servants to move between the first and second
+floors.
+~
+27 268 0 0 0 0
+D0
+The passage continues.
+~
+~
+0 0 2936
+D2
+The passage continues.
+~
+~
+0 0 2934
+S
+#2936
+Corridor Between Floors~
+  You are in a passage used by servants to move between the first and second
+floors.
+~
+27 264 0 0 0 0
+D2
+~
+~
+0 0 2935
+D5
+~
+~
+0 0 2841
+S
+#2937
+Hall~
+  The floor here is bluish-gray marble with black streaks. A door
+goes south.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2837
+D1
+~
+~
+0 0 2939
+D2
+You look towards Martin's room.
+~
+door martins~
+2 2969 2969
+D3
+~
+~
+0 0 2938
+S
+#2938
+Hall~
+  The floor here is bluish-gray marble with black streaks.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2937
+D3
+You look towards a gym or something.
+~
+~
+0 0 2974
+S
+#2939
+Hall~
+  The floor here is bluish-gray marble with black streaks. The entrance to the
+King's Quarters are to the east.
+~
+27 8 0 0 0 0
+D1
+You look towards the entry room to the King's Quarters.
+~
+~
+0 0 2946
+D2
+~
+~
+0 0 2940
+D3
+~
+~
+0 0 2937
+S
+#2940
+Hall~
+  The floor here is bluish-gray marble with black streaks.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2939
+D2
+~
+~
+0 0 2941
+S
+#2941
+Hall~
+  The floor here is bluish-gray marble with black streaks. A doorway
+leads west.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2940
+D2
+~
+~
+0 0 2942
+D3
+You look towards Llewella's room.
+~
+door llewellas~
+1 2967 2967
+S
+#2942
+Hall~
+  The floor here is bluish-gray marble with black streaks.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2941
+D3
+~
+~
+0 0 2943
+S
+#2943
+Hall~
+  The floor here is bluish-gray marble with black streaks. A door goes
+south.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2942
+D2
+~
+door~
+1 2828 2962
+D3
+~
+~
+0 0 2944
+S
+#2944
+Hall~
+  The floor here is bluish-gray marble with black streaks. A door lies
+on the south wall.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2943
+D2
+~
+door~
+1 2828 2964
+D3
+~
+~
+0 0 2945
+S
+#2945
+Hall~
+  The floor here is bluish-gray marble with black streaks. You can look over
+the railing and see down into the library to the south. A door heads north.
+~
+27 8 0 0 0 0
+D0
+You look towards Flora's sitting room.
+~
+door Floras~
+2 2971 2971
+D1
+~
+~
+0 0 2944
+D3
+~
+~
+0 0 2932
+E
+library~
+There seems to be a whole of books there from this angle, too.
+~
+E
+south~
+You see down into the library on the second floor.
+~
+E
+railing~
+It's a very sturdy railing.
+~
+S
+#2946
+The King's Entry~
+  The entryway to the King's office. Do you have an appointment?  A door
+leads north.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 2828 2954
+D1
+~
+~
+0 0 2947
+D3
+~
+~
+0 0 2939
+S
+#2947
+King's Waiting Room~
+  You are waiting in the King's waiting room. It's very comfortable here.
+A door goes south.
+~
+27 8 0 0 0 0
+D2
+~
+door~
+1 2828 2948
+D3
+~
+~
+0 0 2946
+S
+#2948
+The King's Office~
+  This is the official offices of the King of Amber and it contains all
+the lavish trappings of a powerful liege. The room also has powerful
+spells placed on it to prevent the King from being influenced by magic.
+Doors go north and west.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 2828 2947
+D3
+~
+door music~
+1 2828 2949
+S
+#2949
+Conservatory~
+  This was once a part of the office but Random has had it walled off to
+provide him a place to practice his drums. South and east lie doors.
+~
+27 8 0 0 0 0
+D1
+~
+door music~
+1 2828 2948
+D2
+~
+door~
+2 2950 2950
+S
+#2950
+Royal Sitting Room~
+   You are in the personal sitting room of the royal couple. It's very
+comfortable, a great place for a casual visit.  Doors head north,
+south, and east.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+2 2950 2949
+D1
+~
+door bath~
+1 0 2951
+D2
+~
+door bedroom~
+2 0 2952
+S
+#2951
+Royal Bath~
+  This is the royal couple's bath. It's quite large. A door heads west.
+~
+27 8 0 0 0 0
+D3
+~
+door bath~
+1 0 2950
+S
+#2952
+Royal Bedroom~
+You are in the royal couple's bedroom. A large, comfortable bed is
+standing in the middle of the room. There is a fireplace to the east
+and a door leads north.
+~
+27 8 0 0 0 0
+D0
+~
+door bedroom~
+2 2950 2950
+D1
+~
+secret fireplace~
+2 0 2953
+E
+fireplace~
+Hrmm.. there seems to be something odd about it.
+~
+S
+#2953
+Behind The Fireplace~
+  A dark, unfurnished room.
+~
+27 8 0 0 0 0
+D3
+~
+fireplace~
+1 0 2952
+S
+#2954
+Vialle's Studio~
+  You are in an artist's studio. Several unfinished sculptures are about.
+A door goes south.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2955
+D2
+~
+door~
+1 2828 2946
+D3
+~
+~
+0 0 2956
+S
+#2955
+Vialle's Studio~
+  You are in an artist's studio. Several unfinished sculptures are about.
+~
+27 8 0 0 0 0
+D3
+~
+~
+0 0 2954
+S
+#2956
+Vialle's Studio~
+  You are in an artist's studio. Several unfinished sculptures are about.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2954
+S
+#2957
+Small Staircase~
+  You are on a small staircase that goes down. A door leads east.
+~
+27 8 0 0 0 0
+D1
+~
+door~
+1 0 2958
+D5
+~
+~
+0 0 2903
+S
+#2958
+Dworkin's Bedroom~
+  Dworkin's bedroom is sparsely furnished. It's dusty and looks like it
+hasn't been used in years. Doors go west and south.
+~
+27 8 0 0 0 0
+D2
+~
+door~
+1 2828 2959
+D3
+~
+door~
+1 2828 2957
+S
+#2959
+Dworkin's Library~
+  Everything is covered with dust here. You hesitate to touch anything.
+A door leads north into the bedroom.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 0 2958
+D3
+~
+~
+0 0 2960
+S
+#2960
+Dworkin's Study~
+  This would be a very comfortable place to sit if there were any chairs
+and if it wasn't so dusty in here. There is a fireplace here. That's
+probably where the dust has blown in.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2959
+D3
+~
+secret fireplace~
+2 0 2961
+E
+fireplace~
+The fireplace is large enough to crawl into... If you were to open
+it up that is.
+~
+S
+#2961
+Behind The Fireplace~
+  A dark, unfurnished room.
+~
+27 8 0 0 0 0
+D1
+~
+fireplace~
+2 0 2960
+S
+#2962
+Guest Room~
+  The guest room is sparsely but comfortably furnished. A door leaves
+north from here.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 0 2943
+D2
+~
+~
+0 0 2963
+S
+#2963
+Guest Room~
+  This part of the guest room is for sleeping.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2962
+S
+#2964
+Guest Room~
+  This guest room is elegantly and comfortably furnished. A door
+heads north out of the room.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+1 0 2944
+D2
+~
+~
+0 0 2965
+S
+#2965
+Guest Room~
+  This part of the guest room is the sleeping quarters.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2964
+S
+#2966
+Lab~
+  This looks like the family laboratory. However, there are also a number
+of medical supplies about. It appears that this room served as a hospital
+as well. A door is in the south wall.
+~
+27 8 0 0 0 0
+D2
+~
+door~
+1 0 2932
+S
+#2967
+Llewella's Sitting Room~
+  Llewella's apartments reflect her fascination with Venus, the Graeco-
+Roman goddess of love, whom she claims to have met during her first
+Shadow-shift. Her rooms bear a beautiful seashell motif. Doors head east and
+west.
+~
+27 8 0 0 0 0
+D1
+~
+door llewellas~
+1 2967 2941
+D3
+~
+door~
+1 0 2968
+S
+#2968
+Llewella's Bedroom~
+  The bedroom continues and extends the seashell motif. A door heads
+east out of here.
+~
+27 8 0 0 0 0
+D1
+~
+door~
+1 0 2967
+S
+#2969
+Martin's Room~
+  Martin's room looks like any guest room. He must not be in Amber much.
+A door goes north from here.
+~
+27 8 0 0 0 0
+D0
+~
+door martins~
+2 2969 2937
+D3
+You look towards a bedroom.
+~
+door~
+0 0 2970
+S
+#2970
+Martin's Bedroom~
+  Martin's bedroom is as devoid of personal artifacts as the front room.
+~
+27 8 0 0 0 0
+D1
+~
+door~
+0 0 2969
+S
+#2971
+Flora's Sitting Room~
+  Flora's furnishings are French, from the Napoleonic era. There is a large
+oil painting on the wall.
+~
+27 8 0 0 0 0
+D0
+~
+door~
+0 0 2972
+D2
+~
+door Floras~
+2 2971 2945
+E
+painting~
+A painting of the Emperor Napoleon, commissioned by him as a gift to
+Flora herself. She managed to convince him not to wear that ridiculous
+hat.
+~
+S
+#2972
+Flora's Bedroom~
+  The bedroom also features furnishings from the Napoleonic period. A bright
+red canopied bed occupies most of the room.
+~
+27 8 0 0 0 0
+D2
+~
+door~
+0 0 2971
+D3
+You look towards the bath.
+~
+bath~
+0 0 2973
+S
+#2973
+Flora's Bath~
+   One of the most outlandish baths you've ever seen, it carries the
+French-style decor into its historically weakest area. Little, cute
+statues spout water into a large, shell-shaped tub. The fixtures are
+gold on the sink, toilet, and - what's that thing? Oh, a bidet.
+~
+27 8 0 0 0 0
+D1
+~
+bath~
+0 0 2972
+S
+#2974
+Fencing Room~
+  This room is used as a training room. Apparently, some swordfighting
+goes on here. The room continues to the north. A door goes west.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 2976
+D1
+~
+~
+0 0 2938
+D3
+~
+door~
+1 0 2975
+S
+#2975
+Steam Room~
+  There's steam all over! And it's hot in here.
+~
+27 8 0 0 0 0
+D1
+~
+door~
+1 0 2974
+S
+#2976
+Weight Room~
+  If anyone lifts these weights, they must be superhuman. A doorway
+leads west and the fireplace on the east wall looks large enough to
+crawl into.
+~
+27 8 0 0 0 0
+D1
+~
+secret fireplace~
+1 0 2977
+D2
+~
+~
+0 0 2974
+D3
+~
+door~
+1 0 2978
+S
+#2977
+Behind The Fireplace~
+  A dark, unfurnished room.
+~
+27 8 0 0 0 0
+D3
+~
+fireplace~
+1 0 2976
+S
+#2978
+Racquetball Court~
+  This area looks just like a racquetball court.
+~
+27 8 0 0 0 0
+D1
+~
+door~
+1 0 2976
+S
+#2979
+The Great Stair~
+   You are on a huge, stone spiral staircase.  It appears to have been carved
+from the solid rock of Kolvir. There is on note on the step here, held in 
+place by a large silver dagger stuck through it and into the stone.
+~
+27 8 0 0 0 0
+D4
+~
+~
+0 0 2852
+D5
+~
+~
+0 0 2980
+E
+note~
+The note says, "THIS ONE DAMMIT! (signed) Gerard"
+~
+E
+dagger~
+The dagger was impossibly imbedded in the solid rock by some mighty hand.
+You can't pull it loose.
+~
+S
+#2980
+The Great Stair~
+  You are on a huge stone spiral stair.
+~
+27 8 0 0 0 0
+D4
+~
+~
+0 0 2979
+D5
+~
+~
+0 0 2981
+S
+#2981
+The Great Stair~
+  You are on a huge stone spiral stair.
+~
+27 8 0 0 0 0
+D4
+~
+~
+0 0 2980
+D5
+~
+~
+0 0 2982
+S
+#2982
+The Bottom Of The Stair~
+  You stand at the bottom of a huge stone spiral stair.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 2983
+D4
+~
+~
+0 0 2981
+S
+#2983
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D1
+~
+~
+0 0 2984
+D3
+~
+~
+0 0 2982
+S
+#2984
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 2998
+D1
+~
+~
+0 0 2985
+D3
+~
+~
+0 0 2983
+S
+#2985
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D1
+~
+~
+0 0 2986
+D3
+~
+~
+0 0 2984
+S
+#2986
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 2999
+D1
+~
+~
+0 0 2987
+D3
+~
+~
+0 0 2985
+S
+#2987
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D1
+~
+~
+0 0 2988
+D3
+~
+~
+0 0 2986
+S
+#2988
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 3000
+D1
+~
+~
+0 0 2989
+D3
+~
+~
+0 0 2987
+S
+#2989
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D1
+~
+~
+0 0 2990
+D3
+~
+~
+0 0 2988
+S
+#2990
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 3001
+D1
+~
+~
+0 0 2991
+D3
+~
+~
+0 0 2989
+S
+#2991
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+
+~
+27 8 0 0 0 3
+D1
+~
+~
+0 0 2992
+D3
+~
+~
+0 0 2990
+S
+#2992
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 3002
+D1
+~
+~
+0 0 2993
+D3
+~
+~
+0 0 2991
+S
+#2993
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D1
+~
+~
+0 0 2994
+D3
+~
+~
+0 0 2992
+S
+#2994
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 3003
+D1
+~
+~
+0 0 2995
+D3
+~
+~
+0 0 2993
+S
+#2995
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+
+~
+27 8 0 0 0 3
+D1
+~
+~
+0 0 2996
+D3
+~
+~
+0 0 2994
+S
+#2996
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 3004
+D1
+~
+~
+0 0 2997
+D3
+~
+~
+0 0 2995
+S
+#2997
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D1
+~
+~
+0 0 2988
+D3
+~
+~
+0 0 2996
+S
+#2998
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 2998
+D2
+~
+~
+0 0 2984
+S
+#2999
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 2999
+D2
+~
+~
+0 0 2986
+S
+#3000
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 0 0 0 0 0
+D2
+~
+~
+0 0 2988
+S
+#3001
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 3001
+D2
+~
+~
+0 0 2990
+S
+#3002
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D2
+~
+~
+0 0 2992
+S
+#3003
+Tunnel~
+   You are in a tunnel, hewn from the living heart of Mount Kolvir.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 3003
+D2
+~
+~
+0 0 2994
+S
+#3004
+Tunnel~
+   You are in a tunnel. There is a door on the east wall.
+~
+27 8 0 0 0 3
+D0
+~
+~
+0 0 3004
+D1
+~
+door~
+1 0 3005
+D2
+~
+~
+0 0 2996
+S
+#3005
+By The Pattern~
+   You stand in a narrow space between the wall and some glowing lines on
+the floor to the east that pulse with deadly energy. The room itself is
+large; its ceiling and walls lost in shadows.
+   To the west you see a door. A charred bird skeleton lies left to decay 
+at its base, proclaiming that whatever lies outside the pattern is deadly.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3006
+D1
+~
+~
+0 0 3021
+D2
+~
+~
+0 0 3020
+D3
+~
+door~
+1 0 3004
+S
+#3006
+By The Pattern~
+   You are in a narrow strip between the wall and some deadly glowing lines
+of energy that run through floor to the east.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3007
+D1
+~
+~
+0 0 3021
+D2
+~
+~
+0 0 3005
+S
+#3007
+By The Pattern~
+  You are in the corner of the room. The glowing lines are to your southeast.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 3008
+D2
+~
+~
+0 0 3006
+S
+#3008
+By The Pattern~
+   You are on a narrow strip between the wall and some deadly, glowing
+lines of energy that run the length of the floor to the south.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 3009
+D2
+~
+~
+0 0 3021
+D3
+~
+~
+0 0 3007
+S
+#3009
+By The Pattern~
+   You are on a narrow strip between the wall and some deadly, glowing
+lines of energy that run the length of the floor to the south.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 3010
+D2
+~
+~
+0 0 3021
+D3
+~
+~
+0 0 3008
+S
+#3010
+By The Pattern~
+   You are on a narrow strip between the wall and some deadly, glowing
+lines of energy that run the length of the floor to the south.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 3011
+D2
+~
+~
+0 0 3021
+D3
+~
+~
+0 0 3009
+S
+#3011
+By The Pattern~
+   You stand in the northeastern corner of the room of the Pattern.
+You appear to be safe from the deadly lines here and can continue
+to the south and west.
+~
+27 8 0 0 0 0
+D2
+~
+~
+0 0 3012
+D3
+~
+~
+0 0 3010
+S
+#3012
+By The Pattern~
+   You are on a narrow strip between the wall and the deadly pattern to
+the west.
+   A charred rat skeleton lies here, decaying.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3011
+D2
+~
+~
+0 0 3013
+D3
+~
+~
+0 0 3021
+S
+#3013
+By The Pattern~
+   You are on a narrow strip between the wall and the deadly pattern to
+the west.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3012
+D2
+~
+~
+0 0 3014
+D3
+~
+~
+0 0 3021
+S
+#3014
+By The Pattern~
+   You are on a narrow strip between the wall and the deadly pattern to
+the west.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3013
+D2
+~
+~
+0 0 3015
+D3
+~
+~
+0 0 3021
+S
+#3015
+By The Pattern~
+   You are in the southeastern corner of the room. The Pattern lies to
+the northwest.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3014
+D3
+~
+~
+0 0 3016
+S
+#3016
+By The Pattern~
+   You are on a narrow strip between the wall and the deadly Pattern
+that lies to the north. Your head begins to bead with sweat as you
+look back, knowing that you have come this far without touching the 
+deadly lines.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3021
+D1
+~
+~
+0 0 3015
+D3
+~
+~
+0 0 3017
+S
+#3017
+By The Pattern~
+   You are standing in a narrow strip of floor between the dark wall and
+the deadly pattern to the north.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3021
+D1
+~
+~
+0 0 3016
+D3
+~
+~
+0 0 3018
+S
+#3018
+By The Pattern~
+   You are standing on a narrow step of dark floor between the wall
+and the magical Pattern to the north.  Here, the pattern leads north
+into a separate path in the weave.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3023
+D1
+~
+~
+0 0 3017
+D3
+~
+~
+0 0 3019
+S
+#3019
+By The Pattern~
+   You are standing in the southwestern corner of the Pattern room.
+Lines of energy mark the border of the pattern to the northeast.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3020
+D1
+~
+~
+0 0 3018
+S
+#3020
+By The Pattern~
+   You are on a narrow strip between the wall and the Pattern to the east.
+Stepping on the Pattern here would surely be fatal, though it appears you
+could skirt to safety to the north and south.
+~
+27 8 0 0 0 0
+D0
+~
+~
+0 0 3005
+D1
+~
+~
+0 0 3021
+D2
+~
+~
+0 0 3019
+S
+#3021
+On The Pattern~
+  You started walking the Pattern at the wrong place. That's a deadly
+mistake.
+
+
+  The Pattern kills you.
+~
+27 2 0 0 0 0
+S
+#3022
+A step off the Pattern~
+  You have inadvertantly stepped off the great Pattern.  The cosmic energies
+infused within this mystical symbol tear your puny mortal body to shreds.
+
+
+The Great Pattern has unmade you.
+~
+27 2 0 0 0 0
+S
+#3023
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 0
+R 30/pattern_dmg.lua 0
+D0
+~
+~
+0 0 3028
+D1
+~
+~
+0 0 3024
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#3024
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 3
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3025
+D3
+~
+~
+0 0 3023
+S
+#3025
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 0
+D0
+~
+~
+0 0 3024
+D1
+~
+~
+0 0 3026
+D2
+~
+~
+0 0 3028
+D3
+~
+~
+0 0 3022
+S
+#3026
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 3
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3031
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3027
+S
+#3027
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 3
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3047
+D2
+~
+~
+0 0 3025
+D3
+~
+~
+0 0 3022
+S
+#3028
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 3
+D0
+~
+~
+0 0 3034
+D1
+~
+~
+0 0 3024
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#3029
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 3
+D0
+~
+~
+0 0 3030
+D1
+~
+~
+0 0 3028
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#3030
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 3
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3031
+D2
+~
+~
+0 0 3029
+D3
+~
+~
+0 0 3022
+S
+#3031
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 3
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3033
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3032
+S
+#3032
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 3
+D0
+~
+~
+0 0 3030
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3030
+D3
+~
+~
+0 0 3022
+S
+#3033
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 3
+D0
+~
+~
+0 0 3034
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3023
+D3
+~
+~
+0 0 3022
+S
+#3034
+On The Pattern~
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+engulf your ankles.
+~
+27 520 0 0 0 3
+D0
+~
+~
+0 0 3028
+D1
+~
+~
+0 0 3032
+D2
+~
+~
+0 0 3033
+D3
+~
+~
+0 0 3022
+S
+#3035
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3036
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3035
+S
+#3036
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3037
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3040
+D3
+~
+~
+0 0 3035
+S
+#3037
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3036
+D2
+~
+~
+0 0 3038
+D3
+~
+~
+0 0 3035
+S
+#3038
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3049
+D1
+~
+~
+0 0 3039
+D2
+~
+~
+0 0 3035
+D3
+~
+~
+0 0 3035
+S
+#3039
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3048
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3035
+D3
+~
+~
+0 0 3022
+S
+#3040
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3035
+D1
+~
+~
+0 0 3036
+D2
+~
+~
+0 0 3041
+D3
+~
+~
+0 0 3022
+S
+#3041
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3042
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3043
+S
+#3042
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3049
+S
+#3043
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3041
+D2
+~
+~
+0 0 3044
+D3
+~
+~
+0 0 3022
+S
+#3044
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3043
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3045
+D3
+~
+~
+0 0 3022
+S
+#3045
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3044
+D1
+~
+~
+0 0 3050
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#3046
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3045
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3049
+D3
+~
+~
+0 0 3042
+S
+#3047
+First Veil~
+  You get a little breather here, just past the First Veil.
+~
+27 520 0 0 0 0
+D1
+~
+~
+0 0 3035
+S
+#3048
+Second Veil~
+  Here, just pass the Second Veil, you can take a little break.
+~
+27 520 0 0 0 0
+D0
+~
+~
+0 0 3051
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#3049
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3046
+D1
+~
+~
+0 0 3050
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3050
+S
+#3050
+On The Pattern~
+  Sparks from the Pattern rise to your waist.
+~
+27 520 0 0 0 5
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3049
+D2
+~
+~
+0 0 3050
+D3
+~
+~
+0 0 3049
+S
+#3051
+On The Pattern~
+  Sparks from the Pattern rise to your shoulders.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3052
+D1
+~
+~
+0 0 3053
+D2
+~
+~
+0 0 3045
+D3
+~
+~
+0 0 3022
+S
+#3052
+On The Pattern~
+  Sparks from the Pattern rise to your shoulders.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3053
+D1
+~
+~
+0 0 3053
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3053
+S
+#3053
+On The Pattern~
+  Sparks from the Pattern rise to your shoulders.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3055
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#3054
+On The Pattern~
+  Sparks from the Pattern rise to your shoulders.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3051
+D1
+~
+~
+0 0 3053
+D2
+~
+~
+0 0 3053
+D3
+~
+~
+0 0 3053
+S
+#3055
+On The Pattern~
+  Sparks from the Pattern rise to your shoulders.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3051
+D1
+~
+~
+0 0 3051
+D2
+~
+~
+0 0 3051
+D3
+~
+~
+0 0 3056
+S
+#3056
+On The Pattern~
+  Sparks from the Pattern rise to your shoulders.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3057
+D3
+~
+~
+0 0 3022
+S
+#3057
+The Grand Curve~
+  Blissful stillness. A peaceful calm comes over you as the forces
+of the Pattern suddenly subside.
+~
+27 520 0 0 0 0
+D3
+~
+~
+0 0 3058
+S
+#3058
+On The Pattern~
+  Sparks from the Pattern rise above your head. You can barely see.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3059
+D3
+~
+~
+0 0 3022
+S
+#3059
+On The Pattern~
+  Sparks from the Pattern rise above your head. You can barely see.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3060
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3058
+D3
+~
+~
+0 0 3022
+S
+#3060
+On The Pattern~
+  Sparks from the Pattern rise above your head. You can barely see.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3058
+D2
+~
+~
+0 0 3061
+D3
+~
+~
+0 0 3059
+S
+#3061
+On The Pattern~
+  Sparks from the Pattern rise above your head. You can barely see.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3059
+D1
+~
+~
+0 0 3062
+D2
+~
+~
+0 0 3058
+D3
+~
+~
+0 0 3022
+S
+#3062
+On The Pattern~
+  Sparks from the Pattern rise above your head. You can barely see.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3059
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3063
+S
+#3063
+On The Pattern~
+  Sparks from the Pattern rise above your head. You can barely see.
+~
+27 520 0 0 0 10
+D0
+~
+~
+0 0 3060
+D1
+~
+~
+0 0 3059
+D2
+~
+~
+0 0 3058
+D3
+~
+~
+0 0 3064
+S
+#3064
+The Final Veil~
+  The energies of the Pattern completely subside. You are left in silence.
+~
+27 520 0 0 0 10
+D4
+~
+~
+0 0 3065
+S
+#3065
+The Center Of The Pattern~
+  The center of the Pattern is the center of the universe. From here you
+may seek the powerful artifact known as the Eye of the Logrus (as well
+as other names).
+~
+27 520 0 0 0 0
+R 30/pattern_3065.lua 32
+D5
+~
+~
+0 0 2960
+S
+#3066
+Fishmonger's Road~
+This muddy path runs north. You can hear noises all around you.
+A shop is to the west.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 3067
+D2
+~
+~
+0 0 2774
+D3
+~
+~
+0 0 3069
+S
+#3067
+Fishmonger's Road~
+   This muddy path runs north along the harbor. The heavy rainstorms
+keep the ground moist. A shop is to the west.
+~
+27 0 0 0 0 1
+D0
+~
+~
+0 0 3068
+D2
+~
+~
+0 0 3066
+D3
+~
+~
+0 0 3070
+S
+#3068
+Fishmonger's Road~
+   This muddy path runs north along the harbor. The heavy rainstorms
+keep the ground moist. A shop is to the west.
+~
+27 0 0 0 0 1
+D2
+~
+~
+0 0 3067
+D3
+~
+~
+0 0 3071
+S
+#3069
+The Armory~
+  This is a clean looking shop which sports a foundry in the back, they
+must make all these armors in house, instead of trading for them. Most
+of the pieces are complete suits designed specifically for the royal family
+of Amber, but it looks like the blacksmith has enough talent to repair or
+replace any armor you can specify.
+~
+27 12 0 0 0 0
+D1
+~
+~
+0 0 3066
+S
+#3070
+Stven's Armaments~
+  This store contains a wide variety of swords, axes, and other weaponry
+that a soldier or adventurer might purchase.  Most of the armaments are
+displayed on the walls or hung from the ceiling, you'd hate to be nearby
+if any of those swords hung from the crossbeam fell.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 3067
+S
+#3071
+The Smithy~
+A forge and blacksmithery surrounds you.
+~
+27 8 0 0 0 0
+D1
+~
+~
+0 0 3068
+S
+#3072
+The Hotel Safe~
+  The blank walls of the hotel safe surround you.
+~
+27 9 0 0 0 0
+D3
+~
+safe~
+1 2732 2807
+S
+$~

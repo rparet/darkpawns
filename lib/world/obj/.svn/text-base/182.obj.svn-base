@@ -1,0 +1,460 @@
+#18201
+fountain water~
+dragon-shaped fountain~
+A fountain in the shape of a dragon spouts water from its mouth.~
+~
+23 64 0 0 0 0 0 0 0
+99999 99999 15 0
+100004 0 100.00
+#18202
+beer barrel~
+a barrel~
+A beer barrel has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+50 50 1 0
+65 300 100.00
+#18203
+beer bottle~
+a bottle~
+A bottle of warm brew has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 1 0
+10 20 100.00
+#18204
+bread loaf~
+a loaf of bread~
+A loaf of bread has been left here.~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 0
+1 3 100.00
+#18205
+danish pastry~
+a danish pastry~
+A nice looking delicious danish pastry has been placed here.~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0
+1 2 100.00
+#18206
+crab~
+a crab~
+A tasty looking crab is sitting here.~
+~
+19 0 0 0 0 1 0 0 0
+5 0 0 0
+1 5 100.00
+#18207
+meat~
+a piece of meat~
+A piece of good looking meat is on the ground here~
+~
+19 0 0 0 0 1 0 0 0
+14 0 0 0
+5 24 100.00
+#18208
+shirt~
+a cotton shirt~
+A shirt has been rolled into a ball and tossed here, but it is wrinkle free.~
+~
+9 0 0 0 0 9 0 0 0
+2 0 0 0
+10 20 100.00
+#18209
+denim jeans~
+a pair of denim jeans~
+A pair of blue jeans have been dropped here.~
+~
+9 0 0 0 0 33 0 0 0
+3 0 0 0
+8 50 100.00
+#18210
+pants leather~
+a pair of leather pants~
+A pair of leather pants is lying on the ground.~
+~
+9 0 0 0 0 33 0 0 0
+3 0 0 0
+8 30 100.00
+#18211
+carnation flower~
+a pink carnation~
+A nice pink flower, probably a carnation, has been left here~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 3 100.00
+#18212
+rose flower~
+a red rose~
+A longstem red rose has been carelessly left here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 5 100.00
+#18213
+knife long~
+a long knife~
+A long knife with a long, sharp blade is here.~
+pierce~
+5 0 0 0 0 8193 0 0 0
+0 1 4 11
+1 10 10.00
+#18214
+short sword~
+a short sword~
+A short sword lies here.~
+
+~
+5 0 0 0 0 8193 0 0 0
+0 1 6 11
+3 60 10.00
+#18215
+sword katana~
+a katana~
+A long sword has been left here.~
+slash
+~
+5 0 0 0 0 8193 0 0 0
+0 1 8 3
+8 80 10.00
+#18216
+staff wooden bo~
+a wooden bo~
+A simple looking but effective wood staff is here.~
+pound
+~
+5 0 0 0 0 8193 0 0 0
+0 1 3 7
+3 12 100.00
+#18217
+whip scourge~
+a scourge~
+A nasty looking whip with metal thorns is lying here.~
+~
+5 64 0 0 0 24577 0 0 0
+0 3 8 2
+10 9000 100.00
+#18218
+scale mail shirt~
+a scale mail shirt~
+A shirt made of scale mail is lying here.~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0
+30 180 180.00
+#18219
+scale mail shirt~
+a scale mail shirt~
+A skirt made of scale mail has been left here.~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0
+40 250 50.00
+#18220
+shield metal~
+a small metal shield~
+A very small shield of metal is lying here waiting to rust.~
+~
+9 0 0 0 0 513 0 0 0
+4 0 0 0
+10 200 10.00
+#18221
+torch~
+a torch~
+A large torch.~
+~
+1 0 0 0 0 32769 0 0 0
+0 0 24 0
+1 10 100.00
+#18222
+lantern~
+a lantern~
+A small lantern is here.~
+~
+1 0 0 0 0 32769 0 0 0
+0 0 96 0
+1 50 100.00
+#18223
+bag~
+a bag~
+A small bag is here.~
+~
+15 0 0 0 0 16385 0 0 0
+30 0 0 0
+2 20 100.00
+#18224
+atm teller bank machine~
+an automatic teller machine~
+An automatic teller machine has been installed in the wall here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+9990 0 100.00
+E
+atm teller bank machine~
+There is a small note on the machine which says:
+
+To use, type "BALANCE", "WITHDRAW x", or "DEPOSIT x".  Please report any
+strange occurrences to the bank manager.
+~
+#18225
+scale gloves~
+a pair of scale mail gloves~
+A pair of nice scale mail gloves are sitting here.~
+~
+9 0 0 0 0 129 0 0 0
+6 0 0 0
+8 150 100.00
+#18226
+helmet scale~
+a scale mail helmet~
+A small scale mail helmet is lying here.~
+~
+9 0 0 0 0 17 0 0 0
+6 0 0 0
+8 300 100.00
+#18227
+sleeves scale~
+a pair of scale mail sleeves~
+A pair of scale mail sleeves is lying on the ground.~
+~
+9 0 0 0 0 257 0 0 0
+6 0 0 0
+8 150 100.00
+#18228
+board bulletin~
+a bulletin board~
+A large, bulletin board is sitting off to the side here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+9990 0 100.00
+E
+board~
+Try "look board" to read the messages.
+~
+#18229
+bananas~
+a bunch of bananas~
+A bunch of large, ripe bananas is sitting here.~
+~
+19 0 0 0 0 1 0 0 0
+7 0 0 0
+3 30 100.00
+#18230
+cantalope~
+a single cantalope~
+A large, round cantalope it here.~
+~
+19 0 0 0 0 1 0 0 0
+5 0 0 0
+2 23 100.00
+#18231
+corn~
+a bushel of corn~
+A large bushel of corn is here.~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0
+8 20 100.00
+#18232
+apple~
+a single red apple~
+A shiny red apple is here.~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 0
+1 5 100.00
+#18233
+sushi fish~
+a piece of sushi~
+A nice piece of raw fish/sushi has been placed here.~
+~
+19 0 0 0 0 1 0 0 0
+8 0 0 0
+1 7 100.00
+#18250
+arbir polearm~
+an arbir~
+A spike-ended polearm lies here.~
+~
+5 0 0 0 0 1 0 0 0
+0 2 6 3
+8 250 250.00
+E
+arbir polearm~
+It is a 5'-long weapon, consisting of a convex blade on one end and a 
+sharpened spike on the other.
+~
+#18251
+ashiko claws~
+a pair of ashiko~
+Some metal climbing claws lie here.~
+~
+9 217378816 0 0 0 65 0 0 0
+1 0 0 0
+3 3500 15.00
+A
+19 2
+A
+12 -10
+A
+14 -10
+#18252
+bokken sword katana~
+a bokken~
+A wooden practice sword lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 6 5
+12 100 100.00
+#18254
+katar dagger~
+a katar~
+A punch-dagger lies here.~
+~
+5 12288 0 0 0 8321 0 0 0
+0 2 3 14
+2 100 100.00
+#18255
+chai-dao chai dao polearm~
+a chai-dao~
+A broad-bladed polearm lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 3 3
+12 350 350.00
+E
+polearm chai-dao chai dao~
+It is about 5'3" tall, with 2'6" of that length a wicked curved blade, the 
+rest is haft
+~
+#18256
+chain sword~
+a chain sword~
+Two sword blades, connected by a length of chain, lies here.  ~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 3 3
+8 200 200.00
+#18257
+whip chain~
+a chain whip~
+A chain whip lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 11 2
+10 350 350.00
+#18258
+chiang spear~
+a chiang~
+A spear of oriental design lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 11 11
+5 300 300.00
+#18259
+comet star hammer balls~
+a comet star hammer~
+Two spiked balls linked with a foot of chain lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 6 5
+6 50 50.00
+#18260
+saber darn do~
+a darn do~
+A saber of oriental design lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 3 3
+9 400 400.00
+#18261
+shuriken endokuken~
+an endokuken~
+A shuriken lies here.~
+~
+3 64 0 0 0 16385 0 0 0
+10 6 1 33
+1 100 100.00
+#18262
+fang goad~
+an oriental fang~
+An oriental fang lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 5 3
+12 300 10.00
+E
+fang goad~
+It is an heavy iron rod resembling an elephant goad. It's about 2' long, with
+a point at one end. About 1/3 of the way from the top lies a curved blade
+on one side.
+~
+#18263
+ghi halberd~
+a ghi~
+A halberd of oriental design lies in the dust here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 13 3
+12 500 15.00
+E
+ghi halberd~
+It looks like a spear with two crescent moon-shaped blades set just below
+the spearhead.
+~
+#18264
+sword hook~
+a hook sword~
+A savage looking sword lies here on the ground.~
+~
+5 12288 0 0 0 8193 0 0 0
+0 1 13 3
+29 600 95.00
+E
+hook sword savage~
+It is a straight, double-edged blade, with a forward curving hook on one end 
+and a butt-spike protruding from the hilt. A bladed crescent moon-shaped guard  
+for the hand gives it a savage look.
+~
+#18265
+jien broadsword~
+a jien~
+An oriental broadsword lies on the ground here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 2 3
+10 2000 2000.00
+#18266
+zen staff~
+the zen staff~
+A simple, well-worn staff is lying here.~
+~
+5 575552 0 0 0 8193 0 0 0
+0 2 3 5
+9 4500 100.00
+A
+26 2
+A
+12 10
+#18267
+key brass ornate~
+an ornate brass key~
+A shiny brass key of intricate design.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 50.00
+#18268
+ancient helm dwarven~
+an ancient dwarven helm~
+An ancient helm of dwarven design rests here.~
+~
+9 149713985 0 0 0 17 0 0 0
+15 0 0 0
+15 8200 10.00
+$~

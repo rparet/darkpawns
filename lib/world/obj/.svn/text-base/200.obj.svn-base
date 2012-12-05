@@ -1,0 +1,283 @@
+#20000
+key ebonstone~
+an ebonstone key~
+A fancy key made of black ebonstone is on the floor here.~
+~
+18 84 0 0 0 1 0 0 0
+0 0 0 0
+1 1 70.00
+#20001
+key scarlet red~
+a key of scarlet crystal~
+A beautiful key made of semi-transparent reddish crystal is here.~
+~
+18 84 0 0 0 1 0 0 0
+0 0 0 0
+1 1 75.00
+#20002
+key ebony black dark~
+a key made of dark crystal~
+A small key made entirely of dark crystal was dropped here.~
+~
+18 84 0 0 0 1 0 0 0
+0 0 0 0
+1 1 50.00
+E
+key~
+The dark crystal key is very lightweight but seems very strong.  Looking at
+it carefully you see strange, sinister-looking writing in a language you do
+not know.
+~
+E
+writing~
+The key has some strange words engraved in it, you do not understand their
+meaning but they have an evil sound to them.
+~
+#20003
+key glowing gleaming white~
+a key made of white, gleaming crystal~
+A beautiful key made entirely of radiant white crystal was left here.~
+~
+18 84 0 0 0 1 0 0 0
+0 0 0 0
+1 1 40.00
+E
+key~
+The gleaming crystal key is very lightweight but seems very strong.  It emits
+a pure, white light and feels warm to the touch.
+~
+#20004
+key humming crystal~
+a humming, vibrating key~
+A strange crystal key lies here humming and vibrating slightly.~
+~
+18 86 0 0 0 1 0 0 0
+0 0 0 0
+1 9 100.00
+#20005
+herbs bag sack bath~
+a small bag of herbs~
+A small sack of strongly scented bath herbs have been left here.~
+~
+3 8512 0 0 0 16385 0 0 0
+20 3 3 28
+10 2000 10010.00
+#20006
+crystal carving knife~
+a long, gleaming crystal knife~
+A long, gleaming knife made of a sharp crystal substance lies here.~
+~
+5 211583328 0 0 0 8193 0 0 0
+0 6 2 3
+5 1200 10.00
+A
+2 1
+#20007
+whip diamond~
+a diamond-handled whip~
+A long black whip is coiled here, its handle is made of diamond.~
+~
+5 208427585 0 0 0 8193 0 0 0
+0 4 6 2
+8 4400 15.00
+A
+19 2
+A
+5 -2
+#20008
+ring light glowing~
+a brilliantly glowing ring~
+A ring has been left here, its brilliant glow illuminates the room.~
+~
+11 138693137 0 0 0 3 0 0 0
+0 0 0 0
+1 5050 10.00
+A
+29 3
+A
+29 1
+#20009
+wand shriek long silver~
+a long, silver wand~
+A long, silver wand has been left leaning in the corner of the room.~
+~
+3 513 0 0 0 16385 0 0 0
+20 3 3 25
+4 2000 10.00
+#20010
+cloak ugly tattered~
+a tattered cloak~
+A useless, tattered cloak lies in the dirt here.~
+~
+9 3137 0 0 0 1025 0 0 0
+11 0 0 0
+8 1000 20.00
+A
+18 1
+#20011
+azure vellum ripped scroll~
+an azure vellum~
+An old, ripped vellum with azure runes scribed upon it is on the floor here.~
+~
+2 65 0 0 0 1 0 0 0
+30 58 0 0
+2 2000 15.00
+#20012
+breastplate crystal~
+a breastplate made of blackened crystal~
+A heavy breastplate made of blackened crystal is lying on the floor here.~
+~
+9 2896 0 0 0 9 0 0 0
+8 0 0 0
+55 600 15.00
+A
+2 -2
+A
+5 2
+#20013
+cleric holy symbol~
+a consecrated, golden holy symbol~
+There is a holy symbol wrought in solid gold hovering in the air here.~
+~
+3 207933793 0 0 0 16385 0 0 0
+30 3 3 58
+8 4500 15.00
+A
+12 15
+A
+5 -1
+#20014
+mage spells book volume~
+an ancient book of spells~
+An ancient, dusty volume of spells has been left open on a table here.~
+~
+3 71352385 0 0 0 16385 0 0 0
+28 4 4 26
+3 3500 10.00
+A
+12 10
+A
+5 -1
+#20015
+ethereal leggings~
+a pair of ethereal leggings~
+A shimmering set of ethereal leggings have been dropped here.~
+~
+9 203197761 0 0 0 33 0 0 0
+8 0 0 0
+15 7000 15.00
+A
+14 10
+A
+2 1
+#20016
+archmage staff power ancient~
+an ancient staff of power~
+An ancient staff of power is floating in mid air here.~
+~
+5 215867459 0 0 0 8193 0 0 0
+0 5 4 12
+10 10000 5.00
+A
+29 7
+A
+29 4
+A
+24 -5
+#20017
+silver coin~
+a sparkling silver coin~
+A sparkling silver coin is here, at the bottom of the pool.~
+~
+8 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 5000 10.00
+#20018
+fruit yellow strange~
+a strange, yellow fruit~
+A strange, yellow fruit sits here on the counter.~
+~
+19 0 0 0 0 1 0 0 0
+20 0 0 0
+1 100 100.00
+#20019
+fruit purple~
+a strange, purple fruit~
+A large purple fruit sits here on the counter.~
+~
+19 0 0 0 0 1 0 0 0
+18 0 0 0
+1 100 100.00
+#20020
+potion wine glass champagne~
+a glass of sparkling champagne~
+A single glass of sparkling champagne bubbles happily.~
+~
+10 0 0 0 0 1 0 0 0
+25 20 0 0
+1 500 500.00
+#20021
+strangely-shaped blade~
+a strangely-shaped blade~
+A wicked-looking, strangely-shaped, razor sharp blade is on the ground here.~
+~
+5 213299264 0 0 0 8193 0 0 0
+0 4 6 11
+3 3000 15.00
+#20022
+valor gem belt~
+a belt of valor~
+A wide, heavy belt with a large red gem on the buckle is on the floor here.~
+~
+9 149188673 0 0 0 2049 0 0 0
+8 0 0 0
+15 1000 20.00
+A
+5 2
+A
+26 2
+#20023
+key jailer dungeon prison jail cell~
+a prison guard's key~
+A small key is here on the floor, it looks like it would fit a cell door.~
+~
+18 20 0 0 0 1 0 0 0
+0 0 0 0
+1 1 50.00
+#20024
+cloak stealth dark~
+a dark cloak of stealth~
+A dull, dark cloak of stealth lies in a pile on the floor.~
+~
+9 143958848 0 0 0 1025 0 0 0
+9 0 0 0
+5 3000 10.00
+A
+29 18
+#20025
+hoard hoarder staff polished beautifully~
+a beautifully polished staff~
+A beautifully polished staff has been left here in the corner of the room.~
+~
+4 320 0 0 0 16385 0 0 0
+25 3 3 91
+8 4000 15.00
+#20026
+looking glass mirror ornate~
+an ornate mirror~
+An old, ornately decorated looking glass is lying here.~
+~
+8 193 0 0 0 16385 0 0 0
+0 0 0 0
+5 5000 15.00
+#20027
+demon demonic helm~
+a demonic helm~
+A black helm designed for demonic use lies here.~
+~
+9 149715520 0 0 0 17 0 0 0
+8 0 0 0
+9 3350 10.00
+A
+19 1
+$~

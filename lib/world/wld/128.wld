@@ -1,0 +1,994 @@
+#12832
+In The Mines~
+        You now stand inside the entrance to the mine.  The interior is
+extremely dark and there is a rather pungent odor within the confines of
+these mines.  You notice many footprints scattered about the floor of the
+mine, indicating that you are not alone in here.  To the west is the exit to
+the desert, and to the north and south lie passages that continue on into
+the depths of the mine.
+~
+128 9 0 0 0 0
+D0
+To the north lies a passage that leads deeper into the mines.
+~
+~
+0 -1 12833
+D2
+A passageway cuts into the darkness to the south.
+~
+~
+0 -1 12835
+D3
+~
+~
+0 0 11298
+S
+#12833
+In The Mines~
+   The passageway here feels as if it is sloping downward but it is
+impossible to tell because of the vast darkness that seems to engulf
+everything.  The passage heads north while a side passage leads off
+to the east.
+~
+128 9 0 0 0 0
+D0
+A large passageway leads north through the mines.
+~
+~
+0 -1 12834
+D1
+A small side passage heads off to the east.
+~
+~
+0 -1 12842
+D2
+~
+~
+0 -1 12832
+S
+#12834
+The End Of The Passageway~
+        You appear to have reached a dead end as the passage ends at a solid
+wall of rock.  The only exit leads back to the south.
+~
+128 9 0 0 0 0
+D2
+To the south lies a large passageway.
+~
+~
+0 -1 12833
+S
+#12835
+In The Mines~
+   This passage seems a bit more narrow than the previous one and it appears
+to be closing in just a bit.  This place definitely is not for one who is
+claustrophobic.  A passage leads back north.  A small passageway heads towards
+the south.
+~
+128 9 0 0 0 0
+D0
+A passageway leads off to the north.  It appears to widen in that direction.
+~
+~
+0 -1 12832
+D2
+To the south, the passageway seems to narrow a little more, although it is
+hard to tell in this dark mine.
+~
+~
+0 -1 12836
+S
+#12836
+In A Small Passageway~
+        You are now in a much smaller passage than earlier, with there only
+being a clearance of about a couple of feet above your head.  The path turns
+now so that it heads north or east.
+~
+128 9 0 0 0 0
+D0
+A slightly wider passageway leads back to the north.
+~
+~
+0 -1 12835
+D1
+Another passage now turns to the east, it appears to widen a bit.
+~
+~
+0 -1 12837
+S
+#12837
+A Cavern In The Mines~
+        You emerge from the small passageway into a very large cavern.  As
+you gaze around the cavern you notice several large holes in the walls of
+the cavern.  You manage to look up and notice thousands of bats sleeping
+and you hope like hell that they don't wake up.  To the north lies a
+passageway and to the west lies a small passageway.
+~
+128 9 0 0 0 0
+D0
+Heading off to the north, lies a passageway that extends further into the
+depths of the mines.
+~
+~
+0 -1 12838
+D1
+A passageway heads off to the east.
+~
+~
+0 -1 12856
+D3
+A small passageway heads back to the west.
+~
+~
+0 -1 12836
+E
+hole holes~
+These holes in the walls of the cavern appear to have been dug by humans.
+At least, you hope they were made by humans...
+~
+S
+#12838
+Another Passage~
+        Once again, you stand in a passageway.  There is plenty of clearance
+on all sides in this passageway and there seem to be some more signs of recent
+life in here.  There are several large holes scattered about in the walls of
+the passage.  There are also some mining instruments lying around on the
+floor.  You wonder if the owner is still around...  Exits lead to the west
+and to the south.
+~
+128 9 0 0 0 0
+D2
+The passage to the south leads back to a large cavern.
+~
+~
+0 -1 12837
+D3
+The passage continues to the west and appears to get wider still.
+~
+~
+0 -1 12839
+E
+hole holes~
+The holes in this cavern appear to be more recent and a bit larger.
+~
+E
+instruments~
+There are several mining instruments lying about, many of them broken and
+beyond repair.
+~
+S
+#12839
+A Wide Passage Through The Mines~
+   You now stand in a wider passage that continues on to the north.  A smaller
+passage heads back to the west.
+~
+128 9 0 0 0 0
+D0
+A passage leads to the east to yet another passage.  There appears to be
+no end to these mines.
+~
+~
+0 -1 12840
+D3
+To the west lies a slightly smaller passage.
+~
+~
+0 -1 12838
+S
+#12840
+Yet Another Passage~
+        You now stand in yet another passage in the mines.  You are beginning
+to wonder if there is an end to this tunnel system.  There appear to be no
+holes or other signs of life in this passage.  There are exits leading west
+and south.
+~
+128 9 0 0 0 0
+D2
+To the south you can see another passageway.
+~
+~
+0 -1 12839
+D3
+The passage continues to the west.
+~
+~
+0 -1 12841
+S
+#12841
+A Small Cavern~
+        As you emerge from the passageway, you notice you are in a small
+cavern.  In the corner there are some beds of straw and in the center of
+the cavern is a smoldering campfire.  Whoever was camping here was here
+VERY recently.  Exits lie to the east and to the north.
+~
+128 9 0 0 0 0
+D0
+To the north lies a much larger cavern, but it is too dark to tell if there
+is anything living in there.
+~
+~
+0 -1 12842
+D1
+A passage leads east away from the small cavern.
+~
+~
+0 -1 12840
+E
+bed straw~
+These beds appear to have been slept in recently.  They do not look very
+comfortable.
+~
+E
+campfire fire~
+This smoldering campfire was just put out not too long ago.  Lighting a
+campfire inside of a mine with no ventilation is definitely not the sign
+of an intelligent being.  Nevertheless, they were here recently.
+~
+S
+#12842
+A Large Cavern~
+        You now enter a much larger cavern.  After looking around the cavern,
+there appear to be no signs of life.  There ARE several holes in this cavern,
+however.  These holes indicate someone has been mining here recently.
+Exits lead in all directions.
+~
+128 9 0 0 0 0
+D0
+To the north lies a passageway that goes off into the depths of the mines.
+~
+~
+0 -1 12843
+D1
+Another passage heads off to the east.
+~
+~
+0 -1 12851
+D2
+A passage heads back to the south.
+~
+~
+0 -1 12841
+D3
+~
+~
+0 -1 12833
+S
+#12843
+A Passage Through The Mines~
+        You now stand within another passage.  You feel the passage getting
+a bit narrower as you walk down it.  Exits are to the east and the south.
+~
+128 9 0 0 0 0
+D1
+To the east the path narrows a bit more.
+~
+~
+0 -1 12844
+D2
+A passage heads back towards the large cavern to the south.
+~
+~
+0 -1 12842
+S
+#12844
+A Very Small Cavern~
+        You are in another small cavern, this one being the smallest yet.
+As you stand in this cavern, you feel as if you are being watched by someone.
+You seem to be drawn further into the mine by some mysterious force. Lucky
+for you there are no bats in this cavern.  You hope that this trend continues.
+There are passages to the east, west and the north as well.
+~
+128 9 0 0 0 0
+D0
+A small passageway leads off to the north away from the cavern.
+~
+~
+0 -1 12849
+D1
+To the east lies yet another passageway.  You seem to be drawn in that
+direction by some mysterious but evil force.
+~
+~
+0 -1 12845
+D3
+Leading away from the cavern is a passage to the west.
+~
+~
+0 -1 12843
+S
+#12845
+A Junction In The Mines~
+        You stand in a large cavern that seems to be some sort of 3 way
+junction with exits leading west, east, and south.  There are many supports
+helping to support the weight of the tunnels.
+~
+128 9 0 0 0 0
+D1
+A passage leads out of the junction to the east.
+~
+~
+0 -1 12846
+D2
+A small passageway heads out of the junction to the south and what looks to
+be another junction.  You see a faint light in that direction.
+~
+~
+0 -1 12852
+D3
+To the west, a passage exits the junction.
+~
+~
+0 -1 12844
+E
+support supports~
+These enormous wooden supports seem to be buckling a bit.  You aren't sure if
+it is the weight they are supporting or just age or both that is causing this
+buckling, but you decide you wouldn't want to be here when they collapse.
+~
+S
+#12846
+A Small Passageway~
+        The passage now turns so that it leads north or west.
+~
+128 9 0 0 0 0
+D0
+The passage leads off to the north and what looks like another dark cavern.
+~
+~
+0 -1 12847
+D3
+Another passage heads off to the west, back to a 3 way junction.
+~
+~
+0 -1 12845
+S
+#12847
+The Entrance To The Demon's Lair~
+        You stand in a large cavern in front of what looks like a lair of
+some sort.  You feel EXTREMELY uneasy standing here.  The evil power
+emanating from this lair is very strong.  It feels as if it is going to
+engulf you.  There are many skeletons littering the area indicating that
+you are not the only person ever to think of entering this lair.  Obviously
+for these past adventurers that was probably their last thought ever.
+Exits lead to the west and the lair or to the south and back into the passage.
+It is too dark to see into the lair.
+~
+128 141 0 0 0 0
+D2
+A passageway leads out of the entrance to the lair in a southward direction.
+~
+~
+0 -1 12846
+D3
+To the north lies the lair of the Demon.  It has no door, almost as if
+he is daring you to challenge him.
+~
+~
+0 -1 12848
+S
+#12848
+The Demon Knight's Lair~
+        You are standing in a lair of some sort and immediately you
+notice that the room is littered with hundreds of bones of all types.
+Obviously you are not the first to enter this room.  The walls are red
+with blood stains and in fact, some of it is still wet!    
+~
+128 13 0 0 0 0
+D1
+A dark, eerie passage leads back to the east out of the lair.
+~
+~
+0 -1 12847
+S
+#12849
+A Cavern~
+        You stand in the center of a large cavern that strangely enough,
+is very smooth.  To the north, you can see an eerie glowing light and a
+figure standing before it.  The passage continues on to the north towards
+the light.  Another passage leads off to the south back to a large cavern.
+~
+128 9 0 0 0 0
+D0
+The cavern seems to open up to the north.  You can see an eerie light source
+to the north and the outline of what looks like a man standing before the
+light.
+~
+~
+0 -1 12850
+D2
+To the south the cavern narrows in to a passageway that leads back to another
+large cavern.
+~
+~
+0 -1 12844
+S
+#12850
+The Idol Chamber~
+        Upon entering the room, you immediately notice that the chamber 
+is lit with an eerie glow.  There are many ancient carvings on the wall 
+that look like warnings of some kind.  Lining the room are several statues 
+that resemble apes.  At the center of the room there is an altar that is
+slightly elevated.  As you look up at the altar, a man turns around to 
+face you.
+~
+128 12 0 0 0 0
+D2
+The only exit is to the south.  In that direction you can see a mid size
+cavern.
+~
+~
+0 -1 12849
+S
+#12851
+Another Passage In The Mines~
+        You stand in yet another passageway through the mines.  You are again
+amazed at the extensive tunnelwork in this mountain and wonder who or what
+built these tunnels.  You can head back to the west or continue on to the
+east.
+~
+128 9 0 0 0 0
+D1
+An exit leads to the east to what looks like a cavern of some sort.
+~
+~
+0 -1 12852
+D3
+To the west lies a small cavern.
+~
+~
+0 -1 12842
+S
+#12852
+A 3-way Junction In The Mines~
+        You are now in a junction with passages leading off in three
+directions: north, east and west.  There are no bats or any other signs of
+life in this cavern.
+~
+128 9 0 0 0 0
+D0
+To the north lies what appears to be another cavern.
+~
+~
+0 -1 12845
+D1
+To the east there lies a small passageway.
+~
+~
+0 -1 12853
+D3
+A tunnel continues on in to the depths of the mountain to the west.
+~
+~
+0 -1 12851
+S
+#12853
+A Small Passageway~
+        As you look around this passageway you notice footprints scattered
+about in the dirt, indicating that some kind of a fight occured here.  You
+look in the corner and see what appears to be the loser of this fight as
+there is nothing more than a skull lying in the dirt.  Exits lead to the
+east and to the west.
+~
+128 9 0 0 0 0
+D1
+The tunnel leads to the east and a small cavern.
+~
+~
+0 -1 12854
+D3
+To the west lies the 3-way junction.
+~
+~
+0 -1 12852
+E
+skull~
+The skull has a large opening in it.  This guy probably took quite a whack on
+the head with some sort of blunt object.
+~
+S
+#12854
+A Small Cavern~
+        You are in another small cavern with more footprints scattered about
+the room.  You notice several broken mining instruments lying about and a few
+skeletons.  The exits lead to the north and to the west.
+~
+128 9 0 0 0 0
+D0
+As you look to the north you can make out another small cavern.
+~
+~
+0 -1 12855
+D3
+A tunnel leads back to the west and yet another tunnel.
+~
+~
+0 -1 12853
+S
+#12855
+A Cavern~
+        As you enter this particular cavern you see a couple of straw beds
+and a smoldering campfire.  You do not see anyone around in the immediate
+vicinity, but you feel as though you are being watched...  The only exit is
+to the south.
+~
+128 9 0 0 0 0
+D2
+To the south lies an adjoining cavern.
+~
+~
+0 -1 12854
+S
+#12856
+A Passageway Through The Mines~
+        You emerge from the large cavern into a rather large passage.  The
+walls are somewhat smoother here and it feels as though this tunnel is 
+sloping downwards ever so slightly.  Exits lead to the west and the east.
+~
+128 9 0 0 0 0
+D1
+The the east the passage continues on into the mountain.
+~
+~
+0 -1 12857
+D3
+To the west the passage leads to a large cavern.
+~
+~
+0 -1 12837
+S
+#12857
+The Passage Continues~
+        You are still traveling in the same passageway.  You look around but
+do not notice any signs of life.  The tunnel now turns so that it heads to
+the north or the west.
+~
+128 9 0 0 0 0
+D0
+To the north the passage leads to a medium sized cavern.
+~
+~
+0 -1 12858
+D3
+The the west the passageway continues.
+~
+~
+0 -1 12856
+S
+#12858
+A Medium-Sized Cavern~
+        You stand in a moderately large cavern.  As you gaze up you notice
+thousands of bats perched up there.  On the floor of the cavern you see
+many footprints.  Littering the floor are small pieces of wood and many
+rocks that were probably chipped off of the walls by miners.  You can exit
+to the north, south or east.
+~
+128 9 0 0 0 0
+D0
+A tunnel heads off in a northward direction.
+~
+~
+0 -1 12859
+D1
+Off to the east, a passageway continues deep into the mountain.
+~
+~
+0 -1 12860
+D2
+To the south the passage continues.
+~
+~
+0 -1 12857
+E
+bat bats~
+The bats are rather large and are asleep for the moment.  You hope that you
+have not disturbed them.
+~
+S
+#12859
+A Dead End~
+        You are in a tunnel that has been closed off where the tunnel has
+collapsed in on itself and completely blocked passage.  The only exit leads
+back to the south.
+~
+128 9 0 0 0 0
+D2
+A passageway leads to the south and a medium-sized cavern.
+~
+~
+0 -1 12858
+S
+#12860
+In A Tunnel~
+        You stand in a tunnel that does not look like it will continue
+standing for much longer.  The supports here are buckling badly.  You feel
+that staying here much longer would be unadvisable.  Exits lead to the east
+and west.
+~
+128 9 0 0 0 0
+D1
+The tunnel continues to the east and what appears to be another cavern.
+~
+~
+0 -1 12861
+D3
+Down the tunnel to the west lies a medium-sized cavern.
+~
+~
+0 -1 12858
+S
+#12861
+Another Cavern~
+        You stand in yet another cavern except this cavern is different from
+the rest.  You notice several footprints in this cavern as you have in
+previous ones.  As you look to the east you notice a large door.  The exits
+lead north, south, and east.
+~
+128 13 0 0 0 0
+D0
+To the north lies a very small cavern, beyond that you can't tell.
+~
+~
+0 -1 12863
+D1
+You see a very large door made of solid rock!  Strangely enough, there is a
+keyhole in the rock.
+~
+door~
+2 12861 12864
+D2
+To the south lies cavern.
+~
+~
+0 -1 12862
+D3
+~
+~
+0 -1 12860
+E
+door~
+You see a large door made of solid rock.  The door is pretty well concealed
+since the rock blends in with the rock walls of the cavern.
+~
+S
+#12862
+A Cavern~
+        You are in a cavern that is littered with skeletons and small pieces
+of wood and rock.  There appear to be no other signs of life.  You look up
+but notice no bats in this cavern.  The only exit is to the north.
+~
+128 9 0 0 0 0
+D0
+To the north lies another cavern.
+~
+~
+0 -1 12861
+S
+#12863
+A Very Small Cavern~
+        You stand in a VERY small cavern.  You have to duck in order to keep
+from hitting your head on the top of the cavern.  There are no signs of life
+in this cavern.  You notice that the tunnel that leads out of this cavern to
+the north has collapsed leaving no exit except the one to the south.
+~
+128 9 0 0 0 0
+D2
+The cavern opens up to the south so that you can stand.
+~
+~
+0 -1 12861
+S
+#12864
+The Entrance To The Tomb~
+        You now stand in a room of sorts with some of the walls being solid
+rock and other walls appearing to be manmade.  These walls consist mostly of
+large blocks of rock stacked upon each other.  You wonder how it is possible
+to stack these inside of a mountain.  Exits lie to the north, south and to
+the west.
+~
+128 9 0 0 0 0
+D0
+To the north lies another room very similiar to this one.
+~
+~
+0 -1 12869
+D2
+There is a foul smell coming from the south.  There is a room slightly
+smaller than this one in that direction.
+~
+~
+0 -1 12865
+D3
+To the west lies a huge stone door.
+~
+door~
+2 12861 12861
+E
+door~
+The door is made of solid stone.  There is no keyhole.  It looks as though it
+opens towards the inside.
+~
+S
+#12865
+A Turn In The Tomb~
+        You notice a skeleton in the corner with an evil smile on it's face.
+You wonder what happened to this poor man when he died.  The dust on the
+floor is very thick indicating to you that no one has come this way in a LONG
+time, and probably for good reason.  There are spider webs that litter the
+walls and the passage.  You will have to walk through them in order to
+continue on to the east, YUCK!  Exits lead to the east and the north.
+~
+128 9 0 0 0 0
+D0
+The entrance to this intricate tomb lies to the north.
+~
+~
+0 -1 12864
+D1
+A large, open room lies to the east.  It is the size of a small cavern but
+the walls are made of the same large slabs of stone.
+~
+~
+0 -1 12866
+S
+#12866
+The Picture Room~
+        You now stand in a room with hundreds of pictures littering the
+walls.  These pictures cover all sides of the room, including the ceiling.
+The room is also covered with skeletons.  You can now see why no one has
+come this way in many years.  You wonder what could have killed all of these
+men.  To the east lies a small door, to the west a bend in the passage, and
+to the south lies a door.
+~
+128 9 0 0 0 0
+D1
+To the east lies a small wooden door.  You can see no keyhole or locking
+mechanism of any kind.
+~
+door~
+1 -1 12867
+D2
+A large iron door lies to the south.  You feel very uneasy even looking in that
+direction.  On this door there is an inscription.
+~
+door~
+1 -1 12868
+D3
+To the west lies the turn in the tomb.
+~
+~
+0 -1 12865
+E
+door iron~
+On the door to the south the inscription reads:
+        Within lies the CryptKeeper.  Whomsoever disturbs him shall die!
+~
+S
+#12867
+A Small Room~
+        You now stand in a small room with no decorations or pictures of any
+kind on the walls.  You notice that for some strange reason the room is
+free of any type of life.  There are no webs and a minimal amount of dirt and
+dust built up on the floor.  You wonder if some type of magical force is
+causing this.  You are surprised to find that you do not need a light in
+order to see in this room.  Strange, strange indeed.  The only exit lies to
+the west.
+~
+128 12 0 0 0 0
+D3
+To the west lies a wooden door.  This door is very old yet surprisingly it
+is very sturdy.
+~
+door~
+1 -1 12866
+S
+#12868
+The CryptKeeper's Lair~
+        You stand in the CryptKeeper's lair.  As you look around you notice
+many skulls lined up on a bookshelf, obviously his trophies.  There is also
+a large table at the back of the room that is somewhat elevated.  A chair
+stands behind the table.  There are other shelves with many weird looking
+concoctions on them and very old books.  You look up and notice an odd
+looking skeleton standing before you.
+~
+128 13 0 0 0 0
+D0
+A large iron door lies to the north and is the only exit out of this room.
+~
+door~
+1 -1 12866
+S
+#12869
+In The Tomb~
+        You stand in a tunnel in the tomb.  You notice a large spider web in
+front of you and you do not relish the thought of having to walk through
+that.  The exits lead south and north.
+~
+128 9 0 0 0 0
+D0
+To the north you can see a wall and notice that the room is slightly larger
+than this one.
+~
+~
+0 -1 12870
+D2
+The entrance to the tomb lies to the south.
+~
+~
+0 -1 12864
+S
+#12870
+In The Tomb~
+        You stand in another room in the tomb.  You are now covered in spider
+web after walking into this room.  You notice footprints in this room and
+wonder who could have come through here recently.  There is a hole in the
+wall and there are snakes crawling out of it.  You don't think you want to
+stay near them too long as they are beginning to cover the entire floor.
+To the east and south lie the exits.
+~
+128 9 0 0 0 0
+D1
+The tomb continues to the east.  The floor looks as if it is moving.
+~
+~
+0 -1 12871
+D2
+Back to the south lies another room in the tomb.
+~
+~
+0 -1 12869
+E
+hole~
+As you look at the hole you observe that there is what looks like a poisonous
+snake emerging from the hole and decide you should get out of this room.
+~
+S
+#12871
+The Cockroach Room~
+        You walk into the room and notice that the floor appears to be moving
+because it is covered with cockroaches!  You are now walking on cockroaches.
+You can hear the CRUNCH! CRUNCH! as you walk on them.  You should leave here
+before these cockroaches are swarming on you!  Exits lead west and south.
+~
+128 9 0 0 0 0
+D2
+To the south lies a large room with a door in it.  You can't tell much more
+than that from this distance.
+~
+~
+0 -1 12872
+D3
+Back to the west is the room with a hole in the wall.  There are snakes
+coming out of the hole.
+~
+~
+0 -1 12870
+S
+#12872
+A Large Room In The Tomb~
+        This room is rather large and rather empty.  There are no signs of
+life except for some footprints leading through a door.  You wonder what
+passed through there recently and if it is still alive.  To the east lies a
+large steel door and to the north lies the cockroach room.
+~
+128 9 0 0 0 0
+D0
+A room with a moving floor lies to the north.  The floor is moving because it
+is covered with cockroaches.  YUCK!
+~
+~
+0 -1 12871
+D1
+A large steel door is here.  It has a strange key hole in it and is VERY
+sturdy.
+~
+door~
+2 12872 12873
+E
+door steel~
+A large steel door lies here.  The key hole is very strange looking.  You
+notice some footprints leading through it and wonder what lies beyond.
+~
+S
+#12873
+Through The Steel Door~
+        You have now passed through the steel door and stand in a much
+smaller room than you were just in.  The walls here are littered with
+pictures.  To the north lies a room, to the south lies another room and to
+the west lies a steel door.
+~
+128 9 0 0 0 0
+D0
+To the north lies a small room with many shelves on the walls.
+~
+~
+0 -1 12874
+D2
+A small room lies to the south.  You can't tell what or who might be in the
+room from here.
+~
+~
+0 -1 12875
+D3
+To the west lies a steel door.
+~
+door~
+2 12872 12872
+S
+#12874
+A Small Room~
+        There are no pictures on the walls here, instead there are a number
+of shelves lining the walls.  On these shelves there are various forms of
+pottery and utensils made from clay.  These must have belonged to whoever is
+buried in this tomb.  The only exit lies to the south.
+~
+128 9 0 0 0 0
+D2
+A room with a steel door lies to the south.
+~
+~
+0 -1 12873
+E
+pottery clay~
+The pottery is intricately designed and very meticulously painted.  Whoever
+made these pieces must have spent a great deal of time in making these.
+~
+S
+#12875
+Another Small Room In The Tomb~
+        This room is lined with pictures much like the ones in the previous
+room.  You see pictures depicting hunting, ruling, eating, and many other
+actions.  These must represent some of the accomplishments of whoever is
+buried here in this tomb.  The exits lead to the north and to the east.
+~
+128 141 0 0 0 0
+D0
+To the north lies a room with pictures on the wall and a large, steel door.
+~
+~
+0 -1 12873
+D1
+To the east lies a room with a large statue and another room behind it.
+There is no door blocking entrance to this room, just the statue.
+~
+~
+0 -1 12876
+S
+#12876
+The Guardian Room~
+        You are now in a large room with pictures lining the walls.  Standing
+before you is a large statue that appears to be guarding the small room
+directly behind it.  You wonder if it is just a decoration or if it is
+actually guarding the room.  The only way you could find out would be to try
+to walk past it.  The exits are to the west and the east.
+~
+128 9 0 0 0 0
+D1
+To the east lies a small opening in to a room that appears to contain some
+type of sarcophagus or casket.
+~
+~
+0 -1 12877
+D3
+To the west lies another small room.
+~
+~
+0 -1 12875
+S
+#12877
+King Solomon's Tomb~
+        You are now in a room lined with gold.  A wise and decrepit 
+looking old man stands before you adorned all in gold.  He does not 
+appear to be living and yet he is standing in front of you. There are 
+no spider webs, animals or insects of any kind in this room.  Amazingly 
+there is also no dust or dirt in this room, the walls and floor are 
+perfectly clean.  There must be some type of magical force that is
+causing this, you wonder what it could be.  The only exit is west.
+~
+128 12 0 0 0 0
+D3
+To the west lies the room with the guardian statue.
+~
+~
+0 -1 12876
+S
+$~

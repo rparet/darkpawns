@@ -1,0 +1,823 @@
+#4300
+The Field of Mars~
+You stand within the Campus Martia, the Field of Mars.
+Martial statues and ivy-draped columns impart a sense of 
+imperial majesty and splendor.  Chariots of gold and silver
+and the arms of a thousand legions wait within the massive walls
+of this godly field.
+~
+43 0 0 0 0 0
+D3
+~
+~
+0 0 4305
+S
+#4301
+A field of wheat~
+You stand at the edge of the estate of Cedric the Saxon, just inside the gate.
+A field of wheat lies here, sorted into carefully cultivated rows.  Filthy
+farmhands toil about in quiet solemnity.  Wind whistles through the wheat,
+across the still and endless prairie.  To the east, the gate leads to
+freedom from this place, and in all other directions lie Cedric's lands.
+~
+43 0 0 0 0 2
+D0
+~
+~
+0 0 4302
+D1
+~
+gate~
+1 4322 4305
+D2
+~
+~
+0 0 4306
+D3
+~
+~
+0 0 4304
+S
+#4302
+Among the fields~
+The wheat field extends north here.  Overseers walk along the palisade,
+keeping serfs in line.  Hands work the land, harvesting a petty crop.
+Grains of wheat sway in the breeze, in their timeless prairie dance.
+The palisade curves around to the west from the south here.
+~
+43 0 0 0 0 2
+D2
+~
+~
+0 0 4301
+D3
+~
+~
+0 0 4303
+S
+#4303
+A peaceful vineyard~
+You stand within a great assortion of grapevines, arranged in
+perfect rows by the peasantry.  Stands have been erected to guide
+the vineyards to their ultimate growth.  The air smells of sweet grapes,
+fermenting in the golden sun.  A thorny palisade to the north keeps the
+peasants working the fields without hope of a better life, hemming in their
+dreams by blocking the thought of freedom outside the walls.
+~
+43 0 0 0 0 2
+D1
+~
+~
+0 4302 4302
+D2
+~
+~
+0 0 4304
+D3
+~
+~
+0 0 4310
+E
+cistern~
+It's a large stone cistern filled with purlish grape residue.
+A large portion of grapes lie inside it, waiting to be smashed
+and fermented into wine for local drunkards to enjoy.
+~
+S
+#4304
+A grazing pasture~
+You stand within a pasture fit for grazing animals.  Chaffs of
+wheat flop tro and fro, swaying in harmony with the quiet prairie
+breeze around the pasture.  Animals feed upon the long grasses and
+from a community trough, basking in the sun in contentment of their
+simple lives.
+~
+43 0 0 0 0 2
+D0
+~
+~
+0 0 4303
+D1
+~
+~
+0 0 4301
+D2
+You look south toward a filthy chicken coop.
+~
+~
+0 0 4307
+D3
+~
+~
+0 0 4311
+E
+trough~
+It's just a long, crude trough filled with hot smoking slop.  
+~
+S
+#4305
+At the gate of a feudal manor~
+This is the outer gateway of a lordly manor house to the west.  A
+sturdy palisade wall bristles with menacing wooden spears to the west.
+running north and south past the gate.  Over the wall, you can see serfs
+toiling at the earth and harvesting crops.  A dirt path leads through the
+gate to the manor, but the gate itself is shut and locked, indicating
+that the lord is not accepting visitors.
+~
+43 4 0 0 0 2
+D1
+~
+~
+0 0 4300
+D3
+~
+gate~
+1 4322 4301
+S
+#4306
+An apple orchard~
+A rustic apple orchard lies here in the corner of Cedric's estate.  The
+trees are aligned in 3 straight rows of ten, and burst with a bounty of
+fruit ripe for the picking.  The palisade curves to the west from the north,
+extending toward the manor.  This is a nice, shady respite from the rest of
+Cedric's crude estate.
+~
+43 0 0 0 0 2
+D0
+~
+~
+0 0 4301
+D3
+You look west toward a dirty chicken coop.
+~
+~
+0 0 4307
+E
+basket~
+This is a sturdy wicker basket filled with shiny red apples.  The fruit
+is top quality, as any rotten apples have been separated out to be used as
+feed.
+~
+E
+trees~
+What, you never seen apple trees before?  It's got a trunk, branches, leaves,
+and apples.  Go figure!
+~
+S
+#4307
+A chicken coop~
+It is rather fowl in here, and rather foul as well.  Chickens are
+unceremoniously arrayed in cages around a rectangular shed.  Hay lines the
+floor, which is slathered with a slimy white ooze of chicken crap.  The noise
+of clucking chickens, outraged and pleading their case to the world for rescue,
+is palpably obnoxious.
+~
+43 8 0 0 0 0
+D0
+~
+~
+0 0 4304
+D1
+~
+~
+0 0 4306
+D3
+~
+~
+0 0 4308
+E
+Ooze crap~
+It's a thin filmy layer of white poop.
+~
+S
+#4308
+A field of rutabagas~
+Turnips are aligned here in linear rows of fastidious design.
+They smell of earthy freshness, and are in fine season.  The field
+of sumptious rutabagas is fenced in by a palisade running east to west
+from the south, ending in the stone wall which comprises the castle of 
+old Cedric.
+~
+43 0 0 0 0 2
+D0
+~
+~
+0 0 4311
+D1
+~
+~
+0 0 4307
+S
+#4310
+An orchard of tangerine trees~
+You stand within an orchard of tangerine trees, complemented by a
+series of cumquat trees.  Red colored citrus fruit grows in abundance
+among the trees of the orchard ready to be hand picked by various serfs.
+The palisade runs north and south here, leading toward the gate which
+extends into the castle of Cedric to your west.
+~
+43 0 0 0 0 2
+D0
+~
+~
+0 0 4350
+D1
+~
+~
+0 0 4303
+D2
+~
+~
+0 0 4311
+E
+trees~
+They're trees.  You know, trunks and branches and stumps and leaves and things.
+~
+S
+#4311
+Entranceway to the manor~
+The fields of Cedric end here in a small grassy patch before an
+iron portcullis to the west which leads into Cedric's castle.  Sturdy
+walls of stone run north and south, and above the portcullis lies the
+coat of arms of Cedric's family.  Two stone lions flank the gate,
+and a smattering of men stand here guarding it.  To the north, south,
+and east are the manorial lands of Cedric.
+~
+43 4 0 0 0 2
+D0
+~
+~
+0 0 4310
+D1
+~
+~
+0 0 4304
+D2
+~
+~
+0 0 4308
+D3
+Within the wrought iron gate lies the courtyard of Cedric's manor.
+~
+portcullis gate~
+1 4316 4312
+E
+coat~
+Rotherwood's family coat of arms is of old heraldric origin,
+and depicts a pair of lions rearing toward a silver-blue
+escutcheon.  The charges on the shield are a lion, a hoe,
+and a bottle of liquor, signifying the emphasis on martial
+matters, hard work, and drunkenness throughout the family's
+history.  Atop a black helm over the escutcheon is a yellow
+plumed crest.
+The motto at the bottom reads: "Dominus, Leo, Vino."
+~
+E
+portcullis~
+The keyhole to the iron portcullis looks as if a smoking
+pipe would unlock it.  Curious...
+~
+S
+#4312
+Inside a lordly courtyard~
+You stand within the courtyard of the castle.  The area is abuzz with
+merchants, peasants, and tradefolk walking to and fro toward their assorted
+tasks.  The courtyard features several small gardens and trees to spruce up
+the otherwise cold stone layout.  A stairway leads toward a guard tower above
+the portcullis, and doors lead into the castle to the west, north, and east.
+~
+43 4 0 0 0 1
+D0
+~
+~
+0 0 4318
+D1
+To the east lie the manorial fields of Cedric the Saxon.
+~
+portcullis gate~
+1 4316 4311
+D2
+~
+~
+0 0 4341
+D4
+~
+~
+0 0 4313
+E
+portcullis gate wrought iron~
+It's a slatted black portcullis of wrought iron, tough enough to withstand
+men but not siege engines.  The mechanism to open and close the gate is routed
+through a series of chains toward a turning wheel operated by a guard.
+~
+S
+#4313
+A fortified barbican~
+You stand within a barbican constructed over the entranceway into
+Cedric's manor.  The room is circular and consists of solid stone,
+except for a series of murder holes in the eastern wall which provide
+a vantage point for archers to defend against potential attackers.
+The furnishings are sparse, in typical military fashion.  Exits lead
+north and south along the wall, and a ladder leads down into the courtyard.
+Two powerful ballistae have been stationed at large murder holes for defense.
+~
+43 8 0 0 0 0
+D0
+~
+~
+0 0 4314
+D2
+~
+~
+0 0 4316
+D5
+~
+~
+0 0 4312
+E
+murder~
+Outside the thin murder holes carved out of the walls, peasants
+working Cedric's fields are visible to the east.
+~
+E
+furnishings~
+It's just a table, some chairs, and a couple of packages of dried meat.
+~
+S
+#4314
+Along a crenellated wall~
+This is a well fortified stretch of wall in Cedric's castle.  Extending
+thirty feet over solid ground, the stone walkway offers an unobstructed
+view of the lands to the east.  Merlons have been cut into the walls,
+offering areas for defenders to fire arrows or drop stones or burning
+objects upon besiegers, Upon a pair of parapets, two mangonels
+rest in menacing readiness.  The walkway along the wall extends to
+guard towers in the north and south.
+~
+43 0 0 0 0 0
+D0
+~
+~
+0 1 4315
+D2
+~
+~
+0 0 4313
+S
+#4315
+The Northeastern Guard Tower~
+This is a circular tower of stone, like the seven others posted around
+the walls of Cedric's fortified country manor.  Slats in the wall reveal
+the meeting of mountains and forest in the distance.  Exits lead
+west and south along the wall, and a ladder leads downward.
+Someone jotted an interesting carving in the wall with a blade.
+~
+43 12 0 0 0 0
+D2
+~
+~
+0 0 4314
+D3
+~
+~
+0 0 4331
+D5
+~
+~
+0 0 4319
+E
+carving~
+It says, "Clarissa the Scullery Girl can be had for a price of fifty coins."
+~
+S
+#4316
+On top of the wall~
+This stretch of wall connects the barbican above the portcullis and the
+guard tower to the south.  The ramparts are strong here, several layers of
+stone able to resist even mangonels.  Although modest in size, Cedric's
+quadrangular castle is compact and sturdy.  A sweeping view of
+the plains beyond Cedric's walls is offered from this spot.
+~
+43 0 0 0 0 1
+D0
+~
+~
+0 0 4313
+D2
+~
+~
+0 0 4317
+E
+view~
+You can see the mountains to the north, the endless flat prairie
+to the east and south, and the great forest to the north.  Despite
+the extent of the view, much of it is just long flat plains.
+~
+S
+#4317
+The Southeastern Guard Tower~
+You stand within a circular tower among the walls of Cedric's
+manor.  Sparse surroundings of a table and pair of chairs accompany
+the circular room of stone, which features several murder holes for
+defenders to view and attack potential attackers.  A ladder leads
+down into a storeroom, while exits lead west and north along the walls.
+~
+43 8 0 0 0 0
+D0
+~
+~
+0 0 4316
+D3
+~
+~
+0 0 4330
+S
+#4318
+The chapel of Our Lady Saint Torres~
+In the crowded interior of Cedric's manor house, only this humble
+space could be spared for worship.  The pews consist of four benches in
+two rows, before which a pulpit of carved wood is presided over by the
+chaplain. The chapel is modest, with a packed dirt floor and old
+pictures of canonized saints hanging about.  The scullery is north,
+the courtyard lies south, and a door leads west to
+the scalding house.
+~
+43 262172 0 0 0 0
+D0
+~
+~
+0 0 4319
+D2
+~
+~
+0 0 4312
+D3
+~
+~
+0 0 4329
+E
+pulpit~
+It's a simple rectangular pillar of wood, carved and sanded, with
+a square slanted top to place holy books upon.  
+~
+E
+pictures~
+Eight pictures of saints are hung from the walls of the chapel, most
+prominent among them Saint Torres, the Lady of Retribution.  Characteristic
+among the portraits are robed, peaceful figures leading processions of
+followers before fading sunsets.
+~
+S
+#4319
+The scullery room~
+This is just a space used for facilitating the many hard
+tasks of the busy kitchen.  Spread about are round basins
+of hot water, being scrubbed by maidservants.  Bottles of
+agents used for general cleaning lie on crude shelves nailed
+into the wall.  A smaller basin of water is filled with
+dirty clothes. The scullery opens into the adjacent kitchen
+to the west, a ladder leads downward to the larder, and a
+door opens south into the chapel.
+~
+43 8 0 0 0 0
+D2
+~
+~
+0 0 4318
+D3
+~
+~
+0 0 4326
+D4
+~
+~
+0 0 4315
+D5
+~
+~
+0 0 4322
+S
+#4322
+A bountiful pantry~
+The fruits of Cedric's enforced slave labor abound in this
+corner of the manor complex.  Bales of wheat and sacks of oats,
+grains, and starches are stacked in a chaotic manner about the
+wooden floor, leaving nary a space for proper walking.  There's
+enough food here to last the manor for months if besieged.
+A pulley and a ladder lead up to the scullery, and doors open
+west to the spicery, east to the poultry, and south to the
+saucery.
+~
+43 8 0 0 0 0
+D1
+~
+~
+0 0 4325
+D2
+~
+~
+0 0 4323
+D3
+~
+~
+0 0 4327
+D4
+~
+~
+0 0 4319
+S
+#4323
+The Saucery~
+This is a small area responsible for the preparation of sauces.  The
+ingredients, mixing bowls, and vats of the finished product fill the
+meager open spaces of the room.  Kitchen hands scurry about,
+assisting the saucerer in preparing for the next feast.  The saucery
+smells strongly of ripened herbs, and the air is hot and thick from 
+the smoke of boiling gravy.  Doors lead north to the larder, west to
+the wine cellar, and east to the poultry.
+~
+43 8 0 0 0 0
+D0
+~
+~
+0 0 4322
+D1
+~
+~
+0 0 4324
+D3
+~
+~
+0 0 4328
+S
+#4324
+The Poultry~
+This is where Cedric's favorite food is kept.  The purchase and
+preparation of poultry is done here by the poulter.  Chickens hang
+in rows along the walls, having been skinned and cleaned.  The room
+is kept cool by its subterranean location, preventing the chickens
+from spoiling.  Exits lead north to the chandlery and west to the
+saucery.
+~
+43 8 0 0 0 0
+D0
+~
+~
+0 0 4325
+D3
+~
+~
+0 0 4323
+S
+#4325
+The Chandlery~
+This area in the underbelly of Cedric's manner is responsible for making 
+candles, and storing candles and wax.  The air is thick with an 
+indistinguishable chemical smell, and dried drops of wax litter the
+floor. All manner of candles rest unlit on the walls, ready to be placed in 
+candelabra throughout the manor, serving the crucial role of providing light 
+in the otherwise dark mansion.  Openings in the wall lead west to the larder 
+and south to the poultry.
+~
+43 12 0 0 0 0
+D2
+~
+~
+0 0 4324
+D3
+~
+~
+0 0 4322
+S
+#4326
+The Main Kitchen~
+This is one of the larger rooms in Cedric's manor, and the
+culmination of the ancillary food preparation rooms.  Here,
+the ingredients assembled below are cooked in cauldrons over
+open flames and prepared on a long counter by several kitchen
+hands.  The floor is tiled, clean, and swept frequently.
+    A wonderful assortion of smells waft up from the various
+dishes being prepared.  The area is incredibly busy, with
+most of the traffic coming and going through the buttery to the
+west toward the main dining hall.
+~
+43 8 0 0 0 0
+D1
+~
+~
+0 0 4319
+D2
+~
+~
+0 0 4329
+S
+#4327
+The Spicery~
+This is the area from which spices are called by the main chef to
+be used in the dish du jour.  Racks and racks of spices, both from
+Cedric's fields and imported from abroad, line the walls on all four
+sides of this quaint room of wood and dirt.  
+The air is resplendent with fragrance from the spice racks,
+shifting from an eastern to a northern to a western theme as you
+move about the room.  The spices are stored on the racks in small
+glass bottles and beneath in large wicker baskets.  A table in the
+center of the room serves to apportion the spices as requested by
+the chefs above.
+~
+43 8 0 0 0 0
+D1
+~
+~
+0 0 4322
+D2
+~
+~
+0 0 4328
+E
+baskets~
+Made straight from the hands of unpaid slave boys at the edge
+of a lash.  This is some quality stuff, you're envious.
+~
+E
+spices~
+Among the rare and treasured spices in Cedric's spicery are saffron,
+cumin, nutmeg, ginger, cloves, cinnamon, celery, onion, garlic, apple
+mint, almond, oilseed, olive leaf, parsley, rosemary, and dragon's wort.
+~
+S
+#4328
+A well stocked wine cellar~
+This room abounds in racks of wine, aged to perfection by
+years of patience.  Some of finest vines of Cedric and his
+ancestors have been resting in the bottles in this cellar for
+decades.  Newer choice selections from every season, climate,
+and vineyard from across the realm complement the aged wines
+in this fine stone cellar, which could well suit the banquet
+of any king.  A wooden wine rack rests against the wall.
+~
+43 9 0 0 0 0
+D0
+~
+~
+0 0 4327
+D1
+~
+~
+0 0 4323
+E
+wine rack~
+This is a very well stocked wine rack.  Bottles of all vintages and
+regions fill the racks.  Chardonnays, Zinfandels, Champagnes, Petit
+Verdots, and Aperitifs line every row, making this one of the finer
+wine selections you've ever seen.
+~
+S
+#4329
+The Scalding House~
+You stand within a house of blood and meat and carcasses, a
+slaughterhouse worthy of simultaneous praise and scorn.
+The great animals collected from the plains are butchered
+here, sliced up into portions and stored in cooled trunks
+in the confines of this already chilly room.  Vents in the
+walls prevent putrefication, and monkey boys scurry about,
+wiping the blood from the floor and walls.  Doors lead
+north and east to the kitchen and chapel.
+~
+43 8 0 0 0 0
+D0
+~
+~
+0 0 4326
+D1
+~
+~
+0 0 4318
+S
+#4330
+Along the walls~
+You stand along the crenellated walls of Cedric the Saxon's
+manor house.  They tower over the fields below, able to be
+easily defended due to their prominence and strength. A
+cobbled stone walkway extends east and west toward guard
+towers.
+~
+43 0 0 0 0 1
+D1
+~
+~
+0 0 4317
+S
+#4331
+Along the walls of Cedric's manor~
+You stand atop a mighty wall of stone which provides the
+exterior protection for the manor of Cedric the Saxon.
+The ramparts along the walls extend outward to project
+maximum firepower upon any besiegers who think themselves
+capable of capturing these noble walls.  The walkway
+exits into guard towers to the east and west.
+~
+43 0 0 0 0 0
+D1
+~
+~
+0 0 4315
+S
+#4340
+A garlic field~
+You stand within an overgrown field of garlic.  Rows and rows
+of cloves and those of rose propose to enclose and impose upon
+you and those with droves of blows in the pose of grows and not
+a bit mo's.  You can walk east to a mushroom pasture, west to a
+grassy knoll, or you can just sit here and contemplate being.
+~
+43 0 0 0 0 2
+D1
+~
+~
+0 0 4350
+D3
+~
+~
+0 0 4343
+S
+#4341
+The Marshalsea~
+This is the area in Cedric's manor where law and order are centered.
+The layout is all business, designed for functionality over comfort.
+The floor is cold stone, and a desk rests in the center of the room.
+Four jail cells line the western wall, locked tight.  Deputies help
+the Marshal to keep track of the prisoners and their sentences.  To
+the north, a door opens into the courtyard, and a door also leads
+south.
+~
+43 0 0 0 0 0
+D0
+~
+~
+0 0 4312
+D3
+Locked bars contain the holding cell to the west.
+~
+~
+1 4412 4342
+S
+#4342
+Inside the holding cell~
+This room is filthy and the stale air is rank with the stench of
+unwashed men and feces.  Even for a prison cell, this room is
+especially offensive to the senses.  Not a single thing has been
+provided for the comfort of the men held here; no toilet, nowhere
+to rest or sleep, and extremely meager servings of food.  Clearly,
+to come afoul of Cedric's temper is a costly choice.
+~
+43 13 0 0 0 0
+D1
+To the east is fresh air and a way out of this stinky hell.
+~
+~
+1 4412 4341
+S
+#4343
+A Peaceful Green Streamside~
+This is a small area of greenery and shade between the manor to the
+south and a stream to the north, flowing alongside the mountains. Men
+fish along the stream, joking and talking.  Serfs have fallen to
+sleep under the cool shade of a few dogwood trees.  You can hear a
+gentle tune being played by a duo somewhere nearby with a mandolin
+and pan flute.  The smell of flowers, the beauty of light reflecting
+off the water, and the grass blowing gently in the wind make you a tad
+inclined toward a rest as well.
+~
+43 0 0 0 0 0
+D1
+~
+~
+0 0 4340
+S
+#4350
+A mushroom pasture~
+You stand ankle deep within a pasture of many a mushroom,
+cultivated for use in local cuisine and export abroad for profit.
+The soil is damp, black, and warm from the sun's glow.  The palisade
+continues around from the southeast to the northwest, and the
+interior of Cedric's manor is barely visible over the stone walls
+to the southwest.
+~
+43 0 0 0 0 2
+D2
+~
+~
+0 0 4310
+D3
+~
+~
+0 0 4340
+E
+mushroom~
+It's wild and untreated, it may make you sick if you eat it.  Then
+again, it may make you consort with the Queen of Heaven upon a
+toadstool flying in the clouds if it's the right type o' shroom.
+Maybe it's worth a shot?
+~
+S
+$~

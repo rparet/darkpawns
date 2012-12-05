@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1505"
+   name=""
+   committed-date="2008-05-23T01:09:36.758111Z"
+   url="file:///var/svn/trunk/2.2/lib/text/help"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1436"
+   name="screen"
+   text-time="2000-03-05T23:04:37.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="ccf48fcfdb15304aa6d473451b0f8843"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="socials.hlp"
+   text-time="2000-03-05T23:04:37.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="b271d46cd135627cd34555e66c5fe4f2"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="index.mini"
+   text-time="2000-03-05T23:04:37.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="8dc0be07d6c4ad33b98a7c36bca1e9d7"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="commands.hlp"
+   text-time="2002-08-02T05:37:32.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="faf4b9364c32d4fbada11e231e872517"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1505"
+   name="wizhelp.hlp"
+   text-time="2008-05-23T03:43:20.000000Z"
+   committed-date="2008-05-23T01:09:36.758111Z"
+   checksum="a7c7b7db32f42e933e1ad8c2c5c9a0b9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:20.000000Z"/>
+<entry
+   committed-rev="1436"
+   name="spells.hlp"
+   text-time="2003-07-13T05:56:02.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="87766b678fbbf7778438adc8f1f0a2fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="index"
+   text-time="2000-03-05T23:04:37.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="8dc0be07d6c4ad33b98a7c36bca1e9d7"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="info.hlp"
+   text-time="2002-02-08T19:50:02.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="27a1b4c9b8a48e0716902e58f494a45e"
+   last-author="rparet"
+   kind="file"/>
+</wc-entries>

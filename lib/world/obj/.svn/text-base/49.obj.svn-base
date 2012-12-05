@@ -1,0 +1,334 @@
+#4900
+slab obsidian~
+a slab of obsidian~
+A slab of volcanic obsidian has fallen here.~
+~
+13 65544 0 0 0 16385 0 0 0
+0 0 0 0
+200 0 100.00
+E
+slab obsidian~
+The slab of obsidian looks to be too heavy to carry, despite the fact that
+obsidian fetches a high price to jewelers.
+~
+#4901
+skin daemon armor~
+the daemon skin armor~
+Some studded leathery armor rests on the ground here.~
+~
+9 172771904 0 0 0 9 0 0 0
+20 0 0 0
+16 2500 10.00
+E
+daemon skin armor~
+Crafted from the stripped flesh of an often-dead daemon, this suit
+of armor has a series of metal studs hammered into it for added
+protection from attacks.
+~
+#4902
+daemon strip flesh~
+a strip of daemon flesh~
+A strip of daemon flesh cures here as it hangs.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+4 100 100.00
+E
+daemon strip flesh~
+This is nothing more than a strip of flesh that has been flayed from
+a recently-killed fire daemon.
+~
+#4903
+vial daemon blood~
+a vial of daemon's blood~
+A vial of greenish liquid sits here.~
+~
+10 0 0 0 0 1 0 0 0
+30 34 0 0
+1 500 60.00
+E
+vial daemon blood~
+This small glass vial contains what appears to be a congealing greenish
+liquid.
+~
+#4904
+vial elemental ichor~
+a vial of elemental ichor~
+A vial of reddish liquid rests here.~
+~
+10 0 0 0 0 1 0 0 0
+30 66 0 0
+1 350 40.00
+E
+vial elemental ichor~
+This vial contains a transparent reddish fluid, akin to the ichor that
+an frost elemental oozes upon death.
+~
+#4905
+gem blood~
+a blood gem~
+Some congealed blood is pooled here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1000 45.00
+E
+gem blood~
+Apparently, some resinous substance in the victim's blood mingled with
+some element to form this reddish gem.
+~
+#4906
+horn daemon~
+a daemon's horn~
+The severed horn of a daemon lies here.~
+~
+8 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 1000 45.00
+E
+horn daemon~
+This appears to be the severed horm of an ice daemon.  The white deposits
+on the undersurface of the horn seem to have been crystalized.
+~
+#4907
+whip devil's tail devil~
+a devil's tail~
+The severed tail of a fire devil lies here, its barbs sharp and poised.~
+~
+5 137105473 0 0 0 8193 0 0 0
+0 3 4 1
+4 400 30.00
+E
+whip devil's tail devil~
+This severed tail would make a formidable weapon against an unprotected
+creature.
+~
+A
+18 3
+A
+19 3
+#4908
+vial devil devil's venom~
+a vial of devil venom~
+A vial of clear liquid lies here.~
+~
+10 0 0 0 0 16385 0 0 0
+30 68 0 0
+1 300 60.00
+E
+vial devil devil's venom~
+This vial seems to contain a fluid that emanates an acrid scent even
+through the cork stopper.
+~
+#4909
+lichdom vial powder~
+a vial of white powder~
+A vial of white powder lies here.~
+~
+10 65544 0 0 0 16385 0 0 0
+30 55 0 0
+1 2500 15.00
+E
+lichdom vial powder~
+This quaffable vial seems to be filled with a mixture of crushed talc
+and bone dust.
+~
+#4910
+dust bone~
+a pile of bone dust~
+Some bone dust litters the ground here.~
+~
+13 8 0 0 0 0 0 0 0
+0 0 0 0
+1 1 100.00
+E
+bone dust~
+This is nothing more than a pile of fragmented bones.
+~
+#4911
+torch blackfire black fire~
+a torch of blackfire~
+A torch which seems to burn black flames stands here.~
+~
+12 65544 0 0 0 16385 0 0 0
+0 0 0 0
+5 600 45.00
+E
+torch blackfire black fire~
+This torch seems to burn with an unholy fire that seems to sap your life
+force in order to keep it burning.
+~
+A
+18 1
+A
+29 10
+#4912
+silk drider cloak~
+a drider silk cloak~
+A cloak made of glistening drider silk is crumpled up on the ground here.~
+~
+9 179059264 0 0 0 1025 0 0 0
+13 0 0 0
+2 2555 35.00
+E
+drider silk~
+Woven from the silk of a drider, this garment seems to be very strong
+and flexible.  It's white sheen is bright, as though it was newly created.
+~
+A
+2 1
+#4913
+sword obsidian~
+an obsidian sword~
+An obsidian sword lies here, its blade finely polished.~
+The obsidian blade absorbs the light.
+~
+5 0 0 0 0 8193 0 0 0
+0 5 3 3
+12 500 180.00
+E
+sword obsidian~
+This sword is made from fragile, though sharp, volcanic glass.
+~
+A
+19 2
+A
+18 2
+#4914
+lochaber daemon axe~
+a daemon's lochaber~
+An enormous lochaber lies here.~
+~
+5 6320706 0 0 0 8193 0 0 0
+0 5 5 3
+15 2000 30.00
+E
+lochaber daemon axe~
+This giagantic two-headed axe is far too heavy for any
+normal mortal wielder and looks capable of severing a
+grown ogre in two.
+~
+A
+19 1
+A
+18 1
+#4915
+blade sword overlord~
+the Overlord's blade~
+The Overlord's blade lies here.~
+~
+5 443308641 0 0 0 8193 0 0 0
+0 6 8 3
+20 5600 15.00
+E
+blade sword overlord~
+This blade is easily five feet in length.  It gleams with an almost
+unholy illumination and seems to be able to draw the life out of its
+victim as it slices into them.
+~
+A
+29 13
+A
+18 2
+#4916
+dice bone~
+some bone dice~
+Some bone dice lie on the ground here.~
+~
+3 0 0 0 0 16385 0 0 0
+30 2 2 65
+1 500 45.00
+E
+dice bone~
+These eight-sided dice appear to have been used a great deal in this
+gaming hall judging by the smoothed, worn edges.
+~
+#4917
+sulfur chunk~
+a chunk of sulfur~
+A chunk of sulfur lies here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 100.00
+E
+sulfur~
+This foul-smelling element keeps the volcanic fires raging deep within
+the mountain.
+~
+#4918
+crystal black shard~
+a black crystal shard~
+A black shard of crystal floats here.~
+~
+12 64 0 0 0 0 0 0 0
+0 0 0 0
+1 500 100.00
+E
+black shard crystal~
+The shard appears to absorb the natural magical energy of its surroundings
+and converts it into a magical defense.
+~
+A
+27 -10
+A
+28 -30
+A
+24 2
+A
+17 5
+#4919
+key~
+the gate key~
+A gate key gleams here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 5 100.00
+E
+ket gate~
+The gate key looks to be made of obsidian.
+~
+A
+17 5
+#4920
+bones daemon~
+daemon bones~
+A few daemon bones lie on the acid-eaten ground.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+4 1 100.00
+E
+daemon bones~
+These bones appear to have been acid bleached over the passage of time.
+~
+#4921
+acid cistern~
+an acid cistern~
+The acid cistern bubbles here.~
+~
+23 8 0 0 0 0 0 0 0
+1 1 14 5000
+6 0 100.00
+E
+acid cistern~
+You certainly have no desire to drink the acid which would surely
+dissolve your container before you could consume it and commit
+suicide.
+~
+#4922
+wicked daemonic obsidian sword~
+a wicked-looking serrated sword~
+A vicious looking serrated blade lies here covered in gore.~
+~
+5 141326851 0 0 0 8193 0 0 0
+0 6 5 3
+15 8250 15.00
+A
+29 13
+A
+19 1
+A
+18 1
+$~

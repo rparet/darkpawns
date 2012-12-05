@@ -1,0 +1,787 @@
+#12900
+The Immortal Map Room~
+This is the extension zone for the city of Kir-Oshi (zone 182).
+This zone includes the following areas:
+
+	o	Liu'she Ch'uan Tong Headquarters
+
+~
+129 516 0 0 0 0
+S
+#12901
+A Dimly Lit Foyer~
+   You can barely see in the dim candlelight of this foyer, but you can 
+make out dark, arched passageways which lead in all directions except 
+south, where a narrow flight of stairs leads up to a reception of some 
+sort.  Although this room appears to be very old, with walls made of 
+rough-cut stone, it lacks a sense of decay which tells you that this area 
+must see regular use.  You shudder to think by what.
+ 
+~
+129 8 0 0 0 0
+D0
+~
+~
+0 0 12910
+D1
+~
+~
+0 0 12918
+D3
+~
+~
+0 0 12902
+S
+#12902
+A Dark Hallway~
+   The limited lighting that the foyer received from the upstairs 
+reception is gone now, forcing you to provide light sources of your own.  
+The walls and floor here are rough-cut stone, which is cold to the touch.  
+You find yourself having to walk slowly to avoid tripping on any nooks 
+in the rock floor.  At first, this hallway appeared to be a mine tunnel of 
+some sort, but now you notice the lack of man-made structural support.  
+Whatever made this tunnel carved it through solid rock.  The passage 
+turns north here, and east returns you to a dim foyer.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12903
+D1
+~
+~
+0 0 12901
+S
+#12903
+A Dark Passageway~
+   The passageway begins to slope downward here, and continues to do 
+so to the north.  You can sense that the air is cooler in that direction as 
+well, but with a stale smell to it, as if the passage ahead dives deep 
+underground.  The rock here is dark gray and cool to the touch, the 
+passageway leads north and south into inky darkness.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12937
+D2
+~
+~
+0 0 12902
+S
+#12904
+A Dark Passageway~
+   The air is still and cool in this section of passageway, and the rock 
+walls seem to be somewhat more smoothed out and defined than those 
+walls further south of you.  There is a heavy oak door set into the 
+western wall, it appears to have swelled with moisture, as evidenced by 
+the poor condition of its iron bindings. You might be able to force it 
+though.  The passage leads north and south into inky blackness.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12909
+D2
+~
+~
+0 0 12937
+D3
+~
+door~
+1 0 12905
+S
+#12905
+A Training Area~
+   The floor here is lit by braziers sunk into the rock floor, which seems 
+abnormally smooth in comparison to the earlier sections of the 
+complex.  This is apparently where the Liu'she Ch'uan tong practices 
+their martial arts skills - in fact, some tong members appear to be 
+practicing them right now...
+
+~
+129 8 0 0 0 0
+D0
+~
+~
+0 0 12906
+D1
+~
+door~
+1 0 12904
+D2
+~
+~
+0 0 12907
+S
+#12906
+A Training Area~
+   There is a large red mat made of out some type of heavy cloth spread 
+out on the ground here, and many weapons line the walls.  You surmise 
+that this area is used by the tong to train their initiates in weapons use.  
+Gazing at the vast arsenal of hand-to-hand weaponry, you realize that 
+these are not merely training weapons, these are the real thing!  
+Suddenly, you remember the cloth mat underneath your feet.  With 
+horror, you realize that you now know why it is colored red.
+~
+129 8 0 0 0 0
+D2
+~
+~
+0 0 12905
+S
+#12907
+A Training Area~
+   This room looks like it was once used for storage, but now the boxes 
+and other bulky items have been moved next to the walls, and the center 
+of the room cleared for sparring matches.  There is a thin cloth sheet 
+covering the doorway to the room south, and you can see the glow of 
+many candles from within.  The training area continues to the north.
+~
+129 8 0 0 0 0
+D0
+~
+~
+0 0 12905
+D2
+~
+~
+0 0 12908
+S
+#12908
+A Meditation Room~
+   One of the Liu'she Ch'uan ideologies is that one must have a clear 
+and focused mind to be a great warrior, and thus focus part of their 
+training in meditative skills.  As you enter the room however, you 
+realize that these students are more interested in doing what they do 
+best, which in this case would mean killing you.
+~
+129 8 0 0 0 0
+D0
+~
+~
+0 0 12907
+S
+#12909
+A Dark Passageway~
+   The passage makes a corner here, running from south to east.  You 
+hear noises, but due to the echoing in the tunnels it is hard to tell the 
+source or the nature of them.  Some sound like footsteps, some like faint 
+mumbled voices, but they are all too indistinct to make out.  The air has 
+a stale, clammy feel to it, making you realize you must be pretty deep 
+underground.  The passage leads into inky blackness to the north and 
+west.
+~
+129 9 0 0 0 0
+D1
+~
+~
+0 0 12912
+D2
+~
+~
+0 0 12904
+S
+#12910
+A Dark Passageway~
+   You stand at the entrance of a long hallway that seems to extend 
+straight in front of you.  It is, however, completely dark here, with no 
+torches on the walls, and so you find yourself stumbling about on the 
+nooks in the rough cut stone floor as you attempt to walk in semi-
+darkness.  The walls here seem to be made of cut stone that has been 
+smoothed and polished.  You notice that they are cool to the touch.  
+There is also a chamber directly to your south.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12938
+D2
+~
+~
+0 0 12901
+S
+#12911
+A Dark Passageway~
+   Wandering down this hallway, you notice that the air here seems to 
+be cooler and slightly stale.  There is also a dampness and moisture on 
+the walls that seems to indicate the presence of water somewhere 
+nearby.  Could this passage actually extend out underneath the ocean?  
+The passageway extends into darkness to your north and south.
+
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12912
+D2
+~
+~
+0 0 12938
+S
+#12912
+An Intersection~
+  This is a T-intersection in a labyrinth of cool, dark passageways. 
+Tunnels to the west, south, and east lead into darkness, while there is a 
+heavy iron-bound oak door to your north.  The dampness in these 
+passages has caused the oak to swell in the door frame, leaving it 
+cracked and blistered.  It has also managed to rust the iron bindings, the 
+heavy iron knocker, and the iron keyhole. Cool, still air hangs heavily 
+around you.
+  
+~
+129 9 0 0 0 0
+D0
+A heavy, iron-bound oak door that is slightly swollen in its frame.
+~
+door~
+1 0 12919
+D1
+~
+~
+0 0 12913
+D2
+~
+~
+0 0 12911
+D3
+~
+~
+0 0 12909
+S
+#12913
+A Dark Passageway~
+   The passageway seems to even out here, continuing west and east into 
+utter darkness.  To the south, there is a heavy looking iron door.  The 
+doorframe for it has a moderately high lip on it, as if it were designed to 
+keep liquid from the other side of the door from entering this passage.
+~
+129 9 0 0 0 0
+D1
+~
+~
+0 0 12914
+D2
+~
+door~
+1 0 12931
+D3
+~
+~
+0 0 12912
+S
+#12914
+A Dark Passageway~
+   The passageway makes a sharp corner here, turning into another 
+passage and even more darkness.  You notice that the passage slopes 
+downward slightly to the north and west, the still, clammy air hangs 
+about your person.  The passages continue in darkness to your south 
+and west.
+~
+129 9 0 0 0 0
+D2
+~
+~
+0 0 12915
+D3
+~
+~
+0 0 12913
+S
+#12915
+A Dark Passageway~
+  You stumble about in the darkness of this cold, black passageway 
+occasionally bumping into the rough-hewn stone walls.  You also notice 
+that there is some sort of linear impression in the stone floor, like 
+treads.  Its almost as if something very heavy had been pushed back and 
+forth over this floor many times. 
+The passage continues to your north and south.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12914
+D2
+~
+~
+0 0 12936
+S
+#12916
+A Dark Passageway~
+  You stare off into seemingly infinite darkness as you attempt to 
+navigate down this tunnel, the side walls and floor barely illuminated 
+by your light.  The cold, damp air is beginning to press against you, its 
+staleness heavy on your nostrils.  There must be virtually no circulation 
+down here.  The passage continues to the north and south.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12936
+D2
+~
+~
+0 0 12917
+S
+#12917
+A Dark Passageway~
+   The passage here curves to run west to north, and you almost don't 
+see the change in topography and nearly run smack into a wall. You 
+notice that the passage seems to slope downward to the north, while it 
+seems to open up slightly to the west.  You notice that there are no 
+cobwebs or signs of any non-humanoid life at all, perhaps the cold air 
+keeps all the insects and animals away.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12916
+D3
+~
+~
+0 0 12918
+S
+#12918
+A Dark Passageway~
+   This is a somewhat open passage that leads eastward into complete 
+darkness.  To the west, dim candlelight beckons you out into what 
+appears to be a larger chamber.  The air here is very calm, as if it has 
+been undisturbed for ages, but the lack of musty smell tells you that that 
+cannot be so.  In what little light there is, you think you can make out 
+what appears to be parallel grooves in the rough stone floor that lead 
+into darkness to the east.
+~
+129 9 0 0 0 0
+D1
+~
+~
+0 0 12917
+D3
+~
+~
+0 0 12901
+S
+#12919
+A Cavernous Room~
+   You stand inside a massively cavernous room whose expanse opens 
+up before you to the north.  This place seems to defy logic, what would 
+a room as big as this be doing under here?  The walls are smooth, 
+polished stone and extend up into darkness; you can barely make out 
+the cathedral ceiling at the top.  In the centre of the room two massive 
+stone pillars also extend to support the ceiling, their buttresses the only 
+hint that they connect with it.  You deduce that you indeed must be far 
+underground, because a room this high would be impossible at any 
+other altitude except for one below sea level.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12939
+D1
+~
+~
+0 0 12920
+D2
+A heavy, iron-bound oak door that is slightly swollen in its frame.
+~
+door~
+1 0 12912
+D3
+~
+~
+0 0 12930
+S
+#12920
+A Cavernous Room~
+   You are directly in front of one of the stone columns here.  From this 
+vantage point you can see most of the goings on in this huge room.  
+This is apparently the centre of operations for the Liu'she Ch'uan Tong 
+-- a sophisticated group of thieves, assassins, and smugglers.  The room 
+extends to your west and east, your passage south being blocked by the 
+stone wall of the room, and the north blocked by the column.
+~
+129 9 0 0 0 0
+D1
+~
+~
+0 0 12921
+D3
+~
+~
+0 0 12919
+S
+#12921
+A Cavernous Room~
+   This is the southeast corner of the room, your view of the rest of the 
+room is concealed by the massive stone pillar which is now to your 
+direct northwest.
+It is very, very dark here. Is there something moving in the shadows?
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12922
+D3
+~
+~
+0 0 12920
+S
+#12922
+A Cavernous Room~
+    You stand in the shadow of one of the massive columns in this room, 
+which is just to your west. Various shady characters are moving around 
+in here, going about the secret business of the Tong.  Perhaps it would 
+be best if you stayed concealed.  You are concealed, aren't you?
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12923
+D2
+~
+~
+0 0 12921
+S
+#12923
+A Cavernous Room~
+   This is the northeast corner of the this massive room.  Many men in 
+exotic clothes walk around here, obviously high ranking Tong 
+members.  There are also many men clothed completely in black, 
+sharpening weapons. Obviously they are high ranking Tong assassins.  
+Obviously, you probably shouldn't be here.  The room continues to your 
+west and south.
+~
+129 9 0 0 0 0
+D2
+~
+~
+0 0 12922
+D3
+~
+~
+0 0 12924
+S
+#12924
+A Cavernous Room~
+   You are now just south of the leftmost pillar in this massive room.  To 
+your west, important looking Tong members in elaborate clothes 
+discuss something in whispers.  The way to your west is lighted with 
+braziers, to your east there is only darkness.
+~
+129 9 0 0 0 0
+D1
+~
+~
+0 0 12923
+D3
+~
+~
+0 0 12925
+S
+#12925
+A Cavernous Room~
+   This is the back centre of the entire cavern, the walls sweep upwards 
+to your north, and the two stone columns frame the room to the south.  
+This section of the room is well lit and furnished, and several tall 
+oriental men dressed in elaborate clothing sit here smoking and 
+discussing something in a language you do not know.  They seem 
+unaware of your presence, as if preoccupied by something else.
+~
+129 8 0 0 0 0
+D1
+~
+~
+0 0 12924
+D2
+~
+~
+0 0 12939
+D3
+~
+~
+0 0 12926
+S
+#12926
+A Cavernous Room~
+   The light in this section of the room is almost nonexistant, blocked by 
+one of the giant stone columns directly to your south.  There seems to 
+be quite a lot of light just to your east however.  You could walk over 
+there or to the west, where the corner of the room blends into darkness.
+~
+129 9 0 0 0 0
+D1
+~
+~
+0 0 12925
+D3
+~
+~
+0 0 12927
+S
+#12927
+A Cavernous Room~
+   This is the northwestern corner of this immense room.  There is 
+virtually no light here at all, and you find yourself maneuvering around 
+figures in the near darkness -- who knows what they might be doing 
+here.  The room continues around the pillar to your east, and also to 
+your south.  The air here is very still, and you can hear people 
+whispering in the darkness in a language you don't comprehend.
+~
+129 9 0 0 0 0
+D1
+~
+~
+0 0 12926
+D2
+~
+~
+0 0 12928
+S
+#12928
+A Cavernous Room~
+   You stand just west of the leftmost column in this massive cavern.
+The walls sweep upward into blackness to your west.  The columns and
+black stone walls absorb what little light there is in here, making it
+very difficult to see, even with your own light sources.  The cavern
+continues to your north and south.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12927
+D2
+~
+~
+0 0 12929
+S
+#12929
+A Cavernous Room~
+  The pillar to your northeast shields you from virtually all of the light
+sources in this cavernous room, and the flat black stone that makes up
+the wall to your south and west does its part in absorbing your own
+light sources.  This room expands to your north and east.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12928
+D1
+~
+~
+0 0 12930
+S
+#12930
+A Cavernous Room~
+   You stand just to the east of the doorway into this massive cavern, 
+black stone walls sweep up behind you into darkness.  One of the 
+massive pillars that no doubt support the ceiling of this structure is 
+directly to your north, obscuring what little light there is in this room.  
+You can walk either east to the door or west into a darkened corner.
+~
+129 9 0 0 0 0
+D1
+~
+~
+0 0 12919
+D3
+~
+~
+0 0 12929
+S
+#12931
+By A Surface Pool~
+   This room is completely damp, dominated in its centre by a perfectly 
+circular surface pool.  The pool glows slightly, you suspect because it 
+has been lit from underneath.  The large amount of open water in this 
+room has caused significant amounts of moisture to accumulate on the 
+stone walls and floor, making walking around quite a challenge.  This 
+pool must be how the Tong smuggles black market goods into Kir-Oshi.  
+It must lead out to the harbor somehow.
+~
+129 9 0 0 0 0
+D0
+~
+door~
+1 0 12913
+D1
+~
+~
+0 0 12932
+D2
+~
+~
+0 0 12934
+S
+#12932
+By A Surface Pool~
+   As you continue around this room, you notice that the floor is really 
+rather slick; you should watch you step so that you don't fall head first 
+into the pool with all your armor on.  Looking into the pool you notice 
+that it is indeed lit from the bottom by two caged light sources.  It also 
+appears to turn into an underwater tunnel of sorts several feet below the 
+surface.  The tong must have some sort of device to transport black 
+market goods under the water and bring them here.  You notice several 
+mechanical apparatus to your south, perhaps they have something to do 
+with the actual transportation of the goods?
+~
+129 9 0 0 0 0
+D2
+~
+~
+0 0 12933
+D3
+~
+~
+0 0 12931
+S
+#12933
+By A Surface Pool~
+   There is a mechanical winch and metal chain coiled loosely on the 
+ground here, as well as some other mechanical apparatus whose 
+purpose you do not immediately recognize.  You surmise that this series 
+of hand operated winches and chains is designed to pull something 
+heavy out of the pool.  All of this machinery looks slightly rusted, 
+having been exposed to these damp conditions for awhile it seems.  The 
+pool continues around the room to your west and north.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12932
+D3
+~
+~
+0 0 12934
+S
+#12934
+By A Surface Pool~
+   There are two metal hooks drilled into the floor here at the edge of 
+the pool, on closer inspection you find that they attach a rope ladder 
+with wooden rungs to the floor here.  The ladder extends down the side 
+of the pool wall, hanging loosely against it.  There appears to be a large 
+winch and some other machinery just to your east, and to your north 
+there is the entrance to this room.  You suppose that you could also go 
+down into the pool, but the water looks pretty cold.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12931
+D1
+~
+~
+0 0 12933
+D5
+~
+~
+0 0 12935
+S
+#12935
+In the Surface Pool~
+   Brrrrr! The water IS cold! And it appears very deep as well.  You can 
+just about hover on the surface, but your attempts to dive down deep 
+and inspect the tunnel fail -- you just can't hold your breath long 
+enough.  You can get on to dry land by swimming over to that ladder 
+again, as every other shelf around this circular pool is too high for you 
+to pull yourself out on.  Aside from the fact that you can see in the 
+water pretty clearly because of the two caged lights just underneath you, 
+there really isn't anything else interesting here.
+~
+129 9 0 0 0 7
+D4
+~
+~
+0 0 12934
+S
+#12936
+A Dark Passageway~
+   As you continue to feel your way down this stale, musty passageway 
+you notice that the passage seems to be sloping downward to the north 
+ever so slightly.  The stone that makes up the passageway seems to be 
+changing as well, from soft limestone to a harder, slick stone, possibly 
+granite.  You must be further underground that you previously thought.  
+The passage continues into blackness to your north and south.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12915
+D2
+~
+~
+0 0 12916
+S
+#12937
+A Dark Passageway~
+   You are definitely further underground than you were before; the air 
+here feels like it hasn't been disturbed for a century or more, yet there is 
+no dust, no cobwebs.  No evidence of life at all, as near as you can tell.  
+Only blackness perfected.  The cold stone passage continues to the 
+north and south, with no trace of an ending.  
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12904
+D2
+~
+~
+0 0 12903
+S
+#12938
+A Dark Passageway~
+   This section of the passage slants downward to the north at a 
+noticeable angle.  The walls here seem to be smoother than the ones to 
+the south, as if the texture of the cut rock was changing.  In fact, the 
+walls and floor are noticeably slick, as if moisture had accumulated on 
+them.  The stale air in the passage doesn't feel like it carries any water 
+at all however.  The passage continues in darkness to the north and 
+south.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12911
+D2
+~
+~
+0 0 12910
+S
+#12939
+A Cavernous Room~
+   This is the centre of the massive cavern, situated between the two
+cyclopean pillars.  The lights you possess seem unnaturally dim in the vast
+blackness of this room, it seems to stretch on forever in the edges where
+your light can not reach.  Shadowy figures move about in the darkness,
+speaking an unmistakably foreign language.  There seems to be a bit of light
+to the north, which appears to be the nexus of activity.
+~
+129 9 0 0 0 0
+D0
+~
+~
+0 0 12925
+D2
+~
+~
+0 0 12919
+S
+$~

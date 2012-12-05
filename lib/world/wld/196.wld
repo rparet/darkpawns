@@ -1,0 +1,1650 @@
+#19600
+An Immortal Room~
+This is a starting point for all of us who don't need doors or walkways to get
+around.  There is a map floating in the nothingness here for some guidance.
+~
+196 524 0 0 0 0
+D1
+~
+~
+1 0 19601
+E
+map~
+map goes here.
+~
+S
+#19601
+A Foreboding Cave Entrance~
+An unusually dark cave opening looms northward, its walls covered with strange
+writings, apparently in a number of different languages.  You can make out
+one word, which apparently reads: 'Danger'.  You notice two tall spears, one
+on each side of the cave, topped with skulls.  A rather large pile of bones
+has gathered in the area, and perhaps it'd be best to leave before you joined
+them.
+~
+196 8 0 0 0 0
+D0
+~
+~
+0 0 19602
+D2
+~
+~
+0 0 9724
+E
+bones pile~
+You think you see something moving under the bones...
+~
+E
+writings writing walls wall words word~
+You can only make out one word, and it reads 'Danger.'
+~
+S
+#19602
+A Peaceful Meditation Room~
+   The cave here has an unusually peaceful and relaxed feeling.  A comfortable
+mat lies in front of a bookcase on the north wall.  A ninja's book of
+meditations lies open on the mat, suggesting that the owner has been here
+recently; perhaps it would be best to leave before he returns.
+~
+196 8268 0 0 0 0
+D1
+~
+~
+0 0 19603
+D2
+~
+~
+0 0 19601
+S
+#19603
+The Chamber of Wisdom~
+A surprisingly well-lit room surrounds you.  There are no visible torches or
+even signs of magical intervention, but there is more than enough light to see
+clearly.  An open book stands on a pedestal in the center of the room, with
+some neat writing, which appears to read: 'Through conquest comes knowledge.'
+~
+196 6732 0 0 0 0
+D0
+~
+~
+0 0 19604
+D3
+~
+~
+0 0 19602
+S
+#19604
+An Ambient Tunnel~
+   You enter a tunnel lit by glowing crystals. As the damp, dusk air fills
+your nostrils, you catch the scent of something foul. Your nose guides you
+to its source, a homeless bum. He has fallen asleep on apparently quite a
+comfortable stack of newspapers. Near him stands an old shopping cart filled
+with what appears to be pickle jars of water. Behind this cart is the man's
+home, an old cardboard box reading "this side up" on the top.
+   Pulsating from the north, you feel waves of warmth and tranquility. From
+the east, you hear jeers and cheers from what you assume to be some sort of
+battle arena.
+~
+196 72 0 0 0 0
+D0
+~
+~
+0 0 19606
+D1
+~
+~
+0 0 19605
+D2
+~
+~
+0 0 19603
+S
+#19605
+Entrance to the Arena~
+   You stand in a room filled with people, some suiting up for battle, others
+gambling on the outcome of the next match. Cries of pain and victory echo in
+from the east. Every once in a while, the crowd roars in pleasure as another
+poor soul has had his life cut short.
+~
+196 76 0 0 0 0
+D1
+~
+~
+0 0 19616
+D3
+~
+~
+0 0 19604
+S
+#19606
+The Altar of Nat~
+   Upon arriving in this room, you instantly feel at peace. In the center is
+a statue of a radiant woman, eminating pulses of light throughout the room.
+Sacrificial offerings of elaborately crafted treasures of all kinds glitter
+in the ever constant light. Covering the walls are various pictures and other
+relics depicting the Goddess Nat. You feel drawn near to the statue and the
+feeling of relaxation flows through your body. In her presence you are lost
+in the ecstasy of content and you wish time would stop.
+~
+196 262232 0 0 0 0
+D2
+~
+~
+0 0 19604
+D3
+~
+~
+0 0 19607
+E
+eh~
+Eh?
+~
+S
+#19607
+A Curious Cave~
+   A delicately chiseled stairwell with a smooth marble hand rail leads to
+the upper floor. To the north lies a door reading "Authorized Personnel Only!"
+Beyond the door, you think you hear the drops of many small metal objects.
+To the west you hear a man yell "Hey Ma!" To the east comes a feeling of
+refreshment and content - your curiousity wanders in all directions.
+~
+196 88 0 0 0 0
+D0
+You can't see past the door.
+~
+door~
+1 0 19607
+D1
+~
+~
+0 0 19606
+D3
+~
+~
+0 0 19608
+D4
+~
+~
+0 0 19610
+S
+#19608
+A Long Tunnel~
+   You enter a long tunnel lined with portraits of what you guess to be old
+dead people. Your curiousity takes over you and you feel the impulse to look
+at each one. To the west, you swear you hear a man yell "Hey Ma!" To the east,
+you can sense the void of a large open cavern.
+~
+196 72 0 0 0 0
+D1
+~
+~
+0 0 19607
+D3
+~
+~
+0 0 19609
+E
+portrait~
+A dark elf with black hair and pointy ears. He wields a living dagger, almost
+as sharp as the evil gleam in his eyes.
+~
+E
+2.portrait~
+A holy man with battle scars accenting kind eyes. He holds a scourge in his
+hands and you ponder whether it was a tool of creation or a weapon of
+destruction.
+~
+E
+3.portrait~
+A powerful Asian man with the look of craze and chaos in his eyes. His look
+of brash makes you unsure of whether he could have been your greatest ally or
+enemy. And damn his muscles are big!
+~
+E
+4.portrait~
+A heavy warrior with an unshaven face. Numerous unwanted battles have left
+this warrior's eyes dark and weary, and yet a glimmer of hope still lingers
+for future tranquility.
+~
+E
+5.portrait~
+A ninja robed in black garments whose deadly eyes seem alert and alive even
+in a still painting. He wields no weapon, yet his hands seem deadly, stained
+in the blood of his enemies.
+~
+E
+6.portrait~
+Clad in armor plated in both gold and silver, this warrior seems to bear the
+wisdom of the ages. Although the armor would seem to burden even the strongest
+of men, it lies lightly upon his broad shoulders. In callused hands laid
+across his lap is a huge broadsword with blossomed flowers along its hilt.
+~
+E
+7.portrait~
+Holding two black daggers of eternal flame, his entire body seems to be built
+for death. Yet his face tells a different story, with soft eyes of
+understanding and a scar of remorse.
+~
+E
+8.portrait~
+This last portrait seems different from the others. In it stands two elven
+kids, standing over the body of what looks like a giant argent slug. One
+holds two daggers, which with closer inspection both appear to have the words
+"Property of Torak" inscribed along them. The other has a blade shaped in a
+strange fashion. Their childish complexion and long ears make them look quite
+proud of themselves - bearing large smiles, they appear on top of the world.
+~
+S
+#19609
+The Room of Portals~
+   You come into a room that seems well travelled with walls covered in all
+manner of runes and magickal symbols that you can't even begin to comprehend.
+Electricity seems to flow from over your body like a blanket and causes your
+hair to stand on end. Near the western wall is a metal sign which simply reads
+"Route 66" with arrows pointing to the north and south. Out of nowhere, you
+think you hear an old woman say "We gots to get acrost..."
+~
+196 72 0 0 0 0
+D1
+~
+~
+0 0 19608
+S
+#19610
+Top of the Stairs~
+   Entering the room at the top of the stairwell, you first notice a large
+case displaying various ninja weapons. On the far wall is a shiny new door
+with a square glass window at eye level. The sounds of splashing water and
+girls giggling perk your ears as you see puddles of water forming beneath the
+door. There is also a metal reinforced door to the east made from thick
+mahogany - there is nothing but dead silence coming from the other side.
+~
+196 72 0 0 0 0
+D0
+You'll need to go in there to see what lies within.
+~
+door~
+1 -1 19611
+D1
+~
+~
+0 0 19613
+D5
+~
+~
+0 0 19607
+E
+window~
+It is completely fogged up from the other side.
+~
+S
+#19611
+The Jacuzzi Room~
+   The vaguely detectable scent of sulphur is masked by the fragrance from
+numerous rose petals littering the floor. Two developing, beautiful girls sit
+at the edge of a large, warm, bubbling, oval shaped tub. Such exotic treats
+could not be seen anywhere but here - everyone says I love you but these two
+professional girls seem to know exactly where the heart is. Phantom menaces
+be gone for the heat given off gives you the most soothing feeling of
+relaxation you have ever felt.
+~
+196 604 0 0 0 0
+D1
+~
+~
+0 0 19612
+D2
+~
+door~
+1 -1 19610
+S
+#19612
+A Sauna Room~
+   As you step into the sauna, your immediate response is one of immense
+pleasure and enticing pain. The aroma of cedar fills your nostrils with the
+sweet scent of fresh wood but as you inhale deeper, there is a searing pain
+from the intense heat. On a small mantel hangs an oak bucket, half filled
+with water which leaks out the side and over a number of heated rocks. The
+rocks themselves are heated directly by the hall furnace which burns
+continuously to warm the rooms deep within the heart of the mountain. A row
+of robes hanging on a series of pegs protrudes from one wall, beckoning you
+to strip down and enjoy the muscle soothing heat.
+~
+196 604 0 0 0 0
+D3
+~
+~
+0 0 19611
+S
+#19613
+The Board Room~
+   A large oaken table demands the attention of all who enter. Your first
+reaction is one of amazement at the intricate craftmanship that went into its
+features, then you notice that it hasn't just been carved from a single piece
+of wood but rather a living tree carefully crafted in the manner of skilled
+wood elves. Tiny limbs with pale leaves are noticeable on the legs that
+seamlessly melt into the root system. You can't resist moving one of the
+chairs to confirm that they are indeed chairs with ornate carvings and not
+another component of the elves' work.
+~
+196 72 0 0 0 0
+D1
+~
+door~
+1 0 19614
+D3
+~
+~
+0 0 19610
+S
+#19614
+A Grand View of the Skies~
+   As you enter the room, the most obvious feature is the large, gaping hole
+in the ceiling. Looking upward, your eyes become lost in the infiniteness of
+the sky which is ablaze with all shades of red. There is a large metal door
+to the east and a thick, wood door to the west. This room, however, is
+eerily quiet yet tranquil.
+~
+196 72 0 0 0 0
+D1
+~
+metal door~
+1 0 19615
+D3
+~
+door~
+1 0 19613
+S
+#19615
+An Array of Treasures~
+   The room glitters of treasures from far off lands - priceless jewels and
+rubies overflow a large wooden chest in the corner. Along the wall, swords
+and weapons of all shapes and sizes are displayed along a large rack.
+The materials with which many of these weapons are forged are new to you
+and you wince at the thought of any of these actually causing pain to you. Off
+to the side are full suits of armor worn on wooden mannequins.
+~
+196 76 0 0 0 0
+D3
+~
+metal door~
+1 0 19614
+S
+#19616
+Within the Arena~
+   The tunnel opens up into an enourmous cave, wafts of smoke passing you
+by at ankle level. The floor is simple dirt, stained with blood in some
+places and displaying the tell-tale signs of battle.
+~
+196 8 0 0 0 0
+D0
+~
+~
+0 0 19617
+D1
+~
+~
+0 0 19619
+D2
+~
+~
+0 0 19624
+D3
+~
+~
+0 0 19605
+S
+#19617
+Within the Arena~
+   You make your way around the enormous arena, always on guard awaiting
+your next foe. Corpses lie at irregular intervals, perhaps an indication of
+what is to come...
+~
+196 8 0 0 0 0
+D1
+~
+~
+0 0 19618
+D2
+~
+~
+0 0 19616
+S
+#19618
+Within the Arena~
+   You make your way around the enormous arena, always on guard awaiting
+your next foe. Corpses lie at irregular intervals, perhaps an indication of
+what is to come...
+~
+196 8 0 0 0 0
+D1
+~
+~
+0 0 19623
+D2
+~
+~
+0 0 19619
+D3
+~
+~
+0 0 19617
+S
+#19619
+Within the Arena~
+   You make your way around the enormous arena, always on guard awaiting
+your next foe. Corpses lie at irregular intervals, perhaps an indication of
+what is to come...
+~
+196 8 0 0 0 0
+D0
+~
+~
+0 0 19618
+D1
+~
+~
+0 0 19622
+D2
+~
+~
+0 0 19620
+D3
+~
+~
+0 0 19616
+S
+#19620
+Within the Arena~
+   You make your way around the enormous arena, always on guard awaiting
+your next foe. Corpses lie at irregular intervals, perhaps an indication of
+what is to come...
+~
+196 8 0 0 0 0
+D0
+~
+~
+0 0 19619
+D1
+~
+~
+0 0 19621
+D3
+~
+~
+0 0 19624
+S
+#19621
+Within the Arena~
+   You make your way around the enormous arena, always on guard awaiting
+your next foe. Corpses lie at irregular intervals, perhaps an indication of
+what is to come...
+~
+196 8 0 0 0 0
+D0
+~
+~
+0 0 19622
+D3
+~
+~
+0 0 19620
+S
+#19622
+Within the Arena~
+   You make your way around the enormous arena, always on guard awaiting
+your next foe. Corpses lie at irregular intervals, perhaps an indication of
+what is to come...
+~
+196 8 0 0 0 0
+D0
+~
+~
+0 0 19623
+D2
+~
+~
+0 0 19621
+D3
+~
+~
+0 0 19619
+S
+#19623
+Within the Arena~
+   You make your way around the enormous arena, always on guard awaiting
+your next foe. Corpses lie at irregular intervals, perhaps an indication of
+what is to come...
+~
+196 8 0 0 0 0
+D2
+~
+~
+0 0 19622
+D3
+~
+~
+0 0 19618
+S
+#19624
+Within the Arena~
+   You make your way around the enormous arena, always on guard awaiting
+your next foe. Corpses lie at irregular intervals, perhaps an indication of
+what is to come...
+~
+196 8 0 0 0 0
+D0
+~
+~
+0 0 19616
+D1
+~
+~
+0 0 19620
+S
+#19626
+Outside the Golden Pyramid~
+You stand at the top of a small trail in the foothills of the Grey Mountains.
+Before you is a squat, golden pyramid that shines with an unnatural light.
+The rune-covered entryway is to your north, while to the south the small,
+rocky trail decends back down the foothills into the open plains.  The Grey
+Mountains loom high above your head in all other directions.
+~
+196 0 0 0 0 4
+D0
+~
+~
+0 0 19627
+D2
+~
+~
+0 0 15108
+S
+#19627
+Inside the Golden Pyramid~
+   You are now inside the golden pyramid. The walls appear to be constructed
+from solid gold. A pungent green smoke fills the air, choking your lungs and
+leaving you confused. You can hear strange singing from an unknown direction,
+some type of folk music. On the floor lay three golden lamps, each emblazoned
+with an apple.
+~
+196 12 0 0 0 0
+D2
+~
+~
+0 0 19626
+D5
+~
+grate~
+2 19626 19628
+S
+#19628
+The Gallery~
+   This is where the inhabitants apparently hold all important meetings.
+Topless women stand in all corners of the room, standing so still you almost
+didn't realize they were real. A large table is in the center of the room,
+with thirty chairs around it. Foot high golden letters across one wall read
+FREEDOM DEFINED IS FREEDOM DENIED'. The green smoke has made you very curious
+about this place, and you think you understand the meaning of the words. You
+don't thought, for you have never been free. Perhaps the owners of this place
+will teach you.
+~
+196 12 0 0 0 0
+D0
+~
+~
+0 0 19629
+D1
+~
+~
+0 0 19630
+D4
+~
+grate~
+2 19626 19627
+S
+#19629
+A Shrine to the Goddess~
+   This room is a shrine to a goddess. By looking around the room, you can't
+tell exactly what kind of goddess she is, though. There is a sacred feel about
+the room, or maybe it's just the blasted green smoke. An altar is here, and a
+golden apple is smoldering on it. The smoke is apparently coming from there.
+   There is a glowing hole in the northern wall that reflects all of your
+light and yet, it has no surface that you can see.
+~
+196 262156 0 0 0 0
+D0
+~
+~
+0 0 19633
+D1
+~
+~
+0 0 19631
+D2
+~
+~
+0 0 19628
+D3
+~
+~
+0 0 19632
+S
+#19630
+The Rumpus Room~
+   Apparently the crew that runs this place takes nothing seriously. The green
+smoke you noticed upstairs is now almost impossibly thick down here. You'd be
+coughing and choking right now, if you hadn't started to like the way it's
+making you feel. Bunks and couches are strewn everywhere, and half-naked men
+stroke half-naked women to ecstasy on all of them, except of course the ones
+where the half-naked women are stroking the half-naked men. Some of them are
+singing, and all of them seem happy.
+~
+196 12 0 0 0 0
+D0
+~
+~
+0 0 19631
+D3
+~
+~
+0 0 19628
+S
+#19631
+A Peaceful Sanctum~
+   In the center of this room, painted onto the floor is a large white peace
+sign. The walls are lined with cabinets containing valuable weapons and armors.
+From here you can walk west into the shrine, south into a room that appears
+to be the site of a party or down a set of stairs. There is a large, wooden
+door inset into the eastern wall.
+~
+196 12 0 0 0 0
+D2
+~
+~
+0 0 19630
+D3
+~
+~
+0 0 19629
+S
+#19632
+The Gladitorial Pit~
+   You step into a room that is devoid of the green smoke which fills the
+previous chambers. You look around and notice the wall is lined with an arsenal
+of weapons. Scimitars, two-handed blades, and wicked-looking daggers dominate
+all of the walls. All of them could cut down an ironwood tree in one swipe.
+Suddenly you hear a voice call out "PREPARE YOURSELF."
+~
+196 108 0 0 0 0
+D1
+~
+~
+0 0 19629
+S
+#19633
+A Smoke-Filled Room~
+   As soon as you enter this room the smoke changes from green, to black, 
+and then to blue and the pungent odor changes to a sweet, heavenly aroma. 
+The smoke is so dense, you cannot see your light inches from your face, 
+but oddly enough, you see the ground and walls clearly. Suddenly the room 
+swirls and you feel like you are floating. You can't discern up from down 
+but you see peculiar arrangements of stones everywhere you look.
+~
+196 12 0 0 0 0
+D2
+~
+~
+0 0 19629
+S
+#19634
+Spare~
+   Descending down the stairs, you see two sconces with lit candles flanking
+either side of the enormous stone door providing seemingly endless
+illumination. Everything here looks very old and the smell of decay is
+overwhelming. Water leaks from the ceiling in some places, bringing with it
+a monotonous dripping noise while puddles form in the corners of the room.
+Faint light glows upon moss creeping up the cold walls, producing the only
+color in this desolate black and grey environment.
+   Exits lead up the stairs back into the Pyramid and south deeper into the
+tomb.
+~
+196 8 0 0 0 0
+D2
+~
+door~
+2 19628 19635
+D4
+~
+~
+0 0 19631
+S
+#19635
+Entrance to the Caelitis Monastery~
+  An extremely large wrought iron gate blocks the entrance to this sanctified
+monastery.  The beautiful oratory can be seen through the bars of the gate
+while the tops of several other buildings are visible over the surrounding
+wall.  Heavily guarded by two of the toughest monks you have ever seen, you
+find no easy way to break into this sacred realm.
+~
+196 4 0 0 0 0
+D0
+~
+gate~
+2 19642 19636
+D2
+~
+~
+0 0 9715
+E
+<NONE>~
+<NONE>
+~
+E
+gate~
+This wrought iron gate appears to be the only entrance to the monastery.  A 
+giant lock with an unorthodox keyhole prevents the iron bars from budging.
+You wonder what kind of object will unlock these gates.  
+~
+S
+#19636
+Inside the Monastery~
+  Through the wrought iron gate thrives a highly structured monastery
+consisting of several brick and clay buildings.  Resident monks along with
+nomadic friars frequent this abbey in search of peace and tranquility.  The
+main sanctuary of this place of worship lies to the north, while a line of
+friars files out from the small building to the east.
+~
+196 8200 0 0 0 0
+D0
+~
+~
+0 0 19637
+D1
+~
+~
+0 0 19642
+D2
+~
+gate~
+2 19642 19635
+E
+archaic~
+Some abstract looking symbols, made up of strange curves and lines which you
+find oddly appealing.
+~
+E
+bed~
+A simple, yet very cozy looking bed.
+~
+E
+desk~
+A well built desk made out of oak, its design looks very peculiar and you
+guess that it must be centuries older than what its condition suggests.
+Scattered across the top are pieces of paper, some rudimentary writing
+equipment, and several half burnt out candles.
+~
+E
+chair~
+The leather looks very worn in, and as you run your hand over it you are
+amazed at its softness.
+~
+S
+#19637
+Temple Foyer~
+  The entrance to this sacred temple is marked by copious ornate paintings and
+sculptures reflecting the spiritual beliefs of the monastery.  Light refracts
+into the room through the stained-glass windows lining the walls.  A smaller
+shrine sits outside the door leading to the oratory allowing monks to perform
+additional prayer rituals before they enter.
+~
+196 8 0 0 0 0
+D0
+~
+~
+0 0 19639
+D2
+~
+~
+0 0 19636
+S
+#19638
+A Summoning Pit~
+  The shrieks of daemons and other lesser beings echo throughout the pit while
+the dense stone walls prevent the sounds from reaching the temple.  The pit is
+dark and sinister with only a torch flickering and casting the shadows dancing
+across the room.  The light reveals vicious claw marks and several indentations
+in the walls caused by the vile creatures being summoned here.
+~
+196 8 0 0 0 0
+D4
+~
+trapdoor~
+1 0 19639
+S
+#19639
+Caelitis Oratory~
+  A small walkway files through the middle of the pews towards the hallowed
+altar.  Sculpted from the finest white marble in the land, this altar radiates
+with sanctity.  Several small pillows are placed in front of the altar for
+those who wish to worship on their knees.  The gentle hum of angels resounds
+throughout the oratory off of the solid limestone walls enclosing the area.
+Two solid gold hinges fastened to the wooden floor catch your eye from
+underneath one of the back pews.
+~
+196 262168 0 0 0 0
+D0
+~
+door~
+1 0 19649
+D2
+~
+~
+0 0 19637
+D3
+~
+~
+0 0 19648
+D5
+~
+trapdoor~
+1 0 19638
+S
+#19640
+High Amongst the Clouds~
+  As the staircase continues to ascend towards the heavens, the air becomes
+thin and the sun glimmers off of the clouds.  The sounds of birds and other
+noises fade in the distance as the only sound is the gentle breeze.  The end
+of this seemingly infinite stairway remains far out of sight.
+~
+196 8 0 0 0 0
+D4
+~
+~
+0 0 19644
+D5
+~
+ivory stairway~
+2 19646 19646
+E
+<NONE>~
+<NONE>
+~
+E
+<NONE>~
+<NONE>
+~
+S
+#19641
+A Harem in the Skyy.~
+  Several oversized pillows wrapped in ivory-coloured silk cases
+lay atop the bed of clouds.  Atop a small table amidst these pillows
+rests an ancient hookah, still smoking from recent use.  White and
+cream-coloured sheets have been loosely draped over the bed, meshing
+the heavenly atmosphere with the sensualness of its inhabitants.  Three
+beautiful women lay scantily-clad on the bed, awaiting their master's
+return to fulfill his every desire.
+~
+196 262172 0 0 0 0
+D2
+~
+silk curtain~
+1 0 19644
+E
+hookah,~
+Intricate carvings of middle-eastern culture are encrusted into the main
+chamber of this hookah.  The deep blue colour of the chamber complements the
+light sky of the heavens.  Smoke continues to emanate from the two pipes as it
+appears to have been used recently.
+~
+S
+#19642
+Donations House~
+  This small brick hut stores numerous offerings of food and clothing for the
+impoverished friars.  Several wooden crates are stocked full of donations,
+overflowing onto the ground.  These alms of goodwill have been collected by the
+members of this monastery to provide aid to all needy souls of the realm.
+~
+196 2588 0 0 0 0
+D3
+~
+~
+0 0 19636
+E
+bartender~
+Wearing very little and with a slender physique, her warm smile is extremely
+inviting and thoughts of the two of you in the private room fill you head.
+~
+S
+#19643
+Azarith's Bedroom~
+  A blinding amount of light streams in from the floor-to-ceiling windows of
+this room overlooking the monastery.  An enormous, ornate bed with gold
+bedposts sits against the side wall, complete with a set of red satin bedding.
+The adjacent wall is entirely shelved and covered with a vast array of books
+and manuscripts.  Numerous mahogany dressers, bureaus and wardrobes are
+placed about the room on a spotless, marble-tiled floor, leaving no doubt that
+the owner of this room enjoys a lavish lifestyle.  It is difficult to adjust to
+the light, but a large, oak-trimmed mirror can be distinguished and sits 
+directly in front of the door.  Shadows dancing in the corners of the mirror
+give the impression that a large man is lurking somewhere behind the door.
+~
+196 262156 0 0 0 0
+D1
+~
+oak~
+1 0 19644
+E
+<NONE>~
+<NONE>
+~
+S
+#19644
+Seraphim Lobby ~
+  High above the rest of the clouds lays this small white blanket of vapor
+lofted in the upper reaches of the atmosphere.  A rich mahogany table replete
+with the day's agenda is positioned in the center of the cloud with several
+surrounding chairs fashioned from the same timber.  This area serves as a
+congregation room for those who have ascended to the highest level of the
+heaven walkers.
+~
+196 262172 0 0 0 0
+D0
+~
+silk curtain~
+1 0 19641
+D1
+~
+door wooden~
+1 0 19645
+D3
+~
+oak~
+1 0 19643
+D5
+~
+~
+0 0 19640
+E
+<NONE>~
+<NONE>
+~
+S
+#19645
+The Sacrifical Altar~
+  Large, cathedral-styled windows line the walls of this bleak, stone-furnished
+room.  Instead of the usual primitive religious art staining the glass of these
+windows, black, blood-stained sheets have been crudely nailed into the frames
+and blot out nearly all outside light.  Books containing arcane knowledge with
+titles written in forgotten languages seem to be scattered haphazardly around
+the bare stone floor.  In the center of the room is a granite table marked with
+an array of mysterious and ominous symbols.  A thick, red liquid, possibly
+blood, flows down grooves carved into the side of the table into a rusted metal
+grating in the floor.  Through it, the screams of tormented souls who met
+torturous ends at the hands of a skilled assassin can be heard.  A flash of
+lightning briefly illuminates the room and a message scrawled in 
+blood on the far wall helps provide insight into the feverish madness of a man
+vainly chasing the specter of immortality.
+~
+196 262156 0 0 0 0
+D3
+~
+door wooden~
+1 0 19644
+E
+message~
+Oderint Dum Metuant
+
+    -VINTAGE
+~
+S
+#19646
+A Garden Terrace~
+  The monastic garden comes to an end at a very striking veranda.  The white
+limestone pillars in conjunction with the intricate marble flooring make this
+terrace glisten in the sunlight.  The terrace appears to be where the
+monastery's financial endeavors take place as a small friar stands watch over
+the banking facility.  An elaborate ivory stairway was built here, leading
+endlessly into the heavens.
+~
+196 8 0 0 0 0
+D1
+~
+~
+0 0 19647
+D4
+~
+ivory stairway~
+2 19646 19640
+E
+stairway~
+Handcrafted from the finest ivory in the land by the builder Led Zeppelin, this
+Stairway to Heaven glistens with sanctity as it bathes in the sun's rays.
+~
+S
+#19647
+A Garden Path~
+  The dirt path continues to weave through the lustrous gardens of the
+monastery.  Luscious fruit trees line the path dropping fresh, delicious
+fruits onto the path for the monks to enjoy.  Several smaller ponds are
+scattered throughout the gardens with several breeds of geese floating
+atop the water.
+~
+196 8 0 0 0 0
+D1
+~
+~
+0 0 19648
+D3
+~
+~
+0 0 19646
+S
+#19648
+Monastic Gardens~
+  Fresh air fills the atmosphere of these lush gardens with the ambient sounds
+of birds chirping and leaves rustling in the wind.  Several statues 
+inhabit the earth of these gardens, serving as a tribute to former members and
+important allies of the monastery.  A small dirt trail leads through the
+greenery towards a beautiful white limestone terrace.
+~
+196 0 0 0 0 0
+D1
+~
+~
+0 0 19639
+D3
+~
+~
+0 0 19647
+E
+statues~
+These statues depict a great battle fought between the gallant Arthur and
+Crowley against Khal'mast, the white dragon.  Arthur's sword parries the
+dragon's vicious attack while Crowley pierces her heart with his tanto.
+~
+S
+#19649
+Behind the Altar~
+  The natural darkness of this small room is contrasted by the gleaming light
+from three large portals.  The vibrant colors reflect off of the walls,
+creating an iridescent glow to complement the gentle hum of the portals.
+A small sign is posted on the wall giving some indication as to where these
+portals lead.
+~
+196 8 0 0 0 0
+D2
+~
+door~
+1 0 19639
+E
+sign~
+Violet - Amber
+Turquoise - Kir Oshi 
+White - Xixi
+~
+S
+#19650
+The Ground floor of a Tall Tower~
+   You stand just inside an enormous granite tower. A flight of spiral stairs
+leads upward to the next floor, passing through two glowing spheres of 
+magickal light. Tapestries adorn the walls, showing a powerful-looking mage
+pitted against a variety of creatures, many the likes of which you have never
+encountered.
+~
+196 40972 0 0 0 0
+D2
+~
+door~
+2 19651 19654
+D4
+~
+~
+0 0 19651
+E
+blah~
+What?
+~
+E
+sphere spheres~
+They look like plain glass globes, but give off a magickal light.
+~
+E
+tapestry tapestries~
+Ornate script woven into the fine fabric describes the mage as Mpande; the
+various creatures he is fighting in each range from dragons to dwarves.
+~
+S
+#19651
+The Second Floor of a Tall Tower~
+   The great spiral staircase takes up most of this room, leading down to
+the ground floor and up further into the tower. A flowering garden of assorted
+herbs and perennials surrounds the flowing fountain that takes up the center
+of the room. To the south, an archway opens onto a large balcony while to the
+north, shimmers of light dance around the room.
+~
+196 301596 0 0 0 0
+D0
+~
+~
+0 0 19652
+D2
+~
+~
+0 0 19653
+D4
+~
+~
+0 0 19655
+D5
+~
+~
+0 0 19650
+S
+#19652
+The Room of Portals~
+   You enter a rather sparse room which holds no interest whatsoever apart
+from the glowing portals on the western, northern and eastern walls. Each
+reflects all sources of light creating an interesting effect within the room
+as if the light itself were alive and dancing around you. Above the northern
+portal is a small wooden sign.
+~
+196 32780 0 0 0 0
+D2
+~
+~
+0 0 19651
+E
+sign~
+The sign reads:
+     Aloazar - green portal
+     Xixieqi - white portal
+     Amber   - violet portal
+~
+S
+#19653
+The Second Floor Balcony ~
+   The balcony affords a relatively good view of the surrounding forest
+although the density of trees prevents you from seeing too much further
+through them. From here, you could easily make it down to the base of the
+tower but getting back up may be a problem.
+~
+196 32772 0 0 0 0
+D0
+~
+~
+0 0 19651
+D5
+~
+~
+0 0 19654
+E
+blah~
+What?
+~
+E
+eek~
+What?
+~
+S
+#19654
+At the Base of a Tall Tower~
+Above you rises a tall tower of cold granite. The entrance to the north is a
+large ironwood door, easily large enough to pass a wagon through.
+~
+196 32768 0 0 0 3
+D0
+~
+door~
+2 19651 19650
+D2
+~
+~
+0 0 9568
+D3
+~
+~
+0 0 9557
+S
+#19655
+The Third Floor of a Tall Tower~
+   The great spiral staircase takes up most of this room, leading down to
+the second floor and up further into the tower. There is a certain chill in
+the air and you shiver uncomfortably but the feeling soon passes and you are
+left standing here.
+~
+196 32796 0 0 0 0
+D4
+~
+~
+0 0 19656
+D5
+~
+~
+0 0 19651
+E
+blah~
+What?
+~
+S
+#19656
+The Fourth Floor of a Tall Tower~
+   The great spiral staircase takes up most of this room, leading down to
+the ground floor and up further into the tower. There are a few comfortable
+chairs scattered around and the walls have been decorated with past heroes,
+some from this clan and others who strived to better themselves within this
+world. The treasure room lies to the south while a strong, wooden door lies
+to the north.
+~
+196 32780 0 0 0 0
+D0
+You can't quite see into the room..perhaps you should go in there.
+~
+door~
+2 19650 19659
+D2
+~
+~
+0 0 19657
+D4
+~
+~
+0 0 19658
+D5
+~
+~
+0 0 19655
+S
+#19657
+The Treasure Room~
+   This room is adorned with gold; from the etched gold-leaf that plates the
+floor to the solid gold pillars that support the floor above, the sight 
+takes your breath away. The only exit from the room lies to the north.
+~
+196 32780 0 0 0 0
+D0
+~
+~
+0 0 19656
+S
+#19658
+The Top of a Tall Tower~
+   Windows on all four walls are made of a magickal glass; perfectly
+transparent and yet strong as rock.  The view of the countryside out them is
+quite breath-taking; from the mountains to the north to the small desolate-
+looking village to the west.  Runes of power are inscribed into the ceiling
+here, and a small pentagram has been etched into the floor.
+~
+196 32780 0 0 0 0
+D5
+~
+~
+0 0 19656
+E
+Runes~
+They are runes of teleportation.
+~
+E
+pentagram~
+The pentagram is carved into the stone of the floor, directly beneath the 
+runes on the ceiling.
+~
+S
+#19659
+The Room of Solitude~
+   This cozy room is dominated by a large, wooden table which is covered in
+all sorts of maps and plans. Scrolls litter the floor, most filled with the
+statistics of worldly items and the weakenesses of some of the more difficult
+creatures. A window in the northern wall provides a breath-taking view of the
+surrounding mountains while a solid door to the south keeps out all of those
+unwelcome guests.
+~
+196 786524 0 0 0 0
+D2
+~
+door~
+2 19650 19656
+S
+#19665
+The Grand Arena~
+   The arena is similar to the colosseum's of old, an area of compacted dirt
+surrounded by layers of seating high above the arena floor. Bloody corpses
+have been scattered everywhere and it would be an ideal place to test your
+ability.
+~
+196 12 0 0 0 0
+D1
+~
+~
+0 0 19678
+S
+#19666
+The Prison of Syns~
+   This room has been here for hundreds of years and as you pass through
+the opening to the west, you can hear the spirits of the dead calling for
+you. You feel them as they attempt to possess your body and mind but an
+unseen force within the chamber protects you from that fate.
+~
+196 12 0 0 0 0
+D3
+~
+door~
+1 19665 19680
+S
+#19667
+The Hall of Portals~
+   This room is well lit by the white, misty aura eminating from the portals
+on the surrounding walls. As you gaze around the room, you notice the red
+carpet at its entrance to the south...perhaps you should wipe your feet
+before entering.
+~
+196 12 0 0 0 0
+D0
+~
+~
+0 0 19696
+D1
+~
+~
+0 0 19697
+D2
+~
+~
+0 0 19676
+D3
+~
+~
+0 0 19695
+S
+#19674
+A Narrow Trail~
+   The trail continues to the north and south between high-reaching mountain
+tops far above your head. To the south, the forest beckons while a solid
+looking door lies to the north.
+~
+196 40972 0 0 0 0
+D0
+You cannot see clearly into there.
+~
+door~
+2 19676 19676
+D2
+~
+~
+0 0 9736
+S
+#19676
+The Lounge~
+   The room is rather large and contains a single table in the center,
+surrounded by a number of chairs. Emblazoned on the table is the crest for
+the Etheral Syns clan - this room is obviously a meeting place for the clan
+members.
+~
+196 301596 0 0 0 0
+D0
+~
+~
+0 0 19667
+D1
+~
+~
+0 0 19677
+D2
+It looks like it goes outside.
+~
+door~
+2 19676 19674
+D3
+~
+~
+0 0 19678
+E
+crest~
+The crest is a circular logo surrounded by magical runes.  The centre
+of the crest is an image of a dying phoenix with the symbol 'E$' below it.
+~
+S
+#19677
+An Open Cavern~
+   The room opens up into a rather large cavern, the ceiling far above your
+head. The rock walls have been highly polished and torches have been placed
+at various points to light the room.
+~
+196 12 0 0 0 0
+D3
+~
+~
+0 0 19676
+D5
+~
+~
+0 0 19680
+S
+#19678
+The Grand Arena~
+   You step through a grand-looking arch and enter the clan Arena. It is
+similar to the colosseum's of old, an area of compacted dirt surrounded by
+layers of seating high above the arena floor. Bloody corpses have been
+scattered everywhere and it would be an ideal place to test your ability.
+~
+196 12 0 0 0 0
+D1
+~
+~
+0 0 19676
+D3
+~
+~
+0 0 19665
+S
+#19679
+A Cold, Damp Dungeon~
+   You enter the darkness and immediately notice the chill in the air.
+Water drips from an unknown source and moss grows on the brickwork despite
+the lack of light. A pile of treasure sits in the corner surrounded by all
+manner of bones, most of which you identify as human. You are tempted to
+steal some of it but the fate of those before you seems obvious enough.
+~
+196 28 0 0 0 0
+D2
+~
+~
+0 0 19680
+S
+#19680
+The Forbidden Lair~
+   You have entered a dimly lit room, the walls stained red from the blood
+of numerous victims. Broken swords, shields and human bones litter the
+floor - this room was obviously used for training at one time and perhaps
+the blood shed here belonged to that of its warriors.
+~
+196 4 0 0 0 0
+D0
+~
+~
+0 0 19679
+D1
+~
+door~
+1 19665 19666
+D4
+~
+~
+0 0 19677
+S
+#19686
+The Battle Arena~
+   Numerous corpses have been piled into the corners of this arena, not all
+of them human. It appears the Knights of this castle train and develop their
+skills here, both against each other and the foul beasts that lurk in the
+darkened corridors. The room has been permanently stained with the blood of
+hapless victims.
+~
+196 12 0 0 0 0
+D3
+~
+~
+0 0 19688
+S
+#19687
+The Room of Portals~
+   From here, the legions of hellspawn from within these walls can travel to
+various locations within the realm and unleash their fury. One day, they shall
+conquer the world...
+~
+196 524 0 0 0 0
+D1
+~
+~
+0 0 19688
+S
+#19688
+The Castle Entrance~
+   You stand beneath a giant archway, the entrance to this foul place. The
+floors and walls are made of a cold stone and have been covered with the blood
+from many fearsome battles...some of it looks quite fresh. Large rooms lie to
+the west and east while the exit from the castle lies to the south.
+~
+196 262684 0 0 0 0
+D1
+~
+~
+0 0 19686
+D2
+~
+portcullis~
+2 19686 19689
+D3
+~
+~
+0 0 19687
+S
+#19689
+Walkway to a Demonic Castle~
+   Ahead looms a large castle, encircled by a moat of molten lava and shrouded
+by dark, foreboding clouds. From behind its walls come the screams of tortured
+souls, crying out for mercy. A large portcullis to the north marks the
+entrance to this foul place.
+~
+196 4 0 0 0 0
+D0
+You can't quite see into the darkness that lies beyond.
+~
+portcullis~
+2 19686 19688
+D2
+~
+~
+0 0 15108
+S
+#19690
+A Narrow Trail~
+   The trail continues to the north and south between high-reaching mountain
+tops far above your head. To the south, the forest beckons while a solid
+looking door lies to the north.
+~
+196 8204 0 0 0 0
+S
+#19691
+Spare~
+   Dark marble with silver lining covers the walkway, yet the ceiling here is
+constructed with white marble. It is as if the floor is an inverse of the
+ceiling. Where there is white below, there is black above, and the converse
+is true for the ceiling relative to the floor. The overall effect is one of
+opposition; however, all of the contrasting elements make up the whole of the
+fortress, which carries an implicit significance.
+~
+196 0 0 0 0 0
+S
+#19692
+Spare~
+   To the north you can hear the sound of water coming from the western
+passage. It sounds similar to that of a brook, yet less audible. The laughter
+of young women is barely discernable from the western passage also, arousing
+curiosity. The floor is adorned with thick sheets of white marble, and centered
+upon the wall is a battle-shield painted with the Inner Sanctum's crest.
+~
+196 8 0 0 0 0
+S
+#19693
+Spare~
+   From the north you can hear deep, rhythmic drumming, accompanied by dark
+chanting from several female voices. Blue-tinted light flickers from the south,
+and on the east-wall is a large shield painted with the crest of the Inner
+Sanctum. Thick slabs of white marble make up the flooring, and consistent with
+the contrasting theme, the ceiling is designed with black marble.
+~
+196 8 0 0 0 0
+S
+#19694
+Spare~
+   An archway is draped with black cloth to the west, and one side of the
+drapery is pulled aside to allow passage. Peering through the drawn curtain,
+you can perceive the reflections of blue light cast upon unlit walls, and the
+sounds of splashing water. East of here is the focal point of the entire
+complex  the council of the Inner Sanctum. The floor here, too, is designed
+with black marble.
+~
+196 8 0 0 0 0
+S
+#19695
+The Aloazar Portal~
+   As you enter the room, it pulses softly and the portal on the far wall
+glows softly. The walls are covered in all manner of magical runes, none of
+which look familiar to you. Light cascades around the room in the various
+colors of the rainbow, certainly a breath-taking sight.
+~
+196 28 0 0 0 0
+D1
+~
+~
+0 0 19667
+S
+#19696
+The Amber Portal~
+   As you enter the room, you notice a large portal on the far wall which
+lets off a magnificent glow. Its color and size are almost hypnotic, drawing
+you ever closer. The only question that remains is, should you take the leap?
+~
+196 28 0 0 0 0
+D2
+~
+~
+0 0 19667
+S
+#19697
+The Kir Oshi Portal~
+   As you enter the room, it pulses softly and the portal on the far wall
+glows softly. The walls are covered in all manner of magical runes, none of
+which look familiar to you. Light cascades around the room in the various
+colors of the rainbow, certainly a breath-taking sight.
+~
+196 28 0 0 0 0
+D3
+~
+~
+0 0 19667
+S
+#19698
+Spare~
+   Spectral illumination permeates the air, emanating from spherical
+contraptions that hang from the ceiling east and west of you. The walkway
+is raised above the surface of the floor slightly, and is paved with black
+marble. Directly south from here is where the Inner Sanctum deliberates, and
+to the north is the entrance to the training grounds.
+~
+196 8 0 0 0 0
+S
+#19699
+Spare~
+   Vibrant flares gush forth from a strange, magickal apparatus that suspends
+from the ceiling. Like a multi-colored fount, purple and blue streaks of light
+radiate outward with fluid motion, continually altering conformation until
+evaporating into the air. On rare occasion, globular formations build up
+within the apparatus, then boil over, splattering on the ground like an
+oversized raindrop.
+~
+196 8 0 0 0 0
+S
+$~

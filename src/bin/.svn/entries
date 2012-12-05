@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="21"
+   name=""
+   committed-date="1999-03-10T15:31:47.000000Z"
+   url="file:///var/svn/trunk/2.2/src/bin"
+   last-author="stevet"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   prop-time="2006-10-09T21:26:55.000000Z"
+   revision="1525"/>
+<entry
+   committed-rev="21"
+   name=".cvsignore"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-03-10T15:31:47.000000Z"
+   checksum="0d28e653c5f80e5f2d1877978e8ebce1"
+   last-author="stevet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+</wc-entries>

@@ -1,0 +1,1396 @@
+#22300
+An Ocean Inlet~
+   Coastal waters slow as they gently strike the surf to both the west and
+north.  The ocean spans to the southern horizon while the dry land of the
+coast lies northwest of you.
+~
+223 0 0 0 0 6
+D0
+Dry land lies to the north.
+~
+~
+0 0 9386
+D1
+The inlet grows deeper to the east.
+~
+~
+0 0 22301
+D2
+The inlet enters he ocean to the south.
+~
+~
+0 0 21414
+D3
+Dry land lies to the east.
+~
+~
+0 0 9390
+S
+#22301
+Ocean Shallows~
+   You are wading in the shallows of the ocean beach.  Water surrounds you,
+growing colder and deeper to the south.  Dry land lies to the north and 
+west, where you can hear gulls squawking.
+~
+223 0 0 0 0 6
+D0
+The coast lies to the north.
+~
+~
+0 0 9387
+D1
+The ocean inlet grows deep in to the east.
+~
+~
+0 0 22302
+D2
+The ocean grows deep to the south.
+~
+~
+0 0 21415
+D3
+The inlet stretches to the west, growing more shallow as you approach land.
+~
+~
+0 0 22300
+S
+#22302
+Coastal Shallows~
+   You are surrounded by water on all sides, though the coast lies a short
+distance to the northwest.  Here the water seems warm as current from the
+south flow northward and heat the area.
+~
+223 0 0 0 0 7
+D0
+The inlet grows shallow to the north.
+~
+~
+0 0 22303
+D1
+~
+~
+0 0 22304
+D2
+The ocean grows deep to the south.
+~
+~
+0 0 21416
+D3
+The water grows more shallow to the west.
+~
+~
+0 0 22301
+S
+#22303
+Ocean Shallows~
+   You are standing in the shallows of an ocean beach.  Brine wafts up,
+stinging your nose as it is carried along with the thick seawater.
+   The ocean grows deeper to the south and east, but touches land to the
+northwest and west.
+~
+223 0 0 0 0 6
+D0
+Dry land lies to the north.
+~
+~
+0 0 9382
+D1
+The ocean grows deeper to the east.
+~
+~
+0 0 22305
+D2
+The inlet grows deeper to the south.
+~
+~
+0 0 22302
+D3
+Dry land lies to the west.
+~
+~
+0 0 9387
+S
+#22304
+Ocean Waters~
+   You are surrounded by water, though the coast lies a short distance to the
+northwest.  Here the water seems warm as currents from the south flow into the
+area to make the air warm and turbulent.
+~
+223 0 0 0 0 7
+D0
+The ocean continues to the north.
+~
+~
+0 0 22305
+D1
+The ocean grows deep to the east.
+~
+~
+0 0 22315
+D2
+The ocean continues to the south.
+~
+~
+0 0 21417
+D3
+The inlet continues to the east.
+~
+~
+0 0 22302
+S
+#22305
+Ocean Waters~
+   You are surrounded by water, though the coast lies a short distance to the 
+northwest.  Here the water seems warm as currents from the south flow into the
+area, making the air and water turbulent.
+~
+223 0 0 0 0 7
+D0
+The ocean becomes shallow to the north.
+~
+~
+0 0 22306
+D1
+The ocean continues to the east.
+~
+~
+0 0 22316
+D2
+The ocean continues to the south.
+~
+~
+0 0 22304
+D3
+The ocean grows shallow to the west.
+~
+~
+0 0 22303
+S
+#22306
+Coastal Shallows~
+   You are surrounded by water on three sides, though the coast lies a short
+distance to the west.  Here the water seems warm as currents from the south
+flow northward and heat the area.
+~
+223 0 0 0 0 6
+D0
+The ocean becomes more shallow to the north.
+~
+~
+0 0 22307
+D1
+The ocean continues to the east.
+~
+~
+0 0 22317
+D2
+The ocean grows deeper to the south.
+~
+~
+0 0 22305
+D3
+The shore lies to the west.
+~
+~
+0 0 9382
+S
+#22307
+Coastal Shallows~
+   You are surrounded by water on three sides, though the coast lies a short
+distance to the west.  Here the water seems warm as current from the south
+flows northward and heats the area.
+~
+223 0 0 0 0 6
+D0
+The ocean continues to the north.
+~
+~
+0 0 22308
+D1
+The ocean continues to the east.
+~
+~
+0 0 22318
+D2
+The ocean lies to the south.
+~
+~
+0 0 22306
+D3
+The coast lies to the west.
+~
+~
+0 0 9375
+S
+#22308
+Coastal Shallows~
+   You are surrounded by water on three sides, though the coast lies a short
+distance to the west.  Here the water seems warm as current from the south
+flows northward and heats the area.
+~
+223 0 0 0 0 6
+D0
+The water grows cooler as you head north, away from the warm southern
+currents.
+~
+~
+0 0 22309
+D1
+The ocean continues to the east.
+~
+~
+0 0 22319
+D2
+The ocean continues to the south.
+~
+~
+0 0 22307
+D3
+The coastline lies to the west.
+~
+~
+0 0 9369
+S
+#22309
+Coastal Shallows~
+   You are surrounded by water on three sides, though the coast lies a short
+distance to the west.  Here the water seems warm as current from the south
+flows northward and heats the area.
+~
+223 0 0 0 0 6
+D0
+The water grows cooler to the north.
+~
+~
+0 0 22310
+D1
+The ocean continues to the east.
+~
+~
+0 0 22320
+D2
+The water grows warmer to the south.
+~
+~
+0 0 22308
+D3
+The coastline lies to the west.
+~
+~
+0 0 9365
+S
+#22310
+Coastal Shallows~
+   You are surrounded by water on three sides, though the coast lies a short
+distance to the west.  Here the water seems warm as current from the south
+flows northward and heats the area.
+~
+223 0 0 0 0 6
+D0
+The water grows cooler and more murky to the north.
+~
+~
+0 0 22311
+D1
+The ocean grows deeper to the east.
+~
+~
+0 0 22321
+D2
+The water grows warmer and more clear to the south.
+~
+~
+0 0 22309
+D3
+The coastline lies to the west.
+~
+~
+0 0 9363
+S
+#22311
+Coastal Shallows~
+   You are surrounded by water on three sides, though the coast lies a short
+distance to the west.  Here the water seems warm as current from the south
+flows northward and heats the area.
+~
+223 0 0 0 0 6
+D0
+The ocean grows murky to the north.
+~
+~
+0 0 22312
+D1
+The ocean continues to the east, growing deeper as you look further out.
+~
+~
+0 0 22322
+D2
+The ocean grows warmer to the south.
+~
+~
+0 0 22310
+D3
+The coastline lies to the west.
+~
+~
+0 0 9361
+S
+#22312
+Coastal Shallows~
+   You are surrounded by water on three sides, though the coast lies a short
+distance to the west.  Here the water seems warm as current from the south
+flows northward and heats the area.
+~
+223 0 0 0 0 6
+D0
+The waters remain dark and cloudy to the north.
+~
+~
+0 0 22313
+D1
+The ocean stretches to the eastern horizon.
+~
+~
+0 0 22323
+D2
+The murky waters grow more clear to the south.
+~
+~
+0 0 22311
+D3
+The coastline lies to the west.
+~
+~
+0 0 9359
+S
+#22313
+Coastal Shallows~
+   You are surrounded by water on three sides, though the coast lies a short
+distance to the west.  Here the water seems warm as current from the south
+flows northward and heats the area.
+~
+223 0 0 0 0 6
+D0
+The water is dark and murky to the north.  You can see a few strands of
+algae break the surface.
+~
+~
+0 0 22314
+D1
+The ocean stretches to the eastern horizon.
+~
+~
+0 0 22324
+D2
+The murky waters remain dark to the south.
+~
+~
+0 0 22312
+D3
+The coatline lies to the west.
+~
+~
+0 0 9357
+S
+#22314
+Coastal Shallows~
+   You are wading in the shallows of the coast.  Algae laps against the
+shore to the north and west where it meets a beach of pebbles and orange
+sand.
+   The dark waters of the ocean stretch to the south and east.
+~
+223 0 0 0 0 6
+D0
+The coastline lies to the north.
+~
+~
+0 0 9353
+D1
+The ocean stretches to the eastern horizon.
+~
+~
+0 0 22325
+D2
+The waters remain dark to the south.
+~
+~
+0 0 22313
+D3
+The coastline lies to the west.
+~
+~
+0 0 9355
+S
+#22315
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the area.
+~
+223 0 0 0 0 7
+D0
+The ocean grows cooler to the north.
+~
+~
+0 0 22316
+D2
+The ocean stretches to the south.
+~
+~
+0 0 21418
+D3
+The ocean stretches toward land in that direction.
+~
+~
+0 0 22304
+S
+#22316
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the area.
+~
+223 0 0 0 0 7
+D0
+The ocean continues to the north.
+~
+~
+0 0 22317
+D2
+The ocean stretches southward.
+~
+~
+0 0 22315
+D3
+The ocean continues to the west.
+~
+~
+0 0 22305
+S
+#22317
+Ocean Waters~
+   You are surrounded by warm water, obviously heated from undercurrents
+that flow northward from the south.
+~
+223 0 0 0 0 7
+D0
+The ocean continues to the north.
+~
+~
+0 0 22318
+D2
+The ocean continues to the south.
+~
+~
+0 0 22316
+D3
+The ocean approaches the shore to the west.
+~
+~
+0 0 22306
+S
+#22318
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22319
+D2
+The ocean continues to the south.
+~
+~
+0 0 22317
+D3
+The ocean continues toward shore to the west.
+~
+~
+0 0 22307
+S
+#22319
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the
+northwest.  Here the water seems warmer as currents from the south
+flow northward and heat the area.
+~
+223 0 0 0 0 7
+D0
+The ocean stretches to the north.
+~
+~
+0 0 22320
+D2
+The ocean continues to the south.
+~
+~
+0 0 22318
+D3
+The ocean continues toward the coast to the west.
+~
+~
+0 0 22308
+S
+#22320
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+~
+223 0 0 0 0 7
+D0
+The ocean continues to the north.
+~
+~
+0 0 22321
+D1
+The ocean continues to the west.
+~
+~
+0 0 22309
+D2
+The ocean continues to the south.
+~
+~
+0 0 22319
+D3
+The ocean grows more shallow as it approaches the shore to the west.
+~
+~
+0 0 22309
+S
+#22321
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+~
+223 0 0 0 0 7
+D0
+The ocean continues to the north.
+~
+~
+0 0 22322
+D2
+The ocean continues to the south.
+~
+~
+0 0 22320
+D3
+The ocean approaches the coast to the west.
+~
+~
+0 0 22310
+S
+#22322
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+~
+223 0 0 0 0 7
+D0
+The water grows darker and cooler to the north.
+~
+~
+0 0 22323
+D2
+The ocean continues to the south.
+~
+~
+0 0 22321
+D3
+The ocean grows shallow to the west, where it approaches the shoreline.
+~
+~
+0 0 22311
+S
+#22323
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+~
+223 0 0 0 0 7
+D0
+The ocean grows more shallow, though more murky, to the north.
+~
+~
+0 0 22324
+D2
+The ocean grows warmer to the south.
+~
+~
+0 0 22322
+D3
+The shoreline lies off in that direction.
+~
+~
+0 0 22312
+S
+#22324
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+   As you look around you, chunks of flotsam and driftwood float by.
+~
+223 0 0 0 0 7
+D0
+The ocean grows cooler to the north.
+~
+~
+0 0 22325
+D2
+The ocean grows more clear to the south.
+~
+~
+0 0 22323
+D3
+The coastline lies a short distance to the west.
+~
+~
+0 0 22313
+S
+#22325
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+~
+223 0 0 0 0 7
+D0
+The ocean grows cooler and seems to be massed with floating algae to the
+north.
+~
+~
+0 0 22326
+D2
+The ocean grows more clear to the south.
+~
+~
+0 0 22324
+D3
+The coastline appears to the northwest and west.
+~
+~
+0 0 22314
+S
+#22326
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22327
+D2
+The ocean continues to the south.
+~
+~
+0 0 22325
+D3
+The coastline appears to the west.
+~
+~
+0 0 9353
+S
+#22327
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+   As you look around you, chunks of flotsam and driftwood float by.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22328
+D2
+~
+~
+0 0 22326
+D3
+~
+~
+0 0 9350
+S
+#22328
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22329
+D2
+~
+~
+0 0 22327
+D3
+~
+~
+0 0 9347
+S
+#22329
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+   As you look around you, chunks of flotsam and driftwood float by.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22330
+D2
+~
+~
+0 0 22328
+D3
+~
+~
+0 0 9344
+S
+#22330
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22331
+D2
+~
+~
+0 0 22329
+D3
+~
+~
+0 0 9341
+S
+#22331
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+   As you look around you, chunks of flotsam and driftwood float by.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22332
+D2
+~
+~
+0 0 22330
+D3
+~
+~
+0 0 9338
+S
+#22332
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22333
+D2
+~
+~
+0 0 22331
+D3
+~
+~
+0 0 9335
+S
+#22333
+Ocean Waters~
+   You are surrounded by water, though the coast lies not far to the 
+northwest.  Here the water seems warm as currents from the south flow
+northward and heat the water.
+   As you look around you, chunks of flotsam and driftwood float by.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22334
+D2
+~
+~
+0 0 22332
+D3
+~
+~
+0 0 9332
+S
+#22334
+A Small, Rocky Cove~
+   You are wading in the shallows of a small cove.  A few trees hang overhead,
+casting shadows on the briny water around you and the strands of algae that
+entwine themselves around your feet.
+   To the north and west you can see shrubs dry, rocky outcroppings along the
+coast, while to the south and east, the ocean extends far to the edge of your
+vision.  To the northwest, the cove enters a thick canopy of trees.
+~
+223 0 0 0 0 6
+D0
+~
+~
+0 0 9326
+D2
+~
+~
+0 0 22333
+D3
+~
+~
+0 0 9329
+S
+#22350
+Briny Waters~
+   You float in the briny waters just south of a sea swamp, where the
+mire meets the ocean.  A few dead logs float by into the open sea to
+the south and west, while you can see movement of swamp animals to the
+north and northwest.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 12318
+D1
+~
+~
+0 0 21644
+D2
+~
+~
+0 0 22352
+D3
+~
+~
+0 0 22351
+S
+#22351
+Briny Waters~
+   You float in the briny waters just south of a sea swamp, where the
+mire meets the ocean.  A few dead logs float by into the open sea to
+the south and west, while you can see movement of swamp animals to the
+north and northwest.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 12317
+D1
+~
+~
+0 0 22350
+D2
+~
+~
+0 0 22353
+D3
+~
+~
+0 0 12329
+S
+#22352
+Salty Waters~
+   You float in the waters just south of a briny swamp, where the salty
+waters of the northern swamp mingle with the tangy ocean.  Flotsam and a
+few reeds of sea plants float by from the ocean to the east and northeast,
+while a calm bay seems to open to the distant south.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22350
+D1
+~
+~
+0 0 21679
+D2
+~
+~
+0 0 22357
+D3
+~
+~
+0 0 22353
+S
+#22353
+Briny Waters~
+   You float in the briny waters just south of a sea swamp, where the
+mire meets the ocean.  A few dead logs float by into the open sea to
+the south and east, while you can see movement of swamp animals to the
+north.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22351
+D1
+~
+~
+0 0 22352
+D2
+~
+~
+0 0 22358
+D3
+~
+~
+0 0 22354
+S
+#22354
+Briny Waters~
+   You float in the briny waters just south of a sea swamp, where the
+mire meets the ocean.  A few dead logs float by into the open sea to
+the south and east, while you can see movement of swamp animals to the
+north.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 12329
+D1
+~
+~
+0 0 22353
+D2
+~
+~
+0 0 22359
+D3
+~
+~
+0 0 22355
+S
+#22355
+Briny Waters~
+   You float in the briny waters just south of a sea swamp, where the
+mire meets the ocean.  A few dead logs float by into the open sea to
+the west, while you can see movement of swamp animals to the north.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 12328
+D1
+~
+~
+0 0 22354
+D2
+~
+~
+0 0 22360
+D3
+~
+~
+0 0 22356
+S
+#22356
+Briny Waters~
+   You float in the briny waters just south of a sea swamp, where the
+mire meets the ocean.  A few dead logs float by into the open sea to
+the west, while you can see movement of swamp animals to the north
+and northwest.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 12327
+D1
+~
+~
+0 0 22355
+D2
+~
+~
+0 0 22361
+D3
+~
+~
+0 0 12334
+S
+#22357
+Salty Waters~
+   You float in the waters just south of a briny swamp, where the salty
+waters of the northern swamp mingle with the tangy ocean.  Flotsam and a
+few reeds of sea plants float by from the ocean to the east and northeast,
+while a calm bay seems to open to the distant south.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22352
+D1
+~
+~
+0 0 21714
+D2
+~
+~
+0 0 22362
+D3
+~
+~
+0 0 22358
+S
+#22358
+Salty Waters~
+   You float in the waters just south of a briny swamp, where the salty
+waters of the northern swamp mingle with the tangy ocean.  Flotsam and a
+few reeds of sea plants float by from the ocean to the east and northeast,
+while a calm bay seems to open to the distant south.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22353
+D1
+~
+~
+0 0 22357
+D2
+~
+~
+0 0 22363
+D3
+~
+~
+0 0 22359
+S
+#22359
+Salty Waters~
+   You float in the waters just south of a briny swamp, where the salty
+waters of the northern swamp mingle with the tangy ocean.  Flotsam and a
+few reeds of sea plants float by from the ocean to the east and northeast,
+while a calm bay seems to open to the distant south.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22354
+D1
+~
+~
+0 0 22358
+D2
+~
+~
+0 0 22364
+D3
+~
+~
+0 0 22360
+S
+#22360
+Salty Waters~
+   You float in the waters just south of a briny swamp, where the salty
+waters of the northern swamp mingle with the tangy ocean.  Flotsam and a
+few reeds of sea plants float by from the ocean to the east and northeast,
+while a calm bay seems to open to the distant south.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22355
+D1
+~
+~
+0 0 22359
+D2
+~
+~
+0 0 22365
+D3
+~
+~
+0 0 22361
+S
+#22361
+Salty Waters~
+   You float in the waters just south of a briny swamp, where the salty
+waters of the northern swamp mingle with the tangy ocean.  Flotsam and a
+few reeds of sea plants float by from the ocean to the east and northeast,
+while a calm bay seems to open to the south and west.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22356
+D1
+~
+~
+0 0 22360
+D2
+~
+~
+0 0 22366
+D3
+~
+~
+0 0 12405
+S
+#22362
+Ocean Waters~
+   You are floating in warm, salty waters where the ocean churns lightly
+under heated currents.  Water surrounds you in all directions, becoming
+more briny to the north.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22357
+D1
+~
+~
+0 0 21749
+D2
+~
+~
+0 0 22367
+D3
+~
+~
+0 0 22363
+S
+#22363
+Ocean Waters~
+   You are floating in warm, salty waters where the ocean churns lightly
+under heated currents.  Water surrounds you in all directions, becoming
+more briny to the north.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22358
+D1
+~
+~
+0 0 22362
+D2
+~
+~
+0 0 22368
+D3
+~
+~
+0 0 22364
+S
+#22364
+Ocean Waters~
+   You are floating in warm, salty waters where the ocean churns lightly
+under heated currents.  Water surrounds you in all directions, becoming
+more briny to the north.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22359
+D1
+~
+~
+0 0 22363
+D2
+~
+~
+0 0 22369
+D3
+~
+~
+0 0 22365
+S
+#22365
+Ocean Waters~
+   You are floating in warm, salty waters where the ocean churns lightly
+under heated currents.  Water surrounds you in all directions, becoming
+more briny to the north.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22360
+D1
+~
+~
+0 0 22364
+D2
+~
+~
+0 0 22370
+D3
+~
+~
+0 0 22366
+S
+#22366
+Ocean Waters~
+   You are floating in warm, salty waters where the ocean churns lightly
+under heated currents.  Water surrounds you in all directions, becoming
+more briny to the north.
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22361
+D1
+~
+~
+0 0 22365
+D2
+~
+~
+0 0 22371
+D3
+~
+~
+0 0 12410
+S
+#22367
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22362
+D1
+~
+~
+0 0 21812
+D3
+~
+~
+0 0 22368
+S
+#22368
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22363
+D1
+~
+~
+0 0 22367
+D3
+~
+~
+0 0 22369
+S
+#22369
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+223 0 0 0 0 7
+D0
+
+~
+~
+0 0 22364
+D1
+~
+~
+0 0 22368
+D3
+~
+~
+0 0 22370
+S
+#22370
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22365
+D1
+~
+~
+0 0 22369
+D3
+~
+~
+0 0 22371
+S
+#22371
+Ocean Waters~
+   You are floating above the churning surface of the water.  As 
+you float across the sea's surface, you note your shadow below, 
+waving with the currents.  In the distance, you can see the foam 
+of a broken water currents. 
+~
+223 0 0 0 0 7
+D0
+~
+~
+0 0 22366
+D1
+~
+~
+0 0 22370
+D3
+~
+~
+0 0 12415
+S
+$~

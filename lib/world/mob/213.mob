@@ -1,0 +1,264 @@
+#21300
+pike~
+the pike~
+A pike flashes by, trying to find a way out of this dirty water.
+~
+You can barely make out it's midnight blue body under the surface of what
+must be the worst filth in all of the lands, what a saddening sight.
+~
+65544 0 0 0 132096 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 0
+BareHandAttack: 2
+Race: 23
+E
+#21301
+bass~
+the bass~
+A bass swims by, clearly sickened by all the filth in this water.
+~
+All you can see is the vauge silvery body under the slime and sludge, maybe
+you should put it out of it's misery.
+~
+65544 0 0 0 132096 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 0
+BareHandAttack: 2
+Race: 23
+E
+#21302
+oscar~
+the oscar~
+A big old oscar looks at you wondering how you would taste.
+~
+This is a huge tiger oscar which was probibly someone's pet once, now it
+roams the sewers looking for food.
+~
+65672 0 0 0 132096 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 0
+BareHandAttack: 2
+Race: 23
+E
+#21303
+papa gator~
+Papa gator~
+Papa gator is here, munching on some kind of carcass and looking at you.
+~
+Papa gator is not your ordinary gator. He looks like to product of some
+experiment gone wrong. Not only is he bigger than you, but he looks pissed.
+~
+104 0 0 0 132096 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 1
+BareHandAttack: 4
+Race: 13
+E
+#21304
+mama gator~
+Mama gator~
+Mama gator is here guarding her eggs.
+~
+She's not just a mama, she's a BIG mama. She looks about 8 feet long and
+looks very disturbed by your presence, perhaps you should leave... NOW.
+~
+104 0 0 0 132096 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 2
+BareHandAttack: 4
+Race: 13
+E
+#21305
+baby gator~
+a baby gator~
+A baby gator is here learning how to swim and hunt.
+~
+Isn't it adorable? It's a feisty little gator, though, and it snaps at you
+when you get too close.
+~
+104 0 0 0 132096 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+Race: 13
+E
+#21306
+sewer rat~
+a sewer rat~
+A sewer rat scampers in, sees you, and hisses.
+~
+It's a scruffy little black fleabag... Better stay away, who knows what
+diseases it carries.
+~
+104 0 0 0 132096 0 0 0 -700 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 0
+BareHandAttack: 4
+Race: 15
+E
+#21307
+mole~
+a mole~
+A mole is here, burrowing away at the concrete.
+~
+It's a short black rodent. It has little red eyes that almost seem to glow
+in the dark. It stares at you for a moment, and then goes back to what it was
+doing.
+~
+401544 0 0 0 33792 0 0 0 400 E
+10 10 0 10d5+110 5d4+5
+15 6000
+8 8 0
+BareHandAttack: 8
+Race: 15
+E
+#21308
+leech~
+the giant leech~
+A giant leech is here looking from some fresh blood to suck on!
+~
+It's fat, black, and hungry. Apparently this is one happy leech.
+~
+104 0 0 0 1024 0 0 0 -700 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 1
+Race: 21
+E
+#21309
+moccasin snake~
+a water moccasin~
+You think you see some sort of serpent under the water here.
+~
+It is a long, slender snake. There's not much significant about it except
+it's enormous fangs and lightning speed in water.
+~
+105 0 0 0 132096 0 0 0 -500 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#21310
+turtle snapping~
+a large snapping turtle~
+A turtle is here, slowly making it's way across the tunnel.
+~
+It's large and green-black, with a shell as solid as stone. It looks
+peaceful, in it's own way.
+~
+72 0 0 0 1024 0 0 0 -100 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#21311
+slime purple~
+a purple slime~
+A puddle of purple ooze slithers across your path, dissolving everything.
+~
+It's body is always changing, a lump of purple gel with no constant shape
+and no remorse.
+~
+196712 0 0 0 1024 0 0 0 -250 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 0
+Race: 25
+E
+#21312
+toad rabid~
+a rabid toad~
+A huge, green toad is here, foaming at the mouth.
+~
+My god! It's rabid!! Mad Toad!! Mad Toad!!
+~
+104 0 0 0 1024 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+BareHandAttack: 4
+Noise: Bud...
+E
+#21313
+iguana giant~
+a giant iguana~
+A large green reptile is here, looking for some lettuce.
+~
+It's green, it's happy, and it's got what looks like a small leather
+harness on it's back...
+~
+2099272 0 0 0 1024 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 0
+BareHandAttack: 8
+Race: 13
+E
+#21314
+cricket tiny~
+a tiny cricket~
+A tiny little cricket is here, making beautiful music.
+~
+Awwww, look at the cute little cricket? If they weren't so damn annoying
+they might replace teddy bears.
+~
+200 0 0 0 132096 0 0 0 200 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+Noise: Chirp!  Chirp!
+E
+#21315
+slug~
+a slug~
+A small pile of gooey flesh is here, sliming everything.
+~
+EWWWW! This nasty creature is leaking something all over the place! Don't
+touch it.
+~
+72 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+E
+#21316
+grouper large~
+a large grouper~
+The biggest grouper you've ever seen is here, swimming at your feet!
+~
+Wow, is it big! It has to be at least 50 pounds! If only you could catch it...
+~
+65608 0 0 0 132096 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+BareHandAttack: 2
+Noise: You hear something splashing around playfully near you.
+E
+#21317
+blackbird~
+the blackbird~
+A scruffly blackbird is perched here, surveying the tunnel.
+~
+It's black feathers look dirty and rough, not like the birds outside that're
+all pretty and clean looking. It's glare looks hollow and cold as it sees
+food in your eyes.
+~
+104 0 0 0 132096 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+BareHandAttack: 8
+E
+$

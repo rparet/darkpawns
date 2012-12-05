@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1437"
+   name=""
+   committed-date="2008-04-30T03:27:43.811158Z"
+   url="file:///var/svn/trunk/2.2/src/lua/test/examples/www"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1437"
+   name="staff.lua"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="e045a705ec56cc6bb28c8ab0957e3d3c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="db.lua"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="f2ff0810b69b99e66d5c2517479ccfb8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="README"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="d3155dafd70d43164e9559c858dcb98f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="template.html"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="6f0dc55dbdaa2bd15116e6c0cfadc595"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+</wc-entries>

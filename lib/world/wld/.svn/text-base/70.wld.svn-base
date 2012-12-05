@@ -1,0 +1,1422 @@
+#7000
+Immortal Map Room~
+Look map to see slums layout.
+~
+70 69 0 0 0 1
+D5
+~
+~
+0 -1 7001
+E
+map~
+* = Street
++ = Building
+# = Pre-Existing From Bourbon
+-----------------------------
+#  #  #  #  #  #  +  +
+   |  |        |
+*  #--#  +--+  #  *  +
+|        |  |     |  |
+*--*--+  +--+--+--*--*
+   |                 |
++--*--+  +--+  +--*--*
+   |     |  |     |  |
+*--*--+  *--*  +--*--+
+|        |  |     |  |
+*--*--*--*  *--*--*--+
+   |        |     |  |
++--*--+--+  *  +--*  +
+   |  |  |  |  |  |
+#  +--+--+  *  +  +  #
+~
+S
+#7001
+Entering a Dim Street~
+   While most city streets are clean and well maintained, the street here
+has taken a turn for the worse. Looking ahead, you can see that the street
+doesn't get any better, worse in fact. There is a sign fastened securely
+to the wall of a building.
+~
+70 68 0 0 0 1
+D2
+~
+~
+0 -1 7002
+D3
+~
+~
+0 0 8059
+E
+sign~
+WARNING: You are entering the slums. The Church has condemned the area and
+denies the existence of any of the vermin within these walls. Proceed at your
+own risk. Under no circumstances should you consider yourself safe within
+these diseased walls.
+
+- Jasper Withrold                                                               
+- Scribe to His Holiness
+~
+S
+#7002
+A Dim Street~
+   Proceeding deeper into the slums, the street narrows and begins to
+twist and turn. Rubbish lies strewn about randomly, sometimes threatening
+to topple down upon you. It would be easy to get lost here.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7001
+D1
+~
+~
+0 -1 7003
+S
+#7003
+A Dim Street~
+   It is said that this section is the oldest part of town. It certainly
+looks like it now. Poorly constructed houses line the street, sometimes
+two stories high, and garbage is a continual threat to life.
+~
+70 65 0 0 0 1
+D1
+~
+~
+0 -1 7038
+D2
+~
+~
+0 -1 7076
+D3
+~
+~
+0 -1 7002
+S
+#7004
+A Blocked Street~
+   As the road continues, little changes beside the direction you are 
+going.  Ahead, the burnt remains of a building are piled in the street
+blocking your way south. From all appearances, houses have been built
+haphazardly upon the ruined foundations of others.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7076
+D1
+~
+~
+0 -1 7040
+D3
+~
+~
+0 -1 7005
+S
+#7005
+In a Ruined Building~
+   Charred bricks and wood lay scattered about in small pieces. It feels
+weird walking through the remains of this building.  You wonder what caused
+the fire and more importantly why it didn't consume this entire section of
+town.
+~
+70 65 0 0 0 1
+D1
+~
+~
+0 -1 7004
+D2
+~
+~
+0 -1 7006
+S
+#7006
+In a Ruined Building~
+   This building apparently had a basement judging by the hollow thunk of
+your boots on the floorboards. Or maybe it's the creak of the rotting
+floorboards.  Best not to dally too long.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7005
+D1
+~
+~
+0 -1 7007
+D5
+~
+~
+0 -1 7075
+S
+#7007
+A Clean Street~
+   The street here is clean, meticulously swept by someone. There is no sign
+of rubbish anywhere.  There is a light to the south.
+~
+70 65 0 0 0 1
+D1
+~
+~
+0 -1 7023
+D2
+~
+~
+0 -1 7008
+D3
+~
+~
+0 -1 7006
+S
+#7008
+A Clean Street~
+   Like the street to the north, this area has been swept clean and there
+is a lantern hanging from a lamp post. To the east is the entrance of some
+sort of establishment.
+~
+70 68 0 0 0 1
+D0
+~
+~
+0 -1 7007
+D1
+A stout oak door.
+~
+door~
+1 -1 7009
+D3
+~
+~
+0 -1 7042
+S
+#7009
+The Plated Ingot~
+   In direct contrast to the rest of this part of the city, this room is 
+clean, warm, and well lit. The lighting is provided by what appears to be
+magical globes hung on chandeliers. On the north wall is a fireplace that
+blazes heartily.  To your right, a bar lies along the west wall.  Across
+many tables and clouds of pipe and other smoke is a doorway through which
+you can hear occasional snatches of conversation. The bar continues south.
+~
+70 200 0 0 0 0
+D1
+~
+~
+0 -1 7012
+D2
+~
+~
+0 -1 7010
+D3
+A stout oak door.
+~
+door~
+1 -1 7008
+S
+#7010
+The Plated Ingot~
+   Most of the people in the tavern have congregated in this end of the
+room. The lighting here is a bit dimmer. Given the nature of this part
+of the town, you would expect the patrons to be more wary, yet most look
+fairly relaxed. The bar along the west wall is made of sturdy ironwood 
+from the surrounding forests of Kir Drax'in. Behind the bar is a doorway
+through which the smells of fine foods waft. On the east side of the room
+is a closed door. Along the south wall a set of stairs leads up.
+~
+70 72 0 0 0 0
+D0
+~
+~
+0 -1 7009
+D1
+An Ironwood door.
+~
+door~
+1 -1 7013
+D3
+A flip top counter and half door.
+~
+counter~
+1 -1 7011
+D4
+~
+~
+0 -1 7079
+S
+#7011
+The Kitchen~
+   As you guessed, this is the kitchen. Pots and pans hang from the ceiling.
+Various kettles sit bubbling jovially upon fire pits which line north and
+south walls. In the center of the room is a large preparation table upon
+which a huge slab of spiced meat lies steaming. On the west wall is a medium-
+sized hole with shutters on either side. 
+~
+70 200 0 0 0 0
+D1
+A flip top counter and half door.
+~
+counter~
+1 -1 7010
+E
+hole~
+You look out onto the lava pits of the city dump. Given the location of the
+building and and the stains of food and other debris along the sill, this
+place must have been built quite some time ago and around the dump.
+~
+S
+#7012
+Gambling room~
+   Low-hung, dim lights hang over assorted small gambling tables. You can
+see a variety of card games going on, a game of sherpa, as well as several
+dice games. It's hard to make out any faces in the crowd due to the precise
+positioning of the lighting in addition to the volume of smoke. The little
+conversation you hear seems sporadic and muted, with only occasional rowdy
+outbursts.
+~
+70 200 0 0 0 0
+D3
+~
+~
+0 -1 7009
+S
+#7013
+Conference Room~
+   A long table surrounded by high-back wing chairs takes up most of this
+room. Along the walls are narrow tables laden with food and drink. The
+combination of dim lighting and dark paneling makes identification of
+people difficult.
+~
+70 72 0 0 0 0
+D3
+An Ironwood door.
+~
+door~
+1 -1 7010
+S
+#7014
+Madame Isabel's ~
+   This room takes on an entirely different feel.  Soft couches and plush
+chairs line the walls and fill the floor. Several books rest upon end tables.
+To the west, north, and east are rooms cordoned off by silken walls.
+~
+70 200 0 0 0 0
+D0
+~
+~
+0 -1 7016
+D1
+~
+~
+0 -1 7017
+D3
+~
+~
+0 -1 7015
+D5
+~
+~
+0 -1 7079
+S
+#7015
+Silk Partitioned Room~
+   Silk partitioning has divided this room into many sub-compartments.
+Sounds of ah, well, errr, pleasure come from many of the rooms.  If
+possible, the lighting here is even dimmer.
+~
+70 232 0 0 0 0
+D1
+~
+~
+0 -1 7014
+S
+#7016
+Silk Partitioned Room~
+   Silk partitioning has divided this room into many sub-compartments.
+Sounds of ah, well, errr, pleasure come from many of the rooms.  If
+possible, the lighting here is even dimmer.
+~
+70 232 0 0 0 0
+D1
+Dark paneling.
+~
+panel secret~
+2 -1 7018
+D2
+~
+~
+0 -1 7014
+S
+#7017
+Silk Partitioned Room~
+   Silk partitioning has divided this room into many sub-compartments.
+Sounds of ah, well, errr, pleasure come from many of the rooms.  If
+possible, the lighting here is even dimmer.
+~
+70 232 0 0 0 0
+D3
+~
+~
+0 -1 7014
+S
+#7018
+Private Quarters~
+   Bookshelves line the walls of this room and several layers of rugs
+cover most of the floor. Along the east wall is all sorts of experimental
+magic paraphernalia. A soft feather bed occupies the northwest corner and
+an over-stuffed wingback chair sits beside an end table in the center of
+the room. A small dining table sits against the south wall.  A narrow 
+staircase leads upwards.
+~
+70 72 0 0 0 0
+D1
+A brick wall.
+~
+window secret~
+1 0 7055
+D3
+Dark paneling.
+~
+panel~
+2 -1 7016
+D4
+~
+~
+0 -1 7019
+S
+#7019
+Rooftop~
+   You stand upon the rooftop of the Plated Ingot. Long, low chairs are
+scattered about the roof as well as several strange instruments.  A low
+wall protects you from stumbling off the edge to the street below.
+Scattered about the roof are several plants of unknown variety. There
+appears to be some sort of force field just above this area.
+~
+70 64 0 0 0 1
+D2
+~
+~
+0 -1 7020
+D3
+~
+~
+0 -1 7022
+D5
+~
+~
+0 -1 7018
+S
+#7020
+Rooftop~
+   You stand upon the rooftop of the Plated Ingot. A low wall protects
+you from stumbling off the edge to the street below.  Scattered about
+the roof are several plants of unknown variety.
+~
+70 64 0 0 0 1
+D0
+~
+~
+0 -1 7019
+D3
+~
+~
+0 -1 7021
+S
+#7021
+Rooftop~
+   You stand upon the rooftop of the Plated Ingot. A low wall protects
+you from stumbling off the edge to the street below.  Scattered about
+the roof are several plants of unknown variety.
+~
+70 64 0 0 0 1
+D0
+~
+~
+0 -1 7022
+D1
+~
+~
+0 -1 7020
+S
+#7022
+Rooftop~
+   You stand upon the rooftop of the Plated Ingot. A low wall protects
+you from stumbling off the edge to the street below.  Scattered about
+the roof are several plants of unknown variety.
+~
+70 64 0 0 0 1
+D1
+~
+~
+0 -1 7019
+D2
+~
+~
+0 -1 7021
+S
+#7023
+A Clean Street~
+   Like the street to the west, the way here is clear of debris.  It has
+been swept clean by someone.
+~
+70 65 0 0 0 1
+D1
+~
+~
+0 -1 7024
+D3
+~
+~
+0 -1 7007
+S
+#7024
+A Dim Street~
+   The street here has reverted to the filth strewn path you have seen
+elsewhere. Shadows are long and buildings tower around and over you, 
+many hanging almost unbelievably over the street.  A broken wall forces
+you north.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7025
+D3
+~
+~
+0 -1 7023
+S
+#7025
+A Dim Street~
+   Piles of refuse force you to wind your way through the street.  The
+smells here cause you to plug your nose - difficult to do while keeping
+hand on your weapon and one on your money pouch. The street cuts back 
+to the east.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7043
+D1
+~
+~
+0 -1 7026
+D2
+~
+~
+0 -1 7024
+S
+#7026
+A Dim Street~
+   The ever-present garbage persists while rats chew at the carcass of
+something about the size of a dog. The light here is much darker as the
+buildings seem to be growing over the street.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7044
+D2
+~
+~
+0 -1 7027
+D3
+~
+~
+0 -1 7025
+S
+#7027
+An Intersection~
+   The street diverges here and is relatively free of debris.
+~
+70 68 0 0 0 1
+D0
+~
+~
+0 -1 7026
+D1
+~
+~
+0 -1 7029
+D2
+~
+~
+0 -1 7077
+S
+#7028
+Dead End Alley~
+   The street ends here in a huge pile of garbage.  Many sets of ferral eyes
+stare at you from the darkness.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7077
+S
+#7029
+A Dark Street~
+   Almost all light is blocked out by the towering buildings crowding the
+street. In addition, the street has narrowed considerably, though it does
+not seem as filthy.  However, for what the street lacks in refuse, it makes
+up in smell. A mixture of urine, vomit, and congealed blood make even the
+heartiest stomachs turn sour.
+~
+70 65 0 0 0 1
+D1
+~
+~
+0 -1 7030
+D3
+~
+~
+0 -1 7027
+S
+#7030
+A Dark Street~
+   Darkness flits about you like ghosts and footing is a bit treacherous.
+Bile rises in your throat at the smells assaulting you.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7032
+D1
+~
+~
+0 -1 7059
+D2
+~
+~
+0 -1 7031
+D3
+~
+~
+0 -1 7029
+S
+#7031
+A Dark Street~
+   The street ends here in almost complete and utter darkness.  Dark
+doorways yawn insolently around you.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7030
+D2
+~
+~
+0 -1 7048
+D3
+~
+~
+0 -1 7047
+S
+#7032
+A Dark Street~
+   Darkness drapes around you like an ill-fitting glove.  Puddles of unknown
+fluids makes footing tricky.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7033
+D2
+~
+~
+0 -1 7030
+D3
+~
+~
+0 -1 7046
+S
+#7033
+A Dark Street~
+   Light filters down more here and a bit of a breeze flushes the acidic
+smell of vomit away, much to your relief. Despite the relief of being out
+of the pressing darkness, you don't feel safe here. Best to move on.  
+~
+70 65 0 0 0 1
+D1
+~
+~
+0 -1 7034
+D2
+~
+~
+0 -1 7032
+D3
+~
+~
+0 -1 7045
+S
+#7034
+A Dark Street~
+   The street is cleaner here, still the ever-present refuse, but not so
+much in the way of vomit and other fluids.  The east is blocked by a solid
+brick wall that seems out of place here.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7035
+D2
+~
+~
+0 -1 7060
+D3
+~
+~
+0 -1 7033
+S
+#7035
+A Dark Street~
+   You've reached the end of the street.  To the east still is the strange
+brick wall and to the west is the remains of a building.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7064
+D2
+~
+~
+0 -1 7034
+D3
+~
+~
+0 -1 7036
+S
+#7036
+Ruined Building~
+   The building here has been neatly cleared, decidedly different from the
+surrounding area. To the north the building continues. To the south the way
+is blocked by the remains of a brick wall. To the west there is a door with
+a sign on it.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7037
+D1
+~
+~
+0 -1 7035
+D3
+A battered door.
+~
+door~
+1 -1 7065
+E
+sign~
+
+      *** OUT OF BUSINESS ***
+
+There is some writing barely legible underneath ...
+~
+E
+writing~
+---------------------------
+--- Dilapidus Granaries ---
+--- Hektor, Diehl & Bri ---
+---   Grain Exporters   ---
+---     Main Office     ---
+---------------------------
+~
+S
+#7037
+Ruined Building~
+   Like the previous room, the rubble has been neatly cleaned away here.
+However, it is a dead-end.  Nowhere to go.
+~
+70 65 0 0 0 1
+D2
+~
+~
+0 -1 7036
+S
+#7038
+A Dismal Hovel~
+   Home to many by the appearance of this single room makeshift building.
+The walls are constructed of many different materials: the floor is dirt.
+Bed rolls lie scattered about the room and there is a fire pit in one corner.
+~
+70 73 0 0 0 0
+D3
+~
+~
+0 -1 7003
+S
+#7039
+A Dismal Hovel~
+   Home to many by the appearance of this single room makeshift building.
+The walls are constructed of many different materials: the floor is dirt.
+Bed rolls lie scattered about the room and there is a fire pit in one corner.
+~
+70 73 0 0 0 0
+D3
+~
+~
+0 -1 7076
+S
+#7040
+A Dismal Hovel~
+   Home to many by the appearance of this single room makeshift building.
+The walls are constructed of many different materials: the floor is dirt.
+Bed rolls lie scattered about the room and there is a fire pit in one corner.
+~
+70 73 0 0 0 0
+D3
+~
+~
+0 -1 7004
+S
+#7041
+A Dismal Hovel~
+   Home to many by the appearance of this single room makeshift building.
+The walls are constructed of many different materials: the floor is dirt.
+Bed rolls lie scattered about the room and there is a fire pit in one corner.
+~
+70 73 0 0 0 0
+D1
+~
+~
+0 -1 7076
+S
+#7042
+A Dismal Hovel~
+   Home to many by the appearance of this single room makeshift building.
+The walls are constructed of many different materials: the floor is dirt.
+Bed rolls lie scattered about the room and there is a fire pit in one corner.
+~
+70 73 0 0 0 0
+D1
+~
+~
+0 -1 7008
+S
+#7043
+A Dismal Hovel~
+   Home to many by the appearance of this single room makeshift building.
+The walls are constructed of many different materials: the floor is dirt.
+Bed rolls lie scattered about the room and there is a fire pit in one corner.
+~
+70 73 0 0 0 0
+D2
+~
+~
+0 -1 7025
+S
+#7044
+A Dismal Hovel~
+   Home to many by the appearance of this single room makeshift building.
+The walls are constructed of many different materials: the floor is dirt.
+Bed rolls lie scattered about the room and there is a fire pit in one corner.
+~
+70 73 0 0 0 0
+D2
+~
+~
+0 -1 7026
+S
+#7045
+A Pitch Black Building~
+   If you thought the smell was bad outside, it's much worse in here.
+Scattered about the room are remnants of once beautiful furniture, 
+puddles of fluids and used drug paraphernalia.
+~
+70 73 0 0 0 0
+D1
+~
+~
+0 -1 7033
+D4
+~
+~
+0 -1 7052
+S
+#7046
+A Pitch Black Building~
+   If you thought the smell was bad outside, it's much worse in here.
+Scattered about the room are remnants of once beautiful furniture, 
+puddles of fluids and used drug paraphernalia.
+~
+70 73 0 0 0 0
+D1
+~
+~
+0 -1 7032
+D4
+~
+~
+0 -1 7053
+S
+#7047
+A Pitch Black Building~
+   If you thought the smell was bad outside, it's much worse in here.
+Scattered about the room are remnants of once beautiful furniture, 
+puddles of fluids and used drug paraphernalia.
+~
+70 73 0 0 0 0
+D1
+~
+~
+0 -1 7031
+D2
+A plain, solid wood door.
+~
+door secret~
+1 -1 7051
+S
+#7048
+A Pitch Black Building~
+   If you thought the smell was bad outside, it's much worse in here.
+Scattered about the room are remnants of once beautiful furniture, 
+puddles of fluids and used drug paraphernalia.
+~
+70 73 0 0 0 0
+D0
+~
+~
+0 -1 7031
+D4
+~
+~
+0 -1 7054
+S
+#7049
+An Empty Room~
+   This room is devoid of anything, including dust.
+~
+70 73 0 0 0 0
+D0
+A window.
+~
+window~
+1 0 7056
+D1
+A window.
+~
+window~
+1 0 7057
+D2
+~
+~
+0 -1 7050
+D3
+A window.
+~
+window~
+1 0 7055
+S
+#7050
+An Empty Room~
+   This room is devoid of anything, including dust.
+~
+70 73 0 0 0 0
+D0
+~
+~
+0 -1 7049
+D5
+~
+~
+0 -1 7051
+S
+#7051
+An Empty Room~
+   This room is devoid of anything, including dust.
+~
+70 73 0 0 0 0
+D0
+A plain, solid wood door.
+~
+door~
+2 -1 7047
+D4
+~
+~
+0 -1 7050
+S
+#7052
+Second Floor~
+   Despite the awful condition these two story buildings are in, it's easy
+to see that they once were houses for well-to-do aristocrats.  Now they are
+lotus dens, harboring those hiding behind the false security of drug-induced
+stupor.
+~
+70 73 0 0 0 0
+D5
+~
+~
+0 -1 7045
+S
+#7053
+Second Floor~
+   Despite the awful condition these two story buildings are in, it's easy
+to see that they once were houses for well-to-do aristocrats.  Now they are
+lotus dens, harboring those hiding behind the false security of drug-induced
+stupor.
+~
+70 73 0 0 0 0
+D2
+A window.
+~
+window~
+1 0 7056
+D5
+~
+~
+0 -1 7046
+S
+#7054
+Second Floor~
+   Despite the awful condition these two story buildings are in, it's easy
+to see that they once were houses for well-to-do aristocrats.  Now they are
+lotus dens, harboring those hiding behind the false security of drug-induced
+stupor.
+~
+70 73 0 0 0 0
+D5
+~
+~
+0 -1 7048
+S
+#7055
+Narrow Plank~
+   You teeter upon a wobbly narrow plank which spans the short distance
+between buildings. Looking down into the blackness causes your gluteus
+maximus to pucker, your liver to rise into your throat, and your vision
+to dance a nifty number. Walk nimbly! The plank ends abruptly at a brick
+wall to the west.
+~
+70 321 0 0 0 0
+D1
+A window.
+~
+window~
+1 -1 7049
+D3
+A brick wall
+~
+window secret~
+1 -1 7018
+E
+wall brick~
+Looking closely, it appears that the bricks form the outline of a vaguely
+window-shaped opening.
+~
+S
+#7056
+Narrow Plank~
+   You teeter upon a wobbly narrow plank which spans the short distance
+between buildings. Looking down into the blackness causes your gluteus
+maximus to pucker, your liver to rise into your throat, and your vision
+to dance a nifty number. Walk nimbly!
+~
+70 321 0 0 0 0
+D0
+A window.
+~
+window~
+1 -1 7053
+D2
+A window.
+~
+window~
+1 -1 7049
+S
+#7057
+Narrow Plank~
+   You teeter upon a wobbly narrow plank which spans the short distance
+between buildings. Looking down into the blackness causes your gluteus
+maximus to pucker, your liver to rise into your throat, and your vision
+to dance a nifty number. Walk nimbly!
+~
+70 321 0 0 0 0
+D1
+A broken window
+~
+window~
+1 -1 7063
+D3
+A window.
+~
+window~
+1 -1 7049
+S
+#7058
+Gutted Hotel~
+   The entire place has been gutted and turned into a lotus den. The stench
+is overpowering to those with any sense left.  Of course those with any
+sense wouldn't be here anyway. 
+~
+70 73 0 0 0 0
+D0
+~
+~
+0 -1 7059
+S
+#7059
+Gutted Hotel~
+   The entire place has been gutted and turned into a lotus den. The stench
+is overpowering to those with any sense left.  Of course those with any
+sense wouldn't be here anyway. 
+~
+70 73 0 0 0 0
+D0
+~
+~
+0 -1 7060
+D2
+~
+~
+0 -1 7058
+D3
+~
+~
+0 -1 7030
+D4
+~
+~
+0 -1 7062
+S
+#7060
+Gutted Hotel~
+   The entire place has been gutted and turned into a lotus den. The stench
+is overpowering to those with any sense left.  Of course those with any
+sense wouldn't be here anyway. 
+~
+70 73 0 0 0 0
+D0
+~
+~
+0 -1 7034
+D2
+~
+~
+0 -1 7059
+S
+#7061
+Second Floor of a Gutted Hotel~
+   The entire place has been gutted and turned into a lotus den. The stench
+is overpowering to those with any sense left.  Of course those with any sense
+wouldn't be here anyway. 
+~
+70 73 0 0 0 0
+D2
+~
+~
+0 -1 7062
+S
+#7062
+Second Floor of a Gutted Hotel~
+   The entire place has been gutted and turned into a lotus den. The stench
+is overpowering to those with any sense left.  Of course those with any sense 
+wouldn't be here anyway. 
+~
+70 73 0 0 0 0
+D0
+~
+~
+0 -1 7061
+D2
+~
+~
+0 -1 7063
+D5
+~
+~
+0 -1 7059
+S
+#7063
+Second Floor of a Gutted Hotel~
+   The entire place has been gutted and turned into a lotus den. The stench
+is overpowering to those with any sense left.  Of course those with any sense 
+wouldn't be here anyway. 
+~
+70 73 0 0 0 0
+D0
+~
+~
+0 -1 7062
+D3
+A broken window.
+~
+window~
+1 0 7057
+S
+#7064
+An Empty Hovel~
+   Once a home to many by the appearance of this single room makeshift
+building.  The walls are constructed of many different materials: the
+floor is dirt.  Garbage lies scattered about the room and there is a
+long-neglected fire pit in one corner. 
+~
+70 73 0 0 0 0
+D2
+~
+~
+0 -1 7035
+S
+#7065
+A Deserted Warehouse Office~
+   A simple entry foyer with doors on opposing sides. There are several
+chairs and coat hooks, and a solid utilitarian desk, but nothing else.
+The entire room is covered in dust.
+~
+70 9 0 0 0 0
+D1
+A battered door.
+~
+door~
+1 -1 7036
+D3
+A large sliding door.
+~
+door warehouse~
+1 7004 7067
+S
+#7066
+Receiving Room~
+   Looking around at the fine furnishings and hand crafted items from all
+over the world, you almost forget what where you are and what you just
+traveled through to get here.
+~
+70 72 0 0 0 0
+D0
+~
+~
+0 -1 7071
+D5
+A drop-down staircase.
+~
+staircase~
+1 -1 7068
+S
+#7067
+A Storage Room~
+   Old crates and empty barrels lie stacked randomly about the room.  A
+thick coating of dust layered over everything.  The north wall is made 
+entirely of huge oaken beer aging barrels large to stand upright in.
+~
+70 9 0 0 0 0
+D0
+A stack of barrels.
+~
+barrel secret~
+2 7005 7070
+D1
+A large sliding door.
+~
+warehouse~
+1 7004 7065
+S
+#7068
+A Dark Bunk room~
+   Bunks line the walls of this room. The bunks are simple wooden affairs.
+~
+70 73 0 0 0 0
+D0
+~
+~
+0 -1 7069
+D4
+A drop-down staircase.
+~
+staircase~
+1 -1 7066
+S
+#7069
+A Training Room~
+   Exercise equipment and practice dummies are scattered about the room.
+Along the west wall is a rack of practice weapons: mostly wooden daggers,
+clubs, and blackjacks, but an occasional short sword as well.
+~
+70 73 0 0 0 0
+D1
+~
+~
+0 -1 7070
+D2
+~
+~
+0 -1 7068
+S
+#7070
+A Common Room~
+   This area appears to be a common eating/cooking room.  Several food
+and drink-stained tables stand near the center of the room.  The flooring
+in this room consists of raised planking.  Along the north wall is a hot
+fireplace and kitchen area for preparation of food.
+~
+70 73 0 0 0 0
+D2
+The backside of a secret barrel entrance.
+~
+barrel~
+2 7004 7067
+D3
+~
+~
+0 -1 7069
+D5
+Some loose planks.
+~
+planks~
+1 -1 7073
+S
+#7071
+Lounge/Study~
+   Like the receiving room, this room sports fabulous items from around
+the world.  Several paintings adorn the walls, statues and statuettes
+are scattered here and there, and fine hand-woven rugs line the floors.
+Along the north wall is a hardwood bar and nicely stocked liquor cabinet.
+To the east is a heavy, carved door.
+~
+70 72 0 0 0 0
+D1
+A heavy, carved door.
+~
+door~
+1 -1 7072
+D2
+~
+~
+0 -1 7066
+S
+#7072
+Master Bedroom~
+   Opulence takes on new meaning here.  Silks and velvets cover just about
+everything, including a huge four-poster canopy bed.  An armoire laden with
+fine clothing rests along the east wall.  A dressing table and full-length
+mirror occupies the north wall.  The huge bed consumes almost the entire
+room with it's headboard against the south wall.
+~
+70 72 0 0 0 0
+D3
+A heavy, carved door.
+~
+door~
+1 -1 7071
+S
+#7073
+A Freshly Dug Cellar~
+   This room appears to have been recently dug.  Touching the walls causes
+dirt to crumble, cascading down into a little pile at your feet.  Probably
+shouldn't do that.  Some rough timbers have been placed around the room to
+attempt support.
+~
+70 329 0 0 0 0
+D0
+~
+~
+0 -1 7074
+D4
+The underside of some planks.
+~
+planks~
+1 -1 7070
+S
+#7074
+A Dead-End Tunnel~
+   The tunnel ends here mysteriously.
+~
+70 329 0 0 0 0
+D2
+~
+~
+0 -1 7073
+S
+#7075
+A Cellar~
+BAM!
+
+The stairs break as you begin to descend into the cellar. Rubbing the egg
+growing on your noggin, you think "Now what am I gonna do?"
+~
+70 77 0 0 0 1
+S
+#7076
+A Dim Street~
+   This part of town has certainly seen better days.  Garbage is piled
+everywhere without regard to sanitation. The road twists and turns lazily
+between these piles.
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7003
+D1
+~
+~
+0 -1 7039
+D2
+~
+~
+0 -1 7004
+D3
+~
+~
+0 -1 7041
+S
+#7077
+A Dark Alley~
+  The way here is narrow and dark. Rather foreboding, eh?
+~
+70 65 0 0 0 1
+D0
+~
+~
+0 -1 7027
+D2
+~
+~
+0 -1 7028
+S
+#7078
+Sound Room~
+This is the sound room, if you are here, leave
+~
+70 516 0 0 0 0
+D1
+~
+~
+0 0 7015
+D2
+~
+~
+0 0 7016
+D3
+~
+~
+0 0 7017
+S
+#7079
+Landing~
+   You pause on a softly lit landing, plush carpet squishing softly beneath
+your tired feet. Over the typical sounds of the bar, you can hear the softer
+sounds of muted conversation above. Inhaling the air, you catch subtle scents
+of perfume.
+~
+70 456 0 0 0 0
+D4
+~
+~
+0 0 7014
+D5
+~
+~
+0 0 7010
+S
+$~

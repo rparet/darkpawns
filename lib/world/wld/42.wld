@@ -1,0 +1,2481 @@
+#4201
+A Narrow Pass Through the Mountains~
+   You have entered a narrow pass. On both sides of you, the granite walls
+climb steeply up and out of sight. The ground has been covered with sand in
+the manner of a semi-primitive road. You feel almost trapped in the small
+space that you have. The pass continues to the north.
+~
+42 0 0 0 0 5
+D0
+The pass continues.
+~
+~
+0 0 4202
+D2
+~
+~
+0 -1 9506
+S
+#4202
+A Narrow Pass Through the Mountains~
+   You are in a narrow pass. On both sides of you, the granite walls climb
+steeply up and out of sight. The ground has been covered with sand in the 
+manner of a semi-primitive road. You feel almost trapped in the small space
+that you have. The pass continues to the north, while the entrance to the
+pass lies just to the south.
+~
+42 0 0 0 0 5
+D0
+The pass continues.
+~
+~
+0 0 4203
+D2
+The entrance to the pass.
+~
+~
+0 0 4201
+S
+#4203
+A Narrow Pass Through the Mountains~
+   You are in a narrow pass. On both sides of you, the granite walls climb
+steeply up and out of sight. The ground has been covered with sand in the
+manner of a semi-primitive road. You feel almost trapped in the small space
+that you have.
+   To the north, the pass widens out into a valley with a small village at
+the entrance to the pass.  The pass continues to the south.
+~
+42 0 0 0 0 5
+D0
+The pass opens into a valley.
+~
+~
+0 0 4204
+D2
+The pass continues.
+~
+~
+0 0 4202
+S
+#4204
+At the Southern Entrance to a Small Village~
+   You stand at the entrance to a small village. Looking inside, you can see
+that the village and villagers are semi-primitive, though the village's
+walls are made of granite and look as if they could withstand a decent
+sized army.
+   The gate to the north is generally left open, as if travelers are very
+welcome here. You notice that the temperature has dropped dramatically
+since leaving the pass.
+   There is a small sign here.
+~
+42 8 0 0 0 0
+D0
+The south gate
+~
+gate~
+1 4201 4205
+D2
+Into a narrow pass
+~
+~
+0 0 4203
+E
+sign~
+   Hello, and welcome to the village of Bhyroga. We are a simple fisher-folk
+and ask only that you come in peace. If you are here as a trader, the
+marketplace is through the gate and on your right. If you have come to swindle
+or steal from us, be forewarned, the punishment here for such crimes is death.
+We don't put up with any funny business. Any inquiries should be directed to
+Chief Shartu.
+~
+S
+#4205
+Inside the Village~
+   You are standing inside a small fishing village. You watch as busy people
+go about their daily lives. All around are small uninteresting looking huts.
+You hear what sounds like some sort of auction to your east. It's pretty cold 
+in here, but nothing you can't handle.
+~
+42 8 0 0 0 1
+D0
+Inside the village
+~
+~
+0 0 4210
+D1
+The marketplace
+~
+~
+0 0 4206
+D2
+The south gate
+~
+gate~
+1 4201 4204
+S
+#4206
+The Marketplace~
+  You have entered the marketplace. All sorts of people are here selling fish,
+fish, and more fish. You try to find vendors selling something else, but with  
+all the fish vendors, the others seem to get lost in the crowd. You hear what
+sounds like an auction to the north and east. It's much warmer in here with 
+all the people crowded together.
+~
+42 8 0 0 0 1
+D0
+The marketplace
+~
+~
+0 0 4209
+D1
+The marketplace
+~
+~
+0 0 4207
+D3
+Inside the village
+~
+~
+0 0 4205
+S
+#4207
+The Marketplace~
+   You are standing in the marketplace amongst all sorts of merchants.
+Although there are still mostly fish vendors, you find that the other
+vendors and merchants have firm holds on some territory here in the
+back.
+   You hear what sounds like an auction to the north and west.
+~
+42 8 0 0 0 1
+D0
+The marketplace
+~
+~
+0 0 4208
+D3
+The marketplace
+~
+~
+0 0 4206
+S
+#4208
+The Marketplace~
+   You are standing in the marketplace amongst all sorts of merchants.
+Although there are still mostly fish vendors, you find that the other
+vendors and merchants have firm holds on some territory here in the
+back.
+   You hear what sounds like an auction to the south and west.
+~
+42 8 0 0 0 1
+D2
+The marketplace
+~
+~
+0 0 4207
+D3
+The marketplace
+~
+~
+0 0 4209
+S
+#4209
+The Marketplace~
+   You have entered the marketplace. All sorts of people are here selling fish,
+fish, and more fish. You try to find vendors selling something else, but with
+all the fish vendors, the others seem to get lost in the crowd. You hear what
+sounds like an auction to the east and south. It's much warmer in here with
+all the people crowded together.
+~
+42 8 0 0 0 1
+D1
+The marketplace
+~
+~
+0 0 4208
+D2
+The marketplace
+~
+~
+0 0 4206
+D3
+Inside the village
+~
+~
+0 0 4210
+S
+#4210
+Inside the Village~
+   You are standing inside a small fishing village. You watch as busy people
+go about their daily lives. All around are small uninteresting looking huts.
+You hear the sounds of an auction to the east, and notice a cozy inn to the 
+west. It's pretty cold in here, but nothing you can't handle.
+~
+42 8 0 0 0 1
+D0
+Inside the village
+~
+~
+0 0 4211
+D1
+The marketplace
+~
+~
+0 0 4209
+D2
+Inside the village
+~
+~
+0 0 4205
+D3
+A cozy inn
+~
+~
+0 0 4219
+S
+#4211
+Inside the Village~
+   You are standing inside a small fishing village. You watch as busy people
+go about their daily lives. All around are small uninteresting looking huts.
+It's pretty cold in here, but nothing you can't handle.
+~
+42 8 0 0 0 1
+D0
+Inside the village
+~
+~
+0 0 4212
+D2
+Inside the village
+~
+~
+0 0 4210
+S
+#4212
+Inside the Village~
+   You are standing inside a small fishing village. You watch as busy people
+go about their daily lives. All around are small uninteresting looking huts.
+To the north lies a small gate. It's pretty cold here, but nothing you can't
+handle.
+~
+42 8 0 0 0 1
+D0
+The north gate
+~
+gate~
+1 4211 4220
+D1
+Inside the village
+~
+~
+0 0 4213
+D2
+Inside the village
+~
+~
+0 0 4211
+D3
+Inside the village
+~
+~
+0 0 4216
+S
+#4213
+Inside the Village~
+   You are standing inside a small fishing village. You watch as busy people 
+go about their daily lives. All around are small uninteresting looking huts.
+To the north is a large, solid looking wall of granite. It's pretty cold in
+here, but nothing you can't handle.
+~
+42 8 0 0 0 1
+D1
+Inside the village
+~
+~
+0 0 4214
+D3
+Inside the village
+~
+~
+0 0 4212
+S
+#4214
+Inside the Village~
+   You are standing inside a small fishing village. You watch as busy people 
+go about their daily lives. All around are small uninteresting looking huts.
+To the north and east is a large, solid looking wall of granite. To the south
+is a large hut. You wonder who lives inside. It's pretty cold in here, but
+nothing you can't handle.
+~
+42 8 0 0 0 1
+D2
+A large hut
+~
+~
+0 0 4215
+D3
+Inside the village
+~
+~
+0 0 4213
+S
+#4215
+Inside the Chieftain's Hut~
+   You have entered the hut of the village's Chief Shartu. Looking at
+the maps around the room, you can see that a group of giant-like 
+people live to the northeast and are, to all appearances, preparing
+for war.
+   There is a sign on the wall.
+~
+42 8 0 0 0 0
+D0
+Inside the village
+~
+~
+0 0 4214
+E
+sign~
+Sorry, but Chief Shartu has been captured by the evil ice giants and is
+unable to help you at this time. Please direct all inquiries to the Bhyroga
+Shaman.
+~
+S
+#4216
+Inside the Village~
+   You are standing inside a small fishing village. You watch as busy people
+go about their daily lives. All around are small uninteresting looking huts.
+To the north is a large, solid looking wall of granite. It's pretty cold in
+here, but nothing you can't handle.
+~
+42 8 0 0 0 1
+D1
+Inside the village
+~
+~
+0 0 4212
+D3
+Inside the village
+~
+~
+0 0 4217
+S
+#4217
+Inside the Village~
+   You are standing inside a small fishing village. You watch as busy people
+go about their daily lives. All around are small uninteresting looking huts. 
+   To the north and west is a large, solid-looking wall of granite.  To the
+south, a large hut bears strange, arcane symbols on its side, making you
+wonder who lives inside. It's pretty cold in here, but nothing you can't
+handle.
+~
+42 8 0 0 0 1
+D1
+Inside the village
+~
+~
+0 0 4216
+D2
+A large hut
+~
+~
+0 0 4218
+S
+#4218
+Inside the Shaman's Hut~
+   You are standing in the hut of the village shaman. All sorts of strange
+items lie strewn about the place, possibly spell components, possibly junk.A
+fire pit keeps this room nice and warm.
+~
+42 8 0 0 0 0
+D0
+Inside the village
+~
+~
+0 0 4217
+S
+#4219
+Inside a Cozy Inn~
+   You have entered a cozy little building which seems to be the closest 
+thing this village has to an inn. There are a few pallets on the ground, 
+and this DOES at least seem like a good place to rest your weary bones. There 
+is a bartender here, selling food and beverages. A roaring fireplace keeps 
+the temperature at a point where you almost feel like falling asleep. This
+building seems a bit more modern compared to the rest of the huts.
+~
+42 12 0 0 0 0
+D1
+Inside the village
+~
+~
+0 0 4210
+S
+#4220
+At the Northern Entrance to a Small Village~
+   You stand at the entrance to a small fishing village. The large granite
+wall and the locked gates look very impressive, and not very welcoming.
+   To the north, east, and west, the valley you are in is mostly frozen
+tundra, but you can just make out a lake far to the north.  To the south,
+you see the village gates. It's very cold out here.
+~
+42 4 0 0 0 4
+D0
+A frozen valley 
+~
+~
+0 0 4227
+D1
+A frozen valley
+~
+~
+0 0 4223
+D2
+The north gate
+~
+gate~
+1 4211 4212
+D3
+A frozen valley
+~
+~
+0 0 4222
+E
+sign~
+   We the people of Bhyroga truly desire to have peace with you, our northern
+neighbors. We know that you feel a need to kill us and eat us, but it is our
+fondest hope that one day we can unite to the betterment of us both. We offer
+much in the way of trade, including many different varieties of fish prepared
+in many different ways. If, however you do wish to keep on with your violent
+attacks....
+FUCK OFF!!
+~
+S
+#4221
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here. In all 
+directions, you can see the mountains looming above you. To the south, you 
+can see the small fishing village known only as Bhyroga. You're freezing your 
+ass off, better have some damn thick blankets for the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4225
+D1
+A frozen valley
+~
+~
+0 0 4222
+S
+#4222
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you.  To the
+southeast, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off in this bitter cold.  Better have some
+damn thick blankets for the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4226
+D1
+The entrance to Bhyroga
+~
+~
+0 0 4220
+D3
+A frozen valley
+~
+~
+0 0 4221
+S
+#4223
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you.  To the 
+southwest, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4228
+D1
+A frozen valley
+~
+~
+0 0 4224
+D3
+The entrance to Bhyroga
+~
+~
+0 0 4220
+S
+#4224
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you. 
+   Far to the southwest, you can see the small fishing village known only as
+Bhyroga.
+   You're freezing your ass off here.  Better have some damn thick blankets
+for the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4229
+D1
+A frozen valley
+~
+~
+0 0 4230
+D3
+A frozen valley
+~
+~
+0 0 4223
+S
+#4225
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is extremely hilly, making footing uneasy and treading unstable.
+   In all directions, you can see the mountains looming far above you.
+   Off to the south, you can see a small fishing village.  
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4006
+D1
+A frozen valley
+~
+~
+0 0 4226
+D2
+A frozen valley
+~
+~
+0 0 4221
+D3
+A frozen valley
+~
+~
+0 0 4231
+S
+#4226
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you.  To the 
+south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets fo
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4233
+D1
+A frozen valley
+~
+~
+0 0 4227
+D2
+A frozen valley
+~
+~
+0 0 4222
+D3
+A frozen valley
+~
+~
+0 0 4225
+S
+#4227
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very uneven here, making walking difficult and unsteady.
+   In all directions, you can see the mountains looming above you.  Off to
+the south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4234
+D1
+A frozen valley
+~
+~
+0 0 4228
+D2
+The entrance to Bhyroga
+~
+~
+0 0 4220
+D3
+A frozen valley
+~
+~
+0 0 4226
+S
+#4228
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very uneven here, making walking difficult and unsteady.
+   In all directions, you can see the mountains looming above you.  Off to
+the south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4235
+D1
+A frozen valley
+~
+~
+0 0 4229
+D2
+A frozen valley
+~
+~
+0 0 4223
+D3
+A frozen valley
+~
+~
+0 0 4227
+S
+#4229
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very uneven here, making walking difficult and unsteady.
+   In all directions, you can see the mountains looming above you.  Off to
+the south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4236
+D1
+A frozen valley
+~
+~
+0 0 4230
+D2
+A frozen valley
+~
+~
+0 0 4224
+D3
+A frozen valley
+~
+~
+0 0 4228
+S
+#4230
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you.  To the 
+south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets fo
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4237
+D2
+A frozen valley
+~
+~
+0 0 4224
+D3
+A frozen valley
+~
+~
+0 0 4229
+S
+#4231
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you.  To the 
+south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets fo
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4239
+D1
+A frozen valley
+~
+~
+0 0 4006
+D2
+A frozen valley
+~
+~
+0 0 4225
+D3
+A frozen valley
+~
+~
+0 0 4238
+S
+#4232
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you.  To the 
+south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets fo
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4240
+D1
+A frozen valley
+~
+~
+0 0 4233
+D2
+A frozen valley
+~
+~
+0 0 4225
+D3
+A frozen valley
+~
+~
+0 0 4231
+S
+#4233
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you.  To the 
+south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets fo
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4241
+D1
+A frozen valley
+~
+~
+0 0 4234
+D2
+A frozen valley
+~
+~
+0 0 4226
+D3
+A frozen valley
+~
+~
+0 0 4006
+S
+#4234
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, poking
+their majestic snow-capped spires into the clouds.  To the south, you see
+the small fishing village known only as Bhyroga. 
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4242
+D1
+A frozen valley
+~
+~
+0 0 4235
+D2
+A frozen valley
+~
+~
+0 0 4227
+D3
+A frozen valley
+~
+~
+0 0 4233
+S
+#4235
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you.  To the 
+south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets fo
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4243
+D1
+A frozen valley
+~
+~
+0 0 4236
+D2
+A frozen valley
+~
+~
+0 0 4228
+D3
+A frozen valley
+~
+~
+0 0 4234
+S
+#4236
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you.  To the 
+south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets fo
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4243
+D1
+A frozen valley
+~
+~
+0 0 4237
+D2
+A frozen valley
+~
+~
+0 0 4229
+D3
+A frozen valley
+~
+~
+0 0 4235
+S
+#4237
+A Frozen Valley~
+   You are wandering in a valley hidden within the Bhyroga mountains.  The
+terrain is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you.  To the 
+south, you can see the small fishing village known only as Bhyroga.
+   You're freezing your ass off.  Better have some damn thick blankets fo
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4254
+D2
+A frozen valley
+~
+~
+0 0 4230
+D3
+A frozen valley
+~
+~
+0 0 4236
+S
+#4238
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4245
+D1
+A frozen valley
+~
+~
+0 0 4239
+D2
+A frozen valley
+~
+~
+0 0 4231
+D3
+A frozen valley
+~
+~
+0 0 4244
+S
+#4239
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4246
+D1
+A frozen valley
+~
+~
+0 0 4240
+D2
+A frozen valley
+~
+~
+0 0 4231
+D3
+A frozen valley
+~
+~
+0 0 4238
+S
+#4240
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4246
+D1
+A frozen valley
+~
+~
+0 0 4241
+D2
+A frozen valley
+~
+~
+0 0 4006
+D3
+A frozen valley
+~
+~
+0 0 4239
+S
+#4241
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4252
+D1
+A frozen valley
+~
+~
+0 0 4242
+D2
+A frozen valley
+~
+~
+0 0 4233
+D3
+A frozen valley
+~
+~
+0 0 4240
+S
+#4242
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4252
+D1
+A frozen valley
+~
+~
+0 0 4243
+D2
+A frozen valley
+~
+~
+0 0 4234
+D3
+A frozen valley
+~
+~
+0 0 4241
+S
+#4243
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4253
+D1
+A frozen valley
+~
+~
+0 0 4236
+D2
+A frozen valley
+~
+~
+0 0 4235
+D3
+A frozen valley
+~
+~
+0 0 4242
+S
+#4244
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here. 
+   To the east and south, you can see the mountains looming above you.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D1
+A frozen valley
+~
+~
+0 0 4245
+D2
+A frozen valley
+~
+~
+0 0 4238
+S
+#4245
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4247
+D1
+A frozen valley
+~
+~
+0 0 4246
+D2
+A frozen valley
+~
+~
+0 0 4238
+D3
+A frozen valley
+~
+~
+0 0 4244
+S
+#4246
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4247
+D1
+A frozen valley
+~
+~
+0 0 4240
+D2
+A frozen valley
+~
+~
+0 0 4239
+D3
+A frozen valley
+~
+~
+0 0 4245
+S
+#4247
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4249
+D1
+A frozen valley
+~
+~
+0 0 4250
+D2
+A frozen valley
+~
+~
+0 0 4246
+D3
+A frozen valley
+~
+~
+0 0 4245
+S
+#4248
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4251
+D1
+A frozen valley
+~
+~
+0 0 4249
+D2
+A frozen valley
+~
+~
+0 0 4245
+D3
+A frozen valley
+~
+~
+0 0 4244
+S
+#4249
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4250
+D1
+A frozen valley
+~
+~
+0 0 4250
+D2
+A frozen valley
+~
+~
+0 0 4247
+D3
+A frozen valley
+~
+~
+0 0 4248
+S
+#4250
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4261
+D1
+A frozen valley
+~
+~
+0 0 4260
+D2
+A frozen valley
+~
+~
+0 0 4257
+D3
+A frozen valley
+~
+~
+0 0 4249
+S
+#4251
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4261
+D1
+A frozen valley
+~
+~
+0 0 4249
+D2
+A frozen valley
+~
+~
+0 0 4248
+D3
+A frozen valley
+~
+~
+0 0 4244
+S
+#4252
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4255
+D1
+A frozen valley
+~
+~
+0 0 4253
+D2
+A frozen valley
+~
+~
+0 0 4242
+D3
+A frozen valley
+~
+~
+0 0 4241
+S
+#4253
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4255
+D1
+A frozen valley
+~
+~
+0 0 4254
+D2
+A frozen valley
+~
+~
+0 0 4243
+D3
+A frozen valley
+~
+~
+0 0 4252
+S
+#4254
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4256
+D1
+A frozen valley
+~
+~
+0 0 4237
+D2
+A frozen valley
+~
+~
+0 0 4243
+D3
+A frozen valley
+~
+~
+0 0 4253
+S
+#4255
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4258
+D1
+A frozen valley
+~
+~
+0 0 4256
+D2
+A frozen valley
+~
+~
+0 0 4253
+D3
+A frozen valley
+~
+~
+0 0 4252
+S
+#4256
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4258
+D1
+A frozen valley
+~
+~
+0 0 4254
+D2
+A frozen valley
+~
+~
+0 0 4254
+D3
+A frozen valley
+~
+~
+0 0 4255
+S
+#4257
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4259
+D1
+A frozen valley
+~
+~
+0 0 4258
+D2
+A frozen valley
+~
+~
+0 0 4255
+D3
+A frozen valley
+~
+~
+0 0 4259
+S
+#4258
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4259
+D1
+A frozen valley
+~
+~
+0 0 4256
+D2
+A frozen valley
+~
+~
+0 0 4255
+D3
+A frozen valley
+~
+~
+0 0 4257
+S
+#4259
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4250
+D1
+A frozen valley
+~
+~
+0 0 4260
+D2
+A frozen valley
+~
+~
+0 0 4257
+D3
+A frozen valley
+~
+~
+0 0 4247
+S
+#4260
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4259
+D1
+A frozen valley
+~
+~
+0 0 4266
+D2
+A frozen valley
+~
+~
+0 0 4258
+D3
+A frozen valley
+~
+~
+0 0 4259
+S
+#4261
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you. To the
+northwest, you see what appears to be a frozen lake.
+   You're freezing your ass off.  You better have some damn thick blankets
+for the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4263
+D1
+A frozen valley
+~
+~
+0 0 4251
+D2
+A frozen valley
+~
+~
+0 0 4248
+D3
+A frozen valley
+~
+~
+0 0 4262
+S
+#4262
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you. To the
+northwest, you see what appears to be a frozen lake.
+   You're freezing your ass off.  You better have some damn thick blankets
+for the night.
+~
+42 0 0 0 0 4
+D0
+The lakeshore
+~
+~
+0 0 4265
+D1
+A frozen valley
+~
+~
+0 0 4261
+D2
+A frozen valley
+~
+~
+0 0 4244
+D3
+The lakeshore
+~
+~
+0 0 4264
+S
+#4263
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.
+   In all directions, you can see the mountains looming above you. To the
+northwest, you see what appears to be a frozen lake.
+   You're freezing your ass off.  You better have some damn thick blankets
+for the night.
+~
+42 0 0 0 0 4
+D0
+The lakeshore
+~
+~
+0 0 4265
+D1
+A frozen valley
+~
+~
+0 0 4259
+D2
+A frozen valley
+~
+~
+0 0 4252
+D3
+A frozen valley
+~
+~
+0 0 4255
+S
+#4264
+The Shore Of A Frozen Lake~
+   You stand at the southern shore of a lake that seems to be completely 
+covered in ice.  It appears safe to walk on, so thick and white is the
+ice.
+   You feel like you're freezing.  Be careful of frostbite.
+~
+42 0 0 0 0 4
+D0
+Lake Darthis
+~
+~
+0 0 4269
+D1
+A frozen valley
+~
+~
+0 0 4262
+D2
+A frozen valley
+~
+~
+0 0 4244
+S
+#4265
+The Shore of a Frozen Lake~
+   You stand on the eastern shore of a lake that appears to be completely
+covered with ice.  It looks safe to walk on.
+   You feel like you're freezing.  Be careful of frostbite.
+~
+42 0 0 0 0 4
+D1
+A frozen valley
+~
+~
+0 0 4263
+D2
+A frozen valley
+~
+~
+0 0 4262
+D3
+Lake Darthis
+~
+~
+0 0 4269
+S
+#4266
+A Frozen Valley~
+   You are wandering around in a valley the leads from the west to the
+south deep within the Bhyroga mountains.  The valley is very hilly, and 
+you have a hard time walking here.
+   In all directions, you can see the mountains looming above you, a faint
+whitening of snow falling onto their crests.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D2
+A frozen valley
+~
+~
+0 0 4267
+D3
+A frozen valley
+~
+~
+0 0 4260
+S
+#4267
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and footing is treacherous as you negotiate the
+path.
+   All around you, you can see the mountains looming above, a few flakes
+of snow misting the highest peaks.
+   You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 0 0 0 0 4
+D0
+A frozen valley
+~
+~
+0 0 4266
+D1
+A frozen valley
+~
+~
+0 0 4268
+D2
+A frozen valley
+~
+~
+0 0 4237
+D3
+A frozen valley
+~
+~
+0 0 4266
+S
+#4268
+A Frozen Valley~
+   You are wandering around in a valley hidden within the Bhyroga mountains.
+The valley is very hilly, and you have a hard time walking here.  All about
+you, the mountains loom, casting their shadows on the valley.
+   A cave opens in a mountain wall to the east, offering you shelter from
+the frigid cold.
+  You're freezing your ass off.  Better have some damn thick blankets for
+the night.
+~
+42 4 0 0 0 4
+D1
+A cave
+~
+~
+0 0 4298
+D3
+A frozen valley
+~
+~
+0 0 4267
+S
+#4269
+Lake Darthis~
+   You're traveling on a frozen lake. It's just one big sheet of ice. You
+feel EXTREMELY cold out here!!!
+~
+42 0 0 0 0 6
+D0
+Lake Darthis
+~
+~
+0 0 4271
+D1
+The lakeshore
+~
+~
+0 0 4265
+D2
+The lakeshore
+~
+~
+0 0 4264
+D3
+Lake Darthis
+~
+~
+0 0 4270
+S
+#4270
+Lake Darthis~
+   You're traveling on a frozen lake. It's just one big sheet of ice. You
+feel EXTREMELY cold out here!!!
+   Holes appear in the ice to the north and west.
+~
+42 0 0 0 0 6
+D0
+A hole in the ice
+~
+~
+0 0 4274
+D1
+The lakeshore
+~
+~
+0 0 4269
+D3
+A hole in the ice
+~
+~
+0 0 4274
+S
+#4271
+Lake Darthis~
+   You're traveling on a frozen lake. It's just one big sheet of ice. You
+feel EXTREMELY cold out here!!!
+~
+42 0 0 0 0 6
+D0
+Lake Darthis
+~
+~
+0 0 4272
+D2
+Lake Darthis
+~
+~
+0 0 4269
+D3
+A hole in the ice
+~
+~
+0 0 4270
+S
+#4272
+Lake Darthis~
+   You're traveling on a frozen lake. It's just one big sheet of ice. You
+feel EXTREMELY cold out here!!!
+~
+42 0 0 0 0 6
+D2
+Lake Darthis
+~
+~
+0 0 4271
+D3
+Lake Darthis
+~
+~
+0 0 4273
+S
+#4273
+Lake Darthis~
+   You're traveling on a frozen lake. It's just one big sheet of ice. You
+feel EXTREMELY cold out here!!!
+   Cracks in the ice form large holes to the south and west.
+~
+42 0 0 0 0 6
+D1
+Lake Darthis
+~
+~
+0 0 4272
+D2
+A hole in the ice
+~
+~
+0 0 4274
+D3
+A hole in the ice
+~
+~
+0 0 4274
+S
+#4274
+A Hole in the Ice~
+   The is a very large hole in the ice here. You can see an amazing number
+of fish in the water. This must be where the villagers of Bhyroga get all
+their fish. You wonder how they can stand the cold. 
+   The ice breaks away into floes that bob across the surface of the water
+to the west. Even from here, you can feel the frigid updrafts that would
+freeze you should you take to the air or water over its surface.
+~
+42 0 0 0 0 6
+D0
+Lake Darthis
+~
+~
+0 0 4273
+D1
+Lake Darthis
+~
+~
+0 0 4271
+D2
+Lake Darthis
+~
+~
+0 0 4270
+D5
+In freezing water
+~
+~
+0 0 4275
+S
+#4275
+In Freezing Water~
+   You are down in freezing water! How can you bear the cold?!? Are you 
+insane? There is a passage down under the ice to the north, full of more 
+freezing water, but you are unsure if you should stay down here long.
+~
+42 1 0 0 0 8
+D0
+In freezing water
+~
+~
+0 0 4276
+D4
+A hole in the ice
+~
+~
+0 0 4274
+S
+#4276
+In Freezing Water~
+   You will surely die if you stay here long.  Already you have lost feeling
+in your extremities and the cold water has sucked the life out of your lungs.
+   Better keep moving.
+~
+42 1 0 0 0 8
+D0
+In freezing water
+~
+~
+0 0 4277
+D2
+In freezing water
+~
+~
+0 0 4275
+S
+#4277
+In Freezing Water~
+   You are down in freezing water! How can you bear the cold?!? Are you 
+insane? There is a passage down under the ice to the north and south, full of 
+more freezing water, but you are unsure if you should stay down here long.
+~
+42 1 0 0 0 8
+D0
+In freezing water
+~
+~
+0 0 4278
+D2
+In freezing water
+~
+~
+0 0 4276
+S
+#4278
+In Freezing Water~
+   You are down in freezing water! How can you bear the cold?!? Are you 
+insane? There is a passage down under the ice to the south, full of more 
+freezing water, but you will surely die if you stay down here much longer. 
+Above you there is a dark hole in the ice. 
+~
+42 1 0 0 0 8
+D2
+In freezing water
+~
+~
+0 0 4277
+D4
+In a hidden cave
+~
+~
+0 0 4279
+S
+#4279
+The Hidden Cave~
+   You manage to pull yourself from the frozen water into this dry cave.
+It's a large cave, and appears to have been abandoned for decades, but you
+hear a loud snoring sound coming from the room to the north. Wonder what it
+could be? Below you, there is a hole leading to some freezing water.
+~
+42 9 0 0 0 0
+D0
+In a hidden cave
+~
+~
+0 0 4280
+D5
+In freezing water
+~
+~
+0 0 4278
+S
+#4280
+The Hidden Cave~
+   You have entered a large cave with a very large dragon. Your entry has
+awakened the beast, and he doesnt look too pleased about it. The temperature
+is so cold in here that you're afraid to flex your fingers.
+~
+42 9 0 0 0 0
+D2
+In a hidden cave
+~
+~
+0 0 4279
+D5
+~
+~
+0 0 4281
+S
+#4281
+A Treasure Room~
+   You are in the ice dragon's treasure room!! Better take what you can get
+before he finds you.
+~
+42 9 0 0 0 0
+D4
+~
+~
+0 0 4280
+S
+#4282
+A Small Cave~
+   You are standing in a small cave. All around you, you see animal hides
+made into the shapes of beds - very large beds. The walls are covered with
+primitive art and soot.
+   To the south, the cave opens up in to a passage leading east.
+~
+42 9 0 0 0 0
+D2
+~
+~
+0 -1 4284
+E
+painting picture art~
+You see a picture of a mammoth. He doesn't look very fierce, even with his
+long tusks, but perhaps that's because of the almost childlike quality
+of the painting.
+~
+S
+#4283
+A Small Cave~
+   You are standing in a small cave. All around you, animal hides have
+been made into the shapes of beds - very large beds.  The walls are 
+covered with primitive art and soot.
+   A passage leads out to the east.
+~
+42 9 0 0 0 0
+D1
+~
+~
+0 -1 4284
+E
+painting picture art~
+You see a picture of a mammoth. He doesn't look very fierce, even with his
+long tusks, but perhaps that's because of the almost childlike quality
+of the painting.
+~
+S
+#4284
+A Passage Through the Caves~
+   You are standing in a passage through a series of caves. The ceiling
+here is covered with thousands of stalactites. The ground, however, is
+smooth and worn from use.
+   The passage here opens up into two small caves, one to the north, and
+one to the west.  The passage continues to the east.
+~
+42 9 0 0 0 0
+D0
+~
+~
+0 -1 4282
+D1
+~
+~
+0 -1 4285
+D3
+~
+~
+0 -1 4283
+S
+#4285
+A Passage Through the Caves~
+   You are standing in a passage through a series of caves. The ceiling
+here is covered with thousands of stalactites. The ground, however, is
+smooth and worn from use. 
+   The passage south of you opens into a large cavern.  To the west,
+the passage continues.
+~
+42 9 0 0 0 0
+D2
+~
+~
+0 -1 4288
+D3
+~
+~
+0 -1 4284
+S
+#4286
+A Small Cave~
+   You are standing in a small cave. All around you, animal hides have been
+made into the shapes of very large beds. The soot-covered walls exhibit 
+primitive art and sketches.
+   To the south stretches an east-west passage.
+~
+42 9 0 0 0 0
+D2
+~
+~
+0 -1 4290
+E
+painting picture art~
+You see a picture of a mammoth. He doesn't look very fierce, even with his
+long tusks, but perhaps that's because of the almost childlike quality
+of the painting.
+~
+S
+#4287
+An Icy Prison~
+   You are standing in a small barren cave. To the south, crude bars
+block your way to a passage that leads west.
+~
+42 9 0 0 0 0
+D2
+The bars are made of ice. It's a wonder you can't just break them.
+~
+bars door gate~
+2 4290 4292
+E
+painting picture art~
+You see a picture of a mammoth. He doesn't look very fierce, even with his
+long tusks, but perhaps that's because of the almost childlike quality
+of the painting.
+~
+S
+#4288
+A Large Cavern~
+   You are in the northwest corner of a large cavern. Scattered piles of 
+ashes lie everywhere as do large piles of bones, some of which appear to
+be human.
+   To the north, you see a passage through the caves.
+~
+42 9 0 0 0 0
+D0
+~
+~
+0 -1 4285
+D1
+~
+~
+0 -1 4289
+D2
+~
+~
+0 -1 4293
+S
+#4289
+A Large Cavern~
+   You are in the northeast corner of a large cavern. Scattered piles of a
+ashes lie everywhere as do large piles of bones, some of which appear to
+be human.
+   A passage opens up to the east.
+~
+42 9 0 0 0 0
+D1
+~
+~
+0 -1 4290
+D2
+~
+~
+0 -1 4294
+D3
+~
+~
+0 -1 4288
+S
+#4290
+A Passage Through the Caves~
+   You are standing in a passage through a series of caves. The ceiling
+here is covered with thousands of stalactites. The ground, however, is
+smooth and worn from use. 
+   To the west, a large cavern opens up, while to the north is a small
+cave.  The passage continues to the east.
+~
+42 9 0 0 0 0
+D0
+~
+~
+0 -1 4286
+D1
+~
+~
+0 -1 4291
+D3
+~
+~
+0 -1 4289
+S
+#4291
+A Passage Through the Caves~
+   You are standing in a passage through a series of caves. The ceiling
+here is covered with thousands of stalactites. The ground, however, is
+smooth and worn from use. 
+   The passage continues to the east and west, while a small cave appears
+to the south.
+~
+42 9 0 0 0 0
+D1
+~
+~
+0 -1 4292
+D2
+~
+~
+0 -1 4295
+D3
+~
+~
+0 -1 4290
+S
+#4292
+A Passage Through the Caves~
+   You are standing in a passage through a series of caves. The ceiling
+here is covered with thousands of stalactites. The ground, however, is
+smooth and worn from use.
+   The passage leads back to the west, while to the north, crude bars
+block the entrance to a prison cell.
+~
+42 9 0 0 0 0
+D0
+The bars are made of ice. You're surprised you can't just break them.
+~
+bars gate door~
+1 4290 4287
+D3
+~
+~
+0 -1 4291
+S
+#4293
+A Large Cavern~
+   You are on the west side of a large cavern. Scattered piles of ashes
+lie everywhere as do large piles of bones, some of which appear to be 
+human.
+   The cavern continues to the north, east, and south.
+~
+42 9 0 0 0 0
+D0
+~
+~
+0 -1 4288
+D1
+~
+~
+0 -1 4294
+D2
+~
+~
+0 -1 4296
+S
+#4294
+A Large Cavern~
+   You are on the east side of a large cavern. Scattered piles of ashes
+lie everywhere as do large piles of bones, some of which appear to be
+human.
+   The covern continues to the north, south, and west.
+~
+42 9 0 0 0 0
+D0
+~
+~
+0 -1 4289
+D2
+~
+~
+0 -1 4297
+D3
+~
+~
+0 -1 4293
+S
+#4295
+A Small Cave~
+   You are standing in a small cave. All around you, animal hides have
+been made into very large beds. The walls are covered with primitive 
+art and soot.
+   To the north, the cave connects to an east-west passage.
+~
+42 9 0 0 0 0
+D0
+~
+~
+0 -1 4291
+E
+painting picture art~
+You see a picture of a mammoth. He doesn't look very fierce, even with his
+long tusks, but perhaps that's because of the almost childlike quality
+of the painting.
+~
+S
+#4296
+A Large Cavern~
+   You are in the southwest corner of a large cavern. Scattered piles of
+ashes lie everywhere as do several piles of shattered bones, some of which
+appear to be human.
+   A passage opens up to the south.
+~
+42 9 0 0 0 0
+D0
+~
+~
+0 -1 4293
+D1
+~
+~
+0 -1 4297
+D2
+~
+~
+0 -1 4299
+S
+#4297
+A Large Cavern~
+   You are in the southeast corner of a large cavern. Scattered piles of
+ash lie everywhere as do piles of broken bones, some of which appear to be
+human.
+   The cavern continues to the north and west.
+~
+42 9 0 0 0 0
+D0
+~
+~
+0 -1 4294
+D3
+~
+~
+0 -1 4296
+S
+#4298
+A Passage Through the Caves~
+   You are standing in a passage through a series of caves. The ceiling
+here is covered with thousands of stalactites. The ground, however, is
+smooth and worn from use.
+   To the west, the caves lead into a frozen valley, while the passage
+continues to the east.
+~
+42 9 0 0 0 0
+D1
+~
+~
+0 -1 4299
+D3
+A frozen valley
+~
+~
+0 -1 4268
+S
+#4299
+A Passage Through the Caves~
+   You are standing in a passage through a series of caves. The ceiling
+here is covered with thousands of stalactites. The ground, however, is
+smooth and worn from use.
+   The passage north of you opens into a large cavern and continues to
+the west.
+~
+42 9 0 0 0 0
+D0
+~
+~
+0 -1 4296
+D3
+~
+~
+0 -1 4298
+S
+$~

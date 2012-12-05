@@ -1,0 +1,8 @@
+# Modify and save as config.cnf
+# This contains the connection settings for the MySQL server.
+
+[main]
+host = "localhost"
+user = "dp"
+password = "dp"
+database = "dp"

@@ -1,0 +1,357 @@
+#9901
+cerberus dog~
+Cerberus~
+A massive 3-headed dog stands guard.
+~
+Standing every bit of five feet tall, its three heads strain to see
+every direction at once. Jaws wide enough to put your head in (but only
+once) house razor sharp teeth.
+~
+16426 0 0 0 1180712 0 0 0 -1000 E
+16 4 -6 16d5+170 10d4+10
+0 16000
+8 8 1
+BareHandAttack: 4
+Race: 11
+E
+#9902
+evil mist~
+the mist~
+A heavy mist pulses with life.
+~
+You see only a thick mist, which writhes as if alive.
+~
+229898 0 0 0 2 0 0 0 -500 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#9903
+demon shrieking~
+a shrieking demon~
+A shrieking demon sweeps down upon you.
+~
+You see a pale white, wraithly looking figure in tattered white robes.
+Her skin glows slightly in the darkness. She looks rather pissed.
+~
+32872 0 0 0 67109888 0 0 0 -10 E
+6 14 4 6d5+70 3d4+3
+25 1500
+8 8 2
+BareHandAttack: 8
+Race: 11
+E
+#9904
+larva~
+a larva~
+A humanoid larva rolls about in anguish on the floor.
+~
+Half man, half worm, the larva is about to hatch into something unspeakable.
+~
+20552 0 0 0 0 0 0 0 -90 E
+5 15 5 5d5+60 3d4+2
+0 900
+8 8 0
+BareHandAttack: 10
+Race: 11
+E
+#9905
+aleister crowley man~
+Aleister Crowley~
+An evil looking man walks around here.
+~
+He's bald, with the number '666' tattooed on his forehead.
+~
+9152585 0 0 0 140426 2 0 0 -1000 E
+33 -13 -23 33d5+2163 22d4+22
+666 180000
+8 8 1
+Race: 0
+E
+#9906
+imp~
+an imp~
+A flame-red imp scurries by on an errand for its master.
+~
+The imp is fire-red, with a bulbous nose and a barbed tail. Although
+mischevious, it tries to stay out of your way.
+~
+200 0 0 0 263200 0 0 0 -200 E
+5 15 5 5d5+60 3d4+2
+10 900
+8 8 1
+BareHandAttack: 8
+Race: 11
+E
+#9907
+pit fiend demon~
+a pit fiend~
+A massive demon covered in spikes and horns charges at you.
+~
+You see a figure clothed in fire; his gaping maws licking flame.
+~
+256104 0 0 0 1188872 0 0 0 -500 E
+24 -4 -14 24d5+276 16d4+16
+50 35000
+8 8 1
+BareHandAttack: 8
+Race: 11
+Noise: The smell of burning brimstone fills your nostrils.
+E
+#9908
+bone devil~
+a bone devil~
+A bone devil looks up from its morbid meal and stares maliciously at you.
+~
+It looks like a living skeleton, with glowing green eyes and sharp fangs.
+~
+256040 0 0 0 1057832 0 0 0 -600 E
+16 4 -6 16d5+170 10d4+10
+10 16000
+8 8 0
+BareHandAttack: 8
+Race: 11
+E
+#9909
+demon lava~
+a lava demon~
+A demon rises from the depths of the lava.
+~
+The demon appears to be living lava; its tortured screams fill your ears
+as it shrieks in pain and lust for blood.
+~
+49192 0 0 0 1032 0 0 0 -200 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 0
+BareHandAttack: 12
+Race: 11
+E
+#9910
+demon first order~
+a demon of the first order~
+A clawed demon licks his lips and smiles at you.
+~
+The demon looks humanoid, with several exceptions... inch long, razor sharp
+claws extend from his hands, and his feet are hooved. Blood covers his mis-
+shapen body.
+~
+256108 0 0 0 173192 2 0 0 -500 E
+22 -2 -12 22d5+230 14d4+14
+45 30000
+8 8 1
+BareHandAttack: 8
+Race: 11
+E
+#9911
+evil~
+Evil~
+An evil presence overcomes you.
+~
+It looks very... black.
+~
+32810 0 0 0 1024 0 0 0 -1000 E
+7 13 3 7d5+80 4d4+3
+0 2500
+8 8 0
+BareHandAttack: 2
+Race: 9
+E
+#9912
+dispater devil~
+Dispater the Arch-Devil~
+An extremely powerful looking devil stands here, surveying his domain.
+~
+He is evilly handsome, and only his small horns, tail and cloven left hoof
+distinguish him from an ordinary human.
+~
+9103370 0 0 0 1221816 0 0 0 -1000 E
+36 -16 -26 36d5+3912 24d4+24
+0 363000
+8 8 1
+Race: 11
+Noise: A wave of pure, unadulterated evil and hatred washes over you.
+E
+#9913
+zombie~
+a zombie~
+A zombie is here, mindlessly awaiting orders.
+~
+He's your ordinary zombie, with bits of flesh beginning to fall off in chunks,
+soon he'll be a skeleton.
+~
+172040 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 1
+Race: 9
+E
+#9914
+erinyes woman~
+an erinyes~
+A beautiful, winged woman glances at you seductively.
+~
+Her white feathered wings make her look like an angel.
+~
+2216 0 0 0 67109896 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 2
+Race: 11
+E
+#9915
+spined devil~
+a spined devil~
+A spine-covered demon flies overhead.
+~
+It's small, winged form is covered with sharp spines of all lengths.
+~
+239672 0 0 0 67404800 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+0 4500
+8 8 1
+Race: 11
+E
+#9916
+nupperibo~
+a nupperibo~
+One of the fat, disgusting nupperibo stands here, looking confused.
+~
+The nupperibo is one of the least powerful demons, and is controlled by any
+demon with an average intelligence. It's fat, bloated form jiggles and seems to
+hypnotize you.
+~
+65544 0 0 0 1024 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 1
+Race: 11
+E
+#9917
+horned demon~
+a horned demon~
+A horned demon stalks you from behind a rock.
+~
+It's what you always thought a demon would look like, long horns, wings, and
+a tail with a sharp barb on the end.
+~
+10280 0 0 0 67109896 0 0 0 -300 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 0
+Race: 11
+E
+#9918
+schirim goat demon~
+a schirim~
+a cloven footed goat-like demon wanders around here.
+~
+This creature has the head and legs of a goat and the torso and arms of a
+human.  It is covered in a coarse fur, growing especially thick at the legs and
+shoulders, and it has a tangled beard.  Its legs feature two knees apiece, the
+lower set of which bend backward just above its hooves.
+~
+16488 0 0 0 131104 0 0 0 -300 E
+5 15 5 5d5+60 3d4+2
+0 900
+8 8 1
+BareHandAttack: 8
+Race: 11
+E
+#9919
+locust cricket demon~
+a locust demon~
+A large cricket-like creature with a scorpion stinger is here looking for food.
+~
+As tall as a powerful warhorse, this creature looks like a gigantic locust, but
+with a human-like face and a mighty segmented tail tipped with a barbed
+stinger.  Sharp hooks mark the end of its six legs, and its translucent
+wings pulse with ichor-filled veins.
+~
+16440 0 0 0 131112 0 0 0 -250 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 0
+BareHandAttack: 3
+Race: 11
+E
+#9920
+nyogoth demon~
+a nyogoth~
+A massive pile of intestines floats here.
+~
+Floating above the ground, this creature looks like a cluster of intestines.
+It has four flexible appendages, each tipped with a toothy maw.  On its
+ball-like body is a single face dominated by the maniacal grin of its fifth maw.
+~
+24684 0 0 0 32800 0 0 0 -250 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 0
+Race: 25
+E
+#9921
+shogarr consumer souls~
+Shogarr, Consumer of Souls~
+A massive demon stands menacingly before you.
+~
+Its horns, each as long as a ship's mast, shine like polished metal, while
+its exposed chest has the color and appearance of human flesh.  With every
+step it takes, the earth shakes.
+~
+8644712 0 0 0 1212604 0 0 0 -750 E
+31 -11 -21 31d5+997 20d4+20
+0 90000
+8 8 1
+BareHandAttack: 10
+Race: 11
+Noise: The ground shakes so violently you nearly lose your footing.
+E
+#9922
+incubus demon~
+an incubus~
+A tall, gorgeous looking man stands here with an evil grin on his face.
+~
+Feathery, black wings protrude from the back of this beautiful man, his body
+supple and statuesque, his eyes alluring, his nails fine and sharp...
+~
+256104 0 0 0 173084 0 0 0 -600 E
+28 -8 -18 28d5+368 18d4+18
+0 50000
+8 8 1
+BareHandAttack: 7
+Race: 11
+E
+#9923
+succubus demon~
+a succubus~
+A scantily clad, woman of unmatched beauty stands here seductivly.
+~
+Feathery, black wings protrude from the back of this beautiful, scantily clad
+woman, her body supple and statuesque, her eyes enticing, her nails fine
+and sharp...
+~
+254056 0 0 0 173084 2 0 0 -600 E
+28 -8 -18 28d5+368 18d4+18
+0 50000
+8 8 2
+BareHandAttack: 8
+Race: 11
+E
+#9924
+pit fiend~
+a pit fiend~
+A massive demon covered in spikes and horns charges at you.
+~
+You see a figure clothed in fire; his gaping maws licking flame.
+~
+256104 0 0 0 1188924 0 0 0 -500 E
+24 -4 -14 24d5+276 16d4+16
+0 35000
+8 8 0
+Race: 11
+Noise: The smell of burning brimstone fills your nostrils.
+E
+$

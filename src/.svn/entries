@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1525"
+   name=""
+   committed-date="2008-06-26T21:54:40.347153Z"
+   url="file:///var/svn/trunk/2.2/src"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   prop-time="2008-06-19T18:47:00.000000Z"
+   revision="1525"/>
+<entry
+   committed-rev="1519"
+   name="comm.h"
+   text-time="2008-06-19T18:47:00.000000Z"
+   committed-date="2008-06-14T20:40:26.188927Z"
+   checksum="6a431687d872fc6c91a2a4aec856b7d8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-19T18:46:59.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="spec_procs.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="c1951aef702b6018abd47bb87a774778"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1525"
+   name="utils.c"
+   text-time="2008-07-09T01:02:50.000000Z"
+   committed-date="2008-06-26T21:54:40.347153Z"
+   checksum="58fbc81e1518f55c4f94535d1eb550e8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1519"
+   name="Makefile.in"
+   text-time="2008-06-19T18:47:00.000000Z"
+   committed-date="2008-06-14T20:40:26.188927Z"
+   checksum="baca851eebeee8a1dd7320905e5480e3"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-19T18:47:00.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="oc.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="508bfe41c24b7a98e156613deb2f9f8c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="limits.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="c21dfcfe1daf8ac0e7af246b7c8998c9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1521"
+   name="fight.c"
+   text-time="2008-06-19T18:47:00.000000Z"
+   committed-date="2008-06-14T21:52:55.558527Z"
+   checksum="972051c63f482e07ff0b940610e25641"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-19T18:47:00.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="act.comm.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="d390da7482216bc559b8c8b3425f2d77"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="whod.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="136dc1adc8be9df81a60dcba85768782"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1513"
+   name="file-edit.c"
+   text-time="2008-06-06T16:54:01.000000Z"
+   committed-date="2008-06-06T04:15:36.256002Z"
+   checksum="bfc8ee8881101830844107dbc45d028e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-06T16:54:01.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="class.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="736d53703db620fcda1d20b4db6944a0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="config.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="4c29f3fb0492596c4b5d6487a568235c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1453"
+   name="utils.h"
+   text-time="2008-05-20T15:53:07.000000Z"
+   committed-date="2008-05-15T01:13:37.416668Z"
+   checksum="f483a850433bfe8ebe3c91178cf0ff1a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:03.000000Z"/>
+<entry
+   committed-rev="129"
+   name="oc.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="2001-05-03T11:35:35.000000Z"
+   checksum="9e67c0942db62a5788d4306649ce7f9b"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:54.000000Z"/>
+<entry
+   committed-rev="2"
+   name="whod.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-01-01T22:49:11.000000Z"
+   checksum="e209d662f5b23ce7d331c91cd38a8dfd"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:54.000000Z"/>
+<entry
+   committed-rev="1425"
+   name="file-edit.h"
+   text-time="2008-05-20T15:53:07.000000Z"
+   committed-date="2008-04-27T00:02:52.807201Z"
+   checksum="385d8790425a89f0a40f20f74e7c9d8b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:03.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="shop.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="b03477d86ccfcfcb24dba0df2e839a4d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="tattoo.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="f4ef9838ee83ad269d6acc3c8718faf5"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="sysdep.h"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="dc2b837c036ba6a9f8ed6060ed4ef55e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="2"
+   name="shop.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-01-01T22:49:11.000000Z"
+   checksum="f81b2eff5bd213ab903c8d2da8b63b2f"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="gate.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="53a40913716ff12758285e4d0615dbf9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="new_cmds2.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="7953829b2d7f49575fc4c865ba049f22"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="spec_procs3.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="8d9daf683bc41b7e9727624fad44f738"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:36.000000Z"/>
+<entry
+   committed-rev="1511"
+   name="db.c"
+   text-time="2008-06-06T16:54:01.000000Z"
+   committed-date="2008-06-06T02:45:35.453073Z"
+   checksum="bd27fa9fa0e658910ff0bd1e88739536"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-06T16:54:01.000000Z"/>
+<entry
+   committed-rev="1469"
+   name="circle.dep"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-21T14:41:46.571507Z"
+   checksum="fe99712ba334fac3f92270b8eaf9d1c1"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="13"
+   name="copyright_notice"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-02-03T22:50:47.000000Z"
+   checksum="5056aba6207730cae65295cd15f22330"
+   last-author="stevet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="act.offensive.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="5fcb245abe824b732bc5a825d17de5b0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1399"
+   name="db.h"
+   text-time="2008-05-20T15:53:07.000000Z"
+   committed-date="2008-04-23T02:29:15.555391Z"
+   checksum="a7373bd77f09c66c17eb21e8455b5cce"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:04.000000Z"/>
+<entry
+   committed-rev="13"
+   name=".cvsignore"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-02-03T22:50:47.000000Z"
+   checksum="716baaf43d1eebf1e02a35e317de7d56"
+   last-author="stevet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="spec_assign.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="750d8fb8596a56b519c7c3befdc7ad31"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="timezone.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-01-01T22:49:11.000000Z"
+   checksum="af93ff8474b88b92d0009080212330b8"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1519"
+   name="circle.c"
+   text-time="2008-06-19T18:47:00.000000Z"
+   committed-date="2008-06-14T20:40:26.188927Z"
+   checksum="c70ce30a7de9fb68a3ec8f8531e9eebc"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-19T18:47:00.000000Z"/>
+<entry
+   committed-rev="1511"
+   name="medit.c"
+   text-time="2008-06-06T16:54:01.000000Z"
+   committed-date="2008-06-06T02:45:35.453073Z"
+   checksum="d9947a2ab36c332ac4961bf1f1f3b233"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-06T16:54:01.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="poof.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="e1ad0852113341580916e3f4fda5ae15"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1511"
+   name="oedit.c"
+   text-time="2008-06-06T16:54:01.000000Z"
+   committed-date="2008-06-06T02:45:35.453073Z"
+   checksum="02cea1566ca10ea5b1c6bfe9efc9f59f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-06T16:54:01.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="events.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="d24ec01be83ca2a126635aa64898ca0a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="mapcode.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="b4010f9aa8bb5b67ce80f19ac9048e5c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1510"
+   name="sedit.c"
+   text-time="2008-06-06T16:54:01.000000Z"
+   committed-date="2008-06-06T01:56:55.485453Z"
+   checksum="d47b71758545ef3a83155331f9c7d9d5"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-06T16:54:01.000000Z"/>
+<entry
+   committed-rev="2"
+   name="events.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-01-01T22:49:11.000000Z"
+   checksum="e7583fa911d4366a09c4b533b92088d4"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="boards.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="ca6012f267336fe0a3107575755cd02b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="clan.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="9639db1a8c947a8ff676c568fa4b843f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="config.h.in"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="df302380d8f5da72b3c92a3d7b06f4db"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1336"
+   name="boards.h"
+   text-time="2008-03-11T19:05:33.000000Z"
+   committed-date="2008-02-23T00:37:54.144397Z"
+   checksum="6b7a04cb06a2e16f4e63171d5ccc7c68"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-03-11T19:05:33.000000Z"/>
+<entry
+   committed-rev="1338"
+   name="clan.h"
+   text-time="2008-05-20T15:54:50.000000Z"
+   committed-date="2008-03-21T17:58:08.105744Z"
+   checksum="1180d5eab4494c2c4959c748e8a0c2ad"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-03-26T14:28:58.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="house.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="8bb1e6fc96a53f1f0df98dc0175ecf3f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="version.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="e487af252474ef676fdf5f3b8368b1a9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1319"
+   name="house.h"
+   text-time="2007-06-22T20:17:09.000000Z"
+   committed-date="2007-03-03T05:54:54.298785Z"
+   checksum="eb297015c9ae08e908b712316504ca31"
+   last-author="jravn"
+   kind="file"
+   prop-time="2007-06-22T20:17:07.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="dream.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="5a1fcf7c4f5879def24aeae1df8fe50b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="alias.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="38fcb31f774b760b8fd995872e2fc550"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="dream.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-01-01T22:49:11.000000Z"
+   checksum="3fd3f2716238538f0be36c88b4d5aa2f"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="weather.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="c6ad9b4da5f4ad6b3ace4471d4e1536d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="act.movement.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="6910b545c3cfbcc7d48326ce2241d92a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1293"
+   name="license"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="2006-04-26T03:56:27.816028Z"
+   checksum="9344f1f823197c31de2f33ea1cec8c10"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="act.item.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="4a57c698e0cda14ad614e3454dd98c9d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="mobprog.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="05967599bfeeb86d2afb80e94d2701fb"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="mobact.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="bc430fa1f254148ffc2bf4b7a78a7438"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1514"
+   name="act.wizard.c"
+   text-time="2008-06-06T16:54:01.000000Z"
+   committed-date="2008-06-06T04:27:56.988497Z"
+   checksum="c6547c0771151052e1aeb6eb989d25c1"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-06T16:54:01.000000Z"/>
+<entry
+   committed-rev="1456"
+   name="mobprog.h"
+   text-time="2008-05-20T15:53:07.000000Z"
+   committed-date="2008-05-17T17:06:18.100971Z"
+   checksum="6bdc670db548554f682989993f1a9809"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="act.display.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="f3a1c3458b98af2658a057b74f2cd658"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="constants.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="393b33ec97ed65cfceaf73bd94f10d07"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1508"
+   name="structs.h"
+   text-time="2008-05-27T23:43:40.000000Z"
+   committed-date="2008-05-23T05:49:33.293518Z"
+   checksum="98337ef8eff34927e40abd9e2bb05a47"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-27T23:43:40.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="olc.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="4ce04ac50cb0fb95122434b6b8c4838b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="vt100.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-01-01T22:49:11.000000Z"
+   checksum="9d4844d70c0d605abb4af2b7e5beaefd"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="magic.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="573d850217dc6997b67c1536d0d5f5cf"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1404"
+   name="constants.h"
+   text-time="2008-05-20T15:53:07.000000Z"
+   committed-date="2008-04-23T20:29:30.168958Z"
+   checksum="c8ddb7e290e7fe034b39a68eae3e0e65"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1439"
+   name="olc.h"
+   text-time="2008-05-20T15:53:07.000000Z"
+   committed-date="2008-04-30T03:27:57.753160Z"
+   checksum="54a3f14b4271510fad6f8b9d00dc5672"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="spec_procs2.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="1271452dc136f037c374d93b1dee1485"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="2"
+   name="screen.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-01-01T22:49:11.000000Z"
+   checksum="587712c4acbdbe5c5317cdeebeff74ed"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   committed-rev="1487"
+   name="act.other.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="8ed22f3a33f609b9885e6367cf145349"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="luaedit.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="5a7221d33f237538b220bb539303268d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="scripts.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="8f57acbe4987c710b6788860ac9a148c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:37.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="objsave.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="afe3135e38840d4a471d8a506de50ee3"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1401"
+   name="scripts.h"
+   text-time="2008-05-20T15:53:07.000000Z"
+   committed-date="2008-04-23T02:38:46.263066Z"
+   checksum="c8215981bc4cc4940ff31290d3f3ed68"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="new_cmds.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="b0f63a4aedcdfcb2318118f41d693008"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="ban.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="328c17398fd615ff83a9300142e52875"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   name="lua"
+   kind="dir"/>
+<entry
+   committed-rev="1487"
+   name="graph.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="d9e9a5e188a01a1a1c65245678cf6e27"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="spells.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="317d05920b1c6874dd67dcea5ac464d1"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1504"
+   name="interpreter.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-23T01:06:35.957934Z"
+   checksum="0f641c5af1af32b30fe93c309292468d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="ident.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="aa763a66c9cbcfee7a105d232689f977"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1146"
+   name="changelog"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="2003-07-20T07:00:28.000000Z"
+   checksum="3b500ae5624e222253d02d8c0a72a780"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1511"
+   name="redit.c"
+   text-time="2008-06-06T16:54:01.000000Z"
+   committed-date="2008-06-06T02:45:35.453073Z"
+   checksum="d19d637170b3bf2c492196a514d823f9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-06T16:54:01.000000Z"/>
+<entry
+   committed-rev="1338"
+   name="spells.h"
+   text-time="2008-05-20T15:55:03.000000Z"
+   committed-date="2008-03-21T17:58:08.105744Z"
+   checksum="89e75c1dbaa1f94ae1d09deea8f5d92c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-03-26T14:28:58.000000Z"/>
+<entry
+   committed-rev="1435"
+   name="interpreter.h"
+   text-time="2008-05-20T15:53:07.000000Z"
+   committed-date="2008-04-27T16:41:10.361492Z"
+   checksum="14ce2849028248a896409415036f6e4c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1309"
+   name="ident.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="2006-08-23T22:20:34.276604Z"
+   checksum="728ecf9b305495676d0b11d913cb94cb"
+   last-author="jravn"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="improved-edit.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="91c1d83025fdca1a2a075a74a4f4e440"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="tedit.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="809fc402497c47b829dea302abc95af6"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="handler.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="5725b09883691927ff04ee5ddffffd60"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1382"
+   name="improved-edit.h"
+   text-time="2008-05-20T15:53:07.000000Z"
+   committed-date="2008-04-19T01:22:02.028489Z"
+   checksum="746654e8b2028483bbee71f642aa366f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1410"
+   name="tedit.h"
+   text-time="2008-05-20T15:53:07.000000Z"
+   committed-date="2008-04-24T23:48:57.366466Z"
+   checksum="e5cb599d48c0214cb4d97edaf37e9587"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   name="utils"
+   kind="dir"/>
+<entry
+   committed-rev="1510"
+   name="zedit.c"
+   text-time="2008-06-06T16:54:01.000000Z"
+   committed-date="2008-06-06T01:56:55.485453Z"
+   checksum="fcf0de1c453b0ed4ad352107d54817bf"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-06T16:54:01.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="act.social.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="e8da81be5ad3104886c300c9eb55e639"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1470"
+   name="random.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-21T15:09:21.022712Z"
+   checksum="44850f96e801afbe2220477f9edeab16"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="mail.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="5823a82fb354f2d911a38064e76ce34e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1500"
+   name="handler.h"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T16:46:02.712668Z"
+   checksum="e4a1215bd57b7f3f0679966cf159e96f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="queue.c"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="4f2905b98155c47b0690b42cf6f4204d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1469"
+   name="random.h"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-21T14:41:46.571507Z"
+   checksum="990a06c2dc4d49bfe377d4650d181f05"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1512"
+   name="modify.c"
+   text-time="2008-06-06T16:54:01.000000Z"
+   committed-date="2008-06-06T03:57:50.426149Z"
+   checksum="a60ea97c91af41c207efaa48e5cf497d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-06T16:54:01.000000Z"/>
+<entry
+   committed-rev="2"
+   name="mail.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-01-01T22:49:11.000000Z"
+   checksum="093d0582d15574c5b8211f30786c922d"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1519"
+   name="Makefile.am"
+   text-time="2008-06-19T18:47:00.000000Z"
+   committed-date="2008-06-14T20:40:26.188927Z"
+   checksum="e5fb5f6c9c4b211c056faa05eba63032"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-19T18:47:00.000000Z"/>
+<entry
+   committed-rev="1515"
+   name="act.informative.c"
+   text-time="2008-06-19T18:47:00.000000Z"
+   committed-date="2008-06-06T21:31:34.685686Z"
+   checksum="78ac4f13d8fd6ed5fb66e203618acc23"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-19T18:47:00.000000Z"/>
+<entry
+   committed-rev="2"
+   name="queue.h"
+   text-time="2006-10-09T21:26:55.000000Z"
+   committed-date="1999-01-01T22:49:11.000000Z"
+   checksum="1a2821180b25da1b1be8380b43c81009"
+   last-author="rparet"
+   kind="file"
+   prop-time="2006-10-09T21:26:55.000000Z"/>
+<entry
+   committed-rev="1524"
+   name="comm.c"
+   text-time="2008-07-09T01:02:50.000000Z"
+   committed-date="2008-06-20T20:26:02.422932Z"
+   checksum="bbee5f3aa685e8a97eb7f9685efae6d9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:50.000000Z"/>
+<entry
+   committed-rev="1487"
+   name="spell_parser.c"
+   text-time="2008-05-23T03:03:35.000000Z"
+   committed-date="2008-05-22T01:36:10.160874Z"
+   checksum="cd243419ea0b36f94ebccb90041e5359"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:35.000000Z"/>
+</wc-entries>

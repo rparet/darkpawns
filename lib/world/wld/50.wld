@@ -1,0 +1,2684 @@
+#5000
+Burning Sands~
+   You stand parched amidst the shifting, burning sands just southwest of
+the walled city of Xixieqi.
+   Here, an occasional scorpion digs itself out from the sand to chitter
+at other insects while eyeless desert voles leave ridged paths just beneath
+the surface of the sand which extends in all directions.
+   To the north only burnt-sienna sands can be seen, making travel in that
+direction rather pointless, as it appears to be only a wasteland and dump
+for the city to the northeast.  To the south, the desert stretches into wave
+like dunes, matched only by the stetches of desert to the east.  A beach 
+appears to the west, leading into the ocean.
+~
+50 0 0 0 0 10
+D1
+The desert continues to the east.
+~
+~
+0 0 5010
+D2
+The desert continues in that direction.
+~
+~
+0 0 5001
+D3
+~
+~
+0 0 22065
+S
+#5001
+Burning Coastal Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+a few desert cacti provide meager shade for the white, eyeless desert voles
+that live within the spiny, pulpy interior.
+   To the north, south, and east, the desert continues, while to the west,
+the burnt-sienna sands stretch toward the ocean, where the salt-saturated
+waters pound the sandy coast and destroy any plant life.
+~
+50 0 0 0 0 10
+D0
+The desert continues to the north.
+~
+~
+0 0 5000
+D1
+The desert continues to the east.
+~
+~
+0 0 5011
+D2
+~
+~
+0 0 5002
+D3
+~
+~
+0 0 22102
+S
+#5002
+Searing Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+a few desert cacti provide meager shade for the white, eyeless desert voles
+that live within the spiny, pulpy interior.
+   To the north, south, and east, the desert continues, while off to the
+northwest, the burnt-sienna sands stretch toward the ocean, separated only
+by a tall cliff that continues to rise above the ocean surface to the south.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5001
+D1
+~
+~
+0 0 5012
+D2
+~
+~
+0 0 5003
+S
+#5003
+Desert Overlook~
+   You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+a few desert cacti provide meager shade for the white, eyeless desert voles
+that live within the spiny, pulpy interior.
+   To the north, south, and east, the desert continues, while off to the
+northwest, the burnt-sienna sands stretch toward the ocean, separated only
+by a tall cliff that overlooks the ocean to the west.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5002
+D1
+~
+~
+0 0 5013
+D2
+~
+~
+0 0 5004
+S
+#5004
+Searing Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+a few desert cacti provide meager shade for scorpions and voles that hide
+in their shade during the day and offer protection from the wind at night.
+   To the north, south, and east, the desert continues, while off to the
+west, a tall cliff rises over the ocean, offering a spectacular view of
+the waters below.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5003
+D1
+~
+~
+0 0 5014
+D2
+~
+~
+0 0 5005
+S
+#5005
+Searing Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+a few desert cacti provide meager shade for scorpions and voles that hide
+in their shade during the day and offer protection from the wind at night.
+   To the north, south, and east, the desert continues, while off to the
+west, a tall cliff rises over the ocean, offering a spectacular view of
+the waters below.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5004
+D1
+~
+~
+0 0 5015
+D2
+~
+~
+0 0 5006
+S
+#5006
+Searing Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+a few desert cacti provide meager shade for scorpions and voles that hide
+in their shade during the day and offer protection from the wind at night.
+   To the north, south, and east, the desert continues, while off to the
+west, a tall cliff rises over the ocean, offering a spectacular view of
+the waters below.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5005
+D1
+~
+~
+0 0 5016
+D2
+~
+~
+0 0 5007
+S
+#5007
+Saltfall~
+   You are wading through a sandfall.  Here, flowing salt from the heat-
+risen flats to the south and east flow over the cliff and into the water
+to the west, forming an enormous white sandfall.
+   The flats continue to the east and south while the desert becomes more
+sandy to the north.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5006
+D1
+~
+~
+0 0 5017
+D2
+~
+~
+0 0 5008
+S
+#5008
+Saltfall~
+   You are wading through a sandfall current.  Here, flowing salt from the
+heat-risen flats to the north and east flow over the edge of the cliff here
+to the west to form an enormous white sandfall.
+   The flats continue to the east and north while the desert becomes more
+sandy to the distant north.  To the south you can see some grass emerging
+from the lip of the desert salts.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5007
+D1
+~
+~
+0 0 5018
+D2
+~
+~
+0 0 5009
+S
+#5009
+Ghant's Hillock~
+   You are standing on what appears to have once been an ancient desert
+outpost.  Here, a large grass-covered mound stand surrounded by a crumbled
+wall that has been swallowed by the lush grasses that obscure it from view
+from afar.
+   No matter what may have changed, the view is spectacular.  To the far
+northwest you can see clearly into the ocean and the cliff that forms
+the desert border, while to the north and east you can see the great desert
+of Xixieqi.  Behind you to the south, foothills rise high and gradually blend
+into a tall row of snow-capped peaks.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5008
+D1
+~
+~
+0 0 5019
+D2
+~
+~
+0 0 5200
+S
+#5010
+Burning Sands~
+   You stand parched amidst the shifting, burning sands just southwest of
+the walled city of Xixieqi.
+   Here, an occasional scorpion digs itself out from the sand to chitter
+at other insects while eyeless desert voles leave ridged paths just beneath
+the surface of the sand which extends in all directions.
+   To the north, only burnt-sienna sands can be seen, making travel in
+that direction seem pointless.  To the south and west, the desert stretches
+into wave-like dunes while to the east, you can barely make out a caravan 
+road several miles away.
+~
+50 0 0 0 0 10
+D1
+The dunes rise like waves to the east.
+~
+~
+0 0 5020
+D2
+~
+~
+0 0 5011
+D3
+The desert continues in that direction.
+~
+~
+0 0 5000
+S
+#5011
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+a few desert cacti provide meager shade for the eyeless desert voles that
+live within their spiny, pulpy interiors. 
+   The desert sands continue in all directions.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5010
+D1
+~
+~
+0 0 5021
+D2
+~
+~
+0 0 5012
+D3
+The desert continues to the west.
+~
+~
+0 0 5001
+S
+#5012
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi.
+A few prickly pear cacti dot the sandy ground, offering some small
+amount of protection for snakes, scorpions, and desert rats that 
+live beneath the spiny leaves.
+   In all directions, the desert continues, stretching infinitely
+and offering little in solace against the desolation.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5011
+D1
+~
+~
+0 0 5022
+D2
+~
+~
+0 0 5013
+D3
+~
+~
+0 0 5002
+S
+#5013
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi.
+A few prickly pear cacti dot the sandy ground, offering some small
+amount of protection for snakes, scorpions, and desert rats that 
+live beneath the spiny leaves.
+   In all directions, the desert continues, stretching infinitely
+and offering little in solace against the desolation.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5012
+D1
+~
+~
+0 0 5023
+D2
+~
+~
+0 0 5014
+D3
+~
+~
+0 0 5003
+S
+#5014
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi.
+A few prickly pear cacti dot the sandy ground, offering some small
+amount of protection for snakes, scorpions, and desert rats that 
+live beneath the spiny leaves.
+   In all directions, the desert continues, stretching infinitely
+and offering little in solace against the desolation.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5013
+D1
+~
+~
+0 0 5024
+D2
+~
+~
+0 0 5015
+D3
+~
+~
+0 0 5004
+S
+#5015
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into shapeless dunes.
+   There is no sign of life here, only bleak, burnished sands and dead,
+rotting tumbleweed.
+   The desert continues in all directions.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5014
+D1
+~
+~
+0 0 5025
+D2
+~
+~
+0 0 5016
+D3
+~
+~
+0 0 5005
+S
+#5016
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into shapeless dunes that blend with the salt flats
+to the south.
+   The desert continues all around you.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5015
+D1
+~
+~
+0 0 5026
+D2
+~
+~
+0 0 5017
+D3
+~
+~
+0 0 5006
+S
+#5017
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form obstacles
+through which you must walk.
+   The desert continues to the north while the salt flats continue
+in all other directions.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5016
+D1
+~
+~
+0 0 5027
+D2
+~
+~
+0 0 5018
+D3
+~
+~
+0 0 5007
+S
+#5018
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form hazardous
+obstacles across which to walk.
+   A grassy field marks the border of the flats to the south, while
+the flats continue to the north, east, and west.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5017
+D1
+~
+~
+0 0 5028
+D2
+~
+~
+0 0 5019
+D3
+~
+~
+0 0 5008
+S
+#5019
+Grassy Fields~
+   You are standing in a grassy field, where the desert to the north meets
+the foothills to the far south.  The breezes are both warm and damp here,
+clear indications that this place receives a fair amount of downhill rains
+and runoff.
+   Immediately to the north salt flats have made plant growth impossible
+as it forms an effective barrier against flora for the desert, while lush
+grasses span the fields to the east and west at the base of the southern
+foothills.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5018
+D1
+~
+~
+0 0 5029
+D2
+~
+~
+0 0 5201
+D3
+~
+~
+0 0 5009
+S
+#5020
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into amorphous dunes.
+   Beneath the moving dunes, a few desert rodents leave raised paths
+that make the surface of the sands apear to be alive with pulsing
+veins and arteries.
+   To the north, you can see an overturned wagon.  Sand has sloped gently
+against it, forming an artificial drift, a haven for scorpions and other
+hazards.  You quickly decide to avoid it.  To the south and west, the
+desert stretches into near-infinity, while far to the east, a caravan
+trail leads into the city to the northeast.
+~
+50 0 0 0 0 10
+D1
+The dunes rise to the east.
+~
+~
+0 0 5030
+D2
+~
+~
+0 0 5021
+D3
+The desert stretches to the west.
+~
+~
+0 0 5010
+S
+#5021
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi.
+Here, a few desert cacti provide meager shade for the white eyeless
+desert voles that live within their spiny, pulpy interiors.
+   In all directions, the desert stretches to the horizon, offering
+little change in scenery.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5020
+D1
+~
+~
+0 0 5031
+D2
+~
+~
+0 0 5022
+D3
+~
+~
+0 0 5011
+S
+#5022
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi.
+Here, a few desert cacti provide meager shade for the white eyeless
+desert voles that live within their spiny, pulpy interiors.
+   In all directions, the desert stretches to the horizon, offering
+little change in scenery.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5021
+D1
+~
+~
+0 0 5032
+D2
+~
+~
+0 0 5023
+D3
+~
+~
+0 0 5012
+S
+#5023
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi.
+Here, a few desert cacti provide meager shade for the white eyeless
+desert voles that live within their spiny, pulpy interiors.
+   In all directions, the desert stretches to the horizon, offering
+little change in scenery.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5022
+D1
+~
+~
+0 0 5033
+D2
+~
+~
+0 0 5024
+D3
+~
+~
+0 0 5013
+S
+#5024
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi.
+Here, a few desert cacti provide meager shade for the white eyeless
+desert voles that live within their spiny, pulpy interiors.
+   In all directions, the desert stretches to the horizon, offering
+little change in scenery.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5023
+D1
+~
+~
+0 0 5034
+D2
+~
+~
+0 0 5025
+D3
+~
+~
+0 0 5014
+S
+#5025
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into shapeless dunes.
+   There is no sign of life here, only bleak, burnished sands and dead,
+rotting tumbleweed.
+   The desert continues in all directions.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5024
+D1
+~
+~
+0 0 5035
+D2
+~
+~
+0 0 5026
+D3
+~
+~
+0 0 5015
+S
+#5026
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into shapeless dunes that blend with the salt flats
+to the south.
+   The desert continues all around you.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5025
+D1
+~
+~
+0 0 5036
+D2
+~
+~
+0 0 5027
+D3
+~
+~
+0 0 5016
+S
+#5027
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form obstacles
+through which you must walk.
+   The desert continues to the north while the salt flats continue
+in all other directions.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5026
+D1
+~
+~
+0 0 5037
+D2
+~
+~
+0 0 5028
+D3
+~
+~
+0 0 5017
+S
+#5028
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form hazardous
+obstacles across which to walk.
+   A grassy field marks the border of the flats to the south, while
+the flats continue to the north, east, and west.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5027
+D1
+~
+~
+0 0 5038
+D2
+~
+~
+0 0 5029
+D3
+~
+~
+0 0 5018
+S
+#5029
+Grassy Fields~
+   You are standing in a grassy field, where the desert to the north meets
+the foothills to the far south.  The breezes are both warm and damp here,
+clear indications that this place receives a fair amount of downhill rains
+and runoff.
+   Immediately to the north salt flats have made plant growth impossible
+as it forms an effective barrier against flora for the desert.  A small
+animal trail continues through the grasses to the east and west, but seems
+to fade rapidly as the breezes tassle the grasses into a dizzying sea of
+waves.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5028
+D1
+~
+~
+0 0 5039
+D2
+~
+~
+0 0 5202
+D3
+~
+~
+0 0 5019
+S
+#5030
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into amorphous dunes.
+   Beneath the moving dunes, a few desert rodents leave raised paths
+that make the surface of the sands apear to be alive with pulsing
+veins and arteries.
+   To the north, you can see the corner of a walled city.  Sand has
+sloped gently against it, forming a series of drifts, a haven for
+scorpions and other hazards.  To the south and west, the desert
+stretches into near-infinity, while just to the east, a caravan trail
+leads into the city to the northeast.
+~
+50 0 0 0 0 10
+D1
+You can see a caravan trail there.
+~
+~
+0 0 5040
+D2
+~
+~
+0 0 5031
+D3
+You see more sand in that direction.
+~
+~
+0 0 5020
+S
+#5031
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into amorphous dunes.
+   Beneath the moving dunes, a few desert rodents leave raised paths
+that make the surface of the sands appear to be alive with pulsing
+veins and arteries.
+   Far to the north, you can see a walled city.  The desert sands 
+sloped against it, giving the appearance of a city rising from the
+desert floor.  The desert continues in all other directions, while
+a caravan trail cuts through it to the east.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5030
+D1
+~
+~
+0 0 5041
+D2
+~
+~
+0 0 5032
+D3
+~
+~
+0 0 5021
+S
+#5032
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into amorphous dunes.
+   Beneath the moving dunes, a few desert rodents leave raised paths
+that make the surface of the sands appear to be alive with pulsing
+veins and arteries.
+   The desert continues in all directions, save east, where a narrow
+caravan trail cuts through the desert.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5031
+D1
+~
+~
+0 0 5042
+D2
+~
+~
+0 0 5033
+D3
+~
+~
+0 0 5022
+S
+#5033
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into amorphous dunes.
+   Beneath the moving dunes, a few desert rodents leave raised paths
+that make the surface of the sands appear to be alive with pulsing
+veins and arteries.
+   The desert continues in all directions, save east, where a narrow
+caravan trail cuts through the sands.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5032
+D1
+~
+~
+0 0 5043
+D2
+~
+~
+0 0 5034
+D3
+~
+~
+0 0 5023
+S
+#5034
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into amorphous dunes.
+   Beneath the moving dunes, a few desert rodents leave raised paths
+that make the surface of the sands appear to be alive with pulsing
+veins and arteries.
+   The desert continues in all directions, save east, where a narrow
+caravan trail cuts through the sands.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5033
+D1
+~
+~
+0 0 5044
+D2
+~
+~
+0 0 5035
+D3
+~
+~
+0 0 5024
+S
+#5035
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into shapeless dunes.
+   There is no sign of life here, only bleak, burnished sands and dead,
+rotting tumbleweed.
+   The desert continues in all directions, save east, where a narrow
+caravan trail cuts through the sands.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5034
+D1
+~
+~
+0 0 5045
+D2
+~
+~
+0 0 5036
+D3
+~
+~
+0 0 5025
+S
+#5036
+Dunes~
+   Sands shift and move in waves here as the strong desert winds pile
+the burning grains into shapeless dunes that blend with the salt flats
+to the south.
+   The desert continues in all directions, save east, where a narrow
+caravan trail cuts through the sands.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5035
+D1
+~
+~
+0 0 5046
+D2
+~
+~
+0 0 5037
+D3
+~
+~
+0 0 5026
+S
+#5037
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form hazardous
+obstacles across which to walk.
+   The desert continues to the north and a desert road appears just
+beyond the sandy border of the salt flats to the east.  In all other
+directions, the salt flats continue.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5036
+D1
+~
+~
+0 0 5047
+D2
+~
+~
+0 0 5038
+D3
+~
+~
+0 0 5027
+S
+#5038
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form hazardous
+obstacles across which to walk.
+   A desert road appears to the east, splitting the salt flats, while
+a grassy field marks the border of the flats to the south.  The flats
+themselves continue to the north and west.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5037
+D1
+~
+~
+0 0 5048
+D2
+~
+~
+0 0 5039
+D3
+~
+~
+0 0 5028
+S
+#5039
+Grassy Fields~
+   You are standing in a grassy field, where the desert to the north meets
+the foothills to the far south.  The breezes are both warm and damp here,
+clear indications that this place receives a fair amount of downhill rains
+and runoff.
+   Immediately to the north salt flats have made plant growth impossible
+as it forms an effective barrier against flora for the desert.  A small
+caravan road appears to the east, while the grassy fields continue to the
+west.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5038
+D1
+~
+~
+0 0 5049
+D2
+~
+~
+0 0 5203
+D3
+~
+~
+0 0 5029
+S
+#5040
+Outside The City Gates~
+   You stand just outside the gates of an enormous desert city.  Tall,
+sand-blasted walls rise high above you, sloping gently and slightly
+inward to deflect the sand from settling within.
+   Tanned guards patrol around you as they inspect desert caravans
+that come in from the south, occasionally taking a bribe as they allow
+a few black-market items into the city.
+   All around you, the desert spans as far as you can see, an errant
+whirlwind or dust devil whipping about the sand.
+   To the east and west, the desert stretches without limit, while
+to the south, a worn caravan road leads into the desert.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 4860
+D1
+The desert lies just beyond the road to the east.
+~
+~
+0 0 5050
+D2
+~
+~
+0 0 5041
+D3
+The sands stretch to the west, away fro the caravan trail.
+~
+~
+0 0 5030
+S
+#5041
+Caravan Road~
+   You are standing on a caravan road that winds through the desert.
+Warm breezes blow across the sand, cooling your skin and making the
+desert seem less desolate.
+   The desert continues to the east and west, split only by this
+road that runs to the south.  To the north you can see the gates of
+a small city.
+~
+50 0 0 0 0 1
+D0
+~
+~
+0 0 5040
+D1
+~
+~
+0 0 5051
+D2
+~
+~
+0 0 5042
+D3
+~
+~
+0 0 5031
+S
+#5042
+Caravan Road~
+   You are standing on a caravan road that winds through the desert.
+Warm breezes blow across the sand, cooling your skin and making the
+desert seem less desolate.
+   The desert continues to the east and west, split only by this
+small road that runs to the north and south.
+~
+50 0 0 0 0 1
+D0
+~
+~
+0 0 5041
+D1
+~
+~
+0 0 5052
+D2
+~
+~
+0 0 5043
+D3
+~
+~
+0 0 5032
+S
+#5043
+Caravan Road~
+   You are standing on a caravan road that winds through the desert.
+Warm breezes blow across the sand, cooling your skin and making the
+desert seem less desolate.
+   The desert continues to the east and west, split only by this
+small road that runs to the north and south.
+~
+50 0 0 0 0 1
+D0
+~
+~
+0 0 5042
+D1
+~
+~
+0 0 5053
+D2
+~
+~
+0 0 5044
+D3
+~
+~
+0 0 5033
+S
+#5044
+Caravan Road~
+   You are standing on a caravan road that winds through the desert.
+Warm breezes blow across the sand, cooling your skin and making the
+desert seem less desolate.
+   The desert continues to the east and west, split only by this
+small road that runs to the north and south.
+~
+50 0 0 0 0 1
+D0
+~
+~
+0 0 5043
+D1
+~
+~
+0 0 5054
+D2
+~
+~
+0 0 5045
+D3
+~
+~
+0 0 5034
+S
+#5045
+Caravan Road~
+   You are standing on a caravan road that winds through the desert.
+Desert winds blow across the sand, carrying the faint scent of the
+blooming cacti and salt.
+   The desert continues to the east and west, split only by this
+small road that runs to the north and south.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5044
+D1
+~
+~
+0 0 5055
+D2
+~
+~
+0 0 5046
+D3
+~
+~
+0 0 5035
+S
+#5046
+Caravan Road~
+   You are standing on a caravan road that winds through the desert.
+Desert winds blow across the sand, carrying the faint scent of the
+blooming cacti and salt.  Even from here, the scent of salt tells 
+you that there must be salt flats nearby.
+   The desert continues to the east and west, split only by this
+small road that runs to the north and south.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5045
+D1
+~
+~
+0 0 5056
+D2
+~
+~
+0 0 5047
+D3
+~
+~
+0 0 5036
+S
+#5047
+Caravan Road~
+   You are standing on a caravan road that winds through the desert.
+Desert winds blow across the sand, carrying the faint scent of the
+blooming cacti and salt.  Even from here, the scent of salt tells 
+you that there must be salt flats nearby.
+   The desert continues to the east and west, split only by this
+small road that runs to the north and south.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5046
+D1
+~
+~
+0 0 5057
+D2
+~
+~
+0 0 5048
+D3
+~
+~
+0 0 5037
+S
+#5048
+Caravan Trail~
+   You are standing on a caravan road that exits the desert to the
+south where it climbs higher in elevation and enters some plains
+and foothills.
+   To the east and west, flanking the road, the desert gives birth
+to a set of salt flats.  Even from here, the strong, briny scent 
+brings tears to your eyes.
+   The caravan road continues north through the desert.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5047
+D1
+~
+~
+0 0 5058
+D2
+~
+~
+0 0 5049
+D3
+~
+~
+0 0 5038
+S
+#5049
+Caravan Trail~
+   You are standing on a caravan road that overlooks the desert to the
+north.  Here, a few wagon tracks lie embedded in the dirt road and head
+southward toward the hills and far-distant mountains beyond.
+   All across the northern horizon, a desert stretches under the open
+sky, bordered to the east and west by patches of grass and yellowish,
+grassy fields.
+~
+50 0 0 0 0 1
+D0
+~
+~
+0 0 5048
+D1
+~
+~
+0 0 5059
+D2
+~
+~
+0 0 5204
+D3
+~
+~
+0 0 5039
+S
+#5050
+Parched Sands~
+   Strange sandstone monoliths appear on the eastern horizon as you
+traverse this patch of dry sand.  A few wind clouds blast into you,
+filling your nose and ears with stinging debris as hot winds draw
+the energy from your body.
+   The desert stretches in all directions, save the north where a
+city wall appears, and the west, where a caravan trail that leads
+from it, heading south.
+~
+50 0 0 0 0 10
+D1
+The desert stretches in that direction.
+~
+~
+0 0 5060
+D2
+~
+~
+0 0 5051
+D3
+   You see a caravan path leading from the city gates in that direction.
+~
+~
+0 0 5040
+S
+#5051
+Parched Sands~
+   Strange sandstone monoliths appear on the eastern horizon as you
+traverse this patch of dry sand.  A few wind clouds blast into you,
+filling your nose and ears with stinging debris as hot winds draw
+the energy from your body.
+   The desert stretches in all directions, save west, where a caravan
+trail interrupts the flow of the desert.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5050
+D1
+~
+~
+0 0 5061
+D2
+~
+~
+0 0 5052
+D3
+~
+~
+0 0 5041
+S
+#5052
+Parched Sands~
+   Strange sandstone monoliths appear on the eastern horizon as you
+traverse this patch of dry sand.  A few wind clouds blast into you,
+filling your nose and ears with stinging debris as hot winds draw
+the energy from your body.
+   The desert stretches in all directions, save west, where a caravan
+trail interrupts the flow of the desert.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5051
+D1
+~
+~
+0 0 5062
+D2
+~
+~
+0 0 5053
+D3
+~
+~
+0 0 5042
+S
+#5053
+Parched Sands~
+   Strange sandstone monoliths appear to the far northeast as you
+traverse this patch of dry sand.  A few wind clouds blast into you,
+filling your nose and ears with stinging debris as hot winds draw
+the energy from your body.
+   The desert stretches in all directions, save west, where a caravan
+trail interrupts the flow of the desert.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5052
+D1
+~
+~
+0 0 5063
+D2
+~
+~
+0 0 5054
+D3
+~
+~
+0 0 5043
+S
+#5054
+Parched Sands~
+   Warm winds blow as you flank the western road, wary of desert raiders
+and unexpected dust storms.  The desert stretches in all directions, save 
+west, where the caravan road splits the desert.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5053
+D1
+~
+~
+0 0 5064
+D2
+~
+~
+0 0 5055
+D3
+~
+~
+0 0 5044
+S
+#5055
+Parched Sands~
+   Warm winds blow as you flank the western road, wary of desert raiders
+and unexpected dust storms.  The desert stretches in all directions, save 
+west, where the caravan road splits the desert.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5054
+D1
+~
+~
+0 0 5065
+D2
+~
+~
+0 0 5056
+D3
+~
+~
+0 0 5045
+S
+#5056
+Parched Sands~
+   You are just west of a caravan road that winds through the desert.
+Desert winds blow across the sand, carrying the faint scent of the
+blooming cacti and salt.  The scent seems to be stronger from the 
+south.
+   The desert continues to the east and west, split only by this
+small road that runs to the north and south just west of here.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5055
+D1
+~
+~
+0 0 5066
+D2
+~
+~
+0 0 5057
+D3
+~
+~
+0 0 5046
+S
+#5057
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form hazardous
+obstacles across which to walk.
+   The desert continues to the north and a desert road appears just
+beyond the sandy border of the salt flats to the west.  In all other
+directions, the salt flats continue.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5056
+D1
+~
+~
+0 0 5067
+D2
+~
+~
+0 0 5058
+D3
+~
+~
+0 0 5047
+S
+#5058
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form hazardous
+obstacles across which to walk.
+   A desert road appears to the west, splitting the salt flats, while
+a grassy field marks the border of the flats to the south.  The flats
+themselves continue to the north and east.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5057
+D1
+~
+~
+0 0 5068
+D2
+~
+~
+0 0 5059
+D3
+~
+~
+0 0 5048
+S
+#5059
+Grassy Fields~
+   You are standing in a grassy field, where the desert to the north meets
+the foothills to the far south.  The breezes are both warm and damp here,
+clear indications that this place receives a fair amount of downhill rains
+and runoff.
+   Immediately to the north salt flats have made plant growth impossible
+as it forms an effective barrier against flora for the desert.  A small
+caravan road appears to the west, while the grassy fields continue to the
+east.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5058
+D1
+~
+~
+0 0 5069
+D2
+~
+~
+0 0 5205
+D3
+~
+~
+0 0 5049
+S
+#5060
+Parched Sands~
+   Strange sandstone monoliths appear just to the east as you trudge
+through this patch of dry sand.  A few bursts of hot wind blast into
+you, filling your nose and stinging your eyes with sand as the desert
+zephyrs draw the energy from your body.
+   The desert stretches in all directions, save northwest, where a 
+city appears on the horizon, and the distant west, where a caravan
+road leads north and south through the desert.
+   To the north lies a vest stretch of yellowish sand that seems to
+run parallel to the northwestern city and leads to the coast.  Even
+from here you can smell the brine of sea salt.
+~
+50 0 0 0 0 10
+D1
+You can see tall monoliths in the distance.
+~
+~
+0 0 5070
+D2
+~
+~
+0 0 5061
+D3
+The desert continues in that direction.
+~
+~
+0 0 5050
+S
+#5061
+Parched Sands~
+   Strange sandstone monoliths appear on the eastern horizon as you
+traverse this patch of dry sand.  A few wind clouds blast into you,
+filling your nose and ears with stinging debris as hot winds draw
+the energy from your body.
+   The desert stretches in all directions.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5060
+D1
+~
+~
+0 0 5071
+D2
+~
+~
+0 0 5062
+D3
+~
+~
+0 0 5051
+S
+#5062
+Parched Sands~
+   Strange sandstone monoliths appear on the eastern horizon as you
+traverse this patch of dry sand.  A few wind clouds blast into you,
+filling your nose and ears with stinging debris as hot winds draw
+the energy from your body.
+   The desert stretches in all directions.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5061
+D1
+~
+~
+0 0 5072
+D2
+~
+~
+0 0 5063
+D3
+~
+~
+0 0 5052
+S
+#5063
+Parched Sands~
+   Strange sandstone monoliths appear to the far northeast as you
+traverse this patch of dry sand.  A few wind clouds blast into you,
+filling your nose and ears with stinging debris as hot winds draw
+the energy from your body.
+   The desert continues in all directions.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5062
+D1
+~
+~
+0 0 5073
+D2
+~
+~
+0 0 5064
+D3
+~
+~
+0 0 5053
+S
+#5064
+Parched Sands~
+   Warm winds blow as you trek across the desert sands.  The desert
+stretches in all directions, offering nothing in terms of shelter
+or water.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5063
+D1
+~
+~
+0 0 5074
+D2
+~
+~
+0 0 5065
+D3
+~
+~
+0 0 5054
+S
+#5065
+Parched Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms.  The desert stretches in all directions, offering
+nothing in terms of comfort or relief from a parched throat or throbbing
+feet.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5064
+D1
+~
+~
+0 0 5075
+D2
+~
+~
+0 0 5066
+D3
+~
+~
+0 0 5055
+S
+#5066
+Parched Sands~
+   You are standing in the middle of a parched desert.  Desert winds blow 
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt.  The scent seems to be stronger from the south.
+   The desert continues in all directions.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5065
+D1
+~
+~
+0 0 5076
+D2
+~
+~
+0 0 5067
+D3
+~
+~
+0 0 5056
+S
+#5067
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form hazardous
+obstacles across which to walk.
+   The desert continues to the north and northwest, while in all
+other directions, the salt flats continue.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5066
+D1
+~
+~
+0 0 5077
+D2
+~
+~
+0 0 5068
+D3
+~
+~
+0 0 5057
+S
+#5068
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form hazardous
+obstacles across which to walk.
+   The flats continue in all directions, gently giving way to rising
+hills and grassy fields to the south.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5067
+D1
+~
+~
+0 0 5078
+D2
+~
+~
+0 0 5069
+D3
+~
+~
+0 0 5058
+S
+#5069
+Grassy Fields~
+   You are standing in a grassy field, where the desert to the north meets
+the foothills to the far south.  The breezes are both warm and damp here,
+indications that this place receives a fair amount of downhill rains and
+runoff.
+   Immediately to the north salt flats have made plant growth impossible
+as it forms an effective barrier against flora for the desert.  To the
+east and west, the grassy field continues, adding a freshness to the air
+that sweeps down from the hills to the south.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5068
+D1
+~
+~
+0 0 5079
+D2
+~
+~
+0 0 5206
+D3
+~
+~
+0 0 5059
+S
+#5070
+Sandstone Monoliths~
+   You are standing in a desert valley.  All around you, gigantic pillars
+of weathered sandstone spike high into the air, casting cooler shadows
+on the groundling pear cacti beneath them.
+   Looking around you, you notice that water-weathered rocks line this
+valley, as though this was an ancient streambed that was consumed by
+desert heat.
+   The monoliths themselves are wonderous.  Rising nearly a thousand
+feet in the air, these red and yellow-banded titans are all that
+remain of a prehistoric mountain range, judging by the symmetry of the
+remaining spires.  Time, weather, and wind appear to have blown
+holes through these ancient mountain walls, leaving the banded monoliths
+you see throughout the east.
+   To the north the desert gives way to the ocean, where more of the
+monolithic spires rise against you, while to the south and west, the
+sandstone pillars decay into the desert sands.  The scent of the sea is
+powerful here.  The ocean must lay to the north, behind the sandstone giants.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 12708
+D1
+Sand and sandstone slabs blanket the bases of the spires.
+~
+sand sandstone stone slab slabs~
+1 0 5080
+D2
+~
+~
+0 0 5071
+D3
+The desert extends to the west.
+~
+~
+0 0 5060
+S
+#5071
+Parched Sands~
+   Strange sandstone monoliths appear on the northern horizon as you
+traverse this patch of dry sand.  A few wind clouds blast into you,
+filling your nose and ears with stinging grains as hot winds draw
+the energy from your body.
+   The desert continues to the west and south, and seems to slope 
+gently upward as it ends at the hills to the west.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5070
+D1
+~
+~
+0 0 5081
+D2
+~
+~
+0 0 5072
+D3
+~
+~
+0 0 5061
+S
+#5072
+Parched Sands~
+   Strange sandstone monoliths appear on the northern horizon as you
+traverse this patch of dry sand.  A few wind clouds blast into you,
+filling your nose and ears with stinging grains as hot winds draw
+the energy from your body.
+   The desert continues to the west and south, and seems to slope 
+gently upward as it ends at the hills to the west.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5071
+D1
+~
+~
+0 0 5082
+D2
+~
+~
+0 0 5073
+D3
+~
+~
+0 0 5062
+S
+#5073
+Parched Sands~
+   Strange sandstone monoliths appear to the far northeast as you
+traverse this patch of dry sand.  A few wind clouds blast into you,
+filling your nose and ears with stinging debris as hot winds draw
+the energy from your body.
+   The desert continues to the north, south, and west, but gives
+way to savanna grasses to the east.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5072
+D1
+~
+~
+0 0 5083
+D2
+~
+~
+0 0 5074
+D3
+~
+~
+0 0 5063
+S
+#5074
+Parched Sands~
+   Warm winds blow as you trek across the desert sands.  The desert
+stretches to the north, south, and west, offering nothing in terms
+of shelter or water until you head east toward to the less harsh
+plains of the savanna.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5073
+D1
+~
+~
+0 0 5084
+D2
+~
+~
+0 0 5075
+D3
+~
+~
+0 0 5064
+S
+#5075
+Parched Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms.  The desert stretches to the north, south, and
+west, offering nothing in terms of comfort or relief from a parched
+throat or throbbing feet.
+   The desert gives way to rich savanna grasses to the east.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5074
+D1
+~
+~
+0 0 5085
+D2
+~
+~
+0 0 5076
+D3
+~
+~
+0 0 5065
+S
+#5076
+Parched Sands~
+   You are standing on the edge of a parched desert.  Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt.  The scent seems to be stronger from the south.
+   The desert continues to the north, south, and west, becoming more
+fertile in the grasslands just east of here.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5075
+D1
+~
+~
+0 0 5086
+D2
+~
+~
+0 0 5077
+D3
+~
+~
+0 0 5066
+S
+#5077
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt and, to the east, wide fields of grass.  Chunks of the
+hardened salt bricks lay caked across the desert to the west and south,
+some cracked and rising above the surface to form hazardous obstacles
+across which to walk.
+   The desert continues to the north and northwest while the salt flats
+continues to the south and southwest. 
+   A grassy field lies to the east.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5076
+D1
+~
+~
+0 0 5087
+D2
+~
+~
+0 0 5078
+D3
+~
+~
+0 0 5067
+S
+#5078
+Salt Flats~
+   Here, the desert sands and silt have given way to broad flats of
+natural salt.  Chunks of the hardened stones lay caked across the
+desert, some cracked and rising above the surface to form hazardous
+obstacles across which to walk.
+   The flats continue in all directions, gently giving way to rising
+hills and grassy fields to the south and east.
+~
+50 0 0 0 0 10
+D0
+~
+~
+0 0 5077
+D1
+~
+~
+0 0 5088
+D2
+~
+~
+0 0 5079
+D3
+~
+~
+0 0 5068
+S
+#5079
+Grassy Fields~
+   You are standing in a grassy field, where the desert to the north meets
+the foothills to the far south.  The breezes are both warm and damp here,
+indications that this place receives a fair amount of downhill rains and
+runoff.
+   Immediately to the north salt flats have made plant growth impossible
+as it forms an effective barrier against flora for the desert.  To the
+east and west, the grassy field continues, adding a freshness to the air
+that sweeps down from the hills to the south.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5078
+D1
+~
+~
+0 0 5089
+D2
+~
+~
+0 0 5207
+D3
+~
+~
+0 0 5069
+S
+#5080
+Within A Monolith~
+   Sheltered from the harsh winds of the desert, this hollow in the stone
+monolith appears to have carved by tools, rather than weather.  Charred
+tinder and a ring of stones rest in the center of the sandy floor that
+blankets the interior of this internal spire.
+   Above you, a tediously long series of carved steps rises hundreds of
+feet to a narrow, conical chamber that overlooks the floor you stand on.
+~
+50 45 0 0 0 0
+D2
+~
+~
+0 0 5081
+D3
+The slab of sandstone lies between you and the desert.
+~
+stone slab sand sandstone~
+1 0 5070
+D4
+You can see nothing in the darkness above.
+~
+~
+0 0 5090
+S
+#5081
+Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.  The sounds of groundling birds and animals seem to offer
+the last signs of life before entering the western desert.
+   To the north the ocean nurtures the coastal grasses and clashes
+against a large sandstone monolith, as it soothes the reeds and grasses
+from the harsh, hot desert winds to the southwest.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5080
+D1
+~
+~
+0 0 5091
+D2
+~
+~
+0 0 5082
+D3
+~
+~
+0 0 5071
+S
+#5082
+Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.  The sounds of groundling birds and animals seem to offer
+the last signs of life before entering the western desert.
+   To the far north a sandstone monolith offers a buffer against the
+desert winds, though there is clearly no way to pass or climb it.
+The desert continues to the south and west, while the savanna grasses
+continue to the north and east.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5081
+D1
+~
+~
+0 0 5092
+D2
+~
+~
+0 0 5083
+D3
+~
+~
+0 0 5072
+S
+#5083
+Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.  The sounds of groundling birds and animals seem to offer
+the last signs of life before entering the western desert.
+   The desert continues to the west, while the thick savanna grasses
+continue to the north, south, and east.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5082
+D1
+~
+~
+0 0 5093
+D2
+~
+~
+0 0 5084
+D3
+~
+~
+0 0 5073
+S
+#5084
+Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.  The sounds of groundling birds and animals seem to offer
+the last signs of life before entering the western desert.
+   The desert continues to the west, while the thick savanna grasses
+continue to the north, south, and east.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5083
+D1
+~
+~
+0 0 5094
+D2
+~
+~
+0 0 5085
+D3
+~
+~
+0 0 5074
+S
+#5085
+Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.
+   The desert continues to the west, while the thick savanna grasses
+continue to the north, south, and east.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5084
+D1
+~
+~
+0 0 5095
+D2
+~
+~
+0 0 5086
+D3
+~
+~
+0 0 5075
+S
+#5086
+Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.
+   The desert continues to the west, while the thick savanna grasses
+continue to the north, south, and east.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5085
+D1
+~
+~
+0 0 5096
+D2
+~
+~
+0 0 5087
+D3
+~
+~
+0 0 5076
+S
+#5087
+Savanna Grasses~
+   You are standing on the edge of a some salt flats where sparse
+savanna grasses form the border between the rugged desert and the
+scrub of the grasslands.
+   The desert continues to the west, while the richer plains of the
+savanna continue to the north, south, and east.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5086
+D1
+~
+~
+0 0 5097
+D2
+~
+~
+0 0 5088
+D3
+~
+~
+0 0 5077
+S
+#5088
+Savanna Grasses~
+   You are standing on the edge of a some salt flats where sparse
+savanna grasses form the border between the rugged desert and the
+scrub of the grasslands.
+   The desert continues to the west, while the richer plains of the
+savanna continue to the north, south, and east.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5087
+D1
+~
+~
+0 0 5098
+D2
+~
+~
+0 0 5089
+D3
+~
+~
+0 0 5078
+S
+#5089
+Grassy Fields~
+   You are standing in a grassy field, where the desert to the northwest
+the grassy hills of the south and east.  The breezes are both warm and
+damp here, indications that this place receives a fair amount of rain
+and runoff from the higher elevations to the south and east.
+   To the east and west, the grassy fields continue, adding a freshness
+to the air.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5088
+D1
+~
+~
+0 0 5099
+D2
+~
+~
+0 0 5208
+D3
+~
+~
+0 0 5079
+S
+#5090
+The Peak Of The Monolith~
+   Though still several hundred feet below the top of the spire, you have
+reached the highest point in the hollow interior.  Here, a small platform,
+perhaps once carved by dwarven hands, looks out over the floor below.
+   A few old bones litter the floor here, some with unfinished carvings,
+as though some desert wandered tried to whittle away some time during the
+desert night.
+   Below you, a set of carved stairs leads down into the main floor of the
+spire.
+~
+50 9 0 0 0 0
+D5
+The stairs lead down.
+~
+~
+0 0 5080
+S
+#5091
+Rich Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.  The sounds of groundling birds and animals seem to offer
+the last signs of life before entering the western desert.
+   To the north the ocean thunders against the coast, while to the 
+south, the grasslands continue become more dry as it gives way to the
+desert to the west.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 12707
+D1
+~
+~
+0 0 5100
+D2
+~
+~
+0 0 5092
+D3
+~
+~
+0 0 5081
+S
+#5092
+Rich Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.  The sounds of groundling birds and animals seem to offer
+the last signs of life before entering the western desert.
+   To the far north a sandstone monolith offers a buffer against the
+desert winds, though there is clearly no way to pass or climb it.
+The grasslands continue to the north and south and become more dry as
+they give way to the desert to the far west.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5091
+D1
+~
+~
+0 0 5110
+D2
+~
+~
+0 0 5093
+D3
+~
+~
+0 0 5082
+S
+#5093
+Rich Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.  The sounds of groundling birds and animals seem to offer
+the last signs of life before entering the western desert.
+   The grasslands continue to the north and south and become more dry
+as they give way to the desert to the far west.  To the east, a sharp
+slope leads upward and away from the grasslands into rich fields of
+grain.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5092
+D1
+~
+~
+0 0 5120
+D2
+~
+~
+0 0 5094
+D3
+~
+~
+0 0 5083
+S
+#5094
+Rich Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.
+   The grasslands continue to the north and south and become more dry
+as they give way to the desert to the far west.  To the east, a sharp
+slope leads upward and away from the grasslands into rich fields of
+grain.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5093
+D1
+~
+~
+0 0 5130
+D2
+~
+~
+0 0 5095
+D3
+~
+~
+0 0 5084
+S
+#5095
+Rich Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.
+   The grasslands continue to the north and south and become more dry
+as they give way to the desert to the far west.  To the east, a sharp
+slope leads upward and away from the grasslands into rich fields of
+grain.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5094
+D1
+~
+~
+0 0 5140
+D2
+~
+~
+0 0 5096
+D3
+~
+~
+0 0 5085
+S
+#5096
+Rich Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.
+   The grasslands continue to the north and south and become more dry
+as they give way to the desert to the far west.  To the east, a sharp
+slope leads upward and away from the grasslands into rich fields of
+grain.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5095
+D1
+~
+~
+0 0 5150
+D2
+~
+~
+0 0 5097
+D3
+~
+~
+0 0 5086
+S
+#5097
+Rich Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.
+   The grasslands continue to the north and south and become more dry
+as they give way to salt flats to the far west.  To the east, a sharp
+slope leads upward and away from the grasslands into rich fields of
+grain.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5096
+D1
+~
+~
+0 0 5160
+D2
+~
+~
+0 0 5098
+D3
+~
+~
+0 0 5087
+S
+#5098
+Rich Savanna Grasses~
+   You are standing on the edge of a desert where rich savanna grasses
+form the border between the rugged sandy desert and the scrub of the
+grasslands.
+   The grasslands continue to the north and south and become more dry
+as they give way to salt flats to the far west.  To the east, a sharp
+slope leads upward and away from the grasslands into rich fields of
+grain.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5097
+D1
+~
+~
+0 0 5170
+D2
+~
+~
+0 0 5099
+D3
+~
+~
+0 0 5088
+S
+#5099
+Grassy Fields~
+   You are standing in a grassy field, cornered by hills to the east
+and south.  The grasses are high here as they rise out of the northern
+savanna and grow taller as they lead up the hills to the south.
+~
+50 0 0 0 0 2
+D0
+~
+~
+0 0 5098
+D1
+~
+~
+0 0 5180
+D2
+~
+~
+0 0 5209
+D3
+~
+~
+0 0 5089
+S
+$~

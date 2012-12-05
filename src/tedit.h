@@ -1,0 +1,2 @@
+ACMD(do_tedit);
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1437"
+   name=""
+   committed-date="2008-04-30T03:27:43.811158Z"
+   url="file:///var/svn/trunk/2.2/src/lua/src/luac"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1437"
+   name="stubs.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="f414ec2162d50b15d7ff792207abd05d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="print.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="e318e53de4b357ff5711dee14e77ea18"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="opt.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="fa6a8f6d925582307d90303ba6855bf9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="luac.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="374ffd695445c5f0efb8390c78bf311f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="dump.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="e76868324172e6cdbd9120e7ff1a3630"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="luac.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="e1aad0a7abf50cf93524b02e27f163e4"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="Makefile"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="9a1f04d3a69e52d4f8acea2e733c4add"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="README"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="efc9db35fc7edd43192fb753c28d5452"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="print.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="3c2d1fb322360492e28ac60eb7b61071"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+</wc-entries>

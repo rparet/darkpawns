@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1424"
+   name=""
+   committed-date="2008-04-27T00:02:44.409164Z"
+   url="file:///var/svn/trunk/2.2/lib/scripts/obj/archive"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1424"
+   name="forest_tree.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="129e2c0ce1f37205980f384d319790ee"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="spiritwood_tree.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="dc16e95bcf8c6fdb2cc09f8ca2b99fd4"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="wood_axe.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="ecc8ac3a286d2664c1397c08964758c2"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="barrier.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="aea521f505569927a71a5b81be88778a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="horn.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="f61f50f699b1d9e4cdb1e7b1d62e515c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="mix_lookup.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="32ccad78fc7a362d8a7dc0e1f7748f0f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="fire_ant_cocoon.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="0861a025bd8d1a8299ac3a14ae1db994"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="falycion_skeleton.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="52b6aa565b38fb7b4e4348fcea3f6eef"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="fire_ant_egg.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="a64db073d62f9c49380c60dae846443b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="ceremonial_scroll.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="62dc2867be271b7e71f96b73ca738169"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="carrion.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="bf7e17f824c8f7cc4fff7d8adfd5f1b7"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="spell_scroll.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="0c62b5450a7f3040c74b2a27ce2fba05"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="daemonic_focus.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="9620d6163f8ccd11cfd18db818116883"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="tinderbox.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="68a4f75a924ebe7da9065a4b58ba04ad"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+</wc-entries>

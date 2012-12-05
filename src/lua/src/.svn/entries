@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1437"
+   name=""
+   committed-date="2008-04-30T03:27:43.811158Z"
+   url="file:///var/svn/trunk/2.2/src/lua/src"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1437"
+   name="ldebug.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="af72b960df72faceca22cb35bbe1b8de"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   name="luac"
+   kind="dir"/>
+<entry
+   committed-rev="1437"
+   name="ldebug.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="942c727a92966ea987139f6e054b705f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="ltests.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="25fbfe3eba514a12a398f893dbef4aa0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="ldo.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="a10668153043e01c195b7c159385e34a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="ldo.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="3e753b9a9ce7907f00daf0fa5f833f71"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lundump.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="1464ebda97971249e6af9dc6fd0ef0e0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="1437"
+   name="lundump.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="cf9e22bdd59ada308b42a04e95087724"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lmem.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="95568d97706c55e3a7765718e4d3d707"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="ltm.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="dc94099e72b4e067e34b44f2aa5e14cc"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lstate.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="3ba812793ae81512b8e6748e2284269c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="Makefile"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="af1e8f08723a808438ec1ef3fccb9f15"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lvm.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="f891113db05af6721e4072c4cada3faa"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lmem.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="88553140f9f7fbf6d0f8c7669434ed3d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   name="lua"
+   kind="dir"/>
+<entry
+   committed-rev="1437"
+   name="lstate.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="431ad61a553b08b97d8b78cc190bfb68"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="ltm.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="47d68326259654dc90ca623a7b4cd59b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="ltable.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="423462e49eddc26a9b9b54c5b3df1028"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lvm.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="bf008ae4b1a756d90adfbf015e38bcdc"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="llex.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="d0eca62688c08c9c75f6060af7a88c8b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lgc.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="32e738590c3b9f71d62fba19451a46ee"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lfunc.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="aa0132d083045fde08673d2f54b5eaf7"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="ltable.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="f340c901646bbb0ab4a9b58803561c70"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lparser.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="35edb2611813a384b8b05863e9d8978b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="llex.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="83479a2a336aa95886828e78008e92a4"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lgc.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="57e0f26b2d63bb2d7f5b078d841f0f49"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lfunc.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="afc667b6681f517efb6be144be43be9a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lparser.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="5ba3410f05c3adc0b4662d3718396b03"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lopcodes.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="f8684f425b7d8a82745c6cac6a332c64"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lzio.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="2be448194292137b419464ddfb3a9c52"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lstring.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="cca31759d88667adb109ddf418829d63"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lobject.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="89194f7c4802beed0fcb3dad9632fabe"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="llimits.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="fb63ad6e7f1cc51414b3d14f150cbc2d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lzio.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="48ac662fc78d23e242d3c0b9265bf55e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lapi.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="88fed27c626d59a6d19eba306d88138c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lcode.c"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="47127bd4b956964ab01113d3cb81209c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lstring.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="42ee40043a20d99679b8f234a62156ee"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lobject.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="67f0d08ccf695ab8c3ef7aa29c3df5a0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lapi.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="1641ee0553a5d0e8ab852047d0c667d6"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lcode.h"
+   text-time="2008-05-20T15:53:05.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="b46d819503a2dfa262914922cf944756"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+</wc-entries>

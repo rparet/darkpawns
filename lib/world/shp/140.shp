@@ -1,0 +1,25 @@
+CircleMUD v3.0 Shop File~
+#14001~
+14001
+-1
+0.50
+1.50
+-1
+%s Sorry, you can't get those from me.~
+%s You don't have that, my friend...~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s Haha!  You're too poor!  Get out of here before I throw you in with the bears!~
+%s That's %d coins.  Okay, you're registered.  Prepare yourself, and when you are ready to enter, give me the token.~
+%s I'll give you %d coins for that.~
+0
+0
+14001
+0
+14001
+-1
+0
+28
+0
+0
+$~

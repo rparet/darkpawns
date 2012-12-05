@@ -1,0 +1,89 @@
+CircleMUD v3.0 Shop File~
+#16106~
+16114
+16120
+16121
+16122
+16131
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d for that, thanks.~
+0
+0
+16123
+0
+16106
+-1
+1
+28
+0
+0
+#16141~
+16117
+16118
+16116
+16119
+16132
+16133
+16134
+16135
+-1
+1.00
+1.00
+0
+0
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+16125
+0
+16141
+-1
+1
+28
+0
+0
+#16148~
+16136
+16137
+16138
+16139
+16140
+16141
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+16124
+0
+16148
+-1
+1
+28
+0
+0
+$~

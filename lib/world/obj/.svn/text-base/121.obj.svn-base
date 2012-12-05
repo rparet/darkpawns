@@ -1,0 +1,287 @@
+#12100
+blue fish bluefish~
+some bluefish~
+A foul smelling fish has been left here.~
+~
+19 0 0 0 0 1 0 0 0
+5 0 0 0
+3 5 100.00
+#12101
+necklace pearls~
+a pearl necklace~
+A necklace of pearls lies discarded here.~
+~
+13 0 0 0 0 5 0 0 0
+0 0 0 0
+3 50 100.00
+#12102
+gold ring~
+a golden ring~
+A golden ring is lying here.~
+~
+13 0 0 0 0 3 0 0 0
+0 0 0 0
+1 20 100.00
+#12103
+silver goblet~
+a silver goblet~
+A dirty silver goblet is lying here.~
+~
+17 0 0 0 0 1 0 0 0
+1 0 0 0
+5 60 100.00
+#12104
+diamond ring~
+a diamond ring~
+An expensive looking ring has been carelessly left here.~
+~
+8 0 0 0 0 3 0 0 0
+0 0 0 0
+2 200 100.00
+#12105
+plain key~
+a plain key~
+A plain key has been left here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 60 40.00
+#12106
+oak chest~
+an oak chest~
+An oak chest on the floor should be easy to get to.~
+~
+15 0 0 0 0 0 0 0 0
+20 15 12129 0
+300 100 100.00
+E
+oak chest~
+It is quite cumbersome but can be used to store loot.
+~
+#12107
+gold bars~
+several gold bars~
+Several gold bars, worth a small fortune, have been left here.~
+~
+8 8 0 0 0 1 0 0 0
+0 0 0 0
+15 2000 20.00
+#12108
+pelt seal~
+a seal pelt~
+The pelt of some animal has been carelessly left here.~
+Upon closer examionation you decide its a seal pelt and might be worth some money.
+~
+11 0 0 0 0 5 0 0 0
+0 0 0 0
+3 200 40.00
+#12110
+claws steel~
+a set of sharp steel claws~
+Some long, sharp claws made of steel lie on the ground.~
+~
+9 144977920 0 0 0 129 0 0 0
+2 0 0 0
+6 3500 10.00
+A
+19 2
+#12111
+star pendant~
+a star pendant~
+A softly glowing star on a silver chain lies in the dust here.~
+~
+1 1089 0 0 0 5 0 0 0
+0 0 -1 0
+2 1450 50.00
+#12112
+storage barrel~
+a storage barrel~
+A barrel used to store goods has been left here.~
+~
+15 0 0 0 0 1 0 0 0
+50 0 -1 0
+30 100 100.00
+A
+2 1
+#12115
+granite fountain~
+a fountain~
+A large granite fountain pours forth cool, refreshing water.       ~
+~
+23 0 0 0 0 0 0 0 0
+999999 999999 0 0
+1000004 0 100.00
+E
+granite fountain~
+A large, three tiered fountain, made of granite and marble, surmounted by
+three dolphins leaping into the air and spouting water from their mouths.
+~
+#12116
+barrel~
+a barrel~
+A beer barrel has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+50 0 15 0
+40 100 100.00
+E
+broken wagon~
+The wagon displays the scars of heavy usage and is missing one of its
+wheels. It looks as if someone has been attempting to repair it.
+~
+#12117
+storage crate~
+a crate~
+A crate, useful for item storage, has been left here.~
+~
+15 0 0 0 0 1 0 0 0
+40 0 -1 0
+20 40 100.00
+E
+crate fish~
+A simple wooden crate filled to the brim with fish, although you can't be
+certain how fresh they are.
+~
+#12118
+wooden key~
+the wooden key~
+A wooden key is almost hidden in the dirt.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+2 20 30.00
+#12119
+leather armor~
+the leather armor~
+A piece of leather armor is here.~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0
+6 100 60.00
+#12120
+cutlass curved sword~
+a cutlass~
+A curved sword has been impaled into the ground.~
+~
+5 134488064 0 0 0 8193 0 0 0
+0 3 4 3
+5 300 30.00
+#12121
+dwarven boots~
+a pair of dwarven boots~
+A pair of dwarven boots sit unused on the ground.~
+~
+9 1088 0 0 0 65 0 0 0
+4 0 0 0
+3 400 40.00
+#12122
+marlinspike spike~
+a marlinspike~
+A marlinspike, covered with someone's blood, sits here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 8 14
+2 45 70.00
+#12123
+ogre helm~
+an ogre helm~
+An ogre helm shows signs of battle damage.~
+~
+9 1 0 0 0 17 0 0 0
+3 0 0 0
+3 100 50.00
+A
+1 1
+#12126
+opaque potion~
+an opaque potion~
+An opaque potion swirls in a glass bottle.~
+~
+10 0 0 0 0 1 0 0 0
+24 63 0 0
+3 200 60.00
+#12127
+mug~
+a mug~
+A frosty mug of ale sits here, tempting you to take it.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 3 0
+1 3 100.00
+#12128
+glass~
+a glass~
+A glass of cheap wine sits here, tempting you to take it.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 2 0
+1 3 100.00
+#12129
+oak key~
+an oak key~
+An oak key lies on the ground.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+2 5 100.00
+#12130
+cinnamon~
+some cinnamon~
+A pile of cinnamon is here.~
+~
+19 0 0 0 0 1 0 0 0
+0 0 0 0
+1 2 100.00
+#12131
+paprika~
+some paprika~
+A pile of paprika is here.~
+~
+19 0 0 0 0 1 0 0 0
+0 0 0 0
+2 3 100.00
+#12132
+black pepper~
+some black pepper~
+A pile of black pepper is here.~
+~
+19 0 0 0 0 1 0 0 0
+0 0 0 0
+1 2 100.00
+#12133
+curry powder~
+some curry powder~
+A pile of curry powder is here.~
+~
+19 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 100.00
+#12134
+pirate hat~
+a pirate hat~
+A black hat with skull and crossbones on it lies disused on the ground.~
+~
+11 512 0 0 0 17 0 0 0
+0 0 0 0
+3 800 12.00
+A
+19 1
+A
+17 8
+#12135
+mackrel fillets~
+some mackrel fillets~
+There are some strong-smelling fish fillets here.~
+~
+19 0 0 0 0 1 0 0 0
+11 0 0 0
+3 9 100.00
+#12136
+salmon steak steaks~
+some salmon steaks~
+There are some sliced-up salmon steaks here.~
+~
+19 0 0 0 0 1 0 0 0
+16 0 0 0
+3 13 100.00
+$~

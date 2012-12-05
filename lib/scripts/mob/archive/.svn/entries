@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1428"
+   name=""
+   committed-date="2008-04-27T00:44:05.555668Z"
+   url="file:///var/svn/trunk/2.2/lib/scripts/mob/archive"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1424"
+   name="puff.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="648f03991101b4fad9deb6b76f49085c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="jailguard.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="6e3ffc1d9b602f6f2d2543d79de29b8f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="singingdrunk.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="7d83ac291fbdfbc308fa87091708f95e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="souleater.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="13cb1886781fe2507a3ad706b4f5d210"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="creation.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="ed058ad3d4855c84684c3b9b691c6383"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="recruiter.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="6c3bb24fab6e865d58387084cd251128"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="aki_kuroda.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="ed68341e53f4f69b2bec3699dda26f4d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="sandstorm.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="4f145d58fcc3c06fb27fb53323b9ed1e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="stable.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="bed3712228ac5f5a3b86f847eee3e387"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="no_get.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="31b890e644404747118ab5e0cf2a65fb"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="teacher.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="1ab3cbdf56b037a0800e120878a1d8fc"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="medusa.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="c04087919f4ac6761c27461dd84040d6"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="magic_user.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="72439622368e2c7e04099a1ecf680b25"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="identifier.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="fd2a846fb4e29c22306cf172edb35f87"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="petitioner.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="223d44f8c328c761f817ee054630755c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="ettin.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="938706f933f3353a3af266389b0af2bb"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="miller.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="0acde540c297873f89a9803153417adf"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="griffin.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="8cec16d389331cce3489f2db521db887"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="mercenary.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="00b52f6a720e30affa519d7c013004f7"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="neckbreak.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="d67e076e2a484306e47745c3290efaa1"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="sorcery.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="3d04f9e10acbb5fe8cef77dfefbaf340"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="baker_flour.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="a11c145352dee7809c47aacdb782d76a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="remove_curse.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="60b28c8ea31e60d1eaced6add655fc3d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="sungod.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="c2e4b68de6f0ee0d5cf33a403e997d77"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="warg.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="8a2b85b92cb71b21bd5291fee7c863d0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="cleric.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="59f8339ad63629bbc1c546282ffd8281"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="prisoner.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="82b37f3e02445794522b002e5d329de0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="strike.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="bdff4e70dcfcdedea68f89e3039f214d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="banker.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="11c6da1db6d9209310ead85a848ae2cd"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="mount.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="46d24280f189ddfb0452e233e13c1a64"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="valoran.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="f68c6def971294737242c2d9ca94c048"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="backstabber.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="8b285d940b5496b87668853af97ad719"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="farmer_wheat.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="a3821c05a936d6faf813ea181979f2ab"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="porcupine.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="009cb9286bcd79a2a2aa2d979a0453ca"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="bane.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="e1528d11b1648267890b77b244fb5148"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="citizen.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="7e1076c01eb0d0c974be2e65db7fdc83"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="janitor.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="2aadc1dca171a1310284eb528f03560d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="zen_master.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="4224c79c1921bd2fa8e2fab7ca75538e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="memory_moss.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="0c81861b3e4a3ba964fbf0763d36b93a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="aurumvorax.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="8af217d17af405046922622c1f9b8114"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="mymic.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="7545646b73048c618d8b1175addd4513"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="merchant_walk.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="0d320d5efa9bfe06c175800dde1cda9f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="beholder.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="c2881de2854554f34f401b3d6eb1f5d0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="teleporter.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="c34e6396e4cdd5a2887ccaeb6ea515c3"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="drake.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="46feb19b13edea0689e6ac0d9d0207ff"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="mime.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="ffce407503f5b43c0740ffd4a545c0a1"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="forester.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="dfbec8bbed7210d466bfecd8fd70a718"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="werewolf.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="7f715f4def9dac06f0bdf0f761fd2e1a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="minstrel.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="d24c5ad1ad02f08a175abb61f12e46e7"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="thief.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="4768cf0ec79b5d1b6be71ecc7479fa4c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="caerroil.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="161029d50b84148f63c3394536fa7dd4"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="never_die.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="d9fa565a297804388f0076dfc73cc774"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="snake.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="e8a95e688e0fced758006ebf9a3b62fa"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="seiji.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="c1578d44d4812c6b7ff0e06d03c1a036"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="merchant_inn.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="5886342f37a813cd3e075ab2ff715f8f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="town_teleport.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="c7cd2c2d8a7ab136356550c27470473a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="head_shrinker.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="9a36495412e8d6ff77cb8e07d2785d4a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="paladin.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="eb9d5d0c56b4d301d58b58c9e416e024"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="kelpie.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="484dc3683d5631086ad14670ffe9368c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="conjured.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="e8b900e80a1dd6f1604114321b6df55a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="phoenix.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="2a1777d3779d4c60c37b7f4d924d27dc"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="tattoo.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="ca6eaad3ed0bc80dfb07f65620cad47c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="brain_eater.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="af9ae3e9a5a493c3f93a5a99f938b681"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="donation.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="63a6e211346f2a8f272dedbb94ba8c90"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="dracula.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="cf14200b6c84919edc77862885fad2cd"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="pyros.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="fee37cf7910dd25b8ec331375fb517ab"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="tyr.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="1c738222243bb45796c95e8c3afca886"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="bhang.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="451233b7fc1ae7c9703c9358197113cf"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="paralyse.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="e2633c7dc2c3ed3506dca5d9b87acec5"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="blacksmith.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="87073cfd2fa7ed9f37e3f0e382e1cd44"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="breed_killer.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="8b564538f298e99ccaf2aabb28640d73"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="carpenter.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="0964184e240f434ebbca2b1cc2cca7e0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="take_jail.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="6b635d4969edb66dd054c8fad310cdad"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="teleport_vict.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="a16f55773b86c4aa03182338ab904e71"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="crystal_forger.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="d64803c4c896d4d92e48afa27ab0a6ff"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="bradle.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="73559f7c845bd4f37d27611c2f2246b8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="minion.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="2be2dfe76a064406669b99b7d08f3221"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="weatherworker.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="74aa5c283434fcd27c514c48296dd5ef"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="mindflayer.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="ef5ad7032381a296dc506fa9ed21b3d5"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="zealot.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="1c915c2366569f9971411b1d4600807b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="cabinguard.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="9e2df981063a1e4228cbb09751bb69d4"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="dragon_breath.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="0c32b450d4800021c6621fa7a65e554c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="quanlo.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="7afba24a6f14dbe7bd77de3b96fe030d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="clerk.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="90f1ee50433daa1bc9c5bece4f60dabe"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="guard_captain.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="dfbb9cb1e5f859e500d4b46523890b46"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="bearcub.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="44a7d9adf986f249e6ac1cd2618c7b62"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="golem_from_crate.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="fcf66840a7cb2165cf8ace8d193a4fb7"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="pet_store.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="9f7c8c80d83eb4d2794275062a63ad73"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="anhkheg.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="f0fbc8db8e4d0cd4e20d0dc2df791d69"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="shopkeeper.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="16333a9c83c074b9df70174ea3e8990e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="enchanter.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="076f5bb42dc4aa1b1a03fde8abf0b51d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="aversin.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="7124a9cfa37ec029848d0dc653e01b57"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="gazer.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="54afa17f0ac6464ef2b573bb9515cca5"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="rescuer.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="5cf462e4b27024062c2cebc17bafd3bd"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="baker_dough.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="d29b22c97a7f3d01f22bdd7182d391c0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="elven_prostitute.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="9a2bf446368d0de09b68e1e582d78f5b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="fire_ant_larva.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="63486ae406926e619f3219f91329c23e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="towncrier.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="be001216b36fa5db2e0ba1a71718d25f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="triflower.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="60d361a4d4d1677c7b25ade50ff6d98e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="dragon_forger.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="f6fb5d149d291b180819bec2929c8670"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="thornslinger.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="f8f4b9edabd8972ab55dd697033b0ac8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="golem_to_crate.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="5db9e2da3ed78783a37e7627079bbaab"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="shop_give.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="5bb5dcf03891d0cdb385ab43eab96454"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="eq_thief.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="601db0c3ba2af0075752c085328fa27d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="autodraw.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="29a36243a100b159925c9dd926ed80da"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="fire_ant.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="3e93c5ca884ed5da5cb45ade23e38e28"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="beggar.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="ae16706bb7f5e27572472a87107c34f8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="keep_sorcerer.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="a8e48c1a27870e5b322708ff69683795"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="hermit.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="5c3a1ef2d9d5c82f045112608fa79310"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="fighter.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="606f9bf660ea2539f7e20062d9b3ec56"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="guardian.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="af8136c45565b5cf9587e58110122420"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="cityguard.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="dc671ead1f384a3cbf4d681ee485d576"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="cuchi.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="55914cadbd0fbb601927a554c0045a28"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="troll.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="b488ed588185079f6b3a3bd5cabe866b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="golem_miner.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="71346a7a0cf1a848f5f078349da78af9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+</wc-entries>

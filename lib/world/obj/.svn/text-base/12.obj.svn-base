@@ -1,0 +1,197 @@
+#1207
+piece parchment~
+a piece of parchment~
+A piece of parchament has been rolled up and left here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+1 5 100.00
+#1208
+quill pen~
+a quill pen~
+A beautiful quill pen has been left nearby.~
+~
+21 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 10 100.00
+#1210
+fractal french tickler condom~
+a fractal French tickler~
+An odd looking condom has been dropped by some careless person here.~
+~
+15 197 0 0 0 18579 0 0 0
+1 1 9 1
+50 0 100.00
+#1211
+mandelbrot masturbator massager marvelous~
+Mandelbrot's marvelous hand-held massager~
+An odd looking device has been left here.~
+~
+3 198 0 0 0 8192 0 0 0
+20 1 1 4
+1 0 100.00
+#1212
+mandelbrot marital aid set box~
+a large box, labeled  'The Mandelbrot Marital Aids Set'~
+The Mandelbrot marital aids set is here in its box.~
+~
+15 197 0 0 0 1 0 0 0
+300 5 1 0
+100 0 100.00
+#1225
+ash reagent~
+a bit of ash~
+A small pile of ash lies here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1000 1
+#1226
+sand reagent~
+a pinch of sand~
+A small pile of sand lies here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 25 1
+#1227
+eye beholder reagent~
+the eye of a beholder~
+An eye the size of your fist lies here, staring at you.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 1 1
+#1228
+frog leg reagent~
+the leg of a frog~
+A small, stringy green leg is trying to move here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 400 1
+#1229
+chunk iron reagent~
+a small chunk of iron~
+A small chunk of black iron is sitting here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 1
+#1230
+dust vampire~
+some vampire dust~
+A small pile of dust lays here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 1
+#1231
+small crystal reagent~
+a small, glittering crystal~
+A small crystal glitters brilliantly here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 50 1
+#1232
+hop reagent~
+a hop~
+The dried, ripe flower of a hop plant is here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 1
+E
+hop~
+It's a dried, ripe flower.
+~
+#1233
+feather raven reagent~
+a raven feather~
+A long, black feather is here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 2 2
+#1234
+lens reagent~
+a small, clouded lens~
+A small, dirty lens is sitting here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 90 1
+E
+lens~
+It's a round, dirty piece of glass.
+~
+#1235
+brass scale~
+a brass dragon scale~
+The scale of a brass dragon is here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 1
+#1236
+prism reagent~
+a prism~
+A small, crystal prism sits here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 85 1
+#1237
+hellstone reagent~
+a hellstone~
+A hellstone sits here, burning with infernal fires.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+2 1 1
+#1238
+globe reagent~
+a small globe~
+A small globe is sitting here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 2 2
+#1239
+obsidian shard reagent~
+a shard of obsidian~
+A shard of obsidian is here.~
+~
+12 65536 0 0 0 1 0 0 0
+0 0 0 0
+1 10 10
+E
+shard obsidian~
+It's a small black piece of rock.
+~
+#1240
+sapphire tiny reagent~
+a tiny sapphire~
+A tiny, blue sapphire is glinting here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 1
+#1241
+steel reagent~
+a steel ball~
+A ball made from steel rolls around here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+3 1 1
+#1242
+glass lens reagent~
+a small, glass lens~
+A glass lens has been left here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 10 10
+$~

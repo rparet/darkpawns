@@ -1,0 +1,184 @@
+#16000
+stone giant~
+a stone giant~
+A stone giant lumbers about here.
+~
+   Blocking out the sun before you is a gargantuan humanoid leering down
+at you.  Crooked, sharp teeth grind together under a large unkept beard.
+The pale, stone colored skin of this behemoth is pulled taught over bulky
+muscles, and large hands capable of tearing an average person apart...
+~
+65548 0 0 0 1179656 0 0 0 0 E
+26 -6 -16 26d5+322 17d4+15
+200 40000
+8 8 1
+BareHandAttack: 5
+Race: 18
+Noise: You hear the crunch of stone, and a low thudding sound nearby...
+E
+#16001
+stone giant female~
+a stone giant~
+A stone giant stalks about here.
+~
+   This female stone giant, while still gargantuan in height, is much smaller
+than it's mate.  This giant moves with a grace unexpected by something her
+size.  For a huge monster, she is actually quite beautiful in appearance...
+~
+65548 0 0 0 32 0 0 0 0 E
+23 -3 -13 23d5+253 15d4+18
+150 32500
+8 8 2
+BareHandAttack: 7
+Race: 18
+E
+#16002
+mist dragon windsheer~
+a floating mist~
+A strange mist floats about here.
+~
+   As you look at the clouds around you, one cloud in particular resembles
+a long serpentine dragon.  You take pride in your moment of insight, until
+you realize the dragon moves in order to get a better look at you as well!
+This must be Windsheer, the legendary dragon of mist...
+
+~
+245790 0 0 0 1073775656 0 0 0 0 E
+27 -7 -17 27d5+345 18d4+20
+900 45000
+8 8 0
+BareHandAttack: 12
+Race: 10
+E
+#16003
+roc~
+a roc~
+A roc looms all about you.
+~
+   The shadow this enormous beast casts is enough to place you in momentary
+darkness.  Large enough to carry away a full sized elephant in it's grasp,
+and capable of biting a tree in half with it's large powerful beak, you
+shudder to think what this bird could do to a man...
+~
+204814 0 0 0 40 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+13
+0 60000
+8 8 0
+BareHandAttack: 3
+Race: 24
+E
+#16004
+dragonne~
+a dragonne~
+a dragonne is perched here.
+~
+   Perched upon a rock before you is what appears to be a huge lion.  The
+wings sprouting from the dragonne's shoulders are one thing, but the
+bronze scales all over the beast's body in place of fur are another, and
+are testaments to the wonder of this exotic beast.  Golden eyes look at you
+inquisitively.
+~
+237596 0 0 0 33832 0 0 0 0 E
+20 0 -10 20d5+210 13d4+16
+600 25000
+8 8 0
+BareHandAttack: 8
+Race: 10
+E
+#16005
+old climber~
+an old climber~
+An old climber pokes about here.
+~
+   This old-timer looks flustered, and totally bewildered.  A long, 
+furrowing beard trails down from the old man's chin, and craven eyes show
+the desperation of this poor old fellow.  Ripped clothes and small injuries
+cover the old man.  Evidently a climber who lost his way long ago...
+~
+2188 0 0 0 1048576 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+12
+400 37500
+8 8 0
+BareHandAttack: 13
+Race: 0
+E
+#16006
+stone spider~
+a stone spider~
+A stone spider crawls about here.
+~
+   You swear your looking at a strange rock formation, when you notice it
+move.  Eight legs carry this strange beast, sporting nasty looking mandibles
+and cold stone-like eyes.  The creature's body seems made of the stone itself
+and proves to be resilient against physical damage...
+~
+12 0 0 0 524416 0 0 0 0 E
+18 2 -8 18d5+190 12d4+12
+0 20000
+8 8 0
+BareHandAttack: 4
+Race: 14
+E
+#16007
+grey ooze~
+a grey ooze~
+A grey ooze gurgles about here.
+~
+   Your looking at an animated stone-colored puddle of goo.  Merely looking
+upon this strange beast is enough to disgust you, you don't even want to 
+think how this creature consumes it's prey.
+~
+253980 0 0 0 1073742880 0 0 0 0 E
+18 2 -8 18d5+190 12d4+12
+100 20000
+8 8 0
+BareHandAttack: 1
+E
+#16008
+goat~
+a goat~
+A goat grazes here.
+~
+  This goat has large nasty looking horns coming from it's head.  
+Fortunately, the goat seems to pay you no mind...
+~
+136 0 0 0 0 0 0 0 0 E
+18 2 -8 18d5+190 12d4+12
+0 20000
+8 8 0
+BareHandAttack: 6
+Noise: You hear small stones clattering down the mountainside nearby.
+E
+#16009
+stone golem~
+a stone golem~
+A stone golem lumbers mindlessly about here.
+~
+  A brutish humanoid creature created directly from the stone.  The
+creature's face is an expressionless slab of stone, and seemingly pays you
+no mind, as it moves about without apparent aim.
+~
+237592 0 0 0 558112 0 0 0 0 E
+19 1 -9 19d5+200 12d4+14
+20 22500
+8 8 0
+BareHandAttack: 6
+Noise: You hear the crunching of stone nearby.
+E
+#16010
+pegasus~
+a pegasus~
+A pegasus swoops about here.
+~
+   Flying through the sky with a graceful ease is one of the most beautiful
+creatures you've ever seen.  This white winged horse appears to walk on the
+air itself.  You have the feeling this winged horse is judging your 
+character, as it glances your way with it's warm, purple eyes.
+~
+2335000 0 0 0 33928 0 0 0 0 E
+21 -1 -11 21d5+220 14d4+22
+0 27500
+8 8 1
+Race: 22
+E
+$

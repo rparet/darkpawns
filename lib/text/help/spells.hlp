@@ -1,0 +1,1054 @@
+"ACID BLAST"
+
+Usage 	: cast 'acid blast'
+
+With this spell, the caster shoots forth a spray of deadly, flesh-dissolving
+acid from the fingertips of both hands. The spray is directed toward all non-
+group-member occupants in the room.
+#
+"ADRENALINE BOOST"
+
+Usage       : will 'adrenaline boost' 
+Accumulative: yes (duration)
+
+With this mind-skill, the psionic increases his body's adrenaline production,
+effectively making himself several degrees stronger.
+#
+ANIMATE DEAD "ANIMATE DEAD"
+
+Usage	: cast 'animate dead' corpse
+
+With a powerful prayer (or unholy curse!) a cleric may seek to
+infuse life into the dead. The resulting undead zombie will obey the cleric
+and follow loyally until destroyed.
+
+#
+BLESS
+
+Usage       : cast 'bless' <victim | object>
+Accumulative: Yes (duration)
+Duration    : 6 Hours, permanent for objects.
+
+Bless on a victim will improve the victims saving throw versus spells
+by 1, and furthermore improve the hitroll by 2.
+
+It is only possible to bless non-magic items, and the object blessed may 
+weigh no more than five pounds per level of caster. 
+
+A blessed weapon gains a hitroll modifier. Other blessed objects are not yet
+defined.
+#
+BLINDNESS
+
+Usage       : cast 'blindness' <victim>
+Accumulative: No
+Duration    : 2 hours.
+
+Blindness will blind a victim failing its saving throw.
+A blinded person will have -4 penalty to both hitroll and AC.
+
+See also: AC
+#
+"BURNING HANDS"
+
+Usage       : cast 'burning hands' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the chill touch spell.
+
+See also: "CHILL TOUCH"
+#
+"CALL LIGHTNING"
+
+Usage       : cast 'call lightning' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell will use the "force of nature" to make a lightning
+strike the victim.  It is therefore only possible to call lightning
+outside, and it has to be raining (or worse).
+
+See also: "CONTROL WEATHER", WEATHER
+#
+CAST
+
+Usage: cast '<spell name>' [target]
+
+For magickal people.  If you want to throw a spell at someone or something.
+
+Example:
+
+  > cast 'burning hands' <player>
+  Note that the name of the spell must be enclosed by "'"s.
+
+See also: help on each individual spell:
+
+Examples:
+
+  > help cure ligh
+  > help ventri
+  > help energy drain
+#
+"CELL ADJUSTMENT"
+
+Usage       : will 'cell adjustment' <self>
+
+The psionic focuses his mental abilities on his own healing processes,
+Causing his wounds to mend much faster than normal.
+#
+CHAMELEON
+
+Usage      : will 'chameleon' <self>
+
+The psionic change his colors to match the surroundings, effectively
+Becoming hidden in a room.  If successful, you can only be "sensed" 
+by the "sense life" spell.  Even if sensed your identity will remain 
+hidden. This is a rather taxing mental feat, and can only be attempted
+once per day.  You may be able to perform actions and still remain hidden,
+but the chances of this are slight.
+
+#
+"CHANGE DENSITY"
+
+Usage       : will 'change density' <self>
+
+The psionic changes the physical make-up of his body, assuming the
+ability  to walk, lie down, etc, on liquid surfaces.
+#
+"CHARM PERSON"
+
+Usage       : cast 'charm person' <victim>
+Accumulative: No
+
+It is not possible to charm anyone that is already charmed, if
+you're charmed yourself, or if the person is higher level than
+yourself.  The person will get a saving throw versus "paralysis".
+
+A charmed person will follow you, and not be able to attack you. You
+can order the charmed person using the order command. Monsters don't
+like being charmed, and a failed attempt will usually result in your
+being attacked.
+
+See also: FOLLOW, ORDER
+#
+"CHILL TOUCH"
+
+Usage       : cast 'chill touch' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the flame arrow spell.
+A victim failing its saving throw will get its strength
+reduced by one.
+
+See also: "FLAME ARROW"
+#
+"GLYPH OF SUMMONING" 
+
+Usage		: cast 'glyph of summoning'
+Accumulative: -
+Duration	: Instantaneous
+Save		: -
+
+This spell allows the caster to draw a magical gylph on the ground that
+Can be used to SUMMON beings.  It is very sensitive to movement and should
+Only be drawn in a place where the caster can be left undisturbed.
+
+See also: SUMMON
+
+#
+COLORSPRAY "COLOR SPRAY"
+
+Usage       : cast 'color spray' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+Send a colorful but deadly spray at your victim.
+This spell is more powerful than the lightning bolt spell.
+
+See also: "LIGHTNING BOLT"
+
+For help on actual color, see: ANSI
+#
+"CONJURE ELEMENTAL" CONJURE ELEMENTAL
+
+Usage		: cast 'conjure elemental'
+Accumulative: -
+Duration	: Varies per elemental type
+
+By means of this powerful conjuration spell, the magus can summon elementals
+from their planes of existence to aid him or her in battle or other tasks.
+In order to summon an elemental, a magus first needs to have the correct 
+reagents for the elemental type that he or she wishes to summon.  Information
+on elemental reagents can be found in books on arcane spellcraft, or consult
+your local sage.
+
+#
+"CONTROL WEATHER"
+
+Usage       : cast 'control weather' <'better' | 'worse'>
+Accumulative: Yes
+Duration    : -
+
+This spell will change the "course" of the current weather.
+It is useful if you want to alter the weather so you can cast another spell,
+call lightning for example.
+
+Obviously, you must be outside to cast this spell.
+
+Example:
+
+  > cast 'control wea' worse
+#
+"CREATE FOOD"
+
+Usage       : cast 'create food'
+Accumulative: -
+Duration    : Instantaneous
+
+This spell instantly creates a fresh mushroom.  The mushroom will be
+filling for the next (5+level) hours, up to a maximum of 24 hours.
+
+See also: "CREATE WATER"
+#
+"CREATE WATER"
+
+Usage       : cast 'create water' <drink container>
+Accumulative: No
+Duration    : Instantaneous
+
+Expect disastrous results if cast upon a drink container which contains
+another liquid than water.  Empty or water containers will be filled
+depending on the level of the caster.
+
+Double amount of water will be created if it is raining (or worse).
+
+See also: "CREATE FOOD"
+#
+"CURE BLIND"
+
+Usage       : cast 'cure blind' <victim>
+Accumulative: No
+Duration    : Instantaneous
+
+This spell will cure a person blinded by the "blindness" spell, it
+can not remove blindness caused by for example cursed items.
+#
+"CURE CRITIC"
+
+Usage       : cast 'cure critic' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+This spell cures many hitpoints of damage.
+
+#
+"CURE LIGHT"
+
+Usage       : cast 'cure light' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Cures minor wounds and scratches.
+#
+CURSE
+
+Usage       : cast 'curse' <victim | object>
+Accumulative: Yes
+Duration    : Several hours, permanent on objects.
+
+Curse cast on a person that fails the saving throw, will reduce their
+hitroll and damage roll significantly.  It will also reduce the saving
+throw versus paralysis by one. At higher levels, it is possible that
+a curse might cause the victim to have an unfortunate accident of the
+lethal type.
+
+When cast upon an object, the object will become undropable.
+#
+"DETECT ALIGNMENT"
+
+Usage       : cast 'detect alignment'
+Accumulative: Yes (Duration)
+Duration    : 12 hours + level
+
+Allows the caster to detect the alignment of those around them.
+Evil will show as a red aura, good in a blue aura.
+
+See also: "DETECT INVISIBILITY"
+#
+"DETECT INVISIBILITY"
+
+Usage       : cast 'detect invisibility' [self]
+Accumulative: Yes (Duration)
+Duration    : 12 hours + level
+
+This spell enables you to see invisible items and players.
+#
+"DETECT MAGIC"
+
+Usage       : cast 'detect magic' [self]
+Accumulative: Yes (Duration)
+Duration    : 12 hours + level
+
+This spell will let you see the magical aura surrounding magical
+objects.
+#
+"DETECT POISON"
+
+Usage       : cast 'detect poison' <victim | food | drink>
+Accumulative: No
+Duration    : Instantaneous
+
+Cast on food or drinks (drink containers) you will be able to
+sense if it is poisoned.
+
+Cast on a person you will be able to see if that person is
+poisoned.
+#
+DISINTEGRATION DISINTEGRATE
+
+Usage	:	cast 'disintegration' <victim>
+
+This powerful spell calls forth a beam of raw energy that can be directed
+by the caster.  Bewhere though, this energy is very unstable and can have
+devastating results if not used carefully!
+
+
+#
+"DISPEL EVIL"
+
+Usage       : cast 'dispel evil' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Special
+
+This spell will only affect evil creatures.  An evil person of level
+equal or less than caster will suffer much damage. While an evil person 
+of higher level will suffer slightly less damage.
+
+See also: DISPEL GOOD
+#
+"DISPEL GOOD"
+
+Usage       : cast 'dispel good' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Special
+
+This spell will only affect good creatures.  A good person of level
+equal or less than caster will suffer much damage. While a good person
+of higher level will suffer slightly less damage.
+
+See also: DISPEL EVIL
+#
+"DIVINE INTERVENTION" DIVINE INTERVENTION
+Usage       : cast 'divine intervention'
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for control
+
+The most powerful prayer an avatar can make, divine intervention will summon
+warrior angels from the avatars Gods to serve them for a short period of time.
+
+#
+DOMINATE
+
+Usage      : will 'dominate' <victim>
+
+The psionic forces his mental energies on the victim, over-coming any free
+thinking and assuming the ability to order the victim to do most anything.
+
+See also: FOLLOW, ORDER, MASS DOMINATE
+#
+"DREAM TRAVEL"
+
+Usage		: will 'dream travel'
+Accumulative: -
+Duration	: Instantaneous
+Save		: -
+
+By the means of this power, a Psionic can make his body travel thousands
+Of miles while he sleeps.  The psionic merely wills 'dream travel' and then
+Goes to sleep. Then he/she has a dream about the place they are going to, and
+When they awake, they find that they have arrived! A very efficient means of
+Transportation.
+ 
+
+#
+EARTHQUAKE
+
+Usage       : cast 'earthquake'
+Accumulative: -
+Duration    : Instantaneous
+Save        : -
+
+The spell causes an earthquake to occur in a small radius surrounding the
+caster. The earthquake will damage everyone in the room, save the caster and his or her friends.
+
+#
+"ENCHANT WEAPON"
+
+Usage       : cast 'enchant weapon' <weapon>
+Accumulative: No
+Duration    : Permanent
+
+This spell will enchant non-magical (non-modifying) weapons only.
+By non-modifying weapons we refer to weapons that might alter any
+ability such as, for example, damage.  The only way to know if a weapon
+is suitable for enchantment is to fully identify it.
+
+The enchantment will modify the weapon as:
+
+    Level    Hit Roll    Damage
+
+     0..17     +1         +1
+    18..19     +2         +1
+    20..20+    +2         +2
+
+Enchanted weapons become not useable by people of the caster's opposite
+alignment.
+
+#
+"ENCHANT ARMOR"
+
+Usage       : cast 'enchant armor' <armor>
+Accumulative: No
+Duration    : Permanent
+
+This spell will enchant non-magical (non-modifying) armor only. By
+non-modifying armor we refer to armor that might alter any ability such as,
+for example, damage.  The only way to know if a piece of armor is suitable 
+for enchantment is to fully identify it.
+The enchantment is based on the caster's level.
+Enchanted armor become not useable by people of the caster's opposite
+alignment.
+
+#
+"ENERGY DRAIN"
+
+Usage       : cast 'energy drain' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell sucks the life force from the victim, causing a
+tremendous amount damage.
+
+#
+"FLESH OF STONE"
+Usage      : will 'flesh of stone'
+
+The psionic's mental concentration changes his physical make-up, hardening the
+surface layer of skin to the density of stone, protecting the psionic from many
+light blows, and softening harder strikes.
+#
+FIREBALL
+
+Usage       : cast 'fireball' <victim>
+
+With a word of command, the caster shoots forth a ball of fire from his palm,
+incinerating the victim and dealing massive damage.
+
+See also: "COLOR SPRAY"
+#
+FLY
+
+Usage	: cast 'fly' <victim>
+
+Look ma, I'm flying! Useful for getting around in places you can't walk, like
+over water, deep chasms, sky castles, etc.
+
+#
+GATE
+
+Usage: cast 'gate'
+
+This spell, when cast in the secluded groves and magickal centers of energy
+where moongates normally appear, causes a portal to appear, regardless of
+the date or time. 
+
+This portal functions similar to other moongates; taking you to the farthest
+reaches of the cosmos where the moongates intersect in their
+faster-than-light paths of travel.
+
+Casting this spell in a room where a gate already exists can have strange,
+far-reaching side-affects. Few have returned to tell what those side-affects 
+actually are.
+
+See also: MOONGATE
+#
+HARM
+
+Usage       : cast 'harm' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+Using this spell, a priest can inflict grievous harm upon his or her enemies. 
+
+#
+HASTE
+Usage		: will 'haste' <self>
+Accumulative    : No
+Duration	: Instantaneous
+
+By use of this power, the Mystic can speed up his actions in movement as
+well as in combat.
+
+
+#
+HEAL
+
+Usage       : cast 'heal' <victim>
+Accumulative: No
+Duration    : Instantaneous
+
+Heal will heal all the hitpoints from a person, except 1d4 points.
+Maximum 100 points can be healed.  A victim who is blinded will also
+be cured by the heal spell.
+
+See also: "CURE BLINDNESS"
+#
+HELLFIRE
+Usage       : cast 'hellfire'
+Accumulative: No
+Duration    : Instantaneous
+
+Summon the flames of hell to scorch thy enemies.
+Let the pretenders drown in the fiery grave you create for them.
+#
+"HOLY WARD" WARD
+
+Usage	    : cast 'holy ward' <target>
+Accumulative: No   
+Duration    : Varies
+
+The holy ward grants magickal protection to the target against things that
+would normally damage him or her. 
+
+#
+"HOLY SHIELD"
+
+Usage	    : cast 'holy shield'
+Accumulative: No
+Duration    : Varies
+
+An improved version of the holy ward spell that allows you to ward your 
+entire party at one time.
+
+See also: HOLY WARD
+#
+INFRAVISION
+
+Usage       : cast 'infravision'
+Accumulative: Yes (Duration)
+Duration    : Varies by level of caster
+
+Allows the caster to detect the heat given off by objects giving them
+the ability to have much better vision in dark conditions.
+
+See also: "DETECT INVISIBILITY"
+#
+INVIGORATE
+
+Usage       : cast 'invigorate' <victim>
+
+This spell alleviates the pains of traveling, leaving the victim refreshed
+and ready to continue their journey.
+#
+INVISIBILITY
+
+Usage       : cast 'invisibility' <victim | object>
+Accumulative: No
+Duration    : 12 hours + level/2
+
+Makes the target of the spell invisible to everyone except those who have
+the "detect invisibility" spell.
+
+
+See also: "DETECT INVISIBILITY"
+#
+INVULNERABILITY INVULN GLOBE "GLOBE OF INVULNERABILITY"
+
+Usage        : cast 'globe of invulnerability' <self>
+Accumulative : No
+Duration     : Varies
+
+Drako's minor globe of invulnerability is an ancient spell, powerful and
+efficient. It protects the victim from a variety of attacks, as well as 
+increasing resistance to certain magickal offenses.
+#
+LAY HANDS "LAY HANDS"
+
+Usage: cast "lay hands" <self>
+
+This prayer-spell brings a flow of healing through the Paladin's hands, 
+restoring health to himself.
+
+#
+"LESSER PERCEPTION"
+Conquering the realm of the unseen, the psionic can focus his mental
+energies towards seeing the unseen.  This lesser version is great for 
+seeing in the dark, as well as seeing other people's true nature.
+
+See also: "GREATER PERCEPTION"
+#
+"GREATER PERCEPTION"
+Mastering the realm of the unseen, the psionic can focus his mental
+Energies towards seeing the normally hidden creatures in a room and
+invisible objects/creatures.
+
+See also: "LESSER PERCEPTION"
+#
+"GROUP HEAL"
+
+Usage    : cast 'group heal'
+
+This powerful prayer heals the caster's entire group.
+
+See also: HEAL
+#
+"GROUP RECALL"
+
+Usage    : cast 'group recall'
+
+This spell will recall the caster's entire group to their respective
+home towns, given they are not fighting and in the same room as the caster.
+
+See also: "WORD OF RECALL"
+#
+"GROUP INVISIBILITY" "GROUP INVIS"
+
+Usage		: cast 'group invisibility'
+Accumulative: No
+Duration	: Varies
+
+This powerful magick allows the magus to conceal his entire party behind a
+veil of invisibility.
+
+See also: INVISIBILITY, VISIBLE
+#
+LEVITATE
+
+Usage	: will 'levitate' <self>
+
+Using the power of mind-over-matter, the psionic can levitate himself into
+the air, hovering 2-3 feet above the ground (or water).
+#
+"LIGHTNING BOLT"
+
+Usage       : cast 'lightning bolt' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the shocking grasp spell.
+
+See also: "SHOCKING GRASP"
+#
+"FLAME ARROW"
+
+Usage       : cast 'FLAME ARROW' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+Causes a bolt of magical flame to be thrown from the casters hands at the
+victim.
+#
+"FLAME STRIKE" FLAME STRIKE
+
+Usage	    : cast 'flame strike' <victim>
+Accumulative: -
+Duration    : Varies
+Save        : Versus spell for half damage.
+
+Causes a bolt of fire from the heavens to come down and strike the victim.
+Will usually cause the victim to be set on fire and burn considerably. 
+Can only be used outdoors, of course.
+Fun for the whole family.
+#
+"MENTAL LAPSE" MENTAL LAPSE
+
+Usage	: will 'mental lapse' <victim>
+Accumulative: n/a
+Duration: Instantaneous
+Save: -
+
+Projecting a mental voice across virtually endless distance, the psionic
+Can stop <victim> from hunting the psionic. At the highest mastery level,
+The psionic can stop <victim> from hunting anyone.
+
+#
+METALSKIN
+
+Usage: cast 'metalskin' <target>
+Accumulative: Yes
+Duration: Varies
+Save: -
+
+Causes the target's skin to turn metallic, protecting them from damage.
+#
+"METEOR SWARM" METEOR SWARM
+
+Usage: cast 'meteor swarm'
+Accumultative: -
+Duration: Instantaneous
+Save: versus spell for half damage
+
+By means of this powerful magick, the magus can call meteors from the heavens
+down to smite all of his enemies in the room.  This can obviously only work
+when the magus is outdoors.
+
+#
+"MASS HEAL"
+
+Usage: cast 'mass heal' <target>
+
+Twice as strong as the heal spell, this powerful healing can only be
+cast by the most powerful of clerics and avatars.
+#
+"MASS DOMINATE"
+
+Usage: will 'mass dominate'
+
+An improved version of the dominate power that will assert your control
+over everyone in the room that is not in your party.  Useful for redominating
+part of your army that has strayed.
+
+#
+"MIND ATTACK" MINDATTACK
+
+Usage: will 'mind attack' <victim>
+
+A psionic's attack on the mind of a victim is an appalling sight. The 
+Victim first feels a mental invasion, which causes pressure that slowly
+increases to the point of extreme, incredible pain. The victim's brain, 
+revolting against the attack, sometime succumbs to the pressure, exploding 
+through the skull of the unfortunate victim.
+#
+"MIND BAR" MINDBAR
+
+Usage: will 'mind bar' <victim>
+
+By use of this power, the skilled psionic can place a mental bar across 
+his vicitim's mind, leaving the victim without access to his or her intellect.
+Successful barring leaves the victim dumbfounded, unable to speak or perform
+many other tasks.
+
+#
+"MIND BLAST" MINDBLAST
+
+Usage: will 'mind blast' <victim>
+
+A mental blast of pure psionic energy erupts from the attacker, surging
+Toward the victim and hitting their mind like a physical blow.
+#
+"MIND POKE" MINDPOKE
+
+Usage: will 'mind poke' <victim>
+
+A victim of this mind-spell receives a powerful jolt of psionic energy in
+their mind, causing level-based damage ranging from a mild head-ache to a
+physical hole.
+#
+"MIND SIGHT" MINDSIGHT
+
+Usage	: will 'mindsight' <victim>
+
+Using mental telepathy, the psionic "looks" through the eyes of the victim
+and sees the world wherever the victim may be. If the victim is of a 
+significantly higher level than the psionic, the psionic may not be able to
+penetrate their mind. It is also noted that certain races and peoples have
+natural shields against this type of psionic mind probing.
+Psionics in the victim's room (or the victim himself, if a Psionic) will be
+able to sense the sighting.
+
+#
+"MIRROR IMAGE" MIRROR IMAGE
+
+Usage: will 'mirror image'
+
+By using this powerful psionic ability, the mentalist may create a clone of
+himself.  This clone is not perfect, however, and will not stand up to close
+scrutiny.  It is however, useful for evading pursuers and fooling the enemy.
+#
+POISON
+
+Usage       : cast 'poison' <victim | food | drink>
+Accumulative: No.
+Duration    : Permanent on food and drinks.
+
+Casting poison on food or drink (containers) will poison it.  Eating
+poisoned food/drinks will poison the person eating or drinking.
+
+A person who is poisoned will suffer damage every hour, lose strength, and
+regenerate less points than usual.
+
+See also: "REMOVE POISON", "DETECT POISON"
+#
+"PROTECTION FROM EVIL"
+
+Usage       : cast 'protection from evil' <self>
+Accumulative: No
+Duration    : 24 hours
+
+Gives minor protection from the attacks of
+evil opponents, and wards off some aggressive mobs. 
+
+Note: casting this spell upon yourself when you are evil can have
+      disasterous side effects.
+
+#
+"PROTECTION FROM GOOD"
+
+Usage	    : cast 'protection from good' <self>
+Accumulative: No
+Duration    : About 24 hours
+
+Gives minor protection from the attacks of good opponents, and wards
+of those pesky do-gooders who always wish you harm.
+
+Note: casting this spell upon yourself while you are good can have
+      disasterous side effects.
+#
+PSIBLAST
+
+Usage		: will 'psiblast' <victim>
+Accumulative: -
+Duration	: Instantaneous
+Save        : versus psychic for half damage
+
+This incredibly powerful psionic attack is capable of devastating an opponent.
+The psionic must be careful, however, for this power is difficult to control.
+There is a chance that a psiblast might backfire on the psionic, causing
+permanent brain damage to him or her.
+
+#
+"PSYCHIC SHIELD" PSYCHIC
+
+Usage: will 'psychic shield' self
+Accumulative: -
+Duration: Instananeous
+Save: -
+
+By means of this power, the psionic can shield himself from damage done by others
+to him.  The psychic shield shields the psionic from normal, as well as magical and psychic
+attacks.
+
+#
+"RAY OF DISRUPTION" RAY DISRUPTION
+
+Usage	:	cast 'ray of disruption' <victim>
+
+Karnek's Ray of Disruption is one of the most powerful spells known. It
+calls forth a ray of pure energy that can burn through most anything. This
+spell can backfire, the results usually being fatal.
+
+#
+"REMOVE CURSE"
+
+Usage       : cast 'remove curse' <victim | object>
+Accumulative: No
+Duration    : Instantaneous
+
+Will remove a curse on carried objects or any persons in the room.
+#
+"REMOVE POISON"
+
+Usage       : cast 'remove poison' <victim | food | drink> 
+Accumulative: No
+Duration    : Instantaneous
+
+Will remove the affects of poison from a victim or an object.
+
+See also: POISON
+#
+SANCTUARY
+
+Usage       : cast 'sanctuary' <victim>
+Accumulative: Yes (Duration)
+Duration    : 4 hours
+
+When protected by sanctuary <victim> will only receive 1/2 the normal
+Damage caused by a particular blow. The default victim is the caster.
+
+See also: HOLY WARD, HOLY SHIELD, BLESS
+#
+"SHOCKING GRASP"
+
+Usage       : cast 'shocking grasp' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the burning hands spell.
+
+See also: "BURNING HANDS"
+#
+"SENSE LIFE"
+
+Usage       : cast 'sense life'
+Accumulative: Yes (Duration)
+
+Allows the caster to sense the presence of a player or monster in the
+room which is hiding.  The true identity will remain hidden however.
+Invisible persons are also considered hidden.
+
+See also: HIDE
+
+#
+"SHIFT REALITY" SHIFT REALITY
+Usage		: will 'shift reality'
+Accumulative: No
+Duration	: Instantaneous
+Save		: Versus psychic to prevent
+
+By use of this mental power, the psionic or mystic can shift their location
+in the material world to somewhere else.  Like all forms of psychic transfer,
+the mentalist has no control over where he or she ends up, making this power
+somewhat hazardous.
+
+#
+SLOW
+
+Usage		: cast 'slow' <victim>
+Accumulative: Yes
+Duration	: varies per level of caster
+
+Sends the forces of time against the victim, causing him to slow down
+In relation to other PC's and NPC's in the game. Primarily, this affects
+Combat and skill use.
+
+See also: HASTE
+#
+SMOKESCREEN SMOKE
+
+Usage       : cast 'smokescreen'
+Accumulative: No
+Duration    : varies per level of caster
+
+This spell creates a blinding cloud of acrid smoke that affects everyone
+In the room except the caster and those in his or her group.
+
+#
+"SOUL LEECH"
+
+Usage	: cast 'soul leech' <victim>
+
+The darkest and most feared of ninja magic abilities -- the power to steal
+life from another.  If successful, the ninja will gain about a third of the
+stolen life added to his own life total.
+
+#
+"SPELL STRENGTH"
+
+Usage       : cast 'strength' <victim>
+Accumulative: Yes (affect)
+Duration    : Level/2 + 4
+
+The target of this spell will benifit from increased strength for its
+duration.
+
+#
+SUMMON
+
+Usage       : cast 'summon' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Will summon a person of the name spoken.  It is not possible to summon
+Someone of three or more levels above yourself.  If you attempt to 
+summon a monster, it will get a saving throw, and won't appreciate the
+summon if it succeeds.
+
+The summon spell requires that a GLYPH OF SUMMONING be present in the
+Room for it to succeed.
+
+You can't summon a monster to a peaceful room, and you can't summon 
+<victim> from a room where magic is not allowed.
+
+On a failed summon attempt, <victim> is sometimes aware of the attempt, 
+and on massive failures, the caster is summoned TO the victim's location.
+
+See also: NOSUMMON
+#
+VITALITY
+
+Usage: cast 'vitality' <target>
+
+This spell restores the vital functions of the target, leaving them healthier 
+and refreshed.
+#
+WATERBREATHE
+
+Usage: cast 'waterbreathe' <target>
+
+The target gains the ability to breathe underwater like a fish. 
+This magick does not affect the targets ability to move underwater, however.
+
+#
+WATERWALK
+
+Usage: cast 'waterwalk' <target>
+
+Target gains the ability to walk on water. (and not just when it freezes!)
+
+#
+WILL
+
+Usage: will '<mind-skill name>' [target]
+
+For psionics.  If you want to use your mental abilities on someone or
+something. (i.e Force your will)
+
+Example:
+
+  > will 'mind poke' warg
+  Note that the name of the mind-skill must be enclosed by "'"s.
+
+See also: help on each individual mind-skill:
+
+Examples:
+
+  > help mind pok
+  > help levitate
+  > help domina
+#
+"WORD OF INTELLECT"
+
+Usage       : cast 'word of intellect'
+Accumulative: affect
+Duration    : about a quarter of a day
+
+This short prayer, if answered, causes the victim to become smarter for a 
+brief while. 
+
+#
+"WORD OF RECALL"
+
+Usage       : cast 'word of recall'
+Accumulative: -
+Duration    : Instantaneous
+
+The caster will be transferred back to his home-town sanctuary 
+(Whatever city you started in.)  Word of Recall cannot be used during combat.
+This applies to all forms of Word of Recall, whether it is a cast spell, 
+scroll, wand, etc.  You must be out of combat to use any items with Word of Recall or cast the spell.
+
+#
+ZEN
+
+Usage	: cast 'zen' <self>
+
+Instantly puts the caster into a meditative trance, used for focusing inner
+strengths on healing. While meditating, the caster's wound heal somewhat, but
+the caster is unable to move for a short time.
+
+#
+$

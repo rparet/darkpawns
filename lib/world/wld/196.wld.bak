@@ -1,0 +1,290 @@
+#19600
+An Immortal Room~
+This is a starting point for all of us who don't need doors or walkways to get
+around.  There is a map floating in the nothingness here for some guidance.
+~
+196 524 0 0 0 0
+E
+map~
+map goes here.
+~
+S
+#19601
+A Foreboding Cave Entrance~
+   An unusally dark cave opening looms to your north, its wall covered in
+strange writings, few of which you can comprehend.  There are two tall pikes
+on each side of the cave entrance, topped with human skulls.  You get the
+feeling that you are not welcome here.
+~
+196 8 0 0 0 0
+D0
+~
+~
+0 0 19602
+D2
+~
+~
+0 0 9724
+E
+writings~
+There are only a few words written in common on the wall. The boldest and
+most notable one reads 'Danger' in large script.
+~
+E
+skulls~
+Strips of flesh and bits of hair hang off them, telling you that these
+skulls on pikes were once human heads on pikes.
+~
+S
+#19602
+A Peaceful Meditation Room~
+The cave here has an unusually peaceful and relaxed feeling.  A comfortable
+mat lies in front of a bookcase on the north wall.  A ninja's book of
+meditations lies open on the mat, suggesting that the owner has been here
+recently; perhaps it would be best to leave before he returns.
+~
+196 8716 0 0 0 0
+D1
+~
+~
+0 0 19603
+D2
+~
+~
+0 0 19601
+S
+#19603
+The Chamber of Wisdom~
+A surprisingly well-lit room surrounds you.  There are no visible torches or
+even signs of magical intervention, but there is more than enough light to see
+clearly.  An open book stands on a pedestal in the center of the room, with
+some neat writing, which appears to read: 'Through conquest comes knowledge.'
+~
+196 2572 0 0 0 0
+D3
+~
+~
+0 0 19602
+S
+#19610
+Inside the Golden Pyramid~
+You are now inside the golden pyramid. The walls appear to be constructed from
+solid gold. A pungent green smoke fills the air, choking your lungs and leaving
+you confused. You can hear strange singing from an unknown direction, some
+type of folk music. On the floor lay three golden lamps, each emblazoned with
+an apple.
+~
+196 12 0 0 0 0
+D2
+~
+~
+0 0 19670
+D5
+~
+grate~
+2 19611 19611
+S
+#19611
+The Gallery~
+This is where the inhabitants apparently hold all important meetings. Topless
+women stand in all corners of the room, standing so still you almost didn't
+realize they were real. A large table is in the center of the room, with thirty
+chairs around it. Foot high golden letters across one wall read 'FREEDOM DEFINED
+IS FREEDOM DENIED'. The green smoke has made you very curious about this place,
+and you think you understand the meaning of the words. You don't, though, for
+you have never been free. Perhaps the owners of this place will teach you.
+~
+196 8716 0 0 0 0
+D0
+~
+~
+0 0 19612
+D1
+~
+~
+0 0 19614
+D4
+~
+grate~
+2 19611 19610
+S
+#19612
+A Shrine to The Goddess~
+This room is a shrine to a goddess. By looking around the room, you can't tell
+exactly what kind of goddess she is, though. There is a sacred feel about the
+room, or maybe it's just the blasted green smoke. An altar is here, and a golden
+apple is smoldering on it. The smoke is apparently coming from there.
+~
+196 2572 0 0 0 0
+D1
+~
+~
+0 0 19613
+D2
+~
+~
+0 0 19611
+S
+#19613
+A Peaceful Sanctum~
+In the center of this room, painted onto the floor is a large white peace sign.
+The walls are lined with cabinets containing valuable weapons and armors. From
+here you can walk west into the shrine, or south into a room that appears to be
+the site of a party.
+~
+196 524 0 0 0 0
+D2
+~
+~
+0 0 19614
+D3
+~
+~
+0 0 19612
+S
+#19614
+The Rumpus Room~
+Apparently the crew that runs this place takes nothing seriously. The green
+smoke you noticed upstairs is now almost impossibly thick down here. You'd be
+coughing and choking right now, if you hadn't started to like the way it's
+making you feel. Bunks and couches are strewn everywhere, and half-naked men
+stroke half-naked women to ecstasy on all of them, except of course the ones
+where the half-naked women are stroking the half-naked men. Some of them are
+singing, and all of them seem happy.
+~
+196 524 0 0 0 0
+D0
+~
+~
+0 0 19613
+D3
+~
+~
+0 0 19611
+S
+#19650
+The Ground floor of a Tall Tower~
+You stand just inside an enormous granite tower. A flight of spiral stairs
+leads upward to the next floor, passing through two glowing spheres of 
+magickal light. Tapestries adorn the walls, showing a powerful-looking
+mage pitted against a variety of creatures, many the likes of which you
+have never encountered.
+~
+196 76 0 0 0 0
+D2
+~
+door~
+2 19651 19654
+D4
+~
+~
+0 0 19651
+E
+tapestry tapestries~
+Ornate script woven into the fine fabric describes the mage as Mpande; the
+various creatures he is fighting in each range from dragons to dwarves.
+~
+E
+sphere spheres~
+They look like plain glass globes, but give off a magickal light.
+~
+S
+#19651
+The Second Floor of a Tall Tower~
+The great spiral staircase takes up most of this room, leading down to the 
+ground floor and up further into the tower. A flowering garden of assorted
+herbs and perennials surrounds the flowing fountain that takes up the
+center of the room.
+~
+196 8204 0 0 0 0
+D4
+~
+~
+0 0 19652
+D5
+~
+~
+0 0 19650
+S
+#19652
+The Treasure Room~
+This room is adorned with gold; from the etched gold-leaf that plates the
+floor to the solid gold pillars that support the floor above, the sight 
+takes your breath away. The spiral staircase that winds from below continues
+upward here, the cold grey stone blending harshly with the glittering excess
+before your eyes.
+~
+196 2572 0 0 0 0
+D4
+~
+~
+0 0 19653
+D5
+~
+~
+0 0 19651
+S
+#19653
+The Top of a Tall Tower~
+Windows on all four walls are made of a maickal glass; perfectly
+transparent and yet strong as rock.  The view of the countryside out
+them is quite breath-taking; from the mountains to the north to the
+smale desolate-looking village to the west.  Runes of power are 
+inscribed into the ceiling here, and a small pentagram has been
+etched into the floor.
+~
+196 524 0 0 0 0
+D5
+~
+~
+0 0 19652
+E
+Runes~
+They are runes of teleportation.
+~
+E
+pentagram~
+The pentagram is carved into the stone of the floor, directly beneath the 
+runes on the ceiling.
+~
+S
+#19654
+At the Base of a Tall Tower~
+Above you rises a tall tower of cold granite. The entrance to the north is a
+large ironwood door, easily large enough to pass a wagon through.
+~
+196 0 0 0 0 3
+D0
+~
+door~
+2 19651 19650
+D2
+~
+~
+0 0 9568
+D3
+~
+~
+0 0 9557
+S
+#19670
+Outside of the Pyramid~
+   You stand just outside of a squat, golden pyramid that has been nestled
+precariously in the cliffs on the Grey Mountains.  The entire structure can't
+be more than twelve feet high and twice as wide, but just looking at the
+perfectly formed structure tells you that looks can no doubt be deceiving.
+You may enter the pyramid by passing through an arched doorway to your north
+which is surrounded by mystic symbols the likes of which you have never
+seen.
+~
+196 0 0 0 0 5
+D0
+~
+~
+0 0 19610
+D2
+~
+~
+0 0 15108
+S
+$~

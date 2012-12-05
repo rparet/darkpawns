@@ -1,0 +1,1374 @@
+#19100
+Ghost Ship Entry Ramp~
+You see before you an ominous looking rickety old plank that seems to dare
+you to enter the dark and forboding ship looming before you.  You can hear
+what sounds like an unnatural wailing nearby...
+~
+191 284 0 0 0 0
+D2
+~
+~
+0 0 19174
+D4
+~
+~
+0 0 19101
+E
+map~
+map goes here.
+~
+S
+#19101
+Inside The Ghost Ship~
+As you enter the ghastly ship, it feels almost like you've entered another
+world.  A glowing fog seems to flicker in and out of the shadows all 
+around you.  It seems you are in the lower storage compartment of the ship.
+It is eerily silent here as you stand in the entrance...
+~
+191 44 0 0 0 0
+D0
+~
+~
+0 0 19110
+D1
+~
+~
+0 0 19107
+D3
+~
+~
+0 0 19102
+D5
+~
+~
+0 0 19100
+S
+#19102
+Cargo Room~
+All about you are ancient looking cargo boxes.  All of the contents are 
+rotted beyond any recognizable identification.  The floor boards below your
+feet give a low moaning creaking sound.  
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19103
+D1
+~
+~
+0 0 19101
+S
+#19103
+Cargo Room~
+All about you are ancient looking cargo boxes.  All of the contents are 
+rotted beyond any recognizable identification.  The floor boards below your
+feet give a low moaning creaking sound.  
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19108
+D2
+~
+~
+0 0 19102
+D3
+~
+~
+0 0 19104
+S
+#19104
+Cargo Room~
+All about you are ancient looking cargo boxes.  All of the contents are 
+rotted beyond any recognizable identification.  The floor boards below your
+feet give a low moaning creaking sound.  
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 0 19103
+D3
+~
+~
+0 0 19105
+S
+#19105
+Stairwell~
+Ancient looking decrepid stairs lead up into the gloomy unknown.  
+~
+191 12 0 0 0 0
+D1
+~
+~
+0 0 19104
+D4
+~
+~
+0 0 19106
+S
+#19106
+Stairwell~
+   Ancient-looking decrepit stairs lead down into the dank, musty-smelling,
+unknown.
+~
+191 12 0 0 0 0
+D1
+~
+~
+0 0 19115
+D5
+~
+~
+0 0 19105
+S
+#19107
+Cargo Room~
+All about you are ancient looking cargo boxes.  All of the contents are 
+rotted beyond any recognizable identification.  The floor boards below your
+feet give a low moaning creaking sound.  
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19112
+D3
+~
+~
+0 0 19101
+S
+#19108
+Cargo Room~
+All about you are ancient looking cargo boxes.  All of the contents are 
+rotted beyond any recognizable identification.  The floor boards below your
+feet give a low moaning creaking sound.  
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 0 19109
+D2
+~
+~
+0 0 19103
+S
+#19109
+Cargo Room~
+All about you are ancient looking cargo boxes.  All of the contents are 
+rotted beyond any recognizable identification.  The floor boards below your
+feet give a low moaning creaking sound.  
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 0 19111
+D2
+~
+~
+0 0 19110
+D3
+~
+~
+0 0 19108
+S
+#19110
+Cargo Room~
+All about you are ancient looking cargo boxes.  All of the contents are 
+rotted beyond any recognizable identification.  The floor boards below your
+feet give a low moaning creaking sound.  
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19109
+D2
+~
+~
+0 0 19101
+S
+#19111
+Cargo Room~
+All about you are ancient looking cargo boxes.  All of the contents are 
+rotted beyond any recognizable identification.  The floor boards below your
+feet give a low moaning creaking sound.  
+~
+191 8 0 0 0 0
+D2
+~
+~
+0 0 19112
+D3
+~
+~
+0 0 19109
+S
+#19112
+Cargo Room~
+All about you are ancient looking cargo boxes.  All of the contents are 
+rotted beyond any recognizable identification.  The floor boards below your
+feet give a low moaning creaking sound.  
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19111
+D1
+~
+~
+0 0 19113
+D2
+~
+~
+0 0 19107
+S
+#19113
+Cargo Room~
+All about you are ancient looking cargo boxes.  All of the contents are 
+rotted beyond any recognizable identification.  The floor boards below your
+feet give a low moaning creaking sound.  
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 0 19114
+D3
+~
+~
+0 0 19112
+S
+#19114
+Stairwell~
+Ancient looking decrepid stairs lead down into the dank, musty smelling,
+unknown.
+~
+191 12 0 0 0 0
+D3
+~
+~
+0 0 19113
+D5
+~
+~
+0 0 19159
+S
+#19115
+A Corridor~
+As you explore into the further reaches of the vessel, you become 
+startlingly aware of how almost tangible the evil and darkness is here.
+The low moaning sound that has accompanied you throughout this vessel
+seems especially louder nearby...
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19116
+D1
+~
+~
+0 0 19118
+D2
+~
+~
+0 0 19117
+D3
+~
+~
+0 0 19106
+S
+#19116
+A Corridor~
+As you explore into the further reaches of the vessel, you become 
+startlingly aware of how almost tangible the evil and darkness is here.
+The low moaning sound that has accompanied you throughout this vessel
+seems especially louder nearby...
+~
+191 8 0 0 0 0
+D2
+~
+~
+0 0 19115
+S
+#19117
+A Corridor~
+As you explore into the further reaches of the vessel, you become 
+startlingly aware of how almost tangible the evil and darkness is here.
+The low moaning sound that has accompanied you throughout this vessel
+seems especially louder nearby...
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19115
+S
+#19118
+The Brig~
+You are standing in the corridor of the brig.  Wails of pain seem to 
+eminate from the walls all about you, and almost drive you insane.
+The floorboards creak under you with each step, and make a noise not
+unlike that of dripping water.
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19119
+D1
+~
+~
+0 0 19123
+D2
+~
+~
+0 0 19121
+D3
+~
+~
+0 0 19115
+S
+#19119
+Guard Post~
+This small indescript area is comprised of little more than an old chair.
+Various torture devices lay about in gross disrepair.  
+~
+191 8 0 0 0 0
+D0
+Before you stands the entrance to an ancient holding cell of prisoners and
+stowaways.  There is a feeling of dread eminating from behind the bars,
+almost of an ancient misery seeking to be released....
+~
+Prisoncell door~
+2 19117 19120
+D2
+~
+~
+0 0 19118
+S
+#19120
+A Prison Cell~
+Your in a small area surrounded by old, rusty bars, some broken with age,
+others surprisingly strong.  Mold and mildew litter the floor, and there 
+is a thoroughly unappetizing smell all around you.  Various bones litter
+the floor about you.  
+~
+191 8 0 0 0 0
+D2
+~
+Prisoncell~
+2 19117 19119
+S
+#19121
+Guard Post~
+This small indescript area is comprised of little more than an old chair.
+Various torture devices lay about in gross disrepair.  
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19118
+D2
+~
+prison~
+2 19117 19122
+S
+#19122
+A Prison Cell~
+Your in a small area surrounded by old, rusty bars, some broken with age,
+others surprisingly strong.  Mold and mildew litter the floor, and there 
+is a thoroughly unappetizing smell all around you.  Various bones litter
+the floor about you.  
+~
+191 0 0 0 0 0
+D0
+~
+~
+2 19117 19121
+S
+#19123
+The Brig~
+You are standing in the corridor of the brig.  Wails of pain seem to 
+eminate from the walls all about you, and almost drive you insane.
+The floorboards creak under you with each step, and make a noise not
+unlike that of dripping water.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19152
+D1
+~
+door~
+1 0 19124
+D2
+~
+~
+0 0 19151
+D3
+~
+~
+0 0 19118
+S
+#19124
+The Galley~
+You have entered the ship's galley.  Old rusting pots and pans in a state
+of disrepair litter the area.  All about you lie mounds of some vile
+material mixed with the dust of the ages, forming a thoroughly 
+unnappetizing mess.  Tables and chairs, strewn about in a helter skelter
+fashion, are slowly falling apart.
+~
+191 12 0 0 0 0
+D0
+~
+~
+0 0 19156
+D1
+~
+~
+0 0 19125
+D2
+~
+~
+0 0 19154
+D3
+~
+~
+1 0 19123
+S
+#19125
+The Galley~
+You have entered the ship's galley.  Old rusting pots and pans in a state
+of disrepair litter the area.  All about you lie mounds of some vile
+material mixed with the dust of the ages, forming a thoroughly 
+unnappetizing mess.  Tables and chairs, strewn about in a helter skelter
+fashion, are slowly falling apart.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19157
+D1
+~
+~
+0 0 19126
+D2
+~
+~
+0 0 19158
+D3
+~
+~
+0 0 19124
+S
+#19126
+Stairwell~
+Ancient looking decrepid stairs lead up into the gloomy unknown.  
+~
+191 12 0 0 0 0
+D3
+~
+~
+0 0 19125
+D4
+~
+~
+0 0 19127
+S
+#19127
+Stairwell~
+Ancient looking decrepid stairs lead down into the dank, musty smelling,
+unknown.
+~
+191 4 0 0 0 0
+D3
+~
+~
+0 0 19128
+D5
+~
+~
+0 0 19126
+S
+#19128
+The Upper Deck~
+you are standing on the upper deck of the ship.  Scattered here and there
+are smashed boxes and heaps of rotting ropes.  The skies are mostly 
+concealed by the dank, old sails whipping about in the eery silence.  What
+sky you can see is a strange emptiness exuding a bitter cold that gets
+colder as you progress further, almost as if trying to stop you.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19149
+D1
+~
+~
+0 0 19127
+D2
+~
+~
+0 0 19148
+D3
+~
+~
+0 0 19129
+S
+#19129
+The Upper Deck~
+you are standing on the upper deck of the ship.  Scattered here and there
+are smashed boxes and heaps of rotting ropes.  The skies are mostly 
+concealed by the dank, old sails whipping about in the eery silence.  What
+sky you can see is a strange emptiness exuding a bitter cold that gets 
+colder as you progress further, almost as if trying to stop you.  Beside you
+is an old rope ladder leading up into the void, running parallel to the 
+sail.
+~
+191 4 0 0 0 0
+D0
+~
+~
+0 0 19147
+D1
+~
+~
+0 0 19128
+D2
+~
+~
+0 0 19146
+D3
+~
+~
+0 0 19130
+D4
+~
+~
+0 0 19170
+S
+#19130
+The Upper Deck~
+you are standing on the upper deck of the ship.  Scattered here and there
+are smashed boxes and heaps of rotting ropes.  The skies are mostly 
+concealed by the dank, old sails whipping about in the eery silence.  What
+sky you can see is a strange emptiness exuding a bitter cold that gets 
+colder as you progress further, almost as if trying to stop you.  Beside you
+is an old rope ladder leading up into the void, running parallel to the 
+sail.
+~
+191 4 0 0 0 0
+D0
+~
+~
+0 0 19139
+D1
+~
+~
+0 0 19129
+D2
+~
+~
+0 0 19145
+D3
+~
+~
+0 0 19131
+D4
+~
+~
+0 0 19135
+S
+#19131
+The Helm~
+An ageless imperfect wheel sets precariously on a rusted out base here,
+serving as the means of steering this vessel.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19143
+D1
+~
+~
+0 0 19130
+D2
+~
+~
+0 0 19144
+D3
+~
+~
+0 0 19132
+S
+#19132
+Before the ship's cabin.~
+You are standing on the threshold of one of the most evil places you have
+ever come across.  The dark, foreboding cabin before you has a physical
+evilness seeping from it at every nook and cranny.  The walls of the cabin
+seem alive with ancient souls, damned to forever ride this vessel from
+beyond...
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19142
+D1
+~
+~
+0 0 19131
+D2
+~
+~
+0 0 19141
+D3
+~
+cabin door~
+1 0 19133
+S
+#19133
+Ship's Cabin~
+You have entered a room that emits an almost tangible evil.  All about 
+you is darkness and you feel like you are blanketed in cold.  The only 
+light for this chamber seems to be originating from further inside these
+chambers...
+~
+191 76 0 0 0 0
+D1
+~
+cabin door~
+1 0 19132
+D3
+~
+~
+0 0 19134
+S
+#19134
+Captain's Chambers~
+As you enter the cabin's inner sanctum, you see to your right a large
+richly decorated bed, covered in mold and in a terrible state of decay.
+Against the right wall rests what appears to be a broken desk and rotted
+chair setting by it.  Ancient medallions and parchments line the walls and
+floor, either earned or stolen, the truth lost to time.  Your senses tell
+you that you have found the chambers of this vessel's captain...
+~
+191 0 0 0 0 0
+D1
+~
+~
+0 0 19133
+S
+#19135
+Rope ladder~
+You are climbing a rickity old ladder up into the unknown.  All around 
+you is darkness, and a cold wind whips against you.
+~
+191 384 0 0 0 5
+D4
+~
+~
+0 0 19136
+D5
+~
+~
+0 0 19130
+S
+#19136
+Rope ladder~
+You are climbing a rickity old ladder up into the unknown.  All around 
+you is darkness, and a cold wind whips against you.
+~
+191 384 0 0 0 5
+D4
+~
+~
+0 0 19137
+D5
+~
+~
+0 0 19135
+S
+#19137
+Rope ladder~
+You are climbing a rickity old ladder up into the unknown.  All around 
+you is darkness, and a cold wind whips against you.
+~
+191 384 0 0 0 5
+D4
+~
+~
+0 0 19138
+D5
+~
+~
+0 0 19136
+S
+#19138
+Crow's Nest~
+You are standing in a pulpit, suspended high above the vessel below you.
+A broken barrier stands about you preventing your fall to the deck below.
+There is an ethereal blue glowing mist as far as the eye can see in every
+direction....
+~
+191 324 0 0 0 0
+D5
+~
+~
+0 0 19137
+S
+#19139
+Main Deck~
+As far as the eye can see beyond this vessel is an ethereal blue glowing
+mist.  Your every sense tells you to avoid jumping over the edge of the
+boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+your fall into the stygian mists below.  Beside you, a plank is extended
+out toward the strange unknown, and blood is splattered all over the end
+opposite where you are currently standing...
+~
+191 4 0 0 0 0
+D0
+~
+~
+0 0 19140
+D1
+~
+~
+0 0 19147
+D2
+~
+~
+0 0 19130
+D3
+~
+~
+0 0 19143
+S
+#19140
+The Plank~
+The plank you are standing on looks as if it can barely support your weight.
+All about you is a soundless void....
+~
+191 288 0 0 0 0
+D2
+~
+~
+0 0 19139
+S
+#19141
+Main Deck~
+As far as the eye can see beyond this vessel is an ethereal blue glowing
+mist.  Your every sense tells you to avoid jumping over the edge of the
+boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+your fall into the stygian mists below.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19132
+D1
+~
+~
+0 0 19144
+S
+#19142
+Main Deck~
+As far as the eye can see beyond this vessel is an ethereal blue glowing
+mist.  Your every sense tells you to avoid jumping over the edge of the
+boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+your fall into the stygian mists below.
+~
+191 0 0 0 0 0
+D1
+~
+~
+0 0 19143
+D2
+~
+~
+0 0 19132
+S
+#19143
+Main Deck~
+As far as the eye can see beyond this vessel is an ethereal blue glowing
+mist.  Your every sense tells you to avoid jumping over the edge of the
+boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+your fall into the stygian mists below.
+~
+191 0 0 0 0 0
+D1
+~
+~
+0 0 19139
+D2
+~
+~
+0 0 19131
+D3
+~
+~
+0 0 19142
+S
+#19144
+Main Deck~
+As far as the eye can see beyond this vessel is an ethereal blue glowing
+mist.  Your every sense tells you to avoid jumping over the edge of the
+boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+your fall into the stygian mists below.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19131
+D1
+~
+~
+0 0 19145
+D3
+~
+~
+0 0 19141
+S
+#19145
+Main Deck~
+As far as the eye can see beyond this vessel is an ethereal blue glowing
+mist.  Your every sense tells you to avoid jumping over the edge of the
+boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+your fall into the stygian mists below.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19130
+D1
+~
+~
+0 0 19146
+D3
+~
+~
+0 0 19144
+S
+#19146
+Main Deck~
+As far as the eye can see beyond this vessel is an ethereal blue glowing
+mist.  Your every sense tells you to avoid jumping over the edge of the
+boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+your fall into the stygian mists below.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19129
+D1
+~
+~
+0 0 19148
+D3
+~
+~
+0 0 19145
+S
+#19147
+Main Deck~
+As far as the eye can see beyond this vessel is an ethereal blue glowing
+mist.  Your every sense tells you to avoid jumping over the edge of the
+boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+your fall into the stygian mists below.
+~
+191 0 0 0 0 0
+D1
+~
+~
+0 0 19149
+D2
+~
+~
+0 0 19129
+D3
+~
+~
+0 0 19139
+S
+#19148
+Main Deck~
+As far as the eye can see beyond this vessel is an ethereal blue glowing
+mist.  Your every sense tells you to avoid jumping over the edge of the
+boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+your fall into the stygian mists below.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19128
+D3
+~
+~
+0 0 19146
+S
+#19149
+Main Deck~
+As far as the eye can see beyond this vessel is an ethereal blue glowing
+mist.  Your every sense tells you to avoid jumping over the edge of the
+boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+your fall into the stygian mists below.
+~
+191 0 0 0 0 0
+D2
+~
+~
+0 0 19128
+D3
+~
+~
+0 0 19147
+S
+#19150
+A Prison Cell~
+Your in a small area surrounded by old, rusty bars, some broken with age,
+others surprisingly strong.  Mold and mildew litter the floor, and there 
+is a thoroughly unappetizing smell all around you.  Various bones litter
+the floor about you.  
+~
+191 12 0 0 0 0
+D0
+~
+~
+2 19117 19151
+S
+#19151
+Guard Post~
+This small indescript area is comprised of little more than an old chair.
+Various torture devices lay about in gross disrepair.  
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19123
+D2
+An old, wooden door.
+~
+door~
+2 19117 19150
+S
+#19152
+Guard Post~
+This small indescript area is comprised of little more than an old chair.
+Various torture devices lay about in gross disrepair.  
+~
+191 8 0 0 0 0
+D0
+~
+door~
+2 19117 19153
+D2
+~
+~
+0 0 19123
+S
+#19153
+A Prison Cell~
+Your in a small area surrounded by old, rusty bars, some broken with age,
+others surprisingly strong.  Mold and mildew litter the floor, and there 
+is a thoroughly unappetizing smell all around you.  Various bones litter
+the floor about you.  
+~
+191 0 0 0 0 0
+D2
+~
+~
+2 19117 19152
+S
+#19154
+The Galley~
+You have entered the ship's galley.  Old rusting pots and pans in a state
+of disrepair litter the area.  All about you lie mounds of some vile
+material mixed with the dust of the ages, forming a thoroughly 
+unnappetizing mess.  Tables and chairs, strewn about in a helter skelter
+fashion, are slowly falling apart.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19124
+D1
+~
+~
+0 0 19158
+D2
+~
+~
+1 0 19155
+S
+#19155
+The Head~
+You have entered an area of the utmost filth and stench.  You have entered
+the bathroom of this ship of the damned.  Before you is a totally rotted 
+toilet.  Lying about are smelly rotten rags, seemingly falling apart even
+as you look at them.  You wager a guess that this room hasn't had much use
+for many years considering the condition of the crew....
+~
+191 524552 0 0 0 0
+D0
+~
+~
+1 0 19154
+S
+#19156
+The Galley~
+You have entered the ship's galley.  Old rusting pots and pans in a state
+of disrepair litter the area.  All about you lie mounds of some vile
+material mixed with the dust of the ages, forming a thoroughly 
+unnappetizing mess.  Tables and chairs, strewn about in a helter skelter
+fashion, are slowly falling apart.
+~
+191 0 0 0 0 0
+D1
+~
+~
+0 0 19157
+D2
+~
+~
+0 0 19124
+S
+#19157
+The Galley~
+You have entered the ship's galley.  Old rusting pots and pans in a state
+of disrepair litter the area.  All about you lie mounds of some vile
+material mixed with the dust of the ages, forming a thoroughly 
+unnappetizing mess.  Tables and chairs, strewn about in a helter skelter
+fashion, are slowly falling apart.
+~
+191 0 0 0 0 0
+D2
+~
+~
+0 0 19125
+D3
+~
+~
+0 0 19156
+S
+#19158
+The Galley~
+You have entered the ship's galley.  Old rusting pots and pans in a state
+of disrepair litter the area.  All about you lie mounds of some vile
+material mixed with the dust of the ages, forming a thoroughly 
+unnappetizing mess.  Tables and chairs, strewn about in a helter skelter
+fashion, are slowly falling apart.
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19125
+D3
+~
+~
+0 0 19154
+S
+#19159
+Stairwell~
+Ancient looking decrepid stairs lead up into the gloomy unknown.  
+~
+191 8 0 0 0 0
+D3
+~
+~
+0 0 19160
+D4
+~
+~
+0 0 19114
+S
+#19160
+Bottom Deck~
+You are at the bottom floor of the immense vessel.  You wager a guess that
+this used to be the living quarters of the ship's crew, as there are
+overturned rotting beds all about, with bedstuffing lying about in clumps.
+Destroyed furniture lies about everywhere, and nondescript personal
+belongings of a long dead crew line the walls, and mix in with the 
+bedstuffing.  What a mess!
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 0 19159
+D3
+~
+~
+0 0 19161
+S
+#19161
+Bottom Deck~
+You are at the bottom floor of the emmense vessel.  You wager a guess that
+this used to be the living quarters of the ship's crew, as there are
+overturned rotting beds all about, with bedstuffing lying about in clumps.
+Destroyed furniture lies about everywhere, and nondescript personal
+belongings of a long dead crew line the walls, and mix in with the 
+bedstuffing.  What a mess!
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19168
+D1
+~
+~
+0 0 19160
+D2
+~
+~
+0 0 19166
+D3
+~
+~
+0 0 19162
+S
+#19162
+Bottom Deck~
+You are at the bottom floor of the emmense vessel.  You wager a guess that
+this used to be the living quarters of the ship's crew, as there are
+overturned rotting beds all about, with bedstuffing lying about in clumps.
+Destroyed furniture lies about everywhere, and nondescript personal
+belongings of a long dead crew line the walls, and mix in with the 
+bedstuffing.  What a mess!
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19167
+D1
+~
+~
+0 0 19161
+D2
+~
+~
+0 0 19165
+D3
+~
+~
+0 0 19163
+S
+#19163
+Bottom Deck~
+You are at the bottom floor of the emmense vessel.  You wager a guess that
+this used to be the living quarters of the ship's crew, as there are
+overturned rotting beds all about, with bedstuffing lying about in clumps.
+Destroyed furniture lies about everywhere, and nondescript personal
+belongings of a long dead crew line the walls, and mix in with the 
+bedstuffing.  What a mess!
+~
+191 0 0 0 0 0
+D1
+~
+~
+0 0 19162
+D3
+~
+~
+0 0 19164
+S
+#19164
+Bottom Deck~
+You are at the bottom floor of the emmense vessel.  You wager a guess that
+this used to be the living quarters of the ship's crew, as there are
+overturned rotting beds all about, with bedstuffing lying about in clumps.
+Destroyed furniture lies about everywhere, and nondescript personal
+belongings of a long dead crew line the walls, and mix in with the 
+bedstuffing.  What a mess!
+~
+191 8 0 0 0 0
+D0
+~
+door small~
+2 19118 19169
+D1
+~
+~
+0 0 19163
+S
+#19165
+Bottom Deck~
+You are at the bottom floor of the emmense vessel.  You wager a guess that
+this used to be the living quarters of the ship's crew, as there are
+overturned rotting beds all about, with bedstuffing lying about in clumps.
+Destroyed furniture lies about everywhere, and nondescript personal
+belongings of a long dead crew line the walls, and mix in with the 
+bedstuffing.  What a mess!
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19162
+D1
+~
+~
+0 0 19166
+S
+#19166
+Bottom Deck~
+You are at the bottom floor of the emmense vessel.  You wager a guess that
+this used to be the living quarters of the ship's crew, as there are
+overturned rotting beds all about, with bedstuffing lying about in clumps.
+Destroyed furniture lies about everywhere, and nondescript personal
+belongings of a long dead crew line the walls, and mix in with the 
+bedstuffing.  What a mess!
+~
+191 0 0 0 0 0
+D0
+~
+~
+0 0 19161
+D3
+~
+~
+0 0 19165
+S
+#19167
+Bottom Deck~
+You are at the bottom floor of the emmense vessel.  You wager a guess that
+this used to be the living quarters of the ship's crew, as there are
+overturned rotting beds all about, with bedstuffing lying about in clumps.
+Destroyed furniture lies about everywhere, and nondescript personal
+belongings of a long dead crew line the walls, and mix in with the 
+bedstuffing.  What a mess!
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 0 19168
+D2
+~
+~
+0 0 19162
+S
+#19168
+Bottom Deck~
+You are at the bottom floor of the emmense vessel.  You wager a guess that
+this used to be the living quarters of the ship's crew, as there are
+overturned rotting beds all about, with bedstuffing lying about in clumps.
+Destroyed furniture lies about everywhere, and nondescript personal
+belongings of a long dead crew line the walls, and mix in with the 
+bedstuffing.  What a mess!
+~
+191 0 0 0 0 0
+D2
+~
+~
+0 0 19161
+D3
+~
+~
+0 0 19167
+S
+#19169
+A Small Room~
+You are in a secreted little nondescript room.  This room is oddly in good
+shape in comparison to the rest of the vessel.
+~
+191 264 0 0 0 0
+D2
+~
+~
+2 19118 19164
+S
+#19170
+Rope ladder~
+You are climbing a rickity old ladder up into the unknown.  All around 
+you is darkness, and a cold wind whips against you.
+~
+191 0 0 0 0 0
+D4
+~
+~
+0 0 19171
+D5
+~
+~
+0 0 19129
+S
+#19171
+Rope ladder~
+You are climbing a rickity old ladder up into the unknown.  All around 
+you is darkness, and a cold wind whips against you.
+~
+191 0 0 0 0 0
+D4
+~
+~
+0 0 19172
+D5
+~
+~
+0 0 19170
+S
+#19172
+Rope ladder~
+You have reached the top of the ladder used to access the enormous sails
+of the ship.  All about you is darkness, and a bitter cold wind whips
+against you.
+~
+191 0 0 0 0 0
+D5
+~
+~
+0 0 19171
+S
+#19173
+On the Dock~
+   You stand on small floating dock, a narrow extension of the main pier
+to the west.
+~
+191 0 0 0 0 2
+D1
+~
+~
+0 0 12711
+D3
+~
+~
+0 0 4800
+S
+#19174
+On the Dock~
+You stand on a small wooden dock; to the north lies only water. To the south
+is the city gate.
+~
+191 32768 0 0 0 0
+D0
+~
+~
+0 0 19100
+D2
+~
+door iron~
+1 0 21209
+S
+$~

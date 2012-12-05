@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1523"
+   name=""
+   committed-date="2008-06-20T20:24:47.938361Z"
+   url="file:///var/svn/trunk/2.2/lib/scripts/room/30"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1523"
+   name="pattern_dmg.lua"
+   text-time="2008-07-09T01:02:48.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="6ed20caaf810ed88edf86b9d8991715a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:48.000000Z"/>
+<entry
+   committed-rev="1523"
+   name="pattern_3065.lua"
+   text-time="2008-07-09T01:02:48.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="5f685afb41052c031512ee891973fdc0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:48.000000Z"/>
+</wc-entries>

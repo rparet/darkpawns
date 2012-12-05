@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1517"
+   name=""
+   committed-date="2008-06-06T21:38:21.911134Z"
+   url="file:///var/svn/trunk/2.2/lib/text"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1436"
+   name="background"
+   text-time="2000-03-05T23:09:36.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="7708c3c577fce6d15c7a95a37e85e567"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="motd.old"
+   text-time="2003-09-19T01:46:50.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="8319e1619d1bc9d2990a46e7b13e6a64"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="messages.old"
+   text-time="2000-03-05T23:09:36.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="fb5aee16f5e502a4c23d7982f42b7641"
+   last-author="rparet"
+   kind="file"
+   prop-time="2008-04-28T01:31:25.000000Z"/>
+<entry
+   committed-rev="1436"
+   name="handbook"
+   text-time="2000-03-05T23:09:36.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="ff2bfc6615ae1b7636f7c343c400929e"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   name="help"
+   kind="dir"/>
+<entry
+   committed-rev="1436"
+   name="news.old"
+   text-time="2003-07-12T15:26:00.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="9814753b0a9d6aa30117055477bd2ab5"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="motd.new"
+   text-time="2003-09-19T01:06:18.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="6aa9a93170de975ddc243ab9a3480ed7"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="info"
+   text-time="2000-03-05T23:09:36.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="a68e76567ee8831a71092d7f2d2151e0"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="credits"
+   text-time="2000-03-05T23:09:36.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="33717452620c3fffd79b3d28c65f75e4"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="motd"
+   text-time="2005-10-03T05:57:53.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="b82158582a252ed6c8e5cff11f000868"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1517"
+   name="news.2003.07.12"
+   text-time="2008-06-19T18:46:59.000000Z"
+   committed-date="2008-06-06T21:38:21.911134Z"
+   checksum="390837db117036188ae25b10509c0a3c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-19T18:46:59.000000Z"/>
+<entry
+   committed-rev="1449"
+   name="wizlist"
+   text-time="2008-05-23T03:43:21.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="7fe528c257421631af6d6098205eefc6"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:21.000000Z"/>
+<entry
+   committed-rev="1436"
+   name="policies"
+   text-time="2000-03-05T23:09:36.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="622ec6255b54a9637742b2ba6a1246df"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="future.save"
+   text-time="2000-03-05T23:09:36.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="a30e715167037e089fda8ae82741c060"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="news.bak"
+   text-time="2000-03-05T23:09:36.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="0822175434fa4caec275d3fc42440c25"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="future"
+   text-time="2000-03-05T23:09:36.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="568843f48cc2936f556f1449608c46ba"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1436"
+   name="imotd"
+   text-time="2002-09-18T07:39:27.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="4bed32a478aa0556f6026aafd35efe95"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1516"
+   name="news"
+   text-time="2008-06-19T18:46:59.000000Z"
+   committed-date="2008-06-06T21:38:19.220648Z"
+   checksum="7dd1c230682cb4d7d62833ae02680386"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-06-19T18:46:59.000000Z"/>
+<entry
+   committed-rev="1436"
+   name="immlist"
+   text-time="2000-03-05T23:09:36.000000Z"
+   committed-date="2008-04-28T01:31:54.029146Z"
+   checksum="326ac1b5755ef54ae258f0ea9ca15d45"
+   last-author="rparet"
+   kind="file"/>
+</wc-entries>

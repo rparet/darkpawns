@@ -1,0 +1,2071 @@
+#5700
+The Silent Tower~
+You stand inside a room-within-a-room in the silent tower. Once a terrible
+punishment for magii, a room where magic is impossible, yet now the home of
+Antryg. It was he who crushed the power of the church Witchfinders and made
+this place his palace.
+~
+57 132 0 0 0 0
+D5
+~
+~
+0 0 1205
+S
+#5701
+The Air Elevator~
+  The limestone walls of this chamber have been worked smooth. At the center 
+is a 5' round flat wood platform circled with a broad band of silver. Ivory 
+runes and glyphs are inlaid into the silver band. Ten feet up in the center 
+of the ceiling is a 10' wide dark circular opening. This chimney reaches 
+upward into the rock as far a you can see. On the east wall is a large brass 
+plaque in the common tongue.
+~
+57 8 0 0 0 0
+D2
+~
+door~
+1 -1 5710
+E
+chimney opening~
+The chimney is about 10' in diameter and rough hewn.
+~
+E
+glyphs silver band runes ivory~
+The glyphs are unreadable and appear to be magical.
+~
+E
+platform~
+You see a 5' round flat wood platform circled with a broad band of silver. It
+floats slightly off the ground, yet doesn't appear to be movable.
+~
+E
+door~
+A heavily tarnished thick door of brass.
+~
+E
+sign brass plaque~
+T he sign reads: "Danger do not break circumscription when in operation."
+-- Sumuni Elementi Avia Elevata
+~
+S
+#5702
+Northern End of the Beach~
+  The beach ends here as the plateau juts out into the sea.  As you stand 
+at the base and look up, you think better of trying to climb it.  Sea spray 
+fills your nostrils as the waves continue their relentless assault on the rock
+invading it's domain and the roar of the collisions makes hearing difficult.
+To the east are more cliffs, to the west a heavy surf.  There is a sign 
+attached to a rock here.
+~
+57 0 0 0 0 2
+D2
+You see a beach stretching off south into the distance.
+~
+sand~
+0 -1 5706
+D3
+You see a heavy surf crashing into the beach and cliff base.
+~
+~
+0 -1 5715
+E
+sand~
+It's sand.  Kinda gritty.  It feels good between the toes and tends to find
+it's way into every meal when eating on the beach.
+~
+E
+cliff rock stone~
+You put your nose to the cliff face.  Yup, it's stone and it's wet and 
+it's slippery.
+~
+E
+sign~
+CAUTION: Heavy surf and undertow, swim at your own risk!!
+~
+S
+#5703
+A Dark Tunnel~
+  You are in a dark tunnel, the gold no longer lines the walls, just a
+pervasive dampness.  The rivulet still meanders down the sandy floor of
+the tunnel.
+~
+57 9 0 0 0 0
+D1
+In the dim light you see the tunnel continues.
+~
+~
+0 -1 5704
+D2
+In the dim light you see the tunnel continues.
+~
+~
+0 -1 5707
+S
+#5704
+A Dark Tunnel~
+  You are in a dark tunnel, the gold no longer lines the walls, just a
+pervasive dampness.  The rivulet still meanders down the sandy floor of
+the tunnel.
+~
+57 9 0 0 0 0
+D2
+In the dim light you see the tunnel continues.
+~
+~
+0 -1 5708
+D3
+In the dim light you see the tunnel continues.
+~
+~
+0 -1 5703
+S
+#5705
+In the Surf~
+  You are up to your chest in the surf and the water is cool.  The sand 
+swirls beneath your feet and the waves suck at you ominously causing you 
+to continually adjust your balance.  There is a large sign with bold 
+lettering sticking up from the edge of the surf. 
+~
+57 0 0 0 0 6
+D0
+The spray gets in your eyes, but it looks like more surf.
+~
+~
+0 -1 5715
+D1
+You see the safety of the beach just east of here.
+~
+~
+0 -1 5706
+D2
+The spray gets in your eyes, but it looks like more surf.
+~
+~
+0 -1 5716
+D3
+You see visions of boat anchors ...
+~
+~
+0 -1 5718
+E
+sign~
+CAUTION: Dangerous undertow, turn back NOW unless you have gills.
+~
+S
+#5706
+Middle of the Beach~
+You stand at the base of a very steep cliff on a wide sandy beach.  The 
+beach stretches to the north and south and to the west the beach slopes
+downward reaching out into a pounding surf.  Along the base of the cliff
+is chaotic piles of driftwood and storm debris indicating the high-tide 
+line.  It looks like you would be safe but might make for an uncomfortable
+night as there isn't much legroom at high tide.  The cliff itself is very rough 
+and is filled with numerous small cave openings all along the beach, both at 
+beach level as well as higher up on the cliffs.  Birds fly in and out of 
+many of them.
+~
+57 0 0 0 0 2
+D0
+You see a beach stretching off north into the distance.
+~
+~
+0 -1 5702
+D1
+You see countless cave openings.  Where shall you ever begin ...
+~
+~
+0 -1 5707
+D2
+You see a beach stretching off south into the distance.
+~
+~
+0 -1 5711
+D3
+You see a pounding surf.
+~
+~
+0 -1 5705
+E
+sand~
+It's sand.  Kinda gritty.  It feels good between the toes and tends to find
+it's way into every meal when eating on the beach.
+~
+S
+#5707
+Beyond the Golden Way~
+Huge chunks of gleaming gold encrust the walls, ceiling and floor for the 
+first 10' of this gloomy cavern. A gurgling rivulet of water meanders along 
+the sandy floor from the darkness ahead and out of the entrance.
+~
+57 8 0 0 0 0
+D0
+In the dim light you see the tunnel continues.
+~
+~
+0 -1 5703
+D3
+You see the waves pounding the beach through the opening of the cave.
+~
+~
+0 -1 5706
+E
+gold wall walls floor ceiling ~
+You see hunks of gold all around you.  If you only had a miner's chisel 
+you'd be set for life. You make a mental note as to the location of this
+place, information like that is priceless.
+~
+S
+#5708
+Gate of Iron~
+A badly rusted and corroded iron gate reaching from floor to ceiling and
+wall to wall stands here blocking your way inward. The rivulet escapes 
+from beneath the decaying portal with scant inches to spare. The floor
+here has changed from the sandy floor to hard bedrock.
+~
+57 9 0 0 0 0
+D0
+In the dim light you see the tunnel continues.
+~
+~
+0 -1 5704
+D1
+Peering intently through the gate you see the tunnel continues and turns
+south just on the other side.
+~
+~
+1 -1 5709
+E
+gate iron portal~
+The gate is badly corroded.  It is doubtful the lock can be picked, but 
+the gate looks pretty unstable.
+~
+S
+#5709
+Inside the Gate~
+  Your are on the other side of the now defunct gate. A cool moist breeze
+comes from the south and the rivulet is less discernible here, more like a
+sheet of water than any organized flow.
+~
+57 9 0 0 0 0
+D2
+A small cavern can be dimly seen beyond. The sound of running
+water echoes in a soft staccato from the cave walls.
+~
+~
+0 -1 5712
+D3
+Looking back through the gate you can see the tunnel continues curving to
+the North.
+~
+gate~
+1 -1 5708
+E
+gate iron portal~
+Once a sturdy barrier, it is in sad shape now.
+~
+S
+#5710
+The Brass Door~
+  A heavily tarnished thick door of brass prevents passage beyond here. 
+The door has a keyhole halfway down its left side and no visible handle 
+or hinges.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5701
+D2
+The tunnel leads back South.
+~
+~
+0 -1 5713
+E
+door~
+The door measures 7' high by 3' wide and there's not much space to maneuver.
+~
+S
+#5711
+Southern End of the Beach~
+  The beach ends here as the plateau juts out into the sea.  As you stand 
+at the base and look up, you think better of trying to climb it.  Sea spray 
+fills your nostrils as the waves continue their relentless assault on the rock
+invading it's domain and the roar of the collisions makes hearing difficult.
+To the east are more cliffs, to the west a heavy surf.  There is a sign 
+attached to a rock here.
+~
+57 0 0 0 0 2
+D0
+You see a beach stretching off north into the distance.
+~
+~
+0 -1 5706
+D3
+You see a heavy surf crashing into the beach and cliff base.
+~
+~
+0 -1 5716
+E
+sand~
+It's sand.  Kinda gritty.  It feels good between the toes and tends to find
+it's way into every meal when eating on the beach.
+~
+E
+cliff rock stone~
+You put your nose to the cliff face.  Yup, it's stone and it's wet and 
+it's slippery.
+~
+E
+sign~
+CAUTION: Heavy surf and undertow, swim at your own risk!!
+~
+S
+#5712
+Rain and Moss~
+  Cool drops of water rain down from thickly clustered stalactites 
+suspended from the ceiling. Dark clumps of moss cling to cave formations
+on the floor and wall of the north side of this small cavern. Dark exits
+can be seen in the east and north walls.
+~
+57 9 0 0 0 0
+D0
+The tunnel continues North.
+~
+~
+0 -1 5709
+D1
+The tunnel continues East.
+~
+~
+0 -1 5713
+E
+moss~
+You've heard of moss growing on the Northern side of tress, but caves?!?
+~
+E
+formations stalactites~
+You stare in awe at the incredible formations.  After a moment, you regain
+your senses.
+~
+S
+#5713
+A Dark Tunnel~
+  To the west can dimly be seen a large cavern.  To the north the tunnel continues.  The dampness on the walls here seems slightly less.
+~
+57 9 0 0 0 0
+D0
+The tunnel continues North.
+~
+~
+0 -1 5710
+D3
+A small cavern can be dimly seen beyond. The sound of running
+water echoes in a soft staccato from the cave walls.
+~
+~
+0 -1 5712
+S
+#5714
+A L O N G F A L L!!~
+
+  AAAAAIIIIIEEEEEEEEEE!!!!!!!
+
+S        P        L        A        T        !        !        !
+
+You should be more careful around dangerous precipices next time!
+~
+57 2 0 0 0 0
+S
+#5715
+North End of Surf~
+  You are waist deep in the surf and the rocks underwater are very slippery.  
+Combined with the wash of the surf from the base of the cliff, footing is,
+shall we say, treacherous. To the north the cliff base still blocks your 
+way.  To the west is certain death, to the east is the relative safety of 
+the beach.  Maybe you'd better turn back now.
+~
+57 0 0 0 0 6
+D1
+You see the beach beckoning to you.
+~
+~
+0 -1 5702
+D2
+More water, argh!  If only you were a Merman!
+~
+~
+0 -1 5705
+D3
+You think about going out a little further and your life flashes before 
+your eyes.
+~
+~
+0 -1 5717
+S
+#5716
+South End of Surf~
+  You are waist deep in the surf and the rocks underwater are very slippery.  
+Combined with the wash of the surf from the base of the cliff, footing is,
+shall we say, treacherous. To the south the cliff base still blocks your 
+way.  To the west is certain death, to the east is the relative safety of 
+the beach.  Maybe you'd better turn back now.
+~
+57 0 0 0 0 6
+D0
+More water, argh!  If only you were a Mermaid!
+~
+~
+0 -1 5705
+D1
+You see the beach beckoning to you.
+~
+~
+0 -1 5711
+D3
+You think about going out a little further and the thought 'fish food' 
+comes to mind.
+~
+~
+0 -1 5719
+S
+#5717
+Deep Surf~
+  As  the undertow sucks you down and your lungs 
+fill with water, you realize what an ...
+
+I D I O T!!
+
+... you were not to take the warning advice.  Maybe in 
+your next life you will use the brain your god gave you.
+~
+57 2 0 0 0 0
+S
+#5718
+Deep Surf~
+  As  the undertow sucks you down and your lungs 
+fill with water, you realize what an ...
+
+I D I O T!!
+
+... you were not to take the warning advice.  Maybe in 
+your next life you will use the brain your god gave you.
+~
+57 2 0 0 0 0
+S
+#5719
+Deep Surf~
+ As  the undertow sucks you down and your lungs 
+fill with water, you realize what an ...
+
+I D I O T!!
+
+... you were not to take the warning advice.  Maybe in 
+your next life you will use the brain your god gave you.
+~
+57 2 0 0 0 0
+S
+#5720
+The Kitchen~
+  Along the west wall of this room is a table with cupboards above and below.
+Along the south wall is a thick wood table with several knives and cleavers
+stuck in it. Discarded chunks of vegetables litter its top. Recessed into 
+the north wall is a large fireplace in which hangs an iron pot above a fire.
+The pot gives forth the pleasing aroma of simmering vegetables and spices.
+~
+57 8 0 0 0 0
+D1
+~
+door~
+1 -1 5721
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5721
+End of the Hallway~
+  You've reached the end of the hallway.  There are doors to the east 
+and West.
+~
+57 9 0 0 0 0
+D1
+~
+door~
+1 -1 5722
+D2
+~
+~
+0 -1 5727
+D3
+~
+door~
+1 -1 5720
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5722
+The Larder~
+  Running the length of the east wall from floor to ceiling of this room
+are shelves stuffed with boxes and tins. From the north wall protrude three
+spigots with symbols painted above them. In the south wall are several bins
+also painted with symbols. 
+~
+57 8 0 0 0 0
+D3
+~
+door~
+1 -1 5721
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5723
+Circle of Battle~
+  A thirty foot in diameter ring of silver and gold glyphs is inlaid into the
+floor here. At the center of the circle is a 3 foot square iron grate. From
+beneath the grate comes a red glow. 
+~
+57 8 0 0 0 0
+D2
+~
+door~
+1 -1 5729
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5724
+Bottom of the Pool~
+  You are at the bottom of the pool.  It's pretty murky down here.  Did you 
+remember to hold your breath?
+~
+57 9 0 0 0 0
+D4
+~
+~
+0 -1 5725
+S
+#5725
+The Pool~
+  A square pool of murky water covered by seaweed is found here. The pool is
+fed by streams of water issuing from the mouths of large exquisitely carved
+green jade frogs at each corner. The smell of brine and decay hangs heavy in
+the air.
+~
+57 9 0 0 0 0
+D2
+~
+door~
+1 -1 5730
+D5
+~
+~
+0 -1 5724
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5726
+Main Store Room~
+  Many kegs and barrels are neatly stacked in this room.
+~
+57 8 0 0 0 0
+D1
+~
+door~
+1 -1 5727
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5727
+In the Hallway~
+  You are in the middle of a short hallway.  The hallway continues to the 
+North and south and doors are on the east and west walls.
+~
+57 9 0 0 0 0
+D0
+~
+~
+0 -1 5721
+D1
+~
+door~
+1 -1 5728
+D2
+~
+~
+0 -1 5733
+D3
+~
+door~
+1 -1 5726
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5728
+Guests Dining Hall~
+  A 30' long 5' wide table surrounded by chairs runs down the center of
+this room. A lone still figure stands stooped over the table. At the east
+end is a window showing the forest outside.
+~
+57 8 0 0 0 0
+D3
+~
+door~
+1 -1 5727
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5729
+Warning Message~
+  A message in common tongue has been carved into the stone above the lintel
+of the door at the end of this hall. The message reads "CIRCLE OF TESTING
+Authorized personnel only. You are entering a restricted zone"
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5723
+D2
+~
+~
+0 -1 5739
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5730
+A Short Hallway~
+  You are in a short hallway that turns to the east and dead ends.  The 
+hallway continues to the south and there is a door in the north wall.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5725
+D2
+~
+~
+0 -1 5740
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5731
+Conjurers Quarters~
+  The door to this room opens a few inches and then something stops it.
+At the foot of his bead in the NE corner is a chest.
+~
+57 9 0 0 0 0
+D2
+~
+door~
+1 -1 5741
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5732
+Student Evokers Quarters~
+  Lying in a bed in the NE corner of this room is an elf with his head 
+propped up on a pillow. He holds before him a large open book. His eyes
+stare wide open at the book. Hanging over the end of the bed is a robe.
+~
+57 9 0 0 0 0
+D2
+~
+door~
+1 -1 5742
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5733
+At a Hallway Intersection~
+  You are at the junction of two hallways. The Hallways lead east and North.
+To the south is a door.
+~
+57 9 0 0 0 0
+D0
+~
+~
+0 -1 5727
+D1
+~
+~
+0 -1 5734
+D2
+~
+door~
+1 -1 5743
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5734
+End of the Hallway~
+  You've reached the end of the hallway.  You can return to the west or there
+is a door to the south.
+~
+57 9 0 0 0 0
+D2
+~
+door~
+1 -1 5744
+D3
+~
+~
+0 -1 5733
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5735
+Domed Chamber~
+  A milky white translucent substance forms a 20' high domed ceiling here.
+At three equidistant points on the floor along the walls are small concave
+mirrors pointed at an upward angle toward the center of the room. 
+Protruding from each mirror face is a small and delicate, empty, silver 
+wire basket.
+~
+57 8 0 0 0 0
+D5
+~
+~
+0 -1 5736
+S
+#5736
+The Face of Fear~
+  You've climbed nearly 70' high when strong winds begin to swirl about. 
+Soon a multicolor maelstrom centers itself in the room above you. From its
+middle grows larger and larger until it fills the area the visage of an 
+angry dark-haired man. He speaks in a booming ominous voice which crackles
+with power "Turn back defilers of this place! Or suffer my wrath!"
+~
+57 8 0 0 0 0
+D4
+~
+~
+0 -1 5735
+D5
+~
+~
+0 -1 5737
+S
+#5737
+Halfway Up the Stairs~
+  You are halfway up the set of stairs.  The fact that there is no visible 
+means of support for the stairs and that there is no railing makes you kind
+of uncomfortable.
+~
+57 8 0 0 0 0
+D4
+~
+~
+0 -1 5736
+D5
+~
+~
+0 -1 5738
+S
+#5738
+Lower Tower Chamber~
+  A series of marble slabs form steps suspended in mid air and rise upward 
+in a spiral along the walls of this chamber. A hidden door in the east wall
+slowly opens and from it steps a large manlike creature. An iron band 
+encrusted with gems encircles its head. The creature stands at the bottom 
+of the stairs mute and unmoving.
+~
+57 8 0 0 0 0
+D1
+~
+door~
+1 -1 5739
+D2
+~
+door~
+1 -1 5759
+D4
+~
+~
+0 -1 5737
+S
+#5739
+Exercise Hall~
+  There are two men in nightclothes frozen in fighting stances and wielding
+longswords near the middle of this room. On one of the mens head hangs at an
+odd angle a jeweled iron ring. A drab curtain covers an area 30' wide 10' 
+out from the west wall. There is a door in the north wall and an archway in
+the NW corner. A bedraggled looking bearded old man peeks out from behind 
+one of the men laughs hysterically and says "The ring of battle is what you
+seek. You'll gain a pretty bauble if you be not weak." and points to the 
+archway.
+~
+57 8 0 0 0 0
+D0
+~
+~
+0 -1 5729
+D1
+~
+door~
+1 -1 5740
+D3
+~
+door~
+1 -1 5738
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5740
+Hallway Intersection~
+  You are at the intersection of two hallways.  The hallways continue to the 
+North, East, and South.  To the west is a door.
+~
+57 9 0 0 0 0
+D0
+~
+~
+0 -1 5730
+D1
+~
+~
+0 -1 5741
+D2
+~
+~
+0 -1 5754
+D3
+~
+door~
+1 -1 5739
+S
+#5741
+A Door Lined Hallway~
+  You are in a short door-lined hallway.  There are doors to the north and
+South.  The hallway continues east and West.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5731
+D1
+~
+~
+0 -1 5742
+D2
+~
+door~
+1 -1 5748
+D3
+~
+~
+0 -1 5740
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5742
+A Door Lined Hallway~
+  You are in a short door-lined hallway.  There are doors to the North, East,
+and South.  The hallway continues West.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5732
+D1
+~
+door~
+1 -1 5743
+D2
+~
+door~
+1 -1 5749
+D3
+~
+~
+0 -1 5741
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5743
+Top of the Shaft~
+The platform stops gently at floor level and in the center of a 30' square
+room. As soon as you step off the platform, it silently drops back down 
+the chimney. Peering over the edge, you decide you might want to be very
+careful about where you step. There are brass-bound oak doors at the center
+of the north, south and west walls.
+~
+57 8 0 0 0 0
+D0
+~
+door~
+1 -1 5733
+D2
+~
+door~
+1 -1 5750
+D3
+~
+door~
+1 -1 5742
+D5
+Looking down you see a faint glow, presumably from the room you just came
+from.  It doesn't like like there are any safety measures.  A mis-step would
+probably be FATAL!
+~
+~
+0 -1 5714
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5744
+Lounge Area~
+A large fireplace with flames cheerily dancing within covers the west wall
+of this room. Above the fireplace are three dusty portrait paintings and
+near it on the north side of the room sits an overstuffed armchair.  Down 
+the center of the room lies an oriental rug.  To the north and south are 
+single doors and to the east is a set of double doors.
+~
+57 8 0 0 0 0
+D0
+~
+door~
+1 -1 5734
+D1
+~
+door~
+1 -1 5745
+D2
+~
+door~
+1 -1 5751
+E
+1.portrait~
+It is a portrait of an aged human with long white hair. There is a title
+at the bottom that reads:
+
+The First Guardian
+~
+E
+doors~
+The doors are one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+E
+fire fireplace flames~
+The fireplace burns brightly but emits no smoke. Investigation reveals that
+it does emit heat.  It must be magikal.
+~
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5745
+A Short Flight of Stairs~
+A short flight of stairs leads down to another set of doors.
+~
+57 9 0 0 0 0
+D1
+~
+door~
+1 -1 5746
+D3
+~
+door~
+1 -1 5744
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5746
+Sealed Exit~
+  Two windows are in the north and south walls of this room. Through them 
+can be seen a pinewood forest not far in the distance. At the center of 
+the east wall is another set of double doors.
+~
+57 8 0 0 0 0
+D1
+~
+door~
+1 -1 5747
+D3
+~
+door~
+1 -1 5745
+E
+s south~
+You can see a lovely Pinewood forest. Wouldn't it be nice to be
+out there instead of this stuffy house?
+~
+E
+n north~
+You can see a lovely Pinewood forest.  Wouldn't it be nice to be
+out there instead of this stuffy house?
+~
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5747
+Doorstep~
+This is the doorstep to Orsilon's house.  You can go no further
+than here due to the forcefield.
+~
+57 0 0 0 0 1
+D3
+~
+door~
+1 -1 5746
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5748
+Guards Quarters~
+  Two unmade empty beds are in the far opposite corners of this room. There 
+is a wood chest at the foot of each. Above the beds on the wall hangs a small bullet shield embossed with a white sword.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5741
+D2
+~
+~
+0 -1 5756
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5749
+Student Prestidigitators Quarters~
+  An empty bed is in the SE corner of this room. Hung by a hook on the North
+wall is a robe beneath which is a pair of worn leather shoes. A prone form 
+can be detected beneath the covers on the bed.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5742
+D2
+~
+~
+0 -1 5758
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5750
+End of the Hallway~
+  This is the Western end of a short hallway. There are doors to the North
+and South.  The hallway continues East.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5743
+D1
+~
+~
+0 -1 5751
+D2
+~
+door~
+1 -1 5766
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5751
+A Short Hallway~
+  You are in the middle of a short hallway.  There are doors to the north and
+South.  The hallway continues both east and West.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5744
+D1
+~
+~
+0 -1 5752
+D2
+~
+door~
+1 -1 5761
+D3
+~
+~
+0 -1 5750
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5752
+East End of a Short Hallway~
+  You are at the Eastern end of a short hallway.  There is a door to the 
+South and the hallway continues West.
+~
+57 9 0 0 0 0
+D2
+~
+door~
+1 -1 5762
+D3
+~
+~
+0 -1 5751
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5753
+Captain of the Guards Quarters~
+  A full suit of field plate armor hangs on a wood rack in the NE corner. In
+the SW corner is a small table littered with wood shavings and various shaped
+small knives. In the opposite corner is a large empty bed.
+~
+57 9 0 0 0 0
+D1
+~
+door~
+1 -1 5754
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5754
+End of the Hallway~
+  You are at the end of a hallway.  To the north is a hallway intersection.  
+To the east is a heavy door.  To the west in another door. 
+~
+57 9 0 0 0 0
+D0
+~
+~
+0 -1 5740
+D1
+~
+heavy door~
+1 -1 5755
+D3
+~
+door~
+1 -1 5753
+E
+heavy~
+The door to this area is double thick.
+~
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5755
+Prison Cells~
+  The door to this area is double thick and stands open. There are three 
+doors spaced 10' apart on the south wall and a like door is at the end of 
+the hall.
+~
+57 9 0 0 0 0
+D1
+~
+~
+0 -1 5756
+D2
+~
+door~
+1 -1 5763
+D3
+~
+door~
+1 -1 5754
+E
+door~
+Each door has a single narrow iron barred aperture in its upper surface.
+~
+S
+#5756
+Prison Cells~
+  The door to this area is double thick and stands open. There are three 
+doors spaced 10' apart on the south wall and a like door is at the end of 
+the hall.
+~
+57 9 0 0 0 0
+D0
+~
+~
+0 -1 5748
+D1
+~
+~
+0 -1 5757
+D2
+~
+door~
+1 -1 5764
+D3
+~
+~
+0 -1 5755
+E
+door~
+Each door has a single narrow iron barred aperture in its upper surface.
+~
+S
+#5757
+Prison Cells~
+  The door to this area is double thick and stands open. There are three 
+doors spaced 10' apart on the south wall and a like door is at the end of 
+the hall.
+~
+57 9 0 0 0 0
+D1
+~
+door~
+1 -1 5758
+D2
+~
+door~
+1 -1 5765
+D3
+~
+~
+0 -1 5756
+E
+door~
+Each door has a single narrow iron barred aperture in its upper surface.
+~
+S
+#5758
+Time Stopped Man~
+  Inside the cell is a time stopped man on his knees holding a bowl to his
+lips.
+~
+57 9 0 0 0 0
+D0
+~
+~
+0 -1 5749
+D3
+~
+door~
+1 -1 5757
+E
+door~
+Each door has a single narrow iron barred aperture in its upper surface.
+~
+S
+#5759
+Slagged Door~
+  You stand in the entrance to an overgrown garden. Beyond the door is a
+large chamber choked by a thick tangle of thorny rose bushes. The door 
+lies in a pile of slag on the floor and is torn off its hinges.
+~
+57 0 0 0 0 0
+D0
+~
+door~
+1 -1 5738
+D1
+~
+~
+0 -1 5760
+D2
+~
+~
+0 -1 5759
+D3
+~
+~
+0 -1 5759
+S
+#5760
+In an Overgrown Garden~
+  The rosebushes are extremely tough and you have to fight your way through
+them.  Movement is very slow and those damn roses are SHARP!
+~
+57 0 0 0 0 3
+D2
+~
+~
+0 -1 5769
+D3
+~
+~
+0 -1 5759
+S
+#5761
+Guest Room~
+There is a well made bed, a table and a chair in this room.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5751
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5762
+Guest Room~
+There is a mussed bed, a table and a chair in this room.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5752
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5763
+Empty Cell~
+  The cell is bare and empty.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5755
+E
+door~
+Each door has a single narrow iron barred aperture in its upper surface.
+~
+S
+#5764
+Empty Cell~
+  The cell is bare and empty.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5756
+E
+door~
+Each door has a single narrow iron barred aperture in its upper surface.
+~
+S
+#5765
+Empty Cell~
+  The cell is bare and empty.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5757
+E
+door~
+Each door has a single narrow iron barred aperture in its upper surface.
+~
+S
+#5766
+Short Flight of Stairs~
+  You are on a short flight of stairs that goes down to the south and ends
+at an ornately carved door.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5750
+D2
+~
+ornately carved door~
+1 -1 5773
+E
+ornately carved door~
+The door to this area is carved with the symbol of a globe surrounded by rays.
+~
+S
+#5767
+In an Overgrown Garden~
+  The rosebushes are extremely tough and you have to fight your way through
+them.  Movement is very slow and those damn roses are SHARP!
+~
+57 0 0 0 0 3
+D0
+~
+~
+0 -1 5767
+D1
+~
+~
+0 -1 5768
+D2
+~
+~
+0 -1 5770
+S
+#5768
+In an Overgrown Garden~
+  The rosebushes are extremely tough and you have to fight your way through
+them.  Movement is very slow and those damn roses are SHARP!
+~
+57 0 0 0 0 3
+D0
+~
+~
+0 -1 5768
+D1
+~
+~
+0 -1 5769
+D2
+~
+~
+0 -1 5768
+D3
+~
+~
+0 -1 5767
+S
+#5769
+In an Overgrown Garden~
+  The rosebushes are extremely tough and you have to fight your way through
+them.  Movement is very slow and those damn roses are SHARP!
+~
+57 0 0 0 0 3
+D0
+~
+~
+0 -1 5760
+D2
+~
+~
+0 -1 5769
+D3
+~
+~
+0 -1 5768
+S
+#5770
+In an Overgrown Garden~
+  The rosebushes are extremely tough and you have to fight your way through
+them.  Movement is very slow and those damn roses are SHARP!
+~
+57 0 0 0 0 3
+D0
+~
+~
+0 -1 5767
+D1
+~
+~
+0 -1 5771
+S
+#5771
+Small Clearing~
+  You are in a small clearing in an overgrown garden.  Rose bushes run 
+rampant.
+~
+57 0 0 0 0 0
+D0
+~
+~
+0 -1 5771
+D1
+~
+door~
+1 -1 5772
+D2
+~
+~
+0 -1 5771
+D3
+~
+~
+0 -1 5770
+S
+#5772
+West End of a Long Hallway~
+  You are at the western end of a long hallway. A door blocks progress to the
+West and the hallway stretches off to the east.
+~
+57 9 0 0 0 0
+D1
+~
+door~
+1 -1 5773
+D3
+~
+door~
+1 -1 5771
+S
+#5773
+Council Hall~
+  This area was obviously constructed as some sort of grand hall or
+council chamber. The left and right walls angle away from you a 45
+degrees for 30' where they meet the back wall which curves outward for
+another 30'. At the end of the west wall is a door. Two highly
+polished wood benches are ahead to the left and right. At the southern
+end, up a short flight of curved stairs is a large oak throne. On its
+back posts are two brightly glowing globes which illuminate the entire
+area. Some indistinguishable script can be seen carved into the upper
+back of the great chair.
+~
+57 8 0 0 0 0
+D0
+~
+door~
+1 -1 5766
+D1
+~
+door~
+1 -1 5774
+D3
+~
+door~
+1 -1 5772
+E
+door~
+The door to this area is carved with the symbol of a globe surrounded by rays.
+~
+S
+#5774
+Circular Stone Staircase~
+  A series of stone stairs spiral downward into the darkness here.
+~
+57 9 0 0 0 0
+D3
+~
+door~
+1 -1 5773
+D5
+~
+~
+0 -1 5783
+S
+#5775
+Gem Cutting Room~
+  A stout and heavy wood table is against the west wall. In front of the 
+table is a chair. On the table are some small hammers and several other 
+metal instruments. Above the table hanging on an iron chain is a brightly
+glowing ball which lights the area effectively.
+~
+57 8 0 0 0 0
+D2
+~
+door~
+1 -1 5777
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5776
+Burned Out Library~
+  Charred and blackened books fill the burnt remains of shelves along the 
+West and North-West walls. The bookshelves and their contents to the 
+south are unaffected. In the NE corner is a desk scattered with many 
+rolls of parchment. At the center of the north wall, between the burnt 
+book cases is a small, dark, arched alcove above which is a stone lintel 
+with an inscription carved into it. Near the center of the room is a very
+odd sight. A small dark man in faded and worn orange robes is seemingly 
+imprisoned in a cage of shimmering bars. Near the cage on its east side 
+stands a man with a longsword raised as if to strike. The man is dressed 
+in nightclothes and has an iron keyring hanging off his sash.
+~
+57 8 0 0 0 0
+D1
+~
+~
+0 -1 5777
+D2
+~
+door~
+1 -1 5782
+S
+#5777
+Short Hallway~
+  You are in a short hallway.  To the north and east are doors, to the west 
+is a burnt out library.
+~
+57 8 0 0 0 0
+D0
+~
+door~
+1 -1 5775
+D1
+~
+door~
+1 -1 5778
+D3
+~
+~
+0 -1 5776
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5778
+Magical Components Storage~
+  A confusing array of neatly stacked boxes, bins, bottles, vials, tins 
+and various assorted other containers fill a glass cabinet running the 
+length and height of the west, north and south walls.
+~
+57 8 0 0 0 0
+D2
+~
+door~
+1 -1 5780
+D3
+~
+door~
+1 -1 5777
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5779
+Glassblower Workshop~
+  At the center of the east wall of this room is a fireplace. In the middle
+of the room is a large 10' square table. A barrel of fine sand sits in the 
+NW corner.
+~
+57 8 0 0 0 0
+D2
+~
+door~
+1 -1 5781
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5780
+A Short Hallway~
+  You are in a short connecting hallway.  To the north is a door, to the 
+South and intersection.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5778
+D2
+~
+~
+0 -1 5783
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5781
+End of the Hallway~
+  You have reached the end of this short hall.  To the north and south are
+doors, to the east is the laboratory.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5779
+D1
+~
+~
+0 -1 5782
+D2
+~
+door~
+1 -1 5785
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5782
+Alchemy Laboratory~
+  A long table scattered with sheets of parchment runs along the south wall
+between two doors. Running east and west down the center of the room are two
+more long tables each cluttered with a confusing array of glass receptacles,
+tubes and strangely shaped bottles filled with a manifold display of colored
+liquids, some bubbling and frothing.
+~
+57 8 0 0 0 0
+D0
+~
+door~
+1 -1 5776
+D1
+~
+~
+0 -1 5783
+D2
+~
+door~
+1 -1 5786
+D3
+~
+~
+0 -1 5781
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5783
+Four Ways to Go~
+  You enter a 30' across octagonal chamber. To the north and south are 
+identical doors. To the west is a 10' wide 30' long passage ending at a
+door.
+~
+57 9 0 0 0 0
+D0
+~
+~
+0 -1 5780
+D1
+~
+door~
+1 -1 5784
+D3
+~
+~
+0 -1 5782
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5784
+Underground Garden~
+  The air here is fresh and clean. A bright spheroid of golden light emits 
+from the ceiling casting a warm glow all about. A carpet of thick green 
+grass dotted here and there with colorful flowers covers the floor. Several
+bushes grow in the area. At the center is a 10' wide circular, raised stone
+receptacle. Crawling along its top is a large, golden eyed snake like 
+creature with green/gold scales and a human like head. The creature stares 
+at your party attentively.
+~
+57 0 0 0 0 3
+D2
+~
+~
+0 -1 5787
+D3
+~
+door~
+1 -1 5783
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5785
+Potters Workshop~
+  In the NE corner of this room is a large, round barrel. At the center of 
+the west wall is a large brick oven. Near the center of the room is a small
+round table with a half formed, dried out clay pot lying on it. A wood 
+cabinet is in the SE corner.
+~
+57 8 0 0 0 0
+D0
+~
+door~
+1 -1 5781
+D4
+~
+~
+0 -1 5774
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5786
+Mordains Quarters~
+  A good sized bed unmade and rumpled is in the NE corner. On the floor is
+a badly worn persian rug.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5782
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5787
+Hidden Lair~
+  You have entered a small lair of some sort.  The room is rather cramped.
+~
+57 521 0 0 0 0
+D0
+~
+~
+0 -1 5784
+S
+#5788
+Entrance to Secret Chamber~
+  You are in a small square room.
+~
+57 9 0 0 0 0
+D1
+~
+door~
+1 -1 5789
+D2
+~
+door~
+1 -1 5791
+S
+#5789
+The Family Treasure Vault~
+  There are two large chests bound in platinum and three large urns chased 
+with gold along the north wall of this room.
+~
+57 9 0 0 0 0
+D2
+~
+door~
+1 -1 5792
+D3
+~
+door~
+1 -1 5788
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5790
+Seascape Painting~
+  Thinking you'd get a better look at the seascape painting, you stepped
+a bit closer.  As you approach it, the seascape came to life. You are
+now standing on a beach, complete with the smell of the ocean, the cry of
+gulls and the feel of sand beneath your feet.  The only way out is back 
+East to the bedroom.
+~
+57 8 0 0 0 0
+D1
+~
+~
+0 -1 5791
+S
+#5791
+Orsilons Quarters~
+  A huge sumptuous bed of powder blue satiny material embroidered with 
+gold thread floats at knee height centered between the east and west 
+walls. At the four corners of the bed, holding it down are golden chains
+attached to the floor. The west wall has a lifelike seascape painted across
+its entire surface. Next to the wall is a small wood dais atop which rests 
+a large conch shell. To the south a series of steps plunge into a half 
+circle pool of clear water.
+~
+57 9 0 0 0 0
+D0
+~
+door~
+1 -1 5788
+D1
+~
+door~
+1 -1 5792
+D3
+~
+~
+0 -1 5790
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5792
+Fourth Level Teleport Room~
+  You appear in a small rounded alcove at the center of a wall in a 20' 
+square room. There is a waist high stone pedestal with a red gem in its 
+center before you. Straight ahead, to the left and to the right are doors.
+~
+57 8 0 0 0 0
+D0
+~
+door~
+1 -1 5789
+D1
+~
+door~
+1 -1 5793
+D3
+~
+door~
+1 -1 5791
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5793
+The Inner Sanctum~
+  You have come into the bottom of a triangular room measuring 30' on a 
+side. At its center on indistinct wavering form of a robed man can be seen.
+He holds in his hands before him a softly glowing globe. The apparition 
+floats a few inches above the floor. The man raises his hand, points to the
+door behind you and mouths the word go.
+~
+57 8 0 0 0 0
+D3
+~
+door~
+1 -1 5792
+E
+door~
+The door is one inch thick oak, stained dark and lacquered with brass
+bands, handles and fittings.
+~
+S
+#5794
+Magic Den of the Yeti~
+  Suddenly your surroundings have drastically changed. You appear near the
+center of a 30' across round room. Snow covers the floor and huge icicles 
+hang from the ceiling. The temperature here is very cold. Before you is an 
+ice encrusted low stone pedestal. You don't have time to examine it however
+as a huge hulking white furred beast is charging toward you.
+~
+57 9 0 0 0 0
+S
+#5795
+Magic Den of the Troll~
+  You suddenly appear in a 30' in diameter room. Bones litter the floor. At
+the center is a low stone dais atop which has been placed a small pile of 
+gnawed bones. You don't have time to examine the room more thoroughly as 
+there is a huge mottle-skinned green troll is advancing toward you, slavering
+jaws agape.
+~
+57 9 0 0 0 0
+S
+#5796
+The Bronze Guardian~
+  You appear at the far end of a 40' wide 80' long hall. Six stone columns,
+three on a side, spaced 20' apart and reaching to the ceiling 20' above 
+run down the hall. On each pillar is an iron sconce hold in a lit torch. At
+the opposite end is a 20' wide 10' deep alcove. Standing in the alcove is a
+tall muscular manlike bronze statue with the head of a dragon and holding a
+huge curved scimitar. In its forehead is a brightly glowing yellow stone. A
+few paces in front of you is a low round stone pedestal with a large 
+gleaming diamond set in its top.
+~
+57 8 0 0 0 0
+S
+#5798
+MIMIC LOAD ROOM, DON'T DELETE.~
+The mimic loads here, used in the couch special.
+~
+57 516 0 0 0 0
+S
+#5799
+On the Platform~
+  The limestone walls of this chamber have been worked smooth. You stand in 
+the center of a circular wooden platform in the middle of the room. Above
+you in the ceiling is a 10' wide dark circular opening. This chimney reaches 
+upward into the rock as far a you can see. Looking down, you see a moving shape
+through the cracks in the boards.
+~
+57 8 0 0 0 0
+D2
+You can barely see the room which you just left outside the circle. 
+~
+~
+0 -1 5701
+S
+$~

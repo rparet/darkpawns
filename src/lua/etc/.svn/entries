@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1437"
+   name=""
+   committed-date="2008-04-30T03:27:43.811158Z"
+   url="file:///var/svn/trunk/2.2/src/lua/etc"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1437"
+   name="trace.c"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="3ce1ad1bd9f3811db2f5d9d25226b2bd"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lua.magic"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="5c965ee44675ff37c17b522a4ca7abc7"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lua.xpm"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="85d034937c1d5d593409dc6d7d55bbcd"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="min.c"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="60482620af9f7a61eb451c032ee5ab70"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="stdcall.lua"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="ef3ae5db38dee0fa5a1ff6679a41cabd"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="lua.ico"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="80a60f28de5cb5cd996318b75ede4349"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="setfallback.lua"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="6819b3b50fc5340b55112fa569007cf6"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="Makefile"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="1001980e1e6a6d41efeb1541721aca0a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="README"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="f015123f102ad4754c473db80e4312c7"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="bin2c.c"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="52cec57f7d72db7dbcd6f11a13adf743"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="def.lua"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="1d5857277d4988914f43a846b516eb91"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+</wc-entries>

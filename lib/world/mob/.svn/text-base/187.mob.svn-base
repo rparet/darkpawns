@@ -1,0 +1,237 @@
+#18701
+cow grazing~
+a grazing cow~
+A small grazing cow is here.
+~
+This is a small version of a normal milking cow.
+~
+2058 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 2
+Race: 22
+E
+#18702
+bull grazing~
+a grazing bull~
+A small grazing bull is here.
+~
+This is a cow!
+~
+2058 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 1
+Race: 22
+E
+#18703
+ender gateguard guard~
+an ender gateguard~
+An ender gateguard is here keeping out the unwanted element.
+~
+He is a smallish humanoid but is well defined and looks very mean, when he
+wants to be.
+~
+6154 0 0 0 1024 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+15 9000
+8 8 1
+Race: 27
+E
+#18704
+ender guard~
+an ender guard~
+An ender guard is here keeping out the unwanted element.
+~
+He is a smallish humanoid but is well defined and looks very mean, when he
+wants to be.
+~
+6216 0 0 0 263168 0 0 0 0 E
+11 9 -1 11d5+120 7d4+7
+15 7500
+8 8 1
+Race: 27
+E
+#18705
+ender guard royal~
+a royal ender guard~
+A royal ender guard is here protecting the king and queen.
+~
+This little humanoid looks quite tough, maybe that is why he is protecting the
+king and queen.
+~
+22538 0 0 0 262152 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+25 10500
+8 8 1
+Race: 27
+E
+#18706
+ender king~
+the ender king~
+The ender king is here ruling over his small domain.
+~
+Though he looks a little old and maybe feeble, he did not get to be king by
+being weak or inept with weapons.
+~
+22666 0 0 0 1192 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+100 14000
+8 8 1
+Race: 27
+E
+#18707
+ender queen~
+the ender queen~
+The ender queen is here helping her husband.
+~
+She is a small humanoid, but looks strong, both with words and her blade.
+~
+22666 0 0 0 168 0 0 0 0 E
+14 6 -4 14d5+150 9d4+9
+50 12000
+8 8 2
+Race: 27
+E
+#18708
+ender male~
+an adult male ender~
+An adult male ender is slinking around here.
+~
+This smallish humanoid looks very sneaky.  It looks as though he could be a
+great thief or maybe even an assassin.
+~
+10316 0 0 0 262144 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+15 2500
+8 8 1
+Race: 27
+E
+#18709
+ender female~
+an adult female ender~
+An adult female ender is slinking around here.
+~
+This smallish humanoid looks very sneaky.  It looks as though she could be as
+great thief as any male in this village
+~
+10316 0 0 0 262144 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+15 1500
+8 8 2
+Race: 27
+E
+#18710
+ender child male boy~
+an ender boy~
+A little ender boy is here playing.
+~
+This tiny little humanoid has very quick hands as you see him playing here.
+He does not seem to notice you, but you are sure he knows you are about.
+~
+10316 0 0 0 0 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+5 200
+8 8 1
+Race: 27
+E
+#18711
+girl female ender child~
+an ender girl~
+A little ender girl is here playing.
+~
+This tiny little humanoid has very quick hands as you see her playing here.
+She seems quite oblivious to you but her movements seem to be reacting to your
+own.
+~
+10316 0 0 0 524296 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+5 200
+8 8 2
+Race: 27
+E
+#18712
+dragoon~
+a dragoon~
+A little dragoon is here looking with googly eyes.
+~
+This is some kind of little dragon, actually it is more like a lizard.
+~
+2120 0 0 0 8 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#18713
+ender cook~
+an ender cook~
+An ender cook is here cooking away.
+~
+This ender looks a little bulkier than a standard ender male.  He is heavily
+powdered in flour.
+~
+2122 0 0 0 8 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+10 6000
+8 8 1
+Race: 27
+E
+#18714
+ender smithy blacksmith~
+an ender smithy~
+An ender smithy is here pounding away on some steel.
+~
+This ender is lot bigger than all the other enders, obviously from his work on
+metal.   He is still not even average humanoid size.
+~
+2122 0 0 0 8 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+50 9000
+8 8 1
+Race: 27
+E
+#18715
+ender tailor~
+an ender tailor~
+An ender tailor is here working on some sewing project.
+~
+This ender is smaller than average, but looks trim and strong.  Her fingers are
+obviously very nimble as she works around a piece of cloth with her needle.
+~
+2122 0 0 0 8 0 0 0 0 E
+11 9 -1 11d5+120 7d4+7
+50 7500
+8 8 2
+Race: 27
+E
+#18716
+ender torak~
+Torak the ender~
+Torak the Ender is here, ready to pounce.
+~
+Torak is a tough looking humanoid.  It looks as though he really wants to
+kill you.
+~
+278600 0 0 0 263176 0 0 0 -750 E
+18 2 -8 18d5+190 12d4+12
+32 20000
+8 8 1
+Race: 27
+E
+#18717
+ender advisor~
+the ender king's advisor~
+The Ender King's Advisor frets here.
+~
+He looks like a seedy character, which is unusual for this race.  How
+strange... maybe he is hiding something.
+~
+138 0 0 0 262184 0 0 0 -200 E
+12 8 -2 12d5+130 8d4+8
+50 9000
+8 8 1
+Race: 27
+E
+$

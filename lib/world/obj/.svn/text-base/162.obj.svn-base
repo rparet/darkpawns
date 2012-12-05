@@ -1,0 +1,475 @@
+#16200
+dagger~
+a small sacrificial dagger~
+A nasty little black dagger is lying here.~
+Suddenly, nothing happens.
+~
+5 641 0 0 0 8193 0 0 0
+0 4 2 11
+2 523 35.00
+E
+dagger~
+This small nasty knife has a slight curve in it eight inch dark metal
+blade, likely for gutting sacrifices to what ever evil gods it's former
+user served
+~
+A
+6 -1
+#16201
+spear~
+a goblin frog-slaying spear~
+A nasty little spear with a sharp barb on the tip is lying here~
+Suddenly, nothing happens.
+~
+5 797248 0 0 0 8193 0 0 0
+0 2 4 14
+3 127 20.00
+E
+spear~
+It's about 4 feet long and a little under an inch thick, leather hand
+grips are wrapped around it in two places.  There is a nasty little barb
+on the six inch black metal tip.
+~
+A
+25 26
+#16202
+legs~
+some frog legs~
+Some little bloody green legs are lying here.~
+it's a pair of legs hacked off some poor helpless frog.
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0
+1 0 75.00
+#16203
+vine~
+a gruesome spike-covered vine~
+A dead stinking spike-covered vine is lying here.~
+~
+5 65600 0 0 0 8193 0 0 0
+0 2 7 10
+9 4 30.00
+E
+vine~
+It's about three feet long and about as thick as your wrist
+with nasty cone-shaped spikes covering its' surface.
+~
+A
+19 2
+A
+6 -3
+#16204
+skeleton~
+a decaying skeleton~
+The decayed skeleton of some unlucky adventurer is here impaled on a spear.~
+Suddenly, nothing happens.
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+800 0 100.00
+E
+skeleton~
+Looks like he wasn't as lucky as you on his way down.
+~
+#16205
+darkwood bow~
+a darkwood bow~
+A thick ebony short bow is lying here.~
+~
+6 20992 0 0 0 8193 0 0 0
+0 4 2 0
+4 827 10.00
+A
+19 2
+#16206
+arrow~
+a darkwood arrow~
+A nasty little black arrow is lying here.~
+An arrow lands with a solid *thunk*
+~
+7 20992 0 0 0 1 0 0 0
+0 6 1 0
+1 92 50.00
+E
+arrow~
+It's a small black arrow with dark green fletching and a barbed tip.
+~
+A
+18 4
+#16207
+rotting belt~
+a rotting leather belt~
+A small rotting leather belt is lying here.~
+~
+11 0 0 0 0 2049 0 0 0
+0 0 0 0
+2 50 80.00
+A
+6 -2
+#16208
+cloak~
+a smelly black fur cloak~
+A smelly half rotten black fur cloak has been left here.~
+~
+9 41472 0 0 0 1025 0 0 0
+3 0 0 0
+5 923 40.00
+A
+6 -2
+A
+14 10
+A
+2 1
+#16209
+elven leather armor~
+a suit of elven leather~
+Some intricately designed leather armor is lying here.~
+~
+9 3073 0 0 0 9 0 0 0
+9 0 0 0
+15 720 15.00
+A
+6 1
+A
+12 4
+#16210
+elven broadsword~
+an elven broadsword~
+A shining broadsword has been left here.~
+~
+5 19714 0 0 0 8193 0 0 0
+0 3 4 3
+8 920 25.00
+A
+6 1
+A
+12 2
+#16212
+bone club~
+a large bone~
+A large femur bone is lying here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 10 9
+3 20 80.00
+#16214
+sword shortsword~
+a goblin shortsword~
+A small sword is lying here.~
+~
+5 12800 0 0 0 8193 0 0 0
+0 2 4 3
+13 236 80.00
+E
+sword~
+It's a small wide-bladed sword about two feet in length.
+~
+A
+18 1
+A
+6 -1
+#16215
+rusty armor iron~
+a suit of rusty iron armor~
+A rusty set of armor has been left here.~
+~
+9 540672 0 0 0 9 0 0 0
+8 0 0 0
+24 207 60.00
+#16216
+bones~
+a pile of broken bones~
+Several broken and crushed up bones are lying around here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+20 0 100.00
+#16217
+fire~
+a cook-fire~
+A small fire is burning here.~
+~
+13 1 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+#16218
+pot~
+pot~
+A large pot bubbles in the fire pit.~
+~
+15 0 0 0 0 0 0 0 0
+300 0 -1 0
+50 0 100.00
+E
+pot~
+It's a large heavy cast iron cook pot.  Disgusting brown liquid with
+large hunks of flesh and bones is boiling inside it.
+~
+#16219
+tooth golden object~
+a shiny golden tooth~
+A tiny golden object is lying here.~
+~
+8 12365825 0 0 0 131073 0 0 0
+0 0 0 0
+1 100 10.00
+A
+6 2
+A
+18 3
+#16220
+well~
+well~
+An old stone well is nearly buried in vines and thick moss here.~
+~
+23 0 0 0 0 0 0 0 0
+1000 800 15 0
+805 0 100.00
+#16221
+paw panther~
+a rotten panther paw~
+A stinking rotten panther paw is lying here.~
+~
+5 77824 0 0 0 8193 0 0 0
+0 5 2 8
+3 0 20.00
+E
+paw~
+It looks like something just broke it off a corpse, the flesh is ragged
+and torn. The large nasty claws are extended from the rotten paw.
+~
+A
+2 1
+#16222
+axe stone~
+a stone headed axe~
+A stone headed axe is lying here.~
+~
+5 0 0 0 0 1 0 0 0
+0 1 12 3
+8 90 50.00
+E
+axe~
+It's basically a sharp flat stone tied to the end of a short pole with
+strips of leather and sinew.
+~
+#16223
+shield~
+a wooden shield~
+A small wooden shield is lying here.~
+~
+9 16384 0 0 0 513 0 0 0
+5 0 0 0
+5 140 80.00
+#16224
+skirt~
+a wolf hide skirt~
+A wolf hide skirt is lying here.~
+~
+9 12288 0 0 0 65537 0 0 0
+6 0 0 0
+0 352 20.00
+A
+1 1
+#16225
+helmet head~
+a wolf's head helmet~
+The decapitated head of a wolf is lying here.~
+~
+9 528896 0 0 0 17 0 0 0
+7 0 0 0
+5 242 10.00
+E
+helmet~
+It looks like something just ripped the head off and hollowed it out, the
+jaws have been pulled all the way apart and tided with a few stings
+of sinew allowing the wearer to see but still have some face protection.
+~
+A
+6 -2
+A
+13 5
+A
+5 1
+#16226
+club~
+an iron spiked club~
+A black wooden club with a large iron spike in the end is lying here.~
+~
+5 544768 0 0 0 8193 0 0 0
+0 5 2 7
+5 95 20.00
+A
+18 -1
+#16227
+torch~
+a torch~
+A flickering torch is mounted on the wall here.~
+~
+1 17 0 0 0 0 0 0 0
+0 0 -1 0
+0 0 100.00
+#16228
+shield~
+an iron bound wooden shield~
+A wooden shield held together with several rusty iron strips is lying here.~
+~
+9 20480 0 0 0 513 0 0 0
+8 0 0 0
+8 243 20.00
+A
+18 -1
+#16229
+cauldron~
+a large bubbling cauldron~
+A large cauldron bubbles on a cook fire here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+200 0 100.00
+#16230
+leggings~
+some rusted iron leggings~
+Some rusty iron leggings are lying here.~
+~
+9 0 0 0 0 33 0 0 0
+9 0 0 0
+18 75 20.00
+A
+18 -1
+#16231
+breastplate~
+a rusted iron breastplate~
+A rusty iron breastplate is lying here.~
+~
+9 0 0 0 0 9 0 0 0
+10 0 0 0
+50 180 80.00
+A
+18 -1
+#16232
+armplates~
+some rusty iron armplates~
+Some rusted out iron armplates are lying here.~
+~
+9 0 0 0 0 257 0 0 0
+5 0 0 0
+8 154 80.00
+#16233
+polearm pole~
+an iron bladed polearm~
+A long black pole with a wicked iron blade on the end is lying here.~
+~
+5 28672 0 0 0 8193 0 0 0
+0 2 7 14
+10 211 5.00
+A
+19 2
+#16234
+key~
+a small iron key~
+A small iron key is on the ground here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#16235
+axe of hatred~
+an axe of hatred~
+A wicked crimson bladed axe is lying here.~
+~
+5 162763 0 0 0 8193 0 0 0
+0 3 3 3
+7 2666 10.00
+E
+axe~
+The blade of this large axe is made of a strange deep red metal which
+vibrates slightly when you touch it. The haft is made of dark ebony
+hardwood with a six or seven inch spike at the base. Inscribed across
+the wide crimson blade are several magic rune and symbols.
+~
+A
+19 3
+A
+5 -2
+A
+6 -2
+A
+18 -1
+#16241
+leg~
+a gory human leg~
+A human leg torn off at the knee is lying here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+10 0 100.00
+#16242
+eyeballs~
+a pile of dried up eyeballs~
+A dozen or so dried up eyeballs are stacked in a pyramid on the floor here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#16243
+torso~
+a hacked and bloody torso~
+The torn and bloody torso of some poor bastard is lying here.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+40 0 100.00
+#16250
+cloak pile~
+the Goblin Lord's elven skin cloak~
+A disgusting pile of rotten flesh is lying here.~
+~
+3 41601 0 0 0 1025 0 0 0
+20 10 8 91
+20 3890 3.00
+E
+cloak pile~
+It's a stinking cloak of skin cut from an elf. Various runes and glyphs
+likely representing rituals and sacrifice to malevolent gods are sewn
+and branded across it in several places.  Along the edge of the hood
+are what appear to be small half scaleish pieces of skin, closer
+investigation reveal that they are jagged cut ears.
+~
+A
+6 -2
+A
+25 1
+A
+1 -1
+A
+5 1
+A
+17 9
+#16290
+sign~
+sign~
+A small wooden sign is nailed to a tree here.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+500 0 100.00
+E
+sign~
+		Bevare, oh ye os little experience; bevare, too
+		ye os mvch might, for the forces vithin are not
+		meant for svch.
+~
+#16295
+royal order of toad-slayers cape~
+a royal order of toad-slayers cape~
+A emerald cape with big amber spots is lying here.~
+~
+9 131073 0 0 0 1025 0 0 0
+5 0 0 0
+1 100 30.00
+A
+17 -2
+A
+6 1
+$~

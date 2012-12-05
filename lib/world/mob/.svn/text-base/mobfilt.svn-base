@@ -1,0 +1,23 @@
+#!/usr/bin/perl  -i
+# Usage : ./mobfilt #.mob
+
+$lastt = 0;
+
+while (<>) {
+        chop;
+        if ($lastt && /^([0-9A-Za-z]+) ([0-9A-Za-z]+) (-?\d+) ([A-Za-z]+)\s*$/)
+        {
+         print $1, " 0 0 0 ", $2, " 0 0 0 ", $3, " ", $4, "\n";
+        } 
+        else
+        {
+                if (/~$/) {
+                        $lastt = 1;
+                } else {
+                        $lastt = 0;
+                }
+                print;
+                print "\n";
+        }
+}
+

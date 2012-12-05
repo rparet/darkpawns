@@ -1,0 +1,311 @@
+#19500
+avian temple gatekeeper~
+the Temple Gatekeeper~
+A tall, well built avian floats here, guarding the temple.
+~
+The avian standing before you looks extremely well built, he stands about 
+seven feet tall and is clad in a leather skirt lined with steel plates and no 
+shirt.  This avian looks like he can handle himself extremely well in a fight.
+He stands in front of you seemingly looking you over for something important.
+~
+17033242 0 0 0 67277996 0 0 0 750 E
+31 -11 -21 31d5+997 20d4+20
+0 90000
+8 8 1
+BareHandAttack: 13
+Race: 24
+E
+#19501
+avian prince order tylethal~
+Tylethal the Avian Prince of Order~
+A tall, regal avian prince floats here, watching your movements.
+~
+The avian before you looks at the near physical peak of perfection for any 
+man.  His body is covered with powerful, rippling muscles. He has a very 
+confident stride in his walk which also reveals his expertise with nearly 
+all forms of combat.  At his side is a beautifully gilded hilt with a fairly
+large and imposing looking sword.
+~
+9431320 0 0 0 165036 0 0 0 750 E
+34 -14 -24 34d5+2746 22d4+22
+4500 270000
+8 8 1
+BareHandAttack: 10
+Race: 24
+E
+#19502
+tarn'lothal avian prince life~
+Tarn'lothal the Avian Prince of Life~
+A tall, majestic avian prince floats here contently.
+~
+Flowing almost like water from his back are a pair of majestic golden wings.  
+He looks to be the most gorgeous man you have ever laid your eyes on.
+You could even go so far as to call him angelic.
+~
+9431321 0 0 0 67146924 0 0 0 1000 E
+39 -19 -29 39d5+5661 26d4+26
+0 375000
+8 8 1
+BareHandAttack: 13
+Race: 24
+E
+#19503
+avian mummy~
+an avian mummy~
+An avian mummy shuffles around here.
+~
+The mummy standing before you reeks of death and decay.  It's covered from
+head to toe in loose rotting bandages which seem to drag along the floor.  The
+gaps between the bandages seem to show an almost birdlike or angelic build.
+~
+256045 0 0 0 33960 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 1
+BareHandAttack: 7
+Race: 9
+E
+#19504
+insane sun monk~
+an insane monk~
+An insane monk paces around here ranting incoherently.
+~
+This poor soul in front of you seems to have seen so much sun it's affected
+his brain, he rants like a madman in your presence.  He's covered completely
+in a very tattered brown monks habit.  When your eyes meet his you realize a
+powerful aura radiating from his being.
+~
+256045 0 0 0 33960 0 0 0 1000 E
+27 -7 -17 27d5+345 18d4+18
+0 45000
+8 8 1
+BareHandAttack: 5
+Race: 24
+E
+#19505
+avian templar winged~
+an avian templar~
+A winged templar is here guarding the ceremonies.
+~
+The soldier standing before you looks like he could handle himself
+quite well in a rough situation.  He quickly bows his head and
+mutters a solemn prayer when there is a new announcement from the
+priest.  As you approach he looks you over rather quickly as if
+deciding whether or not you are a threat.
+~
+260121 0 0 0 165036 0 0 0 150 E
+24 -4 -14 24d5+276 16d4+16
+750 35000
+8 8 1
+BareHandAttack: 3
+Race: 24
+E
+#19506
+tomb guardian~
+the Tomb Guardian~
+A guardian of the fallen sun god stands here defiantly.
+~
+An extremely well built soldier stands here, he looks to be in his mid 30's and seems impossibly strong and fast.  He looks to be an extremely capable fighter.
+~
+782347 0 0 0 169128 0 0 0 1000 E
+31 -11 -21 31d5+997 20d4+20
+0 90000
+8 8 1
+BareHandAttack: 13
+Race: 24
+E
+#19507
+avian princess desire jel'tarina~
+Jel'Tarina the Avian Princess of Desire~
+A beautiful, regal avian princess floats here.
+~
+The beautiful creature hovering before you is clad in an almost transparent 
+gown that flows around her supple body in a majestic way.  She has the 
+most gorgeous set of silver wings you've ever seen, her eyes seem to 
+be like pools of sapphires.
+~
+9431321 0 0 0 169132 0 0 0 1000 E
+39 -19 -29 39d5+5661 26d4+26
+0 375000
+8 8 2
+Race: 24
+E
+#19508
+avian princess cel'torina prosperity~
+Cel'Torina the Avian Princess of Prosperity~
+A beautiful, noble avian princess floats here.
+~
+The beautiful woman floating before you is clad in a regal looking gown.
+Sitting upon her head is a majestic diadem with a brilliant star sapphire in
+the center.  She has a presence about her that draws people to her, and
+in return she bestows upon the needy great prosperity.
+~
+9431321 0 0 0 169132 0 0 0 1000 E
+39 -19 -29 39d5+5661 26d4+26
+0 375000
+8 8 2
+Race: 24
+E
+#19509
+elven soldier~
+an elven soldier~
+An elven soldier is hiding here watching you.
+~
+A tall, slender, well built soldier stands here in what looks to be camouflaged
+chainmail.  He disappears and reappears as you watch him, moving with ease
+through the woods.
+~
+63512 0 0 0 951464 0 0 0 0 E
+24 -4 -14 24d5+276 16d4+16
+1200 35000
+8 8 1
+BareHandAttack: 3
+Race: 1
+E
+#19510
+elven sentinel~
+an elven sentinel~
+An elven sentinel stands here imposingly.
+~
+An powerful looking, well built individual stands here blocking your path.
+He steps purposely in your way as you advance towards the gates leading 
+into the camp.
+~
+194587 0 0 0 656552 0 0 0 0 E
+28 -8 -18 28d5+368 18d4+18
+2500 50000
+8 8 1
+BareHandAttack: 10
+Race: 1
+E
+#19511
+elven general tenelar~
+Tenelar the Elven General~
+Tenelar the elven general, is here glaring at you.
+~
+Standing before you is a well seasoned elven general.  His armor is impeccably
+polished, and scars cover his body from battles long forgotten.  At his waist
+is a very ornate scabbard; in his hands is a radiant sword with a silvery sheen.
+~
+780314 0 0 0 165032 2 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+4750 180000
+8 8 1
+BareHandAttack: 3
+Race: 1
+E
+#19515
+elven quartermaster weapon~
+an elven quartermaster~
+A old quartermaster stands here waiting patiently.
+~
+A very old elf stands here before you, his face covered with scars from battles
+over the long centuries of his life.  He looks quite content in retirement,
+regaling the younger generation with tales of past heroics.
+~
+11 0 0 0 8 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+125000 180000
+8 8 1
+Race: 1
+E
+#19516
+elven quartermaster armor~
+an elven quartermaster~
+A old quartermaster stands here patiently waiting.
+~
+A very old elf stands here before you, his face covered with scars from battles
+over the long centuries of his life.  He looks quite content in retirement,
+regaling the younger generation with tales of past heroics.
+~
+11 0 0 0 8 0 0 0 0 E
+33 -13 -23 33d5+2163 22d4+22
+125000 180000
+8 8 1
+Race: 1
+E
+#19520
+avian temple gatekeeper~
+the Temple Gatekeeper~
+A tall, well built avian floats here, guarding the temple.
+~
+The avian standing before you looks extremely well built, he stands about 
+seven feet tall and is clad in a leather skirt lined with steel plates and no 
+shirt.  This avian looks like he can handle himself extremely well in a fight.
+He stands in front of you seemingly looking you over for something important.
+~
+17033242 0 0 0 67278012 0 0 0 750 E
+31 -11 -21 31d5+997 20d4+21
+0 90000
+8 8 1
+BareHandAttack: 13
+Race: 24
+E
+#19521
+avian temple gatekeeper~
+the Temple Gatekeeper~
+A tall, well built avian floats here, guarding the temple.
+~
+The avian standing before you looks extremely well built, he stands about 
+seven feet tall and is clad in a leather skirt lined with steel plates and no 
+shirt.  This avian looks like he can handle himself extremely well in a fight.
+He stands in front of you seemingly looking you over for something important.
+~
+17033242 0 0 0 67278012 0 0 0 750 E
+31 -11 -21 31d5+997 20d4+21
+0 90000
+8 8 1
+BareHandAttack: 13
+Race: 24
+E
+#19522
+avian temple gatekeeper~
+the Temple Gatekeeper~
+A tall, well built avian floats here, guarding the temple.
+~
+The avian standing before you looks extremely well built, he stands about 
+seven feet tall and is clad in a leather skirt lined with steel plates and no 
+shirt.  This avian looks like he can handle himself extremely well in a fight.
+He stands in front of you seemingly looking you over for something important.
+~
+17033242 0 0 0 67278012 0 0 0 750 E
+31 -11 -21 31d5+997 20d4+21
+0 90000
+8 8 1
+Race: 24
+E
+#19523
+avian temple gatekeeper~
+the Temple Gatekeeper~
+A tall, well built avian floats here, guarding the temple.
+~
+It looks, err, unfinished.
+The avian standing before you looks extremely well built, he stands about 
+seven feet tall and is clad in a leather skirt lined with steel plates and no 
+shirt.  This avian looks like he can handle himself extremely well in a fight.
+He stands in front of you seemingly looking you over for something important.
+~
+17033242 0 0 0 67278012 0 0 0 750 E
+31 -11 -21 31d5+997 20d4+21
+0 90000
+8 8 1
+Race: 24
+E
+#19524
+avian temple gatekeeper~
+the Temple Gatekeeper~
+A tall, well built avian floats here, guarding the temple.
+~
+The avian standing before you looks extremely well built, he stands about 
+seven feet tall and is clad in a leather skirt lined with steel plates and no 
+shirt.  This avian looks like he can handle himself extremely well in a fight.
+He stands in front of you seemingly looking you over for something important.
+~
+17033242 0 0 0 67278012 0 0 0 750 E
+31 -11 -21 31d5+997 20d4+21
+0 90000
+8 8 1
+BareHandAttack: 13
+Race: 24
+E
+$

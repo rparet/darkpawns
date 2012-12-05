@@ -1,0 +1,999 @@
+#18600
+Map room of zone 186~
+   You see a map on a wall. To the north is the entrance to the largest
+building. To the west is the entrance to the next largest; the south is
+the next largest after that and the east is the smallest.
+~
+186 524 0 0 0 0
+D0
+~
+~
+0 -1 18602
+D1
+~
+~
+0 -1 18642
+D2
+~
+~
+0 -1 18644
+D3
+~
+~
+0 -1 18640
+E
+map~
+
+                           ^^  ^^  ^^  ^^ ^^    #  Doors
+                           ^^  23  24  25 ^^ ^^ Mountains (impassable and
+   ^^  ^^  ^^  ^^  ^^  ^^  ^^      __     ^^       they are not rooms).
+   ^^  16  17  18  19  20  21  22 |46| 26 ^^nn Numbers that correspond to
+   ^^      ______      ______     |  |    ^^      their place in zone 186.
+^^ 13  15 |08  07| 39 |52  51| 44+#45| 27 ^^       01 is room 18601.
+^^        |      |    |      | +  `--'    ^^ '|' Walls of buildings.
+^^ 12  14 |06  05| 38 |49  50| 43  47  28 ^^  +  A trail in the village.
+^^        |      |    `##----' +   __     ^^
+^^ 11  10 |03  04| 37  40++41++42+#48| 29 ^^
+^^        `##----'     +          `--'    ^^
+^^ ^^  09  02++36++35++34  33  32  31  30 ^^
+   ^^      +                              ^^
+   ^^  ^^  01  ^^  ^^  ^^  ^^  ^^  ^^  ^^ ^^
+
+~
+S
+#18601
+A Short Pass~
+   You stand on a trail which winds confusingly through a short pass into 
+the mountains. To the north you see what looks like an abandoned village 
+in a small valley. To the south, a forest opens up before you. Wait..what 
+was that? Something howling...sounds like it came from the village. It's 
+not abandoned after all. A tree to the side of the path here is inscribed
+with some kind of warning in crude common.
+~
+186 32772 0 0 0 2
+D0
+~
+~
+0 -1 18602
+D2
+~
+~
+0 -1 9551
+E
+carving warning incription letters~
+Beware travellers! For death has come to the village in
+the north, and there it lives.
+~
+S
+#18602
+A Cold Village~
+   You stand at the entrance to a village. The air is quite frigid and you
+hug your coat tightly around you. You see no one about but you hear strange
+growling and howling noises. Some animals must certainly be here. What's
+that? In the ground you see strange footprints. LARGE footprints of some
+claw footed animal.
+   You see a large building to the north and smaller buildings to the east.
+You see a wide open plain to the northwest and a trail taking you out of
+this place to the south.
+~
+186 32768 0 0 0 2
+D0
+A large building. A big wooden door is before you.
+~
+door~
+1 18610 18603
+D1
+~
+~
+0 -1 18636
+D2
+~
+~
+0 -1 18601
+D3
+~
+~
+0 -1 18609
+S
+#18603
+Inside a Large Building~
+   Bodies! Everywhere! Gored human beings hang by hooks from the ceiling and
+lay strewn on the floor! Viscera and dried blood cover the floor and walls.
+A large table to the east displays similar horrors. You see something
+moving in the darkness! Could it just be shadows casted by your light?
+~
+186 32777 0 0 0 0
+D0
+~
+~
+0 -1 18606
+D1
+~
+~
+0 -1 18604
+D2
+A large wooden door.
+~
+door~
+1 18610 18602
+S
+#18604
+A Large Table~
+   You stand near a large table which stretches to the north. On this table
+are ghastly corpses. Unidentifiable organs, blood, and bones are strewn
+everywhere.
+   More of the building is to the north and west.
+~
+186 32777 0 0 0 0
+D0
+~
+~
+0 -1 18605
+D3
+~
+~
+0 -1 18603
+S
+#18605
+A Large Table~
+   Chairs, platters and utensils are scattered about here. The table is
+covered in blood. A partially eaten corpse adorns a huge platter in the
+center of the table. The table stretches to the south. More of the building
+is to the north and west.
+~
+186 32777 0 0 0 0
+D0
+~
+~
+0 -1 18607
+D2
+~
+~
+0 -1 18604
+D3
+~
+~
+0 -1 18606
+S
+#18606
+Inside a Large Building~
+   As you walk here you can't help stepping in blood and guts. Pieces of
+human bodies are lying here, scattered about. It looks like they were ripped
+apart by something with looooong claws. Something growls...you see something
+moving in the corner! Whatever did this is still here!
+~
+186 32777 0 0 0 0
+D0
+~
+~
+0 -1 18608
+D1
+~
+~
+0 -1 18605
+D2
+~
+~
+0 -1 18603
+S
+#18607
+Near an Oven~
+   You stand near a large stone oven; by the looks of the ashes and the cold
+temperature in this building, the fires in it have ceased long ago.
+   There is a large table to the south and a large stove to the west.
+~
+186 32777 0 0 0 0
+D2
+~
+~
+0 -1 18605
+D3
+~
+~
+0 -1 18608
+S
+#18608
+Near a Large Stove~
+   You stand near a large, ice cold stove. It's quite dirty.
+   More of the building stretches to the south and a large oven is to the
+east.
+~
+186 32777 0 0 0 0
+D1
+~
+~
+0 -1 18607
+D2
+~
+~
+0 -1 18606
+S
+#18609
+A Field of Short Grass~
+   It's extremely cold and very little grows out here. The grass here is
+extremely short and sparse. Mountains block passage to the south and west.
+To the east is a dirt trail that leads to a large building and to the north
+the field widens.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18610
+D1
+~
+~
+0 -1 18602
+S
+#18610
+A Field of Short Grass~
+   You stand in a field of sparse, short grass. The side of a large building
+is to the east. The field continues to the south, west and north.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18614
+D2
+~
+~
+0 -1 18609
+D3
+~
+~
+0 -1 18611
+S
+#18611
+A Field Bounded by Mountains~
+   This field is blocked by mountains to the south and west. It continues to
+the north and east. To the east you see buildings of a small village.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18612
+D1
+~
+~
+0 -1 18610
+S
+#18612
+A Field Bounded by Mountains~
+   This field is blocked by mountains to the west. It continues a short
+distance to the north, east, and south. Farther to the south and north you
+see mountains. To the east you see buildings of a small village.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18613
+D1
+~
+~
+0 -1 18614
+D2
+~
+~
+0 -1 18611
+S
+#18613
+A Field Bounded by Mountains~
+   This field is bounded by mountains to the north and west. The field
+continues to the south and there's a village a short distance to the east.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18615
+D2
+~
+~
+0 -1 18612
+S
+#18614
+A Field of Short Grass~
+   You stand in a field of sparse, short grass. The side of a large building
+is to the east. The air is frigid and you see your breath fog as you breathe.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18615
+D2
+~
+~
+0 -1 18610
+D3
+~
+~
+0 -1 18612
+S
+#18615
+A Field of Short Grass~
+   You stand in a field of sparse, short grass. The side of a large building
+is to the east. The air is frigid and you see your breath fog as you breathe.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18616
+D2
+~
+~
+0 -1 18610
+D3
+~
+~
+0 -1 18613
+S
+#18616
+A Field Bounded by Mountains~
+   This is a field of short grass. To the north and west are mountains. You
+can see a large building to your southeast and some smaller ones in the
+distance to the east.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18617
+D2
+~
+~
+0 -1 18615
+S
+#18617
+A Field Behind a Large Building~
+   You stand behind a large building in a village. The mountains to the north
+cast shadows over you chilling your already cold body further.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18618
+D3
+~
+~
+0 -1 18616
+S
+#18618
+A Field Behind a Large Building~
+   You stand behind a large building in a village. The mountains to the north
+cast shadows over you chilling your already cold body further.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18619
+D3
+~
+~
+0 -1 18617
+S
+#18619
+A Field of Short Grass~
+   You're standing in a field of short, sparse grass. A gap between two
+buildings is to your south and mountains to the north. The field continues
+to your east and west.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18620
+D2
+~
+~
+0 -1 18639
+D3
+~
+~
+0 -1 18618
+S
+#18620
+Behind a Building~
+   You stand in a field of grass. Mountains block passage to the north and
+a building blocks you to the south. The cold air makes you wish you were
+inside that building.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18621
+D3
+~
+~
+0 -1 18619
+S
+#18621
+Behind a Building~
+   You stand behind a building which lies to your south. You can go west or
+east.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18622
+D3
+~
+~
+0 -1 18620
+S
+#18622
+Near Two Buildings~
+   You stand in a field of short, sparse grass. You see a large building to
+your southwest and the side of another to the east. A trail to the south of
+you leads to its door. You can see mountains a short distance to the north.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18623
+D2
+~
+~
+0 -1 18644
+D3
+~
+~
+0 -1 18621
+S
+#18623
+A Field Bounded by Mountains~
+   Mountains block your movement to the north and west. A small building lies
+directly to the southeast of you. You can see another to the southwest.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18624
+D2
+~
+~
+0 -1 18622
+S
+#18624
+A Field Bounded by Mountains~
+   You stand in a field with impassable mountains to your north. There is
+the side of a small hut to your south. You can go west or east.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18625
+D3
+~
+~
+0 -1 18623
+S
+#18625
+Bounded by Mountains~
+   The field here is bounded by mountains to the north and east. Your near
+the northeast corner of a small building. You can go west and south.
+~
+186 32768 0 0 0 2
+D2
+~
+~
+0 -1 18626
+D3
+~
+~
+0 -1 18624
+S
+#18626
+Behind a Small Building~
+   You stand behind a small building that lies to your west. A smaller
+building can be seen a short distance to the southwest. The frigid air makes
+you wish you could go inside one of them right now.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18625
+D2
+~
+~
+0 -1 18627
+S
+#18627
+Behind a Building~
+   You stand behind a building that lies to your west. The air chills you to
+your spine. Possibly you can warm up in one of those buildings?
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18626
+D2
+~
+~
+0 -1 18628
+S
+#18628
+A Field of Short Grass~
+   This is a field of sparse, short grass. There is a building to the
+northwest and another to the southwest. Mountains block your movement to the
+east.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18627
+D2
+~
+~
+0 -1 18629
+D3
+~
+~
+0 -1 18647
+S
+#18629
+Behind a Building~
+   You stand behind a small shack-like building that lies to your west. You
+can go north or south. You are block by mountains to the east.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18628
+D2
+~
+~
+0 -1 18630
+S
+#18630
+Bounded by Mountains~
+   Mountains loom over you to the south and east. A grassy field lies to your
+north and west. To the northwest is a corner of a small shack-like building.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18629
+D3
+~
+~
+0 -1 18631
+S
+#18631
+A Field of Short Grass~
+   You stand in a field of sparse, short grass. You see a deserted village
+to the northwest. Directly north of you is a small building. A trail in the
+village leads to its entrance to your northwest.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18630
+D3
+~
+~
+0 -1 18632
+S
+#18632
+A Field of Short Grass~
+   You stand south of a trail in an abandoned looking village. It's quite
+cold out here.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18642
+D1
+~
+~
+0 -1 18631
+D3
+~
+~
+0 -1 18633
+S
+#18633
+A Field of Short Grass~
+   You stand off the trail of a village. You can see buildings all around
+you. To the north and northwest are two large looking buildings and to the
+east and northeast are two smaller ones.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18641
+D1
+~
+~
+0 -1 18632
+D3
+~
+~
+0 -1 18634
+S
+#18634
+A Trail in the Cold Village~
+   Brrr, it's cold out here! The buildings looks like good places to try
+to warm up. There's a large building to the north and another to the
+northwest. A small one lies a short distance to the east. The trail leads
+west and north.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18640
+D1
+~
+~
+0 -1 18633
+D3
+~
+~
+0 -1 18635
+S
+#18635
+A Trail in the Cold Village~
+   Claw marks abound on this part of the trail. The grass around the trail
+looks burned in some places and some parts of the trail look dug up.
+   You see a large wooden house to the northeast and a smaller building to
+the east. Directly to your northwest is a large wooden building.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18637
+D1
+~
+~
+0 -1 18634
+D3
+~
+~
+0 -1 18636
+S
+#18636
+A Trail in the Cold Village~
+   Here is a dirt trail amidst sparse grass. You see what looks like tracks
+made by people on the trail as well as what looks like tracks made by
+animals.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18635
+D3
+~
+~
+0 -1 18602
+S
+#18637
+Beside a Large Building~
+   There is an overturned cart and lots of scattered utensils lying about
+here. You don't see the cart's driver or a horse anywhere. But you do see
+several bones on the ground. They look like they were from a large animal.
+Like a horse maybe.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18638
+D1
+~
+~
+0 -1 18640
+D2
+~
+~
+0 -1 18635
+S
+#18638
+Between Two Buildings~
+   You walk between a large building to your west and another to your east.
+Bones and scraps of cloth lie around here. To the north a short distance
+away you see the edge of some mountains. To the south you see a dirt trail
+within this village.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18639
+D2
+~
+~
+0 -1 18637
+S
+#18639
+Between Two Buildings~
+   You walk between a large building to your west and another to your east.
+To the north a short distance away you see the edge of some mountains.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18619
+D2
+~
+~
+0 -1 18638
+S
+#18640
+A Trail in the Cold Village~
+   This trail leads up to the door of a large building north of you. The
+door is broken open and has claw marks all over it. The dirt in front of
+the door is very stirred up and it looks like something struggled very hard
+to get into this building. You hear something moving around inside...what
+could it be?
+   The trail continues to the east leading up to a small building a short
+distance away and southwest to the entrance of the village. You see some
+scattered and broken items beside a wall to the west.
+~
+186 32768 0 0 0 2
+D0
+A broken door.
+~
+door~
+1 18610 18649
+D1
+~
+~
+0 -1 18641
+D2
+~
+~
+0 -1 18634
+D3
+~
+~
+0 -1 18637
+S
+#18641
+A Trail in the Cold Village~
+   You walk on a trail in a cold village. The frigid air digs past your
+clothes and chills you. The trail continues to the east leading to a small
+building and west leading up to the doorway of a larger one.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18642
+D2
+~
+~
+0 -1 18633
+D3
+~
+~
+0 -1 18640
+S
+#18642
+A Trail in the Cold Village~
+   You stand before the broken door of a small building to your east. The
+door has claw marks on it and what looks like puddles of coagulated blood
+lie on the ground.
+   The trail continues to the north and to the west. To the north you can
+see another building similar to the others. To the south, you can see
+the edge of some mountains a short distance away.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18643
+D1
+A broken door. Scattered blood stains and claw marks adorn it.
+~
+door~
+1 18610 18648
+D2
+~
+~
+0 -1 18632
+D3
+~
+~
+0 -1 18641
+S
+#18643
+A Trail in the Cold Village~
+   You walk on a dirt trail. A large building lies directly to the west of
+you, while a smaller one lies to the north and another small one to the
+northeast.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18644
+D1
+~
+~
+0 -1 18647
+D2
+~
+~
+0 -1 18642
+S
+#18644
+A Trail in the Cold Village~
+   The trail leads up to the door of a long building to your east. The door
+is open, and several gnawed and broken bloody bones lie in the doorway. You
+notice a few small bloody bones lying in the dirt near your feet too. It looks
+like whatever these bones used to be was eaten by something with powerful
+jaws.
+~
+186 32768 0 0 0 2
+D0
+~
+~
+0 -1 18622
+D1
+A door.
+~
+door~
+1 18610 18645
+D2
+~
+~
+0 -1 18643
+S
+#18645
+Inside a Messy Building~
+   Bones, bits of flesh, scraps of clothes, and some leather items lie strewn
+all over this building. To the north, you see more of the same thing. Nothing
+but a mess. The door leading out of the building is to your west.
+~
+186 32777 0 0 0 0
+D0
+~
+~
+0 -1 18646
+D3
+~
+~
+1 18610 18644
+S
+#18646
+Inside a Messy Building~
+   Rent flesh, bits of fur, bloody guts and some leather items lie strewn all
+over this building. Dried splattered blood stains are all over the walls.
+Skulls of small animals lie in a little pile here.
+~
+186 32777 0 0 0 0
+D2
+~
+~
+0 -1 18645
+S
+#18647
+Between Two Buildings~
+   You stand between a small building to the south and a larger one to the
+north. A dirt trail lies to your west and mountains can be seen to the east.
+~
+186 32768 0 0 0 2
+D1
+~
+~
+0 -1 18628
+D3
+~
+~
+0 -1 18643
+S
+#18648
+A Ransacked Storehouse~
+   This small, shack-like building seems to have been used for storage.
+Long poles are placed in the walls protruding from one wall to its opposite.
+The poles are situated near the ceiling and a bloody hook hangs from one.
+Wooden boxes lie broken and splintered on the floor along with strips of
+leather and more hooks. Dried blood covers everything and bits of dry meat
+can be seen amid the rubble.
+   The door leading out of this horrible storehouse is to your west.
+~
+186 32777 0 0 0 0
+D3
+A broken door. It's covered in blood.
+~
+door~
+1 18610 18642
+S
+#18649
+A Messy House~
+   As you step into this building, your first sight are the pieces of bodies
+lying about. Ribs, arms, and other body parts lie on the dirty floor. One
+severed hand holds onto a sword -- possibly there had been a struggle here?
+Dried blood covers everything. You see more bodies -- parts of them -- to
+the east and north. Something moves around you! Whatever did this to these
+people is still here!
+~
+186 32777 0 0 0 0
+D0
+~
+~
+0 -1 18652
+D1
+~
+~
+0 -1 18650
+D2
+A broken door.
+~
+door~
+1 18610 18640
+S
+#18650
+Inside a Messy Building~
+   Body parts litter the floor. It's a horrible sight and you feel like
+running out the building and puking. To the north is an even more horrible
+sight.
+~
+186 32777 0 0 0 0
+D0
+~
+~
+0 -1 18651
+D3
+~
+~
+0 -1 18649
+S
+#18651
+A Pile of Bodies~
+   Many corpses lie here in a disgusting heap. Men, women, children and
+infants are all present in what looks like the end result of a struggle.
+Some of the corpses are disemboweled; others are denuded. Everything is
+covered in blood. Some weapons can be discerned amidst the carnage.
+It looks like they didn't help these poor people at all.
+~
+186 32777 0 0 0 0
+D2
+~
+~
+0 -1 18650
+D3
+~
+~
+0 -1 18652
+S
+#18652
+Inside a Messy Building~
+   Body parts litter the floor. It's a horrible sight and you feel like
+running out the building and puking. To the east is an even more horrible
+sight.
+~
+186 32777 0 0 0 0
+D1
+~
+~
+0 -1 18651
+D2
+~
+~
+0 -1 18649
+S
+$~

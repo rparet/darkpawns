@@ -1,0 +1,2083 @@
+#12100
+The Immortal Map Room of Haven~
+There is a huge map here.
+~
+121 520 0 0 0 0
+D5
+~
+~
+0 0 12101
+E
+sign map~
+                 I        F
+                II / II - C - I
+                 I   II   |
+                          |
+                      C   |   I   I   I
+              I - C - C - C - C - C - C - F
+                  |   I-I |   II      I   |
+                  |  II   |   II-I        |
+              C - C       |               |
+              |   |   I - C - I           F
+              C   I   I - C - I           |
+              |       |   |               |
+          C - C   I   |   |   I   I       |
+                  C - C - C - C - C / F - F - F
+                  |       |       |
+               B  C   B   C   B   C   B   B   B
+                  |       |       |
+               B  C   B   C   B   C   B   B   B
+
+                  B   B   B   B   B
+
+C - City Streets
+F - Forest/Field
+I - Indoors (multiple rooms marked by II)
+B - Bay Area
+/ - Stairs
+~
+S
+#12101
+The Gates of Haven~
+   A set of iron gates to the south marks the entrance to the coastal town
+of Haven, renowned for its trade prowess, sea-fairing population and chance
+to make some quick gold. Looking to the north, you can see a dirt road
+disappear into the surrounding forest. A cobblestone road begins at the gates
+and extends well into the town.
+~
+121 32768 0 0 0 3
+D0
+~
+~
+0 0 3101
+D2
+~
+~
+0 0 12102
+E
+gates~
+They may have been quite grand when first placed here, but the ravages of
+time and the sea air have left them as rusted frames in need of repair.
+~
+S
+#12102
+A Cobblestone Road in Haven~
+   The cobblestone road you are on starts at the gates to the north and
+travels south, providing the main thoroughfare for Haven's mostly pedestrian
+traffic. However, a number of wagons pass by, heavily laden with goods on their
+way to the cities of Kir Drax'in and Alaozar. A group of fishermen stare at
+you intently but say nothing.
+   The sounds of laughter drift across the road from the open doors of a
+double story building to the west, a small sign proclaiming it as the Drunken
+Jig Inn. The Haven Customs House is on the eastern side of the road.
+~
+121 32772 0 0 0 1
+D0
+The Gates of Haven
+~
+~
+0 0 12101
+D1
+The Customs House
+~
+~
+0 -1 12107
+D2
+The town square
+~
+~
+0 -1 12108
+D3
+The Drunken Jig Inn
+~
+~
+0 -1 12103
+E
+wagons~
+The wagons are loaded to the point of almost overflowing with a number of
+goods, most of which do not interest you.
+~
+S
+#12103
+The Drunken Jig Inn~
+   You are greeted by both the sound and smell of a number of drunk sailors
+who treat this inn as a second home. Dirty tables are scattered around you
+while the bar occupies the center of the room. In the darker corners, whispered
+conversations continue despite the noise and merriment.
+   Stairs to the west lead up to the sleeping accommodation while the main road
+is to the east.
+~
+121 32776 0 0 0 0
+D1
+~
+~
+0 0 12102
+D2
+~
+~
+0 0 12106
+D3
+~
+~
+0 0 12104
+S
+#12104
+The Drunken Jig Inn~
+   The noise dies off as you approach this corner of the room which must be
+a relief for those wishing to sleep upstairs. Torches along the wall mark
+the stairs leading to the sleeping quarters above, the odd two or three sailors
+comatose on floor.
+~
+121 32776 0 0 0 0
+D1
+~
+~
+0 0 12103
+D2
+~
+~
+0 0 12105
+D4
+The Upper Floor of the Drunken Jig Inn
+~
+~
+0 0 12109
+S
+#12105
+The Drunken Jig Inn~
+   Bloodshot eyes look up from various tables as you make your way around the
+inn. A few of the more sober patrons offer you a glance before returning to
+their conversations. A small scuffle breaks out near the bar but is quickly
+sorted out by the inn keeper. The second floor can be accessed by stairs to the
+north while you can see the exit from the inn to the north east.
+~
+121 32776 0 0 0 0
+D0
+~
+~
+0 0 12104
+D1
+~
+~
+0 0 12106
+S
+#12106
+The Drunken Jig Inn~
+   A small group of merchants sits in deep discussion in this corner of the
+inn but unfortunately the noise from the drunk patrons prevents you from
+hearing what is being said. You almost trip over one of the tables as you
+attempt to get closer and decide in the end it's not worth the trouble.
+To the north, sailors continue to stream into the inn from the town and it
+won't be long before it will be standing room only.
+~
+121 32776 0 0 0 0
+D0
+~
+~
+0 0 12103
+D3
+~
+~
+0 0 12105
+S
+#12107
+The Customs House~
+   This small structure is sparsely furnished and serves as the Customs House
+for the town. In earlier times, traders leaving to travel abroad would stop
+by here to detail the goods they carried in an effort to prevent theft along
+the way. However, the town is now controlled more by the pirates and merchants
+who frequent the port rather than the appointed officials who govern here.
+As such, the Customs House is rarely used.
+   The doorway to the west exits onto the main street.
+~
+121 32776 0 0 0 0
+D3
+~
+~
+0 0 12102
+S
+#12108
+The Town Square~
+   The town square is central to Haven and provides a meeting place for the
+local inhabitants, as well as a social area for the many creatures that
+frequent the area. Several benches on the perimeter of the square form a loose
+circle around a small, wooden platform in the middle of the street. A number
+of traders have set up makeshift stalls along the edge of the street, each
+trying to get your attention in an effort to sell their goods.
+   A signpost on the corner of the square points southward to the town docks
+and east to Guild road.
+~
+121 32768 0 0 0 1
+D0
+The main road through Haven
+~
+~
+0 0 12102
+D1
+The Guild Road
+~
+~
+0 0 12113
+D2
+The main road through Haven
+~
+~
+0 0 12121
+D3
+~
+~
+0 0 12145
+E
+platform~
+The wooden platform provides a central location from which individuals may
+stand and address the assembled crowd.
+~
+E
+benches~
+This area is fairly central to the town and serves as a meeting area for the
+local populace. Each bench faces the wooden platform in the middle of the
+street.
+~
+S
+#12109
+The Upper Floor of the Drunken Jig Inn~
+   You stand in a small foyer with doors to the north, west and south which
+lead to sleeping quarters within the inn. The owner of the inn long ago
+waived the need to pay for these rooms as many of the patrons often ended up
+collapsed on the floor below. Stairs lead to the bar down below.
+~
+121 32776 0 0 0 0
+D0
+~
+door~
+1 -1 12110
+D2
+~
+door~
+1 -1 12112
+D3
+~
+door~
+1 -1 12111
+D5
+~
+~
+0 0 12104
+S
+#12110
+The Sleeping Quarters~
+   You would be better off sleeping in the street below! This room was, once
+upon a time, probably the best in the inn...now it's got to be the worst.
+Rubbish is piled high against the far wall and covers the majority of the
+floor, a broken window overlooks the forest and has allowed a number of birds
+to make this room their home. A filthy mattress can just be seen poking out
+of the rubbish. The only exit from the room is to the south.
+~
+121 32776 0 0 0 0
+D2
+~
+door~
+1 -1 12109
+E
+mattress~
+You can't begin to imagine what other forms of life inhabit it.
+~
+S
+#12111
+The Sleeping Quarters~
+   With the lack of use, the inn keeper no longer pays for the upkeep of these
+rooms which is evident by the rubbish which litters the floor and the filthy
+mattress in the corner of the room. It's a wonder that anyone would chose to
+stay here at all but you are unlikely to be disturbed should you wish to do
+so. The only exit from the room is to the east.
+~
+121 32776 0 0 0 0
+D1
+~
+door~
+1 -1 12109
+E
+mattress~
+You can't begin to imagine what other forms of life inhabit it.
+~
+S
+#12112
+The Sleeping Quarters~
+   This room is littered with rubbish and contains only a mattress which
+lies in the corner. The inn keeper has put some minor effort into keeping this
+room presentable, obviously it used more than the other two, but it certainly
+is well below average. The only exit is the door to the north.
+~
+121 32776 0 0 0 0
+D0
+~
+door~
+1 -1 12109
+E
+mattress~
+You can't begin to imagine what other forms of life inhabit it.
+~
+S
+#12113
+The Guild Road~
+   Although relatively small, the town of Haven is well known for the amount
+of goods that travel its roads. As such, a group of merchants long ago created
+a merchant guild, a place to relax away from the hustle and bustle of sea
+life and to exchange both tales and trade routes. Second only to the tavern
+in size, the guild is a large building and can be entered through a door to
+the south.
+   A small building to the north houses the town public works officer.
+~
+121 32768 0 0 0 1
+D0
+The Office of Public Works
+~
+~
+0 0 12132
+D1
+The Guild Road
+~
+~
+0 -1 12114
+D2
+The Guild of the Merchants
+~
+door~
+1 -1 12117
+D3
+The town square
+~
+~
+0 -1 12108
+E
+homes~
+The town of Haven, being far removed from the larger cities of Kir Drax'in
+and Alaozar, has had to develop on its own. The homes here are built from
+brick, made from clay collected near the docks to the south of the town.
+~
+S
+#12114
+The Guild Road~
+   Sandy footprints from the east travel past you and head towards the town
+square. Looking to the east, you cannot clearly see the source of the sand
+but being a coastal town, it's only logical that there would be some around.
+The guild of the merchants is to your south, although you can only enter it
+through the door to the south west. A small shrine has been created in the
+building to the north as a place of worship for the town's residents.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12119
+D1
+The Guild Road
+~
+~
+0 0 12115
+D3
+The Guild Road
+~
+~
+0 -1 12113
+S
+#12115
+The Guild Road~
+   The road deteriorates here into nothing more than a sandy path that slopes
+down to the east.  This is clearly the outskirts of Haven, as the edge of
+the small town blends seamlessly into the surrounding wilderness.  
+   There are similar buildings to the north and south, each with a sign
+above the doorway.  The Guild Road continues in its cobblestone form to the
+west.
+~
+121 32768 0 0 0 1
+D0
+A Merchant's Store
+~
+~
+0 0 12137
+D1
+~
+~
+0 0 12151
+D2
+A Merchant's Store
+~
+~
+0 0 12138
+D3
+The Guild Road
+~
+~
+0 -1 12114
+E
+sign~
+The one to north bears two crossed oars, while the one to the south has a
+single barrel on it.
+~
+S
+#12116
+The Guild of the Merchants~
+   Lanterns fixed to the wall create shadows that dance wildly around the
+guild. No expense has been spared as can be seen by the foyer to the west.
+Large, comfortable chairs have been arranged in a circle in this corner of
+the room, created from the finest of fabrics. You feel quite safe and could
+afford to sleep if you wish.
+~
+121 32776 0 0 0 0
+D2
+~
+~
+0 0 12120
+D3
+~
+~
+0 0 12117
+S
+#12117
+The Guild of the Merchants~
+   You stand in a small foyer which marks the entrance to the Guild of
+Merchants, a collection of traders from various ports around the world. Your
+intrusion into their lives is tolerated as your explorations are well known
+by the guild members.
+   The guild is well furnished and contains all manner of artwork, fine
+pottery and exquisite hand woven rugs, obviously collected from long voyages.
+Small groups of merchants are huddled around the room deep in conversation
+about the next journey to be undertaken. The Guild Road lies through the door
+to the north.
+~
+121 32776 0 0 0 0
+D0
+The Guild Road
+~
+door~
+1 -1 12113
+D1
+~
+~
+0 0 12116
+D2
+~
+~
+0 0 12118
+E
+artwork~
+You're not much of an art critic, but they do look good!
+~
+E
+pottery~
+Best be careful where you walk...you wouldn't want to break any of it.
+~
+E
+rugs~
+It must have taken years to manufacture a single rug.
+~
+S
+#12118
+The Guild of the Merchants~
+   As you walk around admiring the art that hangs from the walls, you bump
+into three of the guild members in a heated conversation. You quickly back
+away as the look you receive from them is not a welcoming one. The entrance
+to the guild is to your north and you can see a door further to the east.
+~
+121 32776 0 0 0 0
+D0
+~
+~
+0 0 12117
+D1
+~
+~
+0 0 12120
+S
+#12119
+A Shrine~
+   The shrine has been created by the residents of Haven as a place of worship
+and to provide something of an escape from the visitors to the town. An altar
+constructed from coral sits against the far wall and is decorated with
+numerous offerings, perhaps in an attempt to protect the town from the harsh
+sea weather or more often than not, the frequent pirate attacks.
+~
+121 294940 0 0 0 0
+D2
+The cobblestone road through Haven
+~
+~
+0 0 12114
+E
+worship~
+You don't know who the citizens worship, but there is no one here who will
+speak to you.
+~
+S
+#12120
+The Guild of the Merchants~
+   It's as if you've done something you should not have...you stand in the
+corner of the room and all eyes are focused on you, conversations coming to
+an immediate halt. You look around you to make sure you haven't broken one
+of the many items of pottery within the guild, but the only thing you can
+see is the door to the east.
+~
+121 32776 0 0 0 0
+D0
+~
+~
+0 0 12116
+D1
+You see nothing special.
+~
+door~
+2 12105 12136
+D3
+~
+~
+0 0 12118
+E
+pottery~
+Best be careful where you walk...you wouldn't want to break any of it.
+~
+S
+#12121
+A Cobblestone Road in Haven~
+   The cobblestone road you are on extends to the north towards the town
+gates and also to the south where the docks stretch into Haven bay. Large
+warehouses either side of the road are used to store trade goods before they
+are transported out of the town.
+~
+121 32768 0 0 0 1
+D0
+The town square
+~
+~
+0 -1 12108
+D1
+~
+~
+0 0 12123
+D2
+The main road through Haven
+~
+~
+0 0 12122
+D3
+~
+~
+0 0 12125
+S
+#12122
+A Cobblestone Road in Haven~
+   Merchants pass you by as you walk along the cobblestone road, some of them
+more concerned with the storage of their goods than with harassing you. To
+the east and west, a large warehouse holds the trade goods before they are
+transported out of the town and to the south, you can see the docks of Haven,
+the backbone of the town.
+~
+121 32768 0 0 0 1
+D0
+The main road through Haven
+~
+~
+0 -1 12121
+D1
+~
+~
+0 0 12124
+D2
+~
+~
+0 0 12127
+D3
+~
+~
+0 0 12126
+S
+#12123
+A Large Warehouse~
+   The warehouse has been constructed from clay bricks and has a thatched
+roof to prevent damage to the goods stored within. There appears to be no
+way of controlling what goods belong to what merchant, but perhaps the fear of
+death from the more unruly elements of this town keeps most of them safe.
+   The warehouse opens onto the main road to the west and continues to the
+south.
+~
+121 32776 0 0 0 0
+D2
+~
+~
+0 0 12124
+D3
+The main road through Haven
+~
+~
+0 0 12121
+E
+roof~
+A combination of forest wood and clay tiles, the roof is quite strong and
+weather-resistant.
+~
+E
+clay~
+The clay is collected near the dock area and has been compacted to form
+these bricks.
+~
+S
+#12124
+A Large Warehouse~
+   Everything from fine silk to barrels of fish have been stored here,
+apparently left unguarded by the merchant owners, although some roam around
+taking inventory of their cargo. The warehouse provides shelter from the
+weather with a thatched roof and has been constructed using clay bricks. It
+opens onto the road to the west and continues to the north.
+~
+121 32776 0 0 0 0
+D0
+~
+~
+0 0 12123
+D3
+The main road through Haven
+~
+~
+0 0 12122
+E
+roof~
+A combination of forest wood and clay tiles, the roof is quite strong and
+weather-resistant.
+~
+E
+clay~
+The clay is collected near the dock area and has been compacted to form
+these bricks.
+~
+S
+#12125
+A Large Warehouse~
+   As with most of the buildings within the town, this warehouse has been
+constructed from clay bricks and has a thatched roof to prevent possible damage
+to the goods stored here. Merchants enter from the road to the east with their
+wagons, removing the latest shipment from the far corners of the world. Other
+less respected traders wander through eyeing the merchandise carefully, in
+some aspects ensuring it is not stolen.
+~
+121 32776 0 0 0 0
+D1
+The main road through Haven
+~
+~
+0 0 12121
+D2
+~
+~
+0 0 12126
+E
+roof~
+A combination of forest wood and clay tiles, the roof is quite strong and
+weather-resistant.
+~
+E
+clay~
+The clay is collected near the dock area and has been compacted to form
+these bricks.
+~
+S
+#12126
+A Large Warehouse~
+   As with most of the buildings within Haven, the warehouse has been
+constructed from clay bricks and has a thatched roof to prevent damage to the
+goods stored here. This area has been set aside for a number of tools, mainly
+those used in the repair of the various ships that dock here. A broken wagon
+has been abandoned at the eastern entrance to the warehouse.
+~
+121 32776 0 0 0 0
+D0
+~
+~
+0 0 12125
+D1
+The main road through Haven
+~
+~
+0 0 12122
+D2
+~
+~
+0 0 12128
+E
+wagon~
+The wagon bears the scars of heavy usage, its wooden frame rotting in the
+moisture-rich sea air. One of the wheels has also been removed in an attempt
+to repair some of the damage.
+~
+E
+roof~
+A combination of forest wood and clay tiles, the roof is quite strong and
+weather-resistant.
+~
+E
+clay~
+The clay is collected near the dock area and has been compacted to form
+these bricks.
+~
+S
+#12127
+The Boardwalk~
+   You stand at the beginning of one of three main docks in the port town
+of Haven. A wooden boardwalk to the west and east joins the three docks
+together and provides a shop-front for merchant stalls where some of the
+less expensive goods can be sold to the local citizens. Several large ships
+are anchored out in the bay, preferring to dock here only to unload cargo.
+   A cobblestone road begins to the north and forms the main road through
+the town.
+~
+121 32768 0 0 0 1
+D0
+The main road through Haven
+~
+~
+0 0 12122
+D1
+~
+~
+0 0 12130
+D2
+~
+~
+0 0 12141
+D3
+~
+~
+0 0 12128
+S
+#12128
+The Boardwalk~
+   Merchants, sailors, pirates, fishermen...they're all here. The docks abound
+with life, each profession going about their duties in preparation for their
+journey across the waves. Seagulls sit perched on the dock pylons, hungrily
+awaiting the scraps of fish that will ultimately be discarded here by the local
+fishermen. The docks of Haven are to the west and east of here, or you can
+access a large warehouse to the north.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12126
+D1
+~
+~
+0 0 12127
+D3
+~
+~
+0 0 12129
+E
+pylons~
+These sturdy logs have the diameter of a large tree and provide the support
+necessary to keep the dock from crashing into the bay.
+~
+S
+#12129
+The Boardwalk~
+   This is the western end of the boardwalk, one of the docks extends into
+Haven bay to the south of here. You are almost knocked into the water by a
+group of sailors in a hurry to spend their well-earned shore leave at the
+local tavern. The smell of spices wafts through an open door to the north.
+~
+121 32768 0 0 0 1
+D0
+A Merchant's Store
+~
+~
+0 0 12133
+D1
+~
+~
+0 0 12128
+D2
+~
+~
+0 0 12139
+S
+#12130
+The Boardwalk~
+   The boardwalk creeks under your weight as you travel along and you wonder
+who is responsible, with the amount of activity the docks must see, for keeping
+it in a decent state of repair. Two of the docks lie to the west and east of
+you respectively, while a fishmonger hawks his wares to the north.
+~
+121 32768 0 0 0 1
+D0
+A Merchant's Store
+~
+~
+0 0 12134
+D1
+~
+~
+0 0 12131
+D2
+~
+~
+0 0 12165
+D3
+~
+~
+0 0 12127
+S
+#12131
+The Boardwalk~
+   The eastern dock extends into Haven bay to the south of here, while the
+boardwalk continues to the west. A set of stairs connects the boardwalk to
+a secluded beach further to the east while another merchant's store lies to
+the north.
+   Waves splash into the dock pylons, shaking the boardwalk ever so
+slightly.
+~
+121 32768 0 0 0 1
+D0
+A Merchant's Store
+~
+~
+0 0 12135
+D2
+~
+~
+0 0 12143
+D3
+~
+~
+0 0 12130
+D5
+~
+~
+0 0 12154
+E
+pylons~
+These sturdy logs have the diameter of a large tree and provide the support
+necessary to keep the dock from crashing into the bay.
+~
+S
+#12132
+The Office of Public Works~
+   Despite the magic that abounds in this world, the town of Haven was built
+by hand and also requires constant maintenance if the town's income is to
+prosper. Tools rest against the walls and you have some trouble in getting
+from one side of the room to the other. A lone desk and chair are the only
+items of furniture in the room.
+~
+121 32780 0 0 0 0
+D2
+The Guild Road
+~
+~
+0 0 12113
+E
+Tools~
+You can see shovels, picks, axes, brick molds, bags of mortar. The rest is
+buried under other tools.
+~
+E
+desk~
+A piece of paper sits on the desk, otherwise it is rather plain.
+~
+E
+paper~
+                      Public Works of Haven
+                      ---------------------
+
+1. Dock repair - shipment arrives soon.
+2. Cobblestones - order delayed due weather, must take priority soon.
+3. Building maintenance - complaint from inn, brickwork cracking.
+4. More clay required - work party to beach-front tomorrow.
+~
+S
+#12133
+A Spice Store~
+   Spices, spices and even more spices. These items have been brought here
+from afar in an attempt to liven up the otherwise staple diet of fish that
+the majority of the citizens and visitors to Haven are treated to. The
+merchant is very enthusiastic about his goods and does everything except
+steal from you to get you to stay in his store. The docks of Haven are through
+the doorway to the south.
+~
+121 32780 0 0 0 0
+D2
+~
+~
+0 0 12129
+S
+#12134
+The Fishmonger's Store~
+   The majority of fish bought into Haven is packaged here and taken away to
+be sold in other cities. Old crates have been left around the floor, filled
+with those fish deemed unacceptable for sale elsewhere. You can see no sign
+of refrigeration or preservation and can only assume these fish are fresh,
+although judging by the odor you're not so sure. You can walk back onto
+the boardwalk through the door to the south.
+~
+121 32780 0 0 0 0
+D2
+~
+~
+0 0 12130
+S
+#12135
+The Pawn Shop~
+   This store is full of little trinkets and pieces of jewelry that have
+been "acquired" by the merchant, most of them cheap and damaged in some
+respect. Sailors wander in, most of them drunk, looking for something that
+could possibly be sold elsewhere for more gold than it was purchased with.
+   The sounds of the dock enter through the door to the south as another
+ship arrives to offload cargo.
+~
+121 32780 0 0 0 0
+D2
+~
+~
+0 0 12131
+S
+#12136
+The Vault within the Guild~
+   You can see why the guild members where uneasy as you approached the door
+to this back room...it's full of loot! Unfortunately, most of it is contained
+in locked chests and you wouldn't have time to grab any of it before you
+were forcibly removed from here. There are a few loose items that you could
+hide on your possession, however.
+~
+121 32776 0 0 0 0
+D3
+~
+door~
+2 12105 12120
+E
+chests~
+All of them are securely locked, some bound with multiple chains and
+padlocks...except for that one over there on the floor.
+~
+E
+items~
+What you see is what you can get!
+~
+S
+#12137
+The Mariners Roost~
+   It is here that sailors and pirates alike come to purchase new ships.  The
+walls are covered in large parchments detailing the latest in designs and
+a single desk sits in the corner of the room.  You take a moment to glance
+at an open book on the desk and learn that due to an infestation in the supply
+of wood, the production and sales of ships has ceased temporarily although
+a number of small one-person boats are available.
+~
+121 32780 0 0 0 0
+D2
+The Guild Road
+~
+~
+0 0 12115
+E
+parchments~
+The ship designs vary from a small cutter to a full man-of-war battleship,
+each customizable to the buyer's taste.
+~
+S
+#12138
+The Ocean Supplier~
+   People wander in and out of this store quite regularly, stocking up on
+those last minute supplies before heading out to sea. The store specializes
+mainly in products used to store food and trade goods. Barrels and crates
+are stacked in random piles around the room, possibly in an attempt to
+allow the customers to view the wares before purchase.
+~
+121 32780 0 0 0 0
+D0
+The Guild Road
+~
+~
+0 0 12115
+E
+Barrels~
+They can be used to store anything from liquids to fish.
+~
+E
+crates~
+The crates would be ideal for holding goods.
+~
+S
+#12139
+On the Docks of Haven~
+   As you walk out onto the western dock, Haven bay splashes by below you.
+Seagulls float around on unseen currents of air, enjoying the attention they
+will soon be getting when old fish are thrown out to make way for new stock.
+The dock continues to the south while the town's boardwalk is to your north.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12129
+D1
+~
+~
+0 0 12161
+D2
+~
+~
+0 0 12140
+D3
+~
+~
+0 0 12158
+S
+#12140
+On the Docks of Haven~
+   From the end of the dock, you can barely see the town even though it sits
+only a few hundred feet from you. As was intended when Haven was first built,
+the integration between the forest and town buildings has been accomplished
+to such a degree that you would not realize it was there until you arrived
+at its gates.
+   Haven bay stretches out in front of you while the dock leads north back
+to the town.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12139
+D1
+~
+~
+0 0 12162
+D2
+~
+~
+0 0 12160
+D3
+~
+~
+0 0 12159
+S
+#12141
+On the Docks of Haven~
+   You weave your way around nets which are scattered all over the dock. This
+area seems to be reserved for the fishing vessels as it is the closest point
+to the town's warehouses. Crates lined with dried seaweed cover the area,
+reeking of rotten fish.
+   The boardwalk lies to the north while the dock continues to the south.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12127
+D1
+~
+~
+0 0 12165
+D2
+~
+~
+0 0 12142
+D3
+~
+~
+0 0 12161
+S
+#12142
+On the Docks of Haven~
+   The natural anchorage of the bay before you makes Haven one of the best
+port towns, and the many coves and inlets that dot the coast make it a good
+base for the less savory characters of this world. From the end of the dock,
+you can see a large cliff face jut out to sea to your west, providing a
+barrier from the open ocean.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12141
+D1
+~
+~
+0 0 12166
+D2
+~
+~
+0 0 12164
+D3
+~
+~
+0 0 12162
+S
+#12143
+On the Docks of Haven~
+   Sailors fill this stretch of the dock, hauling large crates and bales full
+of unknown goods. Seagulls swoop down and scavenge every morsel of food that
+is carelessly dropped. To the north, merchants line the boardwalk trying
+to sell enough to keep there stores open. The dock continues to the south.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12131
+D1
+~
+~
+0 0 12169
+D2
+~
+~
+0 0 12144
+D3
+~
+~
+0 0 12165
+S
+#12144
+On the Docks of Haven~
+   The end of the dock marks the eastern most point of the town of Haven.
+Further to the east, you can see numerous rocks and boulders which have
+been painstakingly moved here to form a breakwater and thus protect the
+shipping fleet within the bay.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12143
+D1
+~
+~
+0 0 12170
+D2
+~
+~
+0 0 12168
+D3
+~
+~
+0 0 12166
+S
+#12145
+Walking Down the Back Streets of Haven~
+   It looks as if this area of the town was merely added on in haste as the
+population grew. The streets are made of uneven cobblestone that has been
+forced into the clay-soil base, creating a dangerous walking surface. The
+buildings lean in one direction or another, having been constructed with just
+as much haste as the street.
+~
+121 32768 0 0 0 1
+D0
+A back alley
+~
+~
+0 0 12148
+D1
+The town square
+~
+~
+0 0 12108
+D2
+~
+~
+0 0 12146
+D3
+~
+~
+0 0 12149
+E
+character~
+You could be mistaken, but he looks a little rougher than the common sailor
+which is evident by the skull tattoo he has on his right arm.
+~
+S
+#12146
+A Gambling Den~
+   You've never seen a larger group of pirates, thieves and general unlikable
+characters. Of course, you can't see that well at all given the layer of smoke
+that descends from the roof. The room is packed to the rim with tables,
+rowdy groups of men and women playing gambling games of some sort at each.
+   It would be wise to keep an eye on that coin purse of yours as it could
+easily disappear as you move throughout the room. You spy a door on the
+eastern wall.
+~
+121 32780 0 0 0 0
+D0
+~
+~
+0 0 12145
+D1
+The back room
+~
+door~
+2 12118 12147
+D2
+~
+~
+0 0 12179
+D3
+~
+~
+0 0 12181
+S
+#12147
+A Private Room~
+   The door opens to a small back room with only a few tables, all of them
+empty except to your left. There are no windows here, only the torches mounted
+on the walls provide any light and even then it is minimal. You can't be
+certain but it looks as if there are blood stains both on the plush carpet
+and walls, perhaps an indication of how intense the gaming is in here.
+   As you look around further, you realize that this room has been set aside
+for those patrons who like to spend big! The table to the left is laden with
+gold coins, the chairs are cushioned and the carpet feels spongy as you walk
+around. The only exit is via the door to the west.
+~
+121 32776 0 0 0 0
+D3
+~
+door~
+2 12118 12146
+S
+#12148
+In a Dark Alley~
+   The back streets twist and turn and you find yourself in a narrow alley
+behind a few of the buildings within Haven. Garbage blows in here and without
+a path to escape has collected over time. It is here that the vermin of the
+town have made a home.
+~
+121 32768 0 0 0 1
+D2
+~
+~
+0 0 12145
+S
+#12149
+Walking Down the Back Streets of Haven~
+   On more than one occasion, you trip and fall on the uneven street. You
+are more concerned with keeping your footing than really watching where you
+are going, but you look up to see that the street heads east as well as to
+the south. A disused store is to the west.
+~
+121 32768 0 0 0 1
+D1
+~
+~
+0 0 12145
+D2
+~
+~
+0 0 12156
+D3
+A Merchant's Store
+~
+~
+0 0 12150
+S
+#12150
+A Store of Maps~
+   Maps, maps and even more maps. You can hardly move past the door without
+having to wade through rolls of them scattered all over the floor. You pick
+up a few and glance at them, most of them appear to be trade routes of some
+kind. The store is deserted; apparently the merchants simply come here, find
+what they need and leave. With most of the trade routes long established,
+there is little need for such a store anymore.
+~
+121 32776 0 0 0 0
+D1
+~
+~
+0 0 12149
+S
+#12151
+A Sandy Path~
+   You trudge your way along a sandy path that initially heads east towards
+the coast before sloping down to a small beach to the south. A cobblestone
+road to the west simply begins and marks the eastern entrance to the port
+town of Haven.
+   At times, you are forced to cover your face as sand is whipped up by 
+strong gusts of wind. The piercing shrieks of seagulls are the only sounds
+you can hear above the wind.
+~
+121 32768 0 0 0 2
+D2
+~
+~
+0 0 12152
+D3
+The Guild Road
+~
+~
+0 0 12115
+S
+#12152
+A Sandy Path~
+   The path winds between two large dunes before reaching the beach to the
+south. The sand is starting to slow you down and you can feel your muscles
+burn as it becomes an effort to walk, although it looks like the path flattens
+out further to the north which should make it easier to move.
+~
+121 32768 0 0 0 2
+D0
+~
+~
+0 0 12151
+D2
+~
+~
+0 0 12153
+E
+dunes~
+The dunes are actually made of clay which is quite surprising considering
+your proximity to the beach. It does, however, provide a good source of
+building materials for Haven. You can see the areas in which the clay has
+been removed to make bricks, leaving the dunes somewhat unstable.
+~
+S
+#12153
+On a Beach~
+   Waves lap softly at the shore of this small beach, only a quick walk from
+the town of Haven. It is not used for recreation, although the waters of
+Haven bay are both warm and sheltered. To the north, two large clay dunes
+provide raw building materials and it is for this reason the beach exists.
+Over time, enough clay has been removed to reach a layer of sand upon which
+you now stand.
+   To the west, you can see the port area of Haven which can be accessed by
+a wooden boardwalk.
+~
+121 32768 0 0 0 2
+D0
+~
+~
+0 0 12152
+D1
+~
+~
+0 0 12155
+D2
+~
+~
+0 0 12171
+D3
+~
+~
+0 0 12154
+S
+#12154
+On a Beach~
+   With the activity you can see above you on the boardwalk, it's a wonder
+no one has bothered to come down and enjoy a swim in Haven bay. Perhaps the
+lack of fish within the bay is a result of something unknown to you that
+keeps everyone out of its waters, but nothing obvious strikes you. Stairs
+provide access to the boardwalk and dock area while the beach follows the
+water's edge to the east.
+~
+121 32768 0 0 0 2
+D1
+~
+~
+0 0 12153
+D2
+~
+~
+0 0 12169
+D4
+~
+~
+0 0 12131
+S
+#12155
+On a Beach~
+   A collection of rocks and boulders have been brought here to form a
+breakwater, separating the ocean from the bay and providing a sheltered
+area for ships to anchor safely. However, the breakwater looks unsafe and
+you decide against climbing along it.
+   The beach heads westward to Haven's port area.
+~
+121 32768 0 0 0 2
+D2
+~
+~
+0 0 12173
+D3
+~
+~
+0 0 12153
+E
+breakwater~
+How did all of those rocks get here?
+~
+S
+#12156
+Walking Down the Back Streets of Haven~
+   The further you walk down the street, the less used and more hastily
+prepared the area becomes. Pooling water has turned the street into a mud-
+like substance that clings to your boots and clothing. To the south, a
+curtained doorway prevents you from seeing into the building that is there.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12149
+D2
+The curtain prevents you from looking inside
+~
+~
+0 0 12157
+D3
+~
+~
+0 0 12175
+S
+#12157
+An Abandoned Building~
+   Looking around you could be forgiven for simply walking straight back
+out. The place is an absolute mess! Sunlight hasn't entered this place since
+the roof was put on and a thick layer of dust has settled on the floor. Crates
+are littered throughout, surrounded by a number of footprints that all lead
+to the doorway to the north.
+   The curtain covering the doorway must have a purpose, but you cannot see
+an immediate one.
+~
+121 32768 0 0 0 1
+D0
+The curtain prevents you from looking outside.
+~
+~
+0 0 12156
+E
+Crates~
+The majority of them are rotting and have broken apart, but you pry one of
+the newer ones open and are surprised to see it packed full of illicit drugs.
+What better place to store them in a rarely frequented area of town.
+~
+E
+curtain~
+It is rather thick and heavy, almost acting like a door.
+~
+S
+#12158
+Haven Bay~
+   The waters of the bay are warm and inviting, despite the light chop caused
+by the wind. The docks of Haven, teeming with life, lie to the east while
+the ravages of the open ocean are further to the south. From here, you can
+see the coastal inlet in which Haven was built. An almost vertical cliff
+face to the west provides a natural barrier against wind and waves...it also
+will prevent travel in that direction.
+~
+121 0 0 0 0 7
+D1
+~
+~
+0 0 12139
+D2
+~
+~
+0 0 12159
+S
+#12159
+Haven Bay~
+   Seagulls fly over head as you float in the shallows of Haven bay. The
+water is just deep enough to prevent you from touching the bottom but you
+are within arms reach of the end of one of Haven's three docks to the east.
+The swell starts to pick up here as a result of the ocean to the south.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12158
+D1
+~
+~
+0 0 12140
+D2
+~
+~
+0 0 12183
+D3
+~
+~
+0 0 12182
+S
+#12160
+Haven Bay~
+   Something in the water brushes past your leg and you spin around wildly
+trying to see what it was. Unfortunately, the murky depths keep it hidden
+from sight. Ships sail awfully close by as they berth at one of Haven's docks
+which you can climb onto to the north.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12140
+D1
+~
+~
+0 0 12163
+D2
+~
+~
+0 0 21501
+D3
+~
+~
+0 0 12183
+S
+#12161
+Haven Bay~
+   You find yourself paddling in Haven bay between two of the Haven docks.
+Sailors with no care for the environment have tossed garbage into the bay
+over the years and the majority of it is now floating alongside you. Seagulls
+dive down to pick the more tasty morsels from the bay's grasp before returning
+to their heights.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12128
+D1
+~
+~
+0 0 12141
+D2
+~
+~
+0 0 12162
+D3
+~
+~
+0 0 12139
+S
+#12162
+Haven Bay~
+   Towards the entrance of Haven bay to the south, the sea floor drops away
+to allow easy access and departure for the many ships that frequent this
+port town. Sailors standing on the docks look at you strangely, wondering
+why you chose to take a swim in such a dangerous area.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12161
+D1
+~
+~
+0 0 12142
+D2
+~
+~
+0 0 12163
+D3
+~
+~
+0 0 12140
+S
+#12163
+Deep In Haven Bay~
+   The entrance to Haven bay lies just to the south, a wide gap between the
+cliffs to the west and the breakwater to the east. Spray from the ocean waves
+flies high into the air as they crash into the rocky opening to the bay.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12162
+D1
+~
+~
+0 0 12164
+D2
+~
+~
+0 0 21502
+D3
+~
+~
+0 0 12160
+S
+#12164
+Haven Bay~
+   You have reached a point just to the south of the central dock in the
+town of Haven. Whether you intended to or not, that has brought you to the
+waters of the bay. From your position, you can clearly see the underside of
+the docks and realize that perhaps they are not in as good condition as you
+might have thought traveling along the upper side. The entrance to the bay
+lies further to the south.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12142
+D1
+~
+~
+0 0 12167
+D2
+~
+~
+0 0 21503
+D3
+~
+~
+0 0 12163
+S
+#12165
+Haven Bay~
+   You are almost knocked out as a barrel falls from the dock to the east.
+A stevedore peeks over the edge and with a sheepish grin, waves at you in
+apology. Not wishing to be killed by any further cargo, perhaps you should
+float somewhere else.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12130
+D1
+~
+~
+0 0 12143
+D2
+~
+~
+0 0 12166
+D3
+~
+~
+0 0 12141
+S
+#12166
+Haven Bay~
+   You could float here all day, the soothing bay waves lapping at you softly.
+You have to be careful not to get pushed too close to the docks east and
+west of here with all of the loading and unloading of cargo. Glancing down
+into the depths of the bay, you can see where several crates and barrels have
+fallen from above and settled on the sandy bottom.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12165
+D1
+~
+~
+0 0 12144
+D2
+~
+~
+0 0 12167
+D3
+~
+~
+0 0 12142
+S
+#12167
+Deep in Haven Bay~
+   The swell intensifies the closer you get to the open ocean to the south.
+Some of the larger ships to visit Haven have anchored here, just within the
+confines of the bay but far enough away from the dock to prevent looters from
+considering a venture onto the decks. You find some shelter alongside one of
+the ships before a crew member notices you and sings out to others. Perhaps
+you should move on.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12166
+D1
+~
+~
+0 0 12168
+D2
+~
+~
+0 0 21504
+D3
+~
+~
+0 0 12164
+S
+#12168
+Haven Bay~
+   You can almost stand here as the bottom of Haven bay comes up to meet the
+surface. Beyond the dock to the north, you can just make out a secluded beach
+to the north east. You notice the swell has taken you closer to the docks
+which given the amount of ship traffic in the bay, may not be such a wise
+place to stop.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12144
+D1
+~
+~
+0 0 21440
+D2
+~
+~
+0 0 21505
+D3
+~
+~
+0 0 12167
+S
+#12169
+Haven Bay~
+   You splash around in the small waves that find their way onto the beach
+to the north. With a little effort, you can climb onto the dock to the west
+or continue to swim in the shallow waters of the bay which extends to the east
+and south.
+   Further to the east, you can see the breakwater which protects the ships
+within the bay.
+~
+121 0 0 0 0 6
+D0
+~
+~
+0 0 12154
+D1
+~
+~
+0 0 12171
+D2
+~
+~
+0 0 12170
+D3
+~
+~
+0 0 12143
+S
+#12170
+Haven Bay~
+   Pieces of driftwood float by, the remnants of a ship that strayed too close
+to the breakwater. You notice a small school of fish beneath you which is
+quite rare given the lack of such creatures within the bay. The eastern dock
+can be accessed to the west.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12169
+D1
+~
+~
+0 0 12172
+D2
+~
+~
+0 0 21440
+D3
+~
+~
+0 0 12144
+S
+#12171
+Haven Bay~
+   If only you had the time to lounge around in the shallows of Haven bay
+all day...but surely you have other things you could be doing! As you approach
+the breakwater to the east, you can hear the sound of the ocean waves crash
+into the other side, grateful that the bay is protected from such harsh
+conditions.
+   You can wade out of the bay if you wish and relax on the beach to the
+north.
+~
+121 0 0 0 0 6
+D0
+~
+~
+0 0 12153
+D1
+~
+~
+0 0 12173
+D2
+~
+~
+0 0 12172
+D3
+~
+~
+0 0 12169
+S
+#12172
+Haven Bay~
+   A strong wind picks up from seemingly out of nowhere and begins to whip
+the tops off the ocean waves which are not much further to the south. The
+swell has also increased and you are being tossed around like a small cork.
+The relative safety of Haven can be reached to the north.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12171
+D1
+~
+~
+0 0 12174
+D2
+~
+~
+0 0 21441
+D3
+~
+~
+0 0 12170
+S
+#12173
+Haven Bay~
+   As you wade through the shallows, you drift closer to the breakwater to
+your east. Although the majority of the rocks have been smoothed over time,
+the odd one or two is still quite sharp and poses some risk. The bay stretches
+away to the west or you can return to land to the north.
+~
+121 0 0 0 0 6
+D0
+~
+~
+0 0 12155
+D2
+~
+~
+0 0 12174
+D3
+~
+~
+0 0 12171
+S
+#12174
+Haven Bay~
+   You float in probably the most sheltered area of Haven bay apart from
+that between the docks. The breakwater extends from the beach to the north
+and prevents travel to the east or south. Waves crash into the opposite side
+to remind you that the ocean is not that far away.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12173
+D1
+~
+~
+0 0 21411
+D2
+~
+~
+0 0 21442
+D3
+~
+~
+0 0 12172
+S
+#12175
+Walking Down the Back Streets of Haven~
+   The street abruptly ends here, becoming a narrow dirt path that winds its
+way to the south and up towards the entrance to Haven bay. A lighthouse can
+just be seen at the very end of the path although it doesn't appear to be
+operating at this time. You have one of two choices; continue onwards to the
+lighthouse or return to the streets.
+~
+121 32768 0 0 0 1
+D1
+~
+~
+0 0 12156
+D2
+~
+~
+0 0 12176
+S
+#12176
+A Narrow Dirt Path~
+   The dirt path follows the land as it slopes upwards towards the lighthouse
+and follows the western edge of Haven bay well below you. You can see now that
+the town was built in a coastal inlet, this piece of land providing some
+shelter from the ships anchored in the bay. Further south, if you should stray
+from the path, you will fall down one of the cliff faces to the east and
+west.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12175
+D2
+~
+~
+0 0 12177
+S
+#12177
+A Narrow Dirt Path~
+   The path takes a quick turn to the west and ends at the foot of an
+abandoned lighthouse. From this height, you have a fantastic view of the
+ocean to the south and of Haven bay and the town itself to the east. People
+scurry about on the docks and if weren't for the color of the roof tops, you
+may not even have noticed the town was there. It blends in almost perfectly
+with the surrounding forest which perhaps was the intention when Haven was
+first built.
+~
+121 32768 0 0 0 1
+D0
+~
+~
+0 0 12176
+D3
+~
+~
+0 0 12178
+S
+#12178
+At the Foot of an Abandoned Lighthouse~
+   It has been many years since this lighthouse saw action, judging by the
+condition of the building and the fact that the door before you is boarded
+up to prevent people from entering. The lighthouse probably saved many a ship
+from crashing into the rocks and would have prevented countless deaths. You're
+not sure why it's no longer used, but the ships continue to sail to this port
+without hitting trouble.
+   The dirt path leads back down to the town.
+~
+121 32768 0 0 0 1
+D1
+~
+~
+0 0 12177
+D3
+~
+lighthouse door~
+1 0 15801
+S
+#12179
+A Gambling Den~
+   The smoke is less dense in this area of the establishment, due to some
+unknown source of air circulation. You observe a few games of cards and it
+becomes apparent that everyone is cheating, from the players to the dealers
+themselves. For your own safety, perhaps you shouldn't involve yourself,
+especially given the daggers you can see that people have tried to conceal.
+~
+121 32776 0 0 0 0
+D0
+~
+~
+0 0 12146
+D3
+~
+~
+0 0 12180
+E
+dealers~
+You're not even sure they are dealers...perhaps they're just players on the
+other side of the table?
+~
+S
+#12180
+A Gambling Den~
+   You have to push and shove your way past a wall of creatures just to see
+what all of the commotion is about in this part of the den. A small fenced
+arena has been set up in the center of the room, two reptile-like fighters
+battling it out to the amusement of the assembled crowd.
+~
+121 32776 0 0 0 0
+D0
+~
+~
+0 0 12181
+D1
+~
+~
+0 0 12179
+E
+creatures~
+There are too many varieties to count...kenderkin, humans, dwarves, elves,
+minotaurs...perhaps you should just watch the battle.
+~
+S
+#12181
+A Gambling Den~
+   You wander around the casino amidst a mass of frenzied people shouting
+at each other in a myriad of different tongues. In this corner of the room
+there are several craps tables set up, all of them surrounded by eager
+patrons gambling their money away. You can't help but keep checking for your
+coin purse every few minutes or so, thinking that it may have gone missing
+with all these seedy characters around you. Maybe you are too paranoid...maybe
+not.
+~
+121 32776 0 0 0 0
+D1
+~
+~
+0 0 12146
+D2
+~
+~
+0 0 12180
+E
+craps~
+You've seen this game before, you think.  It involves a wooden table, 
+some bone dice, and several numbers etched on the surface of the table
+in a grid.  You watch for a little while but the pace of the game is
+too fast for you to figure out exactly what is going on.
+~
+S
+#12182
+On the Ocean~
+   You are floating above the churning surface of the water. As you try
+to swim around, eddies crash into you forcing you to pay closer attention
+to the water's motion. You are now completely disoriented although you can
+see a large cliff face nearby and what looks like a small cave.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 15880
+D1
+~
+~
+0 0 12159
+D2
+~
+~
+0 0 21465
+D3
+~
+~
+0 0 21434
+S
+#12183
+Haven Bay~
+   You swim around in the pleasant waters of the bay, the open ocean directly
+to the south and west. A dock juts out into the bay and you could probably
+climb onto it if you traveled to the north or east.
+~
+121 0 0 0 0 7
+D0
+~
+~
+0 0 12159
+D1
+~
+~
+0 0 12160
+D2
+~
+~
+0 0 21501
+D3
+~
+~
+0 0 21465
+S
+$~

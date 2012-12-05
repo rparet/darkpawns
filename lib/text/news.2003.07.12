@@ -1,0 +1,164 @@
+----------------------------------------------------------------07.12.2003--
+
+The following bug fixes/enhancements were made to the game today:
+
+o The bug with bash/trip saying it missed when it really hit has been fixed.  
+   This may mean that mobs you used to bash are not bashable by you anymore, 
+   particularly if those mobs have protection from good/evil.
+o The bug with war gong and other staves casting too many spells has been 
+  fixed.
+o If you die while linkdead you will now loose all of your spells, like 
+  normal.
+o Buffed up and decreased variance of hitpoints for all classes.  Now you 
+  will have less chance of "rolling bad" and ending up with drastically 
+  lower hitpoints than others of your class.
+o All remort classes now have better hitpoints than their non-remort 
+  counterparts.
+o Ninjas, Rangers, Psionics and Mystics received notable hitpoint buffs.
+o The spell smokescreen now works as intended.
+
+Please let me know if you experience problems with any of the above 
+enhancements.
+
+----------------------------------------------------------------09.18.2002--
+
+A Ranger-loving update today:  AMBUSH has been enhanced, along with
+SHOOT.  
+
+You can now quit your clan even if you are a clan leader.  Clans
+with zero members will be disbanded automatically.
+
+The castle guard's union has renegotiated their contract and as
+a result you aren't able to ORDER them around anymore.  They'll
+still do their best to protect your castle, though.
+
+Various other minor bug fixes.
+
+----------------------------------------------------------------08.02.2002--
+
+Improved the use of parry for you low-dexerity folks.  The help file
+has been updated as well.
+
+Castle owners can check out the new HOUSE command, which supports
+transfering your castle to another player.  Also, all castles now
+have a new friend that you can buy keys from, should the need arise.
+
+----------------------------------------------------------------02.09.2002--
+
+A few more tweaks to the OUTLAW system went in today.  Thanks
+for the (mostly) positive feedback.  
+
+  o  OUTLAWs are still not safe in the temple,
+     however they can now defend themselves if attacked.
+  o  OUTLAWs can still be summoned through summon protection,
+     however they now have partial resistance.
+ 
+  o  Summon has been reworked.  The changes:
+     - You must be summonable to summon another player.
+     - There is a brief pause while toggling summon vs. !summon
+     - You can no longer summon to !exit rooms or dumps
+
+  o  You can now RETRIEVE corpses which have been beheaded
+
+----------------------------------------------------------------02.08.2002--
+
+In light of the new changes to the OUTLAW system, the Wizards
+have declared a general amnesty to all existing OUTLAWs, provided
+they return all recently stolen equipment to let everyone get a 
+fresh start.  If you want a pardon, see a Wizard.  Please don't
+ask a Chosen for a pardon this time, as they can't help you.
+
+----------------------------------------------------------------02.08.2002--
+
+The OUTLAW system has received a minor facelift.  Some of the changes:
+
+  o  OUTLAWs are no longer safe in the temple
+  o  knockout spells and skills (sleep, sleeper, subdue)
+     only work when you are in the same level range as your
+     intended victim (+/- 3 levels)
+  o  OUTLAWs may be summoned through summon protection
+
+  o  Although it is unrealistic, it is only possible to be
+     robbed of equipment once every few game hours.  
+     This prevents "full loot" stealing.
+  o  steal only works when you are in the same level range as your
+     intended victim (+/- 3 levels)
+
+Help on PK and PSTEAL has been updated, remember that these help
+files are part of the POLICY.  The major change to the help files
+is that RP justification for player vs. player activities has been
+dropped.
+
+----------------------------------------------------------------01.14.2001--
+
+The Dark Pawns web page has been redesigned and there is a new FAQ up
+to enlighten all you heathens - so check it out:  
+&chttp://www.darkpawns.com&n
+
+----------------------------------------------------------------08.17.2000--
+
+New clan castles were added to the game today! This of course invalidated
+all of your old clan castle data, so if you are a clan leader, contact a
+Wizard to get your castle set up.
+
+----------------------------------------------------------------08.17.2000--
+
+Today there was a patch update to the game.  This update was to fix
+and update some game features.  You may find that some things work 
+differently than they did before.  If you think you have found a bug,
+please mail a Wizard.
+
+----------------------------------------------------------------07.13.2000--
+
+If you enjoy Dark Pawns, how about letting the mud community know? Vote
+for DP on Top Mud Sites (www.topmudsites.com) by going to this link:
+
+http://www.topmudsites.com/cgi-bin/topmuds/rankem.cgi?action=in&id=rparet
+
+Don't forget to look us up at the Mud Connector (www.mudconnect.com) too!
+
+----------------------------------------------------------------07.13.2000--
+
+The mud web page is back up at pawns.wolfpaw.net.  Hopefully there will
+be an updated page soon.  If you have your own DP related web site and
+would like a link, please send an mudmail to a Wizard with the URL.
+
+----------------------------------------------------------------05.10.2000--
+
+A serious bug that some players have been using to duplicate equipment
+has been patched.  The people who have been exploiting this bug will be
+dealt with shortly.
+
+----------------------------------------------------------------03.05.2000--
+
+Clan castles have been fixed.  Please get yours set up again.  Also
+see help on CASTLES for pricing for new castles and additions.  Please
+note that storage option available in previous clan castles has been 
+disabled.
+
+----------------------------------------------------------------03.05.2000--
+
+The following item's stats have changed.  Please get an updated copy.
+  Orb of the Necromancer
+  Serpentine Dagger
+
+----------------------------------------------------------------02.29.2000--
+
+A database error caused the wrong stats to be loaded for the equipment
+in the new Orc Burrows zone.  Please get any equipment you have from that
+zone updated.
+
+----------------------------------------------------------------02.27.2000--
+
+The following item's stats have changed.  Please get an updated copy.
+  The Jewel of Judgment
+  Overlord's Blade
+  a puce stone
+
+----------------------------------------------------------------02.27.2000--
+
+Some skills and spells work differently than before.  If you have a
+question or a concern, please let us know.
+
+----------------------------------------------------------------------------
+

@@ -1,0 +1,79 @@
+#13300
+chime wind~
+a wind chime~
+There bunch of metal bars tied to a string on the ground here.~
+~
+13 158 0 0 0 1 0 0 0
+0 0 0 0
+3 0 20.00
+#13301
+goblet small cup~
+a small goblet~
+A small goblet is here, filled with a odd liquid~
+~
+17 220 0 0 0 1 0 0 0
+1 1 13 1
+2 0 20.00
+#13302
+flame blue~
+a blue flame~
+A blue flame is here, sparkling brightly.~
+~
+13 157 0 0 0 1 0 0 0
+0 0 0 0
+1 0 20.00
+#13303
+rock stone large~
+a large rock~
+A large rock is here, waiting to trip you~
+~
+13 156 0 0 0 1 0 0 0
+0 0 0 0
+5 0 20.00
+#13304
+rock large~
+a large rock~
+A large rock is here, waiting to trip you.~
+~
+13 30 0 0 0 1 0 0 0
+0 0 0 0
+5 0 20.00
+#13333
+shrine wind~
+the shrine of Wind~
+A small shrine is here, devoted to the element of Wind.~
+~
+12 82 0 0 0 262144 0 0 0
+0 15 0 0
+666 0 100.00
+#13342
+shrine water~
+the shrine of Water~
+A small shrine is here, devoted to the element of Water.~
+~
+12 82 0 0 0 262144 0 0 0
+666 666 15 0
+666 0 100.00
+#13344
+shrine fire~
+the shrine of Fire~
+A small shrine is here, devoted to the element of Fire.~
+~
+12 82 0 0 0 262144 0 0 0
+0 15 13302 0
+666 0 100.00
+E
+shrine~
+The shrine appears to be jet black. Many candles sit atop it, their wax
+unmoving, regardless of the immense heat around them. There is a small,
+oddly shaped hole in the front of the shrine at it's highest point.
+~
+#13351
+shrine earth~
+the shrine of Earth~
+A small shrine is here, devoted to the element of Earth.~
+~
+12 82 0 0 0 262144 0 0 0
+0 15 13303 0
+666 0 100.00
+$~

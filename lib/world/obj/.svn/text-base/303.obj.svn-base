@@ -1,0 +1,311 @@
+#30300
+couch electric lightning plastic lump goo~
+an electric couch made of molten plastic~
+A blue streak of lightning strikes the plastic floor and splatters into a couch!~
+~
+15 2 0 0 0 262144 0 0 0
+500 0 0 0
+0 0 50.00
+E
+couch electric lump lightning plastic goo~
+ Electricity fizzles about the edges of this lump of plastic, causing black,
+acrid smoke to rise into the air, swirling as it rises into the black
+maelstrom about you.
+
+~
+#30301
+espadrilles shoes pair canvas~
+a pair of espadrilles~
+A pair of brightly colored canvas shoes are sitting around.~
+~
+11 0 0 0 0 65 0 0 0
+0 0 0 0
+3 150 100.00
+E
+shoes pair espadrilles canvas~
+Traditionally, these shoes were made in two parts, the spun woolen sole made by
+the men, and the canvas upper part made by the women. The two parts are then
+sewn together by the women, who add an extra patch of wool to the toe.
+The quality of these little shoes is the pride of the village's shoemakers.
+~
+A
+10 -10
+A
+28 2
+#30302
+rack clothes clothing~
+a rack of clothing~
+A rack of clothing spins about, displaying fine wares from across the globe.~
+It's, um, made of steel and stuff.
+Clothes hang on it too.
+~
+15 64 0 0 0 0 0 0 0
+70 1 -1 0
+0 0 100.00
+#30303
+clothes~
+some clothes~
+Some clothes are flopping around on the floor here.~
+They're just clothes for god's sake! it's just a game!
+~
+0 0 0 0 0 68985 0 0 0
+0 0 0 0
+0 0 100.00
+A
+10 2
+#30304
+weapon of ultimate destruction~
+weapon of ultimate destruction~
+A super-gondo weapon of super destruction lies around here somewhere.~
+It's, like, real big and spiky.
+~
+5 131072 0 0 0 8193 0 0 0
+0 50 20 12
+0 0 100.00
+A
+19 100
+A
+19 100
+A
+19 100
+A
+18 100
+#30305
+sweatshirt woolen shirt~
+a woolen sweatshirt~
+A rough textured shirt with long sleeves is hanging on a hook.~
+
+~
+11 0 0 0 0 18441 0 0 0
+0 0 0 0
+3 20 75.00
+E
+sweatshirt sweat shirt woolen wool~
+It is dyed a soft reddish color, probably with dye derived from pokeberry or
+rhubarb. It is well made, double stitched at the seams and even has a small
+cotton tag on the back. It appears to have been used before though, for there
+is a small black stain underneath the left forearm and another on the lower
+right.
+~
+E
+stain spot~
+It is a small faded black stain, presumably from paint.
+~
+E
+tag cotton back~
+It is an ordinary tag you'd find on the back of most clothes, and says:
+Wash in cold water
+do not use magickal detergent
+keep away from flame, acid, and toxic gases.
+~
+#30306
+test pen~
+a test pen~
+A test pen is squirting ink wildly.~
+~
+21 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 100.00
+#30307
+a message~
+a message for you~
+A message for you is lying here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 100.00
+#30308
+socks white cotton~
+some white cotton socks~
+A pair of socks gather dirt on the ground.~
+
+~
+11 0 0 0 0 16449 0 0 0
+0 0 0 0
+2 20 100.00
+E
+socks cotton white~
+   They're made from cotton grown on the southern plains, near the ocean.
+On the tip there is a seam of blue thread holding the whole sock together.
+~
+E
+seam blue~
+Personally, I never understood why they couldnt just weave the front end
+together.
+~
+#30309
+robe cinnamon cappuccino dark~
+a dark cinnamon colored robe~
+A robe of the Cappaccino monks is here.~
+~
+11 0 0 0 0 16393 0 0 0
+0 0 0 0
+7 14 100.00
+E
+pockets~
+They're rather large pockets.
+~
+E
+robe cinnamon cappuccino dark~
+It is dark red, dyed to the color of hot, frothy cappuccino with a bit of
+cinnamon to spice things up. Made of wool and canvas, it is scratchy and rough
+but will stand up to the elements well. There are also many pockets for keeping
+medicines and reagents in.
+
+~
+A
+17 -3
+#30310
+a big bag~
+a really big bag~
+A really big bag is lying on the ground, covering about an acre of space.~
+~
+15 0 0 0 0 1 0 0 0
+1000000 0 -1 0
+0 0 100.00
+#30311
+big fat arrow~
+a big fat powerful arrow~
+A big fat powerful arrow is lyin about on the ground.~
+~
+7 0 0 0 0 1 0 0 0
+0 100 100 0
+0 0 100.00
+#30312
+bow~
+a bow~
+An unfinished bow is lying here.~
+~
+6 0 0 0 0 8193 0 0 0
+0 100 100 0
+0 0 100.00
+#30313
+rex tyranosourpuss~
+the tyranosourpuss rex~
+A, um, really big turannosourpuss rex is here.~
+$n pops open a tyranosourpuss pez dispenser and shakes some pez out.
+~
+10 0 0 0 0 1 0 0 0
+1 12 12 12
+0 0 100.00
+#30314
+fine black smooth pants snazzy~
+some snazzy smooth black pants~
+A fine pair of smooth black Docker's are lying around.~
+~
+11 0 0 0 0 16417 0 0 0
+0 0 0 0
+4 100 100.00
+E
+fine black pants smooth snazzy dockers~
+Nice pants.
+
+Double stitched with carved tortoise shell buttons, white silk pocket linings,
+and even a bronze zipper, the luxury of luxuries for the upper class in this
+day and age, these pants surely stand out from the rest. And so does the price
+tag, that is if you are the type that buys goods from stores.
+~
+E
+price tag~
+Damn, they really expect you to pay 100 gold coins for this crap??
+~
+A
+6 1
+#30315
+garment prison blue light garments standard regulation~
+regulation light blue prison garments~
+Some lightly blue colored garments are folded up almost neatly.~
+~
+11 0 0 0 0 17441 0 0 0
+0 0 0 0
+4 15 100.00
+E
+garment prison blue light garments standard regulation~
+Made out of rough cotton and washed in lukewarm water for years, these garments
+loosely fit on you, made to accomodate most sizes. Intended to be worn as 
+punishment, they are stitched together with one thread, and air drafts in
+through a hole in the shoulder. A numbered identification badge is on the
+left pocket.
+~
+E
+badge number numbered identification~
+X-------------X
+| ID46918-JL  |
+X-------------X
+~
+E
+hole shoulder draft air~
+An earlier prisoner wearing this garment must have accidentally snagged on 
+something.
+~
+#30316
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+4 0 0 0 0 1 0 0 0
+30 100 20 92
+0 0 100.00
+#30317
+belt leather red reddish coil coiled strip long~
+a reddish leather belt~
+A long strip of reddish colored leather is coiled up on the ground.~
+~
+11 0 0 0 0 18709 0 0 0
+0 0 0 0
+3 0 100.00
+E
+belt reddish red leather long strip coil coiled~
+It is rounded in a semi-corner at the edges, and stitched 1/4th inch from the
+edges with brown thread. Made from ochre-dyed alligator leather, the edges of 
+the scales have folded and rubbed the dye off, leaving off-white circles in the
+creases of the belt scales. The sizing holes have brass edges and interlock 
+perfectly with the oiled brass buckle.
+~
+A
+28 3
+#30318
+tea mug glass metal ivory bodum~
+a metal and glass mug~
+A glass mug with metal straps on it shines brightly on a countertop.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 11 0
+9 40 100.00
+E
+mug metal glass~
+  Made of two parts, a beaker shaped flask that is made of remarkably clear
+glass, and two steel straps encircling it attached to a handle, this mug would
+seem out of place in any normal rowdy tavern.
+
+There are a few words etched into the glass underneath the handle.
+~
+E
+etching bodum~
+
+            bodum
+
+ne pas utiliser sur le cabaret
+~
+#30319
+vine grapevine~
+a grape vine~
+~
+~
+15 128 0 0 0 0 0 0 0
+30 0 -1 0
+0 0 100.00
+E
+vine grapevine~
+  It is made of knobby fibrous wood with flaky bark that comes off when you
+rub your finger along the rough surface. The leaves are tough and dark green,
+shaped almost like a maple leaf but they are covered with short white hairs.
+Several different vines branch out of the ground at the same spot, as if a
+clump of grapes fell on the ground and sprouted in different directions.
+~
+E
+bark flaky rough~
+The bark is colored dark reddish-brown and is pruned in many spots, leaving 
+many little knobby circles at the corners of the vine branches.
+~
+$~

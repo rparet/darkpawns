@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1522"
+   name=""
+   committed-date="2008-06-20T19:25:58.198492Z"
+   url="file:///var/svn/trunk/2.2/src/lua"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   committed-rev="1437"
+   name="UPDATE"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="eb1d631f39de3a10c9aad43af199b716"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   committed-rev="1491"
+   name="GNUmakefile"
+   text-time="2008-05-23T03:03:38.000000Z"
+   committed-date="2008-05-22T04:36:40.428083Z"
+   checksum="84eef74a91ad56568d6f163f4da6f0ad"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:03:38.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="DIFFS"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="c7fbbfaa910c8f3f4974ef4bd972b3ed"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="README"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="9fced276fe9bfc844e001e2504bf5d1c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="HISTORY"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="ce620498a43ff617ae89199e5172202c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   committed-rev="1437"
+   name="config"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="188d5e8c9e48200edb42798f3ddf8caf"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="1437"
+   name="MANIFEST"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="80d7fad3216d9dfd19f43bfc67becc92"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   committed-rev="1437"
+   name="INSTALL"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="5367432285ca485d3c0a39ac3f223357"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:05.000000Z"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   committed-rev="1437"
+   name="COPYRIGHT"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="d3121b183f59e281cefcab45675585c2"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+<entry
+   name="etc"
+   kind="dir"/>
+<entry
+   committed-rev="1437"
+   name="Makefile"
+   text-time="2008-05-20T15:53:06.000000Z"
+   committed-date="2008-04-30T03:27:43.811158Z"
+   checksum="276e420d68435c96b40665ff857b3738"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-20T15:53:06.000000Z"/>
+</wc-entries>

@@ -1,0 +1,119 @@
+#16300
+wooden desk~
+a wooden desk~
+A small wooden desk covered with guard applications sites against the wall here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+1 0 100.00
+E
+desk~
+The desk is covered with forms and memoranda from the Church, as well as
+a stack of guard service applications.  Completing training in this facility
+is almost a guarentee of acceptance into the ranks of the Holy Guard.
+~
+#16301
+pitchfork~
+a pitchfork~
+A pitchfork is lying here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 7 14
+8 28 60.00
+#16302
+hat straw~
+a straw hat~
+A dirty old straw hat is lying here.~
+~
+9 0 0 0 0 17 0 0 0
+2 0 0 0
+2 0 90.00
+#16303
+nightstick~
+a black wooden nightstick~
+A short black nightstick is lying here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 4 7
+3 0 70.00
+#16304
+grey jumpsuit~
+a grey jumpsuit~
+A grey jumpsuit that is labeled "Trainee" lies here.~
+~
+9 0 0 0 0 9 0 0 0
+1 0 0 0
+2 5 100.00
+#16305
+white jumpsuit~
+a white jumpsuit~
+A white jumpsuit labeled "Trainee" lies here.~
+~
+9 0 0 0 0 9 0 0 0
+2 0 0 0
+2 30 100.00
+#16306
+green training armor~
+green training armor~
+Some light green armor used for training lies here.~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0
+22 150 100.00
+#16307
+brown training armor~
+brown training armor~
+Some brown armor suitable for practice lies here.~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0
+22 200 100.00
+#16308
+sabre training~
+a training sabre~
+A poorly crafted sabre used for training lies in the dust here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 10 3
+7 50 80.00
+#16309
+fountain water drinking white~
+a white drinking fountain~
+A white drinking fountain is installed on the wall here.~
+~
+23 0 0 0 0 0 0 0 0
+999999 999999 0 0
+1000004 0 100.00
+#16310
+guard blade~
+a guard's blade~
+A blade made for military use is collecting dust here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 6 3
+9 100 75.00
+#16311
+white leggings~
+some white leggings~
+Some white protective leggings lie here.~
+~
+9 0 0 0 0 33 0 0 0
+1 0 0 0
+2 30 100.00
+#16312
+brown guard helmet~
+a brown guard helmet~
+A brown guard helmet is lying here.~
+~
+9 0 0 0 0 17 0 0 0
+2 0 0 0
+10 100 100.00
+#16313
+polearm pole arm~
+a wooden polearm~
+A long wooden polearm lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 5 0
+10 90 100.00
+$~

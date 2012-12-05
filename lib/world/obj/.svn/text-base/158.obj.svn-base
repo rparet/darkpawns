@@ -1,0 +1,358 @@
+#15801
+drawer drawers~
+the top drawer of the desk~
+A mahogany desk fills the corner of the study.~
+~
+15 0 0 0 0 0 0 0 0
+5 13 0 0
+20 5 100.00
+E
+drawer drawers~
+Of the three in the desk, the bottom two are empty. However, the top one is
+locked and you can't force it open regardless of how hard you try.
+~
+#15802
+small wooden key~
+a small wooden key~
+A small wooden key sits here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+3 10 100.00
+E
+small wooden key~
+There are no markings on it to indicate where it can be used.
+~
+#15803
+spectral transparent cloak~
+a spectral cloak~
+A transparent cloak lies in a heap on the ground.~
+~
+9 1057 0 0 0 1025 0 0 0
+9 0 0 0
+5 600 10.00
+E
+spectral transparent cloak~
+It shimmers softly in the light.
+~
+A
+29 1
+A
+19 -2
+#15804
+brass key~
+a brass key~
+You almost miss the brass key sitting on the ground.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+4 30 100.00
+E
+brass key~
+There is nothing remarkable about the key at all.
+~
+#15805
+collection gold coins~
+a collection of gold coins~
+A collection of gold coins lies forgotten on the ground.~
+~
+20 0 0 0 0 1 0 0 0
+100 0 0 0
+1 100 100.00
+E
+collection gold coin~
+There looks to be about 100 coins in total scattered around here.
+~
+#15806
+book necromancer leather~
+the book of the Necromancer~
+A heavy leather-bound book lies open before you.~
+~
+16 65 0 0 0 16385 0 0 0
+0 0 0 0
+10 300 5.00
+E
+book necromancer leather~
+Flicking through the pages, you begin to feel sick at some of the things
+this book contains. It contains a number of spells, most of them so powerful
+they were long ago banned by the magic users of the land. However, someone
+here is still using them and you have every right to be afraid. Each of the
+spells within the book uses live components, body parts from all manner of
+creatures.
+~
+A
+18 -2
+A
+19 -2
+A
+27 4
+#15807
+serpentine dagger strange~
+a serpentine dagger~
+A strange dagger impales the ground before you.~
+<not set>
+~
+5 68989504 0 0 0 8193 0 0 0
+0 6 4 11
+6 4500 10.00
+E
+strange serpentine dagger~
+It has a snake-like blade and a gold handle.
+~
+A
+19 1
+A
+24 -2
+A
+23 -2
+#15808
+ring necromancer ornate~
+the ring of the Necromancer~
+An ornate looking ring has been left nearby.~
+<not set>
+~
+11 72925249 0 0 0 3 0 0 0
+0 0 0 0
+3 1000 20.00
+E
+ring necromancer ornate~
+The ring is completely covered with arcane inscriptionsand glows with a
+magical light.
+~
+A
+29 1
+A
+24 -1
+A
+27 1
+#15809
+black laced boots black-laced~
+a pair of black-laced boots~
+A pair of thin, black-laced boots lies abandoned here.~
+~
+9 2101248 0 0 0 65 0 0 0
+4 0 0 0
+8 500 20.00
+E
+black laced boots black-laced~
+The boots are soft-soled and seem ideal for sneaking and hunting.
+~
+E
+boots boot~
+They are calf-high boots of a thick polished black leather. An incredible
+pain to take on and off due to the fact that they are laced all the way
+from the top of the foot to the top of the boot. There appears to be 
+something written on the bottom.
+~
+A
+19 1
+A
+14 -10
+#15810
+serpentine key~
+a serpentine key~
+A serpentine key lies in the dust.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+2 20 20.00
+E
+serpentine key~
+It twists and turns in a snake-like manner...it must fit a strange lock.
+~
+#15811
+large pile gold~
+a large pile of gold~
+A large pile of gold fills the inside of the chest!~
+~
+20 0 0 0 0 1 0 0 0
+1000 0 0 0
+50 1000 20.00
+E
+gold pile~
+There are many, many golden imperials.
+~
+#15812
+vial~
+a small clear vial~
+A small, clear, thin vial filled with a pale yellow liquid rests here.~
+~
+10 0 0 0 0 1 0 0 0
+20 28 0 0
+2 1000 10.00
+E
+vial~
+You have no idea what this is. Is it a potion? A posion? A simple tonic?
+Risking a small taste, you decide it looks nothing like it tastes, for
+it has a strong peppery taste! Now where did that glass of water go ...
+~
+#15813
+chest~
+a small hardwood chest~
+A small chest made of hardwood and banded in mithril sits here.~
+~
+15 0 0 0 0 0 0 0 0
+50 15 15814 0
+25 1500 100.00
+E
+chest~
+It looks very valuable, yet despite its small size you don't seem able to
+budge it from the table.
+~
+#15814
+key gold~
+a small golden key~
+A small, shiny golden key lies here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 100 100.00
+E
+key gold~
+It looks like real gold!
+~
+#15815
+Amulet of Protection~
+an amulet of protection~
+An ornate medallion on a heavy gold chain has been placed here.~
+~
+11 180291 0 0 0 5 0 0 0
+0 0 0 0
+10 1000 10.00
+E
+amulet~
+A large sunburst of gold, the amulet feels heavy about your neck, comforting
+and reassuring you. The chain is also gold and is comprised of heavy links.
+~
+A
+17 -7
+A
+24 -2
+#15816
+wicked sabre~
+a wicked looking sabre~
+A wicked looking sabre lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 3 3
+8 230 10.00
+E
+wicked sabre~
+It gleams in the light and appears to be quite sharp.
+~
+A
+18 1
+#15817
+spiked wrist guards~
+a spiked wrist-guard~
+A spiked wrist-guard is lying here.~
+~
+9 320 0 0 0 4097 0 0 0
+4 0 0 0
+5 140 10.00
+E
+spiked wrist guard~
+A leather band surrounded by silver spikes.
+~
+A
+6 -1
+#15818
+golden rose~
+a golden rose~
+A golden rose shines beautifully here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+20 100 50.00
+E
+golden rose~
+Exquisitely beautiful, it would surely win the heart of any maiden.
+~
+#15819
+modified halberd~
+a halberd~
+A modified halberd lies on the ground, ready for use.~
+~
+5 28672 0 0 0 8193 0 0 0
+0 4 4 3
+7 250 5.00
+E
+modified halberd~
+The only difference between this weapon and the standard halberd is the
+set of spikes that surround the spear-like tip, providing extra damage.
+~
+A
+19 1
+A
+18 2
+#15820
+dented platemail vest~
+a dented platemail vest~
+A dented platemail vest lies gleaming on the ground.~
+~
+9 64 0 0 0 9 0 0 0
+8 0 0 0
+12 450 20.00
+A
+17 -4
+#15821
+leather stock whip~
+a leather stock whip~
+A large, leather stock whip has been coiled up here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 6 2
+6 200 10.00
+#15822
+glowing orb necromancer~
+the orb of the Necromancer~
+A glowing orb floats in the center of the room.~
+$n closes $s eyes and $p glows softly.
+~
+3 68190281 0 0 0 262145 0 0 0
+15 5 5 73
+1 2000 10.00
+A
+17 -3
+#15823
+crystal chest~
+a crystal chest~
+A chest made from some type of crystal sits on the bottom amongst the reeds.~
+~
+15 0 0 0 0 0 0 0 0
+30 15 15824 0
+20 20 100.00
+E
+chest~
+It is firmly embedded within the rocky base, perhaps molded here over time.
+~
+#15824
+crystal crystalline key~
+a crystalline key~
+A key made from crystal hangs by a small leather cord.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+2 50 20.00
+#15825
+blue potion~
+a blue potion~
+A blue potion has been carelessly left here.~
+~
+10 0 0 0 0 1 0 0 0
+30 102 51 0
+2 100 20.00
+#15850
+ring~
+an engraved ring~
+A silverish ring lies here unused.~
+~
+3 65 0 0 0 3 0 0 0
+20 3 3 36
+1 1000 20.00
+E
+ring~
+A simple electrum band, engraved with gruesome images depicting sacrifice.
+
+~
+$~

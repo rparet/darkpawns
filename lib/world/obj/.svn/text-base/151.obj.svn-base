@@ -1,0 +1,64 @@
+#15101
+spear~
+a wicked looking spear~
+A long, wicked looking spear lies here.~
+~
+5 29960 0 0 0 8193 0 0 0
+0 3 5 11
+15 500 25.00
+E
+spear~
+The handle of the spear is of some sort of hardwood, worn smooth through use
+and it has a wicked four-edged worked metal blade. About a foor and a half
+up the shaft of the spear is a metal cross-bar guard.
+~
+#15102
+pouch~
+a pouch~
+A small pouch lies here.~
+~
+15 0 0 0 0 19457 0 0 0
+15 1 -1 0
+2 10 75.00
+E
+pouch~
+A simple leather pouch for storing small items, it has a string on it that
+allows you to wear it on your back, about your waist, or even just hold it.
+~
+#15103
+satchel~
+a satchel~
+A large satchel lies crumpled here.~
+~
+15 0 0 0 0 17409 0 0 0
+40 1 -1 0
+5 200 50.00
+E
+satchel~
+A nice leather satchel, it looks like it holds quite a bit. You can wear it
+over your shoulder or just hold it.
+~
+#15104
+water hole~
+a large water hole~
+A large water hole is pooled here, one of a few on the plains.~
+~
+23 0 0 0 0 0 0 0 0
+99999 99999 0 0
+100004 100 100.00
+E
+water hole~
+The water looks clear and drinkable. There are many animal footprints all
+around the hole, another indication that the water is safe to drink.
+~
+#15150
+hat fedora~
+a hat~
+A silly hat.~
+~
+9 0 0 0 0 17 0 0 0
+13 0 0 0
+2 100 1.00
+A
+1 10
+$~

@@ -1,0 +1,1649 @@
+AC ARMOR
+
+"AC" is your armor class.
+
+Items often have one of two effects: ac-apply, or "armor". These two are 
+inverses of one another; ac-apply 10 = armor -10;
+You can get a rough idea of what your current armor class is in SCORE.
+
+See also: SCORE
+#
+AFK
+
+Usage: afk
+
+AFK means "away from keyboard". Use this command when you're going afk to
+get a beer, smoke a cigarette, etc. It simply lets people who TELL to you
+know you are AFK and might not get the message. Type AFK again to toggle
+it off.
+#
+AGE
+
+Age is the game mechanic that measures how old your character is in
+game terms.  Most characters start in their teens and gradually grow
+older from there. You can see how old your character is in SCORE.
+
+See also: SCORE
+
+#
+ALIGNMENT GOOD EVIL NEUTRAL
+
+Alignment is the measure of how Good, Evil or Neutral you are, relative 
+to the rest of the world.  In effects what kind of spells you can cast, 
+what types of equipment you can wear, whether certain creatures act
+aggressively towards you, etc.  You can see your relative current 
+alignment in SCORE.
+
+See also: SCORE
+
+#
+AREAS
+
+Yep, there are some, go find 'em. The world is designed to be contiguous;
+each zone buffing up against another in a logical way. The best way to find 
+new areas is to ask other players, or just go out into the world and explore 
+some.  Make sure you are adequately prepared first though.
+
+#
+ATTITUDE ATTITUDES 24 ATTI
+
+At level 24, certain high-level mobs start paying a lot more attention to
+you, in a bad way. Essentially, they "cop an attitude" and attack you.
+Avoid them, kill them, or be killed.
+
+#
+ASSASSIN ASSASSINS
+
+Assassins are cold and deadly killers for hire, whose knowledge of
+subterfuge, stealth and the Black Arts makes them extremely efficient,
+extremely deadly opponents. Assassins are found worldwide, although they
+are usually concentrated in cities. Because of the nature of their work,
+the assassin class is barred from using shields of any kind. Because of 
+the skill, knowledge, and experience that is required to be an assassin, 
+this class is remort only.
+
+Skill list:
+
+	1	peek
+	1	backstab
+	1	compare
+	2	blindness
+	2	sneak
+	3	steal
+	3	palm
+	4	pick lock
+	4	sharpen
+	5	hide
+	5	search
+	7	appraise
+	8	circle
+	9	trip
+	10	groinrip
+	12	shadow
+	15	subdue
+	16	smokescreen
+	17	evasion
+	20	cutthroat
+	25	disembowel
+
+See also: REMORT
+
+#
+AVATAR AVATARS
+
+Avatars are the emissaries of the Holy Forces in the land, deriving their
+awesome power from those entities. Although they can heal and protect like
+clerics, the reason that the Avatars exist is to strike down the Unholy
+Forces in the land, and their masters have given them powerful magicks to
+aid them to this end. Because of the intensity of belief required to be an
+avatar, this class is remort only.
+
+Skills and Spells:
+
+	1	turn
+	1	cure light
+	2	create food
+	2	create water
+	3	detect poison
+	4	detect align
+	4	cure blind
+	5	bless
+	5	holy ward
+	6	blindness
+	7	poison
+	8	protection from evil
+	8	protection from good
+	9	cure critical
+	10	glyph of summoning
+	10	summon
+	10	remove poison
+	11	holy shield
+	12	word of recall
+	13	word of intellect
+	14	dispel evil
+	14	dispel good
+	15	sanctuary
+	16	heal
+	22	group heal
+	23	mass heal
+	25	invigorate
+	26	remove curse
+	27	vitality
+	29 	group recall
+	30	divine intervention
+
+See also: REMORT
+
+#
+BFT
+
+'Bout Fucking Time
+
+#
+BOARDS
+
+Bulletin boards are the forum of inter-player communication on the MUD.
+There are different bulletin boards for different purposes -- for example,
+a standard mortal board, a board for immortals, a board for fun "social"
+messages, etc.  Naturally, not all players may be allowed to read all
+types of boards.
+
+Type "LOOK BOARD" to see the messages already posted on a board.  Type
+"WRITE <subject>" to post a message to a board; terminate a message with
+a '@' as the first character on a line.  Type "READ <number>" to read a
+post.  Type "REMOVE <number>" to remove your own messages.
+
+Example:
+
+  > look at board
+  > write Am I using these boards correctly?
+  [writes the message; terminates with a '@']
+  > look at board
+  > read 6
+  > remove 6
+
+See also: MAIL, READ, WRITE
+#
+BRIBE HIRE
+
+Mercenaries can be hired, the current market rate is about 100 coins.
+
+Guards can be bribed; the price varies from guard to guard, but they 
+don't come cheap.
+
+To bribe or hire someone, just GIVE <amount> coins <person>
+
+Examples:
+> give 101 coins mercenary
+> give 200 coins guard
+
+#
+BROADCAST BROADCASTS NOBROAD
+
+The Broadcast channel displays arena fights live as they happen
+to the whole world.  To turn on/off Broadcast, type NOBROAD.
+
+#
+CASTLE CASTLES
+
+On Dark Pawns, castles are a generic term for structures owned
+and maintained by clans of players.  They can be anything from
+small fortresses to hidden mountain strongholds to a secret 
+back room at the local pub!  
+
+After a clan has gained sufficent strength and noteriety in the
+land, they may petition the staff for a castle.  Please note 
+that there are no castles available for individuals, or groups of 
+individuals who are not in a clan.
+
+&cWhat it all costs:&n
+
+Carving your own permenant niche in Dark Pawns is not easy. The 
+following list is a break down of castle features, and their cost.
+Note that some features may also require a quest to be performed,
+and that only the basic features have been listed.
+
+&cLand:&n
+
+An initial investment of 100,000 gold coins buys you the basic
+set up, which is 3 rooms, an entrance, foyer, and main room.
+Additional rooms are 75,000 each.
+
+Castle locations will be chosen by the gods, though your preferences 
+will be taken into consideration.
+
+&cFacilities:&n
+
+Lockable doors, grates, portculli, etc. are available for an installation
+charge of 15k.  They come with one key.  Additional keys are 10k.  Those
+of you looking for greater security should consider installing a reinforced
+door, which is 30k and comes with one key.
+
+Statues and Fountains are 10k each.
+
+Banking facilties are 20k.
+
+Informational boards are 15k.
+
+Local priests can be called in to bless certain chambers in your castle
+for 80k per chamber.
+
+
+&cCastle Staff:&n
+
+Butlers, maids, slave girls, guards etc, are 1k per level, with a 
+10k minimum each.  Please note that the staff of Dark Pawns cannot
+take responsibilty for your failure to adequately defend your property.
+
+&cAdditional Issues:&n
+
+Over time, there will be associated upkeep costs that go in to maintaining
+your property.  These costs will be deducted directly from your clan bank
+account.
+
+&cExample Castle and prices:&n
+
+Initial Land:			       100,000
+Reinforced Door (w/ 1 key)		30,000
+2 extra keys				20,000
+2 level 30 guards			60,000
+1 Butler				10,000 (min)
+1 Fountain				10,000
+-----------------------------------------------
+Grand Total:			       230,000
+
+
+#
+CHANGE CHANGES
+
+Too many things have changed on Dark Pawns 2.2 for them to be listed here.
+When in doubt, try the help files. If you still can't find what you are
+looking for, typo it and we'll add it to help asap.
+
+Here is a brief list of things that have changed and have updated help
+files:  REMORT, RANGER, MYSTIC, ASSASSIN, AVATAR, PALADIN, MAGUS, 
+DRAGON KICK, TIGER PUNCH, SCOUT,SLEEPER, TRACK,
+HIDE, KUJI-KIRI, NECKBREAK, CONJURE ELEMENTAL, AMBUSH, WATERBREATHE,
+FLAME STRIKE, METEOR SWARM, MIRROR IMAGE, SOUL LEECH, LAY HANDS, 
+HOLY WARD, HOLY SHIELD, DIVINE INTERVENTION, MASS DOMINATE, SHIFT REALITY
+
+
+#
+CITIZENSHIP
+
+You can buy citizenship in several cities in Dark Pawns for a small fee.
+Citizenship allows you to quit out in the safe room of that city and
+Return there upon re-entering the game.  You can only be a citizen of one
+city at a time.
+
+The "safe rooms" in the cities are generally the Temples or common 
+Meeting places of the city.
+
+See also: HOMETOWNS, QUIT, REALLYQUIT
+#
+CHARISMA WISDOM INTELLIGENCE STRENGTH DEXTERITY CONSTITUTION STATISTICS STATS
+
+Statistics affect more facets of the game than can be listed.
+Heres a short run-down of some of what they affect, and definitions.
+
+Strength: How strong you are. Affects the amount you can carry and how 
+          Hard you hit.
+
+Intelligence: How smart you are. Affects how fast you learn.
+
+Wisdom: How wise you are (common sense). Affects how many times you can 
+	  practice.
+
+Dexterity: How nimble you are. Affects how often you hit and get hit.
+
+Constitution: How healthy you are, in general. Affects hitpoint gain per
+              level.
+
+Charisma: How likeable you are. Affects how some monsters treat you 
+         (like shopkeepers), and how many pets you can have.
+
+Don't let your statistics get below because bad things can happen.
+You can see your current statistics with the ABILITIES command.
+
+See also: ABILITIES
+
+#
+CLASS CLASSES
+
+See help on individual classes: THIEF CLERIC WARRIOR MAGE NINJA PSIONIC
+
+There are also six additional remort-only classes: PALADIN, AVATAR,
+MAGUS, ASSASSIN, RANGER, MYSTIC.
+
+See also: REMORT
+#
+CLERIC CLERICS
+
+Clerics have an ancient belief in not carrying sharp weapons.  Hence, 
+they can only wield bludgeoning weapons.  This class gives you the wisdom
+of peace, blessing and healing, though it is possible to learn more 
+violent spells.
+
+You can improve your spells by using the practice command.
+
+	1	turn
+	1	cure light
+	2	create food
+	2	create water
+	3	detect poison
+	4	detect align
+	4	cure blind
+	5	bless
+	6	holy ward
+	6	blindness
+	8	protection from evil
+	8	protection from good
+	9	cure critical
+	10	glyph of summoning
+	10	summon
+	10	remove poison
+	11	holy shield
+	12	word of recall
+	13	poison
+	14	dispel evil
+	14	dispel good
+	15	sanctuary
+	16	heal
+	22	group heal
+	23	mass heal
+	25	invigorate
+	26	remove curse
+	27	vitality
+	29	group recall
+
+See also: PRACTICE, SPELLS, CLASSES
+#
+CODE CODING
+
+The source code that runs Dark Pawns was originally based on CircleMUD
+version 3.0 beta (pl11).  It has evolved considerably since then, largely
+due to the efforts of the following people:
+
+		dkarnes   Derek L. Karnes    Serapis
+		stevet    Stephen Thompson   Orodreth
+		rparet    R. E. Paret        Frontline
+
+
+
+#
+COMBAT
+
+Combat is the very essence of Dark Pawns, when it is just the player or
+players against the mob in the field of battle.  To that end, most of
+the SPELLS in the game are designed to aid you in combat in some way.
+
+Combat on Dark Pawns takes the form of standard rounds. During 
+each round, you have the opportunity to hit your opponent, and he or 
+she has the opportunity to hit you.  Different things can affect the
+rounds of combat, of course.  As you get higher in level, most classes
+will gain extra ATTACKS to help you in battle.  You may also use the
+combat skills you gain from leveling in battle, but be aware that some
+of these skills will "lag" you, causing you to miss rounds of combat.
+There are also multiple skills to "lag" your opponent.  These rounds of
+combat continue until either the player is dead, the mob is dead, or one
+of you decides to FLEE from battle.
+
+Combat is the chief way to gain experience, levels, and equipment on
+Dark Pawns.
+
+#
+COVERED COVER GLOW GLOWING HUM HUMMING
+
+If you see something in your EQUIPMENT list that has "covered" by it, it
+means just that: you have another piece of equipment covering it. I.e., 
+gloves cover rings on your fingers. People looking at you can't see items 
+that are covered.
+
+Humming and glowing equipment mean exactly what they say, too. The 
+equipment hums (makes a vibrating noise) or glows with a faint light 
+(not enough to see by, but enough to be seen in the dark).
+
+#
+DAMAGE RACE_SLAYER
+
+Some equipment is identified as: "Does extra damage to race: <xxx>"
+
+These items, known as race slayers, are both coveted and hated. Although
+the damage bonus they give is powerful, the user of such weapons becomes
+hated and marked for death by all members of the target race.
+
+See also: RACE
+#
+DIE DEATH CONDIE
+
+When you die, you come back into the game in the temple. (Unless you own
+a CASTLE, in which case you come back into the game there.) All equipment
+and gold remains in your corpse at the place you died. To retrieve your 
+objects, go back to where you died and get them from your body.
+Alternatively, you could RETRIEVE your corpse from the Mortician. 
+
+Every time you die, there is a chance you will lose 1 point of 
+CONSTITUTION.
+If your constitution drops below 1, you will be dead forever. There are 
+places within the game where constitution can be bought. 
+
+See also: CASTLE, CONSTITUTION, RETRIEVE 
+#
+"DEATH TRAP" DT
+
+A "death-trap" is a place in the world which upon entering you are 
+instantly slain, loosing all equipment.  You do not loose EXP for
+dying in a DT.  You cannot RETRIEVE your corpse if you die in a DT.
+Since hitting a death trap is considered one of the worst fates
+that can befall a player character, there are no death traps that
+are hidden or unmarked in Dark Pawns.
+
+See also: EXP, DEATH, RETRIEVE
+
+#
+DELETE
+
+If you wish to delete your character, you may do so from the main menu,
+Which is displayed before entering and after quitting the game.
+
+#
+DREAM DREAMS NIGHTMARE NIGHTMARES
+
+When you sleep on Dark Pawns, there is a good chance that you might DREAM.
+Most people in the world consider DREAMS to be harmless, but many mystics
+and oracles consider dreams to be very important, even prophetic.  DREAMS
+that occur in the Wyldlands are considered especially meaningful.
+
+It is rumored that in the magick-rich Wyldlands DREAMS have the power
+to physically effect the dreamer, in essence, the DREAMS become real.
+
+Some DREAMS are known to be savage and twisted in nature.  These DREAMS
+are normally referred to as NIGHTMARES, and like their counterpart DREAMS,
+are more intense in the Wyldlands.  Many adventurers report that their 
+NIGHTMARES are most intense after they have been recently reincarnated.
+
+See Also: SLEEP
+
+#
+ENCUMBRANCE WEIGHT ENCUMBERANCE PTS
+
+Encumbrance is a three-dimensional assessment of mass, weight, and 
+occupied space. Basically it's an assessment of how difficult something
+is to carry around. i.e. 2-foot lead pole and a 10-foot wooden pole have
+about the same encumbrance; the lead due mostly to weight; the wooden due
+mostly to the awkward length.
+
+Encumbrance affects spell casting, and is measured in "points" for lack
+of a better unit. 
+
+#
+EXPERIENCE XP
+
+Whenever you kill a monster, you earn experience points.  When enough 
+experience points are earned, you raise a level.
+
+Things you should know about experience points:
+
+  * When damaging a monster at low levels, you get experience points.
+
+  * If you kill a monster of higher level than yourself, you get bonus
+    experience points.  If killing a monster of lower level you'll gain
+    less experience points
+
+See also: GROUP, SCORE
+#
+FLAGS
+
+Players sometimes have FLAGS after their names in the WHO list.  These
+flags are always in parentheses, not brackets or braces.
+
+  FLAG        MEANING
+  ----------- ---------------------------------------------------------
+  (CHOSEN)    Player is the Chosen of the Gods.
+  (invis)     Player is invisible; you can see him/her because you are
+              sensitive to the presence of invisible things.
+  (writing)   Player is writing on the board; do not disturb.
+  (mailing)   Player is writing mail; do not disturb.
+  (deaf)      Player has chosen not to hear shouts.
+  (notell)    Player has chosen not to accept tells.
+  (quest)     Player is participating in a quest currently being run by
+              the gods.
+  (AFK)       Player may be Away From the Keyboard and may not hear 
+              anything.
+  (OUTLAW)    Player is an OUTLAW.
+
+See also: NOSHOUT, NOTELL, QUEST, STEAL, VISIBLE, OUTLAW
+
+#
+GOD GODS
+
+The Gods of Dark Pawns are a mysterious lot, preferring to remain 
+obfuscated and mysterious to the mortal population.  It is known that 
+they do speak to some mortals, however.
+
+See also: WIZLIST, IMMLIST 
+
+#
+GUILD GUILDS
+
+The Guildhouse is the place where mortals may go to escape the troubles 
+and perils of a cruel world.  Each guild is heavily guarded, so that only
+members may enter the building.  Guilds are also the places where people 
+come to learn and practice the skills of their trade.
+
+&cGuild locations in Kir Drax'in: (see help MAP for more info)&n
+
+&cThieves Guild&n  - On the southern wall road.
+
+&cWarriors Guild&n - On the Street of Swords
+
+&cClerics Guild&n  - Inside the Temple of the Cross
+
+&cMages Guild&n    - On the Street of Wizardry
+
+&cPsionic Guild&n  - On the Avenue of the Gods
+
+&cNinja Guild&n    - On the Avenue of the Gods
+
+See also: PRACTICE
+#
+HOMETOWN HOMETOWNS
+
+Your hometown is the city that you have residence in.  Being a citizen in
+Your hometown entitles you to quit there for free.  Anyone can quit for 
+free in the Temple in the free city of Kir Drax'in.  Other hometowns may
+require you to pay a fee to become a citizen there.
+
+Your hometown is displayed in the SCORE listing. When you recall, you 
+Will recall to your hometown. If you quit out in your hometown, you will
+start there, if you quit out someplace else (like in Kir Drax'in) you 
+will start there.
+
+See also: RECALL, WORD OF RECALL
+
+#
+HITROLL HR DAMROLL DR "SAVING SPELL" "SAVING THROW" THROW SAVING
+
+Hitroll, Damroll and Saving Throws are some of the raw mechanics
+of Dark Pawns.  A few brief definitions:
+
+Hitroll: Your chance to hit someone during combat, as applied to
+         their AC.  Plus hitroll is good, minus hitroll is bad.
+
+Damroll: The amount of damage you do in addition to the average
+         per round damage of your weapon. Again, plus is more 
+         damage, minus, less damage.
+
+Saving Throws: How well your character is protected against 
+               certain specialized attacks, like spells, breath
+               weapons, and petrification. Minus saving throws
+               indicates better protection against a certain 
+               type.
+                     
+
+#
+IDENTIFY IDENTIFIER
+
+Ferrenx the Identifer, whose shop is located off of Main Street in the 
+City of Kir Drax'in, will identify equipment, for a price.
+
+See also: MAP
+#
+IMPLEMENTOR
+
+The most powerful being in existence.
+
+See also: IMMLIST, WIZLIST
+#
+INN INNS CRYOGENIC CRYO RECEPTION
+
+There is no Rent on Dark Pawns, so just quit in the Temple in your home
+town, and your equipment will be saved.
+
+
+See also: RENT, HOMETOWN, QUIT, REALLYQUIT
+#
+JAIL GUARDS GUARD CITYGUARD
+
+Kir Drax'in Law states that no violence is allowed in the city. Offenders
+Are thrown in jail for a short period of time -- very short, due to the 
+Number of offenses in a given day.
+Be warned that cityguards are given leeway to kill offenders in protection
+of their own lives, and of course are always to rid the city of WEREWOLVES
+and VAMPIRES.
+
+See also: BRIBE
+
+#
+LINK LINKLESS
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+II. If your link jams (freezes), you have a problem.  The only solution 
+    We can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.
+#
+MAGICK MAGIC
+
+Magick is defined as the energy field that surrounds the world, giving 
+it existence.  Mortals skilled in the magickal arts are able to manipulate
+this energy to their own benefit, either through sorcery, the violent magick
+of wizards, or through prayers to an idol or deity spirit, as clerics and avatars
+do.  The civilized world fears sorcery and sorcerers for their destructive powers,
+but they have no problem with religious magicks.  Thus, clerics and other religious
+powers dominate modern civilization's societal government.
+
+See also: WIZARD, CLERIC
+#
+"MAGIC USER" WIZARD MAGE MAGES WIZARDS
+
+This is the class of powerful and violent magick, but the magic user does 
+not control nature, and can therefore not bless and protect.
+
+You can improve your spells by using the practice command.
+
+Spell list:
+
+	1	flame arrow
+	1	infravision
+	2	acid blast
+	2	detect invisibility
+	2	detect magic
+	3	chill touch
+	4	invisibility
+	5	burning hands
+	6	strength
+	7 	shocking grasp
+	8	sleep
+	9	lightning bolt
+	9	blindness
+	10	detect poison
+	11	color spray
+        12      sense life
+        12      waterwalk
+	13	energy drain
+	14	curse
+	15	fireball
+	20 	hellfire
+	21	metalskin
+	22	waterbreathe
+	24	enchant armor
+	25 	disintegrate
+	26	enchant weapon	
+	28	globe of invulnerability
+
+
+See also: PRACTICE, SPELLS, CLASSES, MAGICK
+#
+MAGUS
+
+The Magus represents the extreme power of magickal spellcraft, wielding
+power on a cosmic scale, able to create, destroy, or shape realities at 
+whim. Because of the destabilizing effect magic has on the humanoid 
+psyche, as well as the intense lifelong training and study, the class of
+Magus is remort only.
+
+Spell list:
+
+	1	flame arrow
+	1	infravision
+	2	acid blast
+	2	detect invisibility
+	2	detect magic
+	3	chill touch
+	4	invisibility
+	5	burning hands
+	6	strength
+	7	shocking grasp
+	8	sleep
+	9	lightning bolt
+	9	blindness
+	10	detect poison
+	11	color spray
+ 	12	waterwalk
+	12	sense life
+	13	energy drain
+	14	curse
+	15 	fireball
+	20	gate
+	20	hellfire
+	21	metalskin
+        22      waterbreathe
+	22	fly
+	23	group invisibility
+	23	flame strike
+	24	enchant armor
+	25	disintegrate
+	26	enchant weapon
+	27	ray of disruption
+	28	globe of invulnerability
+	29	conjure elemental
+        30      meteor swarm
+
+
+See also: REMORT
+#
+MANA
+
+Mana is used when casting spells.  You must have a certain amount of mana
+in order to cast any particular spell.  If you do not have enough mana to
+cast the spell you must rest until you gain enough points to cast.
+
+See also: SPELLS, MAGICK
+#
+MAP
+               *-----*-----*-----*-----*-----*-----*
+               |                                   |
+               |                                   | 
+               *                                   *--*--*--*--*--*--*
+               |                                   |                 |
+               |                                   |                 |
+               *                    *--WG          *                 *
+               |                    |              |                 |
+               |                    |              *                 |
+               *                    *  M-*   *     |                 *
+               |                    |    |   |  AP-*-MG              |
+               |                    |    *-1-*     |                 |
+               *                GB--*    | | |     *--LM             *
+               |                    |    * | CG    |                 | 
+               |                    |      |       |                 |
+               *        AA          *------T-------*  Z     CT       *
+               |        |           |      |       |  |     |        |
+               |        |           |      |       |  |     |        |
+               *--*--*--*--*--*--*--*------*-------*--*--*--*--*--*--*
+               |  |              |  |      |             |     |     |
+               |  *              P  D      |             |     |     |
+               *              A            *--I    B  RO NG LG PG    *
+               |              |     J      |       |  |     |        |
+               |              |     |      |       |  |     |        |
+             --*---*---*---*--*--*--*------*-------*--*--*--*--*--*--*--
+               |           |  |  |  |      |       |        |  |  |  |
+               |           |  |  |  |      |       |        |  |  |  |
+               *           *  TP *  G      *       W        ID Bk Jl *
+               |                           |                         |
+               |                           |                         |
+               *                           *                         *
+               |                           |                         |
+               |                           |                         |
+               *                           *                         *
+               |                           |                         |
+               |                           |                         |
+               *                           *--*                      *
+               |                           |  |                      |
+               |                           |  |                      |
+               *                 TG        *  Sl   DD S           *--*
+               |                 |         |       |  |              |
+               |                 |         |       |  |              |
+               *---*---*---*--*--*--*------*-------*--*--*--*--*--*--*
+                                           |
+                                           |
+
+AP = Apothecary
+B = Bakery
+Bk = Bank
+CG = Clerics Guild
+D = Donation Room
+DD = Dump
+G = Goods Store
+GB = Guard Barracks (new players should train here)
+ID = Ferrenx the Identifier
+J = Jeweller
+Jl = Jail
+LG = Leon's Leather Goods
+LM = Lawana's Mystical Devices
+M = Morgue
+MG = Mages Guild
+NG = Ninja's Guild
+PG = Psionic's Guild
+S = Stables
+Sl = Slums
+TG = Thieves Guild
+W = Weaponsmith
+WG = Warriors Guild
+Z = Zoo
+ 
+#
+MOB MOBILE NPC MOBS
+
+Generic term for any Non-Playing Character in the game.. i.e. "monsters".
+#
+MOONGATE MOON
+
+There exists an extraordinary cosmic association between the gravity of 
+The moon and the delicate fabric of time and space. As though pulling the
+strings of some cosmic marionette, the moons cause radiant moongates to 
+appear on the land below. Step through one of these shimmering corridors 
+of light and you will be transported to a new time or place. Moongates 
+generally appear at locations where fragments of extraterrestrial rocks 
+called 'moonstones' have been buried. There are at least two types of 
+moongates -- blue and red.
+
+Blue moongates, generated by moonstones, generally focus on the 
+destinations in but a single world -- the world in which they appear.
+
+Red moongates, generated by the powerful Magi of the land, are summoned
+by magicks, and thus can be opened at any time, even during the day.
+
+See Also: TIME ENTER GATE
+#
+MUSHROOM
+
+Magic mushrooms are created by clerics with the "create food" spell. The
+mushroom given to new players at the start of the game is edible and not 
+poisonous.
+
+#
+MYSTIC MYSTICS
+
+The Mystic is an esthetic, a psionicist who has achieved a level of peace
+and enlightenment unknown to other mortals. The Mystic is a true master of
+time and space with his amazing mental powers, and can be quite a deadly foe
+if enraged.  Mystics tend to lead a detached, intellectual lifestyle, but 
+some have decided to use their considerable mental prowess to fight for 
+Good or Evil.  Because of the intense training needed to attain their 
+enlightened state, the class of Mystic is Remort only.
+
+Powers:
+
+	1	mind poke
+	1	flesh alter
+	2	psychic shield
+	3	lesser perception
+	4	mindsight
+	5	mind attack
+	6	chameleon
+	7	adrenaline
+	8	levitate
+	9	mind blast
+	11	change density
+	13	dream travel
+	15	shift reality
+	16	greater perception
+	19	dominate
+	21	cell adjustment
+        22      mirror image
+	24	mental lapse
+	25	psiblast
+	26	mind bar
+	28	mass dominate
+	30	haste
+
+See also: REMORT, CLASSES, PSIONIC
+#
+FAQ
+
+New players: The guard barracks on the Street of Swords is designed
+to help get you off to a good start in the world of Dark Pawns.
+Initially you are going to want to try to level just in there and the
+other newbie areas in Kir Drax'in. (Type HELP MAP for info on getting
+around the city)
+
+Be sure to read the board in the Temple. It contains a lot of 
+information about the game, and current events.
+
+You also are going to want to read HELP POLICY (for the rules)
+and HELP NEWBIE (for any "newbish" questions)
+
+******FAQ:(and the help files to read to find the answers)******
+(Words in CAPITALS means type HELP <word-in-capitals> to see the
+ help file)
+
+&cHow can I find out my skills/spells I have currently avaiable? &n
+	PRACTICE
+&cHow can I find ALL the skills/spells available to my class? &n
+	Get HELP on your class (ie: help WARRIOR, help THIEF, etc)
+&cI'm broke and hungry.. help? &n
+	EAT CARVE
+      If you are just hungry, try the bakery 1e1n of Market Square.
+&cI'm a psychopath.. help? &n
+	BEHEAD
+&cWhere's the donation room?&n
+	south, west, south of the temple in Kir Drax'in.
+&cAre there subclasses?&n
+	No.. but you can REMORT to a different class when you
+	reach level 30. 
+	Also, VAMPIREs and WEREWOLVES are available for all races.
+&cIs there a map?&n
+	HELP MAP
+&cIs there rent?&n
+	No rent, but you must QUIT in the temple to keep your equipment.
+        If you are a resident of another HOMETOWN besides Kir Drax'in
+        you can quit in that towns quit room (generally, where you 
+        started)
+&cIs there a way to automate things, such as looting corpses and gold?&n
+	AUTO
+&cWho is this "Someone" person?&n
+      When you see something like "Someone says, 'Hi there.'" That is       
+      an invisible person speaking to you.  You would be able to see   
+      them if you had the DETECT INVISIBILITY spell cast upon you.  If
+      it bothers you to talk to an invisible person, you can always 
+      request that they go VISIBLE.
+&cWhat is everyone talking about on gossip?&n
+      You can type REVIEW to get the text of the last 25 gossips, so if
+      you have just logged on you can figure out what has been going on  
+      lately in the game.  
+&cI'm so lost! Where do I go to get a good start?&n
+       Well, first of all, type RECALL. That will put you back in the 
+       temple of Kir Drax'in.  From there, go down and open the door 
+       south into the guard training centre.  This is where you are 
+       going to begin honing your skills and advancing your levels.  
+       Killing mobs in the city when you are a newbie is NEVER a good
+       idea, your best bet is to stay down in the centre for awhile.
+
+If you get lost, use the RECALL command to put you back in the temple.
+
+Also, read the NEWS for recent changes.
+
+See also: HELP, HELP NEWBIE, NEWBIE
+#
+NINJA NINJAS
+
+The ninja is a member of the oriental society of mercenaries; A master
+of the ancient secret stealth combat style called ninjitsu.  They have
+abilities that no other class can offer. Ninja have no remort class.
+Because of the stealthy style of their combat, Ninjas are barred from
+using shields of any sort.  Ninjas may only be human.
+
+Skills list:
+
+	1	strike of revenge
+	2	kuji-kiri kyo
+	3	stealth
+	4	serpent kick
+	5	escape of the mongoose
+	5	kuji-kiri sha
+	7	kabuki
+	8	kuji-kiri zai
+	9	kuji-kiri kai
+	11	tiger punch
+	12	kuji-kiri retsu
+	13	subdue
+	15	kuji-kiri toh
+	17	evasion
+	18	kuji-kiri rin
+	20	dragon kick
+	22	kuji-kiri jin
+	25	kuji-kiri zhen
+	26	cutthroat
+	28	neckbreak
+	29	smokescreen
+	30	soul leech
+
+See also: CLASSES
+#
+NOBITS
+
+The term "NOBITS" is mud slang for "Has no bits". What it means, 
+essentially, is that the item has no special affects to it. It
+doesn't do anything remarkable.
+
+#
+NUMBER ATTACKS
+
+All classes get a chance for a third attack at level 30, warrior and 
+fighter-type classes get it a bit sooner. The chance for second attack 
+is reached around level 15 to 20, depending on class.
+#
+OBSIDIAN
+
+Obsidian is a spell REAGENT, used in the flame arrow spell.
+
+See Also: REAGENT
+
+#
+OUTLAW OUTLAWS
+
+You are an OUTLAW on Dark Pawns if you have pkilled or stolen from another
+player.  Outlaws are generally not well liked and are known to be hunted
+to the death by many blood-thirsty and vengeful adventurers.
+
+Note: A player who wishes to become an OUTLAW should think long and hard
+about the choice, as the consequences for being an OUTLAW are as severe as
+one might expect.
+
+See also: PK, PSTEAL
+
+#
+PALADIN 
+
+PALADINS
+
+The Paladin is the warrior of the church, sent out to further the church 
+interests across the land in a provisional sense. Paladins are also the 
+leaders of the churches armies, and are typically fanatical and deadly
+fighters who have mastered their art. Because of the large amount of
+training and religious study that are involved, the class of Paladin
+is remort only.
+
+Skills and Spells:
+
+	1	kick
+	3	bash
+	3	rescue
+	4	sharpen
+	5	detect alignment
+	5	retreat
+	7	bearhug
+	8	berserk
+	9	track
+	10	lay hands
+	12	sleeper
+	13	parry
+	14	dispel evil
+	14	dispel good
+	15	headbutt
+	17	slug
+	20	smackheads
+	23	charge
+	25	protection from evil
+	25	protection from good
+	30	disarm	
+
+See also: REMORT
+#
+PK "PLAYER KILLING" PKILL PKILLING PKILLER
+
+Player killing is allowed on Dark Pawns but, as in life, there can be
+serious consequences to killing another intelligent being.
+
+If you kill another player, you will be flagged as an OUTLAW.
+OUTLAWS are not well liked by the "civilized" city-states on Dark
+Pawns, and they are likely to take measures to keep OUTLAWS out
+of their cities.
+In addition, some vigilante-type mobs are known to hunt OUTLAWS for
+bounties, or just for fun.
+
+Werewolves and Vampires are not considered "mortal" and thus can be staked
+without any flagging. Also, there is no flagging for killing an OUTLAW
+character.
+
+Players under level 10 are protected from being pkilled, and they are
+also prohibited from pkilling.
+
+Stealing items from another players corpse is prohibited.  The only 
+situation that this is allowed in is with the case of recovery of an item
+which has been stolen by the killed player.  If this is the case, expect to
+be able to prove it.
+
+
+See also: PSTEAL, OUTLAW
+#
+PSTEAL "PLAYER STEALING" PSTEALING
+
+Stealing from other players is allowed on Dark Pawns.
+
+To steal from other players, you must be flagged as an OUTLAW.
+All the gorey details of this flag are listed in its help file.
+
+You may NEVER junk equipment that you have stolen from other characters.
+Junking of stolen equipment represents an irreplacable loss to the 
+character whose item it was.  If you junk equipment you steal,
+you will be removed from the game.
+
+If you decide to move stolen items from your OUTLAW character to
+one of your non-outlaw multis, expect your multi to be flagged
+OUTLAW.  Repeated abuses of this will likely result in your deletion.
+
+You can only steal from other players who are +/- 3 levels from you.
+
+Stealing items from other players corpses is prohibited.  However, if you
+swipe someone's gear and they kill you and take it back, you've got no room
+to complain.
+
+
+See also: PK, OUTLAW
+#
+PSIONICIST PSIONICS PSIONIST PSIONIC PSIONICS
+
+A Psionicist (Psionic) is the master of the mind. The amazing mental 
+abilities of this class can be a very powerful assistant in battle.
+
+List of Powers:
+
+	1	mind poke
+	1	flesh alter
+	2	psychic shield
+	3	lesser perception
+	4	mindsight
+	5	mind attack
+	6	chameleon
+	7	adrenaline
+	8	levitate
+	9	mind blast
+	11	change density
+	13	dream travel
+	15	shift reality
+	18	greater perception
+	20	dominate
+        22      mirror image
+	23	cell adjustment
+	25	mental lapse
+	26	psiblast
+	28	mind bar
+
+
+See also: WILL, CLASSES
+#
+PUDDLE PUDDLES
+
+Puddles are formations of liquid occurring from rain or other liquid 
+Collecting in one spot. They dry up and disappear after a short time,
+or after their contents are consumed.
+
+#
+RACE RACES
+
+Your race is pretty much class independent; Certain things are affected,
+Such as:
+ The type of terrain you survive best in: 
+	RAKSHASA: desert 			MINOTAUR: forest
+	ELF: forest 				DWARF: mountains
+	KENDER: fairly good everywhere.  	HUMAN: fairly good everywhere.
+	SSAUR: swamp
+
+Magick resistance: Elves and Dwarves are a bit heartier in this area.
+
+Attitudes: Humans abound, so they are often suspicious of other races and
+	     give preferential treatment to their own kind.
+           Kenders have a tendency to 'acquire' things unwittingly, and
+           make excellent thieves.
+
+Each race has its own language.
+ 
+See also: RSAY MINOTAUR RAKSHASA ELF DWARF KENDER HUMAN SSAUR
+#
+DWARF
+
+Dwarves are a noble race of demihumans who dwell under the earth, forging
+great cities and waging massive wars against the forces of chaos and evil.
+Dwarves also have much in common with the rocks and gems they love to 
+work, for they are both hard and unyielding. It's often been said that
+it's easier to make a stone weep than it is to change a dwarf's mind. 
+Standing an average of four-and-a-half feet tall, dwarves tend to be 
+stocky and muscular. They have ruddy cheeks and bright eyes. Their skin
+is typically deep tan or light brown. Their hair is usually black, gray,
+or brown, and worn long, though not long enough to impair vision in any 
+way. They favor long beards and mustaches as well.
+
+See also: RACES
+#
+ELF
+
+Though their lives span several human generations, elves appear at first
+glance to be frail when compared to man, due to their delicate and finely
+chiseled features. Elves have very pale complexions, which is odd because
+they spend a great deal of time outdoors. They tend to be slim, almost 
+fragile, standing on average between five-and-a-half to over seven feet
+tall. Though they are not as sturdy as humans, elves are much more agile.
+Elves have learned that it is very important to understand the creatures,
+Both good and evil, that share their forest homes.
+
+See also: RACES
+#
+HUMAN
+
+Humans are the most common race on this world, and come in all sorts of 
+shapes and sizes. The appearance of humans are not the only thing that 
+varies about them, though, some are evil as sin, while others are good 
+as good can be, but most you shall find on your adventures are neutral, 
+and will just mind their own business and pay no attention to the affairs
+of adventurers. Also, humans are the only race that can become ninjas, 
+the dangerous oriental mercenaries. They adapt easily to most climates, 
+allowing them to build cities in almost any location.
+
+See also: RACES
+#
+KENDER
+
+Kender are small, kind, but somewhat annoying, elf-like beings that have
+recently spread across the globe. They do not seem to have any sort of 
+kingdom and most are found just wandering throughout the lands, exploring.
+Although some are trained thieves, the whole of the kender race seems to 
+have a knack for stealing, and occasionally, without even noticing it 
+sometimes, they have been known to steal from friends and enemies alike. 
+They act much like humans, but four things make a kender's personality 
+drastically different from that of a typical human. Kender are utterly 
+fearless, insatiably curious, unstoppably mobile and independent, and 
+will pick up anything that is not nailed down.
+
+See also: RACE
+#
+MINOTAUR
+
+Minotaurs are either cursed humans or the offspring of minotaurs and 
+humans. They are usually found dwelling in underground labyrinths, for 
+they seem to have an innate ability to maneuver in these places, and do 
+not often lose their sense of direction. Minotaurs are huge, well over 
+seven feet tall, and their broad bodies ripple with muscles. They have 
+the head of a bull but the body of a human male, there have been accounts 
+of female minotaurs, but they are rare. The color of their fur ranges 
+from brown to black, while their body coloring varies, as would a normal 
+humans. Although they usually dwell in mazes beneath the earth, it is 
+noted that they also see very well in forests.
+
+See also: RACES
+#
+RAKSHASA
+
+Rakshasas are a race of malevolent spirits encased in flesh that hunt and
+torment humanity. No one knows where these creatures originate, some say 
+they are the embodiment of nightmares. The only way to describe their form
+is that they are humanoid tigers, with hands whose palms curve backward, 
+away from the body. Most of the worlds rakshasa are evil, but recently 
+many have decided to stop their tyrannical living and become adventurers,
+although they still retain their fondness towards the great sandy wastes 
+of their homeland.
+
+See also: RACES
+#
+SSAUR
+
+Ssaurs are a relatively new race in the world. They are a more evolved 
+type of lizardman, and most are more intelligent than their aggressive
+ancestors, and for that are shunned from the lizardman tribes, and the 
+few that are born into those tribes are cast out almost as soon as they 
+are hatched. Other than the intelligence, they appear to be the same as 
+lizardman, although less evil-looking. Ssaurs spend most of their lives 
+in swamps and marshes, but some have been known to adventure far away 
+from their homes.
+
+See also: RACES
+#
+REAGENT REAGENTS COMPONENTS COMPONENT
+
+Reagents (or spell components) are used to cast (or enhance the casting)
+Of magickal spells. Some very powerful spells can only be perfected by 
+obtaining the correct components.
+
+The reagents necessary for spells can be found throughout the world, and 
+documentation on their use is in various scattered spell books. Reagents 
+for widely known spells can be found at Apothcaries in any major city.
+
+#
+RANGER RANGERS
+
+Rangers are the warriors and guardians of the wilderness.  They are 
+skilled in tracking and hunting, and make very good guides.  Rangers can
+be found worldwide, in deserts, swamps, or any other type of open, 
+undeveloped land.  Rangers hail mainly from races whose cultures are 
+agrarian instead of urban, and they detest the smell of cities and industry.
+Because of the skill required to master their environment, the class of 
+Ranger is a remort class only.
+
+Skill list:
+
+	1	kick
+	2	scrounge
+	3	bash
+	4	sharpen
+	5	rescue
+	6	first aid
+        6       retreat
+	7	bearhug
+	8	search
+	9	track
+	10	hide
+	11	sense life
+	12	sleeper
+	13 	parry
+	15	headbutt
+	17	slug
+	19	scout
+        22      charge
+	23	ambush
+	26	shoot
+	30	disarm
+
+See also: REMORT, CLASSES
+#
+REIMBURSE REIMBURSEMENT
+
+If you loose your equipment as a result of a crash or other game
+error, a god will most likely reimburse you.  To get a reimbursement,
+simple put something along the lines of "needs to Talk to a God" in
+your TITLE.  Reimbursements are not offered if you are looted by another
+player, or are looted by a mob.
+
+See also: POLICY
+
+#
+REMORT IMMORT REMORTING IMMORTING IMMORTALITY
+
+Remorting:
+Once you reach level 30 (and find the remorter) you can remort, becoming 
+A level 1 again, and you will be a member of a remort class. Remorts 
+gain special bonuses, including some or all of: higher 
+hit-points/mana/moves, no thirst, no hunger, higher statistics, and 
+improved skills.  Remorts keep all of their equipment, gold, and 
+statistics.  
+
+This is the progression chart for first time remorts:
+
+Original Class              Remort Class
+  Warrior       ------->  Paladin or Ranger
+  Cleric        ------->       Avatar
+  Thief         ------->      Assassin
+  Mage          ------->       Magus
+  Psionic       ------->       Mystic
+
+There is no remort class for ninjas.  Players who choose to remort a 
+second or third time will gain no new remort class, but they will 
+reap the benefits of further increased abilities and other special 
+bonuses. Remorting will raise two of your statistics in the following
+order: Constitution, Strength, Wisdom, Intelligence, Dexterity, 
+Charisma. When you have "perfect" statistics, you will no longer
+need food or drink.
+
+Immortality:
+In most cases, immortality will not be offered until you have remorted at
+least once.  Should immortality be offered to you, the details and
+conditions of godhood will be explained at that time. If you wish to 
+immort, let a god know. Only a certain number of positions are available.
+
+See also: GODS, WIZLIST, IMMLIST
+#
+SHOPS
+
+Shops are places where the adventurer may purchase equipment for his 
+quests, and where he may sell his treasure if he should manage to survive
+the perils with his life and sanity intact.  Many shops trade only in a
+specific type of merchandise.  Thus, a baker may well refuse to buy your
+armor, even if it is of high quality!
+
+To some people, the prospect of obtaining the entire inventory of a shop
+By murdering the keeper may appear tempting - but beware: The shopkeepers
+are often rugged, capable men; roughened by years of trading and, indeed,
+surviving in a world where the only safe prospect is death in the end.
+
+See also: BUY, SELL, LIST, VALUE
+#
+SOMEONE
+
+When you see something like:
+
+Someone gossips, 'Anyone want to group?'.
+
+or
+
+Someone says, 'Hey there!'.
+
+This means that the person that is speaking is INVISIBLE to you, you 
+cannot see them for whatever reason.
+
+#
+SPELL SPELLS
+
+Spells are cast with the command CAST, in the form:
+ 	CAST '<spell name>' <target name>
+Examples:
+ 	cast 'armor' me
+ 	cast 'fireball' troll
+
+Damage, duration and effectiveness depends on a number of factors, from
+caster's level, to victim's saving throw. See help on the individual
+spell names for more information.
+
+
+See also: CAST MAGICK
+#
+TANK
+
+The tank is defined as "the person being hit by the person you are 
+fighting."
+
+See also: COMBAT
+#
+TATTOO TATTOOS TATOO TATOOS
+
+Tattoos are available from tattooists in most major cities, plus various
+traveling magi knowledgeable of the art. LIST lists available tattoos,
+BUY <tattoo number> starts the (rather painful) process.
+
+Some tattoos give a bonus to statistics, other cast spells (usable once
+per day). Tattoos are permanent until you die, or removed by a god (via 
+a quest).
+
+Due to the magickal nature of tattoos, only one tattoo can be worn at a 
+time.
+#
+THIEF THIEVES
+
+Thieves are known to have very special qualities, that no other class 
+offers. Their specialty tends to be in the darker, sneakier art.  
+Many of these qualities can come in handy in many situations, such as 
+picking locks. Because of their sneaky nature, the thief class is 
+barred from using shields of any sort.
+
+Skill list:
+
+	1	peek
+	1	backstab
+	1	compare
+	2	sneak
+	3	steal
+	3	palm
+	4	pick lock
+	5 	hide
+	7	appraise
+	8	search
+	9	trip
+	11	subdue
+	15	circle
+	18	groinrip
+	20	cutthroat
+	27	disembowel
+
+See also: CLASSES
+#
+TITAN
+
+These beings have moved beyond mere immortality, and into godhood...
+
+See also: WIZLIST, IMMLIST, GODS
+#
+TWINK
+
+Twink is a state of mind.
+
+See also: PAW
+#
+WARRIOR FIGHTER WARRIORS
+
+Warriors are known to have more strength than the average class. This
+Makes them better at hand-to-hand-combat, as they possess skills of 
+violence and fighting unequaled by the members of any other class.  
+However, they lack the ability to use magic of any sort. 
+
+You can improve your skills by using the practice command.
+
+Skill list:
+
+	1	kick
+	3	bash
+	4	rescue
+	5	retreat
+	7	bearhug
+	8	berserk
+	9	track
+	12	sleeper
+	13	parry
+	15	headbutt
+	17	slug
+	20	smackheads
+	23	charge
+
+
+See also: PRACTICE, ATTACKS, CLASSES
+#
+VAMPIRISM VAMPIRE VAMPIRES
+
+Notorious for their sharp fangs and aversion to wooden STAKEs and garlic,
+vampires are night creatures that live off of the blood of others.
+
+Any race can become a vampire, either by certain dark incantations or 
+(more commonly) the bite of another vampire.
+
+Vampires can be killed just like any other creature (by depleting their 
+hit-points) or by being staked. A wooden stake through the heart of a 
+vampire is a sure-fire death, albeit a risky one... Vampires usually 
+don't take kindly to failed attempts at staking them.  A successful
+stake removes all vestiges of vampirism from the player when 
+they re-enter the game.
+
+Vampires can TRANSFORM at night to assume their vampiric form... gaining
+a substantial amount (up to 2 times normal!) of mana points, based on the
+phase of the moon. (New moon being the weakest gain, full moon being the largest.)
+At dawn, the vampire can transform back to their normal shape.
+
+While in vampire form, vampires can BITE a victim to drink their blood, 
+or pass on their vampirism. Biting while fighting does damage, otherwise
+it only causes damage if you fail to bite successfully. A vampire's 
+hunger and thirst at night can only be sated by blood.
+
+Cityguards take a disliking to vampires in their cities. 
+
+See Also: STAKE TRANSFORM BITE TIME
+
+#
+LYCANTHROPY WEREWOLF WEREWOLVES LYCANTHROPE
+
+Werewolves (also known as lycanthropes) are part man and part wolf, known
+for their excessive appetites and superior strength.
+
+Werewolves are created by the darkest of magicks, or (more commonly) the
+BITE of another werewolf. Lycanthropy is almost like a disease, spreading
+through populations and transforming them entirely into werewolves who 
+soon crowd themselves into extinction by devouring the available food 
+supply -- and each other.
+
+Lycanthropes can harness the power of the moon, TRANSFORMing at night to 
+assume their werewolf form. Based on the phase of the moon, the werewolf
+gains up to two times normal hitpoints (Quarter moon being the smallest 
+gain, full moon being the largest.) Werewolves can not transform if there 
+is no moon in the sky (i.e. in the new moon phase).
+
+Although they can be killed like any other creature (by depleting their 
+hitpoints), the quickest way to kill one is with a silver SPIKE through 
+the chest. A successful spike removes all vestiges of lycanthropy from 
+the player when they re-enter the game.
+
+Cityguards take a disliking to lycanthropes in their cities. 
+
+Werewolves have an increased metabolism (get hungry more often than normal
+mortals) but can eat corpses, even though it's not a pretty sight.
+
+Werewolves are forced to TRANSFORM during full moons.
+
+See Also: SPIKE TRANSFORM BITE TIME
+#
+LEG LEGEND LEGENDS
+
+These are gods that have contributed a lot to the world that is Dark Pawns.
+They have decided, for whatever reason, to move onto new and better things.
+
+Respect them, because the rest of the Pantheon does.
+#
+CIRCLEMUD 
+
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember  
+them all, I'd like to extend special thanks to certain people:
+
+  -- Gekke Eekhoorn, Jeff Fink, Chris Epler, Eric Green, and Chris Herringshaw,
+     and Stefan Wasilewski for extensive beta-testing, bug reporting, and code
+     submissions for Circle 3.0.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Jean-Jack Riethoven, for porting the code to the Amiga.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions for Circle 2.x.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being  
+     there in the very early days of Circle's development.
+  -- Bill Bogstad and Tim Stearns, for allowing Circle to exist at JHU CS.
+   
+...plus everyone else in the Circle community who has submitted code, areas,
+utilities, suggestions, and otherwise supported CircleMUD in one way or
+another.  I absolutely couldn't (and wouldn't) do this if it wasn't for all
+of your help.  Thanks everyone!
+  
+ Anonymous FTP:  ftp.cs.jhu.edu:/pub/CircleMUD
+Author's Email:  jelson@jhu.edu 
+           URL:  http://www.cs.jhu.edu/~jelson/circle.html
+  Mailing List:  circle@pvv.unit.no
+
+Type 'credits' to see the DikuMUD credits.
+#
+CREDITS
+
+The 'credits' command lists the DikuMUD credits.
+
+For CircleMUD credits, type 'help circlemud'.
+
+For Dark Pawns-specific credits, type 'help darkpawns'.
+
+#
+DARKPAWNS
+ ------------------------------------------------------------------------------
+                   D  A  R  K     P  A  W  N  S    2  .  2
+
+Dark Pawns version 2.2 is the result of over five years of work by many 
+talented people.  The current developer wishes to express his gratitude to
+all of those who have supported him in his development of Dark Pawns, as well
+those who laid the groundwork for his current work.
+
+Pre Version 2.0 Credits:
+
+Conceived, masterminded, and skillfully developed by Derek L. Karnes (Serapis). 
+World design and conception by Oddity.
+Thank you to Bhang, Hardcase, Farthammer, Raven, Commax, Scythe, Skarash,
+Skullcrusher, Grimmy, and Daniel Muller for their code, ideas, time, areas and 
+general coolness.
+A special thank you to Nimos for his fantastic areas and insight into mud design.
+
+Post Version 2.0 and Beyond:
+
+Conception, Design, and Code
+R.E. Paret (Frontline)
+
+Admin Support, Tech Support, Personal Support, and Code
+S. Thompson (Orodreth)
+
+World Design and Implementation
+R. "Tarrant" Martin (Aralius)
+
+Player Administration and Game Theory
+H. Beckmann (Hulk)
+
+
+Thank you to Delirium, the Dark Pawns playtest crew, Derek Karnes for trusting me 
+with his game, the players for sticking with us through downtime and server changes,
+Oro for keeping the box up and running and generally being a cool guy, Ara for running
+the areas aspect of the game so smoothly that I don't have to worry about it (much), 
+Emily for emotional support, Kate for understanding, and last but not least...
+
+Dark Pawns was originally based on CircleMUD 3.0 beta patch-level 09, developed 
+by Jeremy Elson.  Without Jeremy and the fine example his code was to build on, 
+Dark Pawns would never have existed. Thank you very much, Jeremy.
+
+
+See also: CODE, WIZLIST, IMMLIST
+#
+$

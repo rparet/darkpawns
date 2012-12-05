@@ -1,0 +1,594 @@
+#18000
+Imm map room.~
+Nothing here.
+~
+180 4 0 0 0 4
+S
+#18001
+The Center of Dublin~
+You are in the center of the capital of Ireland.  All around you are ornate
+government buildings.  Irish people are strolling by you left and right.
+Some of them smell like cigarette smoke and liquor, which makes you think
+there is a pub near by.  You decide to look around and check things out
+for yourself.
+~
+180 0 0 0 0 1
+D0
+~
+~
+0 0 18012
+D1
+~
+~
+0 0 18008
+D2
+~
+~
+0 0 18002
+S
+#18002
+On the Streets of Dublin.~
+You are just south of this city's center.  The hustle and bustle really
+create a wonderful atmosphere.  To the east, you here singing...must be
+one of the town's many pubs.
+~
+180 0 0 0 0 1
+D0
+The center of the city.
+~
+~
+0 0 18001
+D1
+Kevin Barry's Inn
+~
+~
+0 0 18003
+S
+#18003
+The Kevin Barry Inn~
+You are in the lobby of the Kevin Barry Inn.  The noise from the singing 
+is almost unbearable.  To the east (where the singing is coming from) is
+Kevin Barry's Pub.  In there you can get a pint of Guinness and sit back
+and relax with old friends.  Upstairs, you can rent a room for the night.
+~
+180 8 0 0 0 0
+D1
+Kevin Barry's Pub.
+~
+~
+1 0 18005
+D3
+The streets of Dublin.
+~
+~
+0 0 18002
+D4
+The reception area.
+~
+~
+0 0 18004
+S
+#18004
+The Reception Area.~
+You are in the reception area of the Kevin Barry Inn.  If you would like
+to rest your weary bones, this is where you do it.
+~
+180 8 0 0 0 0
+D5
+The lobby
+~
+~
+0 0 18003
+S
+#18005
+Kevin Barry's Pub~
+You are in Kevin Barry's Pub.  This smoke filled room houses many of Dublin's
+musicians, and drunks for that matter.  Put your feet up and listen to some
+old Irish drinking songs.  Or, if you'd like, go to the bar, and get a beer
+from Kevin.
+~
+180 8 0 0 0 0
+D3
+The lobby
+~
+~
+1 0 18003
+D5
+A secret room.
+~
+secret door~
+1 0 18006
+S
+#18006
+A Secret Room.~
+You are in a very dark and mysterious room.  The smell of smoke is almost
+suffocating.  Perhaps you shouldn't be here.
+~
+180 9 0 0 0 0
+D4
+Kevin Barry's Pub
+~
+~
+1 0 18005
+S
+#18008
+St. Patrick's Cathedral.~
+You have entered St. Patrick's Cathedral, one of the oldest Roman Catholic
+churches in Ireland.  The beutiful stain glass windows and wood working are 
+awe inspiring.  You see a stair case leading up into what might be a loft
+or the bell tower.  To the east is a confessional, where you can admit to
+all your wrong doings before God.  And, to the north is Father O' Malley's
+office.
+~
+180 262168 0 0 0 0
+D0
+~
+~
+1 0 18009
+D1
+~
+~
+1 0 18010
+D3
+~
+~
+0 0 18001
+D4
+~
+~
+0 0 18011
+S
+#18009
+The Pastor's Office.~
+This is Father O' Malley's (the Pastor) office.  Here is where he writes
+his daily sermons, and decides what cruel things he can give to the bad
+little boys and girls as their penance.
+~
+180 8 0 0 0 0
+D2
+~
+~
+1 0 18008
+S
+#18010
+A Confessional.~
+Kneel down, for this is where you say your Act of Contrition.  Then say you're
+two Hail Mary's and an Our Father.  After you finish that, God will forgive 
+you.
+~
+180 262716 0 0 0 0
+D3
+~
+~
+1 0 18008
+S
+#18011
+A Loft Above the Church.~
+You seem to be in some sort of church attic or loft.  Cobwebs are everywhere,
+and the aroma is less than pleasing. You see little mangers and wooden Magi
+from what is probably a life size nativity set.
+~
+180 8 0 0 0 0
+D5
+~
+~
+0 0 18008
+S
+#18012
+On the Streets of Dublin~
+You are just north of the city's center.  To the east and west runs another
+street.  On that street are shops were one can buy necessities, or little 
+trinkits.
+~
+180 0 0 0 0 1
+D0
+~
+~
+0 0 0
+D1
+~
+~
+0 0 0
+D2
+~
+~
+0 0 18001
+D3
+~
+~
+0 0 18014
+S
+#18013
+The Dublin Bakery~
+You are in The Dublin Bakery.  Here you can buy some simple things to eat,
+or some more elaborate little treats.  All of which are expertly baked
+by one of Ireland's finest.
+~
+180 24 0 0 0 0
+D2
+~
+~
+0 0 18014
+S
+#18014
+On the Streets of Dublin~
+You are on a street running east and west through Dublin's shopping
+district. You can catch the wonderful aroma of freshly cooked bread
+right to the north of you.  And to the south you hear the clanging of
+Dublin's best weaponsmith.
+~
+180 0 0 0 0 1
+D0
+~
+~
+0 0 18013
+D1
+~
+~
+0 0 18012
+D2
+~
+~
+0 0 18015
+D3
+~
+~
+0 0 18017
+S
+#18015
+Harry O' Sullivan's Weaponry~
+Harry is one of the finest craftsmen around.  So I suggest, if you need
+a weapon, you buy it here.  Oh, he'll also buy any used equipment that
+you don't want.
+~
+180 24 0 0 0 0
+D0
+~
+~
+0 0 18014
+S
+#18016
+Celtic Treasures~
+This is Celtic Treasures, where you can buy any jewel, or jewelry you could
+possibly need.
+~
+180 24 0 0 0 0
+D2
+~
+~
+0 0 18017
+S
+#18017
+On the Streets of Dublin~
+You are on a street running east and west through the city.  To the north is 
+a jewelry store called Celtic Treasures.  To the south is Liam's Armory.
+~
+180 0 0 0 0 1
+D0
+~
+~
+0 0 18016
+D1
+~
+~
+0 0 18014
+D2
+~
+~
+0 0 0
+D3
+~
+~
+0 0 0
+S
+#18075
+Top of the Hill.~
+You are at the very top of Tara.  The view is incredible as you turn around
+and take in your surroundings.  You truly believe that there isn't a more
+beautiful place on this earth.
+~
+180 0 0 0 0 4
+D5
+Down the hill.
+~
+~
+0 0 18076
+S
+#18076
+Further up the Hill.~
+You are approximately half way up this legendary hill.  A strange presence
+seems to consume you, and you're involuntarily in awe.
+~
+180 0 0 0 0 4
+D0
+~
+~
+0 0 18077
+D2
+~
+~
+0 0 18096
+D4
+~
+~
+0 0 18075
+D5
+~
+~
+0 0 18093
+S
+#18077
+Further up the Hill.~
+You are approximately half way up this legendary hill.  A strange presence
+seems to consume you, and you're involuntarily in awe.
+~
+180 0 0 0 0 4
+D1
+~
+~
+0 0 18078
+D2
+~
+~
+0 0 18076
+D4
+~
+~
+0 0 18075
+D5
+~
+~
+0 0 18091
+S
+#18078
+Further up the Hill.~
+You are approximately half way up this legendary hill.  A strange presence
+seems to consume you, and you're involuntarily in awe.
+~
+180 0 0 0 0 4
+D0
+~
+~
+0 0 18077
+D1
+~
+~
+0 0 18079
+D4
+~
+~
+0 0 0
+S
+#18079
+Further up the Hill.~
+You are approximately half way up this legendary hill.  A strange presence
+seems to consume you, and you're involuntarily in awe.
+~
+180 0 0 0 0 4
+D2
+~
+~
+0 0 18099
+D3
+~
+~
+0 0 18078
+D4
+~
+~
+0 0 18075
+D5
+~
+~
+0 0 18088
+S
+#18080
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 4
+D3
+At the bottom of the hills of Tara.
+~
+~
+0 0 18080
+S
+#18081
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18082
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18083
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18084
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18085
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18086
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18087
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18088
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18089
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18090
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 4
+D1
+~
+~
+0 0 18089
+D3
+~
+~
+0 0 18091
+D4
+~
+~
+0 0 18077
+S
+#18091
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 4
+D1
+~
+~
+0 0 18090
+D2
+~
+~
+0 0 18092
+D4
+~
+~
+0 0 18077
+S
+#18092
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 4
+D0
+~
+~
+0 0 18091
+D2
+~
+~
+0 0 18093
+D4
+~
+~
+0 0 18077
+S
+#18093
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 4
+D0
+~
+~
+0 0 18092
+D2
+~
+~
+0 0 18094
+D4
+~
+~
+0 0 18076
+S
+#18094
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18095
+At the Bottom of the Hills of Tara~
+You are at the foot of Tara.  A large hill in Ireland where the ancient kings
+once sat.
+~
+180 0 0 0 0 0
+S
+#18096
+Further up the Hill.~
+You are approximately half way up this legendary hill.  A strange presence
+seems to consume you, and you're involuntarily in awe.
+~
+180 0 0 0 0 0
+S
+#18097
+Further up the Hill.~
+You are approximately half way up this legendary hill.  A strange presence
+seems to consume you, and you're involuntarily in awe.
+~
+180 0 0 0 0 0
+S
+#18098
+Further up the Hill.~
+You are approximately half way up this legendary hill.  A strange presence
+seems to consume you, and you're involuntarily in awe.
+~
+180 0 0 0 0 0
+S
+#18099
+Further up the Hill.~
+You are approximately half way up this legendary hill.  A strange presence
+seems to consume you, and you're involuntarily in awe.
+~
+180 0 0 0 0 4
+D0
+~
+~
+0 0 18079
+D2
+~
+~
+0 0 18098
+D4
+~
+~
+0 0 18075
+D5
+~
+~
+0 0 18085
+S
+$~

@@ -1,0 +1,3913 @@
+#13200
+An Immortal Room~
+This is a starting point for all of us who don't need doors or walkways to get
+around.  There is a map floating in the nothingness here for some guidance.
+~
+132 524 0 0 0 0
+E
+map~
+map goes here.
+~
+S
+#13201
+A large beach~
+You are on a large, serene beach. To the west lies the ocean, from which waves
+occasionally raise up from to lap against the sandy shore. To the south you see
+a line of tropical trees, where the tropical forest is. The beach extends to
+your north.
+~
+132 0 0 0 0 2
+D0
+~
+~
+0 0 13202
+D1
+~
+~
+0 0 13262
+D2
+~
+~
+0 0 13260
+S
+#13202
+A large beach~
+You are currently positioned on a large beach. The sandy ground is soft, making
+moving difficult. Far to the south you can see a line of trees signifying the
+tropical forest. The beach stops close to the east, marking the normal terrain.
+Someone has written something in the sand here, in giant letters.
+~
+132 0 0 0 0 2
+D0
+~
+~
+0 0 13203
+D1
+~
+~
+0 0 13263
+D2
+~
+~
+0 0 13201
+E
+letters something writing~
+It says:
+
+                    'FROGS LIVE'
+
+Weird.
+~
+S
+#13203
+A large beach~
+You are on a big, sandy beach, it would be a great place to go if you ever took
+a vacation from adventuring. The waves lap against the shore, creating soothing
+sounds, and you begin to relax. The beach runs north and south and the edge of
+the tropical forest begins to the east.
+~
+132 0 0 0 0 2
+D0
+~
+~
+0 0 13204
+D1
+~
+~
+0 0 13264
+D2
+~
+~
+0 0 13202
+S
+#13204
+A large beach~
+This part of the beach curves softly to the south and to the east, forming a
+kind of wall around the tropical forest. The sandy ground is soft, and it is
+a little hard to walk on with all your weight, but you are sure that, if you
+were attacked, it would not hamper you in any way.
+~
+132 0 0 0 0 2
+D1
+~
+~
+0 0 13205
+D2
+~
+~
+0 0 13203
+S
+#13205
+A large beach~
+This part of the beach seems more weathered, and there are many footprints that
+have been left here by previous passerbys, some abnormally large, some insanely
+small. Someday the waves will reach up to the highest part of the beach and
+wash it all away, and there will be no evidence of any passing. The edge of the
+tropical forest is south of here, and the beach runs east and west.
+~
+132 0 0 0 0 2
+D1
+~
+~
+0 0 13206
+D2
+~
+~
+0 0 13264
+D3
+~
+~
+0 0 13204
+S
+#13206
+A large beach~
+You are on a large, sandy beach which runs east and west. To the south you see
+the edge of a tropical forest, which is the only shelter you can see. The white
+sand is soft and you walking through it is hard, but you feel that if you were
+forced to defend yourself, your experience would overcome the terrain. To the
+east the beach starts curving north.
+~
+132 0 0 0 0 3
+D1
+~
+~
+0 0 13207
+D2
+~
+~
+0 0 13265
+D3
+~
+~
+0 0 13205
+S
+#13207
+A large beach~
+This part of the beach is wider than the other parts, reaching at least double
+the length of the rest of the beach towards the mainland. The sand here is
+soft, the result of being so distant from the water, which constantly laps at
+the shore.
+~
+132 0 0 0 0 2
+D0
+~
+~
+0 0 13208
+D1
+~
+~
+0 0 13268
+D2
+~
+~
+0 0 13266
+D3
+~
+~
+0 0 13206
+S
+#13208
+A large beach~
+The beach here is littered with sharp, jagged rocks. The sand has partially
+buried most of them, leaving only the cruelly razorlike edges poking out of
+the ground, ready to impale your feet. The waves crash against the rocks with
+tremendous force, and you know one day the rocks will be eroded down to small
+pebbles.
+~
+132 0 0 0 0 2
+D0
+~
+~
+0 0 13209
+D1
+~
+~
+0 0 13269
+D2
+~
+~
+0 0 13207
+S
+#13209
+A large beach~
+The ground here is tougher than the rest of the beach, making your footing
+stable. The beautiful blue ocean spreads out for miles to the north and west,
+and to the south and east the beach continues.
+~
+132 0 0 0 0 2
+D1
+~
+~
+0 0 13210
+D2
+~
+~
+0 0 13208
+S
+#13210
+A large beach~
+From your current position you can look north and see the miles and miles of
+endless sea. To the east and west the beach continues, and to the south is the
+edge of a tropical forest.
+~
+132 0 0 0 0 2
+D1
+~
+~
+0 0 13211
+D2
+~
+~
+0 0 13269
+D3
+~
+~
+0 0 13209
+S
+#13211
+A large beach~
+The beach here is loud and noisy, a combination of the waves slamming
+themselves against the sandy shore and the violent river a little to the east.
+To the south lies the edge of a tropical forest, and the beach continues to
+the west.
+~
+132 0 0 0 0 2
+D1
+~
+~
+0 0 13219
+D2
+~
+~
+0 0 13270
+D3
+~
+~
+0 0 13210
+S
+#13212
+A large beach~
+The sound of a raging river comes from west of here. That, combined with the
+waves forever crashing into the beach and the occasional strange noise emitted
+from the south make this part of the beach very noisy. To the north you can
+see a sand bar, to the west you see a river, and the beach continues east.
+~
+132 0 0 0 0 2
+D0
+~
+~
+0 0 13213
+D1
+~
+~
+0 0 13214
+D2
+~
+~
+0 0 13271
+D3
+~
+~
+0 0 13219
+S
+#13213
+A sand bar~
+This is just a little mound of sand that stands above the water level. There
+is room to move around and you could lay down and relax and listen to the
+sounds of the ocean surrounding you for a while. All in all it is a very serene
+spot.
+~
+132 262212 0 0 0 2
+D2
+~
+~
+0 0 13212
+S
+#13214
+A large beach~
+Here the waves have carved out a large pool in the sand. In the pool you can
+see all sorts of tiny organisms moving around, making the pool look like some
+sort of soup. The beach continues east and west and the edge of the tropical
+forest is to the south.
+~
+132 0 0 0 0 2
+D1
+~
+~
+0 0 13215
+D2
+~
+~
+0 0 13272
+D3
+~
+~
+0 0 13212
+S
+#13215
+A large beach~
+A large city lies to the east.
+~
+132 0 0 0 0 2
+D2
+~
+~
+0 0 13216
+D3
+~
+~
+0 0 13214
+S
+#13216
+A large beach~
+A large city lies to the northeast.
+~
+132 0 0 0 0 2
+D0
+~
+~
+0 0 13215
+D1
+~
+~
+0 0 13217
+D2
+~
+~
+0 0 13274
+D3
+~
+~
+0 0 13272
+S
+#13217
+A large beach~
+A large city lies to the north.
+~
+132 0 0 0 0 2
+D1
+~
+~
+0 0 13218
+D2
+~
+~
+0 0 13275
+D3
+~
+~
+0 0 13216
+S
+#13218
+A large beach~
+A large city lies to the north.
+~
+132 0 0 0 0 2
+D1
+~
+~
+0 0 13278
+D2
+~
+~
+0 0 13276
+D3
+~
+~
+0 0 13217
+S
+#13219
+A violent river~
+This is the part of the river that feeds into the oceans, the fresh water here
+will eventually become completely absorbed into the sea, tainted with salt and
+other materials that will make it a totally different water. The river runs
+south from here, and the beach lies to the west and east.
+~
+132 0 0 0 0 7
+D1
+~
+~
+0 0 13212
+D2
+~
+~
+0 0 13220
+D3
+~
+~
+0 0 13211
+S
+#13220
+A violent river~
+You are in an unfinished room.
+~
+132 0 0 0 0 7
+D0
+~
+~
+0 0 13219
+D1
+~
+~
+0 0 13271
+D2
+~
+~
+0 0 13221
+D3
+~
+~
+0 0 13270
+S
+#13221
+A violent river~
+You are in an unfinished room.
+~
+132 0 0 0 0 7
+D0
+~
+~
+0 0 13220
+D1
+~
+~
+0 0 13280
+D2
+~
+~
+0 0 13223
+D3
+~
+~
+0 0 13279
+S
+#13222
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13279
+D1
+~
+~
+0 0 13223
+D2
+~
+~
+0 0 13224
+D3
+~
+~
+0 0 13267
+S
+#13223
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13221
+D1
+~
+~
+0 0 13281
+D2
+~
+~
+0 0 13225
+D3
+~
+~
+0 0 13222
+S
+#13224
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13222
+D1
+~
+~
+0 0 13225
+D2
+~
+~
+0 0 13227
+D3
+~
+~
+0 0 13288
+S
+#13225
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13223
+D1
+~
+~
+0 0 13226
+D2
+~
+~
+0 0 13228
+D3
+~
+~
+0 0 13224
+S
+#13226
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13281
+D1
+~
+~
+0 0 13289
+D2
+~
+~
+0 0 13229
+D3
+~
+~
+0 0 13225
+S
+#13227
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13224
+D1
+~
+~
+0 0 13228
+D2
+~
+~
+0 0 13232
+D3
+~
+~
+0 0 13295
+S
+#13228
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13225
+D1
+~
+~
+0 0 13229
+D2
+~
+~
+0 0 13233
+D3
+~
+~
+0 0 13227
+S
+#13229
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13226
+D1
+~
+~
+0 0 13230
+D2
+~
+~
+0 0 13234
+D3
+~
+~
+0 0 13228
+S
+#13230
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13289
+D1
+~
+~
+0 0 13296
+D2
+~
+~
+0 0 13235
+D3
+~
+~
+0 0 13229
+S
+#13231
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13295
+D1
+~
+~
+0 0 13232
+D2
+~
+~
+0 0 13306
+D3
+~
+~
+0 0 13299
+S
+#13232
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13227
+D1
+~
+~
+0 0 13233
+D2
+~
+~
+0 0 13307
+D3
+~
+~
+0 0 13231
+S
+#13233
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13228
+D1
+~
+~
+0 0 13234
+D2
+~
+~
+0 0 13236
+D3
+~
+~
+0 0 13232
+S
+#13234
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13229
+D1
+~
+~
+0 0 13235
+D2
+~
+~
+0 0 13237
+D3
+~
+~
+0 0 13233
+S
+#13235
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13230
+D1
+~
+~
+0 0 13300
+D2
+~
+~
+0 0 13308
+D3
+~
+~
+0 0 13234
+S
+#13236
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13233
+D1
+~
+~
+0 0 13237
+D2
+~
+~
+0 0 13316
+D3
+~
+~
+0 0 13307
+S
+#13237
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13234
+D1
+~
+~
+0 0 13308
+D2
+~
+~
+0 0 13238
+D3
+~
+~
+0 0 13236
+S
+#13238
+A large, orange lake~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13237
+D1
+~
+~
+0 0 13317
+D2
+~
+~
+0 0 13239
+D3
+~
+~
+0 0 13316
+S
+#13239
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13238
+D1
+~
+~
+0 0 13240
+D2
+~
+~
+0 0 13336
+D3
+~
+~
+0 0 13326
+S
+#13240
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13317
+D1
+~
+~
+0 0 13241
+D2
+~
+~
+0 0 13337
+D3
+~
+~
+0 0 13239
+S
+#13241
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13318
+D1
+~
+~
+0 0 13242
+D2
+~
+~
+0 0 13243
+D3
+~
+~
+0 0 13240
+S
+#13242
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13319
+D1
+~
+~
+0 0 13327
+D2
+~
+~
+0 0 13335
+D3
+~
+~
+0 0 13241
+S
+#13243
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13241
+D1
+~
+~
+0 0 13244
+D2
+~
+~
+0 0 13246
+D3
+~
+~
+0 0 13336
+S
+#13244
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13242
+D1
+~
+~
+0 0 13337
+D2
+~
+~
+0 0 13247
+D3
+~
+~
+0 0 13243
+S
+#13245
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13337
+D1
+~
+~
+0 0 13246
+D2
+~
+~
+0 0 13251
+D3
+~
+~
+0 0 13345
+S
+#13246
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13243
+D1
+~
+~
+0 0 13247
+D2
+~
+~
+0 0 13252
+D3
+~
+~
+0 0 13245
+S
+#13247
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13244
+D1
+~
+~
+0 0 13248
+D2
+~
+~
+0 0 13253
+D3
+~
+~
+0 0 13246
+S
+#13248
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13337
+D1
+~
+~
+0 0 13249
+D2
+~
+~
+0 0 13254
+D3
+~
+~
+0 0 13247
+S
+#13249
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13373
+D1
+~
+~
+0 0 13250
+D3
+~
+~
+0 0 13248
+S
+#13250
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13381
+D3
+~
+~
+0 0 13249
+S
+#13251
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13245
+D1
+~
+~
+0 0 13252
+D2
+~
+~
+0 0 13256
+D3
+~
+~
+0 0 13345
+S
+#13252
+A small island~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13246
+D1
+~
+~
+0 0 13253
+D2
+~
+~
+0 0 13257
+D3
+~
+~
+0 0 13251
+S
+#13253
+A small island~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13247
+D1
+~
+~
+0 0 13254
+D2
+~
+~
+0 0 13258
+D3
+~
+~
+0 0 13252
+S
+#13254
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13248
+D2
+~
+~
+0 0 13259
+D3
+~
+~
+0 0 13253
+S
+#13255
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 6
+D0
+~
+~
+0 0 13345
+D1
+~
+~
+0 0 13256
+D3
+~
+~
+0 0 13359
+S
+#13256
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13251
+D1
+~
+~
+0 0 13257
+D3
+~
+~
+0 0 13255
+S
+#13257
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13252
+D1
+~
+~
+0 0 13258
+D3
+~
+~
+0 0 13256
+S
+#13258
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13253
+D1
+~
+~
+0 0 13259
+D3
+~
+~
+0 0 13257
+S
+#13259
+On the Finnochio River~
+You are in an unfinished room.
+~
+132 0 0 0 0 0
+D0
+~
+~
+0 0 13254
+D3
+~
+~
+0 0 13258
+S
+#13260
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13201
+D1
+~
+~
+0 0 13261
+D2
+~
+~
+0 0 13302
+S
+#13261
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13262
+D1
+~
+~
+0 0 13298
+D2
+~
+~
+0 0 13303
+D3
+~
+~
+0 0 13260
+S
+#13262
+The edge of a dark tropical forest~
+Directly to the east is a dense tropical forest, and a large beach stretches
+out to the west. Lush, green bushes grow here among the tall grass that grows
+between the beach and the tropical forest, forming somewhat of a buffer zone.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13263
+D1
+~
+~
+0 0 13293
+D2
+~
+~
+0 0 13261
+D3
+~
+~
+0 0 13201
+S
+#13263
+The edge of a dark tropical forest~
+You are standing on the edge of a dark tropical forest. It stretches for miles
+to the east. There is a long beach to the west of you and the lush green
+bushes and shrubs you are in continue to the north and south. Strange noises
+emanate from the tropical forest and the strange wildlife within.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13264
+D1
+~
+~
+0 0 13286
+D2
+~
+~
+0 0 13262
+D3
+~
+~
+0 0 13202
+S
+#13264
+The edge of a dark tropical forest~
+You are standing at the corner of the barrier between the thick, tropical
+forest which begins south east of here and the beach that stretches out in
+all other directions. From here you can see past the beach and out to sea.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13205
+D1
+~
+~
+0 0 13265
+D2
+~
+~
+0 0 13263
+D3
+~
+~
+0 0 13203
+S
+#13265
+The edge of a dark tropical forest~
+You are standing in the tall grasses and lush green bushes that make up a
+barrier between the large beach to your north and the thick, tropical forest
+that begins directly south of you. You can hear the waves crashing against
+the shore far away.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13206
+D1
+~
+~
+0 0 13266
+D2
+~
+~
+0 0 13286
+D3
+~
+~
+0 0 13264
+S
+#13266
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13207
+D1
+~
+~
+0 0 13267
+D2
+~
+~
+0 0 13287
+D3
+~
+~
+0 0 13265
+S
+#13267
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13268
+D1
+~
+~
+0 0 13222
+D2
+~
+~
+0 0 13288
+D3
+~
+~
+0 0 13266
+S
+#13268
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13269
+D1
+~
+~
+0 0 13279
+D2
+~
+~
+0 0 13267
+D3
+~
+~
+0 0 13207
+S
+#13269
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13210
+D1
+~
+~
+0 0 13270
+D2
+~
+~
+0 0 13268
+D3
+~
+~
+0 0 13208
+S
+#13270
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13212
+D1
+~
+~
+0 0 13220
+D2
+~
+~
+0 0 13279
+D3
+~
+~
+0 0 13269
+S
+#13271
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13212
+D1
+~
+~
+0 0 13272
+D2
+~
+~
+0 0 13280
+D3
+~
+~
+0 0 13220
+S
+#13272
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13214
+D1
+~
+~
+0 0 13216
+D2
+~
+~
+0 0 13273
+D3
+~
+~
+0 0 13271
+S
+#13273
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13272
+D1
+~
+~
+0 0 13274
+D2
+~
+~
+0 0 13282
+D3
+~
+~
+0 0 13280
+S
+#13274
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13216
+D1
+~
+~
+0 0 13275
+D2
+~
+~
+0 0 13283
+D3
+~
+~
+0 0 13273
+S
+#13275
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13217
+D1
+~
+~
+0 0 13276
+D2
+~
+~
+0 0 13284
+D3
+~
+~
+0 0 13274
+S
+#13276
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13218
+D1
+~
+~
+0 0 13277
+D3
+~
+~
+0 0 13275
+S
+#13277
+The edge of a dark tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13278
+D1
+~
+~
+0 0 13362
+D2
+~
+~
+0 0 13364
+D3
+~
+~
+0 0 13276
+S
+#13278
+The edge of a dark tropical forest~
+A large city lies to the north.
+~
+132 0 0 0 0 3
+D1
+~
+~
+0 0 13361
+D2
+~
+~
+0 0 13277
+D3
+~
+~
+0 0 13218
+S
+#13279
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13270
+D1
+~
+~
+0 0 13221
+D2
+~
+~
+0 0 13222
+D3
+~
+~
+0 0 13268
+S
+#13280
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13271
+D1
+~
+~
+0 0 13273
+D2
+~
+~
+0 0 13281
+D3
+~
+~
+0 0 13221
+S
+#13281
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13280
+D1
+~
+~
+0 0 13282
+D2
+~
+~
+0 0 13226
+D3
+~
+~
+0 0 13223
+S
+#13282
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13273
+D1
+~
+~
+0 0 13283
+D2
+~
+~
+0 0 13289
+D3
+~
+~
+0 0 13281
+S
+#13283
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13274
+D1
+~
+~
+0 0 13284
+D2
+~
+~
+0 0 13290
+D3
+~
+~
+0 0 13282
+S
+#13284
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13275
+D1
+~
+~
+0 0 13285
+D2
+~
+~
+0 0 13291
+D3
+~
+~
+0 0 13283
+S
+#13285
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13276
+D1
+~
+~
+0 0 13364
+D2
+~
+~
+0 0 13292
+D3
+~
+~
+0 0 13284
+S
+#13286
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13265
+D1
+~
+~
+0 0 13287
+D2
+~
+~
+0 0 13293
+D3
+~
+~
+0 0 13263
+S
+#13287
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13266
+D1
+~
+~
+0 0 13288
+D2
+~
+~
+0 0 13294
+D3
+~
+~
+0 0 13286
+S
+#13288
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13267
+D1
+~
+~
+0 0 13224
+D2
+~
+~
+0 0 13295
+D3
+~
+~
+0 0 13287
+S
+#13289
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13282
+D1
+~
+~
+0 0 13290
+D2
+~
+~
+0 0 13230
+D3
+~
+~
+0 0 13226
+S
+#13290
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13283
+D1
+~
+~
+0 0 13291
+D2
+~
+~
+0 0 13296
+D3
+~
+~
+0 0 13289
+S
+#13291
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13284
+D1
+~
+~
+0 0 13292
+D2
+~
+~
+0 0 13297
+D3
+~
+~
+0 0 13290
+S
+#13292
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13285
+D1
+~
+~
+0 0 13365
+D2
+~
+~
+0 0 13367
+D3
+~
+~
+0 0 13291
+S
+#13293
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13286
+D1
+~
+~
+0 0 13294
+D2
+~
+~
+0 0 13298
+D3
+~
+~
+0 0 13262
+S
+#13294
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13287
+D1
+~
+~
+0 0 13295
+D2
+~
+~
+0 0 13299
+D3
+~
+~
+0 0 13293
+S
+#13295
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13288
+D1
+~
+~
+0 0 13227
+D2
+~
+~
+0 0 13231
+D3
+~
+~
+0 0 13294
+S
+#13296
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13290
+D1
+~
+~
+0 0 13297
+D2
+~
+~
+0 0 13300
+D3
+~
+~
+0 0 13230
+S
+#13297
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13291
+D1
+~
+~
+0 0 13367
+D2
+~
+~
+0 0 13301
+D3
+~
+~
+0 0 13296
+S
+#13298
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13293
+D1
+~
+~
+0 0 13299
+D2
+~
+~
+0 0 13304
+D3
+~
+~
+0 0 13261
+S
+#13299
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13294
+D1
+~
+~
+0 0 13231
+D2
+~
+~
+0 0 13305
+D3
+~
+~
+0 0 13298
+S
+#13300
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13296
+D1
+~
+~
+0 0 13301
+D2
+~
+~
+0 0 13309
+D3
+~
+~
+0 0 13235
+S
+#13301
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13297
+D1
+~
+~
+0 0 13368
+D2
+~
+~
+0 0 13310
+D3
+~
+~
+0 0 13300
+S
+#13302
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13260
+D1
+~
+~
+0 0 13303
+S
+#13303
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13261
+D1
+~
+~
+0 0 13304
+D2
+~
+~
+0 0 13311
+D3
+~
+~
+0 0 13302
+S
+#13304
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13298
+D1
+~
+~
+0 0 13305
+D2
+~
+~
+0 0 13312
+D3
+~
+~
+0 0 13303
+S
+#13305
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13299
+D1
+~
+~
+0 0 13306
+D2
+~
+~
+0 0 13313
+D3
+~
+~
+0 0 13304
+S
+#13306
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13231
+D1
+~
+~
+0 0 13307
+D2
+~
+~
+0 0 13314
+D3
+~
+~
+0 0 13305
+S
+#13307
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13232
+D1
+~
+~
+0 0 13236
+D2
+~
+~
+0 0 13315
+D3
+~
+~
+0 0 13306
+S
+#13308
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13235
+D1
+~
+~
+0 0 13309
+D2
+~
+~
+0 0 13317
+D3
+~
+~
+0 0 13237
+S
+#13309
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13300
+D1
+~
+~
+0 0 13310
+D2
+~
+~
+0 0 13318
+D3
+~
+~
+0 0 13308
+S
+#13310
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13301
+D1
+~
+~
+0 0 13369
+D2
+~
+~
+0 0 13319
+D3
+~
+~
+0 0 13309
+S
+#13311
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13303
+D1
+~
+~
+0 0 13312
+D2
+~
+~
+0 0 13321
+S
+#13312
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13304
+D1
+~
+~
+0 0 13313
+D2
+~
+~
+0 0 13322
+D3
+~
+~
+0 0 13311
+S
+#13313
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13305
+D1
+~
+~
+0 0 13314
+D2
+~
+~
+0 0 13323
+D3
+~
+~
+0 0 13312
+S
+#13314
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13306
+D1
+~
+~
+0 0 13315
+D2
+~
+~
+0 0 13324
+D3
+~
+~
+0 0 13313
+S
+#13315
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13307
+D1
+~
+~
+0 0 13316
+D2
+~
+~
+0 0 13325
+D3
+~
+~
+0 0 13314
+S
+#13316
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13236
+D1
+~
+~
+0 0 13238
+D2
+~
+~
+0 0 13326
+D3
+~
+~
+0 0 13315
+S
+#13317
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13308
+D1
+~
+~
+0 0 13318
+D2
+~
+~
+0 0 13240
+D3
+~
+~
+0 0 13238
+S
+#13318
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13309
+D1
+~
+~
+0 0 13319
+D2
+~
+~
+0 0 13241
+D3
+~
+~
+0 0 13317
+S
+#13319
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13310
+D1
+~
+~
+0 0 13320
+D2
+~
+~
+0 0 13242
+D3
+~
+~
+0 0 13318
+S
+#13320
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13369
+D1
+~
+~
+0 0 13371
+D2
+~
+~
+0 0 13327
+D3
+~
+~
+0 0 13319
+S
+#13321
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13311
+D1
+~
+~
+0 0 13322
+D2
+~
+~
+0 0 13329
+S
+#13322
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13312
+D1
+~
+~
+0 0 13323
+D2
+~
+~
+0 0 13330
+D3
+~
+~
+0 0 13321
+S
+#13323
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13313
+D1
+~
+~
+0 0 13324
+D2
+~
+~
+0 0 13331
+D3
+~
+~
+0 0 13322
+S
+#13324
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13314
+D1
+~
+~
+0 0 13325
+D2
+~
+~
+0 0 13332
+D3
+~
+~
+0 0 13323
+S
+#13325
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13315
+D1
+~
+~
+0 0 13326
+D2
+~
+~
+0 0 13333
+D3
+~
+~
+0 0 13324
+S
+#13326
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13316
+D1
+~
+~
+0 0 13239
+D2
+~
+~
+0 0 13334
+D3
+~
+~
+0 0 13325
+S
+#13327
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 0 0 0 0 3
+D0
+~
+~
+0 0 13320
+D1
+~
+~
+0 0 13372
+D2
+~
+~
+0 0 13336
+D3
+~
+~
+0 0 13242
+S
+#13328
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D1
+~
+~
+0 0 13329
+D2
+~
+~
+0 0 13338
+S
+#13329
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13321
+D1
+~
+~
+0 0 13330
+D2
+~
+~
+0 0 13339
+D3
+~
+~
+0 0 13328
+S
+#13330
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13322
+D1
+~
+~
+0 0 13331
+D2
+~
+~
+0 0 13340
+D3
+~
+~
+0 0 13329
+S
+#13331
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13323
+D1
+~
+~
+0 0 13332
+D2
+~
+~
+0 0 13341
+D3
+~
+~
+0 0 13330
+S
+#13332
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13324
+D1
+~
+~
+0 0 13333
+D2
+~
+~
+0 0 13342
+D3
+~
+~
+0 0 13331
+S
+#13333
+Wind~
+You are in an unfinished room.
+Phondew will write this descrip, thanks.
+~
+132 0 0 0 0 13
+D0
+~
+~
+0 0 13325
+D1
+~
+~
+0 0 13334
+D2
+~
+~
+0 0 13343
+D3
+~
+~
+0 0 13332
+S
+#13334
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13326
+D1
+~
+~
+0 0 13335
+D2
+~
+~
+0 0 13344
+D3
+~
+~
+0 0 13333
+S
+#13335
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13326
+D1
+~
+~
+0 0 13336
+D2
+~
+~
+0 0 13345
+D3
+~
+~
+0 0 13334
+S
+#13336
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13239
+D1
+~
+~
+0 0 13243
+D2
+~
+~
+0 0 13345
+D3
+~
+~
+0 0 13335
+S
+#13337
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13327
+D1
+~
+~
+0 0 13373
+D2
+~
+~
+0 0 13248
+D3
+~
+~
+0 0 13244
+S
+#13338
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13328
+D1
+~
+~
+0 0 13339
+D2
+~
+~
+0 0 13346
+S
+#13339
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13329
+D1
+~
+~
+0 0 13340
+D2
+~
+~
+0 0 13347
+D3
+~
+~
+0 0 13338
+S
+#13340
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13330
+D1
+~
+~
+0 0 13341
+D2
+~
+~
+0 0 13348
+D3
+~
+~
+0 0 13339
+S
+#13341
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13331
+D1
+~
+~
+0 0 13342
+D2
+~
+~
+0 0 13349
+D3
+~
+~
+0 0 13340
+S
+#13342
+Water~
+You are in an unfinished room.
+Phondew will write this descrip, thanks.
+~
+132 0 0 0 0 14
+D0
+~
+~
+0 0 13332
+D1
+~
+~
+0 0 13343
+D2
+~
+~
+0 0 13350
+D3
+~
+~
+0 0 13341
+S
+#13343
+The Temple of Elements~
+You are in an unfinished room.
+Phondew will write this descrip, thanks.
+~
+132 16 0 0 0 0
+D0
+~
+~
+0 0 13333
+D1
+~
+~
+0 0 13344
+D2
+~
+~
+0 0 13351
+D3
+~
+~
+0 0 13342
+S
+#13344
+Fire~
+You are in an unfinished room.
+Phondew will write this descrip, thanks.
+~
+132 0 0 0 0 11
+D0
+~
+~
+0 0 13334
+D1
+~
+~
+0 0 13345
+D2
+~
+~
+0 0 13352
+D3
+~
+~
+0 0 13343
+S
+#13345
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13336
+D1
+~
+~
+0 0 13245
+D2
+~
+~
+0 0 13353
+D3
+~
+~
+0 0 13344
+S
+#13346
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13338
+D1
+~
+~
+0 0 13347
+S
+#13347
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13339
+D1
+~
+~
+0 0 13348
+D2
+~
+~
+0 0 13354
+D3
+~
+~
+0 0 13346
+S
+#13348
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13340
+D1
+~
+~
+0 0 13349
+D2
+~
+~
+0 0 13355
+D3
+~
+~
+0 0 13347
+S
+#13349
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13341
+D1
+~
+~
+0 0 13350
+D2
+~
+~
+0 0 13356
+D3
+~
+~
+0 0 13348
+S
+#13350
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13342
+D1
+~
+~
+0 0 13351
+D2
+~
+~
+0 0 13357
+D3
+~
+~
+0 0 13349
+S
+#13351
+Earth~
+You are in an unfinished room.
+Phondew will write this descrip, thanks.
+~
+132 0 0 0 0 12
+D0
+~
+~
+0 0 13343
+D1
+~
+~
+0 0 13352
+D2
+~
+~
+0 0 13358
+D3
+~
+~
+0 0 13350
+S
+#13352
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13344
+D1
+~
+~
+0 0 13353
+D2
+~
+~
+0 0 13359
+D3
+~
+~
+0 0 13351
+S
+#13353
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13345
+D1
+~
+~
+0 0 13251
+D2
+~
+~
+0 0 13255
+D3
+~
+~
+0 0 13352
+S
+#13354
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13347
+D1
+~
+~
+0 0 13355
+D2
+~
+~
+0 0 13360
+S
+#13355
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13348
+D1
+~
+~
+0 0 13356
+D3
+~
+~
+0 0 13354
+S
+#13356
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13349
+D1
+~
+~
+0 0 13357
+D3
+~
+~
+0 0 13355
+S
+#13357
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13350
+D1
+~
+~
+0 0 13358
+D3
+~
+~
+0 0 13356
+S
+#13358
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13351
+D1
+~
+~
+0 0 13359
+D3
+~
+~
+0 0 13357
+S
+#13359
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13352
+D1
+~
+~
+0 0 13255
+D3
+~
+~
+0 0 13358
+S
+#13360
+Deep in a tropical forest~
+You are in an unfinished room.
+~
+132 1 0 0 0 3
+D0
+~
+~
+0 0 13354
+S
+#13361
+The bottom of a steep mountain~
+A large city lies to the north.
+~
+132 0 0 0 0 5
+D2
+~
+~
+0 0 13362
+D3
+~
+~
+0 0 13278
+S
+#13362
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13361
+D2
+~
+~
+0 0 13363
+D3
+~
+~
+0 0 13277
+S
+#13363
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13362
+D2
+~
+~
+0 0 13374
+D3
+~
+~
+0 0 13364
+S
+#13364
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13277
+D1
+~
+~
+0 0 13363
+D2
+~
+~
+0 0 13365
+D3
+~
+~
+0 0 13285
+S
+#13365
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13364
+D1
+~
+~
+0 0 13374
+D2
+~
+~
+0 0 13366
+D3
+~
+~
+0 0 13292
+S
+#13366
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13365
+D1
+~
+~
+0 0 13375
+D2
+~
+~
+0 0 13376
+D3
+~
+~
+0 0 13367
+S
+#13367
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13292
+D1
+~
+~
+0 0 13366
+D2
+~
+~
+0 0 13368
+D3
+~
+~
+0 0 13297
+S
+#13368
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13367
+D1
+~
+~
+0 0 13376
+D2
+~
+~
+0 0 13369
+D3
+~
+~
+0 0 13301
+S
+#13369
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13368
+D1
+~
+~
+0 0 13370
+D2
+~
+~
+0 0 13320
+D3
+~
+~
+0 0 13310
+S
+#13370
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13376
+D1
+~
+~
+0 0 13378
+D2
+~
+~
+0 0 13371
+D3
+~
+~
+0 0 13369
+S
+#13371
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13370
+D1
+~
+~
+0 0 13379
+D2
+~
+~
+0 0 13372
+D3
+~
+~
+0 0 13320
+S
+#13372
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13371
+D1
+~
+~
+0 0 13380
+D2
+~
+~
+0 0 13373
+D3
+~
+~
+0 0 13327
+S
+#13373
+The bottom of a steep mountain~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13372
+D1
+~
+~
+0 0 13381
+D2
+~
+~
+0 0 13249
+D3
+~
+~
+0 0 13337
+S
+#13374
+A rocky slope~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13363
+D2
+~
+~
+0 0 13375
+D3
+~
+~
+0 0 13365
+S
+#13375
+A rocky slope~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13374
+D2
+~
+~
+0 0 13377
+D3
+~
+~
+0 0 13366
+S
+#13376
+A rocky slope~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13366
+D1
+~
+~
+0 0 13377
+D2
+~
+~
+0 0 13370
+D3
+~
+~
+0 0 13368
+S
+#13377
+A rocky slope~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13375
+D2
+~
+~
+0 0 13378
+D3
+~
+~
+0 0 13376
+S
+#13378
+A rocky slope~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13377
+D2
+~
+~
+0 0 13379
+D3
+~
+~
+0 0 13370
+S
+#13379
+A rocky slope~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13378
+D2
+~
+~
+0 0 13380
+D3
+~
+~
+0 0 13371
+S
+#13380
+A rocky slope~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13379
+D2
+~
+~
+0 0 13381
+D3
+~
+~
+0 0 13372
+S
+#13381
+A rocky slope~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+D0
+~
+~
+0 0 13380
+D2
+~
+~
+0 0 13250
+D3
+~
+~
+0 0 13373
+S
+#13382
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13383
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13384
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13385
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13386
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13387
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13388
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13389
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13390
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13391
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13392
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13393
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13394
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13395
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13396
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13397
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+#13398
+An unused room~
+You are in an unfinished room.
+~
+132 0 0 0 0 5
+S
+$~

@@ -1,0 +1,731 @@
+#101
+leather gloves~
+a pair of leather gloves~
+A pair of leather gloves lies here.~
+~
+9 0 0 0 0 129 0 0 0
+1 0 0 0
+2 30 75.00
+#102
+leather belt~
+a leather belt~
+A leather belt lies here.~
+~
+9 0 0 0 0 2049 0 0 0
+1 0 0 0
+2 10 75.00
+#103
+leather boots~
+a pair of leather boots~
+A pair of leather boots lies here.~
+~
+9 0 0 0 0 65 0 0 0
+1 0 0 0
+1 10 75.00
+#104
+leather mask~
+a leather mask~
+A leather mask lies here.~
+~
+9 0 0 0 0 131073 0 0 0
+1 0 0 0
+1 10 75.00
+#105
+leather sleeves~
+a pair of leather sleeves~
+A pair of leather sleeves lies here.~
+~
+9 0 0 0 0 257 0 0 0
+1 0 0 0
+3 20 75.00
+#106
+leather cap~
+a leather cap~
+A leather cap lies here.~
+~
+9 0 0 0 0 17 0 0 0
+2 0 0 0
+3 20 75.00
+#107
+leather skirt~
+a leather skirt~
+A leather skirt lies here.~
+~
+9 0 0 0 0 65537 0 0 0
+2 0 0 0
+6 20 75.00
+#108
+leather leggings~
+a pair of leather leggings~
+A pair of leather leggings lies here.~
+~
+9 0 0 0 0 33 0 0 0
+3 0 0 0
+8 30 75.00
+#109
+leather vest~
+a leather vest~
+A leather vest lies here.~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0
+10 30 75.00
+#110
+leather buckler~
+a leather buckler~
+A leather buckler lies here.~
+~
+9 0 0 0 0 513 0 0 0
+1 0 0 0
+3 10 75.00
+#111
+studded leather gloves~
+a pair of studded leather gloves~
+A pair of studded leather gloves lies here.~
+~
+9 0 0 0 0 129 0 0 0
+1 0 0 0
+2 45 65.00
+#112
+studded leather belt~
+a studded leather belt~
+A studded leather belt lies here.~
+~
+9 0 0 0 0 2049 0 0 0
+1 0 0 0
+2 15 65.00
+#113
+studded leather boots~
+a pair of studded leather boots~
+A pair of studded leather boots lies here.~
+~
+9 0 0 0 0 65 0 0 0
+1 0 0 0
+1 15 65.00
+#114
+studded leather mask~
+a studded leather mask~
+A studded leather mask lies here.~
+~
+9 0 0 0 0 131073 0 0 0
+1 0 0 0
+1 15 65.00
+#115
+studded leather sleeves~
+a pair of studded leather sleeves~
+A pair of studded leather sleeves lies here.~
+~
+9 0 0 0 0 257 0 0 0
+2 0 0 0
+3 30 65.00
+#116
+studded leather cap~
+a studded leather cap~
+A studded leather cap lies here.~
+~
+9 0 0 0 0 17 0 0 0
+3 0 0 0
+3 30 65.00
+#117
+studded leather skirt~
+a studded leather skirt~
+A studded leather skirt lies here.~
+~
+9 0 0 0 0 65537 0 0 0
+3 0 0 0
+6 30 65.00
+#118
+studded leather leggings~
+a pair of studded leather leggings~
+A pair of studded leather leggings lies here.~
+~
+9 0 0 0 0 33 0 0 0
+4 0 0 0
+8 45 65.00
+#119
+studded leather vest~
+a studded leather vest~
+A studded leather vest lies here.~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0
+10 45 65.00
+#120
+studded leather buckler~
+a studded leather buckler~
+A studded leather buckler lies here.~
+~
+9 0 0 0 0 513 0 0 0
+2 0 0 0
+3 15 65.00
+#121
+chain mail gloves~
+a pair of chain mail gloves~
+A pair of chain mail gloves lies here.~
+~
+9 0 0 0 0 129 0 0 0
+1 0 0 0
+6 75 60.00
+#122
+chain mail belt~
+a chain mail belt~
+A chain mail belt lies here.~
+~
+9 0 0 0 0 2049 0 0 0
+1 0 0 0
+6 25 60.00
+#123
+chain mail boots~
+a pair of chain mail boots~
+A pair of chain mail boots lies here.~
+~
+9 0 0 0 0 65 0 0 0
+1 0 0 0
+3 25 60.00
+#124
+chain mail mask~
+a chain mail mask~
+A chain mail mask lies here.~
+~
+9 0 0 0 0 131073 0 0 0
+1 0 0 0
+3 25 60.00
+#125
+chain mail sleeves~
+a pair of chain mail sleeves~
+A pair of chain mail sleeves lies here.~
+~
+9 0 0 0 0 257 0 0 0
+3 0 0 0
+9 50 60.00
+#126
+chain mail cap~
+a chain mail cap~
+A chain mail cap lies here.~
+~
+9 0 0 0 0 17 0 0 0
+4 0 0 0
+9 50 60.00
+#127
+chain mail skirt~
+a chain mail skirt~
+A chain mail skirt lies here.~
+~
+9 0 0 0 0 65537 0 0 0
+4 0 0 0
+18 50 60.00
+#128
+chain mail leggings~
+a pair of chain mail leggings~
+A pair of chain mail leggings lies here.~
+~
+9 0 0 0 0 33 0 0 0
+5 0 0 0
+24 75 60.00
+#129
+chain mail vest~
+a chain mail vest~
+A chain mail vest lies here.~
+~
+9 0 0 0 0 9 0 0 0
+7 0 0 0
+30 75 60.00
+#131
+scale mail gloves~
+a pair of scale mail gloves~
+A pair of scale mail gloves lies here.~
+~
+9 0 0 0 0 129 0 0 0
+2 0 0 0
+7 120 60.00
+#132
+scale mail belt~
+a scale mail belt~
+A scale mail belt lies here.~
+~
+9 0 0 0 0 2049 0 0 0
+2 0 0 0
+7 40 60.00
+#133
+scale mail boots~
+a pair of scale mail boots~
+A pair of scale mail boots lies here.~
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0
+4 40 60.00
+#134
+scale mail mask~
+a scale mail mask~
+A scale mail mask lies here.~
+~
+9 0 0 0 0 131073 0 0 0
+2 0 0 0
+4 40 60.00
+#135
+scale mail sleeves~
+a pair of scale mail sleeves~
+A pair of scale mail sleeves lies here.~
+~
+9 0 0 0 0 257 0 0 0
+3 0 0 0
+11 80 60.00
+#136
+scale mail helm~
+a scale mail helm~
+A scale mail helm lies here.~
+~
+9 0 0 0 0 17 0 0 0
+5 0 0 0
+11 80 60.00
+#137
+scale mail skirt~
+a scale mail skirt~
+A scale mail skirt lies here.~
+~
+9 0 0 0 0 65537 0 0 0
+5 0 0 0
+21 80 60.00
+#138
+scale mail leggings~
+a pair of scale mail leggings~
+A pair of scale mail leggings lies here.~
+~
+9 0 0 0 0 33 0 0 0
+7 0 0 0
+28 120 60.00
+#139
+scale mail vest~
+a scale mail vest~
+A scale mail vest lies here.~
+~
+9 0 0 0 0 9 0 0 0
+8 0 0 0
+35 120 60.00
+#141
+bronze gauntlets~
+a pair of bronze gauntlets~
+A pair of bronze gauntlets lies here.~
+~
+9 0 0 0 0 129 0 0 0
+2 0 0 0
+8 180 50.00
+#142
+bronze belt~
+a bronze belt~
+A bronze belt lies here.~
+~
+9 0 0 0 0 2049 0 0 0
+2 0 0 0
+8 60 50.00
+#143
+bronze boots~
+a pair of bronze boots~
+A pair of bronze boots lies here.~
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0
+4 60 100.00
+#144
+bronze mask~
+a bronze mask~
+A bronze mask lies here.~
+~
+9 0 0 0 0 131073 0 0 0
+2 0 0 0
+4 60 50.00
+#145
+bronze sleeves~
+a pair of bronze sleeves~
+A pair of bronze sleeves lies here.~
+~
+9 0 0 0 0 257 0 0 0
+4 0 0 0
+12 120 100.00
+#146
+bronze helm~
+a bronze helm~
+A bronze helm lies here.~
+~
+9 0 0 0 0 17 0 0 0
+6 0 0 0
+12 120 100.00
+#147
+bronze skirt~
+a bronze skirt~
+A bronze skirt lies here.~
+~
+9 0 0 0 0 65537 0 0 0
+6 0 0 0
+24 120 50.00
+#148
+bronze leggings~
+a pair of bronze leggings~
+A pair of bronze leggings lies here.~
+~
+9 0 0 0 0 33 0 0 0
+8 0 0 0
+32 180 100.00
+#149
+bronze breast plate~
+a bronze breast plate~
+A bronze breast plate lies here.~
+~
+9 0 0 0 0 9 0 0 0
+10 0 0 0
+40 180 50.00
+#150
+bronze buckler~
+a bronze buckler~
+A bronze buckler lies here.~
+~
+9 0 0 0 0 513 0 0 0
+4 0 0 0
+12 60 50.00
+#151
+mithril chain gloves~
+a pair of mithril chain gloves~
+A pair of mithril chain gloves lies here.~
+~
+9 0 0 0 0 129 0 0 0
+2 0 0 0
+2 900 10.00
+A
+17 -5
+#152
+mithril chain belt~
+a mithril chain belt~
+A mithril chain belt lies here.~
+~
+9 0 0 0 0 2049 0 0 0
+2 0 0 0
+2 300 10.00
+A
+17 -5
+#153
+mithril chain boots~
+a pair of mithril chain boots~
+A pair of mithril chain boots lies here.~
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0
+1 300 10.00
+A
+17 -5
+#154
+mithril chain mask~
+a mithril chain mask~
+A mithril chain mask lies here.~
+~
+9 0 0 0 0 131073 0 0 0
+2 0 0 0
+1 300 30.00
+A
+17 -5
+#155
+mithril chain sleeves~
+a pair of mithril chain sleeves~
+A pair of mithril chain sleeves lies here.~
+~
+9 0 0 0 0 257 0 0 0
+5 0 0 0
+3 600 30.00
+A
+17 -5
+#156
+mithril chain cap~
+a mithril chain cap~
+A mithril chain cap lies here.~
+~
+9 0 0 0 0 17 0 0 0
+7 0 0 0
+3 600 30.00
+A
+17 -5
+#157
+mithril chain skirt~
+a mithril chain skirt~
+A mithril chain skirt lies here.~
+~
+9 0 0 0 0 65537 0 0 0
+7 0 0 0
+6 300 30.00
+A
+17 -5
+#158
+mithril chain leggings~
+a pair of mithril chain leggings~
+A pair of mithril chain leggings lies here.~
+~
+9 0 0 0 0 33 0 0 0
+9 0 0 0
+8 900 30.00
+A
+17 -5
+#159
+mithril chain vest~
+a mithril chain vest~
+A mithril chain vest lies here.~
+~
+9 0 0 0 0 9 0 0 0
+12 0 0 0
+10 900 30.00
+A
+17 -5
+#161
+iron gauntlets~
+a pair of iron gauntlets~
+A pair of iron gauntlets lies here.~
+~
+9 0 0 0 0 129 0 0 0
+3 0 0 0
+12 210 40.00
+#162
+iron belt~
+an iron belt~
+An iron belt lies here.~
+~
+9 0 0 0 0 2049 0 0 0
+3 0 0 0
+12 70 40.00
+#163
+iron boots~
+a pair of iron boots~
+A pair of iron boots lies here.~
+~
+9 0 0 0 0 65 0 0 0
+3 0 0 0
+6 70 40.00
+#164
+iron mask~
+an iron mask~
+An iron mask lies here.~
+~
+9 0 0 0 0 131073 0 0 0
+3 0 0 0
+6 70 40.00
+#165
+iron sleeves~
+a pair of iron sleeves~
+A pair of iron sleeves lies here.~
+~
+9 0 0 0 0 257 0 0 0
+3 0 0 0
+18 140 40.00
+#166
+iron helm~
+an iron helm~
+An iron helm lies here.~
+~
+9 0 0 0 0 17 0 0 0
+8 0 0 0
+18 140 40.00
+#167
+iron skirt~
+an iron skirt~
+An iron skirt lies here.~
+~
+9 0 0 0 0 65537 0 0 0
+8 0 0 0
+36 140 40.00
+#168
+iron leggings~
+a pair of iron leggings~
+A pair of iron leggings lies here.~
+~
+9 0 0 0 0 33 0 0 0
+11 0 0 0
+48 210 40.00
+#169
+iron breast plate~
+an iron breast plate~
+An iron breast plate lies here.~
+~
+9 0 0 0 0 9 0 0 0
+13 0 0 0
+60 210 40.00
+#170
+iron buckler~
+an iron buckler~
+An iron buckler lies here.~
+~
+9 0 0 0 0 513 0 0 0
+5 0 0 0
+18 70 40.00
+#171
+steel gauntlets~
+a pair of steel gauntlets~
+A pair of steel gauntlets lies here.~
+~
+9 0 0 0 0 129 0 0 0
+3 0 0 0
+8 480 20.00
+#172
+steel belt~
+a steel belt~
+A steel belt lies here.~
+~
+9 0 0 0 0 2049 0 0 0
+3 0 0 0
+8 160 20.00
+#173
+steel boots~
+a pair of steel boots~
+A pair of steel boots lies here.~
+~
+9 0 0 0 0 65 0 0 0
+3 0 0 0
+4 160 20.00
+#174
+steel mask~
+a steel mask~
+A steel mask lies here.~
+~
+9 0 0 0 0 131073 0 0 0
+3 0 0 0
+4 160 20.00
+#175
+steel sleeves~
+a pair of steel sleeves~
+A pair of steel sleeves lies here.~
+~
+9 0 0 0 0 257 0 0 0
+5 0 0 0
+12 320 20.00
+#176
+steel helm~
+a steel helm~
+A steel helm lies here.~
+~
+9 0 0 0 0 17 0 0 0
+8 0 0 0
+12 320 20.00
+#177
+steel skirt~
+a steel skirt~
+A steel skirt lies here.~
+~
+9 0 0 0 0 65537 0 0 0
+8 0 0 0
+24 320 20.00
+#178
+steel leggings~
+a pair of steel leggings~
+A pair of steel leggings lies here.~
+~
+9 0 0 0 0 33 0 0 0
+11 0 0 0
+32 480 20.00
+#179
+steel breast plate~
+a steel breast plate~
+A steel breast plate lies here.~
+~
+9 0 0 0 0 9 0 0 0
+13 0 0 0
+40 480 20.00
+#180
+steel buckler~
+a steel buckler~
+A steel buckler lies here.~
+~
+9 0 0 0 0 513 0 0 0
+5 0 0 0
+12 160 20.00
+#181
+mithril gauntlets~
+a pair of mithril gauntlets~
+A pair of mithril gauntlets lies here.~
+~
+9 0 0 0 0 129 0 0 0
+1 0 0 0
+2 30 25.00
+#182
+mithril belt~
+a mithril belt~
+A mithril belt lies here.~
+~
+9 0 0 0 0 2049 0 0 0
+1 0 0 0
+2 10 25.00
+#183
+mithril boots~
+a pair of mithril boots~
+A pair of mithril boots lies here.~
+~
+9 0 0 0 0 65 0 0 0
+1 0 0 0
+1 10 25.00
+#184
+mithril mask~
+a mithril mask~
+A mithril mask lies here.~
+~
+9 0 0 0 0 131073 0 0 0
+1 0 0 0
+1 10 25.00
+#185
+mithril sleeves~
+a pair of mithril sleeves~
+A pair of mithril sleeves lies here.~
+~
+9 0 0 0 0 257 0 0 0
+1 0 0 0
+3 20 25.00
+#186
+mithril helm~
+a mithril helm~
+A mithril helm lies here.~
+~
+9 0 0 0 0 17 0 0 0
+2 0 0 0
+3 20 25.00
+#187
+mithril skirt~
+a mithril skirt~
+A mithril skirt lies here.~
+~
+9 0 0 0 0 65537 0 0 0
+2 0 0 0
+6 20 25.00
+#188
+mithril leggings~
+a pair of mithril leggings~
+A pair of mithril leggings lies here.~
+~
+9 0 0 0 0 33 0 0 0
+3 0 0 0
+8 30 25.00
+#189
+mithril breast plate~
+a mithril breast plate~
+A mithril breast plate lies here.~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0
+10 30 25.00
+#190
+mithril buckler~
+a mithril buckler~
+A mithril buckler lies here.~
+~
+9 0 0 0 0 513 0 0 0
+1 0 0 0
+3 10 25.00
+#191
+puzzle piece quest~
+a puzzle piece~
+An awkward-looking puzzle piece lies here.~
+~
+13 65612 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#192
+holy sceptre alaozar~
+a holy sceptre of Alaozar~
+A beautiful sceptre of intricate design rests here.~
+~
+8 65613 0 0 0 16385 0 0 0
+0 0 0 0
+10 0 100.00
+$~

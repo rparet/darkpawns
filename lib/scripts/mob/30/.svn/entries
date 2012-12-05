@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1523"
+   name=""
+   committed-date="2008-06-20T20:24:47.938361Z"
+   url="file:///var/svn/trunk/2.2/lib/scripts/mob/30"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+</wc-entries>

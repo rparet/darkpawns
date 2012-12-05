@@ -1,0 +1,370 @@
+#19400
+sword fire smouldering~
+a smouldering sword~
+A sword lies here on the ground smoldering with flames.~
+~
+5 140800065 0 0 0 8193 0 0 0
+0 7 3 3
+9 7500 40.00
+A
+19 -1
+#19401
+fire opal~
+a small fire opal~
+A small red gem lies here glittering brilliantly.~
+~
+1 1089 0 0 0 16385 0 0 0
+0 0 -1 0
+1 3510 25.00
+A
+19 2
+A
+18 1
+#19402
+rose fire flower~
+a fire rose~
+A lovely blaze red rose lies here.~
+~
+8 256 0 0 0 16385 0 0 0
+0 0 0 0
+1 500 90.00
+A
+6 1
+#19403
+armor smouldering breast breastplate~
+a smouldering breastplate~
+A breastplate lies smouldering on the ground.~
+~
+9 140791873 0 0 0 9 0 0 0
+15 0 0 0
+25 9000 35.00
+A
+5 -3
+A
+1 2
+A
+13 -20
+A
+14 -10
+A
+19 1
+#19404
+robes~
+some dark robes~
+A pile of dark cloth has been left here.~
+~
+9 72925184 0 0 0 1025 0 0 0
+12 0 0 0
+3 4000 35.00
+A
+12 10
+A
+27 10
+A
+18 -5
+A
+9 10
+#19405
+spear crimson~
+a crimson spear~
+A long blood coloured spear is stuck into the ground here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 5 11
+12 50 80.00
+#19406
+pack backpack ~
+a well used backpack~
+Someone left thier backpack on the ground here.~
+~
+15 64 0 0 0 1025 0 0 0
+50 1 -1 0
+5 1 1
+#19407
+pool~
+a pool of water~
+A small pool of water is here in the center of the court yard.~
+~
+23 0 0 0 0 1 0 0 0
+10000 10000 15 0
+10000 1 1
+#19408
+cudgel~
+a cudgel~
+A well-used cudgel lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 4 5
+25 60 100.00
+#19409
+bodhidharma staff~
+a Bodhidharma staff~
+A well crafted fighting staff lies here.~
+~
+5 80789504 0 0 0 8193 0 0 0
+0 5 5 7
+15 3300 50.00
+A
+6 -2
+A
+3 -1
+A
+4 -1
+A
+18 -5
+A
+2 -1
+#19410
+dagger smouldering ~
+a smouldering dagger~
+A long dagger lies here smouldering.~
+~
+5 78688321 0 0 0 8193 0 0 0
+0 3 6 11
+3 4500 40.00
+A
+5 -2
+A
+19 8
+A
+26 -8
+A
+14 -20
+#19411
+nunchucks chucks~
+a set of nunchucks~
+A set of nunchucks has been left here.~
+~
+5 2117888 0 0 0 8193 0 0 0
+0 2 7 7
+2 3000 35.00
+A
+19 2
+A
+2 1
+A
+18 2
+#19412
+potion blue~
+a blue potion~
+A small potion bottle of swirling blue liquid lies here.~
+~
+10 64 0 0 0 1 0 0 0
+20 36 0 0
+3 5000 5000
+#19413
+weighted chain~
+a weighted chain~
+A long chain with weights at both ends lies here in a pile.~
+~
+5 144977920 0 0 0 10241 0 0 0
+0 6 2 10
+4 1500 30.00
+A
+17 -4
+A
+19 3
+A
+18 -2
+#19418
+fire camp campfire~
+a small campfire~
+A small campfire burns here.~
+~
+12 1 0 0 0 1 0 0 0
+0 0 0 0
+100000 1 100.00
+E
+fire campfire~
+A small campfire burns brightly, illuminating the entire cave with a warm
+glow. The logs in the fire itself do not seem to be burning what so ever.
+~
+#19419
+plum blossom broad sword broadsword~
+a plum-blossom broadsword~
+An amazing sword made of plum-tinted metal lays on the floor.~
+~
+5 0 0 0 0 8193 0 0 0
+0 8 4 3
+25 10000 25.00
+#19420
+boots goat skin goatskin~
+a pair of goatskin boots~
+A pair of warm goatskin boots lie here.~
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0
+2 0 100.00
+#19421
+black tiger hammer~
+a black tiger hammer~
+A lightweight black hammer lies here.~
+~
+5 217321472 0 0 0 8193 0 0 0
+0 3 5 5
+15 3050 3050
+#19422
+fan iron~
+an iron fan~
+A heavy iron fan, for use in martial arts.~
+~
+9 0 0 0 0 16385 0 0 0
+14 0 0 0
+100 500 10.00
+#19423
+tiger hooks~
+some tiger hooks~
+A set of vicious-looking tiger hooks hang here.~
+~
+11 213168128 0 0 0 129 0 0 0
+0 0 0 0
+9 500 30.00
+A
+27 -4
+A
+18 4
+#19424
+necklace~
+a necklace with little silver bells~
+A small necklace with little silver bells lies here.~
+~
+8 0 0 0 0 5 0 0 0
+0 0 0 0
+1 40 100.00
+#19425
+ring silver~
+a plain silver ring~
+A small silver ring lies here.~
+~
+8 0 0 0 0 3 0 0 0
+0 0 0 0
+1 20 99.00
+#19426
+arrow smouldering~
+a long, smouldering arrow~
+A long arrows lies smouldering on the ground.~
+~
+7 0 0 0 0 1 0 0 0
+0 10 2 0
+1 1500 35.00
+#19427
+bow smouldering~
+a smouldering bow~
+A long bow lies smouldering on the ground here.~
+~
+6 0 0 0 0 8193 0 0 0
+0 2 5 0
+4 5500 30.00
+A
+18 3
+A
+5 -1
+A
+26 -3
+#19428
+dart black~
+a small black dart~
+A small black dart lies in the dust here.~
+~
+7 0 0 0 0 16385 0 0 0
+0 1 4 0
+1 5 5
+#19429
+three sectioned staff~
+a three sectioned staff~
+A long staff in three sections lies here.~
+~
+5 64 0 0 0 8193 0 0 0
+0 5 2 7
+30 300 35.00
+#19430
+column flame~
+a column of flame~
+A tall column of flame streches from floor to ceiling here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+3000 0 100.00
+#19431
+crimson robe~
+a crimson robe~
+A blood-coloured robe lies in a heap here.~
+~
+11 0 0 0 0 1025 0 0 0
+0 0 0 0
+12 120 100.00
+#19432
+simple brown robe~
+a simple brown robe~
+A brown monks robe lies crumpled in a heap.~
+~
+11 0 0 0 0 1025 0 0 0
+0 0 0 0
+8 30 50.00
+#19433
+black ninja suit~
+a black ninja suit~
+A cheesy black ninja suit lies here.~
+~
+11 217378816 0 0 0 1025 0 0 0
+0 0 0 0
+5 500 30.00
+A
+28 4
+A
+14 -2
+#19435
+black padded armor ninja~
+black padded armor~
+Some lightweight black armor is here.~
+~
+9 217379520 0 0 0 9 0 0 0
+20 0 0 0
+10 10000 30.00
+A
+17 -2
+A
+24 -2
+#19436
+wicked kama scythe~
+a wicked-looking kama~
+A wicked-looking hand scythe lies here, covered in blood.~
+~
+5 213152320 0 0 0 8193 0 0 0
+0 4 7 3
+6 3500 10.00
+A
+14 -5
+A
+19 1
+#19497
+ring jade~
+a small jade ring~
+A small green ring lies here. ~
+~
+11 0 0 0 0 3 0 0 0
+0 0 0 0
+1 500 600
+#19498
+shoes black tabi~
+some black tabi shoes~
+A pair of black shoes lies here.~
+~
+9 0 0 0 0 65 0 0 0
+1 0 0 0
+1 0 40.00
+#19499
+black hakma pants~
+some black hakma pants~
+A pile of black cloth lies here.~
+~
+9 217378816 0 0 0 33 0 0 0
+4 0 0 0
+5 1100 40.00
+A
+1 -2
+A
+2 2
+A
+18 1
+$~

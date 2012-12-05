@@ -1,0 +1,2058 @@
+#1300
+The Immortal Map Room of the Elemental Temple~
+   The temple will be broken up into 6 components - the initial entry which
+is now underwater, a plane for each element and a temple for the fifth element.
+Players will only be able to progress to an elemental plane if they possess
+the previous plane items. For example, if the player has obtained the item
+from the earthen plane, they'll be taken to the aerial plane and so on. Here's
+a brief map.
+~
+13 524892 0 0 0 0
+E
+map~
+     0                0--0--0            0--0--0--0--0
+     |                |  |  |            |  |  |  |  |
+     0                0--0--0            0--0--0--0--0
+     |                |  |  |            |  |  |  |  |
+     0                0--0--0            0--0--0--0--0
+     |                                   |  |  |  |  |
+     0                   0               0--0--0--0--0
+     |                   |               |  |  |  |  |
+  0--0--0                0               0--0--0--0--0
+  |  |
+  0--0           Elemental Planes     Fifth Element Temple
+     |
+     0--0
+     |
+     0
+     |
+     0
+
+Initial Entry
+~
+S
+#1301
+Beneath the Surface~
+   Light filters down through the ocean surface above and is quickly swallowed
+by the depths below. Small groups of fish swim by, obviously cautious of your
+intrusion in their domain. Every direction looks fairly similar so you may
+either swim upwards to the surface and descend into the darkness below.
+~
+13 104 0 0 0 8
+D4
+~
+~
+0 0 1396
+D5
+With no light source down there, you can't see through the darkness.
+~
+~
+0 0 1302
+S
+#1302
+Deep Beneath the Surface~
+   Darkness surrounds you like a blanket and you strain your eyes in an attempt
+to see anything at all that would help you regain your orientation. You can
+just sense a difference in temperature and determine which way is up and
+which way is down. You're not quite sure, but a hidden presence speaks to you
+from the depths - then again, it could just be your imagination running wild.
+~
+13 105 0 0 0 8
+D4
+~
+~
+0 0 1301
+D5
+With no light source down there, you can't see through the darkness.
+~
+~
+0 0 1303
+S
+#1303
+The Depths of the Ocean~
+   The only way you know you're skimming the ocean floor is by feeling the
+sand slip between your fingers as you try to keep yourself down here. Your
+ears pop under the increased pressure at this depth and how long you stay
+down here is up to you, especially with the immense cold. For a brief instant,
+you could have sworn you saw a flicker of light to the south.
+~
+13 105 0 0 0 8
+D2
+It's too dark down here to see more than 3 feet in front of you.
+~
+~
+0 0 1304
+D4
+There's not enough light up there to see through the darkness.
+~
+~
+0 0 1302
+S
+#1304
+The Depths of the Ocean~
+   It is surprising that even in the darkness of the ocean depths, the fish
+find a way to adapt and survive. A few of them have developed a phospherescent
+skin that radiates a small amount of light - not enough to see great distances
+but certainly enough to know you've arrived at the mouth of an underwater
+tunnel that leads to the north and south.
+~
+13 105 0 0 0 8
+D0
+It's too dark down here to see more than 3 feet in front of you.
+~
+~
+0 0 1303
+D2
+It's too dark down here to see more than 3 feet in front of you.
+~
+~
+0 0 1305
+S
+#1305
+The Depths of the Ocean~
+   You make your way along the underwater tunnel that runs to the north and
+south by feeling your way along the rocky walls. More than once, you stumble
+and slip on the sandy ocean floor but fortunately do not hurt yourself.
+~
+13 105 0 0 0 8
+D0
+It's too dark down here to see more than 3 feet in front of you.
+~
+~
+0 0 1304
+D2
+It's too dark down here to see more than 3 feet in front of you.
+~
+~
+0 0 1306
+S
+#1306
+The Depths of the Ocean~
+   You stand at the mouth of an underwater tunnel that continues to the north.
+The darkness of the ocean kept at bay by a magical light to the south in what
+looks like a courtyard. The water temperature is also noticeably warmer in
+that direction, perhaps another benefit of whatever magic inhabits this place.
+~
+13 108 0 0 0 8
+D0
+It's too dark down here to see more than 3 feet in front of you.
+~
+~
+0 0 1305
+D2
+~
+~
+0 0 1308
+S
+#1307
+An Underwater Courtyard~
+   The courtyard floor is slightly uneven and your travel to the west or
+north is blocked by a large rock wall. Looking upwards, you can see the
+remains of a tree, somehow preserved against the ravages of the salt water
+and cold temperatures.
+~
+13 104 0 0 0 8
+D1
+~
+~
+0 0 1308
+D2
+~
+~
+0 0 1310
+S
+#1308
+An Underwater Courtyard~
+   You find it unlikely that someone would have created this place underwater
+so perhaps at some time it was on the surface. Your thoughts are supported by
+a number of crumbled and fallen columns which block several areas of the
+courtyard. There is something around this place, magical in nature, but you
+can't quite put your finger on it.
+   To the north, a rocky tunnel leads back into the depths of the ocean while
+the courtyard continues to the south, west and east of here.
+~
+13 104 0 0 0 8
+D0
+~
+~
+0 0 1306
+D1
+~
+~
+0 0 1309
+D2
+~
+~
+0 0 1311
+D3
+~
+~
+0 0 1307
+S
+#1309
+An Underwater Courtyard~
+   You reach the edge of the courtyard and can progress no further, a rock
+wall preventing travel to the north and east while a collapsed column to the
+south stops you from moving in that direction. You consider swimming over the
+top of it but there is a strange magic at work here that seems to keep you
+firmly planted on the ground.
+~
+13 104 0 0 0 8
+D3
+~
+~
+0 0 1308
+S
+#1310
+An Underwater Courtyard~
+   Rubble is strewn all over the ground, covered lightly in sand. A large,
+cracked column has fallen and blocks your path to the south but the courtyard
+lies open to the north and east.
+~
+13 104 0 0 0 8
+D0
+~
+~
+0 0 1307
+D1
+~
+~
+0 0 1311
+S
+#1311
+An Underwater Courtyard~
+   At one time, this courtyard would have looked quite grand with the ocean
+as its backdrop and sunlight streaming through the surrounding columns. Now,
+it is just a shadow of its former glory. The columns have collapsed, the
+sunlight blocked by a few hundred feet of water and all you can see around
+the edge of the courtyard is a rocky wall. You can swim to the north, west
+or south.
+~
+13 104 0 0 0 8
+D0
+~
+~
+0 0 1308
+D2
+~
+~
+0 0 1312
+D3
+~
+~
+0 0 1310
+S
+#1312
+An Underwater Courtyard~
+   To the south, several steps lead up to what remains of a gate while the
+underwater courtyard lies to the north and east. Climbing a few of the steps,
+you look back upon the courtyard and marvel at what it must have been like in
+the past. The are four short pillars nearby but there is nothing to provide
+clues as to what they are for.
+~
+13 104 0 0 0 8
+D0
+~
+~
+0 0 1311
+D1
+~
+~
+0 0 1313
+D2
+~
+gate~
+1 0 1314
+E
+pillars~
+They are all exactly the same, arranged to stand at the corner of a small,
+elevated area of the courtyard.
+~
+S
+#1313
+An Underwater Courtyard~
+   You have to swim through some rubble to get here and perhaps it was not
+worth the effort. You are surrounded by rock and stone and have no alternative
+but to return back to the west.
+~
+13 104 0 0 0 8
+D3
+~
+~
+0 0 1312
+S
+#1314
+An Underwater Courtyard~
+   Stairs lead upwards to the south towards an elevated platform of some kind.
+There are flashes of light but it's not quite clear from here - to the north,
+the underwater courtyard opens up before you and offers the only visible
+exit from this place, whatever it is.
+~
+13 104 0 0 0 8
+D0
+~
+gate~
+1 0 1312
+D2
+You're not sure what it is. Why don't you go up there and take a look?
+~
+~
+0 0 1315
+S
+#1315
+A Glowing Column~
+   You're not exactly sure what you're standing in, but it's impressive to say
+the least. It's a perfectly shaped column standing approximately 10 feet high
+and hollow in the center. Spirals of flame encircle the column although you
+can feel no heat; the ocean waters stir about you, churned by a mystical
+force; several small orbs of stone cover the ground and bubbles of air
+mysteriously rise from beneath them.
+~
+13 108 0 0 0 0
+D0
+~
+~
+0 0 1314
+S
+#1316
+A Rocky Plateau~
+   The plateau appears to be perfectly square and has rocky pillars placed
+at regular intervals around its border. Any attempt to walk past the pillars
+is met with some kind of resistance, possibly the sphere that surrounds this
+place.
+~
+13 168 0 0 0 0
+D1
+~
+~
+0 0 1317
+D2
+~
+~
+0 0 1319
+S
+#1317
+A Rocky Plateau~
+   You walk along the nortern edge of the plateau and gaze around. Beyond the
+sphere there is only darkness, although you can see three other spheres of
+similar size in the distance surrounding a larger sphere. From here, you
+cannot determine what's in them.
+~
+13 168 0 0 0 0
+D1
+~
+~
+0 0 1318
+D2
+~
+~
+0 0 1320
+D3
+~
+~
+0 0 1316
+S
+#1318
+A Rocky Plateau~
+   You carefully approach the corner of the rocky plateau and look over the
+side...you can see absolutely nothing! It's not that its too dark down there,
+just that there is nothing to see. Whatever, or wherever this place is, there
+doesn't appear to be any obvious way off it.
+~
+13 168 0 0 0 0
+D2
+~
+~
+0 0 1321
+D3
+~
+~
+0 0 1317
+S
+#1319
+A Rocky Plateau~
+   It may only be a visual illusion, but the plateau looks almost generated
+rather than formed. Someone or something has gone to great efforts to construct
+this place with an almost eerie precision. Every little bump in the ground
+appears in another area, as if the plateau had been created using several
+replicated blocks. The only difference is the rocky outcrop to the east.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1316
+D1
+~
+~
+0 0 1320
+D2
+~
+~
+0 0 1322
+S
+#1320
+A Rocky Plateau~
+   You stand atop a slightly elevated rocky outcrop overlooking a square
+plateau below. There are a number of pillars placed around its border and
+a central column within which you are standing. Some kind of sphere surrounds
+the plateau and isolates it from whatever lies beyond.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1317
+D1
+~
+~
+0 0 1321
+D2
+~
+~
+0 0 1323
+D3
+~
+~
+0 0 1319
+D4
+The column disappears into nothingness - you'll need to travel up there to see.
+~
+~
+0 0 1325
+E
+column~
+It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of rock
+and earth.
+~
+S
+#1321
+A Rocky Plateau~
+   You skirt the edge of a rocky platform which sits just above you to the
+west, the plateau extending to the north and south. Any attempt to move past
+the pillars surrounding the plateau is met with resistance, most likely from
+the sphere.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1318
+D2
+~
+~
+0 0 1324
+D3
+~
+~
+0 0 1320
+S
+#1322
+A Rocky Plateau~
+   There's something moving just beyond the edge of the sphere but you can't
+determine what it is from here. You can even see what appears to be a soft
+glow far beyond the sphere to the south but that could just be your
+imagination. The plateau extends to the north and east from here.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1319
+D1
+~
+~
+0 0 1323
+S
+#1323
+A Rocky Plateau~
+   You clamber up one of the waist-high pillars in an attempt to get a better
+view of your surrounds but it doesn't help too much. The plateau looks
+remarkably similar whichever way you cast your eye and the sphere surrounding
+it either blocks out light or there is none beyond it to see.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1320
+D1
+~
+~
+0 0 1324
+D3
+~
+~
+0 0 1322
+S
+#1324
+A Rocky Plateau~
+   You accidently kick a small stone on the ground and it careers off the
+edge of the plateau before striking the sphere. A ripple forms and expands
+all over the surface of the sphere, like throwing a pebble in a lake. It's
+an interesting sight and leaves you wondering what, or where, this place
+really is.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1321
+D3
+~
+~
+0 0 1323
+S
+#1325
+The Earthly Plane~
+   You stand on a single platform of rock in a place far beyond any you have
+travelled before. There is no sky, nor is there any ground...all around you
+is darkness. There are several similar rocky platforms but they all lie
+beyond your reach. In the center of the platform is a strange column that
+rotates slowly.
+~
+13 12 0 0 0 0
+D2
+The edge of the platform lies in that direction.
+~
+~
+0 0 1326
+D5
+~
+~
+0 0 1320
+E
+column~
+It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of rock
+and earth.
+~
+S
+#1326
+The Earthly Plane~
+   You step towards the edge of platform and you feel a tingling sensation
+all over your body. There is a brilliant flash and when you open your eyes,
+you find yourself...
+~
+13 28 0 0 0 0
+D0
+~
+~
+0 0 1325
+S
+#1327
+High Among the Clouds~
+   Wispy cloud swirls around your ankles, disturbed by your passage. Beyond
+the sphere, you see three similar spheres of the same size surrounding a
+larger sphere. You cannot be sure what lies within the other spheres or their
+intent.
+~
+13 168 0 0 0 0
+D1
+~
+~
+0 0 1328
+D2
+~
+~
+0 0 1330
+S
+#1328
+High Among the Clouds~
+   You carefully approach the edge of the cloud and look out upon your
+surroundings. Surprisingly, there is no sky and there doesn't appear to be
+any ground! Only darkness surrounds the sphere which leaves you wondering
+exactly where you are...
+~
+13 168 0 0 0 0
+D1
+~
+~
+0 0 1329
+D2
+~
+~
+0 0 1331
+D3
+~
+~
+0 0 1327
+S
+#1329
+High Among the Clouds~
+   Every once in a while, you get the sensation that you are moving. Without
+a place of reference, that may well be true but the sensation quickly passes
+and you are once again left with your thoughts. You may continue around the
+cloud to the west or south.
+~
+13 168 0 0 0 0
+D2
+~
+~
+0 0 1332
+D3
+~
+~
+0 0 1328
+S
+#1330
+High Among the Clouds~
+   You walk towards the edge of the cloud and reach out, inspecting the sphere
+that surrounds this cloud. It is soft to the touch and moves freely with your
+touch, yet its purpose is still unknown. It ripples softly as you remove your
+hand and you watch in awe as the ripples spread across the spheres' surface.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1327
+D1
+~
+~
+0 0 1331
+D2
+~
+~
+0 0 1333
+S
+#1331
+High Among the Clouds~
+   You stand atop what can only be described as a cloud! For a moment, you
+panic at the thought of falling but the ground beneath your feet feels solid
+and you take a few tentative steps just to be sure. Wherever this place is,
+it has a roughly square shape and appears to be surrounded by some kind of
+sphere. Situated right in the middle of the cloud is a large column within
+which you are standing.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1328
+D1
+~
+~
+0 0 1332
+D2
+~
+~
+0 0 1334
+D3
+~
+~
+0 0 1330
+D4
+The column disappears into nothingness - you'll need to travel up there to see.
+~
+~
+0 0 1336
+E
+column~
+It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of what
+appears to be mist.
+~
+S
+#1332
+High Among the Clouds~
+   You gaze around at the sights before you, but unfortunately there's not a
+lot to see. The cloud is rather featureless and any attemp to pass beyond
+the sphere is met with some form of resistance. A large column rises from
+the middle of the cloud to the west.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1329
+D2
+~
+~
+0 0 1335
+D3
+~
+~
+0 0 1331
+S
+#1333
+High Among the Clouds~
+   The ground rolls beneath you, leaving you slightly unsteady on your feet.
+The cloud is relatively featureless compared to some of the other areas you
+may have adventured in the past...the only distinguishing feature is the large
+column of mist that rises from the center of the cloud.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1330
+D1
+~
+~
+0 0 1334
+S
+#1334
+High Among the Clouds~
+   From the base of the cloud, four small pillars rise up as if pushed from
+below. The pillars themselves are nothing more than mist, but they retain
+a somewhat solid form. Above each, a small sphere materialises and glows
+softly with a rhythmic pulse.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1331
+D1
+~
+~
+0 0 1335
+D3
+~
+~
+0 0 1333
+E
+sphere~
+Each sphere is a different color...red, white, blue and brown.
+~
+S
+#1335
+High Among the Clouds~
+   There is a definate presence nearby and you imagine that something or
+someone is looking down upon you. A light breeze sends a shiver down your
+spine and you try hard not to let your imagination loose. Perhaps it's better
+if you just continued on.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1332
+D3
+~
+~
+0 0 1334
+S
+#1336
+The Aerial Plane~
+   You find yourself standing on what appears to be a cloud, yet there is no
+sky, nor is there any ground. Darkness surrounds you but you can see several
+other clouds nearby, all beyond your reach. In the center of the cloud is a
+strange column that rotates slowly.
+~
+13 12 0 0 0 0
+D2
+The edge of the cloud lies in that direction.
+~
+~
+0 0 1337
+D5
+~
+~
+0 0 1331
+E
+column~
+It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of what
+appears to be mist.
+~
+S
+#1337
+The Aerial Plane~
+   You step towards the edge of cloud and you feel a tingling sensation
+all over your body. There is a brilliant flash and when you open your eyes,
+you find yourself...
+~
+13 28 0 0 0 0
+D0
+~
+~
+0 0 1336
+S
+#1338
+A Lava Pool~
+   The island surface, although solid enough, is rather brittle and you
+break through it several times. You cast your eye westwards, out upon the
+sea of lava and find nothing. Flames dance along the surface of the lava
+while huge plumes leap into the sky at irregular intervals.
+~
+13 168 0 0 0 0
+D1
+~
+~
+0 0 1339
+D2
+~
+~
+0 0 1341
+S
+#1339
+A Lava Pool~
+   As you approach the edge of the island, a large jet of flame explodes from
+the lave pool and travels upwards. Surprisingly, it doesn't radiate any heat
+although testing that theory could be hazardous.
+~
+13 168 0 0 0 0
+D1
+~
+~
+0 0 1340
+D2
+~
+~
+0 0 1342
+D3
+~
+~
+0 0 1338
+S
+#1340
+A Lava Pool~
+   Just beyond reach to the east lies a lava fountain, quite possibly the
+source for the lava pool which surrounds the island. It bubbles away quietly,
+obvious very hot given the viscosity of the fluid as it flows out. However,
+you can feel no heat despite being so close.
+~
+13 168 0 0 0 0
+D2
+~
+~
+0 0 1343
+D3
+~
+~
+0 0 1339
+S
+#1341
+A Lava Pool~
+   The lava pool simply ceases at the boundary of the sphere, beyond that
+lies nothing but darkness. The lava bubbles away with intense heat but from
+an unknown source since this place appears to be entirely surrounded by the
+sphere.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1338
+D1
+~
+~
+0 0 1342
+D2
+~
+~
+0 0 1344
+S
+#1342
+A Lava Pool~
+   You stand within a column of fire which marks the center of a small island.
+Created by some form of volcanic activity, the island is the only solid ground
+within viewing distance - lava surrounds it making travel anywhere else
+impossible. The island also appears to be enclosed within some kind of sphere,
+but from your vantage point you can't be too sure.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1339
+D1
+~
+~
+0 0 1343
+D2
+~
+~
+0 0 1345
+D3
+~
+~
+0 0 1341
+D4
+The column disappears into nothingness - you'll need to travel up there to see.
+~
+~
+0 0 1347
+E
+column~
+It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of fire
+although it gives off no heat.
+~
+S
+#1343
+A Lava Pool~
+   There is a slightly elevated portion of the island resembling a small
+pillar. It's about waist-high and rather nondescript, although engraved on
+the top is a picture of a small flame. The island continues to the north, south
+and west where a large column of fire slowly rotates.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1340
+D2
+~
+~
+0 0 1346
+D3
+~
+~
+0 0 1342
+E
+flame~
+It glows softly, a strange red color.
+~
+S
+#1344
+A Lava Pool~
+   You look outwards into the darkness and notice three similar spheres to
+the one you are in now. The four in total surround a larger sphere but from
+your position, you are unable to see what lies in any of them nor can you
+see any way of reaching them.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1341
+D1
+~
+~
+0 0 1345
+S
+#1345
+A Lava Pool~
+   The sphere that surrounds the island has the unique ability to distort
+light that provides for an interesting effect. There is an eerie orange glow
+created by the bursts of flames that leap from the lava pool. Any flames
+that reach the surface of the sphere create a rippling effect that spreads
+out around the sphere.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1342
+D1
+~
+~
+0 0 1346
+D3
+~
+~
+0 0 1344
+S
+#1346
+A Lava Pool~
+   Steam gently rises from the ground and wafts upwards before disappearing
+completely. Lava laps at the edge and small pools are left to cool, perhaps
+adding to the islands' growth. There is no heat being radiated from either
+the lava or the flames on its surface, leaving you slightly perplexed.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1343
+D3
+~
+~
+0 0 1345
+S
+#1347
+The Fiery Plane~
+   You stand on a slab of cooled, volcanic lava that seems quite isolated
+from anything else. You look around and discover there almost is nothing else
+apart from similar slabs at very locations around you. Other than that, there
+is only darkness. In the middle of the slab is a strange column that rotates
+slowly.
+~
+13 12 0 0 0 0
+D2
+The edge of the slab lies in that direction.
+~
+~
+0 0 1348
+D5
+~
+~
+0 0 1342
+E
+column~
+It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of fire
+although it gives off no heat.
+~
+S
+#1348
+The Fiery Plane~
+   You step towards the edge of the slab and you feel a tingling sensation
+all over your body. There is a brilliant flash and when you open your eyes,
+you find yourself...
+~
+13 28 0 0 0 0
+D0
+~
+~
+0 0 1347
+S
+#1349
+A Churning Whirlpool~
+   On the outer edge of the whirlpool, the pull is not as strong and you have
+a chance to survey your surrounds. The sphere surrounding this place lies
+just beyond arms reach but even if you could get to it, there's nothing
+beyond it.
+~
+13 8388776 0 0 0 0
+D1
+~
+~
+0 0 1350
+D2
+~
+~
+0 0 1352
+S
+#1350
+A Churning Whirlpool~
+   You swim towards the edge of the whirlpool and rest a little, allowing the
+current to spin you around slowly. There appears to be some kind of sphere
+just a little further to the north, and beyond that nothing but darkness. You
+can swim to the west, east or south from here.
+~
+13 8388776 0 0 0 0
+D1
+~
+~
+0 0 1351
+D2
+~
+~
+0 0 1353
+D3
+~
+~
+0 0 1349
+S
+#1351
+A Churning Whirlpool~
+   On the outer edge of the whirlpool, the pull is not as strong and you have
+a chance to survey your surrounds. The sphere surrounding this place lies
+just beyond arms reach but even if you could get to it, there's nothing
+beyond it.
+~
+13 4194472 0 0 0 0
+D2
+~
+~
+0 0 1354
+D3
+~
+~
+0 0 1350
+S
+#1352
+A Churning Whirlpool~
+   You're tossed and turned in the churning waters and have some trouble trying
+to stay afloat. The current, while not as strong as the middle of the
+whirlpool, is certainly strong enough to pull you around. You can fight it and
+swim to the north, south or east.
+~
+13 2097320 0 0 0 0
+D0
+~
+~
+0 0 1349
+D1
+~
+~
+0 0 1353
+D2
+~
+~
+0 0 1355
+S
+#1353
+A Churning Whirlpool~
+   Rough waters toss you back and forth as you fight to keep your head above
+the waves. You're in the middle of a swirling whirlpool which, while trying
+to move you around, does not appear to be sucking you down. There is a column
+of water around you, its origin from the depths of the whirlpool itself.
+~
+13 168 0 0 0 0
+D0
+~
+~
+0 0 1350
+D1
+~
+~
+0 0 1354
+D2
+~
+~
+0 0 1356
+D3
+~
+~
+0 0 1352
+D4
+The column disappears into nothingness - you'll need to travel up there to see.
+~
+~
+0 0 1358
+E
+column~
+It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of water.
+~
+S
+#1354
+A Churning Whirlpool~
+   You are pushed into the sphere surrounding the whirlpool and it stretches
+before pushing you back into the churning waters. Your impact causes a ripple
+that spreads over the surface of the sphere in an interesting pattern. The
+only notable item of interest is the large water column to the west.
+~
+13 4194472 0 0 0 0
+D0
+~
+~
+0 0 1351
+D2
+~
+~
+0 0 1357
+D3
+~
+~
+0 0 1353
+S
+#1355
+A Churning Whirlpool~
+   On the outer edge of the whirlpool, the pull is not as strong and you have
+a chance to survey your surrounds. The sphere surrounding this place lies
+just beyond arms reach but even if you could get to it, there's nothing
+beyond it.
+~
+13 2097320 0 0 0 0
+D0
+~
+~
+0 0 1352
+D1
+~
+~
+0 0 1356
+S
+#1356
+A Churning Whirlpool~
+   You barely avoid a chunk of rock that sits within the churning waters of
+the whirlpool. There's nothing remarkable about it except that it's the only
+feature within visible range.
+~
+13 16777384 0 0 0 0
+D0
+~
+~
+0 0 1353
+D1
+~
+~
+0 0 1357
+D3
+~
+~
+0 0 1355
+E
+rock~
+You catch a glimpse of what looks like a water drop etched on the side.
+~
+S
+#1357
+A Churning Whirlpool~
+   On the outer edge of the whirlpool, the pull is not as strong and you have
+a chance to survey your surrounds. The sphere surrounding this place lies
+just beyond arms reach but even if you could get to it, there's nothing
+beyond it.
+~
+13 16777384 0 0 0 0
+D0
+~
+~
+0 0 1354
+D3
+~
+~
+0 0 1356
+S
+#1358
+The Aquatic Plane~
+   You're swimming in a vast ocean and regardless of how hard you try,
+movement in most directions seems futile - a force simply pushes you back to
+this location. The sky has been replaced by a blackness, a void from which
+no light escapes. Nearby, a strange column of water rotates slowly.
+~
+13 12 0 0 0 0
+D2
+The force doesn't seem as strong in that direction. You may be able to swim
+that way.
+~
+~
+0 0 1359
+D5
+~
+~
+0 0 1353
+E
+column~
+It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of water.
+~
+S
+#1359
+The Aquatic Plane~
+   You step towards the edge of cloud and you feel a tingling sensation
+all over your body. There is a brilliant flash and when you open your eyes,
+you find yourself...
+~
+13 28 0 0 0 0
+D0
+~
+~
+0 0 1358
+S
+#1360
+The Elemental Chamber~
+   Made from the same material as the chamber itself, a small pillar stands
+here in the corner approximately waist-high. There is a symbol etched onto
+the top but nothing else remarkable stands out to you.
+~
+13 8 0 0 0 0
+D1
+~
+~
+0 0 1361
+D2
+~
+~
+0 0 1365
+E
+symbol~
+You interpret the symbol to indicate the element of earth.
+~
+S
+#1361
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. You look around for an obvious exit from the chamber and
+see none - the only clue would perhaps lie within the column.
+~
+13 8 0 0 0 0
+D1
+~
+~
+0 0 1362
+D2
+~
+~
+0 0 1366
+D3
+~
+~
+0 0 1360
+S
+#1362
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. The hum of the central column is quite peaceful and
+relaxing but there is a force within this chamber which leaves you on guard.
+~
+13 8 0 0 0 0
+D1
+~
+~
+0 0 1363
+D2
+~
+~
+0 0 1367
+D3
+~
+~
+0 0 1361
+S
+#1363
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. Looking around the chamber, you notice that everything
+seems to revolve around the column in the middle as if it played a key role
+in the function of the chamber.
+~
+13 8 0 0 0 0
+D1
+~
+~
+0 0 1364
+D2
+~
+~
+0 0 1368
+D3
+~
+~
+0 0 1362
+S
+#1364
+The Elemental Chamber~
+   Made from the same material as the chamber itself, a small pillar stands
+here in the corner approximately waist-high. There is a symbol etched onto
+the top but nothing else remarkable stands out to you.
+~
+13 8 0 0 0 0
+D2
+~
+~
+0 0 1369
+D3
+~
+~
+0 0 1363
+E
+symbol~
+You interpret the symbol to indicate the element of air.
+~
+S
+#1365
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. In the center of the chamber sits a giant column, it glows
+an eerie red as it rotates.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1360
+D1
+~
+~
+0 0 1366
+D2
+~
+~
+0 0 1370
+S
+#1366
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, an almost pristine
+environment. Arcane symbols cover the walls, the odd one or two glowing
+softly in various colors. You can venture in any direction throughout the
+chamber.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1361
+D1
+~
+~
+0 0 1367
+D2
+~
+~
+0 0 1371
+D3
+~
+~
+0 0 1365
+S
+#1367
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, an almost pristine
+environment. Arcane symbols cover the walls, the odd one or two glowing
+softly in various colors. Sunlight beams in from several openings in the
+chamber walls and ceiling, but whether it is real or synthetic is anyone's
+guess.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1362
+D1
+~
+~
+0 0 1368
+D2
+~
+~
+0 0 1372
+D3
+~
+~
+0 0 1366
+S
+#1368
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, an almost pristine
+environment. Arcane symbols cover the walls, the odd one or two glowing
+softly in various colors. You cannot see any exit from the chamber and can
+only assume that the column is the key which you seek.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1363
+D1
+~
+~
+0 0 1369
+D2
+~
+~
+0 0 1373
+D3
+~
+~
+0 0 1367
+S
+#1369
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. The air is stale in this place and it feels as if no one
+has ventured here in centuries, whatever purpose this chamber may have served.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1364
+D2
+~
+~
+0 0 1374
+D3
+~
+~
+0 0 1368
+S
+#1370
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. You can proceed along the western wall of the chamber or
+further towards the center by travelling eastwards.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1365
+D1
+~
+~
+0 0 1371
+D2
+~
+~
+0 0 1375
+S
+#1371
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, an almost pristine
+environment. Arcane symbols cover the walls, the odd one or two glowing
+softly in various colors. Small, pulsing spheres materialise in the corner
+of the chamber and make their way to the large column to the east before
+disappearing in a puff of light.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1366
+D1
+~
+~
+0 0 1372
+D2
+~
+~
+0 0 1376
+D3
+~
+~
+0 0 1370
+S
+#1372
+The Elemental Chamber~
+   The chamber is quite large and its walls are engraved with all manner of
+arcane symbols. In each corner is a small pedestal but from here, not much
+detail can be seen. There is a rotating column in the middle of the chamber,
+only feet from where you stand - there is a soft hum associated with its
+movement and it radiates an enormous amount of energy.
+~
+13 262152 0 0 0 0
+D0
+~
+~
+0 0 1367
+D1
+~
+~
+0 0 1373
+D2
+~
+~
+0 0 1377
+D3
+~
+~
+0 0 1371
+E
+arcane~
+From your limited knowledge of such things, the symbols are repeated over and
+over again, each depicting a different element - earth, air, fire and water.
+There is one symbol you are unfamiliar with, and it is this symbol which
+pulsates at regular intervals.
+~
+E
+column~
+The column is absolutely colossal! It's composed of a material you've never
+seen before, a mixture of basalt and some type of glowing red mineral.
+~
+S
+#1373
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, an almost pristine
+environment. Arcane symbols cover the walls, the odd one or two glowing
+softly in various colors. There is a definate force at work within the chamber
+and all of your senses point towards the column to the west. You are almost
+drawn to it with some type of hypnotic acceptance.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1368
+D1
+~
+~
+0 0 1374
+D2
+~
+~
+0 0 1378
+D3
+~
+~
+0 0 1372
+S
+#1374
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. You can continue to the north, south or west.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1369
+D2
+~
+~
+0 0 1379
+D3
+~
+~
+0 0 1373
+S
+#1375
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. For a brief moment, the column in the middle of the chamber
+stops rotating, pulses intensely, and then resumes.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1370
+D1
+~
+~
+0 0 1376
+D2
+~
+~
+0 0 1380
+S
+#1376
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, an almost pristine
+environment. Arcane symbols cover the walls, the odd one or two glowing
+softly in various colors. Despite the sterile nature of this place, it feels
+as if it has not been used in centuries...whatever that use may have been.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1371
+D1
+~
+~
+0 0 1377
+D2
+~
+~
+0 0 1381
+D3
+~
+~
+0 0 1375
+S
+#1377
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, an almost pristine
+environment. Arcane symbols cover the walls, the odd one or two glowing
+softly in various colors. You can venture in any direction throughout the
+chamber.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1372
+D1
+~
+~
+0 0 1378
+D2
+~
+~
+0 0 1382
+D3
+~
+~
+0 0 1376
+S
+#1378
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, an almost pristine
+environment. Arcane symbols cover the walls, the odd one or two glowing
+softly in various colors. Your movements echo around the chamber and drown
+out the soft hum coming from the column in the center of the room.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1373
+D1
+~
+~
+0 0 1379
+D2
+~
+~
+0 0 1383
+D3
+~
+~
+0 0 1377
+S
+#1379
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. As you touch one of the unknown symbols, there is a quiet
+musical tone that resonates throughout the chamber.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1374
+D2
+~
+~
+0 0 1384
+D3
+~
+~
+0 0 1378
+S
+#1380
+The Elemental Chamber~
+   Made from the same material as the chamber itself, a small pillar stands
+here in the corner approximately waist-high. There is a symbol etched onto
+the top but nothing else remarkable stands out to you.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1375
+D1
+~
+~
+0 0 1381
+E
+symbol~
+You interpret the symbol to indicate the element of fire.
+~
+S
+#1381
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. Light beams in from several openings in the chamber wall
+but whether it's real or not cannot be determined from down here.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1376
+D1
+~
+~
+0 0 1382
+D3
+~
+~
+0 0 1380
+S
+#1382
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. In the center of the chamber sits a giant column, it glows
+an eerie red as it rotates.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1377
+D1
+~
+~
+0 0 1383
+D3
+~
+~
+0 0 1381
+S
+#1383
+The Elemental Chamber~
+   The chamber floor is smooth and cold to the touch, as is the chamber wall.
+You run your hands over the numerous arcane symbols and a great power courses
+through your body. A number of colored spheres appear from nowhere and make
+their way towards the column on an unknown journey. Upon reaching their
+destination, they simply vanish in a puff of light.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1378
+D1
+~
+~
+0 0 1384
+D3
+~
+~
+0 0 1382
+S
+#1384
+The Elemental Chamber~
+   Made from the same material as the chamber itself, a small pillar stands
+here in the corner approximately waist-high. There is a symbol etched onto
+the top but nothing else remarkable stands out to you.
+~
+13 8 0 0 0 0
+D0
+~
+~
+0 0 1379
+D3
+~
+~
+0 0 1383
+E
+symbol~
+You interpret the symbol to indicate the element of water.
+~
+S
+#1385
+The Temple of Elements~
+   Above the ambient noise of the temple, there is a soft chanting but you
+can't see the source. The temple is devoid of other people apart from your
+own adventuring party. It is, however, a very soothing chant and you take
+a moment to sit and listen.
+~
+13 24 0 0 0 0
+D1
+~
+~
+0 0 1386
+D2
+~
+~
+0 0 1388
+S
+#1386
+The Temple of Elements~
+   A series of steps lead up to a magnificient altar in the middle of the
+temple. This lower area has been set aside for people to kneel and worship
+the elements, a number of pews set up around the temple perimeter.
+~
+13 24 0 0 0 0
+D1
+~
+~
+0 0 1387
+D2
+~
+~
+0 0 1389
+D3
+~
+~
+0 0 1385
+S
+#1387
+The Temple of Elements~
+   Looking around the temple, it is empty apart from the wooden pews and the
+mystical altar. It is clearly meant to be the focus of this place despite the
+fact that there is no one else here to worship it.
+~
+13 24 0 0 0 0
+D2
+~
+~
+0 0 1390
+D3
+~
+~
+0 0 1386
+S
+#1388
+The Temple of Elements~
+   A series of steps lead up to a magnificient altar in the middle of the
+temple. This lower area has been set aside for people to kneel and worship
+the elements, a number of pews set up around the temple perimeter.
+~
+13 24 0 0 0 0
+D0
+~
+~
+0 0 1385
+D1
+~
+~
+0 0 1389
+D2
+~
+~
+0 0 1391
+S
+#1389
+The Temple of Elements~
+   You stand before a great altar to the elements, a symbol of their union
+and place within this world. Steps lead down in the four cardinal directions
+to a small area surrounding the altar, an area to worship and pay homage.
+There is a narrow opening in the temple ceiling which leads into the darkness.
+~
+13 24 0 0 0 0
+D0
+~
+~
+0 0 1386
+D1
+~
+~
+0 0 1390
+D2
+~
+~
+0 0 1392
+D3
+~
+~
+0 0 1388
+D4
+~
+~
+0 0 1394
+E
+altar~
+It is magnificient! It has been constructed from the four elements, all of
+which swirl together in a hypnotic pattern.
+~
+S
+#1390
+The Temple of Elements~
+   A series of steps lead up to a magnificient altar in the middle of the
+temple. This lower area has been set aside for people to kneel and worship
+the elements, a number of pews set up around the temple perimeter.
+~
+13 24 0 0 0 0
+D0
+~
+~
+0 0 1387
+D2
+~
+~
+0 0 1393
+D3
+~
+~
+0 0 1389
+S
+#1391
+The Temple of Elements~
+   There is a strong life force within the temple, you can feel it as it
+seems to look you over. You do not feel in any danger, just an overwhelming
+inquisitiveness. Then, as quickly as it came, the force is gone and you are
+left standing here.
+~
+13 24 0 0 0 0
+D0
+~
+~
+0 0 1388
+D1
+~
+~
+0 0 1392
+S
+#1392
+The Temple of Elements~
+   A series of steps lead up to a magnificient altar in the middle of the
+temple. This lower area has been set aside for people to kneel and worship
+the elements, a number of pews set up around the temple perimeter.
+~
+13 24 0 0 0 0
+D0
+~
+~
+0 0 1389
+D1
+~
+~
+0 0 1393
+D3
+~
+~
+0 0 1391
+S
+#1393
+The Temple of Elements~
+   There are a number of pews lining the temple wall, each appears to have
+an elemental symbol etched into. You take the time to sit down on a couple of
+them and images of places far beyond this world enter your mind. Some you
+recognise, most you do not - it is a very therapeutic experience.
+~
+13 262168 0 0 0 0
+D0
+~
+~
+0 0 1390
+D3
+~
+~
+0 0 1392
+S
+#1394
+The Elemental Plane~
+   One minute your ascending through the opening in the temple roof, and the
+next you are floating towards the top of a large sphere in openness. Around
+the sphere is nothing, only blackness - orbitting at some distance are four
+other spheres, all smaller than this one. There is an incredible power and
+you are almost paralysed with its intensity.
+~
+13 77 0 0 0 0
+D5
+~
+~
+0 0 1389
+S
+#1395
+A Tropical Island~
+   The island isn't very large and you imagine if the ocean swell were to
+rise sufficiently, it would be submerged. A single palm tree stands to your
+right and a stone cross sits embedded within the soft sand.
+~
+13 262144 0 0 0 4
+D0
+~
+~
+0 0 21488
+D1
+~
+~
+0 0 21524
+D2
+~
+~
+0 0 1396
+D3
+~
+~
+0 0 21522
+E
+cross~
+It's simply that - a cross carved from stone. Even with the sand, it does
+not move and shows no sign of age.
+~
+S
+#1396
+On the Ocean~
+   You are floating above the churning surface of the water.  As 
+you float above the surface, eddies crash into you, forcing you to 
+pay attention to the water's motion.  In the distance, you can see 
+the foam of a broken ocean eddies. To the north, a lone island breaks
+the surface of the waves.
+~
+13 0 0 0 0 7
+D0
+~
+~
+0 0 1395
+D1
+~
+~
+0 0 21559
+D2
+~
+~
+0 0 21595
+D3
+~
+~
+0 0 21557
+D5
+~
+~
+0 0 1301
+S
+$~

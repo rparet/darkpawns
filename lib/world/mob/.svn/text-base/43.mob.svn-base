@@ -1,0 +1,738 @@
+#4300
+superfreak rick james~
+Rick James~
+The Superfreak stands here, licking your groin with glittery hair.
+~
+His nose is covered in white powder and he intimidates and arouses you with a furious groin pumpin dance in your general direction.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: You hear a man exclaim, "I'm Rick James, Bitch!" and smack a ho.
+E
+#4301
+dolkvin drunkard serf man~
+Dolkvin the Drunkard~
+Dolkvin staggers about, smacking random soil with a filthy old hoe.
+~
+Dolkvin is drunk again, which is no surprise.  His red nose protrudes
+from a jolly, wasted face, destroyed by years of drinking fermented onions.
+Dolkvin emits a putrescent cloud of filth and stench.
+~
+25165834 0 0 0 0 0 0 0 400 E
+11 9 -1 11d5+120 7d4+8
+15 7500
+8 8 1
+BareHandAttack: 13
+Race: 0
+Noise: You hear a drunkard farting in the wind.
+E
+#4302
+serf girl~
+a serf girl~
+A serf girl toils about, encrusted in dirt.
+~
+This poor peasant girl has been set to plowing the earth and
+carrying heavy baskets back and forth.  Although young, she is
+stonefaced as her bony, muscular frame does her day's work.
+~
+8 0 0 0 4194304 0 0 0 5 E
+8 12 2 8d5+90 4d4+4
+3 3500
+8 8 2
+BareHandAttack: 4
+Race: 0
+E
+#4303
+Haggard oaf idiot~
+Haggard the Village Idiot~
+Haggard the oaf lumbers about, working the fields.
+~
+Haggard is a large man with red hair and long mutton chop sideburns.
+His legs are freakishly long, causing him to take enormous tragicomic
+steps.  Haggard is rather oafish but has a simple charm to him.
+~
+262154 0 0 0 0 0 0 0 400 E
+12 8 -2 12d5+130 6d4+8
+12 9000
+8 8 1
+BareHandAttack: 13
+Noise: You hear the sound of a scythe cutting through wheat nearby.
+E
+#4304
+Old Crazy Pete~
+Old Crazy Pete~
+Old Crazy Pete is here, stomping grapes and punching himself in the head.
+~
+Old Crazy Pete is hairy, smelly, and disgusting.  His liquorous mouth
+lies open, singing a song about easy women as he beats his head in
+an unknown rhythm whilst stomping grapes with mad fervor.  A urine
+stain runs down his overalls, and a melted ice cream cone rests on
+his head.  They just don't come much stranger than Old Crazy Pete.
+~
+30 0 0 0 0 0 0 0 400 E
+9 11 1 9d5+100 5d4+5
+40 4500
+8 8 1
+Race: 0
+Noise: You hear a madman singing about tavern whores and stomping grapes in the distance.
+E
+#4305
+Hagatha~
+Hagatha "Big Ox" O'Hooligan~
+Hagatha the hulking idiot pulls several plows behind her sinewy, bulbous frame.
+~
+You feel stupid merely being in the presence of this amazing idiot.
+The woman is gigantic, hulking over even you, but her brain is the size
+and composition of a moose knuckle.  She looks like a solid worker, though,
+dragging along several plows behind her gargantuan back.
+She grunts like a wild beast fat on butter, beans, and dainty delights.
+~
+1098 0 0 0 1032 4 0 0 450 E
+16 -30 -1 16d5+170 10d6+40
+100 16000
+8 8 2
+BareHandAttack: 13
+Race: 18
+Noise: A grunting woman is heard nearby.
+E
+#4306
+filthy hog carve_meat~
+a filthy hog~
+A dirty hog snorts happily, eating up its feed with ecstatic devotion.
+~
+A filthy hog sits here in its own slop, feeding on the slim
+portions allowed by the parsimonious Cedric.  It snorts in
+oblivious contentment, devouring the trough in mindless devotion.
+~
+10485770 0 0 0 32 4 0 0 0 E
+7 13 3 7d5+80 4d4+4
+0 2500
+8 8 2
+BareHandAttack: 7
+Race: 22
+Noise: You hear the snorting of a hungry pig nearby.
+Script: 0 0
+E
+#4307
+Galoot~
+Galoot the herder~
+Galoot is here, tending to the livestock with disturbing delight.
+~
+Galoot has only one tooth, extending from his face in horrific
+backwoods protrusion.  His eyes are nearly blank, hiding only
+a feeble mind capable of grasping childhood truths at best.
+The way this man's lonely eyes light up at the sight of a healthy
+steer rump is sure to give you nightmares.
+~
+10 0 0 0 1024 0 0 0 -300 E
+13 7 -3 13d5+140 8d4+9
+25 10500
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#4308
+william cowardly tiny man~
+William the Cowardly~
+A tiny man is here, quivering in terror.
+~
+This man is just a tiny little dwarf, frail and sickly to boot.  He
+looks at you with abject terror in his eyes.  For failing his lord in
+courage on the field of battle, William has been placed here to serve
+as the first line of defense against any who might wish to pay his
+lord a rude visit.
+~
+8448158 0 0 0 0 2 0 0 350 E
+0 19 9 1d5+20 1d4+1
+5 100
+8 8 1
+BareHandAttack: 7
+Race: 0
+E
+#4309
+Anna picker~
+Anna the apple picker~
+Anna stands here, singing a pretty tune while picking apples.
+~
+Anna is a pretty young peasant girl.  She has flowing red hair, pale white skin
+and an ass to write home about.  Poor Anna was sold into serfdom by her father,
+Dolkvin, before his debts forced he himself to work Cedric's fields.
+The young girl appears unfazed, seeming to actually enjoy her unpaid labor.
+~
+262218 0 0 0 0 0 0 0 400 E
+7 13 3 7d5+80 4d4+4
+50 2500
+8 8 2
+Race: 0
+Noise: You hear a girl singing a pretty tune from the orchard.
+E
+#4310
+cao xuanche xixieqian man ~
+Cao Xiezhe~
+An angry man of Xixieqi stands here, harvesting turnips with outward fury.
+~
+Cao Xiezhe was captured in a recent war, as a prisoner of Xixieqi, and
+forced into sordid labor on the lands of Cedric the Saxon.  He works here,
+obeying orders, but is clearly peeved at his lowly status.  Cao has the
+appearance of a man working for today, but plotting for tomorrow.
+~
+10 0 0 0 131072 0 0 0 300 E
+11 9 -1 11d5+120 7d4+8
+7 7500
+8 8 1
+Race: 0
+Noise: A man curses Cedric in an unknown eastern tongue.
+E
+#4311
+chicken funky carve_meat~
+a funky chicken~
+A funky chicken sits in its cage, emitting a terrible stench.
+~
+This chicken is incredibly funky, both for its rhythmic head bobbing
+and the disgusting funk its filthy feathers breathe into the air.
+The chicken catches you staring at it, and you both look away in
+an awkward moment.
+~
+10 0 0 0 12582912 0 0 0 0 E
+5 15 5 5d5+60 3d4+3
+0 900
+8 8 2
+BareHandAttack: 8
+Race: 24
+Noise: A chicken clucks a funky tune nearby.
+E
+#4312
+al pupalot Al-pupalot~
+Al-Pupalot the flatulent Arab~
+Al-Pupalot the flatulent Arab stands here, with brown-stained trousers.
+~
+This man, whose true name is Abdul Aziz, was forced into serfdom
+upon the defeat of his sultan by the thanes of Cedric.  His face,
+which resembled a camel, and his nervous, goofy manner ended up
+sparing Abdul's life, as the men redubbed him "Al-Pupalot" due to
+his violent digestive problems.  Fed only bran fiber and whiskey,
+without the aid of a doctor, Al-Pupalot's condition is certain to
+keep him alive as an endless source of humor.
+~
+10 0 0 0 0 0 0 0 -250 E
+10 10 0 10d5+110 5d4+5
+120 6000
+8 8 1
+BareHandAttack: 9
+Race: 0
+Noise: You hear a flatulent Arab cursing his fate in the wind.
+E
+#4313
+bahamut dragon platinum~
+Bahamut the Platinum Dragon of Heaven~
+A regal dragon of platinum presides here in supreme majesty.
+~
+Bahamut is among the noblest creatures of the realm.  His steady, kind mien
+bespeaks the wisdom of eons.  Summoned from heaven by the God of War to serve
+as his steed, Bahamut is a fierce and loyal companion to mighty Mars.
+~
+10572042 0 0 0 1140855944 0 0 0 400 E
+60 -40 -50 60d5+17904 40d4+40
+0 135420039
+8 8 1
+BareHandAttack: 12
+Race: 10
+Noise: The ground trembles from the weight of a massive beast nearby.
+E
+#4314
+Paddy O'Hooligan man~
+Paddy O'Hooligan~
+Paddy O'Hooligan is here, drunk and sleeping on the job again.
+~
+Paddy's face is fat and bloated, and his nose is inflamed with crimson from
+years of imbibing fermented yak juice.  His eyes droop from intoxication, and
+his orange sideburns protrude so greatly as to offend your personal dignity.
+He's supposed to be guarding the gate, but he couldn't stop a child.
+~
+18890762 0 0 0 0 0 0 0 0 E
+13 7 -3 13d5+140 8d4+9
+200 10500
+4 4 1
+BareHandAttack: 13
+Race: 0
+Noise: An intoxicated oaf snoars loudly somewhere nearby.
+E
+#4316
+scar man brute big~
+Scar the enforcer~
+A big brute of a man is here, beating helpless peasants with an iron switch.
+~
+Scar is a hulking brute of a man, named for a scar he received from
+mercenary work years ago.  Scar retired from the warrior life to spend
+his days as a brutish enforcer on Cedric's estate.  His role is
+basically to beat the peasants into submission so pathetic that the
+thought of escape or rebellion becomes unspeakable.
+~
+266824 0 0 0 1036 0 0 0 -400 E
+18 2 0 18d5+190 12d4+22
+99 20000
+8 8 1
+BareHandAttack: 10
+Race: 0
+Noise: Peasants scream for mercy from a savage beating.
+E
+#4318
+angry aethelred man~
+Aethelred the Angry~
+An angry man walks back and forth, glaring at you.
+~
+Aethelred is a testy character, and cracks his knuckles.  He was
+demoted from a man of arms in Cedric's service to a commoner
+on account of stealing and spreading lies.  He resents his new
+status and wouldn't mind taking it out of your hide.
+~
+2183210 0 0 0 66568 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+30 14000
+8 8 1
+BareHandAttack: 9
+Race: 0
+E
+#4319
+horsefaced hamish~
+Horsefaced Hamish~
+Horsefaced Hamish is here, trying to look mad but making you laugh.
+~
+Hamish has a long, drooping mouth and tired eyes.  His
+freckly, balding head closely resembles a rotten pumpkin.
+He wields a chicken with deadly proficiency, ready to teach
+you a lesson if you want to get past him.
+~
+4106 0 0 0 1032 0 0 0 0 E
+14 6 -4 14d5+150 9d4+10
+60 12000
+8 8 1
+BareHandAttack: 7
+Race: 0
+E
+#4320
+Friar Dominic~
+Friar Dominic~
+Friar Dominic is here, speaking the word of the Lord.
+~
+Dominic's face is aglow with the calm aura of a man at true peace with himself.
+His voice is soft and soothing, speaking reasonable truths of the world while
+placing the miseries of life into a context of harmony.  The congregation
+listens in rapt attention, hypnotized by the transcendent wisdom of this true
+holy man.
+~
+16410 0 0 0 1 0 0 0 400 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 1
+BareHandAttack: 11
+Race: 0
+E
+#4321
+true believer~
+a true believer~
+A true believer is here, swaying in harmony to the Friar's sermon.
+~
+This person is truly committed to the faith, eyes closed and body
+swaying to and fro in rhythmic harmony with the diction of the holy
+Friar.  It is both disarming and awe-inspiring to see a person so
+utterly dedicated to the truth of abstract mythology.
+~
+16394 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 3d4+3
+0 900
+5 5 0
+Race: 0
+E
+#4322
+Brother Aedelbert~
+Brother Aedelbert the Gentle~
+Brother Aedelbert whimpers and struggles to pull a plow.
+~
+This bald monk was recently in the service of Lord Cedric, until
+he made one too many remarks about the stupidity of violence.  The
+lord, taking gentle Aedelbert's remarks as a personal slight, threw
+him out of the manor in a drunken rage and consigned him to pay for
+his insolence with heavy labor.
+~
+138 0 0 0 4096 0 0 0 500 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 1
+BareHandAttack: 12
+Race: 0
+E
+#4323
+Clarissa maid~
+Clarissa the scullery maid~
+Clarissa the scullery girl gives you a sexy look.
+~
+Although unwashed and with tangled black hair, you can see that
+Clarissa is a beauty with dark green eyes.  Unused to strangers,
+she is clearly excited at your presence, as she shakes her lovely
+rump in your direction with a coy smile.
+~
+10 0 0 0 0 0 0 0 -400 E
+4 16 6 4d5+50 2d4+2
+300 600
+6 6 2
+Race: 0
+E
+#4324
+Chef Henri Saucerer~
+Chef Henri the Arrogant Saucier~
+Chef Henri, chief saucerer, stirs a boiling vat with a screaming heretic.
+~
+Henri, a proud Creole, is exalted at his seemingly modest title as 
+Chief Saucerer.  He thinks himself a virtuoso, lauded by crowds of
+admiring patrons.  Henri sings his own praises with a silly dance,
+shaking back and forth with the high notes of the song.  The reality is
+ that he is a dirty man in a damp cellar stirring a bowl of sauce with a 
+writhing prisoner.  Henri has a long handlebar moustache and greasy 
+hands.
+~
+10 0 0 0 0 0 0 0 0 E
+16 4 -6 16d5+170 10d4+11
+200 16000
+8 8 1
+BareHandAttack: 1
+Race: 0
+Noise: You hear a jaunty melody being sung nearby.
+E
+#4325
+Seamus poulter~
+Seamus the poulter~
+Seamus stands here in a bloody apron, lopping off chicken heads.
+~
+Seamus is a kindly looking man, but rather frail.  He wears an apron and
+works at a table, gutting chickens, cutting off their heads, and cleaning
+up the waste while keeping the area neat and orderly.
+~
+138 0 0 0 0 0 0 0 400 E
+16 4 -6 16d5+220 10d4+11
+100 16000
+8 8 1
+Race: 0
+E
+#4326
+Old Sam Baker candlestick maker~
+Old Sam Baker the candlestick maker~
+Old Sam Baker the candlestick maker rests on a stool, making a candle.
+~
+Despite his surname, Old Sam was never destined to be a baker
+of pastries.  From watching the flickering candles at night as
+a youth, Sam became enchanted with the magic of flame and light.
+He's spent all his years since in this very chandlery, serving
+as Chandler for Cedric and those before him, ever content.
+~
+10 0 0 0 1033 0 0 0 400 E
+16 -10 -1 16d5+200 10d5+11
+700 17000
+8 8 1
+Race: 0
+E
+#4327
+Freyja~
+Freyja the Free Thinker~
+Freyja is here, dipped in hot boiling sauce for her sins.
+~
+She has a hurt but vengeful look to her features, beaten
+and scarred as she is.  This woman has endured many savage
+tortures and beatings for her heresy of disbelief.  She
+continues to refuse to acknowledge the One God, and will
+live a horrible life until she chooses otherwise.
+Her muscles and sinews ripple with quaking fury.
+~
+16394 0 0 0 269489288 0 0 0 500 E
+23 -3 -13 23d5+253 15d4+16
+0 40000
+8 8 2
+BareHandAttack: 12
+Race: 28
+Noise: A woman screams in pain from her skin burning off.
+E
+#4328
+slack jawed peasant~
+a slack jawed peasant~
+A slack jawed peasant walks about doing odd jobs on the farm.
+~
+This man is the product of incest or one plus one doesn't equal
+two. He grins at you as wide as the great sky, without a glimmer
+of thought behind his vacant eyes.  This man has not received
+the education of even a toddler, and speaks to himself in
+bizarre barnyard limericks, giggling crazily.
+~
+72 0 0 0 0 0 0 0 0 E
+11 9 -1 11d5+120 7d4+8
+9 7500
+8 8 1
+Race: 0
+E
+#4329
+monkey boy~
+a monkey boy~
+A monkey boy stands here, helping the butcher in various menial tasks.
+~
+The monkey boy is short and slender, wiry and starving with a
+servile demeanor.  He is well muscled, from years of hard tasks,
+but is content in his current role as a monkey boy to be whipped
+and slapped about for common laughter.  He bears many marks
+from past whippings for trivial offenses.
+~
+10 0 0 0 0 0 0 0 400 E
+3 -10 10 3d5+250 2d1+2
+0 2000
+8 8 1
+BareHandAttack: 14
+Race: 0
+E
+#4331
+elmer drunken bastard butcher ogre ~
+Elmer the Drunken Bastard Butcher~
+A drunken ogre butcher is here, swinging a crazy cleaver.
+~
+Elmer clearly has a problem with the booze.  He reeks of corn mash
+liquor, and can barely stand on his own two feet.  He curses loudly
+and swings a crazy cleaver, endangering everyone. Elmer's left
+arm is lopped off at the elbow, and he has a meat cleaver sticking
+out of his head, permanently imbedded, along with many other wounds
+from years of crazy drunken butchering. He sees you staring at
+him, raises a bottle of Grandpa's Old Cough Medicine to his lips,
+and cuts the head off a massive pig with a singular chop.
+~
+8650778 0 0 0 9224 2 0 0 -400 E
+20 0 -10 20d5+210 13d4+14
+500 25000
+8 8 1
+BareHandAttack: 14
+Race: 20
+Noise: You hear loud cursing, and the gurgling screams of dying cattle.
+E
+#4332
+giant woman big mama mcgarnicle~
+Big Mama McGarnicle~
+A giant woman is here, slicing up herbs with a mighty axe.
+~
+This old heifer is intimidating, with a bulging brow ridge and
+thighs the size of oxen.  She wears a smelly, smeared sort of
+barnyard lipstick and sings an old sea chanty while slicing
+up some silly sassafras seed.  The earth quakes as she bounces
+up and down with great glee.
+~
+327770 0 0 0 4261000 4 0 0 400 E
+21 -1 2 21d5+450 14d4+65
+0 35000
+8 8 2
+Race: 18
+Noise: The earth quakes with the joyful singing and dancing of a rare female Bohweemoth.
+E
+#4333
+Deacon Jones~
+Deacon Jones~
+Deacon Jones is passed out in a sticky pool of spilt liquor.
+~
+Deacon Edward Jones is a well respected clergyman from a
+neighboring community.  Clearly, that respect is undeserved
+as the churchman has stolen away to the cellar to drink up
+all of his host's wine.  His face and head are unshaven,
+and an enormous belly sways up and down with his heaving
+breaths.  His clothes are absolutely drenched in liquor.
+~
+65562 0 0 0 0 0 0 0 -400 E
+21 -1 -11 21d5+220 14d4+14
+1000 27500
+4 4 1
+BareHandAttack: 9
+Race: 0
+Noise: A snoring buffoon fills the air with stupidity.
+E
+#4334
+granite statue lion~
+a granite statue of a lion~
+A granite statue of a lion flanks the gate in a rearing pose.
+~
+This lion is the symbol of Rotherwood, derived from the myth
+of the founder of the house taming a wild lion with his bare
+hands to spare a suffering village.  Although stuck in place,
+there seems to be a certain magic working on the statue
+which allows for rudimentary sentience and movement.
+~
+110618 0 0 0 1032 0 0 0 400 E
+18 2 -8 18d5+190 12d4+12
+0 20000
+8 8 1
+BareHandAttack: 8
+Race: 25
+E
+#4335
+Fat Hammy Larderer~
+Fat Hammy the Larderer~
+Fat Hammy sits here, devouring pig grease and boiled hogs' feet.
+~
+Fat Hammy is just quite a disgrace, indeed!  He works as Cedric's Chief
+Larderer, in charge of the safekeeping of the many goods stored in the
+larder.  In utter contradiction of his profession, Fat Hammy apparently
+indulges himself regularly on the foodstuffs stored here.  He reeks of
+pig fat and befouled apple juice.  Hammy is of the race of giants,
+and has all their characteristic size and stupidity.
+~
+614426 0 0 0 1073742856 4 0 0 -400 E
+20 2 -10 20d5+250 14d6+50
+500 30000
+8 8 1
+BareHandAttack: 7
+Race: 18
+Noise: You hear an obese giant slurping up gallons of pig fat.
+E
+#4336
+young girl josephine~
+Josephine~
+A young girl cavorts about to please the deacon.
+~
+This poor teenage girl was forced by the hand of Deacon Jones
+to this damp and dark place to amuse him while he would drink
+and be entertained.  She is dressed in tattered rags, and her
+cheeks are purple with bruises.  She performs a pathetic dance,
+unaware that the deacon is long since befuddled by drink.
+~
+26 0 0 0 0 0 0 0 400 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 2
+Race: 0
+E
+#4337
+peasant boy~
+a peasant boy~
+A peasant boy scurries about, helping in food preparation.
+~
+He's in a frantic state, eager to please his overlord and
+earn a name for himself as a grade A slave.  The peasant
+boy runs back and forth, carrying several heavy sacks of
+grains, spices, and meat between the food preparation
+rooms and to the kitchen.  He's strained and just about
+to break, but this boy can't be faulted for laziness.
+~
+4184 0 0 0 1032 0 0 0 400 E
+10 10 0 10d5+110 5d4+5
+15 6000
+8 8 1
+Race: 0
+E
+#4338
+head cook pierre beauchamp~
+Pierre Beauchamp the Condescending Cook~
+The head cook stands here, ordering people about with a cold sneer.
+~
+This man is completely full of himself.  He speaks with perfect
+diction and flies around the kitchen, whacking his underlings on
+the head for always getting in his way.  Although bold, Pierre
+can certainly cook a great meal, and won't tolerate anyone
+getting in the way of his perfection.
+~
+18458 0 0 0 132104 2 0 0 0 E
+21 -1 -11 21d5+220 14d4+14
+750 32000
+8 8 1
+BareHandAttack: 7
+Race: 0
+E
+#4339
+Stammerin' Suzy~
+Stammerin' Suzy~
+Stammerin' Suzy is here, blurting out nonsense and harvesting mushrooms.
+~
+Stammerin' Suzy is a fine looker of a woman, to be sure, but
+suffers from a nervous tic which causes her to blather out
+nonsense in a fractured, frightened manner.  The people of
+Rotherwood mostly leave her alone, afraid that she might be
+possessed by a demon.  
+~
+10 0 0 0 4195848 0 0 0 400 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 2
+Noise: You hear a woman speaking nonsense to herself and laughing.
+E
+#4340
+beautiful francisca~
+Francisca~
+Beautiful Francisca collects garlic cloves in a basket.
+~
+Francisca has gorgeous green eyes, and a pleasing olive complexion
+from so much time in the sun.  Her figure is well tight and well
+proportioned, her lips full and juicy.  She carries a short sword
+to fend off the countless lecherous fiends who would have their
+way with this peasant woman.  
+~
+20490 0 0 0 1032 0 0 0 400 E
+20 0 -10 20d5+210 13d4+14
+0 25000
+8 8 2
+Race: 1
+E
+#4341
+Lascivious Larry~
+Lewd and Lascivious Larry~
+Lascivious Larry sneaks around, looking for someone to goose.
+~
+There's something wrong with this man.  His face and body are
+broken and bruised from beatings for his past misconduct.  The
+man's mouth is stuck in a perpetually frightening grin, barely
+hiding the disgusting thoughts in his mind.  Larry reeks poorly
+of horse flop and eastern moose grease, but is done for the
+day and roaming the fields looking to indulge his sick appetites.
+~
+18520 0 0 0 263176 0 0 0 -400 E
+14 6 -4 14d5+150 9d4+10
+0 12000
+8 8 1
+Race: 20
+E
+#4342
+drugged chef~
+a drugged up chef~
+A drugged up chef is here, frantically running between dishes.
+~
+This man has clearly been given some northern devil ginseng powder,
+and labors with ecstatic fervor.  This is a pot stirring, sack
+lifting, haughty dynamo of cooking excellence and awful manners.
+In his race to distinguish himself in the head chef's eyes, the man
+elbows and knocks over kitchen hands and even the other chefs
+as he whirls about the kitchen.
+~
+8411162 0 0 0 0 0 0 0 -400 E
+19 1 -9 19d5+200 12d4+13
+0 22500
+8 8 1
+Race: 0
+Noise: You hear yelling, and the clanging of pots and pans from the kitchen.
+E
+#4343
+Marshal Bill~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#4350
+fish carve_meat~
+fish~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+Race: 23
+E
+$

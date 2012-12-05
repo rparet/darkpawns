@@ -1,0 +1,211 @@
+#19400
+king fire li ting~
+Li Ting~
+Li Ting is here sitting upon his throne.
+~
+The master of the Fire Pagoda regards you with contempt in his smouldering
+eyes.  A flaming aura surrounds him and seems to become more intense as
+his rage grows stronger with each passing moment.
+~
+763930 0 0 0 1048808 0 0 0 -1000 E
+25 -5 -15 25d5+299 16d4+16
+3000 37500
+6 6 1
+BareHandAttack: 12
+Race: 11
+E
+#19401
+man ronin assassin jubei kebogami~
+Jubei Kebogami~
+A weatherbeaten man stands here.
+~
+Jubei Kebogami is a Ronin assassin and mercenary for hire.
+He looks like he could cut you to pieces without breaking a sweat.
+~
+2088984 0 0 0 263208 0 0 0 700 E
+24 -4 -14 24d5+276 16d4+16
+1400 35000
+8 8 1
+Race: 0
+E
+#19402
+monk shaolin~
+a shaolin monk~
+A shaolin monk walks around chanting.
+~
+A shaolin monk is chanting in some unknown language. He seems to ignore you
+and your intrusion here.
+~
+67656 0 0 0 164872 0 0 0 400 E
+13 7 -3 13d5+140 8d4+8
+0 10500
+8 8 1
+BareHandAttack: 13
+Race: 0
+Noise: You hear an eerie chanting.
+E
+#19403
+monk shaolin~
+a shaolin monk~
+A shaolin monk wanders around here.
+~
+A shaolin monk is here experiencing himself subjectively.
+It would be wise not to disturb him.
+~
+67594 0 0 0 132104 0 0 0 400 E
+13 7 -3 13d5+140 8d4+8
+0 10500
+8 8 1
+BareHandAttack: 13
+Race: 0
+Noise: You hear an eerie chanting.
+E
+#19404
+shaolin pupil~
+a shaolin pupil~
+A shaolin pupil is here seeking inner enlightenment.
+~
+A shaolin pupil looks like he's trying to find something. He constantly rubs
+his bald head as if he's not yet used to being bald. Occasionally he trips
+over his robe.
+~
+4232 0 0 0 132096 0 0 0 300 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 1
+BareHandAttack: 13
+Race: 0
+Noise: You hear an eerie chanting.
+E
+#19405
+master shaolin quan lo~
+Quan Lo~
+The shaolin master is here, in perfect harmony with the Universe.
+~
+Quan Lo continues to chant softly as you look him over. Like the other monks
+his head is clean shaved and wears only simple clothes and a robe. A long
+beard hangs low from his chin.
+~
+256026 0 0 0 1090662568 0 0 0 500 E
+24 -4 -14 24d5+276 16d4+16
+0 35000
+6 6 1
+BareHandAttack: 13
+Race: 0
+E
+#19406
+man hermit~
+an old hermit~
+An old hermit sits here humming softly.
+~
+The hermit looks very old and smells like it too. His hair is very long and
+is a dirty grey color. His beard comes down below his chest and small bits
+of who-knows-what lie stuck within it.
+~
+188442 0 0 0 1064 0 0 0 500 E
+30 -10 -20 30d5+414 20d4+20
+30000 60000
+6 6 1
+BareHandAttack: 13
+Race: 0
+Noise: You hear a soft humming coming from the cave to the west.
+E
+#19407
+fire falcon bird~
+a fire falcon~
+A small flaming bird is here.
+~
+A beautiful copper coloured bird that radiates a firey aura.
+~
+123144 0 0 0 5160 0 0 0 1000 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 0
+E
+#19408
+flame spirit~
+a flame spirit~
+A flame spirit dances about wildly.
+~
+This beings body is made completely of living flame, and it
+dances wildly around the column of flame in the centre of the
+room.
+~
+688140 0 0 0 132104 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 0
+Race: 25
+E
+#19409
+servant flame monk crimson~
+a Servant of the Flame~
+A monk dressed in crimson robes tends the flame.
+~
+His crimson robes cover him from head to toe, making him appear
+a bulky, amorphous parody of humanity.
+~
+264264 0 0 0 394280 0 0 0 0 E
+16 4 -6 16d5+170 10d4+10
+0 16000
+8 8 1
+Race: 0
+Noise: You hear a low, steady chanting.
+E
+#19410
+acolyte flame monk~
+an acolyte of the Flame~
+An acolyte of the Flame stands in silence.
+~
+A young man, in crimson robes.  He is being trained to carry
+on the mission of the Servants.
+~
+4168 0 0 0 263176 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 1
+Race: 0
+Noise: You hear a low, steady chanting.
+E
+#19411
+stealthy ninja man~
+a stealthy ninja~
+A ninja dressed in black tries to blend in with the scenery.
+~
+Ki-Yaaaaah!!!
+~
+1312984 0 0 0 918536 0 0 0 -250 E
+23 -3 -13 23d5+253 15d4+15
+550 32500
+8 8 1
+Race: 0
+E
+#19412
+fire wizard~
+the Fire Wizard~
+A mysterious woman in dark robes stands here.
+~
+She is the wizard of this pagoda, a master of fire magic -
+skilled and deadly.
+~
+714825 0 0 0 263304 0 0 0 -500 E
+22 -2 -12 22d5+230 14d4+14
+200 30000
+8 8 2
+Race: 0
+E
+#19413
+monastic guard monk~
+the monastic guard~
+A monastic guard protects the temple from intruders.
+~
+He is a tall monk that wears armor and gets a kick out of
+beating up heathens.
+~
+178186 0 0 0 0 0 0 0 0 E
+17 3 -7 17d5+180 11d4+11
+0 18000
+8 8 1
+Race: 0
+E
+$

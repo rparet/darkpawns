@@ -1,0 +1,41 @@
+#19900
+troll~
+a troll~
+A rough-skinned troll stalks around angrily.
+~
+Covered in mottled green flesh, it smells your blood and begins to drool.
+~
+105 0 0 0 1024 0 0 0 -500 E
+8 12 2 8d5+90 4d4+4
+15 3500
+8 8 1
+Race: 6
+E
+#19901
+king troll~
+the troll king~
+The king of all trolls stands here amid piles of humanoid bones.
+~
+Almost a head taller than other trolls, he bears an unmistakable air of
+authority.. and animality.
+~
+107 0 0 0 1032 0 0 0 -500 E
+12 8 -2 12d5+130 8d4+8
+80 9000
+8 8 1
+Race: 6
+E
+#19902
+wight rock minor~
+a minor rock wight~
+A minor rock wight floats about ethereally.
+~
+A long dead soul, it searches the depths of this cave.. its place of death.
+~
+104 0 0 0 525448 0 0 0 -500 E
+7 13 3 7d5+80 4d4+3
+10 2500
+8 8 0
+Race: 9
+E
+$

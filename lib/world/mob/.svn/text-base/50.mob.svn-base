@@ -1,0 +1,127 @@
+#5000
+scorpion giant~
+the giant scorpion~
+A giant scorpion digs itself out of the sand here.
+~
+Rather like the typical desert scorpions, this poisonous insect sports
+a huge stinger that rises high above its body.
+~
+262216 0 0 0 32 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 1
+BareHandAttack: 2
+Race: 21
+Noise: You hear a chittering noise on the breeze.
+E
+#5001
+raider desert thief~
+the desert raider~
+A roguish raider of the desert stands here, watching you carefully.
+~
+Unshaven and foul-smelling, this raider appears to have recently robbed
+a small caravan.  His clothes are new, obviously stolen, and the glass
+dagger at his side has obviously never been used.
+~
+200 0 0 0 787456 0 0 0 -300 E
+13 7 -3 13d5+140 10d4+8
+0 10500
+8 8 0
+Race: 0
+E
+#5002
+desert cobra~
+the desert cobra~
+A desert cobra slithers here, leaving a path in the sand.
+~
+The weakest and smallest of the desert snakes, this yard-long viper
+slithers along the hot sands, absorbing much of the heat through its
+yellowish scales.
+~
+232 0 0 0 1056 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 2
+BareHandAttack: 4
+Race: 13
+E
+#5003
+hawk desert~
+the desert hawk~
+A banded hawk soars above you, oblivious to the heat.
+~
+Bright yellow bands stripe this desert hawk which scans the sand for a 
+morsel of food.
+~
+76 0 0 0 67108864 0 0 0 0 E
+5 15 -10 5d5+60 3d4+2
+0 1100
+8 8 2
+Race: 24
+Noise: You can hear the cry of a desert bird.
+E
+#5004
+devil dust~
+the dust devil~
+A dust devil spins in the desert winds here.
+~
+This appears to be little more than a man-sized whirlwind of desert sand
+that twirls about the desert.
+~
+237644 0 0 0 67108904 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+Race: 25
+E
+#5005
+Grint'alkan brass dragon wyrm~
+Grint'alkan, the brass dragon~
+A metallic-scaled dragon naps here in the baking sun.
+~
+At over 80 feet long, this wyrm is clearly an old beast for its species.
+He snoozes peacefully in the sun, not caring to awaken for your presence.
+~
+469018 0 0 0 1064 0 0 0 450 E
+32 -12 -22 32d8+1580 25d6+21
+750 120000
+4 4 1
+BareHandAttack: 8
+Race: 10
+Noise: You can hear a powerful gust of air rushing nearby.
+E
+#5006
+trader caravan~
+the caravan trader~
+A trader stands beside a cart here.
+~
+Weathered and with tan skin, this middle-aged woman looks hearty and
+regal as she checks her goods for damage from the wind and sand.
+~
+72 0 0 0 0 0 0 0 100 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 2
+Race: 0
+Noise: You can hear the crunching of sand under wooden wheels.
+E
+#5007
+Spaedrich dragon blue~
+Spaedrich, the blue dragon~
+A massive blue dragon rests quietly here, pointedly ignoring you.
+~
+The blue dragon stretches her massive wings as she absorbs the warmth
+from the sands beneath her.  The suns have made her scales a glistening
+sapphire colour that sparkles against the light and gives her an almost
+holy appearance.  Her wingspan is easily 100 feet wide, which almost
+matches her incredible length.
+~
+780302 0 0 0 1208 0 0 0 -700 E
+35 -15 -25 35d5+3329 26d4+23
+4000 360000
+5 5 2
+BareHandAttack: 8
+Race: 10
+Noise: You can hear a deep rumble nearby.
+E
+$

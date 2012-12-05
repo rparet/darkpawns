@@ -1,0 +1,433 @@
+#14300
+In a Narrow Valley~
+Not much more than a crack in the face of the mountain, this narrow
+valley takes a sharp turn to the south, opening into a dark cave.
+~
+143 0 0 0 0 0
+D1
+~
+~
+0 0 9707
+D2
+~
+~
+0 0 14301
+S
+#14301
+Entrance Passage~
+As you approach the cave-mouth, everything seems quiet. A high passage runs
+a few paces into the rock of the valley-side before turning to the left and
+going out of sight. The passage is tall enough for a giant to pass through.
+~
+143 0 0 0 0 4
+D0
+~
+~
+0 0 14300
+D2
+~
+~
+0 0 14302
+S
+#14302
+Guard Room~
+This is a large cave with a half-dozen piles of filthy straw and other 
+materials toward the east end. One passage leads off to the north, and another
+to the west.
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14301
+D3
+~
+~
+0 0 14303
+S
+#14303
+Junction Cave~
+This medium-sized cave has passages leading off from it in all directions. The
+cave is scattered with a half-dozen piles of straw and rubbish.
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14304
+D1
+~
+~
+0 0 14302
+D2
+~
+door~
+1 0 14306
+D3
+~
+~
+0 0 14311
+S
+#14304
+Barracks~
+The floor of this large cave is scattered with piles of filthy straw and other
+bedding.
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14305
+D2
+~
+~
+0 0 14303
+S
+#14305
+Food Storage~
+This small cave has only one obvious exit. The far end of the cave is piled
+with animal carcasses, chunks of meat, and other unidentified objects. The
+stench in here is overpowering, and the heap of food is covered with small
+beetles, worms and other lowlife.
+~
+143 0 0 0 0 0
+D2
+~
+~
+0 0 14304
+S
+#14306
+Slave Pens~
+This chamber is rectangular, and has clearly been carved out of the living
+rock. There are doors in the north, east and south walls. Huddled in the room
+are several ragged, starved-looking men, chained together and watched over by
+two ogres.
+~
+143 0 0 0 0 0
+D0
+~
+door~
+1 0 14303
+D1
+~
+door~
+1 0 14307
+D2
+~
+door~
+1 0 14308
+S
+#14307
+Slave Mine~
+This rectangular chamber is largely artificial, although the back wall is
+rough-hewn. A crew of ragged, sick-looking men toils feebly under the direction
+of an ogre slave-driver. Here and there, reddish glowing objects hang on the
+wall, casting a fitful and gloomy light on the scene.
+~
+143 0 0 0 0 0
+D3
+~
+door~
+1 0 14306
+S
+#14308
+Passage~
+This passage seems to be natural, but it is high. It is so high that even the
+largest of ogres can pass through without difficulty, but not so high that a
+giant would not have to stoop to get through.
+~
+143 0 0 0 0 0
+D0
+~
+door~
+1 0 14306
+D1
+~
+door~
+1 0 14309
+D3
+~
+door~
+1 0 14310
+S
+#14309
+Beetle Farm~
+This narrow chamber is lit by a reddish glow. The floor is covered by a thick
+layer of debris, and you can see several huge beetles -- each nearly a yard 
+long -- moving about in the rubbish. Each beetle has three glowing lights --
+one on either side of the head, and one near the back of it's abdomen.
+~
+143 0 0 0 0 0
+D3
+~
+door~
+1 0 14308
+S
+#14310
+Slave Workshop~
+This rectangular chamber appears to be a workshop of some kind. There is a
+furnace and anvil on one side, and a range of workbenches against the opposite
+wall. Two starved-looking men work at the furnace under the stern eyes of an
+ogre slave-driver.
+~
+143 0 0 0 0 0
+D1
+~
+door~
+1 0 14308
+S
+#14311
+Ogre Communal Area~
+This large, irregular cavern has a number of exits. The floor is littered with
+gnawed bones and other debris. A group of ogres are gathered around some kind
+of disturbance in the middle of the cavern, jabbering excitedly in their own
+tongue.
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14312
+D1
+~
+~
+0 0 14303
+D2
+~
+~
+0 0 14321
+D3
+~
+~
+0 0 14317
+S
+#14312
+Passage~
+This passage seems to be artificial, for it is perfectly straight along the
+middle and the walls, floor and ceiling are smooth. But it's ceiling is very
+high -- again, high enough for an ogre to walk through with ease but low
+enough for a giant to have to stoop.
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14313
+D2
+~
+~
+0 0 14311
+D3
+~
+~
+0 0 14314
+S
+#14313
+Guardian's Chamber~
+This cavern is irregular in shape, narrowing slightly in the middle, and making
+a hourglass figure. The back of the room is very dark, and you wonder what it
+is that makes it a home.
+~
+143 0 0 0 0 0
+D2
+~
+~
+0 0 14312
+S
+#14314
+Chieftain's Antechamber~
+This chamber is rounded, with one exit to the east and one to the north. Two
+scarred and strong-looking goblins stand beside the northern exit, which has
+a rich tapestry of elvish designs hung upside-down across it. The ogres snarl
+and draw their weapons as you enter.
+~
+143 0 0 0 0 0
+D0
+~
+tapestry~
+1 0 14315
+D1
+~
+~
+0 0 14312
+S
+#14315
+Ogre Emperor's Chamber~
+This oval chamber is luxuriously-appointed compared with the rest of the
+complex. It looks like all the rugs, tapestries, and other soft furnishings
+were stolen from the elvish kingdoms. They are scattered around the cave,
+and a mound of them against the back wall presumably serves the Ogre Emperor
+for a bed.
+~
+143 0 0 0 0 0
+D2
+~
+tapestry~
+1 0 14314
+D3
+~
+door wooden~
+2 14315 14316
+S
+#14316
+Treasure Vault~
+This large, spacious chamber is piled with treasure, which the ogres have
+presumably acquired through their raids upon nearby settlements.
+~
+143 0 0 0 0 0
+D1
+~
+door wooden~
+2 14316 14315
+S
+#14317
+Passage~
+This passage seems to be natural, but it is high. It is so high that even the
+largest of ogres can pass through without difficulty, but not so high that a
+giant would not have to stoop to get through.
+~
+143 1048576 0 0 0 0
+D1
+~
+~
+0 0 14311
+D3
+~
+~
+0 0 14319
+S
+#14318
+Secret Room~
+This room is where the ogre shaman hides his valuables that he doesn't wish
+to share with the Emperor. On hooks along one wall hang several ornate ogre-
+sized robes worked with gold and silver thread. A small chest stands beside
+them and, next to the chest, two staves lean against the wall.
+~
+143 0 0 0 0 0
+D0
+~
+door secret~
+1 0 14317
+S
+#14319
+Shrine~
+This chamber is part natural and part artificial. There are two exits -- one
+in the west wall and one in the east wall. The walls have been crudely drawn
+on by the ogres, using mud and other, more aromatic, substances. The altar
+in the center of the shrine has been chipped, and a skull rests beside it.
+~
+143 0 0 0 0 0
+D1
+~
+~
+0 0 14317
+D3
+~
+~
+0 0 14320
+S
+#14320
+Shaman's Room~
+This irregular cave is largely intact. There is a small cot against one wall,
+and a desk and some shelves stand opposite. The contents of the desk and
+shelves are now strewn across the floor, but the furniture is undamaged.
+~
+143 0 0 0 0 0
+D1
+~
+~
+0 0 14319
+S
+#14321
+Passage~
+This passage seems to be natural, but it is high. It is so high that even the
+largest of ogres can pass through without difficulty, but not so high that a
+giant would not have to stoop to get through.
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14311
+D2
+~
+~
+0 0 14323
+D3
+~
+~
+0 0 14322
+S
+#14322
+Meeting Area~
+This large cavern has a number of exits. A large, flat rock rises up in the
+middle of the cave floor. The cavern is unoccupied but you can hear the sound
+of activity coming from beyond two of the exits.
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14326
+D1
+~
+~
+0 0 14321
+D3
+~
+~
+0 0 14324
+S
+#14323
+Lizard Man Quarters~
+This long, narrow cavern is strewn with piles of straw and debris and has a
+distinct musty smell. There are no other exits.
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14321
+S
+#14324
+Troll Quarters~
+This smallish round cavern has two exits -- one to the east and one to the
+north. There are a few piles of filthy straw and other bits of debris against
+the walls.
+~
+143 0 0 0 0 0
+D0
+~
+~
+0 0 14325
+D1
+~
+~
+0 0 14322
+S
+#14325
+Troll Ambassador's Quarters~
+This small round cave has one pile of relatively clean straw, and only one
+exit to the south.
+~
+143 0 0 0 0 0
+D2
+~
+~
+0 0 14324
+S
+#14326
+Gladiatorial Pit~
+This cavern has been hewn into a roughly square shape, and has a narrow
+walkway around a deep pit in the middle of the room; a rail prevents clumsy
+observers from easily falling into the pit. There are traces of dried blood,
+bones, broken weapons, and other debris in the sand and gravel at the bottom
+of the pit.
+~
+143 0 0 0 0 0
+D2
+~
+~
+0 0 14322
+S
+$~

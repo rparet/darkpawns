@@ -1,0 +1,1731 @@
+#9401
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 9402
+D2
+~
+~
+0 -1 9404
+S
+#9402
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 2727
+D2
+~
+~
+0 -1 9405
+D3
+~
+~
+0 -1 9401
+S
+#9403
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 9404
+D2
+~
+~
+0 -1 9407
+S
+#9404
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9401
+D1
+~
+~
+0 -1 9405
+D2
+~
+~
+0 -1 9408
+D3
+~
+~
+0 -1 9403
+S
+#9405
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9402
+D1
+~
+~
+0 -1 2726
+D2
+~
+~
+0 -1 9409
+D3
+~
+~
+0 -1 9404
+S
+#9406
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 9407
+D2
+~
+~
+0 -1 9411
+S
+#9407
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9403
+D1
+~
+~
+0 -1 9408
+D2
+~
+~
+0 -1 9412
+D3
+~
+~
+0 -1 9406
+S
+#9408
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9404
+D1
+~
+~
+0 -1 9409
+D2
+~
+~
+0 -1 9413
+D3
+~
+~
+0 -1 9407
+S
+#9409
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9405
+D1
+~
+~
+0 -1 2725
+D2
+~
+~
+0 -1 9414
+D3
+~
+~
+0 -1 9408
+S
+#9410
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 9411
+D2
+~
+~
+0 -1 9415
+S
+#9411
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9406
+D1
+~
+~
+0 -1 9412
+D2
+~
+~
+0 -1 9416
+D3
+~
+~
+0 -1 9410
+S
+#9412
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9407
+D1
+~
+~
+0 -1 9413
+D2
+~
+~
+0 -1 9417
+D3
+~
+~
+0 -1 9411
+S
+#9413
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9408
+D1
+~
+~
+0 -1 9414
+D2
+~
+~
+0 -1 3298
+D3
+~
+~
+0 -1 9412
+S
+#9414
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9409
+D1
+~
+~
+0 -1 2712
+D2
+~
+~
+0 -1 3299
+D3
+~
+~
+0 -1 9413
+S
+#9415
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9410
+D1
+~
+~
+0 -1 9416
+D2
+~
+~
+0 -1 9420
+S
+#9416
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9411
+D1
+~
+~
+0 -1 9417
+D2
+~
+~
+0 -1 9421
+D3
+~
+~
+0 -1 9415
+S
+#9417
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9412
+D1
+~
+~
+0 -1 3298
+D2
+~
+~
+0 -1 3293
+D3
+~
+~
+0 -1 9416
+S
+#9418
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 9419
+D2
+~
+~
+0 -1 9423
+S
+#9419
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 9420
+D2
+~
+~
+0 -1 9424
+D3
+~
+~
+0 -1 9418
+S
+#9420
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9415
+D1
+~
+~
+0 -1 9421
+D2
+~
+~
+0 -1 9425
+D3
+~
+~
+0 -1 9419
+S
+#9421
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9416
+D1
+~
+~
+0 -1 3293
+D2
+~
+~
+0 -1 3287
+D3
+~
+~
+0 -1 9420
+S
+#9422
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 9423
+D2
+~
+~
+0 -1 9426
+S
+#9423
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9418
+D1
+~
+~
+0 -1 9424
+D2
+~
+~
+0 -1 9427
+D3
+~
+~
+0 -1 9422
+S
+#9424
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9419
+D1
+~
+~
+0 -1 9425
+D2
+~
+~
+0 -1 9428
+D3
+~
+~
+0 -1 9423
+S
+#9425
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9420
+D1
+~
+~
+0 -1 3287
+D2
+~
+~
+0 -1 3280
+D3
+~
+~
+0 -1 9424
+S
+#9426
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9422
+D1
+~
+~
+0 -1 9427
+D2
+~
+~
+0 -1 9430
+S
+#9427
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9423
+D1
+~
+~
+0 -1 9428
+D2
+~
+~
+0 -1 9431
+D3
+~
+~
+0 -1 9426
+S
+#9428
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9424
+D1
+~
+~
+0 -1 3280
+D2
+~
+~
+0 -1 3272
+D3
+~
+~
+0 -1 9427
+S
+#9429
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 9430
+D2
+~
+~
+0 -1 9432
+S
+#9430
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9426
+D1
+~
+~
+0 -1 9431
+D2
+~
+~
+0 -1 9433
+D3
+~
+~
+0 -1 9429
+S
+#9431
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9427
+D1
+~
+~
+0 -1 3272
+D2
+~
+~
+0 -1 3263
+D3
+~
+~
+0 -1 9430
+S
+#9432
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9429
+D1
+~
+~
+0 -1 9433
+D2
+~
+~
+0 -1 9435
+S
+#9433
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9430
+D1
+~
+~
+0 -1 3263
+D2
+~
+~
+0 -1 3253
+D3
+~
+~
+0 -1 9432
+S
+#9434
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 9435
+D2
+~
+~
+0 -1 9436
+S
+#9435
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9432
+D1
+~
+~
+0 -1 3253
+D2
+~
+~
+0 -1 9437
+D3
+~
+~
+0 -1 9434
+S
+#9436
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9434
+D1
+~
+~
+0 -1 9437
+D2
+~
+~
+0 -1 9439
+S
+#9437
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9435
+D1
+~
+~
+0 -1 3243
+D2
+~
+~
+0 -1 9440
+D3
+~
+~
+0 -1 9436
+S
+#9438
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D1
+~
+~
+0 -1 9439
+D2
+~
+~
+0 -1 9441
+D3
+~
+~
+0 -1 9781
+S
+#9439
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9436
+D1
+~
+~
+0 -1 9440
+D2
+~
+~
+0 -1 9442
+D3
+~
+~
+0 -1 9438
+S
+#9440
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9437
+D1
+~
+~
+0 -1 3233
+D2
+~
+~
+0 -1 9443
+D3
+~
+~
+0 -1 9439
+S
+#9441
+The Shores of a Lake~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9438
+D1
+~
+~
+0 -1 9442
+D2
+~
+~
+0 -1 9444
+D3
+~
+~
+0 -1 9798
+S
+#9442
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9439
+D1
+~
+~
+0 -1 9443
+D2
+~
+~
+0 -1 9445
+D3
+~
+~
+0 -1 9441
+S
+#9443
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9440
+D1
+~
+~
+0 -1 3223
+D2
+~
+~
+0 -1 9446
+D3
+~
+~
+0 -1 9442
+S
+#9444
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9441
+D1
+~
+~
+0 -1 9445
+D2
+~
+~
+0 -1 9447
+D3
+~
+~
+0 -1 9815
+S
+#9445
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9442
+D1
+~
+~
+0 -1 9446
+D2
+~
+~
+0 -1 9448
+D3
+~
+~
+0 -1 9444
+S
+#9446
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9443
+D1
+~
+~
+0 -1 3213
+D2
+~
+~
+0 -1 9449
+D3
+~
+~
+0 -1 9445
+S
+#9447
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9444
+D1
+~
+~
+0 -1 9448
+D2
+~
+~
+0 -1 9450
+D3
+~
+~
+0 -1 9833
+S
+#9448
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9445
+D1
+~
+~
+0 -1 9449
+D2
+~
+~
+0 -1 9451
+D3
+~
+~
+0 -1 9447
+S
+#9449
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9446
+D1
+~
+~
+0 -1 3203
+D2
+~
+~
+0 -1 9452
+D3
+~
+~
+0 -1 9448
+S
+#9450
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9447
+D1
+~
+~
+0 -1 9451
+D2
+~
+~
+0 -1 9453
+D3
+~
+~
+0 -1 9841
+S
+#9451
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9448
+D1
+~
+~
+0 -1 9452
+D2
+~
+~
+0 -1 9454
+D3
+~
+~
+0 -1 9450
+S
+#9452
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9449
+D1
+~
+~
+0 -1 3193
+D2
+~
+~
+0 -1 9455
+D3
+~
+~
+0 -1 9451
+S
+#9453
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9450
+D1
+~
+~
+0 -1 9454
+D2
+~
+~
+0 -1 9456
+D3
+~
+~
+0 -1 9850
+S
+#9454
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9451
+D1
+~
+~
+0 -1 9455
+D2
+~
+~
+0 -1 9457
+D3
+~
+~
+0 -1 9453
+S
+#9455
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9452
+D1
+~
+~
+0 -1 3183
+D2
+~
+~
+0 -1 9458
+D3
+~
+~
+0 -1 9454
+S
+#9456
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9453
+D1
+~
+~
+0 -1 9457
+D2
+~
+~
+0 -1 9459
+D3
+~
+~
+0 -1 9859
+S
+#9457
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9454
+D1
+~
+~
+0 -1 9458
+D2
+~
+~
+0 -1 9460
+D3
+~
+~
+0 -1 9456
+S
+#9458
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9455
+D1
+~
+~
+0 -1 3173
+D2
+~
+~
+0 -1 9461
+D3
+~
+~
+0 -1 9457
+S
+#9459
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9456
+D1
+~
+~
+0 -1 9460
+D2
+~
+~
+0 -1 9462
+D3
+~
+~
+0 -1 9869
+S
+#9460
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9457
+D1
+~
+~
+0 -1 9461
+D2
+~
+~
+0 -1 9463
+D3
+~
+~
+0 -1 9459
+S
+#9461
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9458
+D1
+~
+~
+0 -1 3163
+D2
+~
+~
+0 -1 9464
+D3
+~
+~
+0 -1 9460
+S
+#9462
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9459
+D1
+~
+~
+0 -1 9463
+D2
+~
+~
+0 -1 9465
+S
+#9463
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9460
+D1
+~
+~
+0 -1 9464
+D2
+~
+~
+0 -1 9466
+D3
+~
+~
+0 -1 9462
+S
+#9464
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9461
+D1
+~
+~
+0 -1 3153
+D2
+~
+~
+0 -1 9467
+D3
+~
+~
+0 -1 9463
+S
+#9465
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9462
+D1
+~
+~
+0 -1 9466
+D2
+~
+~
+0 -1 9471
+D3
+~
+~
+0 -1 9877
+S
+#9466
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9463
+D1
+~
+~
+0 -1 9467
+D2
+~
+~
+0 -1 9472
+D3
+~
+~
+0 -1 9465
+S
+#9467
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9464
+D1
+~
+~
+0 -1 3143
+D2
+~
+~
+0 -1 9473
+D3
+~
+~
+0 -1 9466
+S
+#9468
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9875
+D1
+~
+~
+0 -1 9469
+D2
+~
+~
+0 -1 9474
+D3
+~
+~
+0 -1 9883
+S
+#9469
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9876
+D1
+~
+~
+0 -1 9470
+D2
+~
+~
+0 -1 9475
+D3
+~
+~
+0 -1 9468
+S
+#9470
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9877
+D1
+~
+~
+0 -1 9471
+D2
+~
+~
+0 -1 9476
+D3
+~
+~
+0 -1 9469
+S
+#9471
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9465
+D1
+~
+~
+0 -1 9472
+D2
+~
+~
+0 -1 9477
+D3
+~
+~
+0 -1 9470
+S
+#9472
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9466
+D1
+~
+~
+0 -1 9473
+D2
+~
+~
+0 -1 9478
+D3
+~
+~
+0 -1 9471
+S
+#9473
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9467
+D1
+~
+~
+0 -1 3133
+D2
+~
+~
+0 -1 9479
+D3
+~
+~
+0 -1 9472
+S
+#9474
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9468
+D1
+~
+~
+0 -1 9475
+D2
+~
+~
+0 0 12204
+D3
+~
+~
+0 -1 9890
+S
+#9475
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9469
+D1
+~
+~
+0 -1 9476
+D2
+~
+~
+0 0 9632
+D3
+~
+~
+0 -1 9474
+S
+#9476
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9470
+D1
+~
+~
+0 -1 9477
+D2
+~
+~
+0 0 9633
+D3
+~
+~
+0 -1 9475
+S
+#9477
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9471
+D1
+~
+~
+0 -1 9478
+D2
+~
+~
+0 -1 9480
+D3
+~
+~
+0 -1 9476
+S
+#9478
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9472
+D1
+~
+~
+0 -1 9479
+D2
+~
+~
+0 -1 9481
+D3
+~
+~
+0 -1 9477
+S
+#9479
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9473
+D1
+~
+~
+0 -1 3123
+D2
+~
+~
+0 -1 9482
+D3
+~
+~
+0 -1 9478
+S
+#9480
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9477
+D1
+~
+~
+0 -1 9481
+D2
+~
+~
+0 0 9636
+D3
+~
+~
+0 0 9633
+S
+#9481
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9478
+D1
+~
+~
+0 -1 9482
+D2
+~
+~
+0 0 9637
+D3
+~
+~
+0 -1 9480
+S
+#9482
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9479
+D1
+~
+~
+0 -1 3113
+D2
+~
+~
+0 -1 9483
+D3
+~
+~
+0 -1 9481
+S
+#9483
+The Forest~
+This description is yet unfinished...
+~
+94 0 0 0 0 3
+D0
+~
+~
+0 -1 9482
+D1
+~
+~
+0 -1 3105
+D2
+~
+~
+0 0 9641
+D3
+~
+~
+0 0 9637
+S
+$~

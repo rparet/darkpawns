@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1456"
+   name=""
+   committed-date="2008-05-17T17:06:18.100971Z"
+   url="file:///var/svn/trunk/2.2/lib/scripts/mob/122"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1456"
+   name="healer.lua"
+   text-time="2008-05-23T03:43:21.000000Z"
+   committed-date="2008-05-17T17:06:18.100971Z"
+   checksum="03a4f48782c1a13d475279340d3d71b9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:21.000000Z"/>
+</wc-entries>

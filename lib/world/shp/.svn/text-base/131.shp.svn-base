@@ -1,0 +1,76 @@
+CircleMUD v3.0 Shop File~
+#13135~
+-1
+20.00
+0.90
+-1
+%s Sorry, it's in my other coat...~
+%s You don't seem to have that.~
+%s I don't deal in that stuff...~
+%s Uhhh, maybe later...~
+%s So you're a wise guy, eh?  Come back with some cash.~
+%s Quick! Gimmie %d for it, I think I see a guard!~
+%s I'll give you %d coins for that.~
+0
+3
+13107
+1
+1
+-1
+0
+28
+0
+0
+#13136~
+13104
+8051
+13105
+13106
+-1
+5.00
+0.90
+10
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+13104
+0
+13136
+-1
+0
+28
+0
+0
+#13137~
+8050
+-1
+5.00
+0.90
+2
+4
+-1
+%s Go somewhere else, jackass.~
+%s Do I look that stupid?!  Come back when you have it, bitch.~
+%s I don't buy pieces of shit like that.~
+%s I can't afford that!~
+%s Yeah right, get a life, then get some money.~
+%s This is a family heirloom!  I can't sell it for less than 10%d!~
+%s Since I'm a nice guy, I'll take that junk for %d, loser.~
+0
+0
+13105
+1
+13137
+-1
+0
+28
+0
+0
+$~

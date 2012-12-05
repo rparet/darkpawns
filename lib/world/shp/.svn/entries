@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1493"
+   name=""
+   committed-date="2008-05-22T04:44:26.983202Z"
+   url="file:///var/svn/trunk/2.2/lib/world/shp"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1368"
+   name="52.shp"
+   text-time="2000-06-05T05:07:11.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="54.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="c07a08d49d7076a90b39e5509d22f1d0"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="91.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="8d10354c48ad11bfc7e9bb9c35641a42"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="57.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="120.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="04f2060cb16de3044678ca6dfdcb807c"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="121.shp"
+   text-time="2001-01-13T04:30:51.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="a134dd2f46e52fda3cd58f90c2cf087b"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="122.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="124.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="125.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="161.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="8691003b278f75e4adc34201e09fb6c1"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="126.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="162.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="127.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="163.shp"
+   text-time="2000-02-28T04:51:41.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="164.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="165.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="129.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="21.shp"
+   text-time="2000-05-26T20:02:16.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="25.shp"
+   text-time="2001-01-25T06:16:40.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="4bac137291563b13acd736c28b760fc5"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="27.shp"
+   text-time="2000-02-28T04:52:38.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="a236c11cd07bab3c2f522455f3901d85"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="65.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="beb195edab3ae43b52ff699b7383e718"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="0.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="8d10354c48ad11bfc7e9bb9c35641a42"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="131.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="8780f28d8ce184f8f604bc188d633783"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="212.shp"
+   text-time="2002-06-02T00:13:32.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="0ff64382690aac6d808d60576ad74a81"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="214.shp"
+   text-time="2001-01-25T06:16:37.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="index.mini"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="8dcaff72beb38786229412ec127d1251"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="30.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="536224f9e26be06b54c343f7f0bff5cb"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="31.shp"
+   text-time="2000-02-28T04:52:42.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f28cd1673eebcc7e5c9c463511aa3be6"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="33.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="70.shp"
+   text-time="2000-02-28T04:51:45.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="5aa4b44dc655f7a205dde6883d390b76"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="34.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="35.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="36.shp"
+   text-time="2008-03-26T18:55:11.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="300.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="301.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="302.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="140.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5d770d8148c5f6cbbc9580bfa9acc2f"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="303.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="89998d8e1e443ce81ba32d3c5c1d483a"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="223.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="142.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="143.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="225.shp"
+   text-time="2008-02-22T19:17:55.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="180.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="4dbcd5e87b9d442386bc1acf83451601"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="145.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="8d10354c48ad11bfc7e9bb9c35641a42"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="181.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="182.shp"
+   text-time="2002-06-02T00:13:34.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f176e7d609ededa3a9aa328751767bde"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="187.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="9397645ce97973df68d17e3d4cf09ce8"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1449"
+   name="188.shp"
+   text-time="2008-05-23T03:43:23.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:23.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="40.shp"
+   text-time="2000-02-28T04:52:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="41.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="554aba1ce7cdbd0be499846c7c87bf0e"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="42.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="ef3027d18164ea86503774dbb20e94c0"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="43.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="80.shp"
+   text-time="2002-06-02T00:13:36.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="aacaf98249e543b69cdae489def34225"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="47.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="48.shp"
+   text-time="2003-03-20T07:18:08.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="b252c76cb1c1e68dd3bef94d84ee299c"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="150.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="24e24ef475590ed1e52298e7ed40e1d2"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="192.shp"
+   text-time="2008-01-11T06:36:08.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="193.shp"
+   text-time="2008-01-11T06:36:17.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="194.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="8f1cdccbc142ee8eec60f3909dd81b35"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="158.shp"
+   text-time="2000-05-26T20:01:55.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="195.shp"
+   text-time="2008-01-06T21:14:31.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="a1e962b5ec1080a3624ca601c1b942b2"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1493"
+   name="index"
+   text-time="2008-05-23T03:43:23.000000Z"
+   committed-date="2008-05-22T04:44:26.983202Z"
+   checksum="a081523da66bec078bb570d14955c98b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:23.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="10.shp"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="198.shp"
+   text-time="2008-01-11T07:29:35.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="13.shp"
+   text-time="2001-01-25T06:16:28.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="50.shp"
+   text-time="2000-06-05T05:07:08.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="51.shp"
+   text-time="1999-01-01T19:24:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+</wc-entries>

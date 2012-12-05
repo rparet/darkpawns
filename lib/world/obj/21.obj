@@ -1,0 +1,253 @@
+#2100
+fur cloak~
+a fur cloak~
+A cloak of furs, covered in dirt, lies on the ground.~
+~
+11 0 0 0 0 1025 0 0 0
+0 0 0 0
+6 100 20.00
+E
+fur cloak~
+You are not sure what animal this fur comes from, but it certainly keeps you
+warm.
+~
+#2101
+bear claws~
+a set of bear claws~
+A set of bear claws lies here.~
+~
+9 0 0 0 0 129 0 0 0
+2 0 0 0
+3 250 15.00
+E
+bear claws~
+Once belonging to a live creature, these claws fit perfectly over your own
+hands although they are somewhat cumbersome.
+~
+A
+18 1
+#2102
+bronze spear~
+a bronze spear~
+A bronze spear sits impaled in the ground.~
+~
+5 256 0 0 0 8193 0 0 0
+0 4 4 11
+4 125 35.00
+#2103
+wooden pike~
+a wooden pike~
+A wooden pike rests on the ground here.~
+~
+5 149188608 0 0 0 8193 0 0 0
+0 2 5 14
+5 400 45.00
+A
+18 1
+A
+19 1
+#2104
+studded leather whip studs metal~
+a studded leather whip~
+A leather whip with metal studs lies coiled up on the ground.~
+~
+5 68190208 0 0 0 8193 0 0 0
+0 5 2 2
+4 160 20.00
+A
+24 -1
+#2105
+pack small~
+a small pack~
+A small pack lies discarded nearby.~
+~
+15 0 0 0 0 9 0 0 0
+20 0 -1 0
+5 80 45.00
+#2106
+spiked club~
+a spiked club~
+A club with large thorns attached sits nearby.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 5 5
+3 120 45.00
+#2107
+worn chainmail chain mail~
+some worn chainmail~
+Some worn chainmail lies in a heap on the ground.~
+~
+9 1 0 0 0 9 0 0 0
+8 0 0 0
+10 400 35.00
+E
+worn chainmail chain mail~
+Rather nondescript, the armor has been taken from an unfortunate victim.
+~
+A
+26 2
+#2108
+painted wooden shield banner unique~
+a painted wooden shield~
+A shield with a unique banner on it rests on the ground.~
+~
+9 512 0 0 0 513 0 0 0
+5 0 0 0
+7 150 25.00
+E
+painted wooden shield banner unique~
+Emblazoned with a number of colors in the shape of a flag, the shield is a common one
+used by the Dharzi orcs of Noirwood.
+~
+#2109
+tanned leather boots~
+a pair of tanned leather boots~
+A pair of tanned leather boots sits here.~
+~
+9 144978432 0 0 0 65 0 0 0
+3 0 0 0
+3 200 20.00
+#2110
+ornate painted mask~
+a painted mask~
+An ornate mask lies here.~
+~
+11 0 0 0 0 131073 0 0 0
+0 0 0 0
+4 250 10.00
+E
+ornate painted mask~
+The mask has been constructed of wood and is painted in the colors of the
+Dharzi orcs of Noirwood.
+~
+#2111
+amulet darkness silver~
+the amulet of darkness~
+A silver amulet hangs nearby.~
+~
+11 201 0 0 0 5 0 0 0
+0 0 0 0
+2 320 45.00
+A
+23 4
+A
+24 4
+A
+19 -2
+#2112
+king crown~
+a king's crown~
+A king's crown, encrusted with jewels, sits here.~
+~
+8 9 0 0 0 17 0 0 0
+0 0 0 0
+4 600 35.00
+A
+4 1
+#2113
+studded leather collar~
+a studded leather collar~
+A studded leather collar is here.~
+~
+9 0 0 0 0 5 0 0 0
+3 0 0 0
+3 260 10.00
+#2114
+simple wooden sword~
+a simple wooden sword~
+A simple wooden sword has been discarded here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 4 3
+6 60 60.00
+#2115
+fur boots~
+a pair of fur boots~
+A pair of fur boots is here.~
+~
+11 1 0 0 0 65 0 0 0
+0 0 0 0
+2 140 25.00
+E
+fur boots~
+You can't be certain what creature this fur originated from, but the boots
+do look nice.
+~
+A
+1 1
+#2116
+simple wooden staff~
+a wooden staff~
+A simple wooden staff is here.~
+$n swings $p in the air before striking it on the ground.
+~
+4 72925762 0 0 0 16385 0 0 0
+19 1 1 91
+6 400 30.00
+E
+wooden staff simple~
+It looks just like a hunk of wood but has an unnatural glow about it.
+~
+#2117
+gem control ruby~
+the gem of control~
+A large, ruby gem covered in dirt lies on the ground.~
+$n points a large, ruby gem at $N.
+~
+3 67 0 0 0 16385 0 0 0
+19 2 2 76
+3 1500 5.00
+A
+3 1
+#2118
+sturdy chest~
+a sturdy chest~
+A sturdy chest lies here.~
+~
+15 0 0 0 0 0 0 0 0
+20 13 0 0
+200 50 100.00
+#2119
+hoard gold coins~
+a hoard of gold coins~
+A hoard of gold coins is here.~
+~
+20 0 0 0 0 1 0 0 0
+500 0 0 0
+1 1000 85.00
+#2120
+bone club~
+a bone club~
+A large bone has been fashioned into a club.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 6 5
+6 50 100.00
+E
+bone club~
+The creature it once belonged to must have been quite large, but now the
+only thing that remains is this single bone. It has been crudely fashioned
+into a club-like weapon.
+~
+#2121
+collection gem stones gemstones~
+a collection of gemstones~
+A collection of gemstones glitters in the prevailing light.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+4 500 80.00
+#2122
+aged parchament old roll~
+an aged parchament~
+An old roll of parchament lies delicately on the ground.~
+~
+2 0 0 0 0 1 0 0 0
+30 50 0 0
+2 1000 25.00
+E
+aged parchament old roll~
+It is so delicate you dare not handle it too much. There is a few lines of
+text on it which you could recite if you wish.
+~
+$~

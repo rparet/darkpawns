@@ -1,0 +1,419 @@
+#19600
+dragon fountain~
+a fountain~
+A dragon-shaped fountain spurts cool water into the air.~
+~
+23 0 0 0 0 0 0 0 0
+999999 999999 15 0
+1000004 1000 100.00
+E
+dragon fountain~
+The water looks clear and cold, and stems froma source that can only be
+magickal in nature. The craftsmanship of the fountain is undeniably the 
+perfect stonework of dwarven craftsmen.
+~
+#19601
+finely crafted clan bulletin board~
+the NeoSunz bulletin board~
+A finely crafted bulletin board hangs from the wall.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10 1000 100.00
+E
+board~
+Type READ # to read a specific message on the board.
+~
+#19602
+statue beautiful woman nat~
+the statue of the Goddess Nat~
+A statue of the most beautiful woman you have ever seen stands here.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+20 1000 100.00
+E
+statue beautiful woman nat~
+The statue is an interpretation of the Goddess Nat. Due to its holy
+magnificence, you are unable to determine the material from which it has been
+made. She is dressed in nothing but a flowing white robe, her lithe figure
+outlined in its silky material. Her long brown hair lies lazily down her back.
+She is the quintessence of perfection - she holds in one hand a broken sword
+representing peace and in the other hand, three smaller statues.
+
+One is a divine figure dressed in white, wielding a sacred sword with the
+writings of Nat inscribed along its shimmering blade. Another, its counterpart,
+is dressed in black and wields a long thin blade which appears to be as cold
+as ice. The third portrays a younger character whose leather whip drapes at
+his side as he looks at you with the eyes of youthful experience and
+compassion.
+~
+#19603
+pickle jar~
+a pickle jar of water~
+A cart filled with pickle jars of water sits here.~
+~
+23 0 0 0 0 0 0 0 0
+999999 999999 0 0
+1000004 0 100.00
+#19604
+green portal gate~
+a shimmering green portal~
+A shimmering portal of green light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 21202 100.00
+#19605
+violet portal gate~
+a shimmering violet portal~
+A shimmering portal of violet light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 2818 100.00
+E
+statue beautiful woman Nat~
+The statue is an interpretation of the Goddess Nat. Due to its holy
+magnifecence, you are unable to determine the material from which it has been
+made. She is dressed in nothing but a flowing white robe, her lithe figure
+outlined in its silky material. Her long brown hair lies lazily down her back.
+She is the quintessence of perfection - she holds in one hand a broken sword
+representing peace and in the other hand, three smaller statues.
+
+One is a divine figure drssed in white, wielding a sacred sword with the
+writings of Nat inscribed along its shimmering blade. Another, its counterpart,
+is dressed in black and wields a long thin blade which appears to be as cold
+as ice. The third portrays a younger character whose leather whip drapes at
+his side as he looks at you with the eyes of youthful experience and
+compassion.
+~
+#19606
+turquoise portal gate~
+a shimmering turquoise portal~
+A shimmering portal of turquoise light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 18203 100.00
+#19607
+white portal gate~
+a shimmering white portal~
+A shimmering portal of white light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 4886 100.00
+#19608
+orange portal gate~
+a shimmering orange portal~
+A shimmering portal of orange light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 8008 100.00
+#19609
+yellow portal gate~
+a shimmering yellow portal~
+A shimmering portal of yellow light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 14494 100.00
+#19610
+magenta portal gate~
+a shimmering magenta portal~
+A shimmering portal of magenta light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 14107 100.00
+#19611
+black portal gate~
+a shimmering black portal~
+A shimmering portal of black light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+1 14405 100.00
+#19612
+arithrix bulletin board~
+spare~
+The clan bulletin board has been affixed to a nearby wall.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10 1000 100.00
+#19613
+fountain~
+spare~
+A dragon-shaped fountain spurts cool water into the air.~
+~
+23 0 0 0 0 0 0 0 0
+999999 999999 15 0
+1000004 1000 100.00
+#19626
+sacred chao~
+the Sacred Chao~
+Someone has left one of the Sacred Chao on the ground.~
+~
+12 65544 0 0 0 16385 0 0 0
+0 0 0 0
+2 100 100.00
+E
+sacred chao~
+The Sacred Chao is a mystical device used very similar to a key.
+~
+#19627
+finely crafted clan bulletin board~
+the Arithrix bulletin board~
+A finely crafted bulletin board hangs from the wall.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10 100 100.00
+#19628
+carved bone key~
+a carved bone key~
+A key carved from a human bone sits on the floor.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+2 5 100.00
+#19629
+black metallic key~
+a black metallic key~
+A small, metallic black key with the ensignia of Vargus on it sits here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+2 100 100.00
+#19640
+board clan bulletin~
+the Caelitis bulletin board~
+A small wooden bulletin board has been staked into the soft earth.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10 100 100.00
+#19641
+glass glasses scotch wine brandy~
+one of the glasses on the bar~
+Several glasses filled with scotch, wine, and brandy sit on the bar.~
+~
+23 0 0 0 0 0 0 0 0
+5000 5000 5 0
+100005 100 100.00
+#19642
+white gold talisman~
+a lustrous, white gold talisman~
+Someone left a beautiful white gold talisman which is lying here in the dirt.~
+~
+12 1 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+E
+white gold talisman~
+Embedded with diamonds and stones from across the land, this talisman gleams
+with beauty.  The stones have been arranged to form the symbol of a small halo
+soaring with angel wings.
+~
+#19643
+large fountain~
+a large fountain~
+A large fountain carved from blue-streaked marble is here, bubbling merrily.~
+~
+23 0 0 0 0 0 0 0 0
+5000 5000 15 0
+5005 20 100.00
+#19645
+nude fountain~
+a fountain of a nude man~
+A large, marble fountain of a nude man spitting water rests here.~
+~
+23 0 0 0 0 0 0 0 0
+999999 999999 15 0
+1000004 3000 100.00
+E
+fountain nude~
+This statue depicts an awkward looking man in his birthday suit standing on one
+foot and spreading his other limbs out gracefully like a swan.  Water spurts
+out of the mouth of this humanoid, seeping through the cloud and falling to the
+earth below.  Engraved into the base of this fountain are the words "Miltiades
+the intoxicated."
+~
+#19646
+golden halo~
+a small, golden halo~
+A small, golden halo lies here bathing in the sunlight.~
+~
+12 1 0 0 0 1 0 0 0
+0 0 0 0
+3 100 100.00
+E
+golden halo~
+Hovering above your head, this golden halo glistens in the sunlight.  The word
+"Seraphim" has been intricately carved onto the inside of the halo with angel
+wings surrounding the lettering.
+~
+#19647
+stone bird bath~
+an elaborate stone bird bath~
+An elaborate stone bird bath rests in the middle of the garden.~
+~
+23 0 0 0 0 0 0 0 0
+999999 999999 15 0
+0 0 100.00
+E
+bird bath~
+Sculpted from pure sandstone from the desert canyon, this bird bath
+memorializes the great adventurers who have fallen to the depths of the gorge. 
+The purest mineral water is pumped into this sculpture through an underground
+well, providing quality refreshment to the birds and the friars.
+~
+#19650
+titanium key~
+a titanium key~
+A key of titanium has been left here carelessly.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+3 100 100.00
+E
+titanium key~
+It is made from a rather robust metal, suggesting it opens an equally robust
+door.
+~
+#19651
+key castle tower glass~
+a glass key~
+A glass key lies here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+E
+key glass~
+Etched into the glass are the letters "MP".
+~
+#19652
+trinity bulletin board~
+the Trinity bulletin board~
+A finely crafted bulletin board hangs from the wall.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10 0 100.00
+#19653
+statue marble targhee angelfire~
+the marble statue~
+A beautiful statue of marble fills the room.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+10 0 100.00
+E
+plaque~
+It simply reads "Targhee, the holiest of mages and her guardian Angel"
+~
+E
+statue marble targhee angelfire~
+The statue has been exquisitely carved from only the finest of marble. It has
+a large square base with veins of gold coursing through it in an intricate
+pattern. There are two powerful figures side by side and a small plaque on
+the statue's base.
+~
+#19654
+majestic throne bones~
+a throne constructed from bones~
+A majestic throne constructed from human bones sits here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10 1000 100.00
+E
+majestic throne bones~
+The throne has been crafted with great care and commands an air of respect.
+On closer inspection, you realise it has been made from the spines of male
+humans - there is a simple plaque at its base which reads "Hail to our Queen
+Whistler". Carved in neat script at the bottom corner of the plaque are the
+words "...all my love, Ravish..."
+~
+#19665
+skull key~
+a skull-headed key~
+A short metal key with a head resembling a human skull lies here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+2 10 100.00
+#19666
+crafted bulletin knight apocalypse board~
+the Knights of the Apocalypse bulletin board~
+A finely crafted bulletin board hangs from the wall.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+10 100 100.00
+#19676
+basalt key~
+a basalt key~
+A basalt key has been carelessly left here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 10 100.00
+#19677
+finely crafted bulletin board etheral syns~
+the Etheral Syns bulletin board~
+A finely crafted bulletin board hangs from the wall.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+100 100 100.00
+#19678
+statue serpent montezuma~
+a statue~
+A Statue of the Great Serpent Montezuma stands here.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+10 10 100.00
+E
+statue serpent montezuma~
+This once cursed monster ruled the seas, from the far east oceans of Zepcaca
+to the west of Fentero. Led by Sidious, a crew of Titans vanquished the
+powerful creature.
+
+After such a fierce battle, only a few dozen remained standing, their comrades
+slain. The corpse of the foul beast was buried within a deep cave never to
+be seen again.
+
+It wasn't until 10 years later that the Titans began building a magnificient
+castle within this damned, hellish cave.
+~
+#19686
+key iron~
+an iron key~
+A large, iron key has carelessly been left here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+2 50 100.00
+#19695
+rocky key~
+a rocky key~
+A key fashioned from solid rock lies on the ground.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 100 100
+#19696
+fountain penguin~
+a fountain~
+A fountain sits here, crafted into the shape of a penguin.~
+~
+23 0 0 0 0 0 0 0 0
+90000 90000 0 0
+90005 100 100.00
+$~

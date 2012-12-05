@@ -1,0 +1,209 @@
+#4201
+chief chieftain shartu bhyroga~
+Chief Shartu~
+Shartu, Chieftain of the Bhyroga, looks towards you for help.
+~
+A stocky man with blonde hair and deep blue eyes, Shartu looks as if he's
+seen more of the world than his fellow villagers.  His face holds a pained
+look as he thinks of all the tragedies happening now.  His eyes plead
+for your help in freeing him from the terrible ice giants.
+~
+284680 0 0 0 1032 0 0 0 800 E
+20 0 -10 20d5+210 13d4+13
+3 25000
+5 8 1
+Race: 0
+E
+#4202
+shaman bhyroga~
+the Shaman of Bhyroga~
+The Shaman of Bhyroga looks at you oddly.
+~
+   An elderly man, he seems to be stirring something in a cauldron. The stuff
+looks so disgusting, you're almost afraid to ask what it is. He stares at you
+and you wonder if maybe you should leave.
+~
+2059 0 0 0 5256 0 0 0 650 E
+20 0 -10 20d5+210 13d4+13
+123 25000
+8 8 1
+Race: 0
+E
+#4203
+fisherman bhyroga~
+a fisherman~
+A fisherman from Bhyroga is carrying a basket full of fish.
+~
+   A scrawny fisherman is moving about on his daily work. You notice that in
+addition to carrying a fishing pole and a basket full of fish, he also has a
+small saw with a sharp tip. There seems to be something fishy about him.
+~
+72 0 0 0 0 0 0 0 400 E
+11 9 -1 11d5+120 7d4+7
+5 7500
+8 8 1
+Race: 0
+E
+#4204
+woman bhyroga~
+a woman~
+A woman of Bhyroga is wandering around.
+~
+   A blonde haired blue eyed lady, she wanders about doing her daily tasks.
+She seems to have a bag full of all sorts of things, but what they are is 
+anyone's guess.
+~
+200 0 0 0 0 0 0 0 350 E
+9 11 1 9d5+100 4d4+4
+12 4500
+8 8 2
+Race: 0
+E
+#4205
+vendor bhyroga fishseller~
+a vendor~
+A vendor is here, selling fish.
+~
+One of the people of Bhyroga has apparently decided that fishing isn't
+his lot in life, so here he is, SELLING fish.  The poor guy, you can
+almost feel sorry for him - almost.
+~
+2058 0 0 0 0 0 0 0 600 E
+34 -14 -24 34d5+2746 22d4+22
+50 270000
+8 8 1
+Race: 0
+Noise: You hear the harsh voice of a fishmonger hawking his wares.
+E
+#4206
+vendor bhyroga~
+a vendor~
+A vendor is here, selling his wares.
+~
+   One of the fishsellers has apparantly moved up in the world and become a
+genuine vendor. Heck, he might actually have something you want!
+~
+2058 0 0 0 0 0 0 0 600 E
+34 -14 -24 34d5+2746 22d4+22
+2000 270000
+8 8 1
+Race: 0
+E
+#4207
+warrior bhyroga~
+a Bhyroga warrior~
+A warrior of the Bhyroga is here, defending his town.
+~
+   This guy's armed to the teeth!!! He looks as if he is going to single-
+handedly take on all the giants by himself. You doubt this is true, but he
+does look pumped up and ready for action.
+~
+268360 0 0 0 0 0 0 0 800 E
+15 5 -5 15d5+160 10d4+10
+50 14000
+8 8 1
+Race: 0
+E
+#4208
+child bhyroga~
+a child~
+A small child is wandering about.
+~
+   Awwwww, such a cute little thing...
+~
+204 0 0 0 0 0 0 0 1000 E
+6 14 4 6d5+70 3d4+3
+1 1500
+8 8 0
+Race: 0
+E
+#4209
+dragon ice kaerdein~
+Kaerdein the Ice Dragon~
+A dragon as white and clear as ice rises up before you.
+~
+   This dragon, known as Kaerdein is the ice dragon that has terrorized this
+region in times past. He's not old, only heard of within the last 100 years,
+and he has been hibernating for the last 30, so little is known about him. The
+younger people in Bhyroga think of him as a myth now, but their elders know
+he is out here somewhere, and dread his return.
+~
+8456251 0 0 0 9352 0 0 0 -1000 E
+39 -19 -29 39d5+5661 30d4+26
+0 375000
+8 8 1
+BareHandAttack: 8
+Race: 10
+E
+#4210
+rabbit white~
+the rabbit~
+A small rabbit scurries through the snow.
+~
+   This rabbit has completely white fur, brown eyes, and a pink nose. It
+looks scared as it sees you, at dashes for cover.
+~
+140 0 0 0 524288 0 0 0 0 E
+1 19 -9 1d5+20 0d2+0
+0 50
+8 8 0
+BareHandAttack: 8
+Race: 15
+E
+#4211
+vendor bhyroga fishseller~
+a vendor~
+A vendor is here, selling fish.
+~
+   One of the people of Bhyroga has apparantly decided that fishing isn't his
+lot in life, so here he is, SELLING fish. The poor guy, you can almost feel
+sorry for him.... almost.
+~
+2058 0 0 0 0 0 0 0 600 E
+34 -14 -24 34d5+2746 22d4+22
+2000 270000
+8 8 1
+Race: 0
+E
+#4212
+vendor bhyroga~
+a vendor~
+A vendor is here, selling his wares.
+~
+   One of the fishsellers has apparantly moved up in the world and become a
+genuine vendor. Heck, he might actually have something you want!
+~
+2058 0 0 0 0 0 0 0 600 E
+34 -14 -24 34d5+2746 22d4+22
+2000 270000
+8 8 1
+Race: 0
+E
+#4213
+giant ice~
+an ice giant~
+A menacing ice giant glares at you.
+~
+   He's huge! He's made of ice! He's an ice giant!
+~
+2156 0 0 0 1024 0 0 0 -800 E
+17 3 -7 17d5+180 11d4+11
+23 18000
+8 8 1
+Race: 18
+E
+#4214
+uglar giant ice chieftain~
+Uglar, the Ice Giant Chieftain~
+A huge ice giant towers over you.
+~
+This ice giant brings a whole new definition to the word giant. He's 30 feet
+tall and looks ready to pound you into a pulp.
+~
+22636 0 0 0 1032 0 0 0 -800 E
+20 0 -10 20d5+210 13d4+13
+76 25000
+8 8 1
+Race: 18
+E
+$

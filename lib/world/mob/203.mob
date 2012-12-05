@@ -1,0 +1,179 @@
+#20301
+bakhna rakhna goblin albino humanoid creature~
+a bakhna rakhna~
+A small, white, goblin-like creature skulks around here.
+~
+He looks like a goblin, except he is pale white in color and his ratty hair is
+a light shade of yellow. He has a flat face and sloping forehead, with a broad
+nose and pointed ears, his wide mouth is filled with sharp fangs. He is short,
+but lanky and his long arms hang to his knees.
+~
+1048780 0 0 0 262144 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+0 4500
+8 8 1
+BareHandAttack: 8
+Race: 27
+E
+#20302
+olab~
+an olab~
+One of the strange, reptilian olab stands here.
+~
+Olab are essentially reptilian but with feathery crests and neck wattles,
+though their faces are almost human. Their forelegs are like the arms and
+hands of men, but their hindlegs are incredibly long and storklike. Balanced
+on these legs, it's body towers over you.
+~
+1050732 0 0 0 132160 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+3 6000
+8 8 0
+BareHandAttack: 8
+Race: 27
+E
+#20303
+mist giant creature~
+the Mist Giant~
+A giant mist creature is here, waiting for it's next victim.
+~
+It's white, like mist, yet somehow darker. It stretches high above your head.
+It is nearly eight feet tall and almost as broad. Two eyes, the color of thin,
+yellow wine, are set high in the creature's body, though it has no separate
+head. A mouthing, obscene slit, filled with fangs lie just beneath the eyes.
+It has no nose or ears that you can see. Four appendages spring from it's
+upper parts and it's lower body slithers along the ground, unsupported by any
+limbs.
+~
+1566840 0 0 0 1218 0 0 0 -999 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 0
+BareHandAttack: 6
+E
+#20304
+hunting dog dharzi~
+a hunting dog of the Dharzi~
+A hunting dog of the Dharzi is sniffing a tree here.
+~
+It first appears to be a dog, but this is no dog, it is half dog and half
+bird, with a lean, shaggy body and legs but also possessing birdlike
+talons in place of paws and savagely curved beaks which snap where muzzles
+should be.  These strange creatures have been domesticated by the Dharzi
+orcs, the only thing that the dogs won't attack. Unfortunately, you don't
+appear to be a Dharzi orc.
+~
+1050856 0 0 0 164872 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 1
+BareHandAttack: 4
+E
+#20501
+orc scout~
+an orc scout~
+An orc scout hides in some brush here.
+~
+He is a pig headed humanoid that looks about as intelligent as one of your
+boots.  Blood stained tusks jut out around his vile pink snout.
+~
+1048680 0 0 0 8650752 0 0 0 -400 E
+8 12 2 8d5+90 4d4+4
+5 3500
+8 8 1
+Race: 27
+Noise: Some leaves crunch behind you.
+E
+#20502
+orc ~
+an orc~
+A pig-headed orc stands here, peering through the trees.
+~
+His hairy face is painted with crude war paint, and he looks like he's been
+trained for battle all his life.
+~
+1048680 0 0 0 0 0 0 0 -600 E
+9 11 1 9d5+100 4d4+4
+10 4500
+8 8 1
+Race: 27
+E
+#20503
+orc commander~
+an orc commander~
+A tall, well-muscled orc stands here.
+~
+His garb shows him to be of a commander's rank; you suppose this mean he has
+an intellegence greater than his orcish comrades, yet much less than your
+average humanoid.  He does appear strong however, and there is the look
+of blood lust and death in his eyes.
+~
+1310824 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+20 6000
+8 8 1
+Race: 27
+E
+#20701
+piranha bird~
+a piranha bird~
+A strange-looking bird flies around you here.
+~
+It looks like a bird, but instead of a head, it's face seems to grow out of
+the front of its body, and instead of a beak, it has a mouth full of sharp,
+razor-like teeth. Its body is covered in an entire spectrum of different
+colored feathers.
+~
+1146984 0 0 0 67273736 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 0
+BareHandAttack: 4
+Race: 24
+E
+#20702
+darkwing~
+a darkwing~
+A scaled and winged darkwing dives towards you.
+~
+It has a scaly green body and leathery black wings. Its claws are long and
+sharp, and its mouth is filled with vicious, sharp teeth.
+~
+1114344 0 0 0 67273736 0 0 0 -750 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+BareHandAttack: 8
+E
+#20703
+imp wood~
+a wood imp~
+A short, green-skinned imp circles you in anticipation.
+~
+It stands about two feet tall and seems to have numerous twigs and leaves
+tangled in its wild, wood-brown hair. Its little face is almost perfectly
+round and bears a gaping slit of a mouth filled with needle-like teeth.
+~
+1048812 0 0 0 427016 0 0 0 -500 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+BareHandAttack: 8
+E
+#20704
+takisur~
+a takisur~
+A takisur charges towards you.
+~
+The origins of this creature are unknown, but it is assumed that it is the
+result of some mad wizards experiments. It is a nightmarish creature, the size
+of a large bull, with the head of a giant snake, the feet of a tortoise, thick
+green fur, and a horses tail.
+~
+3473512 0 0 0 1049608 0 0 0 -900 E
+11 9 -1 11d5+120 7d4+7
+0 7500
+8 8 0
+BareHandAttack: 4
+E
+$

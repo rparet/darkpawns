@@ -1,0 +1,189 @@
+#14100
+Troll~
+a big, mean troll~
+A hungry troll stands near a boiling cauldron.
+~
+The troll's hide is a nauseating moss green, mottled with green and grey.
+The writhing hair-like growth on the troll's head is iron grey and the troll's
+eyes are a dull black.
+~
+171 0 0 0 1032 0 0 0 -500 E
+20 0 -10 20d5+210 13d4+13
+22 25000
+8 8 1
+BareHandAttack: 8
+Race: 6
+E
+#14101
+Medusa Echidna~
+Echidna, the greater medusa~
+Echidna the greater medusa stares at you as you enter the room.
+~
+Her petrifying gaze can even kill gods.. Don't look at her!
+~
+15 0 0 0 128 0 0 0 -1000 E
+31 -11 -21 31d5+997 20d4+20
+1 90000
+8 8 2
+E
+#14102
+maedar glyphar medusa male man~
+Glyphar the maedar~
+Glyphar the maedar stands here.
+~
+His petrifying gaze can even kill gods... Don't look at him!
+~
+591931 0 0 0 1192 0 0 0 -1000 E
+34 -14 -24 34d5+2746 22d4+22
+400 270000
+8 8 1
+BareHandAttack: 9
+Race: 27
+E
+#14103
+snake large giant~
+a large snake~
+A large snake slithers around here.
+~
+Covered in a diamond-shaped pattern of sanguine scales, it's both a beauty
+and a terror to behold. A forked tongue the size of your forearm whips in and
+out of it's mouth, silently tasting the air.. and your scent with it.
+~
+602137 0 0 0 128 0 0 0 -1000 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#14105
+Ghost image~
+a ghost~
+A transparent image dances here.
+~
+You can barely see it.
+~
+41544 0 0 0 263176 0 0 0 -1000 E
+23 -3 -13 23d5+253 15d4+15
+1 32500
+8 8 0
+BareHandAttack: 9
+Race: 9
+E
+#14106
+spectre image woman~
+a spectre~
+A transparent image is sitting here, brushing her hair.
+~
+You can barely see her, but from what you can see, she looks like a very
+beautiful woman.
+~
+43050 0 0 0 263304 0 0 0 -1000 E
+28 -8 -18 28d5+368 18d4+18
+1 50000
+8 8 2
+BareHandAttack: 8
+Race: 9
+E
+#14107
+skeleton~
+a skeleton~
+A skeleton is here, toasting his comrades.
+~
+It's almost a complete skeleton, with only a few bits of flesh clinging to
+age blackened bones.
+~
+41000 0 0 0 1032 0 0 0 -500 E
+16 4 -6 16d5+170 10d4+10
+1 16000
+8 8 1
+Race: 9
+E
+#14108
+wraith~
+a wraith~
+A wraith is hiding here.
+~
+You can't see it.
+~
+41018 0 0 0 525482 0 0 0 -1000 E
+29 -9 -19 29d5+391 19d4+19
+1 55000
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#14109
+ghoul~
+a ghoul~
+An ugly ghoul stands here, stirring a cauldron.
+~
+BOY IS HE UGLY!
+~
+14 0 0 0 1032 0 0 0 -1000 E
+22 -2 -12 22d5+230 14d4+14
+1 30000
+8 8 1
+Race: 9
+E
+#14110
+Lothar Vampire Lord~
+Lothar the Vampire Lord~
+Lothar the Vampire Lord stands here, waiting for you.
+~
+   He's tall and lean, with a handsomely muscled waist. His hair is blond and
+cut so that it falls across his brow with practiced nonchalance. His eyes
+are electric blue, cold as witchfire. They are the eyes of a white tiger on
+the prowl.
+~
+43067 0 0 0 1192 0 0 0 0 E
+31 -11 -21 31d5+997 20d4+20
+1 90000
+8 8 1
+Race: 8
+E
+#14127
+small snake demonic~
+a small snake~
+A small snake slithers around here.
+~
+It's a small, black snake, no more around than your thumb, but it's eyes glow
+with a fierce red light, and as it looks at you a chill runs up your spine.
+~
+260137 0 0 0 951336 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#14198
+one energy~
+the One~
+An amorphous body of crackling black energy fills the room.
+~
+The One is an extradimensional entity that the ancients said was older
+than our own world.  It is intelligent and completely evil, it survives
+by devouring the energy from entire worlds.
+~
+92186 0 0 0 9384 0 0 0 -1000 E
+35 -15 -25 35d5+3329 23d4+23
+0 360000
+8 8 0
+Race: 19
+E
+#14199
+tak an la minion serapis~
+Tak~
+Tak screams, 'Tak an la! Tak an la!'
+~
+Serapis's most powerful minion and guardian.
+~
+8456250 0 0 0 1192 0 0 0 -1000 E
+40 -20 -30 40d5+6244 26d4+26
+6000 400000
+8 8 1
+BareHandAttack: 9
+Race: 19
+E
+$

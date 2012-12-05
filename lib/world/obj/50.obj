@@ -1,0 +1,35 @@
+#5000
+dagger glass~
+a glass dagger~
+A fine, glass dagger rests spoked in the ground here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 2 11
+1 100 100.00
+E
+glass dagger~
+This blade seems to be polished to transparency.  Hilted with a leather
+pommel, this foot-long weapon seems combat worthy.
+~
+#5001
+water bottle glass~
+a glass bottle~
+A glass bottle lies here, corked.~
+~
+17 0 0 0 0 1 0 0 0
+10 10 15 0
+15 10 50.00
+E
+bottle glass~
+This bottle appears to be suitable for keeping liquids from evaporating
+in the sun.
+~
+#5002
+scimitar sword~
+a scimitar~
+A scimitar lies here, its curved blade smooth and sharp.~
+~
+5 0 0 0 0 8193 0 0 0
+0 4 2 3
+10 180 100.00
+$~

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1523"
+   name=""
+   committed-date="2008-06-20T20:24:47.938361Z"
+   url="file:///var/svn/trunk/2.2/lib/scripts/mob"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1523"
+   name="never_die.lua"
+   text-time="2008-07-09T01:02:48.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="42cb9b988d4a795006959ccf3dc01740"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:48.000000Z"/>
+<entry
+   name="archive"
+   kind="dir"/>
+<entry
+   committed-rev="1429"
+   name="no_move.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:44:09.629479Z"
+   checksum="99d39755605e2e0a951cb1095620a653"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   name="30"
+   kind="dir"/>
+<entry
+   name="122"
+   kind="dir"/>
+<entry
+   name="212"
+   kind="dir"/>
+<entry
+   name="144"
+   kind="dir"/>
+<entry
+   committed-rev="1523"
+   name="dog.lua"
+   text-time="2008-07-09T01:02:48.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="7300c52d3b4ff0c891d2bc463f2032d8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:48.000000Z"/>
+<entry
+   committed-rev="1456"
+   name="assembler.lua"
+   text-time="2008-05-23T03:43:21.000000Z"
+   committed-date="2008-05-17T17:06:18.100971Z"
+   checksum="f55d21ce6a1f41d037825ced533ae230"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:21.000000Z"/>
+</wc-entries>

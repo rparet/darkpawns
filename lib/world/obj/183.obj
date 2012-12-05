@@ -1,0 +1,179 @@
+#18300
+book red~
+a red leather-bound book~
+A red book lies on the table here.~
+~
+13 1 0 0 0 0 0 0 0
+0 0 0 0
+9999 0 100.00
+E
+book diary~
+                   The Diary of Orodreth the Mage 
+The diary mentions Orodreth's addiction to games and puzzles, and his attempts 
+to make them life-size. Evidently the black portal here leads to a large 
+labyrinth, and the red one leads to a huge checkboard.  Recalling past rumors, 
+you remember that after Orodreth found the secret to immortality, his creations 
+became infested with evil creatures and warped sentinence.
+~
+#18301
+feather~
+a Large Golden Feather~
+A large, gold colored, solid feather has been left here.~
+~
+18 3 0 0 0 18436 0 0 0
+2 0 0 0
+1 0 100.00
+E
+feather~
+This is a large feather shaped object that is solid and very pretty.
+~
+#18302
+cape checkered~
+a checkered cape~
+A checkered cape has been tossed here.~
+~
+11 64 0 0 0 1025 0 0 0
+0 0 0 0
+4 250 15.00
+A
+3 1
+#18303
+shield checkered~
+a checkered shield~
+A checkered shield has been dropped here.~
+~
+9 64 0 0 0 513 0 0 0
+3 0 0 0
+8 250 15.00
+A
+3 1
+#18304
+bag orodreth~
+Orodreth's Bottomless Bag~
+A smallish looking bag is lying here.~
+~
+15 0 0 0 0 1 0 0 0
+500 7 -1 0
+40 10000 1.00
+#18305
+single red rose~
+a single red rose~
+A single red rose is resting here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 5 5
+#18307
+rose glasses~
+a pair of rose colored glasses~
+A pair of rose colored glasses sits, folded up, here.~
+~
+9 0 0 0 0 131073 0 0 0
+0 0 0 0
+1 10000 0.00
+E
+glasses rose~
+As you peer upon the gold rims and the faint red glass plates that they
+hold you remember a long forgotten story about a god who would only look
+at the world through rose colored glassed.  Maybe these are those same
+glasses?
+~
+#18308
+boots black leather~
+a pair of black, leather boots~
+A pair of black, leather boots with silver insets is here.~
+~
+9 65536 0 0 0 65 0 0 0
+25 0 0 0
+2 10000 0.00
+#18309
+pants black~
+a pair of black pants~
+A pair of slightly dusty black pant is here.~
+~
+9 0 0 0 0 33 0 0 0
+50 0 0 0
+2 10000 0.00
+E
+pants~
+They are slightly dusty and well used, as if worn on a long journey, but
+are amazingly resilient.
+~
+#18310
+sword katana bone~
+a bone handled katana~
+A sharp sword with a long blade and bone handle is lying here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 12 10 3
+3 6000 6000
+A
+18 5
+A
+19 5
+#18311
+white tunic~
+a clean white tunic~
+A clean, pressed white tunic is here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+1 0 100.00
+#18312
+black leather duster~
+a black, leather duster~
+A black, leather duster is crumpled up here.~
+~
+9 0 0 0 0 1025 0 0 0
+50 0 0 0
+5 0 100.00
+#18313
+rune stone orodreth~
+the Rune Stone of Orodreth~
+A powerful rune stone hovers slightly off the ground here.~
+~
+1 33619969 0 0 0 16385 0 0 0
+0 0 -1 0
+10 10000 100.00
+E
+rune stone~
+This is the fabled Rune Stone of Orodreth.  Legends claim that this small
+piece of glowing rock bestows the blessings of the god Orodreth upon the
+bearer. The stone is small, fitting in the palm of your hand- but is
+very heavy.  Indecipherable symbols are ornately carved onto the stone.
+~
+A
+26 3
+A
+27 3
+A
+28 3
+#18314
+khanda~
+a khanda~
+A small stone piece in the shape of a khanda is here.~
+~
+8 65544 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+E
+khanda~
+It is an ornate shape consisting of four symbolic weapons.  In the center is
+a double edged sword from which the symbol derives its name.  Surrounding that
+is a circular quoit.  On either side there are crossed kirpans, or daggers.
+~
+#18315
+black cash hat~
+a black cash hat~
+A wide brimed, black cash hat is here.~
+~
+0 0 0 0 0 17 0 0 0
+0 0 0 0
+1 0 100.00
+E
+black cash hat~
+This wide brimed cash hat is made of smooth fur felt.  It has a black
+leather band around the crown.  Time itself has worn upon it, but the
+material and craftsmanship have allowed it to stand up amazingly well.
+~
+$~

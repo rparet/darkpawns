@@ -1,0 +1,39 @@
+#4500
+axe double bladed~
+a double-bladed axe~
+A huge double-bladed axe lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 4 3 3
+28 200 20.00
+#4501
+feather~
+a harpy feather~
+A nasty feather has been dropped here.~
+~
+12 64 0 0 0 16385 0 0 0
+0 0 0 0
+1 300 20.00
+A
+14 10
+#4502
+helm rusty~
+a rusty helm~
+A rusty helm lies here.~
+~
+9 0 0 0 0 17 0 0 0
+3 0 0 0
+4 100 20.00
+#4503
+talisman skeletal~
+a skeletal talisman~
+A talisman with a dancing skeleton on it has been left here.~
+~
+11 65 0 0 0 5 0 0 0
+0 0 0 0
+1 500 20.00
+A
+3 1
+A
+24 -3
+$~

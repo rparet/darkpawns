@@ -1,0 +1,580 @@
+#14100
+Temple and Crypt Map Room~
+Type look crypt for a map of the crypt.
+Type look temple for a map of the temple.
+~
+141 512 0 0 0 0
+S
+#14101
+The Entrance To Paphoset's Temple~
+   A pair of matched, semicircular projections, each about 50 feet high and
+pierced by long, thin windows provides entry to the structure. Sand enters the
+chamber through the base of these windows, spilling into the foyer like a vast
+waterfall.
+~
+141 12 0 0 0 10
+D0
+You see the Temple of Paphoset.
+~
+~
+0 -1 14102
+D2
+To the south you see the desert.
+~
+~
+0 -1 11435
+S
+#14102
+The Foyer Of The Temple Of Paphoset~
+   The vast width of this chamber is difficult to determine, even in daylight,
+and the shadowy reaches of the far walls are not revealed by torches. The
+air is thick with dust, making breathing difficult.
+   A massive stone head can be seen below against the opposite wall of the
+chamber, partially covered by sand. Most features of the grim countenance are
+worn away, but the figure still reflects great power, and the enormous
+statue is and awe-inspiring creation, indicative of the advancement of the
+culture that created it.
+~
+141 8 0 0 0 1
+D0
+At the northern end of the foyer is an entrance leading to the atrium.
+~
+~
+0 -1 14103
+D2
+To the south you see the entrance to the temple.
+~
+~
+0 -1 14101
+S
+#14103
+The Atrium~
+   The most prominent feature of this cavernous chamber is the set of eight
+huge columns, the bases of which are statues of kneeling gods, and wonders
+of design and craftmanship. Climbing to twenty feet in height, each base
+features a figure with a beastly head atop a human body, with hieroglyphics
+identifying the figure. A set of stairs leads down.
+~
+141 8 0 0 0 1
+D0
+To the north you can see a shrine.
+~
+~
+0 -1 14110
+D2
+To the south you see the room you were just in.
+~
+~
+0 -1 14102
+D5
+A set of stairs leads down into a trophy room.
+~
+~
+0 -1 14104
+S
+#14104
+The Trophy Room~
+   The contents of this room are a testament to the peak of Paphoset's power
+before his descent into madness. Lining the walls are spears, shields and
+other spoils of battle, all of unusual, antiquated design. The heraldry
+and weapon-craft of dozens of long-dead cultures are preserved here. A set
+of stairs leads up.
+~
+141 8 0 0 0 1
+D3
+To the west you can see the archives.
+~
+~
+0 -1 14105
+D4
+Up the set of stairs you see the atrium.
+~
+~
+0 -1 14103
+S
+#14105
+Archives~
+   This chamber was designed to house books, scrolls, and artwork glorifying
+Paphoset, and to preserve detailed records of his words and deeds as a god.
+Obviously, this room was not used for long, for Paphoset never reached his 
+goal of divine ascension. All books glorifying the king at the expense of Set
+and other gods were destroyed long ago. The room is now barren.
+~
+141 8 0 0 0 1
+D0
+To the north is the chapel.
+~
+~
+0 -1 14106
+D1
+To the east is a trophy room.
+~
+~
+0 -1 14104
+S
+#14106
+The Chapel~
+   This was the most heavily used chamber in the temple complex before the
+cataclysm, and was the first to be completed. Continuous prayers to Paphoset
+were once uttered here by his priests. Ruins of a marble altar line the west
+wall.
+~
+141 8 0 0 0 1
+D0
+To the east you see a wide corridor.
+~
+~
+0 -1 14107
+D2
+To the south you see the archives.
+~
+~
+0 -1 14105
+S
+#14107
+Corridor~
+   This ten foot wide hallway is filled with dust, cobwebs, and crumbled rock,
+appearing to have been unused for many years. The walls feature faded,
+cracked paintings of Paphoset's great achievements, portrayed in both literal
+and symbolic fashion. While the specifics of these scenes are not discernible,
+a common theme seems to be powerful beings of varied types paying homage to
+a human king.
+~
+141 8 0 0 0 1
+D0
+To the north is a large gallery.
+~
+~
+0 -1 14108
+D2
+To the south is a chapel
+~
+~
+0 -1 14106
+S
+#14108
+The Gallery~
+   This long hall is lined with tall columns covered with dozens of slithering,
+jet-black snakes. They seem to regard you with interest but whenever you
+approach a patch of them, they disperse.
+~
+141 8 0 0 0 1
+D0
+To the north must be the receiving room.
+~
+~
+0 -1 14109
+D2
+To the south you see a long corridor.
+~
+~
+0 -1 14107
+S
+#14109
+Receiving Room~
+   This chamber, once used by Paphoset to greet important worshipers and 
+other dignitaries, is dominated by an obsidian platform atop which rests a 
+heavy wooden chair, ornate in design and decoration.   
+~
+141 12 0 0 0 0
+D2
+To the south you see the gallery.
+~
+~
+0 -1 14108
+S
+#14110
+The Shrine~
+   In the center of this semicircular, domed chamber stands an empty, 8'-high
+pedestal. Atop the pedestal is a circular depression designed to hold the
+base of a statue. Paphoset intended his likeness to be placed here, where
+statues of the divinities, like vassals, would bow their heads in homage,
+there is a message carved on the front of the pedestal.
+~
+141 8 0 0 0 1
+D2
+~
+~
+0 0 14103
+D5
+~
+~
+0 -1 14111
+E
+message~
+"Behold me in my splendor, king of kings, feared by the gods and worshipped
+by man.  I am Paphoset, master of all I survey."
+~
+S
+#14111
+Paphoset's Sanctuary~
+   This lavish, columned room was built to accommodate great lethargy, for the
+most distinctive features are a plush divan and many soft, silken cushions,
+all set on a large, raised platform at the far end of the chamber. This
+luxury is in stark contrast to the room's repulsive inhabitant.
+~
+141 8 0 0 0 1
+D0
+To the north is the treasury.
+~
+~
+1 -1 14112
+D4
+A set of stairs lead up to the shrine.
+~
+~
+0 -1 14110
+S
+#14112
+The Treasure Vault~
+   Designed to be Paphoset's treasury, this secret room now serves as his
+sepulcher. His petrified corpse rests against the northwest corner, 
+surrounded by his riches.
+~
+141 8 0 0 0 1
+D2
+To the south is Paphoset's sanctuary.
+~
+~
+1 -1 14111
+E
+statue corpse~
+   The statue's unusual, porous stone and it's expression of horror indicate 
+immediately that it is one of Echidna's victims.
+~
+S
+#14120
+Entry Chamber~
+   This room is designed as the entry into the crypt. It is made of marble
+and has faded paintings, depicting some of Lothar's lesser deeds, along the
+walls. Two marble benches, one along each wall, are here, to allow those
+who would come and pay their respects to Lothar the chance to rest and
+compose themselves before they continue.
+~
+141 9 0 0 0 0
+D1
+~
+~
+0 0 14121
+D3
+~
+~
+0 0 9897
+S
+#14121
+The Grand Hall~
+   This room is decked out as a great banquet hall, a place for Lothar and his
+noble companions to have great feasts in the afterlife. There is a long
+table in the center of the room with twelve stout, wooden chairs. The table
+and the chairs are all lavishly decorated with carvings of wild game. The 
+walls contain displays of weapons and shields. The displays are old and
+rusting, and it is obvious that there is nothing of any value there.
+~
+141 9 0 0 0 0
+D1
+~
+~
+0 0 14123
+D2
+~
+~
+0 0 14122
+D3
+~
+~
+0 0 14120
+S
+#14122
+The Kitchen~
+   This room is decked out as a kitchen. Why a crypt needs a kitchen is a
+mystery. The kitchen contains a fireplace, storage cabinets, pots and pans-
+everything that a real kitchen would have.
+~
+141 9 0 0 0 0
+D0
+~
+~
+0 0 14121
+S
+#14123
+The Ballroom~
+   Apparently, whoever designed this crypt thought that dead men entertained,
+because this room is set up as a nice ballroom. Giant candle chandeliers 
+dangle from the ceiling. The candles are unlit but the candle holders 
+glow with an unearthly, dark light. There are no furnishings in this room
+but the walls are decorated with more faded paintings, showing more of
+Lothar's brave deeds.
+~
+141 9 0 0 0 0
+D0
+~
+door~
+1 0 14124
+D1
+~
+door~
+1 0 14126
+D2
+~
+door~
+1 0 14125
+D3
+~
+~
+0 0 14121
+S
+#14124
+Storage~
+This room is used for storing goods one would need to host a party. Punch
+bowls, food trays and the like.
+~
+141 9 0 0 0 0
+D2
+~
+door~
+1 0 14123
+S
+#14125
+Storage~
+   This room holds all the rotting musical instruments that a group of 
+minstrels might need to make dance music.
+~
+141 9 0 0 0 0
+D0
+~
+door~
+1 0 14123
+S
+#14126
+The Dressing Room~
+   In keeping with the house motif, this chamber is appointed as a dressing
+room. To the left of the door is a table and a dresser with a mirror hung
+over the table. A small stool is near the table. On the left side of the door
+is a chest of drawers and a wardrobe.
+~
+141 9 0 0 0 0
+D1
+~
+~
+0 0 14127
+D3
+~
+door~
+1 0 14123
+S
+#14127
+The Bed Chamber~
+   This room is set up as a bed chamber. This is a very large room, perhaps
+100 feet by 100 feet. All the way at the end is a bed with a body lying on it.
+~
+141 9 0 0 0 0
+D3
+~
+~
+0 0 14126
+S
+#14130
+The Hall of Mirrors~
+   You suddenly find yourself in a brightly lit room surrounded by hundreds of
+people. You feel dizzy and disoriented. As your eyes adjust to the brightness,
+you realize that you are actually in a room filled with mirrors and the other
+figures you thought you saw are only reflections.
+~
+141 12 0 0 0 0
+S
+#14131
+The Pause That Refreshes~
+   In contrast to the hall of mirrors, this room is gloomy and dark. As your
+eyes adjust to the dim and mistly light radiating from the walls, you see a
+very large room. Your attempts to orient yourself to your surroundings are cut
+short by the sight of movement a far corner.
+~
+141 0 0 0 0 0
+S
+#14132
+Crypts~
+Empty~
+141 0 0 0 0 0
+D2
+~
+portcullis~
+1 0 14131
+D5
+~
+slab~
+1 0 14133
+S
+#14133
+Treasury~
+Empty~
+141 1 0 0 0 0
+D4
+~
+slab~
+1 0 14132
+S
+#14150
+A Narrow Space Between Mountains~
+You are on a thin trail that lies between two mountains. If attacked here, the
+space would be hard to defend, but you feel safe here, and for some reason
+believe that the danger is all ahead. To the north the trail continues and to
+the south lies the forest.
+~
+141 260 0 0 0 5
+D0
+~
+~
+0 0 14151
+D2
+~
+~
+0 0 15103
+S
+#14151
+A Wide Space Between Mountains~
+The trail between the mountains widens here, and ahead you can see a large,
+open area, though you can't see it that well, you think you see people there,
+moving. To the south the trail continues, to the north the trail runs into
+an open field.
+~
+141 4 0 0 0 5
+D0
+~
+~
+0 0 14223
+D2
+~
+~
+0 0 14150
+S
+#14190
+Inside the Bell Tower~
+You are in a small tower made from stone. An ancient staircase spirals down into
+the darkness. The stairs are slick with algae and slime, making your footing
+treacherous. You don't even want to think about what would happen were you to
+fall. The walls are covered with a dark green slime and there is nothing to hold
+on to. Above you is the belfry where the bells are held.
+~
+141 136 0 0 0 0
+S
+#14193
+In Between Worlds~
+  You stand on the surface of a large flat rock which seems to be floating
+in misty space.  This is the astral plane, the place in between dimensions.
+The surface of this rock is covered in runes the likes of which you have never
+seen before.  There seems to be no escape from this rock save stepping
+off of it into astral space, a move which certainly would be permenantly
+fatal.
+~
+141 655532 0 0 0 0
+D2
+~
+~
+0 0 14194
+S
+#14194
+In Between Worlds~
+  You stand on the surface of a large flat rock which seems to be floating
+in misty space.  This is the astral plane, the place in between dimensions.
+The surface of this rock is covered in runes the likes of which you have never
+seen before.  There seems to be no escape from this rock save stepping
+off of it into astral space, a move which certainly would be permenantly
+fatal.
+~
+141 655532 0 0 0 0
+D0
+~
+~
+0 0 14193
+S
+#14195
+A Secret Passage~
+  Claustrophobia is begining to set in as you continue to navigate down
+this narrow crawlspace.  You gasp for air, choaking on the heavy dust.
+Seperated from the rest of your party by the sheer narrowness of the tunnel,
+your bravery seems to dim.  Ahead to the west, you think that you can feel
+cool air passing over your sweat soaked skin.  Is there an opening there,
+or are you begining to hallucinate?  Darkness engulfs you, waves of paranoia
+wash over you.  This could be the end.
+~
+141 269 0 0 0 0
+D1
+~
+~
+0 0 14198
+D3
+~
+~
+0 0 14197
+S
+#14196
+The Inner Chambers~
+  You stand in a cramped, circular apsis which is dominated by an icon
+of the anicent called Serapis. The rooms size and circular construction makes
+you feel as if you are trapped in a shaft of some sort.  This room, like
+the atrium to your south, seems to be abnormally clean, even though it has
+been left undisturbed for thousands of years. Well, almost undisturbed...
+~
+141 77 0 0 0 0
+D2
+A tattered velvet curtain prevents you from seeing into the next room.
+~
+curtain~
+1 0 14197
+S
+#14197
+The Atrium~
+  The narrow crawlspace suddenly opens up in to this dimly lit atrium. 
+This room is completely circular, with walls covered in heiroglyphs carved
+in bas-relief.  The ceiling here is a smooth, unadorned dome, what little
+light there is appears to come from recessed sources above the lip of
+the walls and is reflected faintly by the dome.  What is most disturbing
+about this place is the total lack of any signs of life.  It is eeriely quiet,
+and the air seems cooler than that in the rest of the temple.  In stark
+contrast to the rest of the temple, this room apears to be dust-free.
+To the north, there appears to be another chamber whose entrance is covered
+by a tattered velvet curtain.
+~
+141 200 0 0 0 0
+D0
+A tattered velvet curtain prevents you from seeing into the next room.
+~
+curtain~
+1 0 14196
+D1
+~
+~
+0 0 14195
+S
+#14198
+A Secret Passage~
+  You continue your crawl along this passage in the heart of the temple.
+The dust here is as thick as sand, and small white worms writhe in it.
+The walls and ceiling of this crawlspace have etchings on them that might
+once have been heiroglyphs, but the erosion of the limestone walls has
+left them unreadable.  The passage continues in darkness to the east and west.
+~
+141 333 0 0 0 0
+D1
+~
+~
+0 0 14199
+D3
+~
+~
+0 0 14195
+S
+#14199
+A Secret Passage~
+  You crawl on your hands and knees in this narrow passage behind a ruined
+altar.  Even with your lights, its is so dark in here that you are forced to
+feel along the walls in order to navigate the crawlspace.  The passage
+continues into darkness to the west.
+~
+141 333 0 0 0 0
+D3
+~
+~
+0 0 14198
+S
+$~

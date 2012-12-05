@@ -1,0 +1,1830 @@
+#16100
+A Mystical Gateway from the Mountains~
+  Just as you feel as though your about to pass out from all the climbing
+up the mountain, and the ever decreasing amount of oxygen to breathe, you
+notice the air strangely becomes easier to breathe again.  you realize your
+actually walking on the clouds all around you, as they begin to change to
+a veritable kaleidoscope of colors.  Your senses tell you conflicting 
+things.  Maybe your still on the mountain, maybe not, one thing is for sure,
+your very far away from solid ground.  There is a sense of peace here.
+~
+161 180 0 0 0 2
+D0
+~
+~
+0 0 16101
+E
+map~
+map goes here.
+~
+S
+#16101
+Before the Elysium Kingdom~
+  Before you looms a breathtakingly beautiful kingdom.  Light plays across
+every miniscule facet and face of the structures, making the buildings seem
+alive with the fire of life and goodness.  At your feet lies the moat, but
+instead of water, there is only air, giving you second thoughts about
+"swimming"  to the other side.  Fortunately for you, the drawbridge in the
+gateway is open.
+~
+161 0 0 0 0 2
+D0
+~
+drawbridge~
+2 0 16102
+D1
+~
+~
+0 0 16133
+D2
+~
+~
+0 0 16100
+D3
+~
+~
+0 0 16115
+S
+#16102
+Elysium town center south~
+  You are standing inside the enormous gates looming into the sky to your
+south.  All about you is a decadent glamour and beauty of nature, magic,
+and architecture.  Light plays across numerous gold, silver, and crystal
+surfaces, ranging from small items to the very walls themselves.  Lovely
+flowering plants grow from the very clouds beneath your feet that you notice
+have taken on a solidity much like that of the ground.  All manner of strange
+and exotic beasts wander the streets on some errand or other.  To your east
+and west lie several buildings, and northward leads to an enormous castle.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16136
+D1
+~
+~
+0 0 16104
+D2
+~
+drawbridge~
+2 0 16101
+D3
+~
+~
+0 0 16103
+S
+#16103
+Western market street~
+  Your standing on the main path through the southern section of the Elysium
+town center.  Crystal and white marble constructs adorned with gold and silver
+loom up all about you, shining light everywhere.  An occasional exotic tree
+or bush sprouts up from the clouds beneath you, adding to the peaceful
+atmosphere here.  To your north lies a peaceful hut.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16112
+D1
+~
+~
+0 0 16102
+D3
+~
+~
+0 0 16110
+S
+#16104
+Eastern market street~
+  Your standing on the main path of the southern section of the Elysium
+town center.  Crystal and white marble constructs adorned with gold and silver
+loom up all about you, shining light everywhere. An occasional exotic tree
+or bush sprouts up from the clouds beneath you, adding to the peaceful
+atmosphere here.  To your north a multi colored hut invites you to explore
+it's mysterious secrets.  To the south, you faintly smell several pleasant
+smells.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16107
+D1
+~
+~
+0 0 16105
+D2
+~
+~
+0 0 16108
+D3
+~
+~
+0 0 16102
+S
+#16105
+Eastern market street~
+  Your standing on the main path of the southern section of the Elysium
+town center.  Crystal and white marble constructs adorned with gold and silver
+loom up all about you, shining light everywhere.  An occasional exotic tree
+or bush sprouts up from the clouds beneath you, adding to the peaceful
+atmosphere here.  To your north lies the local scriber.  To the south lies a
+nondescript hut.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16106
+D1
+~
+~
+0 0 16131
+D2
+~
+~
+0 0 16109
+D3
+~
+~
+0 0 16104
+S
+#16106
+Kir-lan's parchments~
+  Variously colored parchments and scrolls are neatly stacked all about you.
+Kir-lan, the scriber, smiles and watches you with indifference out of the
+corner of his eye.
+~
+161 0 0 0 0 0
+D2
+~
+~
+0 0 16105
+S
+#16107
+Room of illusions~
+  Swirling patterns of rich colors surround you and seem to adjust to you as
+you are enveloped briefly in a soothing embrace.  You suddenly find yourself
+exactly where you want to, surrounded by all the things you want, and all the
+attention of those whom you like spending your time with most.  Every stray
+pleasant thought you have becomes tangible, real, and so life-like, you almost
+lose yourself in the miracle of it all.  Just as you have everything you want
+and start to leave, everything slowly fades away as you approach the exit.
+Hmmph.  If only a location specific paradise, it was good while it lasted...
+~
+161 4 0 0 0 0
+D2
+~
+~
+0 0 16104
+S
+#16108
+A pleasant room~
+  Upon entering this room, your senses are pervaded by all manner of sweet
+and pleasant smells.  From the smell of fresh pine, to baked cookies, 
+whatever pleases you most, seems to stand out.  Strangely, there is no source
+of the smells except possibly your own imagination; as if all of what you
+experience is what you want most...
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16104
+S
+#16109
+A crystal hut~
+  Light flows throught the walls in this spacious yet modest little crystal
+abode.  Here, as in many other areas in the kingdom, teh clouds themselves
+form a pillowy floor beneath your feet.  Off in one corner of the room is a 
+secure see through area in the floor, showing the ground far far below.  All
+of the violence you know exists down there seems as if it is a world away.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16105
+S
+#16110
+Western market street~
+  Your standing on the main path through the southern section of the Elysium
+town center.  Crystal and white marble constructs adorned with gold and silver
+loom up all about you, shining light everywhere.  An occasional exotic tree
+or bush sprouts up from the clouds beneath you, adding to the peaceful
+atmosphere here.  To your south lies a large building where creatures
+occasionally congregate, and to your north lies a curious looking crystal hut,
+shining brighter than the others.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16111
+D1
+~
+~
+0 0 16103
+D2
+~
+~
+0 0 16113
+D3
+~
+~
+0 0 16116
+S
+#16111
+A sunny meadow~
+  Your standing in a sunny meadow, light warming your body like a warm, spring
+day.  Various wildflowers are in bloom, rising as high as your waist, while
+an occasional bee alights upon a flower to sip of it's sweet nectar.  Not a 
+cloud in the sky, as a butterfly flits about in the distance, completing this
+beautiful, peaceful landscape.  In the distance, you hear the fall of water.
+~
+161 8 0 0 0 2
+D0
+~
+~
+0 0 16114
+D2
+~
+~
+0 0 16110
+S
+#16112
+A tranquil room~
+  A thin curtain of water falls serenely over the three white marble walls
+opposite the entrance.  The clouds comprising the floor beneath your feet
+almost seem alive as they slowly move in subtle waves, massaging your feet.
+You feel at ease and incredibly comfortable, as you realize just how weary
+an adventurer you are.
+~
+161 16 0 0 0 0
+D2
+~
+~
+0 0 16103
+S
+#16113
+Hall of stories~
+  A few members of various kinds of winged beasts congregate about the center
+of the room, listening intently to Foosa's grand tales of adventure and
+intrigue.  The large grand chamber has great acoustics, carrying all manner
+of sounds and making the speaker's voice boom all about you.  The ideal
+audience chamber.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16110
+S
+#16114
+A huge waterfall~
+  From high above, a huge waterfall streams down to the ground, crashing onto
+boulders resting in a small pond.  Light dances across the surface of the
+water, creating golden light that shines on your face.  An occasional fish
+comes to the surface of the pond to gulp of the sweet air, as you feel 
+mesmerized by the grand natural serenity of the water and the falls.
+~
+161 8 0 0 0 2
+D2
+~
+~
+0 0 16111
+S
+#16115
+A path around the Elysium Kingdom~
+  The clouds beneath your feet are soft and give a little with each step, but
+strangely still support you.  Looming before you is a huge crystal wall,
+sparsely covered by exquisitely beautiful flowered vines, creating an aromatic
+scent, mingling with a subtle light show created by the light refracting from
+the pristine walls.  Small rivulets of water bead out in streams along the
+path intermintently, and shower down to the ground, far far below.
+~
+161 0 0 0 0 2
+D1
+~
+~
+0 0 16101
+D3
+~
+~
+0 0 16117
+S
+#16116
+Inside the Elysium Castle~
+  Beneath your feet, the clouds supporting you and the castle seem as solid
+as the earth.  Light shines preternaturally over all the structures here and
+is refracted countless times creating a dizzingly bright lightshow effect.
+Ordinarily, you'd want to shield your eyes from the glow, but you dare not
+miss any part of quite possibly the most beautiful blend of architecture,
+magic, and nature you've ever seen.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16119
+D1
+~
+~
+0 0 16110
+D3
+~
+~
+0 0 16121
+S
+#16117
+A path around the Elysium Kingdom~
+  The clouds beneath your feet are soft and give a little with each step, but
+strangely still support you.  Looming before you is a huge crystal wall,
+sparsely covered by exquisitely beautiful flowered vines, creating an aromatic
+scent, mingling with a subtle light show created by the light refracting from
+the pristine walls.  Small rivulets of water bead out in streams along the
+path intermintently, and shower down to the ground, far far below.
+~
+161 0 0 0 0 2
+D0
+~
+~
+0 0 16118
+D1
+~
+~
+0 0 16115
+S
+#16118
+A path around the Elysium Kingdom~
+  The clouds beneath your feet are soft and give a little with each step, but
+strangely still support you.  Looming before you is a huge crystal wall,
+sparsely covered by exquisitely beautiful flowered vines, creating an aromatic
+scent, mingling with a subtle light show created by the light refracting from
+the pristine walls.  Small rivulets of water bead out in streams along the
+path intermintently, and shower down to the ground, far far below.
+~
+161 0 0 0 0 2
+D2
+~
+~
+0 0 16117
+S
+#16119
+Inside the Elysium Castle~
+  Beneath your feet, the clouds supporting you and the castle seem as solid
+as the earth.  Light shines preternaturally over all the structures here and
+is refracted countless times creating a dizzingly bright lightshow effect.
+Ordinarily, you'd want to shield your eyes from the glow, but you dare not
+miss any part of quite possibly the most beautiful blend of architecture,
+magic, and nature you've ever seen.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16120
+D2
+~
+~
+0 0 16116
+S
+#16120
+Inside the Elysium Castle~
+  Beneath your feet, the clouds supporting you and the castle seem as solid
+as the earth.  Light shines preternaturally over all the structures here and
+is refracted countless times creating a dizzingly bright lightshow effect.
+Ordinarily, you'd want to shield your eyes from the glow, but you dare not
+miss any part of quite possibly the most beautiful blend of architecture,
+magic, and nature you've ever seen.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16122
+D2
+~
+~
+0 0 16119
+S
+#16121
+A spiral staircase~
+  A large well-shaped room with walls of sheer crystal.  The light refracts
+and bends here to the point of creating a prism effect, and casting the stairs
+and room in a virtual rainbow of brilliant colors.  Stairs spiral upwards in
+the colorful unknown.
+~
+161 0 0 0 0 1
+D1
+~
+~
+0 0 16116
+D4
+~
+~
+0 0 16197
+S
+#16122
+Inside the Elysium Castle~
+  Beneath your feet, the clouds supporting you and the castle seem as solid
+as the earth.  Light shines preternaturally over all the structures here and
+is refracted countless times creating a dizzingly bright lightshow effect.
+Ordinarily, you'd want to shield your eyes from the glow, but you dare not
+miss any part of quite possibly the most beautiful blend of architecture,
+magic, and nature you've ever seen.
+~
+161 0 0 0 0 1
+D1
+~
+~
+0 0 16124
+D2
+~
+~
+0 0 16120
+D3
+~
+~
+0 0 16123
+S
+#16123
+A spiral staircase~
+  A large well-shaped room with walls of sheer crystal.  The light refracts
+and bends here to the point of creating a prism effect, and casting the stairs
+and room in a virtual rainbow of brilliant colors.  Stairs spiral upwards in
+the colorful unknown.
+~
+161 0 0 0 0 1
+D1
+~
+~
+0 0 16122
+D4
+~
+~
+0 0 16196
+S
+#16124
+Hanging gardens~
+  Crystal walls loom up into the sky on each side of you, almost completely
+covered in flowered vines.  Flowers and all manner of beautiful plants, some
+of which you've never seen, line the ground and hang down around you like an
+aromatic veil.
+~
+161 8 0 0 0 1
+D1
+~
+vines~
+1 0 16125
+D3
+~
+~
+0 0 16122
+S
+#16125
+A clearing in the gardens~
+  Exotic plants of all manner encase this area in a sort of room creating a
+soothing sense of peace.  An occasional butterfly or two flutter by amid
+flower petals carried loftily by a warm gentle breeze.  In the middle of this
+area rests a multi-tiered fountain, glimmering in splendor under the sunlight.
+~
+161 0 0 0 0 1
+D1
+~
+vines~
+1 0 16126
+D3
+~
+vines~
+1 0 16124
+S
+#16126
+Hanging gardens~
+  Crystal walls loom up into the sky on each side of you, almost completely
+covered in flowered vines.  Flowers and all manner of beautiful plants, some
+of which you've never seen, line the ground and hang down around you like an
+aromatic veil.
+~
+161 8 0 0 0 1
+D1
+~
+~
+0 0 16127
+D3
+~
+vines~
+1 0 16125
+S
+#16127
+Inside the Elysium Castle~
+  Beneath your feet, the clouds supporting you and the castle seem as solid
+as the earth.  Light shines preternaturally over all the structures here and
+is refracted countless times creating a dizzingly bright lightshow effect.
+Ordinarily, you'd want to shield your eyes from the glow, but you dare not
+miss any part of quite possibly the most beautiful blend of architecture,
+magic, and nature you've ever seen.
+~
+161 8 0 0 0 1
+D1
+~
+~
+0 0 16128
+D2
+~
+~
+0 0 16129
+D3
+~
+~
+0 0 16126
+S
+#16128
+A spiral staircase~
+  A large well-shaped room with walls of sheer crystal.  The light refracts
+and bends here to the point of creating a prism effect, and casting the stairs
+and room in a virtual rainbow of brilliant colors.  Stairs spiral upwards in
+the colorful unknown.
+~
+161 0 0 0 0 1
+D3
+~
+~
+0 0 16127
+D4
+~
+~
+0 0 16199
+S
+#16129
+Inside the Elysium Castle~
+  Beneath your feet, the clouds supporting you and the castle seem as solid
+as the earth.  Light shines preternaturally over all the structures here and
+is refracted countless times creating a dizzingly bright lightshow effect.
+Ordinarily, you'd want to shield your eyes from the glow, but you dare not
+miss any part of quite possibly the most beautiful blend of architecture,
+magic, and nature you've ever seen.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16127
+D2
+~
+~
+0 0 16130
+S
+#16130
+Inside the Elysium Kingdom~
+  Beneath your feet, the clouds supporting you and the castle seem as solid
+as the earth.  Light shines preternaturally over all the structures here and
+is refracted countless times creating a dizzingly bright lightshow effect.
+Ordinarily, you'd want to shield your eyes from the glow, but you dare not
+miss any part of quite possibly the most beautiful blend of architecture,
+magic, and nature you've ever seen.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16129
+D2
+~
+~
+0 0 16131
+S
+#16131
+Inside the Elysium Kingdom~
+  Beneath your feet, the clouds supporting you and the castle seem as solid
+as the earth.  Light shines preternaturally over all the structures here and
+is refracted countless times creating a dizzingly bright lightshow effect.
+Ordinarily, you'd want to shield your eyes from the glow, but you dare not
+miss any part of quite possibly the most beautiful blend of architecture,
+magic, and nature you've ever seen.
+~
+161 8 0 0 0 1
+D0
+~
+~
+0 0 16130
+D1
+~
+~
+0 0 16132
+D3
+~
+~
+0 0 16105
+S
+#16132
+A spiral staircase~
+  A large well-shaped room with walls of sheer crystal.  The light refracts
+and bends here to the point of creating a prism effect, and casting the stairs
+and room in a virtual rainbow of brilliant colors.  Stairs spiral upwards in
+the colorful unknown.
+~
+161 0 0 0 0 1
+D3
+~
+~
+0 0 16131
+D4
+~
+~
+0 0 16198
+S
+#16133
+A path around the Elysium Kingdom~
+  The clouds beneath your feet are soft and give a little with each step, but
+strangely still support you.  Looming before you is a huge crystal wall,
+sparsely covered by exquisitely beautiful flowered vines, creating an aromatic
+scent, mingling with a subtle light show created by the light refracting from
+the pristine walls.  Small rivulets of water bead out in streams along the
+path intermintently, and shower down to the ground, far far below.
+~
+161 0 0 0 0 2
+D1
+~
+~
+0 0 16134
+D3
+~
+~
+0 0 16101
+S
+#16134
+A path around the Elysium Kingdom~
+  The clouds beneath your feet are soft and give a little with each step, but
+strangely still support you.  Looming before you is a huge crystal wall,
+sparsely covered by exquisitely beautiful flowered vines, creating an aromatic
+scent, mingling with a subtle light show created by the light refracting from
+the pristine walls.  Small rivulets of water bead out in streams along the
+path intermintently, and shower down to the ground, far far below.
+~
+161 0 0 0 0 2
+D0
+~
+~
+0 0 16135
+D3
+~
+~
+0 0 16133
+S
+#16135
+A path around the Elysium Kingdom~
+  The clouds beneath your feet are soft and give a little with each step, but
+strangely still support you.  Looming before you is a huge crystal wall,
+sparsely covered by exquisitely beautiful flowered vines, creating an aromatic
+scent, mingling with a subtle light show created by the light refracting from
+the pristine walls.  Small rivulets of water bead out in streams along the
+path intermintently, and shower down to the ground, far far below.
+~
+161 0 0 0 0 2
+D2
+~
+~
+0 0 16134
+S
+#16136
+Elysium town center north~
+  Your standing on the main path through the northern section of the Elysium
+town center.  Crystal and white marble constructs adorned with gold and silver
+loom up all about you, shining light everywhere.  An occasional exotic tree
+or bush sprouts up fromthe clouds beneath you, adding to the peaceful
+atmosphere here.  East and west lie several buildings, north is a huge castle.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16137
+D1
+~
+~
+0 0 16143
+D2
+~
+~
+0 0 16102
+D3
+~
+~
+0 0 16139
+S
+#16137
+Before the Elysium Castle~
+  Reaching even further into the sky, before you looms a castle of such huge
+dimensions that you can't help but be awestruck.  White marble sculpted
+sentinels watch from different points high up the crystal castle face, as
+three towers disappear into the sky.  One part of the castle seems to tower
+above all the others, and all seem to look to it in awe and reverence. Another
+moat of open skies discourages swimming, and you are thankful for the 
+drawbridge which allows you to cross.
+~
+161 0 0 0 0 1
+D0
+~
+drawbridge~
+1 0 16149
+D2
+~
+~
+0 0 16136
+S
+#16138
+A crystal hut~
+  Light flows throught the walls in this spacious yet modest little crystal
+abode.  Here, as in many other areas in the kingdom, teh clouds themselves
+form a pillowy floor beneath your feet.  Off in one corner of the room is a 
+secure see through area in the floor, showing the ground far far below.  All
+of the violence you know exists down there seems as if it is a world away.
+~
+161 8 0 0 0 0
+D2
+~
+~
+0 0 16139
+S
+#16139
+Western market street~
+  Your standing on the main path through the northern section of the Elysium
+town center.  Crystal and white marble constructs adorned with gold and silver
+loom up all about you, shining light everywhere.  An occasional exotic tree
+or bush sprouts up from the clouds beneath you, adding to the peaceful
+atmosphere here.  North lies a nondescript hut.  To the south you faintly
+hear the sounds of beautiful music.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16138
+D1
+~
+~
+0 0 16136
+D2
+~
+~
+0 0 16192
+D3
+~
+~
+0 0 16140
+S
+#16140
+Western market street~
+  Your standing on the main path through the northern section of the Elysium
+town center.  Crystal and white marble constructs adorned with gold and silver
+loom up all about you, shining light everywhere.  An occasional exotic tree
+or bush sprouts up from the clouds beneath you, adding to the peaceful
+atmosphere here.  To your north lies a hut well stocked with various fruits.
+South is a nondescript hut.
+
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16141
+D1
+~
+~
+0 0 16139
+D2
+~
+~
+0 0 16142
+S
+#16141
+Produce shop~
+  Colorful fruit of all sorts are stacked neatly in pristine displays.  The
+fruit is spotless and seems to defy all manner of rot and disease.  As you
+ponder this oddity, Shaldra flutters over in your direction to assist you in
+your selection as you start to hunger for the exotic fruits before you.
+
+~
+161 8 0 0 0 0
+D2
+~
+~
+0 0 16140
+S
+#16142
+A starry night~
+  Your standing on a quaint looking path leading as far as the eye can see to
+the south.  Above you, the heavens sprawl out, covering the sky, lights from
+far away stars twinkling in the serene atmosphere.  In the distance, a cricket
+or cicada chirps a peaceful song as fireflies flitter about, resembling
+dancing yellow lights in the night sky.  The air is warm, inviting you to sit
+and enjoy the peace and splendor of the starry night sky.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16140
+D2
+~
+~
+0 0 16142
+S
+#16143
+Eastern market street~
+  Your standing on the main path through the northern section of the Elysium
+town center.  Crystal and white marble constructs adorned with gold and silver
+loom up all about you, shining light everywhere.  An occasional exotic tree
+or bush sprouts up from the clouds beneath you, adding to the peaceful
+atmosphere here.  North lies a huge building, and south there is a comforting
+silence.
+~
+161 0 0 0 0 1
+D0
+~
+~
+0 0 16144
+D1
+~
+~
+0 0 16146
+D2
+~
+~
+0 0 16145
+D3
+~
+~
+0 0 16136
+S
+#16144
+A reflecting pool~
+  Small trees grow from the ground in the four corners of the room.  Around
+the trees and covering the floor is a white marble floor, polished to the
+point of faintly creating a reflective surface.  In the center of the room
+is a large, shallow pool of water that you can see your reflection in.  Oddly,
+you notice not only the reflection of your body, but you swear you can almost
+see your soul reflected back at you as well.
+
+~
+161 0 0 0 0 1
+D2
+~
+~
+0 0 16143
+S
+#16145
+A quiet room~
+  This room seems to absorb all sound around you to create a stillness and
+quiet.  Ordinarily such silence would be most unnerving, but for some reason,
+you feel extremely at ease.  This room seems perfect for meditating...
+~
+161 32 0 0 0 0
+D0
+~
+~
+0 0 16143
+S
+#16146
+Eastern market street~
+  Your standing on the main path through the northern section of the Elysium
+town center.  Crystal and white marble constructs adorned with gold and silver
+loom up all about you, shining light everywhere.  An occasional exotic tree
+or bush sprouts up from the clouds beneath you, adding to the peaceful
+atmosphere here.  North lies a huge building, and south there is a small shop
+advertising potions.
+~
+161 8 0 0 0 1
+D0
+~
+~
+0 0 16147
+D2
+~
+~
+0 0 16148
+D3
+~
+~
+0 0 16143
+S
+#16147
+A crystal hut~
+  Light flows throught the walls in this spacious yet modest little crystal
+abode.  Here, as in many other areas in the kingdom, teh clouds themselves
+form a pillowy floor beneath your feet.  Off in one corner of the room is a 
+secure see through area in the floor, showing the ground far far below.  All
+of the violence you know exists down there seems as if it is a world away.
+~
+161 0 0 0 0 1
+D2
+~
+~
+0 0 16146
+S
+#16148
+Lardran's concoctions~
+  All about you, various liquids of varying appearance and fluidity bubble
+and flow through clear hoses and into and out of various glass containers.
+An occasional fire is silently burning under some of the concoctions.  
+Lardran looks at you with mild interest as he checks on the various potions.
+~
+161 8 0 0 0 0
+D0
+~
+~
+0 0 16146
+S
+#16149
+Inside the Elysium castle~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16162
+D1
+~
+~
+0 0 16154
+D2
+~
+~
+0 0 16137
+D3
+~
+~
+0 0 16150
+S
+#16150
+Great hall south~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D1
+~
+~
+0 0 16149
+D2
+~
+~
+0 0 16177
+D3
+~
+~
+0 0 16151
+S
+#16151
+Great hall south~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D1
+~
+~
+0 0 16150
+D2
+~
+~
+0 0 16152
+S
+#16152
+A spacious room~
+  The walls here glow with a dull, warm light.  Various sculptures of gold
+and silver line the walls and glimmer with color.  A lush red carpet is laid
+with care over the pristine white marble floors your standing on, which is
+a welcome change from the cloud walking you partook in outside the castle.
+~
+161 8 0 0 0 0
+D0
+~
+~
+0 0 16151
+D2
+~
+~
+0 0 16153
+S
+#16153
+A room~
+  Light from the walls and even from the ceiling high above you shine light
+everywhere, melting away all shadows and bathing you in a peaceful warmth and
+tranquility.  More of the flowered vines from outside hang down about the 
+walls here, carefully trimmed away from the masterfully constructed sculptures
+of crystal, gold, silver, and white marble.
+~
+161 8 0 0 0 0
+D0
+~
+~
+0 0 16152
+S
+#16154
+Great hall south~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D1
+~
+~
+0 0 16156
+D2
+~
+~
+0 0 16155
+D3
+~
+~
+0 0 16149
+S
+#16155
+A room~
+  Light from the walls and even from the ceiling high above you shine light
+everywhere, melting away all shadows and bathing you in a peaceful warmth and
+tranquility.  More of the flowered vines from outside hang down about the 
+walls here, carefully trimmed away from the masterfully constructed sculptures
+of crystal, gold, silver, and white marble.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16154
+S
+#16156
+Great hall south~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D1
+~
+~
+0 0 16159
+D2
+~
+~
+0 0 16157
+D3
+~
+~
+0 0 16154
+S
+#16157
+A spacious room~
+  The walls here glow with a dull, warm light.  Various sculptures of gold
+and silver line the walls and glimmer with color.  A lush red carpet is laid
+with care over the pristine white marble floors your standing on, which is
+a welcome change from the cloud walking you partook in outside the castle.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16156
+D2
+~
+~
+0 0 16158
+S
+#16158
+A room~
+  Light from the walls and even from the ceiling high above you shine light
+everywhere, melting away all shadows and bathing you in a peaceful warmth and
+tranquility.  More of the flowered vines from outside hang down about the 
+walls here, carefully trimmed away from the masterfully constructed sculptures
+of crystal, gold, silver, and white marble.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16157
+S
+#16159
+Great hall south~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D2
+~
+~
+0 0 16160
+D3
+~
+~
+0 0 16156
+S
+#16160
+A spacious room~
+  The walls here glow with a dull, warm light.  Various sculptures of gold
+and silver line the walls and glimmer with color.  A lush red carpet is laid
+with care over the pristine white marble floors your standing on, which is
+a welcome change from the cloud walking you partook in outside the castle.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16159
+D2
+~
+~
+0 0 16161
+S
+#16161
+A room~
+  Light from the walls and even from the ceiling high above you shine light
+everywhere, melting away all shadows and bathing you in a peaceful warmth and
+tranquility.  More of the flowered vines from outside hang down about the 
+walls here, carefully trimmed away from the masterfully constructed sculptures
+of crystal, gold, silver, and white marble.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16160
+S
+#16162
+Great hall north~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 8 0 0 0 0
+D0
+~
+~
+0 0 16163
+D1
+~
+~
+0 0 16167
+D2
+~
+~
+0 0 16149
+D3
+~
+~
+0 0 16164
+S
+#16163
+A room~
+  Light from the walls and even from the ceiling high above you shine light
+everywhere, melting away all shadows and bathing you in a peaceful warmth and
+tranquility.  More of the flowered vines from outside hang down about the 
+walls here, carefully trimmed away from the masterfully constructed sculptures
+of crystal, gold, silver, and white marble.
+~
+161 8 0 0 0 0
+D2
+~
+~
+0 0 16162
+S
+#16164
+Great hall north~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16165
+D1
+~
+~
+0 0 16162
+D3
+~
+~
+0 0 16175
+S
+#16165
+A spacious room~
+  The walls here glow with a dull, warm light.  Various sculptures of gold
+and silver line the walls and glimmer with color.  A lush red carpet is laid
+with care over the pristine white marble floors your standing on, which is
+a welcome change from the cloud walking you partook in outside the castle.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16166
+D2
+~
+~
+0 0 16164
+S
+#16166
+A room~
+  Light from the walls and even from the ceiling high above you shine light
+everywhere, melting away all shadows and bathing you in a peaceful warmth and
+tranquility.  More of the flowered vines from outside hang down about the 
+walls here, carefully trimmed away from the masterfully constructed sculptures
+of crystal, gold, silver, and white marble.
+~
+161 0 0 0 0 0
+D2
+~
+~
+0 0 16165
+S
+#16167
+Great hall north~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 8 0 0 0 0
+D0
+~
+~
+0 0 16168
+D1
+~
+~
+0 0 16169
+D3
+~
+~
+0 0 16162
+S
+#16168
+A room~
+  Light from the walls and even from the ceiling high above you shine light
+everywhere, melting away all shadows and bathing you in a peaceful warmth and
+tranquility.  More of the flowered vines from outside hang down about the 
+walls here, carefully trimmed away from the masterfully constructed sculptures
+of crystal, gold, silver, and white marble.
+~
+161 8 0 0 0 0
+D2
+~
+~
+0 0 16167
+S
+#16169
+Great hall north~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16170
+D1
+~
+~
+0 0 16172
+D3
+~
+~
+0 0 16167
+S
+#16170
+A spacious room~
+  The walls here glow with a dull, warm light.  Various pieces of gold and
+silver furniture line the walls and glimmer with light, adding to the
+luminosity of the room.
+~
+161 8 0 0 0 0
+D0
+~
+~
+0 0 16171
+D2
+~
+~
+0 0 16169
+S
+#16171
+A room~
+  Light from the walls and even from the ceiling high above you shine light
+everywhere, melting away all shadows and bathing you in a peaceful warmth and
+tranquility.  More of the flowered vines from outside hang down about the 
+walls here, carefully trimmed away from the masterfully constructed sculptures
+of crystal, gold, silver, and white marble.
+~
+161 8 0 0 0 0
+D2
+~
+~
+0 0 16170
+S
+#16172
+Great hall north~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16173
+D3
+~
+~
+0 0 16169
+S
+#16173
+A spacious room~
+  The walls here glow with a dull, warm light.  Various sculptures of gold
+and silver line the walls and glimmer with color.  A lush red carpet is laid
+with care over the pristine white marble floors your standing on, which is
+a welcome change from the cloud walking you partook in outside the castle.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16174
+D2
+~
+~
+0 0 16172
+S
+#16174
+A room~
+  Light from the walls and even from the ceiling high above you shine light
+everywhere, melting away all shadows and bathing you in a peaceful warmth and
+tranquility.  More of the flowered vines from outside hang down about the 
+walls here, carefully trimmed away from the masterfully constructed sculptures
+of crystal, gold, silver, and white marble.
+~
+161 0 0 0 0 0
+D2
+~
+~
+0 0 16173
+S
+#16175
+Great hall north~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 8 0 0 0 0
+D0
+~
+~
+0 0 16176
+D1
+~
+~
+0 0 16164
+S
+#16176
+A spiral staircase~
+  A large well-shaped room with walls of sheer crystal.  The light refracts
+and bends here to the point of creating a prism effect, and casting the stairs
+and room in a virtual rainbow of brilliant colors.  Stairs spiral upwards in
+the colorful unknown.
+~
+161 8 0 0 0 0
+D2
+~
+~
+0 0 16175
+D4
+~
+~
+0 0 16178
+S
+#16177
+A room~
+  Light from the walls and even from the ceiling high above you shine light
+everywhere, melting away all shadows and bathing you in a peaceful warmth and
+tranquility.  More of the flowered vines from outside hang down about the 
+walls here, carefully trimmed away from the masterfully constructed sculptures
+of crystal, gold, silver, and white marble.
+~
+161 8 0 0 0 0
+D0
+~
+~
+0 0 16150
+S
+#16178
+Top of the stairs~
+  Your in a dimly lit room atop the stairs.  To your south, the room opens to
+a vast, well lit, cavernous hall of beauty.  The hallway amazes you, either
+out of opulence, or the thought of how wealthy and powerful even a small
+portion of this could make you.
+~
+161 0 0 0 0 0
+D2
+~
+~
+0 0 16179
+D5
+~
+~
+0 0 16176
+S
+#16179
+Hall of tranquility~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16178
+D1
+~
+~
+0 0 16180
+S
+#16180
+Hall of tranquility~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 8 0 0 0 0
+D1
+~
+~
+0 0 16181
+D3
+~
+~
+0 0 16179
+S
+#16181
+Hall of tranquility~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 8 0 0 0 0
+D0
+~
+~
+0 0 16182
+D1
+~
+~
+0 0 16185
+D3
+~
+~
+0 0 16180
+S
+#16182
+A spiral staircase~
+  A large well-shaped room with walls of sheer crystal.  The light refracts
+and bends here to the point of creating a prism effect, and casting the stairs
+and room in a virtual rainbow of brilliant colors.  Stairs spiral upwards in
+the colorful unknown.
+~
+161 0 0 0 0 0
+D2
+~
+~
+0 0 16181
+D4
+~
+~
+0 0 16193
+S
+#16183
+A spiral staircase~
+  A large well-shaped room with walls of sheer crystal.  The light refracts
+and bends here to the point of creating a prism effect, and casting the stairs
+and room in a virtual rainbow of brilliant colors.  Stairs spiral upwards in
+the colorful unknown.
+~
+161 8 0 0 0 0
+D2
+~
+~
+0 0 16185
+D4
+~
+~
+0 0 16194
+S
+#16184
+A spiral staircase~
+  A large well-shaped room with walls of sheer crystal.  The light refracts
+and bends here to the point of creating a prism effect, and casting the stairs
+and room in a virtual rainbow of brilliant colors.  Stairs spiral upwards in
+the colorful unknown.
+~
+161 8 0 0 0 0
+D2
+~
+~
+0 0 16186
+D4
+~
+~
+0 0 16195
+S
+#16185
+Hall of tranquility~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16183
+D1
+~
+~
+0 0 16186
+D2
+~
+~
+0 0 16187
+D3
+~
+~
+0 0 16181
+S
+#16186
+Hall of tranquility~
+  Goodness fills the air in these halls like a tangible curtain.  Warm light
+shines everywhere, chasing shadows away, and giving emphasis to the gold and
+silver objects of varying use and appearance that decorate the halls.  Here
+and there is an occasional pillar of pure light, surounded by a lightly
+golden hued water that trickles down from the lofty ceiling somewhere far
+above.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16184
+D3
+~
+~
+0 0 16185
+S
+#16187
+A spiral staircase~
+  A large well-shaped room with walls of sheer crystal.  The light refracts
+and bends here to the point of creating a prism effect, and casting the stairs
+and room in a virtual rainbow of brilliant colors.  Stairs spiral upwards in
+the colorful unknown.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16185
+D4
+~
+~
+0 0 16188
+S
+#16188
+Atop the grand stairway~
+  At the top of the stairs, you find yourself standing in an even larger hall
+than the hall of tranquility.  A large red carpet made of an alien material,
+blazes a path to your east.  The light from some unknown source shines warm
+and bright all about you, making you shield your eyes from looking directly
+at it.  A light wispy cloud floats by on a warm light breeze as the walls
+themselves seem to glow and thrum with life.
+~
+161 0 0 0 0 0
+D1
+~
+~
+0 0 16189
+D5
+~
+~
+0 0 16187
+S
+#16189
+Hall of promises~
+  A large red carpet made of an alien material, blazes a path north to a large
+audience chamber.  The light from some unknown source shines warm and bright
+all about you.  A light wispy cloud floats by on a warm breeze, as the walls
+themselves seem to glow and thrum with life.
+~
+161 8 0 0 0 0
+D0
+~
+~
+0 0 16190
+D3
+~
+~
+0 0 16188
+S
+#16190
+The throne room~
+  The walls in this grand chamber all glow with an inner life and upon closer
+inspection, show images of all living creatures on the earth far far below.
+From all manner of beasts, to other mortals trying to etch out a name for
+themselves and attempting to become more powerful.  In wonderment, you start
+to ponder the pettiness of personal gain and power in light of the 
+tranquility and beauty here, but then again, you aren't perfect.  The
+exquisite sculptures of the denizens of the castle decorate the open space
+here between the large intricately patterned columns of crystal and light.
+In paradise, you have found the room of royalty...
+~
+161 0 0 0 0 0
+D2
+~
+~
+0 0 16189
+D3
+~
+treasury door~
+1 16128 16191
+S
+#16191
+Treasury~
+  Riches lie in heaps beyond imagining here.  Bahamut's bed itself is a huge
+mountain of gold and gems.  To the dismay of the would be treasure hunter,
+the gold seems to have melted into a huge amorphous blob, far far too large
+for someone to ever hope of transporting it all away.  Despite the condition
+of Bahamut's "bedding", some items lie about as either things that Bahamut
+treasured for thier exotic nature, or perhaps for some other unknown reason...
+~
+161 0 0 0 0 0
+D1
+~
+treasury door~
+1 16128 16190
+S
+#16192
+A melodious room~
+  Gentle music from unseen harps, chimes, drums, and other instruments create
+a gentle, relaxing melody that almost seems catered just to you, to soothe
+your troubles.  The opulent golden walls cause the music to reverberate to
+higher pitches, as the clouds beneath your feet subtlely beat with a 
+comforting bass.
+~
+161 0 0 0 0 0
+D0
+~
+~
+0 0 16139
+S
+#16193
+A watchtower~
+  From the parapet of this lofty tower, you can see for what looks like miles.
+The vast blue sky resembles a sea of tranquility, as watchers make sure the
+armies of darkness don't become foolhardy enough to attack Elysium.
+~
+161 0 0 0 0 1
+D5
+~
+~
+0 0 16182
+S
+#16194
+A watchtower~
+  From the parapet of this lofty tower, you can see for what looks like miles.
+The vast blue sky resembles a sea of tranquility, as watchers make sure the
+armies of darkness don't become foolhardy enough to attack Elysium.
+~
+161 8 0 0 0 1
+D5
+~
+~
+0 0 16183
+S
+#16195
+A watchtower~
+  From the parapet of this lofty tower, you can see for what looks like miles.
+The vast blue sky resembles a sea of tranquility, as watchers make sure the
+armies of darkness don't become foolhardy enough to attack Elysium.
+~
+161 8 0 0 0 1
+D5
+~
+~
+0 0 16184
+S
+#16196
+A watchtower~
+  From the parapet of this lofty tower, you can see for what looks like miles.
+The vast blue sky resembles a sea of tranquility, as watchers make sure the
+armies of darkness don't become foolhardy enough to attack Elysium.
+~
+161 0 0 0 0 1
+D5
+~
+~
+0 0 16123
+S
+#16197
+A watchtower~
+  From the parapet of this lofty tower, you can see for what looks like miles.
+The vast blue sky resembles a sea of tranquility, as watchers make sure the
+armies of darkness don't become foolhardy enough to attack Elysium.
+~
+161 0 0 0 0 1
+D5
+~
+~
+0 0 16121
+S
+#16198
+A watchtower~
+  From the parapet of this lofty tower, you can see for what looks like miles.
+The vast blue sky resembles a sea of tranquility, as watchers make sure the
+armies of darkness don't become foolhardy enough to attack Elysium.
+~
+161 0 0 0 0 1
+D5
+~
+~
+0 0 16132
+S
+#16199
+A watchtower~
+  From the parapet of this lofty tower, you can see for what looks like miles.
+The vast blue sky resembles a sea of tranquility, as watchers make sure the
+armies of darkness don't become foolhardy enough to attack Elysium.
+~
+161 0 0 0 0 1
+D5
+~
+~
+0 0 16128
+S
+$~

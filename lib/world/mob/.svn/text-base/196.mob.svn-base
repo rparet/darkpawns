@@ -1,0 +1,553 @@
+#19601
+martial artist ninja~
+a martial artist~
+A martial artist jumps out of the shadows, and into you.
+~
+Clothed entirely in black, the ninja is hard to see in the shadows.  She
+appears to be coming towards you.
+~
+260186 0 0 0 68596904 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+625 0
+8 8 2
+BareHandAttack: 10
+Race: 0
+E
+#19602
+da leung priest~
+Da-Leung~
+Hovering a few feet above the ground meditates a NeoSunZ priest.
+~
+Known among his fellows as "Da-Leung" or big dragon, this ordained priest
+of NeoSunZ ranks among the best fighters in the world. Six dots burned into
+his shaven head represent his allegiance to his companions and his clan. He
+wears a bright red and yellow robe made from a material similar to silk.
+Enormous meditation beads hang around his neck as he repeats "Ah mi Nat
+foh," over and over again.
+~
+188426 0 0 0 168 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 0
+8 8 1
+Race: 0
+E
+#19603
+homeless bum~
+a homeless bum~
+A homeless bum dreams of a new pair of underwear.
+~
+This poor fellow has made a cardboard box his residence. He seems to live off
+selling water from pickle jars in a nearby cart. With one look at them,
+however, you question whether or not they are sanitary. Unfortunately for the
+bum, however, people seem to be stealing his water while he rests his
+eyes. One word can describe this man, stinky like old cheese that smells really
+bad.
+~
+16394 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 0
+4 4 1
+Race: 0
+E
+#19604
+babe francine~
+Francine~
+A gorgeous babe is lounging here by the jacuzzi side.
+~
+Long slender legs and a great smile too, Francine is all you ever dreamed of.
+Her short brown hair and big brown eyes gives her an appearance of innocence.
+~
+16394 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 0
+8 8 2
+Race: 0
+Noise: Someone giggles cheekily nearby.
+E
+#19605
+maiden anne~
+Anne~
+A resplendent maiden is here washing herself.
+~
+Anne looks very much like Francine, enough that they probably are even
+sisters. A faint smile crosses her face as she glances in your direction.
+You've never been in the company of such beautiful women before and you
+are awe struck.
+~
+16394 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 0
+8 8 2
+Race: 0
+E
+#19606
+takeshi shiatsu master~
+Takeshi~
+The legendary Takeshi, Shiatsu Master is sweating from the heat.
+~
+Takeshi is a master of Shiatsu. He doesn't look very physically built, but you
+can see the strength in his hands. His body glistens from sweat that drips down
+his body like raindrops on a window. Slightly grayed hair reveals his possible
+age to you, and covering his back is a somewhat faded tattoo of a sun coming up
+over a horizon.
+~
+16394 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+0 0
+8 8 1
+Race: 0
+E
+#19607
+grandpa wobbly old man~
+Grandpa~
+A wobbly old man stands here leaning on a cane.
+~
+This doddering old fool is known only as grandpa to the men of NeoSunZ.
+His once mighty sword arm now feebly grasps his white cane used to sturdy
+his self on his wobbling legs.  WHITE CANE!  My God, he is blind too.  The
+arrogance of NeoSunZ leadership leaving this artifact as the last guard to
+their vast fortune.  What were they thinking?!?!
+~
+16394 0 0 0 1 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 0
+8 8 1
+Race: 0
+E
+#19608
+rabbit cat ryo ohki~
+Ryo Ohki~
+A furry looking rabbit/cat cross breed is here looking for carrots.
+~
+This animal is fascinating and so CUTE! Its big eyes stare at you with it's
+goofy happy grin as you ponder in amazement. You wonder what type of people
+could own such a rare and cuddly "cabbit".
+~
+213064 0 0 0 163872 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 0
+8 8 0
+BareHandAttack: 4
+Race: 22
+E
+#19610
+servant spectre~
+the servant~
+The red-robed castle servant hovers before you.
+~
+The servant is an otherworldly spectre clad head to toe in a blood-red
+robe.  He is a fixture of the castle, serving the needs of its owners for
+all time.
+
+The servant glows with a soft aura and seems to emit a faint humming noise.
+~
+253978 0 0 0 67109896 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 0
+8 8 0
+Race: 25
+E
+#19611
+fazhar genie guardian~
+Spare~
+A red-skinned guardian genie bars your path.
+~
+The guardian genie has one face which watches forward and another which watches
+backward. He has dark red skin as thick as rhinoceros hide and is completely
+bald. His four, powerfully muscled arms makes him look like he'd be a formidable
+warrior in combat. He stands ten feet tall and must weigh at least a ton.
+~
+256026 0 0 0 132232 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+0 0
+8 8 1
+BareHandAttack: 8
+E
+#19612
+gladiator gaunt~
+Spare~
+A gaunt-looking gladiator stands here in full battle armor.
+~
+This contagium was put here by his former master after attempting to
+overthrow him. He has been brushed by the wings of all four apocalyptic
+horsemen. This poor soul is now forced to fight his former comrades.
+~
+10 0 0 0 0 4 0 0 0 E
+22 -2 -12 22d5+230 14d4+14
+0 30000
+8 8 1
+BareHandAttack: 13
+E
+#19626
+habib slayer genie~
+Habib the Slayer Genie~
+A huge, deadly-looking genie stands here glaring at you.
+~
+Habib is a massive genie with four arms and dark, polished skin. He is naked
+to the waist. Two of his hands are human; the other two resembles lion's paws
+with ivory claws. His red eyes sparkle with flame. Above and between his two
+eyes lies a third eye, which is green and resembles that of a panther. On his
+back are two huge wings.
+~
+188443 0 0 0 1073873032 2 0 0 0 E
+40 -20 -30 40d5+6244 26d4+26
+0 400000
+8 8 1
+BareHandAttack: 9
+E
+#19627
+fazhar genie guardian~
+Fazhar the Guardian Genie~
+A red-skinned guardian genie bars your path.
+~
+The guardian genie has one face which watches forward and another which watches
+backward. He has dark red skin as thick as rhinoceros hide and is completely
+bald. His four, powerfully muscled arms makes him look like he'd be a
+formidable warrior in combat. He stands ten feet tall and must weigh at least
+a ton.
+~
+256027 0 0 0 1073874056 2 0 0 0 E
+40 -20 -30 40d5+6244 26d4+26
+0 400000
+8 8 1
+BareHandAttack: 8
+E
+#19628
+gaunt gladiator~
+a gaunt-looking gladiator~
+A gaunt-looking gladiator stands here in full battle armor.
+~
+This contagium was put here by his former master after attempting to
+overthrow him. He has been brushed by the wings of all four apocalyptic
+horsemen. This poor soul is now forced to fight his former comrades.
+~
+10 0 0 0 0 4 0 0 0 E
+22 -2 -12 22d5+230 14d4+14
+0 10000
+8 8 1
+BareHandAttack: 13
+E
+#19629
+akasha guardian vampire~
+Akasha, the Guardian Vampire~
+Akasha, the Guardian Vampire bares her fangs as you approach.
+~
+Akasha's bright blue eyes and delicate silken eye lashes grace her apparition-
+like complexion. She is wearing a frayed black cloak in which the hood is down
+revealing long blonde hair tied in the back with a black ribbon. Her thin,
+childlike mouth and delicate nose disclose the beauty she once had centuries
+ago. Upon closer inspection, you notice glassy fingernails on limp hands at
+her side. Standing stock still, this visionary nightmare is unlike anything
+you've seen throughout the other rooms of the Pyramid.
+~
+65562 0 0 0 1073885312 0 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+0 360000
+8 8 2
+BareHandAttack: 4
+Race: 8
+E
+#19630
+slave girl~
+the slave girl~
+A sickly slave girl sits here, awaiting your command.
+~
+A thick iron collar is around her neck, attached to a bulky chain fastened
+securely into the ground. Her skin is very pale, almost grey, and covered
+with bruises and past scars, apparently from her misbehaviour. She has
+stringy, matted black hair and deep black eyes.
+~
+16394 0 0 0 0 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 2
+Race: 0
+E
+#19637
+alex~
+alex~
+A beautiful woman lies playfully on the bed, kicking her legs in the air.
+~
+This playful woman exudes an air of confidence as she knows she is the master's
+primary obsession.  The soft kicks of her legs in the air reveal the astounding
+beauty of her slender body.  She twirls a strand of hair with her finger and
+gently bites her bottom lip in anticipation of her master's return.
+~
+24586 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 0
+8 8 2
+Race: 0
+E
+#19638
+courtney~
+courtney~
+A petite blonde lies naked in the bed, covering herself with a silk pillow.
+~
+While most of her body is covered by a large pillow, her sensuous smile and
+soft green eyes seem extremely inviting.  Her short, blonde hair blows gently
+with the breeze, giving her a truly heavenly appearance.  Her innocent
+appearance, however, is mocked by her true passionate desires.
+~
+24586 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 0
+8 8 2
+Race: 0
+E
+#19639
+brooke~
+brooke~
+A tall, slender brunette massages her naked body with lotion.
+~
+Long, brown hair flows down past the shoulders of this young girl's body, 
+extending down to the small of her back.  With the body of a goddess and the 
+face of an angel, this beautiful maiden can steal the heart of any man she 
+pleases.  Her steel blue eyes pierce into your soul with a surreal intimacy 
+about them. 
+~
+24586 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 0
+8 8 2
+Race: 0
+E
+#19640
+monk~
+a monk~
+A large, peaceful monk stands watch at the gate.
+~
+Hiding behind the faade of a peaceful monk wearing a long brown robe, this
+natural-born killer is not one to be quarreled with.  While his intentions
+remain peaceful, his masterful training in judo and jiu-jitsu provide him with
+the skills necessary to kill any mortal with one swing of his fist.
+~
+30747 0 0 0 1073754280 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+0 270000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#19641
+friar tuck~
+friar tuck~
+A well-groomed friar rests here, awaiting your next transaction.
+~
+Dressed in a long, flowing brown robe and holding a donations bowl, this bald 
+friar seems friendly and ready to assist you with all of your financial needs.
+~
+24587 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 0
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#19642
+waitress dainty sylph~
+a waitress~
+A dainty sylph flaunts around aimlessly approaching all within the club.
+~
+This call girl was brought here to entertain the men of the club. Although
+she is not the swiftest with a tray or drinks from the bar, she does strike
+up a good conversation. As noticeable by the appearance of her siblings,
+Phuong and her family were not blessed with the most beautiful of looks.
+~
+16392 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+0 0
+8 8 2
+E
+#19650
+watcher eyes~
+a watcher~
+A pair of glowing eyes watch you intently.
+~
+You see nothing but two red cat-like eyes floating in space. They follow your
+every move, but always remain between you and the stairs leading up to the
+next level.
+~
+194587 0 0 0 1073741952 0 0 0 -1000 E
+34 -14 -24 34d5+2746 22d4+22
+0 0
+8 8 0
+BareHandAttack: 1
+Race: 11
+E
+#19651
+knight guard heavily armored~
+a heavily-armored knight~
+A heavily-armored knight challenges you as you attempt to pass by.
+~
+Dressed in a highly polished suit of armor, the knight has a sworn duty to
+prevent guests from travelling any further into the upper levels of the
+tower. If you are not invited above, you can proceed no further.
+~
+16395 0 0 0 40 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 0
+8 8 1
+Race: 0
+E
+#19665
+expert ninja~
+an expert ninja~
+Standing perfectly still, you almost miss the ninja guarding the gate.
+~
+His lack of movement provides the best camoflauge possible..you wouldn't
+even know he was there apart from the fact that you almost run into him.
+~
+16834570 0 0 0 164904 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 1
+Race: 0
+E
+#19675
+sidious leader titans~
+Sidious~
+Sidious, the leader of the Titans stands before you.
+~
+This white bearded man is quite old which you can tell by looking at his
+scared face. He has white eyes which gives him the appearance of a vicious
+man, but he is very gentle unless provoked.
+~
+16783370 0 0 0 128 0 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+0 0
+8 8 1
+Race: 19
+E
+#19676
+brakus holy titan~
+Brakus~
+Brakus, the holy Titan watches you carefully as you approach.
+~
+Brakus is a heavy-set man, following and obeying the wishes of his master
+Sidious. Together, it is their duty to protect the entrance to the castle
+beyond.
+~
+6154 0 0 0 128 0 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+0 0
+8 8 1
+Race: 19
+E
+#19677
+raunch ape~
+Raunch the ape~
+A giant ape stands before you, returning your gaze.
+~
+He's an 8 foot ape with the strength of 10 men but the intelligence of a mere
+worm. You could consider him the clan's mascot or pet and is as friendly
+as can be, provided you don't turn your back on him...
+~
+16394 0 0 0 0 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 1
+Race: 22
+E
+#19688
+annias guardian genie~
+Annias the guardian genie~
+Annias, one of the mythical guardian genies, blocks your path.
+~
+Annias doesn't have to move much to prevent you passing - he's as wide as the
+tunnel itself but it knows which members to allow entry and which to stop.
+~
+17037338 0 0 0 168 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 0
+8 8 0
+Race: 25
+E
+#19689
+azash guardian genie~
+Azash the guardian genie~
+Azash, one of the mythical guardian genies, blocks your path.
+~
+Azash doesn't have to move much to prevent you passing - he's as wide as the
+tunnel itself but it knows which members to allow entry and which to stop.
+~
+17037338 0 0 0 168 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 0
+8 8 0
+Race: 25
+E
+#19690
+dark demon~
+the dark demon~
+A Dark Demon is here, guarding the door against intruders.
+~
+Several feet taller than you and quite a bit stronger, the dark demon has
+been summoned to this world to fulfill one role...prevent entry to those not
+of his master's clan.
+~
+17035274 0 0 0 168 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 0
+8 8 0
+Race: 11
+E
+#19691
+red baron~
+the red baron~
+A Red Baron, summoned from Hell, eyes you warily.
+~
+One of the demi-gods of Hell, the Red Baron is a huge, winged demon that
+serves his role until death.
+~
+17037322 0 0 0 168 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 0
+8 8 0
+Race: 19
+E
+#19696
+xu zhu~
+Xu Zhu~
+The legendary Xu Zhu stands guard, monitoring all who pass by.
+~
+A giant man with Herulean strength. He is usually very quiet and calm, but
+once he starts fighting , nothing can stop him. This trait has earned him
+the nickname, Tiger Butcher.
+~
+20490 0 0 0 1024 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 1
+Race: 0
+E
+#19697
+zhao yun officer~
+Zhao Yun~
+A brave young officer nods as you approach.
+~
+A brave officer who gallantly speeds into battle carrying his long spear.
+No one can rival his bravery, especially when he rides out alone into the
+midst of the enemy.
+~
+20490 0 0 0 1024 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 1
+Race: 0
+E
+#19698
+zhang fei battle warrior~
+Zhang Fei~
+An battle-hardened warrior slowly sharpens his sword.
+~
+This valliant warrior is an incredible fighter. It is said he could make
+enemy troops cower with just a loud shout; his nickname, Everyone's Enemy.
+~
+22538 0 0 0 1024 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 1
+Race: 0
+E
+$

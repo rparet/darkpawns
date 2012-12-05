@@ -1,0 +1,369 @@
+#4000
+Somewhere in the Void~
+   You float in nothingness - or perhaps stand on nothingness, which is
+firm beneath your feet. All is dark, except for the glowing portals that
+lie in the cardinal directions.
+~
+40 131212 0 0 0 0
+D0
+~
+~
+0 0 4017
+D1
+~
+~
+0 0 4015
+D2
+~
+~
+0 0 4012
+D3
+~
+~
+0 0 4014
+S
+#4001
+A Secluded Grove~
+   You are standing in the middle of a grove of strange, and possibly
+magical trees which climb into the sky all around you. In the middle
+of the grove, you can see a strange grass with a blueish tinge. It's 
+hard to see anything beyond the trees of the grove.
+~
+40 0 0 0 0 0
+D0
+~
+~
+0 0 20545
+D1
+~
+~
+0 0 20583
+D2
+~
+~
+0 0 20619
+D3
+~
+~
+0 0 20581
+S
+#4002
+A Secluded Grove~
+   You are standing in the middle of a grove of strange, and possibly
+magical trees which climb into the sky all around you. In the middle
+of the grove, you can see a strange grass with a blueish tinge. It's
+hard to see anything beyond the trees of the grove.
+~
+40 0 0 0 0 0
+D0
+~
+~
+0 0 15675
+D1
+~
+~
+0 0 15682
+D2
+~
+~
+0 0 15687
+D3
+~
+~
+0 0 15680
+S
+#4003
+A Secluded Grove~
+   You are standing in the middle of a grove of strange, and possibly
+magical trees which climb into the sky all around you. In the middle
+of the grove, you can see a strange grass with a blueish tinge. It's
+hard to see anything beyond the trees of the grove.
+~
+40 0 0 0 0 0
+D0
+~
+~
+0 0 12246
+D1
+~
+~
+0 0 12257
+D2
+~
+~
+0 0 12268
+D3
+~
+~
+0 0 12255
+S
+#4004
+A Secluded Grove~
+   You are standing in the middle of a grove of strange, and possibly
+magical trees which climb into the sky all around you. In the middle
+of the grove, you can see a strange grass with a blueish tinge. It's
+hard to see anything beyond the trees of the grove.
+~
+40 0 0 0 0 0
+D0
+~
+~
+0 0 11208
+D1
+~
+~
+0 0 11220
+D2
+~
+~
+0 0 11230
+D3
+~
+~
+0 0 11218
+S
+#4005
+A Secluded Grove~
+   You are standing in the middle of a grove of strange, and possibly
+magical trees which climb into the sky all around you. In the middle
+of the grove, you can see a strange grass with a blueish tinge. It's
+hard to see anything beyond the trees of the grove.
+~
+40 0 0 0 0 0
+D0
+~
+~
+0 0 9367
+D1
+~
+~
+0 0 9374
+D2
+~
+~
+0 0 9380
+D3
+~
+~
+0 0 9372
+S
+#4006
+A Secluded Grove~
+   You are standing in the middle of a grove of strange, and possibly
+magical trees which climb into the sky all around you. In the middle
+of the grove, you can see a strange grass with a blueish tinge. It's
+hard to see anything beyond the trees of the grove.
+~
+40 0 0 0 0 0
+D0
+~
+~
+0 0 4240
+D1
+~
+~
+0 0 4233
+D2
+~
+~
+0 0 4225
+D3
+~
+~
+0 0 4231
+S
+#4007
+A Secluded Grove~
+   You are standing in the middle of a grove of strange, and possibly
+magical trees which climb into the sky all around you. In the middle
+of the grove, you can see a strange grass with a blueish tinge. It's
+hard to see anything beyond the trees of the grove.
+~
+40 0 0 0 0 0
+D0
+~
+~
+0 0 9723
+D1
+~
+~
+0 0 9754
+D2
+~
+~
+0 0 9769
+D3
+~
+~
+0 0 9752
+S
+#4008
+A Secluded Grove~
+   You are standing in the middle of a grove of strange, and possibly
+magical trees which climb into the sky all around you. In the middle
+of the grove, you can see a strange grass with a blueish tinge. It's
+hard to see anything beyond the trees of the grove.
+~
+40 0 0 0 0 0
+D0
+~
+~
+0 0 9402
+D1
+~
+~
+0 0 2726
+D2
+~
+~
+0 0 9409
+D3
+~
+~
+0 0 9404
+S
+#4011
+Somewhere in the Void~
+   You float in nothingness - or perhaps stand on nothingness, which is
+firm beneath your feet. All is dark, except for the glowing portals that
+lie to the north and east.
+~
+40 131212 0 0 0 0
+D0
+~
+~
+0 0 4014
+D1
+~
+~
+0 0 4012
+S
+#4012
+Somewhere in the Void~
+   You float in nothingness - or perhaps stand on nothingness, which is
+firm beneath your feet. All is dark, except for the glowing portals that
+lie to the north, east, and west.
+~
+40 131212 0 0 0 0
+D0
+~
+~
+0 0 4000
+D1
+~
+~
+0 0 4013
+D3
+~
+~
+0 0 4011
+S
+#4013
+Somewhere in the Void~
+   You float in nothingness - or perhaps stand on nothingness, which is
+firm beneath your feet. All is dark, except for the glowing portals that
+lie to the north and west.
+~
+40 131212 0 0 0 0
+D0
+~
+~
+0 0 4015
+D3
+~
+~
+0 0 4012
+S
+#4014
+Somewhere in the Void~
+   You float in nothingness - or perhaps stand on nothingness, which is
+firm beneath your feet. All is dark, except for the glowing portals that
+lie to the north and south.
+~
+40 131212 0 0 0 0
+D0
+~
+~
+0 0 4016
+D1
+~
+~
+0 0 4000
+D2
+~
+~
+0 0 4011
+S
+#4015
+Somewhere in the Void~
+   You float in nothingness - or perhaps stand on nothingness, which is
+firm beneath your feet. All is dark, except for the glowing portals that
+lie to the north and south.
+~
+40 131212 0 0 0 0
+D0
+~
+~
+0 0 4018
+D2
+~
+~
+0 0 4013
+D3
+~
+~
+0 0 4000
+S
+#4016
+Somewhere in the Void~
+   You float in nothingness - or perhaps stand on nothingness, which is
+firm beneath your feet. All is dark, except for the glowing portals that
+lie to the east and south.  
+~
+40 131212 0 0 0 0
+D1
+~
+~
+0 0 4017
+D2
+~
+~
+0 0 4014
+S
+#4017
+Somewhere in the Void~
+   You float in nothingness - or perhaps stand on nothingness, which is 
+firm beneath your feet. All is dark, except for the glowing portals that
+lie to the east and west.
+~
+40 131212 0 0 0 0
+D1
+~
+~
+0 0 4018
+D2
+~
+~
+0 0 4000
+D3
+~
+~
+0 0 4016
+S
+#4018
+Somewhere in the Void~
+   You float in nothingness - or perhaps stand on nothingness, which is 
+firm beneath your feet. All is dark, except for the glowing portals that
+lie to the south and west.
+~
+40 131213 0 0 0 0
+D2
+~
+~
+0 0 4015
+D3
+~
+~
+0 0 4017
+S
+$~

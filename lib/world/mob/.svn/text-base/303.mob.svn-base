@@ -1,0 +1,30 @@
+#30301
+plastic blob pillow~
+a blobby plastic pillow~
+A blob of plastic rests upon the plastic couch.
+~
+It sits there on the couch and cheeps at you, staring intently with plastic
+antennae that remind you of snails and crabs.
+~
+2097161 0 0 0 0 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 650000
+6 6 0
+BareHandAttack: 12
+Race: 25
+Noise: A massive farting sound comes from nearby.
+E
+#30303
+hidden mob~
+the hidden mob~
+You can't see the hidden mob in the room.
+~
+It's hiding, you cant see it.
+~
+16394 0 0 0 524288 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+6 6 0
+Noise: You bonk your head into the clear glass sphere - DOH! Watch out, man!
+E
+$

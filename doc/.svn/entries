@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1396"
+   name=""
+   committed-date="2008-04-23T02:28:59.937847Z"
+   url="file:///var/svn/trunk/2.2/doc"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1366"
+   name="mechanics.xls"
+   text-time="2008-05-23T03:43:25.000000Z"
+   committed-date="2008-03-29T02:41:31.628928Z"
+   checksum="34ec54197667af0795bc9949202307c8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:25.000000Z"/>
+<entry
+   committed-rev="1396"
+   name="coding_style.txt"
+   text-time="2008-05-23T03:43:25.000000Z"
+   committed-date="2008-04-23T02:28:59.937847Z"
+   checksum="763298a02ed7f0bf32f0e0ec8e7154c9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:25.000000Z"/>
+</wc-entries>

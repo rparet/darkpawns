@@ -1,0 +1,925 @@
+#8500
+Temple Medical Centre~
+  Part of the Church's rule of Kir Drax'in involves medical care for its
+citizenry.  This medical centre is far from modern though, using only
+church approved techniques and technology.  Understandably, the mortality
+rate is very high.
+~
+85 28 0 0 0 0
+D2
+~
+~
+0 0 8501
+D4
+~
+~
+0 0 8008
+S
+#8501
+The Morgue~
+   This large room looks more like a butcher shop than a mortuary,
+with thick, dried pools of blood and bits of gore stuck to the floor.
+Obviously, the smell here is less than pleasant and carries a distinct
+wafe of chemicals.  The evil-looking man hunched over a shrouded body
+may be your only hope of getting your possessions back, however.
+~
+85 28 0 0 0 0
+D0
+~
+~
+0 0 8500
+S
+#8502
+The Arena~
+   This area is for those frustrated adventurers to vent their anger
+against other players.  This is a smaller arena than the one in the
+great town of Kir Drax'in but it is big enough to hack something (or
+someone) to bits.  There is a large wall to the north and west, but
+it looks like you can leave to the east or south.
+~
+85 134414340 0 0 0 2
+D1
+~
+~
+0 0 8503
+D2
+The Arena~
+~
+0 -1 8505
+S
+#8503
+The Arena~
+   This area is for those frustrated adventurers to vent their anger
+against other players.  This is a smaller arena than the one in the
+great town of Kir Drax'in but it is big enough to hack something (or
+someone) to bits.  There are walls to the north and east, but it
+looks like you can leave to the west and the south.
+~
+85 134414340 0 0 0 2
+D2
+The Arena~
+~
+0 -1 8506
+D3
+~
+~
+0 0 8502
+S
+#8504
+The Arena~
+   This area is for those frustrated adventurers to vent their anger
+against other players.  This is a smaller arena than the one in the
+great town of Kir Drax'in but it is big enough to hack something (or
+someone) to bits.  There is a wall here to the west and north, but
+you can leave to the east and south.
+~
+85 134414340 0 0 0 2
+D1
+The Arena~
+~
+0 -1 8505
+D2
+The Arena~
+~
+0 -1 8507
+S
+#8505
+The Arena~
+   This area is for those frustrated adventurers to vent their anger
+against other players.  This is a smaller arena than the one in the
+great town of Kir Drax'in but it is big enough to hack something (or
+someone) to bits.  You seem to be able to leave in any direction.
+~
+85 134414340 0 0 0 2
+D0
+The Arena~
+~
+0 -1 8502
+D1
+The Arena~
+~
+0 -1 8506
+D2
+The Arena~
+~
+0 -1 8508
+D3
+The Arena~
+~
+0 -1 8504
+S
+#8506
+The Arena~
+   This area is for those frustrated adventurers to vent their anger
+against other players.  This is a smaller arena than the one in the
+great town of Kir Drax'in but it is big enough to hack something (or
+someone) to bits.  There is a large wall directly to your east, but 
+seem to be able to move north, west, or south.
+~
+85 134414340 0 0 0 2
+D0
+The Arena~
+~
+0 -1 8503
+D2
+The Arena~
+~
+0 -1 8509
+D3
+The Arena~
+~
+0 -1 8505
+S
+#8507
+The Arena~
+   This area is for those frustrated adventurers to vent their anger
+against other players.  This is a smaller arena than the one in the
+great town of Kir Drax'in but it is big enough to hack something (or
+someone) to bits.  There are large walls to your west and south, but
+you seem to be able to move north and east.
+~
+85 134414340 0 0 0 2
+D0
+The Arena~
+~
+0 -1 8504
+D1
+The Arena~
+~
+0 -1 8508
+S
+#8508
+The Arena~
+   This area is for those frustrated adventurers to vent their anger
+against other players.  This is a smaller arena than the one in the
+great town of Kir Drax'in but it is big enough to hack something (or
+someone) to bits.  You can exit the arena to the south, and you seem
+to be able to move to the west, north, or east.
+~
+85 134414340 0 0 0 2
+D0
+The Arena~
+~
+0 -1 8505
+D1
+~
+~
+0 0 8509
+D3
+The Arena~
+~
+0 -1 8507
+S
+#8509
+The Arena~
+   This area is for those frustrated adventurers to vent their anger
+against other players.  This is a smaller arena than the one in the
+great town of Kir Drax'in but it is big enough to hack something (or
+someone) to bits.  There are large walls to your south and east, but
+you seem to be able to move north and west.
+~
+85 134414340 0 0 0 2
+D0
+The Arena~
+~
+0 -1 8506
+D3
+~
+~
+0 0 8508
+S
+#8510
+Hall of Cells~
+   This is a hallway to lead you to a few of the different types of
+creatures that wander around this realm.  To the east you see a sign.
+To look at this sign type "look sign".
+~
+85 8 0 0 0 0
+D1
+Warg Kennels
+~
+door~
+1 -1 8511
+D2
+Hall of Cells
+~
+~
+0 -1 8514
+E
+sign~
+                        ---------------------
+                        |       Warg        |
+                        |                   |
+                        |      Kennels      |
+                        ---------------------
+~
+S
+#8511
+Warg Kennels~
+   There are some pretty vicious looking small animals here.  If you
+slaughter them (That is why you're here, isn't it?) you can type "carve
+corpse" to carve some meat off the corpse.
+~
+85 8 0 0 0 0
+D3
+Hall of Cells
+~
+door~
+1 -1 8510
+S
+#8512
+Cleric Guild~
+     This young cleric is very experienced, despite his youth.  To learn
+from him type "practice" and see what he has available for you.
+~
+85 8 0 0 0 0
+D2
+Cleric Ante-chamber
+~
+~
+0 -1 8516
+S
+#8513
+Warrior Guild~
+   This young warrior is very experienced, despite his youth.  To learn
+from him type "practice" and see what he has available for you.
+~
+85 8 0 0 0 0
+D2
+Warrior Ante-chamber
+~
+~
+0 -1 8517
+S
+#8514
+Hall of Cells~
+   This is a hallway to lead you to a few of the different types of creatures
+that you wander around this realm.  To the east you see a sign.  To look at
+the sign type "look sign".
+~
+85 8 0 0 0 0
+D0
+Hall of Cells
+~
+~
+0 -1 8510
+D1
+Wolf Kennels
+~
+door~
+1 -1 8515
+E
+sign~
+                        ---------------------
+                        |       Wolf        |
+                        |                   |
+                        |      Kennels      |
+                        ---------------------
+~
+S
+#8515
+Wolf Kennels~
+   This room looks like its been mauled by wolves.  Pretty dangerous 
+creatures for someone of your level.
+~
+85 8 0 0 0 0
+D3
+Hall of Cells
+~
+door~
+1 -1 8514
+S
+#8516
+Cleric Antechamber~
+   This room is meant to protect the cleric guildmaster from all harm and
+danger.  There is a good-sized door to the north (where you imagine the
+guildmaster would be.)  But unless you are a cleric, it would probably
+not be advisable to try to go that direction.
+~
+85 8 0 0 0 0
+D0
+Cleric guild
+~
+~
+0 -1 8512
+D2
+Guild Hall
+~
+~
+0 -1 8519
+S
+#8517
+Warrior Antechamber~
+   This room is meant to protect the warrior guildmaster from all harm and
+danger.  There is a good-sized door to the north (where you imagine the
+guildmaster would be.)  But unless you are a warrior, it would probably 
+not be advisable to try to go that direction.
+~
+85 8 0 0 0 0
+D0
+Warrior guild
+~
+~
+0 -1 8513
+D2
+Guild hall
+~
+~
+0 -1 8520
+S
+#8518
+Psionist Antechamber~
+   As you stand in this sparsely decorated foyer, you feel your mind
+probed by many unseen Psionics, perhaps even the guildmaster herself,
+who lies in the room to the west.
+~
+85 32776 0 0 0 0
+D0
+~
+~
+0 0 8079
+D3
+Guildmaster's Room
+~
+~
+0 -1 8538
+S
+#8519
+Guild Hall~
+   All young adventurers need a place to train.  This hallway provides
+access to those resources.  You see a sign mounted on the wall here.
+~
+85 8 0 0 0 0
+D0
+Cleric ante-chamber
+~
+~
+0 -1 8516
+D1
+Guild Hall
+~
+~
+0 -1 8520
+D2
+Magic User ante-chamber
+~
+~
+0 -1 8524
+D3
+Guild Hall construction zone
+~
+~
+0 -1 8518
+E
+sign~
+                      -----------------------
+                      |      Cleric-N       |
+                      |                     |
+                      |    Magic User-S     |
+                      -----------------------
+~
+S
+#8520
+Guild Hall~
+   All young adventurers need a place to train.  This hallway provides
+access to those resources.  You see a sign mounted on the wall here.
+~
+85 8 0 0 0 0
+D0
+Warrior ante-chamber
+~
+~
+0 -1 8517
+D2
+Thief ante-chamber
+~
+~
+0 -1 8525
+D3
+Guild Hall
+~
+~
+0 -1 8519
+E
+sign~
+                      -----------------------
+                      |      Warrior-N      |
+                      |                     |
+                      |       Thief-S       |
+                      -----------------------
+~
+S
+#8521
+Central Training Room~
+   This room is almost directly in the center of this fine training facility,
+the heart of which is the arena, directly north. Designed for new adventurers,
+you can hear the shouts and cries of battle even from here. The exit of the
+facility is a narrow ladder leading up.
+~
+85 12 0 0 0 0
+D0
+~
+<NONE>~
+0 0 8550
+D4
+~
+~
+0 0 8004
+S
+#8522
+A Training Room~
+   This room looks like it's been heavily used for practicing various combat
+techniques.  The walls have huge holes gouged out of them and are covered in
+blood.
+~
+85 8 0 0 0 0
+D0
+~
+~
+0 0 8523
+D2
+~
+~
+0 0 8521
+E
+sign~
+                        ---------------------
+                        |      Kir Drax'in  |
+                        |                   |
+                        |       Jail        |
+                        ---------------------
+~
+S
+#8523
+A Training Room~
+   This room has the appearance of a room used for extensive combat training.
+The bloodcaked walls lead you to believe that many a brave soul has died in
+this room.
+~
+85 8 0 0 0 0
+D0
+~
+~
+0 0 8524
+D2
+~
+~
+0 0 8522
+S
+#8524
+A Training Room~
+   This room looks like it's been through rough times. The heavy wear and
+tear on the walls, floor, and even the ceiling make this place look like
+it hosted World War II.
+~
+85 8 0 0 0 0
+D2
+~
+~
+0 0 8523
+S
+#8525
+Inside the Dojo~
+   Light streams in from outside and refracts off the rice-paper walls,
+turning the inside of this modest dwelling bright as day.  A few sparse
+decorations -- a rack of katanas here, a painted scene of battle there,
+a straw broom in the corner -- are all that decorate this place. 
+   A doorway to the south marks the room of the guildmaster. 
+~
+85 32776 0 0 0 0
+D0
+
+~
+~
+0 -1 8077
+D2
+A poorly lit back room.
+~
+~
+0 -1 8527
+S
+#8526
+Mages Guild~
+   This room is full of bottles and scrolls.  A perfect place to teach
+the young magic-user the beginnings of magic.
+~
+85 8 0 0 0 0
+D0
+Magic-user ante-chamber
+~
+~
+0 -1 8524
+S
+#8527
+The Back Room~
+   The airy room is separated from the entrance to the north only by a thin
+rice-paper wall. A small firepit has been dug in the dirt floor, over which
+brews a pot of herb tea. The guildmaster stirs it slowly with a bamboo whisk,
+eyeing you with a calm dignity.
+   A colorfully painted divider leans against one wall, almost covering a
+tunnel leading into the sewers under the city -- a safehouse for adventurers
+on the run.     
+~
+85 32780 0 0 0 0
+D0
+Thief ante-chamber~
+~
+0 -1 8525
+D5
+~
+~
+0 0 16300
+S
+#8528
+School Hallway~
+   The SCORE command shows you what level you are and other vital statistics
+about you.
+~
+85 12 0 0 0 0
+D0
+Central room~
+~
+0 -1 8521
+S
+#8529
+Hall of Cells~
+   This is a hallway to lead you to a few of the different types of
+creatures that wander around this realm.  To the east you see a sign.
+To look at this sign, type "look sign".
+~
+85 8 0 0 0 0
+D0
+Hall of Cells
+~
+~
+0 -1 8522
+D1
+Mercenary room
+~
+door~
+1 -1 8530
+D2
+Hall of Cells~
+~
+0 -1 8534
+E
+sign~
+                        ---------------------
+                        |     Mercenary     |
+                        |                   |
+                        |       Room        |
+                        ---------------------
+~
+S
+#8530
+Mercenary Room~
+   The phrase, "Hey wanna hire me?" comes to mind.  This room is not very
+clean, but you can see the reflection of shiny and well-honed swords on
+the ground.  You hope those aren't from slaughtered adventurers like
+yourself.
+~
+85 8 0 0 0 0
+D3
+Hall of Cells
+~
+door~
+1 -1 8529
+S
+#8531
+Entrance to the Training Center~
+   The purpose of this place is very clear: to help you get up to speed
+with the basics of how to maneuver about the world. The first thing you
+should do is stop being naked. The way to wear equipment is to use the
+WEAR command. You can wear multiple things at one time by typing WEAR
+ALL. Another command that you will find useful is the HELP command.
+~
+85 12 0 0 0 0
+D1
+Training Arena Hall
+~
+~
+0 -1 8532
+S
+#8532
+Training Room~
+   A variety of tapestries line the walls here; depicting weapons of every
+shape and size imaginable.  To use your weapon in battle, you must enter
+WIELD <weapon name>.  Your <weapon name> is based on your class, and could
+be a dagger, sword, katana, club, etc.
+   To see what you are carrying, use the INVENTORY (or INV) command.
+~
+85 12 0 0 0 0
+D1
+Training Arena Hall
+~
+~
+0 -1 8533
+S
+#8533
+Training Room~
+   In order to stay fit, you need to eat and drink. EAT <food name> where
+<food name> is whatever you want to eat in your inventory (usually bread,
+meat, or perhaps a magically created mushroom). Drink is the same way; 
+DRINK WATER, for example.
+~
+85 12 0 0 0 0
+D0
+Training Arena Hall
+~
+~
+0 -1 8528
+S
+#8534
+Hall of Cells~
+   This is a hallway to lead you to a few of the different types of 
+creatures that you wander around this realm.  To the east you see
+a sign.  To look at the sign, type "look sign".
+~
+85 8 0 0 0 0
+D0
+Hall of Cells
+~
+~
+0 -1 8529
+D1
+Guard room
+~
+door~
+1 -1 8535
+D2
+Exit of Hall of Cells
+~
+~
+0 -1 8537
+E
+sign~
+                        ---------------------
+                        |      Guard        |
+                        |                   |
+                        |       Room        |
+                        ---------------------
+~
+S
+#8535
+Guard room~
+   Very clean and orderly, a fine band of people probably stay in this room.
+~
+85 8 0 0 0 0
+D3
+Hall of Cells
+~
+door~
+1 -1 8534
+S
+#8536
+Exit From Training~
+   This is the exit from the facility, you can always come back later
+to learn and practice your skills, but for now, you are most likely
+fit for battle.  Adventure Well!
+~
+85 8 0 0 0 0
+D5
+Exit from Cells 
+~
+~
+0 -1 8537
+S
+#8537
+Exit From Cells~
+   This is the exit from the hall of cells.  You can always come back later to
+fight and hone your skills, but for now you are probably tired and ready for a
+break -- or ready to try them in the real world.
+~
+85 8 0 0 0 0
+D0
+Hall of Cells~
+~
+0 -1 8534
+D4
+Exit from Arena~
+~
+0 -1 8536
+S
+#8538
+Psionist Guild~
+   Your mind is virtually overcome by the power in this room.  Except for some
+straw mats on the floor and a stick of incense hanging from the ceiling, it is
+empty of furnishings. A dark tunnel leads downward, seeming to call to you with
+promises of adventure.
+~
+85 32780 0 0 0 0
+D1
+~
+~
+0 -1 8518
+D5
+~
+~
+0 0 16300
+S
+#8539
+In The Tunnels~
+   You stand in one of the near-black tunnels that catacomb the underworld
+of the city above.  There seems to be no way back up, for the walls are
+slippery with mold and slime.  Carved into the wall are some crude markings.
+~
+85 4 0 0 0 0
+D1
+~
+~
+0 0 8531
+D3
+~
+~
+0 0 8521
+E
+wall markings~
+-- Unexperienced adventurers head EAST ---->
+<---- Experienced adventurers head WEST --
+~
+S
+#8550
+In the Arena~
+   This underground arena must lie directly beneath the heart of the city
+of Kir Drax'in.  The cavern ceiling, several hundred feet above you, is lit
+by a faint magical illumination, spreading a sickening greenish glow on the
+battlefield beneath your feet.  
+   The exit of the arena lies to the south, and the arena itself opens up
+in all other directions.
+~
+85 8 0 0 0 0
+D0
+~
+~
+0 0 8554
+D1
+~
+~
+0 0 8552
+D2
+~
+~
+0 0 8521
+D3
+~
+~
+0 0 8551
+S
+#8551
+In The Arena~
+   The clashing sounds of battle echo all around you, and you stay near the
+southwestern wall that rises up to meet the ceiling far above you.  A little
+ways east of here lies the exit of the arena, and to the northeast you can
+see a plethora of assorted corpses and battling groups of adventurers.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8553
+D1
+~
+~
+0 0 8550
+S
+#8552
+In the Arena~
+   The clashing sounds of battle echo all around you, and you stay near the
+southeastern wall that rises up to meet the ceiling far above you.   A little
+ways west of here lies the exit of the arena, and to the northeast you can
+see a plethora of assorted corpses and battling groups of adventurers.
+~
+85 8 0 0 0 0
+D0
+~
+~
+0 0 8555
+D3
+~
+~
+0 0 8550
+S
+#8553
+In the Arena~
+   You hug the western wall of the cavern here, staying out of the thick
+of the fray.  Far to the southeast you see the arena exit; everywhere
+else, only the grim tide of battle can be seen.  Corpses and bones litter
+the ground in a vast profusion of decay and rot.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8556
+D1
+~
+~
+0 0 8554
+D2
+~
+~
+0 0 8551
+S
+#8554
+In the Arena~
+   You stand in dead-center of the arena, with battling figures all around
+you.  Far to the south lies the exit of the arena, but all other directions
+show the solid rock walls of the cavern that keep the battle contained in a
+tight dome under what must be a bustling city above.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8557
+D1
+~
+~
+0 0 8555
+D2
+~
+~
+0 0 8550
+D3
+~
+~
+0 0 8553
+S
+#8555
+In the Arena~
+   You hug the eastern wall of the cavern here, staying out of the thick
+of the fray.  Far to the southwest you see the arena exit; everywhere 
+else, only the grim tide of battle can be seen.  Corpses and bones litter
+the ground in a vast profusion of decay and rot.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8558
+D2
+~
+~
+0 0 8552
+D3
+~
+~
+0 0 8554
+S
+#8556
+In the Arena~
+   The clashing sounds of battle echo all around you, and you stay near the
+northwestern wall that rises up to meet the ceiling far above you.  Far to
+the southeast lies the exit of the arena, but between here and there lies a
+raging battle.
+~
+85 0 0 0 0 0
+D1
+~
+~
+0 0 8557
+D2
+~
+~
+0 0 8553
+S
+#8557
+In the Arena~
+   This underground arena must lie directly beneath the heart of the city
+of Kir Drax'in. The cavern ceiling, several hundred feet above you, is lit
+by a faint magical illumination, spreading a sickening greenish glow on
+the battlefield beneath your feet. The exit of the arena lies far to the
+south, across a battlefield overrun with warring figures.
+~
+85 0 0 0 0 0
+D1
+~
+~
+0 0 8558
+D2
+~
+~
+0 0 8554
+D3
+~
+~
+0 0 8556
+S
+#8558
+In the Arena~
+   The clashing sounds of battle echo all around you, and you stay near the
+northeastern wall that rises up to meet the ceiling far above you.  Far to
+the southwest lies the exit of the arena, but between here and there rages
+a dozen small battles between unrecognizable beings.
+~
+85 0 0 0 0 0
+D2
+~
+~
+0 0 8555
+D3
+~
+~
+0 0 8557
+S
+$~

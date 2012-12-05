@@ -1,0 +1,997 @@
+#30200
+Room #30200~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30201
+D2
+~
+~
+0 -1 30205
+S
+#30201
+Room #30201~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30202
+D3
+~
+~
+0 -1 30200
+S
+#30202
+Room #30202~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D2
+~
+~
+0 -1 30206
+D3
+~
+~
+0 -1 30201
+S
+#30203
+Room #30203~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30204
+D2
+~
+~
+0 -1 30212
+S
+#30204
+Room #30204~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30205
+D3
+~
+~
+0 -1 30203
+S
+#30205
+Room #30205~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30200
+D3
+~
+~
+0 -1 30204
+S
+#30206
+Room #30206~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30202
+D1
+~
+~
+0 -1 30207
+S
+#30207
+Room #30207~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30208
+D3
+~
+~
+0 -1 30206
+S
+#30208
+Room #30208~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30209
+D3
+~
+~
+0 -1 30207
+S
+#30209
+Island Shore~
+You are in the middle of a well worn gravel trail.  You can see the sea in
+almost every direction that you look.  This gravel trail extends to the west
+and the south of this point.
+~
+302 0 0 0 0 2
+D2
+~
+~
+0 -1 30215
+D3
+~
+~
+0 -1 30208
+S
+#30210
+Room #30210~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30211
+D2
+~
+~
+0 -1 30220
+S
+#30211
+Room #30211~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30212
+D3
+~
+~
+0 -1 30210
+S
+#30212
+Room #30212~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30203
+D2
+~
+~
+0 -1 30216
+D3
+~
+~
+0 -1 30211
+S
+#30213
+Room #30213~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D2
+~
+~
+0 -1 30219
+D4
+~
+~
+0 -1 30214
+S
+#30214
+Room #30214~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D5
+~
+~
+0 -1 30213
+S
+#30215
+Beach along the Sea~
+You are currently on a well maintained gravel walkway.  To your east
+you see the blue waters of the sea.  To the west light seems to
+almost be absorbed into the thick green forest canopy.  Farther south
+the trail hints at turning more inland.  This gravel trail also continues
+northward.
+~
+302 0 0 0 0 2
+D0
+~
+~
+0 -1 30209
+D2
+~
+~
+0 -1 30223
+S
+#30216
+Room #30216~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30212
+D4
+~
+~
+0 -1 30217
+S
+#30217
+Room #30217~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30218
+D5
+~
+~
+0 -1 30216
+S
+#30218
+Room #30218~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D3
+~
+~
+0 -1 30217
+D5
+~
+~
+0 -1 30227
+S
+#30219
+Room #30219~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30213
+D5
+~
+~
+0 -1 30228
+S
+#30220
+Room #30220~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30210
+D2
+~
+~
+0 -1 30229
+S
+#30221
+Lagoon Beachside~
+You are on a very well maintained gravel path.  The trees have been trimmed
+back to allow full view of the beach to the south and the east of here.  
+However dense vegetation allows almost no visibility into the interior
+of this place.
+~
+302 0 0 0 0 2
+D1
+~
+~
+0 -1 30222
+D2
+~
+~
+0 -1 30234
+S
+#30222
+Lagoon Beachside~
+You are on a well maintained gravel path.  In the distance to the south
+you can see the docks.  You may follow the path to the east or west.  To
+the east lies more clear water, in contrast to the deep green of the
+lagoon. To the west lies more deep green lagoon water.
+~
+302 0 0 0 0 4
+D1
+~
+~
+0 -1 30223
+D3
+~
+~
+0 -1 30221
+S
+#30223
+Mouth of Lagoon~
+You are at the point where the sea meets the lagoon.  The water to your
+south is very apparently different than the lagoon water farther west.
+You can continue on west and head farther into the lagoon, or head
+north up the beach on a sturdy gravel trail.
+~
+302 0 0 0 0 2
+D0
+~
+~
+0 -1 30215
+D3
+~
+~
+0 -1 30222
+S
+#30224
+Room #30224~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30225
+D2
+~
+~
+0 -1 30230
+S
+#30225
+Room #30225~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30226
+D2
+~
+~
+0 -1 30231
+D3
+~
+~
+0 -1 30224
+S
+#30226
+Room #30226~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D2
+~
+~
+0 -1 30232
+D3
+~
+~
+0 -1 30225
+S
+#30227
+Room #30227~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30228
+D4
+~
+~
+0 -1 30218
+S
+#30228
+Room #30228~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D3
+~
+~
+0 -1 30227
+D4
+~
+~
+0 -1 30219
+S
+#30229
+Room #30229~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30220
+D1
+~
+~
+0 -1 30230
+D2
+~
+~
+0 -1 30239
+S
+#30230
+Room #30230~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30224
+D1
+~
+~
+0 -1 30231
+D2
+~
+~
+0 -1 30235
+D3
+~
+~
+0 -1 30229
+S
+#30231
+Room #30231~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30225
+D1
+~
+~
+0 -1 30232
+D2
+~
+~
+0 -1 30236
+D3
+~
+~
+0 -1 30230
+S
+#30232
+Room #30232~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30226
+D2
+~
+~
+0 -1 30237
+D3
+~
+~
+0 -1 30231
+S
+#30233
+Mushy Ground~
+The path this direction has become softer, and not nearly as well maintained.
+Light green algae covers most of the rocks along the trail.  A less pleasant
+smell hovers in the air.
+~
+302 0 0 0 0 4
+D1
+~
+~
+0 -1 30234
+D2
+~
+~
+0 -1 30238
+S
+#30234
+Lagoon Dockside~
+Old wooden docks, but very well taken care of.  Not very surprising
+considering how well maintained the lagoon is.  The water is green here
+because of the abundance of vegetation, but there is no foul odor.
+To either side of the docks there is a white sand beach, leading into a small
+graval path.
+~
+302 0 0 0 0 2
+D0
+~
+~
+0 -1 30221
+D2
+~
+~
+0 -1 30242
+D3
+~
+~
+0 -1 30233
+S
+#30235
+Room #30235~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30230
+D1
+~
+~
+0 -1 30236
+S
+#30236
+Room #30236~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30231
+D1
+~
+~
+0 -1 30237
+D3
+~
+~
+0 -1 30235
+S
+#30237
+Room #30237~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30232
+D3
+~
+~
+0 -1 30236
+S
+#30238
+Room #30238~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30233
+D2
+~
+~
+0 -1 30250
+S
+#30239
+Room #30239~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30229
+D2
+~
+~
+0 -1 30251
+S
+#30240
+Room #30240~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30241
+D2
+~
+~
+0 -1 30248
+S
+#30241
+Room #30241~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D2
+~
+~
+0 -1 30249
+D3
+~
+~
+0 -1 30240
+S
+#30242
+Lagoon Beachside~
+You are on a well defined gravel trail.  The trees are a slight bit overgrown, 
+therebye blocking out most of the light.  To the north you see wooden docks
+butting up against the shore.  To the east this gravel trail continues.
+~
+302 0 0 0 0 2
+D0
+~
+~
+0 -1 30234
+D1
+~
+~
+0 -1 30243
+S
+#30243
+Lagoon Beachside~
+You are on a well maintained gravel path.  In the distance to the north west
+you can see the docks.  You can follow the path east or west from this point.
+To the east lies a more clear body of water, in contrast to the deep
+green of the lagoon.
+~
+302 0 0 0 0 2
+D1
+~
+~
+0 -1 30244
+D3
+~
+~
+0 -1 30242
+S
+#30244
+Room #30244~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D2
+~
+~
+0 -1 30252
+D3
+~
+~
+0 -1 30243
+S
+#30245
+Room #30245~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D4
+~
+~
+0 -1 30246
+S
+#30246
+Room #30246~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D4
+~
+~
+0 -1 30247
+D5
+~
+~
+0 -1 30245
+S
+#30247
+Room #30247~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30248
+D5
+~
+~
+0 -1 30246
+S
+#30248
+Room #30248~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30240
+D3
+~
+~
+0 -1 30247
+S
+#30249
+Room #30249~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30241
+D1
+~
+~
+0 -1 30250
+S
+#30250
+Room #30250~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30238
+D3
+~
+~
+0 -1 30249
+S
+#30251
+Room #30251~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30239
+D2
+~
+~
+0 -1 30255
+S
+#30252
+Room #30252~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30244
+D2
+~
+~
+0 -1 30263
+S
+#30253
+Room #30253~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30254
+D2
+~
+~
+0 -1 30257
+S
+#30254
+Room #30254~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D2
+~
+~
+0 -1 30258
+D3
+~
+~
+0 -1 30253
+S
+#30255
+Room #30255~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30251
+D1
+~
+~
+0 -1 30256
+S
+#30256
+Room #30256~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30257
+D3
+~
+~
+0 -1 30255
+S
+#30257
+Room #30257~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30253
+D3
+~
+~
+0 -1 30256
+S
+#30258
+Room #30258~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30254
+D1
+~
+~
+0 -1 30259
+S
+#30259
+Room #30259~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30260
+D3
+~
+~
+0 -1 30258
+S
+#30260
+Room #30260~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D2
+~
+~
+0 -1 30264
+D3
+~
+~
+0 -1 30259
+S
+#30261
+Room #30261~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30262
+D2
+~
+~
+0 -1 30266
+S
+#30262
+Room #30262~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30263
+D3
+~
+~
+0 -1 30261
+S
+#30263
+Room #30263~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30252
+D3
+~
+~
+0 -1 30262
+S
+#30264
+Room #30264~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30260
+D1
+~
+~
+0 -1 30265
+S
+#30265
+Room #30265~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D1
+~
+~
+0 -1 30266
+D3
+~
+~
+0 -1 30264
+S
+#30266
+Room #30266~
+This description is yet unfinished...
+~
+302 0 0 0 0 0
+D0
+~
+~
+0 -1 30261
+D3
+~
+~
+0 -1 30265
+S
+$~

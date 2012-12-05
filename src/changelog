@@ -1,0 +1,291 @@
+New changelog started 19990219.
+19990219:
++ added nowiz to chosen
+19990222:
++ added ansi color to qsay
++ fixed old "wear <item> !" bug.
+19990223:
++ updated legacy where code
++ added snprintf in various locations for buffer integrity
+19990304:
++ discovered groinrip as source of elusive act() bug, fixed it.
+19990308:
++ changed holy shield, prot good/evil, and detect align to
+  have a non-cumulative upkeep due to player abuse.
++ hide invis clan members on clan who
+19990315:
++ made corpses !take to solve autoloot bug, and on general principle
++ hide invis people/gods on ctell
++ fixed it so you can't use any clan abilities when you are only a
+  clan applicant
+19990323:
++ made a successful parry have an attacker lose one attack/round
+  instead of all attacks for the round, which is slightly more fair.
+19990324:
++ fixed a bug I discovered in conjure elemental spec proc
+19990411:
++ added remort protection for imms
+- removed sysfile syslog
++ made mute cover tells and says for that player
+19990413:
++ added dynamic banning of ip addresses
+19990416:
++ added player quit clan w/o leader consent
++ added option for clan leaders to show/hide their clan
++ added mirror image for psi/mys
++ added requested skills to Ranger class
++ reformated clan info output
++ clan enroll with no arguments shows who has applied to your clan.
+19990418:
++ made it so you cannot disarm mobs you aren't fighting
+19990425:
++ fixed long time bug in mobile_activity that allowed chars that were
+  already dead to be moving.. source of long-timg elusive crash problems.
+1990426:
++ made align for neutral people show correctly in score
++ fixed dracula to vamp people even if you abbreviate his name
++ changed string to only look for objects you are carrying
+19990428:
++ fixed take_to_jail mobs to just take you there if you enter combat w/ them.
+19990429:
++ fixed attitude_loot to work better
++ updated the search (detect) command to make it work better.
++ fixed problem with casting spells like poison in safe zones
++ put a safety proc on the KD recruiter
+19990505:
++ changed disarm to work during combat.
+19990510:
++ changed summon so you cannot summon people who have !summon on.
++ added a function in utils.c ok_to_damage(ch, victim, magic?) for weird cases
++ fixed bug where you could soul leech shopkeepers and gain life
++ fixed the autotitle for levels 1-3
++ updated set help to the current table
+19990514:
++ fixed minor bug in clan enroll
+19990611:
++ fixed bug with invis people and ctell
++ fixed bug with ninjas using neckbreak in peace rooms
++ compare, appraise, and palm now improve with use.
+19990621:
++ fixed a bug with mirror image
+19990624:
++ fixed minor bug with ctell #
++ fixed problem with charge
++ made dragon kick better
++ fixed major bug in clan enroll
+1990627:
++ fixed a bug in broadcast where invis imms walking still scrolled players screens
+19990630:
++ added a min/max for clan dues and app fees
+19990702:
++ found an erronous free that was crashing the bpt, removed it.
+19990714:
++ changed the clan applevel to be ranged from 1-30 instead of 1-999
+19990715:
++ fixed a bug with "o followers quit" crashing the game
+19990719:
++ added the ability to cryo-store players who will be inactive via the NODELETE set
+19990726:
++ added a double wildcard banning system
+19990809:
++ kuji kiri never checked if you had the appropriate skill before letting you use the
+  abilities, so if you got one kk skill, you had them all. This is now fixed.
+19990810:
++ fixed a bug in casting spells outside vs. inside
++ fixed a typo in score for armor
++ fixed a bug in soul leech
+19990918:
++ fixed wear off message on protection from good.
++ fixed bug with smackheads so that it isn't all-powerful anymore
++ added an error message on failed to create water
++ fixed bug with qsays scrolling your screen while writing
++ changed it so that muted characters cannot use think or emote
++ same as above for mind barred characters
++ increased duration on lesser perception
++ increased cell adjustments healing ability
++ fixed bug which allowed players to abuse mindsight
++ made it so gods can summon anyone regardless of summon protection
++ disarm now only knocks weapons from hand into inventory, to defeat abuse
+19991003:
++ fixed bug with orig_con vs. con in remort adjusts
++ fixed it so going to/from AFK status is respectful of your visibility.
++ added logging for unsuccessful psteals
++ added a bunch of mount checks to things that needed them
+19991007:
++ removed an unintentional bug created by the new mount checks
++ changed "the Magi" to "the Mage"
++ changed who to use the string pager
+19991013:
++ updated pray immortality lists
+19991015:
++ fixed a bug I accidentally created when fixing disarm
++ made it so smackheads t akes victims average armor class into account
++ added clan id numbers in clan info for gods using ctell
+19991029:
++ added set: name
++ updated the set help file
+19991107:
++ fixed display bug on globe of invulnerability
+19991109:
++ redid ctell so it actually fucking works 
++ fixed kk rin
+19991111:
++ removed linkless players fleeing and safe removal.
++ made butler !kill
+19991123:
+* code commit and drop
+19991127:
++ fixed who so the chars in game message is sent at the end again
++ updated castle guards to use house control lists for checking access
++ updated do_house so imms can modify house control lists too
++ updated guards so players can't order them to move
++ redid quit so players can load and quit correctly from houses
+19991214:
++ fixed a problem in quit with players not reloading correctly.
++ imms can break the notel barrier
++ updated antiquated hit regen code for mobs, now all mobs regen twice as fast
+  as they did before.  Twice as many hp/tick.  Players took advantage of this
+  because they could regen via clerics faster than the mobs could.  The advantage
+  is still with the players, but at least now the mobs have a chance.
++ finally got around to removing the negative xp in score, that bug was only 3 years old :(.
++ fixed the condeath bug finally by moving the killer code to someplace more managable
++ fixed the vis from hide, vis from invis bug with the vampiric cloak
++ redid the castle teleporter, because it was written by Phondew a million years ago, and
+  he really lacked a clue. I mean the guy thought he was a cheese product for christ sake.
++ made it so you can't group with mobs that are hunting you to check out their level/hps, etc.
++ made show hooks have more information to aid the builders
+* commit
+19991216:
++ fixed a new bug with players not reloading correctly.
+19991221:
++ fixed a bug with cutthroat that allowed players to get around newbie protection
+19991226:
++ fixed two remort bugs, first with original con second with tattoos affecting stats
+* commit and drop
++ added additional Psteal logging
+20000107:
++ changed PS logging so that it writes to syslog
+20000120:
++ added chosen guard spec proc
+20000206:
++ fixed a bug with kender steal and newbies
+20000220:
++ changed newbie_zone_entrance to work with new newbie zone
++ added wall_guard_ns spec proc
++ fixed recruiter spec finally
+20000221:
++ added taggable colors to DP
++ fixed colors for Broadcast, qsay, and redid who for imms + chosen
++ changed autoloot so you can't accidentally loot other players
+20000226:
++ added "please choose an appropriate name" to initial char creation
+20000227:
++ changed max duration on flame strike to 5 hours
++ changed charge to lag the victim less and to fail more often on no_bash mobs
++ fixed a bug with shadowing characters
++ added apr to stat object
++ redid the start_room spec to load new players correctly
+* commit and drop
+20000301:
++ fixed a bug with cityguards causing players to execute their script
+20000305:
++ changed it so the <31> appears in privledged wiznets
++ changed examine from POS_SITTING to POS_RESTING
++ hopefully fixed the bug that was corrupting players house files
++ removed houses crash saving until I have some better way of managing their objects
++ added forgotten percent_load checks to object_to_room and object_to_object (reset_zone)
++ changed wall_guard_ns to hopefully stop the cityguard bug.
+* commit and drop
++ fixed a bug that allowed wiznet to be global :(
+20000319:
++ cleaned up PS logging
++ cleaned up movement underwater
+20000602:
++ hrmm three months since I did any work on the mud :(
++ fixed player renaming code
++ fixed advance (like that was so important)
++ alias and rent files should now be deleted properly
++ people who get deleted should be removed from clans correctly now
++ clan members/who should list the rank along with each member now
++ mud time should increment sequentially now, instead of randomly like before.
++ fixed strange bug with carve and carving up more than you can carry
+20000614:
++ changed it so 'Okay' doesn't give away mindsight
+20000620: 
+* commit
+20000626:
++ happy birthday
++ changed it so outlaw flag isn't cleared upon death
+20000808:
++ added new boards code for new clan castles
+20000811:
++ added delete_ansi_controls to strip out the & control character from texts
+20000817:
++ commit and drop
++ fixed a bug with delete_ansi_controls and qsay
++ fixed a bug with clan castles
++ commit and drop
++ removed houses saving finally
++ commit and drop
+20000825:
++ fixed a bug with wands crashing the game by sending bad act strings.
++ commit and drop
+20000904:
++ added a dump spec proc to 8085 (KD town dump)
+20001022:
++ fixed a dupe bug involving multiple char creation
+20010915:
++ fixed a bug with heartbeat_rooms
++ fixed those pesky where bugs
++ fixed a bug with forcing mobs to 'reallyquit' and crash the mud.
+20011104:
++ fixed a stock circle bug where group members could perform group spells on the leader
+  without being in the same room, rewrote mag_groups
+20011125:
++ fixed a bug with casting sleep while you are not an outlaw.
+20020304:
++ fixed a player-abusable stock circle bug with track
+20020322:
++ fixed a bug with players having like-named eq junked. ie iron mask vs. iron fan, leather bracer vs. arcane bracer
+20020516:
++ added more portals to the game for player castles
+20020527:
++ added new quest - rune stones
++ added support for portals decaying
++ added code for Tripnosis clan hall
+20020612:
++ fixed a bug with sip/taste that would allow you to eat/drink until full on one piece of food.
+20020626:
++ fixed a bug with spell_teleport that caused mobs to hit themselves
+20020628:
++ added logging of attitude loots
+20020801:
++ modified parry so that you get at least one parry upon successful use. Noted that better dex
+  means more parries in the help file
++ house keys are now tracked by the mud (3.0 enhancement)
++ players can now transfer house ownership to other players (3.0 enhancement)
++ added key_seller spec proc so that players can buy castle keys on their own
+20020914:
++ removed the ability for castle owners to order their guards around.
+20020917:
++ you can quit your clan if you are a leader now. Clans with zero members are disbanded.
++ ambush skill buffed considerably * port this code to 3.0 if we're keeping ambush
++ modified shoot skill a little * already removed in 3.0
++ fixed a bug with the player_table not being updated with the correct char name on
+  remade chars who choose different names
+20021012:
++ fixed a bug with vamp mana adding up
+20021230:
++ fixed a bug with dead chars sending tells
++ fixed an old bug with mass dominate working in peaceful rooms
+20030220:
++ fixed a bug with being able to "take" the green scale armor
++ added logging to clan deposits/withdrawals
+20030712:
++ fixed bugs with trip and bash failing because of reduced dam to 0, yet still setting people sitting
++ fixed a bug with staves being able to cast area effect spells 1x for every person in the room
++ fixed the "die while linkdead and keep your spells" bug
++ currently its kludged by not saving your descriptors host when you are disconnected, need a real fix.
++ buffed up and decreased variance in hp distribution for all classes
+20030720:
++ added some missing messages to do_disarm

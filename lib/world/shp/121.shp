@@ -1,0 +1,207 @@
+CircleMUD v3.0 Shop File~
+#12100~
+12100
+12135
+12136
+-1
+1.40
+0.60
+-1
+%s Only fish my friend, I have nothing else.~
+%s You don't seem to have that.~
+%s I only require fish, and that I can get myself.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, have a nice day.~
+%s I'll give you %d coins for that.~
+0
+0
+12101
+0
+12134
+-1
+0
+28
+0
+0
+#12101~
+12101
+12102
+12103
+12104
+-1
+1.50
+0.60
+8
+13
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+12102
+0
+12135
+-1
+0
+28
+0
+0
+#12102~
+6
+-1
+1.30
+0.70
+22
+-1
+%s Sorry, I only have boats for sale.~
+%s You don't seem to have that.~
+%s I only trade in boats.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+12106
+0
+12137
+-1
+0
+28
+0
+0
+#12103~
+12112
+12116
+12117
+-1
+1.30
+0.70
+17
+15
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+12107
+0
+12138
+-1
+0
+28
+0
+0
+#12104~
+12127
+12128
+-1
+1.10
+0.90
+-1
+%s Just what you see on the menu.~
+%s What would I want to do with that?~
+%s I have no need for that.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+12110
+0
+1
+-1
+0
+28
+0
+0
+#12105~
+12132
+12133
+12131
+12130
+-1
+1.50
+0.50
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+12100
+0
+12133
+-1
+0
+28
+0
+0
+#12132~
+-1
+1.20
+0.80
+11pelt seal
+11silk robe
+8bolt silk cloth
+11
+8
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+1
+1
+0
+-1
+0
+28
+0
+0
+#12134~
+12100
+12135
+12136
+-1
+1.00
+1.00
+-1
+%s Argh! I've not got that item, matey.~
+%s You don't seem to have that.~
+%s Aye, I don't know what a fishmonger would do with a thing like that!~
+%s I can't afford that!~
+%s Avast! Ye've not got enough money fer that!~
+%s That'll be %d coins, matey.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+0
+12134
+-1
+0
+28
+0
+0
+$~

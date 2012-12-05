@@ -1,0 +1,324 @@
+#21200
+small black pyramid~
+a small, black pyramid~
+A small, black pyramid has been left here.~
+~
+5 2 0 0 0 24577 0 0 0
+10 2 10 12
+1 5000 10.00
+A
+4 2
+#21201
+maul giant~
+a giant maul~
+A giant maul is here.~
+~
+5 269008896 0 0 0 8193 0 0 0
+0 3 7 6
+15 1000 25.00
+A
+10 10
+A
+19 2
+A
+18 1
+#21202
+hood chain mail~
+a chain mail hood~
+A pile of chain mail lies here.~
+~
+9 0 0 0 0 17 0 0 0
+3 0 0 0
+2 300 25.00
+#21203
+nosering hoop~
+a golden nosering~
+A small hoop of gold lies here.~
+$n's feet suddenly rise above the ground!
+~
+3 8256 0 0 0 147457 0 0 0
+20 3 3 74
+1 200 50.00
+A
+17 -3
+#21204
+chain silver~
+a silver chain with razor-sharp links~
+A long, silver chain with sharpened links lies in a pile here.~
+~
+5 8512 0 0 0 8193 0 0 0
+0 2 6 3
+9 1500 4.00
+A
+19 2
+#21205
+glaive blade shaft~
+a glaive~
+A long glaive is here.~
+~
+5 24576 0 0 0 8193 0 0 0
+0 5 2 3
+12 1300 25.00
+A
+2 -3
+A
+18 2
+#21206
+scimitar sword blade~
+a scimitar~
+A sword with a long, curved blade is here.~
+~
+5 8448 0 0 0 8193 0 0 0
+0 3 4 3
+8 800 100.00
+#21207
+zweihander sword~
+a zweihander~
+A sword with a very wide blade is here.~
+~
+5 403468352 0 0 0 8193 0 0 0
+0 6 5 3
+25 2000 10.00
+A
+17 5
+A
+19 4
+A
+18 2
+#21208
+blue bright potion~
+a bright blue potion~
+A bright blue potion stands here.~
+~
+10 64 0 0 0 16385 0 0 0
+30 74 0 0
+1 150 100.00
+#21209
+bright red elixir~
+a bright red elixir~
+A bright red elixir stands here.~
+~
+10 64 0 0 0 16385 0 0 0
+30 28 0 0
+1 300 100.00
+#21210
+dark blue elixir~
+a dark blue elixir~
+A dark blue elixir stands here.~
+~
+10 64 0 0 0 16385 0 0 0
+30 53 0 0
+1 500 100.00
+#21211
+dark red potion~
+a dark red potion~
+A dark red potion stands here.~
+~
+10 64 0 0 0 16385 0 0 0
+40 67 0 0
+1 650 100.00
+#21212
+breek breeks silk blue~
+deep blue silk breeks~
+A pile of deep blue silk lies here.~
+~
+11 0 0 0 0 33 0 0 0
+0 0 0 0
+1 150 100.00
+A
+6 1
+#21213
+shirt black silk~
+a high collared shirt of black silk~
+A pile of black silk lies here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+1 110 100.00
+A
+6 1
+#21214
+cloak green velvet~
+a cloak of rustling green velvet~
+A large pile of green velvet is here.~
+~
+11 0 0 0 0 1025 0 0 0
+0 0 0 0
+2 120 100.00
+A
+6 1
+#21215
+checkered jerkin blue white linen~
+a checkered jerkin of blue and white linen~
+A pile of blue and white linen sits here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+2 110 100.00
+A
+6 1
+#21216
+britches scarlet wool~
+britches of scarlet wool~
+A mass of red wool is here.~
+~
+11 0 0 0 0 33 0 0 0
+0 0 0 0
+2 100 100.00
+A
+6 1
+#21217
+wood wooden armor~
+a set of wooden armor~
+A pile of wood lies here.~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0
+12 230 100.00
+#21218
+wood wooden leggings~
+a set of wooden leggings~
+A small pile of wood is here.~
+~
+9 540672 0 0 0 33 0 0 0
+4 0 0 0
+9 180 100.00
+#21219
+obsidian gauntlets~
+a pair of obsidian gauntlets~
+A beautiful pair of obsidian gauntlets is here.~
+~
+9 20480 0 0 0 129 0 0 0
+3 0 0 0
+8 450 100.00
+#21220
+shell helmet helm~
+a shell helm~
+A large shell is here.~
+~
+9 0 0 0 0 17 0 0 0
+6 0 0 0
+5 270 100.00
+#21221
+obsidian mask~
+an obsidian mask~
+An obsidian mask is here.~
+~
+9 0 0 0 0 131073 0 0 0
+3 0 0 0
+15 400 100.00
+A
+6 -1
+#21222
+cloak mithril~
+a mithril cloak~
+A long mithril cloak glistens here.~
+~
+9 0 0 0 0 1025 0 0 0
+11 0 0 0
+10 550 50.00
+#21223
+leather coat~
+a leather coat~
+A long leather coat is here.~
+~
+9 0 0 0 0 1025 0 0 0
+3 0 0 0
+5 50 100.00
+#21224
+backpack~
+a backpack~
+A backpack is here.~
+~
+15 0 0 0 0 1025 0 0 0
+30 1 -1 0
+15 50 100.00
+A
+17 -5
+A
+2 -3
+#21225
+boots~
+long, knee-length boots~
+A pair of long, knee length boots is here.~
+~
+11 0 0 0 0 65 0 0 0
+0 0 0 0
+3 50 100.00
+#21226
+boots ankle leather~
+ankle-length, leather boots~
+A pair of ankle-length, leather boots is here.~
+~
+11 0 0 0 0 65 0 0 0
+0 0 0 0
+2 37 100.00
+#21227
+boots riding black~
+high black riding boots~
+A pair of high black riding boots is here.~
+~
+11 0 0 0 0 65 0 0 0
+0 0 0 0
+3 40 100.00
+#21228
+coffee cup~
+a cup~
+A cup of coffee sits here, awaiting its next hapless victim.~
+~
+17 0 0 0 0 16385 0 0 0
+2 2 12 0
+2 3 100.00
+#21229
+tea glass~
+a glass~
+A richly coloured glass of tea sits here.~
+~
+17 0 0 0 0 1 0 0 0
+2 2 11 0
+2 3 100.00
+#21230
+signet shadowmagi shadowmage ring~
+the signet of the shadowmage~
+A pitch-black ring lies here, blending into nothingness.~
+~
+11 135062114 0 0 0 3 0 0 0
+0 0 0 0
+1 4000 3.00
+A
+12 15
+A
+3 1
+A
+18 -1
+#21231
+brook water~
+a bubbling brook~
+A brook is here, bubbling incessantly.~
+~
+23 16 0 0 0 0 0 0 0
+999999 999999 0 0
+1000004 10100 100.00
+#21299
+hee~
+Hee hee~
+Nimos' joke lies here.~
+~
+12 65602 0 0 0 278529 0 0 0
+0 0 0 0
+5 0 100.00
+E
+book dead necronomicon ex mortim~
+This book was created by Nevyn to bring his minions' evil upon the land.
+~
+A
+3 -3
+A
+4 -3
+A
+2 -3
+A
+1 -3
+A
+6 -3
+$~

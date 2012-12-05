@@ -1,0 +1,68 @@
+#7900
+Outside Redferne's residence~
+   A huge cloud forms the plateau on which you are now standing.  The wind
+here is absolutely quiet and the sun is shining warmly upon you.  From under
+the cloud, you can hear the faint sounds of Cal Thoth.  Right before you to
+the north lies the grand Mansion of Naris, the residence of the Greater God
+Redferne.
+~
+79 516 0 0 0 0
+D0
+You see a HUGE arched gate leading into this magnificent building.
+~
+gate door huge arched~
+2 7901 7901
+D5
+You see a Huge Chain that anchors the Mansion of Naris to the ground.
+~
+~
+0 -1 7918
+S
+#7901
+The Southern end of the hall~
+   You are standing in a vast hall that is dimly lit, but wherefrom the
+light comes, is a mystery.  The walls seem to radiate warmth and give
+the pleasant feeling of being welcome here.  A large portrait is hanging
+on one of the walls.  A large wooden staircase leads up into the tower.
+To the east there is a high passage away from the hall.  This ends
+shortly after by a tall oak door.  The enormous hall extends further
+north from here.  To the south you can see a huge, and VERY heavy-
+looking iron-wrought door.  It looks like this is the only exit from
+this magnificent old house.  To the west you can see a large ashen door.
+~
+79 524 0 0 0 0
+D2
+Here you see a REAL door.  It would be more proper to call this a
+"GATE", rather than a "door".  It's really HUGE!  On it hangs a large
+sign with very large letters spelling : "EMERGENCY EXIT".
+~
+gate south exit iron huge emergency~
+2 7901 7900
+E
+letters~
+They read "LIBRARY".
+~
+E
+runes~
+These runes are utterly strange to you, but you are in luck today: Under
+the runes you can just make out a sentence in Common.  It goes : " Stay out,
+if you treasure your life.  That is if you are mortal.".
+~
+S
+#7918
+The Mighty Chain of Naris~
+   This place truly a splendid view of the WHOLE COUNTRY SIDE!!!  A
+magnificent light shines upon you and the way up through the clouds
+is opened.  Up there you can now see the Mansion of Naris, Residence
+of the Greater God Redferne.  The chain beneath you seems to evaporate
+in the mustering clouds that surround you now.
+~
+79 516 0 0 0 5
+D4
+You see the sunny top of the clouds.  Beyond these, the Mansion towers before
+your eyes.  Beautiful!!
+~
+~
+0 -1 7900
+S
+$~

@@ -1,0 +1,1610 @@
+#5100
+Coastal Savanna~
+   You are standing in a field of lush yellow grass, overlooking the
+ocean to the north.  Here, the ocean breezes fling wisps of sea spray,
+misting the grass around you with moisture that quickly gets robbed
+by the desert to the southwest.
+   The savanna grasses continue to the south and east, growing more
+arid as you head toward the desert to the west.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 12706
+D1
+~
+~
+0 0 5101
+D2
+~
+~
+0 0 5110
+D3
+~
+~
+0 0 5091
+S
+#5101
+Coastal Savanna~
+   You are standing in a field of lush yellow grass, overlooking the
+ocean to the north.  Here, the ocean breezes fling wisps of sea spray,
+misting the grass around you with moisture that quickly gets robbed
+by the desert to the far southwest.
+   The savanna grasses continue to the south, east, and west.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 12705
+D1
+~
+~
+0 0 5102
+D2
+~
+~
+0 0 5111
+D3
+~
+~
+0 0 5100
+S
+#5102
+Coastal Savanna~
+   You are standing in a field of lush yellow grass, overlooking the
+ocean to the north.  Here, the ocean breezes fling wisps of sea spray,
+misting the grass around you with moisture that quickly gets robbed
+by the desert to the far southwest.
+   The savanna grasses continue to the south, east, and west.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 12704
+D1
+~
+~
+0 0 5103
+D2
+~
+~
+0 0 5112
+D3
+~
+~
+0 0 5101
+S
+#5103
+Coastal Savanna~
+   You are standing in a field of lush yellow grass, overlooking the
+ocean to the north.  Here, the ocean breezes fling wisps of sea spray,
+misting the grass around you with salty moisture. 
+   The savanna grasses continue to the south, east, and west.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 12703
+D1
+~
+~
+0 0 5104
+D2
+~
+~
+0 0 5113
+D3
+~
+~
+0 0 5102
+S
+#5104
+Coastal Savanna~
+   You are standing in a field of lush yellow grass, overlooking the
+ocean to the north.  Here, the ocean breezes fling wisps of sea spray,
+misting the grass around you with salty moisture. 
+   The savanna grasses continue to the south, east, and west.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 12702
+D1
+~
+~
+0 0 5105
+D2
+~
+~
+0 0 5114
+D3
+~
+~
+0 0 5103
+S
+#5105
+Coastal Savanna~
+   You are standing in a field of lush yellow grass, overlooking the
+ocean to the north.  Here, the ocean breezes fling wisps of sea spray,
+misting the grass around you with salty moisture, and wetting the tall
+stone wall of a keep that rises high above you to the east.
+   The savanna grasses continue to the south, east, and west.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 12701
+D2
+~
+~
+0 0 5115
+D3
+~
+~
+0 0 5104
+S
+#5110
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues to the south and east, growing more colorful
+as you head north toward the coast.  To the west the grasses become
+more sparse and dry.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5100
+D1
+~
+~
+0 0 5111
+D2
+~
+~
+0 0 5120
+D3
+~
+~
+0 0 5091
+S
+#5111
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues to the east, west, and south, growing more
+colorful as you head north toward the coast.  
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5101
+D1
+~
+~
+0 0 5112
+D2
+~
+~
+0 0 5121
+D3
+~
+~
+0 0 5110
+S
+#5112
+Savanna Grasses~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues to the east, west, and south, growing more
+colorful as you head north toward the coast.  
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5102
+D1
+~
+~
+0 0 5113
+D2
+~
+~
+0 0 5122
+D3
+~
+~
+0 0 5111
+S
+#5113
+Savanna Grasses~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues to the east, west, and south, growing more
+colorful as you head north toward the coast.  
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5103
+D1
+~
+~
+0 0 5114
+D2
+~
+~
+0 0 5123
+D3
+~
+~
+0 0 5112
+S
+#5114
+Savanna Grasses~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues to the east, west, and south, growing more
+colorful as you head north toward the coast.  
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5104
+D1
+~
+~
+0 0 5115
+D2
+~
+~
+0 0 5124
+D3
+~
+~
+0 0 5113
+S
+#5115
+Savanna Grasses~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed, and offering little in terms
+of shade.  A tall stone wall of a castle or keep rises high to the
+east, proving some shelter from the elements, but nothing else.
+   The savanna continues to the east, west, and south, growing more
+colorful as you head north toward the coast.  
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5105
+D2
+~
+~
+0 0 5125
+D3
+~
+~
+0 0 5114
+S
+#5120
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues to the south and east, growing more colorful
+as you head north toward the coast.  To the west the grasses become
+more sparse and dry.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5110
+D1
+~
+~
+0 0 5121
+D2
+~
+~
+0 0 5130
+D3
+~
+~
+0 0 5093
+S
+#5121
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues in all directions, growing more colorful and
+bright as you head north toward the coast.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5111
+D1
+~
+~
+0 0 5122
+D2
+~
+~
+0 0 5131
+D3
+~
+~
+0 0 5120
+S
+#5122
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues in all directions, growing more colorful and
+bright as you head north toward the coast.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5112
+D1
+~
+~
+0 0 5123
+D2
+~
+~
+0 0 5132
+D3
+~
+~
+0 0 5121
+S
+#5123
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues in all directions, growing more colorful and
+bright as you head north toward the coast.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5113
+D1
+~
+~
+0 0 5124
+D2
+~
+~
+0 0 5133
+D3
+~
+~
+0 0 5122
+S
+#5124
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues in all directions, growing more colorful and
+bright as you head north toward the coast.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5114
+D1
+~
+~
+0 0 5125
+D2
+~
+~
+0 0 5134
+D3
+~
+~
+0 0 5123
+S
+#5125
+Savanna Grasses~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed, and offering little in terms
+of shade.  A tall stone wall of a castle or keep rises high to the
+east, proving some shelter from the elements, but nothing else.
+   The savanna continues to the east, west, and south, growing more
+colorful as you head north toward the coast.  
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5115
+D2
+~
+~
+0 0 5135
+D3
+~
+~
+0 0 5124
+S
+#5130
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably just wind-exposed hillocks, offering nothing in
+terms of elevation or interest.
+   The savanna continues to the north, south, and east, growing dry
+and more patchy as you head west toward the desert.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5120
+D1
+~
+~
+0 0 5131
+D2
+~
+~
+0 0 5140
+D3
+~
+~
+0 0 5094
+S
+#5131
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5121
+D1
+~
+~
+0 0 5132
+D2
+~
+~
+0 0 5141
+D3
+~
+~
+0 0 5130
+S
+#5132
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5122
+D1
+~
+~
+0 0 5133
+D2
+~
+~
+0 0 5142
+D3
+~
+~
+0 0 5131
+S
+#5133
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5123
+D1
+~
+~
+0 0 5134
+D2
+~
+~
+0 0 5143
+D3
+~
+~
+0 0 5132
+S
+#5134
+Tall Grass~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5124
+D1
+~
+~
+0 0 5135
+D2
+~
+~
+0 0 5144
+D3
+~
+~
+0 0 5133
+S
+#5135
+Savanna Grasses~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed, and offering little in terms
+of shade.  A tall stone wall of a castle or keep rises high to the
+east, bearing the scars of savanna storms and weather.
+   The savanna continues to the east, west, and south, growing more
+colorful as you head north toward the coast.  
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5125
+D2
+~
+~
+0 0 5145
+D3
+~
+~
+0 0 5134
+S
+#5140
+Watering Hole~
+   This secluded pool appears to have been hidden by nature as there was
+no indication of its existence when viewed from afar.  The water is warm
+and murky but offers sustenance against the arid surroundings.
+   A tree, no higher than you are tall, sprouts from the far edge of the
+pool, its leafy green limbs contrasting nicely with the yellow reeds of
+the savanna.
+   The savanna continues in all directions, growing drier as you head west.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5130
+D1
+~
+~
+0 0 5141
+D2
+~
+~
+0 0 5150
+D3
+~
+~
+0 0 5095
+S
+#5141
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5131
+D1
+~
+~
+0 0 5142
+D2
+~
+~
+0 0 5151
+D3
+~
+~
+0 0 5140
+S
+#5142
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5132
+D1
+~
+~
+0 0 5143
+D2
+~
+~
+0 0 5152
+D3
+~
+~
+0 0 5141
+S
+#5143
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5133
+D1
+~
+~
+0 0 5144
+D2
+~
+~
+0 0 5153
+D3
+~
+~
+0 0 5142
+S
+#5144
+Grassy Fields~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5134
+D1
+~
+~
+0 0 5145
+D2
+~
+~
+0 0 5154
+D3
+~
+~
+0 0 5143
+S
+#5145
+Grassy Fields~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation.
+   A tall stone wall rises high to the east, secured by a massive iron
+gate that provides entry into the keep beyond.
+   The savanna continues to the north, south, and west.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5135
+D2
+~
+~
+0 0 5155
+D3
+~
+~
+0 0 5144
+S
+#5150
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably just wind-exposed hillocks, offering nothing in
+terms of elevation or interest.
+   The savanna continues to the north, south, and east, growing dry
+and more patchy as you head west toward the desert.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5140
+D1
+~
+~
+0 0 5151
+D2
+~
+~
+0 0 5160
+D3
+~
+~
+0 0 5096
+S
+#5151
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5141
+D1
+~
+~
+0 0 5152
+D2
+~
+~
+0 0 5161
+D3
+~
+~
+0 0 5150
+S
+#5152
+Patchy Mounds~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5142
+D1
+~
+~
+0 0 5153
+D2
+~
+~
+0 0 5162
+D3
+~
+~
+0 0 5151
+S
+#5153
+Patchy Mounds~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5143
+D1
+~
+~
+0 0 5154
+D2
+~
+~
+0 0 5163
+D3
+~
+~
+0 0 5152
+S
+#5154
+Patchy Mounds~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5144
+D1
+~
+~
+0 0 5155
+D2
+~
+~
+0 0 5164
+D3
+~
+~
+0 0 5153
+S
+#5155
+A Lonely Thorn Tree~
+   You are wading through a field of tall grass, beneath the canopy of
+a thorny tree above you, whose shade can only partially rival the tall
+wall of stone to the east.  A few patchy mounds of earth and insect
+hives lie spread about the area, offering only a temporary relief to 
+the monotonous sea of grasses to the west.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5145
+D2
+~
+~
+0 0 5165
+D3
+~
+~
+0 0 5154
+S
+#5160
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably just wind-exposed hillocks, offering nothing in
+terms of elevation or interest.
+   The savanna continues to the north, south, and east, growing dry
+and more patchy as you head west toward the desert.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5150
+D1
+~
+~
+0 0 5161
+D2
+~
+~
+0 0 5170
+D3
+~
+~
+0 0 5097
+S
+#5161
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions, becoming a bit
+more dense and you head south.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5151
+D1
+~
+~
+0 0 5162
+D2
+~
+~
+0 0 5171
+D3
+~
+~
+0 0 5160
+S
+#5162
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions, becoming a bit
+more dense and you head south.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5152
+D1
+~
+~
+0 0 5163
+D2
+~
+~
+0 0 5172
+D3
+~
+~
+0 0 5161
+S
+#5163
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions, becoming a bit
+more dense and you head south.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5153
+D1
+~
+~
+0 0 5164
+D2
+~
+~
+0 0 5173
+D3
+~
+~
+0 0 5162
+S
+#5164
+Savanna Grasslands~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed and offering nothing in terms
+of elevation or interest.
+   The savanna continues around you in all directions, becoming a bit
+more dense and you head south.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5154
+D1
+~
+~
+0 0 5165
+D2
+~
+~
+0 0 5174
+D3
+~
+~
+0 0 5163
+S
+#5165
+Savanna Grasses~
+   You are wading through a field of tall grass.  The air is dry here,
+the moisture absorbed by the plants around you.  A few patchy mounds
+lie nearby, probably insect-constructed, and offering little in terms
+of shade.  A tall stone wall of a castle or keep rises high to the
+east, bearing the scars of savanna storms and weather.
+   The savanna continues to the east, west, and south, growing more
+colorful as you head north toward the coast.  
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5155
+D2
+~
+~
+0 0 5175
+D3
+~
+~
+0 0 5164
+S
+#5170
+Savanna Mounds~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  There seems
+to be plenty of moisture around here as the grasses grow rich and
+green while the savanna shrubs give way to the first of the trees
+that offer refreshing shade from the daytime sun and shelter from 
+the cold nighttime winds.
+   The savanna continues to the north, growing arid as you head to
+the west.  To the east the grasses seem to retain their color, while
+to the south, the foliage becomes thicker and more temperate.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5160
+D1
+~
+~
+0 0 5171
+D2
+~
+~
+0 0 5180
+D3
+~
+~
+0 0 5098
+S
+#5171
+Savanna Mounds~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  There seems
+to be plenty of moisture around here as the grasses grow rich and
+green while the savanna shrubs give way to the first of the trees
+that offer refreshing shade from the daytime sun and shelter from 
+the cold nighttime winds.
+   The savanna continues to the north, growing more dry as you head
+west.  To the east the grasses seem to retain their color, while to
+the south, the foliage becomes thicker and more temperate.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5161
+D1
+~
+~
+0 0 5172
+D2
+~
+~
+0 0 5181
+D3
+~
+~
+0 0 5170
+S
+#5172
+Buzzing Insects~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  There seems
+to be plenty of moisture around here as the grasses grow rich and
+green while the savanna shrubs give way to the first of the trees
+that offer refreshing shade from the daytime sun and shelter from 
+the cold nighttime winds.
+   The savanna continues to the north, growing more dry as you head
+west.  To the east the grasses seem to retain their color, while to
+the south, the foliage becomes thicker and more temperate.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5162
+D1
+~
+~
+0 0 5173
+D2
+~
+~
+0 0 5182
+D3
+~
+~
+0 0 5171
+S
+#5173
+Buzzing Insects~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  There seems
+to be plenty of moisture around here as the grasses grow rich and
+green while the savanna shrubs give way to the first of the trees
+that offer refreshing shade from the daytime sun and shelter from 
+the cold nighttime winds.
+   The savanna continues to the north, growing more dry as you head
+west.  To the east the grasses seem to retain their color, while to
+the south, the foliage becomes thicker and more temperate.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5163
+D1
+~
+~
+0 0 5174
+D2
+~
+~
+0 0 5183
+D3
+~
+~
+0 0 5172
+S
+#5174
+Buzzing Insects~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  There seems
+to be plenty of moisture around here as the grasses grow rich and
+green while the savanna shrubs give way to the first of the trees
+that offer refreshing shade from the daytime sun and shelter from 
+the cold nighttime winds.
+   The savanna continues to the north, growing more dry as you head
+west.  To the east the grasses seem to retain their color, while to
+the south, the foliage becomes thicker and more temperate.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5164
+D1
+~
+~
+0 0 5175
+D2
+~
+~
+0 0 5184
+D3
+~
+~
+0 0 5173
+S
+#5175
+Buzzing Insects~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  There seems
+to be plenty of moisture around here as the grasses grow rich and
+green while the savanna shrubs give way to the first of the trees
+that offer refreshing shade from the daytime sun and shelter from 
+the cold nighttime winds.
+   The savanna continues to the north, growing more dry as you head
+west.  To the east a stone wall rises high above you, while to the 
+south, the foliage becomes thicker and more temperate.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5165
+D2
+~
+~
+0 0 5185
+D3
+~
+~
+0 0 5174
+S
+#5180
+Savanna Mounds~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  The ground
+is moist and fresh, allowing the grasses and trees to grow tall and
+colorful.
+   The savanna continues to the north, growing arid as you head to
+the west.  To the east the grasses seem to retain their color, while
+to the south, the foliage becomes extremely dense and jungle-like.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5170
+D1
+~
+~
+0 0 5181
+D2
+~
+~
+0 0 5190
+D3
+~
+~
+0 0 5099
+S
+#5181
+Savanna Mounds~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  The ground
+is moist and fresh, allowing the grasses and trees to grow tall and
+colorful.
+   The savanna continues to the north, growing arid as you head to
+the west.  To the east the grasses seem to retain their color, while
+to the south, the foliage becomes extremely dense and jungle-like.
+~
+51 0 0 0 0 3
+D0
+~
+~
+0 0 5171
+D1
+~
+~
+0 0 5182
+D2
+~
+~
+0 0 5191
+D3
+~
+~
+0 0 5180
+S
+#5182
+Savanna Mounds~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  The ground
+is moist and fresh, allowing the grasses and trees to grow tall and
+colorful.
+   The savanna continues to the north, growing arid as you head to
+the west.  To the east the grasses seem to retain their color, while
+to the south, the foliage becomes extremely dense and jungle-like.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5172
+D1
+~
+~
+0 0 5183
+D2
+~
+~
+0 0 5192
+D3
+~
+~
+0 0 5181
+S
+#5183
+Savanna Mounds~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  The ground
+is moist and fresh, allowing the grasses and trees to grow tall and
+colorful.
+   The savanna continues to the north, growing arid as you head to
+the west.  To the east the grasses seem to retain their color, while
+to the south, the foliage becomes extremely dense and jungle-like.
+~
+51 0 0 0 0 3
+D0
+~
+~
+0 0 5173
+D1
+~
+~
+0 0 5184
+D2
+~
+~
+0 0 5193
+D3
+~
+~
+0 0 5182
+S
+#5184
+Savanna Mounds~
+   You are standing amid buzzing insects that seem to be digilently
+adding mud to the already tall spires of their nests.  The ground
+is moist and fresh, allowing the grasses and trees to grow tall and
+colorful.
+   The savanna continues to the north, growing arid as you head to
+the west.  To the east the grasses seem to retain their color, while
+to the south, the foliage becomes extremely dense and jungle-like.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5174
+D1
+~
+~
+0 0 5185
+D2
+~
+~
+0 0 5194
+D3
+~
+~
+0 0 5183
+S
+#5185
+Thickening Foliage~
+   You are standing in some waist-high brush and scrub on the border
+of a dense jungle to the south and the savanna lands to the north.
+To the east the grasses seem to retain their color as they grow against
+the backdrop of the wall of a keep, while to the south, the foliage
+becomes extremely dense and jungle-like.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5175
+D2
+~
+~
+0 0 5195
+D3
+~
+~
+0 0 5184
+S
+#5190
+Jungle Foliage~
+   You are standing at the border of a tropical jungle.  Tall, leafy
+trees - typical of rainforests - drip their condensing moisture on the
+ground here, forming small puddles of water.
+   The elevation seems to rise a bit to the south, as the savanna lands
+to the north give way to the mountainous rainforests to the south.  
+   From somewhere off to the south, behind impenetrable foliage, you can
+hear the rushing of water.
+~
+51 0 0 0 0 3
+D0
+~
+~
+0 0 5180
+D1
+~
+~
+0 0 5191
+D3
+~
+~
+0 0 5209
+S
+#5191
+Jungle Foliage~
+   You are standing at the border of a tropical jungle.  Tall, leafy
+trees - typical of rainforests - drip their condensing moisture on the
+ground here, forming small puddles of water.
+   The elevation seems to rise a bit to the south, as the savanna lands
+to the north give way to the mountainous rainforests to the south.  
+   From somewhere off to the south, behind impenetrable foliage, you can
+hear the rushing of water.
+~
+51 0 0 0 0 3
+D0
+~
+~
+0 0 5181
+D1
+~
+~
+0 0 5192
+D3
+~
+~
+0 0 5190
+S
+#5192
+Jungle Foliage~
+   You are standing at the border of a tropical jungle.  Tall, leafy
+trees - typical of rainforests - drip their condensing moisture on the
+ground here, forming small puddles of water.
+   The elevation seems to rise a bit to the south, as the savanna lands
+to the north give way to the mountainous rainforests to the south.  
+   From somewhere off to the south, behind impenetrable foliage, you can
+hear the rushing of water.
+~
+51 0 0 0 0 3
+D0
+~
+~
+0 0 5182
+D1
+~
+~
+0 0 5193
+D3
+~
+~
+0 0 5191
+S
+#5193
+Jungle Foliage~
+   You are standing at the border of a tropical jungle.  Tall, leafy
+trees - typical of rainforests - drip their condensing moisture on the
+ground here, forming small puddles of water.
+   The elevation seems to rise a bit to the south, as the savanna lands
+to the north give way to the mountainous rainforests to the south.  
+   From somewhere to the far southwest, you can hear the rushing of 
+water, but you cannot penetrate the jungle to investigate it.
+~
+51 0 0 0 0 2
+D0
+~
+~
+0 0 5183
+D1
+~
+~
+0 0 5194
+D3
+~
+~
+0 0 5192
+S
+#5194
+Jungle Foliage~
+   You are standing at the border of a tropical jungle.  Tall, leafy
+trees - typical of rainforests - drip their condensing moisture on the
+ground here, forming small puddles of water.
+   The elevation seems to rise a bit to the south, as the savanna lands
+to the north give way to the mountainous rainforests to the south.  
+   From somewhere to the far southwest, you can hear the rushing of 
+water, but you cannot penetrate the jungle to investigate it.
+~
+51 0 0 0 0 3
+D0
+~
+~
+0 0 5184
+D1
+~
+~
+0 0 5195
+D3
+~
+~
+0 0 5193
+S
+#5195
+Jungle Foliage~
+   You are standing at the border of a tropical jungle.  Tall, leafy
+trees - typical of rainforests - drip their condensing moisture on the
+ground here, forming small puddles of water.
+   A tall stone wall rises high to the east, blocking out the rest of
+the savanna from sight as a stone tower soars above you from behind
+the wall.
+   The elevation seems to rise a bit to the south, as the savanna lands
+to the north give way to the mountainous rainforests to the south.  
+   From somewhere to the far southwest, you can hear the rushing of 
+water, but cannot penetrate the jungle to investigate it.
+~
+51 0 0 0 0 3
+D0
+~
+~
+0 0 5185
+D3
+~
+~
+0 0 5194
+S
+#5196
+Locked Tower~
+SW corner of mistkeep, locked tower leading up.
+~
+51 0 0 0 0 0
+D1
+~
+~
+0 0 5197
+S
+#5197
+Southern Wall Of Mistkeep~
+walkway along southern wall
+~
+51 0 0 0 0 1
+D1
+~
+~
+0 0 5198
+D3
+~
+~
+0 0 5196
+S
+#5198
+Southern Wall Of Mistkeep~
+walkway along southern wall
+~
+51 0 0 0 0 1
+D3
+~
+~
+0 0 5197
+S
+$~

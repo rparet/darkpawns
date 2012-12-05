@@ -1,0 +1,100 @@
+#1000
+wings~
+a pair of wings~
+A pair of wings is sitting here.~
+~
+9 0 0 0 0 1025 0 0 0
+6 0 0 0
+1 0 100.00
+#1001
+rose~
+a red rose~
+A red rose is lying on the ground.~
+~
+9 0 0 0 0 16385 0 0 0
+3 0 0 0
+1 0 100.00
+E
+rose~
+This is no ordinary rose, as it is a gift from Dionysos to his 
+dearest, Wendella.
+~
+#1002
+halo~
+a golden halo~
+A golden halo hovers above the ground here.~
+~
+9 0 0 0 0 262145 0 0 0
+9 0 0 0
+1 0 100.00
+#1003
+clay~
+a pile of clay~
+A pile of clay lies on the ground here.~
+~
+11 0 0 0 0 262143 0 0 0
+0 0 0 0
+1 0 100.00
+#1004
+playdough play doh playdoh~
+a pile of playdoh(TM)~
+A pile of playdoh(TM) lies on the ground here.~
+~
+19 0 0 0 0 262143 0 0 0
+0 0 0 0
+1 0 100.00
+#1005
+Gae Bolg spear~
+a Gae Bolg~
+A Gae Bolg lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 4 5 14
+1 4000 100.00
+E
+gae bolg~
+Your expert eye tells you it's made from the bones of sea dragons.
+~
+#1006
+panties sleek lace~
+a pair of sleek lace panties~
+A pair of sleek lace panties wants to be touched.~
+~
+11 0 0 0 0 16434 0 0 0
+0 0 0 0
+1 0 100.00
+#1007
+high heeled pumps~
+a pair of high heeled pumps~
+A pair of black high heeled pumps is lying here..~
+~
+11 0 0 0 0 65 0 0 0
+0 0 0 0
+1 15 100.00
+#1008
+black thigh high stockings~
+a set of black thigh high stockings~
+A set of black thigh high stockings wants to be felt.~
+~
+11 0 0 0 0 1065 0 0 0
+0 0 0 0
+1 0 100.00
+#1009
+black garter belt~
+a black garter belt~
+A black garter belt is sitting here feeling lonely.~
+~
+11 0 0 0 0 2049 0 0 0
+0 0 0 0
+1 1 100.00
+#1010
+claw satan~
+Satan's claw~
+A smoking claw lies here.~
+~
+0 0 0 0 0 16389 0 0 0
+0 0 0 0
+9999 0 100.00
+A
+29 7
+$~

@@ -1,0 +1,1162 @@
+#2700
+sword god~
+Gods sword~
+A powerfull sword lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 4 3 3
+12 0 100.00
+A
+18 3
+A
+19 3
+A
+29 12
+#2701
+armor~
+Gods Armor~
+Gods Armor lies on the ground here.~
+~
+9 80 0 0 0 9 0 0 0
+72 0 0 0
+10 0 100.00
+A
+18 12
+A
+19 28
+A
+29 7
+A
+1 15
+A
+29 1
+#2702
+sleeves green gold~
+green and gold sleeves~
+A green and gold body armor is here.~
+~
+9 0 0 0 0 257 0 0 0
+3 0 0 0
+12 60 100.00
+#2703
+armor body green gold~
+green and gold body armor~
+A green and gold body armor is here.~
+~
+9 0 0 0 0 1 0 0 0
+8 0 0 0
+40 90 100.00
+#2707
+metal ball~
+a dark, metal ball~
+A dark, metal ball floats above the ground here.~
+$n releases a dark, metal ball which begins to orbit $N.
+~
+3 206889048 0 0 0 278529 0 0 0
+35 100 20 53
+1 5000 20.00
+A
+23 -10
+A
+17 -5
+#2708
+metal ball~
+a dark, metal ball~
+A dark, metal ball floats above the ground here.~
+$n releases a dark, metal ball which begins to orbit $N's head.
+~
+3 206889048 0 0 0 278529 0 0 0
+35 10 10 93
+1 5000 8.00
+A
+21 -5
+A
+19 2
+#2709
+metal ball~
+a dark, metal ball~
+A dark, metal ball floats above the ground here.~
+$n releases a dark, metal ball which begins to orbit $N rapidly.
+~
+3 206889048 0 0 0 278529 0 0 0
+35 100 20 76
+1 5000 10.00
+A
+24 -5
+A
+4 2
+#2710
+pin belaying~
+a belaying pin~
+An iron belaying pin lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 7 6
+8 30 30.00
+E
+pin~
+It looks like a belaying pin like you would see on a ship.
+~
+#2711
+knife butcher~
+a large butcher knife~
+A large butcher knife lies here getting dull.~
+~
+5 8396800 0 0 0 8193 0 0 0
+0 1 6 3
+2 60 30.00
+#2712
+potion yellowish green~
+a yellowish-green potion~
+A yellowish-green potion sits here.~
+~
+10 65 0 0 0 1 0 0 0
+15 19 16 0
+1 300 15.00
+#2713
+potion greenish blue~
+a greenish-blue potion~
+A greenish-blue potion sits here.~
+~
+10 65 0 0 0 1 0 0 0
+15 16 20 0
+1 300 15.00
+#2714
+potion ruddy orange~
+a ruddy orange potion~
+A ruddy orange potion sits here.~
+~
+10 65 0 0 0 1 0 0 0
+15 14 35 0
+1 300 15.00
+#2715
+parchment message~
+some parchment~
+Someone has scribbled a message on this parchment.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+E
+message~
+Some scribbled notes say:
+                           Grayswandir, Corwin's sword
+                           Werewindle, Brand's sword
+                           Frakir, Merlin's sentinent strangling cord
+                           spikard, the ancient ring of power
+~
+#2716
+disk amber~
+a disk of pure amber~
+A disk of amber lies here.~
+~
+12 2 0 0 0 20481 0 0 0
+5 0 0 0
+1 900 5.00
+E
+amber disk~
+A disk of purest amber.
+~
+A
+18 1
+A
+19 1
+#2717
+ground soil loose~
+the ground~
+Some dirt lies here.~
+~
+15 0 0 0 0 0 0 0 0
+500 1 -1 0
+1 0 100.00
+E
+ground soil loose~
+The soil is fine and loose.
+~
+#2718
+pants short shorts~
+very short green pants~
+A pair of green (very, very) short pants has been tossed here.~
+~
+11 0 0 0 0 33 0 0 0
+0 0 0 0
+2 20 75.00
+#2719
+royal crown amber~
+the Royal Crown of Amber~
+The jewel-studded crown of Amber lies here.~
+~
+11 65 0 0 0 17 0 0 0
+0 0 0 0
+5 2000 5.00
+E
+crown~
+A magnificient crown, studded with all types of jewels; you feel
+like a better person just by wearing it.
+~
+A
+19 2
+A
+18 1
+#2720
+egg Faberge amber~
+a Faberge egg~
+A priceless Faberge egg sits here.~
+~
+1 526913 0 0 0 16385 0 0 0
+0 0 -1 0
+9 7500 5.00
+E
+egg faberge~
+An authentic, original Faberge egg. The egg opens to reveal a man and
+a woman in the throes of passion.
+~
+A
+18 2
+A
+19 2
+#2721
+shell shield amber~
+a glowing shell~
+A large seashell sits here giving off light.~
+~
+9 72892481 0 0 0 513 0 0 0
+8 0 0 0
+5 3500 10.00
+E
+shell~
+A large seashell that probably protected its creator for years.
+~
+A
+3 1
+A
+4 1
+#2722
+hat three cornered amber~
+a three-cornered hat~
+A plumed, three-cornered hat rests here.~
+~
+11 64 0 0 0 17 0 0 0
+0 0 0 0
+1 600 5.00
+E
+hat~
+A dark three-cornered hat with a long green plume.
+~
+A
+19 1
+#2723
+girdle silver amber~
+a silver girdle~
+A silver girdle lies here, gleaming.~
+~
+9 149713984 0 0 0 2049 0 0 0
+8 0 0 0
+9 1200 20.00
+E
+girdle silver~
+A stunning silver scaled girdle.
+~
+#2724
+frakir amber short cord~
+a short cord~
+A short cord coils and uncoils here.~
+~
+11 215801952 0 0 0 4097 0 0 0
+0 0 0 0
+1 5000 8.00
+E
+cord Frakir~
+It appears to be a living cord. You wonder if it has a proper name...
+~
+A
+12 10
+A
+27 3
+A
+17 10
+#2725
+spikard amber ancient ring~
+an ancient, powerful ring~
+An ancient, powerful ring lies here.~
+~
+11 66 0 0 0 3 0 0 0
+0 0 0 0
+1 3500 5.00
+E
+ring spikard~
+It's an ancient ring, golden in color, with a myriad spikes radiating
+out from a central hub to form a wheel. It emanates pure power.
+~
+A
+19 2
+A
+29 3
+A
+29 1
+#2726
+shirt nice~
+a white silk shirt~
+A beautiful white silk shirt lies here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+1 50 50.00
+#2727
+emerald ring~
+an emerald ring~
+A ring with a huge emerald lies here.~
+~
+8 145109057 0 0 0 3 0 0 0
+0 0 0 0
+1 7000 5.00
+E
+ring emerald~
+It's a ring inset with a large, brilliant emerald.
+~
+A
+19 2
+A
+17 -5
+#2728
+ruby ring~
+a ruby ring~
+A ring with a huge ruby lies here.~
+~
+8 2756673 0 0 0 3 0 0 0
+0 0 0 0
+1 7000 5.00
+E
+ring ruby~
+It's a ring inset with a huge, beautiful ruby.  
+~
+A
+13 15
+#2729
+ring sapphire amber~
+a sapphire ring~
+A ring with a huge sapphire lies here.~
+~
+8 76587073 0 0 0 3 0 0 0
+0 0 0 0
+1 7000 5.00
+E
+ring sapphire~
+It's a ring inset with a huge star sapphire. 
+~
+A
+18 3
+A
+5 3
+#2730
+green and black shield~
+a green and black shield~
+A green and black shield lies here.~
+~
+9 141324864 0 0 0 513 0 0 0
+8 0 0 0
+15 6000 10.00
+E
+shield green black~
+An impressive green and black shield depicting a lion rending a
+unicorn as a legend.
+~
+A
+1 2
+A
+5 2
+#2731
+Werewindle amber~
+Werewindle~
+A beautiful golden sword lies here~
+~
+5 149715522 0 0 0 8193 0 0 0
+0 8 3 3
+12 8500 6.00
+E
+Werewindle sword~
+YES! This is Werewindle, the legendary sword of Brand and sister sword of
+Grayswandir... a beautiful sword crafted from some kind of golden metal.
+There is a huge emerald in the pommel. Preternatural, black energies flow
+through the blade.
+~
+A
+29 13
+#2732
+key hotelsafe~
+a safe key~
+A key lies here.~
+~
+18 4 0 0 0 1 0 0 0
+1 0 0 0
+1 0 100.00
+E
+key~
+Looks like the kind of key that would work with a safe.
+~
+#2733
+safe hotelsafe~
+a secure safe~
+A very secure-looking safe sits in the corner.~
+~
+15 0 0 0 0 0 0 0 0
+400 12 2732 0
+500 0 100.00
+E
+safe~
+It looks like someone has taken a lot of trouble to protect their
+valuables.
+~
+#2734
+bed comfy large~
+a large, comfy bed~
+A large, comfortable bed is here.~
+~
+15 0 0 0 0 0 0 0 0
+300 1 -1 0
+400 0 100.00
+E
+bed~
+It looks like a big, roomy bed that would be very comforable.
+~
+#2735
+bar wet~
+a small wet bar~
+A wet bar stands here.~
+~
+15 0 0 0 0 0 0 0 0
+300 1 -1 0
+400 0 100.00
+E
+bar wet wood wooden~
+It looks like a very stylish wood and brass wet bar.
+~
+#2736
+water bottle~
+a sparkling water bottle~
+A bottle lies here.~
+~
+17 0 0 0 0 1 0 0 0
+15 15 0 0
+20 20 20.00
+E
+bottle~
+It's a clear, sparkling bottle for holding clear sparkling water.
+~
+#2737
+arrow white~
+a white arrow~
+A white arrow lies here.~
+~
+7 0 0 0 0 8193 0 0 0
+0 2 4 11
+1 200 200.00
+E
+arrow~
+A sturdy white arrow.
+~
+#2738
+gauntlets silver scaled amber~
+a gleaming pair of silver-scaled gauntlets~
+Gleaming silver-scaled gauntlets lie here.~
+~
+9 65 0 0 0 129 0 0 0
+3 0 0 0
+5 3500 2.00
+E
+gauntlets silver scaled amber~
+A magnificent pair of gauntlets fashioned from silver scales.
+~
+A
+19 3
+#2739
+cloak black silver amber~
+a dark black cloak with a silvery rose clasp~
+A silver rose sits atop a pile of black fabric.~
+~
+11 215752769 0 0 0 1025 0 0 0
+0 0 0 0
+3 3500 10.00
+E
+cloak black rose silver~
+A deeply black cloak of some heavy fabric with a silver clasp
+fashioned in the shape of a rose.
+~
+A
+27 2
+A
+24 -2
+#2740
+Grayswandir amber~
+Grayswandir~
+A powerful silver and gray sword lies here.~
+~
+5 149740609 0 0 0 8193 0 0 0
+0 9 3 3
+12 8500 8.00
+E
+Grayswandir sword~
+  YES! It is Grayswandir, the sword of Corwin, formed by him from the
+raw stuff of shadow... the sister sword of Werewindle. It is gray and
+silver; blue sparks jump from the mystic etchings upon its blade.
+~
+A
+18 3
+A
+19 3
+#2741
+kilt handsome green gold~
+a handsome kilt~
+A green and gold plaid kilt lies here.~
+~
+11 0 0 0 0 65537 0 0 0
+0 0 0 0
+2 200 41.00
+E
+kilt~
+A handsome kilt made from green and gold plaid cloth.
+~
+#2742
+breeches~
+a pair of blue breeches~
+Some blue breeches lie here.~
+~
+11 0 0 0 0 33 0 0 0
+0 0 0 0
+2 200 43.00
+E
+breeches~
+100% blue cotton denim, button-fly jeans.
+~
+#2743
+robe plain~
+a plain robe~
+A plain robe lies here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+2 45 45.00
+E
+robe~
+A plain, simple, green robe with gold trim. It looks both sturdy
+and comfortable.
+~
+#2744
+vest green~
+a green vest~
+A crumpled green vest lies here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+2 157 44.00
+#2745
+shirt cut-off~
+a bare-midriff shirt~
+A cut-off shirt lies here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+2 15 80.00
+E
+shirt~
+This shirt has been cut off so wearers reveal their midriff. Printed on
+on the front of the shirt are the words:
+
+                            HARD ROCK CAFE
+                                 AMBER
+~
+#2746
+wine bottle red~
+a bottle of Bayle's Red wine~
+A bottle lies here.~
+~
+17 0 0 0 0 1 0 0 0
+10 10 2 0
+15 5 1.00
+E
+wine bottle~
+The label says it's a bottle of Bayle's Red wine. Bayle considers this
+to be his everyday wine, although it is actually the preferred wine of
+most of the Royal family.
+~
+#2747
+g-string sequined~
+a sequined g-string~
+A shiny strip of cloth sits here.~
+~
+11 0 0 0 0 2049 0 0 0
+0 0 0 0
+1 25 80.00
+E
+g-string bikini cloth~
+The sort of skimpy little thing a showgirl might almost wear.
+~
+#2748
+dress slinky~
+a slinky dress~
+A pile of shimmering material lies here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0
+3 425 30.00
+E
+material dress~
+This is a sleeky, sexy dress.
+~
+#2749
+dart playing~
+a playing dart~
+A playing dart is stuck here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 3 11
+1 5 90.00
+#2750
+gown blue gray amber~
+a blue and gray dressing gown~
+A blue and gray dressing gown lies here.~
+~
+9 64 0 0 0 9 0 0 0
+10 0 0 0
+5 5500 10.00
+E
+gown blue gray~
+A huge, heavy blue and gray dressing gown.~
+A
+13 10
+#2751
+belt wide black amber~
+a wide black belt~
+A wide, black belt is coiled up here.~
+~
+9 64 0 0 0 2049 0 0 0
+2 0 0 0
+5 6000 5.00
+E
+wide black belt~
+You see a wide, black belt.
+~
+A
+19 1
+A
+18 1
+#2752
+horn silver amber~
+a silver hunting horn~
+A silver hunting horn on a heavy cord lies here.~
+~
+11 67 0 0 0 16385 0 0 0
+0 0 0 0
+2 1000 10.00
+E
+horn silver amber~
+It's a large silver horn, suitable for calling the hounds during a
+hunt, with a heavy cord so you can sling it all around your neck.
+~
+A
+27 10
+A
+26 4
+A
+28 4
+#2753
+dagger chaos amber~
+a hellish, smoking dagger~
+A hellish dagger lies here smoking.~
+~
+5 2625 0 0 0 8193 0 0 0
+0 3 4 11
+1 8500 5.00
+E
+dagger black chaos~
+The black dagger that looks like it's been in a fire. It still smokes a
+bit.
+~
+A
+18 3
+A
+19 4
+#2754
+wine bottle white~
+a bottle of Bayle's White wine~
+A bottle lies here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 2 0
+13 7 2.00
+E
+wine bottle white~
+The label says it's a bottle of Bayle's White wine. This is the expensive
+brand made and sold by the Bayles family. However, some years it comes out
+a little too yellow and Bayles has to unload it cheaply.
+~
+#2755
+snapper plate~
+a plate of delicious blackened snapper~
+A plate of wonderful-looking cajun blackened snapper sits here.~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0
+1 12 4.00
+E
+plate blackened snapper~
+It's a plate full of cajun blackened snapper and all the fixin's. It
+looks delicious!
+~
+#2756
+corpse captain~
+the corpse of the Captain~
+The corpse of the Captain lies here, still bleeding.~
+~
+15 0 0 0 0 0 0 0 0
+300 1 -1 0
+400 0 100.00
+E
+corpse captain~
+The Captain appears to be recently deceased.
+~
+#2757
+needle tattoo amber~
+a tattoo needle~
+A tattoo needle lies here becoming more unsanitary.~
+~
+5 578 0 0 0 8193 0 0 0
+0 1 6 11
+1 400 40.00
+E
+needle~
+It's a long, sharp needle that doesn't look too clean.
+~
+A
+18 2
+A
+19 2
+#2758
+tattoo dragon amber~
+a tattoo of a red dragon~
+Strangely enough, a drawing of a dragon lies here.~
+~
+11 64 0 0 0 257 0 0 0
+0 0 0 0
+1 1000 15.00
+E
+tattoo dragon~
+A bright red tattoo of a huge one-eyed dragon.
+Actually, it's very good work.
+~
+A
+18 2
+#2759
+armor white amber~
+a suit of white-scale armor~
+A suit of gleaming white scale armor is here.~
+~
+9 141325377 0 0 0 9 0 0 0
+18 0 0 0
+30 6000 5.00
+E
+scale armor~
+A stunningly white suit of scaled armor that looks like porcelain.
+~
+A
+28 2
+A
+19 1
+#2760
+sleeves white amber~
+some white-scale sleeves~
+White scale sleeves lie here.~
+~
+9 1089 0 0 0 257 0 0 0
+10 0 0 0
+9 4000 10.00
+E
+sleeves white scale~
+Sleeves of armor, made of bright white scale.
+~
+#2761
+leggings white amber~
+some white-scale leggings~
+White scale leggings lie here.~
+~
+9 149713985 0 0 0 33 0 0 0
+11 0 0 0
+18 6000 11.00
+E
+leggings white scale~
+Beautiful white scale leggings.
+~
+#2762
+hood black monks~
+a monk's black hood~
+A plain piece of black cloth lies here.~
+~
+11 64 0 0 0 17 0 0 0
+0 0 0 0
+5 10 80.00
+#2763
+bow hunting amber~
+a white hunting bow~
+A white bow lies here.~
+~
+6 64 0 0 0 8193 0 0 0
+0 2 2 7
+15 20 40.00
+E
+bow~
+It's a hunter's crossbow made of a strong, white wood.
+~
+A
+18 3
+A
+19 3
+#2764
+boots green gold~
+green and gold boots~
+Green and gold boots are sitting here.~
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0
+4 30 15.00
+E
+boots~
+Basic GI boots in Amber.
+~
+#2765
+boots sneak sneaking~
+Boots of Sneaking~
+Some sneaky looking boots sit here.~
+~
+11 213168192 0 0 0 65 0 0 0
+0 0 0 0
+2 3500 10.00
+E
+boots Shadowwalkers~
+The labels on the soles of these boots identify them as "Shadowwalkers".
+~
+A
+29 18
+A
+17 5
+#2766
+sleeves green gold~
+green and gold sleeves~
+Green and gold sleeves lie here.~
+~
+9 0 0 0 0 257 0 0 0
+3 0 0 0
+12 60 15.00
+E
+sleeves armor~
+Basic GI arm armor in Amber.
+~
+#2767
+green gold leggings~
+green and gold leggings~
+Green and gold leggings are on the ground here.~
+~
+9 0 0 0 0 33 0 0 0
+7 0 0 0
+32 90 15.00
+E
+leggings armor~
+Basic GI leg armor in Amber.
+~
+#2768
+armor body green gold~
+green and gold body armor~
+A green and gold body armor is here.~
+~
+9 0 0 0 0 9 0 0 0
+8 0 0 0
+40 90 15.00
+E
+armor~
+Basic GI armor in Amber.
+~
+#2769
+robes oriental amber~
+oriental robes~
+Some ornate foreign-looking robes lie here.~
+~
+11 82899008 0 0 0 1025 0 0 0
+0 0 0 0
+4 500 9.00
+E
+robes~
+A very handsome set of colorful oriental robes.
+~
+A
+23 -10
+A
+17 -7
+A
+12 15
+#2770
+jewel judgment ruby~
+the Jewel of Judgment~
+A huge ruby on a heavy gold chain lies here.~
+~
+8 3137 0 0 0 5 0 0 0
+0 0 0 0
+2 10000 2.00
+E
+jewel judgement ruby chain~
+It's the biggest damn ruby you've ever seen, and it's somewhat 
+disturbing. There seems to be some sort of pattern moving within the
+jewel. If you look at it too long, you get dizzy.
+~
+A
+29 7
+A
+29 12
+A
+18 -3
+A
+19 -3
+#2771
+green spider ring~
+a green spider ring~
+A gold ring inset with a green gemstone lies here.~
+~
+11 209573120 0 0 0 3 0 0 0
+0 0 0 0
+1 2000 40.00
+A
+17 -10
+A
+4 1
+#2772
+chaos medallion~
+a chaos medallion~
+A swirling red medallion on a chain lies here.~
+~
+11 68192832 0 0 0 5 0 0 0
+0 0 0 0
+3 5000 5.00
+A
+18 2
+#2773
+jewel judgment ruby~
+the Jewel of Judgment~
+A huge ruby on a heavy gold chain lies here.~
+~
+8 16844123 0 0 0 16389 0 0 0
+0 0 0 0
+2 10000 100.00
+E
+jewel judgment ruby chain~
+It's the biggest damn ruby you've ever seen, and it's somewhat 
+disturbing. There seems to be some sort of pattern moving within the
+jewel. As you gaze into it longer you start to feel drawn within the jewel.
+~
+A
+18 -2
+A
+19 -2
+A
+29 12
+A
+29 7
+#2774
+Jewel of Judgment~
+the Jewel of Judgment~
+A huge ruby on a heavy gold chain lies here.~
+~
+8 16975179 0 0 0 16389 0 0 0
+0 0 0 0
+2 10000 100.00
+E
+jewel judgment ruby chain~
+It's the biggest damn ruby you've ever seen, and it's somewhat 
+disturbing. There seems to be some sort of pattern moving within the
+jewel. You easily shake off the pulling feeling of the jewel and assert
+your mental dominance over it, commanding it to your every whim.
+~
+A
+29 7
+A
+29 12
+A
+18 -1
+A
+19 -1
+#2790
+key sheriffkey~
+a key~
+A key is lying here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 100.00
+E
+key~
+The shaft of the key is stamped "City Vault".
+~
+#2807
+key managerkey~
+a key~
+A key is lying here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 100.00
+E
+key~
+A key marked "Manager".
+~
+#2810
+key tattookey~
+a key~
+A key is lying here.~
+~
+18 4 0 0 0 1 0 0 0
+1 0 0 0
+1 0 100.00
+E
+key~
+It's a very small key.
+~
+#2817
+key brass~
+a big brass key~
+A big, brass key lies here.~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0
+1 1 100.00
+E
+key brass~
+The word "brig" is scratched along its shaft.
+~
+#2828
+key castlekey~
+a big old key~
+A big, old key lies here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 10.00
+E
+key~
+The word 'castle' is scratched into the shaft of the key.
+~
+#2891
+tool pedalkey~
+a plumber's tool~
+A brass tool is lying here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 100.00
+E
+tool~
+A brass tool of some sort. It looks like the kind of thing a plumber
+would use to open a corroded valve.
+~
+#2892
+key copper green~
+an old copper key~
+A copper key, green with age, lies here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 100.00
+E
+key~
+A copper key with a lovely green patina. You can just make out that
+there's a "B" debossed on its handle.
+~
+#2905
+key deidrekey~
+a small black and silver key~
+A small black and silver key lies here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 100.00
+E
+key~
+A small black and silver key marked "D".
+~
+#2926
+key cainekey~
+a key~
+A key is lying here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 100.00
+E
+key~
+It looks like a room key. It is marked with a "C".
+~
+#2927
+throne amber~
+the Royal Throne of Amber~
+The Royal Throne of Amber is sitting here.~
+~
+15 1 0 0 0 0 0 0 0
+300 5 0 0
+400 0 100.00
+E
+throne~
+The Royal Throne of Amber is a large, ornate chair carved from a single
+piece of solid amber. It's probably the largest piece in existence!
+There are several scenes on its sides and arms, but the carving of
+the unicorn on its backrest is the most impressive.
+~
+E
+unicorn backrest~
+The carving of the unicorn on the throne's backrest depicts a beautiful
+and thoughtful unicorn standing in a small clearing in a forest.
+~
+#2930
+key merlinkey~
+a key~
+A key is lying here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 100.00
+E
+key~
+It looks like a door key. It is marked with a "M".
+~
+#2950
+key royalkey~
+a key~
+A key is lying here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 100.00
+E
+key~
+It looks like a room key. It is marked "Royal".
+~
+#2967
+key llewellakey~
+a key~
+A key is lying here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 100.00
+E
+key~
+It looks like a room key. It is marked with a "L".
+~
+#2971
+key flornakey~
+a key~
+A key is lying here.~
+~
+18 4 0 0 0 1 0 0 0
+2 0 0 0
+1 0 100.00
+E
+key~
+It looks like a room key. It is marked with a "C".
+~
+$~

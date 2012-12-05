@@ -1,0 +1,1238 @@
+#9900
+Immortal Map Room~
+
+               *5----*6-*--*--*18*21
+   1  2  3  4  |  8  |  19 20    |     23    25    33
+   *--*--*--*--*--*--*--*10    17*--*--*--*--*     *--*32
+            |  7  |  9  |  14       22    24 |     |  |
+          11*   12*   13*--*--*--*           *26 34*  *31
+                             15  16          |        |
+                                             *--*--*--*
+                                             27 28 29 30
+~
+99 512 0 0 0 0
+D2
+~
+~
+0 -1 9901
+S
+#9901
+At the Gates of Hell~
+   You are standing at a set of massive iron gates.  The gates lie open,
+almost inviting you inside, tempting your dark curioisities of what Hell
+really is.
+   As you peer east, through the gates, a wave of rancid, foul air wafts
+over you, carrying the faint sound of tortured screams and wicked, evil
+laughter.  A sense of dread overcomes you as you stare into the gates of
+Hell itself.
+~
+99 32781 0 0 0 0
+D1
+~
+~
+0 -1 9902
+D3
+~
+~
+0 0 9539
+S
+#9902
+Inside the Gates of Hell~
+   You stand just inside the black iron gates of Hell. The screams of the
+damned echo in your head as you stare about at the tortured landscape.
+~
+99 32781 0 0 0 0
+D1
+~
+~
+0 -1 9903
+D3
+~
+~
+0 -1 9901
+S
+#9903
+In the Valley of Death~
+   You are standing in a cavern.  Mottled red shadows dart between dark
+spires as you gaze high into the air you see black forms shifting among
+the slalactites on the cave ceiling far overhead.
+   Almost unnoticed, a dark shapes flits past you, and you shiver as you
+realize the shadow grazed you with a touch of death.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9904
+D3
+~
+~
+0 -1 9902
+S
+#9904
+Wandering through Hell~
+   A cloud of mist hangs in midair to the south, obscuring your view in
+that direction. A growing sense of evil emanates from the east.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9907
+D2
+~
+~
+0 -1 9911
+D3
+~
+~
+0 -1 9903
+S
+#9905
+Wandering through Hell~
+   The oppressive stench and the foul occupants of this infernal realm
+reinforce your initial impression of this place with every step. This
+is not a place in which you belong. 
+   Manes - the damned souls of the once-living - pull chains and carts
+across the floor here as though they were mining the brimstone of the
+walls of Hell itself.
+   Hell continues to the east and south.
+~
+99 32777 0 0 0 4
+D1
+~
+~
+0 0 9906
+D2
+~
+~
+0 -1 9907
+S
+#9906
+Hell~
+   You are standing at the crossing of a passage that cuts in from the
+west and travels down a brimstone corridor to the east.  A few ichor
+stains mar the floor of the passage, as though some sort of material 
+substance had been spilled.
+   A tunnel leads off to the south, breaking away from the passage.
+~
+99 32781 0 0 0 0
+D1
+~
+~
+0 -1 9919
+D2
+~
+~
+0 -1 9909
+D3
+~
+~
+0 0 9905
+S
+#9907
+A Junction in the Caverns of Hell~
+   The rough molten walls of this place seem to reach for you, scratching
+your skin through the gaps in your armor and bringing blood where you brush
+against them.  
+   The screams that have echoed since your arrival here are louder in this
+part of Hell and set your nerves on edge.  Ethereal shapes flit out of the
+corners of your eyes, teasing you as to whether or not you really saw them
+in the shadows.
+   Paths open up to the north, east, and west.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 -1 9905
+D1
+~
+~
+0 -1 9908
+D3
+~
+~
+0 -1 9904
+S
+#9908
+Hellish Tarpits~
+   Ichor bubbles in black pools here, spewing and churning in violent
+eruptions that splatter the cavern floors with an acidic rain.  Minor
+devils and similar semi-living beasts force manes into the bubbling
+pits, driving them to scream in terror and agony as the vanish into 
+the pools.
+   Exits lead to the east, west, and south, but none of the exits
+appear to lead to safety.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9909
+D2
+~
+~
+0 -1 9912
+D3
+~
+~
+0 -1 9907
+S
+#9909
+Hell~
+   Passages branch of north, east, and west here, winding through the pumice
+walls of this dark cavern in Hell. The tunnels are wide, but always seem to
+close in on you and tear at your flesh and equipment.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 -1 9906
+D1
+~
+~
+0 -1 9910
+D3
+~
+~
+0 -1 9908
+S
+#9910
+In a Hot Tunnel~
+   This tunnel seems to sear you with its blazing heat that grows even
+stronger to the south, as though the southern walls were actually a
+series of chimney blocks.
+   The heat becomes less oppressive to the south.
+~
+99 32769 0 0 0 0
+D2
+~
+~
+0 -1 9913
+D3
+~
+~
+0 -1 9909
+S
+#9911
+In the Mists of Hell~
+   You stand in a boiling, seething mist that seems almost sentient. You
+cannot see far, but you get the sense that you are not alone.
+~
+99 32777 0 0 0 4
+D0
+~
+~
+0 -1 9904
+S
+#9912
+A Hellish Cul-De-Sac~
+   Ethereal shapes flutter around your head as a keen wailing fills
+the air to deafen you.  Turning, you find that you have entered a
+cul-de-sac: a dead end.
+   Quickly, you look northward for an escape.
+~
+99 32777 0 0 0 4
+D0
+~
+~
+0 -1 9908
+S
+#9913
+A Searing Tunnel~
+   You are standing in a hot tunnel that grows ever more searing to the
+east.  The blistering heat that hit you when you first entered Hell was
+cool compared to this.
+   Sweat pours from your body as you consider the northern and eastern
+exits.
+~
+99 32768 0 0 0 0
+D0
+~
+~
+0 -1 9910
+D1
+~
+~
+0 -1 9914
+S
+#9914
+A Fuming Tunnel~
+   Sweat drips from your brow and the heat blisters your skin even
+through your protective coverings.  Exits lead off to the east and
+west, and though neither look inviting, the heat must surely lessen
+in those directions.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9915
+D3
+~
+~
+0 -1 9913
+S
+#9915
+A Hot Tunnel~
+   The flames of Hell lick your face from the east. Soot and ash settle
+down all around you, only to be blown back into the air and your lungs
+as an arid breeze stirs the fetid smog around you.
+   The tunnel continues to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9916
+D3
+~
+~
+0 -1 9914
+S
+#9916
+Hellfire~
+   Here, a gigantic pit in the floor spews forth foul-smelling gas and
+flame. You can almost see the tortured souls that writhe in the merciless
+heat, and count yourself lucky to not be among them.
+~
+99 32776 0 0 0 0
+D3
+~
+~
+0 -1 9915
+S
+#9917
+Hell~
+   You are strolling through the hot, dark halls of hell.  A faint glow 
+seems to pulse from the northern passage.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 -1 9921
+D1
+~
+~
+0 -1 9922
+S
+#9918
+AL III:34~
+   But your holy place shall be untouched throughout the centuries: though
+with fire and sword it be burnt down & shattered, yet an invisible house there
+standeth, and shall stand until the fall of the Great Equinox; when Hrumachis
+shall arise and the double-wanded one assume my throne and place. Another
+prophet shall arise, and bring fresh fever from the skies; another woman shall
+awake the lust & worship of the Snake; another soul of God and beast shall
+mingle in the globed priest; another sacrifice shall stain the tomb; another
+king shall reign; and blessing no longer be poured To the Hawk-headed mystical
+Lord! 
+   This place is a classical representation of every myth of Hell you have
+ever known. The tunnel continues to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9921
+D3
+~
+~
+0 -1 9920
+S
+#9919
+AL II:49-60~
+   I am in a secret fourfold word, the blasphemy against all gods of men. 
+Curse them! Curse them! Curse them! With my Hawk's head I peck at the eyes of
+Jesus as he hangs upon the cross. I flap my wings in the face of Mohammed &
+blind him. With my claws I tear out the flesh of the Indian and the Buddhist,
+Mongol and Din. Bahlasti! Ompehda! I spit on your crapulous creeds. Let Mary
+inviolate be torn upon wheels: for her sake let all chaste women be utterly
+despised among you! Also for beauty's sake and love's! Despise also all
+cowards; professional soldiers who dare not fight, but play; all fools despise!
+But the keen and the proud, the royal and the lofty; ye are brothers! As
+brothers fight ye! There is no law beyond Do what thou wilt.
+   As you recall your classical teachings about Hell, you consider what
+lies at either end of the tunnel. Could an archdemon or devil lurk there?
+   The Hellish tunnel continues to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9920
+D3
+~
+~
+0 -1 9906
+S
+#9920
+AL II:22-23~
+   I am the Snake that giveth Knowledge & Delight and bright glory, and stir
+the hearts of men with drunkenness. To worship me take wine and strange drugs
+whereof I will tell my prophet, & be drunk thereof! They shall not harm ye at
+all. It is a lie, this folly against self. The exposure of innocence is a lie.
+Be strong, o man! lust, enjoy all things of sense and rapture: fear not that
+any God shall deny thee for this. I am alone: there is no God where I am. 
+   The visions of what you have read of Hell pass as you stroll down this
+searing tunnel that leads both east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9918
+D3
+~
+~
+0 -1 9919
+S
+#9921
+Hell~
+   A head-high pile of bones stands in the middle of the floor here. They all
+appear humanoid, and give off a faint green glow. 
+   The tunnel continues to the east and west.
+~
+99 32777 0 0 0 0
+D2
+~
+~
+0 -1 9917
+D3
+~
+~
+0 -1 9918
+S
+#9922
+Hell~
+   A river of putrid water bars your way to the east, though it could be
+crossable by a strong adventurer, it would certainly singe more than your
+hair. You tap a finger against your armor and wonder if you could survive
+a moment of hell fire. 
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9923
+D3
+~
+~
+0 -1 9917
+S
+#9923
+A Searing River~
+   You stand in a shallow river of boiling water.  Your feet and legs
+slowly begin to blister through your protection, being saved only by
+its own latent heat.
+   You have got to get out now.  Banks appear to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9924
+D3
+~
+~
+0 -1 9922
+S
+#9924
+Hell~
+   To the west a thin stream of bubbling, boiling water cuts through the
+tunnel walls to exit in the same manner.  Acrid fumes rise from it to burn
+your nostrils.
+   The tunnel continues to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9925
+D3
+~
+~
+0 -1 9923
+S
+#9925
+A Hellish Tunnel~
+   The smell of brimstone begins to makes your lungs raw and the 
+stifling heat makes you wish for a nice bottle of ale, a cold mug
+of water, or even a snowball to soothe your aching throat. 
+   The tunnel continues to the south and west.
+~
+99 32781 0 0 0 0
+D2
+~
+~
+0 -1 9926
+D3
+~
+~
+0 -1 9924
+S
+#9926
+Hell~
+   You are standing in a north-south corridor, flanked on the eastern
+and western sides by searing, smoking columns and walls of sulfur. A
+few wisps of choking gas rise from them to clog your mouth and nose.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 -1 9925
+D2
+~
+~
+0 -1 9927
+S
+#9927
+Hell~
+   Hordes of black bats fly by your head from a myriad of honey-combed  
+passages in the walls. A sudden crunching of carapaces under your boots 
+lets you know that the floor isn't all empty, either.
+   The tunnel continues to the north and east.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 -1 9926
+D1
+~
+~
+0 -1 9928
+S
+#9928
+Hell~
+   This short passage turns northward west of here. You feel an increasing 
+sense of evil from the east.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9929
+D3
+~
+~
+0 -1 9927
+S
+#9929
+Hell~
+__        __   _                            _          _   _      _ _  
+\ \      / /__| | ___ ___  _ __ ___   ___  | |_ ___   | | | | ___| | | 
+ \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \  | |_| |/ _ \ | | 
+  \ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) | |  _  |  __/ | | 
+   \_/\_/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/  |_| |_|\___|_|_| 
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9930
+D3
+~
+~
+0 -1 9928
+S
+#9930
+Hell~
+   The passage stretches out for a ways to the west, but becomes very 
+twisted north of here. Evil, almost physical it seems, pours out from 
+that direction.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 -1 9931
+D3
+~
+~
+0 -1 9929
+S
+#9931
+Hell~
+   A limbless manes, mangled beyond recognition, lies strewn about on
+the floor.  Ethereal blood hangs in tendrils on the walls while the
+faint scent of death fills the air.
+   The hellish environ continues to the north and south.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 -1 9932
+D2
+~
+~
+0 -1 9930
+S
+#9932
+Hell~
+   The passage leads south and west here, and to the west it turns sharply 
+southward again. The darkness here is deep and complete.
+~
+99 32777 0 0 0 0
+D2
+~
+~
+0 -1 9931
+D3
+~
+~
+0 -1 9933
+S
+#9933
+Hell~
+   This narrow turn exits east and south. To the south the feel of death and 
+vileness almost overcomes you.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 -1 9932
+D2
+~
+~
+0 -1 9934
+S
+#9934
+A Hellish End~
+   This room is so black you can't tell if the floor is really there or if 
+you are merely standing in air. Evil reaches into your soul and seems to 
+fester there.
+   The only exit lies to the north.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 -1 9933
+D5
+~
+~
+0 0 9935
+S
+#9935
+The Second Tier Of Hell~
+   This room is completely black; so much that you cannot see your hands
+before you.  Your light seems to be quenched to a dim glow that appears 
+to cast everything in its limited range with a ghostly illumination.
+~
+99 32781 0 0 0 0
+D1
+~
+~
+0 0 9936
+D4
+~
+~
+0 0 9934
+S
+#9936
+The Second Tier Of Hell~
+   The only light here comes from small pits that flames occasionally burst
+from.  Skeletons of various creatures lie scattered across the floor, though
+strangely, they seem to have no substance, but only the ghostly image of a
+phantom.
+   Hell continues to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9937
+D3
+~
+~
+0 0 9935
+S
+#9937
+The Second Tier Of Hell~
+   A strange-looking tree stands here, in the middle of hell.  You 
+ponder how it could live here, and why it is permitted to.
+   Hell continues to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9938
+D3
+~
+~
+0 0 9936
+E
+tree~
+As you bring your light closer, your eyes widen in surprise. The tree isn't a
+tree, it's a horde of long, green snakes wrapped around each other, forming
+what, in the dark, would look like a tree.
+~
+S
+#9938
+The Second Tier Of Hell~
+   You step in a puddle of a crimson, sticky liquid which stains your 
+boots as you enter the room.  Though not blood, you note the reddish
+stains and examine the matching ichor that coats the sulfur walls of
+the corridor.
+   Hell continues to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9939
+D3
+~
+~
+0 0 9937
+E
+liquid blood~
+It's blood! What are the odds, eh?
+~
+S
+#9939
+The Second Tier Of Hell~
+   You are in a wide, open area filled with people crucified on tall, wooden
+crosses. A loud moaning sound fills the air, and you realize not all of these
+people are dead.
+   Hell continues to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9940
+D3
+~
+~
+0 0 9938
+S
+#9940
+The Second Tier Of Hell~
+   In this narrow passageway loud moans resonate from the walls, sending
+eerie vibrations through you that seem to be amplified by the sulfurous
+crystals in the walls.
+   Hell continues to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9941
+D3
+~
+~
+0 0 9939
+S
+#9941
+The Second Tier Of Hell~
+   Steam rises from thin cracks in the ground and blinds you, keeping
+your visibility to a minimum.
+   This chamber has exits to the west and south.
+~
+99 32777 0 0 0 0
+D2
+~
+~
+0 0 9942
+D3
+~
+~
+0 0 9940
+S
+#9942
+The Second Tier Of Hell~
+   Sulfurous smoke fills this hellish chamber, igniting small flares
+from your light.
+   You can see almost nothing, but feel a draft to the north and feel
+heat from the west.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 0 9941
+D3
+~
+~
+0 0 9943
+S
+#9943
+The Second Tier Of Hell~
+   The mangled corpse of a huge dragon rots here, spills out hordes of d
+demonic insects from under a flap of skin.  Probing, you lift the flap
+to see thousands of the maggot-like creatures devouring its tubular
+intestines.
+   Hell continues to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9942
+D3
+~
+~
+0 0 9944
+S
+#9944
+The Second Tier Of Hell~
+   This room is filled with insects of all kinds, all skittering east at an
+amazing speed. In their rush they barely notice you, and crawl over your feet
+and legs.
+   An enormous cavern lies to the west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9943
+D3
+~
+~
+0 0 9945
+S
+#9945
+A Vast Cavern~
+   Insects piled a half-dozen deep crunch under your boots. You feel that if
+you don't keep moving they're quickly swarm over you. The black cavern walls
+look like lava rock, and seem razor sharp. To the east a black tunnel leads
+into darkness, and to the southwest lies some sort of insect-covered mound.
+A putrid smell is in the air; the scent of brimstone which you have grown
+accustomed to seems sweet in comparison.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9944
+D2
+~
+~
+0 0 9946
+D3
+~
+~
+0 0 9947
+S
+#9946
+A Vast Cavern~
+   You are standing in a bending cavern.  To the west you can see a
+swarming mound of insects devouring a large shape beneath them. To
+the north a tunnel heads eastward out of the cavern.
+   The cavern walls to the south and east intersect sharply, forming
+a looming wall that extends over your head and out of your sight.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 0 9945
+D3
+~
+~
+0 0 9948
+S
+#9947
+A Vast Cavern~
+   This cavern is enormous; big enough to house a dragon, though obviously
+not one you would wish to confront.
+   To the south an insect-covered mound almost waist-high seems to emit
+a putrid stench that wafts here and chokes you while to the west, a very
+tunnel, no more than a crack in the rock, leads into darkness.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9945
+D2
+~
+~
+0 0 9948
+D3
+~
+~
+0 0 9949
+S
+#9948
+A Vast Cavern~
+   The source of the putrid smell in this room is evident here, as you view
+the struggling shapes under the morass of insects. Millions of roaches swarm
+over a pile of gelatinous substance that has the consistancy of mucous. As
+you watch in horror, an arm juts out of the pile.. an obviously elven arm,
+with the slim tapering fingers covered in snot, shit, and eagerly biting
+beetles with inch-long black pincers.
+~
+99 32777 0 0 0 0
+D0
+~
+~
+0 0 9947
+D1
+~
+~
+0 0 9946
+S
+#9949
+A Narrow Tunnel~
+   Sharp tunnel walls tear at your flesh and clothes while under your feet,
+the ground soils your boots with a fine layer of black dust.
+   To the east this narrow tunnel opens up into a vast cavern, while to the
+west, it appears to widen a bit.  Insects the size of your thumb pour out 
+of the eastern cave.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9947
+D3
+~
+~
+0 0 9950
+S
+#9950
+The Room Of Gluttony~
+   Filled with buzzing flies, this chamber's floor is littered with rotten
+meats, fruits, and vegetables. An ironwood table takes up the center of the
+room, and piled onto it in a great heap rots more of the same foods.
+   Narrow tunnels lead into darkness to the east and west.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9949
+D3
+~
+~
+0 0 9951
+S
+#9951
+A Narrow Tunnel~
+   To the east this narrow tunnel opens up into a vast cavern, and to the west
+it seems to widen slightly. The sharp tunnel walls tear at your flesh and
+clothes, and under your feet the ground is covered in a fine layer of black
+dust. From the east bugs the size of your thumb scurry in like a black wave.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9950
+D3
+~
+~
+0 0 9952
+S
+#9952
+The Room Of Envy~
+   The room is strangely empty, until you inspect more closely.  In the
+southern wall you notice a hole bored into it.  Beside it, you notice
+a thin, though passable crevasse beneath some crude writings in Common.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9951
+D3
+~
+~
+0 0 9953
+E
+writing writings common words~
+It reads:
+"I have come and gone from this place; and taken the treasure which once
+filled this room with me."
+~
+E
+crack~
+Looking in the crack, you see your childhood sweetheart making love to a
+person who looks familiar.. A second later you realize it's your best friend!
+~
+E
+hole~
+Peeking through the hole, you see a vast room full of treasure!
+~
+S
+#9953
+A Narrow Tunnel~
+   To the east this narrow tunnel opens up into a vast cavern, and to the west
+it seems to widen slightly. The sharp tunnel walls tear at your flesh and
+clothes, and under your feet the ground is covered in a fine layer of black
+dust. From the west you can here ecstatic moans mixed with screams of terror.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9952
+D3
+~
+~
+0 0 9954
+S
+#9954
+The Room Of Lust~
+   Harsh screams ring in your ears as you behold the scene before you.
+The walls are decorated with people - mostly male humans - dressed in
+straps of leather and bound by chains.  Blood coats the walls, and its
+source is obviously the barbed silver hooks that hold the poor souls to
+the wall.  They scream in both agony and ecstacy for at the foot of each
+living corpse stands a demonic imp, performing oral feats on the tortured
+victim with a mouth full of sharp teeth.
+   All this is secondary however, to the black altar in the center of the
+room.  A male and female demon stand there, naked but with exaggerated
+genitalia (and breasts in the female's case).  As you watch, a mortal is
+pulled from the wall and thrown onto the altar.
+   With piercing shrieks, the demons set in, abusing his every orifice
+with their teeth, nails, ripping horns, and over-sized penises that shoot
+from their bodies like stilettos.
+   As the mortal is torn to shreds, the scene vanishes, leaving you in
+darkness.
+~
+99 32777 0 0 0 0
+D1
+~
+~
+0 0 9953
+S
+#9960
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 21285
+D2
+~
+~
+0 0 9961
+S
+#9961
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 9960
+D2
+~
+~
+0 0 9962
+S
+#9962
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 9961
+D2
+~
+~
+0 0 9963
+S
+#9963
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 9962
+D2
+~
+~
+0 0 9964
+S
+#9964
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 9963
+D2
+~
+~
+0 0 9965
+S
+#9965
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 9964
+D2
+~
+~
+0 0 9966
+S
+#9966
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 9965
+D2
+~
+~
+0 0 9967
+S
+#9967
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 9966
+D2
+~
+~
+0 0 9968
+S
+#9968
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 9967
+D2
+~
+~
+0 0 9969
+S
+#9969
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 9968
+D2
+~
+~
+0 0 9970
+S
+#9970
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 2
+D0
+~
+~
+0 0 9969
+D2
+~
+~
+0 0 9971
+S
+#9971
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+99 32768 0 0 0 3
+D0
+~
+~
+0 0 9970
+D2
+~
+~
+0 0 21286
+S
+$~

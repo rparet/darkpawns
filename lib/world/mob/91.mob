@@ -1,0 +1,756 @@
+#9101
+rabbit cute male carve_rabbit~
+the rabbit~
+A cute little rabbit nibbles on some berries.  
+~
+Looking at this little guy, you see his fluffy, brown fur and his tiny,
+black eyes. He's pretty thin and looks hungry.
+~
+1048776 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 200
+8 8 1
+BareHandAttack: 8
+Race: 15
+E
+#9102
+rabbit cute female carve_rabbit~
+the rabbit~
+A cute little rabbit nibbles on some berries.  
+~
+Looking at this little gal, you see her fluffy, brown fur and her tiny,
+black eyes. She's pretty thin and looks hungry.
+~
+1048776 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 200
+8 8 2
+Race: 15
+E
+#9103
+squirrel male carve_meat~
+the squirrel~
+A squirrel is here, looking for his nuts.
+~
+It's a squirrel! Don't you know what a squirrel looks like? Well, that's
+exactly how this squirrel looks.
+~
+1048776 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 200
+8 8 1
+Race: 15
+E
+#9104
+squirrel female carve_meat~
+the squirrel~
+A squirrel is here, looking for her nuts.
+~
+It's a squirrel! Don't you know what a squirrel looks like? Well, that's
+exactly how this squirrel looks.
+~
+1048776 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 200
+8 8 2
+Race: 15
+E
+#9105
+raccoon male carve_meat~
+the raccoon~
+A black masked raccoon hides in the brush.
+~
+  The black mask around his eyes marks this creature as the infamous raccoon
+Legends say that the raccoon is a ferocious creature, wreaking havok and 
+mayhem wherever it wanders. But then, legends are often wrong.
+~
+1048776 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 200
+8 8 1
+Race: 15
+E
+#9106
+raccoon female carve_meat~
+the raccoon~
+A black masked raccoon hides in the brush.
+~
+  The black mask around her eyes marks this creature as the infamous raccoon.
+Legends say that the raccoon is a ferocious creature, wreaking havok and 
+mayhem wherever it wanders. But then, legends are often wrong.
+~
+1048776 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 200
+8 8 2
+Race: 15
+E
+#9107
+deer  carve_meat male~
+the deer~
+As you approach, you startle a small deer.
+~
+  This deer looks scared for his life! Just imagine how the poor thing feels
+to see you.
+~
+1048776 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 200
+8 8 1
+BareHandAttack: 14
+Race: 22
+E
+#9108
+deer female carve_meat~
+the deer~
+As you approach, you startle a small deer.
+~
+  This deer looks scared for her life! Just imagine how the poor thing feels
+to see you.
+~
+1048776 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 200
+8 8 2
+BareHandAttack: 14
+Race: 22
+E
+#9109
+quick brown fox male carve_meat~
+the quick brown fox~
+The quick brown fox jumps over the lazy dog.
+~
+  You see a fox, nothing else, just a fox.
+~
+1048776 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 200
+8 8 1
+BareHandAttack: 4
+Race: 22
+E
+#9110
+quick brown fox female carve_meat~
+the quick brown fox~
+The quick brown fox jumps over the lazy dog.
+~
+  You see a fox, nothing else, just a fox.
+~
+1048776 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+1 200
+8 8 2
+BareHandAttack: 4
+Race: 22
+E
+#9111
+bear grizzly male carve_meat~
+the grizzly bear~
+A large grizzly bear is here, eating some fish.
+~
+Looking at this bear, you wonder where he got his fish.
+~
+1048648 0 0 0 1024 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+1 1500
+8 8 1
+Race: 22
+E
+#9112
+bear grizzly female carve_meat~
+the grizzly bear~
+A large grizzly bear is here, eating some fish.
+~
+Looking at this bear, you wonder where she got her fish.
+~
+1048648 0 0 0 1024 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+1 1500
+8 8 2
+Race: 22
+E
+#9113
+wild boar male carve_meat~
+the wild boar~
+A wild boar charges you!
+~
+This boar doesn't look particularly nice... Especially his razor-sharp tusks.
+~
+1048680 0 0 0 1024 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+1 385
+8 8 1
+BareHandAttack: 4
+Race: 22
+E
+#9114
+wild boar female carve_meat~
+the wild boar~
+A wild boar charges you!
+~
+This boar doesn't look particularly nice... Especially her razor-sharp tusks.
+~
+1048680 0 0 0 1024 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+1 385
+8 8 2
+BareHandAttack: 4
+Race: 22
+E
+#9115
+wolf black male~
+the black wolf~
+A black wolf howls at the moon.
+~
+  Covered in black fur, this wolf looks ready to rip open someone's throat.
+~
+1048648 0 0 0 1024 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+1 900
+8 8 1
+BareHandAttack: 4
+Race: 22
+E
+#9116
+wolf black female~
+the black wolf~
+A black wolf howls at the moon.
+~
+  Covered in black fur, this wolf looks ready to rip open someone's throat.
+~
+1048648 0 0 0 1024 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+1 900
+8 8 2
+BareHandAttack: 4
+Race: 22
+E
+#9117
+lion mountain male~
+the mountain lion~
+A mountain lion plays with some yarn.
+~
+  It's good to be the king.
+~
+1048648 0 0 0 1024 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+1 900
+8 8 1
+Race: 22
+E
+#9118
+lion mountain female~
+the mountain lion~
+A mountain lion slinks through the forest.
+~
+Ruddy-brown fur surrounds a feline face full of sharp teeth. She easily 
+weighs over 150 pounds.
+~
+1048648 0 0 0 1024 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+1 900
+8 8 2
+BareHandAttack: 8
+Race: 22
+E
+#9119
+death watch beetle~
+a death watch beetle~
+A large, ugly beetle crawls around here.
+~
+It's jet black in color, except for a single patch of white that resembles a
+human skull.
+~
+1048652 0 0 0 524288 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+1 6000
+8 8 1
+BareHandAttack: 4
+Race: 21
+E
+#9120
+korred small man~
+a korred~
+A small man dances in circles here.
+~
+Perhaps the most striking feature of this gnome-sized race of humanoids is
+their wildly flowing beards and hair, which seem to snake out in all 
+directions. Their bodies are hairy, with their lower quarters being those of
+a goat.
+~
+8264 0 0 0 8388608 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+3 4500
+8 8 1
+Race: 28
+E
+#9121
+woman beautiful female nymph~
+a nymph~
+A beautiful woman walks among the trees.
+~
+A nymph's beauty is beyond words--an ever-young woman with sleek figure and
+long, thick hair, radiant skin and perfect teeth, full lips and gentle eyes.
+~
+328 0 0 0 262144 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+1 3500
+8 8 2
+Race: 28
+E
+#9122
+satyr man goat goat-man~
+a satyr~
+A goat-man prances here.
+~
+Satyr's have the torso, head, and arms of a man, and the hind legs of a goat.
+~
+72 0 0 0 131072 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+1 6000
+8 8 1
+Race: 28
+E
+#9123
+skunk giant~
+a giant skunk~
+A giant skunk is here, marking his territory.
+~
+It's easily recognized by the long white stripe running from it's face, down
+it's black-furred back, to the tip of it's tail.
+~
+1048648 0 0 0 8388608 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+1 350
+8 8 0
+BareHandAttack: 4
+Race: 15
+E
+#9124
+ettercap~
+an ettercap~
+An ettercap skulks around here.
+~
+Ettercaps are ugly bipedal creatures that get along with all types of giant
+spiders.
+~
+16460 0 0 0 524288 0 0 0 -1000 E
+12 8 -2 12d5+130 8d4+8
+1 9000
+8 8 1
+BareHandAttack: 3
+Race: 27
+E
+#9125
+leprechaun~
+a leprechaun~
+A leprechaun frolicks in circles here.
+~
+Rumored to be a cross between a species of halfling and a strong strain of
+pixie, leprechauns are about 2 feet tall. He has pointed ears and his nose
+ends in a tapered point.
+~
+72 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+86 2500
+8 8 1
+Race: 28
+E
+#9126
+trapper forest~
+a forest trapper~
+A forest trapper levitates here.
+~
+The forest trapper, or miner, resembles a tailless manta ray mottle brown.
+It's frontal and dorsal ridges are hard bone.
+~
+8268 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+1 2500
+8 8 0
+BareHandAttack: 4
+Race: 0
+E
+#9127
+lumberjack~
+a lumberjack~
+A lumberjack is here, chopping down trees.
+~
+He's big and mean looking, he probably only took this job to kill things.
+~
+72 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+1 2500
+8 8 1
+Race: 0
+E
+#9128
+choke creeper vine~
+a choke creeper~
+A long, branched vine is here.
+~
+It appears as a long, very thick vine with about four branches per ten-foot
+section. The vine is olive green in color, and the plant stem is almost as
+thick as a tree trunk.
+~
+1048590 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+1 14000
+8 8 0
+Race: 17
+E
+#9129
+hangman tree~
+a hangman tree~
+A large tree with rope-like appendages stands here.
+~
+Hangman trees are deciduous, resembling a thick oak with few branches and
+sparse foliage. There are several knot-like protuberances located high on the
+trunk.
+~
+1286158 0 0 0 0 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+1 9000
+8 8 0
+Race: 17
+E
+#9130
+plant mantrap man trap~
+a mantrap plant~
+A plant that looks like it could eat a man is here.
+~
+It is a gigantic bush with towering stalks of purple blossoms and huge green
+leaves at ground level.
+~
+1048590 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+1 4500
+8 8 0
+BareHandAttack: 13
+Race: 17
+E
+#9131
+beastman man beast~
+a beastman~
+A beastman is here, camoflauged by surrounding foliage.
+~
+Beastmen resemble short, slender humans, except for the fine layer of dark
+green fur that covers their bodies.
+~
+1048648 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+1 6000
+8 8 1
+Race: 27
+E
+#9132
+lizard bonesnapper~
+a bonesnapper~
+A large lizard is here, walking upright.
+~
+This bonesnapper is about five feet tall. It's tough hide is not scaled, but
+is very thick and leathery. The bonesnapper is dark green in color, enabling
+it to blend in with the forest around it.
+~
+1048648 0 0 0 0 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+1 9000
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#9133
+buckawn man brownie~
+a buckawn~
+A buckawn stands here with a puzzled look on his face.
+~
+He looks lost.
+~
+72 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+1 4500
+8 8 1
+Race: 28
+E
+#9134
+quickling brownie~
+a quickling~
+A quickling is here, darting around you.
+~
+Quicklings are small and slender beings.  They look much like miniature elves
+with very sharp, feral features.  Their ears are unusually large and rise to
+points above their heads.  Their eyes are cold and cruel with a tiny spark of
+yellow light.
+~
+72 0 0 0 0 0 0 0 -100 E
+6 14 4 6d5+70 3d4+3
+1 1500
+8 8 1
+Race: 27
+E
+#9135
+green giant jolly~
+the Jolly Green Giant~
+The Jolly Green Giant is here, clubbing wildlife.
+~
+Want some corn!?
+~
+72 0 0 0 0 0 0 0 0 E
+14 6 -4 14d5+150 9d4+9
+1 12000
+8 8 1
+BareHandAttack: 6
+Race: 18
+E
+#9136
+smokey bear~
+Smokey the Bear~
+Smokey the Bear is here, smokin' a blunt.
+~
+Only you can prevent forest fires, man.
+~
+72 0 0 0 0 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+1 9000
+8 8 0
+BareHandAttack: 9
+Race: 22
+E
+#9137
+king fairy fairies~
+the King of the Fairies~
+The King of the Fairies prances around here.
+~
+Winged and ethereal, this sprite looks at you from emerald green eyes.
+~
+1048648 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+1 14000
+8 8 1
+Race: 28
+E
+#9138
+Caerroil human druid~
+Caerroil~
+A tall human dressed in long green robes wanders about.
+~
+An ancient druid. He is the most beautiful man you've ever seen.
+~
+1099928 0 0 0 33928 0 0 0 1000 E
+20 0 -10 20d5+210 13d4+13
+1 25000
+8 8 1
+Race: 0
+E
+#9139
+brownie~
+a brownie~
+A brownie is here, climbing trees.
+~
+Brownies stand no more than 2' tall and are excedingly nimble. They resemble
+small elves with brown hair and bright blue eyes.
+~
+72 0 0 0 0 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+1 1500
+8 8 2
+Race: 28
+E
+#9140
+centaur horse man carve_meat~
+a centaur~
+A centaur is here, relieving himself on your boots.
+~
+The appearance of a centaur is unmistakable: they have the upper torso, arms,
+and head of a human being, and the lower body of a large, powerful horse.
+~
+1048648 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+1 4500
+8 8 1
+Race: 4
+E
+#9141
+spider large~
+a large spider~
+A large spider is here, spinning a web.
+~
+It looks exactly like a giant spider, only smaller.
+~
+72 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+1 600
+8 8 0
+BareHandAttack: 4
+Race: 14
+E
+#9142
+giant spider~
+a giant spider~
+A giant spider is here, spinning a web.
+~
+It looks exactly like a large spider, only bigger.
+~
+72 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+1 2500
+8 8 0
+BareHandAttack: 4
+Race: 14
+E
+#9143
+sprite~
+a sprite~
+A sprite is here, laid back.
+~
+Sprites are shy and reclusive faerie people who dwell in meadows and wooded
+glens. They have distinctly elven features and small, semitransparent wings.
+~
+72 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+1 600
+8 8 1
+Race: 28
+E
+#9144
+pixie~
+a pixie~
+A pixie is here, being mischievous.
+~
+Pixies are elfin creatures, about two and a half feet tall. When visible,
+their facial features resemble those of elves, only smaller.
+~
+1048648 0 0 0 2 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+1 1500
+8 8 1
+Race: 28
+E
+#9145
+knight nih~
+the Knight Who Says NIH!~
+The Knight Who Says NIH! stands here.
+~
+NIH!
+~
+72 0 0 0 0 0 0 0 0 E
+14 6 -4 14d5+150 9d4+9
+1 12000
+8 8 1
+Race: 0
+E
+#9146
+anhkheg creature insect~
+the Anhkheg~
+A gargantuan-sized insectoid creature is here.
+~
+The anhkheg has a chitinous shell which is brownish in color. It's underside
+is pinkish. The creature's eyes are a glistening black.
+~
+1048648 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+1 14000
+8 8 0
+BareHandAttack: 4
+Race: 21
+E
+#9147
+golden gorger aurumvorax animal~
+the aurumvorax~
+A long, golden furred animal is digging a burrow here.
+~
+Despite being only the size of a large badger, the aurumvorax, or "golden
+gorger", is an incredibly dangerous creature. The animal is covered with 
+coarse golden hair and has small silver eyes with golden pupils. It has
+eight powerful legs that end in 3-inch long copper claws. The aurumvorax's
+shoulders are massively muscled while its heavy jaw is full of coppery
+teeth.
+~
+1048648 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+1 14000
+8 8 0
+BareHandAttack: 8
+Race: 22
+E
+#9148
+centaur leader~
+the centaur leader~
+The centaur leader is here, stomping the ground.
+~
+He looks just like an ordinary centaur, only more noble.
+~
+1048648 0 0 0 0 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+9 9000
+8 8 1
+Race: 4
+E
+#9149
+lucky leprechaun~
+Lucky the leprechaun~
+Lucky the leprechaun stands here.
+~
+He's got red hair, parcially covered by a green top-hat with a four leaf 
+clover on it. He's wearing a green jacket and scarf and a blue shirt.
+~
+72 0 0 0 0 0 0 0 0 E
+14 6 -4 14d5+150 9d4+9
+1 12000
+8 8 1
+Race: 28
+E
+#9150
+hiker man~
+a hiker~
+A tall man strides through the forest.
+~
+All set up to travel, this man looks like he LIKES walking?!?!?!
+~
+204 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+47 4500
+8 8 1
+Race: 0
+E
+#9151
+daral~
+Daral~
+Daral is here, flipping daggers into the air.
+~
+He looks like your average ruffian, except for his long, curly, purple hair
+and bright green skin.
+~
+18463 0 0 0 132104 0 0 0 -500 E
+12 8 -2 12d5+130 8d4+8
+10 9000
+8 8 1
+Race: 0
+E
+#9152
+carmen miranda~
+Carmen Miranda~
+An odd looking woman is walking around here with a basket of fruit on her head.
+~
+Wearing a slinky dress and a basket of fruit on her head, Carmen looks
+ready for some "action".
+~
+136 0 0 0 0 0 0 0 500 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 2
+Race: 0
+E
+#9701
+ahab salesman sailor~
+Ahab~
+An old sailor turned salesman sits here, polishing a hull.
+~
+He's a tall, bearded man, with tanned skin and a gold loop in one ear.
+~
+10 0 0 0 1024 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+500 270000
+6 6 1
+E
+$

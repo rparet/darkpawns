@@ -1,0 +1,101 @@
+#11700
+shard crystal~
+a shard of crystal~
+A crystal shard is stuck in the dirt.~
+~
+1 65 0 0 0 16385 0 0 0
+0 0 50 0
+1 100 100.00
+A
+3 1
+#11701
+scroll crystal~
+a crystal scroll~
+A clear tablet looks to be some sort of scroll.~
+~
+2 64 0 0 0 16385 0 0 0
+10 1 -1 -1
+1 200 100.00
+#11702
+wand crystal~
+a crystal wand~
+A clear wand lies in the dirt here.~
+~
+3 67 0 0 0 16385 0 0 0
+10 2 2 30
+1 200 100.00
+#11703
+staff crystal~
+a crystal staff~
+A clear staff lies in the dirt here.~
+~
+4 67 0 0 0 16385 0 0 0
+10 1 1 1
+1 200 100.00
+#11704
+sword crystal~
+a crystal sword~
+A crystal sword has been dropped here.~
+~
+5 2 0 0 0 8193 0 0 0
+0 2 4 3
+5 100 100.00
+#11705
+ring crystal~
+a crystal ring~
+A clear ring has been dropped here.~
+~
+11 1 0 0 0 3 0 0 0
+0 0 0 0
+1 150 100.00
+A
+18 1
+#11706
+necklace crystal~
+a crystal necklace~
+A clear necklace lies here.~
+~
+11 1 0 0 0 5 0 0 0
+0 0 0 0
+1 150 100.00
+A
+18 1
+#11707
+armor crystal~
+a suit of crystal armor~
+A clear but heavy suit of armor lies here.~
+~
+9 1 0 0 0 9 0 0 0
+5 0 0 0
+20 350 100.00
+A
+13 3
+#11708
+dagger crystal~
+a crystal dagger~
+A dagger of pure crystal lies forgotten.~
+pierce~
+5 64 0 0 0 8193 0 0 0
+0 1 9 11
+2 100 90.00
+A
+18 1
+#11709
+shield demonic~
+a demonic shield~
+A demonic shield lies here, fading in and out of visibility.~
+~
+9 224 0 0 0 513 0 0 0
+10 0 0 0
+1 10000 85.00
+E
+shield demonic~
+As it leaves your hands, it disappears... You can still feel it, but
+you know that if you dropped it you may never find it again. It glows
+faintly, but even as you stare at it, the glow fades.
+~
+A
+1 2
+A
+5 -1
+$~

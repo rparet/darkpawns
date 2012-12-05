@@ -1,0 +1,163 @@
+#14100
+helmet golden serapis~
+the Golden Helmet~
+A brilliantly glowing golden helmet hovers in mid-air here.~
+~
+9 71 0 0 0 17 0 0 0
+0 0 0 0
+15 10000 0.00
+A
+29 7
+A
+29 33
+#14101
+golden flail desert kings~
+the Flail of the Desert Kings~
+A golden flail is laying here.~
+~
+5 208425025 0 0 0 8193 0 0 0
+0 4 6 6
+18 5505 10.00
+A
+19 3
+A
+18 2
+#14102
+circlet golden desert kings~
+a golden circlet~
+A golden circlet lays here.~
+~
+9 1 0 0 0 17 0 0 0
+3 0 0 0
+3 1000 15.00
+A
+6 2
+A
+18 3
+#14120
+box crate old~
+an old crate~
+An old crate, covered with dust, has been left here to rot.~
+~
+15 0 0 0 0 0 0 0 0
+1000 5 -1 0
+500 0 100.00
+#14121
+cauldron boiling~
+a boiling cauldron~
+A boiling cauldron is here.~
+~
+15 0 0 0 0 0 0 0 0
+500 0 -1 0
+1000 0 100.00
+#14122
+necklace bone bones~
+a necklace made of bones~
+A necklace, cunningly made from hundreds of bone fragments lies here.~
+~
+8 0 0 0 0 5 0 0 0
+0 0 0 0
+1 2450 15.00
+A
+18 1
+A
+19 1
+A
+6 -1
+#14123
+human arm part~
+a human's arm~
+A rotting arm has been left here.~
+~
+19 0 0 0 0 16385 0 0 0
+0 0 0 1
+8 0 100.00
+A
+6 -5
+#14124
+leg human part~
+a human's leg~
+A rotting leg has been left here.~
+~
+19 0 0 0 0 16385 0 0 0
+1 0 0 2
+14 0 100.00
+A
+6 -5
+#14125
+bone brush~
+a bone brush~
+A brush made from a large, sun-bleached bone is here.~
+~
+3 16 0 0 0 16385 0 0 0
+10 9 3 7
+3 75 25.00
+#14126
+shining armor suit~
+a suit of shining armor~
+A suit of shining armor stands here.~
+~
+3 544769 0 0 0 9 0 0 0
+20 4 3 36
+32 1300 10.00
+A
+6 2
+A
+17 -13
+A
+19 -2
+A
+18 1
+#14127
+ball light~
+a ball of light~
+A ball of light floats here.~
+~
+1 323 0 0 0 262145 0 0 0
+0 0 -1 0
+1 160 2.00
+#14128
+blade sun holy~
+the Sun Blade~
+Lothar's Sun Blade is here.~
+~
+5 140801024 0 0 0 8193 0 0 0
+0 12 1 3
+7 8000 30.00
+A
+25 8
+A
+29 12
+#14129
+corpse dagger~
+a corpse with a dagger in it~
+A corpse with a dagger stuck in it lies here, blocking the path.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+20 0 100.00
+E
+dagger~
+The dagger is of poor quality, not even worth taking your time to try to pull
+it out. So you don't.
+~
+E
+corpse~
+The corpse has a dagger firmly buried in it, evidently sticking through
+bone since you can't pull it out, even using all your strength. You take
+this as a warning to not go any further unless you are an experienced
+adventurer.
+~
+#14130
+talisman blood bloody~
+a bloody talisman~
+A talisman, covered in blood, lies on the ground.~
+~
+8 640 0 0 0 5 0 0 0
+0 0 0 0
+2 650 3.00
+A
+27 2
+A
+12 5
+$~

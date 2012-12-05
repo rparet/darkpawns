@@ -1,0 +1,284 @@
+CircleMUD v3.0 Shop File~
+#4813~
+4804
+4805
+4806
+4807
+-1
+1.00
+0.60
+17
+20
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+4808
+2
+4813
+-1
+0
+28
+0
+0
+#4814~
+4808
+4809
+4810
+-1
+1.25
+0.75
+10
+20
+19
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+4809
+0
+4814
+-1
+0
+28
+0
+0
+#4832~
+4805
+4806
+4815
+4816
+4817
+4818
+-1
+1.05
+0.40
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4811
+0
+4832
+-1
+0
+28
+0
+0
+#4848~
+4823
+-1
+1.00
+0.10
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s Liar!  You have no money!  Get out!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4817
+0
+4848
+-1
+0
+28
+0
+0
+#4853~
+4804
+4805
+4806
+4807
+-1
+1.00
+0.05
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4819
+0
+4853
+-1
+0
+28
+0
+0
+#4864~
+4827
+-1
+1.10
+0.30
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4820
+0
+4864
+-1
+0
+28
+0
+0
+#4867~
+-1
+1.25
+0.50
+9
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+4822
+0
+4867
+-1
+0
+28
+0
+0
+#4868~
+4831
+-1
+1.00
+0.40
+9
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4823
+0
+4868
+-1
+6
+18
+6
+18
+#4874~
+4833
+-1
+1.20
+0.60
+20
+5
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4824
+0
+4874
+-1
+0
+28
+0
+0
+#4884~
+4835
+4836
+-1
+1.20
+0.40
+11
+20
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4826
+0
+1
+-1
+0
+28
+0
+0
+#4894~
+4837
+4838
+4839
+8027
+-1
+1.00
+0.30
+12
+15
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+4828
+0
+4894
+-1
+0
+28
+0
+0
+$~

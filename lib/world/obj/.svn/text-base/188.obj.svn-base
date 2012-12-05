@@ -1,0 +1,333 @@
+#18801
+loaf bread~
+a loaf of bread~
+A loaf of bread lies here~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0
+1 3 3
+#18802
+lemon muffin~
+a lemon muffin~
+A lemon muffin lies here~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0
+1 3 3
+#18803
+sugar bun~
+a sugar bun~
+A sugar bun lies here~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0
+1 3 3
+#18804
+cream biscuit~
+a cream biscuit~
+A cream biscuit lies here~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0
+1 3 3
+#18805
+coffee cake~
+a coffee cake~
+A coffee cake lies here~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0
+1 3 3
+#18806
+soup bowl~
+a soup bowl~
+A soup bowl lies here~
+~
+17 0 0 0 0 1 0 0 0
+1 1 8 0
+2 5 5
+#18807
+vegetable soup~
+a vegetable soup~
+A vegetable soup lies here~
+~
+15 0 0 0 0 1 0 0 0
+4 0 0 0
+1 3 3
+#18808
+coffee cup~
+a coffee cup~
+A coffee cup lies here.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 12 0
+1 4 4
+#18809
+tea cup~
+a tea cup~
+A tea cup lies here~
+~
+17 0 0 0 0 1 0 0 0
+1 1 11 0
+1 2 2
+#18810
+danish~
+an apple danish~
+An apple danish lies here.~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0
+1 3 4
+#18811
+pretzel~
+a pretzel~
+A pretzel lies here~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0
+1 2 3
+#18812
+cookie~
+a chocolate cookie~
+A chocolate cookie lies here.~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 0
+1 3 4
+#18813
+petunia~
+a petunia ~
+A petunia lies here~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 3 3
+#18814
+sunflower~
+a sunflower~
+A sunflower lies here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 2 2
+#18815
+poppy~
+a poppy~
+A poppy lies here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 2 2
+#18816
+rose~
+a rose~
+A rose lies here.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1 3 3
+#18817
+ring~
+a gold ring~
+A gold ring lies here~
+~
+8 0 0 0 0 3 0 0 0
+0 0 0 0
+1 400 400
+#18818
+bracelet~
+a gold bracelet~
+A gold bracelet lies here.~
+~
+8 0 0 0 0 4097 0 0 0
+0 0 0 0
+2 600 600
+#18819
+necklace~
+an emerald necklace~
+An emerald necklace lies here.~
+~
+8 0 0 0 0 5 0 0 0
+0 0 0 0
+2 800 800
+#18820
+tiara~
+a diamond tiara~
+A diamond tiara lies here.~
+~
+8 0 0 0 0 17 0 0 0
+0 0 0 0
+1 2000 2000
+#18821
+glass~
+a crystal glass~
+A crystal glass lies here.~
+~
+17 0 0 0 0 1 0 0 0
+2 0 0 0
+1 5 5
+#18822
+decanter~
+a crystal decanter~
+A crystal decanter lies here.~
+~
+17 0 0 0 0 1 0 0 0
+6 0 0 0
+2 22 22
+#18823
+glass~
+a crystal glass~
+A crystal glass lies on the ground~
+~
+17 0 0 0 0 1 0 0 0
+1 1 2 0
+1 5 5
+#18824
+full plate gauntlets~
+a pair of full plate gauntlets~
+A pair of full plate gauntlets lies here.~
+~
+9 0 0 0 0 129 0 0 0
+5 0 0 0
+7 190 190
+A
+17 -1
+#18825
+full plate breastplate~
+a full plate breastplate~
+A full plate breastplate lies here.~
+~
+9 0 0 0 0 9 0 0 0
+6 0 0 0
+10 400 400
+A
+17 -1
+#18826
+full plate greaves~
+a pair of full plate greaves~
+A pair of full plate greaves lies here.~
+~
+9 0 0 0 0 33 0 0 0
+2 0 0 0
+2 200 200
+A
+17 -1
+#18827
+full plate helm~
+a full plate helm~
+A full plate helm lies here.~
+~
+9 0 0 0 0 17 0 0 0
+2 0 0 0
+2 150 150
+A
+17 -1
+#18828
+ellisian dagger~
+an Ellisian dagger~
+A finely crafted razor sharp dagger lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 2 3 11
+2 28 28
+#18829
+ellisian sword~
+an Ellisian sword~
+An Ellisian sword lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 4 2 14
+6 66 66
+#18830
+ale mug~
+a mug~
+A mug lies here.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 4 0
+1 5 5
+#18831
+ale flagon~
+a flagon~
+A flagon lies here.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 3 0
+1 5 100.00
+#18832
+beer bottle~
+a bottle~
+A bottle lies here.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 1 0
+1 4 100.00
+#18833
+plant~
+a potted plant~
+A potted plant lies here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0
+10 35 35
+#18834
+rug~
+an area rug~
+An area rug lies here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0
+18 200 200
+#18835
+cestus~
+a pair of cestus~
+A pair of cestus is lying here.~
+~
+11 0 0 0 0 129 0 0 0
+0 0 0 0
+3 500 500
+A
+19 1
+#18836
+focus~
+a focus~
+A focus is lying here.~
+~
+11 65 0 0 0 17 0 0 0
+0 0 0 0
+1 1000 1.00
+A
+12 8
+A
+4 2
+A
+14 5
+A
+24 -1
+A
+27 3
+A
+3 1
+#18837
+taj~
+a taj~
+A taj is lying here~
+~
+11 0 0 0 0 17 0 0 0
+0 0 0 0
+2 400 400
+A
+2 -1
+A
+4 1
+A
+3 1
+#18838
+fountain~
+a fountain~
+The Paultinian fountain's clear water tempts your parched throat.~
+~
+23 16 0 0 0 0 0 0 0
+99999 99999 15 0
+100004 100 100
+$~

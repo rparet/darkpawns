@@ -1,0 +1,166 @@
+#4701
+snow leopard~
+a snow leopard~
+A snow-white mountain cat rests here, staring coldly at you.
+~
+This mountain cat stands as high as your waist and boasts a snowy white
+pelt.  Faint rings and stripes mar its otherwise flawless coat.
+~
+1048712 0 0 0 263200 0 0 0 100 E
+9 11 1 9d5+100 5d4+4
+0 4500
+8 8 1
+BareHandAttack: 8
+Race: 22
+E
+#4702
+yeti gorilla~
+a yeti~
+An enormous, carnivorous mountain gorilla stands here, watching you.
+~
+This snow-white gorilla (often confused with the fabled abominable snowman)
+stands near seven feet in height and is covered with fur.  The intense cold
+around you is not enough to suppress the stench of rotting meat that comes
+from its unkempt, ungroomed body.
+~
+1310744 0 0 0 8946720 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 1
+BareHandAttack: 9
+Race: 22
+E
+#4703
+snowman~
+an animated snowman~
+A living snowman stands here, magically animated, watching you.
+~
+This creature of snow glides closer to you, occasionally scraping the bare
+ground beneath him to add to his snowy body.  A single eye of bark rests
+tilted in its head while two mobile arms of fallen oak branches swing
+wildly at you.
+~
+173064 0 0 0 33824 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 1
+BareHandAttack: 5
+Race: 25
+E
+#4704
+ice mage~
+an ice mage~
+A mage with a frosty-white beard is here conducting a ritual.
+~
+This old man appears to be the patron saint and guardian for the
+village.  Dressed in furs and the skins of wild elk, this mage
+screams incantations, conjuring the snow to pile up and secure 
+his village from outside attack.
+~
+141337 0 0 0 132136 0 0 0 -500 E
+30 -10 -20 30d5+414 20d4+20
+100 60000
+8 8 1
+BareHandAttack: 12
+Race: 0
+E
+#4705
+Khal'mast ice dragon female~
+Khal'mast, the dragon of the northlands~
+An enormous snow-scaled dragon is here, curled against the screaming winds.
+~
+Khal'mast is known as the Bane of the North.  Her transparent-white
+scales allow her to blend in with the surrounding ice and snow.  Her
+long teeth and whiskers are stained red and yellow with the decay of
+past meals, betraying her nearly perfect snowy camoflauge.
+~
+8611899 0 0 0 1189032 0 0 0 -500 E
+37 -17 -27 37d5+4495 28d4+24
+6500 369000
+8 8 2
+BareHandAttack: 8
+Race: 10
+Noise: You hear a hollow breathing close by.
+E
+#4706
+frost tiger~
+a frost tiger~
+An enormous tiger stands here, licking its jowls.
+~
+This mountain cat boasts great grey stripes over its white coat.  Feline
+fangs protrude slightly from its maw, while its thickly padded feet 
+show the tips of sharp claws.
+~
+393384 0 0 0 787488 0 0 0 -50 E
+16 4 -6 16d5+170 10d4+10
+0 16000
+8 8 2
+BareHandAttack: 4
+Race: 22
+E
+#4707
+antali warrior tribesman~
+an Antali Warrior~
+A well-muscled warrior stands here, pointing his bow at you.
+~
+This warrior is of the Antali tribe, one of the few remaining clans that
+opted to stay in the Valley of the Sulfur Fur and not migrate to the warmer
+climates in lower elevations.  His black mustache and beard seems to join
+neatly with the cut of his fur vest and skins while his elkskin leggings
+fit precisely to the tip of his boots.
+~
+264332 0 0 0 164864 0 0 0 100 E
+15 5 -5 15d5+160 10d4+10
+5 14000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#4708
+snowy marmot~
+a snowy marmot~
+A marmot is here, scavenging exposed grasses from beneath the snow.
+~
+This mountain-dwelling groundhog is the principal source of food and
+fur in these mountains.  At almost a stone in weight, one of these
+rodents can provide enough food for a full day's meals and enough
+fur for a pair of gloves.
+~
+8 0 0 0 1024 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 1
+Race: 22
+E
+#4709
+ice worm~
+an ice worm~
+A gigantic worm plows through the snow here.
+~
+This glacial annelid stands almost eight feet in height and easily three
+times that in length.  A single tooth-rimmed orifice on its front surface
+devours snow and clears a path for the rest of its ringed body.
+~
+172 0 0 0 533512 0 0 0 -500 E
+24 -4 -14 24d5+276 16d4+16
+0 35000
+8 8 0
+BareHandAttack: 4
+Race: 21
+E
+#4710
+a snow leopard~
+a snow leopard~
+A white leopard is here, devouring a marmot.
+~
+This cat stands slightly larger than a typical hunting dog.  Spots of
+grey and black form a marbled pattern over the leopard's white pelt.
+~
+2200 0 0 0 819200 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+0 4500
+8 8 2
+BareHandAttack: 4
+Race: 22
+E
+$

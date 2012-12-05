@@ -1,0 +1,230 @@
+#19700
+rat small~
+the small rat~
+A small rat is here munching on something.
+~
+This small rat is about as disgusting as a rat can get.
+~
+4104 0 0 0 8388608 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+6 6 0
+Race: 15
+E
+#19701
+rat large~
+the large rat~
+A large rat glares at you with its beady little eyes.
+~
+What sewer did this thing crawl up from?
+~
+4136 0 0 0 8388608 0 0 0 -500 E
+5 15 5 5d5+60 2d4+2
+5 900
+6 6 0
+Race: 15
+E
+#19702
+rat huge~
+the huge rat~
+A huge rat lumbers in your direction.
+~
+Good God!  This damn things been on steroids!
+~
+4136 0 0 0 8388608 0 0 0 -600 E
+7 13 3 7d5+80 3d4+3
+10 2500
+8 8 0
+Race: 15
+E
+#19703
+bat small~
+the small bat~
+The small bat squeaks and flitters about.
+~
+How cute, a mouse with wings!
+~
+4104 0 0 0 8814592 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+BareHandAttack: 8
+Race: 15
+E
+#19704
+bat~
+the bat~
+A bat is here trying to tangle itself in your hair.
+~
+How cute, a fox with wings!
+~
+4136 0 0 0 8388608 0 0 0 -500 E
+2 18 8 2d5+30 1d4+1
+5 200
+8 8 0
+BareHandAttack: 4
+Race: 15
+E
+#19705
+bat enormous~
+the enormous bat~
+An enormous bat somehow manages to stay aloft.
+~
+How cute, a hippo with wings!
+~
+4136 0 0 0 8388608 0 0 0 -600 E
+3 17 7 3d5+40 1d4+1
+10 350
+8 8 0
+BareHandAttack: 4
+Race: 15
+E
+#19706
+armor golem~
+an armor golem~
+A full suit of armor stands here, shining as if it were brand new.
+~
+Bonanza time!  This armor looks better than any you have ever seen!
+~
+268394 0 0 0 1024 0 0 0 -1000 E
+13 7 -3 13d5+140 8d4+8
+200 10500
+8 8 0
+Race: 25
+E
+#19707
+chest large~
+the large chest~
+You see a large chest filled to the bursting with gold and jewels.
+~
+Your eyes are bedazzled by the riches displayed here.
+~
+268394 0 0 0 1024 0 0 0 -1000 E
+13 7 -3 13d5+140 8d4+8
+300 10500
+8 8 0
+E
+#19708
+book old~
+the old book~
+On a small pedestal sits an old book with arcane symbols written in gold
+leaf upon the binding.
+~
+The book is quite old, and you wonder what wisdom is contained therein.
+~
+268394 0 0 0 1024 0 0 0 -1000 E
+13 7 -3 13d5+140 8d4+8
+300 10500
+8 8 0
+E
+#19709
+painting portrait~
+the beautiful painting~
+Hanging from the wall is a portrait of a beautiful woman.
+~
+The painting looks familiar, though you can't quite remember who painted it.
+~
+268394 0 0 0 1024 0 0 0 -1000 E
+13 7 -3 13d5+140 8d4+8
+100 10500
+8 8 0
+E
+#19710
+rack sword~
+the sword rack~
+A rack of swords stands against one wall.
+~
+The finest works of destructive technology are so beautiful, you almost
+forget that their main purpose in life is to hack at people and mutilate
+their bodies, possibly even kill them by puncturing vital organs or slicing
+through many layers of flesh and releasing large amounts of blood thereby
+dramatically dropping the blood pressure to the point where all activity ceases.
+~
+268394 0 0 0 1024 0 0 0 -1000 E
+13 7 -3 13d5+140 8d4+8
+100 10500
+8 8 0
+E
+#19711
+red dragon head~
+the dragon's head~
+The head of a deceased red dragon is mounted and displayed here.
+~
+You'd hate to have had to face that thing when it was still connected to the
+rest of its body!
+~
+268394 0 0 0 1024 0 0 0 -1000 E
+13 7 -3 13d5+140 8d4+8
+0 10500
+8 8 0
+E
+#19712
+King Seilon~
+King Seilon~
+Old King Seilon glares at you.  You have invaded his space and trespassed where
+you should not have.  He looks kind of pissed.
+~
+King Seilon is an OLD man, you wonder how he's managed to live this long!  Even
+though he's so old, however, he looks tougher than shoe leather.
+~
+6254 0 0 0 128 0 0 0 400 E
+20 0 -10 20d5+210 13d4+13
+400 25000
+8 8 1
+Race: 0
+E
+#19713
+adventurer warrior~
+an adventurer~
+Another adventurer is here.
+~
+This warrior is also looking for the lost treasures of King Seilon.
+~
+264332 0 0 0 0 0 0 0 400 E
+14 6 -4 14d5+150 9d4+9
+38 12000
+8 8 1
+E
+#19714
+mage~
+an old mage~
+A pasty old mage is here looking very hungry.
+~
+It appears that this poor old man has been trapped down here for a LONG time.
+He has probably survived so long by eating rats!
+~
+262284 0 0 0 1032 0 0 0 -500 E
+14 6 -4 14d5+150 9d4+9
+13 12000
+8 8 1
+E
+#19715
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+43018 0 0 0 1032 0 0 0 -300 E
+17 3 -7 17d5+180 11d4+11
+0 18000
+8 8 0
+Race: 9
+E
+#19716
+undead chamberlain~
+the undead chamberlain~
+A corpse dressed in chamberlain's garb is rotting away here.
+~
+Once King Seilon's most trusted advisor, the chamberlain was kept animated even
+after death by some very strong magic indeed!
+~
+2184 0 0 0 1032 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+100 25000
+8 8 0
+Race: 9
+E
+$

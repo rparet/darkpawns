@@ -1,0 +1,21 @@
+#!/usr/local/bin/perl -i.bak
+#usage:  wldfilt #.wld
+$D = 0;
+
+while (<>) {
+    chop;
+    if (/^\#\d+\s*/) {
+        $D = 1
+    }
+
+    if (/^(\d+) (\w+) (\d+)\s*/) {
+        if ($D == 1) {
+            print $1, " ", $2, " 0 0 0 ", $3, "\n";
+            $D = 0;
+        } else {
+            print "$_\n";
+        }
+    } else {
+        print "$_\n";
+    }
+}

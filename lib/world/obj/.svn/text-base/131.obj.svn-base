@@ -1,0 +1,129 @@
+#13100
+slice cheese~
+a slice of cheese~
+A small slice of a dairy product lies here.~
+~
+19 65548 0 0 0 1 0 0 0
+10 0 0 0
+2 0 100.00
+#13101
+cheese dip bowl~
+a bowl of cheese dip~
+A bowl of orange ooze is here, it's contents splattered on the floor.~
+~
+10 0 0 0 0 1 0 0 0
+25 36 3 1
+2 1000 80.00
+#13102
+tyrannical armor~
+the tyrannical armor~
+A fierce plate of armor lies here, imposing fear on everyone around it.~
+~
+3 23105 0 0 0 9 0 0 0
+30 10 10 25
+20 3000 1.00
+A
+17 -10
+A
+19 -2
+A
+18 -2
+#13103
+potion plaid~
+a plaid potion~
+A multicolored potion lies here, doing whatever potions do.~
+~
+10 0 0 0 0 1 0 0 0
+20 52 4 0
+2 1000 15.00
+#13104
+vial orange potion~
+an orange vial~
+A bottle of orange fluid is here, pouring onto the ground.~
+~
+10 0 0 0 0 1 0 0 0
+15 39 3 1
+2 1000 100.00
+#13105
+potion brown~
+a brown potion~
+A very appetizing looking potion is on the ground here.~
+~
+10 0 0 0 0 1 0 0 0
+10 12 12 0
+3 1000 100.00
+#13106
+vial potion blue~
+a large blue vial~
+An enormous bottle is here, full of a strange blue fluid.~
+~
+10 0 0 0 0 1 0 0 0
+20 53 51 0
+5 1000 100.00
+#13107
+scroll harmful harm~
+a harmful scroll~
+A dangerous looking piece of paper lies here, waiting to do some damage.~
+~
+2 0 0 0 0 1 0 0 0
+20 27 2 0
+3 2000 100.00
+#13108
+staff serpent serpents~
+a staff of serpents~
+A large, snakelike staff is here, slithering around.~
+~
+4 0 0 0 0 1 0 0 0
+15 7 7 2
+10 4000 100.00
+#13109
+wand wonder~
+a wand of wonder~
+A mysterious wand lies here.~
+~
+3 1 0 0 0 1 0 0 0
+6 6 6 6
+5 2666 100.00
+#13110
+dark key~
+the Dark Key~
+The Dark Key lies here, fading to black.~
+~
+18 0 0 0 0 5 0 0 0
+0 0 0 0
+5 0 100.00
+#13111
+gold watch~
+a gold watch~
+A gold watch is on the ground here, begging to be stolen.~
+~
+9 576 0 0 0 4097 0 0 0
+2 0 0 0
+2 1000 90.00
+A
+17 -5
+A
+4 2
+#13198
+phondew cheese paper~
+Phondew's CheesePaper~
+A piece of orange parchment lies here.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 100.00
+#13199
+phondew pen destruction~
+Phondew's Pen of Destruction~
+An almighty writing object lies here.~
+~
+21 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 100.00
+A
+19 100
+A
+18 100
+A
+1 20
+$~

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1424"
+   name=""
+   committed-date="2008-04-27T00:02:44.409164Z"
+   url="file:///var/svn/trunk/2.2/lib/scripts/room/archive"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1424"
+   name="wight_entrance.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="fe4faf0084a2f6dd655783655994d420"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="portal.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="79c7bfa3428f692fbffaee9847a38a9f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="load_recall.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="b6be16514bc50f24140df6dbcae0590f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="tattoo_rune.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="a03c3a85441b69cdae293cb109cd63e1"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="loseitems.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="cf8829046b5c9f9f6110ddcf6fa6c762"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="citadel.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="52827b6f7ef64876f3802256c71ebe1c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="jail_noexit.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="08b1339b082c9a585581837b985be2ce"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="falldown.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="501bec0aa7a0cf6893675aed7af24f90"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="darts.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="a6f8b69baab98396012775a622cbab49"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="keep_conversation.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="98137c114458aba7a9be582faf943050"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="zigg_portal.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="79c7bfa3428f692fbffaee9847a38a9f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="alltalismans.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="8f7613e5ba2911c692ea81588abc18a4"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="temple_music.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="d0b0130ed6e1106ecf4f48954d6d3951"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="falldeck1.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="13f2103f042d74f19419b421664c64ae"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="falldeck2.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="282ab51a62bc0010105ff1a0795f961d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="mastiff.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="62a3b510037eac4f9c26619f9576a5d5"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="cylinders.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="5c98a6e0ccc1f1e1b63e586d5c0f33dc"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="elemental_room.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="97d148ab56d036161a87fd1537297815"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="zigg_recess.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="fd72ceb96fc133c1c897f971419637da"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="keep_portal.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="cefb245c0b50c724148c619bb8286efc"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="platforms.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="5714f3fd371cf00367b1677ce09c1725"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="master_column.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="a6d51a4d04df99c10005e3789f5f5dce"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="bank.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="ba5c50e700687799ed3e61beca2efb9c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="moonsun_forge.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="f150a015e41337ed378bba3521e32eda"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="inn_music.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="69678cf2a1d7d54f07d9310d28a53c8f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="francesca.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="fc3225e527bb7d4fa0e2685d382b1844"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="zigg_warning.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="4b497c735e415ead1250d27b4a8527df"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="fly_exit_up.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="64adb456a57ec061bef0441fccf4986d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="zigg_dt.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="5bcf5c731854649103430fb06167c098"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="sacrifice.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="14cee3a9d8ae32795df4bb0e6c5d6484"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="start_room.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="c89ec893e3013ffdb2e364fd28213bdf"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="msp_off.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="be7fb486c85d23c3c77f56c201f3b78d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="falycion_trap.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="7c6af1dae5c4c98f2578fc0f0cdfef38"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="galeru_dead.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="855cbb7952eb2b5112703038fdfe6e3c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="jail_noentry.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="264633bbabfc238d3514041a3263dccc"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1424"
+   name="thrall_key.lua"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-27T00:02:44.409164Z"
+   checksum="bd5e40f3b6fe468a17cae8466fe88794"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+</wc-entries>

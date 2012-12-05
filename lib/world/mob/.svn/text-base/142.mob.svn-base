@@ -1,0 +1,384 @@
+#14200
+superblah~
+Nimos~
+Nimos stands here, drilling into Lady Amber.
+~
+What are you? Some typa prevert?
+~
+524330 0 0 0 128 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+0 270000
+8 8 1
+Race: 0
+E
+#14201
+zephyr~
+Zephyr~
+Zephyr is standing here, with flowers blooming at his bare feet.
+~
+Dressed in ragged brown robes, with his thin limbs poking out from the sleeves,
+this man seems a very humorous sight. But as he looks at you, you seem to peer
+into his soul and see a very strong man, who has lived throughout a long and
+hard life without many friends. His eyes glimmer with a vast intelligence as he
+watches you.
+~
+288780 0 0 0 263264 0 0 0 1000 E
+23 -3 -13 23d5+253 15d4+15
+0 32500
+8 8 1
+Race: 0
+E
+#14202
+bhang~
+Bhang~
+Amidst all the ambient green smoke that permeates this place, Bhang stands before you.
+~
+This short, stocky man radiates a distinct aura of power. His face is etched
+with lines and scars mark a lot of his skin that is not under his clothing. When
+he notices you looking at him, he gives you a wink, smiles, and gets ready to
+fight.
+~
+346153 0 0 0 401496 0 0 0 1000 E
+26 -6 -16 26d5+322 17d4+17
+0 40000
+8 8 1
+Race: 2
+E
+#14203
+skarash~
+Skarash~
+Skarash is standing here, looking intimidating.
+~
+He is an ogre, and a large one with that, although he seems all muscle, you get
+the feeling that he has a very cunning mind. All his clothing is black or red,
+maybe he's part of some clan?
+~
+808984 0 0 0 163944 0 0 0 900 E
+26 -6 -16 26d5+322 17d4+17
+0 40000
+8 8 1
+Race: 20
+E
+#14204
+darklord~
+Darklord~
+Darklord is standing here, off adventuring in his own imagination.
+~
+A tall and powerfully built man, Darklord looks like he's fought many battles,
+his tunic is hanging open and you see a massive palm-print imbedded into his
+chest. When he sees you watching him, he snaps out of his daydream and begins
+walking towards you.
+~
+391352 0 0 0 394312 0 0 0 500 E
+22 -2 -12 22d5+230 14d4+14
+0 30000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#14205
+infidel~
+Infidel~
+Infidel is standing here, his hand reaching for his weapon.
+~
+Supposedly the most powerful swordsman ever, this man has led a hard life, his
+true love being killed by a vengeful assassin. He's tall and has a distinct air
+of speed about him.
+~
+870408 0 0 0 164936 0 0 0 700 E
+26 -6 -16 26d5+322 17d4+17
+0 40000
+8 8 1
+Race: 0
+E
+#14206
+saint~
+Saint~
+Saint is standing here, looking around in awe.
+~
+He looks lost and somehow...new. You sense he is a student of the priestly arts
+but you do not know whom he worships. When he notices you and your weapon, his
+eyes grow large in fear.
+~
+280841 0 0 0 164936 0 0 0 1000 E
+21 -1 -11 21d5+220 14d4+14
+0 27500
+8 8 1
+Race: 0
+E
+#14207
+nonesuch~
+Nonesuch~
+Nonesuch is here, being a waste.
+~
+This is the first half-orc you've ever seen, and it's not a pretty sight, he
+isn't as fearsome-looking as an orc, he looks more pathetic than powerful.
+~
+809096 0 0 0 165064 0 0 0 1000 E
+23 -3 -13 23d5+253 15d4+15
+0 32500
+8 8 1
+Race: 27
+E
+#14208
+caramon~
+Caramon~
+Caramon the barbarian is standing here, trying to look cool.
+~
+He is your average barbarian, strong, sturdy, and dumb as a post.
+~
+313384 0 0 0 164936 0 0 0 900 E
+23 -3 -13 23d5+253 15d4+15
+0 32500
+8 8 1
+Race: 0
+E
+#14209
+eyspethar~
+Eyspethar~
+Eyspethar stands here, trying to think of a confusing idea.
+~
+He isn't like most ogres you've seen, he has tusks that grow from the bottom of
+his mouth up, making it look like his jawbone is upside down. Although he's an
+ogre, he seems to be a very learned one, and is dressed in fancy-looking
+clothes.
+~
+346152 0 0 0 164872 0 0 0 800 E
+24 -4 -14 24d5+276 16d4+16
+0 35000
+8 8 1
+Race: 20
+E
+#14210
+tefnut~
+Tefnut~
+Tefnut is here, being a total bitch.
+~
+Although you can tell she used to be pretty, now she is barely even homely and
+she makes her money selling herself. She was once the great MaYuan's concubine
+but, as all things do, she got old and stopped trying to keep herself looking
+good. Once that happened, MaYuan quickly discarded her like a used tissue.
+~
+284712 0 0 0 132168 0 0 0 -350 E
+22 -2 -12 22d5+230 14d4+14
+0 30000
+8 8 2
+Race: 0
+E
+#14211
+mayuan~
+MaYuan~
+MaYuan, the Eater of Gods, stands here.
+~
+This ogre is definitely not just a simple warrior, you can tell by the catlike
+way he moves and the faint glimmer of cunning intelligence behind his eyes.
+~
+317480 0 0 0 165064 0 0 0 1000 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 1
+Race: 20
+E
+#14212
+dozois~
+Dozois~
+Dozois the swordsman is standing here.
+~
+Dozois is a great swordsman, bested in battle by only Infidel. He is tall and
+thin and moves with the grace of a jungle cat, his muscles rippling underneath
+his clothes as he walks towards you.
+~
+317480 0 0 0 132168 0 0 0 600 E
+23 -3 -13 23d5+253 15d4+15
+0 32500
+8 8 1
+Race: 0
+E
+#14213
+hardcase limp case~
+Hardcase~
+Hardcase limps around in circles here.
+~
+The legends say he was once the most powerful mortal in the world, but he got
+old, real old, and now can't fight his way out of a paper bag with a chainsaw.
+~
+284712 0 0 0 427080 0 0 0 200 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#14214
+shrike~
+Shrike~
+Shrike is standing here, trying to act cool.
+~
+A powerful swordsman, though not as powerful as Infidel or Dozois, he fights
+like a bat out of hell. His clothes are all either gold or blue, perhaps this
+means something? Nope.
+~
+284712 0 0 0 132168 0 0 0 300 E
+24 -4 -14 24d5+276 16d4+16
+0 35000
+8 8 1
+Race: 0
+E
+#14215
+tavon~
+Tavon~
+Tavon begins walking towards you.
+~
+Although he is normally nice and sincere, this monk can be worse than Zephyr
+when he doesn't like you.
+~
+325672 0 0 0 394440 0 0 0 400 E
+23 -3 -13 23d5+253 15d4+15
+0 32500
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#14216
+grunt runt~
+Grunt~
+Grunt is standing here, spouting out nonsense.
+~
+He's as strong as a rock, and about as smart as one.
+~
+284840 0 0 0 1096 0 0 0 100 E
+23 -3 -13 23d5+253 15d4+15
+0 32500
+8 8 1
+Race: 20
+E
+#14217
+Morathi~
+Morathi~
+Morathi is here, dressed as a woman.
+~
+This seems to be a weird sort of warrior, a man dressed in womans clothing, he's
+not doing a very good job of it, either, maybe losing the facial hair would
+help.
+~
+284840 0 0 0 132168 0 0 0 100 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 1
+Race: 0
+E
+#14218
+slay~
+Slay~
+Slay is here, trying to get your attention.
+~
+He looks like a complete idiot, though from what you can tell he's supposed to
+be a warrior of some sort. Wearing all sorts of different clothing, he makes a
+funny sight.
+~
+284840 0 0 0 132168 0 0 0 100 E
+21 -1 -11 21d5+220 14d4+14
+0 27500
+8 8 1
+Race: 20
+E
+#14219
+thor~
+Thor~
+Thor is here, trying to get revenge on you.
+~
+A tall, mystical-looking elf, wearing thick, light robes. He looks at you and
+his eyes flash with anger, and he begins to chant an incantation.
+~
+284713 0 0 0 1098 0 0 0 100 E
+21 -1 -11 21d5+220 14d4+14
+0 27500
+8 8 1
+Race: 1
+E
+#14220
+chalkara~
+Chalkara~
+Chalkara is here, her raven-colored hair barely covering naked breasts.
+~
+A powerful maiden as a mortal; she now walks the heavens with the gifts of
+immortality, luring men to their deaths with her lustful ways.
+~
+284713 0 0 0 1096 0 0 0 -100 E
+25 -5 -15 25d5+299 16d4+16
+20 37500
+8 8 2
+Race: 19
+E
+#14221
+xavier~
+Xavier~
+Xavier is here, whining about something someone did to him.
+~
+Although he is a powerful mage, he seems to actually be stupid...strange...
+~
+284841 0 0 0 1096 0 0 0 20 E
+20 0 -10 20d5+210 13d4+13
+0 25000
+8 8 1
+Race: 0
+E
+#14222
+silk~
+Silk~
+Silk is here, trying to get other people in trouble.
+~
+He is real short, only a bit taller than a dwarf, but has the features of a
+human, an ugly human, but a human nonetheless.
+~
+284712 0 0 0 1213504 0 0 0 100 E
+23 -3 -13 23d5+253 15d4+15
+0 32500
+8 8 1
+Race: 0
+E
+#14223
+rogue~
+Rogue~
+Rogue is here, skulking around like a thief.
+~
+Rogue is your average thief, just a little bit more powerful. He's normally kind
+to fellow humans, but sometimes he'll go schitzo and when that happens, you'd
+better watch out.
+~
+284712 0 0 0 394312 0 0 0 500 E
+23 -3 -13 23d5+253 15d4+15
+0 32500
+8 8 0
+Race: 0
+E
+#14224
+tranquility~
+Tranquility~
+Tranquility is here, being a PAW.
+~
+The only reason this man is alive is because he somehow found out the god's
+weaknesses and exploited them everytime something bad happened to him. He
+is a short and ugly man, with thin, spindly limbs and a pale complexion.
+~
+292904 0 0 0 394304 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 1
+Race: 0
+E
+#14225
+ozymandias oz~
+Ozymandias~
+Ozymandias stands here, thinking he's wizinvis.
+~
+He's almost trasparent, currently in the form of an old man wearing some
+gnomish spectacles.
+~
+1366025 0 0 0 787466 0 0 0 1 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 1
+Race: 19
+E
+$

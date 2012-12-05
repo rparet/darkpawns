@@ -1,0 +1,1944 @@
+#8000
+Directory of Kir Drax'in~
+This room is for people with greater standing than mere mortals.  
+~
+80 0 1
+S
+#8001
+Northern Wall Road~
+You are standing in the far northwestern corner of Kir Drax'in. A road that 
+runs along the wall leads off to the east and south. Southeast of here, you 
+can see the grey stone walls of what can only be the city arena.
+~
+80 0 1
+D1
+~
+~
+0 -1 8002
+D2
+~
+~
+0 0 8080
+S
+#8002
+Northern Wall Road~
+You are at the northern part of the wall that surrounds the city. To the south
+lies the massive spire-topped temple, and to the east and west the wall bends
+southward. The rough chiseled stone of the wall rises high above you, but to
+the east you can see a few treetops above the bits of glass and pottery inset
+into the wall's top surface.
+~
+80 0 1
+D1
+~
+~
+0 -1 8003
+D3
+~
+~
+0 -1 8001
+S
+#8003
+Northern Wall Road~
+The stone wall to your north and east is barely off of the crude cobblestone
+road on which you stand. To the southwest rises the back wall of the temple,
+and to the west you can see this road turn southward where it meets the city
+rampart.
+~
+80 0 1
+D2
+~
+~
+0 -1 8009
+D3
+~
+~
+0 -1 8002
+S
+#8004
+At the Temple Altar~
+You stand before the temple altar. Carved from a solid block of black marble,
+it is an exquisite example of dwarven craftsmanship. Black pillars of the same
+marble hold up the ceiling of this open-aired pavilion, and to the south a
+narrow aisle runs its way between hard oaken pews. Below you, you can see the
+entrance to the Kir Drax'in Training Center.      
+~
+80 491540 1
+D2
+You see the main part of the open-air temple.
+~
+~
+0 -1 8008
+D5
+~
+~
+0 0 8531
+S
+#8005
+Western Wall Road~
+You are standing on a broad road running along the western wall of Kir Drax'in.
+East of you, you can see a large stadium that houses the gladiator fights and
+occasional travelling shows. Just south of here, a road leads off east of Wall 
+Road.
+~
+80 0 1
+D0
+~
+~
+0 0 8006
+D2
+~
+~
+0 -1 8016
+S
+#8006
+Western Wall Road~
+The enormous stone blocks of a gigantic stadium towers over you to the east. To
+the north and south you can follow the road along the wall.
+~
+80 0 1
+D0
+~
+~
+0 0 8007
+D2
+~
+~
+0 0 8005
+S
+#8007
+Western Wall Road~
+The long Western Wall Road continues here, bordered between the tall city 
+ramparts to your immediate west and the stone walls of the stadium to the east.
+A little ways to the south you can see the flurry of movement caused by the
+crowd at teh city gates.
+~
+80 0 1
+D0
+~
+~
+0 -1 8080
+D2
+~
+~
+0 0 8006
+S
+#8008
+Temple of the Unholy~
+   Armed guards force the town's citizens into this large open pavillion once
+a week for worship, but now it is quiet except for some battered adventurers
+and their healers. To the south lies the city's main street, and sounds of the
+crowds there float into this quiet place.
+~
+80 491548 1
+D0
+Temple Altar
+~
+~
+0 -1 8004
+D1
+~
+~
+0 0 8105
+D2
+~
+~
+0 -1 8021
+D3
+~
+~
+0 0 8101
+S
+#8009
+City Wall Road~
+The street curves eastward north of here, where it runs into the northern wall.
+~
+80 0 1
+D0
+~
+~
+0 -1 8003
+D1
+~
+~
+0 -1 8010
+S
+#8010
+Northern City Wall Road~
+You are standing on the road that extends along the northern wall of the city.
+~
+80 0 1
+D1
+~
+~
+0 -1 8011
+D3
+~
+~
+0 -1 8009
+S
+#8011
+City Wall Road~
+The street runs south and east here, bordered to the north and east by the
+mortar walls that keep the beasts of the forest out of Kir Drax'in.
+~
+80 0 1
+D2
+~
+~
+0 -1 8026
+D3
+~
+~
+0 -1 8010
+S
+#8012
+Mage Mastery Room~
+This room is filled with potions and scrolls, most of which are still beyond
+your knowledge, but you have the feeling you can learn much from this place. A
+dark tunnel leads downward, seeming to call to you with adventure.    
+~
+80 32768 0
+D2
+Entrance to Mage Guild
+~
+~
+0 -1 8014
+D5
+~
+~
+0 0 8539
+S
+#8013
+Warrior Practice Room~
+Littered with borken bits of swords and armor, this practice room makes you
+feel right at home. A dark tunnel leads down into the earth here, seeming to
+beckon to you with promise of adventure.         
+~
+80 32768 0
+D2
+Entrance to Warrior Guild
+~
+~
+0 -1 8015
+D5
+~
+~
+0 0 8539
+S
+#8014
+Entrance to Mage Guild~
+This is the entrance to a very magical and playful place.  Wizards from all 
+around the land come here to keep up with their skills.
+~
+80 32768 0
+D0
+The Mage Master's Room
+~
+~
+0 -1 8012
+D3
+~
+~
+0 0 8107
+S
+#8015
+Entrance to Warrior Guild~
+This room has very scarce decorations.  It seems that every time they put 
+something nice up, it gets stolen, so they stopped trying after a bit.  To the 
+north is the studio chamber of the Master of the Warrior Art.
+~
+80 32768 0
+D0
+Warrior Studio Study
+~
+~
+0 -1 8013
+D3
+~
+~
+0 0 8104
+S
+#8016
+Western Wall Road~
+You are standing on a wide clear road that runs the length of the western
+wall of Kir Drax'in. Temple Street starts to your east.
+~
+80 0 1
+D0
+~
+~
+0 -1 8005
+D1
+~
+~
+0 0 8070
+D2
+~
+~
+0 -1 8029
+S
+#8017
+Guild Construction Zone~
+This room is being built for a new guild soon to come into existance. There 
+isn't much to do around here but look at cut stone and play with mortar.
+~
+80 4 0
+D1
+~
+~
+0 -1 8018
+S
+#8018
+Guild Construction Zone~
+This room is being built for a new guild soon to come into existance. There 
+isn't much to do around here but look at cut stone and play with mortar.
+~
+80 4 0
+D1
+Western Tower Central Room
+~
+~
+0 -1 8019
+D3
+~
+~
+0 -1 8017
+S
+#8019
+Western Tower Central Room~
+This is a magical area,  Obviously the product of the chanting that you are 
+hearing from both the north and the south.  To the north lies the Mage Guild, 
+and to the south lies the Cleric Guild.
+~
+80 0 0
+D0
+Entrance to Mage Guild
+~
+~
+0 -1 8014
+D2
+Entrance to Cleric Guild
+~
+~
+0 -1 8027
+D3
+Guild Construction Zone
+~
+~
+0 -1 8018
+D5
+Entrance to Western Tower
+~
+~
+0 -1 8020
+S
+#8020
+Western Guild Tower~
+You are standing on the first floor of an amazing tower of knowledge.  Inside
+you will be guided in the skills of your chosen profession.
+~
+80 4 0
+D1
+Guild Square
+~
+~
+0 -1 8021
+D4
+Western Center Room
+~
+~
+0 -1 8019
+S
+#8021
+Temple Square~
+This large square marks the intersections of the Avenue of the Gods which heads
+off to the east and west, and Main Street which goes to the south. North of here
+lies the Temple of the Unholy atop wide marble steps. The entrance to the temple
+is surrounded by massive columns of marble with ornate carvings. The sounds of
+the city bring noise from all directions.
+~
+80 32768 1
+D0
+The Temple
+~
+~
+0 -1 8008
+D1
+~
+~
+0 0 8075
+D2
+Central Square
+~
+~
+0 -1 8031
+D3
+~
+~
+0 0 8074
+S
+#8022
+Entrance to Eastern Tower~
+You are standing on the first floor of an amazing tower of knowledge.  Inside
+you will be guided in the skills of your chosen profession.
+~
+80 4 0
+D3
+Guild Square
+~
+~
+0 -1 8021
+D4
+Eastern Center Guild Room
+~
+~
+0 -1 8023
+S
+#8023
+Eastern Tower Guild Room~
+You are standing in the lobby area for the warrior and thief guilds.  Members 
+of each class stand around eyeing each other nervously.  The warrior guild 
+lies to the north, and the thief guild lies to the south.
+~
+80 0 0
+D0
+Entrance to Warrior Guild
+~
+~
+0 -1 8015
+D1
+~
+~
+0 -1 8024
+D2
+Entrance to Thief Guild
+~
+~
+0 -1 8028
+D5
+Entrance to Eastern tower
+~
+~
+0 -1 8022
+S
+#8024
+Guildroom Construction Zone~
+This room is being built for a new guild soon to come into existance. There 
+isn't much to do around here but look at cut stone and play with mortar.
+~
+80 4 0
+D1
+~
+~
+0 -1 8025
+D3
+~
+~
+0 -1 8023
+S
+#8025
+Guildroom Under Construction~
+This room is being built for a new guild soon to come into existance. There 
+isn't much to do around here but look at cut stone and play with mortar.
+~
+80 4 0
+D3
+~
+~
+0 -1 8024
+S
+#8026
+Eastern wall of Kir Drax'in~
+You are standing on the road that runs along the eastern wall of Kir Drax'in.
+To the south you hear the crowd being harassed by the gateguards.
+~
+80 0 0
+D0
+~
+~
+0 -1 8011
+D2
+~
+~
+0 -1 8033
+S
+#8027
+Entrance to Cleric Guild~
+This is a very holy place.  Away from the temple the clerics' powers are 
+slightly less, but you get the feeling that these sacred avatars could hold 
+their own in a fight.
+~
+80 32768 0
+D0
+~
+~
+0 0 8075
+D2
+Cleric Mastery Room
+~
+~
+0 -1 8030
+S
+#8028
+Entrance to Thieves' Guild~
+This area is covered with lavish goods (all securely bolted down of course).  
+Most of them you do not believe that the masters of this area could have 
+possibly afforded.  There seems to be some writing on the back of a lamp in 
+this room.
+~
+80 32768 0
+D0
+~
+~
+0 0 8032
+D1
+~
+~
+0 0 8114
+D2
+~
+~
+0 0 8061
+E
+lamp~
+Property of WARRIOR GUILD.
+~
+S
+#8029
+Western Wall Road~
+You are standing on the road that runs the length of the western wall of
+Kir Drax'in. Looking to the north and south, you can see roads heading away 
+from Wall Road to the east. Also, you can see the western gates of Kir Drax'in 
+just south of here.
+~
+80 0 1
+D0
+~
+~
+0 -1 8016
+D2
+~
+~
+0 -1 8040
+S
+#8030
+Holy room of Clerics~
+The room shines with an inner light!  You have never seen anything like it 
+before in your life.  The thought of violence in such a holy place is 
+unthinkable, but a dark tunnel leading downward seems to call to you with
+promises of adventure.
+~
+80 294928 0
+D0
+Entrance to Cleric Guild
+~
+~
+0 -1 8027
+D5
+~
+~
+0 0 8539
+S
+#8031
+Main Street~
+You stand on a street running from the Temple of the Unholy to the north to
+the city gates of Kir Drax'in far to the south. East of here is the entrance 
+to an inn. North of here, you can see Temple Square, and to the south, Market 
+Square.  A newly renovated jeweler's shop lies to the west.
+~
+80 32768 1
+D0
+Guild Square
+~
+~
+0 -1 8021
+D1
+~
+~
+0 0 8068
+D2
+Market Square
+~
+~
+0 -1 8046
+D3
+~
+~
+0 0 8113
+S
+#8032
+Thief Practice Area~
+This room is filled with items that you may find quite humorous, but that 
+thieves turn into useful tools and weapons.  Bits and pieces of wire and 
+twisted metal lay strewn about, and you wonder at their purpose. To the north
+a dark tunnel leads deep into the earth... The underground -- home of the
+thief who wishes to remain unseen. It seems to call to you with a sense of
+adventure.
+~
+80 32768 0
+D0
+~
+~
+0 0 8539
+D2
+~
+~
+0 0 8028
+S
+#8033
+Eastern wall of Kir Drax'in~
+To the south opens the eastern gates of the city. People mill about, running
+errands and picking pockets, all wary of the city guards.
+~
+80 0 1
+D0
+~
+~
+0 -1 8026
+D2
+~
+~
+0 -1 8051
+S
+#8034
+The Apothecary's Shop~
+Bottles of all shapes and colors adorn this shop. The stench coming from a 
+rack of corked vials near the door makes you nauseaus, and you hurry about 
+your business. There's a large SIGN on the wall.
+~
+80 32792 0
+D1
+~
+~
+0 0 8107
+E
+sign~
+You can BUY, SELL, VALUE or LIST here.
+~
+S
+#8035
+Lawana's Mystical Devices~
+Scrolls and various other magical items are lying on the counter here.  You 
+wonder why the shopkeeper is not afraid that you will steal these valuable 
+items, but then thinking about all of the wizards you have seen in the past, 
+you come to a quick decision not to touch anything.
+There's a large SIGN on the wall.
+~
+80 32792 0
+D3
+~
+~
+0 0 8106
+E
+sign~
+You can BUY, SELL, VALUE or LIST here.
+~
+S
+#8036
+Bakery~
+You think that something terribly wrong must have gone on here.  There is 
+flour EVERYWHERE! A large sign on the wall catches your eye.
+~
+80 32768 0
+D2
+~
+~
+0 -1 8047
+E
+sign~
+You can BUY, SELL, LIST, or VALUE items here.
+~
+S
+#8037
+Jack's Armor Shop~
+Various pieces of broken and new equipment sit all around this room.  Some of 
+it looks pretty interesting, and some of it looks pretty trashed.  You wonder 
+which you will get swindled into buying. A large sign on the wall catches your 
+attention.
+~
+80 32768 0
+D2
+~
+~
+0 -1 8043
+E
+sign~
+You can BUY, SELL, LIST, or VALUE items here.
+~
+S
+#8038
+Bronzeworks~
+Items made of bronze are strewn all across the room.  You may just want to buy 
+a few items; though the bronze armor is generally more expensive, the 
+bronzeworker has molded the hard metal into decent protection. A large sign on 
+the wall catches your attention.
+~
+80 32768 0
+D2
+~
+~
+0 -1 8048
+E
+sign~
+You can BUY, SELL, LIST, or VALUE items here.
+~
+S
+#8039
+Leon's Leathers~
+Leather armor in various states of assembly is here.  Most of it looks to be 
+superb armor that allows freedom of movement. A large sign on the wall catches 
+your attention.
+~
+80 32768 0
+D2
+~
+~
+0 -1 8049
+E
+sign~
+You can BUY, SELL, LIST, or VALUE items here.
+~
+S
+#8040
+City Gate~
+  You are standing at the western gate of the wall surrounding the city of
+Kir Drax'in. To the east you can enter the main "drag" of Kir Drax'in, Market 
+Street. To the south the wall follows the road.
+~
+80 32768 1
+D1
+~
+~
+0 -1 8041
+D2
+~
+~
+0 -1 8057
+D3
+~
+gate~
+1 8010 8087
+S
+#8041
+Western Market Street~
+You are on western Market Street.
+~
+80 32768 1
+D1
+~
+~
+0 -1 8042
+D3
+~
+~
+0 -1 8040
+S
+#8042
+Western Market Street~
+You are on the western part of Market Street. To the south, you see a BBQ
+restaurant.
+~
+80 32768 1
+D1
+Western Market Street
+~
+~
+0 -1 8043
+D2
+~
+~
+0 0 8089
+D3
+Western Market Street
+~
+~
+0 -1 8041
+S
+#8043
+Western Market Street~
+You are on the western part of Kir Drax'in's Market Street. To the north, you 
+see Jack's Armor Shop. To the south, you see a tattoo parlor.
+~
+80 32768 1
+D0
+~
+~
+0 0 8037
+D1
+~
+~
+0 -1 8044
+D2
+~
+~
+0 -1 8052
+D3
+~
+~
+0 -1 8042
+S
+#8044
+Western Market Street~
+You are on the western part of Kir Drax'in's Market Street.
+~
+80 32768 0
+D1
+~
+~
+0 -1 8045
+D3
+~
+~
+0 -1 8043
+S
+#8045
+Western Market Street~
+Just west of Market Square, you are surrounded by shops and restaurants. South 
+of here is a general store, and to the north stands a well-fortified shop
+housing the jewelry merchant.
+~
+80 32768 1
+D0
+~
+~
+0 0 8113
+D1
+~
+~
+0 -1 8046
+D2
+~
+~
+0 -1 8054
+D3
+~
+~
+0 -1 8044
+S
+#8046
+Market Square~
+This busy square lies in the heart of the city.  Travellers come from miles 
+around to drink from the magical fountain here and explore the splendors of 
+the surrounding streets.
+~
+80 32768 1
+D0
+Northern Central Square
+~
+~
+0 -1 8031
+D1
+Eastern Market Street
+~
+~
+0 -1 8047
+D2
+Southern Central Square
+~
+~
+0 -1 8059
+D3
+Western Market Street
+~
+~
+0 -1 8045
+S
+#8047
+Eastern Market Street~
+This is the wide eastern Market Street of Kir Drax'in. To the north, you see a
+small bakery. To the south there is a weapon's shop, and further east lie a
+vast array of vendors and booths.
+~
+80 32768 1
+D0
+~
+~
+0 -1 8036
+D1
+~
+~
+0 -1 8048
+D2
+~
+~
+0 -1 8055
+D3
+~
+~
+0 -1 8046
+S
+#8048
+Eastern Market Street~
+This road has two branches from it. To the north is a shop that looks much 
+better maintained than the main armory.  A sign says "Bronzeworks" on the 
+outside of the building. To the south is Thunderdome.
+~
+80 32768 1
+D0
+~
+~
+0 -1 8038
+D1
+~
+~
+0 -1 8049
+D2
+Thunderdome
+~
+~
+0 -1 10001
+D3
+~
+~
+0 -1 8047
+S
+#8049
+Eastern Market Street~
+To the north lies a busy shop packed with bolts of leather and raw hides of 
+various animals. To the south, an elegant shop with magic-runed columns houses
+the identifier. The street continues on in both directions.
+~
+80 32768 1
+D0
+~
+~
+0 -1 8039
+D1
+~
+~
+0 -1 8050
+D2
+~
+~
+0 0 8116
+D3
+~
+~
+0 -1 8048
+S
+#8050
+Eastern Market Street~
+The front glass of the building to the south shows several guards that look 
+mean enough to take on the the best of armed warriors with their bare fists. 
+An incredible amount of stone makes up the walls of the building that the sign
+designates "First Bank of Kir Drax'in".
+~
+80 32768 1
+D1
+~
+~
+0 -1 8084
+D2
+~
+~
+0 -1 8056
+D3
+~
+~
+0 -1 8049
+S
+#8051
+City Gate~
+You are standing at the eastern gate of the wall surrounding the great city of 
+Kir Drax'in.  There are exits to the north and south that will bring you 
+further along the wall.  There is also an exit west to get onto the main 
+"drag" of Kir Drax'in, Market Street.
+~
+80 32768 1
+D1
+~
+~
+0 0 8088
+D2
+~
+~
+0 -1 8058
+D3
+~
+~
+0 -1 8084
+S
+#8052
+Berzerker's Tattoos~
+This room is very messy, with hundreds of small pictures covering the walls and
+dried blood-spots all over the ground. A evil-looking chair sits in the
+middle of the room, giving the room a strange malevolent look to it. A small
+tray next to the chair has all sorts of sharp tools on it.
+~
+80 32776 0
+D0
+~
+~
+0 -1 8043
+E
+tray tools~
+Oddity enough, the tools seem to be in fine condition.
+~
+E
+picture pictures~
+Nevyn in your life have you seen such detailed tattoos.
+~
+S
+#8053
+A Makeshift Shop~
+  Some travelling clerics have set up shop here, donating accumulated items to 
+the needy of Kir Drax'in.  The general consensus around town is that this is 
+the only good thing that the church has brought to the city in it's new reign.
+~
+80 32796 0
+D0
+~
+~
+0 -1 8074
+S
+#8054
+The General Store~
+From what is on the shelves, it seems that this place is well picked over. 
+Adventurers from all over the realm mill about, fighting over the few meager
+supplies left.
+~
+80 32776 0
+D0
+~
+~
+0 -1 8045
+S
+#8055
+Darek's Happy House of Cutlery~
+Swords, Swords, SWORDS!  There are so many weapons in this shop that you 
+wonder why this guy is just a shopkeeper and not Captain of the Guard.  After 
+a quick talk of prices, you decide he makes more money selling things than the 
+whole regiment makes in a week by protecting you.
+~
+80 32776 0
+D0
+~
+~
+0 -1 8047
+S
+#8056
+Bank~
+Strong safes, money bags, counting equipment -- its all here.  The guards at
+the door persuade you silently to not get caught trying to steal any of it.  
+~
+80 32776 0
+D0
+~
+~
+0 -1 8050
+S
+#8057
+Western Wall Road~
+You are standing just east of the western city wall.  Looking to the 
+north-east you see the great market road of Kir Drax'in.            
+~
+80 32768 1
+D0
+~
+~
+0 -1 8040
+D2
+~
+~
+0 -1 8060
+S
+#8058
+On Eastern Wall Road~
+The busy eastern gate of the city is just north of here. To the south the
+street continues, following the city wall. A small building with the words
+"Barracks of the Holy Guard" carved over the door lies to the west.
+~
+80 32768 1
+D0
+~
+~
+0 -1 8051
+D2
+~
+~
+0 -1 8066
+D3
+~
+~
+0 0 8112
+S
+#8059
+Southern Central Square~
+This area has construction all around it.  Nothing is here to look at now, but 
+there looks like a major building project in progress.
+~
+80 32768 1
+D0
+Market Square
+~
+~
+0 -1 8046
+D2
+City Gate
+~
+~
+0 -1 8063
+S
+#8060
+South-Western Wall road~
+You are standing at the most southern and western point along the wall that
+surrounds Kir Drax'in.
+~
+80 32768 1
+D0
+~
+~
+0 -1 8057
+D1
+~
+~
+0 -1 8061
+S
+#8061
+Southern Wall road~
+The street is framed to the north by the backside of buildings and to the 
+south by the high city wall. The crowd in this part of town is less than
+aristocratic.                                                            
+~
+80 32768 1
+D0
+~
+~
+0 0 8028
+D1
+~
+~
+0 -1 8062
+D3
+~
+~
+0 -1 8060
+S
+#8062
+Southern Wall road~
+The street heads due east and west here, parallel to the city wall that rises
+south of you. To the north the glow of magic catches your eye, spilling out of
+the doorway of a deserted building.
+~
+80 32768 1
+D0
+~
+~
+0 0 18382
+D1
+~
+~
+0 -1 8063
+D3
+~
+~
+0 -1 8061
+S
+#8063
+City Gate South~
+You are standing before the large gate to the city.  The portcullis looks 
+strong and large, but it looks like the lock isn't in that great of condition. 
+The guards watch you with searching eyes.
+~
+80 32768 1
+D0
+Southern Central Square
+~
+~
+0 -1 8059
+D1
+City Wall
+~
+~
+0 -1 8064
+D2
+Outside the City
+~
+gate~
+1 8010 8067
+D3
+City Wall
+~
+~
+0 -1 8062
+S
+#8064
+Southern Wall road~
+You are walking upon the southern part of the wall that surrounds the town of 
+Kir Drax'in. To the north comes the strong odor of the dump.
+~
+80 32768 1
+D0
+The dump
+~
+~
+0 -1 8085
+D1
+~
+~
+0 -1 8065
+D3
+~
+~
+0 -1 8063
+S
+#8065
+Southern Wall road~
+To the north lie the city stables. The road continues east and west along
+the high city wall that towers above you to the south.            
+~
+80 32768 1
+D0
+You see the city stables.
+~
+~
+0 0 8110
+D1
+~
+~
+0 -1 8066
+D3
+~
+~
+0 -1 8064
+S
+#8066
+South-Eastern wall Road~
+You are standing on the south-eastern most point on the wall road around
+Kir Drax'in.
+~
+80 32768 1
+D0
+~
+~
+0 -1 8058
+D3
+~
+~
+0 -1 8065
+S
+#8067
+Entrance to Kir Drax'in~
+You stand before the main gate of Kir Drax'in.  You wonder if the gate guards 
+will actually let you pass through freely.
+~
+80 32768 2
+D0
+City Gate of Kir Drax'in
+~
+gate~
+1 8010 8063
+D2
+The Ocean Road
+~
+~
+0 -1 9140
+S
+#8068
+Entrance to Inn of Kir Drax'in~
+Not a very ornate entrance for an inn, but it'll do for a night of rest. Up
+some stairs, you see the glowing light of the receptionist.
+~
+80 32780 0
+D3
+~
+~
+0 0 8031
+D4
+~
+~
+0 0 8069
+S
+#8069
+Innkeeper's Lobby~
+This sparse lobby is closed off from the rest of the building by a stout
+iron door, obviously designed for keeping out unwanted guests.
+Hey, did you hear the one about Jesus walking into an inn? Oh, bad taste,
+sorry.
+~
+80 32776 0
+D5
+~
+~
+0 0 8068
+S
+#8070
+The Avenue of the Gods~
+You are standing on the far western end of the Avenue of the Gods. The roar
+of the crowds in the large stadium to your north is nearly deafening. South
+of here, an ivy covered wall blocks your path. The avenue continues to the east.
+~
+80 32768 1
+D1
+~
+~
+0 0 8071
+S
+#8071
+The Avenue of the Gods~
+Most of the people on this part of the avenue seem to be heading either to or
+from the entrance of the large stadium to your north. The huge building is
+made mostly of marble and is an awe inspiring sight to behold. South of here,
+an ivy covered wall blocks your passage. The avenue continues to the east and
+west.
+~
+80 32768 1
+D0
+~
+~
+0 0 10042
+D1
+~
+~
+0 0 8072
+D3
+~
+~
+0 0 8070
+S
+#8072
+The Avenue of the Gods~
+You are standing on a wide street with crowds of people wandering around in
+all directions. It's a wonder that anyone gets anywhere in this traffic.
+North of here, a huge stadium looms over you. To the south, an ivy covered
+wall blocks your way. The avenue continues to the east and west.
+~
+80 32768 1
+D1
+~
+~
+0 0 8073
+D3
+~
+~
+0 0 8071
+S
+#8073
+The Avenue of the Gods~
+Stretching out to the east and west of you is Kir Drax'in's famous Avenue of 
+the Gods. The statues lining the street are large and forbidding. South of 
+here, a sign the says "Post Office of Kir Drax'in" hangs over a small 
+building. To the north, you see the outer wall of the guard's barracks.
+~
+80 32768 1
+D1
+~
+~
+0 0 8074
+D2
+~
+~
+0 0 8086
+D3
+~
+~
+0 0 8072
+S
+#8074
+The Avenue of the Gods~
+This wide road is decorated on both sides by huge life-like statues of the gods
+and goddesses of the world. The cobblestones beneath your feet are old and 
+worn, but well cared for. To the south, you see the entrance to a building set
+up to help those in need. To the east, you see Temple Square, intersection of
+Main and the Avenue of the Gods. To the north, the Street of Swords runs
+between the temple and the guard's barracks. The avenue continues to the west.
+~
+80 32768 1
+D0
+~
+~
+0 0 8101
+D1
+~
+~
+0 0 8021
+D2
+~
+~
+0 0 8053
+D3
+~
+~
+0 0 8073
+S
+#8075
+The Avenue of the Gods~
+You are standing on Kir Drax'in's illustrious Avenue of the Gods. Religious
+statues, built to larger than life size, decorate parts of the street sides.
+West of here, you can see Temple Square, which marks the intersection of Main
+Street and the Avenue of the Gods. To the north, you can see the begining of
+the Street of Wizardry. To the south, you see a school for learning the arts
+of being a priest. The avenue continues to the east and west.
+~
+80 32768 1
+D0
+~
+~
+0 0 8105
+D1
+~
+~
+0 0 8076
+D2
+~
+~
+0 0 8027
+D3
+~
+~
+0 0 8021
+S
+#8076
+The Avenue of the Gods~
+This wide avenue is decorated with many statues of the various gods and
+goddesses worshipped by the people of Kir Drax'in. The detail of these bigger
+than life sized statues is absolutely amazing. To your north and south, you
+can see the sides of buildings along the side of the road. To the east and
+west, the avenue continues.
+~
+80 32768 1
+D1
+~
+~
+0 0 8077
+D3
+~
+~
+0 0 8075
+S
+#8077
+The Avenue of the Gods~
+You are walking down the famous Avenue of the Gods, home to the temples
+and religious organizations of Kir Drax'in. The giant statues that loom along 
+the sides of the road make you want to bow down and pray to the gods they 
+represent. A huge building made of some sort of shiny black rock lies to your
+north. A humble dwelling filled with black-garbed mercenaries lies to the 
+south, and the road continues to the east and west.
+~
+80 32768 1
+D1
+~
+~
+0 0 8078
+D2
+~
+~
+0 0 8525
+D3
+~
+~
+0 0 8076
+S
+#8078
+The Avenue of the Gods~
+You are walking down the famous Avenue of the Gods, home to the temples
+and religious organizations of Kir Drax'in. The giant statues that loom along 
+the sides of the road make you want to bow down and pray to the gods they 
+represent.  The entrance to a huge building made of some sort of shiny black 
+rock lies to your north. To the south, an ivy covered wall marks the backs of 
+several buildings. The road continues to the east and west.
+~
+80 32768 1
+D0
+~
+~
+0 0 11700
+D1
+~
+~
+0 0 8079
+D3
+~
+~
+0 0 8077
+S
+#8079
+The Avenue of the Gods~
+You are walking down the famous Avenue of the Gods, home to the temples
+and religious organizations of Kir Drax'in. The giant statues that loom along 
+the sides of the road make you want to bow down and pray to the gods they 
+represent.  A huge building made of some sort of shiny black rock lies to your 
+north. To the south, a marble-faced tower houses the Psionic guild. The road 
+continues to the west.
+~
+80 32768 1
+D2
+~
+~
+0 0 8518
+D3
+~
+~
+0 0 8078
+S
+#8080
+Western Wall Road~
+You are standing on a road which runs along the western wall of Kir Drax'in.
+The construction of a large stadium towers over you to the east.
+~
+80 0 1
+D0
+~
+~
+0 0 8001
+D2
+~
+~
+0 0 8007
+S
+#8081
+Row A, Seat K~
+From this seat you can see most of the arena, and the stands.
+~
+80 0 1
+D0
+Entrance to Arena
+~
+~
+0 0 8070
+D3
+Row A, Seat J
+~
+~
+0 0 8080
+S
+#8082
+Arena Floor~
+You are in the arena somewhere, this place is pretty much symmetrical so you 
+don't know exactly how far you are from the exit, but you can see onlookers 
+far above in the stands.
+~
+80 65540 1
+D2
+Entrance to the Arena
+~
+~
+0 0 8071
+D3
+Arena Floor
+~
+~
+0 0 8083
+S
+#8083
+Arena Floor~
+You are in the arena somewhere, this place is pretty much symmetrical so you 
+don't know exactly how far you are from the exit, but you can see onlookers 
+far above in the stands.
+~
+80 65540 1
+D1
+Arena Floor
+~
+~
+0 0 8082
+D2
+Arena Floor
+~
+~
+0 0 8084
+S
+#8084
+Eastern Market Street~
+You stand on the busy Market Street of Kir Drax'in. The street continues to the
+east and west, filled with vendors hawking various wares and lined with many
+shops of exotic items. To the south you notice a large number of guards and
+scummy thieves wandering in and out of the jail.
+~
+80 32768 1
+D1
+~
+~
+0 0 8051
+D2
+~
+~
+0 0 8117
+D3
+~
+~
+0 0 8050
+S
+#8085
+The Dump~
+The dump is relatively clean due the boiling lava pit that incinerates 
+everything dropped here. 
+~
+80 32768 1
+D2
+~
+~
+0 0 8064
+S
+#8086
+Kir Drax'in Post Office~
+"Don't piss me off or I'll piss on you."  That's the motto of the Kir Drax'in
+post people.  From the looks of the room, you'd say they've pissed quite a 
+bit.
+~
+80 32792 0
+D0
+~
+~
+0 0 8073
+S
+#8087
+Entrance to Kir Drax'in~
+You stand before the main gate of Kir Drax'in.  You wonder if the gate guards 
+will actually let you pass through freely.
+~
+80 32768 2
+D1
+City Gate of Kir Drax'in
+~
+gate~
+1 8010 8040
+D3
+The Great Western Road.
+~
+~
+0 -1 9631
+S
+#8088
+Entrance to Kir Drax'in~
+You stand before the east gate of Kir Drax'in. Many sounds come from within - 
+the sounds of any other city; but here they seem muted and oppressed.
+~
+80 32768 2
+D1
+The Forest Highway.
+~
+~
+0 -1 9816
+D3
+~
+~
+0 0 8051
+S
+#8089
+Harga's House of Ribs~
+This restaurant is packed with people; amazing considering how messy it
+looks.  You're almost afraid to see the food.
+~
+80 32768 0
+D0
+~
+~
+0 0 8042
+S
+#8099
+A Burning Hut~
+You stand inside a burning hut; what you considered home until a few moments
+ago when the orcs entered the village. You slept soundly until it was too
+late; only the horrified screams of your parents dying woke you.
+Now you stand bravely, though petrified with fear in your mind, as you watch
+the hairy, tusked orcs advance toward you, swords in hand.
+~
+80 1052 0
+E
+orc orcs~
+The orcs are dark-furred and clothed in the remains of of their victim's
+armor. Sharp tusks protrude from their bottom jaw, and they stand almost a 
+head taller than you.
+~
+S
+#8101
+The Street of Swords~
+This road is called the Street of Swords for good reason. Many of the more
+violent professions have their headquarters on this road, including the
+Guard's Barracks and the Mercenary's Guild. Somehow, it's not very surprising
+that also on this road is the Temple of the Unholy which lies at the top of
+the wide marble steps to the east. The street continues to the north and 
+dead ends into the Avenue of the Gods to the south.
+~
+80 32768 1
+D0
+~
+~
+0 0 8102
+D1
+~
+~
+0 0 8008
+D2
+~
+~
+0 0 8074
+S
+#8102
+The Street of Swords~
+The crowds walking north and south along this road are mostly men and women
+equipped with swords and a wide variety of other weapons. You recognize the
+large building to the west as the guard's barracks, home to the city guards
+that defend Kir Drax'in from trouble makers.
+~
+80 32768 1
+D0
+~
+~
+0 0 8103
+D2
+~
+~
+0 0 8101
+S
+#8103
+The Street of Swords~
+Walking along the Street of Swords, you hear the sounds of clashing swords
+coming from all directions. Sometimes, the weapons practice gets so ferocious
+that they break out into brawls that often spread out onto the street. Best
+to be cautious around here.
+~
+80 32768 1
+D0
+~
+~
+0 0 8104
+D2
+~
+~
+0 0 8102
+S
+#8104
+The Street of Swords~
+The large building to the west that houses the city guard runs the full
+length of the Street of Swords. To the east, you hear the sounds of weapon
+upon weapon eminating from the Warrior's Guild. The road continues to the
+south.
+~
+80 32768 1
+D1
+~
+~
+0 0 8015
+D2
+~
+~
+0 0 8103
+S
+#8105
+The Street of Wizardry~
+You are in the section of Kir Drax'in dedicated to the various mages and seers 
+of this town. This narrow road is lined on both sides with various shops and
+other buildings of a mystical nature. South of here, this street dead ends into
+Kir Drax'in's famous Avenue of the Gods. To the west, wide steps lead up to the
+Temple of the Unholy. The Street of Wizardry continues to the north.
+~
+80 32768 0
+D0
+~
+~
+0 0 8106
+D2
+~
+~
+0 0 8075
+D3
+~
+~
+0 0 8008
+S
+#8106
+The Street of Wizardry~
+Walking along this street, you can occasionally hear loud explosions coming
+from the various mystical looking buildings around you. To the east, you see
+a small, exotic looking shop dedicated to the buying and selling of items of
+a magical nature. The street continues to the north and south.
+~
+80 32768 0
+D0
+~
+~
+0 0 8107
+D1
+~
+~
+0 0 8035
+D2
+~
+~
+0 0 8105
+S
+#8107
+The Street of Wizardry~
+It is fascinating to watch the various activities going on along this north-
+south road. For instance, the colorful clouds of gasses pouring out of the 
+apothocary shop to the west could provide some with hours of entertainment.
+No less entertaining are the bright lights coming from the small tower to the
+east. The small tower has a sign over its door that says "Kir Drax'in School 
+of the Art of Magick".
+~
+80 32768 0
+D0
+~
+~
+0 0 8108
+D1
+~
+~
+0 0 8014
+D2
+~
+~
+0 0 8106
+D3
+~
+~
+0 0 8034
+S
+#8108
+The Street of Wizardry~
+The smokes and sounds on this stretch of road can often be irritating to those
+with delicate senses. Best to avoid this place if you have a weak stomach. The
+road continues to the south.
+~
+80 32768 0
+D2
+~
+~
+0 0 8107
+S
+#8109
+The Street of Wizardry~
+You are in an unfinished room.
+~
+80 0 0
+S
+#8110
+In the Stables~
+The smell of fresh dung greets your nose as you step into this well-kept
+stables. Stable boys run to and fro, minding the the fine breeds that line
+the stalls.
+~
+80 32780 0
+D2
+~
+~
+0 0 8065
+S
+#8111
+stable room, do not delete~
+stable room
+~
+80 1024 0
+S
+#8112
+Guard Barracks~
+This dimly lit room houses off-duty guards who don't feel the need to go home
+to their pitiful families. A stack of cards lie on a wobbly table, and a few
+dirty cots line the wall.
+~
+80 32768 0
+D1
+~
+~
+0 0 8058
+E
+cards table~
+On the table lies a half-finished game of knucklebones. It looks like someone
+won with a full house beating a pair of jacks.
+~
+S
+#8113
+The Emerald Aisle~
+The Emerald Aisle is a newly-constructed shop, housing one of the greediest
+(and richest) jewelers in the land. The display cases are all of hand-blown
+glass, fitted with metal lids that come down over them at closing time.
+~
+80 32780 0
+D1
+~
+~
+0 0 8031
+D2
+~
+~
+0 0 8045
+S
+#8114
+Murder, Inc.~
+A small sign hangs on the wall, above a covered grate. From behind the
+grate can be seen the dim outline of a humanoid figure.
+~
+80 32768 0
+D3
+~
+~
+0 0 8028
+E
+sign~
+You can:
+
+LIST                         available assassins
+HIRE <assassin> <victim>     to have <victim> terminated.
+
+No refunds!
+~
+E
+grate figure~
+You can't tell what the man behind the grate looks like. I think that's
+the point.
+~
+S
+#8115
+Assassin hangout~
+Get out of this room now!
+~
+80 516 0
+S
+#8116
+An Elegant Shop~
+This  well-lit shop has walls covered in various ancient drawings and 
+tapestries. A shelf of books behind the counter is filled with texts that
+must date back to the dawn of writing. A large sign is hung over the shelf.
+~
+80 32776 0
+D0
+~
+~
+0 0 8049
+E
+sign~
+"I will tell you the secrets of your objects for a small fee...
+To get them id'ed, just GIVE them to me.
+To find out my charges, VALUE your item."
+~
+S
+#8117
+Kir Drax'in Jail~
+You stand just inside the Kir Drax'in Jail. To the north lies the busy city
+street, but in here all is quiet except for a few prisoners bemoaning
+their fate. The main holding cell is south.
+~
+80 32780 0
+D0
+~
+~
+0 0 8084
+D2
+~
+~
+0 0 8118
+E
+Oddity~
+Oddly enough, he's not odd at all.
+~
+E
+sign SIGN~
+It says, "You pee in my pool, I'll kick in your face."
+~
+S
+#8118
+The Main Holding Cell~
+This is the main holding cell of prisoners who have disobeyed the city's
+violence ordinances. Though the scenery isn't very exciting, it sure beats
+the city's old penalty of death for lawbreakers.
+~
+80 163976 0
+D0
+~
+~
+0 0 8117
+S
+$~

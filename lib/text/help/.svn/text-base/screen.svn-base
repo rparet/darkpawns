@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Movement:                          | Communication:
+NORTH SOUTH EAST WEST UP DOWN      | SAY GSAY SHOUT HOLLER TELL ASK WHISPER
+LOOK EXITS ENTER LEAVE RIDE        | MAIL RECEIVE CHECK GOSSIP GRATS AUCTION
+SLEEP WAKE REST SIT STAND DISMOUNT | NOTELL NOSHOUT NOGOSSIP NOGRATS NOAUCTION
+(LOCK UNLOCK OPEN CLOSE)           | THINK RSAY REVIEW NEWBIE REPLY POINT
+-----------------------------------+-------------------------------------------
+Objects:                           | Information: 
+GET DROP JUNK DONATE PUT GIVE WEAR | SCORE HELP INFO WHO NEWS TIME WEATHER
+GRAB INVENTORY EQUIPMENT REMOVE    | WHERE CONSIDER LEVELS WIZLIST IMMLIST
+EXAMINE EAT DRINK TASTE SIP POUR   | CREDITS TOGGLE FLAGS SKILLS FAQ PROMPT
+PALM                               |
+-----------------------------------+-------------------------------------------
+Combat:                            | Utility:
+KILL WIELD FLEE ASSIST TRACK       | ! BUG IDEA TYPO QUIT SAVE BRIEF COMPACT
+(KICK BASH RESCUE BACKSTAB CAST)   | TITLE NOSUMMON COMMANDS SOCIALS DISPLAY
+STAKE SPIKE 24                     | AUTO INFOBAR LINES COLOR
+-------------------------------------------------------------------------------
+Further information available by HELP <keyword>, keyword being a command or 
+(for example) one of the following:
+SOCIAL SHOPS INNS CLERIC WARRIOR THIEF MAGIC SPELLS LINK CARVE BEHEAD RACES
+MULTI NEWBIE VAMPIRE WEREWOLF MOONGATE TAG TATTOO JAIL

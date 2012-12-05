@@ -1,0 +1,2292 @@
+#22500
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22501
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22501
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22500
+D3
+~
+~
+0 0 22502
+S
+#22502
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22501
+D2
+~
+~
+0 0 22503
+D3
+~
+~
+0 0 3022
+S
+#22503
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22502
+D1
+~
+~
+0 0 22504
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22504
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22505
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22503
+S
+#22505
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22506
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22504
+S
+#22506
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22507
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22505
+D3
+~
+~
+0 0 3022
+S
+#22507
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22506
+D3
+~
+~
+0 0 22508
+S
+#22508
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22507
+D2
+~
+~
+0 0 22509
+D3
+~
+~
+0 0 3022
+S
+#22509
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22508
+D1
+~
+~
+0 0 22510
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22510
+The First Veil~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+D0
+~
+~
+0 0 22504
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22511
+D3
+~
+~
+0 0 22500
+S
+#22511
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22510
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22512
+S
+#22512
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22513
+D1
+~
+~
+0 0 22511
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22513
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22514
+D2
+~
+~
+0 0 22512
+D3
+~
+~
+0 0 3022
+S
+#22514
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22515
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22513
+S
+#22515
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22516
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22514
+S
+#22516
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22515
+D3
+~
+~
+0 0 22517
+S
+#22517
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22518
+D1
+~
+~
+0 0 22516
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22518
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22517
+D3
+~
+~
+0 0 22519
+S
+#22519
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22518
+D2
+~
+~
+0 0 22520
+D3
+~
+~
+0 0 3022
+S
+#22520
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22519
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22521
+S
+#22521
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22520
+D2
+~
+~
+0 0 22522
+D3
+~
+~
+0 0 3022
+S
+#22522
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22521
+D1
+~
+~
+0 0 22523
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22523
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22524
+D3
+~
+~
+0 0 22522
+S
+#22524
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22523
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22525
+S
+#22525
+The Second Veil~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22526
+D1
+~
+~
+0 0 22511
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22518
+S
+#22526
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22525
+D3
+~
+~
+0 0 22527
+S
+#22527
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22526
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22528
+S
+#22528
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22527
+D2
+~
+~
+0 0 22529
+D3
+~
+~
+0 0 3022
+S
+#22529
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22528
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22530
+S
+#22530
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22531
+D1
+~
+~
+0 0 22529
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22531
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22532
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22530
+D3
+~
+~
+0 0 3022
+S
+#22532
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22533
+D2
+~
+~
+0 0 22531
+D3
+~
+~
+0 0 3022
+S
+#22533
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22534
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22532
+S
+#22534
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22535
+D2
+~
+~
+0 0 22533
+D3
+~
+~
+0 0 3022
+S
+#22535
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22536
+D3
+~
+~
+0 0 22534
+S
+#22536
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22535
+D1
+~
+~
+0 0 22537
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22537
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22538
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22536
+S
+#22538
+The Third Veil~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+D0
+~
+~
+0 0 22528
+D1
+~
+~
+0 0 22539
+D2
+~
+~
+0 0 22531
+D3
+~
+~
+0 0 3022
+S
+#22539
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22540
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22538
+S
+#22540
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22541
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22539
+D3
+~
+~
+0 0 3022
+S
+#22541
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22542
+D2
+~
+~
+0 0 22540
+D3
+~
+~
+0 0 3022
+S
+#22542
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22543
+D3
+~
+~
+0 0 22541
+S
+#22543
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22542
+D1
+~
+~
+0 0 22544
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22544
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22545
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22543
+S
+#22545
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22546
+D2
+~
+~
+0 0 22544
+D3
+~
+~
+0 0 3022
+S
+#22546
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22547
+D3
+~
+~
+0 0 22545
+S
+#22547
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22546
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22548
+D3
+~
+~
+0 0 3022
+S
+#22548
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22547
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22549
+S
+#22549
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22548
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22550
+S
+#22550
+The Center of the Great Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_3065.lua 32
+S
+#22551
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22552
+S
+#22552
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22551
+D2
+~
+~
+0 0 22553
+D3
+~
+~
+0 0 3022
+S
+#22553
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22552
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22554
+S
+#22554
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22555
+D1
+~
+~
+0 0 22553
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22555
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22556
+D2
+~
+~
+0 0 22554
+D3
+~
+~
+0 0 3022
+S
+#22556
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22557
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22555
+S
+#22557
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22558
+D2
+~
+~
+0 0 22556
+D3
+~
+~
+0 0 3022
+S
+#22558
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22559
+D3
+~
+~
+0 0 22557
+S
+#22559
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22558
+D1
+~
+~
+0 0 22560
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22560
+The First Veil~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+D0
+~
+~
+0 0 22555
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22561
+D3
+~
+~
+0 0 22551
+S
+#22561
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22560
+D1
+~
+~
+0 0 22562
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22562
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22563
+D3
+~
+~
+0 0 22561
+S
+#22563
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22562
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22564
+S
+#22564
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22563
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22565
+S
+#22565
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22566
+D1
+~
+~
+0 0 22564
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22566
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22567
+D2
+~
+~
+0 0 22565
+D3
+~
+~
+0 0 3022
+S
+#22567
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22568
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22566
+S
+#22568
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22569
+D2
+~
+~
+0 0 22567
+D3
+~
+~
+0 0 3022
+S
+#22569
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22570
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22568
+S
+#22570
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22569
+D3
+~
+~
+0 0 22571
+S
+#22571
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22570
+D2
+~
+~
+0 0 22572
+D3
+~
+~
+0 0 3022
+S
+#22572
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22571
+D1
+~
+~
+0 0 22573
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22573
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22574
+D3
+~
+~
+0 0 22572
+S
+#22574
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22573
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22575
+S
+#22575
+The Second Veil~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+D0
+~
+~
+0 0 22569
+D1
+~
+~
+0 0 22563
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22576
+S
+#22576
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22577
+D1
+~
+~
+0 0 22575
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22577
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22578
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22576
+D3
+~
+~
+0 0 3022
+S
+#22578
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22579
+D2
+~
+~
+0 0 22577
+D3
+~
+~
+0 0 3022
+S
+#22579
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22580
+D3
+~
+~
+0 0 22578
+S
+#22580
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22579
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22581
+D3
+~
+~
+0 0 3022
+S
+#22581
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22580
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22582
+S
+#22582
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22581
+D2
+~
+~
+0 0 22583
+D3
+~
+~
+0 0 3022
+S
+#22583
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22582
+D1
+~
+~
+0 0 22584
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22584
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22585
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22583
+S
+#22585
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22586
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22584
+S
+#22586
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22587
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22585
+D3
+~
+~
+0 0 3022
+S
+#22587
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22586
+D3
+~
+~
+0 0 22588
+S
+#22588
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22589
+D1
+~
+~
+0 0 22587
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22589
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22590
+D2
+~
+~
+0 0 22588
+D3
+~
+~
+0 0 3022
+S
+#22590
+The Third Veil~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+D0
+~
+~
+0 0 22591
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22584
+D3
+~
+~
+0 0 22577
+S
+#22591
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22590
+D3
+~
+~
+0 0 22592
+S
+#22592
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22591
+D2
+~
+~
+0 0 22593
+D3
+~
+~
+0 0 3022
+S
+#22593
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22592
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22594
+S
+#22594
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22593
+D2
+~
+~
+0 0 22595
+D3
+~
+~
+0 0 3022
+S
+#22595
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22594
+D1
+~
+~
+0 0 22596
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22596
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 22597
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22595
+S
+#22597
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22598
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 22596
+S
+#22598
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 3022
+D1
+~
+~
+0 0 3022
+D2
+~
+~
+0 0 22597
+D3
+~
+~
+0 0 22599
+S
+#22599
+Walking the Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+R 30/pattern_dmg.lua 4
+D0
+~
+~
+0 0 22600
+D1
+~
+~
+0 0 22598
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3022
+S
+#22600
+The Center of the Great Pattern~
+You are in an unfinished room.
+~
+225 520 0 0 0 0
+S
+#22800
+An unfinished room~
+Hi there
+~
+225 0 0 0 0 0
+S
+$~

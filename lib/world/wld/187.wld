@@ -1,0 +1,688 @@
+#18700
+An Immortal Room~
+This is a starting point for all of us who don't need doors or walkways to get
+around.  There is a map floating in the nothingness here for some guidance.
+~
+187 524 0 0 0 0
+D5
+~
+~
+0 0 18701
+E
+map~
+
+The Ender Village
+
+             I
+             |
+           I-*-I
+             |
+        I  I-*-I         F-F-F
+        |    |           | | |
+     I--*----*---*---\---F-F-F----T--T- ==> To A Road
+     |  |    |             | |
+     /  I  I-*-I           F-F
+     |       |
+     |       I
+     |
+     I--I     
+
+~
+S
+#18701
+An Ender Hut~
+You stand in the center of a small, cosy hut.  All the things required
+for living the simple life are here.  There is a small road running
+by to the south.
+~
+187 32776 0 0 0 0
+D2
+A Small Road
+~
+~
+0 1 18703
+E
+cupboard~
+These cupboards are simple affair with some plates, etc.
+~
+E
+bed~
+These are simple beds that are basically mattresses lying on the floor with
+some wooden planks surrounding it.
+~
+E
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
+~
+S
+#18702
+An Ender Hut~
+This is a simple living hut. All the things required for a good life are
+here, including a table and a few chairs.  The door to the east
+leads to a small road.
+~
+187 32776 0 0 0 0
+D1
+A Small Road
+~
+~
+0 1 18703
+E
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
+~
+E
+bed beds~
+These are simple beds that are basically mattresses lying on the floor with
+some wooden planks surrounding it.
+~
+E
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
+~
+S
+#18703
+A Small Road~
+This is a small road that is made up off small planks of wood.  There is no
+real way to see high off of the real ground you are, but this road is sturdy
+enough.  There are small huts to the north and west, and a bakery is to the
+east.
+~
+187 32768 0 0 0 0
+D0
+An Ender Hut
+~
+~
+0 1 18701
+D1
+A Bakery
+~
+~
+0 1 18704
+D2
+A Small Road
+~
+~
+0 1 18707
+D3
+An Ender Hut
+~
+~
+0 1 18702
+S
+#18704
+A Bakery~
+This is a simple bakery.  There are all the things needed to bake bread,
+including an oven, pans, and bags of flour.  There does not seem to be any
+counter, so this may not actually be a shop.  A door to the west leads to a
+small road.
+~
+187 32776 0 0 0 0
+D3
+A Small Road
+~
+~
+0 1 18703
+S
+#18705
+An Ender Hut~
+This is a simple ender living hut.  Whoever lives here must be proud
+of their home, as it is neat and tidy.  The single door there is looks out
+on a road that runs by to the south.
+~
+187 32776 0 0 0 0
+D2
+A Main Road
+~
+~
+0 1 18713
+E
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
+~
+E
+bed beds~
+These are simple beds that are basically mattresses lying on the floor with
+some wooden planks surrounding it.
+~
+E
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
+~
+S
+#18706
+A Tailor~
+Here is yet another simple structure.  This is some kind of tailor
+shop.  There are sewing tables, spools of thread, and bolts of cloth.
+A door leads east to a small road.
+~
+187 32776 0 0 0 0
+D1
+A Small Road
+~
+~
+0 1 18707
+S
+#18707
+A Small Road~
+This is a small road that is made up of small planks of wood.  There is no
+real way to see high off of the real ground you are, but this road is sturdy
+enough.  The small road continues north and a small central square is to the
+south.  To the west is a tailor and to the east is a small hut.
+~
+187 32768 0 0 0 0
+D0
+A Small Road
+~
+~
+0 1 18703
+D1
+An Ender Hut
+~
+~
+0 1 18708
+D2
+A Central Square
+~
+~
+0 1 18714
+D3
+A Tailor
+~
+~
+0 1 18706
+S
+#18708
+An Ender Hut~
+This is a simple living hut.  All the things required for a good life are
+here, including a table and a few chairs.  The door to the west leads to
+a small road.
+~
+187 32776 0 0 0 0
+D3
+A Small Road
+~
+~
+0 1 18707
+E
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
+~
+E
+bed beds~
+These are simple beds that are basically mattresses lying on the floor with
+some wooden planks surrounding it.
+~
+E
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
+~
+S
+#18709
+North-West Corner~
+This is the furthest north-west part of this small field.  The grass is fresh,
+but seems to have been trampled lately.  You can go south or east to more of
+the field.
+~
+187 0 0 0 0 2
+D1
+North Side
+~
+~
+0 1 18710
+D2
+West Side
+~
+~
+0 1 18716
+S
+#18710
+North Side~
+This is about the middle of the northern edge of the field.  The grass is green
+but trampled slightly.  You can go into the field either to the west, east, or
+south.
+~
+187 0 0 0 0 2
+D1
+North-East Corner
+~
+~
+0 1 18711
+D2
+The Middle
+~
+~
+0 1 18717
+D3
+North-West Corner
+~
+~
+0 1 18709
+S
+#18711
+North-East Corner~
+This is the north-east corner of the small field.  It seems very neat, but
+there are signs of use. You can go south or west into the field.
+~
+187 0 0 0 0 2
+D2
+East Side
+~
+~
+0 1 18718
+D3
+North Side
+~
+~
+0 1 18710
+S
+#18712
+The Throne Room~
+Here is the most extravagant room of this small village, but it is also very
+simple.  There is a throne made of wood and some simple wall hangings.  A door
+leads east back to the main road.
+~
+187 32776 0 0 0 0
+D0
+~
+~
+0 0 18730
+D1
+A Main Road
+~
+~
+0 1 18713
+D5
+~
+throne~
+2 18716 18728
+S
+#18713
+A Main Road~
+This is a small road, or a major path, but in this small village it is pretty
+major.  There are small huts to the north and south, and a larger hut to the
+west.  A small Central Square is to the east.
+~
+187 32768 0 0 0 0
+D0
+An Ender Hut
+~
+~
+0 1 18705
+D1
+Central Square
+~
+~
+0 1 18714
+D2
+An Ender Hut
+~
+~
+0 1 18721
+D3
+A Larger Hut
+~
+~
+0 1 18712
+S
+#18714
+Central Square~
+This is the center of the small village.  But the only way you can tell is by
+the fountain and the fact that two roads cross here.  You can go east to the
+gate, north or south along a small road or west along a bigger road.
+~
+187 32768 0 0 0 0
+D0
+A Small Road
+~
+~
+0 1 18707
+D1
+The Gateway
+~
+~
+0 1 18715
+D2
+A Small Road
+~
+~
+0 1 18723
+D3
+A Main Road
+~
+~
+0 1 18713
+S
+#18715
+The Gateway~
+   This is the gateway of a small village, nestled deep within a forest
+ravine.  A large wooden gate stands here, entwined with ivy and leaves,
+and clearly appears to be more for show than purpose.  A town square of
+sizable proportions lies to the west while the exit of the ravine climbs
+above you to the forest floor.
+~
+187 32768 0 0 0 0
+D3
+Central Square
+~
+~
+0 1 18714
+D4
+The ravine climbs to the forest floor above you.
+~
+~
+0 0 9198
+S
+#18716
+West Side~
+This is the western side of a small field there is a large tree with a
+stairwell that leads up from here.  You can also go east or north into the
+field.
+~
+187 0 0 0 0 2
+D0
+North-West Corner
+~
+~
+0 1 18709
+D1
+Middle of the Field
+~
+~
+0 1 18717
+D4
+A Platform
+~
+~
+0 1 18715
+S
+#18717
+Middle of the Field~
+This is the center of a smallish field.  The grass is trampled all over.  You
+can go in any direction to the edges of the field.
+~
+187 0 0 0 0 2
+D0
+North Side
+~
+~
+0 1 18710
+D1
+East Side
+~
+~
+0 1 18718
+D2
+South Side
+~
+~
+0 1 18725
+D3
+West Side
+~
+~
+0 1 18716
+S
+#18718
+East Side~
+This is the eastern edge of a small field.  You can go north, south, or west
+into the field.  There is a small path that leads east from here into the
+woods.
+~
+187 0 0 0 0 2
+D0
+North-East Corner
+~
+~
+0 1 18711
+D1
+A Small Path
+~
+~
+0 1 18719
+D2
+South-East Corner
+~
+~
+0 1 18726
+D3
+Middle of the Field
+~
+~
+0 1 18717
+S
+#18719
+A Small Path~
+This is a really small path thru a dense forest.  The path opens to a field to
+the west and the path continues to the east.
+~
+187 0 0 0 0 3
+D1
+A Small Path
+~
+~
+0 1 18720
+D3
+A Small Field
+~
+~
+0 1 18718
+S
+#18720
+A Small Path~
+This is small path in a dense forest.  The path opens to the east at a road,
+and continues deeper into the forest to the west.
+~
+187 0 0 0 0 3
+D3
+A Small Path
+~
+~
+0 1 18719
+S
+#18721
+An Ender Hut~
+This is a simple living hut.  All the things required for a good life are
+here, including a table, some dressers, and three beds.  The door to the
+north leads to a small village road.
+~
+187 32776 0 0 0 0
+D0
+A Main Road
+~
+~
+0 1 18713
+E
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
+~
+E
+bed beds~
+These are simple beds that are basically mattresses lying on the floor with
+some wooden planks surrounding it.
+~
+E
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
+~
+S
+#18722
+An Ender Hut~
+This is a simple ender living hut, made out of dried mud.  All the
+things required for a simple life are here, including a table, dresser
+and a few beds.  There is a door to the east that looks out on a 
+small road.
+~
+187 32776 0 0 0 0
+D1
+A Small Road
+~
+~
+0 1 18723
+E
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
+~
+E
+bed beds~
+These are simple beds that are basically mattresses lying on the floor with
+some wooden planks surrounding it.
+~
+E
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
+~
+S
+#18723
+A Small Road~
+This is a small road that is made up off small planks of wood.  There is no
+real way to see high off of the real ground you are, but this road is sturdy
+enough.  The small road continues north to a small central square.  There are
+small huts to the south and west.  To the east is a blacksmith.
+~
+187 32768 0 0 0 0
+D0
+Central Square
+~
+~
+0 1 18714
+D1
+A Blacksmith
+~
+~
+0 1 18724
+D2
+An Ender Hut
+~
+~
+0 1 18727
+D3
+An Ender Hut
+~
+~
+0 1 18722
+S
+#18724
+A Blacksmith~
+This is a small mortar hut that is clearly used as a metal working
+shop.  There is a small furnace, and anvil, and a trough of cool water.
+The door to the west leads back to a small village road.
+~
+187 32776 0 0 0 0
+D3
+A Small Road
+~
+~
+0 1 18723
+S
+#18725
+Southern Edge~
+This is the sothern edge of the small field.  The grass is well trampled as if
+it is home to farm animals.  You can go north to the middle of the field or
+east into the south-east corner.
+~
+187 0 0 0 0 2
+D0
+Middle of the Field
+~
+~
+0 1 18717
+D1
+South-East Corner
+~
+~
+0 1 18726
+S
+#18726
+South-East Corner~
+This is the south-eastern most part of the field.  You can go north along the
+eastern edge of the field or west along the southern edge.
+~
+187 0 0 0 0 2
+D0
+Eastern Side
+~
+~
+0 1 18718
+D3
+Southern Edge
+~
+~
+0 1 18725
+S
+#18727
+An Ender Hut~
+This hut is simplistic in design, made from mortar and straw it looks
+very primitive, but sturdy.  All  the things required for simple living
+are here, including a table, a few stools, and two beds.  The door
+to the north leads to a small village road.
+~
+187 32776 0 0 0 0
+D0
+A Small Road
+~
+~
+0 1 18723
+E
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
+~
+E
+bed beds~
+These are simple beds that are basically mattresses lying on the floor with
+some wooden planks surrounding it.
+~
+E
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
+~
+S
+#18728
+A Secret Room~
+This is a dramatic contrast to the simple village above.  All of the trim in
+this room is made of gold and platinum.  There is ornate paintings and statues
+are scattered about the room.  Along the east wall is a large steel door.
+~
+187 32776 0 0 0 0
+D1
+A Large Metal Room
+~
+vault metal door~
+2 18717 18729
+D4
+A Hatchway
+~
+hatch~
+2 18716 18712
+S
+#18729
+A Metal Vault~
+This is a large metal room with lots of shelves and small wooden chests.  It 
+looks as though this vault often holds millions of gold at a time.
+~
+187 32776 0 0 0 0
+D3
+A Secret Room
+~
+vault metal door~
+1 1 18728
+S
+#18730
+A Back Room~
+This is some kind of meeting/staging area for the King's advisors.  It is
+reasonably clean, with a map of the kingdom on one wall, and a large table
+in the middle.
+~
+187 32768 0 0 0 0
+D2
+~
+~
+0 0 18712
+S
+$~

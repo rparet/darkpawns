@@ -1,0 +1,3123 @@
+#12201
+In a Marsh~
+The ground becomes ever softer and yeilds and springs with every step.
+Mosquitoes buzz in your ear and find even the smallest chink in your armor to
+bite at the tender flesh underneath. A nauseating stench comes from the 
+south, heralding the start of a swamp. To the east and west huge ironwood 
+trees can be seen rising up into the sky.
+~
+122 0 0 0 0 0
+D0
+~
+~
+0 0 9888
+D1
+~
+~
+0 0 12202
+D2
+~
+~
+0 0 12206
+D3
+~
+~
+0 0 9893
+S
+#12202
+The Swamp~
+The solid ground of the forest gives way to a wet spongy terrain. The
+ground squishes under each footfall and the thoguht of falling through is
+first in mind. The trees are becoming slightly more spread out, but the
+maze of roots coming from them more than makes up for any difference in 
+ease of passage. The sounds of moving water come from the east. To the south
+the swamp seems to be getting more dense.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 0 9889
+D1
+~
+~
+0 -1 12203
+D2
+~
+~
+0 -1 12207
+D3
+~
+~
+0 -1 12201
+S
+#12203
+The River~
+The river takes a turn to the east here, and stretches as far as you can see
+to the north. To the west the swamp thickens with fog.  
+~
+122 8388612 0 0 0 7
+D0
+~
+~
+0 0 9890
+D1
+~
+~
+0 -1 12204
+D2
+~
+~
+0 -1 12208
+D3
+~
+~
+0 -1 12202
+S
+#12204
+The River~
+The river runs south from here, sweeping in from the west toward the great
+forest to the northeast.
+~
+122 4194308 0 0 0 7
+D0
+~
+~
+0 0 9474
+D1
+~
+~
+0 0 9632
+D2
+~
+~
+0 -1 12209
+D3
+~
+~
+0 -1 12203
+S
+#12205
+The Swamp~
+The swamplands border the forest here; the tall trees block your view of the 
+horizon to the north and west. Southeast of here the dismal swamp beckons
+to you with the hoarse cries of bullfrogs... and strong sense of evil.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 0 9893
+D1
+~
+~
+0 -1 12206
+D2
+~
+~
+0 -1 12211
+D3
+~
+~
+0 0 9896
+S
+#12206
+The Swamp~
+Dark stagnant water extends in every direction. There is very little
+ground visible in any direction. Coming from all around you are the sounds 
+of the local wildlife.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12201
+D1
+~
+~
+0 -1 12207
+D2
+~
+~
+0 -1 12212
+D3
+~
+~
+0 -1 12205
+S
+#12207
+The Swamp~
+The fast flowing niche to the east deposits you into this relatively 
+slow flowing pond. Everywhere small tributaries deposit their loads from 
+the river into this area. Every direction is open for travel. To the north
+it looks as though it may get drier.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12202
+D1
+~
+~
+0 -1 12208
+D2
+~
+~
+0 -1 12213
+D3
+~
+~
+0 -1 12206
+S
+#12208
+The Swamp~
+The fast flowing water to the east seems to have carved a small canal
+into the swamp at this point. The water funnels into this canal bringing 
+you along for the ride. The movement through this passage is quite fast and
+keeping from tipping over on slightly submerged roots is of top priority. 
+After the small passage the water opens into the stillness of the open swamp
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12203
+D1
+~
+~
+0 -1 12209
+D2
+~
+~
+0 -1 12214
+D3
+~
+~
+0 -1 12207
+S
+#12209
+The River~
+The raging river runs due south here, marking the border between the forest to
+the east and swamp to the west.
+~
+122 4194308 0 0 0 7
+D0
+~
+~
+0 -1 12204
+D1
+~
+~
+0 0 9634
+D2
+~
+~
+0 -1 12215
+D3
+~
+~
+0 -1 12208
+S
+#12210
+The Swamp~
+A tangled growth of lush forest opens to the north and west, but here the
+ground is swampy and deep with grainy black water.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 0 9896
+D1
+~
+~
+0 -1 12211
+D2
+~
+~
+0 -1 12217
+D3
+~
+~
+0 0 9218
+S
+#12211
+The Swamp~
+To the west the tall spires of trees saturate your view, it looks as 
+thought the swamp borders up to a forest in that direction. Every other 
+direction seems to look the same, swamp. Here and there a small frog pops 
+its head from the water and croaks at you.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12205
+D1
+~
+~
+0 -1 12212
+D2
+~
+~
+0 -1 12218
+D3
+~
+~
+0 -1 12210
+S
+#12212
+The Swamp~
+Dark stagnant water extends in every direction. There is very little
+ground visible in any direction. Coming from all around you are the sounds 
+of the local wildlife.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12206
+D1
+~
+~
+0 -1 12213
+D2
+~
+~
+0 -1 12219
+D3
+~
+~
+0 -1 12211
+S
+#12213
+The Swamp~
+Razor grass is everywhere, it's tall stalks coming from under the dark
+surface of the water. It limits your sight to a few feet.  Exits are in
+every direction.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12207
+D1
+~
+~
+0 -1 12214
+D2
+~
+~
+0 -1 12220
+D3
+~
+~
+0 -1 12212
+S
+#12214
+The Swamp~
+The water here begins to slow and calm itself now that it's out of the fast-
+moving river. The shores are made up of floating algae deposits between roots
+of trees. The closer you get the more dense the foliage hanging from the trees
+becomes. Branches are slapping you in the face as you try to push them out of
+the way.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12208
+D1
+~
+~
+0 -1 12215
+D2
+~
+~
+0 -1 12221
+D3
+~
+~
+0 -1 12213
+S
+#12215
+The River~
+The river twists madly, coming in from the north and curving to the south
+just east of here. The swamp looms to the southwest.
+~
+122 8388612 0 0 0 7
+D0
+~
+~
+0 -1 12209
+D1
+~
+~
+0 -1 12216
+D2
+~
+~
+0 -1 12222
+D3
+~
+~
+0 -1 12214
+S
+#12216
+The River~
+The river runs south and west here, bordering the swamp. Tall trees twice the
+diameter of your reach block out the sun to the northeast.
+~
+122 4194308 0 0 0 7
+D0
+~
+~
+0 0 9634
+D1
+~
+~
+0 0 9638
+D2
+~
+~
+0 -1 12223
+D3
+~
+~
+0 -1 12215
+S
+#12217
+The Swamp~
+Here ground and water meet once again. To the west lush trees and 
+foilage begin to grow with renewd vengence as the marshy land gives was to 
+solid soil. Birds twitter in the trees letting you know that the desolation
+of the swamp lays behind you.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12210
+D1
+~
+~
+0 -1 12218
+D2
+~
+~
+0 -1 12225
+D3
+~
+~
+0 0 9230
+S
+#12218
+The Swamp~
+Razor grass is everywhere, it's tall stalks coming from under the dark
+surface of the water. It limits your sight to a few feet.  Exits are in
+every direction.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12211
+D1
+~
+~
+0 -1 12219
+D2
+~
+~
+0 -1 12226
+D3
+~
+~
+0 -1 12217
+S
+#12219
+The Swamp~
+Razor grass is everywhere, it's tall stalks coming from under the dark
+surface of the water. It limits your sight to a few feet.  Exits are in
+every direction.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12212
+D1
+~
+~
+0 -1 12220
+D2
+~
+~
+0 -1 12227
+D3
+~
+~
+0 -1 12218
+S
+#12220
+The Swamp~
+Razor grass is everywhere, it's tall stalks coming from under the dark
+surface of the water. It limits your sight to a few feet.  Exits are in
+every direction.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12213
+D1
+~
+~
+0 -1 12221
+D2
+~
+~
+0 -1 12228
+D3
+~
+~
+0 -1 12219
+S
+#12221
+The Swamp~
+Razor grass is everywhere, it's tall stalks coming from under the dark
+surface of the water. It limits your sight to a few feet.  Exits are in
+every direction.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12214
+D1
+~
+~
+0 -1 12222
+D2
+~
+~
+0 -1 12229
+D3
+~
+~
+0 -1 12220
+S
+#12222
+The Swamp~
+   The water here begins to slow and calm itself now that it's out of the fast-
+moving river. The shores are made up of floating algae deposits between roots
+of trees. The closer you get the more dense the foliage hanging from the trees
+becomes. Branches are slapping you in the face as you try to push them out of
+the way.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12215
+D1
+~
+~
+0 -1 12223
+D2
+~
+~
+0 -1 12230
+D3
+~
+~
+0 -1 12221
+S
+#12223
+The River~
+The river running in from the north makes you fight to keep from being carried
+southward. The forest east of here is a mirror opposite of the gloomy swamp
+to the west. 
+~
+122 4194308 0 0 0 7
+D0
+~
+~
+0 -1 12216
+D1
+~
+~
+0 0 9646
+D2
+~
+~
+0 -1 12231
+D3
+~
+~
+0 -1 12222
+S
+#12224
+The Swamp~
+To the north and west a forest marks the edge of the swamp. Dark waters
+swirl lazily about to the southeast.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 0 9230
+D1
+~
+~
+0 -1 12225
+D2
+~
+~
+0 -1 12232
+D3
+~
+~
+0 0 9241
+S
+#12225
+The Swamp~
+   Dark stagnant water extends in every direction. There is very little
+ground visible in any direction. Coming from all around you are the sounds 
+of the local wildlife.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12217
+D1
+~
+~
+0 -1 12226
+D2
+~
+~
+0 -1 12233
+D3
+~
+~
+0 -1 12224
+S
+#12226
+The Swamp~
+   Dark stagnant water extends in every direction. There is very little
+ground visible in any direction. Coming from all around you are the sounds 
+of the local wildlife.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12218
+D1
+~
+~
+0 -1 12227
+D2
+~
+~
+0 -1 12234
+D3
+~
+~
+0 -1 12225
+S
+#12227
+The Swamp~
+   Dark stagnant water extends in every direction. There is very little
+ground visible in any direction. Coming from all around you are the sounds 
+of the local wildlife.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12219
+D1
+~
+~
+0 -1 12228
+D2
+~
+~
+0 -1 12235
+D3
+~
+~
+0 -1 12226
+S
+#12228
+The Swamp~
+   Razor grass is everywhere, it's tall stalks coming from under the dark
+surface of the water. It limits your sight to a few feet.  Exits are in
+every direction.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12220
+D1
+~
+~
+0 -1 12229
+D2
+~
+~
+0 -1 12236
+D3
+~
+~
+0 -1 12227
+S
+#12229
+The Swamp~
+   Razor grass is everywhere, it's tall stalks coming from under the dark
+surface of the water. It limits your sight to a few feet.  Exits are in 
+every direction.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12221
+D1
+~
+~
+0 -1 12230
+D2
+~
+~
+0 -1 12237
+D3
+~
+~
+0 -1 12228
+S
+#12230
+The Swamp~
+   The water here begins to slow and calm itself now that it's out of the fast-
+moving river. The shores are made up of floating algae deposits between roots
+of trees. The closer you get the more dense the foliage hanging from the trees
+becomes. Branches are slapping you in the face as you try to push them out of
+the way.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12222
+D1
+~
+~
+0 -1 12231
+D2
+~
+~
+0 -1 12238
+D3
+~
+~
+0 -1 12229
+S
+#12231
+The River~
+The river makes a boundary between the swampy marsh to the west and the
+luscious green forest to the east. The water flows swiftly in from the north   
+and threatens to sweep you southward.
+~
+122 4194308 0 0 0 7
+D0
+~
+~
+0 -1 12223
+D1
+~
+~
+0 0 9654
+D2
+~
+~
+0 -1 12239
+D3
+~
+~
+0 -1 12230
+S
+#12232
+The Swamp~
+To the west lies firmer ground housing a vast forest, but in all other 
+directions only the sight of black swamp water meets your eyes.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12224
+D1
+~
+~
+0 -1 12233
+D2
+~
+~
+0 -1 12242
+D3
+~
+~
+0 0 9252
+S
+#12233
+The Swamp~
+   The dark waters beneath you are teeming with life, most of it hungry. In
+all directions the swamp extends.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12225
+D1
+~
+~
+0 -1 12234
+D2
+~
+~
+0 -1 12243
+D3
+~
+~
+0 -1 12232
+S
+#12234
+The Swamp~
+   The dark waters beneath you are teeming with life, most of it hungry. In
+all directions the swamp extends.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12226
+D1
+~
+~
+0 -1 12235
+D2
+~
+~
+0 -1 12244
+D3
+~
+~
+0 -1 12233
+S
+#12235
+The Swamp~
+   The dark waters beneath you are teeming with life, most of it hungry. In
+all directions the swamp extends.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12227
+D1
+~
+~
+0 -1 12236
+D2
+~
+~
+0 -1 12245
+D3
+~
+~
+0 -1 12234
+S
+#12236
+The Swamp~
+   Beneath you, swamp water suddenly boils with noxious swamp gas. Holding your
+nose, you continue on.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12228
+D1
+~
+~
+0 -1 12237
+D2
+~
+~
+0 -1 12246
+D3
+~
+~
+0 -1 12235
+S
+#12237
+The Swamp~
+   The water here is relatively calm, and the insect life is beginning to
+outnumber you by about a hundred to one. Pulling your cloak tight over your
+unprotected skin, you keep moving.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12229
+D1
+~
+~
+0 -1 12238
+D2
+~
+~
+0 -1 12247
+D3
+~
+~
+0 -1 12236
+S
+#12238
+The Swamp~
+   The water here begins to slow and calm itself now that its out of the fast
+moving river. The shores are made up of floating algae deposits between roots
+of trees. The closer you get the more dense the foilage hanging from the trees
+becomes. Branches are slapping you in the face as you try to push them out of
+the way.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12230
+D1
+~
+~
+0 -1 12239
+D2
+~
+~
+0 -1 12248
+D3
+~
+~
+0 -1 12237
+S
+#12239
+The River~
+The river borders the swamp to the south and west, coming in from the north
+and continuing on to the east.       
+~
+122 8388612 0 0 0 7
+D0
+~
+~
+0 -1 12231
+D1
+~
+~
+0 -1 12240
+D2
+~
+~
+0 -1 12249
+D3
+~
+~
+0 -1 12238
+S
+#12240
+The River~
+The river twists south and west, flowing past you in a foam-flecked rage.
+~
+122 4194308 0 0 0 7
+D0
+~
+~
+0 0 9654
+D1
+~
+~
+0 0 9661
+D2
+~
+~
+0 -1 12250
+D3
+~
+~
+0 -1 12239
+S
+#12241
+The Swamp~
+You stand on the edge of a vast swamp. North and west of here the land is
+firmer, and giant ironwood trees rise into the air. The stench of rotting
+vegetation fills the air.                    
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 0 9252
+D1
+~
+~
+0 -1 12242
+D2
+~
+~
+0 -1 12251
+D3
+~
+~
+0 0 9259
+S
+#12242
+The Swamp~
+   Dark stagnant water extends in every direction. There is very little
+ground visible in any direction. Coming from all around you are the sounds 
+of the local wildlife.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12232
+D1
+~
+~
+0 -1 12243
+D2
+~
+~
+0 -1 12252
+D3
+~
+~
+0 -1 12241
+S
+#12243
+The Swamp~
+   Dark stagnant water extends in every direction. There is very little
+ground visible in any direction. 
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12233
+D1
+~
+~
+0 -1 12244
+D2
+~
+~
+0 -1 12253
+D3
+~
+~
+0 -1 12242
+S
+#12244
+The Swamp~
+   Dark stagnant water extends in every direction. There is very little
+ground visible in any direction.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12234
+D1
+~
+~
+0 -1 12245
+D2
+~
+~
+0 -1 12254
+D3
+~
+~
+0 -1 12243
+S
+#12245
+The Swamp~
+   Dark stagnant water extends in every direction. There is very little
+ground visible in any direction. Coming from all around you are the sounds 
+of the local wildlife.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12235
+D1
+~
+~
+0 -1 12246
+D2
+~
+~
+0 -1 12255
+D3
+~
+~
+0 -1 12244
+S
+#12246
+The Swamp~
+   Dark stagnant water extends in every direction. There is very little
+ground visible in any direction. Every now and then the boat runs up against
+underwater debris of some sort. Coming from all around you are the sounds 
+of the local wildlife.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12236
+D1
+~
+~
+0 -1 12247
+D2
+~
+~
+0 -1 4003
+D3
+~
+~
+0 -1 12245
+S
+#12247
+The Swamp~
+   Dark stagnant water extends in every direction. There is very little
+ground visible in any direction. Every now and then the boat runs up against
+underwater debris of some sort. Coming from all around you are the sounds 
+of the local wildlife.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12237
+D1
+~
+~
+0 -1 12248
+D2
+~
+~
+0 -1 12257
+D3
+~
+~
+0 -1 12246
+S
+#12248
+The Swamp~
+   To the east you hear the sounds of rushing water. The area you are entering
+looks as thought it is just begining to regrow. From the burnt husks of trees
+new life springs forth. Besides the sound of water from the east there is no
+noise that greets your ears. The swamp is suspiciously silent.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12238
+D1
+~
+~
+0 -1 12249
+D2
+~
+~
+0 -1 12258
+D3
+~
+~
+0 -1 12247
+S
+#12249
+The Swamp~
+To the north and east a river flows by, almost covering the sound
+of the the swamp creatures moving through the underbrush all around you.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12239
+D1
+~
+~
+0 -1 12250
+D2
+~
+~
+0 -1 12259
+D3
+~
+~
+0 -1 12248
+S
+#12250
+The River~
+The dark depths of the river flow under beneath you. To the west a swampy swath
+of land dominates the horizon, and to the east a great forest bathes the
+land in towering green foliage. The river continues north and south of here.
+~
+122 4194308 0 0 0 7
+D0
+~
+~
+0 -1 12240
+D1
+~
+~
+0 0 9667
+D2
+~
+~
+0 -1 12260
+D3
+~
+~
+0 -1 12249
+S
+#12251
+The Swamp~
+To the west a forest lies, but in all other directions the bleak waters of
+the swamp boil with hidden life.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12241
+D1
+~
+~
+0 -1 12252
+D2
+~
+~
+0 -1 12263
+D3
+~
+~
+0 0 9265
+S
+#12252
+The Swamp~
+To the south foxfire ignites as it escapes from beneath the swamp.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12242
+D1
+~
+~
+0 -1 12253
+D2
+~
+~
+0 -1 12264
+D3
+~
+~
+0 -1 12251
+S
+#12253
+The Swamp~
+Razor grass grows up from the depths of the black swamp, and rotted stumps
+make passage difficult. You long for dry land.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12243
+D1
+~
+~
+0 -1 12254
+D2
+~
+~
+0 -1 12265
+D3
+~
+~
+0 -1 12252
+S
+#12254
+The Swamp~
+A slight draft of warm wind brings the smell of ocean air to your nostrils. 
+All around you the swamp opens up into murky depths.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12244
+D1
+~
+~
+0 -1 12255
+D2
+~
+~
+0 -1 12266
+D3
+~
+~
+0 -1 12253
+S
+#12255
+The Swamp~
+You push through the dark swamp, searching for land.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12245
+D1
+~
+~
+0 -1 4003
+D2
+~
+~
+0 -1 12267
+D3
+~
+~
+0 -1 12254
+S
+#12256
+The Swamp~
+To the south you can see the roof of a small wooden shack. In all other
+directions lies only the swamp.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12246
+D1
+~
+~
+0 -1 12257
+D2
+~
+~
+0 -1 12268
+D3
+~
+~
+0 -1 12255
+S
+#12257
+The Swamp~
+To the south you can see the roof of a small wooden shack. In all other
+directions lies only the swamp.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12247
+D1
+~
+~
+0 -1 12258
+D2
+~
+~
+0 -1 12269
+D3
+~
+~
+0 -1 4003
+S
+#12258
+The Swamp~
+   To the east you can hear the sound of moving water, and to the southwest
+appears to be some sort of dwelling.  All is silent in this part of the
+swamp, and fire damage is evident.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12248
+D1
+~
+~
+0 -1 12259
+D2
+~
+~
+0 -1 12270
+D3
+~
+~
+0 -1 12257
+S
+#12259
+The Swamp~
+To the east a river marks the boundary between the swamp surrounding you
+and the forest on the other bank.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12249
+D1
+~
+~
+0 -1 12260
+D2
+~
+~
+0 -1 12271
+D3
+~
+~
+0 -1 12258
+S
+#12260
+The River~
+The river makes an 'S' curve here, bending southward just east of here, and
+flowing in from the north in a foamy white torrent.
+~
+122 8388612 0 0 0 7
+D0
+~
+~
+0 -1 12250
+D1
+~
+~
+0 -1 12261
+D2
+~
+~
+0 -1 12272
+D3
+~
+~
+0 -1 12259
+S
+#12261
+The River~
+The river bends here, flowing in from the west and heading southward into a 
+murky swamp. North of here a forest of gigantic proportions stretches into
+the sky.
+~
+122 4194308 0 0 0 7
+D0
+~
+~
+0 0 9667
+D1
+~
+~
+0 0 9672
+D2
+~
+~
+0 -1 12273
+D3
+~
+~
+0 -1 12260
+S
+#12262
+The Swamp~
+Murky swamp surrounds you in all directions, but there's a faint scent of
+salt water in the air.                     
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 0 9265
+D1
+~
+~
+0 -1 12263
+D2
+~
+~
+0 -1 12275
+D3
+~
+~
+0 0 9270
+S
+#12263
+The Swamp~
+The black water flows slowly beneath you, sometimes swirling faintly as 
+something disturbs the debris-dotted surface.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12251
+D1
+~
+~
+0 -1 12264
+D2
+~
+~
+0 -1 12276
+D3
+~
+~
+0 -1 12262
+S
+#12264
+The Swamp~
+The black water beneath you suddenly boils as a noxious gas bubbles to the 
+surface. Licks of foxfire burst in and out of existence.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12252
+D1
+~
+~
+0 -1 12265
+D2
+~
+~
+0 -1 12277
+D3
+~
+~
+0 -1 12263
+S
+#12265
+The Swamp~
+Murky swamp surrounds you in all directions, but the smell of salt water is 
+strong.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12253
+D1
+~
+~
+0 -1 12266
+D2
+~
+~
+0 -1 12278
+D3
+~
+~
+0 -1 12264
+S
+#12266
+The Swamp~
+To the southeast lies a stilt shack, and beyond it can be seen other dwellings
+of the same type. Nothing moves in the deserted village.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12254
+D1
+~
+~
+0 -1 12267
+D2
+~
+~
+0 -1 12279
+D3
+~
+~
+0 -1 12265
+S
+#12267
+The Swamp~
+To the south the side of a shack, built on stilts, blocks your passage. Beyond
+it can be seen more buildings, though you see no signs of life. In all other
+directions lies only more swamp.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12255
+D1
+~
+~
+0 -1 12268
+D3
+~
+~
+0 -1 12266
+S
+#12268
+The Swamp~
+To the south lies a desolate village, not much more than a bunch of shacks
+built on stilts. All is silent within.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 4003
+D1
+~
+~
+0 -1 12269
+D2
+~
+~
+0 -1 12281
+D3
+~
+~
+0 -1 12267
+S
+#12269
+The Swamp~
+To the south lies a deserted shanty town made of several wooden shacks built
+on stilts. No movement can be seen, and the swamp is deathly quiet here.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12257
+D1
+~
+~
+0 -1 12270
+D2
+~
+~
+0 -1 12282
+D3
+~
+~
+0 -1 12268
+S
+#12270
+The Swamp~
+To the southwest lies a deserted shanty town, composed of several wooden
+buildings built on stilts. In all other directions lies the swamp.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12258
+D1
+~
+~
+0 -1 12271
+D2
+~
+~
+0 -1 12283
+D3
+~
+~
+0 -1 12269
+S
+#12271
+The Swamp~
+You are between a rier to the northeast and a deserted shanty town to the
+southwest. In all other directions the stagnant swamp waters lie calm.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12259
+D1
+~
+~
+0 -1 12272
+D2
+~
+~
+0 -1 12284
+D3
+~
+~
+0 -1 12270
+S
+#12272
+The Swamp~
+A river borders you to the north and east, winding its way to the ocean
+far to the south.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12260
+D1
+~
+~
+0 -1 12273
+D2
+~
+~
+0 -1 12285
+D3
+~
+~
+0 -1 12271
+S
+#12273
+The River~
+The river takes a turn south of here, heading east and picking up speed.
+The swamp on either side of you makes you want to stick to the clear river.
+~
+122 4194308 0 0 0 7
+D0
+~
+~
+0 -1 12261
+D1
+~
+~
+0 0 9675
+D2
+~
+~
+0 -1 12286
+D3
+~
+~
+0 -1 12272
+S
+#12274
+The Swamp~
+The broken stumps of rotted trees thins to the south; through the fog you
+can see a clear blue ocean.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 0 9270
+D1
+~
+~
+0 -1 12275
+D2
+~
+~
+0 -1 12289
+D3
+~
+~
+0 0 9273
+S
+#12275
+The Swamp~
+Murky swamp surrounds you in all directions, but the smell of salt water is 
+strong.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12262
+D1
+~
+~
+0 -1 12276
+D2
+~
+~
+0 -1 12290
+D3
+~
+~
+0 -1 12274
+S
+#12276
+The Swamp~
+You stand in the middle of a vast swamp. Rotted tree stumps rest in the
+putrid quagmire beneath your feet.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12263
+D1
+~
+~
+0 -1 12277
+D2
+~
+~
+0 -1 12291
+D3
+~
+~
+0 -1 12275
+S
+#12277
+The Swamp~
+Murky swamp surrounds you in all directions, but the smell of salt water is 
+strong.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12264
+D1
+~
+~
+0 -1 12278
+D2
+~
+~
+0 -1 12292
+D3
+~
+~
+0 -1 12276
+S
+#12278
+The Swamp~
+Murky swamp surrounds you in all directions, but the smell of salt water is 
+strong.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12265
+D1
+~
+~
+0 -1 12279
+D2
+~
+~
+0 -1 12293
+D3
+~
+~
+0 -1 12277
+S
+#12279
+The Swamp~
+To the east lies the back of a small stilt shack, and beyond it you can see
+several buildings of the same type. Nothing moves in the deserted shanty town.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12266
+D2
+~
+~
+0 -1 12294
+D3
+~
+~
+0 -1 12278
+S
+#12280
+In a Stilt Shack~
+Light filters in from the doorway to the east and the cracks in the boards
+all around you. Once a human dwelling, you now see that this building is a
+nest of some kind... a nest for something very large.
+~
+122 0 0 0 0 0
+D1
+~
+~
+0 -1 12281
+S
+#12281
+Desolate village~
+All is silent in this seemingly deserted village. To the south a small patch
+of land marks the center of "town". A stilt shack opens to the west.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12268
+D1
+~
+~
+0 -1 12282
+D2
+~
+~
+0 -1 12296
+D3
+~
+~
+0 -1 12280
+S
+#12282
+Desolate village~
+To the south lies the side of wooden shack. Ankle-deep water flows here, but
+to the southwest the ground is a little higher.
+~
+122 0 0 0 0 6
+D0
+~
+~
+0 -1 12269
+D1
+~
+~
+0 -1 12283
+D3
+~
+~
+0 -1 12281
+S
+#12283
+The Swamp~
+To the west lies a deserted shanty town, made up of a few wooden stilt
+shacks grouped around what obviously used to be a fresh-water spring. Nothing
+moves within.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12270
+D1
+~
+~
+0 -1 12284
+D2
+~
+~
+0 -1 12298
+D3
+~
+~
+0 -1 12282
+S
+#12284
+The Swamp~
+To the northeast you can hear the sound of a running river, and to the west
+can barely be seen the top of some sort of dwelling. All around, the swamp
+is silent.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12271
+D1
+~
+~
+0 -1 12285
+D2
+~
+~
+0 -1 12299
+D3
+~
+~
+0 -1 12283
+S
+#12285
+The Swamp~
+To the east a river rages, bordered on it's other side by a thick forest. In
+all other directions lies a forbidding swamp.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12272
+D1
+~
+~
+0 -1 12286
+D2
+~
+~
+0 -1 12300
+D3
+~
+~
+0 -1 12284
+S
+#12286
+The River~
+The river takes a turn here, coming in from the north and heading east
+out of the swamp and into a seemingly endless sea that looks quite inviting,
+even from this distance.   
+~
+122 8388612 0 0 0 7
+D0
+~
+~
+0 -1 12273
+D1
+~
+~
+0 -1 12287
+D2
+~
+~
+0 -1 12301
+D3
+~
+~
+0 -1 12285
+S
+#12287
+The River~
+The river sweeps eastward into a clear blue sea, pouring in from the west
+and spilling over its banks to create a boggy marsh to the south.
+~
+122 8388612 0 0 0 7
+D0
+~
+~
+0 0 9675
+D1
+~
+~
+0 -1 12288
+D2
+~
+~
+0 -1 12302
+D3
+~
+~
+0 -1 12286
+S
+#12288
+River Delta~
+The river pours madly into the ocean east of here, churning wildy until
+it disperses among the calmer waves of the sea. A swampy marsh lies to
+the south, and to the west the river continues.
+~
+122 8388612 0 0 0 7
+D0
+~
+~
+0 0 9676
+D1
+The ocean lies in that direction.
+~
+~
+0 0 21533
+D2
+~
+~
+0 -1 12303
+D3
+~
+~
+0 -1 12287
+S
+#12289
+The Swamp~
+A warm ocean breeze wafts in from the southwest, where you spy a vast expanse
+of ocean. To the north and east lies more black swamp land. 
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12274
+D1
+~
+~
+0 -1 12290
+D2
+~
+~
+0 -1 12304
+D3
+~
+~
+0 0 9275
+S
+#12290
+The Swamp~
+To the south you can see the clear blue water of the ocean. In all other
+directions the swamp surrounds you.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12275
+D1
+~
+~
+0 -1 12291
+D2
+~
+~
+0 -1 12305
+D3
+~
+~
+0 -1 12289
+S
+#12291
+The Swamp~
+To the south you spy a glimpse of a clear blue ocean. In all other directions
+lies the swamp.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12276
+D1
+~
+~
+0 -1 12292
+D2
+~
+~
+0 -1 12306
+D3
+~
+~
+0 -1 12290
+S
+#12292
+The Swamp~
+To the south you spy a glimpse of a clear blue ocean. In all other directions
+lies the swamp.                                         
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12277
+D1
+~
+~
+0 -1 12293
+D2
+~
+~
+0 -1 12307
+D3
+~
+~
+0 -1 12291
+S
+#12293
+The Swamp~
+To the south you spy a glimpse of a clear blue ocean. In all other directions
+lies the swamp.                                        
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12278
+D1
+~
+~
+0 -1 12294
+D2
+~
+~
+0 -1 12308
+D3
+~
+~
+0 -1 12292
+S
+#12294
+The Swamp~
+A snake, about as long as you are tall, slithers through the shallow water
+and disappears into a clump of peat. Around, the swamp is silent. To the east
+lies the back of a stilt shack.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12279
+D2
+~
+~
+0 -1 12309
+D3
+~
+~
+0 -1 12293
+S
+#12295
+In a Stilt Shack~
+Light filters in from the doorway to the east and the cracks in the boards
+all around you. Once a human dwelling, you now see that this building is a
+nest of some kind... a nest for something very large.
+~
+122 0 0 0 0 0
+D1
+~
+~
+0 -1 12296
+S
+#12296
+Desolate village~
+This looks like it used to be the center of the small, ruined village. A pile
+of stones marks where the well the inhabitants used to get clean water from. 
+It's cover is still intact. Wooden stilt shacks stand to the northwest, west
+and east. To the south you can catch a glimpse of ocean.
+~
+122 4 0 0 0 1
+D0
+~
+~
+0 -1 12281
+D1
+~
+~
+0 -1 12297
+D2
+~
+~
+0 -1 12311
+D3
+~
+~
+0 -1 12295
+D5
+~
+cover stones well~
+1 0 12335
+E
+stones well cover~
+The well cover looks like it could be opened.
+~
+S
+#12297
+In a Stilt Shack~
+Light filters in from the doorway to the west and the cracks in the boards
+all around you. Once a human dwelling, you now see that this building is a
+nest of some kind... a nest for something very large.       
+~
+122 0 0 0 0 0
+D3
+~
+~
+0 -1 12296
+S
+#12298
+The Swamp~
+To the west lies the back of a wooden shanty, built on sturdy wooden stilts
+that are now splintered with age. In all other directions lies the bleak swamp.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12283
+D1
+~
+~
+0 -1 12299
+D2
+~
+~
+0 -1 12313
+S
+#12299
+The Swamp~
+To the west you spy the roof of some sort of dwelling. A hot sea breeze blows
+by constantly, warding off the odor of the stagnant swamp all around you.    
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12284
+D1
+~
+~
+0 -1 12300
+D2
+~
+~
+0 -1 12314
+D3
+~
+~
+0 -1 12298
+S
+#12300
+The Swamp~
+To the northeast lies a river, across which you can see a lush green forest
+that contrasts well with the bleak swamp surrounding you.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12285
+D1
+~
+~
+0 -1 12301
+D2
+~
+~
+0 -1 12315
+D3
+~
+~
+0 -1 12299
+S
+#12301
+The Swamp~
+To the north a river makes a sharp bend eastward. Dismal swamp surrounds
+you in all other directions.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12286
+D1
+~
+~
+0 -1 12302
+D2
+~
+~
+0 -1 12316
+D3
+~
+~
+0 -1 12300
+S
+#12302
+The Swamp~
+You are just inland on a penisulu jutting out into the sea. TO the north a
+river pours into the ocean that surrounds you to the northeast and south.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12287
+D1
+~
+~
+0 -1 12303
+D2
+~
+~
+0 -1 12317
+D3
+~
+~
+0 -1 12301
+S
+#12303
+The Swamp Along the Coast~
+You are just south of the river delta that is formed as the river pours into
+the ocean to the east. West of here the light is sucked into the blackness
+of the swamp.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12288
+D1
+The ocean lies in that direction.
+~
+~
+0 0 21570
+D2
+~
+~
+0 -1 12318
+D3
+~
+~
+0 -1 12302
+S
+#12304
+The Swamp Along the Coast~
+The swamp meets the ocean here, the murky water spilling into clearer depths.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12289
+D1
+~
+~
+0 -1 12305
+D3
+~
+~
+0 0 9276
+S
+#12305
+The Swamp Along the Coast~
+The coast stretches out the east and west, forming an indistinctive border
+between the ocean to the south and the swamp to the north.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12290
+D1
+~
+~
+0 -1 12306
+D2
+~
+~
+0 0 12432
+D3
+~
+~
+0 -1 12304
+S
+#12306
+The Swamp Along the Coast~
+To the southwest the ocean surf placidly laps the murky swamp water. 
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12291
+D1
+~
+~
+0 -1 12307
+D2
+~
+~
+0 -1 12319
+D3
+~
+~
+0 -1 12305
+S
+#12307
+The Swamp~
+A small peninsula of land is formed to the south, a jut of swamp land sur-
+rounded by clear blue ocean.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12292
+D1
+~
+~
+0 -1 12308
+D2
+~
+~
+0 -1 12320
+D3
+~
+~
+0 -1 12306
+S
+#12308
+The Swamp~
+To the south you can see the ocean. The swamp leers at you dismally from the
+north.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12293
+D1
+~
+~
+0 -1 12309
+D2
+~
+~
+0 -1 12321
+D3
+~
+~
+0 -1 12307
+S
+#12309
+The Swamp~
+To the south a break in the fog-laden trees of the swamp reveals a sparkling
+blue ocean.
+To the northeast several wooden shacks are built on stilts.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12294
+D1
+~
+~
+0 -1 12310
+D2
+~
+~
+0 -1 12322
+D3
+~
+~
+0 -1 12308
+S
+#12310
+The Swamp~
+To the south a break in the fog-laden trees of the swamp reveals a sparkling
+blue ocean. To the north lies the side of a wooden shack, built on stilts. It 
+looks long deserted.
+~
+122 0 0 0 0 7
+D1
+~
+~
+0 -1 12311
+D2
+~
+~
+0 -1 12323
+D3
+~
+~
+0 -1 12309
+S
+#12311
+The Swamp~
+To the south a break in the fog-laden trees of the swamp reveals a sparkling
+blue ocean. To the north lies the center of a what used to be an old stilt
+town, though most of it now must lie under water.     
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12296
+D1
+~
+~
+0 -1 12312
+D2
+~
+~
+0 -1 12324
+D3
+~
+~
+0 -1 12310
+S
+#12312
+The Swamp~
+To the south a break in the fog-laden trees of the swamp reveals a sparkling
+blue ocean.
+To the north the side of a stilt-shack rises slightly above the water 
+line, and several other dwellings of the same type can be seen just past it.
+~
+122 0 0 0 0 7
+D1
+~
+~
+0 -1 12313
+D2
+~
+~
+0 -1 12325
+D3
+~
+~
+0 -1 12311
+S
+#12313
+The Swamp~
+To the northwest a stilt shanty marks the corner or a long-deserted village. To
+the south you catch a glimpse of the ocean, and in all other directions lies
+more swamp.           
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12298
+D1
+~
+~
+0 -1 12314
+D2
+~
+~
+0 -1 12326
+D3
+~
+~
+0 -1 12312
+S
+#12314
+The Swamp~
+To the south you can see the ocean through the swamp brush, but in all other 
+directions only gnarled stumps and rotten water greets your eyes.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12299
+D1
+~
+~
+0 -1 12315
+D2
+~
+~
+0 -1 12327
+D3
+~
+~
+0 -1 12313
+S
+#12315
+The Swamp~
+To the south you can see the ocean through the swamp brush, but in all other 
+directions only gnarled stumps and rotten water greets your eyes.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12300
+D1
+~
+~
+0 -1 12316
+D2
+~
+~
+0 -1 12328
+D3
+~
+~
+0 -1 12314
+S
+#12316
+The Swamp Along the Coast~
+To the southeast the ocean waves roll in, mixing with the dark water of the
+swamp here and carrying it out to sea. To the northwest the great swamp
+rises before you.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12301
+D1
+~
+~
+0 -1 12317
+D2
+~
+~
+0 -1 12329
+D3
+~
+~
+0 -1 12315
+S
+#12317
+The Swamp Along the Coast~
+You are at the very edge of the ocean, where the swampy marsh turns into pure
+saltwater with no real beach visible. The ocean stretches to the horizon
+to the east, and swamp the west.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12302
+D1
+~
+~
+0 -1 12318
+D2
+~
+~
+0 0 22351
+D3
+~
+~
+0 -1 12316
+S
+#12318
+The Swamp Along the Coast~
+You are just west of the ocean, on the swampy coast that meanders to the 
+northeast where you see a river outlet, and to the southwest where the coast
+curves out of sight. West of here lies a vast boggy marsh.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12303
+D1
+The ocean lies to the east.
+~
+~
+0 0 21607
+D2
+~
+~
+0 0 22350
+D3
+~
+~
+0 -1 12317
+S
+#12319
+The Swamp Along the Coast~
+The coast forms a indistinctive border between the swamp to the north and the
+ocean that surrounds you on the wouth and west sides of this murky peninsula.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12306
+D1
+~
+~
+0 -1 12320
+D2
+~
+~
+0 0 12427
+D3
+~
+~
+0 0 12432
+S
+#12320
+The Swamp Along the Coast~
+The coast here is not much more than an indistinct line between the clear
+water of the ocean to the south, and the murky slime of the swamp that
+surrounds you in all other directions.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12307
+D1
+~
+~
+0 -1 12321
+D2
+~
+~
+0 0 12423
+D3
+~
+~
+0 -1 12319
+S
+#12321
+The Swamp Along the Coast~
+The coast here is not much more than an indistinct line between the clear
+water of the ocean to the south, and the murky slime of the swamp that
+surrounds you in all other directions.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12308
+D1
+~
+~
+0 -1 12322
+D2
+~
+~
+0 0 12419
+D3
+~
+~
+0 -1 12320
+S
+#12322
+The Swamp Along the Coast~
+The swamp ends to the south at the shores of a clear blue ocean. To the
+north the swamp stretchs without ending.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12309
+D1
+~
+~
+0 -1 12323
+D2
+~
+~
+0 -1 12330
+D3
+~
+~
+0 -1 12321
+S
+#12323
+The Swamp~
+The swamp ends to the south at the shores of a clear blue ocean. To the
+north the swamp stretchs without ending.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12310
+D1
+~
+~
+0 -1 12324
+D2
+~
+~
+0 -1 12331
+D3
+~
+~
+0 -1 12322
+S
+#12324
+The Swamp~
+The swamp ends to the south at the shores of a clear blue ocean. To the
+north the swamp stretchs without ending.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12311
+D1
+~
+~
+0 -1 12325
+D2
+~
+~
+0 -1 12332
+D3
+~
+~
+0 -1 12323
+S
+#12325
+The Swamp~
+The swamp ends to the south at the shores of a clear blue ocean. To the
+north the swamp stretchs without ending.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12312
+D1
+~
+~
+0 -1 12326
+D2
+~
+~
+0 -1 12333
+D3
+~
+~
+0 -1 12324
+S
+#12326
+The Swamp Along the Coast~
+The waters of the ocean lap the shores to the southeast. In all other dir-
+ections the swamp stirs lazily.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12313
+D1
+~
+~
+0 -1 12327
+D2
+~
+~
+0 -1 12334
+D3
+~
+~
+0 -1 12325
+S
+#12327
+The Swamp Along the Coast~
+The salty marsh turns into plain saltwater here, as the waves of the ocean
+to the south become the swampy land that surrounds you in all other directions.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12314
+D1
+~
+~
+0 -1 12328
+D2
+~
+~
+0 0 22356
+D3
+~
+~
+0 -1 12326
+S
+#12328
+The Swamp Along the Coast~
+The salty marsh turns into plain saltwater here, as the waves of the ocean
+to the south become the swampy land that surrounds you in all other directions.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12315
+D1
+~
+~
+0 -1 12329
+D2
+~
+~
+0 0 22355
+D3
+~
+~
+0 -1 12327
+S
+#12329
+The Swamp Along the Coast~
+The salty marsh turns into plain saltwater here, as the waves of the ocean
+to the southeast become the swampy land that lies to the north and west.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12316
+D1
+~
+~
+0 0 22351
+D2
+~
+~
+0 0 22354
+D3
+~
+~
+0 -1 12328
+S
+#12330
+The Swamp Along the Coast~
+The water of the ocean to the south and west laps against the murkier slime
+the swamp here, forming an almost indistinct border to the bog to the north
+and east.                                    
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12322
+D1
+~
+~
+0 -1 12331
+D2
+~
+~
+0 0 12401
+D3
+~
+~
+0 0 12419
+S
+#12331
+The Swamp Along the Coast~
+The salty marsh turns into plain saltwater here, as the waves of the ocean
+to the south become the swampy land that surrounds you in all other directions.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12323
+D1
+~
+~
+0 -1 12332
+D2
+~
+~
+0 0 12402
+D3
+~
+~
+0 -1 12330
+S
+#12332
+The Swamp Along the Coast~
+The salty marsh turns into plain saltwater here, as the waves of the ocean
+to the south become the swampy land that surrounds you in all other directions.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12324
+D1
+~
+~
+0 -1 12333
+D2
+~
+~
+0 0 12403
+D3
+~
+~
+0 -1 12331
+S
+#12333
+The Swamp Along the Coast~
+The salty marsh turns into plain saltwater here, as the waves of the ocean
+to the south become the swampy land that surrounds you in all other directions.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12325
+D1
+~
+~
+0 -1 12334
+D2
+~
+~
+0 0 12404
+D3
+~
+~
+0 -1 12332
+S
+#12334
+The Swamp Along the Coast~
+The ocean reaches inland here, creating a small putrid bay to the east where
+it borders against the swamp. To the south the ocean is more clear, the
+antithesis of the swamp to the north and west.
+~
+122 0 0 0 0 7
+D0
+~
+~
+0 -1 12326
+D1
+~
+~
+0 0 22356
+D2
+~
+~
+0 0 12405
+D3
+~
+~
+0 -1 12333
+S
+#12335
+Under the Swamp~
+  As you enter this room, the first thing you notice is the practically
+unbearable stench; you almost retch at the thought of what could make such a
+foul odor.  The second thing you notice is the source of the smell -- bodies,
+at least twenty of them, with their rib cages ripped open so wide they look
+like some twisted mockery of angels. There is nothing inside the carcasses,
+their insides are strewn across a bloody stone altar in the center of the
+room.
+~
+122 1048652 0 0 0 0
+D4
+~
+cover secret door~
+1 0 12296
+E
+altar~
+It's covered in dried blood, but under the crust you can see magickal runes
+and sigils all over the altar.
+~
+S
+$~

@@ -1,0 +1,171 @@
+#1202
+The Ice Box~
+   Here lie the frozen remains of mud players who just couldn't play with
+the other kids in the sandbox.
+~
+12 656040 0 0 0 0
+S
+#1204
+The Board Room Of The Immortals~
+   This large room is well-decorated, and lit from above by a soft
+magical glow of no particular origin.  Scattered around the room are
+comforable chairs and piles of furs of various dimension, and in the
+very middle there is a huge oaken table that shimmers in an odd manner.
+A large picture window looks down over the whole world, showing the
+exploits of the many intrepid mortals.  A spiral staircase leads down
+to another part of this room.  There is a sign hovering in the 
+awesomeness of this room.
+~
+12 520 0 0 0 0
+D5
+You see the lower part of this room, and the normal board.
+~
+~
+0 -1 1205
+E
+sign~
+type help mail if you don't know how to use the dang mailman
+~
+S
+#1205
+The Lower Board Room of the Immortals~
+  This room is a close twin to the main Immortal Board Room at the top of the
+spiral staircase.  Your mind and body cannot help but relax as you gaze
+around this comfortable room, and hope that you will be able to linger here
+a while.  Many green plants line a marble stairway that leads down to the 
+Temple of Kir Drax'in.
+~
+12 520 0 0 0 0
+D4
+You see the main Immortal Board Room at the top of the spiral staircase
+~
+~
+0 -1 1204
+D5
+You see the Temple of the Cross far below.
+~
+temple stairway stairs~
+0 -1 8004
+S
+#1293
+Steam Chamber~
+  You come to rest in a large circular chamber whose ceiling extends upward far
+beyond your range of vision.  The smooth rock walls curve slowly upward in a
+cork-screw fashion, allowing the the massive amount of steam rushing in from the
+south to be vented upwards into the darkness.  A large ring of metal has been
+set into the floor of this room, binding the elemental energy that dwells here.
+~
+12 520 0 0 0 0
+D2
+~
+~
+0 0 1294
+E
+ring~
+The metal ring is covered in magical runes clearly designed to bind certain
+energies and beings and prevent them from leaving this place.
+~
+S
+#1294
+The Vent~
+  You look up to see a massive fissure in the rock wall above you venting a
+torrent of hot steam in massive waves directly towards you!  Unable to react, 
+you find yourself lifted off of your feet and hurled backward away from the fissure
+with hot steam and water scalding your flesh almost instantaneously.  You begin
+to loose conciousness - this may be the end.
+~
+12 2097800 0 0 0 13
+D0
+~
+~
+0 0 1293
+D4
+~
+~
+0 0 1295
+S
+#1295
+Blackness~
+  You step into total darkness and vertigo immediately sets in.  Without any
+feeling or sense of direction it is impossible to know if you are standing still
+or falling rapidly to your doom.  Desperately, you grope around and cry out into
+the blackness to no avail until suddenly you feel bathed in the sound and fury
+of hot, rushing air...
+~
+12 67109517 0 0 0 9
+D3
+~
+~
+0 0 1296
+D5
+~
+~
+0 0 1294
+S
+#1296
+Lava Tube~
+The narrow lava tube abruptly ends here, expanding into a chamber so large that
+you cannot see the walls, floor or ceiling.  Hot wind rushes quickly somewhere
+below your perch on a small ledge at the precipice of this cavern - you can feel
+the radiant heat on your skin and hear the drone of the wind as it passes over
+the rocks below.  Inky blackness surrounds you.
+~
+12 653 0 0 0 0
+D0
+~
+~
+0 0 1297
+D1
+You peer into a black void deeper than you have ever seen.
+~
+~
+0 0 1295
+S
+#1297
+Lava Tube~
+  The narrow walls of the lava tube grip your body claustrophobically as you 
+slide along them.  The tube seems to follow a north-south path, gradually sloping
+southward, where you can hear the sound of wind rushing along the rock walls.
+~
+12 781 0 0 0 0
+D0
+~
+~
+0 0 1298
+D2
+~
+~
+0 0 1296
+S
+#1298
+Lava Tube~
+  The lava tube here is incredibly narrow, forcing you to hold your breath in
+an effort to squeeze through.  The walls of volcanic rock are sharp and unyielding
+against your exposed flesh.  The tube slopes upward to the north and downward to
+the south.
+~
+12 909 0 0 0 0
+D0
+~
+~
+0 0 1299
+D2
+~
+~
+0 0 1297
+S
+#1299
+Lava Tube~
+  You stand in a small, spherical cavern made up of hard, black rock.
+Your surmise that this must be the end of an ancient lava tube.  The rock walls
+of the cavern and slighly shiny and shimmer in the meager light your lanterns
+provide. The only apparent path is that of the old lava tube, a smooth and
+narrow passage that drops away to your south.
+~
+12 262861 0 0 0 0
+D2
+~
+~
+0 0 1298
+S
+$~

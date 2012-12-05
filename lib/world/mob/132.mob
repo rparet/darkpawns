@@ -1,0 +1,64 @@
+#13333
+monk Wind~
+the monk~
+A large monk stands here, guarding the shrine of Wind.
+~
+He is a tall, ancient man. He wears long, flowing robes, and
+is quite average in size. He looks so peaceful and harmless.
+~
+25370 0 0 0 12424 0 0 0 0 E
+20 -3 -10 20d5+220 13d4+13
+0 35000
+8 8 1
+BareHandAttack: 13
+Race: 19
+Noise: You hear wind whistling nearby.
+E
+#13342
+merman fish man Water~
+a merman~
+A large fish-man is here, guarding the shrine of Water.
+~
+It looks, err, unfinished.
+~
+25370 0 0 0 12424 0 0 0 0 E
+20 0 -10 20d5+250 13d4+13
+0 35000
+8 8 1
+BareHandAttack: 2
+Race: 19
+E
+#13344
+priestess Fire~
+the Priestess of Fire~
+The Priestess of Fire stands here, harmonizing with a blue flame.
+~
+She's gorgeous! The priestess has long, red hair that flows halfway
+down her back. She smiles briefly at you before continuing to mingle
+continuing her chanting among the flames, not even breaking a sweat.
+~
+25370 0 0 0 12424 0 0 0 0 E
+20 0 -10 20d5+210 13d4+13
+0 35000
+8 8 2
+BareHandAttack: 12
+Race: 19
+Noise: You hear the sounds of a fire roaring in the distance.
+E
+#13351
+serpent Earth~
+the Earth Serpent~
+A large serpent slithers about the shrine protectively.
+~
+The Earth Serpent is a long, slender snake, with hideous fangs and a long,
+forked tongue. It hisses at you with pure content.
+~
+25370 0 0 0 12424 0 0 0 0 E
+20 2 -10 20d5+210 13d4+13
+0 35000
+8 8 2
+BareHandAttack: 4
+Race: 19
+Noise: A faint hissing noise comes from somewhere nearby.
+E
+$

@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1523"
+   name=""
+   committed-date="2008-06-20T20:24:47.938361Z"
+   url="file:///var/svn/trunk/2.2/lib/world/wld"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1368"
+   name="57.wld"
+   text-time="1999-01-01T19:24:00.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="c22354bbb41e1623b789d0a3e89923ed"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="93.wld"
+   text-time="1999-01-01T19:24:00.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="db464573268024a7b959070682e5ad26"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="58.wld"
+   text-time="1999-01-01T19:24:00.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="ffc630bb3365df6e8695004ec64f91b6"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="94.wld"
+   text-time="1999-01-01T19:24:00.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="68ac3b0a473916461a119834a1fdce5f"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="95.wld"
+   text-time="1999-01-01T19:24:00.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="c34433a6e4f0f5278cd5ec56875d1f2f"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="200.wld"
+   text-time="2004-05-08T10:09:36.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="1a3384e91cf3ea00b88cac3928e5a2a0"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="99.wld"
+   text-time="2008-01-14T23:22:13.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="2065ec3983380d8ee1d4faae8d8f3c91"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="urgats_old.wld"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="bc9d8eaf99a01d9467a44e723208c92a"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="121.wld"
+   text-time="2005-10-01T00:56:14.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d86e506c2cd6850b22c11cc7fa422d7c"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="203.wld"
+   text-time="2008-01-11T18:51:00.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="c7fc4b6a59089d7ff2572714071620e0"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="122.wld"
+   text-time="2002-05-27T02:42:17.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="2012b22e75876348d9cd848964294352"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="160.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="324fb0310d2ef2e27ea86e87429460f0"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="124.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f1d57807125c7ed557fbc5e50f889973"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="161.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="40d22570e3fc5c4c77e8486241c33f8f"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="125.wld"
+   text-time="2008-01-16T19:35:05.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="67954352afb2c135a7182df7b3eb45b2"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="126.wld"
+   text-time="1999-05-27T09:10:36.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="2834033208ab83597382c2b46a528de4"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="162.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="af62de09db539fb2cc289b95e2e66011"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="127.wld"
+   text-time="1999-05-05T15:37:00.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="2e8124fef50a49eb3b8a88cf3439b71b"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="163.wld"
+   text-time="2000-02-28T04:51:41.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f0d2f5f215c78dc0b031cb603322020a"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="128.wld"
+   text-time="2003-06-04T01:17:46.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="a0db0ec488d42fe589102937233f7008"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="164.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d02edd10dabcc9d48ca4c14e2f97eb7b"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="129.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="95d16122aba33a77d00aa89c7c1efdad"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="165.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="051a272f0863edfe61d861c519f188e6"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="21.wld"
+   text-time="2002-10-13T10:08:23.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="4b9ec9aea0ca9ca9d22864d362a6c584"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="25.wld"
+   text-time="2002-12-17T02:46:23.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="445a417f36fcf9ff1e9963f9406ff013"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1523"
+   name="27.wld"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="09e017da97f423d0fdd7cf2c0e8d19da"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1449"
+   name="0.wld"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="0443523e107f0533a234dedd04580529"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="1.wld"
+   text-time="2000-02-28T04:51:19.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="b75d213cf705cb5ac1658d9d160954c2"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="212.wld"
+   text-time="2008-03-13T20:34:22.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="2804cb2f55209858f4e0056a85433321"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="131.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="c59c2a2638831665b95423ce67e0743c"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="132.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="4baf57008b15308b73805268ac23456e"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="213.wld"
+   text-time="1999-01-01T19:23:59.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d8f8eaae626bbd523b811194a521d38e"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1449"
+   name="214.wld"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="218f46ffcc93be978b2e7ac16cd1df55"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="196.wld.bak"
+   text-time="1999-12-01T05:17:51.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="18ed818944d67f3be8c741a5e6dfad46"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="index.mini"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="fd01907f0a8e60db5d76db40a52f3540"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="wldfilt"
+   text-time="1999-01-01T19:24:01.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="0f518d0f7455e84c932ad044af35b637"
+   last-author="rparet"
+   kind="file"
+   prop-time="2008-04-16T20:06:20.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="31.wld"
+   text-time="2001-11-24T03:36:18.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="80704f84c2e764a5a39d6751c1884414"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="33.wld"
+   text-time="1999-01-01T19:23:59.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="4b88fe6dc295f4ceeac51443b222ffb7"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="34.wld"
+   text-time="1999-01-01T19:23:59.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="cf3edb19af39a30bc920851b236bace6"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="70.wld"
+   text-time="2000-02-28T04:51:45.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="4417812d58ee253392e79a4de27446d3"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="35.wld"
+   text-time="2003-06-04T01:17:45.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="473e14e144a8a345f2cd59ad1651dbc0"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="36.wld"
+   text-time="2008-03-26T19:34:39.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="1612c83446f684231cbb5b65fbcb3ad4"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="80.new"
+   text-time="1999-01-01T19:24:00.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="c2b169a2e80c1128b8aa5b37622e47d0"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="79.wld"
+   text-time="2008-02-04T05:12:14.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="bc96fb3f0942e3bb10cb2ca9febde8bd"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="100.wld"
+   text-time="2001-05-25T23:56:41.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="cb0cef8d7aa5ea415497f605702c3451"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="300.wld"
+   text-time="1999-01-01T19:23:59.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="dc6d91ae543fc6ed7b56c27e0fd1b772"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="301.wld"
+   text-time="1999-01-01T19:23:59.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="87c5fcd8d2a423b6dfaeaf6d6fac7b35"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="140.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="399b5666f4c10f3c00f98b999ad1bda5"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="302.wld"
+   text-time="1999-01-01T19:23:59.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="95c9c49551c75c9d38be92f25eab7db0"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="141.wld"
+   text-time="2003-09-04T04:27:07.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="951f528bb821ceae2cedeb0762511498"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="303.wld"
+   text-time="1999-01-01T19:23:59.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f1da91e17d0e740d1bfce99c34416148"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="142.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="86761521caa10af3f6d91724b30bd45d"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="223.wld"
+   text-time="2008-03-13T14:29:39.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="50427a410f4d8be73b7f53cdd7056b07"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="143.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="475ef51766555924fe05cb5a4073e7dc"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="180.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="85e1d0ac480c077ecf6dc737be402241"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="144.wld"
+   text-time="2003-03-06T23:32:37.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="da6e2ce4a14e6ff9564648a9c9390b17"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1523"
+   name="225.wld"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="4a669c80590fd424cb88b475224c0e5b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="181.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="1c0c86f59c79e2dcf0d23862111ea212"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="145.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="b4f83914ead7005b7357b613bafbf7be"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="182.wld"
+   text-time="2008-03-20T19:19:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="33480d05a1f31581bb97c1852bebfb13"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="183.wld"
+   text-time="2008-03-14T02:28:39.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="560518cb4d2c0ad497687a15c6116fba"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="renum.pl"
+   text-time="1999-11-20T21:10:46.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="8d9860997dfb1a163a9d58b78fe07406"
+   last-author="rparet"
+   kind="file"
+   prop-time="2008-04-16T20:06:20.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="184.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="5939ab9e1f65c687a0597852b4d3d0fb"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="186.wld"
+   text-time="2004-02-28T05:11:30.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="32399528fe436e9d3499fbb8181c03c3"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1449"
+   name="187.wld"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="c811bebe884e41430597f1563eed74e5"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1449"
+   name="188.wld"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="429c083ea215df3d387d50df382e78a0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="40.wld"
+   text-time="2000-02-28T04:52:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="371476d269440cf2bd37c4facdfeb5c9"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="41.wld"
+   text-time="2008-01-07T06:00:06.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="e114d08f49b014c8b3a9d46f964a2c9c"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="42.wld"
+   text-time="1999-01-01T19:23:59.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="64936c1b0ed496de77e937ccdf1c9bbb"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1523"
+   name="43.wld"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="9d5e675da953075af6b9c66f6b20db97"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1499"
+   name="80.wld"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-22T16:16:36.233073Z"
+   checksum="f45a1f6a10d9c5922e2b74fe74276bca"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="45.wld"
+   text-time="2008-03-13T20:34:35.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="69c7ccd84814bcba6eed596b2fa23cf6"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="46.wld"
+   text-time="2008-03-13T20:34:28.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="a649782f459606f8e28c3538d7efe3d5"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="47.wld"
+   text-time="2008-01-14T19:49:07.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="e99a6d88db1455488ab0b2b7a5d47feb"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="48.wld"
+   text-time="2003-09-08T23:42:48.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="946e8082bf42ed642735288dd611c8ef"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="85.wld"
+   text-time="1999-08-09T15:50:18.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="688997abdda47771d7eda6e221814542"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="49.wld"
+   text-time="2003-06-09T09:48:25.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="9bc914e1d045daf606e18fd0414071c9"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="110.wld"
+   text-time="2008-01-30T01:14:22.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="2a1f73c63dfe4d76c13c16ff78e1e282"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="150.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="a7ae4d8523f611210f70c900a3f5519f"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1378"
+   name="151.wld"
+   text-time="2008-04-28T01:31:32.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="8ac67c8b36bdef44cfd5219e23e968f1"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:32.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="117.wld"
+   text-time="2002-11-16T22:03:45.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="057f5a5cb50f107818238827438d69d2"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="190.wld"
+   text-time="1999-01-01T19:23:59.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="ff3c996ec87a4773b7f0db1498f84450"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="191.wld"
+   text-time="2004-05-03T08:35:05.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="ce066253c29a9c388d9ffdfec6c0b3de"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="192.wld"
+   text-time="2008-03-25T20:05:24.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="76083c54ac35c312d1325d0edfd650d1"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="193.wld"
+   text-time="2008-01-11T19:53:38.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="5c0a8cad08be63021d6cd1128303c151"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="158.wld"
+   text-time="2000-05-26T20:01:55.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="1765df9b68f0f924cf618f1dbb6f4742"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="194.wld"
+   text-time="2000-03-08T04:28:33.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="abeff8c0bede895162ae4d8d525ac20d"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1523"
+   name="195.wld"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="bd3ad367eef05f91b5c4e31d214c8462"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="196.wld"
+   text-time="2008-03-22T13:17:48.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="7410f8799763b899dc7fbb28d1bfd34f"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="10.wld"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="1463394ee4a17c5bbe7f8002f63c6649"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="197.wld"
+   text-time="2002-12-15T01:28:02.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="7580cd0ef34b57bdcce6afcdd4713b07"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="198.wld"
+   text-time="2008-03-13T06:08:54.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="71966cda9c8e0139fd924c1700819c57"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1471"
+   name="index"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-21T15:38:21.418609Z"
+   checksum="c6cd5782e04594c60cc8cde9d9b01b03"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="12.wld"
+   text-time="2003-09-04T00:59:51.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f105a765cc0ccb50a4798a2f2e4522cc"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="199.wld"
+   text-time="1999-01-01T19:23:59.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="ad0c7fb14540073350aea6a0ee90e991"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="13.wld"
+   text-time="2003-08-28T06:09:44.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="ad4f9de84d66c5d5a8de11925a124f3b"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="50.wld"
+   text-time="2004-05-21T09:09:11.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="e0156830659fdb29ad7ebb30c997c6c5"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="51.wld"
+   text-time="1999-05-26T14:39:11.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="cc2add7b269cc33695546bf3685bb247"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="52.wld"
+   text-time="2000-06-05T05:07:11.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="6cd71809e6dc33cdb83dd26887487a5d"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="91.wld"
+   text-time="2008-02-12T16:09:40.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="6f71085b17f39beee68305900c49b285"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="55.wld"
+   text-time="1999-01-01T19:24:00.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="b4a03d2956314b2521049de74665c04f"
+   last-author="rparet"
+   kind="file"/>
+</wc-entries>

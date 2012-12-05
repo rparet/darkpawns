@@ -1,0 +1,266 @@
+#18100
+Vortex's Room~
+This room is in the shape of a hexagon. The ceiling towers many feet over
+your head. Within the room there is a large desk with many books lying 
+jumbled all over it. Off in one of the corners lies a trail backpack and
+some camping gear. In another corner lies some piantball gear. The walls 
+are covered in beautiful paintings of dragons which seem to move around at
+their own will.
+~
+181 24 0 0 0 0
+E
+books~
+   Out of this mess you see the titles "Modern Physics", "Perl5", 
+"Hitchhikers Guide To The Galaxy", and "DragonLance: The Chronicals".
+Those are just the visible ones.
+~
+S
+#18101
+Entrance Tunnel~
+   The lush vegitation of the surrounding area slowly vanishes as the 
+trail you stand on ends at large hole in the mountainside,  Peering
+within the hole you can hear and feel a strong wind flowing outward;
+its force nearly enough to drive you back.
+   The only exits from this area lead down the trail or into the hole,
+though the trail looks far more inviting.
+~
+181 0 0 0 0 5
+D5
+~
+~
+0 0 18102
+E
+cave hole~
+   The cave looks really dark and seems to made of a blackish rock. Your view
+penetrates only a few feet within it before the inky darkness absorbs all.
+~
+S
+#18102
+Inside the cave~
+   The wind seems to increase for a moment as you step from the trail
+onto the hard rock surface of the cave floor.  Listening closely, you 
+think the wind may be saying something.
+   The walls here, like the mountain itself, are made of a dark granite
+that seems to pulse as you stare at it.  
+   Above you, the cave steeps sharply upward, leading to the outside,
+while to the north, the cave leads deeper into the mountain.
+~
+181 264 0 0 0 0
+D0
+~
+~
+0 0 18103
+D4
+~
+~
+0 0 18101
+S
+#18103
+A Dark Tunnel~
+   The last traces of light are left behind as you enter this section of the
+tunnel.  Behind you, you can see the light at the end of the tunnel move
+further away as you work your way deeper into the darkness.  The walls and
+floor here seem to level out while scuffmarks on the floor indicate that
+this place may have been visited frequently.
+   The tunnels leads to the north and south.
+~
+181 265 0 0 0 0
+D0
+~
+~
+0 0 18104
+D2
+~
+~
+0 0 18102
+S
+#18104
+A Tunnel~
+   The floor gradually slopes downward as the walls smooth out to form
+a refined corridor.  Scuffs from boots and scratches from weapon mar
+the cave floor, evidence that this part of the cave gets quite alot of
+use.
+   It looks as though the cave ends to the north, where it dead-ends 
+against a flat granite wall.  As you examine the granite, you notice
+strange runes carved into it.
+   The tunnel leads to the south, away from the runes.
+~
+181 265 0 0 0 0
+D0
+   A large slab of rock blocks any further movement in this direction.
+~
+wall rock slab~
+1 0 18105
+D2
+~
+~
+0 0 18103
+E
+writing inscription runes~
+   Beware the passage beyond. All who pass are cursed for eternity.
+~
+S
+#18105
+Entrance passage~
+   The passage behind you vanishes, leaving you staring into abysmal 
+darkness.  All around you, the walls pulse with a inner power as it
+absorbs the light from your source.  The floor is flat and smooth,
+still marred with traffic while the walls bear sconces with unlit
+torches.
+   A thin layer of dust covers the floor, still bearing the prints
+of recent passage.  The prints lead to the west.
+~
+181 269 0 0 0 0
+D3
+~
+~
+0 0 18106
+S
+#18106
+A Long Passage~
+   A passage spreads out before you, a large mosaic pattern etched into
+the stone-tiled floor.  Faint light emanates from the between the tiles,
+casting an eerie luminescence about the area.  The shadows cast by your
+own movements makes the walls appear to move and sway.
+   The passage leads to the east and west.
+~
+181 264 0 0 0 0
+D1
+~
+~
+0 0 18105
+D3
+~
+~
+0 0 18107
+S
+#18107
+A Small Chamber~
+   You stand in a small room with a very high ceiling.  The chamber
+stretches some fifteen feet in diameter and upon every inch of the
+curved wall cryptic symbols symbols have been etched.
+   In the center of the room, a small dias holds a marble statue
+of a regal woman.  Her long, waving hair cascades down her stone
+back in sheets while her hands rise above her in a gesture of
+worship.
+   Corridors lead off from this chamber in all directions, the
+sounds of whispers and wind coming from the north.
+~
+181 8 0 0 0 0
+D0
+~
+~
+0 0 18108
+D1
+~
+~
+0 0 18106
+D3
+~
+~
+0 0 18112
+S
+#18108
+A Narrow Passage~
+   The dark black rock walls seem to seep the light from your source as
+you traverse this passage.  Natural in origin, the walls are rough and
+the floor uneven as you stumble unsteadily through it.
+   The walls slowly press closer together as you head north while the
+exit to the south leads to some sort of chamber.
+~
+181 9 0 0 0 0
+D0
+~
+~
+0 0 18109
+D2
+~
+~
+0 0 18107
+S
+#18109
+A Long Hallway~
+   You stand in the center of a long, arched corridor.  The walls here,
+obviously carved by a craftsman bear scenes and symbols of combat and
+magic.  Small, canteloupe-sized holes rest in the walls just above the
+floors of the corridor and appear to by symmetrically spaced at three
+feet apart.
+   The floor here is littered with all races of skeletons in varying
+stages of decomposition while around them, broken weapons, armor, and
+other equipment lies scattered about.
+~
+181 9 0 0 0 0
+D1
+~
+~
+0 0 18110
+D2
+~
+~
+0 0 18108
+S
+#18110
+Dark Chasm~
+   You stand at the edge of a deep chasm.  The black, light-absorbing rock
+surrounds you as you strain to peer into the gaping abyss.  From what little
+light escapes your source, the chasm walls extend indefinitely below you.
+   To the east lies a fatal fall into the the abyss while to the west, the
+corridor leads into darkness.
+~
+181 9 0 0 0 0
+D1
+   It looks like a REALLY long fall.
+~
+~
+0 0 18111
+D3
+~
+~
+0 0 18109
+S
+#18111
+Bottomless Chasm~
+   As you step off the edge of the chasm into the inky darkness you pray 
+something stops you from the really long fall that awaits you.
+But
+   you
+      seem 
+          to
+            keep 
+                falling
+                       and
+                          falling
+                                 and 
+                                    falling
+                                           and
+                                              falling
+                                                     and
+                                                        falling
+                                                               and
+                                                                  falling.
+
+And just as you think you may keep falling forever you hit the ground with
+a loud splat.
+~
+181 11 0 0 0 0
+D3
+~
+~
+0 0 18110
+S
+#18112
+A Small Hallway~
+   Upon entering this hallway a vast sense of lonliness assualts you. The 
+feelings of death and longing are etched into your every step. The walls 
+channel you in a westernly direction with the ground beneath your feet ever
+so slightly grading downward. The walls here seem to swirl with an inner power
+and from within the sounds of faint voices can be heard.
+   The only exits from this room are to the east and west.
+~
+181 313 0 0 0 0
+D1
+~
+~
+0 0 18107
+S
+$~

@@ -1,0 +1,1250 @@
+#19400
+Start~
+Nothing much here.
+~
+194 540 0 0 0 0
+E
+map~
+map goes here.
+~
+S
+#19401
+A Mountain Pass~
+  You are standing at the edge of a narrow pass through these mountains.
+The air here is cold and the elevation is dizzying, your view of the land
+below is partially obscured by cloud cover.  Before you, you see a rocky, narrow
+switchback that leads even higher up into the mountains. Dense clouds
+obscure your view up the mountain after awhile, although you can acertain
+that the peak is much higher than you can see at the moment.  The narrow
+pass continues to the north.
+~
+194 0 0 0 0 5
+D0
+~
+~
+0 0 5294
+D4
+~
+~
+0 0 19402
+S
+#19402
+A Mountain Path~
+   This path leads to the top of the mountain. It's not very steep here 
+towards the bottom but it looks like it gets steeper more towards the
+top.
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19403
+D5
+~
+~
+0 0 19401
+S
+#19403
+A Mountain Path~
+   The path up this mountain continues to grow slightly steeper as you 
+near the top of the mountain.  You can start to make out dim shapes 
+through the mists.
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19404
+D5
+~
+~
+0 0 19402
+S
+#19404
+A Mountain Path~
+   The path continues up the side of the mountain and is progressively 
+getting steeper and steeper. A small, rocky path to the east looks like 
+the only other alternative to heading up or down the mountain.
+~
+194 0 0 0 0 5
+D1
+~
+~
+0 0 19405
+D4
+~
+~
+0 0 19429
+D5
+~
+~
+0 0 19403
+S
+#19405
+A Path On The Side Of The Mountain~
+   This path seems to lead around to the other side of the mountain. 
+There are no signs of recent travel however; the trail is rocky and
+overgrown. The top of the mountain is still very difficult to see.
+~
+194 0 0 0 0 4
+D1
+~
+~
+0 0 19406
+D3
+~
+~
+0 0 19404
+S
+#19406
+A Path On The Side Of The Mountain~
+   The side path continues to wrap around to the other side of the
+mountain and does not seem to get you any closer to the top. The
+trail here is so narrow that you have to hold your breath to keep
+from losing balance and plummeting to your death.
+~
+194 0 0 0 0 4
+D1
+~
+~
+0 0 19407
+D3
+~
+~
+0 0 19405
+S
+#19407
+A Path On The Side Of The Mountain~
+   The path continues to wrap around the side of the mountain. You can 
+hear an odd, low hum coming from further along the path.
+~
+194 0 0 0 0 4
+D1
+~
+~
+0 0 19408
+D3
+~
+~
+0 0 19406
+S
+#19408
+The Steps Before The Temple~
+   As you come around a bend in the path you see that there have been 
+steps carved into the side of the mountain. The steps lead several 
+hundred feet up to the gates of a temple. From the temple can be heard 
+a low, eerie hum, which sounds strangely familiar at times.  The mist 
+is still very thick here, and you can tell that there are even higher 
+peaks above this section of the mountain.
+~
+194 0 0 0 0 4
+D3
+~
+~
+0 0 19407
+D4
+~
+~
+0 0 19409
+S
+#19409
+Climbing The Stairs To The Temple~
+   As you climb the many stairs to the temple above you notice that none 
+of the stairs show the effects of the elements or time. The low hum grows
+louder but no more discernible than before.
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19410
+D5
+~
+~
+0 0 19408
+S
+#19410
+Before the Temple~
+   You stand before a massive temple carved out of the side of the 
+mountain. The rock has been carved and polished to be as smooth as 
+marble. It shows no signs of time or the elements. The temple itself 
+looks to be the same as any traditional Shaolin temple. To each side of 
+the last flight of stairs to the entrance are two huge dragons carved 
+from obsidian. In each dragon's mouth burns an eerie, unnatural fire. 
+The low humming you heard as you approached is now discernible as 
+chanting coming from deep within the temple.
+~
+194 262148 0 0 0 5
+D0
+~
+~
+0 0 19411
+D5
+~
+~
+0 0 19409
+S
+#19411
+The Temple Gates~
+   You stand before the gates of the temple. The gates appear as though
+they were forged from iron and have an intricate bronze lion on each
+half. Just beyond the gate is a courtyard leading to the temple itself.
+~
+194 12 0 0 0 0
+D0
+~
+gate gates~
+1 0 19412
+D2
+~
+~
+0 0 19410
+S
+#19412
+The Temple Court Yard~
+   You stand in the court yard of the temple. The mountain rises high into
+the skies above you. The top of the mountain is shrouded in clouds, making
+it difficult to see what lies above. The courtyard extends in all directions
+and the main temple lies to the north.
+~
+194 0 0 0 0 1
+D0
+~
+~
+0 0 19416
+D1
+~
+~
+0 0 19414
+D2
+~
+gate gates~
+1 0 19411
+D3
+~
+~
+0 0 19413
+S
+#19413
+The Temple Court Yard~
+   You stand in the southwestern corner of the temple courtyard. The
+mountain rises high into the skies above you, its peak obscured by a
+shroud of clouds.
+~
+194 0 0 0 0 1
+D0
+~
+~
+0 0 19417
+D1
+~
+~
+0 0 19412
+S
+#19414
+The Temple Court Yard~
+   You stand in the southeastern corner of the temple courtyard. The
+mountain rises high above you into the heavens.  A shroud of clouds
+makes it hard to see the very top of the mountain.
+~
+194 0 0 0 0 1
+D0
+~
+~
+0 0 19415
+D3
+~
+~
+0 0 19412
+S
+#19415
+The Temple Court Yard~
+   You stand in the courtyard of the temple. The mountain rises high
+above you into the heavens. A shroud of clouds obscures the mountain
+top making it difficult to discern what lies above.
+~
+194 0 0 0 0 1
+D0
+~
+~
+0 0 19418
+D2
+~
+~
+0 0 19414
+D3
+~
+~
+0 0 19416
+S
+#19416
+The Temple Courtyard~
+   You stand in the center of the temple's courtyard. From here you can
+see the mountain rise high into skies above you. The top of the mountain
+is still difficult to see because of the clouds shrouding it.  Looking
+around you, you see the elaborate structure of the main temple as it is
+framed against the sharp rise of the mountain, your breath catching in
+your throat by its splendor.
+~
+194 0 0 0 0 1
+D0
+~
+~
+0 0 19419
+D1
+~
+~
+0 0 19415
+D2
+~
+~
+0 0 19412
+D3
+~
+~
+0 0 19417
+S
+#19417
+The Temple Courtyard~
+   You stand in the temple courtyard. The mountain rises high above
+you, the clouds shrouding its top making it difficult to see what
+lies above.  You are just south of the main temple building here.
+~
+194 0 0 0 0 1
+D0
+~
+~
+0 0 19420
+D1
+~
+~
+0 0 19416
+D2
+~
+~
+0 0 19413
+S
+#19418
+The Temple Courtyard~
+   You stand in the northeastern corner of the temple courtyard. The
+mountain, Kaim-Morgul, reaches high into the heavens above you, its
+peak shrouded by a thick layer of clouds that make it difficult to
+see how tall the mountain really is.
+~
+194 0 0 0 0 1
+D2
+~
+~
+0 0 19415
+D3
+~
+~
+0 0 19419
+S
+#19419
+The Temple Courtyard~
+   You stand in the temple courtyard just before the temple entrance.
+The mountain rises high above the temple and into the skies above. 
+Chanting from inside the temple sends its sound reverberating through 
+your body and penetrates your very being.
+~
+194 0 0 0 0 1
+D0
+~
+door~
+1 0 19421
+D1
+~
+~
+0 0 19418
+D2
+~
+~
+0 0 19416
+D3
+~
+~
+0 0 19420
+S
+#19420
+The Temple Courtyard~
+   You stand in the northwestern corner of the temple courtyard. The
+mountain looms high above you in the skies. A layer of clouds covers
+the top of the mountain, making it difficult to see what lies above.
+~
+194 0 0 0 0 1
+D1
+~
+~
+0 0 19419
+D2
+~
+~
+0 0 19417
+S
+#19421
+Inside The Temple~
+   You stand just inside this magnificent and ancient temple.  A
+small mat rests in front of a tiny stone altar presumably used for
+prayer. The room is lit by four ornate bronze braziers. The chanting
+of what can only be monks reverberates through the room and seems to
+have no end.
+~
+194 40 0 0 0 0
+D0
+~
+door~
+1 0 19422
+D2
+~
+door~
+1 0 19419
+S
+#19422
+The Temple Sanctorum~
+   You stand in the entrance to a long stone chamber. This seems to be a 
+gathering place for prayer and meditation. Each wall is supported by a 
+huge pillar, and on each pillar is a bas-relief of a lion's head. Inside 
+each of the lion's mouth burns an unnatural flame. The eerie chanting 
+of monks seems to endlessly echo off of the vaulted ceiling high above 
+you.
+~
+194 40 0 0 0 0
+D0
+~
+~
+0 0 19423
+D2
+~
+door~
+1 0 19421
+S
+#19423
+The Temple Sanctorum~
+   You stand in the entrance to a long stone chamber. This seems to be a 
+gathering place for prayer and meditation. Each wall is supported by a 
+huge pillar, and on each pillar is a bas-relief of a lion's head. Inside 
+each of the lion's mouth burns an unnatural flame. The eerie chanting 
+of monks seems to endlessly echo off of the vaulted ceiling high above 
+you.
+~
+194 40 0 0 0 0
+D0
+~
+~
+0 0 19424
+D1
+~
+~
+0 0 19425
+D2
+~
+~
+0 0 19422
+D3
+~
+~
+0 0 19427
+S
+#19424
+Before The Master~
+   You stand at the northernmost end of the temple sanctorum.  Several
+well-used mats lie strewn across the floor for meditation purposes.
+Beneath a cyclopean sandstone sculpture of the Buddha, there is a 
+simple raised wooden platform. It is from here that the master of the 
+temple leads the others in meditation and reflection.  In the dim 
+candlelight of this end of the sanctorum, you notice robed figures
+moving about with a sense of purpose in the darkness.  Even from here
+you can still hear the endless chanting echoing off the walls and
+ceilings of this place.
+~
+194 12 0 0 0 0
+D2
+~
+~
+0 0 19423
+S
+#19425
+A Poorly Lit Corridor~
+   As you wander through the temple, you find yourself in a poorly lit 
+corridor adjoining the sanctorum. The little light that there is is 
+provided by small bronze lanterns mounted on the walls. The walls are 
+smooth and cool to the touch. The ceaseless chanting reverberates off 
+of the corridor walls maddeningly.
+~
+194 40 0 0 0 0
+D1
+~
+~
+0 0 19426
+D3
+~
+~
+0 0 19423
+S
+#19426
+A Large Open Room~
+   You stand in a large open room. There are many wooden frames with 
+thin mattresses neatly ranked and filed. This is most likely where
+the monks sleep.
+~
+194 40 0 0 0 0
+D3
+~
+~
+0 0 19425
+S
+#19427
+A Poorly Lit Corridor~
+   As you wander through the temple, you find yourself in a poorly lit
+corridor adjoining the sanctorum. The little light that there is is 
+provided by small bronze lanterns mounted on the walls. The walls are 
+smooth and cool to the touch. The ceaseless chanting reverberates off 
+of the corridor walls maddeningly.
+~
+194 40 0 0 0 0
+D1
+~
+~
+0 0 19423
+D3
+~
+door~
+1 0 19428
+S
+#19428
+A Dry Cellar~
+   This is where the monks keep their stocks of non perishable food and 
+clothing. The clothing is kept on sturdy wooden shelves. The food, most
+of which is rice, is kept in large ceramic pots on the floor with a dry
+cloth covering the opening to keep dust and mites out.
+~
+194 44 0 0 0 0
+D1
+~
+door~
+1 0 19427
+S
+#19429
+A Harrowing Switchback~
+  The trail curves wildly here, and you have to pick at the rocks and
+runt trees for handholds.  As you pause to catch your breath before continuing
+to navigate the final part of this switchback, you notice that you are 
+completely surrounded by fog.  You are perplexed until you realize:
+You must be standing inside of a cloud!
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19430
+D5
+~
+~
+0 0 19404
+S
+#19430
+A Mountain Path~
+   From here you can see the path is about to become much more steep 
+then it was until now. The mountain peak is shrouded by a layer of
+clouds, but it looks like there might be something up there.
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19431
+D5
+~
+~
+0 0 19429
+S
+#19431
+A Steep Mountain Path~
+   As you pause for a moment to catch you breath, you notice a small
+cave just off the path to your west.  Is it your imagination, or do
+you see a flicker of light emanating from it?  The path has gotten
+much steeper and more rocky; you almost need climbing gear to continue
+up.
+~
+194 0 0 0 0 5
+D3
+~
+~
+0 0 19432
+D4
+~
+~
+0 0 19433
+D5
+~
+~
+0 0 19430
+S
+#19432
+A Dark Cave~
+   This cave seems very warm and comfortable, and definitely inhabited. 
+There are rags piled up on the floor and some assorted personal items 
+scattered about, including climbing gear and hunting equipment.  The 
+light you noticed from outside is actually a small fire, which serves
+to keep the cave warm, albeit smoky.
+~
+194 262172 0 0 0 0
+D1
+~
+~
+0 0 19431
+S
+#19433
+A Steep Mountain Path~
+   As you climb along the steep mountain path you can see that there is 
+indeed something at the top of the mountain. Looking down, you realize
+that it would be a very nasty fall down the side of the mountain.
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19434
+D5
+~
+~
+0 0 19431
+S
+#19434
+A Steep Mountain Path~
+   The air is starting to get thinner this high up on the mountain path, 
+and you gasp for breath.  The the clouds are starting to look like they
+are just out of reach. On the top of the mountain you think you can make
+out what appears to be a building of some sort.  Undaunted, you press on.
+~
+194 0 0 0 0 5
+D1
+~
+~
+0 0 19441
+D4
+~
+~
+0 0 19435
+D5
+~
+~
+0 0 19433
+S
+#19435
+A Steep Mountain Path~
+   Stopping to catch what little breath you can in this thin air you take a
+moment to look around. Far below you is the base of the mountain, and the
+small pagoda.  Further from your sight, you notice what could be another
+complex on the east side of the mountain. Looking up you can see an odd
+building, clearly a pagoda, at the mountain's peak.  It appears to be much
+bigger than the one at the base of the mountain.
+   The clouds surround you here.  Oddly enough, this high up they feel
+unusually warm.
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19436
+D5
+~
+~
+0 0 19434
+S
+#19436
+A Steep Mountain Path~
+   As you progress further along the path, the clouds have now surrounded
+you and made it difficult to see. In fact, the only visible thing you can
+make out is the pagoda at the mountaintop.
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19437
+D5
+~
+~
+0 0 19435
+S
+#19437
+A Steep Mountain Path~
+   The clouds around you seem to become thicker as you climb along the 
+steep mountain path. The pagoda at the mountain's peak seems to glow
+unnaturally, as if it had a flaming aura around it.
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19438
+D5
+~
+~
+0 0 19436
+S
+#19438
+A Steep Mountain Path~
+   As you pause for a moment to regain your strength you notice the
+air is easier to breath, though unusually warm for this altitude.
+The clouds are beginning to thin out again as you climb towards the
+pagoda.
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19439
+D5
+~
+~
+0 0 19437
+S
+#19439
+A Steep Mountain Path~
+   After climbing the mountain path for seemingly forever, you note that
+you are almost at the top of the mountain. The clouds seem to disappear
+just before the mountain's peak.
+~
+194 0 0 0 0 5
+D4
+~
+~
+0 0 19440
+D5
+~
+~
+0 0 19438
+S
+#19440
+The Mountain Peak~
+   As you reach the top of the mountain, you quickly turn back towards
+the path so you can soak in your accomplishment. Unfortunately, though,
+the clouds stretch as far as you can see, completely obscuring the 
+surrounding area.
+   As you turn around, you can see a traditional-style pagoda.  The
+pagoda seems to glow with an unnatural, fiery aura.
+~
+194 0 0 0 0 5
+D0
+~
+~
+0 0 19443
+D5
+~
+~
+0 0 19439
+S
+#19441
+On A Narrow Ledge~
+   You stand on a narrow ledge. Far below you, in what would be a fatal 
+fall, is the bottom of the mountain. You hug the side of the mountain,
+struggling not to lose your balance.
+   After a calming breath, you catch something glimmering out on a limb
+just north of here.
+~
+194 0 0 0 0 5
+D0
+~
+~
+0 0 19442
+D3
+~
+~
+0 0 19434
+S
+#19442
+Out On A Limb~
+   As you carefully crawl out on a limb to see what was glimmering, you
+hear the limb creak.  Holding your breath, the creaking stops, and you
+question your motives for negotiating this pine branch.  The limb sways
+slightly in the wind.
+   As you look back up, you notice what was glimmering before is in fact
+a fire falcon. It slowly turns towards you and takes to flight, shaking
+the limb violently.  You hear a loud creaking come from the limb and,
+suddenly, you feel weightless as the limb gives way.
+   High above you can hear the shrill cry of the falcon, its shriek a
+mocking laughter as you plummet to your death.
+~
+194 6 0 0 0 5
+D2
+~
+~
+0 0 19441
+S
+#19443
+Before the Fire Pagoda~
+   You stand before a three level Pagoda. The Pagoda glows with a fiery 
+aura which makes the air unnaturally warm for this altitude. The Pagoda
+itself is ornately detailed and masterfully constructed. A short set of
+stone stairs leads to the double-door entrance.
+~
+194 0 0 0 0 5
+D0
+~
+door doors~
+1 0 19444
+D2
+~
+~
+0 0 19440
+S
+#19444
+Entrance To The Pagoda~
+   You stand just inside what seems to be a magnificently built pagoda.
+The doors are ornately carved from a beautiful teak wood. The walls are
+plain white, but are elegantly tasteful. The floor is constructed from 
+a rich, dark hardwood that has been carefully polished and maintained.
+The room itself is presumably where guests wait to be announced to the
+owner of this fine home.
+~
+194 12 0 0 0 0
+D0
+~
+door doors~
+1 0 19445
+D2
+~
+door doors~
+1 0 19443
+S
+#19445
+Inside the Fire Pagoda~
+   You are just beyond the entrance of the Fire Pagoda, in a large room 
+obviously used for assembling large groups of people, but as for what
+purpose, you cannot tell.  The floor is made of a highly polished wood,
+possibly teak, and creaks and flexes as you walk on it, as though it is
+suspended above the natural flooring. Giant basalt pillars hold up the
+ceiling; you wonder how the floor can possibly support their weight.
+A broad flight of stone steps leads upward in the northern part of this 
+room, and the rest of the room extends in all directions.
+~
+194 8 0 0 0 0
+D0
+~
+~
+0 0 19449
+D1
+~
+~
+0 0 19446
+D2
+~
+door doors~
+1 0 19444
+D3
+~
+~
+0 0 19447
+S
+#19446
+Inside the Fire Pagoda~
+   You are in the southeast corner of what appears to be the only chamber 
+on the ground floor of this pagoda.  Many torches line the walls of this 
+chamber, but it doesn't seem to help the light any; it is as if the walls 
+absorb the torches energy inside of allowing it to radiate into the room.  
+Hot, fibrous refuse drips continually from the torches, and you wonder 
+how they can possibly afford to have a wooden floor with all this open 
+flame around.  Upon closer inspection of the floor, however, you notice 
+that it has been treated with a wax-like substance which is apparently 
+fireproof, judging by the condition of the wood.  Men in crimson robes 
+attend to the torches ceaselessly, their cowls pulled up over their faces.
+~
+194 0 0 0 0 0
+D0
+~
+~
+0 0 19450
+D3
+~
+~
+0 0 19445
+S
+#19447
+Inside the Fire Pagoda~
+   You are in the southwest corner of the ground chamber in the pagoda.  
+Men in dark crimson robes tend to the torches and braziers that are
+seemingly everywhere in this room: on the walls, the stone support
+pillars, in corners, and suspended on heavy iron chains from the flat
+ceiling.  Funny thing that the torches don't seem to be providing much 
+light -- probably because of the immense size of the chamber.  
+~
+194 0 0 0 0 0
+D0
+~
+~
+0 0 19448
+D1
+~
+~
+0 0 19445
+S
+#19448
+Inside the Fire Pagoda~
+   You stand in the northwestern section of the first level of the Fire
+Pagoda.  From here you can clearly see that there must be hundreds of
+thousands of torches, candles, and braziers in this one chamber alone.
+The building itself seems to be absorbing the energy from these torches
+as the walls seem fairly warm to the touch.  Perhaps these torches are
+what is fueling the flaming aura that surrounds the outside of this
+place.
+~
+194 0 0 0 0 0
+D1
+~
+~
+0 0 19449
+D2
+~
+~
+0 0 19447
+S
+#19449
+Inside the Fire Pagoda~
+   This is the northern section of the first floor of the Fire Pagoda.
+A flight of flanked stone steps leads upward to the next level, each
+step bearing a tall candle at each end.  The shadows and flickering
+generated by all the open flames in this chamber, though limited, still
+sends an eerie chill down your spine.  The men in crimson robes walk
+about this chamber with great urgency, chanting eerily as they do so.
+~
+194 8 0 0 0 0
+D1
+~
+~
+0 0 19450
+D2
+~
+~
+0 0 19445
+D3
+~
+~
+0 0 19448
+D4
+~
+~
+0 0 19451
+S
+#19450
+Inside the Fire Pagoda~
+   This is the northeast corner of the Fire Pagoda's ground chamber.
+A long flight of steep, flanked steps leads upward to your west.
+Smudge pots and ornate braziers line the walls and floor here, tended
+by monks in odd crimson robes.  You'd hate to think what would happen
+if one of these things were knocked over accidentally.
+~
+194 0 0 0 0 0
+D2
+~
+~
+0 0 19446
+D3
+~
+~
+0 0 19449
+S
+#19451
+Fire Pagoda~
+   This floor looks to be much the same as the one below it, teak flooring 
+and basalt columns supporting a flat ceiling.  Torches, braziers, and 
+other open flames burn everywhere, as before.  This level, however, has
+four large windows: two set in the eastern wall, and two set opposite
+them in the western.  The windows look out into the clouds through a
+fiery veil, the same that surrounds the temple from the outside.  The
+chanting of the servants of the pagoda seems louder here than it did 
+before, and the room extends to another upward flight of stairs to the 
+south.
+~
+194 0 0 0 0 0
+D1
+~
+~
+0 0 19453
+D2
+~
+~
+0 0 19455
+D3
+~
+~
+0 0 19452
+D5
+~
+~
+0 0 19449
+S
+#19452
+Fire Pagoda~
+   The second level of the pagoda seems to be much the same as the first, 
+except that this level seems unnaturally warm.  Perhaps it is because of 
+the large column of flame that leaps from the floor to the southeast of 
+here, almost in the exact centre of the room.  Torches, smudge pots, 
+braziers, and all manner of other devices designed to protect fire are 
+scattered haphazardly about this chamber, tended by the Servants and 
+their acolytes.
+~
+194 0 0 0 0 0
+D1
+~
+~
+0 0 19451
+D2
+~
+~
+0 0 19454
+S
+#19453
+Fire Pagoda~
+   The pagoda looks eerie from your angle, the interior light buffeting 
+and reflecting from the glow in the windows, making crazed, jagged-edged
+angles on the walls and columns.  The servants of the Flame move in and
+out of these shadowed angles rapidly, like flies buzzing around a fresh
+corpse, or moths to a flame.
+~
+194 0 0 0 0 0
+D2
+~
+~
+0 0 19456
+D3
+~
+~
+0 0 19451
+S
+#19454
+Fire Pagoda~
+   You stand in the glow from a gigantic window on this level.
+Everything outside looks orange, as you gaze through the soft
+flame-like glow. Not like there is much to see, of course; 
+Thick cloud-cover prevents you from seeing anything save the 
+highest peaks of the Grey Mountains. 
+~
+194 0 0 0 0 0
+D0
+~
+~
+0 0 19452
+D1
+~
+~
+0 0 19455
+D2
+~
+~
+0 0 19457
+S
+#19455
+A Column of Flame~
+   The centre of this chamber is dominated by a huge column of flame 
+that ejaculates from the floor.  The flame is contained by magical
+runes carved on the floor and the ceiling.  The flame itself appears
+to continue through the ceiling on to the roof.
+   The second floor extends in all directions from here.
+~
+194 0 0 0 0 0
+D0
+~
+~
+0 0 19451
+D1
+~
+~
+0 0 19456
+D2
+~
+~
+0 0 19458
+D3
+~
+~
+0 0 19454
+S
+#19456
+Fire Pagoda~
+   You stand in the glow from a gigantic window on this level.  
+Everything outside looks orange, as you gaze through the soft 
+flame-like glow. Not like there is much to see, of course;
+Thick cloud-cover prevents you from seeing anything save the
+highest peaks of the Grey Mountains.
+~
+194 0 0 0 0 0
+D0
+~
+~
+0 0 19453
+D2
+~
+~
+0 0 19459
+D3
+~
+~
+0 0 19455
+S
+#19457
+Fire Pagoda~
+   You stand in the shadow of a broad flight of stone steps that lead
+to the next level directly to the east.  Tall red candles guard the
+sides of each step as they ascend.  Hot, sticky air rolls down from
+the steps, assaulting your senses.  The walls and floor look slightly
+less glossy here than in other places, probably due to their exposure
+to the elements by way of the open stairway.
+~
+194 0 0 0 0 0
+D0
+~
+~
+0 0 19454
+D1
+~
+~
+0 0 19458
+S
+#19458
+Fire Pagoda~
+   This is the base of the stairs that ascend into semidarkness to 
+what is presumably the third and final level of the pagoda.  You
+suspect that the upper level must be open and unprotected from the
+elements to some degree, because hot, moist air blows down from
+above, making you uncomfortable.  You notice that this moisture-
+laden air has caused small patches of crimson-coloured lichen to
+form on the stairs and floor here.
+~
+194 0 0 0 0 0
+D0
+~
+~
+0 0 19455
+D1
+~
+~
+0 0 19459
+D3
+~
+~
+0 0 19457
+D4
+~
+~
+0 0 19460
+S
+#19459
+Fire Pagoda~
+   This corner of the pagoda is abnormally damp, as if moisture was
+allowed to collect here for some period of time.  The dampness is
+more than likely a result of the open stairway to your west, and the
+burning column of fire in the centre of the room does little to
+alleviate the dampness and darkness here.  There is even a surprising
+lack of torches and the like.
+   Upon closer inspection, you notice that the wax-like substance that
+covers the rest of the walls and floor is practically non-existent
+here.  Perhaps this room isn't safe for open flame right now.
+~
+194 0 0 0 0 0
+D0
+~
+~
+0 0 19456
+D3
+~
+~
+0 0 19458
+S
+#19460
+The Top Level~
+   As you climb to the top level, you realize that the stairway that you
+are on is set into a lipped stone well; the actual floor is behind you,
+to the north.  The view into the clouds ahead of you is breathtaking
+though.
+   The flames around the pagoda seem to subside at the top here.  This
+floor is indeed roofed, as you saw from the outside, but it is open air,
+without walls.  The ceiling is instead supported by magnificent columns
+of red marble.  The rest of this floor is accessible by walking around
+the well to the north.
+~
+194 4 0 0 0 0
+D0
+~
+~
+0 0 19461
+D5
+~
+~
+0 0 19458
+S
+#19461
+A Column of Fire~
+   This is where the column of fire from the level below comes through
+the floor. It continues up its magickal path through a large portal in 
+the arched ceiling and out in to the night sky.  Though it appears to
+be ornamental, you can only guess at its actual purpose.  The heat and
+moisture here are almost unbearable, causing your clothes and armor to
+stick to you when you move, and sweat to drip from your brow.  The 
+floor extends to the east and west, and to the north there seems to be 
+some kind of throne set up.
+~
+194 0 0 0 0 0
+D0
+~
+~
+0 0 19464
+D1
+~
+~
+0 0 19463
+D2
+~
+~
+0 0 19460
+D3
+~
+~
+0 0 19462
+S
+#19462
+The Top Level~
+   This is the western half of the top floor, where spirits of fire 
+dance around the cylindrical pillar of flame in ecstasy.  Intense,
+superheated air stirs around you, choking you with its vile thickness.
+All around you are servants of the great master, Fire, and you have
+no doubt that you are in his Temple.
+~
+194 0 0 0 0 0
+D1
+~
+~
+0 0 19461
+S
+#19463
+The Top Level~
+   This is the eastern half of the top level, where spirits of the flames 
+dance and twist in wild ecstasy around the centre pillar of fire.  Of this 
+you can have no doubt: This is the legendary shrine of Fire -- The Fire 
+Pagoda.  You stand in awe of its magnificence.
+~
+194 0 0 0 0 0
+D3
+~
+~
+0 0 19461
+S
+#19464
+On A Dais~
+   You stand on a slightly elevated dais at the northern end of the top 
+level of the Fire Pagoda.  All around you, flame spirits dance wildly
+around the pillar of flame in the center of this place.  The magical
+nature of this place is certain. This is one of the shrines of the 
+elements that make up this world -- the legendary Fire Pagoda!
+   Before you, on a massive golden throne, stands the master and High
+Priest of this pagoda, a soft blue flame outlining his figure.
+~
+194 8 0 0 0 0
+D2
+~
+~
+0 0 19461
+S
+$~

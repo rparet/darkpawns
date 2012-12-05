@@ -1,0 +1,103 @@
+#14000
+The Begining~
+Not much here.
+~
+140 0 0 0 0 0
+S
+#14001
+East Gate of the "Lion's Mouth" Arena~
+A thick wooden, iron-reinforced gate rises about sixty feet high directly
+west of here.  It is the only thing seperating you from one of the best-known
+gladiator arenas in the world--and perhaps one of the most dangerous. A brave
+man leaves surrounded by wealth and fame, a foolish man surrounded by a crude
+coffin--there is no second place.  Atop the gates is a roaring lion's head of
+solid gold, beckoning any would-be challengers to face the perils within.  An
+oval plaque above the head reads, "The Lion's Mouth Arena."
+~
+140 4 0 0 0 1
+D2
+~
+~
+0 0 14002
+S
+#14002
+Gladiators' Preparation Chambers~
+Those who dare to brave the arena begin here, where lame but full equipment
+is provided for free to registered gladiators.  It is hard not to notice the
+various bloodstains and rips in some of the armours, suggesting that perhaps
+the equipment provided here was recently taken off of a fallen challenger's
+body.  There are some others here though, not minding the torn suits.  They
+polish their various weapons silently, but with an air of confidence around
+them.  It is almost like awaiting an execution, but the gladiators have a
+chance to not only live but to gain fame and fortune.  Through a large arch
+to the north you see the arena gate, where new entries are introduced.
+~
+140 262156 0 0 0 0
+D0
+~
+~
+0 0 14001
+S
+#14003
+The "Lion's Mouth" Arena~
+You are just inside the gladiators' entrance to the arena, and your body
+is already pumping adrenaline like mad.  The decapitated head of a man rolls
+in from the north, and you try to scream -- you scream -- but the spectators'
+bloodthirsty yells muffle every sound you make.  The confidence you had built
+up just a few minutes ago has died away, eclipsed by feelings of mortality
+and pure, unadulterated fear.  The arena gates are just to the east, and you
+could escape if you wanted to and could face the shame.  The arena surrounds
+you in all other directions, and layers of enraged spectators are above every
+wall, waiting for the sight of your death.
+~
+140 32 0 0 0 0
+D0
+~
+~
+0 0 14004
+D1
+~
+~
+0 0 14001
+S
+#14004
+The "Lion's Mouth" Arena~
+This is the north end of the arena, where beasts are released.  It may not be
+the center of the arena, but it certainly is the center of the action!  A
+huge storing area is to the north, probably full of cages, but it is too dark
+to see clearly.  Every once in a while, a roar comes from the storing area,
+and it would not be surprising to find out the arenakeepers have a dragon or
+some other marvelous creature in there.  To the south, at the southern end
+of the arena, you see the exit, a much more compelling option than becoming
+dinner for the next monster released.  The spectators overhead let out
+deafening waves of screams and cheers, not caring who or what dies as long as
+it is a bloody fight.
+~
+140 32 0 0 0 0
+D2
+~
+~
+0 0 14003
+D5
+A trapdoor is here, but it looks well-sealed.  Its purpose is probably to
+prevent your escape.
+,_____ _____,
+|     |     |
+|     |     |
+|    [ ]    |
+|     |     |
+|_____|_____|
+  ( down )
+~
+trapdoor~
+1 0 14004
+S
+#14005
+Arena Storage~
+Hey!  How'd you get in here?  Guards!  Put this man in a cage! :)
+(This room is not meant for mortals.  It is here to hold monsters which
+are released to the arena.)
+~
+140 72 0 0 0 0
+S
+$~

@@ -1,0 +1,342 @@
+#14500
+zookeeper zoo keeper~
+a zookeeper~
+A zookeeper is here, keeping a trained eye on everything.
+~
+He looks like a janitor, but you know that his job is very dangerous, keeping
+the animals and monsters in control and the visitors from bothering them.
+~
+4172 0 0 0 8 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+10 5000
+8 8 1
+Race: 0
+E
+#14501
+monkey carve_meat~
+a monkey~
+A monkey shrieks loudly and throws excrement at you.
+~
+It's a small monkey, about the size of a young child. It sees you staring at
+it, grabs a handful of dirt, and throws it at you, cackling insanely.
+~
+14 0 0 0 262144 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 140
+8 8 0
+Race: 22
+Noise: A large gob of feces flies in from the north and smacks against your face.
+E
+#14502
+lizard~
+a lizard~
+A green lizard is here, running away from you.
+~
+It's a bright green lizard, about as long as your forearm. Its head bobs up
+and down when it sees you, challenging you to battle.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+BareHandAttack: 4
+Race: 13
+Noise: You hear a soft hissing sound.
+E
+#14503
+hyena carve_meat~
+a hyena~
+A hyena eyes you warily.
+~
+It's an ugly animal, about the size of a large dog. Where it hasn't been
+ripped out due to a fight, the hyena's fur is a light brown, with dark markings
+scattered along its form.
+~
+10 0 0 0 0 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+0 480
+8 8 0
+BareHandAttack: 4
+Race: 22
+Noise: A high pitched howl pierces the air.
+E
+#14504
+bear carve_meat~
+a bear~
+A bear slowly lumbers towards you, carefully sniffing the air.
+~
+This is a black bear, one of the smaller of the species, although it is not
+nearly as large as a grizzly or polar bear, it looks like it could rip a
+not very experienced warrior to shreds with ease.
+~
+10 0 0 0 0 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+0 1100
+8 8 0
+BareHandAttack: 9
+Race: 22
+Noise: Something nearby lets out a deep roar.
+E
+#14505
+wolverine carve_meat~
+a wolverine~
+A large wolverine eyes you from a mound of snow.
+~
+It looks like a large, stocky weasel. It snarls at you, revealing a mouthful
+of sharp, yellowed teeth. Its thick, brown fur shields it from the cold.
+~
+10 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+0 750
+5 5 0
+BareHandAttack: 8
+Race: 22
+E
+#14506
+rhino rhinoceros carve_meat~
+a rhinoceros~
+A large rhinoceros watches you from under a tree.
+~
+A strange beast. Its worn, brown hide looks very thick, and the long horn
+growing out of its snout looks awfully viscious. You don't want to get on this
+things bad side.
+~
+10 0 0 0 0 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+0 2980
+8 8 0
+BareHandAttack: 11
+Race: 22
+E
+#14507
+badger carve_meat~
+a badger~
+A badger is here, digging a burrow.
+~
+The badgers body is two feet long, and covered with stiff, grey and black fur.
+It sees you looking at it and stops digging a burrow to growl at you.
+~
+10 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 1d4+1
+0 240
+8 8 0
+BareHandAttack: 4
+Race: 22
+E
+#14508
+tiger carve_meat~
+a tiger~
+A tiger stalks you from amongst the greenery.
+~
+Not as large as some of the stories have talked about, the tiger is still a
+fearsome, powerful-looking beast. Black stripes line the orange fur covering
+the heavily muscled creature.
+~
+10 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+0 1900
+8 8 0
+BareHandAttack: 8
+Race: 22
+Noise: A deep, rumbling growl alerts you to predators.
+E
+#14509
+elephant carve_meat~
+an elephant~
+A huge elephant sprays water over its back.
+~
+A huge, lumbering beast, with a thick, baggy hide and a long trunk curled over
+its back. It must be twice as tall as a fully grown human, and must weigh at
+least three tons.
+~
+10 0 0 0 0 0 0 0 0 E
+9 10 0 9d5+100 4d4+4
+0 3800
+8 8 0
+BareHandAttack: 6
+Race: 22
+E
+#14510
+swan carve_bird~
+a swan~
+A swan paddles through the water here.
+~
+Its feathers are pure white, and its long neck holds up a small head ending
+in an orange beak. It looks like a glorified duck.
+~
+10 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Race: 24
+Noise: A loud honk gets on your nerves.
+E
+#14511
+bird small carve_meat~
+a small bird~
+A small bird chirps at you.
+~
+It's no bigger than your fist.
+~
+8 0 0 0 67108864 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Race: 24
+E
+#14512
+crow carve_bird~
+a crow~
+A black crow cocks its head to observe you.
+~
+The legends say these black feathered birds are used as spies and messengers
+for evil wizards.
+~
+8 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 1d4+0
+0 100
+8 8 0
+Race: 24
+Noise: A forboding caw sends chills up your spine.
+E
+#14513
+eagle carve_meat~
+an eagle~
+An eagle swoops down to get a better look at you.
+~
+It's not much, if it wasn't so small, you would probably mistake it for a 
+condor.
+~
+8 0 0 0 0 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 140
+8 8 0
+Race: 24
+E
+#14514
+owl carve_bird~
+an owl~
+An owl sits here, waiting for a mouse to appear.
+~
+When it sees you it decides to stretch out its toes, showing off sharp, black
+talons.
+~
+8 0 0 0 67108864 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+Race: 24
+Noise: Something nearby lets out a hoot.
+E
+#14515
+zaivrag carve_meat~
+zaivrag~
+The zaivrag stalks towards you.
+~
+It looks like a lion, but has large wings growing out of its back and two
+horns from its head. Its long tail is covered in scales, and a barb hangs from
+the end of it.
+~
+10 0 0 0 0 0 0 0 0 E
+6 13 4 6d5+70 3d4+3
+0 1300
+8 8 0
+BareHandAttack: 8
+Noise: Something nearby lets out a roar.
+E
+#14516
+zoomaster master~
+the Zoomaster~
+The Zoomaster stands here, urging you to look around.
+~
+He's an average looking guy, currently explaining how the zoo is set up,
+apparently, the aviary is north of here, the wild animals are west, and the
+dangerous, exotic creatures are east.
+~
+4106 0 0 0 0 0 0 0 0 E
+11 0 -1 11d5+120 7d4+7
+20 6700
+8 8 1
+Race: 0
+Noise: You hear someone yelling about the splendors of the zoo nearby.
+E
+#14527
+maaralis~
+a maaralis~
+A maaralis stomps its feet and bangs its fists against its chest.
+~
+The maaralis is a large, four-armed monkeylike beast. Each arm ends in four,
+blunt fingers. Its skin is a pale blue and it has beady eyes.
+~
+10 0 0 0 0 0 0 0 0 E
+4 15 6 4d5+50 2d4+2
+0 480
+8 8 0
+BareHandAttack: 7
+E
+#14529
+steel slug~
+the steel slug~
+A large, metallic slug slowly slides towards you.
+~
+It looks like a giant slug, except its skin seems to be made from steel. Two
+glass eyeballs stare at you from the end of thin eyestalks. It opens a jaw
+to show off sharp, metal teeth.
+~
+10 0 0 0 0 0 0 0 0 E
+9 10 0 9d5+100 4d4+4
+0 3900
+8 8 0
+BareHandAttack: 4
+E
+#14530
+torewe~
+the torewe~
+The torewe floats here, tentacles flailing wildly.
+~
+It is a large sphere, about three feet in diameter, with two tentacles on
+opposite sides of itself. You can't see a mouth or any noticable eyes.
+~
+10 0 0 0 0 0 0 0 0 E
+4 15 6 4d5+50 2d4+2
+0 400
+8 8 0
+BareHandAttack: 2
+E
+#14531
+nark~
+the nark~
+The nark is here, standing on two legs.
+~
+The nark looks like a spider, except with 16 legs and no head. It's just a
+body and legs. Each leg has a spur sticking out at every joint.
+~
+10 0 0 0 0 0 0 0 0 E
+10 9 0 10d5+110 5d4+5
+0 5200
+8 8 0
+BareHandAttack: 7
+E
+#14532
+Sinzhe~
+Sinzhe~
+The huge, dark Sinzhe stands here, observing everything with cold eyes.
+~
+Sinzhe stands six feet five, without an ounce of fat on him. All bone and
+muscle, he moves like a cat, his slightest twitch pure liquid grace. He works
+hard to stay hard but not to become overly muscled. He is very dark, but a
+deep mahogany more than an ebony. He glows with conviction, an unshakable inner
+strength. Gil-Glash recruited Sinzhe and his tribe, all superior warriors, as
+a supplement to the Grey Slayers. Sinzhe leads the main garrison, rumors say
+he was positions thus so Gil-Glash could keep him separated from Lady Volhm,
+whom he often challenged to lengthy, destructive duels that always end in
+draws. He can't fathom why his military genius isn't universally hailed.
+~
+1042520 0 0 0 1443016 0 0 0 -500 E
+50 -30 -40 50d5+12074 33d4+33
+5 14203
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+$

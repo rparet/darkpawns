@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1523"
+   name=""
+   committed-date="2008-06-20T20:24:47.938361Z"
+   url="file:///var/svn/trunk/2.2/lib/world/obj"
+   last-author="jravn"
+   kind="dir"
+   uuid="8b5ee792-cd11-0410-afce-ed9b3fbd0e01"
+   repos="file:///var/svn"
+   revision="1525"/>
+<entry
+   committed-rev="1368"
+   name="223.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1471"
+   name="142.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-21T15:38:21.418609Z"
+   checksum="706863df3f12576ec072c33d39f738ed"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1471"
+   name="143.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-21T15:38:21.418609Z"
+   checksum="4ec8898ca79e2b2c80675374f61c6d07"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="180.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="69b34d30fca100423a70472863c5f292"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:32.000000Z"/>
+<entry
+   committed-rev="1523"
+   name="144.obj"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="debac4fc5a2ddf6fcfc91525b5d1a14d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1523"
+   name="225.obj"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="369c085d50a5562800158497f99afeb6"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="181.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="0232fe3923059b984fb98ab5ab5ed0cc"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1384"
+   name="145.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="2c89c91ce1224ef573d21feded2e2b66"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:32.000000Z"/>
+<entry
+   committed-rev="1523"
+   name="182.obj"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="1635a4cbee7ca641df222284fe4c3e09"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="183.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="5f21518a975e6febe3fb827f3f8b25cb"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:32.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="184.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1378"
+   name="186.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="ecb77db3ae223e4b315a5236a26262ed"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:32.000000Z"/>
+<entry
+   committed-rev="1449"
+   name="187.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="368920447b0c43afda5ec8b1afd90daf"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="188.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="33faddcc178f99960d8f8c6db7eebe82"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="40.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="bd813a4a2d944c4e8c34e18dcdb598fa"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="41.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="748e20d0fb212e1d5678615dfd957b15"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="42.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="7934adee8ec78f418ffe87f4479ff0e2"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1523"
+   name="43.obj"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="207768a84a4d7404047ba8199bf57b74"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1449"
+   name="80.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="3c803709be329741910757f8d6baef59"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="45.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="17f378e89e53e77807881a9026f3fae8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="46.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="b300015da5b290351cdb3b5d2ce42415"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1507"
+   name="47.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-23T01:33:13.841999Z"
+   checksum="2ba909d66c8476ce96cd21c9e4209d4c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="48.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="44abeb9262c34f842031d385229662e6"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="85.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1523"
+   name="49.obj"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="71ea71565fc1cf6047bcea08bfdf238a"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1507"
+   name="110.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-23T01:33:13.841999Z"
+   checksum="a3de21ed8cdb997a8d662ca09070ca3d"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="151.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="bb41fb07c9cda506f9229ebf988af050"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="117.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="05f049321a2c8bb3bbddf14a578b8ef0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="190.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="d5e2981f821e87e97633b4f39ba6cb79"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1384"
+   name="191.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="d7f80ed12200cf2fcd57484d6dddde33"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="192.obj"
+   text-time="2008-01-11T06:36:08.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="193.obj"
+   text-time="2008-01-11T06:36:17.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1384"
+   name="194.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="8ab9472845bb8a8dcf50aa92a3e03895"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1471"
+   name="158.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-21T15:38:21.418609Z"
+   checksum="b1c9debbc8758013a30d747c4f0a1894"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1523"
+   name="195.obj"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="c0d64c1b92386ab6d2093ae83c0a5597"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="196.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="e914c0fa036aa0ad8b752694960dd4c6"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1449"
+   name="197.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="bef7c193ca59b4abd4a2e382e7da4c87"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="10.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="dd4a60d4c2a5df2727749e01c7bc4532"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="198.obj"
+   text-time="2008-01-11T07:29:35.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1378"
+   name="199.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="81ccca92040be33f547adc7d4c3b1213"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="12.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="42aebcd9bbc7c0843429a918e2bba1e9"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="13.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="1bbbeea9d47a09546cb7226f05ae6686"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="50.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="94f98e516cfdf79620daa66119f9f470"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="51.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="64a3e34d2406fe435b5efa0453573eec"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="52.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="ed2587192519e500f44971b87445ceb7"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="index.mini"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="c3cfc2bb00e93258dedf94ab64b60ac1"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1378"
+   name="55.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="fda49b8c2d8fe8ffeeade918d2e75d75"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="91.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="241f48e92cf93b41e93e8e83c3b3d7ec"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="57.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="e799841d6ad0a3a1e2a0b0353e7a75d0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="58.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="a1e8a285c4c7a951da499d8d1b7781d2"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1471"
+   name="200.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-21T15:38:21.418609Z"
+   checksum="8e2b4ecaa7ffa155cfe775822c3bbe93"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="99.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="47b6ead70bdfeabe169ae2a8531d660b"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="121.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="f6972204fafa6f463751f744faa0371c"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="203.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="657647ffb2d252a33a82ab108bf59bcf"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="122.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="b33d8d37fa175ced8425557de4174fea"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="160.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="f25a7f8640753b14a3c5b89deb1563ce"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="124.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1384"
+   name="161.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="8416435c20fd32498225b14cdec86fb8"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="125.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1384"
+   name="162.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="dfca1fc413b093043447374f540e1620"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="126.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1384"
+   name="163.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="80840307e34f733fc9ee282ec400bcab"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="127.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1449"
+   name="128.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="98740563b8ae3bc2f575747c906e4bb2"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="164.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="593d6f7ec637439e575ab0d2285689f0"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="129.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1368"
+   name="165.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1378"
+   name="21.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="69a29b7e1b60e5e25cbcf3cb1b0d6102"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="25.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="1a83727b6a60f44408ddc04af4292d90"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1523"
+   name="27.obj"
+   text-time="2008-07-09T01:02:49.000000Z"
+   committed-date="2008-06-20T20:24:47.938361Z"
+   checksum="16cb0d7b01a6497caa90456a0e3680fb"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-07-09T01:02:49.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="act"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f5fb34564e511bb5b4cd3941f7a1e486"
+   last-author="rparet"
+   kind="file"
+   prop-time="2008-04-16T20:06:20.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="0.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="d550f5d89b7609132e21ae7c079306b5"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="1.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="d66c4fdb72c752a2d3495b5b17077878"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="131.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="ca34e2154a019f1ff35e957216fd2cf7"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1471"
+   name="212.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-21T15:38:21.418609Z"
+   checksum="4888c63444b61258e3443efaa0965ad2"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="132.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="cd317f1800fbffd5a0b656df87995640"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1449"
+   name="214.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-14T20:11:06.546510Z"
+   checksum="9388227bbb751dd3e6fb19304711793f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="objfilt"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="da8f97aff4256c404c8c0e570c0a164e"
+   last-author="rparet"
+   kind="file"
+   prop-time="2008-04-16T20:06:20.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="31.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="96ea7707fe969cb57e607498752e49de"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="33.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1378"
+   name="70.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="07251a832165707c170b42a1b625625e"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="34.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1378"
+   name="35.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="3334e1275b9282fa9aac5296bc0c4ee1"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="36.obj"
+   text-time="2008-03-26T18:55:11.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1492"
+   name="index"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-22T04:36:44.654940Z"
+   checksum="9470e922c1f7016c53b5bea762202180"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1471"
+   name="79.obj"
+   text-time="2008-05-23T03:43:22.000000Z"
+   committed-date="2008-05-21T15:38:21.418609Z"
+   checksum="8881117ed5e51beb0aed575cc075ca60"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-05-23T03:43:22.000000Z"/>
+<entry
+   committed-rev="1378"
+   name="100.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T01:21:39.706676Z"
+   checksum="bdea1e6a6cb1a568ffa7d171e28891d3"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="unact"
+   text-time="1999-01-01T19:23:58.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="a026cb73d427d0067b8579f83d333a9f"
+   last-author="rparet"
+   kind="file"
+   prop-time="2008-04-16T20:06:20.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="300.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1384"
+   name="301.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="242d1bbb0cbcf9aeee559493a75acd24"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="140.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="33b14de10815b30f27157b7cc8a5c2c3"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1368"
+   name="302.obj"
+   text-time="1999-01-01T19:23:57.000000Z"
+   committed-date="2008-04-16T20:09:06.182523Z"
+   checksum="f21e02b3bdc1281addf2a73bde17f8fa"
+   last-author="rparet"
+   kind="file"/>
+<entry
+   committed-rev="1384"
+   name="141.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="fa4a1a8f5b88a4549f379b604a99896f"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+<entry
+   committed-rev="1384"
+   name="303.obj"
+   text-time="2008-04-28T01:31:33.000000Z"
+   committed-date="2008-04-19T04:41:49.656106Z"
+   checksum="a172625ee0d5c0bda6c72a5c2e637ccb"
+   last-author="jravn"
+   kind="file"
+   prop-time="2008-04-28T01:31:33.000000Z"/>
+</wc-entries>

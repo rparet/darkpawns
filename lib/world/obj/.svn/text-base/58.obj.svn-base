@@ -1,0 +1,150 @@
+#5800
+D'haran breast plate armor~
+a D'haran breast plate~
+A breast plate of high quality has been left here.~
+~
+9 0 0 0 0 9 0 0 0
+7 0 0 0
+20 1000 1000
+E
+D'haran breast plate armor~
+This breast plate has been forged by a fine armourer in the midlands and
+looks to be very durable.
+~
+A
+2 -1
+A
+18 -1
+#5801
+D'haran leggings armor~
+a pair of D'haran leggings~
+Someone has left a pair of unusual leggings lying here.~
+~
+9 0 0 0 0 33 0 0 0
+6 0 0 0
+10 600 600
+E
+D'haran leggings armor~
+They are made from a durable metal and look to be very protective.
+~
+#5802
+D'haran boots armor~
+a pair of D'haran boots~
+A pair of D'haran boots have been carelessly left here.~
+~
+9 0 0 0 0 65 0 0 0
+5 0 0 0
+10 900 900
+E
+D'haran boots armor~
+These boots are the boots of a true warrior.  They look to already
+have been battle hardened even though the shopkeeper swears they are
+new.
+~
+A
+14 5
+#5803
+midlands confessors bracers armor~
+a pair of confessor's bracers~
+A pair of white bracers have been left lying here.~
+~
+9 0 0 0 0 257 0 0 0
+5 0 0 0
+10 100 1000
+E
+midlands confessors bracers armor~
+These bracers are meant to be worn on your arms and are the bracers that
+confessors wear as they travel the midlands.  They are of the palest
+white you have ever seen.
+~
+A
+24 -1
+#5804
+midlands return scroll~
+a return scroll~
+A rather odd looking scroll written on a muddy parchment lies here.~
+~
+2 64 0 0 0 16385 0 0 0
+16 17 42 -1
+2 1000 1000
+#5805
+midlands confessors sword weapon~
+a confessor's sword~
+Someone has left a sword of a confessor lying here.~
+~
+5 0 0 0 0 24577 0 0 0
+0 2 6 3
+8 2000 2000
+E
+midlands confessors sword weapon~
+This was the sword of a confessor, how the shopkeeper got a hold of it
+you have no idea.
+~
+#5806
+water brook~
+a babbling brook~
+A babbling brook flows gently by here.~
+~
+23 0 0 0 0 0 0 0 0
+9999 9999 0 0
+1000 0 100.00
+E
+water brook~
+This brook flows gently by you.  It looks safe enough to drink from.
+~
+#5807
+water fountain~
+a small fountain~
+A small fountain is here shooting water into the air.~
+~
+23 0 0 0 0 0 0 0 0
+200 200 14 0
+1000 0 100.00
+E
+water fountain~
+The air smells of salt for some reason.  This water doesn't look quite
+as refreshing as you would think.
+~
+#5808
+dragon tooth scroll~
+a dragon's tooth~
+A huge tooth is just lying on the ground.~
+~
+2 64 0 0 0 5 0 0 0
+31 2 39 0
+4 5000 5000
+E
+dragon tooth spell~
+This is the tooth of a dragon and not a gift to be taken lightly.  It
+has magical properties about it, but what, you do not know.
+~
+#5809
+wizard mage rock light~
+a wizard's rock~
+Some type of strange looking rock has been left here.~
+~
+1 64 0 0 0 16385 0 0 0
+0 0 200 0
+3 5000 5000
+E
+wizard mage rock light~
+This rock radiates an intense magical power.  It is a special rock from
+the most powerful wizard in the land.
+~
+A
+12 15
+#5810
+mud muddy spear weapon~
+a muddy spear~
+A spear all covered in mud has been left here.~
+~
+5 0 0 0 0 24577 0 0 0
+0 2 4 11
+4 500 500
+E
+mud muddy spear weapon~
+This spear is of excellent quality.  It looks to have killed many a
+creature in it's time.
+~
+#99999
+$~

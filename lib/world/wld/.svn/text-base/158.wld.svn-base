@@ -1,0 +1,2248 @@
+#15800
+Lighthouse Map Room~
+   This is the immortal map room to the Haven Lighthouse. You can view one
+of three maps; The House, the Cellar and Necromancer's Domain, and the
+Subterranean Cavern and Sea Cave.
+~
+158 520 0 0 0 0
+D5
+~
+~
+0 0 15801
+E
+House~
+       Level One              Level Two and Above
+
+     /                             0
+     0           0                 /
+     |           |                 0
+     0 - 0   0   0                 /
+         |   |   |                 0
+        /0 - 0 - 0 ---             /
+         |   |   |                 0   0 - 0
+         0   0 - 0                 |   |
+             |                    /0 - 0
+             0                         |
+                                       0 - 0
+~
+E
+Cellar Domain~
+      Wine Cellar           The Necromancers' Domain
+
+    /0 - 0   0 - 0                          0 - 0
+     |   |   |                              |   |
+     0 - 0 - 0 - 0                  0 - 0   0 - 0
+         |   |                      |   |   |
+     0 - 0 - 0 - 0                  0 - 0   0 - 0
+     |   |   |                      |       |
+     0 - 0   0 - 0/            /0 - 0 - 0 - 0
+                                /   |   |
+                                    0   0 - 0 / 0
+~
+E
+Subterranean Sea~
+  The Subterranean Cavern           The Sea Cave
+
+          0 - 0 - 0 - 0                    |
+          |       |   |        0 - 0 / 0   0 - 0 - 0
+  0 - 0 - 0   0 - 0   0            |   |   |   |   |
+      |   |       |                0   0   0 - 0 - 0 - 0/
+ /0 - 0   0 - 0 - 0 - 0/           |   |   |   |   |
+      |   |   |   |                0   0 - 0 - 0 - 0
+      0   0   0 - 0 - 0
+          |           |
+          0 - 0       0
+~
+S
+#15801
+The Entrance to the Lighthouse~
+   You are confronted by a medium sized room that appears to have been some
+type of living area at one time. Pieces of broken furniture are scattered
+around you, covered in faded white sheets in an attempt to protect them from
+the layer of dust that now sits on the floor. Footprints leads from the door
+to the east across the room to the west and into what looks like a hallway.
+   The floorboards creek under your weight which is a worrying thought as the
+lighthouse sits a good 80 feet above Haven bay and you are unsure as to the
+integrity of the foundation. A flash of movement catches your eye but before
+you realise what it was, it is gone. The room continues to the north, west
+and south or you can walk back down the path to the east to Haven.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15802
+D1
+~
+door~
+1 0 12178
+D2
+~
+~
+0 0 15806
+D3
+~
+~
+0 0 15804
+E
+furniture~
+You pull some of the sheets off and look at what is left of the furniture.
+Anything with a fabric covering has been ripped, in some cases torn off
+leaving only a skeletal wooden frame.
+~
+E
+Footprints~
+Although there are quite a few here, you can clearly see that they all belong
+to the same individual.
+~
+E
+movement~
+Whatever it was...it's gone. Perhaps...
+~
+S
+#15802
+In the Keeper's House~
+   This living area was actually the lower level of the lighthouse keeper's
+residence and has been left to deteriorate without a full-time replacement.
+Light filters in through the entrance to the south, the windows in this room
+were long ago bricked up to keep the place from being looted. Square sections
+on the walls mark the location of pictures that once hung here, perhaps in
+an effort to liven the place up; it could certainly use it now as a feeling
+of discomfort descends upon you.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15813
+D2
+~
+~
+0 0 15801
+D3
+~
+~
+0 0 15803
+S
+#15803
+In the Keeper's House~
+   A small fireplace occupies this corner, half-burnt logs still sitting on
+a metal frame within it. Outside, you can hear the sound of the wind which
+howls around the lighthouse and this attached home, obviously highlighting
+the need for the fireplace during the colder days and nights. Debris falls
+from the roof, almost striking you before landing on the floor. Looking up,
+you can see the support beams for the roof are in a terrible condition, quite
+a few of them cracked and split.
+   To the south, you can see a hallway that leads away from this main room.
+~
+158 9 0 0 0 0
+D1
+~
+~
+0 0 15802
+D2
+~
+~
+0 0 15804
+E
+fireplace~
+Perhaps you need some more sleep, but you could have sworn that the fireplace
+just roared to life for a brief second before returning to the state it is in
+now. Maybe it was just the wind...
+~
+S
+#15804
+In the Keeper's House~
+   A narrow hallway to your west connects the main living area of the house
+to the kitchen. Your footprints now join those which begin at the entrance
+to the east and continue past you into the hallway. A single portrait has
+been left within the room and hangs just to the left of the hallway entrance,
+it's eyes following your every move...or so you think anyway.
+   You're having trouble breathing in this area of the house, partly due to
+the dusty environment and the very stale air. All sorts of fungii have
+grown on the floor and walls, thriving in the moisture rich sea air.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15803
+D1
+~
+~
+0 0 15801
+D2
+~
+~
+0 0 15805
+D3
+~
+~
+0 0 15807
+E
+portrait~
+It is of a family, possibly the one that lived here before the lighthouse
+was left to age alone. It is the eyes of the lighthouse keeper that worry
+you the most...rumors abound about the disappearance of the family and the
+majority of them point to unknown deaths at the hands of this man.
+~
+S
+#15805
+In the Keeper's House~
+   You almost trip over a few chunks of wood that once upon a time were a
+chair. This area of the room appears to have been where food was served as is
+evident by the round table that sits before you, remarkably still in one
+piece although the damp sea air has slowly eaten it away over time. Chairs
+covered with more sheets have been evenly placed around the table, scraps
+of food still sitting on it.
+   A small study adjoins the living area to teh south but before you can look
+further, what feels like a hand rests on your shoulder causing you to spin
+around wildly, only to find nothing there.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15804
+D1
+~
+~
+0 0 15806
+D2
+~
+~
+0 0 15812
+S
+#15806
+In the Keeper's House~
+   Cool air circulates around you from a source that you cannot locate. It is
+unusual, however, that the breeze doesn't disturb the layer of dust at your
+feet nor does it move the moth-eaten curtains attached to the walls where
+the windows once were. Moisture clings to your body and you can almost see
+the floorboards and walls being eaten away by the mildew that has formed
+over time.
+   The entrance to the lighthouse lies to the north.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15801
+D3
+~
+~
+0 0 15805
+S
+#15807
+A Narrow Hallway~
+   You stand in a narrow hallway that runs the length of the house. To your
+south, you can see what looks like a small cloakroam while to the north, you
+can access the lighthouse kitchen. The footprints from the east travel past
+you and up the rickety stairs nearby.
+   The remains of carpet line the hallway but the proximity to the sea has
+left little to cover the floor. Cobwebs swing freely from almost every
+corner you can see but their creators are no where to be found.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15809
+D1
+~
+~
+0 0 15804
+D2
+~
+~
+0 0 15808
+D4
+~
+~
+0 0 15814
+S
+#15808
+The Cloakroom~
+   The room is actually larger than you first thought, large enough at least
+for a person to stand here. The room was used to hang clothes, most likely
+heavy jackets used by the keeper on his continual journey to the top of the
+lighthouse. Now, nothing remains except the metal bars that run between the
+walls.
+   A narrow hallway to the north provides access to other areas of the
+combined lighthouse and living area.
+~
+158 265 0 0 0 0
+D0
+~
+~
+0 0 15807
+S
+#15809
+The Lighthouse Kitchen~
+   The lighthouse kitchen must have been quite grand in its day, especially
+since it was only required for a family of four people. Looking around now,
+all you can are rusty pots and pans as well as a number of cobwebs strung
+from various parts of the rooom. Water drips from a leaky tap and creates a
+hollow sound each time it strikes the bottom of one of the kitchen sinks.
+   The northern wall is curved as this room formed part of the original
+lighthouse, now extended by the addition of the family house. Tracks on the
+wall mark where water has travelled from the rooms above down to this lower
+level.
+~
+158 9 0 0 0 0
+D2
+~
+~
+0 0 15807
+D3
+~
+~
+0 0 15810
+S
+#15810
+The Lighthouse Kitchen~
+   This end of the kitchen contains two large ovens, their combined width
+spanning the entire wall. Cupboards above your head hold what is left of the
+crockery used by the lighthouse residents, the majority of it now in hundreds
+of little pieces.
+   The kitchen extends to the east where you can return to the main living
+area or you can travel through the door set in the northern wall, its surface
+having been clawed by an unknown creature. Although this lighthouse has been
+deserted for some years, you hear an occasional groan coming from the floor
+above.
+~
+158 9 0 0 0 0
+D0
+~
+door~
+1 0 15811
+D1
+~
+~
+0 0 15809
+E
+ovens~
+Funny, they feel warm to the touch, despite the fact that no one is here and
+that they aren't even turned on...
+~
+S
+#15811
+The Kitchen Pantry~
+   This small room adjacent to the kitchen contains a number of shelves which
+at one time would have been filled with foodstuffs. It also provides access
+to the cellar below where the keeper doubtlessly stored a collection of
+wines and ales. Although the lighthouse is only a short walk to the town of
+Haven, rumor abounds about the recluse nature of the family that lived here
+and the activities that were carried out behind closed doors.
+~
+158 13 0 0 0 0
+D2
+~
+door~
+1 0 15810
+D5
+It is too dark down there to see anything.
+~
+~
+0 0 15824
+S
+#15812
+The Study~
+   Why a lighthouse keeper would have need for a study, you cannot fathom,
+but you stand in one now. Loose sheets of paper lie on the floor, covered in
+the same layer of dust that the remainder of this house contains. You're not
+certain, but what looks like blood is splattered on the far wall and on the
+tattered drapes that hang over another boarded up window.
+   What sounds like something being dragged on the floor is coming from the
+room to the north.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15805
+E
+paper~
+They are all blank, probably faded over time.
+~
+E
+blood~
+Certainly a site you are now familiar with, but in a house that's been
+deserted for a number of years, the freshness of the stain is a worry.
+~
+E
+mahogany desk~
+The desk is the only piece of furniture that remains in this room and is
+rather lavish given the nature of the previous owner's occupation. There's
+nothing on the top of it, but it does have a few drawers down one side.
+~
+S
+#15813
+The Library~
+   Some of the floorboards in this room are missing, revealing the rocky
+foundation of this house. A few bookshelves cover the walls, although not
+a book is to be found in this old library. You assume that there probably
+wasn't a lot of books here to begin with and the remainder were most likely
+stolen.
+~
+158 9 0 0 0 0
+D2
+~
+~
+0 0 15802
+S
+#15814
+A Narrow Hallway~
+   This hallway marks the entry to the second floor and continues to the
+east and north. Rickety stairs lead down to the first level of the house
+while a second set to the north probably lead up to the top of the
+lighthouse.
+   You shiver uncontrollably for just a few brief seconds as if someone
+had traced a feather up and down your back but there is no one here.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15815
+D1
+~
+~
+0 0 15816
+D5
+~
+~
+0 0 15807
+S
+#15815
+Climbing the Spiral Staircase~
+   You stand at the base of a spiral staircase that undoubtedly leads to the
+top of the lighthouse. There are no windows here and the torches affixed
+to the wall are literally dripping water, ensuring they won't be used again.
+   Glancing over your shoulder, you notice a distinct change in the wall
+structure. It is here that the house was attached to the brick lighthouse
+and apparently no one got around to painting the walls a common color, not
+that it really matters now.
+~
+158 9 0 0 0 0
+D2
+~
+~
+0 0 15814
+D4
+~
+~
+0 0 15821
+E
+torches~
+They are securely fastened to the lighthouse wall.
+~
+S
+#15816
+A Narrow Hallway~
+   This is the end of the hallway and except for the way back to the west,
+there are only the doors to the north and south that allow exit from it. The
+floor is covered by a very old and dirty carpet which is completely beyond
+repair or salvage.
+~
+158 9 0 0 0 0
+D0
+~
+door~
+1 -1 15817
+D2
+~
+door~
+1 -1 15819
+D3
+~
+~
+0 0 15814
+S
+#15817
+The Master Bedroom~
+   This room has suffered the effects of damp and decay more than most in
+the house. Mold grows in patches on the floor, walls and ceiling. There are
+also many cobwebs but these too seem to be decaying. What remains of a bed
+lies to the east and a smashed mirror hangs on the north wall.
+   Many years ago, this bedroom would have been occupied by the keeper and
+his wife but now it lies dormant and disused.
+~
+158 9 0 0 0 0
+D1
+~
+~
+0 0 15818
+D2
+~
+door~
+1 -1 15816
+E
+mirror~
+The cracked surface creates several images of yourself, all peering back
+at you with the same uncertainty. You notice something moving behind you in
+the shadows but looking around, you see nothing.
+~
+S
+#15818
+The Master Bedroom~
+   Although you now stand on the second floor of the house, even the windows
+at this level have been boarded up. However, the job was only completed
+half-heartedly and has allowed the elements access to this room. An old
+bed frame sits near the window, strips of cloth hanging from its top. Parts
+of the mattress are still here although the mold has attacked it with vigor.
+~
+158 9 0 0 0 0
+D3
+~
+~
+0 0 15817
+E
+frame~
+You can clearly see that this once was a four poster bed with a light cloth
+curtain around its perimeter.
+~
+S
+#15819
+The Bedroom~
+   The smaller of the two bedrooms in the house, this one was used by the
+keeper's children. A few toys still sit on the floor but the remainder of the
+room is empty. Cracks in the wall radiate out from a central location as if
+a blunt object has been rammed into it. A window on the southern wall has,
+like the others, been boarded up although gaps between the planks of wood
+allow you to look across a small area of Haven bay.
+   The door to the north leads to a narrow hallway and across that, the
+door to the master bedroom. This room extends further to the east.
+~
+158 9 0 0 0 0
+D0
+~
+door~
+1 -1 15816
+D1
+~
+~
+0 0 15820
+E
+toys~
+A small, wooden train tracks along the floor under its own power, even though
+it has none!
+~
+S
+#15820
+The Bedroom~
+   You almost step on one of the children's toys which is embarrasing since
+there is nothing else in this room to stumble over, giving you plenty of room
+to move around. What you find disturbing is the blood stain on the floor
+and the one on the wall. Perhaps the stories surrounding this house are
+true but it is hard to accept the death of the children in their own room.
+~
+158 9 0 0 0 0
+D3
+~
+~
+0 0 15819
+S
+#15821
+Climbing the Spiral Staircase~
+   The spiral staircase continues in both directions, what looks like a small
+hallway just below you. Cracks in the wall are cause for alarm, especially
+if you wish to continue your climb but after all, the lighthouse has remained
+standing for a long time.
+~
+158 9 0 0 0 0
+D4
+~
+~
+0 0 15822
+D5
+~
+~
+0 0 15815
+S
+#15822
+Climbing the Spiral Staircase~
+   Just above your head, a wooden ceiling spans the entire width of the
+lighthouse although a small square cut into it provides access to the top
+of the tower. The stairs travel from the hole and continue down to the
+keeper's house.
+~
+158 8 0 0 0 0
+D4
+You can't quite see clearly into the room.
+~
+trapdoor~
+1 0 15823
+D5
+~
+~
+0 0 15821
+S
+#15823
+At the Top of the Lighthouse~
+   The room is completely enclosed by glass, apart from the roof above you.
+In the center of the floor, a large silver dish rotates slowly powered by a
+mechanical device of sorts. A glowing gemstone sits in front of the dish
+and provides the necessary light, however, it sits high above the floor level
+and you are unable to reach it. Gaps in the roof have allowed numerous
+storms to aid in the deterioration of this room, mainly the wooden floorboards
+which break under your steps.
+   A trapdoor set in the floor is the only safe exit from the room.
+~
+158 9 0 0 0 0
+D5
+~
+trapdoor~
+1 0 15822
+E
+dish~
+The dish is actually a concave mirror that amplifies and reflects the light
+source placed in front of it.
+~
+E
+device~
+It's a series of gears and belts that rotate the silver dish.
+~
+S
+#15824
+The Wine Cellar~
+   Either the lighthouse keeper really loved his wine or this cellar was
+used as a storage area for Haven. This area is quite large and could more
+than easily handle the needs of the family living in the house above you.
+   The cellar is divided into four chambers, each sub-divided into a number
+of rows by the wine racks that extend from the floor to the ceiling. The walls
+are made of rock since the cellar has been built into the cliff foundation
+that the lighthouse sits on. Stairs lead up from here to the ground floor
+of the house.
+~
+158 9 0 0 0 0
+D1
+~
+~
+0 0 15825
+D2
+~
+~
+0 0 15828
+D4
+~
+~
+0 0 15811
+E
+racks~
+Quite a few of them contain bottles of wine, each sprinkled with a light
+layer of dust unlike the floor above.
+~
+S
+#15825
+The Wine Cellar~
+   The corner of this chamber is practically falling apart, the rock wall
+has a large crack in it that extends to the floor. Water seeps in from above
+you and pools on the ground before disappearing into the crack. The chamber
+continues to the west and south.
+~
+158 9 0 0 0 0
+D2
+~
+~
+0 0 15829
+D3
+~
+~
+0 0 15824
+S
+#15826
+The Wine Cellar~
+   The air is musty and damp here, obviously this room does not see a lot
+of ventilation. Light streams in through a hole in the wall to the east
+where you can see a rather large wine barrel. The door to the south leads
+back into one of the cellar chambers.
+~
+158 9 0 0 0 0
+D1
+~
+~
+0 0 15827
+D2
+~
+door~
+1 -1 15830
+S
+#15827
+The Wine Cellar~
+   The ground crumbles beneath you as you walk further to the east and you
+discover that the hole in the wall is merely a part of the degradation that
+is happening in this area. Cracks radiate from the hole in all directions
+and you must be careful not to stand to closely or the entire section may
+give way.
+   A barrel over six feet tall and 3 feet wide sits against the far wall,
+only a small tap on its face allows access to the contents.
+~
+158 9 0 0 0 0
+D3
+~
+~
+0 0 15826
+E
+tap~
+You try as hard as you can but the tap refuses to turn.
+~
+S
+#15828
+The Wine Cellar~
+   Barrels and barrels of wine have been stacked against the far wall and
+look precariously close to falling over. Mildew has set in and a few of the
+barrels have become rotten, wine dripping out in numerous places and onto
+the ground. You can weave your way between the wine racks to the north or
+to the east.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15824
+D1
+~
+~
+0 0 15829
+E
+barrels~
+The only ones you could possibly remove are at the top of a large pile, and
+to climb up there is too risky.
+~
+S
+#15829
+The Wine Cellar~
+   You stand at the north western intersection of the four wine cellar
+chambers. From here, you can access the chambers to the south and east or
+travel back into the chamber to the north. Dust falls from the ceiling as
+if someone was walking in the rooms above you, but you can't hear a sound
+except that of your own breathing.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15825
+D1
+~
+~
+0 0 15830
+D2
+~
+~
+0 0 15833
+D3
+~
+~
+0 0 15828
+S
+#15830
+The Wine Cellar~
+   The entry to the second chamber leaves you standing before two doors; one
+to the north and one to the east. Both look fairly solid which is unusual
+given the amount of rotting wood that surrounds you in the form of broken
+wine racks.
+   To the west and south, you can access another of the chambers down here
+in the wine cellar.
+~
+158 9 0 0 0 0
+D0
+~
+door~
+1 -1 15826
+D1
+~
+door~
+1 0 15831
+D2
+~
+~
+0 0 15834
+D3
+~
+~
+0 0 15829
+S
+#15831
+The Wine Cellar~
+   This small room has only one exit, the one to the west from where you
+came. It contains nothing at all and you cannot see a purpose for it,
+especially since the door was locked.
+~
+158 9 0 0 0 0
+D3
+~
+door~
+1 0 15830
+S
+#15832
+The Wine Cellar~
+   You weave and crawl your way through the wine racks and end up in the
+coner of the chamber. The ground is soft and spongy, a carpet of moss having
+grown here over time. You wouldn't have thought the wine could provide
+nutrients to plant life, but perhaps it does...
+~
+158 9 0 0 0 0
+D1
+~
+~
+0 0 15833
+D2
+~
+~
+0 0 15836
+S
+#15833
+The Wine Cellar~
+   This is the south western intersection of the four wine cellar chambers.
+Wine racks travel from the northern wall to the southern wall within this
+chamber and you find it difficult to move between them. Broken bottles of
+wine still remain in the racks, their contents spilled long ago leaving no
+trace.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15829
+D1
+~
+~
+0 0 15834
+D2
+~
+~
+0 0 15837
+D3
+~
+~
+0 0 15832
+S
+#15834
+The Wine Cellar~
+   You step on a small clump of mushrooms that have sprouted up from the
+floor. It looks as if the foundation of this cellar is not entirely rock
+which is a worrying though since you now stand in it. You can access two of
+the other chambers to the north and west. Large barrels sit flush against
+the eastern and southern walls.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15830
+D1
+You see nothing special.
+~
+secret barrel~
+1 0 15835
+D2
+You see nothing special.
+~
+secret barrel~
+2 15802 15838
+D3
+~
+~
+0 0 15833
+E
+barrels~
+You've never seen any as large as the ones before you. Each barrel is large
+enough to fit three or four people of your size inside...provided you could
+get inside of course! The only thing of note that you can see is the small
+tap on each barrel.
+~
+E
+tap~
+On further examination, the tap appears to be a handle of some kind. Perhaps
+there is more than meets the eye here...
+~
+S
+#15835
+In a Large Barrel~
+   Remarkable and also very clever. This barrel is something of a primitive
+safe, although whoever placed it here has emptied it out. You can still smell
+the wine that this barrel once contained and you begin to feel light headed
+as the fumes take effect. The only exit is through the barrel opening to the
+west.
+~
+158 9 0 0 0 0
+D3
+~
+barrel~
+1 0 15834
+S
+#15836
+The Wine Cellar~
+   Two large metal storage bins sit against the western wall, both of them
+empty. The racks impede your progress throughout the chamber but you can
+squeeze past a few of them to the north or east if you desire.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15832
+D1
+~
+~
+0 0 15837
+E
+bins~
+They may have been used to store rubbish at one time or another, but they
+are empty now.
+~
+S
+#15837
+The Wine Cellar~
+   It looks as if someone has been doing work on the sub-structure here
+recently. Large chunks of rock and wood lie in a heap on the ground, the
+eastern wall appearing to be the source. As you move closer, several smaller
+stones drop onto the floor and sound echoes throughout the wine cellar.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15833
+D3
+~
+~
+0 0 15836
+S
+#15838
+In a Large Barrel~
+   There is more than meets the eye here as you stand within the barrel
+itself. You have stumbled across a secret room of sorts which exits into
+the wine cellar to the north and continues further to the east where you
+can see a set of stairs leading to the level below.
+~
+158 9 0 0 0 0
+D0
+~
+barrel~
+2 15802 15834
+D1
+~
+~
+0 0 15839
+S
+#15839
+In a Large Barrel~
+   The wood of the wine barrel gives way to the rock of the lighthouse
+foundation. Stairs cut deeper into the rock lead down into the darkness
+while the barrel stretches away to the west and then into one of the cellar
+chambers.
+~
+158 9 0 0 0 0
+D3
+~
+~
+0 0 15838
+D5
+~
+~
+0 0 15840
+S
+#15840
+A Long Passageway~
+   You estimate that you must be at least 40 feet below the level of the
+house and you wonder how much further this sub-structure extends. Obviously,
+this area was unknown to the lighthouse keeper and his family as is apparent
+by the relatively intact walls and lack of dust.
+   Stairs lead up to the wine cellar and the passageway continues to the east
+into the darkness.
+~
+158 13 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 0 15841
+D4
+~
+~
+0 0 15839
+D5
+You see nothing special.
+~
+secret trapdoor~
+1 0 15857
+S
+#15841
+A Long Passageway~
+   Two rooms can be accessed from here, one to the south and a larger one
+to the north. In the distance to the east you can hear a cry for help and
+what can only be described as the sound of intense pain; a scream so high
+pitched and loud that it cuts through you like a knife.
+~
+158 9 0 0 0 0
+D0
+You can see a few shelves but nothing more.
+~
+door~
+1 -1 15843
+D1
+It is too dark to see.
+~
+~
+0 0 15847
+D2
+It looks like a pedestal sits in the middle of the room.
+~
+door~
+1 -1 15842
+D3
+It is too dark to see.
+~
+~
+0 0 15840
+S
+#15842
+The Necromancers' Meditation Area~
+   You are confronted by a single room with a number of bookshelves against
+each wall and a pedestal in the middle. Arcane symbols have been drawn on
+the ground and you can almost feel the evil radiating from this room. You
+can return to the passageway through the opening to the north.
+~
+158 9 0 0 0 0
+D0
+~
+door~
+1 -1 15841
+E
+pedestal~
+You could be mistaken, but it looks as if it has been created from the bones
+of a creature unknown to you.
+~
+E
+Arcane~
+They all glow softly and you are uncertain as to their purpose.
+~
+S
+#15843
+The Necromancers' Laboratory~
+   You stand at the entrance to what can only be described as a laboratory
+of some type. Shelves to your left contain a number of glass jars and vials
+while a large table further to the east has bits and pieces on it that you
+can't quite see from here.
+   The laboratory extends to the north and east while the passageway lies
+to the south.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15844
+D1
+~
+~
+0 0 15846
+D2
+~
+door~
+1 -1 15841
+E
+jars vials~
+They are all empty and you have no need for any of them.
+~
+S
+#15844
+The Necromancers' Laboratory~
+   Some type of glass contraption occupies this corner of the lab. A strange
+red liquid is taken from one of three barrels before it passes through a
+number of glass containers, some of them heated by a single flame. The
+resultant mixture is combined with other equally strange liquids and empties
+into a vial.
+~
+158 9 0 0 0 0
+D1
+~
+~
+0 0 15845
+D2
+~
+~
+0 0 15843
+E
+barrels~
+You pry the lid off one of the barrels and instantly wish you hadn't. Having
+killed your share of creatures in the past, you are all to familiar with the
+sight and smell of blood and that's exactly what this barrel contains.
+~
+E
+contraption~
+Having never seen anything like it before, you can only wonder what it does.
+~
+E
+flame~
+You can see no source for the flame...it simplies sits beneath the jars
+and burns.
+~
+S
+#15845
+The Necromancers' Laboratory~
+   The entire eastern wall of the laboratory is taken up by a large table.
+It has on it a number of small piles, most of which you do not recognise
+but assume must be ingredients of some sort. The laboratory extends to the
+west and south.
+~
+158 8 0 0 0 0
+D2
+~
+~
+0 0 15846
+D3
+~
+~
+0 0 15844
+S
+#15846
+The Necromancers' Laboratory~
+   The entire eastern wall of the laboratory is taken up by a large table.
+At this end of the table, you recognise human body parts and fail to comprehend
+what possible purpose they serve. Whoever uses this laboratory is certainly
+insanse to deal in experimentation like this.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15845
+D3
+~
+~
+0 0 15843
+S
+#15847
+A Long Passageway~
+   The passageway continues to the west and east of here, while the way
+to the south is barred by a heavy door. You can hear someone whimpering
+from inside the room but your attempts to speak to them go unanswered.
+~
+158 9 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 0 15850
+D2
+It looks like a prison cell from here.
+~
+door~
+1 0 15848
+D3
+It is too dark to see.
+~
+~
+0 0 15841
+S
+#15848
+A Prison Cell~
+   You are confronted by a small, dark and musty prison cell. Chains hang
+from the walls, some of them still restrain both living and dead victims.
+Several pairs of beady red eyes stare at you from the darkness but stay just
+out of sight. The passageway lies to the north while the cell continues to
+the east.
+~
+158 9 0 0 0 0
+D0
+~
+door~
+1 0 15847
+D1
+~
+~
+0 0 15849
+E
+victims~
+Those that are still alive do not even look up as you enter, their spirit
+having been broken long ago.
+~
+S
+#15849
+A Prison Cell~
+   This end of the cell has pretty much of the same as the other end, although
+there are a few more creatures here chained to the wall. Some of them call out
+to you in a language you don't understand and try as you might, you cannot
+break the shackles that keep them here. A pile of straw lies in the corner
+and the prison cell extends to the west.
+~
+158 9 0 0 0 0
+D3
+~
+~
+0 0 15848
+D5
+You notice the outline of a small trapdoor in the floor.
+~
+secret trapdoor~
+2 15810 15886
+E
+trapdoor~
+You rifle through the straw some more and discover a wooden trapdoor. It has
+a strange looking keyhole.
+~
+E
+straw~
+It is infested with all manner of mites and fleas so you decide not to search
+it further.
+~
+S
+#15850
+A Long Passageway~
+   The passageway bends here, travelling to the north and to the west. The
+air feels almost electric and the hairs on the back of your neck rise
+instinctivly as if you are about to be struck by lightning. A piercing scream
+to the north grabs your attention before the silence again descends around
+you.
+~
+158 9 0 0 0 0
+D0
+It is too dark to see.
+~
+~
+0 0 15851
+D3
+It is too dark to see.
+~
+~
+0 0 15847
+S
+#15851
+A Long Passageway~
+   You have reached one end of the passageway, this end terminating in doors
+to the north and east. A sickly odor wafts around the passageway and you are
+having trouble identifying what it is and where it is coming from, but the
+door to the east is the more likely of the two.
+~
+158 9 0 0 0 0
+D0
+You see nothing special.
+~
+door~
+1 -1 15853
+D1
+You see nothing special.
+~
+door~
+1 -1 15852
+D2
+It is too dark to see.
+~
+~
+0 0 15850
+E
+odor~
+You can't look at an odor! Smell, maybe, but not look. Besides, you still
+can't figure out what it is.
+~
+S
+#15852
+A Torture Chamber~
+   The sight before you is like none you have ever seen before. If a place
+of eternal torment existed, then this would most likely be it - this room
+is a torture chamber and from the looks of it, has been widely and recently
+used. Wooden and mechanical devices fill the floor space and still contain
+bodyparts and a covering of fresh blood. What remains of one poor creature
+has been stuffed into a barrel in the corner, a makeshift coffin of sorts.
+   Before you exit to the west, you are overwhelmed by a sense of torment
+and anguish which, in such a place, is not hard to believe. It's as if the
+lives lost in here have remained, unable to escape into any form of afterlife.
+~
+158 137 0 0 0 0
+D3
+~
+door~
+1 -1 15851
+S
+#15853
+The Chambers of the Necromancer~
+   If fear and evilness were tangible quantities, this chamber abounds in
+both of them. Two human skulls levitate at the entrance, each emitting a
+soft light that is rather inadequate for a chamber of this size. The floor
+is covered by a plush carpet and the rock walls have been highly polished,
+a painstaking process you imagine.
+   To the east you can see what looks like an altar while to the north,
+a single bookshelf and desk rest against the far wall. You can enter a dark
+passageway through the door to the south.
+~
+158 73 0 0 0 0
+D0
+~
+~
+0 0 15855
+D1
+~
+~
+0 0 15854
+D2
+~
+door~
+1 -1 15851
+E
+skulls~
+As you move around the room, the skulls turn and follow.
+~
+S
+#15854
+The Chambers of the Necromancer~
+   A large altar has been carved out of the rock and placed in front of where
+you now stand. It is covered by a silk cloth and has a variety of arcane
+symbols drawn upon it. Candles have been evenly spaced around the top of the
+altar and a strange dagger has been impaled in the middle of them all.
+   The chamber continues to the north and to the west.
+~
+158 73 0 0 0 0
+D0
+~
+~
+0 0 15856
+D3
+~
+~
+0 0 15853
+E
+Candles~
+They don't look like ordinary candles, the wax is a blood red color and there
+is no heat coming from the flames.
+~
+E
+dagger~
+It has a serpentine blade and an ornate gold handle. Try as you might, you
+cannot budge it from the altar.
+~
+S
+#15855
+The Chambers of the Necromancer~
+   This area has been set aside as a private study.  A desk has been pushed
+up against the northern wall and a small bookshelf sits next to it.  The desk
+is bare except for a container of ink, a quill pen and a single tome.
+~
+158 73 0 0 0 0
+D1
+~
+~
+0 0 15856
+D2
+~
+~
+0 0 15853
+E
+tome~
+It is a journal belonging to the occupant of this chamber. Most of it details
+the grisly experiments conducted within this evil place but flicking through
+it, you find a small section near the beginning which may be of interest.
+
+..."and they have provided me with this sanctuary so that I may continue my
+work without interruption and fear of discovery until the time is right. In
+return, I have summoned the spirits for the levels above to ward off the
+adventurous."
+~
+S
+#15856
+The Chambers of the Necromancer~
+   The only item in this corner of the chamber is the wooden coffin before
+you. You could be mistaken, but it looks as if the Necromancer chooses to
+sleep within it although the reason why is unclear. It has been constructed
+from a dark wood and has golden handles on either side to aid in its
+movement.
+~
+158 73 0 0 0 0
+D2
+~
+~
+0 0 15854
+D3
+~
+~
+0 0 15855
+E
+coffin~
+It radiates some type of aura that is barely visible to the naked eye, perhaps
+it provides some regenative powers to its owner.
+~
+S
+#15857
+Climbing a Ladder~
+   You are halfway along a ladder that leads into a small room above you and
+down into the murky darkness below. You soon discover that you are working
+your way through a layer of rock, this area having been carved out to allow
+access between the different sub-structure areas.
+~
+158 261 0 0 0 0
+D4
+~
+trapdoor~
+1 0 15840
+D5
+~
+~
+0 0 15858
+S
+#15858
+At the Base of a Ladder~
+   You are at the base of a wooden ladder that reaches skyward into the
+darkness. To the west, a large rock cavern contains a number of crates,
+barrels and general sea-going equipment. From here, you can see tunnels
+leading away from the main chamber deeper into the rock foundation.
+~
+158 9 0 0 0 0
+D3
+~
+~
+0 0 15859
+D4
+~
+~
+0 0 15857
+E
+sea going~
+You can see tools used in the loading of cargo, fishing nets, sails, cannons
+and much more.
+~
+S
+#15859
+A Subterranean Cavern~
+   The eastern end of the cavern is cluttered with all manner of objects but
+mostly crates, which upon closer inspection reveal chunks of metal. Each
+crate bares an insignia of some sort; some the royal seal of Amber, others
+the seal of Mistkeep, and yet others the crest of Kir Oshi. The ground is a
+combination of rock and sand, showing telltale signs of pedestrian traffic.
+   To the east, you can see a small opening in the cavern wall while in most
+other directions, tunnels branch off into other areas.
+~
+158 9 0 0 0 0
+D0
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15863
+D1
+~
+~
+0 0 15858
+D2
+~
+~
+0 0 15861
+D3
+~
+~
+0 0 15862
+S
+#15860
+A Small Tunnel~
+   A strong breeze circles around you as you work your way through this small
+passage. Other tunnels at ground level lead to other parts of this subterranean
+structure but you are too large to fit into any of them. Listening carefully,
+you can hear the sound of the sea through one of the tunnels in the eastern
+wall.
+   A large cavern lies to the west while the tunnel continues to the south.
+~
+158 265 0 0 0 0
+D2
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15897
+D3
+~
+~
+0 0 15861
+S
+#15861
+A Subterranean Cavern~
+   You weave your way through several cloth bundles but find nothing of
+interest in this corner of the cavern. Looking above you, the ceiling is
+barely visible and any sound echos quite distinctly around the area. The
+cavern opens out to the north and west while a small tunnel leaves east
+from here.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15859
+D1
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15860
+D3
+~
+~
+0 0 15864
+E
+bundles~
+You open one of the bundles up and discover a cache of weapons. Judging by
+the number of bundles in this area alone, there must be hundreds of swords,
+daggers, knives and spears stored here.
+~
+S
+#15862
+A Subterranean Cavern~
+   Standing near the center of the cavern and looking around, you are in awe
+at the sheer size of this place. It's hard to believe that high above you,
+the Haven lighthouse has been constructed. The cavern continues to the south
+and east while to your west, a tunnel disappears into the darkness. You
+have difficulty seeing over the amount of goods stored here.
+~
+158 9 0 0 0 0
+D1
+~
+~
+0 0 15859
+D2
+~
+~
+0 0 15864
+D3
+~
+~
+0 0 15889
+E
+goods~
+There are all manner of things here which lead you to believe they have
+been obtained illegally given the nature of their storage area.
+~
+S
+#15863
+A Tunnel System~
+   You stand at what could be the beginning or the end of a lengthy tunnel
+system, depending on your point of view. Over time, the sea has eroded the
+rocky walls in this place leaving many interconnecting passageways, although
+the majority are too small for any creature to fit into. You can, however,
+access a large cavern to the south or progress further into the tunnels to
+the north or west.
+~
+158 9 0 0 0 0
+D0
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15866
+D2
+~
+~
+0 0 15859
+D3
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15895
+S
+#15864
+A Subterranean Cavern~
+   Walking in this area requires slightly more effort, the rocky floor
+giving way to sand and impeding your progress around the cavern. For that
+reason, it is relatively clear of items and allows easy access to the
+remainder of the cavern to the north and east.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15862
+D1
+~
+~
+0 0 15861
+S
+#15865
+A Tunnel System~
+   Casks of ale have been stacked haphazardly before you and you're careful
+not to disturb them. The tunnel bends here and it appears as if the walls
+to the south are converging, making travel in that direction difficult but
+not impossible.
+~
+158 9 0 0 0 0
+D2
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15898
+D3
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15866
+S
+#15866
+A Tunnel System~
+   You almost bump your head on the tunnel roof as you follow the twists and
+turns through the rock structure. The air feels relatively dry and free from
+humidity which is odd given the proximity to the sea that you can hear echo
+through the tunnels.
+   A T-junction in the system allows you to travel west, east or south.
+~
+158 9 0 0 0 0
+D1
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15865
+D2
+~
+~
+0 0 15863
+D3
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15867
+E
+roof~
+Large rock formations have grown from the ceiling and are quite sharp. You
+should be careful as you move around or you might hurt yourself.
+~
+S
+#15867
+A Tunnel System~
+   The sound of the sea grows stronger as you maneuver your way across rolled
+up ship sails. Hessian bags sit alongside the tunnel wall along with a
+transport platform of some type. The tunnel extends to the east and west.
+~
+158 9 0 0 0 0
+D1
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15866
+D3
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15887
+E
+bags~
+Each contains a variety of ore pieces.
+~
+E
+platform~
+It is a number of wooden planks joined together and has small wagon wheels
+affixed to its side.
+~
+S
+#15868
+A Subterranean Cavern~
+   You have arrived at the top of a set of stairs that have been carved out
+of the rock wall and floor. A tunnel leads away to the east and you will have
+to step over a large number of assorted items if you wish to travel in that
+direction. The sound and smell of the ocean is quite strong here and eminates
+from the base of the stairs.
+~
+158 9 0 0 0 0
+D1
+~
+~
+0 0 15894
+D5
+~
+~
+0 0 15869
+E
+items~
+Barrels, crates and baskets line the edge of the tunnel. It appears as if
+this area is used to store goods for someone.
+~
+S
+#15869
+A Small Alcove~
+   You are in a small alcove adjacent to a large cave to the west that opens
+onto the ocean. A sandy beach, also to the west, sits alongside the edge
+of the cave while a set of stairs leads up from here.
+~
+158 12 0 0 0 0
+D3
+~
+~
+0 0 15870
+D4
+~
+~
+0 0 15868
+S
+#15870
+A Large Sea Cave~
+   The beach upon which you stand extends to the north and south along the
+eastern edge of this large cave. Further to the north west, the mouth of
+the cave meets the ocean while further to the west, you can see some kind
+of ship berthed at a wooden dock.
+~
+158 8 0 0 0 0
+D0
+~
+~
+0 0 15871
+D1
+~
+~
+0 0 15869
+D2
+~
+~
+0 0 15872
+D3
+~
+~
+0 0 15878
+E
+ship~
+You'll have to get closer if you want to see anything more clearly.
+~
+S
+#15871
+A Large Sea Cave~
+   The northern end of the beach meets the cave wall to the north and east
+while the calm waters of the cave lagoon lie to the west. Although this area
+may have been naturally created, it has undergone quite a few modifications
+including the dock to the south west and the small alcove just to the south
+east of here.
+~
+158 8 0 0 0 0
+D2
+~
+~
+0 0 15870
+D3
+~
+~
+0 0 15879
+S
+#15872
+A Large Sea Cave~
+   The southern end of the beach meets the cave wall to the east and south
+while a wooden dock stretches into the cave lagoon west of here. Although
+this area may have been naturally created, the dock is a sure sign that
+others visit this place frequently.
+   Towards the end of the dock, you can see a medium sized ship.
+~
+158 8 0 0 0 0
+D0
+~
+~
+0 0 15870
+D3
+~
+~
+0 0 15873
+S
+#15873
+A Large Sea Cave~
+   The dock here is only a few feet off the ground and you wonder how the
+ship at the western end could sail in here and not get caught on the sandy
+bottom of the lagoon. The calm waters lap at the base of the dock and onto
+the beach to the east.
+~
+158 8 0 0 0 0
+D0
+~
+~
+0 0 15878
+D1
+~
+~
+0 0 15872
+D3
+~
+~
+0 0 15874
+S
+#15874
+A Large Sea Cave~
+   You have reached the end of the dock and can only progress west onto the
+ship, travel east along the dock or north to enter the waters of the cave
+lagoon. Looking northward, the open ocean beckons through the mouth of the
+cave.
+~
+158 12 0 0 0 0
+D0
+~
+~
+0 0 15881
+D1
+~
+~
+0 0 15873
+D3
+~
+~
+0 0 15875
+S
+#15875
+The Upper Deck~
+   It's not until you are aboard this ship do you realise that the flag it
+flies is that of a skull and crossbones. Judging by the relatively small
+size of this ship, it has been designed for speed rather than cargo carrying
+capability although by the looks of it, the ship can hold quite a few tons
+of goods.
+~
+158 8 0 0 0 0
+D0
+~
+~
+0 0 15876
+D1
+~
+~
+0 0 15874
+S
+#15876
+The Upper Deck~
+   You skirt around a large hole in the middle of the ship which appears
+to be an access point for the loading and unloading of cargo. A wooden crane
+system has been erected to lift goods from the cargo hold and swing them
+out onto the dock. The ship rocks gently in the waters of the lagoon but you
+can only travel to the north or south along the deck.
+~
+158 8 0 0 0 0
+D0
+~
+~
+0 0 15877
+D2
+~
+~
+0 0 15875
+S
+#15877
+The Upper Deck~
+   The stern of the ship is wide and open with the wheel clearly visible on
+a raised platform further aft. A narrow doorway leads to a set of stairs
+which allow access to the lower deck.
+~
+158 8 0 0 0 0
+D2
+~
+~
+0 0 15876
+D5
+You can't see clearly down there.
+~
+~
+0 0 15882
+S
+#15878
+The Sea Cave Lagoon~
+   The water is quite pleasant as you swim around near the beach to the east.
+A school of small fish swims nearby, not afraid of your intrusion into
+their domain. The lagoon is shallow here and you can easily stand on the
+bottom but it deepens rapidly to the west.
+   You can climb onto a wooden dock to the south or swim further around the
+lagoon to the north and west.
+~
+158 8 0 0 0 6
+D0
+~
+~
+0 0 15879
+D1
+~
+~
+0 0 15870
+D2
+~
+~
+0 0 15873
+D3
+~
+~
+0 0 15881
+S
+#15879
+The Sea Cave Lagoon~
+   You splash around in the shallow waters of the lagoon, a nice sandy beach
+directly east of here. The cave wall blocks any travel to the north and you
+can just see the ocean through the cave mouth to the west. The lagoon extends
+to the south and west.
+~
+158 8 0 0 0 6
+D1
+~
+~
+0 0 15871
+D2
+~
+~
+0 0 15878
+D3
+~
+~
+0 0 15880
+S
+#15880
+The Sea Cave Lagoon~
+  You have reached the mouth of a large sea cave, the calm waters of the
+cave lagoon to the south and east. To your north, the ocean waves crash
+against the outside of the cave walls but surprisingly have no effect on the
+waters here. Further to the east, a sandy beach hugs the eastern wall of the
+cave while to the south, a wooden dock extends from the beach to a medium
+sized ship.
+~
+158 8 0 0 0 7
+D0
+~
+~
+0 0 12182
+D1
+~
+~
+0 0 15879
+D2
+~
+~
+0 0 15881
+S
+#15881
+The Sea Cave Lagoon~
+   The lagoon is quite deep here which makes sense given the ship that is
+docked to the west. The cave provides a fantastic hiding place and obviously
+someone has used that to their advantage. You cannot climb onto the ship
+from here, but you can scramble onto the dock to the south or travel further
+around the lagoon to the north or east.
+~
+158 8 0 0 0 7
+D0
+~
+~
+0 0 15880
+D1
+~
+~
+0 0 15878
+D2
+~
+~
+0 0 15874
+S
+#15882
+The Lower Deck~
+   The lower deck of the ship is quite cramped and you have to be careful
+to avoid bumping your head on the beams. You can travel into the cargo hold
+to the south or through a door to your west. Stairs lead upwards to the top
+deck.
+~
+158 8 0 0 0 0
+D2
+~
+~
+0 0 15883
+D3
+The captain's quarters are in there.
+~
+door~
+1 -1 15885
+D4
+~
+~
+0 0 15877
+S
+#15883
+The Lower Deck~
+   The remainder of the ship from here to the south is used to store all
+manner of goods. A hole in the upper deck allows access to the cargo stored
+here.
+~
+158 8 0 0 0 0
+D0
+~
+~
+0 0 15882
+D2
+~
+~
+0 0 15884
+S
+#15884
+The Lower Deck~
+   You are at the bow of the ship, albeit below the upper deck. Progress
+further south is blocked by several large containers so your only exit is
+to travel back to the north.
+~
+158 0 0 0 0 0
+D0
+~
+~
+0 0 15883
+S
+#15885
+The Captain's Quarters~
+   Apparently, only the captain of this vessel has any personal space at all
+and even that is fairly cramped. This small room contains nothing more than
+a bunk and a table in the corner. A single porthole on the western side gives
+a nice view of the cave wall.
+~
+158 8 0 0 0 0
+D1
+~
+door~
+1 -1 15882
+S
+#15886
+A Secret Compartment~
+   The trapdoor above opens into this small room big enough to hold only
+one person. More of the arcane symbols grace the walls and the floor and
+you feel drawn to the middle of the room by some magical force. It requires
+great effort to move anywhere but from the position you are in.
+~
+158 269 0 0 0 0
+D4
+~
+trapdoor~
+2 15810 15849
+S
+#15887
+A Tunnel System~
+   The floor gently slopes down from the east and on more than one occassion,
+you lose your footing as you travel along the tunnel. It bends here, continuing
+up the slope to the east and also further to the south.
+~
+158 9 0 0 0 0
+D1
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15867
+D2
+~
+~
+0 0 15888
+S
+#15888
+A Tunnel System~
+   Shadows jump at you from the many openings in the tunnel walls but you
+convince your self they are simply a part of your active imagination and
+a product of the tunnel creation. A blast of fresh sea air hits you from the
+west and you can smell, rather than see, stagnant water to the south.
+~
+158 9 0 0 0 0
+D0
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15887
+D2
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15889
+D3
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15892
+E
+creation~
+As the sea has continued to erode its way through the tunnel system, many
+pieces of rock remain that jut out at strange angles and block the passage
+of light, creating an interesting shadow effect.
+~
+S
+#15889
+A Tunnel System~
+   You stand at what could be the beginning or the end of a lengthy tunnel
+system, depending on your point of view. Sounds echo around you, carried
+through a series of smaller tunnels, the majority of which are too small for
+any creature to fit into. You can, however, access a large cavern to the east
+or progress further into the tunnels to the north.
+   You can just make out a pool of stagnant water to the south and decide it
+may not be wise to travel in that direction.
+~
+158 9 0 0 0 0
+D0
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15888
+D1
+~
+~
+0 0 15862
+D2
+The pool looks very unpleasant.
+~
+~
+0 0 15890
+E
+pool~
+At one time it was sea water, but as the level of the ocean dropped over
+the years and without heat and sunlight to evaporate it, this pool of water
+remains. Looking at it, it appears to be quite deep further to the south.
+~
+S
+#15890
+Swimming in a Stagnant Pool~
+   Defying the laws of nature and science, this pool has spawned a type
+of algae which continues to flourish here despite the lack of food, fresh
+water and light. The smell is almost overpowering and it would be wise not
+to remain here for too long.
+~
+158 77 0 0 0 8
+D0
+You'll have to get out of the pool to have a look.
+~
+~
+0 0 15889
+D2
+The visibility under here is too poor.
+~
+~
+0 0 15891
+S
+#15891
+Swimming in a Stagnant Pool~
+   Swimming through this mess is almost impossible, it is so thick in places
+that you might as well walk on top of it. You can't even see the bottom
+from here and wonder how deep this area really goes.
+~
+158 77 0 0 0 8
+D0
+The visibility under here is too poor.
+~
+~
+0 0 15890
+D1
+The visibility under here is too poor.
+~
+~
+0 0 15896
+S
+#15892
+A Tunnel System~
+   A vortex of sea air engulfs you and is then gone as quickly as it arrived.
+You can see a faint glow coming from the tunnel to the south and the sounds
+of the sea are strong here, leading you to believe the exit from this system
+is nearby. You can travel to the west, south or east into the tunnels.
+~
+158 9 0 0 0 0
+D1
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15888
+D2
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15894
+D3
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15899
+S
+#15893
+A Tunnel System~
+   You trip on a barely visible rock and bang your head onto the rock wall in
+front of you. Slightly dazed, you stand and see that the tunnel ends here,
+the only exit back to the north. Cursing the rock that caused you to trip,
+you decide to continue.
+~
+158 9 0 0 0 0
+D0
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15894
+S
+#15894
+A Tunnel System~
+   You eyes slowly adjust to the combination of a small amount of light and
+the surrounding darkness. The light comes from the tunnel to the west while
+the darkness extends into the tunnels to the north and south.
+~
+158 9 0 0 0 0
+D0
+~
+~
+0 0 15892
+D2
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15893
+D3
+You can barely make out a set of stairs.
+~
+~
+0 0 15868
+S
+#15895
+A Tunnel System~
+   The tunnel turns sharply to the south and ends in a rock wall. Given the
+nature of this system, you could search for hours and never find a way out
+or it could take only a few minutes and you would be free from the confines
+of the tunnels. For now, you can only travel back to the east.
+~
+158 9 0 0 0 0
+D1
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15863
+S
+#15896
+Swimming in a Stagnant Pool~
+   You swim further into the depths of the pool and arrive at a dead end.
+The cavern walls are covered in a thick layer of the algae and any thought
+you had of climbing out of the pool should be forgotten. The only exit is
+to swim back the way you came.
+~
+158 77 0 0 0 8
+D3
+The visibility under here is too poor.
+~
+~
+0 0 15891
+S
+#15897
+A Small Tunnel~
+   You squeeze your way through a narrow opening in the rocky walls and find
+yourself at a dead end anyway. Not only that, but you are now standing in
+ankle high sea water that has seeped in through the sandy floor. It appears
+as if the only exit is back the way you came from.
+~
+158 265 0 0 0 0
+D0
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15860
+S
+#15898
+A Tunnel System~
+   The end of the tunnel is littered with what look like human bones. They
+have been neatly sorted according to type, some even packaged ready for
+transport to an unknown destination. You can't imagine what type of creature
+would deal in the trade of human bones but the proof lies before you.
+   The tunnel to the north provides the only exit.
+~
+158 265 0 0 0 0
+D0
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15865
+S
+#15899
+A Tunnel System~
+   The tunnel doesn't progress too much further before ending in a wall of
+rock. However, much work has been completed here to turn this area into
+something of a food preparation area. A large cauldron sits over an open fire
+while cooking tools hang from the wall. Slabs of rock serve as bench tops
+and it looks as if someone is in the middle of cooking the next meal.
+~
+158 9 0 0 0 0
+D1
+The tunnel twists too much for you too see into it.
+~
+~
+0 0 15892
+E
+cauldron~
+Water boils away inside it but it is too large and heavy for you to take.
+~
+S
+$~

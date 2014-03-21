@@ -1,0 +1,11 @@
+*~
+config.status
+config.log
+autom4te.cache
+Makefile
+*.o
+src/svn_revision.h
+*.a
+src/.deps
+src/config.h
+bin/circle

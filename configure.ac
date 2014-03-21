@@ -20,9 +20,10 @@ fi
 AM_CONDITIONAL([C99], [test x$ac_cv_prog_cc_c99 != xno])
 
 AC_PROG_RANLIB
+AM_PROG_AR
 
 # Checks for libraries.
-AC_CHECK_LIB([m], [sqrt], [], 
+AC_CHECK_LIB([m], [sqrt], [],
         [AC_MSG_ERROR([cannot find libm])])
 AC_CHECK_LIB([crypt], [crypt], [],
         [AC_MSG_WARN([cannot find libcrypt, passwords will be stored in plaintext])])

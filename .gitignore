@@ -9,3 +9,9 @@ src/svn_revision.h
 src/.deps
 src/config.h
 bin/circle
+TAGS
+lib/etc/clans
+lib/etc/players
+lib/etc/plrmail
+log
+syslog*

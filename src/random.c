@@ -3,7 +3,7 @@
 *  Usage: pseudo-random number generator                                  *
 ************************************************************************ */
 
-/* 
+/*
  * This file implements a high quality psuedo-random number generator.
  *
  * It uses a complimentary-multiply-with-carry RNG with a period of
@@ -58,7 +58,7 @@ static unsigned long cmwc_next()
   unsigned long long t, a = 123471786ULL;
   static unsigned long c = 362436, i = 1023;
   unsigned long x, r = 0xfffffffe;
-  
+
   i = (i + 1) & 1023;
   t = a * Q[i] + c;
   c = (t >> 32);
@@ -68,5 +68,5 @@ static unsigned long cmwc_next()
     c++;
   }
 
-  return (Q[i] = r - x);
+  return (unsigned int) (Q[i] = r - x);
 }

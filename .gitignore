@@ -15,3 +15,5 @@ lib/etc/players
 lib/etc/plrmail
 log
 syslog*
+lib/plrobjs
+lib/misc/help

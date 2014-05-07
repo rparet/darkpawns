@@ -1,5 +1,5 @@
 /* Public interface file for random.c.
-   
+
    random.c provides a high quality pseudo random number generator
    that is much better than the system library function in most cases.
 
@@ -14,11 +14,13 @@
 #ifndef _RANDOM_H
 #define _RANDOM_H
 
+#include <stdint.h>
+
 /* Seeds the PRNG. */
-void prng_seed(unsigned long seed);
+void prng_seed(uint32_t seed);
 
 /* Gets the next 32-bit integer from the PRNG. */
-unsigned long prng_next();
+uint32_t prng_next();
 
 /* Gets a float in the uniform distribution over [0,1).  */
 float prng_uniform();

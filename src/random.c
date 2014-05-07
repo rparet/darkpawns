@@ -3,26 +3,27 @@
 *  Usage: pseudo-random number generator                                  *
 ************************************************************************ */
 
-/* 
+/*
  * This file implements a high quality psuedo-random number generator.
  *
  * It uses a complimentary-multiply-with-carry RNG with a period of
  * 2^131104 as described by Marsaglia.
  */
 
+#include <stdint.h>
 #include "random.h"
 
-static void cmwc_seed(unsigned long seed);
-static unsigned long cmwc_next();
+static void cmwc_seed(uint32_t seed);
+static uint32_t cmwc_next();
 
 /* Generic entry point to the RNG's seeding function. */
-void prng_seed(unsigned long seed)
+void prng_seed(uint32_t seed)
 {
   cmwc_seed(seed);
 }
 
 /* Get the next 32-bit integer in the random sequence. */
-unsigned long prng_next()
+uint32_t prng_next()
 {
   return cmwc_next();
 }
@@ -37,10 +38,10 @@ float prng_uniform()
 /* CMWC PRNG implementation */
 
 /* 1024 seed values */
-static unsigned long Q[1024];
+static uint32_t Q[1024];
 
 /* Seeds the cmwc RNG using xorshift. */
-static void cmwc_seed(unsigned long j)
+static void cmwc_seed(uint32_t j)
 {
   int i;
 
@@ -53,12 +54,12 @@ static void cmwc_seed(unsigned long j)
 }
 
 /* Gets the next 32-bit integer using the cmwc algorithm. */
-static unsigned long cmwc_next()
+static uint32_t cmwc_next()
 {
-  unsigned long long t, a = 123471786ULL;
-  static unsigned long c = 362436, i = 1023;
-  unsigned long x, r = 0xfffffffe;
-  
+  uint64_t t, a = 123471786ULL;
+  static uint32_t c = 362436, i = 1023;
+  uint32_t x, r = 0xfffffffe;
+
   i = (i + 1) & 1023;
   t = a * Q[i] + c;
   c = (t >> 32);

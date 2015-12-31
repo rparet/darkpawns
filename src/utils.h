@@ -60,7 +60,6 @@ struct time_info_data age(struct char_data *ch);
 struct time_info_data playing_time(struct char_data *ch);
 bool    is_veteran(struct char_data *ch);
 int	num_pc_in_room(struct room_data *room);
-char   *tprintf(char *fmt, ...);
 void    sprintbitarray(int bitvector[], char *names[], int maxar, char *result);
 void    core_dump_real(const char *, int);
 bool    check_dead(struct char_data *ch);
@@ -105,7 +104,7 @@ void	gain_condition(struct char_data *ch, int condition, int value);
 void	check_idling(struct char_data *ch);
 void	point_update(void);
 void	update_pos(struct char_data *victim);
-bool    are_grouped(struct char_data *ch1, struct char_data *ch2);   
+bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 
 
 /* various constants *****************************************************/
@@ -147,7 +146,7 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 /* Misc. defines (rparet) */
 
 #define IS_FLYING(ch)   (IS_AFFECTED((ch), AFF_FLY) || \
-                           PRF_FLAGGED((ch),PRF_NOHASSLE))                 
+                           PRF_FLAGGED((ch),PRF_NOHASSLE))
 #define CAN_SWIM(ch)    (IS_AFFECTED((ch), AFF_WATERWALK) || \
                          IS_AFFECTED((ch), AFF_FLY) || \
                          PRF_FLAGGED((ch), PRF_NOHASSLE) || \
@@ -162,7 +161,7 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 #define LOWER(c)   (((c)>='A'  && (c) <= 'Z') ? ((c)+('a'-'A')) : (c))
 #define UPPER(c)   (((c)>='a'  && (c) <= 'z') ? ((c)+('A'-'a')) : (c) )
 
-#define ISNEWL(ch) ((ch) == '\n' || (ch) == '\r') 
+#define ISNEWL(ch) ((ch) == '\n' || (ch) == '\r')
 #define IF_STR(st) ((st) ? (st) : "\0")
 #define CAP(st)  (*(st) = UPPER(*(st)), st)
 
@@ -628,4 +627,3 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 #endif
 
 #endif  /* _UTILS_H */
-

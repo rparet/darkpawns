@@ -115,7 +115,7 @@ int str_cmp(char *arg1, char *arg2)
       else
 	return (1);
     }
-  
+
   return (0);
 }
 
@@ -297,7 +297,7 @@ struct time_info_data real_time_passed(time_t t2, time_t t1)
 
   now.month = -1;
   now.year = -1;
-  now.moon = 0; 
+  now.moon = 0;
 
   return now;
 }
@@ -340,7 +340,7 @@ struct time_info_data age(struct char_data *ch)
 struct time_info_data playing_time(struct char_data *ch)
 {
   struct time_info_data pt;
-  
+
   time_t secs = (time(0) - ch->player.time.logon) + ch->player.time.played;
 
   pt.year = 0;
@@ -406,7 +406,7 @@ void stop_follower(struct char_data * ch)
           affect_from_char(ch, SKILL_SHADOW);
           REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_DODGE);
           shadowing = TRUE;
-        }    
+        }
 
   if (IS_AFFECTED(ch, AFF_CHARM)) {
     act("You realize that $N is a jerk!", FALSE, ch, 0, ch->master, TO_CHAR);
@@ -531,12 +531,12 @@ int get_filename(char *orig_name, char *filename, int mode)
   switch (mode) {
   case POOF_FILE:
     prefix = "plrpoof";
-    suffix = "poof"; 
+    suffix = "poof";
     break;
-    
+
   case ALIAS_FILE:
     prefix = "plralias";
-    suffix = "alias"; 
+    suffix = "alias";
     break;
   case CRASH_FILE:
     prefix = "plrobjs";
@@ -601,16 +601,16 @@ parse_race(char arg)
 {
 	switch(arg)
 	{
-		case 'h': return RACE_HUMAN; 
-		case 'e': return RACE_ELF; 
-		case 'd': return RACE_DWARF; 
-		case 'k': return RACE_KENDER; 
-		case 'r': return RACE_RAKSHASA; 
-		case 'm': return RACE_MINOTAUR; 
+		case 'h': return RACE_HUMAN;
+		case 'e': return RACE_ELF;
+		case 'd': return RACE_DWARF;
+		case 'k': return RACE_KENDER;
+		case 'r': return RACE_RAKSHASA;
+		case 'm': return RACE_MINOTAUR;
 		case 's': return RACE_SSAUR;
 		default: break;
 	}
-	return RACE_UNDEFINED; 
+	return RACE_UNDEFINED;
 }
 
 struct char_data *
@@ -634,7 +634,7 @@ get_mount(struct char_data *ch)
 struct char_data *
 get_rider_in_room(struct char_data *mount)
 {
-  if (mount && IS_NPC(mount) && IS_MOUNTED(mount) && 
+  if (mount && IS_NPC(mount) && IS_MOUNTED(mount) &&
 	mount->master->in_room == mount->in_room)
     return (mount->master);
   return ((struct char_data *)NULL);
@@ -669,13 +669,13 @@ are_grouped(struct char_data *ch1, struct char_data *ch2)
       if (f->follower == ch2)
          return(TRUE);
    return FALSE;
-} 
+}
 
 bool
 is_intelligent(struct char_data *ch)
 {
   int i;
-  for (i=0; i<NUM_INTEL_RACES; i++) 
+  for (i=0; i<NUM_INTEL_RACES; i++)
 	if (GET_RACE(ch)==intelligent_races[i])
 		return(TRUE);
   return(FALSE);
@@ -705,8 +705,8 @@ get_char_by_id(long id)
 }
 
 void
-set_hunting(struct char_data *ch, struct char_data *vict) 
-{ 
+set_hunting(struct char_data *ch, struct char_data *vict)
+{
   if (!ch || (HUNTING(ch)&&HUNTING(ch)==vict) )
     return;
 
@@ -743,142 +743,12 @@ num_followers(struct char_data *ch)
 {
   int tot_members = 0;
   struct follow_type *f;
-  
+
   if (ch->followers)
     for (f = ch->followers; f; f = f->next)
       tot_members++;
 
    return(tot_members);
-}
-
-static int parse_command (char *ptr, char **f)
-{
-   double nf;
-
-   nf = strtod (ptr, f);
-
-   if (*f == ptr)
-      nf = 0;
-
-   return ((int)nf);
-}
-
-
-static int 
-total_bytes (char *fmt, va_list argptr)
-{
-   int len;
-   int size, psize;
-   char *ptr;
-   char *f;
-   char format[4];
-   char buffer[128];
-   int i;
-   unsigned u;
-   double d;
-
-   len = strlen(fmt);
-   ptr = strchr (fmt, '%');
-
-   /* skip past any escaped % characters */
-   while (ptr && *ptr && (*(ptr + 1) == '%'))
-      ptr = strchr (ptr + 2, '%');
-
-   while (ptr)
-   {
-      size = 0;
-      psize = parse_command (++ptr, &f);
-      sprintf (format, "%%%c", *f);
-
-      switch (*f)
-      {
-      case 'd':
-      case 'i':
-         i = va_arg (argptr, int);
-         sprintf (buffer, format, i);
-         size = strlen (buffer);
-         break;
-      case '%':
-         ptr++;
-      case 'c':
-         (void)va_arg (argptr, int);    /* char types are promoted to int */
-         size = sizeof(char);
-         break;
-      case 'e':
-      case 'E':
-      case 'g':
-      case 'f':
-      case 'G':
-         d = va_arg (argptr, double);
-         sprintf (buffer, format, d);
-         size = strlen (buffer);
-         break;
-      case 'u':
-      case 'o':
-      case 'x':
-      case 'X':
-         u = va_arg (argptr, unsigned int);
-         sprintf (buffer, format, u);
-         size = strlen (buffer);
-         break;
-      case 'p':
-         i = (int) va_arg (argptr, void *);
-         sprintf (buffer, format, i);
-         size = strlen (buffer);
-         break;
-      case 's':
-         f = va_arg (argptr, char *);
-         size = f ? strlen (f) : 0;
-         break;
-      default:
-         fprintf (stderr, "total_bytes: invalid format modifier <%c>\n", *f);
-         len = -1;
-         break;
-      }
-
-      if (len == -1)
-         break;
-
-      if (psize)
-         len += psize;
-      else
-         len += size;
-
-      ptr = strchr (ptr, '%');
-
-      /* skip past any escaped % characters */
-      while (ptr && *ptr && (*(ptr + 1) == '%'))
-         ptr = strchr (ptr + 2, '%');
-   }
-
-   return (len);
-}
-
-/*
- * char_string = tprintf("%s blah %d\r\n", some_string, some_int;
- * char_string will be allocated and must be FREEd
- */
-char *tprintf (char *fmt, ...)
-{
-   int bytes;
-   va_list params;
-   char *buffer = NULL;
-
-   va_start (params, fmt);
-
-   bytes = total_bytes (fmt, params);
-   if (bytes > 0)
-   {
-      buffer = (char *) calloc (bytes + 1, sizeof(char));
-      buffer[0] = '\0';
-   }
-
-   if (buffer)
-      vsprintf(buffer, fmt, params);
-
-   va_end (params);
-
-   return buffer;
 }
 
 struct char_data *
@@ -909,12 +779,16 @@ is_playing(char *vict_name)
  * (Note that you may have _expected_ truncation because you only wanted
  * a few characters from the source string.)
  */
-size_t strlcpy(char *dest, const char *source, size_t totalsize)
+
+/*
+ size_t strlcpy(char *dest, const char *source, size_t totalsize)
 {
-  strncpy(dest, source, totalsize - 1);	/* strncpy: OK (we must assume 'totalsize' is correct) */
+  strncpy(dest, source, totalsize - 1);
   dest[totalsize - 1] = '\0';
   return strlen(source);
 }
+
+*/
 
 /* sprintnbit function ported from Circle 3.1 (called sprintbit in Circle3.1) */
 /*
@@ -953,7 +827,7 @@ void sprintbitarray(int bitvector[], char *names[], int maxar, char *result)
   int i;
   size_t len;
   char tmp[MAX_STRING_LENGTH/4];
-  
+
   *result = '\0';
   len = 0;
 
@@ -1006,8 +880,8 @@ circle_check(struct char_data *ch)
 
   if (!ch || ch->in_room == NOWHERE)
     return FALSE;
-  
-  for (i = world[ch->in_room].contents; i; i = i->next_content) 
+
+  for (i = world[ch->in_room].contents; i; i = i->next_content)
   {
      if(i && GET_OBJ_VNUM(i) == COC_VNUM) {
        GET_OBJ_TIMER(i)--;
@@ -1096,11 +970,11 @@ bool matches(const char *s, const char *regex)
   int result;
   regex_t r;
 
-  regcomp(&r, regex, REG_EXTENDED);  
+  regcomp(&r, regex, REG_EXTENDED);
 
   result = !regexec(&r, s, 0, NULL, 0);
 
   regfree(&r);
-  
+
   return result;
 }

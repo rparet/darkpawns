@@ -23,7 +23,7 @@
 
 #include "config.h"
 #include "sysdep.h"
- 
+
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -50,10 +50,10 @@ extern struct zone_data *zone_table;
 
 
 /* extern functions */
-struct char_data *HUNTING(struct char_data *ch);   
+struct char_data *HUNTING(struct char_data *ch);
 ACMD(do_tell);
 ACMD(do_flee);
-void raw_kill(struct char_data * ch, int attacktype); 
+void raw_kill(struct char_data * ch, int attacktype);
 void set_hunting(struct char_data *ch, struct char_data *victim);
 void send_to_zone(char *messg, struct char_data *ch);
 void improve_skill(struct char_data *ch, int skill_num);
@@ -83,7 +83,7 @@ ACMD(do_scrounge)
 
    percent = number(1, 101);
    prob = GET_SKILL(ch, SKILL_SCROUNGE);
-  
+
       switch(sector_type)
 	{
          case SECT_FOREST:
@@ -165,15 +165,15 @@ ACMD(do_first_aid)
     percent = number(1, 101+GET_LEVEL(vict));
     prob = GET_SKILL(ch, SKILL_FIRST_AID);
 
-    if (percent < prob || GET_LEVEL(ch)>LVL_IMMORT) 
+    if (percent < prob || GET_LEVEL(ch)>LVL_IMMORT)
       {
       GET_HIT(vict) = 1;
       update_pos(vict);
-      act("You apply some makeshift bandages to $N's wounds.", 
+      act("You apply some makeshift bandages to $N's wounds.",
 	FALSE, ch, 0, vict, TO_CHAR);
-      act("$n applies some bandaging to $N's wounds.", 
+      act("$n applies some bandaging to $N's wounds.",
 	FALSE, ch, 0, vict, TO_NOTVICT);
-      act("$n applies some bandaging to your wounds.", 
+      act("$n applies some bandaging to your wounds.",
 	TRUE, ch, 0, vict, TO_VICT);
       improve_skill(ch, SKILL_FIRST_AID);
       WAIT_STATE(vict, PULSE_VIOLENCE);
@@ -181,7 +181,7 @@ ACMD(do_first_aid)
     else
       {
       send_to_char("You fumble and ruin the bandages.\r\n",ch);
-      act("$n fumbles with some bandaging and drops it all over the place!", 
+      act("$n fumbles with some bandaging and drops it all over the place!",
 	TRUE, ch, 0, 0, TO_ROOM);
       }
     WAIT_STATE(ch, PULSE_VIOLENCE + 3);
@@ -224,7 +224,7 @@ ACMD(do_disarm)
    {
      stc("You can't disarm them if you aren't fighting them!\r\n", ch);
      return;
-   } 
+   }
 
    percent = number(1, 101+GET_LEVEL(vict));
    prob = subcmd?200:GET_SKILL(ch, SKILL_DISARM);
@@ -271,7 +271,7 @@ ACMD(do_mindlink)
     if (!IS_NPC(vict))
    {
       act("$N stares at you blankly.", FALSE, ch, 0, vict, TO_CHAR);
-      act("$n stares at $N for a while and then falls flat on $s face.", 
+      act("$n stares at $N for a while and then falls flat on $s face.",
 	  FALSE, ch, 0, vict, TO_ROOM);
       stc("You fail.\r\n", ch);
       return;
@@ -293,7 +293,7 @@ ACMD(do_mindlink)
     }
     percent = number(1, 101);
     prob = GET_SKILL(ch, SKILL_MINDLINK);
-  
+
     if ((IS_PSIONIC(vict) || IS_MYSTIC(vict)) && percent<prob)
     {
       x = number((20 + GET_LEVEL(ch)), 100);
@@ -306,7 +306,7 @@ ACMD(do_mindlink)
     }
     else
     {
-      act("$n stares at $N for a while and then falls flat on $s face.", 
+      act("$n stares at $N for a while and then falls flat on $s face.",
 	FALSE, ch, 0, vict, TO_ROOM);
       GET_HIT(ch) -= 100;
       improve_skill(ch, SKILL_MINDLINK);
@@ -342,7 +342,7 @@ SPECIAL(beholder)
      return FALSE;
   }
 
-  if (GET_POS(ch) != POS_FIGHTING) {  
+  if (GET_POS(ch) != POS_FIGHTING) {
 		/* If he ain't fighting, try to charm, sleep, or curse */
     for (vict = world[ch->in_room].people; vict; vict = vict->next_in_room)
        targets++;
@@ -355,11 +355,11 @@ SPECIAL(beholder)
       return FALSE;
 
     targets = 0;
-    for (vict = world[ch->in_room].people; vict; vict = vict->next_in_room) 
+    for (vict = world[ch->in_room].people; vict; vict = vict->next_in_room)
        if(++targets == victim)
          break;
 
-    if(vict == ch || IS_NPC(vict)) 
+    if(vict == ch || IS_NPC(vict))
        return FALSE;
 
     switch (number(0, 2)) {
@@ -401,10 +401,10 @@ SPECIAL(beholder)
 /*
  *  Recharger mob special procedure   Part of Dark Pawns (www.mystech.com 4000)
  *
- *  Based on original recharger code by 
+ *  Based on original recharger code by
  *        David A. Carver <DCARVER@cougar.colstate.cc.oh.us>
  *
- *  Rewritten for mobiles and "personality" by 
+ *  Rewritten for mobiles and "personality" by
  *        Frontline (rparet@rubens.artisan.calpoly.edu) on 6/6/97.
  *  The author maintains exclusive rights to this code.
  *  Use only with permission.
@@ -419,14 +419,14 @@ SPECIAL(recharger)
   int maxcharge = 0, mincharge = 0, price = 0;
 
   if (!(CMD_IS("list") || CMD_IS("help") || CMD_IS("recharge")))
-    return FALSE; 
-  
+    return FALSE;
+
   if (CMD_IS("list") || CMD_IS("help"))
   {
     act("$n sighs loudly.", FALSE, me, 0, 0, TO_ROOM);
-    act("$n says 'I recharge wands and staves, of course!'", 
+    act("$n says 'I recharge wands and staves, of course!'",
 	FALSE, me, 0, 0, TO_ROOM);
-    act("$n says 'My price is 100 coins per spell level per charge..'", 
+    act("$n says 'My price is 100 coins per spell level per charge..'",
 	FALSE, me, 0, 0, TO_ROOM);
     act("$n says 'So a wand casting heal at level 25 would cost 2500 "
 	"coins per charge.'", FALSE, me, 0, 0, TO_ROOM);
@@ -434,7 +434,7 @@ SPECIAL(recharger)
 	"after charging.",FALSE, me, 0, 0, TO_ROOM);
     act("$n says 'That means that an item could have 1 charge maximum, with"
 	" 2 charges remaining (after a recharge)'", FALSE, me, 0, 0, TO_ROOM);
-    act("$n says 'To recharge an item type: recharge <staff or wand>.'", 
+    act("$n says 'To recharge an item type: recharge <staff or wand>.'",
 	FALSE, me, 0, 0, TO_ROOM);
     act("$n stares expectantly at $N.", 1, me, 0, ch, TO_NOTVICT);
     act("$n stares expectantly at you.", FALSE, me, 0, ch, TO_VICT);
@@ -452,14 +452,14 @@ SPECIAL(recharger)
     }
     if (GET_OBJ_TYPE(obj) != ITEM_STAFF && GET_OBJ_TYPE(obj) != ITEM_WAND)
     {
-      act("$n tells you, 'Ummm... does that look like a wand or staff to you?'", 
+      act("$n tells you, 'Ummm... does that look like a wand or staff to you?'",
 		FALSE, me, 0, ch, TO_VICT);
       act("$n shakes his head in disgust.", FALSE, me, 0, 0, TO_ROOM);
       return TRUE;
     }
     price = MAX(100, GET_OBJ_VAL(obj, 0)*100);
     if (GET_GOLD(ch) < price) {
-      act("$n tells you, 'You don't have enough gold!'", 
+      act("$n tells you, 'You don't have enough gold!'",
 	FALSE, me, 0, ch, TO_VICT);
       return TRUE;
     }
@@ -471,9 +471,9 @@ SPECIAL(recharger)
      GET_OBJ_VAL(obj, 2)++;
      GET_OBJ_VAL(obj, 1)--;
      GET_GOLD(ch) -= price;
-     act("$n waves his hands around and chants strange things.", 
+     act("$n waves his hands around and chants strange things.",
 	FALSE, me, 0, 0, TO_ROOM);
-     sprintf(buf, "The item now has %d charges remaining.\r\n", 
+     sprintf(buf, "The item now has %d charges remaining.\r\n",
 		GET_OBJ_VAL(obj, 2));
      send_to_char(buf, ch);
      }
@@ -490,9 +490,9 @@ SPECIAL(recharger)
 /* Bare-bones detect skill      Part of Dark Pawns (www.mystech.com 4000)
  *
  * Allows players to detect "secret" doors
- * 
+ *
  * Frontline 6/7/97
- * 
+ *
  * Updated and modernized on 19990429 by rparet
  *
  */
@@ -500,32 +500,32 @@ SPECIAL(recharger)
 ACMD(do_detect)
 {
   int dir;
-  
-  if (!GET_SKILL(ch, SKILL_DETECT) && !(GET_RACE(ch) == RACE_ELF)) 
+
+  if (!GET_SKILL(ch, SKILL_DETECT) && !(GET_RACE(ch) == RACE_ELF))
   {
    send_to_char("Yeah, right.\r\n", ch);
    return;
-  } 
+  }
 
   if (IS_AFFECTED(ch, AFF_BLIND))
   {
    send_to_char("You're fucking blind, you can't find anything!!\r\n",ch);
    return;
   }
-  
+
   send_to_char("You carefully check the room...\r\n", ch);
 
-  if (GET_SKILL(ch, SKILL_DETECT) <= number(1, 101)) 
+  if (GET_SKILL(ch, SKILL_DETECT) <= number(1, 101))
   {
    send_to_char("You can't seem to find anything.\r\n", ch);
    WAIT_STATE(ch, PULSE_VIOLENCE + 1);
    return;
-  } 
+  }
 
-  for (dir = 0; dir < NUM_OF_DIRS; dir++) 
+  for (dir = 0; dir < NUM_OF_DIRS; dir++)
   {
-     if (EXIT(ch, dir) && EXIT(ch, dir)->keyword) 
-       if (strstr(EXIT(ch, dir)->keyword, "secret")) 
+     if (EXIT(ch, dir) && EXIT(ch, dir)->keyword)
+       if (strstr(EXIT(ch, dir)->keyword, "secret"))
        {
          if (dir == UP)
            sprintf(buf, "You notice something funny about the ceiling.\r\n");
@@ -539,10 +539,10 @@ ACMD(do_detect)
 	}
   }
 
-} 
+}
 
 
-/* 
+/*
  * Function: attacks a PC that tries to get an object from
  * the room it is in.
  *
@@ -556,16 +556,16 @@ SPECIAL(no_get)
   if (!AWAKE(mobile) || GET_HIT(mobile)<=0)
 	return(FALSE);
 
-  if(CMD_IS("get") || CMD_IS("palm") || CMD_IS("take")) 
+  if(CMD_IS("get") || CMD_IS("palm") || CMD_IS("take"))
   {
      argument = two_arguments(argument, buf1, buf2);
-     
+
      if (*buf1 && *buf2)
         return FALSE;
-     else 
+     else
      {
        act("$n strikes at $N's hand!", TRUE, mobile, 0, ch, TO_NOTVICT);
-       act("$n strikes at your hand!", FALSE, mobile, 0, ch, TO_VICT); 
+       act("$n strikes at your hand!", FALSE, mobile, 0, ch, TO_VICT);
        hit(me, ch, TYPE_UNDEFINED);
        return TRUE;
      }
@@ -581,11 +581,11 @@ SPECIAL(no_get)
    summon mobiles that have powers based upon the level of the caster.
    Important procedural note: if you call this function with the hunting
    integer set to TRUE, the mobile will be loaded in room 18201 and start
-   hunting the player ch.  -rparet 19981107 
+   hunting the player ch.  -rparet 19981107
 */
 
 struct char_data
-*create_mobile (struct char_data *ch, int mob_number, int level, int hunting) 
+*create_mobile (struct char_data *ch, int mob_number, int level, int hunting)
 {
   struct char_data *mob = read_mobile(mob_number, VIRTUAL);
 
@@ -603,8 +603,8 @@ struct char_data
   GET_MAX_HIT(mob) = level > 30 ? GET_MAX_HIT(mob) + (560*(level-30)):
                      GET_MAX_HIT(mob);
   GET_HIT(mob) = GET_MAX_HIT(mob);
-  IS_CARRYING_N(mob) = 0;   
-  IS_CARRYING_W(mob) = 0; 
+  IS_CARRYING_N(mob) = 0;
+  IS_CARRYING_W(mob) = 0;
 
   if (mob && !mini_mud && ch && hunting)
   {
@@ -636,9 +636,9 @@ SPECIAL(black_horn)
           act("You inhale and blow deeply on $P.",TRUE, ch, 0, obj, TO_CHAR);
           stc("A deep, foreboding tone resounds through the air.\r\n", ch);
           act("$n blows on $P.", TRUE, ch, 0, obj, TO_ROOM);
-          act("A deep, foreboding tone resounds through the air.", 
+          act("A deep, foreboding tone resounds through the air.",
 		FALSE, ch, 0, 0, TO_ROOM);
-   	  switch(number(0, 5)) 
+   	  switch(number(0, 5))
 	  {
     		case 0: create_mobile(ch, 14503, 25, TRUE); break;
     		case 1: create_mobile(ch, 14504, 25, TRUE); break;
@@ -650,7 +650,7 @@ SPECIAL(black_horn)
           return(TRUE);
         }
   }
-  return(FALSE);     
+  return(FALSE);
 }
 
 
@@ -658,7 +658,7 @@ SPECIAL(black_horn)
 SPECIAL(zen_master)
 {
  struct char_data *vict;
- 
+
  if (cmd || GET_POS(ch) != POS_FIGHTING || !AWAKE(ch) || GET_HIT(ch)<=0)
     return FALSE;
 
@@ -672,12 +672,12 @@ SPECIAL(zen_master)
  switch(number(0,20)) {
     case 0:
      act("$n touches $N on the arm.", 1, ch, 0, vict, TO_NOTVICT);
-     act("$n touches you lightly on the arm.", 1, ch, 0, vict, TO_VICT);   
+     act("$n touches you lightly on the arm.", 1, ch, 0, vict, TO_VICT);
      call_magic(ch, vict, 0, SPELL_WORD_OF_RECALL,GET_LEVEL(ch),CAST_SPELL);
      return TRUE;
     case 20:
      act("$n says, 'You have violence, but not thought.'",
-	 FALSE,ch,0,0,TO_ROOM);   
+	 FALSE,ch,0,0,TO_ROOM);
      call_magic(ch, vict, 0, SPELL_TELEPORT, GET_LEVEL(ch), CAST_SPELL);
      return TRUE;
     default:
@@ -730,7 +730,7 @@ ACMD(do_serpent_kick)
   if (GET_POS(vict) <= POS_SLEEPING)
     prob=110;
 
-  if (percent > prob) 
+  if (percent > prob)
     damage(ch, vict, 0, SKILL_SERPENT_KICK);
   else
     {
@@ -772,45 +772,41 @@ hunt_items(void)
     if (!i->connected && i->character)
     {
      int j = 0, k = 0;
-     for (j = 0; j < NUM_WEARS; j++) 
+     for (j = 0; j < NUM_WEARS; j++)
      {
        struct obj_data *obj = NULL, *hunting = NULL;
        bool found = FALSE;
 
        if ( (obj = GET_EQ(i->character, j)) )
-	 for (k = 0; k < NUM_HUNTEDS; k++)
-	   if (GET_OBJ_VNUM(obj)==hunteds[k][h_item])
-	     if(number(0,100)<hunteds[k][h_percent])
-	     {
-  		for (ch = character_list; !found && ch; ch = next_ch) 
-		{
-    		   next_ch = ch->next;
-    		   if ( (GET_MOB_VNUM(ch)!=hunteds[k][h_hunter] && 
-			 GET_MOB_VNUM(ch)!=hunteds[k][h_hunter2]&&
-			 GET_MOB_VNUM(ch)!=hunteds[k][h_hunter3]) ||
-			FIGHTING(ch) || !AWAKE(ch) ||
-		        IS_AFFECTED(ch, AFF_CHARM) || HUNTING(ch))
-      		      continue;
-		   else
-		   {
-			found = TRUE;
-			hunting = obj;
-			break;
-		   }
-		}
-		if (found && ch)
-		{
-		  char *msg = NULL;
-      		  msg = tprintf("%s I must have %s!", GET_NAME(ch),
- 			(hunting)->short_description);
-		  if (msg)
-		  {
-      		    do_tell(ch, msg, find_command("tell"), 0);
-		    FREE(msg);
-		  }
-	          set_hunting(ch, i->character);
-		}
-	     }
+	       for (k = 0; k < NUM_HUNTEDS; k++)
+	         if (GET_OBJ_VNUM(obj)==hunteds[k][h_item])
+	           if(number(0,100)<hunteds[k][h_percent])
+	           {
+  		         for (ch = character_list; !found && ch; ch = next_ch)
+		           {
+    		         next_ch = ch->next;
+    		         if ( (GET_MOB_VNUM(ch)!=hunteds[k][h_hunter] &&
+			            GET_MOB_VNUM(ch)!=hunteds[k][h_hunter2]&&
+			            GET_MOB_VNUM(ch)!=hunteds[k][h_hunter3]) ||
+			            FIGHTING(ch) || !AWAKE(ch) ||
+		              IS_AFFECTED(ch, AFF_CHARM) || HUNTING(ch))
+      		         continue;
+		             else
+		             {
+			             found = TRUE;
+			             hunting = obj;
+			             break;
+		             }
+		           }
+          		 if (found && ch)
+          		 {
+          		   char msg[MAX_STRING_LENGTH];
+                 sprintf(msg, "%s I must have %s!", GET_NAME(ch),
+           			   (hunting)->short_description);
+          		   do_tell(ch, msg, find_command("tell"), 0);
+                 set_hunting(ch, i->character);
+          		 }
+	           }
      }
    }
 }
@@ -827,7 +823,7 @@ ACMD(do_dig)
   char buf2[10], buf3[10], buf[80];
   int iroom = 0, rroom = 0, dir = 0;
 
-  two_arguments(argument, buf2, buf3); 
+  two_arguments(argument, buf2, buf3);
   /* buf2 is the direction, buf3 is the room */
 
   iroom = atoi(buf3);
@@ -835,14 +831,14 @@ ACMD(do_dig)
 
   if (!*buf2 || !*buf3)
   {
-    send_to_char("Format: dig <dir> <room number>\r\n", ch); 
-    return; 
+    send_to_char("Format: dig <dir> <room number>\r\n", ch);
+    return;
   }
-  if (rroom <= 0) 
+  if (rroom <= 0)
   {
     sprintf(buf, "There is no room with the number %d.\r\n", iroom);
     send_to_char(buf, ch);
-    return; 
+    return;
   }
 
   if ((GET_LEVEL(ch) < LVL_SET_BUILD) &&
@@ -857,7 +853,7 @@ ACMD(do_dig)
   }
 
   /* Main stuff */
-  switch (*buf2) 
+  switch (*buf2)
   {
    case 'n': case 'N': dir = NORTH; break;
    case 'e': case 'E': dir = EAST; break;
@@ -865,19 +861,19 @@ ACMD(do_dig)
    case 'w': case 'W': dir = WEST; break;
    case 'u': case 'U': dir = UP; break;
    case 'd': case 'D': dir = DOWN; break;
-   default: 
-         stc("Valid dirs are n,s,e,w,u and d.\r\n", ch); 
+   default:
+         stc("Valid dirs are n,s,e,w,u and d.\r\n", ch);
   }
 
-  CREATE(world[rroom].dir_option[rev_dir[dir]], struct room_direction_data,1); 
+  CREATE(world[rroom].dir_option[rev_dir[dir]], struct room_direction_data,1);
   world[rroom].dir_option[rev_dir[dir]]->general_description = NULL;
   world[rroom].dir_option[rev_dir[dir]]->keyword = NULL;
-  world[rroom].dir_option[rev_dir[dir]]->to_room = ch->in_room; 
+  world[rroom].dir_option[rev_dir[dir]]->to_room = ch->in_room;
 
-  CREATE(world[ch->in_room].dir_option[dir], struct room_direction_data,1); 
+  CREATE(world[ch->in_room].dir_option[dir], struct room_direction_data,1);
   world[ch->in_room].dir_option[dir]->general_description = NULL;
   world[ch->in_room].dir_option[dir]->keyword = NULL;
-  world[ch->in_room].dir_option[dir]->to_room = rroom; 
+  world[ch->in_room].dir_option[dir]->to_room = rroom;
 
   /* Only works if you have Oasis OLC */
   olc_add_to_save_list((iroom/100), OLC_SAVE_ROOM);
@@ -897,39 +893,39 @@ flow_room(struct char_data *ch)
   if(ROOM_FLAGGED(ch->in_room, ROOM_FLOW_NORTH))
   {
     dir = NORTH;
-    sprintf(direct, "the south"); 
+    sprintf(direct, "the south");
   }
   else if(ROOM_FLAGGED(ch->in_room, ROOM_FLOW_SOUTH))
   {
-    sprintf(direct, "the north"); 
+    sprintf(direct, "the north");
     dir = SOUTH;
   }
   else if(ROOM_FLAGGED(ch->in_room, ROOM_FLOW_EAST))
   {
-    sprintf(direct, "the west"); 
+    sprintf(direct, "the west");
     dir = EAST;
   }
   else if(ROOM_FLAGGED(ch->in_room, ROOM_FLOW_WEST))
   {
-    sprintf(direct, "the east"); 
+    sprintf(direct, "the east");
     dir = WEST;
   }
   else if(ROOM_FLAGGED(ch->in_room, ROOM_FLOW_UP))
   {
-    sprintf(direct, "below"); 
+    sprintf(direct, "below");
     dir = UP;
   }
   else if(ROOM_FLAGGED(ch->in_room, ROOM_FLOW_DOWN))
   {
-    sprintf(direct, "above"); 
+    sprintf(direct, "above");
     dir = DOWN;
   }
 
-  if(dir < 0 || !world[was_in].dir_option[dir] || 
-     (GET_LEVEL(ch) >= LVL_IMMORT && PRF_FLAGGED(ch, PRF_NOHASSLE)) || 
+  if(dir < 0 || !world[was_in].dir_option[dir] ||
+     (GET_LEVEL(ch) >= LVL_IMMORT && PRF_FLAGGED(ch, PRF_NOHASSLE)) ||
      IS_NPC(ch) || world[was_in].dir_option[dir]->to_room==NOWHERE)
     return;
-  
+
 
 
   /*
@@ -970,7 +966,7 @@ ACMD(do_turn)
     send_to_char("Huh?!?\r\n", ch);
     return;
   }
-  
+
   if (IS_EVIL(ch) || IS_NEUTRAL(ch))
     {
       stc("You are not holy enough to turn away the Undead!\r\n", ch);
@@ -992,12 +988,12 @@ ACMD(do_turn)
       GET_MANA(ch) = 0;
     return;
   }
-  
+
   GET_MANA(ch) = GET_MANA(ch) - need_mana;
 
   for (tch = world[ch->in_room].people; tch; tch = next_tch)
   {
-    next_tch = tch->next_in_room; 
+    next_tch = tch->next_in_room;
     diff = 0;
 
     if(GET_RACE(tch) == RACE_UNDEAD || GET_RACE(tch) == RACE_VAMPIRE)
@@ -1024,7 +1020,7 @@ ACMD(do_turn)
       act("You are suddenly terrified!", FALSE, tch, 0, 0, TO_CHAR);
       do_flee(tch, "", 0, 0);
       continue;
-     }  
+     }
 
   }
 }

@@ -244,7 +244,7 @@ void boot_social_messages(void)
       break;
     if ((nr = find_command(next_soc)) < 0) {
       sprintf(buf, "Unknown social '%s' in social file", next_soc);
-      log(buf);
+      log("%s", buf);
     }
     if (fscanf(fl, " %d %d \n", &hide, &min_pos) != 2) {
       fprintf(stderr, "Format error in social file near social '%s'\n",

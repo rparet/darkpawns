@@ -498,14 +498,12 @@ ASPELL(spell_identify)
     }
       send_to_char(buf, ch);
 
-      if (obj->obj_flags.bitvector)
-    {
       send_to_char("Item will give you following abilities:  ", ch);
           sprintbitarray(obj->obj_flags.bitvector, affected_bits,
                          AF_ARRAY_MAX, buf);
       strcat(buf, "\r\n");
       send_to_char(buf, ch);
-    }
+
       send_to_char("Item is: ", ch);
       sprintbitarray(GET_OBJ_EXTRA(obj), extra_bits, EF_ARRAY_MAX, buf);
       strcat(buf, "\r\n");

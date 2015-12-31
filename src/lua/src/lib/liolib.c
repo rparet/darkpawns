@@ -516,7 +516,7 @@ static int io_rename (lua_State *L) {
 
 
 static int io_tmpname (lua_State *L) {
-  lua_pushstring(L, tmpnam(NULL));
+  lua_error(L, "tmpname not supported");
   return 1;
 }
 
@@ -715,4 +715,3 @@ LUALIB_API void lua_iolibopen (lua_State *L) {
   luaL_openl(L, iolib);
   openwithcontrol(L);
 }
-

@@ -195,7 +195,7 @@ void ident_check(struct descriptor_data *d, int pulse)
     if (sscanf(buf, "%d , %d : ERROR : %255s",
            &rmt_port, &our_port, user) == 3) {
       sprintf(buf2, "Ident error from %s: \"%s\"", d->host, user);
-      log(buf2);
+      log("%s", buf2);
     }
     else {
       /* strip off trailing newline */
@@ -204,7 +204,7 @@ void ident_check(struct descriptor_data *d, int pulse)
 
       sprintf(buf2, "Malformed ident response from %s: \"%s\"",
           d->host, buf);
-      log(buf2);
+      log("%s", buf2);
     }
       }
       else {

@@ -1084,24 +1084,24 @@ ACMD(do_shutdown)
 
      if (!*arg) {
        sprintf(buf, "(GC) Shutdown by %s.", GET_NAME(ch));
-       log(buf);
+       log("%s", buf);
        send_to_all("Shutting down.\r\n");
        circle_shutdown = 1;
      } else if (!str_cmp(arg, "reboot")) {
        sprintf(buf, "(GC) Reboot by %s.", GET_NAME(ch));
-       log(buf);
+       log("%s", buf);
        send_to_all("Rebooting.. come back in a minute or two.\r\n");
        touch("../.fastboot");
        circle_shutdown = circle_reboot = 1;
      } else if (!str_cmp(arg, "die")) {
        sprintf(buf, "(GC) Shutdown by %s.", GET_NAME(ch));
-       log(buf);
+       log("%s", buf);
        send_to_all("Shutting down for maintenance.\r\n");
        touch("../.killscript");
        circle_shutdown = 1;
      } else if (!str_cmp(arg, "pause")) {
        sprintf(buf, "(GC) Shutdown by %s.", GET_NAME(ch));
-       log(buf);
+       log("%s", buf);
        send_to_all("Shutting down for maintenance.\r\n");
        touch("../pause");
        circle_shutdown = 1;
@@ -1575,7 +1575,7 @@ ACMD(do_advance)
   send_to_char(OK, ch);
   sprintf(buf, "(GC) %s has advanced %s to level %d (from %d)",
       GET_NAME(ch), GET_NAME(victim), newlevel, oldlevel);
-  log(buf);
+  log("%s", buf);
   save_char(victim, NOWHERE);
 }
 
@@ -1763,7 +1763,7 @@ ACMD(do_dc)
   sprintf(buf, "Connection #%d closed.\r\n", num_to_dc);
   send_to_char(buf, ch);
   sprintf(buf, "(GC) Connection closed by %s.", GET_NAME(ch));
-  log(buf);
+  log("%s", buf);
 }
 
 ACMD(do_wizlock)
@@ -2103,7 +2103,7 @@ ACMD(do_wizutil)
       roll_real_abils(vict);
       GET_ORIG_CON(vict) = GET_CON(vict);
       sprintf(buf, "(GC) %s has rerolled %s.", GET_NAME(ch), GET_NAME(vict));
-      log(buf);
+      log("%s", buf);
       sprintf(buf, "New stats: Str %d/%d, Int %d, Wis %d, Dex %d, Con %d, Cha %d\r\n",
           GET_STR(vict), GET_ADD(vict), GET_INT(vict), GET_WIS(vict),
           GET_DEX(vict), GET_CON(vict), GET_CHA(vict));

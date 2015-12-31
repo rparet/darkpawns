@@ -403,14 +403,14 @@ whod_loop(void)
             }
           if (IS_SET(SHOW_SITE,whod_mode))
             {
-              if (ch->desc->host != NULL)
-            sprintf(tmp," [%s]",ch->desc->host);
+              if (ch->desc->host[0] != '\0')
+                sprintf(tmp," [%s]",ch->desc->host);
               else
-            sprintf(tmp," [ ** Unknown ** ]");
-              strcat(buf,tmp);
+                sprintf(tmp," [ ** Unknown ** ]");
+                strcat(buf,tmp);
             }
 
-          strcat(buf,"\n\r");
+          strcat(buf,"\r\n");
           if (GET_LEVEL(ch) >= WIZ_MIN_LEVEL) gods++; else players++;
           if (MAX_STRING_LENGTH-strlen(buf)<=80)
             {

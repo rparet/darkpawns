@@ -519,7 +519,7 @@ void do_doorcmd(struct char_data *ch, struct obj_data *obj, int door, int scmd)
   /* Notify the other room */
   if ((scmd == SCMD_OPEN || scmd == SCMD_CLOSE) && back)
   {
-    sprintf(doorname, (back->keyword ? fname(back->keyword) : "door"));
+    sprintf(doorname, "%s", (back->keyword ? fname(back->keyword) : "door"));
     sprintf(buf, "The %s %s %s%s from the other side.\r\n",
      doorname,
          (strrchr(doorname, 's') && strlen( strrchr(doorname, 's') ) == 1) ? "are" : "is",

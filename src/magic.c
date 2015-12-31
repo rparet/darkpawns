@@ -1252,7 +1252,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
       af[0].location = APPLY_STR;
       af[0].duration = (GET_LEVEL(ch) >> 1) + 4;
       af[0].modifier = 1 + (level > 18)+
-     (ch==victim && spellnum == SPELL_ADRENALINE)?1:0;
+     ((ch==victim && spellnum == SPELL_ADRENALINE)?1:0);
       af[0].bitvector = AFF_NOTHING;
       if (spellnum == SPELL_STRENGTH)
      accum_affect = TRUE;
@@ -1862,7 +1862,7 @@ mag_unaffects(int level, struct char_data * ch, struct char_data * victim,
    default:
       sprintf(buf, "SYSERR: unknown spellnum %d passed to mag_unaffects",
           spellnum);
-      log(buf);
+      log("%s", buf);
       return;
       break;
    }
@@ -1990,7 +1990,7 @@ mag_creations(int level, struct char_data * ch, int spellnum)
       send_to_char("I seem to have goofed.\r\n", ch);
       sprintf(buf, "SYSERR: spell_creations, spell %d, obj %d: obj not found",
           spellnum, z);
-      log(buf);
+      log("%s", buf);
       return;
    }
    obj_to_char(tobj, ch);

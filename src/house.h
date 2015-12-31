@@ -47,7 +47,7 @@ struct house_control_rec {
    long spare6;
    long spare7;
 };
-   
+
 #define TOROOM(room, dir) (world[room].dir_option[dir] ? \
 			    world[room].dir_option[dir]->to_room : NOWHERE)
 

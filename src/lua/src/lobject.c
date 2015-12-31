@@ -28,7 +28,7 @@ const char *const luaO_typenames[] = {
 
 
 /*
-** returns smaller power of 2 larger than `n' (minimum is MINPOWER2) 
+** returns smaller power of 2 larger than `n' (minimum is MINPOWER2)
 */
 lint32 luaO_power2 (lint32 n) {
   lint32 p = MINPOWER2;
@@ -44,7 +44,7 @@ int luaO_equalObj (const TObject *t1, const TObject *t2) {
       return nvalue(t1) == nvalue(t2);
     case LUA_TSTRING: case LUA_TUSERDATA:
       return tsvalue(t1) == tsvalue(t2);
-    case LUA_TTABLE: 
+    case LUA_TTABLE:
       return hvalue(t1) == hvalue(t2);
     case LUA_TFUNCTION:
       return clvalue(t1) == clvalue(t2);

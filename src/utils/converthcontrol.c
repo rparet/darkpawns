@@ -42,16 +42,16 @@ void house_read_in(void)
   memset((char *)house_control,0,sizeof(struct new_house_control_rec)*MAX_HOUSES);
 
   if (!(fl = fopen("../lib/etc/hcontrol", "rb"))) {
-    return; 
+    return;
   }
 
-  while (!feof(fl) && num_of_houses < MAX_HOUSES) 
+  while (!feof(fl) && num_of_houses < MAX_HOUSES)
   {
     fread(&old_house, sizeof(struct house_control_rec), 1, fl);
 
     if (feof(fl))
       break;
-   
+
     new_house.vnum = old_house.vnum;
     new_house.atrium = old_house.atrium;
     new_house.exit_num = old_house.exit_num;

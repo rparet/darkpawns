@@ -52,7 +52,7 @@ void zedit_new_zone(struct char_data *ch, int vzone_num);
 #define OLC_CMD(d)   (OLC_ZONE(d)->cmd[OLC_VAL(d)])
 
 /*-------------------------------------------------------------------*\
-  utility functions 
+  utility functions
 \*-------------------------------------------------------------------*/
 
 void zedit_setup(struct  descriptor_data *d, int room_num)
@@ -70,7 +70,7 @@ void zedit_setup(struct  descriptor_data *d, int room_num)
   /*. The remaining fields are used as a 'has been modified' flag .*/
   zone->number = 0;   	/*. Header info has changed .*/
   zone->age = 0;	/*. Commands have changed   .*/
-  
+
   /*. Start the reset command list with a terminator .*/
   CREATE(zone->cmd, struct reset_com, 1);
   zone->cmd[0].command = 'S';
@@ -106,9 +106,9 @@ void zedit_setup(struct  descriptor_data *d, int room_num)
 /*-------------------------------------------------------------------*/
 /*. Create a new zone .*/
 
-void 
+void
 zedit_new_zone(struct char_data *ch, int vzone_num)
-{ 
+{
   FILE *fp;
   struct zone_data *new_table;
   int i, room, found = 0;
@@ -133,12 +133,12 @@ zedit_new_zone(struct char_data *ch, int vzone_num)
     mudlog("SYSERR: OLC: Can't write new zone file", BRF, LVL_IMPL, TRUE);
     return;
   }
-  fprintf(fp, 
+  fprintf(fp,
 	"#%d\n"
 	"New Zone~\n"
 	"%d 30 2\n"
 	"S\n"
-	"$\n", 
+	"$\n",
 	vzone_num,
 	(vzone_num * 100) + 99
   );
@@ -146,11 +146,11 @@ zedit_new_zone(struct char_data *ch, int vzone_num)
 
   /*. Create Rooms file .*/
   sprintf(buf, "%s/%d.wld", WLD_PREFIX, vzone_num);
-  if(!(fp = fopen(buf, "w"))) 
+  if(!(fp = fopen(buf, "w")))
   { mudlog("SYSERR: OLC: Can't write new world file", BRF, LVL_IMPL, TRUE);
     return;
   }
-  fprintf(fp, 
+  fprintf(fp,
 	"#%d\n"
     	"The Begining~\n"
 	"Not much here.\n"
@@ -174,7 +174,7 @@ zedit_new_zone(struct char_data *ch, int vzone_num)
 
   /*. Create Objects file .*/
   sprintf(buf, "%s/%i.obj", OBJ_PREFIX, vzone_num);
-  if(!(fp = fopen(buf, "w"))) 
+  if(!(fp = fopen(buf, "w")))
   { mudlog("SYSERR: OLC: Can't write new obj file", BRF, LVL_IMPL, TRUE);
     return;
   }
@@ -200,7 +200,7 @@ zedit_new_zone(struct char_data *ch, int vzone_num)
   /*. Make a new zone in memory.*/
   CREATE(new_table, struct zone_data, top_of_zone_table+3);
   new_table[top_of_zone_table + 1].number = 32000;
-  for(i = 0; i <= top_of_zone_table + 1; i++)  
+  for(i = 0; i <= top_of_zone_table + 1; i++)
     if(!found)
       if (i > top_of_zone_table || zone_table[i].number > vzone_num)
       { found = 1;
@@ -214,7 +214,7 @@ zedit_new_zone(struct char_data *ch, int vzone_num)
         new_table[i].cmd[0].command = 'S';
         if (i <= top_of_zone_table)
           new_table[i+1] = zone_table[i];
-      } else 
+      } else
         new_table[i] = zone_table[i];
     else
       new_table[i+1] = zone_table[i];
@@ -259,12 +259,12 @@ void zedit_create_index(int znum, char *type)
   sprintf(old_name, "%s/index", prefix);
   sprintf(new_name, "%s/newindex", prefix);
 
-  if (!(oldfile = fopen(old_name, "r"))){ 
+  if (!(oldfile = fopen(old_name, "r"))){
     sprintf(buf, "SYSERR: OLC: Failed to open %s", buf);
     mudlog(buf, BRF, LVL_IMPL, TRUE);
     return;
   }
-  
+
   if (!(newfile = fopen(new_name, "w"))) {
     sprintf(buf, "SYSERR: OLC: Failed to open %s", buf);
     mudlog(buf, BRF, LVL_IMPL, TRUE);
@@ -276,8 +276,8 @@ void zedit_create_index(int znum, char *type)
       .*/
 
   sprintf(buf1, "%d.%s", znum, type);
-  while (get_line(oldfile, buf)) { 
-    if (*buf == '$') { 
+  while (get_line(oldfile, buf)) {
+    if (*buf == '$') {
       if (!found)
         fprintf(newfile, "%s\n", buf1);
       fprintf(newfile, "$\n");
@@ -293,7 +293,7 @@ void zedit_create_index(int znum, char *type)
     }
     fprintf(newfile, "%s\n", buf);
   }
-    
+
   fclose(newfile);
   fclose(oldfile);
   /*. Out with the old, in with the new .*/
@@ -360,25 +360,25 @@ void zedit_save_to_disk(struct descriptor_data *d)
   char fname[64];
   FILE *zfile;
 
-  sprintf(fname, "%s/%i.zon", ZON_PREFIX, 
+  sprintf(fname, "%s/%i.zon", ZON_PREFIX,
            zone_table[OLC_ZNUM(d)].number);
 
   if(!(zfile = fopen(fname, "w"))) {
-    sprintf(buf, "SYSERR: OLC: zedit_save_to_disk:  Can't write zone %d.", 
+    sprintf(buf, "SYSERR: OLC: zedit_save_to_disk:  Can't write zone %d.",
             zone_table[OLC_ZNUM(d)].number);
     mudlog(buf, BRF, LVL_BUILDER, TRUE);
     return;
   }
 
   /*. Print zone header to file .*/
-  sprintf(buf, 
+  sprintf(buf,
 	"#%d\n"
   	"%s~\n"
   	"%d %d %d\n",
 	zone_table[OLC_ZNUM(d)].number,
 	zone_table[OLC_ZNUM(d)].name ? zone_table[OLC_ZNUM(d)].name : "undefined",
  	zone_table[OLC_ZNUM(d)].top,
-    	zone_table[OLC_ZNUM(d)].lifespan, 
+    	zone_table[OLC_ZNUM(d)].lifespan,
         zone_table[OLC_ZNUM(d)].reset_mode
   );
   fprintf(zfile, buf);
@@ -416,7 +416,7 @@ void zedit_save_to_disk(struct descriptor_data *d)
 	arg3 = ZCMD.arg3;
 	break;
       case 'R':
-	arg1 = world[ZCMD.arg1].number;	
+	arg1 = world[ZCMD.arg1].number;
 	arg2 = ZCMD.arg2;
 	if (ZCMD.arg2)
 	  arg3 = obj_index[ZCMD.arg3].virtual;
@@ -455,17 +455,17 @@ void add_cmd_to_list(struct reset_com **list, struct reset_com *newcmd, int pos)
    /*. Count number of commands (not including terminator) .*/
    while((*list)[count].command != 'S')
      count++;
-   
+
    CREATE(newlist, struct reset_com, count + 2);
 
    /*. Tight loop to copy old list and insert new command .*/
    l = 0;
    for(i=0;i<=count;i++)
      if(i==pos)
-       newlist[i] = *newcmd; 
+       newlist[i] = *newcmd;
      else
        newlist[i] = (*list)[l++];
-   
+
    /*. Add terminator then insert new list .*/
    newlist[count+1].command = 'S';
    FREE(*list);
@@ -483,7 +483,7 @@ void remove_cmd_from_list(struct reset_com **list, int pos)
    /*. Count number of commands (not including terminator) .*/
    while((*list)[count].command != 'S')
      count++;
-    
+
    CREATE(newlist, struct reset_com, count);
 
    /*. Tight loop to copy old list and skip unwanted command .*/
@@ -493,7 +493,7 @@ void remove_cmd_from_list(struct reset_com **list, int pos)
        continue;
      else
        newlist[l++] = (*list)[i];
-   
+
    /*. Add terminator then insert new list .*/
    newlist[count-1].command = 'S';
    FREE(*list);
@@ -510,13 +510,13 @@ int new_command(struct descriptor_data *d, int pos)
    /*. Error check to ensure users hasn't given too large an index .*/
    while(MYCMD.command != 'S')
      subcmd++;
-  
+
    if ((pos > subcmd) || (pos < 0))
      return 0;
-    
+
    /*. Ok, let's add a new (blank) command.*/
    CREATE(new_com, struct reset_com, 1);
-   new_com->command = 'N'; 
+   new_com->command = 'N';
    add_cmd_to_list(&OLC_ZONE(d)->cmd, new_com, pos);
    return 1;
 }
@@ -531,10 +531,10 @@ void delete_command(struct descriptor_data *d, int pos)
    /*. Error check to ensure users hasn't given too large an index .*/
    while(MYCMD.command != 'S')
      subcmd++;
-  
+
    if ((pos >= subcmd) || (pos < 0))
      return;
-    
+
    /*. Ok, let's zap it .*/
    remove_cmd_from_list(&OLC_ZONE(d)->cmd, pos);
 }
@@ -548,22 +548,22 @@ int start_change_command(struct descriptor_data *d, int pos)
    /*. Error check to ensure users hasn't given too large an index .*/
    while(MYCMD.command != 'S')
      subcmd++;
-  
+
    if ((pos >= subcmd) || (pos < 0))
      return 0;
-    
+
    /*. Ok, let's get editing .*/
    OLC_VAL(d) = pos;
    return 1;
 }
 
 /**************************************************************************
- Menu functions 
+ Menu functions
  **************************************************************************/
 
 /* the main menu */
 void zedit_disp_menu(struct descriptor_data * d)
-{ 
+{
   int subcmd = 0, room, counter = 0, repeat = 0;
 
   get_char_cols(d->character);
@@ -584,9 +584,9 @@ void zedit_disp_menu(struct descriptor_data * d)
         grn, nrm, yel, OLC_ZONE(d)->name ? OLC_ZONE(d)->name : "<NONE!>",
         grn, nrm, yel, OLC_ZONE(d)->lifespan,
         grn, nrm, yel, OLC_ZONE(d)->top,
-        grn, nrm, yel, OLC_ZONE(d)->reset_mode ? 
+        grn, nrm, yel, OLC_ZONE(d)->reset_mode ?
           ((OLC_ZONE(d)->reset_mode == 1) ?
-          "Reset when no players are in zone." : 
+          "Reset when no players are in zone." :
           "Normal reset.") :
           "Never reset", nrm
   );
@@ -658,7 +658,7 @@ void zedit_disp_menu(struct descriptor_data * d)
 		repeat ? "  " : "",
 		MYCMD.if_flag ? " then " : "",
 		dirs[MYCMD.arg2],
-		MYCMD.arg3 ? ((MYCMD.arg3 == 1) ? 
+		MYCMD.arg3 ? ((MYCMD.arg3 == 1) ?
                   "closed" : "locked") : "open"
         );
         break;
@@ -686,7 +686,7 @@ void zedit_disp_menu(struct descriptor_data * d)
     subcmd++;
   }
   /*. Finish off menu .*/
-  sprintf(buf1, 
+  sprintf(buf1,
 		"%s%d - <END OF LIST>\r\n"
 		"%sN%s) New command.\r\n"
 		"%sE%s) Edit a command.\r\n"
@@ -759,7 +759,7 @@ void zedit_disp_arg1(struct descriptor_data *d)
   }
 }
 
-    
+
 
 /*-------------------------------------------------------------------*/
 /*. Print the appropriate message for the command type for arg2 and set
@@ -784,7 +784,7 @@ void zedit_disp_arg2(struct descriptor_data *d)
       send_to_char("Enter exit number for door : ", d->character);
       break;
     case 'R':
-      send_to_char("Input 0 for a mobile, 1 for an object: ", d->character);      
+      send_to_char("Input 0 for a mobile, 1 for an object: ", d->character);
       break;
     case 'L':
       send_to_char("Input 0 for loop start, 1 for loop finish: ", d->character);
@@ -806,10 +806,10 @@ void zedit_disp_arg2(struct descriptor_data *d)
 void zedit_disp_arg3(struct descriptor_data *d)
 { int i = 0;
   switch(OLC_CMD(d).command)
-  { 
+  {
     case 'E':
       while(*equipment_types[i] !=  '\n')
-      { sprintf(buf, "%2d) %26.26s %2d) %26.26s\r\n", i, 
+      { sprintf(buf, "%2d) %26.26s %2d) %26.26s\r\n", i,
          equipment_types[i], i+1, (*equipment_types[i+1] != '\n') ?
          equipment_types[i+1] : "");
         send_to_char(buf, d->character);
@@ -826,7 +826,7 @@ void zedit_disp_arg3(struct descriptor_data *d)
     case 'D':
       send_to_char("0)  Door open\r\n"
                    "1)  Door closed\r\n"
-                   "2)  Door locked\r\n" 
+                   "2)  Door locked\r\n"
                    "Enter state of the door : ", d->character);
       break;
     case 'L':
@@ -853,17 +853,17 @@ void zedit_disp_arg3(struct descriptor_data *d)
   OLC_MODE(d) = ZEDIT_ARG3;
 }
 
-    
-    
+
+
 /**************************************************************************
   The GARGANTAUN event handler
  **************************************************************************/
 
 void zedit_parse(struct descriptor_data * d, char *arg)
-{ 
+{
   int pos, old_top, i = 0;
 
-  switch (OLC_MODE(d)) 
+  switch (OLC_MODE(d))
   {
 /*-------------------------------------------------------------------*/
   case ZEDIT_CONFIRM_SAVESTRING:
@@ -874,7 +874,7 @@ void zedit_parse(struct descriptor_data * d, char *arg)
       send_to_char("Saving zone info in memory.\r\n", d->character);
       zedit_save_internally(d);
       sprintf(buf, "OLC: %s edits zone info for room %d", GET_NAME(d->character),
-              OLC_NUM(d));	      
+              OLC_NUM(d));
       mudlog(buf, CMP, LVL_BUILDER, TRUE);
       cleanup_olc(d, CLEANUP_ALL);
       break;
@@ -891,15 +891,15 @@ void zedit_parse(struct descriptor_data * d, char *arg)
 
 /*-------------------------------------------------------------------*/
   case ZEDIT_MAIN_MENU:
-    switch (*arg) 
+    switch (*arg)
     { case 'q':
       case 'Q':
-        if (OLC_ZONE(d)->age || OLC_ZONE(d)->number) { 
+        if (OLC_ZONE(d)->age || OLC_ZONE(d)->number) {
 	  send_to_char(
-	    "Do you wish to save the changes to the zone info? (y/n) : ", 
+	    "Do you wish to save the changes to the zone info? (y/n) : ",
 	    d->character);
           OLC_MODE(d) = ZEDIT_CONFIRM_SAVESTRING;
-        } else { 
+        } else {
 	  send_to_char("No changes made.\r\n", d->character);
           cleanup_olc(d, CLEANUP_ALL);
         }
@@ -997,7 +997,7 @@ void zedit_parse(struct descriptor_data * d, char *arg)
 
 /*-------------------------------------------------------------------*/
   case ZEDIT_COMMAND_TYPE:
-    /*. Parse the input for which type of command this is, 
+    /*. Parse the input for which type of command this is,
         and goto next quiz .*/
     OLC_CMD(d).command = toupper(*arg);
     if (!OLC_CMD(d).command || (strchr("MOPEDGRL", OLC_CMD(d).command) == NULL))
@@ -1091,7 +1091,7 @@ void zedit_parse(struct descriptor_data * d, char *arg)
       case 'G':
         OLC_CMD(d).arg2 = atoi(arg);
         zedit_disp_menu(d);
-        break; 
+        break;
       case 'P':
       case 'E':
         OLC_CMD(d).arg2 = atoi(arg);
@@ -1214,7 +1214,7 @@ void zedit_parse(struct descriptor_data * d, char *arg)
         break;
     }
     break;
-  
+
 /*-------------------------------------------------------------------*/
   case ZEDIT_ZONE_NAME:
     /*. Add new name and return to main menu .*/
@@ -1235,7 +1235,7 @@ void zedit_parse(struct descriptor_data * d, char *arg)
       OLC_ZONE(d)->number = 1;
       zedit_disp_menu(d);
     }
-    break; 
+    break;
 
 /*-------------------------------------------------------------------*/
   case ZEDIT_ZONE_LIFE:
@@ -1243,12 +1243,12 @@ void zedit_parse(struct descriptor_data * d, char *arg)
     pos = atoi(arg);
     if (!isdigit(*arg) || (pos <  0) || (pos > 240))
       send_to_char("Try again (0-240) : ", d->character);
-    else { 
+    else {
       OLC_ZONE(d)->lifespan = pos;
       OLC_ZONE(d)->number = 1;
       zedit_disp_menu(d);
     }
-    break; 
+    break;
 
 /*-------------------------------------------------------------------*/
   case ZEDIT_ZONE_TOP:
@@ -1257,13 +1257,13 @@ void zedit_parse(struct descriptor_data * d, char *arg)
     if (OLC_ZNUM(d) == top_of_zone_table)
       OLC_ZONE(d)->top = MAX(OLC_ZNUM(d) * 100, MIN(32000, atoi(arg)));
     else
-      OLC_ZONE(d)->top = 
-	MAX(OLC_ZNUM(d) * 100, 
+      OLC_ZONE(d)->top =
+	MAX(OLC_ZNUM(d) * 100,
 	    MIN(zone_table[OLC_ZNUM(d) + 1].number * 100 - 1, atoi(arg)));
     if (old_top != OLC_ZONE(d)->top)
       OLC_ZONE(d)->number = 1;
     zedit_disp_menu(d);
-    break; 
+    break;
 
 /*-------------------------------------------------------------------*/
   default:

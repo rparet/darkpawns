@@ -82,7 +82,7 @@ int has_boat(struct char_data *ch)
   return 0;
 }
 
-  
+
 
 /* do_simple_move assumes
  *    1. That there is no master and no followers.
@@ -116,7 +116,7 @@ int do_simple_move(struct char_data *ch, int dir, int need_specials_check)
     return 0;
 
   /* charmed? */
-  if (IS_AFFECTED(ch, AFF_CHARM) && ch->master 
+  if (IS_AFFECTED(ch, AFF_CHARM) && ch->master
 	&& ch->in_room == ch->master->in_room) {
     send_to_char("The thought of leaving your master makes you weep.\r\n", ch);
     return 0;
@@ -155,15 +155,15 @@ int do_simple_move(struct char_data *ch, int dir, int need_specials_check)
 	if (IS_NPC(ch) && GET_MOVE(ch) < need_movement)
 	{
 	 send_to_char("You are too exhausted to carry your rider further.\r\n",
-		 ch); 
+		 ch);
 	 send_to_char("Your mount is too exhausted to carry you further.\r\n",
 		get_rider(ch));
 	 return 0;
 	}
-	else if (!IS_NPC(ch) && GET_MOVE(get_mount(ch)) < need_movement) 
+	else if (!IS_NPC(ch) && GET_MOVE(get_mount(ch)) < need_movement)
 	{
 	 send_to_char("Your mount is too exhausted to carry you further.\r\n",
-                ch);   
+                ch);
 	 send_to_char("You are too exhausted to carry your rider further.\r\n",
 		get_mount(ch));
 	 return 0;
@@ -238,7 +238,7 @@ int do_simple_move(struct char_data *ch, int dir, int need_specials_check)
 	  sprintf(msg,"$n arrives from the %s.", direct);
 
 	act(msg, TRUE, ch, 0, mount, TO_ROOM);
-	
+
 	break;
       case 4:
 	if (IS_AFFECTED(ch, AFF_FLY))
@@ -274,10 +274,10 @@ int do_simple_move(struct char_data *ch, int dir, int need_specials_check)
     mp_greet(ch, ch->in_room);
     for (tch = world[ch->in_room].people; tch; tch = tch_next) {
       tch_next = tch->next_in_room;
-      
+
       if (tch == ch)
-        continue;  
-      
+        continue;
+
       if (IS_NPC(tch) && GET_MOB_SCRIPT(tch) && MOB_SCRIPT_FLAGGED(tch, MS_GREET))
         run_script(ch, tch, NULL, &world[tch->in_room], NULL, "greet", LT_MOB);
     }
@@ -286,7 +286,7 @@ int do_simple_move(struct char_data *ch, int dir, int need_specials_check)
   if (ch->in_room == -1)/* ch died in the greet (?) */
     return(0);
 
-  if ( (ROOM_FLAGGED(ch->in_room, ROOM_DEATH)) && 
+  if ( (ROOM_FLAGGED(ch->in_room, ROOM_DEATH)) &&
 	(GET_LEVEL(ch) < LVL_IMMORT || IS_NPC(ch))  )
   {
     log_death_trap(ch);
@@ -302,7 +302,7 @@ int do_simple_move(struct char_data *ch, int dir, int need_specials_check)
   }
 
   if (GET_ROOM_SCRIPT(ch->in_room) && ROOM_SCRIPT_FLAGGED(ch->in_room, RS_ENTER))
-    run_script(ch, ch, NULL, &world[ch->in_room], NULL, "enter", LT_ROOM); 
+    run_script(ch, ch, NULL, &world[ch->in_room], NULL, "enter", LT_ROOM);
 
   return 1;
 }
@@ -320,12 +320,12 @@ int perform_move(struct char_data *ch, int dir, int need_specials_check)
     send_to_char("Alas, you cannot go that way...\r\n", ch);
   else if (IS_SET(EXIT(ch, dir)->exit_info, EX_CLOSED)) {
     if (EXIT(ch, dir)->keyword) {
-      if (strstr(EXIT(ch, dir)->keyword, "secret") && 
+      if (strstr(EXIT(ch, dir)->keyword, "secret") &&
 	  !ROOM_FLAGGED(ch->in_room, ROOM_SECRET_MARK))
         send_to_char("Alas, you cannot go that way...\r\n", ch);
       else
       {
-        sprintf(buf2, "The %s seems to be closed.\r\n", 
+        sprintf(buf2, "The %s seems to be closed.\r\n",
 	        fname(EXIT(ch, dir)->keyword));
         send_to_char(buf2, ch);
       }
@@ -366,19 +366,19 @@ ACMD(do_move)
 }
 
 
-int 
+int
 find_door(struct char_data *ch, char *type, char *dir, char *cmdname)
 {
   int door;
 
-  if (*dir) 
+  if (*dir)
     {			/* a direction was specified */
-      if ((door = search_block(dir, dirs, FALSE)) == -1) 
+      if ((door = search_block(dir, dirs, FALSE)) == -1)
 	{	/* Partial Match */
 	  send_to_char("That's not a direction.\r\n", ch);
 	  return -1;
 	}
-      if (EXIT(ch, door) && (!EXIT(ch, door)->keyword  || 
+      if (EXIT(ch, door) && (!EXIT(ch, door)->keyword  ||
 			     (!strstr(EXIT(ch, door)->keyword, "secret") ||
 	 		      ROOM_FLAGGED(ch->in_room, ROOM_SECRET_MARK))))
 	{
@@ -386,25 +386,25 @@ find_door(struct char_data *ch, char *type, char *dir, char *cmdname)
 	    {
 	      if (isname(type, EXIT(ch, door)->keyword))
 		return door;
-	      else 
+	      else
 		{
 		  sprintf(buf2, "I see no %s there.\r\n", type);
 		  send_to_char(buf2, ch);
 		  return -1;
-		} 
+		}
 	    }
 	  else
 	    return door;
 	}
-      else 
+      else
 	{
 	  stc("I really don't see how you can do anything there.\r\n", ch);
 	  return -1;
 	}
-    } 
-  else 
+    }
+  else
     {			/* try to locate the keyword */
-      if (!*type) 
+      if (!*type)
 	{
 	  sprintf(buf2, "What is it you want to %s?\r\n", cmdname);
 	  send_to_char(buf2, ch);
@@ -517,11 +517,11 @@ void do_doorcmd(struct char_data *ch, struct obj_data *obj, int door, int scmd)
     act(buf, FALSE, ch, obj, obj ? 0 : EXIT(ch, door)->keyword, TO_ROOM);
 
   /* Notify the other room */
-  if ((scmd == SCMD_OPEN || scmd == SCMD_CLOSE) && back) 
+  if ((scmd == SCMD_OPEN || scmd == SCMD_CLOSE) && back)
   {
     sprintf(doorname, (back->keyword ? fname(back->keyword) : "door"));
     sprintf(buf, "The %s %s %s%s from the other side.\r\n",
-	 doorname, 
+	 doorname,
          (strrchr(doorname, 's') && strlen( strrchr(doorname, 's') ) == 1) ? "are" : "is",
          cmd_door[scmd],
 	 (scmd == SCMD_CLOSE) ? "d" : "ed");
@@ -696,7 +696,7 @@ ACMD(do_leave)
 ACMD(do_stand)
 {
   ACMD(do_dismount);
-  
+
   switch (GET_POS(ch)) {
   case POS_STANDING:
     if (!IS_MOUNTED(ch))
@@ -905,8 +905,8 @@ ACMD(do_follow)
     act("You are already following $M.", FALSE, ch, 0, leader, TO_CHAR);
     return;
   }
-  if (IS_AFFECTED(ch, AFF_CHARM) && (ch->master)) 
-    act("But you only feel like following $N!", 
+  if (IS_AFFECTED(ch, AFF_CHARM) && (ch->master))
+    act("But you only feel like following $N!",
 	FALSE, ch, 0, ch->master, TO_CHAR);
   else {			/* Not Charmed follow person */
     if (leader == ch) {
@@ -917,14 +917,14 @@ ACMD(do_follow)
       stop_follower(ch);
     } else {
       if (circle_follow(ch, leader)) {
-	act("Sorry, but following in loops is not allowed.", 
+	act("Sorry, but following in loops is not allowed.",
 		FALSE, ch, 0, 0, TO_CHAR);
 	return;
       }
       if (ch->master)
 	stop_follower(ch);
       REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_GROUP);
-      if (quiet && (GET_SKILL(ch, SKILL_SHADOW)>number(0,101) || 
+      if (quiet && (GET_SKILL(ch, SKILL_SHADOW)>number(0,101) ||
 	  GET_LEVEL(ch)>=LVL_IMMORT))
       {
 	struct affected_type af;

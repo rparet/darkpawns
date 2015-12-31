@@ -529,7 +529,7 @@ perform_drop(struct char_data * ch, struct obj_data * obj,
 ACMD(do_drop)
 {
   extern int donation_room_1;
-  extern int donation_room_2;  
+  extern int donation_room_2;
 #if 0
   extern int donation_room_3;  /* uncomment if needed! */
 #endif
@@ -557,10 +557,10 @@ ACMD(do_drop)
 	case 2:
 	  RDR = real_room(donation_room_1);
 	  break;
-        case 3: 
-	  RDR = real_room(donation_room_2); 
+        case 3:
+	  RDR = real_room(donation_room_2);
 	  break;
-	/* 
+	/*
 		case 4: RDR = real_room(donation_room_3); break;
 		*/
 	default: break;
@@ -697,7 +697,7 @@ perform_give(struct char_data *ch, struct char_data *vict, struct obj_data *obj)
   act("You give $p to $N.", FALSE, ch, obj, vict, TO_CHAR);
   act("$n gives you $p.", FALSE, ch, obj, vict, TO_VICT);
   act("$n gives $p to $N.", TRUE, ch, obj, vict, TO_NOTVICT);
-  if (IS_NPC(vict)) 
+  if (IS_NPC(vict))
     mp_give(ch, vict, obj);
 
   if (IS_MOB(vict) && GET_MOB_SCRIPT(vict) && MOB_SCRIPT_FLAGGED(vict, MS_ONGIVE))
@@ -983,8 +983,8 @@ ACMD(do_drink)
   if ( PLR_FLAGGED(ch, PLR_VAMPIRE) && GET_OBJ_VAL(temp, 2)!=LIQ_BLOOD &&
        (weather_info.sunlight == SUN_SET||weather_info.sunlight == SUN_DARK) )
   {
-      sprintf(buf, 
-	      "The vampirism in your body is not satiated by mere %s...\r\n", 
+      sprintf(buf,
+	      "The vampirism in your body is not satiated by mere %s...\r\n",
 	      drinks[GET_OBJ_VAL(temp, 2)]);
       send_to_char(buf, ch);
   }
@@ -1047,8 +1047,8 @@ ACMD(do_eat)
     }
   if (!(food = get_obj_in_list_vis(ch, arg, ch->carrying)))
     {
-      if (!((IS_AFFECTED(ch, AFF_WEREWOLF) && 
-            (food = get_obj_in_list_vis(ch, arg, 
+      if (!((IS_AFFECTED(ch, AFF_WEREWOLF) &&
+            (food = get_obj_in_list_vis(ch, arg,
                                         world[ch->in_room].contents)))))
       {
        sprintf(buf, "You don't seem to have %s %s.\r\n", AN(arg), arg);
@@ -1059,13 +1059,13 @@ ACMD(do_eat)
       {
        struct obj_data *tmp_obj, *temp, *next_obj;
 
-       act("You savagely rip into $p, feeding your insatiable appetite.", 
+       act("You savagely rip into $p, feeding your insatiable appetite.",
 		FALSE, ch, food, 0, TO_CHAR);
-       act("$n savagely rips into $p, crunching through flesh and bone alike.", 
+       act("$n savagely rips into $p, crunching through flesh and bone alike.",
 		TRUE, ch, food, 0, TO_ROOM);
        if ((GET_COND(ch, FULL) < 40) && (GET_COND(ch, FULL) >= 0))
         GET_COND(ch, FULL) += GET_LEVEL(ch)/2;
-       
+
        for (temp = food->contains; temp; temp = next_obj)
        {
         next_obj = temp->next_content;
@@ -1251,7 +1251,7 @@ ACMD(do_pour)
       		send_to_char("Error, please tell a god.\r\n", ch);
       		log("SYSERR: creating puddle: obj not found");
       		return;
-    	   }                   
+    	   }
 	  GET_OBJ_VAL(tobj, 2) = GET_OBJ_VAL(from_obj, 2);
 	  GET_OBJ_VAL(tobj, 3) = GET_OBJ_VAL(from_obj, 3);
 	  GET_OBJ_TIMER(tobj) = 2;
@@ -1399,7 +1399,7 @@ wear_message(struct char_data * ch, struct obj_data * obj, int where)
 
     { "$n wears $p about $s legs.",
       "You wear $p about your legs."},
- 
+
     { "$n wears $p on $s face.",
       "You wear $p on your face."},
 
@@ -1488,13 +1488,13 @@ perform_wear(struct char_data * ch, struct obj_data * obj, int where)
 			stc("Your flesh is altered, you can't wield anything!\r\n",ch);
 	  		return;
 		}
-		
-		if (GET_OBJ_WEIGHT(obj) > str_app[STRENGTH_APPLY_INDEX(ch)].wield_w)   
+
+		if (GET_OBJ_WEIGHT(obj) > str_app[STRENGTH_APPLY_INDEX(ch)].wield_w)
 		{
 	 		stc("It is too heavy for you to use.\r\n", ch);
 	 		return;
 		}
-		
+
 		if (IS_OBJ_STAT(obj, ITEM_TWO_HANDED) && (GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD)))
 		{
 			stc("Both hands must be free to wield that.\r\n", ch);
@@ -1508,12 +1508,12 @@ perform_wear(struct char_data * ch, struct obj_data * obj, int where)
 			stc("Both your hands are occupied with your weapon at the moment.\r\n", ch);
 			return;
 		}
-	} 
+	}
 
   if (!invalid_class(ch, obj))
      wear_message(ch, obj, where);
-  obj_from_char(obj);                                          
-  equip_char(ch, obj, where);                                  
+  obj_from_char(obj);
+  equip_char(ch, obj, where);
 }
 
 
@@ -1716,7 +1716,7 @@ perform_remove(struct char_data * ch, int pos)
 
   if (!(obj = GET_EQ(ch, pos)))
    log("Error in perform_remove: bad pos passed.");
-  else if (IS_OBJ_STAT(obj, ITEM_NODROP)) 
+  else if (IS_OBJ_STAT(obj, ITEM_NODROP))
      act("You can't remove $p, it must be CURSED!", FALSE, ch, obj, 0, TO_CHAR);
   else if ((IS_CARRYING_N(ch) >= CAN_CARRY_N(ch)) && !IS_NPC(ch))
     act("$p: you can't carry that many items!", FALSE, ch, obj, 0, TO_CHAR);

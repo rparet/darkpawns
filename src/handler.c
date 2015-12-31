@@ -89,16 +89,16 @@ int isname(char *str, char *namelist)
   for (;;) {
     for (curstr = str;; curstr++, curname++) {
       if (!*curstr && !isalpha(*curname))
-  return (1);
+        return (1);
 
       if (!*curname)
-  return (0);
+        return (0);
 
       if (!*curstr || *curname == ' ')
-  break;
+        break;
 
       if (LOWER(*curstr) != LOWER(*curname))
-  break;
+        break;
     }
 
     /* skip to next name */
@@ -177,7 +177,7 @@ void aff_apply_modify(struct char_data *ch, byte loc, sbyte mod, char *msg)
      case APPLY_MOVE_REGEN:
                         break;
      case APPLY_HIT_REGEN:
-      break;
+                        break;
      case APPLY_EXP:    break;
      case APPLY_AC:     GET_AC(ch) += mod;
                         break;
@@ -202,7 +202,7 @@ void aff_apply_modify(struct char_data *ch, byte loc, sbyte mod, char *msg)
      case APPLY_SAVING_SPELL:
                         GET_SAVE(ch, SAVING_SPELL) += mod;
                         break;
-    case APPLY_RACE_HATE:
+     case APPLY_RACE_HATE:
                         /* Turn off any race_hates (but 0(HUMAN) ) */
                         if (mod < 0) {
                           for (i = 0; i < 5; i++)
@@ -238,34 +238,34 @@ void aff_apply_modify(struct char_data *ch, byte loc, sbyte mod, char *msg)
                          }
                          break;
      case APPLY_SPELL:
-  if(IS_NPC(ch))
-    break;
-  else
-  {
+       if(IS_NPC(ch))
+         break;
+       else
+       {
          struct master_affected_type *aff;
-      if (mod > 0)
-      {
-        int found = 0;
+         if (mod > 0)
+         {
+           int found = 0;
+           if (ch->affected)
+             for (aff = ch->affected; aff; aff = aff->next)
+               if (aff->bitvector)
+                 if (aff->bitvector == mod)
+                   found = 1;
+             if (!found)
+              SET_BIT_AR(AFF_FLAGS(ch), mod);
+        }
+        else
+        {
+          int found = 0;
           if (ch->affected)
-              for (aff = ch->affected; aff; aff = aff->next)
+            for (aff = ch->affected; aff; aff = aff->next)
               if (aff->bitvector)
-          if (aff->bitvector == mod)
-            found = 1;
-        if (!found)
-          SET_BIT_AR(AFF_FLAGS(ch), mod);
-      }
-      else
-      {
-        int found = 0;
-          if (ch->affected)
-              for (aff = ch->affected; aff; aff = aff->next)
-              if (aff->bitvector)
-          if (aff->bitvector == -mod)
-            found = 1;
-        if (!found)
-          REMOVE_BIT_AR(AFF_FLAGS(ch), -mod);
-      }
-  } /*!IS_NPC*/
+                if (aff->bitvector == -mod)
+                  found = 1;
+          if (!found)
+            REMOVE_BIT_AR(AFF_FLAGS(ch), -mod);
+        }
+       } /*!IS_NPC*/
 
       break;
 

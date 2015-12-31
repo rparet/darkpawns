@@ -35,7 +35,7 @@ ACMD(do_tedit)
 {
   int l, i = 0;
   char field[MAX_INPUT_LENGTH];
-   
+
   struct {
     char *cmd;
     char level;
@@ -61,7 +61,7 @@ ACMD(do_tedit)
 
   if (ch->desc == NULL)
     return;
-   
+
   one_argument(argument, field);
 
   if (!*field) {
@@ -83,12 +83,12 @@ ACMD(do_tedit)
   for (l = 0; *(fields[l].cmd) != '\n'; l++)
     if (!strncmp(field, fields[l].cmd, strlen(field)))
       break;
-   
+
   if (*fields[l].cmd == '\n') {
     send_to_char("Invalid text editor option.\r\n", ch);
     return;
   }
-   
+
   if (GET_LEVEL(ch) < fields[l].level) {
     send_to_char("You are not godly enough for that!\r\n", ch);
     return;

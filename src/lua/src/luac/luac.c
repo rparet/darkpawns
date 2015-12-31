@@ -121,7 +121,7 @@ static Proto* load(const char* filename)
  char source[512];
  FILE* f;
  int c,undump;
- if (filename==NULL) 
+ if (filename==NULL)
  {
   f=stdin;
   filename="(stdin)";
@@ -192,7 +192,7 @@ static FILE* efopen(const char* name, const char* mode)
   perror(name);
   exit(1);
  }
- return f; 
+ return f;
 }
 
 void luaU_testchunk(const Proto* Main)

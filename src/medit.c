@@ -44,7 +44,7 @@ extern struct char_data *character_list;		/*. db.c    	.*/
 extern int top_of_mobt;					/*. db.c    	.*/
 extern struct zone_data *zone_table;			/*. db.c    	.*/
 extern int top_of_zone_table;				/*. db.c    	.*/
-extern struct player_special_data dummy_mob;		/*. db.c    	.*/	
+extern struct player_special_data dummy_mob;		/*. db.c    	.*/
 extern struct attack_hit_type attack_hit_text[]; 	/*. fight.c 	.*/
 extern char *action_bits[];				/*. constants.c .*/
 extern char *affected_bits[];				/*. constants.c .*/
@@ -81,7 +81,7 @@ void medit_disp_aff_flags(struct descriptor_data *d);
 void medit_disp_attack_types(struct descriptor_data *d);
 
 /*-------------------------------------------------------------------*\
-  utility functions 
+  utility functions
 \*-------------------------------------------------------------------*/
 
 
@@ -96,7 +96,7 @@ EXP_LOOKUP[LEVEL_IMPL+1] = {
 40000, 45000, 50000, 55000, 60000,      /* 30 */
 90000, 120000, 180000, 270000, 360000,  /* 35 */
 363000, 369000, 372000, 375000, 400000  /* 40 */
-};               
+};
 
 void
 medit_setup_new(struct descriptor_data *d)
@@ -106,7 +106,7 @@ medit_setup_new(struct descriptor_data *d)
   /*. Alloc some mob shaped space .*/
   CREATE(mob, struct char_data, 1);
   init_mobile(mob);
-  
+
   GET_MOB_RNUM(mob) = -1;
   /*. default strings .*/
   GET_ALIAS(mob) = str_dup("mob unfinished");
@@ -152,10 +152,10 @@ copy_mobile(struct char_data *tmob, struct char_data *fmob)
     FREE(GET_DDESC(tmob));
   if (GET_NOISE(tmob))
     FREE(GET_NOISE(tmob));
-  
+
   /*.Copy mob .*/
   *tmob = *fmob;
- 
+
   /*. Realloc strings .*/
   if (GET_ALIAS(fmob))
     GET_ALIAS(tmob) = str_dup(GET_ALIAS(fmob));
@@ -239,7 +239,7 @@ medit_save_internally(struct descriptor_data *d)
 	    GET_DDESC(live_mob) = GET_DDESC(mob_proto + rmob_num);
 	    GET_NOISE(live_mob) = GET_NOISE(mob_proto + rmob_num);
 	  }
-    } 
+    }
   /*. Mob does not exist, hafta add it .*/
   else
     {
@@ -287,7 +287,7 @@ medit_save_internally(struct descriptor_data *d)
 	  new_index[rmob_num].number = 0;
 	  new_index[rmob_num].func = NULL;
           CREATE(new_index[rmob_num].script, struct script_data, 1);
-          new_index[rmob_num].script->name = NULL;  
+          new_index[rmob_num].script->name = NULL;
           new_index[rmob_num].script->lua_functions = 0;
 	  new_mob_num = rmob_num;
 	  GET_MOB_RNUM(OLC_MOB(d)) = rmob_num;
@@ -305,10 +305,10 @@ medit_save_internally(struct descriptor_data *d)
       for(live_mob = character_list; live_mob; live_mob = live_mob->next)
 	if(GET_MOB_RNUM(live_mob) >= new_mob_num)/* SER 961222 was > */
 	  GET_MOB_RNUM(live_mob)++;
-	  
+
 	  /*. Update zone table .*/
 	  for (zone = 0; zone <= top_of_zone_table; zone++)
-	    for (cmd_no = 0; ZCMD.command != 'S'; cmd_no++) 
+	    for (cmd_no = 0; ZCMD.command != 'S'; cmd_no++)
 	      if (ZCMD.command == 'M')
 		if (ZCMD.arg1 >= new_mob_num)/* SER 961222 was > */
 		  ZCMD.arg1++;
@@ -329,20 +329,20 @@ medit_save_internally(struct descriptor_data *d)
 
 
 /*-------------------------------------------------------------------*/
-/*. Save ALL mobiles for a zone to their .mob file, mobs are all 
+/*. Save ALL mobiles for a zone to their .mob file, mobs are all
     saved in Extended format, regardless of whether they have any
     extended fields.  Thanks to Samedi for ideas on this bit of code.*/
 
 void
 medit_save_to_disk(struct descriptor_data *d)
-{ 
+{
   int i, rmob_num, zone, top;
   FILE *mob_file;
   char fname[64];
   struct char_data *mob;
 
-  zone = zone_table[OLC_ZNUM(d)].number; 
-  top = zone_table[OLC_ZNUM(d)].top; 
+  zone = zone_table[OLC_ZNUM(d)].number;
+  top = zone_table[OLC_ZNUM(d)].top;
 
   sprintf(fname, "%s/%i.mob", MOB_PREFIX, zone);
 
@@ -356,8 +356,8 @@ medit_save_to_disk(struct descriptor_data *d)
   for(i = zone * 100; i <= top; i++)
     {
       rmob_num = real_mobile(i);
-    
-      if(rmob_num != -1) 
+
+      if(rmob_num != -1)
 	{
 	  if(fprintf(mob_file, "#%d\n", i) < 0)
 	    {
@@ -374,15 +374,15 @@ medit_save_to_disk(struct descriptor_data *d)
 	  strcpy(buf2, GET_DDESC(mob) ? GET_DDESC(mob) : "undefined");
 	  strip_string(buf2);
 
-	  fprintf(mob_file, 
+	  fprintf(mob_file,
 		  "%s~\n"
 		  "%s~\n"
 		  "%s~\n"
 		  "%s~\n"
 		  "%d %d %d %d "   /* mob flags */
 		  "%d %d %d %d "   /* mob affects */
-                  "%i E\n" 
-		  "%d %d %i %dd%d+%d %dd%d+%d\n" 
+                  "%i E\n"
+		  "%d %d %i %dd%d+%d %dd%d+%d\n"
 		  "%ld %ld\n"
 		  "%d %d %d\n",
 		  GET_ALIAS(mob) ? GET_ALIAS(mob) : "undefined",
@@ -394,10 +394,10 @@ medit_save_to_disk(struct descriptor_data *d)
 		  MOB_FLAGS(mob)[2],
 		  MOB_FLAGS(mob)[3],
 		  AFF_FLAGS(mob)[0],  /* mob affects */
-		  AFF_FLAGS(mob)[1], 
-		  AFF_FLAGS(mob)[2], 
-		  AFF_FLAGS(mob)[3], 
-		  GET_ALIGNMENT(mob), 
+		  AFF_FLAGS(mob)[1],
+		  AFF_FLAGS(mob)[2],
+		  AFF_FLAGS(mob)[3],
+		  GET_ALIGNMENT(mob),
 		  GET_LEVEL(mob),
 		  20 - GET_HITROLL(mob), /*. Convert hitroll to thac0 .*/
 		  GET_AC(mob) / 10,
@@ -439,7 +439,7 @@ medit_save_to_disk(struct descriptor_data *d)
 	    fprintf(mob_file, "Noise: %s\n", GET_NOISE(mob));
           if(GET_MOB_SCRIPT(mob) && GET_MOB_SCRIPT(mob)->name)
             fprintf(mob_file, "Script: %s %d\n", GET_MOB_SCRIPT(mob)->name, MOB_SCRIPT_FLAGS(mob));
-	  
+
 	  /*. Add E-mob handlers here .*/
 
 	  fprintf(mob_file, "E\n");
@@ -451,7 +451,7 @@ medit_save_to_disk(struct descriptor_data *d)
 }
 
 /**************************************************************************
- Menu functions 
+ Menu functions
  **************************************************************************/
 /*. Display poistions (sitting, standing etc) .*/
 
@@ -497,7 +497,7 @@ void
 medit_disp_attack_types(struct descriptor_data *d)
 {
   int i;
-  
+
   get_char_cols(d->character);
   send_to_char("\r\n", d->character);
   for (i = 0; i < NUM_ATTACK_TYPES; i++)
@@ -507,7 +507,7 @@ medit_disp_attack_types(struct descriptor_data *d)
     }
   send_to_char("Enter attack type : ", d->character);
 }
- 
+
 
 /*-------------------------------------------------------------------*/
 /*. Display mob-flags menu .*/
@@ -516,7 +516,7 @@ void
 medit_disp_mob_flags(struct descriptor_data *d)
 {
   int i, columns = 0;
-  
+
   get_char_cols(d->character);
   send_to_char("\r\n", d->character);
   for (i = 0; i < NUM_MOB_FLAGS; i++)
@@ -541,11 +541,11 @@ medit_disp_mob_flags(struct descriptor_data *d)
 
 void medit_disp_aff_flags(struct descriptor_data *d)
 { int i, columns = 0;
-  
+
   get_char_cols(d->character);
   send_to_char("\r\n", d->character);
   for (i = 0; i < NUM_AFF_FLAGS; i++)
-  {  sprintf(buf, "%s%2d%s) %-20.20s  ", 
+  {  sprintf(buf, "%s%2d%s) %-20.20s  ",
 	grn, i+1, nrm, affected_bits[i]
      );
      if(!(++columns % 2))
@@ -562,13 +562,13 @@ void medit_disp_aff_flags(struct descriptor_data *d)
 }
 
 void medit_disp_script_flags(struct descriptor_data *d)
-{ 
+{
   int i, columns = 0;
-  
+
   get_char_cols(d->character);
   send_to_char("[H[J", d->character);
   for (i = 0; i < NUM_MSCRIPT_FLAGS; i++)
-  {  sprintf(buf, "%s%2d%s) %-20.20s  ", 
+  {  sprintf(buf, "%s%2d%s) %-20.20s  ",
 	grn, i+1, nrm, mscript_bits[i]
      );
      if(!(++columns % 2))
@@ -591,7 +591,7 @@ void
 medit_disp_races(struct descriptor_data *d)
 {
   int i, columns = 0;
-  
+
   get_char_cols(d->character);
   send_to_char("\r\n", d->character);
   for (i = 0; i < NUM_MOB_RACES; i++)
@@ -603,8 +603,8 @@ medit_disp_races(struct descriptor_data *d)
     }
   send_to_char("\r\nEnter mob race : ", d->character);
 }
- 
-  
+
+
 /*-------------------------------------------------------------------*/
 /*. Display main menu .*/
 
@@ -613,7 +613,7 @@ medit_disp_menu(struct descriptor_data * d)
 {
   struct char_data *mob = OLC_MOB(d);
   get_char_cols(d->character);
-  
+
   snprintf(buf, MAX_STRING_LENGTH,
 	   "\r\n"
 	  "-- Mob Number:  [%s%d%s]\r\n"
@@ -641,7 +641,7 @@ medit_disp_menu(struct descriptor_data * d)
 	  grn, nrm, cyn, GET_HIT(mob), nrm,
 	  grn, nrm, cyn, GET_MANA(mob), nrm,
 	  grn, nrm, cyn, GET_MOVE(mob), nrm,
-	  grn, nrm, cyn, GET_AC(mob), nrm, 
+	  grn, nrm, cyn, GET_AC(mob), nrm,
 	  /*. Gold & Exp are longs in my mud, ignore any warnings .*/
 	  grn, nrm, cyn, (long)GET_EXP(mob), nrm,
 	  grn, nrm, cyn, (long)GET_GOLD(mob), nrm);
@@ -665,7 +665,7 @@ medit_disp_menu(struct descriptor_data * d)
 	  grn, nrm, yel, position_types[(int)GET_POS(mob)],
 	  grn, nrm, yel, position_types[(int)GET_DEFAULT_POS(mob)],
 	  grn, nrm, yel, attack_hit_text[GET_ATTACK(mob)].singular,
-	  grn, nrm, cyn, buf1, 
+	  grn, nrm, cyn, buf1,
 	  grn, nrm, cyn, buf2,
 	  grn, nrm, cyn, mob_races[(mob)->mob_specials.race],
 	  grn, nrm, cyn, GET_NOISE(mob)?GET_NOISE(mob):"None",
@@ -676,7 +676,7 @@ medit_disp_menu(struct descriptor_data * d)
   OLC_MODE(d) = MEDIT_MAIN_MENU;
 }
 
-void 
+void
 medit_disp_script_menu(struct descriptor_data *d)
 {
   struct char_data *mob = OLC_MOB(d);
@@ -724,7 +724,7 @@ medit_parse(struct descriptor_data * d, char *arg)
 	}
     }
 
-  switch (OLC_MODE(d)) 
+  switch (OLC_MODE(d))
     {
       /*-------------------------------------------------------------------*/
     case MEDIT_CONFIRM_SAVESTRING:
@@ -737,7 +737,7 @@ medit_parse(struct descriptor_data * d, char *arg)
 	send_to_char("Saving mobile to memory.\r\n", d->character);
 	medit_save_internally(d);
 	sprintf(buf, "OLC: %s edits mob %d", GET_NAME(d->character),
-		OLC_NUM(d));	      
+		OLC_NUM(d));
 	mudlog(buf, CMP, LVL_BUILDER, TRUE);
 	cleanup_olc(d, CLEANUP_ALL);
 	return;
@@ -755,7 +755,7 @@ medit_parse(struct descriptor_data * d, char *arg)
       /*-------------------------------------------------------------------*/
     case MEDIT_MAIN_MENU:
       i = 0;
-      switch (*arg) 
+      switch (*arg)
 	{
 	case 'q':
 	case 'Q':
@@ -904,19 +904,19 @@ medit_parse(struct descriptor_data * d, char *arg)
 	{  send_to_char("\r\nEnter new text :\r\n| ", d->character);
 	return;
 	}
-      break; 
+      break;
 
       /*-------------------------------------------------------------------*/
     case MEDIT_ALIAS:
       if(GET_ALIAS(OLC_MOB(d)))
 	FREE(GET_ALIAS(OLC_MOB(d)));
-      GET_ALIAS(OLC_MOB(d)) = str_dup(arg); 
+      GET_ALIAS(OLC_MOB(d)) = str_dup(arg);
       break;
       /*-------------------------------------------------------------------*/
     case MEDIT_S_DESC:
       if(GET_SDESC(OLC_MOB(d)))
 	FREE(GET_SDESC(OLC_MOB(d)));
-      GET_SDESC(OLC_MOB(d)) = str_dup(arg); 
+      GET_SDESC(OLC_MOB(d)) = str_dup(arg);
       break;
       /*-------------------------------------------------------------------*/
     case MEDIT_L_DESC:
@@ -924,7 +924,7 @@ medit_parse(struct descriptor_data * d, char *arg)
 	FREE(GET_LDESC(OLC_MOB(d)));
       strcpy(buf, arg);
       strcat(buf, "\r\n");
-      GET_LDESC(OLC_MOB(d)) = str_dup(buf); 
+      GET_LDESC(OLC_MOB(d)) = str_dup(buf);
       break;
       /*-------------------------------------------------------------------*/
     case MEDIT_D_DESC:
@@ -966,8 +966,8 @@ medit_parse(struct descriptor_data * d, char *arg)
       if(GET_NOISE(OLC_MOB(d)))
 	FREE(GET_NOISE(OLC_MOB(d)));
       if (strlen(arg) > 2)
-        GET_NOISE(OLC_MOB(d)) = str_dup(arg); 
-      else 
+        GET_NOISE(OLC_MOB(d)) = str_dup(arg);
+      else
 	GET_NOISE(OLC_MOB(d)) = NULL;
       break;
       /*-------------------------------------------------------------------*/
@@ -975,12 +975,12 @@ medit_parse(struct descriptor_data * d, char *arg)
     case MEDIT_SCRIPT_MENU:
       i = atoi(arg);
       switch (i) {
-        case 0:  
+        case 0:
           break;
         case 1:
           OLC_MODE(d) = MEDIT_SCRIPT_NAME;
           send_to_char("Enter script name: ", d->character);
-          return; 
+          return;
         case 2:
           OLC_MODE(d) = MEDIT_SCRIPT_FLAGS;
           medit_disp_script_flags(d);
@@ -999,9 +999,9 @@ medit_parse(struct descriptor_data * d, char *arg)
         GET_MOB_SCRIPT(OLC_MOB(d))->name = str_dup(arg);
       medit_disp_script_menu(d);
       return;
-   
+
     case MEDIT_SCRIPT_FLAGS:
-      if ((i = atoi(arg)) == 0) { 
+      if ((i = atoi(arg)) == 0) {
         OLC_MODE(d) = MEDIT_SCRIPT_MENU;
         medit_disp_script_menu(d);
         return;
@@ -1009,7 +1009,7 @@ medit_parse(struct descriptor_data * d, char *arg)
       if (!((i < 0) || (i > NUM_MSCRIPT_FLAGS)))
         TOGGLE_BIT(MOB_SCRIPT_FLAGS(OLC_MOB(d)), 1 << (i - 1));
       medit_disp_script_flags(d);
-      return; 
+      return;
 
       /*. Numerical responses .*/
 
@@ -1111,7 +1111,7 @@ medit_parse(struct descriptor_data * d, char *arg)
       break;
     }
   /*-------------------------------------------------------------------*/
-  /*. END OF CASE 
+  /*. END OF CASE
     If we get here, we have probably changed something, and now want to
     return to main menu.  Use OLC_VAL as a 'has changed' flag .*/
 

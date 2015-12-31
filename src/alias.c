@@ -52,26 +52,26 @@ void write_aliases(struct char_data *ch)
   file = fopen(fn,"wt");
 
   temp = GET_ALIASES(ch);
-  
+
   while( temp )
   {
     length = strlen(temp->alias);
-    fprintf(file,"%d\n",length); 
+    fprintf(file,"%d\n",length);
     fprintf(file,"%s\n",temp->alias);
-    buf = str_dup(temp->replacement); 
+    buf = str_dup(temp->replacement);
     while( *++buf == ' ' );
     length = strlen(buf);
-    fprintf(file,"%d\n",length); 
+    fprintf(file,"%d\n",length);
     fprintf(file,"%s\n",buf);
     fprintf(file,"%d\n",temp->type);
     temp = temp->next;
   }
-  
+
   fclose(file);
 }
 
 void read_aliases(struct char_data *ch)
-{   
+{
   FILE *file;
   char fn[127];
   struct alias *t2;
@@ -84,27 +84,27 @@ void read_aliases(struct char_data *ch)
 
   if( !file )
     return;
- 
+
   CREATE(GET_ALIASES(ch),struct alias,1);
-  t2 = GET_ALIASES(ch); 
-  do 
-  { 
+  t2 = GET_ALIASES(ch);
+  do
+  {
     fscanf(file,"%d\n",&length);
     fgets(buf,length+1,file);
     t2->alias=str_dup(buf);
     fscanf(file,"%d\n",&length);
     fgets(buf,length+1,file);
     strcpy(temp_buf," ");
-    strcat(temp_buf,buf); 
-    t2->replacement=str_dup(temp_buf); 
+    strcat(temp_buf,buf);
+    t2->replacement=str_dup(temp_buf);
     fscanf(file,"%d\n",&length);
-    t2->type = length; 
+    t2->type = length;
     if( !feof(file) ){
       CREATE(t2->next,struct alias,1);
       t2 = t2->next;
-    } 
-  } while( !feof(file) ); 
-  
+    }
+  } while( !feof(file) );
+
   fclose(file);
-} 
+}
 

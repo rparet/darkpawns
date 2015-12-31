@@ -127,7 +127,7 @@ struct reset_com {
    int	arg3;		/*                                      */
    int line;		/* line number this command appears on  */
 
-   /* 
+   /*
 	*  Commands:              *
 	*  'M': Read a mobile     *
 	*  'O': Read an object    *

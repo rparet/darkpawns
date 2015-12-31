@@ -28,7 +28,7 @@ char *extra_bits[] = {
   "!SELL",
   "NAMED",
   "!PSI",
-  "!NIN",   
+  "!NIN",
   "!PAL",
   "!MAGUS",
   "!ASS",
@@ -43,7 +43,7 @@ char *extra_bits[] = {
 void sprintbitarray(int bitvector[], char *names[], int maxar, char *result) {
    int nr, teller, found = FALSE;
 
-   *result = '\0'; 
+   *result = '\0';
 
    for(teller = 0; teller < maxar && !found; teller++)
       for(nr = 0; nr < 32 && !found; nr++) {
@@ -57,10 +57,10 @@ void sprintbitarray(int bitvector[], char *names[], int maxar, char *result) {
                strcat(result, "UNDEFINED ");
             }
          if(*names[(teller*32)+nr] == '\n')
-            found = TRUE;   
+            found = TRUE;
       }
-  
-   if(!*result)   
+
+   if(!*result)
       strcpy(result, "NOBITS ");
 }
 
@@ -71,11 +71,11 @@ int get_fname(char *orig_name, char *filename)
 
   if (!*orig_name)
     return 0;
- 
+
   strcpy(name, orig_name);
   for (ptr = name; *ptr; ptr++)
     *ptr = LOWER(*ptr);
-  
+
   switch (LOWER(*name)) {
   case 'a':  case 'b':  case 'c':  case 'd':  case 'e':
     middle = "A-E";
@@ -90,13 +90,13 @@ int get_fname(char *orig_name, char *filename)
     middle = "P-T";
     break;
   case 'u':  case 'v':  case 'w':  case 'x':  case 'y':  case 'z':
-    middle = "U-Z"; 
+    middle = "U-Z";
     break;
   default:
     middle = "ZZZ";
     break;
   }
-  
+
   sprintf(filename, "../lib/%s/%s/%s.%s", PREFIX, middle, name, SUFFIX);
   return 1;
 }
@@ -107,7 +107,7 @@ void find_obj(char *player_name, int object_vnum)
   char fname[MAX_INPUT_LENGTH];
   struct obj_file_elem object;
   struct rent_info rent;
-  char buf[256];    
+  char buf[256];
 
   if (!get_fname(player_name, fname))
     return;
@@ -118,12 +118,12 @@ void find_obj(char *player_name, int object_vnum)
 
   while (!feof(fl)) {
     fread(&object, sizeof(struct obj_file_elem), 1, fl);
-    if (ferror(fl)) {   
+    if (ferror(fl)) {
       fclose(fl);
       return;
     }
     if (!feof(fl))
-      if (object.item_number == object_vnum) 
+      if (object.item_number == object_vnum)
       {
         sprintbitarray(object.extra_flags, extra_bits, EF_ARRAY_MAX, buf);
         printf("%s: [%d] %s %s\r\n", player_name, object.item_number, object.shortd, buf);
@@ -154,7 +154,7 @@ int main (int argc, char *argv[])
   size = ftell(fl);
   rewind(fl);
 
-  if (size % sizeof(struct char_file_u)) 
+  if (size % sizeof(struct char_file_u))
   {
     fprintf(stderr, "\aWARNING:  File size does not match structure, recompile.\r\n");
     fclose(fl);

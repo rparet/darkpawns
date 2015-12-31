@@ -77,7 +77,7 @@ int file_to_string_alloc(char *name, char **buf);
 /* Returns non-zero result if directory is safe */
 static int valid_directory(const char *file)
 {
-  return matches(file,"^[/a-zA-Z0-9_-]+$"); 
+  return matches(file,"^[/a-zA-Z0-9_-]+$");
 }
 
 int list_directory(struct char_data *ch, const char *dir, int(*filter)(const struct dirent *))
@@ -102,11 +102,11 @@ int list_directory(struct char_data *ch, const char *dir, int(*filter)(const str
 
       free(nl[i]);
     }
-    
+
     if (!i)
       send_to_char("None.\r\n", ch);
     else
-      send_to_char("\r\n", ch);      
+      send_to_char("\r\n", ch);
 
     free(nl);
   }
@@ -117,7 +117,7 @@ int list_directory(struct char_data *ch, const char *dir, int(*filter)(const str
 /* Returns non-zero result if filename is safe */
 static int valid_filename(const char *file)
 {
-  return matches(file, "^[a-zA-Z0-9_-]+.?[a-zA-Z0-9_-]*$"); 
+  return matches(file, "^[a-zA-Z0-9_-]+.?[a-zA-Z0-9_-]*$");
 }
 
 static void path(char *pathname, const char *dir, const char *file)
@@ -139,11 +139,11 @@ int view_file(struct char_data *ch, const char *dir, const char *file)
     file_to_string_alloc(fname, &filebuf);
   else
     return -1;
-  
+
   send_to_char(filebuf, ch);
 
   FREE(filebuf);
-    
+
   return 0;
 }
 
@@ -158,7 +158,7 @@ void general_file_edit(struct char_data *ch, char *filename, char **buffer, int 
   if (!ch->desc->olc) {
     CREATE(ch->desc->olc, struct olc_data, 1);
   }
-  
+
   if (buffer && *buffer) {
     sprintf(buf, "%s", *buffer);
     send_to_char(buf, ch);
@@ -182,7 +182,7 @@ int edit_file(struct char_data *ch, const char *dir, const char *file, bool kill
 
   if (!ch->desc->olc) {
     CREATE(ch->desc->olc, struct olc_data, 1);
-  }  
+  }
 
   path(fname, dir, file);
 

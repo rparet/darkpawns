@@ -29,10 +29,10 @@ ACMD(do_luaedit)
 {
   int r;
   char arg1[MAX_INPUT_LENGTH], arg2[MAX_INPUT_LENGTH];
-  char err[] = "Invalid lua edit option.\r\n";  
+  char err[] = "Invalid lua edit option.\r\n";
 
   two_arguments(argument, arg1, arg2);
-  
+
   if (*arg1 == '\0')
     strcpy(buf, SCRIPT_DIR);
   else if (is_scripts_root(arg1)) {

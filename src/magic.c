@@ -521,8 +521,6 @@ get_reagent_names(int spellnum)
 		          tmp = return_string;
 		        sprintf(buf, "%s%s%s", tmp?tmp:"", tmp?", ":"",
 						 (obj)->short_description);
-		      /*  if (tmp)
-		          FREE(tmp); */
 		        extract_obj(obj);
 						return_string = str_dup(buf);
 	        }

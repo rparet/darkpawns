@@ -6,9 +6,9 @@
 *		      robert@diku.dk (Robert Martin-Legene),             *
 *                           DikuMud is a copyright (c) of the Diku Group *
 \************************************************************************/
- 
+
 /* CVS: $Id: whod.c 1487 2008-05-22 01:36:10Z jravn $ */
- 
+
 /************************************************************************\
 *                                                                        *
 *      Opens a port (the port # above the port # the game itself is	 *
@@ -22,28 +22,28 @@
 *									 *
 *      Change the following #define-statements to adjust the             *
 *      WHOD to your server.                                              */
- 
+
 /* *** The following statement sets the name of the MUD in WHOD      *** */
 #define MUDNAME "Dark Pawns"
- 
+
 /* *** The following statement indicates the WHOD default mode       *** */
 #define DEFAULT_MODE (SHOW_NAME | SHOW_TITLE | SHOW_ON | SHOW_CLASS | SHOW_LEVEL)
- 
+
 /* *** The following statement tells if a character is WIZ_INVIS     *** */
 #define IS_INVIS(ch) (IS_AFFECTED(ch, AFF_INVISIBLE)||GET_INVIS_LEV(ch)||ROOM_FLAGGED(ch->in_room, ROOM_NO_WHO_ROOM))
- 
+
 /* *** Specify the lowest wizard level                               *** */
 #define WIZ_MIN_LEVEL LVL_IMMORT
- 
+
 /* *** The following statement will send a message to the system log *** */
 #define LOG(msg) mudlog(msg,BRF,LVL_GOD,TRUE)
- 
+
 /* *** Time to wait for disconnection (in seconds)                   *** */
 #define WHOD_DELAY_TIME 3
- 
+
 /* *** Show linkdead people on the list as well ?  1=yes, 0=no       *** */
 #define DISPLAY_LINKDEAD 0
- 
+
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <sys/un.h>
@@ -58,7 +58,7 @@
 #define _XOPEN_EXTENDED_SOURCE
 #include <netdb.h>
 #undef _XOPEN_EXTENDED_SOURCE
-#include <time.h>  
+#include <time.h>
 #include <sys/select.h>
 #include <strings.h>
 #else
@@ -77,14 +77,14 @@
 #include "interpreter.h"
 #include "whod.h"
 #include "screen.h"
- 
+
 #define WHOD_OPENING 1
 #define WHOD_OPEN    2
 #define WHOD_DELAY   3
 #define WHOD_END     4
 #define WHOD_CLOSED  5
 #define WHOD_CLOSING 6
- 
+
 #define SHOW_NAME	1<<0
 #define SHOW_CLASS	1<<1
 #define SHOW_LEVEL	1<<2
@@ -94,19 +94,19 @@
 #define SHOW_WIZLEVEL	1<<6
 #define SHOW_ON		1<<7
 #define SHOW_OFF	1<<8
- 
+
 #define WRITE(d,msg) if((write((d),(msg),strlen(msg)))<0){\
                             perror("whod.c - write");}
- 
+
 /* *** External functions *** */
 int init_socket(int port);
- 
+
 /* *** External variables *** */
 extern struct char_data *character_list;
 extern char *class_abbrevs[];
 extern char *SHORT_GREETINGS;
-extern struct room_data *world;          
- 
+extern struct room_data *world;
+
 /* *** Internal variables *** */
 static long   disconnect_time;
 static int    s;
@@ -114,13 +114,13 @@ static int    whod_mode = DEFAULT_MODE;
 static int    state;
 static int    whod_port;
 
-int i ; 
+int i ;
 
-int old_search_block(char *argument, int begin, int length, char **list, 
+int old_search_block(char *argument, int begin, int length, char **list,
                      int mode);
 
 /*       ------ WHOD interface for use inside of the game ------        */
- 
+
 /* Function   : do_whod
  * Parameters : doer, argument string, number of WHOD command (not used)
  * Returns    : --
@@ -132,7 +132,7 @@ do_whod (struct char_data *ch, char *arg, int cmd)
   char buf [256];
   char tmp [MAX_INPUT_LENGTH];
   int  bit;
- 
+
   static char *modes[] =
   {
     "name",
@@ -146,7 +146,7 @@ do_whod (struct char_data *ch, char *arg, int cmd)
     "off",
     "\n"
   };
- 
+
   half_chop(arg, buf, tmp);
   if (!*buf)
     {
@@ -156,7 +156,7 @@ do_whod (struct char_data *ch, char *arg, int cmd)
       send_to_char(buf,ch);
       return;
     }
-  
+
   if ((bit = old_search_block(buf,0,strlen(buf),modes,0)) == -1)
     {
       send_to_char("That mode does not exist.\n\r"
@@ -171,7 +171,7 @@ do_whod (struct char_data *ch, char *arg, int cmd)
       send_to_char(buf,ch);
       return;
     }
- 
+
   bit--; /* Is bit no + 1 */
   if (SHOW_ON == 1<<bit)
     {
@@ -230,14 +230,14 @@ do_whod (struct char_data *ch, char *arg, int cmd)
 	    }
 	}
     }
- 
+
   return;
 }
- 
- 
- 
+
+
+
 /*          ------ WHO Daemon staring here ------          */
- 
+
 /* Function   : init_whod
  * Parameters : Port #-1 the daemon should be run at
  * Returns    : --
@@ -251,7 +251,7 @@ init_whod(int port)
   s = init_socket(whod_port);
   state = WHOD_OPEN;
 }
- 
+
 /* Function   : close_whod
  * Parameters : --
  * Returns    : --
@@ -267,7 +267,7 @@ close_whod (void)
       LOG("WHOD port closed.");
     }
 }
- 
+
 /* Function   : whod_loop
  * Parameters : --
  * Returns    : --
@@ -285,9 +285,9 @@ whod_loop(void)
   char   buf[MAX_STRING_LENGTH], tmp[80];
   struct char_data  *ch;
   struct hostent *hent;
- 
+
   static int newdesc;
- 
+
   switch (state)
     {
       /****************************************************************/
@@ -296,40 +296,40 @@ whod_loop(void)
       LOG("WHOD port opened.");
       state = WHOD_OPEN;
       break;
- 
+
       /****************************************************************/
     case WHOD_OPEN:
-    
+
       timeout.tv_sec = 0;
       timeout.tv_usec = 100;
-    
+
       FD_ZERO(&in);
       FD_SET(s, &in);
- 
+
       nfound = select(s+1,(fd_set*)&in,(fd_set*) 0,(fd_set*) 0,&timeout);
- 
+
       if (FD_ISSET(s,&in))
 	{
 	  size = sizeof(newaddr);
 	  getsockname(s, (struct sockaddr *)&newaddr, &size);
- 
+
 	  if ((newdesc = accept(s, (struct sockaddr *)&newaddr, &size)) < 0)
 	    {
 	      perror("WHOD - Accept");
 	      return;
 	    }
- 
+
 	  if (!(hent = gethostbyaddr((char *)(&newaddr.sin_addr),
 				     sizeof(newaddr.sin_addr),AF_INET)))
 	    {
-	      hostlong = htonl(newaddr.sin_addr.s_addr); 
-	      sprintf(buf,"WHO request from %d.%d.%d.%d served.", 
+	      hostlong = htonl(newaddr.sin_addr.s_addr);
+	      sprintf(buf,"WHO request from %d.%d.%d.%d served.",
 		      (int)((hostlong & 0xff000000) >>24),
-		      (int)((hostlong & 0x00ff0000) >>16), 
+		      (int)((hostlong & 0x00ff0000) >>16),
 		      (int)((hostlong & 0x0000ff00) >>8),
 		      (int)((hostlong & 0x000000ff) >>0));
 	    }
-	  else 
+	  else
 	    sprintf(buf,"WHO request from %s served.",hent->h_name);
 
 	  LOG(buf);
@@ -337,9 +337,9 @@ whod_loop(void)
 	  sprintf(buf, "%s", SHORT_GREETINGS);
 
 	  WRITE(newdesc,buf);
- 
+
 	  sprintf(buf,"\n\rA list of active players on %s:\n\r\n\r",MUDNAME);
- 
+
 	  for (ch = character_list; ch; ch = ch->next)
 	    if ((!IS_NPC(ch)) && (DISPLAY_LINKDEAD || ch->desc))
 	      if (IS_SET(SHOW_INVIS,whod_mode) || ! IS_INVIS(ch))
@@ -390,10 +390,10 @@ whod_loop(void)
 			}
 		      strcat(buf,"] ");
 		    }
- 
+
 		  if(IS_SET(SHOW_NAME,whod_mode))
 		    strcat(buf,GET_NAME(ch));
- 
+
 		  if (IS_SET(SHOW_TITLE,whod_mode))
 		    {
 		      strcat(buf," ");
@@ -409,7 +409,7 @@ whod_loop(void)
 			sprintf(tmp," [ ** Unknown ** ]");
 		      strcat(buf,tmp);
 		    }
-	      
+
 		  strcat(buf,"\n\r");
 		  if (GET_LEVEL(ch) >= WIZ_MIN_LEVEL) gods++; else players++;
 		  if (MAX_STRING_LENGTH-strlen(buf)<=80)
@@ -418,28 +418,28 @@ whod_loop(void)
 		      *buf='\0';
 		    }
 		}
- 
+
 	  sprintf(tmp,"\n\rPlayers : %d     Gods : %d\n\r\n\r",players,gods);
 	  strcat(buf, tmp);
- 
+
 	  WRITE(newdesc,buf);
- 
+
 	  disconnect_time = time(NULL) + WHOD_DELAY_TIME;
- 
+
 	  state = WHOD_DELAY;
 	}
       else
 	if (IS_SET(SHOW_OFF,whod_mode))
 	  state = WHOD_CLOSING;
-    
+
       break;
- 
+
       /****************************************************************/
     case WHOD_DELAY:
-      if (time(NULL) >= disconnect_time) 
+      if (time(NULL) >= disconnect_time)
 	state = WHOD_END;
       break;
- 
+
       /****************************************************************/
     case WHOD_END:
       close(newdesc);
@@ -448,31 +448,31 @@ whod_loop(void)
       else
 	state = WHOD_OPEN;
       break;
-    
+
       /****************************************************************/
     case WHOD_CLOSING:
       close_whod();
       state = WHOD_CLOSED ;
       break;
- 
+
       /****************************************************************/
     case WHOD_CLOSED:
       if (IS_SET(whod_mode,SHOW_ON))
 	state = WHOD_OPENING;
       break;
- 
+
     }
   return;
 }
- 
+
 /* *** You might want to use this in your help_file.		     *** */
 /* *** It should be placed in the end of the file, so help on WHO is *** */
 /* ***  availeble too.						     *** */
 /*
 WHOD
- 
+
 The who daemon is run on a separate port. The following commands exists:
- 
+
 name    : Toggles peoples name on/off the list (useless)
 class   : Toggles peoples level on/off the list
 title   : Toggles peoples title on/off the list
@@ -481,7 +481,7 @@ site    : Toggles peoples site names on/off the list
 wizlevel: Toggles whether or not to show wizards class and level
 on      : Turns the whod on, and thereby opens the port
 off     : Turns the whod off, and thereby closes the port
- 
+
 NOTE:     The on/off feature is only made to use, if someone starts polling
 	a few times a second or the like, and thereby abusing the net. You
 	might then want to shut down the daemon for 15 minutes or so.

@@ -44,7 +44,7 @@
 extern struct room_data *world;
 extern struct descriptor_data *descriptor_list;
 extern struct room_data *world;
-extern char *dirs[];    
+extern char *dirs[];
 
 /* extern functions */
 void raw_kill(struct char_data * ch, int attacktype);
@@ -81,7 +81,7 @@ ACMD(do_assist)
 	   opponent && (FIGHTING(opponent) != helpee);
 	   opponent = opponent->next_in_room)
 	;
-      
+
       if (!opponent)
 	act("But nobody is fighting $M!", FALSE, ch, 0, helpee, TO_CHAR);
       else if (!CAN_SEE(ch, opponent))
@@ -141,7 +141,7 @@ ACMD(do_kill)
       return;
     }
   one_argument(argument, arg);
-  
+
   if (!*arg)
     send_to_char("Kill who?\r\n", ch);
   else
@@ -169,12 +169,12 @@ ACMD(do_backstab)
 
   one_argument(argument, buf);
 
-  if (!GET_SKILL(ch, SKILL_BACKSTAB)) 
+  if (!GET_SKILL(ch, SKILL_BACKSTAB))
     {
       send_to_char("You have no idea how.\r\n", ch);
       if (!subcmd)
         return;
-    }              
+    }
 
   if (!(vict = get_char_room_vis(ch, buf)))
     {
@@ -208,7 +208,7 @@ ACMD(do_backstab)
 		   "alert!\r\n", ch);
       return;
     }
-  
+
   if ( IS_NPC(vict) && MOB_FLAGGED(vict, MOB_AWARE) && AWAKE(vict))
     {
       act("You notice $N lunging at you!", FALSE, vict, 0, ch, TO_CHAR);
@@ -220,7 +220,7 @@ ACMD(do_backstab)
 
   percent = number(1, 101);	/* 101% is a complete failure */
   prob = subcmd?number(50,100):GET_SKILL(ch, SKILL_BACKSTAB);
-  
+
   if (AWAKE(vict) && (percent > prob))
     damage(ch, vict, 0, SKILL_BACKSTAB);
   else
@@ -235,16 +235,16 @@ ACMD(do_disembowel)
 {
  int percent, prob;
  struct char_data *vict;
- 
+
  one_argument(argument, buf);
 
- if (!GET_SKILL(ch, SKILL_DISEMBOWEL)) 
+ if (!GET_SKILL(ch, SKILL_DISEMBOWEL))
    {
      send_to_char("You have no idea how.\r\n", ch);
      if (!subcmd)
        return;
    }
- 
+
 
  if (!(vict = get_char_room_vis(ch, buf)))
     {
@@ -259,7 +259,7 @@ ACMD(do_disembowel)
     {
       send_to_char("Nah. Hari Kari is for wimps.\r\n", ch);
       return;
-    }        
+    }
  if (!GET_EQ(ch, WEAR_WIELD))
     {
       send_to_char("You need to wield a weapon to make it a success.\r\n",ch);
@@ -267,16 +267,16 @@ ACMD(do_disembowel)
     }
  if (GET_OBJ_VAL(GET_EQ(ch, WEAR_WIELD), 3) != TYPE_PIERCE - TYPE_HIT)
     {
-      send_to_char("Only piercing weapons can be used for " 
+      send_to_char("Only piercing weapons can be used for "
        "disemboweling.\r\n", ch);
       return;
-    }                 
+    }
   if (IS_MOUNTED(ch))
   {
     stc("Dismount first!\r\n", ch);
     return;
   }
-  
+
   percent = number(1, 101);     /* 101% is a complete failure */
   prob = subcmd?GET_SKILL(ch, SKILL_DISEMBOWEL): number(50,100);
 
@@ -286,7 +286,7 @@ ACMD(do_disembowel)
     {
       hit(ch, vict, SKILL_DISEMBOWEL);
       improve_skill(ch, SKILL_DISEMBOWEL);
-    }         
+    }
   WAIT_STATE(ch, PULSE_VIOLENCE*2);
 }
 
@@ -309,7 +309,7 @@ ACMD(do_order)
     send_to_char("That person isn't here.\r\n", ch);
   else if (ch == vict)
     send_to_char("You obviously suffer from skitzofrenia.\r\n", ch);
-  
+
   else
     {
     if (IS_AFFECTED(ch, AFF_CHARM))
@@ -323,7 +323,7 @@ ACMD(do_order)
 	sprintf(buf, "$N orders you to '%s'", message);
 	act(buf, FALSE, vict, 0, ch, TO_CHAR);
 	act("$n gives $N an order.", FALSE, ch, 0, vict, TO_ROOM);
-	
+
 	if ((vict->master != ch) || !IS_AFFECTED(vict, AFF_CHARM))
 	  act("$n has an indifferent look.", FALSE, vict, 0, 0, TO_ROOM);
 	else
@@ -336,9 +336,9 @@ ACMD(do_order)
       {			/* This is order "followers" */
 	sprintf(buf, "$n issues the order '%s'.", message);
 	act(buf, FALSE, ch, 0, vict, TO_ROOM);
-	
+
 	org_room = ch->in_room;
-	
+
 	for (k = ch->followers; k; k = k->next)
 	  {
 	    if (k->follower && (org_room == k->follower->in_room))
@@ -360,7 +360,7 @@ ACMD(do_order)
 ACMD(do_flee)
 {
   int i, attempt, loss=0;
-   
+
   /* have to do it up here before FIGHTING(ch) gets destroyed */
   if (FIGHTING(ch))
   {
@@ -398,7 +398,7 @@ ACMD(do_flee)
 	if (do_simple_move(ch, attempt, TRUE)) /* successful flee */
 	  {
 	    send_to_char("You flee head over heels.\r\n", ch);
-            if (!IS_NPC(ch)) 
+            if (!IS_NPC(ch))
 	    {
 	      if (GET_LEVEL(ch)>10)
 		loss += 500*(GET_LEVEL(ch)/2.6);
@@ -474,7 +474,7 @@ ACMD(do_bash)
 
   percent = ((5 - (GET_AC(vict) / 10)) << 1) + number(1, 101);
   prob = subcmd?131:GET_SKILL(ch, SKILL_BASH);
-  
+
   if (MOB_FLAGGED(vict, MOB_NOBASH) && GET_LEVEL(ch) < LEVEL_IMMORT)
     percent = 101;
   if ((GET_POS(vict) <= POS_SLEEPING) || (GET_LEVEL(ch) >= LEVEL_IMMORT))
@@ -486,7 +486,7 @@ ACMD(do_bash)
       GET_POS(ch) = POS_SITTING;
       WAIT_STATE(ch, PULSE_VIOLENCE); /* one extra pulse for failing */
     }
-  else if (damage(ch, vict, (GET_LEVEL(ch)/2)+1, SKILL_BASH))  
+  else if (damage(ch, vict, (GET_LEVEL(ch)/2)+1, SKILL_BASH))
     {  /* only knock people over you can damage successfully */
       if (!subcmd)
         improve_skill(ch, SKILL_BASH);
@@ -549,7 +549,7 @@ ACMD(do_rescue)
       act("But nobody is fighting $M!", FALSE, ch, 0, vict, TO_CHAR);
       return;
     }
-      
+
   percent = number(1, 101);	/* 101% is a complete failure */
   prob = subcmd?100:GET_SKILL(ch, SKILL_RESCUE);
 
@@ -599,7 +599,7 @@ ACMD(do_kick)
 
   if (!(vict = get_char_room_vis(ch, arg)))
     {
-      if (FIGHTING(ch)) 
+      if (FIGHTING(ch))
 	vict = FIGHTING(ch);
       else
 	{
@@ -623,7 +623,7 @@ ACMD(do_kick)
   /* 101% is a complete failure */
   prob = GET_SKILL(ch, SKILL_KICK);
 
-  if (percent > prob) 
+  if (percent > prob)
     damage(ch, vict, 0, SKILL_KICK);
   else
   {
@@ -636,7 +636,7 @@ ACMD(do_kick)
 ACMD(do_dragon_kick)
 {
   struct char_data *vict;
-  int percent, prob;  
+  int percent, prob;
   int needed_moves = 10;
 
   if (!GET_SKILL(ch, SKILL_DRAGON_KICK))
@@ -648,7 +648,7 @@ ACMD(do_dragon_kick)
 
   if (!(vict = get_char_room_vis(ch, arg)))
     {
-      if (FIGHTING(ch)) 
+      if (FIGHTING(ch))
 	vict = FIGHTING(ch);
       else
 	{
@@ -679,7 +679,7 @@ ACMD(do_dragon_kick)
   /* 101% is a complete failure */
   prob = GET_SKILL(ch, SKILL_DRAGON_KICK);
 
-  if (percent > prob) 
+  if (percent > prob)
     damage(ch, vict, 0, SKILL_DRAGON_KICK);
   else
   {
@@ -693,7 +693,7 @@ ACMD(do_dragon_kick)
 ACMD(do_tiger_punch)
 {
   struct char_data *vict;
-  int percent, prob;  
+  int percent, prob;
 
   if (!GET_SKILL(ch, SKILL_TIGER_PUNCH))
     {
@@ -710,7 +710,7 @@ ACMD(do_tiger_punch)
 
   if (!(vict = get_char_room_vis(ch, arg)))
     {
-      if (FIGHTING(ch)) 
+      if (FIGHTING(ch))
 	vict = FIGHTING(ch);
       else
 	{
@@ -732,7 +732,7 @@ ACMD(do_tiger_punch)
   /* 101% is a complete failure */
   prob = GET_SKILL(ch, SKILL_TIGER_PUNCH);
 
-  if (percent > prob) 
+  if (percent > prob)
     damage(ch, vict, 0, SKILL_TIGER_PUNCH);
   else
   {
@@ -756,7 +756,7 @@ ACMD(do_shoot)
 
   void update_pos(struct char_data *victim);
   void die(struct char_data *ch);
-  
+
   if (!GET_SKILL(ch, SKILL_SHOOT)) {
      send_to_char("You have no idea how.\r\n", ch);
      return;
@@ -768,7 +768,7 @@ ACMD(do_shoot)
       send_to_char("But you are already engaged in close-range combat!\r\n",ch);
       return;
     }
-  
+
   half_chop(argument, arg1, buf);
   half_chop(buf, arg2, buf);
   strcpy(arg3, buf);
@@ -785,7 +785,7 @@ ACMD(do_shoot)
     }
   else if (!*arg3)
     {
-      send_to_char("Who would you like to shoot it at in that direction?\r\n", 
+      send_to_char("Who would you like to shoot it at in that direction?\r\n",
 		   ch);
       return;
     }
@@ -797,7 +797,7 @@ ACMD(do_shoot)
 	  send_to_char(buf, ch);
 	  return;
 	}
-      
+
       /* have what they want to shoot? */
       if (!projectile)
 	{
@@ -818,7 +818,7 @@ ACMD(do_shoot)
 	      send_to_char("Interesting Direction.\r\n", ch);
 	      return;
 	    }
-	  
+
 	  /* wielding a bow? */
 	  bow = ch->equipment[WEAR_WIELD];
 	  if ((!bow) || (GET_OBJ_TYPE(bow) != ITEM_FIREWEAPON))
@@ -827,10 +827,10 @@ ACMD(do_shoot)
 			   "projectile.\r\n", ch);
 	      return;
 	    }
-	  
+
 	  /* this is where they are shooting to */
 	  targ_room = EXIT(ch, dir)->to_room;
-	  
+
 	  /* room there? */
 	  if (dir < 0 || dir >= NUM_OF_DIRS)
 	    return;
@@ -839,19 +839,19 @@ ACMD(do_shoot)
 	      send_to_char("Alas, you cannot shoot that way...\r\n", ch);
 	      return;
 	    }
-          else if (IS_SET(EXIT(ch, dir)->exit_info, EX_CLOSED)) 
+          else if (IS_SET(EXIT(ch, dir)->exit_info, EX_CLOSED))
 	    {
-	      if (EXIT(ch, dir)->keyword) 
+	      if (EXIT(ch, dir)->keyword)
 		{
-		  sprintf(buf2, "The %s seems to be closed.\r\n", 
+		  sprintf(buf2, "The %s seems to be closed.\r\n",
 			  fname(EXIT(ch, dir)->keyword));
 		  send_to_char(buf2, ch);
-    		} 
+    		}
 	      else
-		send_to_char("It seems to be closed.\r\n", ch);   
+		send_to_char("It seems to be closed.\r\n", ch);
 	      return;
 	    }
-	  
+
 	  if (ROOM_FLAGGED(targ_room, ROOM_PEACEFUL) ||
 	      ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL))
 	    {
@@ -859,10 +859,10 @@ ACMD(do_shoot)
 			   "violence.\r\n", ch);
 	      return;
 	    }
-	  to = get_char_room(arg3, targ_room);    
+	  to = get_char_room(arg3, targ_room);
 	  if (!to)
 	    to = world[targ_room].people;
-	    
+
 	  if (!to)
 	    {
 	      send_to_char("Twang...\r\n", ch);
@@ -870,20 +870,20 @@ ACMD(do_shoot)
 	      obj_to_room(projectile, targ_room);
 	      return;
 	    }
-	  
+
 	  if (dir == 0) from = "the south";
 	  if (dir == 1) from = "the west";
 	  if (dir == 2) from = "the north";
 	  if (dir == 3) from = "the east";
 	  if (dir == 4) from = "below";
 	  if (dir == 5) from = "above";
-	  
+
 	  if (!IS_NPC(to) && ((GET_LEVEL(to) < 10)||(GET_LEVEL(to) > 30)) )
 	    {
 	      send_to_char("Maybe that isn't such a great idea...\r\n", ch);
 	      return;
 	    }
-	      
+
 	  /* not when they are fighting... */
 	  if (FIGHTING(to))
 	    {
@@ -891,28 +891,28 @@ ACMD(do_shoot)
 			   "aim properly.\r\n", ch);
 	      return;
 	    }
-	      
+
 	  /* no shooting stationary mobs */
 	  if ( (to) && IS_NPC(to) && MOB_FLAGGED(to, MOB_SENTINEL) )
 	    {
 	      send_to_char("You cannot see well enough to aim...\r\n", ch);
 	      return;
 	    }
-	  
+
 	  /* its okay for them to shoot it... */
-	  
-	  sprintf(buf, "$n fires %s %s with %s.", AN(arg1), arg1, 
+
+	  sprintf(buf, "$n fires %s %s with %s.", AN(arg1), arg1,
 		  (bow)->short_description);
 	  act(buf, FALSE, ch, 0, 0, TO_ROOM);
-	
-	  send_to_char("Twang... your projectile flies into the distance.\r\n", 
+
+	  send_to_char("Twang... your projectile flies into the distance.\r\n",
 		       ch);
 	  obj_from_char(projectile);
 
 
           /* calculate if they hit */
           percent = number(1, 101);
-          prob = GET_SKILL(ch, SKILL_SHOOT);	  
+          prob = GET_SKILL(ch, SKILL_SHOOT);
 
           prob += (dex_app[GET_DEX(ch)].miss_att * 10);
           prob -= (dex_app[GET_DEX(to)].reaction * 10);
@@ -924,11 +924,11 @@ ACMD(do_shoot)
 	      dam += dice(GET_OBJ_VAL(projectile, 1),
 			  GET_OBJ_VAL(projectile, 2));
 	      dam += dice(GET_OBJ_VAL(bow, 1), GET_OBJ_VAL(bow, 2));
-	      
+
 	      send_to_char("You hear a roar of pain!\r\n", ch);
 	      extract_obj(projectile);
               improve_skill(ch, SKILL_SHOOT);
-	    
+
 	      /* did they shoot at a mob? */
 	      if ( (to) && IS_NPC(to) )
 		{
@@ -953,7 +953,7 @@ ACMD(do_shoot)
 			  "you!\r\n", GET_NAME(to));
 		  send_to_char(buf, ch);
 		  hit(to, ch, TYPE_UNDEFINED);
-		  
+
 		}
 	      /* no, its another player */
 	      else
@@ -972,7 +972,7 @@ ACMD(do_shoot)
 		      return;
 		    }
 		}
-	      
+
 	      /* it shot but they missed */
 	    }
 	  else
@@ -983,11 +983,11 @@ ACMD(do_shoot)
 	      sprintf(buf, "Some kind of %s streaks in from %s and narrowly "
 		      "misses $n!", arg1, from);
 	      act(buf, FALSE, to, 0, 0, TO_ROOM);
-	      
+
 	      obj_to_room(projectile, to->in_room);
 	    }
-	  
-	  /* no such direction */    
+
+	  /* no such direction */
 	}
       else
 	{
@@ -998,7 +998,7 @@ ACMD(do_shoot)
 }
 
 
-ACMD(do_retreat)   
+ACMD(do_retreat)
 {
   int i, attempt, percent, prob;
   char mybuf[80];
@@ -1015,13 +1015,13 @@ ACMD(do_retreat)
       strcpy(capmsg, "Retreat");
       strcpy(lowmsg, "retreat");
     }
-    
+
   if (GET_POS(ch)<POS_FIGHTING)
   {
 	stc("Get on your feet first!\r\n", ch);
 	return;
   }
-    
+
   if ( !GET_SKILL(ch, SKILL_ESCAPE) && !GET_SKILL(ch, SKILL_RETREAT) )
     {
       send_to_char("Huh?\r\n", ch);
@@ -1035,7 +1035,7 @@ ACMD(do_retreat)
       return;
     }
 
-  
+
   percent = number(1, 101);   /* 101% is a complete failure */
   if (GET_CLASS(ch) == CLASS_NINJA)
     prob = GET_SKILL(ch, SKILL_ESCAPE);
@@ -1051,12 +1051,12 @@ ACMD(do_retreat)
       send_to_char(mybuf, ch);
       WAIT_STATE(ch, PULSE_VIOLENCE + 2);
       return;
-    }       
-          
+    }
+
   for (i = 0; i < 6; i++)
     {
       attempt = number(0, NUM_OF_DIRS - 1);
-      if (CAN_GO(ch, attempt) && 
+      if (CAN_GO(ch, attempt) &&
 	  !IS_SET_AR(ROOM_FLAGS(EXIT(ch, attempt)->to_room), ROOM_DEATH))
 	{
 	  sprintf(mybuf, "$n realizes it's a losing cause and gracefully"
@@ -1145,7 +1145,7 @@ ACMD(do_subdue)
 
   percent = number(1, 101+GET_LEVEL(victim));	/* 101% is a complete failure */
   prob = GET_SKILL(ch, SKILL_SUBDUE);
-  
+
   if (GET_LEVEL(ch) >= LEVEL_IMMORT)
     percent = 0;
   if (MOB_FLAGGED(victim, MOB_AWARE))
@@ -1154,9 +1154,9 @@ ACMD(do_subdue)
   if (!IS_NPC(victim) && GET_LEVEL(ch) < LVL_IMMORT)
     if ((GET_LEVEL(victim) > GET_LEVEL(ch) + 3) || (GET_LEVEL(victim) < GET_LEVEL(ch) - 3))
       prob = 0;
-  
-  percent += MAX(GET_LEVEL(victim)-GET_LEVEL(ch),0);  
-  
+
+  percent += MAX(GET_LEVEL(victim)-GET_LEVEL(ch),0);
+
   if (percent > prob)
     {
       act("$n misses a blow to the back of your head.",
@@ -1189,13 +1189,13 @@ ACMD(do_sleeper)
 
   one_argument(argument, arg);
 
-  if (!GET_SKILL(ch, SKILL_SLEEPER)) 
+  if (!GET_SKILL(ch, SKILL_SLEEPER))
   {
     send_to_char("You have no idea how.\r\n", ch);
     return;
   }
 
-  if (FIGHTING(ch)) 
+  if (FIGHTING(ch))
   {
     send_to_char("You can't do this while fighting!\r\n", ch);
     return;
@@ -1207,7 +1207,7 @@ ACMD(do_sleeper)
     return;
   }
 
-  if (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)) 
+  if (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL))
   {
     send_to_char("This room just has such a peaceful,"
      " easy feeling...\r\n", ch);
@@ -1239,13 +1239,13 @@ ACMD(do_sleeper)
    return;
  }
 
- if (FIGHTING(vict)) 
+ if (FIGHTING(vict))
  {
    stc("You can't get a good grip on them while they're fighting!\r\n", ch);
    return;
  }
 
- if(is_shopkeeper(vict)) 
+ if(is_shopkeeper(vict))
  {
    stc("Ha Ha. Don't think so.\r\n", ch);
    return;
@@ -1256,8 +1256,8 @@ ACMD(do_sleeper)
    return;
  }
 
- percent = number(1, 101 + GET_LEVEL(vict));    
- prob = GET_SKILL(ch, SKILL_SLEEPER);   
+ percent = number(1, 101 + GET_LEVEL(vict));
+ prob = GET_SKILL(ch, SKILL_SLEEPER);
 
  if(MOB_FLAGGED(vict, MOB_AWARE) || MOB_FLAGGED(vict, MOB_NOSLEEP))
    prob = 0;
@@ -1286,11 +1286,11 @@ ACMD(do_sleeper)
     af.location = APPLY_NONE;
     af.bitvector = AFF_SLEEP;
     affect_to_char(vict, &af);
-  
+
   improve_skill(ch, SKILL_SLEEPER);
  }
 WAIT_STATE(ch, PULSE_VIOLENCE * 2);
-}  
+}
 
 ACMD(do_neckbreak)
 {
@@ -1336,7 +1336,7 @@ ACMD(do_neckbreak)
      stc("You can't contemplate violence in such a place!\r\n", ch);
      return;
    }
- 
+
  if (IS_MOUNTED(ch))
    {
       stc("Dismount first!\r\n", ch);
@@ -1351,12 +1351,12 @@ ACMD(do_neckbreak)
    }
  else
    GET_MOVE(ch) = GET_MOVE(ch) - needed_moves;
- 
+
  percent = ((7 - (GET_AC(vict) / 10)) << 1) + number(1, 101);
  /* 101% is a complete failure */
  prob = GET_SKILL(ch, SKILL_NECKBREAK);
 
- if (percent > prob) 
+ if (percent > prob)
    {
      act("You try to break $S neck, but $E is too strong!",
          TRUE, ch, 0, vict, TO_CHAR);
@@ -1373,7 +1373,7 @@ ACMD(do_neckbreak)
     improve_skill(ch, SKILL_NECKBREAK);
   }
   WAIT_STATE(ch, PULSE_VIOLENCE * 3);
-  
+
 }
 
 struct ambush_event {
@@ -1417,13 +1417,13 @@ EVENTFUNC(ambush_event)
   percent = number(1, 131);
   prob = GET_SKILL(ch, SKILL_AMBUSH);
 
-  if (MOB_FLAGGED(victim, MOB_AWARE)) 
+  if (MOB_FLAGGED(victim, MOB_AWARE))
     percent = 200;
 
   if (percent > prob) // failure
     damage(ch, victim, 0, SKILL_AMBUSH);
   else
-  { 
+  {
     // we could just call hit() here, like backstab, etc.
     // but since ambush is a special skill we'll let it
     // make an end-run around AC for now.
@@ -1445,7 +1445,7 @@ EVENTFUNC(ambush_event)
     improve_skill(ch, SKILL_AMBUSH);
     if (victim)
       WAIT_STATE(victim, PULSE_VIOLENCE);
-  }    
+  }
   WAIT_STATE(ch, PULSE_VIOLENCE);
   return 0;
 }

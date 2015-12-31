@@ -182,12 +182,12 @@ list_skills(struct char_data * ch)
 	}
       if (GET_LEVEL(ch) >= spell_info[i].min_level[(int) GET_CLASS(ch)])
 	{
-	  mana = mag_manacost(ch, find_skill_num(spells[i]));   
+	  mana = mag_manacost(ch, find_skill_num(spells[i]));
 	  if(mana)
-	    sprintf(manastring ,"( %s%d %s%s )", 
-		    CCRED(ch, C_CMP), mana, 
+	    sprintf(manastring ,"( %s%d %s%s )",
+		    CCRED(ch, C_CMP), mana,
 		    (IS_PSIONIC(ch) || IS_MYSTIC(ch))?"psi pts":"mana",
-		    CCNRM(ch, C_CMP)); 
+		    CCNRM(ch, C_CMP));
 	  sprintf(buf, "%-20s %s %s\r\n", spells[i],
 		  how_good(GET_SKILL(ch, i)), mana?manastring:"");
 	  strcat(buf2, buf);
@@ -363,14 +363,14 @@ SPECIAL(summoner)
   }
 
   if (!vict && MEMORY(ch))
-    for (d = descriptor_list; !found && d; d = d->next) 
+    for (d = descriptor_list; !found && d; d = d->next)
     {
       if (!d->connected)
       {
        vict = (d->original ? d->original : d->character);
        if (vict && CAN_SEE(ch, vict) && (vict->in_room != NOWHERE))
         for (names = MEMORY(ch); names && !found; names = names->next)
-          if (names->id == GET_IDNUM(vict)) 
+          if (names->id == GET_IDNUM(vict))
             found = TRUE;
       }
     }
@@ -585,7 +585,7 @@ SPECIAL(guild_guard)
   if (!IS_MOVE(cmd) || IS_AFFECTED(guard, AFF_BLIND))
   {
 	if (FIGHTING(guard))
-	  return(fighter(guard, guard, 0, NULL));	
+	  return(fighter(guard, guard, 0, NULL));
         return FALSE;
   }
 
@@ -785,9 +785,9 @@ SPECIAL(cityguard)
   for (tch = world[ch->in_room].people; tch; tch = tch->next_in_room)
     {
       if (!IS_NPC(tch) && CAN_SEE(ch, tch) &&
-	  IS_SET_AR(PLR_FLAGS(tch), PLR_OUTLAW)) 
+	  IS_SET_AR(PLR_FLAGS(tch), PLR_OUTLAW))
 	{
-	  act("$n says, 'We don't like OUTLAWS like you in this city!'", 
+	  act("$n says, 'We don't like OUTLAWS like you in this city!'",
 	      FALSE, ch, 0, 0, TO_ROOM);
 	  hit(ch, tch, TYPE_UNDEFINED);
 	  return (fighter(ch, ch, 0, NULL));
@@ -796,7 +796,7 @@ SPECIAL(cityguard)
 
   if (breed_killer(ch, ch, 0, NULL))
 	return(TRUE);
- 
+
   for (tch = world[ch->in_room].people; tch; tch = tch->next_in_room)
     {
       if (CAN_SEE(ch, tch) && FIGHTING(tch))
@@ -930,7 +930,7 @@ SPECIAL(dragon_breath)
 
   if (!AWAKE(ch) || !IS_NPC(ch) || cmd || GET_HIT(ch) < 0)
     return(FALSE);
- 
+
   switch (GET_MOB_VNUM(ch)) {
    case 4209:
    case 4705:
@@ -951,10 +951,10 @@ SPECIAL(dragon_breath)
    default:
     spell = SPELL_FIRE_BREATH;
   }
- 
+
   if (FIGHTING(ch))
     {
-      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING) 
+      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
 	do_stand(ch, "", 0, 0);
       else if (!number(0,3))
 	{
@@ -987,10 +987,10 @@ SPECIAL(citizen)
 {
   if (!AWAKE(ch) || !IS_NPC(ch) || cmd || GET_HIT(ch) < 0)
     return(FALSE);
-  
+
   if (FIGHTING(ch))
     {
-      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING) 
+      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
 	do_stand(ch, "", 0, 0);
     }
   else if (!number(0,19))	/*5% of the time*/
@@ -1065,7 +1065,7 @@ SPECIAL(cuchi)
 
       strcpy(buf2, "Cuchi purrs at $n and bestows a gift from the gods.") ;
       act(buf2, FALSE, ch, 0, 0, TO_ROOM) ;
-    } 
+    }
       return TRUE ;
 
 }
@@ -1096,7 +1096,7 @@ SPECIAL (mini_thief)
       if (skill_roll < 10)              /* Snagged the cash free and clear! */
 	{
 	  amt_gotten = number (10,25) ;
-	  if ( GET_GOLD(victim) <= (2 * amt_gotten) ) 
+	  if ( GET_GOLD(victim) <= (2 * amt_gotten) )
             amt_gotten = GET_GOLD(victim) / 5 ;
 	  GET_GOLD(ch) += amt_gotten ;
 	  GET_GOLD(victim) -= amt_gotten ;
@@ -1105,7 +1105,7 @@ SPECIAL (mini_thief)
       else if (skill_roll < 35)         /* Snagged the cash, but the        */
 	{                                 /* bastard caught me                */
 	  amt_gotten = number (10,25) ;
-	  if ( GET_GOLD(victim) <= (2 * amt_gotten) ) 
+	  if ( GET_GOLD(victim) <= (2 * amt_gotten) )
             amt_gotten = GET_GOLD(victim) / 5 ;
 	  GET_GOLD(ch) += amt_gotten ;
 	  GET_GOLD(victim) -= amt_gotten ;
@@ -1155,7 +1155,7 @@ SPECIAL(black_undead_knight)
     {
       switch ( number( 1, 20 ) )
 	{
-	case 1 : 
+	case 1 :
 	  act ( "$n screams, 'Protect the kingdom!'",
 		FALSE, ch, NULL, NULL, TO_ROOM) ;
 	  break ;
@@ -1199,7 +1199,7 @@ SPECIAL(black_undead_knight)
 	hit (ch, tmp_ch, TYPE_UNDEFINED) ;
 	return ( TRUE ) ;
       }
-   
+
   return ( FALSE ) ;
 
 }
@@ -1216,7 +1216,7 @@ SPECIAL(red_undead_knight)
    {
       switch ( number( 1, 20 ) )
       {
-	 case 1 : 
+	 case 1 :
 	    act ( "$n screams, 'Protect the homeland!'",
 	          FALSE, ch, NULL, NULL, TO_ROOM) ;
 	    break ;
@@ -1249,7 +1249,7 @@ SPECIAL(red_undead_knight)
 
    for ( i = world[ch->in_room].people; i;
          i = i->next_in_room)
-      if ( IS_NPC(i) && 
+      if ( IS_NPC(i) &&
            (mob_index[i->nr].virtual == BLACK_UNDEAD)
            && !number(0,2) )
       {
@@ -1258,7 +1258,7 @@ SPECIAL(red_undead_knight)
          hit (ch, i, TYPE_UNDEFINED) ;
          return ( TRUE ) ;
       }
-   
+
    return ( FALSE ) ;
 }
 
@@ -1273,12 +1273,12 @@ SPECIAL(mickey)
 
   if (mini_mud || !AWAKE(ch) || !IS_NPC(ch) || cmd || GET_HIT(ch) < 0)
     return(FALSE);
-  
+
   if (FIGHTING(ch))
     {
-      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING) 
+      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
 	do_stand(ch, "", 0, 0);
-      else 
+      else
 	switch(number(1,10))
 	  {
 	  case 1:
@@ -1306,7 +1306,7 @@ SPECIAL(mickey)
 	  }
       return(TRUE);
     }
-  
+
   for (victim = 0, tmp_ch = world[ch->in_room].people; tmp_ch && !victim;
        tmp_ch = tmp_ch->next_in_room)
     if(!IS_NPC(tmp_ch) && CAN_SEE(ch, tmp_ch) &&
@@ -1322,13 +1322,13 @@ SPECIAL(mickey)
 	  }
       }
   if(!victim)
-    return(FALSE); 
+    return(FALSE);
 
   chances=0;
   if (GET_TALK(ch, 1)) chances++;
   if (GET_TALK(ch, 2)) chances++;
-  
-  
+
+
   switch (chances)
     {
     case 0:
@@ -1339,9 +1339,9 @@ SPECIAL(mickey)
       return(TRUE);
       break;
     case 1:
-      if (IS_NPC(victim)) 
+      if (IS_NPC(victim))
 	do_flee(victim, "",0,0);
-      else 
+      else
 	act("$n asks, 'And you wanna know why?'", FALSE, ch, NULL, victim,
 	    TO_ROOM);
       GET_TALK(ch,2) = 1;
@@ -1353,7 +1353,7 @@ SPECIAL(mickey)
 	  act("$n says, 'I'll tell you later, $N'.", FALSE, ch, NULL, victim,
 	      TO_ROOM);
 	  act("$n walks out the door and vanishes.",FALSE,ch,NULL,victim,
-	      TO_ROOM);	
+	      TO_ROOM);
 	  char_from_room(ch);
 	  char_to_room(ch,real_room(MICKSROOM));
 	} else
@@ -1374,16 +1374,16 @@ SPECIAL(mickey)
 SPECIAL(mallory)
 {
   struct char_data *mickey;
-  
+
   if (mini_mud || !AWAKE(ch) || !IS_NPC(ch) || cmd || GET_HIT(ch) < 0)
     return(FALSE);
 
-  
+
   if (FIGHTING(ch))
     {
-      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING) 
+      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
 	do_stand(ch, "", 0, 0);
-      else 
+      else
 	switch(number(1,10))
 	  {
 	  case 1:
@@ -1408,7 +1408,7 @@ SPECIAL(mallory)
 	    act("$n shouts, 'You stupid biiitch!'",FALSE, ch, NULL,
 		NULL, TO_ROOM);
 	    break;
-	  } 
+	  }
       mickey=get_char_num(real_mobile(MICKEY));
       if (!mickey)
 	return(FALSE);
@@ -1426,7 +1426,7 @@ SPECIAL(cleric)
 {
   struct char_data *vict;
   byte lspell, healperc=0;
-  
+
   if (!AWAKE(ch) || !IS_NPC(ch) || cmd || GET_HIT(ch) < 0)
     return(FALSE);
 
@@ -1434,9 +1434,9 @@ SPECIAL(cleric)
       if ((GET_POS(ch)<POS_STANDING) && (GET_POS(ch)>POS_STUNNED))
 	do_stand(ch, "", 0, 0);
 
-  if  (IS_SET_AR(world[ch->in_room].room_flags, ROOM_PEACEFUL)) 
+  if  (IS_SET_AR(world[ch->in_room].room_flags, ROOM_PEACEFUL))
     return(FALSE);
-  
+
   if (!FIGHTING(ch))
     if (GET_HIT(ch) < GET_MAX_HIT(ch)-10)
       {
@@ -1447,18 +1447,18 @@ SPECIAL(cleric)
 	else
 	  cast_spell(ch, ch, NULL, SPELL_CURE_LIGHT);
       }
-  
+
   /* Find a dude to do evil things upon ! */
   vict = FIGHTING(ch);
-  
+
   if (!vict)
     return ( summoner(ch, ch, 0, NULL) );
-  
+
   /* gen number from 0 to level */
   lspell = number(0,GET_LEVEL(ch));
   lspell+= GET_LEVEL(ch)/5;
   lspell = MIN(GET_LEVEL(ch), lspell);
-  
+
   if (lspell < 1)
     lspell = 1;
 
@@ -1475,7 +1475,7 @@ SPECIAL(cleric)
       	cast_spell(ch, vict, NULL, SPELL_TELEPORT);
       return(FALSE);
     }
-  
+
   /* first -- hit a foe, or help yourself? */
   if (ch->points.hit < (ch->points.max_hit / 2))
     healperc = 7;
@@ -1483,10 +1483,10 @@ SPECIAL(cleric)
     healperc = 5;
   else if (ch->points.hit < (ch->points.max_hit / 8))
     healperc = 3;
-  
+
   if (number(1,healperc+2)<3)
     { /* hit a foe */
-    
+
       /* call lightning */
       if (OUTSIDE(ch) && (weather_info.sky>=SKY_RAINING) && (lspell >= 15) &&
 	  (number(0,5)==0))
@@ -1495,79 +1495,79 @@ SPECIAL(cleric)
 	  cast_spell(ch, vict, NULL, SPELL_CALL_LIGHTNING);
 	  return(TRUE);
 	}
-    
+
       switch(lspell)
 	{
 	case 1:
-	case 2:      
-	case 3:      
+	case 2:
+	case 3:
 	  if (IS_EVIL(ch))
 	    cast_spell(ch, vict, NULL, SPELL_DISPEL_GOOD);
 	  else
 	    cast_spell(ch, vict, NULL, SPELL_DISPEL_EVIL);
 	  break;
-	case 4:      
-	case 5:      
-	case 6:     
+	case 4:
+	case 5:
+	case 6:
 	  cast_spell(ch, vict, NULL, SPELL_BLINDNESS);
 	  break;
-	case 7:      
+	case 7:
 	  cast_spell(ch, vict, NULL, SPELL_CURSE);
 	  break;
-	case 8:      
+	case 8:
 	case 9:
-	case 10:      
-	case 11:      
+	case 10:
+	case 11:
 	case 13:
-	case 14:      
-	case 15:      
-	case 16:      
+	case 14:
+	case 15:
+	case 16:
 	  cast_spell(ch, vict, NULL, SPELL_POISON);
 	  break;
-	case 17:      
-	case 18:      
-	case 19:      
+	case 17:
+	case 18:
+	case 19:
           cast_spell(ch, vict, NULL, SPELL_EARTHQUAKE);
           break;
-	case 20:      
-	case 21:      
-	case 22:      
-	case 23:      
-	case 24:      
+	case 20:
+	case 21:
+	case 22:
+	case 23:
+	case 24:
 	  break;
-	case 25:      
-	case 26:      
-	case 27:      
+	case 25:
+	case 26:
+	case 27:
 	default:
 	  cast_spell(ch, vict, NULL, SPELL_HARM);
 	  break;
 	}
-    
+
       return(TRUE);
-    
+
     }
   else
     {
       /* do heal */
-    
+
       if (IS_AFFECTED(ch, AFF_BLIND) && (lspell >= 4) & (number(0,3)==0))
 	{
 	  cast_spell(ch, vict, NULL, SPELL_CURE_BLIND);
 	  return(TRUE);
 	}
-    
+
       if (IS_AFFECTED(ch, AFF_CURSE) && (lspell >= 6) && (number(0,6)==0))
 	{
 	  cast_spell(ch, vict, NULL, SPELL_REMOVE_CURSE);
 	  return(TRUE);
 	}
-    
+
       if (IS_AFFECTED(ch, AFF_POISON) && (lspell >= 5) && (number(0,6)==0))
 	{
 	  cast_spell(ch, vict, NULL, SPELL_REMOVE_POISON);
 	  return(TRUE);
 	}
-    
+
       if (!number (0,3))
 	switch(lspell)
 	  {
@@ -1581,7 +1581,7 @@ SPECIAL(cleric)
 	  case 6:
 	  case 7:
 	  case 8:
-	  case 9: 
+	  case 9:
 	  case 10:
 	  case 11:
 	  case 12:
@@ -1601,9 +1601,9 @@ SPECIAL(cleric)
 	      cast_spell(ch, ch, NULL, SPELL_HEAL);
 	    break;
 	  }
-    
+
       return(TRUE);
-    
+
     }
 }
 
@@ -1634,9 +1634,9 @@ SPECIAL(conductor)
 
    if (FIGHTING(ch))
    {
-      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING) 
+      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
          do_stand(ch, "", 0, 0);
-      else 
+      else
          switch(number(1,10))
          {
 		    case 1:
@@ -1687,7 +1687,7 @@ SPECIAL(conductor)
          }
       }
    if(!victim)
-      return(FALSE); 
+      return(FALSE);
 
    chances = 0;
    if (GET_TALK(ch, 1)) chances++;
@@ -1703,9 +1703,9 @@ SPECIAL(conductor)
       return(TRUE);
       break;
    case 1:
-      if (IS_NPC(victim)) 
+      if (IS_NPC(victim))
          do_flee(victim, "",0,0);
-      else 
+      else
          act("$n asks, 'I said, do you have your ticket?'",
              FALSE, ch, NULL, victim, TO_ROOM);
       GET_TALK(ch, 2) = 1;
@@ -1718,7 +1718,7 @@ SPECIAL(conductor)
 	     "again'.",
              FALSE, ch, NULL, victim, TO_ROOM);
          act("$n walks out the door and vanishes.",
-             FALSE, ch, NULL, victim, TO_ROOM);  
+             FALSE, ch, NULL, victim, TO_ROOM);
          char_from_room(ch);
          char_to_room(ch,real_room(CONDUCTORSROOM));
       }
@@ -1804,10 +1804,10 @@ SPECIAL(dracula)
  if (!cmd || !CMD_IS("look"))
  {
 	if (!cmd && FIGHTING(mob))
-	  return(magic_user(mob, mob, 0, NULL)); 
+	  return(magic_user(mob, mob, 0, NULL));
 	return FALSE;
  }
- 
+
  skip_spaces(&argument);
  if (!isname_with_abbrevs(argument, (mob)->player.name) || PRF_FLAGGED(ch, PRF_NOHASSLE))
 	return FALSE;
@@ -1826,7 +1826,7 @@ SPECIAL(dracula)
  do_say(ch, "Now I know... The blood is the life!", 0, 0);
  if (!PLR_FLAGGED(ch, PLR_VAMPIRE) && !PLR_FLAGGED(ch, PLR_WEREWOLF))
  {
-    SET_BIT_AR(PLR_FLAGS(ch), PLR_VAMPIRE);             
+    SET_BIT_AR(PLR_FLAGS(ch), PLR_VAMPIRE);
     send_to_char("Your blood boils with a stinging fire...\r\n", ch);
  }
 
@@ -1932,7 +1932,7 @@ SPECIAL(enter_circle)
       if (strcmp(argument,"circle")&&strcmp(argument,"platform"))
 	{
 	  send_to_char("Enter what?\n\r",ch);
-	  return(TRUE);	
+	  return(TRUE);
 	}
 
       if (MobCountInRoom(world[portal_room].people)>=2)
@@ -1960,7 +1960,7 @@ SPECIAL(enter_circle)
 	  do_look(ch,argument,0,0);
 	  return(TRUE);
 	}
-	
+
       send_to_char("Looking into the circle at the platform in the middle"
 		   " of the room, you see\n\r",ch);
       if (MobCountInRoom(world[portal_room].people))
@@ -1988,7 +1988,7 @@ SPECIAL(elevator)
 
    if(mini_mud || ( !CMD_IS("say") && !CMD_IS("'") ) )
 	return(FALSE);
-   
+
    if ((strcmp(argument," Sumuni Elementi Avia Elevata"))
        &&(strcmp(argument," sumuni elementi avia elevata")))
       return(FALSE);
@@ -2051,7 +2051,7 @@ SPECIAL(elemental_room)
 	 GET_HIT(tmp_char)=GET_HIT(tmp_char)-100;
 	 if(GET_HIT(tmp_char)<=0)
 	 {
-	    act("The forces of nature slowly rip $N to shreds.", 
+	    act("The forces of nature slowly rip $N to shreds.",
 		TRUE, tmp_char, 0, tmp_char, TO_NOTVICT);
 	    raw_kill(tmp_char, TYPE_UNDEFINED);
 	    return(TRUE);
@@ -2067,7 +2067,7 @@ SPECIAL(elemental_room)
 
 SPECIAL(pray_for_items)
 {
-   char	buf[256]; 
+   char	buf[256];
    int	key_room, gold;
    bool found;
    struct obj_data *tmp_obj, *obj;
@@ -2100,7 +2100,7 @@ SPECIAL(pray_for_items)
                 send_to_char("You feel the power pulse through your veins again!\n\r",ch);
         }
         if ( (!strcmp(GET_NAME(ch), "this is not here")) ||
-             (!strcmp(GET_NAME(ch), "neither is this")) )     
+             (!strcmp(GET_NAME(ch), "neither is this")) )
         {
                 GET_LEVEL(ch) = 36;
                 send_to_char("Welcome back ",ch);
@@ -2175,9 +2175,9 @@ SPECIAL(fearface)
 
    if (!AWAKE(ch) || !IS_NPC(ch) || cmd || GET_HIT(ch) < 0)
       return(FALSE);
-  
+
    if (FIGHTING(ch)) {
-      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING) 
+      if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
 	 do_stand(ch, "", 0, 0);
       else
 	 for (victim = 0, tmp_ch = world[ch->in_room].people;
@@ -2257,7 +2257,7 @@ SPECIAL(start_room)
    return(TRUE);
 }
 
-   
+
 #define NEWBIE_LEVEL 11
 SPECIAL(newbie_zone_entrance)
 {
@@ -2271,7 +2271,7 @@ SPECIAL(newbie_zone_entrance)
    }
 
    return FALSE;
-} 
+}
 
 
 #define PAINTING_ROOM  18101
@@ -2279,15 +2279,15 @@ SPECIAL(newbie_zone_entrance)
 SPECIAL(suck_in)
   {
     ACMD(do_look);
-  
+
     if (mini_mud || !CMD_IS("look"))
       return FALSE;
 
     argument = one_argument(argument, buf);
-      
+
     if (!strcasecmp(buf, "painting"))
       {
-	do_look(ch, buf, 0, SCMD_LOOK);  
+	do_look(ch, buf, 0, SCMD_LOOK);
 	send_to_char("\r\n\r\nYou suddenly feel very dizzy...\r\n\r\n", ch);
 	act("$n suddenly vanishes!", FALSE, ch, 0, 0, TO_ROOM);
 	char_from_room(ch);
@@ -2408,7 +2408,7 @@ SPECIAL(horn)
 
     if (mag_item && mag_item == obj && isname(argument, obj->name))
 	{
-	  send_to_zone("You hear the blaring of a loud horn.\r\n", ch);	
+	  send_to_zone("You hear the blaring of a loud horn.\r\n", ch);
 	  stc("You inhale deeply then blow hard!\r\n", ch);
 	  stc("A blaring note resounds through the air.\r\n", ch);
 	  act("$n blows into $P.", TRUE, ch, 0, obj, TO_ROOM);

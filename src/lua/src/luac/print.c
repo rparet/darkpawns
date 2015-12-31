@@ -47,7 +47,7 @@ static void PrintString(const Proto* tf, int n)
 
 static void PrintLocal(const Proto* tf, int n, int pc)
 {
- const char* s=luaF_getlocalname(tf,n+1,pc); 
+ const char* s=luaF_getlocalname(tf,n+1,pc);
  printf("%u",n);
  if (s!=NULL) printf("\t; %s",s);
 }

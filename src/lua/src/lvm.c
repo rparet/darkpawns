@@ -295,7 +295,7 @@ void luaV_strconc (lua_State *L, int total, StkId top) {
     }
     else if (tsvalue(top-1)->len > 0) {  /* if len=0, do nothing */
       /* at least two string values; get as many as possible */
-      lint32 tl = (lint32)tsvalue(top-1)->len + 
+      lint32 tl = (lint32)tsvalue(top-1)->len +
                   (lint32)tsvalue(top-2)->len;
       char *buffer;
       int i;

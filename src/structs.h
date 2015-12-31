@@ -81,7 +81,7 @@
 #define ROOM_FLOW_UP		25  /* chars in room are pushed U */
 #define ROOM_FLOW_DOWN		26  /* chars in room are pushed D */
 #define ROOM_ARENA              27  /* Room is part of an arena */
-     
+
 /* Exit info: used in room_data.dir_option.exit_info */
 #define EX_ISDOOR		(1 << 0)   /* Exit is a door		*/
 #define EX_CLOSED		(1 << 1)   /* The door is closed	*/
@@ -159,7 +159,7 @@
 #define RACE_FAERY       28
 #define RACE_NPCSSAUR    29
 #define RACE_NPCMINOTAUR 30
-     
+
 #define NUM_MOB_RACES    31
 #define NUM_INTEL_RACES  18 /* defined in constants.c */
 
@@ -237,7 +237,7 @@
 /* don't confuse below with "currently in the form of" */
 #define PLR_WEREWOLF    16  /* Player is a werewolf              */
 #define PLR_VAMPIRE     17  /* Player is a vampire               */
-/* don't confuse above with "currently in the form of" */     
+/* don't confuse above with "currently in the form of" */
 #define PLR_IT          18  /* Player is IT!                     */
 #define PLR_CHOSEN	19  /* Player is a chosen of the gods    */
 #define PLR_REMORT      20  /* new player remort flag            */
@@ -266,7 +266,7 @@
 #define MOB_AGGR24	 19 /* mob is aggro to players levl 24+ */
 #define MOB_RANDZON      20 /* mob loads randomly within thier zone */
 #define MOB_MOUNTABLE    21 /* mob is rideable                   */
-#define MOB_RARE         22 /* mob is a (very) rare load */     
+#define MOB_RARE         22 /* mob is a (very) rare load */
 #define MOB_LOOTS        23 /* this mob loots, but is not aggr24 */
 #define MOB_OKGIVE       24 /* ok to give this mobile stuff */
 #define MOB_EXTRACT      25 /* (R) Mob marked for extraction */
@@ -490,11 +490,11 @@
 #define ITEM_ANTI_ASSASSIN 	22
 #define ITEM_ANTI_AVATAR   	23
 #define ITEM_RARE	   	24	/* Item is RARE (boot only)     */
-#define ITEM_NOLOCATE           25      /* Item is unlocatable          */     
+#define ITEM_NOLOCATE           25      /* Item is unlocatable          */
 #define ITEM_ANTI_RANGER        26      /* not useable by rangers       */
 #define ITEM_ANTI_MYSTIC        27      /* not useable by mystics       */
 #define ITEM_TWO_HANDED		28	/* for two-handed weapons ONLY	*/
- 
+
 /* Modifier constants used with obj affects ('A' fields) */
 #define APPLY_NONE              0	/* No effect			*/
 #define APPLY_STR               1	/* Apply to strength		*/
@@ -525,7 +525,7 @@
 #define APPLY_HIT_REGEN	       26       /* regen even faster while sleeping */
 #define APPLY_MANA_REGEN       27       /* regen even faster while sleeping */
 #define APPLY_MOVE_REGEN       28       /* regen even faster while sleeping */
-#define APPLY_SPELL            29       /* affect the user with a spell */     
+#define APPLY_SPELL            29       /* affect the user with a spell */
 
 /* Container flags - value[1] */
 #define CONT_CLOSEABLE      (1 << 0)	/* Container can be closed	*/
@@ -777,7 +777,7 @@ struct obj_file_elem {
    int	timer;
    int	bitvector[AF_ARRAY_MAX];
    struct obj_affected_type affected[MAX_OBJ_AFFECT];
-  
+
    /* new data added to store do_string objects */
    char name[128];
    char shortd[128];
@@ -918,7 +918,7 @@ struct char_point_data {
 };
 
 
-/* 
+/*
  * char_special_data_saved: specials which both a PC and an NPC have in
  * common, but which must be saved to the playerfile for PC's.
  *
@@ -941,9 +941,9 @@ struct char_special_data {
   struct char_data *fighting;	/* Opponent				*/
   struct char_data *hunting;	/* Mobile hunted by this char		*/
   long hunting_id;		/* Char id of player hunted 		*/
-  
+
   byte position;		/* Standing, fighting, sleeping, etc.	*/
-  
+
   int  carry_weight;		/* Carried weight			*/
   byte carry_items;		/* Number of items carried		*/
   int  timer;			/* Timer for update			*/
@@ -1042,7 +1042,7 @@ typedef enum {
    BY_SPELL,
    BY_OBJ,
    BY_RACE
-} by_types_enum;   
+} by_types_enum;
 
 struct master_affected_type {
    sh_int type;          /* The type of spell that caused this      */
@@ -1171,15 +1171,15 @@ struct txt_q {
 /* Compression state structure */
 struct compr {
   int state;                    /* 0 - disabled, 1 - waiting, 2 - enabled */
-  
+
   Bytef *buff_out;              /* output buffer */
   int max_out;                  /* max size of input buffer */
   int size_out;                 /* size of data in output buffer */
-  
+
   Bytef *buff_in;               /* input buffer */
   int max_in;                   /* max size of input buffer */
   int size_in;                  /* size of data in input buffer */
-  
+
   z_streamp stream;             /* zlib stream */
 };
 

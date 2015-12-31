@@ -14,7 +14,7 @@ void dump(FILE* f, int n)
  printf("static unsigned char B%d[]={\n",n);
  for (n=1;;n++)
  {
-  int c=getc(f); 
+  int c=getc(f);
   if (c==EOF) break;
 #if 0
   printf("0x%02x,",c);

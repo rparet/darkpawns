@@ -642,9 +642,9 @@ sell_price(struct char_data * ch, struct obj_data * obj, int shop_nr)
 
   if (GET_CHA(ch))
     price += price*(GET_CHA(ch)*.005);
-  
+
   if ( (bprice = buy_price(ch, obj, shop_nr)) < price)
-    price = bprice; 
+    price = bprice;
 
   return (MIN(MAX(1,price), GET_OBJ_COST(obj)));
 }
@@ -680,7 +680,7 @@ slide_obj(struct obj_data * obj, struct char_data * keeper, int shop_nr)
     temp = GET_OBJ_RNUM(obj);
     extract_obj(obj);
     return (&obj_proto[temp]);
-  }  
+  }
 
   SHOP_SORT(shop_nr)++;
   loop = keeper->carrying;
@@ -772,7 +772,7 @@ shopping_sell(char *arg, struct char_data * ch,
 
       goldamt += sell_price(ch, obj, shop_nr);
       GET_GOLD(keeper) -= sell_price(ch, obj, shop_nr);
-	
+
       obj_from_char(obj);
       tag = slide_obj(obj, keeper, shop_nr);
       obj = get_selling_obj(ch, name, keeper, shop_nr, FALSE);

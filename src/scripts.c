@@ -75,7 +75,7 @@ extern int top_of_p_table;
 
 /* internal variables */
 lua_State *lua_state = NULL;
-#define L       lua_state    
+#define L       lua_state
 
 static int lua_act(lua_State *L)
 {
@@ -87,7 +87,7 @@ static int lua_act(lua_State *L)
   void act(char *str, int hide_invisible, struct char_data *ch,
            struct obj_data *obj, void *vict_obj, int type);
 
-  if (lua_isstring(L, 1))  
+  if (lua_isstring(L, 1))
     txt = (char *)lua_tostring(L, 1);
 
   if (lua_isnumber(L, 2))
@@ -115,7 +115,7 @@ static int lua_act(lua_State *L)
     where = (int)lua_tonumber(L, 6);
 
   act(txt, is_invis, me, obj, vict, where);
- 
+
   return 0;
 }
 
@@ -171,7 +171,7 @@ static int lua_aff_flags(lua_State *L)
   if (lua_istable(L, 1) && lua_isstring(L, 2) && lua_isnumber(L, 3)) {
     lua_pushstring(L, "struct");
     lua_gettable(L, 1);
-    
+
     plr = (struct char_data *)lua_touserdata(L, -1);
     type = (char *)lua_tostring(L, 2);
     flag = (int)lua_tonumber(L, 3);
@@ -201,13 +201,13 @@ static int lua_canget(lua_State *L)
   lua_pushstring(L, "struct");
   lua_gettable(L, -2);
   ch = (struct char_data *)lua_touserdata(L, -1);
-  
+
   if (lua_istable(L, 1)) {            /* Was an object defined? */
     lua_pushstring(L, "struct");
     lua_gettable(L, 1);
     obj = (struct obj_data *)lua_touserdata(L, -1);
 
-    if (CAN_GET_OBJ(ch, obj))   
+    if (CAN_GET_OBJ(ch, obj))
       lua_pushnumber(L, TRUE);
     else
       lua_pushnil(L);
@@ -363,13 +363,13 @@ static int lua_echo(lua_State *L)
     else if (!strcmp(type, "zone")) {
       lua_pushstring(L, "struct");
       lua_gettable(L, 1);
-      ch = (struct char_data *)lua_touserdata(L, -1); 
+      ch = (struct char_data *)lua_touserdata(L, -1);
 
       send_to_zone(argument, ch);
     } else {
       lua_pushstring(L, "struct");
       lua_gettable(L, 1);
-      ch = (struct char_data *)lua_touserdata(L, -1); 
+      ch = (struct char_data *)lua_touserdata(L, -1);
 
       if (!strcmp(type, "local"))
         do_echo(ch, argument, 0, SCMD_ECHO);
@@ -382,8 +382,8 @@ static int lua_echo(lua_State *L)
   return 0;
 }
 
-static int lua_emote(lua_State *L) 
-{ 
+static int lua_emote(lua_State *L)
+{
   struct char_data *ch = NULL;
   char *argument = NULL;
 
@@ -393,11 +393,11 @@ static int lua_emote(lua_State *L)
   lua_pushstring(L, "struct");
   lua_gettable(L, -2);
 
-  ch = (struct char_data *)lua_touserdata(L, -1); 
+  ch = (struct char_data *)lua_touserdata(L, -1);
   argument = (char *)lua_tostring(L, 1);
 
-  do_echo(ch, argument, find_command("emote"), SCMD_EMOTE); 
-  return 0; 
+  do_echo(ch, argument, find_command("emote"), SCMD_EMOTE);
+  return 0;
 }
 
 static int lua_equip_char(lua_State *L)
@@ -564,7 +564,7 @@ static int lua_follow(lua_State *L)
     return 1;
   } else
     mudlog("[Lua] Invalid argument passed to lua_follow.", BRF, LVL_IMMORT, FALSE);
-  
+
   return 0;
 }
 
@@ -682,7 +682,7 @@ static int lua_ishunt(lua_State *L)
     lua_pushstring(L, "struct");
     lua_gettable(L, 1);
     vict = (struct char_data *)lua_touserdata(L, -1);
-  
+
     if (HUNTING(vict))
       lua_pushnumber(L, TRUE);
     else
@@ -849,7 +849,7 @@ static int lua_mob_flags(lua_State *L)
   if (lua_istable(L, 1) && lua_isstring(L, 2) && lua_isnumber(L, 3)) {
     lua_pushstring(L, "struct");
     lua_gettable(L, 1);
-    
+
     mob = (struct char_data *)lua_touserdata(L, -1);
     type = (char *)lua_tostring(L, 2);
     flag = (int)lua_tonumber(L, 3);
@@ -911,12 +911,12 @@ static int lua_number(lua_State *L)
 
   from = (int)lua_tonumber(L, 1);
   to   = (int)lua_tonumber(L, 2);
- 
+
   lua_pop(L, 1);
   lua_pop(L, 2);
 
   lua_pushnumber(L, (double)number(from, to));
- 
+
   return 1;
 }
 
@@ -977,7 +977,7 @@ static int lua_oload(lua_State *L)
   char *location;
   struct obj_data *obj = NULL;
   struct char_data *ch = NULL;
-   
+
   if (lua_istable(L, 1) && lua_isnumber(L, 2) && lua_isstring(L, 3)) {
     lua_pushstring(L, "struct");
     lua_gettable(L, 1);
@@ -990,9 +990,9 @@ static int lua_oload(lua_State *L)
       mudlog("[Lua] lua_oload returned an unknown object.", BRF, LVL_IMMORT, FALSE);
       return 0;
     }
-  
+
     obj = read_object(rnum, REAL);
-  
+
     if (!str_cmp(location, "room"))
       obj_to_room(obj, ch->in_room);
     else if (!str_cmp(location, "char"))
@@ -1117,11 +1117,11 @@ static int lua_obj_list(lua_State *L)
       lua_pushnumber(L, TRUE);
     } else
       lua_pushnil(L);
-    
+
     return 1;
   } else
     mudlog("[Lua] Invalid argument passed to lua_obj_list.", BRF, LVL_IMMORT, FALSE);
-  
+
   return 0;
 }
 
@@ -1131,7 +1131,7 @@ static int lua_objto(lua_State *L)
   struct obj_data *obj = NULL, *into = NULL;
   struct char_data *ch = NULL;
   char *argument = NULL;
-   
+
   if (lua_istable(L, 1) && lua_isstring(L, 2)) {
     lua_pushstring(L, "struct");
     lua_gettable(L, 1);
@@ -1179,10 +1179,10 @@ static int lua_plr_flagged(lua_State *L)
   if (lua_istable(L, 1) && lua_isnumber(L, 2)) {
     lua_pushstring(L, "struct");
     lua_gettable(L, 1);
-    
+
     plr = (struct char_data *)lua_touserdata(L, -1);
     flag = (int)lua_tonumber(L, 2);
-  
+
     if (PLR_FLAGGED(plr, flag))
       lua_pushnumber(L, TRUE);
     else
@@ -1203,7 +1203,7 @@ static int lua_plr_flags(lua_State *L)
   if (lua_istable(L, 1) && lua_isstring(L, 2) && lua_isnumber(L, 3)) {
     lua_pushstring(L, "struct");
     lua_gettable(L, 1);
-    
+
     plr = (struct char_data *)lua_touserdata(L, -1);
     type = (char *)lua_tostring(L, 2);
     flag = (int)lua_tonumber(L, 3);
@@ -1268,8 +1268,8 @@ static int lua_round(lua_State *L)
   return 1;
 }
 
-static int lua_say(lua_State *L) 
-{ 
+static int lua_say(lua_State *L)
+{
   struct char_data *ch = NULL;
   char *argument = NULL;
 
@@ -1282,11 +1282,11 @@ static int lua_say(lua_State *L)
     ch = (struct char_data *)lua_touserdata(L, -1);
 
     argument = (char *)lua_tostring(L, 1);
-    do_say(ch, argument, 0, 0); 
+    do_say(ch, argument, 0, 0);
   } else
     mudlog("[Lua] Invalid argument passed to lua_say.", BRF, LVL_IMMORT, FALSE);
 
-  return 0; 
+  return 0;
 }
 
 static int lua_save_char(lua_State *L)
@@ -1307,7 +1307,7 @@ static int lua_save_char(lua_State *L)
 }
 
 static int lua_save_obj(lua_State *L)
-{ 
+{
   struct obj_data *obj = NULL;
 
   if (lua_istable(L, 1)) {
@@ -1315,7 +1315,7 @@ static int lua_save_obj(lua_State *L)
     lua_gettable(L, -2);
     obj = (struct obj_data *)lua_touserdata(L, -1);
 
-    table_to_obj(L); 
+    table_to_obj(L);
   } else
     mudlog("[Lua] Invalid argument passed to lua_save_obj.", BRF, LVL_IMMORT, FALSE);
 
@@ -1371,7 +1371,7 @@ static int lua_set_skill(lua_State *L)
   if (lua_istable(L, 1) && lua_isnumber(L, 2) && lua_isnumber(L, 3)) {
     lua_pushstring(L, "struct");
     lua_gettable(L, 1);
-  
+
     ch = (struct char_data *)lua_touserdata(L, -1);
     group_num = (int)lua_tonumber(L, 2);
     skill_lvl = (int)lua_tonumber(L, 3);
@@ -1391,7 +1391,7 @@ static int lua_skip_spaces(lua_State *L)
     skip_spaces(&text);
   } else
     mudlog("[Lua] Invalid argument passed to lua_skip_spaces.", BRF, LVL_IMMORT, FALSE);
-  
+
   lua_pushstring(L, text);
   return 1;
 }
@@ -1566,10 +1566,10 @@ static int lua_tell(lua_State *L)
   struct char_data *me = NULL;
   char *txt = NULL, *vict_name = NULL;
 
-  ACMD(do_tell); 
+  ACMD(do_tell);
 
   if (lua_isstring(L, 1) && lua_isstring(L, 2)) {
-    lua_getglobal(L, "me");    
+    lua_getglobal(L, "me");
     lua_pushstring(L, "struct");
     lua_gettable(L, -2);
 
@@ -1579,7 +1579,7 @@ static int lua_tell(lua_State *L)
 
     strcpy(buf, " ");
     strcat(buf, vict_name); /* name */
-    strcat(buf, " "); /* space */    
+    strcat(buf, " "); /* space */
     strcat(buf, txt); /* message */
     do_tell(me, buf, find_command("tell"), 0);
   } else
@@ -1658,7 +1658,7 @@ static const struct luaL_reg cmdlib[] = {
   { "social"        , lua_social        },      /* social */
   { "spell"         , lua_spell         },      /* call_magic function */
   { "steal"         , lua_steal         },      /* steal function */
-  { "tport"         , lua_tport         },      /* teleport function */  
+  { "tport"         , lua_tport         },      /* teleport function */
   { "tell"          , lua_tell          },      /* tell */
   { "unaffect"      , lua_unaffect      },      /* Remove all spells affections from a char */
 };
@@ -1690,7 +1690,7 @@ int open_lua_file(char *buf, char *script_name)
       sprintf(buf, "[Lua] Could not call script %s: Unknown error %d.", script_name, err);
       break;
     }
-                        
+
     mudlog(buf, CMP, LVL_IMMORT, TRUE);
     return -1;
   }
@@ -1704,7 +1704,7 @@ int boot_lua()
   lua_baselibopen(L);
   lua_mathlibopen(L);
   lua_strlibopen(L);
- 
+
   /* register the functions in lua */
   luaL_openl(L, cmdlib);
   sprintf(buf, "%s/globals.lua", SCRIPT_DIR);
@@ -1720,7 +1720,7 @@ int run_script(struct char_data *ch, struct char_data *me, struct obj_data *obj,
 {
   int top_of_stack, retval = 0, en = 0;
   char *script_name;
- 
+
   CREATE(script_name, char, MAX_STRING_LENGTH);
 
   top_of_stack = lua_gettop(L);
@@ -1767,16 +1767,16 @@ int run_script(struct char_data *ch, struct char_data *me, struct obj_data *obj,
     return(TRUE);
   }
 
-  if (argument) { 
+  if (argument) {
     lua_pushstring(L, argument);
     lua_setglobal(L, "argument");
   }
 
   sprintf(buf, "%s/%s/%s", SCRIPT_DIR, type, script_name);
-  
+
   if (open_lua_file(buf, script_name) == -1) { /* error */
     sprintf(buf2, "SYSERR: Error opening lua script %s.", script_name);
-    mudlog(buf2, BRF, LVL_IMMORT, TRUE); 
+    mudlog(buf2, BRF, LVL_IMMORT, TRUE);
     clear_stack(L);
     if (!strcmp(type, LT_MOB))
       MOB_SCRIPT_FLAGS(me) = 0;
@@ -1819,7 +1819,7 @@ int run_script(struct char_data *ch, struct char_data *me, struct obj_data *obj,
   return (retval);
 }
 
-void 
+void
 char_to_table(lua_State *L, struct char_data *ch)
 {
   struct obj_data *obj = NULL;
@@ -1828,9 +1828,9 @@ char_to_table(lua_State *L, struct char_data *ch)
 
   int num_followers(struct char_data *ch);
 
-  lua_newtable(L);  
+  lua_newtable(L);
   lua_pushstring(L, "name"); lua_pushstring(L, GET_NAME(ch)); lua_settable(L, -3);
-  lua_pushstring(L, "align"); lua_pushnumber(L, GET_ALIGNMENT(ch)); lua_settable(L, -3);  
+  lua_pushstring(L, "align"); lua_pushnumber(L, GET_ALIGNMENT(ch)); lua_settable(L, -3);
   lua_pushstring(L, "gold"); lua_pushnumber(L, GET_GOLD(ch)); lua_settable(L, -3);
   lua_pushstring(L, "level"); lua_pushnumber(L, GET_LEVEL(ch)); lua_settable(L, -3);
   lua_pushstring(L, "hp"); lua_pushnumber(L, GET_HIT(ch)); lua_settable(L, -3);
@@ -1866,9 +1866,9 @@ char_to_table(lua_State *L, struct char_data *ch)
     { lua_pushstring(L, "evil"); lua_pushnumber(L, TRUE); lua_settable(L, -3); }
   else
     { lua_pushstring(L, "evil"); lua_pushnumber(L, FALSE); lua_settable(L, -3); }
-  
-  if (!ch->master || ch->master == ch)    
-    { lua_pushstring(L, "leader"); lua_pushnil(L); lua_settable(L, -3); } 
+
+  if (!ch->master || ch->master == ch)
+    { lua_pushstring(L, "leader"); lua_pushnil(L); lua_settable(L, -3); }
   else
     { lua_pushstring(L, "leader"); char_to_table(L, ch->master); lua_settable(L, -3); }
 
@@ -1888,16 +1888,16 @@ char_to_table(lua_State *L, struct char_data *ch)
   }
 
   lua_pushstring(L, "struct"); lua_pushuserdata(L, ch); lua_settable(L, -3);
-} 
+}
 
-void 
-obj_to_table(lua_State *L, struct obj_data *obj) 
+void
+obj_to_table(lua_State *L, struct obj_data *obj)
 {
   int i;
   struct obj_data *cont = NULL;
 
   lua_newtable(L);
-    
+
   lua_pushstring(L, "name"); lua_pushstring(L, obj->short_description); lua_settable(L, -3);
   lua_pushstring(L, "alias"); lua_pushstring(L, obj->name); lua_settable(L, -3);
   lua_pushstring(L, "vnum"); lua_pushnumber(L, GET_OBJ_VNUM(obj)); lua_settable(L, -3);
@@ -2048,7 +2048,7 @@ table_to_char(lua_State *L)
     lua_gettable(L, -2);
     GET_TATTOO(ch) = MAX(0, (int)lua_tonumber(L, -1));
   }
-} 
+}
 
 void
 table_to_obj(lua_State *L)
@@ -2109,7 +2109,7 @@ table_to_room(lua_State *L)
 }
 
 void clear_stack(lua_State *L)
-{   
+{
   while (lua_gettop(L))  /* zero = stack empty */
     lua_pop(L, -1);
 }

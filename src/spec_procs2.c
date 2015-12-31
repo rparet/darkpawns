@@ -80,7 +80,7 @@ SPECIAL(fighter);
 ACMD(do_steal);
 int mag_savingthrow(struct char_data * ch, int type);
 void raw_kill(struct char_data * ch, int attacktype);
-void tattoo_af(struct char_data *ch, bool add);           
+void tattoo_af(struct char_data *ch, bool add);
 struct char_data *get_mount(struct char_data *ch);
 SPECIAL(elemental_room);
 SPECIAL(field_object);
@@ -105,8 +105,8 @@ int
 do_first_remort_adjust(struct char_data *ch)
 {
 /* first, find a stat to increase by +2 */
-  enum abils { DEFAULT, con, str, wis, intl, dex, cha}; 
- 
+  enum abils { DEFAULT, con, str, wis, intl, dex, cha};
+
   if (GET_ORIG_CON(ch) < 17) { ch->real_abils.con += 2; GET_ORIG_CON(ch) += 2; return con; }
   if (ch->real_abils.str < 17) { ch->real_abils.str += 2; return str; }
   if (ch->real_abils.wis < 17) { ch->real_abils.wis += 2; return wis; }
@@ -120,7 +120,7 @@ do_first_remort_adjust(struct char_data *ch)
 void
 do_second_remort_adjust(struct char_data *ch, int stat)
 {
-  enum abils { DEFAULT, con, str, wis, intl, dex, cha}; 
+  enum abils { DEFAULT, con, str, wis, intl, dex, cha};
 
  /* exceptional strength */
  if (ch->real_abils.str == 18 && (stat != str) && ch->real_abils.str_add < 100)
@@ -131,7 +131,7 @@ do_second_remort_adjust(struct char_data *ch, int stat)
     ch->real_abils.str_add = 20;
  }
 
- 
+
 
  /* find a second stat to raise by +1 */
  if (GET_ORIG_CON(ch) < 18 && (stat != con))   { GET_ORIG_CON(ch)++; return; }
@@ -143,10 +143,10 @@ do_second_remort_adjust(struct char_data *ch, int stat)
 
  /* if we get here, gotta assume all stats are 18 */
  /* so lets turn off hunger/thirst */
-  
+
  if (GET_COND(ch, THIRST) != -1)
  {
-   GET_COND(ch, THIRST) = -1; 
+   GET_COND(ch, THIRST) = -1;
    return;
  }
 
@@ -190,7 +190,7 @@ SPECIAL(normal_checker)
 SPECIAL(ninelives)
 {
   struct char_data *i;
-  struct char_data *mobile = (struct char_data *) me;    
+  struct char_data *mobile = (struct char_data *) me;
 
   if ((!AWAKE(ch) && GET_HIT(ch)>0))
     return (FALSE);
@@ -202,17 +202,17 @@ SPECIAL(ninelives)
       if (!*argument)
 	return(FALSE);
       if (!strstr(argument, "chest"))
-	return(FALSE);      	
+	return(FALSE);
       if (CMD_IS("open") || CMD_IS("look") || CMD_IS("examine"))
-	{ 
+	{
 	  if(!IS_NPC(ch) && CAN_SEE(mobile, ch)&&!PRF_FLAGGED(ch,PRF_NOHASSLE))
 	    hit(mobile, ch, TYPE_UNDEFINED);
 	  return(TRUE);
 	}
       else
-	return(FALSE);	
+	return(FALSE);
     }
-    
+
   if (!FIGHTING(ch) || GET_HIT(ch) > 0)
     return (FALSE);
   /* MAX_MOVE is used to set the number of lives */
@@ -232,11 +232,11 @@ SPECIAL(ninelives)
 	      TRUE, ch, NULL, i, TO_ROOM);
 	  if (FIGHTING(i) == ch)
 	    stop_fighting(i);
-	  stop_fighting(ch);        
+	  stop_fighting(ch);
 	  hit(ch, i, TYPE_UNDEFINED);
 	}
       return(TRUE);
-    }	
+    }
   return(FALSE);
 }
 
@@ -246,8 +246,8 @@ SPECIAL(whirlpool)
   struct char_data *vict, *tmp;
   int spec_occured = FALSE, to_room = 0;
   struct char_data *mobile = (struct char_data *)me;
-  
-  if (mini_mud || !ch) 
+
+  if (mini_mud || !ch)
     return FALSE;
 
   for (vict = world[ch->in_room].people; vict; vict = tmp)
@@ -258,7 +258,7 @@ SPECIAL(whirlpool)
 	  do
 	    {
 	      to_room = number(real_room(4600), real_room(4699));
-	    }  
+	    }
 	  while( (IS_SET_AR(world[to_room].room_flags,ROOM_PRIVATE)) ||
 		 (IS_SET_AR(world[to_room].room_flags,ROOM_GODROOM)) ||
 		 (IS_SET_AR(world[to_room].room_flags,ROOM_DEATH))   ||
@@ -271,7 +271,7 @@ SPECIAL(whirlpool)
 	  spec_occured = TRUE;
 	}
     }
-  return(spec_occured); 
+  return(spec_occured);
 }
 
 
@@ -283,13 +283,13 @@ SPECIAL (couch)
 {
   struct char_data *mimic;
   struct obj_data *obj;
-  
+
   if (!argument || mini_mud)
     return(FALSE);
   skip_spaces(&argument);
   if (!( (CMD_IS("look") || CMD_IS("examine")) && !strcmp(argument, "couch")) )
     return(FALSE);
-  
+
   for (obj = world[ch->in_room].contents; obj; obj = obj->next_content)
     if (CAN_SEE_OBJ(ch, obj) && (!strcmp(obj->name, "couch")))
       {
@@ -308,9 +308,9 @@ SPECIAL (couch)
 	  }
       }
   return(FALSE);
-  
+
 }
-  
+
 #define HORSE_VNUM 8021
 SPECIAL(stableboy)
 {
@@ -319,7 +319,7 @@ SPECIAL(stableboy)
   struct follow_type *k = NULL;
   char msg[256];
   int days, cost, renttime;
- 
+
   skip_spaces(&argument);
   if (CMD_IS("buy"))
    if ( (argument && strcmp(argument, "horse")) || !argument)
@@ -352,7 +352,7 @@ SPECIAL(stableboy)
        char_to_room(horse, ch->in_room);
        act("$N brings $n up from the stables out back.", FALSE, horse, 0, mobile, TO_ROOM);
        add_follower(horse, ch);
-      
+
        /* Be certain that pets can't get/carry/use/wield/wear items */
        IS_CARRYING_W(horse) = 1000;
        IS_CARRYING_N(horse) = 100;
@@ -400,7 +400,7 @@ SPECIAL(stableboy)
       }
     }  /* have a mount to rent now */
     GET_MOUNT_RENT_TIME(ch) = (long)time(0);
-    GET_MOUNT_NUM(ch) = GET_MOB_VNUM(horse); 
+    GET_MOUNT_NUM(ch) = GET_MOB_VNUM(horse);
     GET_MOUNT_COST_DAY(ch) = 5;
     act("$N takes $n out back to the stables.", FALSE, horse, 0, mobile, TO_ROOM);
     extract_char(horse);
@@ -446,7 +446,7 @@ SPECIAL(stableboy)
        GET_GOLD(ch) -= cost;
        sprintf(msg, "%s Here ya go pal, all patted down and ready to go... "
                "cost ya %d to keep 'em here.", GET_NAME(ch), cost);
-       do_tell(mobile, msg, find_command("tell"), 0); 
+       do_tell(mobile, msg, find_command("tell"), 0);
        return TRUE;
     } else {
        sprintf(msg, "%s Sorry, we are unable to gather your mount, try back "
@@ -492,7 +492,7 @@ SPECIAL(tipster)
       do_say(ch, "A bribe of a couple hundred coins will make a guard"
 	     " look the other way while you fight.", 0, 0);
       do_say(ch, "Guards will attack you if you fight in front of "
-	     "them.", 0, 0); break; 
+	     "them.", 0, 0); break;
     case 7:
       do_say(ch, "Use the CONSIDER command!", 0, 0); break;
     case 8:
@@ -561,12 +561,12 @@ SPECIAL(pissedalchemist)
   if (!cont)
     return(FALSE);
 
-  if (GET_ALIGNMENT(ch) != -69) /*arbitrary number, just a number that 
+  if (GET_ALIGNMENT(ch) != -69) /*arbitrary number, just a number that
 				  he is NOT*/
     {
       GET_ALIGNMENT(ch) = -69;
       do_say(ch, "So, finally come to steal my secret!?!", 0, 0);
-      do_say(ch, "The secret of the Philosopher's Stone!?!", 0, 0); 
+      do_say(ch, "The secret of the Philosopher's Stone!?!", 0, 0);
       return(FALSE);
     }
   do_say(ch, "Well -- Ya can't have it!! Die!!!", 0, 0);
@@ -583,7 +583,7 @@ SPECIAL(pissedalchemist)
 	hit(ch, i, TYPE_UNDEFINED);
 	return(TRUE);
       }
-  
+
   SET_BIT_AR(MOB_FLAGS(ch), MOB_AGGRESSIVE);
 
   return(FALSE);
@@ -597,14 +597,14 @@ kender_steal(struct char_data *ch, struct char_data *victim)
 
   if (!IS_NPC(victim))
     return;
-  
+
   for (tmp_obj = victim->carrying; tmp_obj; tmp_obj = tmp_obj->next_content)
     {
       if (CAN_SEE_OBJ(ch, tmp_obj) && (number(0, 600) < GET_LEVEL(ch)))
 	{
 	  int percent = number(1, 101) - dex_app_skill[GET_DEX(ch)].p_pocket;
 	  int pcsteal = 0;
-	  
+
 	  if (GET_POS(victim) < POS_SLEEPING)
 	    percent = -1; /* Success */
 
@@ -613,11 +613,11 @@ kender_steal(struct char_data *ch, struct char_data *victim)
 
 	  /* NO NO With Imp's and Shopkeepers,
 	     and if player thieving is not allowed */
-	  if (GET_LEVEL(victim) >= LVL_IMMORT ||  
+	  if (GET_LEVEL(victim) >= LVL_IMMORT ||
 	      (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)) ||
 	      GET_MOB_SPEC(victim) == shop_keeper)
 	    percent = 101; /* Failure */
-          
+
           /* newbie protection */
           if ((GET_LEVEL(ch) <= 10) || (GET_LEVEL(victim) <= 10))
             return;
@@ -661,7 +661,7 @@ find_remort_class(struct char_data *ch)
       return CLASS_PALADIN;
     else
       return CLASS_RANGER;
-  } 
+  }
 
   if (IS_CLERIC(ch))
      return CLASS_AVATAR;
@@ -687,9 +687,9 @@ SPECIAL(remorter)
 
   if (IS_NPC(ch))
     return(FALSE);
-  
+
   skip_spaces(&argument);
-  
+
   if (CMD_IS("buy") || CMD_IS("list"))
    {
       sprintf (msg, "%s Type REMORT to remort!", GET_NAME(ch));
@@ -699,7 +699,7 @@ SPECIAL(remorter)
   if (!(CMD_IS("remort") || CMD_IS("buy")))
     return(FALSE);
 
-      
+
   if (GET_LEVEL(ch) < LEVEL_IMMORT-1)
     {
       sprintf (msg, "%s You can't remort until level %d!\r\n",
@@ -720,16 +720,16 @@ SPECIAL(remorter)
 	  sprintf (msg, "%s It costs %d gold to work my magicks.",
 		   GET_NAME(ch), REMORT_COST);
 	  do_tell(mobile, msg, find_command("tell"), 0);
-	  return (TRUE); 
+	  return (TRUE);
     }
- for (i = 0; i < NUM_WEARS; i++) 
+ for (i = 0; i < NUM_WEARS; i++)
     if (GET_EQ(ch, i))
       {
         send_to_char("You must come unto me naked, wearing only thy old "
 			"body.\r\n", ch);
 	return(TRUE);
       }
-      
+
  if (PLR_FLAGGED(ch, PLR_IT))
    REMOVE_BIT_AR(PLR_FLAGS(ch), PLR_IT);
  if (PLR_FLAGGED(ch, PLR_VAMPIRE))
@@ -758,7 +758,7 @@ SPECIAL(remorter)
 
       ch->points.max_hit = number(30,40);
       ch->points.max_mana = 100+(number(20,30));
-      
+
       GET_HIT(ch) = GET_MAX_HIT(ch);
       GET_MANA(ch) = GET_MAX_MANA(ch);
       GET_MOVE(ch) = GET_MAX_MOVE(ch);
@@ -771,7 +771,7 @@ SPECIAL(remorter)
       do_second_remort_adjust(ch, do_first_remort_adjust(ch));
 
       SET_BIT_AR(PLR_FLAGS(ch), PLR_REMORT);  /* new remort flag */
- 
+
       for (i = 1; i <= MAX_SKILLS; i++)
 	SET_SKILL(ch, i, 0);
 
@@ -936,8 +936,8 @@ give_tat(struct char_data *ch, struct char_data *mobile, int tat_num, int gold)
                "A scream is ripped from your lips...\r\n", ch);
   do_gen_comm(ch, "Arrrrrrrrrgggggggghhhh!", 0, SCMD_SHOUT);
   send_to_char("You black out.\r\n", ch);
-  GET_POS(ch)=POS_STUNNED;  
-    update_pos(ch);           
+  GET_POS(ch)=POS_STUNNED;
+    update_pos(ch);
   tattoo_af(ch, TRUE);
   affect_total(ch);
 }
@@ -956,7 +956,7 @@ SPECIAL(tattoo1)
       for (i = 0; i < num_tats; i++)
       {
          sprintf(buf, "[%d] - (%d) tattoo %s : %s\r\n", i,
-                 tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num], 
+                 tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num],
 		 tat[tats[i]].descrip);
          send_to_char(buf, ch);
       }
@@ -980,7 +980,7 @@ SPECIAL(tattoo1)
     }
 
     skip_spaces(&argument);
-  
+
     if (!*argument)
     {
      send_to_char("Buy what number?\r\n", ch);
@@ -991,7 +991,7 @@ SPECIAL(tattoo1)
       send_to_char("Buy by number!\r\n", ch);
       return(TRUE);
     }
-    
+
     if (GET_GOLD(ch)<(tat[tats[choice]].price))
     {
      char msg[160];
@@ -1021,7 +1021,7 @@ SPECIAL(tattoo2)
       for (i = 0; i < num_tats; i++)
       {
          sprintf(buf, "[%d] - (%d) tattoo %s : %s\r\n", i,
-                 tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num], 
+                 tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num],
 		 tat[tats[i]].descrip);
          send_to_char(buf, ch);
       }
@@ -1035,7 +1035,7 @@ SPECIAL(tattoo2)
 
     if (IS_NPC(ch))
       return FALSE;
-  
+
     if (!*argument)
     {
      send_to_char("Buy what number?\r\n", ch);
@@ -1055,7 +1055,7 @@ SPECIAL(tattoo2)
       do_tell(mobile, msg, find_command("tell"), 0);
       return(TRUE);
      }
-    
+
      if (GET_GOLD(ch)<(tat[tats[choice]].price))
      {
       char msg[160];
@@ -1086,7 +1086,7 @@ SPECIAL(tattoo3)
       for (i = 0; i < num_tats; i++)
       {
          sprintf(buf, "[%d] - (%d) tattoo %s : %s\r\n", i,
-                 tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num], 
+                 tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num],
 		 tat[tats[i]].descrip);
          send_to_char(buf, ch);
       }
@@ -1100,7 +1100,7 @@ SPECIAL(tattoo3)
 
     if (IS_NPC(ch))
       return FALSE;
-  
+
     if (!*argument)
     {
      send_to_char("Buy what number?\r\n", ch);
@@ -1120,7 +1120,7 @@ SPECIAL(tattoo3)
      do_tell(mobile, msg, find_command("tell"), 0);
      return(TRUE);
     }
-    
+
     if (GET_GOLD(ch)<(tat[tats[choice]].price))
     {
      char msg[160];
@@ -1145,7 +1145,7 @@ SPECIAL(eviltrade)
   {
     if (!*argument)
   	return(FALSE);
- 
+
     two_arguments(argument, buf, buf2);
     if ( !*buf || !*buf2 || !isname(buf2, mobile->player.name) )
 	return(FALSE);
@@ -1187,7 +1187,7 @@ val_cost(struct obj_data *obj)
 
   if (IS_SET_AR(GET_OBJ_EXTRA(obj), ITEM_MAGIC))
 	price += cost/20;
-  return(MAX(1, price)); 
+  return(MAX(1, price));
 }
 
 SPECIAL(identifier)
@@ -1195,7 +1195,7 @@ SPECIAL(identifier)
   struct char_data *mobile = (struct char_data *)me;
   struct obj_data *obj = NULL;
   char msg[160];
-  
+
   if (CMD_IS("list"))
   {
    sprintf (msg, "%s Just read the sign!", GET_NAME(ch));
@@ -1211,7 +1211,7 @@ SPECIAL(identifier)
      sprintf (msg, "%s Value what?", GET_NAME(ch));
      do_tell(mobile, msg, find_command("tell"), 0);
      return(TRUE);
-    }	
+    }
     obj = get_obj_in_list_vis(ch, argument, ch->carrying);
     if (!obj)
     {
@@ -1219,7 +1219,7 @@ SPECIAL(identifier)
      do_tell(mobile, msg, find_command("tell"), 0);
      return(TRUE);
     }
-    sprintf (msg, "%s I'll identify that fully for about %d coins.", 
+    sprintf (msg, "%s I'll identify that fully for about %d coins.",
              GET_NAME(ch), val_cost(obj));
     do_tell(mobile, msg, find_command("tell"), 0);
     return(TRUE);
@@ -1228,7 +1228,7 @@ SPECIAL(identifier)
   {
     if (!*argument)
   	return(FALSE);
- 
+
     two_arguments(argument, buf, buf2);
     if ( !*buf || !*buf2 || !isname_with_abbrevs(buf2, mobile->player.name) )
 	return(FALSE);
@@ -1240,7 +1240,7 @@ SPECIAL(identifier)
     if (GET_GOLD(ch)<val_cost(obj))
     {
       sprintf (msg, "%s That's a fine item, but I'll need %d coins from you"
-	            " to id it.. and you're a little short..", 
+	            " to id it.. and you're a little short..",
 	       GET_NAME(ch), val_cost(obj));
       do_tell(mobile, msg, find_command("tell"), 0);
       sprintf (msg, "%s Keep it until you get the gold.", GET_NAME(ch));
@@ -1257,18 +1257,18 @@ SPECIAL(identifier)
         "weighing it on scales, and chanting a number of odd spells over "
 	"its surface.", TRUE, mobile, 0, 0, TO_ROOM);
 
-    act("Finally looking up, you give $p back to $N.", 
+    act("Finally looking up, you give $p back to $N.",
 	FALSE, mobile, obj, ch, TO_CHAR);
-    act("Finally looking up, $n gives you back $p.", 
+    act("Finally looking up, $n gives you back $p.",
 	FALSE, mobile, obj, ch, TO_VICT);
-    act("Finally looking up, $n gives back $p to $N.", 
+    act("Finally looking up, $n gives back $p to $N.",
 	TRUE, mobile, obj, ch, TO_NOTVICT);
 
-    act("$N touches your forehead, and knowledge fills your mind.", 
+    act("$N touches your forehead, and knowledge fills your mind.",
 	FALSE, ch, obj, mobile, TO_CHAR);
-    act("You touch $n gently on the forehead.", 
+    act("You touch $n gently on the forehead.",
 	FALSE, ch, obj, mobile, TO_VICT);
-    act("$N touches $n gently on the forehead.", 
+    act("$N touches $n gently on the forehead.",
 	TRUE, ch, obj, mobile, TO_NOTVICT);
 
     send_to_char("\r\n", ch);
@@ -1293,7 +1293,7 @@ SPECIAL(tattoo4)
       for (i = 0; i < num_tats; i++)
       {
          sprintf(buf, "[%d] - (%d) tattoo %s : %s\r\n", i,
-                 tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num], 
+                 tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num],
 		 tat[tats[i]].descrip);
          send_to_char(buf, ch);
       }
@@ -1304,7 +1304,7 @@ SPECIAL(tattoo4)
     int choice =-1;
 
     skip_spaces(&argument);
-  
+
     if (!*argument)
     {
      send_to_char("Buy what number?\r\n", ch);
@@ -1323,7 +1323,7 @@ SPECIAL(tattoo4)
      do_tell(mobile, msg, find_command("tell"), 0);
      return(TRUE);
     }
-    
+
     if (GET_GOLD(ch)<(tat[tats[choice]].price))
     {
      char msg[160];
@@ -1392,7 +1392,7 @@ SPECIAL(little_boy)
 {
   if (!AWAKE(ch) || !IS_NPC(ch) || cmd || GET_HIT(ch) < 0 || FIGHTING(ch))
     return FALSE;
-     
+
   if (!number(0,10))
     {
       act("$n exclaims, 'Don't let the bad man hurt me, mommy!", FALSE, ch,
@@ -1400,8 +1400,8 @@ SPECIAL(little_boy)
       return TRUE;
     }
   return FALSE;
-} 
-   
+}
+
 SPECIAL(ira)
 {
   struct char_data *tmp_ch = NULL;
@@ -1414,7 +1414,7 @@ SPECIAL(ira)
     {
       if ( !IS_NPC(tmp_ch) && !PRF_FLAGGED(tmp_ch, PRF_NOHASSLE))
 	{
-	  act("$n exclaims, 'Dirty Orange Scum!'", FALSE, ch, NULL, NULL, 
+	  act("$n exclaims, 'Dirty Orange Scum!'", FALSE, ch, NULL, NULL,
 	      TO_ROOM);
 	  hit(ch, tmp_ch, TYPE_UNDEFINED);
 	  return TRUE;
@@ -1422,7 +1422,7 @@ SPECIAL(ira)
     }
 
   return FALSE;
-} 
+}
 
 SPECIAL(take_to_jail)
 {
@@ -1438,9 +1438,9 @@ SPECIAL(take_to_jail)
   for (tch = world[ch->in_room].people; tch; tch = tch->next_in_room)
     {
       if (!IS_NPC(tch) && CAN_SEE(ch, tch) &&
-	  IS_SET_AR(PLR_FLAGS(tch), PLR_OUTLAW)) 
+	  IS_SET_AR(PLR_FLAGS(tch), PLR_OUTLAW))
 	{
-	  act("$n says 'We don't like OUTLAWS like you in this city!'", 
+	  act("$n says 'We don't like OUTLAWS like you in this city!'",
 	      FALSE, ch, 0, 0, TO_ROOM);
 	  hit(ch, tch, TYPE_UNDEFINED);
 	  return (fighter(ch, ch, 0, NULL));
@@ -1482,7 +1482,7 @@ SPECIAL(jail)
       act("The guard says, 'Time's up, scum!'", TRUE, ch, 0, ch, TO_ROOM);
       act("The guard says, 'Time's up, scum!'", TRUE, ch, 0, ch, TO_VICT);
       act("$N gets thrown out of the cell!", TRUE, ch, 0, ch, TO_NOTVICT);
-      act("The guard throws you out of the cell!\r\n", 
+      act("The guard throws you out of the cell!\r\n",
 		TRUE, ch, 0, ch, TO_VICT);;
       char_from_room(ch);
       char_to_room(ch, real_room(8117));
@@ -1504,7 +1504,7 @@ eq_sound(struct char_data *ch)
     if ( !(number(0,52)) && (obj = GET_EQ(ch, i)) )
 	switch (GET_OBJ_VNUM(obj))
 	{
-	case 2753: 
+	case 2753:
 		to_room = "A stream of smoke trails off of $p that $n wields.";
 		to_char = "A stream of smoke trails off of $p.";
 		break;
@@ -1538,9 +1538,9 @@ loud_mobs(struct char_data * ch)
 
    was_in = ch->in_room;
 
-   for (door = 0; door < NUM_OF_DIRS; door++) 
+   for (door = 0; door < NUM_OF_DIRS; door++)
    {
-      if (CAN_GO(ch, door)) 
+      if (CAN_GO(ch, door))
       {
          ch->in_room = world[was_in].dir_option[door]->to_room;
          act(GET_NOISE(ch), FALSE, ch, 0, 0, TO_ROOM);
@@ -1557,7 +1557,7 @@ SPECIAL(medusa)
   if (!argument)
     return(FALSE);
   skip_spaces(&argument);
-  if (!( (CMD_IS("look") || CMD_IS("examine")) && 
+  if (!( (CMD_IS("look") || CMD_IS("examine")) &&
 	 isname(argument, mobile->player.name) ))
     return(FALSE);
 
@@ -1568,7 +1568,7 @@ SPECIAL(medusa)
 	    "turns to stone!", FALSE, ch, 0, ch, TO_NOTVICT);
 	act("With growing horror and increasing agony, your body slowly turns"
 	    " to stone!", FALSE, ch, 0, 0, TO_CHAR);
-        sprintf(mybuf, "%s killed by Medusa special at %s", 
+        sprintf(mybuf, "%s killed by Medusa special at %s",
 		GET_NAME(ch), world[ch->in_room].name);
         mudlog(mybuf, BRF, LVL_IMMORT, TRUE);
         GET_DEATHS(ch)++;
@@ -1589,11 +1589,11 @@ npc_kender_steal(struct char_data *ch, struct char_data *victim)
       if (CAN_SEE_OBJ(ch, tmp_obj) && (number(0, 60) < GET_LEVEL(ch)))
 	{
 	  int percent = number(1, 101);
-	  
+
 	  if (GET_POS(victim) < POS_SLEEPING)
 	    percent = -1; /* Success */
 
-	  if (GET_LEVEL(victim) >= LVL_IMMORT || 
+	  if (GET_LEVEL(victim) >= LVL_IMMORT ||
 	      (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)))
 	    percent = 101; /* Failure */
 
@@ -1636,7 +1636,7 @@ SPECIAL(eq_thief)
 	if ((obj = (get_obj_in_list_vis(ch, "black", ch->carrying))))
         {
           /* fake a junking */
-          act("You junk $p. It vanishes in a puff of smoke!", FALSE, ch, obj, 0, TO_CHAR);       
+          act("You junk $p. It vanishes in a puff of smoke!", FALSE, ch, obj, 0, TO_CHAR);
           act("$n junks $p. It vanishes in a puff of smoke!", TRUE, ch, obj, 0, TO_ROOM);
           extract_obj(obj);
         }
@@ -1644,13 +1644,13 @@ SPECIAL(eq_thief)
       }
   return FALSE;
 }
-     
+
 SPECIAL(portal_room)
 {
    int location;
    ACMD(do_look);
    ACMD(do_say);
-   
+
    if(mini_mud || ( !CMD_IS("say") && !CMD_IS("'") ) )
         return(FALSE);
 
@@ -1692,7 +1692,7 @@ SPECIAL(breed_killer)
      if (IS_NIGHTBREED(i))
 	{
 	 found = TRUE;
-	 break;	
+	 break;
 	}
   if (found && CAN_SEE(mob, i))
   {
@@ -1738,13 +1738,13 @@ SPECIAL(carrion)
 	   (!strstr(argument, "corpse") && !strstr(argument, "corpses") &&
 	    !strstr(argument, "pile")) )
 	return(FALSE);
-      
+
       if ((i = read_mobile(14308, VIRTUAL)))
       {
 	GET_LEVEL(i) = GET_LEVEL(ch);
 	GET_DAMROLL(i) = GET_LEVEL(ch);
 	char_to_room(i, ch->in_room);
-	act("Suddenly $n skitters from out of a corpse!", 
+	act("Suddenly $n skitters from out of a corpse!",
 		TRUE, i, 0, 0, TO_ROOM);
 	hit(i, ch, TYPE_UNDEFINED);
         return(TRUE);
@@ -1823,7 +1823,7 @@ SPECIAL(bat)
 SPECIAL(no_move_east)
 {
     struct char_data *mobile = (struct char_data *)me;
-    
+
     if (!cmd || mini_mud || !IS_MOVE(cmd) || !AWAKE(mobile))
        return FALSE ;
 
@@ -1832,7 +1832,7 @@ SPECIAL(no_move_east)
 
     if (CMD_IS("east") && GET_LEVEL(ch) < LEVEL_IMMORT )
        {
-           act("$n humiliates $N, and blocks $S way.", 
+           act("$n humiliates $N, and blocks $S way.",
 		FALSE, mobile, 0, ch, TO_NOTVICT) ;
 	   act("$n humiliates you and blocks your way.",
 		FALSE, mobile, 0, ch, TO_VICT) ;
@@ -1848,7 +1848,7 @@ is_owner(struct char_data *ch, int room_vnum)
    int i, j;
 
    if (IS_NPC(ch))
-      return FALSE; 
+      return FALSE;
 
    if ((i = find_house(room_vnum)) < 0)
      return FALSE;
@@ -1863,8 +1863,8 @@ is_owner(struct char_data *ch, int room_vnum)
       if (ch && (GET_IDNUM(ch) == house_control[i].guests[j]))
         return TRUE;
    }
-   
-   return FALSE;   
+
+   return FALSE;
 }
 
 SPECIAL(key_seller)
@@ -1889,25 +1889,25 @@ SPECIAL(key_seller)
     do_tell(mobile, msg, find_command("tell"), 0);
     return TRUE;
   }
- 
+
   skip_spaces(&argument);
- 
+
   if (CMD_IS("buy"))
   {
    if ((argument && strcmp(argument, "key")) || !argument)
    {
       sprintf (msg, "%s I only sell keys, currently.",
                    GET_NAME(ch));
-      do_tell(mobile, msg, find_command("tell"), 0);   
+      do_tell(mobile, msg, find_command("tell"), 0);
       return (TRUE);
    }
-   if (GET_GOLD(ch) < 10000) 
+   if (GET_GOLD(ch) < 10000)
    {
       sprintf (msg, "%s You can't afford a key.", GET_NAME(ch));
       do_tell(mobile, msg, find_command("tell"), 0);
       return (TRUE);
    }
-   if (argument && is_abbrev(argument, "key")) 
+   if (argument && is_abbrev(argument, "key"))
    {
      obj = read_object(house_control[i].key, VIRTUAL);
      if (obj)
@@ -1920,13 +1920,13 @@ SPECIAL(key_seller)
      }
    }
   }
-  if (CMD_IS("list")) 
+  if (CMD_IS("list"))
   {
     sprintf (msg, "%s You can buy a key for 10,000 gold coins.",
              GET_NAME(ch));
     do_tell(mobile, msg, find_command("tell"), 0);
     return (TRUE);
-  } 
+  }
 
   return FALSE;
 }
@@ -1945,7 +1945,7 @@ SPECIAL(castle_guard_east)
     if (cmd && CMD_IS("east") && GET_LEVEL(ch) < LEVEL_IMMORT  && (mobile!=ch)&&
 	!is_owner(ch, world[ch->in_room].number+2))
     {
-      if( ch->master && 
+      if( ch->master &&
 	  (ch->master == ch || are_grouped(ch, ch->master)) &&
 	  (is_owner(ch->master, world[ch->in_room].number+2)) )
 	act("$n snaps to attention as you pass.", FALSE, mobile, 0, 0, TO_ROOM);
@@ -1959,7 +1959,7 @@ SPECIAL(castle_guard_east)
     if (!cmd)
      for (i=world[mobile->in_room].people; i; i=i->next_in_room)
      {
-	if (!FIGHTING(mobile) && FIGHTING(i) && 
+	if (!FIGHTING(mobile) && FIGHTING(i) &&
 	    GET_MOB_SPEC(i)==castle_guard_east && FIGHTING(i)!=mobile)
 	{
 	  hit(mobile, FIGHTING(i), TYPE_UNDEFINED);
@@ -1978,7 +1978,7 @@ SPECIAL(mindflayer)
 
   switch(number(0,15))
   {
-	case 0: 
+	case 0:
         case 5:
 		act("The tentacles on $n's face surge forward, wrapping "
 		    "around $N's head!", FALSE, ch, 0, vict, TO_NOTVICT);
@@ -2033,7 +2033,7 @@ SPECIAL(teleporter)
 SPECIAL(no_move_west)
 {
     struct char_data *mobile = (struct char_data *)me;
-    
+
     if (!cmd || mini_mud || !IS_MOVE(cmd) || !AWAKE(mobile))
        return FALSE ;
 
@@ -2042,7 +2042,7 @@ SPECIAL(no_move_west)
 
     if (CMD_IS("west") && GET_LEVEL(ch) < LEVEL_IMMORT )
        {
-           act("$n humiliates $N, and blocks $S way.", 
+           act("$n humiliates $N, and blocks $S way.",
 		FALSE, mobile, 0, ch, TO_NOTVICT) ;
 	   act("$n humiliates you and blocks your way.",
 		FALSE, mobile, 0, ch, TO_VICT) ;
@@ -2054,7 +2054,7 @@ SPECIAL(no_move_west)
 SPECIAL(no_move_north)
 {
     struct char_data *mobile = (struct char_data *)me;
-    
+
     if (!cmd || mini_mud || !IS_MOVE(cmd) || !AWAKE(mobile))
        return FALSE ;
 
@@ -2065,7 +2065,7 @@ SPECIAL(no_move_north)
        {
            act("$n blocks $N's way.", FALSE, mobile, 0, ch, TO_NOTVICT) ;
 	   act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT) ;
-	   act("$n says 'I cannot let you pass.'", 
+	   act("$n says 'I cannot let you pass.'",
 		FALSE, mobile, 0, 0, TO_ROOM) ;
            return TRUE ;
        }
@@ -2075,14 +2075,14 @@ SPECIAL(no_move_north)
 SPECIAL(never_die)
 {
     struct char_data *mobile = (struct char_data *)me;
- 
+
     if (cmd)
       return FALSE;
 
       if (GET_HIT(mobile)<GET_MAX_HIT(mobile))
       {
   	GET_HIT(mobile)=GET_MAX_HIT(mobile);
-        update_pos(mobile); 	
+        update_pos(mobile);
         return TRUE;
       }
 
@@ -2092,7 +2092,7 @@ SPECIAL(never_die)
 SPECIAL(no_move_south)
 {
     struct char_data *mobile = (struct char_data *)me;
-    
+
     if (!cmd || mini_mud || !IS_MOVE(cmd) || !AWAKE(mobile))
        return FALSE ;
 
@@ -2103,7 +2103,7 @@ SPECIAL(no_move_south)
        {
            act("$n blocks $N's way.", FALSE, mobile, 0, ch, TO_NOTVICT) ;
 	   act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT) ;
-	   act("$n says 'Thou shalt not pass.'", 
+	   act("$n says 'Thou shalt not pass.'",
 		FALSE, mobile, 0, 0, TO_ROOM) ;
            return TRUE ;
        }
@@ -2113,7 +2113,7 @@ SPECIAL(no_move_south)
 SPECIAL(chosen_guard)
 {
     struct char_data *mobile = (struct char_data *)me;
-    
+
     if (!cmd || !IS_MOVE(cmd) || !AWAKE(mobile))
        return FALSE ;
 
@@ -2124,7 +2124,7 @@ SPECIAL(chosen_guard)
        {
            act("$n blocks $N's way.", FALSE, mobile, 0, ch, TO_NOTVICT) ;
 	   act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT) ;
-	   act("$n says 'Thou shalt not pass.'", 
+	   act("$n says 'Thou shalt not pass.'",
 		FALSE, mobile, 0, 0, TO_ROOM) ;
            return TRUE ;
        }
@@ -2151,7 +2151,7 @@ SPECIAL(castle_guard_down)
       {
         act("$n moves aside and allows you to pass.", FALSE, mobile, 0, ch, TO_VICT);
         act("$n moves aside and allows $N to pass.", FALSE, mobile, 0, ch, TO_NOTVICT);
-      }  
+      }
       else
       {
         act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT);
@@ -2193,7 +2193,7 @@ SPECIAL(castle_guard_up)
       {
         act("$n moves aside and allows you to pass.", FALSE, mobile, 0, ch, TO_VICT);
         act("$n moves aside and allows $N to pass.", FALSE, mobile, 0, ch, TO_NOTVICT);
-      }  
+      }
       else
       {
         act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT);
@@ -2235,7 +2235,7 @@ SPECIAL(castle_guard_north)
       {
         act("$n moves aside and allows you to pass.", FALSE, mobile, 0, ch, TO_VICT);
         act("$n moves aside and allows $N to pass.", FALSE, mobile, 0, ch, TO_NOTVICT);
-      }  
+      }
       else
       {
         act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT);
@@ -2277,15 +2277,15 @@ SPECIAL(wall_guard_ns)
 
   if (CAN_GO(mobile, SOUTH) && !CAN_GO(mobile, NORTH)) /* at northern end */
     dir_to_move = SOUTH;
- 
+
   perform_move(mobile, dir_to_move, 1);   /* walk the wall */
 
   for (tch = world[mobile->in_room].people; tch; tch = tch_next)
-    { 
+    {
       tch_next = tch->next_in_room;
       if (tch == mobile)
         continue;
-      
+
       if (IS_NPC(tch) && GET_MOB_VNUM(tch) == 8020 && talk)  /* church guard */
       {
         act("$n snaps to attention and salutes $N!", TRUE,  ch, 0, tch, TO_ROOM);
@@ -2296,5 +2296,5 @@ SPECIAL(wall_guard_ns)
       }
     }
   talk = TRUE;
-  return FALSE;    
+  return FALSE;
 }

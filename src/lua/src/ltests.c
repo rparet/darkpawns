@@ -53,13 +53,13 @@ static void setnameval (lua_State *L, const char *name, int val) {
 
 
 static const char *const instrname[NUM_OPCODES] = {
-  "END", "RETURN", "CALL", "TAILCALL", "PUSHNIL", "POP", "PUSHINT", 
-  "PUSHSTRING", "PUSHNUM", "PUSHNEGNUM", "PUSHUPVALUE", "GETLOCAL", 
-  "GETGLOBAL", "GETTABLE", "GETDOTTED", "GETINDEXED", "PUSHSELF", 
-  "CREATETABLE", "SETLOCAL", "SETGLOBAL", "SETTABLE", "SETLIST", "SETMAP", 
-  "ADD", "ADDI", "SUB", "MULT", "DIV", "POW", "CONCAT", "MINUS", "NOT", 
-  "JMPNE", "JMPEQ", "JMPLT", "JMPLE", "JMPGT", "JMPGE", "JMPT", "JMPF", 
-  "JMPONT", "JMPONF", "JMP", "PUSHNILJMP", "FORPREP", "FORLOOP", "LFORPREP", 
+  "END", "RETURN", "CALL", "TAILCALL", "PUSHNIL", "POP", "PUSHINT",
+  "PUSHSTRING", "PUSHNUM", "PUSHNEGNUM", "PUSHUPVALUE", "GETLOCAL",
+  "GETGLOBAL", "GETTABLE", "GETDOTTED", "GETINDEXED", "PUSHSELF",
+  "CREATETABLE", "SETLOCAL", "SETGLOBAL", "SETTABLE", "SETLIST", "SETMAP",
+  "ADD", "ADDI", "SUB", "MULT", "DIV", "POW", "CONCAT", "MINUS", "NOT",
+  "JMPNE", "JMPEQ", "JMPLT", "JMPLE", "JMPGT", "JMPGE", "JMPT", "JMPF",
+  "JMPONT", "JMPONF", "JMP", "PUSHNILJMP", "FORPREP", "FORLOOP", "LFORPREP",
   "LFORLOOP", "CLOSURE"
 };
 
@@ -70,7 +70,7 @@ static int pushop (lua_State *L, Proto *p, int pc) {
   OpCode o = GET_OPCODE(i);
   const char *name = instrname[o];
   sprintf(buff, "%5d - ", luaG_getline(p->lineinfo, pc, 1, NULL));
-  switch ((enum Mode)luaK_opproperties[o].mode) {  
+  switch ((enum Mode)luaK_opproperties[o].mode) {
     case iO:
       sprintf(buff+8, "%-12s", name);
       break;
@@ -341,7 +341,7 @@ static int equal (lua_State *L) {
   return pushbool(L, lua_equal(L, 1, 2));
 }
 
-  
+
 
 /*
 ** {======================================================
@@ -373,7 +373,7 @@ static int getnum (lua_State *L, const char **pc) {
   while (isdigit(**pc)) res = res*10 + (*(*pc)++) - '0';
   return sig*res;
 }
-  
+
 static const char *getname (char *buff, const char **pc) {
   int i = 0;
   skip(pc);

@@ -82,10 +82,10 @@ struct obj_data *Obj_from_store_to(struct obj_file_elem object, int *locate)
   /* do_string stuff */
     if (object.name != NULL)
       obj->name = str_dup (object.name);
-    
+
     if (object.desc != NULL)
       obj->description = str_dup(object.desc);
-    
+
     if (object.shortd != NULL)
       obj->short_description = str_dup(object.shortd);
   /*****end do_string stuff*****/
@@ -135,7 +135,7 @@ int Obj_to_store_from(struct obj_data * obj, FILE * fl, int locate)
     strcpy (object.desc, obj->description);
   else
     strcpy (object.desc,"\0");
-  
+
   if (obj->short_description)
     strcpy (object.shortd, obj->short_description);
   else
@@ -1235,7 +1235,7 @@ int Alias_delete_file(char *name)
 {
   char filename[50];
   FILE *fl;
-     
+
   if (!get_filename(name, filename, ALIAS_FILE))
     return 0;
   if (!(fl = fopen(filename, "rb"))) {

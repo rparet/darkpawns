@@ -53,7 +53,7 @@ extern struct spell_info_type spell_info[];
 extern struct index_data *mob_index;
 extern char *class_abbrevs[];
 extern char *crowd_size[];
-extern struct time_info_data time_info; 
+extern struct time_info_data time_info;
 extern char *dirs[];
 
 /* extern procedures */
@@ -83,7 +83,7 @@ ACMD(do_quit)
 
   if (IS_NPC(ch) || !ch->desc)
     return;
-  
+
   switch(rm->number) {
     case 8004:
      isokquit = 1;
@@ -120,14 +120,14 @@ ACMD(do_quit)
     send_to_char("You die before your time...\r\n", ch);
     die(ch);
   }
-  else if ((subcmd != SCMD_REALLY_QUIT) && 
+  else if ((subcmd != SCMD_REALLY_QUIT) &&
            !(isokquit || GET_LEVEL(ch) >= LVL_IMMORT))
   {
      stc("Type REALLYQUIT to quit the game and lose your eq.\r\n", ch);
      stc("Return to the temple and QUIT to leave the game and keep"
           " your equipment.\r\n", ch);
      if (GET_LEVEL(ch) <= 5)
-       stc("You can type RECALL to return to your temple.\r\n", ch);   
+       stc("You can type RECALL to return to your temple.\r\n", ch);
      return;
   } else {
     if (!GET_INVIS_LEV(ch))
@@ -135,7 +135,7 @@ ACMD(do_quit)
     sprintf(buf, "%s has quit the game.", GET_NAME(ch));
     mudlog(buf, NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
     send_to_char("Goodbye, friend.. Come back soon!\r\n", ch);
- 
+
     /* if they have there infobar on clear it out for them */
     if (GET_INFOBAR(ch) == INFOBAR_ON)
        InfoBarOff(ch);
@@ -157,7 +157,7 @@ ACMD(do_quit)
 	/*
 	 *  Free rent in temple, your house, or if immortal
 	 */
-	if (isokquit || GET_LEVEL(ch) >= LVL_IMMORT) 
+	if (isokquit || GET_LEVEL(ch) >= LVL_IMMORT)
         {
           if (GET_LEVEL(ch) <= LVL_IMMORT)
             GET_LOADROOM(ch) = rm->number; /* load players back where they legally quit */
@@ -165,12 +165,12 @@ ACMD(do_quit)
             Crash_cryosave(ch, 0);
           else
             Crash_rentsave(ch, 0);
-	} 
+	}
         else
 	{
-    	   sprintf(buf, "LOSTEQ:%s has quit out of a save room.", 
+    	   sprintf(buf, "LOSTEQ:%s has quit out of a save room.",
 	          GET_NAME(ch));
-	   mudlog(buf, NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);      
+	   mudlog(buf, NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
 	}
     }
     if (IS_MOUNTED(ch))
@@ -268,7 +268,7 @@ ACMD(do_hide)
      case SECT_WATER_NOSWIM:
      case SECT_UNDERWATER:
      case SECT_WATER:
-      stc("Hide in the water? Don't think so.\r\n", ch);  
+      stc("Hide in the water? Don't think so.\r\n", ch);
       return;
      case SECT_FLYING:
      case SECT_FIRE:
@@ -318,11 +318,11 @@ ACMD(do_steal)
   af.type = SKILL_STEAL;
   af.duration = 6;
   af.modifier = 0;
-  af.location = APPLY_NONE;     
+  af.location = APPLY_NONE;
   af.bitvector = AFF_ROBBED;
   af.by_type = BY_SPELL;
   af.obj_num = 0;
-    
+
 
   argument = one_argument(argument, obj_name);
   one_argument(argument, vict_name);
@@ -351,7 +351,7 @@ ACMD(do_steal)
 
   if (!IS_NPC(vict) && !IS_OUTLAW(ch) && !subcmd)
   {
-    sprintf(buf, "You can not steal from %s because you are not an Outlaw!\r\n", 
+    sprintf(buf, "You can not steal from %s because you are not an Outlaw!\r\n",
             GET_NAME(vict));
     stc(buf, ch);
     sprintf(buf, "%s failed to steal from you because %s is not an Outlaw!\r\n",
@@ -363,7 +363,7 @@ ACMD(do_steal)
   /* 101% is a complete failure */
   percent = number(1, 101) - dex_app_skill[GET_DEX(ch)].p_pocket;
 
-  if (GET_POS(vict) <= POS_SLEEPING && (!IS_NPC(vict) && 
+  if (GET_POS(vict) <= POS_SLEEPING && (!IS_NPC(vict) &&
       GET_LEVEL(vict) < LVL_IMMORT))
     percent = -1;		/* ALWAYS SUCCESS */
 
@@ -376,7 +376,7 @@ ACMD(do_steal)
      percent = 101;  /* Failure */
 
   /* NO NO With Imp's and Shopkeepers, and if player thieving is not allowed */
-  if (GET_LEVEL(vict) >= LVL_IMMORT ||  
+  if (GET_LEVEL(vict) >= LVL_IMMORT ||
       (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)) ||
       GET_MOB_SPEC(vict) == shop_keeper ||
       IS_AFFECTED(vict, AFF_ROBBED))
@@ -442,7 +442,7 @@ ACMD(do_steal)
                   }
                  }
                   else
-                   stc("You cannot carry that much.\r\n", ch); 
+                   stc("You cannot carry that much.\r\n", ch);
 		}
 	    }
 	}
@@ -454,7 +454,7 @@ ACMD(do_steal)
 	  if (percent > GET_SKILL(ch, SKILL_STEAL))
 	    {
 	      ohoh = TRUE;
-	      act("$N catches you trying to steal something...", 
+	      act("$N catches you trying to steal something...",
 		  FALSE, ch, 0, vict, TO_CHAR);
 	      act("$n tried to steal something from you!",
 		  FALSE, ch, 0, vict, TO_VICT);
@@ -516,7 +516,7 @@ ACMD(do_steal)
 		  send_to_char(buf, ch);
 		  improve_skill(ch, SKILL_STEAL);
                 }
-	      else 
+	      else
 		send_to_char("You manage to swipe a solitary "
 			     "gold coin.\r\n", ch);
 	    }
@@ -527,7 +527,7 @@ ACMD(do_steal)
 
   if (ohoh && IS_NPC(vict) && AWAKE(vict))
     hit(vict, ch, TYPE_UNDEFINED);
-  
+
   if (ohoh && !IS_NPC(vict) && !subcmd)
   {
     SET_BIT_AR(PLR_FLAGS(ch), PLR_OUTLAW);
@@ -535,7 +535,7 @@ ACMD(do_steal)
     mudlog(buf, CMP, LVL_IMMORT, TRUE);
   }
 
-  WAIT_STATE(ch, PULSE_VIOLENCE);   
+  WAIT_STATE(ch, PULSE_VIOLENCE);
 }
 
 
@@ -655,7 +655,7 @@ print_group(struct char_data *ch)
 		CCGRN(ch, C_CMP), GET_HIT(k), CCNRM(ch, C_CMP),
 		CCGRN(ch, C_CMP), GET_MANA(k), CCNRM(ch, C_CMP),
 		CCGRN(ch, C_CMP), GET_MOVE(k), CCNRM(ch, C_CMP),
-		GET_LEVEL(k), 
+		GET_LEVEL(k),
 		CCCYN(ch, C_CMP),CLASS_ABBR(k), CCNRM(ch, C_CMP));
 	act(buf, FALSE, ch, 0, k, TO_CHAR);
       }
@@ -668,11 +668,11 @@ print_group(struct char_data *ch)
         if (IS_NPC(f->follower))  /* checking out mob stats via group is bad */
           sprintf(buf, "     [---H ---M ---V] [-- --] $N");
         else
-	  sprintf(buf, "     [%s%3d%sH %s%3d%sM %s%3d%sV] [%2d %s%s%s] $N", 
+	  sprintf(buf, "     [%s%3d%sH %s%3d%sM %s%3d%sV] [%2d %s%s%s] $N",
 		CCGRN(ch, C_CMP), GET_HIT(f->follower), CCNRM(ch, C_CMP),
 		CCGRN(ch, C_CMP), GET_MANA(f->follower), CCNRM(ch, C_CMP),
 		CCGRN(ch, C_CMP), GET_MOVE(f->follower), CCNRM(ch, C_CMP),
-		GET_LEVEL(f->follower), 
+		GET_LEVEL(f->follower),
 		CCGRN(ch, C_CMP), CLASS_ABBR(f->follower), CCNRM(ch, C_CMP));
 
 	act(buf, FALSE, ch, 0, f->follower, TO_CHAR);
@@ -788,7 +788,7 @@ ACMD(do_ungroup)
   act("$N is no longer a member of your group.", FALSE, ch, 0, tch, TO_CHAR);
   act("You have been kicked out of $n's group!", FALSE, ch, 0, tch, TO_VICT);
   act("$N has been kicked out of $n's group!", FALSE, ch, 0, tch, TO_NOTVICT);
- 
+
   if (!IS_AFFECTED(tch, AFF_CHARM))
     stop_follower(tch);
 }
@@ -805,14 +805,14 @@ ACMD(do_report)
   {
     sprintf(buf, "    [%s%d%s/%s%d%s]H [%s%d%s/%s%d%s]M [%s%d%s/%s%d%s]V"
 	         " [%s%d%s]Kills [%s%d%s]PKs [%s%d%s]Deaths",
-         CCGRN(tch, C_NRM),GET_HIT(ch),CCNRM(tch, C_NRM), 
-         CCGRN(tch, C_NRM),GET_MAX_HIT(ch),CCNRM(tch, C_NRM), 
-         CCGRN(tch, C_NRM),GET_MANA(ch),CCNRM(tch, C_NRM), 
-         CCGRN(tch, C_NRM),GET_MAX_MANA(ch),CCNRM(tch, C_NRM), 
-         CCGRN(tch, C_NRM),GET_MOVE(ch),CCNRM(tch, C_NRM), 
-         CCGRN(tch, C_NRM),GET_MAX_MOVE(ch),CCNRM(tch, C_NRM), 
-         CCRED(tch, C_NRM),(int)GET_KILLS(ch),CCNRM(tch, C_NRM), 
-         CCRED(tch, C_NRM),(int)GET_PKS(ch),CCNRM(tch, C_NRM), 
+         CCGRN(tch, C_NRM),GET_HIT(ch),CCNRM(tch, C_NRM),
+         CCGRN(tch, C_NRM),GET_MAX_HIT(ch),CCNRM(tch, C_NRM),
+         CCGRN(tch, C_NRM),GET_MANA(ch),CCNRM(tch, C_NRM),
+         CCGRN(tch, C_NRM),GET_MAX_MANA(ch),CCNRM(tch, C_NRM),
+         CCGRN(tch, C_NRM),GET_MOVE(ch),CCNRM(tch, C_NRM),
+         CCGRN(tch, C_NRM),GET_MAX_MOVE(ch),CCNRM(tch, C_NRM),
+         CCRED(tch, C_NRM),(int)GET_KILLS(ch),CCNRM(tch, C_NRM),
+         CCRED(tch, C_NRM),(int)GET_PKS(ch),CCNRM(tch, C_NRM),
          CCRED(tch, C_NRM),(int)GET_DEATHS(ch),CCNRM(tch, C_NRM) );
      act (buf, FALSE, tch, 0, 0, TO_CHAR);
   }
@@ -926,10 +926,10 @@ ACMD(do_use)
       for (eq_pos = 0; eq_pos < NUM_WEARS; eq_pos++)
 	if (GET_EQ(ch, eq_pos) &&
 	    (isname(arg, GET_EQ(ch, eq_pos)->name)) &&
-	    CAN_SEE_OBJ(ch, GET_EQ(ch, eq_pos))) 
+	    CAN_SEE_OBJ(ch, GET_EQ(ch, eq_pos)))
 	  mag_item = GET_EQ(ch, eq_pos);
       if (!mag_item)
-      {	
+      {
 	sprintf(buf2, "You don't seem to have %s %s.\r\n", AN(arg), arg);
 	send_to_char(buf2, ch);
 	return;
@@ -1008,7 +1008,7 @@ ACMD(do_wimpy)
 	GET_WIMP_LEV(ch) = wimp_lev;
       }
     } else {
-      send_to_char("Okay, you'll now tough out fights to the bitter end.\r\n", 
+      send_to_char("Okay, you'll now tough out fights to the bitter end.\r\n",
 		ch);
       GET_WIMP_LEV(ch) = 0;
     }
@@ -1038,7 +1038,7 @@ ACMD(do_display)
       return;
     }
   if ((!str_cmp(argument, "on")) || (!str_cmp(argument, "all")))
-  { 
+  {
       SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPHP);
       SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPMANA);
       SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPMOVE);
@@ -1115,7 +1115,7 @@ ACMD(do_gen_write)
       send_to_char("That must be a mistake...\r\n", ch);
       return;
   }
-  
+
   sprintf(buf, "%s %s: %s", GET_NAME(ch), CMD_NAME, argument);
   mudlog(buf, CMP, LVL_IMMORT, FALSE);
 
@@ -1124,14 +1124,14 @@ ACMD(do_gen_write)
     send_to_char("Could not open the file.  Sorry.\r\n", ch);
     return;
   }
-  
+
   r = fprintf(fl, "%-8s (%6.6s) [%5d] %s\n", GET_NAME(ch), (tmp + 4),
               world[ch->in_room].number, argument);
   if (r < 0)
-    log("Error writing to file %s.", filename);  
+    log("Error writing to file %s.", filename);
 
   fclose(fl);
-  
+
   send_to_char("Okay.  Thanks!\r\n", ch);
 }
 
@@ -1197,7 +1197,7 @@ ACMD(do_gen_tog)
      return;
     }
 
-  if (subcmd == SCMD_NOWIZ && (GET_LEVEL(ch) < LVL_IMMORT) 
+  if (subcmd == SCMD_NOWIZ && (GET_LEVEL(ch) < LVL_IMMORT)
       && !PLR_FLAGGED(ch, PLR_CHOSEN))
     {
       stc("Huh?!?\r\n", ch);
@@ -1419,7 +1419,7 @@ ACMD(do_transform)
 	return;
    }
    if (PLR_FLAGGED(ch, PLR_WEREWOLF)) {
-	if ( weather_info.sunlight == SUN_SET || 
+	if ( weather_info.sunlight == SUN_SET ||
 	     weather_info.sunlight == SUN_DARK ) {
 		if (IS_AFFECTED(ch, AFF_WEREWOLF))
 		{
@@ -1438,7 +1438,7 @@ ACMD(do_transform)
 			" from every pore.\n\r", ch);
 		act("$n shivers and transforms into a werewolf!",
 			FALSE, ch, 0,0, TO_ROOM);
-		SET_BIT_AR(AFF_FLAGS(ch), AFF_WEREWOLF);        
+		SET_BIT_AR(AFF_FLAGS(ch), AFF_WEREWOLF);
 		switch(time_info.moon)
 		  {
 		  case MOON_NEW:
@@ -1462,7 +1462,7 @@ ACMD(do_transform)
 		  default:
                     break;
 		  }
-                if (GET_HIT(ch) > 666) 
+                if (GET_HIT(ch) > 666)
                   GET_HIT(ch) = 666;
 		return;
 		}
@@ -1472,9 +1472,9 @@ ACMD(do_transform)
 	  if (IS_AFFECTED(ch, AFF_WEREWOLF)){
 		send_to_char("Your hair and nails shorten and you revert to"
 			" your normal shape.\n\r", ch);
-		act("$n shivers and transforms out of werewolf form!", 
+		act("$n shivers and transforms out of werewolf form!",
 			FALSE, ch, 0,0, TO_ROOM);
-		REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_WEREWOLF);         
+		REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_WEREWOLF);
 		if (GET_HIT(ch) > GET_MAX_HIT(ch))
 			GET_HIT(ch) = GET_MAX_HIT(ch);
 		return;
@@ -1485,9 +1485,9 @@ ACMD(do_transform)
 	  }
 	}
    }
-   
+
    if (PLR_FLAGGED(ch, PLR_VAMPIRE)) {
-	if ( weather_info.sunlight == SUN_SET || 
+	if ( weather_info.sunlight == SUN_SET ||
 	     weather_info.sunlight == SUN_DARK ) {
 		if (IS_AFFECTED(ch, AFF_VAMPIRE))
 		{
@@ -1500,7 +1500,7 @@ ACMD(do_transform)
 			" from your incisors!\n\r", ch);
 		act("$n shivers and transforms into a vampire!",
 			FALSE, ch, 0,0, TO_ROOM);
-		SET_BIT_AR(AFF_FLAGS(ch), AFF_VAMPIRE);        
+		SET_BIT_AR(AFF_FLAGS(ch), AFF_VAMPIRE);
 		switch(time_info.moon) {
 			case MOON_NEW:
 				GET_MANA(ch) += GET_MAX_MANA(ch)/5;
@@ -1527,9 +1527,9 @@ ACMD(do_transform)
 	  if (IS_AFFECTED(ch, AFF_VAMPIRE)){
 		send_to_char("Your fangs recess, and you revert to"
 			" your normal shape.\n\r", ch);
-		act("$n shivers and transforms out of vampire form!", 
+		act("$n shivers and transforms out of vampire form!",
 			FALSE, ch, 0,0, TO_ROOM);
-		REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_VAMPIRE);         
+		REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_VAMPIRE);
 		if(GET_MANA(ch) > GET_MAX_MANA(ch))
 			GET_MANA(ch) = GET_MAX_MANA(ch);
 		return;
@@ -1581,7 +1581,7 @@ ACMD(do_ride)
 	act("$S master would not like that!", TRUE, ch, 0, mount, TO_CHAR);
       else
 	{
-	  SET_BIT_AR(AFF_FLAGS(ch), AFF_MOUNT);        
+	  SET_BIT_AR(AFF_FLAGS(ch), AFF_MOUNT);
 	  SET_BIT_AR(AFF_FLAGS(mount), AFF_MOUNT);
 	  if (!IS_AFFECTED(mount, AFF_CHARM))
 	    SET_BIT_AR(AFF_FLAGS(mount), AFF_CHARM);
@@ -1622,7 +1622,7 @@ ACMD(do_yank)
   ACMD(do_stand);
 
   struct char_data *victim = NULL;
-  
+
   one_argument(argument, arg);
 
   if (!*arg)
@@ -1643,13 +1643,13 @@ ACMD(do_yank)
 	     if (!IS_MOUNTED(victim))
 		act("$N is already on $S feet.", TRUE, ch, 0, victim, TO_CHAR);
 	     else
-		act("You can't yank $M off $S mount!", 
+		act("You can't yank $M off $S mount!",
 			TRUE, ch, 0, victim, TO_CHAR);
 	     return;
 	}
 	if (GET_POS(victim) <= POS_SLEEPING)
 	{
-		act("$N is is no position to be yanked around!", 
+		act("$N is is no position to be yanked around!",
 			TRUE, ch, 0, victim, TO_CHAR);
 		return;
 	}
@@ -1670,13 +1670,13 @@ ACMD(do_peek)
   struct char_data *victim;
   byte percent;
 
-  if (GET_CLASS(ch) != CLASS_THIEF && GET_CLASS(ch) != CLASS_ASSASSIN && 
+  if (GET_CLASS(ch) != CLASS_THIEF && GET_CLASS(ch) != CLASS_ASSASSIN &&
 	 GET_LEVEL(ch) < LEVEL_IMMORT)
     {
       send_to_char("You're not a thief!\r\n", ch);
       return;
     }
-  
+
   one_argument(argument, arg);
 
   if (!*arg)
@@ -1696,11 +1696,11 @@ ACMD(do_peek)
 	}
 
       look_at_char(victim, ch);
-      improve_skill(ch, SKILL_PEEK);  
+      improve_skill(ch, SKILL_PEEK);
   }
 }
 
-void 
+void
 improve_skill(struct char_data *ch, int skill)
 {
   extern char *spells[];
@@ -1786,9 +1786,9 @@ ACMD(do_appraise)
   byte percent = number(1, 101);	/* 101% is a complete failure */
   struct obj_data *object;
   long cost;
-  
+
   half_chop(argument, arg, buf);
-  
+
   if (!*arg)
     {
       send_to_char("What do you want to appraise?\r\n", ch);
@@ -1803,10 +1803,10 @@ ACMD(do_appraise)
     }
 
   cost = GET_OBJ_COST(object);
-  
+
   if (percent > GET_SKILL(ch, SKILL_APPRAISE)) /* fail, give a bad value */
     cost += number( -cost, cost*2 );
-  else 
+  else
   {
     cost += number( cost>20?-20:0, 20 );
     improve_skill(ch, SKILL_APPRAISE);
@@ -1817,7 +1817,7 @@ ACMD(do_appraise)
 
 ACMD(do_inactive)
 {
-   if (PRF_FLAGGED(ch, PRF_INACTIVE)) 
+   if (PRF_FLAGGED(ch, PRF_INACTIVE))
 	REMOVE_BIT_AR(PRF_FLAGS(ch), PRF_INACTIVE);
    else
 	SET_BIT_AR(PRF_FLAGS(ch), PRF_INACTIVE);
@@ -1856,7 +1856,7 @@ ACMD(do_scout)
     stc("There is nothing of interest there.\r\n", ch);
     return;
   }
-  
+
   switch (SECT(EXIT(ch,dir)->to_room))
   {
     case SECT_CITY:
@@ -1927,7 +1927,7 @@ ACMD(do_scout)
 ACMD(do_roll)
 {
   unsigned int max_roll, result;
- 
+
   one_argument(argument, arg);
   if (!*arg) {
     max_roll = 100;
@@ -1938,7 +1938,7 @@ ACMD(do_roll)
   }
 
   result = number(1, max_roll);
- 
+
   sprintf(buf, "You roll %u (1-%u).", result, max_roll);
   act(buf, 0, ch, 0, 0, TO_CHAR);
 

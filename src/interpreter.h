@@ -244,6 +244,6 @@ struct alias {
 
 /*. do_infobar .*/
 #define INFOBAR_OFF     0
-#define INFOBAR_ON      1 
+#define INFOBAR_ON      1
 
 #endif /* _INTERPRETER_H */

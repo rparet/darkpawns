@@ -184,7 +184,7 @@ LUA_API const void *lua_topointer (lua_State *L, int index) {
   StkId o = luaA_indexAcceptable(L, index);
   if (o == NULL) return NULL;
   switch (ttype(o)) {
-    case LUA_TTABLE: 
+    case LUA_TTABLE:
       return hvalue(o);
     case LUA_TFUNCTION:
       return clvalue(o);

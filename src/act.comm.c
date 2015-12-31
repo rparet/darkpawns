@@ -42,7 +42,7 @@
 extern struct room_data *world;
 extern struct descriptor_data *descriptor_list;
 extern struct char_data *character_list;
-extern char *races[];      
+extern char *races[];
 
 char *delete_ansi_controls(char *string);
 
@@ -57,10 +57,10 @@ speak_rakshasan( char *said )
    char *output = NULL;
    char heard[MAX_INPUT_LENGTH];
    int j, offs;
-   
+
    struct syllable {
-      char	org[10];
-      char	new[10];
+      char  org[10];
+      char  new[10];
    };
 
    struct syllable rak_syls[] = {
@@ -76,7 +76,7 @@ speak_rakshasan( char *said )
       { "me", "phis" },
       { "dwarf",  "dwarf" },
       { "elf",  "elf" },
-      { "fucking",  "fucking" }, 
+      { "fucking",  "fucking" },
       { "serapis",  "Serapis" },
       { "Serapis",  "Serapis" },
       { "kill",  "llirr" },
@@ -105,7 +105,7 @@ speak_rakshasan( char *said )
       { "p", "ss" }, { "q", "d" }, { "r", "f" }, { "s", "g" }, { "t", "h" },
       { "u", "ii" }, { "v", "z" }, { "w", "x" }, { "x", "n" }, { "y", "y" },
       { "z", "k" }, { "", "" }
-   };   
+   };
 
    strcpy(buf, "");
    strcpy(heard, said);
@@ -114,20 +114,20 @@ speak_rakshasan( char *said )
 
    while (*(heard + offs)) {
       for (j = 0; *(rak_syls[j].org); j++)
-	 if (strncmp(rak_syls[j].org,heard+offs,strlen(rak_syls[j].org)) == 0) {
-	    strcat(buf, rak_syls[j].new);
-	    if (strlen(rak_syls[j].org))
-	       offs += strlen(rak_syls[j].org);
-	    else
-	       ++offs;
-	 }
-      if ( (!*rak_syls[j].org) && *(heard+offs) )
-	{
-	strncat (buf, heard+offs, 1);
-	offs++;
-	}
+   if (strncmp(rak_syls[j].org,heard+offs,strlen(rak_syls[j].org)) == 0) {
+      strcat(buf, rak_syls[j].new);
+      if (strlen(rak_syls[j].org))
+         offs += strlen(rak_syls[j].org);
+      else
+         ++offs;
    }
-  
+      if ( (!*rak_syls[j].org) && *(heard+offs) )
+  {
+  strncat (buf, heard+offs, 1);
+  offs++;
+  }
+   }
+
    output = str_dup(buf);
    return(output);
 }
@@ -138,10 +138,10 @@ speak_elven( char *said )
    char *output = NULL;
    char heard[MAX_INPUT_LENGTH];
    int j, offs;
-   
+
    struct syllable {
-      char	org[10];
-      char	new[10];
+      char  org[10];
+      char  new[10];
    };
 
    struct syllable elf_syls[] = {
@@ -158,7 +158,7 @@ speak_elven( char *said )
       { "dwarf",  "dwarf" },
       { "elf",  "elvinisti" },
       { "Elf",  "Elvinisti" },
-      { "fucking",  "fucking" }, 
+      { "fucking",  "fucking" },
       { "serapis",  "Serapis" },
       { "Serapis",  "Serapis" },
       { "kill",  "beligant" },
@@ -188,7 +188,7 @@ speak_elven( char *said )
       { "p", "ss" }, { "q", "d" }, { "r", "l" }, { "s", "r" }, { "t", "h" },
       { "u", "i" }, { "v", "z" }, { "w", "x" }, { "x", "n" }, { "y", "y" },
       { "z", "k" }, { "", "" }
-   };   
+   };
 
    strcpy(buf, "");
    strcpy(heard, said);
@@ -197,20 +197,20 @@ speak_elven( char *said )
 
    while (*(heard + offs)) {
       for (j = 0; *(elf_syls[j].org); j++)
-	 if (strncmp(elf_syls[j].org,heard+offs,strlen(elf_syls[j].org)) == 0) {
-	    strcat(buf, elf_syls[j].new);
-	    if (strlen(elf_syls[j].org))
-	       offs += strlen(elf_syls[j].org);
-	    else
-	       ++offs;
-	 }
-      if ( (!*elf_syls[j].org) && *(heard+offs) )
-	{
-	strncat (buf, heard+offs, 1);
-	offs++;
-	}
+   if (strncmp(elf_syls[j].org,heard+offs,strlen(elf_syls[j].org)) == 0) {
+      strcat(buf, elf_syls[j].new);
+      if (strlen(elf_syls[j].org))
+         offs += strlen(elf_syls[j].org);
+      else
+         ++offs;
    }
-  
+      if ( (!*elf_syls[j].org) && *(heard+offs) )
+  {
+  strncat (buf, heard+offs, 1);
+  offs++;
+  }
+   }
+
    output = str_dup(buf);
    return(output);
 }
@@ -222,10 +222,10 @@ speak_kender( char *said )
    char *output = NULL;
    char heard[MAX_INPUT_LENGTH];
    int j, offs;
-   
+
    struct syllable {
-      char	org[10];
-      char	new[10];
+      char  org[10];
+      char  new[10];
    };
 
    struct syllable ken_syls[] = {
@@ -242,7 +242,7 @@ speak_kender( char *said )
       { "dwarf",  "dwarf" },
       { "elf",  "elf" },
       { "Elf",  "Elvinisti" },
-      { "fucking",  "fucking" }, 
+      { "fucking",  "fucking" },
       { "serapis",  "Serapis" },
       { "Serapis",  "Serapis" },
       { "kill",  "beligant" },
@@ -272,7 +272,7 @@ speak_kender( char *said )
       { "p", "ss" }, { "q", "d" }, { "r", "l" }, { "s", "r" }, { "t", "h" },
       { "u", "i" }, { "v", "z" }, { "w", "x" }, { "x", "n" }, { "y", "y" },
       { "z", "k" }, { "", "" }
-   };   
+   };
 
    strcpy(buf, "");
    strcpy(heard, said);
@@ -281,20 +281,20 @@ speak_kender( char *said )
 
    while (*(heard + offs)) {
       for (j = 0; *(ken_syls[j].org); j++)
-	 if (strncmp(ken_syls[j].org,heard+offs,strlen(ken_syls[j].org)) == 0) {
-	    strcat(buf, ken_syls[j].new);
-	    if (strlen(ken_syls[j].org))
-	       offs += strlen(ken_syls[j].org);
-	    else
-	       ++offs;
-	 }
-      if ( (!*ken_syls[j].org) && *(heard+offs) )
-	{
-	strncat (buf, heard+offs, 1);
-	offs++;
-	}
+   if (strncmp(ken_syls[j].org,heard+offs,strlen(ken_syls[j].org)) == 0) {
+      strcat(buf, ken_syls[j].new);
+      if (strlen(ken_syls[j].org))
+         offs += strlen(ken_syls[j].org);
+      else
+         ++offs;
    }
-  
+      if ( (!*ken_syls[j].org) && *(heard+offs) )
+  {
+  strncat (buf, heard+offs, 1);
+  offs++;
+  }
+   }
+
    output = str_dup(buf);
    return(output);
 }
@@ -305,10 +305,10 @@ speak_dwarven( char *said )
    char *output = NULL;
    char heard[MAX_INPUT_LENGTH];
    int j, offs;
-   
+
    struct syllable {
-      char	org[10];
-      char	new[10];
+      char  org[10];
+      char  new[10];
    };
 
    struct syllable dwa_syls[] = {
@@ -326,7 +326,7 @@ speak_dwarven( char *said )
       { "Dwarf",  "Dwarf" },
       { "elf",  "eli" },
       { "Elf",  "Eli" },
-      { "fucking",  "fucking" }, 
+      { "fucking",  "fucking" },
       { "serapis",  "Serapis" },
       { "Serapis",  "Serapis" },
       { "kill",  "k'ne"},
@@ -356,7 +356,7 @@ speak_dwarven( char *said )
       { "p", "'s" }, { "q", "d" }, { "r", "l" }, { "s", "r" }, { "t", "h" },
       { "u", "i" }, { "v", "z" }, { "w", "'" }, { "x", "n" }, { "y", "y" },
       { "z", "k" }, { "", "" }
-   };   
+   };
 
    strcpy(buf, "");
    strcpy(heard, said);
@@ -365,20 +365,20 @@ speak_dwarven( char *said )
 
    while (*(heard + offs)) {
       for (j = 0; *(dwa_syls[j].org); j++)
-	 if (strncmp(dwa_syls[j].org,heard+offs,strlen(dwa_syls[j].org)) == 0) {
-	    strcat(buf, dwa_syls[j].new);
-	    if (strlen(dwa_syls[j].org))
-	       offs += strlen(dwa_syls[j].org);
-	    else
-	       ++offs;
-	 }
-      if ( (!*dwa_syls[j].org) && *(heard+offs) )
-	{
-	strncat (buf, heard+offs, 1);
-	offs++;
-	}
+   if (strncmp(dwa_syls[j].org,heard+offs,strlen(dwa_syls[j].org)) == 0) {
+      strcat(buf, dwa_syls[j].new);
+      if (strlen(dwa_syls[j].org))
+         offs += strlen(dwa_syls[j].org);
+      else
+         ++offs;
    }
-  
+      if ( (!*dwa_syls[j].org) && *(heard+offs) )
+  {
+  strncat (buf, heard+offs, 1);
+  offs++;
+  }
+   }
+
    output = str_dup(buf);
    return(output);
 }
@@ -389,10 +389,10 @@ speak_minotaur( char *said )
    char *output = NULL;
    char heard[MAX_INPUT_LENGTH];
    int j, offs;
-   
+
    struct syllable {
-      char	org[10];
-      char	new[10];
+      char  org[10];
+      char  new[10];
    };
 
    struct syllable min_syls[] = {
@@ -409,7 +409,7 @@ speak_minotaur( char *said )
       { "dwarf",  "dwarf" },
       { "elf",  "elvinisti" },
       { "Elf",  "Elvinisti" },
-      { "fucking",  "fucking" }, 
+      { "fucking",  "fucking" },
       { "serapis",  "Serapis" },
       { "Serapis",  "Serapis" },
       { "kill",  "f'else" },
@@ -439,7 +439,7 @@ speak_minotaur( char *said )
       { "p", "ff" }, { "q", "d" }, { "r", "l" }, { "s", "r" }, { "t", "h" },
       { "u", "i" }, { "v", "z" }, { "w", "f" }, { "x", "n" }, { "y", "y" },
       { "z", "k" }, { "", "" }
-   };   
+   };
 
    strcpy(buf, "");
    strcpy(heard, said);
@@ -448,20 +448,20 @@ speak_minotaur( char *said )
 
    while (*(heard + offs)) {
       for (j = 0; *(min_syls[j].org); j++)
-	 if (strncmp(min_syls[j].org,heard+offs,strlen(min_syls[j].org)) == 0) {
-	    strcat(buf, min_syls[j].new);
-	    if (strlen(min_syls[j].org))
-	       offs += strlen(min_syls[j].org);
-	    else
-	       ++offs;
-	 }
-      if ( (!*min_syls[j].org) && *(heard+offs) )
-	{
-	strncat (buf, heard+offs, 1);
-	offs++;
-	}
+   if (strncmp(min_syls[j].org,heard+offs,strlen(min_syls[j].org)) == 0) {
+      strcat(buf, min_syls[j].new);
+      if (strlen(min_syls[j].org))
+         offs += strlen(min_syls[j].org);
+      else
+         ++offs;
    }
-  
+      if ( (!*min_syls[j].org) && *(heard+offs) )
+  {
+  strncat (buf, heard+offs, 1);
+  offs++;
+  }
+   }
+
    output = str_dup(buf);
    return(output);
 }
@@ -472,10 +472,10 @@ speak_ssaur( char *said )
    char *output = NULL;
    char heard[MAX_INPUT_LENGTH];
    int j, offs;
-   
+
    struct syllable {
-      char	org[10];
-      char	new[10];
+      char  org[10];
+      char  new[10];
    };
 
    struct syllable ssa_syls[] = {
@@ -492,7 +492,7 @@ speak_ssaur( char *said )
       { "dwarf",  "dwarf" },
       { "elf",  "elvinisti" },
       { "Elf",  "Elvinisti" },
-      { "fucking",  "fucking" }, 
+      { "fucking",  "fucking" },
       { "serapis",  "Serapis" },
       { "Serapis",  "Serapis" },
       { "kill",  "f'else" },
@@ -522,7 +522,7 @@ speak_ssaur( char *said )
       { "p", "ff" }, { "q", "d" }, { "r", "l" }, { "s", "r" }, { "t", "h" },
       { "u", "i" }, { "v", "z" }, { "w", "f" }, { "x", "n" }, { "y", "y" },
       { "z", "k" }, { "", "" }
-   };   
+   };
 
    strcpy(buf, "");
    strcpy(heard, said);
@@ -531,20 +531,20 @@ speak_ssaur( char *said )
 
    while (*(heard + offs)) {
       for (j = 0; *(ssa_syls[j].org); j++)
-	 if (strncmp(ssa_syls[j].org,heard+offs,strlen(ssa_syls[j].org)) == 0) {
-	    strcat(buf, ssa_syls[j].new);
-	    if (strlen(ssa_syls[j].org))
-	       offs += strlen(ssa_syls[j].org);
-	    else
-	       ++offs;
-	 }
-      if ( (!*ssa_syls[j].org) && *(heard+offs) )
-	{
-	strncat (buf, heard+offs, 1);
-	offs++;
-	}
+   if (strncmp(ssa_syls[j].org,heard+offs,strlen(ssa_syls[j].org)) == 0) {
+      strcat(buf, ssa_syls[j].new);
+      if (strlen(ssa_syls[j].org))
+         offs += strlen(ssa_syls[j].org);
+      else
+         ++offs;
    }
-  
+      if ( (!*ssa_syls[j].org) && *(heard+offs) )
+  {
+  strncat (buf, heard+offs, 1);
+  offs++;
+  }
+   }
+
    output = str_dup(buf);
    return(output);
 }
@@ -555,10 +555,10 @@ speak_human( char *said )
    char *output = NULL;
    char heard[MAX_INPUT_LENGTH];
    int j, offs;
-   
+
    struct syllable {
-      char	org[10];
-      char	new[10];
+      char  org[10];
+      char  new[10];
    };
 
    struct syllable hum_syls[] = {
@@ -575,7 +575,7 @@ speak_human( char *said )
       { "dwarf",  "dwarf" },
       { "elf",  "elvinisti" },
       { "Elf",  "Elvinisti" },
-      { "fucking",  "fucking" }, 
+      { "fucking",  "fucking" },
       { "serapis",  "Serapis" },
       { "Serapis",  "Serapis" },
       { "kill",  "todeth" },
@@ -605,7 +605,7 @@ speak_human( char *said )
       { "p", "s" }, { "q", "d" }, { "r", "l" }, { "s", "r" }, { "t", "th" },
       { "u", "i" }, { "v", "z" }, { "w", "x" }, { "x", "n" }, { "y", "y" },
       { "z", "k" }, { "", "" }
-   };   
+   };
 
    strcpy(buf, "");
    strcpy(heard, said);
@@ -614,64 +614,64 @@ speak_human( char *said )
 
    while (*(heard + offs)) {
       for (j = 0; *(hum_syls[j].org); j++)
-	 if (strncmp(hum_syls[j].org,heard+offs,strlen(hum_syls[j].org)) == 0) {
-	    strcat(buf, hum_syls[j].new);
-	    if (strlen(hum_syls[j].org))
-	       offs += strlen(hum_syls[j].org);
-	    else
-	       ++offs;
-	 }
-      if ( (!*hum_syls[j].org) && *(heard+offs) )
-	{
-	strncat (buf, heard+offs, 1);
-	offs++;
-	}
+   if (strncmp(hum_syls[j].org,heard+offs,strlen(hum_syls[j].org)) == 0) {
+      strcat(buf, hum_syls[j].new);
+      if (strlen(hum_syls[j].org))
+         offs += strlen(hum_syls[j].org);
+      else
+         ++offs;
    }
-  
+      if ( (!*hum_syls[j].org) && *(heard+offs) )
+  {
+  strncat (buf, heard+offs, 1);
+  offs++;
+  }
+   }
+
    output = str_dup(buf);
    return(output);
 }
 
 ACMD(do_race_say)
 {
-   int	i;
+   int  i;
    struct char_data *tch = NULL;
    char *race_speak = NULL;
 
    for (i = 0; *(argument + i) == ' '; i++)
       ;
- 
+
   /* check for stupid players */
-  if (GET_WIS(ch) == 0 || GET_INT(ch) == 0) 
+  if (GET_WIS(ch) == 0 || GET_INT(ch) == 0)
   {
     stc("You are too stupid to communicate with language!\r\n", ch);
     return;
   }
-   
+
   if (PLR_FLAGGED(ch, PLR_NOSHOUT))
   {
     stc("You cannot race-say!\r\n", ch);
     return;
   }
 
-   if (*(argument + i))    
+   if (*(argument + i))
    {
-   if (GET_RACE(ch) == RACE_RAKSHASA) 
-   	race_speak = speak_rakshasan(argument+i); 
-   else if (GET_RACE(ch) == RACE_ELF) 
-   	race_speak = speak_elven(argument+i); 
-   else if (GET_RACE(ch) == RACE_HUMAN) 
-   	race_speak = speak_human(argument+i); 
-   else if (GET_RACE(ch) == RACE_DWARF) 
-   	race_speak = speak_dwarven(argument+i); 
-   else if (GET_RACE(ch) == RACE_KENDER) 
-   	race_speak = speak_kender(argument+i); 
-   else if (GET_RACE(ch) == RACE_MINOTAUR) 
-   	race_speak = speak_minotaur(argument+i); 
-   else if (GET_RACE(ch) == RACE_SSAUR) 
-   	race_speak = speak_ssaur(argument+i); 
+   if (GET_RACE(ch) == RACE_RAKSHASA)
+     race_speak = speak_rakshasan(argument+i);
+   else if (GET_RACE(ch) == RACE_ELF)
+     race_speak = speak_elven(argument+i);
+   else if (GET_RACE(ch) == RACE_HUMAN)
+     race_speak = speak_human(argument+i);
+   else if (GET_RACE(ch) == RACE_DWARF)
+     race_speak = speak_dwarven(argument+i);
+   else if (GET_RACE(ch) == RACE_KENDER)
+     race_speak = speak_kender(argument+i);
+   else if (GET_RACE(ch) == RACE_MINOTAUR)
+     race_speak = speak_minotaur(argument+i);
+   else if (GET_RACE(ch) == RACE_SSAUR)
+     race_speak = speak_ssaur(argument+i);
    else
-	return;
+  return;
    }
 
    if (!*(argument + i))
@@ -679,76 +679,76 @@ ACMD(do_race_say)
    else
    {
     for (tch = world[ch->in_room].people; tch; tch = tch->next_in_room)
-      {               
-	if (GET_RACE(ch) != GET_RACE(tch) && GET_LEVEL(tch) < LVL_IMMORT &&
-	    !IS_NPC(tch))
-	  {
-	    switch ( argument[strlen(argument) - 1] )
-	      {
-	      case '!':
-		sprintf (buf,"%s exclaims, '%s'\r\n", GET_NAME(ch),race_speak);
-		break;
-	      case '?':
-		sprintf (buf, "%s asks, '%s'\r\n", GET_NAME(ch),race_speak);
-		break;
-	      case '.':
-		sprintf (buf, "%s states, '%s'\r\n", GET_NAME(ch),race_speak);
-		break;
-	      default:
-		sprintf(buf, "%s says, '%s'\r\n", GET_NAME(ch),race_speak);
-	      }
+      {
+  if (GET_RACE(ch) != GET_RACE(tch) && GET_LEVEL(tch) < LVL_IMMORT &&
+      !IS_NPC(tch))
+    {
+      switch ( argument[strlen(argument) - 1] )
+        {
+        case '!':
+    sprintf (buf,"%s exclaims, '%s'\r\n", GET_NAME(ch),race_speak);
+    break;
+        case '?':
+    sprintf (buf, "%s asks, '%s'\r\n", GET_NAME(ch),race_speak);
+    break;
+        case '.':
+    sprintf (buf, "%s states, '%s'\r\n", GET_NAME(ch),race_speak);
+    break;
+        default:
+    sprintf(buf, "%s says, '%s'\r\n", GET_NAME(ch),race_speak);
+        }
             if(AWAKE(tch))
-	      send_to_char(buf, tch);
-	  }
-	else
-	  {
-	    switch ( argument[strlen(argument) - 1] )
-	      { 
-	      case '!':
-		sprintf (buf, "%s exclaims, '(In %s) %s'\r\n",  
-			 GET_NAME(ch),races[GET_RACE(ch)], argument + i);
-		break;
-	      case '?':
-		sprintf (buf, "%s asks, '(In %s) %s'\r\n", 
-			 GET_NAME(ch),races[GET_RACE(ch)], argument + i);
-		break;
-	      case '.':
-		sprintf (buf, "%s states, '(In %s) %s'\r\n",
-			 GET_NAME(ch),races[GET_RACE(ch)], argument + i);
-		break;
-	      default:
-		sprintf(buf, "%s says, '(In %s) %s'\r\n", 
-			GET_NAME(ch),races[GET_RACE(ch)], argument + i);
-	      }
-	    if ((tch != ch) && (AWAKE(tch)))
-	      send_to_char(buf, tch);                              
-	  }
+        send_to_char(buf, tch);
+    }
+  else
+    {
+      switch ( argument[strlen(argument) - 1] )
+        {
+        case '!':
+    sprintf (buf, "%s exclaims, '(In %s) %s'\r\n",
+       GET_NAME(ch),races[GET_RACE(ch)], argument + i);
+    break;
+        case '?':
+    sprintf (buf, "%s asks, '(In %s) %s'\r\n",
+       GET_NAME(ch),races[GET_RACE(ch)], argument + i);
+    break;
+        case '.':
+    sprintf (buf, "%s states, '(In %s) %s'\r\n",
+       GET_NAME(ch),races[GET_RACE(ch)], argument + i);
+    break;
+        default:
+    sprintf(buf, "%s says, '(In %s) %s'\r\n",
+      GET_NAME(ch),races[GET_RACE(ch)], argument + i);
+        }
+      if ((tch != ch) && (AWAKE(tch)))
+        send_to_char(buf, tch);
+    }
       }
       if (!PRF_FLAGGED(ch, PRF_NOREPEAT))
       {
-	 switch ( argument[strlen(argument) - 1] )
-	   {
-	   case '!':
-	     sprintf (buf, "You exclaim, '(In %s) %s'\r\n",
-		      races[GET_RACE(ch)], argument + i);
-	     break;
-	   case '?':
-	     sprintf (buf, "You ask, '(In %s) %s'\r\n",
-		      races[GET_RACE(ch)], argument + i);
-	     break;
-	   case '.':
-	     sprintf (buf, "You state, '(In %s) %s'\r\n",
-		      races[GET_RACE(ch)], argument + i);
-	     break;
-	   default:
-	     sprintf(buf, "You say, '(In %s) %s'\r\n",
-		     races[GET_RACE(ch)], argument + i);
+   switch ( argument[strlen(argument) - 1] )
+     {
+     case '!':
+       sprintf (buf, "You exclaim, '(In %s) %s'\r\n",
+          races[GET_RACE(ch)], argument + i);
+       break;
+     case '?':
+       sprintf (buf, "You ask, '(In %s) %s'\r\n",
+          races[GET_RACE(ch)], argument + i);
+       break;
+     case '.':
+       sprintf (buf, "You state, '(In %s) %s'\r\n",
+          races[GET_RACE(ch)], argument + i);
+       break;
+     default:
+       sprintf(buf, "You say, '(In %s) %s'\r\n",
+         races[GET_RACE(ch)], argument + i);
 
-	   }
-	 send_to_char(buf, ch);
+     }
+   send_to_char(buf, ch);
       }
       else
-	send_to_char("Ok.\n\r", ch);
+  send_to_char("Ok.\n\r", ch);
   }
   if (race_speak)
     FREE(race_speak);
@@ -758,18 +758,18 @@ static char *speak_drunk( char *said );
 
 ACMD(do_say)
 {
-  int	i;
+  int  i;
   char *drunk_speak = NULL;
 
   for (i = 0; *(argument + i) == ' '; i++)
     ;
   /* check for stupid players */
-  if (GET_WIS(ch) == 0 || GET_INT(ch) == 0) 
+  if (GET_WIS(ch) == 0 || GET_INT(ch) == 0)
   {
     stc("You are too stupid to communicate with language!\r\n", ch);
     return;
   }
- 
+
   if (PLR_FLAGGED(ch, PLR_NOSHOUT))
   {
     stc("You cannot speak!\r\n", ch);
@@ -781,42 +781,42 @@ ACMD(do_say)
   else
     {
       if (GET_COND(ch, DRUNK)>10)
-   	drunk_speak = speak_drunk(argument+i); 
-	
+     drunk_speak = speak_drunk(argument+i);
+
       switch ( argument[strlen(argument) - 1] )
-	{
-	case '!': sprintf (buf, "$n exclaims, '%s'", 
-			   drunk_speak ? drunk_speak :argument + i);
-	break;
-	case '?': sprintf (buf, "$n asks, '%s'", 
-			   drunk_speak ? drunk_speak :argument + i);
-	break;
-	case '.': sprintf (buf, "$n states, '%s'", 
-			   drunk_speak ? drunk_speak :argument + i);
-	break;
-	default: sprintf(buf, "$n says, '%s'", 
-			 drunk_speak ? drunk_speak :argument + i);
-	}
+  {
+  case '!': sprintf (buf, "$n exclaims, '%s'",
+         drunk_speak ? drunk_speak :argument + i);
+  break;
+  case '?': sprintf (buf, "$n asks, '%s'",
+         drunk_speak ? drunk_speak :argument + i);
+  break;
+  case '.': sprintf (buf, "$n states, '%s'",
+         drunk_speak ? drunk_speak :argument + i);
+  break;
+  default: sprintf(buf, "$n says, '%s'",
+       drunk_speak ? drunk_speak :argument + i);
+  }
       delete_ansi_controls(buf);
       act(buf, FALSE, ch, 0, 0, TO_ROOM);
       if (drunk_speak)
-	FREE(drunk_speak);
+  FREE(drunk_speak);
       if (!PRF_FLAGGED(ch, PRF_NOREPEAT))
-	{
-	  switch ( argument[strlen(argument) - 1] )
-	    {
-	    case '!': sprintf (buf, "You exclaim '%s'\n\r", argument + i);
-	      break;
-	    case '?': sprintf (buf, "You ask '%s'\n\r", argument + i);
-	      break;
-	    case '.': sprintf (buf, "You state '%s'\n\r", argument + i);
-	      break;
-	    default: sprintf(buf, "You say '%s'\n\r", argument + i);
-	    }
+  {
+    switch ( argument[strlen(argument) - 1] )
+      {
+      case '!': sprintf (buf, "You exclaim '%s'\n\r", argument + i);
+        break;
+      case '?': sprintf (buf, "You ask '%s'\n\r", argument + i);
+        break;
+      case '.': sprintf (buf, "You state '%s'\n\r", argument + i);
+        break;
+      default: sprintf(buf, "You say '%s'\n\r", argument + i);
+      }
           delete_ansi_controls(buf);
-	  send_to_char(buf, ch);
-	} else
-	  send_to_char("Ok.\n\r", ch);
+    send_to_char(buf, ch);
+  } else
+    send_to_char("Ok.\n\r", ch);
     }
 }
 
@@ -847,15 +847,15 @@ ACMD(do_gsay)
      {
       send_to_char(CCWHT(k, C_CMP), k);
       act(buf, FALSE, ch, 0, k, TO_VICT | TO_SLEEP);
-      send_to_char(CCNRM(k, C_CMP), k);   
+      send_to_char(CCNRM(k, C_CMP), k);
      }
     for (f = k->followers; f; f = f->next)
       if (IS_AFFECTED(f->follower, AFF_GROUP) && (f->follower != ch))
-	{
- 	   send_to_char(CCWHT(f->follower, C_CMP), f->follower);
-  	   act(buf, FALSE, ch, 0, f->follower, TO_VICT | TO_SLEEP);
-    	   send_to_char(CCNRM(f->follower, C_CMP), f->follower);   
-	}
+  {
+      send_to_char(CCWHT(f->follower, C_CMP), f->follower);
+       act(buf, FALSE, ch, 0, f->follower, TO_VICT | TO_SLEEP);
+         send_to_char(CCNRM(f->follower, C_CMP), f->follower);
+  }
 
     if (PRF_FLAGGED(ch, PRF_NOREPEAT))
       send_to_char(OK, ch);
@@ -864,7 +864,7 @@ ACMD(do_gsay)
       delete_ansi_controls(buf);
       send_to_char(CCWHT(ch, C_SPR), ch);
       act(buf, FALSE, ch, 0, 0, TO_CHAR | TO_SLEEP);
-      send_to_char(CCNRM(ch, C_NRM), ch);   
+      send_to_char(CCNRM(ch, C_NRM), ch);
     }
   }
 }
@@ -918,11 +918,11 @@ ACMD(do_tell)
     stc("You cannot tell anyone anything!\r\n", ch);
   else if (ROOM_FLAGGED(ch->in_room, ROOM_SOUNDPROOF))
     send_to_char("The walls seem to absorb your words.\r\n", ch);
-  else if (!IS_NPC(vict) && !vict->desc)	/* linkless */
+  else if (!IS_NPC(vict) && !vict->desc)  /* linkless */
     act("$E's linkless at the moment.", FALSE, ch, 0, vict, TO_CHAR | TO_SLEEP);
   else if (PLR_FLAGGED(vict, PLR_WRITING))
     act("$E's writing a message right now; try again later.",
-	FALSE, ch, 0, vict, TO_CHAR | TO_SLEEP);
+  FALSE, ch, 0, vict, TO_CHAR | TO_SLEEP);
   else if ((PRF_FLAGGED(vict, PRF_NOTELL) || ROOM_FLAGGED(vict->in_room, ROOM_SOUNDPROOF))
            && (GET_LEVEL(ch) < LVL_IMMORT))
     act("$E can't hear you.", FALSE, ch, 0, vict, TO_CHAR | TO_SLEEP);
@@ -948,12 +948,12 @@ ACMD(do_reply)
      * a pointer, which is much better because it's safer, plus will still
      * work if someone logs out and back in again.
      */
-				     
+
     while ( (tch != NULL) &&
             (GET_IDNUM(tch) != GET_LAST_TELL(ch)) )
       tch = tch->next;
 
-    if ( tch == NULL ||(IS_NPC(tch) && (!tch->desc)) ) 
+    if ( tch == NULL ||(IS_NPC(tch) && (!tch->desc)) )
       send_to_char("They are no longer playing.\r\n", ch);
     else if (PLR_FLAGGED(tch, PLR_WRITING))
       send_to_char("They are writing now, try later.\r\n", ch);
@@ -963,7 +963,7 @@ ACMD(do_reply)
       stc("They can't hear you.\r\n", ch);
     else if (ROOM_FLAGGED(ch->in_room, ROOM_SOUNDPROOF))
       send_to_char("The walls seem to absorb your words.\r\n", ch);
-    else if (!IS_NPC(tch) && !tch->desc)	/* linkless */
+    else if (!IS_NPC(tch) && !tch->desc)  /* linkless */
       act("$E's linkless at the moment.", FALSE, ch, 0, tch, TO_CHAR | TO_SLEEP);
     else if (PRF_FLAGGED(tch, PRF_NOTELL) || ROOM_FLAGGED(tch->in_room, ROOM_SOUNDPROOF))
       act("$E can't hear you.", FALSE, ch, 0, tch, TO_CHAR | TO_SLEEP);
@@ -977,7 +977,7 @@ ACMD(do_spec_comm)
 {
   struct char_data *vict;
   char *action_sing, *action_plur, *action_others;
-  
+
   if (PLR_FLAGGED(ch, PLR_NOSHOUT))
   {
     stc("Sorry, you cannot do that.\r\n", ch);
@@ -1019,7 +1019,7 @@ ACMD(do_spec_comm)
 
 
 
-#define MAX_NOTE_LENGTH 1000	/* arbitrary */
+#define MAX_NOTE_LENGTH 1000  /* arbitrary */
 
 ACMD(do_write)
 {
@@ -1040,11 +1040,11 @@ ACMD(do_write)
     return;
   }
 
-  if (!*papername) {		/* nothing was delivered */
+  if (!*papername) {    /* nothing was delivered */
     send_to_char("Write?  With what?  ON what?  What are you trying to do?!?\r\n", ch);
     return;
   }
-  if (*penname) {		/* there were two arguments */
+  if (*penname) {    /* there were two arguments */
     if (!(paper = get_obj_in_list_vis(ch, papername, ch->carrying))) {
       sprintf(buf, "You have no %s.\r\n", papername);
       send_to_char(buf, ch);
@@ -1055,13 +1055,13 @@ ACMD(do_write)
       send_to_char(buf, ch);
       return;
     }
-  } else {		/* there was one arg.. let's see what we can find */
+  } else {    /* there was one arg.. let's see what we can find */
     if (!(paper = get_obj_in_list_vis(ch, papername, ch->carrying))) {
       sprintf(buf, "There is no %s in your inventory.\r\n", papername);
       send_to_char(buf, ch);
       return;
     }
-    if (GET_OBJ_TYPE(paper) == ITEM_PEN) {	/* oops, a pen.. */
+    if (GET_OBJ_TYPE(paper) == ITEM_PEN) {  /* oops, a pen.. */
       pen = paper;
       paper = 0;
     } else if (GET_OBJ_TYPE(paper) != ITEM_NOTE) {
@@ -1071,7 +1071,7 @@ ACMD(do_write)
     /* One object was found.. now for the other one. */
     if (!GET_EQ(ch, WEAR_HOLD)) {
       sprintf(buf, "You can't write with %s %s alone.\r\n", AN(papername),
-	      papername);
+        papername);
       send_to_char(buf, ch);
       return;
     }
@@ -1119,19 +1119,19 @@ ACMD(do_page)
     sprintf(buf, "\007\007*%s* %s\r\n", GET_NAME(ch), buf2);
     if (!str_cmp(arg, "all")) {
       if (GET_LEVEL(ch) > LVL_GOD) {
-	for (d = descriptor_list; d; d = d->next)
-	  if (!d->connected && d->character)
-	    act(buf, FALSE, ch, 0, d->character, TO_VICT);
+  for (d = descriptor_list; d; d = d->next)
+    if (!d->connected && d->character)
+      act(buf, FALSE, ch, 0, d->character, TO_VICT);
       } else
-	send_to_char("You will never be godly enough to do that!\r\n", ch);
+  send_to_char("You will never be godly enough to do that!\r\n", ch);
       return;
     }
     if (((tch = get_char_vis(ch, arg)) != NULL) && !IS_NPC(tch) && tch->desc) {
       act(buf, FALSE, ch, 0, tch, TO_VICT);
       if (PRF_FLAGGED(ch, PRF_NOREPEAT))
-	send_to_char(OK, ch);
+  send_to_char(OK, ch);
       else
-	act(buf, FALSE, ch, 0, tch, TO_CHAR);
+  act(buf, FALSE, ch, 0, tch, TO_CHAR);
       return;
     } else
       send_to_char("There is no such person in the game!\r\n", ch);
@@ -1215,7 +1215,7 @@ ACMD(do_gen_comm)
   if (GET_LEVEL(ch) < level_can_shout && subcmd != SCMD_NEWBIE)
     {
       sprintf(buf1, "You must be at least level %d before you can %s.\r\n",
-	      level_can_shout, com_msgs[subcmd][1]);
+        level_can_shout, com_msgs[subcmd][1]);
       send_to_char(buf1, ch);
       return;
     }
@@ -1223,7 +1223,7 @@ ACMD(do_gen_comm)
   if (GET_WIS(ch) == 0 || GET_INT(ch) == 0)
     {
       send_to_char ("You are too stupid to communicate with language!\r\n",
-		    ch);
+        ch);
       return;
     }
   /* make sure the char is on the channel */
@@ -1239,19 +1239,19 @@ ACMD(do_gen_comm)
   if (!*argument)
     {
       sprintf(buf1, "Yes, %s, fine, %s we must, but WHAT???\r\n",
-	      com_msgs[subcmd][1], com_msgs[subcmd][1]);
+        com_msgs[subcmd][1], com_msgs[subcmd][1]);
       send_to_char(buf1, ch);
       return;
     }
   if (subcmd == SCMD_HOLLER)
     {
       if (GET_MOVE(ch) < holler_move_cost)
-	{
-	  send_to_char("You're too exhausted to holler.\r\n", ch);
-	  return;
-	}
+  {
+    send_to_char("You're too exhausted to holler.\r\n", ch);
+    return;
+  }
       else
-	GET_MOVE(ch) -= holler_move_cost;
+  GET_MOVE(ch) -= holler_move_cost;
     }
   /* set up the color on code */
   strcpy(color_on, com_msgs[subcmd][3]);
@@ -1262,10 +1262,10 @@ ACMD(do_gen_comm)
   else
     {
       if (COLOR_LEV(ch) >= C_CMP)
-	sprintf(buf1, "%sYou %s, '%s'%s", color_on, com_msgs[subcmd][1],
-		argument, KNRM);
+  sprintf(buf1, "%sYou %s, '%s'%s", color_on, com_msgs[subcmd][1],
+    argument, KNRM);
       else
-	sprintf(buf1, "You %s, '%s'", com_msgs[subcmd][1], argument);
+  sprintf(buf1, "You %s, '%s'", com_msgs[subcmd][1], argument);
       delete_ansi_controls(buf1);
       act(buf1, FALSE, ch, 0, 0, TO_CHAR | TO_SLEEP);
     }
@@ -1279,21 +1279,21 @@ ACMD(do_gen_comm)
   for (i = descriptor_list; i; i = i->next)
     {
       if (!i->connected && i != ch->desc && i->character &&
-	  !PRF_FLAGGED(i->character, channels[subcmd]) &&
-	  !PLR_FLAGGED(i->character, PLR_WRITING) &&
-	  !ROOM_FLAGGED(i->character->in_room, ROOM_SOUNDPROOF))
-	{
-	  if (subcmd == SCMD_SHOUT &&
-	      ((world[ch->in_room].zone != world[i->character->in_room].zone)
-	       || GET_POS(i->character) < POS_RESTING) )
-	    continue;
+    !PRF_FLAGGED(i->character, channels[subcmd]) &&
+    !PLR_FLAGGED(i->character, PLR_WRITING) &&
+    !ROOM_FLAGGED(i->character->in_room, ROOM_SOUNDPROOF))
+  {
+    if (subcmd == SCMD_SHOUT &&
+        ((world[ch->in_room].zone != world[i->character->in_room].zone)
+         || GET_POS(i->character) < POS_RESTING) )
+      continue;
 
-	  if (COLOR_LEV(i->character) >= C_NRM)
-	    send_to_char(color_on, i->character);
-	  act(buf, FALSE, ch, 0, i->character, TO_VICT | TO_SLEEP);
-	  if (COLOR_LEV(i->character) >= C_NRM)
-	    send_to_char(KNRM, i->character);
-	}
+    if (COLOR_LEV(i->character) >= C_NRM)
+      send_to_char(color_on, i->character);
+    act(buf, FALSE, ch, 0, i->character, TO_VICT | TO_SLEEP);
+    if (COLOR_LEV(i->character) >= C_NRM)
+      send_to_char(KNRM, i->character);
+  }
     }
 }
 
@@ -1312,14 +1312,14 @@ ACMD(do_qcomm)
   {
     stc("You cannot quest-say!\r\n", ch);
     return;
-  }  
+  }
 
   skip_spaces(&argument);
 
   if (!*argument)
     {
       sprintf(buf, "%s?  Yes, fine, %s we must, but WHAT??\r\n", CMD_NAME,
-	      CMD_NAME);
+        CMD_NAME);
       CAP(buf);
       send_to_char(buf, ch);
     }
@@ -1327,34 +1327,34 @@ ACMD(do_qcomm)
     {
       delete_ansi_controls(argument);
       if (PRF_FLAGGED(ch, PRF_NOREPEAT))
-	send_to_char(OK, ch);
+  send_to_char(OK, ch);
       else
-	{
-	  if (subcmd == SCMD_QSAY)
-	    sprintf(buf, "&WYou quest-say, '%s'&n", argument);
-	  else
-	    strcpy(buf, argument);
-	  act(buf, FALSE, ch, 0, argument, TO_CHAR);
-	}
+  {
+    if (subcmd == SCMD_QSAY)
+      sprintf(buf, "&WYou quest-say, '%s'&n", argument);
+    else
+      strcpy(buf, argument);
+    act(buf, FALSE, ch, 0, argument, TO_CHAR);
+  }
 
       if (subcmd == SCMD_QSAY)
-	sprintf(buf, "&W$n quest-says, '%s'&n", argument);
+  sprintf(buf, "&W$n quest-says, '%s'&n", argument);
       else
-	strcpy(buf, argument);
+  strcpy(buf, argument);
 
       for (i = descriptor_list; i; i = i->next)
-	if (!i->connected && i != ch->desc && !PLR_FLAGGED(i->character, PLR_WRITING) &&
-	    PRF_FLAGGED(i->character, PRF_QUEST))
+  if (!i->connected && i != ch->desc && !PLR_FLAGGED(i->character, PLR_WRITING) &&
+      PRF_FLAGGED(i->character, PRF_QUEST))
           {
-	    act(buf, 0, ch, 0, i->character, TO_VICT | TO_SLEEP);
+      act(buf, 0, ch, 0, i->character, TO_VICT | TO_SLEEP);
           }
     }
 }
 
 
- 
+
 ACMD(do_think)
-{ 
+{
   int  i;
   for (i = 0; *(argument + i) == ' '; i++)
     ;
@@ -1376,12 +1376,12 @@ ACMD(do_think)
       delete_ansi_controls(buf);
       act(buf, FALSE, ch, 0, 0, TO_ROOM);
       if (!PRF_FLAGGED(ch, PRF_NOREPEAT))
-	{
-	  sprintf(buf, "You think . o O ( %s )\n\r", argument + i);
-	  send_to_char(buf, ch);
-	}
+  {
+    sprintf(buf, "You think . o O ( %s )\n\r", argument + i);
+    send_to_char(buf, ch);
+  }
       else
-	send_to_char("Ok.\n\r", ch);
+  send_to_char("Ok.\n\r", ch);
     }
 }
 
@@ -1391,10 +1391,10 @@ speak_drunk( char *said )
    char *output = NULL;
    char heard[MAX_INPUT_LENGTH];
    int j, offs;
-   
+
    struct syllable {
-      char	org[10];
-      char	new[10];
+      char  org[10];
+      char  new[10];
    };
 
    struct syllable drunk_syls[] = {
@@ -1420,7 +1420,7 @@ speak_drunk( char *said )
       { "p", "p" }, { "q", "q" }, { "r", "r" }, { "s", "sh" }, { "t", "th" },
       { "u", "u" }, { "v", "v" }, { "w", "w" }, { "x", "x" }, { "y", "y" },
       { "z", "z" }, { "", "" }
-   };   
+   };
 
    strcpy(buf, "");
    strcpy(heard, said);
@@ -1429,21 +1429,21 @@ speak_drunk( char *said )
 
    while (*(heard + offs)) {
       for (j = 0; *(drunk_syls[j].org); j++)
-	 if (strncmp(drunk_syls[j].org,
-		     heard+offs,strlen(drunk_syls[j].org)) == 0) {
-	    strcat(buf, drunk_syls[j].new);
-	    if (strlen(drunk_syls[j].org))
-	       offs += strlen(drunk_syls[j].org);
-	    else
-	       ++offs;
-	 }
-      if ( (!*drunk_syls[j].org) && *(heard+offs) )
-	{
-	strncat (buf, heard+offs, 1);
-	offs++;
-	}
+   if (strncmp(drunk_syls[j].org,
+         heard+offs,strlen(drunk_syls[j].org)) == 0) {
+      strcat(buf, drunk_syls[j].new);
+      if (strlen(drunk_syls[j].org))
+         offs += strlen(drunk_syls[j].org);
+      else
+         ++offs;
    }
-  
+      if ( (!*drunk_syls[j].org) && *(heard+offs) )
+  {
+  strncat (buf, heard+offs, 1);
+  offs++;
+  }
+   }
+
    output = str_dup(buf);
    return(output);
 }
@@ -1455,7 +1455,7 @@ ACMD (do_ctell)
   char level_string[6]="\0\0\0\0\0\0";
 
   skip_spaces (&argument);
-  
+
   /*
    * The syntax of ctell for imms is different then for morts
    * mort: ctell <bla bla bla>    imms: ctell <clan_num> <bla bla bla>
@@ -1465,12 +1465,12 @@ ACMD (do_ctell)
     {
       c = atoi (argument);
       if ((c <= 0) || (c > num_of_clans))
-	{
-	  send_to_char ("There is no clan with that number.\r\n", ch);
-	  return;
-	}
+  {
+    send_to_char ("There is no clan with that number.\r\n", ch);
+    return;
+  }
       while ((*argument != ' ') && (*argument != '\0'))
-	argument++;
+  argument++;
       while (*argument == ' ') argument++;
     }
   else if((c=GET_CLAN(ch))==0 || GET_CLAN_RANK(ch)==0)
@@ -1478,7 +1478,7 @@ ACMD (do_ctell)
       send_to_char ("You're not part of a clan.\r\n", ch);
       return;
     }
-  
+
   if (PRF_FLAGGED(ch, PRF_NOCTELL))
     {
       stc("You aren't currently on your clan channel.\r\n", ch);
@@ -1492,7 +1492,7 @@ ACMD (do_ctell)
   }
 
   skip_spaces (&argument);
-  
+
   if (!*argument){
     send_to_char ("What do you want to tell your clan?\r\n", ch);
     return;
@@ -1501,7 +1501,7 @@ ACMD (do_ctell)
   if (*argument == '#')
     {
       one_argument(argument + 1, buf1);
-      
+
       if (!is_number(buf1))
       {
         stc("Try entering in a number.\r\n", ch);
@@ -1511,11 +1511,11 @@ ACMD (do_ctell)
       half_chop(argument+1, buf1, argument);
       minlev = atoi (buf1);
       if (minlev > clan[c].ranks)
-	{
-	  send_to_char ("No one has a clan rank high enough to hear you!\r\n", ch);
-	  return;
-	}
-      
+  {
+    send_to_char ("No one has a clan rank high enough to hear you!\r\n", ch);
+    return;
+  }
+
       skip_spaces(&argument);
       if (!*argument)
       {
@@ -1524,7 +1524,7 @@ ACMD (do_ctell)
       }
       sprintf (level_string, " (%d) ", minlev);
     }
-  
+
   if (PRF_FLAGGED(ch,PRF_NOREPEAT)) {
     sprintf (buf1, OK);
     send_to_char (buf1, ch);
@@ -1532,7 +1532,7 @@ ACMD (do_ctell)
   else {
     sprintf (buf1, "You tell your clan%s, '%s'\r\n",level_string, argument);
     delete_ansi_controls(buf1);
-    stc(CCCYN(ch, C_CMP), ch);                
+    stc(CCCYN(ch, C_CMP), ch);
     stc(buf1, ch);
     stc(CCNRM(ch, C_CMP), ch);
   }
@@ -1541,28 +1541,26 @@ ACMD (do_ctell)
     {
      if (!i->connected) {
       if (i->character->player_specials->saved.clan == c)
-	{
-	  if (i->character->player_specials->saved.clan_rank >= minlev)
-	    {
-	      if (strcmp (i->character->player.name, ch->player.name))
-		{
-                if (!PRF_FLAGGED(i->character, PRF_NOCTELL)) 
+  {
+    if (i->character->player_specials->saved.clan_rank >= minlev)
+      {
+        if (strcmp (i->character->player.name, ch->player.name))
+    {
+                if (!PRF_FLAGGED(i->character, PRF_NOCTELL))
                   {
-		  sprintf (buf, "%s tells your clan%s, '%s'\r\n",
-			   (!CAN_SEE(i->character, ch) ?
-			    "Someone" : ch->player.name),
-			   level_string, argument);
+      sprintf (buf, "%s tells your clan%s, '%s'\r\n",
+         (!CAN_SEE(i->character, ch) ?
+          "Someone" : ch->player.name),
+         level_string, argument);
                   delete_ansi_controls(buf);
-		  stc(CCCYN(i->character, C_CMP), i->character); 
+      stc(CCCYN(i->character, C_CMP), i->character);
                   stc(buf, i->character);
                   stc(CCNRM(i->character, C_CMP),i->character);
                  }
-		}
-	    }
-	}
+    }
+      }
+  }
     }
   }
   return;
-}  
-
-
+}

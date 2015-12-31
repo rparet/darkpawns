@@ -38,7 +38,7 @@ write_poofs(struct char_data *ch)
    */
   strcpy(default_poofin, "rides in on your mom.");
   strcpy(default_poofout, "rides out on your mom.");
-  
+
   get_filename(GET_NAME(ch), fn, POOF_FILE);
   unlink(fn);
   if( !poofin && !poofout )
@@ -49,35 +49,35 @@ write_poofs(struct char_data *ch)
   if( poofin )
   {
     length = strlen(poofin);
-    fprintf(file,"%d\n",length); 
+    fprintf(file,"%d\n",length);
     fprintf(file,"%s\n",poofin);
   }
   else
     {
       length = strlen(default_poofin);
-      fprintf(file,"%d\n",length); 
+      fprintf(file,"%d\n",length);
       fprintf(file,"%s\n",default_poofin);
     }
-  
+
   if( poofout )
   {
     length = strlen(poofout);
-    fprintf(file,"%d\n",length); 
+    fprintf(file,"%d\n",length);
     fprintf(file,"%s\n",poofout);
   }
   else
     {
       length = strlen(default_poofout);
-      fprintf(file,"%d\n",length); 
+      fprintf(file,"%d\n",length);
       fprintf(file,"%s\n",default_poofout);
     }
-  
+
   fclose(file);
 }
 
 void
 read_poofs(struct char_data *ch)
-{   
+{
   FILE *file;
   char fn[127];
   int length;
@@ -89,14 +89,14 @@ read_poofs(struct char_data *ch)
 
   if( !file )
     return;
- 
+
   fscanf (file,"%d\n",&length);
   fgets (buf,length+1,file);
   POOFIN(ch) = str_dup(buf);
   fscanf (file,"%d\n",&length);
   fgets (buf,length+1,file);
-  POOFOUT(ch) = str_dup(buf); 
-  
+  POOFOUT(ch) = str_dup(buf);
+
   fclose(file);
-} 
+}
 

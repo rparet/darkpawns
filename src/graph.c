@@ -51,7 +51,7 @@ extern int top_of_world;
 extern const int rev_dir[];
 extern const char *dirs[];
 extern struct room_data *world;
-extern void improve_skill(struct char_data *ch, int skill_num);    
+extern void improve_skill(struct char_data *ch, int skill_num);
 
 struct bfs_queue_struct {
   int room;
@@ -213,7 +213,7 @@ ACMD(do_track)
     return;
   }
 
-  if (!IS_NPC(vict) && GET_SKILL(vict, SKILL_EVASION)) 
+  if (!IS_NPC(vict) && GET_SKILL(vict, SKILL_EVASION))
     if (number(1, 151) <= GET_SKILL(vict, SKILL_EVASION)) {
       send_to_char("You sense no trail.\r\n", ch);
       return;
@@ -221,7 +221,7 @@ ACMD(do_track)
 
   dir = find_first_step(ch->in_room, vict->in_room);
 
-  switch (dir) 
+  switch (dir)
   {
     case BFS_ERROR:
       send_to_char("Hmm.. something seems to be wrong.\r\n", ch);
@@ -242,11 +242,11 @@ ACMD(do_track)
       {
         do {
           dir = number(0, NUM_OF_DIRS - 1);
-        } while (!CAN_GO(ch, dir) && --tries); 
-      } 
+        } while (!CAN_GO(ch, dir) && --tries);
+      }
       else
-       improve_skill(ch, SKILL_TRACK); 
-  
+       improve_skill(ch, SKILL_TRACK);
+
       if (CAN_GO(ch, dir))
         sprintf(buf, "You sense a trail %s from here!\r\n", dirs[dir]);
       else
@@ -258,7 +258,7 @@ ACMD(do_track)
 }
 
 
-void 
+void
 hunt_victim(struct char_data * ch)
 {
   ACMD(do_say);
@@ -276,7 +276,7 @@ hunt_victim(struct char_data * ch)
     if (HUNTING(ch) == tmp)
       found = 1;
 
-  if (!found) 
+  if (!found)
   {
     if (can_speak(ch))
       do_say(ch, "Damn!  My prey is gone!!", 0, 0);
@@ -302,7 +302,7 @@ hunt_victim(struct char_data * ch)
        ROOM_FLAGGED( (HUNTING(ch))->in_room, ROOM_HOUSE) )
      return;
 
-  if (dir < 0) 
+  if (dir < 0)
   {
     if(dir == BFS_ALREADY_THERE)
     {
@@ -314,11 +314,11 @@ hunt_victim(struct char_data * ch)
     }
     set_hunting(ch, NULL);
     return;
-  } 
-  else 
+  }
+  else
   {
-    if (IS_SET(EXIT(ch, dir)->exit_info, EX_CLOSED) && is_intelligent(ch)) 
-      if (EXIT(ch, dir)->keyword) 
+    if (IS_SET(EXIT(ch, dir)->exit_info, EX_CLOSED) && is_intelligent(ch))
+      if (EXIT(ch, dir)->keyword)
 	{
 	   char mybuf[20];
 	   char mybuf2[80];
@@ -379,7 +379,7 @@ hunt_victim(struct char_data * ch)
 	case 7: sprintf(msg, "%s Come out and fight!", GET_NAME(HUNTING(ch)));
 		do_tell (ch, msg, 0, 0);
 		break;
-        case 8: sprintf(msg, "%s Watch out! Here I come to get you!", 
+        case 8: sprintf(msg, "%s Watch out! Here I come to get you!",
                  GET_NAME(HUNTING(ch)));
                 do_tell(ch, msg, 0, 0);
                 break;

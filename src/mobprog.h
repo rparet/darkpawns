@@ -28,7 +28,7 @@
 #define IS_JANITOR(ch)   ((GET_MOB_VNUM((ch)) == 8061))
 
 /* blacksmith can make things into other things... ie dragon scales
-   into dragon scale armor... for a price 
+   into dragon scale armor... for a price
 */
 #define IS_DEMON(ch) ((GET_MOB_VNUM((ch)) == 14401))
 

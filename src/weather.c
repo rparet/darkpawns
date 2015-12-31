@@ -46,7 +46,7 @@ another_hour(int mode)
   void remove_night_gate(void);
   void ghost_ship_appear(void);
   void ghost_ship_disappear(void);
-  
+
   time_info.hours++;
 
   if (mode)

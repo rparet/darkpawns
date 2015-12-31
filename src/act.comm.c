@@ -1526,7 +1526,7 @@ ACMD (do_ctell)
     }
 
   if (PRF_FLAGGED(ch,PRF_NOREPEAT)) {
-    sprintf (buf1, OK);
+    sprintf (buf1, "%s", OK);
     send_to_char (buf1, ch);
   }
   else {

@@ -1384,15 +1384,15 @@ static int lua_set_skill(lua_State *L)
 
 static int lua_skip_spaces(lua_State *L)
 {
-  char *text;
-
-  if (lua_isstring(L, 1)) {
+  if (lua_isstring(L, 1))
+  {
+    char *text;
     text = (char *)lua_tostring(L, 1);
     skip_spaces(&text);
+    lua_pushstring(L, text);
   } else
     mudlog("[Lua] Invalid argument passed to lua_skip_spaces.", BRF, LVL_IMMORT, FALSE);
 
-  lua_pushstring(L, text);
   return 1;
 }
 

@@ -387,7 +387,7 @@ boot_db(void)
       sprintf(buf2, "Resetting %s (rooms %d-%d).",
           zone_table[i].name, (i ? (zone_table[i - 1].top + 1) : 0),
           zone_table[i].top);
-      log(buf2);
+      log("%s", buf2);
       reset_zone(i);
     }
 
@@ -433,7 +433,7 @@ reset_time(void)
 
   sprintf(buf, "   Current Gametime: %dH %dD %dM %dY.", time_info.hours,
       time_info.day, time_info.month, time_info.year);
-  log(buf);
+  log("%s", buf);
 
   time_info.moon = MOON_THREE_EMPTY;
   if (time_info.day < 33) time_info.moon = MOON_HALF_EMPTY;
@@ -500,7 +500,7 @@ build_player_index(void)
   if (recs)
     {
       sprintf(buf, "   %ld players in database.", recs);
-      log(buf);
+      log("%s", buf);
       CREATE(player_table, struct player_index_element, recs);
     }
   else
@@ -1287,8 +1287,8 @@ parse_mobile(FILE * mob_f, int nr)
   if (!mob_proto[i].player.name)
   {
     char mybuf[80];
-    sprintf(mybuf,"SYSERR:Error at mob %d.", nr);
-        log(mybuf);
+    sprintf(mybuf, "SYSERR:Error at mob %d.", nr);
+    log("%s", mybuf);
     mob_proto[i].player.name = str_dup("bug");
   }
   tmpptr = mob_proto[i].player.short_descr = fread_string(mob_f, buf2);
@@ -1732,7 +1732,7 @@ read_mobile(int nr, int type)
       if ((i = real_mobile(nr)) < 0)
     {
       sprintf(buf, "Mobile (V) %d does not exist in database.", nr);
-      log(buf);
+      log("%s", buf);
           return (0);
     }
     }
@@ -1937,7 +1937,7 @@ struct obj_data *read_object(int nr, int type)
    if (type == VIRTUAL) {
       if ((i = real_object(nr)) < 0) {
       sprintf(buf, "Object (V) %d does not exist in database.", nr);
-      log(buf);
+      log("%s", buf);
           return NULL;
       }
    }
@@ -2721,7 +2721,7 @@ fread_string(FILE * fl, char *error)
     if (length + templength >= MAX_STRING_LENGTH)
       {
     log("SYSERR: fread_string: string too large (db.c)");
-    log(error);
+    log("%s", error);
     exit(1);
       }
     else
@@ -2916,7 +2916,7 @@ file_to_string(char *name, char *buf)
       {
         sprintf(buf, "SYSERR: %s: string too big (%d max)", name,
             MAX_STRING_LENGTH);
-        log(buf);
+        log("%s", buf);
         *buf = '\0';
         return -1;
       }
@@ -3217,5 +3217,3 @@ read_mud_date_from_file(void)
 
   fclose(f);
 }
-
-

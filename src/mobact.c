@@ -84,7 +84,7 @@ void mobile_activity(void)
       if (mob_index[GET_MOB_RNUM(ch)].func == NULL) {
     sprintf(buf, "%s (#%d): Attempting to call non-existing mob func",
         GET_NAME(ch), GET_MOB_VNUM(ch));
-    log(buf);
+    log("%s", buf);
     REMOVE_BIT_AR(MOB_FLAGS(ch), MOB_SPEC);
       } else {
     if ((mob_index[GET_MOB_RNUM(ch)].func) (ch, ch, 0, ""))

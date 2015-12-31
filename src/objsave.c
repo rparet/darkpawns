@@ -79,17 +79,10 @@ struct obj_data *Obj_from_store_to(struct obj_file_elem object, int *locate)
     for (j = 0; j < MAX_OBJ_AFFECT; j++)
       obj->affected[j] = object.affected[j];
 
-  /* do_string stuff */
-    if (object.name != NULL)
-      obj->name = str_dup (object.name);
 
-    if (object.desc != NULL)
-      obj->description = str_dup(object.desc);
-
-    if (object.shortd != NULL)
-      obj->short_description = str_dup(object.shortd);
-  /*****end do_string stuff*****/
-
+    obj->name = str_dup(object.name);
+    obj->description = str_dup(object.desc);
+    obj->short_description = str_dup(object.shortd);
 
     return obj;
   } else
@@ -251,7 +244,7 @@ Crash_clean_file(char *name)
     break;
       }
       sprintf(buf, "    Deleting %s's %s file.", name, filetype);
-      log(buf);
+      log("%s", buf);
       return 1;
     }
     /* Must retrieve rented items w/in 30 days */
@@ -259,7 +252,7 @@ Crash_clean_file(char *name)
     if (rent.time < time(0) - (rent_file_timeout * SECS_PER_REAL_DAY)) {
       Crash_delete_file(name);
       sprintf(buf, "    Deleting %s's rent file.", name);
-      log(buf);
+      log("%s", buf);
       return 1;
     }
   return (0);

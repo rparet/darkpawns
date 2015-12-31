@@ -50,7 +50,7 @@ void ASSIGNMOB(int mob, SPECIAL(fname))
   else if (!mini_mud) {
     sprintf(buf, "SYSERR: Attempt to assign spec to non-existant mob #%d",
         mob);
-    log(buf);
+    log("%s", buf);
   }
 }
 
@@ -61,7 +61,7 @@ void ASSIGNOBJ(int obj, SPECIAL(fname))
   else if (!mini_mud) {
     sprintf(buf, "SYSERR: Attempt to assign spec to non-existant obj #%d",
         obj);
-    log(buf);
+    log("%s", buf);
   }
 }
 
@@ -72,7 +72,7 @@ void ASSIGNROOM(int room, SPECIAL(fname))
   else if (!mini_mud) {
     sprintf(buf, "SYSERR: Attempt to assign spec to non-existant rm. #%d",
         room);
-    log(buf);
+    log("%s", buf);
   }
 }
 

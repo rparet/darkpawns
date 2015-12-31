@@ -271,7 +271,7 @@ void aff_apply_modify(struct char_data *ch, byte loc, sbyte mod, char *msg)
 
      default:           sprintf(buf, "SYSERR: Unknown apply (%d) adjust "
                                 "attempt (handler.c, %s).", loc, msg);
-                        log(buf);
+                        log("%s", buf);
                         break;
    } /* switch */
 }
@@ -687,7 +687,7 @@ void equip_char(struct char_data * ch, struct obj_data * obj, int pos)
   if (GET_EQ(ch, pos)) {
     sprintf(buf, "SYSERR: Char is already equipped: %s, %s", GET_NAME(ch),
       obj->short_description);
-    log(buf);
+    log("%s", buf);
     return;
   }
   if (obj->carried_by) {

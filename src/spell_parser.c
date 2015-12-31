@@ -532,7 +532,7 @@ int call_magic(struct char_data * caster, struct char_data * cvict,
     sprintf (buf, "SYSERR: Unknown spellnum %d in manual assign",
          spellnum);
         mudlog(buf, BRF, LVL_GOD, TRUE);
-    log(buf);
+    log("%s", buf);
       }
 
   return 1;
@@ -832,7 +832,7 @@ int cast_spell(struct char_data * ch, struct char_data * tch,
   if (spellnum < 0 || spellnum > TOP_SPELL_DEFINE)
     {
       sprintf(buf, "SYSERR: cast_spell trying to call spellnum %d\n", spellnum);
-      log(buf);
+      log("%s", buf);
       return 0;
     }
 
@@ -1121,21 +1121,21 @@ void spell_level(int spell, int class, int level)
 
   if (spell < 0 || spell > TOP_SPELL_DEFINE) {
     sprintf(buf, "SYSERR: attempting assign to illegal spellnum %d", spell);
-    log(buf);
+    log("%s", buf);
     return;
   }
 
   if (class < 0 || class >= NUM_CLASSES) {
     sprintf(buf, "SYSERR: assigning '%s' to illegal class %d",
         skill_name(spell), class);
-    log(buf);
+    log("%s", buf);
     bad = 1;
   }
 
   if (level < 1 || level > LVL_IMPL) {
     sprintf(buf, "SYSERR: assigning '%s' to illegal level %d",
         skill_name(spell), level);
-    log(buf);
+    log("%s", buf);
     bad = 1;
   }
 
@@ -1624,4 +1624,3 @@ void mag_assign_spells(void)
   skillo(SKILL_AMBUSH);
   skillo(SKILL_SCOUT);
 }
-

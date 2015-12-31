@@ -238,7 +238,7 @@ int dp_main(int argc, char *argv[])
     exit(1);
   }
   sprintf(buf, "Using %s as data directory.", dir);
-  log(buf);
+  log("%s", buf);
 
   if (scheck) {
     boot_world();
@@ -246,7 +246,7 @@ int dp_main(int argc, char *argv[])
     exit(0);
   } else {
     sprintf(buf, "Running game on port %d.", port);
-    log(buf);
+    log("%s", buf);
     init_game(port);
   }
 
@@ -438,11 +438,11 @@ limit.rlim_max = limit.rlim_max > OPEN_MAX? OPEN_MAX : limit.rlim_max;
   if (max_descs <= 0) {
     sprintf(buf, "SYSERR: Non-positive max player limit! (Set at %d using %s).",
         max_descs, method);
-    log(buf);
+    log("%s", buf);
     exit(1);
   }
   sprintf(buf, "Setting player limit to %d using %s.", max_descs, method);
-  log(buf);
+  log("%s", buf);
   return max_descs;
 }
 
@@ -914,7 +914,7 @@ void record_usage(void)
 
   sprintf(buf, "nusage: %-3d sockets connected, %-3d sockets playing",
       sockets_connected, sockets_playing);
-  log(buf);
+  log("%s", buf);
 
 #ifdef RUSAGE
   {
@@ -923,7 +923,7 @@ void record_usage(void)
     getrusage(0, &ru);
     sprintf(buf, "rusage: user time: %ld sec, system time: %ld sec, max res size: %ld",
         ru.ru_utime.tv_sec, ru.ru_stime.tv_sec, ru.ru_maxrss);
-    log(buf);
+    log("%s", buf);
   }
 #endif
 
@@ -2460,7 +2460,7 @@ void perform_act(char *orig, struct char_data *ch, struct obj_data *obj,
     log("SYSERR: Illegal $-code to act():");
     strcpy(buf1, "SYSERR: ");
     strcat(buf1, orig);
-    log(buf1);
+    log("%s", buf1);
     break;
       }
       while ((*buf = *(i++)))

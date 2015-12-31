@@ -381,7 +381,7 @@ void zedit_save_to_disk(struct descriptor_data *d)
         zone_table[OLC_ZNUM(d)].lifespan,
         zone_table[OLC_ZNUM(d)].reset_mode
   );
-  fprintf(zfile, buf);
+  fprintf(zfile, "%s", buf);
 
   for(subcmd = 0; ZCMD.command != 'S'; subcmd++) {
     switch (ZCMD.command) {
@@ -1274,4 +1274,3 @@ void zedit_parse(struct descriptor_data * d, char *arg)
   }
 }
 /*. End of parse_zedit() .*/
-

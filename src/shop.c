@@ -572,7 +572,7 @@ shopping_buy(char *arg, struct char_data *ch,
   if (!IS_GOD(ch))
     GET_GOLD(keeper) += goldamt;
 
-  sprintf(tempstr, times_message(ch->carrying, 0, bought));
+  sprintf(tempstr, "%s", times_message(ch->carrying, 0, bought));
   sprintf(buf, "$n buys %s.", tempstr);
   act(buf, FALSE, ch, obj, 0, TO_ROOM);
 
@@ -621,7 +621,7 @@ get_selling_obj(struct char_data * ch, char *name,
     default:
       sprintf(buf, "Illegal return value of %d from trade_with() (shop.c)",
           result);
-      log(buf);
+      log("%s", buf);
       sprintf(buf, "%s An error has occurred.", GET_NAME(ch));
       break;
     }
@@ -1055,7 +1055,7 @@ end_read_list(struct shop_buy_data * list, int len, int error)
   if (error)
     {
       sprintf(buf, "Raise MAX_SHOP_OBJ constant in shop.h to %d", len + error);
-      log(buf);
+      log("%s", buf);
     }
   BUY_WORD(list[len]) = 0;
   BUY_TYPE(list[len++]) = NOTHING;

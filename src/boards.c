@@ -154,7 +154,7 @@ void init_boards(void)
     if ((BOARD_RNUM(i) = real_object(BOARD_VNUM(i))) == -1) {
       sprintf(buf, "SYSERR: Fatal board error: board vnum %d does not exist!",
           BOARD_VNUM(i));
-      log(buf);
+      log("%s", buf);
       fatal_error = 1;
     }
     num_of_msgs[i] = 0;

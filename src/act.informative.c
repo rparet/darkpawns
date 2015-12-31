@@ -2090,10 +2090,10 @@ ACMD(do_users)
     sprintf(line, format, d->desc_num, "   -   ", "UNDEFINED",
         state, idletime, timeptr);
 
-      if (d->host && *d->host)
-    sprintf(line + strlen(line), "[%s]\r\n", d->host);
+      if (*d->host)
+        sprintf(line + strlen(line), "[%s]\r\n", d->host);
       else
-    strcat(line, "[Hostname unknown]\r\n");
+        strcat(line, "[Hostname unknown]\r\n");
 
       if (d->connected)
     {
@@ -2295,7 +2295,7 @@ ACMD(do_where)
     if (CAN_SEE_OBJ(ch, k) && isname_with_abbrevs(arg, k->name))
       {
         found = 1;
-        snprintf(buf + strlen(buf), MAX_STRING_LENGTH,
+        snprintf(buf + strlen(buf), MAX_STRING_LENGTH, "%s",
                      print_object_location(++num, k, ch, TRUE));
             if (num >= 30)
               break;
@@ -2801,4 +2801,3 @@ void do_description(char *description, struct char_data *ch) {
 
   send_to_char(buf2, ch);
 }
-

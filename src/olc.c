@@ -1,8 +1,8 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 *  _TwyliteMud_ by Rv.                          Based on CircleMud3.0bpl9 *
-*    				                                          *
-*  OasisOLC - olc.c 		                                          *
-*    				                                          *
+*                                                             *
+*  OasisOLC - olc.c                                                   *
+*                                                             *
 *  Copyright 1996 Harvey Gilpin.                                          *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
@@ -63,11 +63,11 @@ struct olc_scmd_data {
 };
 
 struct olc_scmd_data olc_scmd_info[5] =
-{ {"room", 	CON_REDIT},
-  {"object", 	CON_OEDIT},
-  {"room",	CON_ZEDIT},
-  {"mobile", 	CON_MEDIT},
-  {"shop", 	CON_SEDIT}
+{ {"room",  CON_REDIT},
+  {"object",    CON_OEDIT},
+  {"room",  CON_ZEDIT},
+  {"mobile",    CON_MEDIT},
+  {"shop",  CON_SEDIT}
 };
 
 /*------------------------------------------------------------*\
@@ -111,7 +111,7 @@ ACMD(do_olc)
       case SCMD_OLC_MEDIT:
       case SCMD_OLC_SEDIT:
         sprintf(buf, "Specify a %s VNUM to edit.\r\n",
-		olc_scmd_info[subcmd].text);
+        olc_scmd_info[subcmd].text);
         send_to_char (buf, ch);
         return;
     }
@@ -122,7 +122,7 @@ ACMD(do_olc)
     {
       if (!*buf2)
       {
- 	send_to_char("Save which zone?\r\n", ch);
+    send_to_char("Save which zone?\r\n", ch);
         return;
       }
       else
@@ -154,7 +154,7 @@ ACMD(do_olc)
     if (d->connected == olc_scmd_info[subcmd].con_type)
       if (d->olc && OLC_NUM(d) == number)
       {
-	sprintf(buf, "That %s is currently being edited by %s.\r\n",
+    sprintf(buf, "That %s is currently being edited by %s.\r\n",
                 olc_scmd_info[subcmd].text, GET_NAME(d->character));
         send_to_char(buf, ch);
         return;
@@ -332,7 +332,7 @@ void olc_saveall(struct char_data *ch)
   while ((entry = olc_save_list)) {
     SET_OLC_ZNUM(ch->desc, real_zone(entry->zone * 100));
     sprintf(buf, "%s saved for zone %d.\r\n", save_msg[(int)entry->type],
-	    entry->zone);
+        entry->zone);
     send_to_char(buf, ch);
     /* save_func will free and remove the entry from olc_save_list */
     save_func[(int)entry->type](ch->desc);
@@ -357,7 +357,7 @@ void olc_saveinfo(struct char_data *ch)
 
   for (entry = olc_save_list; entry; entry = entry->next) {
     sprintf(buf, " - %s for zone %d.\r\n", save_msg[(int)entry->type],
-	    entry->zone);
+        entry->zone);
     send_to_char(buf, ch);
   }
 }

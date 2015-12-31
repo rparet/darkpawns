@@ -29,32 +29,32 @@
 #ifndef _SPELLS_H
 #define _SPELLS_H
 
-#define DEFAULT_STAFF_LVL	12
-#define DEFAULT_WAND_LVL	12
+#define DEFAULT_STAFF_LVL   12
+#define DEFAULT_WAND_LVL    12
 
 #define blue_portal 4001
 #define red_portal  4002
 #define COC_VNUM 64
 
-#define CAST_UNDEFINED	-1
-#define CAST_SPELL	0
-#define CAST_POTION	1
-#define CAST_WAND	2
-#define CAST_STAFF	3
-#define CAST_SCROLL	4
+#define CAST_UNDEFINED  -1
+#define CAST_SPELL  0
+#define CAST_POTION 1
+#define CAST_WAND   2
+#define CAST_STAFF  3
+#define CAST_SCROLL 4
 #define CAST_BREATH     5
 
-#define MAG_DAMAGE	(1 << 0)
-#define MAG_AFFECTS	(1 << 1)
-#define MAG_UNAFFECTS	(1 << 2)
-#define MAG_POINTS	(1 << 3)
-#define MAG_ALTER_OBJS	(1 << 4)
-#define MAG_GROUPS	(1 << 5)
-#define MAG_MASSES	(1 << 6)
-#define MAG_AREAS	(1 << 7)
-#define MAG_SUMMONS	(1 << 8)
-#define MAG_CREATIONS	(1 << 9)
-#define MAG_MANUAL	(1 << 10)
+#define MAG_DAMAGE  (1 << 0)
+#define MAG_AFFECTS (1 << 1)
+#define MAG_UNAFFECTS   (1 << 2)
+#define MAG_POINTS  (1 << 3)
+#define MAG_ALTER_OBJS  (1 << 4)
+#define MAG_GROUPS  (1 << 5)
+#define MAG_MASSES  (1 << 6)
+#define MAG_AREAS   (1 << 7)
+#define MAG_SUMMONS (1 << 8)
+#define MAG_CREATIONS   (1 << 9)
+#define MAG_MANUAL  (1 << 10)
 
 
 #define TYPE_UNDEFINED               -1
@@ -106,23 +106,23 @@
 #define SPELL_WORD_OF_RECALL         42 /* Reserved Skill[] DO NOT CHANGE */
 #define SPELL_REMOVE_POISON          43 /* Reserved Skill[] DO NOT CHANGE */
 #define SPELL_SENSE_LIFE             44 /* Reserved Skill[] DO NOT CHANGE */
-#define SPELL_ANIMATE_DEAD	     45 /* Reserved Skill[] DO NOT CHANGE */
-#define SPELL_DISPEL_GOOD	     46 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_ANIMATE_DEAD       45 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_DISPEL_GOOD        46 /* Reserved Skill[] DO NOT CHANGE */
 #define SPELL_HOLY_SHIELD            47 /* Reserved Skill[] DO NOT CHANGE */
-#define SPELL_GROUP_HEAL	     48 /* Reserved Skill[] DO NOT CHANGE */
-#define SPELL_GROUP_RECALL	     49 /* Reserved Skill[] DO NOT CHANGE */
-#define SPELL_INFRAVISION	     50 /* Reserved Skill[] DO NOT CHANGE */
-#define SPELL_WATERWALK		     51 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_GROUP_HEAL         48 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_GROUP_RECALL       49 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_INFRAVISION        50 /* Reserved Skill[] DO NOT CHANGE */
+#define SPELL_WATERWALK          51 /* Reserved Skill[] DO NOT CHANGE */
 /* begin new spells */
 #define SPELL_MASS_HEAL              52
-#define SPELL_FLY		     53
+#define SPELL_FLY            53
 #define SPELL_LYCANTHROPY            54
 #define SPELL_VAMPIRISM              55
 #define SPELL_SOBRIETY               56
 #define SPELL_GROUP_INVIS            57
 #define SPELL_HELLFIRE               58
-#define SPELL_ENCHANT_ARMOR  	     59
-#define SPELL_IDENTIFY		     60
+#define SPELL_ENCHANT_ARMOR          59
+#define SPELL_IDENTIFY           60
 #define SPELL_MINDPOKE               61
 #define SPELL_MINDBLAST              62
 #define SPELL_CHAMELEON              63
@@ -131,12 +131,12 @@
 #define SPELL_INVULNERABILITY        66
 #define SPELL_VITALITY               67
 #define SPELL_INVIGORATE             68
-#define SPELL_LESSPERCEPT	     69
-#define SPELL_GREATPERCEPT	     70
-#define SPELL_MINDATTACK	     71
-#define SPELL_ADRENALINE	     72
-#define SPELL_PSYSHIELD   	     73
-#define SPELL_CHANGE_DENSITY	     74
+#define SPELL_LESSPERCEPT        69
+#define SPELL_GREATPERCEPT       70
+#define SPELL_MINDATTACK         71
+#define SPELL_ADRENALINE         72
+#define SPELL_PSYSHIELD          73
+#define SPELL_CHANGE_DENSITY         74
 #define SPELL_ACID_BLAST             75
 #define SPELL_DOMINATE               76
 #define SPELL_CELL_ADJUSTMENT        77
@@ -150,21 +150,21 @@
 #define SPELL_TRANSPARENCY           85
 #define SPELL_KNOW_ALIGN             86
 #define SPELL_GATE                   87
-#define SPELL_INTELLECT		     88
-#define SPELL_LAY_HANDS        	     89
+#define SPELL_INTELLECT          88
+#define SPELL_LAY_HANDS              89
 #define SPELL_MENTAL_LAPSE           90
 #define SPELL_SMOKESCREEN            91
 #define SPELL_DISRUPT                92
 #define SPELL_DISINTEGRATE           93
-#define SPELL_CALLIOPE		     94
+#define SPELL_CALLIOPE           94
 #define SPELL_PROT_FROM_GOOD         95
-#define SPELL_FLAMESTRIKE	     96
+#define SPELL_FLAMESTRIKE        96
 #define SPELL_HASTE                  97
 #define SPELL_SLOW                   98
-#define SPELL_DREAM_TRAVEL	     99
-#define SPELL_PSIBLAST		    100
-#define SPELL_COC		    101
-#define SPELL_WATER_BREATHE	    102
+#define SPELL_DREAM_TRAVEL       99
+#define SPELL_PSIBLAST          100
+#define SPELL_COC           101
+#define SPELL_WATER_BREATHE     102
 #define SPELL_DROWNING              103
 #define SPELL_PETRIFY               104
 #define SPELL_CONJURE_ELEMENTAL     105
@@ -172,7 +172,7 @@
 /* change olc.h to this number +1 ---^^ */
 /* don't forget constants.c wear off messages */
 /* Insert new spells here, up to MAX_SPELLS */
-#define MAX_SPELLS		    130
+#define MAX_SPELLS          130
 
 /* PLAYER SKILLS - Numbered from MAX_SPELLS+1 to MAX_SKILLS */
 #define SKILL_BACKSTAB              131 /* Reserved Skill[] DO NOT CHANGE */
@@ -184,18 +184,18 @@
 #define SKILL_RESCUE                137 /* Reserved Skill[] DO NOT CHANGE */
 #define SKILL_SNEAK                 138 /* Reserved Skill[] DO NOT CHANGE */
 #define SKILL_STEAL                 139 /* Reserved Skill[] DO NOT CHANGE */
-#define SKILL_TRACK		    140 /* Reserved Skill[] DO NOT CHANGE */
+#define SKILL_TRACK         140 /* Reserved Skill[] DO NOT CHANGE */
 /* begin new skills */
-#define SKILL_HEADBUTT		    141
-#define SKILL_BEARHUG		    142
-#define SKILL_CUTTHROAT		    143
-#define SKILL_TRIP		    144
-#define SKILL_SMACKHEADS	    145
-#define SKILL_SLUG	 	    146
-#define SKILL_CHARGE	 	    147
-#define SKILL_SHOOT		    148
-#define SKILL_RETREAT		    149
-#define SKILL_BITE		    150
+#define SKILL_HEADBUTT          141
+#define SKILL_BEARHUG           142
+#define SKILL_CUTTHROAT         143
+#define SKILL_TRIP          144
+#define SKILL_SMACKHEADS        145
+#define SKILL_SLUG          146
+#define SKILL_CHARGE            147
+#define SKILL_SHOOT         148
+#define SKILL_RETREAT           149
+#define SKILL_BITE          150
 #define SKILL_PEEK                  151
 #define SKILL_SUBDUE                152
 #define SKILL_STEALTH               153
@@ -219,25 +219,25 @@
 #define SKILL_BERSERK               171
 #define SKILL_PARRY                 172
 #define SKILL_CIRCLE                173
-#define SKILL_GROINRIP		    174
+#define SKILL_GROINRIP          174
 #define SKILL_SHARPEN               175
-#define SKILL_SCROUNGE		    176
-#define SKILL_DISARM		    177
+#define SKILL_SCROUNGE          176
+#define SKILL_DISARM            177
 #define SKILL_MINDLINK              178
 #define SKILL_FIRST_AID             179
-#define SKILL_DETECT		    180
-#define SKILL_SHADOW		    181
-#define SKILL_SWORDPLAY		    182
+#define SKILL_DETECT            180
+#define SKILL_SHADOW            181
+#define SKILL_SWORDPLAY         182
 #define SKILL_KNIFEPLAY             183
 #define SKILL_DISEMBOWEL            184
-#define SKILL_TURN		    185
-#define SKILL_EVASION		    186
-#define SKILL_SLEEPER		    187
+#define SKILL_TURN          185
+#define SKILL_EVASION           186
+#define SKILL_SLEEPER           187
 #define SKILL_DRAGON_KICK           188
-#define SKILL_TIGER_PUNCH	    189
+#define SKILL_TIGER_PUNCH       189
 #define SKILL_NECKBREAK             190
 #define SKILL_AMBUSH                191
-#define SKILL_SCOUT		    192
+#define SKILL_SCOUT         192
 
 /* end new skills   */
 /* New skills may be added here up to MAX_SKILLS (200) */
@@ -257,7 +257,7 @@
 #define SPELL_ACID_BREATH            205
 #define SPELL_LIGHTNING_BREATH       206
 
-#define TOP_SPELL_DEFINE	     299
+#define TOP_SPELL_DEFINE         299
 /* NEW NPC/OBJECT SPELLS can be inserted here up to 299 */
 
 
@@ -275,12 +275,12 @@
 #define TYPE_MAUL                    309
 #define TYPE_THRASH                  310
 #define TYPE_PIERCE                  311
-#define TYPE_BLAST		     312
-#define TYPE_PUNCH		     313
-#define TYPE_STAB		     314
+#define TYPE_BLAST           312
+#define TYPE_PUNCH           313
+#define TYPE_STAB            314
 
 /* new attack types can be added here - up to TYPE_SUFFERING */
-#define TYPE_SUFFERING		     399
+#define TYPE_SUFFERING           399
 
 
 
@@ -304,10 +304,10 @@
 #define TAR_OBJ_EQUIP  1024
 
 struct spell_info_type {
-   byte min_position;	/* Position for caster	 */
-   int mana_min;	/* Min amount of mana used by a spell (highest lev) */
-   int mana_max;	/* Max amount of mana used by a spell (lowest lev) */
-   int mana_change;	/* Change in mana used by spell from lev to lev */
+   byte min_position;   /* Position for caster   */
+   int mana_min;    /* Min amount of mana used by a spell (highest lev) */
+   int mana_max;    /* Max amount of mana used by a spell (lowest lev) */
+   int mana_change; /* Change in mana used by spell from lev to lev */
 
    int min_level[NUM_CLASSES];
    int routines;
@@ -340,17 +340,17 @@ struct spell_info_type {
 /* Attacktypes with grammar */
 
 struct attack_hit_type {
-   char	*singular;
-   char	*plural;
+   char *singular;
+   char *plural;
 };
 
 
 #define ASPELL(spellname) \
-void	spellname(int level, struct char_data *ch, \
-		  struct char_data *victim, struct obj_data *obj, \
+void    spellname(int level, struct char_data *ch, \
+          struct char_data *victim, struct obj_data *obj, \
                   char *argument)
 
-#define MANUAL_SPELL(spellname)	spellname(level, caster, cvict, ovict, \
+#define MANUAL_SPELL(spellname) spellname(level, caster, cvict, ovict, \
 arg);
 
 ASPELL(spell_create_water);
@@ -387,13 +387,13 @@ ASPELL(spell_divine_int);
 int find_skill_num(char *name);
 
 void mag_damage(int level, struct char_data *ch, struct char_data *victim,
-		int spellnum, int savetype);
+        int spellnum, int savetype);
 
 void mag_affects(int level, struct char_data *ch, struct char_data *victim,
-		 int spellnum, int savetype);
+         int spellnum, int savetype);
 
 void mag_group_switch(int level, struct char_data *ch, struct char_data *tch,
-		      int spellnum, int savetype);
+              int spellnum, int savetype);
 
 void mag_groups(int level, struct char_data *ch, int spellnum, int savetype);
 
@@ -402,27 +402,27 @@ void mag_masses(int level, struct char_data *ch, int spellnum, int savetype);
 void mag_areas(int level, struct char_data *ch, int spellnum, int savetype);
 
 void mag_summons(int level, struct char_data *ch, struct obj_data *obj,
-		 int spellnum, int savetype);
+         int spellnum, int savetype);
 
 void mag_points(int level, struct char_data *ch, struct char_data *victim,
-		int spellnum, int savetype);
+        int spellnum, int savetype);
 
 void mag_unaffects(int level, struct char_data *ch, struct char_data *victim,
-		   int spellnum, int type);
+           int spellnum, int type);
 
 void mag_alter_objs(int level, struct char_data *ch, struct obj_data *obj,
-		    int spellnum, int type);
+            int spellnum, int type);
 
 void mag_creations(int level, struct char_data *ch, int spellnum);
 
 int call_magic(struct char_data *caster, struct char_data *cvict,
-	       struct obj_data *ovict, int spellnum, int level, int casttype);
+           struct obj_data *ovict, int spellnum, int level, int casttype);
 
 void mag_objectmagic(struct char_data *ch, struct obj_data *obj,
-		     char *argument);
+             char *argument);
 
 int cast_spell(struct char_data *ch, struct char_data *tch,
-	       struct obj_data *tobj, int spellnum);
+           struct obj_data *tobj, int spellnum);
 
 
 /* other prototypes */

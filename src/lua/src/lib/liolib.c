@@ -25,15 +25,15 @@
 #define free(b)         if (b) (free)(b)
 #else
 /* no support for locale and for strerror: fake them */
-#define setlocale(a,b)	((void)a, strcmp((b),"C")==0?"C":NULL)
-#define LC_ALL		0
-#define LC_COLLATE	0
-#define LC_CTYPE	0
-#define LC_MONETARY	0
-#define LC_NUMERIC	0
-#define LC_TIME		0
-#define strerror(e)	"generic I/O error"
-#define errno		(-1)
+#define setlocale(a,b)  ((void)a, strcmp((b),"C")==0?"C":NULL)
+#define LC_ALL      0
+#define LC_COLLATE  0
+#define LC_CTYPE    0
+#define LC_MONETARY 0
+#define LC_NUMERIC  0
+#define LC_TIME     0
+#define strerror(e) "generic I/O error"
+#define errno       (-1)
 #endif
 
 
@@ -49,7 +49,7 @@ int pclose(); */
 #endif
 
 
-#define INFILE	0
+#define INFILE  0
 #define OUTFILE 1
 
 typedef struct IOCtrl {
@@ -125,7 +125,7 @@ static void setfilebyname (lua_State *L, IOCtrl *ctrl, FILE *f,
 }
 
 
-#define setfile(L,ctrl,f,inout)	(setfilebyname(L,ctrl,f,filenames[inout]))
+#define setfile(L,ctrl,f,inout) (setfilebyname(L,ctrl,f,filenames[inout]))
 
 
 static int setreturn (lua_State *L, IOCtrl *ctrl, FILE *f, int inout) {
@@ -582,8 +582,8 @@ static int io_debug (lua_State *L) {
 }
 
 
-#define LEVELS1	12	/* size of the first part of the stack */
-#define LEVELS2	10	/* size of the second part of the stack */
+#define LEVELS1 12  /* size of the first part of the stack */
+#define LEVELS2 10  /* size of the second part of the stack */
 
 static int errorfb (lua_State *L) {
   int level = 1;  /* skip level 0 (it's this function) */

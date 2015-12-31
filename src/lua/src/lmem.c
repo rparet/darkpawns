@@ -29,19 +29,19 @@
 #include <limits.h>
 #include <string.h>
 
-#define realloc(b, s)	debug_realloc(b, s)
-#define malloc(b)	debug_realloc(NULL, b)
-#define free(b)		debug_realloc(b, 0)
+#define realloc(b, s)   debug_realloc(b, s)
+#define malloc(b)   debug_realloc(NULL, b)
+#define free(b)     debug_realloc(b, 0)
 
 
 /* ensures maximum alignment for HEADER */
-#define HEADER	(sizeof(union L_Umaxalign))
+#define HEADER  (sizeof(union L_Umaxalign))
 
-#define MARKSIZE	16
-#define MARK		0x55  /* 01010101 (a nice pattern) */
+#define MARKSIZE    16
+#define MARK        0x55  /* 01010101 (a nice pattern) */
 
 
-#define blocksize(b)	((unsigned long *)((char *)(b) - HEADER))
+#define blocksize(b)    ((unsigned long *)((char *)(b) - HEADER))
 
 unsigned long memdebug_numblocks = 0;
 unsigned long memdebug_total = 0;
@@ -111,8 +111,8 @@ static void *debug_realloc (void *block, size_t size) {
 ** but some systems (Sun OS) are not that ISO...
 */
 #ifdef OLD_ANSI
-#define realloc(b,s)	((b) == NULL ? malloc(s) : (realloc)(b, s))
-#define free(b)		if (b) (free)(b)
+#define realloc(b,s)    ((b) == NULL ? malloc(s) : (realloc)(b, s))
+#define free(b)     if (b) (free)(b)
 #endif
 
 

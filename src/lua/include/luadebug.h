@@ -26,7 +26,7 @@ LUA_API lua_Hook lua_setcallhook (lua_State *L, lua_Hook func);
 LUA_API lua_Hook lua_setlinehook (lua_State *L, lua_Hook func);
 
 
-#define LUA_IDSIZE	60
+#define LUA_IDSIZE  60
 
 struct lua_Debug {
   const char *event;     /* `call', `return' */

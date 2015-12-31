@@ -52,75 +52,75 @@ another_hour(int mode)
   if (mode)
     {
       switch (time_info.hours)
-	{
-	case 5:
-	  weather_info.sunlight = SUN_RISE;
-	  send_to_outdoor("The suns rise in the east and north.\r\n");
+    {
+    case 5:
+      weather_info.sunlight = SUN_RISE;
+      send_to_outdoor("The suns rise in the east and north.\r\n");
           ghost_ship_disappear();
-	  remove_night_gate();
-	  break;
-	case 6:
-	  weather_info.sunlight = SUN_LIGHT;
-	  send_to_outdoor("The day has begun.\r\n");
-	  break;
-	case 21:
-	  weather_info.sunlight = SUN_SET;
-	  send_to_outdoor("The suns slowly disappear in the west and "
-		"south.\r\n");
-	  ghost_ship_appear();
-	  load_night_gate();
-	  if (time_info.day+1 <26 && time_info.day+1 >=22)
-	  {
-	    full_moon();
-	    lunar_hunter();
-	  }
-	  break;
-	case 22:
-	  weather_info.sunlight = SUN_DARK;
-	  send_to_outdoor("The night has begun.\r\n");
-	  break;
-	default:
-	  break;
-	}
+      remove_night_gate();
+      break;
+    case 6:
+      weather_info.sunlight = SUN_LIGHT;
+      send_to_outdoor("The day has begun.\r\n");
+      break;
+    case 21:
+      weather_info.sunlight = SUN_SET;
+      send_to_outdoor("The suns slowly disappear in the west and "
+        "south.\r\n");
+      ghost_ship_appear();
+      load_night_gate();
+      if (time_info.day+1 <26 && time_info.day+1 >=22)
+      {
+        full_moon();
+        lunar_hunter();
+      }
+      break;
+    case 22:
+      weather_info.sunlight = SUN_DARK;
+      send_to_outdoor("The night has begun.\r\n");
+      break;
+    default:
+      break;
+    }
     }
   if (time_info.hours > 23)
-    {	/* Changed by HHS due to bug ??? */
+    {   /* Changed by HHS due to bug ??? */
       time_info.hours -= 24;
       time_info.day++;
 
       switch(time_info.day)
-	{
-	case 1: time_info.moon = MOON_NEW;
-	  break;
-	case 6: time_info.moon = MOON_QUARTER_FULL;
-	  break;
-	case 12: time_info.moon = MOON_HALF_FULL;
-	  break;
-	case 17: time_info.moon = MOON_THREE_FULL;
-	  break;
-	case 22: time_info.moon = MOON_FULL;
-	  break;
-	case 26: time_info.moon = MOON_QUARTER_EMPTY;
-	  break;
-	case 30: time_info.moon = MOON_HALF_EMPTY;
-	  break;
-	case 34: time_info.moon = MOON_THREE_EMPTY;
-	  break;
-	default:
-	  break;
-	}
+    {
+    case 1: time_info.moon = MOON_NEW;
+      break;
+    case 6: time_info.moon = MOON_QUARTER_FULL;
+      break;
+    case 12: time_info.moon = MOON_HALF_FULL;
+      break;
+    case 17: time_info.moon = MOON_THREE_FULL;
+      break;
+    case 22: time_info.moon = MOON_FULL;
+      break;
+    case 26: time_info.moon = MOON_QUARTER_EMPTY;
+      break;
+    case 30: time_info.moon = MOON_HALF_EMPTY;
+      break;
+    case 34: time_info.moon = MOON_THREE_EMPTY;
+      break;
+    default:
+      break;
+    }
 
       if (time_info.day > 34)
-	{
-	  time_info.day = 0;
-	  time_info.month++;
+    {
+      time_info.day = 0;
+      time_info.month++;
 
-	  if (time_info.month > 16)
-	    {
-	      time_info.month = 0;
-	      time_info.year++;
-	    }
-	}
+      if (time_info.month > 16)
+        {
+          time_info.month = 0;
+          time_info.year++;
+        }
+    }
     }
 }
 
@@ -150,43 +150,43 @@ weather_change(void)
     {
     case SKY_CLOUDLESS:
       if (weather_info.pressure < 990)
-	change = 1;
+    change = 1;
       else if (weather_info.pressure < 1010)
-	if (dice(1, 4) == 1)
-	  change = 1;
+    if (dice(1, 4) == 1)
+      change = 1;
       break;
     case SKY_CLOUDY:
       if (weather_info.pressure < 970)
-	change = 2;
+    change = 2;
       else if (weather_info.pressure < 990)
-	if (dice(1, 4) == 1)
-	  change = 2;
-	else
-	  change = 0;
+    if (dice(1, 4) == 1)
+      change = 2;
+    else
+      change = 0;
       else if (weather_info.pressure > 1030)
-	if (dice(1, 4) == 1)
-	  change = 3;
+    if (dice(1, 4) == 1)
+      change = 3;
 
       break;
     case SKY_RAINING:
       if (weather_info.pressure < 970)
-	if (dice(1, 4) == 1)
-	  change = 4;
-	else
-	  change = 0;
+    if (dice(1, 4) == 1)
+      change = 4;
+    else
+      change = 0;
       else if (weather_info.pressure > 1030)
-	change = 5;
+    change = 5;
       else if (weather_info.pressure > 1010)
-	if (dice(1, 4) == 1)
-	  change = 5;
+    if (dice(1, 4) == 1)
+      change = 5;
 
       break;
     case SKY_LIGHTNING:
       if (weather_info.pressure > 1010)
-	change = 6;
+    change = 6;
       else if (weather_info.pressure > 990)
-	if (dice(1, 4) == 1)
-	  change = 6;
+    if (dice(1, 4) == 1)
+      change = 6;
 
       break;
     default:

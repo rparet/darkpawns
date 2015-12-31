@@ -3,7 +3,7 @@
 *                                                                         *
 *  Usage: Functions for handling rfc 931/1413 ident lookups               *
 *                                                                         *
-*  Written by Eric Green (egreen@cypronet.com)				  *
+*  Written by Eric Green (egreen@cypronet.com)                *
 ************************************************************************ */
 
 /*
@@ -133,7 +133,7 @@ void ident_check(struct descriptor_data *d, int pulse)
     }
 
     if ((rc = select(d->ident_sock + 1, (fd_set *) 0, &fd,
-		     (fd_set *) 0, &null_time)) == 0)
+             (fd_set *) 0, &null_time)) == 0)
       break;
 
     else if (rc < 0) {
@@ -151,8 +151,8 @@ void ident_check(struct descriptor_data *d, int pulse)
 
     len = strlen(buf);
     if (write(d->ident_sock, buf, len) != len) {
-      if (errno != EPIPE)	/* read end closed (no remote identd) */
-	perror("ident check write (conned)");
+      if (errno != EPIPE)   /* read end closed (no remote identd) */
+    perror("ident check write (conned)");
 
       STATE(d) = CON_ASKNAME;
       break;
@@ -169,7 +169,7 @@ void ident_check(struct descriptor_data *d, int pulse)
     }
 
     if ((rc = select(d->ident_sock+1, &fd, (fd_set *) 0,
-		     (fd_set *) 0, &null_time)) == 0)
+             (fd_set *) 0, &null_time)) == 0)
       break;
 
     else if (rc < 0) {
@@ -189,31 +189,31 @@ void ident_check(struct descriptor_data *d, int pulse)
     else {
       buf[len] = '\0';
       if (sscanf(buf, "%d , %d : USERID :%*[^:]:%255s",
-		 &rmt_port, &our_port, user) != 3) {
+         &rmt_port, &our_port, user) != 3) {
 
-	/* check if error or malformed */
-	if (sscanf(buf, "%d , %d : ERROR : %255s",
-		   &rmt_port, &our_port, user) == 3) {
-	  sprintf(buf2, "Ident error from %s: \"%s\"", d->host, user);
-	  log(buf2);
-	}
-	else {
-	  /* strip off trailing newline */
-	  for (p = buf + len - 1; p > buf && ISNEWL(*p); p--);
-	  p[1] = '\0';
+    /* check if error or malformed */
+    if (sscanf(buf, "%d , %d : ERROR : %255s",
+           &rmt_port, &our_port, user) == 3) {
+      sprintf(buf2, "Ident error from %s: \"%s\"", d->host, user);
+      log(buf2);
+    }
+    else {
+      /* strip off trailing newline */
+      for (p = buf + len - 1; p > buf && ISNEWL(*p); p--);
+      p[1] = '\0';
 
-	  sprintf(buf2, "Malformed ident response from %s: \"%s\"",
-		  d->host, buf);
-	  log(buf2);
-	}
+      sprintf(buf2, "Malformed ident response from %s: \"%s\"",
+          d->host, buf);
+      log(buf2);
+    }
       }
       else {
-	/*strncpy(buf2, user, IDENT_LENGTH);*/
-	strcpy(buf2, user);
-	strcat(buf2, "@");
-	strcat(buf2, d->host);
-	/*strncpy(d->host, buf2, HOST_LENGTH);*/
-	strcpy(d->host, buf2);
+    /*strncpy(buf2, user, IDENT_LENGTH);*/
+    strcpy(buf2, user);
+    strcat(buf2, "@");
+    strcat(buf2, d->host);
+    /*strncpy(d->host, buf2, HOST_LENGTH);*/
+    strcpy(d->host, buf2);
       }
     }
 

@@ -50,8 +50,8 @@ void purge(char *filename)
 
     for (ptr = player.name; *ptr; ptr++)
       if (!isalpha(*ptr) || *ptr == ' ') {
-	okay = 0;
-	strcpy(reason, "Invalid name");
+    okay = 0;
+    strcpy(reason, "Invalid name");
       }
     if (player.level == 0) {
       okay = 0;
@@ -69,15 +69,15 @@ void purge(char *filename)
     if (okay && player.level <= LVL_IMMORT) {
 
       if (!(IS_SET_AR(player.char_specials_saved.act, PLR_CRYO))) {
-	if (player.level < LVL_IMMORT)	timeout = 60;	/* Lev 1-30 : 60 days */
+    if (player.level < LVL_IMMORT)  timeout = 60;   /* Lev 1-30 : 60 days */
       }
 
       timeout *= SECS_PER_REAL_DAY;
 
       if ((time(0) - player.last_logon) > timeout) {
-	okay = 0;
-	sprintf(reason, "Level %2d idle for %3ld days", player.level,
-		((time(0) - player.last_logon) / SECS_PER_REAL_DAY));
+    okay = 0;
+    sprintf(reason, "Level %2d idle for %3ld days", player.level,
+        ((time(0) - player.last_logon) / SECS_PER_REAL_DAY));
       }
     }
     if (IS_SET_AR(player.char_specials_saved.act, PLR_DELETED)) {

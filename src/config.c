@@ -33,10 +33,10 @@
 
 #include "structs.h"
 
-#define TRUE	1
-#define YES	1
-#define FALSE	0
-#define NO	0
+#define TRUE    1
+#define YES 1
+#define FALSE   0
+#define NO  0
 
 /*
  * Below are several constants which you can change to alter certain aspects
@@ -78,8 +78,8 @@ int level_can_shout = 2;
 int holler_move_cost = 20;
 
 /* exp change limits */
-int max_exp_gain = 100000;	/* max gainable per kill */
-int max_exp_loss = 500000;	/* max losable per death */
+int max_exp_gain = 100000;  /* max gainable per kill */
+int max_exp_loss = 500000;  /* max losable per death */
 
 /* number of tics (usually 75 seconds) before PC/NPC corpses decompose */
 int max_npc_corpse_time = 5;
@@ -157,8 +157,8 @@ int frozen_start_room = 1202;
  * donation rooms.
  */
 int donation_room_1 = 8053;
-int donation_room_2 = 18204; 	/* unused - room for expansion */
-int donation_room_3 = NOWHERE;	/* unused - room for expansion */
+int donation_room_2 = 18204;    /* unused - room for expansion */
+int donation_room_3 = NOWHERE;  /* unused - room for expansion */
 
 
 /****************************************************************************/
@@ -228,8 +228,8 @@ char *SHORT_GREETINGS =
 " .***.  /| |__| | (_| | |  |   <  | |  | (_| |\\ V  V /| | | \\__ \\  .***.\n\r"
 " ~~~~~  /|_____/ \\__,_|_|  |_|\\_\\ |||   \\__,_| \\_/\\_/ |_| |_|___/  ~~~~~\n\r"
 "        /                         |||\n\r"
-"	                          |||\n\r"
-"				  `.'\n\r"
+"                             |||\n\r"
+"                 `.'\n\r"
 "\n\r";
 
 char *GREETINGS =

@@ -10,17 +10,17 @@
 #include "luac.h"
 
 /* macros used in print.h, included in PrintCode */
-#define P_OP(x)	printf("%-11s\t",x)
+#define P_OP(x) printf("%-11s\t",x)
 #define P_NONE
-#define P_AB	printf("%d %d",GETARG_A(i),GETARG_B(i))
-#define P_F	printf("%d %d\t; %p",GETARG_A(i),GETARG_B(i),tf->kproto[GETARG_A(i)])
-#define P_J	printf("%d\t; to %d",GETARG_S(i),GETARG_S(i)+at+1)
-#define P_Q	PrintString(tf,GETARG_U(i))
-#define P_K	printf("%d\t; %s",GETARG_U(i),tf->kstr[GETARG_U(i)]->str)
-#define P_L	PrintLocal(tf,GETARG_U(i),at-1)
-#define P_N	printf("%d\t; " NUMBER_FMT,GETARG_U(i),tf->knum[GETARG_U(i)])
-#define P_S	printf("%d",GETARG_S(i))
-#define P_U	printf("%u",GETARG_U(i))
+#define P_AB    printf("%d %d",GETARG_A(i),GETARG_B(i))
+#define P_F printf("%d %d\t; %p",GETARG_A(i),GETARG_B(i),tf->kproto[GETARG_A(i)])
+#define P_J printf("%d\t; to %d",GETARG_S(i),GETARG_S(i)+at+1)
+#define P_Q PrintString(tf,GETARG_U(i))
+#define P_K printf("%d\t; %s",GETARG_U(i),tf->kstr[GETARG_U(i)]->str)
+#define P_L PrintLocal(tf,GETARG_U(i),at-1)
+#define P_N printf("%d\t; " NUMBER_FMT,GETARG_U(i),tf->knum[GETARG_U(i)])
+#define P_S printf("%d",GETARG_S(i))
+#define P_U printf("%u",GETARG_U(i))
 
 static void PrintString(const Proto* tf, int n)
 {
@@ -72,20 +72,20 @@ static void PrintCode(const Proto* tf)
  }
 }
 
-#define IsMain(tf)	(tf->lineDefined==0)
+#define IsMain(tf)  (tf->lineDefined==0)
 
-#define SS(x)	(x==1)?"":"s"
-#define S(x)	x,SS(x)
+#define SS(x)   (x==1)?"":"s"
+#define S(x)    x,SS(x)
 
 static void PrintHeader(const Proto* tf)
 {
  printf("\n%s " SOURCE_FMT " (%d instruction%s/%d bytes at %p)\n",
- 	IsMain(tf)?"main":"function",SOURCE,
-	S(tf->ncode),tf->ncode*Sizeof(Instruction),tf);
+    IsMain(tf)?"main":"function",SOURCE,
+    S(tf->ncode),tf->ncode*Sizeof(Instruction),tf);
  printf("%d%s param%s, %d stack%s, ",
-	tf->numparams,tf->is_vararg?"+":"",SS(tf->numparams),S(tf->maxstacksize));
+    tf->numparams,tf->is_vararg?"+":"",SS(tf->numparams),S(tf->maxstacksize));
  printf("%d local%s, %d string%s, %d number%s, %d function%s, %d line%s\n",
-	S(tf->nlocvars),S(tf->nkstr),S(tf->nknum),S(tf->nkproto),S(tf->nlineinfo));
+    S(tf->nlocvars),S(tf->nkstr),S(tf->nknum),S(tf->nkproto),S(tf->nlineinfo));
 }
 
 #define PrintFunction luaU_printchunk

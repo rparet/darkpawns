@@ -249,14 +249,14 @@ find_class_bitvector(char arg)
  * following spells" vs. "You know of the following skills"
  */
 
-#define SPELL	0
-#define SKILL	1
+#define SPELL   0
+#define SKILL   1
 #define BOTH    2
 
-/* #define LEARNED_LEVEL	0  % known which is considered "learned" */
-/* #define MAX_PER_PRAC		1  max percent gain in skill per practice */
-/* #define MIN_PER_PRAC		2  min percent gain in skill per practice */
-/* #define PRAC_TYPE		3  should it say 'spell' or 'skill'?	*/
+/* #define LEARNED_LEVEL    0  % known which is considered "learned" */
+/* #define MAX_PER_PRAC     1  max percent gain in skill per practice */
+/* #define MIN_PER_PRAC     2  min percent gain in skill per practice */
+/* #define PRAC_TYPE        3  should it say 'spell' or 'skill'?    */
 
 int prac_params[4][NUM_CLASSES] = {
 /* MAG CLE   THE   WAR  MAGU  AVA   ASS    PAL  NIN    PSI RAN  MYS*/
@@ -389,18 +389,18 @@ roll_real_abils(struct char_data * ch)
   for (i = 0; i < 6; i++)
     {
       for (j = 0; j < 4; j++)
-	rolls[j] = number(1, 6);
+    rolls[j] = number(1, 6);
 
       temp = rolls[0] + rolls[1] + rolls[2] + rolls[3] -
-	MIN(rolls[0], MIN(rolls[1], MIN(rolls[2], rolls[3])));
+    MIN(rolls[0], MIN(rolls[1], MIN(rolls[2], rolls[3])));
 
       for (k = 0; k < 6; k++)
-	if (table[k] < temp)
-	  {
-	    temp ^= table[k];
-	    table[k] ^= temp;
-	    temp ^= table[k];
-	  }
+    if (table[k] < temp)
+      {
+        temp ^= table[k];
+        table[k] ^= temp;
+        temp ^= table[k];
+      }
     }
 
   ch->real_abils.str_add = 0;
@@ -453,43 +453,43 @@ roll_real_abils(struct char_data * ch)
       ch->real_abils.intel = table[4];
       ch->real_abils.cha = table[5];
       if (ch->real_abils.str == 18)
-	ch->real_abils.str_add = number(0, 100);
+    ch->real_abils.str_add = number(0, 100);
       break;
     }
   switch (GET_RACE(ch))
   {
   case RACE_HUMAN:
-	ch->real_abils.cha = MIN(ch->real_abils.cha+1, 18);
-	break;
+    ch->real_abils.cha = MIN(ch->real_abils.cha+1, 18);
+    break;
   case RACE_ELF:
-	ch->real_abils.intel = MIN(ch->real_abils.intel+1, 18);
-	ch->real_abils.str = MIN(ch->real_abils.str, 18);
-	if (ch->real_abils.str==18)
-	  ch->real_abils.str_add = 0;
-	break;
+    ch->real_abils.intel = MIN(ch->real_abils.intel+1, 18);
+    ch->real_abils.str = MIN(ch->real_abils.str, 18);
+    if (ch->real_abils.str==18)
+      ch->real_abils.str_add = 0;
+    break;
   case RACE_DWARF:
-	ch->real_abils.wis = MIN(ch->real_abils.wis+1, 18);
-	break;
+    ch->real_abils.wis = MIN(ch->real_abils.wis+1, 18);
+    break;
   case RACE_KENDER:
-	ch->real_abils.dex = MIN(ch->real_abils.dex+1, 18);
-	ch->real_abils.str = MIN(ch->real_abils.str, 18);
-	if (ch->real_abils.str==18)
-	  ch->real_abils.str_add = 0;
-	break;
+    ch->real_abils.dex = MIN(ch->real_abils.dex+1, 18);
+    ch->real_abils.str = MIN(ch->real_abils.str, 18);
+    if (ch->real_abils.str==18)
+      ch->real_abils.str_add = 0;
+    break;
   case RACE_MINOTAUR:
-	ch->real_abils.str = MIN(ch->real_abils.str+1, 18);
+    ch->real_abils.str = MIN(ch->real_abils.str+1, 18);
         if (ch->real_abils.str == 18 && (GET_CLASS(ch) == CLASS_WARRIOR))
-		ch->real_abils.str_add = number(0, 100);
-	break;
+        ch->real_abils.str_add = number(0, 100);
+    break;
   case RACE_RAKSHASA:
-	ch->real_abils.str = MIN(ch->real_abils.str+1, 18);
+    ch->real_abils.str = MIN(ch->real_abils.str+1, 18);
         if (ch->real_abils.str == 18  && (GET_CLASS(ch) == CLASS_WARRIOR))
-		ch->real_abils.str_add = number(0, 100);
-	break;
+        ch->real_abils.str_add = number(0, 100);
+    break;
   case RACE_SSAUR:
-	ch->real_abils.con = MIN(ch->real_abils.con+1, 18);
-	ch->real_abils.wis = MIN(ch->real_abils.wis, 16);
-	break;
+    ch->real_abils.con = MIN(ch->real_abils.con+1, 18);
+    ch->real_abils.wis = MIN(ch->real_abils.wis, 16);
+    break;
   default: break;
   }
   ch->aff_abils = ch->real_abils;
@@ -705,7 +705,7 @@ advance_level(struct char_data * ch)
   if (GET_LEVEL(ch) >= LVL_IMMORT)
     {
       for (i = 0; i < 3; i++)
-	GET_COND(ch, i) = (char) -1;
+    GET_COND(ch, i) = (char) -1;
       SET_BIT_AR(PRF_FLAGS(ch), PRF_HOLYLIGHT);
     }
 
@@ -720,11 +720,11 @@ int
 backstab_mult(int level)
 {
   if (level <= 0)
-    return 1;	  /* level 0 */
+    return 1;     /* level 0 */
   if (level < LVL_IMMORT)
     return ( (level*.2)+1 );
   else
-    return 20;	  /* immortals */
+    return 20;    /* immortals */
 }
 
 
@@ -750,7 +750,7 @@ invalid_class(struct char_data *ch, struct obj_data *obj)
       (IS_OBJ_STAT(obj, ITEM_ANTI_THIEF) && IS_THIEF(ch)))
     return TRUE;
   else if (CAN_WEAR(obj,ITEM_WEAR_WIELD) &&
-	   GET_OBJ_VAL(obj, 3) == TYPE_SLASH - TYPE_HIT && IS_CLERIC(ch))
+       GET_OBJ_VAL(obj, 3) == TYPE_SLASH - TYPE_HIT && IS_CLERIC(ch))
     return TRUE;
   else if (CAN_WEAR(obj, ITEM_WEAR_SHIELD) &&
            (IS_THIEF(ch) || IS_ASSASSIN(ch) || IS_NINJA(ch)))

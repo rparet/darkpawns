@@ -12,7 +12,7 @@
 
 
 #ifndef LUALIB_API
-#define LUALIB_API	extern
+#define LUALIB_API  extern
 #endif
 
 

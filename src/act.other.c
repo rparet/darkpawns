@@ -154,10 +154,10 @@ ACMD(do_quit)
 
    if (free_rent)
    {
-	/*
-	 *  Free rent in temple, your house, or if immortal
-	 */
-	if (isokquit || GET_LEVEL(ch) >= LVL_IMMORT)
+    /*
+     *  Free rent in temple, your house, or if immortal
+     */
+    if (isokquit || GET_LEVEL(ch) >= LVL_IMMORT)
         {
           if (GET_LEVEL(ch) <= LVL_IMMORT)
             GET_LOADROOM(ch) = rm->number; /* load players back where they legally quit */
@@ -165,18 +165,18 @@ ACMD(do_quit)
             Crash_cryosave(ch, 0);
           else
             Crash_rentsave(ch, 0);
-	}
+    }
         else
-	{
-    	   sprintf(buf, "LOSTEQ:%s has quit out of a save room.",
-	          GET_NAME(ch));
-	   mudlog(buf, NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
-	}
+    {
+           sprintf(buf, "LOSTEQ:%s has quit out of a save room.",
+              GET_NAME(ch));
+       mudlog(buf, NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
+    }
     }
     if (IS_MOUNTED(ch))
       unmount(ch, get_mount(ch));
 
-    extract_char(ch);		/* Char is saved in extract char */
+    extract_char(ch);       /* Char is saved in extract char */
 
   }
 }
@@ -230,7 +230,7 @@ ACMD(do_sneak)
     REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_SNEAK);
   }
 
-  percent = number(1, 101);	/* 101% is a complete failure */
+  percent = number(1, 101); /* 101% is a complete failure */
 
   if (percent > GET_SKILL(ch, SKILL_SNEAK) + dex_app_skill[GET_DEX(ch)].sneak)
     return;
@@ -288,7 +288,7 @@ ACMD(do_hide)
   if (IS_AFFECTED(ch, AFF_HIDE))
     REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_HIDE);
 
-  percent = number(1, 101);	/* 101% is a complete failure */
+  percent = number(1, 101); /* 101% is a complete failure */
 
   if (subcmd)
   {
@@ -365,7 +365,7 @@ ACMD(do_steal)
 
   if (GET_POS(vict) <= POS_SLEEPING && (!IS_NPC(vict) &&
       GET_LEVEL(vict) < LVL_IMMORT))
-    percent = -1;		/* ALWAYS SUCCESS */
+    percent = -1;       /* ALWAYS SUCCESS */
 
   if (!IS_NPC(vict))
     pcsteal = 1;
@@ -380,7 +380,7 @@ ACMD(do_steal)
       (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)) ||
       GET_MOB_SPEC(vict) == shop_keeper ||
       IS_AFFECTED(vict, AFF_ROBBED))
-    percent = 101;		/* Failure */
+    percent = 101;      /* Failure */
 
   if (GET_LEVEL(ch) > LVL_IMMORT && GET_LEVEL(vict) < GET_LEVEL(ch))
     percent = -1; /* success */
@@ -388,40 +388,40 @@ ACMD(do_steal)
   if (str_cmp(obj_name, "coins") && str_cmp(obj_name, "gold"))
     {
       if (!(obj = get_obj_in_list_vis(ch, obj_name, vict->carrying)))
-	{
-	  for (eq_pos = 0; eq_pos < NUM_WEARS; eq_pos++)
-	    if (GET_EQ(vict, eq_pos) &&
-		(isname(obj_name, GET_EQ(vict, eq_pos)->name)) &&
-		CAN_SEE_OBJ(ch, GET_EQ(vict, eq_pos)))
-	      {
-		obj = GET_EQ(vict, eq_pos);
-		break;
-	      }
-	  if (!obj)
-	    {
-	      act("$E hasn't got that item.", FALSE, ch, 0, vict, TO_CHAR);
-	      return;
-	    }
-	  else
-	    {			/* It is equipment */
-	      if ((GET_POS(vict) > POS_SLEEPING))
-		{
-		  send_to_char("Steal the equipment now?  Impossible!\r\n",
-			       ch);
-		  return;
-		}
-	      else if (percent > 100) /* Failure */
-	        {
+    {
+      for (eq_pos = 0; eq_pos < NUM_WEARS; eq_pos++)
+        if (GET_EQ(vict, eq_pos) &&
+        (isname(obj_name, GET_EQ(vict, eq_pos)->name)) &&
+        CAN_SEE_OBJ(ch, GET_EQ(vict, eq_pos)))
+          {
+        obj = GET_EQ(vict, eq_pos);
+        break;
+          }
+      if (!obj)
+        {
+          act("$E hasn't got that item.", FALSE, ch, 0, vict, TO_CHAR);
+          return;
+        }
+      else
+        {           /* It is equipment */
+          if ((GET_POS(vict) > POS_SLEEPING))
+        {
+          send_to_char("Steal the equipment now?  Impossible!\r\n",
+                   ch);
+          return;
+        }
+          else if (percent > 100) /* Failure */
+            {
                   act("You try to unequip $p, but fail!",
                       FALSE, ch, obj, vict, TO_CHAR);
                   act("$n tries to steal $p from $N, but fails!",
                       FALSE, ch, obj, vict, TO_NOTVICT);
-		  update_pos(vict);
-		  if (GET_POS(vict) != POS_SLEEPING)
+          update_pos(vict);
+          if (GET_POS(vict) != POS_SLEEPING)
                     ohoh = TRUE;
-		}
-	      else
-		{
+        }
+          else
+        {
                   if ((IS_CARRYING_N(ch) + 1 < CAN_CARRY_N(ch)))
                   {
                   if ((IS_CARRYING_W(ch) + GET_OBJ_WEIGHT(obj)) <
@@ -434,95 +434,95 @@ ACMD(do_steal)
                     mudlog(buf, CMP, LVL_IMMORT, TRUE);
                     affect_join(vict, &af, af.duration, FALSE, FALSE, FALSE);
                   }
-		  act("You unequip $p and steal it.",
-		      FALSE, ch, obj, 0, TO_CHAR);
-		  act("$n steals $p from $N.",
-		      TRUE, ch, obj, vict, TO_NOTVICT);
+          act("You unequip $p and steal it.",
+              FALSE, ch, obj, 0, TO_CHAR);
+          act("$n steals $p from $N.",
+              TRUE, ch, obj, vict, TO_NOTVICT);
                   improve_skill(ch, SKILL_STEAL);
                   }
                  }
                   else
                    stc("You cannot carry that much.\r\n", ch);
-		}
-	    }
-	}
+        }
+        }
+    }
       else
-	{			/* obj found in inventory */
-	  percent += GET_OBJ_WEIGHT(obj);	/* Make heavy harder */
-	  if (GET_LEVEL(vict)>GET_LEVEL(ch))
-	    percent += GET_LEVEL(vict) - GET_LEVEL(ch);
-	  if (percent > GET_SKILL(ch, SKILL_STEAL))
-	    {
-	      ohoh = TRUE;
-	      act("$N catches you trying to steal something...",
-		  FALSE, ch, 0, vict, TO_CHAR);
-	      act("$n tried to steal something from you!",
-		  FALSE, ch, 0, vict, TO_VICT);
-	      act("$n tries to steal something from $N.",
-		  TRUE, ch, 0, vict, TO_NOTVICT);
-	    }
-	  else
-	    {			/* Steal the item */
-	      if ((IS_CARRYING_N(ch) + 1 < CAN_CARRY_N(ch)))
-		{
-		  if ((IS_CARRYING_W(ch) + GET_OBJ_WEIGHT(obj)) <
-		      CAN_CARRY_W(ch))
-		    {
-		      obj_from_char(obj);
-		      obj_to_char(obj, ch);
-		      if (!IS_NPC(vict))
-		      {
+    {           /* obj found in inventory */
+      percent += GET_OBJ_WEIGHT(obj);   /* Make heavy harder */
+      if (GET_LEVEL(vict)>GET_LEVEL(ch))
+        percent += GET_LEVEL(vict) - GET_LEVEL(ch);
+      if (percent > GET_SKILL(ch, SKILL_STEAL))
+        {
+          ohoh = TRUE;
+          act("$N catches you trying to steal something...",
+          FALSE, ch, 0, vict, TO_CHAR);
+          act("$n tried to steal something from you!",
+          FALSE, ch, 0, vict, TO_VICT);
+          act("$n tries to steal something from $N.",
+          TRUE, ch, 0, vict, TO_NOTVICT);
+        }
+      else
+        {           /* Steal the item */
+          if ((IS_CARRYING_N(ch) + 1 < CAN_CARRY_N(ch)))
+        {
+          if ((IS_CARRYING_W(ch) + GET_OBJ_WEIGHT(obj)) <
+              CAN_CARRY_W(ch))
+            {
+              obj_from_char(obj);
+              obj_to_char(obj, ch);
+              if (!IS_NPC(vict))
+              {
                         sprintf(buf, "(PS) %s stole %s from %s.", GET_NAME(ch), obj->short_description,
                          GET_NAME(vict));
                         mudlog(buf, CMP, LVL_IMMORT, TRUE);
                         affect_join(vict, &af, af.duration, FALSE, FALSE, FALSE);
                       }
-		      if (!subcmd)
-		        send_to_char("Got it!\r\n", ch);
-		      else
-			act("Somehow $p makes it's way into your pack.",
-				TRUE, ch, obj, 0, TO_CHAR);
-		      improve_skill(ch, SKILL_STEAL);
+              if (!subcmd)
+                send_to_char("Got it!\r\n", ch);
+              else
+            act("Somehow $p makes it's way into your pack.",
+                TRUE, ch, obj, 0, TO_CHAR);
+              improve_skill(ch, SKILL_STEAL);
                     }
-		}
-	      else
-		send_to_char("You cannot carry that much.\r\n", ch);
-	    }
-	}
+        }
+          else
+        send_to_char("You cannot carry that much.\r\n", ch);
+        }
+    }
     }
   else
-    {			/* Steal some coins */
+    {           /* Steal some coins */
       if (percent > GET_SKILL(ch, SKILL_STEAL))
-	{
-	  ohoh = TRUE;
-	  act("Oops..", FALSE, ch, 0, 0, TO_CHAR);
-	  act("You discover that $n has $s hands in your wallet.",
-	      FALSE, ch, 0, vict, TO_VICT);
-	  act("$n tries to steal gold from $N.",
-	      TRUE, ch, 0, vict, TO_NOTVICT);
-	}
+    {
+      ohoh = TRUE;
+      act("Oops..", FALSE, ch, 0, 0, TO_CHAR);
+      act("You discover that $n has $s hands in your wallet.",
+          FALSE, ch, 0, vict, TO_VICT);
+      act("$n tries to steal gold from $N.",
+          TRUE, ch, 0, vict, TO_NOTVICT);
+    }
       else
-	{
-	  /* Steal some gold coins */
-	  gold = (int) ((GET_GOLD(vict) * number(1, 10)) / 100);
-	  gold = MIN(1782, gold);
-	  if (gold > 0)
-	    {
-	      GET_GOLD(ch) += gold;
-	      GET_GOLD(vict) -= gold;
-	      if (gold > 1)
-		{
-		  sprintf(buf, "Bingo!  You got %d gold coins.\r\n", gold);
-		  send_to_char(buf, ch);
-		  improve_skill(ch, SKILL_STEAL);
+    {
+      /* Steal some gold coins */
+      gold = (int) ((GET_GOLD(vict) * number(1, 10)) / 100);
+      gold = MIN(1782, gold);
+      if (gold > 0)
+        {
+          GET_GOLD(ch) += gold;
+          GET_GOLD(vict) -= gold;
+          if (gold > 1)
+        {
+          sprintf(buf, "Bingo!  You got %d gold coins.\r\n", gold);
+          send_to_char(buf, ch);
+          improve_skill(ch, SKILL_STEAL);
                 }
-	      else
-		send_to_char("You manage to swipe a solitary "
-			     "gold coin.\r\n", ch);
-	    }
-	  else
-	    send_to_char("You couldn't get any gold...\r\n", ch);
-	}
+          else
+        send_to_char("You manage to swipe a solitary "
+                 "gold coin.\r\n", ch);
+        }
+      else
+        send_to_char("You couldn't get any gold...\r\n", ch);
+    }
     }
 
   if (ohoh && IS_NPC(vict) && AWAKE(vict))
@@ -602,13 +602,13 @@ ACMD(do_title)
     send_to_char("Your title is fine... go away.\r\n", ch);
   else if (PLR_FLAGGED(ch, PLR_NOTITLE))
     send_to_char("You can't title yourself -- "
-		 "you shouldn't have abused it!\r\n", ch);
+         "you shouldn't have abused it!\r\n", ch);
   else if (strstr(argument, "(") || strstr(argument, ")"))
     send_to_char("Titles can't contain the ( or ) characters.\r\n", ch);
   else if (strlen(argument) > MAX_TITLE_LENGTH)
     {
       sprintf(buf, "Sorry, titles can't be longer than %d characters.\r\n",
-	      MAX_TITLE_LENGTH);
+          MAX_TITLE_LENGTH);
       send_to_char(buf, ch);
     }
   else
@@ -650,32 +650,32 @@ print_group(struct char_data *ch)
 
     if (IS_AFFECTED(k, AFF_GROUP))
       {
-	sprintf(buf, "     [%s%3d%sH %s%3d%sM %s%3d%sV] [%2d %s%s%s] $N "
-		     "(Head of group)",
-		CCGRN(ch, C_CMP), GET_HIT(k), CCNRM(ch, C_CMP),
-		CCGRN(ch, C_CMP), GET_MANA(k), CCNRM(ch, C_CMP),
-		CCGRN(ch, C_CMP), GET_MOVE(k), CCNRM(ch, C_CMP),
-		GET_LEVEL(k),
-		CCCYN(ch, C_CMP),CLASS_ABBR(k), CCNRM(ch, C_CMP));
-	act(buf, FALSE, ch, 0, k, TO_CHAR);
+    sprintf(buf, "     [%s%3d%sH %s%3d%sM %s%3d%sV] [%2d %s%s%s] $N "
+             "(Head of group)",
+        CCGRN(ch, C_CMP), GET_HIT(k), CCNRM(ch, C_CMP),
+        CCGRN(ch, C_CMP), GET_MANA(k), CCNRM(ch, C_CMP),
+        CCGRN(ch, C_CMP), GET_MOVE(k), CCNRM(ch, C_CMP),
+        GET_LEVEL(k),
+        CCCYN(ch, C_CMP),CLASS_ABBR(k), CCNRM(ch, C_CMP));
+    act(buf, FALSE, ch, 0, k, TO_CHAR);
       }
 
     for (f = k->followers; f; f = f->next)
       {
-	if (!IS_AFFECTED(f->follower, AFF_GROUP))
-	  continue;
+    if (!IS_AFFECTED(f->follower, AFF_GROUP))
+      continue;
 
         if (IS_NPC(f->follower))  /* checking out mob stats via group is bad */
           sprintf(buf, "     [---H ---M ---V] [-- --] $N");
         else
-	  sprintf(buf, "     [%s%3d%sH %s%3d%sM %s%3d%sV] [%2d %s%s%s] $N",
-		CCGRN(ch, C_CMP), GET_HIT(f->follower), CCNRM(ch, C_CMP),
-		CCGRN(ch, C_CMP), GET_MANA(f->follower), CCNRM(ch, C_CMP),
-		CCGRN(ch, C_CMP), GET_MOVE(f->follower), CCNRM(ch, C_CMP),
-		GET_LEVEL(f->follower),
-		CCGRN(ch, C_CMP), CLASS_ABBR(f->follower), CCNRM(ch, C_CMP));
+      sprintf(buf, "     [%s%3d%sH %s%3d%sM %s%3d%sV] [%2d %s%s%s] $N",
+        CCGRN(ch, C_CMP), GET_HIT(f->follower), CCNRM(ch, C_CMP),
+        CCGRN(ch, C_CMP), GET_MANA(f->follower), CCNRM(ch, C_CMP),
+        CCGRN(ch, C_CMP), GET_MOVE(f->follower), CCNRM(ch, C_CMP),
+        GET_LEVEL(f->follower),
+        CCGRN(ch, C_CMP), CLASS_ABBR(f->follower), CCNRM(ch, C_CMP));
 
-	act(buf, FALSE, ch, 0, f->follower, TO_CHAR);
+    act(buf, FALSE, ch, 0, f->follower, TO_CHAR);
       }
   }
 }
@@ -699,7 +699,7 @@ ACMD(do_group)
   if (ch->master)
     {
       act("You can not enroll group members without being head of a group.",
-	  FALSE, ch, 0, 0, TO_CHAR);
+      FALSE, ch, 0, 0, TO_CHAR);
       return;
     }
 
@@ -708,11 +708,11 @@ ACMD(do_group)
       perform_group(ch, ch);
       for (found = 0, f = ch->followers; f; f = f->next)
         if (f->follower->in_room == ch->in_room &&
-	    !IS_SHADOWING(f->follower))
-	  found += perform_group(ch, f->follower);
+        !IS_SHADOWING(f->follower))
+      found += perform_group(ch, f->follower);
       if (!found)
-	send_to_char("Everyone following you here is already in "
-		     "your group.\r\n", ch);
+    send_to_char("Everyone following you here is already in "
+             "your group.\r\n", ch);
       return;
     }
 
@@ -720,22 +720,22 @@ ACMD(do_group)
     send_to_char(NOPERSON, ch);
   else if (((vict->master != ch) && (vict != ch)) || IS_SHADOWING(vict))
     act("$N must follow you to enter your group.",
-	FALSE, ch, 0, vict, TO_CHAR);
+    FALSE, ch, 0, vict, TO_CHAR);
   else
     {
       if (!IS_AFFECTED(vict, AFF_GROUP))
-	perform_group(ch, vict);
+    perform_group(ch, vict);
       else
-	{
-	  if (ch != vict)
-	    act("$N is no longer a member of your group.",
-		FALSE, ch, 0, vict, TO_CHAR);
-	  act("You have been kicked out of $n's group!",
-	      FALSE, ch, 0, vict, TO_VICT);
-	  act("$N has been kicked out of $n's group!",
-	      FALSE, ch, 0, vict, TO_NOTVICT);
-	  REMOVE_BIT_AR(AFF_FLAGS(vict), AFF_GROUP);
-	}
+    {
+      if (ch != vict)
+        act("$N is no longer a member of your group.",
+        FALSE, ch, 0, vict, TO_CHAR);
+      act("You have been kicked out of $n's group!",
+          FALSE, ch, 0, vict, TO_VICT);
+      act("$N has been kicked out of $n's group!",
+          FALSE, ch, 0, vict, TO_NOTVICT);
+      REMOVE_BIT_AR(AFF_FLAGS(vict), AFF_GROUP);
+    }
     }
 }
 
@@ -758,10 +758,10 @@ ACMD(do_ungroup)
     for (f = ch->followers; f; f = next_fol) {
       next_fol = f->next;
       if (IS_AFFECTED(f->follower, AFF_GROUP)) {
-	REMOVE_BIT_AR(AFF_FLAGS(f->follower), AFF_GROUP);
-	send_to_char(buf2, f->follower);
+    REMOVE_BIT_AR(AFF_FLAGS(f->follower), AFF_GROUP);
+    send_to_char(buf2, f->follower);
         if (!IS_AFFECTED(f->follower, AFF_CHARM))
-	  stop_follower(f->follower);
+      stop_follower(f->follower);
       }
     }
 
@@ -804,7 +804,7 @@ ACMD(do_report)
   for(tch = world[ch->in_room].people; tch; tch = tch->next_in_room)
   {
     sprintf(buf, "    [%s%d%s/%s%d%s]H [%s%d%s/%s%d%s]M [%s%d%s/%s%d%s]V"
-	         " [%s%d%s]Kills [%s%d%s]PKs [%s%d%s]Deaths",
+             " [%s%d%s]Kills [%s%d%s]PKs [%s%d%s]Deaths",
          CCGRN(tch, C_NRM),GET_HIT(ch),CCNRM(tch, C_NRM),
          CCGRN(tch, C_NRM),GET_MAX_HIT(ch),CCNRM(tch, C_NRM),
          CCGRN(tch, C_NRM),GET_MANA(ch),CCNRM(tch, C_NRM),
@@ -850,9 +850,9 @@ ACMD(do_split)
 
     for (f = k->followers; f; f = f->next)
       if (IS_AFFECTED(f->follower, AFF_GROUP) &&
-	  (!IS_NPC(f->follower)) &&
-	  (f->follower->in_room == ch->in_room))
-	num++;
+      (!IS_NPC(f->follower)) &&
+      (f->follower->in_room == ch->in_room))
+    num++;
 
     if (num && IS_AFFECTED(ch, AFF_GROUP))
       share = amount / num;
@@ -864,25 +864,25 @@ ACMD(do_split)
     GET_GOLD(ch) -= share * (num - 1);
 
     if (IS_AFFECTED(k, AFF_GROUP) && (k->in_room == ch->in_room)
-	&& !(IS_NPC(k)) && k != ch) {
+    && !(IS_NPC(k)) && k != ch) {
       GET_GOLD(k) += share;
       sprintf(buf, "%s splits %d coins; you receive %d.\r\n", GET_NAME(ch),
-	      amount, share);
+          amount, share);
       send_to_char(buf, k);
     }
     for (f = k->followers; f; f = f->next) {
       if (IS_AFFECTED(f->follower, AFF_GROUP) &&
-	  (!IS_NPC(f->follower)) &&
-	  (f->follower->in_room == ch->in_room) &&
-	  f->follower != ch) {
-	GET_GOLD(f->follower) += share;
-	sprintf(buf, "%s splits %d coins; you receive %d.\r\n", GET_NAME(ch),
-		amount, share);
-	send_to_char(buf, f->follower);
+      (!IS_NPC(f->follower)) &&
+      (f->follower->in_room == ch->in_room) &&
+      f->follower != ch) {
+    GET_GOLD(f->follower) += share;
+    sprintf(buf, "%s splits %d coins; you receive %d.\r\n", GET_NAME(ch),
+        amount, share);
+    send_to_char(buf, f->follower);
       }
     }
     sprintf(buf, "You split %d coins among %d members -- %d coins each.\r\n",
-	    amount, num, share);
+        amount, num, share);
     send_to_char(buf, ch);
   } else {
     send_to_char("How many coins do you wish to split with your group?\r\n", ch);
@@ -912,27 +912,27 @@ ACMD(do_use)
     case SCMD_QUAFF:
       equipped = 0;
       if (!(mag_item = get_obj_in_list_vis(ch, arg, ch->carrying))) {
-	sprintf(buf2, "You don't seem to have %s %s.\r\n", AN(arg), arg);
-	send_to_char(buf2, ch);
-	return;
+    sprintf(buf2, "You don't seem to have %s %s.\r\n", AN(arg), arg);
+    send_to_char(buf2, ch);
+    return;
       }
       break;
     case SCMD_USE:
       if (isname(arg, "tattoo"))
       {
- 	use_tattoo(ch);
-	return;
+    use_tattoo(ch);
+    return;
       }
       for (eq_pos = 0; eq_pos < NUM_WEARS; eq_pos++)
-	if (GET_EQ(ch, eq_pos) &&
-	    (isname(arg, GET_EQ(ch, eq_pos)->name)) &&
-	    CAN_SEE_OBJ(ch, GET_EQ(ch, eq_pos)))
-	  mag_item = GET_EQ(ch, eq_pos);
+    if (GET_EQ(ch, eq_pos) &&
+        (isname(arg, GET_EQ(ch, eq_pos)->name)) &&
+        CAN_SEE_OBJ(ch, GET_EQ(ch, eq_pos)))
+      mag_item = GET_EQ(ch, eq_pos);
       if (!mag_item)
       {
-	sprintf(buf2, "You don't seem to have %s %s.\r\n", AN(arg), arg);
-	send_to_char(buf2, ch);
-	return;
+    sprintf(buf2, "You don't seem to have %s %s.\r\n", AN(arg), arg);
+    send_to_char(buf2, ch);
+    return;
       }
       break;
     /* wearable wands Serapis 140896
@@ -962,9 +962,9 @@ ACMD(do_use)
     break;
   case SCMD_USE:
     if ((GET_OBJ_TYPE(mag_item) != ITEM_WAND) &&
-	(GET_OBJ_TYPE(mag_item) != ITEM_STAFF)) {
+    (GET_OBJ_TYPE(mag_item) != ITEM_STAFF)) {
       send_to_char("You can't seem to figure out how to use it.\r\n"
-		   "Try holding it.(?)\r\n", ch);
+           "Try holding it.(?)\r\n", ch);
       return;
     }
     break;
@@ -984,7 +984,7 @@ ACMD(do_wimpy)
   if (!*arg) {
     if (GET_WIMP_LEV(ch)) {
       sprintf(buf, "Your current wimp level is %d hit points.\r\n",
-	      GET_WIMP_LEV(ch));
+          GET_WIMP_LEV(ch));
       send_to_char(buf, ch);
       return;
     } else {
@@ -995,26 +995,26 @@ ACMD(do_wimpy)
   if (isdigit(*arg)) {
     if ((wimp_lev = atoi(arg))) {
       if (wimp_lev < 0)
-	send_to_char("Heh, heh, heh.. we are jolly funny today, eh?\r\n", ch);
+    send_to_char("Heh, heh, heh.. we are jolly funny today, eh?\r\n", ch);
       else if (wimp_lev > GET_MAX_HIT(ch))
-	send_to_char("That doesn't make much sense, now does it?\r\n", ch);
+    send_to_char("That doesn't make much sense, now does it?\r\n", ch);
       else if (wimp_lev > (GET_MAX_HIT(ch)/3))
-	stc("You can't set your wimp level above one third "
-		"your hit points.\r\n", ch);
+    stc("You can't set your wimp level above one third "
+        "your hit points.\r\n", ch);
       else {
-	sprintf(buf, "Okay, you'll wimp out if you drop below %d "
-		"hit points.\r\n", wimp_lev);
-	send_to_char(buf, ch);
-	GET_WIMP_LEV(ch) = wimp_lev;
+    sprintf(buf, "Okay, you'll wimp out if you drop below %d "
+        "hit points.\r\n", wimp_lev);
+    send_to_char(buf, ch);
+    GET_WIMP_LEV(ch) = wimp_lev;
       }
     } else {
       send_to_char("Okay, you'll now tough out fights to the bitter end.\r\n",
-		ch);
+        ch);
       GET_WIMP_LEV(ch) = 0;
     }
   } else
     send_to_char("Specify at how many hit points you want to wimp out at.  "
-		"(0 to disable)\r\n", ch);
+        "(0 to disable)\r\n", ch);
 
   return;
 
@@ -1051,26 +1051,26 @@ ACMD(do_display)
       REMOVE_BIT_AR(PRF_FLAGS(ch), PRF_DISPTANK);
       REMOVE_BIT_AR(PRF_FLAGS(ch), PRF_DISPTARGET);
       if (!str_cmp(argument, "off"))
-	return;
+    return;
       for (i = 0; i < strlen(argument); i++)
-	switch (LOWER(argument[i]))
-	  {
-	  case 'h':
-	    SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPHP);
-	    break;
-	  case 'f':
-	    SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPTARGET);
-	    break;
-	  case 'm':
-	    SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPMANA);
-	    break;
-	  case 't':
-	    SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPTANK);
-	    break;
-	  case 'v':
-	    SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPMOVE);
-	    break;
-	  }
+    switch (LOWER(argument[i]))
+      {
+      case 'h':
+        SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPHP);
+        break;
+      case 'f':
+        SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPTARGET);
+        break;
+      case 'm':
+        SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPMANA);
+        break;
+      case 't':
+        SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPTANK);
+        break;
+      case 'v':
+        SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPMOVE);
+        break;
+      }
     }
   send_to_char(OK, ch);
 }
@@ -1415,130 +1415,130 @@ ACMD(do_auto)
 ACMD(do_transform)
 {
    if (!PLR_FLAGGED(ch, PLR_WEREWOLF) && !PLR_FLAGGED(ch, PLR_VAMPIRE)){
-	send_to_char("You aren't transformable!\n\r", ch);
-	return;
+    send_to_char("You aren't transformable!\n\r", ch);
+    return;
    }
    if (PLR_FLAGGED(ch, PLR_WEREWOLF)) {
-	if ( weather_info.sunlight == SUN_SET ||
-	     weather_info.sunlight == SUN_DARK ) {
-		if (IS_AFFECTED(ch, AFF_WEREWOLF))
-		{
-		send_to_char("You can't change back until morning!\n\r", ch);
-		return;
-		}
-		else if (time_info.day<6 && time_info.day >=1)
-		{
-		stc("You can't transform when there's no moon in the sky!\r\n",
-			ch);
-		return;
-		}
-		else
-		{
-		send_to_char("Your nails grow into talons, and hair sprouts"
-			" from every pore.\n\r", ch);
-		act("$n shivers and transforms into a werewolf!",
-			FALSE, ch, 0,0, TO_ROOM);
-		SET_BIT_AR(AFF_FLAGS(ch), AFF_WEREWOLF);
-		switch(time_info.moon)
-		  {
-		  case MOON_NEW:
-		    GET_HIT(ch) += GET_MAX_HIT(ch)/6;
-		    break;
-		  case MOON_QUARTER_FULL:
-		  case MOON_THREE_EMPTY:
-		    GET_HIT(ch) += GET_MAX_HIT(ch)/5;
-		    break;
-		  case MOON_HALF_FULL:
-		  case MOON_HALF_EMPTY:
-		    GET_HIT(ch) += GET_MAX_HIT(ch)/4;
-		    break;
-		  case MOON_THREE_FULL:
-		  case MOON_QUARTER_EMPTY:
-		    GET_HIT(ch) += GET_MAX_HIT(ch)/3;
-		    break;
-		  case MOON_FULL:
-		    GET_HIT(ch) += GET_MAX_HIT(ch)/2;
-		    break;
-		  default:
+    if ( weather_info.sunlight == SUN_SET ||
+         weather_info.sunlight == SUN_DARK ) {
+        if (IS_AFFECTED(ch, AFF_WEREWOLF))
+        {
+        send_to_char("You can't change back until morning!\n\r", ch);
+        return;
+        }
+        else if (time_info.day<6 && time_info.day >=1)
+        {
+        stc("You can't transform when there's no moon in the sky!\r\n",
+            ch);
+        return;
+        }
+        else
+        {
+        send_to_char("Your nails grow into talons, and hair sprouts"
+            " from every pore.\n\r", ch);
+        act("$n shivers and transforms into a werewolf!",
+            FALSE, ch, 0,0, TO_ROOM);
+        SET_BIT_AR(AFF_FLAGS(ch), AFF_WEREWOLF);
+        switch(time_info.moon)
+          {
+          case MOON_NEW:
+            GET_HIT(ch) += GET_MAX_HIT(ch)/6;
+            break;
+          case MOON_QUARTER_FULL:
+          case MOON_THREE_EMPTY:
+            GET_HIT(ch) += GET_MAX_HIT(ch)/5;
+            break;
+          case MOON_HALF_FULL:
+          case MOON_HALF_EMPTY:
+            GET_HIT(ch) += GET_MAX_HIT(ch)/4;
+            break;
+          case MOON_THREE_FULL:
+          case MOON_QUARTER_EMPTY:
+            GET_HIT(ch) += GET_MAX_HIT(ch)/3;
+            break;
+          case MOON_FULL:
+            GET_HIT(ch) += GET_MAX_HIT(ch)/2;
+            break;
+          default:
                     break;
-		  }
+          }
                 if (GET_HIT(ch) > 666)
                   GET_HIT(ch) = 666;
-		return;
-		}
-	}
-	else
-	{
-	  if (IS_AFFECTED(ch, AFF_WEREWOLF)){
-		send_to_char("Your hair and nails shorten and you revert to"
-			" your normal shape.\n\r", ch);
-		act("$n shivers and transforms out of werewolf form!",
-			FALSE, ch, 0,0, TO_ROOM);
-		REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_WEREWOLF);
-		if (GET_HIT(ch) > GET_MAX_HIT(ch))
-			GET_HIT(ch) = GET_MAX_HIT(ch);
-		return;
-	  }
-	  else{
-		send_to_char("You can't transform during the day!\n\r", ch);
-		return;
-	  }
-	}
+        return;
+        }
+    }
+    else
+    {
+      if (IS_AFFECTED(ch, AFF_WEREWOLF)){
+        send_to_char("Your hair and nails shorten and you revert to"
+            " your normal shape.\n\r", ch);
+        act("$n shivers and transforms out of werewolf form!",
+            FALSE, ch, 0,0, TO_ROOM);
+        REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_WEREWOLF);
+        if (GET_HIT(ch) > GET_MAX_HIT(ch))
+            GET_HIT(ch) = GET_MAX_HIT(ch);
+        return;
+      }
+      else{
+        send_to_char("You can't transform during the day!\n\r", ch);
+        return;
+      }
+    }
    }
 
    if (PLR_FLAGGED(ch, PLR_VAMPIRE)) {
-	if ( weather_info.sunlight == SUN_SET ||
-	     weather_info.sunlight == SUN_DARK ) {
-		if (IS_AFFECTED(ch, AFF_VAMPIRE))
-		{
-		send_to_char("You can't change back until morning!\n\r", ch);
-		return;
-		}
-		else
-		{
-		send_to_char("Your nails grow transluscent and fangs sprout"
-			" from your incisors!\n\r", ch);
-		act("$n shivers and transforms into a vampire!",
-			FALSE, ch, 0,0, TO_ROOM);
-		SET_BIT_AR(AFF_FLAGS(ch), AFF_VAMPIRE);
-		switch(time_info.moon) {
-			case MOON_NEW:
-				GET_MANA(ch) += GET_MAX_MANA(ch)/5;
-				break;
-		  	case MOON_HALF_FULL:
-		  	case MOON_HALF_EMPTY:
-				GET_MANA(ch) += GET_MAX_MANA(ch)/4;
-				break;
-			case MOON_THREE_FULL:
-			case MOON_QUARTER_EMPTY:
-				GET_MANA(ch) += GET_MAX_MANA(ch)/3;
-				break;
-			case MOON_FULL:
-				GET_MANA(ch) += GET_MAX_MANA(ch)/2;
-				break;
-			default:
+    if ( weather_info.sunlight == SUN_SET ||
+         weather_info.sunlight == SUN_DARK ) {
+        if (IS_AFFECTED(ch, AFF_VAMPIRE))
+        {
+        send_to_char("You can't change back until morning!\n\r", ch);
+        return;
+        }
+        else
+        {
+        send_to_char("Your nails grow transluscent and fangs sprout"
+            " from your incisors!\n\r", ch);
+        act("$n shivers and transforms into a vampire!",
+            FALSE, ch, 0,0, TO_ROOM);
+        SET_BIT_AR(AFF_FLAGS(ch), AFF_VAMPIRE);
+        switch(time_info.moon) {
+            case MOON_NEW:
+                GET_MANA(ch) += GET_MAX_MANA(ch)/5;
+                break;
+            case MOON_HALF_FULL:
+            case MOON_HALF_EMPTY:
+                GET_MANA(ch) += GET_MAX_MANA(ch)/4;
+                break;
+            case MOON_THREE_FULL:
+            case MOON_QUARTER_EMPTY:
+                GET_MANA(ch) += GET_MAX_MANA(ch)/3;
+                break;
+            case MOON_FULL:
+                GET_MANA(ch) += GET_MAX_MANA(ch)/2;
+                break;
+            default:
                         break;
-		}
-		return;
-		}
-	}
-	else
-	{
-	  if (IS_AFFECTED(ch, AFF_VAMPIRE)){
-		send_to_char("Your fangs recess, and you revert to"
-			" your normal shape.\n\r", ch);
-		act("$n shivers and transforms out of vampire form!",
-			FALSE, ch, 0,0, TO_ROOM);
-		REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_VAMPIRE);
-		if(GET_MANA(ch) > GET_MAX_MANA(ch))
-			GET_MANA(ch) = GET_MAX_MANA(ch);
-		return;
-	  }
-	  else{
-		send_to_char("You can't transform during the day!\n\r", ch);
-		return;
-	  }
-	}
+        }
+        return;
+        }
+    }
+    else
+    {
+      if (IS_AFFECTED(ch, AFF_VAMPIRE)){
+        send_to_char("Your fangs recess, and you revert to"
+            " your normal shape.\n\r", ch);
+        act("$n shivers and transforms out of vampire form!",
+            FALSE, ch, 0,0, TO_ROOM);
+        REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_VAMPIRE);
+        if(GET_MANA(ch) > GET_MAX_MANA(ch))
+            GET_MANA(ch) = GET_MAX_MANA(ch);
+        return;
+      }
+      else{
+        send_to_char("You can't transform during the day!\n\r", ch);
+        return;
+      }
+    }
    }
 }
 
@@ -1568,29 +1568,29 @@ ACMD(do_ride)
   else
     {
       if(IS_MOUNTED(ch))
-	send_to_char("You can't ride two beasts at once!\r\n", ch);
+    send_to_char("You can't ride two beasts at once!\r\n", ch);
       else if (IS_MOUNTED(mount))
-	send_to_char("The beast is already being ridden!\r\n", ch);
+    send_to_char("The beast is already being ridden!\r\n", ch);
       else if(!IS_MOUNTABLE(mount))
-	act("You can't ride $N!", TRUE, ch, 0, mount, TO_CHAR);
+    act("You can't ride $N!", TRUE, ch, 0, mount, TO_CHAR);
       else if (!CAN_MOUNT(ch))
-	send_to_char("You can't ride!\r\n", ch);
+    send_to_char("You can't ride!\r\n", ch);
       else if (IS_AFFECTED(ch, AFF_CHARM))
-	send_to_char("Get your master's permission first!\r\n", ch);
+    send_to_char("Get your master's permission first!\r\n", ch);
       else if ( IS_AFFECTED(mount, AFF_CHARM) && (mount->master != ch) )
-	act("$S master would not like that!", TRUE, ch, 0, mount, TO_CHAR);
+    act("$S master would not like that!", TRUE, ch, 0, mount, TO_CHAR);
       else
-	{
-	  SET_BIT_AR(AFF_FLAGS(ch), AFF_MOUNT);
-	  SET_BIT_AR(AFF_FLAGS(mount), AFF_MOUNT);
-	  if (!IS_AFFECTED(mount, AFF_CHARM))
-	    SET_BIT_AR(AFF_FLAGS(mount), AFF_CHARM);
-	  if ( !mount->master || mount->master != ch )
-	    add_follower_quiet(mount, ch);
-	  send_to_char("You hop on your mount.\r\n", ch);
-	  act("$n hops on your back!", TRUE, ch, 0, mount, TO_VICT);
-	  act("$n hops onto the back of $N.", TRUE, ch, 0, mount, TO_ROOM);
-	}
+    {
+      SET_BIT_AR(AFF_FLAGS(ch), AFF_MOUNT);
+      SET_BIT_AR(AFF_FLAGS(mount), AFF_MOUNT);
+      if (!IS_AFFECTED(mount, AFF_CHARM))
+        SET_BIT_AR(AFF_FLAGS(mount), AFF_CHARM);
+      if ( !mount->master || mount->master != ch )
+        add_follower_quiet(mount, ch);
+      send_to_char("You hop on your mount.\r\n", ch);
+      act("$n hops on your back!", TRUE, ch, 0, mount, TO_VICT);
+      act("$n hops onto the back of $N.", TRUE, ch, 0, mount, TO_ROOM);
+    }
     }
 }
 
@@ -1610,7 +1610,7 @@ ACMD(do_dismount)
       if (mount)
       {
         act ("$n dismounts from the back of $N.",
-	   TRUE, ch, 0, mount, TO_ROOM);
+       TRUE, ch, 0, mount, TO_ROOM);
         send_to_char("Your rider dismounts, whew!\r\n", mount);
       }
       unmount(ch, get_mount(ch));
@@ -1633,30 +1633,30 @@ ACMD(do_yank)
     send_to_char("That's wierd.\r\n", ch);
   else
     {
-	if (victim->master != ch)
-	{
-		send_to_char("That probably wouldn't be appreciated.\r\n", ch);
-		return;
-	}
-	if (GET_POS(victim) > POS_SITTING)
-	{
-	     if (!IS_MOUNTED(victim))
-		act("$N is already on $S feet.", TRUE, ch, 0, victim, TO_CHAR);
-	     else
-		act("You can't yank $M off $S mount!",
-			TRUE, ch, 0, victim, TO_CHAR);
-	     return;
-	}
-	if (GET_POS(victim) <= POS_SLEEPING)
-	{
-		act("$N is is no position to be yanked around!",
-			TRUE, ch, 0, victim, TO_CHAR);
-		return;
-	}
-	act("You yank $M to $S feet.", TRUE, ch, 0, victim, TO_CHAR);
-	act("$n yanks you to your feet.", TRUE, ch, 0, victim, TO_VICT);
-	act("$n yanks $N to $S feet.", TRUE, ch, 0, victim, TO_NOTVICT);
-	GET_POS(victim) = POS_STANDING;
+    if (victim->master != ch)
+    {
+        send_to_char("That probably wouldn't be appreciated.\r\n", ch);
+        return;
+    }
+    if (GET_POS(victim) > POS_SITTING)
+    {
+         if (!IS_MOUNTED(victim))
+        act("$N is already on $S feet.", TRUE, ch, 0, victim, TO_CHAR);
+         else
+        act("You can't yank $M off $S mount!",
+            TRUE, ch, 0, victim, TO_CHAR);
+         return;
+    }
+    if (GET_POS(victim) <= POS_SLEEPING)
+    {
+        act("$N is is no position to be yanked around!",
+            TRUE, ch, 0, victim, TO_CHAR);
+        return;
+    }
+    act("You yank $M to $S feet.", TRUE, ch, 0, victim, TO_CHAR);
+    act("$n yanks you to your feet.", TRUE, ch, 0, victim, TO_VICT);
+    act("$n yanks $N to $S feet.", TRUE, ch, 0, victim, TO_NOTVICT);
+    GET_POS(victim) = POS_STANDING;
 
     }
 }
@@ -1671,7 +1671,7 @@ ACMD(do_peek)
   byte percent;
 
   if (GET_CLASS(ch) != CLASS_THIEF && GET_CLASS(ch) != CLASS_ASSASSIN &&
-	 GET_LEVEL(ch) < LEVEL_IMMORT)
+     GET_LEVEL(ch) < LEVEL_IMMORT)
     {
       send_to_char("You're not a thief!\r\n", ch);
       return;
@@ -1687,13 +1687,13 @@ ACMD(do_peek)
     send_to_char("Try the 'inventory' command!\r\n", ch);
   else
     {
-      percent = number(1, 101);	/* 101% is a complete failure */
+      percent = number(1, 101); /* 101% is a complete failure */
       if ( (percent > GET_SKILL(ch, SKILL_PEEK) &&
-	    (GET_LEVEL(ch) < LEVEL_IMMORT)) )
-	{
-	  do_look(ch, argument, 0, 0);
-	  return;
-	}
+        (GET_LEVEL(ch) < LEVEL_IMMORT)) )
+    {
+      do_look(ch, argument, 0, 0);
+      return;
+    }
 
       look_at_char(victim, ch);
       improve_skill(ch, SKILL_PEEK);
@@ -1708,7 +1708,7 @@ improve_skill(struct char_data *ch, int skill)
   char skillbuf[MAX_STRING_LENGTH];
 
   if (IS_NPC(ch))
-	return;
+    return;
   percent = GET_SKILL(ch, skill);
   if (number(1, 200) > GET_WIS(ch) + GET_INT(ch))
      return;
@@ -1731,9 +1731,9 @@ ACMD(do_recall)
   struct char_data *get_mount(struct char_data *rider);
 
   if (GET_LEVEL(ch)>5 || IS_NPC(ch)) {
-	send_to_char("This command is not available for someone of your "
-		"experience!\r\n", ch);
-	return;
+    send_to_char("This command is not available for someone of your "
+        "experience!\r\n", ch);
+    return;
   }
   if (ROOM_FLAGGED(ch->in_room, ROOM_BFR)) {
       send_to_char("You can't recall from this magickal place.\r\n", ch);
@@ -1741,8 +1741,8 @@ ACMD(do_recall)
    }
   if (FIGHTING(ch))
   {
-	send_to_char("Your concentration is broken by your fighting!", ch);
-	return;
+    send_to_char("Your concentration is broken by your fighting!", ch);
+    return;
   }
   spell_recall(30, ch, ch, NULL, NULL);
 }
@@ -1767,7 +1767,7 @@ ACMD(do_stealth)
     REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_SNEAK);
   }
 
-  percent = number(1, 101);	/* 101% is a complete failure */
+  percent = number(1, 101); /* 101% is a complete failure */
 
   if (percent > GET_SKILL(ch, SKILL_STEALTH) +dex_app_skill[GET_DEX(ch)].sneak)
     return;
@@ -1783,7 +1783,7 @@ ACMD(do_stealth)
 
 ACMD(do_appraise)
 {
-  byte percent = number(1, 101);	/* 101% is a complete failure */
+  byte percent = number(1, 101);    /* 101% is a complete failure */
   struct obj_data *object;
   long cost;
 
@@ -1818,9 +1818,9 @@ ACMD(do_appraise)
 ACMD(do_inactive)
 {
    if (PRF_FLAGGED(ch, PRF_INACTIVE))
-	REMOVE_BIT_AR(PRF_FLAGS(ch), PRF_INACTIVE);
+    REMOVE_BIT_AR(PRF_FLAGS(ch), PRF_INACTIVE);
    else
-	SET_BIT_AR(PRF_FLAGS(ch), PRF_INACTIVE);
+    SET_BIT_AR(PRF_FLAGS(ch), PRF_INACTIVE);
 }
 
 ACMD(do_scout)

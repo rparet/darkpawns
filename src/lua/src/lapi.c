@@ -27,9 +27,9 @@ const char lua_ident[] = "$Lua: " LUA_VERSION " " LUA_COPYRIGHT " $\n"
 
 
 
-#define Index(L,i)	((i) >= 0 ? (L->Cbase+((i)-1)) : (L->top+(i)))
+#define Index(L,i)  ((i) >= 0 ? (L->Cbase+((i)-1)) : (L->top+(i)))
 
-#define api_incr_top(L)	incr_top
+#define api_incr_top(L) incr_top
 
 
 
@@ -388,8 +388,8 @@ LUA_API void lua_rawcall (lua_State *L, int nargs, int nresults) {
 */
 
 /* GC values are expressed in Kbytes: #bytes/2^10 */
-#define GCscale(x)		((int)((x)>>10))
-#define GCunscale(x)		((unsigned long)(x)<<10)
+#define GCscale(x)      ((int)((x)>>10))
+#define GCunscale(x)        ((unsigned long)(x)<<10)
 
 LUA_API int lua_getgcthreshold (lua_State *L) {
   return GCscale(L->GCthreshold);

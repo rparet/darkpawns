@@ -28,7 +28,7 @@ void dump(FILE* f, int n)
 
 void fdump(char* fn, int n)
 {
- FILE* f= (fn==NULL) ? stdin : fopen(fn,"rb");	/* must open in binary mode */
+ FILE* f= (fn==NULL) ? stdin : fopen(fn,"rb");  /* must open in binary mode */
  if (f==NULL)
  {
   fprintf(stderr,"bin2c: cannot open ");

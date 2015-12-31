@@ -99,7 +99,7 @@ ACMD(do_mold)
    strcpy(obj->description, sdescr);
 
    sprintf(sdescr, "The material magically hardens when you create %s.\r\n"
-	   , obj->short_description);
+       , obj->short_description);
    send_to_char(sdescr, ch);
 
 }
@@ -150,7 +150,7 @@ ACMD(do_carve)
   else if (!(strstr(obj->name,"corpse")))
     {
       send_to_char("Your initials are about all you can carve in that!\r\n",
-		   ch);
+           ch);
       return;
     }
   else if (!(strstr(obj->name,"carve_")))
@@ -179,16 +179,16 @@ ACMD(do_carve)
   if(ch->equipment[WEAR_WIELD])
     {
       if (ch->equipment[WEAR_WIELD]->obj_flags.value[3] == 3)/*type3=slash*/
-	obj_to_char(tmp_obj, ch);
+    obj_to_char(tmp_obj, ch);
       else
-	if (ch->equipment[WEAR_WIELD]->obj_flags.value[3]==11)/*type11=pierce*/
-	  obj_to_char(tmp_obj, ch);
-	else
-	  {
-	    send_to_char("You can't carve with that!\n\r",ch);
-	    extract_obj(tmp_obj);
-	    return;
-	  }
+    if (ch->equipment[WEAR_WIELD]->obj_flags.value[3]==11)/*type11=pierce*/
+      obj_to_char(tmp_obj, ch);
+    else
+      {
+        send_to_char("You can't carve with that!\n\r",ch);
+        extract_obj(tmp_obj);
+        return;
+      }
     }
   else
     {
@@ -273,31 +273,31 @@ ACMD(do_behead)
 
   if(ch->equipment[WEAR_WIELD])
     if (ch->equipment[WEAR_WIELD]->obj_flags.value[3] == 3)
-      {				/*type3=slash*/
-	act("$n beheads $p!",TRUE,ch,obj,0,TO_ROOM);
-	act("You behead $p!",TRUE,ch,obj,0,TO_CHAR);
+      {             /*type3=slash*/
+    act("$n beheads $p!",TRUE,ch,obj,0,TO_ROOM);
+    act("You behead $p!",TRUE,ch,obj,0,TO_CHAR);
       }
     else
       {
-	if (!IS_NPC(ch))
-	  act("$n rips the head off $p with $s bare hands!",
-	      TRUE,ch,obj,0,TO_ROOM);
-	else
-	  act("$n rips the head off $p!", TRUE,ch,obj,0,TO_ROOM);
+    if (!IS_NPC(ch))
+      act("$n rips the head off $p with $s bare hands!",
+          TRUE,ch,obj,0,TO_ROOM);
+    else
+      act("$n rips the head off $p!", TRUE,ch,obj,0,TO_ROOM);
 
-	act("You rip the head off $p with your bare hands!",
-	    TRUE,ch,obj,0,TO_CHAR);
+    act("You rip the head off $p with your bare hands!",
+        TRUE,ch,obj,0,TO_CHAR);
       }
   else
     {
-	if (!IS_NPC(ch))
-	  act("$n rips the head off $p with $s bare hands!",
-	      TRUE,ch,obj,0,TO_ROOM);
-	else
-	  act("$n rips the head off $p!", TRUE,ch,obj,0,TO_ROOM);
+    if (!IS_NPC(ch))
+      act("$n rips the head off $p with $s bare hands!",
+          TRUE,ch,obj,0,TO_ROOM);
+    else
+      act("$n rips the head off $p!", TRUE,ch,obj,0,TO_ROOM);
 
       act("You rip the head off $p with your bare hands!",
-	  TRUE,ch,obj,0,TO_CHAR);
+      TRUE,ch,obj,0,TO_CHAR);
     }
 
   CREATE(tmp_obj, struct obj_data, 1);
@@ -383,7 +383,7 @@ ACMD(do_headbutt)
     {
       send_to_char("You aren't qualified to headbutt anyone!\r\n", ch);
       if (!subcmd)
-	return;
+    return;
     }
   if (IS_MOUNTED(ch))
     {
@@ -396,12 +396,12 @@ ACMD(do_headbutt)
   if (!(victim = get_char_room_vis(ch, name)))
     {
       if (FIGHTING(ch))
-	victim = FIGHTING(ch);
+    victim = FIGHTING(ch);
       else
-	{
-	  send_to_char("Headbutt who?\n\r", ch);
-	  return;
-	}
+    {
+      send_to_char("Headbutt who?\n\r", ch);
+      return;
+    }
     }
 
   if (victim == ch)
@@ -419,7 +419,7 @@ ACMD(do_headbutt)
       return;
     }
 
-  percent = number(1, 121);	/* 101% is a complete failure */
+  percent = number(1, 121); /* 101% is a complete failure */
 
   if ((GET_POS(victim) <= POS_SLEEPING) ||
       (GET_LEVEL(ch) > LEVEL_IMMORT))
@@ -437,24 +437,24 @@ ACMD(do_headbutt)
   if ( percent > (subcmd?number(50,100):GET_SKILL(ch,SKILL_HEADBUTT)) )
     {
       if (GET_POS(victim) > POS_DEAD)
-	  damage(ch, victim, 0, SKILL_HEADBUTT);
+      damage(ch, victim, 0, SKILL_HEADBUTT);
     }
   else
     if (GET_POS(victim) > POS_DEAD)
       {
-	if(!GET_EQ(ch, WEAR_HEAD))
-	  GET_HIT(ch) -= GET_LEVEL(ch)/4;
-	else
-	  GET_HIT(ch) -= GET_LEVEL(ch)/3;
-	damage(ch, victim, GET_LEVEL(ch), SKILL_HEADBUTT);
+    if(!GET_EQ(ch, WEAR_HEAD))
+      GET_HIT(ch) -= GET_LEVEL(ch)/4;
+    else
+      GET_HIT(ch) -= GET_LEVEL(ch)/3;
+    damage(ch, victim, GET_LEVEL(ch), SKILL_HEADBUTT);
         improve_skill(ch, SKILL_HEADBUTT);
-	if (victim && GET_POS(victim) > POS_STUNNED)
-	{
-	   GET_POS(victim) = POS_SITTING;
+    if (victim && GET_POS(victim) > POS_STUNNED)
+    {
+       GET_POS(victim) = POS_SITTING;
            update_pos(victim);
-	}
+    }
         if (!subcmd)
-	   improve_skill(ch, SKILL_HEADBUTT);
+       improve_skill(ch, SKILL_HEADBUTT);
       }
   WAIT_STATE(ch, PULSE_VIOLENCE*3);
 } /* do_headbutt*/
@@ -479,7 +479,7 @@ ACMD(do_bearhug)
   if (!GET_SKILL(ch, SKILL_BEARHUG))
     {
       send_to_char("You'd better leave all the martial arts to fighters.\n\r",
-		   ch);
+           ch);
       if (!subcmd)
         return;
     }
@@ -493,12 +493,12 @@ ACMD(do_bearhug)
   if (!(victim = get_char_room_vis(ch, arg)))
     {
       if (FIGHTING(ch))
-	victim = FIGHTING(ch);
+    victim = FIGHTING(ch);
       else
-	{
-	  send_to_char("Bear hug who?\r\n", ch);
-	  return;
-	}
+    {
+      send_to_char("Bear hug who?\r\n", ch);
+      return;
+    }
     }
 
   if (!IS_MOB(victim) && GET_LEVEL(victim) >= LEVEL_IMMORT)
@@ -519,7 +519,7 @@ ACMD(do_bearhug)
       return;
     }
 
-  percent = number(1, 150);	/* 101% is a complete failure */
+  percent = number(1, 150); /* 101% is a complete failure */
 
   if ((GET_POS(victim) <= POS_SLEEPING) ||
       (GET_LEVEL(ch) > LEVEL_IMMORT))
@@ -580,7 +580,7 @@ ACMD(do_cutthroat)
   if (ch->equipment[WEAR_WIELD]->obj_flags.value[3] != 11)
     {
       send_to_char("Only daggers and such can be used for cutting a "
-		   "throat.\n\r", ch);
+           "throat.\n\r", ch);
       return;
     }
 
@@ -614,7 +614,7 @@ ACMD(do_cutthroat)
       return;
     }
 
-  percent = number(1, 101);	/* 101% is a complete failure */
+  percent = number(1, 101); /* 101% is a complete failure */
 
   prob = GET_SKILL(ch, SKILL_CUTTHROAT);
   if (GET_LEVEL(ch)>LEVEL_IMMORT)
@@ -642,11 +642,11 @@ ACMD(do_cutthroat)
     {
       send_to_char("Your slash at their throat barely misses!\n\r",ch);
       sprintf(buf, "%s makes a vicious lunge at your throat!\r\n",
-		GET_NAME(ch));
+        GET_NAME(ch));
       send_to_char(buf,victim);
     }
 
-  if (percent < prob)	/*success*/
+  if (percent < prob)   /*success*/
     damage(ch, victim, GET_LEVEL(ch)/2, SKILL_CUTTHROAT);
   else
     hit(ch, victim, SKILL_CUTTHROAT);
@@ -670,8 +670,8 @@ ACMD(do_otouch) /*orgasmic touch for immortals*/
   if(!IS_NPC(ch))
     if (GET_LEVEL(ch) < LEVEL_IMMORT)
       {
-	send_to_char("Come again?\n\r", ch); /*I couldn't resist =)*/
-	return;
+    send_to_char("Come again?\n\r", ch); /*I couldn't resist =)*/
+    return;
       }
 
   one_argument(argument, arg);
@@ -681,45 +681,45 @@ ACMD(do_otouch) /*orgasmic touch for immortals*/
   else
     {
       if (!(victim = get_char_room_vis(ch, arg)))
-	send_to_char("Humm...seems that person doesn't need your help.\n\r",
-		     ch);
+    send_to_char("Humm...seems that person doesn't need your help.\n\r",
+             ch);
       else if (ch == victim)
-	{
-	  send_to_char("Yes, it WILL fall off if you don't stop that.\n\r",
-		       ch);
-	  act("$n just can't stop playing with $Mself!\n\r",
-	      FALSE, ch, 0, victim, TO_NOTVICT);
-	}
+    {
+      send_to_char("Yes, it WILL fall off if you don't stop that.\n\r",
+               ch);
+      act("$n just can't stop playing with $Mself!\n\r",
+          FALSE, ch, 0, victim, TO_NOTVICT);
+    }
       else
-	{
-	  act("You touch $N, who slumps over in orgasm!",
-	      FALSE, ch, 0, victim, TO_CHAR);
-	  act("A wonderful feeling spreads throughout your entire body "
-	      "as $N touches you in all the right places...\n\r"
-	      "You explode with a breath-taking orgasm!!",
-	      FALSE, victim, 0, ch, TO_CHAR);
-	  act("$N collapses in a quivering, moaning heap as $n touches them..",
-	      FALSE, ch, 0, victim, TO_NOTVICT);
-	  GET_HIT(victim)+=2;
+    {
+      act("You touch $N, who slumps over in orgasm!",
+          FALSE, ch, 0, victim, TO_CHAR);
+      act("A wonderful feeling spreads throughout your entire body "
+          "as $N touches you in all the right places...\n\r"
+          "You explode with a breath-taking orgasm!!",
+          FALSE, victim, 0, ch, TO_CHAR);
+      act("$N collapses in a quivering, moaning heap as $n touches them..",
+          FALSE, ch, 0, victim, TO_NOTVICT);
+      GET_HIT(victim)+=2;
 
-	  if (GET_SEX(victim) == SEX_MALE)
-	    {
-	      send_to_char("God, you need some beer and some food.\n\r",
-			   victim);
-	      act("A dark stain appears under $N's armor and slowly "
-		  "spreads down his leg.", FALSE, ch, 0, victim, TO_NOTVICT);
-	      if (GET_COND(victim,FULL)>=0)
-		GET_COND(victim,FULL)=0;
-	    }
+      if (GET_SEX(victim) == SEX_MALE)
+        {
+          send_to_char("God, you need some beer and some food.\n\r",
+               victim);
+          act("A dark stain appears under $N's armor and slowly "
+          "spreads down his leg.", FALSE, ch, 0, victim, TO_NOTVICT);
+          if (GET_COND(victim,FULL)>=0)
+        GET_COND(victim,FULL)=0;
+        }
 
-	  if ((GET_SEX(victim) == SEX_FEMALE)&&(GET_SEX(ch)==SEX_MALE))
-	    {
-	      send_to_char("Once is never enough, you beg for more!\n\r",
-			   victim);
-	      act("$N pleads for more and $n deftly glides a hand beneath "
-		  "her panties!", FALSE, ch, 0, victim, TO_NOTVICT);
-	    }
-	}
+      if ((GET_SEX(victim) == SEX_FEMALE)&&(GET_SEX(ch)==SEX_MALE))
+        {
+          send_to_char("Once is never enough, you beg for more!\n\r",
+               victim);
+          act("$N pleads for more and $n deftly glides a hand beneath "
+          "her panties!", FALSE, ch, 0, victim, TO_NOTVICT);
+        }
+    }
     }
 }
 
@@ -755,12 +755,12 @@ ACMD(do_trip)
   if (!(victim = get_char_room_vis(ch, arg)))
     {
       if (FIGHTING(ch))
-	victim = FIGHTING(ch);
+    victim = FIGHTING(ch);
       else
-	{
-	  send_to_char("Trip who?\r\n", ch);
-	  return;
-	}
+    {
+      send_to_char("Trip who?\r\n", ch);
+      return;
+    }
     }
 
   if (IS_MOUNTED(ch))
@@ -776,13 +776,13 @@ ACMD(do_trip)
   }
   if (IS_AFFECTED(victim, AFF_FLY))
   {
-	stc("You can't trip something that's FLYING!\r\n", ch);
-	return;
+    stc("You can't trip something that's FLYING!\r\n", ch);
+    return;
   }
   if (GET_POS(victim) <= POS_SLEEPING)
   {
-	stc("Whats the point of doing that now?\r\n", ch);
-	return;
+    stc("Whats the point of doing that now?\r\n", ch);
+    return;
   }
 
   percent = number(1, 121); /* 101% is a complete failure */
@@ -807,11 +807,11 @@ ACMD(do_trip)
       if (!subcmd)
         improve_skill(ch, SKILL_TRIP);
       if (victim)
-	{
-	  GET_POS(victim) = POS_SITTING;
-	  update_pos(victim);
-	  WAIT_STATE(victim, PULSE_VIOLENCE);
-	}
+    {
+      GET_POS(victim) = POS_SITTING;
+      update_pos(victim);
+      WAIT_STATE(victim, PULSE_VIOLENCE);
+    }
     }
   WAIT_STATE(ch, PULSE_VIOLENCE * 2);
 }
@@ -827,25 +827,25 @@ ACMD(do_slug)
    if (!GET_SKILL(ch, SKILL_SLUG))
      {
        send_to_char("You couldn't slug your way out of a wet paper bag.\n\r",
-		    ch);
+            ch);
        return;
      }
 
    if (!(victim = get_char_room_vis(ch, arg)))
      {
        if (FIGHTING(ch))
-	 victim = FIGHTING(ch);
+     victim = FIGHTING(ch);
        else
-	 {
-	   send_to_char("Slug who?\n\r", ch);
-	   return;
-	 }
+     {
+       send_to_char("Slug who?\n\r", ch);
+       return;
+     }
      }
 
    if (victim == ch)
      {
       send_to_char("You curl up your fist and slug yourself in the nose! "
-		   "Ouch!\n\r", ch);
+           "Ouch!\n\r", ch);
       return;
      }
 
@@ -895,25 +895,25 @@ ACMD(do_charge)
   if (!(victim = get_char_room_vis(ch, arg)))
     {
       if (FIGHTING(ch))
-	victim = FIGHTING(ch);
+    victim = FIGHTING(ch);
       else
-	{
-	  send_to_char("Great! Fine! Charge who?!?!\r\n", ch);
-	  return;
-	}
+    {
+      send_to_char("Great! Fine! Charge who?!?!\r\n", ch);
+      return;
+    }
     }
 
   if (victim == ch)
     {
       send_to_char("You charge headlong into the ground, "
-		   "impressing everyone..\n\r", ch);
+           "impressing everyone..\n\r", ch);
       return;
     }
 
   if (!(wielded=ch->equipment[WEAR_WIELD]))
     {
       send_to_char("You're barehanded, try it with a sword or "
-		   "lance next time.\n\r", ch);
+           "lance next time.\n\r", ch);
       return;
     }
 
@@ -943,11 +943,11 @@ ACMD(do_charge)
     {
       int mountdam = 0;
       if (IS_MOUNTED(ch))
-	mountdam = 50;
+    mountdam = 50;
       damage(ch, victim,
-	     mountdam +(2*(dice(wielded->obj_flags.value[1],
-				wielded->obj_flags.value[2]))),
-	     SKILL_CHARGE);
+         mountdam +(2*(dice(wielded->obj_flags.value[1],
+                wielded->obj_flags.value[2]))),
+         SKILL_CHARGE);
       if (!subcmd)
         improve_skill(ch, SKILL_CHARGE);
     }
@@ -977,7 +977,7 @@ ACMD(do_smackheads)
   if (!GET_SKILL(ch, SKILL_SMACKHEADS))
     {
       send_to_char("The only heads you're gonna smack are yours and "
-		   "Rosie's.\n\r", ch);
+           "Rosie's.\n\r", ch);
       return;
     }
 
@@ -1122,7 +1122,7 @@ ACMD(do_spike)
   else if (!(victim = get_char_room_vis(ch, arg)))
     send_to_char(NOPERSON, ch);
   else if ( !GET_EQ(ch, WEAR_WIELD) ||
-	    !strstr(OBJN(GET_EQ(ch, WEAR_WIELD), ch), weapon) )
+        !strstr(OBJN(GET_EQ(ch, WEAR_WIELD), ch), weapon) )
     {
       sprintf(spikebuf, "You need to wield a %s to succeed!\r\n", weapon);
       send_to_char(spikebuf, ch);
@@ -1136,53 +1136,53 @@ ACMD(do_spike)
   else if (subcmd==SCMD_STAKE && !IS_AFFECTED(victim, AFF_VAMPIRE))
     send_to_char("Staking is only for vampires..\r\n", ch);
   else if ((subcmd == SCMD_SPIKE && PLR_FLAGGED(ch, PLR_WEREWOLF)) ||
-	   (subcmd == SCMD_STAKE && PLR_FLAGGED(ch, PLR_VAMPIRE)) )
+       (subcmd == SCMD_STAKE && PLR_FLAGGED(ch, PLR_VAMPIRE)) )
     send_to_char("You can't destroy your own kind!\r\n", ch);
 
   /* took this out so you can do nightbreeds any time -rparet
   else if(weather_info.sunlight == SUN_SET||
-	  weather_info.sunlight == SUN_DARK )
+      weather_info.sunlight == SUN_DARK )
     send_to_char("The beast is too strong at night to be destroyed!\r\n",
-		 ch);
+         ch);
   */
   else if ((GET_LEVEL(victim)>=LEVEL_IMMORT) && (GET_LEVEL(ch)<LEVEL_IMMORT))
     send_to_char("Yeah, right.\r\n", ch);
   else
     {
       /* success: your level > than victims or
-	 victim-char_level < random_numberfrom0to31 or
-	 the victim is asleep */
+     victim-char_level < random_numberfrom0to31 or
+     the victim is asleep */
       if ((GET_LEVEL(ch) > GET_LEVEL(victim)) ||
-	  (GET_LEVEL(victim)-GET_LEVEL(ch) < number(0,LEVEL_IMMORT)) ||
-	  !AWAKE(victim) )
-	{
-	  act("You drive $p into $S chest!",
-	      FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_CHAR);
-	  act("$n drives $p into the chest of $N!",
-	      FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_NOTVICT);
-	  act("$n drives $p into your chest with a solid blow!",
-	      FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_VICT);
-	  if (PLR_FLAGGED(victim, PLR_VAMPIRE))
-	    REMOVE_BIT_AR(PLR_FLAGS(victim), PLR_VAMPIRE);
-	  if (PLR_FLAGGED(victim, PLR_WEREWOLF))
-	    REMOVE_BIT_AR(PLR_FLAGS(victim), PLR_WEREWOLF);
-	  sprintf(buf, "%s %sd %s at %s.",
-		  GET_NAME(ch), weapon, GET_NAME(victim),
-		  world[victim->in_room].name);
-	  mudlog(buf, BRF, LVL_IMMORT, TRUE);
-	  GET_PKS(ch)++;
-	  GET_DEATHS(victim)++;
-	  raw_kill(victim, TYPE_UNDEFINED);
-	}
+      (GET_LEVEL(victim)-GET_LEVEL(ch) < number(0,LEVEL_IMMORT)) ||
+      !AWAKE(victim) )
+    {
+      act("You drive $p into $S chest!",
+          FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_CHAR);
+      act("$n drives $p into the chest of $N!",
+          FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_NOTVICT);
+      act("$n drives $p into your chest with a solid blow!",
+          FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_VICT);
+      if (PLR_FLAGGED(victim, PLR_VAMPIRE))
+        REMOVE_BIT_AR(PLR_FLAGS(victim), PLR_VAMPIRE);
+      if (PLR_FLAGGED(victim, PLR_WEREWOLF))
+        REMOVE_BIT_AR(PLR_FLAGS(victim), PLR_WEREWOLF);
+      sprintf(buf, "%s %sd %s at %s.",
+          GET_NAME(ch), weapon, GET_NAME(victim),
+          world[victim->in_room].name);
+      mudlog(buf, BRF, LVL_IMMORT, TRUE);
+      GET_PKS(ch)++;
+      GET_DEATHS(victim)++;
+      raw_kill(victim, TYPE_UNDEFINED);
+    }
       else
-	{
-	  act("$N twists at the last moment, and you miss!",
-	      FALSE, ch, 0, victim, TO_CHAR);
-	  act("$N growls in anger as $n tries to drive a $p into $M!",
-	      FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_NOTVICT);
-	  act("$n comes at you with a $p, but you dodge the attempt!",
-	      FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_VICT);
-	}
+    {
+      act("$N twists at the last moment, and you miss!",
+          FALSE, ch, 0, victim, TO_CHAR);
+      act("$N growls in anger as $n tries to drive a $p into $M!",
+          FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_NOTVICT);
+      act("$n comes at you with a $p, but you dodge the attempt!",
+          FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_VICT);
+    }
       WAIT_STATE(ch, PULSE_VIOLENCE*2);
     }
 }
@@ -1229,17 +1229,17 @@ ACMD(do_bite)
        || (IS_NPC(ch)) )
     {
       if(!victim)
-	{
-	  send_to_char("You gnash your teeth.\r\n", ch);
-	  act("$n gnashes $s teeth.", TRUE, ch, 0, 0, TO_ROOM);
-	}
+    {
+      send_to_char("You gnash your teeth.\r\n", ch);
+      act("$n gnashes $s teeth.", TRUE, ch, 0, 0, TO_ROOM);
+    }
       else
-	{
-	  act("You give $N a love bite.", TRUE, ch, 0, victim, TO_CHAR);
-	  act("$n tries to give you a little love bite.", TRUE,
-	      ch, 0, victim, TO_VICT);
-	 act("$n gives $N a love bite.", TRUE, ch, 0, victim, TO_NOTVICT);
-	}
+    {
+      act("You give $N a love bite.", TRUE, ch, 0, victim, TO_CHAR);
+      act("$n tries to give you a little love bite.", TRUE,
+          ch, 0, victim, TO_VICT);
+     act("$n gives $N a love bite.", TRUE, ch, 0, victim, TO_NOTVICT);
+    }
       return;
     }
   else if(!(IS_AFFECTED(ch, AFF_WEREWOLF))&&!(IS_AFFECTED(ch, AFF_VAMPIRE)))
@@ -1267,9 +1267,9 @@ ACMD(do_bite)
       act("You rip the flesh of $N, and blood pours over your lips!",
           TRUE,ch,0,victim,TO_CHAR);
       act("$n rips your flesh, leaving you bleeding and dazed!",
-	  TRUE,ch,0,victim,TO_VICT);
+      TRUE,ch,0,victim,TO_VICT);
       act("$n rips the flesh of $N, growling with bloodlust!",
-	  TRUE,ch,0,victim,TO_NOTVICT);
+      TRUE,ch,0,victim,TO_NOTVICT);
 
       damage(ch, victim, MIN(15,GET_LEVEL(ch)), SKILL_BITE);
       WAIT_STATE(ch, PULSE_VIOLENCE * 2);
@@ -1277,22 +1277,22 @@ ACMD(do_bite)
   else
     {
       act("Your fangs sink into the soft flesh of $N, and $S blood pours "
-	  "over your lips." ,TRUE,ch,0,victim,TO_CHAR);
+      "over your lips." ,TRUE,ch,0,victim,TO_CHAR);
       act("$n's fangs sink into your flesh, leaving you bleeding and dazed!",
-	  TRUE,ch,0,victim,TO_VICT);
+      TRUE,ch,0,victim,TO_VICT);
       act("$n sinks $s fangs into the flesh of $N, feeding off $S blood!",
-	  TRUE,ch,0,victim,TO_NOTVICT);
+      TRUE,ch,0,victim,TO_NOTVICT);
 
       if (!number(0,GET_LEVEL(ch)/2))
-	{ /* fighting, or a sloppy bite */
-	  act("$N screams in agony!", TRUE, ch, 0, victim, TO_NOTVICT);
-	  damage(ch, victim, MIN(15,GET_LEVEL(ch)), SKILL_BITE);
-	  WAIT_STATE(ch, PULSE_VIOLENCE * 2);
-	}
+    { /* fighting, or a sloppy bite */
+      act("$N screams in agony!", TRUE, ch, 0, victim, TO_NOTVICT);
+      damage(ch, victim, MIN(15,GET_LEVEL(ch)), SKILL_BITE);
+      WAIT_STATE(ch, PULSE_VIOLENCE * 2);
+    }
      if ((GET_COND(ch, FULL) < 40) && (GET_COND(ch, FULL) >= 0))
-	GET_COND(ch, FULL) += GET_LEVEL(victim);
+    GET_COND(ch, FULL) += GET_LEVEL(victim);
      if ((GET_COND(ch, THIRST) < 40) &&(GET_COND(ch, THIRST) >= 0))
-	GET_COND(ch, THIRST) += GET_LEVEL(victim);
+    GET_COND(ch, THIRST) += GET_LEVEL(victim);
     }
   return;
 }
@@ -1315,17 +1315,17 @@ full_moon(void)
   for (i = descriptor_list; i; i = i->next)
     if (!i->connected && i->character )
       if (PLR_FLAGGED(i->character, PLR_VAMPIRE) ||
-	  PLR_FLAGGED(i->character, PLR_WEREWOLF))
-	if (!IS_AFFECTED(i->character, AFF_VAMPIRE) &&
-	    !IS_AFFECTED(i->character, AFF_WEREWOLF))
-	  {
-	    send_to_char("The lunar light infuses your body, forcing you to "
-			 "transform!\r\n", i->character);
-	    send_to_char("Racked with the pain of the transformation, your "
-			 "head is thrown\r\nback and an unearthly moan escapes"
-			 " your lips.\r\n", i->character);
-	    do_transform(i->character, "", 0, 0);
-	  }
+      PLR_FLAGGED(i->character, PLR_WEREWOLF))
+    if (!IS_AFFECTED(i->character, AFF_VAMPIRE) &&
+        !IS_AFFECTED(i->character, AFF_WEREWOLF))
+      {
+        send_to_char("The lunar light infuses your body, forcing you to "
+             "transform!\r\n", i->character);
+        send_to_char("Racked with the pain of the transformation, your "
+             "head is thrown\r\nback and an unearthly moan escapes"
+             " your lips.\r\n", i->character);
+        do_transform(i->character, "", 0, 0);
+      }
 }
 
 
@@ -1374,18 +1374,18 @@ ACMD(do_review)
   for (count = 24; count >= 0; count--)
     {
       if (strcmp(review[count].name,"\0"))/* i.e name != NULL */
-	{
-	  strcat(buf, CCCYN(ch, C_CMP));
-	  if (review[count].invis <= GET_LEVEL(ch))
-	    strcat(buf, review[count].name);
-	  else
-	    strcat(buf, "Someone invisible");
-	  strcat(buf, ": ");
-	  strcat(buf, CCYEL(ch, C_CMP));
-	  strcat(buf, review[count].string);
-	  strcat(buf, CCNRM(ch, C_CMP));
-	  strcat(buf, "\n\r");
-	}
+    {
+      strcat(buf, CCCYN(ch, C_CMP));
+      if (review[count].invis <= GET_LEVEL(ch))
+        strcat(buf, review[count].name);
+      else
+        strcat(buf, "Someone invisible");
+      strcat(buf, ": ");
+      strcat(buf, CCYEL(ch, C_CMP));
+      strcat(buf, review[count].string);
+      strcat(buf, CCNRM(ch, C_CMP));
+      strcat(buf, "\n\r");
+    }
     }
   page_string(ch->desc, buf, 1);
 }
@@ -1416,8 +1416,8 @@ ACMD(do_whois)
       return;
     }
   sprintf( buf, "[%2d %s] %s %s\r\n",
-	   (int)chdata.level, class_abbrevs[(int)chdata.class],
-	   chdata.name, chdata.title );
+       (int)chdata.level, class_abbrevs[(int)chdata.class],
+       chdata.name, chdata.title );
   send_to_char(buf, ch);
 }
 
@@ -1433,7 +1433,7 @@ ACMD(do_whois)
 ACMD(do_strike)
 {
   struct char_data *vict = NULL;
-  int percent = number(1, 101);	/* 101% is a complete failure */
+  int percent = number(1, 101); /* 101% is a complete failure */
   int prob = GET_SKILL(ch, SKILL_STRIKE);
 
   one_argument(argument, arg);
@@ -1464,7 +1464,7 @@ ACMD(do_strike)
   if (IS_AFFECTED(ch, AFF_CHARM) && (ch->master == vict))
     {
       act("$N is just such a good friend, you simply can't strike $M.",
-	  FALSE, ch, 0, vict, TO_CHAR);
+      FALSE, ch, 0, vict, TO_CHAR);
       return;
     }
 
@@ -1500,7 +1500,7 @@ ACMD(do_strike)
 static int
 check_kk_success( struct char_data *ch, int skill_num)
 {
-  int percent = number(1, 101);	/* 101% is a complete failure */
+  int percent = number(1, 101); /* 101% is a complete failure */
   int prob = 0;
 
   switch (skill_num)
@@ -1680,9 +1680,9 @@ ACMD(do_kuji_kiri)
         return;
       }
       if (success)
-	call_magic(ch, ch, NULL, SPELL_TELEPORT, GET_LEVEL(ch), CAST_SPELL);
+    call_magic(ch, ch, NULL, SPELL_TELEPORT, GET_LEVEL(ch), CAST_SPELL);
       else
-	tovict="Your concentration is broken!\r\n";
+    tovict="Your concentration is broken!\r\n";
       af[0].duration = 5;
       toroom = NULL;
       break;
@@ -1925,11 +1925,11 @@ ACMD(do_flesh_alter)
       SET_BIT_AR(AFF_FLAGS(ch), AFF_FLESH_ALTER);
       flesh_alter_to(ch);
       if (weap)
-	{
-	  obj_to_char(unequip_char(ch, WEAR_WIELD), ch);
-	  act("You stop using $p.", FALSE, ch, weap, 0, TO_CHAR);
-	  act("$n stops using $p.", TRUE, ch, weap, 0, TO_ROOM);
-	}
+    {
+      obj_to_char(unequip_char(ch, WEAR_WIELD), ch);
+      act("You stop using $p.", FALSE, ch, weap, 0, TO_CHAR);
+      act("$n stops using $p.", TRUE, ch, weap, 0, TO_ROOM);
+    }
       sprintf(to_vict, "Your hand turns into a %s!\r\n", weapon);
       sprintf(to_room, "$n's hand turns into a %s!", weapon);
     }
@@ -1975,15 +1975,15 @@ ACMD(do_compare)
        FIGHTING(ch) )
     {
       if (FIGHTING(ch))
-	{
-	  send_to_char("You're pretty busy right now!\n\r", ch);
-	  return;
-	}
+    {
+      send_to_char("You're pretty busy right now!\n\r", ch);
+      return;
+    }
       else
-	{
-	  send_to_char("Looks like you don't have those objects..\n\r", ch);
-	  return;
-	}
+    {
+      send_to_char("Looks like you don't have those objects..\n\r", ch);
+      return;
+    }
     }
 
   if (obj1 == obj2)
@@ -2054,11 +2054,11 @@ ACMD(do_compare)
       }
   }
 
-  percent = number(1, 101);	/* 101% is a complete failure */
+  percent = number(1, 101); /* 101% is a complete failure */
 
   if (GET_OBJ_TYPE(obj1) == ITEM_WEAPON)
     diff = ( (((GET_OBJ_VAL(obj1, 2) + 1) / 2.0) * GET_OBJ_VAL(obj1, 1)) -
-	   (((GET_OBJ_VAL(obj2, 2) + 1) / 2.0) * GET_OBJ_VAL(obj2, 1)) );
+       (((GET_OBJ_VAL(obj2, 2) + 1) / 2.0) * GET_OBJ_VAL(obj2, 1)) );
 
   if (GET_OBJ_TYPE(obj1) == ITEM_ARMOR)
     diff = ( ((GET_OBJ_VAL(obj1, 0) + 1) / 2.0) - ((GET_OBJ_VAL(obj2, 0) + 1) / 2.0));
@@ -2109,7 +2109,7 @@ ACMD(do_palm)
 {
   void get_from_room(struct char_data *ch, char *arg, bool quiet);
   char arg1[MAX_INPUT_LENGTH];
-  int percent = number(1, 101);	/* 101% is a complete failure */
+  int percent = number(1, 101); /* 101% is a complete failure */
   int prob = GET_SKILL(ch, SKILL_PALM);
 
   one_argument(argument, arg1);
@@ -2144,12 +2144,12 @@ ACMD(do_berserk)
         return;
     }
 
-  percent = number(1, 101);	/* 101% is a complete failure */
+  percent = number(1, 101); /* 101% is a complete failure */
 
   if (IS_AFFECTED(ch, AFF_BERSERK))
     {
       send_to_char("You're unable to summon your battle rage right now.\r\n",
-		   ch);
+           ch);
       return;
     }
 
@@ -2165,7 +2165,7 @@ ACMD(do_berserk)
     }
   else
     send_to_char("Your vision turns sanguine as you summon up "
-		 "your battle rage!\r\n", ch);
+         "your battle rage!\r\n", ch);
     improve_skill(ch, SKILL_BERSERK);
 
   af.modifier  = failed ? 0 : 2;
@@ -2240,7 +2240,7 @@ ACMD(do_tag)
   if (IS_NPC(vict))
     {
       act("You tag $N, but $E tags you right back!\r\n",
-	  TRUE, ch, 0, vict, TO_CHAR);
+      TRUE, ch, 0, vict, TO_CHAR);
       return;
     }
 
@@ -2256,11 +2256,11 @@ ACMD(do_tag)
   else
     {
       act("$n taps $N and screams, 'TAG! You're it!'",
-	  TRUE, ch, 0, vict, TO_NOTVICT);
+      TRUE, ch, 0, vict, TO_NOTVICT);
       act("$n taps you and screams, 'TAG! You're it!'",
-	  TRUE, ch, 0, vict, TO_VICT);
+      TRUE, ch, 0, vict, TO_VICT);
       act("You tap $N and scream, 'TAG! You're it!'",
-	  TRUE, ch, 0, vict, TO_CHAR);
+      TRUE, ch, 0, vict, TO_CHAR);
       WAIT_STATE(vict, PULSE_VIOLENCE * 2);
     }
 }
@@ -2297,43 +2297,43 @@ ACMD(do_scan)
       {
          struct char_data *tch = NULL;
          struct char_data *tch_next = NULL;
-	 for(tch = world[EXIT(ch, dir)->to_room].people; tch; tch=tch_next)
-	 {
-	    tch_next = tch->next_in_room;
-	    if ( (CAN_SEE(ch, tch) && !IS_AFFECTED(tch, AFF_HIDE)) ||
+     for(tch = world[EXIT(ch, dir)->to_room].people; tch; tch=tch_next)
+     {
+        tch_next = tch->next_in_room;
+        if ( (CAN_SEE(ch, tch) && !IS_AFFECTED(tch, AFF_HIDE)) ||
                 ( (IS_SET_AR(PRF_FLAGS(ch), PRF_HOLYLIGHT) &&
                    GET_REAL_LEVEL(ch)>=GET_INVIS_LEV(tch)) ) )
-	    {
-		ok = TRUE;
-	        break;
-	    }
-	 }
-	 if (ok)
- 	 {
-	  if (world[EXIT(ch, dir)->to_room].people)
-	  {
-	    sprintf(buf, "%s%s:\r\n",
-		    ((dir==5)?"Below":(dir==4)?"Above": "To the "),
-		    ((dir==5)?"":(dir==4)?"":dirs[dir]));
-	    send_to_char(buf, ch);
-	    found = TRUE;
-	  }
-	  for(tch = world[EXIT(ch, dir)->to_room].people; tch; tch=tch_next)
-	  {
-	    tch_next = tch->next_in_room;
-	    if ( (CAN_SEE(ch, tch) && !IS_AFFECTED(tch, AFF_HIDE)) ||
+        {
+        ok = TRUE;
+            break;
+        }
+     }
+     if (ok)
+     {
+      if (world[EXIT(ch, dir)->to_room].people)
+      {
+        sprintf(buf, "%s%s:\r\n",
+            ((dir==5)?"Below":(dir==4)?"Above": "To the "),
+            ((dir==5)?"":(dir==4)?"":dirs[dir]));
+        send_to_char(buf, ch);
+        found = TRUE;
+      }
+      for(tch = world[EXIT(ch, dir)->to_room].people; tch; tch=tch_next)
+      {
+        tch_next = tch->next_in_room;
+        if ( (CAN_SEE(ch, tch) && !IS_AFFECTED(tch, AFF_HIDE)) ||
                 ( (IS_SET_AR(PRF_FLAGS(ch), PRF_HOLYLIGHT) &&
                    GET_REAL_LEVEL(ch)>=GET_INVIS_LEV(tch)) ) )
-	    {
-	      sprintf(buf, "   %s\r\n", GET_NAME(tch));
-	      send_to_char(buf, ch);
-	    }
-	  }
-	 }
+        {
+          sprintf(buf, "   %s\r\n", GET_NAME(tch));
+          send_to_char(buf, ch);
+        }
+      }
+     }
       }
    }
    if (!found)
-	send_to_char("You see nothing around.\r\n", ch);
+    send_to_char("You see nothing around.\r\n", ch);
    return;
 }
 
@@ -2371,7 +2371,7 @@ ACMD(do_parry)
   if (percent > prob)
     {
       send_to_char("With a dazzling show of swordplay, you attempt "
-		   "to parry...but are outmaneuvered!\r\n", ch);
+           "to parry...but are outmaneuvered!\r\n", ch);
       if (!subcmd)
          improve_skill(ch, SKILL_PARRY);
       WAIT_STATE(ch, PULSE_VIOLENCE *3);
@@ -2381,9 +2381,9 @@ ACMD(do_parry)
   send_to_char("With a dazzling show of swordplay, you move into "
                "defensive position...\r\n", ch);
   act("$n displays a dazzling show of swordplay, fending off $N's every blow!",
-	TRUE, ch, 0, FIGHTING(ch), TO_ROOM);
+    TRUE, ch, 0, FIGHTING(ch), TO_ROOM);
   act("$n displays a dazzling show of swordplay, fending off your every blow!",
-	TRUE, ch, 0, FIGHTING(ch), TO_VICT);
+    TRUE, ch, 0, FIGHTING(ch), TO_VICT);
   IS_PARRIED(FIGHTING(ch)) = TRUE;
   WAIT_STATE(ch, PULSE_VIOLENCE *2);
 }
@@ -2398,10 +2398,10 @@ ACMD(do_circle)
   if (!(vict = get_char_room_vis(ch, buf)))
     {
       if (!(vict = FIGHTING(ch)))
-	{
-      	  send_to_char("Circle who?\r\n", ch);
-      	  return;
-	}
+    {
+          send_to_char("Circle who?\r\n", ch);
+          return;
+    }
     }
   if (vict == ch)
     {
@@ -2410,8 +2410,8 @@ ACMD(do_circle)
     }
   if ( FIGHTING(ch) && FIGHTING(FIGHTING(ch)) == ch)
    {
-	send_to_char("You're a little too busy right now!\r\n", ch);
-	return;
+    send_to_char("You're a little too busy right now!\r\n", ch);
+    return;
    }
   if (!GET_EQ(ch, WEAR_WIELD))
     {
@@ -2421,7 +2421,7 @@ ACMD(do_circle)
   if (GET_OBJ_VAL(GET_EQ(ch, WEAR_WIELD), 3) != TYPE_PIERCE - TYPE_HIT)
     {
       send_to_char("Only piercing weapons can be used for backstabbing.\r\n",
-		   ch);
+           ch);
       return;
     }
 
@@ -2442,19 +2442,19 @@ ACMD(do_circle)
     }
   if (GET_SKILL(ch, SKILL_CIRCLE)<=0)
   {
-	send_to_char("You make a circle in the air.\r\n", ch);
-	return;
+    send_to_char("You make a circle in the air.\r\n", ch);
+    return;
   }
 
-  percent = number(1, 101);	/* 101% is a complete failure */
+  percent = number(1, 101); /* 101% is a complete failure */
   prob = GET_SKILL(ch, SKILL_CIRCLE);
 
   if (AWAKE(vict) && (percent > prob))
   {
     if (FIGHTING(vict))
     {
-	stop_fighting(vict);
-	hit(vict, ch, TYPE_UNDEFINED);
+    stop_fighting(vict);
+    hit(vict, ch, TYPE_UNDEFINED);
     }
     damage(ch, vict, 0, SKILL_CIRCLE);
   }
@@ -2488,17 +2488,17 @@ static char *
 ismove(char *buf)
 {
   if (is_abbrev(buf, "east"))
-	return(str_dup("east"));
+    return(str_dup("east"));
   if (is_abbrev(buf, "west"))
-	return(str_dup("west"));
+    return(str_dup("west"));
   if (is_abbrev(buf, "up"))
-	return(str_dup("up"));
+    return(str_dup("up"));
   if (is_abbrev(buf, "down"))
-	return(str_dup("down"));
+    return(str_dup("down"));
   if (is_abbrev(buf, "north"))
-	return(str_dup("north"));
+    return(str_dup("north"));
   if (is_abbrev(buf, "south"))
-	return(str_dup("south"));
+    return(str_dup("south"));
   return(NULL);
 }
 
@@ -2521,12 +2521,12 @@ ACMD(do_point)
    }
    else if ((word = ismove(buf)))
    {
-	char mybuf[256];
-	sprintf(mybuf, "$n points %s.", word);
-	act(mybuf, FALSE, ch, 0, 0, TO_ROOM);
-	sprintf(mybuf, "You point %s.\r\n", word);
-	send_to_char(mybuf, ch);
-	FREE(word);
+    char mybuf[256];
+    sprintf(mybuf, "$n points %s.", word);
+    act(mybuf, FALSE, ch, 0, 0, TO_ROOM);
+    sprintf(mybuf, "You point %s.\r\n", word);
+    send_to_char(mybuf, ch);
+    FREE(word);
    }
    else
    {
@@ -2555,11 +2555,11 @@ ACMD(do_point)
    }
   }
   if (to_room)
-	act(to_room, FALSE, ch, obj, vict, TO_NOTVICT);
+    act(to_room, FALSE, ch, obj, vict, TO_NOTVICT);
   if (to_char)
-	act(to_char, TRUE, ch, obj, vict, TO_CHAR);
+    act(to_char, TRUE, ch, obj, vict, TO_CHAR);
   if (to_vict)
-	act(to_vict, TRUE, ch, obj, vict, TO_VICT);
+    act(to_vict, TRUE, ch, obj, vict, TO_VICT);
 }
 
 ACMD(do_groinrip)
@@ -2595,12 +2595,12 @@ ACMD(do_groinrip)
   if (!(victim = get_char_room_vis(ch, name)))
     {
       if (FIGHTING(ch))
-	victim = FIGHTING(ch);
+    victim = FIGHTING(ch);
       else
-	{
-	  send_to_char("Groinrip who?\n\r", ch);
-	  return;
-	}
+    {
+      send_to_char("Groinrip who?\n\r", ch);
+      return;
+    }
     }
 
   if (victim == ch)
@@ -2626,31 +2626,31 @@ ACMD(do_groinrip)
 
   if (GET_SEX(victim) != SEX_MALE)
      {
-	stc("Umm, they have nothing there to tug on!\r\n", ch);
-	return;
+    stc("Umm, they have nothing there to tug on!\r\n", ch);
+    return;
      }
 
-  percent = number(1, 121);	/* 101% is a complete failure */
+  percent = number(1, 121); /* 101% is a complete failure */
 
   if ((GET_POS(victim) <= POS_SLEEPING) ||
       (GET_LEVEL(ch) > LEVEL_IMMORT))
-	percent = 0;
+    percent = 0;
 
   if (percent < (subcmd?number(50, 100):GET_SKILL(ch, SKILL_GROINRIP)))
     {
       damage(ch, victim, GET_LEVEL(ch), SKILL_GROINRIP);
       if (victim)
         act("$n falls to $s knees, clutching $s groin and throwing up\r\n"
-	    "everywhere!", TRUE, victim, 0, 0, TO_ROOM);
+        "everywhere!", TRUE, victim, 0, 0, TO_ROOM);
       if (!number(0,10))
-	{
-	  struct obj_data *obj = read_object(21, VIRTUAL); /*puke*/
-	  if (obj)
-	  {
-		obj_to_room(obj, ch->in_room);
-	 	GET_OBJ_TIMER(obj)=2;
-	  }
-	}
+    {
+      struct obj_data *obj = read_object(21, VIRTUAL); /*puke*/
+      if (obj)
+      {
+        obj_to_room(obj, ch->in_room);
+        GET_OBJ_TIMER(obj)=2;
+      }
+    }
       improve_skill(ch, SKILL_GROINRIP);
   }
   else
@@ -2667,18 +2667,18 @@ lunar_hunter(void)
 
   for (i = descriptor_list; i; i = i->next)
     if (!i->connected && i->character)
-	if (GET_LEVEL(i->character)>12 &&
-	    GET_LEVEL(i->character)<LVL_IMMORT &&
-	    number(0,5) == 0)
-	{
-	   char msg[256];
+    if (GET_LEVEL(i->character)>12 &&
+        GET_LEVEL(i->character)<LVL_IMMORT &&
+        number(0,5) == 0)
+    {
+       char msg[256];
            mob = create_mobile(i->character,7,(GET_LEVEL(i->character)/2)+2,TRUE);
            char_from_room(mob);
            char_to_room(mob, real_room(8067));
            sprintf (msg, "%s By the light of the full moon.. DIE!",
                    GET_NAME(i->character));
            do_tell(mob, msg, find_command("tell"), 0);
-	 }
+     }
 }
 
 void
@@ -2690,10 +2690,10 @@ ghost_ship_appear(void)
      return;
 
    if (!number(0,1))
-	dock = real_room(19174);
+    dock = real_room(19174);
 
    if (!dock || !ship)
-	return;
+    return;
 
    CREATE(world[dock].dir_option[NORTH], struct room_direction_data, 1);
    world[dock].dir_option[NORTH]->to_room = ship;
@@ -2714,21 +2714,21 @@ ghost_ship_disappear(void)
      return;
 
    if (!dock || !ship || !dock2)
-	return;
+    return;
 
    if (world[dock].dir_option[NORTH])
    {
     FREE(world[dock].dir_option[NORTH]);
     world[dock].dir_option[NORTH] = NULL;
     send_to_room("Suddenly the ghostly ship to the north disappears!\r\n",
-	dock);
+    dock);
    }
    if (world[dock2].dir_option[NORTH])
    {
     FREE(world[dock2].dir_option[NORTH]);
     world[dock2].dir_option[NORTH] = NULL;
     send_to_room("Suddenly the ghostly ship to the north disappears!\r\n",
-	dock);
+    dock);
    }
    if (world[ship].dir_option[SOUTH])
    {
@@ -2750,8 +2750,8 @@ ACMD(do_sharpen)
 
    if (!(obj = get_obj_in_list_vis(ch, arg, ch->carrying)))
    {
-	stc("Sharpen what?\r\n", ch);
-	return;
+    stc("Sharpen what?\r\n", ch);
+    return;
    }
    if (GET_OBJ_TYPE(obj) != ITEM_WEAPON ||
        GET_OBJ_VAL(obj, 3) != TYPE_SLASH - TYPE_HIT)

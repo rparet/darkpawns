@@ -73,7 +73,7 @@ void load_banned(void)
 
     for (i = BAN_NOT; i <= BAN_ALL; i++)
       if (!strcmp(ban_type, ban_types[i]))
-	next_node->type = i;
+    next_node->type = i;
 
     next_node->next = ban_list;
     ban_list = next_node;
@@ -97,7 +97,7 @@ int isbanned(char *hostname)
     *nextchar = LOWER(*nextchar);
 
   for (banned_node = ban_list; banned_node; banned_node = banned_node->next)
-    if (strstr(hostname, banned_node->site))	/* if hostname is a substring */
+    if (strstr(hostname, banned_node->site))    /* if hostname is a substring */
       i = MAX(i, banned_node->type);
 
   return i;
@@ -109,7 +109,7 @@ void _write_one_node(FILE * fp, struct ban_list_element * node)
   if (node) {
     _write_one_node(fp, node->next);
     fprintf(fp, "%s %s %ld %s\n", ban_types[node->type],
-	    node->site, (long) node->date, node->name);
+        node->site, (long) node->date, node->name);
   }
 }
 
@@ -132,7 +132,7 @@ void write_ban_list(void)
 ACMD(do_ban)
 {
   char flag[MAX_INPUT_LENGTH], site[MAX_INPUT_LENGTH],
-	format[MAX_INPUT_LENGTH], *nextchar, *timestr;
+    format[MAX_INPUT_LENGTH], *nextchar, *timestr;
   int i;
   struct ban_list_element *ban_node;
 
@@ -145,27 +145,27 @@ ACMD(do_ban)
     }
     strcpy(format, "%-25.25s  %-8.8s  %-10.10s  %-16.16s\r\n");
     sprintf(buf, format,
-	    "Banned Site Name",
-	    "Ban Type",
-	    "Banned On",
-	    "Banned By");
+        "Banned Site Name",
+        "Ban Type",
+        "Banned On",
+        "Banned By");
     send_to_char(buf, ch);
     sprintf(buf, format,
-	    "---------------------------------",
-	    "---------------------------------",
-	    "---------------------------------",
-	    "---------------------------------");
+        "---------------------------------",
+        "---------------------------------",
+        "---------------------------------",
+        "---------------------------------");
     send_to_char(buf, ch);
 
     for (ban_node = ban_list; ban_node; ban_node = ban_node->next) {
       if (ban_node->date) {
-	timestr = asctime(localtime(&(ban_node->date)));
-	*(timestr + 10) = 0;
-	strcpy(site, timestr);
+    timestr = asctime(localtime(&(ban_node->date)));
+    *(timestr + 10) = 0;
+    strcpy(site, timestr);
       } else
-	strcpy(site, "Unknown");
+    strcpy(site, "Unknown");
       sprintf(buf, format, ban_node->site, ban_types[ban_node->type], site,
-	      ban_node->name);
+          ban_node->name);
       send_to_char(buf, ch);
     }
     return;
@@ -203,7 +203,7 @@ ACMD(do_ban)
   ban_list = ban_node;
 
   sprintf(buf, "%s has banned %s for %s players.", GET_NAME(ch), site,
-	  ban_types[ban_node->type]);
+      ban_types[ban_node->type]);
   mudlog(buf, NRM, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE);
   send_to_char("Site banned.\r\n", ch);
   write_ban_list();
@@ -236,7 +236,7 @@ ACMD(do_unban)
   REMOVE_FROM_LIST(ban_node, ban_list, next);
   send_to_char("Site unbanned.\r\n", ch);
   sprintf(buf, "%s removed the %s-player ban on %s.",
-	  GET_NAME(ch), ban_types[ban_node->type], ban_node->site);
+      GET_NAME(ch), ban_types[ban_node->type], ban_node->site);
   mudlog(buf, NRM, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE);
 
   FREE(ban_node);
@@ -245,8 +245,8 @@ ACMD(do_unban)
 
 
 /**************************************************************************
- *  Code to check for invalid names (i.e., profanity, etc.)		  *
- *  Written by Sharon P. Goza						  *
+ *  Code to check for invalid names (i.e., profanity, etc.)       *
+ *  Written by Sharon P. Goza                         *
  **************************************************************************/
 
 typedef char namestring[MAX_NAME_LENGTH];
@@ -305,7 +305,7 @@ void Read_Invalid_List(void)
   CREATE(invalid_list, namestring, num_invalid);
 
   for (i = 0; i < num_invalid; i++) {
-    fgets(invalid_list[i], MAX_NAME_LENGTH, fp);	/* read word */
+    fgets(invalid_list[i], MAX_NAME_LENGTH, fp);    /* read word */
     invalid_list[i][strlen(invalid_list[i]) - 1] = '\0'; /* cleave off \n */
   }
 

@@ -51,14 +51,14 @@ static int list_top = -1;
 struct social_messg {
   int act_nr;
   int hide;
-  int min_victim_position;	/* Position of victim */
+  int min_victim_position;  /* Position of victim */
 
   /* No argument was supplied */
   char *char_no_arg;
   char *others_no_arg;
 
   /* An argument was there, and a victim was found */
-  char *char_found;		/* if NULL, read no further, ignore args */
+  char *char_found;     /* if NULL, read no further, ignore args */
   char *others_found;
   char *vict_found;
 
@@ -139,7 +139,7 @@ ACMD(do_action)
   } else {
     if (GET_POS(vict) < action->min_victim_position)
       act("$N is not in a proper position for that.",
-	  FALSE, ch, 0, vict, TO_CHAR | TO_SLEEP);
+      FALSE, ch, 0, vict, TO_CHAR | TO_SLEEP);
     else {
       act(action->char_found, 0, ch, 0, vict, TO_CHAR | TO_SLEEP);
       act(action->others_found, action->hide, ch, 0, vict, TO_NOTVICT);
@@ -161,36 +161,36 @@ ACMD(do_insult)
       send_to_char("Can't hear you!\r\n", ch);
     else {
       if (victim != ch) {
-	sprintf(buf, "You insult %s.\r\n", GET_NAME(victim));
-	send_to_char(buf, ch);
+    sprintf(buf, "You insult %s.\r\n", GET_NAME(victim));
+    send_to_char(buf, ch);
 
-	switch (number(0, 2)) {
-	case 0:
-	  if (GET_SEX(ch) == SEX_MALE) {
-	    if (GET_SEX(victim) == SEX_MALE)
-	      act("$n accuses you of fighting like a woman!", FALSE, ch, 0, victim, TO_VICT);
-	    else
-	      act("$n says that women can't fight.", FALSE, ch, 0, victim, TO_VICT);
-	  } else {		/* Ch == Woman */
-	    if (GET_SEX(victim) == SEX_MALE)
-	      act("$n accuses you of having the smallest... (brain?)",
-		  FALSE, ch, 0, victim, TO_VICT);
-	    else
-	      act("$n tells you that you'd lose a beauty contest against a troll.",
-		  FALSE, ch, 0, victim, TO_VICT);
-	  }
-	  break;
-	case 1:
-	  act("$n calls your mother a bitch!", FALSE, ch, 0, victim, TO_VICT);
-	  break;
-	default:
-	  act("$n tells you to get lost!", FALSE, ch, 0, victim, TO_VICT);
-	  break;
-	}			/* end switch */
+    switch (number(0, 2)) {
+    case 0:
+      if (GET_SEX(ch) == SEX_MALE) {
+        if (GET_SEX(victim) == SEX_MALE)
+          act("$n accuses you of fighting like a woman!", FALSE, ch, 0, victim, TO_VICT);
+        else
+          act("$n says that women can't fight.", FALSE, ch, 0, victim, TO_VICT);
+      } else {      /* Ch == Woman */
+        if (GET_SEX(victim) == SEX_MALE)
+          act("$n accuses you of having the smallest... (brain?)",
+          FALSE, ch, 0, victim, TO_VICT);
+        else
+          act("$n tells you that you'd lose a beauty contest against a troll.",
+          FALSE, ch, 0, victim, TO_VICT);
+      }
+      break;
+    case 1:
+      act("$n calls your mother a bitch!", FALSE, ch, 0, victim, TO_VICT);
+      break;
+    default:
+      act("$n tells you to get lost!", FALSE, ch, 0, victim, TO_VICT);
+      break;
+    }           /* end switch */
 
-	act("$n insults $N.", TRUE, ch, 0, victim, TO_NOTVICT);
-      } else {			/* ch == victim */
-	send_to_char("You feel insulted.\r\n", ch);
+    act("$n insults $N.", TRUE, ch, 0, victim, TO_NOTVICT);
+      } else {          /* ch == victim */
+    send_to_char("You feel insulted.\r\n", ch);
       }
     }
   } else
@@ -248,7 +248,7 @@ void boot_social_messages(void)
     }
     if (fscanf(fl, " %d %d \n", &hide, &min_pos) != 2) {
       fprintf(stderr, "Format error in social file near social '%s'\n",
-	      next_soc);
+          next_soc);
       exit(1);
     }
     /* read the stuff */
@@ -281,7 +281,7 @@ void boot_social_messages(void)
     min_pos = curr_soc;
     for (i = curr_soc + 1; i <= list_top; i++)
       if (soc_mess_list[i].act_nr < soc_mess_list[min_pos].act_nr)
-	min_pos = i;
+    min_pos = i;
     if (curr_soc != min_pos) {
       temp = soc_mess_list[curr_soc];
       soc_mess_list[curr_soc] = soc_mess_list[min_pos];

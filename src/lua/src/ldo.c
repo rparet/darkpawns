@@ -28,7 +28,7 @@
 
 
 /* space to handle stack overflow errors */
-#define EXTRA_STACK	(2*LUA_MINSTACK)
+#define EXTRA_STACK (2*LUA_MINSTACK)
 
 
 void luaD_init (lua_State *L, int stacksize) {

@@ -20,7 +20,7 @@ static lua_State *L = NULL;
 
 
 #ifndef PROMPT
-#define PROMPT		"> "
+#define PROMPT      "> "
 #endif
 
 #ifdef _POSIX_SOURCE
@@ -166,7 +166,7 @@ static int file_input (const char *argv) {
 
 /* maximum length of an input string */
 #ifndef MAXINPUT
-#define MAXINPUT	BUFSIZ
+#define MAXINPUT    BUFSIZ
 #endif
 
 static void manual_input (int version, int prompt) {

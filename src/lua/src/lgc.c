@@ -282,7 +282,7 @@ static void collectudata (lua_State *L, int all) {
 }
 
 
-#define MINBUFFER	256
+#define MINBUFFER   256
 static void checkMbuffer (lua_State *L) {
   if (L->Mbuffsize > MINBUFFER*2) {  /* is buffer too big? */
     size_t newsize = L->Mbuffsize/2;  /* still larger than MINBUFFER */

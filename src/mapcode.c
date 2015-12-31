@@ -79,7 +79,7 @@ void map(room_num thisroom, int x, int y, int overlap,int dontleavezone, struct 
     return;
 
   if(display[x][y] != 0)
-  { 				/*there is already a room drawn here, and it aint me!*/
+  {                 /*there is already a room drawn here, and it aint me!*/
     switch (dontleavezone)
     {
      case 1:
@@ -118,17 +118,17 @@ void map(room_num thisroom, int x, int y, int overlap,int dontleavezone, struct 
       nextroom = world[thisroom].dir_option[dir]->to_room;
 
       if (nextroom > -2) {  /*if there is an exit...*/
-	if((nextroom == thisroom)||(nextroom == -1))
-	  display[x+offx[dir]][y+offy[dir]] = -4; /*it is a linkback.*/
-	else {
-	  if(nextroom > 0) {
-	    display[x+offx[dir]][y+offy[dir]] = link[dir];
-	    if(!dontleavezone || (world[thisroom].zone == world[nextroom].zone))
-	      map(nextroom,(x+3*offx[dir]),(y+3*offy[dir]),overlap,dontleavezone, ch);
-	  }
-	}
+    if((nextroom == thisroom)||(nextroom == -1))
+      display[x+offx[dir]][y+offy[dir]] = -4; /*it is a linkback.*/
+    else {
+      if(nextroom > 0) {
+        display[x+offx[dir]][y+offy[dir]] = link[dir];
+        if(!dontleavezone || (world[thisroom].zone == world[nextroom].zone))
+          map(nextroom,(x+3*offx[dir]),(y+3*offy[dir]),overlap,dontleavezone, ch);
+      }
+    }
       } else
-	display[x+offx[dir]][y+offy[dir]] = -5; /*link to bad or nonexistant room.*/
+    display[x+offx[dir]][y+offy[dir]] = -5; /*link to bad or nonexistant room.*/
     }
   }
 
@@ -151,15 +151,15 @@ void do_map(struct char_data *ch, char *argument, int cmd)
 
   if (GET_LEVEL(ch)<LVL_IMMORT)
   {
-	stc("Type HELP MAP to see a map of town.\r\n", ch);
-	return;
+    stc("Type HELP MAP to see a map of town.\r\n", ch);
+    return;
   }
 
   /* initalize the map */
   for (y = 0; y < JJ_MAPMAXY; y++)
   {
       for(x = 0; x < JJ_MAPMAXX; x++)
-	display[x][y] = 0;
+    display[x][y] = 0;
   }
 
   x = JJ_MAPMAXX / 2;
@@ -190,11 +190,11 @@ void do_map(struct char_data *ch, char *argument, int cmd)
     {
       if(display[x][y] > 0)
       {
-	strcat(line, sect_icons[world[display[x][y]].sector_type]);
+    strcat(line, sect_icons[world[display[x][y]].sector_type]);
       }
       else
       {
-	  strcat(line, graph[ (display[x][y]) +8 ]);
+      strcat(line, graph[ (display[x][y]) +8 ]);
       }
     }
     strcat(line, "\r\n");

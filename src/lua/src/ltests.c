@@ -384,10 +384,10 @@ static const char *getname (char *buff, const char **pc) {
 }
 
 
-#define EQ(s1)	(strcmp(s1, inst) == 0)
+#define EQ(s1)  (strcmp(s1, inst) == 0)
 
-#define getnum	((getnum)(L, &pc))
-#define getname	((getname)(buff, &pc))
+#define getnum  ((getnum)(L, &pc))
+#define getname ((getname)(buff, &pc))
 
 
 static int testC (lua_State *L) {

@@ -61,10 +61,10 @@ extern int circle_check (struct char_data *ch);
 
 void clearMemory(struct char_data * ch);
 void act(char *str, int i, struct char_data * c, struct obj_data * o,
-	      void *vict_obj, int j);
+          void *vict_obj, int j);
 
 bool damage(struct char_data * ch, struct char_data * victim,
-	         int damage, int weapontype);
+             int damage, int weapontype);
 
 void weight_change_object(struct obj_data * obj, int weight);
 void add_follower(struct char_data * ch, struct char_data * leader);
@@ -104,12 +104,12 @@ ASPELL(spell_create_water)
       water = MAX(GET_OBJ_VAL(obj, 0) - GET_OBJ_VAL(obj, 1), 0);
       if (water > 0)
       {
-	GET_OBJ_VAL(obj, 2) = LIQ_WATER;
-	GET_OBJ_VAL(obj, 1) += water;
-	weight_change_object(obj, water);
-	name_from_drinkcon(obj);
-	name_to_drinkcon(obj, LIQ_WATER);
-	act("$p is filled.", FALSE, ch, obj, 0, TO_CHAR);
+    GET_OBJ_VAL(obj, 2) = LIQ_WATER;
+    GET_OBJ_VAL(obj, 1) += water;
+    weight_change_object(obj, water);
+    name_from_drinkcon(obj);
+    name_to_drinkcon(obj, LIQ_WATER);
+    act("$p is filled.", FALSE, ch, obj, 0, TO_CHAR);
       }
       else
       {
@@ -136,13 +136,13 @@ ASPELL(spell_recall)
   if ( (ROOM_FLAGGED(ch->in_room, ROOM_BFR)) ||
        (ROOM_FLAGGED(victim->in_room, ROOM_BFR)) ) {
       send_to_char("Your magic ebbs and dissolves as you lose your "
-	"concentration.\r\n", victim);
+    "concentration.\r\n", victim);
       return;
    }
   if (FIGHTING(ch))
   {
-	send_to_char("Your concentration is broken by your fighting!\r\n", ch);
-	return;
+    send_to_char("Your concentration is broken by your fighting!\r\n", ch);
+    return;
   }
 
   act("$n disappears.", TRUE, victim, 0, 0, TO_ROOM);
@@ -173,7 +173,7 @@ ASPELL(spell_teleport)
   if (victim != NULL) {
     if (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)) {
         send_to_char("The gods deny thy magick.\r\n", ch);
-	return;
+    return;
     }
     if (!IS_NPC(ch) && victim != ch)
     {
@@ -182,8 +182,8 @@ ASPELL(spell_teleport)
     }
     if (IS_NPC(victim) && victim!=ch && mag_savingthrow(victim, SAVING_SPELL))
     {
-	send_to_char("The magic words fail to form properly.\r\n", ch);
-	hit(victim, ch, TYPE_UNDEFINED);
+    send_to_char("The magic words fail to form properly.\r\n", ch);
+    hit(victim, ch, TYPE_UNDEFINED);
         return;
     }
     if (GET_LEVEL(ch) < LEVEL_IMMORT  && victim != ch) {
@@ -245,8 +245,8 @@ ASPELL(spell_summon)
       send_to_char(SUMMON_FAIL, ch);
       sprintf(buf, "%s just tried to summon you to: %s.\r\n"
                    "%s failed.\r\n",
-		  GET_NAME(ch), world[ch->in_room].name,
-		  (ch->player.sex == SEX_MALE) ? "He" : "She");
+          GET_NAME(ch), world[ch->in_room].name,
+          (ch->player.sex == SEX_MALE) ? "He" : "She");
       buf[0] = UPPER(buf[0]);
       stc(buf, victim);
       return;
@@ -300,29 +300,29 @@ ASPELL(spell_summon)
     {
        if (!number(0, 9) && !IS_NPC(ch))   /* 10% chance of backfiring to victim */
        {
-	stc("Your spell backfires!\r\n", ch);
-  	act("$n disappears suddenly.", TRUE, ch, 0, 0, TO_ROOM);
+    stc("Your spell backfires!\r\n", ch);
+    act("$n disappears suddenly.", TRUE, ch, 0, 0, TO_ROOM);
 
-  	char_from_room(ch);
-  	char_to_room(ch, victim->in_room);
+    char_from_room(ch);
+    char_to_room(ch, victim->in_room);
 
-  	if (IS_NPC(ch) && IS_MOUNTED(ch))
-    	 unmount(get_rider(ch), ch);
-  	else if (IS_MOUNTED(ch))
-    	 unmount(ch, get_rider(ch));
+    if (IS_NPC(ch) && IS_MOUNTED(ch))
+         unmount(get_rider(ch), ch);
+    else if (IS_MOUNTED(ch))
+         unmount(ch, get_rider(ch));
 
-  	act("$n arrives suddenly.", TRUE, ch, 0, 0, TO_ROOM);
-	look_at_room(ch, 0);
+    act("$n arrives suddenly.", TRUE, ch, 0, 0, TO_ROOM);
+    look_at_room(ch, 0);
         if (IS_NPC(victim) && AWAKE(victim))
-		hit(victim, ch, TYPE_UNDEFINED);
-	return;
+        hit(victim, ch, TYPE_UNDEFINED);
+    return;
       }
       /* otherwise, just fail */
       send_to_char(SUMMON_FAIL, ch);
       sprintf(buf, "%s just tried to summon you to: %s.\r\n"
                  "%s failed.\r\n",
-	         GET_NAME(ch), world[ch->in_room].name,
-		 (ch->player.sex == SEX_MALE) ? "He" : "She");
+             GET_NAME(ch), world[ch->in_room].name,
+         (ch->player.sex == SEX_MALE) ? "He" : "She");
       buf[0] = UPPER(buf[0]);
       stc(buf, victim);
       return;
@@ -345,7 +345,7 @@ ASPELL(spell_summon)
     act("$n has summoned you!", FALSE, ch, 0, victim, TO_VICT);
     look_at_room(victim, 0);
     if (IS_NPC(victim))
-	hit(victim, ch, TYPE_UNDEFINED);
+    hit(victim, ch, TYPE_UNDEFINED);
   }
   else
     send_to_char("You have a strange dream about falling...\r\n", victim);
@@ -364,7 +364,7 @@ ASPELL(spell_locate_object)
   for (i = object_list; i && (j > 0); i = i->next)
     {
       if (!isname(name, i->name))
-	continue;
+    continue;
 
       if (IS_OBJ_STAT(i, ITEM_NOLOCATE)) {
         stc("Your magick suddenly dissolves into a wash of brilliant colours, "
@@ -374,25 +374,25 @@ ASPELL(spell_locate_object)
 
       if (i->carried_by)
       {
-	if (CAN_SEE(ch, i->carried_by))
-	  sprintf(buf, "%s is being carried by %s.\n\r",
-		  i->short_description, PERS(i->carried_by, ch));
+    if (CAN_SEE(ch, i->carried_by))
+      sprintf(buf, "%s is being carried by %s.\n\r",
+          i->short_description, PERS(i->carried_by, ch));
       }
       else if (i->in_room != NOWHERE)
-	sprintf(buf, "%s is in %s.\n\r", i->short_description,
-		world[i->in_room].name);
+    sprintf(buf, "%s is in %s.\n\r", i->short_description,
+        world[i->in_room].name);
       else if (i->in_obj)
-	sprintf(buf, "%s is in %s.\n\r", i->short_description,
-		i->in_obj->short_description);
+    sprintf(buf, "%s is in %s.\n\r", i->short_description,
+        i->in_obj->short_description);
       else if (i->worn_by)
       {
-	if (CAN_SEE(ch, i->worn_by))
-	  sprintf(buf, "%s is being worn by %s.\n\r",
-	  	  i->short_description, PERS(i->worn_by, ch));
+    if (CAN_SEE(ch, i->worn_by))
+      sprintf(buf, "%s is being worn by %s.\n\r",
+          i->short_description, PERS(i->worn_by, ch));
       }
       else
-	sprintf(buf, "%s's location is uncertain.\n\r",
-		i->short_description);
+    sprintf(buf, "%s's location is uncertain.\n\r",
+        i->short_description);
 
       CAP(buf);
       send_to_char(buf, ch);
@@ -446,16 +446,16 @@ ASPELL(spell_charm)
   else
     {
       if (victim->master)
-	stop_follower(victim);
+    stop_follower(victim);
 
       add_follower(victim, ch);
 
       af.type = SPELL_CHARM;
 
       if (GET_INT(victim))
-	af.duration = 24 * 18 / GET_INT(victim);
+    af.duration = 24 * 18 / GET_INT(victim);
       else
-	af.duration = 24 * 18;
+    af.duration = 24 * 18;
 
       af.modifier = 0;
       af.location = 0;
@@ -464,10 +464,10 @@ ASPELL(spell_charm)
 
       act("Isn't $n just such a nice fellow?", FALSE, ch, 0, victim, TO_VICT);
       if (IS_NPC(victim))
-	{
-	  REMOVE_BIT_AR(MOB_FLAGS(victim), MOB_AGGRESSIVE);
-	  REMOVE_BIT_AR(MOB_FLAGS(victim), MOB_SPEC);
-	}
+    {
+      REMOVE_BIT_AR(MOB_FLAGS(victim), MOB_AGGRESSIVE);
+      REMOVE_BIT_AR(MOB_FLAGS(victim), MOB_SPEC);
+    }
     }
 }
 
@@ -491,97 +491,97 @@ ASPELL(spell_identify)
       if(GET_OBJ_TYPE(obj)==ITEM_STAFF || GET_OBJ_TYPE(obj)==ITEM_WAND)
         strcat(buf, "CASTING_EQ\n\r");
       else
-	{
-	  sprinttype(GET_OBJ_TYPE(obj), item_types, buf2);
-	  strcat(buf, buf2);
-	  strcat(buf, "\r\n");
-	}
+    {
+      sprinttype(GET_OBJ_TYPE(obj), item_types, buf2);
+      strcat(buf, buf2);
+      strcat(buf, "\r\n");
+    }
       send_to_char(buf, ch);
 
       if (obj->obj_flags.bitvector)
-	{
-	  send_to_char("Item will give you following abilities:  ", ch);
+    {
+      send_to_char("Item will give you following abilities:  ", ch);
           sprintbitarray(obj->obj_flags.bitvector, affected_bits,
                          AF_ARRAY_MAX, buf);
-	  strcat(buf, "\r\n");
-	  send_to_char(buf, ch);
-	}
+      strcat(buf, "\r\n");
+      send_to_char(buf, ch);
+    }
       send_to_char("Item is: ", ch);
       sprintbitarray(GET_OBJ_EXTRA(obj), extra_bits, EF_ARRAY_MAX, buf);
       strcat(buf, "\r\n");
       send_to_char(buf, ch);
 
       sprintf(buf, "Encumbrance: %d, Value: %d\r\n",
-	      GET_OBJ_WEIGHT(obj), GET_OBJ_COST(obj));
+          GET_OBJ_WEIGHT(obj), GET_OBJ_COST(obj));
       send_to_char(buf, ch);
 
       switch (GET_OBJ_TYPE(obj))
-	{
-	case ITEM_SCROLL:
-	case ITEM_POTION:
-	  sprintf(buf, "This %s casts: ", item_types[(int) GET_OBJ_TYPE(obj)]);
+    {
+    case ITEM_SCROLL:
+    case ITEM_POTION:
+      sprintf(buf, "This %s casts: ", item_types[(int) GET_OBJ_TYPE(obj)]);
 
-	  if (GET_OBJ_VAL(obj, 1) >= 1)
-	    sprintf(buf, "%s %s", buf, spells[GET_OBJ_VAL(obj, 1)]);
-	  if (GET_OBJ_VAL(obj, 2) >= 1)
-	    sprintf(buf, "%s %s", buf, spells[GET_OBJ_VAL(obj, 2)]);
-	  if (GET_OBJ_VAL(obj, 3) >= 1)
-	    sprintf(buf, "%s %s", buf, spells[GET_OBJ_VAL(obj, 3)]);
-	  sprintf(buf, "%s\r\n", buf);
-	  send_to_char(buf, ch);
-	  break;
-	case ITEM_WAND:
-	case ITEM_STAFF:
-	  sprintf(buf, "This %s casts: ", item_types[(int) GET_OBJ_TYPE(obj)]);
-	  sprintf(buf, "%s %s\r\n", buf, spells[GET_OBJ_VAL(obj, 3)]);
-	  sprintf(buf, "%sIt has %d maximum charge%s and %d remaining.\r\n",
-		  buf, GET_OBJ_VAL(obj, 1),
-		  GET_OBJ_VAL(obj, 1) == 1 ? "" : "s", GET_OBJ_VAL(obj, 2));
-	  send_to_char(buf, ch);
-	  break;
-	case ITEM_WEAPON:
-	  sprintf(buf, "Damage Dice is '%dD%d'", GET_OBJ_VAL(obj, 1),
-		  GET_OBJ_VAL(obj, 2));
-	  sprintf(buf, "%s for an average per-round damage of %.1f.\r\n", buf,
-		  (((GET_OBJ_VAL(obj, 2) + 1) / 2.0) * GET_OBJ_VAL(obj, 1)));
-	  send_to_char(buf, ch);
-	  break;
-	case ITEM_ARMOR:
-	  sprintf(buf, "AC-apply is %d\r\n", GET_OBJ_VAL(obj, 0));
-	  send_to_char(buf, ch);
-	  break;
-	}
+      if (GET_OBJ_VAL(obj, 1) >= 1)
+        sprintf(buf, "%s %s", buf, spells[GET_OBJ_VAL(obj, 1)]);
+      if (GET_OBJ_VAL(obj, 2) >= 1)
+        sprintf(buf, "%s %s", buf, spells[GET_OBJ_VAL(obj, 2)]);
+      if (GET_OBJ_VAL(obj, 3) >= 1)
+        sprintf(buf, "%s %s", buf, spells[GET_OBJ_VAL(obj, 3)]);
+      sprintf(buf, "%s\r\n", buf);
+      send_to_char(buf, ch);
+      break;
+    case ITEM_WAND:
+    case ITEM_STAFF:
+      sprintf(buf, "This %s casts: ", item_types[(int) GET_OBJ_TYPE(obj)]);
+      sprintf(buf, "%s %s\r\n", buf, spells[GET_OBJ_VAL(obj, 3)]);
+      sprintf(buf, "%sIt has %d maximum charge%s and %d remaining.\r\n",
+          buf, GET_OBJ_VAL(obj, 1),
+          GET_OBJ_VAL(obj, 1) == 1 ? "" : "s", GET_OBJ_VAL(obj, 2));
+      send_to_char(buf, ch);
+      break;
+    case ITEM_WEAPON:
+      sprintf(buf, "Damage Dice is '%dD%d'", GET_OBJ_VAL(obj, 1),
+          GET_OBJ_VAL(obj, 2));
+      sprintf(buf, "%s for an average per-round damage of %.1f.\r\n", buf,
+          (((GET_OBJ_VAL(obj, 2) + 1) / 2.0) * GET_OBJ_VAL(obj, 1)));
+      send_to_char(buf, ch);
+      break;
+    case ITEM_ARMOR:
+      sprintf(buf, "AC-apply is %d\r\n", GET_OBJ_VAL(obj, 0));
+      send_to_char(buf, ch);
+      break;
+    }
       found = FALSE;
       for (i = 0; i < MAX_OBJ_AFFECT; i++)
-	{
-	  if ((obj->affected[i].location != APPLY_NONE) &&
-	      (obj->affected[i].modifier != 0))
-	    {
-	      if (!found)
-		{
-		  send_to_char("Can affect you as :\r\n", ch);
-		  found = TRUE;
-		}
-	      if (obj->affected[i].location == APPLY_SPELL)
-		{
-		  sprintf(buf, "   Permanent %s when equipped.\r\n",
-			  affected_bits[obj->affected[i].modifier]);
-		}
-	      else if (obj->affected[i].location != APPLY_RACE_HATE)
-		{
-		  sprinttype(obj->affected[i].location, apply_types, buf2);
-		  sprintf(buf, "   Affects: %s By %d\r\n",
-			  buf2, obj->affected[i].modifier);
-		}
-	      else
-		sprintf(buf, "   Extra damage to: %ss.\r\n",
-			mob_races[obj->affected[i].modifier]);
-	      send_to_char(buf, ch);
-	    }
-	}
+    {
+      if ((obj->affected[i].location != APPLY_NONE) &&
+          (obj->affected[i].modifier != 0))
+        {
+          if (!found)
+        {
+          send_to_char("Can affect you as :\r\n", ch);
+          found = TRUE;
+        }
+          if (obj->affected[i].location == APPLY_SPELL)
+        {
+          sprintf(buf, "   Permanent %s when equipped.\r\n",
+              affected_bits[obj->affected[i].modifier]);
+        }
+          else if (obj->affected[i].location != APPLY_RACE_HATE)
+        {
+          sprinttype(obj->affected[i].location, apply_types, buf2);
+          sprintf(buf, "   Affects: %s By %d\r\n",
+              buf2, obj->affected[i].modifier);
+        }
+          else
+        sprintf(buf, "   Extra damage to: %ss.\r\n",
+            mob_races[obj->affected[i].modifier]);
+          send_to_char(buf, ch);
+        }
+    }
     }
   else if (victim)
-    {		/* victim */
+    {       /* victim */
       if (!IS_NPC(victim) && GET_LEVEL(victim) <= 5) {
          send_to_char("You cannot identify them yet.\r\n", ch);
          return;
@@ -596,24 +596,24 @@ ASPELL(spell_identify)
       sprintf(buf, "Name: %s\r\n", GET_NAME(victim));
       send_to_char(buf, ch);
       if (!IS_NPC(victim))
-	{
-	  sprintf(buf,
-		  "%s is %d years, %d months, %d days and %d hours old.\r\n",
-		  GET_NAME(victim), age(victim).year, age(victim).month,
-		  age(victim).day, age(victim).hours);
-	  send_to_char(buf, ch);
-	}
-      sprintf(buf, "Height %d cm, Weight %d pounds\r\n",
-	      GET_HEIGHT(victim), GET_WEIGHT(victim));
-      sprintf(buf, "%sLevel: %d, Hits: %d, Mana: %d\r\n", buf,
-	      GET_LEVEL(victim), GET_HIT(victim), GET_MANA(victim));
-      sprintf(buf, "%sAC: %d, Hitroll: %d, Damroll: %d\r\n", buf,
-	      GET_AC(victim), GET_HITROLL(victim), GET_DAMROLL(victim));
+    {
       sprintf(buf,
-	      "%sStr: %d/%d, Int: %d, Wis: %d, Dex: %d, Con: %d, Cha: %d\r\n",
-	      buf, GET_STR(victim), GET_ADD(victim), GET_INT(victim),
-	      GET_WIS(victim), GET_DEX(victim), GET_CON(victim),
-	      GET_CHA(victim));
+          "%s is %d years, %d months, %d days and %d hours old.\r\n",
+          GET_NAME(victim), age(victim).year, age(victim).month,
+          age(victim).day, age(victim).hours);
+      send_to_char(buf, ch);
+    }
+      sprintf(buf, "Height %d cm, Weight %d pounds\r\n",
+          GET_HEIGHT(victim), GET_WEIGHT(victim));
+      sprintf(buf, "%sLevel: %d, Hits: %d, Mana: %d\r\n", buf,
+          GET_LEVEL(victim), GET_HIT(victim), GET_MANA(victim));
+      sprintf(buf, "%sAC: %d, Hitroll: %d, Damroll: %d\r\n", buf,
+          GET_AC(victim), GET_HITROLL(victim), GET_DAMROLL(victim));
+      sprintf(buf,
+          "%sStr: %d/%d, Int: %d, Wis: %d, Dex: %d, Con: %d, Cha: %d\r\n",
+          buf, GET_STR(victim), GET_ADD(victim), GET_INT(victim),
+          GET_WIS(victim), GET_DEX(victim), GET_CON(victim),
+          GET_CHA(victim));
       send_to_char(buf, ch);
 
     }
@@ -632,8 +632,8 @@ ASPELL(spell_enchant_weapon)
     {
 
       for (i = 0; i < MAX_OBJ_AFFECT; i++)
-	if (obj->affected[i].location != APPLY_NONE)
-	  return;
+    if (obj->affected[i].location != APPLY_NONE)
+      return;
 
       SET_BIT_AR(GET_OBJ_EXTRA(obj), ITEM_MAGIC);
 
@@ -644,17 +644,17 @@ ASPELL(spell_enchant_weapon)
       obj->affected[1].modifier = 1 + (level >= 20);
 
       if (IS_GOOD(ch))
-	{
-	  SET_BIT_AR(GET_OBJ_EXTRA(obj), ITEM_ANTI_EVIL);
-	  act("$p glows blue.", FALSE, ch, obj, 0, TO_CHAR);
-	}
+    {
+      SET_BIT_AR(GET_OBJ_EXTRA(obj), ITEM_ANTI_EVIL);
+      act("$p glows blue.", FALSE, ch, obj, 0, TO_CHAR);
+    }
       else if (IS_EVIL(ch))
-	{
-	  SET_BIT_AR(GET_OBJ_EXTRA(obj), ITEM_ANTI_GOOD);
-	  act("$p glows red.", FALSE, ch, obj, 0, TO_CHAR);
-	}
+    {
+      SET_BIT_AR(GET_OBJ_EXTRA(obj), ITEM_ANTI_GOOD);
+      act("$p glows red.", FALSE, ch, obj, 0, TO_CHAR);
+    }
       else
-	act("$p glows yellow.", FALSE, ch, obj, 0, TO_CHAR);
+    act("$p glows yellow.", FALSE, ch, obj, 0, TO_CHAR);
     }
     else
       stc("Nothing seems to happen.\r\n", ch);
@@ -666,17 +666,17 @@ ASPELL(spell_lycanthropy)
   if (victim)
     {
       if (PLR_FLAGGED(victim, PLR_WEREWOLF))
-	{
-	  send_to_char("Already a werewolf.\r\n", ch);
-	  return;
-	}
+    {
+      send_to_char("Already a werewolf.\r\n", ch);
+      return;
+    }
       if (PLR_FLAGGED(victim, PLR_VAMPIRE))
-	{
-	  send_to_char("Already a creature of the night.\n\r", ch);
-	  return;
-	}
+    {
+      send_to_char("Already a creature of the night.\n\r", ch);
+      return;
+    }
       send_to_char("You feel a strange sensation in your bones...\n\r",
-		   victim);
+           victim);
       SET_BIT_AR(PLR_FLAGS(victim), PLR_WEREWOLF);
     }
   else
@@ -770,25 +770,25 @@ ASPELL(spell_vampirism)
     if (victim)
       {
         if (IS_NPC(victim))
-	  return;
-	if (PLR_FLAGGED(victim, PLR_VAMPIRE))
-	  {
-	    send_to_char("Already a vampire.\n\r", ch);
-	    return;
-	  }
-	if (PLR_FLAGGED(victim, PLR_WEREWOLF))
-	  {
-	    send_to_char("Already a creature of the night.\n\r", ch);
-	    return;
-	  }
-	send_to_char("You feel a strange sensation in your blood!\n\r",
-		     victim);
-	SET_BIT_AR(PLR_FLAGS(victim), PLR_VAMPIRE);
+      return;
+    if (PLR_FLAGGED(victim, PLR_VAMPIRE))
+      {
+        send_to_char("Already a vampire.\n\r", ch);
+        return;
+      }
+    if (PLR_FLAGGED(victim, PLR_WEREWOLF))
+      {
+        send_to_char("Already a creature of the night.\n\r", ch);
+        return;
+      }
+    send_to_char("You feel a strange sensation in your blood!\n\r",
+             victim);
+    SET_BIT_AR(PLR_FLAGS(victim), PLR_VAMPIRE);
       }
     else
       {
-	send_to_char("Specify a target.\n\r", ch);
-	return;
+    send_to_char("Specify a target.\n\r", ch);
+    return;
       }
 }
 
@@ -798,39 +798,39 @@ ASPELL(spell_detect_poison)
   if (victim)
     {
       if (victim == ch)
-	{
-	  if (IS_AFFECTED(victim, AFF_POISON))
-	    send_to_char("You can sense poison in your blood.\r\n", ch);
-	  else
-	    send_to_char("You feel healthy.\r\n", ch);
-	}
+    {
+      if (IS_AFFECTED(victim, AFF_POISON))
+        send_to_char("You can sense poison in your blood.\r\n", ch);
       else
-	{
-	  if (IS_AFFECTED(victim, AFF_POISON))
-	    act("You sense that $E is poisoned.",
-		FALSE, ch, 0, victim, TO_CHAR);
-	  else
-	    act("You sense that $E is healthy.",
-		FALSE, ch, 0, victim, TO_CHAR);
-	}
+        send_to_char("You feel healthy.\r\n", ch);
+    }
+      else
+    {
+      if (IS_AFFECTED(victim, AFF_POISON))
+        act("You sense that $E is poisoned.",
+        FALSE, ch, 0, victim, TO_CHAR);
+      else
+        act("You sense that $E is healthy.",
+        FALSE, ch, 0, victim, TO_CHAR);
+    }
     }
   if (obj)
     {
       switch (GET_OBJ_TYPE(obj))
-	{
-	case ITEM_DRINKCON:
-	case ITEM_FOUNTAIN:
-	case ITEM_FOOD:
-	  if (GET_OBJ_VAL(obj, 3))
-	    act("You sense that $p has been contaminated.",
-		FALSE, ch, obj, 0, TO_CHAR);
-	  else
-	    act("You sense that $p is safe for consumption.",
-		FALSE, ch, obj, 0, TO_CHAR);
-	  break;
-	default:
-	  send_to_char("You sense that it should not be consumed.\r\n", ch);
-	}
+    {
+    case ITEM_DRINKCON:
+    case ITEM_FOUNTAIN:
+    case ITEM_FOOD:
+      if (GET_OBJ_VAL(obj, 3))
+        act("You sense that $p has been contaminated.",
+        FALSE, ch, obj, 0, TO_CHAR);
+      else
+        act("You sense that $p is safe for consumption.",
+        FALSE, ch, obj, 0, TO_CHAR);
+      break;
+    default:
+      send_to_char("You sense that it should not be consumed.\r\n", ch);
+    }
     }
 }
 
@@ -846,8 +846,8 @@ ASPELL(spell_enchant_armor)
        && !IS_SET_AR(GET_OBJ_EXTRA(obj), ITEM_MAGIC))
     {
       for (i = 0; i < MAX_OBJ_AFFECT; i++)
-	if (obj->affected[i].location != APPLY_NONE)
-	  return;
+    if (obj->affected[i].location != APPLY_NONE)
+      return;
 
       SET_BIT_AR(GET_OBJ_EXTRA(obj), ITEM_MAGIC);
 
@@ -855,17 +855,17 @@ ASPELL(spell_enchant_armor)
       obj->affected[0].modifier = -1 * ( (level - 20) /2 );
 
       if (IS_GOOD(ch))
-	{
-	  SET_BIT_AR(GET_OBJ_EXTRA(obj), ITEM_ANTI_EVIL);
-	  act("$p glows blue.", FALSE, ch, obj, 0, TO_CHAR);
-	}
+    {
+      SET_BIT_AR(GET_OBJ_EXTRA(obj), ITEM_ANTI_EVIL);
+      act("$p glows blue.", FALSE, ch, obj, 0, TO_CHAR);
+    }
       else if (IS_EVIL(ch))
-	{
-	  SET_BIT_AR(GET_OBJ_EXTRA(obj), ITEM_ANTI_GOOD);
-	  act("$p glows red.", FALSE, ch, obj, 0, TO_CHAR);
-	}
+    {
+      SET_BIT_AR(GET_OBJ_EXTRA(obj), ITEM_ANTI_GOOD);
+      act("$p glows red.", FALSE, ch, obj, 0, TO_CHAR);
+    }
       else
-	act("$p glows yellow.", FALSE, ch, obj, 0, TO_CHAR);
+    act("$p glows yellow.", FALSE, ch, obj, 0, TO_CHAR);
     }
 }
 
@@ -873,7 +873,7 @@ ASPELL(spell_enchant_armor)
 ASPELL(spell_zen)
 {
   send_to_char("You begin to meditate deeply, focusing your thoughts only on "
-	       "healing.\r\n", ch);
+           "healing.\r\n", ch);
   act("$n sinks into a deep, meditative sleep.", FALSE, ch, 0, 0, TO_ROOM);
 
   GET_POS(ch) = POS_STUNNED;
@@ -892,7 +892,7 @@ ASPELL(spell_silken_missile)
   if ( !(GET_OBJ_TYPE(obj) == ITEM_WORN || GET_OBJ_TYPE(obj) == ITEM_ARMOR) )
     {
       act("You can't make anything useful from $p.\r\n",
-	  FALSE, ch, obj, 0, TO_CHAR);
+      FALSE, ch, obj, 0, TO_CHAR);
       return;
     }
 
@@ -921,21 +921,21 @@ ASPELL(spell_mindsight)
       int location, original_loc;
 
       if ( (GET_LEVEL(victim) > GET_LEVEL(ch)+4 && (!number(0,4))) ||
-	   (!IS_NPC(victim) && GET_LEVEL(victim) >= LEVEL_IMMORT &&
-	    GET_LEVEL(ch) <= GET_LEVEL(victim)) )
-	{
-	  send_to_char("With a searing pain, your psionic energy recoils!\r\n",
-		       ch);
-	  return;
-	}
+       (!IS_NPC(victim) && GET_LEVEL(victim) >= LEVEL_IMMORT &&
+        GET_LEVEL(ch) <= GET_LEVEL(victim)) )
+    {
+      send_to_char("With a searing pain, your psionic energy recoils!\r\n",
+               ch);
+      return;
+    }
 
       if (IS_AFFECTED(victim, AFF_NOTRACK)) {
          stc("Cannot find the target of your will!\r\n", ch);
-	 return;
+     return;
       }
 
       if ((location = victim->in_room) < 0)
-	return;
+    return;
 
       /* a location has been found. */
       original_loc = ch->in_room;
@@ -944,15 +944,15 @@ ASPELL(spell_mindsight)
       do_look(ch, "", 0, 0);
 
       for (i=world[ch->in_room].people; i; i=i->next_in_room)
-	if (i !=ch && !IS_NPC(i) && (IS_PSIONIC(ch) || IS_MYSTIC(ch)))
-	  stc("You feel like you're being watched.\r\n", i);
+    if (i !=ch && !IS_NPC(i) && (IS_PSIONIC(ch) || IS_MYSTIC(ch)))
+      stc("You feel like you're being watched.\r\n", i);
 
       /* check if the char is still there */
       if (ch->in_room == location)
-	{
-	  char_from_room(ch);
-	  char_to_room(ch, original_loc);
-	}
+    {
+      char_from_room(ch);
+      char_to_room(ch, original_loc);
+    }
     }
   else
     log("SYSERR: No victim in spell_mindsight()");
@@ -963,19 +963,19 @@ ASPELL(spell_mental_lapse)
 {
   if (victim)
   {
-	if (!IS_NPC(victim) || !HUNTING(victim) || HUNTING(victim) != ch)
-	{
-	  if (HUNTING(victim) && HUNTING(victim) != ch && GET_LEVEL(ch)>=30)
-		stc("You send out your mental voice...\r\n", ch);
-	  else
-	  {
-		stc("Your psionic energy recoils!\r\n", ch);
-	 	return;
-	  }
-	}
-	act("You sense $S intentions even from where you are, and "
-		"change $S mind.", TRUE, ch, 0, victim, TO_CHAR);
-	set_hunting(victim, NULL);
+    if (!IS_NPC(victim) || !HUNTING(victim) || HUNTING(victim) != ch)
+    {
+      if (HUNTING(victim) && HUNTING(victim) != ch && GET_LEVEL(ch)>=30)
+        stc("You send out your mental voice...\r\n", ch);
+      else
+      {
+        stc("Your psionic energy recoils!\r\n", ch);
+        return;
+      }
+    }
+    act("You sense $S intentions even from where you are, and "
+        "change $S mind.", TRUE, ch, 0, victim, TO_CHAR);
+    set_hunting(victim, NULL);
   }
   else
     log("SYSERR: No victim in spell_mental_lapse()");
@@ -989,7 +989,7 @@ ASPELL(spell_calliope)
     int missiles = MAX(4,number(level/6, level*2));
     int i;
     for (i =0; i < missiles; i++)
-	call_magic(ch, victim, 0, SPELL_MAGIC_MISSILE, level, CAST_SPELL);
+    call_magic(ch, victim, 0, SPELL_MAGIC_MISSILE, level, CAST_SPELL);
   }
   else
     log("SYSERR: No victim in spell_calliope()");
@@ -1129,7 +1129,7 @@ ASPELL(spell_meteor_swarm)
      }
 }
 
-#define MOB_CLONE	69
+#define MOB_CLONE   69
 
 ASPELL(spell_mirror_image)
 {

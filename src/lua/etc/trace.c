@@ -10,10 +10,10 @@
 #include "luadebug.h"
 
 lua_State *lua_state = NULL;
-#define	L	lua_state	/* lazy! */
+#define L   lua_state   /* lazy! */
 
-static FILE* LOG;		/* output file */
-static int I=0;			/* indentation level */
+static FILE* LOG;       /* output file */
+static int I=0;         /* indentation level */
 
 static void linehook(lua_State *L, lua_Debug *ar)
 {

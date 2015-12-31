@@ -43,20 +43,20 @@ ACMD(do_tedit)
     int  size;
     char *filename;
   } fields[] = {
-	/* edit the lvls to your own needs */
-	{ "credits",	LVL_IMPL,	&credits,	2400,	CREDITS_FILE},
-	{ "news",	LVL_GOD,	&news,		8192,	NEWS_FILE},
-	{ "motd",	LVL_GOD,	&motd,		2400,	MOTD_FILE},
-	{ "imotd",	LVL_IMMORT,	&imotd,		2400,	IMOTD_FILE},
-	{ "help",       LVL_GOD,	&help,		2400,	HELP_PAGE_FILE},
-	{ "info",	LVL_GOD,	&info,		8192,	INFO_FILE},
-	{ "background",	LVL_GRGOD,	&background,	8192,	BACKGROUND_FILE},
-	{ "handbook",   LVL_GRGOD,	&handbook,	8192,   HANDBOOK_FILE},
-	{ "policies",	LVL_IMPL,	&policies,	8192,	POLICIES_FILE},
-	{ "future",	LVL_GRGOD,	&future,        8192,	FUTURE_FILE},
-	{ "wizlist",	LVL_IMPL,	&wizlist,	2400,	WIZLIST_FILE},
-	{ "immlist",	LVL_IMPL,	&immlist,	2400,	IMMLIST_FILE},
-	{ "\n",		0,		NULL,		0,	NULL }
+    /* edit the lvls to your own needs */
+    { "credits",    LVL_IMPL,   &credits,   2400,   CREDITS_FILE},
+    { "news",   LVL_GOD,    &news,      8192,   NEWS_FILE},
+    { "motd",   LVL_GOD,    &motd,      2400,   MOTD_FILE},
+    { "imotd",  LVL_IMMORT, &imotd,     2400,   IMOTD_FILE},
+    { "help",       LVL_GOD,    &help,      2400,   HELP_PAGE_FILE},
+    { "info",   LVL_GOD,    &info,      8192,   INFO_FILE},
+    { "background", LVL_GRGOD,  &background,    8192,   BACKGROUND_FILE},
+    { "handbook",   LVL_GRGOD,  &handbook,  8192,   HANDBOOK_FILE},
+    { "policies",   LVL_IMPL,   &policies,  8192,   POLICIES_FILE},
+    { "future", LVL_GRGOD,  &future,        8192,   FUTURE_FILE},
+    { "wizlist",    LVL_IMPL,   &wizlist,   2400,   WIZLIST_FILE},
+    { "immlist",    LVL_IMPL,   &immlist,   2400,   IMMLIST_FILE},
+    { "\n",     0,      NULL,       0,  NULL }
   };
 
   if (ch->desc == NULL)
@@ -69,9 +69,9 @@ ACMD(do_tedit)
     for (l = 0; *fields[l].cmd != '\n'; l++) {
       if (GET_LEVEL(ch) >= fields[l].level) {
         sprintf(buf, "%-11.11s ", fields[l].cmd);
-	send_to_char(buf, ch);
-	if (!(++i % 6))
-	  send_to_char("\r\n", ch);
+    send_to_char(buf, ch);
+    if (!(++i % 6))
+      send_to_char("\r\n", ch);
       }
     }
     if (i % 6)

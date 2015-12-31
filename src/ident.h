@@ -1,10 +1,10 @@
 /* ************************************************************************
-*  File: ident.h                              				  *
+*  File: ident.h                                              *
 *                                                                         *
 *  Usage: Header file containing stuff required for rfc 931/1413 ident    *
 *         lookups                                                         *
 *                                                                         *
-*  Written by Eric Green (egreen@cypronet.com)				  *
+*  Written by Eric Green (egreen@cypronet.com)                *
 ************************************************************************ */
 
 /*

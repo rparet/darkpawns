@@ -39,27 +39,27 @@ extern FILE * logfile;
 #define log basic_mud_log
 
 /* public functions in utils.c */
-char	*str_dup(const char *source);
-int	str_cmp(char *arg1, char *arg2);
-int	strn_cmp(char *arg1, char *arg2, int n);
+char    *str_dup(const char *source);
+int str_cmp(char *arg1, char *arg2);
+int strn_cmp(char *arg1, char *arg2, int n);
 void    basic_mud_log(const char *format, ...) __attribute__ ((format (printf, 1, 2)));
 bool    matches(const char *s, const char *regex);
-/* void	log(char *str); */
-void	alog (char const *str, ...);
-int	touch(char *path);
-void	mudlog(char *str, char type, int level, byte file);
-void	log_death_trap(struct char_data *ch);
-int	number(int from, int to);
-int	dice(int number, int size);
+/* void log(char *str); */
+void    alog (char const *str, ...);
+int touch(char *path);
+void    mudlog(char *str, char type, int level, byte file);
+void    log_death_trap(struct char_data *ch);
+int number(int from, int to);
+int dice(int number, int size);
 float   uniform();
-void	sprintbit(long vektor, char *names[], char *result);
-void	sprinttype(int type, char *names[], char *result);
-int	get_line(FILE *fl, char *buf);
-int	get_filename(char *orig_name, char *filename, int mode);
+void    sprintbit(long vektor, char *names[], char *result);
+void    sprinttype(int type, char *names[], char *result);
+int get_line(FILE *fl, char *buf);
+int get_filename(char *orig_name, char *filename, int mode);
 struct time_info_data age(struct char_data *ch);
 struct time_info_data playing_time(struct char_data *ch);
 bool    is_veteran(struct char_data *ch);
-int	num_pc_in_room(struct room_data *room);
+int num_pc_in_room(struct room_data *room);
 void    sprintbitarray(int bitvector[], char *names[], int maxar, char *result);
 void    core_dump_real(const char *, int);
 bool    check_dead(struct char_data *ch);
@@ -80,30 +80,30 @@ int MAX(int a, int b);
 int MIN(int a, int b);
 
 /* in magic.c */
-bool	circle_follow(struct char_data *ch, struct char_data * victim);
+bool    circle_follow(struct char_data *ch, struct char_data * victim);
 
 /* in act.informative.c */
-void	look_at_room(struct char_data *ch, int mode);
+void    look_at_room(struct char_data *ch, int mode);
 
 /* in act.movmement.c */
-int	do_simple_move(struct char_data *ch, int dir, int following);
-int	perform_move(struct char_data *ch, int dir, int following);
+int do_simple_move(struct char_data *ch, int dir, int following);
+int perform_move(struct char_data *ch, int dir, int following);
 
 /* in limits.c */
-int	mana_limit(struct char_data *ch);
-int	hit_limit(struct char_data *ch);
-int	move_limit(struct char_data *ch);
-int	mana_gain(struct char_data *ch);
-int	hit_gain(struct char_data *ch);
-int	move_gain(struct char_data *ch);
-void	advance_level(struct char_data *ch);
-void	set_title(struct char_data *ch, char *title);
-void	gain_exp(struct char_data *ch, int gain);
-void	gain_exp_regardless(struct char_data *ch, int gain);
-void	gain_condition(struct char_data *ch, int condition, int value);
-void	check_idling(struct char_data *ch);
-void	point_update(void);
-void	update_pos(struct char_data *victim);
+int mana_limit(struct char_data *ch);
+int hit_limit(struct char_data *ch);
+int move_limit(struct char_data *ch);
+int mana_gain(struct char_data *ch);
+int hit_gain(struct char_data *ch);
+int move_gain(struct char_data *ch);
+void    advance_level(struct char_data *ch);
+void    set_title(struct char_data *ch, char *title);
+void    gain_exp(struct char_data *ch, int gain);
+void    gain_exp_regardless(struct char_data *ch, int gain);
+void    gain_condition(struct char_data *ch, int condition, int value);
+void    check_idling(struct char_data *ch);
+void    point_update(void);
+void    update_pos(struct char_data *victim);
 bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 
 
@@ -111,37 +111,37 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 
 
 /* defines for mudlog() */
-#define OFF	0
-#define BRF	1
-#define NRM	2
-#define CMP	3
+#define OFF 0
+#define BRF 1
+#define NRM 2
+#define CMP 3
 
 /* get_filename() */
-#define CRASH_FILE	0
-#define ETEXT_FILE	1
+#define CRASH_FILE  0
+#define ETEXT_FILE  1
 #define ALIAS_FILE      2
 #define POOF_FILE       3
 
 /* breadth-first searching */
-#define BFS_ERROR		-1
-#define BFS_ALREADY_THERE	-2
-#define BFS_NO_PATH		-3
+#define BFS_ERROR       -1
+#define BFS_ALREADY_THERE   -2
+#define BFS_NO_PATH     -3
 
 /* idle time-out */
-#define IDLE_TO_VOID		8
-#define IDLE_DISCONNECT		30
+#define IDLE_TO_VOID        8
+#define IDLE_DISCONNECT     30
 
 /* mud-life time */
-#define SECS_PER_MUD_HOUR	63
-#define SECS_PER_MUD_DAY	(24*SECS_PER_MUD_HOUR)
-#define SECS_PER_MUD_MONTH	(35*SECS_PER_MUD_DAY)
-#define SECS_PER_MUD_YEAR	(17*SECS_PER_MUD_MONTH)
+#define SECS_PER_MUD_HOUR   63
+#define SECS_PER_MUD_DAY    (24*SECS_PER_MUD_HOUR)
+#define SECS_PER_MUD_MONTH  (35*SECS_PER_MUD_DAY)
+#define SECS_PER_MUD_YEAR   (17*SECS_PER_MUD_MONTH)
 
 /* real-life time (remember Real Life?) */
-#define SECS_PER_REAL_MIN	60
-#define SECS_PER_REAL_HOUR	(60*SECS_PER_REAL_MIN)
-#define SECS_PER_REAL_DAY	(24*SECS_PER_REAL_HOUR)
-#define SECS_PER_REAL_YEAR	(365*SECS_PER_REAL_DAY)
+#define SECS_PER_REAL_MIN   60
+#define SECS_PER_REAL_HOUR  (60*SECS_PER_REAL_MIN)
+#define SECS_PER_REAL_DAY   (24*SECS_PER_REAL_HOUR)
+#define SECS_PER_REAL_YEAR  (365*SECS_PER_REAL_DAY)
 
 /* Misc. defines (rparet) */
 
@@ -172,7 +172,7 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 
 #define CREATE(result, type, number)  do {\
   if ((number) * sizeof(type) <= 0) \
-    log("SYSERR: Zero bytes or less requested at %s:%d.", __FILE__, __LINE__);	\
+    log("SYSERR: Zero bytes or less requested at %s:%d.", __FILE__, __LINE__);  \
   if (!((result) = (type *) calloc ((number), sizeof(type)))) \
     { perror("SYSERR: malloc failure"); abort(); } } while(0)
 
@@ -191,16 +191,16 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
  * a great application for C++ templates but, alas, this is not C++.  Maybe
  * CircleMUD 4.0 will be...
  */
-#define REMOVE_FROM_LIST(item, head, next)	\
-   if ((item) == (head))		\
-      head = (item)->next;		\
-   else {				\
-      temp = head;			\
+#define REMOVE_FROM_LIST(item, head, next)  \
+   if ((item) == (head))        \
+      head = (item)->next;      \
+   else {               \
+      temp = head;          \
       while (temp && (temp->next != (item))) \
-	 temp = temp->next;		\
-      if (temp)				\
-         temp->next = (item)->next;	\
-   }					\
+     temp = temp->next;     \
+      if (temp)             \
+         temp->next = (item)->next; \
+   }                    \
 
 
 /* basic bitvector utils *************************************************/
@@ -249,14 +249,14 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 /* room utils ************************************************************/
 
 
-#define SECT(room)	(world[(room)].sector_type)
+#define SECT(room)  (world[(room)].sector_type)
 
 #define IS_DARK(room)  ( !world[room].light && \
                          (ROOM_FLAGGED(room, ROOM_DARK) || \
                           ( ( SECT(room) != SECT_INSIDE && \
                               SECT(room) != SECT_CITY ) && \
                             (weather_info.sunlight == SUN_SET || \
-			     weather_info.sunlight == SUN_DARK)) ) )
+                 weather_info.sunlight == SUN_DARK)) ) )
 
 #define IS_LIGHT(room)  (!IS_DARK(room))
 
@@ -268,18 +268,18 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 /* char utils ************************************************************/
 
 
-#define IN_ROOM(ch)	((ch)->in_room)
-#define GET_WAS_IN(ch)	((ch)->was_in_room)
+#define IN_ROOM(ch) ((ch)->in_room)
+#define GET_WAS_IN(ch)  ((ch)->was_in_room)
 #define GET_AGE(ch)     (age(ch).year)
 
 #define GET_NAME(ch)    (IS_NPC(ch) ? \
-			 (ch)->player.short_descr : (ch)->player.name)
-#define SET_NAME(ch, i)	(IS_NPC(ch) ? \
-			 ((ch)->player.short_descr = i) : \
-			 ((ch)->player.name = i))
+             (ch)->player.short_descr : (ch)->player.name)
+#define SET_NAME(ch, i) (IS_NPC(ch) ? \
+             ((ch)->player.short_descr = i) : \
+             ((ch)->player.name = i))
 #define GET_TITLE(ch)   ((ch)->player.title)
 #define GET_LEVEL(ch)   ((ch)->player.level)
-#define GET_PASSWD(ch)	((ch)->player.passwd)
+#define GET_PASSWD(ch)  ((ch)->player.passwd)
 #define GET_PFILEPOS(ch)((ch)->pfilepos)
 
 #define GET_REAL_LEVEL(ch) \
@@ -287,14 +287,14 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
     GET_LEVEL(ch))
 
 #define GET_CLASS(ch)   ((ch)->player.class)
-#define GET_HOME(ch)	((ch)->player.hometown)
-#define HOME_KD		1
-#define HOME_KO		2
-#define HOME_AZ		3
+#define GET_HOME(ch)    ((ch)->player.hometown)
+#define HOME_KD     1
+#define HOME_KO     2
+#define HOME_AZ     3
 
-#define GET_HEIGHT(ch)	((ch)->player.height)
-#define GET_WEIGHT(ch)	((ch)->player.weight)
-#define GET_SEX(ch)	((ch)->player.sex)
+#define GET_HEIGHT(ch)  ((ch)->player.height)
+#define GET_WEIGHT(ch)  ((ch)->player.weight)
+#define GET_SEX(ch) ((ch)->player.sex)
 
 #define GET_STR(ch)     ((ch)->aff_abils.str)
 #define GET_ADD(ch)     ((ch)->aff_abils.str_add)
@@ -304,54 +304,54 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 #define GET_CON(ch)     ((ch)->aff_abils.con)
 #define GET_CHA(ch)     ((ch)->aff_abils.cha)
 
-#define GET_EXP(ch)	  ((ch)->points.exp)
+#define GET_EXP(ch)   ((ch)->points.exp)
 #define GET_AC(ch)        ((ch)->points.armor)
-#define GET_HIT(ch)	  ((ch)->points.hit)
-#define GET_MAX_HIT(ch)	  ((ch)->points.max_hit)
-#define GET_MOVE(ch)	  ((ch)->points.move)
+#define GET_HIT(ch)   ((ch)->points.hit)
+#define GET_MAX_HIT(ch)   ((ch)->points.max_hit)
+#define GET_MOVE(ch)      ((ch)->points.move)
 #define GET_MAX_MOVE(ch)  ((ch)->points.max_move)
-#define GET_MANA(ch)	  ((ch)->points.mana)
+#define GET_MANA(ch)      ((ch)->points.mana)
 #define GET_MAX_MANA(ch)  ((ch)->points.max_mana)
-#define GET_GOLD(ch)	  ((ch)->points.gold)
+#define GET_GOLD(ch)      ((ch)->points.gold)
 #define GET_BANK_GOLD(ch) ((ch)->points.bank_gold)
-#define GET_HITROLL(ch)	  ((ch)->points.hitroll)
+#define GET_HITROLL(ch)   ((ch)->points.hitroll)
 #define GET_DAMROLL(ch)   ((ch)->points.damroll)
 
-#define GET_POS(ch)	  ((ch)->char_specials.position)
-#define GET_IDNUM(ch)	  ((ch)->char_specials.saved.idnum)
+#define GET_POS(ch)   ((ch)->char_specials.position)
+#define GET_IDNUM(ch)     ((ch)->char_specials.saved.idnum)
 #define IS_CARRYING_W(ch) ((ch)->char_specials.carry_weight)
 #define IS_CARRYING_N(ch) ((ch)->char_specials.carry_items)
-#define FIGHTING(ch)	  ((ch)->char_specials.fighting)
-#define GET_SAVE(ch, i)	  ((ch)->char_specials.saved.apply_saving_throw[i])
+#define FIGHTING(ch)      ((ch)->char_specials.fighting)
+#define GET_SAVE(ch, i)   ((ch)->char_specials.saved.apply_saving_throw[i])
 #define GET_ALIGNMENT(ch) ((ch)->char_specials.saved.alignment)
 
-#define GET_COND(ch, i)		((ch)->player_specials->saved.conditions[(i)])
-#define GET_LOADROOM(ch)	((ch)->player_specials->saved.load_room)
-#define GET_PRACTICES(ch)	((ch)->player_specials->saved.spells_to_learn)
-#define GET_INVIS_LEV(ch)	((ch)->player_specials->saved.invis_level)
-#define GET_WIMP_LEV(ch)	((ch)->player_specials->saved.wimp_level)
-#define GET_FREEZE_LEV(ch)	((ch)->player_specials->saved.freeze_level)
-#define GET_BAD_PWS(ch)		((ch)->player_specials->saved.bad_pws)
-#define GET_TALK(ch, i)		((ch)->player_specials->saved.talks[i])
-#define POOFIN(ch)		((ch)->player_specials->poofin)
-#define POOFOUT(ch)		((ch)->player_specials->poofout)
-#define GET_LAST_OLC_TARG(ch)	((ch)->player_specials->last_olc_targ)
-#define GET_LAST_OLC_MODE(ch)	((ch)->player_specials->last_olc_mode)
-#define GET_ALIASES(ch)		((ch)->player_specials->aliases)
-#define GET_LAST_TELL(ch)	((ch)->player_specials->last_tell)
+#define GET_COND(ch, i)     ((ch)->player_specials->saved.conditions[(i)])
+#define GET_LOADROOM(ch)    ((ch)->player_specials->saved.load_room)
+#define GET_PRACTICES(ch)   ((ch)->player_specials->saved.spells_to_learn)
+#define GET_INVIS_LEV(ch)   ((ch)->player_specials->saved.invis_level)
+#define GET_WIMP_LEV(ch)    ((ch)->player_specials->saved.wimp_level)
+#define GET_FREEZE_LEV(ch)  ((ch)->player_specials->saved.freeze_level)
+#define GET_BAD_PWS(ch)     ((ch)->player_specials->saved.bad_pws)
+#define GET_TALK(ch, i)     ((ch)->player_specials->saved.talks[i])
+#define POOFIN(ch)      ((ch)->player_specials->poofin)
+#define POOFOUT(ch)     ((ch)->player_specials->poofout)
+#define GET_LAST_OLC_TARG(ch)   ((ch)->player_specials->last_olc_targ)
+#define GET_LAST_OLC_MODE(ch)   ((ch)->player_specials->last_olc_mode)
+#define GET_ALIASES(ch)     ((ch)->player_specials->aliases)
+#define GET_LAST_TELL(ch)   ((ch)->player_specials->last_tell)
 
-#define GET_SKILL(ch, i)	((ch)->player_specials->saved.skills[i])
-#define SET_SKILL(ch, i, pct)	((ch)->player_specials->saved.skills[i] = pct)
+#define GET_SKILL(ch, i)    ((ch)->player_specials->saved.skills[i])
+#define SET_SKILL(ch, i, pct)   ((ch)->player_specials->saved.skills[i] = pct)
 
      /* Serapis macros */
 #define GET_RACE(ch)           (IS_MOB(ch) ? (ch)->mob_specials.race : \
-				(ch)->player_specials->saved.race)
+                (ch)->player_specials->saved.race)
 /* these guys are here now because gcc4 is really particular about expressions as lvalues so GET_RACE doesn't work */
-#define GET_PLR_RACE(ch)	((ch)->player_specials->saved.race)
-#define GET_MOB_RACE(ch)	((ch)->mob_specials.race)
+#define GET_PLR_RACE(ch)    ((ch)->player_specials->saved.race)
+#define GET_MOB_RACE(ch)    ((ch)->mob_specials.race)
 
-#define SET_RACE(ch, i)	       (IS_MOB(ch) ? ((ch)->mob_specials.race = i) : \
-				((ch)->player_specials->saved.race = i))
+#define SET_RACE(ch, i)        (IS_MOB(ch) ? ((ch)->mob_specials.race = i) : \
+                ((ch)->player_specials->saved.race = i))
 #define GET_KILLS(ch)          ((ch)->player_specials->saved.killcount)
 #define GET_PKS(ch)            ((ch)->player_specials->saved.pkcount)
 #define GET_DEATHS(ch)         ((ch)->player_specials->saved.deathcount)
@@ -361,25 +361,25 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 #define GET_MOUNT_COST_DAY(ch) ((ch)->player_specials->saved.mount_cost_day)
 #define IS_MOUNTED(ch)         (IS_AFFECTED(ch, AFF_MOUNT))
 #define IS_MOUNTABLE(ch)       ( IS_MOB(ch) && !IS_MOUNTED(ch) && \
-				 (IS_SET_AR(MOB_FLAGS(ch),MOB_MOUNTABLE)) )
+                 (IS_SET_AR(MOB_FLAGS(ch),MOB_MOUNTABLE)) )
 #define CAN_MOUNT(ch)          (!IS_MOB(ch) && !IS_MOUNTED(ch))
-#define IS_PSIONIC(ch)	       (!IS_NPC(ch) && (GET_CLASS(ch) == CLASS_PSIONIC))
+#define IS_PSIONIC(ch)         (!IS_NPC(ch) && (GET_CLASS(ch) == CLASS_PSIONIC))
 #define GET_RACE_HATE(ch, i)   ((ch)->char_specials.race_hate[i])
-#define IS_NINJA(ch)	       (!IS_NPC(ch) && (GET_CLASS(ch) == CLASS_NINJA))
+#define IS_NINJA(ch)           (!IS_NPC(ch) && (GET_CLASS(ch) == CLASS_NINJA))
 #define IS_PARRIED(ch)         ((ch)->char_specials.parried)
 #define GET_JAIL_TIMER(ch)     ((ch)->char_specials.jailtimer)
 #define GET_TATTOO(ch)         ((ch)->player_specials->saved.tattoo)
-#define TAT_TIMER(ch)	       ((ch)->player_specials->saved.tattimer)
+#define TAT_TIMER(ch)          ((ch)->player_specials->saved.tattimer)
 #define IS_REMORT_ONLY_CLASS(ch) (GET_CLASS(ch)==CLASS_MAGUS || \
-				  GET_CLASS(ch)==CLASS_AVATAR || \
-				  GET_CLASS(ch)==CLASS_ASSASSIN || \
-				  GET_CLASS(ch)==CLASS_PALADIN || \
+                  GET_CLASS(ch)==CLASS_AVATAR || \
+                  GET_CLASS(ch)==CLASS_ASSASSIN || \
+                  GET_CLASS(ch)==CLASS_PALADIN || \
                                   GET_CLASS(ch)==CLASS_RANGER || \
                                   GET_CLASS(ch)==CLASS_MYSTIC)
 #define stc(line, ch)          (send_to_char(line, ch))
 #define IS_NIGHTBREED(ch)      (IS_AFFECTED(ch, AFF_VAMPIRE) || \
-				IS_AFFECTED(ch, AFF_WEREWOLF))
-#define GET_NOISE(ch)	       ((ch)->mob_specials.noise)
+                IS_AFFECTED(ch, AFF_WEREWOLF))
+#define GET_NOISE(ch)          ((ch)->mob_specials.noise)
 
 #define GET_MOB_SCRIPT(mob)        ((mob_index[GET_MOB_RNUM((mob))].script))
 #define GET_OBJ_SCRIPT(obj)        (obj_index[GET_OBJ_RNUM((obj))].script)
@@ -395,47 +395,47 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 #define ROOM_SCRIPT_FLAGGED(rnum, flag) (IS_SET(ROOM_SCRIPT_FLAGS(rnum), (flag)))
 
 #define IS_COVERED(ch, whe) ( (whe==WEAR_BODY && GET_EQ(ch, WEAR_ABOUT)) ||\
-                 	      (whe==WEAR_FINGER_L && GET_EQ(ch, WEAR_HANDS)) ||\
-                 	      (whe==WEAR_FINGER_R && GET_EQ(ch, WEAR_HANDS)) ||\
-                 	      (whe==WEAR_LEGS && GET_EQ(ch, WEAR_ABLEGS)) )
-#define GET_ORIG_CON(ch)	((ch)->player_specials->saved.orig_con)
-#define ROOM_FLOWS(room)	(ROOM_FLAGGED(room, ROOM_FLOW_NORTH) || \
-				 ROOM_FLAGGED(room, ROOM_FLOW_SOUTH) || \
-				 ROOM_FLAGGED(room, ROOM_FLOW_EAST) || \
-				 ROOM_FLAGGED(room, ROOM_FLOW_WEST) || \
-				 ROOM_FLAGGED(room, ROOM_FLOW_UP) || \
-				 ROOM_FLAGGED(room, ROOM_FLOW_DOWN))
-#define IS_PALADIN(ch)		(!IS_NPC(ch) && \
-				(GET_CLASS(ch) == CLASS_PALADIN))
-#define IS_MAGUS(ch)		(!IS_NPC(ch) && \
-				(GET_CLASS(ch) == CLASS_MAGUS))
-#define IS_ASSASSIN(ch)		(!IS_NPC(ch) && \
-				(GET_CLASS(ch) == CLASS_ASSASSIN))
-#define IS_AVATAR(ch)		(!IS_NPC(ch) && \
-				(GET_CLASS(ch) == CLASS_AVATAR))
+                          (whe==WEAR_FINGER_L && GET_EQ(ch, WEAR_HANDS)) ||\
+                          (whe==WEAR_FINGER_R && GET_EQ(ch, WEAR_HANDS)) ||\
+                          (whe==WEAR_LEGS && GET_EQ(ch, WEAR_ABLEGS)) )
+#define GET_ORIG_CON(ch)    ((ch)->player_specials->saved.orig_con)
+#define ROOM_FLOWS(room)    (ROOM_FLAGGED(room, ROOM_FLOW_NORTH) || \
+                 ROOM_FLAGGED(room, ROOM_FLOW_SOUTH) || \
+                 ROOM_FLAGGED(room, ROOM_FLOW_EAST) || \
+                 ROOM_FLAGGED(room, ROOM_FLOW_WEST) || \
+                 ROOM_FLAGGED(room, ROOM_FLOW_UP) || \
+                 ROOM_FLAGGED(room, ROOM_FLOW_DOWN))
+#define IS_PALADIN(ch)      (!IS_NPC(ch) && \
+                (GET_CLASS(ch) == CLASS_PALADIN))
+#define IS_MAGUS(ch)        (!IS_NPC(ch) && \
+                (GET_CLASS(ch) == CLASS_MAGUS))
+#define IS_ASSASSIN(ch)     (!IS_NPC(ch) && \
+                (GET_CLASS(ch) == CLASS_ASSASSIN))
+#define IS_AVATAR(ch)       (!IS_NPC(ch) && \
+                (GET_CLASS(ch) == CLASS_AVATAR))
 #define IS_RANGER(ch)           (!IS_NPC(ch) && \
                                 (GET_CLASS(ch) == CLASS_RANGER))
 #define IS_MYSTIC(ch)           (!IS_NPC(ch) && \
                                 (GET_CLASS(ch) == CLASS_MYSTIC))
 #define IS_SHADOWING(ch)        (!IS_NPC(ch) && IS_AFFECTED(ch, AFF_DODGE))
 #define GET_ACTION(ch)          ((ch)->action)
-#define IS_CHOSEN(ch)		(!IS_NPC(ch) && PLR_FLAGGED(ch, PLR_CHOSEN))
-#define IS_OUTLAW(ch)		(!IS_NPC(ch) && PLR_FLAGGED(ch, PLR_OUTLAW))
+#define IS_CHOSEN(ch)       (!IS_NPC(ch) && PLR_FLAGGED(ch, PLR_CHOSEN))
+#define IS_OUTLAW(ch)       (!IS_NPC(ch) && PLR_FLAGGED(ch, PLR_OUTLAW))
 
      /* Serapis macros end */
 
-#define GET_EQ(ch, i)		((ch)->equipment[i])
+#define GET_EQ(ch, i)       ((ch)->equipment[i])
 
 #define GET_MOB_SPEC(ch) (IS_MOB(ch) ? (mob_index[(ch->nr)].func) : NULL)
-#define GET_MOB_RNUM(mob)	((mob)->nr)
-#define GET_MOB_VNUM(mob)	(IS_MOB(mob) ? \
-				 mob_index[GET_MOB_RNUM(mob)].virtual : -1)
+#define GET_MOB_RNUM(mob)   ((mob)->nr)
+#define GET_MOB_VNUM(mob)   (IS_MOB(mob) ? \
+                 mob_index[GET_MOB_RNUM(mob)].virtual : -1)
 
-#define GET_MOB_WAIT(ch)	((ch)->mob_specials.wait_state)
-#define GET_DEFAULT_POS(ch)	((ch)->mob_specials.default_pos)
-#define MEMORY(ch)		((ch)->mob_specials.memory)
-#define GET_NDD(mob) 		((mob)->mob_specials.damnodice)
-#define GET_SDD(mob) 		((mob)->mob_specials.damsizedice)
+#define GET_MOB_WAIT(ch)    ((ch)->mob_specials.wait_state)
+#define GET_DEFAULT_POS(ch) ((ch)->mob_specials.default_pos)
+#define MEMORY(ch)      ((ch)->mob_specials.memory)
+#define GET_NDD(mob)        ((mob)->mob_specials.damnodice)
+#define GET_SDD(mob)        ((mob)->mob_specials.damsizedice)
 
 #define STRENGTH_APPLY_INDEX(ch) \
         ( ((GET_ADD(ch)==0) || (GET_STR(ch) != 18)) ? GET_STR(ch) :\
@@ -460,40 +460,40 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 
 
 #define WAIT_STATE(ch, cycle) { \
-	if ((ch)) (ch)->wait = (cycle); \
-	else if (IS_NPC(ch)) GET_MOB_WAIT(ch) = (cycle); }
+    if ((ch)) (ch)->wait = (cycle); \
+    else if (IS_NPC(ch)) GET_MOB_WAIT(ch) = (cycle); }
 
 #define GET_PC_WAIT(ch) { \
         if ((ch)) (ch)->wait; }
-#define CHECK_WAIT(ch)	(((ch)) ? ((ch)->wait > 1) : 0)
-#define STATE(d)	((d)->connected)
+#define CHECK_WAIT(ch)  (((ch)) ? ((ch)->wait > 1) : 0)
+#define STATE(d)    ((d)->connected)
 
 
 /* object utils **********************************************************/
 
 
-#define GET_OBJ_TYPE(obj)	((obj)->obj_flags.type_flag)
-#define GET_OBJ_COST(obj)	((obj)->obj_flags.cost)
-#define GET_OBJ_LOAD(obj)	((obj)->obj_flags.load)
+#define GET_OBJ_TYPE(obj)   ((obj)->obj_flags.type_flag)
+#define GET_OBJ_COST(obj)   ((obj)->obj_flags.cost)
+#define GET_OBJ_LOAD(obj)   ((obj)->obj_flags.load)
 #define SET_OBJ_LOAD(obj, val)  ((obj)->obj_flags.load = (val))
-#define GET_OBJ_EXTRA(obj)	((obj)->obj_flags.extra_flags)
-#define GET_OBJ_WEAR(obj)	((obj)->obj_flags.wear_flags)
-#define GET_OBJ_VAL(obj, val)	((obj)->obj_flags.value[(val)])
-#define GET_OBJ_WEIGHT(obj)	((obj)->obj_flags.weight)
-#define GET_OBJ_TIMER(obj)	((obj)->obj_flags.timer)
-#define GET_OBJ_RNUM(obj)	((obj)->item_number)
-#define GET_OBJ_VNUM(obj)	(GET_OBJ_RNUM(obj) >= 0 ? \
-				 obj_index[GET_OBJ_RNUM(obj)].virtual : -1)
+#define GET_OBJ_EXTRA(obj)  ((obj)->obj_flags.extra_flags)
+#define GET_OBJ_WEAR(obj)   ((obj)->obj_flags.wear_flags)
+#define GET_OBJ_VAL(obj, val)   ((obj)->obj_flags.value[(val)])
+#define GET_OBJ_WEIGHT(obj) ((obj)->obj_flags.weight)
+#define GET_OBJ_TIMER(obj)  ((obj)->obj_flags.timer)
+#define GET_OBJ_RNUM(obj)   ((obj)->item_number)
+#define GET_OBJ_VNUM(obj)   (GET_OBJ_RNUM(obj) >= 0 ? \
+                 obj_index[GET_OBJ_RNUM(obj)].virtual : -1)
 #define IS_OBJ_STAT(obj,stat)   (IS_SET_AR((obj)->obj_flags.extra_flags, \
                                  (stat)))
 
-#define IS_CORPSE(obj)		(GET_OBJ_TYPE(obj) == ITEM_CONTAINER && \
-				 GET_OBJ_VAL((obj), 3) == 1)
+#define IS_CORPSE(obj)      (GET_OBJ_TYPE(obj) == ITEM_CONTAINER && \
+                 GET_OBJ_VAL((obj), 3) == 1)
 
-#define IS_FOOD(obj)		(GET_OBJ_TYPE(obj) == ITEM_FOOD)
+#define IS_FOOD(obj)        (GET_OBJ_TYPE(obj) == ITEM_FOOD)
 
 #define GET_OBJ_SPEC(obj) ((obj)->item_number >= 0 ? \
-	(obj_index[(obj)->item_number].func) : NULL)
+    (obj_index[(obj)->item_number].func) : NULL)
 
 #define CAN_WEAR(obj, part) (IS_SET_AR((obj)->obj_flags.wear_flags, (part)))
 
@@ -512,7 +512,7 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 
 /* Various macros building up to CAN_SEE */
 
-#define LIGHT_OK(sub)	(!IS_AFFECTED(sub, AFF_BLIND) && \
+#define LIGHT_OK(sub)   (!IS_AFFECTED(sub, AFF_BLIND) && \
    (IS_LIGHT((sub)->in_room) || IS_AFFECTED((sub), AFF_INFRAVISION)))
 
 #define INVIS_OK(sub, obj) \
@@ -552,10 +552,10 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 #define PERS(ch, vict)   (CAN_SEE(vict, ch) ? GET_NAME(ch) : "someone")
 
 #define OBJS(obj, vict) (CAN_SEE_OBJ((vict), (obj)) ? \
-	(obj)->short_description  : "something")
+    (obj)->short_description  : "something")
 
 #define OBJN(obj, vict) (CAN_SEE_OBJ((vict), (obj)) ? \
-	fname((obj)->name) : "something")
+    fname((obj)->name) : "something")
 
 #define SPELL_ROUTINES(spl)     (spell_info[spl].routines)
 #define HAS_SPELL_ROUTINE(spl, flag) (IS_SET(SPELL_ROUTINES(spl), (flag)))
@@ -563,25 +563,25 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 #define EXIT(ch, door)  (world[(ch)->in_room].dir_option[door])
 
 #define CAN_GO(ch, door) (EXIT(ch,door) && \
-			 (EXIT(ch,door)->to_room != NOWHERE) && \
-			 !IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
+             (EXIT(ch,door)->to_room != NOWHERE) && \
+             !IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
 
 
 #define CLASS_ABBR(ch) (IS_NPC(ch) ? "--" : class_abbrevs[(int)GET_CLASS(ch)])
 
-#define IS_MAGIC_USER(ch)	(!IS_NPC(ch) && \
-				(GET_CLASS(ch) == CLASS_MAGIC_USER))
-#define IS_CLERIC(ch)		(!IS_NPC(ch) && \
-				(GET_CLASS(ch) == CLASS_CLERIC))
-#define IS_THIEF(ch)		(!IS_NPC(ch) && \
-				(GET_CLASS(ch) == CLASS_THIEF))
-#define IS_WARRIOR(ch)		(!IS_NPC(ch) && \
-				(GET_CLASS(ch) == CLASS_WARRIOR))
+#define IS_MAGIC_USER(ch)   (!IS_NPC(ch) && \
+                (GET_CLASS(ch) == CLASS_MAGIC_USER))
+#define IS_CLERIC(ch)       (!IS_NPC(ch) && \
+                (GET_CLASS(ch) == CLASS_CLERIC))
+#define IS_THIEF(ch)        (!IS_NPC(ch) && \
+                (GET_CLASS(ch) == CLASS_THIEF))
+#define IS_WARRIOR(ch)      (!IS_NPC(ch) && \
+                (GET_CLASS(ch) == CLASS_WARRIOR))
 
 #define OUTSIDE(ch) (!ROOM_FLAGGED((ch)->in_room, ROOM_INDOORS) || \
                      SECT(ch->in_room) != SECT_INSIDE)
 
-#define IS_IMMORT(ch)		(!IS_NPC(ch) && (GET_LEVEL(ch) >= LVL_IMMORT))
+#define IS_IMMORT(ch)       (!IS_NPC(ch) && (GET_LEVEL(ch) >= LVL_IMMORT))
 
 
 /**** INFOBAR DEFS *****/
@@ -615,9 +615,9 @@ bool    are_grouped(struct char_data *ch1, struct char_data *ch2);
 
 /* defines for fseek */
 #ifndef SEEK_SET
-#define SEEK_SET	0
-#define SEEK_CUR	1
-#define SEEK_END	2
+#define SEEK_SET    0
+#define SEEK_CUR    1
+#define SEEK_END    2
 #endif
 
 #if defined(NOCRYPT) || !defined(HAVE_CRYPT)

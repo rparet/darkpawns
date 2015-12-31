@@ -1,9 +1,9 @@
 /************************************************************************\
 * File: whod.c, WHO Daemon.                          Adapted for DIKUMUD *
-* Version: 1.01								 *
+* Version: 1.01                              *
 * Usage: Set up port to answer external WHO-calls to the MUD             *
-* Copyright (c) 1992, d90-jkr@nada.kth.se (Johan Krisar),		 *
-*		      robert@diku.dk (Robert Martin-Legene),             *
+* Copyright (c) 1992, d90-jkr@nada.kth.se (Johan Krisar),        *
+*             robert@diku.dk (Robert Martin-Legene),             *
 *                           DikuMud is a copyright (c) of the Diku Group *
 \************************************************************************/
 
@@ -11,15 +11,15 @@
 
 /************************************************************************\
 *                                                                        *
-*      Opens a port (the port # above the port # the game itself is	 *
-*      being run). On this port people can connect to see who's on.	 *
-*	 The player wont have to enter the game to see if it's worth	 *
-*      playing at the time, thus saving money.				 *
-*									 *
-*	 We hope you can use it. If you have problems/questions,	 *
-*      ask either of us: d90-jkr@nada.kth.se or robert@diku.dk		 *
-*									 *
-*									 *
+*      Opens a port (the port # above the port # the game itself is  *
+*      being run). On this port people can connect to see who's on.  *
+*    The player wont have to enter the game to see if it's worth     *
+*      playing at the time, thus saving money.               *
+*                                    *
+*    We hope you can use it. If you have problems/questions,     *
+*      ask either of us: d90-jkr@nada.kth.se or robert@diku.dk       *
+*                                    *
+*                                    *
 *      Change the following #define-statements to adjust the             *
 *      WHOD to your server.                                              */
 
@@ -85,15 +85,15 @@
 #define WHOD_CLOSED  5
 #define WHOD_CLOSING 6
 
-#define SHOW_NAME	1<<0
-#define SHOW_CLASS	1<<1
-#define SHOW_LEVEL	1<<2
-#define SHOW_TITLE	1<<3
-#define SHOW_INVIS	1<<4
-#define SHOW_SITE	1<<5
-#define SHOW_WIZLEVEL	1<<6
-#define SHOW_ON		1<<7
-#define SHOW_OFF	1<<8
+#define SHOW_NAME   1<<0
+#define SHOW_CLASS  1<<1
+#define SHOW_LEVEL  1<<2
+#define SHOW_TITLE  1<<3
+#define SHOW_INVIS  1<<4
+#define SHOW_SITE   1<<5
+#define SHOW_WIZLEVEL   1<<6
+#define SHOW_ON     1<<7
+#define SHOW_OFF    1<<8
 
 #define WRITE(d,msg) if((write((d),(msg),strlen(msg)))<0){\
                             perror("whod.c - write");}
@@ -160,13 +160,13 @@ do_whod (struct char_data *ch, char *arg, int cmd)
   if ((bit = old_search_block(buf,0,strlen(buf),modes,0)) == -1)
     {
       send_to_char("That mode does not exist.\n\r"
-		   "Available modes are:\n\r", ch);
+           "Available modes are:\n\r", ch);
       *buf='\0';
       for (bit = 0; *modes [bit] != '\n'; bit++)
-	{
-	  strcat(buf,modes[bit]);
-	  strcat(buf," ");
-	}
+    {
+      strcat(buf,modes[bit]);
+      strcat(buf," ");
+    }
       strcat(buf,"\n\r");
       send_to_char(buf,ch);
       return;
@@ -176,59 +176,59 @@ do_whod (struct char_data *ch, char *arg, int cmd)
   if (SHOW_ON == 1<<bit)
     {
       if (IS_SET(whod_mode,SHOW_ON))
-	send_to_char("WHOD already turned on.\n\r",ch);
+    send_to_char("WHOD already turned on.\n\r",ch);
       else
-	{
-	  if (IS_SET(whod_mode,SHOW_OFF))
-	    {
-	      REMOVE_BIT(whod_mode,SHOW_OFF);
-	      SET_BIT(whod_mode,SHOW_ON);
-	      send_to_char("WHOD turned on.\n\r",ch);
-	      sprintf(buf,"WHOD turned on by %s.",GET_NAME(ch));
-	      LOG(buf);
-	    }
-	}
+    {
+      if (IS_SET(whod_mode,SHOW_OFF))
+        {
+          REMOVE_BIT(whod_mode,SHOW_OFF);
+          SET_BIT(whod_mode,SHOW_ON);
+          send_to_char("WHOD turned on.\n\r",ch);
+          sprintf(buf,"WHOD turned on by %s.",GET_NAME(ch));
+          LOG(buf);
+        }
+    }
     }
   else
     {
       if (SHOW_OFF == 1<<bit)
-	{
-	  if (IS_SET(whod_mode,SHOW_OFF))
-	    send_to_char("WHOD already turned off.\n\r",ch);
-	  else
-	    {
-	      if (IS_SET(whod_mode,SHOW_ON))
-		{
-		  REMOVE_BIT(whod_mode,SHOW_ON);
-		  SET_BIT(whod_mode,SHOW_OFF);
-		  send_to_char("WHOD turned off.\n\r",ch);
-		  sprintf(buf,"WHOD turned off by %s.",GET_NAME(ch));
-		  LOG(buf);
-		}
-	    }
-	}
+    {
+      if (IS_SET(whod_mode,SHOW_OFF))
+        send_to_char("WHOD already turned off.\n\r",ch);
       else
-	{
-	  if (IS_SET(whod_mode,1<<bit))
-	    {
-	      sprintf(buf,"%s will not be shown on WHOD.\n\r",modes[bit]);
-	      send_to_char(buf,ch);
-	      sprintf (buf, "%s removed from WHOD by %s.",
-		       modes [bit],GET_NAME(ch));
-	      LOG(buf);
-	      REMOVE_BIT(whod_mode,1<<bit);
-	      return;
-	    }
-	  else
-	    {
-	      sprintf(buf,"%s will now be shown on WHOD.\n\r",modes[bit]);
-	      send_to_char(buf, ch);
-	      sprintf(buf,"%s added to WHOD by %s.",modes[bit],GET_NAME(ch));
-	      LOG(buf);
-	      SET_BIT(whod_mode,1<<bit);
-	      return;
-	    }
-	}
+        {
+          if (IS_SET(whod_mode,SHOW_ON))
+        {
+          REMOVE_BIT(whod_mode,SHOW_ON);
+          SET_BIT(whod_mode,SHOW_OFF);
+          send_to_char("WHOD turned off.\n\r",ch);
+          sprintf(buf,"WHOD turned off by %s.",GET_NAME(ch));
+          LOG(buf);
+        }
+        }
+    }
+      else
+    {
+      if (IS_SET(whod_mode,1<<bit))
+        {
+          sprintf(buf,"%s will not be shown on WHOD.\n\r",modes[bit]);
+          send_to_char(buf,ch);
+          sprintf (buf, "%s removed from WHOD by %s.",
+               modes [bit],GET_NAME(ch));
+          LOG(buf);
+          REMOVE_BIT(whod_mode,1<<bit);
+          return;
+        }
+      else
+        {
+          sprintf(buf,"%s will now be shown on WHOD.\n\r",modes[bit]);
+          send_to_char(buf, ch);
+          sprintf(buf,"%s added to WHOD by %s.",modes[bit],GET_NAME(ch));
+          LOG(buf);
+          SET_BIT(whod_mode,1<<bit);
+          return;
+        }
+    }
     }
 
   return;
@@ -242,7 +242,7 @@ do_whod (struct char_data *ch, char *arg, int cmd)
  * Parameters : Port #-1 the daemon should be run at
  * Returns    : --
  * Description: Opens the WHOD port and sets the state of WHO-daemon to
-  		OPEN							 */
+        OPEN                             */
 void
 init_whod(int port)
 {
@@ -276,7 +276,7 @@ close_whod (void)
 void
 whod_loop(void)
 {
-  int	 nfound, players = 0, gods = 0;
+  int    nfound, players = 0, gods = 0;
   socklen_t size;
   fd_set in;
   u_long hostlong;
@@ -309,144 +309,144 @@ whod_loop(void)
       nfound = select(s+1,(fd_set*)&in,(fd_set*) 0,(fd_set*) 0,&timeout);
 
       if (FD_ISSET(s,&in))
-	{
-	  size = sizeof(newaddr);
-	  getsockname(s, (struct sockaddr *)&newaddr, &size);
+    {
+      size = sizeof(newaddr);
+      getsockname(s, (struct sockaddr *)&newaddr, &size);
 
-	  if ((newdesc = accept(s, (struct sockaddr *)&newaddr, &size)) < 0)
-	    {
-	      perror("WHOD - Accept");
-	      return;
-	    }
+      if ((newdesc = accept(s, (struct sockaddr *)&newaddr, &size)) < 0)
+        {
+          perror("WHOD - Accept");
+          return;
+        }
 
-	  if (!(hent = gethostbyaddr((char *)(&newaddr.sin_addr),
-				     sizeof(newaddr.sin_addr),AF_INET)))
-	    {
-	      hostlong = htonl(newaddr.sin_addr.s_addr);
-	      sprintf(buf,"WHO request from %d.%d.%d.%d served.",
-		      (int)((hostlong & 0xff000000) >>24),
-		      (int)((hostlong & 0x00ff0000) >>16),
-		      (int)((hostlong & 0x0000ff00) >>8),
-		      (int)((hostlong & 0x000000ff) >>0));
-	    }
-	  else
-	    sprintf(buf,"WHO request from %s served.",hent->h_name);
-
-	  LOG(buf);
-
-	  sprintf(buf, "%s", SHORT_GREETINGS);
-
-	  WRITE(newdesc,buf);
-
-	  sprintf(buf,"\n\rA list of active players on %s:\n\r\n\r",MUDNAME);
-
-	  for (ch = character_list; ch; ch = ch->next)
-	    if ((!IS_NPC(ch)) && (DISPLAY_LINKDEAD || ch->desc))
-	      if (IS_SET(SHOW_INVIS,whod_mode) || ! IS_INVIS(ch))
-		{
-		  if (IS_SET((SHOW_LEVEL | SHOW_CLASS),whod_mode))
-		    {
-		      strcat(buf,"[");
-		      if (!IS_SET(SHOW_WIZLEVEL,whod_mode) &&
-			  (GET_LEVEL(ch) >= WIZ_MIN_LEVEL))
-			{
-			  if (IS_SET(SHOW_LEVEL,whod_mode) &&
-			      IS_SET(SHOW_CLASS,whod_mode))
-			    if (GET_LEVEL(ch) >= 40)
-			      strcat(buf,"*IMP*");
-			    else if (GET_LEVEL(ch) >= 38)
-			      strcat(buf,"GRGOD");
-			    else if (GET_LEVEL(ch) >= 36)
-			      strcat(buf,"HIGOD");
-			    else if (GET_LEVEL(ch) >= 35)
-			      strcat(buf,"_LEG_");
-			    else if (GET_LEVEL(ch) >= 34)
-			      strcat(buf," GOD ");
-			    else if (GET_LEVEL(ch) >= 32)
-			      strcat(buf,"TITAN");
-			    else
-			      strcat(buf," IMM ");
-			  else
-			    strcat(buf,"_GOD_");
-			}
-		      else
-			{
-			  if (IS_SET(SHOW_LEVEL,whod_mode))
-			    {
-			      sprintf(tmp,"%2d",GET_LEVEL(ch));
-			      strcat(buf,tmp);
-			    }
-			  if (IS_SET(SHOW_CLASS,whod_mode) &&
-			      IS_SET(SHOW_LEVEL,whod_mode))
-			    {
-			      strcat(buf," ");
-			    }
-			  if (IS_SET(SHOW_CLASS,whod_mode))
-			    {
-			      sprintf(tmp, "%s",
-				      class_abbrevs[(int)GET_CLASS(ch)]);
-			      strcat(buf,tmp);
-			    }
-			}
-		      strcat(buf,"] ");
-		    }
-
-		  if(IS_SET(SHOW_NAME,whod_mode))
-		    strcat(buf,GET_NAME(ch));
-
-		  if (IS_SET(SHOW_TITLE,whod_mode))
-		    {
-		      strcat(buf," ");
-		      strcat(buf,GET_TITLE(ch));
-		      if (PRF_FLAGGED(ch, PRF_AFK))
-			strcat(buf, " (AFK)");
-		    }
-		  if (IS_SET(SHOW_SITE,whod_mode))
-		    {
-		      if (ch->desc->host != NULL)
-			sprintf(tmp," [%s]",ch->desc->host);
-		      else
-			sprintf(tmp," [ ** Unknown ** ]");
-		      strcat(buf,tmp);
-		    }
-
-		  strcat(buf,"\n\r");
-		  if (GET_LEVEL(ch) >= WIZ_MIN_LEVEL) gods++; else players++;
-		  if (MAX_STRING_LENGTH-strlen(buf)<=80)
-		    {
-		      WRITE (newdesc, buf);
-		      *buf='\0';
-		    }
-		}
-
-	  sprintf(tmp,"\n\rPlayers : %d     Gods : %d\n\r\n\r",players,gods);
-	  strcat(buf, tmp);
-
-	  WRITE(newdesc,buf);
-
-	  disconnect_time = time(NULL) + WHOD_DELAY_TIME;
-
-	  state = WHOD_DELAY;
-	}
+      if (!(hent = gethostbyaddr((char *)(&newaddr.sin_addr),
+                     sizeof(newaddr.sin_addr),AF_INET)))
+        {
+          hostlong = htonl(newaddr.sin_addr.s_addr);
+          sprintf(buf,"WHO request from %d.%d.%d.%d served.",
+              (int)((hostlong & 0xff000000) >>24),
+              (int)((hostlong & 0x00ff0000) >>16),
+              (int)((hostlong & 0x0000ff00) >>8),
+              (int)((hostlong & 0x000000ff) >>0));
+        }
       else
-	if (IS_SET(SHOW_OFF,whod_mode))
-	  state = WHOD_CLOSING;
+        sprintf(buf,"WHO request from %s served.",hent->h_name);
+
+      LOG(buf);
+
+      sprintf(buf, "%s", SHORT_GREETINGS);
+
+      WRITE(newdesc,buf);
+
+      sprintf(buf,"\n\rA list of active players on %s:\n\r\n\r",MUDNAME);
+
+      for (ch = character_list; ch; ch = ch->next)
+        if ((!IS_NPC(ch)) && (DISPLAY_LINKDEAD || ch->desc))
+          if (IS_SET(SHOW_INVIS,whod_mode) || ! IS_INVIS(ch))
+        {
+          if (IS_SET((SHOW_LEVEL | SHOW_CLASS),whod_mode))
+            {
+              strcat(buf,"[");
+              if (!IS_SET(SHOW_WIZLEVEL,whod_mode) &&
+              (GET_LEVEL(ch) >= WIZ_MIN_LEVEL))
+            {
+              if (IS_SET(SHOW_LEVEL,whod_mode) &&
+                  IS_SET(SHOW_CLASS,whod_mode))
+                if (GET_LEVEL(ch) >= 40)
+                  strcat(buf,"*IMP*");
+                else if (GET_LEVEL(ch) >= 38)
+                  strcat(buf,"GRGOD");
+                else if (GET_LEVEL(ch) >= 36)
+                  strcat(buf,"HIGOD");
+                else if (GET_LEVEL(ch) >= 35)
+                  strcat(buf,"_LEG_");
+                else if (GET_LEVEL(ch) >= 34)
+                  strcat(buf," GOD ");
+                else if (GET_LEVEL(ch) >= 32)
+                  strcat(buf,"TITAN");
+                else
+                  strcat(buf," IMM ");
+              else
+                strcat(buf,"_GOD_");
+            }
+              else
+            {
+              if (IS_SET(SHOW_LEVEL,whod_mode))
+                {
+                  sprintf(tmp,"%2d",GET_LEVEL(ch));
+                  strcat(buf,tmp);
+                }
+              if (IS_SET(SHOW_CLASS,whod_mode) &&
+                  IS_SET(SHOW_LEVEL,whod_mode))
+                {
+                  strcat(buf," ");
+                }
+              if (IS_SET(SHOW_CLASS,whod_mode))
+                {
+                  sprintf(tmp, "%s",
+                      class_abbrevs[(int)GET_CLASS(ch)]);
+                  strcat(buf,tmp);
+                }
+            }
+              strcat(buf,"] ");
+            }
+
+          if(IS_SET(SHOW_NAME,whod_mode))
+            strcat(buf,GET_NAME(ch));
+
+          if (IS_SET(SHOW_TITLE,whod_mode))
+            {
+              strcat(buf," ");
+              strcat(buf,GET_TITLE(ch));
+              if (PRF_FLAGGED(ch, PRF_AFK))
+            strcat(buf, " (AFK)");
+            }
+          if (IS_SET(SHOW_SITE,whod_mode))
+            {
+              if (ch->desc->host != NULL)
+            sprintf(tmp," [%s]",ch->desc->host);
+              else
+            sprintf(tmp," [ ** Unknown ** ]");
+              strcat(buf,tmp);
+            }
+
+          strcat(buf,"\n\r");
+          if (GET_LEVEL(ch) >= WIZ_MIN_LEVEL) gods++; else players++;
+          if (MAX_STRING_LENGTH-strlen(buf)<=80)
+            {
+              WRITE (newdesc, buf);
+              *buf='\0';
+            }
+        }
+
+      sprintf(tmp,"\n\rPlayers : %d     Gods : %d\n\r\n\r",players,gods);
+      strcat(buf, tmp);
+
+      WRITE(newdesc,buf);
+
+      disconnect_time = time(NULL) + WHOD_DELAY_TIME;
+
+      state = WHOD_DELAY;
+    }
+      else
+    if (IS_SET(SHOW_OFF,whod_mode))
+      state = WHOD_CLOSING;
 
       break;
 
       /****************************************************************/
     case WHOD_DELAY:
       if (time(NULL) >= disconnect_time)
-	state = WHOD_END;
+    state = WHOD_END;
       break;
 
       /****************************************************************/
     case WHOD_END:
       close(newdesc);
       if (IS_SET(whod_mode,SHOW_OFF))
-	state = WHOD_CLOSING;
+    state = WHOD_CLOSING;
       else
-	state = WHOD_OPEN;
+    state = WHOD_OPEN;
       break;
 
       /****************************************************************/
@@ -458,16 +458,16 @@ whod_loop(void)
       /****************************************************************/
     case WHOD_CLOSED:
       if (IS_SET(whod_mode,SHOW_ON))
-	state = WHOD_OPENING;
+    state = WHOD_OPENING;
       break;
 
     }
   return;
 }
 
-/* *** You might want to use this in your help_file.		     *** */
+/* *** You might want to use this in your help_file.             *** */
 /* *** It should be placed in the end of the file, so help on WHO is *** */
-/* ***  availeble too.						     *** */
+/* ***  availeble too.                           *** */
 /*
 WHOD
 
@@ -483,8 +483,8 @@ on      : Turns the whod on, and thereby opens the port
 off     : Turns the whod off, and thereby closes the port
 
 NOTE:     The on/off feature is only made to use, if someone starts polling
-	a few times a second or the like, and thereby abusing the net. You
-	might then want to shut down the daemon for 15 minutes or so.
+    a few times a second or the like, and thereby abusing the net. You
+    might then want to shut down the daemon for 15 minutes or so.
 #
 */
 

@@ -37,25 +37,25 @@
 /* (Note: strings for class definitions in class.c instead of here) */
 const char *phases[] =
 {
-	"not in the sky",
-	"one-quarter full(waxing)",
-	"half full(waxing)",
-	"three-quarters full(waxing)",
-	"full",
-	"three-quarters full(waning)",
-	"half full(waning)",
-	"one-quarter full(waning)",
-	"\n"
+    "not in the sky",
+    "one-quarter full(waxing)",
+    "half full(waxing)",
+    "three-quarters full(waxing)",
+    "full",
+    "three-quarters full(waning)",
+    "half full(waning)",
+    "one-quarter full(waning)",
+    "\n"
 };
 
 const char *hometowns[] =
 {
-	"!Bad Hometown - Tell a God!",
+    "!Bad Hometown - Tell a God!",
         "Kir Drax'in",
-	"Kir-Oshi",
-	"Alaozar",
-	"Add a new hometown here!",
-	"\n"
+    "Kir-Oshi",
+    "Alaozar",
+    "Add a new hometown here!",
+    "\n"
 };
 
 const char *abil_names[] =
@@ -352,8 +352,8 @@ const char *help_ssaur =
 
 const int intelligent_races[] = {
   RACE_NPCHUMAN,
-  RACE_NPCELF	,
-  RACE_NPCDWARF	 ,
+  RACE_NPCELF   ,
+  RACE_NPCDWARF  ,
   RACE_NPCKENDER,
   RACE_NPCCENTAUR,
   RACE_NPCRAKSHASA,
@@ -391,12 +391,12 @@ const char *room_bits[] = {
   "HCRSH",
   "ATRIUM",
   "OLC",
-  "*",				/* BFS MARK */
+  "*",              /* BFS MARK */
   "NEUTRAL",
   "BFR",
   "REGENROOM",
   "NO_WHO_ROOM",
-  "**",				/* secret mark */
+  "**",             /* secret mark */
   "FLOW_NORTH",
   "FLOW_SOUTH",
   "FLOW_EAST",
@@ -1021,171 +1021,171 @@ const char *fullness[] =
 
 /* [ch] strength apply (all) */
 const struct str_app_type str_app[] = {
-  {-5, -4, 0, 0},	/* str = 0 */
-  {-5, -4, 3, 1},	/* str = 1 */
+  {-5, -4, 0, 0},   /* str = 0 */
+  {-5, -4, 3, 1},   /* str = 1 */
   {-3, -2, 3, 2},
   {-3, -1, 10, 3},
   {-2, -1, 25, 4},
-  {-2, -1, 55, 5},	/* str = 5 */
+  {-2, -1, 55, 5},  /* str = 5 */
   {-1, 0, 80, 6},
   {-1, 0, 90, 7},
   {0, 0, 100, 8},
   {0, 0, 100, 9},
-  {0, 0, 115, 10},	/* str = 10 */
+  {0, 0, 115, 10},  /* str = 10 */
   {0, 0, 115, 11},
   {0, 0, 140, 12},
   {0, 0, 140, 13},
   {0, 0, 170, 14},
-  {0, 0, 170, 15},	/* str = 15 */
+  {0, 0, 170, 15},  /* str = 15 */
   {0, 1, 195, 16},
   {1, 1, 220, 18},
-  {1, 2, 255, 20},	/* dex = 18 */
+  {1, 2, 255, 20},  /* dex = 18 */
   {3, 7, 640, 40},
-  {3, 8, 700, 40},	/* str = 20 */
+  {3, 8, 700, 40},  /* str = 20 */
   {4, 9, 810, 40},
   {4, 10, 970, 40},
   {5, 11, 1130, 40},
   {6, 12, 1440, 40},
-  {7, 14, 1750, 40},	/* str = 25 */
-  {1, 3, 280, 22},	/* str = 18/0 - 18-50 */
-  {2, 3, 305, 24},	/* str = 18/51 - 18-75 */
-  {2, 4, 330, 26},	/* str = 18/76 - 18-90 */
-  {2, 5, 380, 28},	/* str = 18/91 - 18-99 */
-  {3, 6, 480, 30}	/* str = 18/100 */
+  {7, 14, 1750, 40},    /* str = 25 */
+  {1, 3, 280, 22},  /* str = 18/0 - 18-50 */
+  {2, 3, 305, 24},  /* str = 18/51 - 18-75 */
+  {2, 4, 330, 26},  /* str = 18/76 - 18-90 */
+  {2, 5, 380, 28},  /* str = 18/91 - 18-99 */
+  {3, 6, 480, 30}   /* str = 18/100 */
 };
 
 
 
 /* [dex] skill apply (thieves only) */
 const struct dex_skill_type dex_app_skill[] = {
-  {-99, -99, -90, -99, -60},	/* dex = 0 */
-  {-90, -90, -60, -90, -50},	/* dex = 1 */
+  {-99, -99, -90, -99, -60},    /* dex = 0 */
+  {-90, -90, -60, -90, -50},    /* dex = 1 */
   {-80, -80, -40, -80, -45},
   {-70, -70, -30, -70, -40},
   {-60, -60, -30, -60, -35},
-  {-50, -50, -20, -50, -30},	/* dex = 5 */
+  {-50, -50, -20, -50, -30},    /* dex = 5 */
   {-40, -40, -20, -40, -25},
   {-30, -30, -15, -30, -20},
   {-20, -20, -15, -20, -15},
   {-15, -10, -10, -20, -10},
-  {-10, -5, -10, -15, -5},	/* dex = 10 */
+  {-10, -5, -10, -15, -5},  /* dex = 10 */
   {-5, 0, -5, -10, 0},
   {0, 0, 0, -5, 0},
   {0, 0, 0, 0, 0},
   {0, 0, 0, 0, 0},
-  {0, 0, 0, 0, 0},		/* dex = 15 */
+  {0, 0, 0, 0, 0},      /* dex = 15 */
   {0, 5, 0, 0, 0},
   {5, 10, 0, 5, 5},
-  {10, 15, 5, 10, 10},		/* dex = 18 */
+  {10, 15, 5, 10, 10},      /* dex = 18 */
   {15, 20, 10, 15, 15},
-  {15, 20, 10, 15, 15},		/* dex = 20 */
+  {15, 20, 10, 15, 15},     /* dex = 20 */
   {20, 25, 10, 15, 20},
   {20, 25, 15, 20, 20},
   {25, 25, 15, 20, 20},
   {25, 30, 15, 25, 25},
-  {25, 30, 15, 25, 25}		/* dex = 25 */
+  {25, 30, 15, 25, 25}      /* dex = 25 */
 };
 
 
 
 /* [dex] apply (all) */
 struct dex_app_type dex_app[] = {
-  {-7, -7, 6},		/* dex = 0 */
-  {-6, -6, 5},		/* dex = 1 */
+  {-7, -7, 6},      /* dex = 0 */
+  {-6, -6, 5},      /* dex = 1 */
   {-4, -4, 5},
   {-3, -3, 4},
   {-2, -2, 3},
-  {-1, -1, 2},		/* dex = 5 */
+  {-1, -1, 2},      /* dex = 5 */
   {0, 0, 1},
   {0, 0, 0},
   {0, 0, 0},
   {0, 0, 0},
-  {0, 0, 0},		/* dex = 10 */
+  {0, 0, 0},        /* dex = 10 */
   {0, 0, 0},
   {0, 0, 0},
   {0, 0, 0},
   {0, 0, 0},
-  {0, 0, -1},		/* dex = 15 */
+  {0, 0, -1},       /* dex = 15 */
   {1, 1, -2},
   {2, 2, -3},
-  {2, 2, -4},		/* dex = 18 */
+  {2, 2, -4},       /* dex = 18 */
   {3, 3, -4},
-  {3, 3, -4},		/* dex = 20 */
+  {3, 3, -4},       /* dex = 20 */
   {4, 4, -5},
   {4, 4, -5},
   {4, 4, -5},
   {5, 5, -6},
-  {5, 5, -6}		/* dex = 25 */
+  {5, 5, -6}        /* dex = 25 */
 };
 
 
 
 /* [con] apply (all) */
 struct con_app_type con_app[] = {
-  {-4, 20},		/* con = 0 */
-  {-3, 25},		/* con = 1 */
+  {-4, 20},     /* con = 0 */
+  {-3, 25},     /* con = 1 */
   {-2, 30},
   {-2, 35},
   {-1, 40},
-  {-1, 45},		/* con = 5 */
+  {-1, 45},     /* con = 5 */
   {-1, 50},
   {0, 55},
   {0, 60},
   {0, 65},
-  {0, 70},		/* con = 10 */
+  {0, 70},      /* con = 10 */
   {0, 75},
   {0, 80},
   {0, 85},
   {0, 88},
-  {1, 90},		/* con = 15 */
+  {1, 90},      /* con = 15 */
   {2, 95},
   {2, 97},
-  {3, 99},		/* con = 18 */
+  {3, 99},      /* con = 18 */
   {3, 99},
-  {4, 99},		/* con = 20 */
+  {4, 99},      /* con = 20 */
   {5, 99},
   {5, 99},
   {5, 99},
   {6, 99},
-  {6, 99}		/* con = 25 */
+  {6, 99}       /* con = 25 */
 };
 
 
 
 /* [int] apply (all) */
 struct int_app_type int_app[] = {
-  {3},		/* int = 0 */
-  {5},		/* int = 1 */
+  {3},      /* int = 0 */
+  {5},      /* int = 1 */
   {7},
   {8},
   {9},
-  {10},		/* int = 5 */
+  {10},     /* int = 5 */
   {11},
   {12},
   {13},
   {15},
-  {17},		/* int = 10 */
+  {17},     /* int = 10 */
   {19},
   {22},
   {25},
   {30},
-  {35},		/* int = 15 */
+  {35},     /* int = 15 */
   {40},
   {45},
-  {50},		/* int = 18 */
+  {50},     /* int = 18 */
   {53},
-  {55},		/* int = 20 */
+  {55},     /* int = 20 */
   {56},
   {57},
   {58},
   {59},
-  {60}		/* int = 25 */
+  {60}      /* int = 25 */
 };
 
 
 /* [wis] apply (all) */
 struct wis_app_type wis_app[] = {
-  {0},	/* wis = 0 */
+  {0},  /* wis = 0 */
   {0},  /* wis = 1 */
   {0},
   {0},
@@ -1203,7 +1203,7 @@ struct wis_app_type wis_app[] = {
   {3},  /* wis = 15 */
   {3},
   {4},
-  {5},	/* wis = 18 */
+  {5},  /* wis = 18 */
   {6},
   {6},  /* wis = 20 */
   {6},
@@ -1216,22 +1216,22 @@ struct wis_app_type wis_app[] = {
 
 
 const char *spell_wear_off_msg[] = {
-  "RESERVED DB.C",		/* 0 */
-  "You feel less protected.",	/* 1 */
+  "RESERVED DB.C",      /* 0 */
+  "You feel less protected.",   /* 1 */
   "!Teleport!",
   "You feel less righteous.",
   "You feel a cloak of blindness dissolve.",
-  "!Burning Hands!",		/* 5 */
+  "!Burning Hands!",        /* 5 */
   "!Call Lightning",
   "You feel more self-confident.",
   "You feel your strength return.",
   "!Clone!",
-  "!Color Spray!",		/* 10 */
+  "!Color Spray!",      /* 10 */
   "!Control Weather!",
   "!Create Food!",
   "!Create Water!",
   "!Cure Blind!",
-  "!Cure Critic!",		/* 15 */
+  "!Cure Critic!",      /* 15 */
   "!Cure Light!",
   "You feel more optimistic.",
   "You feel less aware.",
@@ -1241,32 +1241,32 @@ const char *spell_wear_off_msg[] = {
   "!Dispel Evil!",
   "!Earthquake!",
   "!Enchant Weapon!",
-  "!Energy Drain!",		/* 25 */
+  "!Energy Drain!",     /* 25 */
   "!Fireball!",
   "!Harm!",
   "!Heal!",
   "You feel yourself exposed.",
-  "!Lightning Bolt!",		/* 30 */
+  "!Lightning Bolt!",       /* 30 */
   "!Locate object!",
   "!Magic Missile!",
   "You feel less sick.",
   "You feel less protected.",
-  "!Remove Curse!",		/* 35 */
+  "!Remove Curse!",     /* 35 */
   "The aura around your body fades.",
   "!Shocking Grasp!",
   "You feel less tired.",
   "You feel weaker.",
-  "!Summon!",			/* 40 */
+  "!Summon!",           /* 40 */
   "!Ventriloquate!",
   "!Word of Recall!",
   "!Remove Poison!",
   "You feel less aware of your surroundings.",
-  "!Animate Dead!",		/* 45 */
+  "!Animate Dead!",     /* 45 */
   "!Dispel Good!",
   "!Group Armor!",
   "!Group Heal!",
   "!Group Recall!",
-  "Your night vision seems to fade.",	/* 50 */
+  "Your night vision seems to fade.",   /* 50 */
   "Your feet seem less boyant.",
   "!Mass Heal!",
   "Your feet float back down to the ground.",
@@ -1281,27 +1281,27 @@ const char *spell_wear_off_msg[] = {
   "!MINDBLAST!",
   "Your chameleon-like coloring fades to normal.",
   "Your feet float back down to the ground.",
-  "Your skin softens.",		/* 65 */
+  "Your skin softens.",     /* 65 */
   "The globe of invulnerability around you vanishes.",
   "!VITALITY!",
   "!INVIGORATE!",
   "Your perception returns to normal.",
-  "Your perception returns to normal.",	/* 70 */
+  "Your perception returns to normal.", /* 70 */
   "!MINDATTACK!",
   "Your adrenaline returns to it's normal production rate.",
   "Your feel your energy shield dissapate.",
   "Your molecular density returns to normal.",
-  "!ACID BLAST!",		/* 75 */
+  "!ACID BLAST!",       /* 75 */
   "Your free will returns.",
   "!CELL ADJUSTMENT!",
   "Your trance ends.",
   "!Mirror Image!",
-  "!MASS DOMINATE!",		/* 80 */
+  "!MASS DOMINATE!",        /* 80 */
   "!KATANA!",
   "Your mental capasity returns to normal.",
   "!SOUL LEECH!",
   "!MINDSIGHT!",
-  "Your skin fades back into view.",	/* 85 */
+  "Your skin fades back into view.",    /* 85 */
   "Your perception of other's emotions ebbs.",
   "!GATE!",
   "The secrets of the world seem less clear.",
@@ -1311,12 +1311,12 @@ const char *spell_wear_off_msg[] = {
   "!DISRUPT!",
   "!DISINTEGRATE",
   "!CALLIOPE!",
-  "You no longer feel protected.",	/* 95 */
+  "You no longer feel protected.",  /* 95 */
   "The flames around you subside.",
   "You cease moving rapidly.",
   "The world begins to pick up speed again.",
   " ", /* dream travel */
-  "!PSIBLAST!",			/* 100 */
+  "!PSIBLAST!",         /* 100 */
   "!CIRCLE OF SUMMONING!",
   "You feel your breathing return to normal.",
   "!CONJURE ELEMENTAL!"
@@ -1344,15 +1344,15 @@ const int rev_dir[] =
 
 const int movement_loss[] =
 {
-  2,	/* Inside     */
-  2,	/* City       */
-  3,	/* Field      */
-  4,	/* Forest     */
-  5,	/* Hills      */
-  7,	/* Mountains  */
-  5,	/* Swimming   */
-  6,	/* Unswimable */
-  2,	/* Flying     */
+  2,    /* Inside     */
+  2,    /* City       */
+  3,    /* Field      */
+  4,    /* Forest     */
+  5,    /* Hills      */
+  7,    /* Mountains  */
+  5,    /* Swimming   */
+  6,    /* Unswimable */
+  2,    /* Flying     */
   6,    /* Underwater */
   8,    /* Desert     */
   6,    /* Fire Plane */
@@ -1375,7 +1375,7 @@ const char *weekdays[] = {
 
 
 const char *month_name[] = {
-  "Month of Winter",		/* 0 */
+  "Month of Winter",        /* 0 */
   "Month of the Winter Wolf",
   "Month of the Frost Giant",
   "Month of the Old Forces",
@@ -1399,16 +1399,16 @@ const int sharp[] = {
   0,
   0,
   0,
-  1,				/* Slashing */
+  1,                /* Slashing */
   0,
   0,
   0,
-  0,				/* Bludgeon */
+  0,                /* Bludgeon */
   0,
   0,
   0,
   0
-};				/* Pierce   */
+};              /* Pierce   */
 
 
 

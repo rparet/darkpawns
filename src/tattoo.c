@@ -45,15 +45,15 @@ use_tattoo( struct char_data *ch )
     switch (GET_TATTOO(ch))
     {
       case TATTOO_NONE:
-	send_to_char ("You don't have a tattoo.\r\n", ch);
-	break;
+    send_to_char ("You don't have a tattoo.\r\n", ch);
+    break;
       case TATTOO_SKULL:
       {
-	struct char_data *skull = read_mobile(9, VIRTUAL);
+    struct char_data *skull = read_mobile(9, VIRTUAL);
         struct affected_type af;
 
-	char_to_room(skull, ch->in_room);
-	add_follower_quiet(skull, ch);
+    char_to_room(skull, ch->in_room);
+    add_follower_quiet(skull, ch);
         IS_CARRYING_W(skull) = 0;
         IS_CARRYING_N(skull) = 0;
 
@@ -64,26 +64,26 @@ use_tattoo( struct char_data *ch )
         af.bitvector = AFF_CHARM;
         affect_to_char(skull, &af);
 
-	act("$n's tattoo glows brightly for a second, and $N appears!",
-		TRUE, ch, 0, skull, TO_ROOM);
-	act("Your tattoo glows brightly for a second, and $N appears!",
-		TRUE, ch, 0, skull, TO_CHAR);
+    act("$n's tattoo glows brightly for a second, and $N appears!",
+        TRUE, ch, 0, skull, TO_ROOM);
+    act("Your tattoo glows brightly for a second, and $N appears!",
+        TRUE, ch, 0, skull, TO_CHAR);
       }
       break;
       case TATTOO_EYE:
         call_magic(ch, ch, NULL, SPELL_GREATPERCEPT,
-		   DEFAULT_WAND_LVL, CAST_WAND);
-	break;
+           DEFAULT_WAND_LVL, CAST_WAND);
+    break;
       case TATTOO_SHIP:
         call_magic(ch, ch, NULL, SPELL_CHANGE_DENSITY,
-		   DEFAULT_WAND_LVL, CAST_WAND);
-	break;
+           DEFAULT_WAND_LVL, CAST_WAND);
+    break;
       case TATTOO_ANGEL:
         call_magic(ch, ch, NULL, SPELL_BLESS, DEFAULT_WAND_LVL, CAST_WAND);
-	break;
+    break;
       default:
-	send_to_char("Your tattoo can't be 'use'd.\r\n", ch);
-	return (FALSE);
+    send_to_char("Your tattoo can't be 'use'd.\r\n", ch);
+    return (FALSE);
     }
     TAT_TIMER(ch)=24;
   }

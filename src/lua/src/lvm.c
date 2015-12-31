@@ -26,7 +26,7 @@
 
 
 #ifdef OLD_ANSI
-#define strcoll(a,b)	strcmp(a,b)
+#define strcoll(a,b)    strcmp(a,b)
 #endif
 
 
@@ -35,7 +35,7 @@
 ** Extra stack size to run a function:
 ** TAG_LINE(1), NAME(1), TM calls(3) (plus some extra...)
 */
-#define	EXTRA_STACK	8
+#define EXTRA_STACK 8
 
 
 
@@ -342,7 +342,7 @@ static void adjust_varargs (lua_State *L, StkId base, int nfixargs) {
 
 
 
-#define dojump(pc, i)	{ int d = GETARG_S(i); pc += d; }
+#define dojump(pc, i)   { int d = GETARG_S(i); pc += d; }
 
 /*
 ** Executes the given Lua function. Parameters are between [base,top).

@@ -38,8 +38,8 @@
 #include "spells.h"
 
 /* these factors should be unique integers */
-#define RENT_FACTOR 	1
-#define CRYO_FACTOR 	4
+#define RENT_FACTOR     1
+#define CRYO_FACTOR     4
 
 extern struct str_app_type str_app[];
 extern struct room_data *world;
@@ -163,7 +163,7 @@ int Crash_delete_file(char *name)
   if (!get_filename(name, filename, CRASH_FILE))
     return 0;
   if (!(fl = fopen(filename, "rb"))) {
-    if (errno != ENOENT) {	/* if it fails but NOT because of no file */
+    if (errno != ENOENT) {  /* if it fails but NOT because of no file */
       sprintf(buf1, "SYSERR: deleting crash file %s (1)", filename);
       perror(buf1);
     }
@@ -172,7 +172,7 @@ int Crash_delete_file(char *name)
   fclose(fl);
 
   if (unlink(filename) < 0) {
-    if (errno != ENOENT) {	/* if it fails, NOT because of no file */
+    if (errno != ENOENT) {  /* if it fails, NOT because of no file */
       sprintf(buf1, "SYSERR: deleting crash file %s (2)", filename);
       perror(buf1);
     }
@@ -190,7 +190,7 @@ int Crash_delete_crashfile(struct char_data * ch)
   if (!get_filename(GET_NAME(ch), fname, CRASH_FILE))
     return 0;
   if (!(fl = fopen(fname, "rb"))) {
-    if (errno != ENOENT) {	/* if it fails, NOT because of no file */
+    if (errno != ENOENT) {  /* if it fails, NOT because of no file */
       sprintf(buf1, "SYSERR: checking for crash file %s (3)", fname);
       perror(buf1);
     }
@@ -222,7 +222,7 @@ Crash_clean_file(char *name)
    * time.
    */
   if (!(fl = fopen(fname, "r+b"))) {
-    if (errno != ENOENT) {	/* if it fails, NOT because of no file */
+    if (errno != ENOENT) {  /* if it fails, NOT because of no file */
       sprintf(buf1, "SYSERR: OPENING OBJECT FILE %s (4)", fname);
       perror(buf1);
     }
@@ -238,17 +238,17 @@ Crash_clean_file(char *name)
       Crash_delete_file(name);
       switch (rent.rentcode) {
       case RENT_CRASH:
-	strcpy(filetype, "crash");
-	break;
+    strcpy(filetype, "crash");
+    break;
       case RENT_FORCED:
-	strcpy(filetype, "forced rent");
-	break;
+    strcpy(filetype, "forced rent");
+    break;
       case RENT_TIMEDOUT:
-	strcpy(filetype, "idlesave");
-	break;
+    strcpy(filetype, "idlesave");
+    break;
       default:
-	strcpy(filetype, "UNKNOWN!");
-	break;
+    strcpy(filetype, "UNKNOWN!");
+    break;
       }
       sprintf(buf, "    Deleting %s's %s file.", name, filetype);
       log(buf);
@@ -323,11 +323,11 @@ void Crash_listrent(struct char_data * ch, char *name)
     }
     if (!feof(fl))
       if (real_object(object.item_number) > -1) {
-	obj = read_object(object.item_number, VIRTUAL);
-	sprintf(buf, "%s [%5d] (%.2fau) <%2d> %-20s\r\n", buf,
-		object.item_number, GET_OBJ_LOAD(obj),
-		object.locate, obj->short_description);
-	extract_obj(obj);
+    obj = read_object(object.item_number, VIRTUAL);
+    sprintf(buf, "%s [%5d] (%.2fau) <%2d> %-20s\r\n", buf,
+        object.item_number, GET_OBJ_LOAD(obj),
+        object.locate, obj->short_description);
+    extract_obj(obj);
       }
   }
   page_string( ch->desc, buf, 1 );
@@ -359,63 +359,63 @@ void auto_equip(struct char_data *ch, struct obj_data *obj, int locate)
     case WEAR_FINGER_R:
     case WEAR_FINGER_L:
       if (!CAN_WEAR(obj,ITEM_WEAR_FINGER)) /* not fitting :( */
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_NECK_1:
     case WEAR_NECK_2:
       if (!CAN_WEAR(obj,ITEM_WEAR_NECK))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_BODY:
       if (!CAN_WEAR(obj,ITEM_WEAR_BODY))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_HEAD:
       if (!CAN_WEAR(obj,ITEM_WEAR_HEAD))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_LEGS:
       if (!CAN_WEAR(obj,ITEM_WEAR_LEGS))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_FEET:
       if (!CAN_WEAR(obj,ITEM_WEAR_FEET))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_HANDS:
       if (!CAN_WEAR(obj,ITEM_WEAR_HANDS))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_ARMS:
       if (!CAN_WEAR(obj,ITEM_WEAR_ARMS))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_SHIELD:
       if (!CAN_WEAR(obj,ITEM_WEAR_SHIELD))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_ABOUT:
       if (!CAN_WEAR(obj,ITEM_WEAR_ABOUT))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_WAIST:
       if (!CAN_WEAR(obj,ITEM_WEAR_WAIST))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_WRIST_R:
     case WEAR_WRIST_L:
       if (!CAN_WEAR(obj,ITEM_WEAR_WRIST))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_WIELD:
       if (!CAN_WEAR(obj,ITEM_WEAR_WIELD))
-	locate = 0;
+    locate = 0;
       break;
     case WEAR_HOLD:
       if (!CAN_WEAR(obj,ITEM_WEAR_HOLD) &&
-	  !(IS_WARRIOR(ch) &&
-	    CAN_WEAR(obj,ITEM_WEAR_WIELD) && GET_OBJ_TYPE(obj) == ITEM_WEAPON))
-	locate = 0;
+      !(IS_WARRIOR(ch) &&
+        CAN_WEAR(obj,ITEM_WEAR_WIELD) && GET_OBJ_TYPE(obj) == ITEM_WEAPON))
+    locate = 0;
       break;
     case WEAR_THROW:
       if (!CAN_WEAR(obj, ITEM_WEAR_THROW))
@@ -439,15 +439,15 @@ void auto_equip(struct char_data *ch, struct obj_data *obj, int locate)
     if (locate > 0) {
       if (!GET_EQ(ch,j)) {
 /* check ch's alignment to prevent $M from being zapped through auto-equip */
-	if ((IS_OBJ_STAT(obj, ITEM_ANTI_EVIL) && IS_EVIL(ch)) ||
-	    (IS_OBJ_STAT(obj, ITEM_ANTI_GOOD) && IS_GOOD(ch)) ||
-	    (IS_OBJ_STAT(obj, ITEM_ANTI_NEUTRAL) && IS_NEUTRAL(ch)))
-	  locate = 0;
-	else
-	  equip_char(ch, obj, j);
+    if ((IS_OBJ_STAT(obj, ITEM_ANTI_EVIL) && IS_EVIL(ch)) ||
+        (IS_OBJ_STAT(obj, ITEM_ANTI_GOOD) && IS_GOOD(ch)) ||
+        (IS_OBJ_STAT(obj, ITEM_ANTI_NEUTRAL) && IS_NEUTRAL(ch)))
+      locate = 0;
+    else
+      equip_char(ch, obj, j);
       }
       else  /* oops - saved player with double equipment[j]? */
-	locate = 0;
+    locate = 0;
     }
   }
   if (locate <= 0)
@@ -461,9 +461,9 @@ void auto_equip(struct char_data *ch, struct obj_data *obj, int locate)
 
 int Crash_load(struct char_data * ch)
 /* return values:
-	0 - successful load, keep char in rent room.
-	1 - load failure or load of crash items -- put char in temple.
-	2 - rented equipment lost (no $)
+    0 - successful load, keep char in rent room.
+    1 - load failure or load of crash items -- put char in temple.
+    2 - rented equipment lost (no $)
 */
 {
   void Crash_crashsave(struct char_data * ch);
@@ -484,14 +484,14 @@ int Crash_load(struct char_data * ch)
   if (!(fl = fopen(fname, "r+b")))
     {
       if (errno != ENOENT)
-	{	/* if it fails, NOT because of no file */
-	  sprintf(buf1, "SYSERR: READING OBJECT FILE %s (5)", fname);
-	  perror(buf1);
-	  send_to_char("\r\n********************* NOTICE "
-		       "*********************\r\n"
-		       "There was a problem loading your objects from disk.\r\n"
-		       "Contact a God for assistance.\r\n", ch);
-	}
+    {   /* if it fails, NOT because of no file */
+      sprintf(buf1, "SYSERR: READING OBJECT FILE %s (5)", fname);
+      perror(buf1);
+      send_to_char("\r\n********************* NOTICE "
+               "*********************\r\n"
+               "There was a problem loading your objects from disk.\r\n"
+               "Contact a God for assistance.\r\n", ch);
+    }
       sprintf(buf, "%s entering game with no equipment.", GET_NAME(ch));
       mudlog(buf, NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
       return 1;
@@ -504,20 +504,20 @@ int Crash_load(struct char_data * ch)
       num_of_days = (float) (time(0) - rent.time) / SECS_PER_REAL_DAY;
       cost = (int) (rent.net_cost_per_diem * num_of_days);
       if (cost > GET_GOLD(ch) + GET_BANK_GOLD(ch))
-	{
-	  fclose(fl);
-	  sprintf(buf, "%s entering game, rented equipment lost (no $).",
-		  GET_NAME(ch));
-	  mudlog(buf, BRF, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
-	  Crash_crashsave(ch);
-	  return 2;
-	}
+    {
+      fclose(fl);
+      sprintf(buf, "%s entering game, rented equipment lost (no $).",
+          GET_NAME(ch));
+      mudlog(buf, BRF, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
+      Crash_crashsave(ch);
+      return 2;
+    }
       else
-	{
-	  GET_BANK_GOLD(ch) -= MAX(cost - GET_GOLD(ch), 0);
-	  GET_GOLD(ch) = MAX(GET_GOLD(ch) - cost, 0);
-	  save_char(ch, NOWHERE);
-	}
+    {
+      GET_BANK_GOLD(ch) -= MAX(cost - GET_GOLD(ch), 0);
+      GET_GOLD(ch) = MAX(GET_GOLD(ch) - cost, 0);
+      save_char(ch, NOWHERE);
+    }
     }
   switch (orig_rent_code = rent.rentcode)
     {
@@ -527,7 +527,7 @@ int Crash_load(struct char_data * ch)
       break;
     case RENT_CRASH:
       sprintf(buf, "%s retrieving crash-saved items and entering game.",
-	      GET_NAME(ch));
+          GET_NAME(ch));
       mudlog(buf, NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
       break;
     case RENT_CRYO:
@@ -537,12 +537,12 @@ int Crash_load(struct char_data * ch)
     case RENT_FORCED:
     case RENT_TIMEDOUT:
       sprintf(buf, "%s retrieving force-saved items and entering game.",
-	      GET_NAME(ch));
+          GET_NAME(ch));
       mudlog(buf, NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
       break;
     default:
       sprintf(buf, "WARNING: %s entering game with undefined rent code.",
-	      GET_NAME(ch));
+          GET_NAME(ch));
       mudlog(buf, BRF, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
       break;
     }
@@ -554,112 +554,112 @@ int Crash_load(struct char_data * ch)
     {
       fread(&object, sizeof(struct obj_file_elem), 1, fl);
       if (ferror(fl))
-	{
-	  perror("Reading crash file: Crash_load.");
-	  fclose(fl);
-	  return 1;
-	}
+    {
+      perror("Reading crash file: Crash_load.");
+      fclose(fl);
+      return 1;
+    }
       if (!feof(fl))
-	if ((obj = Obj_from_store_to(object, &locate))) {
-	  auto_equip(ch, obj, locate);
+    if ((obj = Obj_from_store_to(object, &locate))) {
+      auto_equip(ch, obj, locate);
 
-	  /*
-	    what to do with a new loaded item:
+      /*
+        what to do with a new loaded item:
 
-	    if there's a list with <locate> less than 1 below this:
-	    (equipped items are assumed to have <locate>==0 here) then its
-	    container has disappeared from the file   *gasp*
-	    -> put all the list back to ch's inventory
+        if there's a list with <locate> less than 1 below this:
+        (equipped items are assumed to have <locate>==0 here) then its
+        container has disappeared from the file   *gasp*
+        -> put all the list back to ch's inventory
 
-	    if there's a list of contents with <locate> 1 below this:
-	    check if it's a container
-	    - if so: get it from ch, fill it, and give it back to ch
-	      (this way the container has its correct weight before
-	       modifying ch)
-	    - if not: the container is missing -> put all the list to ch's
-	      inventory
+        if there's a list of contents with <locate> 1 below this:
+        check if it's a container
+        - if so: get it from ch, fill it, and give it back to ch
+          (this way the container has its correct weight before
+           modifying ch)
+        - if not: the container is missing -> put all the list to ch's
+          inventory
 
-	    for items with negative <locate>:
-	    if there's already a list of contents with the same <locate>
-	    put obj to it if not, start a new list
+        for items with negative <locate>:
+        if there's already a list of contents with the same <locate>
+        put obj to it if not, start a new list
 
-	    Confused? Well maybe you can think of some better text to be put
-	    here ...
+        Confused? Well maybe you can think of some better text to be put
+        here ...
 
-	    since <locate> for contents is < 0 the list indices are switched to
-	    non-negative
-	    */
+        since <locate> for contents is < 0 the list indices are switched to
+        non-negative
+        */
 
-	  if (locate > 0) { /* item equipped */
-	    for (j = MAX_BAG_ROW-1;j > 0;j--)
-	      if (cont_row[j]) { /* no container -> back to ch's inventory */
-		for (;cont_row[j];cont_row[j] = obj1) {
-		  obj1 = cont_row[j]->next_content;
-		  obj_to_char(cont_row[j], ch);
-		}
-		cont_row[j] = NULL;
-	      }
-	    if (cont_row[0]) { /* content list existing */
-	      if (GET_OBJ_TYPE(obj) == ITEM_CONTAINER) {
-		/* rem item ; fill ; equip again */
-		obj = unequip_char(ch, locate-1);
-		obj->contains = NULL; /* should be empty - but who knows */
-		for (;cont_row[0];cont_row[0] = obj1) {
-		  obj1 = cont_row[0]->next_content;
-		  obj_to_obj(cont_row[0], obj);
-		}
-		equip_char(ch, obj, locate-1);
-	      } else { /* object isn't container -> empty content list */
-		for (;cont_row[0];cont_row[0] = obj1) {
-		  obj1 = cont_row[0]->next_content;
-		  obj_to_char(cont_row[0], ch);
-		}
-		cont_row[0] = NULL;
-	      }
-	    }
-	  } else { /* locate <= 0 */
-	    for (j = MAX_BAG_ROW-1;j > -locate;j--)
-	      if (cont_row[j]) { /* no container -> back to ch's inventory */
-		for (;cont_row[j];cont_row[j] = obj1) {
-		  obj1 = cont_row[j]->next_content;
-		  obj_to_char(cont_row[j], ch);
-		}
-		cont_row[j] = NULL;
-	      }
+      if (locate > 0) { /* item equipped */
+        for (j = MAX_BAG_ROW-1;j > 0;j--)
+          if (cont_row[j]) { /* no container -> back to ch's inventory */
+        for (;cont_row[j];cont_row[j] = obj1) {
+          obj1 = cont_row[j]->next_content;
+          obj_to_char(cont_row[j], ch);
+        }
+        cont_row[j] = NULL;
+          }
+        if (cont_row[0]) { /* content list existing */
+          if (GET_OBJ_TYPE(obj) == ITEM_CONTAINER) {
+        /* rem item ; fill ; equip again */
+        obj = unequip_char(ch, locate-1);
+        obj->contains = NULL; /* should be empty - but who knows */
+        for (;cont_row[0];cont_row[0] = obj1) {
+          obj1 = cont_row[0]->next_content;
+          obj_to_obj(cont_row[0], obj);
+        }
+        equip_char(ch, obj, locate-1);
+          } else { /* object isn't container -> empty content list */
+        for (;cont_row[0];cont_row[0] = obj1) {
+          obj1 = cont_row[0]->next_content;
+          obj_to_char(cont_row[0], ch);
+        }
+        cont_row[0] = NULL;
+          }
+        }
+      } else { /* locate <= 0 */
+        for (j = MAX_BAG_ROW-1;j > -locate;j--)
+          if (cont_row[j]) { /* no container -> back to ch's inventory */
+        for (;cont_row[j];cont_row[j] = obj1) {
+          obj1 = cont_row[j]->next_content;
+          obj_to_char(cont_row[j], ch);
+        }
+        cont_row[j] = NULL;
+          }
 
-	    if (j == -locate && cont_row[j]) { /* content list existing */
-	      if (GET_OBJ_TYPE(obj) == ITEM_CONTAINER) {
-		/* take item ; fill ; give to char again */
-		obj_from_char(obj);
-		obj->contains = NULL;
-		for (;cont_row[j];cont_row[j] = obj1) {
-		  obj1 = cont_row[j]->next_content;
-		  obj_to_obj(cont_row[j], obj);
-		}
-		obj_to_char(obj, ch); /* add to inv first ... */
-	      } else { /* object isn't container -> empty content list */
-		for (;cont_row[j];cont_row[j] = obj1) {
-		  obj1 = cont_row[j]->next_content;
-		  obj_to_char(cont_row[j], ch);
-		}
-		cont_row[j] = NULL;
-	      }
-	    }
+        if (j == -locate && cont_row[j]) { /* content list existing */
+          if (GET_OBJ_TYPE(obj) == ITEM_CONTAINER) {
+        /* take item ; fill ; give to char again */
+        obj_from_char(obj);
+        obj->contains = NULL;
+        for (;cont_row[j];cont_row[j] = obj1) {
+          obj1 = cont_row[j]->next_content;
+          obj_to_obj(cont_row[j], obj);
+        }
+        obj_to_char(obj, ch); /* add to inv first ... */
+          } else { /* object isn't container -> empty content list */
+        for (;cont_row[j];cont_row[j] = obj1) {
+          obj1 = cont_row[j]->next_content;
+          obj_to_char(cont_row[j], ch);
+        }
+        cont_row[j] = NULL;
+          }
+        }
 
-	    if (locate < 0 && locate >= -MAX_BAG_ROW) {
-	      /* let obj be part of content list
-		 but put it at the list's end thus having the items
-		 in the same order as before renting */
-	      obj_from_char(obj);
-	      if ((obj1 = cont_row[-locate-1])) {
-		while (obj1->next_content)
-		  obj1 = obj1->next_content;
-		obj1->next_content = obj;
-	      } else
-		cont_row[-locate-1] = obj;
-	    }
-	  }
-	}
+        if (locate < 0 && locate >= -MAX_BAG_ROW) {
+          /* let obj be part of content list
+         but put it at the list's end thus having the items
+         in the same order as before renting */
+          obj_from_char(obj);
+          if ((obj1 = cont_row[-locate-1])) {
+        while (obj1->next_content)
+          obj1 = obj1->next_content;
+        obj1->next_content = obj;
+          } else
+        cont_row[-locate-1] = obj;
+        }
+      }
+    }
     }
 
   /* turn this into a crash file by re-writing the control block */
@@ -691,7 +691,7 @@ int Crash_save(struct obj_data * obj, FILE * fp, int locate)
     {
       GET_OBJ_WEIGHT(tmp) -= GET_OBJ_WEIGHT(obj);
       if(GET_OBJ_WEIGHT(tmp)<1) /*sanity check - Serapis 970616*/
-	GET_OBJ_WEIGHT(tmp) = 1;
+    GET_OBJ_WEIGHT(tmp) = 1;
     }
 
     if (!result)
@@ -756,12 +756,12 @@ void Crash_extract_norents_from_equipped(struct char_data * ch)
   for (j = 0;j < NUM_WEARS;j++) {
     if (GET_EQ(ch,j)) {
       if (IS_OBJ_STAT(GET_EQ(ch,j), ITEM_NORENT) ||
-	  GET_OBJ_LOAD(GET_EQ(ch,j)) < 0 ||
-	  GET_OBJ_RNUM(GET_EQ(ch,j)) <= NOTHING ||
-	  GET_OBJ_TYPE(GET_EQ(ch,j)) == ITEM_KEY)
-	obj_to_char(unequip_char(ch,j),ch);
+      GET_OBJ_LOAD(GET_EQ(ch,j)) < 0 ||
+      GET_OBJ_RNUM(GET_EQ(ch,j)) <= NOTHING ||
+      GET_OBJ_TYPE(GET_EQ(ch,j)) == ITEM_KEY)
+    obj_to_char(unequip_char(ch,j),ch);
       else
-	Crash_extract_norents(GET_EQ(ch,j));
+    Crash_extract_norents(GET_EQ(ch,j));
     }
   }
 }
@@ -814,8 +814,8 @@ void Crash_crashsave(struct char_data * ch)
   for (j = 0; j < NUM_WEARS; j++)
     if (GET_EQ(ch,j)) {
       if (!Crash_save(GET_EQ(ch,j), fp, j+1)) {
-	fclose(fp);
-	return;
+    fclose(fp);
+    return;
       }
       Crash_restore_weight(GET_EQ(ch,j));
     }
@@ -858,13 +858,13 @@ void Crash_idlesave(struct char_data * ch)
   for (j = 0; j < NUM_WEARS; j++)
     Crash_calculate_rent(GET_EQ(ch,j), &cost_eq);
 
-  cost <<= 1;			/* forcerent cost is 2x normal rent */
+  cost <<= 1;           /* forcerent cost is 2x normal rent */
   cost_eq <<= 1;
 
   if (cost+cost_eq > GET_GOLD(ch) + GET_BANK_GOLD(ch)) {
     for (j = 0; j < NUM_WEARS; j++) /* unequip player with low money */
       if (GET_EQ(ch,j))
-	obj_to_char(unequip_char(ch, j), ch);
+    obj_to_char(unequip_char(ch, j), ch);
     cost += cost_eq;
     cost_eq = 0;
 
@@ -899,8 +899,8 @@ void Crash_idlesave(struct char_data * ch)
   for (j = 0; j < NUM_WEARS; j++)
     if (GET_EQ(ch,j)) {
       if (!Crash_save(GET_EQ(ch,j), fp, j+1)) {
-	fclose(fp);
-	return;
+    fclose(fp);
+    return;
       }
       Crash_restore_weight(GET_EQ(ch,j));
       Crash_extract_objs(GET_EQ(ch,j));
@@ -947,8 +947,8 @@ Crash_rentsave(struct char_data * ch, int cost)
   for (j = 0; j < NUM_WEARS; j++)
     if (GET_EQ(ch,j)) {
       if (!Crash_save(GET_EQ(ch,j), fp, j+1)) {
-	fclose(fp);
-	return;
+    fclose(fp);
+    return;
       }
       Crash_restore_weight(GET_EQ(ch,j));
       Crash_extract_objs(GET_EQ(ch,j));
@@ -996,8 +996,8 @@ void Crash_cryosave(struct char_data * ch, int cost)
   for (j = 0; j < NUM_WEARS; j++)
     if (GET_EQ(ch,j)) {
       if (!Crash_save(GET_EQ(ch,j), fp, j+1)) {
-	fclose(fp);
-	return;
+    fclose(fp);
+    return;
       }
       Crash_restore_weight(GET_EQ(ch,j));
       Crash_extract_objs(GET_EQ(ch,j));
@@ -1014,11 +1014,11 @@ void Crash_cryosave(struct char_data * ch, int cost)
 
 
 /* ************************************************************************
-* Routines used for the receptionist					  *
+* Routines used for the receptionist                      *
 ************************************************************************* */
 
 void Crash_rent_deadline(struct char_data * ch, struct char_data * recep,
-			      long cost)
+                  long cost)
 {
   long rent_deadline;
 
@@ -1028,13 +1028,13 @@ void Crash_rent_deadline(struct char_data * ch, struct char_data * recep,
   rent_deadline = ((GET_GOLD(ch) + GET_BANK_GOLD(ch)) / cost);
   sprintf(buf,
       "$n tells you, 'You can rent for %ld day%s with the gold you have\r\n"
-	  "on hand and in the bank.'\r\n",
-	  rent_deadline, (rent_deadline > 1) ? "s" : "");
+      "on hand and in the bank.'\r\n",
+      rent_deadline, (rent_deadline > 1) ? "s" : "");
   act(buf, FALSE, recep, 0, ch, TO_VICT);
 }
 
 int Crash_report_unrentables(struct char_data * ch, struct char_data * recep,
-			         struct obj_data * obj)
+                     struct obj_data * obj)
 {
   char buf[128];
   int has_norents = 0;
@@ -1054,7 +1054,7 @@ int Crash_report_unrentables(struct char_data * ch, struct char_data * recep,
 
 
 void Crash_report_rent(struct char_data * ch, struct char_data * recep,
-		            struct obj_data * obj, long *cost, long *nitems, int display, int factor)
+                    struct obj_data * obj, long *cost, long *nitems, int display, int factor)
 {
   static char buf[256];
 
@@ -1063,9 +1063,9 @@ void Crash_report_rent(struct char_data * ch, struct char_data * recep,
       (*nitems)++;
       *cost += MAX(0, (GET_OBJ_LOAD(obj) * factor));
       if (display) {
-	sprintf(buf, "$n tells you, '%5d coins for %s..'",
-		(((int)GET_OBJ_LOAD(obj)) * factor), OBJS(obj, ch));
-	act(buf, FALSE, recep, 0, ch, TO_VICT);
+    sprintf(buf, "$n tells you, '%5d coins for %s..'",
+        (((int)GET_OBJ_LOAD(obj)) * factor), OBJS(obj, ch));
+    act(buf, FALSE, recep, 0, ch, TO_VICT);
       }
     }
     Crash_report_rent(ch, recep, obj->contains, cost, nitems, display, factor);
@@ -1076,9 +1076,9 @@ void Crash_report_rent(struct char_data * ch, struct char_data * recep,
 
 
 int Crash_offer_rent(struct char_data * ch, struct char_data * receptionist,
-		         int display, int factor)
+                 int display, int factor)
 {
-  extern int max_obj_save;	/* change in config.c */
+  extern int max_obj_save;  /* change in config.c */
   char buf[MAX_INPUT_LENGTH];
   int i;
   long totalcost = 0, numitems = 0, norent = 0;
@@ -1099,25 +1099,25 @@ int Crash_offer_rent(struct char_data * ch, struct char_data * receptionist,
 
   if (!numitems) {
     act("$n tells you, 'But you are not carrying anything!  Just quit!'",
-	FALSE, receptionist, 0, ch, TO_VICT);
+    FALSE, receptionist, 0, ch, TO_VICT);
     return (0);
   }
   if (numitems > max_obj_save) {
     sprintf(buf, "$n tells you, 'Sorry, but I cannot store more than %d items.'",
-	    max_obj_save);
+        max_obj_save);
     act(buf, FALSE, receptionist, 0, ch, TO_VICT);
     return (0);
   }
   if (display) {
     sprintf(buf, "$n tells you, 'Plus, my %d coin fee..'",
-	    min_rent_cost * factor);
+        min_rent_cost * factor);
     act(buf, FALSE, receptionist, 0, ch, TO_VICT);
     sprintf(buf, "$n tells you, 'For a total of %ld coins%s.'",
-	    totalcost, (factor == RENT_FACTOR ? " per day" : ""));
+        totalcost, (factor == RENT_FACTOR ? " per day" : ""));
     act(buf, FALSE, receptionist, 0, ch, TO_VICT);
     if (totalcost > GET_GOLD(ch)) {
       act("$n tells you, '...which I see you can't afford.'",
-	  FALSE, receptionist, 0, ch, TO_VICT);
+      FALSE, receptionist, 0, ch, TO_VICT);
       return (0);
     } else if (factor == RENT_FACTOR)
       Crash_rent_deadline(ch, receptionist, totalcost);
@@ -1128,7 +1128,7 @@ int Crash_offer_rent(struct char_data * ch, struct char_data * receptionist,
 
 
 int gen_receptionist(struct char_data * ch, struct char_data * recep,
-		         int cmd, char *arg, int mode)
+                 int cmd, char *arg, int mode)
 {
   int cost = 0;
   extern int free_rent;
@@ -1155,7 +1155,7 @@ int gen_receptionist(struct char_data * ch, struct char_data * recep,
   }
   if (free_rent) {
     act("$n tells you, 'Rent is free here.  Just quit, and your objects will be saved!'",
-	FALSE, recep, 0, ch, TO_VICT);
+    FALSE, recep, 0, ch, TO_VICT);
     return 1;
   }
   if (CMD_IS("rent")) {
@@ -1168,7 +1168,7 @@ int gen_receptionist(struct char_data * ch, struct char_data * recep,
     act(buf, FALSE, recep, 0, ch, TO_VICT);
     if (cost > GET_GOLD(ch)) {
       act("$n tells you, '...which I see you can't afford.'",
-	  FALSE, recep, 0, ch, TO_VICT);
+      FALSE, recep, 0, ch, TO_VICT);
       return TRUE;
     }
     if (cost && (mode == RENT_FACTOR))
@@ -1176,15 +1176,15 @@ int gen_receptionist(struct char_data * ch, struct char_data * recep,
 
     if (mode == RENT_FACTOR) {
       act("$n stores your belongings and helps you into your private chamber.",
-	  FALSE, recep, 0, ch, TO_VICT);
+      FALSE, recep, 0, ch, TO_VICT);
       Crash_rentsave(ch, cost);
       sprintf(buf, "%s has rented (%d/day, %d tot.)", GET_NAME(ch),
-	      cost, GET_GOLD(ch) + GET_BANK_GOLD(ch));
-    } else {			/* cryo */
+          cost, GET_GOLD(ch) + GET_BANK_GOLD(ch));
+    } else {            /* cryo */
       act("$n stores your belongings and helps you into your private chamber.\r\n"
-	  "A white mist appears in the room, chilling you to the bone...\r\n"
-	  "You begin to lose consciousness...",
-	  FALSE, recep, 0, ch, TO_VICT);
+      "A white mist appears in the room, chilling you to the bone...\r\n"
+      "You begin to lose consciousness...",
+      FALSE, recep, 0, ch, TO_VICT);
       Crash_cryosave(ch, cost);
       sprintf(buf, "%s has cryo-rented.", GET_NAME(ch));
       SET_BIT_AR(PLR_FLAGS(ch), PLR_CRYO);
@@ -1221,9 +1221,9 @@ void Crash_save_all(void)
   for (d = descriptor_list; d; d = d->next) {
     if ((d->connected == CON_PLAYING) && !IS_NPC(d->character)) {
       if (PLR_FLAGGED(d->character, PLR_CRASH)) {
-	Crash_crashsave(d->character);
-	save_char(d->character, NOWHERE);
-	REMOVE_BIT_AR(PLR_FLAGS(d->character), PLR_CRASH);
+    Crash_crashsave(d->character);
+    save_char(d->character, NOWHERE);
+    REMOVE_BIT_AR(PLR_FLAGS(d->character), PLR_CRASH);
       }
     }
   }

@@ -546,7 +546,7 @@ static int luaB_sort (lua_State *L) {
 */
 
 
-#define num_deprecated	4
+#define num_deprecated  4
 
 static const struct luaL_reg deprecated_names [num_deprecated] = {
   {"foreachvar", luaB_foreach},

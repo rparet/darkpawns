@@ -13,7 +13,7 @@
 #include "lstring.h"
 #include "lundump.h"
 
-#define	LoadByte		ezgetc
+#define LoadByte        ezgetc
 
 static const char* ZNAME (ZIO* Z)
 {
@@ -98,7 +98,7 @@ static TString* LoadString (lua_State* L, ZIO* Z, int swap)
  {
   char* s=luaO_openspace(L,size);
   LoadBlock(L,s,size,Z,0);
-  return luaS_newlstr(L,s,size-1);	/* remove trailing '\0' */
+  return luaS_newlstr(L,s,size-1);  /* remove trailing '\0' */
  }
 }
 
@@ -178,11 +178,11 @@ static void TestSize (lua_State* L, int s, const char* what, ZIO* Z)
  int r=ezgetc(L,Z);
  if (r!=s)
   luaO_verror(L,"virtual machine mismatch in `%.99s':\n"
-	"  %.20s is %d but read %d",ZNAME(Z),what,s,r);
+    "  %.20s is %d but read %d",ZNAME(Z),what,s,r);
 }
 
-#define TESTSIZE(s)	TestSize(L,s,#s,Z)
-#define V(v)	v/16,v%16
+#define TESTSIZE(s) TestSize(L,s,#s,Z)
+#define V(v)    v/16,v%16
 
 static int LoadHeader (lua_State* L, ZIO* Z)
 {
@@ -192,13 +192,13 @@ static int LoadHeader (lua_State* L, ZIO* Z)
  version=ezgetc(L,Z);
  if (version>VERSION)
   luaO_verror(L,"`%.99s' too new:\n"
-	"  read version %d.%d; expected at most %d.%d",
-	ZNAME(Z),V(version),V(VERSION));
- if (version<VERSION0)			/* check last major change */
+    "  read version %d.%d; expected at most %d.%d",
+    ZNAME(Z),V(version),V(VERSION));
+ if (version<VERSION0)          /* check last major change */
   luaO_verror(L,"`%.99s' too old:\n"
-	"  read version %d.%d; expected at least %d.%d",
-	ZNAME(Z),V(version),V(VERSION));
- swap=(luaU_endianess()!=ezgetc(L,Z));	/* need to swap bytes? */
+    "  read version %d.%d; expected at least %d.%d",
+    ZNAME(Z),V(version),V(VERSION));
+ swap=(luaU_endianess()!=ezgetc(L,Z));  /* need to swap bytes? */
  TESTSIZE(sizeof(int));
  TESTSIZE(sizeof(size_t));
  TESTSIZE(sizeof(Instruction));
@@ -207,7 +207,7 @@ static int LoadHeader (lua_State* L, ZIO* Z)
  TESTSIZE(SIZE_B);
  TESTSIZE(sizeof(Number));
  f=LoadNumber(L,Z,swap);
- if ((long)f!=(long)tf)		/* disregard errors in last bit of fraction */
+ if ((long)f!=(long)tf)     /* disregard errors in last bit of fraction */
   luaO_verror(L,"unknown number format in `%.99s':\n"
       "  read " NUMBER_FMT "; expected " NUMBER_FMT, ZNAME(Z),f,tf);
  return swap;

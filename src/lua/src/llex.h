@@ -11,10 +11,10 @@
 #include "lzio.h"
 
 
-#define FIRST_RESERVED	257
+#define FIRST_RESERVED  257
 
 /* maximum length of a reserved word (+1 for final 0) */
-#define TOKEN_LEN	15
+#define TOKEN_LEN   15
 
 
 /*
@@ -32,7 +32,7 @@ enum RESERVED {
 };
 
 /* number of reserved words */
-#define NUM_RESERVED	((int)(TK_WHILE-FIRST_RESERVED+1))
+#define NUM_RESERVED    ((int)(TK_WHILE-FIRST_RESERVED+1))
 
 
 typedef union {

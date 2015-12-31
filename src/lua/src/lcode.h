@@ -36,7 +36,7 @@ typedef enum UnOpr { OPR_MINUS, OPR_NOT, OPR_NOUNOPR } UnOpr;
 
 enum Mode {iO, iU, iS, iAB};  /* instruction format */
 
-#define VD	100	/* flag for variable delta */
+#define VD  100 /* flag for variable delta */
 
 extern const struct OpProperties {
   char mode;

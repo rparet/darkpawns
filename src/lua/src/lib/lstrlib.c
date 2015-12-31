@@ -131,8 +131,8 @@ struct Capture {
 };
 
 
-#define ESC		'%'
-#define SPECIALS	"^$*+?.([%-"
+#define ESC     '%'
+#define SPECIALS    "^$*+?.([%-"
 
 
 static int check_capture (lua_State *L, int l, struct Capture *cap) {
@@ -526,9 +526,9 @@ static void luaI_addquoted (lua_State *L, luaL_Buffer *b, int arg) {
 }
 
 /* maximum size of each formatted item (> len(format('%99.99f', -1e308))) */
-#define MAX_ITEM	512
+#define MAX_ITEM    512
 /* maximum size of each format specification (such as '%-099.99d') */
-#define MAX_FORMAT	20
+#define MAX_FORMAT  20
 
 static int str_format (lua_State *L) {
   int arg = 1;

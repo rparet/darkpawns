@@ -122,11 +122,11 @@ LUALIB_API void luaL_verror (lua_State *L, const char *fmt, ...) {
 */
 
 
-#define buffempty(B)	((B)->p == (B)->buffer)
-#define bufflen(B)	((B)->p - (B)->buffer)
-#define bufffree(B)	((size_t)(LUAL_BUFFERSIZE - bufflen(B)))
+#define buffempty(B)    ((B)->p == (B)->buffer)
+#define bufflen(B)  ((B)->p - (B)->buffer)
+#define bufffree(B) ((size_t)(LUAL_BUFFERSIZE - bufflen(B)))
 
-#define LIMIT	(LUA_MINSTACK/2)
+#define LIMIT   (LUA_MINSTACK/2)
 
 
 static int emptybuffer (luaL_Buffer *B) {

@@ -77,7 +77,7 @@ int luaO_str2d (const char *s, Number *result) {  /* LUA_NUMBER */
 
 
 /* maximum length of a string format for `luaO_verror' */
-#define MAX_VERROR	280
+#define MAX_VERROR  280
 
 /* this function needs to handle only '%d' and '%.XXs' formats */
 void luaO_verror (lua_State *L, const char *fmt, ...) {

@@ -16,7 +16,7 @@
 
 
 #ifndef LUALIB_API
-#define LUALIB_API	extern
+#define LUALIB_API  extern
 #endif
 
 
@@ -50,13 +50,13 @@ LUALIB_API int luaL_findstring (const char *name, const char *const list[]);
 
 #define luaL_arg_check(L, cond,numarg,extramsg) if (!(cond)) \
                                                luaL_argerror(L, numarg,extramsg)
-#define luaL_check_string(L,n)	(luaL_check_lstr(L, (n), NULL))
-#define luaL_opt_string(L,n,d)	(luaL_opt_lstr(L, (n), (d), NULL))
-#define luaL_check_int(L,n)	((int)luaL_check_number(L, n))
-#define luaL_check_long(L,n)	((long)luaL_check_number(L, n))
-#define luaL_opt_int(L,n,d)	((int)luaL_opt_number(L, n,d))
-#define luaL_opt_long(L,n,d)	((long)luaL_opt_number(L, n,d))
-#define luaL_openl(L,a)		luaL_openlib(L, a, (sizeof(a)/sizeof(a[0])))
+#define luaL_check_string(L,n)  (luaL_check_lstr(L, (n), NULL))
+#define luaL_opt_string(L,n,d)  (luaL_opt_lstr(L, (n), (d), NULL))
+#define luaL_check_int(L,n) ((int)luaL_check_number(L, n))
+#define luaL_check_long(L,n)    ((long)luaL_check_number(L, n))
+#define luaL_opt_int(L,n,d) ((int)luaL_opt_number(L, n,d))
+#define luaL_opt_long(L,n,d)    ((long)luaL_opt_number(L, n,d))
+#define luaL_openl(L,a)     luaL_openlib(L, a, (sizeof(a)/sizeof(a[0])))
 
 
 /*
@@ -67,12 +67,12 @@ LUALIB_API int luaL_findstring (const char *name, const char *const list[]);
 
 
 #ifndef LUAL_BUFFERSIZE
-#define LUAL_BUFFERSIZE	  BUFSIZ
+#define LUAL_BUFFERSIZE   BUFSIZ
 #endif
 
 
 typedef struct luaL_Buffer {
-  char *p;			/* current position in buffer */
+  char *p;          /* current position in buffer */
   int level;
   lua_State *L;
   char buffer[LUAL_BUFFERSIZE];
@@ -82,7 +82,7 @@ typedef struct luaL_Buffer {
   ((void)((B)->p < &(B)->buffer[LUAL_BUFFERSIZE] || luaL_prepbuffer(B)), \
    (*(B)->p++ = (char)(c)))
 
-#define luaL_addsize(B,n)	((B)->p += (n))
+#define luaL_addsize(B,n)   ((B)->p += (n))
 
 LUALIB_API void luaL_buffinit (lua_State *L, luaL_Buffer *B);
 LUALIB_API char *luaL_prepbuffer (luaL_Buffer *B);

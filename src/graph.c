@@ -80,17 +80,17 @@ void set_hunting(struct char_data *ch, struct char_data *victim);
 
 #ifdef TRACK_THROUGH_DOORS
 #define VALID_EDGE(x, y) (world[(x)].dir_option[(y)] && \
-			  (TOROOM(x, y) != NOWHERE) &&	\
-			  (!ROOM_FLAGGED(TOROOM(x, y), ROOM_NOTRACK)) && \
-	                  (SECT_TYPE(x, y) != SECT_WATER_SWIM) && \
+              (TOROOM(x, y) != NOWHERE) &&  \
+              (!ROOM_FLAGGED(TOROOM(x, y), ROOM_NOTRACK)) && \
+                      (SECT_TYPE(x, y) != SECT_WATER_SWIM) && \
                           (SECT_TYPE(x, y) != SECT_WATER_NOSWIM) && \
-        		  (!IS_MARKED(TOROOM(x, y))))
+                  (!IS_MARKED(TOROOM(x, y))))
 #else
 #define VALID_EDGE(x, y) (world[(x)].dir_option[(y)] && \
-			  (TOROOM(x, y) != NOWHERE) &&	\
-			  (!IS_CLOSED(x, y)) &&		\
-			  (!ROOM_FLAGGED(TOROOM(x, y), ROOM_NOTRACK)) && \
-			  (!IS_MARKED(TOROOM(x, y))))
+              (TOROOM(x, y) != NOWHERE) &&  \
+              (!IS_CLOSED(x, y)) &&     \
+              (!ROOM_FLAGGED(TOROOM(x, y), ROOM_NOTRACK)) && \
+              (!IS_MARKED(TOROOM(x, y))))
 #endif
 
 void bfs_enqueue(int room, int dir)
@@ -168,10 +168,10 @@ int find_first_step(int src, int target)
       return curr_dir;
     } else {
       for (curr_dir = 0; curr_dir < NUM_OF_DIRS; curr_dir++)
-	if (VALID_EDGE(queue_head->room, curr_dir)) {
-	  MARK(TOROOM(queue_head->room, curr_dir));
-	  bfs_enqueue(TOROOM(queue_head->room, curr_dir), queue_head->dir);
-	}
+    if (VALID_EDGE(queue_head->room, curr_dir)) {
+      MARK(TOROOM(queue_head->room, curr_dir));
+      bfs_enqueue(TOROOM(queue_head->room, curr_dir), queue_head->dir);
+    }
       bfs_dequeue();
     }
   }
@@ -181,7 +181,7 @@ int find_first_step(int src, int target)
 
 
 /************************************************************************
-*  Functions and Commands which use the above fns		        *
+*  Functions and Commands which use the above fns               *
 ************************************************************************/
 
 ACMD(do_track)
@@ -308,7 +308,7 @@ hunt_victim(struct char_data * ch)
     {
       if (ch && ch->in_room != NOWHERE && ch->in_room == HUNTING(ch)->in_room)
       {
-	do_follow(ch, GET_NAME(HUNTING(ch)), 0, 0);
+    do_follow(ch, GET_NAME(HUNTING(ch)), 0, 0);
         hit(ch, HUNTING(ch), TYPE_UNDEFINED);
       }
     }
@@ -319,24 +319,24 @@ hunt_victim(struct char_data * ch)
   {
     if (IS_SET(EXIT(ch, dir)->exit_info, EX_CLOSED) && is_intelligent(ch))
       if (EXIT(ch, dir)->keyword)
-	{
-	   char mybuf[20];
-	   char mybuf2[80];
-	   ACMD(do_gen_door);
+    {
+       char mybuf[20];
+       char mybuf2[80];
+       ACMD(do_gen_door);
 
-	   switch (rev_dir[dir])
-	   {
-	   case 0: sprintf(mybuf, "south"); break;
-	   case 1: sprintf(mybuf, "west"); break;
-	   case 2: sprintf(mybuf, "north"); break;
-	   case 3: sprintf(mybuf, "east"); break;
-	   case 4: sprintf(mybuf, "down"); break;
-	   case 5: sprintf(mybuf, "up"); break;
-	   default: strcpy(mybuf, "\0");
-	   }
-	   sprintf(mybuf2, "%s %s", EXIT(ch, dir)->keyword, mybuf);
+       switch (rev_dir[dir])
+       {
+       case 0: sprintf(mybuf, "south"); break;
+       case 1: sprintf(mybuf, "west"); break;
+       case 2: sprintf(mybuf, "north"); break;
+       case 3: sprintf(mybuf, "east"); break;
+       case 4: sprintf(mybuf, "down"); break;
+       case 5: sprintf(mybuf, "up"); break;
+       default: strcpy(mybuf, "\0");
+       }
+       sprintf(mybuf2, "%s %s", EXIT(ch, dir)->keyword, mybuf);
            do_gen_door(ch, mybuf2, 0, SCMD_OPEN);
-	}
+    }
     perform_move(ch, dir, 1);
     if (ch && ch->in_room != NOWHERE && ch->in_room == HUNTING(ch)->in_room)
     {
@@ -345,46 +345,46 @@ hunt_victim(struct char_data * ch)
     }
     else if (can_speak(ch))
     {
-	char msg[MAX_STRING_LENGTH];
-	switch (number(0,150))
-	{
-	case 0: sprintf(msg, "%s Let's have an ass-kicking contest",
-			GET_NAME(HUNTING(ch)));
-		do_tell (ch, msg, 0, 0);
-		break;
-	case 1: sprintf(msg, "Corpse of %s for sale in a minute.. %d coins.",
-			GET_NAME(HUNTING(ch)), number(1000, 2000));
-		do_gen_comm(ch, msg, 0, SCMD_AUCTION);
-		break;
-	case 2: sprintf(msg, "%s Run to your momma, pansy!",
-			GET_NAME(HUNTING(ch)));
-		do_tell (ch, msg, 0, 0);
-		break;
-	case 3: sprintf(msg, "%s I'm coming to kill you!",
-			GET_NAME(HUNTING(ch)));
-		do_tell (ch, msg, 0, 0);
-		break;
-	case 4: sprintf(msg, "I hear %s thinks %s's bad.",
-			GET_NAME(HUNTING(ch)), HSSH(HUNTING(ch)));
-		do_gen_comm(ch, msg, 0, SCMD_GOSSIP);
-		break;
-	case 5: sprintf(msg, "Your momma ain't gonna save you this time, %s.",
-			GET_NAME(HUNTING(ch)));
-	        do_gen_comm(ch, msg, 0, SCMD_GOSSIP);
-		break;
-	case 6: sprintf(msg, "%s flees like a rabbit...",GET_NAME(HUNTING(ch)));
-		if(!number(0,20))
-		  do_gen_comm(ch, msg, 0, SCMD_GOSSIP);
-		break;
-	case 7: sprintf(msg, "%s Come out and fight!", GET_NAME(HUNTING(ch)));
-		do_tell (ch, msg, 0, 0);
-		break;
+    char msg[MAX_STRING_LENGTH];
+    switch (number(0,150))
+    {
+    case 0: sprintf(msg, "%s Let's have an ass-kicking contest",
+            GET_NAME(HUNTING(ch)));
+        do_tell (ch, msg, 0, 0);
+        break;
+    case 1: sprintf(msg, "Corpse of %s for sale in a minute.. %d coins.",
+            GET_NAME(HUNTING(ch)), number(1000, 2000));
+        do_gen_comm(ch, msg, 0, SCMD_AUCTION);
+        break;
+    case 2: sprintf(msg, "%s Run to your momma, pansy!",
+            GET_NAME(HUNTING(ch)));
+        do_tell (ch, msg, 0, 0);
+        break;
+    case 3: sprintf(msg, "%s I'm coming to kill you!",
+            GET_NAME(HUNTING(ch)));
+        do_tell (ch, msg, 0, 0);
+        break;
+    case 4: sprintf(msg, "I hear %s thinks %s's bad.",
+            GET_NAME(HUNTING(ch)), HSSH(HUNTING(ch)));
+        do_gen_comm(ch, msg, 0, SCMD_GOSSIP);
+        break;
+    case 5: sprintf(msg, "Your momma ain't gonna save you this time, %s.",
+            GET_NAME(HUNTING(ch)));
+            do_gen_comm(ch, msg, 0, SCMD_GOSSIP);
+        break;
+    case 6: sprintf(msg, "%s flees like a rabbit...",GET_NAME(HUNTING(ch)));
+        if(!number(0,20))
+          do_gen_comm(ch, msg, 0, SCMD_GOSSIP);
+        break;
+    case 7: sprintf(msg, "%s Come out and fight!", GET_NAME(HUNTING(ch)));
+        do_tell (ch, msg, 0, 0);
+        break;
         case 8: sprintf(msg, "%s Watch out! Here I come to get you!",
                  GET_NAME(HUNTING(ch)));
                 do_tell(ch, msg, 0, 0);
                 break;
         case 9: sprintf(msg, "How much will I get for the head of %s?",
-    	         GET_NAME(HUNTING(ch)));
+                 GET_NAME(HUNTING(ch)));
                 do_gen_comm(ch, msg, 0, SCMD_AUCTION);
                 break;
         case 10: sprintf(msg, "Where is that little wimp, %s?",
@@ -397,8 +397,8 @@ hunt_victim(struct char_data * ch)
         case 12: sprintf(msg, "Damn it!");
                  do_gen_comm(ch, msg, 0, SCMD_SHOUT);
                  break;
-	default: break;
-	}
+    default: break;
+    }
     }
     return;
   }

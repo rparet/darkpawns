@@ -15,40 +15,40 @@
 #ifdef LUA_DEBUG
 #undef NDEBUG
 #include <assert.h>
-#define LUA_INTERNALERROR(s)	assert(((void)s,0))
-#define LUA_ASSERT(c,s)		assert(((void)s,(c)))
+#define LUA_INTERNALERROR(s)    assert(((void)s,0))
+#define LUA_ASSERT(c,s)     assert(((void)s,(c)))
 #else
-#define LUA_INTERNALERROR(s)	/* empty */
-#define LUA_ASSERT(c,s)		/* empty */
+#define LUA_INTERNALERROR(s)    /* empty */
+#define LUA_ASSERT(c,s)     /* empty */
 #endif
 
 
 #ifdef LUA_DEBUG
 /* to avoid warnings, and make sure value is really unused */
-#define UNUSED(x)	(x=0, (void)(x))
+#define UNUSED(x)   (x=0, (void)(x))
 #else
-#define UNUSED(x)	((void)(x))	/* to avoid warnings */
+#define UNUSED(x)   ((void)(x)) /* to avoid warnings */
 #endif
 
 
 /* mark for closures active in the stack */
-#define LUA_TMARK	6
+#define LUA_TMARK   6
 
 
 /* tags for values visible from Lua == first user-created tag */
-#define NUM_TAGS	6
+#define NUM_TAGS    6
 
 
 /* check whether `t' is a mark */
-#define is_T_MARK(t)	((t) == LUA_TMARK)
+#define is_T_MARK(t)    ((t) == LUA_TMARK)
 
 
 typedef union {
-  struct TString *ts;	/* LUA_TSTRING, LUA_TUSERDATA */
-  struct Closure *cl;	/* LUA_TFUNCTION */
-  struct Hash *a;	/* LUA_TTABLE */
-  struct CallInfo *i;	/* LUA_TLMARK */
-  Number n;		/* LUA_TNUMBER */
+  struct TString *ts;   /* LUA_TSTRING, LUA_TUSERDATA */
+  struct Closure *cl;   /* LUA_TFUNCTION */
+  struct Hash *a;   /* LUA_TTABLE */
+  struct CallInfo *i;   /* LUA_TLMARK */
+  Number n;     /* LUA_TNUMBER */
 } Value;
 
 
@@ -58,7 +58,7 @@ typedef union {
 #define tsvalue(o)      ((o)->value.ts)
 #define clvalue(o)      ((o)->value.cl)
 #define hvalue(o)       ((o)->value.a)
-#define infovalue(o)	((o)->value.i)
+#define infovalue(o)    ((o)->value.i)
 #define svalue(o)       (tsvalue(o)->str)
 
 
@@ -77,7 +77,7 @@ typedef struct lua_TObject {
 ** tries to make sizeof(TString) a multiple of this granularity, to reduce
 ** waste of space.
 */
-#define TSPACK	((int)sizeof(int))
+#define TSPACK  ((int)sizeof(int))
 
 typedef struct TString {
   union {
@@ -147,7 +147,7 @@ typedef struct Closure {
 } Closure;
 
 
-#define iscfunction(o)	(ttype(o) == LUA_TFUNCTION && clvalue(o)->isC)
+#define iscfunction(o)  (ttype(o) == LUA_TFUNCTION && clvalue(o)->isC)
 
 
 typedef struct Node {
@@ -169,7 +169,7 @@ typedef struct Hash {
 /* unmarked tables and closures are represented by pointing `mark' to
 ** themselves
 */
-#define ismarked(x)	((x)->mark != (x))
+#define ismarked(x) ((x)->mark != (x))
 
 
 /*
@@ -188,7 +188,7 @@ extern const TObject luaO_nilobject;
 extern const char *const luaO_typenames[];
 
 
-#define luaO_typename(o)	(luaO_typenames[ttype(o)])
+#define luaO_typename(o)    (luaO_typenames[ttype(o)])
 
 
 lint32 luaO_power2 (lint32 n);

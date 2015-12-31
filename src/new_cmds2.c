@@ -85,18 +85,18 @@ ACMD(do_scrounge)
    prob = GET_SKILL(ch, SKILL_SCROUNGE);
 
       switch(sector_type)
-	{
+    {
          case SECT_FOREST:
-	    find = FALSE; /* kill*/
+        find = FALSE; /* kill*/
             food = 28;
             break;
          case SECT_FIELD:
          case SECT_HILLS:
-	    find = FALSE; /* kill*/
+        find = FALSE; /* kill*/
             food = 29;
             break;
          case SECT_DESERT:
-	    find = FALSE; /* kill*/
+        find = FALSE; /* kill*/
             food = 30;
             break;
          case SECT_MOUNTAIN:
@@ -105,26 +105,26 @@ ACMD(do_scrounge)
          case SECT_WATER_SWIM:
          case SECT_WATER_NOSWIM:
          case SECT_UNDERWATER:
-	    find = FALSE; /* kill*/
+        find = FALSE; /* kill*/
             food = 27;
             break;
          default:
             stc("You need to be in the wilderness to scrounge!\r\n", ch);
             break;
-	}
+    }
       if (food && percent < prob)
       {
-	obj = read_object(real_object(food), REAL);
-	if (obj)
-	{
+    obj = read_object(real_object(food), REAL);
+    if (obj)
+    {
           obj_to_char(obj, ch);
-	  if (find)
+      if (find)
            act("You find $p.", TRUE, ch, obj, 0, TO_CHAR);
-	  else
+      else
            act("You capture and kill $p.", TRUE, ch, obj, 0, TO_CHAR);
           improve_skill(ch, SKILL_SCROUNGE);
           WAIT_STATE(ch, PULSE_VIOLENCE*2);
-	}
+    }
       }
       else if (food)
       {
@@ -170,11 +170,11 @@ ACMD(do_first_aid)
       GET_HIT(vict) = 1;
       update_pos(vict);
       act("You apply some makeshift bandages to $N's wounds.",
-	FALSE, ch, 0, vict, TO_CHAR);
+    FALSE, ch, 0, vict, TO_CHAR);
       act("$n applies some bandaging to $N's wounds.",
-	FALSE, ch, 0, vict, TO_NOTVICT);
+    FALSE, ch, 0, vict, TO_NOTVICT);
       act("$n applies some bandaging to your wounds.",
-	TRUE, ch, 0, vict, TO_VICT);
+    TRUE, ch, 0, vict, TO_VICT);
       improve_skill(ch, SKILL_FIRST_AID);
       WAIT_STATE(vict, PULSE_VIOLENCE);
       }
@@ -182,7 +182,7 @@ ACMD(do_first_aid)
       {
       send_to_char("You fumble and ruin the bandages.\r\n",ch);
       act("$n fumbles with some bandaging and drops it all over the place!",
-	TRUE, ch, 0, 0, TO_ROOM);
+    TRUE, ch, 0, 0, TO_ROOM);
       }
     WAIT_STATE(ch, PULSE_VIOLENCE + 3);
    }
@@ -272,7 +272,7 @@ ACMD(do_mindlink)
    {
       act("$N stares at you blankly.", FALSE, ch, 0, vict, TO_CHAR);
       act("$n stares at $N for a while and then falls flat on $s face.",
-	  FALSE, ch, 0, vict, TO_ROOM);
+      FALSE, ch, 0, vict, TO_ROOM);
       stc("You fail.\r\n", ch);
       return;
     }
@@ -301,13 +301,13 @@ ACMD(do_mindlink)
       GET_MANA(vict) += x;
       send_to_char("A wealth of power overcomes you!\r\n", vict);
       act("$n and $N stare at each other for a while and drop to the "
-	  "ground in unison!", FALSE, ch, 0, vict, TO_ROOM);
+      "ground in unison!", FALSE, ch, 0, vict, TO_ROOM);
       GET_POS(vict) = POS_STUNNED;
     }
     else
     {
       act("$n stares at $N for a while and then falls flat on $s face.",
-	FALSE, ch, 0, vict, TO_ROOM);
+    FALSE, ch, 0, vict, TO_ROOM);
       GET_HIT(ch) -= 100;
       improve_skill(ch, SKILL_MINDLINK);
     }
@@ -334,16 +334,16 @@ SPECIAL(beholder)
   if (cmd) {
      if (CMD_IS("cast") || CMD_IS("recite")) {   /* Stop spell casters */
          act("A ray of light shoots out from one of $n's eyestalks, hitting"
-		" $N!", TRUE, mobile, 0, ch, TO_NOTVICT);
-	 act("A ray of light shoots out from one of $n's eyestalks, breaking"
-		" your concentration!", FALSE, mobile, 0, ch, TO_VICT);
+        " $N!", TRUE, mobile, 0, ch, TO_NOTVICT);
+     act("A ray of light shoots out from one of $n's eyestalks, breaking"
+        " your concentration!", FALSE, mobile, 0, ch, TO_VICT);
          return TRUE;
      }
      return FALSE;
   }
 
   if (GET_POS(ch) != POS_FIGHTING) {
-		/* If he ain't fighting, try to charm, sleep, or curse */
+        /* If he ain't fighting, try to charm, sleep, or curse */
     for (vict = world[ch->in_room].people; vict; vict = vict->next_in_room)
        targets++;
 
@@ -378,7 +378,7 @@ SPECIAL(beholder)
   for (vict = world[ch->in_room].people; vict; vict = vict->next_in_room)
     if (FIGHTING(vict) == ch && !number(0, 4))
       {
-	found = TRUE;
+    found = TRUE;
         break;
       }
 
@@ -425,17 +425,17 @@ SPECIAL(recharger)
   {
     act("$n sighs loudly.", FALSE, me, 0, 0, TO_ROOM);
     act("$n says 'I recharge wands and staves, of course!'",
-	FALSE, me, 0, 0, TO_ROOM);
+    FALSE, me, 0, 0, TO_ROOM);
     act("$n says 'My price is 100 coins per spell level per charge..'",
-	FALSE, me, 0, 0, TO_ROOM);
+    FALSE, me, 0, 0, TO_ROOM);
     act("$n says 'So a wand casting heal at level 25 would cost 2500 "
-	"coins per charge.'", FALSE, me, 0, 0, TO_ROOM);
+    "coins per charge.'", FALSE, me, 0, 0, TO_ROOM);
     act("$n says 'If it had 10 max charges at first, it would have 9 max "
-	"after charging.",FALSE, me, 0, 0, TO_ROOM);
+    "after charging.",FALSE, me, 0, 0, TO_ROOM);
     act("$n says 'That means that an item could have 1 charge maximum, with"
-	" 2 charges remaining (after a recharge)'", FALSE, me, 0, 0, TO_ROOM);
+    " 2 charges remaining (after a recharge)'", FALSE, me, 0, 0, TO_ROOM);
     act("$n says 'To recharge an item type: recharge <staff or wand>.'",
-	FALSE, me, 0, 0, TO_ROOM);
+    FALSE, me, 0, 0, TO_ROOM);
     act("$n stares expectantly at $N.", 1, me, 0, ch, TO_NOTVICT);
     act("$n stares expectantly at you.", FALSE, me, 0, ch, TO_VICT);
     return TRUE;
@@ -453,14 +453,14 @@ SPECIAL(recharger)
     if (GET_OBJ_TYPE(obj) != ITEM_STAFF && GET_OBJ_TYPE(obj) != ITEM_WAND)
     {
       act("$n tells you, 'Ummm... does that look like a wand or staff to you?'",
-		FALSE, me, 0, ch, TO_VICT);
+        FALSE, me, 0, ch, TO_VICT);
       act("$n shakes his head in disgust.", FALSE, me, 0, 0, TO_ROOM);
       return TRUE;
     }
     price = MAX(100, GET_OBJ_VAL(obj, 0)*100);
     if (GET_GOLD(ch) < price) {
       act("$n tells you, 'You don't have enough gold!'",
-	FALSE, me, 0, ch, TO_VICT);
+    FALSE, me, 0, ch, TO_VICT);
       return TRUE;
     }
     maxcharge = GET_OBJ_VAL(obj, 1);
@@ -472,14 +472,14 @@ SPECIAL(recharger)
      GET_OBJ_VAL(obj, 1)--;
      GET_GOLD(ch) -= price;
      act("$n waves his hands around and chants strange things.",
-	FALSE, me, 0, 0, TO_ROOM);
+    FALSE, me, 0, 0, TO_ROOM);
      sprintf(buf, "The item now has %d charges remaining.\r\n",
-		GET_OBJ_VAL(obj, 2));
+        GET_OBJ_VAL(obj, 2));
      send_to_char(buf, ch);
      }
    else
      act("$n tells you, 'The item does not need recharging, stop wasting "
-	"my time!'", FALSE, me, 0, ch, TO_VICT);
+    "my time!'", FALSE, me, 0, ch, TO_VICT);
     return TRUE;
   }
   return FALSE;
@@ -534,9 +534,9 @@ ACMD(do_detect)
          else
            sprintf(buf, "You notice something funny about the %s wall.\r\n", dirs[dir]);
          send_to_char(buf, ch);
-	 if (!ROOM_FLAGGED(ch->in_room, ROOM_SECRET_MARK))
-	   SET_BIT_AR(ROOM_FLAGS(ch->in_room), ROOM_SECRET_MARK);
-	}
+     if (!ROOM_FLAGGED(ch->in_room, ROOM_SECRET_MARK))
+       SET_BIT_AR(ROOM_FLAGS(ch->in_room), ROOM_SECRET_MARK);
+    }
   }
 
 }
@@ -554,7 +554,7 @@ SPECIAL(no_get)
   struct char_data *mobile = (struct char_data *)me;
 
   if (!AWAKE(mobile) || GET_HIT(mobile)<=0)
-	return(FALSE);
+    return(FALSE);
 
   if(CMD_IS("get") || CMD_IS("palm") || CMD_IS("take"))
   {
@@ -632,21 +632,21 @@ SPECIAL(black_horn)
     if (mag_item && mag_item == obj && isname(argument, obj->name))
         {
           send_to_zone("A deep, foreboding tone resounds through the "
-			"air.\r\n", ch);
+            "air.\r\n", ch);
           act("You inhale and blow deeply on $P.",TRUE, ch, 0, obj, TO_CHAR);
           stc("A deep, foreboding tone resounds through the air.\r\n", ch);
           act("$n blows on $P.", TRUE, ch, 0, obj, TO_ROOM);
           act("A deep, foreboding tone resounds through the air.",
-		FALSE, ch, 0, 0, TO_ROOM);
-   	  switch(number(0, 5))
-	  {
-    		case 0: create_mobile(ch, 14503, 25, TRUE); break;
-    		case 1: create_mobile(ch, 14504, 25, TRUE); break;
-    		case 2: create_mobile(ch, 14513, 25, TRUE); break;
-    		case 3: create_mobile(ch, 14514, 25, TRUE); break;
-    		case 4: create_mobile(ch, 14515, 25, TRUE); break;
-    		default: create_mobile(ch,14516, 25, TRUE); break;
-	  }
+        FALSE, ch, 0, 0, TO_ROOM);
+      switch(number(0, 5))
+      {
+            case 0: create_mobile(ch, 14503, 25, TRUE); break;
+            case 1: create_mobile(ch, 14504, 25, TRUE); break;
+            case 2: create_mobile(ch, 14513, 25, TRUE); break;
+            case 3: create_mobile(ch, 14514, 25, TRUE); break;
+            case 4: create_mobile(ch, 14515, 25, TRUE); break;
+            default: create_mobile(ch,14516, 25, TRUE); break;
+      }
           return(TRUE);
         }
   }
@@ -677,7 +677,7 @@ SPECIAL(zen_master)
      return TRUE;
     case 20:
      act("$n says, 'You have violence, but not thought.'",
-	 FALSE,ch,0,0,TO_ROOM);
+     FALSE,ch,0,0,TO_ROOM);
      call_magic(ch, vict, 0, SPELL_TELEPORT, GET_LEVEL(ch), CAST_SPELL);
      return TRUE;
     default:
@@ -778,35 +778,35 @@ hunt_items(void)
        bool found = FALSE;
 
        if ( (obj = GET_EQ(i->character, j)) )
-	       for (k = 0; k < NUM_HUNTEDS; k++)
-	         if (GET_OBJ_VNUM(obj)==hunteds[k][h_item])
-	           if(number(0,100)<hunteds[k][h_percent])
-	           {
-  		         for (ch = character_list; !found && ch; ch = next_ch)
-		           {
-    		         next_ch = ch->next;
-    		         if ( (GET_MOB_VNUM(ch)!=hunteds[k][h_hunter] &&
-			            GET_MOB_VNUM(ch)!=hunteds[k][h_hunter2]&&
-			            GET_MOB_VNUM(ch)!=hunteds[k][h_hunter3]) ||
-			            FIGHTING(ch) || !AWAKE(ch) ||
-		              IS_AFFECTED(ch, AFF_CHARM) || HUNTING(ch))
-      		         continue;
-		             else
-		             {
-			             found = TRUE;
-			             hunting = obj;
-			             break;
-		             }
-		           }
-          		 if (found && ch)
-          		 {
-          		   char msg[MAX_STRING_LENGTH];
+           for (k = 0; k < NUM_HUNTEDS; k++)
+             if (GET_OBJ_VNUM(obj)==hunteds[k][h_item])
+               if(number(0,100)<hunteds[k][h_percent])
+               {
+                 for (ch = character_list; !found && ch; ch = next_ch)
+                   {
+                     next_ch = ch->next;
+                     if ( (GET_MOB_VNUM(ch)!=hunteds[k][h_hunter] &&
+                        GET_MOB_VNUM(ch)!=hunteds[k][h_hunter2]&&
+                        GET_MOB_VNUM(ch)!=hunteds[k][h_hunter3]) ||
+                        FIGHTING(ch) || !AWAKE(ch) ||
+                      IS_AFFECTED(ch, AFF_CHARM) || HUNTING(ch))
+                     continue;
+                     else
+                     {
+                         found = TRUE;
+                         hunting = obj;
+                         break;
+                     }
+                   }
+                 if (found && ch)
+                 {
+                   char msg[MAX_STRING_LENGTH];
                  sprintf(msg, "%s I must have %s!", GET_NAME(ch),
-           			   (hunting)->short_description);
-          		   do_tell(ch, msg, find_command("tell"), 0);
+                       (hunting)->short_description);
+                   do_tell(ch, msg, find_command("tell"), 0);
                  set_hunting(ch, i->character);
-          		 }
-	           }
+                 }
+               }
      }
    }
 }
@@ -846,9 +846,9 @@ ACMD(do_dig)
        real_zone(rroom) != real_zone(ch->in_room)) )
   {
     if (zone_table[world[ch->in_room].zone].number != GET_OLC_ZONE(ch))
-	stc("You don't have permission to edit this zone.\r\n", ch);
+    stc("You don't have permission to edit this zone.\r\n", ch);
     else
-	stc("You don't have permission to edit that zone.\r\n", ch);
+    stc("You don't have permission to edit that zone.\r\n", ch);
     return;
   }
 

@@ -10,9 +10,9 @@
 #include "lobject.h"
 
 
-#define node(t,i)	(&(t)->node[i])
-#define key(n)		(&(n)->key)
-#define val(n)		(&(n)->val)
+#define node(t,i)   (&(t)->node[i])
+#define key(n)      (&(n)->key)
+#define val(n)      (&(n)->val)
 
 Hash *luaH_new (lua_State *L, int nhash);
 void luaH_free (lua_State *L, Hash *t);

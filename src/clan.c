@@ -65,61 +65,61 @@ send_clan_format(struct char_data *ch)
   int c,r;
 
   send_to_char("Clan commands available to you:\n\r"
-	       "   clan status\r\n"
-	       "   clan info <clan>\r\n",ch);
+           "   clan status\r\n"
+           "   clan info <clan>\r\n",ch);
   if(GET_LEVEL(ch)>=LVL_CLAN_GOD)
     send_to_char("   clan create     <leader> <clan name>\r\n"
-		 "   clan destroy    <clan>\r\n"
+         "   clan destroy    <clan>\r\n"
                  "   clan rename     <#> <name>\r\n"
-		 "   clan enroll     <player> <clan>\r\n"
-		 "   clan expel      <player> <clan>\r\n"
-		 "   clan promote    <player> <clan>\r\n"
-		 "   clan demote     <player> <clan>\r\n"
-		 "   clan withdraw   <amount> <clan>\r\n"
-		 "   clan deposit    <amount> <clan>\r\n"
-		 "   clan set ranks  <rank>   <clan>\r\n"
-		 "   clan set appfee <amount> <clan>\r\n"
-		 "   clan set dues   <amount> <clan>\r\n"
-		 "   clan set applev <level>  <clan>\r\n"
-		 "   clan set plan   <clan>\r\n"
+         "   clan enroll     <player> <clan>\r\n"
+         "   clan expel      <player> <clan>\r\n"
+         "   clan promote    <player> <clan>\r\n"
+         "   clan demote     <player> <clan>\r\n"
+         "   clan withdraw   <amount> <clan>\r\n"
+         "   clan deposit    <amount> <clan>\r\n"
+         "   clan set ranks  <rank>   <clan>\r\n"
+         "   clan set appfee <amount> <clan>\r\n"
+         "   clan set dues   <amount> <clan>\r\n"
+         "   clan set applev <level>  <clan>\r\n"
+         "   clan set plan   <clan>\r\n"
                  "   clan private <clan>\r\n"
-		 "   clan set privilege  <privilege>   <rank> <clan>\r\n"
-		 "   clan set title  <clan number> <rank> <title>\r\n",ch);
+         "   clan set privilege  <privilege>   <rank> <clan>\r\n"
+         "   clan set title  <clan number> <rank> <title>\r\n",ch);
   else
     {
       c=find_clan_by_id(GET_CLAN(ch));
       r=GET_CLAN_RANK(ch);
       if(!GET_CLAN(ch))
-	send_to_char("   clan apply      <clan>\r\n",ch);
+    send_to_char("   clan apply      <clan>\r\n",ch);
       if(r > 0)
-	{
+    {
           send_to_char("   clan who\r\n", ch);
           send_to_char("   clan members\r\n", ch);
           send_to_char("   clan quit\r\n", ch);
-	  send_to_char("   clan deposit    <amount>\r\n",ch);
-	  if(r>=clan[c].privilege[CP_WITHDRAW])
-	    send_to_char("   clan withdraw   <amount>\r\n" ,ch);
-	  if(r>=clan[c].privilege[CP_ENROLL])
-	    send_to_char("   clan enroll     <player>\r\n" ,ch);
-	  if(r>=clan[c].privilege[CP_EXPEL])
-	    send_to_char("   clan expel      <player>\r\n" ,ch);
-	  if(r>=clan[c].privilege[CP_PROMOTE])
-	    send_to_char("   clan promote    <player>\r\n",ch);
-	  if(r>=clan[c].privilege[CP_DEMOTE])
-	    send_to_char("   clan demote     <player>\r\n",ch);
-	  if(r>=clan[c].privilege[CP_SET_APPLEV])
-	    send_to_char("   clan set applev <level>\r\n",ch);
-	  if(r>=clan[c].privilege[CP_SET_FEES])
-	    send_to_char("   clan set appfee <amount>\r\n"
-			 "   clan set dues   <amount>\r\n",ch);
-	  if(r>=clan[c].privilege[CP_SET_PLAN])
-	    send_to_char("   clan set plan\r\n",ch);
-	  if(r==clan[c].ranks)
-	    send_to_char("   clan private\r\n"
+      send_to_char("   clan deposit    <amount>\r\n",ch);
+      if(r>=clan[c].privilege[CP_WITHDRAW])
+        send_to_char("   clan withdraw   <amount>\r\n" ,ch);
+      if(r>=clan[c].privilege[CP_ENROLL])
+        send_to_char("   clan enroll     <player>\r\n" ,ch);
+      if(r>=clan[c].privilege[CP_EXPEL])
+        send_to_char("   clan expel      <player>\r\n" ,ch);
+      if(r>=clan[c].privilege[CP_PROMOTE])
+        send_to_char("   clan promote    <player>\r\n",ch);
+      if(r>=clan[c].privilege[CP_DEMOTE])
+        send_to_char("   clan demote     <player>\r\n",ch);
+      if(r>=clan[c].privilege[CP_SET_APPLEV])
+        send_to_char("   clan set applev <level>\r\n",ch);
+      if(r>=clan[c].privilege[CP_SET_FEES])
+        send_to_char("   clan set appfee <amount>\r\n"
+             "   clan set dues   <amount>\r\n",ch);
+      if(r>=clan[c].privilege[CP_SET_PLAN])
+        send_to_char("   clan set plan\r\n",ch);
+      if(r==clan[c].ranks)
+        send_to_char("   clan private\r\n"
                          "   clan set ranks  <rank>\r\n"
-			 "   clan set title  <rank> <title>\r\n"
-			 "   clan set privilege  <privilege> <rank>\r\n",ch);
-	}
+             "   clan set title  <rank> <title>\r\n"
+             "   clan set privilege  <privilege> <rank>\r\n",ch);
+    }
     }
 }
 
@@ -261,15 +261,15 @@ do_clan_destroy (struct char_data *ch, char *arg)
   for (j = 0; j <= top_of_p_table; j++){
     if((victim=is_playing((player_table +j)->name))) {
       if(GET_CLAN(victim)==clan[i].id) {
-	GET_CLAN(victim)=0;
-	GET_CLAN_RANK(victim)=0;
-	save_char(victim, victim->in_room); } }
+    GET_CLAN(victim)=0;
+    GET_CLAN_RANK(victim)=0;
+    save_char(victim, victim->in_room); } }
     else {
       load_char((player_table + j)->name, &chdata);
       if(chdata.player_specials_saved.clan==clan[i].id) {
-	chdata.player_specials_saved.clan=0;
-	chdata.player_specials_saved.clan_rank=0;
-	save_char_file_u(chdata); } } }
+    chdata.player_specials_saved.clan=0;
+    chdata.player_specials_saved.clan_rank=0;
+    save_char_file_u(chdata); } } }
 
   memset(&clan[i], sizeof(struct clan_rec), 0);
 
@@ -341,7 +341,7 @@ do_clan_enroll (struct char_data *ch, char *arg)
              (chdata.player_specials_saved.clan_rank == 0))
          {
            sprintf(buf, "%s\r\n", chdata.name);
-	   stc(buf, ch);
+       stc(buf, ch);
          }
        }
     }
@@ -356,18 +356,18 @@ do_clan_enroll (struct char_data *ch, char *arg)
   else {
     if(GET_CLAN(victim)!=clan[clan_num].id) {
       if(GET_CLAN_RANK(victim)>0) {
-	send_to_char("They're already in a clan.\r\n",ch);
-	return;
+    send_to_char("They're already in a clan.\r\n",ch);
+    return;
       }
       else {
-	send_to_char("They didn't request to join your clan.\r\n",ch);
-	return;
+    send_to_char("They didn't request to join your clan.\r\n",ch);
+    return;
       }
     }
     else
       if(GET_CLAN_RANK(victim)>0) {
-	send_to_char("They're already in your clan.\r\n",ch);
-	return;
+    send_to_char("They're already in your clan.\r\n",ch);
+    return;
       }
     if(GET_LEVEL(victim)>=LVL_IMMORT) {
       send_to_char("You cannot enroll immortals in clans.\r\n",ch);
@@ -423,8 +423,8 @@ do_clan_expel (struct char_data *ch, char *arg)
       return; }
     else {
       if(GET_CLAN_RANK(vict)>=GET_CLAN_RANK(ch) && !immcom) {
-	send_to_char("You cannot kick out that person.\r\n",ch);
-	return; } } }
+    send_to_char("You cannot kick out that person.\r\n",ch);
+    return; } } }
 
   GET_CLAN(vict)=0;
   GET_CLAN_RANK(vict)=0;
@@ -476,11 +476,11 @@ do_clan_demote (struct char_data *ch, char *arg)
       return; }
     else {
       if(GET_CLAN_RANK(vict)==1) {
-	send_to_char("They can't be demoted any further, use expel now.\r\n",ch);
-	return; }
+    send_to_char("They can't be demoted any further, use expel now.\r\n",ch);
+    return; }
       if(GET_CLAN_RANK(vict)>=GET_CLAN_RANK(ch) && !immcom) {
-	send_to_char("You cannot demote a person of this rank!\r\n",ch);
-	return; } } }
+    send_to_char("You cannot demote a person of this rank!\r\n",ch);
+    return; } } }
 
   GET_CLAN_RANK(vict)--;
   save_char(vict, vict->in_room);
@@ -526,14 +526,14 @@ do_clan_promote (struct char_data *ch, char *arg)
       return; }
     else {
       if(GET_CLAN_RANK(vict)==0) {
-	send_to_char("They're not enrolled yet.\r\n",ch);
-	return; }
+    send_to_char("They're not enrolled yet.\r\n",ch);
+    return; }
       if((GET_CLAN_RANK(vict)+1)>GET_CLAN_RANK(ch) && !immcom) {
-	send_to_char("You cannot promote that person over your rank!\r\n",ch);
-	return; }
+    send_to_char("You cannot promote that person over your rank!\r\n",ch);
+    return; }
       if(GET_CLAN_RANK(vict)==clan[clan_num].ranks) {
-	send_to_char("You cannot promote someone over the top rank!\r\n",ch);
-	return; } } }
+    send_to_char("You cannot promote someone over the top rank!\r\n",ch);
+    return; } } }
 
   GET_CLAN_RANK(vict)++;
   save_char(vict, vict->in_room);
@@ -675,8 +675,8 @@ do_clan_status (struct char_data *ch)
     }
   }
   sprintf(line_disp,"You are %s (Rank %d) of %s\r\n",
-	  clan[clan_num].rank_name[GET_CLAN_RANK(ch)-1],GET_CLAN_RANK(ch),
-	  clan[clan_num].name);
+      clan[clan_num].rank_name[GET_CLAN_RANK(ch)-1],GET_CLAN_RANK(ch),
+      clan[clan_num].name);
   send_to_char(line_disp,ch);
 
   return;
@@ -1131,21 +1131,21 @@ do_clan_ranks(struct char_data *ch, char *arg)
   for (j = 0; j <= top_of_p_table; j++) {
     if((victim=is_playing((player_table +j)->name))) {
       if(GET_CLAN(victim)==clan[clan_num].id) {
-	if(GET_CLAN_RANK(victim)<clan[clan_num].ranks && GET_CLAN_RANK(victim)>0)
-	  GET_CLAN_RANK(victim)=1;
-	if(GET_CLAN_RANK(victim)==clan[clan_num].ranks)
-	  GET_CLAN_RANK(victim)=new_ranks;
-	save_char(victim, victim->in_room);
+    if(GET_CLAN_RANK(victim)<clan[clan_num].ranks && GET_CLAN_RANK(victim)>0)
+      GET_CLAN_RANK(victim)=1;
+    if(GET_CLAN_RANK(victim)==clan[clan_num].ranks)
+      GET_CLAN_RANK(victim)=new_ranks;
+    save_char(victim, victim->in_room);
       }
     }
     else {
       load_char((player_table + j)->name, &chdata);
       if(chdata.player_specials_saved.clan==clan[clan_num].id) {
-	if(chdata.player_specials_saved.clan_rank<clan[clan_num].ranks && chdata.player_specials_saved.clan_rank>0)
-	  chdata.player_specials_saved.clan_rank=1;
-	if(chdata.player_specials_saved.clan_rank==clan[clan_num].ranks)
-	  chdata.player_specials_saved.clan_rank=new_ranks;
-	save_char_file_u(chdata);
+    if(chdata.player_specials_saved.clan_rank<clan[clan_num].ranks && chdata.player_specials_saved.clan_rank>0)
+      chdata.player_specials_saved.clan_rank=1;
+    if(chdata.player_specials_saved.clan_rank==clan[clan_num].ranks)
+      chdata.player_specials_saved.clan_rank=new_ranks;
+    save_char_file_u(chdata);
       }
     }
   }

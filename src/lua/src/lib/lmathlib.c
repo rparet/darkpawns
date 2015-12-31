@@ -25,11 +25,11 @@
 ** define RADIANS
 */
 #ifdef RADIANS
-#define FROMRAD(a)	(a)
-#define TORAD(a)	(a)
+#define FROMRAD(a)  (a)
+#define TORAD(a)    (a)
 #else
-#define FROMRAD(a)	((a)/RADIANS_PER_DEGREE)
-#define TORAD(a)	((a)*RADIANS_PER_DEGREE)
+#define FROMRAD(a)  ((a)/RADIANS_PER_DEGREE)
+#define TORAD(a)    ((a)*RADIANS_PER_DEGREE)
 #endif
 
 

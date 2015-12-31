@@ -4,9 +4,9 @@
 #include "../structs.h"
 #include "../utils.h"
 
-#define PFILE	"../lib/etc/players"
-#define PREFIX	"plrobjs"
-#define SUFFIX	"objs"
+#define PFILE   "../lib/etc/players"
+#define PREFIX  "plrobjs"
+#define SUFFIX  "objs"
 
 char *extra_bits[] = {
   "GLOW",

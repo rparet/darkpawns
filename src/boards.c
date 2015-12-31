@@ -46,13 +46,13 @@ TO ADD A NEW BOARD, simply follow our easy 4-step program:
 
 3 - Add a new line to the board_info array below.  The fields, in order, are:
 
-	Board's virtual number.
-	Min level one must be to look at this board or read messages on it.
-	Min level one must be to post a message to the board.
-	Min level one must be to remove other people's messages from this
-		board (but you can always remove your own message).
-	Filename of this board, in quotes.
-	Last field must always be 0.
+    Board's virtual number.
+    Min level one must be to look at this board or read messages on it.
+    Min level one must be to post a message to the board.
+    Min level one must be to remove other people's messages from this
+        board (but you can always remove your own message).
+    Filename of this board, in quotes.
+    Last field must always be 0.
 
 4 - In spec_assign.c, find the section which assigns the special procedure
     gen_board to the other bulletin boards, and add your new one in a
@@ -86,7 +86,7 @@ void Board_reset_board(int board_num);
 void Board_write_message(int board_type, struct char_data * ch, char *arg);
 
 /*
-format:	vnum, read lvl, write lvl, remove lvl, filename, 0 at end
+format: vnum, read lvl, write lvl, remove lvl, filename, 0 at end
 Be sure to also change NUM_OF_BOARDS in boards.h
 */
 struct board_info_type board_info[NUM_OF_BOARDS] = {
@@ -134,7 +134,7 @@ int find_board(struct char_data * ch)
   for (obj = world[ch->in_room].contents; obj; obj = obj->next_content)
     for (i = 0; i < NUM_OF_BOARDS; i++)
       if (BOARD_RNUM(i) == GET_OBJ_RNUM(obj))
-	return i;
+    return i;
 
   return -1;
 }
@@ -153,7 +153,7 @@ void init_boards(void)
   for (i = 0; i < NUM_OF_BOARDS; i++) {
     if ((BOARD_RNUM(i) = real_object(BOARD_VNUM(i))) == -1) {
       sprintf(buf, "SYSERR: Fatal board error: board vnum %d does not exist!",
-	      BOARD_VNUM(i));
+          BOARD_VNUM(i));
       log(buf);
       fatal_error = 1;
     }
@@ -293,21 +293,21 @@ int Board_show_board(int board_type, struct char_data * ch, char *arg)
   act("$n studies the board.", TRUE, ch, 0, 0, TO_ROOM);
 
   strcpy(buf,
-	 "This is a bulletin board.  Usage: READ/REMOVE <messg #>, WRITE <header>.\r\n"
-	 "You will need to look at the board to save your message.\r\n");
+     "This is a bulletin board.  Usage: READ/REMOVE <messg #>, WRITE <header>.\r\n"
+     "You will need to look at the board to save your message.\r\n");
   if (!num_of_msgs[board_type])
     strcat(buf, "The board is empty.\r\n");
   else {
     sprintf(buf + strlen(buf), "There are %d messages on the board.\r\n",
-	    num_of_msgs[board_type]);
+        num_of_msgs[board_type]);
     for (i = 0; i < num_of_msgs[board_type]; i++) {
 /*    for (i = num_of_msgs[board_type] - 1; i >= 0; i--) { */
       if (MSG_HEADING(board_type, i))
-	sprintf(buf + strlen(buf), "%-2d : %s\r\n", i + 1, MSG_HEADING(board_type, i));
+    sprintf(buf + strlen(buf), "%-2d : %s\r\n", i + 1, MSG_HEADING(board_type, i));
       else {
-	log("SYSERR: The board is fubar'd.");
-	send_to_char("Sorry, the board isn't working.\r\n", ch);
-	return 1;
+    log("SYSERR: The board is fubar'd.");
+    send_to_char("Sorry, the board isn't working.\r\n", ch);
+    return 1;
       }
     }
   }
@@ -325,7 +325,7 @@ int Board_display_msg(int board_type, struct char_data * ch, char *arg)
   one_argument(arg, number);
   if (!*number)
     return 0;
-  if (isname(number, "board bulletin"))	/* so "read board" works */
+  if (isname(number, "board bulletin")) /* so "read board" works */
     return (Board_show_board(board_type, ch, arg));
   if (!isdigit(*number) || (!(msg = atoi(number))))
     return 0;
@@ -340,7 +340,7 @@ int Board_display_msg(int board_type, struct char_data * ch, char *arg)
   }
   if (msg < 1 || msg > num_of_msgs[board_type]) {
     send_to_char("That message exists only in your imagination.\r\n",
-		 ch);
+         ch);
     return (1);
   }
   ind = msg - 1;
@@ -359,8 +359,8 @@ int Board_display_msg(int board_type, struct char_data * ch, char *arg)
     return 1;
   }
   sprintf(buffer, "Message %d : %s\r\n\r\n%s\r\n", msg,
-	  MSG_HEADING(board_type, ind),
-	  msg_storage[MSG_SLOTNUM(board_type, ind)]);
+      MSG_HEADING(board_type, ind),
+      msg_storage[MSG_SLOTNUM(board_type, ind)]);
 
   page_string(ch->desc, buffer, 1);
 
@@ -464,8 +464,8 @@ void Board_save_board(int board_type)
       msg_index[board_type][i].heading_len = 0;
 
     if (MSG_SLOTNUM(board_type, i) < 0 ||
-	MSG_SLOTNUM(board_type, i) >= INDEX_SIZE ||
-	(!(tmp2 = msg_storage[MSG_SLOTNUM(board_type, i)])))
+    MSG_SLOTNUM(board_type, i) >= INDEX_SIZE ||
+    (!(tmp2 = msg_storage[MSG_SLOTNUM(board_type, i)])))
       msg_index[board_type][i].message_len = 0;
     else
       msg_index[board_type][i].message_len = strlen(tmp2) + 1;
@@ -515,14 +515,14 @@ void Board_load_board(int board_type)
 
     if ((len2 = msg_index[board_type][i].message_len)) {
       if ((MSG_SLOTNUM(board_type, i) = find_slot()) == -1) {
-	log("SYSERR: Out of slots booting board!  Resetting...");
-	Board_reset_board(board_type);
-	return;
+    log("SYSERR: Out of slots booting board!  Resetting...");
+    Board_reset_board(board_type);
+    return;
       }
       CREATE(tmp2, char, (sizeof(char) * len2));
       if (!tmp2) {
-	log("SYSERR: CREATE failed for board text");
-	exit(1);
+    log("SYSERR: CREATE failed for board text");
+    exit(1);
       }
       fread(tmp2, sizeof(char), len2, fl);
       msg_storage[MSG_SLOTNUM(board_type, i)] = tmp2;

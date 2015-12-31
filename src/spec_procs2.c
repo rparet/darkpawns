@@ -173,15 +173,15 @@ SPECIAL(normal_checker)
   for (i=world[ch->in_room].people; i; i=i->next_in_room)
     {
       if (!IS_NPC(i) && GET_LEVEL(i) < LVL_IMMORT)
-	{
-	  act("$n sees $N and jumps quite high!", TRUE, ch, NULL, i,TO_NOTVICT);
-	  sprintf(buf, "%s sees you and jumps high, right at you!\r\n",
-		  GET_NAME(ch));
-	  buf[0] = UPPER(buf[0]);
-	  send_to_char(buf, i);
-	  hit(ch,i,TYPE_UNDEFINED);
-	  return(TRUE);
-	}
+    {
+      act("$n sees $N and jumps quite high!", TRUE, ch, NULL, i,TO_NOTVICT);
+      sprintf(buf, "%s sees you and jumps high, right at you!\r\n",
+          GET_NAME(ch));
+      buf[0] = UPPER(buf[0]);
+      send_to_char(buf, i);
+      hit(ch,i,TYPE_UNDEFINED);
+      return(TRUE);
+    }
     }
   return(FALSE);
 }
@@ -200,17 +200,17 @@ SPECIAL(ninelives)
       skip_spaces(&argument);
 
       if (!*argument)
-	return(FALSE);
+    return(FALSE);
       if (!strstr(argument, "chest"))
-	return(FALSE);
+    return(FALSE);
       if (CMD_IS("open") || CMD_IS("look") || CMD_IS("examine"))
-	{
-	  if(!IS_NPC(ch) && CAN_SEE(mobile, ch)&&!PRF_FLAGGED(ch,PRF_NOHASSLE))
-	    hit(mobile, ch, TYPE_UNDEFINED);
-	  return(TRUE);
-	}
+    {
+      if(!IS_NPC(ch) && CAN_SEE(mobile, ch)&&!PRF_FLAGGED(ch,PRF_NOHASSLE))
+        hit(mobile, ch, TYPE_UNDEFINED);
+      return(TRUE);
+    }
       else
-	return(FALSE);
+    return(FALSE);
     }
 
   if (!FIGHTING(ch) || GET_HIT(ch) > 0)
@@ -219,22 +219,22 @@ SPECIAL(ninelives)
   if ( GET_MAX_MOVE(ch) > 0 )
     {
       if (GET_MAX_MOVE(ch) >8)
-	GET_MAX_MOVE(ch) = 8;
+    GET_MAX_MOVE(ch) = 8;
       else
-	GET_MAX_MOVE(ch)--;
+    GET_MAX_MOVE(ch)--;
 
-	GET_HIT(ch) = GET_MAX_HIT(ch);
+    GET_HIT(ch) = GET_MAX_HIT(ch);
 
       if (FIGHTING(ch))
-	{
-	  i = FIGHTING(ch);
-	  act("$n rises from the dead and keeps fighting!\n\n",
-	      TRUE, ch, NULL, i, TO_ROOM);
-	  if (FIGHTING(i) == ch)
-	    stop_fighting(i);
-	  stop_fighting(ch);
-	  hit(ch, i, TYPE_UNDEFINED);
-	}
+    {
+      i = FIGHTING(ch);
+      act("$n rises from the dead and keeps fighting!\n\n",
+          TRUE, ch, NULL, i, TO_ROOM);
+      if (FIGHTING(i) == ch)
+        stop_fighting(i);
+      stop_fighting(ch);
+      hit(ch, i, TYPE_UNDEFINED);
+    }
       return(TRUE);
     }
   return(FALSE);
@@ -254,22 +254,22 @@ SPECIAL(whirlpool)
     {
       tmp = vict->next_in_room;
       if (!PRF_FLAGGED(vict,PRF_NOHASSLE) && vict !=mobile && !IS_NPC(vict))
-	{
-	  do
-	    {
-	      to_room = number(real_room(4600), real_room(4699));
-	    }
-	  while( (IS_SET_AR(world[to_room].room_flags,ROOM_PRIVATE)) ||
-		 (IS_SET_AR(world[to_room].room_flags,ROOM_GODROOM)) ||
-		 (IS_SET_AR(world[to_room].room_flags,ROOM_DEATH))   ||
-		 (IS_SET_AR(world[to_room].room_flags,ROOM_NOMOB)));
-	  char_from_room(vict);
-	  char_to_room(vict, to_room);
-	  send_to_char("A ravaging whirlpool sucks you under!\n\r", vict);
-	  send_to_char("You finally surface, sputtering...\n\r\n\r", vict);
-	  look_at_room(vict, 0);
-	  spec_occured = TRUE;
-	}
+    {
+      do
+        {
+          to_room = number(real_room(4600), real_room(4699));
+        }
+      while( (IS_SET_AR(world[to_room].room_flags,ROOM_PRIVATE)) ||
+         (IS_SET_AR(world[to_room].room_flags,ROOM_GODROOM)) ||
+         (IS_SET_AR(world[to_room].room_flags,ROOM_DEATH))   ||
+         (IS_SET_AR(world[to_room].room_flags,ROOM_NOMOB)));
+      char_from_room(vict);
+      char_to_room(vict, to_room);
+      send_to_char("A ravaging whirlpool sucks you under!\n\r", vict);
+      send_to_char("You finally surface, sputtering...\n\r\n\r", vict);
+      look_at_room(vict, 0);
+      spec_occured = TRUE;
+    }
     }
   return(spec_occured);
 }
@@ -293,19 +293,19 @@ SPECIAL (couch)
   for (obj = world[ch->in_room].contents; obj; obj = obj->next_content)
     if (CAN_SEE_OBJ(ch, obj) && (!strcmp(obj->name, "couch")))
       {
-	obj_from_room(obj);
-	extract_obj(obj);
-	if ((mimic = world[real_room(MIMIC_ROOM_VNUM)].people))
-	  {
-	    char_from_room(mimic);
-	    char_to_room(mimic, ch->in_room);
-	    act("Starved and needing food to make more pillows, the mimic "
-		"attacks!\n\r",TRUE, ch, 0, 0, TO_ROOM);
-	    send_to_char("Starved and needing food to make more pillows, the "
-		"mimic attacks you!\n\r\n\r",ch);
-	    hit(mimic, ch, TYPE_UNDEFINED);
-	    return(TRUE);
-	  }
+    obj_from_room(obj);
+    extract_obj(obj);
+    if ((mimic = world[real_room(MIMIC_ROOM_VNUM)].people))
+      {
+        char_from_room(mimic);
+        char_to_room(mimic, ch->in_room);
+        act("Starved and needing food to make more pillows, the mimic "
+        "attacks!\n\r",TRUE, ch, 0, 0, TO_ROOM);
+        send_to_char("Starved and needing food to make more pillows, the "
+        "mimic attacks you!\n\r\n\r",ch);
+        hit(mimic, ch, TYPE_UNDEFINED);
+        return(TRUE);
+      }
       }
   return(FALSE);
 
@@ -325,7 +325,7 @@ SPECIAL(stableboy)
    if ( (argument && strcmp(argument, "horse")) || !argument)
    {
       sprintf (msg, "%s Buy what, fine adventurer?",
-		   GET_NAME(ch));
+           GET_NAME(ch));
       do_tell(mobile, msg, find_command("tell"), 0);
       return (TRUE);
    }
@@ -475,43 +475,43 @@ SPECIAL(tipster)
       do_say(ch, "For ansi color, type COLOR COMPLETE!", 0, 0); break;
     case 1:
       do_say(ch, "Wargs make a tasty meal if you CARVE their corpse.",
-	     0, 0); break;
+         0, 0); break;
     case 2:
       do_say(ch, "AUTO EXIT will show you the exits for every room.",
-	     0, 0); break;
+         0, 0); break;
     case 3:
       do_say(ch, "It's always safest to quit in the temple.", 0, 0);
       break;
     case 4:
       do_say(ch, "You're allowed to play up to 3 characters at once.",
-	     0, 0); break;
+         0, 0); break;
     case 5:
       do_say(ch, "You can hire a mercenary by giving him 100 coins.",
-	     0, 0); break;
+         0, 0); break;
     case 6:
       do_say(ch, "A bribe of a couple hundred coins will make a guard"
-	     " look the other way while you fight.", 0, 0);
+         " look the other way while you fight.", 0, 0);
       do_say(ch, "Guards will attack you if you fight in front of "
-	     "them.", 0, 0); break;
+         "them.", 0, 0); break;
     case 7:
       do_say(ch, "Use the CONSIDER command!", 0, 0); break;
     case 8:
       do_say(ch, "If you don't like something, use the IDEA command."
-	     , 0, 0); break;
+         , 0, 0); break;
     case 9:
       do_say(ch, "If you see something out of place, use the BUG "
-	     "command.", 0, 0); break;
+         "command.", 0, 0); break;
     case 10:
       do_say(ch, "If you see something spelled incorrectly, use "
-	     "the TYPO command.", 0, 0); break;
+         "the TYPO command.", 0, 0); break;
     case 11:
       do_say(ch, "Use an identify scroll on yourself to see "
-	     "your numerical statistics. (Available at your "
-	     "local magick shop.)", 0, 0);
+         "your numerical statistics. (Available at your "
+         "local magick shop.)", 0, 0);
       break;
     case 12:
       do_say(ch, "Check out HELP ALIAS to see how to abbreviate "
-	     "commands or do multiple commands at once.", 0, 0);
+         "commands or do multiple commands at once.", 0, 0);
       break;
     default:
       break;
@@ -534,10 +534,10 @@ SPECIAL(rescuer)
 
   for (i=world[ch->in_room].people; i; i=i->next_in_room)
     if (IS_NPC(i) && FIGHTING(i) && GET_MOB_SPEC(i) != rescuer &&
-	!IS_NPC(FIGHTING(i)))
+    !IS_NPC(FIGHTING(i)))
       {
-	do_rescue(ch, GET_NAME(i), 0, 1);
-	return(TRUE);
+    do_rescue(ch, GET_NAME(i), 0, 1);
+    return(TRUE);
       }
   return(FALSE);
 }
@@ -562,7 +562,7 @@ SPECIAL(pissedalchemist)
     return(FALSE);
 
   if (GET_ALIGNMENT(ch) != -69) /*arbitrary number, just a number that
-				  he is NOT*/
+                  he is NOT*/
     {
       GET_ALIGNMENT(ch) = -69;
       do_say(ch, "So, finally come to steal my secret!?!", 0, 0);
@@ -574,14 +574,14 @@ SPECIAL(pissedalchemist)
   for (i=world[ch->in_room].people; i; i=i->next_in_room)
     if (!IS_NPC(i) &&  GET_CLASS(i) == CLASS_MAGIC_USER)
       {
-	hit(ch, i, TYPE_UNDEFINED);
-	return(TRUE);
+    hit(ch, i, TYPE_UNDEFINED);
+    return(TRUE);
       }
   for (i=world[ch->in_room].people; i; i=i->next_in_room)
     if (!IS_NPC(i))
       {
-	hit(ch, i, TYPE_UNDEFINED);
-	return(TRUE);
+    hit(ch, i, TYPE_UNDEFINED);
+    return(TRUE);
       }
 
   SET_BIT_AR(MOB_FLAGS(ch), MOB_AGGRESSIVE);
@@ -601,47 +601,47 @@ kender_steal(struct char_data *ch, struct char_data *victim)
   for (tmp_obj = victim->carrying; tmp_obj; tmp_obj = tmp_obj->next_content)
     {
       if (CAN_SEE_OBJ(ch, tmp_obj) && (number(0, 600) < GET_LEVEL(ch)))
-	{
-	  int percent = number(1, 101) - dex_app_skill[GET_DEX(ch)].p_pocket;
-	  int pcsteal = 0;
+    {
+      int percent = number(1, 101) - dex_app_skill[GET_DEX(ch)].p_pocket;
+      int pcsteal = 0;
 
-	  if (GET_POS(victim) < POS_SLEEPING)
-	    percent = -1; /* Success */
+      if (GET_POS(victim) < POS_SLEEPING)
+        percent = -1; /* Success */
 
-	  if (!IS_NPC(victim))
-	    pcsteal = 1;
+      if (!IS_NPC(victim))
+        pcsteal = 1;
 
-	  /* NO NO With Imp's and Shopkeepers,
-	     and if player thieving is not allowed */
-	  if (GET_LEVEL(victim) >= LVL_IMMORT ||
-	      (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)) ||
-	      GET_MOB_SPEC(victim) == shop_keeper)
-	    percent = 101; /* Failure */
+      /* NO NO With Imp's and Shopkeepers,
+         and if player thieving is not allowed */
+      if (GET_LEVEL(victim) >= LVL_IMMORT ||
+          (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)) ||
+          GET_MOB_SPEC(victim) == shop_keeper)
+        percent = 101; /* Failure */
 
           /* newbie protection */
           if ((GET_LEVEL(ch) <= 10) || (GET_LEVEL(victim) <= 10))
             return;
 
-	  if (GET_LEVEL(ch) > LVL_IMMORT && GET_LEVEL(victim) < GET_LEVEL(ch))
-	    percent = -1;  /* Success */
+      if (GET_LEVEL(ch) > LVL_IMMORT && GET_LEVEL(victim) < GET_LEVEL(ch))
+        percent = -1;  /* Success */
 
-	  if ( (!IS_NPC(victim)) && (percent < GET_SKILL(ch, SKILL_STEAL)) )
-	    {
-	      obj_from_char(tmp_obj);
-	      obj_to_char(tmp_obj, ch);
+      if ( (!IS_NPC(victim)) && (percent < GET_SKILL(ch, SKILL_STEAL)) )
+        {
+          obj_from_char(tmp_obj);
+          obj_to_char(tmp_obj, ch);
               sprintf(buf, "%s kender stole %s from %s.\r\n", GET_NAME(ch),
                tmp_obj->name, GET_NAME(victim));
               mudlog(buf, BRF, LVL_IMMORT, TRUE);
-	    }
-	  else if (GET_LEVEL(ch) > 5)
-	    {
-	      char tmp_obj_name[80], tmp_mob_name[80];
-	      one_argument((tmp_obj)->name, tmp_obj_name);
-	      one_argument(victim->player.name, tmp_mob_name);
-	      sprintf(buf, "%s %s", tmp_obj_name, tmp_mob_name);
-	      do_steal(ch, buf, 0, 1);
-	    }
-	}
+        }
+      else if (GET_LEVEL(ch) > 5)
+        {
+          char tmp_obj_name[80], tmp_mob_name[80];
+          one_argument((tmp_obj)->name, tmp_obj_name);
+          one_argument(victim->player.name, tmp_mob_name);
+          sprintf(buf, "%s %s", tmp_obj_name, tmp_mob_name);
+          do_steal(ch, buf, 0, 1);
+        }
+    }
     }
 }
 
@@ -703,7 +703,7 @@ SPECIAL(remorter)
   if (GET_LEVEL(ch) < LEVEL_IMMORT-1)
     {
       sprintf (msg, "%s You can't remort until level %d!\r\n",
-		   GET_NAME(ch), LEVEL_IMMORT-1);
+           GET_NAME(ch), LEVEL_IMMORT-1);
       do_tell(mobile, msg, find_command("tell"), 0);
       return (TRUE);
     }
@@ -717,17 +717,17 @@ SPECIAL(remorter)
 
   if (GET_GOLD(ch) < REMORT_COST)
     {
-	  sprintf (msg, "%s It costs %d gold to work my magicks.",
-		   GET_NAME(ch), REMORT_COST);
-	  do_tell(mobile, msg, find_command("tell"), 0);
-	  return (TRUE);
+      sprintf (msg, "%s It costs %d gold to work my magicks.",
+           GET_NAME(ch), REMORT_COST);
+      do_tell(mobile, msg, find_command("tell"), 0);
+      return (TRUE);
     }
  for (i = 0; i < NUM_WEARS; i++)
     if (GET_EQ(ch, i))
       {
         send_to_char("You must come unto me naked, wearing only thy old "
-			"body.\r\n", ch);
-	return(TRUE);
+            "body.\r\n", ch);
+    return(TRUE);
       }
 
  if (PLR_FLAGGED(ch, PLR_IT))
@@ -748,7 +748,7 @@ SPECIAL(remorter)
    }
  if (ch->affected)
    while (ch->affected)
-	affect_remove(ch, ch->affected);
+    affect_remove(ch, ch->affected);
 
       GET_GOLD(ch) -= REMORT_COST;
       GET_CLASS(ch) = find_remort_class(ch);
@@ -773,54 +773,54 @@ SPECIAL(remorter)
       SET_BIT_AR(PLR_FLAGS(ch), PLR_REMORT);  /* new remort flag */
 
       for (i = 1; i <= MAX_SKILLS; i++)
-	SET_SKILL(ch, i, 0);
+    SET_SKILL(ch, i, 0);
 
       switch (GET_CLASS(ch))
-	{
-	case CLASS_MAGIC_USER:
-	  SET_SKILL(ch, SPELL_MAGIC_MISSILE, 20);
-	  SET_SKILL(ch, SPELL_ACID_BLAST, 20);
-	  break;
-	case CLASS_MAGUS:
-	  SET_SKILL(ch, SPELL_MAGIC_MISSILE, 40);
-	  SET_SKILL(ch, SPELL_ACID_BLAST, 40);
-	  break;
-	case CLASS_CLERIC:
-	  SET_SKILL(ch, SPELL_CURE_LIGHT, 20);
-	  SET_SKILL(ch, SPELL_ARMOR, 20);
-	  break;
-	case CLASS_AVATAR:
-	  SET_SKILL(ch, SPELL_CURE_LIGHT, 40);
-	  SET_SKILL(ch, SPELL_ARMOR, 40);
-	  break;
-	case CLASS_WARRIOR:
-	  SET_SKILL(ch, SKILL_KICK, 20);
-	  break;
-	case CLASS_PALADIN:
+    {
+    case CLASS_MAGIC_USER:
+      SET_SKILL(ch, SPELL_MAGIC_MISSILE, 20);
+      SET_SKILL(ch, SPELL_ACID_BLAST, 20);
+      break;
+    case CLASS_MAGUS:
+      SET_SKILL(ch, SPELL_MAGIC_MISSILE, 40);
+      SET_SKILL(ch, SPELL_ACID_BLAST, 40);
+      break;
+    case CLASS_CLERIC:
+      SET_SKILL(ch, SPELL_CURE_LIGHT, 20);
+      SET_SKILL(ch, SPELL_ARMOR, 20);
+      break;
+    case CLASS_AVATAR:
+      SET_SKILL(ch, SPELL_CURE_LIGHT, 40);
+      SET_SKILL(ch, SPELL_ARMOR, 40);
+      break;
+    case CLASS_WARRIOR:
+      SET_SKILL(ch, SKILL_KICK, 20);
+      break;
+    case CLASS_PALADIN:
         case CLASS_RANGER:
-	  SET_SKILL(ch, SKILL_KICK, 40);
-	  break;
-	case CLASS_NINJA:
-	  break;
-	case CLASS_PSIONIC:
+      SET_SKILL(ch, SKILL_KICK, 40);
+      break;
+    case CLASS_NINJA:
+      break;
+    case CLASS_PSIONIC:
         case CLASS_MYSTIC:
-	  SET_SKILL(ch, SPELL_MINDPOKE, 20);
-	  break;
-	case CLASS_THIEF:
-	case CLASS_ASSASSIN:
-	  SET_SKILL(ch, SKILL_SNEAK, 20);
-	  SET_SKILL(ch, SKILL_HIDE, 10);
-	  SET_SKILL(ch, SKILL_STEAL, 30);
-	  SET_SKILL(ch, SKILL_BACKSTAB, 20);
-	  SET_SKILL(ch, SKILL_PICK_LOCK, 20);
-	  SET_SKILL(ch, SKILL_TRACK, 20);
-	  break;
+      SET_SKILL(ch, SPELL_MINDPOKE, 20);
+      break;
+    case CLASS_THIEF:
+    case CLASS_ASSASSIN:
+      SET_SKILL(ch, SKILL_SNEAK, 20);
+      SET_SKILL(ch, SKILL_HIDE, 10);
+      SET_SKILL(ch, SKILL_STEAL, 30);
+      SET_SKILL(ch, SKILL_BACKSTAB, 20);
+      SET_SKILL(ch, SKILL_PICK_LOCK, 20);
+      SET_SKILL(ch, SKILL_TRACK, 20);
+      break;
        default:
           break;
-	}
+    }
 
       if (GET_RACE(ch) == RACE_KENDER)
-	SET_SKILL(ch, SKILL_STEAL, 45);
+    SET_SKILL(ch, SKILL_STEAL, 45);
 
       if (GET_RACE(ch) == RACE_MINOTAUR)
         SET_SKILL(ch, SKILL_HEADBUTT, 45);
@@ -833,11 +833,11 @@ SPECIAL(remorter)
       mudlog("Due to remorting:", BRF, LVL_IMMORT, TRUE);
       advance_level(ch);
       sprintf (msg, "%s Enjoy your new life...",
-	       GET_NAME(ch));
+           GET_NAME(ch));
       do_tell(mobile, msg, find_command("tell"), 0);
       send_to_char("The remorter moves his hands over your eyes, closing them"
-		   " with a touch.\r\nColors spiral in your sight... You open"
-		   " your eyes, feeling refreshed.\r\n", ch);
+           " with a touch.\r\nColors spiral in your sight... You open"
+           " your eyes, feeling refreshed.\r\n", ch);
       return(TRUE);
 }
 
@@ -854,71 +854,71 @@ SPECIAL(assassin)
       send_to_char("To hire an assassin: hire <assassin> <victim>\r\n", ch);
       send_to_char("Available assassins are:\r\n", ch);
       for (as = world[as_loc].people;as;as = as->next_in_room)
-	{
-	  sprintf(buf, "%8d - %s\r\n", ASSASSIN_PRICE(as), GET_NAME(as));
-	  send_to_char(buf, ch);
-	}
+    {
+      sprintf(buf, "%8d - %s\r\n", ASSASSIN_PRICE(as), GET_NAME(as));
+      send_to_char(buf, ch);
+    }
       return (TRUE);
     }
   else if (CMD_IS("hire"))
     {
       two_arguments(argument, buf, buf2);
       if(!*buf)
-	{
-	  send_to_char("Hire who?\r\n", ch);
-	  return (TRUE);
-	}
+    {
+      send_to_char("Hire who?\r\n", ch);
+      return (TRUE);
+    }
       if (!(as = get_char_room(buf, as_loc)))
-	{
-	  send_to_char("There is nobody called that!\r\n", ch);
-	  return (TRUE);
-	}
+    {
+      send_to_char("There is nobody called that!\r\n", ch);
+      return (TRUE);
+    }
       if(!IS_NPC(as))
-	{
-	  send_to_char("GET THE HELL OUT OF THAT ROOM, NOW !!!\r\n", as);
-	  sprintf(buf, "%s is in the assassin store room.", GET_NAME(as));
-	  mudlog(buf, BRF, LVL_IMMORT, TRUE);
-	  send_to_char("You can't hire players.\r\n", ch);
-	  return (TRUE);
-	}
+    {
+      send_to_char("GET THE HELL OUT OF THAT ROOM, NOW !!!\r\n", as);
+      sprintf(buf, "%s is in the assassin store room.", GET_NAME(as));
+      mudlog(buf, BRF, LVL_IMMORT, TRUE);
+      send_to_char("You can't hire players.\r\n", ch);
+      return (TRUE);
+    }
       if (!*buf2)
-	{
-	  send_to_char("Whom do you want to assassinate?\r\n", ch);
-	  return (TRUE);
-	}
+    {
+      send_to_char("Whom do you want to assassinate?\r\n", ch);
+      return (TRUE);
+    }
       if (GET_GOLD(ch) < ASSASSIN_PRICE(as))
-	{
-	  send_to_char("You don't have enough gold!\r\n", ch);
-	  return 1;
-	}
+    {
+      send_to_char("You don't have enough gold!\r\n", ch);
+      return 1;
+    }
       if ((vict = get_player_vis(as, buf2, 0)))
-	{
-	  if (GET_LEVEL(vict) < 5)
-	    {
-	      send_to_char("We cannot lower ourselves to such easy prey.\r\n",
-			   ch);
-	      return(TRUE);
-	    }
-	  GET_GOLD(ch) -= ASSASSIN_PRICE(as);
-	  as = read_mobile(GET_MOB_RNUM(as), REAL);
-	  char_to_room(as, ch->in_room);
-	  if(!MOB_FLAGGED(as,MOB_HUNTER))
-	    SET_BIT_AR(MOB_FLAGS(as),MOB_HUNTER);
-	  set_hunting(as, vict);
-	  send_to_char("We cannot contact you if the job succeeds or "
-		       "not...security, you know.\r\n", ch);
-	  act("$n hires $N for a job.", FALSE, ch, 0, as, TO_ROOM);
-	  sprintf(buf, "%s hires %s to kill %s.\r\n", GET_NAME(ch),
-		  GET_NAME(as), GET_NAME(vict));
-	  mudlog(buf, BRF, LVL_IMMORT, TRUE);
-	  return (TRUE);
-	}
+    {
+      if (GET_LEVEL(vict) < 5)
+        {
+          send_to_char("We cannot lower ourselves to such easy prey.\r\n",
+               ch);
+          return(TRUE);
+        }
+      GET_GOLD(ch) -= ASSASSIN_PRICE(as);
+      as = read_mobile(GET_MOB_RNUM(as), REAL);
+      char_to_room(as, ch->in_room);
+      if(!MOB_FLAGGED(as,MOB_HUNTER))
+        SET_BIT_AR(MOB_FLAGS(as),MOB_HUNTER);
+      set_hunting(as, vict);
+      send_to_char("We cannot contact you if the job succeeds or "
+               "not...security, you know.\r\n", ch);
+      act("$n hires $N for a job.", FALSE, ch, 0, as, TO_ROOM);
+      sprintf(buf, "%s hires %s to kill %s.\r\n", GET_NAME(ch),
+          GET_NAME(as), GET_NAME(vict));
+      mudlog(buf, BRF, LVL_IMMORT, TRUE);
+      return (TRUE);
+    }
       else
-	{
-	  send_to_char("Our underground doesn't know the whereabouts of "
-		       "the victim!\r\n", ch);
-	  return (TRUE);
-	}
+    {
+      send_to_char("Our underground doesn't know the whereabouts of "
+               "the victim!\r\n", ch);
+      return (TRUE);
+    }
     }
   return (FALSE);
 }
@@ -957,7 +957,7 @@ SPECIAL(tattoo1)
       {
          sprintf(buf, "[%d] - (%d) tattoo %s : %s\r\n", i,
                  tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num],
-		 tat[tats[i]].descrip);
+         tat[tats[i]].descrip);
          send_to_char(buf, ch);
       }
       return (TRUE);
@@ -973,7 +973,7 @@ SPECIAL(tattoo1)
     {
      char msg[264];
      sprintf (msg, "%s Your magickal center is already tattooed. "
-	    "Get a new arm or get rid of that tattoo then come back.",
+        "Get a new arm or get rid of that tattoo then come back.",
                   GET_NAME(ch));
      do_tell(mobile, msg, find_command("tell"), 0);
      return(TRUE);
@@ -1022,7 +1022,7 @@ SPECIAL(tattoo2)
       {
          sprintf(buf, "[%d] - (%d) tattoo %s : %s\r\n", i,
                  tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num],
-		 tat[tats[i]].descrip);
+         tat[tats[i]].descrip);
          send_to_char(buf, ch);
       }
       return (TRUE);
@@ -1050,7 +1050,7 @@ SPECIAL(tattoo2)
     {
       char msg[254];
       sprintf (msg, "%s Your magickal center is already tattooed. "
-		    "Your tattoo... is enough magick for such as yourself.",
+            "Your tattoo... is enough magick for such as yourself.",
                    GET_NAME(ch));
       do_tell(mobile, msg, find_command("tell"), 0);
       return(TRUE);
@@ -1087,7 +1087,7 @@ SPECIAL(tattoo3)
       {
          sprintf(buf, "[%d] - (%d) tattoo %s : %s\r\n", i,
                  tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num],
-		 tat[tats[i]].descrip);
+         tat[tats[i]].descrip);
          send_to_char(buf, ch);
       }
       return (TRUE);
@@ -1115,7 +1115,7 @@ SPECIAL(tattoo3)
     {
      char msg[254];
      sprintf (msg, "%s Your mathickal thenter is awready tattooed. "
- 	     "Your tattoo... ith enough mathick for such as yoursewf.",
+         "Your tattoo... ith enough mathick for such as yoursewf.",
              GET_NAME(ch));
      do_tell(mobile, msg, find_command("tell"), 0);
      return(TRUE);
@@ -1144,15 +1144,15 @@ SPECIAL(eviltrade)
   if (CMD_IS("give"))
   {
     if (!*argument)
-  	return(FALSE);
+    return(FALSE);
 
     two_arguments(argument, buf, buf2);
     if ( !*buf || !*buf2 || !isname(buf2, mobile->player.name) )
-	return(FALSE);
+    return(FALSE);
 
     obj = get_obj_in_list_vis(ch, buf, ch->carrying);
     if (!obj)
-	return(FALSE);
+    return(FALSE);
     if (GET_OBJ_VNUM(obj) != 13111) /* gold watch */
     {
      sprintf (msg, "%s Don't give me that crap.", GET_NAME(ch));
@@ -1181,12 +1181,12 @@ val_cost(struct obj_data *obj)
   int cost = GET_OBJ_COST(obj);
   int price = 1;
   if (cost < 5000)
-	price = cost/10;
+    price = cost/10;
   else
-	price = cost*.14;
+    price = cost*.14;
 
   if (IS_SET_AR(GET_OBJ_EXTRA(obj), ITEM_MAGIC))
-	price += cost/20;
+    price += cost/20;
   return(MAX(1, price));
 }
 
@@ -1227,21 +1227,21 @@ SPECIAL(identifier)
   if (CMD_IS("give"))
   {
     if (!*argument)
-  	return(FALSE);
+    return(FALSE);
 
     two_arguments(argument, buf, buf2);
     if ( !*buf || !*buf2 || !isname_with_abbrevs(buf2, mobile->player.name) )
-	return(FALSE);
+    return(FALSE);
 
     obj = get_obj_in_list_vis(ch, buf, ch->carrying);
     if (!obj)
-	return(FALSE);
+    return(FALSE);
 
     if (GET_GOLD(ch)<val_cost(obj))
     {
       sprintf (msg, "%s That's a fine item, but I'll need %d coins from you"
-	            " to id it.. and you're a little short..",
-	       GET_NAME(ch), val_cost(obj));
+                " to id it.. and you're a little short..",
+           GET_NAME(ch), val_cost(obj));
       do_tell(mobile, msg, find_command("tell"), 0);
       sprintf (msg, "%s Keep it until you get the gold.", GET_NAME(ch));
       do_tell(mobile, msg, find_command("tell"), 0);
@@ -1255,21 +1255,21 @@ SPECIAL(identifier)
 
     act("$n studies it carefully, comparing it to ancient texts,\r\n"
         "weighing it on scales, and chanting a number of odd spells over "
-	"its surface.", TRUE, mobile, 0, 0, TO_ROOM);
+    "its surface.", TRUE, mobile, 0, 0, TO_ROOM);
 
     act("Finally looking up, you give $p back to $N.",
-	FALSE, mobile, obj, ch, TO_CHAR);
+    FALSE, mobile, obj, ch, TO_CHAR);
     act("Finally looking up, $n gives you back $p.",
-	FALSE, mobile, obj, ch, TO_VICT);
+    FALSE, mobile, obj, ch, TO_VICT);
     act("Finally looking up, $n gives back $p to $N.",
-	TRUE, mobile, obj, ch, TO_NOTVICT);
+    TRUE, mobile, obj, ch, TO_NOTVICT);
 
     act("$N touches your forehead, and knowledge fills your mind.",
-	FALSE, ch, obj, mobile, TO_CHAR);
+    FALSE, ch, obj, mobile, TO_CHAR);
     act("You touch $n gently on the forehead.",
-	FALSE, ch, obj, mobile, TO_VICT);
+    FALSE, ch, obj, mobile, TO_VICT);
     act("$N touches $n gently on the forehead.",
-	TRUE, ch, obj, mobile, TO_NOTVICT);
+    TRUE, ch, obj, mobile, TO_NOTVICT);
 
     send_to_char("\r\n", ch);
     spell_identify(LEVEL_IMMORT, ch, NULL, obj, NULL);
@@ -1294,7 +1294,7 @@ SPECIAL(tattoo4)
       {
          sprintf(buf, "[%d] - (%d) tattoo %s : %s\r\n", i,
                  tat[tats[i]].price, tattoos[tat[tats[i]].tattoo_num],
-		 tat[tats[i]].descrip);
+         tat[tats[i]].descrip);
          send_to_char(buf, ch);
       }
       return (TRUE);
@@ -1368,12 +1368,12 @@ SPECIAL(evillead)
     obj_from_char(obj);
     obj_to_char(obj, mobile);
     act("$n leads $N through a hidden trapdoor and returns a moment later,"
-	" alone.\r\n", TRUE, mobile, 0, ch, TO_ROOM);
+    " alone.\r\n", TRUE, mobile, 0, ch, TO_ROOM);
     send_to_char("  You follow Swiss though a small trapdoor into a maze of"
-		 " twists and\r\nturns, winding through the various tunnels"
-		 " as if he's been doing it all his\r\nlife. As you near a"
-		 " narrow, well lit passage, Swiss turns around and "
-		 "vanishes\r\nin a puff of smoke!\r\n", ch);
+         " twists and\r\nturns, winding through the various tunnels"
+         " as if he's been doing it all his\r\nlife. As you near a"
+         " narrow, well lit passage, Swiss turns around and "
+         "vanishes\r\nin a puff of smoke!\r\n", ch);
     char_from_room(ch);
     char_to_room(ch, real_room(13195));
     if (get_mount(ch))
@@ -1410,15 +1410,15 @@ SPECIAL(ira)
     return FALSE;
 
   for ( tmp_ch = world[ch->in_room].people; tmp_ch;
-	tmp_ch = tmp_ch->next_in_room)
+    tmp_ch = tmp_ch->next_in_room)
     {
       if ( !IS_NPC(tmp_ch) && !PRF_FLAGGED(tmp_ch, PRF_NOHASSLE))
-	{
-	  act("$n exclaims, 'Dirty Orange Scum!'", FALSE, ch, NULL, NULL,
-	      TO_ROOM);
-	  hit(ch, tmp_ch, TYPE_UNDEFINED);
-	  return TRUE;
-	}
+    {
+      act("$n exclaims, 'Dirty Orange Scum!'", FALSE, ch, NULL, NULL,
+          TO_ROOM);
+      hit(ch, tmp_ch, TYPE_UNDEFINED);
+      return TRUE;
+    }
     }
 
   return FALSE;
@@ -1438,24 +1438,24 @@ SPECIAL(take_to_jail)
   for (tch = world[ch->in_room].people; tch; tch = tch->next_in_room)
     {
       if (!IS_NPC(tch) && CAN_SEE(ch, tch) &&
-	  IS_SET_AR(PLR_FLAGS(tch), PLR_OUTLAW))
-	{
-	  act("$n says 'We don't like OUTLAWS like you in this city!'",
-	      FALSE, ch, 0, 0, TO_ROOM);
-	  hit(ch, tch, TYPE_UNDEFINED);
-	  return (fighter(ch, ch, 0, NULL));
-	}
+      IS_SET_AR(PLR_FLAGS(tch), PLR_OUTLAW))
+    {
+      act("$n says 'We don't like OUTLAWS like you in this city!'",
+          FALSE, ch, 0, 0, TO_ROOM);
+      hit(ch, tch, TYPE_UNDEFINED);
+      return (fighter(ch, ch, 0, NULL));
+    }
       else if (breed_killer(ch, ch, 0, NULL))
-	  return (TRUE);
+      return (TRUE);
       else if (CAN_SEE(ch, tch) && FIGHTING(tch))
-	{
-	  if ((GET_ALIGNMENT(tch) < max_evil) &&
-	      (!IS_NPC(tch) || IS_NPC(FIGHTING(tch))))
-	    {
-	      max_evil = GET_ALIGNMENT(tch);
-	      evil = tch;
-	    }
-	}
+    {
+      if ((GET_ALIGNMENT(tch) < max_evil) &&
+          (!IS_NPC(tch) || IS_NPC(FIGHTING(tch))))
+        {
+          max_evil = GET_ALIGNMENT(tch);
+          evil = tch;
+        }
+    }
      }
      if (evil && (GET_ALIGNMENT(FIGHTING(evil)) >= 0))
        {
@@ -1483,7 +1483,7 @@ SPECIAL(jail)
       act("The guard says, 'Time's up, scum!'", TRUE, ch, 0, ch, TO_VICT);
       act("$N gets thrown out of the cell!", TRUE, ch, 0, ch, TO_NOTVICT);
       act("The guard throws you out of the cell!\r\n",
-		TRUE, ch, 0, ch, TO_VICT);;
+        TRUE, ch, 0, ch, TO_VICT);;
       char_from_room(ch);
       char_to_room(ch, real_room(8117));
       look_at_room(ch, 0);
@@ -1502,25 +1502,25 @@ eq_sound(struct char_data *ch)
   for (i = 0; i < NUM_WEARS && !to_room && !to_char; i++)
   {
     if ( !(number(0,52)) && (obj = GET_EQ(ch, i)) )
-	switch (GET_OBJ_VNUM(obj))
-	{
-	case 2753:
-		to_room = "A stream of smoke trails off of $p that $n wields.";
-		to_char = "A stream of smoke trails off of $p.";
-		break;
-	case 4108:
-		to_char = "You feel a vibration from $p.";
-		break;
-	case 4801:
-	case 4802:
-		to_room = "$n swings $p through the air, making a "
-			"shrill whistling sound.";
-		to_char = "You casually twirl $p around, making a "
-			"shrill whistling sound.";
-		break;
-	default:
-		break;
-	}
+    switch (GET_OBJ_VNUM(obj))
+    {
+    case 2753:
+        to_room = "A stream of smoke trails off of $p that $n wields.";
+        to_char = "A stream of smoke trails off of $p.";
+        break;
+    case 4108:
+        to_char = "You feel a vibration from $p.";
+        break;
+    case 4801:
+    case 4802:
+        to_room = "$n swings $p through the air, making a "
+            "shrill whistling sound.";
+        to_char = "You casually twirl $p around, making a "
+            "shrill whistling sound.";
+        break;
+    default:
+        break;
+    }
   }
   if (to_char != NULL)
     act(to_char, TRUE, ch, obj, NULL, TO_CHAR);
@@ -1558,24 +1558,24 @@ SPECIAL(medusa)
     return(FALSE);
   skip_spaces(&argument);
   if (!( (CMD_IS("look") || CMD_IS("examine")) &&
-	 isname(argument, mobile->player.name) ))
+     isname(argument, mobile->player.name) ))
     return(FALSE);
 
   if(!mag_savingthrow(ch, SAVING_PETRI))
    {
-	char mybuf[MAX_STRING_LENGTH];
-	act("With a sound like that of a crashing wave, $N slowly "
-	    "turns to stone!", FALSE, ch, 0, ch, TO_NOTVICT);
-	act("With growing horror and increasing agony, your body slowly turns"
-	    " to stone!", FALSE, ch, 0, 0, TO_CHAR);
+    char mybuf[MAX_STRING_LENGTH];
+    act("With a sound like that of a crashing wave, $N slowly "
+        "turns to stone!", FALSE, ch, 0, ch, TO_NOTVICT);
+    act("With growing horror and increasing agony, your body slowly turns"
+        " to stone!", FALSE, ch, 0, 0, TO_CHAR);
         sprintf(mybuf, "%s killed by Medusa special at %s",
-		GET_NAME(ch), world[ch->in_room].name);
+        GET_NAME(ch), world[ch->in_room].name);
         mudlog(mybuf, BRF, LVL_IMMORT, TRUE);
         GET_DEATHS(ch)++;
 
-	gain_exp(ch, -(GET_LEVEL(ch)*GET_LEVEL(ch)*GET_LEVEL(ch)));
-	raw_kill(ch, SPELL_PETRIFY);
-	return(TRUE);
+    gain_exp(ch, -(GET_LEVEL(ch)*GET_LEVEL(ch)*GET_LEVEL(ch)));
+    raw_kill(ch, SPELL_PETRIFY);
+    return(TRUE);
    }
   return(FALSE);
 }
@@ -1587,26 +1587,26 @@ npc_kender_steal(struct char_data *ch, struct char_data *victim)
   for (tmp_obj = victim->carrying; tmp_obj; tmp_obj = tmp_obj->next_content)
     {
       if (CAN_SEE_OBJ(ch, tmp_obj) && (number(0, 60) < GET_LEVEL(ch)))
-	{
-	  int percent = number(1, 101);
+    {
+      int percent = number(1, 101);
 
-	  if (GET_POS(victim) < POS_SLEEPING)
-	    percent = -1; /* Success */
+      if (GET_POS(victim) < POS_SLEEPING)
+        percent = -1; /* Success */
 
-	  if (GET_LEVEL(victim) >= LVL_IMMORT ||
-	      (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)))
-	    percent = 101; /* Failure */
+      if (GET_LEVEL(victim) >= LVL_IMMORT ||
+          (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)))
+        percent = 101; /* Failure */
 
-	  if (GET_LEVEL(ch) > LVL_IMMORT && GET_LEVEL(victim) < GET_LEVEL(ch))
-	    percent = -1;  /* Success */
+      if (GET_LEVEL(ch) > LVL_IMMORT && GET_LEVEL(victim) < GET_LEVEL(ch))
+        percent = -1;  /* Success */
 
-	  if ( (!IS_NPC(victim)) && (percent < number(50,100)) )
-	    {
-	      obj_from_char(tmp_obj);
-	      obj_to_char(tmp_obj, ch);
-	      return;
-	    }
-	}
+      if ( (!IS_NPC(victim)) && (percent < number(50,100)) )
+        {
+          obj_from_char(tmp_obj);
+          obj_to_char(tmp_obj, ch);
+          return;
+        }
+    }
     }
 }
 
@@ -1623,17 +1623,17 @@ SPECIAL(eq_thief)
   for (cons = world[ch->in_room].people; cons; cons = cons->next_in_room)
     if (!IS_NPC(cons) && (GET_LEVEL(cons) < LVL_IMMORT) && (!number(0, 4)))
       {
-	ACMD(do_drop);
-	struct obj_data *obj = NULL;
+    ACMD(do_drop);
+    struct obj_data *obj = NULL;
         npc_kender_steal(ch, cons);
-	obj = ch->carrying;
-	if (obj && (GET_OBJ_TYPE(obj) == ITEM_CONTAINER))
-	{
-	  char mybuf[256];
-	  sprintf(mybuf, "all.black %s", OBJN(obj,ch));
-	  do_get(ch, mybuf, 0, 0);
-	}
-	if ((obj = (get_obj_in_list_vis(ch, "black", ch->carrying))))
+    obj = ch->carrying;
+    if (obj && (GET_OBJ_TYPE(obj) == ITEM_CONTAINER))
+    {
+      char mybuf[256];
+      sprintf(mybuf, "all.black %s", OBJN(obj,ch));
+      do_get(ch, mybuf, 0, 0);
+    }
+    if ((obj = (get_obj_in_list_vis(ch, "black", ch->carrying))))
         {
           /* fake a junking */
           act("You junk $p. It vanishes in a puff of smoke!", FALSE, ch, obj, 0, TO_CHAR);
@@ -1665,12 +1665,12 @@ SPECIAL(portal_room)
    stc("\r\nWith a blinding flash of light and a crack of thunder, you are"
        " teleported...\r\n", ch);
    act ("\r\nWith a blinding flash of light and a crack of thunder, $n "
-	"disappears!\r\n\r\n", FALSE, ch, NULL, NULL, TO_ROOM);
+    "disappears!\r\n\r\n", FALSE, ch, NULL, NULL, TO_ROOM);
 
    char_from_room(ch);
    char_to_room(ch, location);
    act ("\r\nWith a blinding flash of light and a crack of thunder, $n "
-	"appears!\r\n\r\n", FALSE, ch, NULL, NULL, TO_ROOM);
+    "appears!\r\n\r\n", FALSE, ch, NULL, NULL, TO_ROOM);
    do_look(ch,"",0,0);
 
    return(TRUE);
@@ -1690,14 +1690,14 @@ SPECIAL(breed_killer)
 
   for (i=world[ch->in_room].people; i; i=i->next_in_room)
      if (IS_NIGHTBREED(i))
-	{
-	 found = TRUE;
-	 break;
-	}
+    {
+     found = TRUE;
+     break;
+    }
   if (found && CAN_SEE(mob, i))
   {
    if (can_speak(mob)  && !PRF_FLAGGED(i, PRF_NOHASSLE))
-	act("$n exclaims, 'Die, nightbreed!!'", TRUE, ch, 0, 0, TO_ROOM);
+    act("$n exclaims, 'Die, nightbreed!!'", TRUE, ch, 0, 0, TO_ROOM);
    else if (!number(0, 5)) {
         act("You hear a low growl in the back of $n's throat.",
             FALSE, ch, 0, 0, TO_ROOM);
@@ -1705,19 +1705,19 @@ SPECIAL(breed_killer)
    if (GET_EQ(mob, WEAR_WIELD))
    {
       if (strstr(OBJN(GET_EQ(mob, WEAR_WIELD), mob), "spike")  ||
-	  strstr(OBJN(GET_EQ(mob, WEAR_WIELD), mob), "stake") )
-	{
-	  int scmd;
-	  if (strstr(OBJN(GET_EQ(mob, WEAR_WIELD), mob), "spike"))
-		scmd = SCMD_SPIKE;
-	  else
-		scmd = SCMD_STAKE;
-	  do_spike(mob, GET_NAME(i), 0, scmd);
-	}
+      strstr(OBJN(GET_EQ(mob, WEAR_WIELD), mob), "stake") )
+    {
+      int scmd;
+      if (strstr(OBJN(GET_EQ(mob, WEAR_WIELD), mob), "spike"))
+        scmd = SCMD_SPIKE;
+      else
+        scmd = SCMD_STAKE;
+      do_spike(mob, GET_NAME(i), 0, scmd);
+    }
    }
    if (i && i->in_room == mob->in_room && !PRF_FLAGGED(i, PRF_NOHASSLE)
         && CAN_SEE(mob, i))
-	hit(mob, i, TYPE_UNDEFINED);
+    hit(mob, i, TYPE_UNDEFINED);
    return(TRUE);
   }
   return(FALSE);
@@ -1735,18 +1735,18 @@ SPECIAL(carrion)
       skip_spaces(&argument);
 
       if ( (!*argument) ||
-	   (!strstr(argument, "corpse") && !strstr(argument, "corpses") &&
-	    !strstr(argument, "pile")) )
-	return(FALSE);
+       (!strstr(argument, "corpse") && !strstr(argument, "corpses") &&
+        !strstr(argument, "pile")) )
+    return(FALSE);
 
       if ((i = read_mobile(14308, VIRTUAL)))
       {
-	GET_LEVEL(i) = GET_LEVEL(ch);
-	GET_DAMROLL(i) = GET_LEVEL(ch);
-	char_to_room(i, ch->in_room);
-	act("Suddenly $n skitters from out of a corpse!",
-		TRUE, i, 0, 0, TO_ROOM);
-	hit(i, ch, TYPE_UNDEFINED);
+    GET_LEVEL(i) = GET_LEVEL(ch);
+    GET_DAMROLL(i) = GET_LEVEL(ch);
+    char_to_room(i, ch->in_room);
+    act("Suddenly $n skitters from out of a corpse!",
+        TRUE, i, 0, 0, TO_ROOM);
+    hit(i, ch, TYPE_UNDEFINED);
         return(TRUE);
        }
     }
@@ -1777,44 +1777,44 @@ SPECIAL(bat)
   {
    case 0:
    case 1:
-	act("$n swoops down, narrowly missing your face.",
-		TRUE, mobile, 0, 0, TO_ROOM);
-	break;
+    act("$n swoops down, narrowly missing your face.",
+        TRUE, mobile, 0, 0, TO_ROOM);
+    break;
    case 2:
    case 3:
-	act("$n lets out a shrill, piercing scream.",
-		TRUE, mobile, 0, 0, TO_ROOM);
-	break;
+    act("$n lets out a shrill, piercing scream.",
+        TRUE, mobile, 0, 0, TO_ROOM);
+    break;
    case 4:
    case 5:
-	act("Circling around your head, $n lets out a high-pitched shriek.",
-		TRUE, mobile, 0, 0, TO_ROOM);
-	break;
+    act("Circling around your head, $n lets out a high-pitched shriek.",
+        TRUE, mobile, 0, 0, TO_ROOM);
+    break;
    default:
    {
-	struct char_data *i, *bat = NULL;
-	bool waking = FALSE;
+    struct char_data *i, *bat = NULL;
+    bool waking = FALSE;
 
-  	for (i=world[mobile->in_room].people; i; i=i->next_in_room)
-		if (!IS_NPC(i))
-			waking = TRUE;
-	if (!waking)/* go to sleep */
-	{
-		GET_POS(mobile) = POS_SLEEPING;
-		update_pos(mobile);
-		return(TRUE);
-	}
-  	for (i=world[mobile->in_room].people; i; i=i->next_in_room)
-	  if (isname("bat", i->player.name) && !AWAKE(i))
-		bat = i;
-	if (bat)
-	{
-		act("$n wakes $n up with it's flapping!",
-			TRUE, mobile, 0, bat, TO_ROOM);
-		GET_POS(bat) = POS_STANDING;
-		update_pos(bat);
-		return(TRUE);
-	}
+    for (i=world[mobile->in_room].people; i; i=i->next_in_room)
+        if (!IS_NPC(i))
+            waking = TRUE;
+    if (!waking)/* go to sleep */
+    {
+        GET_POS(mobile) = POS_SLEEPING;
+        update_pos(mobile);
+        return(TRUE);
+    }
+    for (i=world[mobile->in_room].people; i; i=i->next_in_room)
+      if (isname("bat", i->player.name) && !AWAKE(i))
+        bat = i;
+    if (bat)
+    {
+        act("$n wakes $n up with it's flapping!",
+            TRUE, mobile, 0, bat, TO_ROOM);
+        GET_POS(bat) = POS_STANDING;
+        update_pos(bat);
+        return(TRUE);
+    }
    }
   }
   return(FALSE);
@@ -1833,9 +1833,9 @@ SPECIAL(no_move_east)
     if (CMD_IS("east") && GET_LEVEL(ch) < LEVEL_IMMORT )
        {
            act("$n humiliates $N, and blocks $S way.",
-		FALSE, mobile, 0, ch, TO_NOTVICT) ;
-	   act("$n humiliates you and blocks your way.",
-		FALSE, mobile, 0, ch, TO_VICT) ;
+        FALSE, mobile, 0, ch, TO_NOTVICT) ;
+       act("$n humiliates you and blocks your way.",
+        FALSE, mobile, 0, ch, TO_VICT) ;
            return TRUE ;
        }
     return FALSE ;
@@ -1855,7 +1855,7 @@ is_owner(struct char_data *ch, int room_vnum)
 
    /* let the house owner in */
    if (ch && (GET_IDNUM(ch) == house_control[i].owner))
-	return TRUE;
+    return TRUE;
 
    /* let any house guests in */
    for (j = 0; j < house_control[i].num_of_guests; j++)
@@ -1943,28 +1943,28 @@ SPECIAL(castle_guard_east)
        return FALSE;
 
     if (cmd && CMD_IS("east") && GET_LEVEL(ch) < LEVEL_IMMORT  && (mobile!=ch)&&
-	!is_owner(ch, world[ch->in_room].number+2))
+    !is_owner(ch, world[ch->in_room].number+2))
     {
       if( ch->master &&
-	  (ch->master == ch || are_grouped(ch, ch->master)) &&
-	  (is_owner(ch->master, world[ch->in_room].number+2)) )
-	act("$n snaps to attention as you pass.", FALSE, mobile, 0, 0, TO_ROOM);
+      (ch->master == ch || are_grouped(ch, ch->master)) &&
+      (is_owner(ch->master, world[ch->in_room].number+2)) )
+    act("$n snaps to attention as you pass.", FALSE, mobile, 0, 0, TO_ROOM);
       else
       {
-	act("$n yells, 'Stay outta there!'", FALSE, mobile, 0, 0, TO_ROOM);
-	hit(mobile, ch, TYPE_UNDEFINED);
-	return(TRUE);
+    act("$n yells, 'Stay outta there!'", FALSE, mobile, 0, 0, TO_ROOM);
+    hit(mobile, ch, TYPE_UNDEFINED);
+    return(TRUE);
       }
     }
     if (!cmd)
      for (i=world[mobile->in_room].people; i; i=i->next_in_room)
      {
-	if (!FIGHTING(mobile) && FIGHTING(i) &&
-	    GET_MOB_SPEC(i)==castle_guard_east && FIGHTING(i)!=mobile)
-	{
-	  hit(mobile, FIGHTING(i), TYPE_UNDEFINED);
-	  return(TRUE);
-	}
+    if (!FIGHTING(mobile) && FIGHTING(i) &&
+        GET_MOB_SPEC(i)==castle_guard_east && FIGHTING(i)!=mobile)
+    {
+      hit(mobile, FIGHTING(i), TYPE_UNDEFINED);
+      return(TRUE);
+    }
      }
     return(FALSE);
 }
@@ -1973,29 +1973,29 @@ SPECIAL(mindflayer)
 {
   struct char_data *vict = NULL;
   if (cmd || !FIGHTING(ch) || !AWAKE(ch))
-	return(FALSE);
+    return(FALSE);
   vict = FIGHTING(ch);
 
   switch(number(0,15))
   {
-	case 0:
+    case 0:
         case 5:
-		act("The tentacles on $n's face surge forward, wrapping "
-		    "around $N's head!", FALSE, ch, 0, vict, TO_NOTVICT);
-		act("The tentacles on $n's face surge forward, wrapping "
-		    "around your head!", FALSE, ch, 0, vict, TO_VICT);
-		damage(ch, vict, GET_LEVEL(vict), SPELL_SOUL_LEECH);
-		GET_HIT(ch)+=GET_LEVEL(vict);
-		break;
-	case 15:
-		act("Blood runs from $N's nose and ears as $n stares "
-			"intently at $M.", FALSE, ch, 0, vict, TO_NOTVICT);
-		act("$n stares intently at you.. you feel $m battering "
-		 	"your mind!", FALSE, ch, 0, vict, TO_VICT);
-		damage(ch, vict, GET_LEVEL(ch), SPELL_PSIBLAST);
-		break;
-	default:
-		return(FALSE);
+        act("The tentacles on $n's face surge forward, wrapping "
+            "around $N's head!", FALSE, ch, 0, vict, TO_NOTVICT);
+        act("The tentacles on $n's face surge forward, wrapping "
+            "around your head!", FALSE, ch, 0, vict, TO_VICT);
+        damage(ch, vict, GET_LEVEL(vict), SPELL_SOUL_LEECH);
+        GET_HIT(ch)+=GET_LEVEL(vict);
+        break;
+    case 15:
+        act("Blood runs from $N's nose and ears as $n stares "
+            "intently at $M.", FALSE, ch, 0, vict, TO_NOTVICT);
+        act("$n stares intently at you.. you feel $m battering "
+            "your mind!", FALSE, ch, 0, vict, TO_VICT);
+        damage(ch, vict, GET_LEVEL(ch), SPELL_PSIBLAST);
+        break;
+    default:
+        return(FALSE);
   }
   return(TRUE);
 }
@@ -2005,14 +2005,14 @@ SPECIAL(backstabber)
      struct char_data *i = NULL;
 
      if (cmd || FIGHTING(ch) || !AWAKE(ch))
-	return(FALSE);
+    return(FALSE);
 
      for (i=world[ch->in_room].people; i; i=i->next_in_room)
-	if (!IS_NPC(i) && !PRF_FLAGGED(i, PRF_NOHASSLE) && CAN_SEE(ch, i))
-	{
-	 do_backstab(ch, GET_NAME(i), 0, 1);
-	 return(TRUE);
-	}
+    if (!IS_NPC(i) && !PRF_FLAGGED(i, PRF_NOHASSLE) && CAN_SEE(ch, i))
+    {
+     do_backstab(ch, GET_NAME(i), 0, 1);
+     return(TRUE);
+    }
      return(FALSE);
 }
 
@@ -2043,9 +2043,9 @@ SPECIAL(no_move_west)
     if (CMD_IS("west") && GET_LEVEL(ch) < LEVEL_IMMORT )
        {
            act("$n humiliates $N, and blocks $S way.",
-		FALSE, mobile, 0, ch, TO_NOTVICT) ;
-	   act("$n humiliates you and blocks your way.",
-		FALSE, mobile, 0, ch, TO_VICT) ;
+        FALSE, mobile, 0, ch, TO_NOTVICT) ;
+       act("$n humiliates you and blocks your way.",
+        FALSE, mobile, 0, ch, TO_VICT) ;
            return TRUE ;
        }
     return FALSE ;
@@ -2064,9 +2064,9 @@ SPECIAL(no_move_north)
     if (CMD_IS("north") && GET_LEVEL(ch) < LEVEL_IMMORT )
        {
            act("$n blocks $N's way.", FALSE, mobile, 0, ch, TO_NOTVICT) ;
-	   act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT) ;
-	   act("$n says 'I cannot let you pass.'",
-		FALSE, mobile, 0, 0, TO_ROOM) ;
+       act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT) ;
+       act("$n says 'I cannot let you pass.'",
+        FALSE, mobile, 0, 0, TO_ROOM) ;
            return TRUE ;
        }
     return FALSE ;
@@ -2081,7 +2081,7 @@ SPECIAL(never_die)
 
       if (GET_HIT(mobile)<GET_MAX_HIT(mobile))
       {
-  	GET_HIT(mobile)=GET_MAX_HIT(mobile);
+    GET_HIT(mobile)=GET_MAX_HIT(mobile);
         update_pos(mobile);
         return TRUE;
       }
@@ -2102,9 +2102,9 @@ SPECIAL(no_move_south)
     if (CMD_IS("south") && GET_LEVEL(ch) < LEVEL_IMMORT )
        {
            act("$n blocks $N's way.", FALSE, mobile, 0, ch, TO_NOTVICT) ;
-	   act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT) ;
-	   act("$n says 'Thou shalt not pass.'",
-		FALSE, mobile, 0, 0, TO_ROOM) ;
+       act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT) ;
+       act("$n says 'Thou shalt not pass.'",
+        FALSE, mobile, 0, 0, TO_ROOM) ;
            return TRUE ;
        }
     return FALSE ;
@@ -2123,9 +2123,9 @@ SPECIAL(chosen_guard)
     if (CMD_IS("south"))
        {
            act("$n blocks $N's way.", FALSE, mobile, 0, ch, TO_NOTVICT) ;
-	   act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT) ;
-	   act("$n says 'Thou shalt not pass.'",
-		FALSE, mobile, 0, 0, TO_ROOM) ;
+       act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT) ;
+       act("$n says 'Thou shalt not pass.'",
+        FALSE, mobile, 0, 0, TO_ROOM) ;
            return TRUE ;
        }
     return FALSE ;
@@ -2155,7 +2155,7 @@ SPECIAL(castle_guard_down)
       else
       {
         act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT);
-	act("$n blocks $N's path.", FALSE, mobile, 0, ch, TO_NOTVICT);
+    act("$n blocks $N's path.", FALSE, mobile, 0, ch, TO_NOTVICT);
         act("$n states, 'Thou shalt not pass.'", FALSE, mobile, 0, 0, TO_ROOM);
         return(TRUE);
       }
@@ -2197,7 +2197,7 @@ SPECIAL(castle_guard_up)
       else
       {
         act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT);
-	act("$n blocks $N's path.", FALSE, mobile, 0, ch, TO_NOTVICT);
+    act("$n blocks $N's path.", FALSE, mobile, 0, ch, TO_NOTVICT);
         act("$n states, 'Thou shalt not pass.'", FALSE, mobile, 0, 0, TO_ROOM);
         return(TRUE);
       }
@@ -2239,7 +2239,7 @@ SPECIAL(castle_guard_north)
       else
       {
         act("$n blocks your way.", FALSE, mobile, 0, ch, TO_VICT);
-	act("$n blocks $N's path.", FALSE, mobile, 0, ch, TO_NOTVICT);
+    act("$n blocks $N's path.", FALSE, mobile, 0, ch, TO_NOTVICT);
         act("$n states, 'Thou shalt not pass.'", FALSE, mobile, 0, 0, TO_ROOM);
         return(TRUE);
       }
@@ -2291,7 +2291,7 @@ SPECIAL(wall_guard_ns)
         act("$n snaps to attention and salutes $N!", TRUE,  ch, 0, tch, TO_ROOM);
         act("$n says, 'Hello gents!'", TRUE, ch, 0, tch, TO_ROOM);
         act("$N nods at $n.", TRUE, ch, 0, tch, TO_ROOM);
-	act("$N says, 'On your way, soldier!'", TRUE, ch, 0, tch, TO_ROOM);
+    act("$N says, 'On your way, soldier!'", TRUE, ch, 0, tch, TO_ROOM);
         talk = FALSE;
       }
     }

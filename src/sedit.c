@@ -1,8 +1,8 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 *  _TwyliteMud_ by Rv.                          Based on CircleMud3.0bpl9 *
-*    				                                          *
-*  OasisOLC - sedit.c 		                                          *
-*    				                                          *
+*                                                             *
+*  OasisOLC - sedit.c                                                 *
+*                                                             *
 *  Copyright 1996 Harvey Gilpin.                                          *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
@@ -17,51 +17,51 @@
 
 /*-------------------------------------------------------------------*/
 /* external variables */
-extern struct shop_data *shop_index;		/*. shop.c	.*/
-extern int top_shop;				/*. shop.c	.*/
-extern struct char_data *mob_proto;		/*. db.c	.*/
-extern struct obj_data *obj_proto;		/*. db.c	.*/
-extern struct room_data *world;			/*. db.c	.*/
-extern struct zone_data *zone_table;		/*. db.c	.*/
-extern struct index_data *mob_index;		/*. db.c	.*/
-extern struct index_data *obj_index;		/*. db.c	.*/
-extern char *trade_letters[];			/*. shop.h	.*/
-extern char *shop_bits[];			/*. shop.h	.*/
-extern char *item_types[];			/*. constants.c	.*/
+extern struct shop_data *shop_index;        /*. shop.c  .*/
+extern int top_shop;                /*. shop.c  .*/
+extern struct char_data *mob_proto;     /*. db.c    .*/
+extern struct obj_data *obj_proto;      /*. db.c    .*/
+extern struct room_data *world;         /*. db.c    .*/
+extern struct zone_data *zone_table;        /*. db.c    .*/
+extern struct index_data *mob_index;        /*. db.c    .*/
+extern struct index_data *obj_index;        /*. db.c    .*/
+extern char *trade_letters[];           /*. shop.h  .*/
+extern char *shop_bits[];           /*. shop.h  .*/
+extern char *item_types[];          /*. constants.c .*/
 
 /*-------------------------------------------------------------------*/
 /*. Handy  macros .*/
 
-#define S_NUM(i)		((i)->virtual)
-#define S_KEEPER(i)		((i)->keeper)
-#define S_OPEN1(i)		((i)->open1)
-#define S_CLOSE1(i)		((i)->close1)
-#define S_OPEN2(i)		((i)->open2)
-#define S_CLOSE2(i)		((i)->close2)
-#define S_BANK(i)		((i)->bankAccount)
-#define S_BROKE_TEMPER(i)	((i)->temper1)
-#define S_BITVECTOR(i)		((i)->bitvector)
-#define S_NOTRADE(i)		((i)->with_who)
-#define S_SORT(i)		((i)->lastsort)
-#define S_BUYPROFIT(i)		((i)->profit_buy)
-#define S_SELLPROFIT(i)		((i)->profit_sell)
-#define S_FUNC(i)		((i)->func)
+#define S_NUM(i)        ((i)->virtual)
+#define S_KEEPER(i)     ((i)->keeper)
+#define S_OPEN1(i)      ((i)->open1)
+#define S_CLOSE1(i)     ((i)->close1)
+#define S_OPEN2(i)      ((i)->open2)
+#define S_CLOSE2(i)     ((i)->close2)
+#define S_BANK(i)       ((i)->bankAccount)
+#define S_BROKE_TEMPER(i)   ((i)->temper1)
+#define S_BITVECTOR(i)      ((i)->bitvector)
+#define S_NOTRADE(i)        ((i)->with_who)
+#define S_SORT(i)       ((i)->lastsort)
+#define S_BUYPROFIT(i)      ((i)->profit_buy)
+#define S_SELLPROFIT(i)     ((i)->profit_sell)
+#define S_FUNC(i)       ((i)->func)
 
-#define S_ROOMS(i)		((i)->in_room)
-#define S_PRODUCTS(i)		((i)->producing)
-#define S_NAMELISTS(i)		((i)->type)
-#define S_ROOM(i, num)		((i)->in_room[(num)])
-#define S_PRODUCT(i, num)	((i)->producing[(num)])
-#define S_BUYTYPE(i, num)	(BUY_TYPE((i)->type[(num)]))
-#define S_BUYWORD(i, num)	(BUY_WORD((i)->type[(num)]))
+#define S_ROOMS(i)      ((i)->in_room)
+#define S_PRODUCTS(i)       ((i)->producing)
+#define S_NAMELISTS(i)      ((i)->type)
+#define S_ROOM(i, num)      ((i)->in_room[(num)])
+#define S_PRODUCT(i, num)   ((i)->producing[(num)])
+#define S_BUYTYPE(i, num)   (BUY_TYPE((i)->type[(num)]))
+#define S_BUYWORD(i, num)   (BUY_WORD((i)->type[(num)]))
 
-#define S_NOITEM1(i)		((i)->no_such_item1)
-#define S_NOITEM2(i)		((i)->no_such_item2)
-#define S_NOCASH1(i)		((i)->missing_cash1)
-#define S_NOCASH2(i)		((i)->missing_cash2)
-#define S_NOBUY(i)		((i)->do_not_buy)
-#define S_BUY(i)		((i)->message_buy)
-#define S_SELL(i)		((i)->message_sell)
+#define S_NOITEM1(i)        ((i)->no_such_item1)
+#define S_NOITEM2(i)        ((i)->no_such_item2)
+#define S_NOCASH1(i)        ((i)->missing_cash1)
+#define S_NOCASH2(i)        ((i)->missing_cash2)
+#define S_NOBUY(i)      ((i)->do_not_buy)
+#define S_BUY(i)        ((i)->message_buy)
+#define S_SELL(i)       ((i)->message_sell)
 
 /*-------------------------------------------------------------------*/
 /*. Function prototypes .*/
@@ -513,16 +513,16 @@ void sedit_save_to_disk(struct descriptor_data *d)
 
       /*. Save messages'n'stuff .*/
       fprintf(shop_file,
-	"%s~\n%s~\n%s~\n%s~\n%s~\n%s~\n%s~\n"
+    "%s~\n%s~\n%s~\n%s~\n%s~\n%s~\n%s~\n"
         "%d\n%d\n%d\n%d\n",
         /*. Added some small'n'silly defaults as sanity checks .*/
-	S_NOITEM1(shop) ? S_NOITEM1(shop) : "%s Ke?!",
-	S_NOITEM2(shop) ? S_NOITEM2(shop) : "%s Ke?!",
-	S_NOBUY(shop) ? S_NOBUY(shop) : "%s Ke?!",
-	S_NOCASH1(shop) ? S_NOCASH1(shop) : "%s Ke?!",
-	S_NOCASH2(shop) ? S_NOCASH2(shop) : "%s Ke?!",
-	S_BUY(shop) ? S_BUY(shop) : "%s Ke?! %d?",
-	S_SELL(shop) ? S_SELL(shop) : "%s Ke?! %d?",
+    S_NOITEM1(shop) ? S_NOITEM1(shop) : "%s Ke?!",
+    S_NOITEM2(shop) ? S_NOITEM2(shop) : "%s Ke?!",
+    S_NOBUY(shop) ? S_NOBUY(shop) : "%s Ke?!",
+    S_NOCASH1(shop) ? S_NOCASH1(shop) : "%s Ke?!",
+    S_NOCASH2(shop) ? S_NOCASH2(shop) : "%s Ke?!",
+    S_BUY(shop) ? S_BUY(shop) : "%s Ke?! %d?",
+    S_SELL(shop) ? S_SELL(shop) : "%s Ke?! %d?",
         S_BROKE_TEMPER(shop),
         S_BITVECTOR(shop),
         mob_index[S_KEEPER(shop)].virtual,
@@ -538,10 +538,10 @@ void sedit_save_to_disk(struct descriptor_data *d)
 
       /*. Save open/closing times.*/
       fprintf(shop_file, "%d\n%d\n%d\n%d\n",
-	S_OPEN1(shop),
-	S_CLOSE1(shop),
-	S_OPEN2(shop),
-	S_CLOSE2(shop)
+    S_OPEN1(shop),
+    S_CLOSE1(shop),
+    S_OPEN2(shop),
+    S_CLOSE2(shop)
       );
     }
   }
@@ -565,19 +565,19 @@ void sedit_products_menu(struct descriptor_data *d)
   send_to_char("\r\n##     VNUM     Product\r\n", d->character);
   for(i=0;  S_PRODUCT(shop, i) != -1; i++)
   { sprintf(buf,
-	"%2d - [%s%5d%s] - %s%s%s\r\n",
+    "%2d - [%s%5d%s] - %s%s%s\r\n",
         i,
-	cyn, obj_index[S_PRODUCT(shop, i)].virtual, nrm,
+    cyn, obj_index[S_PRODUCT(shop, i)].virtual, nrm,
         yel, obj_proto[S_PRODUCT(shop, i)].short_description, nrm
     );
     send_to_char(buf, d->character);
   }
   sprintf(buf, "\r\n"
-	"%sA%s) Add a new product.\r\n"
-	"%sD%s) Delete a product.\r\n"
+    "%sA%s) Add a new product.\r\n"
+    "%sD%s) Delete a product.\r\n"
         "%sQ%s) Quit\r\n"
         "Enter choice : ",
-	grn, nrm, grn, nrm, grn, nrm);
+    grn, nrm, grn, nrm, grn, nrm);
   send_to_char(buf, d->character);
 
   OLC_MODE(d) = SEDIT_PRODUCTS_MENU;
@@ -595,7 +595,7 @@ void sedit_compact_rooms_menu(struct descriptor_data *d)
   send_to_char("\r\n", d->character);
   for(i=0;  S_ROOM(shop, i) != -1; i++)
   { sprintf(buf,
-	"%2d - [%s%5d%s]  | ",
+    "%2d - [%s%5d%s]  | ",
         i, cyn, S_ROOM(shop, i), nrm
     );
     if (!(++count % 5))
@@ -603,12 +603,12 @@ void sedit_compact_rooms_menu(struct descriptor_data *d)
     send_to_char(buf, d->character);
   }
   sprintf(buf, "\r\n"
-	"%sA%s) Add a new room.\r\n"
-	"%sD%s) Delete a room.\r\n"
+    "%sA%s) Add a new room.\r\n"
+    "%sD%s) Delete a room.\r\n"
         "%sL%s) Long display.\r\n"
         "%sQ%s) Quit\r\n"
         "Enter choice : ",
-	grn, nrm, grn, nrm, grn, nrm, grn, nrm);
+    grn, nrm, grn, nrm, grn, nrm, grn, nrm);
   send_to_char(buf, d->character);
 
   OLC_MODE(d) = SEDIT_ROOMS_MENU;
@@ -626,19 +626,19 @@ void sedit_rooms_menu(struct descriptor_data *d)
   send_to_char("[H[J##     VNUM     Room\r\n\r\n", d->character);
   for(i=0;  S_ROOM(shop, i) != -1; i++)
   { sprintf(buf,
-	"%2d - [%s%5d%s] - %s%s%s\r\n",
+    "%2d - [%s%5d%s] - %s%s%s\r\n",
         i, cyn, S_ROOM(shop, i), nrm,
         yel, world[real_room(S_ROOM(shop, i))].name, nrm
     );
     send_to_char(buf, d->character);
   }
   sprintf(buf, "\r\n"
-	"%sA%s) Add a new room.\r\n"
-	"%sD%s) Delete a room.\r\n"
-	"%sC%s) Compact Display.\r\n"
+    "%sA%s) Add a new room.\r\n"
+    "%sD%s) Delete a room.\r\n"
+    "%sC%s) Compact Display.\r\n"
         "%sQ%s) Quit\r\n"
         "Enter choice : ",
-	grn, nrm, grn, nrm, grn, nrm, grn, nrm);
+    grn, nrm, grn, nrm, grn, nrm, grn, nrm);
   send_to_char(buf, d->character);
 
   OLC_MODE(d) = SEDIT_ROOMS_MENU;
@@ -656,18 +656,18 @@ void sedit_namelist_menu(struct descriptor_data *d)
   send_to_char("\r\n##              Type   Namelist\r\n\r\n", d->character);
   for(i=0;  S_BUYTYPE(shop, i) != -1; i++)
   { sprintf(buf,
-	"%2d - %s%15s%s - %s%s%s\r\n",
+    "%2d - %s%15s%s - %s%s%s\r\n",
         i, cyn, item_types[S_BUYTYPE(shop, i)], nrm,
         yel, S_BUYWORD(shop, i) ? S_BUYWORD(shop, i) : "<None>", nrm
     );
     send_to_char(buf, d->character);
   }
   sprintf(buf, "\r\n"
-	"%sA%s) Add a new entry.\r\n"
-	"%sD%s) Delete an entry.\r\n"
+    "%sA%s) Add a new entry.\r\n"
+    "%sD%s) Delete an entry.\r\n"
         "%sQ%s) Quit\r\n"
         "Enter choice : ",
-	grn, nrm, grn, nrm, grn, nrm);
+    grn, nrm, grn, nrm, grn, nrm);
   send_to_char(buf, d->character);
   OLC_MODE(d) = SEDIT_NAMELIST_MENU;
 }
@@ -681,7 +681,7 @@ void sedit_shop_flags_menu(struct descriptor_data *d)
   send_to_char("\r\n", d->character);
   for(i = 0; i < NUM_SHOP_FLAGS; i++)
   { sprintf(buf,
-	"%s%2d%s) %-20.20s   ",
+    "%s%2d%s) %-20.20s   ",
         grn, i+1, nrm, shop_bits[i]
     );
     if (!(++count % 2))
@@ -690,8 +690,8 @@ void sedit_shop_flags_menu(struct descriptor_data *d)
   }
   sprintbit(S_BITVECTOR(OLC_SHOP(d)), shop_bits, buf1);
   sprintf(buf,
-	"\r\nCurrent Shop Flags : %s%s%s\r\n"
-	"Enter choice : ",
+    "\r\nCurrent Shop Flags : %s%s%s\r\n"
+    "Enter choice : ",
         cyn, buf1, nrm
   );
   send_to_char(buf, d->character);
@@ -707,7 +707,7 @@ void sedit_no_trade_menu(struct descriptor_data *d)
   send_to_char("\r\n", d->character);
   for(i = 0; i < NUM_TRADERS; i++)
   { sprintf(buf,
-	"%s%2d%s) %-20.20s   ",
+    "%s%2d%s) %-20.20s   ",
         grn, i+1, nrm, trade_letters[i]
     );
     if (!(++count % 2))
@@ -716,8 +716,8 @@ void sedit_no_trade_menu(struct descriptor_data *d)
   }
   sprintbit(S_NOTRADE(OLC_SHOP(d)), trade_letters, buf1);
   sprintf(buf,
-	"\r\nCurrently won't trade with: %s%s%s\r\n"
-	"Enter choice : ",
+    "\r\nCurrently won't trade with: %s%s%s\r\n"
+    "Enter choice : ",
         cyn, buf1, nrm
   );
   send_to_char(buf, d->character);
@@ -736,9 +736,9 @@ void sedit_types_menu(struct descriptor_data *d)
   send_to_char("\r\n", d->character);
   for(i=0;  i < NUM_ITEM_TYPES; i++)
   { sprintf(buf,
-	"%s%2d%s) %s%-20s%s  ",
+    "%s%2d%s) %s%-20s%s  ",
         grn, i, nrm,
-	cyn, item_types[i], nrm
+    cyn, item_types[i], nrm
     );
     if(!(++count % 3))
       strcat(buf, "\r\n");
@@ -762,9 +762,9 @@ void sedit_disp_menu(struct descriptor_data *d)
   sprintbit(S_NOTRADE(shop), trade_letters, buf1);
   sprintbit(S_BITVECTOR(shop), shop_bits, buf2);
   snprintf(buf, MAX_STRING_LENGTH,
-	"\r\n"
-	"-- Shop Number : [%s%d%s]\r\n"
-	"%s0%s) Keeper      : [%s%d%s] %s%s\r\n"
+    "\r\n"
+    "-- Shop Number : [%s%d%s]\r\n"
+    "%s0%s) Keeper      : [%s%d%s] %s%s\r\n"
         "%s1%s) Open 1      : %s%4d%s          %s2%s) Close 1     : %s%4d\r\n"
         "%s3%s) Open 2      : %s%4d%s          %s4%s) Close 2     : %s%4d\r\n"
         "%s5%s) Sell rate   : %s%1.2f%s          %s6%s) Buy rate    : %s%1.2f\r\n"
@@ -783,27 +783,27 @@ void sedit_disp_menu(struct descriptor_data *d)
         "%sQ%s) Quit\r\n"
         "Enter Choice : ",
 
-	cyn, OLC_NUM(d), nrm,
-	grn, nrm, cyn, S_KEEPER(shop) == -1 ?
+    cyn, OLC_NUM(d), nrm,
+    grn, nrm, cyn, S_KEEPER(shop) == -1 ?
                        -1 : mob_index[S_KEEPER(shop)].virtual, nrm,
                   yel, S_KEEPER(shop) == -1 ?
                        "None" : mob_proto[S_KEEPER(shop)].player.short_descr,
-	grn, nrm, cyn, S_OPEN1(shop), nrm,
-	grn, nrm, cyn, S_CLOSE1(shop),
-	grn, nrm, cyn, S_OPEN2(shop), nrm,
-	grn, nrm, cyn, S_CLOSE2(shop),
-	grn, nrm, cyn, S_BUYPROFIT(shop), nrm,
-	grn, nrm, cyn, S_SELLPROFIT(shop),
-	grn, nrm, yel, S_NOITEM1(shop),
-	grn, nrm, yel, S_NOITEM2(shop),
-	grn, nrm, yel, S_NOCASH1(shop),
-	grn, nrm, yel, S_NOCASH2(shop),
-	grn, nrm, yel, S_NOBUY(shop),
-	grn, nrm, yel, S_BUY(shop),
-	grn, nrm, yel, S_SELL(shop),
+    grn, nrm, cyn, S_OPEN1(shop), nrm,
+    grn, nrm, cyn, S_CLOSE1(shop),
+    grn, nrm, cyn, S_OPEN2(shop), nrm,
+    grn, nrm, cyn, S_CLOSE2(shop),
+    grn, nrm, cyn, S_BUYPROFIT(shop), nrm,
+    grn, nrm, cyn, S_SELLPROFIT(shop),
+    grn, nrm, yel, S_NOITEM1(shop),
+    grn, nrm, yel, S_NOITEM2(shop),
+    grn, nrm, yel, S_NOCASH1(shop),
+    grn, nrm, yel, S_NOCASH2(shop),
+    grn, nrm, yel, S_NOBUY(shop),
+    grn, nrm, yel, S_BUY(shop),
+    grn, nrm, yel, S_SELL(shop),
         grn, nrm, cyn, buf1,
         grn, nrm, cyn, buf2,
-	grn, nrm, grn, nrm, grn, nrm, grn, nrm
+    grn, nrm, grn, nrm, grn, nrm, grn, nrm
   );
   send_to_char(buf, d->character);
 
@@ -943,7 +943,7 @@ void sedit_parse(struct descriptor_data * d, char *arg)
         return;
       default:
         sedit_disp_menu(d);
-	return;
+    return;
     }
 
     if (i==1)
@@ -997,7 +997,7 @@ void sedit_parse(struct descriptor_data * d, char *arg)
       case 'A':
         send_to_char("\r\nEnter new room virtual number, ", d->character);
         send_to_char("\r\nor 1 to make the keeper sell anywhere : ",
-		d->character);
+        d->character);
         OLC_MODE(d) = SEDIT_NEW_ROOM;
         return;
       case 'c':

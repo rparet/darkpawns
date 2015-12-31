@@ -63,7 +63,7 @@ extern struct index_data *obj_index;
 extern struct room_data *world;
 
 /* external functions */
-void roll_real_abils(struct char_data *ch); 
+void roll_real_abils(struct char_data *ch);
 void echo_on(struct descriptor_data *d);
 void echo_off(struct descriptor_data *d);
 void do_start(struct char_data *ch);
@@ -528,7 +528,7 @@ const struct command_info cmd_info[] = {
   { "kick"     , POS_FIGHTING, do_kick     , 1, 0 },
   { "kiss"     , POS_RESTING , do_action   , 0, 0 },
   { "kyo"      , POS_STANDING, do_kuji_kiri, 0, SKILL_KK_KYO },
-  
+
   { "look"     , POS_RESTING , do_look     , 0, SCMD_LOOK },
   { "laugh"    , POS_RESTING , do_action   , 0, 0 },
   { "lambada"  , POS_STANDING, do_action   , 0, 0 },
@@ -545,7 +545,7 @@ const struct command_info cmd_info[] = {
   { "love"     , POS_RESTING , do_action   , 0, 0 },
   { "luaedit"  , POS_DEAD    , do_luaedit  , LVL_BUILDER, LVL_HIGOD },
 
-  { "map"      , POS_SLEEPING, do_map      , 0, 0},        
+  { "map"      , POS_SLEEPING, do_map      , 0, 0},
   { "mindlink" , POS_STANDING, do_mindlink , 0, 0 },
   { "moan"     , POS_RESTING , do_action   , 0, 0 },
   { "mold"     , POS_RESTING , do_mold     , LVL_IMMORT, 0 },
@@ -745,7 +745,7 @@ const struct command_info cmd_info[] = {
   { "string"   , POS_RESTING , do_string   , LVL_IMMORT+1, 0 },
   { "stroke"   , POS_RESTING , do_action   , 0, 0 },
   { "strut"    , POS_STANDING, do_action   , 0, 0 },
-  { "subdue"   , POS_STANDING, do_subdue   , 0, 0 },        
+  { "subdue"   , POS_STANDING, do_subdue   , 0, 0 },
   { "sulk"     , POS_RESTING , do_action   , 0, 0 },
   { "sweat"    , POS_RESTING , do_action   , 0, 0 },
   { "switch"   , POS_DEAD    , do_switch   , LVL_IMMORT+1, 0 },
@@ -1224,7 +1224,7 @@ char *delete_doubledollar(char *string)
   return string;
 }
 
-/* Use this to control where your ansi markup language is used 
+/* Use this to control where your ansi markup language is used
    Note that this will strip the & character from every piece of
    text you run through it, so use with caution. */
 
@@ -1237,10 +1237,10 @@ char *delete_ansi_controls(char *string)
 
   read = write;
 
-  while (*read) 
+  while (*read)
   {
     if (*(read) != '&')
-      *(write++) = *(read); 
+      *(write++) = *(read);
     read++;
   }
 
@@ -1248,7 +1248,7 @@ char *delete_ansi_controls(char *string)
 
   return string;
 }
-  
+
 
 
 int fill_word(char *argument)
@@ -1353,7 +1353,7 @@ char *two_arguments(char *argument, char *first_arg, char *second_arg)
  * (now works symmetrically -- JE 7/25/94)
  *
  * that was dumb.  it shouldn't be symmetrical.  JE 5/1/95
- * 
+ *
  * returnss 1 if arg1 is an abbreviation of arg2
  */
 int is_abbrev(char *arg1, char *arg2)
@@ -1478,7 +1478,7 @@ int special(struct char_data *ch, int cmd, char *arg)
       }
     }
   }
-  
+
 
   return 0;
 }
@@ -1491,7 +1491,7 @@ int special(struct char_data *ch, int cmd, char *arg)
 
 
 /* locate entry in p_table with entry->name == name. -1 mrks failed search */
-int 
+int
 find_name(char *name)
 {
   int i;
@@ -1662,7 +1662,7 @@ perform_dupe_check(struct descriptor_data *d)
   return 1;
 }
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : valid_user_class_choice()
    PARAMETERS : TYPE                NAME                     DESCRIPTION
                 ----                ----                     -----------
@@ -1720,25 +1720,25 @@ nanny(struct descriptor_data *d, char *arg)
   register int l;
   int load_char(char *name, struct char_file_u *char_element);
   int parse_class(char arg);
-  
+
   skip_spaces(&arg);
 
   switch (STATE(d)) {
 
   /*. OLC states .*/
-  case CON_OEDIT: 
+  case CON_OEDIT:
     oedit_parse(d, arg);
     break;
-  case CON_REDIT: 
+  case CON_REDIT:
     redit_parse(d, arg);
     break;
-  case CON_ZEDIT: 
+  case CON_ZEDIT:
     zedit_parse(d, arg);
     break;
-  case CON_MEDIT: 
+  case CON_MEDIT:
     medit_parse(d, arg);
     break;
-  case CON_SEDIT: 
+  case CON_SEDIT:
     sedit_parse(d, arg);
     break;
   /*. End of OLC states .*/
@@ -1762,13 +1762,13 @@ nanny(struct descriptor_data *d, char *arg)
 		    "Name: ", d);
 	  return;
 	}
-      if ((player_i = load_char(tmp_name, &tmp_store)) > -1) 
+      if ((player_i = load_char(tmp_name, &tmp_store)) > -1)
       {
 	store_to_char(&tmp_store, d->character);
 	GET_PFILEPOS(d->character) = player_i;
 	d->character->wait = 1;
 
-	if (PLR_FLAGGED(d->character, PLR_DELETED)) 
+	if (PLR_FLAGGED(d->character, PLR_DELETED))
         {
 	  free_char(d->character);
 	  CREATE(d->character, struct char_data, 1);
@@ -2011,7 +2011,7 @@ nanny(struct descriptor_data *d, char *arg)
       SEND_TO_Q("What is your sex (M/F)? ", d);
       STATE(d) = CON_QSEX;
       break;
-      
+
   case CON_QSEX:		/* query sex of new user         */
     switch (*arg)
       {
@@ -2034,8 +2034,8 @@ nanny(struct descriptor_data *d, char *arg)
     SEND_TO_Q("\r\nRace: ", d);
     STATE(d) = CON_QRACE;
     break;
-   
-  case CON_QRACE:		/* query race of new user      */ 
+
+  case CON_QRACE:		/* query race of new user      */
   {
     switch (*arg)
       {
@@ -2072,7 +2072,7 @@ nanny(struct descriptor_data *d, char *arg)
       case 's': case 'S': GET_PLR_RACE(d->character) = RACE_SSAUR; break;
       default: SEND_TO_Q("That is not a race..\r\nWhat IS your race? ", d);
 	return;
-      } 
+      }
     if (GET_PLR_RACE(d->character) == RACE_HUMAN)
       SEND_TO_Q(human_class_menu, d);
     else
@@ -2111,11 +2111,11 @@ nanny(struct descriptor_data *d, char *arg)
     roll_real_abils(d->character);
     sprintf(buf2,"  Str: %-13s Dex: %-13s Int: %-13s"
                  "\r\n  Wis: %-13s Con: %-13s Cha: %-13s\r\n",
-              abil_names[GET_STR(d->character)], 
+              abil_names[GET_STR(d->character)],
               abil_names[GET_DEX(d->character)],
-              abil_names[GET_INT(d->character)], 
+              abil_names[GET_INT(d->character)],
               abil_names[GET_WIS(d->character)],
-              abil_names[GET_CON(d->character)], 
+              abil_names[GET_CON(d->character)],
               abil_names[GET_CHA(d->character)]);
     SEND_TO_Q(buf2, d);
     SEND_TO_Q("\r\nPress 'Y' to keep these stats, and 'N' to"
@@ -2123,9 +2123,9 @@ nanny(struct descriptor_data *d, char *arg)
     STATE(d) = CON_ROLLABL2;
     break;
 
-  case CON_ROLLABL2:  
+  case CON_ROLLABL2:
     switch (*arg) {
-     case 'Y': case 'y': 
+     case 'Y': case 'y':
        if (GET_PFILEPOS(d->character) < 0)
          GET_PFILEPOS(d->character) = create_entry(GET_NAME(d->character));
        init_char(d->character);
@@ -2139,11 +2139,11 @@ nanny(struct descriptor_data *d, char *arg)
       roll_real_abils(d->character);
       sprintf(buf2,"  Str: %-13s Dex: %-13s Int: %-13s"
                    "\r\n  Wis: %-13s Con: %-13s Cha: %-13s\r\n",
-                abil_names[GET_STR(d->character)], 
+                abil_names[GET_STR(d->character)],
                 abil_names[GET_DEX(d->character)],
-                abil_names[GET_INT(d->character)], 
+                abil_names[GET_INT(d->character)],
                 abil_names[GET_WIS(d->character)],
-                abil_names[GET_CON(d->character)], 
+                abil_names[GET_CON(d->character)],
                 abil_names[GET_CHA(d->character)]);
       SEND_TO_Q(buf2, d);
       SEND_TO_Q("\r\nPress 'Y' to keep these stats, and 'N' to"
@@ -2153,12 +2153,12 @@ nanny(struct descriptor_data *d, char *arg)
        SEND_TO_Q("Invalid choice! Select 'Y' or 'N':", d);
        return;
     }
- 
+
     sprintf(buf, "%s [%s] new player.", GET_NAME(d->character), d->host);
     mudlog(buf, NRM, LVL_IMMORT, TRUE);
     break;
 
-    
+
 
   case CON_RMOTD:		/* read CR after printing motd   */
     SEND_TO_Q(MENU, d);
@@ -2206,9 +2206,9 @@ nanny(struct descriptor_data *d, char *arg)
 	if (PLR_FLAGGED(d->character, PLR_FROZEN))
 	  load_room = r_frozen_start_room;
 
-	/* Serapis 100896 Dunno if this is a real bug, but heres the fix */	
-	if (load_room < 0) 
-	  load_room = r_mortal_start_room;	
+	/* Serapis 100896 Dunno if this is a real bug, but heres the fix */
+	if (load_room < 0)
+	  load_room = r_mortal_start_room;
 
 	char_to_room(d->character, load_room);
 	act("$n has entered the game.", TRUE, d->character, 0, 0, TO_ROOM);

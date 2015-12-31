@@ -582,7 +582,7 @@ int luaK_code2 (FuncState *fs, OpCode o, int arg1, int arg2) {
           if (GETARG_U(i) == 1) {
             fs->pc--;  /* erase previous instruction */
             luaK_deltastack(fs, -1);  /* correct stack */
-            return NO_JUMP; 
+            return NO_JUMP;
           }
           break;
         }
@@ -601,7 +601,7 @@ int luaK_code2 (FuncState *fs, OpCode o, int arg1, int arg2) {
         case OP_PUSHINT: {  /* `while 1 do ...' */
           fs->pc--;  /* erase previous instruction */
           luaK_deltastack(fs, -1);  /* correct stack */
-          return NO_JUMP; 
+          return NO_JUMP;
         }
         case OP_PUSHNIL: {  /* `repeat ... until nil' */
           if (GETARG_U(i) == 1) {

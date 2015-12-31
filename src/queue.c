@@ -87,7 +87,7 @@ struct q_element *queue_enq(struct queue *q, void *data, long key)
       qe->next->prev = qe;
     }
   }
- 
+
   return qe;
 }
 
@@ -110,7 +110,7 @@ void queue_deq(struct queue *q, struct q_element *qe)
     q->tail[i] = qe->prev;
   else
     qe->next->prev = qe->prev;
-    
+
   FREE(qe);
 }
 

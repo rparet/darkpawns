@@ -519,7 +519,7 @@ void Board_load_board(int board_type)
 	Board_reset_board(board_type);
 	return;
       }
-      CREATE(tmp2, char, (sizeof(char) * len2)); 
+      CREATE(tmp2, char, (sizeof(char) * len2));
       if (!tmp2) {
 	log("SYSERR: CREATE failed for board text");
 	exit(1);

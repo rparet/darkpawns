@@ -217,7 +217,7 @@ void parse_action(int command, char *string, struct descriptor_data *d)
   case PARSE_LIST_NORM:
     /*
      * Note: Rv's buf, buf1, buf2, and arg variables are defined to 32k so
-     * they are probly ok for what to do here. 
+     * they are probly ok for what to do here.
      */
     *buf = '\0';
     if (*string)
@@ -273,13 +273,13 @@ void parse_action(int command, char *string, struct descriptor_data *d)
     /*
      * This is kind of annoying...but some people like it.
      */
-    sprintf(buf + strlen(buf), "\r\n%d line%sshown.\r\n", total_len, (total_len != 1) ? "s " : " "); 
+    sprintf(buf + strlen(buf), "\r\n%d line%sshown.\r\n", total_len, (total_len != 1) ? "s " : " ");
     SEND_TO_Q(buf, d);
     break;
   case PARSE_LIST_NUM:
     /*
      * Note: Rv's buf, buf1, buf2, and arg variables are defined to 32k so
-     * they are probly ok for what to do here. 
+     * they are probly ok for what to do here.
      */
     *buf = '\0';
     if (*string)
@@ -444,7 +444,7 @@ void parse_action(int command, char *string, struct descriptor_data *d)
 	/*
 	 * This means that we are at the END of the line, we want out of
 	 * there, but we want s to point to the beginning of the line
-	 * AFTER the line we want edited 
+	 * AFTER the line we want edited
 	 */
 	s++;
 	/*
@@ -487,7 +487,7 @@ void format_text(char **ptr_string, int mode, struct descriptor_data *d, unsigne
   int line_chars, cap_next = TRUE, cap_next_next = FALSE;
   char *flow, *start = NULL, temp;
   char formatted[MAX_STRING_LENGTH];
-   
+
   /* Fix memory overrun. */
   if (d->max_str > MAX_STRING_LENGTH) {
     log("SYSERR: format_text: max_str is greater than buffer size.");
@@ -505,7 +505,7 @@ void format_text(char **ptr_string, int mode, struct descriptor_data *d, unsigne
   } else {
     *formatted = '\0';
     line_chars = 0;
-  } 
+  }
 
   while (*flow) {
     while (*flow && strchr("\n\r\f\t\v ", *flow))
@@ -529,7 +529,7 @@ void format_text(char **ptr_string, int mode, struct descriptor_data *d, unsigne
 	cap_next_next = TRUE;
 	flow++;
       }
-	 
+
       temp = *flow;
       *flow = '\0';
 

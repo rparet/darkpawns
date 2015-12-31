@@ -253,7 +253,7 @@ void House_save_control(void)
 {
   FILE *fl;
 
-  if (mini_mud) 
+  if (mini_mud)
     return;
 
   if (!(fl = fopen(HCONTROL_FILE, "wb"))) {
@@ -366,7 +366,7 @@ void hcontrol_list_houses(struct char_data * ch)
 
     sprintf(buf, "%s%7d %7d  %-10s    %2d    %-12s %-10s %d\r\n", buf,
 	    house_control[i].vnum, house_control[i].atrium, built_on,
-	    house_control[i].num_of_guests, CAP(own_name), last_pay, 
+	    house_control[i].num_of_guests, CAP(own_name), last_pay,
             house_control[i].key);
 
     if (house_control[i].num_of_guests) {
@@ -475,39 +475,39 @@ hcontrol_set_key(struct char_data *ch, char *arg)
 {
   char arg1[MAX_INPUT_LENGTH];
   int virt_house, virt_obj, i;
-  
+
   /* first arg: house's vnum */
   arg = one_argument(arg, arg1);
   if (!*arg1) {
     send_to_char(HCONTROL_FORMAT, ch);
     return;
   }
-  
+
   virt_house = atoi(arg1);
-  
+
   if ((i = find_house(virt_house)) == -1) {
     send_to_char("That house doesn't exist!\r\n", ch);
     return;
   }
-  
+
   /* second arg: key vnum */
   arg = one_argument(arg, arg1);
   if (!*arg1) {
     send_to_char(HCONTROL_FORMAT, ch);
     return;
   }
-  
+
   virt_obj = atoi(arg1);
-  
+
   if (real_object(virt_obj) < 0)
   {
     stc("That object doesn't exist!\r\n", ch);
     return;
-  } 
+  }
 
   house_control[i].key = virt_obj;
   House_save_control();
-  stc("House key set.\r\n", ch); 
+  stc("House key set.\r\n", ch);
 
 }
 
@@ -607,7 +607,7 @@ ACMD(do_house)
   char arg1[MAX_INPUT_LENGTH];
   char arg2[MAX_INPUT_LENGTH];
 
-  if (!IS_SET_AR(ROOM_FLAGS(ch->in_room), ROOM_HOUSE))  
+  if (!IS_SET_AR(ROOM_FLAGS(ch->in_room), ROOM_HOUSE))
   {
     send_to_char("You must be in your house to set guests.\r\n", ch);
     return;
@@ -632,12 +632,12 @@ ACMD(do_house)
     return;
   }
 
-  if (is_abbrev(arg1, "guest")) 
+  if (is_abbrev(arg1, "guest"))
   {
     if (!*arg2)  /* if no arg, list guests */
     {
       for (j = 0; j < house_control[i].num_of_guests; j++)
-        if (get_name_by_id(house_control[i].guests[j]) == NULL) 
+        if (get_name_by_id(house_control[i].guests[j]) == NULL)
         {
           for (; j < house_control[i].num_of_guests; j++)
             house_control[i].guests[j] = house_control[i].guests[j + 1];
@@ -648,18 +648,18 @@ ACMD(do_house)
       if (house_control[i].num_of_guests == 0)
         send_to_char("  None.\r\n", ch);
       else
-        for (j = 0; j < house_control[i].num_of_guests; j++) 
+        for (j = 0; j < house_control[i].num_of_guests; j++)
         {
           strcpy(buf, NAME(house_control[i].guests[j]));
           send_to_char(strcat(CAP(buf), "\r\n"), ch);
         }
-    } 
+    }
     else if ((id = get_id_by_name(arg2)) < 0)
       send_to_char("No such player.\r\n", ch);
     else
     {
       for (j = 0; j < house_control[i].num_of_guests; j++)
-        if (house_control[i].guests[j] == id)   /* if they're on the list, delete them */ 
+        if (house_control[i].guests[j] == id)   /* if they're on the list, delete them */
         {
           for (; j < house_control[i].num_of_guests; j++)
             house_control[i].guests[j] = house_control[i].guests[j + 1];
@@ -672,7 +672,7 @@ ACMD(do_house)
       {
         stc("You've already reached the maximum number of guests in your house!\r\n", ch);
         return;
-      } 
+      }
       j = house_control[i].num_of_guests++;
       house_control[i].guests[j] = id;
       House_save_control();
@@ -698,7 +698,7 @@ ACMD(do_house)
      sprintf(buf, "%s transfered %s house to %s.", GET_NAME(ch), HSHR(ch), CAP(arg2));
      mudlog(buf, NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
     }
-  } 
+  }
 }
 
 

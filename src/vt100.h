@@ -30,12 +30,12 @@
 #define _VT100_H
 
 #define VT_INITSEQ    "\033[1;24r"
-#define VT_CURSPOS    "\033[%d;%dH" 
-#define VT_CURSRIG    "\033[%dC"   
-#define VT_CURSLEF    "\033[%dD"    
+#define VT_CURSPOS    "\033[%d;%dH"
+#define VT_CURSRIG    "\033[%dC"
+#define VT_CURSLEF    "\033[%dD"
 #define VT_HOMECLR    "\033[2J\033[0;0H"
-#define VT_CTEOTCR    "\033[K"     
-#define VT_CLENSEQ    "\033[r\033[2J" 
+#define VT_CTEOTCR    "\033[K"
+#define VT_CLENSEQ    "\033[r\033[2J"
 #define VT_INDUPSC    "\033M"
 #define VT_INDDOSC    "\033D"
 #define VT_SETSCRL    "\033[%d;24r"

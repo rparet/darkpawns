@@ -64,7 +64,7 @@ void ident_start(struct descriptor_data *d, long addr)
     d->ident_sock = -1;
     return;
   }
-  
+
   SEND_TO_Q("Please wait", d);
 
   d->idle_tics = 0;
@@ -120,7 +120,7 @@ void ident_check(struct descriptor_data *d, int pulse)
   /*
    * Each pulse, this checks if the ident is ready to proceed to the
    * next state, by calling select to see if the socket is writeable
-   * (connected) or readable (response waiting).  
+   * (connected) or readable (response waiting).
    */
 
   switch (STATE(d)) {
@@ -146,9 +146,9 @@ void ident_check(struct descriptor_data *d, int pulse)
 
   case CON_IDCONED:
     /* connected, write request */
-	
+
     sprintf(buf, "%d, %d\n\r", ntohs(d->peer_port), port);
-	
+
     len = strlen(buf);
     if (write(d->ident_sock, buf, len) != len) {
       if (errno != EPIPE)	/* read end closed (no remote identd) */
@@ -159,10 +159,10 @@ void ident_check(struct descriptor_data *d, int pulse)
     }
 
     STATE(d) = CON_IDREADING;
-	
+
   case CON_IDREADING:
     /* waiting to read */
-	
+
     if (d->ident_sock != -1) {
       FD_ZERO(&fd);
       FD_SET(d->ident_sock, &fd);
@@ -179,7 +179,7 @@ void ident_check(struct descriptor_data *d, int pulse)
     }
 
     STATE(d) = CON_IDREAD;
-	
+
   case CON_IDREAD:
     /* read ready, get the info */
 
@@ -216,9 +216,9 @@ void ident_check(struct descriptor_data *d, int pulse)
 	strcpy(d->host, buf2);
       }
     }
-	
+
     STATE(d) = CON_ASKNAME;
-	
+
   case CON_ASKNAME:
     /* ident complete, ask for name */
 
@@ -251,7 +251,7 @@ void ident_check(struct descriptor_data *d, int pulse)
    */
   if ((pulse % PASSES_PER_SEC) == 0) {
     SEND_TO_Q(".", d);
-    
+
     if (d->idle_tics++ >= IDENT_TIMEOUT)
       STATE(d) = CON_ASKNAME;
   }
@@ -268,7 +268,7 @@ int waiting_for_ident(struct descriptor_data *d)
   case CON_IDREAD:
   case CON_ASKNAME:
     return 1;
-      
+
   default:
     return 0;
   }

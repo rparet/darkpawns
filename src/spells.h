@@ -163,7 +163,7 @@
 #define SPELL_SLOW                   98
 #define SPELL_DREAM_TRAVEL	     99
 #define SPELL_PSIBLAST		    100
-#define SPELL_COC		    101	
+#define SPELL_COC		    101
 #define SPELL_WATER_BREATHE	    102
 #define SPELL_DROWNING              103
 #define SPELL_PETRIFY               104
@@ -238,7 +238,7 @@
 #define SKILL_NECKBREAK             190
 #define SKILL_AMBUSH                191
 #define SKILL_SCOUT		    192
-	
+
 /* end new skills   */
 /* New skills may be added here up to MAX_SKILLS (200) */
 
@@ -392,7 +392,7 @@ void mag_damage(int level, struct char_data *ch, struct char_data *victim,
 void mag_affects(int level, struct char_data *ch, struct char_data *victim,
 		 int spellnum, int savetype);
 
-void mag_group_switch(int level, struct char_data *ch, struct char_data *tch, 
+void mag_group_switch(int level, struct char_data *ch, struct char_data *tch,
 		      int spellnum, int savetype);
 
 void mag_groups(int level, struct char_data *ch, int spellnum, int savetype);

@@ -78,20 +78,20 @@ int luaG_getline (int *lineinfo, int pc, int refline, int *prefi) {
     return -1;  /* no line info or function is not active */
   refi = prefi ? *prefi : 0;
   if (lineinfo[refi] < 0)
-    refline += -lineinfo[refi++]; 
+    refline += -lineinfo[refi++];
   LUA_ASSERT(lineinfo[refi] >= 0, "invalid line info");
   while (lineinfo[refi] > pc) {
     refline--;
     refi--;
     if (lineinfo[refi] < 0)
-      refline -= -lineinfo[refi--]; 
+      refline -= -lineinfo[refi--];
     LUA_ASSERT(lineinfo[refi] >= 0, "invalid line info");
   }
   for (;;) {
     int nextline = refline + 1;
     int nextref = refi + 1;
     if (lineinfo[nextref] < 0)
-      nextline += -lineinfo[nextref++]; 
+      nextline += -lineinfo[nextref++];
     LUA_ASSERT(lineinfo[nextref] >= 0, "invalid line info");
     if (lineinfo[nextref] > pc)
       break;

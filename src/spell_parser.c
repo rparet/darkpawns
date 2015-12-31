@@ -39,7 +39,7 @@ struct spell_info_type spell_info[TOP_SPELL_DEFINE + 1];
 
 extern struct index_data *obj_index;
 extern struct room_data *world;
-extern struct str_app_type str_app[];           
+extern struct str_app_type str_app[];
 
 /*
  * This arrangement is pretty stupid, but the number of skills is limited by
@@ -110,7 +110,7 @@ char *spells[] =
   "lycanthropy",
   "vampirism",
   "sobriety",
-  "group invisibility", 
+  "group invisibility",
   "hellfire",
   "enchant armor",
   "identify",			/* 60 */
@@ -122,12 +122,12 @@ char *spells[] =
   "globe of invulnerability",
   "vitality",
   "invigorate",
-  "lesser perception", 
+  "lesser perception",
   "greater perception",/* 70 */
   "mind attack",
   "adrenaline boost",
   "psychic shield",
-  "change density", 
+  "change density",
   "acid blast",	/* 75 */
   "dominate",
   "cell adjustment",
@@ -138,12 +138,12 @@ char *spells[] =
   "mind bar",
   "soul leech",
   "mindsight", "transparency",	/* 85 */
-  "know align", "gate", "word of intellect", "lay hands", 
+  "know align", "gate", "word of intellect", "lay hands",
   "mental lapse",	/* 90 */
-  "smokescreen", "ray of disruption", "disintegration", 
+  "smokescreen", "ray of disruption", "disintegration",
   "calliope", "protection from good",	/* 95 */
   "flame strike", "haste", "slow", "dream travel", "psiblast",	/* 100 */
-  "glyph of summoning", "waterbreathe", "!drowning!", "!petrify!", 
+  "glyph of summoning", "waterbreathe", "!drowning!", "!petrify!",
   "conjure elemental",
   "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!",	/* 110 */
   "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!",	/* 115 */
@@ -163,13 +163,13 @@ char *spells[] =
   "sneak",
   "steal",
   "track",			/* 140 */
-  "headbutt", 
-  "bearhug", 
-  "cutthroat", 
-  "trip", 
+  "headbutt",
+  "bearhug",
+  "cutthroat",
+  "trip",
   "smackheads",			/* 145 */
-  "slug", 
-  "charge", 
+  "slug",
+  "charge",
   "shoot",
   "retreat",
   "bite",	/* 150 */
@@ -323,7 +323,7 @@ say_spell(struct char_data *ch, int spellnum, struct char_data *tch,
   sprintf(buf2, lbuf, buf);
 
   for (i = world[ch->in_room].people; i; i = i->next_in_room) {
-    if (i == ch || i == tch || !i->desc || !AWAKE(i) ||  
+    if (i == ch || i == tch || !i->desc || !AWAKE(i) ||
 	PLR_FLAGGED(i, PLR_WRITING))
       continue;
     if (GET_CLASS(ch) == GET_CLASS(i))
@@ -338,7 +338,7 @@ say_spell(struct char_data *ch, int spellnum, struct char_data *tch,
 	    GET_CLASS(ch) == GET_CLASS(tch) ? spells[spellnum] : buf);
     else
       sprintf(buf1, "$n focuses $s will on you...");
- 
+
     act(buf1, FALSE, ch, NULL, tch, TO_VICT);
   }
 }
@@ -366,7 +366,7 @@ char *skill_name(int num)
     return "UNDEFINED";
 }
 
-	 
+
 int find_skill_num(char *name)
 {
   int index = 0, ok;
@@ -412,7 +412,7 @@ int call_magic(struct char_data * caster, struct char_data * cvict,
     return 0;
 
   if (ROOM_FLAGGED(caster->in_room, ROOM_NOMAGIC)
-      && GET_LEVEL(caster) < LVL_IMMORT) 
+      && GET_LEVEL(caster) < LVL_IMMORT)
   {
     if (!IS_PSIONIC(caster) && !IS_MYSTIC(caster))
     {
@@ -422,7 +422,7 @@ int call_magic(struct char_data * caster, struct char_data * cvict,
     else
     {
      send_to_char("Your will fades, disturbed by an unseen force.\r\n", caster);
-     act("$n's will fades, disturbed by an unseen force.", 
+     act("$n's will fades, disturbed by an unseen force.",
 	FALSE, caster, 0, 0, TO_ROOM);
     }
     return 0;
@@ -569,7 +569,7 @@ mag_objectmagic(struct char_data * ch, struct obj_data * obj, char *argument)
   for (wear_pos=0;wear_pos < NUM_WEARS;wear_pos++)
     if (GET_EQ(ch, wear_pos))
       if (isname(buf, GET_EQ(ch, wear_pos)->name))
-	equipd=wear_pos+1;/*+1 cuz pos 0 is legal yet FALSE*/ 
+	equipd=wear_pos+1;/*+1 cuz pos 0 is legal yet FALSE*/
 
   spellnum = GET_OBJ_VAL(obj, 3);
 
@@ -626,7 +626,7 @@ mag_objectmagic(struct char_data * ch, struct obj_data * obj, char *argument)
 	}
       else
 	if ((tobj != NULL) && (IS_SET(SINFO.targets, TAR_OBJ_INV) ||
-                              IS_SET(SINFO.targets, TAR_OBJ_ROOM) || 
+                              IS_SET(SINFO.targets, TAR_OBJ_ROOM) ||
                              IS_SET(SINFO.targets, TAR_OBJ_WORLD) ||
                              IS_SET(SINFO.targets, TAR_OBJ_EQUIP)))
 	  {
@@ -668,7 +668,7 @@ mag_objectmagic(struct char_data * ch, struct obj_data * obj, char *argument)
          send_to_char("You can't do this sitting!!\r\n", ch);
          return;
         }
-   
+
       if (*arg)
 	{
 	  if (!k)
@@ -680,7 +680,7 @@ mag_objectmagic(struct char_data * ch, struct obj_data * obj, char *argument)
 	}
       else
 	tch = ch;
-      
+
       act("You recite $p which dissolves.", TRUE, ch, obj, 0, TO_CHAR);
       if (obj->action_description)
 	act(obj->action_description, FALSE, ch, obj, NULL, TO_ROOM);
@@ -729,14 +729,14 @@ mag_objectmagic(struct char_data * ch, struct obj_data * obj, char *argument)
 	    {
 	      if (tch == ch)
 		{
-		  act("Your $p bathes you in a blinding glow!", 
+		  act("Your $p bathes you in a blinding glow!",
 		      FALSE, ch, obj, 0, TO_CHAR);
       		  if (obj->action_description != NULL)
 	  	    act(obj->action_description, FALSE, ch, obj, tch, TO_ROOM);
       		  else
-		    act("$n's $p bathes $m in a blinding glow!", 
+		    act("$n's $p bathes $m in a blinding glow!",
 		        FALSE, ch, obj, 0, TO_ROOM);
-		} 
+		}
 	      else
 		{
 		 act("Your $p flares up with a blinding glow "
@@ -751,7 +751,7 @@ mag_objectmagic(struct char_data * ch, struct obj_data * obj, char *argument)
 	  else if ((tobj != NULL) && (IS_SET(SINFO.targets, TAR_OBJ_INV) ||
                                      IS_SET(SINFO.targets, TAR_OBJ_ROOM) ||
                                     IS_SET(SINFO.targets, TAR_OBJ_WORLD) ||
-                                    IS_SET(SINFO.targets, TAR_OBJ_EQUIP)))   
+                                    IS_SET(SINFO.targets, TAR_OBJ_EQUIP)))
 	  {
 	    act("Your $p flares up with a blinding glow that "
 		"surges toward $P!", FALSE, ch, obj, tobj, TO_CHAR);
@@ -761,7 +761,7 @@ mag_objectmagic(struct char_data * ch, struct obj_data * obj, char *argument)
 	        act("$n's $p flares up with a blinding glow that "
 			"surges toward $P!", TRUE, ch, obj, tobj, TO_ROOM);
 	  }
-	  else 
+	  else
 	  {
 	    act("You can't use $p like that.", FALSE, ch, obj, NULL, TO_CHAR);
 	    return;
@@ -786,9 +786,9 @@ mag_objectmagic(struct char_data * ch, struct obj_data * obj, char *argument)
       	  if (obj->action_description)
 	      act(obj->action_description, FALSE, ch, obj, tobj, TO_ROOM);
       	  else
-	      act("$n's $p sparks blindingly, bathing you in its glow.", 
+	      act("$n's $p sparks blindingly, bathing you in its glow.",
 	          TRUE, ch, obj, 0, TO_ROOM);
-	  act("Your $p radiates an ethereal glow that lights the room.", 
+	  act("Your $p radiates an ethereal glow that lights the room.",
 	      FALSE, ch, obj, 0, TO_CHAR);
 	  if (GET_OBJ_VAL(obj, 2) <= 0) {
 	    act("It seems powerless.", FALSE, ch, obj, 0, TO_CHAR);
@@ -796,7 +796,7 @@ mag_objectmagic(struct char_data * ch, struct obj_data * obj, char *argument)
 	  } else {
 	    GET_OBJ_VAL(obj, 2)--;
 	    WAIT_STATE(ch, PULSE_VIOLENCE);
-            
+
             /* Level to cast spell at. */
             k = GET_OBJ_VAL(obj, 0) ? GET_OBJ_VAL(obj, 0) : DEFAULT_STAFF_LVL;
 
@@ -835,14 +835,14 @@ int cast_spell(struct char_data * ch, struct char_data * tch,
       log(buf);
       return 0;
     }
-    
+
   if (GET_WIS(ch) == 0 || GET_INT(ch) == 0)
     {
       send_to_char("You're not smart enough to cast!\r\n", ch);
       return 0;
-    }     
-                         
-  if (GET_MOB_WAIT(ch)) 
+    }
+
+  if (GET_MOB_WAIT(ch))
     {
      stc("You can't cast anything yet!\r\n", ch);
      return 0;
@@ -1061,7 +1061,7 @@ ACMD(do_cast)
   }
   if (!target) {
     send_to_char(OK, ch);
-    say_spell(ch, spellnum, tch, tobj); 
+    say_spell(ch, spellnum, tch, tobj);
     if (!IS_PSIONIC(ch) && !IS_MYSTIC(ch))
       send_to_char("Cannot find the target of your spell!\r\n", ch);
     else
@@ -1075,7 +1075,7 @@ ACMD(do_cast)
     else
       send_to_char("You haven't the energy to will that power!\r\n", ch);
     return;
-  
+
   }
   if (IS_CARRYING_W(ch))
     weight_add = (CAN_CARRY_W(ch)/IS_CARRYING_W(ch));
@@ -1088,7 +1088,7 @@ ACMD(do_cast)
   if (weight_add == 2)
 	weight_add = 7;
   if (weight_add == 1)
-	weight_add = 10; 
+	weight_add = 10;
   if (weight_add == -1)
 	weight_add = 0;
   weight_add = MAX(0, weight_add);
@@ -1139,7 +1139,7 @@ void spell_level(int spell, int class, int level)
     bad = 1;
   }
 
-  if (!bad)    
+  if (!bad)
     spell_info[spell].min_level[class] = level;
 }
 
@@ -1339,7 +1339,7 @@ void mag_assign_spells(void)
 	TAR_CHAR_ROOM, FALSE, MAG_POINTS | MAG_AFFECTS | MAG_UNAFFECTS);
 
   spello(SPELL_HELLFIRE, 200, 150, 10, POS_FIGHTING,
-         TAR_IGNORE, TRUE, MAG_MANUAL | MAG_AREAS); 
+         TAR_IGNORE, TRUE, MAG_MANUAL | MAG_AREAS);
 
   spello(SPELL_INFRAVISION, 25, 25, 1, POS_STANDING,
 	TAR_CHAR_ROOM , FALSE, MAG_AFFECTS);
@@ -1348,7 +1348,7 @@ void mag_assign_spells(void)
 	TAR_IGNORE, FALSE, MAG_GROUPS);
 
   spello(SPELL_INVISIBLE, 45, 45, 1, POS_STANDING,
-	TAR_CHAR_ROOM | TAR_OBJ_INV | TAR_OBJ_ROOM, 
+	TAR_CHAR_ROOM | TAR_OBJ_INV | TAR_OBJ_ROOM,
 		FALSE, MAG_AFFECTS | MAG_ALTER_OBJS);
 
   spello(SPELL_LEVITATE, 90, 70, 5, POS_STANDING,
@@ -1373,7 +1373,7 @@ void mag_assign_spells(void)
 	 TAR_CHAR_ROOM | TAR_NOT_SELF | TAR_OBJ_INV | TAR_FIGHT_VICT,
          TRUE,
 	 MAG_AFFECTS | MAG_ALTER_OBJS);
-  
+
   spello(SPELL_FLAMESTRIKE, 105, 100, 1, POS_STANDING,
          TAR_CHAR_ROOM | TAR_NOT_SELF, TRUE, MAG_AFFECTS);
 
@@ -1411,7 +1411,7 @@ void mag_assign_spells(void)
 	TAR_CHAR_ROOM, FALSE, MAG_MANUAL);
 
   spello(SPELL_REMOVE_POISON, 40, 30, 1, POS_STANDING,
-	TAR_CHAR_ROOM | TAR_OBJ_INV | TAR_OBJ_ROOM, 
+	TAR_CHAR_ROOM | TAR_OBJ_INV | TAR_OBJ_ROOM,
 		FALSE, MAG_UNAFFECTS | MAG_ALTER_OBJS);
 
   spello(SPELL_SENSE_LIFE, 30, 20, 1, POS_STANDING,
@@ -1431,10 +1431,10 @@ void mag_assign_spells(void)
 
   spello(SPELL_LYCANTHROPY, 1, 1, 1, POS_STANDING,
  	TAR_CHAR_ROOM, FALSE, MAG_MANUAL);
-  
+
   spello(SPELL_VAMPIRISM, 1, 1, 1, POS_STANDING,
  	TAR_CHAR_ROOM, FALSE, MAG_MANUAL);
-  
+
   spello(SPELL_ENCHANT_ARMOR, 150, 130, 10, POS_STANDING,
       TAR_OBJ_INV | TAR_OBJ_EQUIP, FALSE, MAG_MANUAL);
 
@@ -1443,7 +1443,7 @@ void mag_assign_spells(void)
 
   spello(SPELL_METALSKIN, 75, 60, 1, POS_FIGHTING,
 	TAR_CHAR_ROOM, FALSE, MAG_AFFECTS);
-  
+
   spello(SPELL_INVULNERABILITY, 85, 85, 1, POS_FIGHTING,
 	TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS);
 
@@ -1461,7 +1461,7 @@ void mag_assign_spells(void)
 
   spello(SPELL_MINDATTACK , 55, 25, 1, POS_FIGHTING,
         TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE);
-                                                         
+
   spello(SPELL_LESSPERCEPT, 40, 30, 1, POS_STANDING,
 	TAR_CHAR_ROOM | TAR_SELF_ONLY , FALSE, MAG_AFFECTS);
 
@@ -1515,22 +1515,22 @@ void mag_assign_spells(void)
 
   spello(SPELL_MENTAL_LAPSE, 100, 90, 1, POS_STANDING,
 	 TAR_CHAR_WORLD, FALSE, MAG_MANUAL);
- 
+
   spello(SPELL_SMOKESCREEN, 100, 100, 1, POS_FIGHTING,
 	TAR_IGNORE, TRUE, MAG_MASSES);
-  
+
   spello(SPELL_DISRUPT, 175, 165, 1, POS_FIGHTING,
-         TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE); 
+         TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE);
 
   spello(SPELL_DIVINE_INT, 290, 290, 1, POS_STANDING,
          TAR_IGNORE, FALSE, MAG_MANUAL);
 
   spello(SPELL_DISINTEGRATE, 120, 120, 1, POS_FIGHTING,
-         TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE); 
+         TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE);
 
   spello(SPELL_ANIMATE_DEAD, 120, 100, 10, POS_STANDING,
 	TAR_OBJ_ROOM, FALSE, MAG_SUMMONS);
-  
+
   spello(SPELL_CALLIOPE, 100, 50, 10, POS_FIGHTING,
 	TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_MANUAL);
 
@@ -1538,11 +1538,11 @@ void mag_assign_spells(void)
         TAR_IGNORE, TRUE, MAG_MANUAL);
 
   spello(SPELL_PSIBLAST, 180, 150, 10, POS_FIGHTING,
-         TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE); 
+         TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE);
 
   spello(SPELL_WATER_BREATHE, 92, 58, 6, POS_STANDING,
          TAR_CHAR_ROOM, FALSE, MAG_AFFECTS);
-  
+
   spello(SPELL_CONJURE_ELEMENTAL, 165, 145, 1, POS_STANDING,
 	 TAR_IGNORE, FALSE, MAG_MANUAL);
 

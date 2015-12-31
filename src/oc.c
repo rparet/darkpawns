@@ -40,8 +40,8 @@ extern struct obj_data *object_list;
 
 struct howmany *oc_get_node (void) {
   struct howmany *item;
-  
-  CREATE(item, struct howmany, sizeof(struct howmany)); 
+
+  CREATE(item, struct howmany, sizeof(struct howmany));
   if (item != NULL) {
     item->vnum = 0;
     item->count = 0;
@@ -61,15 +61,15 @@ struct howmany *oc_add_front (struct howmany *new, struct howmany *list) {
   return(list);
 }
 
-int oc_onlist (int vnum, int *extras, int weight, char *text, struct howmany *list) 
+int oc_onlist (int vnum, int *extras, int weight, char *text, struct howmany *list)
 {
   struct howmany *temp;
 
   temp = list;
-  while (temp != NULL) 
+  while (temp != NULL)
   {
-    if ((temp->vnum == vnum) && (temp->extras == *extras) && 
-        !strcmp(text, temp->text) && (temp->weight == weight)) 
+    if ((temp->vnum == vnum) && (temp->extras == *extras) &&
+        !strcmp(text, temp->text) && (temp->weight == weight))
     {
       temp->count++;
       return TRUE;
@@ -79,7 +79,7 @@ int oc_onlist (int vnum, int *extras, int weight, char *text, struct howmany *li
   return FALSE;
 }
 
-void oc_show_list (struct howmany *list, struct char_data *ch, 
+void oc_show_list (struct howmany *list, struct char_data *ch,
                    int show_weight, int show_wide, int show_indent, int show_header) {
 
   /* struct obj_data *obj; */
@@ -87,7 +87,7 @@ void oc_show_list (struct howmany *list, struct char_data *ch,
   int number;
   int extras;
   int first_extra = 1;
-  
+
     *buf = 0;
     if (show_header) {
     strcpy(buf, "\r\n Num  Item   ");
@@ -95,7 +95,7 @@ void oc_show_list (struct howmany *list, struct char_data *ch,
       strcat(buf, "                                                   Encumbrance\r\n");
     else if (show_weight)
       strcat(buf, "                 encumbrance\r\n");
-      
+
     if (show_wide)
       strcat(buf, "-------------------------------------------------------------------------------\r\n");
     else
@@ -117,7 +117,7 @@ void oc_show_list (struct howmany *list, struct char_data *ch,
       if (show_weight) sprintf(buf, "%s%2d pt%s", buf, weight,
         ((weight == 1) ? "" : "s"));
     }
-    
+
     else if (number > 1) {
       if (show_indent) sprintf(buf, " %2d   ", number);
         else sprintf(buf, "[%2d] ", number);
@@ -125,8 +125,8 @@ void oc_show_list (struct howmany *list, struct char_data *ch,
         else sprintf(buf, "%s%-33s", buf, list->text);
       if (show_weight) sprintf(buf, "%s%2d pt%s ea.", buf, weight,
         ((weight == 1) ? "" : "s"));
-    }    
-    
+    }
+
     else
       strcpy(buf, "____THIS IS AN ERROR, PLEASE REPORT!____");
 
@@ -163,7 +163,7 @@ void oc_show_list (struct howmany *list, struct char_data *ch,
     }
 
     if (!first_extra) strcat(buf, "\r\n");
-    
+
     send_to_char(buf, ch);
     list = list->next;
   }
@@ -171,7 +171,7 @@ void oc_show_list (struct howmany *list, struct char_data *ch,
 
 void oc_dispose_list (struct howmany *list) {
   struct howmany *temp;
-  
+
   while (list != NULL) {
     temp = list;
     list = list->next;

@@ -48,7 +48,7 @@ extern struct index_data *obj_index;
 extern int max_exp_gain;
 extern int max_exp_loss;
 extern field_object_data_t field_objs[NUM_FOS];
-extern void clearMemory(struct char_data * ch); 
+extern void clearMemory(struct char_data * ch);
 
 void flesh_alter_from(struct char_data *ch);
 void flesh_alter_to(struct char_data *ch);
@@ -58,7 +58,7 @@ int exp_needed_for_level(struct char_data *ch);
 /* manapoint gain pr. game hour */
 int mana_gain(struct char_data * ch)
 {
-  int gain, i = 0, j = 0; 
+  int gain, i = 0, j = 0;
 
   if (IS_NPC(ch)) {
     gain = GET_LEVEL(ch);
@@ -84,11 +84,11 @@ int mana_gain(struct char_data * ch)
     }
 
     /* Item calculations */
-    for (i = 0; i < NUM_WEARS; i++) 
+    for (i = 0; i < NUM_WEARS; i++)
      if (GET_EQ(ch, i))
        for (j = 0; j < MAX_OBJ_AFFECT; j++)
          if (GET_EQ(ch, i)->affected[j].location==APPLY_MANA_REGEN)
-	   if( (GET_EQ(ch, i)->affected[j].modifier>0 && 
+	   if( (GET_EQ(ch, i)->affected[j].modifier>0 &&
 		GET_POS(ch)==POS_SLEEPING) ||
 	       GET_EQ(ch, i)->affected[j].modifier<0 )
             gain += GET_EQ(ch, i)->affected[j].modifier;
@@ -151,7 +151,7 @@ int hit_gain(struct char_data * ch)
     {
       int i = 0, j = 0;
       gain += (gain >> 1);	/* Divide by 2 */
-      for (i = 0; i < NUM_WEARS; i++) 
+      for (i = 0; i < NUM_WEARS; i++)
         if (GET_EQ(ch, i))
           for (j = 0; j < MAX_OBJ_AFFECT; j++)
 	    if (GET_EQ(ch, i)->affected[j].location==APPLY_HIT_REGEN)
@@ -206,7 +206,7 @@ int move_gain(struct char_data * ch)
 
     if (is_veteran(ch))
       gain += 4;
-  
+
     if (!FIGHTING(ch))
       {
         if (affected_by_spell(ch, SKILL_KK_ZHEN))
@@ -218,7 +218,7 @@ int move_gain(struct char_data * ch)
     case POS_SLEEPING:
     {
       int i = 0, j = 0;
-      for (i = 0; i < NUM_WEARS; i++) 
+      for (i = 0; i < NUM_WEARS; i++)
         if (GET_EQ(ch, i))
           for (j = 0; j < MAX_OBJ_AFFECT; j++)
 	    if (GET_EQ(ch, i)->affected[j].location==APPLY_MOVE_REGEN)
@@ -274,7 +274,7 @@ void check_autowiz(struct char_data * ch)
   extern int min_wizlist_lev;
   pid_t getpid(void);
 
-  if (!mini_mud && use_autowiz && GET_LEVEL(ch) >= LVL_IMMORT) 
+  if (!mini_mud && use_autowiz && GET_LEVEL(ch) >= LVL_IMMORT)
   {
     sprintf(buf, "nice ../bin/autowiz %d %s %d %s %d &", min_wizlist_lev,
 	    WIZLIST_FILE, LVL_IMMORT, IMMLIST_FILE, (int) getpid());
@@ -302,16 +302,16 @@ gain_exp(struct char_data * ch, int gain)
       GET_EXP(ch) += gain;
       if (GET_LEVEL(ch) < LVL_IMMORT-1 && GET_EXP(ch)>exp_needed_for_level(ch))
 	{
-	  if (IS_AFFECTED(ch, AFF_FLESH_ALTER))     
+	  if (IS_AFFECTED(ch, AFF_FLESH_ALTER))
 	    flesh_alter_from(ch);
 	  GET_LEVEL(ch)++;
 	  advance_level(ch);
-	  if (IS_AFFECTED(ch, AFF_FLESH_ALTER))     
+	  if (IS_AFFECTED(ch, AFF_FLESH_ALTER))
 	    flesh_alter_to(ch);
-	  send_to_char(CCCYN(ch, C_CMP), ch);         
+	  send_to_char(CCCYN(ch, C_CMP), ch);
 	  sprintf(buf, "You advance to level %d!\r\n", GET_LEVEL(ch));
 	  send_to_char(buf, ch);
-	  send_to_char(CCNRM(ch, C_CMP), ch);         
+	  send_to_char(CCNRM(ch, C_CMP), ch);
 	}
     }
   else if (gain < 0)
@@ -338,12 +338,12 @@ gain_exp_regardless(struct char_data * ch, int gain)
       while (GET_LEVEL(ch) < LVL_IMPL &&
 	     GET_EXP(ch) >= exp_needed_for_level(ch))
 	{
-	  if (IS_AFFECTED(ch, AFF_FLESH_ALTER))     
-	    flesh_alter_from(ch);	
+	  if (IS_AFFECTED(ch, AFF_FLESH_ALTER))
+	    flesh_alter_from(ch);
 	  GET_LEVEL(ch) += 1;
 	  num_levels++;
 	  advance_level(ch);
-	  if (IS_AFFECTED(ch, AFF_FLESH_ALTER))     
+	  if (IS_AFFECTED(ch, AFF_FLESH_ALTER))
 	    flesh_alter_to(ch);
 	  is_altered = TRUE;
 	}
@@ -471,7 +471,7 @@ point_update(void)
   for (i = character_list; i; i = next_char)
     {
       next_char = i->next;
- 
+
 
       if (!PRF_FLAGGED(i, PRF_INACTIVE))
 	{
@@ -485,11 +485,11 @@ point_update(void)
 
       if(GET_JAIL_TIMER(i)>0)
          GET_JAIL_TIMER(i)--;
-	
+
       if(GET_POS(i) == POS_SLEEPING) {
          dream(i);
-      } 
-	    
+      }
+
       if (GET_POS(i) >= POS_STUNNED)
 	{
 	  if (!PRF_FLAGGED(i, PRF_INACTIVE))
@@ -517,7 +517,7 @@ point_update(void)
           if(number(0, 98) == 0)
            clearMemory(i);
         }
-     
+
       if (!IS_NPC(i))
 	{
 	  update_char_objects(i);
@@ -530,14 +530,14 @@ point_update(void)
   for (j = object_list; j; j = next_thing)
     {
       next_thing = j->next;	/* Next in object list */
-      
+
       /* if this is a moongate */
       if (GET_OBJ_SPEC(j) == moon_gate)
 	{
 	  /* timer count down */
 	  if (GET_OBJ_VAL(j, 2) > 0)
 	    GET_OBJ_VAL(j, 2)--;
-	    
+
 	    if (!GET_OBJ_VAL(j, 2))
 	      {
                 sprintf(buf, "%s fades out of existence.\r\n", j->short_description);
@@ -552,7 +552,7 @@ point_update(void)
 	  /* timer count down */
 	  if (GET_OBJ_TIMER(j) > 0)
 	    GET_OBJ_TIMER(j)--;
-	    
+
 	  if (!GET_OBJ_TIMER(j))
 	    extract_obj(j);
 	}
@@ -562,7 +562,7 @@ point_update(void)
 	  /* timer count down */
 	  if (GET_OBJ_TIMER(j) > 0)
 	    GET_OBJ_TIMER(j)--;
-	    
+
 	    if (!GET_OBJ_TIMER(j))
 	      {
 		if ((j->in_room != NOWHERE) && (world[j->in_room].people))
@@ -592,7 +592,7 @@ point_update(void)
 	  /* timer count down */
 	  if (GET_OBJ_TIMER(j) > 0)
 	    GET_OBJ_TIMER(j)--;
-	  
+
 	    if (!GET_OBJ_TIMER(j))
 	      {
 		if (j->carried_by)
@@ -652,7 +652,7 @@ point_update(void)
 	}/*corpse*/
         else /* check for field object */
 	  {
-	    int count = 0; 
+	    int count = 0;
 	    for (count = 0; count < NUM_FOS; count++)
 	    {
 		if(GET_OBJ_VNUM(j)==field_objs[count].obj_vnum &&
@@ -664,10 +664,10 @@ point_update(void)
 
             	  if (!GET_OBJ_TIMER(j))
 		  {
-		    struct obj_data *thing = NULL; 
+		    struct obj_data *thing = NULL;
 		    if(field_objs[count].worn_off_obj_num>0)
 		    {
-		     thing = 
+		     thing =
 		       read_object(field_objs[count].worn_off_obj_num, VIRTUAL);
 		     if (thing)
 		     {

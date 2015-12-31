@@ -97,7 +97,7 @@ FILE *logfile = NULL;           /* where to send the log messages. */
 
 /* functions in this file */
 int get_from_q(struct txt_q *queue, char *dest, int *aliased);
-void do_broadcast(char *str, struct char_data *ch, struct obj_data *obj, 
+void do_broadcast(char *str, struct char_data *ch, struct obj_data *obj,
                   struct obj_data *vict_obj, int hide_invisible);
 void write_mud_date_to_file(void);
 void init_game(int port);
@@ -267,7 +267,7 @@ void init_game(int port)
 
   event_init();
   boot_db();
-  
+
   log("Opening mother connection.");
   mother_desc = init_socket(port);
 
@@ -285,7 +285,7 @@ void init_game(int port)
     close_socket(descriptor_list);
 
   close(mother_desc);
-  
+
   save_clans(); /* Oro 990402 */
   close_whod(); /* Serapis 960808 */
   write_mud_date_to_file();
@@ -386,9 +386,9 @@ int get_max_players(void)
       exit(1);
     }
     /* set the current to the maximum */
-#ifdef OPEN_MAX 
-limit.rlim_max = limit.rlim_max > OPEN_MAX? OPEN_MAX : limit.rlim_max; 
-#endif 
+#ifdef OPEN_MAX
+limit.rlim_max = limit.rlim_max > OPEN_MAX? OPEN_MAX : limit.rlim_max;
+#endif
     limit.rlim_cur = limit.rlim_max;
     if (setrlimit(RLIMIT_NOFILE, &limit) < 0) {
       perror("SYSERR: calling setrlimit");
@@ -516,7 +516,7 @@ void game_loop(int mother_desc)
      * to sleep until the next 0.1 second tick.  The first step is to
      * calculate how long we took processing the previous iteration.
      */
-    
+
     gettimeofday(&before_sleep, (struct timezone *) 0); /* current time */
     process_time = timediff(before_sleep, last_time);
 
@@ -709,11 +709,11 @@ void room_activity(void)
 
     if (!PRF_FLAGGED(ch, PRF_NOHASSLE) && IS_AFFECTED(ch, AFF_FLAMING))
       damage(ch, ch, 15, SPELL_FLAMESTRIKE);
-           
+
     if ((SECT(ch->in_room) == SECT_UNDERWATER) && !IS_AFFECTED(ch, AFF_WATERBREATHE)
         && !PRF_FLAGGED(ch, PRF_NOHASSLE))
       damage(ch, ch, 25, SPELL_DROWNING);
-           
+
     if (SECT(ch->in_room) == SECT_WATER_NOSWIM)
       if (!IS_AFFECTED(ch, AFF_WATERWALK) && !IS_AFFECTED(ch, AFF_FLY) && !PRF_FLAGGED(ch, PRF_NOHASSLE))
         if (!has_boat(ch))
@@ -971,7 +971,7 @@ static char *
 get_status ( int percent )
 {
   char *status;
-  
+
   if (percent >= 100)
     status = str_dup("(excellent)");
   else if (percent >= 90)
@@ -998,7 +998,7 @@ target_status ( struct char_data *ch )
 {
   struct char_data *target = FIGHTING(ch);
   int percent = -1;
-  
+
   if (!ch || !target)
     return( str_dup("") );
 
@@ -1043,7 +1043,7 @@ char *make_prompt(struct descriptor_data *d)
       {
 	sprintf(prompt, "\r%s[ %sReturn%s to continue, (%sq%s)uit,"
 		" (%sr%s)efresh, (%sb%s)ack, or page "
-		"number (%s%d%s/%s%d%s) ]%s", 
+		"number (%s%d%s/%s%d%s) ]%s",
 		CCCYN(d->character, C_CMP),
 		CCRED(d->character, C_CMP), CCCYN(d->character, C_CMP),
 		CCRED(d->character, C_CMP), CCCYN(d->character, C_CMP),
@@ -1058,13 +1058,13 @@ char *make_prompt(struct descriptor_data *d)
     else if (!d->connected)
       {
 	char *status = NULL;
-    
+
 	*prompt = '\0';
 
 	if (GET_INVIS_LEV(d->character))
 	  sprintf(prompt, "i%d ", GET_INVIS_LEV(d->character));
 
-	if (GET_INFOBAR(ch) == INFOBAR_OFF) 
+	if (GET_INFOBAR(ch) == INFOBAR_OFF)
 	{
 	  /*
 	  if (PRF_FLAGGED(d->character, PRF_DISPHP))
@@ -1079,7 +1079,7 @@ char *make_prompt(struct descriptor_data *d)
 	    sprintf(prompt, "%s%s%d%sV ", prompt, CCRED(d->character, C_CMP),
 		  GET_MOVE(d->character), CCNRM(d->character, C_CMP));
 	   */
-	   
+
          if (PRF_FLAGGED(ch, PRF_DISPHP)) {
           count = GET_HIT(ch);
           max_count = GET_MAX_HIT(ch);
@@ -1132,7 +1132,7 @@ char *make_prompt(struct descriptor_data *d)
 	      }
 	    FREE(status);
 	   }
-  
+
 	   if (PRF_FLAGGED(d->character, PRF_DISPTANK))
 	   {
 	    status = tank_status(d->character);
@@ -1144,15 +1144,15 @@ char *make_prompt(struct descriptor_data *d)
 		      CCNRM(d->character, C_CMP));
 	    FREE(status);
 	   }
-	
+
 	   if (PRF_FLAGGED(d->character, PRF_AFK))
 	     sprintf(prompt, "%sAFK%s ", CCRED(d->character, C_CMP),
 		  CCNRM(d->character, C_CMP));
-    
+
 	   if (PRF_FLAGGED(d->character, PRF_INACTIVE))
 	     sprintf(prompt, "%sINACTIVE%s ", CCRED(d->character, C_CMP),
 		  CCNRM(d->character, C_CMP));
-    
+
 	    strcat(prompt, "> ");
 	}
 	else
@@ -1288,17 +1288,17 @@ int set_sendbuf(int s)
 /* Expand built-in color shortcuts, e.g. &r -> red */
 size_t color_expansion(char *txt, size_t size)
 {
-  int wantsize = 0, j;    
+  int wantsize = 0, j;
   const char *i = NULL;
   char orig_buf[MAX_STRING_LENGTH];
   char *buf = orig_buf, *orig_txt = txt;
-    
+
 #define A "\x1B["
   const char *ANSI[] = { "&", A"0m",A"0;30m",A"0;34m",A"0;32m",A"0;36m",A"0;31m",
                          A"0;35m",A"0;33m",A"0;37m",A"1;30m",A"1;34m",A"1;32m",A"1;36m",A"1;31m",
                          A"1;35m",A"1;33m",A"1;37m", "!"};
 #undef A
-    
+
   const char *OUR = "&ndbgcrmywDBGCRMYW";
 
   while (*txt) {
@@ -1311,7 +1311,7 @@ size_t color_expansion(char *txt, size_t size)
           break;
         }
       }
-            
+
       if (OUR[j]) {
         while (*i) {
           *buf = *i;
@@ -1333,7 +1333,7 @@ size_t color_expansion(char *txt, size_t size)
       if (wantsize < size)
         buf++;
     }
-        
+
     txt++;
   }
 
@@ -1349,11 +1349,11 @@ size_t write_to_output(struct descriptor_data *t, const char *txt, ...)
 {
   va_list args;
   size_t left;
-    
+
   va_start(args, txt);
   left = vwrite_to_output(t, txt, args);
   va_end(args);
-    
+
   return left;
 }
 
@@ -1364,18 +1364,18 @@ size_t vwrite_to_output(struct descriptor_data *t, const char *format, va_list a
   const char *text_overflow = "\r\nOVERFLOW\r\n";
   static char txt[MAX_STRING_LENGTH];
   size_t wantsize;
-  int size;  
+  int size;
 
   /* if we're in the overflow state already, ignore this new output */
   if (t->bufspace == 0)
     return (0);
 
   wantsize = size = vsnprintf(txt, sizeof(txt), format, args);
-  
+
   /* Only attempt color expansion if it doesn't overflow */
   if (COLOR_ON(t->character) && size >= 0 && wantsize < sizeof(txt))
     wantsize = size = color_expansion(txt, sizeof(txt));
-  
+
   /* If exceeding the size of the buffer, truncate it for the overflow message */
   if (size < 0 || wantsize >= sizeof(txt)) {
     size = sizeof(txt) - 1;
@@ -1499,7 +1499,7 @@ int new_descriptor(int s)
      return 0;
   }
 #endif
- 
+
   /* make sure we have room for it */
   for (newd = descriptor_list; newd; newd = newd->next) {
     sockets_connected++;
@@ -1547,7 +1547,7 @@ int new_descriptor(int s)
         sprintf(double_wild, "%03u.%03u.*.*",
                (int) ((addr & 0xFF000000) >> 24),
                (int) ((addr & 0x00FF0000) >> 16));
-           
+
 
         if (!nameserver_is_slow) {
            sprintf(buf, "DNS lookup failed on %s.", newd->host);
@@ -1564,9 +1564,9 @@ int new_descriptor(int s)
   }
 
   /* determine if the site is banned */
-  if ((isbanned(newd->host) == BAN_ALL) || 
+  if ((isbanned(newd->host) == BAN_ALL) ||
       (isbanned(wildhost) == BAN_ALL)   ||
-      (isbanned(double_wild) == BAN_ALL)) 
+      (isbanned(double_wild) == BAN_ALL))
   {
     write_to_descriptor(desc, "Sorry, your site is banned.\r\n", NULL);
     close(desc);
@@ -1667,7 +1667,7 @@ int process_output(struct descriptor_data *t)
   return result;
 }
 
-static ssize_t write_compressed(int desc, const char *txt, size_t length, 
+static ssize_t write_compressed(int desc, const char *txt, size_t length,
                                 struct compr *comp)
 {
   ssize_t written = 0;
@@ -1697,7 +1697,7 @@ static ssize_t write_compressed(int desc, const char *txt, size_t length,
     if (compr_result == Z_OK && !(comp->stream->avail_out)) {
       /* Buffer is full, flush and keep deflating */
       compr_result = 1;
-    } else if (compr_result < 0) {  
+    } else if (compr_result < 0) {
       /* Fatal zlib error */
       written = 0;
       break;
@@ -1711,7 +1711,7 @@ static ssize_t write_compressed(int desc, const char *txt, size_t length,
 
     /*
      * Flush compressed data in buff_out.
-     * If problems are encountered, try re-sending all data. 
+     * If problems are encountered, try re-sending all data.
      */
     tmp = 0;
     while (comp->size_out > 0) {
@@ -1729,13 +1729,13 @@ static ssize_t write_compressed(int desc, const char *txt, size_t length,
   /* Remove from input buffer what got compressed */
   bytes_copied = comp->size_in - comp->stream->avail_in;
   if (bytes_copied > 0)
-    strncpy((char *)comp->buff_in, (char *)comp->buff_in + bytes_copied, 
+    strncpy((char *)comp->buff_in, (char *)comp->buff_in + bytes_copied,
             comp->size_in - bytes_copied);
   comp->size_in = comp->stream->avail_in;
-  
+
   if (written > 0)
       written = bytes_copied;
-  
+
   return written;
 }
 
@@ -1743,13 +1743,13 @@ static ssize_t write_compressed(int desc, const char *txt, size_t length,
 ssize_t perform_socket_write(int desc, const char *txt, size_t length, struct compr *comp)
 {
   ssize_t result = 0;
-  
+
   /* Handle MCCP zlib compression. */
   if (comp && comp->state == 2)
     result = write_compressed(desc, txt, length, comp);
-  else 
+  else
     result = write(desc, txt, length);
-    
+
   if (result > 0) {
     /* Write was successful. */
     return (result);
@@ -1800,7 +1800,7 @@ int write_to_descriptor(int desc, const char *txt, struct compr *comp)
 {
   ssize_t bytes_written;
   size_t total = strlen(txt), write_total = 0;
-  
+
   while (total > 0) {
     bytes_written = perform_socket_write(desc, txt, total, comp);
 
@@ -1840,7 +1840,7 @@ int process_input(struct descriptor_data *t)
     (char) SE,
     (char) 0
   };
-  
+
   const char COMPRESS_REQUEST[] =
   {
     (char) IAC,
@@ -1893,8 +1893,8 @@ int process_input(struct descriptor_data *t)
 	/* Client requested compression. */
 	/* Send start of the compression stream. */
 	write_to_descriptor(t->descriptor, COMPRESS_START, NULL);
-	
-	/* Init the compression stream. */	
+
+	/* Init the compression stream. */
 	CREATE(t->comp->stream, z_stream, 1);
 	t->comp->stream->zalloc = z_alloc;
 	t->comp->stream->zfree = z_free;
@@ -2124,7 +2124,7 @@ void close_socket(struct descriptor_data *d)
       if (*(d->str))
         FREE(*(d->str));
       FREE(d->str);
-    }   
+    }
     target_idnum = GET_IDNUM(d->character);
     if (d->connected == CON_PLAYING) {
       save_char(d->character, NOWHERE);
@@ -2160,7 +2160,7 @@ void close_socket(struct descriptor_data *d)
     free(d->comp->buff_in);
   }
   if (d->comp)
-    free(d->comp);  
+    free(d->comp);
 
   FREE(d);
 }
@@ -2380,7 +2380,7 @@ send_to_zone(char *messg, struct char_data *ch)
 
   if (messg && ch)
     for (i = descriptor_list; i; i = i->next)
-      if (!i->connected && i->character && AWAKE(i->character) && 
+      if (!i->connected && i->character && AWAKE(i->character) &&
 	  (ch->in_room != (i->character)->in_room) &&
 	  (world[ch->in_room].zone == world[(i->character)->in_room].zone))
 	SEND_TO_Q(messg, i);
@@ -2493,7 +2493,7 @@ void act(char *str, int hide_invisible, struct char_data *ch,
 
   /*
    * Warning: the following TO_SLEEP code is a hack.
-   * 
+   *
    * I wanted to be able to tell act to deliver a message regardless of sleep
    * without adding an additional argument.  TO_SLEEP is 128 (a single bit
    * high up).  It's ONLY legal to combine TO_SLEEP with one other TO_x
@@ -2536,7 +2536,7 @@ void act(char *str, int hide_invisible, struct char_data *ch,
 }
 
 
-void do_broadcast(char *str, struct char_data *ch, struct obj_data *obj, 
+void do_broadcast(char *str, struct char_data *ch, struct obj_data *obj,
 		  struct obj_data *vict_obj, int hide_invisible)
 {
   struct char_data *to;
@@ -2553,7 +2553,7 @@ void do_broadcast(char *str, struct char_data *ch, struct obj_data *obj,
        {
          perform_act(buf, ch, obj, vict_obj, to);
        }
-     }       
+     }
 }
 
 /* Prefer the file over the descriptor. */
@@ -2621,12 +2621,12 @@ open_logfile(const char *filename, FILE *stderr_fp)
 }
 
 
-void 
+void
 write_mud_date_to_file()
 {
   FILE *f;
-  
-  f = fopen("etc/date_record", "w");  
+
+  f = fopen("etc/date_record", "w");
 
   sprintf(buf, "%d %d %d", time_info.year, time_info.month, time_info.day);
   fwrite(buf, sizeof(char), strlen(buf), f);

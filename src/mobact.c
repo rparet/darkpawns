@@ -74,10 +74,10 @@ void mobile_activity(void)
     /* hunt two steps at a time to do it faster */
     if ( (GET_POS(ch) == POS_STANDING) && (MOB_FLAGGED(ch, MOB_HUNTER))
             && (!FIGHTING(ch)) )
-                hunt_victim(ch); 
+                hunt_victim(ch);
     if ( (GET_POS(ch) == POS_STANDING) && (MOB_FLAGGED(ch, MOB_HUNTER))
             && (!FIGHTING(ch)) )
-                hunt_victim(ch); 
+                hunt_victim(ch);
 
     /* Examine call for special procedure */
     if (MOB_FLAGGED(ch, MOB_SPEC) && !no_specials) {
@@ -129,12 +129,12 @@ void mobile_activity(void)
        )  {
        if ( (SECT(EXIT(ch, door)->to_room) == SECT_WATER_SWIM) &&
            !CAN_SWIM(ch) )
-         continue;          
-       if ( (SECT(EXIT(ch, door)->to_room) == SECT_WATER_NOSWIM) &&
-           !CAN_SWIM(ch) ) 
          continue;
-       if ( (SECT(EXIT(ch, door)->to_room) == SECT_FLYING) && 
-           !IS_FLYING(ch) )  
+       if ( (SECT(EXIT(ch, door)->to_room) == SECT_WATER_NOSWIM) &&
+           !CAN_SWIM(ch) )
+         continue;
+       if ( (SECT(EXIT(ch, door)->to_room) == SECT_FLYING) &&
+           !IS_FLYING(ch) )
          continue;
        if (!ch || ch->in_room<0)
          continue; /* ch died in the move */
@@ -199,10 +199,10 @@ void mobile_activity(void)
     if (MOB_FLAGGED(ch, MOB_AGGRESSIVE) ||
         MOB_FLAGGED(ch, MOB_AGGR_TO_ALIGN)) {
       found = FALSE;
-      for (vict = world[ch->in_room].people; 
-	   vict && !found; 
+      for (vict = world[ch->in_room].people;
+	   vict && !found;
 	   vict = vict->next_in_room) {
-	if (IS_NPC(vict) || !CAN_SEE(ch, vict) || 
+	if (IS_NPC(vict) || !CAN_SEE(ch, vict) ||
 	    PRF_FLAGGED(vict, PRF_NOHASSLE))
 	  continue;
 	if (MOB_FLAGGED(ch, MOB_WIMPY) && AWAKE(vict))
@@ -235,9 +235,9 @@ void mobile_activity(void)
 
     /* race hate haters */
     if ( GET_MOB_SPEC(ch) != shop_keeper)
-     for (found = FALSE,vict = world[ch->in_room].people; 
-         vict && !found; 
-	 vict = vict->next_in_room) 
+     for (found = FALSE,vict = world[ch->in_room].people;
+         vict && !found;
+	 vict = vict->next_in_room)
      {
       int i = 0;
       for (i = 0; i < 5 && !found; i++)
@@ -249,7 +249,7 @@ void mobile_activity(void)
 		(IS_EVIL(ch) && !number(0,5))))
 	  {
  	    if (!number(0,5) && can_speak(ch))
-              act("'Come to destroy my kin? Die!', exclaims $n.", 
+              act("'Come to destroy my kin? Die!', exclaims $n.",
 	          FALSE, ch, 0, 0, TO_ROOM);
 	    hit(ch, vict, TYPE_UNDEFINED);
 	    found = TRUE;
@@ -261,10 +261,10 @@ void mobile_activity(void)
     /* Mob Memory */
     if (MOB_FLAGGED(ch, MOB_MEMORY) && MEMORY(ch)) {
       found = FALSE;
-      for (vict = world[ch->in_room].people; 
-           vict && !found; 
+      for (vict = world[ch->in_room].people;
+           vict && !found;
 	   vict = vict->next_in_room) {
-	if (IS_NPC(vict) || !CAN_SEE(ch, vict) || 
+	if (IS_NPC(vict) || !CAN_SEE(ch, vict) ||
 	    PRF_FLAGGED(vict, PRF_NOHASSLE))
 	  continue;
 	for (names = MEMORY(ch); names && !found; names = names->next)
@@ -289,11 +289,11 @@ void mobile_activity(void)
           do_assist(ch, GET_NAME(ch->master), 0, 0);
           return;
         }
-      for (vict = world[ch->in_room].people; 
-	   vict && !found; 
+      for (vict = world[ch->in_room].people;
+	   vict && !found;
 	   vict = vict->next_in_room)
 	if (ch != vict && IS_NPC(vict) && FIGHTING(vict)  &&
-	    CAN_SEE(ch, FIGHTING(vict)) && !IS_NPC(FIGHTING(vict)) && 
+	    CAN_SEE(ch, FIGHTING(vict)) && !IS_NPC(FIGHTING(vict)) &&
 	    ch != FIGHTING(vict)) {
 	  act("$n jumps to the aid of $N!", FALSE, ch, 0, vict, TO_ROOM);
 	  hit(ch, FIGHTING(vict), TYPE_UNDEFINED);
@@ -304,7 +304,7 @@ void mobile_activity(void)
     if (MOB_FLAGGED(ch, MOB_AGGR24)) {
       for (vict = 0, tmp_ch = world[ch->in_room].people;
            tmp_ch && !vict; tmp_ch = tmp_ch->next_in_room)
-          if(!IS_NPC(tmp_ch) && CAN_SEE(ch, tmp_ch) && 
+          if(!IS_NPC(tmp_ch) && CAN_SEE(ch, tmp_ch) &&
              !PRF_FLAGGED(tmp_ch,PRF_NOHASSLE) &&
              !ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL))
             if (GET_LEVEL(tmp_ch) >= 24)
@@ -313,7 +313,7 @@ void mobile_activity(void)
         act("$n grins evilly.", FALSE, ch, 0, 0, TO_ROOM);
 	if (can_speak(ch))
 	{
-         act("'Another dark pawn trying to be a knight, eh?', asks $n.", 
+         act("'Another dark pawn trying to be a knight, eh?', asks $n.",
 	    FALSE, ch, 0, 0, TO_ROOM);
          act("$n says, 'I can fix that.'\n\r", FALSE, ch, 0, 0, TO_ROOM);
 	}
@@ -327,12 +327,12 @@ void mobile_activity(void)
        for (vict = 0, tmp_ch = world[ch->in_room].people;
            tmp_ch && !vict; tmp_ch = tmp_ch->next_in_room)
           if(IS_NPC(tmp_ch) && CAN_SEE(ch, tmp_ch) &&
-             GET_LEVEL(tmp_ch)+3<GET_LEVEL(ch)) 
+             GET_LEVEL(tmp_ch)+3<GET_LEVEL(ch))
                vict=tmp_ch;
       if (vict) {
         act("$n grins evilly.", FALSE, ch, 0, 0, TO_ROOM);
         hit(ch, vict, 0);
-      }                        
+      }
     } /* aggr24+AGGR stuff */
     /* Add new mobile actions here */
 

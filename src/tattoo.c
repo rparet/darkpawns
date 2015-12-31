@@ -5,7 +5,7 @@
 
 #include "config.h"
 #include "sysdep.h"
- 
+
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -21,7 +21,7 @@
 
 /* =========================================================================
    NAME       : use_tattoo()
-   DESCRIPTION: 
+   DESCRIPTION:
    RETURNS    : TRUE if a tattoo was used
    WARNINGS   :
    HISTORY    : Created by dlkarnes 970417
@@ -56,7 +56,7 @@ use_tattoo( struct char_data *ch )
 	add_follower_quiet(skull, ch);
         IS_CARRYING_W(skull) = 0;
         IS_CARRYING_N(skull) = 0;
- 
+
         af.type = SPELL_CHARM;
         af.duration = 20;
         af.modifier = 0;
@@ -71,24 +71,24 @@ use_tattoo( struct char_data *ch )
       }
       break;
       case TATTOO_EYE:
-        call_magic(ch, ch, NULL, SPELL_GREATPERCEPT, 
+        call_magic(ch, ch, NULL, SPELL_GREATPERCEPT,
 		   DEFAULT_WAND_LVL, CAST_WAND);
 	break;
       case TATTOO_SHIP:
-        call_magic(ch, ch, NULL, SPELL_CHANGE_DENSITY, 
+        call_magic(ch, ch, NULL, SPELL_CHANGE_DENSITY,
 		   DEFAULT_WAND_LVL, CAST_WAND);
 	break;
       case TATTOO_ANGEL:
         call_magic(ch, ch, NULL, SPELL_BLESS, DEFAULT_WAND_LVL, CAST_WAND);
 	break;
-      default:  
+      default:
 	send_to_char("Your tattoo can't be 'use'd.\r\n", ch);
 	return (FALSE);
     }
     TAT_TIMER(ch)=24;
   }
 
-  return(FALSE); 
+  return(FALSE);
 }
 
 /* =========================================================================
@@ -177,7 +177,7 @@ tattoo_af( struct char_data *ch, bool add )
       af[0].location = APPLY_WIS;
       af[0].modifier = 1;
       break;
-    default: 
+    default:
       break;
     }
   for (i = 0; i < MAX_TAT_AFFECTS; i++)

@@ -23,7 +23,7 @@
 
 #include "config.h"
 #include "sysdep.h"
- 
+
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -49,11 +49,11 @@ void raw_kill(struct char_data * ch, int attacktype);
   In these eight rooms, blue moon gates will appear
   (during the night only) based on the phase of the moon.
   When a moongate appears, this should be the message:
-  
+
   A shimmering portal of blue light suddenly appears in the middle of the room.
   ...and...
   The shimmering blue portal fades out of existence.
-  
+
   Here is the cycles of when moongates are in...
   Room #    Moon Cycle during which the gate exists (night only)
   4001 ---- New Moon
@@ -76,7 +76,7 @@ void raw_kill(struct char_data * ch, int attacktype);
   4006 --- 4001 & 4003
   4007 --- 4002 & 4004
   4008 --- 4003 & 4005
-  
+
   Ok, now that we have the 8 blue moongates based on the moon cycles,
   there are 8 blue moon gates that are prermanently in place, regardless of
   time or moon phase.
@@ -91,36 +91,36 @@ void raw_kill(struct char_data * ch, int attacktype);
   4016 - 4006
   4017 - 4007
   4018 - 4008
-  
+
   In addition to this, there is a spell called gate.
-  Gate may only may be cast in rooms 4001-4008 
+  Gate may only may be cast in rooms 4001-4008
   Gate creates a red moongate in the room that goes to room 4000.
   this should last for like 2 ticks, maybe 3
 
-  BTW - the 8 gates in rooms 4001-4008 are the gates that will be spread 
+  BTW - the 8 gates in rooms 4001-4008 are the gates that will be spread
   around the world in various places.
   the 8 gates in rooms 4011-4018 are in "the void" or basically in the middle
   of nowhere. :P
 
-  
+
   spells.h:
   -------------
   + #define blue_portal 4001
   + #define red_portal  4002
   -------------
 
-  
+
   limits.c:point_update():
   -------------
       next_thing = j->next;
-      
-  +   
+
+  +
   +    if (GET_OBJ_VNUM(j) == red_portal)
   +	{
   +
   +	  if (GET_OBJ_TIMER(j) > 0)
   +	    GET_OBJ_TIMER(j)--;
-	    
+
   +	    if (!GET_OBJ_TIMER(j))
   +	      {
   +		if ((j->in_room != NOWHERE) && (world[j->in_room].people))
@@ -129,14 +129,14 @@ void raw_kill(struct char_data * ch, int attacktype);
   +		extract_obj(j);
   +	      }
   +	}
-      
+
   !    else if ((GET_OBJ_TYPE(j) == ITEM_CONTAINER) && GET_OBJ_VAL(j, 3))
 	{
   -------------
 
 
 
-  
+
   */
 
 /* room gate appears in, phase it appears in(-1=always), room(s) it exits to */
@@ -168,13 +168,13 @@ const int gate_phase[][NUM_PARTS] =
 #define NUM_GATES 16
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : load_night_gate()
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970114
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 void
 load_night_gate( void )
@@ -195,13 +195,13 @@ load_night_gate( void )
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : remove_night_gate()
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970114
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 void
 remove_night_gate( void )
@@ -218,7 +218,7 @@ remove_night_gate( void )
 	{
 	  int virtual = GET_OBJ_VNUM(gate);
 	  next_obj = gate->next_content;
-	  if (virtual == blue_portal && 
+	  if (virtual == blue_portal &&
 	      gate_phase[count][gate_load_phase] != -1)
 	    {
 	      if (gate)
@@ -231,13 +231,13 @@ remove_night_gate( void )
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : moon_gate()
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970114
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 SPECIAL(moon_gate)
 {
@@ -250,13 +250,13 @@ SPECIAL(moon_gate)
 
   if (!CMD_IS("enter")&&!CMD_IS("look"))
     return FALSE;
-  
+
   if (CMD_IS("enter"))
     {
       skip_spaces (&argument);
 
       if (!isname(argument, obj->name))
-	 return(FALSE);	
+	 return(FALSE);
 
       if (GET_OBJ_VNUM(obj) == blue_portal)
 	{
@@ -297,7 +297,7 @@ SPECIAL(moon_gate)
 	  if (rider)
 	    {
 	      char_from_room(rider);
-	      char_to_room(rider, portal_room); 
+	      char_to_room(rider, portal_room);
 	      look_at_room(rider, TRUE);
 	    }
 	}
@@ -326,13 +326,13 @@ SPECIAL(moon_gate)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : spell_gate()
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970114
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ASPELL(spell_gate)
 {
@@ -342,7 +342,7 @@ ASPELL(spell_gate)
   struct obj_data *i;
   struct obj_data *red_gate = read_object(red_portal, VIRTUAL);
   struct obj_data *blue_gate = read_object(blue_portal, VIRTUAL);
-  
+
   if (mini_mud)
 	return;
 
@@ -362,7 +362,7 @@ ASPELL(spell_gate)
                     "in the back of your mind.\r\n", ch->in_room);
        send_to_char("In your final moments, the only thing you can "
                     "feel is a\r\nwave of cosmic energy coursing "
-                    "through you, tearing your soul to shreds.\r\n", ch);  
+                    "through you, tearing your soul to shreds.\r\n", ch);
        raw_kill(ch, TYPE_BLAST);
        extract_obj(i);
        return;

@@ -23,7 +23,7 @@
 
 #include "config.h"
 #include "sysdep.h"
- 
+
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -50,15 +50,15 @@ void improve_skill(struct char_data *ch, int skill_num);
 void set_hunting(struct char_data *ch, struct char_data *victim);
 extern  struct char_data *create_mobile(struct char_data *ch, int
                                        mob_number,
-                                       int level, int hunting); 
+                                       int level, int hunting);
 
 ACMD(do_mold)
 {
    char objname[256], name[256], buf[MAX_STRING_LENGTH];
    char sdescr[MAX_STRING_LENGTH];
    struct obj_data *obj;
- 
-  
+
+
    argument = one_argument(argument, objname);
    skip_spaces(&argument);
    argument = one_word(argument, name);
@@ -78,7 +78,7 @@ ACMD(do_mold)
       send_to_char("You do not have anything to mold!\r\n", ch);
       return;
    }
-  
+
    if (!(*name) || !(*sdescr))
    {
       send_to_char("You must specify a name and a description.\r\n", ch);
@@ -101,16 +101,16 @@ ACMD(do_mold)
    sprintf(sdescr, "The material magically hardens when you create %s.\r\n"
 	   , obj->short_description);
    send_to_char(sdescr, ch);
- 
+
 }
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_carve
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
-   HISTORY    : 
-   OTHER      : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
+   HISTORY    :
+   OTHER      :
    ************************************************************************ */
 ACMD(do_carve)
 {
@@ -159,28 +159,28 @@ ACMD(do_carve)
       return;
     }
 
-  if (IS_CARRYING_N(ch) >= CAN_CARRY_N(ch)) 
+  if (IS_CARRYING_N(ch) >= CAN_CARRY_N(ch))
   {
     send_to_char("Your arms are already full!\r\n", ch);
     return;
   }
 
-  if (isname("carve_meat",obj->name)) 
-    tmp_obj = read_object(8015, VIRTUAL);	
-  else if (isname("carve_fish",obj->name)) 
+  if (isname("carve_meat",obj->name))
+    tmp_obj = read_object(8015, VIRTUAL);
+  else if (isname("carve_fish",obj->name))
     tmp_obj = read_object(12, VIRTUAL);
-  else if (isname("carve_bird",obj->name)) 
+  else if (isname("carve_bird",obj->name))
     tmp_obj = read_object(13, VIRTUAL);
-  else if (isname("carve_rabbit",obj->name)) 
+  else if (isname("carve_rabbit",obj->name))
     tmp_obj = read_object(14, VIRTUAL);
-  else 
-    tmp_obj = read_object(8015, VIRTUAL);	
+  else
+    tmp_obj = read_object(8015, VIRTUAL);
 
   if(ch->equipment[WEAR_WIELD])
     {
       if (ch->equipment[WEAR_WIELD]->obj_flags.value[3] == 3)/*type3=slash*/
 	obj_to_char(tmp_obj, ch);
-      else 
+      else
 	if (ch->equipment[WEAR_WIELD]->obj_flags.value[3]==11)/*type11=pierce*/
 	  obj_to_char(tmp_obj, ch);
 	else
@@ -211,13 +211,13 @@ ACMD(do_carve)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_behead
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_behead)
 {
@@ -263,7 +263,7 @@ ACMD(do_behead)
       send_to_char("You can't behead something without a head!\r\n", ch);
       return;
     }
-  else if (!((GET_OBJ_TYPE(obj) == ITEM_CONTAINER) && 
+  else if (!((GET_OBJ_TYPE(obj) == ITEM_CONTAINER) &&
            (GET_OBJ_VAL(obj,3))))
     {
       send_to_char("You can't behead that!\r\n", ch);
@@ -284,7 +284,7 @@ ACMD(do_behead)
 	      TRUE,ch,obj,0,TO_ROOM);
 	else
 	  act("$n rips the head off $p!", TRUE,ch,obj,0,TO_ROOM);
-	
+
 	act("You rip the head off $p with your bare hands!",
 	    TRUE,ch,obj,0,TO_CHAR);
       }
@@ -303,7 +303,7 @@ ACMD(do_behead)
   CREATE(tmp_obj, struct obj_data, 1);
   clear_object(tmp_obj);
   tmp_obj = read_object(16, VIRTUAL); /*head_proto*/
- 
+
   strcpy(name , "head");
   CREATE(tmp_obj->name, char, strlen(name) + 1);
   strcpy(tmp_obj->name, name);
@@ -315,26 +315,26 @@ ACMD(do_behead)
       strcpy(sdescr,"a bloody head ripped from ");
   else
     strcpy(sdescr,"a bloody head ripped from ");
- 
+
   strcat(sdescr, obj->short_description);
-  
-   
+
+
   CREATE(tmp_obj->short_description, char, strlen(sdescr) + 1);
   strcpy(tmp_obj->short_description, sdescr);
 
   strcat(sdescr, " has been left here.");
   sdescr[0] = toupper(sdescr[0]);
-   
+
   CREATE(tmp_obj->description, char, strlen(sdescr) + 1);
   strcpy(tmp_obj->description, sdescr);
 
-  if(can_take_obj(ch, tmp_obj)) 
+  if(can_take_obj(ch, tmp_obj))
    obj_to_char(tmp_obj, ch);
   else
    obj_to_room(tmp_obj, ch->in_room);
 
   CREATE(tmp_obj, struct obj_data, 1);
-  tmp_obj = read_object(17, VIRTUAL); /*behead corpse_proto*/  
+  tmp_obj = read_object(17, VIRTUAL); /*behead corpse_proto*/
   tmp_obj->obj_flags.value[0]=0;
   tmp_obj->obj_flags.value[3]=1;
   tmp_obj->obj_flags.timer = max_npc_corpse_time;
@@ -344,7 +344,7 @@ ACMD(do_behead)
   CREATE(tmp_obj->name, char, strlen(name) + 1);
   strcpy(tmp_obj->name, name);
 
-  obj_to_room(tmp_obj, ch->in_room); 
+  obj_to_room(tmp_obj, ch->in_room);
 
   for (temp = obj->contains; temp; temp = next_obj)
     {
@@ -357,13 +357,13 @@ ACMD(do_behead)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_headbutt
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_headbutt)
 {
@@ -403,7 +403,7 @@ ACMD(do_headbutt)
 	  return;
 	}
     }
- 
+
   if (victim == ch)
     {
       send_to_char("You bang your head into the nearest wall...\n\r", ch);
@@ -460,13 +460,13 @@ ACMD(do_headbutt)
 } /* do_headbutt*/
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_bearhug
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_bearhug)
 {
@@ -489,7 +489,7 @@ ACMD(do_bearhug)
       stc("Dismount first!\r\n", ch);
       return;
     }
-  
+
   if (!(victim = get_char_room_vis(ch, arg)))
     {
       if (FIGHTING(ch))
@@ -541,13 +541,13 @@ ACMD(do_bearhug)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_cutthroat
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_cutthroat)
 {
@@ -595,7 +595,7 @@ ACMD(do_cutthroat)
       send_to_char("You feel too peaceful to slit a throat!\n\r", ch);
       return;
     }
-  
+
   if (!IS_NPC(victim) && GET_LEVEL(victim) <= 10)
   {
     act("Ancient forces protect $N from your wrath!", FALSE, ch, 0, victim, TO_CHAR);
@@ -613,9 +613,9 @@ ACMD(do_cutthroat)
      stc("You can't get close enough!\r\n", ch);
       return;
     }
-   
+
   percent = number(1, 101);	/* 101% is a complete failure */
-                                                             
+
   prob = GET_SKILL(ch, SKILL_CUTTHROAT);
   if (GET_LEVEL(ch)>LEVEL_IMMORT)
     prob=102;
@@ -641,7 +641,7 @@ ACMD(do_cutthroat)
   else
     {
       send_to_char("Your slash at their throat barely misses!\n\r",ch);
-      sprintf(buf, "%s makes a vicious lunge at your throat!\r\n", 
+      sprintf(buf, "%s makes a vicious lunge at your throat!\r\n",
 		GET_NAME(ch));
       send_to_char(buf,victim);
     }
@@ -655,13 +655,13 @@ ACMD(do_cutthroat)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_otouch
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by farthammer
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_otouch) /*orgasmic touch for immortals*/
 {
@@ -703,11 +703,11 @@ ACMD(do_otouch) /*orgasmic touch for immortals*/
 	  GET_HIT(victim)+=2;
 
 	  if (GET_SEX(victim) == SEX_MALE)
-	    { 
+	    {
 	      send_to_char("God, you need some beer and some food.\n\r",
 			   victim);
 	      act("A dark stain appears under $N's armor and slowly "
-		  "spreads down his leg.", FALSE, ch, 0, victim, TO_NOTVICT); 
+		  "spreads down his leg.", FALSE, ch, 0, victim, TO_NOTVICT);
 	      if (GET_COND(victim,FULL)>=0)
 		GET_COND(victim,FULL)=0;
 	    }
@@ -717,20 +717,20 @@ ACMD(do_otouch) /*orgasmic touch for immortals*/
 	      send_to_char("Once is never enough, you beg for more!\n\r",
 			   victim);
 	      act("$N pleads for more and $n deftly glides a hand beneath "
-		  "her panties!", FALSE, ch, 0, victim, TO_NOTVICT); 
+		  "her panties!", FALSE, ch, 0, victim, TO_NOTVICT);
 	    }
 	}
     }
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_trip
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_trip)
 {
@@ -793,7 +793,7 @@ ACMD(do_trip)
 
   prob = GET_SKILL(ch, SKILL_TRIP);
 
-  percent += MAX(GET_LEVEL(victim)-GET_LEVEL(ch),0);  
+  percent += MAX(GET_LEVEL(victim)-GET_LEVEL(ch),0);
 
   if (percent > prob)  /* failure */
     {
@@ -864,7 +864,7 @@ ACMD(do_slug)
    percent = number(1, 101); /* 101% is a complete failure */
    prob = GET_SKILL(ch, SKILL_SLUG);
 
-   if (percent > prob) 
+   if (percent > prob)
    {
       damage(ch, victim, 0, SKILL_SLUG);
       improve_skill(ch, SKILL_SLUG);
@@ -894,7 +894,7 @@ ACMD(do_charge)
 
   if (!(victim = get_char_room_vis(ch, arg)))
     {
-      if (FIGHTING(ch)) 
+      if (FIGHTING(ch))
 	victim = FIGHTING(ch);
       else
 	{
@@ -917,7 +917,7 @@ ACMD(do_charge)
       return;
     }
 
-  if (ch->equipment[WEAR_WIELD]->obj_flags.value[3] != 12 
+  if (ch->equipment[WEAR_WIELD]->obj_flags.value[3] != 12
       && ch->equipment[WEAR_WIELD]->obj_flags.value[3] != 3)
     {
       stc("You need sword or a lance to run 'em through!\r\n",ch);
@@ -955,13 +955,13 @@ ACMD(do_charge)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_smackheads
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_smackheads)
 {
@@ -1046,14 +1046,14 @@ ACMD(do_smackheads)
       strcat(buf, " and ");
       strcat(buf, GET_NAME(victim2));
       strcat (buf, " slip out of your hands!");
-      act(buf, FALSE, ch, 0, 0, TO_CHAR);  	
+      act(buf, FALSE, ch, 0, 0, TO_CHAR);
       strcpy(buf, GET_NAME(victim1));
       strcat(buf, " and ");
       strcat(buf, GET_NAME(victim2));
       strcat (buf, " duck as ");
       strcat (buf, GET_NAME(ch));
       strcat (buf, " lunges at them!");
-      act(buf, FALSE, ch, 0, 0, TO_ROOM);  	
+      act(buf, FALSE, ch, 0, 0, TO_ROOM);
       improve_skill(ch, SKILL_SMACKHEADS);
       damage(ch, victim1, 0, SKILL_SMACKHEADS);
       damage(ch, victim2, 0, SKILL_SMACKHEADS);
@@ -1065,14 +1065,14 @@ ACMD(do_smackheads)
       strcat(buf, " and ");
       strcat(buf, GET_NAME(victim2));
       strcat(buf, " and bang them together with a sickening *SMACK*.");
-      act(buf, FALSE, ch, 0, 0, TO_CHAR);  	
+      act(buf, FALSE, ch, 0, 0, TO_CHAR);
       strcpy(buf,GET_NAME(ch));
       strcat(buf, " grabs the heads of ");
       strcat(buf, GET_NAME(victim1));
       strcat(buf, " and ");
       strcat(buf, GET_NAME(victim2));
       strcat(buf, " and bangs them together with a sickening *SMACK*.");
-      act(buf, FALSE, ch, 0, 0, TO_ROOM);  	
+      act(buf, FALSE, ch, 0, 0, TO_ROOM);
       GET_POS(victim1) = POS_STUNNED;
       GET_POS(victim2) = POS_STUNNED;
       update_pos(victim1);
@@ -1087,13 +1087,13 @@ ACMD(do_smackheads)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_spike
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_spike)
 {
@@ -1116,12 +1116,12 @@ ACMD(do_spike)
 
   if (!*arg)
     {
-      sprintf(spikebuf, "Whom do you wish to %s?\r\n", weapon); 
+      sprintf(spikebuf, "Whom do you wish to %s?\r\n", weapon);
       send_to_char(spikebuf, ch);
     }
   else if (!(victim = get_char_room_vis(ch, arg)))
-    send_to_char(NOPERSON, ch);           
-  else if ( !GET_EQ(ch, WEAR_WIELD) || 
+    send_to_char(NOPERSON, ch);
+  else if ( !GET_EQ(ch, WEAR_WIELD) ||
 	    !strstr(OBJN(GET_EQ(ch, WEAR_WIELD), ch), weapon) )
     {
       sprintf(spikebuf, "You need to wield a %s to succeed!\r\n", weapon);
@@ -1139,9 +1139,9 @@ ACMD(do_spike)
 	   (subcmd == SCMD_STAKE && PLR_FLAGGED(ch, PLR_VAMPIRE)) )
     send_to_char("You can't destroy your own kind!\r\n", ch);
 
-  /* took this out so you can do nightbreeds any time -rparet 
+  /* took this out so you can do nightbreeds any time -rparet
   else if(weather_info.sunlight == SUN_SET||
-	  weather_info.sunlight == SUN_DARK ) 
+	  weather_info.sunlight == SUN_DARK )
     send_to_char("The beast is too strong at night to be destroyed!\r\n",
 		 ch);
   */
@@ -1156,20 +1156,20 @@ ACMD(do_spike)
 	  (GET_LEVEL(victim)-GET_LEVEL(ch) < number(0,LEVEL_IMMORT)) ||
 	  !AWAKE(victim) )
 	{
-	  act("You drive $p into $S chest!", 
+	  act("You drive $p into $S chest!",
 	      FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_CHAR);
 	  act("$n drives $p into the chest of $N!",
 	      FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_NOTVICT);
 	  act("$n drives $p into your chest with a solid blow!",
 	      FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_VICT);
 	  if (PLR_FLAGGED(victim, PLR_VAMPIRE))
-	    REMOVE_BIT_AR(PLR_FLAGS(victim), PLR_VAMPIRE);          
+	    REMOVE_BIT_AR(PLR_FLAGS(victim), PLR_VAMPIRE);
 	  if (PLR_FLAGGED(victim, PLR_WEREWOLF))
-	    REMOVE_BIT_AR(PLR_FLAGS(victim), PLR_WEREWOLF);          
+	    REMOVE_BIT_AR(PLR_FLAGS(victim), PLR_WEREWOLF);
 	  sprintf(buf, "%s %sd %s at %s.",
-		  GET_NAME(ch), weapon, GET_NAME(victim), 
+		  GET_NAME(ch), weapon, GET_NAME(victim),
 		  world[victim->in_room].name);
-	  mudlog(buf, BRF, LVL_IMMORT, TRUE); 
+	  mudlog(buf, BRF, LVL_IMMORT, TRUE);
 	  GET_PKS(ch)++;
 	  GET_DEATHS(victim)++;
 	  raw_kill(victim, TYPE_UNDEFINED);
@@ -1182,19 +1182,19 @@ ACMD(do_spike)
 	      FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_NOTVICT);
 	  act("$n comes at you with a $p, but you dodge the attempt!",
 	      FALSE, ch, GET_EQ(ch, WEAR_WIELD), victim, TO_VICT);
-	}	
+	}
       WAIT_STATE(ch, PULSE_VIOLENCE*2);
     }
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_bite
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_bite)
 {
@@ -1218,13 +1218,13 @@ ACMD(do_bite)
     send_to_char("Bite who?!\r\n", ch);
     return;
   }
- 
+
   if (victim == ch)
     {
       send_to_char("You bite your tongue and say nothing.\r\n", ch);
       return;
     }
-   
+
   if ( (!(PLR_FLAGGED(ch, PLR_WEREWOLF)) && !(PLR_FLAGGED(ch, PLR_VAMPIRE)))
        || (IS_NPC(ch)) )
     {
@@ -1260,7 +1260,7 @@ ACMD(do_bite)
       send_to_char("Your victim is already a creature of the night!", ch);
       return;
     }
-  
+
 
   if(IS_AFFECTED(ch, AFF_WEREWOLF))
     {
@@ -1270,7 +1270,7 @@ ACMD(do_bite)
 	  TRUE,ch,0,victim,TO_VICT);
       act("$n rips the flesh of $N, growling with bloodlust!",
 	  TRUE,ch,0,victim,TO_NOTVICT);
-	
+
       damage(ch, victim, MIN(15,GET_LEVEL(ch)), SKILL_BITE);
       WAIT_STATE(ch, PULSE_VIOLENCE * 2);
     }
@@ -1298,18 +1298,18 @@ ACMD(do_bite)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : full_moon()
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 void
 full_moon(void)
 {
-  struct descriptor_data *i;          
+  struct descriptor_data *i;
   ACMD(do_transform);
 
   for (i = descriptor_list; i; i = i->next)
@@ -1321,7 +1321,7 @@ full_moon(void)
 	  {
 	    send_to_char("The lunar light infuses your body, forcing you to "
 			 "transform!\r\n", i->character);
-	    send_to_char("Racked with the pain of the transformation, your " 
+	    send_to_char("Racked with the pain of the transformation, your "
 			 "head is thrown\r\nback and an unearthly moan escapes"
 			 " your lips.\r\n", i->character);
 	    do_transform(i->character, "", 0, 0);
@@ -1329,19 +1329,19 @@ full_moon(void)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : update_review()
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 void
 update_review(struct char_data *speaker, char *gossip)
 {
   int count = 0;
-  
+
   if (!speaker || !gossip)
     return;
 
@@ -1358,13 +1358,13 @@ update_review(struct char_data *speaker, char *gossip)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_review
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_review)
 {
@@ -1391,19 +1391,19 @@ ACMD(do_review)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_whois
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_whois)
 {
   struct char_file_u chdata;
   extern char *class_abbrevs[];
-  
+
   one_argument(argument, arg);
   if (!*arg)
     {
@@ -1422,13 +1422,13 @@ ACMD(do_whois)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_strike
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_strike)
 {
@@ -1489,13 +1489,13 @@ ACMD(do_strike)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : check_kk_success()
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 static int
 check_kk_success( struct char_data *ch, int skill_num)
@@ -1541,13 +1541,13 @@ check_kk_success( struct char_data *ch, int skill_num)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_kuji_kiri
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_kuji_kiri)
 {
@@ -1555,7 +1555,7 @@ ACMD(do_kuji_kiri)
   struct master_affected_type af[MAX_SPELL_AFFECTS];
   char *tovict = NULL, *toroom = NULL;
   int heal = 0, success = FALSE, i = 0;
-  
+
   if ((GET_CLASS(ch) != CLASS_NINJA) && (GET_LEVEL(ch) < LEVEL_IMMORT))
     {
       send_to_char("You know nothing of kuji-kiri!\r\n", ch);
@@ -1581,7 +1581,7 @@ ACMD(do_kuji_kiri)
     }
 
   success = check_kk_success(ch, subcmd);
-  
+
   toroom = "$n interlaces $s fingers and meditates deeply.";
 
   for (i = 0; i < MAX_SPELL_AFFECTS; i++)
@@ -1721,7 +1721,7 @@ ACMD(do_kuji_kiri)
     }
   af->by_type = BY_SPELL;
   af->obj_num = 0;
-   
+
   for (i = 0; i < MAX_SPELL_AFFECTS; i++)
     if (af[i].bitvector || (af[i].location != APPLY_NONE))
       affect_join(ch, af+i, FALSE, FALSE, FALSE, FALSE);
@@ -1731,7 +1731,7 @@ ACMD(do_kuji_kiri)
       GET_HIT(ch) = MIN(GET_MAX_HIT(ch), GET_HIT(ch) + heal);
       update_pos(ch);
     }
-    
+
   if (tovict != NULL)
     send_to_char(tovict, ch);
   if (toroom != NULL)
@@ -1739,13 +1739,13 @@ ACMD(do_kuji_kiri)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : flesh_alter_from()
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 void
 flesh_alter_from(struct char_data *ch)
@@ -1755,13 +1755,13 @@ flesh_alter_from(struct char_data *ch)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : flesh_alter_to()
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 void
 flesh_alter_to(struct char_data *ch)
@@ -1771,13 +1771,13 @@ flesh_alter_to(struct char_data *ch)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : flesh_altered_type()
-   PURPOSE    : 
+   PURPOSE    :
    RETURNS    : hit_type based on what weapon it is.
-   WARNINGS   : 
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970322
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 int
 flesh_altered_type(struct char_data *ch)
@@ -1785,50 +1785,50 @@ flesh_altered_type(struct char_data *ch)
   switch (GET_LEVEL(ch))
     {
     case 1:
-    case 2:      
+    case 2:
     case 3:
       return(7);
-    case 4:      
+    case 4:
     case 5:
-    case 6:      
+    case 6:
       return(11);
     case 7:
-    case 8:      
+    case 8:
     case 9:
       return(3);
-    case 10:      
+    case 10:
     case 11:
-    case 12:      
+    case 12:
     case 13:
-    case 14:      
+    case 14:
     case 15:
       return(7);
-    case 16:      
+    case 16:
     case 17:
-    case 18:      
+    case 18:
     case 19:
     case 20:
-    case 21:            
+    case 21:
       return(3);
     case 22:
-    case 23:            
+    case 23:
     case 24:
       return(7);
-    case 25:            
+    case 25:
     case 26:
-    case 27:            
+    case 27:
     case 28:
-    case 29:            
+    case 29:
     default:
       return(3);
     }
-  
+
 }
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : flesh_alter_weapon()
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
    OTHER      : if you change this, change flesh_altered_type() too
    ************************************************************************ */
@@ -1838,43 +1838,43 @@ flesh_alter_weapon(struct char_data *ch)
   switch (GET_LEVEL(ch))
     {
     case 1:
-    case 2:      
+    case 2:
     case 3:
       return(str_dup("studded wooden club"));
-    case 4:      
+    case 4:
     case 5:
-    case 6:      
+    case 6:
       return(str_dup("razor-sharp dagger"));
     case 7:
-    case 8:      
+    case 8:
     case 9:
       return(str_dup("steel-shafted axe"));
-    case 10:      
+    case 10:
     case 11:
-    case 12:      
+    case 12:
       return(str_dup("studded steel mace"));
     case 13:
-    case 14:      
+    case 14:
     case 15:
       return(str_dup("battle flail"));
-    case 16:      
+    case 16:
     case 17:
-    case 18:      
+    case 18:
       return(str_dup("steel-shafted battle axe"));
     case 19:
     case 20:
-    case 21:            
+    case 21:
       return(str_dup("double-headed battle axe"));
     case 22:
-    case 23:            
+    case 23:
     case 24:
       return(str_dup("studded morning-star"));
-    case 25:            
+    case 25:
     case 26:
-    case 27:            
+    case 27:
       return(str_dup("gleaming broad sword"));
     case 28:
-    case 29:            
+    case 29:
       return(str_dup("gleaming long sword"));
     default:
       return(str_dup("gleaming scythe"));
@@ -1882,19 +1882,19 @@ flesh_alter_weapon(struct char_data *ch)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_flesh_alter
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_flesh_alter)
 {
   char to_vict[180], to_room[180], *weapon;
   int percent = 0, prob = 0;
-  
+
   if (!GET_SKILL(ch, SKILL_FLESH_ALTER))
     {
       send_to_char("You know nothing of altering your flesh!\n\r", ch);
@@ -1929,29 +1929,29 @@ ACMD(do_flesh_alter)
 	  obj_to_char(unequip_char(ch, WEAR_WIELD), ch);
 	  act("You stop using $p.", FALSE, ch, weap, 0, TO_CHAR);
 	  act("$n stops using $p.", TRUE, ch, weap, 0, TO_ROOM);
-	}  
+	}
       sprintf(to_vict, "Your hand turns into a %s!\r\n", weapon);
       sprintf(to_room, "$n's hand turns into a %s!", weapon);
     }
   FREE(weapon);
-  
+
   send_to_char(to_vict, ch);
   act(to_room, TRUE, ch, 0, 0, TO_ROOM);
 }
-  
 
-/* ************************************************************************** 
+
+/* **************************************************************************
    NAME       : do_compare
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
               : Updated for 2.2 by rparet 981210
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_compare)
 {
-  
+
   struct obj_data *obj1, *obj2;
   int diff = 0, percent, prob;
   int where1=0, where2=0;
@@ -2011,11 +2011,11 @@ ACMD(do_compare)
       return;
     }
 
-  if (GET_OBJ_TYPE(obj1) == ITEM_ARMOR) 
+  if (GET_OBJ_TYPE(obj1) == ITEM_ARMOR)
     {
       if (CAN_WEAR(obj1, ITEM_WEAR_FINGER))      where1 = WEAR_FINGER_R;
-      if (CAN_WEAR(obj1, ITEM_WEAR_NECK))        where1 = WEAR_NECK_1;   
-      if (CAN_WEAR(obj1, ITEM_WEAR_BODY))        where1 = WEAR_BODY; 
+      if (CAN_WEAR(obj1, ITEM_WEAR_NECK))        where1 = WEAR_NECK_1;
+      if (CAN_WEAR(obj1, ITEM_WEAR_BODY))        where1 = WEAR_BODY;
       if (CAN_WEAR(obj1, ITEM_WEAR_HEAD))        where1 = WEAR_HEAD;
       if (CAN_WEAR(obj1, ITEM_WEAR_LEGS))        where1 = WEAR_LEGS;
       if (CAN_WEAR(obj1, ITEM_WEAR_FEET))        where1 = WEAR_FEET;
@@ -2029,10 +2029,10 @@ ACMD(do_compare)
       if (CAN_WEAR(obj1, ITEM_WEAR_FACE))        where1 = WEAR_FACE;
       if (CAN_WEAR(obj1, ITEM_WEAR_HOVER))       where1 = WEAR_HOVER;
       if (CAN_WEAR(obj1, ITEM_WEAR_WIELD))       where1 = WEAR_WIELD;
-        
+
       if (CAN_WEAR(obj2, ITEM_WEAR_FINGER))      where2 = WEAR_FINGER_R;
-      if (CAN_WEAR(obj2, ITEM_WEAR_NECK))        where2 = WEAR_NECK_1;   
-      if (CAN_WEAR(obj2, ITEM_WEAR_BODY))        where2 = WEAR_BODY; 
+      if (CAN_WEAR(obj2, ITEM_WEAR_NECK))        where2 = WEAR_NECK_1;
+      if (CAN_WEAR(obj2, ITEM_WEAR_BODY))        where2 = WEAR_BODY;
       if (CAN_WEAR(obj2, ITEM_WEAR_HEAD))        where2 = WEAR_HEAD;
       if (CAN_WEAR(obj2, ITEM_WEAR_LEGS))        where2 = WEAR_LEGS;
       if (CAN_WEAR(obj2, ITEM_WEAR_FEET))        where2 = WEAR_FEET;
@@ -2046,7 +2046,7 @@ ACMD(do_compare)
       if (CAN_WEAR(obj2, ITEM_WEAR_FACE))        where2 = WEAR_FACE;
       if (CAN_WEAR(obj2, ITEM_WEAR_HOVER))       where2 = WEAR_HOVER;
       if (CAN_WEAR(obj2, ITEM_WEAR_WIELD))       where2 = WEAR_WIELD;
-      
+
       if (where1 != where2)
       {
         stc("You can only compare the same types of armor!\r\n", ch);
@@ -2055,7 +2055,7 @@ ACMD(do_compare)
   }
 
   percent = number(1, 101);	/* 101% is a complete failure */
-  
+
   if (GET_OBJ_TYPE(obj1) == ITEM_WEAPON)
     diff = ( (((GET_OBJ_VAL(obj1, 2) + 1) / 2.0) * GET_OBJ_VAL(obj1, 1)) -
 	   (((GET_OBJ_VAL(obj2, 2) + 1) / 2.0) * GET_OBJ_VAL(obj2, 1)) );
@@ -2068,7 +2068,7 @@ ACMD(do_compare)
     diff += number (-3,3);
   else
     improve_skill(ch, SKILL_COMPARE);
-  
+
 
   if (diff < -5)
     sprintf(buf,"%s looks much worse than %s.\r\n",
@@ -2090,20 +2090,20 @@ ACMD(do_compare)
   else
     sprintf(buf,"%s looks much better than %s.\r\n",
      obj1->short_description, obj2->short_description);
-  
+
   CAP(buf);
   send_to_char(buf, ch);
 
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_palm
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_palm)
 {
@@ -2123,25 +2123,25 @@ ACMD(do_palm)
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_berserk
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_berserk)
 {
   struct affected_type af;
   byte percent, prob;
   int failed = FALSE;
-  
+
   if (!GET_SKILL(ch, SKILL_BERSERK))
     {
       send_to_char("You're about as berserk as you're gonna get.\r\n", ch);
       if (!subcmd)
-        return;      
+        return;
     }
 
   percent = number(1, 101);	/* 101% is a complete failure */
@@ -2152,10 +2152,10 @@ ACMD(do_berserk)
 		   ch);
       return;
     }
-  
+
   if (GET_LEVEL(ch) > LEVEL_IMMORT)
     percent = 0;
-  
+
   prob = subcmd?number(50,100):GET_SKILL(ch, SKILL_BERSERK);
 
   if (percent > prob)
@@ -2167,39 +2167,39 @@ ACMD(do_berserk)
     send_to_char("Your vision turns sanguine as you summon up "
 		 "your battle rage!\r\n", ch);
     improve_skill(ch, SKILL_BERSERK);
-      
+
   af.modifier  = failed ? 0 : 2;
   af.duration  = 1;
   af.type      = SKILL_BERSERK;
   af.location  = APPLY_HITROLL;
   af.bitvector = AFF_BERSERK;
   affect_to_char(ch, &af);
-  
-  af.modifier  = failed ? 0 : 2;  
+
+  af.modifier  = failed ? 0 : 2;
   af.location  = APPLY_DAMROLL;
   affect_to_char(ch, &af);
-  
+
   af.modifier  = failed ? 0 : 25;
   af.location  = APPLY_AC;
   affect_to_char(ch, &af);
-  
+
   WAIT_STATE(ch, PULSE_VIOLENCE * 2);
 }
 
 
-/* ************************************************************************** 
+/* **************************************************************************
    NAME       : do_tag
-   PURPOSE    : 
-   RETURNS    : 
-   WARNINGS   : 
+   PURPOSE    :
+   RETURNS    :
+   WARNINGS   :
    HISTORY    : Created by dlkarnes 970128
-   OTHER      : 
+   OTHER      :
    ************************************************************************ */
 ACMD(do_tag)
 {
   struct descriptor_data *d;
   struct char_data *it = NULL, *vict = NULL;
-  
+
   one_argument(argument, arg);
 
   if (!*arg)
@@ -2212,7 +2212,7 @@ ACMD(do_tag)
       send_to_char("They don't seem to be here.\r\n", ch);
       return;
     }
-  
+
   if (!IS_NPC(vict) && !vict->desc) { /* linkless */
     send_to_char("No way! They're linkless!\r\n", ch);
     return;
@@ -2243,25 +2243,25 @@ ACMD(do_tag)
 	  TRUE, ch, 0, vict, TO_CHAR);
       return;
     }
-    
+
   if (PLR_FLAGGED(ch, PLR_IT))
     REMOVE_BIT_AR(PLR_FLAGS(ch), PLR_IT);
   if (PLR_FLAGGED(vict, PLR_IT))
     REMOVE_BIT_AR(PLR_FLAGS(vict), PLR_IT);
 
-  SET_BIT_AR(PLR_FLAGS(vict), PLR_IT);         
+  SET_BIT_AR(PLR_FLAGS(vict), PLR_IT);
 
   if (ch == vict)
-    send_to_char("Let the game begin!\r\n", ch);    
+    send_to_char("Let the game begin!\r\n", ch);
   else
     {
       act("$n taps $N and screams, 'TAG! You're it!'",
 	  TRUE, ch, 0, vict, TO_NOTVICT);
       act("$n taps you and screams, 'TAG! You're it!'",
-	  TRUE, ch, 0, vict, TO_VICT); 
+	  TRUE, ch, 0, vict, TO_VICT);
       act("You tap $N and scream, 'TAG! You're it!'",
 	  TRUE, ch, 0, vict, TO_CHAR);
-      WAIT_STATE(vict, PULSE_VIOLENCE * 2); 
+      WAIT_STATE(vict, PULSE_VIOLENCE * 2);
     }
 }
 
@@ -2313,7 +2313,7 @@ ACMD(do_scan)
 	  if (world[EXIT(ch, dir)->to_room].people)
 	  {
 	    sprintf(buf, "%s%s:\r\n",
-		    ((dir==5)?"Below":(dir==4)?"Above": "To the "), 
+		    ((dir==5)?"Below":(dir==4)?"Above": "To the "),
 		    ((dir==5)?"":(dir==4)?"":dirs[dir]));
 	    send_to_char(buf, ch);
 	    found = TRUE;
@@ -2340,7 +2340,7 @@ ACMD(do_scan)
 ACMD(do_parry)
 {
   int percent, prob;
-  
+
   if (!GET_SKILL(ch, SKILL_PARRY))
     {
       send_to_char("You're not good enough at swordplay to parry!\r\n", ch);
@@ -2376,13 +2376,13 @@ ACMD(do_parry)
          improve_skill(ch, SKILL_PARRY);
       WAIT_STATE(ch, PULSE_VIOLENCE *3);
       return;
-    }       
+    }
 
-  send_to_char("With a dazzling show of swordplay, you move into " 
+  send_to_char("With a dazzling show of swordplay, you move into "
                "defensive position...\r\n", ch);
-  act("$n displays a dazzling show of swordplay, fending off $N's every blow!", 
+  act("$n displays a dazzling show of swordplay, fending off $N's every blow!",
 	TRUE, ch, 0, FIGHTING(ch), TO_ROOM);
-  act("$n displays a dazzling show of swordplay, fending off your every blow!", 
+  act("$n displays a dazzling show of swordplay, fending off your every blow!",
 	TRUE, ch, 0, FIGHTING(ch), TO_VICT);
   IS_PARRIED(FIGHTING(ch)) = TRUE;
   WAIT_STATE(ch, PULSE_VIOLENCE *2);
@@ -2424,7 +2424,7 @@ ACMD(do_circle)
 		   ch);
       return;
     }
-  
+
   if (IS_MOUNTED(ch))
     {
       stc("Dismount first!\r\n", ch);
@@ -2448,7 +2448,7 @@ ACMD(do_circle)
 
   percent = number(1, 101);	/* 101% is a complete failure */
   prob = GET_SKILL(ch, SKILL_CIRCLE);
-  
+
   if (AWAKE(vict) && (percent > prob))
   {
     if (FIGHTING(vict))
@@ -2525,7 +2525,7 @@ ACMD(do_point)
 	sprintf(mybuf, "$n points %s.", word);
 	act(mybuf, FALSE, ch, 0, 0, TO_ROOM);
 	sprintf(mybuf, "You point %s.\r\n", word);
-	send_to_char(mybuf, ch);	
+	send_to_char(mybuf, ch);
 	FREE(word);
    }
    else
@@ -2539,7 +2539,7 @@ ACMD(do_point)
    to_room = "$n points at $mself.";
    to_char = "You point at yourself.";
   }
-  else 
+  else
   {
    if ((obj = GET_EQ(ch, WEAR_WIELD)))
    {
@@ -2602,7 +2602,7 @@ ACMD(do_groinrip)
 	  return;
 	}
     }
- 
+
   if (victim == ch)
     {
       send_to_char("No masochism allowed!\r\n", ch);
@@ -2613,7 +2613,7 @@ ACMD(do_groinrip)
     {
       stc("Ha Ha. Don't think so.\r\n", ch);
       return;
-    }                       
+    }
 
   if ((GET_LEVEL(victim) >= LEVEL_IMMORT) && (!IS_NPC(victim)))
     {
@@ -2668,17 +2668,17 @@ lunar_hunter(void)
   for (i = descriptor_list; i; i = i->next)
     if (!i->connected && i->character)
 	if (GET_LEVEL(i->character)>12 &&
-	    GET_LEVEL(i->character)<LVL_IMMORT && 
+	    GET_LEVEL(i->character)<LVL_IMMORT &&
 	    number(0,5) == 0)
 	{
 	   char msg[256];
-           mob = create_mobile(i->character,7,(GET_LEVEL(i->character)/2)+2,TRUE);    
+           mob = create_mobile(i->character,7,(GET_LEVEL(i->character)/2)+2,TRUE);
            char_from_room(mob);
            char_to_room(mob, real_room(8067));
            sprintf (msg, "%s By the light of the full moon.. DIE!",
                    GET_NAME(i->character));
            do_tell(mob, msg, find_command("tell"), 0);
-	 } 
+	 }
 }
 
 void
@@ -2691,7 +2691,7 @@ ghost_ship_appear(void)
 
    if (!number(0,1))
 	dock = real_room(19174);
-   
+
    if (!dock || !ship)
 	return;
 
@@ -2699,7 +2699,7 @@ ghost_ship_appear(void)
    world[dock].dir_option[NORTH]->to_room = ship;
    CREATE(world[ship].dir_option[SOUTH], struct room_direction_data, 1);
    world[ship].dir_option[SOUTH]->to_room = dock;
-  
+
    send_to_room("Suddenly a ghostly ship appears to the north!\r\n", dock);
    send_to_room("Suddenly a dock appears to the south!\r\n", ship);
 }
@@ -2720,14 +2720,14 @@ ghost_ship_disappear(void)
    {
     FREE(world[dock].dir_option[NORTH]);
     world[dock].dir_option[NORTH] = NULL;
-    send_to_room("Suddenly the ghostly ship to the north disappears!\r\n", 
+    send_to_room("Suddenly the ghostly ship to the north disappears!\r\n",
 	dock);
    }
    if (world[dock2].dir_option[NORTH])
    {
     FREE(world[dock2].dir_option[NORTH]);
     world[dock2].dir_option[NORTH] = NULL;
-    send_to_room("Suddenly the ghostly ship to the north disappears!\r\n", 
+    send_to_room("Suddenly the ghostly ship to the north disappears!\r\n",
 	dock);
    }
    if (world[ship].dir_option[SOUTH])
@@ -2753,14 +2753,14 @@ ACMD(do_sharpen)
 	stc("Sharpen what?\r\n", ch);
 	return;
    }
-   if (GET_OBJ_TYPE(obj) != ITEM_WEAPON || 
+   if (GET_OBJ_TYPE(obj) != ITEM_WEAPON ||
        GET_OBJ_VAL(obj, 3) != TYPE_SLASH - TYPE_HIT)
    {
       send_to_char("This weapon can not be sharpened.\n\r", ch);
       return;
    }
    for (i = 0; i < MAX_OBJ_AFFECT; i++)
-      if (obj->affected[i].location != APPLY_NONE || 
+      if (obj->affected[i].location != APPLY_NONE ||
           IS_SET_AR(GET_OBJ_EXTRA(obj), ITEM_MAGIC))
    {
       send_to_char("This weapon can not be sharpened any further.\n\r",ch);

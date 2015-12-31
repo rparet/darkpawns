@@ -126,8 +126,8 @@ void assign_mobiles(void)
   SPECIAL(clerk);
   SPECIAL(little_boy);
   SPECIAL(ira);
-  SPECIAL(jailguard); 
-  SPECIAL(outofjailguard); 
+  SPECIAL(jailguard);
+  SPECIAL(outofjailguard);
   SPECIAL(take_to_jail);
   SPECIAL(medusa);
   SPECIAL(eq_thief);
@@ -188,10 +188,10 @@ void assign_mobiles(void)
   ASSIGNMOB(83, conjured);
   ASSIGNMOB(84, conjured);
   ASSIGNMOB(85, conjured);
-  ASSIGNMOB(86, conjured); 
+  ASSIGNMOB(86, conjured);
 
 
-  /* Elemental Temple */   
+  /* Elemental Temple */
   ASSIGNMOB(1313, elements_minion);
   ASSIGNMOB(1314, elements_guardian);
   ASSIGNMOB(1305, cleric);
@@ -201,14 +201,14 @@ void assign_mobiles(void)
   /* Orc Burrows */
   ASSIGNMOB(2106, no_move_west);
   ASSIGNMOB(2108, magic_user);
-  
+
 
   /* Amber/Arden */
   ASSIGNMOB(2716, magic_user);
   ASSIGNMOB(2720, magic_user);
-  ASSIGNMOB(2732, magic_user); 
-  ASSIGNMOB(2733, magic_user); 
-  ASSIGNMOB(2734, magic_user);   
+  ASSIGNMOB(2732, magic_user);
+  ASSIGNMOB(2733, magic_user);
+  ASSIGNMOB(2734, magic_user);
   ASSIGNMOB(2747, cityguard);
   ASSIGNMOB(2766, tattoo4);
   ASSIGNMOB(3010, postmaster);
@@ -216,9 +216,9 @@ void assign_mobiles(void)
   /* Ironwood Forest  */
 
   ASSIGNMOB(3119, thief); /* cutthroat */
-  ASSIGNMOB(3103, magic_user); 
-  ASSIGNMOB(3113, magic_user); 
-  ASSIGNMOB(3118, magic_user); 
+  ASSIGNMOB(3103, magic_user);
+  ASSIGNMOB(3113, magic_user);
+  ASSIGNMOB(3118, magic_user);
 
   /* The Lakeshore Tavern */
   ASSIGNMOB(4101, magic_user);
@@ -250,7 +250,7 @@ void assign_mobiles(void)
   ASSIGNMOB(5507, magic_user);
   ASSIGNMOB(5510, werewolf);
 
-  
+
   /* Corbiel */
   ASSIGNMOB(7023, magic_user);
 
@@ -265,8 +265,8 @@ void assign_mobiles(void)
   ASSIGNMOB(7915, paladin);
   ASSIGNMOB(7979, eq_thief);
   ASSIGNMOB(7969, magic_user);
-  ASSIGNMOB(7970, cleric);  /* unicorn */ 
-  
+  ASSIGNMOB(7970, cleric);  /* unicorn */
+
   /* Kir Drax'in */
   ASSIGNMOB(8014, guild_guard);
   ASSIGNMOB(8017, guild_guard);
@@ -274,14 +274,14 @@ void assign_mobiles(void)
   ASSIGNMOB(8018, guild_guard);
   ASSIGNMOB(8019, guild_guard);
   ASSIGNMOB(8025, guild_guard);
-  
+
   ASSIGNMOB(8012, guild);
   ASSIGNMOB(8013, guild);
   ASSIGNMOB(8014, guild);
   ASSIGNMOB(8015, guild);
   ASSIGNMOB(8022, stableboy);
   ASSIGNMOB(8023, prostitute);
-  
+
   ASSIGNMOB(8027, take_to_jail);
   ASSIGNMOB(8059, take_to_jail);
   ASSIGNMOB(8060, wall_guard_ns);
@@ -289,7 +289,7 @@ void assign_mobiles(void)
   ASSIGNMOB(8001, take_to_jail);
   ASSIGNMOB(8002, take_to_jail);
   ASSIGNMOB(8020, take_to_jail);
-  ASSIGNMOB(8061, janitor); 
+  ASSIGNMOB(8061, janitor);
   ASSIGNMOB(8062, citizen);
   ASSIGNMOB(8063, fido);
   ASSIGNMOB(8081, magic_user);
@@ -300,11 +300,11 @@ void assign_mobiles(void)
   ASSIGNMOB(8092, butler);
   ASSIGNMOB(8095, mortician);
   ASSIGNMOB(8096, chosen_guard); /* old guard */
-  
+
   ASSIGNMOB(8024, guild);  /* muntara */
   ASSIGNMOB(8026, guild);  /* ninja guildmaster */
   ASSIGNMOB(8083, guild_guard); /* psionic guild guard */
-  
+
   /* road/forest*/
   ASSIGNMOB(9151, backstabber);
 
@@ -337,7 +337,7 @@ void assign_mobiles(void)
   ASSIGNMOB(11030, magic_user);
   ASSIGNMOB(11038, cleric);
   ASSIGNMOB(11039, cleric);
- 
+
   /* Swamp  */
   ASSIGNMOB(12200, whirlpool);
 
@@ -348,7 +348,7 @@ void assign_mobiles(void)
   ASSIGNMOB(12111, fighter); /* elven pirate */
   ASSIGNMOB(12115, fido); /*seagull*/
   ASSIGNMOB(12118, eq_thief); /* kender */
-  ASSIGNMOB(12127, thief); 
+  ASSIGNMOB(12127, thief);
 
   /* Temple */
   ASSIGNMOB(14100, troll);
@@ -356,7 +356,7 @@ void assign_mobiles(void)
   ASSIGNMOB(14102, medusa);
   ASSIGNMOB(14103, snake);  /* large snake */
   ASSIGNMOB(14127, snake);  /* snake */
-  
+
   /* Alaozar */
   ASSIGNMOB(14202, cleric);
   ASSIGNMOB(14206, cleric);
@@ -413,7 +413,7 @@ void assign_mobiles(void)
   ASSIGNMOB(18303, normal_checker);
   ASSIGNMOB(18304, normal_checker);
   ASSIGNMOB(18306, cuchi);
-  
+
 
   /* Lighthouse */
   ASSIGNMOB(15804, magic_user);
@@ -430,20 +430,20 @@ void assign_mobiles(void)
 
   /*temple*/
   ASSIGNMOB(14110, dracula); /*Lothar*/
-  
+
   /*Abandoned city*/
   ASSIGNMOB(18601, magic_user);
   ASSIGNMOB(18603, magic_user);
   ASSIGNMOB(18604, magic_user);
- 
+
   /* Ghost ship */
   ASSIGNMOB(19119, never_die);
 
   /* Fire Pagoda - Shaolin Temple */
   ASSIGNMOB(19412, magic_user); /* Fire Wizard */
-  ASSIGNMOB(19405, quan_lo); 
+  ASSIGNMOB(19405, quan_lo);
 
-  /* Darius Elven Camp */ 
+  /* Darius Elven Camp */
   ASSIGNMOB(19510, castle_guard_north);
 
   /* Player Castles */
@@ -539,7 +539,7 @@ void assign_objects(void)
   ASSIGNOBJ(8097, gen_board);  /* freeze board   */
   ASSIGNOBJ(8098, gen_board);  /* immortal board */
   ASSIGNOBJ(8099, gen_board);  /* mortal board   */
-  ASSIGNOBJ(19652, gen_board); /* clan board */  
+  ASSIGNOBJ(19652, gen_board); /* clan board */
   ASSIGNOBJ(19601, gen_board); /* clan board */
   ASSIGNOBJ(19604, moon_gate);
   ASSIGNOBJ(19605, moon_gate);
@@ -554,7 +554,7 @@ void assign_objects(void)
   ASSIGNOBJ(19640, gen_board);
   ASSIGNOBJ(19666, gen_board);
   ASSIGNOBJ(19677, gen_board);
-  
+
   ASSIGNOBJ(14415, horn);
 
 
@@ -599,9 +599,9 @@ void assign_rooms(void)
   SPECIAL(zigg_recesses);
   SPECIAL(zigg_darts);
   SPECIAL(zigg_dt);
-  SPECIAL(zigg_portal);   
+  SPECIAL(zigg_portal);
   SPECIAL(fly_exit_up);
-  
+
   ASSIGNROOM(8008, pray_for_items);
   ASSIGNROOM(8099, start_room);
   ASSIGNROOM(16300, newbie_zone_entrance);
@@ -616,9 +616,9 @@ void assign_rooms(void)
   ASSIGNROOM(20073, suck_in);
   ASSIGNROOM(21223, dump);
   ASSIGNROOM(21235, pet_shops);
-  
 
-  /* Elemental Temple */ 
+
+  /* Elemental Temple */
   ASSIGNROOM(1315, elements_master_column);
   ASSIGNROOM(1326, elements_platforms);
   ASSIGNROOM(1337, elements_platforms);
@@ -630,11 +630,11 @@ void assign_rooms(void)
   ASSIGNROOM(1384, elements_load_cylinders);
   ASSIGNROOM(1372, elements_galeru_column);
   ASSIGNROOM(1394, elements_galeru_alive);
-  
-  /* Multi-zone Procs */  
+
+  /* Multi-zone Procs */
   ASSIGNROOM(1389, fly_exit_up);
 
-  
+
   if (dts_are_dumps)
     for (i = 0; i < top_of_world; i++)
       if (IS_SET_AR(ROOM_FLAGS(i), ROOM_DEATH))

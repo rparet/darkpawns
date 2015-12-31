@@ -232,7 +232,7 @@ find_class_bitvector(char arg)
  * a character of the class is allowed to attain in any skill.  (After
  * this level, attempts to practice will say "You are already learned in
  * this area."
- * 
+ *
  * The second line controls the maximum percent gain in learnedness a
  * character is allowed per practice -- in other words, if the random
  * die throw comes out higher than this number, the gain will only be
@@ -242,7 +242,7 @@ find_class_bitvector(char arg)
  * character is allowed per practice -- in other words, if the random
  * die throw comes out below this number, the gain will be set up to
  * this number.
- * 
+ *
  * The fourth line simply sets whether the character knows 'spells'
  * or 'skills'.  This does not affect anything except the message given
  * to the character when trying to practice (i.e. "You know of the
@@ -264,7 +264,7 @@ int prac_params[4][NUM_CLASSES] = {
 {100,  100,  25,   25,   100, 100,  25,    25,  25,   100,  25, 100},/*max per prac*/
 {25,   25,   0,    0,    25,   25,   0,    0,    0,    25,  0,   25},/*min per prac */
 {SPELL,SPELL,SKILL,SKILL,SPELL,BOTH,SKILL, BOTH,BOTH, BOTH,SKILL,BOTH}/*prac name(s) */
-}; 
+};
 
 /*
  * ...And the appropriate rooms for each guildmaster/guildguard; controls
@@ -285,7 +285,7 @@ int guild_info[][3] = {
   {CLASS_PSIONIC,       8518,   SCMD_WEST },
 
   {CLASS_NINJA,         8525,   SCMD_SOUTH},
-  
+
   /* this must go last -- add new guards above! */
   {-1,                    -1,           -1}
 };
@@ -303,19 +303,19 @@ const int thaco[NUM_CLASSES][LVL_IMPL + 1] = {
       11, 10, 10, 10, 9,   9,  9,  9,  9,  9, 9 },
 
 /* CLERIC */
-   { 100, 20, 20, 20, 18, 18, 18, 16, 16, 16, 
-      14, 14, 14, 12, 12, 12, 10, 10, 10, 8, 
-       8,  8,  6, 6 ,  6,  4,  4,  4,  2, 2, 
+   { 100, 20, 20, 20, 18, 18, 18, 16, 16, 16,
+      14, 14, 14, 12, 12, 12, 10, 10, 10, 8,
+       8,  8,  6, 6 ,  6,  4,  4,  4,  2, 2,
        2,  1,  1,  1,  1,  1,  1, 1 , 1 , 1, 1 },
 
 /* THIEF */
-   { 100, 20, 20, 19, 19, 18, 18, 17, 17, 16, 
-      16, 15, 15, 14, 13, 13, 12, 12, 11, 11, 
+   { 100, 20, 20, 19, 19, 18, 18, 17, 17, 16,
+      16, 15, 15, 14, 13, 13, 12, 12, 11, 11,
       10, 10,  9,  9,  8, 8 ,  7,  7, 6 , 6,
        5,  5,  4,  4, 3 , 3 ,  3,  3,  3, 3, 3 },
 
 /* WARRIOR */
-   { 100, 20, 19, 18, 17, 16, 15, 14, 13, 12, 
+   { 100, 20, 19, 18, 17, 16, 15, 14, 13, 12,
       11, 10, 9,  8,  7 , 6,    5, 4, 3,   2,
        1, 1,  1,  1, 1 ,  1,   1,  1, 1,   1,
        1, 1,  1,  1, 1,   1,   1,  1, 1,   1, 1 },
@@ -325,41 +325,41 @@ const int thaco[NUM_CLASSES][LVL_IMPL + 1] = {
       17, 17, 17, 16, 16, 16, 15, 15, 15, 14,
       14, 14, 13, 13, 13, 12, 12, 12, 11, 11,
       11, 10, 10, 10, 9,   9,  9,  9, 9,  9 , 9 },
-   
+
    /* AVATAR */
-   { 100, 20, 20, 20, 18, 18, 18, 16, 16, 16, 
-      14, 14, 14, 12, 12, 12, 10, 10, 10, 8, 
-       8,  8,  6,  6, 6 ,  4, 4 ,  4,  2, 2, 
+   { 100, 20, 20, 20, 18, 18, 18, 16, 16, 16,
+      14, 14, 14, 12, 12, 12, 10, 10, 10, 8,
+       8,  8,  6,  6, 6 ,  4, 4 ,  4,  2, 2,
        2, 1,   1, 1 , 1 , 1 , 1 , 1 , 1 , 1, 1 },
 
    /* ASSASSIN */
    { 100, 20, 20, 19, 19, 18, 18, 17, 17, 16,
-      16, 15, 15, 14, 13, 13, 12, 12, 11, 11, 
+      16, 15, 15, 14, 13, 13, 12, 12, 11, 11,
       10, 10, 9,   9, 8 ,  8,  7, 7 , 6 ,  6,
        5,  5, 4,  4,  3,   3 , 3, 3,  3,   3, 3 },
 
    /* PALADIN */
    { 100, 20, 19, 18, 17, 16, 15 , 14, 13, 12,
-      11, 10,  9,  8,  7,  6,  5 ,  4,  3,  2, 
-       1,  1,  1,  1,  1,  1,  1 ,  1,  1,  1, 
+      11, 10,  9,  8,  7,  6,  5 ,  4,  3,  2,
+       1,  1,  1,  1,  1,  1,  1 ,  1,  1,  1,
        1,  1,  1,  1,  1,  1,  1 ,  1,  1,  1, 1 },
 
    /* NINJA */
-   { 100, 20, 20, 19, 19, 18, 18, 17, 17, 16, 
-      16, 15, 15, 14, 13, 13, 12, 12, 11, 11, 
+   { 100, 20, 20, 19, 19, 18, 18, 17, 17, 16,
+      16, 15, 15, 14, 13, 13, 12, 12, 11, 11,
       10, 10,  9,  9,  8, 8 ,  7,  7, 6 , 6,
        5,  5,  4,  4, 3 , 3 ,  3,  3,  3, 3, 3 },
 
    /* PSIONIC */
-   { 100, 20, 20, 19, 18, 18, 17, 16, 16, 16, 
+   { 100, 20, 20, 19, 18, 18, 17, 16, 16, 16,
       15, 15, 14, 14, 14, 13, 12, 12, 10, 10,
-       9, 9,   8,  8,  7, 7 , 6 ,  5,  5, 4, 
+       9, 9,   8,  8,  7, 7 , 6 ,  5,  5, 4,
        4, 3,   3,  3,  2,  2, 1,   1,  1, 1, 1 },
 
    /* Ranger */
    { 100, 20, 19, 18, 17, 16, 15 , 14, 13, 12,
-      11, 10,  9,  8,  7,  6,  5 ,  4,  3,  2, 
-       1,  1,  1,  1,  1,  1,  1 ,  1,  1,  1, 
+      11, 10,  9,  8,  7,  6,  5 ,  4,  3,  2,
+       1,  1,  1,  1,  1,  1,  1 ,  1,  1,  1,
        1,  1,  1,  1,  1,  1,  1 ,  1,  1,  1, 1 },
 
    /* Mystic */
@@ -552,7 +552,7 @@ do_start(struct char_data * ch)
     case CLASS_RANGER:
     case CLASS_MYSTIC:
       break;
-      
+
     case CLASS_THIEF:
     case CLASS_ASSASSIN:
       SET_SKILL(ch, SKILL_SNEAK, 10);
@@ -582,9 +582,9 @@ do_start(struct char_data * ch)
   ch->player.time.played = 0;
   ch->player.time.logon = time(0);
 
-  SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPHP); 
-  SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPMANA); 
-  SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPMOVE); 
+  SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPHP);
+  SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPMANA);
+  SET_BIT_AR(PRF_FLAGS(ch), PRF_DISPMOVE);
   GET_WIMP_LEV(ch) = 5;
   SET_BIT_AR(PRF_FLAGS(ch), PRF_AUTOEXIT);
   GET_PRACTICES(ch)+=2;
@@ -671,7 +671,7 @@ advance_level(struct char_data * ch)
       add_move = number(1, 4);
       GET_PRACTICES(ch) += MIN(2, MAX(1, wis_app[GET_WIS(ch)].bonus));
       break;
-    
+
     case CLASS_NINJA :
       add_hp += number(8, 13);
       add_mana = number(GET_LEVEL(ch), (int)(2 * GET_LEVEL(ch)));
@@ -679,7 +679,7 @@ advance_level(struct char_data * ch)
       add_move = number(1, 4);
       GET_PRACTICES(ch) += MIN(2, MAX(1, wis_app[GET_WIS(ch)].bonus));
       break;
-    
+
     case CLASS_PSIONIC:
       add_hp += number(4,8);
       add_mana = number(GET_LEVEL(ch), (int)(2 * GET_LEVEL(ch)));
@@ -749,7 +749,7 @@ invalid_class(struct char_data *ch, struct obj_data *obj)
       (IS_OBJ_STAT(obj, ITEM_ANTI_MYSTIC) && IS_MYSTIC(ch)) ||
       (IS_OBJ_STAT(obj, ITEM_ANTI_THIEF) && IS_THIEF(ch)))
     return TRUE;
-  else if (CAN_WEAR(obj,ITEM_WEAR_WIELD) && 
+  else if (CAN_WEAR(obj,ITEM_WEAR_WIELD) &&
 	   GET_OBJ_VAL(obj, 3) == TYPE_SLASH - TYPE_HIT && IS_CLERIC(ch))
     return TRUE;
   else if (CAN_WEAR(obj, ITEM_WEAR_SHIELD) &&
@@ -852,7 +852,7 @@ init_spell_levels(void)
   spell_level(SKILL_RESCUE, CLASS_WARRIOR, 4);
   spell_level(SKILL_RETREAT, CLASS_WARRIOR, 5);
   spell_level(SKILL_BEARHUG, CLASS_WARRIOR, 7);
-  spell_level(SKILL_BERSERK, CLASS_WARRIOR, 8);  
+  spell_level(SKILL_BERSERK, CLASS_WARRIOR, 8);
   spell_level(SKILL_TRACK, CLASS_WARRIOR, 9);
   spell_level(SKILL_SLEEPER, CLASS_WARRIOR, 12);
   spell_level(SKILL_PARRY, CLASS_WARRIOR, 13);
@@ -890,7 +890,7 @@ init_spell_levels(void)
   spell_level(SKILL_STEALTH, CLASS_NINJA, 3);
   spell_level(SKILL_SERPENT_KICK, CLASS_NINJA, 4);
   spell_level(SKILL_ESCAPE, CLASS_NINJA, 5);
-  spell_level(SKILL_KK_SHA, CLASS_NINJA, 5);	 
+  spell_level(SKILL_KK_SHA, CLASS_NINJA, 5);
   spell_level(SKILL_KABUKI, CLASS_NINJA, 7);
   spell_level(SKILL_KK_ZAI, CLASS_NINJA, 8);
   spell_level(SKILL_KK_KAI, CLASS_NINJA, 9);
@@ -1009,7 +1009,7 @@ init_spell_levels(void)
   spell_level(SPELL_DETECT_ALIGN, CLASS_PALADIN, 5);
   spell_level(SKILL_RETREAT, CLASS_PALADIN, 5);
   spell_level(SKILL_BEARHUG, CLASS_PALADIN, 7);
-  spell_level(SKILL_BERSERK, CLASS_PALADIN, 8);  
+  spell_level(SKILL_BERSERK, CLASS_PALADIN, 8);
   spell_level(SKILL_TRACK, CLASS_PALADIN, 9);
   spell_level(SPELL_LAY_HANDS, CLASS_PALADIN, 10);
   spell_level(SKILL_SLEEPER, CLASS_PALADIN, 12);
@@ -1059,7 +1059,7 @@ init_spell_levels(void)
   spell_level(SKILL_RETREAT, CLASS_RANGER, 6);
   spell_level(SKILL_FIRST_AID, CLASS_RANGER, 6);
   spell_level(SKILL_BEARHUG, CLASS_RANGER, 7);
-  spell_level(SKILL_DETECT, CLASS_RANGER, 8);  
+  spell_level(SKILL_DETECT, CLASS_RANGER, 8);
   spell_level(SKILL_TRACK, CLASS_RANGER, 9);
   spell_level(SKILL_HIDE, CLASS_RANGER, 10);
   spell_level(SPELL_SENSE_LIFE, CLASS_RANGER, 11);
@@ -1089,7 +1089,7 @@ int
 find_exp(int class, int level)
 {
   double modifier = 1;
-  
+
   switch(class)
     {
     case CLASS_MAGIC_USER:
@@ -1155,10 +1155,10 @@ find_exp(int class, int level)
     case 11:
       return(650000);
     case 12:
-      return(870000);      
+      return(870000);
     case 13:
     case 14:
-    case 15:      
+    case 15:
     case 16:
     case 17:
     case 18:
@@ -1178,7 +1178,7 @@ find_exp(int class, int level)
       return(900000+((level-13)*level*20000)+(level*level*1000)+(modifier*10000*level));
       break;
     }
-  
+
 }
 
 int

@@ -58,8 +58,8 @@ SPECIAL(guild);
 SPECIAL(butler);
 SPECIAL(clerk);
 
-void 
-mp_greet(struct char_data *who, int room) 
+void
+mp_greet(struct char_data *who, int room)
 {
   struct char_data *tch, *tch_next;
   int cmd_lick, cmd_growl, cmd_say;
@@ -69,62 +69,62 @@ mp_greet(struct char_data *who, int room)
   cmd_say = find_command("say");
   cmd_lick = find_command("growl");
   cmd_growl = find_command("lick");
-    
+
   for (tch = world[room].people; tch; tch = tch_next) {
-    tch_next = tch->next_in_room; 
-    if (tch == who)               
-      continue;                   
+    tch_next = tch->next_in_room;
+    if (tch == who)
+      continue;
     if (IS_DOG(tch) && !(number(0, 5))) {
       if (GET_ALIGNMENT(who) < 0)
         do_action(tch, GET_NAME(who), cmd_lick, 0);
       else
         do_action(tch, GET_NAME(who), cmd_growl, 0);
     } else if (is_shopkeeper(tch) && IS_DOG(who)) {
-      act("$n mutters something about filthy animals in $s shop...", 
+      act("$n mutters something about filthy animals in $s shop...",
 		TRUE, tch, 0, 0, TO_ROOM);
       hit(tch, who, TYPE_UNDEFINED);
-    } 
+    }
     else if (GET_MOB_VNUM(tch)==19406)
      if (!who->master || who->master==who)/*leader or soloers*/
 	act("$n says, 'Have a seat there! Stay a while, rest your bones "
 		"and warm your feet by the fire!'", TRUE, tch, 0, 0, TO_ROOM);
-  }                             
+  }
 }
 
 
-void 
-mp_ride_greet(struct char_data *who, int room) 
+void
+mp_ride_greet(struct char_data *who, int room)
 {
   struct char_data *tch, *tch_next;
   int cmd_lick, cmd_growl, cmd_say;
-  
+
   cmd_say = find_command("say");
   cmd_lick = find_command("growl");
   cmd_growl = find_command("lick");
-    
+
   for (tch = world[room].people; tch; tch = tch_next) {
-    tch_next = tch->next_in_room; 
-    if (tch == who)               
-      continue;                   
-  }                             
+    tch_next = tch->next_in_room;
+    if (tch == who)
+      continue;
+  }
 }
 
-void 
-mp_give(struct char_data *ch, struct char_data *mob, struct obj_data *obj) 
+void
+mp_give(struct char_data *ch, struct char_data *mob, struct obj_data *obj)
 {
   int is_junk(struct obj_data * i);
   //char tell_buf[MAX_STRING_LENGTH];
 
   if (IS_DOG(mob) && (GET_OBJ_TYPE(obj) == ITEM_FOOD)) {
-    act("$n devours $p and wags $s tail happily.", 
+    act("$n devours $p and wags $s tail happily.",
 		TRUE, mob, obj, 0, TO_ROOM);
     obj_from_char(obj);
     extract_obj(obj);
   } else if (IS_DOG(mob)) {
-    act("$n sniffs around and plays with $p for a while.", 
+    act("$n sniffs around and plays with $p for a while.",
 		TRUE, mob, obj, 0, TO_ROOM);
     obj_from_char(obj);
-    obj_to_room(obj, mob->in_room); 
+    obj_to_room(obj, mob->in_room);
     act("$n quickly loses interest.", TRUE, mob, 0, 0, TO_ROOM);
   }
 
@@ -141,7 +141,7 @@ mp_give(struct char_data *ch, struct char_data *mob, struct obj_data *obj)
 	}
 	else
 	{
-          struct obj_data *portal = read_object(19611, VIRTUAL); 
+          struct obj_data *portal = read_object(19611, VIRTUAL);
 	  act("$n peers at the soul, then licks $s lips.",
 		TRUE, mob, 0, 0, TO_ROOM);
 	  act("$n says, 'This will do nicely.. you may enter!'",
@@ -161,23 +161,23 @@ mp_give(struct char_data *ch, struct char_data *mob, struct obj_data *obj)
   }
   if (IS_JANITOR(mob)) {
     if (is_junk(obj))
-      act("$n says, 'Thanks for helping clean this place up...'", 
+      act("$n says, 'Thanks for helping clean this place up...'",
 		TRUE, mob, 0, 0, TO_ROOM);
     else
-      act("$n says, 'Wow, this is pretty neat, thanks.'", 
+      act("$n says, 'Wow, this is pretty neat, thanks.'",
 		TRUE, mob, 0, 0, TO_ROOM);
   }
 }
 
-void 
-mp_bribe(struct char_data *ch, struct char_data *mob, int amount) 
+void
+mp_bribe(struct char_data *ch, struct char_data *mob, int amount)
 {
   int is_citizen(struct char_data * chChar);
   int is_cityguard(struct char_data * chChar);
   int cmd_bow = find_command("bow");
-  
+
   if (IS_DOG(mob)) {
-    act("$n sniffs the coins and proceeds to eat them.", 
+    act("$n sniffs the coins and proceeds to eat them.",
 		TRUE, mob, 0, 0, TO_ROOM);
     GET_GOLD(mob) -= amount;
   } else if (IS_JANITOR(mob)) {
@@ -198,14 +198,14 @@ mp_bribe(struct char_data *ch, struct char_data *mob, int amount)
     if (amount < GET_LEVEL(ch)*GET_LEVEL(ch)) {
 	act("$n says, 'Are you trying to bribe me?  That's against"
 	    " the law you\r\nknow...'\r\n", TRUE, mob, 0, 0, TO_ROOM);
-        act("$n says, 'And not quite enough cash, either.'\r\n", 
+        act("$n says, 'And not quite enough cash, either.'\r\n",
 	    TRUE, mob, 0, 0, TO_ROOM);
         act("$n grins evilly.", TRUE, mob, 0, 0, TO_ROOM);
         GET_GOLD(mob) -= amount;
 	GET_GOLD(ch) += amount;
     }
     else {
-	act("$n says, 'Thank you very much, monsieur.'\r\n", 
+	act("$n says, 'Thank you very much, monsieur.'\r\n",
 	    TRUE, mob, 0, 0, TO_ROOM);
         act("$n says, 'Now get outta here!'\r\n", TRUE, mob, 0, 0, TO_ROOM);
         act("$N throws you out of the cell!", TRUE, ch, 0, mob, TO_CHAR);
@@ -224,15 +224,15 @@ mp_bribe(struct char_data *ch, struct char_data *mob, int amount)
 			"you know...'", TRUE, mob, 0, 0, TO_ROOM);
       hit(mob, ch, TYPE_UNDEFINED);
     } else {
-      act("$n glances around warily and says, 'I am off duty now...'", 
+      act("$n glances around warily and says, 'I am off duty now...'",
 		TRUE, mob, 0, 0, TO_ROOM);
-      act("$n lays down and falls asleep on the job!", 
+      act("$n lays down and falls asleep on the job!",
 		TRUE, mob, 0, 0, TO_ROOM);
       GET_POS(mob) = POS_SLEEPING;
-      GET_GOLD(mob) -= amount;       
-    }      
+      GET_GOLD(mob) -= amount;
+    }
   } else if (is_citizen(mob)) {
-    act("$n says, 'Thanks for the investment, I appreciate it.'", 
+    act("$n says, 'Thanks for the investment, I appreciate it.'",
 		TRUE, mob, 0, 0, TO_ROOM);
     do_action(mob, GET_NAME(ch), cmd_bow, 0);
   } else if(IS_WHORE(mob)) {
@@ -245,7 +245,7 @@ mp_bribe(struct char_data *ch, struct char_data *mob, int amount)
 		" on your way.\r\n", ch);
 	}
 	else
-	  act("$n says, 'Thanks hon, but I ain't THAT cheap.'", 
+	  act("$n says, 'Thanks hon, but I ain't THAT cheap.'",
 		TRUE, mob, 0, 0, TO_ROOM);
   } else if (GET_MOB_VNUM(mob)==13108) {
     if (amount >= 1000)
@@ -276,11 +276,11 @@ mp_bribe(struct char_data *ch, struct char_data *mob, int amount)
     }
     look_at_room(ch, 0);
   }
-}   
+}
 
 
-void 
-entry_prog(struct char_data *mob, int room) 
+void
+entry_prog(struct char_data *mob, int room)
 {
   struct char_data *tch;
   struct char_data *tch_next;
@@ -291,44 +291,44 @@ entry_prog(struct char_data *mob, int room)
   if (room == NOWHERE)
 	return;
   /* the captain of the guard */
-  if (GET_MOB_VNUM(mob) == 8059) 
+  if (GET_MOB_VNUM(mob) == 8059)
   {
-    for (tch = world[room].people; tch; tch = tch_next) 
+    for (tch = world[room].people; tch; tch = tch_next)
     {
-      tch_next = tch->next_in_room; 
-      if (tch == mob)               
-        continue;                   
-      if (is_cityguard(tch)) 
+      tch_next = tch->next_in_room;
+      if (tch == mob)
+        continue;
+      if (is_cityguard(tch))
       {
-        if (GET_POS(tch) < POS_STANDING) 
+        if (GET_POS(tch) < POS_STANDING)
         {
           act("$n barks 'On your feet, slacker!'", TRUE, mob, 0, 0, TO_ROOM);
-          act("$n wakes up and quickly snaps to attention!", 
+          act("$n wakes up and quickly snaps to attention!",
 		TRUE, tch, 0, 0, TO_ROOM);
-          act("$n growls, 'Report to my office at 0500 tomorrow morning.'", 
+          act("$n growls, 'Report to my office at 0500 tomorrow morning.'",
 		TRUE, mob, 0, 0, TO_ROOM);
           GET_POS(tch) = POS_STANDING;
 	  break;
-        } 
-        else     
+        }
+        else
         {
           act("$n snaps to attention and salutes!", TRUE, tch, 0, 0, TO_ROOM);
           act("$n growls, 'At ease, soldier.'", TRUE, mob, 0, 0, TO_ROOM);
 	  break;
         }
-      } 
-      else if (is_citizen(tch)) 
+      }
+      else if (is_citizen(tch))
       {
           act("$n frowns at $N.", TRUE, mob, 0, tch, TO_ROOM);
-          act("$n says, 'Hail unto the True One, Captain.'", 
+          act("$n says, 'Hail unto the True One, Captain.'",
 		TRUE, tch, 0, 0, TO_ROOM);
 	  break;
       }
-    }                             
-  }    
+    }
+  }
 }
 
-int 
+int
 is_citizen(struct char_data * chChar)
 {
   int ch_num;
@@ -350,7 +350,7 @@ is_citizen(struct char_data * chChar)
   return (FALSE);
 }
 
-int 
+int
 is_cityguard(struct char_data * chChar)
 {
   int ch_num;
@@ -389,7 +389,7 @@ get_bad_guy(struct char_data * chAtChar)
   int iNum_bad_guys = 0, iVictim;
 
   for (ch = world[chAtChar->in_room].people; ch; ch = ch->next_in_room)
-    if ( 
+    if (
          FIGHTING(ch) &&
 	 (is_citizen(FIGHTING(ch)) || is_cityguard(FIGHTING(ch))) )
       iNum_bad_guys++;
@@ -413,7 +413,7 @@ get_bad_guy(struct char_data * chAtChar)
 }
 
 /* Makes a character banzaii on attackers of the town citizens / other guards */
-int 
+int
 kill_bad_guy(struct char_data * ch)
 {
   struct char_data *chOpponent = NULL;
@@ -431,7 +431,7 @@ kill_bad_guy(struct char_data * ch)
 }
 
 
-int 
+int
 npc_rescue(struct char_data * ch_hero, struct char_data * ch_victim)
 {
   struct char_data *ch_bad_guy;
@@ -459,7 +459,7 @@ npc_rescue(struct char_data * ch_hero, struct char_data * ch_victim)
   return FALSE;
 }
 
-int 
+int
 is_junk(struct obj_data * i)
 {
   if (IS_SET_AR(i->obj_flags.wear_flags, ITEM_WEAR_TAKE) &&
@@ -469,7 +469,7 @@ is_junk(struct obj_data * i)
     return FALSE;
 }
 
-int 
+int
 is_shopkeeper(struct char_data * chChar)
 {
   int ch_num;
@@ -547,16 +547,16 @@ mp_sound(struct char_data *mob)
 	type = MP_SPEAK;
 	break;
    case 8069: /*zealot*/
-	strcpy(sound, "Repent sinners! The end time is near!");	
+	strcpy(sound, "Repent sinners! The end time is near!");
 	type = MP_SPEAK;
 	break;
    case 8071: /*beggar */
-	if (number(0,1)) 
+	if (number(0,1))
         {
 	   strcpy(sound, "Spare a coin, buddy?");
 	   type = MP_SPEAK;
 	}
-	else 
+	else
         {
 	   strcpy(sound, "jingles his cup.");
 	   type = MP_EMOTE;
@@ -595,12 +595,12 @@ mp_sound(struct char_data *mob)
         {
           strcpy(sound, "smiles at you.");
           type = MP_EMOTE;
-        } 
+        }
         else
         {
           strcpy(sound, "shuffles some papers around on his desk.");
           type = MP_EMOTE;
-        }	
+        }
         break;
    default: break;
    }
@@ -624,7 +624,7 @@ mp_sound(struct char_data *mob)
       do_say(mob, "I shall open a portal to the Grey Fortress in exchange for a soul stone.", 0, 0);
       GET_ALIGNMENT(mob) = -1000;
       return;
-    }    
+    }
   }
 
   if (IS_DOG(mob))

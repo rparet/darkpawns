@@ -1,5 +1,5 @@
 /* ************************************************************************
-*  file: purgeplay.c                                    Part of CircleMUD * 
+*  file: purgeplay.c                                    Part of CircleMUD *
 *  Usage: purge useless chars from playerfile                             *
 *  All Rights Reserved                                                    *
 *  Copyright (C) 1992, 1993 The Trustees of The Johns Hopkins University  *
@@ -70,7 +70,7 @@ void purge(char *filename)
 
       if (!(IS_SET_AR(player.char_specials_saved.act, PLR_CRYO))) {
 	if (player.level < LVL_IMMORT)	timeout = 60;	/* Lev 1-30 : 60 days */
-      } 
+      }
 
       timeout *= SECS_PER_REAL_DAY;
 

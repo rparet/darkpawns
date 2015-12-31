@@ -298,8 +298,8 @@ ACMD(do_dream)
    send_to_char("You daydream about better times.\r\n", ch);
    return;
   }
-  
-  act("$n dreams of running naked through a field of tulips.", 
+
+  act("$n dreams of running naked through a field of tulips.",
        TRUE, ch, 0, 0, TO_ROOM);
   send_to_char("You dream of running naked through a field of tulips.\r\n",ch);
 }

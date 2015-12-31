@@ -187,7 +187,7 @@ static int io_fromto (lua_State *L, int inout, const char *mode) {
   lua_pop(L, 1);  /* remove upvalue */
   if (lua_isnull(L, 1)) {
     closefile(L, ctrl, getfilebyref(L, ctrl, inout));
-    current = (inout == 0) ? stdin : stdout;    
+    current = (inout == 0) ? stdin : stdout;
   }
   else if (lua_tag(L, 1) == ctrl->iotag)  /* deprecated option */
     current = (FILE *)lua_touserdata(L, 1);
@@ -329,7 +329,7 @@ static int read_line (lua_State *L, FILE *f) {
       break;
     n = strlen(p);
     if (p[n-1] != '\n')
-      luaL_addsize(&b, n); 
+      luaL_addsize(&b, n);
     else {
       luaL_addsize(&b, n-1);  /* do not add the `\n' */
       break;

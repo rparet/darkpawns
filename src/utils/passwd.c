@@ -29,7 +29,7 @@ void passwd(char *filename, char *playername, char *newpasswd)
 
   for (;;) {
     fread(&player, sizeof(struct char_file_u), 1, fl);
-     
+
     if (feof(fl)) {
       fclose(fl);
       fclose(outfile);

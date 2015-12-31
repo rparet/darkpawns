@@ -39,7 +39,7 @@ extern struct time_info_data time_info;
 extern struct zone_data *zone_table;
 extern int top_of_zone_table;
 extern int top_of_world;
-extern struct str_app_type str_app[];             
+extern struct str_app_type str_app[];
 extern struct dex_skill_type dex_app_skill[];
 extern char *pc_class_types[];
 extern char *hometowns[];
@@ -50,7 +50,7 @@ extern field_object_data_t field_objs[NUM_FOS];
 
 /* extern functions */
 void raw_kill(struct char_data * ch, int attacktype);
-void send_to_zone(char *messg, struct char_data *ch); 
+void send_to_zone(char *messg, struct char_data *ch);
 void add_follower(struct char_data * ch, struct char_data * leader);
 ACMD(do_action);
 ACMD(do_behead);
@@ -99,7 +99,7 @@ SPECIAL(clerk)
 
 
   if (!(CMD_IS("list") || CMD_IS("buy")))
-        return(FALSE);                          
+        return(FALSE);
 
   skip_spaces(&argument);
   if( (CMD_IS("buy") || CMD_IS("list")) && !CAN_SEE(mobile, ch))
@@ -107,7 +107,7 @@ SPECIAL(clerk)
     act("$n exclaims, 'Who's there? I can't see you!'",
         TRUE, mobile, 0, 0, TO_ROOM);
     return(TRUE);
-  }                  
+  }
   if (CMD_IS("buy"))
    if (!argument || (argument && strcasecmp(argument, "citizenship")))
    {
@@ -115,7 +115,7 @@ SPECIAL(clerk)
                    GET_NAME(ch));
       do_tell(mobile, msg, find_command("tell"), 0);
       return (TRUE);
-   }                        
+   }
   if (CMD_IS("list")) {
     sprintf (msg, "%s Citizenship costs 2,000 coins.", GET_NAME(ch));
     do_tell(mobile, msg, find_command("tell"), 0);
@@ -131,9 +131,9 @@ SPECIAL(clerk)
         do_tell(mobile, msg, find_command("tell"), 0);
         return (TRUE);
      } else
-        ch->player.hometown = homet;  
+        ch->player.hometown = homet;
      GET_GOLD(ch) = GET_GOLD(ch) - 2000;
-     sprintf (msg, "%s You are now a citizen of %s.", GET_NAME(ch), 
+     sprintf (msg, "%s You are now a citizen of %s.", GET_NAME(ch),
       hometowns[homet]);
      do_tell(mobile, msg, find_command("tell"), 0);
      save_char(ch, NOWHERE);
@@ -145,11 +145,11 @@ SPECIAL(butler)
 {
   struct char_data *mobile = (struct char_data *)me;
   struct obj_data *next_obj=NULL, *obj = NULL;
-  struct obj_data *cas = get_obj_in_list_vis(mobile, "case", 
+  struct obj_data *cas = get_obj_in_list_vis(mobile, "case",
 			 world[mobile->in_room].contents);
-  struct obj_data *cabinet = get_obj_in_list_vis(mobile, "cabinet", 
+  struct obj_data *cabinet = get_obj_in_list_vis(mobile, "cabinet",
 			 world[mobile->in_room].contents);
-  struct obj_data *chest = get_obj_in_list_vis(mobile, "chest", 
+  struct obj_data *chest = get_obj_in_list_vis(mobile, "chest",
 			 world[mobile->in_room].contents);
   int got = 0;
 
@@ -209,8 +209,8 @@ SPECIAL(brain_eater)
           strstr(i->name, "corpse") && !strstr(i->name, "headless"))
         {
 	  do_behead(mobile, "corpse", 0, 0);
-	  act("$n pulls the brain out of the head and eats it with a noisy"	
-		"\r\nslurp, blood and drool flying everywhere.", 
+	  act("$n pulls the brain out of the head and eats it with a noisy"
+		"\r\nslurp, blood and drool flying everywhere.",
 		TRUE, mobile, NULL, NULL, TO_ROOM);
 	  if (GET_LEVEL(mobile)<30)
 	    GET_LEVEL(mobile)++;
@@ -231,7 +231,7 @@ SPECIAL(teleport_victim)
   if (can_speak(ch))
 	act("$n says, 'You can't harm me, mortal. Begone.'",
 		TRUE, ch, 0, 0, TO_ROOM);
-      
+
   call_magic(ch, FIGHTING(ch), 0, SPELL_TELEPORT, GET_LEVEL(ch), CAST_SPELL);
   return(TRUE);
 }
@@ -263,7 +263,7 @@ SPECIAL(con_seller)
       do_tell(mobile, msg, find_command("tell"), 0);
       return (TRUE);
    }
-  
+
   if (CMD_IS("list"))
     {
       if (GET_ORIG_CON(ch)-(ch)->real_abils.con<1)
@@ -300,9 +300,9 @@ SPECIAL(con_seller)
 	           "much better.. if you wake up.",
 		   GET_NAME(ch), GET_LEVEL(ch)*400);
 	  do_tell(mobile, msg, find_command("tell"), 0);
-          act("$n stares at $N and mutters some arcane words.", 
+          act("$n stares at $N and mutters some arcane words.",
               FALSE, mobile, 0, ch, TO_NOTVICT);
-          act("$N falls, stunned.", FALSE, mobile, 0, ch, TO_NOTVICT);	
+          act("$N falls, stunned.", FALSE, mobile, 0, ch, TO_NOTVICT);
           if ((ch)->real_abils.con<18)
 	        ch->real_abils.con++;
 	  affect_total(ch);
@@ -336,9 +336,9 @@ SPECIAL(no_move_down)
 
 
  /* Hey! Don't go calling this w/o making checks! */
-static void 
+static void
 npc_regen(struct char_data * ch) {
-  int regen_rate = 2; 
+  int regen_rate = 2;
   GET_HIT(ch) += GET_LEVEL(ch) * regen_rate;
   if(GET_HIT(ch) > GET_MAX_HIT(ch))
      GET_HIT(ch) = GET_MAX_HIT(ch);
@@ -352,14 +352,14 @@ SPECIAL(troll)
   if (GET_POS(ch) != POS_FIGHTING && GET_HIT(ch) != GET_MAX_HIT(ch)) {
      if(!number(0, 20)) {
         npc_regen(ch);
-        act("$n's wounds glow brightly for a moment, then disappear!", 
+        act("$n's wounds glow brightly for a moment, then disappear!",
 		TRUE, ch, 0, 0, TO_ROOM);
-     }  
+     }
   }
   else if (FIGHTING(ch)) {
      if(!number(0, 10)) {
         npc_regen(ch);
-        act("$n's wounds glow brightly for a moment, then disappear!", 
+        act("$n's wounds glow brightly for a moment, then disappear!",
 		TRUE, ch, 0, 0, TO_ROOM);
      }
   }
@@ -469,7 +469,7 @@ SPECIAL(field_object)
 	 index = i;
 	 break;
       }
-  
+
    if (index >= NUM_FOS)
       return(FALSE);
 
@@ -480,7 +480,7 @@ SPECIAL(field_object)
       affect = GET_OBJ_VAL(obj, 0);
       level = GET_OBJ_VAL(obj, 1);
    }
-  
+
    for (vict = world[obj->in_room].people; vict; vict = next_vict)
    {
       next_vict = vict->next_in_room;
@@ -491,7 +491,7 @@ SPECIAL(field_object)
         	act(obj->action_description, FALSE, vict, obj, vict, TO_VICT);
 	 else
 		stc("An incredible force hits you!\r\n", ch);
-      
+
          if (GET_HIT(vict)<=0)
          {
             act ("$N falls to the ground, screaming in agony!",
@@ -538,7 +538,7 @@ SPECIAL(portal_to_temple)
 
    return(TRUE);
 }
-     
+
 
 SPECIAL(turn_undead)
 {
@@ -551,18 +551,18 @@ SPECIAL(turn_undead)
   {
     skip_spaces(&argument);
     if (isname(argument, obj->name))
-    {          
+    {
 	act("A ray of flame bursts out of $p, consuming the undead!", FALSE,
 		ch, obj, 0, TO_ROOM);
-	
-        CREATE(world[this_room].dir_option[NORTH], 
+
+        CREATE(world[this_room].dir_option[NORTH],
 		struct room_direction_data, 1);
    	world[this_room].dir_option[NORTH]->to_room = that_room;
-   	CREATE(world[that_room].dir_option[SOUTH], 
+   	CREATE(world[that_room].dir_option[SOUTH],
 		struct room_direction_data, 1);
    	world[that_room].dir_option[SOUTH]->to_room = this_room;
 	return(TRUE);
-    } 
+    }
   }
   if(!cmd)
   {
@@ -625,7 +625,7 @@ SPECIAL(mirror)
       if (CMD_IS("hit") || CMD_IS("kill"))
       {
          act("You break $p into tiny pieces!", 0, ch, obj, 0, TO_CHAR);
-         act("$n shatters $p into a million pieces!", 
+         act("$n shatters $p into a million pieces!",
 		TRUE, ch, obj, 0, TO_ROOM);
          if (ch2)
          {
@@ -643,14 +643,14 @@ SPECIAL(mirror)
       }
       if (CMD_IS("look") )
       {
-         act("You feel pulled in a hundred different directions!", 
+         act("You feel pulled in a hundred different directions!",
 		FALSE, ch, 0, 0, TO_CHAR);
          act("$n disappears in a brilliant flash!", FALSE, ch, 0, 0, TO_ROOM);
          if (ch2)
          {
             char_from_room(ch2);
             char_to_room(ch2, obj->in_room);
-            act("You feel pulled in a hundred different directions!", 
+            act("You feel pulled in a hundred different directions!",
 		FALSE, ch2, 0, 0, TO_CHAR);
             act("$n appears in a brilliant flash!", TRUE, ch2, 0, 0, TO_ROOM);
          }
@@ -693,7 +693,7 @@ SPECIAL(prostitute)
       do_tell(mobile, msg, find_command("tell"), 0);
       return (TRUE);
    }
-  
+
   if (CMD_IS("list"))
     {
       sprintf (msg, "%s For five coins, I'll show you a good time.",
@@ -806,9 +806,9 @@ SPECIAL(roach) {
 
 SPECIAL(mortician)
 {
- struct char_data *mobile = (struct char_data *)me; 
+ struct char_data *mobile = (struct char_data *)me;
  struct obj_data *obj;
- extern struct obj_data *object_list; 
+ extern struct obj_data *object_list;
  char *temp_name;
  char msg[256];
  int cost = 0;
@@ -825,8 +825,8 @@ SPECIAL(mortician)
     sprintf (msg, "%s It will cost %d coins to retrieve your corpse.",
      GET_NAME(ch), cost);
     do_tell(mobile, msg, find_command("tell"), 0);
-    return TRUE;    
- } 
+    return TRUE;
+ }
  if (CMD_IS("retrieve")) {
     if(GET_GOLD(ch) < cost) {
       sprintf (msg, "%s I'm sorry, you can't afford the cost.",
@@ -834,7 +834,7 @@ SPECIAL(mortician)
       do_tell(mobile, msg, find_command("tell"), 0);
       return TRUE;
     }
-    for (obj = object_list; obj; obj = obj->next)    
+    for (obj = object_list; obj; obj = obj->next)
      if(isname(temp_name, obj->name) && GET_OBJ_VAL(obj, 3) &&
         (GET_OBJ_TYPE(obj) == ITEM_CONTAINER)) {
        obj_from_room(obj);
@@ -850,7 +850,7 @@ SPECIAL(mortician)
      GET_NAME(ch));
     do_tell(mobile, msg, find_command("tell"), 0);
     return TRUE;
- } 
+ }
  return FALSE;
 
 }
@@ -928,7 +928,7 @@ SPECIAL(recruiter)
 
   return FALSE;
 }
-    
+
 /* ********************************************************************
 *  Elemental Zone (zone 13)                                           *
 ********************************************************************* */
@@ -973,7 +973,7 @@ SPECIAL(elements_master_column)
       if (has_object[i] == 0)                           /* Teleport the player to the required plane */
       {
         if (i != 0)
-          sprintf(buf, "The talisman of %s glows softly and your vision fades. When you wake...\r\n", 
+          sprintf(buf, "The talisman of %s glows softly and your vision fades. When you wake...\r\n",
                         obj_name[i-1]);
         else
           sprintf(buf, "You feel a tingling sensation and your vision fades. When you wake...\r\n");
@@ -1019,7 +1019,7 @@ SPECIAL(elements_platforms)
     char_to_room(ppl, location);
     act("$n appears in a brilliant flash of light.", TRUE, ppl, 0, 0, TO_NOTVICT);
   }
-  
+
   return (TRUE);
 }
 
@@ -1030,7 +1030,7 @@ void elements_remove_cylinders(struct char_data *ch)
   int cylinder[] = {1304, 1305, 1306, 1307};
   char *cyl_name[] = {"green", "yellow", "red", "blue"};
   int i;
- 
+
   for (i = 0; i < 4; i++)
   {
     for (obj = world[ch->in_room].contents; obj; obj = obj->next_content)
@@ -1087,7 +1087,7 @@ SPECIAL(elements_load_cylinders)
   argument = one_argument(argument, arg);
   strcpy(buf, "");                      /* Set the buffer to NULL */
 
-  if (!*arg) 
+  if (!*arg)
     return (TRUE);
   else if (!(obj = get_obj_in_list_vis(ch, arg, world[ch->in_room].contents)))
     return (TRUE);
@@ -1130,7 +1130,7 @@ SPECIAL(elements_load_cylinders)
    obj = read_object(r_num, REAL);
    obj_to_room(obj, ch->in_room);
  }
- 
+
   return (TRUE);
 }
 
@@ -1168,7 +1168,7 @@ SPECIAL(elements_galeru_column)
       continue;
     else
     {
-      sprintf(buf, "Four beams of colored light from the corners of the chamber converge around you.\r\n\n"); 
+      sprintf(buf, "Four beams of colored light from the corners of the chamber converge around you.\r\n\n");
       send_to_char(buf, ppl);
       act("$n is struck by four beams of colored light and slowly vanishes!", TRUE, ppl, 0, 0, TO_NOTVICT);
       char_from_room(ppl);
@@ -1224,7 +1224,7 @@ SPECIAL(elements_minion)
   struct obj_data *obj;
   int i = 0;
   char *destroy[] = {"talisman", "element", "earth", "fire", "water", "air", "!"};
- 
+
   while (*destroy[i] != '!')
   {
     if ((obj = get_obj_in_list_vis(mobile, destroy[i], mobile->carrying)))

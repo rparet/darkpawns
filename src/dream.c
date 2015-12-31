@@ -39,7 +39,7 @@ const struct dtravel_data dtravel[] = {
   {0, 8004, "that shows you penitent before an altar."       },
   {0, 11111, "about lounging around a beautiful desert oasis."},
   {0, 20400, "in which you are lost in a dark, spooky forest."},
-  {0, 4622 , "of tredging through a murky swamp."             }, 
+  {0, 4622 , "of tredging through a murky swamp."             },
   {0, 4805 , "about being lost in a foreign city."            },
   {0, 4267 , "of being surrounded by cold alpine peaks."      },
   {0, 14213, "in which the stench of death and battle overwhelm you."},
@@ -99,7 +99,7 @@ void dream(struct char_data *ch) {
      }
   }
 
-  /* dream travel check */ 
+  /* dream travel check */
   if(IS_AFFECTED(ch, AFF_DREAM)) {
     dream_travel(ch, 0);
     return;
@@ -192,7 +192,7 @@ void dream_travel(struct char_data *ch, int subcmd)
   int i;
   for(i = 0; i <= NUM_DREAMS; i++)
   {
-   if(!number(0,15) && !subcmd && !dtravel[i].subcmd) { 
+   if(!number(0,15) && !subcmd && !dtravel[i].subcmd) {
     sprintf(buf, "You have a dream %s \r\n", dtravel[i].descrip);
     send_to_char(buf, ch);
     act("The sleeping body of $n fades from existence.", FALSE, ch,
@@ -204,7 +204,7 @@ void dream_travel(struct char_data *ch, int subcmd)
     REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_DREAM);
     return;
    }
-  
+
    if(!number(0,15) && subcmd) {
     sprintf(buf, "You have a dream %s \r\n", dtravel[i].descrip);
     send_to_char(buf, ch);
@@ -216,7 +216,7 @@ void dream_travel(struct char_data *ch, int subcmd)
        0, 0, TO_ROOM);
     REMOVE_BIT_AR(AFF_FLAGS(ch), AFF_DREAM);
     return;
-   }         
+   }
 
   }
 

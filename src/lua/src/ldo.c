@@ -81,7 +81,7 @@ void luaD_adjusttop (lua_State *L, StkId base, int extra) {
 ** Open a hole inside the stack at `pos'
 */
 static void luaD_openstack (lua_State *L, StkId pos) {
-  int i = L->top-pos; 
+  int i = L->top-pos;
   while (i--) pos[i+1] = pos[i];
   incr_top;
 }
@@ -152,7 +152,7 @@ void luaD_callTM (lua_State *L, Closure *f, int nParams, int nResults) {
 ** When returns, the results are on the stack, starting at the original
 ** function position.
 ** The number of results is nResults, unless nResults=LUA_MULTRET.
-*/ 
+*/
 void luaD_call (lua_State *L, StkId func, int nResults) {
   lua_Hook callhook;
   StkId firstResult;

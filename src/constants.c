@@ -70,7 +70,7 @@ const char *abil_names[] =
   "poor",
   "below average",
   "average",
-  "average",   /* 10 */  
+  "average",   /* 10 */
   "decent",
   "decent",
   "good",
@@ -123,7 +123,7 @@ const char *dirs[] =
 };
 
 
-const char *races[] = 
+const char *races[] =
 {
   "Human",
   "Elven",
@@ -135,7 +135,7 @@ const char *races[] =
   "\n"
 };
 
-const char *mob_races[] = 
+const char *mob_races[] =
 {
   "Human",
   "Elf",
@@ -217,7 +217,7 @@ const char *race_help =
 "       thieves. Only humans can belong to the ninja class.\r\n"
 "Each race has its own language.\r\n";
 
-const char *help_human = 
+const char *help_human =
 "\r\n"
 "Humans are the most common race on this world, and come in all sorts of shapes"
 "\r\n"
@@ -235,7 +235,7 @@ const char *help_human =
 "\r\n"
 "location.\r\n";
 
-const char *help_dwarf = 
+const char *help_dwarf =
 "\r\n"
 "Dwarves are a noble race of demihumans who dwell under the earth, forging"
 "\r\n"
@@ -273,7 +273,7 @@ const char *help_elf =
 "\r\n"
 "good and evil, that share their forest homes.\r\n";
 
-const char *help_kender = 
+const char *help_kender =
 "\r\n"
 "Kender are small, kind, but somewhat annoying, elf-like beings that have"
 "\r\n"
@@ -294,7 +294,7 @@ const char *help_kender =
 "mobile and independant, and will pick up anything that is not nailed down."
 "\r\n";
 
-const char *help_minotaur = 
+const char *help_minotaur =
 "\r\n"
 "Minotaurs are either cursed humans or the offspring of minotaurs and humans."
 "\r\n"
@@ -314,7 +314,7 @@ const char *help_minotaur =
 "\r\n"
 "beneath the earth, it is noted that they also see very well in forests.\r\n";
 
-const char *help_rakshasa = 
+const char *help_rakshasa =
 "\r\n"
 "Rakshasas are a race of malevolent spirits encased in flesh that hunt and"
 "\r\n"
@@ -330,7 +330,7 @@ const char *help_rakshasa =
 "\r\n"
 "retain their fondness towards the great sandy wastes of their homeland.\r\n";
 
-const char *help_ssaur = 
+const char *help_ssaur =
 "\r\n"
 "Ssaurs are a relatively new race in the world. They are a more evolved type of"
 "\r\n"
@@ -364,7 +364,7 @@ const int intelligent_races[] = {
   RACE_DRAGON     ,
   RACE_DEMON    ,
   RACE_GIANT   ,
-  RACE_DEMIGOD, 
+  RACE_DEMIGOD,
   RACE_OGRE,
   RACE_HUMANOID ,
   RACE_FAERY    ,
@@ -1301,23 +1301,23 @@ const char *spell_wear_off_msg[] = {
   "Your mental capasity returns to normal.",
   "!SOUL LEECH!",
   "!MINDSIGHT!",
-  "Your skin fades back into view.",	/* 85 */ 
+  "Your skin fades back into view.",	/* 85 */
   "Your perception of other's emotions ebbs.",
   "!GATE!",
   "The secrets of the world seem less clear.",
-  "!LAY HANDS!",	
+  "!LAY HANDS!",
   "!MENTAL LAPSE!",  /* 90 */
   "!SMOKESCREEN!",
   "!DISRUPT!",
   "!DISINTEGRATE",
   "!CALLIOPE!",
   "You no longer feel protected.",	/* 95 */
-  "The flames around you subside.",     
+  "The flames around you subside.",
   "You cease moving rapidly.",
   "The world begins to pick up speed again.",
   " ", /* dream travel */
   "!PSIBLAST!",			/* 100 */
-  "!CIRCLE OF SUMMONING!",            
+  "!CIRCLE OF SUMMONING!",
   "You feel your breathing return to normal.",
   "!CONJURE ELEMENTAL!"
 };
@@ -1435,7 +1435,7 @@ const struct tat_data tat[] = {
         { 16, 3000, "gain the intelligence of the fox", "int+1" },
         { 17, 3000, "gain the wisdom of the owl", "wis+1" }
 };
-   
+
 
 field_object_data_t field_objs[] = {
  {50, FO_DAMAGE,

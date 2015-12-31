@@ -72,7 +72,7 @@ int num_followers(struct char_data *ch);
 int mag_savingthrow(struct char_data * ch, int type);
 struct char_data *HUNTING(struct char_data *ch);
 void set_hunting(struct char_data *ch, struct char_data *victim);
-void send_to_zone(char *messg, struct char_data *ch);      
+void send_to_zone(char *messg, struct char_data *ch);
 SPECIAL(shop_keeper);
 extern  struct char_data *create_mobile(struct char_data *ch, int
                                        mob_number,
@@ -102,7 +102,7 @@ ASPELL(spell_create_water)
       name_to_drinkcon(obj, LIQ_SLIME);
     } else {
       water = MAX(GET_OBJ_VAL(obj, 0) - GET_OBJ_VAL(obj, 1), 0);
-      if (water > 0) 
+      if (water > 0)
       {
 	GET_OBJ_VAL(obj, 2) = LIQ_WATER;
 	GET_OBJ_VAL(obj, 1) += water;
@@ -133,7 +133,7 @@ ASPELL(spell_recall)
   if (victim == NULL || IS_NPC(victim))
     return;
 
-  if ( (ROOM_FLAGGED(ch->in_room, ROOM_BFR)) || 
+  if ( (ROOM_FLAGGED(ch->in_room, ROOM_BFR)) ||
        (ROOM_FLAGGED(victim->in_room, ROOM_BFR)) ) {
       send_to_char("Your magic ebbs and dissolves as you lose your "
 	"concentration.\r\n", victim);
@@ -153,7 +153,7 @@ ASPELL(spell_recall)
     char_to_room(victim, real_room(alaozar_start_room));
   else
     char_to_room(victim, real_room(mortal_start_room));
-  
+
   if (!IS_NPC(victim))
     unmount(victim, get_mount(victim));
   else
@@ -180,7 +180,7 @@ ASPELL(spell_teleport)
       stc("You can only will this power upon yourself!\r\n", ch);
       return;
     }
-    if (IS_NPC(victim) && victim!=ch && mag_savingthrow(victim, SAVING_SPELL)) 
+    if (IS_NPC(victim) && victim!=ch && mag_savingthrow(victim, SAVING_SPELL))
     {
 	send_to_char("The magic words fail to form properly.\r\n", ch);
 	hit(victim, ch, TYPE_UNDEFINED);
@@ -192,7 +192,7 @@ ASPELL(spell_teleport)
           hit(victim, ch, TYPE_UNDEFINED);
           return;
        }
-    } 
+    }
 
     do {
        to_room = number(0, top_of_world);
@@ -217,7 +217,7 @@ ASPELL(spell_teleport)
 
 ASPELL(spell_summon)
 {
-  void unmount(struct char_data *rider, struct char_data *mount);    
+  void unmount(struct char_data *rider, struct char_data *mount);
   struct char_data *get_rider(struct char_data *mount);
   int door;
   bool room_ok = FALSE;
@@ -265,7 +265,7 @@ ASPELL(spell_summon)
       return;
   }
 
-  if (!IS_NPC(ch) && !IS_NPC(victim) && IS_OUTLAW(victim) && !PRF_FLAGGED(victim, PRF_SUMMONABLE)) 
+  if (!IS_NPC(ch) && !IS_NPC(victim) && IS_OUTLAW(victim) && !PRF_FLAGGED(victim, PRF_SUMMONABLE))
     if ( (number(1, 100) >= 65) )  /* give outlaws a fighting chance vs. summon */
     {
       send_to_char(SUMMON_FAIL, ch);
@@ -277,7 +277,7 @@ ASPELL(spell_summon)
       stc(buf, victim);
       return;
     }
-    
+
 
   /* checking to see if you are trying to summon people to a !exit room */
   for (door = 0; door < NUM_OF_DIRS; door++)
@@ -287,16 +287,16 @@ ASPELL(spell_summon)
       room_ok = TRUE;
       break;
     }
- 
+
   if (world[ch->in_room].func == dump)  /* no summoning people to dumps */
     room_ok = FALSE;
-  
+
   if ( (mag_savingthrow(victim, SAVING_SPELL)  && !PRF_FLAGGED(victim, PRF_SUMMONABLE))  ||
                        (ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL) && IS_NPC(victim)) ||
                        ROOM_FLAGGED(victim->in_room, ROOM_NOMAGIC) ||
                        MOB_FLAGGED(victim, MOB_NOCHARM) ||
                        room_ok == FALSE )
-   
+
     {
        if (!number(0, 9) && !IS_NPC(ch))   /* 10% chance of backfiring to victim */
        {
@@ -310,11 +310,11 @@ ASPELL(spell_summon)
     	 unmount(get_rider(ch), ch);
   	else if (IS_MOUNTED(ch))
     	 unmount(ch, get_rider(ch));
-		
+
   	act("$n arrives suddenly.", TRUE, ch, 0, 0, TO_ROOM);
-	look_at_room(ch, 0);          
+	look_at_room(ch, 0);
         if (IS_NPC(victim) && AWAKE(victim))
-		hit(victim, ch, TYPE_UNDEFINED); 
+		hit(victim, ch, TYPE_UNDEFINED);
 	return;
       }
       /* otherwise, just fail */
@@ -345,7 +345,7 @@ ASPELL(spell_summon)
     act("$n has summoned you!", FALSE, ch, 0, victim, TO_VICT);
     look_at_room(victim, 0);
     if (IS_NPC(victim))
-	hit(victim, ch, TYPE_UNDEFINED); 
+	hit(victim, ch, TYPE_UNDEFINED);
   }
   else
     send_to_char("You have a strange dream about falling...\r\n", victim);
@@ -365,13 +365,13 @@ ASPELL(spell_locate_object)
     {
       if (!isname(name, i->name))
 	continue;
-     
+
       if (IS_OBJ_STAT(i, ITEM_NOLOCATE)) {
         stc("Your magick suddenly dissolves into a wash of brilliant colours, "
             "and then, nothing.\r\n", ch);
         return;
-      } 
-      
+      }
+
       if (i->carried_by)
       {
 	if (CAN_SEE(ch, i->carried_by))
@@ -439,7 +439,7 @@ ASPELL(spell_charm)
   else if (!IS_NPC(victim) && !IS_OUTLAW(ch))
     {
        stc("Your power fails to effect them because you are not an Outlaw!\r\n", ch);
-       sprintf(buf, "%s tried to control you but failed because %s in not an Outlaw!\r\n", 
+       sprintf(buf, "%s tried to control you but failed because %s in not an Outlaw!\r\n",
                GET_NAME(ch), GET_NAME(ch));
        stc(buf, victim);
     }
@@ -495,7 +495,7 @@ ASPELL(spell_identify)
 	  sprinttype(GET_OBJ_TYPE(obj), item_types, buf2);
 	  strcat(buf, buf2);
 	  strcat(buf, "\r\n");
-	} 
+	}
       send_to_char(buf, ch);
 
       if (obj->obj_flags.bitvector)
@@ -675,7 +675,7 @@ ASPELL(spell_lycanthropy)
 	  send_to_char("Already a creature of the night.\n\r", ch);
 	  return;
 	}
-      send_to_char("You feel a strange sensation in your bones...\n\r", 
+      send_to_char("You feel a strange sensation in your bones...\n\r",
 		   victim);
       SET_BIT_AR(PLR_FLAGS(victim), PLR_WEREWOLF);
     }
@@ -722,7 +722,7 @@ ASPELL(spell_hellfire)
    for(tmp_victim = character_list; tmp_victim; tmp_victim = temp)
    {
       temp = tmp_victim->next;
- 
+
       if ( (ch->in_room == tmp_victim->in_room) && (ch != tmp_victim) &&
           (!are_grouped(ch, tmp_victim)) )
       {
@@ -875,7 +875,7 @@ ASPELL(spell_zen)
   send_to_char("You begin to meditate deeply, focusing your thoughts only on "
 	       "healing.\r\n", ch);
   act("$n sinks into a deep, meditative sleep.", FALSE, ch, 0, 0, TO_ROOM);
-  
+
   GET_POS(ch) = POS_STUNNED;
   GET_HIT(ch) = MIN( GET_MAX_HIT(victim), GET_HIT(victim)+(2*GET_LEVEL(ch)) );
 }
@@ -895,14 +895,14 @@ ASPELL(spell_silken_missile)
 	  FALSE, ch, obj, 0, TO_CHAR);
       return;
     }
-  
+
   if (!(tobj = read_object(MISSILE, VIRTUAL)))
     {
       send_to_char("Error, please tell a god.\r\n", ch);
       log("SYSERR: spell_silken_missile: obj not found");
       return;
     }
-  
+
   act("$n takes a strip of cloth from $p and creates an arrow.",
       FALSE, ch, obj, 0, TO_ROOM);
   act("You create an arrow from $p.", FALSE, ch, obj, 0, TO_CHAR);
@@ -919,7 +919,7 @@ ASPELL(spell_mindsight)
     {
       struct char_data *i = NULL;
       int location, original_loc;
-  
+
       if ( (GET_LEVEL(victim) > GET_LEVEL(ch)+4 && (!number(0,4))) ||
 	   (!IS_NPC(victim) && GET_LEVEL(victim) >= LEVEL_IMMORT &&
 	    GET_LEVEL(ch) <= GET_LEVEL(victim)) )
@@ -942,7 +942,7 @@ ASPELL(spell_mindsight)
       char_from_room(ch);
       char_to_room(ch, location);
       do_look(ch, "", 0, 0);
-      
+
       for (i=world[ch->in_room].people; i; i=i->next_in_room)
 	if (i !=ch && !IS_NPC(i) && (IS_PSIONIC(ch) || IS_MYSTIC(ch)))
 	  stc("You feel like you're being watched.\r\n", i);
@@ -1021,7 +1021,7 @@ ASPELL(spell_coc) /* circle of summoning */
     send_to_char("You draw a magic circle on the ground.\r\n", ch);
     act("$n draws a magic circle on the ground.", 0, ch, 0, 0, TO_ROOM);
   }
- 
+
 }
 
 #define EARTH_ELEMENTAL   81
@@ -1063,14 +1063,14 @@ ASPELL(spell_conjure_elemental)
      }
      if (comp != NULL) break;
   }
-  
+
   if (comp != NULL) {
 
      sprintf(buf, "You begin to chant slowly, drawing power from %s.\r\n",
          comp->short_description);
      stc(buf, ch);
      act("$n chants slowly, drawing power from $p.", TRUE, ch, comp, 0,TO_ROOM);
-     elemental = create_mobile(ch, elem_components[k][0], 
+     elemental = create_mobile(ch, elem_components[k][0],
                                (GET_LEVEL(ch)/2)+3, FALSE);
      affect_to_char(elemental, &af);
      add_follower_quiet(elemental, ch);
@@ -1115,7 +1115,7 @@ ASPELL(spell_meteor_swarm)
   for (tch = world[ch->in_room].people; tch; tch = next_tch)
      {
        next_tch = tch->next_in_room;
-       
+
        if (tch == ch)
          continue;
 
@@ -1124,12 +1124,12 @@ ASPELL(spell_meteor_swarm)
 
        if (are_grouped(ch, tch))
          continue;
-      
-       damage(ch, tch, dam, SPELL_METEOR_SWARM); 
+
+       damage(ch, tch, dam, SPELL_METEOR_SWARM);
      }
 }
 
-#define MOB_CLONE	69           
+#define MOB_CLONE	69
 
 ASPELL(spell_mirror_image)
 {
@@ -1145,7 +1145,7 @@ ASPELL(spell_mirror_image)
   if (NULL == ch->player.description) return;
 
   SET_NAME(clone, str_dup(GET_NAME(ch)));
-  clone->player.short_descr = str_dup(GET_NAME(ch)); 
+  clone->player.short_descr = str_dup(GET_NAME(ch));
   sprintf(szBuffer, "%s %s\r\n", GET_NAME(ch), ch->player.title);
   clone->player.long_descr = str_dup(szBuffer);
   clone->player.description = str_dup(ch->player.description);
@@ -1161,7 +1161,7 @@ ASPELL(spell_mirror_image)
           remember(mob, clone);
       if (HUNTING(mob) == ch)
         set_hunting(mob, clone);
-   }      
+   }
 
 }
 
@@ -1175,7 +1175,7 @@ ASPELL(spell_divine_int)
   void add_follower_quiet(struct char_data *, struct char_data *);
   struct affected_type af;
   int mob_num = 86, number = 1;
-  
+
   af.type = SPELL_DIVINE_INT;
   af.duration = (GET_LEVEL(ch)/2)-2;
   af.modifier = 0;
@@ -1208,7 +1208,7 @@ ASPELL(spell_divine_int)
 
   stc("Suddenly, a portal of light appears out of nowhere!\r\n", ch);
   act("Suddenly, a portal of light appears out of nowhere!", FALSE, ch, 0, 0, TO_ROOM);
-  
+
   for (; number != 0; number--)
   {
     angel = create_mobile(ch, mob_num,(GET_LEVEL(ch)/2), FALSE);

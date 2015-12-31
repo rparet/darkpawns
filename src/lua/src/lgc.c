@@ -244,7 +244,7 @@ static void collectstrings (lua_State *L, int all) {
         if (next->marked < FIXMARK)  /* does not change FIXMARKs */
           next->marked = 0;
         p = &next->nexthash;
-      } 
+      }
       else {  /* collect */
         *p = next->nexthash;
         L->strt.nuse--;
@@ -267,7 +267,7 @@ static void collectudata (lua_State *L, int all) {
       if (next->marked && !all) {  /* preserve? */
         next->marked = 0;
         p = &next->nexthash;
-      } 
+      }
       else {  /* collect */
         int tag = next->u.d.tag;
         *p = next->nexthash;

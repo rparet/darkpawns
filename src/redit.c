@@ -79,7 +79,7 @@ redit_setup_existing(struct descriptor_data *d, int real_num)
 {
   struct room_data *room;
   int counter;
-  
+
   /*. Build a copy of the room .*/
   CREATE (room, struct room_data, 1);
   *room = world[real_num];
@@ -106,9 +106,9 @@ redit_setup_existing(struct descriptor_data *d, int real_num)
 	      str_dup(world[real_num].dir_option[counter]->keyword);
 	}
     }
-  
-  /*. Extra descriptions if necessary .*/ 
-  if (world[real_num].ex_description) 
+
+  /*. Extra descriptions if necessary .*/
+  if (world[real_num].ex_description)
     {
       struct extra_descr_data *this, *temp, *temp2;
       CREATE (temp, struct extra_descr_data, 1);
@@ -129,7 +129,7 @@ redit_setup_existing(struct descriptor_data *d, int real_num)
 	    temp->next = NULL;
 	}
     }
- 
+
   /*. Attatch room copy to players descriptor .*/
   OLC_ROOM(d) = room;
   OLC_VAL(d) = 0;
@@ -137,7 +137,7 @@ redit_setup_existing(struct descriptor_data *d, int real_num)
 }
 
 /*------------------------------------------------------------------------*/
-      
+
 #define ZCMD (zone_table[zone].cmd[cmd_no])
 
 void
@@ -149,7 +149,7 @@ redit_save_internally(struct descriptor_data *d)
   struct obj_data *temp_obj;
 
   room_num = real_room(OLC_NUM(d));
-  if (room_num >= 0) 
+  if (room_num >= 0)
     {
       /*. Room exits: move contents over then free and replace it .*/
       OLC_ROOM(d)->contents = world[room_num].contents;
@@ -157,18 +157,18 @@ redit_save_internally(struct descriptor_data *d)
       free_room(world + room_num);
       world[room_num] = *OLC_ROOM(d);
     }
-  else 
+  else
     { /*. Room doesn't exist, hafta add it .*/
 
       CREATE(new_world, struct room_data, top_of_world + 2);
 
       /* count thru world tables */
-      for (i = 0; i <= top_of_world; i++) 
+      for (i = 0; i <= top_of_world; i++)
 	{
 	  if (!found)
 	    {
 	      /*. Is this the place? .*/
-	      if (world[i].number > OLC_NUM(d)) 
+	      if (world[i].number > OLC_NUM(d))
 		{
 		  found = 1;
 
@@ -179,7 +179,7 @@ redit_save_internally(struct descriptor_data *d)
                   new_world[i].script->name = NULL;
                   new_world[i].script->lua_functions = 0;
 		  room_num  = i;
-	
+
 		  /* copy from world to new_world + 1 */
 		  new_world[i + 1] = world[i];
 		  /* people in this room must have their numbers moved */
@@ -194,14 +194,14 @@ redit_save_internally(struct descriptor_data *d)
 		    if (temp_obj->in_room != -1)
 		      temp_obj->in_room = i + 1;
 		}
-	      else 
+	      else
 		{ /*.   Not yet placed, copy straight over .*/
 		  new_world[i] = world[i];
 		}
 	    }
-	  else 
+	  else
 	    { /*. Already been found  .*/
- 
+
 	      /* people in this room must have their in_rooms moved */
 	      for (temp_ch = world[i].people; temp_ch;
 		   temp_ch = temp_ch->next_in_room)
@@ -296,11 +296,11 @@ redit_save_to_disk(struct descriptor_data *d)
 
   for (counter = zone_table[OLC_ZNUM(d)].number * 100;
        counter <= zone_table[OLC_ZNUM(d)].top;
-       counter++) 
+       counter++)
   {
     realcounter = real_room(counter);
-    if (realcounter >= 0) 
-    { 
+    if (realcounter >= 0)
+    {
       room = (world + realcounter);
 
       /*. Remove the '\r\n' sequences from description .*/
@@ -331,9 +331,9 @@ redit_save_to_disk(struct descriptor_data *d)
       }
 
       /*. Handle exits .*/
-      for (counter2 = 0; counter2 < NUM_OF_DIRS; counter2++) 
+      for (counter2 = 0; counter2 < NUM_OF_DIRS; counter2++)
       {
-	if (room->dir_option[counter2]) 
+	if (room->dir_option[counter2])
         {
 	  int temp_door_flag;
 
@@ -347,7 +347,7 @@ redit_save_to_disk(struct descriptor_data *d)
 	    *buf1 = 0;
 
           /*. Figure out door flag .*/
-          if (IS_SET(room->dir_option[counter2]->exit_info, EX_ISDOOR)) 
+          if (IS_SET(room->dir_option[counter2]->exit_info, EX_ISDOOR))
           {
 	    if (IS_SET(room->dir_option[counter2]->exit_info, EX_PICKPROOF))
 	      temp_door_flag = 2;
@@ -362,7 +362,7 @@ redit_save_to_disk(struct descriptor_data *d)
             strcpy(buf2, room->dir_option[counter2]->keyword);
           else
             *buf2 = 0;
-               
+
           /*. Ok, now build a buffer to output to file .*/
           sprintf(buf, "D%d\n%s~\n%s~\n%d %d %d\n",
 		  counter2, buf1, buf2, temp_door_flag,
@@ -373,9 +373,9 @@ redit_save_to_disk(struct descriptor_data *d)
 	  fputs(buf, fp);
         }
       }
-      if (room->ex_description) 
+      if (room->ex_description)
       {
-	for (ex_desc = room->ex_description; ex_desc; ex_desc = ex_desc->next) 
+	for (ex_desc = room->ex_description; ex_desc; ex_desc = ex_desc->next)
         {
 	  /*. Home straight, just deal with extras descriptions..*/
           strcpy(buf1, ex_desc->description);
@@ -432,7 +432,7 @@ free_room(struct room_data *room)
 }
 
 /**************************************************************************
- Menu functions 
+ Menu functions
  **************************************************************************/
 
 /* For extra descriptions */
@@ -440,7 +440,7 @@ void
 redit_disp_extradesc_menu(struct descriptor_data * d)
 {
   struct extra_descr_data *extra_desc = OLC_DESC(d);
-  
+
   sprintf(buf, "\r\n"
 	  "%s1%s) Keyword: %s%s\r\n"
 	  "%s2%s) Description:\r\n%s%s\r\n"
@@ -450,7 +450,7 @@ redit_disp_extradesc_menu(struct descriptor_data * d)
 	  grn, nrm, yel,
 	  extra_desc->description ?  extra_desc->description : "<NONE>",
 	  grn, nrm);
-  
+
   if (!extra_desc->next)
     strcat(buf, "<NOT SET>\r\n");
   else
@@ -519,7 +519,7 @@ redit_disp_flag_menu(struct descriptor_data * d)
 
   get_char_cols(d->character);
   send_to_char("\r\n", d->character);
-  for (counter = 0; counter < NUM_ROOM_FLAGS; counter++) 
+  for (counter = 0; counter < NUM_ROOM_FLAGS; counter++)
     {
       sprintf(buf, "%s%2d%s) %-20.20s ",
 	      grn, counter + 1, nrm, room_bits[counter]);
@@ -528,7 +528,7 @@ redit_disp_flag_menu(struct descriptor_data * d)
       send_to_char(buf, d->character);
     }
   sprintbitarray(OLC_ROOM(d)->room_flags, room_bits, RF_ARRAY_MAX, buf1);
-  sprintf(buf, 
+  sprintf(buf,
 	  "\r\nRoom flags: %s%s%s\r\n"
 	  "Enter room flags, 0 to quit : ",
 	  cyn, buf1, nrm
@@ -594,7 +594,7 @@ void redit_disp_script_menu(struct descriptor_data *d)
   int rnum = real_room(OLC_ROOM(d)->number);
 
   get_char_cols(d->character);
-  
+
   send_to_char("\r\n", d->character);
   sprintbit(ROOM_SCRIPT_FLAGS(rnum), rscript_bits, buf1);
   sprintf(buf, "%s1%s) Name: %s%s\r\n"
@@ -602,7 +602,7 @@ void redit_disp_script_menu(struct descriptor_data *d)
           grn, nrm, yel,
           GET_ROOM_SCRIPT(rnum)->name ? GET_ROOM_SCRIPT(rnum)->name : "None",
           grn, nrm, yel, buf1, nrm);
-        
+
   strcat(buf, "Enter choice (0 to quit) : ");
   send_to_char(buf, d->character);
   OLC_MODE(d) = REDIT_SCRIPT_MENU;
@@ -646,13 +646,13 @@ void redit_disp_menu(struct descriptor_data * d)
           world[room->dir_option[NORTH]->to_room].number : -1,
 	grn, nrm, cyn, room->dir_option[EAST] ?
           world[room->dir_option[EAST]->to_room].number : -1,
-  	grn, nrm, cyn, room->dir_option[SOUTH] ? 
+  	grn, nrm, cyn, room->dir_option[SOUTH] ?
           world[room->dir_option[SOUTH]->to_room].number : -1,
-  	grn, nrm, cyn, room->dir_option[WEST] ? 
+  	grn, nrm, cyn, room->dir_option[WEST] ?
           world[room->dir_option[WEST]->to_room].number : -1,
-  	grn, nrm, cyn, room->dir_option[UP] ? 
+  	grn, nrm, cyn, room->dir_option[UP] ?
           world[room->dir_option[UP]->to_room].number : -1,
-  	grn, nrm, cyn, room->dir_option[DOWN] ? 
+  	grn, nrm, cyn, room->dir_option[DOWN] ?
           world[room->dir_option[DOWN]->to_room].number : -1,
         grn, nrm,
         grn, nrm,
@@ -671,7 +671,7 @@ void redit_disp_menu(struct descriptor_data * d)
  **************************************************************************/
 
 void redit_parse(struct descriptor_data * d, char *arg)
-{ 
+{
   extern struct room_data *world;
   int number;
   char *oldtext = NULL;
@@ -821,7 +821,7 @@ void redit_parse(struct descriptor_data * d, char *arg)
       send_to_char("Invalid choice!", d->character);
       redit_disp_sector_menu(d);
       return;
-    } else 
+    } else
       OLC_ROOM(d)->sector_type = number;
     break;
 
@@ -932,7 +932,7 @@ void redit_parse(struct descriptor_data * d, char *arg)
       {
 	/* if something got left out, delete the extra desc
 	 when backing out to menu */
-	if (!OLC_DESC(d)->keyword || !OLC_DESC(d)->description) 
+	if (!OLC_DESC(d)->keyword || !OLC_DESC(d)->description)
         { struct extra_descr_data **tmp_desc;
 
 	  if (OLC_DESC(d)->keyword)
@@ -1021,12 +1021,12 @@ void redit_parse(struct descriptor_data * d, char *arg)
         send_to_char("Enter script name: ", d->character);
         return;
       case 2:
-        OLC_MODE(d) = REDIT_SCRIPT_FLAGS; 
+        OLC_MODE(d) = REDIT_SCRIPT_FLAGS;
         redit_disp_script_flags(d);
         return;
       default:
         break;
-    }    
+    }
     break;
 
   case REDIT_SCRIPT_NAME:
@@ -1039,18 +1039,18 @@ void redit_parse(struct descriptor_data * d, char *arg)
       GET_ROOM_SCRIPT(number)->name = str_dup(arg);
     redit_disp_script_menu(d);
     return;
-            
+
   case REDIT_SCRIPT_FLAGS:
     if ((number = atoi(arg)) == 0)
     {
       OLC_MODE(d) = REDIT_SCRIPT_MENU;
       redit_disp_script_menu(d);
-      return; 
+      return;
     }
     if (!((number < 0) || (number > NUM_RSCRIPT_FLAGS)))
       TOGGLE_BIT(ROOM_SCRIPT_FLAGS(real_room(OLC_ROOM(d)->number)), 1 << (number - 1));
     redit_disp_script_flags(d);
-    return; 
+    return;
 
   default:
     /* we should never get here */

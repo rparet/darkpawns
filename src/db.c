@@ -195,7 +195,7 @@ ACMD(do_reboot)
       file_to_string_alloc(POLICIES_FILE, &policies);
       file_to_string_alloc(HANDBOOK_FILE, &handbook);
       file_to_string_alloc(BACKGROUND_FILE, &background);
-      file_to_string_alloc(FUTURE_FILE, &future); 
+      file_to_string_alloc(FUTURE_FILE, &future);
    }
   else if (!str_cmp(arg, "wizlist"))
     file_to_string_alloc(WIZLIST_FILE, &wizlist);
@@ -258,7 +258,7 @@ init_review_strings( void )
       review[count].invis = 0;
     }
 }
-  
+
 
 void
 boot_world(void)
@@ -375,7 +375,7 @@ boot_db(void)
 
   log("Booting DNS cache.");
   boot_dns();
- 
+
   if (!no_rent_check)
     {
       log("Deleting timed-out crash and rent files:");
@@ -403,7 +403,7 @@ boot_db(void)
     }
   log("Booting clans.");
   init_clans();
-  
+
   boot_time = time(0);
 
   log("Boot db -- DONE.");
@@ -436,7 +436,7 @@ reset_time(void)
   log(buf);
 
   time_info.moon = MOON_THREE_EMPTY;
-  if (time_info.day < 33) time_info.moon = MOON_HALF_EMPTY;  
+  if (time_info.day < 33) time_info.moon = MOON_HALF_EMPTY;
   if (time_info.day < 29) time_info.moon = MOON_QUARTER_EMPTY;
   if (time_info.day < 25)  time_info.moon = MOON_FULL;
   if (time_info.day < 21) time_info.moon = MOON_THREE_FULL;
@@ -1000,14 +1000,14 @@ renum_zone_table(void)
 	    break;
 	  case 'R': /* rem obj/mob from room */
 	    a = ZCMD.arg1 = real_room(ZCMD.arg1);
-	    
+
 	    /* Transform the legacy 'R' command format. */
 	    bool legacy_cmd = (ZCMD.arg3 == -1);
 	    if (legacy_cmd) {
 	      ZCMD.arg3 = ZCMD.arg2;
 	      ZCMD.arg2 = 1;
 	    }
-	    
+
 	    if (ZCMD.arg2)
 	      b = ZCMD.arg3 = real_object(ZCMD.arg3);
 	    else
@@ -1047,7 +1047,7 @@ parse_simple_mob(FILE *mob_f, int i, int nr)
     }
   GET_LEVEL(mob_proto + i) = t[0];
   /*
-   * Serapis 132212ZMAY97 
+   * Serapis 132212ZMAY97
    * Set mob stats based on level.
    */
   if (GET_LEVEL(mob_proto + i)>15)
@@ -1075,7 +1075,7 @@ parse_simple_mob(FILE *mob_f, int i, int nr)
   mob_proto[i].mob_specials.damnodice = t[6];
   mob_proto[i].mob_specials.damsizedice = t[7];
   mob_proto[i].points.damroll = t[8];
-  
+
   get_line(mob_f, line);
   sscanf(line, " %d %d ", t, t + 1);
   GET_GOLD(mob_proto + i) = t[0];
@@ -1099,7 +1099,7 @@ parse_simple_mob(FILE *mob_f, int i, int nr)
 
   for (j = 0; j < 3; j++)
     GET_COND(mob_proto + i, j) = -1;
-  
+
   /*
    * these are now save applies; base save numbers for MOBs are now from
    * the warrior save table.
@@ -1109,10 +1109,10 @@ parse_simple_mob(FILE *mob_f, int i, int nr)
 
   mob_proto[i].mob_specials.race = RACE_OTHER;
   mob_proto[i].mob_specials.noise = NULL;
-  
+
   for (j = 0; j < 5; j++)
     GET_RACE_HATE(mob_proto + i, j) = -1;
- 
+
   IS_PARRIED(mob_proto + i) = FALSE;
   GET_JAIL_TIMER(mob_proto +i) = FALSE;
 }
@@ -1153,7 +1153,7 @@ interpret_espec(char *keyword, char *value, int i, int nr)
   CASE("StrAdd")
     {
       RANGE(0, 100);
-      mob_proto[i].real_abils.str_add = num_arg;    
+      mob_proto[i].real_abils.str_add = num_arg;
     }
 
   CASE("Int")
@@ -1191,25 +1191,25 @@ interpret_espec(char *keyword, char *value, int i, int nr)
       RANGE(0, 99);
       mob_proto[i].mob_specials.race = num_arg;
     }
-  
+
   CASE("Noise")
    {
       if (value)
         mob_proto[i].mob_specials.noise = str_dup(value);
    }
-  
 
-  CASE("Script") 
+
+  CASE("Script")
    {
      mob_index[i].script->name = str_dup(arg1);
-     mob_index[i].script->lua_functions = asciiflag_conv(arg2);    
+     mob_index[i].script->lua_functions = asciiflag_conv(arg2);
    }
 
   if (!matched)
     {
       fprintf(stderr, "Warning: unrecognized espec keyword %s in mob #%d\n",
 	      keyword, nr);
-    }    
+    }
 }
 
 #undef CASE
@@ -1435,7 +1435,7 @@ parse_object(FILE * obj_f, int nr)
   }
   obj_proto[i].obj_flags.weight = t[0];
   obj_proto[i].obj_flags.cost = t[1];
-  
+
   SET_OBJ_LOAD(&obj_proto[i], load);
 
   /* check to make sure that weight of containers exceeds curr. quantity */
@@ -1766,7 +1766,7 @@ read_mobile(int nr, int type)
   if (GET_GOLD(mob))
   {
    /* set the gold to be gold+-(1 to 20%) */
-   if (!number(0,1))                 
+   if (!number(0,1))
     GET_GOLD(mob)+=(number(1,20)*GET_GOLD(mob))/100;
    else
     GET_GOLD(mob)-=(number(1,20)*GET_GOLD(mob))/100;
@@ -1899,7 +1899,7 @@ create_obj(void)
 static void init_rare(struct obj_data *obj)
 {
   int i, mod, loc;
-  
+
   for (i = 0; i < MAX_OBJ_AFFECT; i++) {
     loc = obj->affected[i].location;
     if (loc && dice(1, 100) <= 20) {
@@ -1915,7 +1915,7 @@ static void init_rare(struct obj_data *obj)
         mod = 0;
         break;
       }
-      
+
       if (number(0, 1) == 0)
         mod *= -1;
 
@@ -1925,7 +1925,7 @@ static void init_rare(struct obj_data *obj)
 }
 
 /* create a new object from a prototype */
-struct obj_data *read_object(int nr, int type) 
+struct obj_data *read_object(int nr, int type)
 {
    struct obj_data *obj;
    int i;
@@ -2020,7 +2020,7 @@ zone_update(void)
 	is_empty(update_u->zone_to_reset))
       {
 	reset_zone(update_u->zone_to_reset);
-	/* Serapis 141303ZMAY97 
+	/* Serapis 141303ZMAY97
 	sprintf(buf, "Auto zone reset: %s",
 		zone_table[update_u->zone_to_reset].name);
 	mudlog(buf, CMP, LVL_GOD, FALSE);
@@ -2063,12 +2063,12 @@ log_zone_error(int zone, int cmd_no, char *message)
 /* Returns true if an object loads, false if it doesn't.
    The chance of returning true is based on its percent chance to load. */
 static bool percent_load(struct obj_data *obj)
-{ 
+{
   if (GET_OBJ_LOAD(obj) > (uniform() * 100.0))
     return TRUE;
   else
     return FALSE;
-} 
+}
 
 /* execute the reset command table of a given zone */
 void reset_zone(int zone)
@@ -2109,7 +2109,7 @@ void reset_zone(int zone)
 	    mob = read_mobile(ZCMD.arg1, REAL);
 	    char_to_room(mob, ZCMD.arg3);
 	    last_cmd = 1;
-	      
+
 	    /*zone79 randload mobs*/
 	    if ((mob_index[ZCMD.arg1].virtual < 7999) &&
 		(mob_index[ZCMD.arg1].virtual > 7899) ) {
@@ -2119,12 +2119,12 @@ void reset_zone(int zone)
 	      while( (IS_SET_AR(world[to_room].room_flags,ROOM_PRIVATE))
 		     ||(IS_SET_AR(world[to_room].room_flags,ROOM_GODROOM))
 		     ||(IS_SET_AR(world[to_room].room_flags,ROOM_DEATH))
-		     ||(IS_SET_AR(world[to_room].room_flags,ROOM_NOMOB)) 
-		     ||(IS_SET_AR(world[to_room].room_flags,ROOM_HOUSE)) 
-		     ||(IS_SET_AR(world[to_room].room_flags,ROOM_ATRIUM)) 
+		     ||(IS_SET_AR(world[to_room].room_flags,ROOM_NOMOB))
+		     ||(IS_SET_AR(world[to_room].room_flags,ROOM_HOUSE))
+		     ||(IS_SET_AR(world[to_room].room_flags,ROOM_ATRIUM))
 		     ||(world[to_room].sector_type == SECT_CITY)
 		     || (zone_table[world[to_room].zone].number == 163) );
-	      
+
 	      char_from_room(mob);
 	      char_to_room(mob, to_room);
 	    }
@@ -2139,18 +2139,18 @@ void reset_zone(int zone)
 			||(IS_SET_AR(world[to_room].room_flags,ROOM_HOUSE))
 			||(IS_SET_AR(world[to_room].room_flags,ROOM_ATRIUM))
 			||(world[to_room].zone != zone) );
-	      
+
 	      char_from_room(mob);
 	      char_to_room(mob, to_room);
 	    }
-	  } 
+	  }
 	  break;
 
 	case 'O':			/* read an object */
 	  if (obj_index[ZCMD.arg1].number < ZCMD.arg2) {
             if (ZCMD.arg3 >= 0) {
               obj = read_object(ZCMD.arg1, REAL);
-              
+
               if (percent_load(obj)) {
                 obj_to_room(obj, ZCMD.arg3);
                 last_cmd = 1;
@@ -2166,7 +2166,7 @@ void reset_zone(int zone)
             }
           }
 	  break;
-	  
+
 	case 'P':			/* object to object */
 	  if (obj_index[ZCMD.arg1].number < ZCMD.arg2) {
 	    obj = read_object(ZCMD.arg1, REAL);
@@ -2216,7 +2216,7 @@ void reset_zone(int zone)
             }
           }
 	  break;
-	  
+
 	case 'R': /* Remove object/mobile from room */
 	  if (ZCMD.arg2) {
 	    if ((obj = get_obj_in_list_num(ZCMD.arg3, world[ZCMD.arg1].contents)) != NULL) {
@@ -2226,7 +2226,7 @@ void reset_zone(int zone)
 	    }
 	  } else {
 	    for (mob = world[ZCMD.arg1].people; mob; mob = mob->next_in_room) {
-	      if ((GET_MOB_RNUM(mob) == ZCMD.arg3) 
+	      if ((GET_MOB_RNUM(mob) == ZCMD.arg3)
                   && !MOB_FLAGGED(mob, MOB_EXTRACT)
                   && !FIGHTING(mob)) {
 		for (i = 0; i < NUM_WEARS; i++) /* remove any worn items */
@@ -2398,7 +2398,7 @@ save_char(struct char_data * ch, int load_room)
 	st.player_specials_saved.load_room = (sh_int)load_room_vnum;
       }
     }
-  
+
   strcpy(st.pwd, GET_PASSWD(ch));
 
   fseek(player_fl, GET_PFILEPOS(ch) * sizeof(struct char_file_u), SEEK_SET);
@@ -2454,10 +2454,10 @@ store_to_char(struct char_file_u * st, struct char_data * ch)
 
   for (i = 0; i < 5; i++)
     GET_RACE_HATE(ch, i) = -1;
- 
+
   IS_PARRIED(ch) = FALSE;
   GET_JAIL_TIMER(ch) = FALSE;
-  
+
   ch->points.armor = 100;
   ch->points.hitroll = 0;
   ch->points.damroll = 0;
@@ -2492,7 +2492,7 @@ store_to_char(struct char_file_u * st, struct char_data * ch)
       GET_MANA(ch) = GET_MAX_MANA(ch);
     }
   /*
-   * if you've been gone a day mud time, set your tatto timer back to 0 
+   * if you've been gone a day mud time, set your tatto timer back to 0
    */
   if ( (((long) (time(0) - st->last_logon)) >= SECS_PER_REAL_HOUR) )
      TAT_TIMER(ch)=0;
@@ -2519,7 +2519,7 @@ store_to_char(struct char_file_u * st, struct char_data * ch)
     REMOVE_BIT_AR(PLR_FLAGS(ch), PLR_IT);
 
   /*
-   * Enter the game active 
+   * Enter the game active
    */
    if (PRF_FLAGGED(ch, PRF_INACTIVE))
 	REMOVE_BIT_AR(PRF_FLAGS(ch), PRF_INACTIVE);
@@ -2583,7 +2583,7 @@ char_to_store(struct char_data * ch, struct char_file_u * st)
    * remove tattooo bonuses
    */
   tattoo_af(ch, FALSE);
- 
+
   ch->aff_abils = ch->real_abils;
 
   st->birth = ch->player.time.birth;
@@ -2659,7 +2659,7 @@ create_entry(char *name)
       CREATE(player_table, struct player_index_element, 1);
       top_of_p_table = 0;
     }
-  else 
+  else
     {
        top_of_p_table++;
        RECREATE(player_table, struct player_index_element,(top_of_p_table+1));
@@ -2964,7 +2964,7 @@ reset_char(struct char_data * ch)
 
   for (i = 0; i < 5; i++)
     GET_RACE_HATE(ch, i) = -1;
-  
+
   IS_PARRIED(ch) = FALSE;
   GET_JAIL_TIMER(ch) = FALSE;
 }
@@ -3194,19 +3194,19 @@ void check_dst(int check)
 }
 
 
-void 
+void
 read_mud_date_from_file(void)
 {
   FILE *f;
   struct time_write read_date;
 
   f = fopen("etc/date_record", "r");
-  
+
   if (!f) {
     log("SYSERR: File etc/date_record not found, mud date will be reset to default!");
     return;
   }
-  
+
   if (fscanf(f, "%d %d %d", &read_date.year, &read_date.month, &read_date.day) != 3) {
     log("SYSERR: File etc/date_record is corrupted, mud date will be reset to default!");
   } else {
@@ -3214,7 +3214,7 @@ read_mud_date_from_file(void)
     time_info.month = read_date.month;
     time_info.day   = read_date.day;
   }
-  
+
   fclose(f);
 }
 

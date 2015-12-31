@@ -32,7 +32,7 @@ struct howmany *oc_get_node (void);
 struct howmany *oc_add_front (struct howmany *new, struct howmany *list);
 int oc_onlist (int vnum, int *extras, int weight, char *text, struct howmany *list);
 void oc_dispose_list (struct howmany *list);
-void oc_show_list (struct howmany *list, struct char_data *ch, 
+void oc_show_list (struct howmany *list, struct char_data *ch,
                    int show_weight, int show_wide, int show_indent,
                    int show_header);
 

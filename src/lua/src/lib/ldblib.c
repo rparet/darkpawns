@@ -79,7 +79,7 @@ static int getinfo (lua_State *L) {
   }
   return 1;  /* return table */
 }
-    
+
 
 static int getlocal (lua_State *L) {
   lua_Debug ar;

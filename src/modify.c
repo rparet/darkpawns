@@ -50,7 +50,7 @@ void oedit_string_cleanup(struct descriptor_data *d, int action);
 
 /* local functions */
 void show_string(struct descriptor_data *d, char *input);
-int old_search_block(char *argument, int begin, int length, char **list, 
+int old_search_block(char *argument, int begin, int length, char **list,
                      int mode);
 char *clean_up (char *in);
 char *find_exdesc(char *word, struct extra_descr_data * list);
@@ -82,7 +82,7 @@ int length[] =
 void smash_tilde(char *str)
 {
   /*
-   * Erase any _line ending_ tildes inserted in the editor. 
+   * Erase any _line ending_ tildes inserted in the editor.
    * The load mechanism can't handle those, yet.
    * -- Welcor 04/2003
    */
@@ -93,8 +93,8 @@ void smash_tilde(char *str)
        *p=' ';
 }
 
-void 
-string_write(struct descriptor_data *d, char **writeto, size_t len, 
+void
+string_write(struct descriptor_data *d, char **writeto, size_t len,
                   long mail_to, void *data)
 {
   if (d->character && !IS_NPC(d->character))
@@ -180,10 +180,10 @@ void string_add(struct descriptor_data *d, char *str)
     d->backstr = NULL;
     break;
   case STRINGADD_ACTION:
-    break;    
+    break;
   }
 
-  if (action == STRINGADD_SAVE || action == STRINGADD_ABORT) {     
+  if (action == STRINGADD_SAVE || action == STRINGADD_ABORT) {
     int i;
     struct {
       int mode;
@@ -243,11 +243,11 @@ void exdesc_string_cleanup(struct descriptor_data *d, int action)
 
   if (action == STRINGADD_ABORT)
     write_to_output(d, "Description aborted.\r\n");
-  
+
   write_to_output(d, "%s", MENU);
   STATE(d) = CON_MENU;
 }
-     
+
 /* **********************************************************************
 *  Modification of character skills                                     *
 ********************************************************************** */
@@ -728,7 +728,7 @@ ACMD(do_string)
 	       if (ed == obj->ex_description)
 		  obj->ex_description = ed->next;
 	       else {
-		  for (tmp = obj->ex_description; tmp->next != ed; 
+		  for (tmp = obj->ex_description; tmp->next != ed;
 		      tmp = tmp->next)
 		     ;
 		  tmp->next = ed->next;
@@ -778,30 +778,30 @@ char
   char buf[MAX_STRING_LENGTH];
   int notdone, linelen, bufi, ini, wordlen, whitespacelen, exit, word,
     letter, endspacelen;
-  int width = 78;  
-          
+  int width = 78;
+
   notdone = 1;
   linelen = 0;
-  bufi = 0;   
+  bufi = 0;
   ini = 0;
   word = 0;
   strcpy (buf, in);
-         
+
   while (notdone)  {
       wordlen = 0;
       whitespacelen = 0;
       endspacelen = 0;
       word++;
-                 
+
       while (buf[bufi] == ' ')
         {                       /* snarf initial whitespace */
           in[ini++] = buf[bufi++];
-          whitespacelen++;  
+          whitespacelen++;
         }
-              
-      exit = 0;    
+
+      exit = 0;
       letter = 0;
-      while (buf[bufi] != ' ' && !exit)        
+      while (buf[bufi] != ' ' && !exit)
       {
           letter++;
           switch (buf[bufi])
@@ -819,7 +819,7 @@ char
                 {
                   bufi++;
                   endspacelen++;
-                }  
+                }
               exit = 1;
               break;
             case '\0':
@@ -828,14 +828,14 @@ char
               in[ini] = '\0';
               exit = 1;
               break;
-                 
+
             case RETURN_CHAR:
               if (letter > 1)
                 {
                   exit = 1;
                 }
               else
-                {  
+                {
                   in[ini++] = '\n';
                   in[ini++] = '\r';
                   bufi++;
@@ -843,21 +843,21 @@ char
                   linelen = 0;
                   endspacelen = 0;
                   exit = 1;
-                }   
+                }
               break;
-            
+
             default:
               in[ini++] = buf[bufi++];
-              wordlen++;   
+              wordlen++;
             }
         }
       linelen += (wordlen + whitespacelen);
-                  
+
       if (linelen >= width)
         {
           bufi -= (wordlen + endspacelen);
           ini -= (wordlen + whitespacelen);
-                  
+
           in[ini++] = '\n';
           in[ini++] = '\r';
           linelen = 0;

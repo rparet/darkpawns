@@ -13,7 +13,7 @@
 #include "lzio.h"
 #include "luac.h"
 
-#define	OUTPUT	"luac.out"		/* default output file */
+#define OUTPUT  "luac.out"      /* default output file */
 
 static void usage(const char* message, const char* arg);
 static int doargs(int argc, const char* argv[]);
@@ -22,15 +22,15 @@ static FILE* efopen(const char* name, const char* mode);
 static void strip(Proto* tf);
 static Proto* combine(Proto** P, int n);
 
-lua_State* lua_state=NULL;		/* lazy! */
+lua_State* lua_state=NULL;      /* lazy! */
 
-static int listing=0;			/* list bytecodes? */
-static int dumping=1;			/* dump bytecodes? */
-static int stripping=0;			/* strip debug information? */
-static int testing=0;			/* test integrity? */
-static const char* output=OUTPUT;	/* output file name */
+static int listing=0;           /* list bytecodes? */
+static int dumping=1;           /* dump bytecodes? */
+static int stripping=0;         /* strip debug information? */
+static int testing=0;           /* test integrity? */
+static const char* output=OUTPUT;   /* output file name */
 
-#define	IS(s)	(strcmp(argv[i],s)==0)
+#define IS(s)   (strcmp(argv[i],s)==0)
 
 int main(int argc, const char* argv[])
 {
@@ -78,32 +78,32 @@ static int doargs(int argc, const char* argv[])
  int i;
  for (i=1; i<argc; i++)
  {
-  if (*argv[i]!='-')			/* end of options */
+  if (*argv[i]!='-')            /* end of options */
    break;
-  else if (IS("-"))			/* end of options; use stdin */
+  else if (IS("-"))         /* end of options; use stdin */
    return i;
-  else if (IS("-l"))			/* list */
+  else if (IS("-l"))            /* list */
    listing=1;
-  else if (IS("-o"))			/* output file */
+  else if (IS("-o"))            /* output file */
   {
    output=argv[++i];
    if (output==NULL) usage(NULL,NULL);
   }
-  else if (IS("-p"))			/* parse only */
+  else if (IS("-p"))            /* parse only */
    dumping=0;
-  else if (IS("-s"))			/* strip debug information */
+  else if (IS("-s"))            /* strip debug information */
    stripping=1;
-  else if (IS("-t"))			/* test */
+  else if (IS("-t"))            /* test */
   {
    testing=1;
    dumping=0;
   }
-  else if (IS("-v"))			/* show version */
+  else if (IS("-v"))            /* show version */
   {
    printf("%s  %s\n",LUA_VERSION,LUA_COPYRIGHT);
    if (argc==2) exit(0);
   }
-  else					/* unknown option */
+  else                  /* unknown option */
    usage("unrecognized option `%s'",argv[i]);
  }
  if (i==argc && (listing || testing))

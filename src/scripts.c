@@ -486,7 +486,7 @@ static int lua_extchar(lua_State *L)
     lua_gettable(L, 1);
     ch = (struct char_data *)lua_touserdata(L, -1);
     extract_char(ch);
-    ch = NULL;			/* This should occur anyway */
+    ch = NULL;          /* This should occur anyway */
   } else
     mudlog("[Lua] Invalid char passed to lua_extchar", BRF, LVL_IMMORT, FALSE);
 
@@ -502,7 +502,7 @@ static int lua_extobj(lua_State *L)
     lua_gettable(L, 1);
     obj = (struct obj_data *)lua_touserdata(L, -1);
     extract_obj(obj);
-    obj = NULL;			/* This should occur anyway */
+    obj = NULL;         /* This should occur anyway */
   } else
     mudlog("[Lua] Invalid object passed to lua_extobj", BRF, LVL_IMMORT, FALSE);
 
@@ -1598,7 +1598,7 @@ static int lua_unaffect(lua_State *L)
     vict = (struct char_data *)lua_touserdata(L, -1);
 
     if (vict->affected)
-    	while (vict->affected)
+        while (vict->affected)
         affect_remove(vict, vict->affected);
   } else
     mudlog("[Lua] Invalid argument passed to lua_unaffect.", BRF, LVL_IMMORT, FALSE);

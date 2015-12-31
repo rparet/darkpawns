@@ -82,13 +82,13 @@ void mobile_activity(void)
     /* Examine call for special procedure */
     if (MOB_FLAGGED(ch, MOB_SPEC) && !no_specials) {
       if (mob_index[GET_MOB_RNUM(ch)].func == NULL) {
-	sprintf(buf, "%s (#%d): Attempting to call non-existing mob func",
-		GET_NAME(ch), GET_MOB_VNUM(ch));
-	log(buf);
-	REMOVE_BIT_AR(MOB_FLAGS(ch), MOB_SPEC);
+    sprintf(buf, "%s (#%d): Attempting to call non-existing mob func",
+        GET_NAME(ch), GET_MOB_VNUM(ch));
+    log(buf);
+    REMOVE_BIT_AR(MOB_FLAGS(ch), MOB_SPEC);
       } else {
-	if ((mob_index[GET_MOB_RNUM(ch)].func) (ch, ch, 0, ""))
-	  continue;		/* go to next char */
+    if ((mob_index[GET_MOB_RNUM(ch)].func) (ch, ch, 0, ""))
+      continue;     /* go to next char */
       }
     }
 
@@ -102,30 +102,30 @@ void mobile_activity(void)
     /* Scavenger (picking up objects) */
     if (MOB_FLAGGED(ch, MOB_SCAVENGER))
       if (world[ch->in_room].contents && !number(0, 10)) {
-	max = 1;
-	best_obj = NULL;
-	for (obj = world[ch->in_room].contents; obj; obj = obj->next_content)
-	  if (CAN_GET_OBJ(ch, obj) && GET_OBJ_COST(obj) > max) {
-	    best_obj = obj;
-	    max = GET_OBJ_COST(obj);
-	  }
-	if (best_obj != NULL) {
-	  obj_from_room(best_obj);
-	  obj_to_char(best_obj, ch);
-	  act("$n gets $p.", FALSE, ch, best_obj, 0, TO_ROOM);
-	}
+    max = 1;
+    best_obj = NULL;
+    for (obj = world[ch->in_room].contents; obj; obj = obj->next_content)
+      if (CAN_GET_OBJ(ch, obj) && GET_OBJ_COST(obj) > max) {
+        best_obj = obj;
+        max = GET_OBJ_COST(obj);
+      }
+    if (best_obj != NULL) {
+      obj_from_room(best_obj);
+      obj_to_char(best_obj, ch);
+      act("$n gets $p.", FALSE, ch, best_obj, 0, TO_ROOM);
+    }
       }
 
     /* Mob Movement */
     door = number(0, 18);
     if (!IS_SET_AR(MOB_FLAGS(ch), MOB_SENTINEL)   &&          /* not sentinel */
          (GET_POS(ch) == POS_STANDING)      &&          /* is standing */
-	 (door < NUM_OF_DIRS)               &&          /* rand door is ok */
+     (door < NUM_OF_DIRS)               &&          /* rand door is ok */
          (CAN_GO(ch, door))                 &&          /* able to move */
-	 ( !ROOM_FLAGGED(EXIT(ch, door)->to_room, ROOM_DEATH) &&
-	   !ROOM_FLAGGED(EXIT(ch, door)->to_room, ROOM_NOMOB) ) &&
-	 ( !IS_SET_AR(MOB_FLAGS(ch), MOB_STAY_ZONE) ||
-	   (world[EXIT(ch, door)->to_room].zone == world[ch->in_room].zone))
+     ( !ROOM_FLAGGED(EXIT(ch, door)->to_room, ROOM_DEATH) &&
+       !ROOM_FLAGGED(EXIT(ch, door)->to_room, ROOM_NOMOB) ) &&
+     ( !IS_SET_AR(MOB_FLAGS(ch), MOB_STAY_ZONE) ||
+       (world[EXIT(ch, door)->to_room].zone == world[ch->in_room].zone))
        )  {
        if ( (SECT(EXIT(ch, door)->to_room) == SECT_WATER_SWIM) &&
            !CAN_SWIM(ch) )
@@ -175,7 +175,7 @@ void mobile_activity(void)
     }
 
     if (check_dead(ch))
-	continue; /* ch died during the script */
+    continue; /* ch died during the script */
 
   /* Mob ONPULSE for only PC room occupants */
     if (GET_MOB_SCRIPT(ch) && MOB_SCRIPT_FLAGGED(ch, MS_ONPULSE_PC)) {
@@ -193,36 +193,36 @@ void mobile_activity(void)
   }
 
     if (check_dead(ch))
-	continue; /* ch died during the script */
+    continue; /* ch died during the script */
 
     /* Aggressive Mobs */
     if (MOB_FLAGGED(ch, MOB_AGGRESSIVE) ||
         MOB_FLAGGED(ch, MOB_AGGR_TO_ALIGN)) {
       found = FALSE;
       for (vict = world[ch->in_room].people;
-	   vict && !found;
-	   vict = vict->next_in_room) {
-	if (IS_NPC(vict) || !CAN_SEE(ch, vict) ||
-	    PRF_FLAGGED(vict, PRF_NOHASSLE))
-	  continue;
-	if (MOB_FLAGGED(ch, MOB_WIMPY) && AWAKE(vict))
-	  continue;
-    	if (IS_AFFECTED(vict, AFF_PROTECT_EVIL) && IS_EVIL(ch) && !number(0,5))
-	  continue;
+       vict && !found;
+       vict = vict->next_in_room) {
+    if (IS_NPC(vict) || !CAN_SEE(ch, vict) ||
+        PRF_FLAGGED(vict, PRF_NOHASSLE))
+      continue;
+    if (MOB_FLAGGED(ch, MOB_WIMPY) && AWAKE(vict))
+      continue;
+        if (IS_AFFECTED(vict, AFF_PROTECT_EVIL) && IS_EVIL(ch) && !number(0,5))
+      continue;
         if (IS_AFFECTED(vict, AFF_PROTECT_GOOD) && IS_GOOD(ch) && !number(0,5))
           continue;
-    	if (IS_AFFECTED(vict, AFF_SNEAK) && !number(0,3))
-	  continue;
-	/* old -- if (!MOB_FLAGGED(ch, MOB_AGGR_TO_ALIGN) || */
-	if ( ( ! MOB_FLAGGED(ch, MOB_AGGR_EVIL) &&
+        if (IS_AFFECTED(vict, AFF_SNEAK) && !number(0,3))
+      continue;
+    /* old -- if (!MOB_FLAGGED(ch, MOB_AGGR_TO_ALIGN) || */
+    if ( ( ! MOB_FLAGGED(ch, MOB_AGGR_EVIL) &&
                 MOB_FLAGGED(ch, MOB_AGGR_NEUTRAL) &&
                 MOB_FLAGGED(ch, MOB_AGGR_GOOD) ) ||
-	    (MOB_FLAGGED(ch, MOB_AGGR_EVIL) && IS_EVIL(vict)) ||
-	    (MOB_FLAGGED(ch, MOB_AGGR_NEUTRAL) && IS_NEUTRAL(vict)) ||
-	    (MOB_FLAGGED(ch, MOB_AGGR_GOOD) && IS_GOOD(vict))) {
-	  hit(ch, vict, TYPE_UNDEFINED);
-	  found = TRUE;
-	}
+        (MOB_FLAGGED(ch, MOB_AGGR_EVIL) && IS_EVIL(vict)) ||
+        (MOB_FLAGGED(ch, MOB_AGGR_NEUTRAL) && IS_NEUTRAL(vict)) ||
+        (MOB_FLAGGED(ch, MOB_AGGR_GOOD) && IS_GOOD(vict))) {
+      hit(ch, vict, TYPE_UNDEFINED);
+      found = TRUE;
+    }
         if ( MOB_FLAGGED(ch, MOB_AGGRESSIVE) ) { /* straight up -rparet */
           hit(ch, vict, TYPE_UNDEFINED);
           found = TRUE;
@@ -231,30 +231,30 @@ void mobile_activity(void)
     }
 
     if (!ch || ch->in_room<0)
-	continue; /* ch died in the move */
+    continue; /* ch died in the move */
 
     /* race hate haters */
     if ( GET_MOB_SPEC(ch) != shop_keeper)
      for (found = FALSE,vict = world[ch->in_room].people;
          vict && !found;
-	 vict = vict->next_in_room)
+     vict = vict->next_in_room)
      {
       int i = 0;
       for (i = 0; i < 5 && !found; i++)
         if (GET_RACE_HATE(vict, i) == GET_RACE(ch))
-	{
-	 if (!IS_NPC(vict) && CAN_SEE(ch, vict) &&
-	    !PRF_FLAGGED(vict, PRF_NOHASSLE) &&
-    	   (!IS_AFFECTED(vict, AFF_PROTECT_EVIL) ||
-		(IS_EVIL(ch) && !number(0,5))))
-	  {
- 	    if (!number(0,5) && can_speak(ch))
+    {
+     if (!IS_NPC(vict) && CAN_SEE(ch, vict) &&
+        !PRF_FLAGGED(vict, PRF_NOHASSLE) &&
+           (!IS_AFFECTED(vict, AFF_PROTECT_EVIL) ||
+        (IS_EVIL(ch) && !number(0,5))))
+      {
+        if (!number(0,5) && can_speak(ch))
               act("'Come to destroy my kin? Die!', exclaims $n.",
-	          FALSE, ch, 0, 0, TO_ROOM);
-	    hit(ch, vict, TYPE_UNDEFINED);
-	    found = TRUE;
-	  }
-	}
+              FALSE, ch, 0, 0, TO_ROOM);
+        hit(ch, vict, TYPE_UNDEFINED);
+        found = TRUE;
+      }
+    }
      }
 
 
@@ -263,21 +263,21 @@ void mobile_activity(void)
       found = FALSE;
       for (vict = world[ch->in_room].people;
            vict && !found;
-	   vict = vict->next_in_room) {
-	if (IS_NPC(vict) || !CAN_SEE(ch, vict) ||
-	    PRF_FLAGGED(vict, PRF_NOHASSLE))
-	  continue;
-	for (names = MEMORY(ch); names && !found; names = names->next)
-	  if (names->id == GET_IDNUM(vict)) {
-	    found = TRUE;
- 	    if (can_speak(ch) && !ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL))
-	      act("'Hey!  You're the fiend that attacked me!!!', exclaims $n.",
-		FALSE, ch, 0, 0, TO_ROOM);
-	    else if (!ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL))
-	      act("You hear a low growl in the back of $n's throat.",
-		FALSE, ch, 0, 0, TO_ROOM);
-	    hit(ch, vict, TYPE_UNDEFINED);
-	  }
+       vict = vict->next_in_room) {
+    if (IS_NPC(vict) || !CAN_SEE(ch, vict) ||
+        PRF_FLAGGED(vict, PRF_NOHASSLE))
+      continue;
+    for (names = MEMORY(ch); names && !found; names = names->next)
+      if (names->id == GET_IDNUM(vict)) {
+        found = TRUE;
+        if (can_speak(ch) && !ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL))
+          act("'Hey!  You're the fiend that attacked me!!!', exclaims $n.",
+        FALSE, ch, 0, 0, TO_ROOM);
+        else if (!ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL))
+          act("You hear a low growl in the back of $n's throat.",
+        FALSE, ch, 0, 0, TO_ROOM);
+        hit(ch, vict, TYPE_UNDEFINED);
+      }
       }
     }
 
@@ -290,15 +290,15 @@ void mobile_activity(void)
           return;
         }
       for (vict = world[ch->in_room].people;
-	   vict && !found;
-	   vict = vict->next_in_room)
-	if (ch != vict && IS_NPC(vict) && FIGHTING(vict)  &&
-	    CAN_SEE(ch, FIGHTING(vict)) && !IS_NPC(FIGHTING(vict)) &&
-	    ch != FIGHTING(vict)) {
-	  act("$n jumps to the aid of $N!", FALSE, ch, 0, vict, TO_ROOM);
-	  hit(ch, FIGHTING(vict), TYPE_UNDEFINED);
-	  found = TRUE;
-	}
+       vict && !found;
+       vict = vict->next_in_room)
+    if (ch != vict && IS_NPC(vict) && FIGHTING(vict)  &&
+        CAN_SEE(ch, FIGHTING(vict)) && !IS_NPC(FIGHTING(vict)) &&
+        ch != FIGHTING(vict)) {
+      act("$n jumps to the aid of $N!", FALSE, ch, 0, vict, TO_ROOM);
+      hit(ch, FIGHTING(vict), TYPE_UNDEFINED);
+      found = TRUE;
+    }
     }
 
     if (MOB_FLAGGED(ch, MOB_AGGR24)) {
@@ -311,12 +311,12 @@ void mobile_activity(void)
                vict=tmp_ch;
       if (vict) {
         act("$n grins evilly.", FALSE, ch, 0, 0, TO_ROOM);
-	if (can_speak(ch))
-	{
+    if (can_speak(ch))
+    {
          act("'Another dark pawn trying to be a knight, eh?', asks $n.",
-	    FALSE, ch, 0, 0, TO_ROOM);
+        FALSE, ch, 0, 0, TO_ROOM);
          act("$n says, 'I can fix that.'\n\r", FALSE, ch, 0, 0, TO_ROOM);
-	}
+    }
            hit(ch, vict, 0);
       }
     } /*aggr24 stuff*/
@@ -336,7 +336,7 @@ void mobile_activity(void)
     } /* aggr24+AGGR stuff */
     /* Add new mobile actions here */
 
-  }				/* end for() */
+  }             /* end for() */
 }
 
 
@@ -379,7 +379,7 @@ int forget(struct char_data * ch, struct char_data * victim)
   }
 
   if (!curr)
-    return FALSE;			/* person wasn't there at all. */
+    return FALSE;           /* person wasn't there at all. */
 
   if (curr == MEMORY(ch))
     MEMORY(ch) = curr->next;

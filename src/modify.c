@@ -132,12 +132,12 @@ void string_add(struct descriptor_data *d, char *str)
   else if (!(*d->str)) {
     if (strlen(str) + 3 > d->max_str) {
       send_to_char("String too long - Truncated.\r\n",
-		   d->character);
+           d->character);
       strcpy(&str[d->max_str - 3], "\r\n");
       CREATE(*d->str, char, d->max_str);
       strcpy(*d->str, str);
       if (!using_improved_editor)
-	action = STRINGADD_SAVE;
+    action = STRINGADD_SAVE;
     } else {
       CREATE(*d->str, char, strlen(str) + 3);
       strcpy(*d->str, str);
@@ -146,9 +146,9 @@ void string_add(struct descriptor_data *d, char *str)
     if (strlen(str) + strlen(*d->str) + 3 > d->max_str) {
       send_to_char("String too long.  Last line skipped.\r\n", d->character);
       if (!using_improved_editor)
-	action = STRINGADD_SAVE;
+    action = STRINGADD_SAVE;
       else if (action == STRINGADD_OK)
-	action = STRINGADD_ACTION;
+    action = STRINGADD_ACTION;
     } else {
       RECREATE((*d->str), char, (strlen(*d->str) + strlen(str) + 3));
       strcat(*d->str, str);
@@ -261,17 +261,17 @@ ACMD(do_skillset)
 
   argument = one_argument(argument, name);
 
-  if (!*name) {			/* no arguments. print an informative text */
+  if (!*name) {         /* no arguments. print an informative text */
     send_to_char("Syntax: skillset <name> '<skill>' <value>\r\n", ch);
     strcpy(help, "Skill being one of the following:\n\r");
     for (i = 0; *spells[i] != '\n'; i++) {
       if (*spells[i] == '!')
-	continue;
+    continue;
       sprintf(help + strlen(help), "%18s", spells[i]);
       if (i % 4 == 3) {
-	strcat(help, "\r\n");
-	send_to_char(help, ch);
-	*help = '\0';
+    strcat(help, "\r\n");
+    send_to_char(help, ch);
+    *help = '\0';
       }
     }
     if (*help)
@@ -309,7 +309,7 @@ ACMD(do_skillset)
     send_to_char("Unrecognized skill.\n\r", ch);
     return;
   }
-  argument += qend + 1;		/* skip to next parameter */
+  argument += qend + 1;     /* skip to next parameter */
   argument = one_argument(argument, buf);
 
   if (!*buf) {
@@ -330,13 +330,13 @@ ACMD(do_skillset)
     return;
   }
   sprintf(buf2, "%s changed %s's %s to %d.", GET_NAME(ch), GET_NAME(vict),
-	  spells[skill], value);
+      spells[skill], value);
   mudlog(buf2, BRF, -1, TRUE);
 
   SET_SKILL(vict, skill, value);
 
   sprintf(buf2, "You change %s's %s to %d.\n\r", GET_NAME(vict),
-	  spells[skill], value);
+      spells[skill], value);
   send_to_char(buf2, ch);
 }
 
@@ -377,20 +377,20 @@ char *next_page(char *str)
     else if (!spec_code) {
       /* Carriage return puts us in column one. */
       if (*str == '\r') {
-	col = 1;
+    col = 1;
       }
       /* Newline puts us on the next line. */
       else if (*str == '\n') {
-	col = 1;
-	line++;
+    col = 1;
+    line++;
       }
 
       /* We need to check here and see if we are over the page width,
        * and if so, compensate by going to the begining of the next line.
        */
       else if (col++ > PAGE_WIDTH) {
-	col = 1;
-	line++;
+    col = 1;
+    line++;
       }
     }
   }
@@ -529,7 +529,7 @@ show_string(struct descriptor_data *d, char *input)
 /* do_string stuff ***********************************************/
 
 #define TP_MOB    0
-#define TP_OBJ	  1
+#define TP_OBJ    1
 #define TP_ERROR  2
 extern struct obj_data *object_list;
 
@@ -559,9 +559,9 @@ get_obj(char *name)
 
 
 /* interpret an argument for do_string */
-void	quad_arg(char *arg, int *type, char *name, int *field, char *string)
+void    quad_arg(char *arg, int *type, char *name, int *field, char *string)
 {
-   char	buf[MAX_STRING_LENGTH];
+   char buf[MAX_STRING_LENGTH];
 
    /* determine type */
    arg = one_argument(arg, buf);
@@ -593,8 +593,8 @@ void	quad_arg(char *arg, int *type, char *name, int *field, char *string)
 /* modification of CREATED'ed strings in chars/objects */
 ACMD(do_string)
 {
-   char	name[MAX_STRING_LENGTH], string[MAX_STRING_LENGTH];
-   int	field, type;
+   char name[MAX_STRING_LENGTH], string[MAX_STRING_LENGTH];
+   int  field, type;
    struct char_data *mob;
    struct obj_data *obj;
    struct extra_descr_data *ed, *tmp;
@@ -618,132 +618,132 @@ ACMD(do_string)
 
       /* locate the beast */
       if (!(mob = get_char_vis(ch, name))) {
-	 send_to_char("I don't know anyone by that name...\n\r", ch);
-	 return;
+     send_to_char("I don't know anyone by that name...\n\r", ch);
+     return;
       }
 
       switch (field) {
       case 1:
-	 if (!IS_NPC(mob) && GET_LEVEL(ch) < LEVEL_IMPL-1) {
-	    send_to_char("You can't change that field for players.", ch);
-	    return;
-	 }
-	 ch->desc->str = &(mob->player.name);
-	 if (!IS_NPC(mob))
-	    send_to_char("WARNING: You have changed the name of a player.\n\r", ch);
-	 break;
+     if (!IS_NPC(mob) && GET_LEVEL(ch) < LEVEL_IMPL-1) {
+        send_to_char("You can't change that field for players.", ch);
+        return;
+     }
+     ch->desc->str = &(mob->player.name);
+     if (!IS_NPC(mob))
+        send_to_char("WARNING: You have changed the name of a player.\n\r", ch);
+     break;
       case 2:
-	 if (!IS_NPC(mob)) {
-	    send_to_char("That field is for monsters only.\n\r", ch);
-	    return;
-	 }
-	 ch->desc->str = &mob->player.short_descr;
-	 break;
+     if (!IS_NPC(mob)) {
+        send_to_char("That field is for monsters only.\n\r", ch);
+        return;
+     }
+     ch->desc->str = &mob->player.short_descr;
+     break;
       case 3:
-	 if (!IS_NPC(mob)) {
-	    send_to_char("That field is for monsters only.\n\r", ch);
-	    return;
-	 }
+     if (!IS_NPC(mob)) {
+        send_to_char("That field is for monsters only.\n\r", ch);
+        return;
+     }
          strcpy(string + strlen(string), "\r\n");
-	 ch->desc->str = &mob->player.long_descr;
-	 break;
+     ch->desc->str = &mob->player.long_descr;
+     break;
       case 4:
-	 ch->desc->str = &mob->player.description;
-	 break;
+     ch->desc->str = &mob->player.description;
+     break;
       case 5:
-	 if (IS_NPC(mob)) {
-	    send_to_char("Monsters have no titles.\n\r", ch);
-	    return;
-	 }
-	 ch->desc->str = &mob->player.title;
-	 break;
+     if (IS_NPC(mob)) {
+        send_to_char("Monsters have no titles.\n\r", ch);
+        return;
+     }
+     ch->desc->str = &mob->player.title;
+     break;
       default:
-	 send_to_char("That field is undefined for monsters.\n\r", ch);
-	 return;
-	 break;
+     send_to_char("That field is undefined for monsters.\n\r", ch);
+     return;
+     break;
       }
-   } else /* type == TP_OBJ */	 {
+   } else /* type == TP_OBJ */   {
 
       /* locate the object */
       if (!(obj = get_obj_in_list_vis(ch, name, ch->carrying))) {
-	 send_to_char("Nothing by that name..\n\r", ch);
-	 return;
+     send_to_char("Nothing by that name..\n\r", ch);
+     return;
       }
 
       switch (field) {
       case 1:
-	 ch->desc->str = &obj->name;
-	 break;
+     ch->desc->str = &obj->name;
+     break;
       case 2:
-	 ch->desc->str = &obj->short_description;
-	 break;
+     ch->desc->str = &obj->short_description;
+     break;
       case 3:
-	 ch->desc->str = &obj->description;
-	 break;
+     ch->desc->str = &obj->description;
+     break;
       case 4:
-	 if (!*string) {
-	    send_to_char("You have to supply a keyword.\n\r", ch);
-	    return;
-	 }
-	 /* try to locate extra description */
-	 for (ed = obj->ex_description; ; ed = ed->next)
-	    if (!ed) /* the field was not found. create a new one. */ {
-	       CREATE(ed , struct extra_descr_data, 1);
-	       ed->next = obj->ex_description;
-	       obj->ex_description = ed;
-	       CREATE(ed->keyword, char, strlen(string) + 1);
-	       strcpy(ed->keyword, string);
-	       ed->description = 0;
-	       ch->desc->str = &ed->description;
-	       send_to_char("New field.\n\r", ch);
-	       break;
-	    }
-	    else if (!str_cmp(ed->keyword, string)) /* the field exists */ {
-	       FREE(ed->description);
-	       ed->description = 0;
-	       ch->desc->str = &ed->description;
-	       send_to_char("Modifying description.\n\r", ch);
-	       break;
-	    }
-	 ch->desc->max_str = MAX_STRING_LENGTH;
-	 return; /* the stndrd (see below) procedure does not apply here */
-	 break;
+     if (!*string) {
+        send_to_char("You have to supply a keyword.\n\r", ch);
+        return;
+     }
+     /* try to locate extra description */
+     for (ed = obj->ex_description; ; ed = ed->next)
+        if (!ed) /* the field was not found. create a new one. */ {
+           CREATE(ed , struct extra_descr_data, 1);
+           ed->next = obj->ex_description;
+           obj->ex_description = ed;
+           CREATE(ed->keyword, char, strlen(string) + 1);
+           strcpy(ed->keyword, string);
+           ed->description = 0;
+           ch->desc->str = &ed->description;
+           send_to_char("New field.\n\r", ch);
+           break;
+        }
+        else if (!str_cmp(ed->keyword, string)) /* the field exists */ {
+           FREE(ed->description);
+           ed->description = 0;
+           ch->desc->str = &ed->description;
+           send_to_char("Modifying description.\n\r", ch);
+           break;
+        }
+     ch->desc->max_str = MAX_STRING_LENGTH;
+     return; /* the stndrd (see below) procedure does not apply here */
+     break;
       case 6: /* delete-description */
-	 if (!*string) {
-	    send_to_char("You must supply a field name.\n\r", ch);
-	    return;
-	 }
-	 /* try to locate field */
-	    ed = obj->ex_description;
-	    if (!find_exdesc(string, ed)) {
-	       send_to_char("No field with that keyword.\n\r", ch);
-	       return;
-	    }
-	    else if (isname_with_abbrevs(string, ed->keyword)) {
-	       FREE(ed->keyword);
-	       if (ed->description)
-		  FREE(ed->description);
+     if (!*string) {
+        send_to_char("You must supply a field name.\n\r", ch);
+        return;
+     }
+     /* try to locate field */
+        ed = obj->ex_description;
+        if (!find_exdesc(string, ed)) {
+           send_to_char("No field with that keyword.\n\r", ch);
+           return;
+        }
+        else if (isname_with_abbrevs(string, ed->keyword)) {
+           FREE(ed->keyword);
+           if (ed->description)
+          FREE(ed->description);
 
-	       /* delete the entry in the desr list */
-	       if (ed == obj->ex_description)
-		  obj->ex_description = ed->next;
-	       else {
-		  for (tmp = obj->ex_description; tmp->next != ed;
-		      tmp = tmp->next)
-		     ;
-		  tmp->next = ed->next;
-	       }
-	       FREE(ed);
+           /* delete the entry in the desr list */
+           if (ed == obj->ex_description)
+          obj->ex_description = ed->next;
+           else {
+          for (tmp = obj->ex_description; tmp->next != ed;
+              tmp = tmp->next)
+             ;
+          tmp->next = ed->next;
+           }
+           FREE(ed);
 
-	       send_to_char("Field deleted.\n\r", ch);
-	       return;
-	    }
-	 break;
+           send_to_char("Field deleted.\n\r", ch);
+           return;
+        }
+     break;
       default:
-	 send_to_char(
-	     "That field is undefined for objects.\n\r", ch);
-	 return;
-	 break;
+     send_to_char(
+         "That field is undefined for objects.\n\r", ch);
+     return;
+     break;
       }
    }
 /*
@@ -755,15 +755,15 @@ ACMD(do_string)
 
    if (*string)   /* there was a string in the argument array */ {
       if (strlen(string) > length[field - 1]) {
-	 send_to_char("String too long - truncated.\n\r", ch);
-	 *(string + length[field - 1]) = '\0';
+     send_to_char("String too long - truncated.\n\r", ch);
+     *(string + length[field - 1]) = '\0';
       }
       CREATE(*ch->desc->str, char, strlen(string) + 1);
       strcpy(*ch->desc->str, string);
 /*      strcpy(*ch->desc->str + strlen(string), "\r\n"); */
       ch->desc->str = 0;
       send_to_char("Ok.\n\r", ch);
-   } else /* there was no string. enter string mode */	 {
+   } else /* there was no string. enter string mode */   {
       send_to_char("Enter string. terminate with '@'.\n\r", ch);
       *ch->desc->str = 0;
       ch->desc->max_str = length[field - 1];

@@ -40,12 +40,12 @@
 #define KNUL  ""
 
 /* conditional color.  pass it a pointer to a char_data and a color level. */
-#define C_OFF	0
-#define C_SPR	1
-#define C_NRM	2
-#define C_CMP	3
+#define C_OFF   0
+#define C_SPR   1
+#define C_NRM   2
+#define C_CMP   3
 #define _clrlevel(ch) ((PRF_FLAGGED((ch), PRF_COLOR_1) ? 1 : 0) + \
-		       (PRF_FLAGGED((ch), PRF_COLOR_2) ? 2 : 0))
+               (PRF_FLAGGED((ch), PRF_COLOR_2) ? 2 : 0))
 #define clr(ch,lvl) (_clrlevel(ch) >= (lvl))
 #define CCNRM(ch,lvl)  (clr((ch),(lvl))?KNRM:KNUL)
 #define CCRED(ch,lvl)  (clr((ch),(lvl))?KRED:KNUL)

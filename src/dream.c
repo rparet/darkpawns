@@ -73,24 +73,24 @@ void dream(struct char_data *ch) {
        return;
      } else if (diff < (2 * 24 * 60 * 60)) {  /* two real days */
        if (!number(0,5)) {
-	 send_to_char("In your dreams you keep seeing a dark figure hunched "
-		      "over your corpse.\r\n", ch);
-	 act("$n shivers in $s sleep.", FALSE, ch, 0, 0, TO_ROOM);
+     send_to_char("In your dreams you keep seeing a dark figure hunched "
+              "over your corpse.\r\n", ch);
+     act("$n shivers in $s sleep.", FALSE, ch, 0, 0, TO_ROOM);
        }
        return;
      } else if (diff < (3 * 24 * 60 * 60)) { /* three real days */
        if (!number(0,5)) {
-	 send_to_char("You toss and turn as a dark cloud hovers over your "
-		      "dreams.\r\n", ch);
-	 act("$n tosses and turns in $s sleep, must be a bad dream.",
-	     FALSE, ch, 0, 0, TO_ROOM);
+     send_to_char("You toss and turn as a dark cloud hovers over your "
+              "dreams.\r\n", ch);
+     act("$n tosses and turns in $s sleep, must be a bad dream.",
+         FALSE, ch, 0, 0, TO_ROOM);
        }
        return;
      } else if (diff < (5 * 24 * 60 *60)) { /* five real days */
        if (!number(0,5)) {
-	 send_to_char("You sleep uneasily, as if something looms over your "
-		       "past\r\n", ch);
-	 act("$n grunts in $s sleep.", FALSE, ch, 0, 0, TO_ROOM);
+     send_to_char("You sleep uneasily, as if something looms over your "
+               "past\r\n", ch);
+     act("$n grunts in $s sleep.", FALSE, ch, 0, 0, TO_ROOM);
        }
        return;
      } else {
@@ -125,7 +125,7 @@ void dream(struct char_data *ch) {
       send_to_char("You have a pleasant dream of safe travels to far places "
                    "and a hero's welcome when you return.\r\n", ch);
       act("$n begins to hum a happy ditty in $s sleep.", FALSE, ch, 0, 0,
-	  TO_ROOM);
+      TO_ROOM);
     }
     break;
   }
@@ -166,7 +166,7 @@ void dream(struct char_data *ch) {
   case LVL_IMMORT: {
     if (!number(0,15)) {
       send_to_char("You have big, grand dreams of the power of the Gods.\r\n",
-		   ch);
+           ch);
       act("$n glows in $s sleep.", FALSE, ch, 0, 0, TO_ROOM);
     }
     break;
@@ -175,7 +175,7 @@ void dream(struct char_data *ch) {
   default: {
     if (!number(0,15)) {
       send_to_char("You toss and turn under the constant fear of the wrath "
-		   "of Orodreth :-)\r\n", ch);
+           "of Orodreth :-)\r\n", ch);
       send_to_char("You find yourself wide awake!\r\n", ch);
       act("$n awakens with fear in $s eyes.", FALSE, ch, 0, 0, TO_ROOM);
       do_wake(ch, "", 0, 0);

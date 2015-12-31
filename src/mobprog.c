@@ -81,13 +81,13 @@ mp_greet(struct char_data *who, int room)
         do_action(tch, GET_NAME(who), cmd_growl, 0);
     } else if (is_shopkeeper(tch) && IS_DOG(who)) {
       act("$n mutters something about filthy animals in $s shop...",
-		TRUE, tch, 0, 0, TO_ROOM);
+        TRUE, tch, 0, 0, TO_ROOM);
       hit(tch, who, TYPE_UNDEFINED);
     }
     else if (GET_MOB_VNUM(tch)==19406)
      if (!who->master || who->master==who)/*leader or soloers*/
-	act("$n says, 'Have a seat there! Stay a while, rest your bones "
-		"and warm your feet by the fire!'", TRUE, tch, 0, 0, TO_ROOM);
+    act("$n says, 'Have a seat there! Stay a while, rest your bones "
+        "and warm your feet by the fire!'", TRUE, tch, 0, 0, TO_ROOM);
   }
 }
 
@@ -117,12 +117,12 @@ mp_give(struct char_data *ch, struct char_data *mob, struct obj_data *obj)
 
   if (IS_DOG(mob) && (GET_OBJ_TYPE(obj) == ITEM_FOOD)) {
     act("$n devours $p and wags $s tail happily.",
-		TRUE, mob, obj, 0, TO_ROOM);
+        TRUE, mob, obj, 0, TO_ROOM);
     obj_from_char(obj);
     extract_obj(obj);
   } else if (IS_DOG(mob)) {
     act("$n sniffs around and plays with $p for a while.",
-		TRUE, mob, obj, 0, TO_ROOM);
+        TRUE, mob, obj, 0, TO_ROOM);
     obj_from_char(obj);
     obj_to_room(obj, mob->in_room);
     act("$n quickly loses interest.", TRUE, mob, 0, 0, TO_ROOM);
@@ -130,42 +130,42 @@ mp_give(struct char_data *ch, struct char_data *mob, struct obj_data *obj)
 
   if (IS_DEMON(mob)) /* soul eater */
   {
-	if (GET_OBJ_VNUM(obj)!=9900)/* soul */
-	{
-	  act("$n peers at $p closely, then hands it back.",
-		TRUE, mob, obj, 0, TO_ROOM);
-	  act("$n growls, 'Are you mocking me?'",
-		TRUE, mob, 0, 0, TO_ROOM);
-	  obj_from_char(obj);
-	  obj_to_char(obj, ch);
-	}
-	else
-	{
+    if (GET_OBJ_VNUM(obj)!=9900)/* soul */
+    {
+      act("$n peers at $p closely, then hands it back.",
+        TRUE, mob, obj, 0, TO_ROOM);
+      act("$n growls, 'Are you mocking me?'",
+        TRUE, mob, 0, 0, TO_ROOM);
+      obj_from_char(obj);
+      obj_to_char(obj, ch);
+    }
+    else
+    {
           struct obj_data *portal = read_object(19611, VIRTUAL);
-	  act("$n peers at the soul, then licks $s lips.",
-		TRUE, mob, 0, 0, TO_ROOM);
-	  act("$n says, 'This will do nicely.. you may enter!'",
-		TRUE, mob, 0, 0, TO_ROOM);
-	  act("$n pops the soul into his mouth and swallows it, as a "
-		"hideous\r\n screaming rings in your ears...",
-		TRUE, mob, 0, 0, TO_ROOM);
-	  obj_from_char(obj);
-	  extract_obj(obj);
+      act("$n peers at the soul, then licks $s lips.",
+        TRUE, mob, 0, 0, TO_ROOM);
+      act("$n says, 'This will do nicely.. you may enter!'",
+        TRUE, mob, 0, 0, TO_ROOM);
+      act("$n pops the soul into his mouth and swallows it, as a "
+        "hideous\r\n screaming rings in your ears...",
+        TRUE, mob, 0, 0, TO_ROOM);
+      obj_from_char(obj);
+      extract_obj(obj);
 
           act("$n parts his gnarled hands and a shimmering black portal "
                "materializes before you!", TRUE, mob, 0, 0, TO_ROOM);
           GET_OBJ_VAL(portal, 2) = 2;
           obj_to_room(portal, ch->in_room);
           do_say(mob, "Enter the portal quickly! It will not last long!", 0, 0);
-	}
+    }
   }
   if (IS_JANITOR(mob)) {
     if (is_junk(obj))
       act("$n says, 'Thanks for helping clean this place up...'",
-		TRUE, mob, 0, 0, TO_ROOM);
+        TRUE, mob, 0, 0, TO_ROOM);
     else
       act("$n says, 'Wow, this is pretty neat, thanks.'",
-		TRUE, mob, 0, 0, TO_ROOM);
+        TRUE, mob, 0, 0, TO_ROOM);
   }
 }
 
@@ -178,7 +178,7 @@ mp_bribe(struct char_data *ch, struct char_data *mob, int amount)
 
   if (IS_DOG(mob)) {
     act("$n sniffs the coins and proceeds to eat them.",
-		TRUE, mob, 0, 0, TO_ROOM);
+        TRUE, mob, 0, 0, TO_ROOM);
     GET_GOLD(mob) -= amount;
   } else if (IS_JANITOR(mob)) {
     act("$n tips his hat and smiles a thank you.", TRUE, mob, 0, 0, TO_ROOM);
@@ -187,7 +187,7 @@ mp_bribe(struct char_data *ch, struct char_data *mob, int amount)
       SET_BIT_AR(AFF_FLAGS(mob), AFF_CHARM);
       GET_GOLD(mob) -= amount;
       stc("The mercenary counts the coins then secrets them "
-		"away.\r\n", ch);
+        "away.\r\n", ch);
       stc("The mercenary swears his allegiance to you.\r\n", ch);
       add_follower(mob, ch);
       act("$n hires the mercenary.", FALSE, ch, 0, mob, TO_ROOM);
@@ -196,23 +196,23 @@ mp_bribe(struct char_data *ch, struct char_data *mob, int amount)
     }
   } else if (GET_MOB_VNUM(mob)==8088) {
     if (amount < GET_LEVEL(ch)*GET_LEVEL(ch)) {
-	act("$n says, 'Are you trying to bribe me?  That's against"
-	    " the law you\r\nknow...'\r\n", TRUE, mob, 0, 0, TO_ROOM);
+    act("$n says, 'Are you trying to bribe me?  That's against"
+        " the law you\r\nknow...'\r\n", TRUE, mob, 0, 0, TO_ROOM);
         act("$n says, 'And not quite enough cash, either.'\r\n",
-	    TRUE, mob, 0, 0, TO_ROOM);
+        TRUE, mob, 0, 0, TO_ROOM);
         act("$n grins evilly.", TRUE, mob, 0, 0, TO_ROOM);
         GET_GOLD(mob) -= amount;
-	GET_GOLD(ch) += amount;
+    GET_GOLD(ch) += amount;
     }
     else {
-	act("$n says, 'Thank you very much, monsieur.'\r\n",
-	    TRUE, mob, 0, 0, TO_ROOM);
+    act("$n says, 'Thank you very much, monsieur.'\r\n",
+        TRUE, mob, 0, 0, TO_ROOM);
         act("$n says, 'Now get outta here!'\r\n", TRUE, mob, 0, 0, TO_ROOM);
         act("$N throws you out of the cell!", TRUE, ch, 0, mob, TO_CHAR);
         act("$n throws $N out of the cell!", TRUE, mob, 0, ch, TO_NOTVICT);
         GET_GOLD(mob) -= amount;
-	char_from_room(ch);
-	char_to_room(ch, real_room(8117));
+    char_from_room(ch);
+    char_to_room(ch, real_room(8117));
         if (get_mount(ch)) {
            char_from_room(get_mount(ch));
            char_to_room(get_mount(ch), real_room(8117));
@@ -221,32 +221,32 @@ mp_bribe(struct char_data *ch, struct char_data *mob, int amount)
   } else if (is_cityguard(mob)) {
     if ((!(number(0, 2)) || (amount < 200))) {
       act("$n says, 'Are you trying to bribe me?  That's against the law "
-			"you know...'", TRUE, mob, 0, 0, TO_ROOM);
+            "you know...'", TRUE, mob, 0, 0, TO_ROOM);
       hit(mob, ch, TYPE_UNDEFINED);
     } else {
       act("$n glances around warily and says, 'I am off duty now...'",
-		TRUE, mob, 0, 0, TO_ROOM);
+        TRUE, mob, 0, 0, TO_ROOM);
       act("$n lays down and falls asleep on the job!",
-		TRUE, mob, 0, 0, TO_ROOM);
+        TRUE, mob, 0, 0, TO_ROOM);
       GET_POS(mob) = POS_SLEEPING;
       GET_GOLD(mob) -= amount;
     }
   } else if (is_citizen(mob)) {
     act("$n says, 'Thanks for the investment, I appreciate it.'",
-		TRUE, mob, 0, 0, TO_ROOM);
+        TRUE, mob, 0, 0, TO_ROOM);
     do_action(mob, GET_NAME(ch), cmd_bow, 0);
   } else if(IS_WHORE(mob)) {
-	if (amount >=5) {
-	  act ("$n pulls $N into the shadows for a few minutes... you decide"
-		" not to watch.", TRUE, mob, 0, ch, TO_NOTVICT);
-	  act ("$n pulls you into the shadows, and gives you a lot more than"
-		" you\r\nexpected for your money.", TRUE, mob, 0, ch, TO_VICT);
-	  stc ("A few coins lighter and quite a bit happier, you continue"
-		" on your way.\r\n", ch);
-	}
-	else
-	  act("$n says, 'Thanks hon, but I ain't THAT cheap.'",
-		TRUE, mob, 0, 0, TO_ROOM);
+    if (amount >=5) {
+      act ("$n pulls $N into the shadows for a few minutes... you decide"
+        " not to watch.", TRUE, mob, 0, ch, TO_NOTVICT);
+      act ("$n pulls you into the shadows, and gives you a lot more than"
+        " you\r\nexpected for your money.", TRUE, mob, 0, ch, TO_VICT);
+      stc ("A few coins lighter and quite a bit happier, you continue"
+        " on your way.\r\n", ch);
+    }
+    else
+      act("$n says, 'Thanks hon, but I ain't THAT cheap.'",
+        TRUE, mob, 0, 0, TO_ROOM);
   } else if (GET_MOB_VNUM(mob)==13108) {
     if (amount >= 1000)
     {
@@ -260,10 +260,10 @@ mp_bribe(struct char_data *ch, struct char_data *mob, int amount)
         char_to_room(get_mount(ch), real_room(13154));
       }
       stc("  You follow the gremlin through a series of tunnels,"
-	  " full of twists, turns,\r\nand circles. Slowly you become aware"
-  	  " of a tiny crack of light coming through\r\nthe top of the cavern."
-	  " Suddenly the gremlin turns around and hurries away\r\nbefore"
-	  " you can even turn around.\r\n\r\n", ch);
+      " full of twists, turns,\r\nand circles. Slowly you become aware"
+      " of a tiny crack of light coming through\r\nthe top of the cavern."
+      " Suddenly the gremlin turns around and hurries away\r\nbefore"
+      " you can even turn around.\r\n\r\n", ch);
     }
     else
     {
@@ -289,7 +289,7 @@ entry_prog(struct char_data *mob, int room)
   int is_cityguard(struct char_data * chChar);
 
   if (room == NOWHERE)
-	return;
+    return;
   /* the captain of the guard */
   if (GET_MOB_VNUM(mob) == 8059)
   {
@@ -304,25 +304,25 @@ entry_prog(struct char_data *mob, int room)
         {
           act("$n barks 'On your feet, slacker!'", TRUE, mob, 0, 0, TO_ROOM);
           act("$n wakes up and quickly snaps to attention!",
-		TRUE, tch, 0, 0, TO_ROOM);
+        TRUE, tch, 0, 0, TO_ROOM);
           act("$n growls, 'Report to my office at 0500 tomorrow morning.'",
-		TRUE, mob, 0, 0, TO_ROOM);
+        TRUE, mob, 0, 0, TO_ROOM);
           GET_POS(tch) = POS_STANDING;
-	  break;
+      break;
         }
         else
         {
           act("$n snaps to attention and salutes!", TRUE, tch, 0, 0, TO_ROOM);
           act("$n growls, 'At ease, soldier.'", TRUE, mob, 0, 0, TO_ROOM);
-	  break;
+      break;
         }
       }
       else if (is_citizen(tch))
       {
           act("$n frowns at $N.", TRUE, mob, 0, tch, TO_ROOM);
           act("$n says, 'Hail unto the True One, Captain.'",
-		TRUE, tch, 0, 0, TO_ROOM);
-	  break;
+        TRUE, tch, 0, 0, TO_ROOM);
+      break;
       }
     }
   }
@@ -391,13 +391,13 @@ get_bad_guy(struct char_data * chAtChar)
   for (ch = world[chAtChar->in_room].people; ch; ch = ch->next_in_room)
     if (
          FIGHTING(ch) &&
-	 (is_citizen(FIGHTING(ch)) || is_cityguard(FIGHTING(ch))) )
+     (is_citizen(FIGHTING(ch)) || is_cityguard(FIGHTING(ch))) )
       iNum_bad_guys++;
 
   if (!iNum_bad_guys)
     return NULL;
 
-  iVictim = number(0, iNum_bad_guys);	/* How nice, we give them a chance */
+  iVictim = number(0, iNum_bad_guys);   /* How nice, we give them a chance */
   if (!iVictim)
     return NULL;
 
@@ -405,8 +405,8 @@ get_bad_guy(struct char_data * chAtChar)
 
   for (ch = world[chAtChar->in_room].people; ch; ch = ch->next_in_room)
     if (FIGHTING(ch) &&
-	(is_citizen(FIGHTING(ch)) || is_cityguard(FIGHTING(ch))) &&
-	++iNum_bad_guys == iVictim)
+    (is_citizen(FIGHTING(ch)) || is_cityguard(FIGHTING(ch))) &&
+    ++iNum_bad_guys == iVictim)
       return ch;
 
   return NULL;
@@ -423,7 +423,7 @@ kill_bad_guy(struct char_data * ch)
 
   if ((chOpponent = get_bad_guy(ch))) {
     act("$n roars: 'Protect the innocent!  BANZAIIII!  CHARGE!'",
-	FALSE, ch, 0, 0, TO_ROOM);
+    FALSE, ch, 0, 0, TO_ROOM);
     hit(ch, chOpponent, TYPE_UNDEFINED);
     return TRUE;
   }
@@ -441,10 +441,10 @@ npc_rescue(struct char_data * ch_hero, struct char_data * ch_victim)
        ch_bad_guy = ch_bad_guy->next_in_room);
   if (ch_bad_guy) {
     if (ch_bad_guy == ch_hero)
-      return FALSE;		/* NO WAY I'll rescue the one I'm fighting! */
+      return FALSE;     /* NO WAY I'll rescue the one I'm fighting! */
     act("You bravely rescue $N.\r\n", FALSE, ch_hero, 0, ch_victim, TO_CHAR);
     act("You are rescued by $N, your loyal friend!\r\n",
-	FALSE, ch_victim, 0, ch_hero, TO_CHAR);
+    FALSE, ch_victim, 0, ch_hero, TO_CHAR);
     act("$n heroically rescues $N.", FALSE, ch_hero, 0, ch_victim, TO_NOTVICT);
 
     if (FIGHTING(ch_bad_guy))
@@ -494,15 +494,15 @@ is_shopkeeper(struct char_data * chChar)
 
   ch_num = GET_MOB_VNUM(chChar);
   switch (ch_num) {
-	case 8003:
-	case 8004:
-	case 8005:
-	case 8006:
-	case 8007:
-	case 8008:
-	case 8009:
-	case 8010:
-	case 8011:
+    case 8003:
+    case 8004:
+    case 8005:
+    case 8006:
+    case 8007:
+    case 8008:
+    case 8009:
+    case 8010:
+    case 8011:
         case 8078:
       return (TRUE);
       break;
@@ -524,72 +524,72 @@ mp_sound(struct char_data *mob)
    switch(GET_MOB_VNUM(mob))
    {
    case 8066: /*Petitioner*/
-	if (number(0,1))
-	   strcpy(sound, "Sign this, please! There's too much violence!");
-	else
-	   strcpy(sound, "You look like a kind person.. sign this petition?");
-	type = MP_SPEAK;
-	break;
+    if (number(0,1))
+       strcpy(sound, "Sign this, please! There's too much violence!");
+    else
+       strcpy(sound, "You look like a kind person.. sign this petition?");
+    type = MP_SPEAK;
+    break;
    case 8067: /*carpenter*/
-	if (number(0,1))
-	   strcpy(sound, "adjusts his tool belt.");
-	else
-	   strcpy(sound, "wipes the sweat of labor from his brow.");
-	type = MP_EMOTE;
-	break;
+    if (number(0,1))
+       strcpy(sound, "adjusts his tool belt.");
+    else
+       strcpy(sound, "wipes the sweat of labor from his brow.");
+    type = MP_EMOTE;
+    break;
    case 8068: /*town crier*/
-	if (number(0,1))
-	   strcpy(sound, "Arch Bishop Dinive to arrive on the Day of Winter "
-			"Dawning!");
-	else
-	   strcpy(sound, "By mandate of the church, no violence in town! The "
-			"penalty is jail time!");
-	type = MP_SPEAK;
-	break;
+    if (number(0,1))
+       strcpy(sound, "Arch Bishop Dinive to arrive on the Day of Winter "
+            "Dawning!");
+    else
+       strcpy(sound, "By mandate of the church, no violence in town! The "
+            "penalty is jail time!");
+    type = MP_SPEAK;
+    break;
    case 8069: /*zealot*/
-	strcpy(sound, "Repent sinners! The end time is near!");
-	type = MP_SPEAK;
-	break;
+    strcpy(sound, "Repent sinners! The end time is near!");
+    type = MP_SPEAK;
+    break;
    case 8071: /*beggar */
-	if (number(0,1))
+    if (number(0,1))
         {
-	   strcpy(sound, "Spare a coin, buddy?");
-	   type = MP_SPEAK;
-	}
-	else
+       strcpy(sound, "Spare a coin, buddy?");
+       type = MP_SPEAK;
+    }
+    else
         {
-	   strcpy(sound, "jingles his cup.");
-	   type = MP_EMOTE;
-	}
-	break;
+       strcpy(sound, "jingles his cup.");
+       type = MP_EMOTE;
+    }
+    break;
    case 8072: /* singling drunk */
-	strcpy(sound, "sings an old war ditty... badly off-key.");
-	type = MP_EMOTE;
-	break;
+    strcpy(sound, "sings an old war ditty... badly off-key.");
+    type = MP_EMOTE;
+    break;
    case 8074: /* minstrel */
-	if (number(0,1))
-	   strcpy(sound, "plays a lilting tune about your mother's beauty.");
-	else
-	   strcpy(sound, "sings a melody about your conquests in battle.");
-	type = MP_EMOTE;
-	break;
+    if (number(0,1))
+       strcpy(sound, "plays a lilting tune about your mother's beauty.");
+    else
+       strcpy(sound, "sings a melody about your conquests in battle.");
+    type = MP_EMOTE;
+    break;
    case 8079: /*mime*/
-	strcpy(sound, "tries to escape from an invisible box only he can see.");
-	type = MP_EMOTE;
-	break;
+    strcpy(sound, "tries to escape from an invisible box only he can see.");
+    type = MP_EMOTE;
+    break;
    case 14202: /*Bhang*/
-	strcpy(sound, "tokes up on some kind bud.");
-	type = MP_EMOTE;
-	break;
+    strcpy(sound, "tokes up on some kind bud.");
+    type = MP_EMOTE;
+    break;
    case 8059: /*Aversin*/
-	do_echo(mob, "looks at you.", find_command("emote"), SCMD_EMOTE);
-	strcpy(sound, "Carry on, citizen.");
-	type = MP_SPEAK;
-	break;
+    do_echo(mob, "looks at you.", find_command("emote"), SCMD_EMOTE);
+    strcpy(sound, "Carry on, citizen.");
+    type = MP_SPEAK;
+    break;
    case 8023: /*elven prostitute*/
-	strcpy(sound, "jiggles in your direction.");
-	type = MP_EMOTE;
-	break;
+    strcpy(sound, "jiggles in your direction.");
+    type = MP_EMOTE;
+    break;
    case 16300: /* KD recruiter */
         if (number(0, 1))
         {
@@ -605,9 +605,9 @@ mp_sound(struct char_data *mob)
    default: break;
    }
    if (type == MP_SPEAK)
-	do_say(mob, sound, 0, 0);
+    do_say(mob, sound, 0, 0);
    if (type == MP_EMOTE)
-	do_echo(mob, sound, find_command("emote"), SCMD_EMOTE);
+    do_echo(mob, sound, find_command("emote"), SCMD_EMOTE);
 
   if (IS_DEMON(mob))
   {
@@ -631,9 +631,9 @@ mp_sound(struct char_data *mob)
   {
      if (!number(0,25))
      {
-     	  struct obj_data *tobj = NULL;
-	  do_echo(mob, "relieves itself, nearly hitting your foot.",
-		find_command("emote"), SCMD_EMOTE);
+          struct obj_data *tobj = NULL;
+      do_echo(mob, "relieves itself, nearly hitting your foot.",
+        find_command("emote"), SCMD_EMOTE);
           if (!(tobj = read_object(20, VIRTUAL)))
            {
                 log("SYSERR: creating puddle: obj not found");

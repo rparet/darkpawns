@@ -112,8 +112,8 @@ static int setlocal (lua_State *L) {
 
 /* dummy variables (to define unique addresses) */
 static char key1, key2;
-#define KEY_CALLHOOK	(&key1)
-#define KEY_LINEHOOK	(&key2)
+#define KEY_CALLHOOK    (&key1)
+#define KEY_LINEHOOK    (&key2)
 
 
 static void hookf (lua_State *L, void *key) {

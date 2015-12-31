@@ -18,43 +18,43 @@
 
 /* mark for all API functions */
 #ifndef LUA_API
-#define LUA_API		extern
+#define LUA_API     extern
 #endif
 
 
-#define LUA_VERSION	"Lua 4.0.1"
-#define LUA_COPYRIGHT	"Copyright (C) 1994-2000 TeCGraf, PUC-Rio"
-#define LUA_AUTHORS 	"W. Celes, R. Ierusalimschy & L. H. de Figueiredo"
+#define LUA_VERSION "Lua 4.0.1"
+#define LUA_COPYRIGHT   "Copyright (C) 1994-2000 TeCGraf, PUC-Rio"
+#define LUA_AUTHORS     "W. Celes, R. Ierusalimschy & L. H. de Figueiredo"
 
 
 /* name of global variable with error handler */
-#define LUA_ERRORMESSAGE	"_ERRORMESSAGE"
+#define LUA_ERRORMESSAGE    "_ERRORMESSAGE"
 
 
 /* pre-defined references */
-#define LUA_NOREF	(-2)
-#define LUA_REFNIL	(-1)
-#define LUA_REFREGISTRY	0
+#define LUA_NOREF   (-2)
+#define LUA_REFNIL  (-1)
+#define LUA_REFREGISTRY 0
 
 /* pre-defined tags */
-#define LUA_ANYTAG	(-1)
-#define LUA_NOTAG	(-2)
+#define LUA_ANYTAG  (-1)
+#define LUA_NOTAG   (-2)
 
 
 /* option for multiple returns in lua_call */
-#define LUA_MULTRET	(-1)
+#define LUA_MULTRET (-1)
 
 
 /* minimum stack available for a C function */
-#define LUA_MINSTACK	20
+#define LUA_MINSTACK    20
 
 
 /* error codes for lua_do* */
-#define LUA_ERRRUN	1
-#define LUA_ERRFILE	2
-#define LUA_ERRSYNTAX	3
-#define LUA_ERRMEM	4
-#define LUA_ERRERR	5
+#define LUA_ERRRUN  1
+#define LUA_ERRFILE 2
+#define LUA_ERRSYNTAX   3
+#define LUA_ERRMEM  4
+#define LUA_ERRERR  5
 
 
 typedef struct lua_State lua_State;
@@ -64,14 +64,14 @@ typedef int (*lua_CFunction) (lua_State *L);
 /*
 ** types returned by `lua_type'
 */
-#define LUA_TNONE	(-1)
+#define LUA_TNONE   (-1)
 
-#define LUA_TUSERDATA	0
-#define LUA_TNIL	1
-#define LUA_TNUMBER	2
-#define LUA_TSTRING	3
-#define LUA_TTABLE	4
-#define LUA_TFUNCTION	5
+#define LUA_TUSERDATA   0
+#define LUA_TNIL    1
+#define LUA_TNUMBER 2
+#define LUA_TSTRING 3
+#define LUA_TTABLE  4
+#define LUA_TFUNCTION   5
 
 
 
@@ -111,7 +111,7 @@ LUA_API double         lua_tonumber (lua_State *L, int index);
 LUA_API const char    *lua_tostring (lua_State *L, int index);
 LUA_API size_t         lua_strlen (lua_State *L, int index);
 LUA_API lua_CFunction  lua_tocfunction (lua_State *L, int index);
-LUA_API void	      *lua_touserdata (lua_State *L, int index);
+LUA_API void          *lua_touserdata (lua_State *L, int index);
 LUA_API const void    *lua_topointer (lua_State *L, int index);
 
 
@@ -192,20 +192,20 @@ LUA_API void *lua_newuserdata (lua_State *L, size_t size);
 ** ===============================================================
 */
 
-#define lua_pop(L,n)		lua_settop(L, -(n)-1)
+#define lua_pop(L,n)        lua_settop(L, -(n)-1)
 
-#define lua_register(L,n,f)	(lua_pushcfunction(L, f), lua_setglobal(L, n))
-#define lua_pushuserdata(L,u)	lua_pushusertag(L, u, 0)
-#define lua_pushcfunction(L,f)	lua_pushcclosure(L, f, 0)
-#define lua_clonetag(L,t)	lua_copytagmethods(L, lua_newtag(L), (t))
+#define lua_register(L,n,f) (lua_pushcfunction(L, f), lua_setglobal(L, n))
+#define lua_pushuserdata(L,u)   lua_pushusertag(L, u, 0)
+#define lua_pushcfunction(L,f)  lua_pushcclosure(L, f, 0)
+#define lua_clonetag(L,t)   lua_copytagmethods(L, lua_newtag(L), (t))
 
-#define lua_isfunction(L,n)	(lua_type(L,n) == LUA_TFUNCTION)
-#define lua_istable(L,n)	(lua_type(L,n) == LUA_TTABLE)
-#define lua_isuserdata(L,n)	(lua_type(L,n) == LUA_TUSERDATA)
-#define lua_isnil(L,n)		(lua_type(L,n) == LUA_TNIL)
-#define lua_isnull(L,n)		(lua_type(L,n) == LUA_TNONE)
+#define lua_isfunction(L,n) (lua_type(L,n) == LUA_TFUNCTION)
+#define lua_istable(L,n)    (lua_type(L,n) == LUA_TTABLE)
+#define lua_isuserdata(L,n) (lua_type(L,n) == LUA_TUSERDATA)
+#define lua_isnil(L,n)      (lua_type(L,n) == LUA_TNIL)
+#define lua_isnull(L,n)     (lua_type(L,n) == LUA_TNONE)
 
-#define lua_getregistry(L)	lua_getref(L, LUA_REFREGISTRY)
+#define lua_getregistry(L)  lua_getref(L, LUA_REFREGISTRY)
 
 #endif
 

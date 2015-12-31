@@ -1,8 +1,8 @@
 /* ************************************************************************
-*   File: alias.c				   A utility to CircleMUD *
+*   File: alias.c                  A utility to CircleMUD *
 *  Usage: writing/reading player's aliases                                *
 *                                                                         *
-*  Code done by Jeremy Hess and Chad Thompson				  *
+*  Code done by Jeremy Hess and Chad Thompson                 *
 *                                                                         *
 *  Copyright (C) 1993, 94 by the Trustees of the Johns Hopkins University *
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *

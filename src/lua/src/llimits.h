@@ -19,11 +19,11 @@
 #ifndef BITS_INT
 /* avoid overflows in comparison */
 #if INT_MAX-20 < 32760
-#define	BITS_INT	16
+#define BITS_INT    16
 #else
 #if INT_MAX > 2147483640L
 /* machine has at least 32 bits */
-#define BITS_INT	32
+#define BITS_INT    32
 #else
 #error "you must define BITS_INT with number of bits in an integer"
 #endif
@@ -42,18 +42,18 @@
 typedef LUA_NUM_TYPE Number;
 
 /* function to convert a Number to a string */
-#define NUMBER_FMT	"%.16g"		/* LUA_NUMBER */
-#define lua_number2str(s,n)	sprintf((s), NUMBER_FMT, (n))
+#define NUMBER_FMT  "%.16g"     /* LUA_NUMBER */
+#define lua_number2str(s,n) sprintf((s), NUMBER_FMT, (n))
 
 /* function to convert a string to a Number */
-#define lua_str2number(s,p)	strtod((s), (p))
+#define lua_str2number(s,p) strtod((s), (p))
 
 
 
 typedef unsigned long lint32;  /* unsigned int with at least 32 bits */
 
 
-#define MAX_SIZET	((size_t)(~(size_t)0)-2)
+#define MAX_SIZET   ((size_t)(~(size_t)0)-2)
 
 
 #define MAX_INT (INT_MAX-2)  /* maximum value of an int (-2 for safety) */
@@ -113,7 +113,7 @@ typedef unsigned long Instruction;
 */
 #if SIZE_U < BITS_INT-1
 #define MAXARG_U        ((1<<SIZE_U)-1)
-#define MAXARG_S        (MAXARG_U>>1)		/* `S' is signed */
+#define MAXARG_S        (MAXARG_U>>1)       /* `S' is signed */
 #else
 #define MAXARG_U        MAX_INT
 #define MAXARG_S        MAX_INT
@@ -134,12 +134,12 @@ typedef unsigned long Instruction;
 
 /* maximum stack size in a function */
 #ifndef MAXSTACK
-#define MAXSTACK	250
+#define MAXSTACK    250
 #endif
 
 #if MAXSTACK > MAXARG_B
 #undef MAXSTACK
-#define MAXSTACK	MAXARG_B
+#define MAXSTACK    MAXARG_B
 #endif
 
 
@@ -149,7 +149,7 @@ typedef unsigned long Instruction;
 #endif
 #if MAXLOCALS>=MAXSTACK
 #undef MAXLOCALS
-#define MAXLOCALS	(MAXSTACK-1)
+#define MAXLOCALS   (MAXSTACK-1)
 #endif
 
 
@@ -159,7 +159,7 @@ typedef unsigned long Instruction;
 #endif
 #if MAXUPVALUES>MAXARG_B
 #undef MAXUPVALUES
-#define MAXUPVALUES	MAXARG_B
+#define MAXUPVALUES MAXARG_B
 #endif
 
 
@@ -169,7 +169,7 @@ typedef unsigned long Instruction;
 #endif
 #if MAXVARSLH>=MULT_RET
 #undef MAXVARSLH
-#define MAXVARSLH	(MULT_RET-1)
+#define MAXVARSLH   (MULT_RET-1)
 #endif
 
 
@@ -179,20 +179,20 @@ typedef unsigned long Instruction;
 #endif
 #if MAXPARAMS>=MAXLOCALS
 #undef MAXPARAMS
-#define MAXPARAMS	(MAXLOCALS-1)
+#define MAXPARAMS   (MAXLOCALS-1)
 #endif
 
 
 /* number of list items to accumulate before a SETLIST instruction */
-#define LFIELDS_PER_FLUSH	64
+#define LFIELDS_PER_FLUSH   64
 #if LFIELDS_PER_FLUSH>(MAXSTACK/4)
 #undef LFIELDS_PER_FLUSH
-#define LFIELDS_PER_FLUSH	(MAXSTACK/4)
+#define LFIELDS_PER_FLUSH   (MAXSTACK/4)
 #endif
 
 /* number of record items to accumulate before a SETMAP instruction */
 /* (each item counts 2 elements on the stack: an index and a value) */
-#define RFIELDS_PER_FLUSH	(LFIELDS_PER_FLUSH/2)
+#define RFIELDS_PER_FLUSH   (LFIELDS_PER_FLUSH/2)
 
 
 /* maximum lookback to find a real constant (for code generation) */

@@ -700,7 +700,7 @@ static const struct {
    {1, 1}, {1, 1}                   /* logical */
 };
 
-#define UNARY_PRIORITY	7  /* priority for unary operators */
+#define UNARY_PRIORITY  7  /* priority for unary operators */
 
 
 /*

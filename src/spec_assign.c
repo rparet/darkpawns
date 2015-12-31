@@ -49,7 +49,7 @@ void ASSIGNMOB(int mob, SPECIAL(fname))
     mob_index[rnum].func = fname;
   else if (!mini_mud) {
     sprintf(buf, "SYSERR: Attempt to assign spec to non-existant mob #%d",
-	    mob);
+        mob);
     log(buf);
   }
 }
@@ -60,7 +60,7 @@ void ASSIGNOBJ(int obj, SPECIAL(fname))
     obj_index[real_object(obj)].func = fname;
   else if (!mini_mud) {
     sprintf(buf, "SYSERR: Attempt to assign spec to non-existant obj #%d",
-	    obj);
+        obj);
     log(buf);
   }
 }
@@ -71,7 +71,7 @@ void ASSIGNROOM(int room, SPECIAL(fname))
     world[real_room(room)].func = fname;
   else if (!mini_mud) {
     sprintf(buf, "SYSERR: Attempt to assign spec to non-existant rm. #%d",
-	    room);
+        room);
     log(buf);
   }
 }
@@ -638,5 +638,5 @@ void assign_rooms(void)
   if (dts_are_dumps)
     for (i = 0; i < top_of_world; i++)
       if (IS_SET_AR(ROOM_FLAGS(i), ROOM_DEATH))
-	world[i].func = dump;
+    world[i].func = dump;
 }

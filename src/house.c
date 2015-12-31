@@ -95,7 +95,7 @@ int House_load(int vnum)
     {
       struct obj_data *obj = Obj_from_store(object);
       if (Crash_is_unrentable(obj))
-	extract_obj(obj);
+    extract_obj(obj);
       else
         obj_to_room(obj, rnum);
     }
@@ -125,7 +125,7 @@ int House_save(struct obj_data * obj, FILE * fp)
     {
       GET_OBJ_WEIGHT(tmp) -= GET_OBJ_WEIGHT(obj);
       if(GET_OBJ_WEIGHT(tmp)<1) /*sanity check - Serapis 970616*/
-	GET_OBJ_WEIGHT(tmp) = 1;
+    GET_OBJ_WEIGHT(tmp) = 1;
     }
   }
   return 1;
@@ -218,8 +218,8 @@ void House_listrent(struct char_data * ch, int vnum)
     }
     if (!feof(fl) && (obj = Obj_from_store(object)) != NULL) {
       sprintf(buf, "%s [%5d] (%.2fau) %s\r\n", buf,
-	      GET_OBJ_VNUM(obj), GET_OBJ_LOAD(obj),
-	      obj->short_description);
+          GET_OBJ_VNUM(obj), GET_OBJ_LOAD(obj),
+          obj->short_description);
       free_obj(obj);
     }
   }
@@ -288,22 +288,22 @@ void House_boot(void)
       break;
 
     if (get_name_by_id(temp_house.owner) == NULL)
-      continue;			/* owner no longer exists -- skip */
+      continue;         /* owner no longer exists -- skip */
 
     if ((real_house = real_room(temp_house.vnum)) < 0)
-      continue;			/* this vnum doesn't exist -- skip */
+      continue;         /* this vnum doesn't exist -- skip */
 
     if ((find_house(temp_house.vnum)) >= 0)
-      continue;			/* this vnum is already a house -- skip */
+      continue;         /* this vnum is already a house -- skip */
 
     if ((real_atrium = real_room(temp_house.atrium)) < 0)
-      continue;			/* house doesn't have an atrium -- skip */
+      continue;         /* house doesn't have an atrium -- skip */
 
     if (temp_house.exit_num < 0 || temp_house.exit_num >= NUM_OF_DIRS)
-      continue;			/* invalid exit num -- skip */
+      continue;         /* invalid exit num -- skip */
 
     if (TOROOM(real_house, temp_house.exit_num) != real_atrium)
-      continue;			/* exit num mismatch -- skip */
+      continue;         /* exit num mismatch -- skip */
 
     house_control[num_of_houses++] = temp_house;
 
@@ -365,15 +365,15 @@ void hcontrol_list_houses(struct char_data * ch)
     strcpy(own_name, NAME(house_control[i].owner));
 
     sprintf(buf, "%s%7d %7d  %-10s    %2d    %-12s %-10s %d\r\n", buf,
-	    house_control[i].vnum, house_control[i].atrium, built_on,
-	    house_control[i].num_of_guests, CAP(own_name), last_pay,
+        house_control[i].vnum, house_control[i].atrium, built_on,
+        house_control[i].num_of_guests, CAP(own_name), last_pay,
             house_control[i].key);
 
     if (house_control[i].num_of_guests) {
       strcat(buf, "     Guests: ");
       for (j = 0; j < house_control[i].num_of_guests; j++) {
-	sprintf(buf2, "%s ", NAME(house_control[i].guests[j]));
-	strcat(buf, CAP(buf2));
+    sprintf(buf2, "%s ", NAME(house_control[i].guests[j]));
+    strcat(buf, CAP(buf2));
       }
       strcat(buf, "\r\n");
     }
@@ -424,7 +424,7 @@ void hcontrol_build_house(struct char_data * ch, char *arg)
   }
   if (TOROOM(real_house, exit_num) == NOWHERE) {
     sprintf(buf, "There is no exit %s from room %d.\r\n", dirs[exit_num],
-	    virt_house);
+        virt_house);
     send_to_char(buf, ch);
     return;
   }
@@ -716,7 +716,7 @@ void House_save_all(void)
   for (i = 0; i < num_of_houses; i++)
     if ((real_house = real_room(house_control[i].vnum)) != NOWHERE)
       if (IS_SET_AR(ROOM_FLAGS(real_house), ROOM_HOUSE_CRASH))
-	House_crashsave(house_control[i].vnum);
+    House_crashsave(house_control[i].vnum);
 */
 }
 
@@ -735,7 +735,7 @@ int House_can_enter(struct char_data * ch, int house)
       return 1;
     for (j = 0; j < house_control[i].num_of_guests; j++)
       if (GET_IDNUM(ch) == house_control[i].guests[j])
-	return 1;
+    return 1;
     return 0;
     break;
   }

@@ -27,7 +27,7 @@
 #include "ltable.h"
 
 
-#define gcsize(L, n)	(sizeof(Hash)+(n)*sizeof(Node))
+#define gcsize(L, n)    (sizeof(Hash)+(n)*sizeof(Node))
 
 
 

@@ -96,11 +96,11 @@ sort_spells(void)
   for (a = 1; a < MAX_SKILLS - 1; a++)
     for (b = a + 1; b < MAX_SKILLS; b++)
       if (strcmp(spells[spell_sort_info[a]], spells[spell_sort_info[b]]) > 0)
-	{
-	  tmp = spell_sort_info[a];
-	  spell_sort_info[a] = spell_sort_info[b];
-	  spell_sort_info[b] = tmp;
-	}
+    {
+      tmp = spell_sort_info[a];
+      spell_sort_info[a] = spell_sort_info[b];
+      spell_sort_info[b] = tmp;
+    }
 }
 
 
@@ -139,10 +139,10 @@ char *prac_types[] = {
   "art"
 };
 
-#define LEARNED_LEVEL	0	/* % known which is considered "learned" */
-#define MAX_PER_PRAC	1	/* max percent gain in skill per practice */
-#define MIN_PER_PRAC	2	/* min percent gain in skill per practice */
-#define PRAC_TYPE	3	/* should it say 'spell' or 'skill'?	 */
+#define LEARNED_LEVEL   0   /* % known which is considered "learned" */
+#define MAX_PER_PRAC    1   /* max percent gain in skill per practice */
+#define MIN_PER_PRAC    2   /* min percent gain in skill per practice */
+#define PRAC_TYPE   3   /* should it say 'spell' or 'skill'?     */
 
 /* actual prac_params are in class.c */
 extern int prac_params[4][NUM_CLASSES];
@@ -166,7 +166,7 @@ list_skills(struct char_data * ch)
     strcpy(buf, "You have no practice sessions remaining.\r\n");
   else
     sprintf(buf, "You have %d practice session%s remaining.\r\n",
-	    GET_PRACTICES(ch), (GET_PRACTICES(ch) == 1 ? "" : "s"));
+        GET_PRACTICES(ch), (GET_PRACTICES(ch) == 1 ? "" : "s"));
 
   sprintf(buf, "%sYou know of the following %ss:\r\n", buf, SPLSKL(ch));
 
@@ -176,22 +176,22 @@ list_skills(struct char_data * ch)
     {
       i = spell_sort_info[sortpos];
       if (strlen(buf2) >= MAX_STRING_LENGTH - 32)
-	{
-	  strcat(buf2, "**OVERFLOW**\r\n");
-	  break;
-	}
+    {
+      strcat(buf2, "**OVERFLOW**\r\n");
+      break;
+    }
       if (GET_LEVEL(ch) >= spell_info[i].min_level[(int) GET_CLASS(ch)])
-	{
-	  mana = mag_manacost(ch, find_skill_num(spells[i]));
-	  if(mana)
-	    sprintf(manastring ,"( %s%d %s%s )",
-		    CCRED(ch, C_CMP), mana,
-		    (IS_PSIONIC(ch) || IS_MYSTIC(ch))?"psi pts":"mana",
-		    CCNRM(ch, C_CMP));
-	  sprintf(buf, "%-20s %s %s\r\n", spells[i],
-		  how_good(GET_SKILL(ch, i)), mana?manastring:"");
-	  strcat(buf2, buf);
-	}
+    {
+      mana = mag_manacost(ch, find_skill_num(spells[i]));
+      if(mana)
+        sprintf(manastring ,"( %s%d %s%s )",
+            CCRED(ch, C_CMP), mana,
+            (IS_PSIONIC(ch) || IS_MYSTIC(ch))?"psi pts":"mana",
+            CCNRM(ch, C_CMP));
+      sprintf(buf, "%-20s %s %s\r\n", spells[i],
+          how_good(GET_SKILL(ch, i)), mana?manastring:"");
+      strcat(buf2, buf);
+    }
     }
 
   page_string(ch->desc, buf2, 1);
@@ -280,14 +280,14 @@ SPECIAL(dump)
   if (value)
     {
       act("You are awarded for outstanding performance.",
-	  FALSE, ch, 0, 0, TO_CHAR);
+      FALSE, ch, 0, 0, TO_CHAR);
       act("$n has been awarded by the gods!",
-	  TRUE, ch, 0, 0, TO_ROOM);
+      TRUE, ch, 0, 0, TO_ROOM);
 
       if (GET_LEVEL(ch) < 3)
-	gain_exp(ch, value);
+    gain_exp(ch, value);
       else
-	GET_GOLD(ch) += value;
+    GET_GOLD(ch) += value;
     }
   return 1;
 }
@@ -310,19 +310,19 @@ npc_steal(struct char_data * ch, struct char_data * victim)
   if (AWAKE(victim) && (number(0, GET_LEVEL(ch)) == 0))
     {
       act("You discover that $n has $s hands in your wallet.",
-	  FALSE, ch, 0, victim, TO_VICT);
+      FALSE, ch, 0, victim, TO_VICT);
       act("$n tries to steal gold from $N.",
-	  TRUE, ch, 0, victim, TO_NOTVICT);
+      TRUE, ch, 0, victim, TO_NOTVICT);
     }
   else
     {
       /* Steal some gold coins */
       gold = (int) ((GET_GOLD(victim) * number(1, 10)) / 100);
       if (gold > 0)
-	{
-	  GET_GOLD(ch) += gold;
-	  GET_GOLD(victim) -= gold;
-	}
+    {
+      GET_GOLD(ch) += gold;
+      GET_GOLD(victim) -= gold;
+    }
     }
 }
 
@@ -399,8 +399,8 @@ SPECIAL(thief)
   for (cons = world[ch->in_room].people; cons; cons = cons->next_in_room)
     if (!IS_NPC(cons) && (GET_LEVEL(cons) < LVL_IMMORT) && (!number(0, 4)))
       {
-	npc_steal(ch, cons);
-	return TRUE;
+    npc_steal(ch, cons);
+    return TRUE;
       }
   return FALSE;
 }
@@ -456,7 +456,7 @@ SPECIAL(magic_user)
       break;
     case 14:
       if (!number(0,10))
-	cast_spell(ch,vict,NULL,SPELL_TELEPORT);
+    cast_spell(ch,vict,NULL,SPELL_TELEPORT);
       break;
     case 15:
     case 16:
@@ -522,11 +522,11 @@ SPECIAL(fighter)
   switch(number(0,10))
    {
      case 1: do_headbutt(ch, GET_NAME(vict), 0, 1);
-	     	break;
+            break;
      case 2: do_parry(ch, GET_NAME(vict), 0, 1);
-		break;
+        break;
      case 3: do_bash(ch, GET_NAME(vict), 0, 1);
-	     	break;
+            break;
      case 4: do_berserk(ch, NULL, 0, 1);
                 break;
      default: return(FALSE);
@@ -555,10 +555,10 @@ SPECIAL(paladin)
     case 2: do_charge(ch, GET_NAME(vict), 0, 1);
             break;
     case 3: if (IS_EVIL(ch))
-	      cast_spell(ch, vict, NULL, SPELL_DISPEL_GOOD);
-	    else
-	      cast_spell(ch, vict, NULL, SPELL_DISPEL_EVIL);
-	    break;
+          cast_spell(ch, vict, NULL, SPELL_DISPEL_GOOD);
+        else
+          cast_spell(ch, vict, NULL, SPELL_DISPEL_EVIL);
+        break;
     case 5: do_disarm(ch, GET_NAME(vict), 0, 1);
             break;
     default: break;
@@ -584,8 +584,8 @@ SPECIAL(guild_guard)
 
   if (!IS_MOVE(cmd) || IS_AFFECTED(guard, AFF_BLIND))
   {
-	if (FIGHTING(guard))
-	  return(fighter(guard, guard, 0, NULL));
+    if (FIGHTING(guard))
+      return(fighter(guard, guard, 0, NULL));
         return FALSE;
   }
 
@@ -595,13 +595,13 @@ SPECIAL(guild_guard)
   for (i = 0; guild_info[i][0] != -1; i++)
     {
       if ((IS_NPC(ch) || GET_CLASS(ch) != guild_info[i][0]) &&
-	  world[ch->in_room].number == guild_info[i][1] &&
-	  cmd == guild_info[i][2])
-	{
-	  send_to_char(buf, ch);
-	  act(buf2, FALSE, ch, 0, 0, TO_ROOM);
-	  return TRUE;
-	}
+      world[ch->in_room].number == guild_info[i][1] &&
+      cmd == guild_info[i][2])
+    {
+      send_to_char(buf, ch);
+      act(buf2, FALSE, ch, 0, 0, TO_ROOM);
+      return TRUE;
+    }
     }
 
   return FALSE;
@@ -731,17 +731,17 @@ SPECIAL(fido)
   for (i = world[ch->in_room].contents; i; i = i->next_content)
     {
       if (GET_OBJ_TYPE(i) == ITEM_CONTAINER && GET_OBJ_VAL(i, 3))
-	{
-	  act("$n savagely devours a corpse.", FALSE, ch, 0, 0, TO_ROOM);
-	  for (temp = i->contains; temp; temp = next_obj)
-	    {
-	      next_obj = temp->next_content;
-	      obj_from_obj(temp);
-	      obj_to_room(temp, ch->in_room);
-	    }
-	  extract_obj(i);
-	  return (TRUE);
-	}
+    {
+      act("$n savagely devours a corpse.", FALSE, ch, 0, 0, TO_ROOM);
+      for (temp = i->contains; temp; temp = next_obj)
+        {
+          next_obj = temp->next_content;
+          obj_from_obj(temp);
+          obj_to_room(temp, ch->in_room);
+        }
+      extract_obj(i);
+      return (TRUE);
+    }
     }
   return (FALSE);
 }
@@ -757,7 +757,7 @@ SPECIAL(janitor)
   for (i = world[ch->in_room].contents; i; i = i->next_content)
     {
       if (!CAN_WEAR(i, ITEM_WEAR_TAKE) || (isname((i)->name, "corpse")))
-	continue;
+    continue;
       act("$n picks up some trash.", FALSE, ch, 0, 0, TO_ROOM);
       obj_from_room(i);
       obj_to_char(i, ch);
@@ -785,29 +785,29 @@ SPECIAL(cityguard)
   for (tch = world[ch->in_room].people; tch; tch = tch->next_in_room)
     {
       if (!IS_NPC(tch) && CAN_SEE(ch, tch) &&
-	  IS_SET_AR(PLR_FLAGS(tch), PLR_OUTLAW))
-	{
-	  act("$n says, 'We don't like OUTLAWS like you in this city!'",
-	      FALSE, ch, 0, 0, TO_ROOM);
-	  hit(ch, tch, TYPE_UNDEFINED);
-	  return (fighter(ch, ch, 0, NULL));
-	}
+      IS_SET_AR(PLR_FLAGS(tch), PLR_OUTLAW))
+    {
+      act("$n says, 'We don't like OUTLAWS like you in this city!'",
+          FALSE, ch, 0, 0, TO_ROOM);
+      hit(ch, tch, TYPE_UNDEFINED);
+      return (fighter(ch, ch, 0, NULL));
+    }
     }
 
   if (breed_killer(ch, ch, 0, NULL))
-	return(TRUE);
+    return(TRUE);
 
   for (tch = world[ch->in_room].people; tch; tch = tch->next_in_room)
     {
       if (CAN_SEE(ch, tch) && FIGHTING(tch))
-	{
-	  if ((GET_ALIGNMENT(tch) < max_evil) &&
-	      (IS_NPC(tch) || IS_NPC(FIGHTING(tch))))
-	    {
-	      max_evil = GET_ALIGNMENT(tch);
-	      evil = tch;
-	    }
-	}
+    {
+      if ((GET_ALIGNMENT(tch) < max_evil) &&
+          (IS_NPC(tch) || IS_NPC(FIGHTING(tch))))
+        {
+          max_evil = GET_ALIGNMENT(tch);
+          evil = tch;
+        }
+    }
     }
 
   if (evil && (GET_ALIGNMENT(FIGHTING(evil)) >= 0))
@@ -837,17 +837,17 @@ SPECIAL(mayor)
   if (!move)
     {
       if (time_info.hours == 6)
-	{
-	  move = TRUE;
-	  path = open_path;
-	  index = 0;
-	}
+    {
+      move = TRUE;
+      path = open_path;
+      index = 0;
+    }
       else if (time_info.hours == 20)
-	{
-	  move = TRUE;
-	  path = close_path;
-	  index = 0;
-	}
+    {
+      move = TRUE;
+      path = close_path;
+      index = 0;
+    }
     }
   if (cmd || !move || (GET_POS(ch) < POS_SLEEPING) ||
       (GET_POS(ch) == POS_FIGHTING))
@@ -879,13 +879,13 @@ SPECIAL(mayor)
 
     case 'b':
       act("$n says 'What a view!  I must get something done about that dump!'",
-	  FALSE, ch, 0, 0, TO_ROOM);
+      FALSE, ch, 0, 0, TO_ROOM);
       break;
 
     case 'c':
       act("$n says 'Vandals!  Youngsters nowadays have no respect "
-	  "for anything!'",
-	  FALSE, ch, 0, 0, TO_ROOM);
+      "for anything!'",
+      FALSE, ch, 0, 0, TO_ROOM);
       break;
 
     case 'd':
@@ -894,12 +894,12 @@ SPECIAL(mayor)
 
     case 'e':
       act("$n says 'I hereby declare the bazaar open!'",
-	  FALSE, ch, 0, 0, TO_ROOM);
+      FALSE, ch, 0, 0, TO_ROOM);
       break;
 
     case 'E':
       act("$n says 'I hereby declare Bourbon closed!'",
-	  FALSE, ch, 0, 0, TO_ROOM);
+      FALSE, ch, 0, 0, TO_ROOM);
       break;
 
     case 'O':
@@ -955,12 +955,12 @@ SPECIAL(dragon_breath)
   if (FIGHTING(ch))
     {
       if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
-	do_stand(ch, "", 0, 0);
+    do_stand(ch, "", 0, 0);
       else if (!number(0,3))
-	{
+    {
           call_magic(ch, FIGHTING(ch), 0, spell, GET_LEVEL(ch), CAST_BREATH);
-	  return(magic_user(ch, ch, 0, NULL));
-	}
+      return(magic_user(ch, ch, 0, NULL));
+    }
     }
 
   if(!FIGHTING(ch))
@@ -991,41 +991,41 @@ SPECIAL(citizen)
   if (FIGHTING(ch))
     {
       if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
-	do_stand(ch, "", 0, 0);
+    do_stand(ch, "", 0, 0);
     }
-  else if (!number(0,19))	/*5% of the time*/
+  else if (!number(0,19))   /*5% of the time*/
     switch (number(1,10))
       {
       case 1:
-	act("$n jingles some change in $s pocket.",1,ch,0,0,TO_ROOM);
-	break;
+    act("$n jingles some change in $s pocket.",1,ch,0,0,TO_ROOM);
+    break;
       case 2:
-	act("$n stares into the sky.",1,ch,0,0,TO_ROOM);
-	act("$n says, 'Looks like rain. *sigh*'",1,ch,0,0,TO_ROOM);
-	break;
+    act("$n stares into the sky.",1,ch,0,0,TO_ROOM);
+    act("$n says, 'Looks like rain. *sigh*'",1,ch,0,0,TO_ROOM);
+    break;
       case 3:
-	act("$n glances at you out of the corner of $s eye."
-	    ,1,ch,0,0,TO_ROOM);
-	break;
+    act("$n glances at you out of the corner of $s eye."
+        ,1,ch,0,0,TO_ROOM);
+    break;
       case 4:
-	act("$n mumbles something about the price of a crappy loaf of "
-	    "bread.",1,ch,0,0,TO_ROOM);
-	break;
+    act("$n mumbles something about the price of a crappy loaf of "
+        "bread.",1,ch,0,0,TO_ROOM);
+    break;
       case 5:
-	act("$n kicks a pebble out of the road.",1,ch,0,0,TO_ROOM);
-	break;
+    act("$n kicks a pebble out of the road.",1,ch,0,0,TO_ROOM);
+    break;
       case 6:
-	act("$n looks at you and shouts 'Repent! The end is near!'"
-	    ,1,ch,0,0,TO_ROOM);
-	break;
+    act("$n looks at you and shouts 'Repent! The end is near!'"
+        ,1,ch,0,0,TO_ROOM);
+    break;
       case 7:
-	act("$n eyes your coin purse.",1,ch,0,0,TO_ROOM);
-	break;
+    act("$n eyes your coin purse.",1,ch,0,0,TO_ROOM);
+    break;
       case 8:
-	act("$n looks around for the cityguards just before giving you "
-	    "the bird.",1,ch,0,0,TO_ROOM);
+    act("$n looks around for the cityguards just before giving you "
+        "the bird.",1,ch,0,0,TO_ROOM);
       default:
-	break;
+    break;
       }
   return(FALSE);
 }
@@ -1086,7 +1086,7 @@ SPECIAL (mini_thief)
         if ( !IS_NPC(temp_ch) && CAN_SEE(ch, temp_ch) &&
              GET_LEVEL(temp_ch) < LEVEL_IMMORT &&
              GET_LEVEL(temp_ch) >= 5 )
-	  victim = temp_ch ;
+      victim = temp_ch ;
 
       if (!victim)
         return FALSE ;
@@ -1094,44 +1094,44 @@ SPECIAL (mini_thief)
       skill_roll = number (1,100) ;
 
       if (skill_roll < 10)              /* Snagged the cash free and clear! */
-	{
-	  amt_gotten = number (10,25) ;
-	  if ( GET_GOLD(victim) <= (2 * amt_gotten) )
+    {
+      amt_gotten = number (10,25) ;
+      if ( GET_GOLD(victim) <= (2 * amt_gotten) )
             amt_gotten = GET_GOLD(victim) / 5 ;
-	  GET_GOLD(ch) += amt_gotten ;
-	  GET_GOLD(victim) -= amt_gotten ;
-	  return TRUE ;
-	}
+      GET_GOLD(ch) += amt_gotten ;
+      GET_GOLD(victim) -= amt_gotten ;
+      return TRUE ;
+    }
       else if (skill_roll < 35)         /* Snagged the cash, but the        */
-	{                                 /* bastard caught me                */
-	  amt_gotten = number (10,25) ;
-	  if ( GET_GOLD(victim) <= (2 * amt_gotten) )
+    {                                 /* bastard caught me                */
+      amt_gotten = number (10,25) ;
+      if ( GET_GOLD(victim) <= (2 * amt_gotten) )
             amt_gotten = GET_GOLD(victim) / 5 ;
-	  GET_GOLD(ch) += amt_gotten ;
-	  GET_GOLD(victim) -= amt_gotten ;
+      GET_GOLD(ch) += amt_gotten ;
+      GET_GOLD(victim) -= amt_gotten ;
 
-	  sprintf(buf, "You catch %s's hand coming out of your coin purse.\r\n",
+      sprintf(buf, "You catch %s's hand coming out of your coin purse.\r\n",
                   GET_NAME(ch)) ;
-	  sprintf(buf2, "$N catchs $n's hand leaving thier coin purse a "
+      sprintf(buf2, "$N catchs $n's hand leaving thier coin purse a "
                   "little lighter.") ;
-	  send_to_char (buf, victim) ;
-	  act(buf2, FALSE, ch, NULL, victim, TO_ROOM) ;
-	  return TRUE ;
-	}
+      send_to_char (buf, victim) ;
+      act(buf2, FALSE, ch, NULL, victim, TO_ROOM) ;
+      return TRUE ;
+    }
       else if (skill_roll < 75)         /* Not only did I get nothing but   */
-	{                                 /* the dork caught me               */
-	  sprintf(buf,  "You catch %s's hand going into your coin purse.\r\n",
+    {                                 /* the dork caught me               */
+      sprintf(buf,  "You catch %s's hand going into your coin purse.\r\n",
                   GET_NAME(ch)) ;
-	  sprintf(buf2, "$N catchs $n's hand entering thier coin purse.") ;
-	  send_to_char (buf, victim) ;
-	  act(buf2, FALSE, ch, NULL, victim, TO_ROOM) ;
-	  return TRUE ;
-	}
+      sprintf(buf2, "$N catchs $n's hand entering thier coin purse.") ;
+      send_to_char (buf, victim) ;
+      act(buf2, FALSE, ch, NULL, victim, TO_ROOM) ;
+      return TRUE ;
+    }
       else /* number > 75 && < 100 */   /* dang, I didn't get anything      */
-	{                                 /* but at least I didn't get caught */
-	  /* No code here, we were lucky */
-	  return TRUE ;
-	}
+    {                                 /* but at least I didn't get caught */
+      /* No code here, we were lucky */
+      return TRUE ;
+    }
 
     }
   else
@@ -1154,50 +1154,50 @@ SPECIAL(black_undead_knight)
   if ( FIGHTING(ch) )
     {
       switch ( number( 1, 20 ) )
-	{
-	case 1 :
-	  act ( "$n screams, 'Protect the kingdom!'",
-		FALSE, ch, NULL, NULL, TO_ROOM) ;
-	  break ;
-	case 2:
-	  act ( "$n shouts, 'If I'm going to hell, your going with me!'",
-		FALSE, ch, NULL, NULL, TO_ROOM) ;
-	  break ;
-	case 3:
-	  act ( "$n says, 'You dirty rotten scoundrel.  "
-		"I'm gonna make you very sorry.'",
-		FALSE, ch, NULL, NULL, TO_ROOM) ;
-	  break ;
-	case 4:
-	  act ( "$n says, 'I know what your thinking...'",
-		FALSE, ch, NULL, NULL, TO_ROOM) ;
-	  act ( "$n says, 'Did he fire five shots, or did he fire six.'",
-		FALSE, ch, NULL, NULL, TO_ROOM) ;
-	  act ( "$n says, 'Well let me ask you...'",
-		FALSE, ch, NULL, NULL, TO_ROOM) ;
-	  act ( "$n asks, 'Do you feel lucky PUNK?  Well... DO YOU?'",
-		FALSE, ch, NULL, NULL, TO_ROOM) ;
-	  break ;
-	case 5:
-	  act ( "$n claims, 'I am the greatest!'",
-		FALSE, ch, NULL, NULL, TO_ROOM) ;
-	  break ;
-	default:
-	  break ;
-	}
+    {
+    case 1 :
+      act ( "$n screams, 'Protect the kingdom!'",
+        FALSE, ch, NULL, NULL, TO_ROOM) ;
+      break ;
+    case 2:
+      act ( "$n shouts, 'If I'm going to hell, your going with me!'",
+        FALSE, ch, NULL, NULL, TO_ROOM) ;
+      break ;
+    case 3:
+      act ( "$n says, 'You dirty rotten scoundrel.  "
+        "I'm gonna make you very sorry.'",
+        FALSE, ch, NULL, NULL, TO_ROOM) ;
+      break ;
+    case 4:
+      act ( "$n says, 'I know what your thinking...'",
+        FALSE, ch, NULL, NULL, TO_ROOM) ;
+      act ( "$n says, 'Did he fire five shots, or did he fire six.'",
+        FALSE, ch, NULL, NULL, TO_ROOM) ;
+      act ( "$n says, 'Well let me ask you...'",
+        FALSE, ch, NULL, NULL, TO_ROOM) ;
+      act ( "$n asks, 'Do you feel lucky PUNK?  Well... DO YOU?'",
+        FALSE, ch, NULL, NULL, TO_ROOM) ;
+      break ;
+    case 5:
+      act ( "$n claims, 'I am the greatest!'",
+        FALSE, ch, NULL, NULL, TO_ROOM) ;
+      break ;
+    default:
+      break ;
+    }
       return ( TRUE ) ;
     }
 
   for ( tmp_ch = world[ch->in_room].people; tmp_ch;
-	tmp_ch = tmp_ch->next_in_room)
+    tmp_ch = tmp_ch->next_in_room)
     if ( IS_NPC(tmp_ch) &&
-	 (mob_index[tmp_ch->nr].virtual == RED_UNDEAD) &&
-	 !number(0,2) )
+     (mob_index[tmp_ch->nr].virtual == RED_UNDEAD) &&
+     !number(0,2) )
       {
-	act ( "$n sees the knight dressed in red and gives a battle cry!",
-	      FALSE, ch, NULL, NULL, TO_ROOM ) ;
-	hit (ch, tmp_ch, TYPE_UNDEFINED) ;
-	return ( TRUE ) ;
+    act ( "$n sees the knight dressed in red and gives a battle cry!",
+          FALSE, ch, NULL, NULL, TO_ROOM ) ;
+    hit (ch, tmp_ch, TYPE_UNDEFINED) ;
+    return ( TRUE ) ;
       }
 
   return ( FALSE ) ;
@@ -1216,26 +1216,26 @@ SPECIAL(red_undead_knight)
    {
       switch ( number( 1, 20 ) )
       {
-	 case 1 :
-	    act ( "$n screams, 'Protect the homeland!'",
-	          FALSE, ch, NULL, NULL, TO_ROOM) ;
-	    break ;
-	 case 2:
-	    act ( "$n shouts, 'If you think you have had a bad day "
-		  "before, watch this!'",
-	          FALSE, ch, NULL, NULL, TO_ROOM) ;
+     case 1 :
+        act ( "$n screams, 'Protect the homeland!'",
+              FALSE, ch, NULL, NULL, TO_ROOM) ;
+        break ;
+     case 2:
+        act ( "$n shouts, 'If you think you have had a bad day "
+          "before, watch this!'",
+              FALSE, ch, NULL, NULL, TO_ROOM) ;
             break ;
-	 case 3:
-	    act ( "$n says, 'Don't ever argue with the big dog,'",
+     case 3:
+        act ( "$n says, 'Don't ever argue with the big dog,'",
                   FALSE, ch, NULL, NULL, TO_ROOM) ;
-	    act ( "$n says, 'cause the big dog is always right.'",
+        act ( "$n says, 'cause the big dog is always right.'",
                   FALSE, ch, NULL, NULL, TO_ROOM) ;
             break ;
          case 4:
             act ( "$n says, 'There's more that one way to skin a cat:'",
                   FALSE, ch, NULL, NULL, TO_ROOM) ;
             act ( "$n continues: 'Way number 15 -- Krazy Glue and a "
-		  "toothbrush.'", FALSE, ch, NULL, NULL, TO_ROOM) ;
+          "toothbrush.'", FALSE, ch, NULL, NULL, TO_ROOM) ;
             break ;
          case 5:
            act ( "$n says, 'A friend with weed is a friend indeed.'",
@@ -1277,33 +1277,33 @@ SPECIAL(mickey)
   if (FIGHTING(ch))
     {
       if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
-	do_stand(ch, "", 0, 0);
+    do_stand(ch, "", 0, 0);
       else
-	switch(number(1,10))
-	  {
-	  case 1:
-	    act("$n shouts, 'I'll always love you Mal, no matter what!'",
-		FALSE, ch, NULL, NULL, TO_ROOM);
-	    break;
-	  case 2:
-	    act("$n asks, 'Do you believe in fate?'",FALSE, ch, NULL,
-		NULL, TO_ROOM);
-	    break;
-	  case 3:
-	    act("$n says, 'You're not centered.'", FALSE, ch, NULL,
-		NULL, TO_ROOM);
-	    break;
-	  case 4:
-	    act("$n shouts, 'When they come and ask you who did this, tell"
-		" them it was Mickey and Mallory Knox!'", FALSE, ch, NULL, NULL,
-		TO_ROOM);
-	    break;
-	  case 5:
-	    act("$n states, 'It's not nice to point.'", FALSE, ch, NULL,
-		NULL, TO_ROOM);
-	  default:
-	    break;
-	  }
+    switch(number(1,10))
+      {
+      case 1:
+        act("$n shouts, 'I'll always love you Mal, no matter what!'",
+        FALSE, ch, NULL, NULL, TO_ROOM);
+        break;
+      case 2:
+        act("$n asks, 'Do you believe in fate?'",FALSE, ch, NULL,
+        NULL, TO_ROOM);
+        break;
+      case 3:
+        act("$n says, 'You're not centered.'", FALSE, ch, NULL,
+        NULL, TO_ROOM);
+        break;
+      case 4:
+        act("$n shouts, 'When they come and ask you who did this, tell"
+        " them it was Mickey and Mallory Knox!'", FALSE, ch, NULL, NULL,
+        TO_ROOM);
+        break;
+      case 5:
+        act("$n states, 'It's not nice to point.'", FALSE, ch, NULL,
+        NULL, TO_ROOM);
+      default:
+        break;
+      }
       return(TRUE);
     }
 
@@ -1312,14 +1312,14 @@ SPECIAL(mickey)
     if(!IS_NPC(tmp_ch) && CAN_SEE(ch, tmp_ch) &&
        !PRF_FLAGGED(tmp_ch,PRF_NOHASSLE))
       {
-	victim=tmp_ch;
-	if ( GET_IDNUM(victim) != GET_ALIGNMENT(ch))
-	  {
-	    GET_TALK(ch, 0) = 0;
-	    GET_TALK(ch, 1) = 0;
-	    GET_TALK(ch, 2) = 0;
-	    GET_ALIGNMENT(ch) = GET_IDNUM(victim);
-	  }
+    victim=tmp_ch;
+    if ( GET_IDNUM(victim) != GET_ALIGNMENT(ch))
+      {
+        GET_TALK(ch, 0) = 0;
+        GET_TALK(ch, 1) = 0;
+        GET_TALK(ch, 2) = 0;
+        GET_ALIGNMENT(ch) = GET_IDNUM(victim);
+      }
       }
   if(!victim)
     return(FALSE);
@@ -1334,34 +1334,34 @@ SPECIAL(mickey)
     case 0:
       do_wake(ch, GET_NAME(victim), 0, 0);
       act("$n says, '$N, I'm gonna kill you.'", FALSE, ch, NULL, victim,
-	  TO_ROOM);
+      TO_ROOM);
       GET_TALK(ch,1) = 1;
       return(TRUE);
       break;
     case 1:
       if (IS_NPC(victim))
-	do_flee(victim, "",0,0);
+    do_flee(victim, "",0,0);
       else
-	act("$n asks, 'And you wanna know why?'", FALSE, ch, NULL, victim,
-	    TO_ROOM);
+    act("$n asks, 'And you wanna know why?'", FALSE, ch, NULL, victim,
+        TO_ROOM);
       GET_TALK(ch,2) = 1;
       return(TRUE);
       break;
     default:
       if  (IS_SET_AR(world[ch->in_room].room_flags, ROOM_PEACEFUL))
-	{
-	  act("$n says, 'I'll tell you later, $N'.", FALSE, ch, NULL, victim,
-	      TO_ROOM);
-	  act("$n walks out the door and vanishes.",FALSE,ch,NULL,victim,
-	      TO_ROOM);
-	  char_from_room(ch);
-	  char_to_room(ch,real_room(MICKSROOM));
-	} else
-	  {
-	    act("$n says, 'Shit $N, I'm a natural born killer.'.", FALSE, ch,
-		NULL, victim, TO_ROOM);
-	    hit(ch, victim, TYPE_UNDEFINED);
-	  }
+    {
+      act("$n says, 'I'll tell you later, $N'.", FALSE, ch, NULL, victim,
+          TO_ROOM);
+      act("$n walks out the door and vanishes.",FALSE,ch,NULL,victim,
+          TO_ROOM);
+      char_from_room(ch);
+      char_to_room(ch,real_room(MICKSROOM));
+    } else
+      {
+        act("$n says, 'Shit $N, I'm a natural born killer.'.", FALSE, ch,
+        NULL, victim, TO_ROOM);
+        hit(ch, victim, TYPE_UNDEFINED);
+      }
       GET_TALK(ch, 0) = 0;
       GET_TALK(ch, 1) = 0;
       GET_TALK(ch, 2) = 0;
@@ -1382,41 +1382,41 @@ SPECIAL(mallory)
   if (FIGHTING(ch))
     {
       if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
-	do_stand(ch, "", 0, 0);
+    do_stand(ch, "", 0, 0);
       else
-	switch(number(1,10))
-	  {
-	  case 1:
-	    act("$n asks, 'How do you like me now?'",FALSE, ch, NULL,
-		NULL, TO_ROOM);
-	    break;
-	  case 2:
-	    act("$n says, 'That was the worst head I've ever got.'",FALSE,
-		ch, NULL, NULL, TO_ROOM);
-	    break;
-	  case 3:
-	    act("$n asks, 'How sexy am i now, fucker?'",FALSE, ch, NULL,
-		NULL, TO_ROOM);
-	    act("$n asks, 'How sexy am i NOW?'",FALSE, ch, NULL, NULL, TO_ROOM);
-	    break;
-	  case 4:
-	    break;
-	  case 5:
-	    act("$n giggles madly.",FALSE, ch, NULL, NULL, TO_ROOM);
-	    break;
-	  default:
-	    act("$n shouts, 'You stupid biiitch!'",FALSE, ch, NULL,
-		NULL, TO_ROOM);
-	    break;
-	  }
+    switch(number(1,10))
+      {
+      case 1:
+        act("$n asks, 'How do you like me now?'",FALSE, ch, NULL,
+        NULL, TO_ROOM);
+        break;
+      case 2:
+        act("$n says, 'That was the worst head I've ever got.'",FALSE,
+        ch, NULL, NULL, TO_ROOM);
+        break;
+      case 3:
+        act("$n asks, 'How sexy am i now, fucker?'",FALSE, ch, NULL,
+        NULL, TO_ROOM);
+        act("$n asks, 'How sexy am i NOW?'",FALSE, ch, NULL, NULL, TO_ROOM);
+        break;
+      case 4:
+        break;
+      case 5:
+        act("$n giggles madly.",FALSE, ch, NULL, NULL, TO_ROOM);
+        break;
+      default:
+        act("$n shouts, 'You stupid biiitch!'",FALSE, ch, NULL,
+        NULL, TO_ROOM);
+        break;
+      }
       mickey=get_char_num(real_mobile(MICKEY));
       if (!mickey)
-	return(FALSE);
+    return(FALSE);
 
       if(HUNTING(mickey))
-	return(FALSE);		/*if mickey's busy, catch him later :) */
+    return(FALSE);      /*if mickey's busy, catch him later :) */
       else
-	set_hunting(mickey, FIGHTING(ch)); /*revenge mallory*/
+    set_hunting(mickey, FIGHTING(ch)); /*revenge mallory*/
     }
   return(FALSE);
 }
@@ -1432,7 +1432,7 @@ SPECIAL(cleric)
 
   if (GET_POS(ch)!=POS_FIGHTING)
       if ((GET_POS(ch)<POS_STANDING) && (GET_POS(ch)>POS_STUNNED))
-	do_stand(ch, "", 0, 0);
+    do_stand(ch, "", 0, 0);
 
   if  (IS_SET_AR(world[ch->in_room].room_flags, ROOM_PEACEFUL))
     return(FALSE);
@@ -1440,12 +1440,12 @@ SPECIAL(cleric)
   if (!FIGHTING(ch))
     if (GET_HIT(ch) < GET_MAX_HIT(ch)-10)
       {
-	if ((lspell = GET_LEVEL(ch)) >= 20)
-	  cast_spell(ch, ch, NULL, SPELL_HEAL);
-	else if (lspell > 12)
-	  cast_spell(ch, ch, NULL, SPELL_CURE_CRITIC);
-	else
-	  cast_spell(ch, ch, NULL, SPELL_CURE_LIGHT);
+    if ((lspell = GET_LEVEL(ch)) >= 20)
+      cast_spell(ch, ch, NULL, SPELL_HEAL);
+    else if (lspell > 12)
+      cast_spell(ch, ch, NULL, SPELL_CURE_CRITIC);
+    else
+      cast_spell(ch, ch, NULL, SPELL_CURE_LIGHT);
       }
 
   /* Find a dude to do evil things upon ! */
@@ -1464,15 +1464,15 @@ SPECIAL(cleric)
 
   if (lspell <3 && ( (IS_EVIL(ch)&& IS_EVIL(vict))||
                      (IS_GOOD(ch)&& IS_GOOD(vict)) )  )
-    lspell = 4;		/*Don't let dispel themselves */
+    lspell = 4;     /*Don't let dispel themselves */
 
   if ((GET_HIT(ch) < (GET_MAX_HIT(ch) / 4)) && (lspell > 25) &&
       (!MOB_FLAGGED(ch, MOB_AGGRESSIVE)) )
     {
       if (number(0,2))
-      	cast_spell(ch, ch, NULL, SPELL_TELEPORT);
+        cast_spell(ch, ch, NULL, SPELL_TELEPORT);
       else
-      	cast_spell(ch, vict, NULL, SPELL_TELEPORT);
+        cast_spell(ch, vict, NULL, SPELL_TELEPORT);
       return(FALSE);
     }
 
@@ -1489,59 +1489,59 @@ SPECIAL(cleric)
 
       /* call lightning */
       if (OUTSIDE(ch) && (weather_info.sky>=SKY_RAINING) && (lspell >= 15) &&
-	  (number(0,5)==0))
-	{
-	  act("$n stares into the sky.",1,ch,0,0,TO_ROOM);
-	  cast_spell(ch, vict, NULL, SPELL_CALL_LIGHTNING);
-	  return(TRUE);
-	}
+      (number(0,5)==0))
+    {
+      act("$n stares into the sky.",1,ch,0,0,TO_ROOM);
+      cast_spell(ch, vict, NULL, SPELL_CALL_LIGHTNING);
+      return(TRUE);
+    }
 
       switch(lspell)
-	{
-	case 1:
-	case 2:
-	case 3:
-	  if (IS_EVIL(ch))
-	    cast_spell(ch, vict, NULL, SPELL_DISPEL_GOOD);
-	  else
-	    cast_spell(ch, vict, NULL, SPELL_DISPEL_EVIL);
-	  break;
-	case 4:
-	case 5:
-	case 6:
-	  cast_spell(ch, vict, NULL, SPELL_BLINDNESS);
-	  break;
-	case 7:
-	  cast_spell(ch, vict, NULL, SPELL_CURSE);
-	  break;
-	case 8:
-	case 9:
-	case 10:
-	case 11:
-	case 13:
-	case 14:
-	case 15:
-	case 16:
-	  cast_spell(ch, vict, NULL, SPELL_POISON);
-	  break;
-	case 17:
-	case 18:
-	case 19:
+    {
+    case 1:
+    case 2:
+    case 3:
+      if (IS_EVIL(ch))
+        cast_spell(ch, vict, NULL, SPELL_DISPEL_GOOD);
+      else
+        cast_spell(ch, vict, NULL, SPELL_DISPEL_EVIL);
+      break;
+    case 4:
+    case 5:
+    case 6:
+      cast_spell(ch, vict, NULL, SPELL_BLINDNESS);
+      break;
+    case 7:
+      cast_spell(ch, vict, NULL, SPELL_CURSE);
+      break;
+    case 8:
+    case 9:
+    case 10:
+    case 11:
+    case 13:
+    case 14:
+    case 15:
+    case 16:
+      cast_spell(ch, vict, NULL, SPELL_POISON);
+      break;
+    case 17:
+    case 18:
+    case 19:
           cast_spell(ch, vict, NULL, SPELL_EARTHQUAKE);
           break;
-	case 20:
-	case 21:
-	case 22:
-	case 23:
-	case 24:
-	  break;
-	case 25:
-	case 26:
-	case 27:
-	default:
-	  cast_spell(ch, vict, NULL, SPELL_HARM);
-	  break;
-	}
+    case 20:
+    case 21:
+    case 22:
+    case 23:
+    case 24:
+      break;
+    case 25:
+    case 26:
+    case 27:
+    default:
+      cast_spell(ch, vict, NULL, SPELL_HARM);
+      break;
+    }
 
       return(TRUE);
 
@@ -1551,56 +1551,56 @@ SPECIAL(cleric)
       /* do heal */
 
       if (IS_AFFECTED(ch, AFF_BLIND) && (lspell >= 4) & (number(0,3)==0))
-	{
-	  cast_spell(ch, vict, NULL, SPELL_CURE_BLIND);
-	  return(TRUE);
-	}
+    {
+      cast_spell(ch, vict, NULL, SPELL_CURE_BLIND);
+      return(TRUE);
+    }
 
       if (IS_AFFECTED(ch, AFF_CURSE) && (lspell >= 6) && (number(0,6)==0))
-	{
-	  cast_spell(ch, vict, NULL, SPELL_REMOVE_CURSE);
-	  return(TRUE);
-	}
+    {
+      cast_spell(ch, vict, NULL, SPELL_REMOVE_CURSE);
+      return(TRUE);
+    }
 
       if (IS_AFFECTED(ch, AFF_POISON) && (lspell >= 5) && (number(0,6)==0))
-	{
-	  cast_spell(ch, vict, NULL, SPELL_REMOVE_POISON);
-	  return(TRUE);
-	}
+    {
+      cast_spell(ch, vict, NULL, SPELL_REMOVE_POISON);
+      return(TRUE);
+    }
 
       if (!number (0,3))
-	switch(lspell)
-	  {
-	  case 1:
-	  case 2:
-	  case 3:
-	  case 4:
-	  case 5:
-	    cast_spell(ch, ch, NULL, SPELL_CURE_LIGHT);
-	    break;
-	  case 6:
-	  case 7:
-	  case 8:
-	  case 9:
-	  case 10:
-	  case 11:
-	  case 12:
-	  case 13:
-	  case 14:
-	  case 15:
-	  case 16:
-	  case 17:
-	    break;
-	  case 18:
-	    cast_spell(ch, ch, NULL, SPELL_CURE_CRITIC);
-	    break;
-	  default:
-	    if (!IS_AFFECTED(ch, AFF_SANCTUARY))
-	      cast_spell(ch, ch, NULL, SPELL_SANCTUARY);
-	    else
-	      cast_spell(ch, ch, NULL, SPELL_HEAL);
-	    break;
-	  }
+    switch(lspell)
+      {
+      case 1:
+      case 2:
+      case 3:
+      case 4:
+      case 5:
+        cast_spell(ch, ch, NULL, SPELL_CURE_LIGHT);
+        break;
+      case 6:
+      case 7:
+      case 8:
+      case 9:
+      case 10:
+      case 11:
+      case 12:
+      case 13:
+      case 14:
+      case 15:
+      case 16:
+      case 17:
+        break;
+      case 18:
+        cast_spell(ch, ch, NULL, SPELL_CURE_CRITIC);
+        break;
+      default:
+        if (!IS_AFFECTED(ch, AFF_SANCTUARY))
+          cast_spell(ch, ch, NULL, SPELL_SANCTUARY);
+        else
+          cast_spell(ch, ch, NULL, SPELL_HEAL);
+        break;
+      }
 
       return(TRUE);
 
@@ -1639,32 +1639,32 @@ SPECIAL(conductor)
       else
          switch(number(1,10))
          {
-		    case 1:
-			   act ( "$n shouts, 'I said give me your ticket!'",
-			         FALSE, ch, NULL, NULL, TO_ROOM ) ;
-			   break ;
-			case 2:
-			   act ( "$n asks, 'Why are you so stupid?'",
-			         FALSE, ch, NULL, NULL, TO_ROOM ) ;
-			   break ;
-			case 3:
-			   act ( "$n shouts 'Get off my train you trash!'",
-			         FALSE, ch, NULL, NULL, TO_ROOM ) ;
-			   break ;
-			case 4:
-			   act ( "$n shouts 'Security!  Help me with "
-				 "this piece of garbage!'",
-			         FALSE, ch, NULL, NULL, TO_ROOM ) ;
-			   break ;
-			case 5:
-			   act ( "$n asks, 'Why wouldn't you just give me "
-				 "your ticket?'",
-			         FALSE, ch, NULL, NULL, TO_ROOM ) ;
-			   break ;
-			default :
-			   break ;
-		 }
-	  return ( TRUE ) ;
+            case 1:
+               act ( "$n shouts, 'I said give me your ticket!'",
+                     FALSE, ch, NULL, NULL, TO_ROOM ) ;
+               break ;
+            case 2:
+               act ( "$n asks, 'Why are you so stupid?'",
+                     FALSE, ch, NULL, NULL, TO_ROOM ) ;
+               break ;
+            case 3:
+               act ( "$n shouts 'Get off my train you trash!'",
+                     FALSE, ch, NULL, NULL, TO_ROOM ) ;
+               break ;
+            case 4:
+               act ( "$n shouts 'Security!  Help me with "
+                 "this piece of garbage!'",
+                     FALSE, ch, NULL, NULL, TO_ROOM ) ;
+               break ;
+            case 5:
+               act ( "$n asks, 'Why wouldn't you just give me "
+                 "your ticket?'",
+                     FALSE, ch, NULL, NULL, TO_ROOM ) ;
+               break ;
+            default :
+               break ;
+         }
+      return ( TRUE ) ;
    }
 
    for (victim = 0, tmp_ch = world[ch->in_room].people; tmp_ch && !victim;
@@ -1679,11 +1679,11 @@ SPECIAL(conductor)
          if (GET_ALIGNMENT(victim)+(GET_RACE(victim))-
              GET_CLASS(victim)!=GET_ALIGNMENT(ch))
          {
-	   GET_TALK(ch, 0) = 0;
-	   GET_TALK(ch, 1) = 0;
-	   GET_TALK(ch, 2) = 0;
-	   GET_ALIGNMENT(ch)=GET_ALIGNMENT(victim)+
-	     (GET_RACE(victim))-GET_CLASS(victim);
+       GET_TALK(ch, 0) = 0;
+       GET_TALK(ch, 1) = 0;
+       GET_TALK(ch, 2) = 0;
+       GET_ALIGNMENT(ch)=GET_ALIGNMENT(victim)+
+         (GET_RACE(victim))-GET_CLASS(victim);
          }
       }
    if(!victim)
@@ -1715,7 +1715,7 @@ SPECIAL(conductor)
       if  (IS_SET_AR(world[ch->in_room].room_flags, ROOM_PEACEFUL))
       {
          act("$n says, 'Ok $N, I'll let ya off this time, but don't do it "
-	     "again'.",
+         "again'.",
              FALSE, ch, NULL, victim, TO_ROOM);
          act("$n walks out the door and vanishes.",
              FALSE, ch, NULL, victim, TO_ROOM);
@@ -1725,7 +1725,7 @@ SPECIAL(conductor)
       else
       {
          act("$n says, 'Well then...'.", FALSE, ch, NULL, NULL, TO_ROOM);
-	 act ( "$n screams, 'GET THE HELL OFF MY TRAIN!!!'",
+     act ( "$n screams, 'GET THE HELL OFF MY TRAIN!!!'",
              FALSE, ch, NULL, NULL, TO_ROOM);
          hit(ch, victim, TYPE_UNDEFINED);
       }
@@ -1739,7 +1739,7 @@ SPECIAL(conductor)
 
 SPECIAL(brass_dragon)
 {
-   char	buf[256], buf2[256];
+   char buf[256], buf2[256];
 
    if (mini_mud || !IS_MOVE(cmd))
       return FALSE;
@@ -1763,16 +1763,16 @@ SPECIAL(brass_dragon)
 SPECIAL(outofjailguard)
 {
     if (mini_mud || !IS_MOVE(cmd))
-	return(FALSE);
+    return(FALSE);
     if (GET_LEVEL(ch) >= LVL_IMMORT || HUNTING(ch))
-     	return FALSE;
+        return FALSE;
     if (ch->in_room == real_room(8117) && (CMD_IS("south")))
     {
-	act("The guard grabs $n by the collar and blocks $s way.",
-		FALSE, ch, 0, 0, TO_ROOM);
-	send_to_char("The guard stops you from entering with one "
-		"quick jerk of your collar.\r\n", ch);
-	return(TRUE);
+    act("The guard grabs $n by the collar and blocks $s way.",
+        FALSE, ch, 0, 0, TO_ROOM);
+    send_to_char("The guard stops you from entering with one "
+        "quick jerk of your collar.\r\n", ch);
+    return(TRUE);
     }
     return(FALSE);
 }
@@ -1781,16 +1781,16 @@ SPECIAL(outofjailguard)
 SPECIAL(jailguard)
 {
     if (mini_mud || !IS_MOVE(cmd))
-	return(FALSE);
+    return(FALSE);
     if (GET_LEVEL(ch) >= LVL_IMMORT || HUNTING(ch))
-     	return FALSE;
+        return FALSE;
     if (ch->in_room == real_room(8118) && (CMD_IS("north")))
     {
-	act("The guard grabs $n with one hand and throws $m back in the room.",
-		FALSE, ch, 0, 0, TO_ROOM);
-	send_to_char("The guard stops you from leaving with one "
-		"flabby hand.\r\n", ch);
-	return(TRUE);
+    act("The guard grabs $n with one hand and throws $m back in the room.",
+        FALSE, ch, 0, 0, TO_ROOM);
+    send_to_char("The guard stops you from leaving with one "
+        "flabby hand.\r\n", ch);
+    return(TRUE);
     }
     return(FALSE);
 }
@@ -1803,16 +1803,16 @@ SPECIAL(dracula)
 
  if (!cmd || !CMD_IS("look"))
  {
-	if (!cmd && FIGHTING(mob))
-	  return(magic_user(mob, mob, 0, NULL));
-	return FALSE;
+    if (!cmd && FIGHTING(mob))
+      return(magic_user(mob, mob, 0, NULL));
+    return FALSE;
  }
 
  skip_spaces(&argument);
  if (!isname_with_abbrevs(argument, (mob)->player.name) || PRF_FLAGGED(ch, PRF_NOHASSLE))
-	return FALSE;
+    return FALSE;
 
- strcpy(buf3,	"You feel mesmerized... your will weakens.\n\r");
+ strcpy(buf3,   "You feel mesmerized... your will weakens.\n\r");
  sprintf(buf, "%s sinks his fangs into your neck!\r\n", GET_NAME(mob));
  sprintf(buf4, "$n looks at %s.\r\n", GET_NAME(mob));
  sprintf(buf5, "%s gazes intently at $n.\r\n", GET_NAME(mob));
@@ -1867,8 +1867,8 @@ SPECIAL(pet_shops)
     }
     if (num_followers(ch)>=GET_CHA(ch)/2)
     {
-	stc("You can't have any more followers!\r\n", ch);
-	return(TRUE);
+    stc("You can't have any more followers!\r\n", ch);
+    return(TRUE);
     }
     if (GET_GOLD(ch) < PET_PRICE(pet)) {
       send_to_char("You don't have enough gold!\r\n", ch);
@@ -1886,8 +1886,8 @@ SPECIAL(pet_shops)
       pet->player.name = str_dup(buf);
 
       sprintf(buf, "%sA small sign on a chain around the neck says "
-		"'My name is %s'\r\n",
-	      pet->player.description, pet_name);
+        "'My name is %s'\r\n",
+          pet->player.description, pet_name);
       /* FREE(pet->player.description); don't free the prototype! */
       pet->player.description = str_dup(buf);
     }
@@ -1924,54 +1924,54 @@ SPECIAL(enter_circle)
   ACMD(do_look);
 
   if (mini_mud || (!CMD_IS("enter")&&!CMD_IS("look")))
-	return FALSE;
-  portal_room=real_room(5799);	/*This is the elevator itself*/
+    return FALSE;
+  portal_room=real_room(5799);  /*This is the elevator itself*/
   if (CMD_IS("enter"))
-    {				/*enter*/
+    {               /*enter*/
       skip_spaces (&argument);
       if (strcmp(argument,"circle")&&strcmp(argument,"platform"))
-	{
-	  send_to_char("Enter what?\n\r",ch);
-	  return(TRUE);
-	}
+    {
+      send_to_char("Enter what?\n\r",ch);
+      return(TRUE);
+    }
 
       if (MobCountInRoom(world[portal_room].people)>=2)
-	{
-	  send_to_char("You can't fit on the portal, it's too crowded.\n\r",
-		       ch);
-	  return(TRUE);
-	}
+    {
+      send_to_char("You can't fit on the portal, it's too crowded.\n\r",
+               ch);
+      return(TRUE);
+    }
       else
-	{
-	  send_to_char("You stand in the circle.\n\r",ch);
-	  act("$n enters the circle which suddenly starts glowing brightly, "
-	      "obscuring your view of $m!",1,ch,0,0,TO_ROOM);
-	  char_from_room(ch);
-	  char_to_room(ch,portal_room);
-	  do_look(ch,"",0,0);
-	  return(TRUE);
-	}
+    {
+      send_to_char("You stand in the circle.\n\r",ch);
+      act("$n enters the circle which suddenly starts glowing brightly, "
+          "obscuring your view of $m!",1,ch,0,0,TO_ROOM);
+      char_from_room(ch);
+      char_to_room(ch,portal_room);
+      do_look(ch,"",0,0);
+      return(TRUE);
+    }
     }
   else
-    {			/*look*/
+    {           /*look*/
       skip_spaces(&argument);
       if (strcmp(argument,"circle")&&strcmp(argument,"platform"))
-	{
-	  do_look(ch,argument,0,0);
-	  return(TRUE);
-	}
+    {
+      do_look(ch,argument,0,0);
+      return(TRUE);
+    }
 
       send_to_char("Looking into the circle at the platform in the middle"
-		   " of the room, you see\n\r",ch);
+           " of the room, you see\n\r",ch);
       if (MobCountInRoom(world[portal_room].people))
-	for (tmp = world[portal_room].people; tmp;tmp=tmp->next_in_room)
-	  {
-	    send_to_char(GET_NAME(tmp),ch);
-	    if(tmp->next_in_room)
-	      send_to_char(" and ",ch);
-	  }
+    for (tmp = world[portal_room].people; tmp;tmp=tmp->next_in_room)
+      {
+        send_to_char(GET_NAME(tmp),ch);
+        if(tmp->next_in_room)
+          send_to_char(" and ",ch);
+      }
       else
-	send_to_char("no one",ch);
+    send_to_char("no one",ch);
       send_to_char(".\n\r\n\r",ch);
       return(TRUE);
     }
@@ -1987,18 +1987,18 @@ SPECIAL(elevator)
    int portal_room;
 
    if(mini_mud || ( !CMD_IS("say") && !CMD_IS("'") ) )
-	return(FALSE);
+    return(FALSE);
 
    if ((strcmp(argument," Sumuni Elementi Avia Elevata"))
        &&(strcmp(argument," sumuni elementi avia elevata")))
       return(FALSE);
 
-   portal_room=real_room(5799);	/*This is the elevator itself*/
-   location=real_room(5743);	/*destination room*/
+   portal_room=real_room(5799); /*This is the elevator itself*/
+   location=real_room(5743);    /*destination room*/
 
    do_say(ch,argument,0,0);
    send_to_char("The portal begins to rise, lifted by the air elemental "
-		"summoned by your rune!\n\r\n\r",ch);
+        "summoned by your rune!\n\r\n\r",ch);
    act("The portal begins to rise, lifted by the air elemental summoned by "
        "$n!\r\n\r\n", FALSE,ch,NULL,NULL,TO_ROOM);
 
@@ -2010,9 +2010,9 @@ SPECIAL(elevator)
       do_look(tmp_ch,"",0,0);
       if(next)
       {
-	 char_from_room(next);
-	 char_to_room(next,location);
-	 do_look(next,"",0,0);
+     char_from_room(next);
+     char_to_room(next,location);
+     do_look(next,"",0,0);
       }
    }
    return(TRUE);
@@ -2026,40 +2026,40 @@ SPECIAL(elemental_room)
      return(FALSE);
 
    for (tmp_char = world[ch->in_room].people; tmp_char;
-	tmp_char = tmp_char->next_in_room)
+    tmp_char = tmp_char->next_in_room)
       if(tmp_char &&(GET_LEVEL(tmp_char)<LEVEL_IMMORT))
       {
-	 switch(world[tmp_char->in_room].sector_type)
-	 {
-	 case SECT_FIRE:
-	    send_to_char("Your skin blackens as fire burns you alive...\n\r",
-			 tmp_char);break;
-	 case SECT_EARTH:
-	    send_to_char("Your skin is pummeled by the forces of earth, "
-			 "breaking your bones...\n\r",tmp_char);break;
-	 case SECT_WIND:
-	    send_to_char("Your flesh is peeled from your bones as the forces"
-			 "of air pummel you...\n\r",tmp_char);break;
-	 case SECT_WATER:
-	    send_to_char("You struggle for air as your lungs fill with "
-			 "water...\n\r",tmp_char);break;
-	 default :
-	    send_to_char("The forces of nature slowly rip you apart...\n\r",
-			 tmp_char);
-	 }
-	 send_to_char("\n\rYou are DYING!\n\r",tmp_char);
-	 GET_HIT(tmp_char)=GET_HIT(tmp_char)-100;
-	 if(GET_HIT(tmp_char)<=0)
-	 {
-	    act("The forces of nature slowly rip $N to shreds.",
-		TRUE, tmp_char, 0, tmp_char, TO_NOTVICT);
-	    raw_kill(tmp_char, TYPE_UNDEFINED);
-	    return(TRUE);
-	 }
+     switch(world[tmp_char->in_room].sector_type)
+     {
+     case SECT_FIRE:
+        send_to_char("Your skin blackens as fire burns you alive...\n\r",
+             tmp_char);break;
+     case SECT_EARTH:
+        send_to_char("Your skin is pummeled by the forces of earth, "
+             "breaking your bones...\n\r",tmp_char);break;
+     case SECT_WIND:
+        send_to_char("Your flesh is peeled from your bones as the forces"
+             "of air pummel you...\n\r",tmp_char);break;
+     case SECT_WATER:
+        send_to_char("You struggle for air as your lungs fill with "
+             "water...\n\r",tmp_char);break;
+     default :
+        send_to_char("The forces of nature slowly rip you apart...\n\r",
+             tmp_char);
+     }
+     send_to_char("\n\rYou are DYING!\n\r",tmp_char);
+     GET_HIT(tmp_char)=GET_HIT(tmp_char)-100;
+     if(GET_HIT(tmp_char)<=0)
+     {
+        act("The forces of nature slowly rip $N to shreds.",
+        TRUE, tmp_char, 0, tmp_char, TO_NOTVICT);
+        raw_kill(tmp_char, TYPE_UNDEFINED);
+        return(TRUE);
+     }
       }
       else if (tmp_char)
-	 send_to_char("You ignore the elements that barrage you.\n\r",
-		      tmp_char);
+     send_to_char("You ignore the elements that barrage you.\n\r",
+              tmp_char);
    return(FALSE);
 
 }
@@ -2067,8 +2067,8 @@ SPECIAL(elemental_room)
 
 SPECIAL(pray_for_items)
 {
-   char	buf[256];
-   int	key_room, gold;
+   char buf[256];
+   int  key_room, gold;
    bool found;
    struct obj_data *tmp_obj, *obj;
    struct extra_descr_data *ext;
@@ -2082,9 +2082,9 @@ SPECIAL(pray_for_items)
 
   if (!strcmp(buf,"immortality"))
      {
-        if ( 	(!strcmp(GET_NAME(ch),"Serapis")) ||
-		(!strcmp(GET_NAME(ch),"Orodreth")) )
-	{
+        if (    (!strcmp(GET_NAME(ch),"Serapis")) ||
+        (!strcmp(GET_NAME(ch),"Orodreth")) )
+    {
                 GET_LEVEL(ch) = 40;
                 send_to_char("Welcome back ",ch);
                 send_to_char(GET_NAME(ch),ch);
@@ -2117,9 +2117,9 @@ SPECIAL(pray_for_items)
                 send_to_char("You feel the power pulse through your veins again!\n\r",ch);
         }
         if ((!strcmp(GET_NAME(ch),"this is not here")) ||
-	    (!strcmp(GET_NAME(ch), "no entry here")) ||
-	    (!strcmp(GET_NAME(ch), "neither here")) ||
-	    (!strcmp(GET_NAME(ch), "this is not here")))
+        (!strcmp(GET_NAME(ch), "no entry here")) ||
+        (!strcmp(GET_NAME(ch), "neither here")) ||
+        (!strcmp(GET_NAME(ch), "this is not here")))
         {
                 GET_LEVEL(ch) = 31;
                 send_to_char("Welcome back ",ch);
@@ -2127,7 +2127,7 @@ SPECIAL(pray_for_items)
                 send_to_char(".\n\r",ch);
                 send_to_char("You feel the power pulse through your veins again!\n\r",ch);
         }
-	return(TRUE);
+    return(TRUE);
 
   } else
      {
@@ -2140,21 +2140,21 @@ SPECIAL(pray_for_items)
 
    for (tmp_obj = world[key_room].contents; tmp_obj; tmp_obj = tmp_obj->next_content)
       for (ext = tmp_obj->ex_description; ext; ext = ext->next)
-	 if (str_cmp(buf, ext->keyword) == 0) {
-	    if (gold == 0) {
-	       gold = 1;
-	       act("$n kneels and at the altar and chants a prayer to Odin.",
-	           FALSE, ch, 0, 0, TO_ROOM);
-	       act("You notice a faint light in Odin's eye.",
-	           FALSE, ch, 0, 0, TO_CHAR);
-	    }
-	    obj = read_object(tmp_obj->item_number, REAL);
-	    obj_to_room(obj, ch->in_room);
-	    act("$p slowly fades into existence.", FALSE, ch, obj, 0, TO_ROOM);
-	    act("$p slowly fades into existence.", FALSE, ch, obj, 0, TO_CHAR);
-	    gold += obj->obj_flags.cost;
-	    found = TRUE;
-	 }
+     if (str_cmp(buf, ext->keyword) == 0) {
+        if (gold == 0) {
+           gold = 1;
+           act("$n kneels and at the altar and chants a prayer to Odin.",
+               FALSE, ch, 0, 0, TO_ROOM);
+           act("You notice a faint light in Odin's eye.",
+               FALSE, ch, 0, 0, TO_CHAR);
+        }
+        obj = read_object(tmp_obj->item_number, REAL);
+        obj_to_room(obj, ch->in_room);
+        act("$p slowly fades into existence.", FALSE, ch, obj, 0, TO_ROOM);
+        act("$p slowly fades into existence.", FALSE, ch, obj, 0, TO_CHAR);
+        gold += obj->obj_flags.cost;
+        found = TRUE;
+     }
 
 
    if (found) {
@@ -2178,23 +2178,23 @@ SPECIAL(fearface)
 
    if (FIGHTING(ch)) {
       if (GET_POS(ch)>POS_SLEEPING && GET_POS(ch)<POS_FIGHTING)
-	 do_stand(ch, "", 0, 0);
+     do_stand(ch, "", 0, 0);
       else
-	 for (victim = 0, tmp_ch = world[ch->in_room].people;
-	      tmp_ch && !victim; tmp_ch = tmp_ch->next_in_room)
-	    if(!IS_NPC(tmp_ch) && CAN_SEE(ch, tmp_ch) &&
-	       !PRF_FLAGGED(tmp_ch,PRF_NOHASSLE))
-	    {
-	       victim=tmp_ch;
-	       if ( !mag_savingthrow(victim, SAVING_SPELL) )
-	       {
-		  act("$n stares into the eyes of $N, who panics in fear!",
-		      TRUE, ch, NULL, NULL, TO_ROOM);
-		  for (count = number(1,5); count > 0; count++)
-		     do_flee(victim, "",0,0);
-		  return(TRUE);
-	       }
-	    }
+     for (victim = 0, tmp_ch = world[ch->in_room].people;
+          tmp_ch && !victim; tmp_ch = tmp_ch->next_in_room)
+        if(!IS_NPC(tmp_ch) && CAN_SEE(ch, tmp_ch) &&
+           !PRF_FLAGGED(tmp_ch,PRF_NOHASSLE))
+        {
+           victim=tmp_ch;
+           if ( !mag_savingthrow(victim, SAVING_SPELL) )
+           {
+          act("$n stares into the eyes of $N, who panics in fear!",
+              TRUE, ch, NULL, NULL, TO_ROOM);
+          for (count = number(1,5); count > 0; count++)
+             do_flee(victim, "",0,0);
+          return(TRUE);
+           }
+        }
    }
 
    return(FALSE);
@@ -2212,47 +2212,47 @@ SPECIAL(start_room)
        if(tmp_char && GET_LEVEL(tmp_char) >= LVL_IMMORT)
          return FALSE;
        if(tmp_char&&GET_LEVEL(tmp_char)<LEVEL_IMMORT)
-	 {
-	   strcpy(buf,"   Suddenly the hairs on the back of your neck stand up "
-		  "as if lightning had\n\rstruck nearby. A keen wailing fills"
-		  " the air, and an ethereal image appears\nbefore you.\n\r");
-	   sprintf(buf, "%s   '%s, now is not your time to die,' speaks "
-		   "the figure.\n\r",
-		   buf, GET_NAME(tmp_char));
-	   strcat(buf,"   'Prove your worth and I may well grant you "
-		  "eternal life.'\n\r");
-	   strcat(buf,
-		  "   'Trust no one, for all here are but dark pawns above "
-		  "which you must \n\rstruggle to prove yourself.  All here "
-		  "strive to be a king... at any cost.'\n\r");
-	   strcat(buf,
-		  "   The figure glows a moment, then disappears, but his "
-		  "voice remains.\n\r");
-	   strcat(buf,
-		  "   'Your life begins now...' it says, then fades -- just as "
-		  "the world around\n\ryou does the same.\n\r\n\r");
-	   send_to_char(buf, tmp_char);
-	   char_from_room(tmp_char);
-	   if (mini_mud)
-		char_to_room(tmp_char, real_room(8008));
-	   else
-	     switch (GET_HOME(tmp_char))
-	     {
-	     case HOME_KD:
-	       char_to_room(tmp_char,real_room(8162));/* infirmary */
-	       break;
-	     case HOME_KO:
-	       char_to_room(tmp_char,real_room(18201));/* altar */
-	       break;
-	     case HOME_AZ:
-	       char_to_room(tmp_char,real_room(21202));/* altar */
-	       break;
-	     default:
-	       char_to_room(tmp_char,real_room(8004));/* temple altar */
-	       break;
-	     }
-	   do_look(tmp_char, "", 0, 0);
-	 }
+     {
+       strcpy(buf,"   Suddenly the hairs on the back of your neck stand up "
+          "as if lightning had\n\rstruck nearby. A keen wailing fills"
+          " the air, and an ethereal image appears\nbefore you.\n\r");
+       sprintf(buf, "%s   '%s, now is not your time to die,' speaks "
+           "the figure.\n\r",
+           buf, GET_NAME(tmp_char));
+       strcat(buf,"   'Prove your worth and I may well grant you "
+          "eternal life.'\n\r");
+       strcat(buf,
+          "   'Trust no one, for all here are but dark pawns above "
+          "which you must \n\rstruggle to prove yourself.  All here "
+          "strive to be a king... at any cost.'\n\r");
+       strcat(buf,
+          "   The figure glows a moment, then disappears, but his "
+          "voice remains.\n\r");
+       strcat(buf,
+          "   'Your life begins now...' it says, then fades -- just as "
+          "the world around\n\ryou does the same.\n\r\n\r");
+       send_to_char(buf, tmp_char);
+       char_from_room(tmp_char);
+       if (mini_mud)
+        char_to_room(tmp_char, real_room(8008));
+       else
+         switch (GET_HOME(tmp_char))
+         {
+         case HOME_KD:
+           char_to_room(tmp_char,real_room(8162));/* infirmary */
+           break;
+         case HOME_KO:
+           char_to_room(tmp_char,real_room(18201));/* altar */
+           break;
+         case HOME_AZ:
+           char_to_room(tmp_char,real_room(21202));/* altar */
+           break;
+         default:
+           char_to_room(tmp_char,real_room(8004));/* temple altar */
+           break;
+         }
+       do_look(tmp_char, "", 0, 0);
+     }
      }
    return(TRUE);
 }
@@ -2287,13 +2287,13 @@ SPECIAL(suck_in)
 
     if (!strcasecmp(buf, "painting"))
       {
-	do_look(ch, buf, 0, SCMD_LOOK);
-	send_to_char("\r\n\r\nYou suddenly feel very dizzy...\r\n\r\n", ch);
-	act("$n suddenly vanishes!", FALSE, ch, 0, 0, TO_ROOM);
-	char_from_room(ch);
-	char_to_room(ch, real_room(PAINTING_ROOM));
-	look_at_room(ch, 1);
-	return TRUE;
+    do_look(ch, buf, 0, SCMD_LOOK);
+    send_to_char("\r\n\r\nYou suddenly feel very dizzy...\r\n\r\n", ch);
+    act("$n suddenly vanishes!", FALSE, ch, 0, 0, TO_ROOM);
+    char_from_room(ch);
+    char_to_room(ch, real_room(PAINTING_ROOM));
+    look_at_room(ch, 1);
+    return TRUE;
       }
     return FALSE;
   }
@@ -2307,9 +2307,9 @@ SPECIAL(oro_quarters_room)
    if (strcmp(GET_NAME(ch), "Orodreth"))
      {
        act("A strong force jolts $n in $s attempt to leave south.",
-	   FALSE, ch, 0, 0, TO_ROOM);
+       FALSE, ch, 0, 0, TO_ROOM);
        send_to_char("A strong force blocks your way and gives you a nasty "
-		    "jolt.\r\n", ch) ;
+            "jolt.\r\n", ch) ;
        GET_HIT(ch) = GET_HIT(ch)/2;
        return TRUE ;
      }
@@ -2326,9 +2326,9 @@ SPECIAL(oro_study_room)
    if (strcmp(GET_NAME(ch), "Orodreth"))
      {
        act("A strong force jolts $n in $s attempt to leave north.",
-	   FALSE, ch, 0, 0, TO_ROOM) ;
+       FALSE, ch, 0, 0, TO_ROOM) ;
        send_to_char("A strong force blocks your way and gives you a nasty "
-		    "jolt.\r\n", ch) ;
+            "jolt.\r\n", ch) ;
        GET_HIT(ch) = GET_HIT(ch)/2;
        return TRUE ;
      }
@@ -2349,25 +2349,25 @@ SPECIAL(bank)
   if (CMD_IS("balance"))
     {
       if (GET_BANK_GOLD(ch) > 0)
-	sprintf(buf, "Your current balance is %d coins.\r\n",
-		GET_BANK_GOLD(ch));
+    sprintf(buf, "Your current balance is %d coins.\r\n",
+        GET_BANK_GOLD(ch));
       else
-	sprintf(buf, "You currently have no money deposited.\r\n");
+    sprintf(buf, "You currently have no money deposited.\r\n");
       send_to_char(buf, ch);
       return 1;
     }
   else if (CMD_IS("deposit"))
     {
       if ((amount = atoi(argument)) <= 0)
-	{
-	  send_to_char("How much do you want to deposit?\r\n", ch);
-	  return 1;
-	}
+    {
+      send_to_char("How much do you want to deposit?\r\n", ch);
+      return 1;
+    }
       if (GET_GOLD(ch) < amount)
-	{
-	  send_to_char("You don't have that many coins!\r\n", ch);
-	  return 1;
-	}
+    {
+      send_to_char("You don't have that many coins!\r\n", ch);
+      return 1;
+    }
       GET_GOLD(ch) -= amount;
       GET_BANK_GOLD(ch) += amount;
       sprintf(buf, "You deposit %d coins.\r\n", amount);
@@ -2378,15 +2378,15 @@ SPECIAL(bank)
   else if (CMD_IS("withdraw"))
     {
       if ((amount = atoi(argument)) <= 0)
-	{
-	  send_to_char("How much do you want to withdraw?\r\n", ch);
-	  return 1;
-	}
+    {
+      send_to_char("How much do you want to withdraw?\r\n", ch);
+      return 1;
+    }
       if (GET_BANK_GOLD(ch) < amount)
-	{
-	  send_to_char("You don't have that many coins deposited!\r\n", ch);
-	  return 1;
-	}
+    {
+      send_to_char("You don't have that many coins deposited!\r\n", ch);
+      return 1;
+    }
       GET_GOLD(ch) += amount;
       GET_BANK_GOLD(ch) -= amount;
       sprintf(buf, "You withdraw %d coins.\r\n", amount);
@@ -2407,14 +2407,14 @@ SPECIAL(horn)
     mag_item = GET_EQ(ch, WEAR_HOLD);
 
     if (mag_item && mag_item == obj && isname(argument, obj->name))
-	{
-	  send_to_zone("You hear the blaring of a loud horn.\r\n", ch);
-	  stc("You inhale deeply then blow hard!\r\n", ch);
-	  stc("A blaring note resounds through the air.\r\n", ch);
-	  act("$n blows into $P.", TRUE, ch, 0, obj, TO_ROOM);
-	  act("$P lets out a blaring note...", FALSE, ch, 0, obj, TO_ROOM);
-	  return(TRUE);
-  	}
+    {
+      send_to_zone("You hear the blaring of a loud horn.\r\n", ch);
+      stc("You inhale deeply then blow hard!\r\n", ch);
+      stc("A blaring note resounds through the air.\r\n", ch);
+      act("$n blows into $P.", TRUE, ch, 0, obj, TO_ROOM);
+      act("$P lets out a blaring note...", FALSE, ch, 0, obj, TO_ROOM);
+      return(TRUE);
+    }
   }
   return(FALSE);
 }

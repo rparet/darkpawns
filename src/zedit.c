@@ -1,8 +1,8 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 *  _TwyliteMud_ by Rv.                          Based on CircleMud3.0bpl9 *
-*    				                                          *
-*  OasisOLC - zedit.c 		                                          *
-*    				                                          *
+*                                                             *
+*  OasisOLC - zedit.c                                                 *
+*                                                             *
 *  Copyright 1996 Harvey Gilpin.                                          *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
@@ -16,15 +16,15 @@
 
 /*-------------------------------------------------------------------*/
 /*. external data areas .*/
-extern struct zone_data *zone_table;	/*. db.c	.*/
-extern struct room_data *world;		/*. db.c	.*/
-extern int top_of_zone_table;		/*. db.c	.*/
-extern struct char_data *mob_proto;	/*. db.c	.*/
-extern struct index_data *mob_index;	/*. db.c	.*/
-extern struct obj_data *obj_proto;	/*. db.c	.*/
-extern struct index_data *obj_index;	/*. db.c	.*/
-extern char *equipment_types[];		/*. constants.c	.*/
-extern char *dirs[];			/*. constants.c .*/
+extern struct zone_data *zone_table;    /*. db.c    .*/
+extern struct room_data *world;     /*. db.c    .*/
+extern int top_of_zone_table;       /*. db.c    .*/
+extern struct char_data *mob_proto; /*. db.c    .*/
+extern struct index_data *mob_index;    /*. db.c    .*/
+extern struct obj_data *obj_proto;  /*. db.c    .*/
+extern struct index_data *obj_index;    /*. db.c    .*/
+extern char *equipment_types[];     /*. constants.c .*/
+extern char *dirs[];            /*. constants.c .*/
 
 /*-------------------------------------------------------------------*/
 /* function protos */
@@ -68,8 +68,8 @@ void zedit_setup(struct  descriptor_data *d, int room_num)
   zone->top = zone_table[OLC_ZNUM(d)].top;
   zone->reset_mode = zone_table[OLC_ZNUM(d)].reset_mode;
   /*. The remaining fields are used as a 'has been modified' flag .*/
-  zone->number = 0;   	/*. Header info has changed .*/
-  zone->age = 0;	/*. Commands have changed   .*/
+  zone->number = 0;     /*. Header info has changed .*/
+  zone->age = 0;    /*. Commands have changed   .*/
 
   /*. Start the reset command list with a terminator .*/
   CREATE(zone->cmd, struct reset_com, 1);
@@ -134,13 +134,13 @@ zedit_new_zone(struct char_data *ch, int vzone_num)
     return;
   }
   fprintf(fp,
-	"#%d\n"
-	"New Zone~\n"
-	"%d 30 2\n"
-	"S\n"
-	"$\n",
-	vzone_num,
-	(vzone_num * 100) + 99
+    "#%d\n"
+    "New Zone~\n"
+    "%d 30 2\n"
+    "S\n"
+    "$\n",
+    vzone_num,
+    (vzone_num * 100) + 99
   );
   fclose(fp);
 
@@ -151,15 +151,15 @@ zedit_new_zone(struct char_data *ch, int vzone_num)
     return;
   }
   fprintf(fp,
-	"#%d\n"
-    	"The Begining~\n"
-	"Not much here.\n"
-	"~\n"
-	"%d 0 0\n"
-	"S\n"
-	"$\n",
-	vzone_num * 100,
- 	vzone_num
+    "#%d\n"
+        "The Begining~\n"
+    "Not much here.\n"
+    "~\n"
+    "%d 0 0\n"
+    "S\n"
+    "$\n",
+    vzone_num * 100,
+    vzone_num
   );
   fclose(fp);
 
@@ -286,9 +286,9 @@ void zedit_create_index(int znum, char *type)
     if (!found) {
       sscanf(buf, "%d", &num);
       if (num >= znum) {
-	found = TRUE;
-	if (num > znum)
-	  fprintf(newfile, "%s\n", buf1);
+    found = TRUE;
+    if (num > znum)
+      fprintf(newfile, "%s\n", buf1);
       }
     }
     fprintf(newfile, "%s\n", buf);
@@ -341,10 +341,10 @@ void zedit_save_internally(struct descriptor_data *d)
   /*. Finally, if zone headers have been changed, copy over .*/
   if (OLC_ZONE(d)->number)
   { FREE(zone_table[OLC_ZNUM(d)].name);
-    zone_table[OLC_ZNUM(d)].name 	= str_dup(OLC_ZONE(d)->name);
-    zone_table[OLC_ZNUM(d)].top 	= OLC_ZONE(d)->top;
-    zone_table[OLC_ZNUM(d)].reset_mode 	= OLC_ZONE(d)->reset_mode;
-    zone_table[OLC_ZNUM(d)].lifespan 	= OLC_ZONE(d)->lifespan;
+    zone_table[OLC_ZNUM(d)].name    = str_dup(OLC_ZONE(d)->name);
+    zone_table[OLC_ZNUM(d)].top     = OLC_ZONE(d)->top;
+    zone_table[OLC_ZNUM(d)].reset_mode  = OLC_ZONE(d)->reset_mode;
+    zone_table[OLC_ZNUM(d)].lifespan    = OLC_ZONE(d)->lifespan;
   }
   olc_add_to_save_list(zone_table[OLC_ZNUM(d)].number, OLC_SAVE_ZONE);
 }
@@ -372,13 +372,13 @@ void zedit_save_to_disk(struct descriptor_data *d)
 
   /*. Print zone header to file .*/
   sprintf(buf,
-	"#%d\n"
-  	"%s~\n"
-  	"%d %d %d\n",
-	zone_table[OLC_ZNUM(d)].number,
-	zone_table[OLC_ZNUM(d)].name ? zone_table[OLC_ZNUM(d)].name : "undefined",
- 	zone_table[OLC_ZNUM(d)].top,
-    	zone_table[OLC_ZNUM(d)].lifespan,
+    "#%d\n"
+    "%s~\n"
+    "%d %d %d\n",
+    zone_table[OLC_ZNUM(d)].number,
+    zone_table[OLC_ZNUM(d)].name ? zone_table[OLC_ZNUM(d)].name : "undefined",
+    zone_table[OLC_ZNUM(d)].top,
+        zone_table[OLC_ZNUM(d)].lifespan,
         zone_table[OLC_ZNUM(d)].reset_mode
   );
   fprintf(zfile, buf);
@@ -386,48 +386,48 @@ void zedit_save_to_disk(struct descriptor_data *d)
   for(subcmd = 0; ZCMD.command != 'S'; subcmd++) {
     switch (ZCMD.command) {
       case 'M':
-	arg1 = mob_index[ZCMD.arg1].virtual;
-	arg2 = ZCMD.arg2;
-	arg3 = world[ZCMD.arg3].number;
-	break;
+    arg1 = mob_index[ZCMD.arg1].virtual;
+    arg2 = ZCMD.arg2;
+    arg3 = world[ZCMD.arg3].number;
+    break;
       case 'O':
-	arg1 = obj_index[ZCMD.arg1].virtual;
-	arg2 = ZCMD.arg2;
-	arg3 = world[ZCMD.arg3].number;
-	break;
+    arg1 = obj_index[ZCMD.arg1].virtual;
+    arg2 = ZCMD.arg2;
+    arg3 = world[ZCMD.arg3].number;
+    break;
       case 'G':
- 	arg1 = obj_index[ZCMD.arg1].virtual;
-	arg2 = ZCMD.arg2;
-	arg3 = -1;
-	break;
+    arg1 = obj_index[ZCMD.arg1].virtual;
+    arg2 = ZCMD.arg2;
+    arg3 = -1;
+    break;
       case 'E':
-	arg1 = obj_index[ZCMD.arg1].virtual;
-	arg2 = ZCMD.arg2;
-	arg3 = ZCMD.arg3;
-	break;
+    arg1 = obj_index[ZCMD.arg1].virtual;
+    arg2 = ZCMD.arg2;
+    arg3 = ZCMD.arg3;
+    break;
       case 'P':
-	arg1 = obj_index[ZCMD.arg1].virtual;
-	arg2 = ZCMD.arg2;
-	arg3 = obj_index[ZCMD.arg3].virtual;
-	break;
+    arg1 = obj_index[ZCMD.arg1].virtual;
+    arg2 = ZCMD.arg2;
+    arg3 = obj_index[ZCMD.arg3].virtual;
+    break;
       case 'D':
-	arg1 = world[ZCMD.arg1].number;
-	arg2 = ZCMD.arg2;
-	arg3 = ZCMD.arg3;
-	break;
+    arg1 = world[ZCMD.arg1].number;
+    arg2 = ZCMD.arg2;
+    arg3 = ZCMD.arg3;
+    break;
       case 'R':
-	arg1 = world[ZCMD.arg1].number;
-	arg2 = ZCMD.arg2;
-	if (ZCMD.arg2)
-	  arg3 = obj_index[ZCMD.arg3].virtual;
-	else
-	  arg3 = mob_index[ZCMD.arg3].virtual;
-	break;
+    arg1 = world[ZCMD.arg1].number;
+    arg2 = ZCMD.arg2;
+    if (ZCMD.arg2)
+      arg3 = obj_index[ZCMD.arg3].virtual;
+    else
+      arg3 = mob_index[ZCMD.arg3].virtual;
+    break;
       case 'L':
-	arg1 = world[ZCMD.arg1].number;
-	arg2 = ZCMD.arg2;
-	arg3 = ZCMD.arg3;
-	break;
+    arg1 = world[ZCMD.arg1].number;
+    arg2 = ZCMD.arg2;
+    arg3 = ZCMD.arg3;
+    break;
       case '*':
         /*. Invalid commands are replaced with '*' - Ignore them .*/
         continue;
@@ -437,7 +437,7 @@ void zedit_save_to_disk(struct descriptor_data *d)
         continue;
     }
     fprintf(zfile, "%c %d %d %d %d\n",
-	ZCMD.command, ZCMD.if_flag, arg1, arg2, arg3);
+    ZCMD.command, ZCMD.if_flag, arg1, arg2, arg3);
   }
   fprintf(zfile, "S\n$\n");
   fclose(zfile);
@@ -571,16 +571,16 @@ void zedit_disp_menu(struct descriptor_data * d)
 
   /*. Menu header .*/
   snprintf(buf, MAX_STRING_LENGTH,
-  	"\r\n"
-	"Room number: %s%d%s		Room zone: %s%d\r\n"
+    "\r\n"
+    "Room number: %s%d%s        Room zone: %s%d\r\n"
         "%sZ%s) Zone name   : %s%s\r\n"
         "%sL%s) Lifespan    : %s%d minutes\r\n"
         "%sT%s) Top of zone : %s%d\r\n"
         "%sR%s) Reset Mode  : %s%s%s\r\n"
         "[Command list]\r\n",
 
-	cyn, OLC_NUM(d), nrm,
-	cyn, zone_table[OLC_ZNUM(d)].number,
+    cyn, OLC_NUM(d), nrm,
+    cyn, zone_table[OLC_ZNUM(d)].number,
         grn, nrm, yel, OLC_ZONE(d)->name ? OLC_ZONE(d)->name : "<NONE!>",
         grn, nrm, yel, OLC_ZONE(d)->lifespan,
         grn, nrm, yel, OLC_ZONE(d)->top,
@@ -597,68 +597,68 @@ void zedit_disp_menu(struct descriptor_data * d)
     switch(MYCMD.command)
     { case'M':
         sprintf(buf2, "%s%sLoad %s [%s%d%s], Max : %d",
-		repeat ? "  " : "",
+        repeat ? "  " : "",
                 MYCMD.if_flag ? " then " : "",
-		mob_proto[MYCMD.arg1].player.short_descr,
+        mob_proto[MYCMD.arg1].player.short_descr,
                 cyn, mob_index[MYCMD.arg1].virtual, yel,
-		MYCMD.arg2
+        MYCMD.arg2
         );
         break;
       case'G':
         sprintf(buf2, "%s%sGive it %s [%s%d%s], Max : %d",
-		repeat ? "  " : "",
-		MYCMD.if_flag ? " then " : "",
-		obj_proto[MYCMD.arg1].short_description,
+        repeat ? "  " : "",
+        MYCMD.if_flag ? " then " : "",
+        obj_proto[MYCMD.arg1].short_description,
                 cyn, obj_index[MYCMD.arg1].virtual, yel,
-		MYCMD.arg2
+        MYCMD.arg2
         );
         break;
       case'O':
         sprintf(buf2, "%s%sLoad %s [%s%d%s], Max : %d",
-		repeat ? "  " : "",
-		MYCMD.if_flag ? " then " : "",
-		obj_proto[MYCMD.arg1].short_description,
+        repeat ? "  " : "",
+        MYCMD.if_flag ? " then " : "",
+        obj_proto[MYCMD.arg1].short_description,
                 cyn, obj_index[MYCMD.arg1].virtual, yel,
-		MYCMD.arg2
+        MYCMD.arg2
         );
         break;
       case'E':
         sprintf(buf2, "%s%sEquip with %s [%s%d%s], %s, Max : %d",
-		repeat ? "  " : "",
-		MYCMD.if_flag ? " then " : "",
-		obj_proto[MYCMD.arg1].short_description,
+        repeat ? "  " : "",
+        MYCMD.if_flag ? " then " : "",
+        obj_proto[MYCMD.arg1].short_description,
                 cyn, obj_index[MYCMD.arg1].virtual, yel,
-		equipment_types[MYCMD.arg3],
-		MYCMD.arg2
+        equipment_types[MYCMD.arg3],
+        MYCMD.arg2
         );
         break;
       case'P':
         sprintf(buf2, "%s%sPut %s [%s%d%s] in %s [%s%d%s], Max : %d",
-		repeat ? "  " : "",
-		MYCMD.if_flag ? " then " : "",
-		obj_proto[MYCMD.arg1].short_description,
+        repeat ? "  " : "",
+        MYCMD.if_flag ? " then " : "",
+        obj_proto[MYCMD.arg1].short_description,
                 cyn, obj_index[MYCMD.arg1].virtual, yel,
-		obj_proto[MYCMD.arg3].short_description,
+        obj_proto[MYCMD.arg3].short_description,
                 cyn, obj_index[MYCMD.arg3].virtual, yel,
-		MYCMD.arg2
+        MYCMD.arg2
         );
         break;
       case'R':
         sprintf(buf2, "%s%sRemove %s [%s%d%s] from room.",
-		repeat ? "  " : "",
-		MYCMD.if_flag ? " then " : "",
-		MYCMD.arg2 ? obj_proto[MYCMD.arg3].short_description : mob_proto[MYCMD.arg3].player.short_descr,
-		cyn,
-		MYCMD.arg2 ? obj_index[MYCMD.arg3].virtual : mob_index[MYCMD.arg3].virtual,
-		yel
+        repeat ? "  " : "",
+        MYCMD.if_flag ? " then " : "",
+        MYCMD.arg2 ? obj_proto[MYCMD.arg3].short_description : mob_proto[MYCMD.arg3].player.short_descr,
+        cyn,
+        MYCMD.arg2 ? obj_index[MYCMD.arg3].virtual : mob_index[MYCMD.arg3].virtual,
+        yel
         );
         break;
       case'D':
         sprintf(buf2, "%s%sSet door %s as %s.",
-		repeat ? "  " : "",
-		MYCMD.if_flag ? " then " : "",
-		dirs[MYCMD.arg2],
-		MYCMD.arg3 ? ((MYCMD.arg3 == 1) ?
+        repeat ? "  " : "",
+        MYCMD.if_flag ? " then " : "",
+        dirs[MYCMD.arg2],
+        MYCMD.arg3 ? ((MYCMD.arg3 == 1) ?
                   "closed" : "locked") : "open"
         );
         break;
@@ -687,12 +687,12 @@ void zedit_disp_menu(struct descriptor_data * d)
   }
   /*. Finish off menu .*/
   sprintf(buf1,
-		"%s%d - <END OF LIST>\r\n"
-		"%sN%s) New command.\r\n"
-		"%sE%s) Edit a command.\r\n"
-		"%sD%s) Delete a command.\r\n"
-		"%sQ%s) Quit\r\nEnter your choice : ",
-		nrm, counter,
+        "%s%d - <END OF LIST>\r\n"
+        "%sN%s) New command.\r\n"
+        "%sE%s) Edit a command.\r\n"
+        "%sD%s) Delete a command.\r\n"
+        "%sQ%s) Quit\r\nEnter your choice : ",
+        nrm, counter,
                 grn, nrm, grn, nrm, grn, nrm, grn, nrm
   );
 
@@ -837,9 +837,9 @@ void zedit_disp_arg3(struct descriptor_data *d)
       break;
     case 'R':
       if (OLC_CMD(d).arg2)
-	send_to_char("Input object's vnum : ", d->character);
+    send_to_char("Input object's vnum : ", d->character);
       else
-	send_to_char("Input mobile's vnum : ", d->character);
+    send_to_char("Input mobile's vnum : ", d->character);
       break;
     case 'M':
     case 'O':
@@ -895,12 +895,12 @@ void zedit_parse(struct descriptor_data * d, char *arg)
     { case 'q':
       case 'Q':
         if (OLC_ZONE(d)->age || OLC_ZONE(d)->number) {
-	  send_to_char(
-	    "Do you wish to save the changes to the zone info? (y/n) : ",
-	    d->character);
+      send_to_char(
+        "Do you wish to save the changes to the zone info? (y/n) : ",
+        d->character);
           OLC_MODE(d) = ZEDIT_CONFIRM_SAVESTRING;
         } else {
-	  send_to_char("No changes made.\r\n", d->character);
+      send_to_char("No changes made.\r\n", d->character);
           cleanup_olc(d, CLEANUP_ALL);
         }
         break;
@@ -1258,8 +1258,8 @@ void zedit_parse(struct descriptor_data * d, char *arg)
       OLC_ZONE(d)->top = MAX(OLC_ZNUM(d) * 100, MIN(32000, atoi(arg)));
     else
       OLC_ZONE(d)->top =
-	MAX(OLC_ZNUM(d) * 100,
-	    MIN(zone_table[OLC_ZNUM(d) + 1].number * 100 - 1, atoi(arg)));
+    MAX(OLC_ZNUM(d) * 100,
+        MIN(zone_table[OLC_ZNUM(d) + 1].number * 100 - 1, atoi(arg)));
     if (old_top != OLC_ZONE(d)->top)
       OLC_ZONE(d)->number = 1;
     zedit_disp_menu(d);

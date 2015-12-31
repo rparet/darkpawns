@@ -1,8 +1,8 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 *  _TwyliteMud_ by Rv.                          Based on CircleMud3.0bpl9 *
-*    				                                          *
-*  OasisOLC - redit.c 		                                          *
-*    				                                          *
+*                                                             *
+*  OasisOLC - redit.c                                                 *
+*                                                             *
 *  Copyright 1996 Harvey Gilpin.                                          *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 /*. Original author: Levork .*/
@@ -93,18 +93,18 @@ redit_setup_existing(struct descriptor_data *d, int real_num)
   for (counter = 0; counter < NUM_OF_DIRS; counter++)
     {
       if (world[real_num].dir_option[counter])
-	{
-	  CREATE(room->dir_option[counter], struct room_direction_data, 1);
-	  /* copy numbers over */
-	  *room->dir_option[counter] = *world[real_num].dir_option[counter];
-	  /* CREATE strings */
-	  if (world[real_num].dir_option[counter]->general_description)
-	    room->dir_option[counter]->general_description =
-	      str_dup(world[real_num].dir_option[counter]->general_description);
-	  if (world[real_num].dir_option[counter]->keyword)
-	    room->dir_option[counter]->keyword =
-	      str_dup(world[real_num].dir_option[counter]->keyword);
-	}
+    {
+      CREATE(room->dir_option[counter], struct room_direction_data, 1);
+      /* copy numbers over */
+      *room->dir_option[counter] = *world[real_num].dir_option[counter];
+      /* CREATE strings */
+      if (world[real_num].dir_option[counter]->general_description)
+        room->dir_option[counter]->general_description =
+          str_dup(world[real_num].dir_option[counter]->general_description);
+      if (world[real_num].dir_option[counter]->keyword)
+        room->dir_option[counter]->keyword =
+          str_dup(world[real_num].dir_option[counter]->keyword);
+    }
     }
 
   /*. Extra descriptions if necessary .*/
@@ -114,20 +114,20 @@ redit_setup_existing(struct descriptor_data *d, int real_num)
       CREATE (temp, struct extra_descr_data, 1);
       room->ex_description = temp;
       for (this = world[real_num].ex_description; this; this = this->next)
-	{
-	  if (this->keyword)
-	    temp->keyword = str_dup (this->keyword);
-	  if (this->description)
-	    temp->description = str_dup (this->description);
-	  if (this->next)
-	    {
-	      CREATE (temp2, struct extra_descr_data, 1);
-	      temp->next = temp2;
-	      temp = temp2;
-	    }
-	  else
-	    temp->next = NULL;
-	}
+    {
+      if (this->keyword)
+        temp->keyword = str_dup (this->keyword);
+      if (this->description)
+        temp->description = str_dup (this->description);
+      if (this->next)
+        {
+          CREATE (temp2, struct extra_descr_data, 1);
+          temp->next = temp2;
+          temp = temp2;
+        }
+      else
+        temp->next = NULL;
+    }
     }
 
   /*. Attatch room copy to players descriptor .*/
@@ -164,69 +164,69 @@ redit_save_internally(struct descriptor_data *d)
 
       /* count thru world tables */
       for (i = 0; i <= top_of_world; i++)
-	{
-	  if (!found)
-	    {
-	      /*. Is this the place? .*/
-	      if (world[i].number > OLC_NUM(d))
-		{
-		  found = 1;
+    {
+      if (!found)
+        {
+          /*. Is this the place? .*/
+          if (world[i].number > OLC_NUM(d))
+        {
+          found = 1;
 
-		  new_world[i] = *(OLC_ROOM(d));
-		  new_world[i].number = OLC_NUM(d);
-		  new_world[i].func = NULL;
+          new_world[i] = *(OLC_ROOM(d));
+          new_world[i].number = OLC_NUM(d);
+          new_world[i].func = NULL;
                   CREATE(new_world[i].script, struct script_data, 1);
                   new_world[i].script->name = NULL;
                   new_world[i].script->lua_functions = 0;
-		  room_num  = i;
+          room_num  = i;
 
-		  /* copy from world to new_world + 1 */
-		  new_world[i + 1] = world[i];
-		  /* people in this room must have their numbers moved */
-		  for (temp_ch = world[i].people; temp_ch;
-		       temp_ch = temp_ch->next_in_room)
-		    if (temp_ch->in_room != -1)
-		      temp_ch->in_room = i + 1;
+          /* copy from world to new_world + 1 */
+          new_world[i + 1] = world[i];
+          /* people in this room must have their numbers moved */
+          for (temp_ch = world[i].people; temp_ch;
+               temp_ch = temp_ch->next_in_room)
+            if (temp_ch->in_room != -1)
+              temp_ch->in_room = i + 1;
 
-		  /* move objects */
-		  for (temp_obj = world[i].contents; temp_obj;
-		       temp_obj = temp_obj->next_content)
-		    if (temp_obj->in_room != -1)
-		      temp_obj->in_room = i + 1;
-		}
-	      else
-		{ /*.   Not yet placed, copy straight over .*/
-		  new_world[i] = world[i];
-		}
-	    }
-	  else
-	    { /*. Already been found  .*/
+          /* move objects */
+          for (temp_obj = world[i].contents; temp_obj;
+               temp_obj = temp_obj->next_content)
+            if (temp_obj->in_room != -1)
+              temp_obj->in_room = i + 1;
+        }
+          else
+        { /*.   Not yet placed, copy straight over .*/
+          new_world[i] = world[i];
+        }
+        }
+      else
+        { /*. Already been found  .*/
 
-	      /* people in this room must have their in_rooms moved */
-	      for (temp_ch = world[i].people; temp_ch;
-		   temp_ch = temp_ch->next_in_room)
-		if (temp_ch->in_room != -1)
-		  temp_ch->in_room = i + 1;
+          /* people in this room must have their in_rooms moved */
+          for (temp_ch = world[i].people; temp_ch;
+           temp_ch = temp_ch->next_in_room)
+        if (temp_ch->in_room != -1)
+          temp_ch->in_room = i + 1;
 
-	      /* move objects */
-	      for (temp_obj = world[i].contents; temp_obj;
-		   temp_obj = temp_obj->next_content)
-		if (temp_obj->in_room != -1)
-		  temp_obj->in_room = i + 1;
+          /* move objects */
+          for (temp_obj = world[i].contents; temp_obj;
+           temp_obj = temp_obj->next_content)
+        if (temp_obj->in_room != -1)
+          temp_obj->in_room = i + 1;
 
-	      new_world[i + 1] = world[i];
-	    }
-	}
+          new_world[i + 1] = world[i];
+        }
+    }
       if (!found)
-	{ /*. Still not found, insert at top of table .*/
-	  new_world[i] = *(OLC_ROOM(d));
-	  new_world[i].number = OLC_NUM(d);
-	  new_world[i].func = NULL;
+    { /*. Still not found, insert at top of table .*/
+      new_world[i] = *(OLC_ROOM(d));
+      new_world[i].number = OLC_NUM(d);
+      new_world[i].func = NULL;
           CREATE(new_world[i].script, struct script_data, 1);
           new_world[i].script->name = NULL;
           new_world[i].script->lua_functions = 0;
-	  room_num  = i;
-	}
+      room_num  = i;
+    }
 
       /* copy world table over */
       FREE(world);
@@ -235,42 +235,42 @@ redit_save_internally(struct descriptor_data *d)
 
       /*. Update zone table .*/
       for (zone = 0; zone <= top_of_zone_table; zone++)
-	for (cmd_no = 0; ZCMD.command != 'S'; cmd_no++)
-	  switch (ZCMD.command)
-	    {
-	    case 'M':
-	    case 'O':
-	      if (ZCMD.arg3 >= room_num)
-		ZCMD.arg3++;
-	      break;
-	    case 'D':
-	    case 'R':
-	      if (ZCMD.arg1 >= room_num)
-		ZCMD.arg1++;
-	    case 'G':
-	    case 'P':
-	    case 'E':
-	    case '*':
-	      break;
-	    default:
-	      mudlog("SYSERR: OLC: redit_save_internally: Unknown comand",
-		     BRF, LVL_BUILDER, TRUE);
-	    }
+    for (cmd_no = 0; ZCMD.command != 'S'; cmd_no++)
+      switch (ZCMD.command)
+        {
+        case 'M':
+        case 'O':
+          if (ZCMD.arg3 >= room_num)
+        ZCMD.arg3++;
+          break;
+        case 'D':
+        case 'R':
+          if (ZCMD.arg1 >= room_num)
+        ZCMD.arg1++;
+        case 'G':
+        case 'P':
+        case 'E':
+        case '*':
+          break;
+        default:
+          mudlog("SYSERR: OLC: redit_save_internally: Unknown comand",
+             BRF, LVL_BUILDER, TRUE);
+        }
 
       /* update load rooms, to fix creeping load room problem */
       if (room_num <= r_mortal_start_room)
-	r_mortal_start_room++;
+    r_mortal_start_room++;
       if (room_num <= r_immort_start_room)
-	r_immort_start_room++;
+    r_immort_start_room++;
       if (room_num <= r_frozen_start_room)
-	r_frozen_start_room++;
+    r_frozen_start_room++;
 
       /*. Update world exits .*/
       for (i = 0; i < top_of_world + 1; i++)
-	for (j = 0; j < NUM_OF_DIRS; j++)
-	  if (W_EXIT(i, j))
-	    if (W_EXIT(i, j)->to_room >= room_num)
-	      W_EXIT(i, j)->to_room++;
+    for (j = 0; j < NUM_OF_DIRS; j++)
+      if (W_EXIT(i, j))
+        if (W_EXIT(i, j)->to_room >= room_num)
+          W_EXIT(i, j)->to_room++;
 
     }
   olc_add_to_save_list(zone_table[OLC_ZNUM(d)].number, OLC_SAVE_ROOM);
@@ -314,10 +314,10 @@ redit_save_to_disk(struct descriptor_data *d)
       sprintf(buf, "%s%s~\n", buf, buf1);
       sprintf(buf, "%s%d ", buf, zone_table[OLC_ZNUM(d)].number);
       sprintf(buf, "%s%d %d %d %d ", buf,
-	      room->room_flags[0],
-	      room->room_flags[1],
-	      room->room_flags[2],
-	      room->room_flags[3]);
+          room->room_flags[0],
+          room->room_flags[1],
+          room->room_flags[2],
+          room->room_flags[3]);
       sprintf(buf, "%s%d\n", buf,
               room->sector_type);
       /*. Save this section .*/
@@ -333,29 +333,29 @@ redit_save_to_disk(struct descriptor_data *d)
       /*. Handle exits .*/
       for (counter2 = 0; counter2 < NUM_OF_DIRS; counter2++)
       {
-	if (room->dir_option[counter2])
+    if (room->dir_option[counter2])
         {
-	  int temp_door_flag;
+      int temp_door_flag;
 
           /*. Again, strip out the crap .*/
           if (room->dir_option[counter2]->general_description)
           {
-	    strcpy(buf1, room->dir_option[counter2]->general_description);
+        strcpy(buf1, room->dir_option[counter2]->general_description);
             strip_string(buf1);
           }
-	  else
-	    *buf1 = 0;
+      else
+        *buf1 = 0;
 
           /*. Figure out door flag .*/
           if (IS_SET(room->dir_option[counter2]->exit_info, EX_ISDOOR))
           {
-	    if (IS_SET(room->dir_option[counter2]->exit_info, EX_PICKPROOF))
-	      temp_door_flag = 2;
-	    else
-	      temp_door_flag = 1;
-	  }
-	  else
-	    temp_door_flag = 0;
+        if (IS_SET(room->dir_option[counter2]->exit_info, EX_PICKPROOF))
+          temp_door_flag = 2;
+        else
+          temp_door_flag = 1;
+      }
+      else
+        temp_door_flag = 0;
 
           /*. Check for keywords .*/
           if(room->dir_option[counter2]->keyword)
@@ -365,24 +365,24 @@ redit_save_to_disk(struct descriptor_data *d)
 
           /*. Ok, now build a buffer to output to file .*/
           sprintf(buf, "D%d\n%s~\n%s~\n%d %d %d\n",
-		  counter2, buf1, buf2, temp_door_flag,
-		  room->dir_option[counter2]->key,
-		  world[room->dir_option[counter2]->to_room].number
+          counter2, buf1, buf2, temp_door_flag,
+          room->dir_option[counter2]->key,
+          world[room->dir_option[counter2]->to_room].number
           );
           /*. Save this door .*/
-	  fputs(buf, fp);
+      fputs(buf, fp);
         }
       }
       if (room->ex_description)
       {
-	for (ex_desc = room->ex_description; ex_desc; ex_desc = ex_desc->next)
+    for (ex_desc = room->ex_description; ex_desc; ex_desc = ex_desc->next)
         {
-	  /*. Home straight, just deal with extras descriptions..*/
+      /*. Home straight, just deal with extras descriptions..*/
           strcpy(buf1, ex_desc->description);
           strip_string(buf1);
           sprintf(buf, "E\n%s~\n%s~\n", ex_desc->keyword,buf1);
           fputs(buf, fp);
-	}
+    }
       }
       fprintf(fp, "S\n");
     }
@@ -442,14 +442,14 @@ redit_disp_extradesc_menu(struct descriptor_data * d)
   struct extra_descr_data *extra_desc = OLC_DESC(d);
 
   sprintf(buf, "\r\n"
-	  "%s1%s) Keyword: %s%s\r\n"
-	  "%s2%s) Description:\r\n%s%s\r\n"
-	  "%s3%s) Goto next description: ",
-	  grn, nrm, yel,
-	  extra_desc->keyword ? extra_desc->keyword : "<NONE>",
-	  grn, nrm, yel,
-	  extra_desc->description ?  extra_desc->description : "<NONE>",
-	  grn, nrm);
+      "%s1%s) Keyword: %s%s\r\n"
+      "%s2%s) Description:\r\n%s%s\r\n"
+      "%s3%s) Goto next description: ",
+      grn, nrm, yel,
+      extra_desc->keyword ? extra_desc->keyword : "<NONE>",
+      grn, nrm, yel,
+      extra_desc->description ?  extra_desc->description : "<NONE>",
+      grn, nrm);
 
   if (!extra_desc->next)
     strcat(buf, "<NOT SET>\r\n");
@@ -479,13 +479,13 @@ redit_disp_exit_menu(struct descriptor_data * d)
 
   get_char_cols(d->character);
   sprintf(buf, "\r\n"
-	"%s1%s) Exit to     : %s%d\r\n"
-	"%s2%s) Description :-\r\n%s%s\r\n"
-  	"%s3%s) Door name   : %s%s\r\n"
-  	"%s4%s) Key         : %s%d\r\n"
-  	"%s5%s) Door flags  : %s%s\r\n"
-  	"%s6%s) Purge exit.\r\n"
-	"Enter choice, 0 to quit : ",
+    "%s1%s) Exit to     : %s%d\r\n"
+    "%s2%s) Description :-\r\n%s%s\r\n"
+    "%s3%s) Door name   : %s%s\r\n"
+    "%s4%s) Key         : %s%d\r\n"
+    "%s5%s) Door flags  : %s%s\r\n"
+    "%s6%s) Purge exit.\r\n"
+    "Enter choice, 0 to quit : ",
 
         grn, nrm, cyn, OLC_EXIT(d)->to_room != -1 ? world[OLC_EXIT(d)->to_room].number : -1,
         grn, nrm, yel, OLC_EXIT(d)->general_description ? OLC_EXIT(d)->general_description : "<NONE>",
@@ -504,10 +504,10 @@ redit_disp_exit_flag_menu(struct descriptor_data * d)
 {
   get_char_cols(d->character);
   sprintf(buf,  "%s0%s) No door\r\n"
-	  "%s1%s) Closeable door\r\n"
-	  "%s2%s) Pickproof\r\n"
-	  "Enter choice : ",
-	  grn, nrm, grn, nrm, grn, nrm );
+      "%s1%s) Closeable door\r\n"
+      "%s2%s) Pickproof\r\n"
+      "Enter choice : ",
+      grn, nrm, grn, nrm, grn, nrm );
   send_to_char(buf, d->character);
 }
 
@@ -522,17 +522,17 @@ redit_disp_flag_menu(struct descriptor_data * d)
   for (counter = 0; counter < NUM_ROOM_FLAGS; counter++)
     {
       sprintf(buf, "%s%2d%s) %-20.20s ",
-	      grn, counter + 1, nrm, room_bits[counter]);
+          grn, counter + 1, nrm, room_bits[counter]);
       if(!(++columns % 2))
-	strcat(buf, "\r\n");
+    strcat(buf, "\r\n");
       send_to_char(buf, d->character);
     }
   sprintbitarray(OLC_ROOM(d)->room_flags, room_bits, RF_ARRAY_MAX, buf1);
   sprintf(buf,
-	  "\r\nRoom flags: %s%s%s\r\n"
-	  "Enter room flags, 0 to quit : ",
-	  cyn, buf1, nrm
-	  );
+      "\r\nRoom flags: %s%s%s\r\n"
+      "Enter room flags, 0 to quit : ",
+      cyn, buf1, nrm
+      );
   send_to_char(buf, d->character);
   OLC_MODE(d) = REDIT_FLAGS;
 }
@@ -546,9 +546,9 @@ void redit_disp_sector_menu(struct descriptor_data * d)
   for (counter = 0; counter < NUM_ROOM_SECTORS; counter++)
     {
       sprintf(buf, "%s%2d%s) %-20.20s ",
-	      grn, counter, nrm, sector_types[counter]);
+          grn, counter, nrm, sector_types[counter]);
       if(!(++columns % 2))
-	strcat(buf, "\r\n");
+    strcat(buf, "\r\n");
       send_to_char(buf, d->character);
     }
   send_to_char("\r\nEnter sector type : ", d->character);
@@ -585,8 +585,8 @@ void redit_disp_script_menu(struct descriptor_data *d)
 {
   if (OLC_ROOM(d)->number == NOWHERE) {
     send_to_char("\r\nCannot assign a script until the room is saved at least "
-		 "once.\r\n",
- 		 d->character);
+         "once.\r\n",
+         d->character);
     redit_disp_menu(d);
     return;
   }
@@ -618,41 +618,41 @@ void redit_disp_menu(struct descriptor_data * d)
   sprintbitarray(room->room_flags, room_bits, RF_ARRAY_MAX, buf1);
   sprinttype(room->sector_type, sector_types, buf2);
   snprintf(buf, MAX_STRING_LENGTH,
-  	"\r\n"
-	"-- Room number : [%s%d%s]  	Room zone: [%s%d%s]\r\n"
-	"%s1%s) Name        : %s%s\r\n"
-	"%s2%s) Description :\r\n%s%s"
-  	"%s3%s) Room flags  : %s%s\r\n"
-	"%s4%s) Sector type : %s%s\r\n"
-  	"%s5%s) Exit north  : %s%d\r\n"
-  	"%s6%s) Exit east   : %s%d\r\n"
-  	"%s7%s) Exit south  : %s%d\r\n"
-  	"%s8%s) Exit west   : %s%d\r\n"
-  	"%s9%s) Exit up     : %s%d\r\n"
-  	"%sA%s) Exit down   : %s%d\r\n"
-  	"%sB%s) Extra descriptions menu\r\n"
-	"%sC%s) Copy another room description\r\n"
+    "\r\n"
+    "-- Room number : [%s%d%s]      Room zone: [%s%d%s]\r\n"
+    "%s1%s) Name        : %s%s\r\n"
+    "%s2%s) Description :\r\n%s%s"
+    "%s3%s) Room flags  : %s%s\r\n"
+    "%s4%s) Sector type : %s%s\r\n"
+    "%s5%s) Exit north  : %s%d\r\n"
+    "%s6%s) Exit east   : %s%d\r\n"
+    "%s7%s) Exit south  : %s%d\r\n"
+    "%s8%s) Exit west   : %s%d\r\n"
+    "%s9%s) Exit up     : %s%d\r\n"
+    "%sA%s) Exit down   : %s%d\r\n"
+    "%sB%s) Extra descriptions menu\r\n"
+    "%sC%s) Copy another room description\r\n"
         "%sS%s) Script menu\r\n"
-  	"%sQ%s) Quit\r\n"
-  	"Enter choice : ",
+    "%sQ%s) Quit\r\n"
+    "Enter choice : ",
 
-	cyn, OLC_NUM(d), nrm,
-	cyn, zone_table[OLC_ZNUM(d)].number, nrm,
-	grn, nrm, yel, room->name,
-	grn, nrm, yel, room->description,
-	grn, nrm, cyn, buf1,
-	grn, nrm, cyn, buf2,
-  	grn, nrm, cyn, room->dir_option[NORTH] ?
+    cyn, OLC_NUM(d), nrm,
+    cyn, zone_table[OLC_ZNUM(d)].number, nrm,
+    grn, nrm, yel, room->name,
+    grn, nrm, yel, room->description,
+    grn, nrm, cyn, buf1,
+    grn, nrm, cyn, buf2,
+    grn, nrm, cyn, room->dir_option[NORTH] ?
           world[room->dir_option[NORTH]->to_room].number : -1,
-	grn, nrm, cyn, room->dir_option[EAST] ?
+    grn, nrm, cyn, room->dir_option[EAST] ?
           world[room->dir_option[EAST]->to_room].number : -1,
-  	grn, nrm, cyn, room->dir_option[SOUTH] ?
+    grn, nrm, cyn, room->dir_option[SOUTH] ?
           world[room->dir_option[SOUTH]->to_room].number : -1,
-  	grn, nrm, cyn, room->dir_option[WEST] ?
+    grn, nrm, cyn, room->dir_option[WEST] ?
           world[room->dir_option[WEST]->to_room].number : -1,
-  	grn, nrm, cyn, room->dir_option[UP] ?
+    grn, nrm, cyn, room->dir_option[UP] ?
           world[room->dir_option[UP]->to_room].number : -1,
-  	grn, nrm, cyn, room->dir_option[DOWN] ?
+    grn, nrm, cyn, room->dir_option[DOWN] ?
           world[room->dir_option[DOWN]->to_room].number : -1,
         grn, nrm,
         grn, nrm,
@@ -720,8 +720,8 @@ void redit_parse(struct descriptor_data * d, char *arg)
       send_editor_help(d);
       write_to_output(d, "Enter room description:\r\n\r\n");
       if (OLC_ROOM(d)->description) {
-	write_to_output(d, "%s", OLC_ROOM(d)->description);
-	oldtext = strdup(OLC_ROOM(d)->description);
+    write_to_output(d, "%s", OLC_ROOM(d)->description);
+    oldtext = strdup(OLC_ROOM(d)->description);
       }
       string_write(d, &OLC_ROOM(d)->description, MAX_ROOM_DESC, 0, oldtext);
       OLC_VAL(d) = 1;
@@ -761,8 +761,8 @@ void redit_parse(struct descriptor_data * d, char *arg)
     case 'B':
       /* if extra desc doesn't exist . */
       if (!OLC_ROOM(d)->ex_description) {
-	CREATE(OLC_ROOM(d)->ex_description, struct extra_descr_data, 1);
-	OLC_ROOM(d)->ex_description->next = NULL;
+    CREATE(OLC_ROOM(d)->ex_description, struct extra_descr_data, 1);
+    OLC_ROOM(d)->ex_description->next = NULL;
       }
       OLC_DESC(d) = OLC_ROOM(d)->ex_description;
       redit_disp_extradesc_menu(d);
@@ -805,12 +805,12 @@ void redit_parse(struct descriptor_data * d, char *arg)
       if (number == 0)
         break;
       else {
-	/* toggle bits */
-	if (IS_SET_AR(OLC_ROOM(d)->room_flags, (number - 1)))
-	  REMOVE_BIT_AR(OLC_ROOM(d)->room_flags, (number - 1));
-	else
-	  SET_BIT_AR(OLC_ROOM(d)->room_flags, (number - 1));
-	redit_disp_flag_menu(d);
+    /* toggle bits */
+    if (IS_SET_AR(OLC_ROOM(d)->room_flags, (number - 1)))
+      REMOVE_BIT_AR(OLC_ROOM(d)->room_flags, (number - 1));
+    else
+      SET_BIT_AR(OLC_ROOM(d)->room_flags, (number - 1));
+    redit_disp_flag_menu(d);
       }
     }
     return;
@@ -838,8 +838,8 @@ void redit_parse(struct descriptor_data * d, char *arg)
       send_editor_help(d);
       write_to_output(d, "Enter exit description:\r\n\r\n");
       if (OLC_EXIT(d)->general_description) {
-	write_to_output(d, "%s", OLC_EXIT(d)->general_description);
-	oldtext = strdup(OLC_EXIT(d)->general_description);
+    write_to_output(d, "%s", OLC_EXIT(d)->general_description);
+    oldtext = strdup(OLC_EXIT(d)->general_description);
       }
       string_write(d, &OLC_EXIT(d)->general_description, MAX_EXIT_DESC, 0, oldtext);
       return;
@@ -859,9 +859,9 @@ void redit_parse(struct descriptor_data * d, char *arg)
     case '6':
       /* delete exit */
       if (OLC_EXIT(d)->keyword)
-	FREE(OLC_EXIT(d)->keyword);
+    FREE(OLC_EXIT(d)->keyword);
       if (OLC_EXIT(d)->general_description)
-	FREE(OLC_EXIT(d)->general_description);
+    FREE(OLC_EXIT(d)->general_description);
       FREE(OLC_EXIT(d));
       OLC_EXIT(d) = NULL;
       break;
@@ -910,11 +910,11 @@ void redit_parse(struct descriptor_data * d, char *arg)
     } else {
       /* doors are a bit idiotic, don't you think? :) */
       if (number == 0)
-	OLC_EXIT(d)->exit_info = 0;
+    OLC_EXIT(d)->exit_info = 0;
       else if (number == 1)
-	OLC_EXIT(d)->exit_info = EX_ISDOOR;
+    OLC_EXIT(d)->exit_info = EX_ISDOOR;
       else if (number == 2)
-	OLC_EXIT(d)->exit_info = EX_ISDOOR | EX_PICKPROOF;
+    OLC_EXIT(d)->exit_info = EX_ISDOOR | EX_PICKPROOF;
       /* jump out to menu */
       redit_disp_exit_menu(d);
     }
@@ -930,26 +930,26 @@ void redit_parse(struct descriptor_data * d, char *arg)
     switch (number) {
     case 0:
       {
-	/* if something got left out, delete the extra desc
-	 when backing out to menu */
-	if (!OLC_DESC(d)->keyword || !OLC_DESC(d)->description)
+    /* if something got left out, delete the extra desc
+     when backing out to menu */
+    if (!OLC_DESC(d)->keyword || !OLC_DESC(d)->description)
         { struct extra_descr_data **tmp_desc;
 
-	  if (OLC_DESC(d)->keyword)
-	    FREE(OLC_DESC(d)->keyword);
-	  if (OLC_DESC(d)->description)
-	    FREE(OLC_DESC(d)->description);
+      if (OLC_DESC(d)->keyword)
+        FREE(OLC_DESC(d)->keyword);
+      if (OLC_DESC(d)->description)
+        FREE(OLC_DESC(d)->description);
 
-	  /*. Clean up pointers .*/
-	  for(tmp_desc = &(OLC_ROOM(d)->ex_description); *tmp_desc;
-	      tmp_desc = &((*tmp_desc)->next))
+      /*. Clean up pointers .*/
+      for(tmp_desc = &(OLC_ROOM(d)->ex_description); *tmp_desc;
+          tmp_desc = &((*tmp_desc)->next))
           { if(*tmp_desc == OLC_DESC(d))
-	    { *tmp_desc = NULL;
+        { *tmp_desc = NULL;
               break;
-	    }
-	  }
-	  FREE(OLC_DESC(d));
-	}
+        }
+      }
+      FREE(OLC_DESC(d));
+    }
       }
       break;
     case 1:
@@ -961,28 +961,28 @@ void redit_parse(struct descriptor_data * d, char *arg)
       send_editor_help(d);
       write_to_output(d, "Enter extra description:\r\n\r\n");
       if (OLC_DESC(d)->description) {
-	write_to_output(d, "%s", OLC_DESC(d)->description);
-	oldtext = strdup(OLC_DESC(d)->description);
+    write_to_output(d, "%s", OLC_DESC(d)->description);
+    oldtext = strdup(OLC_DESC(d)->description);
       }
       string_write(d, &OLC_DESC(d)->description, MAX_MESSAGE_LENGTH, 0, oldtext);
       return;
 
     case 3:
       if (!OLC_DESC(d)->keyword || !OLC_DESC(d)->description) {
-	send_to_char("You can't edit the next extra desc without completing this one.\r\n", d->character);
-	redit_disp_extradesc_menu(d);
+    send_to_char("You can't edit the next extra desc without completing this one.\r\n", d->character);
+    redit_disp_extradesc_menu(d);
       } else {
-	struct extra_descr_data *new_extra;
+    struct extra_descr_data *new_extra;
 
-	if (OLC_DESC(d)->next)
-	  OLC_DESC(d) = OLC_DESC(d)->next;
-	else {
-	  /* make new extra, attach at end */
-	  CREATE(new_extra, struct extra_descr_data, 1);
-	  OLC_DESC(d)->next = new_extra;
-	  OLC_DESC(d) = new_extra;
-	}
-	redit_disp_extradesc_menu(d);
+    if (OLC_DESC(d)->next)
+      OLC_DESC(d) = OLC_DESC(d)->next;
+    else {
+      /* make new extra, attach at end */
+      CREATE(new_extra, struct extra_descr_data, 1);
+      OLC_DESC(d)->next = new_extra;
+      OLC_DESC(d) = new_extra;
+    }
+    redit_disp_extradesc_menu(d);
       }
       return;
     }
@@ -992,22 +992,22 @@ void redit_parse(struct descriptor_data * d, char *arg)
     {
       int i = atoi(arg);
       if (i != -1)
-	{
-	  i = real_room(i);
-	  if (i < 0)
-	    {
-	      send_to_char("That room does not exist, try again : ",
-			   d->character);
-	      return;
-	    }
-	  else
-	    {
-	      if (world[i].name)
-		OLC_ROOM(d)->name = str_dup(world[i].name);
-	      if (world[i].description)
-		OLC_ROOM(d)->description = str_dup(world[i].description);
-	    }
-	}
+    {
+      i = real_room(i);
+      if (i < 0)
+        {
+          send_to_char("That room does not exist, try again : ",
+               d->character);
+          return;
+        }
+      else
+        {
+          if (world[i].name)
+        OLC_ROOM(d)->name = str_dup(world[i].name);
+          if (world[i].description)
+        OLC_ROOM(d)->description = str_dup(world[i].description);
+        }
+    }
     }
     break;
 

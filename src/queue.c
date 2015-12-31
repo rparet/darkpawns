@@ -68,16 +68,16 @@ struct q_element *queue_enq(struct queue *q, void *data, long key)
     for (i = q->tail[bucket]; i; i = i->prev) {
 
       if (i->key < key) { /* found insertion point */
-	if (i == q->tail[bucket])
-	  q->tail[bucket] = qe;
-	else {
-	  qe->next = i->next;
-	  i->next->prev = qe;
-	}
+    if (i == q->tail[bucket])
+      q->tail[bucket] = qe;
+    else {
+      qe->next = i->next;
+      i->next->prev = qe;
+    }
 
-	qe->prev = i;
-	i->next = qe;
-	break;
+    qe->prev = i;
+    i->next = qe;
+    break;
       }
     }
 

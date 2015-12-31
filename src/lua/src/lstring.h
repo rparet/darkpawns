@@ -16,11 +16,11 @@
 ** any TString with mark>=FIXMARK is never collected.
 ** Marks>=RESERVEDMARK are used to identify reserved words.
 */
-#define FIXMARK		2
-#define RESERVEDMARK	3
+#define FIXMARK     2
+#define RESERVEDMARK    3
 
 
-#define sizestring(l)	((long)sizeof(TString) + \
+#define sizestring(l)   ((long)sizeof(TString) + \
                          ((long)(l+1)-TSPACK)*(long)sizeof(char))
 
 

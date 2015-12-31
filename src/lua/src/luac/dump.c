@@ -10,9 +10,9 @@
 
 #include "luac.h"
 
-#define DumpVector(b,n,size,D)	fwrite(b,size,n,D)
-#define DumpBlock(b,size,D)	fwrite(b,size,1,D)
-#define	DumpByte		fputc
+#define DumpVector(b,n,size,D)  fwrite(b,size,n,D)
+#define DumpBlock(b,size,D) fwrite(b,size,1,D)
+#define DumpByte        fputc
 
 static void DumpInt(int x, FILE* D)
 {
@@ -35,7 +35,7 @@ static void DumpString(const TString* s, FILE* D)
   DumpSize(0,D);
  else
  {
-  size_t size=s->len+1;			/* include trailing '\0' */
+  size_t size=s->len+1;         /* include trailing '\0' */
   DumpSize(size,D);
   DumpBlock(s->str,size,D);
  }

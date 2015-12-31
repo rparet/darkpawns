@@ -116,22 +116,22 @@ void raw_kill(struct char_data * ch, int attacktype);
 
   +
   +    if (GET_OBJ_VNUM(j) == red_portal)
-  +	{
+  + {
   +
-  +	  if (GET_OBJ_TIMER(j) > 0)
-  +	    GET_OBJ_TIMER(j)--;
+  +   if (GET_OBJ_TIMER(j) > 0)
+  +     GET_OBJ_TIMER(j)--;
 
-  +	    if (!GET_OBJ_TIMER(j))
-  +	      {
-  +		if ((j->in_room != NOWHERE) && (world[j->in_room].people))
-  +		  send_to_room("The shimmering red portal of light "
-  +    		               "fades out of existence.\r\n", j->in_room);
-  +		extract_obj(j);
-  +	      }
-  +	}
+  +     if (!GET_OBJ_TIMER(j))
+  +       {
+  +     if ((j->in_room != NOWHERE) && (world[j->in_room].people))
+  +       send_to_room("The shimmering red portal of light "
+  +                        "fades out of existence.\r\n", j->in_room);
+  +     extract_obj(j);
+  +       }
+  + }
 
   !    else if ((GET_OBJ_TYPE(j) == ITEM_CONTAINER) && GET_OBJ_VAL(j, 3))
-	{
+    {
   -------------
 
 
@@ -182,15 +182,15 @@ load_night_gate( void )
   int count;
 
   if (mini_mud)
-	return;
+    return;
   for (count = 0; count < NUM_GATES; count++)
     if ( time_info.moon == gate_phase[count][gate_load_phase] )
       {
-	struct obj_data *gate = read_object(blue_portal, VIRTUAL);
-	obj_to_room (gate, real_room(gate_phase[count][gate_load_room]));
-	send_to_room("A shimmering portal of blue light suddenly appears in "
-		     "the darkness!\r\n",
-		     real_room(gate_phase[count][gate_load_room]));
+    struct obj_data *gate = read_object(blue_portal, VIRTUAL);
+    obj_to_room (gate, real_room(gate_phase[count][gate_load_room]));
+    send_to_room("A shimmering portal of blue light suddenly appears in "
+             "the darkness!\r\n",
+             real_room(gate_phase[count][gate_load_room]));
       }
 }
 
@@ -209,24 +209,24 @@ remove_night_gate( void )
   int count;
 
   if (mini_mud)
-	return;
+    return;
   for (count = 0; count < NUM_GATES; count++)
     {
       int gate_room = real_room(gate_phase[count][gate_load_room]);
       struct obj_data *gate = NULL, *next_obj = NULL;
       for (gate = world[gate_room].contents; gate; gate = next_obj)
-	{
-	  int virtual = GET_OBJ_VNUM(gate);
-	  next_obj = gate->next_content;
-	  if (virtual == blue_portal &&
-	      gate_phase[count][gate_load_phase] != -1)
-	    {
-	      if (gate)
-		extract_obj(gate);
-	      send_to_room("The shimmering blue portal of light "
-			   "fades out of existence.\r\n", gate_room);
-	    }
-	}
+    {
+      int virtual = GET_OBJ_VNUM(gate);
+      next_obj = gate->next_content;
+      if (virtual == blue_portal &&
+          gate_phase[count][gate_load_phase] != -1)
+        {
+          if (gate)
+        extract_obj(gate);
+          send_to_room("The shimmering blue portal of light "
+               "fades out of existence.\r\n", gate_room);
+        }
+    }
     }
 }
 
@@ -256,51 +256,51 @@ SPECIAL(moon_gate)
       skip_spaces (&argument);
 
       if (!isname(argument, obj->name))
-	 return(FALSE);
+     return(FALSE);
 
       if (GET_OBJ_VNUM(obj) == blue_portal)
-	{
-	  for (count = 0; count < NUM_GATES; count++)
-	    if (real_room(gate_phase[count][gate_load_room]) == ch->in_room)
-	      {
-		int random_room=(number(0,3)<2)?gate_exit_room:gate_exit_room2;
-		if (gate_phase[count][random_room] == 0)
-		  random_room = gate_exit_room;
-		portal_room = real_room(gate_phase[count][random_room]);
-		break;
-	      }
-	}
+    {
+      for (count = 0; count < NUM_GATES; count++)
+        if (real_room(gate_phase[count][gate_load_room]) == ch->in_room)
+          {
+        int random_room=(number(0,3)<2)?gate_exit_room:gate_exit_room2;
+        if (gate_phase[count][random_room] == 0)
+          random_room = gate_exit_room;
+        portal_room = real_room(gate_phase[count][random_room]);
+        break;
+          }
+    }
       else if (GET_OBJ_COST(obj) > 0)
         portal_room = real_room(GET_OBJ_COST(obj));
       else /* red portal */
-	portal_room = real_room(4000);
+    portal_room = real_room(4000);
 
       send_to_char("You enter the portal and are transferred...\n\r",ch);
       act("$n enters the gate which suddenly starts glowing brightly,\r\n"
-	  "obscuring your view of $m!", TRUE, ch, 0, 0, TO_ROOM);
+      "obscuring your view of $m!", TRUE, ch, 0, 0, TO_ROOM);
       char_from_room(ch);
       char_to_room(ch, portal_room);
       act("With a sound like a raging river, a hole in space opens up "
-		"and $n steps out.", TRUE, ch, 0, 0, TO_ROOM);
+        "and $n steps out.", TRUE, ch, 0, 0, TO_ROOM);
       if (!IS_NPC(ch) && IS_MOUNTED(ch))
-	{
-	  struct char_data *mount = get_mount(ch);
-	  if (mount)
-	    {
-	      char_from_room(mount);
-	      char_to_room(mount, portal_room);
-	    }
-	}
+    {
+      struct char_data *mount = get_mount(ch);
+      if (mount)
+        {
+          char_from_room(mount);
+          char_to_room(mount, portal_room);
+        }
+    }
       if (IS_NPC(ch) && IS_MOUNTED(ch))
-	{
-	  struct char_data *rider = get_rider(ch);
-	  if (rider)
-	    {
-	      char_from_room(rider);
-	      char_to_room(rider, portal_room);
-	      look_at_room(rider, TRUE);
-	    }
-	}
+    {
+      struct char_data *rider = get_rider(ch);
+      if (rider)
+        {
+          char_from_room(rider);
+          char_to_room(rider, portal_room);
+          look_at_room(rider, TRUE);
+        }
+    }
       look_at_room(ch, TRUE);
       return(TRUE);
     }
@@ -311,16 +311,16 @@ SPECIAL(moon_gate)
       /* change to lowercase */
       strcpy(temp_arg, argument);
       for (i = 0; temp_arg[i]; i++)
-	temp_arg[i] = LOWER(temp_arg[i]);
+    temp_arg[i] = LOWER(temp_arg[i]);
       if (strcmp(temp_arg, "gate") &&
-	  strcmp(temp_arg, "moongate") &&
-	  strcmp(temp_arg, "portal"))
-	{
-	  do_look(ch, temp_arg, 0, 0);
-	  return(TRUE);
-	}
+      strcmp(temp_arg, "moongate") &&
+      strcmp(temp_arg, "portal"))
+    {
+      do_look(ch, temp_arg, 0, 0);
+      return(TRUE);
+    }
       send_to_char("You see a shimmering light... you could ENTER "
-		   "the gate.\r\n", ch);
+           "the gate.\r\n", ch);
     }
   return FALSE;
 }
@@ -344,7 +344,7 @@ ASPELL(spell_gate)
   struct obj_data *blue_gate = read_object(blue_portal, VIRTUAL);
 
   if (mini_mud)
-	return;
+    return;
 
   for (i = world[ch->in_room].contents; i; i = i->next_content)
   {
@@ -371,14 +371,14 @@ ASPELL(spell_gate)
   for (count = 0; count < num_legal_rooms; count++)
     if (real_room(legal_red_rooms[count]) == ch->in_room)
       {
-	obj_to_room (red_gate, ch->in_room);
-	send_to_char("The magick flows through you, then out into the "
-		     "world, changing it....\r\n", ch);
-	send_to_room("A shimmering red portal fades into existence.\r\n",
-		     ch->in_room);
-	GET_OBJ_VAL(red_gate, 2) = 2+(GET_LEVEL(ch)==30);/* 2+1 */
-	loaded = TRUE;
-	break;
+    obj_to_room (red_gate, ch->in_room);
+    send_to_char("The magick flows through you, then out into the "
+             "world, changing it....\r\n", ch);
+    send_to_room("A shimmering red portal fades into existence.\r\n",
+             ch->in_room);
+    GET_OBJ_VAL(red_gate, 2) = 2+(GET_LEVEL(ch)==30);/* 2+1 */
+    loaded = TRUE;
+    break;
       }
   if (!loaded)
     {
@@ -386,7 +386,7 @@ ASPELL(spell_gate)
       extract_obj(blue_gate);
       if (!(ch->in_room == NOWHERE))
         stc("The magic flows through you, but nothing else "
-		   "happens.\r\n", ch);
+           "happens.\r\n", ch);
     }
 }
 

@@ -111,9 +111,9 @@ int str_cmp(char *arg1, char *arg2)
   for (i = 0; *(arg1 + i) || *(arg2 + i); i++)
     if ((chk = LOWER(*(arg1 + i)) - LOWER(*(arg2 + i)))) {
       if (chk < 0)
-	return (-1);
+    return (-1);
       else
-	return (1);
+    return (1);
     }
 
   return (0);
@@ -129,9 +129,9 @@ int strn_cmp(char *arg1, char *arg2, int n)
   for (i = 0; (*(arg1 + i) || *(arg2 + i)) && (n > 0); i++, n--)
     if ((chk = LOWER(*(arg1 + i)) - LOWER(*(arg2 + i)))) {
       if (chk < 0)
-	return (-1);
+    return (-1);
       else
-	return (1);
+    return (1);
     }
 
   return (0);
@@ -144,7 +144,7 @@ void log_death_trap(struct char_data * ch)
   extern struct room_data *world;
 
   sprintf(buf, "%s hit death trap #%d (%s)", GET_NAME(ch),
-	  world[ch->in_room].number, world[ch->in_room].name);
+      world[ch->in_room].number, world[ch->in_room].name);
   mudlog(buf, BRF, LVL_IMMORT, TRUE);
 }
 
@@ -230,12 +230,12 @@ void mudlog(char *str, char type, int level, byte file)
   for (i = descriptor_list; i; i = i->next)
     if (!i->connected && !PLR_FLAGGED(i->character, PLR_WRITING)) {
       tp = ((PRF_FLAGGED(i->character, PRF_LOG1) ? 1 : 0) +
-	    (PRF_FLAGGED(i->character, PRF_LOG2) ? 2 : 0));
+        (PRF_FLAGGED(i->character, PRF_LOG2) ? 2 : 0));
 
       if ((GET_LEVEL(i->character) >= level) && (tp >= type)) {
-	send_to_char(CCGRN(i->character, C_NRM), i->character);
-	send_to_char(buf, i->character);
-	send_to_char(CCNRM(i->character, C_NRM), i->character);
+    send_to_char(CCGRN(i->character, C_NRM), i->character);
+    send_to_char(buf, i->character);
+    send_to_char(CCNRM(i->character, C_NRM), i->character);
       }
     }
 }
@@ -253,10 +253,10 @@ void sprintbit(long bitvector, char *names[], char *result)
   for (nr = 0; bitvector; bitvector >>= 1) {
     if (IS_SET(bitvector, 1)) {
       if (*names[nr] != '\n') {
-	strcat(result, names[nr]);
-	strcat(result, " ");
+    strcat(result, names[nr]);
+    strcat(result, " ");
       } else
-	strcat(result, "UNDEFINED ");
+    strcat(result, "UNDEFINED ");
     }
     if (*names[nr] != '\n')
       nr++;
@@ -289,10 +289,10 @@ struct time_info_data real_time_passed(time_t t2, time_t t1)
 
   secs = (long) (t2 - t1);
 
-  now.hours = (secs / SECS_PER_REAL_HOUR) % 24;	/* 0..23 hours */
+  now.hours = (secs / SECS_PER_REAL_HOUR) % 24; /* 0..23 hours */
   secs -= SECS_PER_REAL_HOUR * now.hours;
 
-  now.day = (secs / SECS_PER_REAL_DAY);	/* 0..34 days  */
+  now.day = (secs / SECS_PER_REAL_DAY); /* 0..34 days  */
   secs -= SECS_PER_REAL_DAY * now.day;
 
   now.month = -1;
@@ -310,16 +310,16 @@ struct time_info_data mud_time_passed(time_t t2, time_t t1)
 
   secs = (long) (t2 - t1);
 
-  now.hours = (secs / SECS_PER_MUD_HOUR) % 24;	/* 0..23 hours */
+  now.hours = (secs / SECS_PER_MUD_HOUR) % 24;  /* 0..23 hours */
   secs -= SECS_PER_MUD_HOUR * now.hours;
 
-  now.day = (secs / SECS_PER_MUD_DAY) % 35;	/* 0..34 days  */
+  now.day = (secs / SECS_PER_MUD_DAY) % 35; /* 0..34 days  */
   secs -= SECS_PER_MUD_DAY * now.day;
 
-  now.month = (secs / SECS_PER_MUD_MONTH) % 17;	/* 0..16 months */
+  now.month = (secs / SECS_PER_MUD_MONTH) % 17; /* 0..16 months */
   secs -= SECS_PER_MUD_MONTH * now.month;
 
-  now.year = (secs / SECS_PER_MUD_YEAR);	/* 0..XX? years */
+  now.year = (secs / SECS_PER_MUD_YEAR);    /* 0..XX? years */
 
   now.moon = 0;
 
@@ -332,7 +332,7 @@ struct time_info_data age(struct char_data *ch)
 
   player_age = mud_time_passed(time(0), ch->player.time.birth);
 
-  player_age.year += 17;	/* All players start at 17 */
+  player_age.year += 17;    /* All players start at 17 */
 
   return player_age;
 }
@@ -425,11 +425,11 @@ void stop_follower(struct char_data * ch)
   if (IS_NPC(ch) && IS_MOUNTED(ch))
     unmount(get_rider(ch), ch);
 
-  if (ch->master->followers->follower == ch) {	/* Head of follower-list? */
+  if (ch->master->followers->follower == ch) {  /* Head of follower-list? */
     k = ch->master->followers;
     ch->master->followers = k->next;
     FREE(k);
-  } else {			/* locate follower who is not head of list */
+  } else {          /* locate follower who is not head of list */
     for (k = ch->master->followers; k->next->follower != ch; k = k->next);
 
     j = k->next;
@@ -599,18 +599,18 @@ int num_pc_in_room(struct room_data *room)
 int
 parse_race(char arg)
 {
-	switch(arg)
-	{
-		case 'h': return RACE_HUMAN;
-		case 'e': return RACE_ELF;
-		case 'd': return RACE_DWARF;
-		case 'k': return RACE_KENDER;
-		case 'r': return RACE_RAKSHASA;
-		case 'm': return RACE_MINOTAUR;
-		case 's': return RACE_SSAUR;
-		default: break;
-	}
-	return RACE_UNDEFINED;
+    switch(arg)
+    {
+        case 'h': return RACE_HUMAN;
+        case 'e': return RACE_ELF;
+        case 'd': return RACE_DWARF;
+        case 'k': return RACE_KENDER;
+        case 'r': return RACE_RAKSHASA;
+        case 'm': return RACE_MINOTAUR;
+        case 's': return RACE_SSAUR;
+        default: break;
+    }
+    return RACE_UNDEFINED;
 }
 
 struct char_data *
@@ -635,7 +635,7 @@ struct char_data *
 get_rider_in_room(struct char_data *mount)
 {
   if (mount && IS_NPC(mount) && IS_MOUNTED(mount) &&
-	mount->master->in_room == mount->in_room)
+    mount->master->in_room == mount->in_room)
     return (mount->master);
   return ((struct char_data *)NULL);
 }
@@ -676,8 +676,8 @@ is_intelligent(struct char_data *ch)
 {
   int i;
   for (i=0; i<NUM_INTEL_RACES; i++)
-	if (GET_RACE(ch)==intelligent_races[i])
-		return(TRUE);
+    if (GET_RACE(ch)==intelligent_races[i])
+        return(TRUE);
   return(FALSE);
 }
 
@@ -731,11 +731,11 @@ struct char_data *
 HUNTING(struct char_data *ch)
 {
   if (!ch || !IS_NPC(ch))
-	return NULL;
+    return NULL;
   if ((ch)->char_specials.hunting)
-	return((ch)->char_specials.hunting);
+    return((ch)->char_specials.hunting);
   else
-	return(get_char_by_id((ch)->char_specials.hunting_id));
+    return(get_char_by_id((ch)->char_specials.hunting_id));
 }
 
 int
@@ -761,8 +761,8 @@ is_playing(char *vict_name)
     {
       next_i = i->next;
       if(i->connected == CON_PLAYING &&
-	 !strcmp(i->character->player.name,CAP(vict_name)))
-	return i->character;
+     !strcmp(i->character->player.name,CAP(vict_name)))
+    return i->character;
     }
   return NULL;
 }
@@ -852,8 +852,8 @@ void sprintbitarray(int bitvector[], char *names[], int maxar, char *result)
 /*    for(teller = 0; teller < maxar && !found; teller++) */
 /*       for(nr = 0; nr < 32 && !found; nr++) { */
 /*          if(IS_SET_AR(bitvector, (teller*32)+nr)) */
-/* 	   if((*names)[(teller*32)+nr] != '\n') { */
-/* 	     if((*names)[(teller*32)+nr] != '\0') { */
+/*     if((*names)[(teller*32)+nr] != '\n') { */
+/*       if((*names)[(teller*32)+nr] != '\0') { */
 /*                   strcat(result, names[(teller *32)+nr]); */
 /*                   strcat(result, " "); */
 /*                } */

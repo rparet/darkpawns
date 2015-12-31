@@ -26,11 +26,11 @@ Written by Jeremy Elson (jelson@cs.jhu.edu)
 #include "mail.h"
 
 void postmaster_send_mail(struct char_data * ch, struct char_data *mailman,
-			  int cmd, char *arg);
+              int cmd, char *arg);
 void postmaster_check_mail(struct char_data * ch, struct char_data *mailman,
-			  int cmd, char *arg);
+              int cmd, char *arg);
 void postmaster_receive_mail(struct char_data * ch, struct char_data *mailman,
-			  int cmd, char *arg);
+              int cmd, char *arg);
 SPECIAL(postmaster);
 
 extern struct room_data *world;
@@ -38,9 +38,9 @@ extern struct index_data *mob_index;
 extern int no_mail;
 int find_name(char *name);
 
-mail_index_type *mail_index = NULL;	/* list of recs in the mail file  */
-position_list_type *free_list = NULL;	/* list of free positions in file */
-long file_end_pos = 0;			/* length of file */
+mail_index_type *mail_index = NULL; /* list of recs in the mail file  */
+position_list_type *free_list = NULL;   /* list of free positions in file */
+long file_end_pos = 0;          /* length of file */
 
 /* local functions */
 void push_free_list(long pos);
@@ -248,7 +248,7 @@ int scan_file(void)
   }
   log("   Mail file read -- %d messages.", total_messages);
   return (1);
-}				/* end of scan_file */
+}               /* end of scan_file */
 
 
 /*
@@ -292,7 +292,7 @@ void store_mail(long to, long from, char *message_pointer)
     log("SYSERR: Mail system -- non-fatal error #5. (from == %ld, to == %ld)", from, to);
     return;
   }
-  memset((char *) &header, 0, sizeof(header));	/* clear the record */
+  memset((char *) &header, 0, sizeof(header));  /* clear the record */
   header.block_type = HEADER_BLOCK;
   header.header_data.next_block = LAST_BLOCK;
   header.header_data.from = from;
@@ -301,15 +301,15 @@ void store_mail(long to, long from, char *message_pointer)
   strncpy(header.txt, msg_txt, HEADER_BLOCK_DATASIZE);
   header.txt[HEADER_BLOCK_DATASIZE] = '\0';
 
-  target_address = pop_free_list();	/* find next free block */
-  index_mail(to, target_address);	/* add it to mail index in memory */
+  target_address = pop_free_list(); /* find next free block */
+  index_mail(to, target_address);   /* add it to mail index in memory */
   write_to_file(&header, BLOCK_SIZE, target_address);
 
   if (strlen(msg_txt) <= HEADER_BLOCK_DATASIZE)
-    return;			/* that was the whole message */
+    return;         /* that was the whole message */
 
   bytes_written = HEADER_BLOCK_DATASIZE;
-  msg_txt += HEADER_BLOCK_DATASIZE;	/* move pointer to next bit of text */
+  msg_txt += HEADER_BLOCK_DATASIZE; /* move pointer to next bit of text */
 
   /*
    * find the next block address, then rewrite the header to reflect where
@@ -321,7 +321,7 @@ void store_mail(long to, long from, char *message_pointer)
   write_to_file(&header, BLOCK_SIZE, last_address);
 
   /* now write the current data block */
-  memset((char *) &data, 0, sizeof(data));	/* clear the record */
+  memset((char *) &data, 0, sizeof(data));  /* clear the record */
   data.block_type = LAST_BLOCK;
   strncpy(data.txt, msg_txt, DATA_BLOCK_DATASIZE);
   data.txt[DATA_BLOCK_DATASIZE] = '\0';
@@ -358,7 +358,7 @@ void store_mail(long to, long from, char *message_pointer)
     bytes_written += strlen(data.txt);
     msg_txt += strlen(data.txt);
   }
-}				/* store mail */
+}               /* store mail */
 
 
 /*
@@ -392,19 +392,19 @@ char *read_delete(long recipient)
     log("SYSERR: Mail system -- non-fatal error #8. (invalid position pointer)");
     return (NULL);
   }
-  if (!(position_pointer->next)) {	/* just 1 entry in list. */
+  if (!(position_pointer->next)) {  /* just 1 entry in list. */
     mail_address = position_pointer->position;
     free(position_pointer);
 
     /* now free up the actual name entry */
-    if (mail_index == mail_pointer) {	/* name is 1st in list */
+    if (mail_index == mail_pointer) {   /* name is 1st in list */
       mail_index = mail_pointer->next;
       free(mail_pointer);
     } else {
       /* find entry before the one we're going to del */
       for (prev_mail = mail_index;
-	   prev_mail->next != mail_pointer;
-	   prev_mail = prev_mail->next);
+       prev_mail->next != mail_pointer;
+       prev_mail = prev_mail->next);
       prev_mail->next = mail_pointer->next;
       free(mail_pointer);
     }
@@ -433,10 +433,10 @@ char *read_delete(long recipient)
   to = get_name_by_id(recipient);
 
   sprintf(buf, " * * * * Dark Pawns Mail System * * * *\r\n"
-	  "Date: %s\r\n"
-	  "  To: %s\r\n"
-	  "From: %s\r\n\r\n", tmstr, to ? to : "Unknown",
-	  from ? from : "Unknown");
+      "Date: %s\r\n"
+      "  To: %s\r\n"
+      "From: %s\r\n\r\n", tmstr, to ? to : "Unknown",
+      from ? from : "Unknown");
 
   string_size = (sizeof(char) * (strlen(buf) + strlen(header.txt) + 1));
   CREATE(message, char, string_size);
@@ -476,7 +476,7 @@ char *read_delete(long recipient)
 SPECIAL(postmaster)
 {
   if (!ch->desc || IS_NPC(ch))
-    return (0);			/* so mobs don't get caught here */
+    return (0);         /* so mobs don't get caught here */
 
   if (!(CMD_IS("mail") || CMD_IS("check") || CMD_IS("receive")))
     return (0);
@@ -501,39 +501,39 @@ SPECIAL(postmaster)
 
 
 void postmaster_send_mail(struct char_data * ch, struct char_data *mailman,
-			  int cmd, char *arg)
+              int cmd, char *arg)
 {
   long recipient;
   char buf[256], **write;
 
   if (GET_LEVEL(ch) < MIN_MAIL_LEVEL) {
     sprintf(buf, "$n tells you, 'Sorry, you have to be level %d to send mail!'",
-	    MIN_MAIL_LEVEL);
+        MIN_MAIL_LEVEL);
     act(buf, FALSE, mailman, 0, ch, TO_VICT);
     return;
   }
   one_argument(arg, buf);
 
-  if (!*buf) {			/* you'll get no argument from me! */
+  if (!*buf) {          /* you'll get no argument from me! */
     act("$n tells you, 'You need to specify an addressee!'",
-	FALSE, mailman, 0, ch, TO_VICT);
+    FALSE, mailman, 0, ch, TO_VICT);
     return;
   }
   if (GET_GOLD(ch) < STAMP_PRICE) {
     sprintf(buf, "$n tells you, 'A stamp costs %d coins.'\r\n"
-	    "$n tells you, '...which I see you can't afford.'", STAMP_PRICE);
+        "$n tells you, '...which I see you can't afford.'", STAMP_PRICE);
     act(buf, FALSE, mailman, 0, ch, TO_VICT);
     return;
   }
   if ((recipient = get_id_by_name(buf)) < 0) {
     act("$n tells you, 'No one by that name is registered here!'",
-	FALSE, mailman, 0, ch, TO_VICT);
+    FALSE, mailman, 0, ch, TO_VICT);
     return;
   }
   act("$n starts to write some mail.", TRUE, ch, 0, 0, TO_ROOM);
   sprintf(buf, "$n tells you, 'I'll take %d coins for the stamp.'\r\n"
        "$n tells you, 'Write your message, use @ on a new line when done.'",
-	  STAMP_PRICE);
+      STAMP_PRICE);
 
   act(buf, FALSE, mailman, 0, ch, TO_VICT);
   GET_GOLD(ch) -= STAMP_PRICE;
@@ -546,7 +546,7 @@ void postmaster_send_mail(struct char_data * ch, struct char_data *mailman,
 
 
 void postmaster_check_mail(struct char_data * ch, struct char_data *mailman,
-			  int cmd, char *arg)
+              int cmd, char *arg)
 {
   char buf[256];
 
@@ -559,7 +559,7 @@ void postmaster_check_mail(struct char_data * ch, struct char_data *mailman,
 
 
 void postmaster_receive_mail(struct char_data * ch, struct char_data *mailman,
-			  int cmd, char *arg)
+              int cmd, char *arg)
 {
   char buf[256];
   struct obj_data *obj;
@@ -586,7 +586,7 @@ void postmaster_receive_mail(struct char_data * ch, struct char_data *mailman,
 
     if (obj->action_description == NULL)
       obj->action_description =
-	str_dup("Mail system error - please report.  Error #11.\r\n");
+    str_dup("Mail system error - please report.  Error #11.\r\n");
 
     obj_to_char(obj, ch);
 

@@ -57,7 +57,7 @@ ACMD(do_assist)
 
   if (FIGHTING(ch)) {
     send_to_char("You're already fighting!  How can you assist "
-		 "someone else?\r\n", ch);
+         "someone else?\r\n", ch);
     return;
   }
 
@@ -78,22 +78,22 @@ ACMD(do_assist)
   else
     {
       for (opponent = world[ch->in_room].people;
-	   opponent && (FIGHTING(opponent) != helpee);
-	   opponent = opponent->next_in_room)
-	;
+       opponent && (FIGHTING(opponent) != helpee);
+       opponent = opponent->next_in_room)
+    ;
 
       if (!opponent)
-	act("But nobody is fighting $M!", FALSE, ch, 0, helpee, TO_CHAR);
+    act("But nobody is fighting $M!", FALSE, ch, 0, helpee, TO_CHAR);
       else if (!CAN_SEE(ch, opponent))
-	act("You can't see who is fighting $M!",
-	    FALSE, ch, 0, helpee, TO_CHAR);
+    act("You can't see who is fighting $M!",
+        FALSE, ch, 0, helpee, TO_CHAR);
       else
-	{
-	  send_to_char("You join the fight!\r\n", ch);
-	  act("$N assists you!", 0, helpee, 0, ch, TO_CHAR);
-	  act("$n assists $N.", FALSE, ch, 0, helpee, TO_NOTVICT);
-	  hit(ch, opponent, TYPE_UNDEFINED);
-	}
+    {
+      send_to_char("You join the fight!\r\n", ch);
+      act("$N assists you!", 0, helpee, 0, ch, TO_CHAR);
+      act("$n assists $N.", FALSE, ch, 0, helpee, TO_NOTVICT);
+      hit(ch, opponent, TYPE_UNDEFINED);
+    }
     }
 }
 
@@ -116,17 +116,17 @@ ACMD(do_hit)
     }
   else if (IS_AFFECTED(ch, AFF_CHARM) && (ch->master == vict))
     act("$N is just such a good friend, you simply can't hit $M.",
-	FALSE, ch, 0, vict, TO_CHAR);
+    FALSE, ch, 0, vict, TO_CHAR);
   else
     {
       if ((GET_POS(ch) == POS_STANDING) && (vict != FIGHTING(ch)))
-	{
-	  if (IS_MOUNTED(ch))
+    {
+      if (IS_MOUNTED(ch))
             do_dismount(ch, NULL, 0, 0);
           hit(ch, vict, TYPE_UNDEFINED);
-	  WAIT_STATE(ch, PULSE_VIOLENCE + 2);
-	} else
-	  send_to_char("You do the best you can!\r\n", ch);
+      WAIT_STATE(ch, PULSE_VIOLENCE + 2);
+    } else
+      send_to_char("You do the best you can!\r\n", ch);
     }
 }
 
@@ -147,17 +147,17 @@ ACMD(do_kill)
   else
     {
       if (!(vict = get_char_room_vis(ch, arg)))
-	send_to_char("They aren't here.\r\n", ch);
+    send_to_char("They aren't here.\r\n", ch);
       else if (ch == vict)
-	send_to_char("Your mother would be so sad.. :(\r\n", ch);
+    send_to_char("Your mother would be so sad.. :(\r\n", ch);
       else if (GET_LEVEL(vict) == GET_LEVEL(ch))
-	send_to_char("No can do, buddy.. \r\n", ch);
+    send_to_char("No can do, buddy.. \r\n", ch);
       else {
-	act("You chop $M to pieces!  Ah!  The blood!",
-	    FALSE,ch,0,vict, TO_CHAR);
-	act("$N chops you to pieces!", FALSE, vict, 0, ch, TO_CHAR);
-	act("$n brutally slays $N!", FALSE, ch, 0, vict, TO_NOTVICT);
-	raw_kill(vict, TYPE_SLASH);
+    act("You chop $M to pieces!  Ah!  The blood!",
+        FALSE,ch,0,vict, TO_CHAR);
+    act("$N chops you to pieces!", FALSE, vict, 0, ch, TO_CHAR);
+    act("$n brutally slays $N!", FALSE, ch, 0, vict, TO_NOTVICT);
+    raw_kill(vict, TYPE_SLASH);
       }
     }
 }
@@ -194,7 +194,7 @@ ACMD(do_backstab)
   if (GET_OBJ_VAL(GET_EQ(ch, WEAR_WIELD), 3) != TYPE_PIERCE - TYPE_HIT)
     {
       send_to_char("Only piercing weapons can be used for backstabbing.\r\n",
-		   ch);
+           ch);
       return;
     }
   if (IS_MOUNTED(ch))
@@ -205,7 +205,7 @@ ACMD(do_backstab)
   if (FIGHTING(vict))
     {
       send_to_char("You can't backstab a fighting person -- they're too "
-		   "alert!\r\n", ch);
+           "alert!\r\n", ch);
       return;
     }
 
@@ -218,7 +218,7 @@ ACMD(do_backstab)
       return;
     }
 
-  percent = number(1, 101);	/* 101% is a complete failure */
+  percent = number(1, 101); /* 101% is a complete failure */
   prob = subcmd?number(50,100):GET_SKILL(ch, SKILL_BACKSTAB);
 
   if (AWAKE(vict) && (percent > prob))
@@ -305,7 +305,7 @@ ACMD(do_order)
   if (!*name || !*message)
     send_to_char("Order who to do what?\r\n", ch);
   else if (!(vict = get_char_room_vis(ch, name))
-	   && !is_abbrev(name, "followers"))
+       && !is_abbrev(name, "followers"))
     send_to_char("That person isn't here.\r\n", ch);
   else if (ch == vict)
     send_to_char("You obviously suffer from skitzofrenia.\r\n", ch);
@@ -314,44 +314,44 @@ ACMD(do_order)
     {
     if (IS_AFFECTED(ch, AFF_CHARM))
       {
-	send_to_char("Your superior would not aprove of you giving "
-		     "orders.\r\n", ch);
-	return;
+    send_to_char("Your superior would not aprove of you giving "
+             "orders.\r\n", ch);
+    return;
       }
     if (vict)
       {
-	sprintf(buf, "$N orders you to '%s'", message);
-	act(buf, FALSE, vict, 0, ch, TO_CHAR);
-	act("$n gives $N an order.", FALSE, ch, 0, vict, TO_ROOM);
+    sprintf(buf, "$N orders you to '%s'", message);
+    act(buf, FALSE, vict, 0, ch, TO_CHAR);
+    act("$n gives $N an order.", FALSE, ch, 0, vict, TO_ROOM);
 
-	if ((vict->master != ch) || !IS_AFFECTED(vict, AFF_CHARM))
-	  act("$n has an indifferent look.", FALSE, vict, 0, 0, TO_ROOM);
-	else
-	  {
-	    send_to_char(OK, ch);
-	    command_interpreter(vict, message);
-	  }
+    if ((vict->master != ch) || !IS_AFFECTED(vict, AFF_CHARM))
+      act("$n has an indifferent look.", FALSE, vict, 0, 0, TO_ROOM);
+    else
+      {
+        send_to_char(OK, ch);
+        command_interpreter(vict, message);
+      }
       }
     else
-      {			/* This is order "followers" */
-	sprintf(buf, "$n issues the order '%s'.", message);
-	act(buf, FALSE, ch, 0, vict, TO_ROOM);
+      {         /* This is order "followers" */
+    sprintf(buf, "$n issues the order '%s'.", message);
+    act(buf, FALSE, ch, 0, vict, TO_ROOM);
 
-	org_room = ch->in_room;
+    org_room = ch->in_room;
 
-	for (k = ch->followers; k; k = k->next)
-	  {
-	    if (k->follower && (org_room == k->follower->in_room))
-	      if (k->follower && IS_AFFECTED(k->follower, AFF_CHARM))
-		{
-		  found = TRUE;
-		  command_interpreter(k->follower, message);
-		}
-	  }
-	if (found)
-	  send_to_char(OK, ch);
-	else
-	  send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
+    for (k = ch->followers; k; k = k->next)
+      {
+        if (k->follower && (org_room == k->follower->in_room))
+          if (k->follower && IS_AFFECTED(k->follower, AFF_CHARM))
+        {
+          found = TRUE;
+          command_interpreter(k->follower, message);
+        }
+      }
+    if (found)
+      send_to_char(OK, ch);
+    else
+      send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
       }
     }
 }
@@ -370,8 +370,8 @@ ACMD(do_flee)
 
   if (GET_POS(ch)<POS_FIGHTING)
   {
-	stc("Get on your feet first!\r\n", ch);
-	return;
+    stc("Get on your feet first!\r\n", ch);
+    return;
   }
 
   if (IS_NPC(ch) && GET_MOB_WAIT(ch))
@@ -390,25 +390,25 @@ ACMD(do_flee)
 
 
   for (i = 0; i < 6; i++) {
-    attempt = number(0, NUM_OF_DIRS - 1);	/* Select a random direction */
+    attempt = number(0, NUM_OF_DIRS - 1);   /* Select a random direction */
     if (CAN_GO(ch, attempt) &&
-	!IS_SET_AR(ROOM_FLAGS(EXIT(ch, attempt)->to_room), ROOM_DEATH))
+    !IS_SET_AR(ROOM_FLAGS(EXIT(ch, attempt)->to_room), ROOM_DEATH))
       {
-	act("$n panics, and attempts to flee!", TRUE, ch, 0, 0, TO_ROOM);
-	if (do_simple_move(ch, attempt, TRUE)) /* successful flee */
-	  {
-	    send_to_char("You flee head over heels.\r\n", ch);
+    act("$n panics, and attempts to flee!", TRUE, ch, 0, 0, TO_ROOM);
+    if (do_simple_move(ch, attempt, TRUE)) /* successful flee */
+      {
+        send_to_char("You flee head over heels.\r\n", ch);
             if (!IS_NPC(ch))
-	    {
-	      if (GET_LEVEL(ch)>10)
-		loss += 500*(GET_LEVEL(ch)/2.6);
-	      gain_exp(ch, -loss);
+        {
+          if (GET_LEVEL(ch)>10)
+        loss += 500*(GET_LEVEL(ch)/2.6);
+          gain_exp(ch, -loss);
             }
-	  }
-	else
-	  {
-	    act("$n tries to flee, but can't!", TRUE, ch, 0, 0, TO_ROOM);
-	  }
+      }
+    else
+      {
+        act("$n tries to flee, but can't!", TRUE, ch, 0, 0, TO_ROOM);
+      }
       return;
       }
   }
@@ -427,7 +427,7 @@ ACMD(do_bash)
   if (!GET_SKILL(ch, SKILL_BASH))
     {
     send_to_char("You'd better leave all the martial arts to fighters.\r\n",
-		 ch);
+         ch);
     if (!subcmd)
       return;
     }
@@ -443,8 +443,8 @@ ACMD(do_bash)
       vict = FIGHTING(ch);
     else
       {
-	send_to_char("Bash who?\r\n", ch);
-	return;
+    send_to_char("Bash who?\r\n", ch);
+    return;
       }
     }
   if (vict == ch)
@@ -454,8 +454,8 @@ ACMD(do_bash)
     }
   if (GET_POS(vict)<POS_FIGHTING)
   {
-	stc("You can't bash someone who's sitting already!\r\n", ch);
-	return;
+    stc("You can't bash someone who's sitting already!\r\n", ch);
+    return;
   }
 
   if (IS_MOUNTED(ch))
@@ -525,7 +525,7 @@ ACMD(do_rescue)
   if (FIGHTING(ch) == vict)
     {
       send_to_char("How can you rescue someone you are trying to kill?\r\n",
-		   ch);
+           ch);
       return;
     }
   if (IS_MOUNTED(ch))
@@ -550,7 +550,7 @@ ACMD(do_rescue)
       return;
     }
 
-  percent = number(1, 101);	/* 101% is a complete failure */
+  percent = number(1, 101); /* 101% is a complete failure */
   prob = subcmd?100:GET_SKILL(ch, SKILL_RESCUE);
 
   if (percent > prob)
@@ -562,21 +562,21 @@ ACMD(do_rescue)
     {
       send_to_char("Banzai!  To the rescue...\r\n", ch);
       act("You are rescued by $N, you are confused!",
-	  FALSE, vict, 0, ch, TO_CHAR);
+      FALSE, vict, 0, ch, TO_CHAR);
       act("$n heroically rescues $N!", FALSE, ch, 0, vict, TO_NOTVICT);
       improve_skill(ch, SKILL_RESCUE);
 
       if (FIGHTING(vict) == tmp_ch)
-	stop_fighting(vict);
+    stop_fighting(vict);
       if (FIGHTING(tmp_ch))
-	stop_fighting(tmp_ch);
+    stop_fighting(tmp_ch);
       if (FIGHTING(ch))
-	stop_fighting(ch);
+    stop_fighting(ch);
 
       set_fighting(ch, tmp_ch);
       set_fighting(tmp_ch, ch);
       if (subcmd)
-	hit(vict, tmp_ch, TYPE_UNDEFINED);
+    hit(vict, tmp_ch, TYPE_UNDEFINED);
 
       WAIT_STATE(vict, 2 * PULSE_VIOLENCE);
     }
@@ -592,7 +592,7 @@ ACMD(do_kick)
   if (!GET_SKILL(ch, SKILL_KICK))
     {
       send_to_char("You'd better leave all the martial arts to fighters.\r\n",
-		   ch);
+           ch);
       return;
     }
   one_argument(argument, arg);
@@ -600,12 +600,12 @@ ACMD(do_kick)
   if (!(vict = get_char_room_vis(ch, arg)))
     {
       if (FIGHTING(ch))
-	vict = FIGHTING(ch);
+    vict = FIGHTING(ch);
       else
-	{
-	  send_to_char("Kick who?\r\n", ch);
-	  return;
-	}
+    {
+      send_to_char("Kick who?\r\n", ch);
+      return;
+    }
     }
   if (vict == ch)
     {
@@ -649,12 +649,12 @@ ACMD(do_dragon_kick)
   if (!(vict = get_char_room_vis(ch, arg)))
     {
       if (FIGHTING(ch))
-	vict = FIGHTING(ch);
+    vict = FIGHTING(ch);
       else
-	{
-	  stc("Kick who?\r\n", ch);
-	  return;
-	}
+    {
+      stc("Kick who?\r\n", ch);
+      return;
+    }
     }
   if (vict == ch)
     {
@@ -711,12 +711,12 @@ ACMD(do_tiger_punch)
   if (!(vict = get_char_room_vis(ch, arg)))
     {
       if (FIGHTING(ch))
-	vict = FIGHTING(ch);
+    vict = FIGHTING(ch);
       else
-	{
-	  stc("Hit who?\r\n", ch);
-	  return;
-	}
+    {
+      stc("Hit who?\r\n", ch);
+      return;
+    }
     }
   if (vict == ch)
     {
@@ -786,128 +786,128 @@ ACMD(do_shoot)
   else if (!*arg3)
     {
       send_to_char("Who would you like to shoot it at in that direction?\r\n",
-		   ch);
+           ch);
       return;
     }
   else
     {
       if (!(projectile = get_obj_in_list_vis(ch, arg1, ch->carrying)))
-	{
-	  sprintf(buf, "You don't seem to have any %ss.\r\n", arg1);
-	  send_to_char(buf, ch);
-	  return;
-	}
+    {
+      sprintf(buf, "You don't seem to have any %ss.\r\n", arg1);
+      send_to_char(buf, ch);
+      return;
+    }
 
       /* have what they want to shoot? */
       if (!projectile)
-	{
-	  sprintf(buf, "You do not seem to have %s %s.\r\n", AN(arg2), arg2);
-	  send_to_char(buf, ch);
-	  return;
-	}
+    {
+      sprintf(buf, "You do not seem to have %s %s.\r\n", AN(arg2), arg2);
+      send_to_char(buf, ch);
+      return;
+    }
       /* is it shootable? */
       else if (GET_OBJ_TYPE(projectile) != ITEM_MISSILE)
-	{
-	  act("$p is not a projectile!", FALSE, ch, projectile, 0, TO_CHAR);
-	  return;
-	}
+    {
+      act("$p is not a projectile!", FALSE, ch, projectile, 0, TO_CHAR);
+      return;
+    }
       else if ((dir = search_block(arg2, dirs, FALSE)) >= 0)
-	{
-	  if ( (dir > NUM_OF_DIRS) || (dir == -1) || !EXIT(ch, dir) )
-	    {
-	      send_to_char("Interesting Direction.\r\n", ch);
-	      return;
-	    }
+    {
+      if ( (dir > NUM_OF_DIRS) || (dir == -1) || !EXIT(ch, dir) )
+        {
+          send_to_char("Interesting Direction.\r\n", ch);
+          return;
+        }
 
-	  /* wielding a bow? */
-	  bow = ch->equipment[WEAR_WIELD];
-	  if ((!bow) || (GET_OBJ_TYPE(bow) != ITEM_FIREWEAPON))
-	    {
-	      send_to_char("You must wield a bow or sling to fire a "
-			   "projectile.\r\n", ch);
-	      return;
-	    }
+      /* wielding a bow? */
+      bow = ch->equipment[WEAR_WIELD];
+      if ((!bow) || (GET_OBJ_TYPE(bow) != ITEM_FIREWEAPON))
+        {
+          send_to_char("You must wield a bow or sling to fire a "
+               "projectile.\r\n", ch);
+          return;
+        }
 
-	  /* this is where they are shooting to */
-	  targ_room = EXIT(ch, dir)->to_room;
+      /* this is where they are shooting to */
+      targ_room = EXIT(ch, dir)->to_room;
 
-	  /* room there? */
-	  if (dir < 0 || dir >= NUM_OF_DIRS)
-	    return;
-  	  else if (!EXIT(ch, dir) || targ_room == NOWHERE)
-	    {
-	      send_to_char("Alas, you cannot shoot that way...\r\n", ch);
-	      return;
-	    }
+      /* room there? */
+      if (dir < 0 || dir >= NUM_OF_DIRS)
+        return;
+      else if (!EXIT(ch, dir) || targ_room == NOWHERE)
+        {
+          send_to_char("Alas, you cannot shoot that way...\r\n", ch);
+          return;
+        }
           else if (IS_SET(EXIT(ch, dir)->exit_info, EX_CLOSED))
-	    {
-	      if (EXIT(ch, dir)->keyword)
-		{
-		  sprintf(buf2, "The %s seems to be closed.\r\n",
-			  fname(EXIT(ch, dir)->keyword));
-		  send_to_char(buf2, ch);
-    		}
-	      else
-		send_to_char("It seems to be closed.\r\n", ch);
-	      return;
-	    }
+        {
+          if (EXIT(ch, dir)->keyword)
+        {
+          sprintf(buf2, "The %s seems to be closed.\r\n",
+              fname(EXIT(ch, dir)->keyword));
+          send_to_char(buf2, ch);
+            }
+          else
+        send_to_char("It seems to be closed.\r\n", ch);
+          return;
+        }
 
-	  if (ROOM_FLAGGED(targ_room, ROOM_PEACEFUL) ||
-	      ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL))
-	    {
-	      send_to_char("You feel too peaceful to contemplate "
-			   "violence.\r\n", ch);
-	      return;
-	    }
-	  to = get_char_room(arg3, targ_room);
-	  if (!to)
-	    to = world[targ_room].people;
+      if (ROOM_FLAGGED(targ_room, ROOM_PEACEFUL) ||
+          ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL))
+        {
+          send_to_char("You feel too peaceful to contemplate "
+               "violence.\r\n", ch);
+          return;
+        }
+      to = get_char_room(arg3, targ_room);
+      if (!to)
+        to = world[targ_room].people;
 
-	  if (!to)
-	    {
-	      send_to_char("Twang...\r\n", ch);
-	      obj_from_char(projectile);
-	      obj_to_room(projectile, targ_room);
-	      return;
-	    }
+      if (!to)
+        {
+          send_to_char("Twang...\r\n", ch);
+          obj_from_char(projectile);
+          obj_to_room(projectile, targ_room);
+          return;
+        }
 
-	  if (dir == 0) from = "the south";
-	  if (dir == 1) from = "the west";
-	  if (dir == 2) from = "the north";
-	  if (dir == 3) from = "the east";
-	  if (dir == 4) from = "below";
-	  if (dir == 5) from = "above";
+      if (dir == 0) from = "the south";
+      if (dir == 1) from = "the west";
+      if (dir == 2) from = "the north";
+      if (dir == 3) from = "the east";
+      if (dir == 4) from = "below";
+      if (dir == 5) from = "above";
 
-	  if (!IS_NPC(to) && ((GET_LEVEL(to) < 10)||(GET_LEVEL(to) > 30)) )
-	    {
-	      send_to_char("Maybe that isn't such a great idea...\r\n", ch);
-	      return;
-	    }
+      if (!IS_NPC(to) && ((GET_LEVEL(to) < 10)||(GET_LEVEL(to) > 30)) )
+        {
+          send_to_char("Maybe that isn't such a great idea...\r\n", ch);
+          return;
+        }
 
-	  /* not when they are fighting... */
-	  if (FIGHTING(to))
-	    {
-	      send_to_char("It looks like they are fighting, you can't "
-			   "aim properly.\r\n", ch);
-	      return;
-	    }
+      /* not when they are fighting... */
+      if (FIGHTING(to))
+        {
+          send_to_char("It looks like they are fighting, you can't "
+               "aim properly.\r\n", ch);
+          return;
+        }
 
-	  /* no shooting stationary mobs */
-	  if ( (to) && IS_NPC(to) && MOB_FLAGGED(to, MOB_SENTINEL) )
-	    {
-	      send_to_char("You cannot see well enough to aim...\r\n", ch);
-	      return;
-	    }
+      /* no shooting stationary mobs */
+      if ( (to) && IS_NPC(to) && MOB_FLAGGED(to, MOB_SENTINEL) )
+        {
+          send_to_char("You cannot see well enough to aim...\r\n", ch);
+          return;
+        }
 
-	  /* its okay for them to shoot it... */
+      /* its okay for them to shoot it... */
 
-	  sprintf(buf, "$n fires %s %s with %s.", AN(arg1), arg1,
-		  (bow)->short_description);
-	  act(buf, FALSE, ch, 0, 0, TO_ROOM);
+      sprintf(buf, "$n fires %s %s with %s.", AN(arg1), arg1,
+          (bow)->short_description);
+      act(buf, FALSE, ch, 0, 0, TO_ROOM);
 
-	  send_to_char("Twang... your projectile flies into the distance.\r\n",
-		       ch);
-	  obj_from_char(projectile);
+      send_to_char("Twang... your projectile flies into the distance.\r\n",
+               ch);
+      obj_from_char(projectile);
 
 
           /* calculate if they hit */
@@ -917,83 +917,83 @@ ACMD(do_shoot)
           prob += (dex_app[GET_DEX(ch)].miss_att * 10);
           prob -= (dex_app[GET_DEX(to)].reaction * 10);
 
-	  if (percent < prob) /* success */
-	    {
-	      /* calc damage */
-	      dam = GET_DAMROLL(ch);
-	      dam += dice(GET_OBJ_VAL(projectile, 1),
-			  GET_OBJ_VAL(projectile, 2));
-	      dam += dice(GET_OBJ_VAL(bow, 1), GET_OBJ_VAL(bow, 2));
+      if (percent < prob) /* success */
+        {
+          /* calc damage */
+          dam = GET_DAMROLL(ch);
+          dam += dice(GET_OBJ_VAL(projectile, 1),
+              GET_OBJ_VAL(projectile, 2));
+          dam += dice(GET_OBJ_VAL(bow, 1), GET_OBJ_VAL(bow, 2));
 
-	      send_to_char("You hear a roar of pain!\r\n", ch);
-	      extract_obj(projectile);
+          send_to_char("You hear a roar of pain!\r\n", ch);
+          extract_obj(projectile);
               improve_skill(ch, SKILL_SHOOT);
 
-	      /* did they shoot at a mob? */
-	      if ( (to) && IS_NPC(to) )
-		{
-		  sprintf(buf, "Some kind of %s streaks in from %s and "
-			  "strikes $n!", arg1, from);
-		  act(buf, FALSE, to, 0, 0, TO_ROOM);
-		  send_to_char("Suddenly some kind of projectile pierces your "
-			       "arm!\r\n", to);
-		  GET_HIT(to) -= dam;
-		  update_pos(to);
-		  if (GET_POS(to) == POS_DEAD)
-		    {
-		      die(to);
-		      return;
-		    }
-		  send_to_char("You decide to go investigate...\r\n", to);
-		  char_from_room(to);
-		  char_to_room(to, ch->in_room);
-		  sprintf(buf, "$n bursts into the room and scowls at $N.\r\n");
-		  act(buf, FALSE, to, 0, ch, TO_NOTVICT);
-		  sprintf(buf, "%s bursts into the room and scowls at "
-			  "you!\r\n", GET_NAME(to));
-		  send_to_char(buf, ch);
-		  hit(to, ch, TYPE_UNDEFINED);
+          /* did they shoot at a mob? */
+          if ( (to) && IS_NPC(to) )
+        {
+          sprintf(buf, "Some kind of %s streaks in from %s and "
+              "strikes $n!", arg1, from);
+          act(buf, FALSE, to, 0, 0, TO_ROOM);
+          send_to_char("Suddenly some kind of projectile pierces your "
+                   "arm!\r\n", to);
+          GET_HIT(to) -= dam;
+          update_pos(to);
+          if (GET_POS(to) == POS_DEAD)
+            {
+              die(to);
+              return;
+            }
+          send_to_char("You decide to go investigate...\r\n", to);
+          char_from_room(to);
+          char_to_room(to, ch->in_room);
+          sprintf(buf, "$n bursts into the room and scowls at $N.\r\n");
+          act(buf, FALSE, to, 0, ch, TO_NOTVICT);
+          sprintf(buf, "%s bursts into the room and scowls at "
+              "you!\r\n", GET_NAME(to));
+          send_to_char(buf, ch);
+          hit(to, ch, TYPE_UNDEFINED);
 
-		}
-	      /* no, its another player */
-	      else
-		{
-		  sprintf(buf, "Some kind of %s streaks in from %s and "
-			  "hits you!\r\n", arg1, from);
-		  send_to_char(buf, to);
-		  sprintf(buf, "Some kind of %s streaks in from %s and "
-			  "strikes $n!", arg1, from);
-		  act(buf, FALSE, to, 0, 0, TO_ROOM);
-		  GET_HIT(to) -= dam;
-		  update_pos(to);
-		  if (GET_POS(to) == POS_DEAD)
-		    {
-		      die(to);
-		      return;
-		    }
-		}
+        }
+          /* no, its another player */
+          else
+        {
+          sprintf(buf, "Some kind of %s streaks in from %s and "
+              "hits you!\r\n", arg1, from);
+          send_to_char(buf, to);
+          sprintf(buf, "Some kind of %s streaks in from %s and "
+              "strikes $n!", arg1, from);
+          act(buf, FALSE, to, 0, 0, TO_ROOM);
+          GET_HIT(to) -= dam;
+          update_pos(to);
+          if (GET_POS(to) == POS_DEAD)
+            {
+              die(to);
+              return;
+            }
+        }
 
-	      /* it shot but they missed */
-	    }
-	  else
-	    {
-	      sprintf(buf, "Some kind of %s streaks in from %s and just "
-		      "misses you!\r\n", arg1, from);
-	      send_to_char(buf, to);
-	      sprintf(buf, "Some kind of %s streaks in from %s and narrowly "
-		      "misses $n!", arg1, from);
-	      act(buf, FALSE, to, 0, 0, TO_ROOM);
-
-	      obj_to_room(projectile, to->in_room);
-	    }
-
-	  /* no such direction */
-	}
+          /* it shot but they missed */
+        }
       else
-	{
-	  send_to_char("Interesting direction.\r\n", ch);
-	  return;
-	}
+        {
+          sprintf(buf, "Some kind of %s streaks in from %s and just "
+              "misses you!\r\n", arg1, from);
+          send_to_char(buf, to);
+          sprintf(buf, "Some kind of %s streaks in from %s and narrowly "
+              "misses $n!", arg1, from);
+          act(buf, FALSE, to, 0, 0, TO_ROOM);
+
+          obj_to_room(projectile, to->in_room);
+        }
+
+      /* no such direction */
+    }
+      else
+    {
+      send_to_char("Interesting direction.\r\n", ch);
+      return;
+    }
     }
 }
 
@@ -1018,8 +1018,8 @@ ACMD(do_retreat)
 
   if (GET_POS(ch)<POS_FIGHTING)
   {
-	stc("Get on your feet first!\r\n", ch);
-	return;
+    stc("Get on your feet first!\r\n", ch);
+    return;
   }
 
   if ( !GET_SKILL(ch, SKILL_ESCAPE) && !GET_SKILL(ch, SKILL_RETREAT) )
@@ -1044,10 +1044,10 @@ ACMD(do_retreat)
   if (percent > prob)
     {
       sprintf(mybuf, "You try to %s but get cornered in the process!\r\n",
-	      lowmsg);
+          lowmsg);
       improve_skill(ch, (GET_CLASS(ch)==CLASS_NINJA?
-			 SKILL_ESCAPE:
-			 SKILL_RETREAT));
+             SKILL_ESCAPE:
+             SKILL_RETREAT));
       send_to_char(mybuf, ch);
       WAIT_STATE(ch, PULSE_VIOLENCE + 2);
       return;
@@ -1057,23 +1057,23 @@ ACMD(do_retreat)
     {
       attempt = number(0, NUM_OF_DIRS - 1);
       if (CAN_GO(ch, attempt) &&
-	  !IS_SET_AR(ROOM_FLAGS(EXIT(ch, attempt)->to_room), ROOM_DEATH))
-	{
-	  sprintf(mybuf, "$n realizes it's a losing cause and gracefully"
-		  " attempts to %s.", lowmsg);
-	  act(mybuf, TRUE, ch, 0, 0, TO_ROOM);
-	  if (do_simple_move(ch, attempt, TRUE))
-	    {
-	      sprintf(mybuf, "You make a hasty %s.\r\n", lowmsg);
-	      send_to_char(mybuf, ch);
-	    }
-	  else
-	    {
-	      sprintf(mybuf, "$n is cornered and fails to %s!", lowmsg);
-	      act(mybuf, TRUE, ch, 0, 0, TO_ROOM);
-	    }
-	  return;
-	}
+      !IS_SET_AR(ROOM_FLAGS(EXIT(ch, attempt)->to_room), ROOM_DEATH))
+    {
+      sprintf(mybuf, "$n realizes it's a losing cause and gracefully"
+          " attempts to %s.", lowmsg);
+      act(mybuf, TRUE, ch, 0, 0, TO_ROOM);
+      if (do_simple_move(ch, attempt, TRUE))
+        {
+          sprintf(mybuf, "You make a hasty %s.\r\n", lowmsg);
+          send_to_char(mybuf, ch);
+        }
+      else
+        {
+          sprintf(mybuf, "$n is cornered and fails to %s!", lowmsg);
+          act(mybuf, TRUE, ch, 0, 0, TO_ROOM);
+        }
+      return;
+    }
     }
   sprintf(mybuf, "You are cornered and fail to %s!\r\n", lowmsg);
   send_to_char(mybuf, ch);
@@ -1143,7 +1143,7 @@ ACMD(do_subdue)
     return;
   }
 
-  percent = number(1, 101+GET_LEVEL(victim));	/* 101% is a complete failure */
+  percent = number(1, 101+GET_LEVEL(victim));   /* 101% is a complete failure */
   prob = GET_SKILL(ch, SKILL_SUBDUE);
 
   if (GET_LEVEL(ch) >= LEVEL_IMMORT)
@@ -1160,20 +1160,20 @@ ACMD(do_subdue)
   if (percent > prob)
     {
       act("$n misses a blow to the back of your head.",
-	  TRUE, ch, 0, victim, TO_VICT);
+      TRUE, ch, 0, victim, TO_VICT);
       act("$N avoids your misplaced blow to the back of $S head.",
-	  TRUE, ch, 0, victim, TO_CHAR);
+      TRUE, ch, 0, victim, TO_CHAR);
       act("$N avoids $n's misplaced blow to the back of $S head.",
-	  TRUE, ch, 0, victim, TO_NOTVICT);
+      TRUE, ch, 0, victim, TO_NOTVICT);
       hit(victim, ch, TYPE_UNDEFINED);
     }
   else
     {
       send_to_char("Someone sneaks up behind you and knocks you out!\r\n",
-		   victim);
+           victim);
       act("You knock $M out cold.", TRUE, ch, 0, victim, TO_CHAR);
       act("$n knocks out $N with a well-placed blow to the back of the head.",
-	  TRUE, ch, 0, victim, TO_NOTVICT);
+      TRUE, ch, 0, victim, TO_NOTVICT);
       GET_POS(victim) = POS_STUNNED;
       WAIT_STATE(ch, PULSE_VIOLENCE * 1);
       improve_skill(ch, SKILL_SUBDUE);

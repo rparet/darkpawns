@@ -48,7 +48,7 @@ extern struct obj_data *object_list;
 extern struct char_data *character_list;
 extern struct index_data *mob_index;
 extern struct index_data *obj_index;
-extern struct obj_data *obj_proto;     /* prototypes for objs           */  
+extern struct obj_data *obj_proto;     /* prototypes for objs           */
 extern struct descriptor_data *descriptor_list;
 extern char *MENU;
 
@@ -89,16 +89,16 @@ int isname(char *str, char *namelist)
   for (;;) {
     for (curstr = str;; curstr++, curname++) {
       if (!*curstr && !isalpha(*curname))
-	return (1);
+  return (1);
 
       if (!*curname)
-	return (0);
+  return (0);
 
       if (!*curstr || *curname == ' ')
-	break;
+  break;
 
       if (LOWER(*curstr) != LOWER(*curname))
-	break;
+  break;
     }
 
     /* skip to next name */
@@ -106,13 +106,13 @@ int isname(char *str, char *namelist)
     for (; isalpha(*curname); curname++);
     if (!*curname)
       return (0);
-    curname++;			/* first char of new name */
+    curname++;      /* first char of new name */
   }
 }
 
 #define WHITESPACE " \t"
 /* unused, but works */
-int 
+int
 isname_with_abbrevs(char *str, char *namelist)
 {
   register char *newlist, *curtok;
@@ -120,12 +120,12 @@ isname_with_abbrevs(char *str, char *namelist)
   {
    newlist = strdup(namelist);
 
-   for(curtok = strtok(newlist, WHITESPACE); 
-       curtok; 
+   for(curtok = strtok(newlist, WHITESPACE);
+       curtok;
        curtok = strtok(NULL, WHITESPACE))
          if(curtok && is_abbrev(str, curtok))
           {
-            FREE(newlist); 
+            FREE(newlist);
             return 1;
           }
    FREE(newlist);
@@ -177,7 +177,7 @@ void aff_apply_modify(struct char_data *ch, byte loc, sbyte mod, char *msg)
      case APPLY_MOVE_REGEN:
                         break;
      case APPLY_HIT_REGEN:
-			break;
+      break;
      case APPLY_EXP:    break;
      case APPLY_AC:     GET_AC(ch) += mod;
                         break;
@@ -202,7 +202,7 @@ void aff_apply_modify(struct char_data *ch, byte loc, sbyte mod, char *msg)
      case APPLY_SAVING_SPELL:
                         GET_SAVE(ch, SAVING_SPELL) += mod;
                         break;
-    case APPLY_RACE_HATE: 
+    case APPLY_RACE_HATE:
                         /* Turn off any race_hates (but 0(HUMAN) ) */
                         if (mod < 0) {
                           for (i = 0; i < 5; i++)
@@ -238,36 +238,36 @@ void aff_apply_modify(struct char_data *ch, byte loc, sbyte mod, char *msg)
                          }
                          break;
      case APPLY_SPELL:
-	if(IS_NPC(ch))
-		break;
-	else
-	{
-   			struct master_affected_type *aff;
-			if (mod > 0)
-			{
-			  int found = 0; 
-  			  if (ch->affected)
-    			    for (aff = ch->affected; aff; aff = aff->next)
-      				if (aff->bitvector)
-				  if (aff->bitvector == mod)
-				    found = 1;
-			  if (!found)
-			    SET_BIT_AR(AFF_FLAGS(ch), mod);
-			}
-			else
-			{
-			  int found = 0; 
-  			  if (ch->affected)
-    			    for (aff = ch->affected; aff; aff = aff->next)
-      				if (aff->bitvector)
-				  if (aff->bitvector == -mod)
-				    found = 1;
-			  if (!found)
-			    REMOVE_BIT_AR(AFF_FLAGS(ch), -mod);
-			}
-	} /*!IS_NPC*/
+  if(IS_NPC(ch))
+    break;
+  else
+  {
+         struct master_affected_type *aff;
+      if (mod > 0)
+      {
+        int found = 0;
+          if (ch->affected)
+              for (aff = ch->affected; aff; aff = aff->next)
+              if (aff->bitvector)
+          if (aff->bitvector == mod)
+            found = 1;
+        if (!found)
+          SET_BIT_AR(AFF_FLAGS(ch), mod);
+      }
+      else
+      {
+        int found = 0;
+          if (ch->affected)
+              for (aff = ch->affected; aff; aff = aff->next)
+              if (aff->bitvector)
+          if (aff->bitvector == -mod)
+            found = 1;
+        if (!found)
+          REMOVE_BIT_AR(AFF_FLAGS(ch), -mod);
+      }
+  } /*!IS_NPC*/
 
-			break;
+      break;
 
      default:           sprintf(buf, "SYSERR: Unknown apply (%d) adjust "
                                 "attempt (handler.c, %s).", loc, msg);
@@ -319,9 +319,9 @@ void affect_total(struct char_data * ch)
   for (i = 0; i < NUM_WEARS; i++) {
     if (GET_EQ(ch, i))
       for (j = 0; j < MAX_OBJ_AFFECT; j++)
-	affect_modify_ar(ch, GET_EQ(ch, i)->affected[j].location,
-		      GET_EQ(ch, i)->affected[j].modifier,
-		      GET_EQ(ch, i)->obj_flags.bitvector, FALSE);
+  affect_modify_ar(ch, GET_EQ(ch, i)->affected[j].location,
+          GET_EQ(ch, i)->affected[j].modifier,
+          GET_EQ(ch, i)->obj_flags.bitvector, FALSE);
   }
 
   for (af = ch->affected; af; af = af->next)
@@ -336,9 +336,9 @@ void affect_total(struct char_data * ch)
   for (i = 0; i < NUM_WEARS; i++) {
     if (GET_EQ(ch, i))
       for (j = 0; j < MAX_OBJ_AFFECT; j++)
-	affect_modify_ar(ch, GET_EQ(ch, i)->affected[j].location,
-		      GET_EQ(ch, i)->affected[j].modifier,
-		      GET_EQ(ch, i)->obj_flags.bitvector, TRUE);
+  affect_modify_ar(ch, GET_EQ(ch, i)->affected[j].location,
+          GET_EQ(ch, i)->affected[j].modifier,
+          GET_EQ(ch, i)->obj_flags.bitvector, TRUE);
   }
 
   for (af = ch->affected; af; af = af->next)
@@ -365,17 +365,17 @@ void affect_total(struct char_data * ch)
       GET_STR(ch) = 18;
     }
   }
- 
+
   if (GET_ALIGNMENT(ch)>1000)
-	GET_ALIGNMENT(ch) = 1000;
+  GET_ALIGNMENT(ch) = 1000;
   if (GET_ALIGNMENT(ch)<-1000)
-	GET_ALIGNMENT(ch) = -1000;
+  GET_ALIGNMENT(ch) = -1000;
 }
 
 
 /* Serapis Wed Jun 10 10:07:12 1998 */
 void master_affect_to_char(struct char_data *ch, struct affected_type *af,
-			   by_types_enum by_type, int obj_num)
+         by_types_enum by_type, int obj_num)
 {
   struct master_affected_type *affected_alloc;
 
@@ -411,7 +411,7 @@ void affect_to_char2(struct char_data *ch, struct master_affected_type *af)
   *affected_alloc = *af;
   affected_alloc->by_type = BY_SPELL;
   affected_alloc->obj_num = 0;
-  
+
   affected_alloc->next = ch->affected;
   ch->affected = affected_alloc;
 
@@ -471,7 +471,7 @@ bool affected_by_spell(struct char_data * ch, int type)
 
 
 void affect_join(struct char_data * ch, struct master_affected_type * af,
-		      bool add_dur, bool avg_dur, bool add_mod, bool avg_mod)
+          bool add_dur, bool avg_dur, bool add_mod, bool avg_mod)
 {
   struct master_affected_type *hjp;
   bool found = FALSE;
@@ -480,14 +480,14 @@ void affect_join(struct char_data * ch, struct master_affected_type * af,
 
     if ((hjp->type == af->type) && (hjp->location == af->location)) {
       if (add_dur)
-	af->duration += hjp->duration;
+  af->duration += hjp->duration;
       if (avg_dur)
-	af->duration >>= 1;
+  af->duration >>= 1;
 
       if (add_mod)
-	af->modifier += hjp->modifier;
+  af->modifier += hjp->modifier;
       if (avg_mod)
-	af->modifier >>= 1;
+  af->modifier >>= 1;
 
       affect_remove(ch, hjp);
       affect_to_char2(ch, af);
@@ -503,7 +503,7 @@ void affect_join(struct char_data * ch, struct master_affected_type * af,
 void char_from_room(struct char_data * ch)
 {
   struct char_data *temp, *i;
-  
+
   if (ch == NULL || ch->in_room == NOWHERE) {
     log("SYSERR: NULL or NOWHERE in handler.c, char_from_room");
     exit(1);
@@ -619,16 +619,16 @@ int apply_ac(struct char_data * ch, int eq_pos)
 
   case WEAR_BODY:
     factor = 3;
-    break;			/* 30% */
+    break;      /* 30% */
   case WEAR_HEAD:
     factor = 2;
-    break;			/* 20% */
+    break;      /* 20% */
   case WEAR_LEGS:
     factor = 2;
-    break;			/* 20% */
+    break;      /* 20% */
   default:
     factor = 1;
-    break;			/* all others 10% */
+    break;      /* all others 10% */
   }
 
   return (factor * GET_OBJ_VAL(GET_EQ(ch, eq_pos), 0));
@@ -639,40 +639,40 @@ int apply_ac(struct char_data * ch, int eq_pos)
 void
 check_for_bad_stats(struct char_data * ch)
 {
-	char bad_char = 0;
+  char bad_char = 0;
 
-	if (GET_STR(ch) == 0) bad_char = 's';
-	if (GET_INT(ch) == 0) bad_char = 'i';
-	if (GET_WIS(ch) == 0) bad_char = 'w';
-	if (GET_CHA(ch) == 0) bad_char = 'c';
-	if (GET_DEX(ch) == 0) bad_char = 'd';
-	
-	switch (bad_char)
-	{
-	case 0: break;
-	case 's': 
-		send_to_char("You are too weak to fight!\n\r", ch);
-		break;
-	case 'i':
-		send_to_char("You are too dumb to do much of anything!\n\r",ch);
-		break;
-	case 'w':
-		send_to_char("You are too dumb to do much of anything!\n\r",ch);
-		break;
-	case 'c':
-		send_to_char("The world hates you!\n\r", ch);
-		if (!HUNTING( get_char_num(real_mobile(PESTILENCE_VNUM))))
-		  set_hunting( get_char_num(real_mobile(PESTILENCE_VNUM)),ch);
-		break;
-	case 'd':
-		send_to_char("You trip over your own feet and hit your "
-				"head!\n\r",ch);
-		damage(ch, ch, 40, TYPE_SUFFERING);  
-		break;
-	default: 
-	    log("error (handler.c): illegal stat in check_for_bad_stats()");
-		break;
-	}
+  if (GET_STR(ch) == 0) bad_char = 's';
+  if (GET_INT(ch) == 0) bad_char = 'i';
+  if (GET_WIS(ch) == 0) bad_char = 'w';
+  if (GET_CHA(ch) == 0) bad_char = 'c';
+  if (GET_DEX(ch) == 0) bad_char = 'd';
+
+  switch (bad_char)
+  {
+  case 0: break;
+  case 's':
+    send_to_char("You are too weak to fight!\n\r", ch);
+    break;
+  case 'i':
+    send_to_char("You are too dumb to do much of anything!\n\r",ch);
+    break;
+  case 'w':
+    send_to_char("You are too dumb to do much of anything!\n\r",ch);
+    break;
+  case 'c':
+    send_to_char("The world hates you!\n\r", ch);
+    if (!HUNTING( get_char_num(real_mobile(PESTILENCE_VNUM))))
+      set_hunting( get_char_num(real_mobile(PESTILENCE_VNUM)),ch);
+    break;
+  case 'd':
+    send_to_char("You trip over your own feet and hit your "
+        "head!\n\r",ch);
+    damage(ch, ch, 40, TYPE_SUFFERING);
+    break;
+  default:
+      log("error (handler.c): illegal stat in check_for_bad_stats()");
+    break;
+  }
 }
 
 
@@ -680,12 +680,13 @@ void equip_char(struct char_data * ch, struct obj_data * obj, int pos)
 {
   int j;
   int invalid_class(struct char_data *ch, struct obj_data *obj);
+  char buf[MAX_STRING_LENGTH];
 
   assert(pos >= 0 && pos < NUM_WEARS);
 
   if (GET_EQ(ch, pos)) {
     sprintf(buf, "SYSERR: Char is already equipped: %s, %s", GET_NAME(ch),
-	    obj->short_description);
+      obj->short_description);
     log(buf);
     return;
   }
@@ -701,28 +702,29 @@ void equip_char(struct char_data * ch, struct obj_data * obj, int pos)
       (IS_OBJ_STAT(obj, ITEM_ANTI_GOOD) && IS_GOOD(ch)) ||
       (IS_OBJ_STAT(obj, ITEM_ANTI_NEUTRAL) && IS_NEUTRAL(ch)) )
   {
-      act("You are zapped by $p and instantly let go of it.", 
-		FALSE, ch, obj, 0, TO_CHAR);
-      act("$n is zapped by $p and instantly lets go of it.", 
-		FALSE, ch, obj, 0, TO_ROOM);
-      obj_to_char(obj, ch);	/* changed to drop in inventory instead of
-				 * ground */
+      act("You are zapped by $p and instantly let go of it.",
+    FALSE, ch, obj, 0, TO_CHAR);
+      act("$n is zapped by $p and instantly lets go of it.",
+    FALSE, ch, obj, 0, TO_ROOM);
+      obj_to_char(obj, ch);  /* changed to drop in inventory instead of
+         * ground */
       return;
   }
   if (invalid_class(ch, obj))
   {
       act("You cannot use $p.", FALSE, ch, obj, 0, TO_CHAR);
-      obj_to_char(obj, ch);	/* drop in inventory instead of ground */
+      obj_to_char(obj, ch);  /* drop in inventory instead of ground */
       return;
   }
 
   if (IS_OBJ_STAT(obj, ITEM_TAKE_NAME))
   {
-      int nr = GET_OBJ_RNUM(obj);
-      if (obj->short_description &&
-	  obj->short_description != obj_proto[nr].short_description)
-	FREE(obj->short_description);
-      obj->short_description = tprintf("%s's %s", GET_NAME(ch), obj->name);
+    int nr = GET_OBJ_RNUM(obj);
+    if (obj->short_description &&
+      obj->short_description != obj_proto[nr].short_description)
+      FREE(obj->short_description);
+    sprintf(buf, "%s's %s", GET_NAME(ch), obj->name);
+    obj->short_description = str_dup(buf);
   }
 
   GET_EQ(ch, pos) = obj;
@@ -734,14 +736,14 @@ void equip_char(struct char_data * ch, struct obj_data * obj, int pos)
 
   if (ch->in_room != NOWHERE) {
     if (GET_OBJ_TYPE(obj) == ITEM_LIGHT)
-      if (GET_OBJ_VAL(obj, 2) != 0)	/* if light is ON */
-	world[ch->in_room].light++;
+      if (GET_OBJ_VAL(obj, 2) != 0)  /* if light is ON */
+  world[ch->in_room].light++;
   }
 
   for (j = 0; j < MAX_OBJ_AFFECT; j++)
     affect_modify_ar(ch, obj->affected[j].location,
-		  obj->affected[j].modifier,
-		  obj->obj_flags.bitvector, TRUE);
+      obj->affected[j].modifier,
+      obj->obj_flags.bitvector, TRUE);
 
   affect_total(ch);
   check_for_bad_stats(ch);
@@ -763,9 +765,12 @@ struct obj_data *unequip_char(struct char_data * ch, int pos)
 
   if (IS_OBJ_STAT(obj, ITEM_TAKE_NAME))
   {
-	if (obj->short_description)
-	  FREE(obj->short_description);
-	obj->short_description = tprintf("%s %s", AN(obj->name), obj->name);
+    int nr = GET_OBJ_RNUM(obj);
+    if (obj->short_description &&
+      obj->short_description != obj_proto[nr].short_description)
+      FREE(obj->short_description);
+  sprintf(buf, "%s %s", AN(obj->name), obj->name);
+  obj->short_description = str_dup(buf);
   }
 
   if (GET_OBJ_TYPE(obj) == ITEM_ARMOR)
@@ -773,16 +778,16 @@ struct obj_data *unequip_char(struct char_data * ch, int pos)
 
   if (ch->in_room != NOWHERE) {
     if (GET_OBJ_TYPE(obj) == ITEM_LIGHT)
-      if (GET_OBJ_VAL(obj, 2) != 0)	/* if light is ON */
-	world[ch->in_room].light--;
+      if (GET_OBJ_VAL(obj, 2) != 0)  /* if light is ON */
+  world[ch->in_room].light--;
   }
 
   GET_EQ(ch, pos) = NULL;
 
   for (j = 0; j < MAX_OBJ_AFFECT; j++)
     affect_modify_ar(ch, obj->affected[j].location,
-		  obj->affected[j].modifier,
-		  obj->obj_flags.bitvector, FALSE);
+      obj->affected[j].modifier,
+      obj->obj_flags.bitvector, FALSE);
 
   affect_total(ch);
 
@@ -805,7 +810,7 @@ int get_number(char **name)
 
     for (i = 0; *(number + i); i++)
       if (!isdigit(*(number + i)))
-	return 0;
+  return 0;
 
     return (atoi(number));
   }
@@ -871,7 +876,7 @@ struct char_data *get_char_room(char *name, int room)
   for (i = world[room].people; i && (j <= number); i = i->next_in_room)
     if (isname_with_abbrevs(tmp, i->player.name))
       if (++j == number)
-	return i;
+  return i;
 
   return NULL;
 }
@@ -971,7 +976,7 @@ void obj_from_obj(struct obj_data * obj)
     {
       GET_OBJ_WEIGHT(temp) -= GET_OBJ_WEIGHT(obj);
       if (GET_OBJ_WEIGHT(temp)<1) /*sanity check Serapis 970616*/
-	GET_OBJ_WEIGHT(temp)=1;
+  GET_OBJ_WEIGHT(temp)=1;
     }
 
   /* Subtract weight from char that carries the object */
@@ -1047,25 +1052,25 @@ void update_char_objects(struct char_data * ch)
   if (GET_EQ(ch, WEAR_HOLD) != NULL)
     if (GET_OBJ_TYPE(GET_EQ(ch, WEAR_HOLD)) == ITEM_LIGHT)
       if (GET_OBJ_VAL(GET_EQ(ch, WEAR_HOLD), 2) > 0) {
-	i = --GET_OBJ_VAL(GET_EQ(ch, WEAR_HOLD), 2);
-	if (i == 1) {
-	  act("Your light begins to flicker and fade.", 
-		FALSE, ch, 0, 0, TO_CHAR);
-	  act("$n's light begins to flicker and fade.", 
-		FALSE, ch, 0, 0, TO_ROOM);
-	} else if (i == 0) {
-	  act("Your light sputters out and dies.", FALSE, ch, 0, 0, TO_CHAR);
-	  act("$n's light sputters out and dies.", FALSE, ch, 0, 0, TO_ROOM);
-	  world[ch->in_room].light--;
- 	  for (j = 0; j < MAX_OBJ_AFFECT; j++)
+  i = --GET_OBJ_VAL(GET_EQ(ch, WEAR_HOLD), 2);
+  if (i == 1) {
+    act("Your light begins to flicker and fade.",
+    FALSE, ch, 0, 0, TO_CHAR);
+    act("$n's light begins to flicker and fade.",
+    FALSE, ch, 0, 0, TO_ROOM);
+  } else if (i == 0) {
+    act("Your light sputters out and dies.", FALSE, ch, 0, 0, TO_CHAR);
+    act("$n's light sputters out and dies.", FALSE, ch, 0, 0, TO_ROOM);
+    world[ch->in_room].light--;
+     for (j = 0; j < MAX_OBJ_AFFECT; j++)
              if (GET_EQ(ch, WEAR_HOLD)->affected[j].location!=APPLY_NONE)
-		affec = TRUE;
-	  if (!affec)
-	  {
-	    send_to_char("It crumbles into dust.\r\n", ch);
-	    extract_obj(unequip_char(ch, WEAR_HOLD));
-	  }
-	}
+    affec = TRUE;
+    if (!affec)
+    {
+      send_to_char("It crumbles into dust.\r\n", ch);
+      extract_obj(unequip_char(ch, WEAR_HOLD));
+    }
+  }
       }
 
   for (i = 0; i < NUM_WEARS; i++)
@@ -1079,7 +1084,7 @@ void update_char_objects(struct char_data * ch)
 
 
 /* Extract a ch completely from the world, and leave his stuff behind */
-void 
+void
 extract_char_final(struct char_data * ch)
 {
   struct char_data *k, *temp;
@@ -1102,7 +1107,7 @@ extract_char_final(struct char_data * ch)
   if (!IS_NPC(ch) && !ch->desc) {
     for (t_desc = descriptor_list; t_desc; t_desc = t_desc->next)
       if (t_desc->original == ch)
-	do_return(t_desc->character, "", 0, 0);
+  do_return(t_desc->character, "", 0, 0);
   }
   if (ch->in_room == NOWHERE) {
     log("SYSERR: NOWHERE extracting char. (handler.c, extract_char)");
@@ -1119,7 +1124,7 @@ extract_char_final(struct char_data * ch)
     }
     if (ch->desc->snoop_by) {
       SEND_TO_Q("Your victim is no longer among us.\r\n",
-		ch->desc->snoop_by);
+    ch->desc->snoop_by);
       ch->desc->snoop_by->snooping = NULL;
       ch->desc->snoop_by = NULL;
     }
@@ -1157,9 +1162,9 @@ extract_char_final(struct char_data * ch)
     save_char(ch, GET_LOADROOM(ch));  /* will allow correct reloading of characters */
     Crash_delete_crashfile(ch);
   } else {
-    if (GET_MOB_RNUM(ch) > -1)		/* if mobile */
+    if (GET_MOB_RNUM(ch) > -1)    /* if mobile */
       mob_index[GET_MOB_RNUM(ch)].number--;
-    clearMemory(ch);		/* Only NPC's can have memory */
+    clearMemory(ch);    /* Only NPC's can have memory */
     free_char(ch);
     freed = 1;
   }
@@ -1261,7 +1266,7 @@ struct char_data *get_player_vis(struct char_data * ch, char *name, int inroom)
 
   for (i = character_list; i; i = i->next)
     if (!IS_NPC(i) && (!inroom || i->in_room == ch->in_room) &&
-	!str_cmp(i->player.name, name) && CAN_SEE(ch, i))
+  !str_cmp(i->player.name, name) && CAN_SEE(ch, i))
       return i;
 
   return NULL;
@@ -1288,8 +1293,8 @@ get_char_room_vis(struct char_data * ch, char *name)
   for (i = world[ch->in_room].people; i && j <= number; i = i->next_in_room)
     if (isname_with_abbrevs(tmp, i->player.name))
       if (CAN_SEE(ch, i))
-	if (++j == number)
-	  return i;
+  if (++j == number)
+    return i;
 
   return NULL;
 }
@@ -1313,7 +1318,7 @@ struct char_data *get_char_vis(struct char_data * ch, char *name)
   for (i = character_list; i && (j <= number); i = i->next)
     if (isname(tmp, i->player.name) && CAN_SEE(ch, i))
       if (++j == number)
-	return i;
+  return i;
 
   return NULL;
 }
@@ -1321,7 +1326,7 @@ struct char_data *get_char_vis(struct char_data * ch, char *name)
 
 
 struct obj_data *get_obj_in_list_vis(struct char_data * ch, char *name,
-				              struct obj_data * list)
+                      struct obj_data * list)
 {
   struct obj_data *i;
   int j = 0, number;
@@ -1335,8 +1340,8 @@ struct obj_data *get_obj_in_list_vis(struct char_data * ch, char *name,
   for (i = list; i && (j <= number); i = i->next_content)
     if (isname_with_abbrevs(tmp, i->name))
       if (CAN_SEE_OBJ(ch, i) || GET_OBJ_TYPE(i) == ITEM_LIGHT)
-	if (++j == number)
-	  return i;
+  if (++j == number)
+    return i;
 
   return NULL;
 }
@@ -1368,8 +1373,8 @@ struct obj_data *get_obj_vis(struct char_data * ch, char *name)
   for (i = object_list; i && (j <= number); i = i->next)
     if (isname_with_abbrevs(tmp, i->name))
       if (CAN_SEE_OBJ(ch, i))
-	if (++j == number)
-	  return i;
+  if (++j == number)
+    return i;
 
   return NULL;
 }
@@ -1377,13 +1382,13 @@ struct obj_data *get_obj_vis(struct char_data * ch, char *name)
 
 
 struct obj_data *get_object_in_equip_vis(struct char_data * ch,
-		           char *arg, struct obj_data * equipment[], int *j)
+               char *arg, struct obj_data * equipment[], int *j)
 {
   for ((*j) = 0; (*j) < NUM_WEARS; (*j)++)
     if (equipment[(*j)])
       if (CAN_SEE_OBJ(ch, equipment[(*j)]))
-	if (isname_with_abbrevs(arg, equipment[(*j)]->name))
-	  return (equipment[(*j)]);
+  if (isname_with_abbrevs(arg, equipment[(*j)]->name))
+    return (equipment[(*j)]);
 
   return NULL;
 }
@@ -1470,7 +1475,7 @@ struct obj_data *create_money(int amount)
       new_descr->description = str_dup(buf);
     } else if (amount < 100000) {
       sprintf(buf, "You guess there are, maybe, %d coins.",
-	      1000 * ((amount / 1000) + number(0, (amount / 1000))));
+        1000 * ((amount / 1000) + number(0, (amount / 1000))));
       new_descr->description = str_dup(buf);
     } else
       new_descr->description = str_dup("There are a LOT of coins.");
@@ -1482,7 +1487,7 @@ struct obj_data *create_money(int amount)
   GET_OBJ_TYPE(obj) = ITEM_MONEY;
   for(y = 0; y < TW_ARRAY_MAX; y++)
      obj->obj_flags.wear_flags[y] = 0;
-  SET_BIT_AR(GET_OBJ_WEAR(obj), ITEM_WEAR_TAKE); 
+  SET_BIT_AR(GET_OBJ_WEAR(obj), ITEM_WEAR_TAKE);
   GET_OBJ_VAL(obj, 0) = amount;
   GET_OBJ_COST(obj) = amount;
   obj->item_number = NOTHING;
@@ -1506,7 +1511,7 @@ struct obj_data *create_money(int amount)
 /* one_argument routine).                                                 */
 
 int generic_find(char *arg, int bitvector, struct char_data * ch,
-		     struct char_data ** tar_ch, struct obj_data ** tar_obj)
+         struct char_data ** tar_ch, struct obj_data ** tar_obj)
 {
   int i, found;
   char name[256];
@@ -1519,7 +1524,7 @@ int generic_find(char *arg, int bitvector, struct char_data * ch,
   *tar_ch = NULL;
   *tar_obj = NULL;
 
-  if (IS_SET(bitvector, FIND_CHAR_ROOM)) {	/* Find person in room */
+  if (IS_SET(bitvector, FIND_CHAR_ROOM)) {  /* Find person in room */
     if ((*tar_ch = get_char_room_vis(ch, name))) {
       return (FIND_CHAR_ROOM);
     }
@@ -1532,8 +1537,8 @@ int generic_find(char *arg, int bitvector, struct char_data * ch,
   if (IS_SET(bitvector, FIND_OBJ_EQUIP)) {
     for (found = FALSE, i = 0; i < NUM_WEARS && !found; i++)
       if (GET_EQ(ch, i) && isname_with_abbrevs(name, GET_EQ(ch, i)->name)== 1) {
-	*tar_obj = GET_EQ(ch, i);
-	found = TRUE;
+  *tar_obj = GET_EQ(ch, i);
+  found = TRUE;
       }
     if (found) {
       return (FIND_OBJ_EQUIP);
@@ -1570,15 +1575,15 @@ int find_all_dots(char *arg)
     return FIND_INDIV;
 }
 
-struct char_data *get_player_hidden(struct char_data * ch, 
-					char *name, int inroom)
+struct char_data *get_player_hidden(struct char_data * ch,
+          char *name, int inroom)
 {
   struct char_data *i;
 
   for (i = character_list; i; i = i->next)
     if (!IS_NPC(i) && (!inroom || i->in_room == ch->in_room) &&
-	!str_cmp(i->player.name, name) && 
-	(CAN_SEE(ch, i)||IS_AFFECTED(i, AFF_HIDE)))
+  !str_cmp(i->player.name, name) &&
+  (CAN_SEE(ch, i)||IS_AFFECTED(i, AFF_HIDE)))
       return i;
 
   return NULL;
@@ -1604,9 +1609,8 @@ struct char_data *get_char_room_hidden(struct char_data * ch, char *name)
   for (i = world[ch->in_room].people; i && j <= number; i = i->next_in_room)
     if (isname_with_abbrevs(tmp, i->player.name))
       if (CAN_SEE(ch, i)||IS_AFFECTED(i, AFF_HIDE))
-	if (++j == number)
-	  return i;
+  if (++j == number)
+    return i;
 
   return NULL;
 }
-

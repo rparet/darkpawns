@@ -900,6 +900,9 @@ void command_interpreter(struct char_data *ch, char *argument)
    * Patch sent by Eric Green and Stefan Wasilewski.
    */
   if (!isalpha(*argument)) {
+    if (*argument == '\033[A')
+      send_to_char("awesome!\r\n", ch);
+
     arg[0] = argument[0];
     arg[1] = '\0';
     line = argument + 1;

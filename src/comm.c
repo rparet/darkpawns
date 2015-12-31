@@ -379,7 +379,6 @@ int get_max_players(void)
 #endif
   {
     struct rlimit limit;
-
     /* find the limit of file descs */
     method = "rlimit";
     if (getrlimit(RLIMIT_NOFILE, &limit) < 0) {
@@ -387,6 +386,9 @@ int get_max_players(void)
       exit(1);
     }
     /* set the current to the maximum */
+#ifdef OPEN_MAX 
+limit.rlim_max = limit.rlim_max > OPEN_MAX? OPEN_MAX : limit.rlim_max; 
+#endif 
     limit.rlim_cur = limit.rlim_max;
     if (setrlimit(RLIMIT_NOFILE, &limit) < 0) {
       perror("SYSERR: calling setrlimit");

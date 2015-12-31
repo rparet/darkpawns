@@ -101,17 +101,17 @@ void set_hunting(struct char_data *ch, struct char_data *victim);
 
 
 
-/*****************************************/ 
+/*****************************************/
 
 
-struct no_load_type 
+struct no_load_type
 {
   int item_num;
   int min_level;
 };
 typedef struct no_load_type load_limits;
 
-static load_limits ObjLimits[] = 
+static load_limits ObjLimits[] =
 {
         {81,   LEVEL_GRGOD},    		/* Tracers ring */
         {82,   LEVEL_GRGOD},			/* Sword of doom */
@@ -125,7 +125,7 @@ load_limits *MobLimits = NULL;
 
 int num_moblim = sizeof (MobLimits) / sizeof (load_limits);
 
-/*****************************************/ 
+/*****************************************/
 
 ACMD(do_echo)
 {
@@ -140,7 +140,7 @@ ACMD(do_echo)
       {
         stc("You try to express yourself but cannot!\r\n", ch);
         return;
-      }  
+      }
       sprintf(buf, "$n %s", argument);
     }
     else
@@ -697,7 +697,7 @@ mob_race_name(int mob_race)
 }
 
 
-void 
+void
 do_stat_character(struct char_data * ch, struct char_data * k)
 {
   int clan_num, i, i2, found = 0;
@@ -715,7 +715,7 @@ do_stat_character(struct char_data * ch, struct char_data * k)
 
   sprintf(buf2, " %s '%s'  IDNum: [%5ld], In room [%5d]\r\n",
 	  (!IS_NPC(k) ? "PC" : (!IS_MOB(k) ? "NPC" : "MOB")),
-	  GET_NAME(k), GET_IDNUM(k), 
+	  GET_NAME(k), GET_IDNUM(k),
 	  k->in_room>-1 ? world[k->in_room].number : -1);
   send_to_char(strcat(buf, buf2), ch);
   if (IS_MOB(k)) {
@@ -725,7 +725,7 @@ do_stat_character(struct char_data * ch, struct char_data * k)
   }
   if (!IS_MOB(k))
   {
-    sprintf(buf, "Title: %s\r\n", 
+    sprintf(buf, "Title: %s\r\n",
 	   (k->player.title ? k->player.title : "<None>"));
     send_to_char(buf, ch);
   }
@@ -753,14 +753,14 @@ do_stat_character(struct char_data * ch, struct char_data * k)
     {
       strcpy(buf1, (char *) asctime(localtime(&(k->player.time.birth))));
       strcpy(buf2, (char *) asctime(localtime(&(k->player.time.logon))));
-      buf1[24] = buf2[24] = '\0'; 
+      buf1[24] = buf2[24] = '\0';
 
       sprintf(buf, "Created: [%s], Last Logon: [%s]\r\n", buf1, buf2) ;
 
       struct time_info_data pt = playing_time(k);
       sprintf(buf, "%sPlayed [%dd %dh], Age [%d]\r\n", buf,
 	      pt.day,
-	      pt.hours, 
+	      pt.hours,
 	      age(k).year);
       send_to_char(buf, ch);
 
@@ -836,7 +836,7 @@ do_stat_character(struct char_data * ch, struct char_data * k)
   }
 
   sprintf(buf, "Coins: [%9ld], Bank: [%9ld] (Total: %ld)\r\n",
-	  (long)GET_GOLD(k), (long)GET_BANK_GOLD(k), 
+	  (long)GET_GOLD(k), (long)GET_BANK_GOLD(k),
 	  (long)(GET_GOLD(k) + GET_BANK_GOLD(k)) );
   send_to_char(buf, ch);
 
@@ -938,13 +938,13 @@ do_stat_character(struct char_data * ch, struct char_data * k)
   }
 
   if (!IS_NPC(k))
-    if (GET_CLAN(k) && GET_CLAN_RANK(k) != 0) 
+    if (GET_CLAN(k) && GET_CLAN_RANK(k) != 0)
     {
       clan_num = find_clan_by_id(GET_CLAN(k));
       sprintf(buf, "Clan : %s\r\n", clan[clan_num].name);
       send_to_char(buf, ch);
-    } 
-  
+    }
+
   sprintf(buf, "Master is: %s, Followers are:",
 	  ((k->master) ? GET_NAME(k->master) : "<none>"));
 
@@ -1222,12 +1222,12 @@ ACMD(do_return)
 
 static void
 random_load_msg(struct char_data *ch)
-{ 
+{
 /* This has NOTHING to do with random load mobs         */
 /* This message merely shows when a god loads something */
     switch (number(0,2))
     {
-        case 0: 
+        case 0:
     	  act("Suddenly the walls run red with blood and a neon '666' sign "
 	      "flashes.", TRUE, ch, 0, 0, TO_ROOM);
     	  act("Suddenly the walls run red with blood and a neon '666' sign "
@@ -1302,7 +1302,7 @@ ACMD(do_load)
       }
 
       for (i = 0; i < num_moblim; i++) {
-         if ( (number == MobLimits[i].item_num) && 
+         if ( (number == MobLimits[i].item_num) &&
 	      (GET_LEVEL(ch) < MobLimits[i].min_level) ) {
  	    send_to_char("You're not godly enough to load that!\n\r", ch);
 	    return;
@@ -1316,7 +1316,7 @@ ACMD(do_load)
       mudlog(buf, BRF, GET_LEVEL(ch)+1, TRUE);
 
       act("$n makes a strange magickal gesture.", TRUE, ch, 0, 0, TO_ROOM);
-      random_load_msg(ch); 
+      random_load_msg(ch);
       act("$n has created $N!", FALSE, ch, 0, mob, TO_ROOM);
       act("You create $N.", FALSE, ch, 0, mob, TO_CHAR);
    } else if (is_abbrev(buf, "obj")) {
@@ -1325,7 +1325,7 @@ ACMD(do_load)
 	 return;
       }
       for (i = 0; i < num_objlim; i++)
-         if ( (number == ObjLimits[i].item_num) && 
+         if ( (number == ObjLimits[i].item_num) &&
               (GET_LEVEL(ch) < ObjLimits[i].min_level) ) {
             send_to_char("You're not godly enough to load that!\n\r", ch);
             return;
@@ -1335,30 +1335,30 @@ ACMD(do_load)
       cantload=FALSE;
       switch(GET_LEVEL(ch)){
 	case 31:			/*IMMORT*/
-		if(obj->obj_flags.cost>4000) cantload=TRUE; 
+		if(obj->obj_flags.cost>4000) cantload=TRUE;
 		break;
 	case 32:
-		if(obj->obj_flags.cost>5000) cantload=TRUE; 
+		if(obj->obj_flags.cost>5000) cantload=TRUE;
 		break;
 	case 33:
-		if(obj->obj_flags.cost>5500) cantload=TRUE; 
+		if(obj->obj_flags.cost>5500) cantload=TRUE;
 		break;
 	case 34:
-		if(obj->obj_flags.cost>6000) cantload=TRUE; 
+		if(obj->obj_flags.cost>6000) cantload=TRUE;
 		break;
 	case 35:
-		if(obj->obj_flags.cost>7000) cantload=TRUE; 
+		if(obj->obj_flags.cost>7000) cantload=TRUE;
 		break;
 	case 36:
-		if(obj->obj_flags.cost>7500) cantload=TRUE; 
+		if(obj->obj_flags.cost>7500) cantload=TRUE;
 		break;
 	case 37:
-		if(obj->obj_flags.cost>8000) cantload=TRUE; 
+		if(obj->obj_flags.cost>8000) cantload=TRUE;
 		break;
 	default:			/*GR_GOD+ can load anything*/
 		break;
       }
-	
+
       if (cantload){
 	 send_to_char("That is beyond your godly powers...\n\r",ch);
 	 extract_obj(obj);
@@ -1371,7 +1371,7 @@ ACMD(do_load)
       mudlog(buf, BRF, GET_LEVEL(ch)+1, TRUE);
 
       act("$n makes a strange magickal gesture.", TRUE, ch, 0, 0, TO_ROOM);
-      random_load_msg(ch); 
+      random_load_msg(ch);
       act("$n has created $p!", FALSE, ch, obj, 0, TO_ROOM);
       act("You create $p.", FALSE, ch, obj, 0, TO_CHAR);
    } else
@@ -1445,11 +1445,11 @@ ACMD(do_purge)
 	}
       }
       extract_char(vict);
-    } 
+    }
     else if((obj = get_obj_in_list_vis(ch, buf, world[ch->in_room].contents))) {
       act("$n destroys $p.", FALSE, ch, obj, 0, TO_ROOM);
       extract_obj(obj);
-    } 
+    }
     else {
       send_to_char("Nothing here by that name.\r\n", ch);
       return;
@@ -1465,9 +1465,9 @@ ACMD(do_purge)
       if (IS_NPC(vict))
 	extract_char(vict);
     }
-    
+
     extract_pending_chars();
-    
+
     for (obj = world[ch->in_room].contents; obj; obj = next_o) {
       next_o = obj->next_content;
       extract_obj(obj);
@@ -1537,7 +1537,7 @@ ACMD(do_advance)
     con = victim->real_abils.con;
     cha = victim->real_abils.cha;
     wis = victim->real_abils.wis;
-    
+
     send_to_char("You are momentarily enveloped by darkness!\r\n"
 		 "You can feel all your power and knowledge being\r\n"
                  "drained away from you!\r\n", victim);
@@ -1565,10 +1565,10 @@ ACMD(do_advance)
 	"Suddenly a silent explosion of light\r\n"
 	"snaps you back to reality.\r\n\r\n"
 	"You feel slightly different.", FALSE, ch, 0, victim, TO_VICT);
-   
+
     for (i = GET_LEVEL(victim); i < newlevel; i++)
      gain_exp_regardless(victim,
-   			(exp_needed_for_level(victim) - GET_EXP(victim))); 
+   			(exp_needed_for_level(victim) - GET_EXP(victim)));
 
   }
 
@@ -1623,13 +1623,13 @@ void perform_immort_vis(struct char_data *ch)
 {
   void appear(struct char_data *ch);
 
-  if (GET_INVIS_LEV(ch) == 0 && 
-      (!IS_AFFECTED(ch, AFF_HIDE) || 
+  if (GET_INVIS_LEV(ch) == 0 &&
+      (!IS_AFFECTED(ch, AFF_HIDE) ||
        !IS_AFFECTED(ch, AFF_INVISIBLE))) {
     send_to_char("You are already fully visible.\r\n", ch);
     return;
   }
-   
+
   GET_INVIS_LEV(ch) = 0;
   appear(ch);
   send_to_char("You are now fully visible.\r\n", ch);
@@ -1658,7 +1658,7 @@ void perform_immort_invis(struct char_data *ch, int level)
   sprintf(buf, "Your invisibility level is %d.\r\n", level);
   send_to_char(buf, ch);
 }
-  
+
 
 ACMD(do_invis)
 {
@@ -1874,7 +1874,7 @@ ACMD(do_force)
       send_to_char(OK, ch);
       if (GET_LEVEL(ch)<LVL_IMPL)
         act(buf1, TRUE, ch, NULL, vict, TO_VICT);
-      sprintf(buf, "(GC) %s forced %s to %s", GET_NAME(ch), GET_NAME(vict), 
+      sprintf(buf, "(GC) %s forced %s to %s", GET_NAME(ch), GET_NAME(vict),
                to_force);
       mudlog(buf, NRM, MAX(GET_LEVEL(ch)+1, GET_INVIS_LEV(ch)), TRUE);
       command_interpreter(vict, to_force);
@@ -2006,16 +2006,16 @@ ACMD(do_wiznet)
     sprintf(buf2, "Someone: %s%s\r\n", emote ? "<--- " : "", argument);
   }
 
-  for (d = descriptor_list; d; d = d->next) 
+  for (d = descriptor_list; d; d = d->next)
   {
-    if ((!d->connected) && 
+    if ((!d->connected) &&
 	/*  they are immortal, or chosen and the wiz is at default level */
-	(GET_LEVEL(d->character) >= level || 
+	(GET_LEVEL(d->character) >= level ||
 	 (PLR_FLAGGED(d->character, PLR_CHOSEN)&& !noChosen)) &&
 	(!PRF_FLAGGED(d->character, PRF_NOWIZ)) &&
 	(!PLR_FLAGGED(d->character, PLR_MAILING) ||
          !PLR_FLAGGED(d->character, PLR_WRITING))
-	&& (d != ch->desc || !(PRF_FLAGGED(d->character, PRF_NOREPEAT)))) 
+	&& (d != ch->desc || !(PRF_FLAGGED(d->character, PRF_NOREPEAT))))
     {
       send_to_char(CCCYN(d->character, C_NRM), d->character);
       if (CAN_SEE(d->character, ch))
@@ -2316,7 +2316,7 @@ ACMD(do_show)
       else
 	for (i = 0; i <= top_of_zone_table; i++)
 	  print_zone_to_buf(buf, i);
-      page_string(ch->desc, buf, 1); 
+      page_string(ch->desc, buf, 1);
       break;
     case 2:			/* player */
       if (!*value)
@@ -2370,7 +2370,7 @@ ACMD(do_show)
 	    }
 	}
       for (obj = object_list; obj; obj = obj->next)
-	k++;
+	      k++;
       sprintf(buf, "Current stats:\r\n");
       sprintf(buf, "%s  %5d players in game  %5d connected\r\n", buf, i, con);
       sprintf(buf, "%s  %5d registered\r\n", buf, top_of_p_table + 1);
@@ -2416,7 +2416,7 @@ ACMD(do_show)
     case 9:
       hcontrol_list_houses(ch);
       break;
-    case 10: 
+    case 10:
       {
  	int i = 0;
 	for (i=0; i<NUM_TATTOOS; i++)
@@ -2436,7 +2436,7 @@ ACMD(do_show)
            char mybuf[256];
            sprintf(mybuf, "%d %s\r\n", GET_MOB_VNUM(vict), GET_NAME(vict));
            send_to_char(mybuf, ch);
-          } 		
+          }
         }
      }
     break;
@@ -2449,13 +2449,13 @@ ACMD(do_show)
      {
       char *reagents = get_reagent_names(find_skill_num(spells[sortpos]));
       if(reagents)
-	{
-	 char *mystr = tprintf("%s:  %s\r\n",spells[sortpos], reagents);
-	 stc(mystr, ch);
-	 FREE(mystr);
-	 FREE(reagents);
-	}
-     }
+	    {
+        char mystr[MAX_STRING_LENGTH];
+        sprintf(mystr, "%s:  %s\r\n", spells[sortpos], reagents);
+	      stc(mystr, ch);
+	      FREE(reagents);
+	   }
+    }
     }
     break;
     case 13:
@@ -2470,7 +2470,7 @@ ACMD(do_show)
 	  if (i > top_of_zone_table)
 	     sprintf(buf, "That is not a valid zone.\r\n");
 	  else {
-	     sprintf(buf, "Connections in zone %d.\r\n", 
+	     sprintf(buf, "Connections in zone %d.\r\n",
                      zone_table[i].number);
 	     strcat(buf,  "========================\r\n");
 	     for(j = 0; j <= top_of_world; j++)
@@ -2479,15 +2479,15 @@ ACMD(do_show)
 	              if (world[j].dir_option[k] &&
 		          world[world[j].dir_option[k]->to_room].zone != i)
 		         sprintf(buf, "%s%5d leads %s to %-5d -- %s\r\n", buf,
-			   world[j].number, dirs[k], 
+			   world[j].number, dirs[k],
 			   world[world[j].dir_option[k]->to_room].number,
 	                   zone_table[world[world[j].dir_option[k]->to_room].zone].name);
 	 }
        }
-       send_to_char(buf, ch);                          
+       send_to_char(buf, ch);
      }
     }
-    break;      
+    break;
     case 14: /* show neutral rooms*/
     {
       strcpy(buf, "Neutral Rooms\r\n-------------\r\n");
@@ -2588,8 +2588,8 @@ ACMD(do_set)
     { "passwd",		LVL_IMPL-1, 	PC, 	MISC },    /* 45 */
     { "nodelete", 	LVL_GOD, 	PC, 	BINARY },
     { "cha",		LVL_GRGOD, 	BOTH, 	NUMBER },
-    { "olc",		LVL_SET_BUILD, 	PC, 	NUMBER }, 
-    { "race",		LVL_GOD, 	PC, 	MISC }, 
+    { "olc",		LVL_SET_BUILD, 	PC, 	NUMBER },
+    { "race",		LVL_GOD, 	PC, 	MISC },
     { "kills",		LVL_GRGOD, 	BOTH, 	NUMBER },  /* 50 */
     { "pks",		LVL_GRGOD, 	BOTH, 	NUMBER },
     { "deaths",		LVL_GRGOD, 	BOTH, 	NUMBER },
@@ -2655,7 +2655,7 @@ ACMD(do_set)
          if ( (str_cmp("Orodreth", GET_NAME(ch)) != 0) &&
                (str_cmp("Serapis", GET_NAME(ch)) != 0) )
           {
-	     if (GET_LEVEL(cbuf) >= GET_LEVEL(ch)) 
+	     if (GET_LEVEL(cbuf) >= GET_LEVEL(ch))
 	     {
 	        free_char(cbuf);
 	        send_to_char("Sorry, you can't do that.\r\n", ch);
@@ -2671,14 +2671,14 @@ ACMD(do_set)
 	  return;
 	}
     }
-   if (GET_LEVEL(ch) != LVL_IMPL)  
+   if (GET_LEVEL(ch) != LVL_IMPL)
     {
-      if (!IS_NPC(vict) && GET_LEVEL(ch) <= GET_LEVEL(vict) && vict != ch) 
+      if (!IS_NPC(vict) && GET_LEVEL(ch) <= GET_LEVEL(vict) && vict != ch)
 	{
 	  send_to_char("Maybe that's not such a great idea...\r\n", ch);
 	  return;
 	}
-    } 
+    }
   for (l = 0; *(fields[l].cmd) != '\n'; l++)
     if (!strncmp(field, fields[l].cmd, strlen(field)))
       break;
@@ -2887,9 +2887,9 @@ ACMD(do_set)
       break;
     case 33:
       if ((q = find_name(GET_NAME(vict))) != -1)
-         strcpy((player_table + q)->name, val_arg); 
+         strcpy((player_table + q)->name, val_arg);
        strcpy(old_name, GET_NAME(vict));
-       strcpy(GET_NAME(vict), val_arg); 
+       strcpy(GET_NAME(vict), val_arg);
        Crash_delete_file(old_name);
        Alias_delete_file(old_name);
        save_char(vict, NOWHERE);
@@ -2924,7 +2924,7 @@ ACMD(do_set)
         {
           GET_CLAN(vict) = 0;
           GET_CLAN_RANK(vict) = 0;
-          clan[clan_num].members--;  
+          clan[clan_num].members--;
           clan[clan_num].power-=GET_LEVEL(vict);
         }
         Crash_delete_file(GET_NAME(vict));
@@ -3173,21 +3173,21 @@ ACMD(do_dns)
     for(i = 0; i < DNS_HASH_NUM; i++) {
       if(dns_cache[i]) {
          for(tdns = dns_cache[i]; tdns; tdns = tdns->next) {
-           if (tdns->ip[0] < 0) 
+           if (tdns->ip[0] < 0)
               break;
-           if (tdns->ip[0] < 10) 
+           if (tdns->ip[0] < 10)
               sprintf(buf, "%s00%d.", buf, tdns->ip[0]);
            else if (tdns->ip[0] < 100)
               sprintf(buf, "%s0%d.", buf, tdns->ip[0]);
            else
               sprintf(buf, "%s%d.", buf, tdns->ip[0]);
-           if (tdns->ip[1] < 10) 
+           if (tdns->ip[1] < 10)
               sprintf(buf, "%s00%d.", buf, tdns->ip[1]);
            else if (tdns->ip[1] < 100)
               sprintf(buf, "%s0%d.", buf, tdns->ip[1]);
            else
               sprintf(buf, "%s%d.", buf, tdns->ip[1]);
-           if (tdns->ip[2] < 10) 
+           if (tdns->ip[2] < 10)
               sprintf(buf, "%s00%d.", buf, tdns->ip[2]);
            else if (tdns->ip[2] < 100)
               sprintf(buf, "%s0%d.", buf, tdns->ip[2]);
@@ -3195,7 +3195,7 @@ ACMD(do_dns)
               sprintf(buf, "%s%d.", buf, tdns->ip[2]);
            if (tdns->ip[3] < 0)
               sprintf(buf, "%s   ", buf);
-           else if (tdns->ip[3] < 10) 
+           else if (tdns->ip[3] < 10)
               sprintf(buf, "%s00%d", buf, tdns->ip[3]);
            else if (tdns->ip[3] < 100)
               sprintf(buf, "%s0%d", buf, tdns->ip[3]);
@@ -3214,7 +3214,7 @@ ACMD(do_dns)
 ACMD(do_dark)
 {
 	struct char_data *rch;
-    
+
 	if (IS_NPC(ch))
        		return;
    	for (rch = world[ch->in_room].people;rch;rch = rch->next_in_room)
@@ -3223,7 +3223,7 @@ ACMD(do_dark)
          	{
            		stop_fighting(rch);
            		if (IS_MOB(rch) && MEMORY(rch))
-				MEMORY(rch) = NULL;		   
+				MEMORY(rch) = NULL;
         		send_to_char("The peace of the ancients fills your"
 				     " soul.\n\r", rch);
          	}
@@ -3236,10 +3236,10 @@ ACMD(do_dark)
 }
 
 ACMD(do_home)
-{ 
+{
  int location;
  char buf[MAX_STRING_LENGTH], tmp[10];
- 
+
  if (IS_NPC(ch))
     return;
  one_argument(argument, tmp);
@@ -3273,15 +3273,15 @@ ACMD(do_home)
   {
    SET_BIT_AR(PLR_FLAGS(ch), PLR_LOADROOM);
    location = atoi(tmp);
-   
+
    if (find_target_room(ch, argument) < 0)
         {
         send_to_char("That room does not exist.\n\r",ch);
         return;
         }
 
-   if ( real_room(location) > 0 && 
-	IS_SET_AR(world[real_room(location)].room_flags, ROOM_GODROOM) && 
+   if ( real_room(location) > 0 &&
+	IS_SET_AR(world[real_room(location)].room_flags, ROOM_GODROOM) &&
        	GET_LEVEL(ch) < LEVEL_GRGOD )
    {
         send_to_char("You're not godly enough for that room.\r\n",ch);
@@ -3299,18 +3299,18 @@ ACMD(do_home)
   return;
   }
  }
-} 
+}
 
 ACMD (do_olist)
 {
   extern struct index_data *obj_index;
   extern struct obj_data *obj_proto;
- 
+
   int j, nr, start, end, found = 0;
   char f;
- 
+
   one_argument(argument, arg);
- 
+
   j = atoi(arg);
   start = (j * 100);
   end = (start + 99);
@@ -3324,12 +3324,12 @@ ACMD (do_olist)
 		obj_index[nr].virtual,
 		obj_proto[nr].short_description);
       }
-  
+
   if (f == 'N')
     sprintf(buf, "Sorry, there are no objs in that zone.\r\n");
   else
     sprintf(buf, "%s %d Objects found in Zone %d\r\n", buf, found, j);
- 
+
   page_string(ch->desc, buf, 1);
 }
 
@@ -3341,10 +3341,10 @@ ACMD(do_rlist)
   bool overflow = FALSE;
 
   one_argument(argument, arg);
- 
+
   j = atoi(arg);
   buf[0] = '\0';
- 
+
   for (ii = 0; ii <= top_of_world; ii++)
     if (zone_table[world[ii].zone].number == j)
       {
@@ -3364,11 +3364,11 @@ ACMD(do_rlist)
     send_to_char("The desired zone does not exist.\r\n", ch);
     return;
   }
-  
+
   if (overflow) {
 	send_to_char("Truncating room list due to size.\r\n", ch);
   }
-  
+
   page_string(ch->desc, buf, 1);
 }
 
@@ -3377,20 +3377,20 @@ ACMD (do_mlist)
 {
   extern struct index_data *mob_index;   /* index table for mobile file   */
   extern struct char_data *mob_proto;    /* prototypes for mobs           */
- 
- 
+
+
   int j, nr, start, end, found = 0;
   char f;
- 
+
   one_argument(argument, arg);
- 
+
   j = atoi(arg);
   start = (j * 100);
   end = (start + 99);
   f = 'N';
   buf[0] = '\0';
- 
-  for (nr = 0; nr <= top_of_mobt; nr++) 
+
+  for (nr = 0; nr <= top_of_mobt; nr++)
     if ((mob_index[nr].virtual >= start) && (mob_index[nr].virtual <= end))
       {
         f = 'Y';
@@ -3402,7 +3402,7 @@ ACMD (do_mlist)
     sprintf(buf, "Sorry, there are no mobs in that zone.\r\n");
   else
     sprintf(buf, "%s %d Mobiles found in Zone %d\r\n", buf, found, j);
- 
+
   page_string(ch->desc, buf, 1);
 }
 
@@ -3454,7 +3454,7 @@ ACMD(do_sethunt)
   if(!*buf)
 	send_to_char("Who do you wish to hunt?\n\r", ch);
   else if (!(victim = get_char_vis(ch, buf)))
-	send_to_char("No-one by that name around.\n\r", ch); 
+	send_to_char("No-one by that name around.\n\r", ch);
   else if (!(hunter = get_char_vis(ch, buf2)))
 	send_to_char("Who shall be the hunter?\n\r",ch);
   else if (hunter==victim)
@@ -3463,7 +3463,7 @@ ACMD(do_sethunt)
 	send_to_char("PCs can't be made to hunt.\n\r",ch);
   else {
 	if(GET_LEVEL(ch)<GET_LEVEL(victim)) {
-		send_to_char("Cant hunt higher than your level.\n\r",ch); 
+		send_to_char("Cant hunt higher than your level.\n\r",ch);
 		return;
 	}
  	if(!MOB_FLAGGED(hunter,MOB_HUNTER))
@@ -3484,7 +3484,7 @@ random_room_in_zone(int vnum)
     if (i >= 0 && i <= top_of_zone_table) {
      do {
           to_room = number(0, top_of_world);
-     }  
+     }
      while( (IS_SET_AR(world[to_room].room_flags,ROOM_PRIVATE))
          ||(IS_SET_AR(world[to_room].room_flags,ROOM_GODROOM))
          ||(IS_SET_AR(world[to_room].room_flags,ROOM_DEATH))
@@ -3493,7 +3493,7 @@ random_room_in_zone(int vnum)
     }
     return( to_room );
 }
-                  
+
 /*-------------------------------------------------------------------------*\
   tick -- make the mud tick now!
 \*-------------------------------------------------------------------------*/
@@ -3509,13 +3509,13 @@ ACMD(do_tick)
   point_update();
   hunt_items();
   fflush(player_fl);
-}  
+}
 
 
 
 ACMD(do_newbie)
 {
-  
+
   struct char_data *vict = NULL;
   struct obj_data *obj   = NULL;
   int give_obj[] = {8019, 8062, 8063, 8023, -1};/* tunic, bread, skin, club */
@@ -3547,16 +3547,16 @@ ACMD(do_zlist)
         FILE* f = NULL;
 	int j = 0;
         char cp[256];
-  
+
 	one_argument(argument, arg);
- 
+
   	j = atoi(arg);
 
 	if (!*arg)
 	  j = zone_table[ world[ch->in_room].zone ].number;
 
 	sprintf(cp, "world/zon/%d.zon", j);
-	
+
         f = fopen(cp,"r");
 	if (f)
 	{
@@ -3591,7 +3591,7 @@ ACMD(do_idlist) {
 
   /* loop here */
   for (nr = 0; nr <= top_of_objt; nr++) {
-    fprintf(fp, "Object: '%s', Item type: ", 
+    fprintf(fp, "Object: '%s', Item type: ",
 	    obj_proto[nr].short_description);
     type = obj_proto[nr].obj_flags.type_flag;
     if(type == ITEM_STAFF || type == ITEM_WAND) {
@@ -3605,10 +3605,10 @@ ACMD(do_idlist) {
 		   AF_ARRAY_MAX, buf);
     fprintf(fp, "%s\n", buf);
     fprintf(fp, "Item is: ");
-    sprintbitarray(obj_proto[nr].obj_flags.extra_flags, extra_bits, 
+    sprintbitarray(obj_proto[nr].obj_flags.extra_flags, extra_bits,
 		   EF_ARRAY_MAX, buf);
     fprintf(fp, "%s\n", buf);
-    fprintf(fp, "Encumbrance: %d, Value: %d\n", 
+    fprintf(fp, "Encumbrance: %d, Value: %d\n",
 	    obj_proto[nr].obj_flags.weight, obj_proto[nr].obj_flags.cost);
     switch(type) {
     case ITEM_SCROLL:
@@ -3672,13 +3672,13 @@ ACMD(do_idlist) {
 
 #define ZCMD zone_table[zone].cmd[cmd_no]
 
-/* 
+/*
   type  = 'O' or 'M'
   which = real number of mob/object
   name = common name of mob/object
 */
 
-static void check_load(char type, int which, struct char_data *ch, 
+static void check_load(char type, int which, struct char_data *ch,
 		       char *name)
 {
   int zone, lastroom_v = 0, lastroom_r = 0, lastmob_r = 0;
@@ -3690,17 +3690,17 @@ static void check_load(char type, int which, struct char_data *ch,
   char *objname = buf2;
   struct char_data *mob = NULL;
   struct obj_data *obj = NULL;
-  
+
   sprintf(buf, "Checking load info for %s...\r\n", name);
 
   for (zone = 0; zone <= top_of_zone_table; zone++)
-    for (cmd_no = 0; ZCMD.command != 'S'; cmd_no++) 
+    for (cmd_no = 0; ZCMD.command != 'S'; cmd_no++)
       if (type == 'm' || type == 'M')
         switch (ZCMD.command) {
 	case 'M':                   /* read a mobile */
 	  if (ZCMD.arg1 == which) {
 	    found = true;
-	    sprintf(buf+strlen(buf), 
+	    sprintf(buf+strlen(buf),
 		      " [%5d] %s\r\n"
 		    "         %d Max\r\n",
 		    world[ZCMD.arg3].number, world[ZCMD.arg3].name, ZCMD.arg2);
@@ -3711,7 +3711,7 @@ static void check_load(char type, int which, struct char_data *ch,
 	  lastroom_r = ZCMD.arg1;
 	  if (!ZCMD.arg2 && ZCMD.arg3 == which) {
 	    found = true;
-	    sprintf(buf+strlen(buf), 
+	    sprintf(buf+strlen(buf),
 		      " [%5d] %s\r\n"
 		    "         Removed from room\r\n",
 		    lastroom_v, world[lastroom_r].name);
@@ -3734,7 +3734,7 @@ static void check_load(char type, int which, struct char_data *ch,
 	default:
 	  break;
 	}
-  
+
 	switch (ZCMD.command) {
 	case 'M':
 	case 'O':
@@ -3755,7 +3755,7 @@ static void check_load(char type, int which, struct char_data *ch,
 	case 'O':                   /* read an object */
 	  if (ZCMD.arg1 == which) {
 	    found = true;
-	    sprintf(buf+strlen(buf), 
+	    sprintf(buf+strlen(buf),
 		      " [%5d] %s\r\n"
 		    "         Loaded to room\r\n"
 		    "         %.2f%% Load, %d Max\r\n",
@@ -3765,7 +3765,7 @@ static void check_load(char type, int which, struct char_data *ch,
 	case 'P':                   /* object to object */
 	  if (ZCMD.arg1 == which) {
 	    found = true;
-	    sprintf(buf+strlen(buf), 
+	    sprintf(buf+strlen(buf),
 		      " [%5d] %s\r\n"
 		    "         Put in %s [%d]\r\n"
 		    "         %.2f%% Load, %d Max\r\n",
@@ -3775,11 +3775,11 @@ static void check_load(char type, int which, struct char_data *ch,
 	  break;
 	case 'E':                   /* equip an object */
 	  if (ZCMD.arg1 == which) {
-	    sprintf(buf+strlen(buf), 
+	    sprintf(buf+strlen(buf),
 		      " [%5d] %s\r\n"
                     "         Equipped to %s [%d]\r\n"
 		    "         %.2f%% Load, %d Max\r\n",
-		    lastroom_v, world[lastroom_r].name, mobname, 
+		    lastroom_v, world[lastroom_r].name, mobname,
 		    mob_index[lastmob_r].virtual, perc_load, ZCMD.arg2);
 	    found = true;
 	  }
@@ -3787,11 +3787,11 @@ static void check_load(char type, int which, struct char_data *ch,
 	case 'G':                  /* give an object */
 	  if (ZCMD.arg1 == which) {
 	    found = true;
-	    sprintf(buf+strlen(buf), 
+	    sprintf(buf+strlen(buf),
 		      " [%5d] %s\r\n"
 		    "         Given to %s [%d]\r\n"
 		    "         %.2f%% Load, %d Max\r\n",
-		    lastroom_v, world[lastroom_r].name, mobname, 
+		    lastroom_v, world[lastroom_r].name, mobname,
 		    mob_index[lastmob_r].virtual, perc_load, ZCMD.arg2);
 	  }
 	  break;
@@ -3800,16 +3800,16 @@ static void check_load(char type, int which, struct char_data *ch,
 	  lastroom_r = ZCMD.arg1;
 	  if (ZCMD.arg2 && ZCMD.arg3 == which) {
 	    found = true;
-	    sprintf(buf+strlen(buf), 
+	    sprintf(buf+strlen(buf),
 		      " [%5d] %s\r\n"
-		    "         Removed from room\r\n", 
+		    "         Removed from room\r\n",
 		    lastroom_v, world[lastroom_r].name);
 	  }
 	  break;
 	}
       } else
 	return;
-  
+
   send_to_char(buf, ch);
 
   if (!found)
@@ -3817,7 +3817,7 @@ static void check_load(char type, int which, struct char_data *ch,
 }
 
 ACMD(do_checkload)
-{  
+{
   long which;
   struct char_data *mob;
   struct obj_data *obj;
@@ -3828,7 +3828,7 @@ ACMD(do_checkload)
   if ((!*buf2) || (!*buf3) || (!isdigit(*buf3))) {
     send_to_char(usage, ch);
     return;
-  }   
+  }
 
   switch (*buf2) {
   case 'M':

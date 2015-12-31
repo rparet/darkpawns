@@ -63,9 +63,9 @@ void add_follower(struct char_data * ch, struct char_data * leader);
 int dice(int number, int size);
 extern struct spell_info_type spell_info[];
 int num_followers(struct char_data *ch);
-void send_to_zone(char *messg, struct char_data *ch);      
+void send_to_zone(char *messg, struct char_data *ch);
 struct char_data *read_mobile(int, int);
-void raw_kill(struct char_data * ch, int attacktype);  
+void raw_kill(struct char_data * ch, int attacktype);
 bool ok_to_damage(struct char_data *ch, struct char_data *victim, int is_magic);
 
 /* internal functions */
@@ -400,7 +400,7 @@ const byte saving_throws[NUM_CLASSES][5][41] = {
 		35, 33, 31, 29, 27, 25, 23, 21, 19, 17,		/* 21 - 30 */
 		0, 0, 0, 0, 0, 0, 0, 0, 0, 0}			/* 31 - 40 */
   }
-  
+
 };
 
 
@@ -495,7 +495,7 @@ has_reagents(struct char_data *ch, int spellnum)
 
 /* =========================================================================
    NAME       : get_reagent_names()
-   DESCRIPTION: 
+   DESCRIPTION:
    RETURNS    : ALLOCATED string of reagent names or NULL
    WARNINGS   :
    HISTORY    : Created by dkarnes 970624
@@ -505,25 +505,28 @@ char *
 get_reagent_names(int spellnum)
 {
   char *return_string = NULL;
+	char buf[MAX_STRING_LENGTH];
   int i, j;
+
   for (i = 0; i < r_reagents; i++)
     if(reagents[i][r_spellnum] == spellnum)
       for(j = r_item0; j <=r_item2; j++)
-	if(reagents[i][j])
-	  {
-	    struct obj_data *obj = read_object(reagents[i][j], VIRTUAL);
-	    if (obj)
+	      if(reagents[i][j])
 	      {
-		char *tmp = NULL;
-		if (return_string)
-		  tmp = return_string;
-		return_string = tprintf("%s%s%s", tmp?tmp:"", tmp?", ":"",
-					(obj)->short_description);
-		if (tmp)
-		  FREE(tmp);
-		extract_obj(obj);
+	        struct obj_data *obj = read_object(reagents[i][j], VIRTUAL);
+	        if (obj)
+	        {
+		        char *tmp = NULL;
+		        if (return_string)
+		          tmp = return_string;
+		        sprintf(buf, "%s%s%s", tmp?tmp:"", tmp?", ":"",
+						 (obj)->short_description);
+		      /*  if (tmp)
+		          FREE(tmp); */
+		        extract_obj(obj);
+						return_string = str_dup(buf);
+	        }
 	      }
-	  }
   return(return_string);
 }
 
@@ -561,28 +564,28 @@ mag_materials(struct char_data *ch, int item0, int item1, int item2,
       }
    }
 
-   if ((item0 > 0) || (item1 > 0) || (item2 > 0)) 
+   if ((item0 > 0) || (item1 > 0) || (item2 > 0))
       return (FALSE);
 
-   if (extract) 
+   if (extract)
    {
-      if (item0 < 0) 
+      if (item0 < 0)
       {
 	 obj_from_char(obj0);
 	 extract_obj(obj0);
       }
-      if (item1 < 0) 
+      if (item1 < 0)
       {
 	 obj_from_char(obj1);
 	 extract_obj(obj1);
       }
-      if (item2 < 0) 
+      if (item2 < 0)
       {
 	 obj_from_char(obj2);
 	 extract_obj(obj2);
       }
    }
-   if (verbose) 
+   if (verbose)
    {
       send_to_char("A puff of smoke rises from your pack.\r\n", ch);
       act("A puff of smoke rises from $n's pack.",
@@ -761,10 +764,10 @@ mag_damage(int level, struct char_data * ch, struct char_data * victim,
    case SPELL_HARM:
       dam = dice(12, 8) + level*2;
       break;
-      
+
       /* Ninja, Mage */
    case SPELL_SOUL_LEECH:
-   case SPELL_ENERGY_DRAIN: 
+   case SPELL_ENERGY_DRAIN:
       if (GET_LEVEL(victim) <= 2)
 	 dam = 100;
       else
@@ -776,7 +779,7 @@ mag_damage(int level, struct char_data * ch, struct char_data * victim,
            {
              stc("Pulling the vampire dust from a pocket, you throw it into"
                  " the air...\r\n", ch);
-             act("$n throws some dust into the air...", 
+             act("$n throws some dust into the air...",
 		TRUE, ch, NULL, NULL, TO_ROOM);
 	     dam +=reag;
            }
@@ -790,7 +793,7 @@ mag_damage(int level, struct char_data * ch, struct char_data * victim,
    case SPELL_ACID_BLAST:
       dam = dice(4, 3) + level;
       break;
-    
+
       /* PSI spells */
    case SPELL_MINDPOKE:
       dam = dice(3, 3) + level;
@@ -806,7 +809,7 @@ mag_damage(int level, struct char_data * ch, struct char_data * victim,
 
    case SPELL_PSIBLAST:
       dam = dice(15, 13) + 3 * level;
-    
+
       if (!number(0,30) && !IS_NPC(ch))
       {
          stc("Suddenly, your psionic power recoils!\r\n", ch);
@@ -841,7 +844,7 @@ mag_damage(int level, struct char_data * ch, struct char_data * victim,
             if (GET_HIT(ch) > GET_MAX_HIT(ch))
               GET_HIT(ch) = GET_MAX_HIT(ch);
             break;
-	 default: 
+	 default:
 	    break;
 	 }
    }
@@ -876,7 +879,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
    for (i = 0; i < MAX_SPELL_AFFECTS; i++)
    {
       af[i].type = spellnum;
-      af[i].bitvector = 0; 
+      af[i].bitvector = 0;
       af[i].modifier = 0;
       af[i].location = APPLY_NONE;
    }
@@ -902,7 +905,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
       af[0].location = APPLY_AC;
       af[0].modifier = -15;
       af[0].duration = 24;
-      af[0].bitvector = AFF_NOTHING;  
+      af[0].bitvector = AFF_NOTHING;
       accum_duration = FALSE;
       to_vict = "You feel someone protecting you.";
       to_self = "The magick protects $M.";
@@ -978,7 +981,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
          if(reag)
            {
              stc("You throw a raven's feather into the air...\r\n", ch);
-             act("$n throws a feather into the air...", 
+             act("$n throws a feather into the air...",
 		TRUE, ch, NULL, NULL, TO_ROOM);
            }
       }
@@ -1141,7 +1144,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
    case SPELL_PROT_FROM_EVIL:
       if (IS_EVIL(victim))
       {
-	stc("You cannot protect yourself from the Evil inside you!\r\n",ch);	
+	stc("You cannot protect yourself from the Evil inside you!\r\n",ch);
         sprintf(buf, "%s killed by Protection from Evil.", GET_NAME(ch));
         mudlog(buf, BRF, LVL_IMMORT, TRUE);
         raw_kill(ch, TYPE_BLAST);
@@ -1151,7 +1154,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
 	 af[0].duration = 24;
 	 af[0].bitvector = AFF_PROTECT_EVIL;
 	 accum_duration = FALSE;
-	 to_vict = "A stream of silver light surges from your fingertips, " 
+	 to_vict = "A stream of silver light surges from your fingertips, "
 	    "covering you!";
 	 to_room = "A stream of silver light surges from $n's fingertips, "
 	    "covering $m!";
@@ -1159,7 +1162,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
       break;
 
    case SPELL_PROT_FROM_GOOD:
-      if (IS_GOOD(victim)) 
+      if (IS_GOOD(victim))
       {
         stc("The forces of Light destroy you for your betrayal!\r\n",ch);
         sprintf(buf, "%s killed by Protection from Good.", GET_NAME(ch));
@@ -1207,7 +1210,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
 	}
       else
 	stc("You attempt the spell without the components...\r\n", ch);
-   
+
       if (!IS_NPC(victim) && !IS_OUTLAW(ch))
       {
         stc("Your spell fails to affect them because you are not an Outlaw!\r\n", ch);
@@ -1287,7 +1290,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
          to_self = "Your magic makes $M light footed.";
       }
       break;
-  
+
    case SPELL_CHAMELEON:
       af[0].duration = GET_LEVEL(ch);
       af[0].bitvector = AFF_HIDE;
@@ -1325,16 +1328,16 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
       to_vict = "A globe of protection appears around you!";
       accum_duration = TRUE;
       break;
-    
+
    case SPELL_PSYSHIELD:
       af[0].location = APPLY_AC;
       af[0].modifier = -15;
       af[0].duration = GET_LEVEL(ch)/2;
-      af[0].bitvector = AFF_NOTHING;  
+      af[0].bitvector = AFF_NOTHING;
       accum_duration = TRUE;
       to_vict = "You feel a shield of energy form around you.";
       break;
-  
+
    case SPELL_GREATPERCEPT:
       af[1].duration = level/2 + 4;
       af[1].bitvector = AFF_DETECT_INVIS;
@@ -1355,7 +1358,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
       to_vict = "Your eyes glow briefly.";
       to_room = "$n's eyes glow briefly.";
       break;
- 
+
    case SPELL_INTELLECT:
       af[0].location = APPLY_INT;
       af[0].modifier = 1;
@@ -1364,7 +1367,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
       accum_affect = TRUE;
       to_vict= "Your head clears and you realize some of the secrets of life!";
       break;
-  
+
    case SPELL_MIND_BAR:
       af[0].location = APPLY_INT;
       af[0].modifier = -18;
@@ -1375,7 +1378,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
       to_vict="Suddenly, your mind numbs and you feel somewhat impaired.";
       to_self="You place a mental bar across $S mind.";
       break;
-  
+
    }
 
    /*
@@ -1404,7 +1407,7 @@ mag_affects(int level, struct char_data * ch, struct char_data * victim,
 
    af->by_type = BY_SPELL;
    af->obj_num = 0;
-   
+
 
    for (i = 0; i < MAX_SPELL_AFFECTS; i++)
       if (af[i].bitvector || (af[i].location != APPLY_NONE))
@@ -1465,17 +1468,17 @@ void
 mag_groups(int level, struct char_data * ch, int spellnum, int savetype)
 {
    struct char_data *k;
-   struct follow_type *f;   
-      
-   if (!ch) 
+   struct follow_type *f;
+
+   if (!ch)
       return;
-      
+
    if (!IS_AFFECTED(ch, AFF_GROUP))
       return;
-     
+
    if (!(k = ch->master))
       k = ch;
-      
+
    /* do all followers of k who are not ch */
    for (f = k->followers; f; f = f->next)
    {
@@ -1491,11 +1494,11 @@ mag_groups(int level, struct char_data * ch, int spellnum, int savetype)
    /* do k */
    if ((k->in_room == ch->in_room) && IS_AFFECTED(k, AFF_GROUP))
       perform_mag_groups(level, ch, k, spellnum, savetype);
-   
+
    /* do yourself if you didn't already */
    if (k != ch)
      perform_mag_groups(level, ch, ch, spellnum, savetype);
-      
+
 }
 
 /*
@@ -1588,7 +1591,7 @@ mag_areas(int level, struct char_data * ch, int spellnum, int savetype)
     act(to_char, FALSE, ch, 0, 0, TO_CHAR);
   if (to_room != NULL)
     act(to_room, FALSE, ch, 0, 0, TO_ROOM);
-  
+
 
   for (tch = world[ch->in_room].people; tch; tch = next_tch)
     {
@@ -1612,7 +1615,7 @@ mag_areas(int level, struct char_data * ch, int spellnum, int savetype)
 	continue;
       if (are_grouped(ch, tch))
 	continue;
-      
+
       if (spellnum == SPELL_MASS_DOMINATE)
         spell_charm(GET_LEVEL(ch),ch, tch, NULL, NULL);
       else
@@ -1673,7 +1676,7 @@ mag_summons(int level, struct char_data * ch, struct obj_data * obj,
 		      int spellnum, int savetype)
 {
    void add_follower_quiet(struct char_data *ch, struct char_data *leader);
-  
+
    struct char_data *mob = NULL;
    struct obj_data *tobj, *next_obj;
    int pfail = 0;
@@ -1731,7 +1734,7 @@ mag_summons(int level, struct char_data * ch, struct obj_data * obj,
 	 strcpy(GET_NAME(mob), GET_NAME(ch));
 	 strcpy(mob->player.short_descr, GET_NAME(ch));
       }
-      else if (spellnum == SPELL_ANIMATE_DEAD) { 
+      else if (spellnum == SPELL_ANIMATE_DEAD) {
          stc("The corpse starts to twitch, then stands with a"
 	     " life of it's own!\r\n", ch);
       }
@@ -1765,14 +1768,14 @@ mag_points(int level, struct char_data * ch, struct char_data * victim,
       hit = dice(2, 8) + 1 + (level >> 2);
       send_to_char("You feel better.\r\n", victim);
       if (ch !=victim)
-	 act("$N's wounds glow and mend themselves.", 
+	 act("$N's wounds glow and mend themselves.",
 	     TRUE, ch, 0, victim, TO_NOTVICT);
       break;
    case SPELL_CURE_CRITIC:
       hit = dice(5, 8) + 3 + (level >> 2);
       send_to_char("You feel a lot better!\r\n", victim);
       if (ch !=victim)
-	 act("$N's wounds glow and mend themselves.", 
+	 act("$N's wounds glow and mend themselves.",
 	     TRUE, ch, 0, victim, TO_NOTVICT);
       break;
    case SPELL_HEAL:
@@ -1789,7 +1792,7 @@ mag_points(int level, struct char_data * ch, struct char_data * victim,
 	 hit = 100 + dice(3, 8);
 	 send_to_char("A warm feeling floods your body.\r\n", victim);
 	 if (ch !=victim)
-	    act("$N's wounds glow and mend themselves.", 
+	    act("$N's wounds glow and mend themselves.",
 		TRUE, ch, 0, victim, TO_NOTVICT);
       }
       if (affected_by_spell(victim, SKILL_CUTTHROAT))
@@ -1799,7 +1802,7 @@ mag_points(int level, struct char_data * ch, struct char_data * victim,
       hit = 200;
       send_to_char("A warm feeling floods your body.\r\n", victim);
       if (ch !=victim)
-	 act("$N's wounds glow and mend themselves.", 
+	 act("$N's wounds glow and mend themselves.",
 	     TRUE, ch, 0, victim, TO_NOTVICT);
       if (affected_by_spell(victim, SKILL_CUTTHROAT))
 	 affect_from_char(victim, SKILL_CUTTHROAT);
@@ -1876,7 +1879,7 @@ mag_unaffects(int level, struct char_data * ch, struct char_data * victim,
    affect_from_char(victim, spell);
    if (spell2)
       affect_from_char(victim, spell2);
-	
+
    if (to_vict != NULL)
       act(to_vict, FALSE, victim, 0, ch, TO_CHAR);
    if (to_room != NULL)

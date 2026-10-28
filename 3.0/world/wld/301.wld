@@ -1,0 +1,1409 @@
+#30100
+Immortal room 30100~
+You stand on a flowery grassland floating high above a forest.  Looking
+over the edge of the piece of grassland, you can see a small clearing
+in the forest canopy, and a small quaint garden.  Transparent stairs lead
+into the clearing
+~
+301 692 0 0 0 2
+D5
+~
+~
+0 0 30115
+S
+#30101
+Enterance to the Garden~
+You stand upon a small garden path. The path continues north.  Tall thorny
+hedges flank you to the east and west.  To the south is the forest.  
+To the north you see a picturesque garden.  Tall multi-colored flowers
+lie just inside the garden.  Farther to the north you see tall trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30107
+S
+#30102
+Enterance to the Garden~
+You stand upon a small garden path. The path continues north.  Tall thorny
+hedges flank you to the east and west.  To the south is the forest.  
+To the north you see a picturesque garden.  Tall multi-colored flowers
+lie just inside the garden.  Farther to the north you see tall trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30145
+S
+#30103
+Enterance to the Garden~
+You stand upon a small garden path.  The path continues to the east.  Tall
+thorny hedges flank you to the north and south.  To the west is the forest
+To the east you see a picturesque garden.  Farther to the east you see a
+fenced in flower garden.
+~
+301 0 0 0 0 0
+D1
+~
+~
+0 0 30112
+S
+#30104
+Enterance to the Garden~
+You stand upon a small garden path.  The path continues to the west.  Tall
+thorny hedges flank you to the north and south.  To the east is the forest.
+To the east you see a picturesque garden.  Just inside the garden you see
+huge mushrooms.  Farther to the west you see a small fenced in flower 
+garden.
+~
+301 0 0 0 0 2
+D3
+~
+~
+0 0 30151
+S
+#30105
+Enterance to the Garden~
+You stand upon a small garden path.  The path continues to the west.  Tall
+thorny hedges flank you to the north and south.  To the east is the forest.
+To the east you see a picturesque garden.  Just inside the garden you see
+huge mushrooms.  Farther to the west you see a small fenced in flower 
+garden.
+~
+301 0 0 0 0 2
+D3
+~
+~
+0 0 30165
+S
+#30106
+Enterance to the Garden~
+You stand upon a small garden path.  The path continues to the south.  Tall
+thorny hedges flank you to the east and west.  To the north is the forest.
+To the south you see a picturesque garden.  Just inside the garden,  you 
+see tall slim trees.  Farther to the south, you see huge mushrooms and a
+small fenced in flower garden.
+~
+301 0 0 0 0 0
+D2
+~
+~
+0 0 30160
+S
+#30107
+Garden Path~
+You stand upon a small garden path.  The path continues north.  The exit
+to the garden is to the south.  To the west, you see thick well-groomed
+oak trees.  To the east there is a fence.  On the other side of the fence
+you see a small flower garden with very tall multi-colore flowers within.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30108
+D2
+~
+~
+0 0 30101
+D3
+~
+~
+0 0 30118
+S
+#30108
+Garden Path~
+You stand upon a small garden path.  The path continues north.  The exit 
+to the garden is a few steps to the south.  To the west you see a group 
+of thick well-groomed oak trees.  To the east there is a fence.  On the
+other side of the fence you see a small flower garden, with very tall
+multi- colored flowers within.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30109
+D2
+~
+~
+0 0 30107
+D3
+~
+~
+0 0 30114
+S
+#30109
+Garden Path~
+You stand upon a small garden path.  The path continues to the north and
+south.  To the west, you see a cute little bird bath.  To the east there 
+is a fence.  On the other side of the fence, you see a small flower garden
+with very tall multi-colored flowers within.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30110
+D2
+~
+~
+0 0 30108
+D3
+~
+~
+0 0 30115
+S
+#30110
+Garden Path~
+You stand upon a small garden path.  The path continues to the north, south,
+and west.  To the east, there is an enterance through a fence, into a small
+flower garden.  Within the flower garden, you see tall multi-colored 
+flowers.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30121
+D1
+~
+~
+0 0 30139
+D2
+~
+~
+0 0 30109
+D3
+~
+~
+0 0 30111
+S
+#30111
+Garden Path~
+You stand upon a small garden path.  The path continues to the east.
+A few steps to the west there is an exit to the garden.  To the south, you
+see a cute little bird bath.  To the south, you see a group of thick
+well-groomed oak trees.  To the north you see a dense group of slim
+pine trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30122
+D1
+~
+~
+0 0 30110
+D2
+~
+~
+0 0 30115
+D3
+~
+~
+0 0 30112
+S
+#30112
+Garden Path~
+Yo ustand upon a small garden path.  The path continues to the east.  A 
+few steps to the west There is an exit to the garden.  To the south, you
+see a group of thick well-groomed oak trees.  To the north, you see a dense 
+group of slim pine trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30123
+D1
+~
+~
+0 0 30111
+D2
+~
+~
+0 0 30113
+D3
+~
+~
+0 0 30103
+S
+#30113
+Just Off the Garden Path~
+You stand in beautiful lush green grass.  You can feel the coolness of the
+ground through your footgear.  To the east you see a cute little bird bath.
+To your west you see a tall thorny hedge.  A few steps to the north is the
+garden path.  To the south, you see thick well-groomed oak trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30112
+D1
+~
+~
+0 0 30115
+D2
+~
+~
+0 0 30116
+S
+#30114
+Just Off the Garden Path~
+You stand in beautiful lush green grass.  You can feel the coolness of the
+ground through your footgear.  To the north you see a cute little bird bath.
+A few steps to the east is the garden path.  To the west and south, you see
+thick well-groomed oak trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30115
+D1
+~
+~
+0 0 30108
+D2
+~
+~
+0 0 30118
+D3
+~
+~
+0 0 30116
+S
+#30115
+The Birdbath~
+You stand next to a small stone bird bath.  Little stone sculpted birds 
+spray water into the polished stone basin.  The water looks cool and 
+refreshing.  The garden path lies to the north and east.  To the south you
+see oak trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30111
+D1
+~
+~
+0 0 30109
+D2
+~
+~
+0 0 30114
+D3
+~
+~
+0 0 30113
+S
+#30116
+Beneath the Oaks~
+You stand underneath the branches of a thick oak tree.  The coolness of the
+shade is refreshing.  As you look at the tree, you notice the branches are
+low enough that you could probably climb to the top of the tree.
+~
+301 0 0 0 0 3
+D0
+~
+~
+0 0 30113
+D1
+~
+~
+0 0 30114
+D2
+~
+~
+0 0 30117
+D4
+~
+~
+0 0 30119
+S
+#30117
+Beneath the Oaks~
+You stand underneath the branches of a thick oak tree.  The coolness of the
+branches and the distance from the garden trail fill you with a sense of
+peacefulness.
+~
+301 0 0 0 0 3
+D0
+~
+~
+0 0 30116
+D1
+~
+~
+0 0 30118
+S
+#30118
+Beneath the Oaks~
+You stand underneath the branches of a thick oak tree.  A few steps to the
+east there is a garden trail.  To the north, you see a cute little bird
+bath.
+~
+301 0 0 0 0 3
+D0
+~
+~
+0 0 30114
+D1
+~
+~
+0 0 30107
+D3
+~
+~
+0 0 30117
+S
+#30119
+On the Branches of an Oak Tree~
+You stand on the branches of an oak tree.  From here you can easily climb
+down to the garden floor.  Looking at another tree, you see a huge birds
+nest.  To get to the other tree you can jump from your branch to the 
+branch with the nest.  The branches look thick enough to support your
+weight and the weight of the nest.
+~
+301 0 0 0 0 0
+D4
+~
+~
+0 0 30120
+D5
+~
+~
+0 0 30116
+S
+#30120
+Huge Bird's Nest~
+You are standing next to a huge birds nest.  The size of the nest would
+indicate that the bird that built it would be enormous.  A strong breeze
+russels the leaves above.  Is that the giant bird.  Perhaps you shouldn't
+be here if it is.
+~
+301 0 0 0 0 0
+D5
+~
+~
+0 0 30119
+S
+#30121
+Garden Path~
+You stand upon a small garden path.  The path continues to the north and
+south.   To the northwest you see pine trees.  To the east there is a fence
+On the other side of the fence, you see a small flower garden with very 
+tall multi-colored flowers within.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30124
+D2
+~
+~
+0 0 30121
+D3
+~
+~
+0 0 30122
+S
+#30122
+Just Off the Garden Path~
+You stand in beautiful lush green grass.  A few steps to the south or east,
+there is a garden path.  To the north and northwest there are pine trees. 
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30125
+D1
+~
+~
+0 0 30121
+D2
+~
+~
+0 0 30111
+D3
+~
+~
+0 0 30123
+S
+#30123
+Just Off the Garden Path~
+You stand in beautiful lush green grass.  To the west, you are blocked by
+a tall thorny hedge.  To the north you see tall pine trees.  A few steps
+to the south, there is a garden trail.  To the east you see a fenced in
+flower garden.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30126
+D1
+~
+~
+0 0 30122
+D2
+~
+~
+0 0 30112
+S
+#30124
+Garden Path~
+You stand upon a small garden path.  The path continues to the north and
+south.   To the northwest you see pine trees.  To the east there is a fence
+On the other side of the fence, you see a small flower garden with very 
+tall multi-colored flowers within.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30129
+D2
+~
+~
+0 0 30121
+D3
+~
+~
+0 0 30125
+S
+#30125
+Just Off the Garden Path~
+You stand in cool beautiful lush green grass.  A few steps to the east 
+there is a garden trail.  You also see a garden trail to the south.
+To the north and west you see tall slim pine trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30128
+D1
+~
+~
+0 0 30124
+D2
+~
+~
+0 0 30122
+D3
+~
+~
+0 0 30126
+S
+#30126
+Old pine trees~
+You stand next to a group of pine trees.  The tree is full of knots and
+holes.  The knots are arranged to make it look as if the tree has 
+facial features.  The trees' low branches sway overhead almost brushing
+against you.  
+~
+301 0 0 0 0 3
+D0
+~
+~
+0 0 30127
+D1
+~
+~
+0 0 30125
+D2
+~
+~
+0 0 30123
+S
+#30127
+Pine Forest~
+You stand in the middle of a pine forest.  A tall thorny hedge blocks you
+to the west.
+~
+301 0 0 0 0 3
+D0
+~
+~
+0 0 30130
+D1
+~
+~
+0 0 30128
+D2
+~
+~
+0 0 30126
+S
+#30128
+Pine Forest~
+You stand at the edge of a pine forest.  A few steps to the east there is 
+a garden path.  To the south you also see a garden path.
+~
+301 0 0 0 0 3
+D0
+~
+~
+0 0 30131
+D1
+~
+~
+0 0 30129
+D2
+~
+~
+0 0 30125
+D3
+~
+~
+0 0 30127
+S
+#30129
+Garden Path~
+You stand upon a small garden path.  The path continues east and south.
+To the southeast there is a fence.  On the other side of the fence you
+see a small flower garden with very tall multi-colored flowers within.
+To the north and west you see a pine tree forest.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30132
+D1
+~
+~
+0 0 30138
+D2
+~
+~
+0 0 30124
+D3
+~
+~
+0 0 30128
+S
+#30130
+A Huge Tree~
+In the middle of this pine tree forest, you come across a huge tree.  A
+huge knot dpminates one side of the tree.  Other than the not,  the tree
+is unremarkable.  To the west you are blocked by a tall thorny hedge.
+~
+301 0 0 0 0 3
+D0
+~
+~
+0 0 30137
+D1
+~
+~
+0 0 30131
+D2
+~
+~
+0 0 30127
+D3
+~
+knot~
+1 0 30170
+E
+knot~
+As you look at the knot you notice tiny hinges in the tree.
+~
+S
+#30131
+Pine Forest~
+You stand in the middle of a pine forest.
+~
+301 0 0 0 0 3
+D0
+~
+~
+0 0 30136
+D1
+~
+~
+0 0 30132
+D2
+~
+~
+0 0 30128
+D3
+~
+~
+0 0 30130
+S
+#30132
+Pine Forest~
+You stand at the edge of a pine forest.  A few steps to the south there
+is a garden path.
+~
+301 0 0 0 0 3
+D0
+~
+~
+0 0 30135
+D1
+~
+~
+0 0 30133
+D2
+~
+~
+0 0 30129
+D3
+~
+~
+0 0 30131
+S
+#30133
+Pine Forest~
+You stand at the edge of a pine forest.  A few steps to the south and the
+east there is a garden path.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30134
+D1
+~
+~
+0 0 30159
+D2
+~
+~
+0 0 30138
+D3
+~
+~
+0 0 30132
+S
+#30134
+Pine Forest~
+You stand at the edge of a pine forest.  A few steps to the east there is
+a garden path.  To the north you are blocked by a tall thorny hedge.
+~
+301 0 0 0 0 2
+D1
+~
+~
+0 0 30160
+D2
+~
+~
+0 0 30133
+D3
+~
+~
+0 0 30135
+S
+#30135
+Pine Forest~
+You stand in the middle of a pine forest.  A tall thorny hedge blocks you
+to the north.
+~
+301 0 0 0 0 3
+D1
+~
+~
+0 0 30134
+D2
+~
+~
+0 0 30132
+D3
+~
+~
+0 0 30136
+S
+#30136
+Pine Forest~
+You stand in the middle of a pine forest.  A tall thorny hedge blocks you
+to the north.
+~
+301 0 0 0 0 3
+D1
+~
+~
+0 0 30135
+D2
+~
+~
+0 0 30131
+D3
+~
+~
+0 0 30137
+S
+#30137
+Pine Forest~
+You stand in the middle of a pine forest.  You are blocked to the north
+and west by a tall thorny hedge.
+~
+301 0 0 0 0 3
+D1
+~
+~
+0 0 30136
+D2
+~
+~
+0 0 30130
+S
+#30138
+Garden Path~
+You stand upon a small garden path.  The path continues to the east and
+west.  To the north, there is a pine forest.  To the south, there is a
+fence.  On the other side of the fence, you see a small flower garden 
+with very tall multi-colored flowers within.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30133
+D1
+~
+~
+0 0 30158
+D3
+~
+~
+0 0 30129
+S
+#30139
+Flower Garden Enterance~
+You stand within a bizzare flower garden.  You are surrounded by six-foot
+tall flowers.  Each flower's petels are different colors.  No two flower
+has the same markings.  As you stand here admiring the uniqueness of the
+garden you notice some of the flowers seem to have mouths.  A few turn
+toward you, then begin swaying excitedly baring their teeth, as they 
+notice you.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30140
+D1
+~
+~
+0 0 30148
+D2
+~
+~
+0 0 30142
+D3
+~
+~
+0 0 30110
+S
+#30140
+Flower Garden~
+You stand within a bizzare flower garden.  You are surrounded by six-foot
+tall multi-colored flowers.  The flowers sway and bare their teeth as
+you pass.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30141
+D2
+~
+~
+0 0 30139
+S
+#30141
+Flower Garden~
+You stand within a bizzare flower garden.  You are surrounded by six-foot
+tall multi-colored flowers.  The flowers sway and bare their teeth as
+you pass.
+~
+301 0 0 0 0 2
+D2
+~
+~
+0 0 30140
+S
+#30142
+Flower Garden~
+You stand within a bizzare flower garden.  You are surrounded by six-foot
+tall multi-colored flowers.  The flowers sway and bare their teeth as
+you pass.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30139
+D2
+~
+~
+0 0 30143
+S
+#30143
+Flower Garden~
+You stand within a bizzare flower garden.  You are surrounded by six-foot
+tall multi-colored flowers.  The flowers sway and bare their teeth as
+you pass.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30142
+D2
+~
+~
+0 0 30144
+S
+#30144
+Flower Garden~
+You stand within a bizzare flower garden.  You are surrounded by six-foot
+tall multi-colored flowers.  The flowers sway and bare their teeth as
+you pass.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30143
+S
+#30145
+Garden Path~
+You stand upon a garden path.  The path continues north.  The exit to the
+garden is a few steps to the south.  To the west there is a fence.  On
+the other side of the fence you see a small flower garden with very tall
+multi-colored flowers within.  To the northeast you see huge mushrooms.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30146
+D1
+~
+~
+0 0 30149
+D2
+~
+~
+0 0 30102
+S
+#30146
+Garden Path~
+You stand upon a small garden path.  The path continues to the north and
+south.  The path also continues to the east.  To the west there is a 
+fence.  On the other side of the fence you see a small flower garden 
+with very tall multi-colored flowers within.  To the northeast you see
+huge mushrooms.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30147
+D1
+~
+~
+0 0 30152
+D2
+~
+~
+0 0 30145
+S
+#30147
+Garden Path~
+You stand upon a small garden path.  The path continues to the north and
+south.  To the west there is a fence.  On the other side of the fence,
+you see a small flower garden with very tall multi-colored flowers within.
+To the east you see an algee covered birdbath.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30148
+D1
+~
+~
+0 0 30155
+D2
+~
+~
+0 0 30146
+S
+#30148
+Garden Path~
+You stand upon a small garden path.  The path continues to the north and
+south.  To the west there is an enterance through a fence, into a small
+flower garden.  Within the garden, you see tall multi-colored flowers.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30156
+D1
+~
+~
+0 0 30154
+D2
+~
+~
+0 0 30147
+D3
+~
+~
+0 0 30139
+S
+#30149
+Just Off the Garden Path~
+You stand in beautiful lush green grass.  You can feel the coolness of the
+ground through your footgear.  Just a few feet to the north and west 
+there is a garden path.  To the south, you are blocked by a tall thorny
+hedge.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30152
+D1
+~
+~
+0 0 30150
+D3
+~
+~
+0 0 30145
+S
+#30150
+Just Off the Garden Path~
+You stand in beautiful lush green grass.  You can feel the coolness of the
+ground through your footgear.  Just a few feet to the north there is a
+garden path.  You are blocked by a tall thorny hedge to the east and
+south.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30151
+D3
+~
+~
+0 0 30149
+S
+#30151
+Garden Path~
+You stand upon a garden path.  The path continues to the west.  The exit 
+to the garden is a few steps to the east.  To the west you see a small
+flower garden.  To the north, you see huge mushrooms. 
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30153
+D1
+~
+~
+0 0 30104
+D2
+~
+~
+0 0 30150
+D3
+~
+~
+0 0 30152
+S
+#30152
+Garden Path~
+You stand upon a small garden path.  The path continues to the east and
+west.  To the west you see a small flower garden.  T othe north you see
+an algee covered birdbath and huge mushrooms.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30155
+D1
+~
+~
+0 0 30151
+D2
+~
+~
+0 0 30149
+D3
+~
+~
+0 0 30146
+S
+#30153
+Just Off the Garden Path~
+You stand in beautiful lush green grass.  A few steps to the south there
+is a garden path.  To the west there is a algee covered birdbath.  You are
+blocked to the east by a tall thorny hedge.  To the north you are blocked
+by huge mushrooms.
+~
+301 0 0 0 0 2
+D2
+~
+~
+0 0 30151
+D3
+~
+~
+0 0 30155
+S
+#30154
+Just Off the Garden Path~
+You stand in lush green grass.  A few steps to the west there is a garden
+path.  You are blocked by huge mushrooms to the north and east.
+~
+301 0 0 0 0 2
+D2
+~
+~
+0 0 30155
+D3
+~
+~
+0 0 30148
+S
+#30155
+Algee Covered Birdbath~
+You stand next to a algea covered birdbath.  The stone surface of the
+birdbath is fractured and covered in a green slime.  From a few feet 
+away you can smell the stench of decay from the corpses of birds within
+the basin of the birdbath.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30154
+D1
+~
+~
+0 0 30153
+D2
+~
+~
+0 0 30152
+D3
+~
+~
+0 0 30147
+S
+#30156
+Garden Path~
+You stand upon a garden path.  The path continues north and south.  To the
+west there is a fence.  On the other side of the fence, you see a small
+flower garden with very tall multi-colores flowers within.  You are blocked
+to the east by a huge mushroom.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30157
+D2
+~
+~
+0 0 30148
+S
+#30157
+Garden Path~
+You stand upon a small garden path.  The path continues north and south.
+To the west there is a fence.  On the other side of the fence, you see a
+small flower garden with very tall multi-colored flowers within.  To the 
+east you see huge mushrooms.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30158
+D1
+~
+~
+0 0 30167
+D2
+~
+~
+0 0 30156
+S
+#30158
+Intersection of Garden Path~
+You stand at an intersection of the garden paths.  The paths continue in
+all directions.  To the north and east you see exits to the garden.  Also
+to the east there is a black birdbath.  To the west you see a pine tree
+forest.  To the south, you see a fenced in flower garden and huge mushrooms.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30159
+D1
+~
+~
+0 0 30166
+D2
+~
+~
+0 0 30157
+D3
+~
+~
+0 0 30138
+S
+#30159
+Garden Path~
+You stand upon a garden path.  The path continues north and south.  To the 
+north there is an exit to the garden.  To the west there is a pine forest.
+To the east you see a black birdbath and a small clump of trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30160
+D1
+~
+~
+0 0 30163
+D2
+~
+~
+0 0 30158
+D3
+~
+~
+0 0 30133
+S
+#30160
+Garden Path~
+You stand upon a garden path.  The path continues south.  The exit to the
+garden is a few steps to the north.  To the west there is a pine forest.
+To the east you see a small clump of trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30106
+D1
+~
+~
+0 0 30161
+D2
+~
+~
+0 0 30159
+D3
+~
+~
+0 0 30134
+S
+#30161
+Just Off the Garden Path~
+You stand in lush green grass.  A few steps to the west there is a garden
+path.  To the south you see a black birdbath.  To the east you see a 
+small clump of trees.  You are blocked to the north, by a tall thorny hedge.
+~
+301 0 0 0 0 2
+D1
+~
+~
+0 0 30164
+D2
+~
+~
+0 0 30163
+D3
+~
+~
+0 0 30160
+S
+#30162
+Just Off the Garden Path~
+You stand in lush green grass.  A few steps to the south there is a garden
+path.  To the west you see a black birdbath.  To the north you see a small
+clump of trees.  You are blocked to the east by a tall thorny hedge.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30164
+D2
+~
+~
+0 0 30165
+D3
+~
+~
+0 0 30163
+S
+#30163
+A Black Birdbath~
+You stand next to a birdbath made of polished black stone.  A few steps to
+the west and south there is a garden path.  T othe northeast you see a
+small clump of trees.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30161
+D1
+~
+~
+0 0 30162
+D2
+~
+~
+0 0 30166
+D3
+~
+~
+0 0 30159
+S
+#30164
+Clump of trees~
+You stand underneath a small clump of trees.  You look up and cannot help
+but see an enormous beehive and swarms of bees that hover around it.
+~
+301 0 0 0 0 2
+D2
+~
+~
+0 0 30162
+D3
+~
+~
+0 0 30161
+S
+#30165
+Garden Path~
+You stand upon a garden path.  The path continues to the west.  The exit 
+to the garden is a few steps to the east.  To the north you see a small
+clump of trees.  To the south you see huge mushrooms.  One of the mushrooms
+looks as though you can climb to the top of it.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30162
+D1
+~
+~
+0 0 30105
+D3
+~
+~
+0 0 30166
+D4
+~
+~
+0 0 30168
+S
+#30166
+Garden Path~
+You stand upon a small garden path.  The path continues to the east and
+west.  To the west you see a pine tree forest.  To the north you see a
+black birdbath.  To the south you see huge mushrooms.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30163
+D1
+~
+~
+0 0 30165
+D2
+~
+~
+0 0 30167
+D3
+~
+~
+0 0 30158
+S
+#30167
+Just Off the Garden Path~
+You stand in lush green grass.  A few steps to the west there is a garden
+path.  You are blocked by huge mushrooms to the east and south.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30166
+D3
+~
+~
+0 0 30157
+S
+#30168
+A top a Huge Mushroom~
+You are standing upon a huge mushroom.  You can climb down to the ground
+from here.  The mushroom next to you is close enough you can jump to it
+from here.
+~
+301 0 0 0 0 2
+D2
+~
+~
+0 0 30169
+D5
+~
+~
+0 0 30165
+S
+#30169
+Atop a Huge Mushroom~
+You are standing upon a huge mushroom.  The top surface of the mushroom
+is scarred with claw marks and small indentions.  It looks as though this
+mushroom gets a lot of traffic.
+~
+301 0 0 0 0 2
+D0
+~
+~
+0 0 30168
+S
+#30170
+Pixie Lair~
+You stand within a great tree.  The tree has been hollowed to make room
+for an elaborate throne room.  Great patterned rugs hang on the walls and
+cover the floor.  At one end of the room, the is a golden throne.  Silk
+material is draped over the back and armrests.
+~
+301 0 0 0 0 0
+D1
+~
+knot~
+1 0 30130
+S
+$~

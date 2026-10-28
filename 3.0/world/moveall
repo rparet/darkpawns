@@ -1,0 +1,11 @@
+#/bin/sh
+
+echo Copying world files...
+cp obj/* ~pawns/mud/lib/world/obj
+cp wld/* ~pawns/mud/lib/world/wld
+cp shp/* ~pawns/mud/lib/world/shp
+cp zon/* ~pawns/mud/lib/world/zon
+cp mob/* ~pawns/mud/lib/world/mob
+
+echo Done!
+

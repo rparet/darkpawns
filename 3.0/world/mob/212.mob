@@ -1,0 +1,845 @@
+#21200
+cityguard guard~
+a cityguard~
+A cityguard stands here, patrolling the streets and looking for trouble.
+~
+The cityguard is a large, neatly-dressed man. His head is shaved, and he wears
+the navy and grey uniform of a sergeant. He looks brave and trustworthy.
+~
+degln df 700 E
+48 85 48d8+997 5d5
+45 16627
+8 8 1
+Race: 0
+Script: cityguard.lua 386
+E
+#21201
+cityguard guard~
+a cityguard~
+A cityguard is here, searching the town for wrongdoers.
+~
+The cityguard is a strong, tall woman in the grey and blue uniform of a
+sergeant. She has short, dark hair. She looks brave and trustworthy.
+~
+dgl d 700 E
+48 85 48d8+997 5d5
+45 16627
+8 8 2
+Race: 0
+Script: cityguard.lua 386
+E
+#21202
+kharzed captain guard~
+Kharzed, Captain of the Guard~
+The Captain of the Guard is here, patrolling the streets.
+~
+Kharzed is a huge man, standing over seven feet tall. His hair is a bit longer
+than his troops', and he wears a neatly-trimmed beard. His uniform has the
+navy and gold of a Captain. He looks a bit older than his troops, but he is
+still very young to be an officer. He must have a bright future, indeed.
+~
+dgls df 700 E
+93 183 93d8+2690 8d8
+45 44842
+8 8 1
+Race: 0
+Script: aversin.lua 400
+E
+#21203
+guard gate~
+a gate guard~
+A gate guard stands here, vigilantly watching the gate.
+~
+The gate guard is a large, neatly-dressed man. His head is shaved, and he
+wears the navy and grey uniform of a sergeant. He looks brave and trustworthy.
+~
+bdl df 700 E
+33 55 33d8+568 4d5
+45 9478
+8 8 1
+Race: 0
+Script: cityguard.lua 384
+E
+#21204
+alchemist chemist zaebos~
+Zaebos the alchemist~
+Zaebos the alchemist stands here, carefully mixing some sort of potion.
+~
+The alchemist is an older man with a greyish white beard and a bald head. He
+wears a dirty white robe that has a few stains and burn marks on it. He seems
+to be in good shape.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+100000 50000
+8 8 1
+Race: 0
+E
+#21205
+owner bookstore book~
+the bookstore owner~
+The owner of this bookstore stands here, looking over a new arrival.
+~
+The bookstore owner is a younger man with a love for books. He wears thick
+glasses on his face, and his clothes are neat and dapper.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+20000 50000
+8 8 1
+Race: 0
+E
+#21206
+mage abernathanorial~
+Abernathanorial, the retired mage~
+Abernathanorial, the retired mage is here, writing his spellbook and thinking of the old days.
+~
+The retired mage is very old, and can barely see anymore. People say he is one
+of the Old Age Masters, and has opened a shop in town so that he can relax and
+write the definative spellbook in his spare time. He wears a long purple cloak
+and a funny-looking hat.
+~
+abdy h 500 E
+100 199 100d8+3000 9d9
+30000 50000
+8 8 1
+Race: 0
+E
+#21207
+al bartender~
+Al, the bartender~
+Al the bartender stands here, whistling a tune while he cleans glasses.
+~
+Al is a happy young man who inherited this establishment from his father. He
+always has something nice to say to his patrons, and keeps the bar very clean
+and neat. Although he is not very big, he looks like he has come through some
+rough situations, and could hold his own in a brawl.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+10000 50000
+8 8 1
+Race: 0
+E
+#21208
+zeb baker~
+Zeb, the baker~
+Zeb, the baker wipes flour from her hands as she tends the ovens.
+~
+Zeb is a fat, young woman with rose-red cheeks and a happy laugh. She wears a
+puffy white hat and a big smile. She also keeps a long sword in the corner of
+the room, and looks like she knows how to use it.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+10000 50000
+8 8 2
+Race: 0
+Script: baker_dough.lua 8
+E
+#21209
+Amantis librarian~
+Amantis, the librarian~
+Amantis the librarian is here, reading a book at her desk.
+~
+You look upon a beautiful young woman. Educated at some university far away,
+she took this job so she could spend time continuing her studies. Her bright,
+intelligent eyes regard you with a welcome, and her lovely smile fills you
+with a warmth of self-assurance.
+~
+bdeln df 700 E
+100 199 100d8+3000 9d9
+10000 50000
+8 8 2
+Race: 0
+E
+#21210
+blacksmith hashkar~
+Hashkar, the blacksmith~
+Hashkar the blacksmith is here, hammering a glowing hot bit of iron.
+~
+Hashkar is a huge, strong man with a deep and powerful voice. His large hands
+are very tough, and his arms bear scars where he has accidentally burned
+himself in the past. He is tall and barrel chested - someone you would be wise
+not to mess with.
+~
+bdy dfk 1000 E
+100 199 100d8+3000 9d9
+10000 50000
+8 8 1
+Race: 0
+Script: blacksmith.lua 24
+E
+#21211
+mirissa waitress~
+Mirissa, the waitress~
+Mirissa the waitress is here, walking around smiling at customers.
+~
+Mirissa is an old woman with grey hair and a thick order pad. She has been
+working here most of her life, and still does not own the tavern. She is a
+very good-looking woman now; when she was in her prime she must have had to
+fight off all the over-friendly customers. Now she has worn-out eyes and
+looks very tired of her job.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+10000 50000
+8 8 2
+Race: 0
+Noise: The sound of soft music drifts in from the upper floor.
+E
+#21212
+receptionist~
+the receptionist~
+The receptionist gazes at you like you were the center of the universe.
+~
+The receptionist looks lean and mean. Her long, painted fingernails remind you
+of claws, and the arcane gleam in her eye reminds you of a powerful mage. She
+is rumored to be the keeper of the rentfiles and defender of the inn's vault.
+Surely she is a powerful and dangerous woman to offend.
+~
+bcdlnpr df 1000 E
+100 199 100d8+3000 9d9
+5000 50000
+8 8 2
+Race: 0
+E
+#21213
+wonkots man~
+Wonkots~
+Wonkots, the store proprietor, is organizing his merchandise.
+~
+Born in a distant land, Wonkots began an adventuring lifestyle in his early
+years and eventually settled here in Kir Morthis. He now trades mostly in
+staves and wands. Although he isn't too hearty-looking, surely he has
+mastered some kind of magic to craft these fine wands.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+20000 50000
+8 8 1
+Race: 0
+E
+#21214
+tiberius scholarly mage identifier~
+Tiberius~
+A scholarly mage smiles warmly as you enter the store.
+~
+Tiberius is a true master of magic. His powerful mind, like a vault, contains
+all the secrets of the ancient magicians. Lost secrets are known to this old
+mage who, ever the patient teacher, passes his knowledge along to the next
+generations.
+~
+bdnpqr dhE 0 E
+100 199 100d8+3000 9d9
+30 50000
+8 8 1
+Race: 0
+Script: teacher.lua 1
+E
+#21215
+guard~
+the guard~
+A guard is here, keeping you from going into prison.
+~
+This man came into town poor, but now works in one of the cities most
+important positions, he keeps people from wandering into jail.
+~
+bd df 0 E
+100 199 100d8+3000 9d9
+15 50000
+8 8 1
+Race: 0
+E
+#21216
+guard jail jailguard~
+the jailguard~
+A fat jailguard sits here, wiggling a loose tooth.
+~
+He's fat, ugly, and willing to take a bribe.
+~
+bd df 0 E
+87 169 87d8+2434 7d8
+15 40574
+8 8 1
+Race: 0
+Script: jailguard.lua 146
+E
+#21217
+stable stablehand~
+the stablehand~
+A stablehand stands here, tending to the animals.
+~
+She's dressed in some decent leather breeches and a matching vest. She
+has an air about her that seems to reflect her knowledge of mounts, and a
+stench about her that definitely reflects her commitment to the job.
+~
+abdlnp df 0 E
+100 199 100d8+3000 9d9
+15 50000
+8 8 2
+Race: 0
+Script: stable.lua 1
+E
+#21218
+karnor mage sorcerer~
+Karnor, the sorcerer~
+Karnor the sorcerer is standing here.
+~
+Wearing a distinct robe covered in magickal symbols, this mage's appearance
+is deceiving. Behind pale blue eyes and a wizened smile lies great power and
+an abundance of knowledge.
+~
+bd h 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Script: town_teleport.lua 512
+E
+#21219
+guardian naga banker~
+the guardian naga~
+A huge guardian naga stands here, keeping a watchful eye on everyone.
+~
+Surrounded with a flowery-sweet scent, the guardian naga is marked by
+green-gold scales, silvery spines, and flashing golden eyes. It was summoned
+by the High Priest to guard the bank from would-be thieves.
+~
+bdlnqy df 500 E
+90 176 90d8+2561 8d8
+15 42690
+8 8 2
+BareHandAttack: 4
+Race: 29
+Script: banker.lua 8
+E
+#21220
+achyls teacher sorceress~
+Achyls~
+A petite sorceress looks over some of the books.
+~
+Petite is perhaps a generous term for the being before you, because she would
+be lucky to be half of your height! Wrapped in an ornate robe that is too
+large for her frame, and wearing a pair of spectacles that make her look much
+older than she really is, the sorceress is still someone you should not trifle
+with.
+~
+bd df 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 2
+Race: 0
+Script: teacher.lua 512
+E
+#21221
+priest high kir morthis~
+the High Priest of Kir Morthis~
+The High Priest of Kir Morthis is here, preparing his next sermon.
+~
+He's been around for a long, long time, and rumor has it that he was the one
+that summoned the allies needed to destroy the Dark One's forces during the
+Great War. Since then, he's been here, waiting for something that even he does
+not understand.
+~
+bcdln dfk 1000 E
+90 176 90d8+2561 8d8
+15 42690
+8 8 1
+Race: 0
+Script: cleric.lua 256
+E
+#21222
+ab~
+Ab~
+Ab stands at the counter, with a slightly impatient look on his face.
+~
+Ab moves two 200 pound bags of flour around on his huge shoulders. He looks at
+you while checking off his inventory list as if to ask "What do you want?"
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+20000 50000
+8 8 1
+Race: 0
+E
+#21223
+galt weaponsmith~
+Galt, the weaponsmith~
+Galt stands here, eager to sell you his newest, finest weapons.
+~
+He's a young weaponsmith, who still has lots to learn.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+50000 50000
+8 8 1
+Race: 0
+E
+#21224
+beldam armorer~
+Beldam, the armorer~
+Beldam the armorer stands here, displaying his shiny new armors.
+~
+An old but very strong armorer. He has made more armors in his life than you
+have ever seen.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+50000 50000
+8 8 1
+Race: 0
+E
+#21225
+postmaster post master~
+the Postmaster~
+The head Postmaster is standing here, waiting to help you with your mail.
+~
+The Postmaster seems like a happy old man, though a bit sluggish. He worries
+about the reputation of the Mail Service, as many people seem to think that
+it's slow. Perhaps if he were to brush the cobwebs from his uniform it'd help
+to make a better impression.
+~
+abdl d 1000 E
+99 197 99d8+2955 9d9
+2000 49251
+8 8 1
+Race: 0
+E
+#21226
+bartender~
+the bartender~
+The bartender watches you calmly, while he skillfully mixes a drink.
+~
+He's just a tired-looking bartender who hates trouble in his bar.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+10000 50000
+8 8 1
+Race: 0
+E
+#21227
+keeper peacekeeper~
+a Peacekeeper~
+A Peacekeeper is hovering around here, keeping the ruffians in line.
+~
+Just seeing the large, silver sphere triples your sense of security.
+~
+dglnu 0 1000 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+Race: 0
+Script: take_jail.lua 384
+E
+#21228
+watchman guard man~
+a watchman~
+A watchman is here, watching for signs of trouble.
+~
+You see a strong young man who is ready to leap into action at the smallest
+sign of trouble.
+~
+bdhl d 1000 E
+54 98 54d8+1190 5d6
+45 19840
+8 8 1
+Race: 0
+Script: cityguard.lua 384
+E
+#21229
+janitor~
+a janitor~
+A janitor is walking around, cleaning up.
+~
+He looks like a Phil.
+~
+dlu 0 800 E
+9 12 9d8+81 3d3
+10 1350
+8 8 1
+Race: 0
+Script: janitor.lua 74
+E
+#21230
+stray dog~
+the stray dog~
+A stray dog is here, mucking through the garbage looking for food.
+~
+The dog is small and foul smelling. He has bits of foul, rotting meat hanging
+from his ugly teeth.
+~
+adfgh 0 -200 E
+6 7 6d8+44 3d3
+5 734
+8 8 1
+BareHandAttack: 4
+Race: 11
+E
+#21231
+rakshasa tiger creature man~
+a rakshasa~
+A tall, tiger-like creature stands here, studying the crowd.
+~
+One of the many rakshasa that seem to finally be integrating into society.
+~
+cdlmu dfks -330 E
+24 38 24d8+352 3d5
+40 5878
+8 8 1
+BareHandAttack: 8
+Race: 4
+E
+#21232
+messenger~
+a messenger~
+A messenger is running along here, delivering a message.
+~
+He's a young man with a good, honest job. His mother would be so proud.
+~
+bdu 0 400 E
+15 22 15d8+174 3d4
+25 2904
+8 8 1
+Race: 0
+E
+#21233
+lackey~
+an over-worked lackey~
+An over-worked lackey passes by here, doing things for his master.
+~
+This young man has a hard job but makes the best of it, works really hard, and
+gets paid very well.
+~
+dlmnu 0 400 E
+15 22 15d8+174 3d4
+12 2904
+8 8 1
+Race: 0
+E
+#21234
+baby dragon~
+a baby dragon~
+A baby dragon looks at you inquisitively.
+~
+Only a few days old, this baby dragon is still quite powerful and a creature
+you don't wish to annoy. Unlike its mature brethren, the young offspring is
+incapable of magic but has the ability to fly.
+~
+dp dfA 200 E
+8 10 8d8+67 3d3
+0 1131
+8 8 0
+BareHandAttack: 3
+Race: 14
+E
+#21235
+condor~
+a condor~
+A large condor eyes you carefully from a distance.
+~
+With a wingspan almost as large as you are tall, the condor has an extremely
+keen eyesight, sharp talons and an equally sharp beak for tearing at its prey.
+Fortunately, this one looks tamed and may not be as fierce.
+~
+dhq pA 100 E
+9 12 9d8+81 3d3
+0 1350
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#21236
+snow mountain cat leopard~
+a snow leopard~
+A snow-white mountain cat rests here, staring coldly at you.
+~
+The beagle looks like a fierce fighter.
+~
+d fs 50 E
+8 10 8d8+67 3d3
+0 1131
+8 8 0
+BareHandAttack: 8
+Race: 17
+E
+#21237
+lesser daemon~
+a lesser daemon~
+A lesser daemon stands before you, awaiting a command.
+~
+Thought only to exist within the darkest reaches of the underworld, the lesser
+daemon is generally summoned to this world to serve. Bound to a single master,
+it will do their bidding until death.
+~
+dep dfg -200 E
+9 12 9d8+81 3d3
+0 1350
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#21238
+rock wight~
+a rock wight~
+A rock wight shimmers into focus before your eyes.
+~
+A long-dead soul, these creatures are doomed to roam the world in an endless
+search. Usually not seen, a few are sometimes drawn back to the physical world
+to serve a master.
+~
+dpr df -200 E
+10 14 10d8+94 3d4
+0 1581
+8 8 0
+Race: 32
+E
+#21239
+brat kid~
+the little brat~
+A grubby little kid is here, playing in the dirty street.
+~
+The kid is very dirty, and his parents are nowhere to be found. He has a
+little stick in his hand and is pretending it is a sword. He runs around the
+streets whapping horses and buildings, all the while mumbling magic words. He
+is quite annoying.
+~
+cdghnu 0 600 E
+6 7 6d8+44 3d3
+15 734
+8 8 1
+Race: 0
+E
+#21240
+mortician undertaker~
+the Mortician~
+The Mortician, dressed all in black, stares at you knowingly.
+~
+Type 'Retrieve' to get your corpse back without venturing into the wilds
+NAKED!
+~
+abd 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+E
+#21241
+man sailor large~
+a sailor~
+A large man is here, checking out the town.
+~
+He's just come in and is looking for a place to have a good time.
+~
+cdhnu 0 -900 E
+18 27 18d8+229 3d4
+20 3818
+8 8 1
+Race: 0
+E
+#21242
+thief~
+the sneaky, little thief~
+A sneaky thief is here, hiding in the shadows and skulking around.
+~
+The thief is sneaky and cunning... he enjoys his work.
+~
+cdegnu fst -500 E
+21 33 21d8+288 3d5
+652 4811
+8 8 1
+Race: 3
+Script: thief.lua 128
+E
+#21243
+kir morthisian noble nobleman~
+a Kir Morthisian noble~
+A Kir Morthisian nobleman walks by here, looking at you in disgust.
+~
+He was born with a silver spoon in his mouth, and was raised hating your kind.
+~
+dghsu 0 0 E
+15 22 15d8+174 3d4
+25 2904
+8 8 1
+Race: 0
+E
+#21244
+tattooist artist Polywig~
+Polywig~
+A well-dressed tattoo artist stands here.
+~
+His fine clothes and demeanor seem stark in contrast to his tattooed body. An
+aura of magic radiates from many of his tattoos.
+~
+abdnpq p 0 E
+87 169 87d8+2434 7d8
+550 40574
+8 8 1
+Script: tattoo.lua 516
+E
+#21245
+allana shop attendant~
+Allana~
+The store attendant smiles warmly at you.
+~
+She's rather pretty, even in her common garb. Long brown hair is streaked
+with blonde, seeming to glitter in the meager light.
+~
+bdnr d 0 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 2
+Race: 0
+Script: pet_store.lua 512
+E
+#21246
+shadow mage shadowmage~
+the shadowmage~
+The shadowmage is here, practicing forbidden arts.
+~
+He is a tall, somewhat young man. His face appears distorted, as if some
+magical spell was hiding his true appearance from you.
+~
+abcdelnpqry dhk -500 E
+96 190 96d8+2821 8d9
+0 47030
+8 8 1
+BareHandAttack: 12
+Race: 0
+E
+#21247
+Grimmy attendant man~
+the donation room attendant~
+A small man is here, sorting thought the donated goods.
+~
+A meek and humble soul, Grimmy serves the community of Kir Morthis as
+attendant to the donation house. Although very quiet, he is friendly,
+and reaps great self-satisfaction at being able to help so many adventurers
+in need.
+~
+bdenpqry dfk 0 E
+72 136 72d8+1832 6d7
+0 30547
+8 8 1
+Race: 0
+Script: donation.lua 64
+E
+#21248
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#21249
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#21250
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#21251
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#21252
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occasionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#21253
+local blacksmith black smith~
+the blacksmith~
+The local blacksmith hammers away at a piece of steel.
+~
+Dripping with sweat from the roaring fire and hard work, the local blacksmith
+is responsible for repairing and maintaining all manner of items for the
+town's citizens. With bulging muscles and standing much taller than you, this
+individual is not to be messed with!
+~
+abdy 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Noise: The sound of metal striking metal rings out clearly.
+E
+#21254
+clerk~
+a clerk~
+A clerk shuffles some papers around and calls it work.
+~
+He obviously works for the home office.
+~
+abdy 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Script: clerk.lua 8
+E
+$

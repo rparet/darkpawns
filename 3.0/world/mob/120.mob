@@ -1,0 +1,88 @@
+#12000
+beholder ultimate~
+the ultimate~
+A gigantic beholder floats amid probing eyestalks.
+~
+Nearly twice the size of other beholders, the Ultimate fills the room.
+Eyes probe you from the end of long stalks attached to the its body, and
+a cavernous mouth drips saliva from between rows of sharp teeth.
+~
+bdflnprx dfhk -1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 0
+BareHandAttack: 12
+Race: 25
+Script: beholder.lua 896
+E
+#12001
+headless spirit~
+the headless spirit~
+A headless spirit searches for new trophies.
+~
+Wait! it DOES have a head... it's tucked under its arm. No, wait again.. 
+that's someone else's head.
+~
+bcdfnpr dfh -400 E
+96 190 96d8+2821 8d9
+100 47030
+8 8 0
+Race: 32
+E
+#12002
+sphinx statue~
+the sphinx~
+An enormous sphinx is here, resting on a pedestal.
+~
+It appears to be living marble, and pays little attention to you.
+~
+bdlnpqr dfhk 0 E
+93 183 93d8+2690 8d8
+90 44842
+5 8 0
+BareHandAttack: 12
+Race: 25
+E
+#12003
+sphinx statue key~
+the sphinx~
+An enormous sphinx is here, resting on a pedestal.
+~
+It appears to be living marble, and pays little attention to you.
+~
+bdlnpqr dfhk 0 E
+93 183 93d8+2690 8d8
+0 44842
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#12004
+sphinx statue~
+the sphinx~
+An enormous sphinx is here, resting on a pedestal.
+~
+It appears to be living marble, and pays little attention to you.
+~
+bdelnpqr dfhk 0 E
+93 183 93d8+2690 8d8
+90 44842
+5 8 0
+BareHandAttack: 12
+Race: 25
+E
+#12005
+sphinx statue~
+the sphinx~
+An enormous sphinx is here, resting on a pedestal.
+~
+It appears to be living marble, and pays little attention to you.
+~
+bdelnpqr dfhk 0 E
+93 183 93d8+2690 8d8
+90 44842
+5 8 0
+BareHandAttack: 12
+Race: 25
+E
+$

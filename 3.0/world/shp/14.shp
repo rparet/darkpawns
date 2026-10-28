@@ -1,0 +1,34 @@
+CircleMUD v3.0 Shop File~
+#1447~
+1402
+1403
+1405
+1400
+1407
+1256
+8033
+1424
+-1
+2.50
+1.00
+-1
+%s I have no knowledge of such an item.~
+%s You do not seem to possess that item.~
+%s I have no use for such an item.~
+%s I can't afford that!~
+%s Return to me when you have the required gold.~
+%s Very well, that will cost you %d coins.~
+%s I'll give you %d coins for that.~
+0
+0
+1400
+None~
+0
+1447
+-1
+0
+24
+0
+0
+0
+$~

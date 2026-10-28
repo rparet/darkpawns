@@ -1,0 +1,2458 @@
+#10200
+Map Room for The Ancient Citadel~
+   Mounted against the north wall is a map of the Citadel of Solamnia, and
+the crypt beneath.
+~
+102 cdgj 0
+D5
+~
+~
+0 0 10201
+E
+map~
+0~
+            0
+            |
+            |
+            1--1
+            |  |
+            |  |
+            1--1--1
+            |  |  |
+            |  |  |
+   0  0  1--1--1--1--1
+   |  |  |        |  |
+   |  |  |        |  |
+   0--0--1  0--0  1--1--0         0  0  0
+   |  |  |  | /|  |               |  |  |
+   |  |  |  |  |  |               |  |  |
+   0--0--1--0--0  1  0--0      0--0--0--0--0
+   |              |  |  |         |     |
+   |              |  |  |         |     |
+   0  0  1--1--1  1--0  0      0--0  0  0--0--0--0
+   |  |  |  |  |  |     |         | /|  |     |  |
+   |  |  |  |  |  |     |         |  |  |     |  |
+   0  0--1--1--1--1--0  0      0--0--0--0--0  0--0
+      |  |  |  |  |     |         |  |  |
+      |/ |  |  |  |     |         |  |  |
+      0  1--1--1  1--0  0         0  0  0
+         |     |  |
+         |     |
+         0  0--0
+            |
+            |
+            0--0
+               |
+               |
+
+~
+S
+#10201
+A Calm Place~
+   You have arrived at a place that the raging black winds appear to have
+missed entirely - the calm within the storm. You wonder how this anomaly could
+possibly exist: the thick sandstorms to the south, and, in stark contrast, the
+deathly stillness to the north.
+~
+102 0 10
+D0
+~
+~
+0 0 10266
+D2
+Black sand, swept up by fierce winds blocks your vision in this direction.
+~
+~
+0 0 6230
+S
+#10202
+Inside the Abandoned Citadel~
+   The ceiling is cracked and blackened, and the very stone of the walls seems
+to be warped from the terrors and magics that were worked here long ages ago.
+The broken citadel street lies through the great doors to the west, and a
+crumbling spiral staircase is northeast of here.
+~
+102 d 0
+D0
+~
+~
+0 0 10204
+D1
+~
+~
+0 0 10203
+D3
+The Tower Doors
+~
+doors~
+1 0 10242
+S
+#10203
+In the Abandoned Citadel~
+   A great stone spiral staircase is north of here, and the exit to the west
+leads out to the main part of the Citadel. The air seems to echo with the
+spirits of the dead.
+~
+102 d 0
+D0
+~
+~
+0 0 10205
+D3
+~
+~
+0 0 10202
+S
+#10204
+In the Abandoned Citadel~
+   A great stone spiral staircase is east of here, and the exit to the south
+leads out to the main Citadel. The air seems to echo with the spirits of the
+dead.
+~
+102 d 0
+D1
+~
+~
+0 0 10205
+D2
+~
+~
+0 0 10202
+S
+#10205
+In the Abandoned Citadel~
+   The spiral stairway rises above you, fading into darkness before you can see
+the ceiling of the next level. An enormous pile of bleached bones been built
+up in the center of the stair's spiral, obviously having been flung down from
+above. Insects crawl all about, living off of this macabre spectacle.
+~
+102 d 0
+D2
+~
+~
+0 0 10203
+D3
+~
+~
+0 0 10204
+D4
+~
+~
+0 0 10206
+S
+#10206
+On the Spiral Staircase~
+   The stairs spiral upwards to the roof of the Citadel. The individual steps
+are so large it takes two paces to cross them, and the craftsmanship that
+keeps them from crushing under their own weight astounds you.
+~
+102 cd 0
+D4
+~
+~
+0 0 10210
+D5
+~
+~
+0 0 10205
+S
+#10207
+In the Abandoned Citadel~
+   The spiral staircase continues to rise here. You can see sunlight shining
+into the level above you.
+~
+102 d 0
+D0
+~
+~
+0 0 10209
+D1
+~
+~
+0 0 10208
+D4
+~
+~
+0 0 10211
+S
+#10208
+In the Abandoned Citadel~
+   This corner of the landing houses a remarkable tapestry preserved by the
+desert heat. It pictures Knights of Solamnia battering down the ferocious
+Jun Horde. The spiral staircase descends to the north, and ascends to the
+west of here.
+~
+102 d 0
+D0
+~
+~
+0 0 10210
+D3
+~
+~
+0 0 10207
+S
+#10209
+In the Abandoned Citadel~
+   The floor seems unstable here, crumbling beneath your feet. Obviously, the
+dark magic's transportation of the Citadel caused considerable strain to the
+structure.
+~
+102 d 0
+D1
+~
+~
+0 0 10210
+D2
+~
+~
+0 0 10207
+S
+#10210
+In the Abandoned Citadel~
+   The stairs form a wide anding here, continuing upwards to the southwest,
+and heading back down at this point to the ground level.
+~
+102 d 0
+D2
+~
+~
+0 0 10208
+D3
+~
+~
+0 0 10209
+D5
+~
+~
+0 0 10206
+S
+#10211
+On the Spiral Staircase~
+   The stairs spiral upwards to the roof of the Citadel. The individual steps
+are so large it takes two paces to cross them, and the craftsmanship that
+keeps them from crushing under their own weight astounds you.
+~
+102 cd 0
+D4
+~
+~
+0 0 10212
+D5
+~
+~
+0 0 10207
+S
+#10212
+In the Abandoned Citadel~
+   The wall to the west has a gaping hole in it, giving a terrific view of the
+swirling black sands of the desert below. The spiral stair continues to the
+northeast.
+~
+102 d 0
+D0
+~
+~
+0 0 10214
+D1
+~
+~
+0 0 10213
+D5
+~
+~
+0 0 10211
+S
+#10213
+In the Abandoned Citadel~
+   You see a shadow cast from above cross the stairs to the north. Battle fear
+creeps slowly into your system, heightening your senses and quickening your
+pulse.
+~
+102 d 0
+D0
+~
+~
+0 0 10215
+D3
+~
+~
+0 0 10212
+S
+#10214
+In the Abandoned Citadel~
+   The stone walls of the Citadel are hot to the touch, obviously being baked
+from outside by the blistering sun. The stairs leads up to the east and down
+to the south. Something shakes the ceiling above you, bringing dust billowing
+down upon your head.
+~
+102 d 0
+R tattoo_rune.lua 32
+D1
+~
+~
+0 0 10215
+D2
+~
+~
+0 0 10212
+E
+design~
+0~
+It is of a dragon, rising forth from the flames and you recognise it as one of
+the ancient symbols.
+~
+E
+stone~
+0~
+On closer examination, one of them appears to have a runic design etched into
+it.
+~
+S
+#10215
+In the Abandoned Citadel~
+   A loud scuffling on the floor above you is suddenly quiet as you approach
+the base of the stairs. Only your party's measured breathing can be heard.
+~
+102 d 0
+D2
+~
+~
+0 0 10213
+D3
+~
+~
+0 0 10214
+D4
+~
+~
+0 0 10216
+S
+#10216
+On the Spiral Staircase~
+   The stairs spiral upwards to the roof of the Citadel. Sunlight glinting
+from below seems to fade into blackness as you concentrate on surviving the
+monster above you.
+~
+102 cd 0
+D4
+~
+~
+0 0 10220
+D5
+~
+~
+0 0 10215
+S
+#10217
+The Lair of the Dragon~
+   This corner of the room is obviously the Brass Dragon's sleeping quarters.
+The floor is littered with treasures mingled admist fleshless skeletons.
+~
+102 d 0
+D0
+~
+~
+0 0 10219
+D1
+~
+~
+0 0 10218
+S
+#10218
+The Dragon's Floor~
+   Solamnic runes cover the walls, denoting this as the floor belonging to the
+most powerful magic-users among the Knights. Scratch marks from dragon's
+talons mar the stone floor.
+~
+102 d 0
+D0
+~
+~
+0 0 10220
+D3
+~
+~
+0 0 10217
+S
+#10219
+The Dragon's Floor~
+   Solamnic runes cover the walls, denoting this as the floor belonging to the
+most powerful magic-users among the Knights. Scratch marks from dragon's
+talons mar the stone floor.
+~
+102 d 0
+D1
+~
+~
+0 0 10220
+D2
+~
+~
+0 0 10217
+S
+#10220
+The Dragon's Floor~
+   A huge Brass Dragon eyes you from across the room. He has evidently set up
+residence here in the absence of a suitable cave, and seems angered at your
+intrusion into his home.
+~
+102 d 0
+D2
+~
+~
+0 0 10218
+D3
+~
+~
+0 0 10219
+D5
+~
+~
+0 0 10216
+S
+#10221
+Temple of the Sun~
+   You stand upon a beautiful, open-roofed temple, seemingly untouched by the
+ages that have decimated the rest of the Citadel. The temple walls and floor
+tiles are interlaid with veins of polished bronze which catch and reflect the
+light, throwing off intense beams in all directions. A high altar stands at the
+very center of the raised platform.
+~
+102 d 1
+R sacrifice.lua 36
+D2
+~
+~
+0 0 10222
+E
+altar platform~
+0~
+The surface of the altar is covered in a bright mosaic of gemstones - red,
+yellow, and orange - radiating outward from the center in a pattern resembling
+a flaming star. At the very center, a shallow basin holds the ashen remains of
+some recent, still smouldering, sacrifice.
+~
+S
+#10222
+The Temple Steps~
+   A set of shallow, broken steps rises to a stone platform to the north. At
+the edge of each stone stair, the burned down remains of red candles line the
+path leading upward, evidence of this area's religious significance.
+~
+102 0 1
+D0
+~
+~
+0 0 10221
+D1
+~
+~
+0 0 10223
+D2
+~
+~
+0 0 10224
+S
+#10223
+A Great Plaza~
+   You stand at the edge of a large, open-air pavilion, paved with adobe tile,
+now cracked and chipped from years of use. The plaza stands empty, spreading
+before you to the south. A set of broad, stone steps rises to the west,
+leading to some type of low structure.
+~
+102 0 1
+D2
+~
+~
+0 0 10225
+D3
+~
+~
+0 0 10222
+S
+#10224
+A Great Plaza~
+   You stand at the edge of a large, open-air pavilion, paved with adobe tile,
+now cracked and chipped from years of use. The plaza stands empty, spreading
+before you to the south and east. A set of broad, stone steps rises to the
+north, leading to some type of low structure.
+~
+102 0 1
+D0
+~
+~
+0 0 10222
+D1
+~
+~
+0 0 10225
+D2
+~
+~
+0 0 10230
+S
+#10225
+The Center of the Plaza~
+   You have entered the center of the empty plaza, surrounded by the ruined
+remains of bygone days in this once busy city. Standing at the center of this
+place, you notice the adobe tiles have been arranged in an intricate swirling
+pattern. At the centermost point, overlapping bronze images of the sun and
+moon are inset into the cracked and broken tiles.
+~
+102 0 1
+D0
+~
+~
+0 0 10223
+D1
+~
+~
+0 0 10226
+D2
+~
+~
+0 0 10231
+D3
+~
+~
+0 0 10224
+S
+#10226
+A Great Plaza~
+   In its active days, this area must have served as a gathering place for the
+common folk who once lived within the walls of the Citadel. You imagine what
+it must have been like, bustling with life and conversation in its distant
+past. Now, however, you hear nothing but the muffled echoes of raging winds
+surrounding the Citadel's outer walls.
+~
+102 0 1
+D2
+~
+~
+0 0 10232
+D3
+~
+~
+0 0 10225
+S
+#10227
+A Once-Stately Home~
+   The upper floor of this once-magnificent home has collapsed, shattering the
+tile floors and leaving piles of rubble and plaster throughout this space.
+The faded remains of painted frescos adorn the standing walls; an indication
+of the obvious import of this home's tenant. An opening to the south leads
+to a long-dead garden.
+~
+102 d 0
+D2
+~
+~
+0 0 10234
+S
+#10228
+An Ancient Library~
+   You enter what once must have been a treasure trove of historical writings.
+The walls, once lined ceiling-to-floor with books, now stand bare, as their
+contents have collapsed into ruin. You pause a moment to peruse one of the
+crumbling texts... one with a knight's crest matching the symbol you saw on
+the twisted Citadel gates.
+~
+102 cds 0
+D2
+~
+~
+0 0 10235
+E
+texts~
+0~
+Your reading shows this place to be the ancient, lost Citadel, once used by
+the Knights of Solamnia as a meeting place for strategic planning against the
+forces of the dark pagan hordes. This history tells that evil magicians long
+ago beseiged this very Citadel with their magical arts. It appears as though
+they were victorious.
+~
+S
+#10229
+A Roadway through the Citadel~
+   You stand upon a narrow roadway beneath a series of high arches leading
+southward. This appears to have once been a more affluent section of the
+citadel. The walls and arches show the crumbling remains of unusual carvings;
+perhaps those of the citizen's gods. A large plaza opens to the east, while
+the roadway of arches leads southward.
+~
+102 0 10
+D1
+~
+~
+0 0 10230
+D2
+~
+~
+0 0 10236
+S
+#10230
+A Great Plaza~
+   You stand at the edge of a large, open-air pavilion, paved with adobe tile,
+now cracked and chipped from years of use. The plaza stands empty, spreading
+before you to the north and east. A roadway branches off the plaza to the west.
+~
+102 0 1
+D0
+~
+~
+0 0 10224
+D1
+~
+~
+0 0 10231
+D3
+~
+~
+0 0 10229
+S
+#10231
+A Great Plaza~
+   You stand at the edge of a large, open-air pavilion, paved with adobe tile,
+now cracked and chipped from years of use. The plaza stands empty, spreading
+you to the north, east, and west.
+~
+102 0 1
+D0
+~
+~
+0 0 10225
+D1
+~
+~
+0 0 10232
+D3
+~
+~
+0 0 10230
+S
+#10232
+A Narrow Passageway~
+   You stand at the confluence of two open-air plazas, bounded between a tall
+fortified tower to the southwest, and the Citadel wall to the northeast. The
+broken remains of a stone statue lie scattered across the tiled street beneath
+a massive, bronze pedestal. It is impossible to distinguish what the figure may
+have represented.
+~
+102 0 1
+D0
+~
+~
+0 0 10226
+D1
+~
+~
+0 0 10233
+D2
+~
+~
+0 0 10237
+D3
+~
+~
+0 0 10231
+S
+#10233
+A Small Plaza~
+   You stand at the edge of an open-air pavilion, paved with adobe tile, now
+cracked and chipped from years of use. The plaza stands empty, spreading before
+you to the west. To the south, a set of broad, stone steps descends into a low
+pit.
+~
+102 0 1
+D2
+~
+~
+0 0 10238
+D3
+~
+~
+0 0 10232
+S
+#10234
+Garden Ruins~
+   In this corner stand the stately remains of a large, spreading tree - its
+magnificent trunk and branches bleached white over the ages. Though it is long
+dead, the lovely, twisted grain of the wood displays a certain beauty of its
+own, adding a degree of comfort to this barren place. A grand-looking structure
+rises to the north, while the garden area continues to the south and east.
+~
+102 0 1
+D0
+A beautifully-carved archway leads into a large structure.
+~
+~
+0 0 10227
+D1
+~
+~
+0 0 10235
+D2
+~
+~
+0 0 10240
+S
+#10235
+Garden Ruins~
+   A toppled fountain dominates this space; the earth covered in great chunks
+of broken marble. You tread cautiously through the loose masses of rock and
+trailing weeds. The large building to the north looks structurally sound,
+considering its obvious age. The garden extends to the south and west, while
+an arch-covered roadway lies to the east.
+~
+102 0 1
+D0
+A beautifully-carved archway leads into a large structure.
+~
+~
+0 0 10228
+D1
+~
+~
+0 0 10236
+D2
+~
+~
+0 0 10241
+D3
+~
+~
+0 0 10234
+S
+#10236
+A Roadway through the Citadel~
+   You pass beneath a series of high, stone arches, supported by carved wooden
+columns. To the immediate east, the fortified walls of a tall tower rise high
+overhead. To the west, an open space - perhaps once a formal garden - lies in
+a state of abject ruin.
+~
+102 0 1
+D0
+~
+~
+0 0 10229
+D2
+~
+~
+0 0 10242
+D3
+~
+~
+0 0 10235
+S
+#10237
+A Small Plaza~
+   You stand at the corner of a small plaza within the Citadel, just north
+of the main roadway. The plaza itself butts up against the fortified outer
+wall - the cracked buttresses leaning slightly inward. The plaza has long
+stood empty, all signs of life banished from within.
+~
+102 0 10
+D0
+~
+~
+0 0 10232
+D1
+~
+~
+0 0 10238
+D2
+~
+~
+0 0 10243
+S
+#10238
+The Temple Steps~
+   A set of broad, broken steps descends into a small structure in the
+eastern corner of the stonework plaza. At the edge of each stone stair, the
+burnt remains of white candles line the path leading downward, evidence of this
+area's religious significance in its distant past.
+~
+102 0 1
+D0
+~
+~
+0 0 10233
+D1
+There appears to be some sort of small temple here.
+~
+door~
+1 0 10239
+D3
+~
+~
+0 0 10237
+S
+#10239
+Temple of the Moon~
+   As you step through the doorway, heavy stone doors slam closed behind you,
+trapping you inside! Gazing about the darkened room, you find not a single
+window, nor even a tiny crack allowing natural light into this place. Try as
+you might, you cannot force the steadfast doors apart.
+~
+102 acdf 0
+R citadel.lua 18
+S
+#10240
+Garden Ruins~
+   Here, a large basin has been set into the earth - at one time this may
+have been a lovely fish pond decorating the entryway to the magnificent hall
+to the immediate south. Like all else in this garden, the basin now lies dry
+and barren. The gardens extend to the north and east.
+~
+102 0 1
+D0
+~
+~
+0 0 10234
+D1
+~
+~
+0 0 10241
+D2
+A beautifully-carved archway leads into a large structure.
+~
+~
+0 0 10246
+S
+#10241
+Garden Ruins~
+   This garden must have been splendid in its day. You imagine this space
+filled with flowering trees and ornamental shrubs, their aroma permeating this
+space. At present, nothing remains but dry earth and meandering weeds. The
+garden extends to the north and west, while an arch-covered roadway lies just
+to the east.
+~
+102 0 1
+D0
+~
+~
+0 0 10235
+D1
+~
+~
+0 0 10242
+D3
+~
+~
+0 0 10240
+S
+#10242
+A Roadway through the Citadel~
+   You stand at the end of a narrow roadway beneath a series of high arches.
+The archway to the west opens into what must once have been a grand space
+within the citadel. To the east, a set of massive wooden doors leads into a
+tall, fortified tower.
+~
+102 0 1
+D0
+~
+~
+0 0 10236
+D1
+The Tower Doors
+~
+doors~
+1 0 10202
+D3
+~
+~
+0 0 10241
+S
+#10243
+A Roadway through the Citadel~
+   You are walking upon the main Citadel roadway; its cobbles worn nearly flat
+from years of use. To the immediate west, a tall, fortified tower rises high
+overhead. You would likely get quite a good view of your surroundings if you
+could make your way to the top.
+~
+102 0 1
+D0
+~
+~
+0 0 10237
+D2
+~
+~
+0 0 10251
+S
+#10244
+A Narrow Street~
+   Rats and other vermin crawl within the piles of rubble that surround the
+roadway. The roadside structures look very unstable, so you keep yourself to
+the center of the narrow track as you proceed. The roadway extends to the
+south from here, and ends abruptly to the east.
+~
+102 0 1
+D1
+~
+~
+0 0 10245
+D2
+~
+~
+0 0 10252
+S
+#10245
+The End of a Narrow Street~
+   Here, at the end of this narrow roadway, you come upon the remains of what
+appears to have served as an open-air foundry. The weapons and armor of the
+valiant knights of this Citadel were forged in this very place. Now, however,
+the fires lie cold, and the bellows silent. The street extends to the west,
+and a dirt pathway winds its way to the south.
+~
+102 0 1
+R moonsun_forge.lua 32
+D2
+~
+~
+0 0 10253
+D3
+~
+~
+0 0 10244
+S
+#10246
+A Great Hall~
+   You enter into a grand hall, its supporting columns still displaying the
+tarnished remains of wrought bronze decoration, and the walls covered in a
+wide array of chipped and peeling frescos. This hall was most likely used as
+as a formal center for the Citadel, intended for the entertainment of visiting
+dignitaries. The gardens lie to the north.
+~
+102 cdr 0
+D0
+~
+~
+0 0 10240
+D2
+A large mural depicting a hunting scene adorns this wall. It appears to have
+stood up well against the ravages of time.
+~
+mural fresco~
+1 0 10254
+S
+#10247
+A Large Storeroom~
+   All about this room lie the remnants of grainsacks and stores of salts used
+in food preservation. Long empty of anything edible, every crumb of food has
+been scavenged by the vermin that infest this place.
+~
+102 d 0
+D2
+~
+~
+0 0 10255
+S
+#10248
+The Peristyle~
+   You pass through the yard, taking note of the ancient artwork - colorful
+representations of humans and gods still visible in patches along the walls.
+The clay-coated, adobe floor now bare, echos your footfalls throughout this
+barren space. The yard extends to the south and east.
+~
+102 d 1
+D1
+~
+~
+0 0 10249
+D2
+~
+~
+0 0 10256
+S
+#10249
+The Peristyle~
+   You cross the north end of the yard, stepping carefully over sections of
+broken tile-work and fallen plaster from the surrounding walls - the artwork
+of ancient times crumbled on the ground. The yard extends to the south, east,
+and west.
+~
+102 d 1
+D1
+~
+~
+0 0 10250
+D2
+~
+~
+0 0 10257
+D3
+~
+~
+0 0 10248
+S
+#10250
+The Peristyle~
+   You pass through the yard, taking note of the ancient artwork - colorful
+representations of humans and gods still visible in patches along the walls.
+The clay-coated, adobe floor now bare, echos your footfalls throughout this
+barren space. The yard extends to the south and west.
+~
+102 d 1
+D2
+~
+~
+0 0 10258
+D3
+~
+~
+0 0 10249
+S
+#10251
+A Roadway through the Citadel~
+   You walk upon an ancient, cobbled roadway through the Citadel. A poor, dirt
+roadway branches off to the east at this point. The entrance deviod of any
+surviving decoration, you surmise that this must lead to a less-affluent area
+of the city. The Citadel roadway extends to the north and south.
+~
+102 0 1
+D0
+~
+~
+0 0 10243
+D1
+~
+~
+0 0 10252
+D2
+~
+~
+0 0 10259
+S
+#10252
+A Narrow Street~
+   This narrow roadway passes into a poorer section of the citadel - the
+industrial side of the city. The ruined remains of shops and humble dwellings
+line the roadway, poorly constructed, and crushed by the weight of years.
+This narrow roadway continues to the north, while the main Citadel roadway
+opens to the west.
+~
+102 0 10
+D0
+~
+~
+0 0 10244
+D3
+~
+~
+0 0 10251
+S
+#10253
+A Poor Dirt Pathway~
+   You walk slowly down this winding dirt pathway, finding no sign of life
+other than the nasty vermin that inhabit this area. Crumbled hovels line both
+sides of the pathway, with little space between. The pathway continues to
+the north and south.
+~
+102 0 1
+D0
+~
+~
+0 0 10245
+D2
+~
+~
+0 0 10261
+S
+#10254
+The Treasury~
+   All around, the treasures of the citadel glitter brightly in their cases of
+darkwood and crystal. The walls are filled with beautifully-made weapons,
+jewel-encrusted shields, suits of gilt armor, and at the very center of the
+display, the greatest heirloom of the lords of the citadel - the ancient
+crown of Solamnia! An opening in the north wall leads back into the great hall.
+~
+102 dhr 0
+D0
+In this direction lies the remains of a stately home.
+~
+mural~
+1 0 10246
+S
+#10255
+Between the Storehouses~
+   You stand in a narrow space between two large structures, positioned to the
+north and south. It appears that these served as storage rooms during the
+active days of the Citadel. The Peristyle lies to the east.
+~
+102 0 0
+D0
+~
+~
+0 0 10247
+D1
+~
+~
+0 0 10256
+D2
+~
+~
+0 0 10262
+S
+#10256
+The Peristyle~
+   You stand beneath a low section of the wood-beamed roof surrounding the
+peristyle. To the west, a low archway stands between two large structures.
+The collonade extends in all other directions.
+~
+102 d 1
+D0
+~
+~
+0 0 10248
+D1
+~
+~
+0 0 10257
+D2
+~
+~
+0 0 10263
+D3
+~
+~
+0 0 10255
+S
+#10257
+The Peristyle~
+   You stand at the center of the yard, surrounded by tall beams decorated
+with etched bronze rings. This openwork collonade must have served as a
+marketplace for citizens and travelers to the Citadel, many ages ago. The yard
+extends in all directions.
+~
+102 0 1
+D0
+~
+~
+0 0 10249
+D1
+~
+~
+0 0 10258
+D2
+~
+~
+0 0 10264
+D3
+~
+~
+0 0 10256
+S
+#10258
+The Peristyle~
+   You stand within the entrance to the peristylar yard, flanked on either side
+by weathered bronze statues - winged oxen with human heads. Walking between
+the two, you sense eyes piercing you from behind. The peristyle extends to the
+west, while the Citadel road lies to the east.
+~
+102 d 10
+D0
+~
+~
+0 0 10250
+D1
+~
+~
+0 0 10259
+D2
+~
+~
+0 0 10265
+D3
+~
+~
+0 0 10257
+S
+#10259
+A Roadway through the Citadel~
+   You have reached a junction on the Citadel roadway. To the west, a series
+of low steps lead upward to a bronze-trimmed gateway, apparently leading to
+a rather formal space within the city. To the east, a more humble structure
+stands. The Citadel roadway continues to the north and south.
+~
+102 0 1
+D0
+~
+~
+0 0 10251
+D1
+~
+~
+0 0 10260
+D2
+~
+~
+0 0 10266
+D3
+~
+~
+0 0 10258
+S
+#10260
+The Stables~
+   You stand within what must have served as stables for the knights of this
+once-lively Citadel. The remains of ancient tack and harness hang from pegs
+or lie heaped on the dirt floor - the silver tarnished; the leather cracked and
+peeling. The Citadel Roadway lies to the west, and a large wooden gate stands
+at the rear of the stables.
+~
+102 d 0
+D1
+~
+gate~
+1 0 10261
+D3
+~
+~
+0 0 10259
+S
+#10261
+A Poor Dirt Pathway~
+   You arrive at the southern end of a narrow path that winds down from the
+north, amid the twisted remains of modest homes. To the west, a large gate
+opens onto the city stable. Perhaps some of the residents here were responsible
+for the care of the Citadel stock. To the south, a small stone structure
+appears to have served as the local holding cell. The entrance is affixed with
+a small door formed from heavy iron bars.
+~
+102 0 1
+D0
+~
+~
+0 0 10253
+D2
+~
+cell~
+2 0 10268
+D3
+~
+gate~
+1 0 10260
+S
+#10262
+The Wine Stores~
+   Great winecasks, covered in ages of dust and decay once filled this space,
+stacked to the ceiling. Now, the upper casks have shifted into precarious
+position, due to the crushing of the casks at the lower levels. Perhaps you
+shouldn't stand here for long. They may yet be quite unstable.
+~
+102 d 0
+D0
+~
+~
+0 0 10255
+S
+#10263
+The Peristyle~
+   You pass through the yard, taking note of the ancient artwork - colorful
+representations of humans and gods still visible in patches along the walls.
+The clay-coated, adobe floor now bare, echos your footfalls throughout this
+barren space. The yard extends to the north and east, and a small alcove lies
+to the south.
+~
+102 d 1
+D0
+~
+~
+0 0 10256
+D1
+~
+~
+0 0 10264
+D2
+~
+~
+0 0 10269
+S
+#10264
+The Peristyle~
+   You stand at the southern boundary of the yard, flanked on either side by
+arched openings in the peristyle wall. The yard spreads out before you to the
+north, stark and empty.
+~
+102 d 1
+D0
+~
+~
+0 0 10257
+D1
+~
+~
+0 0 10265
+D3
+~
+~
+0 0 10263
+S
+#10265
+The Peristyle~
+   You pass through the yard, taking note of the ancient artwork - colorful
+representations of humans and gods still visible in patches along the walls.
+The clay-coated, adobe floor, now bare, echos your footfalls throughout this
+barren space. The yard extends to the north and west, and a narrow passageway
+opens to the south.
+~
+102 d 1
+D0
+~
+~
+0 0 10258
+D2
+~
+~
+0 0 10271
+D3
+~
+~
+0 0 10264
+S
+#10266
+Gateway to the Abandoned Citadel~
+   The massive gates before you, now crushed beyond all repair, bear a crest
+that stirs a vague memory in your mind. As your gaze drifts past them to the
+abandoned roadway, you are suddenly reminded of a tale from your childhood - of
+the great Citadel of Solamnia, vanquished and banished to the barren lands by
+the forces of the black coven. The Citadel roadway lies to the north, while
+in the distance to the south, the black winds roar.
+~
+102 0 1
+D0
+~
+~
+0 0 10259
+D1
+~
+~
+0 0 10267
+D2
+~
+~
+0 0 10201
+S
+#10267
+The Gateguard's House~
+   Just within the massive city gates, you come upon the standing remains of
+the Citadel guardhouse. From this small space, the officers on duty would have
+been responsible for ensuring that visitors to the citadel were admissible.
+The Citadel roadway lies to the west.
+~
+102 d 0
+D3
+~
+~
+0 0 10266
+S
+#10268
+A Small Holding Cell~
+   This cramped space offers little in the way of creature comforts - no bed
+or furnishings, and a floor of hard stone. The place is infested with rats and
+other vermin which crawl over the bones scattered about the floor. The only
+exit is to the north.
+~
+102 d 0
+D0
+~
+cell~
+2 0 10261
+S
+#10269
+An Alcove off the Peristyle~
+   Within this small chamber, you find only a small opening in the floor,
+affixed with a wooden ladder. Gazing down into the blackness, you wonder if
+the structure is solid enough to hold your weight. A collapse in a shaft this
+size could easily prove fatal. The peristyle yard lies through the doorway
+to the north.
+~
+102 d 0
+D0
+~
+~
+0 0 10263
+D5
+The ladder descends into the darkness.
+~
+~
+0 0 10285
+S
+#10270
+An Arched Hallway~
+   The hallway bends here to the east and south, following a twisted path. The
+eastern wall is lined with racks of rusted weapons and armor. This place was
+apparently used by the military forces of the Citadel in their struggle against
+the forces of darkness.
+~
+102 d 0
+D1
+~
+~
+0 0 10271
+D2
+~
+~
+0 0 10272
+S
+#10271
+The Eastern Portico~
+   The portals in the eastern wall allow a view of the broken citadel gates,
+below. Guardians of the city must have kept watch on the comings and goings
+of residents and travellers from this very spot, watching for emissaries of
+the Dark Coven. The peristyle lies through the doorway to the north, while an
+arched passageway leads off to the west.
+~
+102 d 0
+D0
+~
+~
+0 0 10265
+D3
+~
+~
+0 0 10270
+S
+#10272
+An Arched Hallway~
+   The hallway bends here to the north and east, following a twisted path. The
+eastern wall is lined with racks of rusted weapons and armor, used by the
+guardians of the Citadel. You see no evidence of what has become of those
+brave knights. The place appears to be utterly deserted.
+~
+102 d 0
+D0
+~
+~
+0 0 10270
+D1
+~
+~
+0 0 10273
+S
+#10273
+The Guard's Commandpost~
+   You enter what was once the stronghold of the Citadel's Captain. The walls
+here are covered in the torn remains of maps, and the table is littered with
+the decaying remains of old parchments - perhaps the treaties of bygone days.
+An arched passageway opens to the west, and a small key-way opens to the south.
+~
+102 d 0
+D2
+~
+~
+0 0 10274
+D3
+~
+~
+0 0 10272
+E
+maps~
+0~
+The maps appear to outline the location of the Citadel in very different
+surroundings than the terrain you witnessed from outside. You ponder this for
+a time, suddenly recalling that, according to legend, the Citadel was magically
+transported to the barren lands once its brave knights were overcome by the
+forces of darkness.
+~
+S
+#10274
+A Grand Portico~
+   Were it not for the raging black cloud outside, this place would command
+a view to the south, east, and west; all directions before the citadel
+entrance. This was obviously a defensive measure against the allies of the
+Dark One which overtook the citadel in ancient days. The only exit lies
+through a key-way to the north.
+~
+102 d 0
+D0
+~
+~
+0 0 10273
+S
+#10275
+A Burial Chamber~
+   A great, flat stone covers the burial chamber in this small room, and the
+walls are lined with small earthly treasures to accompany the deceased on
+his long journey into the realms of the dead. The only exit lies to the south.
+~
+102 ad 0
+D2
+~
+~
+0 0 10279
+S
+#10276
+An Empty Crypt~
+   This narrow space is completely devoid of anything greater than moss
+and cobwebs. The walls and floor tiles are slick to the touch, and the open&w
+hole&n in the stone floor awaits its eternal occupant. The only exit lies to
+the south.
+~
+102 ad 0
+D2
+~
+~
+0 0 10280
+E
+hole~
+0~
+Glowing, cat-like eyes peer at you from the darkness of the crypt.
+~
+S
+#10277
+A Burial Chamber~
+   A great, flat stone covers the burial chamber in this small room, and the
+walls are lined with small earthly treasures to accompany the deceased on
+his long journey into the realms of the dead. The only exit lies to the south.
+~
+102 ad 0
+D2
+~
+~
+0 0 10281
+S
+#10278
+A Burial Chamber~
+   A great, flat stone covers the burial chamber in this small room, and the
+walls are lined with small earthly treasures to accompany the deceased on
+his long journey into the realms of the dead. The only exit lies to the east.
+~
+102 ad 0
+D1
+~
+~
+0 0 10279
+S
+#10279
+A Dark Hallway in the Crypt~
+   This stone passage is just high enough for you to stand nearly-erect, as
+you make you way along its walls. The stone tiles on the floor are soft, as
+if layered in moss, and are quite slick beneath your feet. The passageway
+extends to the south and east, and several smaller openings have been cut into
+northern and western walls.
+~
+102 ad 0
+D0
+~
+~
+0 0 10275
+D1
+~
+~
+0 0 10280
+D2
+~
+~
+0 0 10284
+D3
+~
+~
+0 0 10278
+S
+#10280
+A Dark Hallway in the Crypt~
+   This stone passage is just high enough for you to stand nearly-erect, as
+you make you way along its walls. The stone tiles on the floor are soft, as
+if layered in moss, and are quite slick beneath your feet. The passageway
+extends to the east and west, and small openings have been cut into the
+stone of the northern wall.
+~
+102 ad 0
+D0
+~
+~
+0 0 10276
+D1
+~
+~
+0 0 10281
+D3
+~
+~
+0 0 10279
+S
+#10281
+A Dark Hallway in the Crypt~
+   This stone passage is just high enough for you to stand nearly-erect, as
+you make you way along its walls. The stone tiles on the floor are soft, as
+if layered in moss, and are quite slick beneath your feet. The passageway
+extends to the south and west, and several smaller openings have been cut into
+northern and eastern walls.
+~
+102 ad 0
+D0
+~
+~
+0 0 10277
+D1
+~
+~
+0 0 10282
+D2
+~
+~
+0 0 10286
+D3
+~
+~
+0 0 10280
+S
+#10282
+An Empty Crypt~
+   This narrow space is completely devoid of anything greater than moss
+and cobwebs. The walls and floor are slick to the touch, and the open hole
+in the stone floor awaits its eternal occupant. The only exit lies to the
+west.
+~
+102 ad 0
+D3
+~
+~
+0 0 10281
+S
+#10283
+A Burial Chamber~
+   A great, flat stone covers the burial chamber in this small room, and the
+walls are lined with small earthly treasures to accompany the deceased on
+his long journey into the realms of the dead. The only exit lies to the east.
+~
+102 ad 0
+D1
+~
+~
+0 0 10284
+S
+#10284
+A Dark Hallway in the Crypt~
+   This stone passage is just high enough for you to stand nearly-erect, as
+you make you way along its walls. The stone tiles on the floor are soft, as
+if layered in moss, and are quite slick beneath your feet. The passageway
+extends to the north and south, and small openings have been cut into the
+stone of the western wall.
+~
+102 ad 0
+D0
+~
+~
+0 0 10279
+D2
+~
+~
+0 0 10291
+D3
+~
+~
+0 0 10283
+S
+#10285
+Entrance to the Crypt~
+   A chill in the damp air isn't the only thing sending a shiver down your
+spine. From the darkness to the south emanates the odor of long-decayed burial
+herbs mingled with the smell of death. A low, arched passage extends into the
+darkness south of here, while a narrow ladder leads upward into the abandoned
+Citadel.
+~
+102 acd 0
+D2
+~
+~
+0 0 10292
+D4
+~
+~
+0 0 10269
+S
+#10286
+A Dark Hallway in the Crypt~
+   This stone passage is just high enough for you to stand nearly-erect, as
+you make you way along its walls. The stone tiles on the floor are soft, as
+if layered in moss, and are quite slick beneath your feet. The passageway
+extends to the north and south, and small openings have been cut into the
+stone of the eastern wall.
+~
+102 ad 0
+D0
+~
+~
+0 0 10281
+D1
+~
+~
+0 0 10287
+D2
+~
+~
+0 0 10293
+S
+#10287
+A Burial Chamber~
+   Within this chamber, you see that the stone cover has broken into several
+irregular slabs, now collapsed into the grave itself. Beyond the stone, a dark
+grave marker against the far wall is intact, but appears to be listing to
+one side. It's as if the floor has shifted somewhat in this particular area.
+The remainder of the crypt lies through the small archway to the west.
+~
+102 acd 0
+D1
+~
+tombstone marker~
+1 10216 10288
+D3
+~
+~
+0 0 10286
+E
+marker tombstone~
+0~
+On the floor before the tombstone, you note rough arcs gouged into the flat
+stones, as if the tombstone itself had been recently moved across the surface.
+~
+S
+#10288
+The Black Coven~
+   Standing within this dark space, the strong smell of incense makes you
+reel. You feel as though your body is raised over the stone floor, and swept -
+no, drawn - to the opposite corner of the room. Could this be real, or is it
+merely your imagination!?!
+~
+102 adx 0
+D1
+~
+~
+0 0 10289
+D2
+~
+~
+0 0 10295
+D3
+~
+tombstone marker~
+1 10216 10287
+S
+#10289
+The Black Coven~
+   You feel as though you are flying, the motion becoming stronger as your
+body is pulled into the darkness. To the south, a faint glimmer - as of a
+metallic reflection - flickers across your sight. In your confusion, you
+have lost your sense of direction. Which is the way back out?
+~
+102 adw 0
+D2
+You are drawn into the darkness.
+~
+~
+0 0 10296
+D3
+~
+~
+0 0 10288
+S
+#10290
+A Burial Chamber~
+   A great, flat stone covers the burial chamber in this small room, and the
+walls are lined with small earthly treasures to accompany the deceased on
+his long journey into the realms of the dead. The only exit lies to the east.
+~
+102 ad 0
+D1
+~
+~
+0 0 10291
+S
+#10291
+A Dark Hallway in the Crypt~
+   This stone passage is just high enough for you to stand nearly-erect, as
+you make you way along its walls. The stone tiles on the floor are soft, as
+if layered in moss, and are quite slick beneath your feet. The passageway
+extends to the north and east, and several smaller openings have been cut into
+southern and western walls.
+~
+102 ad 0
+D0
+~
+~
+0 0 10284
+D1
+~
+~
+0 0 10292
+D2
+~
+~
+0 0 10297
+D3
+~
+~
+0 0 10290
+S
+#10292
+A Dark Hallway in the Crypt~
+   This stone passage is just high enough for you to stand nearly-erect as
+you make your way along its walls. The stone tiles on the floor are soft, as
+if layered in moss, and are quite slick beneath your feet. The passageway
+extends to the east and west, while a lot light filters in from the opening
+to the north. On the south side of the hallway, several smaller openings have
+been cut into the wall.
+~
+102 ad 0
+D0
+~
+~
+0 0 10285
+D1
+~
+~
+0 0 10293
+D2
+~
+~
+0 0 10298
+D3
+~
+~
+0 0 10291
+S
+#10293
+A Dark Hallway in the Crypt~
+   This stone passage is just high enough for you to stand nearly-erect, as
+you make you way along its walls. The stone tiles on the floor are soft, as
+if layered in moss, and are quite slick beneath your feet. The passageway
+extends to the north and west, and several smaller openings have been cut into
+southern and eastern walls.
+~
+102 ad 0
+D0
+~
+~
+0 0 10286
+D1
+~
+~
+0 0 10294
+D2
+~
+~
+0 0 10299
+D3
+~
+~
+0 0 10292
+S
+#10294
+A Burial Chamber~
+   A great, flat stone covers the burial chamber in this small room, and the
+walls are lined with small earthly treasures to accompany the deceased on
+his long journey into the realms of the dead. The only exit lies to the west.
+~
+102 ad 0
+D3
+~
+~
+0 0 10293
+S
+#10295
+The Black Coven~
+   You mind swims and your vision wavers as you are drawn deeper into the
+darkness here. You're not certain, but it looks as though large shadows are
+deepening to the east - perhaps taking on solid form. You have no idea which
+is the correct way out.
+~
+102 adx 0
+D0
+~
+~
+0 0 10288
+D1
+You are drawn into the darkness.
+~
+~
+0 0 10296
+S
+#10296
+The Temple of the Black Coven~
+   The smoke of burning incense wafts through this place, choking you and
+clouding your thoughts. In the darkness, large shapes hover before you,
+rising overhead into deepening shadows. In your confusion and terror, you
+reach blindly for the walls, searching in vain for the exit.
+~
+102 ad 0
+D0
+~
+~
+0 0 10289
+D3
+~
+~
+0 0 10295
+S
+#10297
+An Empty Crypt~
+   This narrow space is completely devoid of anything greater than moss
+and cobwebs. The walls and floor are slick to the touch, and the open hole
+in the stone floor awaits its eternal occupant. The only exit lies to the
+north.
+~
+102 ad 0
+D0
+~
+~
+0 0 10291
+S
+#10298
+A Burial Chamber~
+   A great, flat stone covers the burial chamber in this small room, and the
+walls are lined with small earthly treasures to accompany the deceased on
+his long journey into the realms of the dead. The only exit lies to the north.
+~
+102 ad 0
+D0
+~
+~
+0 0 10292
+S
+#10299
+A Burial Chamber~
+   A great, flat stone covers the burial chamber in this small room, and the
+walls are lined with small earthly treasures to accompany the deceased on
+his long journey into the realms of the dead. The only exit lies to the north.
+~
+102 ad 0
+D0
+~
+~
+0 0 10293
+S
+#10300
+The Barrows~
+   You stand ankle-deep in a conical trench of loose sand. The edges of the
+ditch are at about eye level, and you could scale them, even though it would
+be difficult. Below you opens an enormous hole, into which you can easily
+descend, but it's quite dark, and may require a light source. Judging from the
+size of the hole, a creature of considerable size must dwell within.
+~
+102 c 4
+D0
+~
+~
+0 0 6305
+D1
+~
+~
+0 0 6309
+D2
+~
+~
+0 0 6312
+D3
+~
+~
+0 0 6307
+D5
+~
+~
+0 0 10301
+S
+#10301
+In a Strange Cave~
+   You stand in a cave, seemingly carved from solid rock. Loose desert sand
+sifts down through the opening above your head. To the south, a dark hole opens
+into a gigantic cavern. Tracks beneath your feet can only be those of a dragon!
+~
+102 d 0
+D2
+~
+~
+0 0 10302
+D4
+~
+~
+0 0 10300
+S
+#10302
+In the Dragon's Lair~
+   Bones and bits of armor litter the floor here, and the rock walls are
+scarred from the centuries of abrasion against the dragon's diamond-hard
+scales. The only exit is to the north.
+~
+102 cd 0
+D0
+~
+~
+0 0 10301
+S
+#10303
+A Hole in the Blasted Desert~
+   Judging from the size of the hole below you, a creature of considerable
+size must dwell beneath your very feet.
+~
+102 c 10
+D0
+~
+~
+0 0 6064
+D1
+~
+~
+0 0 6074
+D2
+~
+~
+0 0 6081
+D3
+~
+~
+0 0 6072
+D5
+A great, deep pit opens in the earth before you - its depths lost in darkness.
+~
+~
+0 0 10309
+S
+#10305
+The Lair of the Blue Dragon~
+   The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+102 ad 0
+D1
+~
+~
+0 0 10306
+D2
+~
+~
+0 0 10308
+S
+#10306
+The Lair of the Blue Dragon~
+   The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+102 ad 0
+D1
+~
+~
+0 0 10307
+D2
+~
+~
+0 0 10309
+D3
+~
+~
+0 0 10305
+S
+#10307
+The Lair of the Blue Dragon~
+   The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+102 ad 0
+D2
+~
+~
+0 0 10310
+D3
+~
+~
+0 0 10306
+S
+#10308
+The Lair of the Blue Dragon~
+   The black rock walls reflect no light, and the sand floor absorbs all
+sound. The Blue Dragon seems to come at you from all directions.
+~
+102 ad 0
+D0
+~
+~
+0 0 10305
+D1
+~
+~
+0 0 10309
+D2
+~
+~
+0 0 10311
+S
+#10309
+The Lair of the Blue Dragon~
+   A rustle in the dark makes you curse your eyes, struggling to adjust to the
+darkness. Light filters in from the gaping hole high above, but doesnt
+illuminate anything but your companions.
+~
+102 a 4
+D0
+~
+~
+0 0 10306
+D1
+~
+~
+0 0 10310
+D2
+~
+~
+0 0 10312
+D3
+~
+~
+0 0 10308
+D4
+~
+~
+0 0 10303
+S
+#10310
+The Lair of the Blue Dragon~
+   The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+102 ad 0
+D0
+~
+~
+0 0 10307
+D2
+~
+~
+0 0 10313
+D3
+~
+~
+0 0 10309
+S
+#10311
+The Lair of the Blue Dragon~
+   The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+102 ad 0
+D0
+~
+~
+0 0 10308
+D1
+~
+~
+0 0 10312
+S
+#10312
+The Lair of the Blue Dragon~
+   The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+102 ad 0
+D0
+~
+~
+0 0 10309
+D1
+~
+~
+0 0 10313
+D2
+~
+secret door~
+1 0 10314
+D3
+~
+~
+0 0 10311
+S
+#10313
+The Lair of the Blue Dragon~
+   The black rock walls reflect no light, and the sand floor absorbs all sound.
+The Blue Dragon seems to come at you from all directions.
+~
+102 ad 0
+D0
+~
+~
+0 0 10310
+D3
+~
+~
+0 0 10312
+S
+#10314
+The Dragon's Horde~
+   This must have been the dragon's treasure room.. sapphires and gold lie all
+around.
+~
+102 acd 0
+D0
+~
+secret door~
+1 0 10312
+S
+#10315
+Black Winds~
+   Black dunes rise from the desert landscape around you. No signs of life
+are to be seen, and you wonder what made you come here. A huge cave opens
+under a sand-covered shelf of rock to the south.
+~
+102 0 10
+D0
+~
+~
+0 0 6265
+D1
+~
+~
+0 0 6280
+D2
+~
+~
+0 0 10316
+D3
+~
+~
+0 0 6279
+S
+#10316
+Outside the Abandoned Lair~
+   A deep pit opens into the earth to the east. Within is total darkness.
+~
+102 0 10
+D0
+~
+~
+0 0 10315
+D1
+~
+~
+0 0 10317
+S
+#10317
+The Lair of the Dracolich~
+   All is dark here...
+~
+102 acd 0
+D3
+~
+~
+0 0 10316
+S
+#10318
+The Black Sand Desert~
+   To the southeast, an oasis springs from the desert floor to the west. Your
+mouth almost begins to salivate at the thought of fresh water. The desert sands
+extend to the northwest.
+~
+102 0 10
+D0
+~
+~
+0 0 5918
+D1
+~
+~
+0 0 10319
+D2
+~
+~
+0 0 10321
+D3
+~
+~
+0 0 5928
+S
+#10319
+The Black Sand Desert~
+   Leafy palms wave in the hot breeze, and dense shrubbery forms a tight
+ring around a small pool of water to the south. The black desert extends
+in all other directions.
+~
+102 0 10
+D0
+~
+~
+0 0 5919
+D1
+~
+~
+0 0 10320
+D2
+~
+~
+0 0 10322
+D3
+~
+~
+0 0 10318
+S
+#10320
+The Black Sand Desert~
+   To the southwest, a small ring of green growth marks a desert oasis.
+Blistering heat trapped in the desert sands, as well as from the hot air,
+make stopping by the oasis a necessity.
+~
+102 0 10
+D0
+~
+~
+0 0 5920
+D1
+~
+~
+0 0 5932
+D2
+~
+~
+0 0 10323
+D3
+~
+~
+0 0 10319
+S
+#10321
+The Black Sand Desert~
+   The desert oasis to the east is a welcome sight after so many days in the
+heat. Hopefully, the water there is drinkable. The black desert sands
+extend in all other directions.
+~
+102 0 10
+D0
+~
+~
+0 0 10318
+D1
+~
+~
+0 0 10322
+D2
+~
+~
+0 0 10324
+D3
+~
+~
+0 0 5939
+S
+#10322
+A Desert Oasis~
+   A well of water springs forth from deep within the desert. A few ragged
+palms and shrubs huddle near the life-giving pool, but the harsh sun keeps
+anything from flourishing beyond a tight ring of green growth. Tracks of many
+unidentifiable animals can be seen near the edge of the water.
+~
+102 0 10
+D0
+~
+~
+0 0 10319
+D1
+~
+~
+0 0 10323
+D2
+~
+~
+0 0 10325
+D3
+~
+~
+0 0 10321
+S
+#10323
+The Black Sand Desert~
+   You see nothing but gently rolling sand dunes, stretching out for miles in
+all directions, except to the west, where the tips of some leafy, green plants
+peek out over the tops of the dunes.
+~
+102 0 10
+D0
+~
+~
+0 0 10320
+D1
+~
+~
+0 0 5943
+D2
+~
+~
+0 0 10326
+D3
+~
+~
+0 0 10322
+S
+#10324
+The Black Sand Desert~
+   You blink your eyes, hoping that the trees to the northeast are not just
+another mirage. What is certainly not a mirage is the gaping sandhole to the
+west that seems to devour the desert as it meanders throughout the sea of silt.
+~
+102 0 10
+D0
+~
+~
+0 0 10321
+D1
+~
+~
+0 0 10325
+D2
+~
+~
+0 0 5961
+D3
+~
+~
+0 0 5950
+S
+#10325
+The Black Sand Desert~
+   You catch a glint of water between the palms that form a small oasis to the
+north. Finally you can dip into some refreshing water after such a long time
+in the desert.
+~
+102 0 10
+D0
+~
+~
+0 0 10322
+D1
+~
+~
+0 0 10326
+D2
+~
+~
+0 0 5962
+D3
+~
+~
+0 0 10324
+S
+#10326
+The Black Sand Desert~
+   To the northwest, you can see green foliage - there must be water! In all
+other directions, however, sun-blistered sands blanket the hot terrain, making
+the oasis seem that much more inviting.
+~
+102 0 10
+D0
+~
+~
+0 0 10323
+D1
+~
+~
+0 0 5954
+D2
+~
+~
+0 0 5963
+D3
+~
+~
+0 0 10325
+S
+$~

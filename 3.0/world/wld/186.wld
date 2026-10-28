@@ -1,0 +1,999 @@
+#18600
+Map Room for the Cold Village~
+   You see a map on a wall. To the north is the entrance to the largest
+building. To the west is the entrance to the next largest; the south is
+the next largest after that and the east is the smallest.
+~
+186 cdgj 0
+D5
+~
+~
+0 0 18601
+E
+map~
+0~
+
+                           ^^  ^^  ^^  ^^ ^^    #  Doors
+                           ^^  23  24  25 ^^ ^^ Mountains (impassable and
+   ^^  ^^  ^^  ^^  ^^  ^^  ^^      __     ^^       they are not rooms).
+   ^^  16  17  18  19  20  21  22 |46| 26 ^^nn Numbers that correspond to
+   ^^      ______      ______     |  |    ^^      their place in zone 186.
+^^ 13  15 |08  07| 39 |52  51| 44+#45| 27 ^^       01 is room 18601.
+^^        |      |    |      | +  `--'    ^^ '|' Walls of buildings.
+^^ 12  14 |06  05| 38 |49  50| 43  47  28 ^^  +  A trail in the village.
+^^        |      |    `##----' +   __     ^^
+^^ 11  10 |03  04| 37  40++41++42+#48| 29 ^^
+^^        `##----'     +          `--'    ^^
+^^ ^^  09  02++36++35++34  33  32  31  30 ^^
+   ^^      +                              ^^
+   ^^  ^^  01  ^^  ^^  ^^  ^^  ^^  ^^  ^^ ^^
+
+~
+E
+1~
+0~
+                               ^^  ^^  ^^  ^^ ^^
+                               ^^  23  24  25 ^^
+ ^^  ^^  ^^  ^^  ^^  ^^  ^^  ^^      __     ^^                               ^^  23  24  25 ^^
+~
+S
+#18601
+A Short Pass~
+   You stand on a trail which winds confusingly through a short pass into the
+mountains. To the north, you see what looks like an abandoned village in a
+small valley. To the south, a forest opens up before you. A low moan seems to
+come from the village catches your attention and curiousity. A tree to the side
+of the path here is inscribed with some kind of crude warning.
+~
+186 c 2
+D0
+~
+~
+0 0 18602
+D2
+~
+~
+0 0 9391
+E
+carving warning inscription letters sign tree~
+0~
+
+    "Beware wanderer!
+     A worse fate than death
+     ravages this cold and barren village."
+
+~
+S
+#18602
+A Cold Village~
+   You stand at the entrance to a small farming village. The air is still 
+and quite frigid. Several old burnt out buildings lie throughout the 
+village and look as though they haven't been occupied in a very long time.
+The ground shows no life of any form and has an odd purple color to it. You 
+see no one about but you hear strange growling and moaning noises.
+   There is a large building to the north and smaller buildings to the east.
+There also is a wide open plain to the northwest and a trail taking you out 
+of the village to the south.
+~
+186 0 2
+D0
+~
+door~
+1 18610 18603
+D1
+~
+~
+0 -1 18636
+D2
+~
+~
+0 0 18601
+D3
+~
+~
+0 -1 18609
+S
+#18603
+Inside an Old House~
+   Darkness surrounds you as you stand inside an old burned-out building. It 
+seems to be an old house but now resembles a morgue. On the ground lie many 
+dismembered body parts and charred corpses. The floor and walls are covered
+with stained dried blood. Remains of old furniture throughout the house
+display similar horrors.
+   The exit back outside is to the south.
+~
+186 ad 0
+D0
+~
+~
+0 -1 18606
+D1
+~
+~
+0 -1 18604
+D2
+~
+door~
+1 18610 18602
+S
+#18604
+An Old House~
+   Avoiding the gore that litters the floor, you make your way through the 
+darkness. Like the other rooms, a layer of dried blood covers the floors and 
+walls. More corpses along with unidentifiable organs and bones are scattered 
+about the floor.
+   Other rooms of the building lie to the north and west.
+~
+186 ad 0
+D0
+~
+~
+0 -1 18605
+D3
+~
+~
+0 -1 18603
+S
+#18605
+An Old House~
+   A circular table is positioned in the center of this fairly large room.
+Upon the table lies a small pile of mangled corpses which have had their 
+entrails removed from their body and strewn across the room. The corpses 
+seem as though they aren't very old as they have not rotted very much. Large
+puddles of blood have formed where it has run off the table and onto the
+floor.
+   Other rooms lie to the south and west.
+~
+186 adu 0
+D2
+~
+~
+0 -1 18604
+D3
+~
+~
+0 -1 18606
+S
+#18606
+An Old House~
+   The charred remains of a corpse and much more gore litter the area. The
+walls and old wooden floor are lined with blood. Inanimate limbs look
+as though they were ripped from their former bearers' torsos and torn apart
+by something that is capable of doing something of such horror.
+   More of the house lies to the east and south.
+~
+186 adu 0
+D1
+~
+~
+0 -1 18605
+D2
+~
+~
+0 -1 18603
+S
+#18609
+A Large Field~
+   You are at the beginning of a large field that extends well to the north. 
+The entire field is barren and nothing at all grows in it. Scattered about the
+field are bones and other carrion.
+   A long trail starts to the east and an old shack remains intact to the west.
+Your passage south is prevented by the edge of a mountain range. More of the
+field lies to the north.
+~
+186 0 2
+D0
+~
+~
+0 -1 18610
+D1
+~
+~
+0 -1 18602
+D3
+~
+~
+0 0 18659
+S
+#18610
+A Large Field~
+   You are standing in the center of a large, unused field. The air is much
+more frigid out in the open and the ground is completely frozen even though the
+lack of moisture.
+   The field continues north, west, and south and an old building stands to the
+east.
+~
+186 0 2
+D0
+~
+~
+0 -1 18614
+D2
+~
+~
+0 -1 18609
+D3
+~
+~
+0 -1 18611
+S
+#18611
+A Large Field~
+   Most of this area is bounded by the familiar mountain range that surrounds
+this village. Like the rest of the field, there are no signs of anything 
+living. The ground retains an odd purple coloring and is completely frozen.
+   Your way south and west is hindered by the edge of the mountain range. The
+field spans off to the north and east.
+~
+186 0 2
+D0
+~
+~
+0 -1 18612
+D1
+~
+~
+0 -1 18610
+S
+#18612
+A Large Field~
+   The field extends to the edge of the valley and comes to a stop at the foot 
+of the mountain range here. There is nothing but random signs of death here. 
+Several bones stick out of the dirt and small spots of dried blood are 
+situated about the area.
+   To the west, the edge of the mountains hamper your advancement. The field
+fans out to the north, south, and east.
+~
+186 0 2
+D0
+~
+~
+0 -1 18613
+D1
+~
+~
+0 -1 18614
+D2
+~
+~
+0 -1 18611
+S
+#18613
+A Large Field~
+   This part of the field is greatly confined by the mountains that surround 
+this small valley. Nothing grows here and the only sign that this was ever a 
+field is that the soil has been prepared for planting but nothing was ever
+planted.
+   The field spreads out to the east and south.
+~
+186 0 2
+D1
+~
+~
+0 -1 18615
+D2
+~
+~
+0 -1 18612
+S
+#18614
+A Large Field~
+   More of the same as you make your way through a large field. A corpse lies
+leaning up against the outside wall of an old building. The corpse, which
+exhibits factors that shows that it is not fairly old, resembles a human but it
+has been torn apart and its entrails spread about the area.
+   The field stretches to the west, south, and north. An old building remains
+standing to the east.
+~
+186 0 2
+D0
+~
+~
+0 0 18615
+D2
+~
+~
+0 -1 18610
+D3
+~
+~
+0 -1 18612
+S
+#18615
+A Large Field~
+   You stand in the middle of a large open field. The ground is full of old
+bones and other remains throughout the entire area. The field extends up to an
+old building that sits to the east. A small path runs into the field to the
+north. The field itself extends to the south and west where it soon becomes
+bounded by mountains.
+~
+186 0 2
+D0
+~
+~
+0 -1 18616
+D2
+~
+~
+0 0 18614
+D3
+~
+~
+0 -1 18613
+S
+#18616
+A Path~
+   The small path runs into an open field to the south and also extends to the
+east where it runs between the foot of the mountains and the back of an old 
+building. The immediate area is completely bare and there is nothing here but 
+the gelid air.
+~
+186 0 2
+D1
+~
+~
+0 -1 18617
+D2
+~
+~
+0 -1 18615
+S
+#18617
+A Path~
+   You continue on this short and narrow path. To the south, the back of an old
+building sits ominously. Your passage north is prevented by the foot of the
+Sulfur Fur Mountains and it would be impossible to attempt to go any further 
+than you already are in that direction. The solitairy path runs to both the
+east and west.
+~
+186 0 2
+D1
+~
+~
+0 -1 18618
+D3
+~
+~
+0 -1 18616
+S
+#18618
+A Path~
+   You stand on a small path that runs between an old house to the south and
+the edge of the mountains to the north. The path itself is just bare dirt that
+has been worn by many years of use. There are no signs of life upon the frozen
+ground.
+   A small unused field is to the east and the path continues to the west where
+it soon comes to an end.
+~
+186 u 2
+D1
+~
+~
+0 -1 18619
+D3
+~
+~
+0 -1 18617
+S
+#18619
+A Small Field~
+   Many dead plants lie in this small field. Once used for farming, it now
+exhibits no sign of life. The field runs up to the foot of the mountains
+which make your passage to the north impassable.
+   A small narrow alley runs between two buildings to the south, a small path
+is to the west, and more fields lie to the east.
+~
+186 u 2
+D1
+~
+~
+0 -1 18620
+D2
+~
+~
+0 -1 18639
+D3
+~
+~
+0 -1 18618
+S
+#18620
+A Small Field~
+   You stand in the center of a small field. The air is colder here than it
+is in other parts of the village. The field extends to both the east and west
+The charred wall of a burned building stands to the south. The edge of the
+Sulfur Fur Mountains bar your passage north.
+~
+186 u 2
+D1
+~
+~
+0 -1 18621
+D3
+~
+~
+0 -1 18619
+S
+#18621
+A Small Field~
+   A small field backs up to an old charred building here. Some ash covers the
+ground where the wall of the building has burnt completely through. There are
+no signs of any life as any plants that once grew here would be long dead like
+everything else in this village.
+   The field spans out to the east and west. The foot of the Sulfur Fur
+Mountains bar your way north.
+~
+186 0 2
+D1
+~
+~
+0 -1 18622
+D3
+~
+~
+0 -1 18620
+S
+#18622
+A Small Field~
+   The ground about the immediate area is littered with bones and remains of 
+animals and humans. Coagulated blood covers most of the ground and some is 
+still fairly new.
+   A trail begins to the south. To the north and east, a large mountain range
+hinder your passage. The field continues to the west.
+~
+186 0 2
+D2
+~
+~
+0 -1 18644
+D3
+~
+~
+0 -1 18621
+S
+#18623
+A Field Bounded by Mountains~
+   Mountains block your movement to the north and west. A small building lies
+directly to the southeast of you. You can see another to the southwest.
+~
+186 0 2
+D1
+~
+~
+0 -1 0
+D2
+~
+~
+0 -1 18622
+S
+#18626
+Behind a Small Building~
+   You stand behind a small building that lies to your west. A smaller
+building can be seen a short distance to the southwest. The frigid air makes
+you wish you could go inside one of them right now.
+~
+186 0 2
+D0
+~
+~
+0 -1 0
+D2
+~
+~
+0 -1 18627
+S
+#18627
+Behind a Building~
+   You stand behind a building that lies to your west. The air chills you to
+your spine. Possibly you can warm up in one of those buildings?
+~
+186 0 2
+D0
+~
+~
+0 -1 18626
+D2
+~
+~
+0 -1 18628
+S
+#18628
+A Field of Short Grass~
+   This is a field of sparse, short grass. There is a building to the
+northwest and another to the southwest. Mountains block your movement to the
+east.
+~
+186 0 2
+D0
+~
+~
+0 -1 18627
+D3
+~
+~
+0 -1 18647
+S
+#18629
+Behind a Building~
+   You stand behind a small shack-like building that lies to your west. You
+can go north or south. You are block by mountains to the east.
+~
+186 0 2
+D0
+~
+~
+0 -1 18628
+D2
+~
+~
+0 -1 18630
+S
+#18630
+Bounded by Mountains~
+   Mountains loom over you to the south and east. A grassy field lies to your
+north and west. To the northwest is a corner of a small shack-like building.
+~
+186 0 2
+D0
+~
+~
+0 -1 18629
+S
+#18634
+A Trail in the Cold Village~
+   The trail curves here heading west and into an old town square to the north.
+The village seems to get colder and colder as you work your way through it.
+You also notice a burned down building a bit off to the north.
+   Mountains bar your way to the east and south.
+~
+186 0 2
+D0
+~
+~
+0 -1 18640
+D3
+~
+~
+0 -1 18635
+S
+#18635
+A Trail in the Cold Village~
+   Large footprints and signs of a recent struggle mark this part of the
+trail. Small bits of flesh and gore litter the ground. The ground is charred
+in some places and some body parts have been dug up.
+   A path next to a large building lies to your north while your path south
+is blocked by the foot of a large mountain. The trail continues to the east
+where it curves north and west to the entrance of the village.
+~
+186 0 2
+D0
+~
+~
+0 -1 18637
+D1
+~
+~
+0 -1 18634
+D3
+~
+~
+0 -1 18636
+S
+#18636
+A Trail in the Cold Village~
+   You stand on a dirt trail that runs through the village. The ground shows
+no signs of vegetation and is completely frozen. You continue to hear the now
+familiar, odd sounds from every direction.
+   Mountains rise from the valley to the south and a building stands to the
+north. The trail continues to the east where it soon curves and heads back
+towards the entrance of the village.
+~
+186 0 2
+D1
+~
+~
+0 -1 18635
+D3
+~
+~
+0 -1 18602
+S
+#18637
+A Small Clearing~
+   The ground is less worn but maintains an odd coloring here. An overturned
+cart lies here with its contents scattered around it. Several large 
+bloodstained bones also lie scattered about the immediate area.
+   The outside wall of a small building stands to the west and a worn
+trail runs to the south. To the north, a narrow alley begins and what looks
+to be an old town square lies to your east.
+~
+186 u 2
+D0
+~
+~
+0 -1 18638
+D1
+~
+~
+0 -1 18640
+D2
+~
+~
+0 -1 18635
+S
+#18638
+A Narrow Alley~
+   You stand at the southern end of a small, narrow alley. Buildings stand
+both to the east and the west. The building to your west has been severely
+damaged by fire and most of the roof has collapsed. The one to your east
+resembles an old house.
+   A trail runs a little ways to your south and the alley continues to the
+north.
+~
+186 u 2
+D0
+~
+~
+0 -1 18639
+D2
+~
+~
+0 -1 18637
+S
+#18639
+A Narrow Alley~
+   The bare ground is frozen in many places even though the air lacks any
+moisture. You walk between a large burned down building to your west, and
+an old house to your east. The alley itself is very narrow in this area
+but it soon comes to an end where it runs into a small field to your north.
+The alley also continues to your south where it soon runs into a small,
+open area.
+~
+186 u 2
+D0
+~
+~
+0 -1 18619
+D2
+~
+~
+0 -1 18638
+S
+#18640
+Town Square~
+   The air remains still and very cold. This looks to be what's left of a
+town square. The ground is made up of many work, antiquated cobblestones. An
+aged well is in the center of the square and is half-dry. A burned down
+building lies to your north. Not much remains other than the foundation and
+several walls.
+   The trail runs to the east where it soon curves south leading back to the
+entrance of the village. You see some scattered and broken items beside a
+wall to the west.
+~
+186 0 2
+D0
+~
+~
+0 0 18649
+D1
+~
+~
+0 -1 18641
+D2
+~
+~
+0 -1 18634
+D3
+~
+~
+0 -1 18637
+S
+#18641
+A Trail in the Cold Village~
+   The trail continues through this cold village. The ground has been scarred
+with deep cracks and holes from the constant freezing that forever plagues
+this town. There is a small area in which cobblestones make up the ground to
+the west and the trail runs east where it soon curves north. A charred wall
+also blocks your way to the south and your passage north is barred by the edge
+of the mountains.
+~
+186 0 2
+D1
+~
+~
+0 -1 18642
+D3
+~
+~
+0 -1 18640
+S
+#18642
+A Trail in the Cold Village~
+   The trail makes an abrupt turn north here. A few puddles of frozen blood lie
+about the area along with a few chewed up bones. The trail runs alongside the
+foot of the mountains and follow it until the trail itself turns to the north.
+   The trail continues to the north and to the west. To the north, there is
+another building that stands out from the others and resembles a church.
+Mountains run to your south and the edge of them a short distance away to your
+east.
+~
+186 0 2
+D0
+~
+~
+0 -1 18643
+D3
+~
+~
+0 -1 18641
+S
+#18643
+A Trail in the Cold Village~
+   The trail grows more narrow as it runs through this part of the village. A
+large building stands to the west. It has been severely burnt and the roof has
+almost completely collapsed. Another building is a short ways to the northeast.
+It resembles a small church or some sort of temple.
+   The trail continues to the north and south.
+~
+186 u 2
+D0
+~
+~
+0 -1 18644
+D2
+~
+~
+0 -1 18642
+S
+#18644
+A Trail in the Cold Village~
+   The trail comes to an end here where it runs up to the door of a small
+building. The building resembles a church but after many years without upkeep,
+its condition isn't the best. Another larger building that has almost
+completely been burned down is situated to the west.
+   The trail continues to the south and a small field lies to the north. You
+can enter the building to the east and to the west, your passage is hindered by
+a large burnt wall of a building.
+~
+186 0 2
+D0
+~
+~
+0 -1 18622
+D1
+~
+~
+0 0 18645
+D2
+~
+~
+0 -1 18643
+S
+#18645
+Inside an Old Church~
+   You stand inside an old church. Even though it's not in the best condition, 
+it isn't severely damaged like most of the other structures that stand
+throughout the village. Many religious items that the local clergy once used 
+for their services remain intact and untouched.
+   The doorless entry leads outside to the west and an antiquated altar stands
+to the north.
+~
+186 ad 0
+D0
+~
+~
+0 -1 18646
+D3
+~
+~
+0 0 18644
+S
+#18646
+Inside an Old Church~
+   An altar, covered with blood and large pieces of flesh and bone, sits upon a
+small elevated platform that backs up to the northern wall. The altar looks as
+though it has recently been used for sacrificial purposes.
+   The entrance to this church is to the south.
+~
+186 ad 0
+D2
+~
+~
+0 -1 18645
+S
+#18647
+Between Two Buildings~
+   You stand between a small building to the south and a larger one to the
+north. A dirt trail lies to your west and mountains can be seen to the east.
+~
+186 0 2
+D1
+~
+~
+0 -1 18628
+D3
+~
+~
+0 -1 18643
+S
+#18649
+A Burned Down Building~
+   You step into the remnants of a once solid structure. The ground is
+completely covered by ash and small pieces of charred furniture and other
+burnt hoursehold items. The walls remain standing throughout most of the
+building even though the roof has completely collapsed and burned along with
+the rest of the building.
+   The doorway remains undamaged to the south where it leads out to a town
+common of some sort and other rooms of this charred building lie to the north
+and east.
+~
+186 ad 0
+D0
+~
+~
+0 -1 18652
+D1
+~
+~
+0 -1 18650
+D2
+~
+~
+0 0 18640
+S
+#18650
+A Burned Down Building~
+   The roof remains intact here and the wall isn't completely charred in some
+places. The ground is generally made up of ash mixed with thick blood. The
+blood has no obvious source.
+   Other rooms lie to the north and west.
+~
+186 ad 0
+D0
+~
+~
+0 -1 18651
+D3
+~
+~
+0 -1 18649
+S
+#18651
+A Burned Down Building~
+   The outer walls have almost completely been burned down here. The area
+outside the outer wall is, like the floor inside, covered with ash. A large
+portion of the roof is heaped in the corner of the room. Other rooms lie to 
+the south and west.
+~
+186 ad 0
+D2
+~
+~
+0 -1 18650
+D3
+~
+~
+0 -1 18652
+S
+#18652
+A Burned Down Building~
+   Like the rest of the building, ash and charred remains litter the ground.
+The building's rooms are almost completely identical as the walls once
+seperating the rooms have mostly been burned through to the point where there
+is barely anything preventing you from going to any other area of the building
+from here.
+   Another room is to the east and the exit is in the room to the south.
+~
+186 ad 0
+D1
+~
+~
+0 -1 18651
+D2
+~
+~
+0 -1 18649
+S
+#18653
+Field~
+You are in an unfinished room.
+~
+186 0 0
+D0
+~
+~
+0 0 18611
+D1
+~
+~
+0 0 18609
+D3
+~
+~
+0 0 18659
+S
+#18654
+Field~
+You are in an unfinished room.
+~
+186 0 0
+D1
+~
+~
+0 0 18616
+D2
+~
+~
+0 0 18613
+S
+#18655
+Field~
+You are in an unfinished room.
+~
+186 0 0
+D1
+~
+~
+0 0 18654
+D2
+~
+~
+0 0 18656
+S
+#18656
+Field~
+You are in an unfinished room.
+~
+186 0 0
+D1
+~
+~
+0 0 18613
+D2
+~
+~
+0 0 18657
+S
+#18657
+Field~
+You are in an unfinished room.
+~
+186 0 0
+D1
+~
+~
+0 0 18612
+D2
+~
+~
+0 0 18658
+S
+#18658
+Field~
+You are in an unfinished room.
+~
+186 0 0
+D0
+~
+~
+0 0 18657
+D1
+~
+~
+0 0 18611
+S
+#18659
+An Old Shack~
+   You stand inside a small dirt-floored structure. The walls and ground are
+covered with a thin layer of dried blood. Along with the blood, many bones
+and other gore lie situated about the area. Bloodstained tools which haven't
+been used in a long time line the walls. The door that once prevented access to
+this building now lies in a pool of dried blood. The only exit is to the east.
+~
+186 u 0
+D1
+~
+~
+0 0 18609
+S
+$~

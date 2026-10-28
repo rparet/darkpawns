@@ -1,0 +1,846 @@
+DP 3.0 changelog started 20000629
+20000629:
++ added loaded_in variable to mob_special_data structure for hunting mobs to return correctly
+20000630:
++ changed conditions[3] to conditions[4]. Its Drunk, Thirst, Hunger, Tired
++ removed PADDING0 from player_special_data_saved
++ set up neccessary variables for social structure
++ added religion integer to player_special_data_saved
++ blew away init_spell_levels
++ added exp_queue value in char_point_data for unassigned exp
++ blew away clan.c to get the damn thing to compile correctly
++ added experimental exp_per_level formula
+20000714:
++ ripped out exp_per_level formula due to operational problems
++ copied over new spec_assign.c from 2.2
++ set up for 100 mortal levels
++ entered exp for levels 1-50
++ added in GET_LOADED_IN define
++ added in hunting mobs returning to where they loaded after loosing their prey
+20000807:
++ finished exp for levels 1-100, must change exp to a long value from int
+20000817:
++ added in new code I wrote for 2.2.5 final release in patch format.
+20000818:
++ added in check_squelch and other variables to allow players to squelch each other.
++ squelching of other players should be supported via the "squelch" command
+20000904:
++ added a dump spec proc to 8085 (KD town dump)
+20000905:
++ cleaned up the long decimal problems in the code
++ added weapon types to the game
+20000913:
++ added a wait delay for quitting out
++ added preliminary mobile classes
+20000918:
++ changed all wait state stuff into a grand unified scheme (mobs/chars)
++ reworked perform_violence to account for the new wait state stuff
++ added calculate_speed function for combat speed resolution
+20000922:
++ rewrote quit as an event function, fun stuff.
+20001004:
++ changed wait assignment to 0 instead of 1.
+20001009:
++ changed raw_kill to pass char_data for killer
++ added owner and killer chars to obj_data master
+20001010:
++ added loot protection for player corpses
+20001011:
++ added craft value levels for objects and OLC
++ added requirements fields for objects and OLC
+20001026:
++ added corpse tagging for corpses "Killed by XXX"
++ changed quit around some more
++ fixed loot protection so that it works
+20001107:
++ fixed quit to work in a semi-sane manner
++ added xp levels for skills
++ added the new mute stuff from 2.2.5
+20010129:
++ started cleaning up the outlaw stuff to become PK switch
+20010208:
++ wrote the fatigue/sleep timer code
+20010217: (Matt)
++ added a STAY-TERR flag to keep mobs in their loading terrain-type
+20010218:
++ misc. bug fixes
++ converted clan.[ch] to faction.[ch]
++ added key decay
+20010305: 
++ added the Checkload command (Matt)
++ fixed up neckbreak so that you can use it in spec procs
++ fixed players bashing themselves randomly bug
+20010313: (Matt)
++ fixed limited-load objects for shopkeepers 
++ added "accept types" to the show shops output
+20010317:
++ fixed it so that squelch shows you when people attack you, etc (may need more work)
+20010405:
++ prototype Lua scripting is now in and functional
+20010409:
++ rewrote notes code so it doesn't use any part of char_data
+20010412:
++ fixed send_to_zone business
+20010414:
++ fixed Lua scripts to use tables instead of userdata for easier manipulation, converted all Lua scripts
++ continued to try to get rid of mobprog.c, almost there. :)
+20010415:
++ changed SECS_PER_MUD_HOUR to ~4.5 RL minutes, added a special SECS_PER_TICK pass
++ Fixed players getting trapped @ the Main menu
++ added basic structure-table-structure building for Lua, now you can manipulate select structure vars in
+  Lua
++ added new script type "bribe"
+20010417:
++ got rid of the icky ident code that was slowing connections down.
+20010424: (Matt)
++ corrected sysfile...won't overflow buffer now.
++ modified DTs - only one call to "kill" char now, other was crashing mud.
++ added "outdoors" flag to spell_info, can do outdoor check before spell is cast.
++ a few minor bugs fixed.
+20010429:
++ patched in some pieces of the code from the hacker that were newer than the backup.
++ began rewriting Lua scripts into tables and structure-table-structure building again
++ added support for auto-negotation of MSP and MXP
+20010503:
++ (re)added some bug fixes, including correct encumbrance listing for containers
++ (re)fixed annoying light bug
+20010516: (Matt)
++ stopped mag_group spells affecting the leader when not in room
++ altered mob race-table to include new races and remove old ones
++ default values now completed upon mob race selection in medit
++ added the NOTRADE check (shops) for certain PC races
+20010526: (Matt)
++ typo corrections in messages/socials file
++ corrected "where" command to display objects once when in containers
++ added a review of auction and wiznet
++ added a "show mobiles" command to display potential mobile problems
++ improved OLC handling of extra descs, scripts
+20010701:
++ improved MXP/MSP handling
++ fixed dig bug with olc_add_to_save_list
+20010709:
++ created accurate experience tables/formula
++ elimiated exp loss through death/fleeing
++ created accurate experience for mobiles
+20010714:
++ fixed that annoying "Try look board..." business.
++ corpses are no longer "junked" in dumps (Matt)
+20010715:
++ made squelch more user friendly
++ added number of uses left to the description of keys
++ fixed the scripts menu in medit to work correctly and not be annoying
++ changed the loading/saving/editing of mobiles so that NumHpDice, SizeHpDice
+  and the HpBonus are now saved in their own variables, instead of using 
+  points.hit, mana, move as they did previously
++ NULL objects no longer loaded in persistant world. (Matt)
+20010723: (Matt)
++ can no longer give items while fighting or to another character fighting
++ can put or get items from worn containers
+20010726: (Matt)
++ move in a random direction when it's dark or char is blind
++ players will not follow INVIS leaders without DET INVIS or HOLYLIGHT
++ spell duration will not longer accumulate
++ added atoi, act and char_to_room functions in scripts
+20010813:
++ fixed HPBONUS to spit out proper bonuses for the mobiles
+20010823:
++ fixed zedit_create_index to create indexes properly for mini_muds.
+20010907: (Matt)
++ created a GHOST race, allowed to pass through doors
++ added an "elite" command to display top player stats
+20010916:
++ fixed misc bugs on main and here.
++ made return to origin hunting work finally.
+20010917:
++ fixed bug in elite
+20010925:
++ redid the auto command
++ updated score
++ started working on the spelled equipment bitvector problem
++ updated do_kill
++ updated Makefile to not make lookup when making default
++ removed lookup binary from cvs repository
+20010926:
++ added in COMBAT_WAIT code, to control the speed of fights.
++ fixed save bug
+20011001:
++ got fight code semi-working
++ fixed a bug with switching to different attackers in fight.c
+20011007:
++ migrated all the commands in act.offensive.c to use new combat round code
+20011008:
++ created a new utility to convert v3.0 pfiles, no more pwipes!
++ added new "kneel" social.
++ added do_swear code for swearing fealty to someone.
++ cleaned up Makefiles
+20011012:
++ fixed perm_spell objects.
+20011017: (Matt)
++ added room script functionality
++ converted a TON of specials to script
++ improved PERM SPELL interface in oedit
++ fixed bug with donation of objects
+20011018:
++ fixed bug with race assignments disappearing from new mobs
++ made it so you can swap held items with just hold instead of rem x; hold y
++ fixed a bug with exp gain.  XP should be gained and lost properly now.
+20011021:
++ changed gain_exp to start adding to the player's exp queue
++ changed a bunch more skills over to the new combat queuing system
++ I think we are going to have to change the way it is implemented - needs ptesting
+20011022: (Matt) 
++ added a "show scripts" command
++ converted a TON more specials to script
++ upped the "read board" level to 3 for mortal boards
+20011026:
++ fixed a bug with return to origin when origin is unreachable
++ removed min_level from spell_info_type, allowing everyone to learn every spell/skill
++ improved handling of save_char(ch, NOWHERE) to account for being able to quit anywhere.
++ added prototype do_learn code
++ enhanced do_learn, now you can spend unassigned exps to learn skills
+20011101:
++ removed ITEM_RARE flag, replaced it with ITEM_BROKEN flag, for broken objects
++ removed code to check for MOB_RARE flag, scheduled MOB_RARE flag for removal
++ cleaned up do_score to show equipment spells correctly
++ fixed the problem with hp/mana/move bonuses that keep adding up after death.
++ fixed it so linkless characters get 0 group xp
++ fixed it so that you can't earn any experience fighting in the arena
++ updated obj_from_room to save the room in the persistant world file
+20011104:
++ fixed a stock circle bug where group members could perform group spells on the leader
+  without being in the same room, rewrote mag_groups
+20011107:
++ removed class_abbr from the code
++ eliminated scores of class related code from the game, most of it functions from class.c
+20011108:
++ removed more class stuff
++ redid character creation to present the appropriate races, and no classes
++ redid help during char creation to use the help files instead of hard-coded character constants
++ removed a lot of old, unused code from mobprog.c
++ fixed a bug in perform_violence that caused mobiles to not stand after being bashed
++ added a mob and room ONCMD script function (Matt)
++ converted SPECIALS to scripts (Matt)
+20011109:
++ fixed up mapcode.c to make the mapping function more useful for building purposes
+20011121:
++ fixed combat queues to work correctly by implementing the queue_tail function
++ wrote objsearch utility to search through player object files for items by vnum
+20011123:
++ fixed bug with combat skills crashing the game
+20011129:
++ fixed a bug with people not dying due to scripts setting negative hps to zero.
+20011203: (Matt)
++ added object script functionality
++ fixed bugs in existing lua functions, adding more functions
++ temporary fix to a bug with people dieing when looking into a DT
++ corrected "give" scripts with mobs - was causing problems with the lua_give func
++ converted more mobprogs to scripts - mobprog.c pretty much redundant
++ fixed bug that prevented doing things with 2.XXX in room, inventory, worn, etc
++ added 32-bit functionality for room numbers (greater than 32000 rooms)
+20011207: (Matt)
++ removed lua_fight function - redundant
++ made a distinction between ONPULSE_PC and ONPULSE_ALL - reduce memory usage of mob scripts 
+  by only calling those that need to be called
++ SOUND mob scripts called only when PCs are present to reduce memory usage
+20011212:
++ cleaned up the old race say stuff
++ fixed a bug with obj_file_elem
++ started adding persistant mobiles code, mob eq saves between reboots now
++ added persistant wizlocking to the game
+20011412: (Matt)
++ added "read_shop_message" to shop.c - provides error reporting of shop strings
+20011218:
++ started cleaning up the prompt system
+20011224:
++ added additional MXP functionality
+20011227:
++ added MXP for autoexits, hp/mana/move gauges
++ improved MXP prompt handling
+20011230:
++ fixed a stock circle bug involving do_examine
+20020101:
++ Happy New Year (DP 3.0 will be released this year)
+20020103:
++ found and fixed a nice memory leak.  corpse->killer and corpse->owner were never
+  free'd.
++ fixed up who, still not sure if I want who to be IC or OOC
+20020104: (Matt)
++ fixed the permanent HIDE objects - won't be removed on movement or a command
++ mag_masses and mag_areas spells now work correctly (smokescreen bug)
+20020107:
++ fixed bug with getting multiple items from multiple containers (all.yel from all.pouch)
++ added weight allow check to do_sneak
++ fixed a bug with wiznet @ being screwed up for chosens
+20020110:
++ misc string enhancements
++ made corpse->owner pass to decapitated heads
++ updated do_behead so that the beheaded corpse still retains its owner/killer tags
++ allowed object extra_descs to be saved in rent files (Matt)
++ converted SPECs to scripts (Matt)
+20020111: (Matt)
++ converted SPECs to scripts
++ added ability to save obj data within scripts (table_to_obj)
++ added more lua_functions, more conversions to simple error checking
++ added an OBJ_FLAGGED macro (utils.h)
+20020115:
++ fixed a bug with cutthroat (messages)
++ fixed a bug with unwearable rings
+20020118:
++ added zone flags, zone author, zone climate
+20020119: (Matt)
++ added events for scripts - allow time delay for running other script funcs
++ ban format changed - allows for comments
++ SPECs to scripts
++ stonekeep_init (zone 14 initialisation) moved to boot-up in db.c
+20020122:
++ fixed zedit for zone flags
+20020125: (Matt)
++ lua_skill func added - allows mobs to perform skills
++ lua "char" global includes worn objects
++ SPECs to scripts
++ more lua functions converted to error-handling format
++ buffer overrun protection added to "show scripts"
+20020127: (Matt)
++ fixed zedit for creating new zones (author, climate, zflags)
++ SPECs to scripts
++ Lua calls to non-existant functions are now syslogged with some explanation
++ outlaw toggle system in place
+20020129: (Matt)
++ Created a lua_action function - allows any standard command to be executed!!
++ Removed defunct lua functions
++ Removed db.c setting of weight for fountains and drink containers
++ Outlaw toggle altered to a system based on seconds elapsed
++ PEACEFUL flags mean nothing to outlaws now - they can go at it anywhere!
+20020210: (Matt)
++ Food decays when on the ground - in objects is ok.
+20020211:
++ fixed a bug with dig and real_zone
+20020213:
++ more dig bug fixes
+20020226:
++ added uuid code for mobiles
++ added save_mob for saving the mob index for persistance
++ persistant mobs are now saved/loaded from lib/etc/mobs
++ mobobjs are now saved by uuid in the lib/mobobjs directory
+20020304:
++ fixed a stock circle player-abusable bug with track.  Incorporated the fix into
+  the main branch
+20020308:
++ fixed a bug with mobs being saved/loaded with their rnum. It is now via vnum.
+20020309: (Matt)
++ added food decay in inventory, shopkeepers not affected
++ fixed outlaw timer, was set incorrectly
+20020312:
++ when mobs are extracted, it deletes their uuid-stored eq under lib/mobobjs
+20020314: (Matt)
++ added IP check on login - log message to indicate multiple login
++ Owner and killer only displayed for corpses when stat-ing objects
++ review for tells added - review_tell struct to player_special_data
++ updated lua functions, added identifier.lua script
+20020316:
++ fixed a bug with freeing affected spells from chars
++ updated lua functions, added new scripts
++ minor formatting errors fixed
+20020319:
++ fixed the bug with objects loading in unknown locations on reboot
+20020322:
++ fixed a bug with mobs junking like-named eq during att loot
+20020323: (Matt)
++ First draft of alchemy skill implemented (do_mix)
++ Object cost and type added to object rent files (allows object morphing)
+20020326: (Matt)
++ fprintf replaced by log in db.c
++ more debug messages added to db.c
+20020328: (Matt)
++ Object cost and type removed
++ zedit options: begin and end looping, remove mob from room added
++ sell all.ITEM, sell all ITEM, sell <num> ITEM now accepted in shops
++ Reduced disk activity in object persistant boot...only execute the other house functions
+  if the house file exists
+20020329: (Matt)
++ The last few lua functions tidied up - those returning TRUE/FALSE now only return TRUE/NIL
++ Lua handling of returned values altered to be in line with normal code
++ Vampires now affected during daylight hours and in Cloudless skies
++ do_mix changed to do_combine...uses a script lookup table
+20020402:
++ fixed zone flags so they work correctly
+20020409: (Matt)
++ Timers combined under one struct, saved in the pfile
++ 5 racial hatreds stored in pfile
++ Tattoos now handled by script front-end
++ Xixieqi and Mist Keep added as hometowns, recall now works properly for your town
+20020412: (Matt)
++ You now see your drunk speech when drunk
+20020421: (Matt)
++ More SPECs to scripts, lua functions added and amended
++ ITEM_WEAR_HOLD added to find_eq_pos..was causing a crash when equipping a mob
++ Kill bug with a lightning strike (weather.c) corrected
++ Default MOB flags for Ungulate corrected
++ Unused external functions and variables removed from spec_proc files
+20020424: (Matt)
++ Lua modification to allow proper extra_desc modifying of objs
++ Added plural checking of keywords - proper grammar for closed/open doors now
+20020504: (Matt)
++ Elven race added back into the table
++ Clerk SPEC modified to remove pardoning code
+20020506:
++ fixed delete-description part of do_string
++ fixed macro FREE to free the pointer and set it to NULL to catch problem code
++ fixed spell duration display in stat
+20020507:
++ removed unused/duplicate skills from the table: swordplay, knifeplay, kabuki, stealth, 
+  sharpen, shoot
+20020531: (Matt)
++ Elven race removed from the race table
++ zedit commands streamlined to allow commands to combine similar functionality
++ Basic treasure-system code added, not yet functional
++ started adding skill tree support code
++ added misc. logic fixes
+20020601: (Matt)
++ room extra descriptions can be linked to other rooms - "link" added to extra_desc
+  struct
++ "show errors" expanded to find broken description-link rooms
++ Additional extra desc keywords within extra descs will now highlight
++ PLR_ASSIST flag added - if players do not assist in a group battle, their experience is
+  quartered. Flag is removed on mob death or on point_update if not fighting.
++ Mobs given "timer" to be used for any purpose. For mounts, after owner has left them
+  and 6 ticks pass by, mount will be removed from the world
++ removed "sicbo" and "sevens" commands - code removed previously
++ misc. changes to do_stat_character to enhance information displayed
+20020607:
++ more skill tree stuff added
+20020609: (Matt)
++ treasure system enhanced, basic framework in place
++ bug fix for new zedit options
++ bug fix for shopkeeper loading of limited sale items
+20020622: (Matt)
++ checkload command updated to reflect changes in zedit commands
++ bug in "remove mob from room" display fixed
++ APPLY_RACE_HATE removed completely - now redundant
+20020624:
++ fixed a bug with trying to save a mob to disk after it was dead.
+20020626:
++ fixed a bug from 2.2 with spell_teleport causing mobs to hit themselves
+20020628:
++ added logging of atti loots (from 2.2)
+20020629: (Matt)
++ improved stable boy code - converted to script and altered mount storage on pfile
++ mount displayed in do_star_char with stable location
++ mobs can no longer be squelched
++ "show shops" display updated - notrade with RACE removed
++ RESTORE_MANA spell added - for use with potions
++ Random load object flag added
++ Highlighting of extra desc keywords in objects added - oversight from before
+20020706: (Matt)
++ Reset time added to shop_data struct - allow shop purging functionality (stored in shp file)
++ tedit.c file created - basic treasure list editing functions
++ treasure list struct added to olc data (OLC_TLIST)
+20020710:
++ added code for worn equipment breaking when you die
++ cleaned up Mob_crashsave to fix items disappearing on reboot, among other things.
+20020722: (Matt)
++ tedit.c file heavily modified - different handling of treasure list
++ fixed a bug with being able to look in a direction when dark
+20020730:
++ added support for house keys to the house control data structure
++ modified the house command so players can transfer their house to others
++ fixed a bug with removing held items when using "wear all"
++ converted pet_shops SPEC into a script
+20020731:
++ Character creation sequence added
++ Player start SPEC converted into a script
++ improved wildcard ban matching for both hostnames and IP addresses
+20020807: (Matt)
++ Improved "notes" system - allows for SYSTEM messages to the players
++ Treasure system enhanced - multiple item loads without doubling up items
+20020809: (Matt)
++ Minor fixes to "notes" for system messages
++ New treasure lists now allow for multiple strings, not just a single word
++ Minor bug fixes
+20020814:
++ deleted some class related variables, cleaned up thaco/saving throws, still
+  some work to do on those
+20020815:
++ removed the IS_CLASS definitions and assorted code
+20020823: (Matt)
++ Minor bug fixes
++ Mob_crashload now only executes if the mob has items (on a regular basis)
++ Mob_crashload executed at generic events (perform_give, perform_get, etc)
++ OBJ_TIMER stored in object files - previous oversight
+20020828:
++ fixed calculate_speed for some more realistic combat values
++ fixed the magic numbers problem in serpent_kick
+20020829:
++ players who re-enter the game now loose their afk/inactive flags, if they were set.
+20020831: (Matt)
++ persistant room and mobile saving completed on the AUTOSAVE pulse (5 min intervals)
++ persistant mob file handling modified - only those elements requiring saving are completed
+20020903:
++ wrote missing uuid_hash function (borrowed from FreeDCE)
+20020918:
++ fixed return to origin problems
++ fixed dup objects loading (sometimes)
+20020926:
++ when there is a BFS error during return to origin, GET_LOADED_IN is set to the current room
+20020927: (Matt)
++ attitude looting only takes the 3 best (based on cost) items from a corpse
++ replaced all references to a room number with type "long" (prevent possible problems)
++ blessed items now provide a hitroll modifier
++ in-game quests added: wood chopping, wheat-flour-dough-bread, caravan protection
+20021014:
++ re-added GET_LOADED_IN settings, which had somehow been removed from the code :(
++ added dig/bury commands for players to "hide" things, and future seed code
++ existing immort "dig" command altered to "build"
++ ITEM_BURIED flag added for objects
+20021016:
++ corrected a type mismatch for treasure_item
+20021017:
++ added combat_skill_wrapper function
++ rewrote combat skills to use the new wrapper
+20021027: (Matt)
++ created pc_shop.c, player-owned shop functionality
++ improved copying of rooms when in redit - copy flags and sector type
++ fixed "Banned On" listing to list banned date as mm/dd/yyyy
++ added some new skills to the table
+20021101: (Matt)
++ Player-owned shops enchanced - fully operational
++ Altered list_all_shops output to display owner, fixed Accept Types bug
++ Added "pcshop" and "npcshop" data files - storage of gold, owner, keeper, etc.
+20021112:
++ Player items (bar the 3 most expensive ones) are retained on death
++ Attitude looting returned to original functionality
++ Replaced ARMOR with AC-APPLY for objects, modifier reflects change
++ completely removed thac0 system, replacement underway.
++ added TYPE_BLEED for bleeding to death
++ added mxp to toggle command
++ added MySQL support for persistant mobs
++ added constants.h and improved db.h - removed excess external declarations
+20021117: (Matt)
++ Bug fixes to added code
++ Redo of spello/skillo declarations - removed need for *spells and *wear_off_msg declarations
+20021118:
++ redid armor class system. 0-200 system, more points are better
+20021119:
++ fixed a bug with recreated characters getting assigned id 0.
++ added offensive/defensive skills to hit()
+20021120:
++ moved point_update to every 60 seconds
++ changed abilities output to numeric stats
++ converted find_skill_exp to a formula
++ removed str_add from the game
+20021122:
++ added speedwalk detection and penalty for "running" characters.
++ started making abilities trainable
+20021201:
++ added default skill values based on abilities
++ added calculate_skill_value function to dynamically calculate skill levels
+20021204:
++ added white highlighting of says
++ commented out some deprecated object stacking code
++ fixed a bug in the oedit item types menu, you can quit it now.
++ added more descriptive comments for looking at items which lack an extra description
++ removed autogaining hp/mana/move/practices when advancing a level
++ fixed it so when you goto n.item it goes to it whether it is carried/worn/in another object
+20021205:
++ added room binding for characters
++ added ROOM_BIND flag for bind rooms
++ changed it so that anyone can use the 'recall' command, for beta testing.
++ updated help files
++ added garbage collection for objects.  Extracts objects on the ground after two hours
+20021215: (Matt)
++ safely returned to the world of DP after two weeks
++ minor bug fixes corrected
+20021216: (Matt)
++ SQL databases created for mobile object persistance
++ object uuids added for SQL storage/retrieval
+20021217:
++ increased variable sizes for skills and abilities
++ tweaked other variable sizes for memory savings
+20021219: (Matt)
++ decreased variable sizes for object related structs
++ improved persistant mob handling with SQL
++ added persistant obj handling, both for mobs and houses in SQL
++ added vitae penalty points and vitae experience
++ removed rpersist_boot and mpersist_boot - handled under boot_mysql now
+20021219:
++ fixed a small bug with corpse->owner not being written
+20021223:
++ garbage collection will no longer collect !take items
++ some more code around learning skills
++ quitting the game disconnects you instead of putting you back to the menu (test).
+20021227: (Matt)
++ minor bug fixes with stabling a mount and output of "do_where" with carried containers
++ persistant room objects load correctly with containers
++ SQL objects deleted from database on any call to obj_from_XXXX
++ Player object files converted to SQL
+20030101: (Matt)
++ Happy New Year!
++ pfile, mud date and rent codes converted to SQL tables
++ tweaked variable sizes to reduce memory usage
++ removed reviewing of tells - wasted memory
+20030106: (Matt)
++ some variables moved around within structs.h - NPC only placed appropriately
++ 24 hour backup of SQL tables added
+20030113: (Matt)
++ Game entry is now via accounts
++ Various structs modified to reflect account changes
++ Players can now "purchase" stats, using exp_q
+20030113:
++ fixed a small bug in accounts
++ made account creation check for wizlock
++ put in the start of some positional combat code
+20030119: (Matt)
++ Experience earned in a kill is now based on damage done
++ Minor bug fixes
++ changed timeout handling for descriptors in non-playing states
+20030130: (Matt)
++ Dynamic loading/unloading of zones added
++ nosql command added - allows wiping of some sql tables upon shutdown
+20030213: (Matt)
++ Max load per zone added (functions in_zone and sql_check_mob added)
++ "number" element of index_data depricated and removed
+20030217: (Matt)
++ Bug fix (reduced CPU usage of an idle BP)
++ Added a mob UNIQUE flag to allow only one load for specified mobs
+20030220: (Matt)
++ Finally fixed that damn delete account bug
++ Can alter account password and delete an account using do_set
++ Minor bug fixes
+20030524: (Matt)
++ Long time between code additions...time to get started...
++ Added "guard" command - ability to guard (and rescue) players or mobs
++ Bug fix - dismount automatically if attacked first
++ ZONE_LAW flag added - zone 79 mobs will not spawn or hunt into zones flagged as such
++ Self-teleporting mobs will only teleport within their zones
++ Only magical weapons will hurt Ghosts, Vampires, Undead, Elementals and Magical Constructs
++ Bug fix - stopped rent wiping of Immortal rent files
++ Bug fix - stopped player container items from being deleted upon quitting
+20030725
++ fixed a crash bug in do_set
++ started implementing user-configurable prompts feature
+20030728
++ finished implementing user-configurable prompts
+20030731: (Matt)
++ Added shop closing - kick players out of the store
++ Shop "resets" if keeper has too many items, or not enough gold
+20030806:
++ cleaned up some bugs in check_shop_times
+20030830:
++ added ch->points.defense variable, split defense/armor into 2 statistics
++ added "tactical points" 0%-300% for combat manuvers
+20030901:
++ fixed it so people can't flee into closed shops
++ fixed a bug with mobs being able to con-die
+20031103:
++ Got 3.0 back up and running after server HDD crash
++ redid parsing for load obj so you can load them by name instead of keyword
+20040102:
++ Dark Pawns turns 10 years old this year.
++ Started removing the AUTOxxx features, these will now be part of the standard interface.
++ beginings of round-based combat
+20040109:
++ added speed modifier bonuses and penalties based on NPC race
++ modified PULSE_VIOLENCE to be .5 RL_SEC (experimental)
+20040228: (Matt)
++ I'm back baby!
++ Removed commands: ASK, CLEAR, DIAGNOSE, EXAMINE, GLANCE, GRAB, HIRE, HIT, QUAFF, MURDER,
+  OFFER, RIDE, SIP, TAKE, TASTE
++ Players can no longer see what a mob is wearing or carrying (Doesn't affect Immortals)
++ Getting/Putting an object from/in a closed container will unlock/open first if able
++ Looking at a closer container will unlock/open first if able
++ Fleeing/Moving will automatically stand you up if seated
++ Fixed a bug with the ghost ship - was appearing in non-existant rooms
++ Mounts will now disappear after a set period of time with a master (forces the purchase of a 
+new mount
+20040319: (Matt)
++ Can view gold while sleeping
++ Maximum number of players in a session is now displayed in the "who" listing
++ Allowed players to view their group while sleeping
++ Hunted items are now gossiped about when a mob hunts (added hunted_obj to char_specials)
+20040409: (Matt)
++ Can now ban accounts for a specified period of hours
++ When presented with multiple "doors" and no direction is specified, the player will be asked 
+which door to open
++ Items loaded without a container from SQL will now be deleted from the table
++ Fixed a bug in "show objects"
++ Fixed a bug when unloading room descs, stopped PCs being mob_crashsaved
+20040412: (Matt)
++ Prevented zones from reloading if they require OLC saving (stops 
+over-writing of rooms)
++ Fixed a bug when saving rooms, correct zone now applied to a new room
+20040427: (Matt)
++ MXP support added for scripts
++ SOUNDPROOF message altered to be more generic
+20040501: (Matt)
++ Stat and skill group points added, practices removed
++ Bug fix for ITEM_UNLOAD
++ Bug fix when dieing - correct transfer of items to corpse occurs now
++ Mounts prevented from entering cities
+20040507: (Matt)
++ Percent damage variable removed - too inconsistent
++ aff_skills removed from SQL storage - not needed
++ earned_xp removed from skills struct and SQL storage - not used
++ is_empty func updated for immortal OLC editing (stop zone unloading)
++ "See Also" words in HELP updated to MXP
+20040515: (Matt)
++ Toggle command enhanced to enable toggling of certain pthings (gossip, auction, etc)
++ nogossip, noauction, etc commands removed from command list
++ Minor bug fixes
+20040527: (Matt)
++ Removed is_mage and is_cleric from mag_damage
++ Fixed up a bug in MXP help
++ MSP functionality added to scripts
++ Stat and Group points added - purchasing of skill groups and abilities
++ find_skill_exp amount increased
++ PARALYSE and SOUL TRAP spells added
+20040605: (Matt)
++ Notes/Alias/Poof flat files converted to SQL
++ Skills/spell system version 2
+20040613: (Matt)
++ Mail system convered to SQL
++ Multiple chars from same account - detection added to perform_dupe_check
++ MCCP support added
++ Minor bug fixes
+20040826: (Matt)
++ Mob "sound" support added through MSP
++ Spell scrolls added
++ Known spells stored as text bitvector in SQL
++ Remove objects from DTs every hour - assists with load rates
+20040829: (Matt)
++ Bug fixes from the sysfile
++ Mobs will not hunt a player when they're in a city (flagged as ZONE_LAW)
++ MXP Message of the Day added
+20040915: (Matt)
++ MXP help file support corrected to avoid memory bug
++ Tattoo system revamped (dyes, designs to be found by the player)
++ A few bug fixes (amazing the little suckers keep popping up)
+20050430: (Matt)
++ Been a long time coming!! Beta testing for version 3.0 has begun
++ Numerous bug fixes discoverd by beta testers corrected
++ Autodraw system added
++ Money prototype added - allows coins to be saved through a crash
+20050506: (Matt)
++ Numerous bug fixes along the way
++ obj_action_desc SQL table added, allows for saving of notes and the like
+20050508: (Matt)
++ Scribe skill added, soul gem item type added
++ Memory leak with prompt and help files fixed
++ Polished up combat_skill_wrapper to do a lot of the default checks, rather than the skills themselves
++ Extraction of chars now sets a flag for removal later - stops crashing when they're already dead!
+20050515: (Matt)
++ Modified the combat system - formula for hit and damage
++ Modified damage message range to account for 3.0 hits
+20050521: (Matt)
++ Added "syphon energy" and "detect race" spells
++ Racial hatreds can now be cleared by a city clerk (for a price)
++ Unassigned exp can be used to "buy" vitae exp from the shadowmage
++ Affect messages sent to char upon wearing PERM AFFECT items
+20050602: (Matt)
++ Restored item loading for mobs on bootup - altered do_look to prevent players from seeing a mob's inventory
++ Object worth is now saved in the SQL database
++ Damage system revised, now similar to that of 2.2
++ Changes to COMBAT_WAIT to try and reset it at the start of each battle
+20050606: (Matt)
++ Revamp of the spells - mana amounts, durations, damage done, etc
++ Hopefully fixed container bugs - no more wacky weight added
+20050626: (Matt)
++ Combined hit, mana and move regen functions into the same point_gain
++ Modified regen amounts to take into account higher point values
++ Added exhaustion effect into the game - combat delay doubled, calc_thaco and defense + 5
++ Modified most weapons to include weapon requirements
+20051002:
++ Changed stumbling around in the dark to not effect newbies
++ Added different text when you are in the dark, zork tribute.
++ Reduced move cost for city squares to zero
++ Started fixing all of Matt's millions of bugs
++ DEBUG flag added - will allow staff to view future debug messages
+20051003:
++ Set it so you go back to the Lobby when you die or quit.  Possible MCCP issue?
++ Fixed point_update so you bleed to death now.
++ Fixed load_spell_scroll to work appropriately
+20051007:
++ Refixed load_spell_scroll to work
++ Fixed more databaes issues related to character saving and loading
++ Altered raw_kill to prevent a player being flagged a PK if killer and victim the same
++ Letter of intro is now extracted prior to char connecting - stops it being NOWHERE if they disconnect early
+20051008: (Matt)
++ A lot of little bug fixes (track, skin, etc)
++ Added a check for MCCP before free-ing it in free_char...was activating for non-MCCP clients
++ Cleaned up character creation and account deletion
++ Examine and Diagnose commands put back in at player request
++ Altered letter of intro so that only the player can hand it in - stops them palming it to others
++ Group experience altered, now a function of total group level
+20051011: (Matt)
++ Bug fixes - added some missing objects, subdue, and selling of items
+20051012: (Matt)
++ Added shop keeper's bank to shops SQL table - missed this little gem for ages!
++ Moved sleeper into the non_combat skills table
++ Added a shop_keeper check to noncombat skills - stops people sleepering them!
++ Changed obj_file_elem to use "long" for values - stops problems with value amounts of 32000 or so
++ Created a skill's movement table - allows movement cost to be deducted post skill use
+20051015: (Matt)
++ Tidied up character handling in menu states - free_char called most times now
++ Added a "skills" functionality to do_show
++ Shopkeepers now accept only those items that they can sell
++ MAX_PROMPT_LENGTH increased to 512, allows for MXP usage
++ MS_FIGHTING trigger moved to void hit, instead of bool damage - stops damage scripts calling themselves
++ Added ability to wield REQUIREMENT daggers in the Stealth group - allows for backstab and circle
+20051020: (Matt)
++ Stopped the giving of items to linkless chars (NPCs excepted)
++ Corrected most COMBAT_WAIT and WAIT_STATE occurences
++ Moved SUBDUE skill to stealth group, and DISARM to weaponry group
++ Added more DEBUG code for battles
++ Allowed moving mobs to reload_room_descs if entering an unloaded zone
+20051022: (Matt)
++ Can get/drop items during combat, but it adds a WAIT_STATE based on the object weight
++ Shopkeepers will list the type of spell scrolls they carry
++ Bug fix to allow missed skills/attacks to display correctly (race hate was increasing damage to 1)
++ Vitality spell removes partial TIRED condition (random number of hours added)
+20051030: (Matt)
++ Shopkeepers reset when over 300 items, or below 1000 gold (occurs when the store closes)
++ New event system (pending_events) added in place of GET_ACTION
++ Combat waits added correctly now
++ Group pfg/pfe and Entrapment spells added
++ Refuge skill added
++ GLOWING items, or LIGHT item types in equipment/inventory/room are displayed when it is dark
++ LIGHT item types in a room will light it
+20051103: (Rich)
++ Shopkeepers being closed and then having the zone unload would stay closed until the next day.  Fixed.
++ removed some of the mini_mud checks so that ghost ship, etc loaded.  Then realized index.mini != index 
++ which was the cause of the original "missing zone" issue.
+20051111: (Rich)
++ abstracted out ghost_ship_appear and ghost_ship_disappear to make more modular ships
++ found a bug in the dice() code with random numbers (was impossible to roll a 1), fixed.
+20051118: (Matt)
++ bug fix for non-existant docks in shp_disappear
++ bug fix for containers gaining large weights (finally!)
++ added a shop item limit - anything over this amount of items, and the store is cleaned out
++ added a "kills" option under do_show to list a breakdown of a player's racial kills
++ bug fix for racial hatred handling
++ fixed zone unloading/reloading - they were getting stacked behind zones that weren't due to unload
++ moved food decay into the mud hour, rather than every minute tick
+20051123: (Matt)
++ TMP_PERSIST flag for objects added - allows mobs to hold onto keys and the like
++ Combat hit/miss equation modified, compute_hit
++ Dodgeroll variable added, hitroll and dodgeroll for mobs calculated as level / 3
++ Added a check of MOB_EXTRACT and PLR_EXTRACT in event handling
++ Fixed a memory leak in do_help - better handling of MXP clients as well
++ Stopped the auto-equipping of broken items
+20051204: (Matt)
++ Combat damage equation modified, compute_damage
++ Better checking of character death for a few functions
++ Bug fix for MXP clients when looking at objects with a room extra description
++ Incorrectly spelled "spells" fixed so that players can cast them
++ Max in world checking now completed for objects
++ Bug fix for treasure items not loading
+20051209: (Matt)
++ Player owned shops moved to SQL table - allows world files to be copied from build to main successfully
++ str_app modified, player and mob ability start points modified
++ Objects modified for new REQ system and dodgeroll variable
++ Newbie channel removed
+20051219: (Matt)
++ Improved memory handling of accounts and characters
++ Found a bug in lua_action that resulted in a mob calling its own script and altering characters
++ Teleport spell modified so that players aren't teleported onto the ocean and drown
++ Fixed a bug where AFF_INVULN and AFF_METALSKIN were doing nothing for mobs
++ Fixed spells for mobs so that they do damage/heal

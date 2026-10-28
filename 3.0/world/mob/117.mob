@@ -1,0 +1,106 @@
+#11700
+crystal golem~
+a crystal golem~
+A crystal golem lumbers by on an unknown errand.
+~
+Almost transparent, the golem stomps around mindlessly.
+~
+cdgnu 0 0 E
+3 3 3d8+15 2d3
+2 259
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: golem_to_crate.lua 64
+E
+#11701
+black bat~
+a black bat~
+A huge black bat claws at your eyes.
+~
+It looks like a ferocious black rat with wings.
+~
+bdfq fkpA -10 E
+2 2 2d8+8 2d3
+0 141
+8 8 0
+BareHandAttack: 8
+Race: 10
+E
+#11702
+golem crystal~
+a crystal golem~
+A crystal golem claws away at the tunnel wall.
+~
+Despite the size of this creature, it is being extremely delicate when digging
+away at the tunnel wall. When it locates one of the crystalline deposits, it
+merely moves on to another section of the tunnel and continues on.
+~
+cdgnu 0 0 E
+4 4 4d8+24 3d3
+5 400
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: golem_miner.lua 64
+E
+#11703
+flame crystal~
+a living crystal flame~
+An enormous crystal shell houses a living flame.
+~
+These creature absorbs light as if it were feeding off it, a soft glow
+radiating forth from its body.
+~
+bdepq 0 0 E
+5 6 5d8+33 3d3
+5 559
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#11704
+keeper flame man wizened old~
+the keeper of the flame~
+A wizened old man runs about madly.
+~
+A long flowing beard on his face is the same shade as the frazzled hair on
+his head.
+~
+cdnz 0 0 E
+5 6 5d8+33 3d3
+25 559
+8 8 1
+Race: 2
+E
+#11705
+crystal golem~
+a crystal golem~
+A crystal golem stands guards, protecting the entry to the mine.
+~
+Almost transparent, the golem stands here with a vacant look on its face as
+if it had no idea what was going on around it.
+~
+bcdn 0 16 E
+4 4 4d8+24 3d3
+5 400
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#11706
+crystal golem~
+a crystal golem~
+A crystal golem lumbers by on an unknown errand.
+~
+Almost transparent, the golem stomps around mindlessly.
+~
+cdgnu 0 0 E
+3 3 3d8+15 2d3
+3 259
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: golem_from_crate.lua 64
+E
+$

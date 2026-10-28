@@ -1,0 +1,4022 @@
+#2200
+Immortal Map Room of the Sunken Ziggurat~
+   The ziggurat consists of six levels which are replicated within the Swamp
+of Sadness, both areas joined by a portal. The map is too large to draw
+here so you'll just have to go explore! :)
+~
+22 cdgj 0
+S
+#2201
+Before a Sandstone Block~
+   The block before you is almost perfectly square in shape and is covered in
+a think layer of sludge and slime. There is a large crack in the face which
+you could probably squeeze through if you wanted but you can't quite see
+clearly into the block and are unsure what awaits you. The surrounding swamp
+can be entered to the south of here.
+~
+22 0 7
+D0
+You can see flickers of light and hear some form of movement but as to
+what lies inside the block remains a mystery.
+~
+~
+0 0 2202
+D2
+~
+~
+0 0 12292
+S
+#2202
+Floating above a Small Shrine~
+   You find yourself at least 20 feet above a small chamber below and there
+is nothing nearby that you can grasp, so unless you are aided by magic your
+trip to the floor below will be quick and painful. There is a large crack in
+the sandstone wall to the south which you can travel through if you can
+remain up here.
+~
+22 cdi 0
+R falldown.lua 1
+D2
+~
+~
+0 0 2201
+D5
+~
+~
+0 0 2203
+S
+#2203
+A Small Shrine~
+   You stand at what could be considered the entrance to a small shrine
+which is enclosed within this room. Flames dance around in a rhythmic fashion,
+held in place by a number of torches set into the walls. Sand covers the
+floor, perhaps a result of erosion of the sandstone blocks from which this
+chamber has been made.
+   A narrow set of stairs leads down into another lit chamber below while far
+above your head you can just make out a large crack in one of the sandstone
+walls.
+~
+22 d 0
+R fly_exit_up.lua 32
+D1
+~
+~
+0 0 2204
+D2
+~
+~
+0 0 2205
+D4
+~
+~
+0 0 2202
+D5
+~
+~
+0 0 2211
+E
+torches~
+0~
+They have been constructed from sandstone themselves and are actually part
+of the wall. There is no way you could remove one of them.
+~
+S
+#2204
+A Small Shrine~
+   The shrine itself is nothing more than an altar in the corner of the
+room to the south. A series of steps carved out of the sandstone lead from
+floor level up to the altar allowing any who enter the ability to kneel
+before it.
+~
+22 d 0
+D2
+~
+~
+0 0 2206
+D3
+~
+~
+0 0 2203
+S
+#2205
+A Small Shrine~
+   The shrine itself is nothing more than an altar in the corner of the
+room to the east. A series of steps carved out of the sandstone lead from
+floor level up to the altar allowing any who enter the ability to kneel
+before it.
+~
+22 d 0
+D0
+~
+~
+0 0 2203
+D1
+~
+~
+0 0 2206
+S
+#2206
+A Small Shrine~
+   You ascend the set of steps and approach the sandstone altar. A series
+of hieroglyphics covers the front while a tattered piece of cloth rests on
+the top of it. Candles have been placed at the four corners of the altar
+although these have long since burned out.
+~
+22 d 0
+D0
+~
+~
+0 0 2204
+D3
+~
+~
+0 0 2205
+E
+Candles~
+0~
+The candle wax is blood red in color and is covered in a thin film of dust.
+~
+E
+hieroglyphics~
+0~
+Although time has worn away a few of the pictures before you, what you can
+still see reminds you of an ancient burial belief where large numbers of
+people were entombed together after death, some having achieved legendary
+status within the community while others were considered common criminals.
+The shrine in which you now stand marks the peak of a large pyramid that has
+perhaps been used for just such a purpose.
+~
+S
+#2207
+The Chamber of Preparation~
+   The makeshift hut has been constructed using tree branches and leaves
+which can only have come from a nearby forest. It is sparsely decorated and
+is obviously used only for sleeping although there appear to be a few trinkets
+of little value hanging from various locations around the hut.
+   The entrance is very open and allows you to continue to the east or south.
+~
+22 d 0
+D1
+~
+~
+0 0 2208
+D2
+~
+~
+0 0 2210
+E
+trinkets~
+0~
+You can see nothing here worth your while.
+~
+S
+#2208
+The Chamber of Preparation~
+   The northern side of the chamber is taken up largely with huts which you
+can enter by traveling to the west or east of here. Looking down, you can
+see a number of footprints either side of a flattened section of the sandy
+floor, as if something had been dragged along it. The center of the chamber
+lies to the south.
+~
+22 d 0
+D1
+~
+~
+0 0 2209
+D2
+~
+~
+0 0 2211
+D3
+~
+~
+0 0 2207
+S
+#2209
+The Chamber of Preparation~
+   It doesn't appear as if anything lives within this hut given the amount
+of what looks like snake skin that has been strewn all over the floor.
+The branches and leaves from which this hut has been constructed have been
+put together haphazardly as if the builders were in a hurry and you must
+be careful to avoid stabbing yourself on one of the sharp pieces of wood.
+~
+22 d 0
+D2
+~
+~
+0 0 2212
+D3
+~
+~
+0 0 2208
+E
+snake~
+0~
+You're somewhat surprised to see that this skin is over 5 feet long and
+has what look like arms and legs attached to it! Perhaps you don't want to
+meet the creature that once belonged to this.
+~
+S
+#2210
+The Chamber of Preparation~
+   You trip and fall over a slightly raised section of sandstone which has
+been used to create the floor of this chamber. The ravages of time have
+affected even this sheltered area and a layer of sand has covered the surface
+of the floor thus making it difficult to see any further pitfalls. After
+standing up and brushing yourself off, you find you stand within one of the
+makeshift huts.
+   Each appears to be constructed of wood and this one is merely an extension
+of the one to the north. A small campfire burns brightly to the south while
+the center of the chamber lies to the east.
+~
+22 d 0
+D0
+~
+~
+0 0 2207
+D1
+~
+~
+0 0 2211
+D2
+~
+~
+0 0 2213
+S
+#2211
+The Chamber of Preparation~
+   You are in the center of a medium sized chamber with torches equally spaced
+around the walls, providing adequate light for the surroundings. Two sandstone
+altars lie either side of you stained red with blood.
+   What is odd about this chamber is the small collection of makeshift huts
+that have been erected here. A number of fires burn at various locations and
+mystery surrounds the residents who have decided to make this place home.
+~
+22 d 0
+R zigg_recess.lua 32
+D0
+~
+~
+0 0 2208
+D1
+~
+~
+0 0 2212
+D2
+~
+~
+0 0 2214
+D3
+~
+~
+0 0 2210
+D4
+~
+~
+0 0 2203
+D5
+~
+secret altar~
+2 -1 2221
+E
+recess~
+0~
+The recess is only about as large as your hand and has been carved into a
+shape you can't quite make out. You notice a little symbol engraved into the
+back of the recess which has been painted a golden color.
+~
+E
+altars~
+0~
+There may have once been hieroglyphics on each altar which would have shed
+some light on their purpose but any trace has disappeared. There is, however,
+a small recess on one of the altars.
+~
+S
+#2212
+The Chamber of Preparation~
+   The eastern side of the chamber where you now stand is surrounded by
+huts to the north and to the south, the southern one being slightly larger
+than any other within the chamber. Sand covers the floor, possibly due to
+some unseen force eroding the sandstone blocks that this place has been
+made from.
+~
+22 d 0
+D0
+~
+~
+0 0 2209
+D2
+~
+~
+0 0 2215
+D3
+~
+~
+0 0 2211
+S
+#2213
+The Chamber of Preparation~
+   A few rocks have been placed in a circle here to contain a small fire
+that appears unattended at the moment. Smoke lazily makes its way up to
+the roof above before dissipating in numerous directions. The entrance to
+one of the makeshift huts lies to the north or you can travel along the
+southern wall of the chamber to the east.
+~
+22 d 0
+D0
+~
+~
+0 0 2210
+D1
+~
+~
+0 0 2214
+S
+#2214
+The Chamber of Preparation~
+   You move quickly along the southern wall, afraid that your intrusion
+into this place may awaken something that should remain forever asleep.
+You have the strangest feeling you are being watched but decide that your
+own imagination is over-active. A larger hut than the others within this
+chamber can be entered to the east while flames leap from a small fire to
+the west.
+~
+22 d 0
+D0
+~
+~
+0 0 2211
+D1
+~
+~
+0 0 2215
+D3
+~
+~
+0 0 2213
+S
+#2215
+The Chamber of Preparation~
+   The first thing that strikes you would have to be the smell! There are
+pieces of cured meat, a variety of cloth, strange plant life and all manner
+of natural reagents hanging from the walls of this Shaman's hut. A large
+fire pit dominates the middle of the hut but you can move around and travel
+to the west or north.
+~
+22 d 0
+D0
+~
+~
+0 0 2212
+D3
+~
+~
+0 0 2214
+E
+reagents~
+0~
+They all look natural and you can identify several as having been gathered
+from swamp land and forests.
+~
+S
+#2216
+A Sandstone Passageway~
+   It is now impossible to squeeze more than one person through the narrow
+passageway and it is becoming increasingly difficult to get yourself through
+with all of your equipment on. The passage turns here and you can travel to
+the south or east.
+~
+22 adi 0
+D1
+~
+~
+0 0 2217
+D2
+~
+~
+0 0 2220
+S
+#2217
+A Sandstone Passageway~
+   The sandstone passage closes in to the west making it difficult to fit
+more than one person through at a time. The sandy floor is slightly uneven
+suggesting the sandstone floor beneath is not as solid as it should be.
+~
+22 ad 0
+D1
+~
+secret wall~
+2 -1 2218
+D3
+~
+~
+0 0 2216
+S
+#2218
+A Sandstone Passageway~
+   You notice the small holes in the wall just a little too late. The skeleton
+lying on the floor is also another sign that perhaps all is not as it should
+be in this part of the passage. Footprints terminate here and have arrived
+from the east.
+~
+22 acd 0
+R darts.lua 4
+D1
+~
+~
+0 0 2219
+D2
+~
+~
+0 0 2222
+D3
+~
+secret wall~
+2 -1 2217
+E
+holes~
+0~
+There are too many to count and they are no larger than a gold coin.
+~
+E
+skeleton~
+0~
+This poor fellow has been dead for quite some time. His only legacy is the
+scrawled "Beware pit" he has left in the sand.
+~
+S
+#2219
+A Sandstone Passageway~
+   The passage bends here and continues to the west and south. The footprints
+continue their journey down the middle of the passage. Torches still line
+the walls but whatever fueled them long ago has since run out leaving you
+no chance of re-lighting them.
+~
+22 ad 0
+D2
+~
+~
+0 0 2223
+D3
+You can't quite see down the passage.
+~
+~
+0 0 2218
+S
+#2220
+A Sandstone Passageway~
+   You have to turn on your side in order to make it through the narrow
+passageway and on more than one occasion you become stuck, requiring a lot
+of effort to continue on. You can travel to the north or south.
+~
+22 adi 0
+D0
+~
+~
+0 0 2216
+D2
+~
+~
+0 0 2224
+S
+#2221
+A Sandstone Passageway~
+   You stand at the base of a narrow staircase that winds its way into the
+floor above. It doesn't appear as if anything or anyone has journeyed through
+these passages in a long time judging by the sandy floor which looks completely
+undisturbed. There are torches along the walls but none of them provide any
+light. You can venture into the passages by moving to the south.
+~
+22 acd 0
+D2
+~
+~
+0 0 2225
+D4
+~
+secret trapdoor~
+2 2200 2211
+S
+#2222
+A Sandstone Passageway~
+   You come face to face with the end of the passageway. You notice a small
+recess on the southern wall and there appears to no other way out of here
+apart from the exit to the north.
+~
+22 ad 0
+R zigg_recess.lua 32
+D0
+~
+~
+0 0 2218
+E
+recess~
+0~
+There is a small picture of what looks likes a crystal gem.
+~
+S
+#2223
+A Sandstone Passageway~
+   A single set of footprints begins here and follows the passage to the
+north, which isn't necessarily interesting apart from the fact that they do
+not appear to have come from the south.
+~
+22 ad 0
+D0
+~
+~
+0 0 2219
+D2
+~
+secret wall~
+2 -1 2227
+S
+#2224
+A Sandstone Passageway~
+   It may only be your imagination in the close confines of the passage but
+it feels as if the floor is somewhat unstable. Clearing away a small section
+of sand, you can see that you are indeed walking along sandstone blocks but
+by applying enough pressure, you can ever so slightly move them. You would
+be wise to watch where you tread from here on.
+   Just before you move on, you notice a brass plate affixed to the wall.
+~
+22 adi 0
+R zigg_warning.lua 2
+D0
+~
+~
+0 0 2220
+D2
+~
+~
+0 0 2228
+E
+plate~
+0~
+It simply says "Those of light foot can only follow the true path."
+~
+S
+#2225
+A Sandstone Passageway~
+   The passageway turns here and proceeds to the north and east. Not a sound
+can be heard except your own labored breathing, your footsteps muffled by
+the light covering of sand on the floor.
+~
+22 ad 0
+D0
+~
+~
+0 0 2221
+D1
+~
+~
+0 0 2226
+S
+#2226
+A Sandstone Passageway~
+   Out of the corner of your eye, you notice a small section of hieroglyphics
+on the passage wall. The passage itself stretches away to the west and east
+of here.
+~
+22 ad 0
+D1
+~
+~
+0 0 2227
+D3
+~
+~
+0 0 2225
+E
+hieroglyphics~
+0~
+The pictures are too faded to make out but you can barely read a small
+inscription: "Enlightenment can only be attained through the sacrifice of
+that which is worldly."
+~
+S
+#2227
+A Sandstone Passageway~
+   There is still no sign of activity within this passage which might possibly
+be a relief. At least you have the time to study your surroundings although
+there is nothing more interesting here than sand and sandstone.
+~
+22 ad 0
+D0
+~
+secret wall~
+2 -1 2223
+D2
+~
+~
+0 0 2231
+D3
+~
+~
+0 0 2226
+S
+#2228
+A Sandstone Passageway~
+   You have difficultly keeping your footing as the floor becomes even less
+stable than before. It's almost as if a force was trying to pull you down
+into the lower levels and you decide that perhaps this is not the best place
+to remain standing. You can follow the passageway to the north or east but
+you will still have to travel by yourself as it is too narrow to fit more
+than one person.
+~
+22 acdi 0
+R zigg_dt.lua 4
+D0
+~
+~
+0 0 2224
+D1
+~
+~
+0 0 2229
+S
+#2229
+A Sandstone Passageway~
+   The sandstone passage stretches onward into the darkness providing no
+clue as to its final destination, although the corridor is now wide enough
+here to allow free movement. The blocks on the floor move infrequently
+but you feel secure that nothing untoward will happen. There is an unnatural
+blue glow coming from the passage walls and you feel as if something passes
+through you.
+~
+22 adh 0
+D1
+~
+~
+0 0 2230
+D3
+~
+~
+0 0 2228
+S
+#2230
+A Sandstone Passageway~
+   Deathly silence greets you as you reach the end of the passage. Stairs
+descend into the darkness, twisting away sharply to the left preventing you
+from seeing what lies ahead. The hairs on the back of your neck and arms
+tell you that perhaps you are not alone but you can see nothing nearby.
+~
+22 acdh 0
+D3
+~
+~
+0 0 2229
+D5
+The stairs turn away and you cannot see any further down.
+~
+~
+0 0 2245
+S
+#2231
+A Sandstone Passageway~
+   The passageway abruptly ends here and you are left with no alternative
+but to travel back the way you have come. There is, however, a small recess
+on the southern wall which catches your attention.
+~
+22 ad 0
+R zigg_recess.lua 32
+D0
+~
+~
+0 0 2227
+E
+picture~
+0~
+You learn nothing new from staring at the little picture.
+~
+E
+recess~
+0~
+There is nothing remarkable about the recess although there is a picture of
+a small figure painted in silver within it.
+~
+S
+#2232
+The Bottom of a Pit~
+   Your fall is unmercifully long and its end is rather painful. You crash
+heavily on the sandstone block that gave way on the level above and roll off
+onto a number of sharp spikes that protrude from the ground. Your life ends
+here!
+~
+22 bcd 0
+S
+#2233
+A Large Crypt~
+   You travel to the north western corner of the crypt and are careful to
+avoid bumping into one of the statues. You feel slightly paranoid that by
+doing so, you might wake one of them up even though they are made from stone!
+There is nothing else of interest here so perhaps you should move on.
+~
+22 ad 0
+D1
+~
+~
+0 0 2234
+D2
+~
+~
+0 0 2238
+S
+#2234
+A Large Crypt~
+   You arrive at the eastern entrance to a large chamber decorated with gold
+leaf and designs carved into the sandstone walls. Large statues have been
+placed at regular intervals along each wall, perhaps to watch over the dozen
+or so stone boxes which have been set into the walls themselves. The chamber
+has two exits; one to the east and the other further away to the south west.
+~
+22 ad 0
+D1
+~
+~
+0 0 2235
+D2
+~
+~
+0 0 2239
+D3
+~
+~
+0 0 2233
+E
+boxes~
+0~
+On closer inspection, you realize each and every one of them is a coffin.
+They have been set into each wall, two on the lower level and another two
+on a slightly higher level.
+~
+S
+#2235
+The Grand Chamber~
+   This is the northern end of a passage that allows access to two smaller
+chambers; one to the west and the other to the east. You can also follow
+the passage southwards to its beginning.
+~
+22 ad 0
+D1
+~
+~
+0 0 2236
+D2
+~
+~
+0 0 2240
+D3
+~
+~
+0 0 2234
+S
+#2236
+A Large Crypt~
+   The chamber appears to be an impromptu crypt with bones and skulls
+littering the floor. Smashed pieces of sandstone add to the clutter, perhaps
+remnants of a larger structure within the chamber. You can travel further
+into the chamber or leave to the west.
+~
+22 ad 0
+D1
+~
+~
+0 0 2237
+D2
+~
+~
+0 0 2241
+D3
+~
+~
+0 0 2235
+S
+#2237
+A Large Crypt~
+   An icy chill descends upon you and an involuntary shiver courses through
+your body. The evil within this chamber is almost a visible entity and you
+can only wonder at how the poor creatures in this place must have died.
+~
+22 ad 0
+D2
+~
+~
+0 0 2242
+D3
+~
+~
+0 0 2236
+S
+#2238
+A Large Crypt~
+   The chamber in which you now stand is exquisitely decorated with gold
+leaf and designs carved into the sandstone walls. You scan the room and
+are amazed to see over a dozen stone boxes set into the wall at regular
+intervals. Large statues appear to stand guard over something you cannot
+see and perhaps don't want to. The chamber has two exits; one to the south
+and the other further away to the north east.
+~
+22 ad 0
+D0
+~
+~
+0 0 2233
+D1
+~
+~
+0 0 2239
+D2
+~
+~
+0 0 2243
+E
+statues~
+0~
+They have been eroded over time and are unrecognizable.
+~
+E
+boxes~
+0~
+On closer inspection, you realize each and every one of them is a coffin.
+They have been set into each wall, two on the lower level and another two
+on a slightly higher level.
+~
+S
+#2239
+A Large Crypt~
+   You notice that each of the statues within the chamber faces into the
+center as if they are ready to defend en masse. There might be something
+of importance within one of the coffins but each appears to be completely
+sealed and you have no way of prying one open.
+~
+22 ad 0
+D0
+~
+~
+0 0 2234
+D3
+~
+~
+0 0 2238
+S
+#2240
+The Grand Chamber~
+   Your steps echo as you make your way down the long passage. The pillars
+on either side enhance the effect which becomes deafening at times, enough
+even to wake the dead. The passage ends further to the north while the center
+of this grand chamber lies to the south.
+~
+22 ad 0
+D0
+~
+~
+0 0 2235
+D2
+~
+~
+0 0 2245
+S
+#2241
+A Large Crypt~
+   Amongst the mess around you stands a solitary skeletal warrior, covered
+in all manner of armor and wielding a sword. It doesn't move, however, and
+simply watches over the chamber around you. You could swear the ghostly eyes
+track your movements but it may simply be your active imagination.
+~
+22 ad 0
+D0
+~
+~
+0 0 2236
+D1
+~
+~
+0 0 2242
+E
+warrior~
+0~
+You maintain a safe distance just in case the thing decides to move!
+~
+S
+#2242
+A Large Crypt~
+   You trip over a large thigh bone and narrowly avoid hitting your head
+on one of the numerous skulls and assorted other bones which cover the chamber
+floor. It appears as if the chamber has been used as a slaughter house, a
+makeshift crypt for the unfortunate victims left within. You can leave the
+chamber to the south or progress further inside to the north and west.
+~
+22 ad 0
+D0
+~
+~
+0 0 2237
+D2
+~
+~
+0 0 2247
+D3
+~
+~
+0 0 2241
+S
+#2243
+The Grand Chamber~
+   Large chunks of sandstone litter the floor, apparently pieces of the
+large pillars which seem to support the roof of this chamber. The end of
+the passage you are in opens into two smaller chambers to the north and
+south and continues eastward.
+~
+22 ad 0
+D0
+~
+~
+0 0 2238
+D1
+~
+~
+0 0 2244
+D2
+It looks empty from here.
+~
+~
+0 0 2248
+S
+#2244
+The Grand Chamber~
+   As you admire the construction of this chamber, a shriek pierces the
+otherwise silent surrounds and you stand immediately on guard. However, it
+happens only once and the silence again descends upon you. You can travel
+to the west along the passage or east to the center of the chamber.
+~
+22 ad 0
+D1
+~
+~
+0 0 2245
+D3
+~
+~
+0 0 2243
+S
+#2245
+The Grand Chamber~
+   You mouth drops at the sights before you...this place is absolutely huge!
+You are standing in the center of an enormous chamber, four pillars encased
+in gold form a square around the staircase that allows entry to both the
+levels above and below. Smaller pillars line either side of wide passages
+which lead in all directions. Large torches hang from each of the larger
+pillars but alas, they no longer work.
+   A circular staircase allows access to the levels above and below.
+~
+22 ad 0
+D0
+~
+~
+0 0 2240
+D1
+~
+~
+0 0 2246
+D2
+~
+~
+0 0 2250
+D3
+~
+~
+0 0 2244
+D4
+The stairs twist away and you cannot see clearly as to what lies up there.
+~
+~
+0 0 2230
+D5
+The stairs allow access to the level below.
+~
+~
+0 0 2294
+E
+torches~
+0~
+They are also too high up for you to get.
+~
+S
+#2246
+The Grand Chamber~
+   The effort required to build this chamber alone must have been phenomenal
+and you wonder what purpose it serves. Some of the pillars that line the
+passage show signs of age and have begun to crack in numerous locations.
+You may continue to the west or east of here.
+~
+22 ad 0
+D1
+~
+~
+0 0 2247
+D3
+~
+~
+0 0 2245
+S
+#2247
+The Grand Chamber~
+   Chambers open up to the north and south of the passage which stretches
+away to the west. You get the impression that this grand chamber must at
+one time have been decorated lavishly judging by the amount of gold leaf
+that adorns the pillars but unfortunately it is all gone, perhaps subject
+to thieves or other adventurers.
+~
+22 ad 0
+D0
+~
+~
+0 0 2242
+D2
+~
+~
+0 0 2252
+D3
+~
+~
+0 0 2246
+S
+#2248
+An Empty Chamber~
+   This chamber is rather nondescript and contains nothing that could help
+you determine its purpose. The only interesting thing is the blue glow that
+comes from the chamber walls, pulsating at regular intervals as if it were
+a living entity.
+~
+22 cdm 0
+R load_recall.lua 2
+D1
+~
+~
+0 0 2249
+D2
+~
+~
+0 0 2253
+S
+#2249
+An Empty Chamber~
+   You quickly scan the nearby walls but they have been sanded down to a
+smooth surface allowing an easy examination but preventing you from climbing
+up if you had even contemplated it. The blue glow continues and seems to
+increase in intensity the longer you stay.
+~
+22 d 0
+D2
+~
+~
+0 0 2254
+D3
+~
+~
+0 0 2248
+S
+#2250
+The Grand Chamber~
+   A cool breeze suddenly appears from nowhere and despite the layer of
+clothing and armor that you wear, it chills you to the bone. There is a
+presence down here that feels somewhat unnatural and perhaps it is your job
+to find out what it is. The large passage continues to the north and south.
+~
+22 ad 0
+D0
+~
+~
+0 0 2245
+D2
+~
+~
+0 0 2255
+S
+#2251
+A Storage Chamber~
+   This is the north western corner of the chamber where you find there is no
+escape from the smell which permeates this place. One of the sandstone vessels
+has broken and a few of its contents have spilled out onto the chamber floor.
+You can move about the chamber to the east or south.
+~
+22 ad 0
+D1
+~
+~
+0 0 2252
+D2
+~
+~
+0 0 2256
+E
+contents~
+0~
+Whatever was inside the vessel has been wrapped in bandages and judging by
+the smell that hangs around, you decide not to investigate further.
+~
+S
+#2252
+A Storage Chamber~
+   Moving around within this chamber is difficult but not impossible due to
+a number of large sandstone vessels. They have been placed in a grid-like
+formation and the smell that fills the chamber makes you wonder if it's worth
+staying.
+~
+22 ad 0
+D0
+~
+~
+0 0 2247
+D2
+~
+~
+0 0 2257
+D3
+~
+~
+0 0 2251
+E
+vessels~
+0~
+They are large containers, similar to an oversized vase and after looking
+inside you are sick to your stomach. There is the distinct smell of decay
+coming from each and you pull out a small wrapped parcel from one of them.
+You are horrified to find what looks like a human heart and decide that
+maybe you should put it back and forget about it.
+~
+S
+#2253
+An Empty Chamber~
+   Your movements create sounds that simply reflect off the polished chamber
+walls. Unfortunately, that's about all you can do within this chamber since
+it is devoid of anything remarkable. The blue glow continues and appears to
+increase in intensity the longer you remain.
+~
+22 d 0
+D0
+~
+~
+0 0 2248
+D1
+~
+~
+0 0 2254
+S
+#2254
+An Empty Chamber~
+   The chamber is completely empty and you cannot see an exit nearby. The
+chamber walls glow with an unnatural blue light and you must now decide
+what to do.
+~
+22 cd 0
+R load_recall.lua 2
+D0
+~
+~
+0 0 2249
+D3
+~
+~
+0 0 2253
+S
+#2255
+The Grand Chamber~
+   You are at the end of the southern passage with smaller chambers to the
+west and east of here. A large tapestry hangs from the southern wall,
+something that was either missed by thieves or perhaps is totally worthless.
+~
+22 ad 0
+D0
+~
+~
+0 0 2250
+D1
+~
+~
+0 0 2256
+D3
+It looks empty from here.
+~
+~
+0 0 2254
+E
+tapestry~
+0~
+It has faded obviously over time, but the scene it depicts appears to describe
+the purpose of this place. It was built in honor of the great mage Razaak
+who died at the hands of an unknown assailant. This great ziggurat is
+actually a tomb that was originally used as a transition area from the world
+of the living to that of the dead.
+~
+S
+#2256
+A Storage Chamber~
+   You stand on a slightly raised portion of a large chamber which allows
+a good view of your surrounds. Sandstone vessels fill the chamber, each
+carefully placed to form a grid of sorts although for what reason you are
+unsure. To the west, the chamber exits into a passageway.
+~
+22 ad 0
+D0
+~
+~
+0 0 2251
+D1
+~
+~
+0 0 2257
+D3
+~
+~
+0 0 2255
+E
+vessels~
+0~
+They are large containers, similar to an oversized vase and after looking
+inside you are sick to your stomach. There is the distinct smell of decay
+coming from each and you pull out a small wrapped parcel from one of them.
+You are horrified to find what looks like a human heart and decide that
+maybe you should put it back and forget about it.
+~
+S
+#2257
+A Storage Chamber~
+   You continue to dodge and weave your way around the vessels and arrive
+in the corner of the chamber. A lengthy group of hieroglyphics might shed
+some light as to the purpose of the containers or you may decide to move
+towards the chambers' exits to the north and west.
+~
+22 ad 0
+D0
+~
+~
+0 0 2252
+D3
+~
+~
+0 0 2256
+E
+hieroglyphics~
+0~
+This level of the ziggurat was apparently used as a mass crypt, a resting
+place for both criminals and heroes of whatever race used to inhabit these
+lands. Criminals were put to death in a rather gruesome fashion while those
+of valor and courage were afforded an almost royal burial. The vessels you
+see before you were used as storage containers for their organs, perhaps part
+of some religious belief.
+~
+S
+#2258
+A Sandstone Passageway~
+   The sandstone passage bends here and travels to the south and east. The sand
+covering the floor grows thin to the point of disappearing to the south,
+leaving nothing but the sandstone blocks from which this place has been made.
+~
+22 ad 0
+D1
+~
+~
+0 0 2259
+D2
+All you can see is the sand disappear the further you look. Other than that,
+it's completely dark down there.
+~
+~
+0 0 2264
+S
+#2259
+A Sandstone Passageway~
+   You detect a light breeze coming from the west but you are at a loss as
+to what could cause it especially since you are now several levels below the
+surface. You can just make out a wall to the west while the passage also
+continues to the east.
+~
+22 ad 0
+D1
+~
+~
+0 0 2260
+D3
+~
+~
+0 0 2258
+S
+#2260
+A Sandstone Passageway~
+   You tread silently along the sandstone passage, the sand covered floor
+preventing any sound of your footsteps from being heard. The darkness of this
+place surrounds you as you progress further but you sense no immediate danger.
+You may continue to the west or east.
+~
+22 ad 0
+D1
+~
+~
+0 0 2296
+D3
+~
+~
+0 0 2259
+S
+#2261
+A Sandstone Passageway~
+   You tread silently along the sandstone passage, the sand covered floor
+preventing any sound of your footsteps from being heard. The darkness of this
+place surrounds you as you progress further but you sense no immediate danger.
+You may continue to the west or east.
+~
+22 ad 0
+D1
+~
+~
+0 0 2262
+D3
+~
+~
+0 0 2296
+S
+#2262
+A Sandstone Passageway~
+   You detect a light breeze coming from the east but you are at a loss as
+to what could cause it especially since you are now several levels below the
+surface. You can just make out a wall to the east while the passage also
+continues to the west.
+~
+22 ad 0
+D1
+~
+~
+0 0 2263
+D3
+~
+~
+0 0 2261
+S
+#2263
+A Sandstone Passageway~
+   The sandstone passage bends here and travels to the south and west. The sand
+covering the floor grows thin to the point of disappearing to the south,
+leaving nothing but the sandstone blocks from which this place has been made.
+~
+22 ad 0
+D2
+All you can see is the sand disappear the further you look. Other than that,
+it's completely dark down there.
+~
+~
+0 0 2269
+D3
+~
+~
+0 0 2262
+S
+#2264
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2258
+D2
+~
+~
+0 0 2270
+S
+#2265
+A Sandstone Passageway~
+   The passage bends here continuing to the south and east. You can hear a soft
+murmur further to the east which sounds like a chant of some kind but you
+cannot make out what it is.
+~
+22 ad 0
+D1
+~
+~
+0 0 2266
+D2
+~
+~
+0 0 2271
+S
+#2266
+A Sandstone Passageway~
+   You have reached the end of a sandstone passage which travels to the west
+and opens into a small chamber to the south. There is an electricity in the
+air that pulses through you, created by an unknown source but powerful enough
+to reach you.
+~
+22 acd 0
+D2
+~
+~
+0 0 2272
+D3
+~
+~
+0 0 2265
+S
+#2267
+A Sandstone Passageway~
+   You have reached the end of a sandstone passage which travels to the east
+and opens into a small chamber to the south. There is an electricity in the
+air that pulses through you, created by an unknown source but powerful enough
+to reach you.
+~
+22 acd 0
+D1
+~
+~
+0 0 2268
+D2
+~
+~
+0 0 2273
+S
+#2268
+A Sandstone Passageway~
+   The passage takes a sharp ninety degree turn and continues to the west and
+south. You hear a soft chanting coming further from the west although it is
+difficult to understand what is being said.
+~
+22 ad 0
+D2
+~
+~
+0 0 2274
+D3
+~
+~
+0 0 2267
+S
+#2269
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2263
+D2
+~
+~
+0 0 2275
+S
+#2270
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2264
+D2
+~
+~
+0 0 2276
+S
+#2271
+A Sandstone Passageway~
+   The sandstone passage continues to the north and south, both directions
+stretching away into the darkness.
+~
+22 ad 0
+D0
+~
+~
+0 0 2265
+D2
+~
+~
+0 0 2277
+S
+#2272
+Razaak's Gateway~
+   The hair on your body stands on end as the air simply comes alive with
+power. The feeling increases the closer you move to the southern wall of this
+chamber as does the feeling that you should turn back and into the safety of
+the passage to the north.
+~
+22 ad 0
+D0
+~
+~
+0 0 2266
+D1
+~
+~
+0 0 2273
+D2
+~
+~
+0 0 2278
+S
+#2273
+Razaak's Gateway~
+   Flashes of light blind you, coming from an object to the south of here.
+The air is alive with a power you've never felt before and it grows stronger
+the further you progress into this chamber. The relative safety of the passage
+to the north beckons.
+~
+22 ad 0
+D0
+~
+~
+0 0 2267
+D2
+~
+~
+0 0 2279
+D3
+~
+~
+0 0 2272
+S
+#2274
+A Sandstone Passageway~
+   You trudge your way through a thick layer of sand which covers the
+passage floor and can continue to the north or south. You notice that yours
+are the only set of footprints in the sand.
+~
+22 ad 0
+D0
+~
+~
+0 0 2268
+D2
+~
+~
+0 0 2280
+S
+#2275
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2269
+D2
+~
+~
+0 0 2281
+S
+#2276
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2270
+D2
+~
+~
+0 0 2282
+S
+#2277
+A Sandstone Passageway~
+   The passageway extends to the north and opens into a chamber to the south.
+For a brief moment you thought you could see a flash of movement coming from in
+there, but after several minutes of observation you see nothing.
+~
+22 ad 0
+D0
+~
+~
+0 0 2271
+D2
+~
+~
+0 0 2283
+S
+#2278
+Razaak's Gateway~
+   The southern end of the chamber is dominated by a large circular object
+which stands at least 20 feet high. It has a number of hieroglyphics along the
+outer rim which might reveal something of the object's purpose. The center of
+the object contains some type of liquid that appears to defy most of the
+physical laws of this world.
+   It is difficult to remain here as surges of power course through your
+body, perhaps emanating from the object itself.
+~
+22 ad 0
+R zigg_portal.lua 32
+D0
+~
+~
+0 0 2272
+D1
+~
+~
+0 0 2279
+E
+object~
+0~
+You are reminded of a portal of some kind but there is only one way to find
+out if that is correct.
+~
+E
+hieroglyphics~
+0~
+They are indecipherable and look like nothing you've come across before.
+~
+S
+#2279
+Razaak's Gateway~
+   The southern end of the chamber is dominated by a large circular object
+which stands at least 20 feet high. It has a number of hieroglyphics along the
+outer rim which might reveal something of the object's purpose. The center of
+the object contains some type of liquid that appears to defy most of the
+physical laws of this world.
+   It is difficult to remain here as surges of power course through your
+body, perhaps emanating from the object itself.
+~
+22 ad 0
+R zigg_portal.lua 32
+D0
+~
+~
+0 0 2273
+D3
+~
+~
+0 0 2278
+E
+object~
+0~
+You are reminded of a portal of some kind but there is only one way to find
+out if that is correct.
+~
+E
+hieroglyphics~
+0~
+They are indecipherable and look like nothing you've come across before.
+~
+S
+#2280
+A Sandstone Passageway~
+   The passageway extends to the north and opens into a chamber to the south.
+~
+22 ad 0
+D0
+~
+~
+0 0 2274
+D2
+~
+~
+0 0 2286
+S
+#2281
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2275
+D2
+~
+~
+0 0 2287
+S
+#2282
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2276
+D2
+~
+~
+0 0 2288
+S
+#2283
+The Chamber of the Damned~
+   You shiver uncontrollably as the temperature within the chamber drops
+markedly. Ghostly figures pass by but pay no attention to you, more concerned
+with how to escape from their eternal damnation and reach eternal sleep. You
+can leave via the passage to the north or progress further into the chamber.
+~
+22 ad 0
+D0
+~
+~
+0 0 2277
+D1
+~
+~
+0 0 2284
+D2
+~
+~
+0 0 2289
+S
+#2284
+The Chamber of the Damned~
+   If you ever you doubted the existence of a place beyond this world, let
+your disbelief be abandoned. Spectral beings completely fill this chamber and
+move as if they have no direction or are lost. Some stare at you blankly,
+others pass straight through you oblivious to your presence.
+   You can move about the chamber to the west or south.
+~
+22 ad 0
+D2
+~
+~
+0 0 2290
+D3
+~
+~
+0 0 2283
+S
+#2285
+The Chamber of Warriors~
+   Hollow eyes return your gaze as you admire the numerous warriors who now
+reside in this chamber. All are wearing an impressive array of armors and
+carrying weapons the likes of which you have never seen. A silent force steers
+you away from the walls thus preventing you from taking any of these items.
+~
+22 adh 0
+D1
+~
+~
+0 0 2286
+D2
+~
+~
+0 0 2291
+S
+#2286
+The Chamber of Warriors~
+   You have the option of entering this chamber further to the west or south
+or leave through a small sandstone passage to the north. As far around the
+chamber as you can see, skeletal warriors stand at guard, honored in death by
+their heroic feats in life.
+~
+22 adh 0
+D0
+~
+~
+0 0 2280
+D2
+~
+~
+0 0 2292
+D3
+~
+~
+0 0 2285
+S
+#2287
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2281
+D2
+~
+~
+0 0 2293
+S
+#2288
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2282
+S
+#2289
+The Chamber of the Damned~
+   You are not completely sure if this chamber is safe to remain in given the
+countless apparitions you see before you. They float aimlessly around, unsure
+of what direction to travel as if they do not realize they have passed beyond
+this world.
+   You can see a small passage leading away from the chamber to the north and
+another one further to the east.
+~
+22 ad 0
+D0
+~
+~
+0 0 2283
+D1
+~
+~
+0 0 2290
+S
+#2290
+The Chamber of the Damned~
+   The entrance to this chamber is quite grand with an elaborate arch instead
+of the standard square doorway you are used to. Despite that, however, the room
+has an evil presence about it and you could swear that many sets of eyes stare
+at you from beyond the mortal plane. The chamber extends to the north and west
+while a sandstone passage lies to the east.
+~
+22 ad 0
+D0
+~
+~
+0 0 2284
+D1
+~
+~
+0 0 2298
+D3
+~
+~
+0 0 2289
+S
+#2291
+The Chamber of Warriors~
+   The chamber is of a reasonable size and opens to the north and east where,
+like the place you now stand, skeletal warriors stand at regular intervals
+around the chamber wall. A small sandstone passage lies to the west where
+you can see another chamber across the way.
+~
+22 adh 0
+D0
+~
+~
+0 0 2285
+D1
+~
+~
+0 0 2292
+D3
+~
+~
+0 0 2298
+S
+#2292
+The Chamber of Warriors~
+   You walk along the wall, examining each warrior carefully and wondering
+about the deeds they must have performed in their mortal lives to allow them
+to be enshrined within this place. You can travel to the north or west.
+~
+22 adh 0
+D0
+~
+~
+0 0 2286
+D3
+~
+~
+0 0 2291
+S
+#2293
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2287
+S
+#2294
+A Sandstone Passageway~
+   You have reached what appears to be the end of a sandstone passage, the
+walls closing in and coming to a point just to the south which leaves
+little room for you to move around. A set of stairs spirals their way up to
+the level above while the passage continues more openly to the north.
+~
+22 acd 0
+D0
+~
+~
+0 0 2295
+D2
+~
+secret door~
+2 2215 2297
+D4
+The stairs allow access to the level above.
+~
+~
+0 0 2245
+S
+#2295
+A Sandstone Passageway~
+   The passage stretches away to the north and south; you can see it branch
+to the north while a set of stairs lies to the south. There are numerous
+scratch marks all over the walls as if something large has been dragged
+through here.
+~
+22 ad 0
+D0
+~
+~
+0 0 2296
+D2
+~
+~
+0 0 2294
+S
+#2296
+A Sandstone Passageway~
+   You have a choice here of traveling to the west, south or east although
+each direction looks exactly the same to you. A single torch has been
+affixed to the northern wall but provides no light down here.
+~
+22 ad 0
+D1
+~
+~
+0 0 2261
+D2
+~
+~
+0 0 2295
+D3
+~
+~
+0 0 2260
+E
+torch~
+0~
+The torch has been carved out of the sandstone wall and you have no way
+of removing it.
+~
+S
+#2297
+A Sandstone Passageway~
+   Unless you were standing in this very spot, you would not have known it
+even existed. The walls to the north and south have been cleverly disguised but
+they are in fact doors and it appears as if both require a key to open.
+~
+22 ad 0
+D0
+~
+door~
+2 2215 2294
+D2
+~
+door~
+2 2216 2298
+S
+#2298
+A Sandstone Passageway~
+   You have a choice here of entering one of two chambers; one to the west
+and the other to the east. Provided you have the correct key, you can also
+travel through the door to the north.
+~
+22 acd 0
+D0
+~
+door~
+2 2216 2297
+D1
+Looks like the chamber opens up in there.
+~
+~
+0 0 2291
+D3
+Looks like the chamber opens up in there.
+~
+~
+0 0 2290
+S
+#2301
+Standing Before a Sandstone Block~
+   You stand before a perfectly square sandstone block which rises out of
+the swampy ground, swirls of mist moving about your feet. An archway to the
+north leads into the depths of the block or alternatively, you could travel
+further into the surrounding swamp.
+~
+22 0 2
+D0
+You can see flickers of light and hear some form of movement but as to
+what lies inside the block remains a mystery.
+~
+~
+0 0 2302
+D2
+~
+~
+0 0 4682
+S
+#2302
+Above a Small Shrine~
+   You find yourself at least 20 feet above a small chamber below, standing
+on the top rung of a wooden ladder which leads safely to the floor. There is
+a roughly cut archway in the sandstone wall to the south which you can travel
+through if you wish.
+~
+22 cd 0
+D2
+~
+~
+0 0 2301
+D5
+~
+~
+0 0 2303
+S
+#2303
+A Small Shrine~
+   You stand at what could be considered the entrance to a small shrine
+which is enclosed within this room. Flames dance around in a rhythmic fashion,
+held in place by a number of torches set into the walls.
+   A narrow set of stairs leads down into another lit chamber below while far
+above your head you can just make out an archway in one of the sandstone walls
+which is accessible by a wooden ladder before you.
+~
+22 d 0
+D1
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 2305
+D4
+~
+~
+0 0 2302
+D5
+~
+~
+0 0 2311
+E
+torches~
+0~
+They have been constructed from sandstone themselves and are actually part
+of the wall. There is no way you could remove one of them.
+~
+S
+#2304
+A Small Shrine~
+   The shrine itself is nothing more than an altar in the corner of the
+room to the south. A series of steps carved out of the sandstone lead from
+floor level up to the altar allowing any who enter the ability to kneel
+before it.
+~
+22 d 0
+D2
+~
+~
+0 0 2306
+D3
+~
+~
+0 0 2303
+S
+#2305
+A Small Shrine~
+   The shrine itself is nothing more than an altar in the corner of the
+room to the east. A series of steps carved out of the sandstone lead from
+floor level up to the altar allowing any who enter the ability to kneel
+before it.
+~
+22 d 0
+D0
+~
+~
+0 0 2303
+D1
+~
+~
+0 0 2306
+S
+#2306
+A Small Shrine~
+   You ascend the set of steps and approach the sandstone altar. A series
+of hieroglyphics covers the front while a tattered piece of cloth rests on
+the top of it. Candles have been placed at the four corners of the altar
+although these have long since burned out.
+~
+22 d 0
+D0
+~
+~
+0 0 2304
+D3
+~
+~
+0 0 2305
+E
+Candles~
+0~
+The candle wax is blood red in color.
+~
+E
+hieroglyphics~
+0~
+The pictures remind you of an ancient burial belief where large numbers of
+people were entombed together after death, some having achieved legendary
+status within the community while others were considered common criminals.
+The shrine in which you now stand marks the peak of a large pyramid that has
+perhaps been used for just such a purpose.
+~
+S
+#2307
+The Chamber of Preparation~
+   The floor is completely covered in sand and looks almost undisturbed
+apart from your own footsteps. The only items of significance within the
+chamber are the two altars in its' center.
+~
+22 d 0
+D1
+~
+~
+0 0 2308
+D2
+~
+~
+0 0 2310
+E
+trinkets~
+0~
+You can see nothing here worth your while.
+~
+S
+#2308
+The Chamber of Preparation~
+   The northern side of the chamber looks no different to any other
+area you can see around you. The chamber is bare apart from two altars which
+lie in the center of this place to the south.
+~
+22 d 0
+D1
+~
+~
+0 0 2309
+D2
+~
+~
+0 0 2311
+D3
+~
+~
+0 0 2307
+S
+#2309
+The Chamber of Preparation~
+   You tread silently through the sand covered floor and listen to the small
+squeaking noise you make as you move. It's about the only item that sparks
+any interest for you apart from the two altars to the south west.
+~
+22 d 0
+D2
+~
+~
+0 0 2312
+D3
+~
+~
+0 0 2308
+E
+snake~
+0~
+You're somewhat surprised to see that this skin is over 5 feet long and
+has what look like arms and legs attached to it! Perhaps you don't want to
+meet the creature that once belonged to this.
+~
+S
+#2310
+The Chamber of Preparation~
+   You trip and fall over a slightly raised section of sandstone which has
+been used to create the floor of this chamber. A layer of sand covers the
+surface of the floor thus making it difficult to see any further pitfalls.
+The center of the chamber lies to the east of here.
+~
+22 d 0
+D0
+~
+~
+0 0 2307
+D1
+~
+~
+0 0 2311
+D2
+~
+~
+0 0 2313
+S
+#2311
+The Chamber of Preparation~
+   You are in the center of a medium sized chamber with torches equally spaced
+around the walls, providing adequate light for the surroundings. Two sandstone
+altars lie either side of you stained red with blood.
+   A small flight of stairs disappears into the ceiling.
+~
+22 du 0
+R zigg_recess.lua 32
+D0
+~
+~
+0 0 2308
+D1
+~
+~
+0 0 2312
+D2
+~
+~
+0 0 2314
+D3
+~
+~
+0 0 2310
+D4
+~
+~
+0 0 2303
+D5
+~
+secret altar~
+2 -1 2321
+E
+recess~
+0~
+The recess is only about as large as your hand and has been carved into a
+shape you can't quite make out. You notice a little symbol engraved into the
+back of the recess which has been painted a golden color.
+~
+E
+altars~
+0~
+Hieroglyphics on each alter depict the final rites - the last phase of life
+before the transition to death. There is also a small recess on one of the
+altars.
+~
+S
+#2312
+The Chamber of Preparation~
+   The eastern side of the chamber is no different from the northern or
+western sides from what you can see. Stairs lead to the level above just
+west of here where you can also see two stone altars, but these are the
+only interesting items within the chamber.
+~
+22 d 0
+D0
+~
+~
+0 0 2309
+D2
+~
+~
+0 0 2315
+D3
+~
+~
+0 0 2311
+S
+#2313
+The Chamber of Preparation~
+   The sand here is stained with blood, apparently not that old since it is
+still red in color although no longer moist. A trail of blood leads from this
+corner of the chamber to the north east.
+~
+22 d 0
+D0
+~
+~
+0 0 2310
+D1
+~
+~
+0 0 2314
+S
+#2314
+The Chamber of Preparation~
+   You move quickly along the southern wall, afraid that your intrusion
+into this place may awaken something that should remain forever asleep.
+You have the strangest feeling you are being watched but decide that your
+own imagination is over-active.
+~
+22 d 0
+D0
+~
+~
+0 0 2311
+D1
+~
+~
+0 0 2315
+D3
+~
+~
+0 0 2313
+S
+#2315
+The Chamber of Preparation~
+   The floor is completely covered in sand and looks almost undisturbed
+apart from your own footsteps. The only items of significance within the
+chamber are the two altars in its' center.
+~
+22 d 0
+D0
+~
+~
+0 0 2312
+D3
+~
+~
+0 0 2314
+E
+gobbledygook~
+0~
+What are you doing looking for one of those?
+~
+S
+#2316
+A Sandstone Passageway~
+   It is now impossible to squeeze more than one person through the narrow
+passageway and it is becoming increasingly difficult to get yourself through
+with all of your equipment on. The passage turns here and you can travel to
+the south or east.
+~
+22 di 0
+D1
+~
+~
+0 0 2317
+D2
+~
+~
+0 0 2320
+S
+#2317
+A Sandstone Passageway~
+   The sandstone passage closes in to the west making it difficult to fit
+more than one person through at a time. The sandy floor is slightly uneven
+suggesting the sandstone floor beneath is not as solid as it should be.
+~
+22 d 0
+D1
+~
+secret wall~
+2 -1 2318
+D3
+~
+~
+0 0 2316
+S
+#2318
+A Sandstone Passageway~
+   You notice the small holes in the wall just a little too late. The skeleton
+lying on the floor is also another sign that perhaps all is not as it should
+be in this part of the passage. Footprints terminate here and have arrived
+from the east.
+~
+22 cd 0
+R darts.lua 4
+D1
+~
+~
+0 0 2319
+D2
+~
+~
+0 0 2322
+D3
+~
+secret wall~
+2 -1 2317
+E
+holes~
+0~
+There are too many to count and they are no larger than a gold coin.
+~
+E
+skeleton~
+0~
+This poor fellow doesn't appear to have been dead for that long, apart from
+the fact that the skeleton is all that remains. His only legacy is the
+scrawled "Beware pit" he has left in the sand.
+~
+S
+#2319
+A Sandstone Passageway~
+   The passage bends here and continues to the west and south. The footprints
+continue their journey down the middle of the passage. Torches still line
+the walls providing adequate light.
+~
+22 d 0
+D2
+~
+~
+0 0 2323
+D3
+You can't quite see down the passage.
+~
+~
+0 0 2318
+S
+#2320
+A Sandstone Passageway~
+   You have to turn on your side in order to make it through the narrow
+passageway and on more than one occasion you become stuck, requiring a lot
+of effort to continue on. You can travel to the north or south.
+~
+22 di 0
+D0
+~
+~
+0 0 2316
+D2
+~
+~
+0 0 2324
+S
+#2321
+A Sandstone Passageway~
+   You stand at the base of a narrow staircase that winds its way into the
+floor above. It doesn't appear as if anything or anyone has journeyed through
+these passages recently judging by the sandy floor which looks completely
+undisturbed. There are torches along the walls burning brightly but it doesn't
+appear as if you could remove any of them. You can venture into the passages
+by moving to the south.
+~
+22 cd 0
+D2
+~
+~
+0 0 2325
+D4
+~
+secret trapdoor~
+2 2200 2311
+S
+#2322
+A Sandstone Passageway~
+   You come face to face with the end of the passageway. You notice a small
+recess on the southern wall and there appears to no other way out of here
+apart from the exit to the north.
+~
+22 d 0
+R zigg_recess.lua 32
+D0
+~
+~
+0 0 2318
+E
+recess~
+0~
+There is a small picture of what looks likes a crystal gem.
+~
+S
+#2323
+A Sandstone Passageway~
+   A single set of footprints begins here and follows the passage to the
+north, which isn't necessarily interesting apart from the fact that they do
+not appear to have come from the south.
+~
+22 d 0
+D0
+~
+~
+0 0 2319
+D2
+~
+secret wall~
+2 -1 2327
+S
+#2324
+A Sandstone Passageway~
+   It may only be your imagination in the close confines of the passage but
+it feels as if the floor is somewhat unstable. Clearing away a small section
+of sand, you can see that you are indeed walking along sandstone blocks but
+by applying enough pressure, you can ever so slightly move them. You would
+be wise to watch where you tread from here on.
+   Just before you move on, you notice a brass plate affixed to the wall.
+~
+22 di 0
+R zigg_warning.lua 2
+D0
+~
+~
+0 0 2320
+D2
+~
+~
+0 0 2328
+E
+plate~
+0~
+It simply says "Those of light foot can only follow the true path."
+~
+S
+#2325
+A Sandstone Passageway~
+   The passageway turns here and proceeds to the north and east. Not a sound
+can be heard except your own labored breathing, your footsteps muffled by
+the light covering of sand on the floor.
+~
+22 d 0
+D0
+~
+~
+0 0 2321
+D1
+~
+~
+0 0 2326
+S
+#2326
+A Sandstone Passageway~
+   Out of the corner of your eye, you notice a small section of hieroglyphics
+on the passage wall. The passage itself stretches away to the west and east
+of here.
+~
+22 d 0
+D1
+~
+~
+0 0 2327
+D3
+~
+~
+0 0 2325
+E
+hieroglyphics~
+0~
+The pictures depict a figure crossing a large pit filled with spikes. A small
+inscription reads: "Enlightenment can only be attained through the sacrifice
+of that which is worldly."
+~
+S
+#2327
+A Sandstone Passageway~
+   There is still no sign of activity within this passage which might possibly
+be a relief. At least you have the time to study your surroundings although
+there is nothing more interesting here than sand and sandstone.
+~
+22 du 0
+D0
+~
+secret wall~
+2 -1 2323
+D2
+~
+~
+0 0 2331
+D3
+~
+~
+0 0 2326
+S
+#2328
+A Sandstone Passageway~
+   You have difficultly keeping your footing as the floor becomes even less
+stable than before. It's almost as if a force was trying to pull you down
+into the lower levels and you decide that perhaps this is not the best place
+to remain standing. You can follow the passageway to the north or east but
+you will still have to travel by yourself as it is too narrow to fit more
+than one person.
+~
+22 cdi 0
+R zigg_dt.lua 4
+D0
+~
+~
+0 0 2324
+D1
+~
+~
+0 0 2329
+S
+#2329
+A Sandstone Passageway~
+   The sandstone passage stretches onward into the darkness providing no
+clue as to its final destination, although the corridor is now wide enough
+here to allow free movement. The blocks on the floor move infrequently
+but you feel secure that nothing untoward will happen. There is an unnatural
+blue glow coming from the passage walls and you feel as if something passes
+through you.
+~
+22 dh 0
+D1
+~
+~
+0 0 2330
+D3
+~
+~
+0 0 2328
+S
+#2330
+A Sandstone Passageway~
+   Deathly silence greets you as you reach the end of the passage. Stairs
+descend into the darkness, twisting away sharply to the left preventing you
+from seeing what lies ahead. The hairs on the back of your neck and arms
+tell you that perhaps you are not alone but you can see nothing nearby.
+~
+22 cdh 0
+D3
+~
+~
+0 0 2329
+D5
+The stairs turn away and you cannot see any further down.
+~
+~
+0 0 2345
+S
+#2331
+A Sandstone Passageway~
+   The passageway abruptly ends here and you are left with no alternative
+but to travel back the way you have come. There is, however, a small recess
+on the southern wall which catches your attention.
+~
+22 d 0
+R zigg_recess.lua 32
+D0
+~
+~
+0 0 2327
+E
+recess~
+0~
+There is nothing remarkable about the recess although there is a picture of
+a small figure painted in silver within it.
+~
+S
+#2332
+The Bottom of a Pit~
+   Your fall is unmercifully long and its end is rather painful. You crash
+heavily on the sandstone block that gave way on the level above and roll off
+onto a number of sharp spikes that protrude from the ground. Your life ends
+here!
+~
+22 bcd 0
+S
+#2333
+A Large Crypt~
+   You travel to the north western corner of the crypt and are careful to
+avoid bumping into one of the statues. You feel slightly paranoid that by
+doing so, you might wake one of them up even though they are made from stone!
+There is nothing else of interest here so perhaps you should move on.
+~
+22 ad 0
+D1
+~
+~
+0 0 2334
+D2
+~
+~
+0 0 2338
+S
+#2334
+A Large Crypt~
+   You arrive at the eastern entrance to a large chamber decorated with gold
+leaf and designs carved into the sandstone walls. Large statues have been
+placed at regular intervals along each wall, perhaps to watch over the dozen
+or so stone boxes which have been set into the walls themselves. The chamber
+has two exits; one to the east and the other further away to the south west.
+~
+22 ad 0
+D1
+~
+~
+0 0 2335
+D2
+~
+~
+0 0 2339
+D3
+~
+~
+0 0 2333
+E
+boxes~
+0~
+On closer inspection, you realize each and every one of them is a coffin.
+They have been set into each wall, two on the lower level and another two
+on a slightly higher level.
+~
+S
+#2335
+The Grand Chamber~
+   This is the northern end of a passage that allows access to two smaller
+chambers; one to the west and the other to the east. You can also follow
+the passage southwards to its beginning.
+~
+22 d 0
+D1
+~
+~
+0 0 2336
+D2
+~
+~
+0 0 2340
+D3
+~
+~
+0 0 2334
+S
+#2336
+A Large Crypt~
+   The chamber appears to be an impromptu crypt with bones and skulls
+littering the floor. A small sandstone altar sits in the middle of the room,
+perhaps sacrificial in nature. You can travel further into the chamber or
+leave to the west.
+~
+22 ad 0
+D1
+~
+~
+0 0 2337
+D2
+~
+~
+0 0 2341
+D3
+~
+~
+0 0 2335
+S
+#2337
+A Large Crypt~
+   An icy chill descends upon you and an involuntary shiver courses through
+your body. The evil within this chamber is almost a visible entity and you
+can only wonder at how the poor creatures in this place must have died.
+~
+22 ad 0
+D2
+~
+~
+0 0 2342
+D3
+~
+~
+0 0 2336
+S
+#2338
+A Large Crypt~
+   The chamber in which you now stand is exquisitely decorated with gold
+leaf and designs carved into the sandstone walls. You scan the room and
+are amazed to see over a dozen stone boxes set into the wall at regular
+intervals. Large statues appear to stand guard over something you cannot
+see and perhaps don't want to. The chamber has two exits; one to the south
+and the other further away to the north east.
+~
+22 ad 0
+D0
+~
+~
+0 0 2333
+D1
+~
+~
+0 0 2339
+D2
+~
+~
+0 0 2343
+E
+statues~
+0~
+They appear to represent the individuals buried within these coffins.
+~
+E
+boxes~
+0~
+On closer inspection, you realize each and every one of them is a coffin.
+They have been set into each wall, two on the lower level and another two
+on a slightly higher level.
+~
+S
+#2339
+A Large Crypt~
+   You notice that each of the statues within the chamber faces into the
+center as if they are ready to defend en masse. There might be something
+of importance within one of the coffins but each appears to be completely
+sealed and you have no way of prying one open.
+~
+22 ad 0
+D0
+~
+~
+0 0 2334
+D3
+~
+~
+0 0 2338
+S
+#2340
+The Grand Chamber~
+   Your steps echo as you make your way down the long passage. The pillars
+on either side enhance the effect which becomes deafening at times, enough
+even to wake the dead. The passage ends further to the north while the center
+of this grand chamber lies to the south.
+~
+22 d 0
+D0
+~
+~
+0 0 2335
+D2
+~
+~
+0 0 2345
+S
+#2341
+A Large Crypt~
+   Amongst the mess around you stands a solitary skeletal warrior, covered
+in all manner of armor and wielding a sword. It doesn't move, however, and
+simply watches over the chamber around you. You could swear the ghostly eyes
+track your movements but it may simply be your active imagination.
+~
+22 ad 0
+D0
+~
+~
+0 0 2336
+D1
+~
+~
+0 0 2342
+E
+warrior~
+0~
+You maintain a safe distance just in case the thing decides to move!
+~
+S
+#2342
+A Large Crypt~
+   You trip over a large thigh bone and narrowly avoid hitting your head
+on one of the numerous skulls and assorted other bones which cover the chamber
+floor. It appears as if the chamber has been used as a slaughter house, a
+makeshift crypt for the unfortunate victims left within. You can leave the
+chamber to the south or progress further inside to the north and west.
+~
+22 ad 0
+D0
+~
+~
+0 0 2337
+D2
+~
+~
+0 0 2347
+D3
+~
+~
+0 0 2341
+S
+#2343
+The Grand Chamber~
+   The work that must have gone into the construction of this place is
+beyond comprehension. Sandstone pillars stretch high into the air, supports
+for the roof of this chamber. The end of the passage you are in opens into
+two smaller chambers to the north and south and also continues eastward.
+~
+22 d 0
+D0
+~
+~
+0 0 2338
+D1
+~
+~
+0 0 2344
+D2
+It looks empty from here.
+~
+~
+0 0 2348
+S
+#2344
+The Grand Chamber~
+   As you admire the construction of this chamber, a shriek pierces the
+otherwise silent surrounds and you stand immediately on guard. However, it
+happens only once and the silence again descends upon you. You can travel
+to the west along the passage or east to the center of the chamber.
+~
+22 d 0
+D1
+~
+~
+0 0 2345
+D3
+~
+~
+0 0 2343
+S
+#2345
+The Grand Chamber~
+   You mouth drops at the sights before you...this place is absolutely huge!
+You are standing in the center of an enormous chamber, four pillars encased
+in gold form a square around the staircase that allows entry to both the
+levels above and below. Smaller pillars line either side of wide passages
+which lead in all directions. Large torches hang from each of the larger
+pillars.
+   A circular staircase allows access to the levels above and below.
+~
+22 d 0
+D0
+~
+~
+0 0 2340
+D1
+~
+~
+0 0 2346
+D2
+~
+~
+0 0 2350
+D3
+~
+~
+0 0 2344
+D4
+The stairs twist away and you cannot see clearly as to what lies up there.
+~
+~
+0 0 2330
+D5
+The stairs allow access to the level below.
+~
+~
+0 0 2394
+E
+torches~
+0~
+They are also too high up for you to get.
+~
+S
+#2346
+The Grand Chamber~
+   The effort required to build this chamber alone must have been phenomenal
+and you wonder what purpose it serves. The pillars alone have appear to have
+been hand carved, each with intricate designs that must have taken some time.
+You may continue to the west or east of here.
+~
+22 d 0
+D1
+~
+~
+0 0 2347
+D3
+~
+~
+0 0 2345
+S
+#2347
+The Grand Chamber~
+   Chambers open up to the north and south of the passage which stretches
+away to the west. This grand chamber has been decorated lavishly judging by
+the amount of gold leaf that adorns the pillars but you would be hard
+pressed to remove any of it.
+~
+22 d 0
+D0
+~
+~
+0 0 2342
+D2
+~
+~
+0 0 2352
+D3
+~
+~
+0 0 2346
+S
+#2348
+An Empty Chamber~
+   This chamber is rather nondescript and contains nothing that could help
+you determine its purpose. The only interesting thing is the blue glow that
+comes from the chamber walls, pulsating at regular intervals as if it were
+a living entity.
+~
+22 cd 0
+R load_recall.lua 2
+D1
+~
+~
+0 0 2349
+D2
+~
+~
+0 0 2353
+S
+#2349
+An Empty Chamber~
+   You quickly scan the nearby walls but they have been sanded down to a
+smooth surface allowing an easy examination but preventing you from climbing
+up if you had even contemplated it. The blue glow continues and seems to
+increase in intensity the longer you stay.
+~
+22 d 0
+D2
+~
+~
+0 0 2354
+D3
+~
+~
+0 0 2348
+S
+#2350
+The Grand Chamber~
+   A cool breeze suddenly appears from nowhere and despite the layer of
+clothing and armor that you wear, it chills you to the bone. There is a
+presence down here that feels somewhat unnatural and perhaps it is your job
+to find out what it is. The large passage continues to the north and south.
+~
+22 d 0
+D0
+~
+~
+0 0 2345
+D2
+~
+~
+0 0 2355
+S
+#2351
+A Storage Chamber~
+   This is the north western corner of the chamber where you find there is no
+escape from the smell which permeates this place. One of the sandstone vessels
+has broken and a few of its contents have spilled out onto the chamber floor.
+You can move about the chamber to the east or south.
+~
+22 ad 0
+D1
+~
+~
+0 0 2352
+D2
+~
+~
+0 0 2356
+E
+contents~
+0~
+Whatever was inside the vessel has been wrapped in bandages and judging by
+the smell that hangs around, you decide not to investigate further.
+~
+S
+#2352
+A Storage Chamber~
+   Moving around within this chamber is difficult but not impossible due to
+a number of large sandstone vessels. They have been placed in a grid-like
+formation and the smell that fills the chamber makes you wonder if it's worth
+staying.
+~
+22 ad 0
+D0
+~
+~
+0 0 2347
+D2
+~
+~
+0 0 2357
+D3
+~
+~
+0 0 2351
+E
+vessels~
+0~
+They are large containers, similar to an oversized vase and after looking
+inside you are sick to your stomach. There is the distinct smell of decay
+coming from each and you pull out a small wrapped parcel from one of them.
+You are horrified to find what looks like a human heart and decide that
+maybe you should put it back and forget about it.
+~
+S
+#2353
+An Empty Chamber~
+   Your movements create sounds that simply reflect off the polished chamber
+walls. Unfortunately, that's about all you can do within this chamber since
+it is devoid of anything remarkable. The blue glow continues and appears to
+increase in intensity the longer you remain.
+~
+22 d 0
+D0
+~
+~
+0 0 2348
+D1
+~
+~
+0 0 2354
+S
+#2354
+An Empty Chamber~
+   The chamber is completely empty and you cannot see an exit nearby. The
+chamber walls glow with an unnatural blue light and you must now decide
+what to do.
+~
+22 cd 0
+R load_recall.lua 2
+D0
+~
+~
+0 0 2349
+D3
+~
+~
+0 0 2353
+S
+#2355
+The Grand Chamber~
+   You are at the end of the southern passage with smaller chambers to the
+west and east of here. A large tapestry hangs from the southern wall but
+is securely fastened with metal studs preventing its removal.
+~
+22 d 0
+D0
+~
+~
+0 0 2350
+D1
+~
+~
+0 0 2356
+D3
+It looks empty from here.
+~
+~
+0 0 2354
+E
+tapestry~
+0~
+The scene it depicts appears to describe the purpose of this place. It was
+built in honor of the great mage Razaak whose job it is to oversee the
+journey from the mortal world to the great beyond. This great ziggurat is
+actually a tomb and Razaak is in essence its caretaker.
+~
+S
+#2356
+A Storage Chamber~
+   You stand on a slightly raised portion of a large chamber which allows
+a good view of your surrounds. Sandstone vessels fill the chamber, each
+carefully placed to form a grid of sorts although for what reason you are
+unsure. To the west, the chamber exits into a passageway.
+~
+22 ad 0
+D0
+~
+~
+0 0 2351
+D1
+~
+~
+0 0 2357
+D3
+~
+~
+0 0 2355
+E
+vessels~
+0~
+They are large containers, similar to an oversized vase and after looking
+inside you are sick to your stomach. There is the distinct smell of decay
+coming from each and you pull out a small wrapped parcel from one of them.
+You are horrified to find what looks like a human heart and decide that
+maybe you should put it back and forget about it.
+~
+S
+#2357
+A Storage Chamber~
+   You continue to dodge and weave your way around the vessels and arrive
+in the corner of the chamber. A lengthy group of hieroglyphics might shed
+some light as to the purpose of the containers or you may decide to move
+towards the chambers' exits to the north and west.
+~
+22 ad 0
+D0
+~
+~
+0 0 2352
+D3
+~
+~
+0 0 2356
+E
+hieroglyphics~
+0~
+This level of the ziggurat was apparently used as a mass crypt, a resting
+place for both criminals and heroes of whatever race used to inhabit these
+lands. Criminals were put to death in a rather gruesome fashion while those
+of valor and courage were afforded an almost royal burial. The vessels you
+see before you were used as storage containers for their organs, perhaps part
+of some religious belief.
+~
+S
+#2358
+A Sandstone Passageway~
+   The sandstone passage bends here and travels to the south and east. The sand
+covering the floor grows thin to the point of disappearing to the south,
+leaving nothing but the sandstone blocks from which this place has been made.
+~
+22 ad 0
+D1
+~
+~
+0 0 2359
+D2
+All you can see is the sand disappear the further you look. Other than that,
+it's completely dark down there.
+~
+~
+0 0 2364
+S
+#2359
+A Sandstone Passageway~
+   You detect a light breeze coming from the west but you are at a loss as
+to what could cause it especially since you are now several levels below the
+surface. You can just make out a wall to the west while the passage also
+continues to the east.
+~
+22 ad 0
+D1
+~
+~
+0 0 2360
+D3
+~
+~
+0 0 2358
+S
+#2360
+A Sandstone Passageway~
+   You tread silently along the sandstone passage, the sand covered floor
+preventing any sound of your footsteps from being heard. The darkness of this
+place surrounds you as you progress further but you sense no immediate danger.
+You may continue to the west or east.
+~
+22 ad 0
+D1
+~
+~
+0 0 2396
+D3
+~
+~
+0 0 2359
+S
+#2361
+A Sandstone Passageway~
+   You tread silently along the sandstone passage, the sand covered floor
+preventing any sound of your footsteps from being heard. The darkness of this
+place surrounds you as you progress further but you sense no immediate danger.
+You may continue to the west or east.
+~
+22 ad 0
+D1
+~
+~
+0 0 2362
+D3
+~
+~
+0 0 2396
+S
+#2362
+A Sandstone Passageway~
+   You detect a light breeze coming from the east but you are at a loss as
+to what could cause it especially since you are now several levels below the
+surface. You can just make out a wall to the east while the passage also
+continues to the west.
+~
+22 ad 0
+D1
+~
+~
+0 0 2363
+D3
+~
+~
+0 0 2361
+S
+#2363
+A Sandstone Passageway~
+   The sandstone passage bends here and travels to the south and west. The sand
+covering the floor grows thin to the point of disappearing to the south,
+leaving nothing but the sandstone blocks from which this place has been made.
+~
+22 ad 0
+D2
+All you can see is the sand disappear the further you look. Other than that,
+it's completely dark down there.
+~
+~
+0 0 2369
+D3
+~
+~
+0 0 2362
+S
+#2364
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2358
+D2
+~
+~
+0 0 2370
+S
+#2365
+A Sandstone Passageway~
+   The passage bends here continuing to the south and east. You can hear a soft
+murmur further to the east which sounds like a chant of some kind but you
+cannot make out what it is.
+~
+22 ad 0
+D1
+~
+~
+0 0 2366
+D2
+~
+~
+0 0 2371
+S
+#2366
+A Sandstone Passageway~
+   You have reached the end of a sandstone passage which travels to the west
+and opens into a small chamber to the south. There is an electricity in the
+air that pulses through you, created by an unknown source but powerful enough
+to reach you.
+~
+22 acd 0
+D2
+~
+~
+0 0 2372
+D3
+~
+~
+0 0 2365
+S
+#2367
+A Sandstone Passageway~
+   You have reached the end of a sandstone passage which travels to the east
+and opens into a small chamber to the south. There is an electricity in the
+air that pulses through you, created by an unknown source but powerful enough
+to reach you.
+~
+22 acd 0
+D1
+~
+~
+0 0 2368
+D2
+~
+~
+0 0 2373
+S
+#2368
+A Sandstone Passageway~
+   The passage takes a sharp ninety degree turn and continues to the west and
+south. You hear a soft chanting coming further from the west although it is
+difficult to understand what is being said.
+~
+22 ad 0
+D2
+~
+~
+0 0 2374
+D3
+~
+~
+0 0 2367
+S
+#2369
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2363
+D2
+~
+~
+0 0 2375
+S
+#2370
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2364
+D2
+~
+~
+0 0 2376
+S
+#2371
+A Sandstone Passageway~
+   The sandstone passage continues to the north and south, both directions
+stretching away into the darkness.
+~
+22 ad 0
+D0
+~
+~
+0 0 2365
+D2
+~
+~
+0 0 2377
+S
+#2372
+Razaak's Gateway~
+   The hair on your body stands on end as the air simply comes alive with
+power. The feeling increases the closer you move to the southern wall of this
+chamber as does the feeling that you should turn back and into the safety of
+the passage to the north.
+~
+22 ad 0
+D0
+~
+~
+0 0 2366
+D1
+~
+~
+0 0 2373
+D2
+~
+~
+0 0 2378
+S
+#2373
+Razaak's Gateway~
+   Flashes of light blind you, coming from an object to the south of here.
+The air is alive with a power you've never felt before and it grows stronger
+the further you progress into this chamber. The relative safety of the passage
+to the north beckons.
+~
+22 ad 0
+D0
+~
+~
+0 0 2367
+D2
+~
+~
+0 0 2379
+D3
+~
+~
+0 0 2372
+S
+#2374
+A Sandstone Passageway~
+   You trudge your way through a thick layer of sand which covers the
+passage floor and can continue to the north or south. You notice that yours
+are the only set of footprints in the sand.
+~
+22 ad 0
+D0
+~
+~
+0 0 2368
+D2
+~
+~
+0 0 2380
+S
+#2375
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2369
+D2
+~
+~
+0 0 2381
+S
+#2376
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2370
+D2
+~
+~
+0 0 2382
+S
+#2377
+A Sandstone Passageway~
+   The passageway extends to the north and opens into a chamber to the south.
+For a brief moment you thought you could see a flash of movement coming from in
+there, but after several minutes of observation you see nothing.
+~
+22 ad 0
+D0
+~
+~
+0 0 2371
+D2
+~
+~
+0 0 2383
+S
+#2378
+Razaak's Gateway~
+   The southern end of the chamber is dominated by a large circular object
+which stands at least 20 feet high. It has a number of hieroglyphics along the
+outer rim which might reveal something of the object's purpose. The center of
+the object contains some type of liquid that appears to defy most of the
+physical laws of this world.
+   It is difficult to remain here as surges of power course through your
+body, perhaps emanating from the object itself.
+~
+22 ad 0
+R zigg_portal.lua 32
+D0
+~
+~
+0 0 2372
+D1
+~
+~
+0 0 2379
+E
+object~
+0~
+You are reminded of a portal of some kind but there is only one way to find
+out if that is correct.
+~
+E
+hieroglyphics~
+0~
+They are indecipherable and look like nothing you've come across before.
+~
+S
+#2379
+Razaak's Gateway~
+   The southern end of the chamber is dominated by a large circular object
+which stands at least 20 feet high. It has a number of hieroglyphics along the
+outer rim which might reveal something of the object's purpose. The center of
+the object contains some type of liquid that appears to defy most of the
+physical laws of this world.
+   It is difficult to remain here as surges of power course through your
+body, perhaps emanating from the object itself.
+~
+22 ad 0
+R zigg_portal.lua 32
+D0
+~
+~
+0 0 2373
+D3
+~
+~
+0 0 2378
+E
+object~
+0~
+You are reminded of a portal of some kind but there is only one way to find
+out if that is correct.
+~
+E
+hieroglyphics~
+0~
+They are indecipherable and look like nothing you've come across before.
+~
+S
+#2380
+A Sandstone Passageway~
+   The passageway extends to the north and opens into a chamber to the south.
+~
+22 ad 0
+D0
+~
+~
+0 0 2374
+D2
+~
+~
+0 0 2386
+S
+#2381
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2375
+D2
+~
+~
+0 0 2387
+S
+#2382
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2376
+D2
+~
+~
+0 0 2388
+S
+#2383
+The Chamber of the Damned~
+   You shiver uncontrollably as the temperature within the chamber drops
+markedly. Ghostly figures pass by but pay no attention to you, more concerned
+with how to escape from their eternal damnation and reach eternal sleep. You
+can leave via the passage to the north or progress further into the chamber.
+~
+22 ad 0
+D0
+~
+~
+0 0 2377
+D1
+~
+~
+0 0 2384
+D2
+~
+~
+0 0 2389
+S
+#2384
+The Chamber of the Damned~
+   If you ever you doubted the existence of a place beyond this world, let
+your disbelief be abandoned. Spectral beings completely fill this chamber and
+move as if they have no direction or are lost. Some stare at you blankly,
+others pass straight through you oblivious to your presence.
+   You can move about the chamber to the west or south.
+~
+22 ad 0
+D2
+~
+~
+0 0 2390
+D3
+~
+~
+0 0 2383
+S
+#2385
+The Chamber of Warriors~
+   Hollow eyes return your gaze as you admire the numerous warriors who now
+reside in this chamber. All are wearing an impressive array of armors and
+carrying weapons the likes of which you have never seen. A silent force steers
+you away from the walls thus preventing you from taking any of these items.
+~
+22 adh 0
+D1
+~
+~
+0 0 2386
+D2
+~
+~
+0 0 2391
+S
+#2386
+The Chamber of Warriors~
+   You have the option of entering this chamber further to the west or south
+or leave through a small sandstone passage to the north. As far around the
+chamber as you can see, skeletal warriors stand at guard, honored in death by
+their heroic feats in life.
+~
+22 adh 0
+D0
+~
+~
+0 0 2380
+D2
+~
+~
+0 0 2392
+D3
+~
+~
+0 0 2385
+S
+#2387
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2381
+D2
+~
+~
+0 0 2393
+S
+#2388
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2382
+S
+#2389
+The Chamber of the Damned~
+   Despite the countless apparitions you see before you, you do not feel
+threatened by remaining here. They float aimlessly around, unsure of what
+direction to travel as if they do not realize they have passed beyond this
+world.
+   You can see a small passage leading away from the chamber to the north and
+another one further to the east.
+~
+22 ad 0
+D0
+~
+~
+0 0 2383
+D1
+~
+~
+0 0 2390
+S
+#2390
+The Chamber of the Damned~
+   The entrance to this chamber is quite grand with an elaborate arch instead
+of the standard square doorway you are used to. Despite that, however, the room
+has an evil presence about it and you could swear that many sets of eyes stare
+at you from beyond the mortal plane. The chamber extends to the north and west
+while a sandstone passage lies to the east.
+~
+22 ad 0
+D0
+~
+~
+0 0 2384
+D1
+~
+~
+0 0 2398
+D3
+~
+~
+0 0 2389
+S
+#2391
+The Chamber of Warriors~
+   The chamber is of a reasonable size and opens to the north and east where,
+like the place you now stand, skeletal warriors stand at regular intervals
+around the chamber wall. A small sandstone passage lies to the west where
+you can see another chamber across the way.
+~
+22 adh 0
+D0
+~
+~
+0 0 2385
+D1
+~
+~
+0 0 2392
+D3
+~
+~
+0 0 2398
+S
+#2392
+The Chamber of Warriors~
+   You walk along the wall, examining each warrior carefully and wondering
+about the deeds they must have performed in their mortal lives to allow them
+to be enshrined within this place. You can travel to the north or west.
+~
+22 adh 0
+D0
+~
+~
+0 0 2386
+D3
+~
+~
+0 0 2391
+S
+#2393
+A Sandstone Passageway~
+   You only have time to see the multiple small holes on either side of you
+covering the entire wall from top to bottom. After that, it all becomes a blur
+as hundreds of small needles zip across the passage and hit you in the process.
+~
+22 acd 0
+R darts.lua 4
+D0
+~
+~
+0 0 2387
+S
+#2394
+A Sandstone Passageway~
+   You have reached what appears to be the end of a sandstone passage, the
+walls closing in and coming to a point just to the south which leaves
+little room for you to move around. A set of stairs spirals their way up to
+the level above while the passage continues more openly to the north.
+~
+22 acd 0
+D0
+~
+~
+0 0 2395
+D2
+It looks like a small antechamber through there.
+~
+secret door~
+2 2215 2397
+D4
+The stairs allow access to the level above.
+~
+~
+0 0 2345
+S
+#2395
+A Sandstone Passageway~
+   The passage stretches away to the north and south; you can see it branch
+to the north while a set of stairs lies to the south. There are numerous
+scratch marks all over the walls as if something large has been dragged
+through here.
+~
+22 ad 0
+D0
+~
+~
+0 0 2396
+D2
+~
+~
+0 0 2394
+S
+#2396
+A Sandstone Passageway~
+   You have a choice here of traveling to the west, south or east although
+each direction looks exactly the same to you. A single torch has been
+affixed to the northern wall but provides little light to surrounding areas.
+~
+22 d 0
+D1
+~
+~
+0 0 2361
+D2
+~
+~
+0 0 2395
+D3
+~
+~
+0 0 2360
+E
+torch~
+0~
+The torch has been carved out of the sandstone wall and you have no way
+of removing it.
+~
+S
+#2397
+A Sandstone Passageway~
+   Unless you were standing in this very spot, you would not have known it
+even existed. The walls to the north and south have been cleverly disguised but
+they are in fact doors and it appears as if both require a key to open.
+~
+22 ad 0
+D0
+~
+door~
+2 2215 2394
+D2
+~
+door~
+2 2216 2398
+S
+#2398
+A Sandstone Passageway~
+   You have a choice here of entering one of two chambers; one to the west
+and the other to the east. Provided you have the correct key, you can also
+travel through the door to the north.
+~
+22 acd 0
+D0
+~
+door~
+2 2216 2397
+D1
+Looks like the chamber opens up in there.
+~
+~
+0 0 2391
+D3
+Looks like the chamber opens up in there.
+~
+~
+0 0 2390
+S
+#2399
+Free Room~
+   This room is incomplete.
+~
+22 0 0
+S
+$~

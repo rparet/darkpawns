@@ -1,0 +1,608 @@
+#4800
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+Perhaps a sailor who lost his ride home, he "volunteered" to keep the city
+clean in order to feed and clothe himself.
+~
+cdgnu 0 1000 E
+6 7 6d8+44 3d3
+5 734
+8 8 1
+Race: 1
+Script: janitor.lua 74
+E
+#4801
+citizen~
+the citizen~
+A citizen passes by eyeing you carefully.
+~
+Going about her business, the citizen is cautious about strangers...especially
+those that are armed.
+~
+dgu 0 600 E
+6 7 6d8+44 3d3
+5 734
+8 8 2
+Race: 1
+Script: citizen.lua 18
+E
+#4802
+local fisherman~
+a local fisherman~
+A local fisherman attempts to sell you some of his catch.
+~
+He can't be doing so well...his clothes are ragged, he smells strongly of
+fish and there's still a large selection in his cart. Perhaps you could
+take pity on him and toss a few coins his way?
+~
+bdlu 0 200 E
+36 61 36d8+648 4d5
+20 10800
+8 8 1
+Race: 1
+E
+#4803
+wealthy merchant~
+a wealthy merchant~
+A wealthy merchant looks at you with some disdain.
+~
+He obviously has better things to do with his time than stop and talk to
+you. His fine robes and large coin purse make him an excellent target for
+thieves.
+~
+dgu 0 -200 E
+36 61 36d8+648 4d5
+50 10800
+8 8 1
+Race: 1
+E
+#4804
+sailor~
+a sailor~
+A rough-looking sailor pushes past you, looking for the inn.
+~
+After a long voyage at sea, the sailor is looking for only one thing...beer!
+Best not to get in his way or even speak to him until he has a few pints under
+his belt.
+~
+dglu 0 -100 E
+45 79 45d8+905 5d5
+10 15093
+8 8 1
+Race: 1
+E
+#4805
+roughian thief~
+a roughian~
+A roughian hides in the shadows, waiting to strike.
+~
+Wrapped in dark clothing, the roughian uses the night and shadow to his
+advantage, stealing what he can and attempting to slip away undetected. It
+might be wise to check your coin purse...
+~
+cdghux pst -600 E
+48 85 48d8+997 5d5
+50 16627
+8 8 1
+Race: 1
+Script: thief.lua 128
+E
+#4806
+vendor~
+a vendor~
+A vendor eagerly hawks her wares.
+~
+She appears to be doing some very good business, her assortment of wares
+is almost gone. While she is a native of this port city, the vendor travels
+around the world selling rare and unique items to the many creatures she
+comes across.
+~
+bdu 0 400 E
+36 61 36d8+648 4d5
+30 10800
+8 8 0
+Race: 1
+E
+#4807
+town guard~
+a town guard~
+A town guard patrols the streets, watching for signs of trouble.
+~
+Wearing a distinctive vest of scale mail with a red sash, the town guard
+stands out in a crowd which is perhaps the idea behind his dress. Best be
+behaving when this guy strolls by.
+~
+dglnu 0 500 E
+48 85 48d8+997 5d5
+5 16627
+8 8 1
+Race: 1
+Script: cityguard.lua 386
+E
+#4808
+constable~
+the constable~
+The town's constable eyes you up and down.
+~
+This tall man appears to be a well-trained warrior.  His biceps and pectorals
+bulge though his silken shirt while his abdominals muscles appear to be trying
+thrust his belt dagger through its scabbard within his waistband.
+~
+deglms df 300 E
+80 154 80d8+2146 7d7
+100 35777
+8 8 1
+Race: 1
+Script: guard_captain.lua 128
+E
+#4809
+Hrenchao~
+Hrenchao~
+Hrenchao stands here, patiently awaiting a customer.
+~
+Hrenchao is an old, old man. His tanned, yellow skin is mottled with spots of
+age, while his face bears the wrinkles and scars of the adventures of many
+decades.
+~
+abdly k 0 E
+100 199 100d8+3000 9d9
+30000 50000
+8 8 1
+Race: 1
+E
+#4810
+rakshasan adventurer~
+a rakshasan adventurer~
+A rakshasan adventurer nods at you as you pass.
+~
+Certainly a long way from home, the rakshasan adventurer is probably here
+for the same reasons as yourself. He looks quite capable of defending himself
+should the need arise.
+~
+cdg f -300 E
+48 85 48d8+997 5d5
+30 16627
+8 8 1
+BareHandAttack: 8
+Race: 4
+E
+#4811
+lin chao bartender~
+Lin Chao, the bartender~
+Lin Chao stands here, tending the bar.
+~
+A portly, yellow-skinned man, Lin Chao appears to be in his midlife, with
+slightly greying hair mingled amid the strands of black.
+~
+abdy k 500 E
+100 199 100d8+3000 9d9
+5000 50000
+8 8 1
+Race: 1
+E
+#4812
+ninjen woman customs official~
+Nijen~
+A customs official smiles pleasantly as you enter her office.
+~
+Nijen seems to be doing rather well for herself for a customs official. Her
+smile makes you wonder if perhaps she can persuaded to look the other way
+while you conduct your business.
+~
+abdl 0 600 E
+100 199 100d8+3000 9d9
+100 50000
+8 8 2
+Race: 1
+Script: clerk.lua 8
+E
+#4813
+scribe~
+a legal scribe~
+A scribe sits here, completing passes and permits.
+~
+This young man appears to be well-suited for the life of a scribe. His long,
+dextrous fingers quickly scribble down orders and requisitions for those who
+pay the necessary fees. His hawkish nose is windburned and peeling, while
+sweat pours off his lithe frame, drenching his stained white scribe's robes.
+~
+bdhm 0 500 E
+48 85 48d8+997 5d5
+10 16627
+8 8 1
+Race: 1
+E
+#4814
+yao tai channeler~
+Yao Tai~
+A channeler of spirits and ghosts is here, casting her eyes upward.
+~
+This woman appears to be in a daze, her whispers quiet mutterings to the air,
+apparently receiving answers to her words. Her eyes are glazed but her
+expressions are lucid.
+~
+bdn dfhk -100 E
+90 176 90d8+2561 8d8
+1000 42690
+8 8 2
+Race: 1
+E
+#4815
+gate guard~
+a gate guard~
+A gate guard stands here, inspecting people as they pass by.
+~
+Lean and tense, this guard seems hypervigilant and well-suited to protecting
+the citizens of this city.
+~
+bdelp 0 500 E
+72 136 72d8+1832 6d7
+10 30547
+8 8 1
+Race: 1
+Script: cityguard.lua 386
+E
+#4816
+cult priest~
+a cult priest~
+A priest of the cult bows low, welcoming you.
+~
+Cloaked in thick white robes, you can make out no facial features.  His
+hands are smooth, with long tapered fingers however, betraying the man's
+age to be young.
+~
+bd 0 -300 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 1
+E
+#4817
+dock worker~
+a dock worker~
+A muscled dockworker is here, carrying crates around.
+~
+Tanned and rippling with muscles, this native Xixieqian seems to earn his
+living by carrying heavy crates from the dockyard onto the ships for export.
+~
+bdm 0 100 E
+54 98 54d8+1190 5d6
+20 19840
+8 8 1
+Race: 1
+E
+#4818
+patale mage sorceress~
+Patale, the sorceress~
+Patale the sorceress is standing here.
+~
+Surrounded by a shimmering aura, the sorceress is clothed in a set of silken
+robes which almost seem invisible to the untrained eye...they have the unique
+ability of being able to bend light and you must constantly refocus your eyes
+to look at the sorceress.
+~
+bd h 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 2
+Race: 1
+Script: town_teleport.lua 512
+E
+#4819
+Ping Xiao~
+Ping Xiao~
+Ping Xiao stands here, overseeing the gaming, gambling, and bartending.
+~
+Marred with pockmarks from oversampling of his stock, this slender man leans
+over a game of bones, wary of any cheaters.
+~
+abdy 0 500 E
+90 176 90d8+2561 8d8
+2500 42690
+8 8 1
+Race: 1
+E
+#4820
+Ta'lon Chao~
+Ta'lon Chao~
+Ta'lon Chao sits here, mixing reagents.
+~
+This woman appears to me in late-middle age, her yellow skin has grown brown
+as the years have passed, leading you to believe that she is much older than
+she appears.
+~
+abdly km 500 E
+96 190 96d8+2821 8d9
+20000 47030
+8 8 1
+Race: 1
+E
+#4821
+soo lin tao stable~
+Soo Lin Tao~
+Soo Lin Tao stands here, tending to the stabled mounts.
+~
+He's dressed in some decent leather breeches and a matching vest. He
+has an air about him that seems to reflect his knowledge of mounts, and
+stench about him that definitely reflects his commitment to the job.
+~
+abdlnp 0 0 E
+100 199 100d8+3000 9d9
+1 50000
+8 8 1
+Race: 1
+Script: stable.lua 1
+E
+#4822
+Moo Shi armorer armourer~
+Moo Shi, the armorer~
+Moo Shi, the armourer, stands here, hammering metal on an anvil.
+~
+Powerfully built, this man appears to be working on fashioning a new set of
+scale armour. His face is hairless, as are his muscled arms, evidence of many
+hours working with hot steel and iron.
+~
+abdy k 500 E
+95 188 95d8+2777 8d9
+40000 46297
+8 8 1
+Race: 1
+Noise: You hear the sound of metal-working to the east.
+E
+#4823
+camel carve_meat~
+a camel~
+A camel stands here, chewing on some grass.
+~
+It's a sturdy beast and has a makeshift saddle attached to provide some
+comfort to its rider.
+~
+dv 0 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 2
+BareHandAttack: 9
+Race: 33
+Script: mount.lua 64
+E
+#4824
+mata weaponer~
+Mata, the weaponsmith~
+Mata stands here, chiseling a whetstone from granite.
+~
+Lean and obviously skilled with blades, this merchant gestures you to examine
+his wares.
+~
+abdy k 500 E
+95 188 95d8+2777 8d9
+40000 46297
+8 8 1
+Race: 1
+E
+#4825
+callandra teacher sorceress~
+Callandra~
+A young sorceress sits in the corner with a large pile of books before her.
+~
+Quite young, and you surmise, quite inexperienced as well, the sorceress
+appears to be studying a number of magickal texts. While she is capable of
+defending herself in battle, she doesn't look as if she would venture far
+from the streets of the city.
+~
+bd d 0 E
+50 89 50d8+1060 5d6
+0 17677
+8 8 2
+Race: 1
+Script: teacher.lua 512
+E
+#4826
+Yuang Li Tao~
+Yuang Li Tao, the weaver~
+Yuang Li Tao, the weaver, is here, weaving fine silken fabric.
+~
+An old woman, Yuang Li Tao sits here creating beautiful silken fabric even as
+the last days of her life pass. Her work is exquisite, and fine silken shirts
+hang from the walls.
+~
+bcdnry k 0 E
+100 199 100d8+3000 9d9
+6000 50000
+8 8 2
+Race: 1
+E
+#4827
+postman~
+the postman~
+The postman is here, shuffling through his mail.
+~
+He's liable to go postal on you at any moment.
+~
+abdnpqr 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+E
+#4828
+Meng~
+Meng~
+Meng stand here, trying to interest you in provisions.
+~
+This man appears to be the classic Xixieqian. Yellow skin, brown eyes, short
+black hair, and almond-shaped eyes clearly show his heritage.
+~
+abdy k 500 E
+100 199 100d8+3000 9d9
+20000 50000
+8 8 1
+Race: 1
+E
+#4829
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 1
+Script: shop_give.lua 8
+E
+#4830
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 1
+Script: shop_give.lua 8
+E
+#4831
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 1
+Script: shop_give.lua 8
+E
+#4832
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 1
+Script: shop_give.lua 8
+E
+#4833
+aetos banker~
+Aetos, the banker~
+Aetos stands ready to serve you.
+~
+About the same height and build as you, Aetos smiles warmly as you enter the
+bank. Clothed in a modest set of robes, he looks a bit out of place but is
+here to serve you nonetheless.
+~
+bdnpry 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 1
+Script: banker.lua 8
+E
+#4834
+local blacksmith black smith~
+the blacksmith~
+The local blacksmith hammers away at a piece of steel.
+~
+Dripping with sweat from the roaring fire and hard work, the local blacksmith
+is responsible for repairing and maintaining all manner of items for the
+town's citizens. With bulging muscles and standing much taller than you, this
+individual is not to be messed with!
+~
+abdy 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Noise: The sound of metal striking metal rings out clearly.
+E
+#4842
+ban brother~
+a ban brother~
+One of the Ban Brothers stands here, sorting items.
+~
+He is dressed in some shabby second-hand clothes, but has the widest smile
+you've ever seen. He stands around in this make shift housing, sorting used
+items of all sorts of quality for the less fortunate.
+~
+bden k 200 E
+45 79 45d8+905 5d5
+0 15093
+8 8 1
+Race: 1
+Script: donation.lua 64
+E
+#4847
+tattoist tattoo dark dark-skinned man~
+a tattooist~
+A dark-skinned man sits hunched on a stool.
+~
+This man's skin is dark, but it's impossible to tell whether it's his natural
+color, due to the tattoos covering every exposed inch of his flesh, or the
+darkness and filth of his surroundings. He has a wicked smile on his face, and
+holds a long, thin needle.
+~
+bdenpqr 0 -100 E
+72 136 72d8+1832 6d7
+1000 30547
+6 6 1
+Race: 1
+Script: tattoo.lua 516
+E
+#4848
+appraiser stocky man identifier~
+the appraiser~
+A stocky man sits at his desk, peering at an item intently.
+~
+This large, bulgy man is wearing heavy jewelry and some very slick Xixieqian
+clothes. He has a large magnifying lens pressed up to his eye, and he stares
+intently at a piece of jewelry attempting to gauge its value.
+~
+bdenpqy 0 500 E
+48 85 48d8+997 5d5
+200 16627
+6 6 1
+Race: 1
+Script: identifier.lua 520
+E
+#4849
+undertaker man~
+the undertaker~
+A tall, thin, black-clad man stands here, his face drained of any color.
+~
+This man could be mistaken for a statue, if not for his shallow breathing. The
+ominous look on his face gives you chills, and his darkness seems to envelop
+you, overpowering even the gloom of this dismal room.
+~
+abdenpq 0 1000 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 1
+E
+$

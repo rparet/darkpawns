@@ -1,0 +1,258 @@
+#14201
+helmet pitch black~
+a pitch-black helmet~
+A pitch-black helmet lies here.~
+~
+9 bjq ae 0
+10 0 0 0 4
+7 3 200 50 0 1
+E
+helmet black~
+This seems less like a singular piece of armor, but more like part of a set.
+~
+A
+24 5
+#14202
+coif lower black~
+a black lower coif~
+A black lower coif lies here.~
+~
+9 bjq ac 0
+10 0 0 0 5
+4 3 200 5 0 1
+A
+20 5
+#14203
+haute black~
+a black haute~
+A black haute sits here.~
+~
+9 bjq am 0
+5 0 0 0 5
+3 2 200 50 0 1
+#14204
+haute black banded~
+a black-banded haute~
+A black-banded haute lies here.~
+~
+9 bq am 0
+5 0 0 0 5
+2 2 200 40 0 1
+#14205
+sleeves black silk~
+a black silk set of sleeves~
+A black silk set of sleeves lies folded here.~
+~
+9 bjq ai 0
+5 0 0 0 5
+3 2 200 50 0 1
+#14206
+cloak black cloth~
+a black cloth cloak~
+A black cloth cloak lies here, unwanted.~
+~
+9 bjq ak 0
+5 0 0 0 5
+3 2 200 20 0 1
+#14207
+breastplate black breast plate~
+a black breastplate~
+A black breastplate sits here.~
+~
+9 bgq ad 0
+15 0 0 0 5
+25 3 500 8 0 1
+#14208
+vambraces black~
+a set of black vambraces~
+A set of black vambraces lies crumpled here.~
+~
+9 bgjq ai 0
+5 0 0 0 3
+4 2 200 50 0 1
+#14209
+bracer black~
+a black bracer~
+A solitary black bracer lies in the dirt here.~
+~
+9 bjq am 0
+6 0 0 0 5
+2 1 200 50 0 1
+#14210
+belt black leather~
+a black leather belt~
+A black leather belt lies here.~
+~
+9 bjq al 0
+3 0 0 0 5
+2 3 200 50 0 1
+#14211
+scabbard black~
+a black scabbard~
+A useless, but decorative scabbard lies here, refusing to house a blade.~
+~
+9 bjq al 0
+5 0 0 0 5
+5 2 200 40 0 1
+A
+18 3
+#14212
+tasset black~
+a black tasset~
+A black tasset is sitting here.~
+~
+9 bjq al 0
+3 0 0 0 5
+4 3 200 50 0 1
+#14213
+gauntlets black~
+some black gauntlets~
+A set of black chain gauntlets lies here, blessed by a dark god.~
+~
+9 bjq ah 0
+7 0 0 0 4
+2 3 200 50 0 1
+E
+black left gauntlet~
+It seems more of a smaller piece of a larger object.
+~
+A
+28 5
+#14214
+gloves black cloth~
+some black gloves~
+Some black gloves lies here in a heap.~
+~
+9 bjq ah 0
+4 0 0 0 5
+2 3 200 50 0 1
+E
+black right gauntlet~
+It seems less of a solitary object and more of a smaller part of a bigger whole.
+~
+#14215
+guard thumb spiked~
+spiked thumbguards~
+A scaled black thumbguard lies here, its point glistening with poison.~
+~
+9 bjq ab 0
+3 0 0 0 4
+1 3 2000 10 0 1
+A
+19 2
+#14216
+ringlets black~
+some black ringlets~
+A set of black ringlets is here, ready to protect your fingers.~
+~
+9 bjq ab 0
+2 0 0 0 5
+1 3 200 50 0 1
+E
+black right cuisse~
+It looks like it's missing a couple pieces.
+~
+A
+1 1
+#14217
+shinguards black~
+some black shinguards~
+A set of shinguards lies here.~
+~
+9 bjq af 0
+10 0 0 0 5
+3 3 200 50 0 1
+E
+black left poleyn~
+This seems like a joint in a suit of armor.
+~
+#14218
+kneeguards knee guards black~
+some black kneeguards~
+Some kneeguards lie here in good condition.~
+~
+9 bjq aq 0
+5 0 0 0 5
+3 2 200 50 0 1
+E
+black right poleyn~
+This seems like a joint from a large suit of armor.
+~
+#14219
+greaves steel black~
+some black steel greaves~
+A set of black steel greaves lies here.~
+~
+9 bjq af 0
+12 0 0 0 4
+5 3 200 50 0 1
+E
+left black greave~
+It seems to be a small part of a larger object.
+~
+#14220
+boots black steel~
+some black steel boots~
+Some human-sized black steel boots lie here.~
+~
+9 bjq ag 0
+6 0 0 0 4
+5 1 200 10 0 1
+E
+black right greave~
+It seems like a small part of a bigger object.
+~
+#14221
+helmet visor black visored~
+a black, visored helmet~
+A black, visored helmet lies here on the ground.~
+~
+9 bjq ae 0
+15 0 0 0 3
+5 3 500 5 0 1
+E
+black left sabaton~
+This seems like a smaller part of a larger object.
+~
+#14222
+armlets black~
+some black armlets~
+A set of stylish black armlets lie here~
+~
+9 bjq ai 0
+5 0 0 0 5
+5 2 200 5 0 1
+E
+black right sabaton~
+It seems like a small piece in a giant puzzle.
+~
+#14223
+armor black spiked~
+a suit of spiked, black armor~
+A suit of spiked, black armor stands here, looking malevolent.~
+~
+9 bgjlq ad 0
+25 0 0 0 3
+30 3 1000 100 0 1
+E
+black armor suit spiked~
+It bears the markings of Nevyn, the God of Strife, Hatred and Tyranny all over
+it and seems to glow with a sinister aura.
+~
+A
+19 2
+A
+1 1
+A
+24 -7
+A
+23 -7
+#14224
+corpse dagger~
+a corpse with a dagger in it~
+A corpse with a dagger stuck in it lies here, blocking the path.~
+~
+13 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+$~

@@ -1,0 +1,850 @@
+#20701
+Atop a Cairn~
+  You stand atop a cairn of rough granite.  From here you have a commanding
+view of the entire island and lake.  The stones that make up this cairn are
+rough and weathered.  You get the sense that they were moved here a very
+long time ago, and with great difficulty.  There appears to be a narrow gap
+in the stones which you might be able to squeeze down in to.  Otherwise,
+you can climb down the cairn to the south.
+~
+207 0 4
+D5
+~
+~
+0 0 20702
+S
+#20702
+Inside a Cairn~
+  You are crouched in a small pocket inside a rock cairn.  The granite
+walls are partially covered by thick, green moss here and there is a musty
+dampness in the air.  A set of rough-hewn stairs leads down into darkness,
+and a narrow gap in the cairn which you might be able to crawl through is
+directly above your head.
+~
+207 ad 0
+D4
+~
+~
+0 0 20701
+D5
+~
+~
+0 0 20703
+S
+#20703
+A Moss-Covered Stairwell~
+  The entire stairwell appears to have been carved out of the earth, which
+is damp and clay-like.  Thick green moss grows on almost every surface, making
+for slippery walking and musty air.  The stairwell opens up into two rooms,
+one above and one to the south.
+~
+207 ad 0
+D2
+~
+~
+0 0 20704
+D4
+~
+~
+0 0 20702
+S
+#20704
+A Mossy Room~
+  The stench of must hangs heavy in there air in this small, vaulted room.
+Green moss grows thick on every available surface here, with thick strings
+of it hanging down from the ceiling.  There is a stairwell to your north
+and a larger room to the south.
+~
+207 ad 0
+D0
+~
+~
+0 0 20703
+D2
+~
+~
+0 0 20706
+S
+#20705
+A Ruined Crypt~
+  Refuse from whoever robbed this tomb has been unceremoniously piled in
+the corner here.  Bits of broken bone jut out at odd angles from the rubble
+of smashed vault lids and funeral pottery.  There were several burial
+niches in the wall here, all have been cleaned out entirely leaving only
+empty sockets.
+~
+207 ad 0
+D1
+~
+~
+0 0 20706
+D2
+~
+~
+0 0 20708
+S
+#20706
+A Ruined Crypt~
+  This is the beginning of an expansive burial chamber that extends to the
+south.  The dead seem to have been buried in shallow pits in the floor and
+niches in the walls. The crypt has been obviously desecrated by someone or
+something, however.  Loose bones and funeral trapings have been ripped from
+the walls and floor and strewn about the chamber, forming small piles of
+refuse. The chamber extends to the south, where you can see alcoves in the
+far walls.
+~
+207 ad 0
+D0
+~
+~
+0 0 20704
+D1
+~
+~
+0 0 20707
+D2
+~
+~
+0 0 20709
+D3
+~
+~
+0 0 20705
+S
+#20707
+A Ruined Crypt~
+  The walls and floor here are a honeycomb of empty burial niches.  At one
+time hundreds of bodies must have been buried in this chamber.  Now all that
+remains are the empty sockets where bodies once lay and the refuse left
+behind by the looters.  The crypt extends to the south and west.
+~
+207 ad 0
+D2
+~
+~
+0 0 20710
+D3
+~
+~
+0 0 20706
+S
+#20708
+A Ruined Crypt~
+  The stench of decay is heavy in the air as you make your way about this
+tomb.  The niches in this section of the chamber seem to be clogged with
+unidentifiable refuse.  Upon further inspection of one of the floor vaults
+you realize that it is in fact a refuse-clogged stairway that leads down
+into darkness. The centre of the crypt is just to your east.
+~
+207 ad 0
+D0
+~
+~
+0 0 20705
+D1
+~
+~
+0 0 20709
+D2
+~
+~
+0 0 20711
+D5
+~
+~
+0 0 20722
+S
+#20709
+Centre of the Crypt~
+  The floor vault here is the largest in the entire crypt - obviously
+designated for someone of importance.  Now, however, it is nothing more
+than a shallow pit filled with pieces of smashed pottery and other funeral
+trapings.  The crypt extends in all directions.
+~
+207 ad 0
+D0
+~
+~
+0 0 20706
+D1
+~
+~
+0 0 20710
+D2
+~
+~
+0 0 20712
+D3
+~
+~
+0 0 20708
+S
+#20710
+A Ruined Crypt~
+  The stench of decay is heavy in the air as you make your way about this
+tomb.  The small burial chambers here seem to be clogged with refuse.  Upon
+further inspection of the floor vault, you realized that it is a clogged
+passageway leading down into darkness.  The centre of the crypt is to your
+west.
+~
+207 ad 0
+D0
+~
+~
+0 0 20707
+D2
+~
+~
+0 0 20713
+D3
+~
+~
+0 0 20709
+D5
+~
+~
+0 0 20714
+S
+#20711
+A Ruined Crypt~
+  The floor in this section of the crypt seems to have mostly collapsed
+during the looting process - the ground you are standing on is at least a
+foot below that of the surrounding crypt.  This section has been completely
+cleared of all valuables and all remains.  All that is left is rubble.
+~
+207 ad 0
+D0
+~
+~
+0 0 20708
+D1
+~
+~
+0 0 20712
+S
+#20712
+A Ruined Crypt~
+  The burial niches on this wall have been crudely cut from the surrounding
+earth and are haphazardly spaced, suggesting that these were some of the
+first niches used in this crypt.  A steep, pit-like tunnel extends down
+into darkness here.  The bulk of the tomb is to your north.
+~
+207 ad 0
+D0
+~
+~
+0 0 20709
+D1
+~
+~
+0 0 20713
+D3
+~
+~
+0 0 20711
+D5
+~
+~
+0 0 20734
+S
+#20713
+A Ruined Crypt~
+  The empty burial niches which honeycomb the walls and floor of this crypt
+leave you with a sense of eerie emptyness.  The corner of the tomb here is
+unremarkable in any other respect.
+~
+207 ad 0
+D0
+~
+~
+0 0 20710
+D3
+~
+~
+0 0 20712
+S
+#20714
+A Narrow Stairwell~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20715
+D4
+~
+~
+0 0 20710
+S
+#20715
+A Narrow Passageway~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20716
+D2
+~
+~
+0 0 20714
+S
+#20716
+A Bend in the Passage~
+You are in an unfinished room.
+~
+207 0 0
+D2
+~
+~
+0 0 20715
+D5
+~
+~
+0 0 20717
+S
+#20717
+Catacombs~
+You are in an unfinished room.
+~
+207 0 0
+D2
+~
+~
+0 0 20718
+D4
+~
+~
+0 0 20716
+S
+#20718
+Circular Catacomb~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20717
+D1
+~
+~
+0 0 20719
+D2
+~
+~
+0 0 20721
+S
+#20719
+Circular Catacomb~
+You are in an unfinished room.
+~
+207 0 0
+D2
+~
+~
+0 0 20720
+D3
+~
+~
+0 0 20718
+S
+#20720
+Circular Catacomb~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20719
+D3
+~
+~
+0 0 20721
+S
+#20721
+Circular Catacomb~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20718
+D1
+~
+~
+0 0 20720
+S
+#20722
+A Narrow Stairwell~
+You are in an unfinished room.
+~
+207 0 0
+D4
+~
+~
+0 0 20708
+D5
+~
+~
+0 0 20723
+S
+#20723
+A Narrow Passageway~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20724
+D4
+~
+~
+0 0 20722
+S
+#20724
+Catacomb Hallway~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20725
+D2
+~
+~
+0 0 20723
+S
+#20725
+Catacomb Hallway~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20726
+D2
+~
+~
+0 0 20724
+S
+#20726
+Catacomb Hallway~
+You are in an unfinished room.
+~
+207 0 0
+D1
+~
+~
+0 0 20727
+D2
+~
+~
+0 0 20725
+S
+#20727
+A Bend in the Hallway~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20729
+D2
+~
+~
+0 0 20728
+D3
+~
+~
+0 0 20726
+S
+#20728
+A Collapsed Tunnel~
+  The catacombs have collapsed here in a pile of broken bones and rubble. 
+You have no choice but to return the way you came.
+~
+207 0 0
+D0
+~
+~
+0 0 20727
+S
+#20729
+Vault Entrance~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20730
+D2
+~
+~
+0 0 20727
+S
+#20730
+A Circular Vault~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20731
+D2
+~
+~
+0 0 20729
+D3
+~
+~
+0 0 20733
+S
+#20731
+A Circular Vault~
+You are in an unfinished room.
+~
+207 0 0
+D2
+~
+~
+0 0 20730
+D3
+~
+~
+0 0 20732
+S
+#20732
+A Circular Vault~
+You are in an unfinished room.
+~
+207 0 0
+D1
+~
+~
+0 0 20731
+D2
+~
+~
+0 0 20733
+S
+#20733
+A Circular Vault~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20732
+D1
+~
+~
+0 0 20730
+S
+#20734
+A Steep Tunnel~
+  You decend down a near vertical tunnel via rough, uneven steps.  There is
+a dampness in the tunnel which, in combination with the stale air, makes
+your stomach queasy.  The tunnel extends both up and down into darkness.
+~
+207 ad 0
+D4
+~
+~
+0 0 20712
+D5
+~
+~
+0 0 20735
+S
+#20735
+A Steep Tunnel~
+  You stand on an uneven ledge that could only barely be called a stair in
+an almost vertical passage through the earth.  The walls of this tunnel are
+soft and claylike and crumble in your hands when you steady yourself against
+them.  The tunnel leads up and down in inky blackness.
+~
+207 ad 0
+D4
+~
+~
+0 0 20734
+D5
+~
+~
+0 0 20736
+S
+#20736
+Catacomb Floor~
+You are in an unfinished room.
+~
+207 0 0
+D1
+~
+~
+0 0 20737
+D3
+~
+~
+0 0 20745
+D4
+~
+~
+0 0 20735
+S
+#20737
+Flooded Catacombs~
+You are in an unfinished room.
+~
+207 0 0
+D1
+~
+~
+0 0 20740
+D3
+~
+~
+0 0 20736
+S
+#20738
+Flooded Catacombs~
+You are in an unfinished room.
+~
+207 0 0
+D3
+~
+~
+0 0 20737
+S
+#20739
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D1
+~
+~
+0 0 20741
+D2
+~
+~
+0 0 20740
+S
+#20740
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20739
+D1
+~
+~
+0 0 20742
+D2
+~
+~
+0 0 20743
+D3
+~
+~
+0 0 20737
+S
+#20741
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D2
+~
+~
+0 0 20742
+D3
+~
+~
+0 0 20739
+S
+#20742
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20741
+D2
+~
+~
+0 0 20744
+D3
+~
+~
+0 0 20740
+S
+#20743
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20740
+D1
+~
+~
+0 0 20744
+S
+#20744
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20742
+D3
+~
+~
+0 0 20743
+S
+#20745
+Flooded Catacombs~
+You are in an unfinished room.
+~
+207 0 0
+D1
+~
+~
+0 0 20736
+D3
+~
+~
+0 0 20746
+S
+#20746
+Flooded Catacombs~
+You are in an unfinished room.
+~
+207 0 0
+D1
+~
+~
+0 0 20745
+D3
+~
+~
+0 0 20747
+S
+#20747
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20748
+D1
+~
+~
+0 0 20746
+D2
+~
+~
+0 0 20749
+D3
+~
+~
+0 0 20751
+S
+#20748
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D2
+~
+~
+0 0 20747
+D3
+~
+~
+0 0 20752
+S
+#20749
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20747
+D3
+~
+~
+0 0 20750
+S
+#20750
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20751
+D1
+~
+~
+0 0 20749
+S
+#20751
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D0
+~
+~
+0 0 20752
+D1
+~
+~
+0 0 20747
+D2
+~
+~
+0 0 20750
+S
+#20752
+A Flooded Vault~
+You are in an unfinished room.
+~
+207 0 0
+D1
+~
+~
+0 0 20748
+D2
+~
+~
+0 0 20751
+S
+$~

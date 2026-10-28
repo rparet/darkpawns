@@ -1,0 +1,870 @@
+#20000
+stalker stalk invis invisible~
+the invisible stalker~
+An invisible stalker is here, thinking that you can't see him.
+~
+This nasty creature looks like something conjured up from another dimension.
+His deformed, demonic body is covered in ugly scales, and wrapped in a dark
+cloak. He moves silently and skillfully.
+~
+defglnpsx bdfpst -800 E
+75 143 75d8+1948 6d7
+200 32475
+8 8 1
+BareHandAttack: 10
+Race: 13
+E
+#20001
+demon imp~
+the sneaky, little demon imp~
+A wicked, little demon imp is here, playing in the shadows.
+~
+This wicked little creature is ugly and foul smelling. He has a glimmer of
+intelligence in his gleaming red eyes, but the hatred in those eyes is very
+apparent. He moves rapidly in and out of the shadows, like a bit of night
+brought to life.
+~
+cdefnpx bdfgkpst -900 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+BareHandAttack: 10
+Race: 13
+E
+#20002
+knight statue warrior forgotten clan~
+the knight of the forgotten clan~
+Tall and handsome, a statue of a knight stands here.
+~
+His armour is battered and well-worn, he grips a longsword in one hand and
+wears the insignia of a long-forgotten clan upon his shield. The knight is
+strikingly handsome, and seems to look at you with almost lifelike eyes.
+~
+bdeinpqr dfk 600 E
+81 156 81d8+2187 7d7
+0 36450
+8 8 1
+BareHandAttack: 12
+Race: 25
+Script: fighter.lua 256
+E
+#20003
+sorcerer mage archmage statue~
+the powerful sorcerer~
+Draped in a flowing white robe, the statue of a powerful sorcerer stands here.
+~
+The ripples in his robe are just too perfect; whoever sculpted this statue
+must have been a true master. Upon the sorcerer's face is an odd mixture of
+disappointment and pity - he looks very pious. It looks like this statue has
+been here for ages.
+~
+bdipqr dfk 900 E
+81 156 81d8+2187 7d7
+0 36450
+8 8 1
+Race: 25
+Script: magic_user.lua 256
+E
+#20004
+assassin master thief statue~
+the master assassin~
+With a look of rage on her face, a statue of an assassin stands here.
+~
+The statue is that of a famous assassin of old who vanished during a mission
+long ago. Legends say she was the most talented killer money could buy, and
+she had reputedly knifed many powerful people prior to her disappearance.
+~
+bcdfnqx dk -800 E
+81 156 81d8+2187 7d7
+0 36450
+8 8 2
+Race: 25
+Script: thief.lua 128
+E
+#20005
+priest holy old man statue~
+the holy, old man~
+A statue of a holy old man stands here, his eyes raised to the heavens.
+~
+The holy, old man seems to be some kind of a high-ranking priest. The holy
+symbols on his robes are the marks of a long dead god - clearly this statue 
+has been standing here for ages. The old man's eyes project a mixture of
+expectation and disappointment.
+~
+bdinq dk 1000 E
+81 156 81d8+2187 7d7
+0 36450
+8 8 1
+Race: 25
+Script: cleric.lua 256
+E
+#20006
+servant man freak~
+the freaky-looking servant~
+A deformed servant of the Dark Mage is here, busily cleaning the tower.
+~
+You wonder why anyone would want to serve the Dark Mage... This man is
+certainly very strange-looking. He is grossly mis-shapen, and not remarkably
+intelligent. The bruises on his face and body are evidence his overseer beats
+him often. You feel very sorry for the freaky servant.
+~
+cdfgmnpx dk 200 E
+48 85 48d8+997 5d5
+0 16627
+8 8 1
+Race: 0
+E
+#20007
+demonic overseer demon~
+the demonic overseer~
+A demonic overseer is here, cracking a whip and barking orders.
+~
+The overseer is not of this world. He is a demon summoned and enslaved by the
+Dark Mage to supervise the servants and inflict punishments on them when they
+are out of line. He seems to enjoy his job very much, and judging by how he
+skillfully wields his whip, you estimate he is a very worthy opponent.
+~
+cdefglnpqsx dfhkmns -700 E
+90 176 90d8+2561 8d8
+888 42690
+8 8 1
+BareHandAttack: 10
+Race: 13
+E
+#20008
+demon lord k'chz~
+the Demon k'Chz~
+The Demon k'Chz is here, slipping in and out of the darkness.
+~
+The Demon Lord is covered in hard, black scales. His head is very lizard-like,
+and clear, undisguised hatred burns in his red eyes. Long, sharp claws grow
+from his fingers, while thick, pointed spikes run down his back. Twin, razor-
+sharp fangs shine in his mouth. I think you are about to die.
+~
+bdeflnpqx dfhst -1000 E
+96 190 96d8+2821 8d9
+2580 47030
+8 8 1
+BareHandAttack: 10
+Race: 13
+Script: magic_user.lua 256
+E
+#20009
+improved dopsodod~
+an improved Dopsodod~
+An improved Yellow Dopsodod looks at you in disbelief and rage.
+~
+The Dopsodods were an accidental byproduct of dark magic, gone awry. The
+creator of the Dopsodods, a good-natured wizard who regretted bringing such
+evil creatures into the world, used his considerable powers to trap them in a
+subterranean cave. When the Dark Mage heard of these creatures, he summoned
+them from their prison, and began to experiment with them. Before you stands
+the result - a leaner, meaner Dopsodod.
+~
+cdfglq dhks -750 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+Race: 25
+Script: magic_user.lua 256
+E
+#20010
+improved dopsodod bastard~
+the improved, bastard Dopsodod~
+An improved, bastard Dopsodod looks at you in disbelief and anger.
+~
+The Dopsodods are creations of pure dark magic. Ages ago, the Dark Mage
+created them to overrun the world and enslave everyone. He may have succeeded,
+were it not for the angered gods who intervened and destroyed most of his
+minions. The Dark Mage has been hard at work over the ages, and this dopsodod
+is surely much leaner and meaner than its ancestors.
+~
+cdfglmq dhks -750 E
+78 149 78d8+2066 6d7
+45 34443
+8 8 1
+Race: 25
+Script: magic_user.lua 256
+E
+#20011
+improved father dopsodod~
+an improved Dopsodod~
+An improved Father Dopsodod looks at you in disbelief and fury.
+~
+The Dopsodods were an accidental byproduct of dark magic, gone awry. The
+creator of the Dopsodods, a good-natured wizard who regretted bringing such
+evil creatures into the world, used his considerable powers to trap them in a
+subterranean cave. When the Dark Mage heard of these creatures, he summoned
+them from their prison, and began to experiment with them. Before you stands
+the result - a leaner, meaner Dopsodod.
+~
+cdefglqsx dhks -750 E
+78 149 78d8+2066 6d7
+0 34443
+8 8 1
+Race: 25
+Script: fighter.lua 256
+E
+#20012
+guardian mighty spirit~
+the mighty guardian~
+A mighty guardian spirit stands here guarding the way into the labyrinth.
+~
+The creature before you is nearly invisible, wrapped in a black, tattered
+cloak. He wields a wicked-looking black longsword, moving noiselessly among
+the shadows. As he sees you approach, he lets out a terrible wail of anger
+and agony, and rushes toward you.
+~
+bcdeflnprtx dfhkmnt -600 E
+81 156 81d8+2187 7d7
+1020 36450
+8 8 1
+Race: 32
+E
+#20013
+banshee spirit~
+the evil banshee~
+An evil banshee is here, floating in the darkness and wailing ruefully.
+~
+This creature is a nightmare! Hideously ugly, with a terrible voice and a mean
+temper. The banshee is not happy to see you. She lets out an unearthly wail,
+and attacks!
+~
+cdflnpqx bdfhk -600 E
+66 123 66d8+1608 6d6
+100 26809
+8 8 2
+Race: 16
+Noise: You hear a steady wailing that echos all around you.
+E
+#20014
+raven bird~
+the stately raven~
+A stately black raven sits on a branch here, his eyes full of hatred.
+~
+As you look closely at the raven, you notice a small strip of red silk bound
+about his leg. He is sitting on a branch here, just above your head, staring
+intently at you; his gaze seems very detached. You have heard stories about
+powerful magicians using pets to spy on people. Perhaps this is the case with
+this bird?
+~
+bdhlmq dkpA -400 E
+30 49 30d8+492 4d5
+0 8215
+6 6 1
+BareHandAttack: 8
+Race: 9
+Script: magic_user.lua 256
+E
+#20015
+crow bird~
+the crow~
+A black crow is in a tree here, watching your every move.
+~
+You look up at the crow sitting in a tree branch overhead, and notice a bit of
+colorful silk bound about his foot. He seems intrigued with what you are
+doing... perhaps he will be reporting back to the Dark Mage soon...
+~
+bdfq dkpA -500 E
+30 49 30d8+492 4d5
+0 8215
+6 6 1
+BareHandAttack: 8
+Race: 9
+E
+#20016
+mist creature monster~
+the fearsome mist creature~
+A fearsome creature of water and mist rises up from the pool.
+~
+The creature seems to be the merge of a magically-created elemental, and a
+powerful evil spirit. It glows brightly, and causes the water in the pool to
+churn and roil. Torrents of misty air encircle the creature, and a mouth of
+cruel fangs hisses at you from a serpentine head. Perhaps you'd have been
+better off leaving the pool undisturbed.
+~
+defgnqx dghkst -700 E
+87 169 87d8+2434 7d8
+500 40574
+8 8 0
+BareHandAttack: 10
+Race: 25
+E
+#20017
+tentacle ugly~
+the ugly, black tentacle~
+A big, thick tentacle slips up from the water and grabs your ankle.
+~
+The tentacle is about as thick as a tree in the pine forest... it is slimy,
+and stings your leg as it brushes past. Little suckers, with small, razor-
+sharp teeth line one side of the massive arm, and on the other, a set of
+large spikes protrude every whichway.
+~
+dfghmq dgkpst -700 E
+66 123 66d8+1608 6d6
+0 26809
+8 8 0
+BareHandAttack: 10
+Race: 6
+Noise: You hear the sound of something moving through water.
+E
+#20018
+graak master man torture~
+Graak, the Torture Master~
+Graak the Torture Master is here, cleaning his strangely shaped knife.
+~
+Graak is a very strange human. He would almost be handsome if it weren't for
+the strange growth on his face. He is tall, and moves gracefully... He also
+seems to be talking to himself.
+~
+bdeflnqx dhk -1000 E
+99 197 99d8+2955 9d9
+4444 49251
+6 6 1
+Race: 0
+Script: cleric.lua 256
+E
+#20019
+troll guard trollish~
+the trollish dungeon guard~
+A heavily armoured trollish guard is here, patrolling the dungeon.
+~
+The troll is fat and ugly, his green face dominated by an oversized nose
+between two beady yellow eyes. Although he isn't very intelligent, he is big,
+and incredibly strong.
+~
+cdefgl dk -670 E
+66 123 66d8+1608 6d6
+50 26809
+8 8 1
+Race: 31
+Script: fighter.lua 256
+E
+#20020
+troll guard trollish~
+the trollish dungeon guard~
+An off-duty trollish guard is here, I think you disturbed his sleep!
+~
+The troll is fat and ugly, his green face dominated by an oversized nose
+between two beady yellow eyes. Although he isn't very intelligent, he is big,
+and incredibly strong.
+~
+bcdfl dkn -670 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 1
+Race: 31
+Script: fighter.lua 256
+E
+#20021
+troll cook chef~
+the ugly, trollish cook~
+Fat and ugly, a trollish cook is here, stirring a pot of gruel.
+~
+This female troll must weigh at least 800 lbs. Her face is covered in warts,
+and her arms are the size of tree trunks. You are told that the guards find
+her very attractive.
+~
+bcdflq dk -400 E
+90 176 90d8+2561 8d8
+100 42690
+8 8 2
+Race: 31
+E
+#20022
+prisoner man captive~
+the weak, helpless prisoner~
+Near death, a weak, insane prisoner lies here on the floor.
+~
+This guy is in sad shape... he is very hungry and seems somewhat insane, as
+he mumbles to himself and drools on the floor. When he sees you, he screams
+out in alarm then mumbles curses and insults your family line.
+~
+bcdhl dk 0 E
+33 55 33d8+568 4d5
+0 9478
+8 8 1
+Race: 0
+E
+#20023
+wizard prisoner white mage~
+the imprisoned mage~
+An imprisoned mage is here, searching for a weak point in the wall.
+~
+The mage laughs as you walk through the door... "There is no way out, you
+stupid oaf!" He is dressed in greyish robes, but looks haggard and weary. He
+has, most likely, spent much of his considerable power trying to escape from
+the bondage of the Dark Mage.
+~
+bcdelnpx bdhk 0 E
+93 183 93d8+2690 8d8
+0 44842
+8 8 1
+Race: 0
+Script: magic_user.lua 256
+E
+#20024
+warden wicked troll~
+the wicked warden~
+A wicked, fat, old warden is here, thinking of ways to punish the prisoners.
+~
+The warden is a huge, fat old troll who seems lost in thought and does not see
+you. He looks as if he would tear you in half if he did...
+~
+bcdehlnp dhk -700 E
+84 163 84d8+2309 7d8
+900 38493
+8 8 1
+Race: 31
+E
+#20025
+apprentice mage elf~
+the Dark Mage's Apprentice~
+The Apprentice Mage stands here, wrapped in a dark cowl.
+~
+The Apprentice Mage's life has been dedicated to the service of his master,
+the Dark Mage. He is clad in fine, black robes of silk - looking timeless and
+confident in his powers. As he sees you, he smiles and begins to chant...
+~
+bcdflnqr dhk -1000 E
+87 169 87d8+2434 7d8
+666 40574
+8 8 1
+BareHandAttack: 12
+Race: 0
+Noise: An eerie chanting fills the room...
+Script: magic_user.lua 256
+E
+#20026
+dark mage~
+the Dark Mage~
+The Dark Mage stops his work, points a hand at you, and begins to chant.
+~
+The Dark Mage is very tall and looks quite young, though you have heard many
+stories about him and his deeds from hundreds of years ago. You realize he has
+mastered the secrets of youth, and wonder what other deadly magic he commands.
+I think you are about to find out...
+~
+bdeflnpr bdhk -1000 E
+100 199 100d8+3000 9d9
+6666 50000
+8 8 1
+Race: 0
+Noise: An eerie chanting fills the room...
+Script: magic_user.lua 256
+E
+#20027
+strabo dragon~
+Strabo, Grandfather of all Dragons~
+Strabo, the grandfather of all Dragons, has been trapped here by the Mage.
+~
+Strabo is an ancient dragon. His serpentine body is covered entirely with
+sharp, hard, black scales, and along his back, wicked, black spikes protrude
+from his spine. His tail moves slowly back and forth, and his bright eyes
+focus on you as you watch him. Strabo opens his huge maw to reveal rows of
+long, sharp teeth. His forked tongue flicks out as he sniffs the air, dripping
+a large spool of saliva from his mouth.
+~
+bcdenpqx dfhk -1000 E
+100 199 100d8+3000 9d9
+6666 50000
+8 8 1
+BareHandAttack: 3
+Race: 14
+Script: dragon_breath.lua 256
+E
+#20028
+thrall~
+an ugly Thrall~
+An ugly Thrall is here, grunting at you in revulsion.
+~
+The Thrall looks much like an Orc. He has a pig-like snout and cloven feet.
+He is much larger than a normal orc, and is covered by some strange kind of
+scales, almost like a fish. Tufts of fur protrude from the scaled skin, and
+grow thick on his back, head and chest. His eyes are bloodshot and yellow in
+color. He has two large, sharp teeth, and massive claws on his fingers.
+This particular Thrall, like most, you assume, smells revolting.
+~
+cdfgln dfk -700 E
+66 123 66d8+1608 6d6
+15 26809
+8 8 1
+Race: 28
+E
+#20029
+thrall priest~
+the Thrall Priest~
+A Thrall Priest is here, grunting a prayer to the Thrall gods.
+~
+The Thrall looks much like an Orc. He has a pig-like snout and cloven feet.
+He is much larger than a normal orc, and is covered by some strange kind of
+scales, almost like a fish. Tufts of fur protrude from the scaled skin, and
+grow thick on his back, head and chest. His eyes are bloodshot and yellow in
+color. He has two large, sharp teeth, and massive claws on his fingers.
+This particular Thrall, like most, you assume, smells revolting.
+~
+cdefgn dfk -700 E
+75 143 75d8+1948 6d7
+15 32475
+8 8 1
+Race: 28
+Script: cleric.lua 256
+E
+#20030
+thrall guru~
+the Thrall Guru~
+A Thrall Guru is here contemplating matters of magic, existence and life.
+~
+The Thrall looks much like an Orc. He has a pig-like snout and cloven feet.
+He is much larger than a normal orc, and is covered by some strange kind of
+scales, almost like a fish. Tufts of fur protrude from the scaled skin, and
+grow thick on his back, head and chest. His eyes are bloodshot and yellow in
+color. He has two large, sharp teeth, and massive claws on his fingers.
+This particular Thrall, like most, smells revolting.
+~
+cdfgln dfk -700 E
+72 136 72d8+1832 6d7
+15 30547
+8 8 1
+Race: 28
+Script: magic_user.lua 256
+E
+#20031
+thrall woman~
+the Thrall woman~
+A Thrall Woman is here, running a bone through her tangled hair.
+~
+The Trall is a heavy, orc-like creature. She has patches of long, amber hair
+on her head that looks and smells like she has never bathed. Her bloodshot
+yellow eyes are large, but stupid. Two razor-sharp teeth protrude from a large
+mouth, just below her pig-like snout. She looks and smells revolting.
+~
+cdfgn dfk -700 E
+57 104 57d8+1291 5d6
+15 21517
+8 8 2
+Race: 28
+E
+#20032
+gargoyle~
+the gargoyle~
+A grotesquely-carved gargoyle sits here staring off the balcony.
+~
+The gargoyle's features are grotesque. Its face is cat-like, and powerful
+claws protrude from its oversized forearms. Two small, scaled wings sprout
+from its lizard-like back, and the creature's long tail is wrapped into a long
+coil. The eyes of this statue are made of flickering gemstones, and the teeth
+that line its hideous mouth appear to have blood on them!
+~
+bcdlnpr dfks -100 E
+80 154 80d8+2146 7d7
+500 35777
+8 8 1
+BareHandAttack: 8
+Race: 25
+E
+#20033
+king chess black~
+the Black King~
+The Black King stands here, commanding his forces.
+~
+A black, gnarled old man with an insane look in his eyes, he's gone crazy
+with powerlust, and wants nothing more than to destroy all his enemies, one of
+which is you.
+~
+cdefglmnpqrs dfhknp -500 E
+72 136 72d8+1832 6d7
+0 30547
+8 8 1
+BareHandAttack: 12
+Race: 25
+E
+#20034
+queen chess black~
+the Black Queen~
+The Black Queen stands here, the real power behind her side.
+~
+A tall, beautiful, yet powerful-looking woman, she is the true power behind
+the Black Army, and has The Black King wrapped around her finger.
+~
+deflmnpqrs dfghknp -1000 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 2
+BareHandAttack: 12
+Race: 25
+E
+#20035
+bishop chess black~
+a Black Bishop~
+A Black Bishop stands here, summoning evil powers to aid the Black Army.
+~
+One of the most powerful clerics in his world, the Black Bishop is a strong
+force for the Black Army.
+~
+deflms dfghkn -500 E
+63 117 63d8+1500 6d6
+0 25002
+8 8 1
+BareHandAttack: 12
+Race: 25
+Script: cleric.lua 256
+E
+#20036
+knight chess black steed~
+a Black Knight~
+A Black Knight rides upon his magnificent steed.
+~
+The Black Knight stares at you with his bloodshot eyes, and a growl begins to
+sound from the back of his throat as he walks towards you, cracking his
+knuckles.
+~
+degjlmqsv dfkn -500 E
+54 98 54d8+1190 5d6
+0 19840
+8 8 1
+BareHandAttack: 12
+Race: 25
+Script: fighter.lua 256
+E
+#20037
+rook chess black castle~
+a Black Rook~
+A Black Rook stands here, in a huge suit of armor.
+~
+What stands before you seems nothing more than a huge, black suit of armor,
+but you can tell from the ominous sounds of breathing inside that there is
+some type of life-form within.
+~
+deflmpqs dfkn -500 E
+54 98 54d8+1190 5d6
+0 19840
+8 8 1
+BareHandAttack: 12
+Race: 25
+E
+#20038
+pawn chess black~
+a Black Pawn~
+A Black Pawn stands here, looking for a fight.
+~
+The sons of The Black King, the Black Pawns have had the best trainers in
+their world teaching them to fight, and now each has only one wish - to become
+the new Black King when his father dies.
+~
+deflms dfkns 0 E
+45 79 45d8+905 5d5
+0 15093
+8 8 1
+BareHandAttack: 12
+Race: 25
+E
+#20039
+king chess white~
+the White King~
+The White King stands here, commanding his forces.
+~
+Dressed in brilliant white armor, the White King stands as the power behind his
+White Army. In the world he comes from, he is one of the purest souls alive,
+and now he defends him own from the onslaught of the Black Army.
+~
+delmnpqrs dfhkmp 1000 E
+72 136 72d8+1832 6d7
+0 30547
+8 8 1
+BareHandAttack: 12
+Race: 25
+E
+#20040
+queen chess white~
+the White Queen~
+The White Queen stands here, thinking out strategies.
+~
+The White Queen is, obviously, the White King's faithful, and intelligent
+wife, she is also a major strategist for the White Army, and a very beautiful
+woman.
+~
+deilmnpqs dfhkmp 500 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 2
+BareHandAttack: 12
+Race: 25
+E
+#20041
+bishop chess white~
+a White Bishop~
+A White Bishop is standing here, healing his comrades.
+~
+One of the White Army's only clerics, the White Bishop is an essential member
+of the Army.
+~
+dflms dfhkm 750 E
+63 117 63d8+1500 6d6
+0 25002
+8 8 1
+BareHandAttack: 12
+Race: 25
+Script: cleric.lua 256
+E
+#20042
+knight chess white steed~
+a White Knight~
+The White Knight rides upon his magnificent steed.
+~
+A paladin of the purest kind, the White Knight is one of the few great
+warriors of his world that serve the forces of good.
+~
+deilmnpqrsv dfkm 1000 E
+48 85 48d8+997 5d5
+0 16627
+8 8 1
+BareHandAttack: 12
+Race: 25
+Script: fighter.lua 256
+E
+#20043
+rook chess white castle~
+a White Rook~
+The White Rook stands here, pondering his next move.
+~
+A giant earth elemental that seems to be made of white marble, the White Rook
+is an awesome sight to behold.
+~
+deilmnpqrs dfkm 0 E
+48 85 48d8+997 5d5
+0 16627
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#20044
+pawn chess white son~
+a White Pawn~
+A White Pawn is standing here, ever vigilant.
+~
+Trained by the best warriors their father, the White King, could find, the
+White Pawns are a group of swordsmen ever ready to fight for the cause of
+good.
+~
+dilms dfkmp 500 E
+45 79 45d8+905 5d5
+0 15093
+8 8 1
+BareHandAttack: 12
+Race: 25
+E
+#20045
+pigeon bird fat~
+a plump, grey pigeon~
+A plump, grey pigeon scratches the ground in search of crumbs.
+~
+The bird is obviously well fed given its relative size...it looks fairly
+harmless though.
+~
+bdhmq dkp 400 E
+10 14 10d8+94 3d4
+0 1581
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#20046
+dove bird~
+a white dove~
+A small white dove rests upon the statue.
+~
+Reknowned for being a symbol of peace, the dove is a fragile bird that could
+barely do you harm. It does, however, appear to object to your intrusion...
+~
+bdfq dkp 500 E
+10 14 10d8+94 3d4
+0 1581
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#20047
+mikado ninja statue~
+the mikado~
+Poised in a fighting stance, the statue of a powerful ninja stands here.
+~
+Balancing on one foot, with the other thrusting at her opponent's chest-
+height, you're quite certain the mikado would rarely miss her strike.
+Luckily for you, she's made of grey stone, and nothing more dangerous.
+~
+bdejlnpqr dfkp -500 E
+81 156 81d8+2187 7d7
+0 36450
+8 8 2
+BareHandAttack: 12
+Race: 25
+E
+#20048
+highwayman thief~
+the highwayman~
+The statue of the highwayman almost goes unnoticed amid the trees.
+~
+Dressed in the garb of a huntsman this figure stands, a sly grin upon his
+charming face. One hand rests upon the pommel of his rapier, while, barely
+concealed in the other, a slim dagger rests against his sleeve.
+~
+bdenpqr dfkp -500 E
+81 156 81d8+2187 7d7
+0 36450
+8 8 1
+BareHandAttack: 12
+Race: 25
+E
+#20049
+necromancer young~
+a necromancer~
+A young necromancer passes by, mumbling an unknown incantation.
+~
+Deep in thought and concentration, the young necromancer barely recognises
+your presence. Mumbling words unfamiliar to you, it may be best to steer clear
+unless you are sure of what you are dealing with.
+~
+bdenpqr dfknp -800 E
+27 44 27d8+420 3d5
+0 7014
+8 8 1
+BareHandAttack: 12
+Race: 25
+Script: magic_user.lua 256
+E
+#20050
+avatar mighty statue~
+a mighty avatar~
+The statue of a mighty avatar stands tall before you.
+~
+Standing tall and strong before you, the statue of a might avatar guards
+the entrance to the holy statue garden. With a sacred ankh emblazoned upon his
+armor and a look of serenity upon his face, this figure seems almost to glow
+with his own holy aura.
+~
+bdeinpqr dfkmp 1000 E
+80 154 80d8+2146 7d7
+0 35777
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#20051
+thrall~
+a tortured thrall~
+An angry, beaten thrall is manacled to the wall here.
+~
+Badly beaten, this terrified thrall growls loudly upon your arrival, he
+likely thinks that you are here to continue his torture. You can see that
+he's been chained to a large iron plate in the corner of the room, but it
+looks as though a good deal of slack chain has been left to him. Hopefully,
+it's not enough to allow him to reach you.
+~
+bcdfnpx dfk -300 E
+26 42 26d8+397 3d5
+0 6628
+8 8 1
+Race: 28
+E
+$

@@ -1,0 +1,26 @@
+Setting up default MXP elements....
+[1z<!-- Elements to support the zMUD Automapper -->
+[1z<!ELEMENT RName '<FONT COLOR=Red><B>' FLAG="RoomName">
+[1z<!ELEMENT rexits '<FONT COLOR=Blue>' FLAG='RoomExit'>
+[1z<!ELEMENT NoDir FLAG="NoDir" EMPTY>
+[1z<!-- The next element is used to define a room exit link that sends -->
+[1z<!-- the exit direction to the MUD if the user clicks on it -->
+[1z<!ELEMENT ex '<FONT COLOR=Blue><SEND>'>
+[1z<!ELEMENT Chat '<FONT COLOR=Red>' OPEN>
+[1z<!ELEMENT Gossip '<FONT COLOR=Blue>' OPEN>
+[1z<!-- in addition to standard HTML Color specifications, you can use -->
+[1z<!-- zMUD color attribute names such as blink --><!ELEMENT ImmChan '<FONT COLOR=Gray><B>'>
+[1z<!-- the next elements deal with the MUD prompt -->
+[1z<!ENTITY NAME=hp VALUE=0 DESC="HP" PUBLISH>
+[1z<!ENTITY NAME=maxhp VALUE=0 DESC="Max HP" PUBLISH>
+[1z<!ENTITY NAME=mana VALUE=0 DESC="Mana" PUBLISH>
+[1z<!ENTITY NAME=maxmana VALUE=0 DESC="Max Mana" PUBLISH>
+[1z<!ENTITY NAME=move VALUE=0 DESC="Move" PUBLISH>
+[1z<!ENTITY NAME=maxmove VALUE=0 DESC="Max Move" PUBLISH>
+[1z<!ELEMENT Exp FLAG="Set exp"><!ELEMENT Xppl FLAG="Set xppl">
+[1z<!ELEMENT XpTnl FLAG="Set xptnl">
+[1z<!-- These elements can appear many places, including prompt -->
+[1z<GAUGE hp Max=maxhp Caption=hp Color=blue> 
+[1z<GAUGE mana Max=maxmana Caption=mana Color=green> 
+[1z<GAUGE move Max=maxmove Caption=move Color=yellow> 
+Done!

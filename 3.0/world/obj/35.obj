@@ -1,0 +1,161 @@
+#3500
+biotic card ~
+a biotic card~
+A small, thin card is lying here.~
+~
+18 cep ao 0
+0 0 0 0 0
+1 3 10 50 0 1
+E
+biotic card~
+An organic, elastic card used as a key.
+~
+#3501
+living ring~
+a living ring~
+A thin circlet moves about on the ground like a worm.~
+~
+8 ag ab 0
+0 0 0 0 5
+1 3 1000 5 0 1
+A
+27 1
+A
+18 1
+#3502
+blade biotic~
+a biotic blade~
+An organic blade is lying here.~
+~
+5 ag an 0
+6 3 2 3 4
+10 1 500 10 0 1
+A
+19 2
+A
+18 2
+A
+26 2
+#3503
+dagger biotic organic~
+a biotic dagger~
+An organic, thin dagger lays half hidden on the ground.~
+~
+5 agr an 0
+6 2 2 11 4
+5 1 1000 12 0 1
+A
+19 3
+A
+18 2
+#3504
+armor biotic dull organic~
+some biotic armor~
+An organic suit of dull armor rests here.~
+~
+9 g ad 0
+10 0 0 0 5
+20 3 500 10 0 1
+#3505
+helmet kuo toan scaly~
+a kuo-toan helmet~
+A scaly helmet is lying here.~
+~
+9 g ae 0
+5 0 0 0 5
+5 2 500 10 0 1
+#3506
+armgear biotic organic~
+some biotic armgear~
+Some organic armgear is lying here.~
+~
+9 g ai 0
+5 0 0 0 5
+20 2 500 10 0 1
+#3507
+organic shroud~
+an organic shroud~
+An organic shroud rests here.~
+~
+9 g ak 0
+5 0 0 0 6
+10 2 500 10 0 1
+#3508
+mask biotic face organic~
+a biotic face mask~
+An odd, organic mask is lying here.~
+~
+9 gi ar 0
+5 0 0 0 5
+3 2 500 10 0 1
+#3509
+biotic leg shielding~
+biotic leg shielding~
+Rubbery, organic leggings are lying here.~
+~
+9 agr af 0
+10 0 0 0 4
+10 3 5000 5 0 1
+A
+18 1
+A
+26 1
+#3510
+organic shield~
+an elongated, organic shield~
+A long, organic shield is lying here.~
+~
+9 g aj 0
+8 0 0 0 5
+10 3 500 10 0 1
+#3511
+biotic wristlet creature~
+a biotic wristlet~
+A strange, circular creature twitches on the ground.~
+~
+9 ag am 0
+5 0 0 0 5
+3 2 5000 5 0 1
+A
+18 1
+#3512
+footwear organic rubber~
+some organic footgear~
+A pair of thin, rubbery boots rest on the ground.~
+~
+9 g ag 0
+2 0 0 0 6
+3 3 500 10 0 1
+A
+28 1
+A
+7 1
+#3513
+kelp~
+a piece of kelp~
+A thin, slimy strand of seaweed is coiled on the floor.~
+~
+19 0 a 0
+2 0 0 0 0
+1 3 0 60 20 1
+#3514
+glowing puddle liquid~
+the glowing liquid~
+A small puddle of luminescent liquid rests on the floor.~
+~
+1 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+glowing liquit puddle~
+The sticky-looking liquid glows with a faint, green hue.
+~
+#3515
+bulbous kelp~
+the kelp~
+A piece of kelp with a gourd-like tale is resting on the floor.~
+~
+19 0 a 0
+2 0 0 0 0
+1 3 0 100 20 1
+$~

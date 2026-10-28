@@ -1,0 +1,145 @@
+#11800
+tiger eye gem~
+a tiger eye~
+A small gem glints in the dirt.~
+~
+8 jl ao 0
+5 0 0 0 0
+1 2 6666 15 0 1
+A
+19 2
+#11801
+bracelet rakshasa~
+a rakshasa bracelet~
+A thin metal bracelet lies here.~
+~
+8 e am 0
+0 0 0 0 4
+1 3 1250 15 0 1
+A
+27 2
+#11802
+robe silk~
+a fine silk robe~
+A pile of fine silk lies here.~
+~
+11 0 ak 0
+0 0 0 0 0
+4 3 180 15 0 1
+#11803
+slippers silk~
+a set of fine silk slippers~
+A pair of fine slippers lie here.~
+~
+11 0 ag 0
+0 0 0 0 0
+1 3 210 15 0 1
+#11804
+boots ethereal~
+a pair of ethereal boots~
+You see a wavy distortion on the ground here.~
+~
+11 fl ag s
+0 0 0 0 0
+3 3 8500 15 0 1
+A
+17 5
+#11806
+collar ornate~
+an ornate collar~
+A collar has fallen off some animal and landed here.~
+~
+8 gk ac 0
+0 0 0 0 4
+1 3 650 15 0 1
+A
+27 2
+#11807
+armor gilded~
+some gilded armor~
+Some armor lies in a neat pile on the floor.~
+~
+9 ag ad 0
+10 0 0 0 4
+40 3 1250 10 0 1
+A
+18 2
+#11808
+shield gilded~
+a gilded shield~
+A beautiful shield lies here.~
+~
+9 ag aj 0
+9 0 0 0 4
+17 3 1000 10 0 1
+A
+18 2
+#11809
+sword gilded~
+a gilded sword~
+A beautiful sword is stuck in the ground here.~
+~
+5 agi an 0
+1 3 6 3 3
+10 2 1500 10 0 1
+A
+18 1
+A
+19 1
+R
+1 1
+#11810
+mask gilded~
+a gilded mask~
+A gilded mask stares blankly up at you from the ground.~
+~
+9 ag ar 0
+5 0 0 0 4
+4 2 600 10 0 1
+A
+18 2
+#11811
+mask unholy~
+an unholy mask~
+A black mask lies in the dirt, tempting you to touch it.~
+~
+9 jl ar 0
+5 0 0 0 3
+3 2 1000 10 0 1
+A
+18 -1
+A
+19 1
+#11812
+mask holy~
+a holy mask~
+A white mask lies in the dirt here.~
+~
+9 akl ar 0
+5 0 0 0 3
+3 2 4500 15 0 1
+A
+18 -1
+A
+19 1
+#11813
+natural fountain~
+a natural fountain~
+A natural fountain of water jets out of the ground.~
+~
+23 eg 0 0
+999999 999999 15 0 0
+1005 3 0 100 0 1
+#11814
+orb power~
+the orb of power~
+A small orb floats above the ground here!~
+~
+8 dg as 0
+0 0 0 0 0
+3 3 2000 10 0 1
+A
+18 1
+A
+19 1
+$~

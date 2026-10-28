@@ -1,0 +1,11 @@
+#/bin/sh
+#usage: ./remzone <zone#>
+
+echo "Deleting zone $1...."
+rm obj/$1.obj ; cvs remove obj/$1.obj
+rm wld/$1.wld ; cvs remove wld/$1.wld
+rm shp/$1.shp ; cvs remove shp/$1.shp
+rm zon/$1.zon ; cvs remove zon/$1.zon
+rm mob/$1.mob ; cvs remove mob/$1.mob
+echo "Finished removing zone $1!"
+

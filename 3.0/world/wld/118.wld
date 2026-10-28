@@ -1,0 +1,1187 @@
+#11800
+A Dusty Trail~
+   The trail bends here, heading south and east around a high, spiked fence.
+~
+118 0 4
+D0
+~
+~
+0 0 5707
+D1
+~
+~
+0 1 11801
+D2
+~
+~
+0 0 11807
+D3
+~
+~
+0 0 5729
+S
+#11801
+A Dusty Trail~
+   The trail leads east and west around a high fence to the south.
+~
+118 0 4
+D0
+~
+~
+0 0 5708
+D1
+~
+~
+0 1 11802
+D3
+~
+~
+0 1 11800
+S
+#11802
+A Dusty Trail~
+   The trail leads east and west around a high fence to the south. To the 
+east lie the gates of the village that lies behind the fence, defended from
+the surrounding desert.
+~
+118 0 4
+D0
+~
+~
+0 0 5708
+D1
+~
+~
+0 1 11803
+D3
+~
+~
+0 1 11801
+S
+#11803
+The Gates of the Rakshasa Village~
+   To the south you notice a break in the high, spiked fence that surrounds
+the village. An ancient cobblestone road leads north, away from the town, while
+a crude dirt paths lead away from the road to the east and west outside the
+village walls.
+~
+118 c 16
+D0
+~
+~
+0 0 5709
+D1
+~
+~
+0 1 11804
+D2
+~
+gate~
+1 0 11810
+D3
+~
+~
+0 1 11802
+S
+#11804
+A Dusty Trail~
+   The trail leads east and west around a high fence to the south. To the
+west, you see the gates of the village.
+~
+118 0 4
+D0
+~
+~
+0 0 5710
+D1
+~
+~
+0 1 11805
+D3
+~
+~
+0 1 11803
+S
+#11805
+A Dusty Trail~
+   The trail leads east and west around a high fence to the south.
+~
+118 0 4
+D0
+~
+~
+0 0 5710
+D1
+~
+~
+0 1 11806
+D3
+~
+~
+0 1 11804
+S
+#11806
+A Dusty Trail~
+   The trail bends here, heading south and west around a high, spiked fence.
+~
+118 0 4
+D0
+~
+~
+0 0 5711
+D1
+~
+~
+0 0 5735
+D2
+~
+~
+0 0 11813
+D3
+~
+~
+0 1 11805
+S
+#11807
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+118 0 4
+D0
+~
+~
+0 0 11800
+D2
+~
+~
+0 0 11814
+D3
+~
+~
+0 0 5752
+S
+#11808
+A Straw Hut~
+   This straw and mud hut is where the Rakshasa citizens live. A bare rug
+lies on the floor while a simple table stands in the corner, providing a
+resting place for an assortment of bones.
+   Looking closer, you are uncertain whether they are the bones of humans or
+some animal and wonder if it would be best if you didn't stick around to find
+out.
+   To the east you see a path and to the south you see another large hut.
+~
+118 d 0
+D1
+~
+~
+0 0 11809
+D2
+~
+~
+0 0 11815
+S
+#11809
+A Path Along the Wall~
+   Rakshasan citizens travel along this path, ignoring you as they go about
+their business. You notice the blandness of the decorations and the lack of
+vegetation of the village, and begin to wonder why they would choose this
+area in which to live.
+   To the west you see a large hut. The path leads east through the village.
+~
+118 d 1
+D1
+~
+~
+0 0 11810
+D3
+~
+~
+0 0 11808
+S
+#11810
+Inside The Gate~
+   You see Rakshasan citizens scurry along the road to their destinations,
+seeming to be in a hurry to complete their tasks.
+   From here you can make out the details of the village: the wide, dusty
+streets, the windowless straw and mud huts, the dry, cracked village walls,
+and the general lack of vegetation in the area.
+   The road leads east, south, and west through the village and out to the
+desert to the north.
+~
+118 d 1
+D0
+~
+gate~
+1 0 11803
+D1
+~
+~
+0 0 11811
+D2
+~
+~
+0 0 11817
+D3
+~
+~
+0 0 11809
+S
+#11811
+A Path Along the Wall~
+   There are many Rakshasa citizens traveling along this path. You notice the
+blandness of the decorations and the lack of vegetation and begin to wonder
+what compels these residents to stay.
+   To the east you see a large hut. The path leads west through the village.
+~
+118 d 1
+D1
+~
+~
+0 0 11812
+D3
+~
+~
+0 0 11810
+S
+#11812
+A Straw Hut~
+   This straw and mud hut is where the Rakshasa citizens live. A bear rug
+lies on the floor while a simple table stands in the corner, providing a
+resting place for an assortment of bones.
+   Looking closer, you are uncertain whether they are the bones of humans or
+some animal and wonder if it would be best if you didn't stick around to find
+out.
+   To the west, you see a path, and to the south you see another large hut.
+~
+118 d 0
+D2
+~
+~
+0 0 11819
+D3
+~
+~
+0 0 11811
+S
+#11813
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+118 0 4
+D0
+~
+~
+0 0 11806
+D1
+~
+~
+0 0 5758
+D2
+~
+~
+0 0 11820
+S
+#11814
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+118 0 4
+D0
+~
+~
+0 0 11807
+D2
+~
+~
+0 0 11821
+D3
+~
+~
+0 0 5752
+S
+#11815
+A Straw Hut~
+   You see a bare, desolate living quarters. There are few items in this hut,
+but you are able to make out the weapons' rack on the wall and the training
+dummy in the corner. This cannot be the hut of a lowly Rakshasa citizen; it
+obviously belongs to someone of stature and power.
+   To the north you see another straw hut.
+~
+118 d 0
+D0
+~
+~
+0 0 11808
+S
+#11816
+A Straw Hut~
+   Upon entrance, you notice a Rakshasan stirring a pot of boiling water with
+bones sticking out of the top. The only other decoration in the room is a
+framed picture of the Brown Dragon, the God of the Rakshasa village.
+   The exit is to the east.
+~
+118 d 0
+D1
+~
+~
+0 0 11817
+S
+#11817
+The Feline Way~
+   You are traveling on the main street of the village. There is a lot of
+hustling and bustling as the Rakshasa citizens go about on their methods of
+plotting to kill strangers.
+   The street continues north and south through the village. To the east
+and west, dark straw buildings line the street.
+~
+118 0 1
+D0
+~
+~
+0 0 11810
+D1
+~
+~
+0 0 11818
+D2
+~
+~
+0 0 11824
+D3
+~
+~
+0 0 11816
+S
+#11818
+A Straw Hut~
+   Upon entrance, you notice a Rakshasan stirring a pot of boiling water with
+bones sticking out of the top. The only other decoration in the room is a
+framed picture of the Brown Dragon, the God of the Rakshasa village.
+   The exit is to the west.
+~
+118 d 0
+D3
+~
+~
+0 0 11817
+S
+#11819
+A Straw Hut~
+   You see a bare, desolate living quarters. There are few items in this hut,
+but you are able to make out the weapons' rack on the wall and the training
+dummy in the corner. This cannot be the hut of a lowly Rakshasa citizen; it
+obviously belongs to someone of stature and power.
+   To the north you see another straw hut.
+~
+118 d 0
+D0
+~
+~
+0 0 11812
+S
+#11820
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+118 0 4
+D0
+~
+~
+0 0 11813
+D1
+~
+~
+0 0 5758
+D2
+~
+~
+0 0 11863
+S
+#11821
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+118 0 4
+D0
+~
+~
+0 0 11814
+D2
+~
+~
+0 0 11827
+D3
+~
+~
+0 0 5776
+S
+#11822
+A Dark Weapons Shop~
+  Candles on the wall illuminate the room just enough for you to see all the
+full weapons' racks on the walls. Apparently the Rakshasa aren't a peaceful
+bunch. You cannot seem to find the keeper of all these weapons, so you are
+wary, careful not to turn your back for too long to the dark corner of the
+room. He may be hiding there. A large sign hangs on the wall. There is a door
+to the east.
+~
+118 dh 0
+D1
+~
+door~
+1 0 11823
+E
+sign~
+0~
+No magic permitted on this premises by orders from the higher gods.
+~
+S
+#11823
+Entrance To The Weapons Shop~
+   It's so dark here that you can barely see your own hand before your eyes.
+Better watch out; the Rakshasa are great at pouncing from dark corners. To
+the west lies a door to the shop and to the east the main street extends into
+the village.
+~
+118 d 0
+D1
+~
+~
+0 0 11824
+D3
+~
+door~
+1 0 11822
+S
+#11824
+The Feline Way~
+   You are traveling on the main street of the village. There is a lot of
+activity here as the Rakshasa citizens go about on their business.
+   The street continues north and south through the village, flanked on the
+east and west by large, dark buildings. You can hear sounds coming from
+inside them.
+~
+118 0 1
+D0
+~
+~
+0 0 11817
+D1
+~
+~
+0 0 11825
+D2
+~
+~
+0 0 11830
+D3
+~
+~
+0 0 11823
+S
+#11825
+The Entrance to a Dark Magic Shop~
+   This unlit shop smells strongly of herbs and decaying flesh. The shadows
+are thick and you become aware of a Rakshasan watching you from the corner as
+you examine the wares around you.
+   To the east is a door and to the west is the main street.
+~
+118 d 0
+D1
+~
+door~
+1 0 11826
+D3
+~
+~
+0 0 11824
+S
+#11826
+A Dark Magic Shop~
+   Candles on the wall illuminate the room just enough for you to notice all
+the strange concoctions on the shelves. You look around the chamber for the
+mad wizard who created all this, but he is nowhere to be found. You see a
+sign on the wall.
+   There is a door to the west.
+~
+118 d 0
+D3
+~
+door~
+1 0 11825
+E
+sign~
+0~
+Although this is a magic shop, no magic is permitted in here by orders of the
+higher gods.
+~
+S
+#11827
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+118 0 4
+D0
+~
+~
+0 0 11821
+D2
+~
+~
+0 0 11834
+D3
+~
+~
+0 0 5776
+S
+#11828
+A Side Road~
+   This road leads east through the Rakshasa Village and is blocked by a high,
+spiked fence to the west. There is less traffic on this road than the main
+street.
+   To the south you see a very large, evil-looking building.
+~
+118 0 1
+D1
+~
+~
+0 0 11829
+D2
+~
+door~
+1 0 11835
+S
+#11829
+A Side Road~
+   This road leads east and west through the Rakshasa Village. There is less
+traffic on this road than the main street.
+~
+118 0 1
+D1
+~
+~
+0 0 11830
+D3
+~
+~
+0 0 11828
+S
+#11830
+The Feline Way~
+   You travel on the main street of the village. There is a lot of activity
+here, as the Rakshasa citizens go about their daily business.
+   The street continues north and south through the village. You see a side
+road leading east and west from here, as well. At the point in which the two
+roads cross, you see a large, deep well.
+~
+118 0 1
+D0
+~
+~
+0 0 11824
+D1
+~
+~
+0 0 11831
+D2
+~
+~
+0 0 11837
+D3
+~
+~
+0 0 11829
+S
+#11831
+A Side Road~
+   This road leads east and west through the Rakshasa Village. There is less
+traffic on this road than the main street.
+~
+118 0 1
+D1
+~
+~
+0 0 11832
+D3
+~
+~
+0 0 11830
+S
+#11832
+A Side Road~
+   This road leads west through the Rakshasa Village and is blocked by a high,
+spiked fence to the east. There is less traffic on this road than the main
+street.
+   To the south you see a large well-maintained building.
+~
+118 0 1
+D2
+~
+door~
+1 0 11839
+D3
+~
+~
+0 0 11831
+S
+#11833
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+118 0 4
+D0
+~
+~
+0 0 11863
+D1
+~
+~
+0 0 5782
+D2
+~
+~
+0 0 11840
+S
+#11834
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+118 0 4
+D0
+~
+~
+0 0 11827
+D2
+~
+~
+0 0 11841
+D3
+~
+~
+0 0 5776
+S
+#11835
+An Entrance to the Temple~
+   This room leads to the Temple of the Rakshasa Village. The candles on the
+walls light your way through the building. The room continues east and south
+of here.
+~
+118 d 0
+D0
+~
+door~
+1 0 11828
+D1
+~
+~
+0 0 11836
+D2
+~
+~
+0 0 11842
+S
+#11836
+North Of The Altar~
+   You are standing in a small niche just north of a strangely-shaped altar.
+The air is dry here and is full of static energy.
+~
+118 d 0
+D2
+~
+~
+0 0 11843
+D3
+~
+~
+0 0 11835
+S
+#11837
+The Feline Way~
+   You travel on the main street of the village. There is a lot of activity
+here, as the Rakshasa citizens go about their lives.
+   The street continues north and south through the village.
+~
+118 0 1
+D0
+~
+~
+0 0 11830
+D2
+~
+~
+0 0 11844
+S
+#11838
+Inside The Nursery~
+   Here, Rakshasa cubs wrestle each other playfully. The walls are decorated
+with pictures of the Brown Dragon, as well as pictures of humans, elves, and
+dwarves to teach the cubs what to hunt.
+~
+118 d 0
+D1
+~
+~
+0 0 11839
+D2
+~
+~
+0 0 11845
+S
+#11839
+Entrance To The Nursery~
+   You hear the sounds of the Rakshasa cubs playfully growling in the
+background. The walls are decorated with figures of the Brown Dragon, meant
+to instill fear into the cubs at an early age, no doubt. The floor is
+littered with toys and torn objects.
+~
+118 d 0
+D0
+~
+door~
+1 0 11832
+D2
+~
+~
+0 0 11846
+D3
+~
+~
+0 0 11838
+S
+#11840
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+118 0 4
+D0
+~
+~
+0 0 11833
+D1
+~
+~
+0 0 5782
+D2
+~
+~
+0 0 11847
+S
+#11841
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+118 0 4
+D0
+~
+~
+0 0 11834
+D2
+~
+~
+0 0 11848
+D3
+~
+~
+0 0 5799
+S
+#11842
+West of the Altar~
+   You are standing in the shadows of an Altar room. The altar itself stands
+in the open to the east, inviting you to explore its polished surface and
+intricate designs.
+~
+118 d 0
+D0
+~
+~
+0 0 11835
+D1
+~
+~
+0 0 11843
+S
+#11843
+The Temple Altar~
+   In the center of the room, you see a black marble altar shaped like a huge
+tiger claw. There are bloodstains all around the room, not just on the altar.
+There have obviously been many sacrifices to the Brown Dragon in this room.
+You can almost hear the screams of those who have been tortured here.
+   To the north and west, you can see the chamber lead away from the altar.
+~
+118 d 0
+D0
+~
+~
+0 0 11836
+D3
+~
+~
+0 0 11842
+S
+#11844
+The Feline Way~
+   You travel on the main street of the village. There is a lot of activity
+here, as the Rakshasa citizens go about their lives.
+   The street continues north and south through the village.
+~
+118 0 1
+D0
+~
+~
+0 0 11837
+D2
+~
+~
+0 0 11851
+S
+#11845
+Inside the Nursery~
+   You see the Rakshasa cubs wrestling each other playfully. The walls are
+decorated with more pictures of the Brown Dragon, as well as those of humans,
+elves, and dwarves, obviously intended as instruction on what to fear and
+what to hunt.
+~
+118 d 0
+D0
+~
+~
+0 0 11838
+D1
+~
+~
+0 0 11846
+S
+#11846
+Inside the Nursery~
+   You see the Rakshasa cubs wrestling each other playfully. The walls are
+decorated with more pictures of the Brown Dragon, as well as those of humans,
+elves, and dwarves, obviously intended as instruction on what to fear and
+what to hunt.
+~
+118 d 0
+D0
+~
+~
+0 0 11839
+D3
+~
+~
+0 0 11845
+S
+#11847
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+118 0 4
+D0
+~
+~
+0 0 11840
+D1
+~
+~
+0 0 5805
+D2
+~
+~
+0 0 11854
+S
+#11848
+A Dusty Trail~
+   The trail leads north and south around a high fence to the east.
+~
+118 0 4
+D0
+~
+~
+0 0 11841
+D2
+~
+~
+0 0 11855
+D3
+~
+~
+0 0 5799
+S
+#11849
+Base of the Tower~
+   You are standing at the base of an enormous tower. There is a small square
+door in the ceiling, guarded by several large felines. Someone or something
+of importance must lie in the room above.
+   The tower exits to the east.
+~
+118 d 0
+D1
+~
+~
+0 0 11850
+D4
+You see a small square door in the ceiling.
+~
+door~
+1 0 11862
+S
+#11850
+Path Along The Wall~
+   Many Rakshasan citizens travel along this path. You notice the blandness
+of the decorations and the lack of vegetation of the village which seems to
+reflect the Rakshasan mentality of simplicity.
+   To the west lies a large tower, at the end of the east-west road that
+splits the village.
+~
+118 d 1
+D1
+~
+~
+0 0 11851
+D3
+~
+~
+0 0 11849
+S
+#11851
+The Feline Way~
+   You travel on the main street of the village. There is a lot of activity
+here, as the Rakshasa citizens go about on their daily business.
+   The street continues north through the village, and south where you see a
+gate exiting into the desert. A path extends to the east and west from here,
+as well.
+~
+118 0 1
+D0
+~
+~
+0 0 11844
+D1
+~
+~
+0 0 11852
+D2
+~
+gate~
+1 0 11858
+D3
+~
+~
+0 0 11850
+S
+#11852
+A Path Along the Wall~
+   Rakshasan citizens travel along this path, ignoring the blandness of the
+decorations and the lack of vegetation of the village, and directing their
+attentions to other business.
+   To the east, at the end of this east-west road, a large hut stands open.
+~
+118 d 1
+D1
+~
+~
+0 0 11853
+D3
+~
+~
+0 0 11851
+S
+#11853
+A Straw Hut~
+   This is where the Rakshasan citizens live.  The hut is made of a straw and
+mud mixture and displays only a rug on the floor and a table in the corner.
+On the table are some bones, though it is hard to make out whether they are
+the bones of humans or some animal.
+   To the west an exit leads to the street.
+~
+118 d 0
+D3
+~
+~
+0 0 11852
+S
+#11854
+A Dusty Trail~
+   The trail leads north and south around a high fence to the west.
+~
+118 0 4
+D0
+~
+~
+0 0 11847
+D1
+~
+~
+0 0 5805
+D2
+~
+~
+0 0 11861
+S
+#11855
+A Dusty Trail~
+   The trail bends here, heading north and east around a high spiked fence.
+~
+118 0 4
+D0
+~
+~
+0 0 11848
+D1
+~
+~
+0 0 11856
+D2
+~
+~
+0 0 5831
+D3
+~
+~
+0 0 5816
+S
+#11856
+A Dusty Trail~
+   The trail leads east and west around a high fence to the north.
+~
+118 0 4
+D1
+~
+~
+0 0 11857
+D2
+~
+~
+0 0 5832
+D3
+~
+~
+0 0 11855
+S
+#11857
+A Dusty Trail~
+   The trail leads east and west around a high fence to the north.
+~
+118 0 4
+D1
+~
+~
+0 0 11858
+D2
+~
+~
+0 0 5832
+D3
+~
+~
+0 0 11856
+S
+#11858
+Gates Of A Rakshasan Village~
+   To the north is a break in the high spiked fence around a small village.
+A worn trail leads east and west outside the wall, while an ancient cobblestone
+roadway cuts through the black dunes to the south.
+~
+118 c 16
+D0
+~
+gate~
+1 0 11851
+D1
+~
+~
+0 0 11859
+D2
+~
+~
+0 0 5833
+D3
+~
+~
+0 0 11857
+S
+#11859
+A Dusty Trail~
+   The trail leads east and west around a high fence to the north.
+~
+118 0 4
+D1
+~
+~
+0 0 11860
+D2
+~
+~
+0 0 5834
+D3
+~
+~
+0 0 11858
+S
+#11860
+A Dusty Trail~
+   The trail leads east and west around a high fence to the north.
+~
+118 0 4
+D1
+~
+~
+0 0 11861
+D2
+~
+~
+0 0 5834
+D3
+~
+~
+0 0 11859
+S
+#11861
+A Dusty Trail~
+   The trail bends here, heading north and west around a high spiked fence.
+~
+118 0 4
+D0
+~
+~
+0 0 11854
+D1
+~
+~
+0 0 5822
+D2
+~
+~
+0 0 5835
+D3
+~
+~
+0 0 11860
+S
+#11862
+The Maharajah's Quarters~
+   You see an elegantly decorated room with many finely made tapestries of the
+Brown Dragon hanging on the walls. Many scantily clad Rakshasi consorts
+surround the Maharajah and succumb to his every desire.
+~
+118 d 0
+D5
+~
+door~
+1 0 11849
+S
+#11863
+A Dusty Trail~
+The trail leads north and south around a high fence to the west.
+~
+118 0 4
+D0
+~
+~
+0 0 11820
+D1
+~
+~
+0 0 5782
+D2
+~
+~
+0 0 11833
+S
+$~

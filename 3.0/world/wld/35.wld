@@ -1,0 +1,1403 @@
+#3500
+Fortified Fringe~
+   To your west and south the sea clashes with the sturdy walls of the domed
+structure. Centered on the surface of the massive structure is a bubblelike
+formation. Within the center, you can vaguely make out what looks to be a
+porthole, but there is no opening on the dome here.
+~
+35 0 4
+D0
+~
+~
+0 0 3501
+D1
+~
+~
+0 0 3507
+D2
+~
+~
+0 0 27115
+D3
+~
+~
+0 0 26961
+S
+#3501
+Fortified Fringe~
+   Raging waves pound into the ledge, creating a salty cloud of mist that
+permeates the air. To your east is a spherical entryway, though you cannot
+get in through this point. Through the walls, you notice a dark opening, yet
+it seems you must walk around to the south side before you can enter.
+~
+35 0 4
+D0
+~
+~
+0 0 3502
+D2
+~
+~
+0 0 3500
+D3
+~
+~
+0 0 26808
+S
+#3502
+Fortified Fringe~
+   You stand on the surrounding ledge of a massive structure that rises from
+the depths of the ocean. To the southeast is a domed, transparent entryway that
+juts out from the core of the encompassing, solid margin. Peering through the
+walls, you can see a small porthole, though you cannot enter the sphere here.
+~
+35 0 4
+D0
+~
+~
+0 0 26503
+D1
+~
+~
+0 0 3503
+D2
+~
+~
+0 0 3501
+D3
+~
+~
+0 0 26655
+S
+#3503
+Fortified Fringe~
+   To the south is what looks to be an impenetrable bubble. However, by
+looking through the transparent walls of the dome, you can see that the
+entryway is on the opposite side.
+~
+35 0 4
+D0
+~
+~
+0 0 26504
+D1
+~
+~
+0 0 3504
+D3
+~
+~
+0 0 3502
+S
+#3504
+Fortified Fringe~
+   The ocean is a bit calmer here on the northeast corner than it was to the
+south, though you are still unable to hear yourself speak. Southwest from
+here is what seems to be a domelike formation that may be the entryway to the
+dense, underwater structure.
+~
+35 0 4
+D0
+~
+~
+0 0 26505
+D1
+~
+~
+0 0 26659
+D2
+~
+~
+0 0 3505
+D3
+~
+~
+0 0 3503
+S
+#3505
+Fortified Fringe~
+   You're relieved to find yourself on the surface of a sturdy structure
+that rises from the sea. Thin strips of kelp are scattered about the surface,
+making movement tedious.
+~
+35 0 4
+D0
+~
+~
+0 0 3504
+D1
+~
+~
+0 0 26812
+D2
+~
+~
+0 0 3506
+S
+#3506
+Fortified Fringe~
+   You're standing on the southeast corner of what seems to be the surface of
+an underwater structure. Within the center of the surface is a transparent,
+global formation. Barnacles are strewn about the surface along with slick
+seaweed.
+~
+35 0 4
+D0
+~
+~
+0 0 3505
+D1
+~
+~
+0 0 26965
+D2
+~
+~
+0 0 27117
+D3
+~
+~
+0 0 3507
+S
+#3507
+Fortified Fringe~
+   The hemispherical entryway is transparent, and within you can see a dark
+outlet descending into the heart of the structure. The entropic sea to the
+south creates such a loud uproar that all other sounds are silenced.
+~
+35 0 4
+D0
+~
+~
+0 0 3508
+D1
+~
+~
+0 0 3506
+D2
+~
+~
+0 0 27116
+D3
+~
+~
+0 0 3500
+S
+#3508
+Inside the Dome~
+   The walls are amazingly airtight and soundproof. Thus, the blaring sounds of
+the sea fade out, allowing you to hear some of the strange, echoing sounds that
+come from below.
+~
+35 cdf 0
+D2
+~
+~
+0 0 3507
+D5
+~
+~
+0 0 3509
+S
+#3509
+Conduit~
+   While descending, you hear what sounds like someone breathing in the shadows
+below, though you're not sure if you're hearing things or not.
+~
+35 adi 0
+D4
+~
+~
+0 0 3508
+D5
+~
+~
+0 0 3510
+S
+#3510
+Conduit~
+   An eerie, distorted moan comes from below and reverberates throughout the
+conduit. Your depth of sight is limited to the small sphere of illumination
+from your light-source.
+~
+35 adi 0
+D4
+~
+~
+0 0 3509
+D5
+~
+~
+0 0 3511
+S
+#3511
+Conduit~
+   Barnacles tear at your hands and feet as you carefully nudge yourself
+downward. The lower you descend, the more humid the air gets, making it
+difficult to breathe.
+~
+35 adi 0
+D4
+~
+~
+0 0 3510
+D5
+~
+~
+0 0 3512
+S
+#3512
+Conduit~
+   A sharp scent of fish comes from below, and for the first time you can see
+shimmering light below. The soothing, oscillatory sound of water emanates all
+around you, reminding you that you're UNDER water in this strange structure.
+~
+35 adi 0
+D4
+~
+~
+0 0 3511
+D5
+~
+~
+0 0 3513
+S
+#3513
+Underwater Concavity~
+   This massive cavity seems to be designed such that each segment of wall is
+supported by the other, and the only added reinforcement is water-pressure.
+There is no other material in this room that adds support, making the whole
+design ingenious. The material is unusual, for it seems strong, yet it's
+transparent like cut diamond. The whole effect is rather peculiar. It's as if
+you're submerged in water without feeling any liquid. Arched, transparent
+passageways lead off in all directions.
+~
+35 d 0
+D0
+~
+~
+0 0 3527
+D1
+~
+~
+0 0 3549
+D2
+~
+~
+0 0 3514
+D3
+~
+~
+0 0 3537
+D4
+~
+~
+0 0 3512
+S
+#3514
+Transparent Passage~
+   A soft glow seems to come from the seafloor that illuminates everything
+faintly. Schools of fish swim below, and to your right is a flat bed of coral.
+Sea creatures encircle the whole chamber, which makes you feel uneasy.
+~
+35 d 0
+D0
+~
+~
+0 0 3513
+D2
+~
+~
+0 0 3515
+S
+#3515
+Transparent Passage~
+   A massive shark cruises above the channel, creating a reverberative gushing
+noise, and a slight swaying of the passage. The pressure from the water could
+shatter the passage and drown you instantly, though whoever or whatever built
+this seems confident in its design, so you should be too - right?
+~
+35 d 0
+D0
+~
+~
+0 0 3514
+D2
+~
+~
+0 0 3516
+S
+#3516
+Transparent Passage~
+   A soft, blue haze is reflected on your clothes and flutters about as if you
+were covered with living light. A faint moan comes from the south, then echoes
+past you, traversing down the hall until it fades to a hiss.
+~
+35 d 0
+D0
+~
+~
+0 0 3515
+D2
+~
+~
+0 0 3517
+S
+#3517
+High-pressured Chamber~
+   You hear a slight ringing in your ears due to the extreme pressure in this
+chamber. The whole room is like a hollowed-out globe, with the lower half
+submerged in the seafloor, and the upper exposed to the waters. The seafloor
+glows bright orange, making the chamber feel like a burning sphere of light.
+~
+35 d 0
+D0
+~
+~
+0 0 3516
+D1
+~
+~
+0 0 3518
+D2
+~
+~
+0 0 3525
+D3
+~
+~
+0 0 3524
+S
+#3518
+Northeast of a Pressured-chamber~
+   To your west, you can see the entrence, and southwest from here is a thin
+ladder that protrudes from the top of the globe, allowing one to climb into an
+upper chamber. It's difficult to stand here, for the walls slope upward due to
+the spherical interior of this chamber.
+~
+35 d 0
+D2
+~
+~
+0 0 3519
+D3
+~
+~
+0 0 3517
+S
+#3519
+Within a Pressured-chamber~
+   Due to the sharply angled walls it's difficult to stabilize your stance. To
+the west, you can see a thick substance that drips from the axis of the
+global chamber. It leads into an upper loft, which seems to serve as some sort
+of observatory. Your clothes are illuminated by the glowing seafloor, making
+you light up like a firefly.
+~
+35 d 0
+D0
+~
+~
+0 0 3518
+D2
+~
+~
+0 0 3520
+D3
+~
+~
+0 0 3525
+S
+#3520
+Southeast of a Pressured-chamber~
+   You stand in the southeast area of a global chamber, and to your west and
+north is the ladder-like substance that leads upward into another joint-
+formation. You marvel at the carefully-placed blocks of transparent walling.
+Each are cut flawlessly, so that no other supporting material is needed.
+~
+35 d 0
+D0
+~
+~
+0 0 3519
+D3
+~
+~
+0 0 3521
+S
+#3521
+Within a Pressured-chamber~
+   Aside from the humidity and the unbearable pressure, the ambiance is
+otherworldly: nudged against the translucent walls are patches of multi-
+colored coral and, almost hidden below, lie purple, gray, and orange starfish.
+What makes the scene so extraordinary is that you feel as if you're completly
+surrounded by water, and for a moment you forget that the walls are there.
+~
+35 d 0
+D0
+~
+~
+0 0 3525
+D1
+~
+~
+0 0 3520
+D3
+~
+~
+0 0 3522
+S
+#3522
+Southwest of a Pressured-chamber~
+   Pure silence overtakes you, making you feel uneasy. You glance up through
+the crystalline ceiling, only to notice a small shadow move slowly from one
+side of the chamber to the other, then make a sharp turn in your direction. Is
+it outside or inside? You can't tell, but either way, it senses your presence.
+~
+35 d 0
+D0
+~
+~
+0 0 3523
+D1
+~
+~
+0 0 3521
+S
+#3523
+Within a Pressured-chamber~
+   The walls here slope upwards, making it difficult to stand without using
+your hands for support. Looking out of the walls to the west, you see that a
+school of jellyfish gliding by. Light from the glowing seafloor reflects within
+the translucent fish, making them appear as if they glowed internally.
+~
+35 d 0
+D0
+~
+~
+0 0 3524
+D1
+~
+~
+0 0 3525
+D2
+~
+~
+0 0 3522
+S
+#3524
+Northwest of a Pressured-chamber~
+   You notice how, for some reason, the seafloor glows fainter here than any
+of the other positions within the spherical chamber. Then, suddenly, an
+anomalous, crablike creature glides across the seafloor and burrows underneath
+the chamber. Glowing streaks of gelatinous substance ooze from the creature's
+mouth, which fuses with the seafloor, causing it to brighten considerably.
+~
+35 d 0
+D1
+~
+~
+0 0 3517
+D2
+~
+~
+0 0 3523
+S
+#3525
+Underneath the Observatory~
+   A grooved, thick substance extrudes from what seems to be a formation
+attached to the exterior of the sphere. It seems that the ruts in the
+material function as grips, allowing one to climb easily above. For a 
+moment the entire chamber is darkened. Looking up, you notice an abnormally
+wide manta ray that sails by sluggishly.
+~
+35 d 0
+D0
+~
+~
+0 0 3517
+D1
+~
+~
+0 0 3519
+D2
+~
+~
+0 0 3521
+D3
+~
+~
+0 0 3523
+D4
+~
+~
+0 0 3526
+S
+#3526
+Observatory~
+   You shuffle around in the dark until you nudge what feels to be a lever.
+Upon doing so, an illuminated liquid flows out from a bladder within the 
+interior of the transparent walls. Gradually, the glowing liquid flows out 
+and covers the shell of the observatory, lighting the entire area. The walls
+in this area seem to magnify everything outside, amplifying your sense-
+perception. 
+~
+35 d 0
+D5
+~
+~
+0 0 3525
+S
+#3527
+Tubular Pass~
+   Gradually, the pasage descends underneath the seafloor's surface, making
+the transparent walls encased with soft earth. You can see fluorescent liquid
+flow through small veins through the glass-like tubing, which reveals a
+labyrinth of hydraulic networks--twisting and winding about--providing light
+for an otherwise dark passage.
+~
+35 d 0
+D0
+~
+~
+0 0 3528
+D2
+~
+~
+0 0 3513
+S
+#3528
+Tubular Pass~
+   Much like a tree's manifold branches that, when growing, sprout out in a
+random fashion, the veins of glowing liquid spread out and intertwine,
+illuminating the pass. An overwhelming sensation of wonder resinates within
+this pass, and for a moment you loose track of where you are.
+~
+35 d 0
+D0
+~
+~
+0 0 3529
+D2
+~
+~
+0 0 3527
+S
+#3529
+Tubular Pass~
+   The underground network of fluorescent liquid must originate from somewhere
+within the core of the structure, and from that point it flows throughout the
+areas which require lighting. The complexity of this infrastructure fills you
+with awe, though you doubt the creatures that live here would care for your
+admiration.
+~
+35 d 0
+D0
+~
+~
+0 0 3530
+D2
+~
+~
+0 0 3528
+S
+#3530
+Junction~
+   There's a split here that resembles a 'v', allowing one to travel more east
+or west, depending on which direction is chosen. The luminous liquid flows
+quickly through the veins, much like the branching system of muscular tubes
+that carry blood away from the heart to the organs of the body.
+~
+35 d 0
+D1
+~
+~
+0 0 3531
+D2
+~
+~
+0 0 3529
+D3
+~
+~
+0 0 3534
+S
+#3531
+Underground Passage~
+   The material used for the walls is no longer transparent, though every few
+meters there is a small, organic bulb that drops from the ceiling. The bulb is
+filled with swirling, illuminating liquid, making a cone of light extend from
+the ceiling that creates a circular patch of lit flooring.
+~
+35 d 0
+D1
+~
+~
+0 0 3532
+D3
+~
+~
+0 0 3530
+S
+#3532
+Underground Passage~
+   Cold vapors flow from underneath a thin slit on the ground to the north,
+thereby revealing a virtually hidden door. You reach out and touch the cold,
+organic surface of the door, searching for a handle, but find nothing. Almost
+hidden on the east wall is a thin slot, and from this you realize that you
+require some kind of key to enter.
+~
+35 d 0
+D0
+A peculiar, unalloyed entrance.
+~
+seal~
+2 3500 3533
+D3
+~
+~
+0 0 3531
+S
+#3533
+Hatchery~
+   The temperature of this room is frigid, and there is no light source. White
+vapors flow fourth from the periphery of the ceiling onto the floor like
+liquid, carpeting everything with a thin layer of fog. Hundreds of thin trays
+align the walls, and within the trays are thousands of small, pearl-like eggs.
+From each corner, there are small tubes that feed water into the trays which,
+in turn, creates a constant gurgling noise.
+~
+35 d 0
+D2
+A peculiar, unalloyed exit.
+~
+seal~
+2 3500 3532
+S
+#3534
+Underground Passage~
+   In the distance you can hear what sounds like leaves rustling in a violent
+wind; however, upon moving closer, you make out thousands of glimmering
+shells moving about on the ground, clacking into each other as they skitter
+about. Once amidst the activity, the shellcrabs stop and hide within their
+shells for protection.
+~
+35 d 0
+D1
+~
+~
+0 0 3530
+D3
+~
+~
+0 0 3535
+S
+#3535
+Underground Passage~
+   The bulbs that extend from the ceiling resemble those found on kelp, yet
+these bulbs are much larger and seem to be grafted onto the ceiling. Light
+pulsates slowly, and every few minutes the passage becomes opaque. To the
+north is what appears to be a door. It's hard to tell due to the vine-like
+growth that covers it.
+~
+35 d 0
+D0
+~
+seal~
+2 0 3536
+D1
+~
+~
+0 0 3534
+S
+#3536
+Repository~
+   Hollowed compartments extend from the floor to the ceiling on every wall.
+Green-tinted film covers some of the compartments, creating an airtight seal
+to preserve their contents. Upon touch, the film quickly disperses away from
+where you placed your finger, much like ripples in a pond moving away from
+whatever ruptures the surface.
+~
+35 dfs 0
+D2
+~
+seal~
+2 0 3535
+S
+#3537
+Translucent Channel~
+   This conduit is slightly narrower than the others, forcing you to bend
+uncomfortably as you walk. Also, unlike the other passages, this channel 
+seems to descend slightly, gradually submerging into the seafloor.
+~
+35 d 0
+D1
+~
+~
+0 0 3513
+D3
+~
+~
+0 0 3538
+S
+#3538
+Translucent Channel~
+   To your west, at the end of the channel, you see an undulatory, orange
+light. The entire channel slowly phases from darkness to an orange haze, then
+back to darkness, making your walk precarious.
+~
+35 d 0
+D1
+~
+~
+0 0 3537
+D3
+~
+~
+0 0 3539
+S
+#3539
+Covered Channel~
+   Only a small transparent space remains at the apex of the arced ceiling,
+making the channel seem more like an underground tunnel. Below you see only
+dirtlike substance with stringy burrows twisting about, marking the existence
+of some kind of ocean dwelling worm. 
+~
+35 d 0
+D1
+~
+~
+0 0 3538
+D3
+~
+~
+0 0 3540
+S
+#3540
+Brachyuraian Hive~
+   Thousands of miniature crablike creatures are scattered about the chamber,
+some half burried in crevices, others skittering about, transporting food and
+material from above to create and sustain their hive. They don't seem to notice
+you, and continue with their reproductive process.
+~
+35 d 0
+D0
+~
+~
+0 0 3541
+D1
+~
+~
+0 0 3539
+D2
+~
+~
+0 0 3542
+D3
+~
+~
+0 0 3548
+S
+#3541
+Northeast within the Hive~
+   The entire chamber ebbs with an orange light that emanates from within the
+shells of the crablike creatures. They cling and traverse the ceiling as well
+as the floor, making the entire cavern move as if it were alive. The creatures
+seem to be familiar with interacting with humanoids, or humanlike beings, for
+they go about their duties without taking notice to your presence. 
+~
+35 d 0
+D2
+~
+~
+0 0 3540
+D3
+~
+~
+0 0 3547
+S
+#3542
+Southeast within the Hive~
+   Being carful not to step on any of the creatures, you painstakingly edge
+your way to the southeast corner of the Hive. The walls and ground are damp and
+claylike, making it easy for the crablike creatures to burrow within the walls
+for the use of storage and reproduction. Small piles of kelp are heaped in the
+corner here, proabably used as a food source.
+~
+35 d 0
+D0
+~
+~
+0 0 3540
+D3
+~
+~
+0 0 3543
+S
+#3543
+Within the Hive~
+   It seems that these creatures are being bred for the sole purpose of
+reproducing the glowing substance they produce naturally, for this substance
+can be used as a natural light source. A self-sufficient creature that can
+secrete such a substance is fascinating, though the other beings who have
+also discovered this would not appreciate you leaving with this discovery.
+~
+35 d 0
+D0
+~
+~
+0 0 3548
+D1
+~
+~
+0 0 3542
+D3
+~
+~
+0 0 3544
+S
+#3544
+Southwest within the Hive~
+   Scurrying about everywhere are young crablike creatures. Some carry in
+kelp, while others scape the walls and burrow holes for housing. Each creature
+seems to have a specific duty that is carried out efficiently. For the first
+time you notice some of the larger--perhaps female--creatures half burrowed
+within the wall to the left.
+~
+35 d 0
+D0
+~
+~
+0 0 3545
+D1
+~
+~
+0 0 3543
+S
+#3545
+Within the Hive~
+   Stockpiles of kelp are stuffed into gaping holes in the wall to the left,
+providing nourishment to the larger creatures which seem to be bound to the 
+wall. You assume that these larger creatures are the females, and are situated
+in this fixed fashion due to their reproductive duties. 
+~
+35 d 0
+D0
+~
+~
+0 0 3546
+D1
+~
+~
+0 0 3548
+D2
+~
+~
+0 0 3544
+S
+#3546
+Northwest within the Hive~
+   To your left is a female crab embedded within the wall, and, for a short
+moment, it wiggles left and right until it dislodges itself. What is left 
+behind is the rear section of its body, and dozens of newly-born creatures
+scatter out from the rump, leaving only an empty shell that will be recycled
+and used as food or building material.
+~
+35 d 0
+D1
+~
+~
+0 0 3547
+D2
+~
+~
+0 0 3545
+S
+#3547
+Within the Hive~
+   Infant crabs align all sections of the wall to the north, and when the
+pulsating glow fades it looks as if the wall is alive. A profusion of crabs
+pour out from a hole in the ceiling, and soon after they quickly seal it.
+These creatures' disgusting habitat and mode of living is repulsive, and for
+a moment you become nauseated with the overwhelming stimulus of their life-
+sustaining activities.
+~
+35 d 0
+D1
+~
+~
+0 0 3541
+D2
+~
+~
+0 0 3548
+D3
+~
+~
+0 0 3546
+S
+#3548
+Center of the Hive~
+   It seems as if the creatures avoid walking within the midst of their
+breeding grounds, for there is an invisible symmetric circle that they
+avoid crossing, leaving a bare patch of earth beneath your feet. There is
+no obvious explanation for the purpose of avoiding the center, though there
+must be some reason they do not cross here. Then, around the fringes of the
+circle, you notice a carcass from one of the crabs and you see many skeletal
+remains from these creatures scattered about beneath your feet.
+~
+35 d 0
+D0
+~
+~
+0 0 3547
+D1
+~
+~
+0 0 3540
+D2
+~
+~
+0 0 3543
+D3
+~
+~
+0 0 3545
+S
+#3549
+Underwater Walkway~
+   Transparent material is used for the tubed passage, thus, you are able to
+see in all directions, including below, for the tubing is elevated about one
+meter from the seafloor.
+~
+35 d 0
+D1
+~
+~
+0 0 3550
+D3
+~
+~
+0 0 3513
+S
+#3550
+Underwater Walkway~
+   For the first time you notice thin strands that fasten to the exterior of
+the walkway and extend upwards at an angle. You assume these cables are used
+as support for this elevated walkway, and must connect to the solid block
+from which you entered.
+~
+35 d 0
+D1
+~
+~
+0 0 3551
+D3
+~
+~
+0 0 3549
+S
+#3551
+Underwater Walkway~
+   The angle that you must ascend increases dramatically, and the whole
+walkway is lifted even higher from the seafloor, almost to the point where
+it's no longer visible. The water is darker here, making it difficult to see
+with any depth, though you catch sight of a few fish when they swim close to
+the tubing.
+~
+35 d 0
+D1
+~
+~
+0 0 3552
+D3
+~
+~
+0 0 3550
+S
+#3552
+Hibernation Chamber~
+   Aligning the perimeter of this cylindrical, hovering chamber, is a thin
+rim that appears to be used for hibernation. Glancing upwards, you realize
+that the elevation of this cylinder is much greater than expected. There
+must be similar hibernation quarters above, accessible by the three ladder-
+like beams that are located in front and on the sides of the chamber.
+~
+35 d 0
+D0
+~
+~
+0 0 3553
+D2
+~
+~
+0 0 3559
+D3
+~
+~
+0 0 3551
+S
+#3553
+Northwest corner~
+    Resting on the rim to your west and north is a layer of peculiar
+insulating material. You assume that the temperature of the waters drop
+at times, and thus whatever sleeps here must require extra warmth to avoid
+hypothermic condtions. This seems strange, however, for the humidity would
+lead one to belive it's warm all year round. Perhaps the moisture comes
+from somewhere else.
+~
+35 d 0
+D1
+~
+~
+0 0 3554
+D2
+~
+~
+0 0 3552
+S
+#3554
+Hibernation Chamber~
+   An awkward, organic ladder leaders upwards through a porthole, and to the
+south is a thick tube of transparent material that functions as a brace within
+the center of the complex. Because of this, one can glance through the center
+beam, allowing partial visibility through to the other side.
+~
+35 d 0
+D1
+~
+~
+0 0 3555
+D3
+~
+~
+0 0 3553
+D4
+~
+~
+0 0 3560
+S
+#3555
+Northeast Corner~
+   A thin veneer of glowing substance is used to align the outer rim of the
+bunking, creating a guiding strip of light around the border of the chamber.
+The light source is faint, allowing one to espy vague figurations, though
+nothing completely distinguishable.
+~
+35 d 0
+D2
+~
+~
+0 0 3556
+D3
+~
+~
+0 0 3554
+S
+#3556
+Hibernation Chamber~
+   From a portal in the upper loft, a thick, organic ladder stretches to the
+floor. When placing your hand on the organic substance, it slowly bends about
+your hand, providing a strong grasp for climbing. Eerie light ebbs in and out,
+and for a moment everything is visible. Then suddenly, the light dissipates,
+leaving you motionless in darkness.
+~
+35 d 0
+D0
+~
+~
+0 0 3555
+D2
+~
+~
+0 0 3557
+D4
+~
+~
+0 0 3562
+S
+#3557
+Southeast Corner~
+   Moisture has condensed on the ceiling and walls, leaving a thick blanket of
+dampness. Every few minutes the moisture builds up on the ceiling, leaving
+glistening droplets that await a minor disturbance to make them fall and
+splatter. The droning sound of the droplets dislodging and falling to the
+ground could potentially drive one insane.
+~
+35 d 0
+D0
+~
+~
+0 0 3556
+D3
+~
+~
+0 0 3558
+S
+#3558
+Hibernation Chamber~
+   Vague silhouettes dance about on the other side of the transparent beam. You
+cannot tell if they are alive, or whether they are anything more than
+reflections from the waters outside. Either way, the effect makes you grow more
+anxious, more tense. Whatever would call this place home is surely mad.
+~
+35 d 0
+D1
+~
+~
+0 0 3557
+D3
+~
+~
+0 0 3559
+D4
+~
+~
+0 0 3564
+S
+#3559
+Southwest Corner~
+   Tediously repetitious sounds of liquid falling from the ceiling becomes
+increasingly annoying, making you grit your teeth with tension. You wonder how,
+due to the lack of heat within this chamber, there is so much humidity. There
+must be another source that creates this moisture. To the northwest, you can
+see the entrance, and east from here is a strange, organic ladder that allows
+access to the upper level.
+~
+35 d 0
+D0
+~
+~
+0 0 3552
+D1
+~
+~
+0 0 3558
+S
+#3560
+Upper Level~
+   Another thin bunk encircles the upper loft, allowing more space for
+hibernating. There is a large bundle of insulating material resting on the
+bunk here, and it looks as if something or someone could be underneath it.
+~
+35 d 0
+D1
+~
+~
+0 0 3561
+D3
+~
+~
+0 0 3567
+D5
+~
+~
+0 0 3554
+S
+#3561
+Hibernator~
+   From this point, you can see a red, glowing ring at the peak of the center
+beam. You look closer, and notice that it is a heat source, and the water
+within the center of the beam is boiling. Small holes in the beam open up,
+venting steam into the chamber. This must be used to maintain a constant
+climate for proper sleeping conditions.
+~
+35 d 0
+D2
+~
+~
+0 0 3562
+D3
+~
+~
+0 0 3560
+S
+#3562
+Upper Level~
+   Pulsating light from the surrounding bunk creates a bizzare ambiance, and
+at once your face is flushed with anxiety. You hear a faint humming coming
+from somewhere within this chamber, though you cannot make out the source.
+~
+35 d 0
+D0
+~
+~
+0 0 3561
+D2
+~
+~
+0 0 3563
+D5
+~
+~
+0 0 3556
+S
+#3563
+Hibernator~
+   Small vent holes open on the surface of the beam, spraying a fine cloud
+of mist into the air. This is the source of the humidity, and its function
+must be climate-control for hibernation. You notice that the water within
+the beam is bubbling, and when you touch the surface, you realize that it's
+extremely hot. 
+~
+35 d 0
+D0
+~
+~
+0 0 3562
+D3
+~
+~
+0 0 3564
+S
+#3564
+Upper Level~
+   To the north through the transparent beam you can make out a looming,
+dark figure. You quickly become still and stare at it, waiting for signs
+of movement to see if it's alive. After blinking, it's gone.
+~
+35 d 0
+D1
+~
+~
+0 0 3563
+D3
+~
+~
+0 0 3565
+D5
+~
+~
+0 0 3558
+S
+#3565
+Hibernator~
+   Above, at the top of the center-beam, you can see that the rim is glowing
+red-hot. In turn, this heats the seawater within the center of the beam, and
+through small vents, releases steam into the air, creating a controlled
+climate.
+~
+35 d 0
+D0
+~
+~
+0 0 3566
+D1
+~
+~
+0 0 3564
+S
+#3566
+Hibernator~
+   Steam vents from small holes on the wall to your east, and the glowing
+veneer on the rim of the bunk pulsates. Glassy reflections move about on the
+walls, and you wonder if they're coming from you or something else.
+~
+35 d 0
+D0
+~
+~
+0 0 3567
+D2
+~
+~
+0 0 3565
+S
+#3567
+Hibernator~
+   It's extremely hot and humid here, for above you on the outside of the
+structure is a red-hot circlet that heats the water within the center-beam.
+Through the ceiling here you can make out the surface of the ocean, and to
+your left through the walls you can see the solid structure from which you
+came.
+~
+35 d 0
+D1
+~
+~
+0 0 3560
+D2
+~
+~
+0 0 3566
+S
+#3568
+Sound for Room 3560~
+Biodome sounds
+~
+35 cgj 0
+D2
+~
+~
+1 0 3560
+S
+#3569
+Sound for Room 3563~
+Biodome sounds
+~
+35 cgj 0
+D0
+~
+~
+0 0 3563
+S
+#3570
+Sound for Room 3564~
+Biodome sounds
+~
+35 cgj 0
+D0
+~
+~
+0 0 3564
+S
+#3571
+Sound for Room 3515~
+Biodome sounds
+~
+35 cgj 0
+D0
+~
+~
+0 0 3515
+S
+#3572
+Ocean sound~
+Biodome sounds
+~
+35 cgj 0
+D0
+~
+~
+0 0 3507
+S
+#3573
+Ocean sound~
+Biodome sounds
+~
+35 cgj 0
+D0
+~
+~
+0 0 3503
+S
+#3574
+Sound for Room 3526~
+Biodome sounds
+~
+35 cgj 0
+D0
+~
+~
+0 0 3526
+S
+#3575
+Sound for Room 3522~
+Biodome sounds
+~
+35 cgj 0
+D0
+~
+~
+0 0 3522
+S
+$~

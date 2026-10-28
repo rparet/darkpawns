@@ -1,0 +1,55 @@
+#15100
+sack flour~
+a sack of flour~
+A sack of flour has been dropped on the ground.~
+~
+12 0 a 0
+0 0 0 0 0
+12 3 20 100 0 1
+E
+sack flour~
+It's a simple sack of flour with no apparent markings. It weighs quite a bit
+but should fetch a good price if you can find a baker who wants it.
+~
+#15101
+spear wicked~
+a wicked looking spear~
+A long, wicked looking spear lies here.~
+~
+5 dik an 0
+4 4 5 11 5
+15 3 500 25 0 1
+E
+spear~
+The handle of the spear is of some sort of hardwood, worn smooth through use
+and it has a wicked four-edged worked metal blade. About a foor and a half
+up the shaft of the spear is a metal cross-bar guard.
+~
+#15102
+gamebag~
+a gamebag~
+A rough cloth bag lies here.~
+~
+15 0 akl 0
+50 5 -1 0 0
+4 3 10 75 0 1
+E
+pouch~
+This rough-looking bag for toting small game is fitted with a leather thong 
+that cinches it closed, and allows you to bear it on your back or about your
+waist.
+~
+#15104
+water hole~
+a large waterhole~
+A large waterhole wells up here, one of a few on the plains.~
+~
+23 e 0 0
+5000 5000 0 0 0
+1 3 0 100 0 1
+E
+water hole~
+The water looks clear and drinkable. There are many animal footprints all
+around the hole, another indication that the water is safe to drink.
+~
+$~

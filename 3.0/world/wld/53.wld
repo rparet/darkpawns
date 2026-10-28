@@ -1,0 +1,3364 @@
+#5300
+The Immortal Map Room of Mist Keep~
+   Mist Keep is designed as a starting city where new players and current
+players can choose citizenship. Maps on the wall detail the city, ramparts
+and sewer system.
+~
+53 cdgj 0
+E
+city~
+0~
+               Ni    0/    Th               A - Armorer
+               |     |     |                B - Bank
+            1--1--1--1--1--1--1--1          F - Farm
+            |                    |          G - General store
+   0  0  P--1  M--M  1--A    /I  1--Wa      I - Inn
+   |  |     |  |  |  |        |  |          J - Jeweller
+F  F  F  0/ 1  M--M  1--W  R  I  1          M - Market
+|  |  |  |  |  |     |     |  |  |          P - Post Office
+1--1--1--1--1--1--1--1--1--1--1  1--0/      R - Records Office
+|  |  |  |  |  |  |  |     |     |          T - Temple
+F  F  F  0/ 1  B  T/ 1--J  0--0  1          W - Weaponsmith
+      |     |        |     |  |  |          Con - Con Restorer
+      F Ps--1        1--G  0--0/ 1--Con     Cl - Cleric Guild
+            |                    |          Ni - Ninja Guild
+            1--1--1--1--1--1--1--1          Ma - Mage Guild
+               |     |     |                Ps - Psionic Guild
+               Cl    0/    Ma               Th - Thieves Guild
+~
+E
+ramparts~
+0~
+1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1
+|               /                   |
+1                                   1
+|                                   |
+1                                   1
+|                                   |
+1/                                  1
+|                                   |
+1                                   1/
+|                                   |
+1/                                  1
+|                                   |
+1                                   1
+|                                   |
+1                                   1
+|               /                   |
+1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1
+~
+E
+sewer~
+0~
+         0/       0
+         |        |
+   0  0  0--0--0--0
+   |  |  |        |
+   0--0--0--0     0--0
+   |                 |
+0--0     0  0--0     0
+   |     |  |  |     |
+   0--0--0--0  0--0--0--0/
+   |  |  |     |     |
+0  0  0  0     0     0
+|  |  |        |     |
+0--0  0--0  0--0--0--0
+         |  |     |
+         0--0     0
+         |
+         0/
+~
+S
+#5301
+A Corn Field~
+   Rows and rows of neatly placed corn stalks rise up before you, most several
+feet tall. The soil is a dark brown color and looks rich with nutrients for
+this bountiful crop. You soon find that the field is surrounded by a waist
+high fence and decide perhaps you should return to the road rather than climb
+over it.
+~
+53 0 2
+D2
+~
+~
+0 0 5302
+S
+#5302
+A Cobbled Road~
+   This point marks the beginning of a cobblestone road that winds its way
+up a gently sloping hill and ends at the gates of a large city. A number of
+farms line the road as it progresses to the east, all of which look rather
+productive from here.
+~
+53 0 1
+D0
+~
+~
+0 0 5301
+D1
+~
+~
+0 0 5306
+D2
+~
+~
+0 0 5303
+D3
+~
+~
+0 0 6944
+S
+#5303
+A Field of Wheat~
+   The wind blows softly which causes ripples in the field before you. It
+looks as if a section has recently been farmed, perhaps to stagger the
+production of wheat over a year. There is a wooden fence surrounding the
+field and you have no option but to return to the road.
+   Mountain peaks rise sharply to the south and you find it remarkable that
+a farm such as this can grow in this unforgiving climate.
+~
+53 c 2
+D0
+~
+~
+0 0 5302
+S
+#5304
+A Farmer's House~
+   The house is sparesly furnished and rather small. There is a bed in the
+corner and a simple looking table and chair against the far wall. The doorway
+is covered by some type of material and there is a single window which
+overlooks the farm to the south.
+~
+53 d 0
+D2
+~
+~
+0 0 5305
+S
+#5305
+A Cattle Yard~
+   You have to be careful not to slip over in the churned up mud. The farm
+has a number of livestock which chew on small patches of grass that sprout
+at irregular intervals. A large fenceline prevents the cattle from moving
+too far from the house you can see further to the north.
+~
+53 0 2
+D0
+~
+~
+0 0 5304
+D2
+~
+~
+0 0 5306
+S
+#5306
+A Cobbled Road~
+   The road continues up the hill to the east and terminates a bit further
+to the west. Farms line the road and you have the choice of entering two of
+them from here; one to the south and the other to the north.
+~
+53 0 1
+D0
+~
+~
+0 0 5305
+D1
+~
+~
+0 0 5310
+D2
+~
+~
+0 0 5307
+D3
+~
+~
+0 0 5302
+S
+#5307
+A Vegetable Garden~
+   There is a large variety of vegetables growing here, everything to keep
+the citizens of the nearby city fed. You have to be careful as you walk
+through them not to crush any of the precious plants unless you want to face
+the wrath of the farmer.
+   The vegetable plot has been carefully laid out and a wooden fence
+surrounds it, preventing travel in any direction other than the one you
+came from. Even if you could progress further south, you trip would be
+short - mountain peaks rise steeply a mere few feet beyond the fence and
+you have no desire to risk your life today.
+~
+53 0 2
+D0
+~
+~
+0 0 5306
+S
+#5308
+A Farmer's House~
+   The house is sparesly furnished and rather small. There is a bed in the
+corner and a simple looking table and chair against the far wall. The doorway
+is covered by some type of material and there is a single window which
+overlooks the orchard to the south.
+~
+53 d 0
+D2
+~
+~
+0 0 5309
+S
+#5309
+An Orchard~
+   It doesn't appear as if the orchard has been here long, the majority of
+trees are still saplings and bear no fruit. You can identify future apple
+trees, oranges and even a pineapple tree, certainly a variety and all seem
+to be doing well in this climate.
+~
+53 0 2
+D0
+~
+~
+0 0 5308
+D2
+~
+~
+0 0 5310
+S
+#5310
+A Cobbled Road~
+   The cobbled road continues east through the gates of a large city and
+also down a gently sloping hill to the west, past a number of farms. You
+can also wander through what looks like a vineyard to the south or an orchard
+to the north.
+~
+53 c 1
+D0
+~
+~
+0 0 5309
+D1
+~
+~
+0 0 5315
+D2
+~
+~
+0 0 5311
+D3
+~
+~
+0 0 5306
+S
+#5311
+A Vineyard~
+   A series of lattices extend to the south, supporting a number of grape
+vines of differing types. You look around and pluck a single grape from the
+vine, popping it into your mouth - it's very sweet and quite juicy and should
+make an excellent wine.
+~
+53 0 2
+D0
+~
+~
+0 0 5310
+D2
+~
+~
+0 0 5312
+S
+#5312
+A Vineyard~
+   The network of lattices has been erected to allow plenty of room to move
+between the rows and rows of grape vines. There are a few wicker baskets
+sitting on the ground, some empty and others half-filled with picked grapes.
+You can continue through the vineyard to the north.
+~
+53 0 2
+D0
+~
+~
+0 0 5311
+S
+#5313
+The Mist Keep Post Office~
+   The Mist Keep post office is a tidy shop with a hard stone floor and pine
+walls. Various city dwellers move in and out of the post office without paying
+you much heed, intent as they are in sending or receiving their mail. You
+notice that the only people actually using the postal system are either
+merchants, members of the church, or foreigners. The workers and commoners in
+the city simply haven't the money or need for the post office.
+~
+53 cde 0
+D1
+~
+~
+0 0 5319
+S
+#5314
+A Sentry Post~
+   The sentry post is only large enough for one person but you have no doubt
+that should trouble arise, help would not be too far away. You can leave via
+the entrance to the south or climb the ladder affixed to the wall.
+~
+53 i 0
+D2
+~
+~
+0 0 5315
+D4
+~
+~
+0 0 5394
+S
+#5315
+The Entrance to Mist Keep~
+   You walk beneath a huge stone archway that marks the entrance to the
+city of Mist Keep. Sentry posts to the north and south allow scrutiny of all
+who enter its walls while to the east, a cobbled road leads further into the
+city.
+~
+53 0 1
+D0
+~
+~
+0 0 5314
+D1
+~
+~
+0 0 5321
+D2
+~
+~
+0 0 5316
+D3
+~
+~
+0 0 5310
+S
+#5316
+A Sentry Post~
+   The sentry post is only large enough for one person but you have no doubt
+that should trouble arise, help would not be too far away. You can leave via
+the entrance to the north or climb the ladder affixed to the wall.
+~
+53 i 0
+D0
+~
+~
+0 0 5315
+D4
+~
+~
+0 0 5396
+S
+#5317
+A Small Library~
+   This small space has been carved into the city walls and serves as some
+type of library. Shelves of books lie in random patterns, some threatening to
+topple and fall given the angle at which they lean. The only exit appears to
+be to the north, back onto the street.
+   A small sign has been attached to the nearest shelf.
+~
+53 cde 0
+D0
+~
+~
+0 0 5372
+E
+books~
+0~
+Skimming through the titles, you observe that the majority of them are
+targetted towards the apprentice mage. None appear overly appealing to you at
+this point in time.
+~
+E
+sign~
+0~
+For assistance with transport, please type LIST.
+To learn from the teacher, try LEARN <teacher name>
+~
+S
+#5318
+The Corner of the Streets of Honor and Sacrifice~
+   The street turns the corner here and continues to the south and east
+between the outer and inner walls of the city. A plaque on the western wall
+indicates this is the intersection of the Street of Honor and Sacrifice.
+~
+53 0 1
+D1
+~
+~
+0 0 5326
+D2
+~
+~
+0 0 5319
+D3
+~
+~
+0 0 5474
+S
+#5319
+The Street of Honor~
+   The street continues to the north and south between the outer and inner
+city walls. It is quite wide, certainly wide enough for the passage of a
+wagon or cart. To the west lies the city's post office.
+~
+53 0 1
+D0
+~
+~
+0 0 5318
+D2
+~
+~
+0 0 5320
+D3
+~
+~
+0 0 5313
+S
+#5320
+The Street of Honor~
+   The street grows wider to the south and the amount of traffic increases
+dramatically. You are pushed from side to side as people pass by, obviously
+in a hurry to get somewhere other than here. As a stark contrast, the street
+to the north is almost completely bare and offers a place to collect your
+thoughts away from the hustle and bustle.
+~
+53 0 1
+D0
+~
+~
+0 0 5319
+D2
+~
+~
+0 0 5321
+S
+#5321
+The Street of Honor~
+   The street splits here allowing travel in most directions. To the west,
+the entrance to the city stands as a foreboding deterrent against its
+enemies while the city itself lies further to the east through another
+gateway.
+~
+53 0 1
+D0
+~
+~
+0 0 5320
+D1
+~
+~
+0 0 5329
+D2
+~
+~
+0 0 5322
+D3
+~
+~
+0 0 5315
+S
+#5322
+The Street of Honor~
+   The street continues to the north and south between the outer and inner
+city walls. It is quite wide, certainly wide enough for the passage of a
+wagon or cart. To the north you can make out the entrance to the city while
+a little further to the south, there's some type of opening in the city wall.
+~
+53 0 1
+D0
+~
+~
+0 0 5321
+D2
+~
+~
+0 0 5323
+S
+#5323
+The Street of Honor~
+   The street is lined with statues of past heroes, some you recognise but
+most are unfamiliar to you. Apart from yourself, the street is almost devoid
+of life as if there was somewhere better to be than here.
+~
+53 0 1
+D0
+~
+~
+0 0 5322
+D2
+~
+~
+0 0 5324
+D3
+~
+~
+0 0 5380
+S
+#5324
+The Corner of the Streets of Honor and Humility~
+   The street turns the corner here and continues to the north and east
+between the outer and inner walls of the city. A plaque on the western wall
+indicates this is the intersection of the Streets of Honor and Humility. It
+looks like the city stables lie to the west.
+~
+53 0 1
+D0
+~
+~
+0 0 5323
+D1
+~
+~
+0 0 5332
+D2
+~
+~
+0 0 5473
+S
+#5326
+The Street of Sacrifice~
+   You are startled by the sound of steel on steel, a fight perhaps but from
+where you are unsure. Glancing to the east and west, you see no evidence of
+any battle and the guards patrolling the ramparts above seem unconcerned.
+~
+53 0 1
+D0
+~
+~
+0 0 5477
+D1
+~
+~
+0 0 5334
+D3
+~
+~
+0 0 5318
+S
+#5327
+An Open-Air Market~
+   There are all manner of stalls here; some selling food, some wine and
+others have strange trinkets. People push past you in an effort to find the
+best bargain and you begin to feel claustrophobic despite the relative
+openess of this place.
+~
+53 0 1
+D1
+~
+~
+0 0 5335
+D2
+~
+~
+0 0 5328
+S
+#5328
+An Open-Air Market~
+   Hastily constructed stalls have been erected in this large cobbled area.
+Unfortunately, they have not been placed in straight lines so you are forced
+to walk around in circles just to progress. The market spreads over to the
+north and east of here.
+~
+53 0 1
+D0
+~
+~
+0 0 5327
+D1
+~
+~
+0 0 5336
+D2
+~
+~
+0 0 5329
+S
+#5329
+The Street of Mists~
+   Within the inner walls, the city of Mist Keep bustles with life. To the
+south, an elegant building houses the bank while an open-air market lies to
+the north. You can leave the city through the gates to the west or continue
+to explore the street to the east.
+~
+53 0 1
+D0
+~
+~
+0 0 5328
+D1
+~
+~
+0 0 5337
+D2
+~
+~
+0 0 5330
+D3
+~
+~
+0 0 5321
+S
+#5330
+Mist Keep Bank~
+   The interior of the bank is just as elegant as the exterior, marble pillars
+rising to the ceiling. The floor is also a highly polished marble and your
+footsteps echo as you walk. The entrance to the street lies to the north.
+~
+53 cde 0
+R bank.lua 32
+D0
+~
+~
+0 0 5329
+S
+#5331
+The Morgue~
+   This large room looks more like a butcher shop than a mortuary, with thick,
+dried pools of blood and bits of gore stuck to the floor. Obviously, the smell
+here is less than pleasant and carries a distinct waft of chemicals. The evil-
+looking man hunched over a shrouded body may be your only hope of getting your
+possessions back, however.
+~
+53 cde 0
+D1
+~
+~
+0 0 5339
+S
+#5332
+The Street of Humility~
+   You hug the wall as a horse-drawn wagon passes by, taking up most of the
+street in the process. You watch as it rounds the corner to the west and then
+disappears, leaving you to return to your journey. The street continues to
+the east while a sign marks the entrance to the city jail to the south.
+~
+53 0 1
+D0
+~
+~
+0 0 5484
+D1
+~
+~
+0 0 5340
+D2
+~
+~
+0 0 5333
+D3
+~
+~
+0 0 5324
+S
+#5333
+The Mist Keep Jail~
+   The entrance of the Mist Keep jail is devoid of almost everything except a
+single chair in the corner. Posters of some of the better known criminals have
+been plastered over the wall creating a collage of faces. The main holding
+cell lies to the east.
+~
+53 cde 0
+R jail_noentry.lua 32
+D0
+~
+~
+0 0 5332
+D1
+~
+~
+0 0 5365
+S
+#5334
+The Street of Sacrifice~
+   The street continues to the west and east between the outer and inner
+city walls. You can hear the loud sounds of a large group of people nearby,
+most likely coming from the other side of the wall - unfortunately, you can
+see no way of getting over there from where you stand.
+~
+53 0 1
+D0
+~
+~
+0 0 5478
+D1
+~
+~
+0 0 5342
+D3
+~
+~
+0 0 5326
+S
+#5335
+An Open-Air Market~
+   Approaching the corner of the market you notice several smaller stalls
+with drawn curtains, as if the goings-on inside were not meant for the prying
+eyes of the public. You attempt to enter one of these stalls and are gently
+directed away by a burly man dressed in robes.
+~
+53 0 1
+D2
+~
+~
+0 0 5336
+D3
+~
+~
+0 0 5327
+S
+#5336
+An Open-Air Market~
+   In stark contrast to the wood and stone of the city, the market is
+filled with ramshackle stalls made mostly of cloth - it's a wonder they
+remain standing at all. You take a look at some of the items for sale and
+decide your money is probably best spent elsewhere.
+~
+53 0 1
+D0
+~
+~
+0 0 5335
+D2
+~
+~
+0 0 5337
+D3
+~
+~
+0 0 5328
+S
+#5337
+The Street of Mists~
+   All manner of creatures stream into the street from an open-air market to
+the north, some stop to drink from the cool waters of the city's fountain
+while others continue on their way. A small temple is to the south and the
+street continues to the west and east.
+~
+53 0 1
+D0
+~
+~
+0 0 5336
+D1
+~
+~
+0 0 5345
+D2
+~
+~
+0 0 5338
+D3
+~
+~
+0 0 5329
+S
+#5338
+The Temple of Mists~
+   The temple is almost empty of the city's residents, mainly due to the fact
+that many prefer to worship within the Keep itself. Several oak pews have
+been set up allowing prayer for those that wish it. To the south, the temple
+altar dominates the room.
+~
+53 cdesC 0
+D0
+~
+~
+0 0 5337
+D2
+~
+~
+0 0 5471
+S
+#5339
+Beneath the Temple of the Mists~
+   This room was perhaps used for storage at one time but it is now bare and
+is filled with dust and cobwebs. The stench of death floats in from an
+opening in the western wall while a staircase leads to the temple above.
+~
+53 cde 0
+D3
+~
+~
+0 0 5331
+D4
+~
+~
+0 0 5471
+S
+#5340
+The Street of Humility~
+   The street continues to the west and east between the outer and inner
+city walls. Looking above you, you can see a number of guards patrolling the
+wall although few look down at you.
+~
+53 0 1
+D1
+~
+~
+0 0 5348
+D3
+~
+~
+0 0 5332
+S
+#5341
+Access to the Ramparts~
+   You stand at the base of a metal ladder which has been securely fastened
+to the wall. From here, you can journey into the city streets to the south
+or climb the ladder to the ramparts above.
+~
+53 d 0
+D2
+~
+~
+0 0 5342
+D4
+~
+~
+0 0 5403
+D5
+~
+secret grate~
+1 5328 5439
+S
+#5342
+The Street of Sacrifice~
+   To the north, a narrow opening in the city wall reveals a small room that
+allows access to the walls high above your head. The street itself continues
+to the west and east.
+~
+53 0 1
+D0
+~
+~
+0 0 5341
+D1
+~
+~
+0 0 5350
+D3
+~
+~
+0 0 5334
+S
+#5343
+The Street of Mists~
+   The street ends here at the northern wall of the city. A large crowd to
+the west haggles over prices, obviously part of the city's market square.
+An armorer's store lies to the east while the street travels to the south.
+~
+53 0 1
+D1
+~
+~
+0 0 5351
+D2
+~
+~
+0 0 5344
+S
+#5344
+The Street of Mists~
+   Walking along the northern end of the Street of Mists, your options are
+fairly limited. You can continue walking in the same direction or enter a
+small shop to the east which sells weapons. Your path west is blocked by a
+number of market stalls, all of them forming an impenetrable barrier - if you
+wish to have a look around the market, you will need to find another way in.
+~
+53 d 1
+D0
+~
+~
+0 0 5343
+D1
+~
+~
+0 0 5352
+D2
+~
+~
+0 0 5345
+S
+#5345
+The Central Square~
+   The streets converge and form the heart of the city, the central square.
+Travellers come here to simply sit and watch as life passes by, others bustle
+past on unknown errands. While the majority of the activity appears to follow
+the street east/west, you can proceed to the north or south.
+~
+53 0 1
+D0
+~
+~
+0 0 5344
+D1
+~
+~
+0 0 5353
+D2
+~
+~
+0 0 5346
+D3
+~
+~
+0 0 5337
+S
+#5346
+The Street of Mists~
+   A jeweler's store to the east attracts a lot of attention from some of
+the more wealthy residents of the city. The Street of Mists continues to the
+central square to the north and terminates at the city wall to the south.
+~
+53 0 1
+D0
+~
+~
+0 0 5345
+D1
+~
+~
+0 0 5354
+D2
+~
+~
+0 0 5347
+S
+#5347
+The Street of Mists~
+   You arrive at the end of the street, the massive city wall rising high
+above your head to the south. What remains of a demolished building sits to
+the west and it looks completely impassable. There is a general store to the
+east if you wish to puruse the local wares.
+~
+53 0 1
+D0
+~
+~
+0 0 5346
+D1
+~
+~
+0 0 5355
+S
+#5348
+The Street of Humility~
+   The center of the street as it travels to the east and west is marked by
+a single statue. Beyond the wall to the north, you can hear the sounds of life
+as people go about their business within the city proper. There is a narrow
+opening to the south, but for some reason it is rather dark and you cannot
+see what lies within.
+~
+53 0 1
+D1
+~
+~
+0 0 5356
+D2
+It's too dark to see inside.
+~
+~
+0 0 5349
+D3
+~
+~
+0 0 5340
+E
+statue~
+0~
+It is rather an odd statue - a city noble is kneeling before what looks like
+a commoner.
+~
+S
+#5349
+Access to the Ramparts~
+   You stand at the base of a metal ladder which has been securely fastened
+to the wall. From here, you can journey into the city streets to the north
+or climb the ladder to the ramparts above.
+~
+53 d 0
+D0
+~
+~
+0 0 5348
+D4
+~
+~
+0 0 5421
+D5
+~
+secret grate~
+1 5328 5447
+S
+#5350
+The Street of Sacrifice~
+   From beyond the inner city wall you can hear the sound of metal being
+bashed on metal, perhaps a blacksmith or armorer. Apart from that, the air
+around you is cloaked in silence - you may move on to the west or east.
+~
+53 0 1
+D1
+~
+~
+0 0 5358
+D3
+~
+~
+0 0 5342
+S
+#5351
+The Misty Armory~
+   Part workshop, part store, the armorer of this city constructs a lot of
+his own equipment. Towards the rear, there is a large fire pit which roars
+to life at regular intervals, fueled by an unseen force. An anvil near the
+entrance looks well used and you wonder what there is to buy. A metal sign
+on the wall catches your attention.
+~
+53 cde 0
+D3
+~
+~
+0 0 5343
+E
+sign~
+0~
+You can BUY, SELL, LIST, or VALUE items here.
+~
+S
+#5352
+The Keep Weaponsmith~
+   The weaponsmith has an assortment of weapons for sale, mostly standard
+but perhaps you can find a bargain or two. A few of the weapons are
+constructed here in the city to equip the local guard population. There is
+a metal sign hanging from a nearby wall.
+~
+53 cde 0
+D3
+~
+~
+0 0 5344
+E
+sign~
+0~
+You can BUY, SELL, LIST, or VALUE items here.
+~
+S
+#5353
+The Street of Mists~
+   You pass between two of the city's shops, one to the north and the other
+to the south. Other adventurers stroll by, enjoying the safety and comfort
+that the city of Mist Keep has to offer. The Keep itself lies just a little
+further to the east.
+~
+53 0 1
+D1
+~
+~
+0 0 5361
+D3
+~
+~
+0 0 5345
+S
+#5354
+The City Jeweler~
+   Not as famous as its sister store in Kir Drax'in, the city's jewelry
+store still offers travellers a place to buy and sell exquisite jewels and
+gemstones. All of the displayed merchandise is kept within locked cabinets
+under the watchful eye of the store owner.
+~
+53 cde 0
+D3
+~
+~
+0 0 5346
+S
+#5355
+The General Store~
+   All types of items hang from the walls and sit on shelves, some perhaps
+essential to your adventuring travels. You could spend hours sorting through
+everything here if you wish but perhaps if you were to simply ask the store
+owner then you might be on your way.
+~
+53 cde 0
+D3
+~
+~
+0 0 5347
+S
+#5356
+The Street of Humility~
+   The street continues to the west and east between the outer and inner
+city walls.
+~
+53 0 1
+D1
+~
+~
+0 0 5364
+D2
+~
+~
+0 0 5483
+D3
+~
+~
+0 0 5348
+S
+#5357
+A Dark Shop~
+   The small, dark and gloomy shop has walls covered in an assortment of
+mystical symbols and ancient tapestries. Books lie stacked on the floor in no
+particular order while a hand-made sign hangs over the only shelf in the room.
+~
+53 cd 0
+D2
+~
+~
+0 0 5358
+E
+sign~
+0~
+"I will tell you the secrets of your objects for a small fee...
+To get them identified, just GIVE them to me.
+To find out my charges, VALUE your item."
+~
+S
+#5358
+The Street of Sacrifice~
+   The street continues to the west and east between the outer and inner city
+walls. A portion of the northern wall has been partially sealed off with
+bricks but there is a gap large enough for you to enter.
+~
+53 0 1
+D0
+Given the narrow gap and the darkness beyond, you can't see what lies in
+there.
+~
+~
+0 0 5357
+D1
+~
+~
+0 0 5366
+D2
+~
+~
+0 0 5479
+D3
+~
+~
+0 0 5350
+S
+#5359
+The Tavern of Mists~
+   You journey up a set of stairs to where you would have believed a nice,
+warm bed awaits. There is a door on the western wall which glows softly but
+that's all. No matter what you do, you can't seem to open the door and decide
+the only thing to do would be to return to the bar below.
+~
+53 cd 0
+D5
+~
+~
+0 0 5367
+E
+door~
+0~
+It is a solid metal door without any door knob or keyhole, leaving you puzzled
+as to how it opens.
+~
+S
+#5360
+The City Clerk's Office~
+   You stand in a small, tidy office with only a single desk and chair.
+Assistants rush in and out of the office to the south, dropping off paperwork
+and picking up some more to be delivered elsewhere. A sign on the western
+wall catches your attention.
+~
+53 cd 0
+D2
+~
+~
+0 0 5361
+E
+sign~
+0~
+Citizenship applications completed here. Please wait.
+~
+S
+#5361
+The Street of Mists~
+   You stand at the base of the fabled Mist Keep, small cobblestone steps
+leading up to the entrance to the south. From here, it resembles a monastery
+which would also explain the brown-robed figures who sit and talk nearby.
+The city's tavern can be reached to the east where you might find a
+comfortable bed and meal while a small office lies to the north.
+~
+53 c 1
+D0
+~
+~
+0 0 5360
+D1
+~
+~
+0 0 5369
+D2
+~
+door~
+1 0 5362
+D3
+~
+~
+0 0 5353
+S
+#5362
+In the Great Hall~
+   You stand in the Great Hall, the lower level of Mist Keep. It is devoid
+of furnishings apart from a number of candles arranged in an intricate pattern
+on the floor. Small groups of monks congregate and talk to each other in
+whispers, nodding at you as you pass.
+~
+53 d 0
+D0
+~
+door~
+1 0 5361
+D1
+~
+~
+0 0 5370
+D2
+~
+~
+0 0 5363
+S
+#5363
+In the Great Hall~
+   One of the candle patterns nearby interests you and you go over to
+investigate further. As you enter it, a warm feeling passes through your
+body and you feel as if the rigors of your adventures are washed away. A
+monk notices you and bows his head in acknowledgement, a smile creeping across
+his lips.
+~
+53 d 0
+D0
+~
+~
+0 0 5362
+D1
+~
+~
+0 0 5371
+S
+#5364
+The Street of Humility~
+   Taking a moment to rest, you happen to gaze upwards to see the city guards
+patrol the ramparts to the south and the rising spires of Mist Keep to the
+north.
+~
+53 0 1
+D1
+~
+~
+0 0 5372
+D3
+~
+~
+0 0 5356
+S
+#5365
+The Main Holding Cell~
+   This is the main holding cell of prisoners who have disobeyed the city's
+violence ordinances. Though the scenery isn't very exciting, it sure beats
+the city's old penalty of death for lawbreakers.
+~
+53 cde 0
+R jail_noexit.lua 32
+D3
+~
+~
+0 0 5333
+S
+#5366
+The Street of Sacrifice~
+   You are surprised to see a number of gold coins scattered around the
+street but feel unsure as to whether you should pick them up or not. It's as
+if a voice inside you convinces you that they are not needed. You decide you
+might as well move on and can travel to the west or east.
+~
+53 0 1
+D1
+~
+~
+0 0 5373
+D3
+~
+~
+0 0 5358
+S
+#5367
+The Tavern of Mists~
+   The air is filled with the smell of stale ale. Unconscious patrons lie
+clumsily over a number of tables while several small fights have broken out
+in the corner. A bar fills the rear half of the room and all types of spirits
+line the glass shelves above it. You can either pull up a chair and order a
+drink or leave.
+~
+53 cd 0
+D2
+~
+~
+0 0 5368
+D4
+~
+~
+0 0 5359
+S
+#5368
+The Tavern of Mists~
+   The entrance to the city tavern is quite small and almost forces you to
+proceed to the main bar further to the north. Regardless of what time it is,
+this place always seems to be busy so if you wanted to get some sleep, perhaps
+you should go elsewhere.
+~
+53 cd 0
+D0
+~
+~
+0 0 5367
+D2
+~
+~
+0 0 5369
+S
+#5369
+The Street of Mists~
+   Loud and boisterous voices drift from the open door of the tavern to the
+north. It is fairly dark at this end of the street, the majority of light
+blocked by the large city wall to the east and the Keep to the south. The
+street makes its way to the west should you wish to follow it.
+~
+53 0 1
+D0
+~
+~
+0 0 5368
+D3
+~
+~
+0 0 5361
+S
+#5370
+In the Great Hall~
+   The Great Hall is more a place for socialising than anything else. Candles
+have been arranged in patterns on the floor, serving a purpose foreign to
+you. Monks walk around, stopping to talk to some of the city residents and
+perhaps offering a prayer or words of comfort.
+~
+53 d 0
+D2
+~
+~
+0 0 5371
+D3
+~
+~
+0 0 5362
+S
+#5371
+In the Great Hall~
+   An enormous spiral staircase dominates this corner of the great hall. It
+is lined with candles and proceeds to the floor above. One thing that strikes
+you about the Keep is the almost total silence. You can see monks talking to
+others around them, yet you cannot hear them. It's as if sound was forbidden
+or absorbed in some way.
+~
+53 d 0
+D0
+~
+~
+0 0 5370
+D3
+~
+~
+0 0 5363
+D4
+~
+~
+0 0 5386
+S
+#5372
+The Street of Humility~
+   The street continues to the west and east between the outer and inner
+city walls. Taking a moment to survey your surroundings, you marvel at the
+construction of this place - the walls are perfectly straight and there
+doesn't appear to be a single blemish. It must have taken some time to
+achieve this state of perfection.
+   A small library has been carved out of the wall to the south.
+~
+53 0 1
+D1
+~
+~
+0 0 5379
+D2
+~
+~
+0 0 5317
+D3
+~
+~
+0 0 5364
+S
+#5373
+The Corner of the Streets of Sacrifice and Valor~
+   The street turns the corner here and continues to the west and south
+between the outer and inner walls of the city. A plaque on the western wall
+indicates this is the intersection of the Streets of Valor and Sacrifice.
+~
+53 0 1
+D1
+~
+~
+0 0 5480
+D2
+~
+~
+0 0 5374
+D3
+~
+~
+0 0 5366
+S
+#5374
+The Street of Valor~
+   You continue to wander through he street which travels to the north and
+south. The eastern wall appears to have contained an opening at one time or
+another, now nothing more than an assortment of odd-colored bricks.
+~
+53 0 1
+D0
+~
+~
+0 0 5373
+D2
+~
+~
+0 0 5375
+S
+#5375
+The Street of Valor~
+   This section of the street is dominated by a large statue that has been
+expertly crafted from the finest of marble. It seems out of place in this
+cobbled street and you have no idea how it would have been transported here.
+~
+53 0 1
+D0
+~
+~
+0 0 5374
+D1
+~
+~
+0 0 5481
+D2
+~
+~
+0 0 5376
+E
+statue~
+0~
+Rather than a sole figure, the statue contains a number of people - there
+appears to be a warrior defending a group of farmers from a large bear and
+a single plaque at its base which simply reads "Valor".
+~
+S
+#5376
+The Street of Valor~
+   The street continues to the north and south between the outer and inner
+city walls. There is an opening in the eastern wall which opens into a small
+room. From the street, it looks like there's a ladder on the far wall that
+you could use to access the city ramparts.
+~
+53 0 1
+D0
+~
+~
+0 0 5375
+D1
+~
+~
+0 0 5381
+D2
+~
+~
+0 0 5377
+S
+#5377
+The Street of Valor~
+   Pausing for a moment, you could swear that the ground beneath was vibrating
+as if giant machinery was working away down there. Of course you have no way
+of knowing what, if anything, is there but it is puzzling nonetheless. The
+street continues to the north and south.
+~
+53 0 1
+D0
+~
+~
+0 0 5376
+D1
+~
+~
+0 0 5482
+D2
+~
+~
+0 0 5378
+S
+#5378
+The Street of Valor~
+   Out of nowhere, a strong breeze hits you in the face and you shiver
+uncomfortably with the change in temperature. Shaking it off, you can continue
+to the north or south or make your way through a curtained-entrance to the
+east.
+~
+53 0 1
+D0
+~
+~
+0 0 5377
+D1
+The curtain prevents you from seeing inside.
+~
+~
+0 0 5382
+D2
+~
+~
+0 0 5379
+S
+#5379
+The Corner of the Streets of Humility and Valor~
+   The street turns the corner here and continues to the north and west
+between the outer and inner walls of the city. A plaque on the eastern wall
+indicates this is the intersection of the Streets of Humility and Valor.
+~
+53 0 1
+D0
+~
+~
+0 0 5378
+D2
+~
+~
+0 0 5472
+D3
+~
+~
+0 0 5372
+S
+#5380
+The City Blacksmith~
+   The first thing to greet you upon entry is the heat plume from the large
+fire pit in the middle of the room. A large anvil sits adjacent to it, scored
+with any number of deep cuts from the weapons and armor created upon it.
+Twisted chunks of discarded steel and various other metals litter the floor,
+so much so that movement within the room is difficult.
+~
+53 cde 0
+D1
+~
+~
+0 0 5323
+S
+#5381
+Access to the Ramparts~
+   You stand at the base of a metal ladder which has been securely fastened
+to the wall. From here, you can journey into the city streets to the west or
+climb the ladder to the ramparts above.
+~
+53 d 0
+D3
+~
+~
+0 0 5376
+D4
+~
+~
+0 0 5412
+D5
+~
+secret grate~
+1 5328 5470
+S
+#5382
+An Unlit Shop~
+  You are standing inside a small shop that seems almost artificially
+darkened, the blackness is so complete.  This shop seems to be actually
+more of a laboratory, with the standard flasks and decanters, as well
+as some other arcane-looking equipment you do not recognize.
+   There is a small black sign nailed to the back wall.
+~
+53 acde 0
+D3
+~
+~
+0 0 5378
+E
+sign~
+0~
+To see if I can help you, type LIST.
+To buy back your vitae from me, type BUY VITAE.
+~
+S
+#5383
+The Library of the Mists~
+   The northern wall is dominated by a large bay window which offers a
+remarkable view of the city below. The streets are teeming with life and
+you're glad you're up here in the relative comfort away from the bustle. The
+walls are lined from floor to ceiling in books and you can't imagine being
+able to squeeze another book onto one of the shelves.
+~
+53 d 0
+D1
+~
+~
+0 0 5385
+D2
+~
+~
+0 0 5384
+E
+Shelves~
+0~
+If you really tried you could probably fit another book on the shelves, but
+why go to all that effort.
+~
+S
+#5384
+The Library of the Mists~
+   The library may be small in terms of space, but the walls are lined from
+floor to ceiling in books. Local residents and monks alike sit quietly behind
+desks, studying the many tomes of knowledge.
+~
+53 d 0
+D0
+~
+~
+0 0 5383
+D1
+~
+~
+0 0 5386
+S
+#5385
+The Library of the Mists~
+   The northern wall is dominated by a large bay window which offers a
+remarkable view of the city below. The streets are teeming with life and
+you're glad you're up here in the relative comfort away from the bustle.
+   A narrow spiral staircase in the southeastern corner of the room offers
+access to the level above.
+~
+53 d 0
+D3
+~
+~
+0 0 5383
+D4
+~
+~
+0 0 5389
+S
+#5386
+The Entrance to the Library of the Mists~
+   You stand at the entrance of a small library to the west, an enormous
+staircase the only alternative if you don't wish to proceed. A monk sits behind
+a desk in the corner, smiling at you kindly.
+~
+53 cd 0
+D3
+~
+~
+0 0 5384
+D5
+~
+~
+0 0 5371
+S
+#5387
+A Narrow Tunnel~
+   You squeeze your way through a narrow tunnel, the walls so close together
+that you are forced to breath in just to get by. The tunnel bends and
+continues to the east and south, both directions sealed by solid-looking
+doors.
+~
+53 acdhi 0
+D1
+~
+secret door~
+2 5326 5389
+D2
+~
+door~
+2 0 5388
+S
+#5388
+A Narrow Tunnel~
+   For a brief moment, you become wedged between the narrow walls and a
+wave of panic overcomes you. But, it is short-lived and you manage to push
+free and can continue to the north or east. Solid doors lie in both directions.
+~
+53 acdhi 0
+D0
+~
+door~
+2 0 5387
+D1
+~
+door~
+2 0 5390
+S
+#5389
+A Private Library~
+   The room is rather cramped, mostly due to the books which line the walls
+from ceiling to floor. A single desk sits in the center of the room and
+overlooks the city to the north through a large window. A spiral staircase
+in the corner of the room descend to the floor below.
+~
+53 d 0
+D3
+~
+secret shelf~
+2 5326 5387
+D5
+~
+~
+0 0 5385
+S
+#5390
+The Chamber of Mists~
+   You enter a room of complete darkness and extreme cold. The floor is
+covered in wispy fog about ankle height while streams of mist, generated by
+an unseen force, sweep past and around you. In the center of the room is a
+pedestal, a soft glow eminating from its base.
+~
+53 acdfhr 0
+D3
+~
+door~
+2 0 5388
+S
+#5391
+Walking the Ramparts~
+   You stand at the northwestern corner of the ramparts, a spectacular view
+of the surrounds before you. The bustling city of Mist Keep lies below,
+although the majority of the noise and traffic sits behind the city's inner
+wall.
+~
+53 0 1
+D1
+~
+~
+0 0 5400
+D2
+~
+~
+0 0 5392
+S
+#5392
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. A few of the city
+farms lie below to the west while the city proper lies to the east.
+~
+53 0 1
+D0
+~
+~
+0 0 5391
+D2
+~
+~
+0 0 5393
+S
+#5393
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. A few of the city
+farms lie below to the west while the city proper lies to the east.
+~
+53 0 1
+D0
+~
+~
+0 0 5392
+D2
+~
+~
+0 0 5394
+S
+#5394
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. A few of the city
+farms lie below to the west while the city proper lies to the east.
+   A metal ladder protrudes through a hole in the ramparts and allows access
+to city-street level.
+~
+53 0 1
+D0
+~
+~
+0 0 5393
+D2
+~
+~
+0 0 5395
+D5
+~
+~
+0 0 5314
+S
+#5395
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. A few of the city
+farms lie below to the west while the city proper lies to the east.
+~
+53 0 1
+D0
+~
+~
+0 0 5394
+D2
+~
+~
+0 0 5396
+S
+#5396
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. A few of the city
+farms lie below to the west while the city proper lies to the east.
+   A metal ladder protrudes through a hole in the ramparts and allows access
+to city-street level.
+~
+53 0 1
+D0
+~
+~
+0 0 5395
+D2
+~
+~
+0 0 5397
+D5
+~
+~
+0 0 5316
+S
+#5397
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. A few of the city
+farms lie below to the west while the city proper lies to the east.
+~
+53 0 1
+D0
+~
+~
+0 0 5396
+D2
+~
+~
+0 0 5398
+S
+#5398
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. A few of the city
+farms lie below to the west while the city proper lies to the east.
+~
+53 0 1
+D0
+~
+~
+0 0 5397
+D2
+~
+~
+0 0 5399
+S
+#5399
+Walking the Ramparts~
+   You stand at the southwestern corner of the ramparts, a spectacular view
+of the surrounds before you. The bustling city of Mist Keep lies below,
+although the majority of the noise and traffic sits behind the city's inner
+wall.
+~
+53 0 1
+D0
+~
+~
+0 0 5398
+D1
+~
+~
+0 0 5424
+S
+#5400
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5401
+D3
+~
+~
+0 0 5391
+S
+#5401
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5402
+D3
+~
+~
+0 0 5400
+S
+#5402
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5403
+D3
+~
+~
+0 0 5401
+S
+#5403
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+   A metal ladder protrudes through the floor and allows access to the city
+streets below.
+~
+53 0 1
+D1
+~
+~
+0 0 5404
+D3
+~
+~
+0 0 5402
+D5
+~
+~
+0 0 5341
+S
+#5404
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5405
+D3
+~
+~
+0 0 5403
+S
+#5405
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5406
+D3
+~
+~
+0 0 5404
+S
+#5406
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5407
+D3
+~
+~
+0 0 5405
+S
+#5407
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5408
+D3
+~
+~
+0 0 5406
+S
+#5408
+Walking the Ramparts~
+   You stand at the northeastern corner of the ramparts, a spectacular view
+of the surrounds before you. The bustling city of Mist Keep lies below,
+although the majority of the noise and traffic sits behind the city's inner
+wall.
+~
+53 0 1
+D2
+~
+~
+0 0 5409
+D3
+~
+~
+0 0 5407
+S
+#5409
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The city proper lies
+far below you to the west.
+~
+53 0 1
+D0
+~
+~
+0 0 5408
+D2
+~
+~
+0 0 5410
+S
+#5410
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The city proper lies
+far below you to the west.
+~
+53 0 1
+D0
+~
+~
+0 0 5409
+D2
+~
+~
+0 0 5411
+S
+#5411
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The city proper lies
+far below you to the west.
+~
+53 0 1
+D0
+~
+~
+0 0 5410
+D2
+~
+~
+0 0 5412
+S
+#5412
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The city proper lies
+far below you to the west.
+   A metal ladder protrudes through the rampart floor which allows access to
+the city streets below.
+~
+53 0 1
+D0
+~
+~
+0 0 5411
+D2
+~
+~
+0 0 5413
+D5
+~
+~
+0 0 5381
+S
+#5413
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The city proper lies
+far below you to the west.
+~
+53 0 1
+D0
+~
+~
+0 0 5412
+D2
+~
+~
+0 0 5414
+S
+#5414
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The city proper lies
+far below you to the west.
+~
+53 0 1
+D0
+~
+~
+0 0 5413
+D2
+~
+~
+0 0 5415
+S
+#5415
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The city proper lies
+far below you to the west.
+~
+53 0 1
+D0
+~
+~
+0 0 5414
+D2
+~
+~
+0 0 5416
+S
+#5416
+Walking the Ramparts~
+   You stand at the southeastern corner of the ramparts, a spectacular view
+of the surroundings before you. The bustling city of Mist Keep lies below,
+although the majority of the noise and traffic sits behind the city's inner
+wall.
+~
+53 0 1
+D0
+~
+~
+0 0 5415
+D3
+~
+~
+0 0 5417
+S
+#5417
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5416
+D3
+~
+~
+0 0 5418
+S
+#5418
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5417
+D3
+~
+~
+0 0 5419
+S
+#5419
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5418
+D3
+~
+~
+0 0 5420
+S
+#5420
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5419
+D3
+~
+~
+0 0 5421
+S
+#5421
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+   A metal ladder protrudes through the floor and allows access to the city
+streets below.
+~
+53 0 1
+D1
+~
+~
+0 0 5420
+D3
+~
+~
+0 0 5422
+D5
+~
+~
+0 0 5349
+S
+#5422
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5421
+D3
+~
+~
+0 0 5423
+S
+#5423
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5422
+D3
+~
+~
+0 0 5424
+S
+#5424
+Walking the Ramparts~
+   The city's ramparts continue to the north and south, a superb view of the
+surrounding country-side available to you at this height. The citizens of
+Mist Keep go about their business far below you to the south while guards
+patrol the wall to protect all who seek sanctuary.
+~
+53 0 1
+D1
+~
+~
+0 0 5423
+D3
+~
+~
+0 0 5399
+S
+#5425
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D1
+~
+~
+0 0 5430
+S
+#5426
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D2
+~
+secret grill~
+1 0 5427
+S
+#5427
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+secret grill~
+1 0 5426
+D1
+~
+~
+0 0 5433
+S
+#5428
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D2
+~
+~
+0 0 5429
+S
+#5429
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5428
+D1
+~
+~
+0 0 5435
+D2
+~
+~
+0 0 5430
+S
+#5430
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5429
+D2
+~
+~
+0 0 5431
+D3
+~
+~
+0 0 5425
+S
+#5431
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5430
+D1
+~
+~
+0 0 5436
+D2
+~
+~
+0 0 5432
+S
+#5432
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5431
+D2
+~
+~
+0 0 5433
+S
+#5433
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5432
+D3
+~
+~
+0 0 5427
+S
+#5434
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D2
+~
+~
+0 0 5435
+S
+#5435
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5434
+D1
+~
+~
+0 0 5441
+D3
+~
+~
+0 0 5429
+S
+#5436
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D1
+~
+~
+0 0 5443
+D2
+~
+~
+0 0 5437
+D3
+~
+~
+0 0 5431
+S
+#5437
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5436
+D2
+~
+~
+0 0 5438
+S
+#5438
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5437
+D1
+~
+~
+0 0 5445
+S
+#5439
+The Sewer System~
+   You stand at the base of a metal ladder which ascends from the darkness
+into the city streets, a welcome respite from the sewer system. The sewer is
+nothing more than a series of interconnected pipes and travelling through
+them will prove to be difficult.
+~
+53 adi 0
+D2
+~
+~
+0 0 5440
+D4
+~
+secret grate~
+1 5328 5341
+S
+#5440
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5439
+D1
+~
+~
+0 0 5448
+D2
+~
+~
+0 0 5441
+S
+#5441
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5440
+D1
+~
+~
+0 0 5449
+D3
+~
+~
+0 0 5435
+S
+#5442
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D2
+~
+secret grill~
+1 0 5443
+S
+#5443
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+secret grill~
+1 0 5442
+D1
+~
+~
+0 0 5451
+D2
+~
+~
+0 0 5444
+D3
+~
+~
+0 0 5436
+S
+#5444
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5443
+S
+#5445
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D2
+~
+~
+0 0 5446
+D3
+~
+~
+0 0 5438
+S
+#5446
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5445
+D1
+~
+~
+0 0 5453
+D2
+~
+~
+0 0 5447
+S
+#5447
+The Sewer System~
+   You stand at the base of a metal ladder which ascends from the darkness
+into the city streets, a welcome respite from the sewer system. The sewer is
+nothing more than a series of interconnected pipes and travelling through
+them will prove to be difficult.
+~
+53 adi 0
+D0
+~
+~
+0 0 5446
+D4
+~
+secret grate~
+1 5328 5349
+S
+#5448
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D1
+~
+~
+0 0 5454
+D3
+~
+~
+0 0 5440
+S
+#5449
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D2
+~
+~
+0 0 5450
+D3
+~
+~
+0 0 5441
+S
+#5450
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5449
+D1
+~
+~
+0 0 5455
+D2
+~
+~
+0 0 5451
+S
+#5451
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5450
+D3
+~
+~
+0 0 5443
+S
+#5452
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D1
+~
+~
+0 0 5458
+D2
+~
+~
+0 0 5453
+S
+#5453
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5452
+D3
+~
+~
+0 0 5446
+S
+#5454
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D1
+~
+~
+0 0 5460
+D3
+~
+~
+0 0 5448
+S
+#5455
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D2
+~
+~
+0 0 5456
+D3
+~
+~
+0 0 5450
+S
+#5456
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5455
+D1
+~
+~
+0 0 5462
+D2
+~
+~
+0 0 5457
+S
+#5457
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5456
+D2
+~
+~
+0 0 5458
+S
+#5458
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5457
+D1
+~
+~
+0 0 5463
+D3
+~
+~
+0 0 5452
+S
+#5459
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D2
+~
+secret grill~
+1 0 5460
+S
+#5460
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+secret grill~
+1 0 5459
+D2
+~
+~
+0 0 5461
+D3
+~
+~
+0 0 5454
+S
+#5461
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5460
+D1
+~
+~
+0 0 5465
+S
+#5462
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D1
+~
+~
+0 0 5467
+D3
+~
+~
+0 0 5456
+S
+#5463
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D1
+~
+~
+0 0 5469
+D2
+~
+~
+0 0 5464
+D3
+~
+~
+0 0 5458
+S
+#5464
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5463
+S
+#5465
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D2
+~
+~
+0 0 5466
+D3
+~
+~
+0 0 5461
+S
+#5466
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5465
+D2
+~
+~
+0 0 5467
+S
+#5467
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5466
+D1
+~
+~
+0 0 5470
+D2
+~
+~
+0 0 5468
+D3
+~
+~
+0 0 5462
+S
+#5468
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5467
+D2
+~
+~
+0 0 5469
+S
+#5469
+The Sewer System~
+   The sewer pipes are not large enough to stand or even crawl through, so
+you are forced to slide your way along making both movement and combat very
+difficult. Sounds echo from unknown origins and your orientation is quickly
+lost as you travel.
+~
+53 adi 0
+D0
+~
+~
+0 0 5468
+D3
+~
+~
+0 0 5463
+S
+#5470
+The Sewer System~
+   You stand at the base of a metal ladder which ascends from the darkness
+into the city streets, a welcome respite from the sewer system. The sewer is
+nothing more than a series of interconnected pipes and travelling through
+them will prove to be difficult.
+~
+53 adi 0
+D3
+~
+~
+0 0 5467
+D4
+~
+secret grate~
+1 5328 5381
+S
+#5471
+At the Temple Altar~
+   A series of steps lead up to a rather impressive altar carved from what
+looks like basalt. It must have been brought from the mountains and transported
+all the way here which is no easy feat. In the corner of the temple, there
+is a staircase which descends into the darkness below.
+~
+53 cdes 0
+D0
+~
+~
+0 0 5338
+D5
+~
+~
+0 0 5339
+S
+#5472
+The Dump~
+   The dump is unnaturally hot and relatively free from garbage, both due
+to a thermal vent in the ground that spews forth super-heated steam. It's best
+not to remain here for too long or you may not live to tell about it.
+~
+53 c 0
+D0
+~
+~
+0 0 5379
+S
+#5473
+The City Donation Room~
+   You have to wade through all sorts of items scattered haphazardly over
+the room, looking for that one good piece that you need. Travellers and
+citizens alike come here to donate items they no longer need so you are
+welcome to take whatever you need on your travels.
+~
+53 cde 0
+D0
+~
+~
+0 0 5324
+S
+#5474
+The Olde Magick Shoppe~
+   This place looks as old as time itself and the only thing holding it
+together is magick! It's extremely dark and the walls are covered with all
+forms of scrolls and other magickal pieces. There is a sign on the back
+wall.
+~
+53 acde 0
+D1
+~
+~
+0 0 5318
+E
+sign~
+0~
+You can BUY, SELL, VALUE or LIST here.
+~
+S
+#5475
+The Keep Stables~
+   The smell of fresh dung greets your nose as you step into this well-kept
+stable.  You can see many fine breeds of horses stored in the extensive
+boarding area in front of you, but this front room looks more like a country
+store than a stable, complete with a smiling hick ready to take your money.
+There is a small sign nailed to a post here.
+~
+53 cd 0
+D2
+~
+~
+0 0 6944
+E
+sign~
+0~
+LIST: See what is available and get a price.
+BUY: Buy a mount.
+STABLE: Set your mount up in our boarding area.
+COLLECT: Collect your mount from our boarding area.
+~
+S
+#5476
+Merchant Caravan Load Room~
+   The merchant, his slaves and his horses will load in this room and all will
+be set to follow the merchant before being teleported to the Mist Keep
+entrance arch. This prevents players from seeing "X follows Y".
+~
+53 cdgkt 0
+S
+#5477
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+53 cd 0
+D2
+~
+~
+0 0 5326
+S
+#5478
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+53 cd 0
+D2
+~
+~
+0 0 5334
+S
+#5479
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+53 cd 0
+D0
+~
+~
+0 0 5358
+S
+#5480
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+53 cd 0
+D3
+~
+~
+0 0 5373
+S
+#5481
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+53 cd 0
+D3
+~
+~
+0 0 5375
+S
+#5482
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+53 cd 0
+D3
+~
+~
+0 0 5377
+S
+#5483
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+53 cd 0
+D0
+~
+~
+0 0 5356
+S
+#5484
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+53 cd 0
+D2
+~
+~
+0 0 5332
+S
+$~

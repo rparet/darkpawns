@@ -1,0 +1,2248 @@
+#6300
+Immortal Map Room for the Moors/Barrows~
+   The Moors/Barrows area extends from the plains to the eastern edge of the
+Black Sands Desert. It contains the Shax'in area.
+~
+63 cdgj 0
+S
+#6301
+The Barrows~
+   You have come to the edge of a deep ravine in the barrowlands, where the
+hills climb steadily to the east, and black desert dunes extend to the western
+horizon. In all directions, the land looks very unhospitable.
+~
+63 0 4
+D1
+~
+~
+0 0 6302
+D2
+~
+~
+0 0 6304
+D3
+~
+~
+0 0 5903
+S
+#6302
+The Barrows~
+   You walk carefully along a deep ravine, stepping across prickly cacti
+and other harsh-looking plantlife. The vegetation becomes even more sparse
+to the west, as the elevation gradually declines.
+~
+63 0 4
+D2
+~
+~
+0 0 6305
+D3
+~
+~
+0 0 6301
+S
+#6303
+The Barrows~
+   You stand in the midst of a great mound of Rakshasan bones. Two long poles
+stand on either side, affixed with skulls and strips of furred leather swaying
+in the hot wind. This is evidently a place of living sacrifice - but to whom?
+~
+63 0 4
+D0
+~
+~
+0 0 5903
+D1
+~
+~
+0 0 6304
+D2
+~
+~
+0 0 6306
+D3
+~
+~
+0 0 5915
+S
+#6304
+The Barrows~
+   You walk carefully along a deep ravine, stepping across prickly cacti
+and other harsh-looking plantlife. The vegetation becomes even more sparse
+to the west, as the elevation gradually declines.
+~
+63 0 4
+D0
+~
+~
+0 0 6301
+D1
+~
+~
+0 0 6305
+D2
+~
+~
+0 0 6307
+D3
+~
+~
+0 0 6303
+S
+#6305
+The Barrows~
+   Deep gashes mar the surface of the sand. There is no sign of what could
+have created the enormous trenches, and judging from the size, you're not sure
+you want to find the creature.
+~
+63 0 4
+D0
+~
+~
+0 0 6302
+D2
+~
+~
+0 0 10300
+D3
+~
+~
+0 0 6304
+S
+#6306
+The Barrows~
+   You arrive at the edge of a deep ravine in the barrowlands. The hills climb
+eastward, and black desert dunes extend westward. You are unable to see above
+the southern ridge, but you could climb up to get a better view.
+~
+63 0 4
+D0
+~
+~
+0 0 6303
+D1
+~
+~
+0 0 6307
+D2
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6310
+D3
+~
+~
+0 0 5927
+S
+#6307
+The Barrows~
+   You stand ankle-deep in a trench of loose sand. The edges of the ditch are
+just above eye level, and you could scale them, even though it would be tough.
+Suddenly, the ground shudders beneath your feet.
+~
+63 0 4
+D0
+~
+~
+0 0 6304
+D1
+~
+~
+0 0 10300
+D2
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6311
+D3
+~
+~
+0 0 6306
+S
+#6308
+The Barrows~
+   You walk carefully along a deep ravine, stepping across prickly cacti
+and other harsh-looking plantlife. The vegetation becomes even more sparse
+to the west, as the elevation gradually declines.
+~
+63 0 4
+D0
+~
+~
+0 0 6305
+D1
+~
+~
+0 0 6309
+D2
+~
+~
+0 0 6312
+D3
+~
+~
+0 0 6307
+S
+#6309
+The Barrows~
+   Deep gashes mar the surface of the sand. There is no sign of what could
+have created the enormous trenches, and judging from the size, you're not sure
+you want to find the creature.
+~
+63 0 4
+D2
+~
+~
+0 0 6313
+D3
+~
+~
+0 0 10300
+S
+#6310
+The Barrows~
+   You stand at the edge of a vast, black desert looking westward across waves
+of great dunes. To the east, the ground becomes firmer, and rises steadily
+upward beyond your sight.
+~
+63 0 4
+D0
+~
+~
+0 0 6306
+D1
+~
+~
+0 0 6311
+D2
+~
+~
+0 0 6316
+D3
+~
+~
+0 0 5938
+S
+#6311
+The Barrows~
+   You walk a narrow ridgeline between two deep gashes in the earth which
+wind their way across the barren ground. The ridgeline is burned bare, but you
+see hints of sparse vegetation along the farther edge of the ravine's bottom.
+~
+63 0 4
+D0
+~
+~
+0 0 6307
+D1
+~
+~
+0 0 6312
+D2
+~
+~
+0 0 6317
+D3
+~
+~
+0 0 6310
+S
+#6312
+The Barrows~
+   You stand ankle-deep in a trench of loose sand. The edges of the ditch are
+just above eye level, and you could scale them, even though it would be tough.
+Suddenly, the ground shudders beneath your feet.
+~
+63 0 4
+D0
+~
+~
+0 0 10300
+D1
+~
+~
+0 0 6313
+D2
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6318
+D3
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6311
+S
+#6313
+The Barrows~
+   Coarse earth covers the bottom of the ravine, and cacti grow abundantly.
+Shelter from the hot, blowing sands is the center of all your thoughts, and
+you stay close to the southern ravine wall, hoping for a bit of protection.
+~
+63 0 4
+D0
+~
+~
+0 0 6309
+D1
+~
+~
+0 0 6314
+D2
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6319
+D3
+~
+~
+0 0 6312
+S
+#6314
+The Barrows~
+   You stand in a barren wasteland of bones, blowing sand and lifeless earth.
+A hot wind blows into you as you trudge through the barrows, searching for any
+sign of life.
+~
+63 0 4
+D1
+~
+~
+0 0 6315
+D2
+~
+~
+0 0 6320
+D3
+~
+~
+0 0 6313
+S
+#6315
+The Barrows~
+   You walk carefully along a deep ravine, stepping across prickly cacti
+and other harsh-looking plantlife. The vegetation becomes even more sparse
+to the west, as the elevation gradually declines.
+~
+63 0 4
+D2
+~
+~
+0 0 6321
+D3
+~
+~
+0 0 6314
+S
+#6316
+The Barrows~
+   Vast desert dunes extend westward to the horizon - barren and bleak. The
+land to the east looks only slightly more hospitable, but perhaps going this
+direction might eventually lead to civilization.
+~
+63 0 4
+D0
+~
+~
+0 0 6310
+D1
+~
+~
+0 0 6317
+D2
+~
+~
+0 0 6323
+D3
+~
+~
+0 0 5949
+S
+#6317
+The Barrows~
+   You stand in a barren wasteland of bones, blowing sand, and lifeless earth.
+A hot wind blows into you as you trudge through the barrows, searching for any
+sign of life. To the south, a deep ravine mars the landscape.
+~
+63 0 4
+D0
+~
+~
+0 0 6311
+D1
+~
+~
+0 0 6318
+D2
+~
+~
+0 0 6324
+D3
+~
+~
+0 0 6316
+S
+#6318
+The Barrows~
+   You walk a narrow ridgeline between two deep gashes in the earth which
+wind their way across the barren ground. The ridgeline is burned bare, but you
+see hints of sparse vegetation along the farther edge of the ravine's bottom.
+~
+63 0 4
+D0
+~
+~
+0 0 6312
+D1
+~
+~
+0 0 6319
+D2
+~
+~
+0 0 6325
+D3
+~
+~
+0 0 6317
+S
+#6319
+The Barrows~
+   You stand at the edge of a barrow that runs into the deep gulley to the
+the northeast - the shade of the bank offering some protection from the heat.
+The barrow itself rises gently to the southeast, and falls away to the west.
+~
+63 0 4
+D0
+~
+~
+0 0 6313
+D1
+~
+~
+0 0 6320
+D2
+~
+~
+0 0 6326
+D3
+~
+~
+0 0 6318
+S
+#6320
+The Barrows~
+   You stand ankle-deep in a trench of loose sand. The edges of the ditch are
+just above eye level, and you could scale them, even though it would be tough.
+Suddenly, the ground shudders beneath your feet.
+~
+63 0 4
+D0
+~
+~
+0 0 6314
+D1
+~
+~
+0 0 6321
+D2
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6327
+D3
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6319
+S
+#6321
+The Barrows~
+   The earth falls away toward the west where deep gouges in the earth form
+crooked gulleys cut deeply into its surface. To the east, the vegetation
+grows thicker, covering the bare earth.
+~
+63 0 4
+D0
+~
+~
+0 0 6315
+D2
+~
+~
+0 0 6356
+D3
+~
+~
+0 0 6320
+S
+#6322
+The Barrows~
+   You have come to the edge of a deep ravine in the barrowlands, where the
+hills climb steadily to the east, and black desert dunes extend to the western
+horizon. In all directions, the land looks very unhospitable.
+~
+63 0 4
+D0
+~
+~
+0 0 5949
+D1
+~
+~
+0 0 6323
+D2
+~
+~
+0 0 6328
+D3
+~
+~
+0 0 5959
+S
+#6323
+The Barrows~
+   You walk carefully along a deep ravine, stepping across prickly cacti
+and other harsh-looking plantlife. The vegetation becomes even more sparse
+to the west, as the elevation gradually declines.
+~
+63 0 4
+D0
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6316
+D1
+~
+~
+0 0 6324
+D2
+~
+~
+0 0 6329
+D3
+~
+~
+0 0 6322
+S
+#6324
+The Barrows~
+   You stand ankle-deep in a trench of loose sand. The edges of the ditch are
+just above eye level, and though you can't see what lies above, you could scale
+the steep banked wall if you wish.
+~
+63 0 4
+D0
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6317
+D1
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6325
+D2
+~
+~
+0 0 6330
+D3
+~
+~
+0 0 6323
+S
+#6325
+The Barrows~
+   You stand at the edge of a barrow that runs into the deep gulley to the
+the southwest - the shade of the bank offering some protection from the heat.
+The barrow itself rises gently to the southeast, and falls away to the west.
+~
+63 0 4
+D0
+~
+~
+0 0 6318
+D1
+~
+~
+0 0 6326
+D2
+~
+~
+0 0 6331
+D3
+~
+~
+0 0 6324
+S
+#6326
+The Barrows~
+   You walk a narrow ridgeline between two deep gashes in the earth which
+wind their way across the barren ground. The ridgeline is burned bare, but you
+see hints of sparse vegetation along the farther edge of the ravine's bottom.
+~
+63 0 4
+D0
+~
+~
+0 0 6319
+D1
+~
+~
+0 0 6327
+D2
+~
+~
+0 0 6332
+D3
+~
+~
+0 0 6325
+S
+#6327
+The Barrows~
+   The earth falls away toward the west where deep gouges in the earth form
+crooked gulleys cut deeply into its surface. To the east, the vegetation
+grows thicker, covering the bare earth.
+~
+63 0 4
+D0
+~
+~
+0 0 6320
+D1
+~
+~
+0 0 6356
+D2
+~
+~
+0 0 6333
+D3
+~
+~
+0 0 6326
+S
+#6328
+The Barrows~
+   You arrive at the edge of a deep ravine in the barrowlands. The hills climb
+eastward, and black desert dunes extend westward. You are unable to see above
+the southern ridge, but you could climb up to get a better view.
+~
+63 0 4
+D0
+~
+~
+0 0 6322
+D1
+~
+~
+0 0 6329
+D2
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6336
+D3
+~
+~
+0 0 5969
+S
+#6329
+The Barrows~
+   You pass beneath a low ridgeline to the south, through a barren wasteland
+of bones, blowing sand, and lifeless earth. A hot wind blows into you as you
+trudge through the barrows, searching for any sign of life.
+~
+63 0 4
+D0
+~
+~
+0 0 6323
+D1
+~
+~
+0 0 6330
+D2
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6337
+D3
+~
+~
+0 0 6328
+S
+#6330
+The Barrows~
+   You walk carefully along a deep ravine, stepping across prickly cacti
+and other harsh-looking plantlife. The vegetation becomes even more sparse
+to the west, as the elevation gradually declines.
+~
+63 0 4
+D0
+~
+~
+0 0 6324
+D1
+~
+~
+0 0 6331
+D2
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6338
+D3
+~
+~
+0 0 6329
+S
+#6331
+The Void~
+   Coarse earth covers the bottom of the ravine, and cacti grow abundantly.
+Shelter from the hot, blowing sands is the center of all your thoughts, and
+you stay close to the northern ravine wall, hoping for a bit of protection.
+~
+63 0 4
+D0
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6325
+D1
+~
+~
+0 0 6332
+D2
+~
+~
+0 0 6339
+D3
+~
+~
+0 0 6330
+S
+#6332
+The Barrows~
+   You walk carefully along a deep ravine, stepping across prickly cacti
+and other harsh-looking plantlife. The vegetation becomes even more sparse
+to the west, as the elevation gradually declines.
+~
+63 0 4
+D0
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6326
+D1
+~
+~
+0 0 6333
+D2
+~
+~
+0 0 6340
+D3
+~
+~
+0 0 6331
+S
+#6333
+The Barrows~
+   The earth falls away toward the west where deep gouges in the earth form
+crooked gulleys cut deeply into its surface. To the east, the vegetation
+grows thicker, covering the bare earth.
+~
+63 0 4
+D0
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6327
+D1
+~
+~
+0 0 6358
+D2
+~
+~
+0 0 6341
+D3
+~
+~
+0 0 6332
+S
+#6334
+The Barrows~
+   You stand ankle-deep in a trench of loose sand. The edges of the ditch are
+just above eye level, and though you can't see what lies above, you could scale
+the steep banked wall if you wish.
+~
+63 0 4
+D0
+~
+~
+0 0 5968
+D1
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6335
+D2
+~
+~
+0 0 6342
+D3
+~
+~
+0 0 5975
+S
+#6335
+The Barrows~
+   You stand on the lowest rim of high ground with the desert spreading to
+the western horizon, before you. Away in the distance to the south, the sky
+is blackened by a great sandstorm. The barrow climbs to the east from here.
+~
+63 0 4
+D0
+~
+~
+0 0 5969
+D1
+~
+~
+0 0 6336
+D2
+~
+~
+0 0 6343
+D3
+~
+~
+0 0 6334
+S
+#6336
+The Barrows~
+   You walk a narrow ridgeline between two deep gashes in the earth which
+wind their way across the barren ground. The ridgeline is burned bare, but you
+see hints of sparse vegetation along the farther edge of the ravine's bottom.
+~
+63 0 4
+D0
+~
+~
+0 0 6328
+D1
+~
+~
+0 0 6337
+D2
+~
+~
+0 0 6344
+D3
+~
+~
+0 0 6335
+S
+#6337
+The Barrows~
+   You stand at the edge of a barrow that runs into the deep gulley to the
+the north - the shade of the bank offering some protection from the heat. The
+barrow itself rises gently to the southeast, and falls away to the west.
+~
+63 0 4
+D0
+~
+~
+0 0 6329
+D1
+~
+~
+0 0 6338
+D2
+~
+~
+0 0 6345
+D3
+~
+~
+0 0 6336
+S
+#6338
+The Barrows~
+   You walk a narrow ridgeline between two deep gashes in the earth which
+wind their way across the barren ground. The ridgeline is burned bare, but you
+see hints of sparse vegetation along the farther edge of the ravine's bottom.
+~
+63 0 4
+D0
+~
+~
+0 0 6330
+D1
+~
+~
+0 0 6339
+D2
+~
+~
+0 0 6346
+D3
+~
+~
+0 0 6337
+S
+#6339
+The Barrows~
+   You stand ankle-deep in a trench of loose sand. The edges of the ditch are
+just above eye level, and though you can't see what lies above, you could scale
+the steep banked wall if you wish.
+~
+63 0 4
+D0
+~
+~
+0 0 6331
+D1
+~
+~
+0 0 6340
+D2
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6347
+D3
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6338
+S
+#6340
+The Barrows~
+   The earth falls away toward the west where deep gouges in the earth form
+crooked gulleys cut deeply into its surface. To the east, the vegetation
+grows thicker, covering the bare earth.
+~
+63 0 4
+D0
+~
+~
+0 0 6332
+D1
+~
+~
+0 0 6341
+D2
+~
+~
+0 0 6364
+D3
+~
+~
+0 0 6339
+S
+#6341
+The Moors~
+   You come upon a transition point in the terrain. To the west, the ground
+is covered in deep gashes that wind downhill toward far-off dunes of dark
+sand. To the east, low mounds rise and fall across the scene.
+~
+63 0 4
+D0
+~
+~
+0 0 6333
+D1
+~
+~
+0 0 6361
+D2
+~
+~
+0 0 6365
+D3
+~
+~
+0 0 6340
+S
+#6342
+The Barrows~
+   You have come to the edge of a deep ravine in the barrowlands, where the
+hills climb steadily to the east, and black desert dunes extend to the western
+horizon. In all directions, the land looks very unhospitable.
+~
+63 0 4
+D0
+~
+~
+0 0 6334
+D1
+~
+~
+0 0 6343
+D2
+~
+~
+0 0 6348
+D3
+~
+~
+0 0 5978
+S
+#6343
+The Barrows~
+   You stand ankle-deep in a trench of loose sand. The edges of the ditch are
+just above eye level, and though you can't see what lies above, you could scale
+the steep banked wall if you wish.
+~
+63 0 4
+D0
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6335
+D1
+~
+~
+0 0 6344
+D2
+~
+~
+0 0 6349
+D3
+~
+~
+0 0 6342
+S
+#6344
+The Barrows~
+   You walk carefully along a deep ravine, stepping across prickly cacti
+and other harsh-looking plantlife. The vegetation becomes even more sparse
+to the west, as the elevation gradually declines.
+~
+63 0 4
+D0
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6336
+D1
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6345
+D2
+~
+~
+0 0 6350
+D3
+~
+~
+0 0 6343
+S
+#6345
+The Barrows~
+   You walk a narrow ridgeline between two deep gashes in the earth which
+wind their way across the barren ground. The ridgeline is burned bare, but you
+see hints of sparse vegetation along the farther edge of the ravine's bottom.
+~
+63 0 4
+D0
+~
+~
+0 0 6337
+D1
+~
+~
+0 0 6346
+D2
+~
+~
+0 0 6351
+D3
+~
+~
+0 0 6344
+S
+#6346
+The Barrows~
+   You stand atop a wide barrow in a barren wasteland of bones, blowing sand
+and lifeless earth. A hot wind blows into you as you trudge along, In the
+distance to the west, you spy endless black dunes rolling to the horizon.
+~
+63 0 4
+D0
+~
+~
+0 0 6338
+D1
+~
+~
+0 0 6347
+D2
+~
+~
+0 0 6352
+D3
+~
+~
+0 0 6345
+S
+#6347
+The Barrows~
+   The earth falls away toward the west where deep gouges in the earth form
+crooked gulleys cut deeply into its surface. To the east, the vegetation
+grows thicker, covering the bare earth.
+~
+63 0 4
+D0
+~
+~
+0 0 6339
+D1
+~
+~
+0 0 6364
+D2
+~
+~
+0 0 6353
+D3
+~
+~
+0 0 6346
+S
+#6348
+The Barrows~
+   You've come to the edge of the barrolands, which climb upward toward the
+east. In all other directions, the arid desert sands extend to the horizon.
+You hope enough of your water remains to allow you to cross these lands.
+~
+63 0 4
+D0
+~
+~
+0 0 6342
+D1
+~
+~
+0 0 6349
+D2
+~
+~
+0 0 5984
+D3
+~
+~
+0 0 5981
+S
+#6349
+The Barrows~
+   You walk carefully along a deep ravine, stepping across prickly cacti
+and other harsh-looking plantlife. The vegetation becomes even more sparse
+to the west, as the elevation gradually declines.
+~
+63 0 4
+D0
+~
+~
+0 0 6343
+D1
+~
+~
+0 0 6350
+D2
+~
+~
+0 0 5985
+D3
+~
+~
+0 0 6348
+S
+#6350
+The Barrows~
+   You stand in a barren wasteland of bones, blowing sand, and lifeless earth.
+A hot wind blows into you as you trudge through the barrows, searching for any
+sign of life.
+~
+63 0 4
+D0
+~
+~
+0 0 6344
+D1
+~
+~
+0 0 6351
+D2
+~
+~
+0 0 6354
+D3
+~
+~
+0 0 6349
+S
+#6351
+The Barrows~
+   You stand ankle-deep in a trench of loose sand. The edges of the ditch are
+just above eye level, and though you can't see what lies above, you could scale
+the steep banked wall if you wish.
+~
+63 0 4
+D0
+You aren't tall enough to see over this low ridge.
+~
+~
+0 0 6345
+D1
+The ridgeline is too high for you to see across.
+~
+~
+0 0 6352
+D2
+~
+~
+0 0 6355
+D3
+~
+~
+0 0 6350
+S
+#6352
+The Barrows~
+   The earth falls away toward the west where deep gouges in the earth form
+crooked gulleys cut deeply into its surface. To the east, the vegetation
+grows thicker, covering the bare earth.
+~
+63 0 4
+D0
+~
+~
+0 0 6346
+D1
+~
+~
+0 0 6353
+D2
+~
+~
+0 0 6376
+D3
+~
+~
+0 0 5978
+S
+#6353
+The Barrows~
+   You walk a narrow ridgeline between two deep gashes in the earth which
+wind their way across the barren ground. The ridgeline is burned bare, but you
+see hints of sparse vegetation along the farther edge of the ravine's bottom.
+~
+63 0 4
+D0
+~
+~
+0 0 6347
+D1
+~
+~
+0 0 6370
+D2
+~
+~
+0 0 6377
+D3
+~
+~
+0 0 6352
+S
+#6354
+The Barrows~
+   You walk carefully along a deep ravine, stepping across prickly cacti
+and other harsh-looking plantlife. The vegetation becomes even more sparse
+to the west, as the elevation gradually declines.
+~
+63 0 4
+D0
+~
+~
+0 0 6350
+D1
+~
+~
+0 0 6355
+D2
+~
+~
+0 0 5989
+D3
+~
+~
+0 0 5985
+S
+#6355
+The Barrows~
+   The earth falls away toward the west where deep gouges in the earth form
+crooked gulleys cut deeply into its surface. To the east, the vegetation
+grows thicker, covering the bare earth.
+~
+63 0 4
+D0
+~
+~
+0 0 6351
+D1
+~
+~
+0 0 6376
+D3
+~
+~
+0 0 6354
+S
+#6356
+The Moors~
+   Thin, straggling grasses give way to sparse patches of low-growing cacti
+as the ground falls gently toward the west. Off in this direction, away down
+the slopes, you see in the distance, great, rolling dunes of dark sand.
+~
+63 0 4
+D0
+~
+~
+0 0 6321
+D1
+~
+~
+0 0 6357
+D2
+~
+~
+0 0 6358
+D3
+~
+~
+0 0 6327
+S
+#6357
+The Moors~
+   You stand upon a land of rolling barrows, gazing across the hills. The
+ground here slopes gently downward, the vegetation becoming more sparse and
+and succulent to the west.
+~
+63 0 4
+D2
+~
+~
+0 0 6359
+D3
+~
+~
+0 0 6356
+S
+#6358
+The Moors~
+   You come upon a transition point in the terrain. To the west, the ground
+is covered in deep gashes that wind downhill toward far-off dunes of dark
+sand. To the east, low mounds rise and fall across the scene.
+~
+63 0 4
+D0
+~
+~
+0 0 6356
+D1
+~
+~
+0 0 6359
+D2
+~
+~
+0 0 6361
+D3
+~
+~
+0 0 6333
+S
+#6359
+The Moors~
+   Thin, straggling grasses give way to sparse patches of low-growing cacti
+as the ground falls gently toward the west. Off in this direction, away down
+the slopes, you see in the distance, great, rolling dunes of dark sand.
+~
+63 0 4
+D0
+~
+~
+0 0 6357
+D1
+~
+~
+0 0 6360
+D2
+~
+~
+0 0 6362
+D3
+~
+~
+0 0 6358
+S
+#6360
+The Moors~
+   You stand beneath the shelter of the hills to the north and east, looking
+over the rolling hills, patchworked with clumps of dry grass, and crawling
+with biting insects.
+~
+63 0 4
+D2
+~
+~
+0 0 6363
+D3
+~
+~
+0 0 6359
+S
+#6361
+The Moors~
+   Thin, straggling grasses give way to sparse patches of low-growing cacti
+as the ground falls gently toward the west. Off in this direction, away down
+the slopes, you see in the distance, great, rolling dunes of dark sand.
+~
+63 0 4
+D0
+~
+~
+0 0 6358
+D1
+~
+~
+0 0 6362
+D2
+~
+~
+0 0 6366
+D3
+~
+~
+0 0 6341
+S
+#6362
+The Moors~
+   A dry wind blows in from the dark, barren lands to the west, bringing great
+clouds of dust and swarms of buzzing insects through this area. The rolling
+hills rise and fall all around you.
+~
+63 0 4
+D0
+~
+~
+0 0 6359
+D1
+~
+~
+0 0 6363
+D2
+~
+~
+0 0 6367
+D3
+~
+~
+0 0 6361
+S
+#6363
+The Moors~
+   You search for shelter among the rolling hills, but find not a tree or
+bush to provide you with suitable cover from the elements. Your thirst grows,
+as well as your hunger to leave this barren place.
+~
+63 0 4
+D0
+~
+~
+0 0 6360
+D2
+~
+~
+0 0 6368
+D3
+~
+~
+0 0 6362
+S
+#6364
+The Moors~
+   You come upon a transition point in the terrain. To the west, the ground
+is covered in deep gashes that wind downhill toward far-off dunes of dark
+sand. To the east, low mounds rise and fall across the scene.
+~
+63 0 4
+D0
+~
+~
+0 0 6340
+D1
+~
+~
+0 0 6365
+D2
+~
+~
+0 0 6370
+D3
+~
+~
+0 0 6347
+S
+#6365
+The Moors~
+   Thin, straggling grasses give way to sparse patches of low-growing cacti
+as the ground falls gently toward the west. Off in this direction, away down
+the slopes, you see in the distance, great, rolling dunes of dark sand.
+~
+63 0 4
+D0
+~
+~
+0 0 6341
+D1
+~
+~
+0 0 6366
+D2
+~
+~
+0 0 6371
+D3
+~
+~
+0 0 6364
+S
+#6366
+The Moors~
+   A dry wind blows in from the dark, barren lands to the west, bringing great
+clouds of dust and swarms of buzzing insects through this area. The rolling
+hills rise and fall all around you.
+~
+63 0 4
+D0
+~
+~
+0 0 6361
+D1
+~
+~
+0 0 6367
+D2
+~
+~
+0 0 6372
+D3
+~
+~
+0 0 6365
+S
+#6367
+The Moors~
+   Thin, straggling grasses give way to sparse patches of low-growing cacti
+as the ground falls gently toward the west. Off in this direction, away down
+the slopes, you see in the distance, great, rolling dunes of dark sand.
+~
+63 0 4
+D0
+~
+~
+0 0 6362
+D1
+~
+~
+0 0 6368
+D2
+~
+~
+0 0 6373
+D3
+~
+~
+0 0 6366
+S
+#6368
+The Moors~
+   You stand upon a land of rolling barrows, gazing across the hills. The
+ground here slopes gently downward, the vegetation becoming more sparse and
+and succulent to the west.
+~
+63 0 4
+D0
+~
+~
+0 0 6363
+D1
+~
+~
+0 0 6369
+D2
+~
+~
+0 0 6374
+D3
+~
+~
+0 0 6367
+S
+#6369
+The Moors~
+   The ground falls away to the west; the grasses of the plain growing more
+sparsely in that direction. To the east, the great plains roll into off into
+the distance.
+~
+63 0 4
+D1
+~
+~
+0 0 15228
+D2
+~
+~
+0 0 6375
+D3
+~
+~
+0 0 6368
+S
+#6370
+The Moors~
+   Thin, straggling grasses give way to sparse patches of low-growing cacti
+as the ground falls gently toward the west. Off in this direction, away down
+the slopes, you see in the distance, great, rolling dunes of dark sand.
+~
+63 0 4
+D0
+~
+~
+0 0 6364
+D1
+~
+~
+0 0 6371
+D2
+~
+~
+0 0 6378
+D3
+~
+~
+0 0 6353
+S
+#6371
+The Moors~
+   A dry wind blows in from the dark, barren lands to the west, bringing great
+clouds of dust and swarms of buzzing insects through this area. The rolling
+hills rise and fall all around you.
+~
+63 0 4
+D0
+~
+~
+0 0 6365
+D1
+~
+~
+0 0 6372
+D2
+~
+~
+0 0 6379
+D3
+~
+~
+0 0 6370
+S
+#6372
+The Moors~
+   You stand upon a land of rolling barrows, gazing across the hills. The
+ground here slopes gently downward, the vegetation becoming more sparse and
+and succulent to the west.
+~
+63 0 4
+D0
+~
+~
+0 0 6366
+D1
+~
+~
+0 0 6373
+D2
+~
+~
+0 0 6380
+D3
+~
+~
+0 0 6371
+S
+#6373
+The Moors~
+   You search for shelter among the rolling hills, but find not a tree or
+bush to provide you with suitable cover from the elements. Your thirst grows,
+as well as your hunger to leave this barren place.
+~
+63 0 4
+D0
+~
+~
+0 0 6367
+D1
+~
+~
+0 0 6374
+D2
+~
+~
+0 0 6381
+D3
+~
+~
+0 0 6372
+S
+#6374
+The Moors~
+   Arid lands stretch before you in all directions. The thick grasses of the
+eastward plains have all but ceased, exposing the hard earth beneath. Giant
+mounds of dry earth and woven grasses swarm with ants and bees.
+~
+63 0 4
+D0
+~
+~
+0 0 6368
+D1
+~
+~
+0 0 6375
+D2
+~
+~
+0 0 6382
+D3
+~
+~
+0 0 6373
+S
+#6375
+The Moors~
+   A dry wind blows in from the dark, barren lands to the west, bringing great
+clouds of dust and swarms of buzzing insects through this area. The rolling
+hills rise and fall all around you.
+~
+63 0 4
+D0
+~
+~
+0 0 6369
+D1
+~
+~
+0 0 15248
+D2
+~
+~
+0 0 6383
+D3
+~
+~
+0 0 6374
+S
+#6376
+The Moors~
+   You come upon a transition point in the terrain. To the west, the ground
+is covered in deep gashes that wind downhill toward far-off dunes of dark
+sand. To the east, low mounds rise and fall across the scene.
+~
+63 0 4
+D0
+~
+~
+0 0 6352
+D1
+~
+~
+0 0 6377
+D3
+~
+~
+0 0 6355
+S
+#6377
+The Moors~
+   Thin, straggling grasses give way to sparse patches of low-growing cacti
+as the ground falls gently toward the west. Off in this direction, away down
+the slopes, you see in the distance, great, rolling dunes of dark sand.
+~
+63 0 4
+D0
+~
+~
+0 0 6353
+D1
+~
+~
+0 0 6378
+D2
+~
+~
+0 0 6384
+D3
+~
+~
+0 0 6376
+S
+#6378
+The Moors~
+   A dry wind blows in from the dark, barren lands to the west, bringing great
+clouds of dust and swarms of buzzing insects through this area. The rolling
+hills rise and fall all around you.
+~
+63 0 4
+D0
+~
+~
+0 0 6370
+D1
+~
+~
+0 0 6379
+D2
+~
+~
+0 0 6385
+D3
+~
+~
+0 0 6377
+S
+#6379
+The Moors~
+   Thin, straggling grasses give way to sparse patches of low-growing cacti
+as the ground falls gently toward the west. Off in this direction, away down
+the slopes, you see in the distance, great, rolling dunes of dark sand.
+~
+63 0 4
+D0
+~
+~
+0 0 6371
+D1
+~
+~
+0 0 6380
+D2
+~
+~
+0 0 6386
+D3
+~
+~
+0 0 6378
+S
+#6380
+The Moors~
+   Arid lands stretch before you in all directions. The thick grasses of the
+eastward plains have all but ceased, exposing the hard earth beneath. Giant
+mounds of dry earth and woven grasses swarm with ants and bees.
+~
+63 0 4
+D0
+~
+~
+0 0 6372
+D1
+~
+~
+0 0 6381
+D2
+~
+~
+0 0 6387
+D3
+~
+~
+0 0 6379
+S
+#6381
+The Moors~
+   A dry wind blows in from the dark, barren lands to the west, bringing great
+clouds of dust and swarms of buzzing insects through this area. The rolling
+hills rise and fall all around you.
+~
+63 0 4
+D0
+~
+~
+0 0 6373
+D1
+~
+~
+0 0 6382
+D2
+~
+~
+0 0 6388
+D3
+~
+~
+0 0 6380
+S
+#6382
+The Moors~
+   You stand upon a land of rolling barrows, gazing across the hills. The
+ground here slopes gently downward, the vegetation becoming more sparse and
+and succulent to the west.
+~
+63 0 4
+D0
+~
+~
+0 0 6374
+D1
+~
+~
+0 0 6383
+D2
+~
+~
+0 0 6389
+D3
+~
+~
+0 0 6381
+S
+#6383
+The Moors~
+   The ground falls away to the west; the grasses of the plain growing more
+sparsely in that direction. To the east, the great plains roll into off into
+the distance.
+~
+63 0 4
+D0
+~
+~
+0 0 6375
+D1
+~
+~
+0 0 15268
+D2
+~
+~
+0 0 6390
+D3
+~
+~
+0 0 6382
+S
+#6384
+The Moors~
+   You stand beneath the shelter of the hills to the south and west, looking
+over the rolling hills, patchworked with clumps of dry grass, and crawling
+with biting insects.
+~
+63 0 4
+D0
+~
+~
+0 0 6377
+D1
+~
+~
+0 0 6385
+S
+#6385
+The Moors~
+   Thin, straggling grasses give way to sparse patches of low-growing cacti
+as the ground falls gently toward the west. Off in this direction, away down
+the slopes, you see in the distance, great, rolling dunes of dark sand.
+~
+63 0 4
+D0
+~
+~
+0 0 6378
+D1
+~
+~
+0 0 6386
+D3
+~
+~
+0 0 6384
+S
+#6386
+The Moors~
+   A dry wind blows in from the dark, barren lands to the west, bringing great
+clouds of dust and swarms of buzzing insects through this area. The rolling
+hills rise and fall all around you.
+~
+63 0 4
+D0
+~
+~
+0 0 6379
+D1
+~
+~
+0 0 6387
+D2
+~
+~
+0 0 6391
+D3
+~
+~
+0 0 6385
+S
+#6387
+The Moors~
+   You stand upon a land of rolling barrows, gazing across the hills. The
+ground here slopes gently downward, the vegetation becoming more sparse and
+and succulent to the west.
+~
+63 0 4
+D0
+~
+~
+0 0 6380
+D1
+~
+~
+0 0 6388
+D2
+~
+~
+0 0 6392
+D3
+~
+~
+0 0 6386
+S
+#6388
+The Moors~
+   Arid lands stretch before you in all directions. The thick grasses of the
+eastward plains have all but ceased, exposing the hard earth beneath. Giant
+mounds of dry earth and woven grasses swarm with ants and bees.
+~
+63 0 4
+D0
+~
+~
+0 0 6381
+D1
+~
+~
+0 0 6389
+D2
+~
+~
+0 0 6393
+D3
+~
+~
+0 0 6387
+S
+#6389
+The Moors~
+   A dry wind blows in from the dark, barren lands to the west, bringing great
+clouds of dust and swarms of buzzing insects through this area. The rolling
+hills rise and fall all around you.
+~
+63 0 4
+D0
+~
+~
+0 0 6382
+D1
+~
+~
+0 0 6390
+D2
+~
+~
+0 0 6394
+D3
+~
+~
+0 0 6388
+S
+#6390
+The Moors~
+   The ground falls away to the west; the grasses of the plain growing more
+sparsely in that direction. To the east, the great plains roll into off into
+the distance.
+~
+63 0 4
+D0
+~
+~
+0 0 6383
+D1
+~
+~
+0 0 15288
+D2
+~
+~
+0 0 6395
+D3
+~
+~
+0 0 6389
+S
+#6391
+The Moors~
+   You stand upon a land of rolling barrows, gazing across the hills. The
+ground here slopes gently downward, the vegetation becoming more sparse and
+and succulent to the west.
+~
+63 0 4
+D0
+~
+~
+0 0 6386
+D1
+~
+~
+0 0 6392
+S
+#6392
+The Moors~
+   You stand beneath the shelter of the stoney to the south, looking out
+over the rolling hills, patchworked with clumps of dry grass, and crawling
+with biting insects.
+~
+63 0 4
+D0
+~
+~
+0 0 6387
+D1
+~
+~
+0 0 6393
+D3
+~
+~
+0 0 6391
+S
+#6393
+The Moors~
+   You stand upon a land of rolling barrows, gazing across the hills. The
+ground here slopes gently downward, the vegetation becoming more sparse and
+and succulent to the west.
+~
+63 0 4
+D0
+~
+~
+0 0 6388
+D1
+~
+~
+0 0 6394
+D3
+~
+~
+0 0 6392
+S
+#6394
+The Moors~
+   Arid lands stretch before you in all directions. The thick grasses of the
+eastward plains have all but ceased, exposing the hard earth beneath. Giant
+mounds of dry earth and woven grasses swarm with ants and bees.
+~
+63 0 4
+D0
+~
+~
+0 0 6389
+D1
+~
+~
+0 0 6395
+D2
+~
+~
+0 0 6396
+D3
+~
+~
+0 0 6393
+S
+#6395
+The Moors~
+   A dry wind blows in from the dark, barren lands to the west, bringing great
+clouds of dust and swarms of buzzing insects through this area. The rolling
+hills rise and fall all around you.
+~
+63 0 4
+D0
+~
+~
+0 0 6390
+D1
+~
+~
+0 0 15308
+D2
+~
+~
+0 0 6397
+D3
+~
+~
+0 0 6394
+S
+#6396
+The Moors~
+   You stand beneath the shelter of the hills to the south and west, looking
+over the rolling hills, patchworked with clumps of dry grass, and crawling
+with biting insects.
+~
+63 0 4
+D0
+~
+~
+0 0 6394
+D1
+~
+~
+0 0 6397
+S
+#6397
+The Moors~
+   The ground falls away to the west; the grasses of the plain growing more
+sparsely in that direction. To the east, the great plains roll into off into
+the distance.
+~
+63 0 4
+D0
+~
+~
+0 0 6395
+D1
+~
+~
+0 0 15328
+D3
+~
+~
+0 0 6396
+S
+$~

@@ -1,0 +1,229 @@
+#6800
+jack giant slayer~
+Jack the Giant Slayer~
+Jack searches for evil giants to slay.
+~
+A young human, in his twenties, with a perpetual smile on his face and an
+arsenal of weaponry on his back.
+~
+delnpsu dhkmp 900 E
+100 199 100d8+3000 9d9
+800 50000
+8 8 1
+Race: 1
+Script: fighter.lua 256
+E
+#6801
+wild boar carve_meat skin_hide~
+the wild boar~
+A wild boar charges you!
+~
+What this pig lacks in size he makes up for in pure energy. The two large
+tusks protruding from his lower jaw twist around in a complete spiral before
+the tips extend beyond his snout.
+~
+dfgu 0 900 E
+15 22 15d8+174 3d4
+0 2904
+8 8 1
+BareHandAttack: 4
+Race: 26
+E
+#6802
+twisted gnarled tree man treeman~
+the treeman~
+A twisted and gnarled tree grows in a small clearing by itself.
+~
+The tree is old, with thick, cracked bark. You can just make out a pair of
+hidden eyes and mouth in the middle of its trunk. It's a treeman, and attacks
+its victims with long, slender branches which are surpringly agile.
+~
+bdefnpqru fk -200 E
+24 38 24d8+352 3d5
+20 5878
+8 8 0
+BareHandAttack: 2
+Race: 36
+E
+#6803
+pygmy small man~
+the pygmy~
+There is a rustle in the bushes at your feet.
+~
+Covered in a basic form of paint, the pygmy is almost invisible in the
+undergrowth. It is small with beady eyes and despite your size, looks at you
+with glee.
+~
+cdghnu fkpt 1000 E
+18 27 18d8+229 3d4
+10 3818
+8 8 1
+Noise: There is a rustle in the nearby undergrowth.
+E
+#6804
+python snake~
+a python~
+A large snake wraps itself around one of the nearby trees.
+~
+Not just a mere snake, the creature before you is a python and a rather
+large one at that. It kills its prey by suffocation, wrapping itself around
+them and crushing the air from their lungs.
+~
+dgqu fk 400 E
+18 27 18d8+229 3d4
+0 3818
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#6805
+merchant trader~
+a merchant~
+A fat and pompous merchant strolls along the road, quite content.
+~
+It's no wonder this guy needs protection - look at him! He easily weighs at
+least three times as much as you, and yet he's only half the size. He's
+dressed in all manner of finery; gold and jewels hanging off him as a
+testament to his wealth and greed.
+~
+bdnp k 200 E
+20 31 20d8+268 3d5
+0 4472
+8 8 1
+Race: 1
+Script: merchant_walk.lua 864
+E
+#6806
+husker insect~
+the husker~
+A large insect peers down at you from a branch above your head.
+~
+Resembling something of a large mosquito, this creature leaps from tree to
+tree, searching out rotting wood and clumps of leaves. Although it has wings,
+it doesn't appear as if it can fly - and the rows of sharp teeth it possesses
+make quick work of the branches it eats.
+~
+dghqu k 0 E
+16 24 16d8+192 3d4
+0 3200
+8 8 0
+BareHandAttack: 4
+Race: 23
+E
+#6807
+slave~
+a slave~
+A slave follows closely behind his master.
+~
+While not quite richly dressed, the slave is rather well clothed for a person
+in his profession. Perhaps born into slavery, or perhaps sold as a child, this
+individual serves his master well and will continue to do so until death.
+~
+bdnp ks 600 E
+15 22 15d8+174 3d4
+0 2904
+8 8 1
+Race: 1
+Script: slave_walk.lua 352
+E
+#6808
+carrion lizard~
+a carrion lizard~
+A carrion lizard snakes its way through the undergrowth.
+~
+A mature carrion lizard can grow several feet in length and this one can't be
+too far off that. With powerful muscles, it is able to glide along the tree-
+carpeted ground despite the fact that it has four clawed talons for feet. It
+munches slowly on fallen leaves and fungii.
+~
+dgqu k 200 E
+18 27 18d8+229 3d4
+0 3818
+8 8 0
+BareHandAttack: 8
+Race: 29
+E
+#6809
+mass creeping vines~
+some creeping vines~
+A knotted-mass of vines hangs from the top of a nearby tree.
+~
+The vines sway softly back and forth, despite the lack of any breeze. They're
+covered in hundreds of tiny spikes, some of which still have the rotting flesh
+of hapless victims attached.
+~
+bdefnpqru fk -100 E
+12 17 12d8+124 3d4
+0 2078
+8 8 0
+BareHandAttack: 10
+Race: 36
+E
+#6810
+scavenger~
+a scavenger~
+A scavenger peers at you cautiously from the dense foliage.
+~
+This creature possesses a unique hide that allows it to blend in with its
+surroundings, very similar to that of a chameleon. As a herbivore, it poses
+no real threat to you.
+~
+dghu k 500 E
+13 19 13d8+140 3d4
+0 2343
+8 8 0
+Race: 26
+E
+#6811
+winged creature shrieking layton~
+a shrieking layton~
+A winged creature passes overhead, emitting a piercing shriek.
+~
+Similar in size to a wyvern, this foul beast is both agile and strong. It can
+knock its foes down with several beats of its wings, or render them helpless
+with its shrieking. At close range, its razor-sharp talons would tear you to
+shreds.
+~
+defgnpu dfkA -300 E
+23 36 23d8+330 3d5
+0 5515
+8 8 0
+BareHandAttack: 12
+Race: 13
+Noise: A piercing shriek can be heard high overhead.
+E
+#6812
+insect stinger~
+a stinger~
+A brightly-striped insect buzzes around you.
+~
+It's amazing that this insect even remains airborne...it is about the size of
+your head and has an extremely small set of wings in proportion. There is a
+low frequency beat as it buzzes around you, perhaps some form of natural
+deterrent from predators.
+~
+dghqu kpA 400 E
+4 4 4d8+24 3d3
+0 400
+8 8 0
+BareHandAttack: 1
+Race: 23
+E
+#6813
+khorat golden crested bird~
+a jungle khorat~
+A large, golden-crested bird sits upon a nearby branch.
+~
+The plumage on this bird is remarkable...from this distance, the feathers look
+as if they are made from gold itself. The pure white feathers covering its
+body reflect most light making it a highly visible target against the
+surrounding jungle foliage.
+~
+dghqu kpA 600 E
+8 10 8d8+67 3d3
+0 1131
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+$

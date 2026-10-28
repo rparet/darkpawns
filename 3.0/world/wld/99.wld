@@ -1,0 +1,1746 @@
+#9900
+Statues On The Crypt~
+   You are standing atop the crypt, overlooking the mists and cold
+vapours of the corrupted cemetary.  From here you can see out across the
+cemetary to view the mindless wanderings of the various undead that lumber
+around the grasses and tombs below you, stopping only to gnaw on a bone
+or rip into a half-buried casket.
+   Two statues stand here; the first of which is that of an elvish thief,
+possibly the matron of the family to whom the crypt belongs.  The smaller
+one is that of a sandstone cat, standing on its back paws to claw at an
+unseen fly.
+   Sturdy vines, some as large as tree trunks, descend the top of the
+tomb to the east and west, allowing you to smoothly climb down without
+having to leap.  To the north, the cemetary wall rises high above
+the back of the tomb.
+~
+99 0 0 0 0 1
+D1
+~
+~
+0 0 9946
+D3
+~
+~
+0 0 9944
+S
+#9901
+Southwestern Corner of the Cemetary~
+   You are standing against a crumbling stone wall in the southwestern
+corner of this ancient cemetary.  A few bones protrude from the ground,
+adding tinges of pale yellow and white to the sickly greens and browns
+of the tall grasses in this area.
+   The cemetary continues to the north and east.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9911
+D1
+~
+~
+0 0 9902
+S
+#9902
+Southern Cemetary Wall~
+   You are standing at the base of the southern wall of the cemetary.
+Some tall branches stretch over the wall above, absorbing moisture
+from fog that tends to permeate the area even in bright sunlight.
+   The cemetary continues to the north, east, and west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9912
+D1
+~
+~
+0 0 9903
+D3
+~
+~
+0 0 9901
+S
+#9903
+Southern Cemetary Wall~
+   You stand below the towering southern wall of the cemetary.  A few
+tall branches stretch over the wall above, brave enough to allow the
+unearthly cold emanating from the cemetary to touch their limbs.
+   The cemetary continues to the north, east, and west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9913
+D1
+~
+~
+0 0 9904
+D3
+~
+~
+0 0 9902
+S
+#9904
+Southern Cemetary Wall~
+   You are standing at the base of the southern wall of the cemetary.
+Some tall branches stretch over the wall above, absorbing moisture
+from fog that tends to permeate the area even in bright sunlight.
+   The cemetary continues to the north, east, and west, and is split
+by a lane to the east.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9914
+D1
+~
+~
+0 0 9905
+D3
+~
+~
+0 0 9903
+S
+#9905
+Brail'lin Cemetary Courtyard~
+   You are standing in an open courtyard just north of the cemetary
+gates.  A lane of cobblestones leads north from here, bisecting the
+graveyard into two separate parts.  Moss and wild grasses rise up 
+through cracks in the cobblestones, confirming your suspicions that
+no one has been here in a very long time.
+~
+99 4 0 0 0 1
+D0
+~
+~
+0 0 9915
+D1
+~
+~
+0 0 9906
+D2
+~
+gate~
+1 0 5576
+D3
+~
+~
+0 0 9904
+S
+#9906
+Southern Cemetary Wall~
+   You stand below the towering southern wall of the cemetary.  A few
+tall branches stretch over the wall above, brave enough to allow the
+unearthly cold emanating from the cemetary to touch their limbs.
+   The cemetary continues to the north and east, and is split by a
+a lane to the west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9916
+D1
+~
+~
+0 0 9907
+D3
+~
+~
+0 0 9905
+S
+#9907
+Southern Cemetary Wall~
+   You stand below the towering southern wall of the cemetary.  A few
+tall branches stretch over the wall above, brave enough to allow the
+unearthly cold emanating from the cemetary to touch their limbs.
+   The cemetary continues to the north, east, and west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9917
+D1
+~
+~
+0 0 9908
+D3
+~
+~
+0 0 9906
+S
+#9908
+Southern Cemetary Wall~
+   You stand below the towering southern wall of the cemetary.  A few
+tall branches stretch over the wall above, brave enough to allow the
+unearthly cold emanating from the cemetary to touch their limbs.
+   The cemetary continues to the north, east, and west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9918
+D1
+~
+~
+0 0 9909
+D3
+~
+~
+0 0 9907
+S
+#9909
+Southeastern Corner of the Cemetary~
+   You are standing against a crumbling stone wall in the southwestern
+corner of this ancient cemetary.  A few bones protrude from the ground,
+adding tinges of pale yellow and white to the sickly greens and browns
+of the tall grasses in this area.  Some holes in the wall here are large
+enough for rats to pass through, but surely nothing larger.
+   The cemetary continues to the north and west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9919
+D3
+~
+~
+0 0 9908
+S
+#9911
+Western Cemetary Wall~
+   You are walking along the western wall of the cemetary.  A few clumps
+of grass appear to have been uprooted as someone or something razed a
+cluster of mole hills.
+   Tombstones lay scattered about the area, some leaning against the 
+wall of the cemetary with no hope of finding their way back into their
+rightful place.
+   The cemetary continues to the north, south, and east.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9921
+D1
+~
+~
+0 0 9912
+D2
+~
+~
+0 0 9901
+S
+#9912
+Graves~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips litter the weed-strewn cemetary, slicing deep
+into the ground as you walk across them.
+   The cemetary continues in all directions, ending at a wall to the south.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9922
+D1
+~
+~
+0 0 9913
+D2
+~
+~
+0 0 9902
+D3
+~
+~
+0 0 9911
+S
+#9913
+Graves~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips litter the weed-strewn cemetary, slicing deep
+into the ground as you walk across them.
+   The cemetary continues in all directions, ending at a wall to the south.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9923
+D1
+~
+~
+0 0 9914
+D2
+~
+~
+0 0 9903
+D3
+~
+~
+0 0 9912
+S
+#9914
+A Cold Fog~
+   You stand in a relatively undamaged section of the cemetary.  Stones
+and small cenotaphs dot the area, apparently unharmed by looters and 
+treasure-seekers.
+   A deadly cold fog seems to emanate from a slate headstone, permeating
+and stretching its way across the rest of the cemetary as though it was
+intentionally seeking to infiltrate every nook in the cemetary.
+   The cemetary continues in all directions, and is split by the lane to
+the east.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9924
+D1
+~
+~
+0 0 9915
+D2
+~
+~
+0 0 9904
+D3
+~
+~
+0 0 9913
+S
+#9915
+Cemetary Lane~
+   You are standing on a cobblestone lane that splits the cemetary.
+The lane continues to the north and leads toward the cemetary gates
+to the south.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9925
+D1
+~
+~
+0 0 9916
+D2
+~
+~
+0 0 9905
+D3
+~
+~
+0 0 9914
+S
+#9916
+Fallen Tombstones~
+   Looters must have sacked this place recently, as the broken tombstones
+show no signs of moss or mildew on their shattered surfaces.  A few graves
+have been opened here, leaving the skeletons of the dead behind, staring
+with hollow eyes into the skies above.
+   The cemetary continues in all directions, and is split by the lane to
+the west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9926
+D1
+~
+~
+0 0 9917
+D2
+~
+~
+0 0 9906
+D3
+~
+~
+0 0 9915
+S
+#9917
+The Mists~
+   Shifting misty shapes inhabit this area, dancing and swirling on 
+unseen winds, and dampening the ground beneath you as they touch the
+grass with a chilling fog.  The shapes are truly amorphous, and you
+are unable to tell if it is atmospheric, or if the fog really does
+have a mind of its own.
+   The cemetary continues in all directions, ending at a wall to the south.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9927
+D1
+~
+~
+0 0 9918
+D2
+~
+~
+0 0 9907
+D3
+~
+~
+0 0 9916
+S
+#9918
+Graves~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips litter the weed-strewn cemetary, slicing deep
+into the ground as you walk across them.
+   The cemetary continues in all directions, ending at a wall to the south.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9928
+D1
+~
+~
+0 0 9919
+D2
+~
+~
+0 0 9908
+D3
+~
+~
+0 0 9917
+S
+#9919
+Eastern Cemetary Wall~
+   You are walking along the eastern wall of the cemetary.  A few clumps
+of grass appear to have been uprooted here and tossed into a compost
+heap that sport a few poisonous mushrooms here, nourished by the peat
+and the wet tendrils of the cold fog that permeates the place.
+   The cemetary continues to the north, south, and west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9929
+D2
+~
+~
+0 0 9909
+D3
+~
+~
+0 0 9918
+S
+#9921
+Western Cemetary Wall~
+   You are leaning against a shattered and ill-repaired wall.  Mounds
+and jumbles of granite lie at your feet amidst the broken gargoyles
+that appear to have tumbled from the top of the wall above you.
+   The cemetary continues to the north, south, and east.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9931
+D1
+~
+~
+0 0 9922
+D2
+~
+~
+0 0 9911
+S
+#9922
+Graves~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips litter the weed-strewn cemetary, slicing deep
+into the ground as you walk across them.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9932
+D1
+~
+~
+0 0 9923
+D2
+~
+~
+0 0 9912
+D3
+~
+~
+0 0 9921
+S
+#9923
+Amid The Tombstones~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips form small piles of limestone that would be
+unsuitable for anything but flint-knapping.  Wisps of fog seep up from
+below the weeds in this area, adding a chill to the already moist ground.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9933
+D1
+~
+~
+0 0 9924
+D2
+~
+~
+0 0 9913
+D3
+~
+~
+0 0 9922
+S
+#9924
+A Burial Cairn~
+   You are standing atop a stone cairn.  Evil radiates from its base,
+chilling your feet and making you wonder what could be contained under
+the tons of rock on which you now stand.  Even now, as you look upon
+it, you can see an etheral, skeletal arms reach though the stones to
+claw at your feet, as though sensing the warmth of your body.
+   The cemetary continues in all directions, and is split by the lane to
+the east.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9934
+D1
+~
+~
+0 0 9925
+D2
+~
+~
+0 0 9914
+D3
+~
+~
+0 0 9923
+S
+#9925
+Cemetary Lane~
+   You are standing on a cobblestone lane that splits the cemetary.
+The lane continues to the north and leads toward the cemetary gates
+to the south.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9935
+D1
+~
+~
+0 0 9926
+D2
+~
+~
+0 0 9915
+D3
+~
+~
+0 0 9924
+S
+#9926
+An Empty Grave~
+   It seems someone was about to be buried in this empty grave at the
+time the cemetary closed.  A few lone weeds poke up from the bottom
+of the misty grave, giving you no indication as to the depth of the 
+site, as they show their sickly green leaves at the ground level.
+   The cemetary continues in all directions, and is split by the lane to
+the west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9936
+D1
+~
+~
+0 0 9927
+D2
+~
+~
+0 0 9916
+D3
+~
+~
+0 0 9925
+S
+#9927
+A Shallow Grave~
+   You are standing in a shallow grave.  Fresh dirt tumbles in from the
+sides and buries your ankles in foul-smelling earth.
+   A bone protrudes from the ground beneath you, but seems lodged in 
+place by something below.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9937
+D1
+~
+~
+0 0 9928
+D2
+~
+~
+0 0 9917
+D3
+~
+~
+0 0 9926
+S
+#9928
+Graves~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips litter the weed-strewn cemetary, slicing deep
+into the ground as you walk across them.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9938
+D1
+~
+~
+0 0 9929
+D2
+~
+~
+0 0 9918
+D3
+~
+~
+0 0 9927
+S
+#9929
+Eastern Cemetary Wall~
+   You are walking along the eastern wall of the cemetary.  A few clumps
+of crabgrass lie in a pile here, torn up by the claws of some dweller of
+the night.
+   A few tombstones lie shattered into gravel around the area, as though
+someone was unsuccessfuly searching for something and vented its rage on
+the stones.
+   The cemetary continues to the north, south, and west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9939
+D2
+~
+~
+0 0 9919
+D3
+~
+~
+0 0 9928
+S
+#9931
+Western Cemetary Wall~
+   You are walking along the western wall of the cemetary.  Grasses and
+weeds grow high here - evidence that the place has not been tended for
+decades or more.  
+   A few trampled mats of grass tell of the passage of some bipedal
+creature, but little visible evidence remains of any consistent traffic
+in the graveyard that continues to the north, south, and east.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9941
+D1
+~
+~
+0 0 9932
+D2
+~
+~
+0 0 9921
+S
+#9932
+Sundered Graves~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips litter the weed-strewn cemetary, slicing deep
+into the ground as you walk across them.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9942
+D1
+~
+~
+0 0 9933
+D2
+~
+~
+0 0 9922
+D3
+~
+~
+0 0 9931
+S
+#9933
+Graves~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips litter the weed-strewn cemetary, slicing deep
+into the ground as you walk across them.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9943
+D1
+~
+~
+0 0 9934
+D2
+~
+~
+0 0 9923
+D3
+~
+~
+0 0 9932
+S
+#9934
+Rows Of Tombstones~
+   You are looking across a field of untended grasses that have swallowed
+evenly spaced rows of tombstones.  A cold, mist lies dormant over the area,
+bathing the reeds and stones in a greasy dew.
+   The cemetary continues in all directions, and is split by the lane to
+the east.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9944
+D1
+~
+~
+0 0 9935
+D2
+~
+~
+0 0 9924
+D3
+~
+~
+0 0 9933
+S
+#9935
+Cemetary Lane~
+   You are standing on a cobblestone lane that splits the cemetary,
+just south of an old crypt that rises high above you to the north.
+Statues flank the entrance to the tomb - one of a lithe woman 
+wielding a slim dagger, the other a tall mage.
+   The lane leads southward, away from the crypt.
+~
+99 4 0 0 0 1
+D0
+~
+~
+0 0 9945
+D1
+~
+~
+0 0 9936
+D2
+~
+~
+0 0 9925
+D3
+~
+~
+0 0 9934
+S
+#9936
+Graves~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips litter the weed-strewn cemetary, slicing deep
+into the ground as you walk across them.
+   The cemetary continues in all directions, and is split by the lane to
+the west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9946
+D1
+~
+~
+0 0 9937
+D2
+~
+~
+0 0 9926
+D3
+~
+~
+0 0 9935
+S
+#9937
+Upended Tombstones~
+   You are standing in the midst of a jumble of broken tombstones.  Grasses
+and weeds break through the pile and appear to be claiming it for their
+own, competing only with the northern side of the jumble which is covered
+with a yellow-green moss.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9947
+D1
+~
+~
+0 0 9938
+D2
+~
+~
+0 0 9927
+D3
+~
+~
+0 0 9936
+S
+#9938
+Graves~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips litter the weed-strewn cemetary, slicing deep
+into the ground as you walk across them.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9948
+D1
+~
+~
+0 0 9939
+D2
+~
+~
+0 0 9928
+D3
+~
+~
+0 0 9937
+S
+#9939
+Eastern Cemetary Wall~
+   You are walking along the eastern wall of the cemetary.  A few clumps
+of grass appear to have been uprooted as someone or something razed a
+cluster of mole hills.
+   Tombstones lay scattered about the area, some leaning against the 
+wall of the cemetary with no hope of finding their way back into their
+rightful place.
+   The cemetary continues to the north, south, and west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9949
+D2
+~
+~
+0 0 9929
+D3
+~
+~
+0 0 9938
+S
+#9941
+Western Cemetary Wall~
+   You are walking along the western wall of the cemetary.  Grasses and
+weeds grow high here - evidence that the place has not been tended for
+decades or more.  
+   A few trampled mats of grass tell of the passage of some bipedal
+creature, but little visible evidence remains of any consistent traffic
+in the graveyard.
+   A granite crypt lies to the north, while the cemetary continues to
+both the east and south.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9951
+D1
+~
+~
+0 0 9942
+D2
+~
+~
+0 0 9931
+S
+#9942
+Graves~
+   You are standing in the midst of dozens of fallen and broken tombstones.
+Sharp stone edges and chips litter the weed-strewn cemetary, slicing deep
+into the ground as you walk across them.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9952
+D1
+~
+~
+0 0 9943
+D2
+~
+~
+0 0 9932
+D3
+~
+~
+0 0 9941
+S
+#9943
+A Charnal Feast~
+   You are standing knee-deep in bone shards.  This appears to be where
+the looters of this cemetary have stacked the bodies of the dead.  Tooth
+and claw marks tell of a different kind of looting here as tendrils of
+fog waft up from the moist ground and into the charnal stack.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9953
+D1
+~
+~
+0 0 9944
+D2
+~
+~
+0 0 9933
+D3
+~
+~
+0 0 9942
+S
+#9944
+Open Graves~
+   You are standing amidst the litter of open, rotted wooden caskets
+that lie shattered and strewn across the area, ripped apart by some
+unknown creature that left scratches on the broken timbers.  Splinters
+of bone and wood coat the grass with an almost snow-like blanket,
+covering the green and brown reeds with splotches of sickly yellow
+and bone white.
+   The cemetary continues to the north, south, and west.  To the east
+a tall mausoleum with thick vines dominates the rest of the cemetary.
+~
+99 4 0 0 0 1
+D0
+~
+~
+0 0 9954
+D2
+~
+~
+0 0 9934
+D3
+~
+~
+0 0 9943
+D4
+~
+~
+0 0 9900
+E
+vines~
+It appears as if you can climb these vines up to the top of the crypt.
+~
+S
+#9945
+Brail'lin Eiahh Family Crypt~
+   This is the elven family crypt of the Brail'lin clan.  Four elven
+statues - one for each member of the family - stand in each of the
+corners of the room.
+   The statues to the south, a pair of male warriors in full battle
+armor appear to have each borne a plaque on the pedestals beneath
+them, but time and looters have long since removed any way of naming
+the honored elves.  The likenesses however, suggest a kindred type
+of resemblence.
+   Opposite them, a robed mage and an elvish thief wielding a small
+stone dagger stand tall and proud over the rest of the chamber as
+though daring you to enter.
+~
+99 5 0 0 0 0
+D0
+~
+~
+0 0 9955
+D2
+~
+~
+0 0 9935
+S
+#9946
+Open Graves~
+   Open, rotted wooden caskets lie scattered about the area, ripped
+apart by some unknown creature that left its clawmarks on the weathered
+timbers.  Splinters of bone and wood litter the grassy terrain, poking
+up from the thick reeds below you to dot the green and brown with flecks
+of sickly yellow and bone white.
+   The cemetary continues to the north, south, and east.  To the west
+a tall mausoleum with thick vines dominates this section of the ancient
+cemetary.
+~
+99 4 0 0 0 1
+D0
+~
+~
+0 0 9956
+D1
+~
+~
+0 0 9947
+D2
+~
+~
+0 0 9936
+D4
+~
+~
+0 0 9900
+E
+vines~
+It looks as though you may be able to climb the vines to the top of the crypt.
+~
+S
+#9947
+A Charnal Pit~
+   You are standing above the rim of a shallow charnal pit.  Ashes and
+dented urns litter the bottom of it, allowing the damp fog around you to
+create a moist paste from the ashes of the dead.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9957
+D1
+~
+~
+0 0 9948
+D2
+~
+~
+0 0 9937
+D3
+~
+~
+0 0 9946
+S
+#9948
+A Tool Shed~
+   This appears have once been a tool shed, but the wooden timbers
+have long since rotted away.  Only a few slate tiles that must have 
+once formed the roof lie shattered here, buried only by the tall
+grasses and the mists that rise from them.
+   The cemetary continues in all directions.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9958
+D1
+~
+~
+0 0 9949
+D2
+~
+~
+0 0 9938
+D3
+~
+~
+0 0 9947
+S
+#9949
+Eastern Cemetary Wall~
+   You are walking along the eastern wall of the cemetary.  Clumps
+of grass appear to have been uprooted as someone or something razed a
+cluster of mole hills.  Tombstones lay scattered about the area, some
+leaning against the wall of the cemetary with no hope of finding their
+way back into their rightful place.
+   A crypt lies to the north, its ancient walls covered with dead vines
+and mould, while the cemetary continues to the south and west.
+~
+99 0 0 0 0 1
+D0
+~
+~
+0 0 9959
+D2
+~
+~
+0 0 9939
+D3
+~
+~
+0 0 9948
+S
+#9951
+A Paladin's Crypt~
+   You are standing in the midst of a noble paladin's crypt.  The walls
+are marble, as is the floor which supports a massive bier.  The ornate
+carvings on the top of the bier depict two rampant unicorns, each with
+its horns pointing to the northeast.
+   The bier itself appears to be made of bloodstone and stands almost
+four feet tall and at least twice that long.  A small, silver plaque
+hangs bolted with silver spars into the bier.
+~
+99 1 0 0 0 1
+D2
+~
+~
+0 0 9941
+D5
+~
+secret~
+1 0 9980
+E
+plaque~
+The plaque reads, "Lord Derek Senegret, Knight Lord of Kir Drax'in."
+~
+S
+#9952
+Northern Cemetary Wall~
+   You are standing below the northern wall of the cemetary, just
+east of a white marble crypt.  Ivy and vines climb from the long-
+neglected ground to envelop the crypt in their pallid grasp.
+   Several tombstones lie flat here on the grass, crushing the life
+from the plants and reeds beneath them and providing solid depressions
+from which you can avoid the tall, stiff grasses that brush against
+your legs.
+   The cemetary comtinues to the east and south.
+~
+99 0 0 0 0 1
+D1
+~
+~
+0 0 9953
+D2
+~
+~
+0 0 9942
+S
+#9953
+Northern Cemetary Wall~
+   You are leaning against the northern wall of the cemetary.  A single
+skeleton lies half-unearthed here, moss growing aggressively on the top
+of its yellowed skull.
+   The cemetary continues to the south, east, and west.
+~
+99 0 0 0 0 1
+D1
+~
+~
+0 0 9954
+D2
+~
+~
+0 0 9943
+D3
+~
+~
+0 0 9952
+S
+#9954
+Northern Cemetary Wall~
+   You are standing below the northern wall of the cemetary, just
+west of a black marble crypt.  Ivy and vines climb from the long-
+neglected ground to envelop the crypt in their pallid grasp.
+   The grasses here are well matted and yellowed with heavy traffic,
+as though someone kept a regular patrol here.
+   The cemetary continues to the south and west.
+~
+99 0 0 0 0 1
+D2
+~
+~
+0 0 9944
+D3
+~
+~
+0 0 9953
+S
+#9955
+The Bier~
+   Before you stands an enormous stone casket on a white marble bier.
+The figure depicted on the bier itself is that of a fine-boned mage.
+The detail is such that you can make out the runes of defense of the
+statue's robes.
+   Torch sconses line the walls, though none have seen use in almost
+a century.
+   The exit lies to the south, from which you catch the scent of damp
+air.
+~
+99 9 0 0 0 0
+D2
+~
+~
+0 0 9945
+D5
+~
+secret~
+1 0 9985
+E
+bier mage~
+The bier depicts the full body of an adult male.  The bone structure
+of the face is refined and tapered to be almost elven, but there seems
+to be a thin mustache or growth on the figure's lip that could either
+represent a lineage of humanity or half-breed.  The figure is clearly
+sneering, however, and the face shows no hint of kindness in its 
+nobility.
+~
+S
+#9956
+Northern Cemetary Wall~
+   You are standing below the northern wall of the cemetary, just
+west of a black marble crypt.  Ivy and vines climb from the long-
+neglected ground to envelop the crypt in their pallid grasp.
+   The grasses here are well matted and yellowed with heavy traffic,
+as though someone kept a regular patrol here.
+   The cemetary continues to the south and east.
+~
+99 0 0 0 0 1
+D1
+~
+~
+0 0 9957
+D2
+~
+~
+0 0 9946
+S
+#9957
+Northern Cemetary Wall~
+   You are leaning against the northern wall of the cemetary.  A single
+skeleton lies half-unearthed here, moss growing aggressively on the top
+of its yellowed skull.
+   The cemetary continues to the south, east, and west.
+~
+99 0 0 0 0 1
+D1
+~
+~
+0 0 9958
+D2
+~
+~
+0 0 9947
+D3
+~
+~
+0 0 9956
+S
+#9958
+Northern Cemetary Wall~
+   You are standing below the northern wall of the cemetary, just
+west of a white marble crypt.  Ivy and vines climb from the long-
+neglected ground to envelop the crypt in their pallid grasp.
+   Several tombstones lie flat here on the grass, crushing the life
+from the plants and reeds beneath them and providing solid depressions
+from which you can avoid the tall, stiff grasses that brush against
+your legs.
+   The cemetary continues to the south and west.
+~
+99 0 0 0 0 1
+D2
+~
+~
+0 0 9948
+D3
+~
+~
+0 0 9957
+S
+#9959
+A Ranger's Tomb~
+   You are standing in the ancient tomb of a ranger.  A tall bier
+with the marble statue of an old man with a longbow rises high
+above you, making it appear as though this man was buried in a
+standing position.
+   The walls are marble and surprisingly free of mildew or vines,
+in sharp contrast to the growth that clings to the walls outside.
+   The exit lies to the south.
+~
+99 1 0 0 0 0
+D2
+~
+~
+0 0 9949
+D5
+~
+secret bier~
+1 0 9991
+S
+#9960
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9961
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9962
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9963
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9964
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9965
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9966
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9967
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9968
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9969
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9970
+Unused~
+None
+~
+99 0 0 0 0 2
+S
+#9971
+Unused~
+None
+~
+99 0 0 0 0 3
+S
+#9980
+Within The Bier~
+   You are on a set of spiral stairs below a bier.  This place smells
+of death and the damp air already robs your lungs of breath.  Inert
+and rusting sconses hang on the walls, while mildew blankets them in 
+its sickly embrace.
+   The corpse of an experienced cutpurse lies here, rotting with his
+own dagger through his heart.  You ponder what force could make such
+a well equipped being end his own life.
+~
+99 5 0 0 0 0
+D4
+A bier is above you.
+~
+bier~
+1 0 9951
+D5
+~
+~
+0 0 9981
+S
+#9981
+Base Of The Stairs~
+   You are standing at the base of the stairs in a square chamber.
+Dormant skeletal knights in full armour rest silently around you,
+awaiting the command to spring forth and defend their lord.
+   The floors and wall are made of grey slate, not of marble as
+was upstairs, accounting for the almost unnatural absorption of
+light.
+   The chamber continues to the north and east, and ascends a set
+of blood-caked stairs above you.
+~
+99 9 0 0 0 0
+D0
+~
+~
+0 0 9983
+D1
+~
+~
+0 0 9982
+D4
+~
+~
+0 0 9980
+S
+#9982
+Burial Chamber~
+   You are in the southeastern corner of the burial chamber.  Iron
+thrones line the walls, each inhabited by a skeletal figure whose
+hollow sockets stare out in eternal blindness.
+   The chamber continues to the north and west.
+~
+99 9 0 0 0 0
+D0
+~
+~
+0 0 9984
+D3
+~
+~
+0 0 9981
+S
+#9983
+Burial Chamber~
+   You are standing in the northwestern corner of the burial chamber.
+Skeletal knights - some appearing ready to strike - stand against the
+walls in silent vigil, immobile, but radiating their proection over
+the tomb of their master.
+   The chamber continues to the south and east.
+~
+99 9 0 0 0 0
+D1
+~
+~
+0 0 9984
+D2
+~
+~
+0 0 9981
+S
+#9984
+The Paladin's Resting Place~
+   You stand before a magnificent silver casket.  Its glass lid was long
+ago shattered, though no evidence remains of it, as though someone had
+come in to remove the shards out of respect for the one interred.
+   Oddly, the casket does not stand elevated, but rests quietly on the
+floor, flanked on all corners by statues of loyal knights.
+   The chamber continues to the south and west.
+~
+99 9 0 0 0 0
+D2
+~
+~
+0 0 9982
+D3
+~
+~
+0 0 9983
+E
+casket~
+The casket is made from steel and almost seems to have magically
+transported here for nothing so large and heavy could be carried
+into this place.  The lid, once probably a crystal glass framed
+in wrought iron, now lies open, showing only an open hole and 
+no sign of the glass that once lay there.
+~
+S
+#9985
+Descending The Bier~
+   You are on a set of spiral stairs below a bier.  This place smells
+of death.  Inert wall sconses are rusting in the walls, while mildew
+blankets them in its sickly embrace.
+   A corpse lies here, that of an experienced mage.  You quickly
+reconsider heading any further below.
+~
+99 13 0 0 0 0
+D4
+The bier can be moved, it seems.
+~
+bier~
+1 0 9955
+D5
+~
+~
+0 0 9986
+S
+#9986
+Base Of The Stairs~
+   You are standing at the base of the stairs at the end of a hall.
+Bones and pieces of shattered magical wands litter the floor while
+shreds of burnt fabric and hair smear and lie embedded in the dried
+gore on the walls.
+   Buried into the floor is the glowing bone of a forest drake or
+small dragon.  The bone seems to scream at you as though in a state
+of torment.
+   The hall continues to the north, and exits up spiral stairs to 
+the south.
+~
+99 9 0 0 0 0
+D0
+~
+~
+0 0 9987
+D4
+~
+~
+0 0 9985
+E
+bone~
+The bone seems to be a vessel of some sort.  As you examine it,
+you notice the tiny figure of a drake embedded WITHIN the gem
+at the bone's tip.  The figure seems to scream at you, begging for
+release.
+~
+S
+#9987
+A Warrior's Last Battle~
+   You are standing in a bone-strewn corridor.  The corpse of a recently
+dead warrior lies here; the decay on his face telling that he could have
+been dead no more than a year.
+   His armour, had we worn any, must have been stripped at the time of
+his demise.  The stench of death seems to have long since left the corpse,
+leaving only the bloated husk of a corpse resting on a shattered bastard
+sword.
+   The hall continues to the north and south.
+~
+99 9 0 0 0 0
+D0
+~
+~
+0 0 9988
+D2
+~
+~
+0 0 9986
+E
+warrior~
+The warrior appears to have been a tall, muscular man, though the passage
+of time has rotted away muscle and flesh, leaving only a grey skeleton
+with tatters of sinew hanging from its body.  The flesh of its lips is
+pulled tightly back against its grin, and it seems to be mocking you,
+daring you to find a fate equal to his own.
+~
+S
+#9988
+A Failed Spell~
+   You are standing in a soot-stained corridor that seems to be partially
+lit from the chamber to the north, though still dark enough to require
+a light.  The charred remains of a recently dead mage lies here; the burns
+on his face telling that he, like his companion to the south, could have
+been dead no more than a year.
+   The hall ends here and opens into a circular chamber to the north,
+though it continues back to the exit to the south.
+~
+99 9 0 0 0 0
+D0
+~
+~
+0 0 9989
+D2
+~
+~
+0 0 9987
+S
+#9989
+An Illuminated Chamber~
+   Magical wards and pulsing energy run like veins through the chamber
+walls, illuminating the room in an odd orange glow.  A few undead rats
+scurry about the semicircular room which shows a small exit in the flat
+of the northern wall.
+   The chamber tapers to an exit to the south.
+~
+99 12 0 0 0 0
+D0
+~
+~
+0 0 9990
+D2
+~
+~
+0 0 9988
+S
+#9990
+The Interrment Cross~
+   You are standing in a cross-shaped room that spreads its arms in all
+cardinal directions.  In the center of the cross, two massive caskets -
+one of silver and one of gold - rest eternally, each bearing the bier
+of its occupant.
+   The left bier and underlying casket depicts the figure of an elvish
+female thief while the one to the right depicts a stern-faced wizard.  The
+stone arms of both figures on the biers are intertwined, indicating that
+they may have been husband and wife.
+   The points of the cross show several piles of bones and body litter,
+but nothing of value.
+~
+99 9 0 0 0 0
+D2
+~
+~
+0 0 9989
+S
+#9991
+Winding Stairs~
+   You are on a set of spiral stairs below a bier.  This place smells
+of decay and must, though you catch the faint scent of pine needles
+from somewhere nearby.
+   Bloodstains mar the stairs and a cracked set of platemail litters
+the landing. 
+   The stairs continue above and below you.
+~
+99 13 0 0 0 0
+D4
+The bier is etched from marble.
+~
+bier~
+1 0 9959
+D5
+~
+~
+0 0 9992
+S
+#9992
+Base Of The Stairs~
+   You are standing at the base of the stairs in a square chamber.
+Undead animals and skeletons roam this place, grazing on ethereal
+grasses and ignoring you completely.
+   The floors and wall are made of black marble, in contrast to the
+white upstairs.
+   The chamber continues to the north and east.
+~
+99 9 0 0 0 0
+D0
+~
+~
+0 0 9994
+D1
+~
+~
+0 0 9993
+D4
+~
+~
+0 0 9991
+S
+#9993
+Burial Chamber~
+   You are standing in the southeastern corner of a ranger's burial
+chamber.  The walls are free of mould and mildew, picked clear by
+the undead animals that roam the area and ignore you.
+   The chamber continues to the north and west.
+~
+99 9 0 0 0 0
+D0
+~
+~
+0 0 9995
+D3
+~
+~
+0 0 9992
+S
+#9994
+Burial Chamber~
+   You are standing in the northwestern corner of a ranger's burial
+chamber.  The walls are free of mould and mildew, picked clean by
+the undead animals that roam the area and ignore you.
+   The chamber continues to the south and east.
+~
+99 9 0 0 0 0
+D1
+~
+~
+0 0 9995
+D2
+~
+~
+0 0 9992
+S
+#9995
+Alarian's Mound~
+   There is no casket here, but the headstone in the earthen mound
+in the corner tells you that Alarian was buried here beneath the
+earth that he loved so dearly.
+   A few larger animal zombies - bears mostly, sleep atop the mound,
+not allowing their lessers to interfere with their life-guardian's
+body.
+   The chamber continues to the south and west.
+~
+99 9 0 0 0 0
+D2
+~
+~
+0 0 9993
+D3
+~
+~
+0 0 9994
+S
+$~

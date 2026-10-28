@@ -1,0 +1,770 @@
+#8500
+A Broken Trail~
+  The ground here is rugged but obviously was at one point a Road, but
+is little more then a broken trail now.  High above the mountains loom
+above, shadowing the trail.  A smashed sign lies to the side of the 
+trail. 
+~
+85 0 0 0 0 5
+D0
+~
+~
+0 0 8501
+S
+#8501
+Atop a Pile of Rubble~
+You are in an unfinished room.
+~
+85 0 0 0 0 5
+D1
+~
+~
+0 0 8502
+D2
+~
+~
+0 0 8500
+S
+#8502
+A Broken Trail~
+You are in an unfinished room.
+~
+85 0 0 0 0 5
+D0
+~
+~
+0 0 8503
+D3
+~
+~
+0 0 8501
+S
+#8503
+A Broken Trail~
+You are in an unfinished room.
+~
+85 0 0 0 0 5
+D0
+~
+~
+0 0 8504
+D2
+~
+~
+0 0 8502
+S
+#8504
+A Broken Trail~
+You are in an unfinished room.
+~
+85 0 0 0 0 5
+D1
+~
+~
+0 0 8505
+D2
+~
+~
+0 0 8503
+S
+#8505
+A Broken Trail~
+You are in an unfinished room.
+~
+85 0 0 0 0 5
+D1
+~
+~
+0 0 8506
+D3
+~
+~
+0 0 8504
+S
+#8506
+The Ruins of a Gate House~
+You are in an unfinished room.
+~
+85 0 0 0 0 5
+D0
+~
+~
+0 0 8507
+D3
+~
+~
+0 0 8505
+S
+#8507
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8508
+D2
+~
+~
+0 0 8506
+S
+#8508
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8509
+D2
+~
+~
+0 0 8507
+S
+#8509
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8511
+D2
+~
+~
+0 0 8508
+S
+#8510
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D1
+~
+~
+0 0 8511
+S
+#8511
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8514
+D1
+~
+~
+0 0 8512
+D2
+~
+~
+0 0 8509
+D3
+~
+~
+0 0 8510
+S
+#8512
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D3
+~
+~
+0 0 8511
+S
+#8513
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D1
+~
+~
+0 0 8514
+S
+#8514
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8516
+D1
+~
+~
+0 0 8515
+D2
+~
+~
+0 0 8511
+D3
+~
+~
+0 0 8513
+S
+#8515
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D3
+~
+~
+0 0 8514
+S
+#8516
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8517
+D2
+~
+~
+0 0 8514
+S
+#8517
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8520
+D2
+~
+~
+0 0 8516
+S
+#8518
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+A rotted door.
+~
+Door~
+1 0 8523
+S
+#8519
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8524
+D1
+~
+~
+0 0 8520
+D3
+~
+~
+0 0 8518
+S
+#8520
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8525
+D1
+~
+~
+0 0 8521
+D2
+~
+~
+0 0 8517
+D3
+~
+~
+0 0 8519
+S
+#8521
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8526
+D1
+~
+~
+0 0 8522
+D3
+~
+~
+0 0 8520
+S
+#8522
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D3
+A rotted door.
+~
+door~
+1 0 8521
+S
+#8523
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+A rotted door.
+~
+door~
+1 0 8528
+D1
+~
+~
+0 0 8524
+D2
+A rotted door.
+~
+door~
+1 0 8518
+S
+#8524
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D1
+~
+~
+0 0 8525
+D2
+~
+~
+0 0 8519
+D3
+~
+~
+0 0 8523
+S
+#8525
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8530
+D1
+~
+~
+0 0 8526
+D2
+~
+~
+0 0 8520
+D3
+~
+~
+0 0 8524
+S
+#8526
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D1
+~
+~
+0 0 8527
+D2
+~
+~
+0 0 8521
+D3
+~
+~
+0 0 8525
+S
+#8527
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+A pair of rotted double doors.
+~
+doors~
+1 0 8532
+D3
+~
+~
+0 0 8526
+S
+#8528
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8533
+D1
+~
+~
+0 0 8529
+D2
+A rotted door.
+~
+door~
+1 0 8523
+S
+#8529
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8534
+D3
+~
+~
+0 0 8528
+S
+#8530
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8535
+D2
+~
+~
+0 0 8525
+S
+#8531
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8532
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D2
+~
+~
+0 0 8527
+S
+#8533
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8538
+D1
+~
+~
+0 0 8534
+D2
+~
+~
+0 0 8528
+S
+#8534
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8539
+D2
+~
+~
+0 0 8529
+D3
+~
+~
+0 0 8533
+S
+#8535
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8540
+D2
+~
+~
+0 0 8530
+S
+#8536
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8537
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8538
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D1
+~
+~
+0 0 8539
+D2
+~
+~
+0 0 8533
+S
+#8539
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D2
+~
+~
+0 0 8534
+D3
+~
+~
+0 0 8538
+S
+#8540
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D0
+~
+~
+0 0 8543
+D2
+~
+~
+0 0 8535
+S
+#8541
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8542
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8543
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+D2
+~
+~
+0 0 8540
+S
+#8544
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8545
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8546
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8547
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8548
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8549
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8550
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8551
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8552
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8553
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8554
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8555
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8556
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8557
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8558
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8559
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8560
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8561
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8562
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8563
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8564
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8565
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8566
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8567
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8568
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+#8569
+This Room is NOT done.~
+You are in an unfinished room.
+~
+85 0 0 0 0 0
+S
+$~

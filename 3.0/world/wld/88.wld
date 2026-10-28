@@ -1,0 +1,1990 @@
+#8800
+A Coastal Peninsula~
+   You stand at the edge of the great forest, on a small, wooded peninsula
+that juts out into the ocean to form a narrow, natural breakwater. A few
+shattered and weather-worn boulders lie scattered about the pines, anchoring
+the trees in place. The only exit is to the south, back along the wooded coast.
+~
+88 m 3
+D1
+~
+~
+0 0 21400
+D2
+~
+~
+0 0 8801
+S
+#8801
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see. To the west, thick underbrush blocks your
+path.
+~
+88 0 3
+D0
+~
+~
+0 0 8800
+D1
+~
+~
+0 0 21401
+D2
+~
+~
+0 0 8802
+S
+#8802
+A Spring near the Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see. Here, a natural spring bubbles up from
+a jumble of rocks at the forest's edge, trickling toward the ocean in a thin
+rivulet. The coastline continues to the north and south.
+~
+88 0 3
+D0
+~
+~
+0 0 8801
+D1
+~
+~
+0 0 21402
+D2
+~
+~
+0 0 8803
+E
+spring water~
+0~
+   You taste the spring water, and find it refreshing and salt free. Perhaps
+this would be a good place to replenish your water supply.
+~
+S
+#8803
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see. Thick underbrush blocks your way to the
+west.
+~
+88 0 3
+D0
+~
+~
+0 0 8802
+D1
+~
+~
+0 0 21403
+D2
+~
+~
+0 0 8804
+D3
+~
+~
+0 0 2715
+S
+#8804
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see. Thick underbrush forms a barrier to the
+west.
+~
+88 0 3
+D0
+~
+~
+0 0 8803
+D1
+~
+~
+0 0 21404
+D2
+~
+~
+0 0 8808
+D3
+~
+~
+0 0 2714
+S
+#8805
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. Thick underbrush forms a barrier, blocking travel to the north.
+~
+88 0 3
+D0
+~
+~
+0 0 2712
+D1
+~
+~
+0 0 8806
+D2
+~
+~
+0 0 8809
+D3
+~
+~
+0 0 3297
+S
+#8806
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. Thick underbrush forms a barrier, blocking travel to the north.
+~
+88 0 3
+D0
+~
+~
+0 0 2713
+D1
+~
+~
+0 0 8807
+D2
+~
+~
+0 0 8810
+D3
+~
+~
+0 0 8805
+S
+#8807
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east, and thick
+underbrush blocks your way north.
+~
+88 0 3
+D0
+~
+~
+0 0 2714
+D1
+~
+~
+0 0 8808
+D2
+~
+~
+0 0 8811
+D3
+~
+~
+0 0 8806
+S
+#8808
+The Coast~
+   You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8804
+D1
+~
+~
+0 0 21405
+D2
+~
+~
+0 0 8812
+D3
+~
+~
+0 0 8807
+S
+#8809
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8805
+D1
+~
+~
+0 0 8810
+D2
+~
+~
+0 0 8813
+D3
+~
+~
+0 0 3292
+S
+#8810
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8806
+D1
+~
+~
+0 0 8811
+D2
+~
+~
+0 0 8814
+D3
+~
+~
+0 0 8809
+S
+#8811
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8807
+D1
+~
+~
+0 0 8812
+D2
+~
+~
+0 0 8815
+D3
+~
+~
+0 0 8810
+S
+#8812
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean
+that stretches to the eastern horizon. Occasionally, you can hear and
+see the eruption of water from a whale's blowhole.
+   Water slaps against the rocks below you, drenching the mosses and
+water-worn stones.
+~
+88 0 3
+D0
+~
+~
+0 0 8808
+D1
+~
+~
+0 0 21406
+D2
+~
+~
+0 0 8816
+D3
+~
+~
+0 0 8811
+S
+#8813
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8809
+D1
+~
+~
+0 0 8814
+D2
+~
+~
+0 0 8817
+D3
+~
+~
+0 0 3286
+S
+#8814
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8810
+D1
+~
+~
+0 0 8815
+D2
+~
+~
+0 0 8818
+D3
+~
+~
+0 0 8813
+S
+#8815
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8811
+D1
+~
+~
+0 0 8816
+D2
+~
+~
+0 0 8819
+D3
+~
+~
+0 0 8814
+S
+#8816
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean
+that stretches to the eastern horizon. Occasionally, you can hear and
+see the eruption of water from a whale's blowhole.
+   Water slaps against the rocks below you, drenching the mosses and
+water-worn stones.
+~
+88 0 3
+D0
+~
+~
+0 0 8812
+D1
+~
+~
+0 0 21407
+D2
+~
+~
+0 0 8820
+D3
+~
+~
+0 0 8815
+S
+#8817
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8813
+D1
+~
+~
+0 0 8818
+D2
+~
+~
+0 0 8821
+D3
+~
+~
+0 0 3279
+S
+#8818
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+88 0 3
+D0
+~
+~
+0 0 8814
+D1
+~
+~
+0 0 8819
+D2
+~
+~
+0 0 8822
+D3
+~
+~
+0 0 8817
+S
+#8819
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+88 0 3
+D0
+~
+~
+0 0 8815
+D1
+~
+~
+0 0 8820
+D2
+~
+~
+0 0 8823
+D3
+~
+~
+0 0 8818
+S
+#8820
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+stretches to the eastern horizon. Otters swim along the tips of the coastal
+grasses, chewing on fish and mussels.
+   Water slaps against the rocks below you, drenching the mosses and
+water-worn stones.
+~
+88 0 3
+D0
+~
+~
+0 0 8816
+D1
+~
+~
+0 0 21408
+D2
+~
+~
+0 0 8824
+D3
+~
+~
+0 0 8819
+S
+#8821
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8817
+D1
+~
+~
+0 0 8822
+D2
+~
+~
+0 0 8825
+D3
+~
+~
+0 0 3271
+S
+#8822
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8818
+D1
+~
+~
+0 0 8823
+D2
+~
+~
+0 0 8826
+D3
+~
+~
+0 0 8821
+S
+#8823
+A Canopied Cove~
+   You stand beneath a tall pine tree where the coast meets this rocky cove.
+Leafy branches float above the briny grasses and mats of brown pine needles,
+forming an ideal nesting site for a family of sea ducks.
+   The coast continues to the east and south, while the thick forest stretches
+to the northwest.
+~
+88 0 3
+D0
+~
+~
+0 0 8819
+D1
+~
+~
+0 0 8824
+D2
+~
+~
+0 0 8827
+D3
+~
+~
+0 0 8822
+S
+#8824
+The Coast~
+   You stand at the edge of the great forest, on the coast of the eastern
+ocean that stretches to the horizon. Gulls and terns shriek overhead as
+they vie with the forest jays for nesting space in the canopy of trees above.
+   The wooded coast continues to the west, where it curves southward to form
+a small cove.
+~
+88 0 3
+D0
+~
+~
+0 0 8820
+D1
+~
+~
+0 0 21409
+D2
+~
+~
+0 0 21411
+D3
+~
+~
+0 0 8823
+S
+#8825
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8821
+D1
+~
+~
+0 0 8826
+D2
+~
+~
+0 0 8828
+D3
+~
+~
+0 0 3262
+S
+#8826
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8822
+D1
+~
+~
+0 0 8827
+D2
+~
+~
+0 0 8829
+D3
+~
+~
+0 0 8825
+S
+#8827
+The Coast~
+   You stand at the edge of the great forest, on the coast of the eastern
+ocean. A small, rocky cove lies to the north, where a few seabirds call to
+their companions.
+   The coast continues to the south, while the forest becomes more dense 
+to the west.
+~
+88 0 3
+D0
+~
+~
+0 0 8823
+D1
+~
+~
+0 0 21411
+D2
+~
+~
+0 0 8830
+D3
+~
+~
+0 0 8826
+S
+#8828
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8825
+D1
+~
+~
+0 0 8829
+D2
+~
+~
+0 0 8831
+D3
+~
+~
+0 0 3252
+S
+#8829
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8826
+D1
+~
+~
+0 0 8830
+D2
+~
+~
+0 0 8832
+D3
+~
+~
+0 0 8828
+S
+#8830
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8827
+D1
+~
+~
+0 0 21412
+D2
+~
+~
+0 0 8833
+D3
+~
+~
+0 0 8829
+S
+#8831
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8828
+D1
+~
+~
+0 0 8832
+D2
+~
+~
+0 0 8834
+D3
+~
+~
+0 0 3242
+S
+#8832
+The Forest~
+   You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8829
+D1
+~
+~
+0 0 8833
+D2
+~
+~
+0 0 8835
+D3
+~
+~
+0 0 8831
+S
+#8833
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8830
+D1
+~
+~
+0 0 21413
+D2
+~
+~
+0 0 8836
+D3
+~
+~
+0 0 8832
+S
+#8834
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8831
+D1
+~
+~
+0 0 8835
+D2
+~
+~
+0 0 8837
+D3
+~
+~
+0 0 3232
+S
+#8835
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8832
+D1
+~
+~
+0 0 8836
+D2
+~
+~
+0 0 8838
+D3
+~
+~
+0 0 8834
+S
+#8836
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8833
+D1
+~
+~
+0 0 21414
+D2
+~
+~
+0 0 8839
+D3
+~
+~
+0 0 8835
+S
+#8837
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8834
+D1
+~
+~
+0 0 8838
+D2
+~
+~
+0 0 8840
+D3
+~
+~
+0 0 3222
+S
+#8838
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8835
+D1
+~
+~
+0 0 8839
+D2
+~
+~
+0 0 8841
+D3
+~
+~
+0 0 8837
+S
+#8839
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8836
+D1
+~
+~
+0 0 21415
+D2
+~
+~
+0 0 8842
+D3
+~
+~
+0 0 8838
+S
+#8840
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8837
+D1
+~
+~
+0 0 8841
+D2
+~
+~
+0 0 8843
+D3
+~
+~
+0 0 3212
+S
+#8841
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8838
+D1
+~
+~
+0 0 8842
+D2
+~
+~
+0 0 8844
+D3
+~
+~
+0 0 8840
+S
+#8842
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8839
+D1
+~
+~
+0 0 21416
+D2
+~
+~
+0 0 8845
+D3
+~
+~
+0 0 8841
+S
+#8843
+The Forest~
+   You stand in the great forest.  Trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8840
+D1
+~
+~
+0 0 8844
+D2
+~
+~
+0 0 8846
+D3
+~
+~
+0 0 3202
+S
+#8844
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8841
+D1
+~
+~
+0 0 8845
+D2
+~
+~
+0 0 8847
+D3
+~
+~
+0 0 8843
+S
+#8845
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8842
+D1
+~
+~
+0 0 21417
+D2
+~
+~
+0 0 8848
+D3
+~
+~
+0 0 8844
+S
+#8846
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+88 0 3
+D0
+~
+~
+0 0 8843
+D1
+~
+~
+0 0 8847
+D2
+~
+~
+0 0 8849
+D3
+~
+~
+0 0 3192
+S
+#8847
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+88 0 3
+D0
+~
+~
+0 0 8844
+D1
+~
+~
+0 0 8848
+D2
+~
+~
+0 0 8850
+D3
+~
+~
+0 0 8846
+S
+#8848
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8845
+D1
+~
+~
+0 0 21418
+D2
+~
+~
+0 0 8851
+D3
+~
+~
+0 0 8847
+S
+#8849
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8846
+D1
+~
+~
+0 0 8850
+D2
+~
+~
+0 0 8852
+D3
+~
+~
+0 0 3182
+S
+#8850
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8847
+D1
+~
+~
+0 0 8851
+D2
+~
+~
+0 0 8853
+D3
+~
+~
+0 0 8849
+S
+#8851
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8848
+D1
+~
+~
+0 0 21419
+D2
+~
+~
+0 0 21421
+D3
+~
+~
+0 0 8850
+S
+#8852
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can hear the sounds of the ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8849
+D1
+~
+~
+0 0 8853
+D2
+~
+~
+0 0 8854
+D3
+~
+~
+0 0 3172
+S
+#8853
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8850
+D1
+~
+~
+0 0 21421
+D2
+~
+~
+0 0 8855
+D3
+~
+~
+0 0 8852
+S
+#8854
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8852
+D1
+~
+~
+0 0 8855
+D2
+~
+~
+0 0 8856
+D3
+~
+~
+0 0 3162
+S
+#8855
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8853
+D1
+~
+~
+0 0 21422
+D2
+~
+~
+0 0 8857
+D3
+~
+~
+0 0 8854
+S
+#8856
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8854
+D1
+~
+~
+0 0 8857
+D2
+~
+~
+0 0 8858
+D3
+~
+~
+0 0 3152
+S
+#8857
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8855
+D1
+~
+~
+0 0 21423
+D2
+~
+~
+0 0 8859
+D3
+~
+~
+0 0 8856
+S
+#8858
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8856
+D1
+~
+~
+0 0 8859
+D2
+~
+~
+0 0 8860
+D3
+~
+~
+0 0 3142
+S
+#8859
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8857
+D1
+~
+~
+0 0 21424
+D2
+~
+~
+0 0 8861
+D3
+~
+~
+0 0 8858
+S
+#8860
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8858
+D1
+~
+~
+0 0 8861
+D2
+~
+~
+0 0 8862
+D3
+~
+~
+0 0 3132
+S
+#8861
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8859
+D1
+~
+~
+0 0 21425
+D2
+~
+~
+0 0 8863
+D3
+~
+~
+0 0 8860
+S
+#8862
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8860
+D1
+~
+~
+0 0 8863
+D2
+~
+~
+0 0 8865
+D3
+~
+~
+0 0 3122
+S
+#8863
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8861
+D1
+~
+~
+0 0 21426
+D2
+~
+~
+0 0 8866
+D3
+~
+~
+0 0 8862
+S
+#8864
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 3122
+D1
+~
+~
+0 0 8865
+D2
+~
+~
+0 0 4005
+D3
+~
+~
+0 0 3110
+S
+#8865
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8862
+D1
+~
+~
+0 0 8866
+D2
+~
+~
+0 0 8871
+D3
+~
+~
+0 0 8864
+S
+#8866
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8863
+D1
+~
+~
+0 0 21427
+D2
+~
+~
+0 0 8872
+D3
+~
+~
+0 0 8865
+S
+#8867
+The Forest~
+   You stand in the great forest. Huge trees tower above you and stretch in
+all directions. In the distance to the southwest, you see the lights of a
+small town.
+~
+88 0 3
+D0
+~
+~
+0 0 3109
+D1
+~
+~
+0 0 8868
+D2
+~
+~
+0 0 8873
+D3
+~
+~
+0 0 3101
+S
+#8868
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. In the distance to the southwest, you can see the lights of a
+small town.
+~
+88 0 3
+D0
+~
+~
+0 0 3111
+D1
+~
+~
+0 0 8869
+D2
+~
+~
+0 0 8874
+D3
+~
+~
+0 0 8867
+S
+#8869
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 3112
+D1
+~
+~
+0 0 8870
+D2
+~
+~
+0 0 8875
+D3
+~
+~
+0 0 8868
+S
+#8870
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 3110
+D1
+~
+~
+0 0 4005
+D2
+~
+~
+0 0 8876
+D3
+~
+~
+0 0 8869
+S
+#8871
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+88 0 3
+D0
+~
+~
+0 0 8865
+D1
+~
+~
+0 0 8872
+D2
+~
+~
+0 0 8878
+D3
+~
+~
+0 0 4005
+S
+#8872
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8866
+D1
+~
+~
+0 0 21428
+D2
+~
+~
+0 0 8879
+D3
+~
+~
+0 0 8871
+S
+#8873
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky in all
+directions. The walls of a small town rise to the south. The city gates stand
+not far to the southwest.
+~
+88 0 3
+D0
+~
+~
+0 0 8867
+D1
+~
+~
+0 0 8874
+D3
+~
+~
+0 0 12101
+S
+#8874
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky all around.
+The walls of a small village lie just to the south.
+~
+88 0 3
+D0
+~
+~
+0 0 8868
+D1
+~
+~
+0 0 8875
+D3
+~
+~
+0 0 8873
+S
+#8875
+The Forest~
+   You stand somewhere in the great forest. To the south, the walls of a small
+town rise. In every other direction lies more forest. You can see the town
+gates through the trees to the west.
+~
+88 0 3
+D0
+~
+~
+0 0 8869
+D1
+~
+~
+0 0 8876
+D3
+~
+~
+0 0 8874
+S
+#8876
+The Forest~
+   You stand in the great forest. Huge trees tower into the sky all around.
+The walls of a small village lie just to the south.
+~
+88 0 3
+D0
+~
+~
+0 0 8870
+D1
+~
+~
+0 0 8877
+D2
+~
+~
+0 0 8880
+D3
+~
+~
+0 0 8875
+S
+#8877
+The Forest~
+   You stand in the great forest, huge trees towering into the sky all around.
+The walls of a small village run to the south and west from here, and off to
+the south, you can see the coast of an ocean.
+~
+88 0 3
+D0
+~
+~
+0 0 4005
+D1
+~
+~
+0 0 8878
+D2
+~
+~
+0 0 8881
+D3
+~
+~
+0 0 8876
+S
+#8878
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8871
+D1
+~
+~
+0 0 8879
+D2
+~
+~
+0 0 8882
+D3
+~
+~
+0 0 8877
+S
+#8879
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+spreads as far as the eye can see.
+~
+88 0 3
+D0
+~
+~
+0 0 8872
+D1
+~
+~
+0 0 21429
+D2
+~
+~
+0 0 21431
+D3
+~
+~
+0 0 8878
+S
+#8880
+The Forest~
+   You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8876
+D1
+~
+~
+0 0 8881
+D2
+~
+~
+0 0 8883
+S
+#8881
+The Forest~
+   You are standing in the great forest. Huge trees tower into the sky in all
+directions. The smell of salt air wafts in from the east.
+~
+88 0 3
+D0
+~
+~
+0 0 8877
+D1
+~
+~
+0 0 8882
+D2
+~
+~
+0 0 8884
+D3
+~
+~
+0 0 8880
+S
+#8882
+The Coast~
+   You stand at the edge of the great forest, on the coast of an ocean that
+extends to the eastern horizon.
+~
+88 0 3
+D0
+~
+~
+0 0 8878
+D1
+~
+~
+0 0 21431
+D3
+~
+~
+0 0 8881
+S
+#8883
+The Forest~
+   You walk through the trees of the great forest. Huge trees tower into the
+sky in all directions.
+~
+88 0 3
+D0
+~
+~
+0 0 8880
+D1
+~
+~
+0 0 8884
+D2
+~
+~
+0 0 8885
+S
+#8884
+The Forest~
+   You stand in a particularly thick grove of trees, and can barely see past
+them, so densely are they interwoven.
+~
+88 0 3
+D0
+~
+~
+0 0 8881
+D2
+~
+~
+0 0 8886
+D3
+~
+~
+0 0 8883
+S
+#8885
+The Edge of the Forest~
+   The forest thins here, giving way to dry, windblown grasses and sandy soil
+typical of the seacoast. Off to the south, the surf rolls up onto a beautiful
+beach, while the forest lies to the north.
+~
+88 0 3
+D0
+~
+~
+0 0 8883
+D1
+~
+~
+0 0 8886
+D2
+~
+~
+0 0 12153
+S
+#8886
+The Edge of the Forest~
+   The forest thins here, giving way to dry, windblown grasses and sandy soil
+typical of the seacoast. Off to the south, the surf rolls up onto a beautiful
+beach. Directly to the east, some sort of tower rests atop a high, rocky
+outcropping.
+~
+88 0 3
+D0
+~
+~
+0 0 8884
+D2
+~
+~
+0 0 12155
+D3
+~
+~
+0 0 8885
+S
+$~

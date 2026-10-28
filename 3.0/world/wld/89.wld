@@ -1,0 +1,4515 @@
+#8900
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D1
+~
+~
+0 0 8901
+D2
+~
+~
+0 0 8903
+S
+#8901
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way. The walls of a city tower above you to the
+east, preventing travel in that direction.
+~
+89 0 3
+D2
+~
+~
+0 0 8904
+D3
+~
+~
+0 0 8900
+S
+#8902
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk.
+~
+89 0 3
+D1
+~
+~
+0 0 8903
+D2
+~
+~
+0 0 8905
+S
+#8903
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 8900
+D1
+~
+~
+0 0 8904
+D2
+~
+~
+0 0 8906
+D3
+~
+~
+0 0 8902
+S
+#8904
+The Forest~
+   As you travel through the woods, you admire the towering monoliths which
+stare down at you impassively, as though you were too insignificant to
+consider. The walls of a city block your passage to the east.
+~
+89 0 3
+D0
+~
+~
+0 0 8901
+D2
+~
+~
+0 0 8907
+D3
+~
+~
+0 0 8903
+S
+#8905
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8902
+D1
+~
+~
+0 0 8906
+D2
+~
+~
+0 0 8908
+S
+#8906
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 8903
+D1
+~
+~
+0 0 8907
+D2
+~
+~
+0 0 8909
+D3
+~
+~
+0 0 8905
+S
+#8907
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green. The walls of
+a city rise to the east, blocking your passage.
+~
+89 0 3
+D0
+~
+~
+0 0 8904
+D2
+~
+~
+0 0 8910
+D3
+~
+~
+0 0 8906
+S
+#8908
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 8905
+D1
+~
+~
+0 0 8909
+D2
+~
+~
+0 0 8912
+S
+#8909
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 8906
+D1
+~
+~
+0 0 8910
+D2
+~
+~
+0 0 8913
+D3
+~
+~
+0 0 8908
+S
+#8910
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way. Large city walls rise to the east, preventing
+travel in that direction.
+~
+89 0 3
+D0
+~
+~
+0 0 8907
+D2
+~
+~
+0 0 8914
+D3
+~
+~
+0 0 8909
+S
+#8911
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D1
+~
+~
+0 0 8912
+D2
+~
+~
+0 0 8920
+S
+#8912
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 8908
+D1
+~
+~
+0 0 8913
+D2
+~
+~
+0 0 8921
+D3
+~
+~
+0 0 8911
+S
+#8913
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 8909
+D1
+~
+~
+0 0 8914
+D2
+~
+~
+0 0 8922
+D3
+~
+~
+0 0 8912
+S
+#8914
+The Forest~
+   As you travel through the woods, you admire the towering monoliths which
+stare down at you impassively, as though you were too insignificant to
+consider. The walls of a city rise sharply to the northeast.
+~
+89 0 3
+D0
+~
+~
+0 0 8910
+D2
+~
+~
+0 0 8923
+D3
+~
+~
+0 0 8913
+S
+#8916
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D1
+~
+~
+0 0 8917
+D2
+~
+~
+0 0 8926
+S
+#8917
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 9086
+D1
+~
+~
+0 0 8918
+D2
+~
+~
+0 0 8927
+D3
+~
+~
+0 0 8916
+S
+#8918
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 9087
+D1
+~
+~
+0 0 9000
+D2
+~
+~
+0 0 8928
+D3
+~
+~
+0 0 8917
+S
+#8919
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D1
+~
+~
+0 0 8920
+D2
+~
+~
+0 0 8929
+S
+#8920
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 8911
+D1
+~
+~
+0 0 8921
+D2
+~
+~
+0 0 8930
+D3
+~
+~
+0 0 8919
+S
+#8921
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 8912
+D1
+~
+~
+0 0 8922
+D2
+~
+~
+0 0 8931
+D3
+~
+~
+0 0 8920
+S
+#8922
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 8913
+D1
+~
+~
+0 0 8923
+D2
+~
+~
+0 0 8932
+D3
+~
+~
+0 0 8921
+S
+#8923
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 8914
+D1
+~
+~
+0 0 8924
+D2
+~
+~
+0 0 8933
+D3
+~
+~
+0 0 8922
+S
+#8924
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green. A road of
+sorts lies to the east, and a little further to the north you see the walls of
+a city.
+~
+89 0 3
+D1
+~
+~
+0 0 8925
+D2
+~
+~
+0 0 8934
+D3
+~
+~
+0 0 8923
+S
+#8925
+The Forest Highway~
+  You are on a wide highway running through the pine forest.  The gates of
+a large metropolis are just down the road to your north.  The remainder of
+the highway winds its way south through the forest as far as you can see.
+~
+89 0 16
+D0
+~
+~
+0 0 21294
+D1
+~
+~
+0 0 8926
+D2
+~
+~
+0 0 8935
+D3
+~
+~
+0 0 8924
+S
+#8926
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+Through a break in the trees, you observe a wide road to the west.
+~
+89 0 3
+D0
+~
+~
+0 0 8916
+D1
+~
+~
+0 0 8927
+D2
+~
+~
+0 0 8936
+D3
+~
+~
+0 0 8925
+S
+#8927
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 8917
+D1
+~
+~
+0 0 8928
+D2
+~
+~
+0 0 8937
+D3
+~
+~
+0 0 8926
+S
+#8928
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time. The quiet waters of a tranquil
+lake lie to the east.
+~
+89 0 3
+D0
+~
+~
+0 0 8918
+D1
+~
+~
+0 0 9926
+D2
+~
+~
+0 0 8938
+D3
+~
+~
+0 0 8927
+S
+#8929
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 8919
+D1
+~
+~
+0 0 8930
+D2
+~
+~
+0 0 8939
+S
+#8930
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8920
+D1
+~
+~
+0 0 8931
+D2
+~
+~
+0 0 8940
+D3
+~
+~
+0 0 8929
+S
+#8931
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 8921
+D1
+~
+~
+0 0 8932
+D2
+~
+~
+0 0 8941
+D3
+~
+~
+0 0 8930
+S
+#8932
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 8922
+D1
+~
+~
+0 0 8933
+D2
+~
+~
+0 0 8942
+D3
+~
+~
+0 0 8931
+S
+#8933
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D0
+~
+~
+0 0 8923
+D1
+~
+~
+0 0 8934
+D2
+~
+~
+0 0 8943
+D3
+~
+~
+0 0 8932
+S
+#8934
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+The forest highway lies through the brush to the east.
+~
+89 0 3
+D0
+~
+~
+0 0 8924
+D1
+~
+~
+0 0 8935
+D2
+~
+~
+0 0 8944
+D3
+~
+~
+0 0 8933
+S
+#8935
+The Forest Highway~
+  You are on a wide highway running through a forest of tall pines.  To the
+north, you see the high walls of a large city.  You may step off the road
+into the pine forest east and west of here, while the highway stretches to
+the south as far as you can see.
+~
+89 0 16
+D0
+~
+~
+0 0 8925
+D1
+~
+~
+0 0 8936
+D2
+~
+~
+0 0 8945
+D3
+~
+~
+0 0 8934
+S
+#8936
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees. A
+little further to the west, the forest opens up into what appears to be a
+road.
+~
+89 0 3
+D0
+~
+~
+0 0 8926
+D1
+~
+~
+0 0 8937
+D2
+~
+~
+0 0 8946
+D3
+~
+~
+0 0 8935
+S
+#8937
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8927
+D1
+~
+~
+0 0 8938
+D2
+~
+~
+0 0 8947
+D3
+~
+~
+0 0 8936
+S
+#8938
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time. The quiet waters of a tranquil
+lake lie to the east.
+~
+89 0 3
+D0
+~
+~
+0 0 8928
+D1
+~
+~
+0 0 9922
+D2
+~
+~
+0 0 8948
+D3
+~
+~
+0 0 8937
+S
+#8939
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8929
+D1
+~
+~
+0 0 8940
+D2
+~
+~
+0 0 8949
+S
+#8940
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 8930
+D1
+~
+~
+0 0 8941
+D2
+~
+~
+0 0 8950
+D3
+~
+~
+0 0 8939
+S
+#8941
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 8931
+D1
+~
+~
+0 0 8942
+D2
+~
+~
+0 0 8951
+D3
+~
+~
+0 0 8940
+S
+#8942
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 8932
+D1
+~
+~
+0 0 8943
+D2
+~
+~
+0 0 8952
+D3
+~
+~
+0 0 8941
+S
+#8943
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8933
+D1
+~
+~
+0 0 8944
+D2
+~
+~
+0 0 8953
+D3
+~
+~
+0 0 8942
+S
+#8944
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. You tread softly on pine needles which
+litter the forest floor and observe a cleared road just a little further to
+the east.
+~
+89 0 3
+D0
+~
+~
+0 0 8934
+D1
+~
+~
+0 0 8945
+D2
+~
+~
+0 0 8954
+D3
+~
+~
+0 0 8943
+S
+#8945
+The Forest Highway~
+   You are on a north-south running highway that splits the forest into
+eastern and western halves. Noises from animals and other unknown beasts
+screech and chitter from within the woods.
+~
+89 0 16
+D0
+~
+~
+0 0 8935
+D1
+~
+~
+0 0 8946
+D2
+~
+~
+0 0 8955
+D3
+~
+~
+0 0 8944
+S
+#8946
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way. The forest highway lies through the brush to
+the west.
+~
+89 0 3
+D0
+~
+~
+0 0 8936
+D1
+~
+~
+0 0 8947
+D2
+~
+~
+0 0 8956
+D3
+~
+~
+0 0 8945
+S
+#8947
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk.
+~
+89 0 3
+D0
+~
+~
+0 0 8937
+D1
+~
+~
+0 0 8948
+D2
+~
+~
+0 0 8957
+D3
+~
+~
+0 0 8946
+S
+#8948
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above. To the east and south, the waters of a tranquil lake
+beckon you.
+~
+89 0 3
+D0
+~
+~
+0 0 8938
+D1
+~
+~
+0 0 9913
+D2
+~
+~
+0 0 9907
+D3
+~
+~
+0 0 8947
+S
+#8949
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8939
+D1
+~
+~
+0 0 8950
+D2
+~
+~
+0 0 8958
+S
+#8950
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 8940
+D1
+~
+~
+0 0 8951
+D2
+~
+~
+0 0 8959
+D3
+~
+~
+0 0 8949
+S
+#8951
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 8941
+D1
+~
+~
+0 0 8952
+D2
+~
+~
+0 0 8960
+D3
+~
+~
+0 0 8950
+S
+#8952
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D0
+~
+~
+0 0 8942
+D1
+~
+~
+0 0 8953
+D2
+~
+~
+0 0 8961
+D3
+~
+~
+0 0 8951
+S
+#8953
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 8943
+D1
+~
+~
+0 0 8954
+D2
+~
+~
+0 0 8962
+D3
+~
+~
+0 0 8952
+S
+#8954
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. You tread softly on pine needles which
+litter the forest floor and observe a cleared road just a little further to
+the east.
+~
+89 0 3
+D0
+~
+~
+0 0 8944
+D1
+~
+~
+0 0 8955
+D2
+~
+~
+0 0 8963
+D3
+~
+~
+0 0 8953
+S
+#8955
+The Forest Highway~
+   You are on a north-south running highway that splits the forest into
+eastern and western halves. Birds and small mammals chitter as they dig and
+scutter about the forest.
+~
+89 0 16
+D0
+~
+~
+0 0 8945
+D1
+~
+~
+0 0 8956
+D2
+~
+~
+0 0 8964
+D3
+~
+~
+0 0 8954
+S
+#8956
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above. A little further to the west, the forest highway
+meanders through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 8946
+D1
+~
+~
+0 0 8957
+D2
+~
+~
+0 0 8965
+D3
+~
+~
+0 0 8955
+S
+#8957
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above. The quiet waters of a lake to the east lap softly at
+your feet.
+~
+89 0 3
+D0
+~
+~
+0 0 8947
+D1
+~
+~
+0 0 9907
+D2
+~
+~
+0 0 8966
+D3
+~
+~
+0 0 8956
+S
+#8958
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk. To the west, a narrow valley opens
+between the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 8949
+D1
+~
+~
+0 0 8959
+D3
+~
+~
+0 0 14300
+S
+#8959
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8950
+D1
+~
+~
+0 0 8960
+D2
+~
+~
+0 0 8967
+D3
+~
+~
+0 0 8958
+S
+#8960
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8951
+D1
+~
+~
+0 0 8961
+D2
+~
+~
+0 0 8968
+D3
+~
+~
+0 0 8959
+S
+#8961
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 8952
+D1
+~
+~
+0 0 8962
+D2
+~
+~
+0 0 8969
+D3
+~
+~
+0 0 8960
+S
+#8962
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 8953
+D1
+~
+~
+0 0 8963
+D2
+~
+~
+0 0 8970
+D3
+~
+~
+0 0 8961
+S
+#8963
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above. A wide road lies through the brush to the east.
+~
+89 0 3
+D0
+~
+~
+0 0 8954
+D1
+~
+~
+0 0 8964
+D2
+~
+~
+0 0 8971
+D3
+~
+~
+0 0 8962
+S
+#8964
+The Forest Highway~
+   You are on a wide highway running through the forest that continues to
+the north and south, splitting the forest as it winds through the trees.
+~
+89 0 16
+D0
+~
+~
+0 0 8955
+D1
+~
+~
+0 0 8965
+D2
+~
+~
+0 0 8972
+D3
+~
+~
+0 0 8963
+S
+#8965
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green. Through a gap
+in the trees to the west, you spot the forest highway.
+~
+89 0 3
+D0
+~
+~
+0 0 8956
+D1
+~
+~
+0 0 8966
+D2
+~
+~
+0 0 8973
+D3
+~
+~
+0 0 8964
+S
+#8966
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time. Gazing to the east, you admire
+the tranquility of the lake before you.
+~
+89 0 3
+D0
+~
+~
+0 0 8957
+D1
+~
+~
+0 0 9903
+D2
+~
+~
+0 0 8974
+D3
+~
+~
+0 0 8965
+S
+#8967
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 8959
+D1
+~
+~
+0 0 8968
+D2
+~
+~
+0 0 8975
+S
+#8968
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 8960
+D1
+~
+~
+0 0 8969
+D2
+~
+~
+0 0 8976
+D3
+~
+~
+0 0 8967
+S
+#8969
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D0
+~
+~
+0 0 8961
+D1
+~
+~
+0 0 8970
+D2
+~
+~
+0 0 8977
+D3
+~
+~
+0 0 8968
+S
+#8970
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D0
+~
+~
+0 0 8962
+D1
+~
+~
+0 0 8971
+D2
+~
+~
+0 0 8978
+D3
+~
+~
+0 0 8969
+S
+#8971
+The Forest~
+   As you make your way through the forest, the tall pines stare down at you
+impassively, as though you were too insignificant to consider. You wonder if
+they have been here since the dawn of time. A cleared area to the east marks
+the forest highway.
+~
+89 0 3
+D0
+~
+~
+0 0 8963
+D1
+~
+~
+0 0 8972
+D2
+~
+~
+0 0 8979
+D3
+~
+~
+0 0 8970
+S
+#8972
+The Forest Highway~
+   You are on a wide north-south highway that runs through the forest. Fallen
+trees and rotten trunks line the side of the highway, giving ample cover for
+highwaymen and thieves.
+~
+89 0 16
+D0
+~
+~
+0 0 8964
+D1
+~
+~
+0 0 8973
+D2
+~
+~
+0 0 8980
+D3
+~
+~
+0 0 8971
+S
+#8973
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green. Through a gap
+in the trees to the west, you spot the forest highway.
+~
+89 0 3
+D0
+~
+~
+0 0 8965
+D1
+~
+~
+0 0 8974
+D2
+~
+~
+0 0 8981
+D3
+~
+~
+0 0 8972
+S
+#8974
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green. Small waves
+from the lake to the east lap softly at your feet.
+~
+89 0 3
+D0
+~
+~
+0 0 8966
+D1
+~
+~
+0 0 9901
+D2
+~
+~
+0 0 8982
+D3
+~
+~
+0 0 8973
+S
+#8975
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 8967
+D1
+~
+~
+0 0 8976
+D2
+~
+~
+0 0 8983
+S
+#8976
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 8968
+D1
+~
+~
+0 0 8977
+D2
+~
+~
+0 0 8984
+D3
+~
+~
+0 0 8975
+S
+#8977
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8969
+D1
+~
+~
+0 0 8978
+D2
+~
+~
+0 0 8985
+D3
+~
+~
+0 0 8976
+S
+#8978
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D0
+~
+~
+0 0 8970
+D1
+~
+~
+0 0 8979
+D2
+~
+~
+0 0 8986
+D3
+~
+~
+0 0 8977
+S
+#8979
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+To the east, a forest highway clears a path through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 8971
+D1
+~
+~
+0 0 8980
+D2
+~
+~
+0 0 8987
+D3
+~
+~
+0 0 8978
+S
+#8980
+The Forest Highway~
+   You are on a wide highway running through the forest that surrounds you.
+The road runs north and south, dividing the forest to the east and west.
+~
+89 0 16
+D0
+~
+~
+0 0 8972
+D1
+~
+~
+0 0 8981
+D2
+~
+~
+0 0 8988
+D3
+~
+~
+0 0 8979
+S
+#8981
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+The forest highway makes its way through the trees just to the west of here.
+~
+89 0 3
+D0
+~
+~
+0 0 8973
+D1
+~
+~
+0 0 8982
+D2
+~
+~
+0 0 8989
+D3
+~
+~
+0 0 8980
+S
+#8982
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+The waters of a quiet lake lie to the east.
+~
+89 0 3
+D0
+~
+~
+0 0 8974
+D1
+~
+~
+0 0 9900
+D2
+~
+~
+0 0 8990
+D3
+~
+~
+0 0 8981
+S
+#8983
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8975
+D1
+~
+~
+0 0 8984
+S
+#8984
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 8976
+D1
+~
+~
+0 0 8985
+D2
+~
+~
+0 0 8991
+D3
+~
+~
+0 0 8983
+S
+#8985
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 8977
+D1
+~
+~
+0 0 8986
+D2
+~
+~
+0 0 8992
+D3
+~
+~
+0 0 8984
+S
+#8986
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 8978
+D1
+~
+~
+0 0 8987
+D2
+~
+~
+0 0 8993
+D3
+~
+~
+0 0 8985
+S
+#8987
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. A highway breaks through the trees to the east of
+here.
+~
+89 0 3
+D0
+~
+~
+0 0 8979
+D1
+~
+~
+0 0 8988
+D2
+~
+~
+0 0 8994
+D3
+~
+~
+0 0 8986
+S
+#8988
+The Forest Highway~
+   You are on a wide highway that winds its way through the forest. The road
+itself continues to the north and south, skirting the virgin woods either
+side.
+~
+89 0 16
+D0
+~
+~
+0 0 8980
+D1
+~
+~
+0 0 8989
+D2
+~
+~
+0 0 8995
+D3
+~
+~
+0 0 8987
+S
+#8989
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+A wide road can be seen through the brush to the west.
+~
+89 0 3
+D0
+~
+~
+0 0 8981
+D1
+~
+~
+0 0 8990
+D2
+~
+~
+0 0 8996
+D3
+~
+~
+0 0 8988
+S
+#8990
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+The waters of a quiet lake lie to the east.
+~
+89 0 3
+D0
+~
+~
+0 0 8982
+D1
+~
+~
+0 0 9291
+D2
+~
+~
+0 0 8997
+D3
+~
+~
+0 0 8989
+S
+#8991
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8984
+D1
+~
+~
+0 0 8992
+D2
+~
+~
+0 0 8998
+S
+#8992
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 8985
+D1
+~
+~
+0 0 8993
+D2
+~
+~
+0 0 8999
+D3
+~
+~
+0 0 8991
+S
+#8993
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 8986
+D1
+~
+~
+0 0 8994
+D2
+~
+~
+0 0 9703
+D3
+~
+~
+0 0 8992
+S
+#8994
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods. Through the brush to the east, you spot a road of sorts.
+~
+89 0 3
+D0
+~
+~
+0 0 8987
+D1
+~
+~
+0 0 8995
+D2
+~
+~
+0 0 9704
+D3
+~
+~
+0 0 8993
+S
+#8995
+A Forest Road Marker~
+   You stand just north of a long bridge that spans a clear, frothy river.
+An arrowheaded signpost points north, directing you toward 'Kir Morthis'.
+The forest grows thick to the east and west, and the highway extends through
+the trees to the north.
+~
+89 0 16
+D0
+~
+~
+0 0 8988
+D1
+~
+~
+0 0 8996
+D2
+~
+~
+0 0 9705
+D3
+~
+~
+0 0 8994
+S
+#8996
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+A cleared road can be seen through the trees to the west, and the sound of
+running water is fairly close.
+~
+89 0 3
+D0
+~
+~
+0 0 8989
+D1
+~
+~
+0 0 8997
+D2
+~
+~
+0 0 9706
+D3
+~
+~
+0 0 8995
+S
+#8997
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green. A softly
+flowing river lies to the south, while the waters of a quiet lake lie to
+the east.
+~
+89 0 3
+D0
+~
+~
+0 0 8990
+D1
+~
+~
+0 0 9286
+D2
+~
+~
+0 0 9281
+D3
+~
+~
+0 0 8996
+S
+#8998
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 8991
+D1
+~
+~
+0 0 8999
+D2
+~
+~
+0 0 9709
+D3
+~
+~
+0 0 9702
+S
+#8999
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 m 3
+D0
+~
+~
+0 0 8992
+D1
+~
+~
+0 0 9703
+D2
+~
+~
+0 0 9710
+D3
+~
+~
+0 0 8998
+S
+#9000
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods. To the south and east, the waters of a quiet lake beckon
+you.
+~
+89 0 3
+D0
+~
+~
+0 0 9088
+D1
+~
+~
+0 0 9930
+D2
+~
+~
+0 0 9926
+D3
+~
+~
+0 0 8918
+S
+#9001
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk.
+~
+89 0 3
+D1
+~
+~
+0 0 9002
+D2
+~
+~
+0 0 9010
+S
+#9002
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D1
+~
+~
+0 0 9003
+D2
+~
+~
+0 0 9011
+D3
+~
+~
+0 0 9001
+S
+#9003
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D1
+~
+~
+0 0 9004
+D2
+~
+~
+0 0 9012
+D3
+~
+~
+0 0 9002
+S
+#9004
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D1
+~
+~
+0 0 9005
+D2
+~
+~
+0 0 9013
+D3
+~
+~
+0 0 9003
+S
+#9005
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D1
+~
+~
+0 0 9006
+D2
+~
+~
+0 0 9014
+D3
+~
+~
+0 0 9004
+S
+#9006
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D1
+~
+~
+0 0 9007
+D2
+~
+~
+0 0 9015
+D3
+~
+~
+0 0 9005
+S
+#9007
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D2
+~
+~
+0 0 9016
+D3
+~
+~
+0 0 9006
+S
+#9008
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D1
+~
+~
+0 0 9009
+D2
+~
+~
+0 0 9020
+S
+#9009
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D1
+~
+~
+0 0 9010
+D2
+~
+~
+0 0 9021
+D3
+~
+~
+0 0 9008
+S
+#9010
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 9001
+D1
+~
+~
+0 0 9011
+D2
+~
+~
+0 0 9022
+D3
+~
+~
+0 0 9009
+S
+#9011
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 9002
+D1
+~
+~
+0 0 9012
+D2
+~
+~
+0 0 9023
+D3
+~
+~
+0 0 9010
+S
+#9012
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 9003
+D1
+~
+~
+0 0 9013
+D2
+~
+~
+0 0 9024
+D3
+~
+~
+0 0 9011
+S
+#9013
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D0
+~
+~
+0 0 9004
+D1
+~
+~
+0 0 9014
+D2
+~
+~
+0 0 9025
+D3
+~
+~
+0 0 9012
+S
+#9014
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 9005
+D1
+~
+~
+0 0 9015
+D2
+~
+~
+0 0 9026
+D3
+~
+~
+0 0 9013
+S
+#9015
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 9006
+D1
+~
+~
+0 0 9016
+D2
+~
+~
+0 0 9027
+D3
+~
+~
+0 0 9014
+S
+#9016
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 9007
+D1
+~
+~
+0 0 9017
+D2
+~
+~
+0 0 9028
+D3
+~
+~
+0 0 9015
+S
+#9017
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D1
+~
+~
+0 0 9018
+D2
+~
+~
+0 0 9029
+D3
+~
+~
+0 0 9016
+S
+#9018
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D2
+~
+~
+0 0 9030
+D3
+~
+~
+0 0 9017
+S
+#9019
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk.
+~
+89 0 3
+D1
+~
+~
+0 0 9020
+D2
+~
+~
+0 0 9035
+S
+#9020
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 9008
+D1
+~
+~
+0 0 9021
+D2
+~
+~
+0 0 9036
+D3
+~
+~
+0 0 9019
+S
+#9021
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 9009
+D1
+~
+~
+0 0 9022
+D2
+~
+~
+0 0 9037
+D3
+~
+~
+0 0 9020
+S
+#9022
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 9010
+D1
+~
+~
+0 0 9023
+D2
+~
+~
+0 0 9038
+D3
+~
+~
+0 0 9021
+S
+#9023
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 9011
+D1
+~
+~
+0 0 9024
+D2
+~
+~
+0 0 9039
+D3
+~
+~
+0 0 9022
+S
+#9024
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+The quiet waters of the lake to the south lap softly at your feet.
+~
+89 0 3
+D0
+~
+~
+0 0 9012
+D1
+~
+~
+0 0 9025
+D2
+~
+~
+0 0 9975
+D3
+~
+~
+0 0 9023
+S
+#9025
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way. To the south, the quiet waters of a lake lap
+softly at your feet.
+~
+89 0 3
+D0
+~
+~
+0 0 9013
+D1
+~
+~
+0 0 9026
+D2
+~
+~
+0 0 9976
+D3
+~
+~
+0 0 9024
+S
+#9026
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 9014
+D1
+~
+~
+0 0 9027
+D2
+~
+~
+0 0 9040
+D3
+~
+~
+0 0 9025
+S
+#9027
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 9015
+D1
+~
+~
+0 0 9028
+D2
+~
+~
+0 0 9041
+D3
+~
+~
+0 0 9026
+S
+#9028
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 9016
+D1
+~
+~
+0 0 9029
+D2
+~
+~
+0 0 9042
+D3
+~
+~
+0 0 9027
+S
+#9029
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 9017
+D1
+~
+~
+0 0 9030
+D2
+~
+~
+0 0 9043
+D3
+~
+~
+0 0 9028
+S
+#9030
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 9018
+D1
+~
+~
+0 0 9031
+D2
+~
+~
+0 0 9044
+D3
+~
+~
+0 0 9029
+S
+#9031
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D1
+~
+~
+0 0 9032
+D2
+~
+~
+0 0 9045
+D3
+~
+~
+0 0 9030
+S
+#9032
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D1
+~
+~
+0 0 9033
+D2
+~
+~
+0 0 9046
+D3
+~
+~
+0 0 9031
+S
+#9033
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D2
+~
+~
+0 0 9047
+D3
+~
+~
+0 0 9032
+S
+#9034
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk.
+~
+89 0 3
+D1
+~
+~
+0 0 9035
+D2
+~
+~
+0 0 9051
+S
+#9035
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 9019
+D1
+~
+~
+0 0 9036
+D2
+~
+~
+0 0 9052
+D3
+~
+~
+0 0 9034
+S
+#9036
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 9020
+D1
+~
+~
+0 0 9037
+D2
+~
+~
+0 0 9053
+D3
+~
+~
+0 0 9035
+S
+#9037
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 9021
+D1
+~
+~
+0 0 9038
+D2
+~
+~
+0 0 9054
+D3
+~
+~
+0 0 9036
+S
+#9038
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+Gazing to the south, you admire the serenity of the lake before you.
+~
+89 0 3
+D0
+~
+~
+0 0 9022
+D1
+~
+~
+0 0 9039
+D2
+~
+~
+0 0 9970
+D3
+~
+~
+0 0 9037
+S
+#9039
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk. Gazing into the distance to the
+south, you cast your eye of the peaceful lake which stretches out before you.
+~
+89 0 3
+D0
+~
+~
+0 0 9023
+D1
+~
+~
+0 0 9975
+D2
+~
+~
+0 0 9971
+D3
+~
+~
+0 0 9038
+S
+#9040
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above. Casting your eye to the south, you admire the
+serenity of the lake which opens up before you.
+~
+89 0 3
+D0
+~
+~
+0 0 9026
+D1
+~
+~
+0 0 9041
+D2
+~
+~
+0 0 9974
+D3
+~
+~
+0 0 9976
+S
+#9041
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 9027
+D1
+~
+~
+0 0 9042
+D2
+~
+~
+0 0 9055
+D3
+~
+~
+0 0 9040
+S
+#9042
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 9028
+D1
+~
+~
+0 0 9043
+D2
+~
+~
+0 0 9056
+D3
+~
+~
+0 0 9041
+S
+#9043
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 9029
+D1
+~
+~
+0 0 9044
+D2
+~
+~
+0 0 9057
+D3
+~
+~
+0 0 9042
+S
+#9044
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk.
+~
+89 0 3
+D0
+~
+~
+0 0 9030
+D1
+~
+~
+0 0 9045
+D2
+~
+~
+0 0 9058
+D3
+~
+~
+0 0 9043
+S
+#9045
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 9031
+D1
+~
+~
+0 0 9046
+D2
+~
+~
+0 0 9059
+D3
+~
+~
+0 0 9044
+S
+#9046
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 9032
+D1
+~
+~
+0 0 9047
+D2
+~
+~
+0 0 9060
+D3
+~
+~
+0 0 9045
+S
+#9047
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 9033
+D1
+~
+~
+0 0 9048
+D2
+~
+~
+0 0 9061
+D3
+~
+~
+0 0 9046
+S
+#9048
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D1
+~
+~
+0 0 9049
+D2
+~
+~
+0 0 9062
+D3
+~
+~
+0 0 9047
+S
+#9049
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D2
+~
+~
+0 0 9063
+D3
+~
+~
+0 0 9048
+S
+#9050
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D1
+~
+~
+0 0 9051
+D2
+~
+~
+0 0 9064
+S
+#9051
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 9034
+D1
+~
+~
+0 0 9052
+D2
+~
+~
+0 0 9065
+D3
+~
+~
+0 0 9050
+S
+#9052
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 9035
+D1
+~
+~
+0 0 9053
+D2
+~
+~
+0 0 9066
+D3
+~
+~
+0 0 9051
+S
+#9053
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk.
+~
+89 0 3
+D0
+~
+~
+0 0 9036
+D1
+~
+~
+0 0 9054
+D2
+~
+~
+0 0 9067
+D3
+~
+~
+0 0 9052
+S
+#9054
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk. The quiet waters of a lake to the
+south and east beckon you.
+~
+89 0 3
+D0
+~
+~
+0 0 9037
+D1
+~
+~
+0 0 9970
+D2
+~
+~
+0 0 9963
+D3
+~
+~
+0 0 9053
+S
+#9055
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way. To the west and south, the tranquil waters of
+a large lake lap softly at your feet.
+~
+89 0 3
+D0
+~
+~
+0 0 9041
+D1
+~
+~
+0 0 9056
+D2
+~
+~
+0 0 9969
+D3
+~
+~
+0 0 9974
+S
+#9056
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 9042
+D1
+~
+~
+0 0 9057
+D2
+~
+~
+0 0 9068
+D3
+~
+~
+0 0 9055
+S
+#9057
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 9043
+D1
+~
+~
+0 0 9058
+D2
+~
+~
+0 0 9069
+D3
+~
+~
+0 0 9056
+S
+#9058
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 9044
+D1
+~
+~
+0 0 9059
+D2
+~
+~
+0 0 9070
+D3
+~
+~
+0 0 9057
+S
+#9059
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 9045
+D1
+~
+~
+0 0 9060
+D2
+~
+~
+0 0 9071
+D3
+~
+~
+0 0 9058
+S
+#9060
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 9046
+D1
+~
+~
+0 0 9061
+D2
+~
+~
+0 0 9072
+D3
+~
+~
+0 0 9059
+S
+#9061
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D0
+~
+~
+0 0 9047
+D1
+~
+~
+0 0 9062
+D2
+~
+~
+0 0 9073
+D3
+~
+~
+0 0 9060
+S
+#9062
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 9048
+D1
+~
+~
+0 0 9063
+D2
+~
+~
+0 0 9074
+D3
+~
+~
+0 0 9061
+S
+#9063
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 9049
+D2
+~
+~
+0 0 9075
+D3
+~
+~
+0 0 9062
+S
+#9064
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk.
+~
+89 0 3
+D0
+~
+~
+0 0 9050
+D1
+~
+~
+0 0 9065
+D2
+~
+~
+0 0 9077
+S
+#9065
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 9051
+D1
+~
+~
+0 0 9066
+D2
+~
+~
+0 0 9078
+D3
+~
+~
+0 0 9064
+S
+#9066
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 9052
+D1
+~
+~
+0 0 9067
+D2
+~
+~
+0 0 9079
+D3
+~
+~
+0 0 9065
+S
+#9067
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green. To the east
+lies the waters of a tranquil lake.
+~
+89 0 3
+D0
+~
+~
+0 0 9053
+D1
+~
+~
+0 0 9963
+D2
+~
+~
+0 0 9080
+D3
+~
+~
+0 0 9066
+S
+#9068
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk. To the west and south, the tranquil
+waters of a lake beckon you.
+~
+89 0 3
+D0
+~
+~
+0 0 9056
+D1
+~
+~
+0 0 9069
+D2
+~
+~
+0 0 9962
+D3
+~
+~
+0 0 9969
+S
+#9069
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 9057
+D1
+~
+~
+0 0 9070
+D2
+~
+~
+0 0 9081
+D3
+~
+~
+0 0 9068
+S
+#9070
+The Forest~
+   As you travel through the woods, you admire the pine trees - towering
+monoliths that state down at you impassively, as though you were too
+insignificant to consider. You wonder if they have been here since the dawn
+of time.
+~
+89 0 3
+D0
+~
+~
+0 0 9058
+D1
+~
+~
+0 0 9071
+D2
+~
+~
+0 0 9082
+D3
+~
+~
+0 0 9069
+S
+#9071
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D0
+~
+~
+0 0 9059
+D1
+~
+~
+0 0 9072
+D2
+~
+~
+0 0 9083
+D3
+~
+~
+0 0 9070
+S
+#9072
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 9060
+D1
+~
+~
+0 0 9073
+D3
+~
+~
+0 0 9071
+S
+#9073
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 9061
+D1
+~
+~
+0 0 9074
+D3
+~
+~
+0 0 9072
+S
+#9074
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 9062
+D1
+~
+~
+0 0 9075
+D3
+~
+~
+0 0 9073
+S
+#9075
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D0
+~
+~
+0 0 9063
+D1
+~
+~
+0 0 9076
+D2
+~
+~
+0 0 9084
+D3
+~
+~
+0 0 9074
+S
+#9076
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green.
+~
+89 0 3
+D2
+~
+~
+0 0 9085
+D3
+~
+~
+0 0 9075
+S
+#9077
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D0
+~
+~
+0 0 9064
+D1
+~
+~
+0 0 9078
+D2
+~
+~
+0 0 9086
+S
+#9078
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 9065
+D1
+~
+~
+0 0 9079
+D2
+~
+~
+0 0 9087
+D3
+~
+~
+0 0 9077
+S
+#9079
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+~
+89 0 3
+D0
+~
+~
+0 0 9066
+D1
+~
+~
+0 0 9080
+D2
+~
+~
+0 0 9088
+D3
+~
+~
+0 0 9078
+S
+#9080
+The Forest~
+   You make your way easily through these well-traveled woods, following
+trails made by loggers, trappers, and animals. Stopping momentarily, you can
+hear the sounds of such creatures as they make their way through the trees.
+Small waves from the lake to east lap softly at your feet.
+~
+89 0 3
+D0
+~
+~
+0 0 9067
+D1
+~
+~
+0 0 9955
+D2
+~
+~
+0 0 9089
+D3
+~
+~
+0 0 9079
+S
+#9081
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods. Travel to the west would involve entering the quiet
+waters of a lake.
+~
+89 0 3
+D0
+~
+~
+0 0 9069
+D1
+~
+~
+0 0 9082
+D2
+~
+~
+0 0 9090
+D3
+~
+~
+0 0 9962
+S
+#9082
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 9070
+D1
+~
+~
+0 0 9083
+D2
+~
+~
+0 0 9091
+D3
+~
+~
+0 0 9081
+S
+#9083
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 9071
+D3
+~
+~
+0 0 9082
+S
+#9084
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 9075
+D1
+~
+~
+0 0 9085
+D2
+~
+~
+0 0 9095
+S
+#9085
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk.
+~
+89 0 3
+D0
+~
+~
+0 0 9076
+D2
+~
+~
+0 0 9096
+D3
+~
+~
+0 0 9084
+S
+#9086
+The Forest~
+   You have decided to follow one of the more well-traveled paths through the 
+forest, and are able to make good time. Pine needles coat the forest floor,
+creating a rustling sound when you walk.
+~
+89 0 3
+D0
+~
+~
+0 0 9077
+D1
+~
+~
+0 0 9087
+D2
+~
+~
+0 0 8917
+S
+#9087
+The Forest~
+   You stand in the great forest, enjoying the scents of pines and the feel
+of nature. Trees tower into the sky in all directions, blocking out most of
+the natural light above.
+~
+89 0 3
+D0
+~
+~
+0 0 9078
+D1
+~
+~
+0 0 9088
+D2
+~
+~
+0 0 8918
+D3
+~
+~
+0 0 9086
+S
+#9088
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+~
+89 0 3
+D0
+~
+~
+0 0 9079
+D1
+~
+~
+0 0 9089
+D2
+~
+~
+0 0 9000
+D3
+~
+~
+0 0 9087
+S
+#9089
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+Waves from the lake to the east and south lap softly at your feet.
+~
+89 0 3
+D0
+~
+~
+0 0 9080
+D1
+~
+~
+0 0 9942
+D2
+~
+~
+0 0 9930
+D3
+~
+~
+0 0 9088
+S
+#9090
+The Forest~
+   The trees grow thick in this part of the woods, swallowing up the natural
+light, and plunging you into nigh-eternal green fluorescence. Several times,
+you smack your head on a low branch and curse silently at the lack of light.
+The tranquil waters of the lake to the west lap softly at your feet.
+~
+89 0 3
+D0
+~
+~
+0 0 9081
+D1
+~
+~
+0 0 9091
+D2
+~
+~
+0 0 9954
+D3
+~
+~
+0 0 9949
+S
+#9091
+The Forest~
+   While traveling through the forest, you suddenly notice the deathly quiet.
+It seems as though the thick, twisted branches have swallowed up all signs of
+animal life, and plunged you deep into an alien world of green. A large
+mountain towers into the sky, preventing passage to the east.
+~
+89 0 3
+D0
+~
+~
+0 0 9082
+D2
+~
+~
+0 0 9092
+D3
+~
+~
+0 0 9090
+S
+#9092
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods. To the west lies the waters of a quiet lake, while to
+the east, the towering slopes of Mount Kolvir tower above you.
+~
+89 0 3
+D0
+~
+~
+0 0 9091
+D2
+~
+~
+0 0 9093
+D3
+~
+~
+0 0 9954
+S
+#9093
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time. To the west, the quiet waters of
+a lake beckon while to the east, the towering slopes of Mount Kolvir prevent
+passage.
+~
+89 0 3
+D0
+~
+~
+0 0 9092
+D2
+~
+~
+0 0 9094
+D3
+~
+~
+0 0 9940
+S
+#9094
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way. To the west, the quiet waters of a lake beckon
+you while to the east, the slopes of a mountain rise sharply preventing travel
+in that direction.
+~
+89 0 3
+D0
+~
+~
+0 0 9093
+D2
+~
+~
+0 0 9402
+D3
+~
+~
+0 0 9936
+S
+#9095
+The Forest~
+   You stand in the great forest with huge trees towering into the sky in all
+directions. Judging by the size of many of these trees, you would estimate
+this forest has existed for quite some time.
+~
+89 0 3
+D0
+~
+~
+0 0 9084
+D1
+~
+~
+0 0 9096
+S
+#9096
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 9085
+D2
+~
+~
+0 0 9097
+D3
+~
+~
+0 0 9095
+S
+#9097
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 9096
+D2
+~
+~
+0 0 9098
+S
+#9098
+The Forest~
+   You stroll through the pines of the forest. Here and there, a limb reaches
+out to scratch you with a bristly set of needles but you simply brush them
+aside and continue on your way.
+~
+89 0 3
+D0
+~
+~
+0 0 9097
+D2
+~
+~
+0 0 9099
+S
+#9099
+The Forest~
+   You practically chop and hack your way through the thick underbrush and
+treacherous game trails, hoping that you have managed to keep from getting
+lost in these woods.
+~
+89 0 3
+D0
+~
+~
+0 0 9098
+S
+$~

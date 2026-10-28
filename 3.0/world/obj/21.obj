@@ -1,0 +1,331 @@
+#2100
+cloak fur~
+a fur cloak~
+A cloak of furs, covered in dirt, lies on the ground.~
+~
+11 0 ak 0
+0 0 0 0 6
+4 3 100 20 0 1
+E
+fur cloak~
+You are not sure what animal this fur comes from, but it certainly keeps you
+warm.
+~
+#2101
+bear claws~
+a set of bear claws~
+A set of bear claws lies here.~
+~
+9 0 ah 0
+2 0 0 0 5
+3 3 250 15 0 1
+E
+bear claws~
+Once belonging to a live creature, these claws fit perfectly over your own
+hands although they are somewhat cumbersome.
+~
+A
+18 1
+A
+7 1
+#2102
+spear bronze~
+a bronze spear~
+A bronze spear sits impaled in the ground.~
+~
+5 i an 0
+4 5 5 11 5
+4 3 125 35 0 1
+#2103
+spear wooden pike~
+a wooden pike~
+A wooden pike rests on the ground here.~
+~
+5 0 an 0
+4 5 5 14 4
+5 3 400 45 0 1
+A
+18 1
+A
+19 1
+#2104
+studded leather whip studs metal~
+a studded leather whip~
+A leather whip with metal studs lies coiled up on the ground.~
+~
+5 0 an 0
+7 5 5 2 4
+4 3 160 20 0 1
+A
+24 -1
+#2105
+pack small~
+a small pack~
+A small pack lies discarded nearby.~
+~
+15 0 al 0
+25 0 -1 0 0
+5 3 80 45 0 1
+#2106
+mace spiked club~
+a spiked club~
+A club with large thorns attached sits nearby.~
+~
+5 0 an 0
+5 3 5 5 6
+3 2 120 35 0 1
+#2107
+armor chain mail worn~
+some worn chainmail~
+Some worn chainmail lies in a heap on the ground.~
+~
+9 a ad 0
+10 0 0 0 6
+20 3 400 35 0 1
+E
+worn chainmail chain mail~
+Rather nondescript, the armor has been taken from an unfortunate victim.
+~
+A
+26 2
+#2108
+painted wooden shield banner unique~
+a painted wooden shield~
+A shield with a unique banner on it rests on the ground.~
+~
+9 j aj 0
+5 0 0 0 6
+7 2 150 25 0 1
+E
+painted wooden shield banner unique~
+Emblazong with a number of colors in the shape of a crude flag, the shield is a
+common one used by the Dharzi orcs of Spiritwood.
+~
+#2109
+boots leather tanned~
+a pair of tanned, leather boots~
+A pair of tanned, leather boots sits here.~
+~
+9 j ag 0
+2 0 0 0 4
+3 3 200 20 0 1
+#2110
+mask ornate painted~
+a painted mask~
+An ornate mask lies here.~
+~
+11 0 ar 0
+0 0 0 0 5
+4 3 250 10 0 1
+E
+ornate painted mask~
+The mask has been constructed of wod and is painted in the colors of the Dharzi
+orcs of Spiritwood.
+~
+#2111
+amulet darkness silver~
+the amulet of darkness~
+A silver amulet hangs nearby.~
+~
+8 adgh ac 0
+0 0 0 0 4
+2 3 320 45 0 1
+A
+23 4
+A
+24 4
+A
+19 -2
+#2112
+king crown~
+a king's crown~
+A king's crown, encrusted with jewels, sits here.~
+~
+8 ad ae 0
+0 0 0 0 3
+4 3 600 35 0 1
+A
+4 1
+#2113
+collar studded leather~
+a studded leather collar~
+A studded leather collar is here.~
+~
+9 0 ac 0
+2 0 0 0 6
+3 3 260 10 0 1
+#2114
+sword wooden~
+a simple wooden sword~
+A simple wooden sword has been discarded here.~
+~
+5 0 an 0
+1 2 4 3 7
+6 2 60 60 0 1
+#2115
+boots fur~
+a pair of fur boots~
+A pair of fur boots is here.~
+~
+11 a ag 0
+0 0 0 0 5
+2 3 140 25 0 1
+E
+fur boots~
+You can't be certain what creature this fur originated from, but the boots
+do look nice.
+~
+A
+1 1
+#2116
+staff wooden~
+a wooden staff~
+A simple wooden staff is here.~
+$n swings $p in the air before striking it on the ground.
+~
+4 bgj ao 0
+57 1 1 91 4
+6 3 400 30 0 1
+E
+wooden staff simple~
+It looks just like a hunk of wood but has an unnatural glow about it.
+~
+R
+6 4
+#2117
+gem control ruby~
+the gem of control~
+A large, ruby gem covered in dirt lies on the ground.~
+~
+8 abg ao 0
+0 0 0 0 1
+3 3 1500 5 0 1
+A
+3 1
+#2118
+sturdy chest~
+a sturdy chest~
+A sturdy chest lies here.~
+~
+15 e 0 0
+200 13 -1 0 0
+1 3 0 100 0 1
+#2119
+hoard gold coins~
+a hoard of gold coins~
+A hoard of gold coins is here.~
+~
+20 0 a 0
+500 0 0 0 0
+1 3 0 85 0 1
+#2120
+mace bone club~
+a bone club~
+A large bone has been fashioned into a club.~
+~
+5 0 an 0
+5 3 6 5 5
+6 2 50 100 0 1
+E
+bone club~
+The creature it once belonged to must have been quite large, but now the
+only thing that remains is this single bone. It has been crudely fashioned
+into a club-like weapon.
+~
+R
+5 1
+#2121
+collection gem stones gemstones~
+a collection of gemstones~
+A collection of gemstones glitters in the prevailing light.~
+~
+8 0 a 0
+0 0 0 0 0
+4 3 500 80 0 1
+#2122
+chunk black rock blackrock piece mineral~
+a chunk of blackrock~
+A small piece of a black mineral lies delicately on the ground.~
+~
+13 0 a 0
+0 0 0 0 0
+2 3 1000 20 0 1
+E
+piece black mineral rock~
+You've never seen the likes of it before - it's very beautiful and highly
+polished but seems impervious to any form of damage.
+~
+#2123
+helm bronze~
+a bronze helm~
+A bronze helm lies here.~
+~
+9 0 ae 0
+4 0 0 0 6
+7 3 120 50 0 1
+#2124
+skirt bronze~
+a bronze skirt~
+A bronze skirt lies here.~
+~
+9 0 aq 0
+5 0 0 0 6
+15 2 120 50 0 1
+#2125
+breastplate bronze breast plate~
+a bronze breastplate~
+A bronze breastplate lies here.~
+~
+9 0 ad 0
+9 0 0 0 5
+40 3 250 50 0 1
+#2126
+boots iron~
+a pair of iron boots~
+A pair of iron boots sit here.~
+~
+9 0 ag 0
+3 0 0 0 5
+6 3 70 40 0 1
+#2127
+mask iron~
+an iron mask~
+An iron mask has been left here.~
+~
+9 0 ar 0
+3 0 0 0 6
+6 3 70 40 0 1
+#2128
+sleeves iron~
+a pair of iron sleeves~
+A pair of iron sleeves lies here.~
+~
+9 0 ai 0
+3 0 0 0 5
+9 3 140 40 0 1
+#2129
+breastplate iron breast plate~
+an iron breastplate~
+An iron breastplate has been left nearby.~
+~
+9 0 ad 0
+13 0 0 0 4
+40 3 210 40 0 1
+#2130
+wand mahogany~
+a mahogany wand~
+A wand has carelessly been left here.~
+~
+3 g an 0
+1 0 0 0 5
+2 2 1000 60 0 1
+E
+wand mahogany~
+The wand is an old dark stick. You notice a small symbol etched at the
+base of the wand. which looks like this:
+
+     \ /
+    - O -
+     / \
+~
+$~

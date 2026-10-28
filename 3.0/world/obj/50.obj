@@ -1,0 +1,22 @@
+#5000
+dagger glass~
+a glass dagger~
+A fine, glass dagger rests spoked in the ground here.~
+~
+5 0 an 0
+6 3 2 11 3
+1 100 100
+E
+glass dagger~
+This blade seems to be polished to transparency.  Hilted with a leather
+pommel, this foot-long weapon seems combat worthy.
+~
+#5002
+scimitar sword~
+a scimitar~
+A scimitar lies here, its curved blade smooth and sharp.~
+~
+5 0 an 0
+6 4 2 3 3
+10 180 100
+$~

@@ -1,0 +1,395 @@
+#4800
+bamboo hoopak~
+a bamboo hoopak~
+An odd hoopak made from treated bamboo lies here.~
+~
+5 0 an 0
+4 4 4 11 4
+3 3 100 100 0 1
+E
+bamboo hoopak~
+A favourite weapon of smaller folk, this weapon appears to be a sling-spear.
+~
+#4801
+staff bamboo~
+a bamboo staff~
+A staff of bamboo rests on the ground.~
+~
+5 0 an 0
+3 2 8 0 4
+3 3 100 100 0 1
+E
+bamboo staff~
+The staff is a simple one, made from a thick reed of bamboo.
+~
+#4802
+axe broad~
+a broad axe~
+An axe with dual blades has been left nearby.~
+~
+5 0 an 0
+2 3 5 3 3
+6 3 400 100 0 1
+E
+broad axe~
+Quite a cumbersome weapon, the use of the axe requires strength more than
+anything else to inflict damage. The dual blades of this axe allow the wielder
+maximum potential to strike at a foe.
+~
+#4803
+mace xixian~
+a xixian mace~
+A xixian mace has carelessly been left here.~
+~
+5 0 an 0
+5 3 4 5 4
+6 2 100 100 0 1
+E
+xixian mace~
+Fairly similar to most generic maces, the xixian mace uses sand from the great
+southern desert to increase the strength of the weapon and reduce its weight.
+The sand, when combined correctly with steel produces a unique alloy forgeable
+only by the Xixian artisans.
+~
+A
+18 2
+#4804
+mace morning star wood spiked ball~
+a morning star~
+A simple length of wood with an attached spiked-ball sits here.~
+~
+5 0 an 0
+5 4 4 5 5
+4 2 150 100 0 1
+E
+morning star wood spiked ball~
+The morning star is a simple weapon, used to bludgeon an opponent from beyond
+sword range. The spiked ball is attached to the cylinder of wood by a thick
+chain.
+~
+#4805
+vest xixian scale mail~
+a xixian scale vest~
+A Xixian scale mail vest shines brightly here.~
+~
+9 0 ad 0
+8 0 0 0 3
+8 3 450 100 0 1
+E
+xixian scale mail vest~
+The scale vest is very similar to its cousins, except the armorers of Xixieqi
+have combined the standard metals with sand found in the great southern desert
+to form a new alloy, unique only to the city. This makes the vest both
+stronger and lighter.
+~
+#4806
+gauntlet xixian scale~
+a pair of xixian scale gauntlets~
+A nice pair of gauntlets is lying here.~
+~
+9 0 ah 0
+4 0 0 0 3
+5 3 340 100 0 1
+E
+xixian scale gauntlet~
+The gauntlets have been made from a unique alloy common only to Xixieqi, where
+the armorers forge steel and sand from the great southern desert. This creates
+both a stronger and lighter piece of armor.
+~
+#4807
+crimson silken sash~
+a crimson sash~
+A crimson silken sash lies crumpled on the ground.~
+~
+9 a al 0
+3 0 0 0 5
+3 3 75 100 0 1
+E
+crimson silken sash~
+The crimson sash is covered in all manner of golden rune symbols which glow
+softly.
+~
+#4808
+bracelet ivory~
+an ivory bracelet~
+A bracelet made from ivory lies on the ground.~
+~
+9 0 am 0
+2 0 0 0 4
+3 3 400 100 0 1
+E
+ivory bracelet~
+The bracelet is circular in shape with a small opening to allow the user to
+put it on. More ornamental than anything else, the bracelet may provide you
+with some protection.
+~
+#4809
+bottle whiskey~
+a bottle~
+A bottle of aged whiskey has been discarded here.~
+~
+17 0 a 0
+10 10 5 0 0
+12 3 30 100 0 1
+#4810
+bottle flaming label~
+a bottle~
+A bottle with a flaming label has been discarded here.~
+~
+17 0 a 0
+10 10 7 0 0
+12 3 60 100 0 1
+#4811
+pint glass~
+a pint~
+A pint glass has been left here.~
+~
+17 0 a 0
+3 3 4 0 0
+4 3 10 100 0 1
+#4812
+glass~
+a glass~
+A simple glass sits here.~
+~
+17 0 a 0
+3 3 2 0 0
+4 3 15 100 0 1
+#4813
+mug~
+a mug~
+A mug has been left here.~
+~
+17 0 a 0
+3 3 3 0 0
+4 3 15 100 0 1
+#4814
+mug~
+a mug~
+A mug has been left here.~
+~
+17 0 a 0
+3 3 8 0 0
+4 3 15 100 0 1
+#4815
+silken robe~
+a silken robe~
+A silken robe lies in a crumpled heap on the ground.~
+~
+11 0 ak 0
+0 0 0 0 3
+2 3 400 100 0 1
+E
+silken robe~
+An exquisite robe indeed...the weaver has used only the finest of silk and
+produced a very intricate design of a dragon's head on the rear of the robe.
+~
+#4816
+vest silken~
+a silken vest~
+A silken vest has been neatly folded and left here.~
+~
+11 0 ad 0
+0 0 0 0 3
+3 3 450 100 0 1
+E
+silken vest~
+This stylish vest seems suitable for being worn on top of normal clothes,
+though it would be a tight fit. Complex designs showing rushing rivers and
+mossy rocks adorn the vest's back.
+~
+#4817
+gloves silken~
+some silken gloves~
+A pair of silken gloves have been left nearby.~
+~
+11 0 ah 0
+0 0 0 0 3
+1 3 340 100 0 1
+E
+silken gloves~
+Although a nice fashion accessory, the gloves serve no other purpose.
+~
+#4818
+bolt silk~
+a bolt of silk~
+An expensive bolt of silk has carelessly left here.~
+~
+12 0 a 0
+0 0 0 0 2
+5 3 1000 100 0 1
+E
+bolt silk~
+It would have taken some time to gather this much silk and it is of an
+extremely good quality, perhaps worth a few coins.
+~
+#4819
+snuff bottle~
+a snuff bottle~
+A hand-painted snuff bottle sits here.~
+~
+15 0 ao 0
+5 5 -1 0 0
+1 2 250 100 0 1
+E
+snuff bottle~
+Collectors items, these bottled are used to store small quantities of opium.
+Each one is handpainted with a different scene. This one bears the picture
+of a mountain waterfall spilling over rocks.
+~
+A
+6 1
+#4820
+snuff opium~
+some snuff~
+There is a small amount of snuff here, piled into a small mound.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 300 60 0 1
+E
+snuff opium~
+This white powder can make its users feel euphoric when snorted.
+~
+#4821
+oil lamp~
+an oil lamp~
+An oil lamp sits here.~
+~
+1 0 ao 0
+0 0 24 0 0
+3 3 50 100 0 1
+E
+oil lamp~
+The brass oil lamp appears to be about half-full of a clear, resinous liquid.
+~
+#4822
+belt beltpouch~
+a beltpouch~
+A beltpouch lies here.~
+~
+15 0 al 0
+16 5 -1 0 0
+1 3 50 100 0 1
+E
+belt pouch~
+It is back and made of velvet.
+~
+#4823
+takosu octopus sushi~
+some takosu~
+A succulent dish of takosu emits its sweet scent here.~
+~
+19 0 a 0
+3 0 0 0 0
+1 3 5 100 6 1
+E
+takosu octopus sushi~
+It is a lavender-coloured dish and smells strongly of vinegar.
+~
+#4824
+sunomono shrimp sushi~
+some sunomono~
+A plate of sunomono lies chilled on the table.~
+~
+19 0 a 0
+2 0 0 0 0
+1 3 2 100 10 1
+E
+sunomono shrimp sushi~
+This is raw shrimp, pink and cold.
+~
+#4825
+ebi shrimp sushi~
+some ebi~
+A plate of sweet ebi is chilled with ice here.~
+~
+19 0 a 0
+3 0 0 0 0
+1 3 4 100 10 1
+E
+ebi shrimp sushi~
+This is a sweeter, less mild shrimp.  It is grey and brown and is cold to the
+touch.
+~
+#4826
+gyoza dumpling~
+a gyoza dumpling~
+A delicious vegetable gyoza sits on a plate here, ready to be devoured.~
+~
+19 0 a 0
+2 0 0 0 0
+1 3 5 100 24 1
+E
+gyoza dumpling~
+This is a simple seafood dumpling.
+~
+#4827
+plain wooden wand~
+a plain wooden wand~
+A plain, wooden wand has been left on the ground.~
+~
+3 g an 0
+0 0 0 0 5
+2 3 500 100 0 1
+E
+plain wooden wand~
+Fairly unremarkable in almost all aspects, the wand is simply a wooden stick,
+twisted and warped in numerous places.
+~
+#4828
+bamboo divining rod~
+a divining rod~
+A bamboo divining rod lies here.~
+The divining rod bends toward the ground.
+~
+4 0 ao 0
+100 10 3 44 3
+3 3 400 100 0 1
+E
+bamboo divining rod~
+The diving rod has been carved from pale bamboo reeds and points downward
+when water is nearby.
+~
+#4829
+bulletin board~
+a bulletin board~
+A large bulletin board is mounted on a wall here.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+board~
+Try "look board" to read the messages.
+~
+#4845
+fountain fount stone~
+a stone fountain~
+A fountain of bubbling water burbles here.~
+~
+23 e 0 0
+999999 999999 15 0 0
+5005 3 0 100 0 1
+E
+fountain fount stone~
+The fountain is that of a carved dragon that spews water from its
+mouth to pool in its curved, coiled tail.
+~
+#4846
+kite shield~
+a kite shield~
+A kite shield has been carelessly left here.~
+~
+9 0 aj 0
+10 0 0 0 5
+15 3 475 100 0 1
+#4847
+helmet guard~
+a guard's helmet~
+A guard's helmet has been left here.~
+~
+9 0 ae 0
+2 0 0 0 6
+5 3 100 100 0 1
+$~

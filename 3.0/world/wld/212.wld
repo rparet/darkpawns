@@ -1,0 +1,1807 @@
+#21200
+The Sleeping Giant Inn~
+   The room has been set aside as a small reception area where inn guests can
+obtain a room for the evening. It is dominated by a large, mahogany desk
+behind which lies a keyrack and several wooden compartments. Individual rooms
+lie to the north, south, east and west while a staircase in the corner of the
+room leads to the dining area below.
+~
+212 cd 0
+D5
+~
+~
+0 0 21261
+S
+#21201
+A Mystical Place~
+   The purpose of this place isn't entirely obvious...floating balls of light
+hover close to the ceiling, long curtains of dark silk partition various
+sections of the room, and there are a lot of ancient texts stacked haphazardly
+on the floor. The door to the east appears to be the only exit from the room.
+~
+212 cd 0
+D1
+~
+~
+0 0 21245
+S
+#21202
+By the Altar~
+   You stand before a large, golden altar. Candles burn continuously on each
+corner and a long, wooden rail has been erected to separate the altar from the
+main floor. Only the high priest himself may stand at the altar, any less is
+considered a great insult to the gods of ages past.
+~
+212 cdes 0
+D3
+~
+~
+0 0 21258
+D5
+~
+~
+0 0 21239
+S
+#21203
+Atop the Northwestern Watchtower~
+   You find yourself in a small room constructed of black stone, a number of
+openings in the northern and western walls at about chest height. Located at
+the center of the room, a small fire pit provides some meager warmth to the
+guards stationed here, the smouldering remains of a recent fire still visible.
+~
+212 cd 0
+D5
+~
+~
+0 0 21211
+E
+western~
+3888~
+Linked to The Forest [8901].
+~
+E
+northern~
+16871~
+Linked to On the Ocean [32810].
+~
+S
+#21204
+Atop the Northeastern Watchtower~
+   You find yourself in a small room constructed of black stone, a number of
+openings in the northern and eastern walls at about chest height. Located at
+the center of the room, a small fire pit provides some meager warmth to the
+guards stationed here, the smouldering remains of a recent fire still visible.
+~
+212 cd 0
+D5
+~
+~
+0 0 21217
+E
+northern~
+16871~
+Linked to On the Ocean [32810].
+~
+E
+eastern~
+3960~
+Linked to The Forest [9034].
+~
+S
+#21205
+Atop the Southwestern Watchtower~
+   You find yourself in a small room constructed of black stone, a number of
+openings in the southern and western walls at about chest height. Located at
+the center of the room, a small fire pit provides some meager warmth to the
+guards stationed here, the smouldering remains of a recent fire still visible.
+~
+212 cd 0
+D5
+~
+~
+0 0 21271
+E
+southern~
+3900~
+Linked to The Forest [8913].
+~
+E
+western~
+3834~
+Linked to The Forest [8908].
+~
+S
+#21206
+Atop the Southeastern Watchtower~
+   You find yourself in a small room constructed of black stone, a number of
+openings in the southern and eastern walls at about chest height. Located at
+the center of the room, a small fire pit provides some meager warmth to the
+guards stationed here, the smouldering remains of a recent fire still visible.
+~
+212 cd 0
+D5
+~
+~
+0 0 21277
+E
+eastern~
+4012~
+Linked to The Forest [9086].
+~
+E
+southern~
+3842~
+Linked to The Forest [8916].
+~
+S
+#21207
+The Local Coffee House~
+   The upper floor of the inn has been set aside for the more wealthy patrons,
+a small bar covered with some kind of coppery metal lines one wall and several
+tables have been neatly arranged around the room. Freshly brewed coffee is
+being made at the bar, and a soft melody of flute music can be heard softly.
+~
+212 d 0
+D5
+~
+~
+0 0 21221
+S
+#21208
+The Guard Barracks~
+   Triple bunks have been neatly arranged around this large room, several
+locked trunks sitting at the foot of each bunk. The walls are spartan and
+unadorned, and the bunks have been made with such precision that you suspect
+you could bounce a gold coin off one. The only visible exit appears to be the
+opening to the east.
+~
+212 d 0
+D1
+You see a large gate.
+~
+~
+0 1 21209
+S
+#21209
+The Northern Gate~
+   You stand in awe beneath the immense northern gate of Kir Morthis, also
+known as the Holy City. The gate is really divided into two sections: a thick,
+iron door to the north and a heavy portcullis to the south. Gazing upwards,
+you note an iron grate in the roof while two openings to the west and east
+provide access to the guard barracks and a sentry post respectively.
+~
+212 0 1
+D0
+~
+door iron~
+1 0 21295
+D1
+You see a small sentry post.
+~
+~
+0 1 21210
+D2
+Main street leads through the town.
+~
+~
+0 1 21214
+D3
+Looks like where the guards sleep.
+~
+~
+0 1 21208
+S
+#21210
+A Sentry Post~
+   A number of the local guards sit within this room, monitoring the comings
+and goings at the northern gate, just to the west of here. An untidy
+bookshelf in the corner contains several log books, records of the merchants
+who pass through the city and their wares.
+~
+212 d 0
+D3
+You see a large gate.
+~
+~
+0 1 21209
+E
+log~
+0~
+It all looks fairly standard and mundane to you, and to be honest, the
+records aren't exactly kept well.
+~
+S
+#21211
+The Northwestern Corner~
+   This is the northwestern corner of the city, the perimeter road turning
+sharply to the east and south. Affixed to the northern wall is an iron ladder
+which should provide access to the watchtower above.
+~
+212 0 1
+D1
+North Perimeter Road runs parallel to the northern wall of town.
+~
+~
+0 1 21212
+D2
+West Perimeter Road runs parallel to the western wall of town.
+~
+~
+0 1 21222
+D4
+You see a watch tower way, way up there.
+~
+~
+0 0 21203
+S
+#21212
+North Perimeter Road~
+   You walk along a wide, cobblestone roadway which runs parallel to the
+northern walls of the city. These tall walls block your passage to the north,
+however, this street continues both east and west. A small sign above the
+doorway to the south suggests the building is a bookstore of sorts.
+~
+212 0 1
+D1
+North Perimeter Road runs along the northern walls of Kir Morthis.
+~
+~
+0 1 21213
+D2
+You see the quaint, "Twice Sold Tales" bookstore.
+~
+~
+0 1 21218
+D3
+North Perimeter road appears to turn sharply up ahead.
+~
+~
+0 1 21211
+S
+#21213
+North Perimeter Road~
+   The perimeter road continues its path around the outside of the city
+proper, hugging the large wall which, long ago, helped defend this city.
+Looking carefully, you can still see the scars of battle and can only wonder
+what the battle must have been like...
+~
+212 0 1
+D1
+To the east of here, Perimeter Road crosses Main Street.
+~
+~
+0 1 21214
+D3
+Perimeter Road continues.
+~
+~
+0 1 21212
+S
+#21214
+Intersection of Main Street and North Perimeter Road~
+   You have reached the northern end of the main street which runs through the
+city of Kir Morthis. Further to the north, a thick, iron gate and tunnel lead
+under the city wall while to the east and west, the perimeter road continues.
+~
+212 0 1
+D0
+You see the inner gate of town.
+~
+~
+0 1 21209
+D1
+Perimeter Road runs both east and west.
+~
+~
+0 1 21215
+D2
+Perimeter Road runs both east and west.
+~
+~
+0 1 21225
+D3
+Main street runs south, through town proper.
+~
+~
+0 1 21213
+S
+#21215
+North Perimeter Road~
+   Local citizens brush past you, the majority heading the west where the
+city's northern gate dominates the skyline. To the south sits a small, stone
+building boasting a sign which displays the picture of a scroll wrapped around
+a wand.
+~
+212 0 1
+D1
+Perimeter Road continues to the east.
+~
+~
+0 1 21216
+D2
+You see the Mage's Shoppe.
+~
+~
+0 1 21220
+D3
+Perimeter Road continues to the west.
+~
+~
+0 1 21214
+S
+#21216
+North Perimeter Road~
+   The perimeter road on which you stand has been paved with cobblestones and
+is a wide roadway that runs along the inside of the city walls. An active
+building to the south boasts a large sign depicting a great dragon and a
+frosty mug of ale.
+~
+212 0 1
+D0
+~
+~
+0 0 21285
+D1
+Perimeter Road continues both east and west.
+~
+~
+0 1 21217
+D2
+You see the "Green Wyrm Tavern"
+~
+~
+0 1 21221
+D3
+Perimeter Road continues both east and west.
+~
+~
+0 1 21215
+S
+#21217
+The Northeastern Corner~
+   You have reached a sharp corner in the perimeter road which travels to the
+west and south. One of four watchtowers rises high above you providing an
+excellent vantage point for the keepers of the peace within this city. You can
+reach the upper level of the tower by using the iron ladder affixed to the
+wall.
+~
+212 0 1
+D2
+Perimeter Road continues to the south along the edge of town.
+~
+~
+0 1 21228
+D3
+Perimeter Road continues to the west, following the high walls.
+~
+~
+0 1 21216
+D4
+~
+~
+0 0 21204
+S
+#21218
+Twice Sold Tales Bookstore~
+   You are standing inside a musty, little bookstore that despite its ratty
+appearance and dusty air, is quite charming. Shelf after shelf has been
+crammed with a selection of books from tomes of ancient lore to folktales. You
+have no doubt that the proprietor of this establishment has some valuable
+ancient manuscripts tucked away somewhere, nor do you doubt that you could
+discover a real gem buried in the confusion - perhaps even a magickal
+spellbook. A small sign hangs above the exit to the north.
+~
+212 cde 0
+D0
+You see North Perimeter Road.
+~
+~
+0 1 21212
+E
+sign~
+0~
+
+The sign says:
+
+Welcome to Twice Sold Tales!
+
+We buy and sell books, scrolls, and the like.
+
+Use the LIST, VALUE, BUY and SELL commands to shop.
+~
+S
+#21219
+Alchemist's Shop~
+   The building serves two purposes: one half of the small store is devoted
+to merchandising space and is dominated by colorful potions and elixirs, all
+neatly labelled and organised; the other half has been set aside as a work
+area with a large counter covered in empty vials, strange reference charts and
+all manner of reagents. A sign has been mounted next to the door on the
+northern wall.
+~
+212 cde 0
+D0
+~
+~
+0 0 21242
+E
+sign~
+0~
+The sign reads:
+
+Welcome to my shop...I buy all types of potions and sell those ingredients
+required to make your own. Please feel free to look around.
+
+You can use the BUY, SELL, LIST and VALUE commands within my store.
+~
+S
+#21220
+The Magick Shop~
+   Specialising in magical items, the magick shop contains a small bookshelf
+in the corner, covered with different types of spellbooks while another in the
+opposite corner is filled with various scrolls. Common reagents sit in jars on
+the square counter while all manner of wands and staves hang from the walls. A
+sign has been mounted on the wall next to the only exit: a door to the north.
+~
+212 cde 0
+D0
+You see North Perimeter Road.
+~
+~
+0 1 21215
+E
+sign~
+0~
+The sign reads:
+
+I sell various types of magickal supplies to the budding sorcerer. I accept a
+variety of other magickal artifacts and scroll.
+
+Please use the BUY, SELL, LIST and VALUE commands within my store.
+~
+S
+#21221
+The Green Wyrm Tavern~
+   This is a bright, clean and cheerful little tavern. A long bar of polished
+wood dominates the room, but there are also a few wooden tables about the
+establishment. The hardwood floor is swept clean, and mugs hang from a number
+of hooks above the bar. Decorating the walls are paintings of dragons, both
+modern and ancient. A small plaque has been attached to the southern wall
+while a staircase in the corner provides access to the upper floors.
+~
+212 d 0
+D0
+The doorway leads back onto Perimeter Road.
+~
+~
+0 1 21216
+D4
+~
+~
+0 0 21207
+E
+plaque~
+0~
+The sign reads:
+
+To see the menu, please type LIST.
+To place your order, please type BUY.
+
+The city health code prohibits us from buying food from you, so please do not
+offer to do so. Thank you for your patronage, please come again.
+~
+S
+#21222
+West Perimeter Road~
+   The air is distinctly stale and you cover your mouth involuntarily, the
+odor almost overpowering. Given the age of this section of the city, little
+has been done to improve the local sanitation. You can move on to the north or
+south in search of cleaner air.
+~
+212 0 1
+D0
+Perimeter Road seems to turn to the east further north.
+~
+~
+0 1 21211
+D2
+Perimeter Road runs for quite some way to the south of here.
+~
+~
+0 1 21229
+S
+#21223
+A Small Library~
+   This small space has been carved into the city walls and serves as some
+type of library. Shelves of books lie in random patterns, some threatening to
+topple and fall given the angle at which they lean. The only exit appears to
+be to the west, back onto the street.
+   A small sign has been attached to the nearest shelf.
+~
+212 cdem 0
+D3
+~
+~
+0 0 21252
+E
+books~
+0~
+Skimming through the titles, you observe that the majority of them are
+targetted towards the apprentice mage. None appear overly appealing to you at
+this point in time.
+~
+E
+sign~
+0~
+For assistance with transport, please type LIST.
+To learn from the teacher, try LEARN <teacher name>
+~
+S
+#21224
+The General Store~
+   Whether you need something to light your way or the tools needed to pick
+the toughest of locks, this is the place to find them! Trying to find the
+counter is like looking for a needle in a haystack, the floor literally
+covered with everything you might need on your journey. About the only thing
+you can see clearly is the sign hanging over the exit to the east.
+~
+212 cde 0
+D1
+Main Street
+~
+~
+0 1 21225
+E
+sign~
+0~
+The sign says:
+
+If you don't see it, we don't have it! On the other hand, if you've got it,
+then we want it! Please use the BUY, SELL, LIST and VALUE commands.
+~
+S
+#21225
+Main Street~
+   You stand on Main Street, the primary roadway through town. Just north of 
+here, you see a busy intersection, where Main crosses Perimeter Road, just 
+south of the Northern Gate. Main Street continues to the south, and on the
+east and west sides of the street, are various shops. You can continue in any 
+direction.
+~
+212 0 1
+D0
+Main Street crosses Perimeter Road to the north.
+~
+~
+0 1 21214
+D2
+Main Street continues to the south.
+~
+~
+0 1 21231
+D3
+A General Store lies west of here.
+~
+~
+0 1 21224
+S
+#21226
+The Main Holding Cell~
+   This is the main holding cell of prisoners who have disobeyed the city's
+violence ordinances. Though the scenery isn't very exciting, it sure beats
+the city's old penalty of death for lawbreakers.
+~
+212 cdehr 0
+R jail_noexit.lua 32
+D2
+~
+~
+0 0 21233
+S
+#21227
+The Kir Morthis Bakery~
+   An industrial-sized oven takes up the majority of the back wall of this
+bakery, freshly baked bread cooling slowly on the shop's counter. Neatly
+arranged according to size and type, the baker's wares are on display and look
+incredibly inviting. A sign has been bolted to the wall adjacent to the door
+to the east.
+~
+212 cde 0
+D1
+~
+~
+0 1 21228
+E
+sign~
+0~
+The sign reads:
+
+Welcome! All of our products are baked freshly everyday, please use the LIST
+and BUY commands while within the shop.
+~
+S
+#21228
+East Perimeter Road~
+   Bolted to the cobblestone road is a large grate, wrought in black iron.
+Although quite dark below, you can just make out the rapid flow of water, most
+likely the city's sewer system. The delicious aroma of freshly baked bread
+floats in from the west while the perimeter road continues to the north and
+south.
+~
+212 0 1
+D0
+Perimeter Road continues towards the corner of town.
+~
+~
+0 1 21217
+D1
+~
+~
+0 0 21284
+D2
+Perimeter Road continues in that direction.
+~
+~
+0 1 21299
+D3
+You see a little shop with a picture of a loaf of bread upon the sign hanging
+by the door.
+~
+~
+0 1 21227
+S
+#21229
+West Perimeter Road~
+   Known locally as the Old City, this section of the town is noticeably
+different from other areas. The buildings are significantly older and are some
+of the few that survived the invasion of the Dark One. The roadway has been
+constructed of cobblestone and mortar, a testament to the city's earliest
+architects.
+~
+212 0 1
+D0
+Perimeter Road continues.
+~
+~
+0 1 21222
+D2
+Perimeter Road continues.
+~
+~
+0 1 21237
+D3
+~
+~
+0 0 21283
+S
+#21230
+The Weapon Shop~
+   Around the room are a number of locked display cases, each filled with
+various types of weaponry, both new and used. Given the amount of other
+adventurers you see within the store, you could easily assume these weapons
+are of the highest caliber. A small sign has been mounted adjacent to the exit
+to the east.
+~
+212 cde 0
+D1
+Main Street.
+~
+~
+0 1 21231
+E
+sign~
+0~
+The sign reads:
+
+Welcome to Kir Morthis! I trade in both new and used weapons of all kinds,
+please use the BUY, SELL, LIST and value commands within my store.
+~
+S
+#21231
+Main Street~
+   Familiar faces stroll past you, adventurers from all over the realm. You've
+found the business-end of the city, the area that caters almost solely for
+creatures such as yourself. To the west lies the city's weaponsmith and to the
+east, the city's armorer. The main street continues to the north and south.
+~
+212 0 1
+D0
+Main Street leads towards the far off gate.
+~
+~
+0 1 21225
+D1
+You see an armourer's shoppe.
+~
+~
+0 1 21232
+D2
+You see the golden gates of Ardyn Park.
+~
+~
+0 1 21241
+D3
+Weaponsmith's place.
+~
+~
+0 1 21230
+S
+#21232
+The Armor Shop~
+   The armory is filled with all sizes and makes of armor, from fine mithril
+to cheap leather. Of course, not all of it appears to be for sale, more like
+a personal collection for display. About the only item not secured to a wall
+is the large sign which hangs over the door to the west.
+~
+212 cde 0
+D3
+~
+~
+0 1 21231
+E
+sign~
+0~
+The sign reads:
+
+I would ask that travellers refrain from touching any merchandise unless they
+plan to purchase it. I accept most types of armor and have a wide variety of
+items for sale.
+
+Please make use of the BUY, SELL, LIST and VALUE commands.
+~
+S
+#21233
+Kir Morthis Jail~
+   You stand just inside the Kir Morths jail, the holding place for those poor
+souls who crossed the city's guards. Be they intoxicated, roughians, thieves
+or merely in the wrong place at the wrong time, they all end up here. The main
+holding cell lies to the east while the perimeter road can be accessed to the
+west.
+~
+212 cde 0
+R jail_noentry.lua 32
+D0
+~
+~
+0 0 21226
+D3
+~
+~
+0 0 21244
+S
+#21234
+An Unlit Shop~
+   You stand inside a small shop that seems almost artificially darkened; the
+blackness is so complete. This shop seems to be actually more of a laboratory,
+with the standard flasks and decanters, as well as some other arcane-looking
+equipment you do not recognize. A small black sign is nailed onto the back  
+wall. The only exit is east, back into Ardyn Park.
+~
+212 acd 0
+D1
+~
+~
+0 0 21241
+E
+sign~
+0~
+To see if I can help you, type LIST.
+To buy back your vitae from me, type BUY VITAE.
+~
+S
+#21235
+The Pet Shop~
+   Entering this store is tantamount to walking through the local zoo!
+Creatures from all corners of the globe are kept here, the majority of them
+for sale. Interestingly enough, none are restrained or caged leading you to
+believe the proprietor of this store has a special sway with the beasts.
+~
+212 cde 0
+D1
+Back to Parimeter road.
+~
+~
+0 1 21299
+E
+sign~
+0~
+
+The sign says:
+
+Use LIST to show available pets.
+
+Use BUY to buy a pet, or BUY <name> to buy and name a pet.
+
+We do not buy back pets, sorry.
+~
+S
+#21236
+Pet shop storage~
+Pet store secret room -- where all your pets come from!
+~
+212 cdhj 0
+S
+#21237
+West Perimeter Road~
+   A small plaque affixed to the western wall marks this area as a historic
+location. The cobblestones still bear the scars of powerful magicks unleashed
+here decades ago and on closer inspection, you can see the nicks and cuts made
+by iron weapons and steel-tipped arrows. The road continues to the north and
+south while a quaint little store lies to the east.
+~
+212 0 1
+D0
+Perimeter Road leads to the north.
+~
+~
+0 1 21229
+D1
+You see an shop specialising in staves.
+~
+~
+0 1 21238
+D2
+Perimeter Road continues to the south.
+~
+~
+0 1 21245
+D3
+~
+~
+0 0 21282
+E
+plaque~
+0~
+To the memory of those who departed this realm in the Great War, having
+defended this holy city from the legions of the Dark One. May their souls rest
+in the eternal peace granted of such great warriors.
+~
+S
+#21238
+The Oaken Staff~
+   This is a medium-sized store, devoted almost entirely to the sale of
+magickal staves. They hang from the walls and sit neatly in crystal display
+cases throughout the store. Created by the wizards of old, you admire the fine
+carvings on some of the more expensive staves.
+~
+212 cd 0
+D3
+Perimeter Road.
+~
+~
+0 1 21237
+S
+#21239
+The Morgue~
+   This large room looks more like a butcher shop than a mortuary, with thick,
+dried pools of blood and bits of gore stuck to the floor. Obviously, the smell
+here is less than pleasant and carries a distinct waft of chemicals. The evil-
+looking man hunched over a shrouded body may be your only hope of getting your
+possessions back, however.
+~
+212 cde 0
+D4
+~
+~
+0 0 21202
+S
+#21240
+The Kor Morthis Stables~
+   The smell of fresh dung greets your nose as you step into this well-kept
+stable.  You can see many fine breeds of horses stored in the extensive
+boarding area in front of you, but this front room looks more like a country
+store than a stable, complete with a smiling hick ready to take your money.
+There is a small sign nailed to a post here.
+~
+212 cdm 0
+D1
+~
+~
+0 0 21294
+E
+sign~
+0~
+LIST: See what is available and get a price.
+BUY: Buy a mount.
+STABLE: Set your mount up in our boarding area.
+COLLECT: Collect your mount from our boarding area.
+~
+S
+#21241
+The Northern End of Ardyn Park~
+   Standing at the northern end of Ardyn park, you admire the tall trees that
+line the edge of the road, each with leaves of silver and gold. A black,
+wrought iron grate has been placed into a recessed depression in the ground
+and is securely held in place by something unseen. The park itself continues
+to the south while the main street continues to the north and south.
+~
+212 0 1
+D0
+The Main Street lies in that direction.
+~
+~
+0 0 21231
+D1
+~
+~
+0 0 21242
+D2
+The southern end of the park lies in that direction.
+~
+~
+0 0 21248
+D3
+~
+~
+0 0 21234
+E
+grate~
+0~
+It's been smelted closed. Perhaps one day it will reopen.
+~
+S
+#21242
+Market Street~
+   You physically push your way through merchant after merchant, all manner of
+creatures attempting to sell you their wares. You almost miss the sign over
+the doorway to the south, and can enter if you wish to escape the barrage of
+vendors.
+~
+212 0 1
+D1
+Guild Street continues.
+~
+~
+0 1 21243
+D2
+~
+~
+0 0 21219
+D3
+~
+~
+0 0 21241
+E
+sign~
+0~
+The sign depicts some form of bowl surrounded by a number of herbs and spell-
+making components. It appears to be an alchemist's shop.
+~
+S
+#21243
+Market Street~
+   No sooner have you stepped into the street than you are accosted by at
+least half a dozen merchants, all pushing their wares upon you. You can see
+everything from cheap trinkets to woven rugs and at this point in time, none
+of it seems overly appealing. You can push your way through to the west and
+east or enter a parlor to the north.
+~
+212 0 1
+D0
+~
+~
+0 0 21281
+D1
+~
+~
+0 0 21244
+D3
+Guild Street continues to the west.
+~
+~
+0 1 21242
+S
+#21244
+East Perimeter Road~
+   The road junctions here, allowing you to travel to the north, west or
+south. The majority of passers-by head to the west towards the middle of the
+city, most likely the main area for commerce.
+~
+212 0 1
+D0
+Perimeter Road continues, running alongside the walls.
+~
+~
+0 1 21299
+D1
+~
+~
+0 0 21233
+D2
+Perimeter Road continues, running alongside the walls.
+~
+~
+0 1 21252
+D3
+~
+~
+0 0 21243
+S
+#21245
+West Perimeter Road~
+   Two roads merge here: the main cobblestone road encircling the city
+continues to the north and south while a narrower roadway begins to the east.
+The majority of the pedestrian traffic on these streets disappears down
+the narrower road, perhaps heading towards the center of the city.
+~
+212 0 1
+D0
+Perimeter Road continues, running alongside the walls.
+~
+~
+0 1 21237
+D1
+Baugh Street runs off towards the center of town.
+~
+~
+0 1 21246
+D2
+Perimeter Road continues, running alongside the walls.
+~
+~
+0 1 21253
+D3
+~
+~
+0 0 21201
+S
+#21246
+Baugh Street~
+   This is a narrower roadway than the other streets of Kir Morthis. Baugh
+Street dead-ends into Perimeter Road just west of here, while it continues
+into Ardyn Park far to the east.
+~
+212 0 1
+D1
+Guild Street continues.
+~
+~
+0 1 21247
+D3
+Guild Street dead-ends into Perimeter Road.
+~
+~
+0 1 21245
+S
+#21247
+Baugh Street~
+   You are on a narrow street that runs from Ardyn Park to the walls.
+Disheveled buildings line both sides of the street which continues to the east
+and west.
+~
+212 0 1
+D1
+Just east of here is the southern end of Ardyn Park.
+~
+~
+0 1 21248
+D3
+Baugh Street continues to the west.
+~
+~
+0 1 21246
+S
+#21248
+The Southern End of Ardyn Park~
+   You gaze across the grass-covered Ardyn Park, large trees with leaves of
+silver lining the edges. Several benches and tables have been set around the
+area to entice the citizens to sit and relax. A bronze statue stands in the
+middle of the park, pointing towards the north where the immense northern gate
+can be clearly seen.
+   The main street through the city travels to the north and south, while
+Baugh street begins to the west.
+~
+212 0 1
+D0
+There is more park to the north.
+~
+~
+0 1 21241
+D2
+Through golden gates, Main Street leads to the south.
+~
+~
+0 1 21257
+D3
+~
+~
+0 0 21247
+E
+statue~
+0~
+The statue is clearly that of an adventurer, dressed not for combat but more
+for exploration. Made of highly polished bronze, it is kept in relatively good
+condition considering it sits out in the elements.
+~
+S
+#21249
+The City Blacksmith~
+   The first thing to greet you upon entry is the heat plume from the large
+fire pit in the middle of the room. A large anvil sits adjacent to it, scored
+with any number of deep cuts from the weapons and armor created upon it.
+Twisted chunks of discarded steel and various other metals litter the floor,
+so much so that movement within the room is difficult.
+~
+212 cde 0
+D3
+~
+~
+0 0 21259
+S
+#21250
+The Town Docks~
+   You stand on a small wooden dock; to the north lies only water. To the
+south lies the city gate.
+~
+212 c 0
+D2
+~
+gate~
+1 0 21209
+S
+#21251
+Willow Court~
+   Modest, apartment-style buildings dominate this area. Children play in the
+street, peering at you intently and wondering to themselves why someone like
+you has wandered into their neighborhood. Your exploits as an adventurer mean
+very little here and it might be best to move on.
+~
+212 0 1
+D1
+Perimeter Road.
+~
+~
+0 1 21252
+S
+#21252
+East Perimeter Road~
+   A smaller street branches off from the perimeter road to the west of here,
+and judging by the citizens travelling down it, you would imagine this is
+where the wealthier members of the populace reside. The road is complete
+devoid of trash and is patrolled regularly by the city's guards.
+   A small library lies to the east.
+~
+212 0 1
+D0
+Perimeter Road continues both north and south.
+~
+~
+0 1 21244
+D1
+~
+~
+0 0 21223
+D2
+Perimeter Road continues both north and south.
+~
+~
+0 1 21259
+D3
+You see a small home.
+~
+~
+0 1 21251
+S
+#21253
+West Perimeter Road~
+   The immense city walls parallel your track, running along the western
+perimeter road to the north and south. Four watchtowers are clearly visible at
+each of the city's corners and would provide a great vantage point of the
+city.
+~
+212 0 1
+D0
+Perimeter Road goes north...
+~
+~
+0 1 21245
+D1
+~
+~
+0 0 21261
+D2
+Perimeter Road leads south...
+~
+~
+0 1 21260
+S
+#21256
+First Bank of Kir Morthis~
+   You stand in a well-appointed, opulent bank. The floor is covered with a
+plush carpet and a beautifully stained wooden counter runs the length of the
+western wall. Several potted plants have been scattered about the room and
+lit candles burn brightly at regular intervals along the walls.
+~
+212 cde 0
+R bank.lua 32
+D1
+~
+~
+0 1 21257
+S
+#21257
+Main Street~
+   Creatures from all over the realm stream out of the grand looking building
+to the west, the Kir Morthis bank. Meanwhile, others enter the solemn temple
+to the east for their daily prayer session. The main street continues to the
+north and south.
+~
+212 0 1
+D0
+~
+~
+0 1 21248
+D1
+~
+~
+0 0 21258
+D2
+~
+~
+0 0 21263
+D3
+~
+~
+0 0 21256
+S
+#21258
+Inside the Temple of Djin~
+   The Temple of Djin is a place of silence, not a word spoken at any time.
+Services are conducted in a solemn ritual known only to the priests...
+travellers such as yourself usually come here for the solitude, a moment to be
+alone with your inner self. Row upon row of wooden pews have been set up, all
+facing the high altar.
+~
+212 cdesC 0
+D1
+~
+~
+0 0 21202
+D3
+~
+~
+0 1 21257
+S
+#21259
+East Perimeter Road~
+   In the recent past, this area of the road has been repaired and
+unfortunately, it was not done particularly well. No effort was made to match
+the cobblestones...rather, smooth red bricks have been used to patch the
+various holes. You may continue your journey to the north or south.
+~
+212 0 1
+D0
+~
+~
+0 1 21252
+D1
+~
+~
+0 0 21249
+D2
+~
+~
+0 1 21266
+S
+#21260
+West Perimeter Road~
+   The cobblestone road on which you now stand encircles the city, providing a
+quick and efficient path for those travellers wishing to avoid the hustle and
+bustle of the city's center. A large, wooden sign hanging above the door to
+the east identifies the two-story building as the Sleeping Giant Inn.
+~
+212 0 1
+D0
+~
+~
+0 1 21253
+D2
+~
+~
+0 1 21271
+S
+#21261
+The Sleeping Giant Inn~
+   The Sleeping Giant Inn is a haven for adventurers such as yourself; a
+place to get a warm meal, strong ale and a comfortable bed for the night. The
+lower floor is predominantly a dining area with a bar and several tables. A
+staircase towards the rear of the room leads up to the lobby area where you
+can rent a cheap room for the night.
+~
+212 cd 0
+D3
+~
+~
+0 0 21253
+D4
+~
+~
+0 0 21200
+S
+#21262
+The Kir Morthis Post Office~
+   The post office is relatively small, its only real purpose to distribute
+mail from one adventurer to another. A wooden sign has been set on the counter
+and the walls have been plastered with various notices, none of which interest
+you.
+~
+212 cde 0
+D1
+~
+~
+0 1 21263
+E
+sign~
+0~
+The sign reads:
+
+Stamps cost 25 coins each. Other assistance has been provided through the
+HELP MAIL notice.
+~
+S
+#21263
+Main Street~
+   This is the main street which runs north/south through the city of Kir
+Morthis. The city's post office is situated in the building to the west while
+a strange, stone building sits to the east.
+~
+212 0 1
+D0
+~
+~
+0 1 21257
+D1
+~
+~
+0 1 21264
+D2
+~
+~
+0 1 21274
+D3
+~
+~
+0 1 21262
+S
+#21264
+A Strange, Stone Building~
+   The building contains only one room and it is dimly lit...although
+extremely well organised. The more affluent citizens of Kir Morthis
+constructed this building decades ago to act as a place of charity for those
+less fortunate. All manner of equipment and serviceable goods can be found in
+the room for those that care to look.
+~
+212 cde 0
+D3
+~
+~
+0 1 21263
+E
+runes circle writing~
+0~
+The letters are in common.. a single word:
+"Kallinistra"
+~
+S
+#21265
+Gryshk Court~
+   This is a dirty, smelly street with little hovels and shacks built on
+either side. Rats scamper across the street and frolic in the mounds of trash
+littered about. For good reason, this poverty-stricken area of the ciy has
+been concealed by the larger, surrounding buildings. The street is practically
+deserted and you would best be on your guard...
+~
+212 0 1
+D1
+~
+~
+0 1 21266
+S
+#21266
+East Perimeter Road~
+   In stark contrast the busy perimeter road, a narrow and dark street runs
+off to the west. Although you cannot see into the darkness, you can certainly
+feel the presence of a number of creatures.
+~
+212 0 1
+D0
+~
+~
+0 1 21259
+D2
+~
+~
+0 1 21277
+D3
+Try as you might, you cannot see clearly down the street.
+~
+~
+0 1 21265
+S
+#21267
+The Blacksmith's Workshop~
+   The blacksmith's workshop is almost exactly as you would picture it: a
+large furnace burns from within an open pit in the middle of the room; an
+anvil sits in one corner and next to it, a large iron bucket full of water.
+The floor is littered with chunks of metal and battle-damaged sword blades.
+The only exit appears to be to the south, back onto the city's southern road.
+~
+212 cd 0
+D2
+Perimeter Road.
+~
+~
+0 1 21272
+S
+#21268
+The Kir Morthis Library~
+   Known throughout the land as a beacon of learning and knowledge in these
+dark times, the library contains hundreds and thousands of books, stacked
+neatly on wooden shelves that span each wall. Several desks sit around the
+room, local citizens and travellers alike pouring through mystical texts and
+reference books.
+~
+212 d 0
+D2
+~
+~
+0 1 21273
+S
+#21270
+Sleepy Hollow Court~
+   The occupants of this area have forgone the traditional apartment-style
+dwellings and instead reside in single level structures. They have, however,
+been extremely well constructed and you can see a lot of time and effort has
+been put into them. Wrought iron gates prevent entry to any of the homes and
+personal guards patrol the fenceline, keeping an eye on you.
+~
+212 0 1
+D2
+Perimeter Road.
+~
+~
+0 1 21276
+S
+#21271
+The Southwestern Corner~
+   A large watchtower marks the southwestern corner of the city, the perimeter
+road continuing to the north and east. Through a small opening in the tower
+wall, you spot an iron ladder which should provide access to the ramparts
+above.
+~
+212 0 1
+D0
+~
+~
+0 1 21260
+D1
+~
+~
+0 1 21272
+D4
+~
+~
+0 0 21205
+S
+#21272
+South Perimeter Road~
+   Horse-drawn wagons dominate this area of the city, the noise from the
+steel-rimmed wheels quite loud on the cobblestone road. To the north, the open
+workshop of the city's blacksmith is in plain view, the sound of metal upon
+metal ringing out loudly. You can continue along the southern perimeter road
+to the east or west.
+~
+212 0 1
+D0
+~
+~
+0 1 21267
+D1
+~
+~
+0 1 21273
+D3
+~
+~
+0 1 21271
+S
+#21273
+South Perimeter Road~
+   The southern perimeter roads continues to the east and west along the city
+wall. In the distance, you notice large watchtowers at each corner of the
+city, a few guards looking down at you intently. The reknowned Kir Morthis
+library is housed in a grand building to the north.
+~
+212 0 1
+D0
+~
+~
+0 1 21268
+D1
+~
+~
+0 1 21274
+D3
+~
+~
+0 1 21272
+S
+#21274
+Intersection of Main Street and South Perimeter Road~
+   You are standing at the intersection of the city's main street which leads
+to the north, and the southern perimeter road which runs along the city wall
+to the east and west of here. The massive southern gate lies a short distance
+to the south, watched over by ever-vigilant guards.
+~
+212 0 1
+D0
+~
+~
+0 1 21263
+D1
+~
+~
+0 1 21275
+D2
+~
+~
+0 1 21279
+D3
+~
+~
+0 1 21273
+S
+#21275
+South Perimeter Road~
+   You are on Perimeter Road, just east of Main Street. An exclusive court is 
+just north of here, while to the west Perimeter Road intersects with Main
+Street. Perimeter Road also runs to the east, towards the corner of town.
+~
+212 0 1
+D1
+~
+~
+0 1 21276
+D3
+~
+~
+0 1 21274
+S
+#21276
+South Perimeter Road~
+   Just north of here, a nice little court opens up and you can see some
+extremely wealthy dwellings. Gazing upwards, you spy one of the city's guards
+peering down at you from the watchtower to the east and realise that these
+towers would give the occupants an excellent view of the city.
+~
+212 0 1
+D0
+~
+~
+0 1 21270
+D1
+~
+~
+0 1 21277
+D2
+~
+~
+0 0 21286
+D3
+~
+~
+0 1 21275
+S
+#21277
+The Southeastern Corner~
+   This is the southeastern corner of the ciy, the perimeter road turning
+sharply and following the city walls to the north and west. An iron ladder on
+the wall leads up to one of the four watchtowers located within the city.
+~
+212 0 1
+D0
+~
+~
+0 1 21266
+D3
+~
+~
+0 1 21276
+D4
+~
+~
+0 0 21206
+S
+#21278
+Customs House~
+   You stand in the small yet tidy customs house, all manner of papers, stamps
+and seals around you. Several harried customs officials brush past you, their
+job to process the many visitor permits, vendor licences and citizenship
+applications. The southern gate of the city lies through an opening to the
+east.
+~
+212 cde 0
+D1
+~
+~
+0 1 21279
+S
+#21279
+Beneath the Southern Gates~
+   You stand beneath the massive southern gates of Kir Morthis, a heavy
+portcullis suspended above your head by an equally large iron lock. The main
+street of the city lies to the north, while the local customs house is
+situated in an opening to the west.
+~
+212 0 1
+D0
+~
+~
+0 1 21274
+D1
+~
+~
+0 1 21280
+D2
+~
+gate~
+2 0 21294
+D3
+~
+~
+0 1 21278
+S
+#21280
+A Sentry Post~
+   A number of the local guards sit within this room, monitoring the comings
+and goings at the southern gate, just to the west of here. An untidy
+bookshelf in the corner contains several log books, records of the merchants
+who pass through the city and their wares.
+~
+212 d 0
+D3
+~
+~
+0 1 21279
+E
+log~
+0~
+It all looks fairly standard and mundane to you, and to be honest, the
+records aren't exactly kept well.
+~
+S
+#21281
+A Tattoo Parlor~
+   This well-lit shop is perhaps one of the better parlors within the realm;
+the room is relatively clean, the instruments have been sterilised and the
+owner of the store appears to have good artistic sense, evident by the small
+renderings of art lining the walls.
+~
+212 d 0
+D2
+~
+~
+0 0 21243
+S
+#21282
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+212 cd 0
+D1
+~
+~
+0 0 21237
+S
+#21283
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+212 cd 0
+D1
+~
+~
+0 0 21229
+S
+#21284
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+212 cd 0
+D3
+~
+~
+0 0 21228
+S
+#21285
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+212 cd 0
+D2
+~
+~
+0 0 21216
+S
+#21286
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+212 cd 0
+D0
+~
+~
+0 0 21276
+S
+#21294
+Outside the City Gates~
+   Just north of here lie the massive southern gates of Kir Morthis. The
+spires of the city are clearly visible over the city wall which rises high
+above your head. Continuing to the south, a wide road makes its way through
+the surrounding forest.
+   The city stables lie just to the west of here.
+~
+212 c 16
+D0
+~
+gate~
+2 0 21279
+D2
+~
+~
+0 0 8925
+D3
+~
+~
+0 0 21240
+S
+#21295
+On the Dock~
+   Despite the size of the city of Kir Morthis behind you to the south, this
+dock is extremely small suggesting the city sees very little of the shipping
+traffic that passes around the realm. Stretching before you to the north lies
+the great oceans as far as the eye can see.
+~
+212 0 1
+D2
+~
+door iron~
+1 0 21209
+S
+#21299
+Perimeter Road~
+   You are startled by a loud squawk which appeared to have come from the open
+door to the west. Standing here for a moment, you take note of the many and
+varied creatures that are escorted from within the store and decide that you
+can either venture inside or continue along the road to the north or south.
+~
+212 0 1
+D0
+~
+~
+0 0 21228
+D2
+~
+~
+0 0 21244
+D3
+~
+~
+0 0 21235
+S
+$~

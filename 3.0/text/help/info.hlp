@@ -1,0 +1,1554 @@
+<UNDEF> UNDEF
+
+Code-speak for undefined, or simply put - an error! If you see this pop
+up, please BUG it for examination.
+
+See Also: BUG
+#
+"ABILITY POINTS"
+
+These points are a numerical representation of how much you can improve
+your abilities. They are earned at a rate of 1 per level.
+
+See Also: ABILITIES
+#
+AC ARMOR
+
+"AC" is your armor class.
+
+Items often have one of two effects: ac-apply, or "armor". These two are 
+inverses of one another; ac-apply 10 = armor -10;
+You can get a rough idea of what your current armor class is in SCORE.
+
+See Also: SCORE
+#
+ACCOUNT ACCOUNTS
+
+Each player has an account in which they can have a maximum of three
+characters. The account is password protected so you must ensure its
+security - if something "bad" happens to one or all of your characters
+as a result of sharing your password, you will NOT be compensated.
+
+See Also: PASSWORD
+#
+AFK
+
+Usage: afk
+
+AFK means "away from keyboard". Use this command when you're going afk to
+get a beer, smoke a cigarette, etc. It simply lets people who TELL to you
+know you are AFK and might not get the message. Type AFK again to toggle
+it off.
+#
+AGE
+
+Age is the game mechanic that measures how old your character is in
+game terms.  Most characters start in their teens and gradually grow
+older from there. Rumors abound throughout the land of a magical means
+in which to decrease your age. You can see how old your character is in
+SCORE.
+
+See Also: SCORE
+
+#
+ALCHEMY
+
+Alchemy is a necessary skill in the mixing or combination of a number
+of ingredients to produce a product. A common example within Dark
+Pawns is the mixing of reagents to produce a magical potion.
+
+See Also: MIX INGREDIENTS
+
+#
+ALIGNMENT GOOD EVIL NEUTRAL
+
+Alignment is the measure of how Good, Evil or Neutral you are, relative 
+to the rest of the world.  In effects what kind of spells you can cast, 
+what types of equipment you can wear, whether certain creatures act
+aggressively towards you, etc.  You can see your relative current 
+alignment in SCORE. It ranges from:
+
+You are the Epitome of Righteousness!	(extremely good)
+You're so good, you make the angels jealous.
+You are feeling pretty righteous.
+You are aligned with the path of right.
+You are feeling pretty good today.
+You are a little more good than neutral, but yet still bland.
+You are neutral, how boring.		(completely neutral)
+You are a little more evil than neutral, but not very exciting.
+I actually think you would kill your own mother.
+You are so evil it hurts.
+Charles Manson is in your fan club.
+You are the Epitome of Evil!		(the ultimate bad ass)
+
+See Also: SCORE
+
+#
+APS
+
+APS is the average-per-strike of damage done by a weapon. Since a weapon
+can have a range of damage, you can expect to do an APS of damage points
+each strike.
+
+See Also: "DAMAGE DICE"
+#
+AREAS
+
+Yep, there are some, go find 'em. The world is designed to be contiguous;
+each zone buffing up against another in a logical way. The best way to find 
+new areas is to ask other players, or just go out into the world and explore 
+some.  Make sure you are adequately prepared first though.
+
+#
+ATTITUDE ATTITUDES 24 ATTI
+
+As you progress in level, certain high-level mobs start paying a lot more
+attention to you, in a bad way. Essentially, they "cop an attitude" and attack
+you. Avoid them, kill them, or be killed.
+#
+BOARDS
+
+Bulletin boards are the forum of inter-player communication on the MUD.
+There are different bulletin boards for different purposes -- for example,
+a standard mortal board, a board for immortals, a board for fun "social"
+messages, etc.  Naturally, not all players may be allowed to read all
+types of boards.
+
+Type "LOOK BOARD" to see the messages already posted on a board.  Type
+"WRITE <subject>" to post a message to a board; terminate a message with
+a '@' as the first character on a line.  Type "READ <number>" to read a
+post.  Type "REMOVE <number>" to remove your own messages.
+
+Example:
+
+  > look at board
+  > write Am I using these boards correctly?
+  [writes the message; terminates with a '@']
+  > look at board
+  > read 6
+  > remove 6
+
+See Also: MAIL READ WRITE
+#
+BRIBE HIRE
+
+Mercenaries can be hired, the current market rate is variable depending on
+your level.
+
+Guards can be bribed; the price varies from guard to guard, but they 
+don't come cheap.
+
+To bribe or hire someone, just GIVE <amount> coins <person>
+
+Examples:
+> give 101 coins mercenary
+> give 200 coins guard
+#
+BROADCAST BROADCASTS NOBROAD
+
+The Broadcast channel displays arena fights live as they happen
+to the whole world.  To turn on/off Broadcast, type TOGGLE BROAD.
+
+See Also: TOGGLE
+#
+BROKEN
+
+Should you be killed in combat, there is a chance that your items could be
+broken. Broken items cannot be used or sold, but they can be repaired.
+
+See Also: CRAFT REPAIR
+#
+CAMP CAMPING
+
+A generic term used to indicate that a player, or group of players,
+is remaining in the one location for an extended period of time. In
+essence, this could mean continually killing the creatures of a zone
+or doing a quest so that others cannot.
+
+While not strictly prohibited, it is definately a poor attitude and
+if it continues, your actions will be bought to the attention of
+the staff.
+#
+CAP
+
+Every skill and spell group has a competency CAP attached to it. This
+cap represents the maximum competency that can be attained by using
+the skills/spells within that group (assuming they improve).
+
+The competency cap is based on the skill/spell group level: at level 1,
+the cap is 25%; at level 2, the cap is 50%; at level 3, the cap is 75%;
+and at level 4, the cap is 100%.
+
+For example, the 'gate' spell within the 'Astral' spell group is level
+2. Using the 'gate' spell successfully may improve your competency for the
+'Astral' group, up until the point the group has a 50% competency. After
+that, regardless of how often you successfully use the 'gate' spell, your
+competency will not increase.
+#
+CASTLE CASTLES
+
+On Dark Pawns, castles are a generic term for structures owned
+and maintained by clans of players.  They can be anything from
+small fortresses to hidden mountain strongholds to a secret 
+back room at the local pub!  
+
+After a clan has gained sufficent strength and noteriety in the
+land, they may petition the staff for a castle.  Please note 
+that there are no castles available for individuals, or groups of 
+individuals who are not in a clan.
+
+&cWhat it all costs:&n
+
+Carving your own permenant niche in Dark Pawns is not easy. The 
+following list is a break down of castle features, and their cost.
+Note that some features may also require a quest to be performed,
+and that only the basic features have been listed.
+
+&cLand:&n
+
+An initial investment of 100,000 gold coins buys you the basic
+set up, which is 3 rooms, an entrance, foyer, and main room.
+Additional rooms are 75,000 each.
+
+Castle locations will be chosen by the gods, though your preferences 
+will be taken into consideration.
+
+&cFacilities:&n
+
+Lockable doors, grates, portculli, etc. are available for an installation
+charge of 15k.  They come with one key.  Additional keys are 10k.  Those
+of you looking for greater security should consider installing a reinforced
+door, which is 30k and comes with one key.
+
+Statues and Fountains are 10k each.
+
+Banking facilties are 20k.
+
+Informational boards are 15k.
+
+Local priests can be called in to bless certain chambers in your castle
+for 80k per chamber.
+
+
+&cCastle Staff:&n
+
+Butlers, maids, slave girls, guards etc, are 1k per level, with a 
+10k minimum each.  Please note that the staff of Dark Pawns cannot
+take responsibilty for your failure to adequately defend your property.
+
+&cAdditional Issues:&n
+
+Over time, there will be associated upkeep costs that go in to maintaining
+your property.  These costs will be deducted directly from your clan bank
+account.
+
+&cExample Castle and prices:&n
+
+Initial Land:			       100,000
+Reinforced Door (w/ 1 key)		30,000
+2 extra keys				20,000
+2 level 30 guards			60,000
+1 Butler				10,000 (min)
+1 Fountain				10,000
+-----------------------------------------------
+Grand Total:			       230,000
+
+
+#
+CHANGE CHANGES
+
+Too many things have changed on Dark Pawns 2.2 for them to be listed here.
+When in doubt, try the help files. If you still can't find what you are
+looking for, typo it and we'll add it to help asap.
+#
+CITIZENSHIP
+
+You can buy citizenship in several cities in Dark Pawns for a small fee.
+Citizenship allows you to purchase a store within that city - you can
+only be a citizen of one city at a time.
+
+The "safe rooms" in the cities are generally the Temples or common 
+Meeting places of the city.
+
+See Also: HOMETOWNS STORE
+#
+CHARISMA WISDOM INTELLIGENCE STRENGTH DEXTERITY CONSTITUTION STATISTICS STATS
+
+Statistics affect more facets of the game than can be listed.
+Here's a short run-down of some of what they affect, and definitions.
+
+&cStrength:&n     Affects the amount of items you can carry, how hard you can
+              hit, and the number of hit points you gain per level.
+
+&cIntelligence:&n Affects the outcome of spell casting, and the number of mana
+              points you gain per level. It will also help to determine the
+              likelihood of a skill/spell group competency increasing.
+&cWisdom:&n       Affects your interaction with some of DP's creatures, and the
+              number of mana points you gain per level. It will also help to
+              determine the likelihood of a skill/spell group competency
+              increasing.
+&cDexterity:&n    Affects how often you hit, get hit and your movement points.
+&cConstitution:&n Affects the number of hit points you gain per level and the
+              rate at which they regenerate. Should your constitution reach 0,
+              your character will be unable to log on (ie. effectively
+              deleted)
+&cCharisma:&n     Affects how some creatures treat you (like shopkeepers), the
+              number of followers you can have and generally your hit, mana
+              and movement point gains.
+
+Don't let your statistics get below 0 because bad things can happen.
+You can see your current statistics with the ABILITIES command.
+
+See Also: ABILITIES "STRENGTH SPELL"
+#
+CLASS CLASSES
+
+Dark Pawns does not have a specific class system in which you choose the
+type of character you want. Instead, the idea of a "class" has been
+extended to be much more dynamic and user-determined. By learning
+different skill and spell groups, and choosing which abilities you
+want to focus on, you determine the type of character you will have and
+the skills you can use.
+
+See Also: LEARN
+#
+CLERK
+
+The city clerk is the hub of administration for the local area. He or she is
+capable of changing your citizenship, allocating shops, pardoning your racial
+hatreds and should be your first point of contact when starting out.
+
+With your letter of introduction, the clerk is capable of providing you
+with some basic equipment to get you on your way. Note that the letter of
+introduction can only be used by the character it was created for!
+
+See Also: CITIZENSHIP SHOP "RACE HATE"
+#
+CODE CODING
+
+The source code that runs Dark Pawns was originally based on CircleMUD
+version 3.0 beta (pl11).  It has evolved considerably since then, largely
+due to the efforts of the following people:
+
+		dkarnes   Derek L. Karnes    Serapis
+		stevet    Stephen Thompson   Orodreth
+		rparet    R. E. Paret        Frontline
+		mcooper	  Matt Cooper	     Doragar
+
+
+#
+COMBAT
+
+Combat is the very essence of Dark Pawns, when it is just the player or
+players against the mob in the field of battle.  To that end, most of
+the SPELLS and SKILLS in the game are designed to aid you in combat in some
+way.
+
+Combat on Dark Pawns takes the form of standard rounds. During each round,
+you have the opportunity to hit your opponent, and he or she has the
+opportunity to hit you.
+
+The time interval between your hits is defined as combat wait, and is a
+value based on the weight of items you carry over a specific threshold, and
+the type of weapon (or bare handed) that you wield. You may find that certain
+creatures hit you more often to every one of your hits - this would indicate
+that the mob has a lower combat wait than you do.
+
+You will be unable to use a skill, spell or weapon during this combat wait
+period. This means that if you are carrying a lot of items, and subsequently
+have a large combat wait, your decision to FLEE may take some time before it
+is executed!
+
+Combat is the chief way to gain experience, levels, and equipment on Dark Pawns.
+
+See Also: SKILLS SPELLS
+#
+COMPETENCY
+
+Your competency is reflected in the LEARN command, and represents your
+ability to use the skills and spells within a certain group. The higher
+your competency, the higher the chance your skill/spell will be
+successful when used.
+
+You can increase your competency by using the skills/spells within the
+group. However, there is a set group cap which limits how high your
+competency can go - as an example, you can't KICK your way to a 100%
+group competency when it's relatively low in the skill group.
+
+Your intelligence and wisdom also have a bearing on whether your
+competency will increase with time. If your intelligence and wisdom are
+low, don't expect competency to increase very much! There is also a
+fixed period of time after a skill or spell improves in which you
+can't improve it further - this prevents people from spamming a skill
+or spell to boost their competency.
+
+See Also: CAP LEARN "SKILL GROUPS" "SPELL GROUPS"
+#
+CORPSE
+
+A corpse is all that remains of a vanquished mob or player. Anything
+that the mob or player was wearing and holding will remain on the corpse
+until retrieved. After a certain period of time, a corpse will decay and
+any equipment contained on it will sit on the ground.
+
+Certain creatures within the realm will automatically loot items from
+you when you die. Should you be missing items when you return to the
+world, seek out the creature that killed you.
+
+Note that for players, only the player themselves may retrieve items from
+their own corpse - other players are prevented from doing so.
+
+See Also: DEATH RETRIEVE LOOT
+#
+COVERED COVER GLOW GLOWING HUM HUMMING
+
+If you see something in your EQUIPMENT list that has "covered" by it, it
+means just that: you have another piece of equipment covering it. (ie. 
+gloves cover rings on your fingers) People looking at you can't see items 
+that are covered.
+
+Humming and glowing equipment mean exactly what they say, too. The 
+equipment hums (makes a vibrating noise) or glows with a faint light 
+(not enough to see by, but enough to be seen in the dark).
+#
+CRAFT
+
+The craft of an object is a measure of how well it was constructed. Should
+you be killed in combat, there is a chance that the items you were wearing
+are BROKEN and subsequently cannot be used.
+
+Craft ranges from:
+  Flawless
+  Nearly Flawless
+  Exqusitely crafted
+  Finely crafted
+  Well crafted
+  Decently crafted
+  Shabbily crafted
+  Poorly crafted
+  Broken
+
+See Also: BROKEN REPAIR
+#
+DAMAGE "RACE HATE" "RACIAL HATRED" HATE HATRED
+
+Damage done with weapons is determined by the weapon itself, as well as any
+additional DAMROLL you posses. The higher your DAMROLL, the greater the
+weapon damage will be. Word of your exploits will soon reach all over the
+globe so if you continually kill creatures of a certain race, they will
+adopt an aggressive stance towards you and generally attack you on sight
+before you can get to them!
+
+See Also: DAMROLL
+#
+"DAMAGE DICE"
+
+Weapon damage is calculated by a "dice throw" which is completely transparent
+to you. The first figure is the number of dice thrown, and the second figure
+is the number of sides of the second dice.
+
+For example, a sword with damage dice of 3D4 would indicate 3 dice are thrown,
+each dice with 4 sides. This leads to a damage range of 0 to 12 points.
+
+See Also: APR
+#
+"DARK PAWNS"
+
+The very game you're playing now!
+#
+DIE DEATH CONDIE
+
+When you die, you come back into the game in the temple or your last BIND
+position. All equipment and gold remains in your corpse at the place you
+died. To retrieve your objects, go back to where you died and get them from
+your body. Alternatively, you could RETRIEVE your corpse from the Mortician. 
+
+Every time you die, you will not lose any experience but you will gain 1
+vitae point which reduces your character's abilities. If your constitution
+ever drops below 1, you will be dead forever. There are places within the game
+where vitae can be bought, rather than worked off in battle.
+
+See Also: BIND CONSTITUTION VITAE RETRIEVE 
+#
+"DEATH TRAP" DT DEATHTRAP
+
+A "death-trap" is a place in the world which upon entering you are instantly
+slain, loosing all equipment.  You do not lose EXP for dying, however you
+cannot RETRIEVE your corpse. Since hitting a death trap is considered one of
+the worst fates that can befall a player character, there are no death traps
+that are hidden or unmarked in Dark Pawns.
+
+See Also: EXP DEATH RETRIEVE
+#
+DEED
+
+A deed is an official document of ownership, in this case of one of the many
+stores available for player purchase. They can be obtained (at a price!) from
+the city clerk and USED in any Empty Store.
+
+If you USE the deed after a store has been set up, the store will be closed
+up and you can GIVE the deed back to the city clerk for a refund (minus a few
+book keeping costs).
+
+See Also: SHOP OWNER
+#
+DELETE
+
+If you wish to delete your character, you may do so from the main menu,
+which is displayed before entering the game.
+
+#
+DREAM DREAMS NIGHTMARE NIGHTMARES
+
+When you sleep on Dark Pawns, there is a good chance that you might DREAM.
+Most people in the world consider DREAMS to be harmless, but many mystics
+and oracles consider dreams to be very important, even prophetic.  DREAMS
+that occur in the Wyldlands are considered especially meaningful.
+
+It is rumored that in the magick-rich Wyldlands DREAMS have the power
+to physically effect the dreamer, in essence, the DREAMS become real.
+
+Some DREAMS are known to be savage and twisted in nature.  These DREAMS
+are normally referred to as NIGHTMARES, and like their counterpart DREAMS,
+are more intense in the Wyldlands.  Many adventurers report that their 
+NIGHTMARES are most intense after they have been recently reincarnated.
+
+See Also: SLEEP
+#
+DRUNK INTOXICATION
+
+The land of Dark Pawns has numerous taverns and inns from which you may
+purchase various forms of alcohol. While every adventurer sometimes needs
+a frosty mug of ale to unwind, be wary of consuming too much. Should you
+become intoxicated, your actions and speech will be severly affected and
+pity the fool who enters into combat!
+#
+DYE DYES
+
+Dyes have many uses, but the one of primary interest to you would be in
+the design of tattoos. You will need to find a number of ingredients
+and combine them to create a dye.
+
+See Also: ALCHEMY TATTOO
+#
+ENCUMBRANCE WEIGHT ENCUMBERANCE PTS
+
+Encumbrance is a three-dimensional assessment of mass, weight, and 
+occupied space. Basically it's an assessment of how difficult something
+is to carry around. i.e. 2-foot lead pole and a 10-foot wooden pole have
+about the same encumbrance; the lead due mostly to weight; the wooden due
+mostly to the awkward length.
+
+Encumbrance affects spell casting, and is measured in "points" for lack
+of a better unit. 
+#
+UNASSIGNED EXPERIENCE XP
+
+Whenever you kill a monster, you earn experience points.  When enough 
+experience points are earned, you raise a level.
+
+Things you should know about experience points:
+  * When in a group, the total experience is divided up amongst the
+    group members, dependant on each member's level.
+
+  * Dieing or fleeing from a battle does not decrease your experience points.
+
+  * Killing a creature 10 or more levels below your own will give you no
+    experience!
+
+Your character also possesses unassigned experience, which increases at the
+same rate as your experience. Unassigned experience is used to improve your
+character, such as learning a new skill or improving an ability.
+
+See Also: GROUP SCORE LEARN ABILITIES
+#
+EXHAUSTION EXHAUSTED TIRED FATIGUE
+
+Your character will expend movement points when travelling - should these
+reach 0, you will be unable to move further until they regenerate. You
+will also need to sleep, or you will suffer from physical exhaustion and
+be unable to carry out basic functions.
+
+See Also: MOVEMENT SLEEP
+#
+FAQ
+
+Be sure to read the board in your local Temple. It contains messages
+from other players and staff members on virtually any topic.
+
+You also are going to want to read HELP POLICY (for the rules)
+and HELP NEWBIE (for any "newbish" questions). Don't be afraid to
+ask others for assistance, but don't expect everything to be
+handed to you - you will need to show an ability to get along by
+yourself in order to work well in a group.
+
+******FAQ:(and the help files to read to find the answers)******
+(Words in CAPITALS means type HELP <word-in-capitals> to see the
+ help file)
+
+&cWhere do I start?&n
+  Your character will begin life in one of several larger cities. If you
+  are new to the game, you should spend some time in the city getting
+  familiar with the commands and game interaction.
+&cWhere can I go to get experience?&n
+  Larger cities, those with guards, do not look kindly upon their citizens
+  being slaughtered. As such, you'll need to explore beyond the city walls
+  to find creatures to kill - make use of the CONSIDER command.
+&cI've got nothing, I'm broke, hungry and thirsty!&n
+  You can CARVE food from your kills, and every city will have a source of
+  food (although you'll need to pay for it) and water. You should save your
+  gold to purchase better equipment from the stores within the city, or
+  make usual trips to the city donation room to pick up items that have
+  been left by others.
+&cHow can I find out what skills/spells I know?&n
+  LEARN. You will need to track down a TEACHER in order to acquire more
+  skills and spells, and will need EXPERIENCE to learn them.
+&cI didn't get a choice of class, what am I?&n
+  Dark Pawns does not have a distinct class system. The type of character
+  you wish to be should determine what skills and spells to learn - for
+  those that like the art of magic, you should seek TEACHERs who train
+  in spell groups as an example.
+&cIs there a way to automate things, such as looting corpses and gold?&n
+  AUTO
+&cHELP!! I'm lost!!&n
+  Typing RECALL will return you to the temple of your home city, unless
+  you BIND yourself to another location. This, however, will only work
+  while you are at a lower level - as your level progresses, you will
+  need to purchase recall scrolls.
+
+See Also: HELP
+#
+FLAGS DEAF WRITING MAILING
+
+Players sometimes have FLAGS after their names in the WHO list.  These
+flags are always in parentheses, not brackets or braces.
+
+  FLAG        MEANING
+  ----------- ---------------------------------------------------------
+  (CHOSEN)    Player is the Chosen of the Gods.
+  (invis)     Player is invisible; you can see him/her because you are
+              sensitive to the presence of invisible things.
+  (writing)   Player is writing on the board; do not disturb.
+  (mailing)   Player is writing mail; do not disturb.
+  (deaf)      Player has chosen not to hear shouts.
+  (notell)    Player has chosen not to accept tells.
+  (quest)     Player is participating in a quest currently being run by
+              the gods.
+  (AFK)       Player may be Away From the Keyboard and may not hear 
+              anything.
+  (OUTLAW)    Player is an OUTLAW.
+
+See Also: NOSHOUT NOTELL QUEST STEAL VISIBLE OUTLAW
+#
+FOOD
+
+As with all living creatures, your body will need food to function.
+Food within Dark Pawns comes from a variety of places, generally it
+can be purchased in one of the many shops within the realm. Failure
+to eat (and drink) will leave your character hungry (and thirsty).
+
+Food will degrade over time, to the point at which it will decay
+completely and you will be left with nothing.
+
+See Also: HUNGER THIRST
+#
+FORGE FORGER
+
+There are creatures within the realm who can forge weaponry and armor
+for your use, given the right tools and gold! Typing LIST in their
+presence will indicate what items can be created for you. Typing
+BUY <item> will have the item created and an amount of gold deducted.
+#
+GOD GODS
+
+The Gods of Dark Pawns are a mysterious lot, preferring to remain 
+obfuscated and mysterious to the mortal population.  It is known that 
+they do speak to some mortals, however.
+
+See Also: WIZLIST IMMLIST 
+#
+"GROUP POINTS"
+
+In order to learn new spell and skill groups, you need to earn GROUP
+POINTS which will occur at every 10 levels. These can be viewed under
+your SCORE.
+
+See Also: SCORE LEARN "SKILL GROUPS" "SPELL GROUPS"
+#
+HOMETOWN HOMETOWNS
+
+Your hometown is the city that you have residence in.  Being a citizen in
+your hometown entitles you to quit there for free.  Anyone can quit for 
+free in the Temple in the free city of Kir Drax'in.  Other hometowns may
+require you to pay a fee to become a citizen there.
+
+Your hometown is displayed in the SCORE listing. When you recall, you 
+will recall to your hometown. If you quit out in your hometown, you will
+start there, if you quit out someplace else (like in Kir Drax'in) you 
+will start there.
+
+See Also: RECALL "WORD OF RECALL"
+#
+HITROLL HR DAMROLL DR "SAVING SPELL" "SAVING THROW" THROW SAVING DODGEROLL
+
+Hitroll, Damroll, Dodgeroll and Saving Throws are some of the raw mechanics
+of Dark Pawns.  Combat consists of two main elements: the chance to hit, and
+the amount of damage done if a hit is successful. A few brief definitions:
+
+Hitroll:   A bonus chance of hitting someone during combat. This bonus is
+           applied to the attacker during a combat round.
+
+Dodgeroll: A bonus chance of avoiding a hit during combat. This bonus is
+           applied to the defender during a combat round.
+
+Damroll:   The amount of damage you do, in addition to the average per round
+           damage of your weapon.
+
+Saving Throws: How well your character is protected against certain
+               specialized attacks. A negative saving throw indicates better
+               protection for that attack.
+
+See Also: COMBAT                     
+#
+HUNGER THIRST HUNGRY THIRSTY
+
+Your character will need a constant supply of food and beverages if
+they are to survive. While not essential to play the game, hunger and
+thirst will reduce your character's ability to regenerate hit points,
+mana and movement. Things to eat and drink can be purchased from all
+of the major cities.
+
+See Also: EAT FOOD CARVE
+#
+IDENTIFY IDENTIFIER
+
+Most cities will have an identifier, a creature who will identify all types
+of equipment for a price. The result of the identification will depend on
+the type of equipment being identified. Some of the more common flags
+attached to items are described below:
+
+NOBITS     - There is nothing special about this item
+RNDLD_ZONE - The item randomly loads within a zone, so it may not appear in
+             the same place twice
+!RENT      - The item will not be saved with your character when you quit
+ENCHANT    - The item has been enchanted
+!PERSIST   - The item will not be saved during a mud reboot
+BROKEN     - The item is useless unless it can be repaired
+#
+INGREDIENTS
+
+Certain items within the Dark Pawns world will require ingredients in order
+for you to be able to make them. An example would be collecting reagents to
+make a specific potion, or plant life to make colored dyes.
+
+See Also: ALCHEMY MIX POTION
+#
+IMPLEMENTOR
+
+The most powerful being in existence.
+
+See Also: IMMLIST WIZLIST
+#
+INN INNS CRYOGENIC CRYO RECEPTION
+
+There is no rent on Dark Pawns, so you can quit at any point in the world
+and have your items saved. However, should you be unable to log onto the
+mud within a defined time frame, see HELP RENT, your items will be deleted
+automatically.
+
+To prevent this, a staff member can assign a CRYO flag to your character
+which protects your rent file. This is not given out lightly and you will
+need to explain your requirement for the flag.
+
+See Also: RENT HOMETOWN QUIT REALLYQUIT
+#
+JAIL GUARDS GUARD CITYGUARD
+
+City Law states that no violence is allowed within the confines of the city.
+Offenders are thrown in jail for a short period of time which increases as
+your level increases. Be warned that cityguards are given leeway to kill
+offenders in protection of their own lives, and of course are always to rid
+the city of WEREWOLVES and VAMPIRES.
+
+See Also: BRIBE WEREWOLF VAMPIRE
+#
+LINK LINKLESS
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+II. If your link jams (freezes), you have a problem.  The only solution 
+    We can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.
+#
+LOOT LOOTED
+
+Looting, or being looted, occurs when the items on a corpse are removed
+for personal gain by another. Looting of player corpses by other players
+is strictly prohibited, and harsh penalties will result for anyone found
+doing so.
+
+The creatures of the realm, however, are immune from such a thing and
+may loot items from you upon your death. Since such an event represents
+a huge loss, only the 3 most valuable items will be taken from you, the
+remainder will be left on your corpse where it fell.
+#
+MAGICK MAGIC
+
+Magick is defined as the energy field that surrounds the world, giving 
+it existence.  Mortals skilled in the magickal arts are able to manipulate
+this energy to their own benefit, either through sorcery, the violent magick
+of wizards, or through prayers to an idol or deity spirit, as clerics and
+avatars do.  The civilized world fears sorcery and sorcerers for their
+destructive powers, but they have no problem with religious magicks.  Thus,
+clerics and other religious powers dominate modern civilization's societal
+government.
+#
+HITPOINT HP MANA MOVE MOVEMENT
+
+These values represent your characters basic ability to function in the
+world of DP.
+
+Hit points relate to your character's health and well-being. The higher
+the number, the more damage you can take in battle and the healthier you
+are. When this value reaches 0 or below, your character has been killed.
+
+Mana is used when casting spells.  You must have a certain amount of mana
+in order to cast any particular spell.  If you do not have enough mana to
+cast the spell you must rest until you gain enough points to cast.
+
+Movement is used to travel anywhere within the realm. Travelling by your
+own means (ie. not mounted on an animal) will reduce your movement points
+based on the type of terrain you are travelling through. When your movement
+points are insufficient for the terrain, you be unable to travel any
+futher.
+
+See Also: REST SLEEP SPELLS MAGICK
+#
+MAP
+
+As there are several large cities within the Dark Pawns realm, it will be
+up to you to map them for yourself!
+#
+MOB MOBILE NPC MOBS
+
+Generic term for any Non-Playing Character in the game.. i.e. "monsters".
+#
+MOONGATE MOON
+
+There exists an extraordinary cosmic association between the gravity of 
+the moon and the delicate fabric of time and space. As though pulling the
+strings of some cosmic marionette, the moons cause radiant moongates to 
+appear on the land below. Step through one of these shimmering corridors 
+of light and you will be transported to a new time or place. Moongates 
+generally appear at locations where fragments of extraterrestrial rocks 
+called 'moonstones' have been buried. There are at least two types of 
+moongates -- blue and red.
+
+Blue moongates, generated by moonstones, generally focus on the 
+destinations in but a single world -- the world in which they appear.
+
+Red moongates, generated by the powerful Magi of the land, are summoned
+by magicks, and thus can be opened at any time, even during the day.
+
+See Also: TIME ENTER GATE
+#
+MULTI MULTIPLAYER
+
+You are limited to playing with 3 characters (refer to the POLICY) on
+Dark Pawns, although you can only have one character online at any one
+time.
+
+You should create characters with different skill and spell groupings,
+so that they can be used in differing situations - be it as a healer,
+or a fighter, or perhaps someone who masters in the art of stealth.
+#
+MUSHROOM
+
+Magic mushrooms are created with the "create food" spell. The mushroom
+given to new players at the start of the game is edible and not 
+poisonous.
+#
+NAME NAMES
+
+Character names MUST be fantasy oriented! If it is not, you run the risk
+of being deleted without reimbursement (an obvious example would be
+"Johnny" or "Timmy").
+
+If the staff feel your name is not fantasy oriented, but is not totally
+inappropriate, you will be asked to justify why you should keep it.
+#
+NEWBIE
+
+The term "Newbie" is mud slang for "Junior to the game", usually a character
+of low level or low experience. Use this time to learn the game, its commands
+and some basic mudding techniques (such as killing mobs to obtain eq, and then
+selling that eq for money).
+
+Refer to the Dark Pawns website for the FAQ and use the HELP command often.
+
+See Also: HELP
+#
+NOBITS
+
+The term "NOBITS" is mud slang for "Has no bits". What it means, 
+essentially, is that the item has no special affects to it. It
+doesn't do anything remarkable.
+
+#
+OUTLAW OUTLAWS
+
+All characters are created with the expectation that they will follow
+the social rules of any civilised world. However, you have the option
+of becoming an OUTLAW if you so wish, giving you ability to kill and
+steal from your fellow OUTLAWs (you will be unable to use your new
+found abilities on other players within Dark Pawns unless they have also
+chosen to become an outlaw).
+
+The choice to become an OUTLAW should not be made lightly, for you will
+be unable to return to non-outlaw status until a certain period of time
+has elapsed. Should you kill or steal from others, this time period will
+be extended automatically.
+
+Outlaws are generally not well liked and are known to be hunted and shunned
+by many. City guards are especially not fond of such people and will
+confine them to jail upon sight.
+
+See Also: PK PSTEAL
+#
+OWNER STORES
+
+Each major city is capable of supporting a number of player-owned stores,
+the number varying depending on the city size. Apart from the initial purchase
+cost, you will be responsible for monthly city taxes, staff wages (after
+all, you need someone to run the shop for you!) and 50000 gold coins to give
+to your shop keeper - no gold, no store!
+
+You have a choice on the type of store and the goods the store accepts will
+be based on this choice. You will be responsible for stocking the store with
+an initial amount of goods and also ensuring the store keeper has a sufficient
+amount of gold (both for purchasing goods from other players and paying the
+monthly tax).
+
+You will be warned if your store's gold drops below 20000 coins, and the store
+will be liquidated if it runs out of gold. (The goods within the store will
+also be sold off and the money put into the city coffers!)
+
+Simply visit the city's clerk to purchase a deed, locate an empty store and
+you're on your way to making a fortune! To alter the shop variables, use the
+SHOP command whilst in the store. You can set the following:
+
+  Opens at:    The time the shop will open (there are 28 hours in the day)
+  Closes at:   The time the shop will close
+  Buy rate:    Multiplied by an item's price, this will be the cost to the
+               purchaser. (Minus a small fee)
+  Sell rate:   Multiplied by an item's price, this will be the amount of
+               gold given to the seller. (Minus a small fee)
+  Item limit:  A limit of the number of items a shopkeep will buy
+
+See Also: DEED SHOP
+#
+PARCHMENT
+
+There are two distinct forms of parchment within Dark Pawns - one is a common
+variety that can be purchased in certain stores and can be written on to
+leave notes for your fellow players; the other is a scrolled parchment, that
+occassionally are carried by any number of creatures throughout the realm.
+
+These scrolled parchments, if used correctly, allow you to learn the spell
+that they provide. They should not be confused with scrolls, which are
+magical items that can cast a spell on you, an object or someone else.
+
+See Also: SPELLS SCROLLS
+#
+PARDON
+
+You can request a PARDON from one of the staff members to have your outlaw
+status revoked, but this will be used very infrequently given that you
+chose to become an outlaw!
+
+You can also buy a pardon from a city clerk, which will appease the first
+five races you've managed to accrue a racial hatred for. Simply specify the
+name of the hatred you wish to remove, or select ALL to have the first five
+removed.
+
+  > buy pardon ungulate
+    This will remove the racial hatred towards the Ungulate race
+
+  > buy pardon all
+    This will remove the first five of your racial hatreds
+
+See Also: CLERK "RACE HATE"
+#
+PASSWORD
+
+Your password is your "key" to the game...without it, you will not be
+able to access your account and subsequently your characters. You should
+choose a password that is both easy to remember, and difficult for others
+to guess. Ultimately, the security of your password is your responsibility.
+
+If something "bad" happens to one or all of your characters as a result of
+sharing your password, you will NOT be compensated. Be aware that auto-
+complete triggers that enter your password for you fall under this category.
+#
+PET PETS
+
+Pets are either ones you have purchased from a store, or creatures you have
+successfully charmed to do your bidding. If you leave your pet unattended
+for an extended period of time, they will wander off never to be seen
+again.
+
+See Also: CHARM
+#
+PK "PLAYER KILLING" PKILL PKILLING PKILLER
+
+Player killing is allowed on Dark Pawns but, as in life, there can be
+serious consequences to killing another intelligent being.
+
+In order to kill other players, you must elect to become an OUTLAW.
+Only OUTLAWs can hunt and kill other OUTLAWs. Werewolves and Vampires, 
+given their undead nature, can be staked by any player without the need
+for an OUTLAW flag.
+
+See Also: PSTEAL OUTLAW
+#
+POTION
+
+A potion is a magickal liquid that provides certain beneficial (or
+detrimental)effects when drunk. Potions are most commonly created with
+the alchemy skill but can be purchased in a store.
+
+See Also: ALCHEMY MIX
+#
+PROFANITY SWEARING
+
+Yes...most people do it...that doesn't mean you have to as well! The
+occassional slip is fine, but use profanity as every second word and
+you'll be MUTED for it.
+
+Work on your vocabulary, come up with something that doesn't require it!
+#
+PSTEAL "PLAYER STEALING" PSTEALING
+
+Stealing from other players is allowed on Dark Pawns.
+
+In order to steal from other players, you must elect to become an
+OUTLAW. Only OUTLAWs can steal from other OUTLAWs.
+
+You may NEVER junk equipment that you have stolen from other characters.
+Junking of stolen equipment represents an irreplacable loss to the
+character whose item it was.  If you junk equipment you steal, you will
+be removed from the game.
+
+Stealing items from other players corpses is prohibited and in most cases,
+you will phsyically be unable to do so.
+
+See Also: PK OUTLAW
+#
+PUDDLE PUDDLES
+
+Puddles are formations of liquid occurring from rain or other liquid 
+collecting in one spot. They dry up and disappear after a short time,
+or after their contents are consumed.
+#
+RACE RACES
+
+Race is a purely social construct.  It's all in your head, man.
+
+Kir- From the lowlands and plains of Aerth.  Of medium height and build,
+the Kir are adept fishers, hunters, and stonemasons, having built most of
+the great cities of the world.  The Kir are the most populous race of 
+humanoids in the world.
+
+Antali- From the harsh mountains of the north continent the majority of 
+these tall, rugged people live out a semi-nomadic lifestyle hunting 
+migratory prey across the vast frozen peaks and tundras of the North.
+Antali have a great sense of adventure, however, and can be found almost
+anywhere in the world.
+
+Xixian- Making up the majority of the humanoid population of Xix, the
+southern continent, the Xixian people are a short and lithe race who
+excel at seafaring and craftwork.  The majority of Xixians live on or
+near the shores of the southern continent, as the ocean plays a large
+part in their day-to-day lives. 
+
+Your race currently has no bearing on the game whatsoever.
+#
+REAGENT REAGENTS COMPONENTS COMPONENT
+
+Reagents (or spell components) are used to cast (or enhance the casting)
+of magickal spells. Some very powerful spells can only be perfected by 
+obtaining the correct components.
+
+The reagents necessary for spells can be found throughout the world, and 
+documentation on their use is in various scattered spell books. Reagents 
+for widely known spells can be found at Apothcaries in any major city.
+#
+REIMBURSE REIMBURSEMENT
+
+If you lose your equipment as a result of a crash or other game
+error, a god will most likely reimburse you.  To get a reimbursement,
+simple put something along the lines of "needs to Talk to a God" in
+your TITLE.
+
+Creature positions and item locations are now saved regularly so that
+in the event of a crash, your items will be where you left them. This
+means that if you died in the wilderness and a crash occurs, you will
+need to run out and retrieve them.
+
+In extreme circumstances, items may not save and you will be given
+a reimbursement provided you can prove the item was yours to begin
+with. This often involves another player acting as a witness - note
+that severe penalties will result from attempted cheating.
+
+See Also: POLICY
+#
+REPAIR
+
+Those items BROKEN in combat can be repaired by certain blacksmiths
+throughout the world, namely those found in major cities. This service
+will cost you gold and the repaired object will have one level of craft
+lower than it did previously. (ie. items will eventually become unrepairable)
+
+See Also: BROKEN CRAFT
+#
+REQUIRE REQUIREMENT REQUIREMENTS
+
+Every player has the natural ability to wield a weapon, regardless of its
+type. However, some of the more advanced weapons within the game have a
+skill requirement attached - this skill requirement can be determined by
+having the weapon identified.
+
+In order to use these higher-skill weapons, you must learn the appropriate
+levels of the associated skill/spell groups. Each level of the group
+corresponds to a level of proficiency with weapons.
+
+The WEAPONRY group allows a character to wield all weapons, except for
+staves. These can only be wielded by those who study spell-casting groups.
+The STEALTH group will allow a character to wield daggers.
+
+For example, a weapon with the requirement of 2 in SWORD will require you to
+learn at least level 2 of the WEAPONRY skill group in order to wield it. A
+staff with the requirement of 3 in STAFF will require you to learn at least
+level 3 in any of the spell-casting groups.
+
+See Also: WEAPONRY STEALTH IDENTIFY WIELD
+#
+"ROLE PLAYING" RP ROLE
+
+Role playing essentially involves acting out the part of the character you
+have created in all facets of their life, be it the type of people they
+group with, the skills and spells they learn, their speech, etc.
+
+While role playing is encouraged, it is not compulsory. If you take role
+playing too far, you can also expect consequences as in real life. As an
+example, you may choose to be a solitary warrior who kills everyone he
+meets - however, your fellow players and the local citizens won't take
+kindly to this and you can expect to be shunned and perhaps even hunted
+down and killed for your actions!
+#
+RULES
+
+No one document can clearly and adequately cover all of the rules associated
+with Dark Pawns. However, you should be very familiar with the policy which
+lays out clear indiscretions and associated punishments. No excuse will be
+accepted if a component of the policy has been violated.
+
+See Also: POLICY
+#
+SCAVENGE
+
+Certain creatures throughout the realm have been known to take items left
+lieing on the ground. Should you carelessly leave these items behind, or
+if you fail to retrieve your corpse before it can decay, there's a good
+chance your equipment will end up scattered around the world.
+
+See Also: CORPSE RETRIEVE
+#
+SHOP SHOPS
+
+Shops are places where the adventurer may purchase equipment for his 
+quests, and where he may sell his treasure if he should manage to survive
+the perils with his life and sanity intact.  Many shops trade only in a
+specific type of merchandise.  Thus, a baker may well refuse to buy your
+armor, even if it is of high quality!
+
+To some people, the prospect of obtaining the entire inventory of a shop
+by murdering the keeper may appear tempting - but beware: The shopkeepers
+are often rugged, capable men; roughened by years of trading and, indeed,
+surviving in a world where the only safe prospect is death in the end.
+
+Each major city will have several empty stores which a player may buy
+and open as their own. It will then be up to the player to initially stock
+and maintain the inventory for the store. A monthly tax is collected by
+city officials but any profit is left to the player.  Typing SHOP in your
+store will display a number of variables which you can set, or allow you
+to retrieve gold from your shop keeper.
+
+See Also: BUY SELL LIST VALUE OWNER
+#
+"SKILL GROUPS" "GROUP SKILLS"
+
+The skills of Dark Pawns fall into four distinct categories. They are:
+Stealth, Field Craft, Hand to Hand and Weaponry. Once you are familiar
+with the skill group, and reach the required level of knowledge, you
+will automatically be able to use the skills within it.
+
+See Also: TEACHER LEARN
+#
+SOMEONE
+
+When you see something like:
+
+Someone gossips, 'Anyone want to group?'.
+
+or
+
+Someone says, 'Hey there!'.
+
+This means that the person that is speaking is INVISIBLE to you, you 
+cannot see them for whatever reason.
+
+#
+SPAM SPAMMING
+
+Spam can be defined in numerous ways and there are many interpretations of it.
+In relation to this game, spam can be classed as follows:
+  * The repetition of an action or phrase (eg. gossiping "Hello" 20 times)
+  * The manipulation of multiple objects as a result of an alias or trigger
+
+While this second class is generally permitted, it does annoy your fellow
+players and you may be asked to go somewhere quiet to complete it. If you
+consistently spam, your ability to speak or move (depending on the situation)
+may be removed.
+
+If you witness spamming, ask the individual to stop. If they refuse or
+continue, report the matter to a member of staff. Please log the event in
+case a staff member is not present.
+
+See Also: ALIAS TRIGGERS
+#
+SPAWN RESPAWN
+
+In order to keep the gameflow progressing, areas within the realm will
+respawn at certain time intervals. That is, the creatures within it will
+be reborn, items will be restocked (within limits), and doors/chests will
+be closed and locked - all as if no one had been there before!
+#
+SPELL SPELLS
+
+Spells fall into several descriptive categories based on their effects.
+Damage, duration and effectiveness depends on a number of factors, from
+caster's level, to victim's saving throw. See help on the individual
+spell names for more information.
+
+The spells themselves must be learned from the written word, usually in
+the form of old parchaments carried by any number of creatures within
+the realm. Note that teachers cannot teach you the spells themselves,
+you need to find the parchaments. You MUST have learned the spell group
+prior to using the parchament, or it will be wasted.
+
+You must be in possession of (and holding) a wand of some description in
+order to cast a spell.
+
+See Also: CAST MAGICK LEARN "SPELL GROUPS"
+#
+"SPELL GROUPS"
+
+The spells of Dark Pawns fall into nine distinct categories. They are:
+Rejuvenation, Protection, Malediction, Environmental, Astral, Detection,
+Psychic, Necromancy and Utility. You must seek out teachers who can
+impart the knowledge of these spell groups to you prior to physically
+learning the spells themselves.
+
+See Also: SPELLS TEACHER LEARN
+#
+TANK
+
+The tank is defined as "the person being hit by the person you are 
+fighting."
+
+See Also: COMBAT
+#
+TATTOO TATTOOS
+
+Tattoos are available from tattooists in most major cities, plus various
+traveling magi knowledgeable of the art. Some tattoos give a bonus to
+statistics, other give you spell effects. Tattoos are permanent until you
+die, or are removed by a god (via a quest).
+
+Due to the magickal nature of tattoos, only one tattoo can be worn at a 
+time.
+
+You will require a tattoo design and anywhere from one to three dyes in
+order to get a tattoo. LIST will display available tattoos (based on
+which designs you carry) and the cost for each. BUY <tattoo number> <colors>
+will start the (rather painful) process.
+
+Every tattoo design will apply a type of bonus, while each dye applies a
+specific effect to the tattoo design, not all of which are beneficial!
+Tattoo designs can be found scattered through the world in the form of
+runes, while dyes are something you'll need to make for yourself.
+
+See Also: ALCHEMY
+#
+TICK
+
+A tick is a measure of time used by the game to keep things moving along,
+such as the movement of the NPCs, the rising and setting of the suns,
+the progress of weather, etc.
+
+There are a few different ticks used in the game, but the two that would
+interest a player are every 60 seconds, and every 4 minutes. 
+#
+TITAN
+
+These beings have moved beyond mere immortality, and into godhood...
+
+See Also: WIZLIST IMMLIST GODS
+#
+TOWN
+
+The realm of Dark Pawns contains a number of towns which can provide any
+number of services, from a weaponsmith to a stable for your horse. You may
+only be a citizen of one town at a time.
+
+See Also: CITIZENSHIP
+#
+TRIGGER TRIGGERS
+
+A trigger is an automated response to a certain output from the mud. Triggers
+are not a part of the mud itself and are dependant upon your mud client. Be
+careful about the triggers you use - spamming will not be tolerated and
+could ultimately result in the deletion of your character if it continues.
+Refer to your mud client documentaton or speak to fellow players if you wish
+to develop triggers.
+
+See Also: SPAM
+#
+TWINK
+
+Twink is a state of mind.
+
+See Also: PAW
+#
+VAMPIRISM VAMPIRE VAMPIRES
+
+Notorious for their sharp fangs and aversion to wooden STAKEs and garlic,
+vampires are night creatures that live off of the blood of others.
+
+Any race can become a vampire, either by certain dark incantations or 
+(more commonly) the bite of another vampire.
+
+Vampires can be killed just like any other creature (by depleting their 
+hit-points) or by being staked. A wooden stake through the heart of a 
+vampire is a sure-fire death, albeit a risky one... Vampires usually 
+don't take kindly to failed attempts at staking them.  A successful
+stake removes all vestiges of vampirism from the player when 
+they re-enter the game.
+
+Vampires can TRANSFORM at night to assume their vampiric form... gaining
+a substantial amount (up to 2 times normal!) of mana points, based on the
+phase of the moon. (New moon being the weakest gain, full moon being the largest.)
+At dawn, the vampire can transform back to their normal shape.
+
+While in vampire form, vampires can BITE a victim to drink their blood, 
+or pass on their vampirism. Biting while fighting does damage, otherwise
+it only causes damage if you fail to bite successfully. A vampire's 
+hunger and thirst at night can only be sated by blood.
+
+See Also: STAKE TRANSFORM BITE TIME
+
+#
+LYCANTHROPY WEREWOLF WEREWOLVES LYCANTHROPE
+
+Werewolves (also known as lycanthropes) are part man and part wolf, known
+for their excessive appetites and superior strength.
+
+Werewolves are created by the darkest of magicks, or (more commonly) the
+BITE of another werewolf. Lycanthropy is almost like a disease, spreading
+through populations and transforming them entirely into werewolves who 
+soon crowd themselves into extinction by devouring the available food 
+supply -- and each other.
+
+Lycanthropes can harness the power of the moon, TRANSFORMing at night to 
+assume their werewolf form. Based on the phase of the moon, the werewolf
+gains up to two times normal hitpoints (Quarter moon being the smallest 
+gain, full moon being the largest.) Werewolves can not transform if there 
+is no moon in the sky (i.e. in the new moon phase).
+
+Although they can be killed like any other creature (by depleting their 
+hitpoints), the quickest way to kill one is with a silver SPIKE through 
+the chest. A successful spike removes all vestiges of lycanthropy from 
+the player when they re-enter the game.
+
+Werewolves have an increased metabolism (get hungry more often than normal
+mortals) but can eat corpses, even though it's not a pretty sight.
+
+Werewolves are forced to TRANSFORM during full moons.
+
+See Also: SPIKE TRANSFORM BITE TIME
+#
+SKILLS
+
+Your character can naturally do several things when first created, such as
+wield a sword or fight hand-to-hand. Some of the more complex skills must
+be taught and you should seek out one of the many teachers within the land
+to train you and increase your abilities.
+
+See Also: LEARN TEACHER
+#
+TEACHER TEACHERS
+
+These are creatures within the realm who are willing to improve your
+character's abilities. Their services are not free and they can be found
+in any major city. Some of the more rare abilities can only be taught by
+the best teachers, and these creatures tend to live in seclusion or roam
+the land.
+
+See Also: LEARN
+#
+VITAE
+
+Your vitae is essentially your life force. Each time you die, you lose some
+of that life force which is represented by vitae points - each vitae point
+you accrue deducts from your character's overall ability. That is, you will
+lose one point from each of your abilities. Vitae experience is the amount
+of experience required in order to reduce your vitae point total.
+
+Note: Your experience will continue to increase even though you may have
+vitae points, but you will not be able to advance in level until all of
+your vitae points have been cleared.
+
+Should you die enough times in a short period of time, your vitae points
+will increase to the point where your character will lose all ability and
+subsequently may permanently die.
+
+See Also: DEATH CONSTITUTION
+#
+WEAPON WEAPONS
+
+Weapons in Dark Pawns have been sub-divided into 7 generic types: sword,
+axe, staff, spear, mace, dagger and whip. These subtypes refer to the
+weapon design (eg. a small, sharp blade will most likely be a dagger).
+
+When you identify a weapon, you will be shown the damage dice and average
+per round damage. Generally, the more expensive a weapon, the better these
+statistics will be.
+
+Note: Some of the magickal races you meet will be unharmed by conventional
+weapons. You must find a weapon flagged as MAGIC in order to kill these
+creatures.
+
+See Also: "DAMAGE DICE" APR IDENTIFY
+#
+LEG LEGEND LEGENDS
+
+These are gods that have contributed a lot to the world that is Dark Pawns.
+They have decided, for whatever reason, to move onto new and better things.
+
+Respect them, because the rest of the Pantheon does.
+#
+CIRCLEMUD 
+
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember  
+them all, I'd like to extend special thanks to certain people:
+
+  -- Gekke Eekhoorn, Jeff Fink, Chris Epler, Eric Green, and Chris Herringshaw,
+     and Stefan Wasilewski for extensive beta-testing, bug reporting, and code
+     submissions for Circle 3.0.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Jean-Jack Riethoven, for porting the code to the Amiga.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions for Circle 2.x.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being  
+     there in the very early days of Circle's development.
+  -- Bill Bogstad and Tim Stearns, for allowing Circle to exist at JHU CS.
+   
+...plus everyone else in the Circle community who has submitted code, areas,
+utilities, suggestions, and otherwise supported CircleMUD in one way or
+another.  I absolutely couldn't (and wouldn't) do this if it wasn't for all
+of your help.  Thanks everyone!
+  
+ Anonymous FTP:  ftp.cs.jhu.edu:/pub/CircleMUD
+Author's Email:  jelson@jhu.edu 
+           URL:  http://www.cs.jhu.edu/~jelson/circle.html
+  Mailing List:  circle@pvv.unit.no
+
+Type 'credits' to see the DikuMUD credits.
+#
+CREDITS
+
+The 'credits' command lists the DikuMUD credits.
+
+For CircleMUD credits, type 'help circlemud'.
+
+For Dark Pawns-specific credits, type 'help darkpawns'.
+
+#
+DARKPAWNS "DARK PAWNS" DP
+ ------------------------------------------------------------------------------
+                   D  A  R  K     P  A  W  N  S    3  .  0
+
+Dark Pawns version 3.0 is the result of over eight years of work by many 
+talented people.  The current developer wishes to express his gratitude to
+all of those who have supported him in his development of Dark Pawns, as well
+those who laid the groundwork for his current work.
+
+Pre Version 2.0 Credits:
+
+Conceived, masterminded, and skillfully developed by Derek L. Karnes (Serapis). 
+World design and conception by Oddity.
+Thank you to Bhang, Hardcase, Farthammer, Raven, Commax, Scythe, Skarash,
+Skullcrusher, Grimmy, and Daniel Muller for their code, ideas, time, areas and 
+general coolness.
+A special thank you to Nimos for his fantastic areas and insight into mud design.
+
+Post Version 2.0 and Beyond:
+
+Conception, Design, and Code
+R.E. Paret (Frontline)
+
+Admin Support, Tech Support, Personal Support, and Code
+S. Thompson (Orodreth)
+
+World Design and Implementation
+R. "Tarrant" Martin (Aralius)
+
+Player Administration and Game Theory
+H. Beckmann (Hulk)
+
+
+Thank you to Delirium, the Dark Pawns playtest crew, Derek Karnes for trusting me 
+with his game, the players for sticking with us through downtime and server changes,
+Oro for keeping the box up and running and generally being a cool guy, Ara for running
+the areas aspect of the game so smoothly that I don't have to worry about it (much), 
+Emily for emotional support, Kate for understanding, and last but not least...
+
+Dark Pawns was originally based on CircleMUD 3.0 beta patch-level 09, developed 
+by Jeremy Elson.  Without Jeremy and the fine example his code was to build on, 
+Dark Pawns would never have existed. Thank you very much, Jeremy.
+
+
+See Also: CODE WIZLIST IMMLIST
+#
+$

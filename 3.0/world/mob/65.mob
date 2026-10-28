@@ -1,0 +1,109 @@
+#6500
+giant scorpion~
+a giant scorpion~
+A giant scorpion appears from beneath the sand.
+~
+Rather like the typical desert scorpions, this poisonous insect sports a huge
+stinger that rises high above its body.
+~
+dqsuz f 0 E
+36 61 36d8+648 4d5
+0 10800
+8 8 1
+BareHandAttack: 1
+Race: 23
+E
+#6501
+raider desert thief~
+the desert raider~
+A roguish raider of the desert stands here, watching you carefully.
+~
+Unshaven and foul-smelling, this raider appears to have recently robbed
+a small caravan.  His clothes are new, obviously stolen, and the glass
+dagger at his side has obviously never been used.
+~
+dghu kst -300 E
+39 67 39d8+730 4d5
+20 12177
+8 8 1
+Race: 1
+E
+#6502
+desert cobra~
+the desert cobra~
+A desert cobra slithers here, leaving a path in the sand.
+~
+The weakest and smallest of the desert snakes, this yard-long viper
+slithers along the hot sands, absorbing much of the heat through its
+yellowish scales.
+~
+dfghu fk 0 E
+24 38 24d8+352 3d5
+0 5878
+8 8 2
+BareHandAttack: 4
+Race: 29
+Script: snake.lua 256
+E
+#6503
+desert hawk~
+the desert hawk~
+A banded hawk soars above you, oblivious to the heat.
+~
+Bright yellow bands stripe this desert hawk which scans the sand for a 
+morsel of food.
+~
+dghqu pA 0 E
+15 22 15d8+174 3d4
+0 2904
+8 8 2
+BareHandAttack: 8
+Race: 9
+Noise: You can hear the cry of a desert bird.
+E
+#6504
+dust devil~
+the dust devil~
+A dust devil spins in the desert winds here.
+~
+This appears to be little more than a man-sized whirlwind of desert sand
+that twirls about the desert.
+~
+degnpqru dfpA 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#6505
+trader caravan~
+the caravan trader~
+A trader stands beside a cart here.
+~
+Weathered and with tan skin, this middle-aged woman looks hearty and
+regal as she checks her goods for damage from the wind and sand.
+~
+cdz k 100 E
+27 44 27d8+420 3d5
+50 7014
+8 8 2
+Race: 1
+Noise: You can hear the crunching of sand under wooden wheels.
+E
+#6506
+desert bandit~
+a desert bandit~
+A desert bandit appears from nowhere and attacks!
+~
+The bandit appeared almost of thin air, his clothing allowing him to blend
+into the background quite effectively. His sole purpose is to kill people
+passing along the road, taking their gold and valuables.
+~
+dfnpsx dfkst -600 E
+26 42 26d8+397 3d5
+20 6628
+8 8 1
+Race: 1
+E
+$

@@ -1,0 +1,342 @@
+CircleMUD v3.0 Shop File~
+#4814~
+4828
+4827
+8036
+-1
+1.25
+0.75
+3
+2
+4
+16parchment
+6
+-1
+%s So sorry, I have nothing such as that.~
+%s Do return when you have this item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s You have no coins for this.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+4809
+None~
+0
+4814
+-1
+2
+23
+0
+0
+150
+#4832~
+4812
+4813
+4814
+4824
+4823
+4825
+4826
+-1
+1.05
+0.40
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+4811
+None~
+0
+4832
+-1
+0
+24
+0
+0
+0
+#4853~
+4809
+4810
+4811
+-1
+1.40
+0.05
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+4819
+None~
+0
+4853
+-1
+2
+23
+0
+0
+0
+#4864~
+1253
+1254
+1257
+1258
+-1
+1.20
+0.30
+10
+12reagent
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+4820
+None~
+0
+4864
+-1
+2
+23
+0
+0
+150
+#4867~
+4805
+4806
+4807
+4808
+4846
+4847
+-1
+1.25
+0.75
+9
+11
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+4822
+None~
+0
+4867
+-1
+2
+23
+0
+0
+300
+#4870~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+4870
+-1
+0
+24
+0
+0
+0
+#4871~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+4871
+-1
+0
+24
+0
+0
+0
+#4872~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+4872
+-1
+0
+24
+0
+0
+0
+#4873~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+4873
+-1
+0
+24
+0
+0
+0
+#4874~
+4800
+4801
+4804
+4802
+4803
+-1
+1.20
+0.75
+5
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s That'll be %d coins, thanks.~
+%s I can offer you %d coins for that.~
+0
+b
+4824
+None~
+0
+4874
+-1
+2
+23
+0
+0
+300
+#4884~
+-1
+1.20
+0.40
+11silk silken
+12silk silken
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+4826
+None~
+0
+4884
+-1
+2
+23
+0
+0
+50
+#4894~
+4819
+4820
+4821
+4822
+1207
+1208
+8027
+8005
+6
+-1
+1.10
+0.75
+12
+15
+1
+-1
+%s So sorry, I have nothing such as that.~
+%s Please return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+4828
+None~
+0
+4894
+-1
+2
+23
+0
+0
+150
+$~

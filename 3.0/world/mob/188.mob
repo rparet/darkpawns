@@ -1,0 +1,647 @@
+#18801
+citizen paultinian~
+a Paultinian~
+A finely dressed male citizen of Paultin casually strolls past.
+~
+A Paultinian citizen strolls by seemingly in deep thought.
+~
+72 0 0 0 0 0 0 0 900 E
+5 15 5 5d5+60 2d4+2
+5 900
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#18802
+Atoll~
+Atoll~
+Atoll the armorer.
+~
+A incredibly muscular man stands before you bending iron with his bare hands
+~
+188506 0 0 0 56 0 0 0 0 E
+35 -15 -25 1d1+30000 23d4+23
+20000 360000
+8 8 1
+BareHandAttack: 5
+Race: 0
+E
+#18803
+Ellise~
+Ellise~
+Ellise sharpens her dagger as you stare intensely at her remarkable beauty.
+~
+An muscularly tone elven woman sharpens a well crafted razor sharp dagger.
+~
+254042 0 0 0 135192 0 0 0 900 E
+32 -12 -22 1d3+27000 21d4+21
+20000 120000
+8 8 2
+BareHandAttack: 11
+Race: 1
+E
+#18804
+Sabo waiter~
+Sabo~
+A waiter stands before you. "I am Sabo, I will be your waiter."
+~
+An elf dressed in a black waiter's uniform rushes around taking customer's
+orders for wine.
+~
+188490 0 0 0 4096 0 0 0 900 E
+25 -5 -15 25d5+6000 16d4+16
+0 37500
+8 8 1
+BareHandAttack: 13
+Race: 1
+E
+#18805
+Killian~
+Killian~
+You are greeted with a warm smile, by a man whose nametag reads Killian.
+~
+A man greeting new customers and heartily shakeing the hands of old customers.
+~
+254026 0 0 0 4 0 0 0 0 E
+15 5 -5 15d5+3000 10d4+10
+0 14000
+8 8 1
+Race: 0
+E
+#18806
+kay~
+Kay~
+The shop attendent, Kay, stands ready to help.
+~
+A lovely human woman stands whatching you.
+~
+254042 0 0 0 0 0 0 0 900 E
+32 -12 -22 32d5+20000 21d4+21
+11000 120000
+8 8 2
+Race: 0
+E
+#18807
+plump man~
+a plump man~
+You see a plump man singing as he slices bread. 
+~
+A rather large man covered in flour, from baking bread all day.
+~
+254042 0 0 0 4096 0 0 0 0 E
+36 -16 -26 1d1+22000 24d4+24
+5000 363000
+8 8 1
+BareHandAttack: 7
+Race: 0
+E
+#18808
+Flora~
+Flora~
+Flora the flower girl stands with flowers in her hair.
+~
+You see a cute middle-aged woman standing weaving flowers in her hair.
+~
+254042 0 0 0 0 0 0 0 0 E
+32 -12 -22 32d5+20000 21d4+21
+1000 120000
+8 8 2
+BareHandAttack: 4
+Race: 0
+E
+#18809
+Fauna~
+Fauna~
+An aborable little elven girl runs around saying, "hi I'm Fauna."
+~
+A little elven girl in a flowery white dress blows kisses at you.
+~
+254046 0 0 0 4276 0 0 0 900 E
+20 0 -10 20d5+5000 13d4+13
+0 25000
+8 8 2
+BareHandAttack: 4
+Race: 1
+E
+#18810
+Attendent~
+attendent~
+A jewelry attendent stands here polishing jewelry
+~
+You see a handsome older gentleman.
+~
+254042 0 0 0 56 0 0 0 0 E
+24 -4 -14 24d5+20300 16d4+16
+10000 35000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#18811
+horace bishop archbishop~
+Horace~
+The archbishop Horace stand with his hands raised to the sky, praying.
+~
+A man in finely made robes stands in prayer.
+~
+256090 0 0 0 135356 0 0 0 900 E
+30 -10 -20 30d5+25000 20d4+20
+0 60000
+8 8 1
+BareHandAttack: 7
+Race: 0
+E
+#18812
+acolyte~
+an acolyte~
+A finely dressed male acolyte walks passed, deep in prayed.
+~
+A man with fine purple and black robes walks past, chanting.
+~
+2072 0 0 0 4148 0 0 0 900 E
+14 6 -4 14d5+120 9d4+9
+20 12000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#18813
+acolyte~
+an acolyte~
+A female elven acolyte seems to float as she passes by.
+~
+A beutiful female elf dresses in purple and black robes is deep in prayer.
+~
+8 0 0 0 0 0 0 0 0 E
+13 7 -3 13d5+120 8d4+8
+19 10500
+8 8 2
+Race: 1
+E
+#18814
+guard~
+a city guard~
+A Paultinian City gaurd stands ready to keep the peace.
+~
+A fully armed guard stands here, he notices you are looking at him.
+~
+14408 0 0 0 32 0 0 0 900 E
+19 1 -9 19d5+500 12d4+12
+0 22500
+8 8 1
+BareHandAttack: 9
+Race: 0
+E
+#18815
+dwarf woman~
+a dwarf~
+You see a small dwarven woman, smiling as she passes by.
+~
+A dwarven woman passes by she sees you and waves happily.
+~
+40968 0 0 0 0 0 0 0 900 E
+5 15 5 5d5+70 2d4+2
+7 900
+8 8 2
+BareHandAttack: 5
+Race: 2
+E
+#18816
+worker male dwarf~
+a construction worker~
+A dwarven construction worker mutters something as he passes by.
+~
+A dwarf passes by.  As you watch him you can tell he is counting his steps.
+~
+2060 0 0 0 0 0 0 0 800 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 1
+BareHandAttack: 5
+Race: 2
+E
+#18817
+child kender~
+a child~
+You see a small female kender child playing with a doll.
+~
+This child seem to be talking to her doll about you.
+~
+220 0 0 0 0 0 0 0 -100 E
+3 17 7 3d5+40 1d4+1
+2 350
+8 8 2
+BareHandAttack: 1
+Race: 3
+E
+#18818
+warrior kender~
+a Paultinian warrior~
+You see a kender warrior, dressed in the colors of Paultin.
+~
+This kender is armed and dressed in the colors of the Paultin army.
+~
+10248 0 0 0 36 0 0 0 900 E
+10 10 0 10d5+150 5d4+5
+7 6000
+8 8 1
+BareHandAttack: 3
+Race: 3
+E
+#18819
+merchant~
+a Paultinian merchant~
+You see a richly dressed merchant standing with his hands in his pockets.
+~
+As you look closer you notice he is shaking change in his pockets.
+~
+88 0 0 0 0 0 0 0 100 E
+12 8 -2 12d5+130 8d4+8
+20 9000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#18820
+man~
+an elven man~
+A handsome elven man stands here.
+~
+An elf dressed in billowy clothing is enjoying the sights of the city.
+~
+8200 0 0 0 0 0 0 0 900 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 1
+BareHandAttack: 13
+Race: 1
+E
+#18821
+minister joral~
+Finance minister Joral~
+Finance minister Joral sits to Talkins right.
+~
+Joral is finely dressed and is quite handsome.
+~
+254042 0 0 0 0 0 0 0 900 E
+19 1 -9 19d5+200 12d4+12
+0 22500
+6 6 1
+Race: 0
+E
+#18822
+Talkin governor~
+Governor Talkin~
+Governor Talkin sits at the head of the table addressing his ministers.
+~
+Looking at Talkin you are amazed by how much power one man can possess.
+~
+254042 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+6 6 1
+Race: 0
+E
+#18823
+minister valoris~
+Defense minister Valoris~
+Defense minister Valoris sits to Talkins left.
+~
+Valoris although beautiful looks to be a battle hardened female elf.
+~
+256090 0 0 0 4140 0 0 0 900 E
+30 -10 -20 30d5+3000 20d4+20
+0 60000
+6 6 2
+BareHandAttack: 2
+Race: 1
+E
+#18824
+guard~
+a Governmental guard~
+This guard allways remains on the left side of the governor.
+~
+If someone could survive combat with this guard you would be surprised.
+~
+258138 0 0 0 4276 0 0 0 900 E
+40 -20 -20 1d1+30000 26d4+26
+0 400000
+8 8 0
+BareHandAttack: 6
+Race: 25
+E
+#18825
+guard~
+a Governmental guard~
+This guard allways remains on the right side of the governor.
+~
+If someone could survive combat with this guard you would be surprised.
+~
+260186 0 0 0 4268 0 0 0 900 E
+40 -20 -30 1d1+30000 26d4+26
+0 400000
+8 8 0
+BareHandAttack: 6
+Race: 25
+E
+#18826
+attendent~
+an attendent~
+An attendent is here busy with her paperwork.
+~
+a beautifully dressed young lady toils over paperwork as you watch.
+~
+74 0 0 0 0 0 0 0 900 E
+10 10 0 10d5+110 5d4+5
+0 6000
+6 6 2
+BareHandAttack: 4
+Race: 0
+E
+#18827
+fisherman~
+a fisherman~
+A sunburnt fisherman walks past you.
+~
+This man's dress and burnt skin can only mean he just came back from sea.
+~
+72 0 0 0 0 0 0 0 200 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 1
+BareHandAttack: 10
+Race: 0
+E
+#18828
+ashel~
+Ashel~
+Ashel the bartender is wiping the bar.
+~
+You see a gruff looking elf.  One of his ears appears to have been mauled.
+~
+254030 0 0 0 4124 0 0 0 200 E
+25 -5 -15 25d5+15000 16d4+16
+0 37500
+8 8 1
+BareHandAttack: 13
+Race: 1
+E
+#18829
+ventris~
+Ventris~
+Ventris the shopkeeper stands here.
+~
+A well dressed elf stands before you.
+~
+254026 0 0 0 0 0 0 0 600 E
+25 -5 -15 25d5+14000 16d4+16
+2000 37500
+8 8 1
+Race: 1
+E
+#18830
+ranger~
+a Paultinian ranger~
+An elven ranger, dressed in the colors of Paultin, stands here.
+~
+You see an elven ranger.  As you stare she begins to blend into her 
+suroundings almost becoming invisible.
+~
+10268 0 0 0 524288 0 0 0 900 E
+15 5 -5 15d5+160 10d5+10
+20 14000
+8 8 2
+Race: 1
+E
+#18831
+member caravan~
+a caravan member~
+A member of a caravan group looks to the horizon.
+~
+A man in foreign dress stares to the horizon, then studies his map.
+~
+140 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 1
+Race: 0
+E
+#18832
+jim jim'har~
+Jim'har~
+Jim'har the caravan leader says, "I Jim, have tattoos."
+~
+A finely dressed man stands before you.
+~
+254030 0 0 0 60 0 0 0 -100 E
+28 -8 -18 28d5+20000 18d4+18
+10000 50000
+8 8 1
+BareHandAttack: 5
+Race: 27
+E
+#18833
+victory~
+Victory~
+Hi, I'm Victory.  I'd love if you would buy 'something' from me.
+~
+She blushes and smiles a beautiful smile at you as she sees you looking.
+~
+254042 0 0 0 60 0 0 0 200 E
+30 -10 -20 30d5+20000 20d9+20
+10000 60000
+8 8 2
+BareHandAttack: 6
+Race: 0
+E
+#18834
+waitress~
+a waitress~
+You see a waitress winking at you, as she brings drinks to a table.
+~
+You have never seen such a short skirt.
+~
+94 0 0 0 0 0 0 0 -200 E
+10 10 0 10d5+110 5d4+5
+15 6000
+8 8 2
+Race: 0
+Noise: You hear a women scream, not from pain.
+E
+#18835
+waitress~
+a waitress~
+A waitress, leaning on a chair, is speaking to a patron.
+~
+From this view, 'Oh Boy!'
+~
+74 0 0 0 0 0 0 0 -100 E
+10 10 0 10d5+110 5d4+5
+15 6000
+8 8 2
+BareHandAttack: 4
+Race: 0
+Noise: You hear the faint sound of spanking.
+E
+#18836
+drunk~
+a drunk~
+A drunk man stares at you.
+~
+This man is stumbling trying to reach you.
+~
+6218 0 0 0 0 0 0 0 -200 E
+4 16 6 4d5+50 2d4+2
+0 600
+6 6 1
+Race: 0
+Noise: You hear a woman scream 'yes.. yes.. oh god, yes.'
+E
+#18837
+man~
+a man~
+A man sits here staring at his waitress's cleavage.
+~
+You can see the beginings of drool forming in the corner of his mouth.
+~
+74 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+3 900
+6 6 1
+Race: 0
+Noise: You hear a man moan in pleasure.
+E
+#18838
+man~
+a man~
+A short man stands before you.  His eyes seem to be red as though on fire.
+~
+It looks, err, unfinished.
+~
+254042 0 0 0 8252 0 0 0 -1000 E
+30 -10 -20 30d5+20000 20d12+20
+10000 60000
+8 8 0
+BareHandAttack: 9
+Race: 11
+E
+#18839
+captain~
+the Captain of the guard~
+The Captain of the gaurd towers over you.
+~
+It looks like no one could defeat this man in combat.
+~
+20570 0 0 0 0 0 0 0 900 E
+27 -7 -17 27d5+330 18d4+18
+2 45000
+8 8 0
+BareHandAttack: 6
+Race: 27
+E
+#18840
+baracus~
+Baracus~
+Baracus, the gypsy, stands here, calling you over.
+~
+A dirty looking kender stands before you.
+~
+254026 0 0 0 0 0 0 0 -200 E
+25 -5 -15 25d5+20000 16d4+16
+1000 37500
+8 8 1
+Race: 3
+E
+#18841
+dancers~
+a gypsy~
+An attractive gypsy dancer dances for you.
+~
+A young lady dressed in flowing veils distracts you.
+~
+74 0 0 0 0 0 0 0 -100 E
+7 13 3 7d5+80 3d4+3
+5 2500
+8 8 2
+Race: 0
+E
+#18842
+spirit~
+a spirit~
+A whispering spirit stands here.
+~
+You see a shadow of a man before you.
+~
+16458 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+Noise: You hear faint whispering.
+E
+#18843
+spirit~
+a spirit~
+A lamenting spirit stands here.
+~
+You see a shadow of a man standing before you.
+~
+16458 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+Noise: You hear the faint sounds of lamentation.
+E
+#18844
+spirit~
+a spirit~
+A mourning spirit stands here.
+~
+A shadow of a man stands before you.
+~
+16458 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+Noise: You hear cries of mourning.
+E
+#18845
+spirit~
+a spirit~
+A spirit in agony stands here.
+~
+A shadow of a man stands before you.
+~
+16458 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+Noise: You hear sreams of agony.
+E
+#18846
+spirit~
+a phantom~
+A draped and hooded spirit floats like mist toward you.
+~
+The very air which the spirit moves seems to be cloaked in gloom and misery.
+~
+16474 0 0 0 2 0 0 0 -1000 E
+31 -11 -21 31d5+810 20d4+20
+2 90000
+8 8 0
+BareHandAttack: 9
+Race: 11
+E
+#18847
+Wind~
+the wind~
+The wind blows over the sea.
+~
+It looks, err, unfinished.
+~
+16458 0 0 0 0 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+Noise: You feel a cool sea breeze against your face.
+E
+$

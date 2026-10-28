@@ -1,0 +1,720 @@
+#14401
+demon gatekeeper~
+the Gatekeeper~
+A tall, lanky demon stands here, guarding the gate.
+~
+Although his form is clumsy-looking, you get the feeling that if he doesn't
+want you through the gate, you won't get through the gate until he changes his
+mind. His angular, scaled face turns towards you as he notices you watching
+him and he smiles, showing off a set of sharp, yellowed teeth.
+~
+bdelmnpqry dfhkn -750 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+BareHandAttack: 10
+Race: 13
+Script: souleater.lua 8
+E
+#14402
+demon butler~
+the Butler~
+A tall, thin demon stands here, dressed like a butler.
+~
+Although he is a demon, he radiates the aura of a well-mannered butler. He
+seems nice, and politely asks you if you need anything, but as you get a good
+look at his horned, red face, you get the feeling he could pop your head like
+a pimple, if the order was given.
+~
+bdelmnpq dfhknp -500 E
+84 163 84d8+2309 7d8
+0 38493
+8 8 1
+BareHandAttack: 10
+Race: 13
+E
+#14403
+grey slayer male~
+a Grey Slayer~
+A Grey Slayer stands here, wearing a huge suit of grey armor.
+~
+Although he is wearing grey full body armor, he doesn't seem to be encumbered
+a bit. As you pass by, his visor turns toward you, and you see two crimson
+pinpoints following your movements, daring you to do something you probably
+won't live to regret.
+~
+cdejlmnpqr dkn -750 E
+75 143 75d8+1948 6d7
+25 32475
+8 8 1
+Race: 0
+E
+#14404
+Grey Slayer female~
+a Grey Slayer~
+A beautiful, but deadly-looking Grey Slayer stands here.
+~
+Although normally females wouldn't be allowed to be one of the Grey Slayers,
+Lady Amber's appearance at the Grey Keep changed that, herself training women
+to become master warriors. The Grey Slayer is wearing light grey armor that
+covers most of her body.
+~
+cdejlmnpqr dkn -750 E
+78 149 78d8+2066 6d7
+25 34443
+8 8 2
+Race: 0
+E
+#14405
+gil-glash half-elf~
+Gil-Glash~
+Gil-Glash the half-elf sits in his throne, planning his next conquest.
+~
+Although he looks like the average half-elf, you know from the legends that he
+is actually one of the most powerful men in the world, if not the most. His
+head turns towards you lazily as you gaze at him, smirks, and turns his
+thoughts back to his plans for world domination, dismissing you as if you were
+nothing, which, to him, you are.
+~
+bdenpqr dfhkp -1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+BareHandAttack: 12
+Race: 12
+Noise: Waves of evil wash over you.
+Script: teleport_vict.lua 256
+E
+#14406
+Nimos~
+Nimos~
+Nimos is here, on his knees.
+~
+A strong, powerfully-built man with long, dark hair, Nimos isn't like many
+other wizards you've seen, and him kneeling before Lady Amber makes him look
+less like the most powerful warlock in the world, and more like a male
+concubine faithfully obeying orders.
+~
+dflmpqrt dhknpE -1000 E
+100 199 100d8+3000 9d9
+0 50000
+6 6 1
+Race: 0
+Script: magic_user.lua 256
+E
+#14407
+Lady Amber~
+Lady Amber~
+Lady Amber stands here, shuddering in ecstacy.
+~
+Not only is she the most skilled swordsperson in the land, she also ranks up
+there among the most beautiful. Her finely-toned body is covered in a thin
+film of sweat, and you can see some long, jagged scars that mar her otherwise
+perfect form.
+~
+bdflmpqt dhknp -1000 E
+100 199 100d8+3000 9d9
+0 50000
+5 5 2
+BareHandAttack: 13
+Race: 0
+Noise: You hear a soft moan from nearby.
+Script: fighter.lua 256
+E
+#14408
+fiothas cook~
+Fiothas, the cook~
+Fiothas is here, getting food ready.
+~
+One of the egomaniacal drow, this one doesn't seem to mind its low position
+in the Grey Keep. She was trained by the great cuisinarts of her own city and
+is now a really good cook. Given a couple tries, she could make almost
+anything taste great.
+~
+bdflnpr dkps -400 E
+87 169 87d8+2434 7d8
+0 40574
+8 8 2
+Race: 1
+E
+#14409
+mephit ice garbenaferthal~
+Garbenaferthal, Sprite-slayer, Greatest of all Ice Mephits, Favorite of the Lower Planes~
+Garbenaferthal the ice mephit is walking around the room, keeping it cold.
+~
+His body is angular, with translucent, ice-blue skin. Sharp icicles hang down
+from his long, drooping nose and chin, and his pointed ears stick up as he
+sees you looking at him. His pale blue eyes lock onto yours, and he begins to
+giggle insanely.
+~
+bdehlnpqrs dfghknps -1000 E
+69 130 69d8+1719 6d6
+0 28657
+8 8 1
+Race: 16
+E
+#14410
+silk servant~
+Silk, Lady Amber's servant~
+Silk is standing here, guarding the door to his mistress's chamber.
+~
+A tall, well built man, he is Lady Amber's only servant and he obeys all of
+her orders to his maximum capability. The eunuch does not seem to mind the
+dark and gloomy Grey Keep, but he seems agitated about something at the
+moment.
+~
+bdelmnpqr dhkp -200 E
+90 176 90d8+2561 8d8
+1 42690
+5 5 1
+Race: 0
+Script: no_move.lua 512
+E
+#14411
+master vrixrig-vimcuj~
+Master Vrixrig-Vimcuj~
+Master Vrixrig-Vimcuj is here, phasing in and out of this dimension.
+~
+You don't know what it is, but it sure looks odd. It stands its snake-like
+body on two long, thin legs. Its long, thin, flexible-looking arms each end
+in a hook-like claw. Its head is bald and earless, with large round eyes that
+have cat-like pupils. A ring of strange symbols is tattooed around its head,
+and down its back.
+~
+cdeg dfghksE -1000 E
+96 190 96d8+2821 8d9
+450 47030
+8 8 0
+BareHandAttack: 12
+Race: 12
+Script: teleporter.lua 256
+E
+#14412
+abomination hisczdrezzez yuan-ti~
+Hisczdrezzez~
+The snake-like Hisczdrezzez is sitting here, thinking about the future.
+~
+His body is that of a giant snake, with a long, scaled tail instead of legs.
+His arms and torso are covered with scales as well, but are more human-like.
+His head is the only human part about him, but still retains some attributes
+of a snake. He is the last of the yuan-ti, his race exterminated by the same
+Dark One's army that attempted to destroy the great city Kir Morthis.
+gol-Glash took him under his wing, and is willing to help restore his race to
+its former glory.
+~
+bdeflmnpqr dfghknp -760 E
+96 190 96d8+2821 8d9
+2 47030
+8 8 1
+BareHandAttack: 12
+Race: 12
+Script: hisc.lua 768
+E
+#14413
+shadow fiend~
+a shadow fiend~
+A shadow fiend disappears into the darkness.
+~
+Although it's made of pure shadow, in the glow of your light you can see its
+outline; that of a large, thin, clawed and winged fiend.
+~
+dehjklmnopq dfknpst -500 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#14414
+Alhazred alhoon illithid lich vivisector~
+Alhazred, the Chief Vivisector~
+Alhazred the Chief Vivisector is here, getting ready for his next 'patient'.
+~
+One of the rare and extremely powerful alhoon, or illithilich, Alhazred was
+exiled by his own kind, and Gil-Glash took him into the Grey Keep in exchange
+for occasional services, which Alhazred figured was a good trade. He is about
+six feet tall and has dry, wrinkled mauve-colored skin. His head resembles an
+octopus, with white, pupil-less eyes, and four tentacles around his mouth,
+which itself is a round, many-toothed orifice like that of a lamprey. He has
+three fingers and a thumb on each hand.
+~
+defnpqr dfhknps -999 E
+96 190 96d8+2821 8d9
+0 47030
+8 8 1
+Race: 32
+Script: mindflayer.lua 256
+E
+#14415
+shadow asp~
+a shadow asp~
+A long, thin black snake slithers underneath a pillow as you approach.
+~
+Even though it seems black, when you get a closer look it looks more like it's
+made from shadow! When it sees you it hisses, showing off long, needlelike
+fangs that glisten with a dangerous poison.
+~
+bdflnpqr bknpst 0 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 4
+Race: 29
+Script: snake.lua 256
+E
+#14416
+taipan man~
+a taipan man~
+A member of the deadly taipan race is standing here.
+~
+Although his body is in humanoid shape, except for his long tail which whips
+back and forth in anticipation of battle, it is covered in scales. When he
+sees you, his slit-pupils seem to stab at you and it hisses, revealing long,
+sharp fangs that drip with some glistening fluid which must be the legendary
+taipan venom.
+~
+bdlmnpqr dhkps -600 E
+78 149 78d8+2066 6d7
+0 34443
+8 8 1
+BareHandAttack: 4
+Race: 29
+Script: no_get.lua 512
+E
+#14417
+killer grass~
+killer grass~
+A strange blade of grass sits here, swaying in the wind.
+~
+It looks like a normal blade of grass, but has the features of a humanoid and
+small growths spurt out of its sides like arms and legs.
+~
+deflmnpqr bdfknpst -1000 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+BareHandAttack: 10
+Race: 36
+E
+#14418
+dwarf axrock~
+Axrock, the blacksmith~
+A strong, but strangely pale-looking dwarf stands here, hammering on a sword.
+~
+He looks much like the other dwarves you've seen in your adventures, but has
+a strange, sickly hue to his skin, and his pores seem larger than most people.
+Although he does not acknowledge your presence, you get the feeling he knows
+you're there, but he just doesn't care.
+~
+bcdejlmnp dfghknps -890 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+BareHandAttack: 4
+Race: 35
+Noise: You hear a loud clanging sound from nearby.
+E
+#14419
+raithir drow~
+Raithir~
+Raithir the dark elf is lounging in a comfortable chair here.
+~
+Fiothas' more intelligent twin, Raithir came upon his position in the Grey
+Keep due to Fiothas' recommendation. Raithir was exiled from his home city
+miles beneath the ground because he made too many enemies in too little time.
+He looks like your normal drow elf, with dark skin and white hair, although
+his eyes seem to glint with the cunningness only a highly trained thief could
+have.
+~
+bdefhlnpqrs dhknps -1000 E
+93 183 93d8+2690 8d8
+0 44842
+8 8 1
+BareHandAttack: 13
+Race: 1
+E
+#14420
+intellect devourer brain~
+an intellect devourer~
+A brain with legs charges towards you.
+~
+It looks like a brain, except it has four legs that end in sharp claws. The
+brain looks like it's covered with some sort of crusty shell. Alhazred keeps
+intellect devourers as pets and sometimes, only on special occasions, eats
+them.
+~
+deflmnpqst dfkps -500 E
+66 123 66d8+1608 6d6
+0 26809
+8 8 0
+BareHandAttack: 12
+Race: 25
+Script: brain_eater.lua 64
+E
+#14421
+golem ebonstone~
+an ebonstone golem~
+An evil-looking ebonstone golem is standing here, barring your path.
+~
+Even though the drow are the only ones who know how to make ebonstone golems,
+and they very rarely use them out of their underground cities, Raithir was
+able to bring this one to the surface and keep it alive. It looks like a tall
+drow elf, with four arms and eyes that glow red.
+~
+bdelmnpqr dfhknp 0 E
+93 183 93d8+2690 8d8
+3 44842
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: no_move.lua 512
+E
+#14422
+Zegeron dungeon guard~
+Zegeron, the dungeon guard~
+Zegeron the dungeon guard is sitting on a stool here.
+~
+She is a big, strong woman and also one of Lady Amber's top students. She is
+a mistress of the axe and when she looks you in the eye, you get the feeling
+she could split you in two without a second's thought.
+~
+bdejlnp dhkmnps 0 E
+81 156 81d8+2187 7d7
+0 36450
+6 6 2
+Race: 0
+E
+#14423
+Vair dungeon guard~
+Vair, the dungeon guard~
+Vair is here, sitting at his desk and filling out reports.
+~
+This is a big, burly man with hair all over the visible parts of his body.
+When he sees you looking at him, he smiles, showing off remarkably lupine
+features He was the only one of the Grey Slayers willing to take the job as
+guard of the deadly second dungeon.
+~
+bdelnpqr dfhknps 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+BareHandAttack: 4
+Race: 24
+E
+#14424
+Amaristee~
+Amaristee~
+Amaristee is huddled in a corner here.
+~
+She looks like she hasn't been here that long, but that's too long for most
+people. Her naked form would normally be appealing, but not now with all the
+garbage and coagulated blood upon it. When she sees you looking at her, her
+eyes seem to pierce into your soul, praying for an end to her misery.
+~
+cdh k -25 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 2
+Race: 1
+E
+#14425
+yathruin~
+Yathruin~
+Yathruin is here, walking back and forth.
+~
+He looks like he's been here for a long time, his body is a pale hue, as if he
+hasn't seen the light of the sun since he was captured by Gil-Glash's forces
+while trying to break into the Keep, probably attempting to find out if the
+rumors of vast treasure chambers were true.
+~
+cdhl k -30 E
+63 117 63d8+1500 6d6
+0 25002
+8 8 1
+Race: 0
+E
+#14426
+Rilithinn~
+Rilithinn~
+Rilithinn is lying here, almost dead.
+~
+He was just caught by the Grey Slayers and still bears all the scars from the
+meeting. His eyes seem to stare right through you as if you weren't even
+there. Once he is fully healed, he shall be taken to Alhazred the Chief
+Vivisector, to see how much Rilithinn knows of Gil-Glash's keep.
+~
+d k 1000 E
+57 104 57d8+1291 5d6
+0 21517
+2 2 1
+E
+#14427
+aldegund~
+Aldegund~
+Aldegund is laying here calmly.
+~
+Although this ninja has been here long, he doesn't seem to mind and considers
+it a learning experience. Gil-Glash begrudgingly let Raithir lock him up here
+due to a conflict the drow has had with him, Gil-Glash has refused to have him
+tortured, though, and will let Aldegund out in a couple months.
+~
+delnpqr ks 0 E
+81 156 81d8+2187 7d7
+0 36450
+6 6 1
+Race: 0
+E
+#14428
+Ratharr~
+Ratharr~
+Ratharr is sitting here, crying.
+~
+Ratharr has not been here for a while, and just got done with his first
+appointment with Alhazred. He senses you looking at him and his face turns
+towards the door, and you see his milky white, sightless eyes.
+~
+dnpr a 1000 E
+57 104 57d8+1291 5d6
+0 21517
+6 6 1
+Race: 0
+E
+#14429
+belaerzyn~
+Belaerzyn~
+Belaerzyn is tied across the pentagram, naked.
+~
+Her tall, thin form would normally seem attractive, if it wasn't covered in
+dirt and coagulated blood. She stares up at the ceiling, not noticing you.
+She seems to be mumbling something, but you cannot make it out.
+~
+dnpr dkm 1000 E
+60 110 60d8+1394 6d6
+0 23237
+5 5 2
+Race: 1
+E
+#14430
+spider brain~
+a brain spider~
+A strange-looking spider is clinging to the wall here.
+~
+It's something of a spider, except that its abdomen looks like a brain with a
+hard, chitinous shell. Raithir had brain spiders imported from a distant land
+where spiders are quite popular, and are kept as pets. It took him a long
+while to train them to safeguard his treasury.
+~
+bdeflmnpqr dfkps -1000 E
+57 104 57d8+1291 5d6
+0 21517
+8 8 0
+BareHandAttack: 4
+Race: 8
+Script: no_get.lua 512
+E
+#14431
+skull rider~
+a skull rider~
+A skull with eight thin legs skitters around here.
+~
+It's your average human skull, with eight legs protruding from its base. Skull
+riders are strong spiders that carry skulls on their backs to scare away
+predators. Raithir accidentally let some of the skull riders mate, and now
+they roam about the Grey Keep, and no one seems to know where their nest is,
+or where they get the skulls. Gil-Glash doesn't seem to mind. He thinks it
+gives the Keep a more healthy atmosphere.
+~
+defglmnpqru dfk 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 0
+BareHandAttack: 4
+Race: 8
+E
+#14432
+neh-thalggu~
+the neh-thalggu~
+The neh-thalggu quickly scuttles towards you.
+~
+Summoned from another plane one day by Gil-Glash, after studying the neh-
+thalggu for a few weeks, he became overjoyed at such an accidental find and
+had it locked away so that he could unleash it when the time came. It has a
+yellowish-orange, bloated, oily and amorphous body with dozens of short,
+writhing tentacles. Half a dozen crablike legs allow it to scuttle about. Four
+large, yellow, bulging eyes and a tooth-filled maw are set into its bulbous
+head.
+~
+deflmnpqrst dghkmp -500 E
+96 190 96d8+2821 8d9
+0 47030
+8 8 0
+BareHandAttack: 12
+Race: 22
+Script: brain_eater.lua 64
+E
+#14433
+moonbeast~
+a moonbeast~
+A horrifying moonbeast jiggles in anticipation of its next meal.
+~
+The moonbeast has a large octopoid body with at least ten tentacles. Within
+the circle of tentacles lies its tooth-filled maw. Its bulbous body is covered
+with dozens of eye stalks, each about a foot long. Its skin is a mottled grey,
+and is covered with a slimy secretion. This moonbeast burst into the Grey Keep
+one day, long ago, causing immense damage to the walls and ceilings. It went
+directly toward Nimos' chamber, but was incapacitated by the combined efforts
+of several of the generals of the Keep. They managed to imprison it here, in
+the second dungeon.
+~
+cdefhlmnpqrst dghknp -1000 E
+96 190 96d8+2821 8d9
+0 47030
+8 8 0
+BareHandAttack: 10
+Race: 6
+E
+#14434
+flaming skull~
+a flaming skull~
+A flaming skull levitates here and begins floating towards you.
+~
+It's a normal humanoid skull, engulfed in flames. Through the flames, you see
+in the black eye sockets red, glowing pinpoints. The flaming skull has been
+here a long time, and Gil-Glash, although he has imprisoned it, usually comes
+down and has long conversations with it when his generals are away. The skull
+was once a very knowledgable sage, who predicted the downfall of one of
+Gil-Glash's greatest enemies. Gil-Glash, knowing opportunity's unique knock,
+called the sage to the Grey Keep, and made him one of him advisor-generals.
+When the sage, eventually, died of old age, Gil-Glash made an elaborate
+ceremony in which he burned several of his slaves on the sage's funeral pyre.
+This act brought the flaming skull to life.
+~
+deflmnpqrst dfhknpsA 0 E
+93 183 93d8+2690 8d8
+0 44842
+8 8 1
+BareHandAttack: 12
+Race: 25
+E
+#14435
+yuk-shaar~
+a yuk-shaar~
+A yuk-shaar floats lazily towards you.
+~
+It appears to be a set of floating eyeballs, and a pair of floating, skeletal
+hands. The hands and eyes glow with a greenish hue. Nimos was able to catch
+the yuk-shaar one day when Gil-Glash wasn't in the keep. One of Raithir's
+enemies sent the yuk-shaar out to him, and it would have succeeded, had it not
+tripped one of Nimos' magical alarms. Nimos came to Raithir's rescue, and a
+great battle ensued. Nimos was barely able to contain the yuk-shaar by the end
+of the fight, but he managed, and locked it up in the second dungeon, never to
+bother anyone again.
+~
+deflmnpqrst dfhknpsA -1000 E
+93 183 93d8+2690 8d8
+0 44842
+8 8 1
+BareHandAttack: 12
+Race: 25
+Script: magic_user.lua 256
+E
+#14436
+nightmare beast~
+the nightmare beast~
+The huge nightmare beast charges towards you.
+~
+Towering at nearly twenty feet high, and weighing a couple of tons, this
+nightmare has four legs, each ending in a set of sharp claws. Its dark purple
+skin looks extremely thick and tough. Its large, red eyes glow with an evil
+light. The beast's teeth are very long; more than half a foot in length, and
+look sharp enough to cut easily through solid stone. Two pair of its teeth are
+nearly twice as long as the rest; one set in the upper jaw, the other in the
+lower. Two large, tusk-like horns protrude from its head.
+The nightmare beast was set against the Grey Keep by one of Gil-Glash's more
+powerful enemies, but Lady Amber took it upon herself to defend the Keep
+against the horrid creature. They fought for many hours, neither seeming to
+tire. In the end, Lady Amber prevailed, and she incapacitated the beast. Nimos
+then teleported its stunned form into the second dungeon.
+~
+deflmnpqrst dhkn -1000 E
+96 190 96d8+2821 8d9
+0 47030
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#14437
+rampager~
+the rampager~
+The rampager stomps towards you at an amazing speed.
+~
+The body of the huge, six-legged rampager is covered in grey scales. Its four
+rear legs are large round pads, while claws as long as daggers extend from its
+two front legs. Its face is out of a nightmare; long, dirty fangs, and glowing
+red eyes. Its nose is similar to a vestigal horn, and it has small, rounded
+ears. A druidic magickal spell gone awry created the rampager, and the minute
+that Gil-Glash heard of its destructive capabilities, he set Hisczdrezzez on
+its path. The yuan-ti was overjoyed at finally having something to do, other
+than roam the keep, and he took this job very seriously. It took over a year
+of tracking, and several failed attempts at capture, but Hisczdrezzez finally
+brought the rampager back to his leige.
+~
+deflmnpqrst dghkn -1000 E
+93 183 93d8+2690 8d8
+0 44842
+8 8 0
+BareHandAttack: 1
+Race: 23
+E
+#14438
+gulguthydra~
+a gulguthydra~
+A disgusting, garbage-covered gulguthydra crawls around here.
+~
+The mix between an otyugh and a hydra, this truly is a disgusting creature.
+Six misshapen hydra heads perch in a circle atop the hulking body of the
+hybrid, which also possesses an otyughs two rigid tentacles. Its skin looks
+hard, almost rocklike, and its dusky brown coloration aids it in hiding within
+its chosen domain. Nobody knows what brought it there, but the gulguthydra was
+found in the sewers beneath the Grey Keep, it took a large group of Grey
+Slayers to bring it back up, and when Gil-Glash saw it, he didn't want it to
+be destroyed so he ordered that they herd it into a cell in the second
+dungeon.
+~
+defhlmnpqrst dghk 0 E
+93 183 93d8+2690 8d8
+0 44842
+8 8 0
+BareHandAttack: 12
+Race: 22
+E
+#14439
+girl concubine~
+one of Gil-Glash's concubines~
+One of Gil-Glash's teenage concubines is here.
+~
+She can't be much over fifteen, but her body seems more mature than you'd
+think for someone her age. Her ample breasts and pouting lips make her look
+like some sort of harlot, which she is, basically.
+~
+bdhm dk -200 E
+36 61 36d8+648 4d5
+0 10800
+5 5 2
+Race: 0
+E
+#14440
+young boy~
+a young boy~
+A young boy is here, waiting for Gil-Glash.
+~
+Gil-Glash sometimes gets tired of women, so he resorts to rutting with young
+boys. The boy is not even ten, and pale skin makes him look sickly.
+~
+bdhm d -200 E
+27 44 27d8+420 3d5
+0 7014
+5 5 1
+Race: 0
+E
+$

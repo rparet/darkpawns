@@ -1,0 +1,467 @@
+#2400
+The Immortal Map Room of the Bandit Camp~
+Well, aren't you special.
+You're in a map room!  
+You're either an immortal, or an incredibly (un?)lucky mortal.
+There's a map on the wall. How much ya wanna bet it pertains to the zone?
+-D
+~
+24 cdgj 0
+D5
+~
+~
+0 0 2401
+E
+map wall~
+0~
+                          01-/-02
+                          |
+                      06--03--04--05
+                      |   |   |
+              11--10--09--08--07
+                          |
+                  14 --- 12 --- 13
+                          |
+                  16 --- 15                
+                   |
+                  17
+                   |
+                  18 --- 19
+~
+S
+#2401
+The Entrance to a Bandit Camp~
+   The monotony of the Xixieqi desert's rolling sands is broken here by a grove
+of white cloth tents to the south, fenced by closely placed, weathered wooden
+stakes. Large poles adorn either side of this gate-like entrance, casting a bit
+of a shadow upon the ground on which you stand, a small sanctuary from the
+desert's blistering heat.
+   A ladder is resting against the right pole, leading up to a lookout nest.
+Far above, a yellow flag with the logo of a black boot crushing a snake flies
+softly in the wind, the mark of the Xixieqi Bandits.
+~
+24 0 0
+D0
+~
+~
+0 0 6595
+D2
+~
+~
+0 0 2403
+D4
+~
+~
+0 0 2402
+E
+ladder~
+0~
+This rickety wooden thing barely looks like it could support your weight,
+and is hardly trustworthy.
+~
+S
+#2402
+The Lookout Nest~
+   High above the Xixieqian sands, this lookout point is a prime location for
+the bandits to monitor the outside world. The walls of Xixieqi rest atop the
+horizon far to the north, and all other directions bear nothing but flat,
+rolling desert. From here the sound of the bandit's flag battling against the
+wind to remain can be heard quite loudly.
+  The only exit that doesn't involve a leap of faith and several broken bones
+is back down the ladder.
+~
+24 0 0
+D5
+~
+~
+0 0 2401
+S
+#2403
+Inside the Bandit Camp~
+   Now that you're inside the camp, it appears a lot larger than the outside
+walls portrayed. You are in a fairly large gap between tents that surround
+your eastern and western fronts. The sand here is much softer and cooler than
+the sand outside of the camp, likely due to it being well-trodden.
+   Directly ahead of you, the path is staggered by training dummies, spread
+evenly throughout. Travel is possible north, east, west, and weaving through
+the dummies, southward.
+~
+24 0 0
+D0
+~
+~
+0 0 2401
+D1
+~
+~
+0 0 2404
+D2
+~
+~
+0 0 2408
+D3
+~
+~
+0 0 2406
+E
+dummies~
+0~
+Crudely fashioned from long grass tied together in the shape of a cross and
+attached to a pole in the ground, these guys are ready to take a lickin' and
+keep on.. er.. sitting here.
+~
+S
+#2404
+A Corner in the Bandit Camp~
+   You're at the northeastern corner of the camp, walled to your north by a
+wooden-pole blockade, and to the east by a tent whose entrance is covered. A
+small hawk eyes you from his perch atop the wall, disappointed at your animate
+state. As a whole, the palette around here is pretty boring, not generally
+venturing from the boring yellow of the sand and white of the tents.
+  To some extent, you wish you had some paint to splash around here, in hopes
+of livening things up a little. There is a small tent to your east, though
+some flaps block your view of its contents.
+~
+24 0 0
+D1
+You can't see anything beyond the flap.
+~
+~
+0 0 2405
+D2
+~
+~
+0 0 2407
+D3
+~
+~
+0 0 2403
+S
+#2405
+Inside a Small Tent~
+   This tent appears to be the bed-quarters of some of the bandits.
+Sleeping bags made of some kind of animal fur lie on the ground here,
+suitable for those cold desert nights. A few chairs are scattered about,
+and miscellaneous goods rest on the cloth strewn across the sand
+here. The only entry/exit point from this tent is to the west.
+~
+24 d 0
+D3
+~
+~
+0 0 2404
+S
+#2406
+A Corner in the Bandit Camp~
+   The scenery around here is pretty bland. White, weathered tents staked
+into the sand on four sides, and of course, sand. The occasional black
+scorpion scuttling across the sand isn't necessarily eye-catching, but it's a
+bit of a change from the usual. A large supporting pole for the lookout's nest
+provides a bit of shade here, but not enough to bother stopping to enjoy.
+   Your north wall is the border of this outpost, and a tent prohibits exit to
+the west. Off to your east is the entrance, and a field of training dummies,
+while the south yields yet more sand, and a large tent with an equally large
+opening.
+~
+24 0 0
+D1
+~
+~
+0 0 2403
+D2
+~
+~
+0 0 2409
+S
+#2407
+Sparring Grounds~
+   The land here really isn't entirely different from any other area of the
+camp, except that a small square area has been marked off by stakes and lines
+drawn in the sand. A group of wooden swords rests against one of the tents,
+some broken, others barely splintered, but all used. The sand in this area is
+incredibly cratered, likely due to the footwork required of those who spar.
+   Canteens rest at the west and east sides of the square, in convenient
+positions for post-spar refreshment. Tent walls prevent travel to the east or
+south, while the north and west both extend to further parts of the camp.
+~
+24 0 0
+D0
+~
+~
+0 0 2404
+D3
+~
+~
+0 0 2408
+S
+#2408
+the Center of the Camp~
+   For some reason, your intuition tells you this is the exact center of the
+encampment. A sole training dummy sticks up from the ground here, far
+separated from the others to his north. A refreshingly cool, slow wind hovers
+overhead, and you're glad this oft-traveled and well-packed sand will not be
+stirred so easily. To the north resides the entrance to the camp and more
+dummies, to the south a narrow walk between two tents, while east and west
+continue this outdoor segment of the bandit outpost.
+~
+24 0 0
+D0
+~
+~
+0 0 2403
+D1
+~
+~
+0 0 2407
+D2
+~
+~
+0 0 2412
+D3
+~
+~
+0 0 2409
+S
+#2409
+Within the Bandit Camp~
+   You're in a particularly uninhabited area of the camp. A cactus protrudes
+from the sand here, but it was most likely preserved because of laziness, 
+not for the beauty-of-nature factor.  A lone flower blooms atop the cactus, as
+if to symbolize some form of beauty amongst the thorns that inhabit this 
+outpost. But probably not. A large tent inhabits your west, and all other
+paths are plausible, save the south, blocked by a tent.
+~
+24 0 0
+D0
+~
+~
+0 0 2406
+D1
+~
+~
+0 0 2408
+D3
+~
+~
+0 0 2410
+S
+#2410
+The Mess Tent~
+   This looks like the tent where the bandits have their meals. A long table
+stretches the distance of this partition of the tent, covered with nearly
+empty plates and dirtied utensils. From the west wafts the smell of ... 
+something.  The benches beneath the tables are barren now, and the plates
+have been left on the table for the dogs to clean. You still cannot place the
+scent of whatever is being cooked to your west, but it seems remotely
+familiar. The tent continues west to a second partition where the cook
+resides. The east leads out to the courtyard area of the camp.
+~
+24 d 0
+D1
+~
+~
+0 0 2409
+D3
+~
+~
+0 0 2411
+S
+#2411
+The Chef's Area~
+   Various, scattered cooking tools characterize this end of the tent, the
+most significant being a large pot above a fire, from which emanates the smell
+you detected previously, along with a lot of smoke. The tent is considerably
+hotter here, and understandably so. A rack of knives is sitting in place along
+the southern tent wall. The partition flaps open to the mess hall room to the 
+east.
+~
+24 d 0
+D1
+~
+~
+0 0 2410
+E
+pot~
+0~
+Peering inside, you can barely make out what appears to be a whole coyote,
+boiling. Ew.
+~
+E
+rack knives~
+0~
+This wooden rack contains knives of all shapes and sizes, some barely fit
+to spread butter and others that look ready to cut through a redwood tree.
+~
+S
+#2412
+An Intersection within the Camp~
+   You stand in the middle of a narrow four-way intersection in the camp. A 
+melange of sounds infiltrates your ears. From the east, the telltale
+hammering of a blacksmith, while the tent west from here assaults you with
+loud barking. The huge tent to the south contributes to the noisy confusion
+with chattering voices. The top of the southern tent bears a flag similar to
+the one at the gate of this encampment.
+~
+24 0 0
+D0
+~
+~
+0 0 2408
+D1
+~
+~
+0 0 2413
+D2
+~
+~
+0 0 2415
+D3
+~
+~
+0 0 2414
+E
+flag~
+0~
+A yellow flag with a black outline of a boot stomping on a snake, the symbol
+of Xixieqi's Desert bandits. For some reason, it seems to be sticking straight
+out, and is not affected by the wind at all.
+~
+S
+#2413
+The Bandit's Armorer~
+   This small tent is overcrowded with all sorts of tools. Anything you can
+think of that anyone might ever utilize as a smithy, this tent has, lining its
+walls. There is a large workbench supporting the far wall, covered in half
+completed weapon and armor projects. A blazing heat rushes across your
+feet, and you note it to be coming from a small stone furnace. An intersection
+in the camp to be seen outside the tent, looking westward.
+~
+24 cd 0
+D3
+~
+~
+0 0 2412
+S
+#2414
+The Kennel Tent~
+   This room reeks of.. Dog. It is where the bandits keep their ever valued
+attack dogs, handy for catching those nasty little stragglers, or just plain
+scaring people. Large meat bones lie discarded all around the room, and
+the corners of the tent are covered in dog fur, in addition to other dog
+byproducts. A stake is in the ground at the middle of the room, for tying dogs
+to.
+   Further inspection shows that the rope gives them enough slack to easily
+tear you apart from anywhere within the tent. Reassuring, no? With that in
+mind, the only exit, the opening of the tent to the east, looks quite
+appealing.
+~
+24 d 0
+D1
+~
+~
+0 0 2412
+S
+#2415
+The Main Tent~
+   You're in the first partition of a huge tent thats been separated into
+sections. This first room serves as an entry, mostly, with a rack to hang
+your cloak and room underneath it for boots. Any sand that might have been
+tracked in stops here. The north leads outside of the tent, while the west is
+accessible, though not visible through the flaps creating this partition of
+the tent.
+~
+24 cd 0
+D0
+~
+~
+0 0 2412
+D3
+You can't see a thing through the flaps.
+~
+~
+0 0 2416
+S
+#2416
+The Loot Depository~
+   This section of the tent is where bandits drop off whatever they've
+"acquired", for storage. A few currently flat booty-stashing bags have been
+scattered around here, ready to be picked up for storage use in a moment's
+notice. Looking around you see nothing but junk, and certainly nothing
+worth even taking notice of, save a large chest which appears to be locked.
+   The entrance to this tent is through the flap to the east, and this room
+continues to the south, to what seems to be a large table.
+~
+24 d 0
+D1
+~
+~
+0 0 2415
+D2
+~
+~
+0 0 2417
+S
+#2417
+The Bandit Planning Area~
+   A long wooden table covered in maps and other assorted papers is in
+the middle of the tent here. Writing sloppy enough to appear as a different
+language covers some maps, while others are completely untouched. They seem to
+cover all sorts of areas, from sections of the Xixieqi desert to all of the
+secret entrances and guard bypasses of the Xixieqi city itself. Beyond the
+table, there really isn't anything worth noting. The room extends north, and a
+flap separates yet another room to the south.
+~
+24 d 0
+D0
+~
+~
+0 0 2416
+D2
+~
+~
+0 0 2418
+S
+#2418
+Bandit Sleeping Quarters~
+   This is where the higher-ranking bandits sleep. Fine animal skin sleeping
+bags line the floor, allowing only a small amount of area to navigate.
+Beside each bag reside a few small personal belongings per person. A lot
+of strange boards have been fashioned, one can only assume they are for
+different types of games. Apparently, the bandits don't have much to 
+entertain themselves when they're not killing and stealing, so they recreate
+by making and playing games.
+   The sleeping quarters can be exited to the north and east, but the eastern
+flap seems a bit more decorated than the northern one.
+~
+24 d 0
+D0
+~
+~
+0 0 2417
+D1
+An intricate flap blocks your view of this direction. Unlike the other, plain
+flaps, this one appears to be made of velvet, and has ornate little patterns
+sewn around the edges. It must hold something special.
+~
+~
+0 0 2419
+S
+#2419
+Brianna's Quarters~
+   Who would've thought the leader of the notorious Xixieqi bandits was a 
+woman? It is kept fairly well hidden from the public, as all bandits are
+covered almost entirely when they go into public, but this fact hasn't
+affected the success of the bandits any. A fine bed resting upon a wooden
+frame rests here, with two night tables beside it. On one you see a mirror
+and what looks to be a novel, but you don't recognize it.  On the other lies a
+hairbrush, tangled with hair and tattered with use over the years.
+   A flap lies to your east, with a complex design sewn upon it in hopes of
+making it look different from all of the other flaps in the tent.
+~
+24 d 0
+D3
+~
+~
+0 0 2418
+S
+$~

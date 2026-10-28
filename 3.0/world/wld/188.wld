@@ -1,0 +1,1569 @@
+#18800
+Immortal Room for zone 188.~
+You are standing in a chamber, floating high above the prosperous city of
+Kir Amaroth.  The walls of the chamber are richly decorated with art works 
+collected from different regions of the known world.  In the center of the
+room floats a map, and directly under the map is an opening in the floor
+leading to the center of the great city Kir Amaroth.
+~
+188 540 0 0 0 0
+D5
+Looking through the opening you can see the busy streets of Kir Amaroth.
+~
+opening~
+0 0 18815
+E
+map~
+Map of the city Kir Amaroth.
+~
+S
+#18801
+Road leading to Kir Amaroth~
+You are on a paved road.  To the north, just off the road you can see 
+members of a caravan group, resting.  There group line the road to the
+west.  If you were to follow the road to the west, you would aproach the
+city of Kir Amaroth.  To the east, the wilderness awaits you.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18802
+D2
+~
+~
+0 0 18807
+D3
+~
+~
+0 0 18804
+S
+#18802
+In the middle of a caravan camp~
+You are standing in the middle of a caravan camp.  By the style of 
+clothes they are wearing you can tell the are from a far away land.  They
+have quite a large assortment of unfamiliar items, perhaps you can find
+a store that sells the more useful items.
+~
+188 0 0 0 0 1
+D2
+~
+~
+0 0 18801
+D3
+~
+~
+0 0 18803
+S
+#18803
+In the middle of a caravan camp~
+You are standing in the middle of a caravan camp.  By the style of clothes
+they are wearing you can tell they are from a far away land.  To the east
+the camp continues.  To the west, one of Kir Amaroth's towers rises high into 
+the sky.  The road lies a few steps to the south.
+~
+188 0 0 0 0 2
+D1
+~
+~
+0 0 18802
+D2
+~
+~
+0 0 18804
+S
+#18804
+The road just outside of Kir Amaroth~
+You stand on the road just outside of the thriving port city of Kir Amaroth.
+Looking between the twin towers to the west, you can see busy shops, and
+streets full of pedestrians within the city.  Just north and south of the
+road, caravans rest.  And to the east, the road leads back to the 
+wilderness.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18803
+D1
+~
+~
+0 0 18801
+D2
+~
+~
+0 0 18805
+D3
+~
+~
+0 0 18806
+S
+#18805
+In the middle of a caravan camp~
+You are standing in the middle of a caravan camp.  By the style of clothes
+they are wearing you can tell they are from a far away land.  To the east
+the wilderness awaits.  To the west, one of Kir Amaroth's towers rises high 
+into the sky.  The road lies a few steps to the south.
+~
+188 0 0 0 0 2
+D0
+~
+~
+0 0 18804
+D1
+~
+~
+0 0 18807
+S
+#18806
+Between the towers~
+You are passing through one of the two entrances to Kir Amaroth.  To the north
+and south are huge white towers, each tower has a decorative archway.  
+Above each archway, there are scenes of working merchants carved into the
+stone of the towers.  To the east, is the exit of the city.  
+To the west, you can hear the sounds of a busy thriving city.
+~
+188 0 0 0 0 1
+D1
+~
+~
+0 0 18804
+D3
+~
+~
+0 0 18809
+S
+#18807
+A field~
+You are standing a few steps off the road to Kir Amaroth, in a lush grassy
+field.  From here you can see the white towers of the city's entrance to
+the west.  Caravan groups rest just north of the road, and to the west.
+~
+188 0 0 0 0 2
+D0
+~
+~
+0 0 18801
+D3
+~
+~
+0 0 18805
+S
+#18808
+Lord Atoll's Armory~
+You step into a polished black stone room.  Silvery polished armor hangs
+from every wall, their images  reflected in the black stone of which this
+room is constructed.  Behind a large oak counter, a well-muscled man polishes
+a new suit of plate mail.
+~
+188 8 0 0 0 0
+D0
+~
+~
+0 0 18809
+S
+#18809
+Park Avenue~
+You stand on a main road of Kir Amaroth.  Far to the west you can here sounds
+of waves splashing against piers.  To the east, the road continues out of
+Kir Amaroth.
+The building to the north is decorated with finely carved weapons.
+The southern building's door is flanked by well crafted suits of armor.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18810
+D1
+~
+~
+0 0 18806
+D2
+~
+~
+0 0 18808
+D3
+~
+~
+0 0 18811
+S
+#18810
+Ellise and Her Blades~
+When you enter the shop, you are immediately overcome with the beauty of
+all the finely crafted weapons on display here.  Every bladed weapon seems
+to have been sharpened to a razors edge, then polished to a mirrored 
+finish by a loving hand.
+~
+188 8 0 0 0 0
+D2
+~
+~
+0 0 18809
+S
+#18811
+Park Avenue~
+You are standing on a main road of Kir Amaroth.  Far to the west you can here 
+sounds of waves splashing against piers.  To the east, the road continues
+out of Kir Amaroth.
+The shop to the north seems to be under renovation. A sign hangs on the 
+door.
+The notice on the southern shop reads "Fine jewelry has moved down the road"
+~
+188 0 0 0 0 1
+D1
+~
+~
+0 0 18809
+D3
+~
+~
+0 0 18812
+E
+sign~
+Kir Amaroth Construction Company
+helping to make a prosperous tomorrow
+~
+S
+#18812
+Park Avenue~
+You stand on a main road of Kir Amaroth.  Just to the east is the town square.
+From here you can see an enormous fountain decorated with numerous
+lifelike marble statues.  There is a small park to the north, and a flower shop
+to the south.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18814
+D1
+~
+~
+0 0 18811
+D2
+~
+~
+0 0 18813
+D3
+~
+~
+0 0 18815
+S
+#18813
+Flora's Flowers~
+You could smell the sweet tempting aroma from outside, and couldn't help
+but come inside.  The inside of this shop is both a treat for the eyes
+as well as the nose.  Huge arrangements of flowers line the walls.  You
+can't resist smelling each.  As you look up, two women are watching you
+curiously.
+~
+188 8 0 0 0 0
+D0
+~
+~
+0 0 18812
+S
+#18814
+A small park~
+You stand in a beautiful woodland environment.  You can almost imagine you
+have left Kir Amaroth and been transported to some magical garden.  Exotic 
+sweet smelling flowers line the path through the park.  Wrought iron park
+benches are sheltered from the sun in the shade underneath the trees.
+~
+188 0 0 0 0 2
+D2
+~
+~
+0 0 18812
+D3
+~
+~
+0 0 18820
+S
+#18815
+Center of Town~
+You have reached the center of the city of Kir Amaroth.  You are overwhelmed
+ by the sight of an enormous fountain here.  The fountain is constructed of the 
+finest marble you have ever seen.  Decorating the fountain are full sized 
+statues of twelve dancing women.  The craftsmanship is so excellent you
+can almost believe they are alive.  Alas, they are not.  The world is not 
+blessed with such lively beautiful women.
+From here the road continues in all directions.
+To the east and south are the gates to the city.
+On the northern side of town, you can see the spires of two temples, and
+the rooftop of the governor's mansion.
+To the west, you can hear the ocean lapping against the docks.  And 
+down the street you spot men dressed in sailor's garb.
+~
+188 16 0 0 0 1
+D0
+~
+~
+0 0 18820
+D1
+~
+~
+0 0 18812
+D2
+~
+~
+0 0 18819
+D3
+~
+~
+0 0 18816
+S
+#18816
+Park Avenue~
+You are standing on a main road of Kir Amaroth.  Just to the east is the town
+square and its famous fountain.  To the west, are the docks and the 
+notorious Dock Street.
+The shop to the north displays jewelry in the windows.
+A small cafe is to the south.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18818
+D1
+~
+~
+0 0 18815
+D2
+~
+~
+0 0 18817
+D3
+~
+~
+0 0 18824
+S
+#18817
+Cafe DuLac~
+"Welcome to Cafe Du Lac"
+"Here we serve fine wine, brought to Kir Amaroth over land and sea."
+"Please have a seat.  You waiter, Sabo, shall be with you in one moment."
+
+White wrought iron chairs are neatly arranged around white circular tables.
+A black umbrella is mounted to each table, sheltering the patrons from 
+the hot sun.  Finely painted elven runes are painted in red, decorating
+each umbrella.
+~
+188 16 0 0 0 1
+D0
+~
+~
+0 0 18816
+D1
+~
+~
+0 0 18819
+S
+#18818
+Fine Jewelry~
+When you step into this shop, you are overwhelmed by the jewelry on display.
+Never have you seen such large and exquisitely cut gem stones in your
+life.  The possible value of the jewels on display makes your mouth water,
+and your eye twitch.
+A shop attendant notices you, and ask if you need assistance.
+~
+188 8 0 0 0 0
+D2
+~
+~
+0 0 18816
+S
+#18819
+Fountain Way~
+You are standing on a main road of Kir Amaroth. Just to the north is the town
+square.  From here is the best you of the statues of dancing women, that
+decorate Kir Amaroth's famous fountain.  To the south, in the distance you
+can see one of Kir Amaroth's two town gates.
+To the west, you notice a small cafe.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18815
+D2
+~
+~
+0 0 18821
+D3
+~
+~
+0 0 18817
+S
+#18820
+Fountain Way~
+You stand on a main road of Kir Amaroth.  Just to the south you can see the 
+fountain of Kir Amaroth and the town square.  To the north you see a temple and
+the governor's mansion, down the road.  
+To the east, there is a small park.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18835
+D1
+~
+~
+0 0 18814
+D2
+~
+~
+0 0 18815
+S
+#18821
+Fountian Way~
+You stand on a main road of Kir Amaroth.  North will bring you into town.
+South will bring you toward the gates of the city.  
+From the shop to the east, you can smell the aroma of freshly baked 
+bread, tempting you to come inside.
+To the west, you see dazzling lights reflected from the surfaces of
+crystal glassware.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18819
+D1
+~
+~
+0 0 18822
+D2
+~
+~
+0 0 18825
+D3
+~
+~
+0 0 18823
+S
+#18822
+Humble Baker~
+You enter the shop, and at once become hungry at the sight and smell of 
+the freshly baked bread.
+A plump man from behind the counter asks if you would like to buy bread
+today.
+~
+188 8 0 0 0 0
+D3
+~
+~
+0 0 18821
+S
+#18823
+Kay's Krystals~
+As light filters into this room, the crystals break the visible light into
+its component colors.  Reds, yellows, blues, all the colors are projected
+through the prisms. This make you feel almost as if you are at the base
+of a giant rainbow.
+The woman from behind the counter introduces herself as Kay
+~
+188 8 0 0 0 0
+D1
+~
+~
+0 0 18821
+S
+#18824
+Park Avenue~
+You are standing on a main road of Kir Amaroth.  To the east is the center of
+town.  A few steps to the west is the notorious Dock Street.
+~
+188 0 0 0 0 1
+D1
+~
+~
+0 0 18816
+D3
+~
+~
+0 0 18851
+S
+#18825
+Fountain Way~
+You are standing at a fork in the road.  North and south you will be on
+Fountain Way, east you will be on a smaller street that leads to the
+residential area of Kir Amaroth.
+Looking south you can see the towers marking the exit of Kir Amaroth.
+To go north will bring you deeper within the city.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18821
+D1
+~
+~
+0 0 18826
+D2
+~
+~
+0 0 18831
+S
+#18826
+Residential Street~
+You are standing on a residential street.  You see private homes to the
+east.  Fountain Way is to the west.
+~
+188 0 0 0 0 1
+D1
+~
+~
+0 0 18827
+D3
+~
+~
+0 0 18825
+S
+#18827
+Residential Street~
+You are standing on a residential street.  You stand before three private 
+homes (east, south, and north).  To return to the main street, It is 
+only a block to the west.
+~
+188 0 0 0 0 1
+D0
+~
+door~
+1 0 18830
+D1
+~
+door~
+1 0 18829
+D2
+~
+door~
+1 0 18828
+D3
+~
+~
+0 0 18826
+S
+#18828
+Private Home~
+You have entered a private home.  
+This home is decorated very well.  The owner seems to have taken his time
+to place is belongings aesthetically.  The walls are painted white along
+with the ceiling.  All of the furniture is well upholstered and looks
+quite comfortable.  The area rugs appear to have foreign designs,  perhaps
+they are quite expensive.
+~
+188 8 0 0 0 0
+D0
+~
+~
+0 0 18827
+S
+#18829
+Private Home~
+You have entered a private home.  
+This home is decorated very well.  The owner seems to have taken his time
+to place is belongings aesthetically.  The walls are painted white along
+with the ceiling.  All of the furniture is well upholstered and looks
+quite comfortable.  The area rugs appear to have foreign designs,  perhaps
+they are quite expensive.
+~
+188 8 0 0 0 0
+D3
+~
+~
+0 0 18827
+S
+#18830
+Private Home~
+You have entered a private home.  
+This home is decorated very well.  The owner seems to have taken his time
+to place is belongings aesthetically.  The walls are painted white along
+with the ceiling.  All of the furniture is well upholstered and looks
+quite comfortable.  The area rugs appear to have foreign designs,  perhaps
+they are quite expensive.
+~
+188 0 0 0 0 0
+D2
+~
+~
+0 0 18827
+S
+#18831
+Fountain Way~
+You are standing at a fork in the road.  Just to the south are the city
+gate.  The north continues into town.  To the west is a side street
+leading to Dock Street.
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18825
+D2
+~
+~
+0 0 18832
+D3
+~
+~
+0 0 18833
+S
+#18832
+Between the towers~
+You are passing through one of the two entrances to Kir Amaroth.  To the west
+and east are huge white towers, each tower has a decorative archway.  
+Above each archway, there are scenes of governmental workers carved into
+the stone of the towers.  To the south is the wilderness and cemetery.
+To the north, you can hear the sounds of a busy thriving town.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18831
+D2
+~
+~
+0 0 18869
+S
+#18833
+Side Street~
+You are on a back alley.  directly to the south, the city walls rise above
+you.  To the east is Fountain Way.  To the west is Dock Street.
+~
+188 0 0 0 0 1
+D1
+~
+~
+0 0 18831
+D3
+~
+~
+0 0 18834
+S
+#18834
+Side Street~
+You are on a back alley.  directly to the south, the city walls rise above
+you.  To the east is Fountain Way.  To the west is Dock Street.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18833
+D3
+~
+~
+0 0 18855
+S
+#18835
+Fountain Way~
+you are standing on a main road of Kir Amaroth.  To the north, a few steps away 
+you can see the grand entrance to the governor's mansion.  To go south 
+will bring you back to the center of town.  
+Directly to the west, there is an entrance to a beautifully constructed
+temple.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18837
+D2
+~
+~
+0 0 18820
+D3
+~
+~
+0 0 18836
+S
+#18836
+Inside the Temple~
+You step within the temple. 
+Almost every square inch of this temple is either inlaid with gold or 
+jewels.  Crystal sculptures of warriors line the wall.  Each armed and 
+armored in delicately crafted armaments.  Wreaths of finely woven flowers
+lay at the feet of each sculpture.
+It seem as if the whole city came together and constructed this temple
+using their best materials and skill to complete the job.
+~
+188 24 0 0 0 0
+D1
+~
+~
+0 0 18835
+S
+#18837
+Fountain Way~
+You are standing on a main road of Kir Amaroth.  To the south is the center of
+town.  Toward the north is the richer section of Kir Amaroth.  
+To the east is the grand entrance to the governor's mansion.
+To the west is the entrance to one of the two soldier barracks of Kir Amaroth.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18842
+D1
+~
+~
+0 0 18838
+D2
+~
+~
+0 0 18835
+D3
+~
+~
+0 0 18840
+S
+#18838
+Governor's Mansion~
+You have entered the foyer of the governor's mansion.  The floors are rich
+mahogany that has been smoothed to a mirror finish.  The walls are painted
+a deep forest green, and are covered with portraits of past governors.
+An attendant looks up at you, then continues her work.
+An archway to the south leads to the governor's office.
+~
+188 2056 0 0 0 0
+D2
+~
+~
+0 0 18839
+D3
+~
+~
+0 0 18837
+S
+#18839
+Governor's Office~
+You have entered into a truly powerful office.
+From here the governor of Kir Amaroth control the life and the economy of
+this thriving port city.  
+The walls are a deep forest green.  Painting of various other trading 
+cities have been hung on the walls.  A enormous mahogany table dominates
+the room.  It stands upon elaborately woven area rug of foreign origins,
+and is surrounded by ten chairs.
+~
+188 2076 0 0 0 0
+D0
+~
+~
+0 0 18838
+S
+#18840
+Barracks~
+You have entered into the barracks of the Kir Amarothian Guard.
+Bunks line the walls.
+The walls are decorated with frescos depicting the victories of the
+Kir Amarothian army.  In one fresco, a huge red dragon is perched atop one
+of Kir Amaroth's white towers, his fiery breath igniting all it touches.
+Directly above that fresco is a sun-bleached fractured largest skull of 
+a dragon you have ever seen.  You can not imagine how large the body 
+must have been.  But using the scale in the fresco you can picture its
+true horrific size.
+~
+188 8 0 0 0 0
+D1
+~
+~
+0 0 18837
+S
+#18841
+Talkin Road~
+You stand on a main street of Kir Amaroth.  To the south, you face one side of
+the governor's mansion.  You look up and see his wrought iron balcony, 
+just outside his private bedroom.  If only you could live in such luxury.
+To the north is the entrance to a beautiful shrine.
+Over the door is carved "Those who fell against the dragon."
+On each side of the door are list of names, and sculpted into the door jams
+are life-size images of lamenting women.  This must have been a truly
+sad event.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18843
+D1
+~
+~
+0 0 18845
+D3
+~
+~
+0 0 18842
+S
+#18842
+Fountain Way~
+You are standing at a street junction.  Fountain Way heads south, while  
+Talkin Road travels east and west.
+~
+188 0 0 0 0 1
+D1
+~
+~
+0 0 18841
+D2
+~
+~
+0 0 18837
+D3
+~
+~
+0 0 18844
+S
+#18843
+The Shrine~
+As you enter, you can here the screaming and crying of loss, coming from
+private rooms thought the shrine.  
+Hundreds of half sized marble statues are lounged on a ledge that follows
+the inside perimeter of this shrine.  The statues are of soldiers,
+merchants, women, children, elves, human, kender.  Poor, rich it seemed
+not to matter.  The dragon indiscriminately killed all.  Such a horror 
+it must have been.
+~
+188 24 0 0 0 0
+D2
+~
+~
+0 0 18841
+S
+#18844
+Talkin Road~
+You stand upon a main street of Kir Amaroth.  To the east is Fountain Way.
+To the west, you can hear and see the docks of Dock Street.
+~
+188 0 0 0 0 1
+D1
+~
+~
+0 0 18842
+D3
+~
+~
+0 0 18849
+S
+#18845
+Talkin Road~
+You stand at a bend in Talkin Road.  To the south is a residential area for
+the richer class.  To the west Talkin Road continues passed the dragon
+shrine to Fountain Way and Dock Street.
+~
+188 0 0 0 0 1
+D2
+~
+~
+0 0 18846
+D3
+~
+~
+0 0 18841
+S
+#18846
+Talkin Road~
+Talkin Road dead ends here with two mansions.  One mansion has three fine
+marble columns supporting a overhanging ceramic tile roof.  The other 
+mansion has a black wrought iron enclosed patio just before you enter.
+Talkin Road continues to the north.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18845
+D1
+~
+door~
+1 0 18848
+D2
+~
+door~
+1 0 18847
+S
+#18847
+Columned Mansion~
+You pass between the columns through a beautiful stained glass door into
+a even more remarkable interior.  The inside of this home has been 
+converted into a miniature garden.  Large cast iron vessels have been set
+into the floor and filled with water.  Water lilies and other aquatic
+plants have been allowed to grow creating a soothing environment.
+Rocks have been mounted to the walls with running water flowing over them
+to give the appearance of waterfalls.  Much care and planning must have
+gone into this construction.
+~
+188 2056 0 0 0 0
+D0
+~
+~
+0 0 18846
+S
+#18848
+Patio Mansion~
+You pass over the patio and through the double doors of the mansion.
+Once you enter you notice exotic trophies mounted to the walls.  Animal
+heads, swords, paintings, tapestries.  Mounted to one wall, framed and  
+under glass, is a treasure map with a date written underneath.  According
+to the date the treasure was found ten years. Perhaps this is how he can
+afford such luxury.
+~
+188 2056 0 0 0 0
+D3
+~
+~
+0 0 18846
+S
+#18849
+Talkin Road~
+You stand on a main street of Kir Amaroth.  To the east is Fountain Way.
+To the west, you are just a few steps off of Dock Street.
+To the north is a building with the sign :
+Kir Amaroth Construction Company
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18850
+D1
+~
+~
+0 0 18844
+D3
+~
+~
+0 0 18859
+S
+#18850
+Kir Amaroth Construction Company~
+You enter a huge workshop.  Sawdust and stone chips cover the floor in a
+half inch carpet.  Huge wooden beams lay on the floor on the north side
+of the building.  Other building material are neatly stacked nearby.
+Four statues of soldiers at attention are in different stages of completion.
+~
+188 0 0 0 0 0
+D2
+~
+~
+0 0 18849
+S
+#18851
+Dock Street~
+You stand at a junction of two roads.  To the east is Fountain Way, and
+running north and south is Dock Street.
+To the west you see a pier and past that you see the open sea.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18856
+D1
+~
+~
+0 0 18824
+D2
+~
+~
+0 0 18852
+D3
+~
+~
+0 0 18861
+S
+#18852
+Dock Street~
+You are standing on a main street of Kir Amaroth.  
+To the west you see the open sea, and feel the salty spray upon you face.
+To the east is a doorway flanked by life-sized statues of armed nude 
+women.  The surface of the statues are somewhat worn from the constant
+salt water spray and winds form the sea.  Otherwise they appear quite
+attractive.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18851
+D1
+~
+~
+0 0 18864
+D2
+~
+~
+0 0 18853
+S
+#18853
+Dock Street~
+You stand on a main street of Kir Amaroth.  The road continues south toward the 
+city wall, and north toward the dock area.  To the west, is an entrance
+to one of the city's soldier barracks.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18852
+D2
+~
+~
+0 0 18854
+D3
+~
+~
+0 0 18867
+S
+#18854
+Dock Street~
+You are standing on a main street of Kir Amaroth.  The road continues south,
+toward the city wall, and a few blocks north to the dock area.
+To the east is a curious shop, with the sign 'Exotic Imports'.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18853
+D1
+~
+~
+0 0 18866
+D2
+~
+~
+0 0 18855
+S
+#18855
+Dock Street~
+You stand at the end of Dock Street.  The road continues north toward the 
+dock.  
+To the east is an alley that leads to Fountain Way.
+And directly to the south the city walls rise above you.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18854
+D1
+~
+~
+0 0 18834
+S
+#18856
+Dock Street~
+You are standing on a main street of Kir Amaroth.
+To the west you can see the open sea.  The wind gently rustles you hair
+and clothing.
+To the east you see an entrance to a bar.  You can hear loud talking and
+music from inside.  Through the windows, you can see a smoky interior,
+with tables and chairs for patrons to sit.
+The post and lintel construction for the door is of black stone bricks.
+Each brick has a different fantasy creature, carved in bas-relief upon it.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18857
+D1
+~
+~
+0 0 18863
+D2
+~
+~
+0 0 18851
+S
+#18857
+Dock Street~
+You stand on a main street of Kir Amaroth.  To the west, you see a pier and
+past that you see the open see.
+To the east, a sign over a doorway reads 'Luxury Items'
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18858
+D1
+~
+~
+0 0 18862
+D2
+~
+~
+0 0 18856
+D3
+~
+~
+0 0 18860
+S
+#18858
+Dock Street~
+You are standing on a main street of Kir Amaroth.
+To the west you see the open sea.
+To the east you see a vacant shop with a sign above the door.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18859
+D2
+~
+~
+0 0 18857
+E
+sign~
+Store for rent, apply at governor's office.
+~
+S
+#18859
+Dock Street~
+You stand at the end of Dock Street.  The road continues south.  
+To the east is Talkin Road and Fountain Way.
+The sea extends to the west and north.
+~
+188 0 0 0 0 1
+D1
+~
+~
+0 0 18849
+D2
+~
+~
+0 0 18858
+S
+#18860
+Public Pier~
+You are on the public pier of the city of Kir Amaroth.
+This pier is always in use by the local fishermen.  And tourists usually
+arrive to Kir Amaroth by ship here.
+Dock Street is only a few steps to the east.
+~
+188 0 0 0 0 1
+D1
+~
+~
+0 0 18857
+S
+#18861
+Merchant's Pier~
+This pier is used to unload the trade goods that arrive in Kir Amaroth daily
+from across the sea.  The merchants unload their goods, then load items
+from Kir Amaroth to be sold in far away ports.
+You can here the sea wave gently lapping the posts of the piers.
+A few steps to the east is Dock Street.
+~
+188 0 0 0 0 0
+D1
+~
+~
+0 0 18851
+S
+#18862
+Luxury Items~
+"Welcome to Luxury Item's.  I am Ventris.  Feel free to browse.  If you 
+need help with something please ask."
+The store you stand in is filled with beautiful object for home 
+decorations.  Plants, rugs, painting, and almost anything imaginable.
+~
+188 8 0 0 0 0
+D3
+~
+~
+0 0 18857
+S
+#18863
+The Magical Beasts~
+You enter a smoke filled bar.  
+From the balcony above you hear the sounds of gentle soothing music.  As 
+you peer through the smoke you can make out the silhouettes of a five 
+piece band, in the middle of a performance.
+Tables and chairs are neatly arranged for the patrons.
+Your footsteps echo against the hardwood floors as you approach the bar.
+~
+188 8 0 0 0 0
+D3
+~
+~
+0 0 18856
+S
+#18864
+The Two Women~
+You enter a lively dock side bar.
+Loud noise and a pungent odor assault you as you enter.
+Patrons are seated haphazardly on chairs, and some on tops of tables.
+Scantly clad waitresses lean over chairs talking to the patrons.  From 
+your point of view, what they are selling is a bit more than just drinks.
+You see the bar to the rear of the building.
+~
+188 2056 0 0 0 0
+D2
+~
+~
+0 0 18865
+D3
+~
+~
+0 0 18852
+S
+#18865
+The Two Women~
+You are in the rear of the bar.  It is a little quieter back here.
+A waitress walks up to you.  By the amount of clothing she is wearing,
+you wonder how she keeps harm.  Her flowing shoulder length black hair
+frames her beautiful ivory smooth face.  Two eyes, black as polished
+obsidian, stare into you.  Her slender frame glides toward you, swaying
+gently as a blade of grass.
+When she reaches you, you are unsure what to ask.
+~
+188 8 0 0 0 0
+D0
+~
+~
+0 0 18864
+S
+#18866
+Exotic Imports~
+You enter a curious shop.
+Bizarre and unusual things are displayed upon the walls.  Some things 
+you are completely unfamiliar with.
+A strange very short man approaches you.
+"Hello," says the man, "how may I help you."
+~
+188 12 0 0 0 0
+D3
+~
+~
+0 0 18854
+S
+#18867
+Military Barracks~
+You have entered into the main barracks for the city of Kir Amaroth.
+The room's only decorations are the empty bunks for the soldiers.
+This barracks could house at least one hundred soldiers.
+To the east is the door to Dock Street.
+To the west is the door to the Military Dock.
+~
+188 8 0 0 0 0
+D1
+~
+~
+0 0 18853
+D3
+~
+~
+0 0 18868
+S
+#18868
+Military Dock~
+You stand upon the docks used only for military purposes.
+From here you can see the other two docks of Dock Street.
+To the west, as far as you can see stretches the vast ocean.
+To the south, you can see the rear of the Kir Amarothian graveyard.
+~
+188 0 0 0 0 1
+D1
+~
+~
+0 0 18867
+S
+#18869
+The road just outside of Kir Amaroth~
+You stand on the road just outside of the thriving port city of Kir Amaroth.
+Looking between the twin towers to the north, you can see busy shops, and
+streets full of pedestrians, within the city.  Just east of the road, you
+see a small gypsy camp.  And to the west are the wrought iron gates of 
+the cemetery.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18832
+D1
+~
+~
+0 0 18871
+D2
+~
+~
+0 0 18870
+S
+#18870
+Road leading to Kir Amaroth~
+You are on a paved road.  To the north is the great city of Kir Amaroth. 
+To the west, is the entrance to the cemetery of Kir Amaroth.  The south leads
+you back to the wilderness.
+~
+188 0 0 0 0 1
+D0
+~
+~
+0 0 18869
+D3
+~
+~
+0 0 18872
+S
+#18871
+A Gypsy Camp~
+You walk through a gypsy camp.
+You can hear lively music coming from the tents.  You also see shadows
+dancing, on the walls of the tent.
+In the middle of the camp, stands a kender, he calls to you.
+To the west is the road to Kir Amaroth.
+~
+188 0 0 0 0 0
+D3
+~
+~
+0 0 18869
+S
+#18872
+Entrance to the Cemetary~
+You stand at the threshold of the Kir Amarothian cemetery.
+You stand among the gravestones and crypts of the long ago fallen.
+Your skin begins to tingle and grow cold as you begin to feel as though
+someone or something is watching you.
+To the south are the wrought iron gates.
+To the east is the exit and the road.
+~
+188 0 0 0 0 2
+D0
+~
+~
+0 0 18873
+D1
+~
+~
+0 0 18870
+D3
+~
+~
+0 0 18874
+S
+#18873
+Dead End~
+You come to a dead end.  To the east are gates, to the north the city walls
+tower over you, to the west a wall of a crypt blocks you.  You begin to
+have a sense of being trapped.  You can not escape!  The walls are closing
+in on you!  You must return to the south.
+~
+188 0 0 0 0 2
+D2
+~
+~
+0 0 18872
+S
+#18874
+Door of a Crypt~
+You make your way through the gravestones and find the enterance to a
+large crypt.  The door way to the crypt is decorated with a finely carved
+relief sculpture of high ranking governmental officials.  Looking at the
+workmanship the entire crypt must have cost thousands of coin.
+The doorway of the crypt leads north.
+The exit of the cemetery is to the east.
+You see another crypt to the west.
+~
+188 0 0 0 0 2
+D0
+~
+~
+0 0 18878
+D1
+~
+~
+0 0 18872
+D3
+~
+~
+0 0 18875
+S
+#18875
+Door of a Crypt~
+You make your way through the gravestones and find an entrance to a crypt.
+The doorway seem unnaturally darkened, as if a shroud of sorrow became
+corporal and settled upon the entrance to this sorrowful place.
+Listening closely you can almost here voices from inside.  Should
+you enter?
+The doorway of the crypt leads west.
+The exit of the cemetery is to the east.
+The cemetery continues to the north.
+~
+188 0 0 0 0 2
+D0
+~
+~
+0 0 18876
+D1
+~
+~
+0 0 18874
+D3
+~
+~
+0 0 18879
+S
+#18876
+Graves~
+You stumble in between gravestones, and loosen some dirt.  Wait, is the 
+dirt still moving?  Is something unearthing itself?
+You face the city walls to the north, and a crypt wall to the east.
+~
+188 0 0 0 0 2
+D2
+~
+~
+0 0 18875
+D3
+~
+~
+0 0 18877
+S
+#18877
+Dead End~
+You come to a dead end.  To the west are gates, to the north the city walls
+tower over you, to the south you are blocked by a crypt wall.  Your only
+escape is to the east.
+~
+188 0 0 0 0 2
+D1
+~
+~
+0 0 18876
+S
+#18878
+Governor's Crypt~
+You enter into a well lit crypt.  The walls are braced with finely crafted
+Doric columns.  In between each pair of columns is a plaque stating the
+name of a Governor of Kir Amaroth and the years of his term.
+~
+188 12 0 0 0 0
+D2
+~
+~
+0 0 18874
+S
+#18879
+The Dark Crypt~
+You have entered a dark crypt.  The moment you enter you are filled with
+a sense of dread.  Bizarre images begin to fill your mind.  You begin to
+believe these images are of the people who are buried here, at the moment
+of their death.  An unearthly wind whips through the crypt.  The origin
+of the wind is unknown, but it is a freezing biting wind.  You hear noises
+to the rear of the crypt!
+~
+188 45 0 0 0 0
+D1
+~
+~
+0 0 18875
+D3
+~
+~
+0 0 18880
+S
+#18880
+The Black Crypt~
+This part of the crypt is completely black.  Even with your light you can
+barely see.  There is only enough light to see.. wait.. within the
+darkness you can see figures emerge.  They seem to be composed of the 
+darkness in which they dwell.  Is this your imagination, you can't tell.
+Wait, what was that?  Something definitely just brushed against your arm.
+You look at your arm, at the spot in question.  An irritation has developed,
+small wounds appear on your arm.  Something is here!
+~
+188 45 0 0 0 0
+D1
+~
+~
+0 0 18879
+S
+#18881
+The Abyss~
+The Abyss
+~
+188 189 0 0 0 0
+D3
+~
+~
+0 0 18882
+D5
+~
+~
+0 0 18879
+S
+#18882
+The Abyss~
+The Abyss
+~
+188 189 0 0 0 0
+D1
+~
+~
+0 0 18881
+D5
+~
+~
+0 0 18880
+S
+#18883
+The Open Sea~
+The Open Sea
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18868
+D1
+~
+~
+0 0 18852
+D2
+~
+~
+0 0 18851
+D3
+~
+~
+0 0 18861
+D4
+~
+~
+0 0 18856
+D5
+~
+~
+0 0 18860
+S
+#18884
+The Open Sea~
+The Open Sea
+~
+188 0 0 0 0 0
+D0
+~
+~
+0 0 18857
+D1
+~
+~
+0 0 18858
+D2
+~
+~
+0 0 18859
+S
+$~

@@ -1,0 +1,417 @@
+#16200
+priest humanoid goblin~
+the goblin priest~
+A short green humanoid is here chanting before the altar.
+~
+ It's about three feet tall, has large yellow eyes and lots of small sharp
+teeth. A large human skull with the left side crushed in is emblazoned in
+crude stitches across the back of it's robe. 
+~
+24618 0 0 0 9248 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+10 6000
+8 8 1
+BareHandAttack: 5
+Race: 27
+Noise: A shrill gibbering chant breaks the silence.
+E
+#16201
+runt goblin humanoid~
+a goblin runt~
+A little green runt runs around here spearing frogs.
+~
+It looks like a cross between a pig and a midget, standing about two feet
+tall with a little pot belly and lots of nasty little teeth.
+~
+28908 0 0 0 1180704 0 0 0 -800 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 1
+Race: 13
+E
+#16202
+big chubby frog~
+a big chubby frog~
+A big chubby frog hops around here.
+~
+It's about a five pounder you figure, little yellow spots cover it's green
+skin.
+~
+82120 0 0 0 8389696 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+BareHandAttack: 4
+Race: 26
+E
+#16203
+vines vine~
+a wriggling mass of carnivorous vines~
+A large mass of vines rise from the ground here.
+~
+A mass of vines nearing ten feet in length and thick as your leg slurps
+across the forest floor here.  Sharp cone-like spikes cover them making
+strange sucking sounds.
+~
+16426 0 0 0 525352 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 0
+BareHandAttack: 10
+Race: 17
+Noise: You hear a very quiet sucking noise.
+E
+#16204
+hunter goblin ugly fat~
+a goblin hunter~
+An ugly fat scaled humanoid is here gnawing on a bone.
+~
+This squat green humanoid is barely over four feet tall, his belly
+hanging slightly over his rough leather belt. His large yellow eyes
+seem to display about as much intelligence as your average farm animal.
+~
+288782 0 0 0 263208 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+12 6000
+8 8 1
+BareHandAttack: 8
+Race: 27
+Noise: You think you hear a twig snap somewhere nearby.
+E
+#16205
+scout goblin~
+a goblin scout~
+A scrawny little green goblin is sneaking around here.
+~
+This little goblin is dressed in soft stinky leathers and a long smelly
+cloak. He looks like he's concentrating real hard to remember where he is.
+~
+272460 0 0 0 263208 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+0 1500
+8 8 1
+BareHandAttack: 13
+Race: 27
+Noise: You hear something rustle in the bushes.
+E
+#16206
+adventurer elven elf~
+elven adventurer~
+A wounded elven adventurer is lying here bleeding.
+~
+His armor is dented and cut in many places, blood covers most of his chest
+and legs. Looks like whatever this elf went after had him for lunch.
+~
+16394 0 0 0 7168 0 0 0 1000 E
+12 8 -2 12d5+130 8d4+8
+24 9000
+5 5 1
+BareHandAttack: 13
+Race: 1
+E
+#16207
+guard goblin fat~
+a goblin guard~
+A tough green-scaled guard leans against the wall.
+~
+This smallish humanoid is about four feet tall, well muscled and
+looks dumb as a post.  If not for the wicked little claws on it's fingers
+and a face full of sharp teeth you'd dismiss it entirely.
+~
+28712 0 0 0 1064 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+8 3500
+8 8 1
+BareHandAttack: 8
+Race: 13
+Noise: You hear a muffled belch.
+E
+#16208
+lieutenant goblin guard~
+a goblin lieutenant~
+A burly goblin guard stands here glaring at you.
+~
+Well-muscled and standing about four and a half feet tall this goblin
+looks ready to fight, in fact, from all the scars it looks as if
+it's all this dim-witted creature does.
+~
+6186 0 0 0 132136 0 0 0 -1000 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 1
+BareHandAttack: 13
+Race: 13
+Noise: You hear a loud grunt nearby.
+E
+#16209
+witchdoctor goblin~
+a goblin witchdoctor~
+An evil little creature is here mixing stinking reagents in a bowl.
+~
+He looks like most of the other goblins you've seen here, this one may
+seem a little more intelligent than the rest, but he also looks to be
+totally insane.  He wears tattered leather robes and clothing covered in
+messy written runes, bones, and what looks like decomposing hunks of flesh.
+~
+49163 0 0 0 132136 0 0 0 -1000 E
+14 6 -4 14d5+150 9d4+9
+0 12000
+6 6 1
+BareHandAttack: 12
+Race: 13
+Noise: You hear strange guttural chanting coming from somewhere nearby.
+E
+#16210
+female goblin~
+a goblin female~
+A big fat goblin female is wondering around aimlessly here.
+~
+Long black muddy hair, big yellow eyes, green skin, topped off
+with a rotten little bone through her nose makes this one Uuugly goblin.
+~
+45064 0 0 0 132136 0 0 0 0 E
+7 13 3 7d5+80 3d4+3
+0 2500
+8 8 2
+BareHandAttack: 4
+E
+#16211
+cook female goblin~
+a goblin cook~
+A chubby goblin female is sitting here tossing hunks of flesh into a cauldron.
+~
+It's a fat green female goblin with a bone through her nose and
+lots of mud caked in her wiry black hair.
+~
+40970 0 0 0 132128 0 0 0 -1000 E
+5 15 5 5d5+60 2d4+2
+0 900
+6 6 2
+E
+#16220
+wolf vicious~
+a large grey wolf~
+A large vicious wolf prowls around here.
+~
+It's a large wolf with long sharp fangs and charcoal grey hide. As it
+turns it's glowing yellow eyes on you a low growl begins low in it's
+throat.
+~
+342088 0 0 0 1024 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 2
+BareHandAttack: 4
+E
+#16221
+tortoise~
+a huge green and amber shelled tortoise~
+A massive green and amber shelled tortoise is standing here.
+~
+This is one BIG tortoise, you guess it probably weighs over 200 pounds and
+stands about five feet tall to the top of it's back.
+The whole creature is dark mossy-green with large hexagon-shaped amber
+spots across it's shell.
+~
+2179080 0 0 0 5152 0 0 0 500 E
+14 6 -4 14d5+150 9d4+9
+0 12000
+8 8 0
+BareHandAttack: 4
+E
+#16222
+panther~
+a black panther~
+A large black panther is stalking prey here.
+~
+It looks like a shadow with large yellow eyes, moving so fluidly and
+silently through the undergrowth that it's hard to keep track of where
+it is. Then it stops and looks directly at you, bares it's long 
+deadly teeth at you and hisses loudly.
+~
+387082 0 0 0 918568 0 0 0 0 E
+9 11 1 9d5+100 4d4+4
+0 4500
+8 8 0
+BareHandAttack: 8
+Race: 22
+Noise: You feel like there is something watching you.
+E
+#16223
+fish catfish~
+a small catfish~
+A little catfish swims past your foot.
+~
+It's about six inches long and has a flat head with feelers sprouting
+from the sides of it's wide mouth.
+~
+81930 0 0 0 1024 0 0 0 0 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 0
+BareHandAttack: 4
+E
+#16224
+humanoid goblin guard~
+a goblin guard~
+A short green humanoid is leaning against the wall here.
+~
+This stocky humanoid is about four feet tall, well-muscled and
+looks dumb as a post.  If not for the wicked little claws on it's fingers
+and a face full of sharp teeth you'd dismiss it entirely.
+~
+28714 0 0 0 1064 0 0 0 -1000 E
+9 11 1 9d5+100 4d4+4
+0 4500
+8 8 1
+E
+#16225
+guard humanoid goblin~
+a stocky goblin~
+A short stocky humanoid is sitting here.
+~
+This stocky humanoid is about four feet tall, well muscled and looks
+dumb as a post.  If not for the wicked little claws on it's fingers
+and a face full of sharp teeth you'd dismiss it entirely.
+~
+57386 0 0 0 132136 0 0 0 -1000 E
+9 11 1 9d5+100 4d4+4
+6 4500
+6 6 1
+BareHandAttack: 8
+Race: 27
+E
+#16226
+goblin humanoid guard~
+a goblin guard~
+A short stocky humanoid is leaning against the wall here.
+~
+This stocky humanoid is about three feet tall, well muscled and looks
+dumb as a post.  If not for the wicked little claws on it's fingers
+and a face full of sharp teeth you'd dismiss it entirely.
+~
+26666 0 0 0 132096 0 0 0 -1000 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 1
+BareHandAttack: 4
+Race: 27
+E
+#16227
+guard goblin~
+a goblin guard~
+A burly goblin guard is gnawing on a hunk of flesh here.
+~
+It's about three and a half feet tall, has a muscular green 
+covered body, and doesn't seem to be overly intelligent.  It's little
+fat fingers end in short black claws, and it has a jaw full on nasty
+little sharp pointed teeth.
+~
+45066 0 0 0 132136 0 0 0 -1000 E
+9 11 1 9d5+100 4d4+4
+0 4500
+6 8 1
+BareHandAttack: 8
+Race: 27
+Noise: Something lets out a loud belch.
+E
+#16228
+goblin sergeant~
+the goblin sergeant~
+A short fat humanoid is sleeping here.
+~
+This short little humanoid looks like most the other's you've seen
+except for the fact he's extremely overweight, his green belly
+hangs almost halfway down to his knees. He wears mostly furs,
+including a large wolf head fashioned into a grotesque helmet.
+~
+30730 0 0 0 8520744 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+18 9000
+4 4 1
+BareHandAttack: 7
+Race: 27
+Noise: You hear something snoring.
+E
+#16229
+goblin runt~
+a little goblin~
+A little green goblin is running around here.
+~
+He's a little green bastard about a foot and a half tall. You
+wonder why he's running around in circles and drooling all over himself,
+stopping only on occasion to run into a wall or trip over something.
+~
+77832 0 0 0 8520736 0 0 0 -1000 E
+4 16 6 4d5+50 2d4+2
+4 600
+8 8 1
+Race: 27
+Noise: You hear a loud idiotic giggle.
+E
+#16230
+guard goblin~
+a goblin high guard~
+A mean goblin guard is standing here.
+~
+This green goblin is covered in muscle, and looks like he has been
+through quite a few battles. Though not intelligent by any means, this
+mean guard looks a lot more aware than the others you've seen.
+~
+129066 0 0 0 132136 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+25 10500
+8 8 1
+BareHandAttack: 7
+Race: 13
+E
+#16231
+goblin lord grimskagruk~
+Grimskagruk the goblin lord~
+An evil-looking old goblin lord is sitting on the throne here.
+~
+He is covered in brown and green scales, has large slanted yellow eyes
+and three to four inch wicked ebony claws sprouting from his gnarled fingers 
+and toes.
+~
+129034 0 0 0 1192 0 0 0 -1000 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 1
+BareHandAttack: 8
+Race: 27
+E
+#16290
+grankraukeail tree treant~
+Grankraukeail the ancient treant~
+An enormous Darkwood tree seems to move slightly.
+~
+This massive black trunked tree reaches over twenty feet into the sky.
+Although it is not nearly as tall as most of the trees around it, it
+is quiet a lot thicker, it resembles a huge barrel with thick limbs.
+Staring up at the huge ancient tree you realize that if it can move
+it could probably crush you like a bug.
+~
+772168 0 0 0 267432 0 0 0 0 E
+31 -11 -21 31d5+1000 20d4+20
+0 90000
+8 8 0
+BareHandAttack: 10
+Race: 17
+E
+#16291
+toad frog~
+a fat slimy toad~
+A big fat slimy toad is sitting in the fountain here.
+~
+It's a big one, probably a ten pounder.
+~
+253962 0 0 0 0 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 200
+8 8 0
+BareHandAttack: 4
+Race: 26
+Noise: You hear a strange croaking sound *RRrrriiibit*
+E
+$

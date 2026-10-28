@@ -1,0 +1,215 @@
+#9900
+spectre spectral guardian~
+the spectral guardian~
+A spectral guardian hovers here.
+~
+Ethereal and light grey, this misty figure appears to be that of a young male,
+perhaps in his early twenties. An unholy cold radiates from his form and
+washes over you like a damp fog. This seneschal serves the family in death,
+just as he did in life.
+~
+253994 0 0 0 67108896 0 0 0 -500 E
+12 8 -2 12d5+130 8d4+8
+250 9000
+8 8 1
+Race: 9
+E
+#9901
+ghost alarian~
+Alarian~
+The ghost of Alarian hovers here above the bier.
+~
+Reputed to be a noble and courageous ranger, Alarian was renowned as
+a guardian of the forest.  Even now, in his ghostly form, you can 
+see the regal bearing of his strong, unshaven chin, and the numerous
+scars on his incorporeal flesh that tell of many battles won in
+defense of the woods he loved so dearly.
+~
+8644682 0 0 0 67145728 0 0 0 500 E
+21 -1 -11 21d5+220 14d4+14
+0 27500
+8 8 1
+Race: 9
+E
+#9902
+lord derek senegret paladin ghost~
+Lord Derek Senegret~
+The ghost of Lord Derek Senegret hovers here.
+~
+Knight Lord Senegret is an imposing figure even in death.  His hair
+seems to dance against unseen winds while his ghostly platemail
+bends and waves in harmony with his vapourous body.
+~
+254026 0 0 0 67108992 0 0 0 775 E
+24 -4 -14 24d5+276 16d4+16
+0 35000
+8 8 1
+BareHandAttack: 6
+Race: 9
+E
+#9903
+lich ancient figure~
+the lich~
+An ancient figure stands robed here.
+~
+Obviously once a mage, this skeletal being appears to have passed beyond death
+into some realm far removed from the material world. His hollow eye sockets
+beam with an intense red light, and his skeletal hands wring silently as he
+glares at you. Hatred seems to strike you in a direct beam from his eyes, and
+you, quite literally, feel a burning sensation under his intense gaze.
+~
+8644650 0 0 0 9352 0 0 0 -450 E
+28 -8 -18 28d5+368 18d4+19
+0 50000
+8 8 1
+Race: 9
+E
+#9904
+ghoul~
+the ghoul~
+A ghoul hides here, gnawing on a human bone.
+~
+Once human, this rotting creature must have been raised a zombie and later
+transformed into a flesh-eating beast by some evil mage. Leathery skin hangs
+limply from its frame, and strands of wild hair flow from the dead flesh on
+its skull.
+~
+40 0 0 0 786432 0 0 0 -350 E
+12 8 -2 12d5+130 8d4+8
+0 9000
+8 8 0
+Race: 9
+E
+#9905
+drake shadow shadowdrake~
+the shadowdrake~
+An ethereal shadow stares at you with evil yellow eyes.
+~
+This beast can only be a shadow drake - the undead ghost of a dragonkin that
+still exhibits true life, while in the captured form of a ghost. You can feel 
+the evil emanating from its misty, amorphous form, begging for release, but
+unable to fight against the power that controls its will. Its wings, unlike
+those of a true dragon, are small and seem capable of only short flights,
+while its sinuous body seems distorted somehow; as though the capture of its
+soul has transformed it into a grotesque mockery of its former self.
+~
+8642600 0 0 0 67150984 0 0 0 -350 E
+22 -2 -12 22d5+230 14d4+15
+2250 30000
+8 8 1
+BareHandAttack: 10
+Race: 9
+E
+#9906
+knight skeleton skeletal~
+the skeletal knight~
+A skeletal knight stands sentinel here.
+~
+Bony with decrepit, rusting armour, this undead minion stalks the cemetary in
+search of intruders.
+~
+14 0 0 0 32768 0 0 0 0 E
+18 2 -8 18d5+190 12d4+12
+0 20000
+8 8 0
+Race: 9
+E
+#9907
+guard cemetary~
+the cemetary guard~
+The cemetary guard stands vigil over the gate.
+~
+Bulky and hearty, this somber-faced guard stands ready to keep the
+occupants of the cemetary confined.  His arms are huge and bulge
+from beneath his grey uniform and his legs seem to have been crafted,
+rather than grown naturally.  It is obvious that nothing is getting
+past this guard if he has anything to do about it.
+~
+188442 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 1
+Race: 0
+E
+#9908
+revenant~
+the revenant~
+A revenant wanders the cemetary.
+~
+It appears to be a form of evil, solid ghost. The undead minion is white and
+translucent, showing the twisted, gnarled expression of a beast with a ravenous
+appetite. Streaks of red run from its chin and neck, making you wonder what
+this thing has just eaten.
+~
+8 0 0 0 0 0 0 0 -100 E
+12 8 -2 12d5+130 0d4+8
+0 9000
+0 8 0
+Race: 9
+E
+#9909
+skeleton animal~
+the animal skeleton~
+The animated skeleton of some grazing animal stares at you.
+~
+It appears to have once been a large quadraped. Now, large tatters of rotting
+flesh and gore hang from its animated carcass, as it nips and bites at unseen,
+ethereal grasses.
+~
+8 0 0 0 0 0 0 0 0 E
+18 2 -8 18d5+190 12d4+12
+0 20000
+8 8 0
+Race: 9
+E
+#9910
+gargoyle~
+the gargoyle~
+A gargoyle perches here, surveying the ground below.
+~
+This twisted stone figure depicts a hellish little demon from the foul pits of
+Gehenna. With a wingspan of no more than five feet, the creature's body is
+compact and bulky, with stone claws that could rend a limb from the body of
+even an ogre. Its beaked mouth shows two rows of cracked teeth, capable of
+sawing through bone.
+~
+40 0 0 0 0 0 0 0 0 E
+14 6 -4 14d5+150 9d4+10
+0 12000
+8 8 0
+Race: 25
+E
+#9911
+necro mage necromancer~
+the necromancer~
+A shadowy mage hides in the shadows here.
+~
+Looking much like a skeleton himself, this robed human snarls at you for
+invading his cemetary.  His yellow eyes show nothing short of madness and
+the stench of decay and sweat wafts over you as he approaches.
+~
+524313 0 0 0 9224 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+23
+0 270000
+8 8 0
+Race: 0
+E
+#9912
+ghast~
+the ghast~
+A pale, fanged ghast stalks the cemetary.
+~
+It appears to once have been human, or perhaps a corrupted, failed attempt at
+vampirism. Standing the height of a man, this white, naked creature appears to
+be missing both thumbs, transforming its hands into slashing claws. Its eyes
+are putrid green, and the stench, even from this distance, makes your head
+swoon.
+~
+8388712 0 0 0 0 0 0 0 0 E
+14 6 -4 14d5+150 9d4+10
+0 12000
+8 8 0
+Race: 9
+Noise: You hear a rasping sound nearby.
+E
+$

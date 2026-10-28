@@ -1,0 +1,451 @@
+CircleMUD v3.0 Shop File~
+#21207~
+21228
+21229
+-1
+1.00
+0.01
+-1
+%s You want WHAT to drink?!~
+%s I'm afraid that's impossible.~
+%s What do you expect me to do with that?!~
+%s Perhaps if you tipped me more, I could afford it!~
+%s Misplaced your coin purse, eh? Sure, sure...~
+%s That'll be %d coins, thanks.~
+%s I'll pay you %d coins for that fine item!~
+0
+b
+21211
+None~
+0
+1
+-1
+0
+24
+0
+0
+0
+#21218~
+1259
+1243
+14431
+14400
+14436
+1414
+-1
+1.21
+0.70
+16book
+3book
+8book
+12book
+2
+16parchment
+-1
+%s I don't have a copy. You might try the library.~
+%s Ahh wonderful! Did you bring it with you?~
+%s I'm only interested in books! Wonderful books!~
+%s I'm not made of money, you know! I can't afford this!~
+%s Come back when you have the money.~
+%s Enjoy your reading! That will be %d coins, thanks.~
+%s Oh, what a marvelous find! I'll give %d coins for that!~
+0
+b
+21205
+None~
+0
+1
+-1
+2
+23
+0
+0
+50
+#21219~
+1253
+1254
+1257
+1258
+-1
+1.10
+0.30
+10
+12reagent
+19herb
+-1
+%s Won't find any of those here.~
+%s What, exactly, are you talking about?~
+%s Alchemy deals in potions, not those!~
+%s Would that I could afford it.~
+%s Bah, you can't afford it!~
+%s Tis a very powerful potion. I'll need %d coins.~
+%s A rare find, indeed! I'll offer %d coins.~
+0
+b
+21204
+None~
+0
+21219
+-1
+2
+23
+0
+0
+150
+#21220~
+8036
+4827
+-1
+1.00
+0.60
+3
+12conjure
+6
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+21206
+None~
+0
+1
+-1
+2
+23
+0
+0
+50
+#21221~
+4102
+18203
+-1
+1.00
+0.01
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+21207
+None~
+0
+1
+-1
+0
+24
+0
+0
+0
+#21224~
+7905
+7904
+8030
+8031
+8032
+21224
+8027
+1207
+1208
+8029
+8016
+-1
+1.10
+0.30
+12
+15
+1
+11
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s Begone with you! Come back with some money!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+21222
+None~
+0
+1
+-1
+2
+23
+0
+0
+150
+#21227~
+8010
+8011
+8009
+-1
+1.12
+0.90
+-1
+%s Oops! I seem to have eaten them all!~
+%s You have some with you?~
+%s I only serve baked goods here, sorry.~
+%s I'm a bit short of cash... how about some cookies?~
+%s You can't eat for free, you know!~
+%s Enjoy! That'll be %d coins, thanks.~
+%s Yummy! I'll give you %d coins for that.~
+0
+b
+21208
+None~
+0
+1
+-1
+2
+23
+0
+0
+0
+#21230~
+21205
+21206
+21201
+-1
+2.00
+0.40
+5
+-1
+%s I know nothing of this weapon you seek.~
+%s That sounds like a nice weapon, but where is it?~
+%s I don't deal in such things, only weapons.~
+%s Oh, I don't seem to have enough coins for that...~
+%s Hrmph, you can't afford my excellent weapons!~
+%s Since you really need it, I'll sell it for %d coins.~
+%s Ah, a fine piece. I'll give you %d coins for it.~
+0
+b
+21223
+None~
+0
+1
+-1
+2
+23
+0
+0
+300
+#21232~
+21218
+21220
+21223
+21221
+21219
+21233
+21207
+21202
+-1
+1.35
+0.49
+9
+-1
+%s Sorry, but I don't have any of those.~
+%s Can't find it, eh?~
+%s I don't trade in that sort o' thing... only fine armor!~
+%s Times are tight at the moment. I don't have enough money.~
+%s Be off! You can't afford my fine work!~
+%s Enjoy the armor! That'll be %d coins, please.~
+%s I've never seen such workmanship! I'll give %d coins for it!~
+0
+b
+21224
+None~
+0
+21232
+-1
+2
+23
+0
+0
+300
+#21238~
+-1
+1.00
+0.60
+4
+-1
+%s I don't have anything like that in stock.~
+%s I'd love to see that. Please return when you have it.~
+%s I don't deal in that type of merchandise.~
+%s I am but a poor man and cannot afford it.~
+%s I don't give things away, and you can't afford it!~
+%s I hope you enjoy it, that'll be %d coins please.~
+%s That looks nice! I'll give you %d coins for it!~
+0
+b
+21213
+None~
+0
+1
+-1
+2
+23
+0
+0
+50
+#21261~
+4101
+8001
+21211
+21212
+21213
+-1
+1.00
+0.01
+-1
+%s What's that ya be wantin'?~
+%s Stop messin' 'round! I can't buy what you dun 'ave!~
+%s This here's a bar, me fine adventurer... I don't deal in that sort o' thing!~
+%s Dis bar ain't doin' so good. I can't afford it.~
+%s Off with ya, now! Ya can't pay for that!~
+%s Enjoy! Enjoy! That'll be %d coins, please.~
+%s Lovely... I'll give ya %d coins for it.~
+0
+b
+21226
+None~
+0
+1
+-1
+2
+23
+0
+0
+0
+#21282~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+21282
+-1
+0
+24
+0
+0
+0
+#21283~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+21283
+-1
+0
+24
+0
+0
+0
+#21284~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+21284
+-1
+0
+24
+0
+0
+0
+#21285~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+21285
+-1
+0
+24
+0
+0
+0
+#21286~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+21286
+-1
+0
+24
+0
+0
+0
+$~

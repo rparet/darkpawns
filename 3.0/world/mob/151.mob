@@ -1,0 +1,351 @@
+#15100
+quagga male carve_meat~
+a quagga~
+A quagga stands here grazing contentedly, eyes wary of predators.
+~
+A horse-like animal with zebra stripes on his forequarters and solid colorings
+on his haunches, the quagga keeps a wary eye out for predators. While he is an
+herbivore, his sharp hooves can be deadly to attackers.
+~
+dghu 0 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 1
+BareHandAttack: 9
+Race: 33
+E
+#15101
+quagga female carve_meat~
+a quagga~
+A quagga stands here grazing contentedly, ears cocked listening for predators.
+~
+An equine animal with zebra stripes on her forequarters and solid colorings 
+on her haunches, the quagga stops often and listens intently for predators.
+While normally a peaceful creature, her sharp hooves can be dangerous when
+defending herself.
+~
+dghu 0 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 2
+BareHandAttack: 9
+Race: 33
+E
+#15102
+quagga baby carve_meat~
+a quagga~
+A young quagga frolicks here, unaware of the dangers.
+~
+An equine animal with zebra stripes on her forequarters and solid colorings
+on her haunches, the quagga has no idea how nasty the world can be. If she's
+lucky, she will survive and learn.
+~
+dghu 0 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 2
+BareHandAttack: 9
+Race: 33
+E
+#15103
+marmot carve_meat~
+the marmot~
+A marmot is here, turning the plains into swiss cheese.
+~
+Short, squat, and furry, these burrowing little rodents trust no one. As you
+approach, they chitter endlessly until you go away.
+~
+cdghnqu k 0 E
+24 38 24d8+352 3d5
+0 5878
+8 8 0
+BareHandAttack: 4
+Race: 30
+E
+#15104
+oryx carve_meat~
+an oryx~
+The oryx is here, munching placidly on the grassy plains.
+~
+A member of the antelope family, the oryx has a slim, sleek body built for
+speed, and long, curving horns that could run you through and extend out the
+other side of your body. Luckily, the orxy is a peaceful creature.
+~
+dghu k 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 9
+Race: 33
+E
+#15105
+okapi carve_meat~
+the okapi~
+The okapi stands here, munching on a nice cud of leaves.
+~
+A near cousin to a giraffe, the okapi is much shorter, and is minus the extra
+long neck. Gee, it looks kinda cute.
+~
+dghu k 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 9
+Race: 33
+E
+#15106
+ocelot carve_meat~
+an ocelot~
+An ocelot crouches here, looking for a nice afternoon meal.
+~
+The ocelot appears to be feline, with a black-spotted, tawny-grayish or
+yellow coat. It looks like it is built for speed, and as it hisses at you, it
+appears that it doesn't care to share its meal.
+~
+defgu fks 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 0
+BareHandAttack: 8
+Race: 17
+E
+#15107
+tortoise giant land carve_meat~
+a giant tortoise~
+A giant land tortoise is here, mowing an inexorable path across the plains.
+~
+Huge, highly armored, and extremely ponderous, the word Dreadnought comes
+immediately to mind. You can't help but wonder how long it takes this beast to
+cross the plains.
+~
+cdgqu k 0 E
+33 55 33d8+568 4d5
+0 9478
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#15108
+vulture carve_meat~
+the vulture~
+The vulture sits here, obsidian eyes glittering at the prospect of dinner.
+~
+Lanky and uncoordinated, yet powerful in its own right, the vulture will eat
+anything... as long as it's dead. Its great hooked beak is capable of rending
+large gobbits of flesh, dead or alive. Dying around one of these guys probably
+wouldn't be a good idea.
+~
+deghlqu pA 0 E
+9 12 9d8+81 3d3
+0 1350
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#15109
+blesbok carve_meat~
+a blesbok~
+A blesbok feeds here, ready to bolt at the first sign of danger.
+~
+Similar to an antelope, the blesbok has long, curved horns and a white face.
+You get the impression this creature is an important part of the lower food
+chain.
+~
+dghu 0 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 0
+BareHandAttack: 9
+Race: 33
+E
+#15110
+emu bird carve_meat~
+an emu~
+An emu stands here, looking lost.
+~
+A tall thin-legged bird with a plump round upper body, the emu is a relative
+of the ostrich.
+~
+dghqu 0 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#15111
+peccary carve_meat~
+a peccary~
+The peccary roots here, looking for truffles.
+~
+Short, squat, and covered with thick black bristles, the peccary is of a
+porcine nature.
+~
+dghu k 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 0
+BareHandAttack: 4
+Race: 26
+E
+#15112
+cacomistle carve_meat~
+a cacomistle~
+A cacomistle searches through the grass, looking for baubles.
+~
+Sort of a cross between perhaps a possum and a raccoon, the cacomistle loves
+shiny objects, and will hoard them whenever found.
+~
+cdghnu k 0 E
+24 38 24d8+352 3d5
+0 5878
+8 8 2
+BareHandAttack: 4
+Race: 26
+E
+#15113
+devil dog devil-dog carve_meat skin_pelt~
+a devil-dog~
+A devil-dog prowls here, looking for an easy kill.
+~
+Covered in mangy yellow fur, with a black face and snout, this dog is wild and
+malicious; fearful of nothing. Its baleful red eyes, commoners took to be a
+sign of evil; hence, the name 'devil dog'.
+~
+defglu k 0 E
+24 38 24d8+352 3d5
+0 5878
+8 8 0
+BareHandAttack: 4
+Race: 11
+E
+#15114
+pantaur~
+a pantaur~
+An imposing pantaur stands here, leaning on a wicked-looking spear.
+~
+Wearing no clothes, this cat centaur has only a pouch slung across his back,
+and a wicked-looking spear with a worked metal head. His upper torso is
+vaguely human, with a panther's eyes, ears, and fur. You get the feeling he
+likes to run, just for the feel of it.
+~
+dgilmnqu dhkm 500 E
+36 61 36d8+648 4d5
+100 10800
+8 8 1
+BareHandAttack: 3
+Race: 22
+E
+#15115
+cat centaur~
+a cat centaur~
+A cat centaur stands here, one hand on a hip, the other holding a spear.
+~
+Wearing no clothes, the cat centaur only has a satchel slung across one
+shoulder, and a wicked looking spear in one hand. A fully human upper torso,
+and emphatically female at that, with a lower torso of a great cat. She has
+a twinkle in her eyes.
+~
+dgilmqu dhkm 0 E
+36 61 36d8+648 4d5
+100 10800
+8 8 2
+BareHandAttack: 8
+Race: 22
+E
+#15116
+dzur carve_meat skin_fur~
+a dzur~
+A dzur prowls here, surveying its domain.
+~
+A large feline of stately proportions, the dzur spends most of its time
+lounging in the shade of the intermittent trees that dot the plains. The 
+adage 'living a cat's life' comes from the observations of the scholar, Pliny,
+who studied these great creatures for the better part of his life.
+~
+deglu fks 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 8
+Race: 17
+E
+#15117
+jhegaala carve_meat~
+a jhegaala~
+A jhegaala crouches here, ready to pounce.
+~
+A long, sleek feline, the jhegaala can accelerate incredibly quickly, taking
+down all sorts of prey with long, sharp curving claws and razor-sharp teeth.
+~
+degu fks 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 8
+Race: 17
+E
+#15118
+yendi carve_meat~
+a yendi~
+A yendi slithers through the grass here, looking to strike.
+~
+Mottled brown and quite long, the yendi is deadly poisonous. It paralyzes and
+kills its victims with poison.
+~
+dglqu k 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#15119
+jhereg~
+a jhereg~
+A jhereg circles, reveling in the pleasures of flight, looking for dinner.
+~
+Commoners call this creature 'little dragon'. In actuality, it is a distant
+cousin to the wyvern. Possessing sharp claws, a pointed beak and wide,
+leathery wings, the jhereg prefers dead carcasses over fresh kills.
+~
+degnpu dfkA 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#15120
+kethna carve_meat~
+a kethna~
+A large kethna grazes here, trimming the grass to a few inches.
+~
+A large bovine creature with backward sloping curly horns, the kethna would
+provide you with many steaks, and roasts, and filets, and...
+~
+dghu k 0 E
+33 55 33d8+568 4d5
+0 9478
+8 8 0
+BareHandAttack: 9
+Race: 33
+E
+#15121
+miller tarkan~
+Tarkan, the miller~
+The miller is hard at work producing flour for sale.
+~
+Covered in dusty flour and with a sweaty brow, Tarkan busily takes wheat from
+open sacks and arranges it on a large grindstone. Such labor has nicely toned
+her body yet she still retains a certain feminine charm which puts you right
+at ease.
+~
+bdly 0 1000 E
+22 34 22d8+309 3d5
+50 5159
+8 8 2
+Race: 0
+Script: miller.lua 24
+E
+$

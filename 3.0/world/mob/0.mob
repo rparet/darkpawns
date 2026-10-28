@@ -1,0 +1,305 @@
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+It's Puff!
+~
+d 0 1000 E
+100 199 100d8+3000 9d9
+10 50000
+8 8 2
+BareHandAttack: 3
+Race: 14
+Script: puff.lua 16
+E
+#2
+creator~
+the creator~
+The Creator stands here, observing you quietly.
+~
+The Creator is older than time itself, if such a thing existed. It sits here
+before you, yet it does not. For one instant it is there, and then there is
+nothing.
+~
+denpqr dfgp 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 0
+BareHandAttack: 12
+Race: 25
+Script: creation.lua 1
+E
+#3
+Aneassa trader woman~
+Aneassa the trader~
+A woman cloaked in fine robes stands before you.
+~
+Standing just under 6 feet tall, the woman before bows graciously as you look
+in her direction. She is clothed in a fine robe, made of a material you are
+unfamiliar with. She awaits the draw for which she has been summoned.
+~
+bd 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 2
+Race: 0
+Script: autodraw.lua 576
+E
+#5
+generic mob~
+the generic mob~
+A generic prototype stands here, waiting for an identity.
+~
+This is a generic prototype, meant to be used with string
+for the amusement of the Gods.
+~
+bdp 0 0 E
+20 31 20d8+268 3d5
+0 4472
+8 8 0
+BareHandAttack: 12
+E
+#7
+lunatic~
+a lunatic~
+A lunatic stands here, raving about the moon.
+~
+He's human, but only barely. Blood coats his nails, obviously from the
+damage he's inflicted on his own body. Tattered rags cover his body, which
+although thin, professes the strength of madness.
+~
+ds k 0 E
+36 61 36d8+648 4d5
+0 10800
+8 8 1
+Noise: You hear a mad scream.
+E
+#9
+skull~
+a flaming skull~
+A flaming skull floats in midair here.
+~
+It's a human skull from which flames shoot forth brightly. It's magickal
+existance in this plane seems tenuous at best, or it shimmers as if it was
+about to disappear at any second.
+~
+denpq dfhA 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#10
+zombie~
+a zombie~
+A zombie stares mindlessly into space.
+~
+The zombie appears fragile. Its grey-green flesh looks soft and even its bones
+seem brittle. Its eyes are dark, empty pits that somehow seem to see anyway.
+The zombie's lips and cheeks have shrunk, revealing large, crooked teeth. Its
+hands end in sharp, talonlike nails that bear little resemblance to a normal
+person's fingernails. 
+~
+dnpr df 0 E
+6 7 6d8+44 3d3
+0 734
+8 8 0
+Race: 32
+Noise: A strong, rotting stench fills the air.
+E
+#20
+minion~
+a minion of Serapis~
+A minion of Serapis walks the land in search of souls for his master.
+~
+Sent by Serapis to search the land for threats to his rule... you
+seem to qualify. Death by his hand will not be pretty.
+~
+cdgnst dhk -1000 E
+90 176 90d8+2561 8d8
+666 42690
+8 8 0
+BareHandAttack: 10
+Race: 13
+Script: cleric.lua 256
+E
+#23
+roach~
+a large roach~
+A large roach scurries here.
+~
+It is a huge brown and black roach, much like it's smaller counterpart.  But
+you can not squash this one with your boot.  It appears to be searching for
+food.  You best be careful of this beast.
+~
+adhnq 0 0 E
+3 3 3d8+15 2d3
+0 259
+8 8 0
+BareHandAttack: 1
+Race: 23
+E
+#69
+clone~
+a clone~
+A clone is standing here.
+~
+It's a clone!
+~
+df 0 0 E
+0 0 0d8+0 2d3
+0 0
+8 8 0
+Race: 25
+E
+#70
+satan klaus~
+Satan Klaus~
+Satan Klaus sings, "Slay Bells Ring, Are Ya Listening?"
+~
+Satan Klaus looks a little bit like Adolf Hitler  in a bit red suit. He has a
+VERY evil grin on his face.
+~
+dj 0 0 E
+40 69 40d8+758 5d5
+2000 12649
+8 8 1
+BareHandAttack: 10
+Race: 0
+E
+#81
+elemental earth~
+an earth elemental~
+A large animated rock in the shape of a man stands here.
+~
+Summoned from the plane of elemental Earth, this elemental has been bound
+to this plane by powerful magicks. The elemental can barely conceal the
+rage in its cold, stone eyes.
+~
+demnpqr dfkp 0 E
+0 0 0d8+0 2d3
+0 0
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: conjured.lua 128
+E
+#82
+water elemental waterspout~
+a water elemental~
+A waterspout about the size of a man whirls about.
+~
+Summoned from the elemental plane of Water, this elemental has been
+bound to this plane by powerful magicks.  
+~
+demnpqr dfgkp 0 E
+0 0 0d8+0 2d3
+0 0
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: conjured.lua 128
+E
+#83
+air elemental cyclone~
+an air elemental~
+A small cyclone twists here.
+~
+Summoned from the elemental plane of Air, this elemental has been
+bound to this plane by powerful magicks.
+~
+demnpqr dfkpA 0 E
+0 0 0d8+0 2d3
+0 0
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: conjured.lua 128
+E
+#84
+fire elemental~
+a fire elemental~
+A column of living fire twists and burns everything in its path.
+~
+This elemental has been summoned from the elemental plane of Fire.
+It has been bound to this plane by powerful magicks.
+~
+demnpqr dfp 0 E
+0 0 0d8+0 2d3
+0 0
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: conjured.lua 128
+E
+#85
+angel light dominion~
+a Dominion Angel~
+A glorious Angel in full battle dress stands before you.
+~
+This is a Dominion Angel, the race of Angels that are sent to the material
+world to aid the mortal servants of their eldrich masters. He looks very
+solemn and holy.
+~
+deimnp dfhkA 1000 E
+0 0 0d8+0 2d3
+0 0
+8 8 1
+BareHandAttack: 12
+Race: 12
+Script: conjured.lua 128
+E
+#86
+angel evil dominion~
+a Dominion Angel~
+A evil looking Angel dressed in full battle array stands before you.
+~
+This is Angel belongs to the Dominion, a class of Angels sent to the material
+world to further their masters goals. He looks and smells of Death.
+~
+dejmnp dfhkA -1000 E
+0 0 0d8+0 2d3
+0 0
+8 8 1
+BareHandAttack: 12
+Race: 12
+Script: conjured.lua 128
+E
+#87
+tymora mistress demon~
+Tymora, Mistress of the 8th Dimension~
+Tymora, Mistress of the Eighth Dimension, looks at you in disdain.
+~
+Tymora is a beautiful half-demon, with nut-brown skin and amber eyes. Legend
+holds her to be the first of the succubi, it is said that her vagina is a
+many-toothed maw capable of devouring men whole.
+~
+bdenpqr dfghkmn -1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 2
+BareHandAttack: 10
+Race: 13
+E
+#99
+cuchi~
+Cuchi~
+A cute little striped cat is here.
+~
+This is a cute, but seemingly magical cat.  I wouldn't mess with her, she is
+someones favorite pet.  She (you can tell it is a she by looking for, well,
+let us just say that she has the 'parts' of a female cat) is smallish with
+grey and black stripes and some well placed tuffs of white fur.  She is so
+cute it makes you feel all warm and fuzzy just looking at her.
+~
+bdl 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 2
+BareHandAttack: 8
+Race: 25
+Script: cuchi.lua 512
+E
+$

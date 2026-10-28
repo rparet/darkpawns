@@ -1,0 +1,378 @@
+#2500
+banished priest~
+a banished priest~
+A priest walks by, mumbling blessings only he would understand.
+~
+At one time, this priest would have been a devoted follower of the one true
+faith. He has chosen to ignore the teachings from the mainland, and as such,
+has been banished to this place. The priest is covered in a number of sores,
+and he coughs repeatedly, obviously very sick.
+~
+dlm k 800 E
+48 85 48d8+997 5d5
+0 16627
+8 8 1
+Race: 0
+E
+#2501
+jungle wild man crazed~
+a jungle wildman~
+A crazed-looking man screams with glee before running towards you.
+~
+Having spent many years imprisoned on this island, any semblance of humanity
+has left this poor individual, and it now knows nothing but its own survival.
+Apparently, you look good enough to eat...
+~
+df dfk -600 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 1
+BareHandAttack: 13
+Race: 0
+Noise: You hear a wild scream nearby.
+E
+#2502
+carve_meat~
+a grannit~
+A small armadillo-type creature scuttles along.
+~
+The grannit is about the size of a coconut, with a hard shell and sharp teeth.
+It is a viscious little creature, and enjoys the taste of flesh... it is the
+only indigenous life form to this island.
+~
+dfq dfkp -600 E
+24 38 24d8+352 3d5
+0 5878
+8 8 0
+BareHandAttack: 4
+Race: 26
+E
+#2503
+imposing trelian man~
+Trelian~
+An imposing man passes by without even a glance.
+~
+Trelian is something of a leader on the island, having been here almost from
+the beginning. He believes that since you too are on this island, you are
+nothing more than a prisoner here, so he disregards you completely.
+~
+dlm k 500 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#2504
+deranged prisoner island~
+a deranged prisoner~
+An island prisoner scrounges around madly for food.
+~
+For committing a crime against the church, this individual has been sent to
+the island as punishment - almost certainly a life sentence. He spends most of
+his day looking for food. Rusted shackles hang from his wrists and ankles, and
+the crazed look in his eye is enough to convince you this guy is truly insane.
+~
+dfl fk 700 E
+66 123 66d8+1608 6d6
+0 26809
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#2505
+awkmute strange humanoid creature~
+an awkmute~
+A strange humanoid creature grins as it rushes towards you.
+~
+With a roughly humanoid body, and the head and legs of some twisted bird, the
+awkmute is a mutation most likely produced in the depths of a mage's
+laboratory. Scavenging mainly insects and fruits, the awkmute has no problem
+eating meat, if its hunger grows strong enough.
+~
+dgn dfk -700 E
+66 123 66d8+1608 6d6
+0 26809
+8 8 1
+BareHandAttack: 12
+Race: 22
+E
+#2506
+firos shady man~
+Firos~
+A shady looking man returns your gaze.
+~
+Firos was once a thief but unfortunately for him, he was caught by a church
+guard and sentenced to spend his remaining years here. He rejects all
+teachings of the church and has chosen to live away from the main island
+complex. He rallies as many supporters as he can for his own cause.
+~
+delm k -300 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#2507
+colorful bird~
+a colorful bird~
+A colorful bird flies by.
+~
+It's rather exquisite with its red, blue, green and yellow feathers. It makes
+a shrill call as it flies overhead.
+~
+deghnq fpA 1000 E
+12 17 12d8+124 3d4
+0 2078
+8 8 2
+BareHandAttack: 8
+Race: 9
+E
+#2508
+island shaman man~
+the island shaman~
+A man in tattered robes sits here meditating.
+~
+This man has rejected society, and chosen the isolation of the island to
+pursue his basic magickal ability. The islanders know him as the shaman, and
+seek him out in time of sickness.
+~
+abdy dfkm 1000 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#2509
+razorjaw razor jaw snake carve_meat~
+the razorjaw~
+A strange, snake-like creature with sharp teeth strikes at you.
+~
+This creature has but one purpose, and that is to kill. Although it resembles
+a snake, the razorjaw is incapable of movement and, therefore, waits silently
+for prey to come within range before striking.
+~
+bdefnq dfk -100 E
+65 121 65d8+1572 6d6
+0 26202
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#2510
+mean troll~
+a troll~
+A mean-looking troll stalks around angrily.
+~
+This poor creature probably wandered too close to the city of Kir Drax'in and
+ended up here, preventing his return. With little intelligence, and an 
+increasing hunger, you look like a tempting target.
+~
+cdfgnu fk -700 E
+45 79 45d8+905 5d5
+0 15093
+8 8 1
+Race: 31
+Noise: Something is making a terrible noise close by.
+E
+#2511
+jungle cat carve_meat~
+a jungle cat~
+A jungle cat attempts to conceal itself in the foliage.
+~
+You're not really sure what type of cat this creature is... It's more of a
+cross between a few different species. It was introduced onto the island as a
+deterrent against escape.
+~
+df dfks 600 E
+35 59 35d8+621 4d5
+0 10353
+8 8 1
+BareHandAttack: 8
+Race: 17
+E
+#2512
+half starved lunatic cyrano~
+Cyrano~
+A half-starved lunatic runs at you screaming.
+~
+Ejected from the relative safety of "civilization" on the island, Cyrano lives
+off whatever he can find. Despite his ribs showing quite clearly, do not
+underestimate his strength or determination.
+~
+dfsx dfk -200 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+E
+#2513
+elverine serpent carve_meat~
+an elverine~
+A flesh-eating serpent coils around your legs.
+~
+Grossly distorted, and having an extremely unkind temperament, the elverine has
+a distinct taste for flesh. Your odor has driven it into a frenzy!
+~
+dfnpq dfks -200 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#2514
+lizard man calacorm~
+a calacorm~
+A two-headed lizard man eyes you as his next meal.
+~
+Because it has two heads, this mutated creature is able to think twice as
+fast, and almost predicts your attacks. He also strikes twice as often, making
+him difficult to beat... especially if you don't want to be his next meal.
+~
+dflnpr fk -400 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 1
+BareHandAttack: 8
+Race: 5
+E
+#2515
+kazan gaunt prisoner lookout~
+Kazan~
+A gaunt looking prisoner sits here, acting as a lookout.
+~
+Weak and insane from a lack of food, Kazan was placed up here to keep him
+occupied. While no one travels to this island anymore, he maintains a lookout
+for the ship that will never arrive. He looks at you and licks his lips...
+~
+bdfl k 200 E
+45 79 45d8+905 5d5
+0 15093
+8 8 1
+E
+#2516
+serpent tropical carve_meat~
+a tropical serpent~
+A cleverly-disguised serpent slithers towards you.
+~
+The tropical serpent is well suited to the intense heat, humidity and foliage
+in this jungle terrain. It's natural camoflauge make it difficult to hit and
+given it's silent approach, you're lucky to see it before it strikes!
+~
+defq dfkpst -100 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#2517
+nandibear bear carve_meat~
+a nandibear~
+An overly-large bear with blood driping from its fangs charges at you.
+~
+This creature is certainly not natural, and to have arrived on this island
+is no accident. It was placed here, and it certainly looks more than capable
+of taking care of itself.
+~
+dfln dfk 200 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+BareHandAttack: 9
+Race: 34
+E
+#2518
+kalamite wooden creature~
+a kalamite~
+A strange wooden creature encircles your body with its hand.
+~
+This thing is huge! Your match only half of its height although the kalamite
+is almost as thin as a small sapling. It doesn't see too well, relying on
+smell and movement to find its prey.
+~
+defln dfkps 500 E
+65 121 65d8+1572 6d6
+0 26202
+8 8 2
+Race: 19
+E
+#2519
+rat large carve_meat~
+a large rat~
+A large rat, soaked in blood and hungry, spots you.
+~
+Having just feasted on some unfortunate soul, the rat is still rather hungry.
+Even from here, it looks very diseased, and you'd hate to have it bite you!
+~
+cdfq dfkst -600 E
+20 31 20d8+268 3d5
+0 4472
+8 8 0
+BareHandAttack: 4
+Race: 30
+E
+#2520
+savage barbarian~
+a savage barbarian~
+A savage barbarian, enraged at being locked in here, attacks you.
+~
+Confined for the protection of the other prisoners on the island, the
+barbarian possesses a vast amount of strength, and the prison cell is the
+only thing equal to the task of containing him. You are nothing but an object 
+upon which to vent his anger...
+~
+bdflnpq dfk -1000 E
+45 79 45d8+905 5d5
+0 15093
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#2521
+ogre~
+an ogre~
+A large, mean-looking ogre lumbers towards you.
+~
+With little to no intelligence, the ogre is a danger to the remainder of the
+island population, and has been confined to the prison. It knows nothing but
+hatred, and you have just stepped into his line of sight.
+~
+bcdef dfk -500 E
+30 49 30d8+492 4d5
+0 8215
+8 8 1
+Race: 27
+E
+#2522
+decomposed corpse~
+a decomposed corpse~
+A decomposed corpse shakily gets to its feet and strikes.
+~
+It's dead, yet it just stood up, and now it's coming at you. There was a good
+reason that the corpse was locked in here, and you've just found it.
+~
+bdfnpr dfk -200 E
+35 59 35d8+621 4d5
+0 10353
+8 8 0
+Race: 32
+E
+#2523
+prisoner guard~
+a prisoner~
+A starved-looking prisoner attempts to guard the gate.
+~
+Thin and weak from lack of food, the prisoner has the task of protecting the
+compound occupants from whatever lies outside... anything from wild animals
+to rival prisoners.
+~
+bcdflm fk 400 E
+65 121 65d8+1572 6d6
+0 26202
+8 8 1
+Race: 0
+E
+$

@@ -1,0 +1,1786 @@
+#6700
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 22318
+D1
+~
+~
+0 0 6701
+D2
+~
+~
+0 0 6705
+D3
+~
+~
+0 0 22166
+S
+#6701
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk.
+~
+67 0 10
+D0
+~
+~
+0 0 22319
+D1
+~
+~
+0 0 6702
+D2
+~
+~
+0 0 6512
+D3
+~
+~
+0 0 6700
+S
+#6702
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+D1
+~
+~
+0 0 6500
+D2
+~
+~
+0 0 6513
+D3
+~
+~
+0 0 6701
+S
+#6703
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt.
+~
+67 0 10
+D0
+~
+~
+0 0 22167
+D1
+~
+~
+0 0 6704
+D2
+~
+~
+0 0 6707
+D3
+~
+~
+0 0 22170
+S
+#6704
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below. Ocean waves lap softly at
+the coast to the north.
+~
+67 0 10
+D0
+~
+~
+0 0 22166
+D1
+~
+~
+0 0 6705
+D2
+~
+~
+0 0 6708
+D3
+~
+~
+0 0 6703
+S
+#6705
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+D0
+~
+~
+0 0 6700
+D1
+~
+~
+0 0 6512
+D2
+~
+~
+0 0 6531
+D3
+~
+~
+0 0 6704
+S
+#6706
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk. Ocean waves lap softly at the
+coast to the north and west.
+~
+67 0 10
+D0
+~
+~
+0 0 22170
+D1
+~
+~
+0 0 6707
+D2
+~
+~
+0 0 6709
+D3
+~
+~
+0 0 22172
+S
+#6707
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 6703
+D1
+~
+~
+0 0 6708
+D2
+~
+~
+0 0 6710
+D3
+~
+~
+0 0 6706
+S
+#6708
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk.
+~
+67 0 10
+D0
+~
+~
+0 0 6704
+D1
+~
+~
+0 0 6531
+D2
+~
+~
+0 0 6711
+D3
+~
+~
+0 0 6707
+S
+#6709
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below. Ocean waves lap softly at
+the coast to the south and west.
+~
+67 0 10
+D0
+~
+~
+0 0 6706
+D1
+~
+~
+0 0 6710
+D2
+~
+~
+0 0 22174
+D3
+~
+~
+0 0 22173
+S
+#6710
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+D0
+~
+~
+0 0 6707
+D1
+~
+~
+0 0 6711
+D2
+~
+~
+0 0 6712
+D3
+~
+~
+0 0 6709
+S
+#6711
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 6708
+D1
+~
+~
+0 0 6554
+D2
+~
+~
+0 0 6713
+D3
+~
+~
+0 0 6710
+S
+#6712
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below. Ocean waves lap softly at
+the coast to the south and west.
+~
+67 0 10
+D0
+~
+~
+0 0 6710
+D1
+~
+~
+0 0 6713
+D2
+~
+~
+0 0 22176
+D3
+~
+~
+0 0 22174
+S
+#6713
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+D0
+~
+~
+0 0 6711
+D1
+~
+~
+0 0 6714
+D2
+~
+~
+0 0 6715
+D3
+~
+~
+0 0 6712
+S
+#6714
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk.
+~
+67 0 10
+D0
+~
+~
+0 0 6554
+D1
+~
+~
+0 0 6577
+D2
+~
+~
+0 0 6716
+D3
+~
+~
+0 0 6713
+S
+#6715
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you. Ocean
+waves lap softly at the coast to the west.
+~
+67 0 10
+D0
+~
+~
+0 0 6713
+D1
+~
+~
+0 0 6716
+D2
+~
+~
+0 0 6718
+D3
+~
+~
+0 0 22176
+S
+#6716
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 6714
+D1
+~
+~
+0 0 6717
+D2
+~
+~
+0 0 6719
+D3
+~
+~
+0 0 6715
+S
+#6717
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 6577
+D1
+~
+~
+0 0 6599
+D2
+~
+~
+0 0 6720
+D3
+~
+~
+0 0 6716
+S
+#6718
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present. Ocean waves lap softly at the coast
+to the west.
+~
+67 0 10
+D0
+~
+~
+0 0 6715
+D1
+~
+~
+0 0 6719
+D2
+~
+~
+0 0 6722
+D3
+~
+~
+0 0 22179
+S
+#6719
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt.
+~
+67 0 10
+D0
+~
+~
+0 0 6716
+D1
+~
+~
+0 0 6720
+D2
+~
+~
+0 0 6723
+D3
+~
+~
+0 0 6718
+S
+#6720
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt.
+~
+67 0 10
+D0
+~
+~
+0 0 6717
+D1
+~
+~
+0 0 6619
+D2
+~
+~
+0 0 6640
+D3
+~
+~
+0 0 6719
+S
+#6721
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+D0
+~
+~
+0 0 22179
+D1
+~
+~
+0 0 6722
+D2
+~
+~
+0 0 22184
+D3
+~
+~
+0 0 22182
+S
+#6722
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+D0
+~
+~
+0 0 6718
+D1
+~
+~
+0 0 6723
+D2
+~
+~
+0 0 6724
+D3
+~
+~
+0 0 6721
+S
+#6723
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 6719
+D1
+~
+~
+0 0 6640
+D2
+~
+~
+0 0 6725
+D3
+~
+~
+0 0 6722
+S
+#6724
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below. Ocean waves lap softly at
+the coast to the west.
+~
+67 0 10
+D0
+~
+~
+0 0 6722
+D1
+~
+~
+0 0 6725
+D2
+~
+~
+0 0 6728
+D3
+~
+~
+0 0 22184
+S
+#6725
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+D0
+~
+~
+0 0 6723
+D1
+~
+~
+0 0 6726
+D2
+~
+~
+0 0 6729
+D3
+~
+~
+0 0 6724
+S
+#6726
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+D0
+~
+~
+0 0 6640
+D1
+~
+~
+0 0 6662
+D2
+~
+~
+0 0 6681
+D3
+~
+~
+0 0 6725
+S
+#6727
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk. The tall peaks of a large
+mountain range prevent travel to the south while ocean waves lap softly
+at the coast to the north and west.
+~
+67 0 10
+D0
+~
+~
+0 0 22184
+D1
+~
+~
+0 0 6728
+D3
+~
+~
+0 0 22187
+S
+#6728
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt. The tall peaks of
+a large mountain range prevent travel to the south.
+~
+67 0 10
+D0
+~
+~
+0 0 6724
+D1
+~
+~
+0 0 6729
+D3
+~
+~
+0 0 6727
+S
+#6729
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close. The tall peaks of a large mountain range prevent travel to the south.
+~
+67 0 10
+D0
+~
+~
+0 0 6725
+D1
+~
+~
+0 0 6681
+D3
+~
+~
+0 0 6728
+S
+#6730
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 22362
+D1
+~
+~
+0 0 6731
+D2
+~
+~
+0 0 6526
+D3
+~
+~
+0 0 6511
+S
+#6731
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+D0
+~
+~
+0 0 22363
+D1
+~
+~
+0 0 6732
+D2
+~
+~
+0 0 6527
+D3
+~
+~
+0 0 6730
+S
+#6732
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 22364
+D1
+~
+~
+0 0 22302
+D2
+~
+~
+0 0 6528
+D3
+~
+~
+0 0 6731
+S
+#6733
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt.
+~
+67 0 10
+D0
+~
+~
+0 0 22304
+D1
+~
+~
+0 0 6734
+D2
+~
+~
+0 0 6551
+D3
+~
+~
+0 0 6530
+S
+#6734
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk. Ocean waves lap softly at the coast
+to the north.
+~
+67 0 10
+D0
+~
+~
+0 0 22305
+D1
+~
+~
+0 0 6735
+D2
+~
+~
+0 0 6552
+D3
+~
+~
+0 0 6733
+S
+#6735
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk. Ocean waves lap softly at the coast
+to the north and east.
+~
+67 0 10
+D0
+~
+~
+0 0 22306
+D1
+~
+~
+0 0 22298
+D2
+~
+~
+0 0 6553
+D3
+~
+~
+0 0 6734
+S
+#6736
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below. Ocean waves lap softly at
+the coast to the north.
+~
+67 0 10
+D0
+~
+~
+0 0 22298
+D1
+~
+~
+0 0 6737
+D2
+~
+~
+0 0 6739
+D3
+~
+~
+0 0 6553
+S
+#6737
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below. Ocean waves lap softly at
+the coast to the north.
+~
+67 0 10
+D0
+~
+~
+0 0 22299
+D1
+~
+~
+0 0 6738
+D2
+~
+~
+0 0 6740
+D3
+~
+~
+0 0 6736
+S
+#6738
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+Ocean waves lap softly at the coast to the east and north.
+~
+67 0 10
+D0
+~
+~
+0 0 22300
+D1
+~
+~
+0 0 22297
+D2
+~
+~
+0 0 6741
+D3
+~
+~
+0 0 6737
+S
+#6739
+Watering Hole~
+   This secluded pool appears to have been hidden by nature as there was no
+indication of its existence when viewed from afar. The water is warm and
+murky, but offers sustenance against the arid surroundings.
+   A tree, no higher than you are tall, sprouts from the far edge of the pool,
+its leafy green limbs contrasting nicely with the yellow reeds of the savanna.
+~
+67 0 10
+D0
+~
+~
+0 0 6736
+D1
+~
+~
+0 0 6740
+D2
+~
+~
+0 0 6742
+D3
+~
+~
+0 0 6576
+S
+#6740
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+D0
+~
+~
+0 0 6737
+D1
+~
+~
+0 0 6741
+D2
+~
+~
+0 0 6743
+D3
+~
+~
+0 0 6739
+S
+#6741
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present. Ocean waves lap softly at the coast to
+east.
+~
+67 0 10
+D0
+~
+~
+0 0 6738
+D1
+~
+~
+0 0 22296
+D2
+~
+~
+0 0 6744
+D3
+~
+~
+0 0 6740
+S
+#6742
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 6739
+D1
+~
+~
+0 0 6743
+D2
+~
+~
+0 0 6746
+D3
+~
+~
+0 0 6598
+S
+#6743
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 6740
+D1
+~
+~
+0 0 6744
+D2
+~
+~
+0 0 6747
+D3
+~
+~
+0 0 6742
+S
+#6744
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+D0
+~
+~
+0 0 6741
+D1
+~
+~
+0 0 22295
+D2
+~
+~
+0 0 22293
+D3
+~
+~
+0 0 6743
+S
+#6745
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk.
+~
+67 0 10
+D0
+~
+~
+0 0 6598
+D1
+~
+~
+0 0 6746
+D2
+~
+~
+0 0 6639
+D3
+~
+~
+0 0 6618
+S
+#6746
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+D0
+~
+~
+0 0 6742
+D1
+~
+~
+0 0 6747
+D2
+~
+~
+0 0 6748
+D3
+~
+~
+0 0 6745
+S
+#6747
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present. Ocean waves lap softly at the coast to
+the east.
+~
+67 0 10
+D0
+~
+~
+0 0 6743
+D1
+~
+~
+0 0 22293
+D2
+~
+~
+0 0 6749
+D3
+~
+~
+0 0 6746
+S
+#6748
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+D0
+~
+~
+0 0 6746
+D1
+~
+~
+0 0 6749
+D2
+~
+~
+0 0 6751
+D3
+~
+~
+0 0 6639
+S
+#6749
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+D0
+~
+~
+0 0 6747
+D1
+~
+~
+0 0 6750
+D2
+~
+~
+0 0 6752
+D3
+~
+~
+0 0 6748
+S
+#6750
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+Ocean waves lap softly at the coast to the east and north.
+~
+67 0 10
+D0
+~
+~
+0 0 22293
+D1
+~
+~
+0 0 22292
+D2
+~
+~
+0 0 6753
+D3
+~
+~
+0 0 6749
+S
+#6751
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk.
+~
+67 0 10
+D0
+~
+~
+0 0 6748
+D1
+~
+~
+0 0 6752
+D2
+~
+~
+0 0 6756
+D3
+~
+~
+0 0 6661
+S
+#6752
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk. Ocean waves lap softly at the
+coast to the south.
+~
+67 0 10
+D0
+~
+~
+0 0 6749
+D1
+~
+~
+0 0 6753
+D2
+~
+~
+0 0 22288
+D3
+~
+~
+0 0 6751
+S
+#6753
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt.
+~
+67 0 10
+D0
+~
+~
+0 0 6750
+D1
+~
+~
+0 0 22291
+D2
+~
+~
+0 0 22289
+D3
+~
+~
+0 0 6752
+S
+#6754
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+D0
+~
+~
+0 0 6660
+D1
+~
+~
+0 0 6755
+D2
+~
+~
+0 0 6758
+D3
+~
+~
+0 0 6680
+S
+#6755
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+D0
+~
+~
+0 0 6661
+D1
+~
+~
+0 0 6756
+D2
+~
+~
+0 0 6759
+D3
+~
+~
+0 0 6754
+S
+#6756
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk. Ocean waves lap softly at the coast
+to the south and east.
+~
+67 0 10
+D0
+~
+~
+0 0 6751
+D1
+~
+~
+0 0 22288
+D2
+~
+~
+0 0 22284
+D3
+~
+~
+0 0 6755
+S
+#6757
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt. The tall peaks of
+a large mountain range prevent travel to the south.
+~
+67 0 10
+D0
+~
+~
+0 0 6680
+D1
+~
+~
+0 0 6758
+D3
+~
+~
+0 0 6699
+S
+#6758
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present. The tall peaks of a large mountain
+range prevent travel to the south.
+~
+67 0 10
+D0
+~
+~
+0 0 6754
+D1
+~
+~
+0 0 6759
+D3
+~
+~
+0 0 6757
+S
+#6759
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below. The tall peaks of a large
+mountain range prevent travel to the south while the ocean waves lap softly
+at the coast to the east.
+~
+67 0 10
+D0
+~
+~
+0 0 6755
+D1
+~
+~
+0 0 22284
+D3
+~
+~
+0 0 6758
+S
+#6760
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+S
+#6761
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk.
+~
+67 0 10
+S
+#6762
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+S
+#6763
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+S
+#6764
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+S
+#6765
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+S
+#6766
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+S
+#6767
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt.
+~
+67 0 10
+S
+#6768
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+S
+#6769
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+S
+#6770
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+S
+#6771
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+S
+#6772
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+S
+#6773
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+S
+#6774
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+S
+#6775
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+S
+#6776
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+S
+#6777
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+S
+#6778
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt.
+~
+67 0 10
+S
+#6779
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+S
+#6780
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt.
+~
+67 0 10
+S
+#6781
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+S
+#6782
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+S
+#6783
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+S
+#6784
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+S
+#6785
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+S
+#6786
+Salt Flats~
+   Perhaps once part of the ocean itself, these flats are nothing more
+than a plane of cracked, hardened stones of salt. The desert lies not
+too far in the distance, and the sound of ocean waves is also relatively
+close.
+~
+67 0 10
+S
+#6787
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt.
+~
+67 0 10
+S
+#6788
+Salt Flats~
+   Coastal waters lap softly at the coast not far from here and in
+contrast, the shimmering heat of a sandy desert lies in the opposite
+direction. Between the two, nothing but a plane of salt.
+~
+67 0 10
+S
+#6789
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+S
+#6790
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk.
+~
+67 0 10
+S
+#6791
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+S
+#6792
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+S
+#6793
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+S
+#6794
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk.
+~
+67 0 10
+S
+#6795
+Salt Flats~
+   The vast salt flats of the southern continent lie around you, devoid
+of any movement or visible life. Large cracks run across the ground, some
+so deep that you cannot even see what lies below.
+~
+67 0 10
+S
+#6796
+Salt Flats~
+   The ground crumbles beneath you as you travel, nothing more than layer
+upon layer of hardened salt. Weather and time have stripped all forms of
+life from the area leaving nothing but a desolate landscape before you.
+~
+67 0 10
+S
+#6797
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+S
+#6798
+Salt Flats~
+   Here, the desert sands and silt in the distance have given way to
+broad flats of natural salt. Chunks of the hardened stones lay caked
+across the ground, some cracked and rising above the surface to form
+obstacles through which you must walk.
+~
+67 0 10
+S
+#6799
+Salt Flats~
+   Chunks of crystalline salt crumble beneath your step, the flats around
+you covered by it. A warm ocean breeze helps clear the air although the
+strong smell of salt is ever present.
+~
+67 0 10
+S
+$~

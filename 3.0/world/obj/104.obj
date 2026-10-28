@@ -1,0 +1,34 @@
+#10400
+teapot stone~
+a stone teapot~
+A stone teapot rests upon a low, bamboo table in the center of the room.~
+~
+23 ae 0 0
+5000 5000 11 0 0
+1 3 0 100 0 1
+E
+teapot stone~
+A wisp of steam curls upward from the spout of a small teapot of dark, glassy
+stone. The scent of green tea fills the air... a cup of hot tea might be just
+the thing to ease your weary spirit.
+~
+E
+table bamboo~
+A low, square table of bent bamboo staves rests in the center of the floor,
+surrounded by four straw-filled zafus.
+~
+#10401
+waterlily flower~
+a waterlily~
+Lovely, white waterlilies float gently on the water's surface.~
+~
+19 0 a 0
+1 0 0 0 0
+1 2 5 40 15 1
+E
+waterlily flower~
+Clean, white petals surround pale yellow stamens of this beautiful waterplant.
+It's a shame to pick it, but you've heard they are edible, and even quite
+delicious.
+~
+$~

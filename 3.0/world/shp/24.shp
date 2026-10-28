@@ -1,0 +1,33 @@
+CircleMUD v3.0 Shop File~
+#2413~
+2407
+2406
+2408
+2409
+-1
+1.25
+0.85
+9
+5
+11
+-1
+%s Huh?  We don't got any of that new-fangled crap!~
+%s Sure, I'd love to buy it, if you HAD ONE.~
+%s What the hell would I do with that? Keep it!~
+%s I can't afford that! Money doesn't grow on trees y'know..~
+%s Get real! I'm not givin' this crap away!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+2410
+None~
+0
+2413
+-1
+0
+23
+0
+0
+50
+$~

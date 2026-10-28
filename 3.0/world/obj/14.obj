@@ -1,0 +1,405 @@
+#1400
+ceremonial scroll~
+a cermonial scroll~
+A ceremonial scroll has carelessly been discarded.~
+~
+2 d a 0
+0 0 0 0 0
+2 3 7000 100 0 1
+S ceremonial_scroll.lua 2
+E
+ceremonial scroll~
+The scroll has been inscribed with all manner of symbols...perhaps if you
+know where it can be used, you could read it.
+~
+#1401
+daemon bone skeletal remains~
+a daemon bone~
+The skeletal remains of a daemon rest on the ground.~
+~
+12 0 ao 0
+0 0 0 0 5
+3 3 10 100 0 1
+E
+daemon bone skeletal remains~
+The bone is cracked in numerous places, suggesting the foul beast suffered
+a series of fatal blows.
+~
+A
+24 3
+#1402
+blood wax red candle~
+a bloodwax candle~
+An interesting red candle has been left here.~
+~
+1 0 ao 0
+0 0 1 0 5
+1 3 20 100 0 1
+E
+blood wax red candle~
+The candle has been made using the blood of some poor creature and is used
+mainly in the dark magickal arts.
+~
+#1403
+piece pumice volcanic rock~
+a piece of pumice~
+A small piece of volcanic rock sits nearby.~
+~
+13 0 a 0
+0 0 0 0 0
+2 3 20 100 0 1
+E
+piece pumice volcanic rock~
+The pumice is a light, porous volcanic rock often used as an abrasive to
+clean or polish other substances.
+~
+#1404
+purified ash~
+purified ash~
+Some ash lies scattered over the ground.~
+~
+13 0 a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+purified ash~
+Whatever the object or creature was, the ash is the only indication that
+it every existed.
+~
+#1405
+piece obsidian glassy rock~
+a piece of obsidian~
+A dark, glassy rock lies close by.~
+~
+13 0 a 0
+0 0 0 0 0
+3 3 10 100 0 1
+E
+piece obsidian glassy rock~
+The obsidian rock is formed from hardened lava and has some unique magickal
+properties used specifically in sorcery.
+~
+#1406
+daemonic focus talisman~
+a daemonic focus~
+An intricately designed talisman has been discarded by its owner.~
+~
+11 a ac 0
+0 0 0 0 1
+2 3 5000 100 0 1
+S daemonic_focus.lua 2
+E
+daemonic focus talisman~
+The focus is circular with a five-pointed star engraved on one side and a
+piece of cord through it that allows you to wear it as a necklace. It pulses
+softly at regular intervals.
+
+Around its circumference are written the words:
+  utbuho qibmrog
+  unsmecondus poih
+  gewbar moibar
+  vibugp miobar
+~
+A
+24 -2
+#1407
+focus~
+a focus~
+An intricately designed talisman has been discarded by its owner.~
+~
+11 0 ac 0
+0 0 0 0 1
+2 3 2000 100 0 1
+E
+focus~
+The focus is circular with a five-pointed star engraved on one side and a
+piece of cord through it that allows you to wear it as a necklace.
+~
+#1408
+shimmering blue portal~
+a shimmering blue portal~
+A shimmering blue portal hovers a few feet off the ground.~
+~
+12 0 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+shimmering blue portal~
+The portal expands and contracts at irregular intervals but remains large
+enough for you to pass through.
+~
+#1409
+daemonic statues~
+the daemon statues~
+Two daemonic statues sit either side of the path's beginning.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+daemonic statues~
+The statues are quite large and foreboding, each looks down at you with
+a permanent evil grin.
+~
+#1410
+daemonic statue~
+a daemonic statue~
+A daemonic statue sits just beyond the circle.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+daemonic statue~
+The statue is quite large and foreboding; it looks down at you with a
+permanent evil grin.
+~
+#1411
+daemonic statue~
+a daemonic statue~
+A daemonic statue sits in an eternal watch over the forest below.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+daemonic statue~
+The statue is quite large and foreboding; it looks down at you with a
+permanent evil grin.
+~
+#1412
+tinder box tinderbox~
+a tinderbox~
+A small, wooden tinderbox is here.~
+~
+1 0 ao 0
+0 0 1 0 4
+2 3 60 100 0 1
+S tinderbox.lua 2
+E
+tinder box tinderbox~
+The small box contains a few pieces of tinder and flint, enough to start
+a little fire and provide some light.
+~
+#1413
+stone brazier~
+a stone brazier~
+A stone brazier glows softly with a magical blue flame.~
+~
+15 e 0 0
+0 0 -1 0 0
+1 3 0 100 0 1
+E
+stone brazier~
+The brazier dominates the chamber and remarkably produces no light despite
+the flames within.
+~
+#1414
+hefty leather bound book keep stones~
+the Keep of Stones~
+A hefty leather-bound book, covered in dust, has been left here.~
+~
+14 p ao 0
+0 0 0 0 0
+5 3 300 100 0 1
+E
+hefty leather bound book keep stone~
+The book is more a journal than anything else. You skim through it and the
+only page of note reads as follows:
+
+"During the daemonic wars of Vymornia, a sanctuary was built high within
+the mountains where the mages of the land could develop some form of defense
+against the foul beasts. Hidden from the eye of the common man, Stonekeep
+was born and although many have sought the secrets it contains, few have
+returned to speak of it.
+
+Many years have passed and the land is at peace. The acolytes of the keep
+have not been seen for some time and the only evidence that they still
+practice their arts is the occassional streak of fire across the sky."
+~
+#1415
+helm daemonic~
+a daemonic helm~
+A daemonic helm, radiating with power, lies here on the ground.~
+~
+9 ag ae 0
+15 0 0 0 2
+5 3 1700 30 0 1
+E
+daemonic helm~
+The helm glows a soft red and has been constructed from the skull of a
+lesser daemon.
+~
+A
+26 -2
+A
+7 2
+#1416
+greaves daemonic~
+some daemonic greaves~
+A set of daemonic greaves glows softly nearby.~
+~
+9 ag af 0
+11 0 0 0 2
+8 3 1500 30 0 1
+E
+daemonic greaves~
+The greaves have been constructed from the thick hide of a lesser daemon
+and should offer some protection.
+~
+A
+19 1
+A
+7 1
+#1417
+sleeves daemonic~
+some daemonic sleeves~
+A set of daemonic sleeves has been discarded here.~
+~
+9 ag ai 0
+10 0 0 0 2
+8 3 1300 30 0 1
+E
+daemonic sleeves~
+The sleeves have been constructed from the thick hide of a lesser daemon
+and should offer some protection.
+~
+A
+28 -2
+A
+7 2
+#1418
+acolyte robes~
+some acolyte robes~
+Some acolyte robes lie in a crumpled heap on the ground.~
+~
+11 0 ak 0
+0 0 0 0 4
+8 3 275 30 0 1
+#1419
+symbolic talisman~
+a symbolic talisman~
+A talisman with several engravings sits here.~
+~
+8 0 ac 0
+0 0 0 0 4
+3 3 400 20 0 1
+E
+symbolic talisman~
+The talisman is more ornamental than anything else. You don't understand
+the symbols engraved upon it but it still looks nice.
+~
+#1420
+antali trident~
+an antali trident~
+A well-crafted trident lies on the ground.~
+~
+5 0 an 0
+4 7 7 14 4
+15 3 500 25 0 1
+E
+antali trident~
+The antali blacksmiths of the land are reknowned for the excellent
+craftmenship and this trident is no except. It has highly polished metal
+prongs and should be of some use.
+~
+R
+4 3
+#1421
+magical barrier~
+a magical barrier~
+A magical barrier has been created before you.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+S barrier.lua 6
+E
+magical barrier~
+As hard as you try, you cannot progress through the barrier. You strike at
+it with your weapon but even that fails. Perhaps if you could destroy the
+source of the barrier's power, you could progress past it.
+~
+#1422
+mace silver spiked~
+a silver-spiked mace~
+A black mace with silver spikes lies on the ground.~
+~
+5 0 an 0
+5 5 5 5 4
+12 2 300 20 0 1
+E
+silver spiked mace~
+The mace is relatively small and lightweight compared to some of its
+cousins. Its silver spikes are extremely sharp and should cause a good
+deal of damage.
+~
+R
+5 2
+#1423
+book sorcery spell~
+the Book of Sorcery~
+A spellbook of some description lies abandoned on the ground.~
+~
+14 fg ao 0
+0 0 0 0 0
+5 3 400 50 0 1
+E
+book sorcery spell~
+The book contains mostly blank pages but the &Wfirst&n and &Wsecond&n pages have
+an ancient text scripted neatly.
+~
+E
+one first~
+Thus begins your study of spell magick. A good student binds into his
+spellbook the preparation of each spell presented to him. A bold one commits
+it to memory. And an impatient one throws the casting of the mind into the
+world around him. While your path leads through the warring arts, you must
+respect the ways of magick to master these practical spells.
+
+In order to use the magick discussed below, the student must place a focus
+within a circle of empowerment - the focus can be used at a later time to
+recall the spell. A candle should be placed at each of the marked points
+within the circle and the appropriate reagents placed in its center. A
+specially prepared scroll must then be recited and the spell shall be bound
+to the focus.
+
+A warning to the young acolyte - once bound to a focus, the same spell
+cannot be bound a second time - to do so would be a waste of precious
+reagents.
+~
+E
+two second~
+&gIgnite Candle (utbuho qibmrog)&n
+------------------------------
+purified ash, pumice
+
+&gEndure Heat (unsmecondus poih)&n
+------------------------------
+obsidian, pumice
+
+&gSummon Daemon (gewbar miobar)&n
+-----------------------------
+purified ash, pumice, obsidian, daemon bone
+
+&gBanish Daemon (vibugp miobar)&n
+-----------------------------
+purified ash, pumice, daemon bone
+~
+A
+27 2
+#1424
+daemonic wand~
+a daemonic wand~
+A daemonic wand has carelessly been discarded nearby.~
+~
+3 0 ao 0
+3 0 0 0 1
+1 3 20000 100 0 1
+E
+daemonic wand~
+The wand has been inscribed with a variety of glyphs and symbols, none of
+which are known to you. Small flames burst from the wand at random intervals,
+yet they lack any heat and subsequently do no harm.
+~
+$~

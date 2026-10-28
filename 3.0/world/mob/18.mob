@@ -1,0 +1,74 @@
+#1800
+falycion giant spider~
+a falycion spider~
+A falycion spider eyes you off as its next meal.
+~
+As large as you, the creature before you has only one thing on its mind, and
+that's you! Covered in small, spindly hairs and a large red cross on its
+abdomen, its eight eyes are all focused squarely on you. Given its size, it
+moves rather quickly and appears quite agile.
+~
+dfpu dfks 0 E
+8 10 8d8+67 3d3
+0 1131
+8 8 0
+BareHandAttack: 4
+Race: 8
+Script: snake.lua 256
+E
+#1801
+falycion giant spider~
+a falycion spider~
+A falycion spider eyes you off as its next meal.
+~
+As large as you, the creature before you has only one thing on its mind, and
+that's you! Covered in small, spindly hairs and a large red cross on its
+abdomen, its eight eyes are all focused squarely on you. Given its size, it
+moves rather quickly and appears quite agile.
+~
+dfpu dfks 0 E
+8 10 8d8+67 3d3
+0 1131
+8 8 0
+BareHandAttack: 4
+Race: 8
+Script: snake.lua 256
+E
+#1802
+falycion giant spider~
+a falycion spider~
+A falycion spider eyes you off as its next meal.
+~
+As large as you, the creature before you has only one thing on its mind, and
+that's you! Covered in small, spindly hairs and a large red cross on its
+abdomen, its eight eyes are all focused squarely on you. Given its size, it
+moves rather quickly and appears quite agile.
+~
+dfpu dfks 0 E
+8 10 8d8+67 3d3
+0 1131
+8 8 0
+BareHandAttack: 4
+Race: 8
+Script: paralyse.lua 256
+E
+#1803
+falycion giant queen spider~
+the falycion spider queen~
+The falycion spider queen drags herself up and launches at you.
+~
+Normally this foul beast wouldn't move, but your arrival coincides nicely with
+its meal time! Twice as large as a normal falycion spider, the queen is built
+for one purpose and that is to propagate the species. Covered in small,
+spindly hairs and a large red cross on its abdomen, its eight eyes are all
+focused squarely on you!
+~
+bdfpq dfk 0 E
+12 17 12d8+124 3d4
+0 2078
+8 8 2
+BareHandAttack: 4
+Race: 8
+Script: paralyse.lua 256
+E
+$

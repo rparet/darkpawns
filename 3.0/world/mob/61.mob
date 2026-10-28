@@ -1,0 +1,51 @@
+#6101
+baatezu sand devil~
+a baatezu~
+A horrific demon crawls across the sands.
+~
+Having no visible sign of eyes, the sand devil must have evolved some magical
+sense replacing sight. Raising its head at your approach, it definitely does
+not appear to be blind. Skin burned red to black, its crudely-humanoid form
+is stooped low to the ground - crippled by a lifetime in the blazing sun.
+~
+defgnpsux dfk -300 E
+27 44 27d8+420 3d5
+0 7014
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#6102
+sandstorm funnel black sand~
+a sandstorm~
+A funnel of black sand spins violently before you.
+~
+The wind spins furiously, whipping the black sands high into the air. Picking
+up everything and everyone in its path, it sends them sailing away through
+dense clouds of stinging black sand.
+~
+cdefglnpqru dfhpAH 400 E
+48 85 48d8+997 5d5
+0 16627
+8 8 0
+BareHandAttack: 12
+Race: 15
+Noise: The noise of the storm intensifies nearby.
+Script: sandstorm.lua 256
+E
+#6103
+locust cicada giant~
+a giant locust~
+A great green locust crawls through the desert storm..
+~
+A great cicada crawls slowly through the blinding sands, its brilliant green
+carapace burnished black by the harsh, blowing sand.
+~
+cdgmqu kA 0 E
+45 79 45d8+905 5d5
+0 15093
+8 8 1
+BareHandAttack: 10
+Race: 23
+E
+$

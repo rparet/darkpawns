@@ -1,0 +1,57 @@
+#18601
+templar undead~
+an undead templar~
+An undead templar continues his eternal mission here.
+~
+Wearing ancient armor that bears the crest of Kir Drax'in, it continues to
+carry out its orders in its afterlife.
+~
+dgmnpru df -500 E
+48 -28 -38 48d8+3325 32d4+32
+40 3325
+8 8 0
+Race: 32
+Script: magic_user.lua 256
+E
+#18602
+revenant undead ghost zombie~
+a revenant~
+A revenant wanders about the area.
+~
+Humanoid in appearance, its eyes gleam with a feral intelligence. Mottled
+grey skin and talon-like fingers end any resemblance to a human.
+~
+dgnpru df -350 E
+42 -22 -32 42d8+2721 28d4+28
+20 2721
+8 8 0
+Race: 32
+E
+#18603
+humanoid undead fleshless~
+a fleshless humanoid~
+An evil looking brown humanoid hisses as it sees you.
+~
+It has an angry, evil countenance.
+~
+dgnpru dfk -400 E
+39 -19 -29 39d8+2435 26d4+26
+20 2435
+8 8 0
+Race: 32
+Script: magic_user.lua 256
+E
+#18604
+thing pale mob~
+the pale thing~
+The pale thing looks for prey.
+~
+A tall, lean, pale, ugly thing.
+~
+cdfg d -600 E
+45 -25 -35 45d8+3018 30d4+30
+0 3018
+8 8 0
+Script: magic_user.lua 256
+E
+$

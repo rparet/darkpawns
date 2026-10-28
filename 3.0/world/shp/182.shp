@@ -1,0 +1,378 @@
+CircleMUD v3.0 Shop File~
+#18225~
+18204
+18205
+8010
+8009
+-1
+1.00
+0.90
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+18204
+None~
+0
+18225
+-1
+2
+23
+0
+0
+0
+#18226~
+18211
+18212
+-1
+1.20
+0.90
+13carnation
+13rose
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+18206
+None~
+0
+18226
+-1
+2
+23
+0
+0
+25
+#18227~
+18213
+18214
+18215
+18216
+18217
+18250
+-1
+1.10
+0.90
+5
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+18207
+None~
+0
+18227
+-1
+2
+23
+0
+0
+300
+#18230~
+18220
+18225
+18226
+18227
+18218
+18288
+-1
+1.20
+0.80
+9
+1
+11
+-1
+%s Look at list, stranger! I do not have that!~
+%s You try to cheat me? Leave store at once!~
+%s I have no interest in such a thing.~
+%s This thing far too valuable for my poor shop.~
+%s You have no money, you get no goods! Begone!~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+18212
+None~
+0
+18230
+-1
+2
+23
+0
+0
+300
+#18240~
+8008
+8007
+-1
+1.00
+1.00
+8
+12stone
+11necklace
+11ring
+-1
+%s Izz dunna hazz dat in ssstock heress.~
+%s Bahz, you dunna have datzz!~
+%s Heh.. Whaat would Izz need datzz for?~
+%s Izz dunna hazz da coinsss for datzz now.~
+%s Yazz low on za coinsss for datzz now.~
+%s Sssold! %d coinsss, pleasssure doing za buzzinesss!~
+%s Yazz sssold me. %d coinsss for yazz troublesss.~
+0
+b
+18238
+None~
+0
+1
+-1
+0
+24
+0
+0
+150
+#18248~
+18202
+18203
+8001
+5318
+-1
+1.10
+0.90
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+18205
+None~
+0
+18248
+-1
+0
+24
+0
+0
+0
+#18249~
+18206
+18233
+-1
+1.10
+0.90
+-1
+%s So sorry, I have nothing such as that.~
+%s Please to return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please to return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+18208
+None~
+0
+18249
+-1
+2
+23
+0
+0
+0
+#18277~
+1228
+1234
+1226
+1236
+1239
+1231
+8036
+4827
+-1
+1.00
+1.00
+3
+10
+4
+2
+12conjure
+12reagent
+19herb
+16parchment
+6
+-1
+%s So sorry, I have nothing such as that.~
+%s Please return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing!~
+%s Please return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+18230
+None~
+0
+18277
+-1
+2
+23
+0
+0
+150
+#18296~
+8027
+8032
+8063
+21224
+1207
+1208
+18221
+18222
+8016
+-1
+1.00
+1.00
+1
+15
+-1
+%s So sorry, I have nothing such as that.~
+%s Please return when you have the item.~
+%s I have no need of such an item.~
+%s If only I could afford such a thing.~
+%s Please return when you have the gold.~
+%s Excellent choice! The price is %d coins.~
+%s I can offer you %d coins for that.~
+0
+b
+18235
+None~
+0
+18296
+-1
+2
+23
+0
+0
+150
+#18330~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+27886
+None~
+0
+18330
+-1
+0
+24
+0
+0
+0
+#18331~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+18331
+-1
+0
+28
+0
+0
+0
+#18332~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+18332
+-1
+0
+24
+0
+0
+0
+#18333~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+18333
+-1
+0
+24
+0
+0
+0
+$~

@@ -1,0 +1,47 @@
+#3800
+hastur unspeakable~
+hastur, the unspeakable~
+Hasture, the Unspeakable, stands here, driving you insane.
+~
+Hastur is a Great God, controlling the depths of deeper darkness. Mortal men
+have tried speaking his name during great rituals, but to do so would doom
+any normal person with utter madness.
+~
+d 0 0 E
+0 20 10 1d8+0 1d1+0
+0 0
+8 8 1
+Race: 0
+E
+#3801
+Azathoth~
+Azathoth~
+Azathoth hovers eerily above the ground.
+~
+The supreme ruler of all Thunderclap, Azathoth conducts pure evilness
+mentally, like a pure bred mystic with purgatorial tendancies. He is cut
+like a true warrior, and eyes you with a glance that pierces to the very
+depths of your terrified marrow.
+~
+d 0 0 E
+0 20 10 1d8+0 1d1+0
+0 0
+8 8 1
+Race: 0
+E
+#3802
+Kadath Cold Waste~
+Kadath, the Cold Waste~
+Kadath, the Cold Waste, stands here, freezing everything in its path.
+~
+Made from the element of pure ice, Kadath is the ruler of all that is frozen.
+A searing sensation of madness eminates from him, however, instilling a
+deep-seeded feeling of disjointed, soul-searing fear.
+~
+d 0 0 E
+0 20 10 1d8+0 1d1+0
+0 0
+8 8 0
+Race: 0
+E
+$

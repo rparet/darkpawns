@@ -1,0 +1,3124 @@
+#18200
+Immortal Map Room for the City of Kir-Oshi~
+   This room is surrounded by total blackness on all sides. It serves as the
+immortal entryway into the city of Kir-Oshi. There is an old sign hovering in
+the northingness. Right next to it, a shiny new map mystically moves about.
+Some words, probably serving as the legend to the new map are under it.
+A large Ironwood desk mysteriously floats in the center of this void-like
+cavern. Scattered upon its surface, scrolls of ancient parchment are filled
+with hand-written scrawlings. The only exit leads down, to the main gate of
+Kir-Oshi.
+~
+182 cdgj 0
+D5
+~
+~
+0 0 18216
+E
+sign~
+0~
+ 
+                                   I
+                                   |
+                                I--I--I
+                                   |
+                3--C------C--------+-------C-------C--5
+                |  |               F               |  |
+                C  /               |               /  C
+                |  |               |               |  |
+                |  C---C---C---C---C---C---C---C---C  |        F--F--F
+                |  |               |               |  |        |  |  |
+                |  C   I   I   I   C   I       I   C  |        |  F  |
+                C  |   |   |   |   |   |       |   |  C        |     |
+           F----+--C---C---C---C---C---C---C---C---C--+--------F     F--I
+                |  |   |       |   |   |   |   |   |  |        |     |
+                |  |   I       I   |   I   I   I   |  |        |  F  |
+                |  |               |               |  |        |  |  |
+                |  C           C---C---C           C  |        F--F--F
+                |  |               |               |  |
+                |  C---C---C---C---C---C---C---C---C  |
+                |  |               |               |  |
+                C  \               |               \  C
+                |  |               |               |  |
+                1--C------C--------+-------C-------C--3
+                                   |
+                                   |
+          T--------F--------F------F
+                                   |
+                                   |
+                                   F-----F-----F-----F-----F
+                                   |     |     |     |     |
+                                I--F  I--F  I--F  I--F  I--F
+
+
+This convoluted map brought to you by Orodreth and the Letter "Q".
+~
+E
+map~
+0~
+              \--C--C--C--C--C--C--C--\
+              |           |           |
+     \        C  B  F  1--C--2  TR A  C
+     |        |  |  |  |  |  |  |  |  |
+  I--T--C--C--C--C--C--C--C--C--C--C--C--C--C--C--C--C--C
+     |        |  |  |  |  |  |  |  |  |     |     |     |
+     D        C  TV I  3--C--4  ID TA C  \--C  \--C  C--C
+              |           |           |              |
+              C        JL |  DM       C              \
+              \--C--C--C--C--C--C--C--\
+                          |
+                          G--G--G
+                          |  |  |
+                          G--G--G--I
+                          |  |  |
+                          G--G--G
+~
+E
+legend~
+0~
+B = Baker
+T = Temple
+D = Donation Room
+I = Inside
+C = City
+F = Flower Shop
+TV = Tavern
+1 = Overlaps (Weaponsmith, Chosen Board Room, which leads up)
+2 = Overlaps (Bank, General Store)
+TR = The Trade Board Room
+A = Armor shop
+3 = Overlaps (Citizenship "shop", Sushi Shop)
+4 = Overlaps (Stables, Post Office) .. JL = Jail (which leads up)
+DM = Dump 
+G = Garden
+ID = Identify Shop
+TA = Tattoo Shop
+~
+E
+scrawlings~
+0~
+Updates/Changes:
+   a) Main entrance to Oshi to the north, harbors to east (connects to
+      ocean), temple to west, gardens to south.
+   b) Added ID shop, Jail, Dump, Chosen/Trade board rooms, mortician,
+      stables, general store
+   c) Need key to access room above the tavern, allowing players to fight
+      the mobs that used to be located in the "Fire Dragon Inn"
+   d) Changed harbor so it doesn't overlap, 3 piers instead of 5, with
+      small ships docked, the 3rd of which opens to a tunnel connecting to
+      the Lui'she Ch'uan Tong hideout
+~
+S
+#18201
+The Altar~
+   This room is almost completely filled by a huge altar that has been
+constructed to worship the Gods. You can tell that this place is well-
+respected because pilgrims have left money and other offerings here
+without fear that thieves will take them. There is a mosaic behind
+the altar, constructed centuries ago by the monks.
+~
+182 cdegs 0
+D2
+The temple common area is to the south.
+~
+~
+0 -1 18203
+D5
+A strange odor is emanating from there.
+~
+~
+0 0 18279
+E
+mosaic~
+0~
+The mosaic has been made by the monks of Kir-Oshi of colored stones. It
+depicts a mythical dragon flying through the clouds, its wings finely
+crafted in shards of jade.
+~
+S
+#18202
+A Meditation Room~
+   This room is simple and unadorned, except for a few colored lanterns that
+hang from the ceiling. The floor is bare stone, with straw mats placed from
+one end to the other. The purpose of this room is clear: to facilitate the
+ancient art of Zanzen, the meditation.
+~
+182 de 0
+D1
+The temple common area is to the east.
+~
+~
+0 -1 18203
+S
+#18203
+The Temple Common Area~
+   This is a large room with a vaulted ceiling, kept clean and spartan by
+the monks that live here. All is quiet now, except for the light sound of
+bare feet walking across the spotless white marble floor, and the rhythmic
+chanting coming from the room to the west.
+   The view from this open hillside building is absolutely splendid. You can
+see the city of Kir-Oshi in all its wonder to the east. In the distance to
+the north, you can see the vast, rolling plains of dor-Sefrith; even further
+is the silhouette of the Grey Mountains.
+   The entrance to the temple is to the east, the altar to the north. To
+the south, ordinary citizens have left offerings for the less fortunate.
+~
+182 cdegmsC 0
+D0
+The Altar is just to the north.
+~
+~
+0 -1 18201
+D1
+~
+~
+0 0 18235
+D2
+To the south you see heaps of worn clothing piled haphazardly.
+~
+~
+0 -1 18204
+D3
+A meditation room is to the west.
+~
+~
+0 -1 18202
+S
+#18204
+Offerings to the Poor~
+   This is where the citizens of Kir-Oshi offer their extra belongings to the
+less fortunate people. The room itself is littered with the most basic of
+items, allowing you to ascertain that the city, although beautiful, is not
+very wealthy.
+~
+182 cdem 0
+D0
+The temple common area is to the north.
+~
+~
+0 0 18203
+S
+#18205
+The Northwest Guard Tower~
+   You stand within the northwestern tower of the protective wall around
+Kir-Oshi. An open window lies to the north, allowing you to see the glorious
+dor-Sefrith plains. Several small wooden chairs line the tower, and leather
+bound books have been strewn haphazardly on the floor. From here, you can
+proceed east along the northern face of the wall, south along the western
+face, or down a bamboo ladder onto the ground level of the town.
+~
+182 d 1
+D1
+The north wall walkway continues to the east.
+~
+~
+0 -1 18302
+D2
+The west wall walkway continues to the south.
+~
+~
+0 0 18210
+D5
+You are able to mount a bamboo ladder leading to the base of the guard tower.
+~
+~
+0 -1 18212
+S
+#18206
+North Wall Walkway~
+   This is the top of a battlement along the northern wall. You have a
+commanding view of all the surroundings toward the north, including the
+vast plains and the silhouette of the Grey Mountains looming beyond. The
+wall walkway continues to the east and west.
+~
+182 0 1
+D1
+The north wall walkway continues to the east.
+~
+~
+0 -1 18299
+D3
+The north wall walkway continues to the west.
+~
+~
+0 -1 18300
+S
+#18207
+North Wall Walkway~
+   You stand on top of a battlement along the northern wall. You have an
+absolutely breathtaking view of all the surrounding territories toward the
+north. Off in the distance, the outline of the Grey Mountains are seen over
+the rolling plains of dor-Sefrith. The wall continues to the west, while
+to the east lies the northeastern guard tower.
+~
+182 0 1
+D1
+The northeastern guard tower lies just to the east of here.
+~
+~
+0 -1 18208
+D3
+The north wall walkway continues to the west.
+~
+~
+0 0 18299
+S
+#18208
+The Northeast Guard Tower~
+   You stand within the northeastern guard tower of the great wall of Kir-
+Oshi. Small wooden chairs have been lined to face the open window to the north
+north. It depicts an awe inspiring view of the plains, and in the distance,
+the silhouette of the Grey Mountains. From here, you can go down a bamboo
+ladder to the ground level of the city, head west along the north face of the
+wall, or go south along the eastern wall.
+~
+182 d 1
+D2
+The east wall walkway continues to the south.
+~
+~
+0 0 18211
+D3
+The north wall walkway continues to the west.
+~
+~
+0 -1 18207
+D5
+You are able to mount a bamboo ladder leading to the base of the tower.
+~
+~
+0 -1 18220
+S
+#18209
+Road to the Temple~
+   This is a small, winding road that leads from the city of Kir-Oshi up to
+the temple. You are able to catch glimpses of robed figures walking about,
+their hoods drawn. The road continues upwards to the west, and the main city
+of Kir-Oshi lies to the east.
+~
+182 0 1
+D1
+The eastern gate of the city.
+~
+~
+0 0 18236
+D4
+~
+~
+0 0 18235
+S
+#18210
+West Wall Walkway~
+   This is the top of the battlement along the western wall. From here, you
+have a commanding view of not only the city, but the temple to the west. To
+the north is an entrance to the northwestern tower, while to the south lies
+the west wall walkway.
+~
+182 0 1
+D0
+The northwestern guard tower lies just to the north.
+~
+~
+0 0 18205
+D2
+The west wall walkway continues to the south.
+~
+~
+0 -1 18233
+S
+#18211
+East Wall Walkway~
+   This is the top of the battlement along the east wall. From up above, you
+have a splendid view of the surrounding area. Looking down, you are able to
+see the bustling harbor. Exits lead north, towards the northeastern guard
+tower, or south further along the east wall.
+~
+182 0 1
+D0
+The northeastern gaurd tower lies just to the north of here.
+~
+~
+0 0 18208
+D2
+The east wall walkway continues to the south.
+~
+~
+0 -1 18234
+S
+#18212
+Northwest Guard Tower~
+   This is one of the four corner towers within the Kir-Oshi wall. A small
+wooden ladder leads up to the top of the wall. The street continues to
+the east and south from here.
+~
+182 0 1
+D1
+The road along the wall continues to the east.
+~
+~
+0 -1 18213
+D2
+The road along the wall continues to the south.
+~
+~
+0 -1 18224
+D4
+You are able to mount a sturdy-looking bamboo ladder which leads to the top
+of the northeastern guard tower. You can see figures lazily looking over the
+edge.
+~
+~
+0 -1 18205
+S
+#18213
+Road Along the Wall~
+   You stand along the northern wall road of Kir-Oshi. To your north, a
+great protective wall blocks your path, and the plains of dor-Sefrith.
+The street curves to the west at a guard tower, and the road continues
+east.
+~
+182 0 1
+D1
+The road along the wall continues to the east.
+~
+~
+0 0 18298
+D3
+The northwestern guard tower lies just to the west.
+~
+~
+0 -1 18212
+S
+#18214
+Road Along the Wall~
+   The tall face of the northern wall looms over you here, separating the
+vast plains from the city. The road is very narrow and, as you walk by,
+several citizens bump lazily into you. The street continues both east and
+west along the wall.
+~
+182 0 1
+D1
+The city's northern gate lies just to the east.
+~
+~
+0 -1 18216
+D3
+The road along the wall continues to the west.
+~
+~
+0 -1 18298
+S
+#18215
+Road Along the Wall~
+   You are walking along the protective wall of Kir-Oshi. This is the western
+side of the northern wall. To your east is the north gate, and the road
+continues along the wall to the west.
+~
+182 0 1
+D1
+The North Gate
+~
+~
+0 -1 18216
+D3
+Road Along the Wall
+~
+~
+0 -1 18214
+S
+#18216
+The North Gate~
+   Here is the main gate into Kir-Oshi, and looming overhead is the great
+wall of the city. This arched gateway serves as the main entrance and exit
+of the city, and several travelling merchants are seen passing through its
+height. North of here lies the Ocean Road that leads through the vast plains
+of dor-Sefrith. To the south is Kero Row, the center street of the city. A
+road leads east and west along the wall.
+~
+182 0 1
+D0
+~
+gate~
+2 0 15701
+D1
+The road along the wall continues to the east.
+~
+~
+0 -1 18217
+D2
+Kero Row begins just to the south.
+~
+~
+0 -1 18228
+D3
+The road along the wall continues to the west.
+~
+~
+0 -1 18214
+S
+#18217
+Road Along the Wall~
+   This is the northern edge of Kir-Oshi. Directly to your north is a great
+protective wall, separating the city and the plains. To the west, you can see
+a massive arched gateway which serves as the northern gate of the city. The
+road along the wall continues to the east.
+~
+182 0 1
+D1
+The road along the wall continues to the east.
+~
+~
+0 -1 18218
+D3
+To the west lies the massive north gate of Kir-Oshi, which serves as the main
+entryway to the city.
+~
+~
+0 -1 18216
+S
+#18218
+Road Along the Wall~
+   You are standing on the northern road at the base of the great protective 
+wall in Kir-Oshi. The wall itself serves as a timeless barrier between the
+plains and the city. You can continue east or west along the road.
+~
+182 0 1
+D1
+The road along the wall continues to the east.
+~
+~
+0 -1 18219
+D2
+~
+~
+0 0 18330
+D3
+The road along the wall continues to the west.
+~
+~
+0 -1 18217
+S
+#18219
+Road Along the Wall~
+   You stand on the northern wall road of the city. The road is relatively
+small, but still allows you plenty of room to move about freely. The street
+curves to the east towards a guard tower, and continues along the wall to
+the west.
+~
+182 0 1
+D1
+The northeastern guard tower lies just to the east.
+~
+~
+0 -1 18220
+D3
+The road along the wall continues to the west.
+~
+~
+0 -1 18218
+S
+#18220
+Northeast Guard Tower~
+   You stand at the northeastern corner of the wall around Kir-Oshi. A small
+bamboo ladder allows passage into the guard tower above. The wall road
+continues to the west and south.
+~
+182 0 1
+D2
+The road along the wall continues to the south.
+~
+~
+0 -1 18231
+D3
+The road along the wall continues to the west.
+~
+~
+0 -1 18219
+D4
+You can mount a bamboo ladder to go to the top of the actual wall of Kir-Oshi.
+~
+~
+0 -1 18208
+S
+#18221
+The Entrance to the Gardens~
+   You stand within a picturesque garden. Ivy has grown all the way to the
+top of the wall, adding life to the cold stone. Flowers bloom in profusion
+year round, making this area incredibly elegant and attractive. The sounds
+of insects buzzing and soothing running water fill the garden. Green shrubs
+have been neatly trimmed into perfect circles at your feet.
+   The garden continues to the east and south, while to the north lies the
+southern gate of Kir-Oshi.
+~
+182 c 2
+D0
+~
+gate~
+1 0 18266
+D1
+~
+~
+0 0 18222
+D2
+~
+~
+0 0 18245
+S
+#18222
+The Kir-Oshi Gardens~
+   You stand within the beautiful Kir-Oshi gardens. A vast array of multi-
+colored flowers are blooming everywhere on the ground here. The path you are
+walking on is of damp moss, and your footprints have been temporarily embedded
+in its softness. Ivy grows up the side of the stone wall to the north,
+blocking your way. The sound of running water drifts lazily in from the south.
+~
+182 0 2
+D1
+~
+~
+0 0 18223
+D2
+~
+~
+0 0 18253
+D3
+~
+~
+0 0 18221
+S
+#18223
+The Kir-Oshi Garden~
+   You stand upon a moss covered pathway in the northeastern corner of the
+Kir-Oshi garden. A multitude of flowers bloom year round at your feet, their
+beautiful petals representing every color of the rainbow. You hear the sounds
+of birds chirping happily, some of them nested in the neatly trimmed trees
+above your head. The pathway continues to the south where there is an
+entrace to a small chapel, and to the west.
+~
+182 0 2
+D2
+~
+~
+0 0 18246
+D3
+~
+~
+0 0 18222
+S
+#18224
+Road Along the Wall~
+   This is the western portion of the wall around the city. To your north,
+a massive guard tower juts out into the sky, while to the south is the
+western gate. You are able to see the walls of a shop blocking your path to
+the east.
+~
+182 0 1
+D0
+The northwestern guard tower of the city lies just to the north.
+~
+~
+0 -1 18212
+D2
+The massive western gate of Kir-Oshi lies just to the south.
+~
+~
+0 -1 18236
+D3
+~
+~
+0 0 18332
+S
+#18225
+A Baker's Shop~
+   You stand within a quaint baker's shop. A stove made of stone burns on
+the northern wall behind the white marble counter. All around you, the sweet
+scents of the shop pound at your nose, creating a hearty rumbling in the
+depths of your stomach. There is a small sign tacked to the wall on your
+left. The only exit lies south, back onto Yokki Way.
+~
+182 cd 0
+D2
+Yokki Way is just to the south.
+~
+~
+0 -1 18237
+E
+sign~
+0~
+The sign is made of simple wood. There are some large words carved into
+it, however: "Welcome to the bakery!" they read. "Please type LIST to get
+the items currently for sale, and BUY <ITEM> to purchase an item." There
+are some smaller words written at the bottom of the sign as well: "Have
+a nice day!"
+~
+E
+stove~
+0~
+The stone stove has been blackened with smoke. It reaches high into the sky,
+and the smell of everything cooking permeates the normally stale air.
+~
+S
+#18226
+A Flower Shop~
+   It looks like spring here. A vast array of flowers and other plants are
+littered everywhere; in pots, wrapped up in paper, and by themselves in no
+particular order. The mingling scent of the different specimens creates a
+lovely perfume engulfing the entire room. The only exit lies through the open
+door to the south.
+~
+182 cd 0
+D2
+Yokki Way is just to the south.
+~
+~
+0 -1 18238
+E
+flowers~
+0~
+The flowers are absolutely gorgous; enough to impress the most special of
+loved ones.
+~
+E
+sign~
+0~
+Type "list" to get the price list.
+Type "buy <item>" to purchase and item.
+~
+S
+#18227
+A Weaponsmith's Shop~
+   There are weapons from famous battles strewn all over the place here,
+gleaming by the torch light. There is a large assortment of weapons for sale
+on display behind the counter; enough to help slay any beast imaginable. The
+only exit is through the open door to the south, which leads to Yokki Way.
+~
+182 cdm 0
+D2
+Yokki Way is just to the south.
+~
+~
+0 -1 18239
+E
+weapons~
+0~
+The weapons have been highly polished for sale. They look impressive, although
+not very new; unlike the weapons the feared Tong have been rumored to possess.
+~
+E
+sign~
+0~
+Type "list" to get the price list.
+Type "buy <item>" to purchase and item.
+~
+S
+#18228
+Kero Row~
+   This medium-sized road runs flush up to the northern city gates just ahead
+of you and to the south into the center square of Kir-Oshi. To the east lies
+the city bank, while to the west, the crumbled remains of a forgotten building
+sit. The road itself looks well used, though it lacks the bustle of the pier.
+~
+182 0 1
+D0
+The massive main gate of the city lies just to the north.
+~
+gate~
+1 -1 18216
+D1
+The First Bank of Kir-Oshi is to the east.
+~
+~
+0 0 18297
+D2
+Market Square
+~
+~
+0 -1 18240
+S
+#18229
+A Plain Room Above the Bar~
+   You stand inside a nondescript room above the Bars Crossed Tavern. A single
+candle burns on top of a small wooden table in the center of the room, eerily
+illuminating the facial features of the men and women leering at you in the
+semi-darkness. This is where the former members of the Liu'she Ch'uan Tong
+have taken refuge, and they're not happy to see you.
+~
+182 cd 0
+D5
+The Bars Crossed Tavern lies through the door, and down the staircase.
+~
+door~
+1 18274 18248
+S
+#18230
+An Armorer~
+   All around you are the gleaming metals of protective gear. Some are so
+clean, you can actually see yourself in them; while others are rusted and
+dirty. There are ceremonious armors in display cases on the east and west
+walls, showcasing the gear used in historical past battles. There is a large
+wooden counter against the northern wall, with a hand-painted note tacked
+on it. The only exit lies through the open door to the south, onto Yokki
+Way - the main commerical street of the city.
+~
+182 cd 0
+D2
+You see Yokki Way to the south.
+~
+~
+0 -1 18243
+E
+note~
+0~
+The note reads: "Type LIST to get the price list and available items. In
+order to buy a new set of armor, simple type BUY ITEM to purchase it."
+~
+E
+metals~
+0~
+The metals range from bronze to steel to the ever-durable iron.
+~
+E
+cases~
+0~
+The cases are made of wood. The doors are made of spotless glass to better
+show off the goods.
+~
+S
+#18231
+Road Along the Wall~
+   You are just north of the eastern gate, standing on a road which follows
+the course of the wall. To the north, the northeastern guard tower looms
+above you, while to the south the narrow wall road continues.
+~
+182 0 1
+D0
+The northeast guard tower lies just to the north.
+~
+~
+0 -1 18220
+D2
+The eastern gate of the city lies just to the south.
+~
+~
+0 -1 18244
+S
+#18232
+A Small Library~
+   This small space has been carved into the city walls and serves as some
+type of library. Shelves of books lie in random patterns, some threatening to
+topple and fall given the angle at which they lean. The only exit appears to
+be to the north, back onto the street.
+   A small sign has been attached to the nearest shelf.
+~
+182 cde 0
+D0
+~
+~
+0 0 18269
+E
+books~
+0~
+Skimming through the titles, you observe that the majority of them are
+targetted towards the apprentice mage. None appear overly appealing to you at
+this point in time.
+~
+E
+sign~
+0~
+For assistance with transport, please type LIST.
+To learn from the teacher, try LEARN <teacher name>
+~
+S
+#18233
+West Gate Wall Tower~
+   You stand atop a battlement along the western wall. From here you can
+look far into the distance to see approching enemies. The wall walkway
+continues to the north and south.
+~
+182 0 1
+D0
+The west wall walkway continues to the north.
+~
+~
+0 -1 18210
+D2
+The west wall walkway continues to the south.
+~
+~
+0 -1 18271
+S
+#18234
+East Wall Walkway~
+   You stand above the eastern gate of Kir-Oshi. From here you can look into
+the bustling harbor to the east, and into town to the west. The wall walkway
+continues north and south along the east wall.
+~
+182 0 1
+D0
+The east wall walkway continues to the south.
+~
+~
+0 -1 18211
+D2
+The east wall walkway continues to the north.
+~
+~
+0 -1 18272
+S
+#18235
+Before the Temple~
+   You stand in front of the temple of Kir-Oshi, which is located on a small
+cliff overlooking the city. From here, you have a rather panoramic view of
+Kir-Oshi and the surrounding coutryside, not to mention the ocean that
+stretches away towards the horizon. The road continues to the east and the
+temple is to the west.
+~
+182 0 1
+D3
+The temple common area is to the west.
+~
+~
+0 0 18203
+D5
+~
+~
+0 0 18209
+S
+#18236
+The West Gate~
+   You are standing on the western gate of Kir-Oshi. There is a break in the
+massive protective wall here: a mammoth, arched gateway. To the west, a very
+narrow, winding road begins. It eventually leads to the top of a hillside,
+where the glorious temple of Kir-Oshi is located. To the east is Yokki Way,
+the main commerical street of the city. There is a small, crowded road which
+leads north and south along the wall.
+~
+182 0 1
+D0
+The road along the wall continues to the north.
+~
+~
+0 -1 18224
+D1
+Yokki Way begins to the east.
+~
+~
+0 -1 18237
+D2
+The road along the wall continues to the south.
+~
+~
+0 -1 18254
+D3
+A dirt road towards the temple of the city begins to the west.
+~
+~
+0 0 18209
+E
+gateway~
+0~
+The gateway is absolutely huge, dwarfing you in comparision.
+~
+S
+#18237
+Yokki Way~
+   This is Yokki Way, the main commerce street of Kir-Oshi. To your north,
+there is a small building with a stone chimney spewing sweet-smelling smoke
+into the air. The sounds of laughing and glass clinking together drifts in
+from the south. West from here lies the west gate of the city, and Yokki Way
+continues to the east.
+~
+182 0 1
+D0
+A baker's shop is to the north.
+~
+~
+0 -1 18225
+D1
+Yokki Way continues to the east.
+~
+~
+0 -1 18238
+D2
+The Bars Crossed Tavern is just to the south.
+~
+~
+0 -1 18248
+D3
+The western gate of the city, eventually leading to a hilltop.
+~
+~
+0 -1 18236
+S
+#18238
+Yokki Way~
+   You stand on the bustling street of Yokki Way which serves as the main
+commerce street of Kir-Oshi. Citizens of the town can be seen walking to
+and fro, apparently carrying out their errands for the day. There is a flower
+shop to your north, and a green aura drifts in from the south. Yokki Way
+continues to the east and west.
+~
+182 0 1
+D0
+A flower shop is to the north.
+~
+~
+0 -1 18226
+D1
+Yokki Way continues to the east.
+~
+~
+0 -1 18239
+D2
+A strange, glowing shop lies to the south.
+~
+~
+0 0 18277
+D3
+Yokki Way continues to the west.
+~
+~
+0 -1 18237
+S
+#18239
+Yokki Way~
+   You stand just west of the center of Kir-Oshi. Citizens of the city are
+seen walking about the road, their destinations that of the busy shops placed
+along the street. To the north is a weapons dealer, and the famous Guiee's
+Sushi Bar is to the south. Yokki Way continues to the west.
+~
+182 0 1
+D0
+A weaponsmith's shop lies just to the north.
+~
+~
+0 -1 18227
+D1
+Kero Row and Yokki Way intersect to the east, at Market Square.
+~
+~
+0 -1 18240
+D2
+Guiee's Sushi Bar is to the south.
+~
+~
+0 -1 18249
+D3
+Yokki Way continues to the west.
+~
+~
+0 -1 18238
+S
+#18240
+Market Square~
+   You stand within the central square of Kir-Oshi. The pedstrian traffic
+is quite heavy here; the passersby shooting quick glances in your direction
+as they travel through the square. Kero Row runs north and south from here,
+while Yokki Way runs east and west. An enormous statue is towering above
+you in the center of the square.
+~
+182 m 1
+D0
+To the north is Kero Row.
+~
+~
+0 -1 18228
+D1
+Yokki Way lies to the east.
+~
+~
+0 -1 18241
+D2
+To the south is Kero Row.
+~
+~
+0 -1 18256
+D3
+Yokki Way lies to the west.
+~
+~
+0 -1 18239
+E
+plaque~
+0~
+The plaque simply reads: "To the west lies wisdom".
+~
+E
+statue~
+0~
+The statue is of a large man with a round, bare stomach. He is smiling
+happily, and in his open arms carries flowers and other offerings the
+citizens have left. His gaze is afixed towards the temple to the west
+of the city. There is a small plaque at the base of the statue.
+~
+S
+#18241
+Yokki Way~
+   You stand in the middle of the street, creatures from all over the world
+passing you by on their errands. The street extends both to the east and west
+and appears to be the center of commerce for the city. A sign above the store
+to the north would suggest it is the general store.
+~
+182 0 1
+D0
+Aji's general store is to the north.
+~
+~
+0 0 18296
+D1
+Kero Row and Yokki Way intersect to the west, at Market Square.
+~
+~
+0 -1 18242
+D3
+The center square of Kir-Oshi can be seen to the west.
+~
+~
+0 -1 18240
+S
+#18242
+Yokki Way~
+   You are standing on the major commerce street in Kir-Oshi. Yokki Way leads
+east and west from here, while to the north lies a collapsed building. A dark
+shop is to the south of here, which emanates a strange magical aura.
+~
+182 0 1
+D1
+Yokki Way continues to the east.
+~
+~
+0 -1 18243
+D2
+A strange shop lies to the south.
+~
+~
+0 0 18251
+D3
+Yokki Way continues to the west.
+~
+~
+0 -1 18241
+E
+sign~
+0~
+The sign reads:
+
+            -=DO NOT ENTER=-        
+
+     PROTECTED BY AGGRESSIVE GUARDS!
+~
+S
+#18243
+Yokki Way~
+   You stand on a major road of Kir-Oshi. To your east lies the eastern gate
+of the city, leading to the bustling harbor. North of you is an armorer, while
+to the south lies another dark shop. Yokki Way continues to the west.
+~
+182 0 1
+D0
+An armor shop lies just to the north.
+~
+~
+0 -1 18230
+D1
+To the east, you can see the east gate of the city, leading to the bustling
+harbor.
+~
+~
+0 -1 18244
+D2
+You see a dimly lit shop.
+~
+~
+0 -1 18252
+D3
+Yokki Way continues to the west.
+~
+~
+0 -1 18242
+S
+#18244
+The East Gate~
+   Here is the main east gate of Kir-Oshi. A great protective wall looms
+overhead, although you are unable to reach the top from here. A road leads
+north and south along the wall. To the west is Yokki Way, the main commerce
+street of Kir-Oshi. The bustling harbor of the city lies just to the east,
+and shady sea-going people are seen walking through the massive gate and
+into town; probably to sell their wares.
+~
+182 0 1
+D0
+The road along the wall continues to the north.
+~
+~
+0 -1 18231
+D1
+Through the massive gate lies Kir-Oshi's bustling harbor.
+~
+gate~
+2 0 18280
+D2
+The road along the wall continues to the south.
+~
+~
+0 -1 18258
+D3
+Yokki Way, the main commerce street, begins to the west.
+~
+~
+0 -1 18243
+E
+gate~
+0~
+The gate is absolutely enormous. It is arched in the center, and several
+water droplets have accumulated from the salty, damp sea air from the harbor.
+~
+S
+#18245
+The Kir-Oshi Garden~
+   You stand among the beautiful Kir-Oshi gardens. Soothing sounds of birds
+chirping drift in from the tops of the trees. Flowers are blooming everywhere
+you look, their colors representing every spectrum of the rainbow. The shrubs
+at your feet have been neatly trimmed by the gardener into perfect circles.
+The moss-strewn path continues to the north, south, and east, where the sound
+of running water can be heard.
+~
+182 0 2
+D0
+The Temple Garden
+~
+~
+0 -1 18221
+D1
+~
+~
+0 0 18253
+D2
+The Temple Garden
+~
+~
+0 -1 18259
+S
+#18246
+The Kir-Oshi Garden~
+   You stand within the glorious Kir-Oshi garden. The monotonous sound of
+running water drifts lazily in from the west. Birds singing their high-
+pitched songs fills your ears, their happiness at their lovely surroundings.
+The perfume of the vast array of flowers at your feet is absolutely breath
+taking, someone obviously keeps this garden in shape year round.
+   The path continues to the north and south, while to the east lies a small
+chapel, exclusively built for the monks of Kir-Oshi.
+~
+182 0 2
+D0
+~
+~
+0 0 18223
+D1
+A Small Temple
+~
+~
+0 -1 18247
+D2
+The Temple Garden
+~
+~
+0 -1 18261
+D3
+~
+~
+0 0 18253
+S
+#18247
+The Temple of Enchantment~
+   You stand within a small stone structure placed on the eastern edge
+of the garden; a place for quiet reflection, prayer, and reverie of
+better times. Lit candles are burning all around you, their luminescence
+creating a holy aura about the room. This is where the ordinary citizens
+of Kir-Oshi come to leave offerings and pay their respects to the Gods.
+A humble altar lies against the eastern wall. The only exit is west through
+the open doors and into the garden.
+~
+182 cdes 0
+D3
+The Temple Garden
+~
+~
+0 -1 18246
+E
+kneeler~
+0~
+A small wooden, traditional kneeler with a soft pad to protect old bones.
+~
+E
+altar~
+0~
+The altar is made of rough-cut stone, like the rest of the temple. There is
+a quaint kneeler at the base of it.
+~
+S
+#18248
+Bars Crossed Tavern~
+   You stand within a dark tavern, barely lit by a single torch next to the
+entrance. Drunk patrons are lined up against the bar to the south, looking at
+you uneasily as you enter the room. Some frown in your direction, while others
+merely look away, their curiosity at the newcomer satiated.
+   There is a door to a small staircase on the eastern wall, leading to a very
+dark room.
+~
+182 cd 0
+D0
+Yokki Way is just to the north.
+~
+~
+0 -1 18237
+D4
+It's probably not a good idea to mount the staircase...
+~
+door~
+1 18274 18229
+E
+sign~
+0~
+Type "list" to get the price list.
+Type "buy <item>" to purchase and item.
+~
+S
+#18249
+Guiee's Sushi Bar~
+   The fish are brought in daily from the harbor, the smell of which permeates
+the air here. A chopping block lies atop a counter to your south, a sole
+figure standing behind it. The only exit lies north, through the open door,
+and onto Yokki Way.
+~
+182 cd 0
+D0
+Yokki Way is just to the north.
+~
+~
+0 -1 18239
+E
+fish~
+0~
+The fish are already dead, slaughtered by Guiee. Their fresh entrails are
+heaped in a gruesome pile next to their carcasses.
+~
+E
+sign~
+0~
+Type "list" to get the price list.
+Type "buy <item>" to purchase and item.
+~
+S
+#18250
+The Stables~
+   You stand within the stables of Kir-Oshi. Hay is strewn all over the floor
+here; a gag inducing smell which permeates the stale air. Several well-bred
+horses have been stabled here, many of them eating and gazing at you with
+stupidity in their eyes.
+~
+182 cd 0
+D1
+~
+~
+0 0 15701
+E
+horses~
+0~
+The horses range in color, but they all look worthy of a long ride.
+~
+S
+#18251
+A Strange Shop~
+   You stand within a dark shop located on the eastern side of Yokki Way. The
+room seems to have been illuminated from above somehow, although its light
+source is nowhere in sight. There is a counter on the southern wall, heaped
+behind which is mounds of ancient and sacred magickal texts. There is a sign
+hovering liquidly on the eastern wall; you don't understand the symbols but
+strangely, their meaning is clear in your head. The only exit lies to the
+north, back onto the main commerce street of Kir-Oshi.
+~
+182 cd 0
+D0
+You see Yokki Way to the north.
+~
+~
+0 0 18242
+E
+sign~
+0~
+The sign has been written in haunting, vaguely familiar symbols.
+   "To identify an item," it reads, "give <item> Takahashi. The fee will
+   automatically be deducted from your coin purse."
+~
+E
+texts~
+0~
+The texts are written on parchment, yellow with age.
+~
+S
+#18252
+A Dark Building~
+   Crude drawings line the walls, all of them about the size of your fist:
+tattoos. They range in appearence, from animals to mystical symbols. There
+is a single iron chair in the middle of the room, its arms having leather
+straps in order to hold you still for the painful process. The only exit
+lies north, onto Yokki Way.
+~
+182 cd 0
+D0
+You see Yokki Way to the north.
+~
+~
+0 -1 18243
+E
+sign~
+0~
+Type "list" to get the price list.
+Type "buy <item>" to purchase and item.
+~
+E
+chair~
+0~
+It looks more like a torture device than a chair.
+~
+S
+#18253
+A Clearing Within the Garden~
+   You are standing in the center of the Kir-Oshi gardens. This particular
+clearing is absolutely enchanting, its center focus being the superbly-
+crafted stone fountain. Ivy has grown up the sides of it, covering the dull
+gray of stone and replacing it with lucious green. Around the fountain are
+several wooden benches, placed here for the vistors of the garden to better
+enjoy their stay.
+   The moss covered pathway through the garden leads in every direction.
+~
+182 m 2
+D0
+~
+~
+0 -1 18222
+D1
+~
+~
+0 -1 18246
+D2
+The Temple Garden
+~
+~
+0 -1 18260
+D3
+~
+~
+0 -1 18245
+E
+benches~
+0~
+The benches are also made of stone, and have exquisite, though foreign,
+artwork chiselled into the side. Once, a long while ago, the monks must
+have painted the figures in the benches, because they are a separate color
+from the actual stone.
+~
+S
+#18254
+Road Along the Wall~
+   This is the western wall walkway around the city. To the south lies
+the southwestern guard tower and to the north is the west gate which leads
+out of the city and to the temple of Kir-Oshi.
+~
+182 0 1
+D0
+The massive western gate of Kir-Oshi lies just to the north.
+~
+~
+0 -1 18236
+D2
+The southwestern guard tower of the city's wall system lies to the south.
+~
+~
+0 -1 18262
+D3
+~
+~
+0 0 18331
+S
+#18255
+Weights and Measures~
+   This small, busy office houses the Kir-Oshi office of weights
+and measure, which takes care of all the city's bookkeeping. There
+are papers and permits for all kinds of regulated activities here,
+and the stack of completed forms are arranged haphazardly in a pile.
+A small sign hangs on the western wall, and the only exit lies east,
+back onto Kero Row.
+~
+182 cd 0
+D1
+Kero Row lies to the east.
+~
+~
+0 -1 18256
+E
+sign~
+0~
+The sign has been written with a steady hand, and it looks quite recent. It
+reads: "To become a citizen of Kir-Oshi, type BUY CITIZENSHIP." There is some
+fine print at the bottom of the sign which reads, "The processing fee is 2,000
+coins, and you will be able to quit at the temple west of the city."
+~
+S
+#18256
+Kero Row~
+   This is the main north-south road in Kir-Oshi. It is not as big or as
+busy as Yokki Way; most of its traffic tends to come from the temple of
+the city, the monks passing by to the lustrious gardens. To the north is
+the market square, while to the west is a small, dimly lit curio shop. The
+post office is to the east, and to the south is the southern gate, through
+which is the gardens.
+~
+182 0 1
+D0
+Kero Row and Yokki Way intersects to the north at Market Square.
+~
+~
+0 -1 18240
+D1
+The Kir-Oshi Post Office lies to the east.
+~
+~
+0 0 18294
+D2
+The Southern Gate is to the south.
+~
+~
+0 -1 18266
+D3
+A Public Forum lies to the west.
+~
+~
+0 -1 18255
+S
+#18257
+A Secret Reception~
+Oops! Looks like you've stumbled onto the secret headquarters of the infamous
+Liu'she Ch'uan tong. These guys don't look so friendly, maybe you should
+get out of here before they get any weird ideas.
+~
+182 d 1
+D0
+~
+door secret~
+1 -1 18251
+S
+#18258
+Road Along the Wall~
+   You stand along a road leading around the perimeter of Kir-Oshi. A great
+wall looms overhead. To the north is the east gate, while to the south lies
+the southeastern guard tower.
+~
+182 0 1
+D0
+The eastern gate of the city lies just to the north.
+~
+~
+0 -1 18244
+D2
+The southeast guard tower lies just to the south of here.
+~
+~
+0 -1 18270
+S
+#18259
+The Kir-Oshi Garden~
+   You stand within the exquisite Kir-Oshi garden. Everywhere you turn, a
+different color of flower is there to greet you. The scent of the garden is
+absolutely hypnotic, contributing to a lazy sense of contentness. The moss-
+covered path leads north and east from here.
+~
+182 0 2
+D0
+The Temple Garden
+~
+~
+0 -1 18245
+D1
+The Temple Garden
+~
+~
+0 -1 18260
+S
+#18260
+The Kir-Oshi Garden~
+   You stand on a small pathway in the Kir-Oshi garden. Flowers bloom in
+profusion at your feet between neatly-trimmed spherical shrubbery. The
+pleasant scent of the garden fills your nostrils, instilling a content,
+peaceful feeling right to your marrow. The sounds of running water drift
+steadily in from the north, while the path continues to the east and west.
+To the south, a strong, iron gate leads out onto wild forests of bamboo.
+~
+182 0 2
+D0
+A Nook Garden
+~
+~
+0 -1 18253
+D1
+The Temple Garden
+~
+~
+0 -1 18261
+D2
+A forest of tall bamboo rises behind a gate of twisted iron.
+~
+gate~
+2 0 10455
+D3
+The Temple Garden
+~
+~
+0 -1 18259
+S
+#18261
+The Kir-Oshi Garden~
+   You stand within the lovely Kir-Oshi garden. Insects of all shapes and
+sizes buzz happily past your head, their destinations obviously the
+extraordinary flowers blooming at your feet. The soothing musical sounds of
+chirping birds fills your ears, some of them nesting in the neatly trimmed
+trees above your head. The path continues to the north and west.
+~
+182 0 2
+D0
+The Temple Garden
+~
+~
+0 -1 18246
+D3
+The Temple Garden
+~
+~
+0 -1 18260
+S
+#18262
+Southwest Guard Tower~
+   This is one of the four corner towers within the Kir-Oshi wall system. From
+here you can proceed east or north along the lower wall, or you can go up a
+bamboo ladder to the top of the guard tower itself and along the wall walkway.
+~
+182 0 1
+D0
+The road along the wall continues to the north.
+~
+~
+0 -1 18254
+D1
+The road along the wall continues to the east.
+~
+~
+0 -1 18263
+D4
+You are able to mount a sturdy-looking bamboo ladder leading up to the top of
+the wall system surrounding Kir-Oshi.
+~
+~
+0 0 18273
+S
+#18263
+Road Along the Wall~
+   You stand along a narrow roadway around the city of Kir-Oshi. To your south
+lies the great protective wall of the city. Figures are seen walking back and
+forth at the top of it, presumably the guards of the city. The southwestern
+guard tower is to the west, and the road continues to the east.
+~
+182 0 1
+D1
+The road along the wall continues to the east.
+~
+~
+0 -1 18264
+D3
+The southwestern guard tower is just to the west.
+~
+~
+0 -1 18262
+S
+#18264
+Road Along the Wall~
+   You are walking along a narrow roadway surrounding the city of Kir-Oshi. To
+the south a great protective wall rises high overhead, and you can see the
+cityguards walking the ramparts, ever watchful for invasion. The street
+continues to the east and west from here.
+~
+182 0 1
+D1
+The road along the wall continues to the east.
+~
+~
+0 -1 18265
+D2
+~
+~
+0 0 18333
+D3
+The road along the wall continues to the west.
+~
+~
+0 -1 18263
+S
+#18265
+Road Along the Wall~
+   You stand on the southern portion of the road around the city of Kir-Oshi.
+You see nasty thieves and drunkards coming out of and being forced into the
+building to the north; probably the jail of the city. To the east of here
+lies the southern gate, whereas the road continues to the west.
+~
+182 0 1
+D0
+Dirty thieves and other lawbreakers are seen coming out of the corroded
+building to the north.
+~
+~
+0 0 18286
+D1
+To the east lies the massive southern gate of the city.
+~
+~
+0 -1 18266
+D3
+The road along the wall continues to the west.
+~
+~
+0 -1 18264
+E
+graffiti~
+0~
+The graffiti has been written over the length of the building. A single
+phrase catches your eye however, which has been written in red:
+
+"Tensui was here!"
+~
+E
+jail~
+0~
+The jail looks very run down; the monks probably don't put much money into
+such unholy projects like that. It has been covered in graffiti.
+~
+S
+#18266
+The South Gate~
+   You stand inside the massive southern gate of Kir-Oshi. Above you is a
+great defensive wall, but you are unable to get up on it from here. A brush-
+filled path runs south to the Kir-Oshi Gardens, and a road runs east and west
+along the inside wall of the city. Kero Row leads north into the cities
+central area.
+~
+182 0 1
+D0
+Kero Row is to the north.
+~
+~
+0 -1 18256
+D1
+The road along the wall continues to the east.
+~
+~
+0 -1 18267
+D2
+You see the massive southern gate.
+~
+gate~
+1 -1 18221
+D3
+The road along the wall continues to the west.
+~
+~
+0 -1 18265
+E
+gate~
+0~
+The gate is massive and arched. There is ivy growing up the sides of it in
+small patches.
+~
+E
+path~
+0~
+The path is covered in green moss.
+~
+E
+wall~
+0~
+The wall reaches high into the sky, almost as tall as the tallest buildings
+in the city.
+~
+S
+#18267
+Road Along the Wall~
+   You stand at the southern edge of the city of Kir-Oshi. To your west lies
+the southern gate. The narrow roadway along the wall continues to your east.
+~
+182 0 1
+D0
+~
+~
+0 0 18278
+D1
+The road along the wall continues to the east.
+~
+~
+0 -1 18268
+D3
+The southern gate of the city is to the west.
+~
+~
+0 -1 18266
+S
+#18268
+Road Along the Wall~
+   You are walking along a narrow roadway surrounding the city of Kir-Oshi. A
+great protective wall rises high overhead to the south, reaching as far into
+the sky as you can see. The street continues to the east and west from here.
+~
+182 0 1
+D1
+The road along the wall continues to the east.
+~
+~
+0 -1 18269
+D3
+The road along the wall continues to the west.
+~
+~
+0 -1 18267
+S
+#18269
+Road Along the Wall~
+   You are walking along a narrow roadway surrounding the city of Kir-Oshi. To
+the south above you, a great protective wall rises high overhead, and you
+can see the cityguards walking the ramparts, ever watchful for invasion. The
+street continues to the east and west from here.
+   A small library lies directly to the south.
+~
+182 0 1
+D1
+The southeast guard tower lies just to the east.
+~
+~
+0 -1 18270
+D2
+~
+~
+0 0 18232
+D3
+The road along the wall continues to the west.
+~
+~
+0 -1 18268
+S
+#18270
+Southeast Guard Tower~
+   This is the most southeastern portion of the wall surrounding Kir-Oshi.
+From here you can go up a bamboo ladder to the top of the guard tower and
+along the wall walkway, or you can continue along the wall either north or
+west.
+~
+182 0 1
+D0
+The road along the wall is to the north.
+~
+~
+0 -1 18258
+D3
+The road along the wall is to the west.
+~
+~
+0 -1 18269
+D4
+You are able to mount a sturdy-looking ladder to the top of the wall which
+surrounds the city.
+~
+~
+0 0 18276
+S
+#18271
+West Wall Walkway~
+   This is the top of the battlement along the west wall. From here you have
+a commanding view of the entire city as well as the surrounding territory. Off
+to the west you see the temple of Kir-Oshi, and to the east you are able to
+see the city from up above. The wall walkway continues to the north, whereas
+the southwest guard tower lies just to the south.
+~
+182 0 1
+D0
+The west wall walkway continues to the north.
+~
+~
+0 -1 18233
+D2
+The southwestern guard tower lies just to the south.
+~
+~
+0 0 18273
+S
+#18272
+East Wall Walkway~
+   This is the top of a battlement along the east wall. From here you have a
+commanding view of all the surroundings. The Kir-Oshi harbor lies just to the
+east of here and, looking down, you are able to see much of the activities of
+the port. To the south is the southeastern guard tower, and to the north the
+east wall walkway continues.
+~
+182 0 1
+D0
+The east wall walkway continues to the north.
+~
+~
+0 -1 18234
+D2
+The southeastern guard tower lies just to the south of here.
+~
+~
+0 0 18276
+S
+#18273
+The Southwest Guard Tower~
+   You stand within the southwest guard tower of the great protective wall
+system of Kir-Oshi. Through the open window to the south, you are able to
+see the Kir-Oshi gardens in all their splendor. Wooden chairs have been placed
+here in no particular order, presumable for the guards to sit when they get
+bored. Leather bound books have been strewn haphazardly on the stone floor.
+From here, you can go down a bamboo ladder to the ground level of the town,
+or continue north and east along the wall walkway.
+~
+182 d 1
+D0
+The west wall walkway continues to the north.
+~
+~
+0 0 18271
+D1
+The south wall walkway continues to the east.
+~
+~
+0 -1 18307
+D5
+You are able to mount a bamboo ladder leading to the base of the guard tower.
+~
+~
+0 0 18262
+S
+#18274
+South Wall Walkway~
+   This is the top of a battlement along the southern wall. From here, you
+have a commanding view of all the surroundings: off in the distance to the
+south, the Kir-Oshi gardens; to the north, the city itself. The gardens look
+even more beautiful from above, and you can see splendid, neatly cut trees
+with multi-colored birds perched happily in them. The wall walkway continues
+to the east and west.
+~
+182 0 1
+D1
+The south wall walkway continues to the east.
+~
+~
+0 -1 18275
+D3
+The south wall walkway continues to the west.
+~
+~
+0 -1 18303
+S
+#18275
+South Wall Walkway~
+   This is the top of a battlement along the south wall. There is a commanding
+view of all the surroundings. Not too far south is the Kir-Oshi gardens, and
+you are able to see the roof of a small shrine to the east of them. The
+walkway leads both east, to the southeastern guard tower, and west along the
+wall.
+~
+182 0 1
+D1
+The southeastern guard tower lies to the east.
+~
+~
+0 -1 18276
+D3
+The south wall walkway continues to the west.
+~
+~
+0 -1 18274
+S
+#18276
+The Southeast Guard Tower~
+   This is the southeast guard tower of the wall system around Kir-Oshi. From
+here, you have a breathtaking view of the city's gardens through an open
+window to the south. Wooden chairs have been placed here for the guards to
+sit, as they work very long hours. Atop a table inbetween the chairs is what
+looks to be a chessboard. A bamboo ladder allows passage to the ground level
+of the city, or you can head west or north along the wall walkway.
+~
+182 d 1
+D0
+The east wall walkway continues to the north.
+~
+~
+0 0 18272
+D3
+The south wall walkway continues to the west.
+~
+~
+0 -1 18275
+D5
+You are able to mount a bamboo ladder to the bottom walkway.
+~
+~
+0 0 18270
+E
+chessboard~
+0~
+The chessboard is made out of glass, with several pieces placed strategically
+on top of the board.
+~
+S
+#18277
+A Mystical Shop~
+   This old shop is strange and mystical. On the eastern wall, there is an
+old, decrepit shelf. The room glows with a green luminescence, though its
+source is nowhere to be found. On the southern wall, there is a wooden
+counter, a lone figure standing behind it. The earthen floor has been stained
+by various unknown substances. The only exit lies north, onto Yokki Way.
+~
+182 cdm 0
+D0
+Yokki Way is just to the north.
+~
+~
+0 0 18238
+E
+shelf~
+0~
+On the shelf, there are several bubbling potions and strange reagents. Out
+of the undistinguishable, blasphemous weirdness, there is a single item
+that catches your attention: the head of a frog.
+~
+E
+head~
+0~
+The head of the frog has been severed by an apparently dull object. It is
+spewing fresh blood, and several flies are buzzing sickly around it.
+~
+E
+substances~
+0~
+The substances look like a mixture of blood and filth.
+~
+S
+#18278
+The City Blacksmith~
+   The first thing to greet you upon entry is the heat plume from the large
+fire pit in the middle of the room. A large anvil sits adjacent to it, scored
+with any number of deep cuts from the weapons and armor created upon it.
+Twisted chunks of discarded steel and various other metals litter the floor,
+so much so that movement within the room is difficult.
+~
+182 cde 0
+D2
+~
+~
+0 0 18267
+S
+#18279
+The Morgue~
+   You stand within an near-dark room, its only light that of a single
+stub of candle placed unceremoniously in the northwestern corner. Entrails
+have been heaped in small piles in various parts of the room, glistening
+like swollen fruit. Dried pools of blood, now almost black, have been
+splattered on the walls. The putrid smell of decay gives you a nauseating
+feeling in the pit of your stomach. The only exit is the stairs from which
+you came.
+~
+182 cdem 0
+D4
+You see the white marble altar up the flight of darkish stairs. Compared
+to this particular place, it is lovely.
+~
+~
+0 0 18201
+S
+#18280
+Entrance to the Pier~
+   You stand on an enormous wooden deck. The blue waters of the ocean
+span the horizon to the north and far east of you. Sailors, pirates
+and travelling merchants are seen walking past you and through Kir-Oshi's
+eastern gate. The harbor continues to the east.
+~
+182 c 1
+D0
+~
+~
+0 0 21902
+D1
+The harbor continues to the east.
+~
+~
+0 0 18281
+D3
+The eastern gate of Kir-Oshi.
+~
+gate~
+2 0 18244
+S
+#18281
+The Main Pier~
+   You stand on the main wooden dock which connects the individual piers and
+eventually leads to the east gate of Kir-Oshi to the west. The thin mist
+slightly blurrs the horizon, but you are able to get an absolutely breath
+taking view of the ocean to your north and south: you can see large waves
+crashing lazily into the rocky coast, and strange fish swimming eerily,
+like meteors flowing slowly through space. There is a pier that juts out to
+the south, where boats drift in and out of periodically.
+   The entrance to the harbor lies just to the west; while to the east, the
+main pier continues.
+~
+182 0 1
+D0
+~
+~
+0 0 21895
+D1
+The main pier continues to the east.
+~
+~
+0 -1 18282
+D2
+A ship is docked in the first pier of the harbor.
+~
+~
+0 -1 18287
+D3
+The entrance to the pier is to the west.
+~
+~
+0 0 18280
+S
+#18282
+The Main Pier~
+   You stand on the main wooden dock which connects the three individual piers
+together. The bow of a strangely decrepid boat blocks your path to the south,
+and the splendid view of the ocean and the horizon in the distance is to the
+north. The main pier of Kir-Oshi's harbor continues to the east and west.
+~
+182 0 1
+D0
+~
+~
+0 0 21522
+D1
+The main pier continues to the east.
+~
+~
+0 -1 18283
+D3
+The main pier continues to the west.
+~
+~
+0 -1 18281
+S
+#18283
+The Main Pier~
+   You are on the main wooden dock which runs east and west here. There is
+what appears to be a pirate ship tied to the pier to the south, a black flag
+with the signature skull and cross bones looming nightmarishly in the air. The
+view of the ocean to the north is beautiful; the waters stretching to the
+horizon, and the thin mist of the harbor blurring the suns dreamily.
+~
+182 0 1
+D0
+~
+~
+0 0 21523
+D1
+The main pier continues to the east.
+~
+~
+0 -1 18284
+D2
+The second pier of the bustling harbor lies to the south, with a small ship
+docked there.
+~
+~
+0 0 18289
+D3
+The Main Pier
+~
+~
+0 -1 18282
+S
+#18284
+The Main Pier~
+   You stand on the main wooden dock which runs east and west here. A ship
+blocks passage into the ocean to the south, with heaps of crates and other
+supplies nearly blocking your view of the horizon. Sailors, travelling
+merchants, and shady characters who could only be pirates walk past you
+hurriedly, their apparent destination Kir-Oshi's east gate, which lies down
+the pier to the west.
+~
+182 0 1
+D0
+~
+~
+0 0 21524
+D1
+The end of the main pier is to the east.
+~
+~
+0 -1 18285
+D3
+The main pier continues to the west.
+~
+~
+0 -1 18283
+S
+#18285
+The Main Pier~
+   You stand at the end of the main dock. The ocean surrounds you to the east
+and north, the tin mist of the harbor partially blurring the horizon. You can
+see fish and other aquatic life swimming obviliously in the harbor; they are
+about to become prey to the several fisherman sitting on the edge of the pier
+with their feet dangling lazily over the edge.
+   There are some odd runes etched into the wood here, and the third and final
+pier juts out to the south.
+~
+182 0 1
+D0
+~
+~
+0 0 21525
+D1
+~
+~
+0 0 21879
+D2
+A large ship has been docked into the third and final pier of the harbor.
+~
+~
+0 0 18291
+D3
+The main pier continues to the west.
+~
+~
+0 -1 18284
+E
+runes~
+0~
+The runes are magical in nature, emanating a faint luminescence even when it
+is bright daylight in the open harbor. They have been etched into the wood of
+the pier meticiously, and they look as if they are used to summon something,
+but what you can only speculate. The passersby of the pier go out of their
+way to avoid walking on it, their superstitious nature bringing fear of the
+perternatural malevolence assosicated with the runes. In the middle of them
+there is a phrase, and although you don't understand the symbols, their
+meaning is somehow clear in your mind:
+
+"That is not dead which can eternal lie,
+And with strange aeons even death may die."
+~
+S
+#18286
+The Kir-Oshi Jail~
+   You stand within the Kir-Oshi jail. You see dingy thieves and riotous
+drunks walking in and out of the main holding cell which lies up a staircase
+in the northern corner of the room. A few prisoners are heard yelling and
+moaning to be set free, though the Ssaurian guard seems not to hear them. The
+only exit lies through the open doors to the south, back onto the southern
+wall road.
+~
+182 cde 0
+R jail_noentry.lua 32
+D2
+You see the southern wall road to the south.
+~
+~
+0 0 18265
+D4
+The main holding cell lies up the staircase.
+~
+~
+0 0 18290
+E
+cell~
+0~
+The cell looks like a very dirty place. You can see a fat man sitting in a
+chair in the middle of it, half asleep. A acrid odor enamates from there,
+making you sick to your stomach.
+~
+S
+#18287
+First Pier~
+   This is the first of the three piers that make up the Kir-Oshi marina.
+This is a major trade port, so all the piers are well-equipped for the
+trade ships and fishing boats that dock here. There are coils of thick
+rope, fishing poles, and various other instruments placed in no particular
+order on the wooden deck.
+   A sturdy-looking plank allows passage into the fishing boat to the west,
+and the main pier lies to the north.
+~
+182 0 1
+D0
+The main pier lies to the north.
+~
+~
+0 -1 18281
+D2
+~
+~
+0 0 21531
+D3
+A ship is docked to the west.
+~
+~
+0 0 18308
+S
+#18289
+Second Pier~
+   This ist he second pier which branches off of the main dock to extend far
+out into the harbor. A wooden plank allows passage into the ship to the west,
+which is scorched with black marks on its hull. The main pier is just to the
+north, while to the south, the ocean spans the horizon.
+~
+182 0 1
+D0
+The main pier of the harbor lies to the north.
+~
+~
+0 0 18283
+D2
+~
+~
+0 0 21537
+D3
+A wooden plank allows passage onto the docked ship to the west.
+~
+~
+0 0 18310
+S
+#18290
+The Main Holding Cell~
+   This is the main holding cell for the citizens who can't obey the rules of
+Kir-Oshi. The floor is made of stone, as are the walls and ceiling. Someone
+has carved something on the northern wall, with what you are unsure, because
+the guards take away anything that could possibly be used as a weapon. There
+is a window on the southern wall with iron bars partially blocking your view.
+A crude bed has been placed along the eastern wall, made from straw; the stone
+floor looks comfortable in comparison.
+~
+182 cdehr 0
+R jail_noexit.lua 32
+D5
+The guard won't allow you to peek to the foyer of the jail.
+~
+~
+0 0 18286
+E
+carved~
+0~
+It reads:
+   Long live the Lui'she Ch'uan Tong!
+~
+E
+window~
+0~
+If not for the protective wall around the city, you would probably be able
+to gaze at the beautiful gardens of Kir-Oshi.
+~
+S
+#18291
+Third Pier~
+   You stand on the third and final pier which extends from the main dock
+into the Kir-Oshi harbor, which lies to the south. The pier is clogged with
+sailors and fishermen from the large ship to the west, making transit
+difficult at best.
+~
+182 0 1
+D0
+The main pier lies just to the north.
+~
+~
+0 0 18285
+D1
+~
+~
+0 0 21880
+D2
+~
+~
+0 0 21533
+D3
+There is a wooden plank allowing passage to the large boat to the west.
+~
+~
+0 0 18312
+S
+#18294
+The Post Office~
+   You stand within the Kir-Oshi Post Office. A single desk has been placed
+along the eastern wall, with heaps of parchment scrolls on top of it. There
+is a wanted sign on the northern wall that lists the people shunned by the
+monks who inhabit the city. The only exit lies west to Kero Row.
+~
+182 cde 0
+D3
+Kero Row lies just to the west.
+~
+~
+0 0 18256
+E
+wanted~
+0~
+It reads:
+Any known member of the Liu'she Ch'uan Tong must be found and put to death
+immediately! Any person or persons who brings a Tong member to the local
+authorities will be given a great reward.
+~
+S
+#18295
+North Wall Walkway~
+   You stand atop the battlement along the northern protective wall around the
+city of Kir-Oshi. From here you have a splendid view of the surrounding areas.
+To the north, you can see the plains, and off in the distance, the silhouette
+of the Grey Mountains. The walkway continues to the east and west.
+~
+182 0 1
+D1
+The north wall walkway continues to the east.
+~
+~
+0 0 18300
+D3
+The north wall walkway continues to the west.
+~
+~
+0 0 18301
+S
+#18296
+Aji's General Store~
+   Everywhere you look, you see mounds of camping supplies. Undoubtedly, the
+shelves on the east and western walls are overstocked to the point of
+breaking. There is a counter on the northern wall and the exit to the south
+leads onto Yokki Way.
+~
+182 cd 0
+D2
+Yokki Way lies to the south.
+~
+~
+0 0 18241
+E
+shelves~
+0~
+The shelves have been loaded with everything you need for long voyages.
+~
+S
+#18297
+The First Bank of Kir-Oshi~
+   You are in a small, neat room where you can conduct your banking buisness.
+There is a large desk against the eastern most wall, a lonely-looking man
+sitting in a chair behind it. A steel vault is beside the desk, and as you
+take a closer look, notice that there isn't any possible way you could get
+into it to thieve its contents. The only exit lies to the west, onto Kero Row.
+~
+182 cde 0
+R bank.lua 32
+D3
+Kero Row lies to the west.
+~
+~
+0 0 18228
+E
+desk~
+0~
+Apparently the owner of this desk very busy. There are scrolls strewn every
+which way on top of the desk very messily.
+~
+S
+#18298
+Road Along the Wall~
+   You are standing on the northern portion of the road around the city of 
+Kir-Oshi. An enormous wall looms overheard here, blocking the elements and
+wildlife of the plains to the north. The street continues both east and west.
+~
+182 0 1
+D1
+The road along the wall continues to the east.
+~
+~
+0 0 18214
+D3
+The road along the wall continues to the west.
+~
+~
+0 0 18213
+S
+#18299
+North Wall Walkway~
+   This is the top of a battlement along the northern wall. You have an
+astounding view of the city to your south, and the plains to your north.
+The wall continues to the west and east of here.
+~
+182 0 1
+D1
+The north wall walkway continues to the east.
+~
+~
+0 0 18207
+D3
+The north wall walkway continues to the west.
+~
+~
+0 0 18206
+S
+#18300
+North Wall Walkway~
+   You stand on the top of a battlement along the northern wall of Kir-Oshi.
+You have a breath taking view of the surrounding territories: to the north,
+the rolling plains of dor-Sefrith; to the south, the city, and the small dots
+which are the citizens of Kir-Oshi. The wall walkway continues to the east
+and west.
+~
+182 0 1
+D1
+The north wall walkway continues to the east.
+~
+~
+0 0 18206
+D3
+The north wall walkway continues to the west.
+~
+~
+0 0 18295
+S
+#18301
+North Wall Walkway~
+   You are on the top of the battlement along the protective wall around the
+city. From here you have a commanding view of the surroundings; the plains to
+the north and the city rooftops to the south. The walkway continues to the
+east and west.
+~
+182 0 1
+D1
+The north wall walkway continues to the east.
+~
+~
+0 0 18295
+D3
+The north wall walkway continues to the west.
+~
+~
+0 0 18302
+S
+#18302
+North Wall Walkway~
+   You are on a battlement along the protective wall around Kir-Oshi. You
+have a beautiful view of the surrounding territories from here, the rolling
+plains to the north and the city's buildings to the south. To the west lies
+the northwest guard tower, while the walkway along the wall continues to the
+east.
+~
+182 0 1
+D1
+The north wall walkway continues to the east.
+~
+~
+0 0 18301
+D3
+The northwestern guard tower lies just to the west.
+~
+~
+0 0 18205
+S
+#18303
+South Wall Walkway~
+   You stand atop the battlement along the wall surrounding the city. You have
+a commanding view of all the surroundings from here: the city to the north,
+and the peaceful gardens to the south. The narrow wall walkway continues to
+the east and west.
+~
+182 0 1
+D1
+The south wall walkway continues to the east.
+~
+~
+0 0 18274
+D3
+The south wall walkway continues to the west.
+~
+~
+0 0 18304
+S
+#18304
+South Wall Walkway~
+   This is the battlement along the protective wall of Kir-Oshi. You are able
+to see the sights of the city to the north from here, and to the south you can
+see the gardens. The wall walkway around the city continues to the east and to
+the west.
+~
+182 0 1
+D1
+The south wall walkway continues to the east.
+~
+~
+0 0 18303
+D3
+The south wall walkway continues to the west.
+~
+~
+0 0 18305
+S
+#18305
+South Wall Walkway~
+   You stand on top of the battlement along the wall of the city. From here,
+you have a breathtaking view of the city and its surroundings. You can see
+the rooftops of the buildings within Kir-Oshi to the north, while to the
+south, you are able to glimpse the peacefulness of the gardens. The wall
+walkway continues to the east and west.
+~
+182 0 1
+D1
+The south wall walkway continues to the east.
+~
+~
+0 0 18304
+D3
+The south wall walkway continues to the west.
+~
+~
+0 0 18306
+S
+#18306
+South Wall Walkway~
+   You stand on top of the battlement along the wall of the city. From here,
+you have a commanding view of the city to the north and its surroundings.
+Looking at the street immediately below you, people are seen walking back and
+forth carrying out their daily errands. The wall walkway continues to the east
+and to the west.
+~
+182 0 1
+D1
+The south wall walkway continues to the east.
+~
+~
+0 0 18305
+D3
+The south wall walkway continues to the west.
+~
+~
+0 0 18307
+S
+#18307
+South Wall Walkway~
+   You stand on the southern most battlement on the great protective wall
+around the city. Directly to the west of here lies the southwestern guard
+tower. From here you have an astounding view of the Kir-Oshi gardens to
+the south and the city's buildings to the north. The walkway continues to
+the east.
+~
+182 0 1
+D1
+The south wall walkway continues to the east.
+~
+~
+0 0 18306
+D3
+The southwestern guard tower lies just to the west of here.
+~
+~
+0 0 18273
+S
+#18308
+Deck of a Ship~
+   You stand on the main deck of a standard-sized fishing boat that docks
+in the pier of the city. Although the deck itself is outside, a deep odor
+of stale fish permeates the air. There is a wooden ladder in the center of
+the deck and, looking over the edge of the ship, you are able to see several
+oars stagnantly protruding from the square holes cut just above water level.
+~
+182 c 1
+D1
+The first pier of the harbor is to the east.
+~
+~
+0 0 18287
+D5
+A faint odor emanates from the dark lower deck.
+~
+~
+0 0 18309
+S
+#18309
+The Bottom Deck~
+   You stand on the bottom deck of a seemingly ancient fishing boat. Rows of
+wooden benches have been retentively built in perfect columns to your left
+and right. There are square holes in the side of the boat with wooden oars
+sticking unceremoniously out of them. The dominating odor is what seems to be
+partly animal and human filth, and there are bones and other fragments in the
+inch think muck where oozes on the floor.
+~
+182 d 0
+D4
+The main deck of the fishing boat.
+~
+~
+0 0 18308
+S
+#18310
+Deck of a Ship~
+   You stand on the deck of a ship docked on the second pier of the bustling
+Kir-Oshi harbor. Rusted weapons have been disgarded in unkempt piles here.
+Wooden crates are stacked up in no particular order, their contents unkown,
+due to the iron nails driven into the lids. There is a square opening that
+leads into the bowls of the ship.
+~
+182 c 1
+D1
+The second pier of the harbor.
+~
+~
+0 0 18289
+D5
+You can't really see much in the darkness below, but you think something moves
+when you peer intently down there.
+~
+~
+0 0 18311
+S
+#18311
+The Bottom Deck~
+   You stand in the bottom deck of a small, but fast pirate ship. It
+is very dark here, and you are unable to see the few items scattered
+around clearly. You have the feeling of someone watching you, their
+gaze seemingly afixed behind you. It smells incredibly musky in here,
+and there are several fungous substances growing semi-phosphorescently
+on the inside of the hull. The only exit lies up the wooden latter in
+the center of the room.
+~
+182 adm 0
+D4
+The top deck of the ship is above you.
+~
+~
+0 0 18310
+S
+#18312
+The Tracers Knife~
+   You stand aboard the merchant ship, her name The Tracer's Knife. She is a
+well-kept boat; obviously her crew cares not only about her appearance, but
+of her functionality as well. The deck of The Tracer's Knife is spotless, and
+you are almost able to see yourself in the highly scrubbed, polished wood. The
+sailors of the ship are busily walking past you with their arms full of
+crates, down the wooden plank and onto the third pier of the harbor. The ship
+extends to the south.
+~
+182 c 1
+D1
+The third and final pier of the harbor is to the east.
+~
+~
+0 0 18291
+D2
+The main deck of The Tracer's Knife is to the south.
+~
+~
+0 0 18314
+S
+#18313
+The Bottom Deck~
+   You stand at the bottom of The Tracer's Knife. It is slightly illuminated,
+the apparent source of light being the square opening above your head. A
+faint, sickly odor assaults your nostrils, like a dying man has been left
+unattended. A strange sound reverberates through this claustrophobic space,
+blasting you with a phenomenally strong feeling of nausea in the pit of your
+stomach. From here, you can continue exploration of the bottom of the ship, or
+go up a wooden ladder to the main deck.
+~
+182 d 0
+D0
+The bottom deck of The Tracer's Knife is to the north.
+~
+~
+0 0 18315
+D4
+The main deck of the ship lies up the wooden ladder.
+~
+~
+0 0 18314
+S
+#18314
+The Tracers Knife~
+   You stand at the bow on the main deck of The Tracers Knife. A large
+merchant ship, she supports a hefty crew of several sailors. The view of the
+ocean to the south is absolutely splendid, and you are able to see water
+stretching all the way to the horizon. There is a square-shaped opening here
+with a ladder leading down to the bottom of the ship.
+~
+182 0 1
+D0
+The main deck of The Tracer's Knife continues to the north.
+~
+~
+0 0 18312
+D5
+There is a square opening in the deck with a wooden ladder leading down,
+allowing passage into the lower deck of the ship.
+~
+~
+0 0 18313
+S
+#18315
+The Bottom Deck~
+   You stand within the lower hold of Tracer's Knife. It is incredibly dark
+here, the only faint source of light coming from the room to the south. You
+hear a low, agonized moan coming from somewhere in the darkness, but are
+unable to pinpoint its source. It smells of decay in here and, unlike the
+upper deck, it's extremely dirty. Several chains clink as you walk, and you
+ascertain that this is where the captain keeps stowaways. The only exit lies
+to the south.
+~
+182 ad 0
+D2
+The bottom deck of the ship is to the south.
+~
+~
+0 0 18313
+D5
+You can't really tell if there is anything down there...
+~
+hatch secret~
+2 18280 18316
+S
+#18316
+An Aquatic Tunnel~
+   You stand within a circular, water-filled tunnel. There are rusted iron
+rungs affixed to the northern wall, allowing passage into the bottom of a
+ship above you. Directly at your feet, there is a deep pool of water which
+leads down a narrow square shaft of corroded iron, that has been riveted to
+heavy metal beams. Water uncomfortably surrounds you here, and drifts into
+the tunnel blow you like smoke through a drafty door.
+~
+182 dfi 6
+D4
+There is a hatch leading to the bottom of the ship.
+~
+hatch secret~
+2 18280 18315
+D5
+There is a narrow shaft leading down there.
+~
+~
+0 0 18317
+S
+#18317
+An Aquatic Tunnel~
+   You are drifting in an underwater rusted iron shaft. It appears to become
+narrower as you go downward, and you can see that the support beams are
+twisted, warping the shaft. You hope the structure is sound, but you're not
+quite sure how safe you are.
+~
+182 adfi 8
+D4
+The beginning of the tunnel is up there.
+~
+~
+0 0 18316
+D5
+The shaft continues below.
+~
+~
+0 0 18318
+S
+#18318
+An Aquatic Tunnel~
+   You hit your head on a broken crossbar that is sticking out into the shaft.
+Salt water has escaped into this tunnel ages ago, rusting the metal and making
+it incredibly difficult to move about. You hope the support system keeping
+this tunnel intact has not been weakened by years of disrepair, or you may
+well find yourself in the midst of the ocean.
+~
+182 adfi 8
+D4
+You can't see anything in the darkness.
+~
+~
+0 0 18317
+D5
+You can't see anything in the darkness.
+~
+~
+0 0 18319
+S
+#18319
+An Aquatic Tunnel~
+   You are drifting within an iron shaft. It has been filled with water from
+various leaks in the framework, and by a quick glance the only thing wrong
+with it is the rusted metal. A half-luminious fungus grows on the iron tunnel,
+partially lighting your way, albeit not enough to see completely. The shaft
+leads up here, and curves to the south.
+~
+182 adfi 8
+D2
+You can't see anything in the darkness.
+~
+~
+0 0 18320
+D4
+You can't see anything in the darkness.
+~
+~
+0 0 18318
+S
+#18320
+An Aquatic Tunnel~
+   You are drifting within an iron shaft, used by the notorious members of the
+Liu'she Ch'uan Tong as a secretive means of smuggling without the oblivious
+citizens of Kir-Oshi finding and jailing them. There is no source of light
+whatsoever here, and you can only see darkness in every direction. The tunnel
+continues to the north and south.
+~
+182 adfi 8
+D0
+You can't see anything in the darkness.
+~
+~
+0 0 18319
+D2
+You can't see anything in the darkness.
+~
+~
+0 0 18321
+S
+#18321
+An Aquatic Tunnel~
+   The darkness of the tunnel is complete, but you are able to glimpse a
+luminescent eel as it escapes through the side of the shaft. This place is
+filled with the shadowy creatures; seemingly hundreds have chosen this place
+as their home. The shaft continues to the north and south.
+~
+182 adfi 8
+D0
+You can't see anything in the darkness.
+~
+~
+0 0 18320
+D2
+You can't see anything in the darkness.
+~
+~
+0 0 18322
+S
+#18322
+An Aquatic Tunnel~
+   The rusted iron tunnel wall at this junction is creased and looks very
+unstable. It would probably be best to move quickly through this place before
+it collapses. A beginning or end to this shaft seems nowhere in sight, and
+the blackness doesn't help. The tunnel extends to the north and west from
+here.
+~
+182 adfi 8
+D0
+You can't see anything in the darkness.
+~
+~
+0 0 18321
+D3
+You can't see anything in the darkness.
+~
+~
+0 0 18323
+S
+#18323
+An Aquatic Tunnel~
+   You are swimming in an underwater shaft. It was apparently made by the
+members of the notorious Liu'she Ch'uan Tong, which you are able to ascertain
+by the iron framework of the tunnel. Water has crept into the shaft over the
+years, along with aquatic wildlife. The tunnel continues to the east and west.
+~
+182 adfi 8
+D1
+You can't see anything in the darkness.
+~
+~
+0 0 18322
+D3
+You can't see anything in the darkness.
+~
+~
+0 0 18324
+S
+#18324
+An Aquatic Tunnel~
+   You are swimming within an iron shaft placed mysteriously underneath the
+ocean. Slimy green algae grows on the rusted walls. Aquatic life has escaped
+into the tunnel, although a visible opening is nowhere in sight. This small,
+cramped space gives you a deep-rooted feeling of claustrophobia, and instills
+an urge to leave immediately. The tunnel continues to the east and west.
+~
+182 adfi 8
+D1
+You can't see anything in the darkness.
+~
+~
+0 0 18323
+D3
+You can't see anything in the darkness.
+~
+~
+0 0 18325
+S
+#18325
+An Aquatic Tunnel~
+   The icy sea-water surrounding you chills you to the very marrow, as you
+fight to move yourself along. If you're exposed to this for much longer,
+you might succumb to hypothermia. What a terrible end that would be.
+   The passage continues to the east and west, though in the darkness of
+this water-filled cavern, it is incredibly difficult to tell which direction
+to go to reach dry land.
+~
+182 adfi 8
+D1
+You can't see anything in the darkness.
+~
+~
+0 0 18324
+D3
+You can't see anything in the darkness.
+~
+~
+0 0 18326
+S
+#18326
+An Aquatic Tunnel~
+   Running your hands over the rusty metal surface, groping your way along
+this channel, you feel a sharp pain in your left palm as ocean coral tears
+your flesh. Closing your hand tightly to cover the wound, you press onward,
+hurrying out of - or maybe into - this dangerous place, with blood coloring
+the icy waters.
+~
+182 adfi 8
+D1
+You can't see anything in the darkness.
+~
+~
+0 0 18325
+D3
+You can't see anything in the darkness.
+~
+~
+0 0 18327
+S
+#18327
+An Aquatic Tunnel~
+   Swimming along within this cramped space, the icy water and seemingly
+endless barrage of aquatic wildlife hinder your already difficult quest
+through this tunnel. The metal walls of the tunnel have been rusted with
+the leakage of the seawater and the surface is rough to your touch. Exits
+lie to the east and west.
+~
+182 adfi 8
+D1
+You can't see anything in the darkness.
+~
+~
+0 0 18326
+D3
+You can't see anything in the darkness.
+~
+~
+0 0 18328
+S
+#18328
+An Aquatic Tunnel~
+   You are drifting inside of a fully submerged aquatic tunnel. All sorts
+of aquatic life have been trapped here, and they slither grotesquely against
+your legs. The iron framework of the shaft curves up here, and leads into
+total darkness to your east.
+~
+182 adfi 8
+D1
+You can't see anything in the darkness.
+~
+~
+0 0 18327
+D4
+The shaft appears to widen there.
+~
+~
+0 0 18329
+S
+#18329
+An Aquatic Tunnel~
+   The tunnel widens slightly here, and the end of a ladder's rungs can be
+glimpsed above you. There is an endless assault of aquatic life here, and the
+sight of light from above instills a desparate urge to break free of this
+claustrophobic tunnel. There is coral and algae growing half-luminescently on
+the iron framework of the tunnel, and it increases steadily below.
+~
+182 adfi 8
+D4
+~
+~
+0 0 12935
+D5
+You can't see anything in the darkness.
+~
+~
+0 0 18328
+S
+#18330
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+182 cd 0
+D0
+~
+~
+0 0 18218
+S
+#18331
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+182 cd 0
+D1
+~
+~
+0 0 18254
+S
+#18332
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+182 cd 0
+D1
+~
+~
+0 0 18224
+S
+#18333
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+182 cd 0
+D0
+~
+~
+0 0 18264
+S
+$~

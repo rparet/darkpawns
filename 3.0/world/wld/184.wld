@@ -1,0 +1,3583 @@
+#18400
+The Immortal Map Room~
+
+Here is an entrance way to a very interesting zone.  There is a lot of
+trickery involved in the location of rooms and exits.  Please let me know
+if there are any bugs or glitches.  There is no map.  This zone consists of
+about 190 rooms that are fairly loosely connected, so I don't even want to
+try and show it.  The best way to find your way about this zone is to do it
+just as a mortal would, walk around and explore.  You can go down to the 
+beginning room.  There is a sign floating here.
+~
+184 520 0 0 0 0
+D5
+Beginning Of A Hallway~
+~
+0 -1 18405
+E
+sign~
+  It reads:
+     "What is in the minds of some men, can drive another crazy."
+~
+S
+#18401
+A Strange Doorway~
+   You are in some kind of strange portal.  You are standing, but when you
+look though the portal, you appear to be staring at the sky, almost as though
+you were lying down.  You have to go up to climb out of here, or you can go
+south to return to the hallway.
+~
+184 8 0 0 0 0
+D2
+The Hallway~
+~
+0 -1 18406
+D4
+A Field~
+~
+0 -1 18578
+S
+#18402
+A Strange Doorway~
+
+This is a weird feeling.  You are standing on level ground, but when you look
+directly in front of you you appear to be looking directly at the ground 5 feet
+below you.  This is nearly nauseating.  You have to drop down to get onto a
+grassy field or you can return south to the hallway.
+~
+184 8 0 0 0 0
+D2
+The Hallway~
+~
+0 -1 18407
+D5
+A Grassy Field~
+~
+0 -1 18579
+S
+#18403
+A Strange Doorway~
+
+You are standing a some kind of doorway peering into the relative darkness of
+a tunnel.  There is a flurry of activity ahead of you.  There are two pairs
+of glowing eyes staring about the tunnel, but they do not seem to notice
+you at all.  The tunnel is just north of here, or you can return south to
+the hallway.
+~
+184 8 0 0 0 0
+D0
+A Tunnel~
+~
+0 -1 18580
+D2
+The Hallway~
+~
+0 -1 18408
+S
+#18404
+Beginning Of A Hallway~
+
+A strange light flickers around you as you stand at this dead end of a hallway.
+You know you have been here before... this is where that portal was, the one
+that is not here any more.  The only exit is to the east.
+~
+184 8 0 0 0 0
+D1
+The Hallway~
+~
+0 -1 18406
+S
+#18405
+Beginning Of A Hallway~
+
+This is a strange place.  To your east is a long, stone hallway.  It is lit 
+but you have no idea how, there are no torches or glowing balls of light.
+There is an eerie fell to this place, the hairs on you neck are standing on
+end.
+~
+184 8 0 0 0 0
+D1
+The Hallway~
+~
+0 -1 18406
+S
+#18406
+The Hallway~
+
+The stone hallway about you is perfect.  The corners are square and there is
+no sign of any stone mortar.  The source of the light is still unknown.  The
+hallway leads on the east or returns to the west.  There are two wooden
+doors, one to your north and one to the south.   There is a small plaque
+embedded in the floor here.
+~
+184 8 0 0 0 0
+D0
+A Wooden Doorway~
+door north wood wooden~
+1 -1 18401
+D1
+The Hallway~
+~
+0 -1 18407
+D2
+A Wooden Doorway~
+door south wood wooden~
+1 -1 18409
+D3
+Beginning Of A Hallway~
+~
+0 -1 18404
+E
+plaque~
+   It reads:
+     "North: The Kingdom Of Souls
+      South: The Ghouls"
+~
+S
+#18407
+The Hallway~
+
+The perfect hallway continues.  There is still no sign of the source of
+light.  There is another pair of wooden doors here, and another plaque is
+embedded into the floor.  
+~
+184 8 0 0 0 0
+D0
+A Wooded Doorway~
+door north wood wooden~
+1 -1 18402
+D1
+End Of The Hallway~
+~
+0 -1 18408
+D2
+A Wooden Doorway~
+door south wood wooden~
+1 -1 18410
+D3
+The Hallway~
+~
+0 -1 18406
+E
+plaque~
+   It reads:
+     "North: The Wailing Moor
+      South: The Home of Blain"
+
+   Someone has scribbled a little note at the bottom of the plaque.
+~
+E
+note scribble scribbles writing~
+The scribbling is reddish-brown in color and reads:
+     "Blain is pain"
+~
+S
+#18408
+End Of The Hallway~
+
+This is then end of the perfectly constructed hallway.  There are two more
+wooden doors, one to the north, the other to the south.  There is also a
+much larger wooded door to the east, perhaps a closer look is in order.  The
+hallway leads back to the west.  There is another plaque embedded here.
+~
+184 8 0 0 0 0
+D0
+A Wooden Doorway~
+door north wood wooden~
+1 -1 18403
+D1
+A Huge Doorway~
+door east wood wooden~
+2 -1 8008
+D2
+The Hallway~
+door south wood wooden~
+1 -1 18411
+D3
+A Wooden Doorway~
+~
+0 -1 18407
+E
+plaque~
+   It reads:
+     "North:  The Tunnels
+      South:  The Tower
+      East:   The Great Unknown"
+~
+E
+door wood wooden~
+This is a huge monstrosity of a door, it must stand fifteen feet tall.  It
+has a very small key hole at the normal key hole height.  That key hole looks
+completely out of place on a door of this size.
+~
+S
+#18409
+A Strange Doorway~
+
+This doorway opens onto a dusty road.  Ahead of you is a small abandoned
+town.  You can go south onto the road or head back north to the hallway.
+~
+184 8 0 0 0 0
+D0
+The Hallway~
+~
+0 -1 18406
+D2
+A Dusty Road~
+~
+0 -1 18581
+S
+#18410
+A Strange Doorway~
+
+You are faced with a line of trees as you look to the south.  There is enough 
+room for you to walk out of the doorway, but little else.  The path you could
+step onto leads east and west, and you are guessing there is something to the
+north of you, once you get out of this unusual gateway.  You can head back
+north into the hallway. 
+~
+184 8 0 0 0 0
+D0
+The Hallway~
+~
+0 -1 18407
+D2
+A Large Path~
+~
+0 -1 18582
+S
+#18411
+A Strange Doorway~
+
+As you enter the doorway you are looking at a large courtyard.  The ground is
+covered in a white powder like stone.  A huge black tower casts its shadow
+over the open area.  You can also go back into the hallway to the north.
+~
+184 8 0 0 0 0
+D0
+The Hallway~
+~
+0 -1 18408
+D2
+A Courtyard~
+~
+0 -1 18583
+S
+#18412
+A Field~
+
+This is the north-west corner of a smallish battle field.  You are betting 
+that a war has been fought here for a very long time.  You can go south or
+east from here.
+~
+184 0 0 0 0 2
+D1
+A Field~
+~
+0 -1 18413
+D2
+A Field~
+~
+0 -1 18419
+S
+#18413
+A Field~
+
+This is some kind of mini-battle field where soldiers can practice their
+skills or more likely actually wage a war.  You can go east, west or south
+from here.
+~
+184 0 0 0 0 2
+D1
+A Field~
+~
+0 -1 18414
+D2
+A Field~
+~
+0 -1 18420
+D3
+A Field~
+~
+0 -1 18412
+S
+#18414
+A Field~
+
+You are along the northern edge of this battle field.  There are woods to your
+north so your only options in places to go are east, west and south.
+~
+184 0 0 0 0 2
+D1
+A Field~
+~
+0 -1 18415
+D2
+A Field~
+~
+0 -1 18421
+D3
+A Field~
+~
+0 -1 18413
+S
+#18415
+A Field~
+
+This is the north-east corner of the battle-field.  There is some sort of
+castle to your east.  There is some kind of entry door south-east of here.
+You can go south or west.
+~
+184 0 0 0 0 2
+D2
+A Field~
+~
+0 -1 18422
+D3
+A Field~
+~
+0 -1 18414
+S
+#18416
+A Kitchen~
+
+This kitchen has not been used for what looks like hundreds of years.  You
+bet those beings that live here do not need food to survive.  You can leave
+to the east.
+~
+184 8 0 0 0 0
+D1
+A Dinning Room~
+~
+0 -1 18417
+S
+#18417
+A Dinning Room~
+
+There is a huge table in the middle of this room surrounded by what was once
+plush chairs.  Everything has fallen into disrepair and ruin.  It looks as
+though many a battle have been faught, won, and lost here.  You can head east,
+west, or south from here.
+~
+184 8 0 0 0 0
+D1
+A Storage Closet~
+~
+0 -1 18418
+D2
+The Main Chamber~
+~
+0 -1 18424
+D3
+A Kitchen~
+~
+0 -1 18416
+S
+#18418
+A Storage Closet~
+
+This is another room falling to pieces.  The shelves that are now collapsed or
+caving in were once filled with all sorts of expensive goods.  There is
+nothing of value here anymore.  You can go west back to the dinning room.
+~
+184 8 0 0 0 0
+D3
+A Dinning Room~
+~
+0 -1 18417
+S
+#18419
+A Field~
+
+You are at the end of a large battle field.  It looks as though some kind of
+battle has been going on for centuries.  The grass basically non-existent and
+the bones of people long ago killed are partially buried.  There is some
+clanging in the air.
+~
+184 0 0 0 0 2
+D0
+Corner Of A Field~
+~
+0 -1 18412
+D1
+Middle Of A Field~
+~
+0 -1 18420
+D2
+Corner Of A Field~
+~
+0 -1 18426
+S
+#18420
+Middle Of A Field~
+
+You seem to be in the middle of a war.  There are bone shards and armor bits
+from long-dead soldiers.  But the ground looks as though it has been beaten
+down recently.  There is a castle off to the east of here.  You can go north,
+east, south, or west.
+~
+184 0 0 0 0 2
+D0
+A Field~
+~
+0 -1 18413
+D1
+Middle Of A Field~
+~
+0 -1 18421
+D2
+A Field~
+~
+0 -1 18427
+D3
+A Field~
+~
+0 -1 18419
+S
+#18421
+Middle Of A Field~
+
+This is some kind of mini-battle field where soldiers can practice their
+skills or more likely actually wage a war.  There is a castle not to far
+east of here.  You can go east, west, north or south from here.
+~
+184 0 0 0 0 2
+D0
+A Field~
+~
+0 -1 18414
+D1
+At A Castle~
+~
+0 -1 18422
+D2
+A Field~
+~
+0 -1 18428
+D3
+A Field~
+~
+0 -1 18420
+S
+#18422
+At A Castle~
+
+You are at the far edge of a field at the entrance to a once grand, but now
+run down castle.  You can go east into the castle or into the field to the
+west, north, or south.
+~
+184 0 0 0 0 2
+D0
+A Field~
+~
+0 -1 18415
+D1
+The Entrance Way~
+~
+0 -1 18423
+D2
+A Field~
+~
+0 -1 18429
+D3
+A Field~
+~
+0 -1 18421
+S
+#18423
+The Entrance Way~
+You can tell this castle used to be grand by just looking at this entrance.
+There are remnants of large wall tapestries and plush carpeting all around
+you.  This place has been scarred by time and abuse.  You can go east into
+the main part of the castle or west, back onto the field.
+~
+184 8 0 0 0 0
+D1
+The Main Chamber~
+~
+0 -1 18424
+D3
+At A Castle~
+~
+0 -1 18422
+S
+#18424
+The Main Chamber~
+
+This must have been the king's throne room.  There is an altar-like dias at
+the eastern edge of the room with a door beyond it.  A pile of broken wood
+sits atop that platform.  There are doors to the north and south, and you
+can go back to the entrance in the west.
+~
+184 8 0 0 0 0
+D0
+The Dinning Room~
+~
+0 -1 18417
+D1
+The Anti-Chamber~
+~
+0 -1 18425
+D2
+A Small Hallway~
+~
+0 -1 18431
+D3
+The Entrance Way~
+~
+0 -1 18423
+S
+#18425
+The Anti-Chamber~
+
+This is a relatively small chamber, given that it was used by a king.  It is
+in complete ruin.  You are surprised that the roof is staying up.  The main
+chamber is west of here.
+~
+184 8 0 0 0 0
+D3
+The Main Chamber~
+~
+0 -1 18424
+S
+#18426
+A Field~
+
+This is the south-west corner of a mini-battle field.  It is well beaten down
+from man years of constant battle.  You can go north or east from here.
+~
+184 0 0 0 0 2
+D0
+A Field~
+~
+0 -1 18419
+D1
+A Field~
+~
+0 -1 18427
+S
+#18427
+A Field~
+
+You are along the southern edge of a battle field.  This place looks like it
+is hell for the soldiers who fight here, no cover, no backup, no nothing.
+Whatever they are fighting for better be damn importaint.  You can go east,
+west or north from here.
+~
+184 0 0 0 0 2
+D0
+A Field~
+~
+0 -1 18420
+D1
+A Field~
+~
+0 -1 18428
+D3
+A Field~
+~
+0 -1 18426
+S
+#18428
+A Field~
+
+You are closer to the eastern edge of the battle field.  There is some kind of
+castle to the north east of you.  You can go east, west, or north.
+~
+184 0 0 0 0 2
+D0
+A Field~
+~
+0 -1 18421
+D1
+A Field~
+~
+0 -1 18429
+D3
+A Field~
+~
+0 -1 18427
+S
+#18429
+A Field~
+
+This si the south-east corner of the battle field.  There is a castle just to
+the north-east of you.  It is reachable by going to an enterance way north of
+you.  You can also go west from here.
+~
+184 0 0 0 0 2
+D0
+At A Castle~
+~
+0 -1 18422
+D3
+A Field~
+~
+0 -1 18428
+S
+#18430
+A Show Room~
+
+At one time a great collection of armor and weapons was displayed here.  All
+that is left is collapsed display cases and rusted hunks of metal.  A hallway
+is to the east.
+~
+184 8 0 0 0 0
+D1
+A Small Hallway~
+~
+0 -1 18431
+S
+#18431
+A Small Hallway~
+
+This room is in the same condition as the rest of the castle - delapidated.
+To the west is some kind of display area and some kind of quarters are to
+the east.  The main chamber is just north of here.
+~
+184 8 0 0 0 0
+D0
+The Main Chamber~
+~
+0 -1 18424
+D1
+Some Sleeping Quarters~
+~
+0 -1 18432
+D3
+A Show Room~
+~
+0 -1 18430
+S
+#18432
+Some Sleeping Quarters~
+
+This place is a mess.  It was probably a mess before the room basically caved
+in on itself.  There are a few wooden beds and dressers rotting away here.
+It is hard to imagine anyone ever living here.  The hallway is to the west.
+~
+184 8 0 0 0 0
+D3
+A Small Hallway~
+~
+0 -1 18431
+S
+#18433
+A Grassy Moor~
+
+This is the corner of a grassy moor.  It is a very relaxing place.  The only
+exit is to the east.
+~
+184 0 0 0 0 2
+D1
+A Grassy Moor~
+~
+0 -1 18434
+S
+#18434
+A Grassy Moor~
+
+The grass of this moor has a very soft, relaxing feeling to it.  You can go
+east south, or west from here.
+~
+184 0 0 0 0 2
+D1
+A Grassy Moor~
+~
+0 -1 18435
+D2
+A Grassy Moor~
+~
+0 -1 18438
+D3
+A Grassy Moor~
+~
+0 -1 18433
+S
+#18435
+A Grassy Moor~
+
+The more you wander about this grassy field, the more you wonder if there is
+danger somewhere around.  You can go east, south, or west from here.
+~
+184 0 0 0 0 2
+D1
+A Low Spot In The Moor~
+~
+0 -1 18436
+D2
+A Grassy Moor~
+~
+0 -1 18439
+D3
+A Grassy Moor~
+~
+0 -1 18434
+S
+#18436
+A Low Spot In The Moor~
+
+Your last thought as you suffocate in the wet peat is that you should have
+been more careful where you walked...
+~
+184 6 0 0 0 2
+D3
+A Grassy Moor~
+~
+0 -1 18435
+S
+#18437
+A Grassy Moor~
+
+Just to the east of you is a small building.  This seems very out of place on
+the grassy moor.  You can also go south.
+~
+184 0 0 0 0 2
+D1
+A Small Hut~
+~
+0 -1 18438
+D2
+The Grassy Moor~
+~
+0 -1 18443
+S
+#18438
+A Small Hut~
+
+This place is unreal.  It is spotlessly clean, there must be a reason for
+it to be in the middle of nowhere.  There is a wooden oval on the east wall
+with a brass plaque over it.  You can go back to the moor via the door to
+the west.
+~
+184 8 0 0 0 0
+D3
+A Grassy Moor~
+~
+0 -1 18437
+E
+oval~
+  It looks like some kind hatch way.  There is a small key hole and a handle
+  on the side.
+~
+E
+plaque~
+  It reads:
+     "To The Passageway"
+
+  Someone has marked in a few words on the shinny brass plaque.
+~
+E
+note word words~
+  It reads:
+     "Get out before you die here..."
+  The last 'e' in "here" seems to be falling to the floor, just as the author
+  must have been.
+~
+S
+#18439
+A Hollow In The Moor~
+
+Your last thought as you suffocate in the wet peat is that you should have
+been more careful where you walked...
+~
+184 6 0 0 0 2
+D3
+A Grassy Moor~
+~
+0 -1 18444
+S
+#18440
+A Grassy Moor~
+
+You are having a wonderful time strolling in this open grass field.  You begin
+to wonder why there is no one else around.  You can go north, south or east 
+from here.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18434
+D1
+A Grassy Moor~
+~
+0 -1 18441
+D2
+A Grassy Moor~
+~
+0 -1 18445
+S
+#18441
+A Grassy Moor~
+
+This is an amazingly relaxing place.  The lush green grass feels springy
+beneath you feet.  You can go north, east, or west to navigate in the moor.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18435
+D1
+A Grassy Moor~
+~
+0 -1 18442
+D3
+A Grassy Moor~
+~
+0 -1 18440
+S
+#18442
+A Grassy Moor~
+
+The grass beneath you feet spring back as you step off of it.  You can only
+imagine how great a garden would grow here.  You can go west or south from
+here.
+~
+184 0 0 0 0 2
+D2
+A Grassy Moor~
+~
+0 -1 18447
+D3
+A Grassy Moor~
+~
+0 -1 18441
+S
+#18443
+A Grassy Moor~
+
+This path is a little firmer than a majority of the moor.  You can imagine
+the reason for this is an increase in use.  But where is that use coming
+from?  You can go north or south here.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18437
+D2
+A Grassy Moor~
+~
+0 -1 18448
+S
+#18444
+A Grassy More~
+
+The grassy feels springy under your feet as you walk along.  This place is
+invigorating.  To the north is what looks like a low spot on an otherwise
+level field.  You can also go south and east.
+~
+184 0 0 0 0 2
+D0
+A Hollow In The Moor~
+~
+0 -1 18439
+D1
+A Grassy Moor~
+~
+0 -1 18445
+D2
+A Grassy Moor~
+~
+0 -1 18449
+S
+#18445
+A Grassy Moor~
+
+Ahhh... The great outdoors.  You are invigorated by the sweet smell of the
+grass.  You can go north or west from here.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18440
+D3
+A Grassy Moor~
+~
+0 -1 18444
+S
+#18446
+A Wet Patch~
+
+Ack!  You are being pulled under as the grass below your feet gives way.
+The last thing you can think of is how this wonderful place can hide such
+dangers.
+~
+184 6 0 0 0 2
+D2
+A Grassy Moor~
+~
+0 -1 18450
+S
+#18447
+A Grassy Moor~
+
+This place is quite relaxing.  You feel the urge to spread out a blanket
+and have a picnic right here.  You can continue north or east.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18442
+D1
+A Grassy Moor~
+~
+0 -1 18448
+S
+#18448
+A Grassy Moor~
+
+This part of the path seems a little more traveled.  The grass is not packed
+down and there is not dirt path, but there are signs of use.  You can go
+north, south, or west from here.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18443
+D2
+A Grassy Moor~
+~
+0 -1 18453
+D3
+A Grassy Moor~
+~
+0 -1 18444
+S
+#18449
+A Grassy Moor~
+
+You are in the west side of this large open field.  The grass around you is
+luscious green and fresh.  It is quite relaxing.  You can go north or south.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18444
+D2
+A Grassy Field~
+~
+0 -1 18454
+S
+#18450
+A Grassy Moor~
+
+The open expance of lush grass continues here.  You are getting a peaceful
+feeling as you walk.  Exits lead east or south.
+~
+184 0 0 0 0 2
+D1
+A Grassy Moor~
+~
+0 -1 18451
+D2
+A Grassy Moor~
+~
+0 -1 18455
+S
+#18451
+A Grassy Moor~
+
+This is a slight rise in the fairly level field.  You can see the woods
+surrounding the moor in all four directions.  Just to your north, the grass
+looks a little wet.  You can also go east, south, or west.
+~
+184 0 0 0 0 2
+D0
+A Wet Patch~
+~
+0 -1 18446
+D1
+A Grassy Moor~
+~
+0 -1 18452
+D2
+A Grassy Moor~
+~
+0 -1 18456
+D3
+A Grassy Moor~
+~
+0 -1 18450
+S
+#18452
+A Grassy Moor~
+
+This path seems a little more worn that what you had seen.  But even so, the
+grass is not trampled or even lying on its side.  In fact, you have no idea
+how you think this path is used more often.  You can go east or west from
+here.
+~
+184 0 0 0 0 2
+D1
+A Grassy Moor~
+~
+0 -1 18453
+D3
+A Grassy Moor~
+~
+0 -1 18451
+S
+#18453
+A Grassy Moor~
+
+This is the eastern edge of the moor.  There are trees to the east forming
+a barrier so you can not go that way.  But you can go north, south, or west.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18448
+D2
+A Grassy Moor~
+~
+0 -1 18458
+D3
+A Grassy Moor~
+~
+0 -1 18452
+S
+#18454
+A Grassy Field~
+
+This is a corner of a large grassy field.  It does not quite look like a
+field though, it has a more springy, luscious look to it.  You can go
+north or east from here.  You swear there was a sign here, but it is no
+longer where it was, or are you imagining things?
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18449
+D1
+A Grassy Moor~
+~
+0 -1 18455
+S
+#18455
+A Grassy Moor~
+
+This is a wonderful place.  The air is clean and the sky clear.  You think
+you might be able to spend all day relaxing here.  You can go north or
+west from here.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18450
+D3
+A Grassy Moor~
+~
+0 -1 18454
+S
+#18456
+A Grassy Moor~
+
+This place is great!  You bet you could almost live right here, if you
+did not have that longing for adventure.  The moor heads north or east to
+a spot that looks a lot more wet than the rest of the moor.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18451
+D1
+A Wet Hollow~
+~
+0 -1 18457
+S
+#18457
+A Wet Hollow~
+
+Ack!  You knew it, this place was too good to be true!  You last thoughts
+are: "How can such a beautiful place be so deadly!"  You think this as
+your head sinks bellow the surface into the peat moss.
+~
+184 6 0 0 0 2
+D3
+A Grassy Moor~
+~
+0 -1 18456
+S
+#18458
+A Grassy Moor~
+
+This is the south-west corner of the moor.  The grass here, is as green and
+lush as it is anywhere else on the moor.  You can only go north from here.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18453
+S
+#18459
+A Tunnel~
+
+This is the end of the tunnel.  It is a little more open here, and seems
+familiar to you.  That's it.  The strange doorway came into this room, still
+no sign of it.  You can leave east, through the only exit.
+~
+184 0 0 0 0 3
+D1
+A Tunnel~
+~
+0 -1 18460
+S
+#18460
+A Tunnel~
+
+This is a T in the dirt tunnel.  The ground and walls are made up of a well
+packed dirt.  There are exits to the east, south, and west.
+~
+184 0 0 0 0 3
+D1
+A Tunnel~
+~
+0 -1 18461
+D2
+A Tunnel~
+~
+0 -1 18464
+D3
+A Tunnel~
+~
+0 -1 18459
+S
+#18461
+A Tunnel~
+
+The tunnel is a little tighter here, but it seems no less used.  The ground
+is just as packed down as the larger paths.  On the walls are some strange
+holes, very small when compaired to the tunnels, but bigger than your fist.
+You can go east or west.
+~
+184 0 0 0 0 3
+D1
+A Tunnel~
+~
+0 -1 18462
+D3
+A Tunnel~
+~
+0 -1 18460
+S
+#18462
+A Tunnel~
+
+This is a T in the tunnels.  It looks a lot like all the other parts of
+this underground maze-work of tunnels.  You can go east, west, or south
+from here.  The path to the east looks like it curves to the south
+~
+184 0 0 0 0 3
+D1
+A Tunnel~
+~
+0 -1 18467
+D2
+A Tunnel~
+~
+0 -1 18466
+D3
+A Tunnel~
+~
+0 -1 18461
+S
+#18463
+A Hidden Tunnel Room~
+
+The enterance to this room was maticulously made to be hidden from the common
+observer but yet easy to open and access.  This is some kind of storage room.
+There are a lot of big, expensive treasures here, everything from paintings
+to huge wooden chests.  Most of this stuff looks too big for even two men
+to haul around.  You can head back into the tunnels to the east.
+~
+184 0 0 0 0 3
+D1
+A Tunnel~
+~
+0 -1 18464
+S
+#18464
+A Tunnel~
+
+This is a corner in the underground passageways.  The tunnels lead off north
+and east.  There are strange holes perferating the sides and ceiling.
+~
+184 0 0 0 0 3
+D0
+A Tunnel~
+~
+0 -1 18460
+D1
+A Tunnel~
+~
+0 -1 18465
+D3
+A Hidden Tunnel Room~
+~
+0 -1 18463
+S
+#18465
+A Tunnel~
+
+This is the continuation of these underground tunnels.  It leads east-west.
+There seems to be a bit more activity here as you traverse deaper and deaper
+into the tunnels away from the strange doorway from where you came.
+~
+184 0 0 0 0 3
+D1
+A Tunnel~
+~
+0 -1 18466
+D3
+A Tunnel~
+~
+0 -1 18464
+S
+#18466
+A Tunnel~
+
+This is a T in the dark, dirt tunnels.  The walls and ceiling are still
+covered in the fist sized holes.  You really wonder what they are used for.
+You can go north, east, or west from here.
+~
+184 0 0 0 0 3
+D0
+A Tunnel~
+~
+0 -1 18462
+D1
+A Tunnel~
+~
+0 -1 18467
+D3
+A Tunnel~
+~
+0 -1 18465
+S
+#18467
+A Tunnel~
+
+This is the end of a east-west tunnel.  The holes are still all around you.
+You can go north, south, or west.  The tunnel to the north seems to curve
+west as you peer into it.
+~
+184 0 0 0 0 3
+D0
+A Tunnel~
+~
+0 -1 18462
+D2
+A Tunnel~
+~
+0 -1 18474
+D3
+A Tunnel~
+~
+0 -1 18466
+S
+#18468
+An Open Tunnel~
+
+This is the north-west corner of a large open tunnel.  On the walls and
+ceiling all around you are more of those fist-sized holes.  You can go south
+or east in this open area.
+~
+184 0 0 0 0 3
+D1
+An Open Tunnel~
+~
+0 -1 18469
+D2
+An Open Tunnel~
+~
+0 -1 18471
+S
+#18469
+An Open Tunnel~
+
+This is the north-east corner of the open tunnel.  Those strange holes are on
+the ceiling and walls here as well.  You can go south or west from here.
+~
+184 0 0 0 0 3
+D2
+An Open Tunnel~
+~
+0 -1 18472
+D3
+An Open Tunnel~
+~
+0 -1 18468
+S
+#18470
+A Small Nook~
+
+This is seamingly the heart of the tunnels.  There is only one exit to the
+east but there is some kind of strange doorway to the west.  You would have
+to guess that this is the only way out of these tunnels.
+~
+184 0 0 0 0 3
+D1
+An Open Tunnel~
+~
+0 -1 18471
+E
+door doorway~
+This is an ornately carved, wood and gold doorway.  There is a smallish gold
+nob in the exac middle.  It looks totally out of place here in these dirt
+tunnels.
+~
+S
+#18471
+An Open Tunnel~
+
+This is the west side of an open tunnel.  It is much larger than the other
+tunnels you have been in.  You would guess that this is some kind of living
+area.  You can stay in the large tunnel by going north, east, or south.  Or
+you can go into a small nook to the west.
+~
+184 0 0 0 0 3
+D0
+An Open Tunnel~
+~
+0 -1 18468
+D1
+An Open Tunnel~
+~
+0 -1 18472
+D2
+An Open Tunnel~
+~
+0 -1 18475
+D3
+A Small Nook~
+~
+0 -1 18471
+S
+#18472
+An Open Tunnel~
+
+This is a great improvement over the tunnels to to your east.  You actually
+have head room here.  This is some sort of large chamber, probably with a
+hundred purposes.  You can go north, west, or south to stay in the open
+tunnel or you can go east to go back into the smaller tunnels.
+~
+184 0 0 0 0 3
+D0
+An Open Tunnel~
+~
+0 -1 18469
+D1
+A Tunnel~
+~
+0 -1 18473
+D2
+An Open Tunnel~
+~
+0 -1 18476
+D3
+An Open Tunnel~
+~
+0 -1 18471
+S
+#18473
+A Tunnel~
+
+This is the same basic style tunnel with the same constuction including thos
+strange holes on the walls and ceiling.  You can go east or west from here.
+~
+184 0 0 0 0 3
+D1
+A Tunnel~
+~
+0 -1 18474
+D3
+An Open Cavern~
+~
+0 -1 18472
+S
+#18474
+A Tunnel~
+
+This is a turn in the tunnels.  Other than the fact the tunnel bends here it
+look just like the rest.  You can go north or west here.
+~
+184 0 0 0 0 3
+D0
+A Tunnel~
+~
+0 -1 18467
+D3
+A Tunnel~
+~
+0 -1 18473
+S
+#18475
+An Open Tunnel~
+
+This is the south-west corner of the open tunnel/chamber.  There are still
+lots of those strange holes in the walls here.  You can continue in this
+tunnel by heading east or north.
+~
+184 0 0 0 0 3
+D0
+An Open Tunnel~
+~
+0 -1 18471
+D1
+An Open Tunnel~
+~
+0 -1 18476
+S
+#18476
+An Open Tunnel~
+
+This is the south-east corner of the open tunnel.  More holes cover the walls
+here.  You can go north or west from here.
+~
+184 0 0 0 0 3
+D0
+An Open Tunnel~
+~
+0 -1 18472
+D3
+An Open Tunnel~
+~
+0 -1 18475
+S
+#18477
+A Bedroom~
+
+This is some kind of simple bedroom with a four post bed.  The bed posts have
+marks in them from some kind of abrasion.  You begin to wonder what could
+cause those marks, and more to the point, you wonder if it might be fun.
+There is a door to the south.
+~
+184 8 0 0 0 0
+D2
+A Hallway~
+~
+0 -1 18480
+S
+#18478
+A Bedroom~
+
+This room is dusty from lack of use.  It at one point must have been quite a
+place.  There are velvet and silk reminants on the walls and on the bed.  Too
+bad it is so out of use.  There is a door to the south.
+~
+184 8 0 0 0 0
+D2
+A Hallway~
+~
+0 -1 18481
+S
+#18479
+A Bedroom~
+
+This room is done up in some kind of theme.  There are brass rings on
+opposite walls from which deteriated felt ropes hang.  There is a rack on one
+wall that has a bunch of leather sticks and whips on it.  You wonder what
+kind of activity this room was used for.  There is a doorway to the south.
+~
+184 8 0 0 0 0
+D2
+A Hallway~
+~
+0 -1 18483
+S
+#18480
+A Hallway~
+
+This is the end of the dusty hallway.  There is a window looking west and
+doorways to the north and south.  You can also go east in the hallway.
+~
+184 8 0 0 0 0
+D0
+A Bedroom~
+~
+0 -1 18477
+D1
+A Hallway~
+~
+0 -1 18481
+D2
+A Bedroom~
+~
+0 -1 18484
+E
+window~
+As you peer through the dirt stained glass you see there is nothing to see.
+This place is as deserted by living things as it seems.
+~
+S
+#18481
+A Hallway~
+
+Everything seems to be covered in a thick dust, undisterbed by any living
+things for what seems centuries. The hallway leads in both birections here.
+There are two small rooms north and south from here as well.
+~
+184 8 0 0 0 0
+D0
+A Bedroom~
+~
+0 -1 18478
+D1
+Top Of The Stairs~
+~
+0 -1 18482
+D2
+A Bedroom~
+~
+0 -1 18485
+D3
+A Hallway~
+~
+0 -1 18480
+S
+#18482
+Top Of The Stairs~
+
+There is a thick layer of dust everywhere.  It seems no one has touched this
+place for centuries.  A hallway leads off east-west from here, and the stairs
+lead back down.
+~
+184 8 0 0 0 0
+D1
+A Hallway~
+~
+0 -1 18483
+D3
+A Hallway~
+~
+0 -1 18481
+D5
+An Enterance~
+~
+0 -1 18489
+S
+#18483
+A Hallway~
+
+The dust continues here, it feels really strange to walk in such a place.
+There is a window looking east over what should be the town here.  Doorways
+lead north to a bedroom, and south to some kind of office.  The hallway leads
+back west to the stairs from here.
+~
+184 8 0 0 0 0
+D0
+A Bedroom~
+~
+0 -1 18479
+D2
+An Office~
+~
+0 -1 18486
+D3
+Top Of The Stairs~
+~
+0 -1 18482
+S
+#18484
+A Bedroom~
+
+This is another dusty room.  There is a large heart shaped bed in the middle
+and dusty mirrors on many of the walls and the ceiling.  What would anyone
+need all those mirrors for anyway?  The only exit is back north into the
+hallway.
+~
+184 8 0 0 0 0
+D0
+A Hallway~
+~
+0 -1 18480
+S
+#18485
+A Bedroom~
+
+This is a smallish bedroom.  There is no bed here, but a very large couch
+that looks quite inviting to sleep on.  A thick layer of dust is over
+everything here as well.  You can go north back into the hallway.
+~
+184 8 0 0 0 0
+D0
+A Hallway~
+~
+0 -1 18481
+S
+#18486
+An Office~
+
+This looks like it was a well used office, back when it actually was used.
+Now it just sits idle collecting dust.  What kind of buisness would you run
+out of an upstairs office in some kind of boarding house anyway? You can go
+north back to the hallway.
+~
+184 8 0 0 0 0
+D0
+A Hallway~
+~
+0 -1 18483
+S
+#18487
+An Abandoned Store~
+
+There is a empty counter and some empty shelves covered in a thick dust in
+this long abandoned store.  You wonder what they might have sold here.  The
+furniture looks sturdy and well built, maybe it was weapons or armor or big
+metal pots.
+~
+184 8 0 0 0 0
+D2
+A Dusty Street~
+~
+0 -1 18492
+S
+#18488
+An Abandoned Store~
+
+This is a dusty little shop, long since abandoned.  There are ample hooks on
+the ceiling and out from the walls.  There is nothing hanging from them
+though.  There is a good solid counter here.  It looks more solid than most
+counters.  A small sign is hanging, covered in dust, from the wall.  The only
+exit is to the south.
+~
+184 8 0 0 0 0
+D2
+A Dusty Street~
+~
+0 -1 18493
+E
+block counter~
+Upon close examination of the counter you see it to be some kind of cutting
+block, it looks well used.
+~
+E
+sign~
+After brushing away the dust from the sign you see these words:
+	"Quality is what you pay me for."
+You wonder who "you" and "me" are, and what it is that was bought and sold.
+~
+S
+#18489
+An Abandoned Reception~
+
+Unlike most of the shops in this town, you know exactly what this room once
+was.  It was a reception to some kind of hotel and some kind of tavern.
+There is a bar along the far wall with some inverted stools atop it and a
+stair case going up in the far back.  Along the side is a reception desk,
+complete with a bell.  On the other side are some chairs and couches for the
+patrons.  It has fallen into some disrepair and a thick dust covers
+everything, but the place looks like it is in good shape.  In adition to the
+stairs leading up, a door leads back to the dusty street south of you.
+~
+184 8 0 0 0 0
+D2
+A Dusty Street~
+~
+0 -1 18494
+D4
+Top Of The Stairs~
+~
+0 -1 18482
+S
+#18490
+An Abandoned Store~
+
+This is a nearly empty store of some kind.  There are strange racks covering
+the walls on three sides.  There is a small table or counter pushed up
+against the back wall.  The only exit is south back to the dusty road.
+~
+184 8 0 0 0 0
+D2
+A Dusty Road~
+~
+0 -1 18495
+S
+#18491
+A Dusty Road~
+
+This is the edge of the dusty town.  From here you can head into town by
+going east, or you can head west along the dusty road.  There is something
+strange about that road to the west.  You can't quite place it.  Ah well,
+it is probablly nothing that importaint.
+~
+184 0 0 0 0 1
+D1
+A Dusty Road~
+~
+0 -1 18492
+D3
+A Dusty Road~
+~
+0 -1 18491
+S
+#18492
+A Dusty Road~
+
+You are basically at the western end of a dusty road.  To your north appears
+to be some kind of abandoned store, the same to your south.  The road leads
+both east and west from here.
+~
+184 0 0 0 0 1
+D0
+An Abandoned Store~
+~
+0 -1 18487
+D1
+A Dusty Street~
+~
+0 -1 18493
+D2
+An Abandoned Store~
+~
+0 -1 18497
+D3
+A Dusty Street~
+~
+0 -1 18491
+S
+#18493
+A Dusty Road~
+
+You are just about in the middle of this old town.  To your north is some
+kind of abandoned store and to the south is some kind of enterance way.  The
+dusty road continues east and west.
+~
+184 0 0 0 0 1
+D0
+An Abandoned Store~
+~
+0 -1 18488
+D1
+A Dusty Road~
+~
+0 -1 18494
+D2
+An Enterance Way~
+~
+0 -1 18498
+D3
+A Dusty Road~
+~
+0 -1 18492
+S
+#18494
+A Dusty Road~
+
+This is just about the middle of this oly run-down place.  You can guess that
+it was a pretty bust place back in its day, and from the look of it, its day
+was a long, long time ago.  You can go north into some kind of enterance way
+or south into a long abandoned store.  The dusty road continues east and
+west.
+~
+184 0 0 0 0 1
+D0
+An Enterance Way~
+~
+0 -1 18489
+D1
+A Dusty Road~
+~
+0 -1 18495
+D2
+An Abandoned Store~
+~
+0 -1 18499
+D3
+A Dusty Road~
+~
+0 -1 18493
+S
+#18495
+A Dusty Road~
+
+You are in the eastern half of town, though not yet out of it yet.  Both to
+your north and south apear to be some kind of abandoned stores.  The dusty
+road leads west back into the heard of this dead place or east out of town.
+~
+184 0 0 0 0 1
+D0
+An Abandoned Store~
+~
+0 -1 18490
+D1
+A Dusty Road~
+~
+0 -1 18496
+D2
+An Abandoned Store~
+~
+0 -1 18500
+D3
+A Dusty Road~
+~
+0 -1 18494
+S
+#18496
+A Dusty Road~
+
+You are standing at the edge of a dusty town on a dusty road.  You could swear
+that you have been here before.  There is somekind of town to your west, but
+there does not seem to be any activity.  You can go west into town or east out
+on the dusty road.  The road to the east looks wierd somehow, you can't quite
+place it... but something isn't right.  But it is probably nothing to be
+worried about.
+~
+184 0 0 0 0 1
+D1
+A Dusty Road~
+~
+0 -1 18496
+D3
+A Dusty Road~
+~
+0 -1 18495
+S
+#18497
+An Abandoned Store~
+
+Dust and more dust... that is about all that is in the former shop.  There is
+no way to determine what was sold or bought here.  The doorway leands north
+back to the main road.
+~
+184 8 0 0 0 0
+D0
+A Dusty Road~
+~
+0 -1 18492
+S
+#18498
+A Lobby~
+
+This is or more specifically was a very luxurious looking loby.  There is
+and expensive looking counter off to one side and a wide set of stairs
+leading up.  The dust road is through a doorway to your north.
+~
+184 8 0 0 0 0
+D0
+A Dusty Road~
+~
+0 -1 18493
+D4
+Top of the Stairs~
+~
+0 -1 18502
+S
+#18499
+An Abandoned Store~
+
+There is nothing here... how strange.  A thick dust covers the floor.  There
+is a small sign on one wall, though it is covered in grey dust.  To the north
+is a doorway to the dusty road.
+~
+184 8 0 0 0 0
+D0
+A Dusty Road~
+~
+0 -1 18494
+E
+sign~
+It reads:
+	Everything bought and sold.  Just make an offer
+~
+S
+#18500
+An Abandoned Store~
+
+This was once a fairly large shop.  There is a counter that almost surrounds
+the center with only a small break for the door and one ta gain access to
+behind the counter.  Dust covers the long since unused counter.  The door
+to the north is the only exit.
+~
+184 8 0 0 0 0
+D0
+A Dusty Road~
+~
+0 -1 18495
+S
+#18501
+An Office~
+
+Some place of business used to be here.  There are a few old style desks and
+stools neatly placed around.  There is nothing else but the dust however.
+It is kind of a strange place.  You can return to the top of the stairway by
+heading east from here.
+~
+184 8 0 0 0 0
+D1
+Top of the Stairs~
+~
+0 -1 18502
+S
+#18502
+Top of the Stairs~
+
+You are at the top of the stairs here.  There are some sort of offices to your
+east, west and south.  The lobby is just down the stairs. 
+~
+184 8 0 0 0 0
+D1
+An Office~
+~
+0 -1 18503
+D2
+An Office~
+~
+0 -1 18504
+D3
+An Office~
+~
+0 -1 18501
+D5
+A Lobby~
+~
+0 -1 18498
+S
+#18503
+An Office~
+
+This was some sort of working room.  There is a long counter along one side.
+And a smallish table with two chairs off in the corner.  You can return
+to the stairs by heading west from here.
+~
+184 8 0 0 0 0
+D3
+Top of the Stairs~
+~
+0 -1 18502
+S
+#18504
+An Office~
+
+This was probably a really nice place in its day.  Now it is just a tattered,
+old, dusty place.  The carpeting is all britty and shotty.  There is a big,
+old, dark wooden desk facing the door with a nice leather chair behind it.
+Thers is a painting on one wall and that is about all.  Whoever used to work
+here moved out and didn't leave a whole lot.  You can go back to the top
+of the stairs by heading north.
+~
+184 8 0 0 0 0
+D0
+Top of the Stairs~
+~
+0 -1 18502
+S
+#18505
+A Machine Room~
+
+What a strange room, you are surrounded by black pipes, and wires, and all
+sorts of other contraptions.  There is a hatch with a handle that is partially
+open.  The only exit is back through the hatch to the east.
+~
+184 8 0 0 0 0
+D1
+A Passenger Cabin~
+~
+0 -1 18506
+E
+hatch~
+How strange.  It looks like a little doorway, but there is no man that could
+fit through it.  As you peer into the small gap you notice the glowing 
+flame and begin to notice how hot it really is here.
+~
+S
+#18506
+A Passenger Cabin~
+
+You are standing in some sort of an isle, kind of like you would be in a
+church.  There are some major differences though, the seats are plush, and
+individual, nothing like a bench or pew.  Some of the seats are facing each
+othere with a small table seperating thim, like you be in a tavern or nice
+resteraunt.  What a nice, clean, safe place it seems to be.
+~
+184 8 0 0 0 0
+D1
+A Passenger Cabin~
+~
+0 -1 18507
+D2
+A Boarding Platform~
+~
+0 -1 18514
+D3
+A Machine Room~
+~
+0 -1 18505
+S
+#18507
+A Passenger Cabin~
+
+This room is very similar to the one you just exited.  Except there is
+no exit to the outside, only east and west.  The same style seats are in
+this room, as are some small tables.  Coctail tables perhapse?  It is all
+very clean and seems very safe.
+.
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18508
+D3
+~
+~
+0 -1 18506
+S
+#18508
+A Passenger Cabin~
+
+You are standing in some kind of isle.  There are plush seats lining
+this inside of this long, fairly narrow room.  Between some of the seats
+are some small tables.  I suppose one could put drinks or snacks on them.
+The room seems to be set up for comfort.  It is clean, and apears safe.
+There is an exit to the outside to your south, and there are two more
+of these plush rooms just east and west of here.
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18509
+D2
+~
+~
+0 -1 18516
+D3
+~
+~
+0 -1 18507
+S
+#18509
+A Passenger Cabin~
+
+This is another one of those long, plush rooms.  It boggles you why anyone
+would need this much room, or this much comfort.  There are exits to the
+east and west.  There is no way to get outside from here, maybe if you
+go into another room you can.
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18510
+D3
+~
+~
+0 -1 18508
+S
+#18510
+A Passenger Cabin~
+
+You are in a long narrow room.  As you peer around you you note that this
+room is a little different than those to your east or west.  This room
+is half filled with plush chairs and little tables, but also has some kind
+of dining area and a bar at one end.  Whoever used this place had plenty
+of wealth.  You can go outside to the south or stay inside by going east
+or west.
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18511
+D2
+~
+~
+0 -1 18518
+D3
+~
+~
+0 -1 18509
+S
+#18511
+A Passenger Cabin~
+
+This is much like the rooms around it.  There are those same plush seats
+and little tables.  Gosh, someone had to have been loaded to afford a place
+like this.  Maybe they left some valuables for the taking?  You can leave
+either to the east or the west.
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18512
+D3
+~
+~
+0 -1 18510
+S
+#18512
+A Passenger Cabin~
+
+This seems to be the end of a long set of rooms.  It is quite long but only
+has an exit to the outside tou your self and a open doorway to the west.
+There are a lot of plush seats in a aisle here.  Most are facing in one
+direction, but some are facing each other with small tables between them.
+Quite a nice place, and it seems fairly safe too.
+~
+184 8 0 0 0 0
+D2
+~
+~
+0 -1 18520
+D3
+~
+~
+0 -1 18511
+S
+#18513
+A Boarding Platform~
+
+You are at the end of some kind of wooden platform.  There is a huge metal
+tube like object to your north.  It could easily hold a lot of people, but
+there is no enterance here.  There are a few boxes and crates around, but
+they appear empty.  The only exit is to the east.
+~
+184 0 0 0 0 1
+D1
+~
+~
+0 -1 18514
+E
+metal tube~
+It is quite long, several hundred feet it seems.  It seems like it could
+be quite shiney but it is covered in dust.  There are some grimmy windows
+but you can not see thru them.
+~
+S
+#18514
+A Boarding Platform~
+
+You are on some kind of wooden platform.  There is a huge metal box like
+tube that streches out east and west to your north.  There is a doorway to
+the north that will allow you to enter it.  You can also stay on the
+platform by going east or west.
+~
+184 0 0 0 0 1
+D0
+~
+~
+0 -1 18506
+D1
+~
+~
+0 -1 18515
+D3
+~
+~
+0 -1 18513
+E
+metal tube~
+It is quite long, several hundred feet it seems.  It seems like it could
+be quite shiney but it is covered in dust.  There are some grimmy windows
+but you can not see thru them.
+~
+S
+#18515
+A Boarding Platform~
+
+You are on a wooden platform facing a huge metal tube that streches out
+east and west of you.  However, there is no enterance here, perhapse there
+is one to your east or west.  The platform continues east and west, or you
+can go south toward the road.
+~
+184 0 0 0 0 1
+D1
+~
+~
+0 -1 18516
+D2
+~
+~
+0 -1 18521
+D3
+~
+~
+0 -1 18514
+E
+metal tube~
+It is quite long, several hundred feet it seems.  It seems like it could
+be quite shiney but it is covered in dust.  There are some grimmy windows
+but you can not see thru them.
+~
+S
+#18516
+A Boarding Platform~
+
+You are on a wooden platform alongside a huge metal tube to the north.
+There is an open hatchway to you north where you can enter the metal
+object. You can also walk along it by staying on the platform and either
+going east or west.  There is a building to your south, but you can not
+enter it here.
+~
+184 0 0 0 0 1
+D0
+~
+~
+0 -1 18508
+D1
+~
+~
+0 -1 18517
+D3
+~
+~
+0 -1 18515
+E
+metal tube~
+It is quite long, several hundred feet it seems.  It seems like it could
+be quite shiney but it is covered in dust.  There are some grimmy windows
+but you can not see thru them.
+~
+S
+#18517
+A Boarding Platform~
+
+You are along side a large metal tube to your north.  There is not a way
+in from here, perhaps there is one further along to the east or west.  There
+is a doorway to your south, however.  It leads into a smallish building,
+maybe it is an office.
+~
+184 0 0 0 0 1
+D1
+~
+~
+0 -1 18518
+D2
+~
+~
+0 -1 18523
+D3
+~
+~
+0 -1 18516
+S
+#18518
+A Boarding Platform~
+
+You are on a study wooden platform of somekind.  There is a large metal tube
+thing that streaches out east and wst just to you north.  There is some
+kind of doorway to the north as well.  To your south is a wooden building
+but there is no doorway here, perhaps there is one east or west of here.
+~
+184 0 0 0 0 1
+D0
+~
+~
+0 -1 18510
+D1
+~
+~
+0 -1 18519
+D3
+~
+~
+0 -1 18517
+S
+#18519
+A Boarding Platform~
+
+You are nearing the end of a wooden platform.  To you north is a stange
+metal tube thing.  There is no way in from here, perhaps to the east or
+west. You can also go south, along side the buiding in the middle of the
+platform.
+~
+184 0 0 0 0 1
+D1
+~
+~
+0 -1 18520
+D2
+~
+~
+0 -1 18525
+D3
+~
+~
+0 -1 18518
+S
+#18520
+A Boarding Platform~
+
+You are at the end of the wooden platform.  To your north is a large metal
+tube, there is an opening alowing you to enter in that direction.  The
+platform also leads off to the west, so you can follow it that way.
+~
+184 0 0 0 0 1
+D0
+~
+~
+0 -1 18512
+D3
+~
+~
+0 -1 18519
+S
+#18521
+A Platform~
+
+You are on a large wooden platform of some kind.  There is a building off
+to the east but there is no door to enter it from here.  To your north the
+sun gleams off a large metal object.  Off to the south is a dirt road.
+~
+184 0 0 0 0 1
+D0
+~
+~
+0 -1 18515
+D2
+~
+~
+0 -1 18526
+S
+#18522
+A Small Office~
+
+This is some sort of private managers office.  There is a decent sized wood
+desk facing the door and a comfy looking chair behind it.  The only exit is
+to the east.
+~
+184 8 0 0 0 0
+D1
+~
+door wood~
+1 -1 18523
+E
+desk chair~
+It is a nice dark wooded desk/chair set.  Who ever uses this office likes
+his comfort.
+~
+S
+#18523
+An Office~
+
+You seem to be in the main room of some kind of office.  There is a smallish
+counter off to one side and a few benches around.  Although it is abandoned,
+or at least seems that way, it looks clean and well kept.  There are doors
+to some kind of other rooms east and west of here.  You can go onto the
+platform by heading either north or south.
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18517
+D1
+~
+door wood~
+1 -1 18524
+D2
+~
+~
+0 -1 18528
+D3
+~
+door wood~
+1 -1 18522
+S
+#18524
+A Small Storage Room~
+
+This is some kind of supply room.  There are a few buckets, mops, and other
+cleaning supplies, along with a bunch of simple tools.  Whoever keeps this
+place up must use these items.
+~
+184 8 0 0 0 0
+D3
+~
+door wood~
+1 -1 18523
+S
+#18525
+A Platform~
+
+You are on a large wooden platform of some kind.  Off to your west is a
+wooden building but there is no door here.  As you look north, your
+vision is filled and captivated by a large metal tube like object.  Not
+to far to your south is a plane dirt road.
+~
+184 0 0 0 0 1
+D0
+~
+~
+0 -1 18519
+D2
+~
+~
+0 -1 18530
+S
+#18526
+A Platform~
+
+You are an a wooden platform of some kind.  Of to your south is a wide
+dirt path, almost a road.  Farther off to the north is a large metal tube.
+There is a smallish wooden building off to the north-west of here.
+~
+184 0 0 0 0 1
+D0
+~
+~
+0 -1 18521
+D1
+~
+~
+0 -1 18527
+D2
+~
+~
+0 -1 18532
+S
+#18527
+A Platform~
+
+You are between a small wood building to your north and a wide dirt path
+to your south.  You see a door to the building just to the east.  Although
+clean, there is nothing around here.  Seems fairly strange.
+~
+184 0 0 0 0 1
+D1
+~
+~
+0 -1 18528
+D2
+~
+~
+0 -1 18533
+D3
+~
+~
+0 -1 18526
+S
+#18528
+A Platform~
+
+You are at the doorway to a small building.  The wooden door is just to
+your north.  You can go that way, or along the wall either to the east
+or the west.  To the south is a wide dirt path, almost a road.  Gee this
+place is quiet.
+~
+184 0 0 0 0 1
+D0
+~
+~
+0 -1 18523
+D1
+~
+~
+0 -1 18529
+D2
+~
+~
+0 -1 18534
+D3
+~
+~
+0 -1 18527
+S
+#18529
+A Platform~
+
+You are between a small wooden building and a normal dirt road.  The door
+to that building is north-west of here.  This place is very quite, but it
+does not look unused.  Quite strange.
+~
+184 0 0 0 0 1
+D1
+~
+~
+0 -1 18530
+D2
+~
+~
+0 -1 18535
+D3
+~
+~
+0 -1 18528
+S
+#18530
+A Platform~
+
+You are an a wooden platform of some kind.  Of to your south is a wide
+dirt path, no, actually it is more like a road.  To the north you see a
+large metal tube.  It gleams in the light.  Off to the north-west is some
+kind of wooden building.
+~
+184 0 0 0 0 1
+D0
+~
+~
+0 -1 18525
+D2
+~
+~
+0 -1 18536
+D3
+~
+~
+0 -1 18529
+S
+#18531
+A Large Path~
+
+You are just outside the direct view of the wooden platform, at least you
+think you are... there is something very strange going on here, you just
+can not think of what it is.
+~
+184 0 0 0 0 2
+D1
+~
+~
+0 -1 18532
+D3
+~
+~
+0 0 18531
+S
+#18532
+A Large Path~
+
+You are some kind of dirt road.  You can stay on the road by heading east
+or west.  Opening to your north is a open wooden platform.  Farther off to
+the north is some kind of large metal object.  A little less far away, but
+more to the east is a wooden building.
+~
+184 0 0 0 0 2
+D0
+~
+~
+0 -1 18526
+D1
+~
+~
+0 -1 18533
+D3
+~
+~
+0 -1 18531
+S
+#18533
+A Large Path~
+
+This dirt road leads east and west from here.  To you north is a large
+wooden platform.  There is a building and the light is glinting off of
+something in that direction.
+~
+184 0 0 0 0 2
+D0
+~
+~
+0 -1 18527
+D1
+A Large Path~
+~
+0 -1 18534
+D3
+~
+~
+0 -1 18532
+S
+#18534
+A Large Path~
+
+You are on a small dirt road, wait... you know you have been here before.
+Ah yes, you remember now, this is where that strange doorway led you.  There
+is still no trace of it.  The road leads east and west, and soem kind of
+platform is to your north.
+~
+184 0 0 0 0 2
+D0
+~
+~
+0 -1 18528
+D1
+~
+~
+0 -1 18535
+D3
+~
+~
+0 -1 18533
+S
+#18535
+A Large Path~
+
+You are on a wide dirt road.  It continues east and west from here, leading
+in front of some kind of large wooden platform, which can be reached by
+heading north from here.  There is not much here, in fact it is very quiet.
+~
+184 0 0 0 0 2
+D0
+~
+~
+0 -1 18529
+D1
+~
+~
+0 -1 18536
+D3
+~
+~
+0 -1 18534
+S
+#18536
+A Large Path~
+
+You are on a small dirt road.  The road continues east and west from here.
+To your north is a fairly large wooden platform.  A little to the north and
+west is a wooden building.  And fairly far to the north is some kind of
+metal tube like object.
+~
+184 0 0 0 0 2
+D0
+~
+~
+0 -1 18530
+D1
+~
+~
+0 -1 18537
+D3
+~
+~
+0 -1 18535
+S
+#18537
+A Large Path~
+
+You are just outside the direct view of the wooden platform, at least you
+think you are... there is something very strange going on here, you just
+can not think of what it is.
+~
+184 0 0 0 0 2
+D1
+~
+~
+0 0 18537
+D3
+~
+~
+0 -1 18536
+S
+#18538
+The North-Western Edge of a Circle~
+In this corner you are free of the inset circle.  This particular part of the
+room has no dust in it, although it does not exactly looked "used".  You can
+head either east or south, both come closer to the circle.
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18539
+D2
+~
+~
+0 -1 18541
+S
+#18539
+Northen Edge of a Circle~
+This is the northern edge of a rather large inset circle.  The purpose of
+which is quite unclear.  Your best guess is that it is part of some magik
+ritual. You can go south to the middle of the circle where some stairs leading
+down are, or you can go east or west into corners of the room.
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18540
+D2
+~
+~
+0 -1 18542
+D3
+~
+~
+0 -1 18538
+S
+#18540
+North-East Corner~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D2
+~
+~
+0 -1 18543
+D3
+~
+~
+0 -1 18539
+S
+#18541
+Western Edge of a Circle~
+You are at the western edge of a large inset circle.  There is some force within
+this circle.  You can feel it pulling at your soul.  Maybe it isn't such a good
+idea to be up here.  You can go east into the middle of the circle, which does
+not seem right, but that is where the stairs leadig down are.  Or you can go
+north or south into corners of the room.
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18538
+D1
+~
+~
+0 -1 18542
+D2
+~
+~
+0 -1 18544
+S
+#18542
+Middle of a Circle~
+
+You are in the middle of a large stone ring layed into the floor around you.
+There doesn't seem to be a reason for it... unless... nahh... it couldn't be
+for magiks could it?  Well you might want to move just to be safe, you can
+head north, east, south, or west and stay in the large room.  Or you can go
+down through the staircase in the middle.
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18539
+D1
+~
+~
+0 -1 18543
+D2
+~
+~
+0 -1 18545
+D3
+~
+~
+0 -1 18541
+D5
+~
+~
+0 -1 18554
+S
+#18543
+East Side~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18540
+D2
+~
+~
+0 -1 18546
+D3
+~
+~
+0 -1 18542
+S
+#18544
+South-West Corner~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18541
+D1
+~
+~
+0 -1 18545
+S
+#18545
+South Side~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18542
+D1
+~
+~
+0 -1 18546
+D3
+~
+~
+0 -1 18544
+S
+#18546
+South-East Corner~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18543
+D3
+~
+~
+0 -1 18545
+S
+#18547
+North-West Corner~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18548
+D2
+~
+~
+0 -1 18552
+S
+#18548
+North Side~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18549
+D2
+~
+~
+0 -1 18553
+D3
+~
+~
+0 -1 18547
+S
+#18549
+North Side~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18550
+D2
+~
+~
+0 -1 18554
+D3
+~
+~
+0 -1 18548
+S
+#18550
+North Side~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D1
+~
+~
+0 -1 18551
+D2
+~
+~
+0 -1 18555
+D3
+~
+~
+0 -1 18549
+S
+#18551
+North-East Corner~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D2
+~
+~
+0 -1 18556
+D3
+~
+~
+0 -1 18550
+S
+#18552
+West Side~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18547
+D1
+~
+~
+0 -1 18553
+D2
+~
+~
+0 -1 18557
+S
+#18553
+Middle of the Room~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18548
+D1
+~
+~
+0 -1 18554
+D2
+~
+~
+0 -1 18558
+D3
+~
+~
+0 -1 18552
+S
+#18554
+Center of the Room~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18549
+D1
+~
+~
+0 -1 18555
+D2
+~
+~
+0 -1 18559
+D3
+~
+~
+0 -1 18553
+D4
+~
+~
+0 -1 18542
+D5
+~
+~
+0 -1 18570
+S
+#18555
+Middle of the Room~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18550
+D1
+~
+~
+0 -1 18556
+D2
+~
+~
+0 -1 18560
+D3
+~
+~
+0 -1 18554
+S
+#18556
+East Side~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18551
+D2
+~
+~
+0 -1 18561
+D3
+~
+~
+0 -1 18555
+S
+#18557
+South-West Corner~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18552
+D1
+~
+~
+0 -1 18558
+S
+#18558
+South Side~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18553
+D1
+~
+~
+0 -1 18559
+D3
+~
+~
+0 -1 18557
+S
+#18559
+South Side~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18554
+D1
+~
+~
+0 -1 18560
+D3
+~
+~
+0 -1 18558
+S
+#18560
+South Side~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18555
+D1
+~
+~
+0 -1 18561
+D3
+~
+~
+0 -1 18559
+S
+#18561
+South-East Corner~
+This description is yet unfinished...
+~
+184 8 0 0 0 0
+D0
+~
+~
+0 -1 18556
+D3
+~
+~
+0 -1 18560
+S
+#18562
+North-West Corner~
+
+You are at a corner of the huge tower.  There is no visible source of light
+buy you seem to be doing okey with it.  Since you are right along side the
+wall, you can get a good look at its construction.  It is made up of very
+regular peices of a uniform grey stone.  This would be an incredible 
+construction project... if it were man made, but that is unlikely.  You
+can go east and south from here, along the wall.
+~
+184 9 0 0 0 0
+D1
+~
+~
+0 -1 18563
+D2
+~
+~
+0 -1 18568
+S
+#18563
+North Side~
+
+You are along the north wall of this huge open room.  It is quite an eiree
+place.  One might think being this open and made of stone, there would
+be a huge echo, thing is though... you can barely hear your own footsteps.
+You can go south, east, and west from here.  The stairway up is to the
+south-east.
+~
+184 9 0 0 0 0
+D1
+~
+~
+0 -1 18564
+D2
+~
+~
+0 -1 18569
+D3
+~
+~
+0 -1 18562
+S
+#18564
+North Side~
+
+You are along the northern wall of this huge stone room.  There is not much
+here, it looks pretty empty.  But, it is quite dark and the light is making
+the shadows dance, so who knows for sure?  You can go east back toward the
+door, west toward the north-west corner, or south, where a huge stairway
+leading up is.
+~
+184 9 0 0 0 0
+D1
+~
+~
+0 -1 18565
+D2
+~
+~
+0 -1 18570
+D3
+~
+~
+0 -1 18563
+S
+#18565
+North Side~
+You are up along side the north wall of this huge room.  It is a strangly
+quiet place.  Too quiet perhapse? The north-east corner is to your east,
+there is a large stairway leading up to the south-west, and far to the
+west is a large wooden door.  You can go east, south, or west from here.
+~
+184 9 0 0 0 0
+D1
+~
+~
+0 -1 18566
+D2
+~
+~
+0 -1 18571
+D3
+~
+~
+0 -1 18564
+S
+#18566
+North=East Corner~
+
+You are in the far north-east corner of this huge stone room.  Although
+it is quite dark in here, you can make out the enormous size of the place
+just by catching glimpses.  There is a stairway in the middle of the room,
+to the south-west, and you can head south or west along the walls.
+~
+184 9 0 0 0 0
+D2
+~
+~
+0 -1 18572
+D3
+~
+~
+0 -1 18565
+S
+#18567
+A Courtyard~
+
+You are in a small courtyard, you know you have been here before...  There
+was a portal here, wasn't there?  Either way, there isn't now and the only
+exit is to the east.  This courtyard looked to be quite a place in its day,
+but it is all dreary now.  There is a large wooden doorway leading to a
+huge tower.
+~
+184 8 0 0 0 0
+D1
+A large wooden doorway leading to a huge tower.
+~
+door wood wooden~
+1 -1 18568
+S
+#18568
+The Entrance Way~
+This is the main entrance to the old, large tower.  It isn't exactly like
+any entrance you have ever seen before, however.  Really if it wasn't for
+the large wooden door to the west, it would be just like any other part of
+the room.  The room itself is absolutly huge.  It is built of some sort of
+grey stone with support columns every few meters.  There is a stairway
+leading up to the east.  You can go east, north, or south and stay in the
+room or you can go west throught the doorway.
+~
+184 9 0 0 0 0
+D0
+~
+~
+0 -1 18562
+D1
+~
+~
+0 -1 18569
+D2
+~
+~
+0 -1 18573
+D3
+~
+door wood wooden~
+1 -1 18567
+S
+#18569
+Middle of the Room~
+
+This is the middle of a huge room, which is just on this level.  To your
+east are some stairs that lead up.  To the west is a huge wooden door.  You
+can also go north and south from here.
+~
+184 9 0 0 0 0
+D0
+~
+~
+0 -1 18563
+D1
+~
+~
+0 -1 18570
+D2
+~
+~
+0 -1 18574
+D3
+~
+~
+0 -1 18568
+S
+#18570
+Center of the Room~
+
+You are in the exact middle of this huge room.  There is a wide stairway
+leading up from here, it seems to another large room.  You can also go in
+any of the four cardinal directions.  There is a huge wooden door a ways to
+the west.
+~
+184 9 0 0 0 0
+D0
+~
+~
+0 -1 18564
+D1
+~
+~
+0 -1 18571
+D2
+~
+~
+0 -1 18575
+D3
+~
+~
+0 -1 18569
+D4
+~
+~
+0 0 18554
+S
+#18571
+Middle of the Room~
+
+You are in the western half of this huge stone room.  The ceiling towers
+above you.  Just to your east is a huge stairway leading up.  You can
+go east, north, west, or south from here.
+~
+184 9 0 0 0 0
+D0
+~
+~
+0 -1 18565
+D1
+~
+~
+0 -1 18572
+D2
+~
+~
+0 -1 18576
+D3
+~
+~
+0 -1 18570
+S
+#18572
+East Side~
+
+You are up against the far wall of this huge room.  The stone wall towers
+above you and reaches toward a dark ceiling.  There is a stairway leading
+up to your west.  Much further west you can make out a large doorway.
+You can head north, south, or west from here.
+~
+184 9 0 0 0 0
+D0
+~
+~
+0 -1 18566
+D2
+~
+~
+0 -1 18577
+D3
+~
+~
+0 -1 18571
+S
+#18573
+South-West Corner~
+
+You are in the south-west corner of the huge room.  The walls are perfectly
+constructed, it is quite amazing.  There are some stairs off to the north-
+east. And a large wooden doorway is north of here.  You can go north
+or east.
+~
+184 9 0 0 0 0
+D0
+~
+~
+0 -1 18568
+D1
+~
+~
+0 -1 18574
+S
+#18574
+South Side~
+
+You are along the south wall of the huge open room.  My gosh this place is
+large. Quiet too.  Too quiet?  You can go north, east, or west from here.
+There is a stairway to the north-east.
+~
+184 9 0 0 0 0
+D0
+~
+~
+0 -1 18569
+D1
+~
+~
+0 -1 18575
+D3
+~
+~
+0 -1 18573
+S
+#18575
+South Side~
+
+You are along the southern wall of this huge stone room.  The almost perfectly
+uniform grey wall streaches far above you.  There is a stairway leading up
+to your north.  You can also do east and west along the wall from here.
+~
+184 9 0 0 0 0
+D0
+~
+~
+0 -1 18570
+D1
+~
+~
+0 -1 18576
+D3
+~
+~
+0 -1 18574
+S
+#18576
+South Side~
+
+You are along the the south wall of a huge open room.  It is very quiet even
+though the whole place is made of hard stone, even you feet arn't clapping
+loudly as you think they might.  To the north-west is a stairway leading up.
+You can go north, east, or west from here.
+~
+184 9 0 0 0 0
+D0
+~
+~
+0 -1 18571
+D1
+~
+~
+0 -1 18577
+D3
+~
+~
+0 -1 18575
+S
+#18577
+South-East Corner~
+
+This is the far south-east corner of the huge stone room.  Two walls of 
+stone lead up into the darness.  There is a stairway leading up north-west
+of here.  You can go north or west along the walls.
+~
+184 9 0 0 0 0
+D0
+~
+~
+0 -1 18572
+D3
+~
+~
+0 -1 18576
+S
+#18578
+A Field~
+
+You are at the end of a large battlefield.  The portal from which you came is
+not here.  Like it or not you have to find another way out.  It looks as
+though some kind of battle has been going on for centuries.  The grass here
+is basically non-existent and the bones of people killed long ago are only
+partially buried.  There is some clanging in the air.
+~
+184 0 0 0 0 2
+D0
+Corner Of A Field~
+~
+0 -1 18412
+D1
+Middle Of A Field~
+~
+0 -1 18420
+D2
+Corner Of A Field~
+~
+0 -1 18426
+S
+#18579
+A Grassy Field~
+
+This is a corner of a large grassy field.  It does not quite look like a
+field though, it has a more springy, luscious look to it.  You can go
+north or east from here.  There is a small sign staked into the ground here.
+~
+184 0 0 0 0 2
+D0
+A Grassy Moor~
+~
+0 -1 18449
+D1
+A Grassy Moor~
+~
+0 -1 18455
+E
+sign~
+It reads:
+    "Beware of the Moor!
+      It may look safe,
+     But it is far from."
+~
+S
+#18580
+A Tunnel~
+
+After you step out of the door way it seems to disappear.  You are left
+peering down dark tunnel.  Since the door is gone you have no choice but to
+leave to the east, the only exit.
+~
+184 0 0 0 0 3
+D1
+A Tunnel~
+~
+0 -1 18460
+S
+#18581
+A Dusty Road~
+
+The door from where you came has disappeared.  You are standing at the edge
+of a old, dusty town on an equally dusty road.  You can go west into town
+or east away from town, but the road to the east looks strange, wierd, oh,
+it is probablly nothing to worry about.
+~
+184 0 0 0 0 1
+D1
+A Dusty Road~
+~
+0 -1 18496
+D3
+A Dusty Road~
+~
+0 -1 18495
+S
+#18582
+A Large Path~
+
+You are on a wide dirt path, more of a road actually.  The portal from where
+you came is no longer there.  Looks like you need to find another way out.
+As you thought the road leads east and west from here.  And there is a large
+wooden platform to your north.  You can see some sort of building in that
+direction. You don't see a soul around.
+~
+184 0 0 0 0 2
+D0
+~
+~
+0 -1 18528
+D1
+~
+~
+0 -1 18535
+D3
+~
+~
+0 -1 18533
+S
+#18583
+A Courtyard~
+
+You have enterered a small courtyard, the portal from which you came is gone.
+There is only one way out now, and that must be to the east.  There are some
+old flower beds here, but everything is dead and withering, not much to look
+at that is for sure.
+~
+184 8 0 0 0 0
+D1
+~
+door~
+1 -1 18568
+S
+$~

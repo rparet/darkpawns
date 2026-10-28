@@ -1,0 +1,607 @@
+#8800
+viper snake carve_meat~
+a viper~
+A viper coils here, ready to strike at the slightest provocation.
+~
+This long, mottled serpent is, perhaps, twenty feet in length. Its grey-green
+hide is thick and smooth, and its head arrow-shaped and blunt. The snake peers
+at you through malicious yellow eyes, and slithers slowly in your direction.
+~
+degnqu k 0 E
+7 9 7d8+55 3d3
+10 926
+8 8 1
+BareHandAttack: 4
+Race: 29
+Script: snake.lua 256
+E
+#8801
+rabbit bunny carve_rabbit skin_pelt~
+the rabbit~
+A cute little rabbit nibbles on some berries.
+~
+Tiny black eyes peek out at you from this ball of fluffy, brown fur cowering
+beneath a shrub. The rabbit's long, slender ears lay back against her head, as
+she nibbles on wild berries. Her nose twitches every so often; alert for the
+scent of predators.
+~
+dgu k 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 2
+BareHandAttack: 4
+Race: 26
+E
+#8802
+weasel carve_meat~
+a weasel~
+A weasel glides swiftly through the bushes.
+~
+A flash of dark brown fur as she moves through the undergrowth, the weasel
+glides quickly along the ground. Her long, sleek body is perfectly fashioned
+for following snakes and rodents into their dens.
+~
+cdgnqu ks 0 E
+3 3 3d8+15 2d3
+5 259
+8 8 2
+BareHandAttack: 4
+Race: 30
+E
+#8803
+wyvern~
+a wyvern~
+A wyvern soars overhead, terrorizing the countryside.
+~
+At first sight, you believe that you've happened upon an immature dragon.
+Though smaller, and lacking the ability to cast spells as a true dragon, this
+wyrm has the distinct advantage of a scorpions stinger on its tail. The wyvern
+hisses sharply - the sound of a newly-forged blade plunged into cool water.
+~
+degnpqu dfhkA -700 E
+19 29 19d8+248 3d4
+30 4140
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#8804
+xorn~
+a xorn~
+A xorn burrows through solid rock.
+~
+A xorn burrows swiftly through an outcropping of solid rock, making incredibly
+easy work of the task. The gaping three-cornered maw atop its conical head
+churns steadily forward, while three stone-lidded eyes, symmetrically
+positioned about its narrow head, occasionally blink away the falling rubble.
+Directly below each eye, an elephantine foot works steadily to propel its body
+further into the massif.
+~
+deglnpqrsu dfkp 650 E
+16 24 16d8+192 3d4
+20 3200
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#8805
+deer carve_meet skin_hide~
+the deer~
+As you approach, you startle a small deer.
+~
+As this majestic animal brouses, her ears constantly rotate, alert for the
+slightest sound of danger. Her head whips up, and she sniffs the breeze for a
+moment. Ears erect, her head quickly rotates to face you.
+~
+dgu k 0 E
+4 4 4d8+24 3d3
+5 400
+8 8 2
+BareHandAttack: 9
+Race: 33
+E
+#8806
+trent stump~
+a trent~
+A gnarled old oak stump rests here.
+~
+Something unusual about this old stump beckons to you, making you want to sit
+and rest; such a peaceful site. Beware, however, for this cunning creature is
+far from harmless. Small bare branches sprout from its gnarled roots, reaching
+upward toward a flat-hewn surface. The trent entices, and then ensnares its
+victim in these pliant branches, eventually crushing the life from it. 
+~
+bdelnpqru fk 650 E
+15 22 15d8+174 3d4
+15 2904
+8 8 0
+BareHandAttack: 10
+Race: 36
+E
+#8807
+rot worm rotworm~
+a rotworm~
+A disgusting rotworm writhes in a pile of moulding vegetation.
+~
+Black ropy veins pulsate beneath its thin skin, and its oversized maw is
+filled with long, needle-like teeth. Carrying the nauseating stench from the
+decomposed corpes on which it feeds, this worm is not content to wait for a
+twist of fate to deliver its next repast. It has been known to attack and kill
+live prey.
+~
+dghnqru fk -500 E
+9 12 9d8+81 3d3
+10 1350
+8 8 0
+BareHandAttack: 10
+Race: 7
+E
+#8808
+fox carve_meat skin_fur~
+the fox~
+A flash of auburn fur runs for cover in the bracken.
+~
+Beautiful auburn fur covers this animal, save the tip of his tail and his left
+forepaw. His slender, canine features are nearly hidden under his bushy fur.
+~
+dgu k 0 E
+4 4 4d8+24 3d3
+5 400
+8 8 1
+BareHandAttack: 4
+Race: 11
+E
+#8809
+pincher spider~
+a pincher~
+A pincher is here, snapping its beak at anything that moves.
+~
+This large brown spider has a small body and powerful head and jaws. Her
+underbody is striped with blue and yellow along each side. Her two forelegs are
+quite short, and each ends in a wicked, gripping claw.
+~
+dglqu fkst -300 E
+2 2 2d8+8 2d3
+5 141
+8 8 2
+BareHandAttack: 4
+Race: 8
+E
+#8810
+boar wild carve_meat skin_pelt~
+the wild boar~
+A wild boar charges you!
+~
+What this pig lacks in size he makes up for in pure energy. The two large
+tusks protruding from his lower jaw twist around in a complete spiral before
+the tips extend beyond his snout.
+~
+dfgu k 0 E
+5 6 5d8+33 3d3
+5 559
+8 8 1
+BareHandAttack: 4
+Race: 26
+E
+#8811
+wolf black dog carve_meat skin_pelt~
+a black wolf~
+A black wolf howls at the moon.
+~
+This huge wolf stands nearly four feet in height, covered in a mantle of
+glossy black. His red eyes glare at you visciously, as he bares his fangs and
+bristles his fur.
+~
+dgu k 0 E
+7 9 7d8+55 3d3
+5 926
+8 8 1
+BareHandAttack: 4
+Race: 11
+E
+#8812
+mantis insect~
+a giant mantis~
+A giant mantis stalks the forest, alert for unwary prey.
+~
+The giant mantis stands here devouring her latest victim, her powerful 
+mandibles tearing at the carcass with each unerring strike. Tall and thin,
+this carnivorous creature stands ever watchful for its next meal.
+~
+cdegnqu k 0 E
+2 2 2d8+8 2d3
+5 141
+8 8 2
+BareHandAttack: 1
+Race: 23
+E
+#8813
+ferret carve_meat~
+the ferret~
+A ferret slinks among the undergrowth in search of burrowing game.
+~
+A smaller cousin to the weasel, but just as quick, the ferret feeds,
+principally, on mice and insects. This creature presents no immediate threat,
+unless provoked.
+~
+dgqu ks 0 E
+3 3 3d8+15 2d3
+5 259
+8 8 2
+BareHandAttack: 4
+Race: 30
+E
+#8814
+death watch beetle insect~
+a death watch beetle~
+A large, ugly beetle reaches to 'taste' you with its antennae.
+~
+Its hard, chitinous shell, jet black in color, protects the soft tissues of
+this giant insect. Upon its frontal carapace, a single patch of white bone
+resembles a human skull. The beetle crawls slowly toward you on six hairy
+legs.
+~
+cdghnqu kt 0 E
+12 17 12d8+124 3d4
+15 2078
+8 8 0
+BareHandAttack: 1
+Race: 23
+E
+#8815
+satyr man goat goat-man~
+a satyr~
+A satyr is here, communing with nature.
+~
+The head, torso, and arms of a human, combined with the hind of a goat make
+the satyr a cunning and agile creature. Sharp black horns jut through the
+coarse, curly hair atop his head. Like the sylvan areas in which he dwells,
+the satyr is the very personification of nature - the embodiment of all that
+is wild and carefree.
+~
+dgnpu dfk 550 E
+11 15 11d8+109 3d4
+12 1824
+8 8 1
+Race: 16
+E
+#8816
+gremlin~
+a gremlin~
+A tiny gremlin flits among the stones.
+~
+The gremlin sneers at you evilly with its grotesque demon face ,and flicks its
+scorpion tail. Gremlins are known to be quite evil, and while less powerful
+than the greater demons, still they prove dangerous to the weak and unwary.
+~
+cdegnpu dfks -300 E
+4 4 4d8+24 3d3
+15 400
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#8817
+ettercap~
+an ettercap~
+An ettercap moves lightly through the brush, checking its snares.
+~
+The ettercap stands nearly six feet tall, even with its stooping gait and
+hunched shoulders. It has short, spindly legs, and long arms that reach nearly
+to its ankles. Its hands have a thumb and three long fingers that end in
+razor-sharp claws. Tufts of wiry, black hair cover its dark, rough skin.
+Almost equine in shape, its face is dominated by large reptilian eyes, and
+large fangs protrude downward from each side of its mouth.
+~
+cdgqu kt 0 E
+13 19 13d8+140 3d4
+15 2343
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#8818
+bloodwyrm blood wyrm~
+a bloodwyrm~
+A hideous bloodwyrm slides toward you.
+~
+This violet monstrosity burrows the damp earth in search of prey. It's five
+feet long, and has a wide maw bristling with jagged teeth. Attacking any
+source of vibration, the bloodwyrm is a danger to be feared and shunned.
+~
+dgqrsu fk -550 E
+12 17 12d8+124 3d4
+10 2078
+8 8 0
+BareHandAttack: 10
+Race: 7
+E
+#8819
+hangman tree~
+a hangman tree~
+Hanging tree branches grope toward you.
+~
+This tall, twisted darkwood tree looms ominously overhead. Its deep green
+foliage is covered in a creeping yellow rot, and its bark is peeling and
+diseased. It has been animated by some unknown force, and moves about on thick
+roots, slowly, but with great power.
+~
+cdegnpqru f -650 E
+16 24 16d8+192 3d4
+12 3200
+8 8 0
+BareHandAttack: 10
+Race: 36
+E
+#8820
+plant mantrap man trap~
+a mantrap plant~
+A strange, beautiful plant grows in the shade.
+~
+This dense, woody bush grows close to the ground. From its thick, squat trunk
+sprout many branches studded with wicked-looking thorns, while aromatic
+purple blossoms sprout from its upper branches... tempting, indeed.
+~
+bcdenpqru fH 0 E
+9 12 9d8+81 3d3
+10 1350
+8 8 0
+BareHandAttack: 10
+Race: 36
+E
+#8821
+beastman man beast~
+a beastman~
+A beastman is here, camouflaged by surrounding foliage.
+~
+The beastman before you resembles a short, slender human, except for the fine
+layer of dark green fur that covers his body, allowing him to blend well into
+the surrounding greenery. He roams the forest, weaponless, subsisting on wild
+onions and small game.
+~
+cdgnu 0 500 E
+8 10 8d8+67 3d3
+10 1131
+8 8 1
+E
+#8822
+lizard bonesnapper~
+a bonesnapper~
+A large lizard walks upright, sniffing the air.
+~
+The bonesnapper, raised up on its hind legs, walks convulsively on wide,
+clawed feet. Standing about five feet tall, its tough hide is thick and
+leathery, like the bark of an ancient tree. Ridges of bone alternate down the
+length of its neck and back, ending in two sharp spikes at the tip of a
+massive tail. Its dark green color enables it to vanish into the foliage.
+~
+dgqu dfk 0 E
+14 20 14d8+157 3d4
+30 2619
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#8823
+buckawn man brownie~
+a buckawn~
+A buckawn melts into the background.
+~
+This tiny humanoid stands only two feet tall. Garbed in simple earthtones, the
+buckawn has distinctly elven features; pointed ears and angular jawline. His
+skin is tanned and his hair is blonde and straight. The buckawn has acute
+senses, much keener than those of any human, making him extraordinarily adept
+in skills of stealth.
+~
+cdgnpu dfst 350 E
+5 6 5d8+33 3d3
+5 559
+8 8 1
+Race: 16
+E
+#8824
+ettin~
+an ettin~
+An ettin crashes through the trees, hurling boulders at its prey.
+~
+A massive creature, the two-headed ettin has the look of a troll, and very
+nearly the stature of a giant. His two heads appear to be carrying on a heated
+argument with each other, in his own guttural language.
+~
+cdegnpru 0 0 E
+17 26 17d8+210 3d4
+35 3504
+8 8 1
+Race: 19
+Script: ettin.lua 256
+E
+#8825
+insect swarm~
+an insect swarm~
+A swarm of stinging insects flies furiously about your head.
+~
+Thousands of these tiny insects buzz about your ears and eyes, making it nearly
+impossible to see or hear what is going on around you. The biting and stinging
+is intolerable.
+~
+defgnpqru kAH 0 E
+2 2 2d8+8 2d3
+0 141
+8 8 0
+BareHandAttack: 1
+Race: 23
+E
+#8826
+sprite fairie folk~
+a sprite~
+One of the fairie folk walks among the wildflowers.
+~
+Before you is a creature you might easily have mistaken for a small elf.
+Pointed ears, fair complexion, and small, translucent wings, mark this as a
+wood sprite; one of the shy and reclusive faerie people who dwell the meadows
+and forest glens.
+~
+dgnpu df 0 E
+1 1 1d8+3 2d3
+10 50
+8 8 1
+Race: 16
+E
+#8827
+pixie~
+a pixie~
+A pixie is here, being mischievous.
+~
+This small, mischievious creature is one of the more elusive faeries. It wears
+curious, brightly-colored clothing and flutters around on its dragonfly wings.
+Pixies are generally harmless, but many command powerful magicks, and dislike
+being disturbed.
+~
+dgnpu df 300 E
+1 1 1d8+3 2d3
+10 50
+8 8 0
+Race: 16
+E
+#8828
+hydra plant~
+the hydra~
+The hydra's leaves unfurl slowly, as it reaches for its next victim.
+~
+This large, spiny plant has many broad, jagged-edged leaves. Its thick stem
+supports a leafy, bulbous head filled with inwardly-curving teeth. Dozens of
+tendrils at its base move about, waving menacingly.
+~
+bdelnpqru f 0 E
+12 17 12d8+124 3d4
+10 2078
+8 8 0
+BareHandAttack: 10
+Race: 36
+E
+#8829
+golden animal aurumvorax carve_meat skin_hide~
+the aurumvorax~
+A solitary golden-furred animal digs a burrow into the rock.
+~
+Despite being only the size of a large badger, the aurumvorax, or 'golden
+gorger', is an incredibly dangerous creature. The animal is covered with 
+golden hair, and has small silver eyes with golden pupils. His eight powerful
+legs end in several three-inch copper claws. His shoulders are massively
+muscled, and his heavy jaw is full of coppery teeth.
+~
+dgu fk 0 E
+15 22 15d8+174 3d4
+12 2904
+8 8 1
+BareHandAttack: 4
+Race: 26
+Script: aurumvorax.lua 64
+E
+#8830
+bradle spider~
+a bradle~
+A bradle crawls silently through the trees.
+~
+This thing is a hideous parody of a spider. Nearly as tall as a man, the bradle
+scuttles around on twelve bony legs. Its cluster of black eyes appear to glow
+in the darkness, and protruding from the back of its black body are several
+razor-sharp spikes.
+~
+dgqu fk -400 E
+6 7 6d8+44 3d3
+10 734
+8 8 0
+BareHandAttack: 4
+Race: 8
+Script: snake.lua 256
+E
+#8831
+thorn slinger plant~
+a thornslinger~
+A spreading white plant creeps along the ground.
+~
+Hugging the ground, a spidery, white plant stretches to cover an eight-foot
+swath of earth before you. Beneath its dew-covered leaves and pale yellow
+blossoms hides a bed of nasty, barbed thorns, ready to be fired upon any
+unsuspecting creature foolish enough to wander too near.
+~
+cdegnpqru fps 0 E
+17 26 17d8+210 3d4
+15 3504
+8 8 0
+BareHandAttack: 10
+Race: 36
+Script: thornslinger.lua 256
+E
+#8832
+drake dragon dragonet~
+a drake~
+A drake flies about, spewing flames.
+~
+This small dragonet has the features and proportions of a miniature red dragon,
+but her mottled, scaly hide is thinner, and somewhat translucent. A shimmer of
+heat surrounds her body, making her skin appear to twitch and quiver almost
+imperceptibly. Her wings beat slowly, as if fanning her own internal fire.
+~
+degnprsu dfkA 0 E
+20 31 20d8+268 3d5
+30 4472
+8 8 2
+BareHandAttack: 3
+Race: 14
+Script: drake.lua 256
+E
+#8833
+headless creature~
+a headless~
+A headless creature moves through the trees.
+~
+Possibly the result of a cruel prank on the part of a powerful sorcerer, this
+misshapen creature stands before you. Without head or neck, you wonder how he
+manages to sense his world, but he appears to be quite aware of your presence,
+and is becoming a bit agitated.
+~
+dghru af 600 E
+13 19 13d8+140 3d4
+30 2343
+8 8 1
+E
+#8834
+gazer~
+a gazer~
+A gazer hovers just above the ground, watching and waiting.
+~
+Mystical floating eyes hover here, conjoined by articulated stalks to a central
+probing eye. The mental powers of the gazer, more than make up for its weak
+and clumsy physique. Its mesmerizing attack is known to cause permanent
+madness to those of low intellect. Its eyes constantly sweep and reach to
+provide perfect peripheral vision.
+~
+degnpqru dfkA 0 E
+11 15 11d8+109 3d4
+10 1824
+8 8 0
+BareHandAttack: 12
+Race: 25
+Script: gazer.lua 256
+E
+#8835
+griffin~
+a griffin~
+A griffin flies here, screeching and clawing the air.
+~
+With the body of a lion and the head and wings of an eagle, this is truly a
+magnificant creature. Faster even than the fastest dragon in flight, the
+rippling muscles on her legs leave no doubt as to her unparalleled speed on
+the ground.
+~
+deglnpqsu dhkA 0 E
+16 24 16d8+192 3d4
+25 3200
+8 8 2
+BareHandAttack: 12
+Race: 22
+Script: griffin.lua 256
+E
+$

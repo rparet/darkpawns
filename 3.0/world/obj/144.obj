@@ -1,0 +1,631 @@
+#14400
+guardian demons book tome~
+the Guardian Demons~
+A book about guardian demons lies here.~
+~
+14 ep ao 0
+0 0 0 0 0
+5 3 300 100 0 1
+E
+guardian demons tome book~
+You come upon an interesting passage:
+
+    One day, while traversing the forest, I came upon a guardian demon, which
+I recognized from my studies. Forever curious, and knowing they usually aren't
+dangerous, I walked up to it and started up a conversation. Apparently I was
+wrong, guardian demons are able to let people get to what they're guarding
+but only in exchange for either large amounts of money, powerful magickal items
+and artifacts, or souls. This intrigued me, so I asked if it was able to leave
+once it has been bribed and it began ranting and raving about how guardian
+demons never leave their posts.
+~
+#14401
+anvil black darkness~
+the Anvil of Darkness~
+A huge, black anvil sits here, glowing with a malevolent aura.~
+~
+12 egi 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+anvil black darkness~
+It seems to be made out of some magickal substance, but you have no idea what.
+As you look more closely you notice the light in the room does not reflect off
+of it, thus keeping the anvil a dull black color. When you touch it, you jerk
+your hand back, the anvil is extremely cold!
+~
+#14402
+mace hammer night~
+the Hammer of Night~
+A great, black hammer levitates here.~
+~
+5 egijl an 0
+5 5 6 7 2
+27 2 2000 5 0 1
+E
+hammer night~
+My god! It's full of stars!
+~
+A
+19 3
+A
+23 -10
+R
+5 2
+#14403
+key steel~
+a large, steel key~
+A large, steel key lies here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 100 5 1
+E
+key steel~
+The lock it goes to must be huge.
+~
+#14404
+knife filet~
+a filet knife~
+A filet knife is sticking out of a piece of wood here.~
+~
+5 e an 0
+6 3 4 3 4
+5 1 200 20 0 1
+E
+filet knife~
+Dried blood stains most of the blade and the tip is beginning to rust.
+~
+A
+19 1
+R
+6 2
+#14405
+wand winterwand~
+a Winterwand~
+A wand shaped like an icicle is here.~
+~
+3 ag an 0
+4 0 0 0 3
+2 3 900 40 0 1
+E
+winterwand wand~
+It resembles a long, sharp icicle. As you touch it, you notice it is very cold.
+~
+A
+27 1
+#14406
+loincloth~
+a loincloth~
+A loincloth lies here.~
+~
+9 e af 0
+5 0 0 0 6
+1 2 2 100 0 1
+E
+loincloth~
+It's clean, brown and made of some soft fabric. It smells like roses.
+~
+A
+1 1
+A
+6 -2
+#14407
+bed~
+a bed~
+A bed is here, covered with all sorts of documents and maps.~
+~
+15 e 0 0
+150 5 -1 0 0
+1 3 0 100 0 1
+E
+bed~
+The cotton-filled mattress is lumpy and worn.
+~
+#14408
+spectacles~
+a small pair of spectacles~
+A small pair of spectacles made of thin, black wire sits here.~
+~
+11 egi ar d
+0 0 0 0 5
+1 3 400 20 0 1
+A
+3 1
+A
+4 1
+A
+18 1
+A
+27 1
+#14409
+black key~
+a small, black key~
+A small black key sits here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 100 5 1
+#14410
+armor huge suit grey~
+a huge suit of grey armor~
+A huge suit of grey armor is clumped in a pile here.~
+~
+9 ejl ad 0
+15 0 0 0 4
+60 3 750 10 0 1
+A
+19 1
+A
+28 -2
+#14411
+armor grey suit light~
+a light suit of grey armor~
+A light suit of grey armor sits here.~
+~
+9 ejl ad 0
+10 0 0 0 3
+20 3 800 10 0 1
+A
+18 1
+#14412
+steel key ring~
+a steel key ring~
+A steel key ring hangs from a peg in the wall here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 100 0 1
+E
+steel key ring~
+It has many keys on it.
+~
+#14413
+axe battle~
+a massive battle axe~
+A massive battle axe is here.~
+~
+5 e an 0
+2 7 6 3 4
+11 3 490 40 0 1
+A
+18 2
+R
+2 2
+#14414
+adamantine key ring~
+an adamantine key ring~
+An adamantine key ring hangs from a peg in the wall.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 100 7 1
+E
+adamantite key ring~
+There are many rings on it.
+~
+#14415
+silver horn~
+a silver horn~
+A silver horn with magical runes and glyphs engraved on it is here.~
+~
+12 ai ao 0
+0 0 0 0 0
+6 3 150 10 0 1
+S horn.lua 2
+A
+23 -5
+#14416
+robes black cloth~
+some black robes~
+Some long, black robes are here.~
+~
+9 ejl ak 0
+8 0 0 0 3
+3 3 1000 24 0 1
+A
+27 8
+A
+19 1
+A
+24 -6
+#14417
+black ring~
+a small, black ring~
+A small black ring is lying here, unnoticed.~
+~
+11 ei ab e
+0 0 0 0 4
+1 3 30 30 0 1
+E
+black ring~
+It seems to be made from some strange black material, there is an inscription
+engraved on the inside of the ring.
+~
+E
+inscription~
+Volhm
+~
+A
+21 -5
+A
+22 -5
+A
+23 -10
+#14418
+armor grey suit~
+a suit of grey armor~
+A suit of grey armor lies here.~
+~
+9 aj ad 0
+15 0 0 0 3
+30 3 1000 8 0 1
+E
+letters~
+The letters form a name of unspeakable evil, unwhispered since yore: 
+
+M A L A S
+~
+E
+armor grey suit~
+An angular, oddly shaped cuirass made from a gray, lightweight composite of
+unknown minerals allows for easy grace of movement and offers sufficient
+protection. Thorny, spiked pauldrons have been mounted on the shoulders and
+the tasset has been designed to protect the lower waist without interfering
+with dexterity. The seals of Nimos and Lady Amber have been burned onto the
+breastplate, and a few letters have been curiously engraved on the back.
+~
+A
+23 -5
+A
+19 2
+A
+26 5
+#14419
+sword lightning shaped~
+a lightning-shaped sword~
+A long, lightning-shaped sword leans on the wall here.~
+~
+5 eg an 0
+1 20 2 3 1
+15 2 1000 5 0 1
+A
+19 3
+A
+23 -5
+A
+17 5
+A
+27 -20
+A
+26 -20
+A
+28 -20
+R
+1 4
+#14420
+white pyramid~
+a small, white pyramid~
+A small, white pyramid has been left here.~
+~
+8 be a 0
+0 0 0 0 0
+1 3 800 20 0 1
+#14421
+spear pike~
+a pike~
+A long, sharp pike is here.~
+~
+5 ei an 0
+4 7 7 11 4
+9 3 100 80 0 1
+R
+4 3
+#14422
+dagger scalpel sharp~
+a sharp, shiny scalpel~
+A scalpel gleams brightly here.~
+~
+5 aegjl an 0
+6 1 2 3 5
+1 1 400 10 0 1
+A
+19 3
+A
+2 1
+#14423
+gloves thin white~
+a pair of thin, white gloves~
+A pair of white gloves lies here.~
+~
+11 0 ah 0
+0 0 0 0 5
+1 3 780 10 0 1
+A
+27 4
+A
+19 1
+A
+18 1
+#14424
+dagger spider~
+a spider-shaped dagger~
+A dagger designed to look like a spider is here.~
+~
+5 gi an 0
+6 4 4 11 3
+7 1 2245 10 0 1
+A
+19 2
+A
+18 2
+A
+20 -3
+R
+6 3
+#14425
+vest spider silk~
+a spider silk vest~
+A spider silk vest lies here.~
+~
+9 gi ad 0
+5 0 0 0 3
+3 2 2000 20 0 1
+A
+10 -20
+A
+2 2
+A
+20 -5
+A
+28 2
+#14426
+long black whip~
+a long, black whip~
+A long, black whip is coiled on a peg on the wall here.~
+~
+5 egij an 0
+7 8 8 2 3
+4 3 600 20 0 1
+A
+5 -2
+A
+27 1
+A
+2 1
+R
+7 4
+#14427
+mask fanged~
+a fanged mask~
+A fanged mask lies here.~
+~
+11 aegi ar 0
+0 0 0 0 4
+2 3 760 10 0 1
+A
+19 1
+A
+6 -1
+A
+27 2
+#14428
+armor green suit scale mail~
+a green suit of scale mail armor~
+A green suit of scale mail armor is sitting here.~
+~
+9 gi ad 0
+10 0 0 0 3
+40 3 1000 100 0 1
+A
+24 -2
+A
+27 3
+#14430
+gold coin~
+a large gold coin~
+A large gold coin glitters on the floor here.~
+~
+8 g ao 0
+0 0 0 0 0
+1 3 20 50 0 1
+E
+heads~
+You see a profile of Nimos.
+~
+E
+tails~
+You see what seems to be the picture of a large Citadel.
+~
+#14431
+book battle lost souls~
+the Battle of Lost Souls~
+A book labeled, 'The Battle of Lost Souls' lies here.~
+~
+14 ep ao 0
+0 0 0 0 0
+5 3 300 100 0 1
+E
+book battle lost souls~
+The Battle of Lost Souls was a great war fought between the armies of Gil-
+Glash and Lothar, who were both extremely powerful warriors in their time.
+History has long since forgotten why the battle began, but folklore tells of
+how Lothar finalls grew tired of Gil-Glash's reign of tyranny. Rumor has it,
+however, that the great battle rages on even in death, the mighty armies
+unaware of their fate...
+~
+#14432
+chest iron~
+a large iron chest~
+A large iron chest is here.~
+~
+15 e 0 0
+200 5 -1 0 0
+1 3 0 100 0 1
+#14433
+egg~
+a large egg~
+A large egg is laying here.~
+~
+19 0 a 0
+2 0 0 0 0
+2 3 200 100 24 1
+#14434
+coins pile~
+a large pile of coins~
+A large pile of coins is here.~
+~
+20 0 a 0
+75 0 0 0 0
+1 3 0 100 0 1
+#14435
+ironheart bow long~
+Ironheart~
+A long bow sticks out of a pile of gold coins here.~
+~
+5 0 an 0
+0 3 3 0 4
+1 3 1000 100 0 1
+A
+21 -5
+A
+18 3
+#14436
+book isle necromancer kings~
+the Isle of the Necromancer Kings~
+A book about the Isle of the Necromancer Kings is here.~
+~
+14 ep ao 0
+0 0 0 0 0
+5 3 300 100 0 1
+E
+seventh~
+Thus Sumulael and I raised up the inhabitants of Toal from their crypts and
+tombs to serve us. We lived there like exiled royalty for many years, until my
+husband's insanity and revolting habits grew intolerable. I ended up killing
+the monster, eventually with the help of adventurers who had discovered the
+secluded city in the wilderness. That is how I met my second husband, Talib.
+He was one of the explorers who assisted me in destroying Sumulael and helped
+me find my long-sought talisman.
+
+I soon came to love Talib, after a fashion. I taught him all of my hidden
+secrets. We were happy together in Toal, rebuilding the city to its former
+glory. But in the end, that marriage also failed, for I found that you cannot
+practice the Art when you are happy, nor advance in its study if you are
+content. So I left behind my beloved, to write this book in solitude and focus
+my mind on the difficult road ahead.
+~
+E
+sixth~
+At first, when my husband and I beheld the bones of the city's former
+citizens, we amused ourselves by raising the moldering remains to attend us as
+ghastly servants, skeletal porters, and shadowy messengers. When the quest for
+the talisman yielded nothing immediately, we animated more of the city's dead
+to expand the search. Before long, our new slaves uncovered royal cemeteries
+where the kings and queens of Toal had been buried for centuries before the
+city's disastrous end. I remember quite vividly my delight at this discovery.
+With a wave of my hand, I cracked open the tombs' monolithic stone doors,
+while Sumulael, cackling with wicked glee, called forth the city's ancient
+royalty, commanding even the oldest of padishahs to stumble forth, wrapped in
+their worm-eaten shrouds or burial robes, from the corrupted depths of the
+crypts and into our eternal slavery. And while the dead gave up their age-
+corrupted treasures, none carried my coveted talisman.
+~
+E
+fifth~
+  The ruins of Toal were cloaked by the jungle when I rediscovered the broken
+city walls with my first husband, Sumulael. That was in the early years of our
+marriage, when my devotion to the Forbidden Arts ran strong with the careless
+impetuousness of youth. We had been led to the city by disgruntled spirits, in
+search of a legendary talisman. Even with our ghostly guides, the ruins of the
+vine-choked city were extensive, and the exact location of our prize eluded
+us.
+~
+E
+fourth~
+Thus the age-old conflict between king and high-priest began again in Uruk,
+transplanted from the mainland by its colonists, and it sprang forth anew with
+all the vehemence of old. As it destroyed the Old Dynasty, so too did it
+unravel the Necromancer Kings. The New Dynasty eventually withered and died,
+leaving only mournful spirits to glide over the still black waters by the
+ruins of Nycopolis. Now only their histories and their mysterious artifacts
+remain as sad, silent testimonies to their former power and glory.
+~
+E
+third~
+The worship of this forgotten god, known as the Cult of Worms, soon flourished
+again under an ambitious priestess named Yola, one of the first nobles to
+accompany Ysawis into exile on Uruk. But the King was jealous of Yola's
+mounting influence, and he conspired with his most powerful nobles to destroy
+her. Yola disappeared soon after from Nycopolis. When she did, the Cult of
+Worms floundered without her direction, and Ysawis reigned supreme once again
+in his mighty new kingdom of necromancers.
+~
+E
+second~
+Now, Uruk was not entirely uninhabited when Ysawis founded the New Dynasty.
+The colonists found the traces of an even more ancient civilization on the
+island, based on the low, sandy shores. They discovered entire ruined cities
+of antique metal towers, sundered and dilapidated, lapped along the coast by
+the hungry sea. In these mushroom-shaped spires, exotic totems and strange
+shrines were unearthed, temples of some forgotten god called the King of
+Worms, and Lord over Life and Undeath. Many of the New Dynasty began to
+worship this ancient god whose first followers had long since abandoned Uruk
+to live forever beneath the cold waves of the sea (or so the ancient legends
+say).
+~
+E
+first~
+Long ago, when the Old Dynasty began to fail on the mainland, Ysawis Ligat was
+exiled with a whole cadre of his supporters for practicing deviant and
+forbidden magic. Ysawis departed the jungle valleys of his youth in search of
+a new home. He crossed the sea and discovered Uruk, a large island of 
+mysterious beauty that resembled, in many respects, his beloved homeland.
+
+The island was divided into a low-lying coastal region, an inner high plateau
+embraced by jungle, and a high ridge of mountains rising from the center of
+the island like the spine of a vishap. On the high plateau, by the shores of a
+sepia lake, Ysawis built Nycopolis and made his city the capital of a new
+monarchy. He built the Great Summer Palace out of solid ivory and erected a
+mighty Colossus in his image to guide visitors safely to his island. Ysawis
+was the first and most powerful of the Necromancer Kings, and he ruled Uruk,
+some say wisely, for many hundreds of years.
+~
+E
+book~
+The book has several detailed pages which you may read. Starting at the first
+page is probably a good idea!
+~
+#14437
+silver orb~
+a silver orb~
+A silver orb hovers here.~
+~
+4 ae as 0
+100 30 20 48 2
+1 3 2000 5 0 1
+A
+27 2
+A
+17 10
+#14439
+fountain obsidian~
+a large fountain~
+A fountain made from the purest obsidian is here, bubbling merrily.~
+~
+23 eg 0 0
+999999 999999 15 0 0
+5005 3 0 100 0 1
+#14441
+crystal ball~
+a crystal ball~
+A crystal ball is here, tempting your eye.~
+~
+12 adegq ao 0
+0 0 0 0 0
+5 3 1000 50 0 1
+A
+4 1
+A
+3 1
+$~

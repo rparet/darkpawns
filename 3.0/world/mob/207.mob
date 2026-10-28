@@ -1,0 +1,41 @@
+#20700
+ghoul~
+a ghoul~
+A ghoul stands here.
+~
+It's a ghoul.
+~
+dnpr df 0 E
+20 31 20d8+268 3d5
+0 4472
+8 8 1
+Race: 32
+E
+#20701
+ghast~
+a ghast~
+A wretched ghast lurks here.
+~
+It's a ghast.
+~
+dnpr df 0 E
+0 0 0d8+0 2d3
+0 0
+8 8 1
+Race: 32
+E
+#20702
+carrion worm~
+a carrion worm~
+A carrion worm writhes through the flesh of the dead.
+~
+It looks, err, unfinished.
+~
+dhq 0 0 E
+10 14 10d8+94 3d4
+0 1581
+8 8 1
+BareHandAttack: 1
+Race: 23
+E
+$

@@ -1,0 +1,225 @@
+#18701
+cow grazing carve_meat~
+a grazing cow~
+A small grazing cow is here.
+~
+This is a small version of a normal milking cow.
+~
+dlz 0 0 E
+9 12 9d8+81 3d3
+0 1350
+8 8 2
+BareHandAttack: 9
+Race: 33
+E
+#18702
+bull grazing carve_meat~
+a grazing bull~
+A small grazing bull is here.
+~
+This is a small bull.
+~
+dflmz 0 0 E
+12 17 12d8+124 3d4
+0 2078
+8 8 1
+BareHandAttack: 9
+Race: 33
+E
+#18703
+ender gateguard guard~
+an ender gateguard~
+An ender gateguard is here keeping out the unwanted element.
+~
+He is a smallish humanoid but is well defined and looks very mean, when he
+wants to be.
+~
+bdlm k 0 E
+36 61 36d8+648 4d5
+15 10800
+8 8 1
+E
+#18704
+ender guard~
+an ender guard~
+An ender guard is here keeping out the unwanted element.
+~
+He is a smallish humanoid but is well defined and looks very mean, when he
+wants to be.
+~
+dglm ks 0 E
+33 55 33d8+568 4d5
+15 9478
+8 8 1
+E
+#18705
+ender guard royal~
+a royal ender guard~
+A royal ender guard is here protecting the king and queen.
+~
+This little humanoid looks quite tough, maybe that is why he is protecting the
+king and queen.
+~
+bdlm ds 0 E
+39 67 39d8+730 4d5
+25 12177
+8 8 1
+E
+#18706
+ender king~
+the ender king~
+The ender king is here ruling over his small domain.
+~
+Though he looks a little old and maybe feeble, he did not get to be king by
+being weak or inept with weapons.
+~
+bdghlmA dfhk 0 E
+45 79 45d8+905 5d5
+100 15093
+8 8 1
+E
+#18707
+ender queen~
+the ender queen~
+The ender queen is here helping her husband.
+~
+She is a small humanoid, but she looks like a stong person both with words and
+the blade.
+~
+bdghlmA dfhk 0 E
+42 73 42d8+816 5d5
+50 13609
+8 8 2
+E
+#18708
+ender male~
+an adult male ender~
+An adult male ender is slinking around here.
+~
+This smallish humanoid looks very sneaky. He looks as though he could be a
+great thief, or maybe even an assassin.
+~
+cdgln s 0 E
+21 33 21d8+288 3d5
+15 4811
+8 8 1
+E
+#18709
+ender female~
+an adult female ender~
+An adult female ender is slinking around here.
+~
+This smallish humanoid looks very sneaky. She looks as though she could be as
+great a thief as any male in this village.
+~
+cdgln s 0 E
+18 27 18d8+229 3d4
+15 3818
+8 8 2
+E
+#18710
+ender child male boy~
+an ender boy~
+A little ender boy is here playing.
+~
+This tiny little humanoid has very quick hands as you see him playing here.
+He does not seem to notice you, but you are sure he knows you are about.
+~
+cdgln 0 0 E
+6 7 6d8+44 3d3
+5 734
+8 8 1
+E
+#18711
+girl female ender child~
+an ender girl~
+A little ender girl is here playing.
+~
+This tiny humanoid has very quick hands, as you see her playing here. She
+seems oblivious to you, but her movements appear to be reacting to your own.
+~
+cdgln dt 0 E
+6 7 6d8+44 3d3
+5 734
+8 8 2
+E
+#18712
+dragoon~
+a dragoon~
+A little dragoon is here looking with googly eyes.
+~
+This is some kind of little dragon, actually it is more like a lizard.
+~
+dglq d 0 E
+9 12 9d8+81 3d3
+0 1350
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#18713
+ender cook~
+an ender cook~
+An ender cook is here cooking away.
+~
+This ender looks a little bulkier than a standard ender male. He is heavily
+powdered in flour.
+~
+bdl d 0 E
+30 49 30d8+492 4d5
+10 8215
+8 8 1
+E
+#18714
+ender smithy blacksmith~
+an ender smithy~
+An ender smithy is here pounding away on some steel.
+~
+This ender is lot bigger than all the other enders, obviously from his work on
+metal. He is still not even average humanoid size.
+~
+bdl d 0 E
+36 61 36d8+648 4d5
+50 10800
+8 8 1
+E
+#18715
+ender tailor~
+an ender tailor~
+An ender tailor is here working on some sewing project.
+~
+This ender is smaller than average, but looks trim and strong. Her fingers are
+obviously very nimble as she works around a piece of cloth with her needle.
+~
+bdl d 0 E
+33 55 33d8+568 4d5
+50 9478
+8 8 2
+E
+#18716
+ender torak~
+Torak, the ender~
+Torak the Ender is here, ready to pounce.
+~
+Torak is a tough looking humanoid. It looks as though he really wants to kill
+you.
+~
+dgsA dks -750 E
+54 98 54d8+1190 5d6
+32 19840
+8 8 1
+E
+#18717
+ender advisor~
+the ender king's advisor~
+The Ender King's Advisor frets here.
+~
+He looks like a seedy character, which is unusual for this race. How
+strange...maybe he is hiding something.
+~
+bdghA dfs -200 E
+36 61 36d8+648 4d5
+50 10800
+8 8 1
+E
+$

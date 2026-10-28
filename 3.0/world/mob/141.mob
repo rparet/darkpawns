@@ -1,0 +1,94 @@
+#14101
+Medusa Echidna~
+Echidna, the greater medusa~
+Echidna the greater medusa stares at you as you enter the room.
+~
+Her petrifying gaze can even kill gods... Don't look at her!
+~
+bcd h -1000 E
+93 183 93d8+2690 8d8
+1 44842
+8 8 2
+BareHandAttack: 12
+Race: 22
+Script: medusa.lua 768
+E
+#14102
+maedar glyphar medusa male man~
+Glyphar, the maedar~
+Glyphar the maedar stands here.
+~
+His petrifying gaze can even kill gods... Don't look at him!
+~
+bdeflqt dfhk -1000 E
+96 190 96d8+2821 8d9
+400 47030
+8 8 1
+BareHandAttack: 12
+Race: 22
+Script: medusa.lua 768
+E
+#14103
+snake large giant carve_meat~
+a large snake~
+A large snake writhes around.
+~
+Covered in a diamond-shaped pattern of sanguine scales, it's both a beauty
+and a terror to behold. A forked tongue the size of your forearm whips in and
+out of it's mouth, silently tasting the air.. and your scent with it.
+~
+demnqtz h -1000 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+BareHandAttack: 4
+Race: 29
+Script: snake.lua 256
+E
+#14127
+small snake~
+a small snake~
+A small snake slithers around here.
+~
+It's a small, black snake, no bigger around than your thumb.Its eyes glow with
+a fierce red light, and as it looks at you a chill runs up your spine.
+~
+dflmnpqrz dfkst 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 4
+Race: 29
+Script: snake.lua 256
+E
+#14198
+one energy~
+the One~
+An amorphous body of crackling black energy fills the room.
+~
+The One is an extradimensional entity that the ancients said was older than
+our own world. It is intelligent and completely evil, it survives by devouring
+the energy from entire worlds.
+~
+bdelnpq dfhkn -1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 0
+BareHandAttack: 12
+Race: 12
+E
+#14199
+tak an la minion serapis~
+Tak~
+Tak screams, 'Tak an la! Tak an la!'
+~
+Serapis's most powerful minion and guardian.
+~
+bdeflnpqt dfhk -1000 E
+100 199 100d8+3000 9d9
+6000 50000
+8 8 1
+BareHandAttack: 12
+Race: 12
+E
+$

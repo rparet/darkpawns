@@ -1,0 +1,168 @@
+CircleMUD v3.0 Shop File~
+#12104~
+12127
+12128
+-1
+1.10
+0.90
+-1
+%s Just what you see on the menu.~
+%s What would I want to do with that?~
+%s I have no need for that.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+12110
+None~
+0
+1
+-1
+0
+24
+0
+0
+0
+#12133~
+12132
+12133
+12131
+12130
+-1
+1.50
+0.50
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+12100
+None~
+0
+12133
+-1
+2
+23
+0
+0
+0
+#12134~
+12100
+12135
+12136
+-1
+1.40
+0.60
+-1
+%s Only fish my friend. I sell nothing else.~
+%s You don't seem to have that.~
+%s I only require fish, and that I can get myself.~
+%s If only I were wealthy enough!~
+%s I cannot afford to give my fish away!~
+%s Enjoy the fish! That'll be %d coins. Have a nice day!~
+%s I'll give you %d coins for that.~
+0
+b
+12101
+None~
+0
+12134
+-1
+0
+24
+0
+0
+0
+#12135~
+12101
+12102
+12103
+12104
+-1
+1.50
+0.60
+8
+13
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+12102
+None~
+0
+12135
+-1
+2
+23
+0
+0
+50
+#12137~
+6
+-1
+1.40
+0.70
+22
+-1
+%s Arrgh! I've not got that item, matey.~
+%s Ye've not got that!~
+%s Eh now, what would an old seafarin' man do with that!?~
+%s I can't afford that!~
+%s Avast there! Ye've not got gold enough fer that!~
+%s Aye! That'll be %d coins, matey.~
+%s A fine boat it is! I'll give you %d coins.~
+0
+b
+12106
+None~
+0
+12137
+-1
+2
+23
+0
+0
+25
+#12138~
+12112
+12116
+12117
+-1
+1.30
+0.70
+17
+15
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+12107
+None~
+0
+12138
+-1
+2
+23
+0
+0
+50
+$~

@@ -1,0 +1,214 @@
+#19400
+king fire li ting~
+Li Ting~
+Li Ting is here sitting upon his throne.
+~
+The master of the Fire Pagoda regards you with contempt in his smouldering
+eyes. A flaming aura surrounds him, and seems to become more intense as his
+rage grows stronger with each passing moment.
+~
+bdelnpqrt dfh -1000 E
+75 143 75d8+1948 6d7
+3000 32475
+6 6 1
+BareHandAttack: 10
+Race: 13
+E
+#19401
+man ronin assassin jubei kebogami~
+Jubei Kebogami~
+A weatherbeaten man stands here.
+~
+Jubei Kebogami is a Ronin assassin and mercenary for hire. He looks like he
+could cut you to pieces without breaking a sweat.
+~
+denpqrstu dfks 700 E
+72 136 72d8+1832 6d7
+1400 30547
+8 8 1
+Race: 1
+E
+#19402
+monk shaolin~
+a shaolin monk~
+A shaolin monk walks around chanting.
+~
+A shaolin monk is chanting in some unknown language. He seems to ignore you
+and your intrusion here.
+~
+dglq dk 400 E
+39 67 39d8+730 4d5
+0 12177
+8 8 1
+BareHandAttack: 13
+Race: 1
+Noise: You hear an eerie chanting.
+E
+#19403
+monk shaolin~
+a shaolin monk~
+A shaolin monk wanders around here.
+~
+A shaolin monk is here experiencing himself, subjectively. It would be wise to
+leave him undisturbed.
+~
+bdlq dk 400 E
+39 67 39d8+730 4d5
+0 12177
+8 8 1
+BareHandAttack: 13
+Race: 1
+Noise: You hear an eerie chanting.
+E
+#19404
+shaolin pupil~
+a shaolin pupil~
+A shaolin pupil is here seeking inner enlightenment.
+~
+A shaolin pupil looks like he's trying to find something. He constantly rubs
+his shaven head, as if he's not yet used to being bald. Occasionally, he trips
+over his robe.
+~
+dhm k 300 E
+24 38 24d8+352 3d5
+0 5878
+8 8 1
+BareHandAttack: 13
+Race: 1
+Noise: You hear an eerie chanting.
+E
+#19405
+master shaolin quan lo~
+Quan Lo~
+The shaolin master is here, in perfect harmony with the Universe.
+~
+Quan Lo continues to chant softly as you look him over. Like the other monks,
+his head is clean shaved and he wears only simple clothes and a monk's robe. A
+long beard hangs low from his chin.
+~
+bdelnpqr dfhmnE 500 E
+72 136 72d8+1832 6d7
+0 30547
+6 6 1
+BareHandAttack: 13
+Race: 1
+Script: quanlo.lua 512
+E
+#19406
+man hermit~
+an old hermit~
+An old hermit sits here, humming softly.
+~
+The hermit looks very old and smells like it too. His hair is very long and
+is a dirty grey color. His beard comes down below his chest and small bits
+of who knows what stuck in it.
+~
+abdy dfk 500 E
+90 176 90d8+2561 8d8
+50000 42690
+6 6 1
+BareHandAttack: 13
+Race: 1
+Noise: You hear a soft humming coming from the cave to the west.
+Script: hermit.lua 4
+E
+#19407
+fire falcon bird~
+a fire falcon~
+A small flaming bird is here.
+~
+A beautiful copper-coloured bird radiates a firey aura.
+~
+deinpqr dfgkmp 1000 E
+18 27 18d8+229 3d4
+0 3818
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#19408
+flame spirit~
+a flame spirit~
+A flame spirit dances about wildly.
+~
+This being's body is composed completely of living flame. It dances wildly
+about the column of flame in the centre of the room.
+~
+cdnpqrt dfkp 0 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#19409
+servant flame monk crimson~
+a Servant of the Flame~
+A monk dressed in crimson robes tends the flame.
+~
+His crimson robes cover him from head to toe, making him appear a bulky,
+amorphous parody of humanity.
+~
+dgls dfks 0 E
+48 85 48d8+997 5d5
+0 16627
+8 8 1
+Race: 1
+Noise: You hear a low, steady chanting.
+E
+#19410
+acolyte flame monk~
+an acolyte of the Flame~
+An acolyte of the Flame stands in silence.
+~
+A young man, in crimson robes. He is being trained to carry on the mission of
+the Servants.
+~
+dgm dks 0 E
+36 61 36d8+648 4d5
+0 10800
+8 8 1
+Race: 1
+Noise: You hear a low, steady chanting.
+E
+#19411
+stealthy ninja man~
+a stealthy ninja~
+A ninja dressed in black tries to blend in with the scenery.
+~
+Ki-Yaaaaah!!!
+~
+deghlsu dkst -250 E
+69 130 69d8+1719 6d6
+550 28657
+8 8 1
+Race: 1
+E
+#19412
+fire wizard~
+the Fire Wizard~
+A mysterious woman in dark robes stands here.
+~
+She is the wizard of this pagoda, a master of fire magic - skilled and deadly.
+~
+dglnprt dhks -500 E
+66 123 66d8+1608 6d6
+200 26809
+8 8 2
+Race: 1
+Script: magic_user.lua 256
+E
+#19413
+monastic guard monk~
+the monastic guard~
+A monastic guard protects the temple from intruders.
+~
+He is a tall monk that wears armor and gets a kick out of beating up heathens.
+~
+bdlmnpr 0 0 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 1
+Race: 1
+E
+$

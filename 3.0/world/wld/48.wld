@@ -1,0 +1,1412 @@
+#4800
+The Map Room for Xixieqi Village~
+   You are standing in a small room with a single opening in the middle of the
+floor. There is a strange humming light emitting from an unknown source,
+illuminating the large map on the wall.
+~
+48 cdk 0
+D5
+~
+~
+0 0 4813
+E
+3map~
+0~
+            C --- C --- C --- C --- C                w-Weapon Shop,Dragon's Claw
+            | III\I Ga        |     |                a-Armor Shop,Moo Shi's
+     xxx    |  I  I-Ga  Mo  H-H     |                y-Yung Li Tao Silk and Yarn
+     xxx    |           |           |           Sa - Old Sage's House
+     xxGu - C --- C --- C --- C --- G           Tat- Tatooist
+                  |                 |           Te - Anjijani Temple Entrance
+                  Du                G           Tm - Anjijani Temple Main
+                                                Ti - Temple of the Ice Dragon
+                                                \  - Stairs
+~
+E
+2map~
+0~
+            |     S(t)  S(w)  S(y)  |           H  - Channeling House
+            |     |     |     |     |           I  - Inn
+  Tm - Te - C --- C --- C --- C --- C           Mo - Mortuary  
+            |     |     |     |     |           O  - Ocean    
+            |     S(m)  S(a)  Ti    |           S  - Shops    
+       Ap - C     \S(h)             C                t-Ta'lon Herbs and Potions
+            |           Sa          |                m-Meng's General Wares
+            |           |           |                h-Hrenchao's Mystic Marvels
+Continued on 3map
+~
+E
+map~
+0~
+                                Map of Xixieqi
+            
+            O                                   Legend:     
+            |    Ghost Ship                     Ap - Appraisal Shop
+            |    |                              B  - Beach
+       O -- D -- D -- O                         Ba - Bank
+            |                                   C  - City Street
+            |                                   Cu - Customs House
+       O -- D -- D                              D  - Dock
+            |         B -- B -- B               Do - Donation Room
+            |         |         |               Du - Dump
+            C -- C -- C -- C -- C - C           G  - City Gates
+            |    |                  |           Ga - Ping Xiao's Gambling House
+            |    Cu                 |           Gu - Adventurer's Guild
+       Do - C - Ba                  C - Tat          x's mark possible expansion
+Continued on 2map
+~
+S
+#4801
+Xixieqi Dockyard~
+   Burly men push past you, carrying barrels and crates about the dock area as
+they load and unload cargo from all manner of merchant vessels. The scent of
+seafood is almost overwhelming, making you wonder how anyone can bear to work
+in a place such as this. To the north, the city docks meet the open ocean
+while to the west, tall ships await their chance to offload their goods.
+~
+48 0 1
+D0
+~
+~
+0 0 4813
+D2
+~
+~
+0 0 4802
+D3
+~
+~
+0 0 4811
+S
+#4802
+Qitiexi Street At The Dockyard~
+   Qitiexi street begins here, travelling to the south and allowing access
+to the Xixieqi docks to the north. Horse-drawn carriages move past you, their
+drivers screaming at you to get out of the way. You have the choice of
+following the street to the south, or entering a narrower lane to the east.
+~
+48 0 1
+D0
+~
+~
+0 0 4801
+D1
+~
+~
+0 0 4869
+D2
+~
+~
+0 0 4803
+D3
+~
+~
+0 0 4840
+S
+#4803
+Qitiexi Street~
+   You weave in and out of the large group of people assembled before you.
+Judging by the worn depressions in the gravel street, you would guess that
+this was one of the busiest places in the city. Vendors call out from the
+sides of the street, babies cry, angry shouts from disgruntled traders - it's
+alive with sound.
+   Just to the southwest, the top of a huge temple climbs into the sky,
+dwarfing the surrounding buildings. To the east, the city bank serves all who
+visit the city while to the west, a shabbily-constructed building is filled
+with people.
+~
+48 0 1
+D0
+~
+~
+0 0 4802
+D1
+You see the First Central Bank of Xixieqi.
+~
+~
+0 0 4843
+D2
+~
+~
+0 0 4805
+D3
+You see a large, but shabby donation room.
+~
+~
+0 0 4893
+S
+#4804
+A Small Library~
+   This small space has been carved into the city walls and serves as some
+type of library. Shelves of books lie in random patterns, some threatening to
+topple and fall given the angle at which they lean. The only exit appears to
+be to the south, back onto the street.
+   A small sign has been attached to the nearest shelf.
+~
+48 cde 0
+D2
+~
+~
+0 0 4826
+E
+sign~
+0~
+For assistance with transport, please type LIST.
+To learn from the teacher, try LEARN <teacher name>
+~
+E
+books~
+0~
+Skimming through the titles, you observe that the majority of them are
+targetted towards the apprentice mage. None appear overly appealing to you at
+this point in time.
+~
+S
+#4805
+Maoqi Square~
+   The city streets converge here as if to funnel travellers into the huge
+temple to the west. Perhaps the center of the city, Maoqi square is a
+temporary home to a mix of traders from all of the world, items of all
+descriptions sold to passers-by.
+   Qitiexi street continues to the north and south while Chiang street
+leaves to the east.
+~
+48 0 1
+D0
+~
+~
+0 0 4803
+D1
+~
+~
+0 0 4865
+D2
+~
+~
+0 0 4810
+D3
+~
+~
+0 0 4806
+S
+#4806
+Entrance To The Temple~
+   The mighty temple of Mampang towers into the sky before you. Huge stairs
+lead upward while four massive, marble columns support the front of the
+temple. Beyond that lies the grand entrance, adorned in gold and silver,
+through polished oaken doors.
+~
+48 cesC 1
+D1
+~
+~
+0 0 4805
+D3
+You see the large temple of Mampang.
+~
+~
+0 0 4807
+S
+#4807
+Mampang Temple~
+   You stand awestruck within a huge temple, its enormity beyond belief. Row
+upon row of pews line the floorspace all of the way to the temple altar where
+a young priest stands, preaching to a small group of worshippers. On either
+outer wall are spacious walkways, adorned with various icons and numerous
+ornate candlesticks.
+   The majority of people here are foreign to this city, perhaps here to
+pray for a safe journey ahead or to give thanks for an uneventful voyage.
+~
+48 cdes 0
+D1
+You see the grand entrance of the temple, leading out to Maoqi Square.
+~
+~
+0 0 4806
+S
+#4808
+Dinxi Street~
+   You have to be careful to avoid stepping on something you shouldn't - the
+street is lined with garbage! Half-eaten fish, crumpled parchament, torn
+clothing and numerous other effects have been discarded here.
+~
+48 0 1
+D1
+~
+~
+0 0 4818
+D2
+~
+~
+0 0 4819
+D3
+~
+~
+0 0 4809
+S
+#4809
+The Corner of Qitiexi and Dinxi Streets~
+   The street turns abruptly here, becoming Qitiexi to the north and Dinxi to
+the east. Creatures stream past you and disappear along the street to the
+north, obviously headed to a more central location within the city to conduct
+their business. A wide, oaken door just large enough to clear the top of your
+head, lies set into the city's stone wall to the west.
+~
+48 0 1
+D0
+~
+~
+0 0 4815
+D1
+~
+~
+0 0 4808
+D3
+~
+~
+0 0 4836
+S
+#4810
+Qitiexi Street~
+   Life moves past you at a fast pace and you are content merely to stand and
+watch it go by. Adventurers, merchants, locals...they all seem to be in a rush
+to be somewhere else and at times, you are almost swept up in the flow. Just
+to the northwest, a huge temple dominates the skyline and dwarfs the
+surrounding buildings.
+~
+48 0 1
+D0
+~
+~
+0 0 4805
+D2
+~
+~
+0 0 4817
+D3
+You see a small shop filled with people, a man sitting at a desk in the midst
+of them, appraising items.
+~
+~
+0 0 4834
+S
+#4811
+Xixieqi Dockyard~
+   Just west of the main dock area, huge boxes and crates lie everywhere,
+filled with all type of spice and exotic food. The pleasant aroma actually
+dulls the smell of the sea and makes breathing the air slightly more
+appealing. The dock is kept relatively clear as it serves as the main transit
+area for the loading and unloading of merchant vessels.
+~
+48 0 1
+D1
+~
+~
+0 0 4801
+D3
+~
+~
+0 0 22401
+S
+#4812
+Misa Street~
+   Misa street is one of two main thoroughfares through Xixieqi, the other
+being Qitiexi street which parallels this one on the western side of the city.
+Fellow adventurers, merchants after a quick fortune, mercenaries and traders
+abound...none of them pay you any heed, you are merely another face within
+the crowd.
+   The city's southern gate lies a short distance to the south while the
+street continues to the north. Loud shouts of excitement can also be heard
+from an opening to the east.
+~
+48 0 1
+D0
+~
+~
+0 0 4896
+D1
+There's a large group of creatures within, but you're not sure what it is.
+~
+~
+0 0 4853
+D2
+~
+~
+0 0 4860
+S
+#4813
+The Docks of Xixieqi~
+   You stand on the docks of the active seaside city of Xixieqi. Merchants and
+fishermen haggle over the price of seafood, the saline stench of the ocean
+quite noticeable. Around you, citizens rush to make their purchases of fresh
+food and imported goods.
+~
+48 0 1
+D0
+~
+~
+0 0 22410
+D2
+~
+~
+0 0 4801
+S
+#4814
+Hrenchao's Mystic Marvels~
+   The cloying herbs and sweet roots stored within the room cause your head to
+spin. Flowers, pollen, odd leaves and vaporous potions sit neatly on the 
+shelves which line the walls while a collection of neatly bound scrolls lies
+in the corner. A set of stairs leads down to another shop.
+~
+48 cd 0
+D5
+~
+~
+0 0 4894
+S
+#4815
+Qitiexi Street~
+   The street narrows here, several closely packed living quarters line the
+road and lean in at alarming angles. Makeshift shoring has been put in place
+in an effort to keep them standing and you understand now why this section of
+the street is virtually deserted.
+~
+48 0 1
+D0
+~
+~
+0 0 4817
+D2
+~
+~
+0 0 4809
+D3
+~
+~
+0 0 4871
+S
+#4816
+Dinxi Street~
+   The sounds of a busy marketplace drift in from somewhere to the northwest
+but you can't see over the city's living area which blocks passage to the
+north and continues along the northern side of the street. To the east, you
+can see the southern gates which allow passage from Xixieqi to the holy city
+of Mist Keep.
+~
+48 0 1
+D1
+~
+~
+0 0 4860
+D2
+~
+~
+0 0 4873
+D3
+~
+~
+0 0 4818
+S
+#4817
+Qitiexi Street~
+   A broken down cart lies at the side of the road, pushed out of the way of
+the main thoroughfare to make way for the mass of creatures transitting down
+the street. Mito Avenue leads to the east while you may also continue along
+Qitiexi street to the north or south.
+~
+48 0 1
+D0
+~
+~
+0 0 4810
+D1
+~
+~
+0 0 4835
+D2
+~
+~
+0 0 4815
+D3
+~
+~
+0 0 4870
+S
+#4818
+Dinxi Street~
+   Small, annoying insects buzz around your head, attracted by the
+unmistakable smell of garbage to the west. It's no wonder, as you can
+physically see it pouring into the street from an opening in the southern
+wall. A dark, foreboding shop lies to the north while the street continues
+to the east and west.
+~
+48 0 1
+D0
+You can see nothing past the black-tinted windows.
+~
+~
+0 0 4844
+D1
+~
+~
+0 0 4816
+D3
+~
+~
+0 0 4808
+S
+#4819
+The City Blacksmith~
+   The first thing to greet you upon entry is the heat plume from the large
+fire pit in the middle of the room. A large anvil sits adjacent to it, scored
+with any number of deep cuts from the weapons and armor created upon it.
+Twisted chunks of discarded steel and various other metals litter the floor,
+so much so that movement within the room is difficult.
+~
+48 cde 0
+D0
+~
+~
+0 0 4808
+S
+#4826
+Mito Avenue~
+   You stand on a wide cobbled street, surrounded by an assortment of living
+quarters. The city's residents brush past you, a constant stream into and out
+of their dwellings.
+   A small library lies off the street to the north.
+~
+48 0 1
+D0
+~
+~
+0 0 4804
+D1
+~
+~
+0 0 4838
+D3
+~
+~
+0 0 4835
+S
+#4827
+Xixieqi Dockyard~
+   The dock worker's shout back and forth to each other as they carry out
+their duties. Several of them appear from beneath the deck of the nearest
+ship, each with two barrels over their shoulders as they march off down the
+lane to the south. Crate upon crate of fish sits upon the dock, each packed to
+the brim with ice and deep sea fish ready for export to the northern cities.
+~
+48 0 1
+D0
+~
+~
+0 0 4831
+D2
+~
+~
+0 0 4879
+S
+#4828
+The City Stables~
+   The smell of fresh dung greets your nose as you step into this well-kept
+stable. Surprisingly, it's not horses that greet you but rather camels, and
+lots of them! Hanging from the wall are an assortment of makeshift bridles and
+torn rugs.
+~
+48 cd 0
+D3
+~
+~
+0 0 6505
+S
+#4831
+Xixieqi Dockyard~
+   Gazing northwards, you see the man-made rock walls that provide some
+protection to the ships anchored here. Mere dots on the horizon, ships sailing
+to and from this busy center of commerce can be seen quite clearly, their
+tall rigging easily identifiable. A large ship berthed to the east appears to
+be undergoing some basic repair, a number of sailors hanging from makeshift
+cranes over the side of the deck, patching at small holes in the ship's hull.
+~
+48 0 1
+D0
+~
+~
+0 0 22412
+D2
+~
+~
+0 0 4827
+S
+#4832
+Lin Chao's Brine Delights Bar~
+   The decor is elegant, if not tattered by the passage of time. The walls are
+solid timber, covered in an array of silk tapestry while several plush leather
+chairs are scattered around the room. A large bar lines the southern wall and
+is crowded with locals and foreigners alike. A small staircase leads to the
+floor above while the exit to the north spills out onto the street.
+~
+48 cd 0
+D0
+~
+~
+0 0 4835
+D4
+You see a dim hallway at the top of the stairs.
+~
+~
+0 0 4841
+E
+book registry~
+0~
+It reads:
+Serapis was here!
+~
+S
+#4833
+A Messy Shanty~
+   The room is damp and musty, a heavy curtain over the entrance to the west
+preventing much air flow. The floor is covered with specks of dried blood and
+vomit, certainly not an appealing place! A simple lean-back chair sits in the
+middle of the room, a tray with an assortment of needles attached to one of
+its arms. 
+~
+48 acd 0
+D3
+The curtain prevents you from seeing outside.
+~
+~
+0 0 4898
+S
+#4834
+An Appraisal Shop~
+   You are standing in one of the many shops along the road of Qitiexi. There
+is a rather large fellow sitting here at a big wooden desk, gazing at items
+of all sorts of quality through a large magnifying lens. The place is a mess,
+with items scattered all about the table and the floor. Business must be good
+though, because the tide of people pouring into the small shop never seems to
+stop.
+~
+48 d 0
+D1
+You see the door leading to Qitiexi street.
+~
+~
+0 0 4810
+E
+sign~
+0~
+"I'll identify anything, for a cost!
+Just type 'value itemname' to see how much i'll charge,
+or just give me the item you want me to appraise!"
+~
+S
+#4835
+Mito Avenue~
+   The western end of the avenue is alive with people, however most journey
+along Qitiexi street to the west leaving the remainder of the road to the east
+relatively easy to walk. A moderately sized inn sits to the south, the cheers
+and shouts of happy patrons quite audible.
+~
+48 0 1
+D1
+~
+~
+0 0 4826
+D2
+~
+~
+0 0 4832
+D3
+~
+~
+0 0 4817
+S
+#4836
+The Xixieqi Post Office~
+   The post office plays a vital role in this city as is evident by the
+merchants, adventurers, foreigners, sailors and locals which frequent it.
+Being a central port on the southern continent, Xixieqi is often considered a
+good place to settle ones affairs before heading off through the wasteland to
+the south of the city or braving the raging seas to the north.
+~
+48 cde 0
+D1
+~
+~
+0 0 4809
+S
+#4837
+The Channeling Room~
+   The room is dark and relatively sparse apart from a number of shelves on
+the far wall which are lined with ancient tomes, rolled parchments and
+all sorts of potions and reagents. A narrow staircase leads downstairs.
+~
+48 acdfh 0
+D5
+~
+~
+0 0 4847
+S
+#4838
+Mito Avenue~
+   Standing at the eastern end of the avenue, you take a moment to gaze at
+your surrounds. It appears as though this area has been set aside mainly for
+the local citizens, the avenue sides lined with dwellings and market stalls.
+A curtained entrance lies to the south with a small sign affixed to a nearby
+wall.
+~
+48 0 1
+D1
+~
+~
+0 0 4896
+D2
+You can't see past the curtained entrance.
+~
+~
+0 0 4847
+D3
+~
+~
+0 0 4826
+E
+sign~
+0~
+The sign reads 'Yao Tai's House of Channeling'.
+~
+S
+#4840
+The Customs Building~
+   The room is bustling with business - clerks and other petty beaurocrats
+issue and stamp licenses and permits to the foreigners, tradesmen and other
+nomadic types who wish to peddle their wares within the city limits. The
+only exit is to the east.
+~
+48 cd 0
+D1
+~
+~
+0 0 4802
+S
+#4841
+An Upstairs Hallway~
+   Doors line both sides of this hallway, most likely sleeping quarters for
+the wealthier of travellers. At the base of the stairs, the din of the bar
+patrons would certainly make sleeping up here difficult but if clean sheets
+and a bed are what you seek, then perhaps this is the place to be.
+~
+48 cd 0
+D1
+The hall continues to the east.
+~
+~
+0 0 4851
+D5
+~
+~
+0 0 4832
+S
+#4843
+The First Central Bank of Xixieqi~
+   The bank is to say, at the very least, huge! People crowd the tellers at
+the far end, withdrawing and depositing hard-earned gold. Guards stand at
+several key points, monitoring the flow of traffic and ensuring everything
+flows smoothly.
+~
+48 cde 0
+R bank.lua 32
+D3
+You see the busy street of Qitiexi.
+~
+~
+0 0 4803
+S
+#4844
+The Mortuary~
+   Several neatly constructed coffins rest against the far wall, hastily
+covered up with a bundle of black cloth. Chemicals used to preserve the flesh
+and bandages used to hide the more severe of wounds sit on shelves which line
+the walls. The mortuary is, put simply, a haven of death and only those
+seeking the mortician's services should intrude into this domain.
+~
+48 cde 0
+D2
+The door leads out to Dinxi street.
+~
+~
+0 0 4818
+S
+#4847
+Yao Tai's House of Channeling~
+   You stand in a dim antechamber which is devoid of furnishings. The only
+visible exits from the room are a curtained entrance to the north and a
+narrow stairway, criss-crossed with spiderwebs which leads to the floor above.
+~
+48 cdfh 0
+D0
+The curtain is rather thick and prevents you from seeing into the street.
+~
+~
+0 0 4838
+D4
+~
+~
+0 0 4837
+S
+#4851
+An Upstairs Hallway~
+   Doors line both sides of this hallway, most likely sleeping quarters for
+the wealthier of travellers. Occasionally, a door has been left open and you
+are able to look straight through and out the window in the northern wall,
+offering a good view of the city of Xixieqi before you and in the distance,
+the trade ships which constantly stream into and out of the harbor.
+~
+48 cd 0
+D1
+The hall continues to the east.
+~
+~
+0 0 4861
+D2
+You see a bamboo doorway to the south.
+~
+~
+0 0 4852
+D3
+The hallway continues to the west.
+~
+~
+0 0 4841
+S
+#4852
+A Rented Room~
+   This spacious room is one of the many the inn has to offer to its paying
+customers. Through the window to the south, you can see the last few streets
+within the city before the great expanse of desert opens up beyond its walls.
+You return your attention to the furnishings and smile with satisfaction...the
+staw and burlap mattress appears to have been recently stuffed while the
+hooded lantern burns brightly, adding a calming glow to the room.
+~
+48 cd 0
+D0
+You can see the doorway leading to the hall.
+~
+~
+0 0 4851
+S
+#4853
+Ping Xiao's House Of Pleasure~
+   You are jostled back and forth by the massive crowd within this
+establishment. Around you, efficient staff serve all variety of food and drink
+to the many patrons. In the far corner, a polished bar has been discolored by
+the spilled whiskey and wine that still pools on the floor. Raucous shouting
+and more commotion drifts in from the north.
+~
+48 d 0
+D0
+~
+~
+0 0 4854
+D3
+~
+~
+0 0 4812
+S
+#4854
+Ping Xiao's House Of Pleasure~
+   You stand in a gallery filled with tables, rowdy people, and gamblers, each
+here to enjoy themselves in whatever activity they can participate in. There
+is a heavy scent of alcohol in the air, and there are peopled sprawled against
+the walls and lying on the ground, some passed out, some crying, and others
+barking slurred words or singing songs largely skewed by their drunkenness.
+Just as many people are standing around the tables, playing and gambling with
+huge sums of gold. A large bouncer looks at you grimly, and points at a piece
+of paper attached near the entrance.
+~
+48 de 0
+D2
+~
+~
+0 0 4853
+E
+paper note rules gamble~
+0~
++-+-Gambling 101-+-+
+You can play three different gambling games here. Two of them involve dice,
+and the last involves the Wheel of Misfortune.
+ 
+Sevens:
+This simple dice game involves the rolling of two dice. You can bet on the
+total being less than 7 (low roll), equal to 7 (seven) or greater than 7
+(high roll). Ping Xiao's gambling house pays 1:1 odds on both the low and
+high rolls, and 4:1 on the seven.
+Command usage: sevens bet low|seven|high
+ 
+SicBo:
+This dice game is slightly more complex than Sevens, but offers a much greater
+variety of betting. Use the command 'sicbo help' for detailed rules on playing,
+and read odds for a layout of Ping Xiao's gambling house odds.
+Command usage:  sicbo bet type value value
+ 
+Wheel of Misfortune:
+This strange, magical wheel is capable of applying various magical effects upon
+the spinner. Also, standard payouts are given for certain slots on the wheel.
+Costs 1000 per play. Play at your own risk.
+Command usage:  spin
+~
+E
+odds odd~
+0~
++-+- Odds -+-+
+If you win, you get payed off according to the odds of the bet you made.
+For example, if you bet 400 gold and win on a 4:1 bet, you'll win 1600
+gold.
+ 
+Sevens.
+High/Low : 1:1
+Seven    : 4:1
+ 
+Sicbo.
+Diceface : 1:1 for each dice that comes up your number
+Twoface  : 5:1
+Totals   : 60:1 if you bet on 4 or 17
+           18:1 if you bet on 5 or 16
+           14:1 if you bet on 6 or 15
+           12:1 if you bet on 7 or 14
+            8:1 if you bet on 8 or 13
+            6:1 if you bet on 9 or 12
+            6:1 if you bet on 10 or 11
+Range    : 1:1
+Triple   : 150:1, for any triple 24:1
+Anypair  : 8:1
+~
+S
+#4860
+Xixieqi City Gate~
+   You stand amongst a small crowd of people who pass through the city's
+southern gate. Merchant caravans, local traders and adventurers stop to speak
+to the gate guards, occassionally slipping them a few coins as they enter the
+city. Gazing southward, the shimmering heat of the continent's desert and salt
+flats looks less than appealing.
+~
+48 0 1
+D0
+~
+~
+0 0 4812
+D1
+~
+~
+0 0 4872
+D2
+~
+~
+0 0 6505
+D3
+~
+~
+0 0 4816
+S
+#4861
+An Upstairs Hallway~
+   Doors line both sides of this hallway, most likely sleeping quarters for
+the wealthier of travellers. The smells and sounds of the bar below float down
+the hallway as if they were an entity unto themselves and the temptation to
+join the mass of people downstairs is rather high.
+~
+48 cd 0
+D2
+You see a bamboo doorway to the south.
+~
+~
+0 0 4862
+D3
+The hall continues in that direction.
+~
+~
+0 0 4851
+S
+#4862
+A Rented Room~
+   This spacious room is one of the many the inn has to offer to its paying
+customers. Through the window to the south, you can see the last few streets
+within the city before the great expanse of desert opens up beyond its walls.
+You return your attention to the furnishings and smile with satisfaction...the
+straw and burlap mattress appears to have been recently stuffed while the
+hooded lantern burns brightly, adding a calming glow to the room.
+~
+48 cd 0
+D0
+You see the doorway leading to the hall.
+~
+~
+0 0 4861
+S
+#4864
+Ta'lon Chao's Herbs~
+   A foul smell is about all that greets you from within this store. The
+shelves on the walls boast a variety of brightly colored bottles, each
+containing a powdery substance of some descriptions. Small bundles of
+mushrooms, wild flowers and natural herbs fill a number of woven baskets
+which rest on the floor. Fresh air spills in from the opening to the west
+which is the only exit from the store.
+~
+48 cd 0
+D3
+~
+~
+0 0 4897
+S
+#4865
+Chiang Street~
+   Large cracks in the cobblestones at your feet make this area of Chiang
+street extremely unsafe given the sea of people that flow out of Maoqi Square
+to the west. This appears, however, to be of little concern to most so you
+simply shrug and continue on your way.
+   To the south, a set of bamboo doors offers entry in one of the larger
+establishments within the street which continues to the east.
+~
+48 0 1
+D1
+~
+~
+0 0 4875
+D2
+You can make out various travelling items and generic goods.
+~
+~
+0 0 4894
+D3
+~
+~
+0 0 4805
+S
+#4867
+Moo Shi's Banded Scales and Armours~
+   The armory is more a workshop than anything else. All around you, suits of
+armor made from sewn metal scales rest on wooden dummies, while scale gloves
+and bootcovers hang from strong iron hooks on the wall. Towards the rear of
+the store sits a large anvil, although you see no sign of the fire and bellows
+which should accompany it.
+~
+48 cd 0
+D3
+~
+~
+0 0 4895
+S
+#4869
+Maojeng Lane~
+   The lane is kept relatively clean to allow easy passage between the Xixieqi
+docks. Most of those creatures that pass you by, large and small, have
+associated business with the ships berthed here and have little time for the
+vendors and stores, hence there don't appear to be any nearby. Directly to the
+north, the bow of large ship protrudes over the lane itself although high
+above your head.
+~
+48 0 1
+D1
+~
+~
+0 0 4879
+D3
+~
+~
+0 0 4802
+S
+#4870
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+48 cd 0
+D1
+~
+~
+0 0 4817
+S
+#4871
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+48 cd 0
+D1
+~
+~
+0 0 4815
+S
+#4872
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+48 cd 0
+D3
+~
+~
+0 0 4860
+S
+#4873
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+48 cd 0
+D0
+~
+~
+0 0 4816
+S
+#4874
+The Dragon's Claw~
+   You stand amongst an arsenal - blades, staves and other deadly items line
+the walls and rest on the floor. Those made of metal glint with the candelight
+which illuminates this room. Even the smallest dagger appears to be have been
+honed with great skill and it may be worth some of your time to peruse the
+wares for sale here.
+~
+48 cd 0
+D2
+You see the doorway leading to the street.
+~
+~
+1 0 4875
+S
+#4875
+Chiang Street~
+   The majority of the city's fixed-base commerce appears to be completed in
+this street. It is free of the merchants and traders that wander other parts
+of the city and attracts more of the adventuring type such as yourself. To the
+north, a sign bearing two crossed daggers hangs over the entrance of one of
+the city's stores.
+~
+48 0 1
+D0
+Judging by the hanging sign out the front, this store belongs to the local
+weaponsmith.
+~
+~
+0 0 4874
+D1
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4865
+S
+#4879
+Maojeng Lane~
+   One of the city's docks extends to the north and has a constant stream of
+merchants travelling up and down its length, looking for the best price for
+their wares. Sailors, weary from their lengthy journey from across the ocean,
+hastily brush you aside as they go in search of the local tavern.
+~
+48 0 1
+D0
+~
+~
+0 0 4827
+D1
+~
+~
+0 0 4889
+D3
+~
+~
+0 0 4869
+S
+#4883
+Xixieqi Dockyard~
+   A cold, ocean breeze springs up as if you were expected. Standing at the
+end of the dock, you have an unobstructed view of the vast ocean before you
+and there isn't much to see apart from the waves. Back to the west, the dock
+enters the protection of the city walls which you can see stretching away to
+the south.
+~
+48 0 1
+D1
+~
+~
+0 0 22357
+D3
+~
+~
+0 0 4887
+S
+#4884
+Yuang Li Tao's Fine Silks~
+   Kimonos, vests, robes and other such finery adorn wooden models and shelves
+around the store in an attempt to catch the eye of the refined merchant. All
+are made of the most exquisite fabric you've ever seen, gently reflecting the
+candle light from around the room.
+~
+48 cd 0
+D2
+You see the doorway leading to the street there.
+~
+~
+0 0 4885
+S
+#4885
+Chiang Street~
+   People brush past you, ignoring you for the most part although some regard
+you more closely than others. To the north, a number of wooden crates have
+been left outside one of the city's shops, filled to the brim with fabrics
+from all corners of the world. To the south sits a small temple, dedicated to
+an unknown deity.
+~
+48 0 1
+D0
+As the crates outside suggest, the store sells clothing.
+~
+~
+0 0 4884
+D1
+~
+~
+0 0 4895
+D2
+The temple is shrouded in darkness..you will need to go inside to see.
+~
+door temple~
+1 0 4886
+D3
+~
+~
+0 0 4875
+S
+#4886
+Temple of the Ice Dragon~
+   Several men kneel before an obsidian altar, cloaked in white robes and
+bowing their heads deeply. The temple is domed, clearly showing constellations
+of the familiar summer sky. You notice one in particular, that of Pan-Lung,
+the fabled Ice Dragon. Further to that, all around you sit carvings and
+statues of the beast...perhaps the deity that these men worship.
+~
+48 cde 0
+D0
+You see the exit leading to Chiang street.
+~
+door temple~
+1 0 4885
+E
+indentation~
+0~
+As you feel for the indentation on the picture, you hear a small click. All
+of a sudden your head is filled with swirling images of dragons and blood and
+skulls and other horrific sights. Just as you feel yourself begin to black out
+you hear the word 'Danato'.
+~
+E
+altar~
+0~
+A large obsidian altar stands here, with ancient pictures engraved on its side
+depicting the dragon Pan-Lung devouring mortals. You immediately notice
+something odd about the pictures.
+~
+E
+pictures~
+0~
+Upon closer inspection you notice a small indentation on one of the pictures,
+strangely out of place.
+~
+S
+#4887
+Xixieqi Dockyard~
+   This dockyard looks relatively new, the wooden boards still bear the light
+coloring indicative of freshly cut trees. Even as you look around, city
+workers continue construction of a number of lifting devices, perhaps to
+assist in the removal of larger pieces of cargo. Further to the east, the
+rough open seas await those foolish enough to travel across them.
+~
+48 0 1
+D1
+~
+~
+0 0 4883
+D3
+~
+~
+0 0 4899
+S
+#4889
+Maojeng Lane~
+   A horse-drawn cart rolls by at a sedate pace, heavily laden with crates and
+barrels. The driver gives you a simple nod and encourages the horse onwards,
+the weight of pulling the cart requiring all of its strength by the look of
+it. Maojeng lane continues to the west and east, your passage to the north
+blocked by a docked ship.
+~
+48 0 1
+D1
+~
+~
+0 0 4899
+D3
+~
+~
+0 0 4879
+S
+#4893
+The Ban Brothers~
+   The room is filled with all types of creatures and is stocked from floor
+to ceiling in used goods. Crates litter the floor, overflowing with items
+ranging from practically unusable to relatively new.
+~
+48 cde 0
+D1
+You see the busy road of Qitiexi.
+~
+~
+0 0 4803
+S
+#4894
+Meng's General Wares~
+   Backpacks, large sacks, chests, beltpouches and torches fill the crates and
+shelves of this general purpose store. Other adventurers sort through the
+items, assembling small piles of goods to be used on their next journey. A set
+of stairs in the corner leads upstairs to another shop.
+~
+48 cd 0
+D0
+You see the door leading to Chiang street.
+~
+~
+0 0 4865
+D4
+~
+~
+0 0 4814
+S
+#4895
+Intersection of Chiang and Misa Streets~
+   You stand at the intersection of two streets, Chiang branching off to the
+west and Misa continuing to the north and south. The cobbled ground has been
+deeply worn in places from the constant use, making it quite dangerous if you
+weren't watching where you were going.
+   The clang of metal upon metal comes from the opening in the eastern wall
+and a sign above the entrance suggests the local armorer lies within.
+~
+48 0 1
+D0
+~
+~
+0 0 4898
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4897
+D3
+~
+~
+0 0 4885
+E
+sign~
+0~
+It displays a red shield, emblazoned with a golden dragon on its surface.
+~
+S
+#4896
+Misa Street~
+   The ground shakes slightly beneath your feet, the sounds of crashing waves
+coming from somewhere on the other side of the eastern wall beside which you
+are now travelling. Mito avenue leads to the west while the street continues
+to the north and south.
+~
+48 0 1
+D0
+~
+~
+0 0 4897
+D2
+~
+~
+0 0 4812
+D3
+~
+~
+0 0 4838
+S
+#4897
+Misa Street~
+   You keep close to the eastern wall in an effort to avoid the majority of
+creatures travelling along the street which continues to the north and south.
+Surprisingly, you get the odd nod or smile from a fellow adventurer but these
+are few and far between, most people focussed on other things.
+~
+48 0 1
+D0
+~
+~
+0 0 4895
+D1
+~
+~
+0 0 4864
+D2
+~
+~
+0 0 4896
+S
+#4898
+Misa Street~
+   Screams of pain pierce the air, coming from behind the curtained doorway to
+the east. It doesn't seem to have any affect on the people that pass by,
+perhaps something they're used to or expecting? Misa street continues to the
+north and south.
+~
+48 0 1
+D0
+~
+~
+0 0 4899
+D1
+The curtain prevents you from seeing inside.
+~
+~
+0 0 4833
+D2
+~
+~
+0 0 4895
+S
+#4899
+Maojeng Lane~
+   You stand at the corner of two streets, Maojeng lane to the west and Misa
+street to the south. The city's eastern wall begins here and travels into the
+distance to the south, although a large opening to the east allows access to
+one of the city's docks.
+~
+48 0 1
+D1
+~
+~
+0 0 4887
+D2
+~
+~
+0 0 4898
+D3
+~
+~
+0 0 4889
+S
+$~

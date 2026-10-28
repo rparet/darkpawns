@@ -1,0 +1,410 @@
+#19700
+rat small~
+a small rat~
+A small rat is here munching on something.
+~
+This small rat is about as disgusting as a rat can get.
+~
+dhmq k 0 E
+6 7 6d8+44 3d3
+0 734
+6 6 0
+BareHandAttack: 4
+Race: 30
+E
+#19701
+rat large carve_meat~
+a large rat~
+A large rat glares at you with its beady little eyes.
+~
+What sewer did this thing crawl up from?
+~
+dfhmq k -500 E
+15 22 15d8+174 3d4
+5 2904
+6 6 0
+BareHandAttack: 4
+Race: 30
+E
+#19702
+rat huge carve_meat~
+a huge rat~
+A huge rat lumbers in your direction.
+~
+Good God! This damn thing's been taking steroids!
+~
+dfhmq k -600 E
+21 33 21d8+288 3d5
+10 4811
+8 8 0
+BareHandAttack: 4
+Race: 30
+E
+#19703
+bat small~
+a small bat~
+The small bat squeaks and flitters about.
+~
+How cute, a mouse with wings!
+~
+dhmq fkpsA 0 E
+6 7 6d8+44 3d3
+0 734
+8 8 0
+BareHandAttack: 8
+Race: 10
+E
+#19704
+bat~
+a bat~
+A bat is here trying to tangle itself in your hair.
+~
+How cute, a fox with wings!
+~
+dfhmq fkpA -500 E
+6 7 6d8+44 3d3
+5 734
+8 8 0
+BareHandAttack: 8
+Race: 10
+E
+#19705
+bat enormous~
+an enormous bat~
+An enormous bat somehow manages to stay aloft.
+~
+How cute, a hippo with wings!
+~
+dfhmq fkpA -600 E
+9 12 9d8+81 3d3
+10 1350
+8 8 0
+BareHandAttack: 8
+Race: 10
+E
+#19706
+armor golem~
+an armor golem~
+A full suit of armor stands here, shining as if it were brand new.
+~
+Bonanza time!  This armor looks better than any you have ever seen!
+~
+bdflms k -1000 E
+39 67 39d8+730 4d5
+200 12177
+8 8 0
+Race: 25
+E
+#19707
+chest large~
+the large chest~
+You see a large chest filled to the bursting with more gold and jewels than
+you've ever seen in one place before.
+~
+Your eyes are bedazzled by the riches displayed here.
+~
+bdeflmnpqrs fkp -1000 E
+39 67 39d8+730 4d5
+300 12177
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#19708
+book old~
+the old book~
+On a small pedestal sits an old book with arcane symbols written in gold
+leaf upon the binding.
+~
+The book is quite old, and you wonder what wisdom is contained therein.
+~
+bdeflmnpqrs fkp -1000 E
+13 19 13d8+140 3d4
+300 2343
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#19709
+painting portrait~
+the beautiful painting~
+Hanging from the wall is a portrait of a beautiful woman.
+~
+The painting looks familiar, though you can't quite remember who painted it.
+~
+bdeflmnpqrs fkp -1000 E
+39 67 39d8+730 4d5
+100 12177
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#19710
+rack sword~
+the sword rack~
+A rack of swords stands against one wall.
+~
+These fine works of destructive technology are so beautiful, you almost forget
+that their main purpose in life is to hack at people and mutilate their
+bodies, possibly even kill them by puncturing vital organs or slicing through
+many layers of flesh and releasing large amounts of blood thereby dramatically
+dropping the blood pressure to the point where all activity ceases.
+~
+bdeflmnpqrs fkp -1000 E
+39 67 39d8+730 4d5
+100 12177
+8 8 0
+BareHandAttack: 3
+Race: 25
+E
+#19711
+red dragon head~
+the dragon's head~
+The head of a deceased red dragon is mounted and displayed here.
+~
+You'd hate to have had to face that thing when it was still connected to the
+rest of its body!
+~
+bdeflmnpqrs fkp -1000 E
+39 67 39d8+730 4d5
+0 12177
+8 8 0
+BareHandAttack: 4
+Race: 25
+E
+#19712
+King Seilon~
+King Seilon~
+Old King Seilon glares at you.
+~
+King Seilon is an OLD man. You wonder how he's managed to live this long! Even
+though he's so old, however, he looks tougher than shoe leather.
+~
+bcdflm h 400 E
+60 110 60d8+1394 6d6
+400 23237
+8 8 1
+Race: 0
+E
+#19713
+adventurer warrior~
+an adventurer~
+Another adventurer is here.
+~
+This warrior is also looking for the lost treasures of King Seilon.
+~
+cdhlns df 400 E
+42 73 42d8+816 5d5
+38 13609
+8 8 1
+Race: 1
+E
+#19714
+mage~
+an old mage~
+A pasty old mage is here looking very hungry.
+~
+It appears that this poor old man has been trapped down here for a LONG time.
+He has probably survived so long by eating rats!
+~
+cdhs dk -500 E
+42 73 42d8+816 5d5
+13 13609
+8 8 1
+Race: 0
+E
+#19715
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32
+E
+#19716
+undead chamberlain~
+the undead chamberlain~
+A corpse dressed in chamberlain's garb is rotting away here.
+~
+Once King Seilon's most trusted advisor, the chamberlain was kept animated
+even after death by some very strong magic indeed!
+~
+dhlnpr dfk 0 E
+60 110 60d8+1394 6d6
+100 23237
+8 8 0
+Race: 32
+E
+#19717
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+#19718
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+#19719
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+#19720
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+#19721
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+#19722
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+#19723
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+#19724
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+#19725
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+#19726
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+#19727
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+This guard was once a living member of King Seilon's court, but the spell cast
+over him years ago by King Seilon to hold his loyalty was even more powerful
+than death itself!
+~
+bdlnpr dfk -300 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 0
+Race: 32   
+E
+$

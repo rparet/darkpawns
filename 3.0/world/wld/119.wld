@@ -1,0 +1,184 @@
+#11901
+Entry Chamber~
+   This room is designed as the entry into the crypt. It is made of marble,
+and has faded paintings depicting some of Lothar's lesser deeds, along the
+walls. Two marble benches are here, one along each wall, to allow those who
+would come and pay their respects to Lothar the chance to rest and compose
+themselves before they continue.
+~
+119 ad 0
+D1
+~
+~
+0 0 11902
+D3
+~
+~
+0 0 11913
+S
+#11902
+The Grand Hall~
+   This room is decked out as a great banquet hall; a place for Lothar and his
+noble companions to have great feasts in the afterlife. There is a long table
+in the center of the room with twelve stout, wooden chairs. The table and
+chairs are all lavishly decorated with carvings of wild game. The walls
+contain displays of weapons and shields. The displays are old and rusting,
+and it is obvious that there is nothing of any value here.
+~
+119 ad 0
+D1
+~
+~
+0 0 11904
+D2
+~
+~
+0 0 11903
+D3
+~
+~
+0 0 11901
+S
+#11903
+The Kitchen~
+   This room is decked out as a kitchen. Why a crypt needs a kitchen is a
+mystery. The kitchen contains a fireplace, storage cabinets, pots and pans-
+everything that a real kitchen would have.
+~
+119 ad 0
+D0
+~
+~
+0 0 11902
+S
+#11904
+The Ballroom~
+   Apparently, whoever designed this crypt thought that dead men entertained,
+because this room is set up as a nice ballroom. Giant candle chandeliers
+dangle from the ceiling. The candles are unlit, but the candle holders
+glow with an unearthly, dark light. There are no furnishings in this room,
+but the walls are decorated with more faded paintings, showing more of
+Lothar's brave deeds.
+~
+119 ad 0
+D0
+~
+~
+0 0 11905
+D1
+~
+~
+0 0 11907
+D2
+~
+~
+0 0 11906
+D3
+~
+~
+0 0 11902
+S
+#11905
+Storage~
+   This room is used for storing goods one would need to host a party. Punch
+bowls, food trays and the like.
+~
+119 ad 0
+D2
+~
+~
+0 0 11904
+S
+#11906
+Storage~
+   This room holds all the rotting musical instruments that a group of
+minstrels might need to make dance music.
+~
+119 ad 0
+D0
+~
+~
+0 0 11904
+S
+#11907
+The Dressing Room~
+   In keeping with the house motif, this chamber is appointed as a dressing
+room. To the left of the door is a table and a dresser with a mirror hung
+over the table. A small stool is near the table. On the left side of the door
+is a chest of drawers and a wardrobe.
+~
+119 ad 0
+D1
+~
+door~
+1 0 11908
+D3
+~
+~
+0 0 11904
+S
+#11908
+The Bed Chamber~
+   This room is set up as a bed chamber. This is a very large room, perhaps
+100 feet by 100 feet. All the way at the end is a bed with a body lying on it.
+~
+119 ad 0
+D3
+~
+door~
+1 0 11907
+S
+#11909
+The Hall of Mirrors~
+   You suddenly find yourself in a brightly lit room surrounded by hundreds of
+people. You feel dizzy and disoriented. As your eyes adjust to the brightness,
+you realize that you are actually in a room filled with mirrors and the other
+figures you thought you saw are only reflections.
+~
+119 cd 0
+S
+#11913
+Under a Grate~
+   This room appears to have been crudely fashioned to provide access to
+the tomb to the east.
+~
+119 cd 0
+D1
+~
+~
+0 0 11901
+D4
+~
+grate~
+1 0 11914
+S
+#11914
+Spiritwood~
+   You stand within the dark forest, straining to see between the thick
+trees that surround you. As you walk through, brushing by the dry, dead
+leaves, your foot strikes a hard surface beneath. Brushing away the leaves,
+you find a metal grate buried beneath the leaves and twigs.
+~
+119 0 3
+D0
+~
+~
+0 0 20555
+D1
+~
+~
+0 0 20588
+D2
+~
+~
+0 0 20620
+D3
+~
+~
+0 0 20586
+D5
+~
+grate~
+1 0 11913
+S
+$~

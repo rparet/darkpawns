@@ -1,0 +1,86 @@
+#10400
+ch'eng huang shadow~
+Ch'eng-huang~
+A shadow passes before your eyes.
+~
+   Vague and mysterious, its shifting countenance makes it difficult to 
+discern this shadowy being as anything beyond humanoid. The guardian
+protector, the holy warden of disaster and catastrophe, protects all within 
+the city under its care. She grants the blessing of rain in the midst of
+drought, holds the land steadfast in the midst of an earthquake and finally,
+at the end of all things, she guides the souls of the departed to the realms
+of the gods.
+~
+denpqr dfgp 500 E
+30 49 30d8+492 4d5
+0 8215
+8 8 2
+BareHandAttack: 12
+Race: 25
+E
+#10401
+bixia yuanjin pulse light~
+Bixia Yuanjin~
+A pulse of light glides slowly past you.
+~
+   Like the rising of the great yellow orb from behind the darkest mountains,
+the bringing of light to the land at the commencement of day, this tender
+spirit blesses the birth of all creatures, as each emerges from utter darkness
+to begin life in the warmth and light of day.
+~
+denpqr dfgp 600 E
+30 49 30d8+492 4d5
+0 8215
+8 8 2
+BareHandAttack: 12
+Race: 25
+E
+#10402
+er lang hound~
+Er-lang~
+A large hound emerges from the stalks of bamboo.
+~
+   The guardian god of the Oshi sniffs and paws the ground while a low rumble
+builds at the back of its throat. Brother of the Jade Emporer, Yu-huang, and
+packleader of the Tian-gou, the Hounds of Heaven, this fearsome creature razes
+the hounds against all creatures of evil intent.
+~
+d 0 500 E
+30 49 30d8+492 4d5
+0 8215
+8 8 1
+BareHandAttack: 4
+Race: 11
+E
+#10403
+coi gold fish carve_meat~
+a coi fish~
+A golden-scaled fish glides through the still waters.
+~
+Covered in bright scales, this large fish reflects rays of golden light as
+it swims between the stalks of the waterplants.
+~
+dqz gK 200 E
+9 12 9d8+81 3d3
+10 1350
+8 8 2
+BareHandAttack: 10
+Race: 18
+E
+#10404
+chu jiang disheveled man~
+Chu Jiang~
+A disheveled man stands in your path.
+~
+   The king of the second hell, the hell of thieves and murderers, stands 
+snarling in your path. Escaped on the first day of the Third Moon, long ago,
+from that barren lake of ice, he now wanders the deepest areas of the forest,
+lurking amongst the dense shield of bamboo.
+~
+d 0 -600 E
+30 49 30d8+492 4d5
+0 8215
+8 8 1
+Race: 1
+E
+$

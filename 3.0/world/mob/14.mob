@@ -1,0 +1,169 @@
+#1400
+wizened old man enchanter~
+the Enchanter~
+A wizened old man smiles meekly at you.
+~
+He looks older than time itself and his smile has a calming influence. You
+gaze at the frail individual before you and wonder why he would choose to
+live down here.
+~
+abd df 0 E
+100 199 100d8+3000 9d9
+50 50000
+8 8 1
+BareHandAttack: 13
+Race: 0
+Script: enchanter.lua 24
+E
+#1401
+phoenix~
+a phoenix~
+A large phoenix bearing a rider swoops down upon you.
+~
+The mythical bird is very much a reality and flies towards you with great
+speed. It is rumored that such beasts can never be destroyed, able to
+regenerate themselves in the flames of a funeral pyre. There appears to be
+a rider on the phoenix, shouting commands.
+~
+defnpqz fkpA 600 E
+66 123 66d8+1608 6d6
+0 26809
+8 8 0
+BareHandAttack: 8
+Race: 9
+Noise: You notice a large bird in the distance, flames streaking behind it.
+Script: phoenix.lua 288
+E
+#1402
+antali warrior~
+an antali warrior~
+An antali warrior, now without his mount, charges towards you.
+~
+The antali warrior has sworn an oath to protect the keep from all who
+intrude, and you have been singled out as one such individual. Without his
+mount, you are now able to strike at him freely.
+~
+cdefg k 600 E
+50 89 50d8+1060 5d6
+50 17677
+8 8 1
+Race: 2
+E
+#1403
+acolyte sorcerer~
+a sorcerer's acolyte~
+An acolyte in the art of sorcery wanders by, deep in thought.
+~
+A relative newcomer to the magickal art of sorcery, the acolyte will spend
+numerous years under training before becoming a sorcerer and perhaps
+eventually, a master of sorcery.
+~
+dgn d 500 E
+54 98 54d8+1190 5d6
+20 19840
+8 8 1
+Race: 2
+E
+#1404
+sorcerer~
+a sorcerer~
+A sorcerer eyes you suspiciously but remains where he is.
+~
+The sorcerers were thought to have perished long ago but it is quite obvious
+that they still reside here and practise their magicks. The one before you
+appears to be preventing access to the stone obelisks beyond.
+~
+bdnp dk 600 E
+25 40 25d8+375 3d5
+50 6250
+8 8 1
+Race: 2
+Script: keep_sorcerer.lua 768
+E
+#1406
+ishkarim spider creature~
+an ishkarim~
+A spider-like creature advances towards you.
+~
+The ishkarim are a race of skeletal, spider-like bodied creatures topped by
+bizarre travesties of human features, long dead. They belong to the armies
+of chaos, daemonic guards created by only the most powerful Daemon Lords.
+Their presence here indicates something has gone terribly wrong...
+~
+dfq fkst -300 E
+45 79 45d8+905 5d5
+100 15093
+8 8 0
+BareHandAttack: 4
+Race: 8
+Noise: Something scurries in the darkness.
+E
+#1407
+valoran master sorceress~
+Valoran, the master sorceress~
+A sorceress of great power stares at you as if you were expected.
+~
+Having devoted her life to sorcery, Valoran has attained the highest level
+of skill and is worthy of being called a master sorceress. Even here within
+Stonekeep, your exploits around the land are known and your arrival has
+been anticipated.
+~
+bdlm dfkm 1000 E
+90 176 90d8+2561 8d8
+100 42690
+8 8 2
+Race: 2
+Script: valoran.lua 420
+E
+#1408
+bane master sorcerer~
+Bane, the master sorcerer~
+A powerful sorcerer bows deeply as you approach.
+~
+The sorcerer before you exudes power with a simple gaze. He has spent
+countless years in the study of sorcery and has attained the highest level
+possible, earning him the title master. He seems quite excited at your
+arrival.
+~
+bdlmn dfkm 1000 E
+30 49 30d8+492 4d5
+100 8215
+8 8 1
+Race: 2
+Script: bane.lua 420
+E
+#1409
+minor daemon~
+a minor daemon~
+A minor daemon roams the corridors, looking for a victim.
+~
+Minor is technically an understatement...the creature before you stands a
+few feet taller than you and has bulging muscles the likes of which you have
+ever seen. Its skin is red and its eyes are ablaze as it spots you!
+~
+defnps dfk -350 E
+66 123 66d8+1608 6d6
+20 26809
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#1410
+pyros daemon lord~
+Pyros, the Daemon Lord~
+Pyros, the Daemon Lord screams in rage.
+~
+Surrounded by flames with an evil grin on its face, Pyros stands before you.
+Known in the underworld as the Daemon Lord, Pyros is more than capable of
+destroying you in this world provided it remains within the bounds of the
+circle of summoning.
+~
+bdefnpqrt dfkE -1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 0
+BareHandAttack: 10
+Race: 13
+Script: pyros.lua 288
+E
+$

@@ -1,0 +1,135 @@
+#20300
+tree~
+a lone tree~
+A solitary tree sits in the middle of a small clearing, surrounded by stones.~
+~
+12 n 0 0
+0 0 0 0 0
+10 3 0 100 0 1
+S spiritwood_tree.lua 6
+E
+stones~
+They look just like normal stones! However, they appear to have been placed
+around the tree to form a circle.
+~
+E
+tree~
+There doesn't seem to be anything unique about the tree, apart from the fact
+that it's in the middle of the clearing by itself and surrounded by stones.
+~
+#20301
+gauntlets giant mist~
+some mist giant gauntlets~
+Some giant misty guantlets lie here.~
+~
+9 g ah 0
+3 0 0 0 4
+5 3 900 10 0 1
+A
+18 1
+A
+26 1
+A
+24 5
+#20302
+gong war~
+a war gong~
+A thin metal gong lies on the ground here.~
+$n bangs on a war gong, sending a resounding note through the air.
+~
+4 g ao 0
+30 3 2 23 3
+10 3 500 10 0 1
+A
+18 1
+A
+23 5
+A
+21 5
+#20303
+pall dark mantle~
+a dark pall~
+A ragged mantle of worn, dark cloth lies in a crumpled heap on the ground.~
+~
+15 0 ak 0
+35 0 -1 0 6
+5 3 200 15 0 1
+#20304
+mace club spiked~
+a spiked club~
+A club with large thorns attached sits nearby.~
+~
+5 0 an 0
+5 3 5 5 6
+3 2 120 45 0 1
+R
+5 1
+#20305
+dharzi medallion painted wooden~
+a Dharzi medallion~
+A simple, painted wooden medallion lies on the ground.~
+~
+8 0 ac 0
+0 0 0 0 6
+2 3 15 30 0 1
+E
+dharzi medallion painted wooden~
+It's a simple trinket, carried by the orcs of Spiritwood - it is painted
+in the colors of the Dharzi tribe.
+~
+A
+7 1
+#20306
+chest hardwood~
+a large hardwood chest~
+A large chest made of hardwood and banded mithril sits here.~
+~
+15 0 a 0
+200 15 -1 0 4
+5 3 100 100 0 1
+E
+chest hardwood~
+The chest is sturdy for a good reason - you can only assume there's
+something valuable inside!
+~
+#20307
+bush red berries~
+a bush of red berries~
+A large bush, covered in glossy-red berries moves slowly in the breeze.~
+~
+19 n a 0
+1 0 0 1 0
+3 2 10 100 120 1
+E
+bush red berries~
+There isn't much to say about the bush per se, but the berries themselves
+all have the same shape and size as if fashioned by a magickal means.
+~
+#20308
+logwood sapling~
+a logwood sapling~
+A small sapling grows from the dense forest floor.~
+~
+12 n a 0
+0 0 0 0 0
+2 3 10 100 0 1
+E
+logwood sapling~
+Although fairly small in size, you can still quite clearly make out one of the
+rare logwood trees. It's deep, red wood is commonly used in the fabrication of
+darker colored dyes.
+~
+#20309
+piece cedar tree branch embalm~
+a piece of cedar~
+A small tree branch lies on the ground.~
+~
+12 n a 0
+0 0 0 0 0
+2 3 2 100 0 1
+E
+piece cedar tree branch~
+The branch is from a cedar tree, and judging by how dry the wood is, it would
+appear that it has been here for some time.
+~
+$~

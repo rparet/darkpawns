@@ -1,0 +1,236 @@
+#3500
+anthropoid kuo-toa~
+a kuo-toa~
+A sleek, scaly anthropoid stands here with an offensive bearing.
+~
+The creature's face is elongated and fish-like, with thin, protective layers
+of skin covering its eyes. It moves with swift precision, and carries a
+viscious air.
+~
+cdf dgkt 0 E
+33 55 33d8+568 4d5
+0 9478
+8 8 0
+BareHandAttack: 10
+Race: 6
+Noise: Something moves in the distance.
+E
+#3501
+Kuo-Metha Metha creature~
+Kuo-Metha~
+A sinewy, fishlike creature is sheathed here in biotic armor.
+~
+This massive hybrid seems to be more muscular than the average kuo-toa. Its
+marked, organic gear seems to signify the warrior class. This is an obvious
+veteran, for its body is marred and disfigured from many battles.
+~
+df dgkp 0 E
+63 117 63d8+1500 6d6
+0 25002
+8 8 0
+BareHandAttack: 10
+Race: 6
+E
+#3502
+brachyura crab creature~
+a brachyura~
+An abnormal, crablike creature scurries about, minding its duties.
+~
+With abnormally-extended legs, and a tough, barbed shell, this crab-like
+creature strikes you as being both mysterious and lethal.
+~
+dfh gk 0 E
+21 33 21d8+288 3d5
+0 4811
+8 8 0
+BareHandAttack: 10
+Race: 6
+E
+#3503
+Kuo-Dun humanoid~
+Kuo-Dun~
+A seemingly laggard, yet stout humanoid stands here.
+~
+This short, stalky, humanoid resembles a dwarf. Its features are round and
+plump, yet its arms are massive and out of proportion with the rest of its
+body.
+~
+dflq dkp 0 E
+63 117 63d8+1500 6d6
+0 25002
+8 8 0
+BareHandAttack: 10
+Race: 6
+E
+#3504
+Kuo-Mythus Mythus~
+Kuo-Mythus~
+Kuo-Mythus, the unrelenting combatant, is protecting his species.
+~
+This tall, stealthy humanoid is marked as a warrior by his dull, organic
+armor. The makeshift blades that are fastened to the beast's forearms, and its
+sharp, capped teeth add to the already sinister presence of the militant
+kuo-toa.
+~
+dl dgkps 0 E
+63 117 63d8+1500 6d6
+0 25002
+8 8 0
+BareHandAttack: 10
+Race: 6
+Noise: You hear a faint groan in the distance.
+E
+#3505
+morbid larva~
+a morbid larva~
+A morbid, large-jawed larva is awaiting its prey.
+~
+This creature resembles an oversized ant-lion with thick tentacles used for
+trapping its victims. The creature seems to have been placed here for the
+purpose of consuming the crab-like creatures, and then depositing their
+glowing fluids back into the earth, via defecation.
+~
+bdefhq kt 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 0
+BareHandAttack: 1
+Race: 23
+E
+#3506
+kuo toan toa kuo-toa kuo-toan mother~
+kuo-toan mother~
+A livid, bulbous kuo-toan is guarding its eggs.
+~
+This strange female creature is somehow appealing in an odd, lustful way.
+She is naked, revealing her alien, manifold entries, apparently designed for
+pleasure.
+~
+bdef dkE 0 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 2
+BareHandAttack: 10
+Race: 6
+E
+#3568
+sound~
+a sound~
+A sound stands here.
+~
+None
+~
+bd p 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: The column to the south hums faintly.
+E
+#3569
+sound~
+a sound~
+A sound stands here.
+~
+None
+~
+bd p 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: Steam is vented from a small hole above your head.
+E
+#3570
+sound~
+a sound~
+A sound stands here.
+~
+None
+~
+bd p 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: A reflection dances on the column to the north.
+E
+#3571
+sound~
+a sound~
+A sound stands here.
+~
+None
+~
+bd p 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: The channel sways slightly.
+E
+#3572
+sound~
+a sound~
+A sound stands here.
+~
+None
+~
+bd p 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: Waves crash into the fringe to the south.
+E
+#3573
+sound~
+a sound~
+A sound stands here.
+~
+None
+~
+bd p 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: Violent waves bang into the fringe.
+E
+#3574
+sound~
+a sound~
+A sound stands here.
+~
+None
+~
+bd p 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: A school of fish flows by the observatory.
+E
+#3575
+sound~
+a sound~
+A sound stands here.
+~
+None
+~
+bd p 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: Something's moving in here.
+E
+$

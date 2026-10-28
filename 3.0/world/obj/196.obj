@@ -1,0 +1,187 @@
+#19600
+dragon fountain~
+a fountain~
+A dragon-shaped fountain spurts cool water into the air.~
+~
+0 0 0 0 0 0 0 0 0
+999999 999999 15 0 0
+1000004 1000 10100
+E
+dragon fountain~
+The water looks clear and cold, and stems froma source that can only be
+magickal in nature. The craftsmanship of the fountain is undeniably the 
+perfect stonework of dwarven craftsmen.
+~
+#19601
+finely crafted clan bulletin board~
+the NeoSunz bulletin board~
+A finely crafted bulletin board hangs from the wall.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+10 1000 10100
+E
+board~
+Type READ # to read a specific message on the board.
+~
+#19602
+statue beautiful woman nat~
+the statue of the Goddess Nat~
+A statue of the most beautiful woman you have ever seen stands here.~
+~
+0 1 0 0 0 0 0 0 0
+0 0 0 0 0
+20 1000 10100
+E
+statue beautiful woman nat~
+The statue is an interpretation of the Goddess Nat. Due to its holy
+magnificence, you are unable to determine the material from which it has been
+made. She is dressed in nothing but a flowing white robe, her lithe figure
+outlined in its silky material. Her long brown hair lies lazily down her back.
+She is the quintessence of perfection - she holds in one hand a broken sword
+representing peace and in the other hand, three smaller statues.
+
+One is a divine figure dressed in white, wielding a sacred sword with the
+writings of Nat inscribed along its shimmering blade. Another, its counterpart,
+is dressed in black and wields a long thin blade which appears to be as cold
+as ice. The third portrays a younger character whose leather whip drapes at
+his side as he looks at you with the eyes of youthful experience and
+compassion.
+~
+#19603
+pickle jar~
+a pickle jar of water~
+A cart filled with pickle jars of water sits here.~
+~
+0 0 0 0 0 0 0 0 0
+999999 999999 0 0 0
+1000004 0 10100
+#19626
+sacred chao~
+the Sacred Chao~
+Someone has left one of the Sacred Chao on the ground.~
+~
+0 65544 0 0 0 16385 0 0 0
+0 0 0 0 0
+2 100 10100
+E
+sacred chao~
+The Sacred Chao is a mystical device used very similar to a key.
+~
+#19627
+finely crafted clan bulletin board~
+the Arithrix bulletin board~
+A finely crafted bulletin board hangs from the wall.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+10 100 10100
+#19650
+titanium key~
+a titanium key~
+A key of titanium has been left here carelessly.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0
+3 100 10100
+E
+titanium key~
+It is made from a rather robust metal, suggesting it opens an equally robust
+door.
+~
+#19651
+key castle tower glass~
+a glass key~
+A glass key lies here.~
+~
+0 0 0 0 0 16385 0 0 0
+0 0 0 0 0
+1 0 0
+E
+key glass~
+Etched into the glass are the letters "MP".
+~
+#19652
+trinity bulletin board~
+the Trinity bulletin board~
+A finely crafted bulletin board hangs from the wall.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+10 0 10100
+#19653
+statue marble targhee angelfire~
+the marble statue~
+A beautiful statue of marble fills the room.~
+~
+0 1 0 0 0 0 0 0 0
+0 0 0 0 0
+10 0 10100
+E
+statue marble targhee angelfire~
+The statue has been exquisitely carved from only the finest of marble. It has
+a large square base with veins of gold coursing through it in an intricate
+pattern. The are two powerful figures side by side and a small plaque on
+the statue's base.
+~
+E
+plaque~
+It simply reads "Targhee, the holiest of mages and her guardian Angel"
+~
+#19654
+majestic throne bones~
+a throne constructed from bones~
+A majestic throne constructed from human bones sits here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+10 1000 10100
+E
+majestic throne bones~
+The throne has been crafted with great care and commands an air of respect.
+On closer inspection, you realise it has been made from the spines of male
+humans - there is a simple plaque at its base which reads "Hail to our Queen
+Whistler". Carved in neat script at the bottom corner of the plaque are the
+words "...all my love, Ravish..."
+~
+#19665
+iron key~
+an iron key~
+Someone has carelessly left an iron gate key here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0
+2 10 10100
+#19666
+crafted bulletin silent shadows bulletin board~
+the Silent Shadows bulletin board~
+A finely crafted bulletin board hangs from the wall.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+10 100 10100
+#19676
+basalt key~
+a basalt key~
+A basalt key has been carelessly left here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0
+1 10 10100
+#19677
+finely crafted bulletin board domination~
+the Domination bulletin board~
+A finely crafted bulletin boards hangs from the wall.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+100 100 10100
+#19686
+sacred idol~
+a sacred idol~
+A sacred idol has been carelessly left here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0
+2 50 10100
+$~

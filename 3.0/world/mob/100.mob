@@ -1,0 +1,145 @@
+#10021
+angry spectator~
+an angry spectator~
+An angry spectator doesn't look very happy with the game's results.
+~
+Wearing the colors of the losing team, he looks extremely pissed. Better not
+do anything to offend him.
+~
+df 0 -250 E
+15 5 -5 15d8+580 10d4+10
+20 580
+8 8 1
+Race: 0
+Noise: You hear some angry cries.
+E
+#10022
+depressed spectator~
+a depressed spectator~
+A depressed spectator looks like he's ready to go home.
+~
+Wearing the colors of the losing team, he acts like life just isn't worth
+living anymore.
+~
+d 0 250 E
+18 2 -8 18d8+763 12d4+12
+10 763
+8 8 1
+Race: 0
+E
+#10023
+excited spectator~
+an excited spectator~
+An excited spectator cheers loudly with approval.
+~
+Wearing the colors of the winning team, he's one happy go-lucky kind of guy.
+~
+d 0 350 E
+21 -1 -11 21d8+962 14d4+14
+10 962
+8 8 1
+Race: 0
+Noise: You hear some excited cheering.
+E
+#10024
+joyful spectator~
+a joyful spectator~
+A joyful spectator is dancing in the aisles.
+~
+Wearing the colors of the winning team, he's as happy as happy can be.
+~
+d 0 500 E
+18 2 -8 18d8+763 12d4+12
+8 763
+8 8 1
+Race: 0
+E
+#10025
+dedicated spectator~
+a dedicated spectator~
+A dedicated spectator is here, as usual.
+~
+Fully dressed in the colors of his favorite team, he even has all of his
+exposing skin and hair painted to those colors.
+~
+d 0 100 E
+18 2 -8 18d8+763 12d4+12
+13 763
+8 8 1
+Race: 0
+E
+#10026
+loud spectator~
+a loud spectator~
+A loud spectator shouts at the top of his lungs.
+~
+You can't tell which team he's on, but you're sure that he's the most 
+obnoxious person you've ever met.
+~
+d 0 50 E
+21 -1 -11 21d8+962 14d4+14
+5 962
+8 8 1
+Race: 0
+Noise: You hear some loud yelling.
+E
+#10027
+lion~
+a fierce lion~
+A fierce lion comes at you with a roar of hunger.
+~
+Saliva drips from his gaping jaws, and the bones showing through his silky fur
+tell you that he's been starved for just this occasion... a chance to eat you.
+~
+df fs 0 E
+24 -4 -14 24d8+1175 16d4+16
+0 1175
+8 8 1
+BareHandAttack: 8
+Race: 17
+E
+#10028
+lioness~
+a lioness~
+A lioness leaps at you with outstretched claws.
+~
+She's a beautiful animal, but her captors have turned her into a man-eater...
+and a dwarf-eater, and an elf-eater, and...
+~
+df fs 0 E
+21 -1 -11 21d8+962 14d4+14
+0 962
+8 8 2
+BareHandAttack: 8
+Race: 17
+E
+#10029
+targ troll~
+Targ~
+Targ the troll gladiator stands here, grinning at you.
+~
+Standing over 7 feet tall, Targ has been trained to kill. To kill you, in 
+particular.
+~
+cd dk -600 E
+45 -25 -35 45d8+3018 30d4+30
+95 3018
+8 8 1
+Race: 31
+Script: troll.lua 384
+E
+#10030
+elrik elf warrior~
+Elrik~
+Elrik, the elven warrior looks like he's ready to rumble.
+~
+His frail seeming features and general delicate appearance give many 
+misconceptions as to his prowess in combat. Do not be misled.
+~
+d 0 500 E
+48 -28 -38 48d8+3325 32d4+32
+160 3325
+8 8 1
+Race: 1
+E
+$

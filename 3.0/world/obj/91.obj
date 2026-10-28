@@ -1,0 +1,482 @@
+#9101
+dagger sharp~
+a sharp dagger~
+A sharp dagger has been stabbed into the ground here.~
+~
+5 0 an 0
+6 2 3 11 5
+4 1 250 100 0 1
+#9102
+poke sack cloth~
+a poke~
+A filthy scrap of cloth lies in the dirt.~
+~
+15 0 a 0
+20 0 -1 0 0
+1 3 25 30 0 1
+E
+poke sack~
+This stained and tattered old sack has seen much use and abuse. Its underside
+is covered by crudely-stitched patches.
+~
+#9103
+dagger shears crude~
+a set of shears~
+A crude set of shears has been dropped here.~
+~
+5 0 an 0
+6 1 3 3 6
+2 1 50 30 0 1
+E
+shears crude metal~
+A crude set of metal shears has been fashioned from a single piece of metal,
+bent at the center such that the ends point in roughly the same direction, and
+end parts hammered flat to form opposing blunt-ended blades.
+~
+A
+19 1
+A
+18 -1
+#9104
+cuirass goatskin~
+a goatskin cuirass~
+A breastplate of rough-looking leather lies here.~
+~
+9 0 ad 0
+8 0 0 0 4
+8 3 300 40 0 1
+E
+cuirass leather goatskin breastplate~
+A rugged suit of goatskin armor looks like it would serve you well in your
+adventures through the forest.
+~
+A
+18 1
+#9105
+firepit ring stones wood campfire~
+a firepit~
+A small ring of stones surrounds some charred pieces of wood.~
+~
+15 e 0 0
+100 0 -1 0 0
+1 3 0 100 0 1
+E
+firepit ring stones wood~
+A ring of ash-covered stones surrounds what appears to be the remains of a
+cold, but recent, campfire.
+~
+#9106
+tunic linen shirt cloth~
+a linen tunic~
+A light cloth shirt lies on the ground.~
+~
+9 0 ad 0
+2 0 0 0 3
+2 3 50 30 0 1
+E
+tunic linen shirt~
+A light tunic is cut from woven linen, roughly stitched together, and fringed
+along the lower edges.
+~
+#9107
+breeches leather~
+some leather breeches~
+A pile of soft leather lies here.~
+~
+9 0 af 0
+4 0 0 0 4
+3 3 150 30 0 1
+E
+breeches leather~
+A pair of soft, brushed-leather breeches are fashioned from the pelts of some
+small forest animal.
+~
+#9108
+brigandine coat leather plate mail~
+a brigandine~
+A heavy coat of leather-covered mail has been left here.~
+~
+9 0 ad 0
+8 0 0 0 4
+9 3 600 35 0 1
+E
+brigandine coat leather plate~
+This heavy, armored coat consists of thin, jointed scales of plate fastened
+beneath an outer covering of leather.
+~
+A
+2 1
+#9109
+brogurs shoes leather~
+a pair of brogurs~
+A pair of rough leather shoes lies here.~
+~
+9 0 ag 0
+1 0 0 0 5
+1 2 50 30 0 1
+E
+brogurs shoes leather~
+This pair of coarse shoes have been roughly stitched from untanned leather.
+They look as if they would serve well for light travel through the forests.
+~
+A
+28 1
+#9110
+sash gossamar diaphonous cloth~
+a gossamer sash~
+A swath of diaphonous cloth is strewn across the ground.~
+~
+9 ak acl c
+2 0 0 0 5
+1 3 150 30 0 1
+E
+sash gossamer cloth diaphonous~
+The fibers of this fimly cloth are blended in an irregular fashion rather
+than woven together on a loom. You are unable to see how the garment is held
+together... perhaps by magical forces?
+~
+#9111
+bracelet boar tusk bone~
+a boar's-tusk bracelet~
+A curled bone lies here.~
+~
+9 0 am 0
+2 0 0 0 5
+1 3 50 20 0 1
+E
+bone bracelet boar's tusk~
+A tightly-curled section of bone just fits around your wrist.
+~
+A
+2 1
+A
+1 1
+#9112
+woad leaf leaves~
+a woad leaf~
+A small plant, with bluish-green leaves and yellow flowers grows nearby.~
+~
+12 n a 0
+0 0 0 0 0
+2 3 25 100 0 1
+E
+plant yellow flowers~
+The plant itself is fairly unremarkable, but the leaves do seem rather odd and
+could be of use.
+~
+E
+woad leaf leaves~
+The leaves are fairly common in the forest and if combined correctly, produce
+a blue dye.
+~
+#9113
+flute reed wood thin~
+a reed flute~
+A thin piece of wood lies in the dust.~
+~
+12 agk ao 0
+0 0 0 0 3
+2 3 50 40 0 1
+E
+flute reed thin wood~
+This short bit of reed has been carefully hollowed out and polished. Along its
+length, you see wear markings across the small holes bored into its length.
+~
+A
+4 1
+#9114
+ring thorns~
+a ring of thorns~
+A twisted ring of thorns lies here.~
+~
+11 0 ab 0
+0 0 0 0 5
+1 3 100 15 0 1
+E
+ring thorns~
+A bit of thorny vine has lost all its leaves and withered into a small circle.
+It looks like it would fit nicely around your finger.
+~
+A
+19 1
+#9115
+dagger ancient~
+an ancient dagger~
+An old, well-used sacrificial dagger lies on the ground here.~
+~
+5 gi an 0
+6 2 3 11 2
+3 1 3350 30 0 1
+E
+ancient dagger druid sacrificial~
+The dagger blade is quite tarnished, and discolored by what appears to be
+flecks of dried blood. Its metal hilt is encased in a braided-leather thong.
+~
+A
+18 1
+A
+19 1
+A
+7 1
+#9116
+crack~
+a crack in the tree~
+A large dead tree stands here in the center of a clearing.~
+~
+15 en 0 0
+100 0 -1 0 0
+1 3 0 100 0 1
+S forest_tree.lua 4
+E
+crack crevice~
+You think you might just be able to squeeze your hand into the crack in the
+trunk of this old, dead tree. Hmmm... what might be in there?
+~
+E
+tree~
+This old tree is burned black, and cracked down the center, nearly to ground
+level.
+~
+#9117
+purse coin~
+a purse filled with coins~
+A small purse, stuffed with gold coins, rests in here.~
+~
+20 0 a 0
+200 0 0 0 0
+2 3 0 100 0 1
+#9119
+filament silver fiber~
+a silver filament~
+A delicate silver strand sparkles on the ground.~
+~
+12 ag ao 0
+0 0 0 0 2
+1 3 325 50 0 1
+E
+filament fiber silver strand~
+This delicate strand of silver shimmers brightly.
+~
+#9120
+oyster shell~
+an oyster shell~
+An oyster shell lays here, half-buried in sand.~
+~
+15 cdeq a 0
+10 5 1 0 0
+2 3 25 100 0 1
+E
+oyster shell~
+The oyster's shell, source of the beautiful "mother-of-pearl", is encrusted
+with barnacle growth. You wonder just how old this small creature might be.
+~
+#9121
+flawless black pearl~
+a flawless black pearl~
+A flawless black pearl rests here.~
+~
+8 0 ao 0
+0 0 0 0 0
+1 3 5000 5 0 1
+E
+black pearl~
+An exquisite black pearl glows brightly. It is extremely rare, and must be
+worth a fortune!
+~
+#9122
+white pearl~
+a white pearl~
+A perfect white pearl rests here.~
+~
+8 0 ao 0
+0 0 0 0 0
+1 3 800 20 0 1
+E
+white pearl~
+A pretty white pearl glows brightly.
+~
+#9123
+mace wooden club shillelagh~
+a wooden shillelagh~
+A heavy, wooden club rests here on the ground.~
+~
+5 b an 0
+5 3 5 5 5
+6 2 100 75 0 1
+E
+shillelagh club~
+A knotted and twisted piece of pine root has been fashioned into a sturdy
+club - a leprechaun's shillelagh.
+~
+#9124
+root white~
+a white root~
+A white, pulpy root lays here.~
+~
+10 0 a 0
+100 28 0 0 0
+1 3 600 30 0 1
+E
+root pulpy white~
+This milky, white root appears delicate, and bruises easily at your touch.
+Handle it wisely, as it may mean the difference between life and death one
+day.
+~
+#9125
+spider skin~
+a spiderskin~
+A slimy, opaque bag lies here.~
+~
+17 0 a 0
+7 7 13 0 0
+9 3 100 30 0 1
+E
+spiderskin~
+Having once encased the abdomen of a great spider, this opaque skin appears
+to have remained water-tight. Perhaps you might be able to make use of it
+in your travels.
+~
+#9126
+worm skin wormskin flesh~
+a withered wormskin~
+A mound of rotting flesh lies in the dirt.~
+~
+9 h ak 0
+6 0 0 0 5
+4 1 100 30 0 1
+E
+worm skin wormskin flesh~
+This thing feels awful and reeks to high heaven. You can't imagine wearing
+this thing except under extremely desparate circumstances. It certainly won't
+make you any friends.
+~
+A
+6 -2
+A
+2 2
+#9127
+noose vine~
+a noose~
+A leafy length of vine lies in a heap.~
+~
+11 0 ac 0
+0 0 0 0 5
+2 3 50 25 0 1
+E
+noose leafy twisted vine~
+A leafy length of green vine has twisted itself into the semblance of a
+hangman's noose... how strange.
+~
+A
+17 -2
+A
+5 -1
+#9128
+blossom purple delicate~
+a delicate purple blossom~
+A mass of purple petals glows softly here.~
+~
+1 a ao 0
+0 0 48 0 3
+1 3 100 25 0 1
+E
+blossom petals delicate flower~
+The aroma of this exquisite flower is intoxicating, and the soft glow is
+mystifying.
+~
+#9129
+mace tree trunk stump stout treetrunk~
+a stout treetrunk~
+A thick darkwood stump has been uprooted from the ground.~
+~
+5 0 an 0
+5 4 4 6 6
+15 2 50 20 0 1
+E
+tree trunk stump stout treetrunk~
+The larger end of this crude club still bears the knotted and twisted remains
+of the roots which once held the tree firmly in the earth.
+~
+#9130
+pelt wolverine rough skin~
+a wolverine pelt~
+A rough animal skin lies here.~
+~
+9 0 aq 0
+3 0 0 0 5
+5 3 100 20 0 1
+E
+pelt wolverine rough skin~
+The dark, thick fur is brown to black, and although it's not large, would
+certainly offer some protection against the elements. It looks like it would
+just fit around your waist.
+~
+#9132
+doeskin tanned leather~
+a doeskin~
+A tanned doeskin lies on the ground.~
+~
+9 0 ak 0
+2 0 0 0 4
+10 3 200 20 0 1
+E
+doeskin tanned leather~
+The tanned leather hide is soft and supple, and looks large enough to drape
+across your shoulders.
+~
+#9134
+pelt rabbit fur brown~
+a rabbit pelt~
+A small, soft fur lies here.~
+~
+12 0 a 0
+0 0 0 0 4
+2 3 50 30 0 1
+E
+pelt rabbit fur brown~
+This small brown fur is warm and soft. Although it seems to small to be useful,
+perhaps a leatherworker might combine several of them into a nice article of
+clothing.
+~
+#9136
+pelt wolf grey fur~
+a wolf pelt~
+A pelt of grey fur lies here.~
+~
+12 0 a 0
+0 0 0 0 4
+6 3 150 20 0 1
+E
+pelt wolf grey fur~
+This sleek, beautiful pelt looks like it would make a warm garment.
+~
+#9138
+oyster slippery slimy shellfish~
+a slimy oyster~
+A slippery, white oyster lies here, plucked from its shell.~
+~
+19 0 a 0
+2 0 0 0 0
+1 3 7 100 3 1
+E
+oyster slimy raw~
+It's raw and slimy, but you've heard they make decent eating. It looks a bit
+like a large white slug, but perhaps you won't notice that if you swallow it
+whole.
+~
+#9139
+map treasure parchment~
+a treasure map~
+A rolled up parchment has been left here.~
+~
+12 0 a 0
+0 0 0 0 5
+1 3 5 100 0 1
+E
+map treasure parchment~
+There's quite a bit of writing on the parchment, but none of it is legible.
+However, you can make out a particular drawing - it is of a single tree in a
+large clearing, small stones placed around the tree to form a circle. Marked
+on the drawing is a large "X" but there are no other clues.
+~
+$~

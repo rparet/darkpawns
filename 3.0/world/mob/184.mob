@@ -1,0 +1,64 @@
+#18400
+conductor~
+the Conductor~
+The Conductor stands here collecting tickets.
+~
+He looks like a normal conductor... but as you look closer you see that
+he is not normal... he has no flesh, just bones.
+~
+11 0 0 0 8 0 0 0 -500 E
+24 -4 -14 24d5+270 19d4+20
+150 35000
+8 8 1
+E
+#18401
+black undead knight~
+the Black Undead Knight~
+The Black Undead Knight is here looking for a fight.
+~
+Undefined
+~
+9 0 0 0 8 0 0 0 -600 E
+5 15 5 5d5+60 3d4+3
+0 900
+8 8 1
+E
+#18402
+red undead knight~
+the Red Undead Knight~
+The Red Undead Knight is here looking for a fight.
+~
+Undefined
+~
+9 0 0 0 0 0 0 0 -600 E
+5 15 5 5d5+60 3d4+3
+0 900
+8 8 1
+E
+#18403
+grub scavenger grubby man~
+a Grubby Scavenger Man~
+A Grubby Scavenger Man is hear scrounging up what he can.
+~
+Undefined
+~
+76 0 0 0 8 0 0 0 -50 E
+1 19 9 1d5+20 1d4+1
+4 100
+8 8 1
+E
+#18404
+shadow ghost~
+a shadow ghost~
+A whisp of air, a shadow, then nothing...
+~
+You can't see it, not really see it anyway.  There is nothing to look
+at, but you know it is there.
+~
+67688 0 0 0 67108906 0 0 0 0 E
+15 5 -5 15d5+160 15d4+15
+0 14000
+8 8 0
+BareHandAttack: 12
+E
+$

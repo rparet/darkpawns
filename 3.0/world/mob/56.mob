@@ -1,0 +1,274 @@
+#5600
+raider first draco~
+Draco, the First Desert Raider~
+Draco, the First Desert Raider, scours the desert for souls.
+~
+He seems to be little more than a rotting skeleton, held together by strong
+forces of magic. Fire glows in his empty eye sockets as he looks for souls
+to steal.
+~
+cdlnprstuz dhk -1000 E
+95 188 95d8+2777 8d9
+100 46297
+8 8 0
+Race: 32
+Script: magic_user.lua 256
+E
+#5601
+raider second sabbat~
+Sabbat, the Second Desert Raider~
+Sabbat, the Second Desert Raider, scours the desert for souls.
+~
+She seems to be little more than a rotting skeleton, held together by strong
+forces of magic. Fire glows in her empty eye sockets as she looks for souls
+to steal. A mangled bloody ribbon tied to her belt reads "Drakaan".
+~
+cdlnprtuz dhk -1000 E
+95 188 95d8+2777 8d9
+1500 46297
+8 8 2
+Race: 32
+Script: magic_user.lua 256
+E
+#5602
+raider third daemon~
+Daemon, the Third Desert Raider~
+Daemon, the Third Desert Raider, scours the desert for souls.
+~
+He seems to be little more than a rotting skeleton, held together by strong
+forces of magic. Fire glows in his empty eye sockets as he looks for souls
+to steal.
+~
+cdnprtuz dhk -1000 E
+95 188 95d8+2777 8d9
+100 46297
+8 8 0
+Race: 32
+Script: magic_user.lua 256
+E
+#5603
+raider fourth malleus~
+Malleus, the Fourth Desert Raider~
+Malleus, the Fourth Desert Raider, scours the desert for souls.
+~
+He seems to be little more than a rotting skeleton, held together by strong
+forces of magic. Fire glows in his empty eye sockets as he looks for souls
+to steal.
+~
+cdnprtuz dhks -1000 E
+93 183 93d8+2690 8d8
+800 44842
+8 8 1
+Race: 32
+Script: magic_user.lua 256
+E
+#5604
+manscorpion warrior~
+a manscorpion warrior~
+A manscorpion warrior patrols the desert.
+~
+Part-human and part-scorpion, the manscorpion is a grotesque freak of nature.
+A human torso sits atop a bony, six-legged arachnoid body. A barbed hook
+twitches nervously at the end of a long tail.
+~
+cdfuz s -20 E
+63 117 63d8+1500 6d6
+20 25002
+8 8 1
+BareHandAttack: 1
+Race: 22
+E
+#5605
+manscorpion leader~
+a manscorpion leader~
+A manscorpion leader rallies his men.
+~
+Part-human and part-scorpion, the manscorpion is a grotesque freak of nature.
+A human torso sits atop a bony, six-legged arachnoid body. A barbed hook
+twitches nervously at the end of a long tail.
+~
+cdfuz s -20 E
+69 130 69d8+1719 6d6
+60 28657
+8 8 1
+BareHandAttack: 1
+Race: 22
+E
+#5606
+manscorpion mage~
+a manscorpion mage~
+A manscorpion mage stares into the void.
+~
+Part-human and part-scorpion, the manscorpion is a grotesque freak of nature.
+A human torso sits atop a bony, six-legged arachnoid body. A barbed hook
+twitches nervously at the end of a long tail.
+~
+cdfuxz dhk -20 E
+66 123 66d8+1608 6d6
+40 26809
+8 8 1
+BareHandAttack: 1
+Race: 22
+Script: magic_user.lua 256
+E
+#5607
+golem iron black~
+a black iron golem~
+A black iron golem wanders about, aimlessly.
+~
+It's made out of... iron. It's big, it's bad, and it could probably kick your
+ass with one hand smelted behind its back.
+~
+dlnpquxz dk 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#5608
+tarantula spider~
+a tarantula~
+A giant tarantula skitters under the sand as you pass.
+~
+It's a big hairy arachnid that is probably more scared of you than you are of
+it.
+~
+dgqu fks 0 E
+21 33 21d8+288 3d5
+0 4811
+8 8 0
+BareHandAttack: 4
+Race: 8
+E
+#5609
+bulette landshark shark carve_meat~
+the bulette~
+A landshark searches the desert for something edible.
+~
+Covered in blue-grey stoney plates, the bulette - also known as a landshark -
+will eat anything, and decides to start with you!
+~
+cdfquz t -500 E
+69 130 69d8+1719 6d6
+35 28657
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#5610
+bulette landshark~
+the young bulette~
+A young landshark searches the desert for something edible.
+~
+Covered in blue-grey stoney plates, the bulette - also known as a landshark -
+will eat anything, and decides to start with you.
+~
+cdquz t -500 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#5611
+scorpion small~
+a small scorpion~
+A small scorpion scurries under the sand as you approach.
+~
+It's about four inches long, with two inch-long pinchers. It's more scared of
+you than you are of it.
+~
+dgqu fk -50 E
+9 12 9d8+81 3d3
+0 1350
+8 8 0
+BareHandAttack: 4
+Race: 8
+E
+#5612
+scorpion giant~
+a giant scorpion~
+A giant scorpion lifts a venom-dripping stinger at you.
+~
+It's about as long as you are tall, and looks quite well protected under its
+hard, chitinous carapace. A foot-long stinger drips deadly poison.
+~
+dfuz fk -300 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 4
+Race: 8
+E
+#5613
+mare horse wild~
+a wild horse~
+A wild mare sends black sand flying as she gallops past.
+~
+A study-looking horse rears and kicks as she gallops past. Her short, muscular
+legs and wide hooves make her well-suited to desert travel. She would make
+a fine mount in this arid land.
+~
+dgluv 0 0 E
+24 38 24d8+352 3d5
+0 5878
+8 8 2
+BareHandAttack: 9
+Race: 33
+E
+#5614
+baatezu sand devil~
+a baatezu~
+A horrific demon crawls across the sands.
+~
+Having no visible sign of eyes, the sand devil must have evolved some magical
+sense replacing sight. Raising its head at your approach, it definitely does
+not appear to be blind. Skin burned red to black, its crudely-humanoid form
+is stooped low to the ground - crippled by a lifetime in the blazing sun.
+~
+cdfrsuxz dfk 0 E
+72 136 72d8+1832 6d7
+0 30547
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#5615
+ant giant carnivorous insect~
+a carnivorous ant~
+An enormous insect scavenges the dunes.
+~
+Resembling the tiny creatures you often tread upon, this six-legged creature
+is closer to your own size. Ragged hair covers its chitinous body, and those
+nearest its mouth appear to contain pieces of its latest repast - the rancid
+smell of rotting flesh wafts around this giant pest. Its powerful mandibles,
+contracting slowly, look strong enough to dismember a human leg. You can see
+your own distorted reflection in its black, bulbous eyes.
+~
+cdfquz fk 0 E
+36 61 36d8+648 4d5
+0 10800
+8 8 1
+BareHandAttack: 4
+Race: 23
+E
+#5616
+cicada locust giant great~
+a giant locust~
+A great locust buzzes loudly across the sands.
+~
+The noise of this insect is deafening, and its wings kick a flurry of sand into
+your face. A brilliant green carapace covering its back, and glossy black
+covering its underside, this great cicada weaves its way slowly across the
+stinging desert sands.
+~
+cdgmqu kA 0 E
+45 79 45d8+905 5d5
+25 15093
+8 8 0
+BareHandAttack: 10
+Race: 23
+Noise: A raucous buzzing startles you.
+E
+$

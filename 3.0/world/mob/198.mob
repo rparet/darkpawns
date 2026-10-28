@@ -1,0 +1,307 @@
+#19801
+giant creature~
+a giant carnivorous creature~
+A giant carnivorous creature heads towards you.
+~
+It's difficult to see the creature, as it is underwater.  You can tell,
+however, that it's extremely large, far more large than yourself.  It could
+easily devour you if that were its intention, and it seems to be coming closer.
+~
+745678 0 0 0 8946792 0 0 0 -1000 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 6
+Noise: You hear a strange sound, almost like the splashing of water.
+E
+#19802
+mountain goat~
+a mountain goat~
+A mountain goat eyes you cautiously.
+~
+It looks peaceful, but has a few scars telling of survived battles.
+~
+2097352 0 0 0 8388608 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 1
+BareHandAttack: 4
+Race: 22
+E
+#19803
+dwarven adventurer dwarf~
+a dwarven adventurer~
+A dwarven adventurer considers the next path to take.
+~
+A dwarven adventurer looks rather young, but full of energy.  He may not be
+experienced, but could probably hold his own in a fight.
+~
+2120 0 0 0 1024 0 0 0 850 E
+17 3 -7 17d5+180 11d4+11
+12 18000
+8 8 1
+BareHandAttack: 13
+Race: 2
+E
+#19804
+dwarf child dwarven~
+a dwarven child~
+A dwarven child is playing with some twigs.
+~
+The child is probably about five years old, and looks somewhat bored.
+~
+2188 0 0 0 8389632 0 0 0 750 E
+1 19 9 1d5+20 0d4+0
+0 100
+8 8 2
+BareHandAttack: 13
+Race: 2
+E
+#19805
+elite dwarven gatekeeper dwarf~
+the elite dwarven gatekeeper~
+An elite dwarf gatekeeper keeps an eye on you and a hand on his sword.
+~
+A rather aged dwarf, the gatekeeper is not merely one who opens and closes the
+gates, but looks also like a heavily-trained warrior.  It'd perhaps be best
+not to mess with him.
+~
+22603 0 0 0 1184808 0 0 0 250 E
+29 -9 -19 29d5+370 19d4+19
+12 55000
+8 8 1
+BareHandAttack: 13
+Race: 2
+E
+#19806
+dwarven marksman~
+a dwarven marksman~
+A dwarven marksman is here, polishing his bow for the next battle.
+~
+The dwarven marksman looks to be unusually strong for a simple archer; maybe
+he has undergone other forms of battle training.  His eyes are bleak and cold,
+and he is fully concentrated in the task at hand.  You would be unfortunate at
+the end of his aim.
+~
+6154 0 0 0 8520744 0 0 0 750 E
+25 -5 -15 25d5+290 16d4+16
+20 37500
+8 8 1
+BareHandAttack: 13
+Race: 2
+E
+#19807
+elite dwarven guard dwarf~
+an elite dwarven guard~
+An elite dwarven guard stands silently, ready to destroy any foes.
+~
+The guardsman does not even seem to notice you, but constantly scans the
+surrounding areas for signs of trouble.
+~
+284939 0 0 0 1049640 0 0 0 1000 E
+30 -10 -20 30d5+390 20d4+20
+15 60000
+8 8 1
+BareHandAttack: 10
+Race: 2
+E
+#19808
+dwarven high commander~
+the dwarven high commander~
+The dwarven high commander is here, teaching war philosophy to the elite.
+~
+His forehead bears the furrows of wisdom, his body the ripples of strength,
+and his face the look of knowledge.  The commander's eyes are somewhat cold,
+as if he's killed thousands in battle before, and, judging by his appearance,
+it's easy to tell he could kill that many with no problem.
+~
+280667 0 0 0 136424 0 0 0 1000 E
+32 -12 -22 32d5+1230 21d4+21
+29 120000
+8 8 1
+BareHandAttack: 12
+Race: 2
+E
+#19809
+dwarven soldier~
+a dwarven soldier~
+A dwarven soldier is here, waiting for a war to begin.
+~
+He looks well-trained and strong, but probably isn't one of the elite.
+~
+788490 0 0 0 1049600 0 0 0 200 E
+14 6 -4 14d5+150 9d4+9
+16 12000
+8 8 1
+BareHandAttack: 13
+Race: 2
+E
+#19810
+young dwarven mother dwarf~
+a young dwarven mother~
+A young dwarven mother is here, looking for her husband in the barracks.
+~
+She looks to be about nineteen years old, and carries her baby with her.  She
+keeps looking around, trying to find her husband.
+~
+2056 0 0 0 1024 0 0 0 200 E
+5 15 5 5d5+60 2d4+2
+0 900
+8 8 2
+BareHandAttack: 13
+Race: 2
+E
+#19811
+dwarven trainee~
+a dwarven trainee~
+A dwarven trainee looks at you, and laughs.
+~
+The trainee looks very young, maybe thirteen years old.  Despite his lack of
+training and ability, he moves with an arrogant air about him.
+~
+10 0 0 0 1024 0 0 0 7 E
+7 13 3 7d5+80 3d4+3
+0 2500
+5 5 1
+BareHandAttack: 13
+Race: 2
+E
+#19812
+wealthy dwarf~
+the wealthy dwarf~
+A dwarf wearing fine clothes looks for someone to put down.
+~
+The dwarf is wearing an expensive and flashy outfit, and has a sneer on his
+face.  He looks around slowly for a poor man to laugh at.
+~
+2058 0 0 0 1024 0 0 0 -550 E
+9 11 1 9d5+100 4d4+4
+35 4500
+8 8 1
+BareHandAttack: 7
+Race: 2
+E
+#19813
+dwarven commoner dwarf~
+a dwarven commoner~
+A common dwarf looks around for work, poor but happy.
+~
+He looks like a hard worker who has had some bad luck.
+~
+8 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 2d4+2
+1 900
+8 8 1
+BareHandAttack: 13
+Race: 2
+E
+#19814
+dwarven child dwarf~
+a dwarven child~
+A young dwarven child smiles at you.
+~
+She is about seven years old, and looks very happy.
+~
+12 0 0 0 0 0 0 0 250 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 2
+BareHandAttack: 7
+Race: 2
+E
+#19815
+kaira shopkeeper adventurer~
+Kaira~
+A retired adventurer maintains her shop with pride.
+~
+She has some white hair, and looks to be about fifty years old.  Her age should
+not be deceiving however, as she was once a reknown adventurer, and can still
+probably destroy in a fight.
+~
+2058 0 0 0 0 0 0 0 1000 E
+30 -10 -20 30d5+390 20d4+20
+1150 60000
+8 8 2
+BareHandAttack: 5
+Race: 0
+E
+#19816
+barnstad armorer~
+Barnstad~
+Barnstad, one of the finest craftsmen in the world, draws a crowd here.
+~
+He gleams with sweat, not surprisingly as he is working with a quarter-ton
+hammer on some searing metals.
+~
+18442 0 0 0 135336 0 0 0 1000 E
+31 -11 -21 31d5+810 20d4+20
+37500 90000
+8 8 1
+BareHandAttack: 5
+Race: 2
+Noise: You hear the sound of a hammer hitting metal nearby.
+E
+#19817
+torm weaponsmaster master~
+Torm~
+Torm the weaponsmaster is here, working on a sharp blade.
+~
+Torm is a frighteningly strong dwarf.  You can see his muscles ripping through
+his shirt in places, and he holds a quarter-ton hammer as if it were a feather.
+~
+18442 0 0 0 136320 0 0 0 1000 E
+36 -16 -26 36d5+2910 24d4+24
+25500 363000
+8 8 1
+BareHandAttack: 2
+Race: 2
+E
+#19818
+glys shopkeeper~
+Glys~
+Glys, the shopkeeper, tries to convince you to pay too much for her goods.
+~
+She looks like a young woman, in her twenties, but is not very attractive.
+She looks sly, like she's trying to rip you off.
+~
+2058 0 0 0 1024 0 0 0 -1000 E
+24 -4 -14 24d5+270 16d4+16
+400 35000
+8 8 2
+BareHandAttack: 7
+Race: 0
+E
+#19819
+dwarven high priest dwarf~
+the dwarven high priest~
+The dwarven high priest is giving a sermon on morality.
+~
+The high priest looks like an old man, but hardly frail.  He is probably full
+of wisdom and power alike -- not a man to be messed with.
+~
+444619 0 0 0 5288 0 0 0 1000 E
+34 -14 -24 34d5+2070 22d4+22
+900 270000
+8 8 1
+BareHandAttack: 6
+Race: 2
+Noise: You hear someone shouting something about morality nearby.
+E
+#19820
+ancient dracolich~
+the ancient dracolich~
+An ancient dracolich casts a shadow over the entire area.
+~
+The dracolich rises about thirty-five to forty feet tall, and looks nothing
+short of impressive.  You notice its glowing red eyes looking towards you...
+Something tells you the end is near.
+~
+780346 0 0 0 1073915048 0 0 0 -1000 E
+35 -15 -25 35d5+2490 23d4+23
+12500 360000
+8 8 0
+BareHandAttack: 6
+Race: 19
+Noise: You hear a sound like bones hitting each other nearby.
+E
+$

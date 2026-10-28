@@ -1,0 +1,1018 @@
+#8000
+local blacksmith black smith~
+the blacksmith~
+The local blacksmith hammers away at a piece of steel.
+~
+Dripping with sweat from the roaring fire and hard work, the local blacksmith
+is responsible for repairing and maintaining all manner of items for the
+town's citizens. With bulging muscles and standing much taller than you, this
+individual is not to be messed with!
+~
+abdy df 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Noise: The sound of metal striking metal rings out clearly.
+E
+#8001
+Hans guard gateguard~
+Hans, the gateguard~
+Hans the gateguard is standing here.
+~
+Hans looks a tad constipated.
+~
+bdelp dk 700 E
+66 123 66d8+1608 6d6
+20 26809
+8 8 1
+Race: 0
+Script: take_jail.lua 384
+E
+#8002
+Franz guard gateguard~
+Franz, the gateguard~
+Franz the gateguard is leaning against the wall beside the gate.
+~
+Looking as strong and stupid as ever!
+~
+bdelp dk 700 E
+66 123 66d8+1608 6d6
+20 26809
+8 8 1
+Race: 0
+Script: take_jail.lua 384
+E
+#8003
+Darek weaponsmith~
+Darek, the weaponsmith~
+Darek the weaponsmith is gazing at you through a rack of swords.
+~
+Darek is a stout, dwarven weaponsmith of the highest caliber. His smithy work
+is insurmountable, typical of shopkeepers in a city this size.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+600000 50000
+8 8 1
+Race: 2
+E
+#8004
+Jack armorer~
+Jack, the armorer~
+Jack the armorer is here polishing his platemail.
+~
+You see a very large, very strong armorer.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+600000 50000
+8 8 1
+Race: 0
+Noise: You hear the clanging of metal from the armory.
+E
+#8005
+elderly wizard~
+the elderly wizard~
+An elderly wizard is seated at one of the far tables.
+~
+The man before you looks like a strong breeze could knock him over! Half
+asleep, his wizardly robes do little to hide his frail physique and his dark,
+green eyes are sunken back into his skull. If he did not turn and smile at
+you, you could be forgiven for believing he was dead!
+~
+bdelnpry df 1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 1
+Script: remove_curse.lua 532
+E
+#8006
+leon owner~
+Leon~
+Leon, the store owner, is busily seeing what he can do for you.
+~
+Always talking about sports, but never playing them, a tad odd you think to
+yourself.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+40000 50000
+8 8 1
+Race: 0
+E
+#8007
+Pula banker~
+Pula, the banker~
+Pula is sitting behind the counter waiting to serve you.
+~
+This is one woman you DEFINITELY don't want to rob. Though she is rather
+attractive in a hairy kinda way.
+~
+bdlnpry 0 500 E
+100 199 100d8+3000 9d9
+45955 50000
+8 8 2
+Race: 0
+Script: banker.lua 8
+E
+#8008
+Telf baker~
+Telf, the baker~
+Telf the baker stands here enjoying the dough.
+~
+Telf is not a thin fellow, but it looks as if he takes pride in his work.
+There is not a spot behind the counter, though there are small amounts of
+flour on the walls and doors where he has had to put his hands.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+100000 50000
+8 8 1
+Race: 0
+Script: baker_flour.lua 8
+E
+#8009
+Emmet~
+Emmet~
+Emmet stands against the back wall, watching you.
+~
+Emmet is a tall, lanky human in his mid-forties. Knowing your kind well, he
+watches with a wary eye as you move about his store.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+100000 50000
+8 8 1
+Race: 0
+E
+#8010
+Lawana drow elf mistress~
+Lawana Fel'Enwar~
+An outcast drow elf mistress eyes you with cold oval pupils.
+~
+Pearly-white hair sweeps down around a beautiful, dark-skinned elven face. The
+slanted eyes, common of all elves, reflect nothing of the feelings of this
+drow.
+~
+abdy f 500 E
+100 199 100d8+3000 9d9
+100000 50000
+8 8 2
+Race: 1
+E
+#8011
+Kira apothecary~
+Kira, the apothecary~
+The apothecary is here, brewing some potions.
+~
+Dressed in red, flowing robes, Kira is grinding a foul-smelling stone into
+powder.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+20000 50000
+8 8 2
+Race: 0
+E
+#8012
+belar teacher monk~
+Belar~
+A robed monk smiles at you warmly.
+~
+Fairly nondescript, the figure before you of average build and height and is
+clothed in a full-length brown cloak.
+~
+bd 0 600 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Script: teacher.lua 512
+E
+#8013
+Silencio thief guildmaster master~
+Silencio~
+A well-dressed thief stands here silently.
+~
+You realize that whenever your guildmaster moves, you fail to notice it - the
+way of the true thief. She is dressed in poor clothing, having the appearance
+of a beggar.
+~
+abdl dh 1000 E
+100 199 100d8+3000 9d9
+1001 50000
+8 8 2
+Race: 0
+E
+#8014
+Le Tal cleric guildmaster master~
+Le Tal, the master cleric~
+Le Tal the master cleric is standing here.
+~
+You have no doubt that this guildmaster is truly close to your god - he has a
+peaceful, loving look. You notice that he is surrounded by a white aura.
+~
+abdl h 1000 E
+100 199 100d8+3000 9d9
+117 50000
+8 8 1
+Race: 0
+E
+#8015
+eldrich mage sorcerer~
+Eldrich, the sorcerer~
+Eldrich the sorcerer is standing here.
+~
+Even though he looks old and tired, the sorcerer before you radiates a wealth
+of knowledge. He is wearing a set of fine, silken robes and is surrounded by
+a shimmering blue aura.
+~
+bd h 1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Script: town_teleport.lua 512
+E
+#8016
+sorcerer guildguard~
+the sorcerer~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of combative magic.
+He is here to guard the Mage's Guild, and his superior knowledge of offensive
+as well as defensive spells makes him a deadly opponent.
+~
+abdlnpr h 900 E
+100 199 100d8+3000 9d9
+147 50000
+8 8 1
+Race: 0
+E
+#8017
+knight templar guildguard~
+the knight templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the
+Faith. His duty is to protect the faithful from persecution and infidel
+attacks and his religious devotion combined with his superior skill makes
+him a deadly opponent.
+~
+abdlnpr h 1000 E
+100 199 100d8+3000 9d9
+216 50000
+8 8 1
+Race: 0
+E
+#8018
+tavern keeper guildguard~
+the tavern keeper~
+The old tavern keeper surveys you from behind the bar.
+~
+He is an old man, with many scars across his face. You notice that the few
+people who he does converse with treat him with the utmost respect and
+consideration. He looks to be quite old, but the way he moves about the tavern
+in the course of his duties shows dexterity and fluidity of motion. You get
+the impression that the tavern keeper is studying you closely, even though he
+appears totally disinterested.
+~
+abdlpr k 400 E
+100 199 100d8+3000 9d9
+181 50000
+8 8 1
+Race: 0
+E
+#8019
+warrior guildguard~
+the warrior~
+A big brute of a warrior is guarding the entrance.
+~
+He is a fighter who has specialized in killing others as effectively as
+possible, using all sorts of weapons. His superior knowledge of how and where
+to use them, combined with his extraordinary strength, makes him a deadly
+opponent.
+~
+abdlnpr 0 400 E
+100 199 100d8+3000 9d9
+255 50000
+8 8 1
+Race: 0
+E
+#8020
+guard church armored~
+a church guard~
+An armored church guard keeps an eye on the gate.
+~
+He's a holy-looking man with a pointed beard and helm to match. Though he
+works for the church (or perhaps because of that fact) there's nothing
+friendly about him as he sweeps your bloodstained apparel with a disdainful
+glance.
+~
+bdelp dk 0 E
+60 110 60d8+1394 6d6
+10 23237
+8 8 1
+Race: 0
+Script: take_jail.lua 384
+E
+#8021
+horse carve_meat~
+a horse~
+A horse stands here, flicking its tail.
+~
+It is a gelded, well-bred steed with a dark brown coat and legs trained for
+long-distance travel.
+~
+dv 0 0 E
+9 12 9d8+81 3d3
+1 1350
+8 8 0
+BareHandAttack: 9
+Race: 33
+Script: mount.lua 64
+E
+#8022
+stable stablehand~
+the stablehand~
+A stablehand stands here, brushing a horse.
+~
+He's dressed in some decent leather breeches and a matching vest. He has an
+air about him that seems to reflect his knowledge of horses, and a stench
+about him that definitely reflects his commitment to the job.
+~
+abdlnp 0 0 E
+100 199 100d8+3000 9d9
+1 50000
+8 8 1
+Race: 0
+Script: stable.lua 1
+E
+#8023
+hooker whore prostitute elf~
+a half-elven prostitute~
+A lithe blonde prostitute flaunts her wares.
+~
+Already-blonde hair has been dyed nearly white, and the skirt she's wearing
+barely covers her rump. That she was once beautiful cannot be denied, but now
+she looks more like a circus performer.
+~
+dgu 0 0 E
+3 3 3d8+15 2d3
+2 259
+8 8 2
+Race: 1
+Script: elven_prostitute.lua 18
+E
+#8024
+muntara teacher sorceress~
+Muntara~
+A sorceress sits in the corner, meditating.
+~
+Noise does not seem to affect the sorceress, as she continues her meditation
+despite the numerous sounds coming from the street. She does, however, open
+her eyes and raise her head towards you as you approach.
+~
+bd dfh 600 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 2
+Race: 0
+Script: teacher.lua 512
+E
+#8025
+ninja guildguard men-shen man~
+the men-shen~
+A large man stands here, barring your way.
+~
+The ninja guildguard appears to be an oversized human with a grim countenance
+and golden skin.
+~
+abdnpqr dkmn 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+E
+#8026
+ninja guildmaster man~
+the ninja guildmaster~
+An old, hunched man sits on a stool here, remembering the past.
+~
+He looks awfully old, but as his eyes seem to search into your soul, you
+realize he's more than he looks.
+~
+abdnpq dfkmn 0 E
+100 199 100d8+3000 9d9
+0 50000
+6 6 1
+Race: 0
+E
+#8027
+guard city guardsman guard_stationary~
+a city guard~
+A city guardsman stands watch here.
+~
+He is a young human dressed in the garb of a Cross guardsman. You guess that
+he is a neophyte, just out of training, as the job of playing glorified
+watchman is usually given to the newer members, while veterans take patrol
+or gate duty.
+~
+bdelnp dk 800 E
+48 85 48d8+997 5d5
+0 16627
+8 8 1
+Race: 0
+Script: take_jail.lua 384
+E
+#8028
+Tenar attendant girl~
+Tenar~
+The attendant is here, sorting through the donated items.
+~
+Tenar, the donation room attendant is here, sorting through the many items
+that the wealthy of Kir Drax'in have offered for those less fortunate than
+themselves.
+~
+bdenpqry d 0 E
+69 130 69d8+1719 6d6
+0 28657
+8 8 2
+Race: 1
+Script: donation.lua 64
+E
+#8029
+mercenary merc~
+a mercenary~
+A mercenary sits around, waiting to be hired.
+~
+He's dressed in ragged leather armor and carries a well-honed sword. He sees 
+you eyeing him and says, 'Give me some coins and I'll be loyal to the end.'
+~
+dgu 0 0 E
+12 17 12d8+124 3d4
+0 2078
+8 8 1
+Race: 0
+Script: mercenary.lua 66
+E
+#8030
+postman~
+the postman~
+The postman is here, shuffling through his mail.
+~
+He's liable to go postal on you at any moment.
+~
+abdnpqr 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+E
+#8031
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 1000 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#8032
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 1000 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#8033
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 1000 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#8034
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 1000 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#8035
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 1000 E
+90 176 90d8+2561 8d8
+6 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#8036
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 1000 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#8037
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 1000 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#8038
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 1000 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#8039
+clerk~
+a clerk~
+A clerk shuffles some papers around and calls it work.
+~
+He obviously works for the home office.
+~
+abdy 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Script: clerk.lua 8
+E
+#8059
+Aversin captain guard~
+Aversin, Captain of the Guard~
+Aversin, Captain of the Guard, stands here eyeing his surroundings.
+~
+Aversin is a tall, muscular human in his early forties. He strikes you as
+being a very charismatic leader - you've heard that his guard is fanatically
+devoted to him. Although he has never been ordained, his garb is the same as
+that of a Paladin of the Cross, signifying the great respect that the church
+has for him and his position.
+~
+dglms dfk 800 E
+93 183 93d8+2690 8d8
+90 44842
+8 8 1
+Race: 0
+Script: aversin.lua 400
+E
+#8060
+cityguard guard guard_ns~
+a city guard~
+A city guard patrols the wall road.
+~
+He's a strong, helpful, trustworthy guard that looks like he'd take a bribe in
+a heartbeat.
+~
+abdelnp dk 1000 E
+48 85 48d8+997 5d5
+20 16627
+8 8 1
+Race: 0
+Script: cityguard.lua 386
+E
+#8061
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+Commissioned by the church, he "volunteered" to keep the city clean, rather
+than spend a day in the stockades.
+~
+dglu 0 800 E
+3 3 3d8+15 2d3
+3 259
+8 8 1
+Race: 0
+Script: janitor.lua 74
+E
+#8062
+citizen~
+the citizen~
+A citizen is standing here.
+~
+Going about his business, the citizen keeps a wary eye out for armed visitors
+like yourself - and an even more cautious eye out for the dominating city 
+guards.
+~
+dgl 0 900 E
+3 3 3d8+15 2d3
+10 259
+8 8 1
+Race: 0
+Script: citizen.lua 18
+E
+#8063
+warg hybrid fido dog carve_meat~
+the hybrid warg~
+A hybrid warg runs the streets, looking for fresh kills.
+~
+The warg is a small animal that looks like a cross between a dog and a pig. He
+has a foul stench, and pieces of rotten meat cling to his teeth.
+~
+dhuyz k 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 1
+BareHandAttack: 4
+Race: 11
+Script: warg.lua 14
+E
+#8066
+petitioner~
+a petitioner~
+A petitioner tries to get you to sign something.
+~
+Dressed in a flowing trouser-suit, he thrusts a piece of paper under your
+nose, babbling on about signing this form to outlaw weapons in the city.
+~
+cdghnu 0 0 E
+3 3 3d8+15 2d3
+4 259
+8 8 1
+Race: 0
+Script: petitioner.lua 16
+E
+#8067
+carpenter~
+a carpenter~
+A carpenter sings loudly.
+~
+He's a balding man with a leather tool belt around his waist. You figure he's
+in town to help with the building of new shops and such.
+~
+dglu 0 400 E
+3 3 3d8+15 2d3
+6 259
+8 8 1
+Race: 0
+Script: carpenter.lua 16
+E
+#8068
+town crier~
+the town crier~
+The town crier sobs as he tells his life story.
+~
+With a tear in his eye and a sorrow torn expression, you can only feel sorry
+for him.
+~
+dghl 0 500 E
+3 3 3d8+15 2d3
+10 259
+8 8 1
+Race: 0
+Script: towncrier.lua 16
+E
+#8069
+zealot~
+a zealot~
+A zealot tells you how to be saved.
+~
+He is dressed in old, filthy clothing, and his hair is tangled and nappy. He
+wanders about the city with a crazed look in his eyes, spouting scripture from
+the book of the Cross.
+~
+dglu 0 900 E
+3 3 3d8+15 2d3
+0 259
+8 8 1
+Race: 0
+Script: zealot.lua 16
+E
+#8070
+street urchin~
+a street urchin~
+A street urchin gives you a pitiful look.
+~
+He's a shifty-looking character who keeps glancing at you out of the corner of
+his eye.
+~
+cdghnu 0 -400 E
+3 3 3d8+15 2d3
+3 259
+8 8 1
+Race: 0
+E
+#8071
+beggar~
+a beggar~
+A beggar asks for your loose change.
+~
+He's dressed in decrepit rags and his toes show through his shoes. You feel a
+twinge of pity. Almost.
+~
+cdghlnu 0 400 E
+3 3 3d8+15 2d3
+3 259
+8 8 1
+Race: 0
+Script: beggar.lua 16
+E
+#8072
+drunk~
+a singing drunk~
+A singing drunk vomits on the ground.
+~
+He looks like he had a few too many bottles of ale for breakfast this morning.
+~
+dglu 0 400 E
+3 3 3d8+15 2d3
+5 259
+8 8 1
+Race: 0
+Script: singingdrunk.lua 16
+E
+#8074
+wandering minstrel~
+a wandering minstrel~
+A wandering minstrel plays his flute.
+~
+He's an elven minstrel; traveled far from his homeland in search of the
+perfect ballad.
+~
+dghlu 0 700 E
+3 3 3d8+15 2d3
+10 259
+8 8 1
+Race: 1
+Script: minstrel.lua 16
+E
+#8076
+harga~
+Harga~
+Harga is here trying to get people to buy his ribs.
+~
+This large man can only be the famous Harga, proprietor and owner of Harga's
+House of Ribs. He looks like he's been up to his elbows in grease for a long
+time.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+1 50000
+8 8 1
+Race: 0
+E
+#8078
+Thib jeweler~
+Thib, the jeweler~
+Thib the jeweler stands here, eyeing a fine stone through a monocle.
+~
+He's a tall, red-haired man with a serious look. A sharp dagger with an
+emerald-inlaid hilt hangs from his side.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+100000 50000
+8 8 1
+Race: 0
+E
+#8079
+mime~
+a mime~
+A mime stands here, trapped in an invisible box.
+~
+Kill it! Kill it now!
+God have mercy on us all, please kill it!
+~
+dgu 0 0 E
+3 3 3d8+15 2d3
+4 259
+8 8 1
+BareHandAttack: 13
+Race: 0
+Script: mime.lua 16
+E
+#8080
+acolyte priestess~
+an acolyte priestess~
+An acolyte priestess runs errands for her mistress.
+~
+She is a young, naive thing, destined for the priesthood since birth. She
+smiles at you shyly as she hurries by on her errand.
+~
+dghu 0 600 E
+3 3 3d8+15 2d3
+0 259
+8 8 2
+Race: 0
+E
+#8081
+sorcerer apprentice~
+an apprentice sorcerer~
+A young sorcerer stands here, staring at the sights.
+~
+Obviously a tourist; he's gawking at the buildings and holding tightly onto
+his purse.
+~
+dgu 0 0 E
+3 3 3d8+15 2d3
+10 259
+8 8 1
+Race: 0
+Script: magic_user.lua 256
+E
+#8083
+psionic psionist guildguard~
+the psionic guildguard~
+A balding psionic in grey robes guards the mistress's chamber.
+~
+He stares straight forward, but you can sense his feathery probes at your
+mind as he continually searches you for signs of violence.
+~
+abdnpr 0 600 E
+100 199 100d8+3000 9d9
+50 50000
+8 8 1
+Race: 0
+E
+#8086
+berzerker tattooist~
+Berzerker, the tattoo guy~
+Berzerker grins evilly at you as you enter his shop.
+~
+No one knows exactly where he came from, or how he got here, but he makes some
+bad ass tattoos. Just as you are about to turn away from him, his face seems
+to twist into some foul mockery of a humans visage, but just as you notice it,
+it returns to normal.
+~
+abdelnpqr d 0 E
+100 199 100d8+3000 9d9
+5000 50000
+6 6 1
+Race: 0
+Script: tattoo.lua 516
+E
+#8087
+identifier Ferrenx~
+Ferrenx, the identifier~
+Ferrenx the identifier stands here, perusing an old magic book.
+~
+He's dressed in fine silk clothes, dyed white to match his bowl-cut hair and
+bushy eyebrows.
+~
+bdnpqry dhE 0 E
+100 199 100d8+3000 9d9
+1 50000
+8 8 1
+Race: 0
+Script: identifier.lua 520
+E
+#8088
+guard jail jailguard~
+the jailguard~
+A fat jailguard sits here, wiggling a loose tooth.
+~
+He's fat, ugly, and willing to take a bribe.
+~
+bd df 0 E
+87 169 87d8+2434 7d8
+20 40574
+6 6 1
+Race: 0
+Script: jailguard.lua 146
+E
+#8089
+guard~
+the guard~
+A guard is here, keeping you from going into prison.
+~
+This man came into town poor, but now works in one of the cities most
+important positions, he keeps people from wandering into jail.
+~
+bd df 0 E
+100 199 100d8+3000 9d9
+20 50000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#8093
+Tyr bartender~
+Tyr~
+Tyr stands here, tending the bar.
+~
+Once a great warrior, he's now retired to "brew the perfect cask of ale", as
+he puts it. The muscles stretching the arms of his tunic show he can still
+break up - or finish - a bar fight.
+~
+abdy 0 500 E
+90 176 90d8+2561 8d8
+10000 42690
+8 8 1
+Race: 0
+Noise: You hear the clinking of bottles from the pub to the east.
+Script: tyr.lua 16
+E
+#8095
+mortician undertaker~
+the Mortician~
+The Mortician, dressed all in black, stares at you knowingly.
+~
+Type 'Retrieve' to get your corpse back without venturing into the wilds
+NAKED!
+~
+abd 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+E
+#8096
+old guard~
+an old guard~
+An old guard stands watch here.
+~
+He is an old human, dressed in templar garb, but the heraldry on his uniform
+is like none you have ever seen. He must be a templar from an old religion the
+likes of which you have never heard. Although he looks frail and tired, there
+is still a familiar gleam in his soft, green eyes.
+~
+abdenpr 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+E
+$

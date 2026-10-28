@@ -1,0 +1,1287 @@
+#19800
+An Immortal Room~
+This is a starting point for all of us who don't need doors or walkways to get
+around.  There is a map floating in the nothingness here for some guidance.
+~
+198 524 0 0 0 0
+E
+map~
+map goes here.
+~
+S
+#19801
+A Steep Path~
+You stand on a very steep but wide path, covered with footprints and caravan
+tracks, suggesting heavy use.  The path continues to the west, but turns past
+some jagged mountain walls, making it impossible to see what lies ahead.  A
+vulture circles overhead, perhaps implying that some who travel here do not
+come back alive.
+~
+198 32768 0 0 0 5
+D1
+~
+~
+0 0 20360
+D3
+~
+~
+0 0 19802
+S
+#19802
+A Steep Path~
+The mountain path continues here, heading north and east.  It appears to get
+less rocky towards the north, heading towards some structure in the distance.
+To the east, the path gets slightly more jagged but certainly passable both by
+foot and by vehicle.
+~
+198 32768 0 0 0 5
+D0
+~
+~
+0 0 19803
+D1
+~
+~
+0 0 19801
+D2
+~
+~
+0 0 19804
+S
+#19803
+A Wide, Smooth Path~
+The path, heading north and south, bears signs of much use, including caravan
+tracks and animal footprints.  It stretches about six feet in width, allowing
+easy travel for a trade caravan and safe passage through the perilous
+mountains.  To the far north, there appears to be some kind of large structure,
+and to the south the path continues deeper into jagged terrain.
+~
+198 32768 0 0 0 4
+D0
+~
+~
+0 0 19808
+D2
+~
+~
+0 0 19802
+S
+#19804
+Atop a Dangerous Cliff~
+While a path lies to the north, all that lies south is thin air.  In fact, the
+altitude here is so great that thin cloud cover blocks visibility downward,
+making it impossible to tell what lies below.  Perhaps it is water, perhaps
+sharp rocks; in either case, the path to the north looks like a more inviting
+place.
+~
+198 32768 0 0 0 5
+D0
+~
+~
+0 0 19802
+D2
+~
+~
+0 0 19805
+S
+#19805
+Falling~
+All that surrounds you is air; there is nothing to grab hold of, nothing to
+stop your downward descent into the unknown.  Fortunately, you fell off a high
+enough altitude to enjoy what might be your last few seconds of life.  There
+is still a chance to escape by magical means, or face the abysmal mist below.
+~
+198 68 0 0 0 9
+D0
+~
+~
+0 0 19804
+D5
+~
+~
+0 0 19806
+S
+#19806
+A Small, Serene Lake~
+Fortunately, the water broke your fall, rather than some jagged rocks that
+could have been down here instead.  You seem to be in some kind of mountain
+lake, surrounded by tall cliffs.  In fact, there seems to be no way of climbing
+out of here.  The water looks rather safe and peaceful, however, but something
+seems to be moving underneath...
+~
+198 101 0 0 0 6
+D1
+A boulder lies in front of what looks to be a small cave opening.
+~
+boulder~
+1 0 19807
+S
+#19807
+A Hidden Cave~
+This cave is obviously well-hidden from the outside, as its opening is barely
+above water.  However, it rises up here, providing dry land to unfortunate
+visitors.  Through a small opening in the west, the water gets deeper and
+deeper, leading into a relatively small lake surrounded by cliffs.
+~
+198 300 0 0 0 0
+D3
+A boulder lies in front of a small opening.
+~
+boulder~
+1 0 19806
+S
+#19808
+A Wide, Smooth Path~
+The path, heading north and south, bears signs of much use, including caravan
+tracks and animal footprints.  It stretches about six feet in width, allowing
+easy travel for a trade caravan and safe passage through the perilous
+mountains.  To the far north, there appears to be some kind of large structure,
+and to the south the path continues deeper into jagged terrain.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19809
+D2
+~
+~
+0 0 19803
+S
+#19809
+A Wide, Smooth Path~
+The path, heading north and south, bears signs of much use, including caravan
+tracks and animal footprints.  It stretches about six feet in width, allowing
+easy travel for a trade caravan and safe passage through the perilous
+mountains.  To the far north, there appears to be some kind of large structure,
+and to the south the path continues deeper into jagged terrain.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19810
+D2
+~
+~
+0 0 19808
+S
+#19810
+A Wide Path~
+A wide path begins here, heading southward away from Tavlyn, to the north.  A
+set of gates protects the city from invaders, though one would think the rough
+surrounding terrain would do so.
+~
+198 32768 0 0 0 1
+D0
+A heavy set of gates protects the city from unwanted visitors.
+~
+gates~
+2 19846 19811
+D2
+~
+~
+0 0 19809
+S
+#19811
+Southern Gates of Tavlyn~
+The heavily guarded city gates, rising up almost twenty feet, protect the city
+from unwanted visitors.  The wall has a scaffold which providers a perfect
+defensive position for archers, while legions of dwarven guards stand before
+the gates.  To the north, a road continues deeper into Tavlyn.
+~
+198 4 0 0 0 1
+D0
+~
+~
+0 0 19813
+D2
+A huge set of gates protects the city from unwanted visitors.
+~
+gates~
+2 19846 19810
+D4
+~
+~
+0 0 19812
+S
+#19812
+Atop the Southern Gate~
+You are atop the southern gate, in a specially-designed scaffold for defensive
+archers.  The location is just perfect, with the city wall blocking incoming
+arrows, and niches for city archers to shoot through.  It would be an
+unfortunate situation for an invader.
+~
+198 64 0 0 0 1
+D5
+~
+~
+0 0 19811
+S
+#19813
+Lieges' Road~
+This wide road stems through the southern heart of Tavlyn, and is one of the
+main paths travelled by its legendary guardsmen.  To the south you see the
+tall city gates, and guardhouses are to the east and west.  The road continues
+northward.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19816
+D1
+~
+~
+0 0 19815
+D2
+~
+~
+0 0 19811
+D3
+~
+~
+0 0 19814
+S
+#19814
+A Guardhouse~
+You stand in a large barracks, with several tables in the center, and bunks
+on the walls.  On the tables are some maps, flanking strategies, and weapons
+analyses, but besides that the room is rather featureless.
+~
+198 294924 0 0 0 0
+D1
+~
+~
+0 0 19813
+S
+#19815
+A Guardhouse~
+You stand in a large barracks, with several tables in the center, and bunks
+on the walls.  On the tables are some maps, flanking strategies, and weapons
+analyses, but besides that the room is rather featureless.
+~
+198 32780 0 0 0 0
+D3
+~
+~
+0 0 19813
+S
+#19816
+Lieges' Road~
+This wide road stems through the southern heart of Tavlyn, and is one of the
+main paths travelled by its legendary guardsmen.  To the south you see the
+tall city gates, and guardhouses are to the east and west.  The road continues
+northward.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19819
+D1
+~
+~
+0 0 19818
+D2
+~
+~
+0 0 19813
+D3
+~
+~
+0 0 19817
+S
+#19817
+A Guardhouse~
+You stand in a large barracks, with several tables in the center, and bunks
+on the walls.  On the tables are some maps, flanking strategies, and weapons
+analyses, but besides that the room is rather featureless.
+~
+198 32780 0 0 0 0
+D1
+~
+~
+0 0 19816
+S
+#19818
+A Guardhouse~
+You stand in a large barracks, with several tables in the center, and bunks
+on the walls.  On the tables are some maps, flanking strategies, and weapons
+analyses, but besides that the room is rather featureless.
+~
+198 32780 0 0 0 0
+D3
+~
+~
+0 0 19816
+S
+#19819
+Lieges' Road~
+This wide road stems through the southern heart of Tavlyn, and is one of the
+main paths travelled by its legendary guardsmen.  To the south you see the
+tall city gates, and guardhouses are to the east and west.  The road continues
+northward.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19822
+D1
+~
+~
+0 0 19821
+D2
+~
+~
+0 0 19816
+D3
+~
+~
+0 0 19820
+S
+#19820
+A Guardhouse~
+You stand in a large barracks, with several tables in the center, and bunks
+on the walls.  On the tables are some maps, flanking strategies, and weapons
+analyses, but besides that the room is rather featureless.
+~
+198 32780 0 0 0 0
+D1
+~
+~
+0 0 19819
+S
+#19821
+A Guardhouse~
+You stand in a large barracks, with several tables in the center, and bunks
+on the walls.  On the tables are some maps, flanking strategies, and weapons
+analyses, but besides that the room is rather featureless.
+~
+198 32780 0 0 0 0
+D3
+~
+~
+0 0 19819
+S
+#19822
+A Three-Way Intersection~
+Three roads meet here, what looks like it might be the center of the city.  The
+southern road goes through a heavily-guarded district towards the city gates.
+To the north, a road leads into what appears to be a residential district.  To
+the east, you see a marketplace.
+~
+198 32772 0 0 0 1
+D0
+~
+~
+0 0 19823
+D1
+~
+~
+0 0 19836
+D2
+~
+~
+0 0 19819
+S
+#19823
+Commoners' Way~
+This road leads through a residential area, lined with homes.  Some of them are
+large, some small and ugly, suggesting a variety of different classes live in
+the same area.  To the north and south, the road continues.
+~
+198 32768 0 0 0 0
+D0
+~
+~
+0 0 19825
+D1
+~
+~
+0 0 19824
+D2
+~
+~
+0 0 19822
+S
+#19824
+A Large, Extravagant Home~
+You are in an expensive-looking house, draped with paintings and other works
+of art.  A family of eight could probably live comfortably here, though it
+doesn't appear that so many live here.  Whoever does live here, though, must
+have quite some wealth.
+~
+198 32776 0 0 0 0
+D3
+~
+~
+0 0 19823
+S
+#19825
+Commoners' Way~
+This road leads through a residential area, lined with homes.  Some of them are
+large, some small and ugly, suggesting a variety of different classes live in
+the same area.  To the north and south, the road continues.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19827
+D1
+~
+~
+0 0 19826
+D2
+~
+~
+0 0 19823
+S
+#19826
+A Small Commoner's Home~
+This house looks barely big enough to allow two people to live comfortably, but
+it looks like four or five live here.  The walls are falling apart in some
+places, and even though the residents have kept it neat, the room still looks
+horrible.  You can't help but feel sorry for the people who live here.
+~
+198 32776 0 0 0 0
+D3
+~
+~
+0 0 19825
+S
+#19827
+Commoners' Way~
+This road leads through a residential area, lined with homes.  Some of them are
+large, some small and ugly, suggesting that a variety of different classes live
+in the same area.  To the south and east, the road continues.
+~
+198 32768 0 0 0 1
+D1
+~
+~
+0 0 19828
+D2
+~
+~
+0 0 19825
+S
+#19828
+Commoners' Way~
+This road leads through a residential area, lined with homes.  Some of them are
+large, some small and ugly, suggesting that a variety of different classes live
+in the same area.  To the east and west, the road continues.
+~
+198 32768 0 0 0 1
+D1
+~
+~
+0 0 19830
+D2
+~
+~
+0 0 19829
+D3
+~
+~
+0 0 19827
+S
+#19829
+A Small Commoner's Home~
+This house looks barely big enough to allow two people to live comfortably, but
+it looks like four or five live here.  The walls are falling apart in some
+places, and even though the residents have kept it neat, the room still looks
+horrible.  You can't help but feel sorry for the people who live here.
+~
+198 32776 0 0 0 0
+D0
+~
+~
+0 0 19828
+S
+#19830
+Commoners' Way~
+This road leads through a residential area, lined with homes.  Some of them are
+large, some small and ugly, suggesting that a variety of different classes live
+in the same area.  To the east and west, the road continues.
+~
+198 32768 0 0 0 1
+D1
+~
+~
+0 0 19832
+D2
+~
+~
+0 0 19831
+D3
+~
+~
+0 0 19828
+S
+#19831
+A Small Commoner's Home~
+This house looks barely big enough to allow two people to live comfortably, but
+it looks like four or five live here.  The walls are falling apart in some
+places, and even though the residents have kept it neat, the room still looks
+horrible.  You can't help but feel sorry for the people who live here.
+~
+198 32776 0 0 0 0
+D0
+~
+~
+0 0 19830
+S
+#19832
+Commoners' Way~
+This road leads through a residential area, lined with homes.  Some of them are
+large, some small and ugly, suggesting that a variety of different classes live
+in the same area.  To the east and west, the road continues.
+~
+198 32768 0 0 0 1
+D1
+~
+~
+0 0 19834
+D2
+~
+~
+0 0 19833
+D3
+~
+~
+0 0 19830
+S
+#19833
+A Large, Wealthy Home~
+You are in an expensive-looking house, draped with paintings and other works
+of art.  A family of eight could probably live comfortably here, though it
+doesn't appear that so many live here.  Whoever does live here, though, must
+have quite some wealth.
+~
+198 32776 0 0 0 0
+D0
+~
+~
+0 0 19832
+S
+#19834
+Commoners' Way~
+The road turns here, heading west and south.  To the west, it continues into
+a residential area, while to the south it heads into a large marketplace.
+~
+198 32768 0 0 0 1
+D2
+~
+~
+0 0 19835
+D3
+~
+~
+0 0 19832
+S
+#19835
+Commoners' Way~
+A road begins here, leading out of the marketplace to the south.  It appears to
+enter a residential area to the north.  Travellers from other cities and
+residents of Tavlyn alike continuously walk by.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19834
+D2
+~
+~
+0 0 19842
+S
+#19836
+Tavlyn Marketplace~
+You are on the western side of a large marketplace.  It's almost hard to hear
+yourself think with all the noise made by the various travellers and cityfolk
+nearby.  It's somewhat unusual for dwarves to have such a bustling trade
+economy; usually, they would resort to mining.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19837
+D1
+~
+~
+0 0 19838
+D3
+~
+~
+0 0 19822
+S
+#19837
+Kaira's Adventuring Supplies~
+This is a medium-sized shop, but is arranged so compactly that it feels
+uncofortably small.  Various tools lie on shelves and tables, and look useful;
+the prices aren't too bad, either.
+~
+198 32776 0 0 0 0
+D1
+~
+~
+0 0 19839
+D2
+~
+~
+0 0 19836
+S
+#19838
+Tavlyn Marketplace~
+You are on the western side of a large marketplace.  It's almost hard to hear
+yourself think with all the noise made by the various travellers and cityfolk
+nearby.  It's somewhat unusual for dwarves to have such a bustling trade
+economy; usually, they would resort to mining.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19839
+D2
+~
+~
+0 0 19843
+D3
+~
+~
+0 0 19836
+S
+#19839
+Tavlyn Marketplace~
+You are on the western side of a large marketplace.  It's almost hard to hear
+yourself think with all the noise made by the various travellers and cityfolk
+nearby.  It's somewhat unusual for dwarves to have such a bustling trade
+economy; usually, they would resort to mining.
+~
+198 32768 0 0 0 0
+D0
+~
+~
+0 0 19840
+D1
+~
+~
+0 0 19844
+D2
+~
+~
+0 0 19838
+D3
+~
+~
+0 0 19837
+S
+#19840
+Tavlyn Marketplace~
+You are on the western side of a large marketplace.  It's almost hard to hear
+yourself think with all the noise made by the various travellers and cityfolk
+nearby.  It's somewhat unusual for dwarves to have such a bustling trade
+economy; usually, they would resort to mining.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19842
+D2
+~
+~
+0 0 19839
+D3
+~
+~
+0 0 19841
+S
+#19841
+Barnstad's Armoury~
+The dwarven reputation for fine craftsmanship is easily represented here.  A
+suit of platinum armor on one wall shines beautifully, while other examples of
+dwarven armours are on display nearby.  An open doorway to the east leads into
+a busy marketplace.
+~
+198 32776 0 0 0 0
+D1
+~
+~
+0 0 19840
+S
+#19842
+Tavlyn Marketplace~
+You are on the western side of a large marketplade.  It's almost hard to hear
+yourself think with all the noise made by the various travellers and cityfolk
+nearby.  It's somewhat unusual for dwarves to have such a bustling trade
+economy; usually, they would resort to mining.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19835
+D1
+~
+~
+0 0 19846
+D2
+~
+~
+0 0 19840
+S
+#19843
+Torm's Weaponry~
+You stand in a large, well-kept weapons shop.  There are specimens on display
+of everything from scimitars to warhammers, and it's compelling you to buy
+something.  However, the prices, like the craftsmanship, are beyond normal.
+~
+198 32776 0 0 0 0
+D0
+~
+~
+0 0 19838
+S
+#19844
+Tavlyn Marketplace~
+You are in the middle of a large marketplace.  It's almost hard to hear
+yourself think with all the noise made by the various travellers and cityfolk
+nearby.  It's somewhat unusual for dwarves to have such a bustling trade
+economy; usually, they would resort to mining.
+~
+198 32768 0 0 0 1
+D0
+~
+~
+0 0 19845
+D1
+~
+~
+0 0 19847
+D3
+~
+~
+0 0 19839
+S
+#19845
+Rings n' Things~
+You are in a rather small shop, one which looks hardly suited for a weaponry
+or armoury.  In fact, it's less than a jewelry store, selling only small rings
+and other trinkets.
+~
+198 32776 0 0 0 0
+D2
+~
+~
+0 0 19844
+S
+#19846
+A Large Altar~
+You stand before a large altar surrounded by seats.  This appears to be the
+dwarves' main religious sanctuary, and it looks very safe here, as if the gods
+themselves were watching over.  In fact, this appears to be a remarkable place
+to take a rest.
+~
+198 262228 0 0 0 0
+D3
+~
+~
+0 0 19842
+S
+#19847
+An Abandoned Road~
+You stand on a wide dirt road with many faded cart tracks and footprints.  For
+some reason, there are no tracks that appear to be recent at all.  The road
+continues to the east and west.
+~
+198 68 0 0 0 1
+D1
+~
+~
+0 0 19848
+D3
+~
+~
+0 0 19844
+S
+#19848
+An Abandoned Road~
+You stand at the end of a wide dirt road.  There are only faded cart tracks and
+footprints on the rough ground, suggesting no recent use.  The entrance to an
+old mine stands before you, and the road continues west back into town.
+~
+198 0 0 0 0 1
+D3
+~
+~
+0 0 19847
+D5
+~
+~
+0 0 19849
+S
+#19849
+An Abandoned Mine Entrance~
+This is the entrance to some old dwarven mines.  For some reason, it has not
+just been shut down, but cut off completely by a massive iron barrier.  It does
+not appear that anyone has been here recently, and perhaps it is avoided for
+good reason.
+~
+198 0 0 0 0 1
+D1
+A huge iron barrier is in place to prevent anyone from entering the mines (or
+someone from getting out?)
+~
+barrier~
+1 0 19850
+D4
+~
+~
+0 0 19848
+S
+#19850
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 301 0 0 0 0
+D1
+~
+~
+0 0 19851
+D3
+A huge iron barrier is in place to prevent access to the mines (or to the
+outside world?)
+~
+barrier~
+1 0 19849
+S
+#19851
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19854
+D1
+~
+~
+0 0 19852
+D3
+~
+~
+0 0 19850
+S
+#19852
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D3
+~
+~
+0 0 19851
+D5
+~
+~
+0 0 19853
+S
+#19853
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19859
+S
+#19854
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19855
+D2
+~
+~
+0 0 19851
+S
+#19855
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19856
+D2
+~
+~
+0 0 19854
+S
+#19856
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D1
+~
+~
+0 0 19858
+D2
+~
+~
+0 0 19855
+D3
+~
+~
+0 0 19857
+S
+#19857
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D1
+~
+~
+0 0 19856
+S
+#19858
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D3
+~
+~
+0 0 19856
+S
+#19859
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19860
+D2
+~
+~
+0 0 19853
+S
+#19860
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D1
+~
+~
+0 0 19862
+D2
+~
+~
+0 0 19859
+D3
+~
+~
+0 0 19861
+S
+#19861
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D1
+~
+~
+0 0 19860
+D5
+~
+~
+0 0 19863
+S
+#19862
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D3
+~
+~
+0 0 19860
+S
+#19863
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D1
+~
+~
+0 0 19864
+D2
+~
+~
+0 0 19866
+S
+#19864
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D2
+~
+~
+0 0 19865
+D3
+~
+~
+0 0 19863
+D5
+~
+~
+0 0 19867
+S
+#19865
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19864
+D3
+~
+~
+0 0 19866
+S
+#19866
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19863
+D1
+~
+~
+0 0 19865
+S
+#19867
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D2
+~
+~
+0 0 19868
+S
+#19868
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19867
+D2
+~
+~
+0 0 19869
+D3
+~
+~
+0 0 19870
+S
+#19869
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19868
+S
+#19870
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 0 0 0 0 0
+D1
+~
+~
+0 0 19868
+D3
+~
+~
+0 0 19871
+S
+#19871
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19873
+D1
+~
+~
+0 0 19870
+D2
+~
+~
+0 0 19872
+S
+#19872
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D0
+~
+~
+0 0 19871
+S
+#19873
+An Abandoned Mineshaft~
+This used to be an active dwarven mine, but was shutdown for some reason.  It
+must have been a pretty important reason, though, for a dwarven town to close
+its main money-maker.  Somehow, you have a bad feeling about going deeper into
+the pitch-black mines.
+~
+198 297 0 0 0 0
+D2
+~
+~
+0 0 19871
+D5
+~
+~
+0 0 19874
+S
+#19874
+An Obsidian Chamber~
+The mines have led to this chamber deep beneath the ground, made entirely of
+obsidian.  The mines lie far, far above, impossible to reach from here.  The
+chamber is rather small, but certainly less chlostrophobic than the tight mine
+shafts.  You sense that something evil lives far down here.
+~
+198 121 0 0 0 0
+D4
+~
+~
+0 0 19873
+S
+#19875
+An Obsidian Hallway~
+You have appeared in a hallway also made only of obsidian.  There appears to be
+no way back to the familiarity of the chamber or the mines, and something tells
+you danger is near.  Walls surround you in all directions except north, where
+a huge group of undead, certainly many more than one could fight, have gathered
+to block your passage.  Together, perhaps, the wise man and the strong man can
+conquer.
+~
+198 105 0 0 0 0
+S
+#19876
+A Bone-Filled Lair~
+You are in a massive room, perhaps a hundred feet wide and a hundred long,
+filled almost entirely with a layer of bones, from those of animals to those of
+humanoids.  You have a feeling that strong adventurers have come here before,
+and never made it back.
+~
+198 73 0 0 0 0
+S
+$~

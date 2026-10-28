@@ -1,0 +1,282 @@
+#4600
+Spandaramet~
+Spandaramet~
+Spandaramet glides through the swamp in search of lost souls.
+~
+A fallen goddess of this world and of the next, ancient texts refer to her as
+'matron of the dead'. In some cultures, her name synonymous with 'hell'.
+~
+dfglnpqs dfgk 700 E
+60 110 60d8+1394 6d6
+10 23237
+8 8 2
+BareHandAttack: 12
+Race: 12
+E
+#4601
+naga Ananta~
+the naga Ananta~
+A large naga slithers here.
+~
+Half man and half snale, the nagas are closely related to the Ssaurs and are
+thought to bring both fertility and disaster.
+~
+dfgl gt -500 E
+54 98 54d8+1190 5d6
+10 19840
+8 8 0
+BareHandAttack: 4
+Race: 29
+Noise: Something slithers beneath your feet.
+E
+#4602
+Vasuki naga~
+the naga Vasuki~
+A large naga slithers here.
+~
+Half man and half snale, the nagas are closely related to the Ssaurs and are
+thought to bring both fertility and disaster.
+~
+dfglq gt -500 E
+54 98 54d8+1190 5d6
+10 19840
+8 8 0
+BareHandAttack: 4
+Race: 29
+Noise: Something slithers beneath your feet.
+E
+#4603
+daeva~
+a daeva~
+A daeva stands here.
+~
+Daevas are a form of daemon, they bring plague and disease to every corner of
+the world. They are strongly opposed to all forms of religion.
+~
+defglnp dfgt -1000 E
+48 85 48d8+997 5d5
+10 16627
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#4604
+daeva~
+a daeva~
+A daeva stands here.
+~
+Daevas are a form of daemon, they bring plague and disease to every corner of
+the world. They are strongly opposed to all forms of religion.
+~
+defglnp dfgt -1000 E
+48 85 48d8+997 5d5
+10 16627
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#4605
+water daemon Gandarewa weird~
+Gandarewa~
+A strange entity made of water rises up from the muck!
+~
+Gandarewa is more a collection of water particles than anything else, able to
+take on both a liquid and solid form.
+~
+defglnpqr bdfgkp 0 E
+57 104 57d8+1291 5d6
+10 21517
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#4606
+Cao Guo-jiu Guo jiu~
+Cao Guo-jiu~
+Cao Guo-jiu stands here.
+~
+Cao Guo-jiu is one of the Ba Xian... an immortal saint and sage.
+~
+defglnp dfgkt 0 E
+48 85 48d8+997 5d5
+10 16627
+8 8 0
+BareHandAttack: 12
+Race: 12
+E
+#4607
+He-Xian-gu He Xian gu~
+He-Xian-gu~
+He-Xian-gu stands here.
+~
+He-Xian-gu is one of the Ba Xian.. an immortal saint and sage.
+~
+defglnp dfgkt 500 E
+57 104 57d8+1291 5d6
+50 21517
+8 8 0
+BareHandAttack: 12
+Race: 12
+E
+#4608
+Lan Cai-he cai he~
+Lan Cai-he~
+Lan Cai-he stands here.
+~
+Lan Cai-he is one of the Ba Xian... an immortal saint and sage.
+~
+defglnp dfgkt 400 E
+48 85 48d8+997 5d5
+50 16627
+8 8 0
+BareHandAttack: 12
+Race: 12
+E
+#4609
+Zhong-Li-Quan zhong li quan~
+Zhong-Li-Quan~
+Zhong-Li-Quan stands here.
+~
+Zhong-Li-Quan is one of the Ba Xian.. an immortal saint and sage.
+~
+defglnp dfgkt 500 E
+45 79 45d8+905 5d5
+50 15093
+8 8 0
+BareHandAttack: 12
+Race: 12
+E
+#4610
+Aatxe inhuman beast minotaur~
+Aatxe~
+A large, inhuman beast stands before you.
+~
+Aatxe is a minotaur; half man and half bull. His kind has been shunned from
+society, and he has ended up here.
+~
+dfgl dgk -500 E
+45 79 45d8+905 5d5
+50 15093
+8 8 1
+BareHandAttack: 12
+Race: 22
+E
+#4611
+Xindhi~
+a Xindhi~
+A Xindhi stands here.
+~
+The Xindhi are elven in origin although long since removed due to breeding.
+~
+dfgl dgk 0 E
+48 85 48d8+997 5d5
+50 16627
+8 8 1
+Race: 1
+E
+#4612
+Xindhi~
+a Xindhi~
+A Xindhi stands here.
+~
+The Xindhi are elven in origin although long since removed due to breeding.
+~
+dfgl dgk 0 E
+48 85 48d8+997 5d5
+50 16627
+8 8 2
+Race: 1
+E
+#4613
+Fenrir wererat~
+Fenrir~
+Fenrir snarls at you.
+~
+Fenrir is an enormous wererat with sharp teeth and a keen sense of smell. Its
+powers are amplified during full moon phases.
+~
+dfglnpqs dfgk -800 E
+60 110 60d8+1394 6d6
+50 23237
+8 8 0
+BareHandAttack: 4
+Race: 24
+Script: werewolf.lua 256
+E
+#4614
+Chimera~
+a Chimera~
+A vicious Chimera rears its heads toward you.
+~
+The chimera is an animal with the head of a lion, the body of a she-goat, and
+the tail of a dragon.
+~
+dfgl dghk -1000 E
+48 85 48d8+997 5d5
+50 16627
+8 8 2
+BareHandAttack: 12
+Race: 22
+Noise: You hear a ferocious snarling nearby.
+E
+#4615
+Bolla carve_meat~
+Bolla~
+Bolla stands here.
+~
+Bolla is a snake-like creature that sleeps for an entire year, only to wake up
+and devour whatever it looks upon. Fortunately, this one seems blind.
+~
+dfglq abdgkt -500 E
+48 85 48d8+997 5d5
+50 16627
+8 8 0
+BareHandAttack: 4
+Race: 29
+Noise: Something slithers through the swamp water.
+E
+#4616
+Kulshedra~
+Kulshedra~
+Kulshedra scours the swamp in search of its next meal.
+~
+Kulshedra is a dragonesque creature with nine tongues and big, pointy fangs.
+~
+dfglqs dgk 0 E
+54 98 54d8+1190 5d6
+50 19840
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#4617
+Iya storm dark cloud~
+Iya~
+A dark storm cloud begins to form before your eyes.
+~
+This storm seems almost sentient as it grows in size, and begins moving
+towards you.
+~
+defglnpqr dfgkp -500 E
+57 104 57d8+1291 5d6
+50 21517
+8 8 0
+BareHandAttack: 12
+Race: 15
+Noise: The wind seems to get stronger here.
+E
+#4618
+humanoid larva~
+a larva~
+A humanoid larva moves slowly through the swampy waters.
+~
+Half man, half worm, the larva is about to hatch into something unspeakable.
+~
+dmu g -90 E
+9 12 9d8+81 3d3
+0 1350
+8 8 0
+BareHandAttack: 10
+Race: 0
+E
+$

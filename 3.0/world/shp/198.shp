@@ -1,0 +1,104 @@
+CircleMUD v3.0 Shop File~
+#19801~
+19807
+19826
+19827
+-1
+1.10
+0.90
+11
+15
+17
+7
+18
+-1
+%s Sorry hun, I don't have any of those.~
+%s What you trying to pull, hun?  You don't have that.~
+%s Sorry, hun, I don't trade in those things.~
+%s Sorry, hun, I have no money left.~
+%s Sorry, hun, you can't afford that.~
+%s That'll be %d coins, hun.  Thanks, and come again.~
+%s I'll give you %d coins for that, hun.~
+0
+0
+19815
+2
+19837
+-1
+0
+28
+0
+0
+#19802~
+-1
+1.10
+0.75
+9
+11
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+19816
+2
+19841
+-1
+0
+28
+0
+0
+#19803~
+-1
+1.15
+0.70
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+1
+19817
+0
+19843
+-1
+0
+28
+0
+0
+#19804~
+19838
+19839
+-1
+1.60
+0.40
+8
+18
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+19818
+0
+19845
+-1
+0
+28
+0
+0
+$~

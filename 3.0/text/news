@@ -1,0 +1,40 @@
+----------------------------------------------------------------12.09.2005--
+
+Major update: Combat System
+ * Hit/miss calculation improved
+ * Weapons scaled based on damage done and combat speed
+ * Most previously reported bugs
+
+* Treasure items now load properly...go find 'em!
+* The newbie command is no more, gossip to your heart's content.
+* Proper display of extra descriptions (for objs) for MXP clients.
+* Keys should start appearing more often, based on their load rate.
+* Non-castable spells should now work as advertised.
+* Ferrenx should return your identified items normally, or drop them on
+  the ground if your hands are full.
+* Containers should be fixed - please see a staff member to get them
+  replaced!
+* Your stats have been reduced by 5 points each to align with the new
+  system being put in place.
+
+----------------------------------------------------------------10.13.2005--
+
+Happy Halloween!
+
+We've added some new spells and skills: Group protection from evil and
+good, entrapment and refuge. Keep the ideas coming!
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------10.13.2005--
+
+Bug fixes continue! Thanks to everyone that keeps reporting bugs!
+
+We now have some web forums up at http://www.darkpawns.com/forums
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------10.01.2005--
+
+3.0 Beta is here! Expect a number of changes over the coming weeks as a
+lot of the remaining bugs are ironed out and new functionality is added.
+
+----------------------------------------------------------------------------

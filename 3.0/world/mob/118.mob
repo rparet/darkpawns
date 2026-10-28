@@ -1,0 +1,160 @@
+#11801
+rakshasa~
+a rakshasa~
+A rakshasa eyes you with a cold hatred before attacking.
+~
+It's a humanoid tiger, dressed in male clothes. His hatred for humanity knows
+no bounds, and your presence in his village angers him more.
+~
+cdfg d -10 E
+51 91 51d8+1092 5d6
+30 18210
+8 8 1
+BareHandAttack: 8
+Race: 4
+E
+#11802
+rakshasi consort~
+a rakshasi consort~
+A rakshasi consort awaits orders from her master.
+~
+It's a humanoid tiger, dressed in female clothes. Her loyalty is with the
+maharajah and she will do as he commands. Her hatred for humanity knows no
+bounds, and your presence in her village angers her more.
+~
+cdfg d -10 E
+45 79 45d8+905 5d5
+10 15093
+8 8 2
+BareHandAttack: 8
+Race: 4
+E
+#11803
+rakshasa ruhk~
+a rakshasa ruhk~
+A rakshasa ruhk draws his weapon and attacks.
+~
+It's a humanoid tiger, dressed in intricate armor. Sworn to defend his leader,
+the maharajah, you seem only a minor threat, but still a threat.
+~
+cdfg d -10 E
+57 104 57d8+1291 5d6
+10 21517
+8 8 1
+BareHandAttack: 8
+Race: 4
+E
+#11804
+rakshasa rajah~
+a rakshasa rajah~
+A rakshasa rajah makes unholy signs in the air.
+~
+It's a humanoid tiger, dressed in priestly robes. Sworn to uphold his faith,
+he must kill you, or be killed, to appease his god.
+~
+cdfg dh -500 E
+60 110 60d8+1394 6d6
+11 23237
+8 8 1
+BareHandAttack: 8
+Race: 4
+Script: cleric.lua 256
+E
+#11805
+rakshasa maharajah~
+a rakshasa maharajah~
+A rakshasa maharajah bellows for your destruction.
+~
+This seems to be the leader of the Rakshasa. Richly detailed armor covers his
+body, and his sleek fur glints of perfumed oils. When he stands, he is well
+over eight-feet-tall, and he growls as he looks down upon you. You may be his
+next meal.
+~
+cdfg dh -500 E
+69 130 69d8+1719 6d6
+52 28657
+8 8 1
+BareHandAttack: 8
+Race: 4
+Script: cleric.lua 256
+E
+#11806
+tiger saber-toothed saber carve_meat skin_fur~
+a saber-toothed tiger~
+A saber-toothed tiger prowls restlessly, guarding the village.
+~
+Fur as soft as velvet covers muscles as hard as iron. Long canine teeth
+protrude from the tiger's mouth, and a low growl issues from his throat. You
+get the feeling that he doesn't trust you.
+~
+bdf t 0 E
+33 55 33d8+568 4d5
+0 9478
+8 8 1
+BareHandAttack: 8
+Race: 17
+E
+#11807
+rakshasa wizard~
+a rakshasa wizard~
+A rakshasa wizard won't trade with the likes of you.
+~
+It's a humanoid tiger, dressed in dark robes. He sells magic items to the
+citizens in his village, but he would never deal with you. However, the idea
+of killing you makes him happy.
+~
+bdflnprx dhk 10 E
+90 176 90d8+2561 8d8
+50 42690
+8 8 1
+BareHandAttack: 8
+Race: 4
+Script: magic_user.lua 256
+E
+#11808
+rakshasa weaponsmith~
+a rakshasa weaponsmith~
+A rakshasa weaponsmith picks from an assortment of arms for one to use on you.
+~
+It's a humanoid tiger, dressed in black armor. He sells weapons to the
+citizens in his village, but he would never deal with you. However, he will
+gladly take your life.
+~
+bdeflnpqrx dh -1000 E
+93 183 93d8+2690 8d8
+100 44842
+8 8 1
+BareHandAttack: 8
+Race: 4
+E
+#11809
+rakshasa cub~
+a rakshasa cub~
+A rakshasa cub growls at you, half-heartedly.
+~
+It seems little more aware than a human baby of its size would be. Covered in
+sleek fur, yet with fingers and toes instead of paws, it seems a shame to kill
+such a defenseless creature. Maybe you'll do it anyway.
+~
+dg f 110 E
+12 17 12d8+124 3d4
+0 2078
+8 8 0
+BareHandAttack: 8
+Race: 4
+E
+#11810
+tiger cub~
+a tiger cub~
+A tiger cub mewls, playfully.
+~
+It looks like.. a baby tiger.
+~
+dg fk 110 E
+6 7 6d8+44 3d3
+0 734
+8 8 0
+BareHandAttack: 8
+Race: 17
+E
+$

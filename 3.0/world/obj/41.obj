@@ -1,0 +1,215 @@
+#4101
+ale mug~
+a mug~
+A shiny mug is sitting on the ground.~
+~
+17 0 a 0
+2 2 4 0 0
+3 3 3 100 0 1
+#4102
+ale mug~
+a mug~
+A chipped mug is lying on the ground.~
+~
+17 0 a 0
+2 2 3 0 0
+3 3 3 100 0 1
+#4103
+speciality glass~
+a glass~
+A glass full of red liquid lies on the ground.~
+~
+17 0 a 0
+2 2 8 0 0
+3 3 3 100 0 1
+#4104
+greenberry glass~
+a glass~
+A glass full of green liquid lies on the ground.~
+~
+17 0 a 0
+2 2 1 0 0
+3 3 3 100 0 1
+#4105
+cloak ebony~
+an ebony cloak~
+A pile of ebony cloth lies in the dust.~
+~
+11 g ak 0
+0 0 0 0 2
+3 3 2000 5 0 1
+A
+27 1
+A
+4 1
+A
+3 1
+#4106
+rune covered blade~
+a rune-covered blade~
+A longish sword, covered in all manner of magical runes lies here.~
+~
+5 abg an 0
+1 4 6 3 3
+12 2 1900 5 0 1
+A
+18 1
+A
+19 1
+A
+1 1
+A
+2 1
+A
+26 -1
+A
+24 -5
+R
+1 1
+#4107
+glowing sphere~
+a glowing sphere~
+A bright ball of light lies in the dust.~
+~
+1 ag ao 0
+0 0 -1 0 4
+2 3 390 5 0 1
+A
+27 1
+#4108
+shimmering talisman~
+a shimmering talisman~
+A shimmering talisman lies in the corner.~
+~
+8 ag ac 0
+5 0 0 0 0
+1 2 1000 10 0 1
+A
+13 4
+#4109
+silver silvery shield~
+a silvery shield~
+A shield made of silver is collecting dust.~
+~
+9 g aj 0
+11 0 0 0 4
+13 3 900 15 0 1
+A
+23 -3
+A
+20 -3
+#4110
+bracelet carved oaken circlet wood~
+a carved oaken bracelet~
+A circlet of wood lies on the ground.~
+~
+8 g am 0
+5 0 0 0 5
+3 2 1500 30 0 1
+A
+26 1
+#4111
+belt golden wide~
+a wide golden belt~
+A belt made of solid gold has been left here.~
+~
+9 0 al 0
+5 0 0 0 4
+6 2 800 15 0 1
+A
+5 1
+A
+2 1
+A
+7 -1
+#4112
+robe many pockets~
+a robe of many pockets~
+A robe covered with dozens of pockets is lying here.~
+~
+15 g ak 0
+78 0 -1 0 3
+8 3 1000 10 0 1
+#4113
+gloves electric~
+some electric gloves~
+A pair of gloves lies here, giving off sparks.~
+~
+11 abg ah 0
+0 0 0 0 3
+5 3 2000 5 0 1
+A
+19 1
+#4114
+gloves scale mail~
+a pair of scale mail gloves~
+A pair of scale mail gloves lies here.~
+~
+9 0 ah 0
+2 0 0 0 4
+7 3 120 60 0 1
+#4115
+sleeves scale mail~
+a pair of scale mail sleeves~
+A pair of scale mail sleeves lies here.~
+~
+9 0 ai 0
+3 0 0 0 5
+7 3 80 60 0 1
+#4116
+helm scale mail~
+a scale mail helm~
+A scale mail helm lies here.~
+~
+9 0 ae 0
+5 0 0 0 5
+6 2 80 60 0 1
+#4117
+leggings scale mail~
+a pair of scale mail leggings~
+A pair of scale mail leggings lies here.~
+~
+9 0 af 0
+7 0 0 0 5
+8 3 150 60 0 1
+#4118
+vest scale mail~
+a scale mail vest~
+A scale mail vest lies here.~
+~
+9 0 ad 0
+8 0 0 0 5
+9 3 180 60 0 1
+#4119
+helm steel~
+a steel helm~
+A polished steel helm is lying here.~
+~
+9 0 ae 0
+8 0 0 0 5
+9 3 320 20 0 1
+#4120
+leggings steel~
+a pair of steel leggings~
+A pair of steel leggings lies here.~
+~
+9 0 af 0
+9 0 0 0 5
+13 3 480 20 0 1
+#4121
+breastplate steel breast plate~
+a steel breastplate~
+A steel breastplate lies here.~
+~
+9 0 ad 0
+14 0 0 0 4
+40 3 480 20 0 1
+#4122
+buckler steel~
+a steel buckler~
+A steel buckler lies here.~
+~
+9 0 aj 0
+7 0 0 0 5
+12 3 160 20 0 1
+$~

@@ -1,0 +1,474 @@
+#19100
+crewmember phantom~
+a phantom crewmember~
+A phantom crewmember scowls as it checks over the rigging.
+~
+This ethereal being looming before you appears to pay you no heed as it goes
+about its duties.
+~
+cdghnpr df 0 E
+54 98 54d8+1190 5d6
+70 19840
+8 8 0
+Race: 32
+E
+#19101
+captain vincente~
+Captain Vincente~
+Vincente, Captain of the Arcanus, looms before you.
+~
+The tattered clothing hung upon the skeletal frame of Captain Vincente show
+signs of freshly-spattered blood. An eyepatch covers his left eye socket, and
+you are glad of that small comfort, considering the immense evil eminating
+from the dark, eyeless socket where his right eye should be. The evil
+surrounding him chills you to your very core.
+~
+defglnpr dfhkn -500 E
+63 117 63d8+1500 6d6
+666 25002
+8 8 0
+Race: 32
+E
+#19102
+sea serpent ghastly~
+a ghastly sea serpent~
+A ghastly sea serpent writhes up from the abyss...
+~
+Looming before you is a gargantuan, rotting serpent. Patches of withered flesh
+seem to literally hang from the bones of this behemoth monster. A dark smoke
+emanates from its mouth, sending chills up and down your spine. The glowing
+yellow eyes transfix you, as it prepares to make a meal of you!
+~
+bcdlnpqrt dfkn 0 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+Race: 32
+E
+#19103
+rotting lookout~
+the lookout~
+The rotting corpse of the ship's lookout stands his watch.
+~
+Standing before you is the ship's lookout. This unnatural being's body has
+been ravaged by time and the ethereal wind that blows here. Mere shreads of
+clothing barely conceal the rotting corpse.
+~
+bdehnpqr dfkp 0 E
+36 61 36d8+648 4d5
+60 10800
+8 8 0
+Race: 32
+E
+#19104
+seagull~
+an undead seagull~
+An undead seagull hovers here.
+~
+This flying apparition of a seagull looks like it missed one too many meals.
+Half rotted flesh and dusty feathers do little to conceal the thin, skeletal
+frame of this former avian.
+~
+defmq kpA 0 E
+3 3 3d8+15 2d3
+0 259
+8 8 0
+BareHandAttack: 4
+Race: 9
+E
+#19105
+cabinboy jim~
+the cabinboy~
+A ghostly cabinboy searches intently for something he has lost.
+~
+The specter floating before you resembles an animated shadow of a human child.
+It has no discernable features other than pale white eyes, set off by its dark
+form. As it passes through the area, it stoops and reaches, as if to clear the
+mess before it; its right hand clasping what looks like a large metal ring. It
+looks as though it has lost something precious. You wonder how many ages of
+men it has searched this place.
+~
+dehnpqr dfkpsA 300 E
+30 49 30d8+492 4d5
+20 8215
+8 8 0
+BareHandAttack: 12
+Race: 37
+E
+#19106
+seaman seadog weathered old~
+a weathered seaman~
+A weathered, old seadog sleeps, fitfully, here.
+~
+This ghastly, weather-beaten seaman sleeps restlessly, awaiting the time to
+resume his duties on deck. Salt water, sea air, and time have taken an obvious
+toll on this phantom, as evidenced by his skeletal form.
+~
+dehlnpqr dfk 0 E
+36 61 36d8+648 4d5
+0 10800
+4 8 0
+Race: 32
+Noise: You hear a tortured moan from somewhere close by.
+E
+#19107
+prisoner skeleton skeletal~
+a skeletal prisoner~
+A skeletal prisoner eyes you, warily.
+~
+Standing before you are the remains of one of the ship's captives. This lost
+soul appears to be wearing what's left of some old imperial clothing, hinting
+that, in life, he was sent to stop the captain. Obviously, he has failed...
+~
+degimnpqr dfk 800 E
+54 98 54d8+1190 5d6
+4 19840
+8 8 0
+Race: 32
+E
+#19108
+prisoner skeleton skeletal~
+a skeletal prisoner~
+A skeletal prisoner lies sleeping on the damp floor.
+~
+This victim of the ages and evil has been here for a long time. Dust collects
+on its bones; its only true mass. You wonder what this person did to get
+thrown in the brig.
+~
+deghjnpqr dfk 300 E
+54 98 54d8+1190 5d6
+0 19840
+4 8 0
+Race: 32
+E
+#19109
+prisoner skeleton skeletal~
+a skeletal prisoner~
+A skeletal prisoner rests in the corner of the cell.
+~
+Another unfortunate victim of the captain's wrath, and of time itself. What
+little remains of this apparition's garb suggests this was once a squire.
+Hollow eyesockets look up at you, pleadingly...
+~
+degmnpqr dfk 500 E
+54 98 54d8+1190 5d6
+0 19840
+5 8 0
+Race: 32
+E
+#19110
+prisoner skeleton skeletal~
+a skeletal prisoner~
+A skeletal prisoner lies here.
+~
+Empty eyesockets give you a creepy feeling that this being wishes to share its
+eternal misery with you. The strange grin of the skeleton's skull gives you a
+scare, as the moaning in the background enhances your feelings of fright.
+~
+deghjmnpqr dfk 300 E
+54 98 54d8+1190 5d6
+0 19840
+5 8 0
+Race: 32
+E
+#19111
+undead cook~
+the undead cook~
+The ship's cook stokes a non-existant fire in the stove.
+~
+A grotesquely-bloated, quivering cadaver is all that remains of the ship's
+cook. It approaches, as if to offer you something to eat, but the mere sight
+of this phantom is enough to vanquish your appetite, entirely.
+~
+bcdhnpqr df 0 E
+39 67 39d8+730 4d5
+70 12177
+8 8 0
+Race: 32
+E
+#19112
+lost soul slave~
+a lost soul~
+A lost soul searches for escape from this place.
+~
+Another hapless victim of the ancient tragedy that is this vessel, this slave
+wanders the bowels of the ship in search of escape. Even as you look upon the
+specter before you, you notice that you are also peering through it as well.
+The transparent, dim-white aura of this figure startles you.
+~
+dnpqr dfk 0 E
+57 104 57d8+1291 5d6
+21 21517
+8 8 0
+Race: 32
+E
+#19113
+navigator~
+the ship's Navigator~
+The ship's navigator stands at the helm.
+~
+Gripping the wheel firmly, this nightmarish corpse appears to be steering the
+vessel for all eternity. You wonder what land those piercing, sinister, eyes
+are seeing in the distance...
+~
+bdenpqr dfhk -500 E
+57 104 57d8+1291 5d6
+200 21517
+8 8 0
+Race: 32
+E
+#19114
+guard cabin~
+a cabin guard~
+A cabin guard stands his post.
+~
+This creature from beyond looks quite sturdy, and seems confident in its
+rusted, hole-ridden armor. Fragments of bone and blood stains are scattered
+about the deck before this apparition, a clear warning of his ability. The
+eyeless stare of this sentinel is unnerving.
+~
+bdemnpqr dfh -500 E
+54 98 54d8+1190 5d6
+0 19840
+8 8 0
+Race: 32
+Script: cabinguard.lua 512
+E
+#19115
+first mate dread~
+the First Mate~
+A ghastly First Mate watches over the activity on deck.
+~
+Standing before you is the apparition known as Dread, First Mate to the ship's
+captain. This horrendous figure drips a mysterious, glowing substance. All
+semblances of flesh mix with what you expect are the remains of his garb,
+forming an amorphous spotting all over the broken bones of his corpse.
+~
+bdejlnpqr dfk -1000 E
+60 110 60d8+1394 6d6
+300 23237
+8 8 0
+Race: 32
+E
+#19116
+guard prison~
+a prison guard~
+A cadaverous prison guard stands his post.
+~
+Stalking before you is a bloated, disfigured, humanoid corpse, atrophied by
+evil. It peers at you suspiciously with eyesockets emitting a dark mist.
+~
+bdenpqr dfhk -500 E
+54 98 54d8+1190 5d6
+50 19840
+8 8 0
+Race: 32
+E
+#19117
+parrot ravenwing~
+a dark parrot~
+A dark parrot hovers here.
+~
+Hovering overhead is Ravenwing, the captain's pet parrot. Ravenwing appears
+not to actually fly, but unnaturally hover in a semi-corporeal nature. How odd
+to see a parrot with such dark plumage...
+~
+cdghjmq dfkA 0 E
+15 22 15d8+174 3d4
+0 2904
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#19118
+deckhand~
+a deckhand~
+A rotting deckhand goes about his duties.
+~
+The unfortunate soul before you is forever damned to sail this acursed ship
+across the abyss. The ages have ravaged its undead corpse to the point where
+it can be described as barely humanoid in appearance.
+~
+dehln dfk -500 E
+39 67 39d8+730 4d5
+50 12177
+8 8 0
+Race: 32
+E
+#19119
+bitter wind~
+a bitter wind~
+A bitter wind wisps about here.
+~
+The bitter wind swirls around you...
+~
+defnpqr bdfhkAE 0 E
+27 44 27d8+420 3d5
+0 7014
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: never_die.lua 64
+E
+#19120
+mastiff bull dog carve_meat skin_pelt~
+a bull mastiff~
+A giant bull mastiff growls deeply and bares his fangs.
+~
+Before you have any chance to respond, this giant canine rushes to the attack,
+Froth gathering at the edges of its dark mouth, its mottled lips curl back
+across jagged fangs. As its mighty body hurtles in your direction, you are
+instantly certain that you have breathed your last.
+~
+bdeflmnpqrx dfhkmnE 0 E
+93 183 93d8+2690 8d8
+2 44842
+8 8 1
+BareHandAttack: 4
+Race: 11
+Noise: A deep rumbling growl nearby sends a chill through you.
+Script: no_move.lua 512
+E
+#19121
+kelpie~
+a kelpie~
+Rising up from the muck, a kelpie gropes toward you.
+~
+A large patch of algae and seaweed takes on semi-humanoid shape before your
+very eyes. Devoid of distinguishable facial features, aside from a large,
+gaping maw, hideous gurgling sounds, the sounds of drowning, begin to issue
+from its mouth. Thick, shapeless arms grope toward you, to drag you to your
+death beneath the surface of the water.
+~
+cdeflnpqrx dfghkmpsK 700 E
+69 130 69d8+1719 6d6
+300 28657
+8 8 0
+BareHandAttack: 10
+Race: 36
+Noise: Strange gurgling sounds echo from nearby.
+Script: kelpie.lua 256
+E
+#19122
+bilge rat~
+a bilge rat~
+A bilge rat crawls through the filth.
+~
+Even here on this ship of eternal night, the filthy rats have made a home.
+They hang and crawl from the algae-covered sides of the ship's belly, in
+search of anything edible. Their eyes flash, they squeal sharply and snap at
+your hands.
+~
+dfnq dfgk -500 E
+15 22 15d8+174 3d4
+0 2904
+8 8 1
+BareHandAttack: 4
+Race: 30
+E
+#19123
+windkey master weatherworker~
+a weatherworker~
+The ship's windkey is here, keeping the magewind full in the sails.
+~
+Draped in the deep grey cloak of his order, the ship's weatherworker focuses
+his magicks on the billowing sails. Speaking softly and gesturing slowly, a
+vein of quicksilver seems to flow from his hands, crackling through the air,
+and pulsing its raw energy across the taut sailcloth.
+~
+cdegprtx dfhks 0 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+Noise: You hear a low voice from nearby speaking ancient words of power.
+Script: weatherworker.lua 256
+E
+#19124
+barnacle shell~
+a barnacle~
+A rough-looking barnacle grows on the ship's hull.
+~
+A large barnacle grows here, feeding off the nutrients on the algae-covered
+hull. It looks as if it has been here a long time - its outer surface is
+covered by many layers of rough shell-like material.
+~
+bcdemnpqr dfg 400 E
+39 67 39d8+730 4d5
+0 12177
+8 8 0
+BareHandAttack: 10
+Race: 36
+Noise: Waves crash loudly against the ship's hull, below.
+E
+#19125
+klaboutermannikin figurehead ghostly~
+a klaboutermannikin~
+A ghostly figure drifts slowly toward you.
+~
+As you look on in a state of utter disbelief, the ship's figurehead wavers
+and takes on a ghostly form. The silhouette of a young and beautiful maiden;
+the spirit and protector of this vessel and her crew, drifts slowly toward
+you. As delicate as she seems, your instincts tell you that this being
+possesses a great deal more power than her appearance suggests.
+~
+bdenprt dfhkm 500 E
+69 130 69d8+1719 6d6
+250 28657
+8 8 2
+BareHandAttack: 12
+Race: 12
+E
+#19126
+Francesca ghost woman figure~
+the ghost of Francesca~
+The ghostly figure of a woman sweeps silently past.
+~
+A chill passes through you as this ghostly figure glides by. She is dressed
+in a white, lace gown, her hair a dark brown flowing beautifully down to her
+mid-back. Her dark blue eyes stare blankly in your direction, her left hand
+clutching at her collarbone as she mutters something about her "tear". She
+wanders this ship in search of some lost treasure, paying no heed to your
+presence.
+~
+degnpqrsx bdfkmpA 500 E
+69 130 69d8+1719 6d6
+300 28657
+8 8 2
+BareHandAttack: 12
+Race: 37
+E
+#19127
+flag jolly roger black~
+a Jolly Roger~
+A black flag flaps wildly in your direction!
+~
+Although the wind is conspicuously absent, this dark flag beats and flutters
+constantly in your direction, allowing only brief glimpses of the pale icon
+emblazoned upon it.
+~
+bdelnpqrt dfhknpA -800 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+BareHandAttack: 12
+Race: 25
+Noise: You hear an strange snapping sound from somewhere overhead.
+E
+#19128
+rat bilge~
+a bilge rat~
+A bilge rat crawls through the filth.
+~
+Even here, on this ship of eternal night, the filthy rats have made a home.
+They crawl amid the filth of the ship's, in search of anything edible. Their
+eyes flash, they squeal sharply and snap at your hands as you work to free
+yourself from this this cramped space.
+~
+cdfnq dfkst -500 E
+15 22 15d8+174 3d4
+0 2904
+8 8 1
+BareHandAttack: 4
+Race: 0
+E
+$

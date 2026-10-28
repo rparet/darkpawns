@@ -1,0 +1,69 @@
+#1700
+giant fire ant~
+a giant fire ant~
+A giant fire ant scurries about its business.
+~
+Quite larger than the common ant, these creatures breed and spread rapidly
+over most types of terrain. A little over one foot long, it has a painful
+sting that's poisonous to most species. Alone, it is easily defeated but the
+fire ant tends to remain underground and lives in colonies hundred strong.
+~
+defnpquz dfks 0 E
+4 4 4d8+24 3d3
+0 400
+8 8 0
+BareHandAttack: 1
+Race: 23
+Script: fire_ant.lua 256
+E
+#1701
+giant fire ant queen~
+a giant fire ant queen~
+A giant fire ant queen detects your presence and strikes.
+~
+As the sole breeder of the colony, the fire ant queen is the most valuable
+asset these creatures have and she will be defended to the death. Together
+with her larvae, she will remain at the base of the ant colony until it is
+destroyed.
+~
+bdefnpq dfk 0 E
+7 9 7d8+55 3d3
+0 926
+8 8 2
+BareHandAttack: 1
+Race: 23
+E
+#1702
+giant fire any larva~
+a giant fire ant larva~
+A fire-red larva squirms around your feet.
+~
+The giant fire ant larva is quite unprotected in this stage of its development
+and should be no match for you. It is usually well protected by other, more
+mature members of its colony so you should be on your guard.
+~
+denqz k 0 E
+1 1 1d8+3 2d3
+0 50
+8 8 0
+BareHandAttack: 1
+Race: 23
+E
+#1703
+mishapen creature roratuin~
+a roratuin~
+A large, mishapen creature lumbers towards you.
+~
+You've got no idea what it is and no idea where it came from. You admire the
+several rows of sharp teeth it has as it snaps viciously at you and attempt
+to keep it beyond reach. It's covered in some type of armored shell and you
+would imagine has a keen sense of smell given it's long snout.
+~
+defgnptu dfk 0 E
+11 15 11d8+109 3d4
+0 1824
+8 8 0
+BareHandAttack: 4
+Race: 22
+E
+$

@@ -15,5 +15,14 @@ lib/etc/players
 lib/etc/plrmail
 log
 syslog*
-lib/plrobjs
+lib/plrobjs/*/*
+lib/plralias/*/*
+lib/house/*
+!.gitkeep
 lib/misc/help
+lib/misc/bugs
+lib/misc/ideas
+lib/misc/todo
+lib/misc/typos
+!3.0/src/Makefile
+!3.0/src/utils/Makefile

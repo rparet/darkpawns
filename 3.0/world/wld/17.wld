@@ -1,0 +1,1676 @@
+#1700
+Immortal Map Room of the Giant Ant Hill~
+   The zone is divided into two levels beneath the surface, and a three-level
+high mound onto which players must climb to enter the zone.
+~
+17 cdk 0
+S
+#1701
+Climbing a Giant Ant Hill~
+   You stand at the base of a large ant hill approximately 25 feet tall and
+60 feet wide at ground level. Composed primarily of soft earth and rock, this
+northern slope looks like it's the easiest way to climb to the hill's summit.
+~
+17 m 10
+D0
+~
+~
+0 0 15662
+D4
+~
+~
+0 0 1702
+S
+#1702
+Climbing a Giant Ant Hill~
+   You have reached what looks like the halfway point - your footprints quite
+evident in the soft earthern slope. The journey is quite demanding as your
+weight means you sink into the surface with each step. Just below you lies the
+base of the hill while a short climb upwards would take you to the hill's
+summit.
+~
+17 m 10
+D4
+~
+~
+0 0 1703
+D5
+~
+~
+0 0 1701
+S
+#1703
+Climbing a Giant Ant Hill~
+   You survey the surrounding plains from your elevated position on top of
+this large ant hill. A small heard of quagga grazes near the base of the hill
+while a jhereg circles slowly overhead, watching your every move. You can
+descend down the hill or move along its summit to the east.
+~
+17 0 10
+D1
+~
+~
+0 0 1704
+D5
+~
+~
+0 0 1702
+S
+#1704
+The Entrance to a Giant Ant Hill~
+   You peer down into the depths of this ant hill but are greeted with nothing
+but darkness. There is an unforgettable sound eminating from beneath the
+surface and you could swear you saw something move down there. You may either
+enter the ant hill or move towards the west where you can begin your descent.
+~
+17 m 10
+D3
+~
+~
+0 0 1703
+D5
+You're going to have to go down there if you want to see what lies within...
+~
+~
+0 0 1722
+S
+#1705
+An Earthen Tunnel~
+   You progress along the tunnel system until you reach a dead end. The
+earthen walls are soft to the touch and crumble relatively easily, leaving you
+perplexed as to how this complex remains standing. Your only option is to turn
+around and head back the way you came.
+~
+17 ad 0
+D1
+~
+~
+0 0 1706
+S
+#1706
+An Earthen Tunnel~
+   A narrow opening has been created in the tunnel floor, undoubtably leading
+to yet another level of tunnels. The air is quite oppresive here and it is
+becomming difficult to breathe and remain cool - a perfect environment for the
+creatures that call this place home.
+~
+17 ad 0
+D1
+~
+~
+0 0 1707
+D2
+~
+~
+0 0 1711
+D3
+~
+~
+0 0 1705
+D5
+~
+~
+0 0 1736
+S
+#1707
+An Earthen Tunnel~
+   You progress along the tunnel system until you reach a dead end. The
+earthen walls are soft to the touch and crumble relatively easily, leaving you
+perplexed as to how this complex remains standing. Your only option is to turn
+around and head back the way you came.
+~
+17 ad 0
+D3
+~
+~
+0 0 1706
+S
+#1708
+An Earthen Tunnel~
+   You have reached the end of one of the subterranean tunnels and can either
+turn around and head back, or drop down the narrow opening in the tunnel
+floor.
+~
+17 ad 0
+D1
+~
+~
+0 0 1709
+D5
+~
+~
+0 0 1738
+S
+#1709
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D2
+~
+~
+0 0 1714
+D3
+~
+~
+0 0 1708
+S
+#1710
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D1
+~
+~
+0 0 1711
+D2
+~
+~
+0 0 1715
+S
+#1711
+An Earthen Tunnel~
+   The soft walls from which this tunnel has been constructed seem to absorb
+the majority of sound, yet you can still hear something moving in the darkness
+nearby. With the maze of twists and turns, it's also becomming difficult to
+remember the way out!
+~
+17 ad 0
+D0
+~
+~
+0 0 1706
+D2
+~
+~
+0 0 1716
+D3
+~
+~
+0 0 1710
+S
+#1712
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D1
+~
+~
+0 0 1713
+D2
+~
+~
+0 0 1717
+S
+#1713
+An Earthen Tunnel~
+   The construction of this place is quite intriguing when you think about it.
+The soft, earthen walls barely appear to be held in place and you have no idea
+how far below the surface these tunnels extend, yet somehow the entire
+structure remains intact.
+~
+17 adm 0
+D1
+~
+~
+0 0 1714
+D3
+~
+~
+0 0 1712
+S
+#1714
+An Earthen Tunnel~
+   The soft walls from which this tunnel has been constructed seem to absorb
+the majority of sound, yet you can still hear something moving in the darkness
+nearby. With the maze of twists and turns, it's also becomming difficult to
+remember the way out!
+~
+17 ad 0
+D0
+~
+~
+0 0 1709
+D2
+~
+~
+0 0 1719
+D3
+~
+~
+0 0 1713
+S
+#1715
+An Earthen Tunnel~
+   You have reached the end of one of the subterranean tunnels and can either
+turn around and head back, or drop down the narrow opening in the tunnel
+floor.
+~
+17 ad 0
+D0
+~
+~
+0 0 1710
+D5
+~
+~
+0 0 1745
+S
+#1716
+An Earthen Tunnel~
+   You progress along the tunnel system until you reach a dead end. The
+earthen walls are soft to the touch and crumble relatively easily, leaving you
+perplexed as to how this complex remains standing. Your only option is to turn
+around and head back the way you came.
+~
+17 ad 0
+D0
+~
+~
+0 0 1711
+S
+#1717
+An Earthen Tunnel~
+   The construction of this place is quite intriguing when you think about it.
+The soft, earthen walls barely appear to be held in place and you have no idea
+how far below the surface these tunnels extend, yet somehow the entire
+structure remains intact.
+~
+17 adm 0
+D0
+~
+~
+0 0 1712
+D2
+~
+~
+0 0 1722
+S
+#1718
+An Earthen Tunnel~
+   You progress along the tunnel system until you reach a dead end. The
+earthen walls are soft to the touch and crumble relatively easily, leaving you
+perplexed as to how this complex remains standing. Your only option is to turn
+around and head back the way you came.
+~
+17 adm 0
+D2
+~
+~
+0 0 1723
+S
+#1719
+An Earthen Tunnel~
+   The construction of this place is quite intriguing when you think about it.
+The soft, earthen walls barely appear to be held in place and you have no idea
+how far below the surface these tunnels extend, yet somehow the entire
+structure remains intact.
+~
+17 ad 0
+D0
+~
+~
+0 0 1714
+D2
+~
+~
+0 0 1724
+S
+#1720
+An Earthen Tunnel~
+   You have reached the end of one of the subterranean tunnels and can either
+turn around and head back, or drop down the narrow opening in the tunnel
+floor.
+~
+17 ad 0
+D1
+~
+~
+0 0 1721
+D5
+~
+~
+0 0 1750
+S
+#1721
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D2
+~
+~
+0 0 1726
+D3
+~
+~
+0 0 1720
+S
+#1722
+An Earthen Tunnel~
+   Light streams in from an opening in the tunnel roof and with a quick
+scramble up the wall, you could leave this place if you wished. Alternatively,
+you could travel deeper into these tunnel systems by progressing to the north.
+~
+17 dm 10
+D0
+~
+~
+0 0 1717
+D4
+~
+~
+0 0 1704
+S
+#1723
+An Earthen Tunnel~
+   The construction of this place is quite intriguing when you think about it.
+The soft, earthen walls barely appear to be held in place and you have no idea
+how far below the surface these tunnels extend, yet somehow the entire
+structure remains intact.
+~
+17 ad 0
+D0
+~
+~
+0 0 1718
+D2
+~
+~
+0 0 1728
+S
+#1724
+An Earthen Tunnel~
+   You have reached the end of one of the subterranean tunnels and can either
+turn around and head back, or drop down the narrow opening in the tunnel
+floor.
+~
+17 ad 0
+D0
+~
+~
+0 0 1719
+D5
+~
+~
+0 0 1754
+S
+#1725
+An Earthen Tunnel~
+   You have reached the end of one of the subterranean tunnels and can either
+turn around and head back, or drop down the narrow opening in the tunnel
+floor.
+~
+17 ad 0
+D2
+~
+~
+0 0 1730
+D5
+~
+~
+0 0 1755
+S
+#1726
+An Earthen Tunnel~
+   The construction of this place is quite intriguing when you think about it.
+The soft, earthen walls barely appear to be held in place and you have no idea
+how far below the surface these tunnels extend, yet somehow the entire
+structure remains intact.
+~
+17 ad 0
+D0
+~
+~
+0 0 1721
+D2
+~
+~
+0 0 1731
+S
+#1727
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 adm 0
+D1
+~
+~
+0 0 1728
+D2
+~
+~
+0 0 1732
+S
+#1728
+An Earthen Tunnel~
+   The soft walls from which this tunnel has been constructed seem to absorb
+the majority of sound, yet you can still hear something moving in the darkness
+nearby. With the maze of twists and turns, it's also becomming difficult to
+remember the way out!
+~
+17 ad 0
+D0
+~
+~
+0 0 1723
+D1
+~
+~
+0 0 1729
+D3
+~
+~
+0 0 1727
+S
+#1729
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D2
+~
+~
+0 0 1734
+D3
+~
+~
+0 0 1728
+S
+#1730
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D0
+~
+~
+0 0 1725
+D1
+~
+~
+0 0 1731
+S
+#1731
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D0
+~
+~
+0 0 1726
+D3
+~
+~
+0 0 1730
+S
+#1732
+An Earthen Tunnel~
+   You have reached the end of one of the subterranean tunnels and can either
+turn around and head back, or drop down the narrow opening in the tunnel
+floor.
+~
+17 adm 0
+D0
+~
+~
+0 0 1727
+D5
+~
+~
+0 0 1762
+S
+#1733
+An Earthen Tunnel~
+   You progress along the tunnel system until you reach a dead end. The
+earthen walls are soft to the touch and crumble relatively easily, leaving you
+perplexed as to how this complex remains standing. Your only option is to turn
+around and head back the way you came.
+~
+17 ad 0
+D1
+~
+~
+0 0 1734
+S
+#1734
+An Earthen Tunnel~
+   A narrow opening has been created in the tunnel floor, undoubtably leading
+to yet another level of tunnels. The air is quite oppresive here and it is
+becomming difficult to breathe and remain cool - a perfect environment for the
+creatures that call this place home.
+~
+17 ad 0
+D0
+~
+~
+0 0 1729
+D3
+~
+~
+0 0 1733
+D5
+~
+~
+0 0 1764
+S
+#1735
+An Earthen Tunnel~
+   Unfortunately, you have travelled as far as you can in this direction, now
+facing a dead end. For whatever reason, the occupants of this place have
+either not finished the tunnel construction or chose not to continue. Your
+only option is to turn back and seek another way through the complex.
+~
+17 adm 0
+D2
+~
+~
+0 0 1740
+S
+#1736
+An Earthen Tunnel~
+   Having reached the end of this earthen tunnel, you have the choice of
+climbing through a narrow opening in the roof or heading deeper into the
+underground network.
+~
+17 ad 0
+D1
+~
+~
+0 0 1737
+D4
+~
+~
+0 0 1706
+S
+#1737
+An Earthen Tunnel~
+   The combined heat, darkness and construction of this place leave you rather
+confused and disoriented. Each section of tunnel looks exactly the same as the
+one before it and there appears to be no end in sight.
+~
+17 ad 0
+D1
+~
+~
+0 0 1738
+D3
+~
+~
+0 0 1736
+S
+#1738
+An Earthen Tunnel~
+   Gazing upwards towards the narrow opening above you, all you can see is
+more of the same tunnel system. Looking closely at the earthen wall, you
+discover a sticky residue which would explain how the tunnel is able to retain
+its shape and strength given the material it is made from.
+~
+17 ad 0
+D1
+~
+~
+0 0 1739
+D2
+~
+~
+0 0 1743
+D3
+~
+~
+0 0 1737
+D4
+~
+~
+0 0 1708
+S
+#1739
+An Earthen Tunnel~
+   Unfortunately, you have travelled as far as you can in this direction, now
+facing a dead end. For whatever reason, the occupants of this place have
+either not finished the tunnel construction or chose not to continue. Your
+only option is to turn back and seek another way through the complex.
+~
+17 ad 0
+D3
+~
+~
+0 0 1738
+S
+#1740
+An Earthen Tunnel~
+   The combined heat, darkness and construction of this place leave you rather
+confused and disoriented. Each section of tunnel looks exactly the same as the
+one before it and there appears to be no end in sight.
+~
+17 ad 0
+D0
+~
+~
+0 0 1735
+D2
+~
+~
+0 0 1745
+S
+#1741
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 adm 0
+D1
+~
+~
+0 0 1742
+D2
+~
+~
+0 0 1746
+S
+#1742
+An Earthen Tunnel~
+   You have reached the end of one of the subterranean tunnels and can either
+turn around and head back, or drop down the narrow opening in the tunnel
+floor.
+~
+17 adm 0
+D3
+~
+~
+0 0 1741
+D5
+~
+~
+0 0 1772
+S
+#1743
+An Earthen Tunnel~
+   The combined heat, darkness and construction of this place leave you rather
+confused and disoriented. Each section of tunnel looks exactly the same as the
+one before it and there appears to be no end in sight.
+~
+17 adm 0
+D0
+~
+~
+0 0 1738
+D2
+~
+~
+0 0 1748
+S
+#1744
+An Earthen Tunnel~
+   The combined heat, darkness and construction of this place leave you rather
+confused and disoriented. Each section of tunnel looks exactly the same as the
+one before it and there appears to be no end in sight.
+~
+17 adm 0
+D2
+~
+~
+0 0 1749
+S
+#1745
+An Earthen Tunnel~
+   Gazing upwards towards the narrow opening above you, all you can see is
+more of the same tunnel system. Looking closely at the earthen wall, you
+discover a sticky residue which would explain how the tunnel is able to retain
+its shape and strength given the material it is made from.
+~
+17 ad 0
+D0
+~
+~
+0 0 1740
+D1
+~
+~
+0 0 1746
+D4
+~
+~
+0 0 1715
+S
+#1746
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D0
+~
+~
+0 0 1741
+D3
+~
+~
+0 0 1745
+S
+#1747
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 adm 0
+D1
+~
+~
+0 0 1748
+D2
+~
+~
+0 0 1752
+S
+#1748
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 adm 0
+D0
+~
+~
+0 0 1743
+D3
+~
+~
+0 0 1747
+S
+#1749
+An Earthen Tunnel~
+   The combined heat, darkness and construction of this place leave you rather
+confused and disoriented. Each section of tunnel looks exactly the same as the
+one before it and there appears to be no end in sight.
+~
+17 ad 0
+D0
+~
+~
+0 0 1744
+D2
+~
+~
+0 0 1754
+S
+#1750
+An Earthen Tunnel~
+   Having reached the end of this earthen tunnel, you have the choice of
+climbing through a narrow opening in the roof or heading deeper into the
+underground network.
+~
+17 ad 0
+D1
+~
+~
+0 0 1751
+D4
+~
+~
+0 0 1720
+S
+#1751
+An Earthen Tunnel~
+   The combined heat, darkness and construction of this place leave you rather
+confused and disoriented. Each section of tunnel looks exactly the same as the
+one before it and there appears to be no end in sight.
+~
+17 ad 0
+D1
+~
+~
+0 0 1752
+D3
+~
+~
+0 0 1750
+S
+#1752
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 adm 0
+D0
+~
+~
+0 0 1747
+D3
+~
+~
+0 0 1751
+S
+#1753
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D1
+~
+~
+0 0 1754
+D2
+~
+~
+0 0 1758
+S
+#1754
+An Earthen Tunnel~
+   Gazing upwards towards the narrow opening above you, all you can see is
+more of the same tunnel system. Looking closely at the earthen wall, you
+discover a sticky residue which would explain how the tunnel is able to retain
+its shape and strength given the material it is made from.
+~
+17 ad 0
+D0
+~
+~
+0 0 1749
+D3
+~
+~
+0 0 1753
+D4
+~
+~
+0 0 1724
+S
+#1755
+An Earthen Tunnel~
+   Having reached the end of this earthen tunnel, you have the choice of
+climbing through a narrow opening in the roof or heading deeper into the
+underground network.
+~
+17 adm 0
+D1
+~
+~
+0 0 1756
+D4
+~
+~
+0 0 1725
+S
+#1756
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 adm 0
+D2
+~
+~
+0 0 1761
+D3
+~
+~
+0 0 1755
+S
+#1757
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D1
+~
+~
+0 0 1758
+D2
+~
+~
+0 0 1762
+S
+#1758
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D0
+~
+~
+0 0 1753
+D3
+~
+~
+0 0 1757
+S
+#1759
+An Earthen Tunnel~
+   Unfortunately, you have travelled as far as you can in this direction, now
+facing a dead end. For whatever reason, the occupants of this place have
+either not finished the tunnel construction or chose not to continue. Your
+only option is to turn back and seek another way through the complex.
+~
+17 ad 0
+D2
+~
+~
+0 0 1764
+S
+#1760
+An Earthen Tunnel~
+   Unfortunately, you have travelled as far as you can in this direction, now
+facing a dead end. For whatever reason, the occupants of this place have
+either not finished the tunnel construction or chose not to continue. Your
+only option is to turn back and seek another way through the complex.
+~
+17 adm 0
+D1
+~
+~
+0 0 1761
+S
+#1761
+An Earthen Tunnel~
+   You have reached the end of one of the subterranean tunnels and can either
+turn around and head back, or drop down the narrow opening in the tunnel
+floor.
+~
+17 ad 0
+D0
+~
+~
+0 0 1756
+D3
+~
+~
+0 0 1760
+D5
+~
+~
+0 0 1791
+S
+#1762
+An Earthen Tunnel~
+   Having reached the end of this earthen tunnel, you have the choice of
+climbing through a narrow opening in the roof or heading deeper into the
+underground network.
+~
+17 adm 0
+D0
+~
+~
+0 0 1757
+D4
+~
+~
+0 0 1732
+S
+#1763
+An Earthen Tunnel~
+   You have reached the end of one of the subterranean tunnels and can either
+turn around and head back, or drop down the narrow opening in the tunnel
+floor.
+~
+17 ad 0
+D1
+~
+~
+0 0 1764
+D5
+~
+~
+0 0 1793
+S
+#1764
+An Earthen Tunnel~
+   Gazing upwards towards the narrow opening above you, all you can see is
+more of the same tunnel system. Looking closely at the earthen wall, you
+discover a sticky residue which would explain how the tunnel is able to retain
+its shape and strength given the material it is made from.
+~
+17 ad 0
+D0
+~
+~
+0 0 1759
+D3
+~
+~
+0 0 1763
+D4
+~
+~
+0 0 1734
+S
+#1765
+An Earthen Tunnel~
+   It feels like a furnace down here! You can't imagine how deep you are below
+the surface or what could possibly generate so much heat, but for whatever
+reason the air is thick and heavy. You will have to turn back, however, for
+the tunnel simply ends leaving you no other alternative.
+~
+17 adm 0
+D1
+~
+~
+0 0 1766
+S
+#1766
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 adm 0
+D2
+~
+~
+0 0 1771
+D3
+~
+~
+0 0 1765
+S
+#1767
+An Earthen Tunnel~
+   It feels like a furnace down here! You can't imagine how deep you are below
+the surface or what could possibly generate so much heat, but for whatever
+reason the air is thick and heavy. You will have to turn back, however, for
+the tunnel simply ends leaving you no other alternative.
+~
+17 adm 0
+D2
+~
+~
+0 0 1772
+S
+#1768
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D1
+~
+~
+0 0 1769
+D2
+~
+~
+0 0 1773
+S
+#1769
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D2
+~
+~
+0 0 1774
+D3
+~
+~
+0 0 1768
+S
+#1770
+An Earthen Tunnel~
+   It feels like a furnace down here! You can't imagine how deep you are below
+the surface or what could possibly generate so much heat, but for whatever
+reason the air is thick and heavy. You will have to turn back, however, for
+the tunnel simply ends leaving you no other alternative.
+~
+17 adm 0
+D1
+~
+~
+0 0 1771
+S
+#1771
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 adm 0
+D0
+~
+~
+0 0 1766
+D2
+~
+~
+0 0 1776
+D3
+~
+~
+0 0 1770
+S
+#1772
+An Earthen Tunnel~
+   Gazing upwards towards the narrow opening above you, all you can see is
+more of the same tunnel system. Looking closely at the earthen wall, you
+discover a sticky residue which would explain how the tunnel is able to retain
+its shape and strength given the material it is made from.
+~
+17 adm 0
+D0
+~
+~
+0 0 1767
+D2
+~
+~
+0 0 1777
+D4
+~
+~
+0 0 1742
+S
+#1773
+An Earthen Tunnel~
+   Unlike the other openings you've had to crawl through in this tunnel
+network, the one below you is slightly larger and there appears to be little
+sound coming from below.
+~
+17 ad 0
+D0
+~
+~
+0 0 1768
+D5
+If such a thing were possible, it's even darker down there than it is here!
+~
+~
+0 0 1795
+S
+#1774
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 ad 0
+D0
+~
+~
+0 0 1769
+D2
+~
+~
+0 0 1779
+S
+#1775
+An Earthen Tunnel~
+   It feels like a furnace down here! You can't imagine how deep you are below
+the surface or what could possibly generate so much heat, but for whatever
+reason the air is thick and heavy. You will have to turn back, however, for
+the tunnel simply ends leaving you no other alternative.
+~
+17 adm 0
+D2
+~
+~
+0 0 1780
+S
+#1776
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D0
+~
+~
+0 0 1771
+D1
+~
+~
+0 0 1777
+S
+#1777
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 adm 0
+D0
+~
+~
+0 0 1772
+D1
+~
+~
+0 0 1778
+D3
+~
+~
+0 0 1776
+S
+#1778
+An Earthen Tunnel~
+   It feels like a furnace down here! You can't imagine how deep you are below
+the surface or what could possibly generate so much heat, but for whatever
+reason the air is thick and heavy. You will have to turn back, however, for
+the tunnel simply ends leaving you no other alternative.
+~
+17 adm 0
+D3
+~
+~
+0 0 1777
+S
+#1779
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 ad 0
+D0
+~
+~
+0 0 1774
+D2
+~
+~
+0 0 1784
+S
+#1780
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 ad 0
+D0
+~
+~
+0 0 1775
+D2
+~
+~
+0 0 1785
+S
+#1781
+An Earthen Tunnel~
+   It feels like a furnace down here! You can't imagine how deep you are below
+the surface or what could possibly generate so much heat, but for whatever
+reason the air is thick and heavy. You will have to turn back, however, for
+the tunnel simply ends leaving you no other alternative.
+~
+17 adm 0
+D1
+~
+~
+0 0 1782
+S
+#1782
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 ad 0
+D1
+~
+~
+0 0 1783
+D3
+~
+~
+0 0 1781
+S
+#1783
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D2
+~
+~
+0 0 1788
+D3
+~
+~
+0 0 1782
+S
+#1784
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 ad 0
+D0
+~
+~
+0 0 1779
+D2
+~
+~
+0 0 1789
+S
+#1785
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 ad 0
+D0
+~
+~
+0 0 1780
+D1
+~
+~
+0 0 1786
+D2
+~
+~
+0 0 1790
+S
+#1786
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 ad 0
+D1
+~
+~
+0 0 1787
+D2
+~
+~
+0 0 1791
+D3
+~
+~
+0 0 1785
+S
+#1787
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D2
+~
+~
+0 0 1792
+D3
+~
+~
+0 0 1786
+S
+#1788
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 ad 0
+D0
+~
+~
+0 0 1783
+D2
+~
+~
+0 0 1793
+S
+#1789
+An Earthen Tunnel~
+   You examine the soft, earthen walls and while there isn't that much light
+to see by down here, you believe these tunnels have been newly constructed.
+The earth is still damp, both a combination of the humidity and a sticky
+substance which coats the walls.
+~
+17 ad 0
+D0
+~
+~
+0 0 1784
+D2
+~
+~
+0 0 1794
+S
+#1790
+An Earthen Tunnel~
+   It feels like a furnace down here! You can't imagine how deep you are below
+the surface or what could possibly generate so much heat, but for whatever
+reason the air is thick and heavy. You will have to turn back, however, for
+the tunnel simply ends leaving you no other alternative.
+~
+17 ad 0
+D0
+~
+~
+0 0 1785
+S
+#1791
+An Earthen Tunnel~
+   Having reached the end of this earthen tunnel, you have the choice of
+climbing through a narrow opening in the roof or heading deeper into the
+underground network.
+~
+17 ad 0
+D0
+~
+~
+0 0 1786
+D4
+~
+~
+0 0 1761
+S
+#1792
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D0
+~
+~
+0 0 1787
+D1
+~
+~
+0 0 1793
+S
+#1793
+An Earthen Tunnel~
+   Gazing upwards towards the narrow opening above you, all you can see is
+more of the same tunnel system. Looking closely at the earthen wall, you
+discover a sticky residue which would explain how the tunnel is able to retain
+its shape and strength given the material it is made from.
+~
+17 ad 0
+D0
+~
+~
+0 0 1788
+D1
+~
+~
+0 0 1794
+D3
+~
+~
+0 0 1792
+D4
+~
+~
+0 0 1763
+S
+#1794
+An Earthen Tunnel~
+   The tunnel takes a sharp right-angled turn here, something which you
+believed ants were incapable of building until now. The air is extremely warm
+and humid and sweat drips from your brow as you progress through the tunnel
+system.
+~
+17 ad 0
+D0
+~
+~
+0 0 1789
+D3
+~
+~
+0 0 1793
+S
+#1795
+An Earthen Chamber~
+   You find yourself at the northern end of a large chamber, built deep
+beneath the surface of the Dor-Sefrith plains. The air is so thick here, you
+can feel the weight of it upon your body and not a sound can be heard except
+from the tunnel network above your head.
+~
+17 ad 0
+D2
+~
+~
+0 0 1797
+D4
+~
+~
+0 0 1773
+S
+#1796
+An Earthen Chamber~
+   This earthern chamber is quite spacious and you are easily able to stand
+without restriction. The walls are covered in a thick, sticky mucus which you
+assume maintains their integrity. From here, you can enter the centre of the
+chamber to the east.
+~
+17 ad 0
+D1
+~
+~
+0 0 1797
+S
+#1797
+An Earthen Chamber~
+   The center of the chamber is rather large in comparison to its four
+corners and, oddly enough, is the coolest area you've managed to find. The
+remains of a number of eggs lie scattered around the chamber although most
+appear empty, long since abandoned by the creatures that lived within.
+~
+17 adm 0
+D0
+~
+~
+0 0 1795
+D1
+~
+~
+0 0 1798
+D2
+~
+~
+0 0 1799
+D3
+~
+~
+0 0 1796
+S
+#1798
+An Earthen Chamber~
+   Standing at the eastern end of this chamber, you note the floor is almost
+solid rock which would explain why this network of tunnels does not proceed
+any deeper underground. Surprisingly, the rock is warm to the touch and
+radiates heat, most likely the source of the higher temperatures within this
+place.
+~
+17 ad 0
+D3
+~
+~
+0 0 1797
+S
+#1799
+An Earthen Chamber~
+   The southern end of this earthen chamber is scattered with the skeletal
+remains of all number of unidentifiable creatures. While some look quite old,
+others still have pieces of flesh hanging from the bones although the majority
+have been picked clean.
+~
+17 ad 0
+D0
+~
+~
+0 0 1797
+S
+$~

@@ -1,0 +1,29 @@
+#1700
+giant fire ant egg~
+a giant fire ant egg~
+A strange, fire-red egg sits attached to the ground.~
+~
+12 m 0 0
+0 0 0 0 0
+3 3 0 30 300 1
+S fire_ant_egg.lua 4
+E
+giant fire ant egg~
+The egg pulsates with life as the creatures within it develop to a stage where
+they will be able to freely move outside of its confines.
+~
+#1701
+cocoon~
+a strange cocoon~
+A strange cocoon sits undisturbed on the ground.~
+~
+12 m 0 0
+0 0 0 0 0
+2 3 0 100 0 1
+S fire_ant_cocoon.lua 4
+E
+cocoon~
+Approximately one foot in length, the cocoon is made of a sticky substance
+which is rather solid, protecting whatever lies dormant within it.
+~
+$~

@@ -1,0 +1,36 @@
+#6800
+dagger ornate~
+an ornate dagger~
+A long, ornate dagger lies here forgotten.~
+~
+5 agk an 0
+6 5 4 11 2
+9 1 7000 20 0 1
+E
+ornate dagger~
+The handle is ivory, exquisitely carved by a master artisan while the blade
+has been painstakingly shaped with the strongest of metals. It glows softly
+as if it has been magically enchanted.
+~
+A
+19 1
+A
+18 1
+A
+1 1
+R
+6 4
+#6801
+hollow cylinder blow pipe~
+a blowpipe~
+A hollowed out cylinder has been discarded on the ground.~
+~
+5 0 an 0
+6 3 2 0 5
+2 1 25 30 0 1
+E
+hollow cylinder blow pipe~
+It's a simple weapon...a dart goes in one end, you aim it at your opponent and
+you blow.
+~
+$~

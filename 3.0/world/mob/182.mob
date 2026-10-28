@@ -1,0 +1,822 @@
+#18200
+tahk bek mage sorceress~
+Tahk Bek, the sorceress~
+Tahk Bek the sorceress is standing here.
+~
+Blessed with youthful beauty and warming smile, the sorceress is certainly not
+to be trifled with. As fragile and weak as she may appear, you can almost feel
+the power that radiates from her very essence.
+~
+bd h 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 2
+Race: 0
+Script: town_teleport.lua 512
+E
+#18201
+commoner~
+the commoner~
+A commoner is standing here.
+~
+One of Kir-Oshi's citizens, out on errands no doubt.
+~
+dglz 0 900 E
+15 22 15d8+174 3d4
+10 2904
+8 8 2
+Race: 0
+E
+#18202
+commoner dirty~
+the dirty commoner~
+A dirty commoner accosts you.
+~
+One of the poorer denziens of the city, this commoner looks like he could use
+a good meal.
+~
+dglz 0 900 E
+15 22 15d8+174 3d4
+20 2904
+8 8 1
+E
+#18203
+wharf rat~
+a wharf rat~
+A wharf rat scurries around your feet.
+~
+This vermin has the lean look of pestilence and disease in his eye. Wharf rats
+are an unfortunate side effect of Kir-Oshi's bustling port.
+~
+cdfghnq kst -200 E
+3 3 3d8+15 2d3
+0 259
+8 8 1
+BareHandAttack: 4
+Race: 30
+E
+#18204
+Piyun baker~
+Piyun~
+Piyun the baker is here, taking a break from cooking to tend your needs.
+~
+You see that he is a large and formidable man, probably from all the sweets.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+20000 50000
+8 8 1
+E
+#18205
+Keng-tu bartender~
+Keng-tu~
+Keng-tu is here, tending bar.
+~
+Keng-tu is a short man who stands about five and a half feet. He's barely
+able to reach the bottles on the top shelf, but manages just fine with his
+stool. He notices you looking at him, smiles and tells you to wait your turn.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+100 50000
+8 8 1
+Noise: You hear hearty laughter from the tavern.
+E
+#18206
+Shonya florist~
+Shonya~
+Shonya the florist is here, tending a bonzai tree.
+~
+She's a petite little wisp of woman, with long silken black hair that reaches
+almost to her knees.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+10000 50000
+8 8 2
+E
+#18207
+Kane~
+Kane, the weaponsmith~
+Kane the weaponsmith is here polishing his already glowing weapons.
+~
+You see a man who looks old but timeless. Even without all of these weapons,
+you know he could hurt you real bad.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+20000 50000
+8 8 1
+E
+#18208
+Guiee waiter~
+Guiee, the sushi bar waiter~
+Guiee is here, taking in all the smells that fish have to offer.
+~
+A large man, Guiee looks as if he's been worked to death. He is wearing a
+white cloth apron which is stained with fish entrails and blood.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+100 50000
+8 8 1
+Race: 0
+E
+#18209
+receptionist~
+an old fogie receptionist~
+An old, steely-eyed receptionist is here, bitching at the world in general.
+~
+This is a fat, old man that hates the world we live in, and doesn't mind
+telling you that over and over.
+~
+bdl 0 500 E
+100 199 100d8+3000 9d9
+25000 50000
+8 8 1
+E
+#18210
+Lannhi girl stablegirl~
+Lannhi~
+Lannhi, the stablegirl, brushes down the horses here.
+~
+A small dark-haired girl tends to the needs of the horses in this stable. You
+are amazed at the level of energy she must have to care for all these fine
+beasts, and keep this place in such good condition.
+~
+abdl 0 500 E
+100 199 100d8+3000 9d9
+10000 50000
+8 8 2
+Noise: A fowl stench of manure emanates from the south.
+Script: stable.lua 1
+E
+#18211
+Takahashi identifier~
+Takahashi~
+Takahashi eyes you through the hood of a dark cowl.
+~
+His facial features have been distorted through magical spells, except for
+one thing: two glowing eyes, like a cat in the darkness.
+~
+bdelnpqry dhkE -500 E
+100 199 100d8+3000 9d9
+34 50000
+8 8 1
+BareHandAttack: 12
+Race: 19
+Noise: Arcane chanting comes from the room to the south.
+Script: identifier.lua 520
+E
+#18212
+Tan Lee armorer~
+Tan Lee, the armorer~
+Tan Lee, the armorer, is here polishing a new set of armor.
+~
+Tan lee is scarred from many a battle, but you believe the only reason he is
+here to sell you anything at all is because he knows his armor.
+~
+abdy 0 500 E
+100 199 100d8+3000 9d9
+30000 50000
+8 8 1
+Race: 1
+E
+#18213
+confucius tattooist~
+Confucius~
+A balding tattooist in a monk's garment stands here.
+~
+He's an aging bald man with a brown robe and gnarled fingers. Tattoos cover
+him from head to toe.
+~
+abdelnp 0 500 E
+87 169 87d8+2434 7d8
+50 40574
+8 8 1
+Race: 0
+Noise: From the south, an agonized scream pierces your ears.
+Script: tattoo.lua 516
+E
+#18214
+man cloaked lao tse lao-tse~
+Lao-Tse~
+A cloaked man stands here, lost in thought.
+~
+You can't see his face, but the point of a goatee sticks out of the shadows
+created by his hood. A hideously distorted shape lies in his cloak, which
+leads you to ascertain that he is armed.
+~
+bdlmnprt d 500 E
+72 136 72d8+1832 6d7
+23 30547
+8 8 1
+BareHandAttack: 3
+Race: 0
+E
+#18215
+guard kir-oshi kir oshi~
+a Kir-Oshi guard~
+A Kir-Oshi guard defends the city walls.
+~
+He is a brave but simple warrior, trained from birth for this job. To be a
+guard for his city is his greatest joy, and he does the job well.
+~
+bdel 0 1000 E
+51 91 51d8+1092 5d6
+2 18210
+8 8 1
+Race: 0
+Script: take_jail.lua 384
+E
+#18216
+lou ching~
+Lou Ching~
+Lou Ching gives you an icy stare.
+~
+Lou Ching, master of nefarious and covert tactics. Don't trust him even if he
+is right in front of you.
+~
+bdelmnprt n -500 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+Race: 0
+E
+#18217
+ts'ao man ancient protector~
+Ts'ao Ts'ao~
+Ts'ao Ts'ao the Ancient Protector stands here.
+~
+Perhaps one of the greatest generals of his time, the gods saw fit to have
+Ts'ao Ts'ao live on to protect his native land. He exudes a great aura of
+physical power.
+~
+deglmnprsuA dfghk 1000 E
+99 197 99d8+2955 9d9
+300 49251
+8 8 1
+BareHandAttack: 12
+Race: 12
+E
+#18218
+vagabond~
+a vagabond~
+A vagabond slinks around here.
+~
+Careful, these guys are slicker than grease.
+~
+dghz dst -25 E
+45 79 45d8+905 5d5
+10 15093
+8 8 1
+BareHandAttack: 14
+Race: 3
+Noise: You hear a quiet scuffling.
+Script: thief.lua 128
+E
+#18219
+chiron teacher monk~
+Chiron~
+A robed monk nods politely as you enter.
+~
+The monk is covered from head to toe in a black, silk robe which makes
+virtually no noise as he wanders about the room. In the blink of an eye, he
+has moved to another area some distance away...something you didn't see
+happen!
+~
+bd s 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 2
+Script: teacher.lua 512
+E
+#18220
+shaolin monk~
+a shaolin monk~
+A shaolin monk is here, contemplating.
+~
+Though by no means a master, the shaolin monk is certainly adept at
+contemplating higher realities. He has a shaven head, and wears a dark robe.
+~
+bd 0 10 E
+30 49 30d8+492 4d5
+0 8215
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#18221
+tong assassin~
+the tong assassin~
+An assassin from the Liu'she Ch'uan tong sneaks about.
+~
+The tong assassin is the executioner of those who have gone against the tong
+in some way. Better hope he's not looking for you.
+~
+dhnprs dfkpst 0 E
+57 104 57d8+1291 5d6
+0 21517
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#18222
+sailor~
+a sailor~
+A sailor walks around, stretching his sea-legs.
+~
+He's just out looking for a good time. That, and some two-dollar hooker.
+~
+dg 0 0 E
+39 67 39d8+730 4d5
+0 12177
+8 8 1
+Race: 0
+E
+#18223
+harbor guard~
+a harbor guard~
+A harbor guard guards the port.
+~
+He's nothing but a hired thug.
+~
+degl dk -300 E
+45 79 45d8+905 5d5
+0 15093
+8 8 1
+Race: 0
+Script: take_jail.lua 384
+E
+#18224
+harbor master~
+the harbor master~
+The harbor master maintains order on the pier.
+~
+The harbor master is a big fat guy who smokes a long-stem pipe. He looks
+pretty burly though, better not mess with him.
+~
+deglnprs dk 0 E
+75 143 75d8+1948 6d7
+100 32475
+8 8 1
+Race: 0
+Script: take_jail.lua 384
+E
+#18225
+wu chien wu'chien~
+Wu'Chien~
+Wu'Chien silently observes your every move.
+~
+Once a ninja for the Liu'she Ch'uan tong, he is now Ronin - but dangerous,
+nonetheless.
+~
+bdelmnprt d 0 E
+72 136 72d8+1832 6d7
+10 30547
+8 8 1
+Race: 0
+E
+#18226
+tor waki~
+Tor Waki~
+Tor Waki is here, plotting.
+~
+A ruthless, sinister, and dishonorable fighter, Tor Waki is blood thirsty, and
+is always looking for a good fight. He has two sheathed katanas strapped to
+his back and is pacing about neverously.
+~
+bdehlmnprst dk -400 E
+69 130 69d8+1719 6d6
+28 28657
+8 8 1
+BareHandAttack: 13
+Race: 1
+E
+#18227
+monk old blind~
+the blind monk~
+An old, blind monk tries to reach Nirvana.
+~
+He sits in Samahdei, perfectly attune with his environment. No doubt, he is
+aware of your presence, even though he cannot see you.
+~
+bdelnpr adfh 800 E
+45 79 45d8+905 5d5
+0 15093
+8 8 1
+Race: 0
+E
+#18228
+clerk~
+a clerk~
+A clerk shuffles some papers around and calls it work.
+~
+He obviously works for the home office.
+~
+abdy 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Script: clerk.lua 8
+E
+#18229
+ki jun ki-jun chang banker~
+Ki-jun Chang, the city banker~
+Ki-jun Chang sits behind the desk half asleep.
+~
+Ki-jun Chang is a small man, standing about five and a half feet. He
+is wearing a simple robe, and smiles as he counts his money.
+~
+bdenpry d 0 E
+100 199 100d8+3000 9d9
+9000 50000
+8 8 1
+Race: 2
+Script: banker.lua 8
+E
+#18230
+Yong-jin Min witch~
+Yong-jin Min the witch~
+Yong-jin Min is brewing a potion here.
+~
+Yong-jin Min looks absolutely horrid. Her face has been distorted whilst
+trying to preserve her skin, and she is half bald atop her head. Her thin
+nose juts out of the center of her face on which there is a single hairy
+mole. She is wearing a dark cowl over her rail-like frame.
+~
+abdy d 0 E
+100 199 100d8+3000 9d9
+50000 50000
+8 8 2
+Race: 0
+Noise: A hideous cackling can be heard from the room to the south.
+E
+#18231
+mortician undertaker~
+the Kir-Oshi Mortician~
+The Mortician is standing here, covered in blood.
+~
+Type 'Retrieve' to get your corpse.
+~
+abdp d 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+E
+#18232
+local blacksmith black smith~
+the blacksmith~
+The local blacksmith hammers away at a piece of steel.
+~
+Dripping with sweat from the roaring fire and hard work, the local blacksmith
+is responsible for repairing and maintaining all manner of items for the
+town's citizens. With bulging muscles and standing much taller than you, this
+individual is not to be messed with!
+~
+abdy 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Noise: The sound of metal striking metal rings out clearly.
+E
+#18233
+guard samurai~
+an aged samurai~
+An aged samurai guards the stairs.
+~
+Apparently the dojo still has some use because, aged or not, he is not
+letting you up the stairs.
+~
+abdnpr d 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+E
+#18234
+drunkard~
+a drunkard~
+A drunkard is passed out in the corner.
+~
+He is snoring loudly and covered in his own vomit. Perhaps it's better
+if you just left him alone.
+~
+bdh 0 0 E
+9 12 9d8+81 3d3
+0 1350
+4 4 1
+BareHandAttack: 9
+Race: 0
+E
+#18235
+Aji general clerk~
+Aji the general store clerk~
+Aji smiles as you enter his shop.
+~
+Aji is a strange man indeed. He has been robbed continuously by the
+Liu'she Ch'uan Tong; the end result is a very skittish clerk.
+~
+abdy 0 0 E
+100 199 100d8+3000 9d9
+50000 50000
+8 8 1
+Race: 0
+E
+#18236
+ssauran jail guard~
+a ssauran jail guard~
+A ssauran jail guard bars your path.
+~
+This lizardman is not someone who you'd want to mess with. He bears scars
+from head to toe, and wears a constant frown across his leering face.
+~
+bd df 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+BareHandAttack: 8
+Race: 5
+E
+#18237
+jail guard~
+a jailguard~
+A jail guard stands watch here.
+~
+This fat man looks like he really enjoys his job. He can make a lot of
+money in one day from the bribes he receives.
+~
+bd df 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 0
+Script: jailguard.lua 146
+E
+#18238
+ssauran jewel dealer alirezza~
+Alirezza~
+A Ssauran jewel dealer is here, pushing his wares.
+~
+This Ssaur is a frail-looking figure with green skin and webbed hands and
+toes. He is wearing normal garmets, and gazes at his surroundings through
+split pupils.
+~
+adgy dk 0 E
+100 199 100d8+3000 9d9
+60000 50000
+8 8 1
+BareHandAttack: 8
+Race: 5
+E
+#18239
+minotaur~
+a minotaur~
+A minotaur roams the city streets.
+~
+Aside from the half man, half bull feature of this particular Minotaur,
+he is carrying a clothen sack. An obvious out-of-towner, he is most
+likely the product of the bustling pier, taking a short leave to see
+the sites of Kir-Oshi.
+~
+dgz 0 -100 E
+15 22 15d8+174 3d4
+0 2904
+8 8 1
+Race: 30
+E
+#18240
+monk pray~
+a monk~
+A monk prays before the altar.
+~
+He is kneeling before the altar and chanting in a tongue foreign to you.
+It would be rude to disturb him.
+~
+bdh 0 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 1
+Race: 0
+Noise: You hear a monotonous chanting from the structure to the east.
+E
+#18241
+shing lou~
+Shing Lou~
+Shing Lou enjoys the peacefulness of the garden.
+~
+He has dark, liquid, black eyes, and wears a simple robe. A dull gleam
+emanates from his freshly-shaven head, as he regards you with a friendly
+smile.
+~
+dgnprz dhkmp 0 E
+66 123 66d8+1608 6d6
+0 26809
+8 8 1
+Race: 0
+E
+#18242
+sakura woman~
+Sakura~
+A beautiful woman exposes her long legs.
+~
+A charming smile graces thin lips, as she notices you looking her over. She
+is wearing a black skirt and matching black lace stockings. A former assassin
+and seductress for the Liu'she Ch'uan Tong, Sakura hasn't forgotten how to
+shed a little blood.
+~
+dlmnpqrt dt -75 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 2
+Race: 0
+E
+#18243
+post master postmaster kir oshi~
+the Kir-Oshi postmaster~
+The Kir-Oshi postmaster busily works behind the desk.
+~
+She has dark circles under her deep blue eyes from staying awake at all
+hours of the night trying to keep up with the enormous amount of mail
+that goes in and out of the city.
+~
+abdenpr 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 2
+Race: 0
+E
+#18244
+tong smuggler mysterious rakshasa~
+a tong smuggler~
+A mysterious rakshasa hides in the shadows.
+~
+Aside from the orange fur and razor-sharp retractable claws, this particular
+smuggler looks like he has seen many battles. An jagged scar is over his left
+eye, and he wears a long black cloak, hiding most of his features. He works
+as a smuggler for the ever-feared Tong, and from the gems on his fingers, he
+appears to make a good salary.
+~
+bdelnpqrx dhnt -500 E
+96 190 96d8+2821 8d9
+361 47030
+8 8 1
+BareHandAttack: 8
+Race: 5
+Noise: The ship creaks eerily with the wind.
+E
+#18245
+prisoner~
+a prisoner~
+A prisoner has been chained up here.
+~
+Wearing frayed clothing, he exposes a bit more of himself than you would like
+to see; the open sores on his skin, the scabs and scars of previous beatings,
+and the purple bruises all over his body. He looks semi-conscious, but looks
+like he could succumb to death at any moment.
+~
+bdnpry dk 0 E
+57 104 57d8+1291 5d6
+0 21517
+8 8 1
+Race: 0
+Noise: You hear a whistling inhalation.
+Script: prisoner.lua 136
+E
+#18246
+eel fish carve_meat~
+an eel~
+An eel swims around here.
+~
+A black, snake-like creature, it looks as if it's been stuck here for quite
+a long time.
+~
+defmqrsz dfkptK 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 10
+Race: 18
+Noise: Something swims by your leg.
+E
+#18247
+fish big carve_meat~
+a big fish~
+A big fish swims about here.
+~
+From the slight glimpse in the cloudy water, it looked as if that big fish
+had fangs... But that's impossible.
+~
+defhmnpqrsz dfkptK 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 10
+Race: 18
+Noise: The shaft sways unstably with the tide.
+E
+#18248
+beautiful bird~
+a bird~
+A beautiful, multi-colored bird is pirched here.
+~
+It looks as if it's enjoying the garden as much as you. It is chirping
+happily and tentatively flapping its wings.
+~
+dhqz pA 0 E
+15 22 15d8+174 3d4
+0 2904
+8 8 0
+BareHandAttack: 8
+Race: 9
+Noise: A bird chirps happily.
+E
+#18249
+servant monk~
+the servant monk~
+A servant to the monks stands here.
+~
+He is wearing the traditional garments of the monks, but looks to be very
+under-fed and sickly. His ribs are protruding from his loose robe, and his
+shaved head looks dirty and unkempt. He is working busily organizing the
+various items donated for the citizens of Kir-Oshi; a tedious task indeed.
+~
+bdey dk 500 E
+96 190 96d8+2821 8d9
+0 47030
+8 8 1
+Race: 0
+Script: donation.lua 64
+E
+#18250
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#18251
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#18252
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+#18253
+shop keeper~
+the shop keeper~
+The shop keeper greets you warmly as you enter the store.
+~
+Busily working on the monthly accounts, the shop keeper takes a moment from
+his work to welcome you into the store. Even while distracted, he
+occassionally looks up to ensure everything is alright before continuing with
+his work.
+~
+bdy 0 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Race: 0
+Script: shop_give.lua 8
+E
+$

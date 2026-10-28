@@ -1,0 +1,385 @@
+CircleMUD v3.0 Shop File~
+#5351~
+5303
+5304
+5305
+5336
+5337
+5306
+-1
+1.30
+0.80
+9
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+5311
+None~
+0
+5351
+-1
+2
+23
+0
+0
+300
+#5352~
+5307
+5308
+5309
+5338
+5310
+5339
+5340
+-1
+1.30
+0.80
+5
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+5312
+None~
+0
+5352
+-1
+2
+23
+0
+0
+300
+#5354~
+5311
+5312
+-1
+1.50
+0.60
+8
+-1
+%s Sorry, I don't have any of those.~
+%s You don't appear to have that.~
+%s I'm sorry, I have no need for that.~
+%s I can't afford that!~
+%s You don't have the gold for that.~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+5313
+None~
+0
+5354
+-1
+2
+23
+0
+0
+50
+#5355~
+5313
+5314
+5316
+5333
+1412
+1207
+1208
+-1
+1.10
+0.80
+12
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s Sorry, I have no gold to pay you for that.~
+%s You can't afford that!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+5314
+None~
+0
+5355
+-1
+2
+23
+0
+0
+50
+#5367~
+5315
+5317
+5318
+5319
+5331
+-1
+1.30
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s Get out before I throw you out! Come back with some gold!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+5316
+None~
+0
+5367
+-1
+0
+24
+0
+0
+0
+#5474~
+1257
+1258
+1253
+1254
+1251
+8036
+4827
+-1
+1.30
+0.80
+10
+2
+3
+4
+19herb
+12conjure
+12reagent
+16parchment
+6
+-1
+%s Sorry, I do not hold that item in my store.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I do not have enough gold to pay you, I'm sorry.~
+%s You lack the gold required to pay for that.~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+b
+5328
+None~
+0
+5474
+-1
+2
+23
+0
+0
+150
+#5477~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+5477
+-1
+0
+24
+0
+0
+0
+#5478~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+5478
+-1
+0
+24
+0
+0
+0
+#5479~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+5479
+-1
+0
+24
+0
+0
+0
+#5480~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+5480
+-1
+0
+24
+0
+0
+0
+#5481~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+5481
+-1
+0
+24
+0
+0
+0
+#5482~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+5482
+-1
+0
+24
+0
+0
+0
+#5483~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+5483
+-1
+0
+24
+0
+0
+0
+#5484~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s No thanks, that isn't worth anything to me.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1
+None~
+0
+5484
+-1
+0
+24
+0
+0
+0
+$~

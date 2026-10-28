@@ -1,0 +1,1903 @@
+#9301
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D2
+~
+~
+0 -1 9302
+D3
+~
+~
+0 0 2711
+S
+#9302
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9301
+D2
+~
+~
+0 -1 9304
+D3
+~
+~
+0 0 2706
+S
+#9303
+The Coast~
+This description is yet unfinished...
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 0 2706
+D1
+~
+~
+0 -1 9304
+D2
+~
+~
+0 0 2715
+D3
+~
+~
+0 0 2704
+S
+#9304
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see. A small stream flows in from the west
+and pours out into the eastern ocean.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9302
+D2
+~
+~
+0 -1 9305
+D3
+~
+~
+0 -1 2709
+S
+#9305
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9304
+D2
+~
+~
+0 -1 9306
+D3
+~
+~
+0 0 2715
+S
+#9306
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9305
+D2
+~
+~
+0 -1 9310
+D3
+~
+~
+0 0 2714
+S
+#9307
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 0 2712
+D1
+~
+~
+0 -1 9308
+D2
+~
+~
+0 -1 9311
+D3
+~
+~
+0 0 3297
+S
+#9308
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 0 2713
+D1
+~
+~
+0 -1 9309
+D2
+~
+~
+0 -1 9312
+D3
+~
+~
+0 -1 9307
+S
+#9309
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 0 2714
+D1
+~
+~
+0 -1 9310
+D2
+~
+~
+0 -1 9313
+D3
+~
+~
+0 -1 9308
+S
+#9310
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9306
+D2
+~
+~
+0 -1 9314
+D3
+~
+~
+0 -1 9309
+S
+#9311
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9307
+D1
+~
+~
+0 -1 9312
+D2
+~
+~
+0 -1 9315
+D3
+~
+~
+0 0 3292
+S
+#9312
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9308
+D1
+~
+~
+0 -1 9313
+D2
+~
+~
+0 -1 9316
+D3
+~
+~
+0 -1 9311
+S
+#9313
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9309
+D1
+~
+~
+0 -1 9314
+D2
+~
+~
+0 -1 9317
+D3
+~
+~
+0 -1 9312
+S
+#9314
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9310
+D2
+~
+~
+0 -1 9318
+D3
+~
+~
+0 -1 9313
+S
+#9315
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9311
+D1
+~
+~
+0 -1 9316
+D2
+~
+~
+0 -1 9319
+D3
+~
+~
+0 0 3286
+S
+#9316
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9312
+D1
+~
+~
+0 -1 9317
+D2
+~
+~
+0 -1 9320
+D3
+~
+~
+0 -1 9315
+S
+#9317
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9313
+D1
+~
+~
+0 -1 9318
+D2
+~
+~
+0 -1 9321
+D3
+~
+~
+0 -1 9316
+S
+#9318
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9314
+D2
+~
+~
+0 -1 9322
+D3
+~
+~
+0 -1 9317
+S
+#9319
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9315
+D1
+~
+~
+0 -1 9320
+D2
+~
+~
+0 -1 9323
+D3
+~
+~
+0 0 3279
+S
+#9320
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9316
+D1
+~
+~
+0 -1 9321
+D2
+~
+~
+0 -1 9324
+D3
+~
+~
+0 -1 9319
+S
+#9321
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9317
+D1
+~
+~
+0 -1 9322
+D2
+~
+~
+0 -1 9325
+D3
+~
+~
+0 -1 9320
+S
+#9322
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9318
+D2
+~
+~
+0 -1 9326
+D3
+~
+~
+0 -1 9321
+S
+#9323
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9319
+D1
+~
+~
+0 -1 9324
+D2
+~
+~
+0 -1 9327
+D3
+~
+~
+0 0 3271
+S
+#9324
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9320
+D1
+~
+~
+0 -1 9325
+D2
+~
+~
+0 -1 9328
+D3
+~
+~
+0 -1 9323
+S
+#9325
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9321
+D1
+~
+~
+0 -1 9326
+D2
+~
+~
+0 -1 9329
+D3
+~
+~
+0 -1 9324
+S
+#9326
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9322
+D3
+~
+~
+0 -1 9325
+S
+#9327
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9323
+D1
+~
+~
+0 -1 9328
+D2
+~
+~
+0 -1 9330
+D3
+~
+~
+0 0 3262
+S
+#9328
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9324
+D1
+~
+~
+0 -1 9329
+D2
+~
+~
+0 -1 9331
+D3
+~
+~
+0 -1 9327
+S
+#9329
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9325
+D2
+~
+~
+0 -1 9332
+D3
+~
+~
+0 -1 9328
+S
+#9330
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9327
+D1
+~
+~
+0 -1 9331
+D2
+~
+~
+0 -1 9333
+D3
+~
+~
+0 0 3252
+S
+#9331
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9328
+D1
+~
+~
+0 -1 9332
+D2
+~
+~
+0 -1 9334
+D3
+~
+~
+0 -1 9330
+S
+#9332
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9329
+D2
+~
+~
+0 -1 9335
+D3
+~
+~
+0 -1 9331
+S
+#9333
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9330
+D1
+~
+~
+0 -1 9334
+D2
+~
+~
+0 -1 9336
+D3
+~
+~
+0 0 3242
+S
+#9334
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9331
+D1
+~
+~
+0 -1 9335
+D2
+~
+~
+0 -1 9337
+D3
+~
+~
+0 -1 9333
+S
+#9335
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9332
+D2
+~
+~
+0 -1 9338
+D3
+~
+~
+0 -1 9334
+S
+#9336
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9333
+D1
+~
+~
+0 -1 9337
+D2
+~
+~
+0 -1 9339
+D3
+~
+~
+0 0 3232
+S
+#9337
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9334
+D1
+~
+~
+0 -1 9338
+D2
+~
+~
+0 -1 9340
+D3
+~
+~
+0 -1 9336
+S
+#9338
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9335
+D2
+~
+~
+0 -1 9341
+D3
+~
+~
+0 -1 9337
+S
+#9339
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9336
+D1
+~
+~
+0 -1 9340
+D2
+~
+~
+0 -1 9342
+D3
+~
+~
+0 0 3222
+S
+#9340
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9337
+D1
+~
+~
+0 -1 9341
+D2
+~
+~
+0 -1 9343
+D3
+~
+~
+0 -1 9339
+S
+#9341
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9338
+D2
+~
+~
+0 -1 9344
+D3
+~
+~
+0 -1 9340
+S
+#9342
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9339
+D1
+~
+~
+0 -1 9343
+D2
+~
+~
+0 -1 9345
+D3
+~
+~
+0 0 3212
+S
+#9343
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9340
+D1
+~
+~
+0 -1 9344
+D2
+~
+~
+0 -1 9346
+D3
+~
+~
+0 -1 9342
+S
+#9344
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9341
+D2
+~
+~
+0 -1 9347
+D3
+~
+~
+0 -1 9343
+S
+#9345
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9342
+D1
+~
+~
+0 -1 9346
+D2
+~
+~
+0 -1 9348
+D3
+~
+~
+0 0 3202
+S
+#9346
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9343
+D1
+~
+~
+0 -1 9347
+D2
+~
+~
+0 -1 9349
+D3
+~
+~
+0 -1 9345
+S
+#9347
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9344
+D2
+~
+~
+0 -1 9350
+D3
+~
+~
+0 -1 9346
+S
+#9348
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9345
+D1
+~
+~
+0 -1 9349
+D2
+~
+~
+0 -1 9351
+D3
+~
+~
+0 0 3192
+S
+#9349
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9346
+D1
+~
+~
+0 -1 9350
+D2
+~
+~
+0 -1 9352
+D3
+~
+~
+0 -1 9348
+S
+#9350
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9347
+D2
+~
+~
+0 -1 9353
+D3
+~
+~
+0 -1 9349
+S
+#9351
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9348
+D1
+~
+~
+0 -1 9352
+D2
+~
+~
+0 -1 9354
+D3
+~
+~
+0 0 3182
+S
+#9352
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9349
+D1
+~
+~
+0 -1 9353
+D2
+~
+~
+0 -1 9355
+D3
+~
+~
+0 -1 9351
+S
+#9353
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9350
+D3
+~
+~
+0 -1 9352
+S
+#9354
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9351
+D1
+~
+~
+0 -1 9355
+D2
+~
+~
+0 -1 9356
+D3
+~
+~
+0 0 3172
+S
+#9355
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9352
+D2
+~
+~
+0 -1 9357
+D3
+~
+~
+0 -1 9354
+S
+#9356
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9354
+D1
+~
+~
+0 -1 9357
+D2
+~
+~
+0 -1 9358
+D3
+~
+~
+0 0 3162
+S
+#9357
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9355
+D2
+~
+~
+0 -1 9359
+D3
+~
+~
+0 -1 9356
+S
+#9358
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9356
+D1
+~
+~
+0 -1 9359
+D2
+~
+~
+0 -1 9360
+D3
+~
+~
+0 0 3152
+S
+#9359
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9357
+D2
+~
+~
+0 -1 9361
+D3
+~
+~
+0 -1 9358
+S
+#9360
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9358
+D1
+~
+~
+0 -1 9361
+D2
+~
+~
+0 -1 9362
+D3
+~
+~
+0 0 3142
+S
+#9361
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9359
+D2
+~
+~
+0 -1 9363
+D3
+~
+~
+0 -1 9360
+S
+#9362
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9360
+D1
+~
+~
+0 -1 9363
+D2
+~
+~
+0 -1 9364
+D3
+~
+~
+0 0 3132
+S
+#9363
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9361
+D2
+~
+~
+0 -1 9365
+D3
+~
+~
+0 -1 9362
+S
+#9364
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9362
+D1
+~
+~
+0 -1 9365
+D2
+~
+~
+0 -1 9368
+D3
+~
+~
+0 0 3122
+S
+#9365
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9363
+D2
+~
+~
+0 -1 9369
+D3
+~
+~
+0 -1 9364
+S
+#9366
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 0 3121
+D1
+~
+~
+0 -1 9367
+D2
+~
+~
+0 -1 9372
+D3
+~
+~
+0 0 3112
+S
+#9367
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 0 3122
+D1
+~
+~
+0 -1 9368
+D2
+~
+~
+0 -1 9373
+D3
+~
+~
+0 -1 9366
+S
+#9368
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the east.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9364
+D1
+~
+~
+0 -1 9369
+D2
+~
+~
+0 -1 9374
+D3
+~
+~
+0 -1 9367
+S
+#9369
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9365
+D2
+~
+~
+0 -1 9375
+D3
+~
+~
+0 -1 9368
+S
+#9370
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. In the distance, to the southwest, you can see the lights of
+a small town.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 0 3111
+D1
+~
+~
+0 -1 9371
+D2
+~
+~
+0 -1 9377
+S
+#9371
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 0 3112
+D1
+~
+~
+0 -1 9372
+D2
+~
+~
+0 -1 9378
+D3
+~
+~
+0 -1 9370
+S
+#9372
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9366
+D1
+~
+~
+0 -1 9373
+D2
+~
+~
+0 -1 9379
+D3
+~
+~
+0 -1 9371
+S
+#9373
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9367
+D1
+~
+~
+0 -1 9374
+D2
+~
+~
+0 -1 9380
+D3
+~
+~
+0 -1 9372
+S
+#9374
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9368
+D1
+~
+~
+0 -1 9375
+D2
+~
+~
+0 -1 9381
+D3
+~
+~
+0 -1 9373
+S
+#9375
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9369
+D2
+~
+~
+0 -1 9382
+D3
+~
+~
+0 -1 9374
+S
+#9376
+The Forest~
+The city walls to the village of Haven are just south of you. To the north,
+you see a small temple. To the west is a small road. To the east... forest.
+~
+93 0 0 0 0 3
+D1
+~
+~
+0 -1 9377
+D3
+~
+~
+0 0 3101
+S
+#9377
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. The walls of a small town rise to your southwest.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9370
+D1
+~
+~
+0 -1 9378
+D2
+~
+~
+0 -1 9383
+D3
+~
+~
+0 -1 9376
+S
+#9378
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the southeast.
+In the distance, to the southwest, you can see the lights of a small town.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9371
+D1
+~
+~
+0 -1 9379
+D2
+~
+~
+0 -1 9384
+D3
+~
+~
+0 -1 9377
+S
+#9379
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the south.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9372
+D1
+~
+~
+0 -1 9380
+D2
+~
+~
+0 -1 9385
+D3
+~
+~
+0 -1 9378
+S
+#9380
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the south.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9373
+D1
+~
+~
+0 -1 9381
+D2
+~
+~
+0 -1 9386
+D3
+~
+~
+0 -1 9379
+S
+#9381
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9374
+D1
+~
+~
+0 -1 9382
+D2
+~
+~
+0 -1 9387
+D3
+~
+~
+0 -1 9380
+S
+#9382
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9375
+D3
+~
+~
+0 -1 9381
+S
+#9383
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the south. The
+walls of a small town rise to your west.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9377
+D1
+~
+~
+0 -1 9384
+D2
+~
+~
+0 -1 9388
+S
+#9384
+The Forest~
+You are standing in the great forest. Huge trees tower into the sky in all
+directions. You can see the coast of an ocean not far to the south. Not far
+to the west, you can see the walls of a small town.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9378
+D1
+~
+~
+0 -1 9385
+D2
+~
+~
+0 -1 9389
+D3
+~
+~
+0 -1 9383
+S
+#9385
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see. In the distance to the west, you see the
+lights of a small town.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9379
+D1
+~
+~
+0 -1 9386
+D2
+~
+~
+0 -1 9390
+D3
+~
+~
+0 -1 9384
+S
+#9386
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9380
+D1
+~
+~
+0 -1 9387
+D3
+~
+~
+0 -1 9385
+S
+#9387
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9381
+D3
+~
+~
+0 -1 9386
+S
+#9388
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see. The walls of a small town rise to your
+west.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9383
+D1
+~
+~
+0 -1 9389
+S
+#9389
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see. Not far to the west, you can see the
+walls of a small town.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9384
+D1
+~
+~
+0 -1 9390
+D3
+~
+~
+0 -1 9388
+S
+#9390
+The Coast~
+You stand at the edge of the great forest on the coast of an ocean that
+spreads as far as the eye can see. In the distance to the west, you see the
+lights from a small town.
+~
+93 0 0 0 0 3
+D0
+~
+~
+0 -1 9385
+D3
+~
+~
+0 -1 9389
+S
+$~

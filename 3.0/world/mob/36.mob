@@ -1,0 +1,39 @@
+#3600
+yuan-ti abomination snake ssyzyil~
+Ssyzyil, the Abomination~
+An enormous black man-snake lashes about here.
+~
+Until now, you though that yuan-ti existed only in books and the nightmares
+of children.  Indeed, Ssyzyil appears to be a living, breathing nightmare,
+his thirteen foot black-bloated body raising up before you.  His humanoid
+body from his torso up is equally black and bloated and covered in a
+mixture of skin and scales.  The Abomination's face is dominated by black,
+lidless eyes which cannot conceal the rage that burns within him.
+Ssyzyil smiles at you, his mouth full of sharp fangs as well as more
+human looking teeth.
+~
+defhlpqsz dhkn -1000 E
+96 190 96d8+2821 8d9
+0 47030
+8 8 1
+BareHandAttack: 4
+Race: 29
+E
+#3601
+muta-ki abomination snake yyuhatil~
+Yyuhatil, the Abomination~
+An enormous striped man-snake crashes through the trees.
+~
+It appears the rumors were true, the muta-ki were long thought to have been
+extinct but one stands before you now. Yyuhatil towers above you, his
+humanoid body covered in a mixture of both scales and skin. A mouth full of
+fangs and teeth are revealed as the prospect of a fresh meal dawns on him.
+~
+defhlpqsz dhkn -1000 E
+96 190 96d8+2821 8d9
+0 47030
+8 8 1
+BareHandAttack: 4
+Race: 29
+E
+$

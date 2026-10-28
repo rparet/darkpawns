@@ -1,0 +1,509 @@
+#19801
+corpse child~
+the corpse of a dwarven child~
+The mutilated corpse of a dwarven child releases a foul smell.~
+~
+15 0 0 0 0 0 0 0 0
+1 0 -1 0
+95 0 10100
+#19802
+bones pile~
+a pile of bones~
+A pile of bones has accumulated in the room.~
+~
+15 0 0 0 0 0 0 0 0
+10 0 -1 0
+125 0 10100
+#19803
+giant tusk~
+a giant tusk~
+A giant tusk from some animal lies here.~
+~
+5 533120 0 0 0 8193 0 0 0
+0 5 2 11
+13 850 10075
+A
+6 -2
+#19804
+sign signpost post~
+a signpost~
+A signpost on the path's side reveals what lies nearby.~
+~
+12 65564 0 0 0 0 0 0 0
+0 1 4 7
+7 0 10100
+E
+sign signpost post~
+( Tavlyn )
+   |  |
+   |  |
+   |  |
+   |  |________
+   |   _______   ^^   (mountains, rough terrain)
+   |  |         ^^ ^^
+    %%
+ [ dead man's cliff ]
+~
+#19805
+slimy potion~
+a slimy potion~
+A slimy potion bubbles continuously.~
+~
+10 0 0 0 0 16385 0 0 0
+15 51 57 0
+1 750 750
+#19806
+crude dwarven short sword~
+a crude dwarven short sword~
+A dwarven shortsword of bad quality lies here.~
+~
+5 274432 0 0 0 8193 0 0 0
+0 2 5 3
+12 145 10075
+#19807
+travelling boots~
+a pair of travelling boots~
+A pair of lightweight travelling boots dirties the ground nearby.~
+~
+11 0 0 0 0 65 0 0 0
+0 0 0 0
+2 195 10095
+A
+14 5
+#19808
+crude leather vest~
+a crude leather vest~
+A leather vest is of such low quality that it's falling apart.~
+~
+9 0 0 0 0 9 0 0 0
+6 0 0 0
+4 140 10099
+#19809
+dwarven broadsword broad sword~
+a fine dwarven broadsword~
+A finely-crafted broadsword is inscribed with symbols of dwarven make.~
+~
+5 13312 0 0 0 8193 0 0 0
+0 2 6 3
+17 2150 10080
+A
+18 2
+A
+5 1
+#19810
+dwarven breast plate~
+a fine dwarven breast plate~
+A finely-crafted breast plate of dwarven make lies here.~
+~
+9 0 0 0 0 9 0 0 0
+9 0 0 0
+35 1750 10010
+A
+13 15
+A
+5 1
+#19811
+dwarven longbow bow~
+a fine dwarven longbow~
+A finely-crafted dwarven longbow of mahogany looks recently polished.~
+~
+6 9216 0 0 0 24577 0 0 0
+0 2 6 0
+8 925 10100
+A
+2 2
+A
+18 1
+#19812
+box arrows~
+a box for arrows~
+A box for arrows is ready to supply the archers in time of need.~
+~
+15 0 0 0 0 0 0 0 0
+10 5 -1 0
+25 0 10100
+#19813
+carved wooden arrow~
+a carved wooden arrow~
+A carved wooden arrow lies here.~
+~
+7 0 0 0 0 1 0 0 0
+1 3 3 0
+1 60 10100
+#19814
+dwarven helm~
+a fine dwarven helm~
+A finely-crafted helm of dwarven make lies here.~
+~
+9 20480 0 0 0 17 0 0 0
+8 0 0 0
+6 1050 10010
+A
+13 7
+A
+5 1
+#19815
+dwarven armplates~
+a pair of fine dwarven armplates~
+A pair of finely-crafted dwarven armplates lies here.~
+~
+9 544768 0 0 0 257 0 0 0
+9 0 0 0
+6 1350 10005
+A
+13 15
+A
+18 2
+#19816
+dwarven legplates~
+a pair of fine dwarven legplates~
+A pair of finely-crafted dwarven legplates shines with craftsmanship.~
+~
+9 0 0 0 0 33 0 0 0
+9 0 0 0
+8 1125 10010
+A
+13 10
+A
+2 1
+#19817
+dwarven boots~
+a pair of fine dwarven boots~
+A pair of finely-crafted dwarven boots is here.~
+~
+9 0 0 0 0 65 0 0 0
+7 0 0 0
+5 1165 10010
+A
+13 10
+A
+14 15
+#19818
+flaming mace deathbringer~
+a flaming mace called "Deathbringer"~
+A powerful-looking mace burns with the fires of deepest hell.~
+~
+5 643521 0 0 0 8193 0 0 0
+0 11 1 5
+16 2850 10005
+A
+12 5
+A
+9 5
+#19819
+katana white heat~
+a katana white with heat~
+A searing katana glows with dark powers.~
+~
+5 195011 0 0 0 1 0 0 0
+0 1 18 3
+10 4000 10003
+A
+2 3
+#19820
+ring of holding~
+a ring of holding~
+A magical ring floats in mid-air.~
+~
+15 434499 0 0 0 3 0 0 0
+100 1 -1 0
+1 3000 10004
+A
+17 20
+#19821
+flaming pendant~
+a flaming pendant~
+A pendant burns here with the hottest fires.~
+~
+8 811216 0 0 0 5 0 0 0
+0 0 0 0
+1 3000 10005
+A
+19 1
+A
+17 -5
+#19822
+gauntlets of ogre power~
+a gauntlets of ogre power~
+Some shimmering gauntlets lie here, hovering slightly above the ground.~
+~
+9 934019 0 0 0 129 0 0 0
+8 0 0 0
+8 7000 10010
+A
+1 3
+A
+19 1
+#19823
+mithril battle axe executioner~
+a pure mithril battle axe named "Executioner"~
+A glowing battle axe drips fresh blood.~
+~
+5 816451 0 0 0 8193 0 0 0
+0 6 3 3
+22 1000 10009
+A
+26 -1
+A
+18 1
+A
+25 6
+#19824
+beautiful white cape~
+a beautiful white cape~
+A beautiful white cape shines in the light.~
+~
+3 807936 0 0 0 1033 0 0 0
+10 4 3 28
+9 4450 10012
+A
+6 2
+A
+12 13
+#19825
+baby~
+a baby~
+A baby lies here, crying out for its mother.~
+~
+19 66048 0 0 0 16385 0 0 0
+48 0 0 0
+1 0 10100
+A
+6 2
+A
+9 1
+#19826
+canteen~
+a small canteen~
+A small canteen spills water on the ground.~
+~
+17 0 0 0 0 16385 0 0 0
+3 3 0 0
+4 45 10100
+#19827
+trail rations~
+some trail rations~
+Some trail rations are here.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0
+1 18 10100
+#19828
+golden breast plate~
+a beautiful golden breast plate~
+A beautifully-crafted dwarven breast plate gleams in the light.~
+~
+9 806912 0 0 0 9 0 0 0
+9 0 0 0
+49 6995 10100
+A
+6 1
+#19829
+golden helm~
+a beautiful golden helm~
+A beautiful helm made of solid gold shines in the light.~
+~
+9 1025 0 0 0 17 0 0 0
+8 0 0 0
+6 4495 10075
+A
+6 1
+A
+2 1
+#19830
+golden shield~
+a beautiful golden shield~
+A beautiful shield made of solid gold shines in the light.~
+~
+9 806913 0 0 0 513 0 0 0
+9 0 0 0
+9 5995 10100
+A
+6 1
+A
+13 14
+#19831
+spiked golden visor~
+a spiked golden visor~
+A spiked visor made of solid gold is here.~
+~
+9 406529 0 0 0 131073 0 0 0
+6 0 0 0
+6 8995 10010
+A
+19 1
+A
+6 1
+#19832
+steel short sword~
+a steel short sword~
+A shortsword made of steel bears a Tavlyn insignia on its hilt.~
+~
+5 274432 0 0 0 8193 0 0 0
+0 2 3 3
+9 95 10100
+#19833
+steel long sword~
+a steel long sword~
+A long sword made of steel bears the Tavlyn insignia on its hilt.~
+~
+5 798720 0 0 0 8193 0 0 0
+1 3 4 3
+12 125 10090
+#19834
+sharp rock~
+a sharp rock~
+A rock with a sharp point on one side is here.  It looks like a weapon.~
+~
+5 8192 0 0 0 8193 0 0 0
+0 1 4 11
+3 5 10100
+#19835
+ruby-hilted platinum broadsword~
+a ruby-hilted platinum broadsword~
+A platinum broadsword with a huge ruby in its hilt bears the Tavlyn insignia.~
+~
+5 406609 0 0 0 8193 0 0 0
+0 5 3 3
+20 3500 10015
+A
+24 -2
+A
+18 4
+#19836
+curved mithril knife~
+a curved mithril knife~
+A wickedly-curved knife of mithril is here.~
+~
+5 271426 0 0 0 8193 0 0 0
+0 1 14 11
+2 2250 10035
+A
+19 2
+A
+25 1
+#19837
+silver long sword~
+a silver long sword~
+A long sword made of pure silver is here.~
+~
+5 553984 0 0 0 8193 0 0 0
+0 6 2 3
+13 975 10025
+A
+18 2
+A
+25 7
+#19838
+fake diamond ring~
+an obviously fake diamond ring~
+An obviously fake diamond ring is here; only a fool would pay much for it.~
+~
+11 0 0 0 0 3 0 0 0
+0 0 0 0
+1 825 10100
+A
+6 -1
+#19839
+crude jade ring~
+a crude jade ring~
+A crude jade ring lies here in the dust.~
+~
+8 0 0 0 0 3 0 0 0
+0 0 0 0
+1 225 10100
+A
+6 1
+#19840
+holy cross~
+a holy cross~
+A cross glows with a strange white divine light.~
+~
+18 7134545 0 0 0 5 0 0 0
+0 0 0 0
+2 550 10015
+A
+12 15
+#19841
+inscription~
+an inscription~
+An inscription burned into one wall catches your attention.~
+~
+12 24 0 0 0 0 0 0 0
+0 0 0 0
+0 0 10100
+E
+inscription wall~
+  One man in ten is very strong,
+  One man in twenty is very wise.
+  Together they cannot go wrong;
+  Apart, they shall drop like flies.
+
+  The wise man's chore is here,
+  Should he not be consumed by fear.
+  The strong man's chore is near,
+  Should the other's wisdom be clear.
+
+  Speaketh the word of the omniscient eye,
+  Be not afraid of what may be,
+  For if you lie, you will not die;
+  Speaketh what the omniscient eye see.
+
+~
+#19842
+claws dracolich~
+the wickedly-sharp claws of a dracolich~
+The mighty claws of the ancient dracolich glow with forboding power.~
+~
+9 8386 0 0 0 129 0 0 0
+12 0 0 0
+13 2750 10003
+A
+19 3
+A
+2 2
+#19843
+tail dracolich~
+the tail of the ancient dracolich (spiked)~
+A huge tail of bone bears dangerous, wicked-looking spikes.~
+~
+5 12482 0 0 0 26625 0 0 0
+0 4 4 6
+22 2750 10003
+A
+19 2
+A
+10 125
+#19844
+Orb of Souls~
+an Orb of Souls~
+A dark orb absorbs all light around it, and you feel it pull at your soul...~
+~
+15 131713 0 0 0 262145 0 0 0
+25 0 -1 0
+4 15000 10002
+A
+27 10
+A
+5 -4
+A
+6 -1
+A
+12 25
+#19845
+priest's soul priest~
+a priest's soul~
+A strange force is in the room, like a man's soul, but you cannot see it.~
+~
+3 296 0 0 0 16385 0 0 0
+30 10 3 48
+0 0 10050
+#19846
+key tavlyn~
+the key to Tavlyn~
+A large mithril key lies here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0
+$~

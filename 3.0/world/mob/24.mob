@@ -1,0 +1,161 @@
+#2400
+bandit lookout ~
+a bandit lookout~
+A bandit lookout has been stationed here.
+~
+This poor fellow got stuck on lookout duty. Judging from the small
+canyons of darkness underneath his eyes, you infer he's been here for
+quite a long time, and, faithful to his post, hasn't dozed off. He looks
+like your average bandit, tattered clothes and tanned skin. Oddly
+enough, he doesn't seem the least bit alarmed at your presence as an
+outsider.
+~
+bd 0 0 E
+20 31 20d8+268 3d5
+0 4472
+8 8 1
+E
+#2401
+desert bandit~
+a desert bandit~
+A desert bandit is here, cleaning his dagger.
+~
+He's your average, run of the mill bandit. He's not scrawny, but he's no
+bodybuilder. He's probably a grunt for the bandits, the kind of guy that
+gets setn along with the big dogs for strength in numbers. However, since
+he's alone, you bet you could take him. He's cleaning something off of his
+dagger, which is fashioned from stone. It's probably just his lunch, though,
+as you can't imagine that this guy has killed anyone lately.
+~
+bd 0 0 E
+22 34 22d8+309 3d5
+12 5159
+8 8 1
+BareHandAttack: 11
+E
+#2402
+sparring bandit~
+a sparring bandit~
+A rough young bandit stands here tapping his foot impatiently.
+~
+Newly inducted as a bandit, this guy is looking for someone with whom to
+pick a fight, in hopes of honing his blade skills. As he impatiently waits
+for an unknown guest, he slashes his blade around a bit in the air,
+practicing his strokes. Upon meeting your glare, he sneers, disapproving of
+you as a fight worth picking. Snobby little bastard. Give him what he's got
+comin to him!
+~
+bd 0 0 E
+17 26 17d8+210 3d4
+0 3504
+8 8 1
+E
+#2403
+rotund man bandit cook chef~
+the bandit cook~
+A rotund man in an apron is pacing around here, watching his stew.
+~
+Take a gourment chef, make him live in the desert for a few years with a 
+group of bandits, and put him through a few mortal battles with wild animals
+just to obtain the night's meal, and you've probably got this guy. He's about
+the right size for a chef who rather enjoys his food, but one can't help but
+wonder how much of this guy is actually muscle.
+~
+bd 0 0 E
+25 40 25d8+375 3d5
+20 6250
+8 8 1
+E
+#2404
+dog mutt attacked trained~
+an attack dog~
+A trained attack dog sniffs at your feet and growls. 
+~
+A mutt beyond mutts, this dog is really like nothing you've ever seen. It's 
+probably a mix of all the dogs you've ever seen, and a few you might never
+have. The result? One ugly puppy. Its dark brown fur is ruffled all over, and
+discolored on its long, though stockey, legs. But looks aside, it stands at
+about three feet high, and looks to be awfully well fed. Also, no matter how
+much of a mutt the dog is, its teeth are something that won't change much.
+Teeth are teeth, and you'd prefer not to catch them in your leg.
+~
+bdm 0 0 E
+16 24 16d8+192 3d4
+0 3200
+8 8 0
+BareHandAttack: 4
+Race: 11
+E
+#2405
+angry bandit mad furious~
+an angry bandit~
+A furious looking bandit is stalking around here, mad about something.
+~
+He's definitely cross. Maybe he just got assigned to work on lookout duty,
+or maybe he just stubbed his toe on a rock, but whatever the reason, this
+small-framed, short, dark haired bandit is hoppin mad. He stares right 
+through you and doesn't notice you in front of him, which is probably a good
+thing, since you're willing to bet he'd probably punch you if he did see you
+there.
+~
+cdn 0 0 E
+18 27 18d8+229 3d4
+12 3818
+8 8 1
+E
+#2406
+guard bandit~
+a bandit guard~
+A bandit guard is here, making sure nobody disturbs his leader.
+~
+He's your average dark-haired, tan, semi-muscular bandit, nothing new
+to see here, except that he REALLY doesn't want to let you in the room
+behind him.
+~
+bde 0 0 E
+27 44 27d8+420 3d5
+1 7014
+8 8 1
+Script: no_move.lua 512
+E
+#2407
+Brianna leader bandit woman desert~
+Brianna, leader of the desert bandits~
+Brianna seems infuriated by your intrusion upon her privacy.
+~
+Brianna is tall, and has a surprisingly light complexion for a bandit, let
+alone someone dwelling on the Xixieqi continent. Long blonde hair
+accompanies piercing green eyes, and her pale skin looks as though its
+never seen a day in the sun. How she manages that as a bandit, well, 
+your guess is as good as any. She doesn't look overly strong, but for a 
+woman to lead a group of bandits, she's got to be a pretty tough cookie.
+She holds a single rose, taken from a cactus, close to her heart, even as 
+she notices you and becomes a lot less pleased. She stops her day 
+dreaming and the placid look on her face is now one of contempt and wrath, 
+amongst other foul moods.
+~
+bde d 0 E
+43 75 43d8+845 5d5
+0 14098
+8 8 2
+E
+#2410
+bandit armorer~
+the bandit armorer~
+The bandit's armorer is here, tempering a sword.
+~
+The bandit armorer is one heck of a crafty fellow. If you give him his tools
+and time to work, he could make a deadly weapon from a pile of rocks and
+a bottle of firebreather. He's surprisingly thinner than the typical armorer, 
+but his sleeve-less shirt reveals the well toned muscular arms you'd expect
+to see from an armorer. He is well tanned, and is currently sweating, having
+been tempering the stone sword you currently see in his hands. When he
+sees you in his shop, he smiles and walks over to greet you, hoping to make
+a sale.
+~
+bdenpq 0 0 E
+100 199 100d8+3000 9d9
+50000 50000
+8 8 1
+E
+$

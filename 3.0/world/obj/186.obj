@@ -1,0 +1,70 @@
+#18600
+scroll tattered worn~
+a tattered scroll~
+A worn and tattered scroll lies here.~
+~
+2 0 a 0
+54 45 0 0 0
+2 1000 8
+#18601
+staff blood stained~
+a blood-stained staff~
+A staff that is covered with dried blood lies here.~
+~
+8 g amo 0
+18 4 4 83 0
+4 5000 8
+A
+11 125
+A
+11 125
+A
+11 125
+A
+10 -125
+A
+10 -125
+A
+10 -125
+#18602
+translucent ring~
+a translucent ring~
+A translucent ring is lying in the dust.~
+~
+8 g ab 0
+0 0 0 0 0
+1 100 20
+A
+12 4
+#18603
+necklace stones translucent~
+a necklace of translucent stones~
+A necklace with large, translucent stones is lying in a heap.~
+~
+8 g ac 0
+0 0 0 0 0
+3 650 20
+A
+12 3
+#18605
+sword long rust~
+a rusted long sword~
+A long sword that is covered with rust and barely seems usable lies here.~
+~
+5 0 an 0
+1 2 2 3 7
+5 300 70
+#18616
+well aged old~
+an aged well~
+An aged well rises from the center of the square.~
+~
+23 e 0 0
+5000 5000 0 0 0
+20 0 100
+E
+well old aged~
+Some of the stones and mortar have broken loose, making this well appear to
+be caving in. Better be careful if you intend to drink from it.
+~
+$~

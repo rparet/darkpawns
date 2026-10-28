@@ -1,0 +1,463 @@
+#8000
+beer barrel~
+a barrel~
+A beer barrel has been left here.~
+~
+17 0 a 0
+30 30 1 0 0
+40 3 50 100 0 1
+#8001
+beer cask~
+a cask~
+A cask of beer has been left here.~
+~
+17 0 a 0
+12 12 1 0 0
+16 3 50 100 0 1
+#8002
+ale bottle dark~
+a bottle~
+A dark bottle of ale has been left here.~
+~
+17 0 a 0
+8 8 3 0 0
+10 3 15 100 0 1
+#8003
+firebreather bottle~
+a clear bottle~
+A clear bottle with a dragon's head on the label lies here.~
+~
+17 0 a 0
+8 8 7 0 0
+10 3 20 100 0 1
+#8004
+local bottle~
+a dark bottle~
+A dark bottle has been left here.~
+~
+17 0 a 0
+8 8 5 0 0
+10 3 15 100 0 1
+#8005
+shovel~
+a shovel~
+A shovel has been discarded here by its owner.~
+~
+5 0 ano 0
+5 1 5 5 6
+5 2 120 100 0 1
+E
+shovel~
+What can you say, it's a shovel! Go dig with it!
+~
+#8006
+belt beltpouch~
+a beltpouch~
+A beltpouch lies on the ground.~
+~
+15 0 al 0
+16 5 -1 0 0
+1 3 50 100 0 1
+#8007
+ring wedding band~
+a wedding band~
+A small ring of gold lies here.~
+~
+11 0 ab 0
+0 0 0 0 3
+1 3 5 100 0 1
+E
+ring wedding band~
+Inscribed on the inside in flowing script are the words:
+"Forever in Love"
+~
+#8008
+necklace runed~
+a runed necklace~
+A runed, golden necklace lies here.~
+~
+9 g ac 0
+2 0 0 0 5
+2 3 25 100 0 1
+E
+necklace runes runed~
+The necklace is inscribed with a minor rune of protection.
+~
+#8009
+bread roll~
+a bread roll~
+A bread roll has been left here.~
+~
+19 0 a 0
+2 0 0 0 0
+1 3 1 100 96 1
+#8010
+loaf bread~
+a loaf of bread~
+A loaf of bread lies here.~
+~
+19 q a 0
+4 0 0 0 0
+2 3 3 100 96 1
+#8011
+danish pastry~
+a danish pastry~
+A nice looking delicious danish pastry has been placed here.~
+~
+19 0 a 0
+2 0 0 0 0
+1 3 2 100 72 1
+#8012
+canteen~
+a canteen~
+A shiny canteen lies on the ground.~
+~
+17 0 a 0
+5 0 15 0 0
+7 2 20 100 0 1
+#8013
+slab ribs~
+a slab of barbequed ribs~
+A slab of barbequed ribs lies on the ground.~
+~
+19 0 a 0
+8 0 0 0 0
+3 3 4 100 10 1
+#8014
+slab beef~
+a slab of salted beef~
+A slab of salted beef lies on the ground.~
+~
+19 0 a 0
+8 0 0 0 0
+2 3 3 100 24 1
+#8015
+dough roll~
+a roll of dough~
+A roll of dough has been left to spoil on the ground.~
+~
+19 0 a 0
+1 0 0 0 0
+2 2 10 100 4 1
+E
+dough roll~
+You could eat the dough by itself if you like, although it's not the best
+tasting piece of food around. Alternatively, you could take it to a baker to
+be made into bread.
+~
+#8016
+thyme herb sprig~
+a sprig of thyme~
+A sprig of thyme has been left here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 2 100 0 1
+E
+thyme herb sprig~
+It's an aromatic herb with small, white flowers grouped in headlike clusters.
+Commonly used as a seasoning or preservative for food.
+~
+#8019
+frayed tunic~
+a frayed tunic~
+A frayed tunic is lying on the ground.~
+~
+11 r ad 0
+0 0 0 0 0
+6 3 0 100 0 1
+#8020
+dagger~
+a dagger~
+A dagger with a long thin blade is here.~
+~
+5 0 an 0
+6 1 3 11 5
+1 1 20 100 0 1
+#8021
+sword short~
+a short sword~
+A short sword lies here.~
+~
+5 0 an 0
+1 4 3 11 5
+3 2 30 100 0 1
+E
+inscription~
+It says: "May this sword be a good companion."
+~
+E
+sword small~
+The small sword seems to have an inscription of some sort inscription...~
+#8022
+sword long~
+a long sword~
+A long sword has been left here.~
+~
+5 0 an 0
+1 4 4 3 5
+8 2 60 100 0 1
+#8023
+mace wooden club~
+a wooden club~
+A simple looking wooden club is here.~
+~
+5 0 an 0
+5 2 6 7 6
+3 2 12 100 0 1
+#8024
+mace war hammer~
+a warhammer~
+A medium sized warhammer is here.~
+~
+5 0 an 0
+5 5 3 7 4
+6 2 45 100 0 1
+#8025
+whip flail~
+a flail~
+A large flail is here.~
+~
+5 0 an 0
+7 4 4 6 4
+6 3 85 100 0 1
+#8026
+axe battle~
+a battle axe~
+A battle axe is here.~
+~
+5 0 an 0
+2 4 6 3 5
+13 3 301 100 0 1
+#8027
+lockpicks picks set~
+a set of lockpicks~
+A set of lockpicks have been left here.~
+~
+12 q ao 0
+0 0 0 0 0
+1 3 5 100 0 1
+E
+picks lockpicks pick~
+It's a set of wires and strangely-shaped ribbons of metal fastened together
+by a steel ring. With these and a little bit of skill, you could pick most
+anything.
+~
+#8028
+picks lockpicks~
+a broken set of lockpicks~
+A mangled set of lockpicks lie here.~
+~
+12 0 ao 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+pick picks lockpicks~
+They're broken beyond repair, and certainly beyond use.
+~
+#8029
+wood axe~
+a wood axe~
+An axe used for chopping wood has been left here.~
+~
+5 0 an 0
+2 4 4 3 6
+10 3 130 100 0 1
+S wood_axe.lua 2
+E
+wood axe~
+The handle is old and looks like it will rot, the axe head is rough and
+rusted almost beyond hope. It might fell a tree with enough effort and perhaps
+cause some damage to a foe.
+~
+#8030
+torch~
+a torch~
+A large torch sits on the ground.~
+~
+1 0 ao 0
+0 0 24 0 0
+1 3 3 100 0 1
+#8031
+lantern~
+a lantern~
+A brass lantern is here.~
+~
+1 0 ao 0
+0 0 24 0 0
+3 3 30 100 0 1
+#8032
+bag~
+a bag~
+A small bag is here.~
+~
+15 0 a 0
+20 0 -1 0 0
+1 3 20 100 0 1
+#8033
+flawless soul gem~
+a flawless soul gem~
+A flawless soul gem sits on the ground.~
+~
+6 0 ao 0
+100 0 0 0 0
+2 3 10000 30 0 1
+E
+flawless soul gem~
+The gem is actually a highly polished sphere, in this case flawless, that fits
+neatly into your hands. It has a light blue hue and tearing your eyes away
+from it seems overly difficult.
+~
+#8034
+exquisite soul gem~
+an exquisite soul gem~
+An exquisite soul gem sits on the ground.~
+~
+6 0 ao 0
+75 0 0 0 2
+2 3 8000 100 0 1
+E
+exquisite soul gem~
+The gem is actually a smoothly polished sphere, in this case exquisitely done,
+that fits neatly into your hands. It has a light green hue and manages to keep
+your attention for some period of time.
+~
+#8035
+decent soul gem~
+a decent soul gem~
+A decent soul gem sits on the ground.~
+~
+6 0 ao 0
+50 0 0 0 5
+2 3 6000 100 0 1
+E
+decent soul gem~
+The gem is actually a polished sphere, in this case decently done, that fits
+neatly into your hands. It has a reddish hue that holds some fascination but
+is not overly riveting.
+~
+#8036
+poor soul gem~
+a poor soul gem~
+A poor soul gem sits on the ground.~
+~
+6 0 ao 0
+25 0 0 0 7
+2 3 4000 100 0 1
+E
+poor soul gem~
+The gem is actually a roughly polished sphere, in this case poorly done, that
+fits neatly into your hands. It has a yellowish hue which is not overly
+appealing.
+~
+#8037
+sword short~
+a short sword~
+A shiny short sword is here.~
+~
+5 0 an 0
+1 4 3 11 5
+3 2 30 100 0 1
+#8038
+backpack pack~
+a backpack~
+A well-used backpack lies in the dirt here.~
+~
+15 q ak 0
+50 5 -1 0 0
+10 3 200 100 0 1
+E
+backpack pack~
+It's a leather pack, well-used yet still operational; the flap on top
+opens and closes securely.
+~
+#8040
+breastplate breast plate~
+a breastplate~
+A breastplate is lying on the ground.~
+~
+9 0 ad 0
+10 0 0 0 5
+40 3 300 100 0 1
+#8041
+shirt chain mail~
+a chain mail shirt~
+A chain mail shirt is lying on the ground.~
+~
+9 0 ad 0
+8 0 0 0 5
+22 3 250 100 0 1
+#8042
+shield~
+a shield~
+A small wooden shield is lying on the ground.~
+~
+9 0 aj 0
+7 0 0 0 5
+10 3 50 100 0 1
+#8043
+boots plain~
+a pair of plain boots~
+A pair of plain boots have been left here.~
+~
+9 0 ag 0
+3 0 0 0 6
+3 3 30 100 0 1
+#8044
+helm polished~
+a polished helm~
+A polished helm has been left here.~
+~
+9 0 ae 0
+2 0 0 0 5
+5 3 100 100 0 1
+#8045
+jacket scale mail~
+a scale mail jacket~
+A scale mail jacket is lying on the ground.~
+~
+9 0 ad 0
+6 0 0 0 5
+25 1 275 100 0 1
+#8052
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 gm a 0
+35 42 0 0 0
+2 3 150 100 0 1
+E
+scroll~
+The scroll has a written formulae of 'Word of Recall' upon it.
+~
+#8062
+magical magic mushroom~
+a Magic Mushroom~
+A beautiful multicolored mushroom has been left on the ground.~
+~
+19 0 a 0
+10 0 0 0 0
+1 3 0 0 120 1
+#8063
+water skin~
+a water skin~
+A leather water skin has been left here.~
+~
+17 q a 0
+6 6 0 0 0
+8 1 15 100 0 1
+#8087
+water fountain~
+the large fountain~
+A large fountain carved from blue-streaked marble is here, bubbling merrily.~
+~
+23 eg 0 0
+999999 999999 15 0 0
+1005 3 0 100 0 1
+E
+marble blue streaked~
+It is very beautiful white marble, shot through with electric blue streaks
+that look almost like lightning dancing along the sides of the fountain.
+~
+$~

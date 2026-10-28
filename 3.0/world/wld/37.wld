@@ -1,0 +1,237 @@
+#3700
+The Begining~
+Not much here.
+~
+37 0 0
+S
+#3701
+A Rocky Island~
+   Jagged rocks mark the coast, if you could call it that, of this small
+island in the middle of Lake Argos. A shroud of mist envelopes both the lake
+and the island, making it difficult to navigate your way around.
+~
+37 0 5
+D0
+~
+~
+0 0 9945
+D1
+~
+~
+0 0 9950
+D2
+~
+~
+0 0 3703
+D3
+~
+~
+0 0 9941
+S
+#3702
+A Rocky Island~
+   You stand on the western edge of a small, rocky island which sits under the
+shadow of Mount Kolvir away to the east. You can quite clearly see the other
+side of the island, although the path is by no means an easy one - jagged
+rocks protrude through the island surface like misshapen teeth, threatening to
+tear you to shreds as you travel.
+~
+37 0 5
+D0
+~
+~
+0 0 9941
+D1
+~
+~
+0 0 3703
+D2
+~
+~
+0 0 3705
+D3
+~
+~
+0 0 9929
+S
+#3703
+A Rocky Island~
+   As you make your way through the maze of rocks and boulders of this island,
+you come across a circular stone buried in the ground. It's certainly not
+natural, as most of the surrounding rocks were formed as part of an ancient
+volcanic eruption and clearly shows the signs of having been forced up through
+the earth.
+~
+37 0 5
+R wight_entrance.lua 34
+D0
+~
+~
+0 0 3701
+D1
+~
+~
+0 0 3704
+D2
+~
+~
+0 0 3706
+D3
+~
+~
+0 0 3702
+E
+stone~
+0~
+The stone is approximately 10 feet in diameter and has a highly polished
+surface, although there is no indication of why it is here.
+~
+S
+#3704
+A Rocky Island~
+   Taking a moment of rest, you gaze at the landscape before you. Dominating
+the eastern skyline is the forebidding peak of Mount Kolvir, while surrounding
+the rocky island you are now on are the clear waters of Lake Argos. The fiery
+glow of volcanic activity can be seen through narrow fissures in the island
+surface, indicating that perhaps this land is not quite at rest...
+~
+37 0 5
+D0
+~
+~
+0 0 9950
+D1
+~
+~
+0 0 9937
+D2
+~
+~
+0 0 3707
+D3
+~
+~
+0 0 3703
+S
+#3705
+A Rocky Island~
+   There is a faint, yet noticeable vibration from the surrounding rocks which
+mark the coastline of this island. It acts as a source for the many ripples
+which propogate outwards towards the far shore of the lake to the west. Should
+you decide to explore the remainder of the island, you can clamber your way to
+east or traverse the coast to the north.
+~
+37 0 5
+D0
+~
+~
+0 0 3702
+D1
+~
+~
+0 0 3706
+D2
+~
+~
+0 0 9917
+D3
+~
+~
+0 0 9925
+S
+#3706
+A Rocky Island~
+   Violent, natural forces created this island many years ago, certainly
+before any manner of beast roamed the land. Time, however, has tempered such
+violence and worn away many of the rough, protruding rocks that make up the
+visible surface.
+~
+37 0 5
+D0
+~
+~
+0 0 3703
+D1
+~
+~
+0 0 3707
+D2
+~
+~
+0 0 3708
+D3
+~
+~
+0 0 3705
+S
+#3707
+A Rocky Island~
+   You have reached the southeastern edge of a rocky island, although you
+can see over its entire span so it's more like one large rocky outcrop. Heat
+radiates from several open fissures and steam rises from the lake to the east
+and south of here.
+~
+37 0 5
+D0
+~
+~
+0 0 3704
+D1
+~
+~
+0 0 9933
+D2
+~
+~
+0 0 9918
+D3
+~
+~
+0 0 3706
+E
+fissures~
+0~
+While certainly warm to the touch, the heat is not unbearable.
+~
+S
+#3708
+A Rocky Island~
+   A thin ledge of rock extending into the lake marks the southern edge of
+this small island. Pockets of mist pass you by like ships in the night, almost
+as if they had a mind of their own. The cold waters of Lake Argos lie to the
+east, south and west while the remainder of the island stretches away to the
+north.
+~
+37 0 5
+D0
+~
+~
+0 0 3706
+D1
+~
+~
+0 0 9918
+D2
+~
+~
+0 0 9297
+D3
+~
+~
+0 0 9917
+S
+#3709
+A Winding Set of Stairs~
+   You stand at the top of a winding staircase which descends into the inky
+blackness below. It has been completely carved out of rock and smoothly
+polished, certainly not a natural phenomenon.
+~
+37 adf 0
+S
+#3710
+A Rocky Island~
+You are in an unfinished room.
+~
+37 0 5
+S
+$~

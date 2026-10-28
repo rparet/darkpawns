@@ -1,0 +1,2387 @@
+#10400
+Immortal Map Room for the Bamboo Forest~
+   The bamboo forest is a simple terrain area surrounding the southern side
+of Kir Oshi and provides some basic creatures for newbies. A floating map can
+be seen in the corner of the room.
+~
+104 cdgj 0
+D5
+~
+~
+0 0 10455
+E
+map~
+0~
+           |  |  |  |  |  |  |
+          -+--+--+--+--+--+--+--+
+           |  |  |  |  |  |  |  |
+           |  |  |  |  |  |  |  |
+          -+--+--+--+--+--+--+--+       Oshi
+           |  |  |  |  |  |  |  |
+              |  |  |  |  |  |  |
+             -+--+--W--W--W--+--+--+--+     +--+-
+              |  |  |     |  |  |  |  |     |  |
+              |  |  |     |  |  |  |  |  |  |  |  |
+             -+--+--W     W--+--+--+--+--I--+--+--+-       W - Coi Pond
+              |  |  |     |  |  |  |  |  |  |  |  |        I - Pebble Pathway
+              |  |  |     |  |  |  |  |  |  |  |  |        + - Bamboo Forest
+             -+--+--W- I -W--+--I--I--I--I--+--+--+-
+              |  |  |  |  |  |  |  |  |  |  |  |  |
+              |  |  |  |  |  |  |  |  |  |  |  |  |
+             -+--+--+--I--I--I--I--+--+--+--+--+--+-
+              |  |  |  |  |  |  |  |  |  |  |  |  |
+                    |  |  |  |  |  |  |  |  |  |  |
+                   -+--+--+--+--+--+--+--+--+--+--+-
+~
+S
+#10401
+A Bamboo Forest~
+   You find yourself ankle-deep in water, large stalks of bamboo growing all
+around you. Each stalk varies in length but the majority have grown to at
+least 8 feet tall, swaying softly in a light breeze. They part easily as you
+move about, hitting other stalks with a soft "clunk".
+~
+104 0 3
+D0
+~
+~
+0 0 21579
+D1
+~
+~
+0 0 10402
+D2
+~
+~
+0 0 10406
+D3
+~
+~
+0 0 21577
+S
+#10402
+A Bamboo Forest~
+   As you push your way further into this bamboo forest, you stumble upon a
+small clearing, bamboo stalks cut down to just above water level. It would
+appear as if the bamboo had been farmed and taken away for whatever purpose
+the nearby city of Kir Oshi demanded of it.
+~
+104 0 3
+D0
+~
+~
+0 0 21580
+D1
+~
+~
+0 0 10403
+D2
+~
+~
+0 0 10407
+D3
+~
+~
+0 0 10401
+S
+#10403
+A Bamboo Forest~
+   Losing your footing in the shallow water, you fall backwards and manage to
+snap half a dozen bamboo stalks in your short journey to the ground. The
+incident appears to have gone unnoticed as no one comes to your aid.
+~
+104 0 3
+D0
+~
+~
+0 0 21581
+D1
+~
+~
+0 0 10404
+D2
+~
+~
+0 0 10408
+D3
+~
+~
+0 0 10402
+S
+#10404
+A Bamboo Forest~
+   The ground here is relatively dry, slightly elevated above the shallow
+water level. Bamboo stalks have been gathered together in a large stack and
+tied loosely with a piece of rope, most likely to be carted off in the near
+future.
+~
+104 0 3
+D0
+~
+~
+0 0 21582
+D2
+~
+~
+0 0 10409
+D3
+~
+~
+0 0 10403
+S
+#10405
+A Bamboo Forest~
+   You push a few of the stalks around you out of the way as you attempt to
+journey through this bamboo forest. On more than one occassion, a stalk
+bounces back quicker than you had anticipated and strikes you solidly on the
+head.
+~
+104 0 3
+D0
+~
+~
+0 0 21577
+D1
+~
+~
+0 0 10406
+D2
+~
+~
+0 0 10411
+D3
+~
+~
+0 0 21575
+S
+#10406
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10401
+D1
+~
+~
+0 0 10407
+D2
+~
+~
+0 0 10412
+D3
+~
+~
+0 0 10405
+S
+#10407
+A Bamboo Forest~
+   The hollow sound of bamboo stalks striking each other is almost calming,
+various tones produced depending on the bamboo length. You gauge that this
+forest has been here for some time, the majority of stalks having grown well
+above your head.
+~
+104 0 3
+D0
+~
+~
+0 0 10402
+D1
+~
+~
+0 0 10408
+D2
+~
+~
+0 0 10413
+D3
+~
+~
+0 0 10406
+S
+#10408
+A Bamboo Forest~
+   The bamboo here is noticeably smaller than others in the near vicinity,
+perhaps having been farmed within the last year and only now beginning to
+grow. You carelessly snap one or two of the smaller reeds as you make your
+way through the thick of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10403
+D1
+~
+~
+0 0 10409
+D2
+~
+~
+0 0 10414
+D3
+~
+~
+0 0 10407
+S
+#10409
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10404
+D1
+~
+~
+0 0 10410
+D2
+~
+~
+0 0 10415
+D3
+~
+~
+0 0 10408
+S
+#10410
+A Bamboo Forest~
+   There doesn't appear to be many bamboo shafts here as compared to other
+areas within your sight and you quickly discover why...the water is noticeably
+deeper, most likely due to the high pedestrian traffic from the nearby city of
+Kir Oshi.
+~
+104 0 3
+D2
+~
+~
+0 0 10416
+D3
+~
+~
+0 0 10409
+S
+#10411
+A Bamboo Forest~
+   You push a few of the stalks around you out of the way as you attempt to
+journey through this bamboo forest. On more than one occassion, a stalk
+bounces back quicker than you had anticipated and strikes you solidly on the
+head.
+~
+104 0 3
+D0
+~
+~
+0 0 10405
+D1
+~
+~
+0 0 10412
+D2
+~
+~
+0 0 10418
+D3
+~
+~
+0 0 21574
+S
+#10412
+A Bamboo Forest~
+   There doesn't appear to be many bamboo shafts here as compared to other
+areas within your sight and you quickly discover why...the water is noticeably
+deeper, most likely due to the high pedestrian traffic from the nearby city of
+Kir Oshi.
+~
+104 0 3
+D0
+~
+~
+0 0 10406
+D1
+~
+~
+0 0 10413
+D2
+~
+~
+0 0 10419
+D3
+~
+~
+0 0 10411
+S
+#10413
+A Bamboo Forest~
+   The hollow sound of bamboo stalks striking each other is almost calming,
+various tones produced depending on the bamboo length. You gauge that this
+forest has been here for some time, the majority of stalks having grown well
+above your head.
+~
+104 0 3
+D0
+~
+~
+0 0 10407
+D1
+~
+~
+0 0 10414
+D2
+~
+~
+0 0 10420
+D3
+~
+~
+0 0 10412
+S
+#10414
+A Bamboo Forest~
+   The bamboo here is noticeably smaller than others in the near vicinity,
+perhaps having been farmed within the last year and only now beginning to
+grow. You carelessly snap one or two of the smaller reeds as you make your
+way through the thick of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10408
+D1
+~
+~
+0 0 10415
+D2
+~
+~
+0 0 10421
+D3
+~
+~
+0 0 10413
+S
+#10415
+A Bamboo Forest~
+   You push a few of the stalks around you out of the way as you attempt to
+journey through this bamboo forest. On more than one occassion, a stalk
+bounces back quicker than you had anticipated and strikes you solidly on the
+head.
+~
+104 0 3
+D0
+~
+~
+0 0 10409
+D1
+~
+~
+0 0 10416
+D2
+~
+~
+0 0 10422
+D3
+~
+~
+0 0 10414
+S
+#10416
+A Bamboo Forest~
+   The bamboo here is noticeably smaller than others in the near vicinity,
+perhaps having been farmed within the last year and only now beginning to
+grow. You carelessly snap one or two of the smaller reeds as you make your
+way through the thick of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10410
+D1
+~
+~
+0 0 10417
+D2
+~
+~
+0 0 10423
+D3
+~
+~
+0 0 10415
+S
+#10417
+A Bamboo Forest~
+   The ground here is relatively dry, slightly elevated above the shallow
+water level. Bamboo stalks have been gathered together in a large stack and
+tied loosely with a piece of rope, most likely to be carted off in the near
+future.
+~
+104 0 3
+D2
+~
+~
+0 0 10424
+D3
+~
+~
+0 0 10416
+S
+#10418
+A Bamboo Forest~
+   There doesn't appear to be many bamboo shafts here as compared to other
+areas within your sight and you quickly discover why...the water is noticeably
+deeper, most likely due to the high pedestrian traffic from the nearby city of
+Kir Oshi.
+~
+104 0 3
+D0
+~
+~
+0 0 10411
+D1
+~
+~
+0 0 10419
+D2
+~
+~
+0 0 10426
+D3
+~
+~
+0 0 21573
+S
+#10419
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10412
+D1
+~
+~
+0 0 10420
+D2
+~
+~
+0 0 10427
+D3
+~
+~
+0 0 10418
+S
+#10420
+A Bamboo Forest~
+   The hollow sound of bamboo stalks striking each other is almost calming,
+various tones produced depending on the bamboo length. You gauge that this
+forest has been here for some time, the majority of stalks having grown well
+above your head.
+~
+104 0 3
+D0
+~
+~
+0 0 10413
+D1
+~
+~
+0 0 10421
+D2
+~
+~
+0 0 10428
+D3
+~
+~
+0 0 10419
+S
+#10421
+A Bamboo Forest~
+   Losing your footing in the shallow water, you fall backwards and manage to
+snap half a dozen bamboo stalks in your short journey to the ground. The
+incident appears to have gone unnoticed as no one comes to your aid.
+~
+104 0 3
+D0
+~
+~
+0 0 10414
+D1
+~
+~
+0 0 10422
+D2
+~
+~
+0 0 10429
+D3
+~
+~
+0 0 10420
+S
+#10422
+A Bamboo Forest~
+   There doesn't appear to be many bamboo shafts here as compared to other
+areas within your sight and you quickly discover why...the water is noticeably
+deeper, most likely due to the high pedestrian traffic from the nearby city of
+Kir Oshi.
+~
+104 0 3
+D0
+~
+~
+0 0 10415
+D1
+~
+~
+0 0 10423
+D2
+~
+~
+0 0 10430
+D3
+~
+~
+0 0 10421
+S
+#10423
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10416
+D1
+~
+~
+0 0 10424
+D2
+~
+~
+0 0 10431
+D3
+~
+~
+0 0 10422
+S
+#10424
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10417
+D1
+~
+~
+0 0 10425
+D2
+~
+~
+0 0 10432
+D3
+~
+~
+0 0 10423
+S
+#10425
+A Bamboo Forest~
+   As you push your way further into this bamboo forest, you stumble upon a
+small clearing, bamboo stalks cut down to just above water level. It would
+appear as if the bamboo had been farmed and taken away for whatever purpose
+the nearby city of Kir Oshi demanded of it.
+~
+104 0 3
+D2
+~
+~
+0 0 10433
+D3
+~
+~
+0 0 10424
+S
+#10426
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10418
+D1
+~
+~
+0 0 10427
+D2
+~
+~
+0 0 22308
+D3
+~
+~
+0 0 21572
+S
+#10427
+A Bamboo Forest~
+   You push a few of the stalks around you out of the way as you attempt to
+journey through this bamboo forest. On more than one occassion, a stalk
+bounces back quicker than you had anticipated and strikes you solidly on the
+head.
+~
+104 0 3
+D0
+~
+~
+0 0 10419
+D1
+~
+~
+0 0 10428
+D2
+~
+~
+0 0 10435
+D3
+~
+~
+0 0 10426
+S
+#10428
+A Bamboo Forest~
+   You push a few of the stalks around you out of the way as you attempt to
+journey through this bamboo forest. On more than one occassion, a stalk
+bounces back quicker than you had anticipated and strikes you solidly on the
+head.
+~
+104 0 3
+D0
+~
+~
+0 0 10420
+D1
+~
+~
+0 0 10429
+D2
+~
+~
+0 0 10436
+D3
+~
+~
+0 0 10427
+S
+#10429
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10421
+D1
+~
+~
+0 0 10430
+D2
+~
+~
+0 0 10437
+D3
+~
+~
+0 0 10428
+S
+#10430
+A Bamboo Forest~
+   As you push your way further into this bamboo forest, you stumble upon a
+small clearing, bamboo stalks cut down to just above water level. It would
+appear as if the bamboo had been farmed and taken away for whatever purpose
+the nearby city of Kir Oshi demanded of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10422
+D1
+~
+~
+0 0 10431
+D2
+~
+~
+0 0 10438
+D3
+~
+~
+0 0 10429
+S
+#10431
+A Bamboo Forest~
+   There doesn't appear to be many bamboo shafts here as compared to other
+areas within your sight and you quickly discover why...the water is noticeably
+deeper, most likely due to the high pedestrian traffic from the nearby city of
+Kir Oshi.
+~
+104 0 3
+D0
+~
+~
+0 0 10423
+D1
+~
+~
+0 0 10432
+D2
+~
+~
+0 0 10439
+D3
+~
+~
+0 0 10430
+S
+#10432
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10424
+D1
+~
+~
+0 0 10433
+D2
+~
+~
+0 0 10440
+D3
+~
+~
+0 0 10431
+S
+#10433
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10425
+D2
+~
+~
+0 0 10441
+D3
+~
+~
+0 0 10432
+S
+#10434
+Beneath the Footbridge~
+   You crouch low in the water so as to avoid hitting your head on the above
+footbridge. It's relatively narrow and constructed of solid wood, providing
+access to an elegant house you can see situated in the middle of the pond.
+You will need to swim to the east or west before being able to move further.
+~
+104 ci 6
+D1
+~
+~
+0 0 10463
+D3
+~
+~
+0 0 10461
+S
+#10435
+A Bamboo Forest~
+   You push a few of the stalks around you out of the way as you attempt to
+journey through this bamboo forest. On more than one occassion, a stalk
+bounces back quicker than you had anticipated and strikes you solidly on the
+head.
+~
+104 0 3
+D0
+~
+~
+0 0 10427
+D1
+~
+~
+0 0 10436
+D2
+~
+~
+0 0 10446
+D3
+~
+~
+0 0 22308
+S
+#10436
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10428
+D1
+~
+~
+0 0 10437
+D2
+~
+~
+0 0 10447
+D3
+~
+~
+0 0 10435
+S
+#10437
+A Coi Pond~
+   A serene pond surrounds a small, stilted house just to the northwest.
+Clumps of colorful waterlilies float on the surface, and orange tiger flowers
+grow along the mossy banks.
+~
+104 0 6
+D0
+~
+~
+0 0 10429
+D1
+~
+~
+0 0 10438
+D2
+~
+~
+0 0 10448
+D3
+~
+~
+0 0 10436
+S
+#10438
+A Coi Pond~
+   A serene pond surrounds a small, stilted house just to the northwest.
+Clumps of colorful waterlilies float on the surface, and orange tiger flowers
+grow along the mossy banks.
+~
+104 0 6
+D0
+~
+~
+0 0 10430
+D1
+~
+~
+0 0 10439
+D3
+~
+~
+0 0 10437
+S
+#10439
+A Coi Pond~
+   A serene pond surrounds a small, stilted house just to the northwest.
+Clumps of colorful waterlilies float on the surface, and orange tiger flowers
+grow along the mossy banks.
+~
+104 0 6
+D0
+~
+~
+0 0 10431
+D1
+~
+~
+0 0 10440
+D2
+~
+~
+0 0 10450
+D3
+~
+~
+0 0 10438
+S
+#10440
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10432
+D1
+~
+~
+0 0 10441
+D2
+~
+~
+0 0 10451
+D3
+~
+~
+0 0 10439
+S
+#10441
+A Bamboo Forest~
+   There doesn't appear to be many bamboo shafts here as compared to other
+areas within your sight and you quickly discover why...the water is noticeably
+deeper, most likely due to the high pedestrian traffic from the nearby city of
+Kir Oshi.
+~
+104 0 3
+D0
+~
+~
+0 0 10433
+D1
+~
+~
+0 0 10442
+D2
+~
+~
+0 0 10452
+D3
+~
+~
+0 0 10440
+S
+#10442
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D1
+~
+~
+0 0 10443
+D2
+~
+~
+0 0 10453
+D3
+~
+~
+0 0 10441
+S
+#10443
+A Bamboo Forest~
+   The hollow sound of bamboo stalks striking each other is almost calming,
+various tones produced depending on the bamboo length. You gauge that this
+forest has been here for some time, the majority of stalks having grown well
+above your head.
+~
+104 0 3
+D2
+~
+~
+0 0 10454
+D3
+~
+~
+0 0 10442
+S
+#10444
+A Bamboo Forest~
+   The ground here is relatively dry, slightly elevated above the shallow
+water level. Bamboo stalks have been gathered together in a large stack and
+tied loosely with a piece of rope, most likely to be carted off in the near
+future.
+~
+104 0 3
+D1
+~
+~
+0 0 10445
+D2
+~
+~
+0 0 10456
+S
+#10445
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D1
+~
+~
+0 0 21541
+D2
+~
+~
+0 0 10457
+D3
+~
+~
+0 0 10444
+S
+#10446
+A Bamboo Forest~
+   The bamboo here is noticeably smaller than others in the near vicinity,
+perhaps having been farmed within the last year and only now beginning to
+grow. You carelessly snap one or two of the smaller reeds as you make your
+way through the thick of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10435
+D1
+~
+~
+0 0 10447
+D2
+~
+~
+0 0 10459
+D3
+~
+~
+0 0 21569
+S
+#10447
+A Bamboo Forest~
+   The ground here is relatively dry, slightly elevated above the shallow
+water level. Bamboo stalks have been gathered together in a large stack and
+tied loosely with a piece of rope, most likely to be carted off in the near
+future.
+~
+104 0 3
+D0
+~
+~
+0 0 10436
+D1
+~
+~
+0 0 10448
+D2
+~
+~
+0 0 10460
+D3
+~
+~
+0 0 10446
+S
+#10448
+A Coi Pond~
+   A serene pond surrounds a small, stilted house just to the northwest.
+Clumps of colorful waterlilies float on the surface, and orange tiger flowers
+grow along the mossy banks.
+~
+104 0 6
+D0
+~
+~
+0 0 10437
+D2
+~
+~
+0 0 10461
+D3
+~
+~
+0 0 10447
+S
+#10449
+An Elegant Teahouse~
+   Constructed on a small piece of land within the center of the pond, this
+teahouse provides an ideal setting to leave the world around you and rest your
+weary bones. The inviting waters of the pond lie to the north, west and east
+while a narrow footbridge to the south leads back to a small pathway.
+~
+104 cdes 0
+D0
+~
+~
+0 0 10438
+D1
+~
+~
+0 0 10450
+D2
+~
+~
+0 0 10462
+D3
+~
+~
+0 0 10448
+S
+#10450
+A Coi Pond~
+   A serene pond surrounds a small, stilted house just to the northwest.
+Clumps of colorful waterlilies float on the surface, and orange tiger flowers
+grow along the mossy banks.
+~
+104 0 6
+D0
+~
+~
+0 0 10439
+D1
+~
+~
+0 0 10451
+D2
+~
+~
+0 0 10463
+S
+#10451
+A Bamboo Forest~
+   Losing your footing in the shallow water, you fall backwards and manage to
+snap half a dozen bamboo stalks in your short journey to the ground. The
+incident appears to have gone unnoticed as no one comes to your aid.
+~
+104 0 3
+D0
+~
+~
+0 0 10440
+D1
+~
+~
+0 0 10452
+D2
+~
+~
+0 0 10464
+D3
+~
+~
+0 0 10450
+S
+#10452
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10441
+D1
+~
+~
+0 0 10453
+D2
+~
+~
+0 0 10465
+D3
+~
+~
+0 0 10451
+S
+#10453
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10442
+D1
+~
+~
+0 0 10454
+D2
+~
+~
+0 0 10466
+D3
+~
+~
+0 0 10452
+S
+#10454
+A Bamboo Forest~
+   You find yourself ankle-deep in water, large stalks of bamboo growing all
+around you. Each stalk varies in length but the majority have grown to at
+least 8 feet tall, swaying softly in a light breeze. They part easily as you
+move about, hitting other stalks with a soft "clunk".
+~
+104 0 3
+D0
+~
+~
+0 0 10443
+D1
+~
+~
+0 0 10455
+D2
+~
+~
+0 0 10467
+D3
+~
+~
+0 0 10453
+S
+#10455
+A Pebbled Pathway~
+   You stand at the beginning of a narrow, pebbled pathway which winds its
+way through a sea of bamboo stalks. To the north, a strong iron gate marks
+an entrance into the city of Kir Oshi while the path continues to the south.
+~
+104 c 16
+D0
+A tall iron gate stands at the wall of the city gardens.
+~
+gate~
+2 0 18260
+D1
+~
+~
+0 0 10456
+D2
+~
+~
+0 0 10468
+D3
+~
+~
+0 0 10454
+S
+#10456
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10444
+D1
+~
+~
+0 0 10457
+D2
+~
+~
+0 0 10469
+D3
+~
+~
+0 0 10455
+S
+#10457
+A Bamboo Forest~
+   Losing your footing in the shallow water, you fall backwards and manage to
+snap half a dozen bamboo stalks in your short journey to the ground. The
+incident appears to have gone unnoticed as no one comes to your aid.
+~
+104 0 3
+D0
+~
+~
+0 0 10445
+D1
+~
+~
+0 0 10458
+D2
+~
+~
+0 0 10470
+D3
+~
+~
+0 0 10456
+S
+#10458
+A Bamboo Forest~
+   You push a few of the stalks around you out of the way as you attempt to
+journey through this bamboo forest. On more than one occassion, a stalk
+bounces back quicker than you had anticipated and strikes you solidly on the
+head.
+~
+104 0 3
+D0
+~
+~
+0 0 21541
+D1
+~
+~
+0 0 21543
+D2
+~
+~
+0 0 10471
+D3
+~
+~
+0 0 10457
+S
+#10459
+A Bamboo Forest~
+   The bamboo here is noticeably smaller than others in the near vicinity,
+perhaps having been farmed within the last year and only now beginning to
+grow. You carelessly snap one or two of the smaller reeds as you make your
+way through the thick of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10446
+D1
+~
+~
+0 0 10460
+D2
+~
+~
+0 0 10472
+D3
+~
+~
+0 0 21568
+S
+#10460
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10447
+D1
+~
+~
+0 0 10461
+D2
+~
+~
+0 0 10473
+D3
+~
+~
+0 0 10459
+S
+#10461
+A Coi Pond~
+   A serene pond surrounds a small, stilted house just to the northwest.
+Clumps of colorful waterlilies float on the surface, and orange tiger flowers
+grow along the mossy banks.
+~
+104 0 6
+D0
+~
+~
+0 0 10448
+D1
+~
+~
+0 0 10434
+D2
+~
+~
+0 0 10474
+D3
+~
+~
+0 0 10460
+S
+#10462
+Upon the Footbridge~
+   This narrow footbridge allows easy access to an elegant structure to the
+north and offers an elevated viewing position of the surrounding bamboo
+forest. The quiet waters of a small lake lap softly at the underside of the
+footbridge and to the south, a pathway makes its way through the forest.
+~
+104 0 16
+D0
+~
+~
+0 0 10449
+D2
+~
+~
+0 0 10475
+S
+#10463
+A Coi Pond~
+   A serene pond surrounds a small, stilted house just to the northwest.
+Clumps of colorful waterlilies float on the surface, and orange tiger flowers
+grow along the mossy banks.
+~
+104 0 6
+D0
+~
+~
+0 0 10450
+D1
+~
+~
+0 0 10464
+D2
+~
+~
+0 0 10476
+D3
+~
+~
+0 0 10434
+S
+#10464
+A Bamboo Forest~
+   As you push your way further into this bamboo forest, you stumble upon a
+small clearing, bamboo stalks cut down to just above water level. It would
+appear as if the bamboo had been farmed and taken away for whatever purpose
+the nearby city of Kir Oshi demanded of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10451
+D1
+~
+~
+0 0 10465
+D2
+~
+~
+0 0 10477
+D3
+~
+~
+0 0 10463
+S
+#10465
+A Pebbled Pathway~
+   Lieing on the corner of the pathway is a small bundle of bamboo, having
+been cut off at the base and tied together with a length of rope. It is fairly
+brittle and it would seem has been sitting here for quite some time. The
+pathway continues to the south and east.
+~
+104 0 16
+D0
+~
+~
+0 0 10452
+D1
+~
+~
+0 0 10466
+D2
+~
+~
+0 0 10478
+D3
+~
+~
+0 0 10464
+S
+#10466
+A Pebbled Pathway~
+   The pathway remains relatively dry given its construction slightly above
+the water level. Ripples lap softly at the pathway edge and small, silver fish
+dart in and out of the bamboo stalks. The pathway continues to the east and
+west.
+~
+104 0 16
+D0
+~
+~
+0 0 10453
+D1
+~
+~
+0 0 10467
+D2
+~
+~
+0 0 10479
+D3
+~
+~
+0 0 10465
+S
+#10467
+A Pebbled Pathway~
+   Bamboo stalks line either side of this pebbled pathway, the majority
+reaching high above your head. It is difficult to see more than a few feet
+into the forest given the close proximately of the stalks to each other but
+you can hear little except for the soft clunk of stalks striking each other.
+~
+104 0 16
+D0
+~
+~
+0 0 10454
+D1
+~
+~
+0 0 10468
+D2
+~
+~
+0 0 10480
+D3
+~
+~
+0 0 10466
+S
+#10468
+A Pebbled Pathway~
+   The pathway is composed primarily of small, white pebbles and has been
+built on a slightly elevated piece of land to keep it above the waterline. The
+pathway continues to the west and north.
+~
+104 0 16
+D0
+~
+~
+0 0 10455
+D1
+~
+~
+0 0 10469
+D2
+~
+~
+0 0 10481
+D3
+~
+~
+0 0 10467
+S
+#10469
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10456
+D1
+~
+~
+0 0 10470
+D2
+~
+~
+0 0 10482
+D3
+~
+~
+0 0 10468
+S
+#10470
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10457
+D1
+~
+~
+0 0 10471
+D2
+~
+~
+0 0 10483
+D3
+~
+~
+0 0 10469
+S
+#10471
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10458
+D1
+~
+~
+0 0 21544
+D2
+~
+~
+0 0 10484
+D3
+~
+~
+0 0 10470
+S
+#10472
+A Bamboo Forest~
+   The bamboo here is noticeably smaller than others in the near vicinity,
+perhaps having been farmed within the last year and only now beginning to
+grow. You carelessly snap one or two of the smaller reeds as you make your
+way through the thick of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10459
+D1
+~
+~
+0 0 10473
+D2
+~
+~
+0 0 21565
+D3
+~
+~
+0 0 21567
+S
+#10473
+A Bamboo Forest~
+   Losing your footing in the shallow water, you fall backwards and manage to
+snap half a dozen bamboo stalks in your short journey to the ground. The
+incident appears to have gone unnoticed as no one comes to your aid.
+~
+104 0 3
+D0
+~
+~
+0 0 10460
+D1
+~
+~
+0 0 10474
+D2
+~
+~
+0 0 21564
+D3
+~
+~
+0 0 10472
+S
+#10474
+A Bamboo Forest~
+   As you push your way further into this bamboo forest, you stumble upon a
+small clearing, bamboo stalks cut down to just above water level. It would
+appear as if the bamboo had been farmed and taken away for whatever purpose
+the nearby city of Kir Oshi demanded of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10461
+D1
+~
+~
+0 0 10475
+D2
+~
+~
+0 0 10485
+D3
+~
+~
+0 0 10473
+S
+#10475
+A Pebbled Pathway~
+   This point marks the end of a pebbled pathway which stretches away to the
+east towards the city of Kir Oshi. Composed primarily of small, white pebbles,
+the path marks the safest route through the bamboo forest in which you now
+stand.
+~
+104 0 16
+D0
+~
+~
+0 0 10462
+D1
+~
+~
+0 0 10476
+D2
+~
+~
+0 0 10486
+D3
+~
+~
+0 0 10474
+S
+#10476
+A Pebbled Pathway~
+   The pathway upon which you travel extends to the east and terminates a
+little further to the west at a narrow footbridge. You take a moment to admire
+the serene pond to the north and the numerous bamboo stalks which sway softly
+in the breeze all around you.
+~
+104 0 16
+D0
+~
+~
+0 0 10463
+D1
+~
+~
+0 0 10477
+D2
+~
+~
+0 0 10487
+D3
+~
+~
+0 0 10475
+S
+#10477
+A Pebbled Pathway~
+   A splash off to your left grabs your attention but there is nothing to see
+apart from the ripples along the water surface. You are kept relatively dry,
+however, as the pebbled pathway you are on is elevated above water level. You
+can continue to the east or west.
+~
+104 0 16
+D0
+~
+~
+0 0 10464
+D1
+~
+~
+0 0 10478
+D2
+~
+~
+0 0 10488
+D3
+~
+~
+0 0 10476
+S
+#10478
+A Pebbled Pathway~
+   You find yourself at a bend in a small, pebbled pathway which extends to
+the north and west. A small pond lies a short distance to the west while
+a large bamboo forest surrounds you in other directions.
+~
+104 0 16
+D0
+~
+~
+0 0 10465
+D1
+~
+~
+0 0 10479
+D2
+~
+~
+0 0 10489
+D3
+~
+~
+0 0 10477
+S
+#10479
+A Bamboo Forest~
+   There doesn't appear to be many bamboo shafts here as compared to other
+areas within your sight and you quickly discover why...the water is noticeably
+deeper, most likely due to the high pedestrian traffic from the nearby city of
+Kir Oshi.
+~
+104 0 3
+D0
+~
+~
+0 0 10466
+D1
+~
+~
+0 0 10480
+D2
+~
+~
+0 0 10490
+D3
+~
+~
+0 0 10478
+S
+#10480
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10467
+D1
+~
+~
+0 0 10481
+D2
+~
+~
+0 0 10491
+D3
+~
+~
+0 0 10479
+S
+#10481
+A Bamboo Forest~
+   You push a few of the stalks around you out of the way as you attempt to
+journey through this bamboo forest. On more than one occassion, a stalk
+bounces back quicker than you had anticipated and strikes you solidly on the
+head.
+~
+104 0 3
+D0
+~
+~
+0 0 10468
+D1
+~
+~
+0 0 10482
+D2
+~
+~
+0 0 10492
+D3
+~
+~
+0 0 10480
+S
+#10482
+A Bamboo Forest~
+   The hollow sound of bamboo stalks striking each other is almost calming,
+various tones produced depending on the bamboo length. You gauge that this
+forest has been here for some time, the majority of stalks having grown well
+above your head.
+~
+104 0 3
+D0
+~
+~
+0 0 10469
+D1
+~
+~
+0 0 10483
+D2
+~
+~
+0 0 10493
+D3
+~
+~
+0 0 10481
+S
+#10483
+A Bamboo Forest~
+   The bamboo here is noticeably smaller than others in the near vicinity,
+perhaps having been farmed within the last year and only now beginning to
+grow. You carelessly snap one or two of the smaller reeds as you make your
+way through the thick of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10470
+D1
+~
+~
+0 0 10484
+D2
+~
+~
+0 0 10494
+D3
+~
+~
+0 0 10482
+S
+#10484
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10471
+D1
+~
+~
+0 0 21545
+D2
+~
+~
+0 0 10495
+D3
+~
+~
+0 0 10483
+S
+#10485
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10474
+D1
+~
+~
+0 0 10486
+D2
+~
+~
+0 0 21562
+D3
+~
+~
+0 0 21564
+S
+#10486
+A Bamboo Forest~
+   You find yourself ankle-deep in water, large stalks of bamboo growing all
+around you. Each stalk varies in length but the majority have grown to at
+least 8 feet tall, swaying softly in a light breeze. They part easily as you
+move about, hitting other stalks with a soft "clunk".
+~
+104 0 3
+D0
+~
+~
+0 0 10475
+D1
+~
+~
+0 0 10487
+D2
+~
+~
+0 0 22309
+D3
+~
+~
+0 0 10485
+S
+#10487
+A Bamboo Forest~
+   The bamboo stalks in this area have grown quite close together, making it
+difficult to get past them. You break a few of them in your efforts but given
+the number you can see, you doubt whether anyone will be too concerned.
+~
+104 0 3
+D0
+~
+~
+0 0 10476
+D1
+~
+~
+0 0 10488
+D2
+~
+~
+0 0 22310
+D3
+~
+~
+0 0 10486
+S
+#10488
+A Bamboo Forest~
+   The ground here is relatively dry, slightly elevated above the shallow
+water level. Bamboo stalks have been gathered together in a large stack and
+tied loosely with a piece of rope, most likely to be carted off in the near
+future.
+~
+104 0 3
+D0
+~
+~
+0 0 10477
+D1
+~
+~
+0 0 10489
+D2
+~
+~
+0 0 10496
+D3
+~
+~
+0 0 10487
+S
+#10489
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10478
+D1
+~
+~
+0 0 10490
+D2
+~
+~
+0 0 10497
+D3
+~
+~
+0 0 10488
+S
+#10490
+A Bamboo Forest~
+   The bamboo here is noticeably smaller than others in the near vicinity,
+perhaps having been farmed within the last year and only now beginning to
+grow. You carelessly snap one or two of the smaller reeds as you make your
+way through the thick of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10479
+D1
+~
+~
+0 0 10491
+D2
+~
+~
+0 0 10498
+D3
+~
+~
+0 0 10489
+S
+#10491
+A Bamboo Forest~
+   The hollow sound of bamboo stalks striking each other is almost calming,
+various tones produced depending on the bamboo length. You gauge that this
+forest has been here for some time, the majority of stalks having grown well
+above your head.
+~
+104 0 3
+D0
+~
+~
+0 0 10480
+D1
+~
+~
+0 0 10492
+D2
+~
+~
+0 0 10499
+D3
+~
+~
+0 0 10490
+S
+#10492
+A Bamboo Forest~
+   You find yourself ankle-deep in water, large stalks of bamboo growing all
+around you. Each stalk varies in length but the majority have grown to at
+least 8 feet tall, swaying softly in a light breeze. They part easily as you
+move about, hitting other stalks with a soft "clunk".
+~
+104 0 3
+D0
+~
+~
+0 0 10481
+D1
+~
+~
+0 0 10493
+D2
+~
+~
+0 0 22315
+D3
+~
+~
+0 0 10491
+S
+#10493
+A Bamboo Forest~
+   The hollow sound of bamboo stalks striking each other is almost calming,
+various tones produced depending on the bamboo length. You gauge that this
+forest has been here for some time, the majority of stalks having grown well
+above your head.
+~
+104 0 3
+D0
+~
+~
+0 0 10482
+D1
+~
+~
+0 0 10494
+D2
+~
+~
+0 0 22316
+D3
+~
+~
+0 0 10492
+S
+#10494
+A Bamboo Forest~
+   Tiny fish swim in the shallow water at your feet, darting in between the
+bamboo stalks which populate this forest. All of them seem oblivious to your
+presence, even when you make sudden movements and disturb the sandy bottom.
+~
+104 0 3
+D0
+~
+~
+0 0 10483
+D1
+~
+~
+0 0 10495
+D2
+~
+~
+0 0 22317
+D3
+~
+~
+0 0 10493
+S
+#10495
+A Bamboo Forest~
+   Losing your footing in the shallow water, you fall backwards and manage to
+snap half a dozen bamboo stalks in your short journey to the ground. The
+incident appears to have gone unnoticed as no one comes to your aid.
+~
+104 0 3
+D0
+~
+~
+0 0 10484
+D1
+~
+~
+0 0 21546
+D2
+~
+~
+0 0 21548
+D3
+~
+~
+0 0 10494
+S
+#10496
+A Bamboo Forest~
+   You find yourself ankle-deep in water, large stalks of bamboo growing all
+around you. Each stalk varies in length but the majority have grown to at
+least 8 feet tall, swaying softly in a light breeze. They part easily as you
+move about, hitting other stalks with a soft "clunk".
+~
+104 0 3
+D0
+~
+~
+0 0 10488
+D1
+~
+~
+0 0 10497
+D2
+~
+~
+0 0 22312
+D3
+~
+~
+0 0 22310
+S
+#10497
+A Bamboo Forest~
+   The bamboo here is noticeably smaller than others in the near vicinity,
+perhaps having been farmed within the last year and only now beginning to
+grow. You carelessly snap one or two of the smaller reeds as you make your
+way through the thick of it.
+~
+104 0 3
+D0
+~
+~
+0 0 10489
+D1
+~
+~
+0 0 10498
+D2
+~
+~
+0 0 22313
+D3
+~
+~
+0 0 10496
+S
+#10498
+A Bamboo Forest~
+   You find yourself ankle-deep in water, large stalks of bamboo growing all
+around you. Each stalk varies in length but the majority have grown to at
+least 8 feet tall, swaying softly in a light breeze. They part easily as you
+move about, hitting other stalks with a soft "clunk".
+~
+104 0 3
+D0
+~
+~
+0 0 10490
+D1
+~
+~
+0 0 10499
+D2
+~
+~
+0 0 22314
+D3
+~
+~
+0 0 10497
+S
+#10499
+A Bamboo Forest~
+   You push a few of the stalks around you out of the way as you attempt to
+journey through this bamboo forest. On more than one occassion, a stalk
+bounces back quicker than you had anticipated and strikes you solidly on the
+head.
+~
+104 0 3
+D0
+~
+~
+0 0 10491
+D1
+~
+~
+0 0 22315
+D2
+~
+~
+0 0 21553
+D3
+~
+~
+0 0 10498
+S
+$~

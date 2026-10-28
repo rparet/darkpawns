@@ -1,0 +1,133 @@
+#10100
+piercer stalactite~
+a piercer~
+A stalactite hangs from the cave ceiling.
+~
+The piercer looks like a sentinent stalactite, intent on puncturing your
+skull.
+~
+bdfnpr fk 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#10101
+umber hulk male~
+the umber hulk~
+An umber hulk burrows through the earth.
+~
+The umber hulk looks like a humanoid ant.. huge mandibles on a squat body.
+Long, stone-hard claws used for breaking up rock are just as easily used for
+sundering bone.
+~
+cdfg dk -500 E
+51 91 51d8+1092 5d6
+0 18210
+8 8 1
+E
+#10102
+umber hulk female~
+the female umber hulk~
+A female umber hulk is here, building a nest.
+~
+The umber hulk looks like a humanoid ant.. huge mandibles on a squat body.
+Long, stone-hard claws used for breaking up rock are just as easily used for
+rending your bones.
+~
+bcdf dk 0 E
+45 79 45d8+905 5d5
+8 15093
+8 8 2
+E
+#10103
+raider leader drakaan~
+Drakaan, Leader of the Desert Raiders~
+Drakaan, Leader of the Desert Raiders stands here in a pool of his own blood.
+~
+Drakaan has obviously been here for a long time, and been dead for the
+majority of that time. Betrayed by Sabbat and the other desert raiders,
+Drakaan called down a curse from the gods. The gods saw fit to punish all
+the raiders for their unjust ways... and turned them all into living corpses.
+Sabbat and her companions fled into the desert... after hacking Drakaan to
+pieces, and burning him nearly out of existence. Drakaan lived on as a broken
+undead being barely able to kill the few foolish mortals who stumbled upon his
+lair.
+~
+bdfnprt dfhk -1000 E
+100 199 100d8+3000 9d9
+2500 50000
+8 8 1
+Race: 32
+E
+#10104
+roper larva~
+the roper larva~
+A roper larva writhes in anticipation of hot blood.
+~
+This newly-hatched roper is still in the larvic stage. Three tendrils stretch
+out of the central slug-like mass and flail about madly for the blood the
+creature senses flowing in your veins.
+~
+bcdfq dk -10 E
+33 55 33d8+568 4d5
+0 9478
+8 8 0
+BareHandAttack: 1
+Race: 23
+E
+#10105
+vodyanoi~
+the vodyanoi~
+The vodyanoi attacks from beneath the surface of the pool.
+~
+It looks like something out of a nightmare... Huge mandibles and large fins
+accentuate the strange, smooth-scaled body. A powerful tail extends down into
+the water, propelling the beast up and out of the water. Powerful claws sprout
+from the edges of large webbed arms.
+~
+bcdf dghkpHK -10 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 0
+BareHandAttack: 10
+Race: 6
+E
+#10107
+moss memory~
+the memory moss~
+The moss grows thick in this area.
+~
+A large patch of heavy, black moss grows here, clinging tightly to the rocky
+surface, and wedging its way into every available crevice. You look away for
+just a moment, and when you look back again, something is not quite right;
+as if it had grown or adjusted itself ever so slightly.
+~
+denpqrz dfgkps 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 6
+Race: 36
+Script: memory_moss.lua 384
+E
+#10108
+moss memory~
+the memory moss~
+The rocks seem to be covered in thick moss.
+~
+A large patch of heavy, black moss grows here, clinging tightly to the rocky
+surface, and wedging its way into every available crevice. You look away for
+just a moment, and when you look back again, something is not quite right;
+as if it had grown or adjusted itself ever so slightly.
+~
+degnpqr dfkpsK 0 E
+30 49 30d8+492 4d5
+700 8215
+8 8 0
+BareHandAttack: 6
+Race: 36
+Script: memory_moss.lua 384
+E
+$

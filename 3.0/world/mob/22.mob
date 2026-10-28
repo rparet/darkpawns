@@ -1,0 +1,318 @@
+#2200
+ssaur villager~
+a ssauran villager~
+A ssauran villager passes by on an unknown errand.
+~
+The villager is a ssaur, a combination of lizard and human species. He looks
+relatively harmless, but is certainly capable of defending himself.
+~
+d k 700 E
+48 85 48d8+997 5d5
+20 16627
+8 8 1
+BareHandAttack: 8
+Race: 5
+E
+#2201
+ssauran villager~
+a ssauran villager~
+A ssauran villager nods at you as she passes by.
+~
+The villager is a ssaur, a combination of lizard and human species. She
+acknowledges your presence, but is obviously unafraid.
+~
+d k 0 E
+48 85 48d8+997 5d5
+10 16627
+8 8 2
+BareHandAttack: 8
+Race: 5
+E
+#2202
+ssaur warrior~
+a ssauran warrior~
+A ssauran warrior stands nearby, ready to defend his clan.
+~
+A member of the ssauran race, these creatures possess characteristics of both
+lizard and human species. The creature looks harmless enough and certainly
+poses no threat to you, although he appears quite capable of defending himself
+and others.
+~
+dm fk 0 E
+57 104 57d8+1291 5d6
+10 21517
+8 8 1
+BareHandAttack: 8
+Race: 5
+E
+#2203
+ssaur shaman~
+a ssauran shaman~
+A ssauran shaman meditates quietly on the ground.
+~
+The shaman is a ssaur, half lizard and half human. He chants quietly, and is
+probably best left alone.
+~
+dnpr dfhk 0 E
+60 110 60d8+1394 6d6
+30 23237
+6 6 1
+BareHandAttack: 8
+Race: 5
+E
+#2204
+ssaur leader~
+the ssauran leader~
+The leader of the ssaur clan gazes at you intently.
+~
+The ssauran leader looks you over as you intrude upon her domain. She does not
+appear overly threatened, but is curious as to why you have ventured down
+here.
+~
+dlm fk 0 E
+65 121 65d8+1572 6d6
+50 26202
+8 8 2
+BareHandAttack: 8
+Race: 5
+E
+#2205
+chameleonite carve_meat~
+the chameleonite~
+Something moves along the ground toward you and hisses.
+~
+The creature is remarkably good at camouflage; it blends well into the sandy
+floor. You only know it's there because it has taken an interest in you.
+~
+dfq fkpst -300 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#2206
+manticore~
+a manticore~
+A manticore grins evilly before striking at you.
+~
+The beast before you is a mixture of all sorts of creatures, but you can
+identify the body of a lion, the wings of a large bird, and the spiked tail of
+a scorpion. It looks pleased to see you...
+~
+bdefnp dfkn -600 E
+65 121 65d8+1572 6d6
+30 26202
+8 8 0
+BareHandAttack: 12
+Race: 22
+E
+#2207
+high priest~
+a high priest of Razaak~
+One of Razaak's high priests grins at you before attacking.
+~
+The high priest was once mortal, but now serves the dark lord Razaak. He
+is pleased to see that another victim has entered the sacred domain of his
+master.
+~
+dflmnpr dfhkn -600 E
+70 132 70d8+1756 6d7
+30 29283
+8 8 1
+E
+#2208
+spirit ghost wandering~
+a wandering spirit~
+A wandering spirit floats by, trapped between dimensions.
+~
+This being is there one minute and gone the next, phasing in and out of this
+plane. You almost feel sorry for the hopelessness it must feel...
+~
+depqr bdfkpsA 300 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+BareHandAttack: 12
+Race: 37
+E
+#2209
+skeletal warrior skeleton~
+a skeletal warrior~
+A skeletal warrior awakens from its undead slumber.
+~
+A force beyond this world has given life to this lifeless creature. It was
+placed here to defend something, and it plans to do just that.
+~
+bdnpr dfkm 600 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+Race: 32
+E
+#2210
+demonic servant~
+a demonic servant~
+A demonic servant awaits orders from its master.
+~
+The servants were at one time personal attendants to Razaak, lord of this
+place. They have been returned to this world to continue servitude.
+~
+demnpr dfhkn -1000 E
+75 143 75d8+1948 6d7
+10 32475
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#2211
+Razaak lord undead~
+Razaak, lord of the undead~
+Razaak, lord of the undead points a withered finger at you.
+~
+A sorcerer of great power, Razaak was the preparer of the dead so that they
+could journey to the other side. He has now returned to commands a legion of
+undead.
+~
+dflmnpqx dfhknE -1000 E
+95 188 95d8+2777 8d9
+100 46297
+8 8 1
+Race: 32
+Script: magic_user.lua 256
+E
+#2220
+chameleonite  carve_meat~
+the chameleonite~
+Something moves along the ground toward you and hisses.
+~
+The creature is remarkably good at camouflage; it blends well into the sandy
+floor. You only know it's there because it has taken an interest in you.
+~
+dfq fkpst -300 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#2221
+high priest~
+a high priest of Razaak~
+One of Razaak's high priests bows at you and continues on his way.
+~
+The high priest serves the great mage Razaak in the preparation of bodies and
+souls to transcend this world. He nods at you with a solemn silence in respect
+for the dead.
+~
+dlmnpr dfhm 600 E
+70 132 70d8+1756 6d7
+30 29283
+8 8 1
+E
+#2222
+spirit ghost wandering~
+a wandering spirit~
+A wandering spirit floats by, trapped between dimensions.
+~
+This being is there one minute and gone the next, phasing in and out of this
+plane. It seems content, however, as if it understands what is happening to
+it.
+~
+denpqr bdfkpsA 300 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+BareHandAttack: 12
+Race: 37
+E
+#2223
+skeletal warrior skeleton~
+a skeletal warrior~
+A skeletal warrior awakens from its undead slumber.
+~
+A force beyond this world has given life to this lifeless creature. It turns
+to face you, before returning to its previous state.
+~
+bdnr dfkm 600 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+Race: 32
+E
+#2224
+servant~
+a servant~
+A servant stands nearby, awaiting orders from his master.
+~
+The servants are personal attendants to Razaak, keeper of this place.
+~
+dm km 600 E
+48 85 48d8+997 5d5
+10 16627
+8 8 1
+Race: 0
+E
+#2225
+Razaak lord undead~
+Razaak, lord of the undead~
+Razaak, lord of the undead smiles at you and continues his work.
+~
+A sorcerer of great power, Razaak is the proprietor of the dead so that they
+may journey to the other side. He is preparing the next group of souls as you
+look at him.
+~
+dlmnpqr dfhkmE 1000 E
+95 188 95d8+2777 8d9
+100 46297
+8 8 1
+Race: 32
+Script: magic_user.lua 256
+E
+#2226
+manticore~
+a manticore~
+A manticore grins evilly before striking you.
+~
+The beast before you is a mixture of all sorts of creatures, but you can
+identify the body of a lion, the wings of a large bird, and the spiked tail of
+a scorpion. It looks pleased to see you...
+~
+bdefnpr dfkn -600 E
+66 123 66d8+1608 6d6
+30 26809
+8 8 0
+BareHandAttack: 12
+Race: 22
+E
+#2227
+chameleonite~
+the chameleonite~
+Something moves along the ground towards you and hisses.
+~
+The creature is remarkably good at camouflage; it blends well into the sandy
+floor. You only know it's there because it has taken an interest in you.
+~
+df fkpst -300 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#2228
+chameleonite~
+the chameleonite~
+Something moves along the ground towards you and hisses.
+~
+The creature is remarkably good at camouflage; it blends well into the sandy
+floor. You only know it's there because it has taken an interest in you.
+~
+df fkpst -300 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+$

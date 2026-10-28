@@ -1,0 +1,1994 @@
+#19100
+The Immortal Map Room for the Great Forest~
+A large leatherbound book on the table contains notes on various aspects of
+the "Phantom Ghost Ship".
+~
+191 cdgj 0
+D5
+~
+~
+0 0 19101
+E
+One~
+0~
+
+     Ship Docking Code
+
+   ghost_ship_appear
+   ghost_ship_disappear
+
+~
+E
+book~
+0~
+
+     Phantom Ghost Ship
+
+   One -    Docking code
+   Two -    Docking Locations
+
+~
+E
+two~
+0~
+
+     Docking Locations
+
+   Kir Morthis -    21295
+   Xixieqi -    12713
+   Kir-Oshi -   18285
+
+~
+S
+#19101
+The Boarding Ramp~
+   You stand upon a narrow rampway which leads upward toward the ship's main
+deck. As you climb, carefully avoiding the places where boards are missing or
+broken, you note a large metal plaque affixed to the ship's bow. The letters
+are difficult to make out through the layer of tarnish. The main deck lies
+above.
+~
+191 cdi 0
+D4
+~
+~
+0 0 19148
+E
+plaque~
+0~
+
+&y        _________
+&y      /           \
+&y     |   ARCANUS   |
+&y      \___________/
+&n.
+~
+S
+#19102
+Climbing the Mainmast~
+   As you take your next step, suddenly the ladder gives way beneath your
+weight. You struggle to maintain your hold as your body slams into the mast,
+your feet dangling in the air. You'd best move quickly to a place with more
+stable footing. The ladder continues up and down from here.
+~
+191 dfi 0
+R falldeck1.lua 4
+D4
+~
+~
+0 0 19194
+D5
+~
+~
+0 0 19103
+S
+#19103
+Climbing the Mainmast~
+   The ship's deck fades away beneath you from this height. Your grip tightens
+as you sway alongside the splintered mast, enveloped in mist. You begin to
+wonder if it was such a good idea coming up here. The ladder continues up and
+down from here.
+~
+191 cdfi 0
+R falldeck1.lua 4
+D4
+~
+~
+0 0 19102
+D5
+~
+~
+0 0 19144
+S
+#19104
+Climbing the Mainsail Rigging~
+   The rigging narrows as you approach the mainmast itself, permitting only
+a single individual to pass at a time. All around you, a dense fog blocks
+your view, and you can barely make out any shapes on the deck, far below. The
+mainmast lies to the east, while the rigging descends downward toward the
+main deck.
+~
+191 dfi 0
+R falldeck1.lua 4
+D1
+~
+~
+0 0 19194
+D5
+~
+~
+0 0 19105
+S
+#19105
+Climbing the Mainsail Rigging~
+   From this vantage point, you are able to view the sails more closely. You
+can now see that everywhere the old sail is damaged, an eerie bluish light
+glows, magically binding the shreads in place. You may continue up or down
+the rigging from here.
+~
+191 df 0
+R falldeck1.lua 4
+D4
+~
+~
+0 0 19104
+D5
+~
+~
+0 0 19106
+S
+#19106
+Climbing the Mainsail Rigging~
+   Climbing the mainsail rigging you note that although the ropes themselves
+are old and worn, they are amazingly strong. The tattered sail billows outward
+before you, filled by an ethereal wind. You may ascend the rigging, or descend
+to the main deck.
+~
+191 cdf 0
+R falldeck1.lua 4
+D4
+~
+~
+0 0 19105
+D5
+~
+~
+0 0 19142
+S
+#19107
+Climbing the Foremast~
+   At this point, the narrow shreads of foresail rigging adjoin the foremast.
+Clinging to the shifting rope ladder, you gaze into the mists below, where
+the view of the forecastle deck is nearly obscured from sight. You may descend
+the foremast, or climb onto the foresail rigging, to the west. You may also
+ascend the fore topmast from here.
+~
+191 dfi 0
+R falldeck2.lua 4
+D3
+~
+~
+0 0 19110
+D4
+~
+~
+0 0 19113
+D5
+~
+~
+0 0 19108
+S
+#19108
+Climbing the Foremast~
+   As you struggle to maintain your grip on the rope ladder, a loose deadeye
+swings toward you wildly, striking hard against the back of your skull. You
+feel the warm trickle of blood as it runs down your neck. Dazed and aching,
+you must choose your course. The rope ladder continues up and down from here.
+~
+191 dfi 0
+R falldeck2.lua 4
+D4
+~
+~
+0 0 19107
+D5
+~
+~
+0 0 19109
+S
+#19109
+Climbing the Foremast~
+   The ship's deck fades away beneath you from this height. Your grip tightens.
+as you sway alongside the splintered mast, enveloped in mist. You begin to
+wonder if it was such a good idea coming up here. The ladder continues up and
+down from here.
+~
+191 cdfi 0
+R falldeck2.lua 4
+D4
+~
+~
+0 0 19108
+D5
+~
+~
+0 0 19127
+S
+#19110
+Climbing the Mainsail Rigging~
+   The rigging narrows as you approach the top of the foremast, permitting only
+a single individual to pass at a time. All around you, a dense fog blocks
+your view, and you can barely make out any shapes on the deck, far below. The
+foremast lies to the east, while the rigging descends downward toward the
+forecastle deck.
+~
+191 dfi 0
+R falldeck2.lua 4
+D1
+~
+~
+0 0 19107
+D5
+~
+~
+0 0 19111
+S
+#19111
+Climbing the Foresail Rigging~
+   From this vantage point, you are able to view the sails more closely. You
+can now see that everywhere the old sail is damaged, an eerie bluish light
+glows, magically binding the shreads in place. You may continue up or down
+the rigging from here.
+~
+191 df 0
+R falldeck2.lua 4
+D4
+~
+~
+0 0 19110
+D5
+~
+~
+0 0 19112
+S
+#19112
+Climbing the Foresail Rigging~
+   Climbing the foresail rigging you note that although the ropes themselves
+are old and worn, they are amazingly strong. The tattered sail billows outward
+before you, filled by an ethereal wind. You may ascend the rigging, or descend
+to the forecastle deck.
+~
+191 cdf 0
+R falldeck2.lua 4
+D4
+~
+~
+0 0 19111
+D5
+~
+~
+0 0 19125
+S
+#19113
+The Fore Topmast~
+   Standing high atop the foremast, clinging desparately to the narrow topmast,
+you are surrounded within an eerie globe of mist. The swaying topmast reaches
+ever upward into the dense fog. Perhaps you'd best climb down to a safer
+location. The mainmast is just below.
+~
+191 df 0
+R falldeck2.lua 4
+D5
+~
+~
+0 0 19107
+S
+#19114
+The Quarter Deck~
+   Here, at the aft corner of the quarter deck, you have a view of the black
+ocean waters below. The gentle sound of water caressing the ship's hull is
+all you hear. The quarter deck continues to the east and south, while to the
+north and west lies only the salty brine.
+~
+191 df 0
+D1
+~
+~
+0 0 19117
+D2
+~
+~
+0 0 19115
+S
+#19115
+The Quarter Deck~
+   You stand at the ship's stern, looking out over the briny water to the
+west. Down over the stern, the dark water churns and tumbles as it is sliced
+through by the massive wooden rudder. The wake boils off into the mists behind
+as the ship speeds its course. The quarter deck extends to the north, south,
+and east.
+~
+191 df 0
+D0
+~
+~
+0 0 19114
+D1
+~
+~
+0 0 19118
+D2
+~
+~
+0 0 19116
+S
+#19116
+The Quarter Deck~
+   The quarter deck, at the ship's stern, overlooks the vast, dark ocean to
+the west. The sound of churning water fills the air with a rumbling sound.
+As the ship glides through the water, it leaves a trail of foam, marking its
+passage. The quarter deck continues to the north and east.
+~
+191 df 0
+D0
+~
+~
+0 0 19115
+D1
+~
+~
+0 0 19119
+S
+#19117
+The Quarter Deck~
+   You find yourself on the port side of the quarter deck. From here, you can
+see the entire main deck to your east and to the west, you can see the calm,
+dark ocean. As you look over the edge, you can see the ocean waters gently
+churning as the ship passes swiftly through the open sea. The quarter deck
+extends to the east, west, and south.
+~
+191 df 0
+D1
+~
+~
+0 0 19120
+D2
+~
+~
+0 0 19118
+D3
+~
+~
+0 0 19114
+S
+#19118
+The Quarter Deck~
+   You find yourself standing at the very center of the quarter deck. This
+is the place from which the captain and his navigator direct the course of
+the ship. The upward slant of the deck's surface allows you a slight view of
+the main deck. To the east lies the ship's helm, and in the opposite direction
+lies the stern.
+~
+191 df 0
+D0
+~
+~
+0 0 19117
+D1
+~
+~
+0 0 19121
+D2
+~
+~
+0 0 19119
+D3
+~
+~
+0 0 19115
+S
+#19119
+The Quarter Deck~
+   You stand on the quarter deck, along the ship's starboard side. To the
+south, you can see the dark, peaceful ocean. Though the ship is moving, you
+feel no wind against your face. The helm lies off to the northeast from here.
+The quarter deck extends to the north, east, or west.
+~
+191 df 0
+D0
+~
+~
+0 0 19118
+D1
+~
+~
+0 0 19122
+D3
+~
+~
+0 0 19116
+S
+#19120
+Quarter Deck~
+   You stand atop the ship's quarter deck, along the ship's port side. This
+portion of the deck appears to be swept clear of all the debris, unlike the
+main deck. Just to the south of here, you can see the ship's helm, overlooking
+the main deck. The quarter deck extends to the west and south from here, while
+the main deck lies below, at the bottom of a narrow ladder.
+~
+191 df 0
+D2
+~
+~
+0 0 19121
+D3
+~
+~
+0 0 19117
+D5
+~
+~
+0 0 19140
+S
+#19121
+The Ship's Helm~
+   From a raised platform at the helm, you have an elevated view of the main
+deck. Here, there is no dust on the floor, and the place is relatively clean.
+Below the ancient wheel you see a torn section of a map - no doubt the captain
+was looking at this long ago. Alongside, a large bullhorn carved from fine
+ivory. Using this, the captain could surely be heard over the din of any storm.
+The quarter deck extends to the north, south, and west.
+~
+191 df 0
+R francesca.lua 16
+D0
+~
+~
+0 0 19120
+D2
+~
+~
+0 0 19122
+D3
+~
+~
+0 0 19118
+S
+#19122
+The Quarter Deck~
+   You stand at the corner of the ship's quarter deck, looking out across the
+dim figures moving about on the main deck and disappearing into the shrouding
+mists. Just overhead, the enormous main boom is suspended from aged and
+frail-looking rigging. Perhaps this is not the safest place to be standing.
+The quarter deck extends to the north and west.
+~
+191 df 0
+D0
+~
+~
+0 0 19121
+D3
+~
+~
+0 0 19119
+S
+#19123
+The Forecastle Deck~
+   You stand upon the forecastle deck against the ship's port side, looking
+westward over the main deck. As you rest your arm against the railing, a large
+section gives way, crashing to the deck below. Luckily, you didn't lean too
+hard, or you'd have taken a nasty fall. The deck extends to the south and
+east.
+~
+191 df 0
+D1
+~
+~
+0 0 19126
+D2
+~
+~
+0 0 19124
+S
+#19124
+The Forecastle Deck~
+   You stand atop the forecastle deck, looking out over the main deck which
+extends below you to the west. Above the main deck, the mainsail billows
+forward though the air around you remains strangely still. You may proceed
+across the forecastle deck to the north, south, or east.
+~
+191 df 0
+D0
+~
+~
+0 0 19123
+D1
+~
+~
+0 0 19127
+D2
+~
+~
+0 0 19125
+S
+#19125
+The Forecastle Deck~
+   You stand atop the forecastle deck, along the ship's starboard side. Here,
+heavy block and tackle secure what remains of the foresail rigging to the
+deck. While it looks rather risky, you can ascend the rigging from here. The
+forecastle deck extends to the north and east, while the main deck lies below,
+at the bottom of a narrow ladder.
+~
+191 df 0
+D0
+~
+~
+0 0 19124
+D1
+~
+~
+0 0 19128
+D4
+~
+~
+0 0 19112
+D5
+~
+~
+0 0 19158
+S
+#19126
+The Forecastle Deck~
+   The forecastle deck appears to have been swept clean of the sort of debris
+present on the main deck - likely due to waves crashing over the bow in stormy
+seas. Above, you, the foresail billows forward, filled by an etherial wind.
+The deck continues to the east, west, and south.
+~
+191 df 0
+D1
+~
+~
+0 0 19129
+D2
+~
+~
+0 0 19127
+D3
+~
+~
+0 0 19123
+S
+#19127
+The Forecastle Deck~
+   High overhead, the ship's foremast rises into the swirling mists. Against
+the mast, a rotten rope ladder sways with the rolling of the ship. You may
+ascend the mast, or continue across the forecastle deck in any direction.
+~
+191 df 0
+D0
+~
+~
+0 0 19126
+D1
+~
+~
+0 0 19130
+D2
+~
+~
+0 0 19128
+D3
+~
+~
+0 0 19124
+D4
+~
+~
+0 0 19109
+S
+#19128
+The Forecastle Deck~
+   The forecastle deck appears to have been swept clean of the sort of debris
+present on the main deck - likely due to waves crashing over the bow in stormy
+seas. Above, you, the foresail billows forward, filled by an etherial wind.
+The deck continues to the north, east, and west.
+~
+191 df 0
+D0
+~
+~
+0 0 19127
+D1
+~
+~
+0 0 19131
+D3
+~
+~
+0 0 19125
+S
+#19129
+The Forecastle Deck~
+   You stand at the ship's prow, looking out over rough, dark water as the
+ship speeds along its course. Nothing can be seen beyond the all-encompassing
+fog. The forecastle deck extends to the south and west from here.
+~
+191 df 0
+D2
+~
+~
+0 0 19130
+D3
+~
+~
+0 0 19126
+S
+#19130
+The Forecastle Deck~
+   From here, atop the forecastle deck at the very prow of the ship, you can
+see the foremast high above, disappearing into the thick mist. The sound of
+waves breaking across the ship's hull is the only sound to be heard. The deck
+extends in all directions from here.
+~
+191 df 0
+D0
+~
+~
+0 0 19129
+D1
+~
+~
+0 0 19132
+D2
+~
+~
+0 0 19131
+D3
+~
+~
+0 0 19127
+S
+#19131
+The Forecastle Deck~
+   You stand at the ship's prow, looking out over rough, dark water as the
+ship speeds along its course. Through a portal low in the railing, a massive
+chain passes over the side. The forecastle deck extends to the north and
+west.
+~
+191 df 0
+D0
+~
+~
+0 0 19130
+D3
+~
+~
+0 0 19128
+D5
+A large, rusty chain hangs down over the ship's side. It looks like it could
+get very dangerous crawling down the chain... and if you happened to die down
+there, your body would be dashed to pieces against the ship's hull.
+~
+~
+0 0 19134
+S
+#19132
+The Forecastle Deck~
+   You stand upon the foremost point of the ship's deck, the tattered jib
+flying before you as the ship speeds forward across the water. From here, you
+see some dark object swinging from the bowsprit, but are unable to tell exactly
+what it might be. The bowsprit lies to the east, while the forecastle deck is
+to the west.
+~
+191 df 0
+D1
+You might be able to climb out onto the bowsprit, but the consequences would
+be disastrous if something should happen to you out there. You and your
+possessions would surely be lost forever in the depths of the abyss.
+~
+~
+0 0 19133
+D3
+~
+~
+0 0 19130
+S
+#19133
+The Bowsprit~
+   You crawl out onto the bowsprit, the waves churning beneath you. At the
+farther end of the dolphin striker hangs a severed human head, suspended by
+its own hair - the obvious remains of a less-fortunate adventurer. The
+relative safety of the deck lies to the west.
+~
+191 cdfi 0
+R loseitems.lua 8
+D3
+~
+~
+0 0 19132
+S
+#19134
+A Rusted Chain~
+   You cling precariously to a rusted, algae-covered chain looking downward
+at the turbulent abyss. The spray from off the bow drenches your face and
+clothing, and salt stings your eyes. Below you, a massive anchor hangs at
+the end of the chain. The safety of the forecastle deck lies above.
+~
+191 acdfi 0
+R loseitems.lua 8
+D4
+~
+~
+0 0 19131
+D5
+~
+~
+0 0 19135
+S
+#19135
+The Ship's Anchor~
+   You fight hard to maintain your grip on the slick surface of the ancient
+anchor as the wake rises up over your knees, threatening to force you from
+this perch. You'd best return quickly to the safety of the ship's deck.
+~
+191 adfi 0
+R loseitems.lua 8
+D4
+~
+~
+0 0 19134
+S
+#19136
+The Captain's Cabin~
+   In this corner of the cabin, a broken-down table stands covered in ancient
+maps and ledgers. It looks as though this was where the captain and his
+officers once plotted the course of their adventures. As you touch the corner
+of a map, the paper crumbles to dust beneath your fingertips. The cabin
+extends to the north and east.
+~
+191 adf 0
+D0
+~
+~
+0 0 19137
+D1
+~
+~
+0 0 19191
+S
+#19137
+The Captain's Cabin~
+   Refuse and dust hang upon everything, and the chamber's furnishings are
+obviously in need of major repairs. To the north, a small berth is situated
+against the ship's port side. The cabin continues to the south and west.
+~
+191 adf 0
+D0
+The captain's berth is in this corner of the cabin, nestled in tight between
+the ship's hull and the bookcase to the east.
+~
+~
+0 0 19190
+D1
+~
+~
+0 0 19139
+D2
+~
+~
+0 0 19136
+S
+#19138
+Behind the Bookcase~
+   You stand atop a small landing behind the captain's bookcase. A narrow set
+of stairs extends downward toward the west. A layer of dust covers the landing,
+and cobwebs criss-cross the stairway. It looks as if nothing has disturbed
+this place for a long while. The captain's cabin lies beyond the bookcase to
+the south.
+~
+191 adfi 0
+D2
+~
+bookcase~
+2 0 19139
+D5
+~
+~
+0 0 19195
+S
+#19139
+The Captain's Cabin~
+   Once the most luxurious chamber aboard, the captain's cabin has fallen into
+a state of total disrepair. A large bookcase built into the northern wall is
+covered with the remnants of decaying manuscripts and the logs of past voyages.
+The cabin continues to the south and west, while the main deck lies through
+the doorway to the east.
+~
+191 adf 0
+D0
+A large bookcase covers this wall. It contains all manner of ancient logs and
+journals, one of which appears to have been removed recently.
+~
+bookcase~
+2 19120 19138
+D1
+~
+door cabin~
+2 19118 19141
+D2
+~
+~
+0 0 19191
+D3
+~
+~
+0 0 19137
+S
+#19140
+The Main Deck~
+   You stand in the corner of the aft main deck, against the port side.
+Against the west wall, a narrow ladder climbs up to the quarter deck, while
+the main deck extends to the south and east from here.
+~
+191 df 0
+D1
+~
+~
+0 0 19143
+D2
+~
+~
+0 0 19141
+D4
+~
+~
+0 0 19120
+S
+#19141
+The Main Deck~
+   A large door, affixed with a tarnished brass plaque is set into the western
+wall. It appears that this door must lead to a place of some importance. The
+main deck extends in all other directions.
+~
+191 df 0
+D0
+~
+~
+0 0 19140
+D1
+~
+~
+0 0 19144
+D2
+~
+~
+0 0 19142
+D3
+~
+door cabin~
+2 19118 19139
+E
+sign plaque~
+0~
+&y        ______________
+&y      /                \
+&y     | Captain Vincente |
+&y      \ ______________ /
+&n.
+~
+S
+#19142
+The Main Deck~
+   You stand in the aft corner of the main deck at the starboard side. Here,
+heavy block and tackle secure what remains of the mainsail rigging to the
+ship's deck. While it looks rather risky, you can ascend the rigging from
+here. The main deck extends to the north and east.
+~
+191 df 0
+D0
+~
+~
+0 0 19141
+D1
+~
+~
+0 0 19145
+D4
+~
+~
+0 0 19106
+S
+#19143
+The Main Deck~
+    To the north lies the calm and barren sea. The ship rocks gently as it
+glides swiftly over the salty waters. Much to your suprise, there is little
+sound though the ship is moving at a phenomenal speed. The deck is covered in
+heavy layers of dust, yet it seems to be recently disturbed. A slight moaning
+noise echoes through the black mists. The deck extends in all other directions.
+~
+191 df 0
+D1
+~
+~
+0 0 19146
+D2
+~
+~
+0 0 19144
+D3
+~
+~
+0 0 19140
+S
+#19144
+The Main Deck~
+   The ship's mainmast rises through the deck and climbs high into the
+gloom overhead. A half-rotten rope ladder sways alongside the mast, but you
+are unable to see where it leads from here. You may ascend the mast, or
+continue along the deck in any direction.
+~
+191 df 0
+D0
+~
+~
+0 0 19143
+D1
+~
+~
+0 0 19147
+D2
+~
+~
+0 0 19145
+D3
+~
+~
+0 0 19141
+D4
+~
+~
+0 0 19103
+S
+#19145
+The Main Deck~
+   Standing upon the main deck, you cannot feel the warm oceanic air gently
+caress your face, even as the ship moves swiftly across the water. Above
+you, a sail hangs from riggings centuries of age, yet at full strength and
+poise. The ocean lies to the south, and the main deck stretches in all other
+directions.
+~
+191 df 0
+D0
+~
+~
+0 0 19144
+D1
+~
+~
+0 0 19148
+D3
+~
+~
+0 0 19142
+S
+#19146
+The Main Deck~
+   Looking out to the north, a vast grey mist black as night can be seen
+hovering over the ocean waters. There is no wind, yet the ship is moving at an
+astounding rate. A faint moaning noise breaks the silence.
+~
+191 df 0
+D1
+~
+~
+0 0 19150
+D2
+~
+~
+0 0 19147
+D3
+~
+~
+0 0 19143
+S
+#19147
+The Main Deck~
+   A large, iron-framed hatch is set into the deck here. Criss-crossed with
+rusted iron straps, this portal appears to lead into the ship's cargo hold.
+The main deck extends in all directions from here.
+~
+191 df 0
+D0
+~
+~
+0 0 19146
+D1
+~
+~
+0 0 19151
+D2
+~
+~
+0 0 19148
+D3
+~
+~
+0 0 19144
+D5
+~
+hatch~
+1 0 19169
+S
+#19148
+The Main Deck~
+   Remnants of a fight are apparent through the way this place has been
+left. Disarmed swords, torn clothing, and blood stains dot the planks of this
+spot on the deck. Though the skirmish took place long before your existence,
+the detailed markings in the dust allow you to replay the two combatants every
+move. To the south lies the calm ocean, and all about you is the main deck.
+~
+191 df 0
+D0
+~
+~
+0 0 19147
+D1
+~
+~
+0 0 19152
+D3
+~
+~
+0 0 19145
+D5
+~
+~
+0 0 19101
+S
+#19149
+The Plank~
+   The plank is old, and creaks with each footstep. The deep, blue sea water
+churns in the wake below. As you make your way to the edge, images of people
+who once walked this very plank flash through your conciousness. The only way
+to stay dry is to return to the deck to the south.
+~
+191 cdfi 0
+R loseitems.lua 8
+D2
+~
+~
+0 0 19150
+S
+#19150
+The Main Deck~
+   From the looks of things, it has been many centuries since any man was
+brave enough to set foot on the main deck. Evidence of a great battle long ago
+lies all around. Bones, weapons, and tattered cloth are scattered about. In the
+dust every move of two fighting men can be retraced. To the north lies the
+plank where many men have met their end.
+~
+191 df 0
+D0
+An warped, wooden plank extends over the side of the ship.
+~
+~
+0 0 19149
+D1
+~
+~
+0 0 19153
+D2
+~
+~
+0 0 19151
+D3
+~
+~
+0 0 19146
+S
+#19151
+The Main Deck~
+   All about the main deck, a thin layer of dust has settled across the old,
+wooden boards. Many years have passed since anything has disturbed the thick
+layer of dust resting here. You can see faint depressions here and there; a
+trail of footprints, perhaps, leading across the deck. Away to the north, you
+see a warped, wooden plank extending over the port side. The main deck extends
+in all directions.
+~
+191 df 0
+D0
+~
+~
+0 0 19150
+D1
+~
+~
+0 0 19154
+D2
+~
+~
+0 0 19152
+D3
+~
+~
+0 0 19147
+S
+#19152
+The Main Deck~
+   An uneasy calm surrounds the entire main deck as you walk about. Strange
+disturbances in the dust beneath your feet signal that you are not alone here.
+Faint sounds fill the stale, hazy air, while to the south you can barely make
+out the quiet ocean through the thick fog. The main deck extends in all other
+directions.
+~
+191 df 0
+D0
+~
+~
+0 0 19151
+D1
+~
+~
+0 0 19155
+D3
+~
+~
+0 0 19148
+S
+#19153
+The Main Deck~
+    Upon the main deck, the boards creak beneath your steps and strange noises
+fill the air. The ship is ancient, but the thickly-layered dust seems to have
+been disturbed recently. Fresh blood is present on the tar-blackened boards.
+~
+191 df 0
+D1
+~
+~
+0 0 19156
+D2
+~
+~
+0 0 19154
+D3
+~
+~
+0 0 19150
+S
+#19154
+The Main Deck~
+   High overhead, the ship's sails billow forward. Tattered as they are, it's
+difficult to believe that they could be functional now. Still, the ship
+seems to race forward with unearthly speed. The main deck extends in all
+directions.
+~
+191 df 0
+D0
+~
+~
+0 0 19153
+D1
+~
+~
+0 0 19157
+D2
+~
+~
+0 0 19155
+D3
+~
+~
+0 0 19151
+S
+#19155
+The Main Deck~
+    Upon the main deck, the boards creak beneath your steps, and strange noises
+fill the air. The ship is ancient, but the thickly-layered dust seems to have
+been disturbed recently. Fresh blood is present on the tar-blackened boards.
+~
+191 df 0
+D0
+~
+~
+0 0 19154
+D1
+~
+~
+0 0 19158
+D3
+~
+~
+0 0 19152
+S
+#19156
+The Main Deck~
+   You stand in the corner of the forward main deck, against the port side.
+Here, the ship's bell still hangs, swinging silently with the rolling of
+the sea. The main deck extends to the south and west from here.
+~
+191 df 0
+D2
+~
+~
+0 0 19157
+D3
+~
+~
+0 0 19153
+S
+#19157
+The Main Deck~
+   A narrow doorway on the east wall provides access inside the ship's
+forecastle. The wooden door sags loosely on its rusted hinges, creaking with
+the motion of the ship. The main deck continues to the north, south, and west.
+~
+191 df 0
+D0
+~
+~
+0 0 19156
+D1
+~
+door~
+1 0 19178
+D2
+~
+~
+0 0 19158
+D3
+~
+~
+0 0 19154
+S
+#19158
+The Main Deck~
+   You stand in the corner of the forward main deck, against the starboard
+side. Against the east wall, a narrow ladder climbs up to the forecastle
+deck, while the main deck extends to the north and west from here.
+~
+191 df 0
+D0
+~
+~
+0 0 19157
+D3
+~
+~
+0 0 19155
+D4
+~
+~
+0 0 19125
+S
+#19159
+The Brig~
+   As you enter this cell, the intense smell of death permeates your very
+being, nearly knocking you to your knees. How anyone could survive in this
+terrible place is beyond your comprehension. The only escape from this stench
+is back through the cell door to the south.
+~
+191 adf 0
+D2
+~
+cell~
+1 19117 19160
+S
+#19160
+The Brig~
+   You stand in the hallway to the ship's brig. From the cells to the north
+and south, the stench of death reaches like fingers, closing around your very
+throat. The main cargo hold lies through the bulkhead portal, east of here.
+~
+191 0 0
+D0
+~
+cell~
+1 19117 19159
+D1
+The main hold lies beyond this passageway.
+~
+~
+0 0 19163
+D2
+~
+cell door~
+2 19117 19161
+S
+#19161
+The Brig~
+   As you enter this cell, the intense smell of death permeates your very
+being, nearly knocking you to your knees. How anyone could survive in this
+terrible place is beyond your comprehension. The only escape from this stench
+is back through the cell door to the north.
+~
+191 adf 0
+D0
+~
+cell door~
+2 0 19160
+S
+#19162
+The Main Hold~
+   You stand in the corner of the ship's main hold where the port-side hull,
+to the north, meets the aft bulkhead, to the west. Piles of mouldering
+sailcloth are mounded against the main mast, rotted from years of disuse. The
+main hold continues to the east and south.
+~
+191 0 0
+D1
+~
+~
+0 0 19165
+D2
+~
+~
+0 0 19163
+S
+#19163
+The Main Hold~
+   To the west, a narrow portal in the aft bulkhead leads into blackness. The
+vague odor of death emanates from the opening, making you hesitant to enter.
+The main hold extends to the north and south of here, with your passage east
+blocked by the bulk of the mainmast step.
+~
+191 adf 0
+D0
+~
+~
+0 0 19162
+D2
+~
+~
+0 0 19164
+D3
+Blackness and the stench of death await you through this passageway.
+~
+~
+0 0 19160
+S
+#19164
+The Main Hold~
+   You stand in the corner of the ship's main hold where the starboard hull,
+to the south, meets the aft bulkhead, to the west. From the rafters hang
+ancient oil lanterns, clinking together softly with the roll and sway of the
+ship. Broken glass is scattered across the floorboards here, making for some
+tricky footing. The main hold continues to the north and east.
+~
+191 adf 0
+D0
+~
+~
+0 0 19163
+D1
+~
+~
+0 0 19167
+S
+#19165
+The Main Hold~
+   You make your way along the ship's hull to the north, squeezing past great
+mounds of torn and aging sailcloth which are piled against the main mast, and
+spilling across the floorboards. The main hold continues to the east and west
+from here.
+~
+191 0 0
+D1
+~
+~
+0 0 19168
+D3
+~
+~
+0 0 19162
+S
+#19166
+The Mainmast Step~
+   You stand at the base of the ship's mainmast, where it extends from rafters
+to floorboards, and is affixed into the mast step. To the east, dim light
+filters down from somewhere overhead. You may proceed through the main hold,
+to the south or east.
+~
+191 adf 0
+D1
+~
+~
+0 0 19169
+D2
+~
+~
+0 0 19167
+S
+#19167
+The Main Hold~
+   To the east, half-rotten casks of wood are stacked high. These were once
+used to carry fresh water needed for the ship's long voyages. You might be
+able to crawl across the casks, but you'd best be quite careful about it. The
+main hold extends to the north and west from here.
+~
+191 adf 0
+D0
+~
+~
+0 0 19166
+D1
+~
+~
+0 0 19170
+D3
+~
+~
+0 0 19164
+S
+#19168
+The Main Hold~
+   To the east of here, a large pile of ballast stones reaches up toward the
+overhead beams. It looks a bit too precarious to proceed across, and you think
+better of it. To the south, your passage is blocked by stacks of crates, some
+broken open; their contents scattered about the floor, making footing a bit
+difficult. The main hold continues to the west.
+~
+191 0 0
+D3
+~
+~
+0 0 19165
+S
+#19169
+The Main Hold~
+   Dim light filters down from a grating between the overhead beams. It's
+difficult to see much from where you now stand, as you are hemmed in between
+stacks of dusty crates and large water casks. You may proceed to the west,
+toward the mainmast.
+~
+191 df 0
+D3
+~
+~
+0 0 19166
+D4
+~
+hatch~
+1 0 19147
+S
+#19170
+The Main Hold~
+   To the west, stacks of ancient casks lie, obviously rotting for years. The
+lower casks have been crushed beneath the weight of the upper casks, creating
+a large heap of broken barrel staves and iron bands. The loose materials
+scattered about this area make the footing too slippery, preventing your safe
+passage to the west. Musty-smelling crates block the way to the north, leaving
+only one exit to the east.
+~
+191 adf 0
+D1
+~
+~
+0 0 19173
+S
+#19171
+The Main Hold~
+   A large pile of heavy ballast stones is stacked to the west of here. These
+stones were once used to balance the heavily-laden ship against the massive
+weight of the tall wooden masts. It looks as though you might be able to
+squeeze past the stones along the ship's hull, but you'd best be careful
+about it. You may also proceed to the south or east.
+~
+191 adf 0
+D1
+~
+~
+0 0 19174
+D2
+~
+~
+0 0 19172
+D3
+~
+~
+0 0 19168
+S
+#19172
+The Main Hold~
+   You just barely squeeze between the stacks of crates which rise to the east
+and west. They look awfully heavy. It would be a terrible end for you if these
+ancient crates were to topple down just as you are standing here. You notice
+something odd about the floorboards here. The boards appear to be affixed with
+rusted iron hinges, but try as you might, you cannot pry them loose. Perhaps
+you'd better just get out of here. The main hold continues to the north and
+south.
+~
+191 adf 0
+D0
+~
+~
+0 0 19171
+D2
+~
+~
+0 0 19173
+D5
+A section of the floorboards here are affixed with hinges, solidly rusted into
+place.
+~
+board~
+2 0 19199
+S
+#19173
+The Main Hold~
+   You stand just north of the ship's starboard hull, in the blackness of the
+ship's hold. To the east, stacks of ancient crates bar the way. The crates
+appear to be marked with runes and symbols of a long-forgotten language. You
+may proceed to the north or west.
+~
+191 adf 0
+D0
+~
+~
+0 0 19172
+D3
+~
+~
+0 0 19170
+S
+#19174
+The Main Hold~
+   You stand in the corner of the ship's main hold where the port-side hull,
+to the north, meets the foreward bulkhead, to the east. Along the walls in
+this area hang aged fishing nets, stiff and heavily encrusted with ocean salts.
+The main hold continues to the south and west.
+~
+191 adf 0
+D2
+~
+~
+0 0 19175
+D3
+~
+~
+0 0 19171
+S
+#19175
+The Main Hold~
+   To the east, a narrow portal in the foreward bulkhead leads into the utter
+darkness of the foreward hold. To the west are stacks of crates bearing many
+strange runes. The main hold extends to the north and south, along the foreward
+bulkhead.
+~
+191 adf 0
+D0
+~
+~
+0 0 19174
+D1
+You see nothing but pitch darkness beyond the portal.
+~
+~
+0 0 19184
+D2
+~
+~
+0 0 19176
+S
+#19176
+The Main Hold~
+   You stand in the corner of the ship's main hold where the starboard hull,
+to the south, meets the foreward bulkhead, to the east. Stacks of dust-laden
+crates are piled to the west, blocking passage in that direction. They appear
+to be covered in strange runes, mostly worn beyond recognition. The main
+hold continues to the north.
+~
+191 adf 0
+D0
+~
+~
+0 0 19175
+S
+#19177
+The Galley~
+   What remains of the ship's galley is none too pleasant. Ancient utensils
+and refuse are scattered over the warped work surfaces and strewn across the
+floor. A doorway to the east appears to lead into a storage room, while the
+forecastle hallway lies to the south.
+~
+191 adf 0
+D1
+~
+~
+0 0 19180
+D2
+~
+door~
+1 0 19178
+S
+#19178
+The Forecastle Hallway~
+   You stand in a short hallway within the ship's forecastle. The doorway to
+the north appears to lead to the ship's galley, which the door to the south
+leads to what was once the crew's quarters. The main deck lies through the
+doorway to the west.
+~
+191 adf 0
+D0
+~
+door~
+1 0 19177
+D2
+~
+door~
+1 0 19179
+D3
+~
+door~
+1 0 19157
+S
+#19179
+The Crew's Quarters~
+   You stand within what appears to have serviced as the crew's quarters.
+Broken and rotting hammocks hang from the walls, and the remnants of personal
+effects are strewn over the floorboards. The large room continues to the east,
+and the forecastle hallway lies through the door to the north.
+~
+191 adf 0
+D0
+~
+door~
+1 0 19178
+D1
+~
+~
+0 0 19182
+S
+#19180
+The Ship's Larder~
+   The crumbling shelves stand bare, covered in a thick layer of dust. Only
+a few remnants of foodstuffs remain here - you wonder if any of it might be
+edible. The only exit is through the galley to the west.
+~
+191 adf 0
+D3
+~
+~
+0 0 19177
+S
+#19181
+Behind the Foremast~
+   This tight space behind the main mast appears to have been claimed as his
+own by one of the more senior of the ship's crew. His personal effects are
+strewn about the floor. Perhaps you might find something of use here.
+~
+191 adfs 0
+D2
+A large section of fishing net hanging from the beams overhead affords this
+space a bit of privacy.
+~
+net nets~
+1 0 19182
+S
+#19182
+The Crew's Quarters~
+   You walk across the littered floor, ducking under the tattered hammocks
+hanging from the walls. To the north, the bulk of the mainmast is covered in
+an array of ancient nets. The room extends to the west from here.
+~
+191 adf 0
+D0
+~
+net nets~
+1 0 19181
+D3
+~
+~
+0 0 19179
+S
+#19183
+The Foreward Hold~
+   You stand within the foreward hold, where the port-side hull adjoins the
+foreward bulkhead. This place is near to empty, aside from the rat droppings
+and debris scattered about the floorboards. The hold continues to the south
+and east from here.
+~
+191 adf 0
+D1
+~
+~
+0 0 19186
+D2
+~
+~
+0 0 19184
+S
+#19184
+The Foreward Hold~
+   Here, within the foreward hold, a gaping hole opens in the floorboards
+before you. You skirt the edge carefully to avoid falling into whatever lies
+in the darkness below.
+~
+191 acdf 0
+R falldown.lua 1
+D0
+~
+~
+0 0 19183
+D1
+~
+~
+0 0 19187
+D2
+~
+~
+0 0 19185
+D3
+The main hold lies beyond the bulkhead portal.
+~
+~
+0 0 19175
+D5
+A gaping hole in the floorboards opens into the total darkness below.
+~
+~
+0 0 19197
+S
+#19185
+The Foreward Hold~
+   You stand within the foreward hold, where the starboard hull adjoins the
+foreward bulkhead. This place is near to empty, aside from the rat droppings
+and debris scattered about the floorboards. The hold continues to the north
+and east from here.
+~
+191 adf 0
+D0
+~
+~
+0 0 19184
+D1
+~
+~
+0 0 19188
+S
+#19186
+The Foreward Hold~
+   You have reached the foremost end of the ship's cargo hold. This area is
+barren of containers and equipment, unlike the main hold. You follow the curve
+of the ship's hull as you make your way along. The foreward hold continues to
+the south and west.
+~
+191 adf 0
+D2
+~
+~
+0 0 19187
+D3
+~
+~
+0 0 19183
+S
+#19187
+The Foreward Hold~
+   This place is utterly empty, even the ship's crew having deserted this
+part of the hold. The only inhabitants appear to be the rats who frequent
+this area. To the east, the great bulk of the foremast is affixed within the
+mast step. It looks like you might be able to crawl behind it. The foreward
+hold continues in all other directions.
+~
+191 adf 0
+D0
+~
+~
+0 0 19186
+D1
+It looks as though you might be able to just squeeze between the foremast and
+the ship's hull, but it would be a tight fit. You wonder what might be hidden
+back there...
+~
+~
+0 0 19189
+D2
+~
+~
+0 0 19188
+D3
+~
+~
+0 0 19184
+S
+#19188
+The Foreward Hold~
+   You have reached the foremost end of the ship's cargo hold. This area is
+barren of containers and equipment, unlike the main hold. You follow the curve
+of the ship's hull as you make your way along. The foreward hold continues to
+the north and west.
+~
+191 adf 0
+D0
+~
+~
+0 0 19187
+D3
+~
+~
+0 0 19185
+S
+#19189
+The Foremast Step~
+   Oh great! Now you're stuck! You're wedged in tight between the ship's hull
+and the foremast step. Try as you might, you cannot proceed forward, nor can
+you work your way back out.
+~
+191 acdfi 0
+R load_recall.lua 2
+S
+#19190
+The Captain's Berth~
+   You choke and cough as a plume of feathers hits your face. It may well
+have been a comfortable bed at one time, but you wouldn't consider using this
+filthy thing now. The portal windows in the north wall are covered in dust and
+cobwebs, allowing only very dim light to pass through. The captain's cabin lies
+to the south.
+~
+191 adfi 0
+D2
+~
+~
+0 0 19137
+S
+#19191
+The Captain's Cabin~
+   Against the ship's starboard side, to the south, several round portals
+allow a minimal amount of light to filter through the grime-covered glass.
+The wood paneled walls have suffered much decay as moisture has leaked in
+through the broken glass, and run down the once-fine teak panels. The cabin
+extends to the north and west.
+~
+191 adf 0
+D0
+~
+~
+0 0 19139
+D3
+~
+~
+0 0 19136
+S
+#19192
+Beneath the Captain's Cabin~
+   Once behind the carved panelling, you find yourself in a large extension of
+the captain's hidden rooms. Perhaps there is more to this room than meets the
+eye, given the presence of its rather large guardian. The captain's cabin lies
+through the room to the north.
+~
+191 adf 0
+D0
+~
+panel~
+1 0 19195
+D2
+~
+secret wall false~
+1 0 19196
+S
+#19193
+The Crows Nest~
+   You stand upon the highest place on the ship, sourrounded on all sides by
+dense fog. This ancient basket, high atop the mainmast creaks unsteadily
+beneath you. An old, broken spyglass lies on the bottom of the nest, splattered
+with blood. You may descend the mainmast from here, or hurl yourself over the
+edge to your death!
+~
+191 df 0
+R falldeck1.lua 4
+D5
+~
+~
+0 0 19194
+S
+#19194
+Climbing the Mainmast~
+   This large wooden shaft runs from below decks to the ship's highest point,
+the crows nest. Charred by numerous lightning strikes, the mast is old and
+splintered. To the west the mainsail rigging adjoins the mast itself, while
+the crows nest lies above you. The mast also leads down to the main deck.
+~
+191 dfi 0
+R falldeck1.lua 4
+D3
+~
+~
+0 0 19104
+D4
+~
+~
+0 0 19193
+D5
+~
+~
+0 0 19102
+S
+#19195
+A Small Compartment~
+   Covered in richly-panelled walls, this must have been the captain's private
+space within his quarters. It looks to have been quite a comfortable place in
+its day, affording the captain a bit of solitude from the constant activities
+aboard ship. A narrow stairway climbs up and to the east, toward the captain's
+cabin.
+~
+191 adf 0
+R mastiff.lua 32
+D2
+~
+panel~
+1 0 19192
+D4
+~
+~
+0 0 19138
+S
+#19196
+Behind the False Wall~
+   Here, behind the false wall, you find the compartment used by the ship's
+captain to hide his treasures. Perhaps you might even uncover a few of his
+secrets buried among his prized possessions. The only exit lies to the north.
+~
+191 adf 0
+D0
+~
+wall false~
+1 0 19192
+S
+#19197
+The Bilge~
+   Ugh! The bilge! There can be nothing on this ship worse than this awful
+place. Icy water shocks your body and rises up over your head. You fight to
+gain a hold on the algae-covered hull, but it's just too slick. You are forced
+to move onward, as you cannot return the way you came. The bilge continues to
+the west.
+~
+191 adfi 7
+R loseitems.lua 8
+D3
+The bilge continues in this direction.
+~
+~
+0 0 19198
+S
+#19198
+The Bilge~
+   You fight your way through the chilling muck here, searching for a way out.
+The stench is terrible, and your water-soaked clothing weighs you down as you
+struggle to keep yourself afloat. The bilge continues to the east and west.
+~
+191 adfi 7
+R loseitems.lua 8
+D1
+The bilge continues in this direction.
+~
+~
+0 0 19197
+D3
+The bilge continues in this direction.
+~
+~
+0 0 19199
+S
+#19199
+The Bilge~
+   Corroded iron rungs ascend the sides of the bilge. At last! This might be
+the way out of this dreadful place! The algae-covered hull is crawling with
+filthy rats. They snap at your fingers are you reach for the first rungs. The
+bilge continues to the east.
+~
+191 adfi 6
+R loseitems.lua 8
+D1
+The bilge continues in this direction.
+~
+~
+0 0 19198
+D4
+The boards overhead appear to be affixed with iron hinges, encased in a thick
+layer of grimy rust. They won't budge easily, but you might be able to pry
+them apart if you had something you could force between the boards.
+~
+board~
+2 19116 19172
+S
+$~

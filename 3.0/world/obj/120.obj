@@ -1,0 +1,95 @@
+#12000
+key stone~
+a stone key~
+A stone key has been left here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 50 3 1
+#12001
+mace stalk petrified~
+a petrified stalk~
+The petrified stalk of a large beholder lies here.~
+~
+5 g an 0
+5 5 7 7 4
+14 2 8500 30 0 1
+A
+19 2
+A
+4 2
+R
+5 3
+#12002
+talisman funerary~
+a funerary talisman~
+A small talisman, sacred to the gods, has been placed here.~
+~
+8 agh aco 0
+0 0 0 0 1
+1 3 10000 5 0 1
+A
+27 10
+A
+5 -9
+A
+28 10
+A
+12 100
+#12003
+gloves razor tipped~
+some razor-tipped gloves~
+Some nasty looking gloves lie here.~
+~
+11 j ah 0
+0 0 0 0 3
+5 3 6000 15 0 1
+A
+19 4
+#12004
+key~
+a key~
+A key has been dropped here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 60 1 1
+#12005
+wand protection~
+a wand of protection~
+A wand sticks point down in the dust here.~
+~
+3 abfg an 0
+5 0 0 0 3
+3 2 8000 20 0 1
+A
+18 -1
+A
+20 3
+A
+21 3
+#12006
+carpet flying~
+a flying carpet~
+A carpet hovers above the ground with no visible means of support.~
+~
+12 bg ao 0
+0 0 0 0 0
+5 3 7500 30 0 1
+A
+18 3
+#12007
+axe beheading~
+a beheading axe~
+A large double bladed axe lies in the dirt.~
+~
+5 g an 0
+2 8 7 3 3
+26 3 7000 40 0 1
+A
+19 4
+A
+18 1
+R
+2 3
+$~

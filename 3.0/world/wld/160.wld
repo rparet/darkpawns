@@ -1,0 +1,1383 @@
+#16000
+Mountain Pass~
+   A shoddy looking gravelly path leads up into the mountain range.  The
+stonesky mountains loom high above you, and block out all view of the
+terrain hidden beyond them.
+~
+160 4 0 0 0 5
+D4
+~
+~
+0 0 16001
+E
+map~
+map goes here.
+~
+S
+#16001
+A Mountain Pass~
+   You stand at the base of the stonesky mountains.  The rough, rocky facade
+of the mountain side makes scaling the mountain possible.  As you look up
+the immense mountain before you, you notice most of the mountain face is
+climbable, and leads off into different directions, broken up by an
+occasional ledge for sideways travel.  You sense that climbing won't be a 
+problem as much as navigating will be...
+~
+160 4 0 0 0 5
+D1
+~
+~
+0 0 16013
+D3
+~
+~
+0 0 16033
+D4
+~
+~
+0 0 16002
+D5
+~
+~
+0 0 16000
+S
+#16002
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 4 0 0 0 5
+D1
+~
+~
+0 0 16014
+D3
+~
+~
+0 0 16031
+D4
+~
+~
+0 0 16003
+D5
+~
+~
+0 0 16001
+S
+#16003
+The Mountainside~
+   The rock face here leads up or down.  You silently pray that you don't
+accidentally let go, as it would be a while before you hit bottom...
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16004
+D5
+~
+~
+0 0 16002
+S
+#16004
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16008
+D3
+~
+~
+0 0 16007
+D4
+~
+~
+0 0 16005
+D5
+~
+~
+0 0 16003
+S
+#16005
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16009
+D4
+~
+~
+0 0 16006
+D5
+~
+~
+0 0 16004
+S
+#16006
+A Cloudy Mountain Peak~
+   You have reached the pinnacle of one of the mountains.  Clouds and mist
+swirl about you in the thin mountain air, blocking view of the world far
+below you.  The clouds almost block out the sun, not so much as to create
+darkness, but to cast the area in shadow.  You feel lightheaded this high
+up, possibly from the climb to get here, or more likely the thin air your
+breathing.
+~
+160 0 0 0 0 5
+D0
+~
+~
+0 0 16081
+D5
+~
+~
+0 0 16005
+S
+#16007
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16004
+S
+#16008
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16004
+D5
+~
+~
+0 0 16060
+S
+#16009
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16005
+D4
+~
+~
+0 0 16059
+S
+#16010
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16051
+D4
+~
+~
+0 0 16011
+S
+#16011
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 0
+D1
+~
+~
+0 0 16029
+D3
+~
+~
+0 0 16012
+D5
+~
+~
+0 0 16010
+S
+#16012
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16011
+D4
+~
+~
+0 0 16048
+D5
+~
+~
+0 0 16013
+S
+#16013
+A Mountain Pass~
+   You stand at the base of the stonesky mountains.  The rough, rocky facade
+of the mountain side makes scaling the mountain possible.  As you look up
+the immense mountain before you, you notice most of the mountain face is
+climbable, and leads off into different directions, broken up by an
+occasional ledge for sideways travel.  You sense that climbing won't be a 
+problem as much as navigating will be...
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16001
+D4
+~
+~
+0 0 16012
+S
+#16014
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16002
+D4
+~
+~
+0 0 16015
+S
+#16015
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16016
+D5
+~
+~
+0 0 16014
+S
+#16016
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16017
+D3
+~
+~
+0 0 16015
+D4
+~
+~
+0 0 16018
+S
+#16017
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16016
+S
+#16018
+The Mountainside~
+   The rock face here leads up or down.  You silently pray that you don't
+accidentally let go, as it would be a while before you hit bottom...
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16019
+D5
+~
+~
+0 0 16016
+S
+#16019
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16021
+D4
+~
+~
+0 0 16020
+D5
+~
+~
+0 0 16018
+S
+#16020
+A Cloudy Mountain Peak~
+   You have reached the pinnacle of one of the mountains.  Clouds and mist
+swirl about you in the thin mountain air, blocking view of the world far
+below you.  The clouds almost block out the sun, not so much as to create
+darkness, but to cast the area in shadow.  You feel lightheaded this high
+up, possibly from the climb to get here, or more likely the thin air your
+breathing.
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16019
+S
+#16021
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16019
+D4
+~
+~
+0 0 16022
+S
+#16022
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16026
+D3
+~
+~
+0 0 16027
+D4
+~
+~
+0 0 16023
+D5
+~
+~
+0 0 16021
+S
+#16023
+A Cloudy Mountain Peak~
+   You have reached the pinnacle of one of the mountains.  Clouds and mist
+swirl about you in the thin mountain air, blocking view of the world far
+below you.  The clouds almost block out the sun, not so much as to create
+darkness, but to cast the area in shadow.  You feel lightheaded this high
+up, possibly from the climb to get here, or more likely the thin air your
+breathing.
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16022
+S
+#16024
+A Cloudy Mountain Peak~
+   Clouds and mist swirl about you in the thin mountain air, blocking the
+view of the world far below you.  The clouds almost block out the sun, not
+so much as to create darkness, but to cast the area in shadow.  And yet
+the mountain continues to reach farther into the sky...
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16061
+D5
+~
+~
+0 0 16027
+S
+#16025
+A Cloudy Mountain Peak~
+   You have reached the pinnacle of one of the mountains.  Clouds and mist
+swirl about you in the thin mountain air, blocking view of the world far
+below you.  The clouds almost block out the sun, not so much as to create
+darkness, but to cast the area in shadow.  You feel lightheaded this high
+up, possibly from the climb to get here, or more likely the thin air your
+breathing.
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16026
+S
+#16026
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16022
+D4
+~
+~
+0 0 16025
+S
+#16027
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16022
+D4
+~
+~
+0 0 16024
+S
+#16028
+The Mountainside~
+   The rock face here leads up or down.  You silently pray that you don't
+accidentally let go, as it would be a while before you hit bottom...
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16029
+S
+#16029
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16049
+D3
+~
+~
+0 0 16011
+D4
+~
+~
+0 0 16028
+S
+#16030
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16039
+D5
+~
+~
+0 0 16031
+S
+#16031
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16002
+D4
+~
+~
+0 0 16030
+S
+#16032
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16034
+D5
+~
+~
+0 0 16033
+S
+#16033
+A Mountain Pass~
+   You stand at the base of the stonesky mountains.  The rough, rocky facade
+of the mountain side makes scaling the mountain possible.  As you look up
+the immense mountain before you, you notice most of the mountain face is
+climbable, and leads off into different directions, broken up by an
+occasional ledge for sideways travel.  You sense that climbing won't be a 
+problem as much as navigating will be...
+~
+160 4 0 0 0 5
+D1
+~
+~
+0 0 16001
+D3
+~
+~
+0 0 16062
+D4
+~
+~
+0 0 16032
+S
+#16034
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16032
+D4
+~
+~
+0 0 16035
+D5
+~
+~
+0 0 16056
+S
+#16035
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16036
+D5
+~
+~
+0 0 16034
+S
+#16036
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16035
+D3
+~
+~
+0 0 16055
+D4
+~
+~
+0 0 16037
+D5
+~
+~
+0 0 16054
+S
+#16037
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16038
+D5
+~
+~
+0 0 16036
+S
+#16038
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16037
+S
+#16039
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16030
+D4
+~
+~
+0 0 16040
+S
+#16040
+The Mountainside~
+   The rock face here leads up or down.  You silently pray that you don't
+accidentally let go, as it would be a while before you hit bottom...
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16041
+D5
+~
+~
+0 0 16039
+S
+#16041
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16042
+D3
+~
+~
+0 0 16043
+D4
+~
+~
+0 0 16046
+D5
+~
+~
+0 0 16040
+S
+#16042
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16041
+D4
+~
+~
+0 0 16047
+S
+#16043
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16041
+D3
+~
+~
+0 0 16044
+S
+#16044
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16043
+D4
+~
+~
+0 0 16045
+S
+#16045
+A Cloudy Mountain Peak~
+   You have reached the pinnacle of one of the mountains.  Clouds and mist
+swirl about you in the thin mountain air, blocking view of the world far
+below you.  The clouds almost block out the sun, not so much as to create
+darkness, but to cast the area in shadow.  You feel lightheaded this high
+up, possibly from the climb to get here, or more likely the thin air your
+breathing.
+~
+160 4 0 0 0 5
+D5
+~
+~
+0 0 16044
+S
+#16046
+A Cloudy Mountain Peak~
+   You have reached the pinnacle of one of the mountains.  Clouds and mist
+swirl about you in the thin mountain air, blocking view of the world far
+below you.  The clouds almost block out the sun, not so much as to create
+darkness, but to cast the area in shadow.  You feel lightheaded this high
+up, possibly from the climb to get here, or more likely the thin air your
+breathing.
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16041
+S
+#16047
+A Cloudy Mountain Peak~
+   You have reached the pinnacle of one of the mountains.  Clouds and mist
+swirl about you in the thin mountain air, blocking view of the world far
+below you.  The clouds almost block out the sun, not so much as to create
+darkness, but to cast the area in shadow.  You feel lightheaded this high
+up, possibly from the climb to get here, or more likely the thin air your
+breathing.
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16042
+S
+#16048
+The Mountainside~
+   The rock face here leads up or down.  You silently pray that you don't
+accidentally let go, as it would be a while before you hit bottom...
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16012
+S
+#16049
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16029
+D5
+~
+~
+0 0 16050
+S
+#16050
+The Mountainside~
+   The rock face here leads up or down.  You silently pray that you don't
+accidentally let go, as it would be a while before you hit bottom...
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16049
+D5
+~
+~
+0 0 16052
+S
+#16051
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16010
+S
+#16052
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16053
+D4
+~
+~
+0 0 16050
+S
+#16053
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16052
+D4
+~
+~
+0 0 16052
+S
+#16054
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16057
+D4
+~
+~
+0 0 16036
+D5
+~
+~
+0 0 16058
+S
+#16055
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16036
+S
+#16056
+The Mountainside~
+   The rock face here leads up or down.  You silently pray that you don't
+accidentally let go, as it would be a while before you hit bottom...
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16034
+S
+#16057
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16054
+S
+#16058
+The Mountainside~
+   The rock face here leads up or down.  You silently pray that you don't
+accidentally let go, as it would be a while before you hit bottom...
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16054
+S
+#16059
+A Cloudy Mountain Peak~
+  You have reached the pinnacle of one of the mountains.  You stand before
+a large tangled mess of vines and trees, with the bones of large animals
+the size of horses scattered about.  You pass this off as a mess until
+you see the egg shells and realize you have stumbled upon a roc's nest.
+~
+160 128 0 0 0 5
+D5
+~
+~
+0 0 16009
+S
+#16060
+The Mountainside~
+   The rock face here leads up or down.  You silently pray that you don't
+accidentally let go, as it would be a while before you hit bottom...
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16008
+S
+#16061
+A Cloudy Mountain Peak~
+   You have reached the pinnacle of one of the mountains.  Clouds and mist
+swirl about you in the thin mountain air, blocking view of the world far
+below you.  The clouds almost block out the sun, not so much as to create
+darkness, but to cast the area in shadow.  You feel lightheaded this high
+up, possibly from the climb to get here, or more likely the thin air your
+breathing.
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16024
+S
+#16062
+A Mountain Pass~
+   You stand at the base of the stonesky mountains.  The rough, rocky facade
+of the mountain side makes scaling the mountain possible.  As you look up
+the immense mountain before you, you notice most of the mountain face is
+climbable, and leads off into different directions, broken up by an
+occasional ledge for sideways travel.  You sense that climbing won't be a 
+problem as much as navigating will be...
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16033
+D3
+~
+~
+0 0 16063
+S
+#16063
+A Mountain Pass~
+   You stand at the base of the stonesky mountains.  The rough, rocky facade
+of the mountain side makes scaling the mountain possible.  As you look up
+the immense mountain before you, you notice most of the mountain face is
+climbable, and leads off into different directions, broken up by an
+occasional ledge for sideways travel.  You sense that climbing won't be a 
+problem as much as navigating will be...
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16062
+D4
+~
+~
+0 0 16064
+S
+#16064
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16065
+D5
+~
+~
+0 0 16063
+S
+#16065
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16064
+D3
+~
+~
+0 0 16067
+D4
+~
+~
+0 0 16066
+S
+#16066
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16068
+D5
+~
+~
+0 0 16065
+S
+#16067
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16065
+D4
+~
+~
+0 0 16072
+S
+#16068
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16066
+D4
+~
+~
+0 0 16069
+S
+#16069
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16070
+D4
+~
+~
+0 0 16080
+D5
+~
+~
+0 0 16068
+S
+#16070
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16069
+D3
+~
+~
+0 0 16079
+S
+#16071
+A Cloudy Mountain Peak~
+   You have reached the pinnacle of one of the mountains.  Clouds and mist
+swirl about you in the thin mountain air, blocking view of the world far
+below you.  The clouds almost block out the sun, not so much as to create
+darkness, but to cast the area in shadow.  You feel lightheaded this high
+up, possibly from the climb to get here, or more likely the thin air your
+breathing.
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16079
+S
+#16072
+The Mountainside~
+   While scaling the mountainside, you notice that a ledge is extending off
+to the side.  Considering how far you'd drop if you fell, your thankful that
+there is an occasional ledge to walk across.
+~
+160 0 0 0 0 5
+D3
+~
+~
+0 0 16073
+D5
+~
+~
+0 0 16067
+S
+#16073
+A Dark Mountain Path~
+   This part of the mountain range is strangely almost devoid of life.  
+There is an occasional dried out husk of a corpse with a terrified look on
+their face, but little more.  Even the view here seems oddly disconcerting.
+Is this area cursed, or is it something far far worse?
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16072
+D3
+~
+~
+0 0 16075
+D4
+~
+~
+0 0 16074
+D5
+~
+~
+0 0 16076
+S
+#16074
+A Dark Mountain Path~
+   This part of the mountain range is strangely almost devoid of life.  
+There is an occasional dried out husk of a corpse with a terrified look on
+their face, but little more.  Even the view here seems oddly disconcerting.
+Is this area cursed, or is it something far far worse?
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16073
+S
+#16075
+A Dark Mountain Path~
+   This part of the mountain range is strangely almost devoid of life.  
+There is an occasional dried out husk of a corpse with a terrified look on
+their face, but little more.  Even the view here seems oddly disconcerting.
+Is this area cursed, or is it something far far worse?
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16073
+S
+#16076
+A Dark Mountain Path~
+   This part of the mountain range is strangely almost devoid of life.  
+There is an occasional dried out husk of a corpse with a terrified look on
+their face, but little more.  Even the view here seems oddly disconcerting.
+Is this area cursed, or is it something far far worse?
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16073
+D5
+~
+~
+0 0 16077
+S
+#16077
+A Dark Mountain Path~
+   This part of the mountain range is strangely almost devoid of life.  
+There is an occasional dried out husk of a corpse with a terrified look on
+their face, but little more.  Even the view here seems oddly disconcerting.
+Is this area cursed, or is it something far far worse?
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16076
+D5
+~
+~
+0 0 16078
+S
+#16078
+A Dark Mountain Path~
+   This part of the mountain range is strangely almost devoid of life.  
+There is an occasional dried out husk of a corpse with a terrified look on
+their face, but little more.  Even the view here seems oddly disconcerting.
+Is this area cursed, or is it something far far worse?
+~
+160 0 0 0 0 5
+D4
+~
+~
+0 0 16077
+S
+#16079
+A Mountain Pass~
+   You are walking across a narrow ledge expanding across the face of the
+mountain.  An occasional cave has been cut into the mountain's face, none
+big enough to explore.  While you wouldn't dare look down the face of the
+mountain, the view of the world far below is breathtaking.
+~
+160 0 0 0 0 5
+D1
+~
+~
+0 0 16070
+D4
+~
+~
+0 0 16071
+S
+#16080
+A Cloudy Mountain Peak~
+   You have reached the pinnacle of one of the mountains.  Clouds and mist
+swirl about you in the thin mountain air, blocking view of the world far
+below you.  The clouds almost block out the sun, not so much as to create
+darkness, but to cast the area in shadow.  You feel lightheaded this high
+up, possibly from the climb to get here, or more likely the thin air your
+breathing.
+~
+160 0 0 0 0 5
+D5
+~
+~
+0 0 16069
+S
+#16081
+The Mountain Path~
+    A small passage between the mountain tops.
+~
+160 0 0 0 0 5
+D2
+~
+~
+0 0 16006
+S
+$~

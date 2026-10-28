@@ -1,0 +1,1922 @@
+#10100
+Behind the Waterfall~
+   A waterfall rushes down, partially screening the passageway across the
+chasm to the north. The falling water causes a great deal of mist of rise,
+drenching the mossy rocks, and making for poor footing on this narrow ledge.
+Below, the torrent of water disappears into the darkness, splashing down over
+the rocks.
+~
+101 adi 0
+D2
+A waterfall rains downward before you.
+~
+~
+0 0 10174
+D5
+The falling water disappears into the darkness below.
+~
+~
+0 0 10157
+S
+#10101
+A Ring of Standing Stones~
+   Just to the southeast, a wide circle of giant stone pillars stands tall and
+triumphant over the bleak desert floor, casting long shadows in the light.
+Massive bridges of stone join the tops of the pillars, creating doorways in
+the cardinal directions, where the standing stones are spaced farther apart.
+~
+101 0 10
+D0
+~
+~
+0 0 5861
+D1
+~
+~
+0 0 10102
+D2
+~
+~
+0 0 10104
+D3
+~
+~
+0 0 5872
+S
+#10102
+Between the Standing Stones~
+   You stand between tall stone pillars, in a space wide enough for two to
+walk abreast. The shade of the bridging stone overhead is some of the first
+comfort you've experienced in these barren lands. Looking south, toward the
+center of this ring of enormous stones, you see that several smaller stones -
+perhaps once forming an "inner circle" - have toppled into ruin.
+~
+101 0 10
+D0
+~
+~
+0 0 5862
+D1
+~
+~
+0 0 10103
+D2
+The center ring of stones has toppled inward.
+~
+~
+0 0 10105
+D3
+~
+~
+0 0 10101
+S
+#10103
+A Ring of Standing Stones~
+   Just to the southwest, a wide circle of giant stone pillars stands tall and
+triumphant over the bleak desert floor, casting long shadows in the light.
+Massive bridges of stone join the tops of the pillars, creating doorways in
+the cardinal directions, where the standing stones are spaced far enough apart.
+~
+101 0 10
+D0
+~
+~
+0 0 5863
+D1
+~
+~
+0 0 5876
+D2
+~
+~
+0 0 10106
+D3
+~
+~
+0 0 10102
+S
+#10104
+Between the Standing Stones~
+   You stand between tall stone pillars, in a space wide enough for two to
+walk abreast. The shade of the bridging stone overhead is some of the first
+comfort you've experienced in these barren lands. Looking east, toward the
+center of this ring of enormous stones, you see that several smaller stones -
+perhaps once forming an "inner circle" - have toppled into ruin.
+~
+101 0 10
+D0
+~
+~
+0 0 10101
+D1
+The center ring of stones has toppled inward.
+~
+~
+0 0 10105
+D2
+~
+~
+0 0 10107
+D3
+~
+~
+0 0 5885
+S
+#10105
+Center of the Standing Stones~
+   You arrive at the center the ring of standing stone, where an inward circle
+of smaller stones has toppled into ruin. Amid the rubble of broken stones and
+shifting black sand, you discover an opening in the earth below several large
+fragments of broken stone. The opening beneath the slab looks just large enough
+for you to crawl through.
+~
+101 0 10
+D0
+~
+~
+0 0 10102
+D1
+~
+~
+0 0 10106
+D2
+~
+~
+0 0 10108
+D3
+~
+~
+0 0 10104
+D5
+You see an opening in the earth, mostly covered by a large stone slab.
+~
+slab~
+1 0 10158
+S
+#10106
+Between the Standing Stones~
+   You stand between tall stone pillars, in a space wide enough for two to
+walk abreast. The shade of the bridging stone overhead is some of the first
+comfort you've experienced in these barren lands. Looking west, toward the
+center of this ring of enormous stones, you see that several smaller stones -
+perhaps once forming an "inner circle" - have toppled into ruin.
+~
+101 0 10
+D0
+~
+~
+0 0 10103
+D1
+~
+~
+0 0 5889
+D2
+~
+~
+0 0 10109
+D3
+The center ring of stones has toppled inward.
+~
+~
+0 0 10105
+S
+#10107
+A Ring of Standing Stones~
+   Just to the northeast, a wide circle of giant stone pillars stands tall and
+triumphant over the bleak desert floor, casting long shadows in the light.
+Massive bridges of stone join the tops of the pillars, creating doorways in
+the cardinal directions, where the standing stones are spaced far enough apart.
+~
+101 0 10
+D0
+~
+~
+0 0 10104
+D1
+~
+~
+0 0 10108
+D2
+~
+~
+0 0 5912
+D3
+~
+~
+0 0 5898
+S
+#10108
+Between the Standing Stones~
+   You stand between tall stone pillars, in a space wide enough for two to
+walk abreast. The shade of the bridging stone overhead is some of the first
+comfort you've experienced in these barren lands. Looking north, toward the
+center of this ring of enormous stones, you see that several smaller stones -
+perhaps once forming an "inner circle" - have toppled into ruin.
+~
+101 0 10
+D0
+The center ring of stones has toppled inward.
+~
+~
+0 0 10105
+D1
+~
+~
+0 0 10109
+D2
+~
+~
+0 0 5913
+D3
+~
+~
+0 0 10107
+S
+#10109
+A Ring of Standing Stones~
+   Just to the northwest, a wide circle of giant stone pillars stands tall and
+triumphant over the bleak desert floor, casting long shadows in the light.
+Massive bridges of stone join the tops of the pillars, creating doorways in
+the cardinal directions, where the standing stones are spaced far enough apart.
+~
+101 0 10
+D0
+~
+~
+0 0 10106
+D1
+~
+~
+0 0 5902
+D2
+~
+~
+0 0 5914
+D3
+~
+~
+0 0 10108
+S
+#10110
+The Top Of A Hole~
+   You stand at the north end of a tall cavern, balancing precariously at the
+edge of a hole just slightly wider than you shoulders. You could probably drop
+down safely, but it would be a rough landing, and you would have to be skilled
+at climbing to get yourself out.
+~
+101 ad 0
+D2
+~
+~
+0 0 10111
+D5
+~
+~
+0 0 10121
+S
+#10111
+A Tall Cavern~
+   Your small light simply cannot illuminate the top of this enormous cavern,
+and the sound of your slow, careful footfalls is overwhelming. Every droplet of
+water falling from high above creates wonderous echoes throughout this space.
+This cavern extends to the north and south.
+~
+101 ad 0
+D0
+~
+~
+0 0 10110
+D2
+~
+~
+0 0 10130
+S
+#10112
+A Bend In The Tunnel~
+   You tread slowly across what appear to be bones scattered about this part
+of the tunnel; evidence that you are not the first to have ventured this far
+into the caverns. This tunnel widens to a junction to the south, and seems
+to end abruptly to the east.
+~
+101 ad 0
+D1
+~
+~
+0 0 10113
+D2
+~
+~
+0 0 10116
+S
+#10113
+A Dead End~
+   The tunnel comes to an abrupt halt behind the dried-up form of a mummified
+humanoid. The corpse looks as though it would disintegrate at the slightest
+touch. Above the head of this figure, some faint writing is carved into the
+stone.
+~
+101 ad 0
+D3
+~
+~
+0 0 10112
+E
+writing~
+0~
+
+Written in an ancient form of the common language, you see the words:
+
+                      Beware the Uamphyri!
+     Your blood is their life, and your life is taken easily.
+
+                      Beware the Pagan Hordes!
+     Your possessions are your mark, and their mark is of the Beast.
+
+                      Beware the Cruel Gods!
+     Your actions are noted in heaven, and punishment is swift.
+~
+S
+#10114
+A Dead End~
+   The narrow tunnel ends abruptly before you, forming a tight cavern. As you
+turn back toward the main passage, something moves swiftly and soundlessly past
+the opening to the south. Hopefully, whatever it was hasn't sensed your
+presence here.
+~
+101 ad 0
+D2
+~
+~
+0 0 10122
+S
+#10115
+A Shiny Cavern~
+   Veins of iron pyrite ore gleam brightly in the cavern walls, causing rays
+of light to scatter throughout the space. A dark pit in the cavern floor leads
+downward, while this glittering tunnel leads to the east.
+~
+101 ad 0
+D1
+~
+~
+0 0 10116
+D5
+~
+~
+0 0 10123
+S
+#10116
+A Junction~
+   You've come to a three-way junction in this cavern where the walls glisten
+in the torchlight. What appears to be the main part of the tunnel extends east,
+and dead ends just west of here. A narrow side tunnel branches off to the
+north.
+~
+101 ad 0
+D0
+~
+~
+0 0 10112
+D1
+~
+~
+0 0 10117
+D3
+~
+~
+0 0 10115
+S
+#10117
+A Narrow Tunnel~
+   The tunnel walls twinkle with every ray of torchlight that finds a vein of
+pyrite within the wall surface. To both the east and west, the walls glimmer
+softly, until the light finally fades from sight.
+~
+101 ad 0
+D1
+~
+~
+0 0 10118
+D3
+~
+~
+0 0 10116
+S
+#10118
+A Narrow Tunnel~
+   The tunnel walls twinkle with every ray of torchlight that finds a vein of
+pyrite within the wall surface. To both the east and west, the walls glimmer
+softly, until the light finally fades from sight.
+~
+101 ad 0
+D1
+~
+~
+0 0 10119
+D3
+~
+~
+0 0 10117
+S
+#10119
+A Junction~
+   An ancient landslide has created a large hole in the floor here, but you
+are able to skirt it with ease, as the rock and debris appear to have settled
+firmly into place. The main part of the tunnel bends from north to west here,
+while directly to the east, the tunnel appears to enter a large cavern.
+~
+101 ad 0
+D0
+~
+~
+0 0 10129
+D1
+~
+~
+0 0 10120
+D3
+~
+~
+0 0 10118
+D5
+~
+~
+0 0 10127
+S
+#10120
+The Second Cavern~
+   Your boots crunch on something as you enter the cavern, and you look down
+to see the bones and trappings of some poor desert nomad. Shining your light
+around, you can't see the floor, due to the myriad of other skeletons that
+litter the floor. In the shadows, you sense that the cause of all the death
+looms before you.
+~
+101 acd 0
+D3
+~
+~
+0 0 10119
+S
+#10121
+A Rocky Tunnel~
+   You wander between great stalactites, your light reflecting off of milky
+pools, as you move down this wonderous passage. The tunnel winds its way toward
+the east from here, and the cavern opens up wide overhead.
+~
+101 ad 0
+D1
+~
+~
+0 0 10122
+D4
+~
+~
+0 0 10110
+S
+#10122
+A Rocky Tunnel~
+   The footing is dangerous, and potholes in the floor force you to pay close
+attention to your steps. Breaking a leg in here could certainly have disastrous
+results. The main passageway extends to the east and west, and a narrow tunnel
+branches off to the north.
+~
+101 ad 0
+D0
+~
+~
+0 0 10114
+D1
+~
+~
+0 0 10123
+D3
+~
+~
+0 0 10121
+S
+#10123
+A Rocky Tunnel~
+   A large hole in the ceiling reveals another giant room above you. Dull
+light flashes from above, making you think that something might be moving
+around up there. Hopefully, it's nothing dangerous. The tunnel extends to the
+east and west from here.
+~
+101 ad 0
+D1
+~
+~
+0 0 10124
+D3
+~
+~
+0 0 10122
+D4
+~
+~
+0 0 10115
+S
+#10124
+A Rocky Tunnel~
+   A cool breeze wafts by you from the east, drying the sandy tunnel walls and
+disturbing your footprints on the dusty cavern floor. The passageway extends
+to the east and west.
+~
+101 ad 0
+D1
+~
+~
+0 0 10125
+D3
+~
+~
+0 0 10123
+S
+#10125
+A Rocky Tunnel~
+   You very nearly stumble into a dark pit in the floor, from which cold air
+rises steadily. The tunnel continues to the east and west, while a narrow
+crack opens in the rock wall to the south.
+~
+101 ad 0
+D1
+~
+~
+0 0 10126
+D2
+~
+~
+0 0 10172
+D3
+~
+~
+0 0 10124
+D5
+~
+~
+0 0 10134
+S
+#10126
+A Rocky Tunnel~
+   A cool breeze wafts by you from the west, drying the sandy tunnel walls and
+disturbing your footprints on the dusty cavern floor. The passageway extends
+to the east and west.
+~
+101 ad 0
+D1
+~
+~
+0 0 10127
+D3
+~
+~
+0 0 10125
+S
+#10127
+A Landslide~
+   A landslide has permanently closed the tunnel to the east, but has revealed
+a passable opening in the ceiling. You nervously eye the roof, mere inches
+overhead, inspecting for the slightest sign of crumbling which might indicate
+the possibility of more landslide activity. It looks to be solid enough to hold
+your weight.
+~
+101 ad 0
+D3
+~
+~
+0 0 10126
+D4
+~
+~
+0 0 10119
+S
+#10128
+Inside the Caves~
+   Natural light filters in weakly from the south, barely illuminating the
+gnarled, sandy walls. Strange glyphs are carved into the hardened sandstone;
+portents of what lies beyond the rough opening the the center of the stone
+floor.
+~
+101 d 0
+D2
+~
+~
+0 0 10158
+D5
+~
+~
+0 0 10137
+E
+glyphs~
+0~
+
+&r                  | o
+&r                  +/(\.
+&r                  _< \_
+
+&b               _ _ _ _ _ _&r
+
+&r               \          /
+&r               }\        /{
+&r                }\  ,,  /{
+&r                }/\ /\ /\{
+&r                /^,V\/V,^\
+&r                   \  /
+&r                  `8||8'
+&r                    ((
+&r                     ))
+&r                    /^\
+&n.
+Among the sigils, you note one which depicts water with a humanoid
+figure above, and a strange amphibious creature below. You ponder
+this odd omen...
+~
+S
+#10129
+A Passageway~
+   The tunnel here is cool, almost cold after the hot desert. The black walls
+feel dry to the touch, but the humidity is rising as you descend deeper into
+the earth. This passageway continues to the north and south.
+~
+101 ad 0
+D0
+~
+~
+0 0 10159
+D2
+~
+~
+0 0 10119
+S
+#10130
+A Short Drop to the Ground~
+   To the north, the tunnel widens into a cavernous space. Slick, black mud
+slides down from an opening in the roof here, covering the walls and congealing
+at the edges of the cavern floor. If you're agile and careful enough, you might
+be able to scale the ledge, but you're going to get filthy doing so.
+~
+101 ad 0
+D0
+~
+~
+0 0 10111
+D4
+~
+~
+0 0 10138
+S
+#10131
+The End of the Shaft~
+   The shaft opens up into this large, dusty room, obviously inhabited by the
+same creature that bored the shaft. Unusual footprints in the sandy earth
+reveal that this room has been recently occupied. The only exit lies to the
+east.
+~
+101 ad 0
+D1
+~
+~
+0 0 10132
+S
+#10132
+In the Shaft~
+   The walls are unwaveringly level, but rough and marred, possibly by some
+sort of clawed beast. A room opens up to the west, and you strain your ears
+listening intently for any sign of life within. The tunnel extends directly
+to the east.
+~
+101 ad 0
+D1
+~
+~
+0 0 10133
+D3
+~
+~
+0 0 10131
+S
+#10133
+In the Shaft~
+   The walls are unwaveringly level, but rough and marred, possibly by some
+sort of tremendous claw. You can go deeper into the tunnel west of here, or
+you can climb into the upward passage, just to the east.
+~
+101 ad 0
+D1
+~
+~
+0 0 10134
+D3
+~
+~
+0 0 10132
+S
+#10134
+Entrance to the Shaft~
+   A horizontal shaft has been bored straight through the wall by something
+tremendously strong. Small holes in the thin floor seem to be the source of
+the constant breeze.
+~
+101 ad 0
+D3
+~
+~
+0 0 10133
+D4
+~
+~
+0 0 10125
+S
+#10135
+Before the Waterfall~
+   To the north, an underground waterfall pours down from the darkness above
+and into a large opening in the sandy floor. While you certainly would not
+survive the jump downward, the stone ledge beyond the falls might provide a
+safe way down, if you are able to make the leap through the falling water.
+Perhaps you'd best forget it and head south instead.
+~
+101 ad 0
+D0
+A waterfall rains downward before you.
+~
+~
+0 0 10173
+D2
+~
+~
+0 0 10136
+S
+#10136
+A Sandy Tunnel~
+   The dull sandstone walls reflect little light, and you stumble in the near
+darkness, pressed against the cold stone. Hot, sandy air blows in from the
+west, but the sound of rushing water echoes from the north, seeming strangely
+out of place in this bone-dry tunnel.
+~
+101 ad 0
+D0
+~
+~
+0 0 10135
+D3
+~
+~
+0 0 10137
+S
+#10137
+A Sandy Tunnel~
+   You nervously eye the sand trickling down from the hole in the ceiling
+just overhead. Your fingertips can barely reach the upper lip of the hole,
+allowing you to pull yourself into the space above. From the depths to the
+east, you hear the faintest sound of rushing water, calling softly to you.
+~
+101 ad 0
+D1
+~
+~
+0 0 10136
+D4
+~
+~
+0 0 10128
+S
+#10138
+The Muddy Tunnel~
+   Thick, black mud covers the ground and walls of the tunnel, and you trudge
+through it with effort, making your way very slowly as the mud creeps through
+your armor. A slick-sided mudhole opens in this part of the tunnel, leading
+down into the eerie darkness. The tunnel extends to the south.
+~
+101 ad 0
+D2
+~
+~
+0 0 10143
+D5
+~
+~
+0 0 10130
+S
+#10139
+The Muddy Tunnel~
+   You begin to feel as though you're moving in circles... the slimy,
+mud-covered passageways all look the same.
+~
+101 ad 0
+D1
+~
+~
+0 0 10140
+D3
+~
+~
+0 0 10142
+S
+#10140
+The Muddy Tunnel~
+   You begin to feel as though you're moving in circles... the slimy,
+mud-covered passageways all look the same.
+~
+101 ad 0
+D1
+~
+~
+0 0 10141
+D2
+~
+~
+0 0 10146
+D3
+~
+~
+0 0 10139
+S
+#10141
+The Muddy Tunnel~
+   You begin to feel as though you're moving in circles... the slimy,
+mud-covered passageways all look the same.
+~
+101 ad 0
+D1
+~
+~
+0 0 10142
+D3
+~
+~
+0 0 10140
+S
+#10142
+The Muddy Tunnel~
+   You begin to feel as though you're moving in circles... the slimy,
+mud-covered passageways all look the same.
+~
+101 ad 0
+D1
+~
+~
+0 0 10139
+D3
+~
+~
+0 0 10141
+S
+#10143
+The Muddy Tunnel~
+   The dark stone walls actually glisten with moisture here, and a cool, steady
+breeze blows in from the south. The mud-covered tunnel floor extends to the
+north and south, and a niche in the east wall is too narrow to see much within.
+~
+101 ad 0
+D0
+~
+~
+0 0 10138
+D1
+You gaze into deepening darkness.
+~
+~
+0 0 10144
+D2
+~
+~
+0 0 10150
+S
+#10144
+The Muddy Tunnel~
+   Mud slurps at your knees as you trudge though this tunnel. A wicked odor
+wafts in from the east, and the ground seems to be increasingly soft in that
+direction. Difficult as it is to believe, the darkness seems only to increase
+to the east, as if the mud absorbs all light from this area.
+~
+101 ad 0
+D1
+The darkness is complete.
+~
+~
+0 0 10145
+D3
+~
+~
+0 0 10143
+S
+#10145
+The Mud Pit~
+   You step into the room, and panic strikes as you sink to your knees... to
+your thighs... then to your waist! Finally, your feet find solid earth. The
+the odor of the place overwhelms you, making your eyes water and you stomach
+turn. The only way out of here lies to the east, if only you can free your
+legs.
+~
+101 ad 0
+D3
+~
+~
+0 0 10144
+S
+#10146
+The Muddy Tunnel~
+   You come to another junction of mire-filled tunnels. You begin to feel as
+though you've been moving in circles. The confusing, mud-covered passageways
+all look the same. Similar passageways open to the north, south, and east.
+~
+101 ad 0
+D0
+~
+~
+0 0 10140
+D1
+~
+~
+0 0 10147
+D2
+~
+~
+0 0 10153
+S
+#10147
+The Muddy Tunnel~
+   The black mud is thick here, and you trudge through it with effort. The
+wind whistles softly by your ears bringing a familiar sound - running water!
+You force yourself to move faster, as you anticipate the taste of fresh water
+for the first time in days.
+~
+101 ad 0
+D1
+~
+~
+0 0 10148
+D3
+~
+~
+0 0 10146
+S
+#10148
+The Muddy Tunnel Junction~
+   You sink into the sandy mire which becomes deeper and thicker down the
+passage west of here. The sound of rushing water echoes in from the south,
+while to the east, a near-vertical drop ends in a deep pit. You'd better not
+get too close.
+~
+101 ad 0
+D1
+The Bottom of the Slide
+~
+~
+0 0 10149
+D2
+~
+~
+0 0 10155
+D3
+~
+~
+0 0 10147
+S
+#10149
+The Bottom of the Slide~
+   Your feet slip out from under you as you try to descend the treacherous
+incline. A startled scream slips from between your clenched teeth as you
+plummet downward. After a short, rough ride, you stand dazed and battered at
+to bottom of the slide. Judging from the bones protruding from the mud, you're
+not the first to have been trapped here.
+~
+101 acd 0
+S
+#10150
+A Bend in the Tunnel~
+   This narrow tunnel takes a sharp turn here, north to east. The low ceiling
+provides barely enough room for you to fit through. Only the cold mud that
+seeps into your armor keeps the rocky walls from tearing at your skin as you
+force your way through the passage. The tunnel widens to the north.
+~
+101 ad 0
+D0
+~
+~
+0 0 10143
+D1
+~
+~
+0 0 10151
+S
+#10151
+The Muddy Tunnel~
+   Inching your way along on hands and knees, the mud oozes its way into your
+armor, weighing you down and slowing your progress. You begin to think that
+perhaps you should just turn back and find an easier passage through the
+tunnel system.
+~
+101 ad 5
+D1
+~
+~
+0 0 10152
+D3
+~
+~
+0 0 10150
+S
+#10152
+The Muddy Tunnel~
+   Inching your way along on hands and knees, the mud oozes its way into your
+armor, weighing you down and slowing your progress. You begin to think that
+perhaps you should just turn back and find an easier passage through the
+tunnel system.
+~
+101 ad 5
+D1
+~
+~
+0 0 10153
+D3
+~
+~
+0 0 10151
+S
+#10153
+The Muddy Tunnel~
+   You enter another junction in the mud-covered tunnel. The crawlspace
+enlarges here to let you walk at a bit faster pace, although a bit stooped
+over. A narrow slit in the cavern wall leads north, and the tunnel continues
+to the east and west.
+~
+101 ad 0
+D0
+~
+~
+0 0 10146
+D1
+~
+~
+0 0 10154
+D3
+~
+~
+0 0 10152
+S
+#10154
+The Dead End~
+   The tunnel ends sharply here, at a mass of tumbled stone and mud. It looks
+as though you're going to have to find another way through. The only exit lies
+to the west.
+~
+101 ad 0
+D3
+~
+~
+0 0 10153
+S
+#10155
+In the Underground River~
+   The underground river spirals swiftly downward here, creating a vortex that
+flows quickly through a narrow drainway in the rocky basin. You'd best get out
+of the water quickly, or you may find yourself swept down into this natural
+well. The river flows in from the east, while a muddy tunnel extends to the
+north.
+~
+101 adA 6
+D0
+~
+~
+0 0 10148
+D1
+~
+~
+0 0 10156
+D5
+The whirlpool spins furiously.
+~
+~
+0 0 10175
+S
+#10156
+In the Underground River~
+   The sound of splashing water roars in from the east. The water seeps into
+the links and crevices of your armor, making the sandy grit rub more harshly
+against your skin. The torrent flows swiftly through this passageway toward
+the west.
+~
+101 ady 6
+D1
+~
+~
+0 0 10157
+D3
+~
+~
+0 0 10155
+S
+#10157
+The Base of the Waterfall~
+   A steady stream of water jets down from the ceiling many feet above you,
+splashing loudly into the pool at your feet. A series of footholds carved into
+the rock face lead upward into a narrow space behind the waterfall, but you
+can't see where they lead in the darkness. The water flows away to the west,
+forming an underground river.
+~
+101 ad 6
+D3
+~
+~
+0 0 10156
+D4
+Water rains down heavily from above.
+~
+~
+0 0 10100
+S
+#10158
+Entrance to the Tunnel~
+   Black sand pours steadily downward from around the edges of the sandstone
+slab overhead, threatening to seal off the entrance at any time, burying you
+alive should you tarry here too long. The tunnel winds southward into complete
+darkness, looking strangely inviting in contrast to the desert heat above.
+~
+101 d 0
+D0
+~
+~
+0 0 10128
+D4
+A stone slab covers most of the opening overhead.
+~
+slab~
+1 0 10105
+S
+#10159
+A Passageway~
+   You've wandered in here long enough that your sense of perspective has
+shifted grossly. You're uncertain where you might emerge when you finally come
+upon an exit from this tunnel system. The passageway extends to the north and
+south.
+~
+101 ad 0
+D0
+~
+~
+0 0 10170
+D2
+~
+~
+0 0 10129
+S
+#10160
+A Great Cavern~
+   The sheer enormity of this cavern astounds you. The walls and ceiling are
+completely obscured in darkness. The only sound you hear are those of your
+footfalls and your own heartbeat. The cavern extends in all directions, but
+you see no signs of its boundaries from here. You choose a direction, and
+press onward.
+~
+101 adr 0
+D0
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10160
+D1
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10160
+D2
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10160
+D3
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10163
+S
+#10161
+A Great Cavern~
+   The sheer enormity of this cavern astounds you. The walls and ceiling are
+completely obscured in darkness. The only sound you hear are those of your
+footfalls and your own heartbeat. The cavern extends in all directions, but
+you see no signs of its boundaries from here. You choose a direction, and
+press onward.
+~
+101 adr 0
+D0
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10160
+D1
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10162
+D2
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10160
+D3
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10160
+S
+#10162
+A Great Cavern~
+   The sheer enormity of this cavern astounds you. The walls and ceiling are
+completely obscured in darkness. The only sound you hear are those of your
+footfalls and your own heartbeat. The cavern extends in all directions, but
+you see no signs of its boundaries from here. You choose a direction, and
+press onward.
+~
+101 adr 0
+D0
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10160
+D1
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10160
+D2
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10166
+D3
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10160
+S
+#10163
+A Great Cavern~
+   The sheer enormity of this cavern astounds you. The walls and ceiling are
+completely obscured in darkness. The only sound you hear are those of your
+footfalls and your own heartbeat. The cavern extends to the north, south, and
+east, while a passageway opens just to the west.
+~
+101 adr 0
+D0
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10160
+D1
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10164
+D2
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10160
+D3
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10170
+S
+#10164
+A Great Cavern~
+   The sheer enormity of this cavern astounds you. The walls and ceiling are
+completely obscured in darkness. The only sound you hear are those of your
+footfalls and your own heartbeat. The cavern extends in all directions, but
+you see no signs of its boundaries from here. You choose a direction, and
+press onward.
+~
+101 adr 0
+D0
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10161
+D1
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10160
+D2
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10160
+D3
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10160
+S
+#10165
+A Great Cavern~
+   The sheer enormity of this cavern astounds you. The walls and ceiling are
+completely obscured in darkness. The only sound you hear are those of your
+footfalls and your own heartbeat. The cavern extends in all directions, but
+you see no signs of its boundaries from here. You choose a direction, and
+press onward.
+~
+101 adr 0
+D0
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10169
+D1
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10169
+D2
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10168
+D3
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10169
+S
+#10166
+A Great Cavern~
+   The sheer enormity of this cavern astounds you. The walls and ceiling are
+completely obscured in darkness. The only sound you hear are those of your
+footfalls and your own heartbeat. The cavern extends to the north, south, and
+west, while a passageway opens just to the east.
+~
+101 adr 0
+D0
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10169
+D1
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10171
+D2
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10169
+D3
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10165
+S
+#10167
+A Great Cavern~
+   The sheer enormity of this cavern astounds you. The walls and ceiling are
+completely obscured in darkness. The only sound you hear are those of your
+footfalls and your own heartbeat. The cavern extends in all directions, but
+you see no signs of its boundaries from here. You choose a direction, and
+press onward.
+~
+101 adr 0
+D0
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10163
+D1
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10169
+D2
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10169
+D3
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10169
+S
+#10168
+A Great Cavern~
+   The sheer enormity of this cavern astounds you. The walls and ceiling are
+completely obscured in darkness. The only sound you hear are those of your
+footfalls and your own heartbeat. The cavern extends in all directions, but
+you see no signs of its boundaries from here. You choose a direction, and
+press onward.
+~
+101 adr 0
+D0
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10169
+D1
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10169
+D2
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10169
+D3
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10167
+S
+#10169
+A Great Cavern~
+   The sheer enormity of this cavern astounds you. The walls and ceiling are
+completely obscured in darkness. The only sound you hear are those of your
+footfalls and your own heartbeat. The cavern extends in all directions, but
+you see no signs of its boundaries from here. You choose a direction, and
+press onward.
+~
+101 adr 0
+D0
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10169
+D1
+You peer into utter darkness, seeing nothing.
+~
+~
+0 0 10166
+D2
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10169
+D3
+You peer into utter darkness, seeing nothing
+~
+~
+0 0 10169
+S
+#10170
+An Opening to the East~
+   The passageway opens into an utterly dark space directly east of here. You
+can see no trace of either ceiling or walls. You listen intently for several
+minutes, trying to decide which direction to proceed... you hear no sound
+from within.
+~
+101 acd 0
+D1
+~
+~
+0 0 10163
+D2
+~
+~
+0 0 10159
+S
+#10171
+An Opening to the West~
+   The passageway opens into an utterly dark space directly west of here. You
+can see no trace of either ceiling or walls. You listen intently for several
+minutes, trying to decide which direction to proceed... you hear no sound
+from within.
+~
+101 acd 0
+D1
+~
+~
+0 0 20542
+D3
+~
+~
+0 0 10166
+S
+#10172
+A Small Cavern~
+   This small cavern appears to have been used by some cave-dweller who has
+long since departed. A few bones, tattered animal hides, and bits of chipped
+obsidian are scattered about this tiny space. The only exit is to the north.
+~
+101 adegs 0
+D0
+~
+~
+0 0 10125
+S
+#10173
+Behind the Waterfall~
+   You nearly lose your footing on the slick rock ledge as you make your leap
+across the chasm, landing hard against the mossy rock wall. You are drenched
+to the bone, although quite fortunate to be standing here alive and shivering.
+From here, you can see a series of small, mossy footholds have been cut into
+stone wall leading downward.
+~
+101 adi 0
+D2
+A waterfall rains downward before you.
+~
+~
+0 0 10174
+D5
+The falling water disappears into the darkness below.
+~
+~
+0 0 10157
+S
+#10174
+Before the Waterfall~
+   You leap through the veil of water, and land, gasping for breath, upon the
+safety of the sandy tunnel floor. Soaked and shivering, you gather yourself
+together and assess your options. You may continue down the passageway to the
+south, or return the way you came - via the waterfall.
+~
+101 0 0
+D0
+A waterfall rains downward before you.
+~
+~
+0 0 10173
+D2
+~
+~
+0 0 10136
+S
+#10175
+Bottom of the Vortex~
+   The violently-churning water overcomes you, sweeping you downward - your
+head, at last, pulled beneath the surface. Though you struggle and reach, you
+are unable to withstand the force of the water funneling swiftly downward.
+~
+101 acdfiry 8
+D3
+~
+~
+0 0 10176
+S
+#10176
+A Fork in the Channel~
+   The channel continues to the west, while a separate channel branches off
+directly to the south. The major part of the flow seems to be going westward,
+but you just can't be certain which is the best path. You'd better decide
+quickly, while your breath is still holding out.
+~
+101 adfiry 8
+D1
+~
+~
+0 0 10197
+D2
+~
+~
+0 0 10180
+D3
+~
+~
+0 0 10177
+S
+#10177
+A Twisting Channel~
+   The channel begins to spiral and twist here, confusing your senses and
+causing you to struggle against the current. Your hopes dim the farther you
+travel down these channels.
+~
+101 adfirv 8
+D0
+~
+~
+0 0 10178
+D1
+~
+~
+0 0 10176
+S
+#10178
+A Twisting Channel~
+   The tunnel bends sharply from south to west here, pulling you violently
+toward the west. You struggle onward, fighting to keep this last breath inside
+you for as long as possible.
+~
+101 adfiry 8
+D2
+~
+~
+0 0 10177
+D3
+~
+~
+0 0 10179
+S
+#10179
+The Channel Narrows~
+   The channel narrows abruptly here, constricting the flow of water, and
+barring your passage. You've no alternative but to swim back upstream and
+locate another route before your breath runs out completely.
+~
+101 adfir 8
+D1
+~
+~
+0 0 10178
+S
+#10180
+A Sharp Bend~
+   The water rushs swiftly toward the west, and it takes all your strength to
+keep yourself from being swept downstream. There is almost nothing to hold
+onto along the slick rock walls, but free-swimming is all but impossible.
+~
+101 adfiry 8
+D0
+~
+~
+0 0 10176
+D3
+~
+~
+0 0 10181
+S
+#10181
+An Underwater Channel~
+   You stuggle to maintain your hold with both your hands and feet while
+the torrent swirls about you and rages toward the west. The exit must be at
+the far end of this rushing water... at least, you hope there is an exit.
+~
+101 adfiry 8
+D1
+~
+~
+0 0 10180
+D3
+~
+~
+0 0 10182
+S
+#10182
+An Underwater Channel~
+   God, this would almost be fun, if you weren't nearly out of breath, and
+completely exhausted from fighting the strong current. The rushing water flows
+downward here, dragging you ever further from the surface!
+~
+101 adfirA 8
+D1
+~
+~
+0 0 10181
+D5
+~
+~
+0 0 10183
+S
+#10183
+An Underwater Channel~
+   Panic begins to set in, but you slowly calm yourself. You know that you've
+only got a few short minutes to negotiate your way through this place, or all
+may be lost. The water flows in swiftly from above, driving you soutward.
+~
+101 adfirw 8
+D2
+~
+~
+0 0 10184
+D4
+~
+~
+0 0 10182
+S
+#10184
+An Underwater Channel~
+   The water pounds you relentlessly, surging in from the north, and rushing
+away swiftly to the west, hurling your frail body against hard rock walls.
+It'll be a miracle if you are able to escape this place in one piece.
+~
+101 adfiry 8
+D0
+~
+~
+0 0 10183
+D3
+~
+~
+0 0 10185
+S
+#10185
+An Underwater Channel~
+   The raging torrent of icy water drives you hard to the west, hurling you
+against the stone walls, polished smooth by years of rushing water. You
+struggle for a handhold, or a foothold - anything to stay your chosen course.
+~
+101 adfiry 8
+D1
+~
+~
+0 0 10184
+D3
+~
+~
+0 0 10187
+S
+#10187
+An Underwater Channel~
+   Your sense of urgency rises as you're buffetted through this sharp turn.
+Channels open up to the north and east, but the majority of the water flow is
+downward. You're running out of breath... better decide quickly!
+~
+101 adfirA 8
+D0
+~
+~
+0 0 10188
+D1
+~
+~
+0 0 10185
+D5
+~
+~
+0 0 10190
+S
+#10188
+An Underwater Channel~
+   Your aching hands begin to slip along the slick walls of the water shaft,
+and the raging current hurls you against the north wall of the cavern, nearly
+dashing your face against the hard rock walls as you are dragged downstream.
+~
+101 adfiry 8
+D2
+~
+~
+0 0 10187
+D3
+~
+~
+0 0 10189
+S
+#10189
+An Underwater Channel~
+   At long last, the water has turned upward, offering a small glimmer of hope
+that you might make it out alive, if only your lungs will hold out just a
+while longer. You have no idea how far you've come, or where you might have
+drifted to in all this.
+~
+101 adfirz 8
+D1
+~
+~
+0 0 10188
+D4
+~
+~
+0 0 10193
+S
+#10190
+An Underwater Channel~
+   The water pressure has intensified greatly as you have descended into the
+depths of this underwater cavern, ever-increased by the swift waters that
+crash against you from above, forcing you further downstream.
+~
+101 adfiry 8
+D3
+~
+~
+0 0 10191
+D4
+~
+~
+0 0 10187
+S
+#10191
+An Underwater Channel~
+   The dark, turbulent water pushes you farther through the tunnel to the west,
+banging you roughly into hard walls of slick rock. For a moment, panic sets in,
+threatening to break your concentration and the meager shreads of confidence
+that you've managed to hang onto. The channel extends to the east and west.
+~
+101 adfiry 8
+D1
+~
+~
+0 0 10190
+D3
+~
+~
+0 0 10192
+S
+#10192
+An Underwater Channel~
+   The icy waters that have carried you this far have gone still. How the water
+leaves this room, you cannot tell, but you get the dreadful feeling that the
+exit is too small to fit through, if you could even find it. Your only chance
+is to find another way - you must swim back, wasting more time, and more
+precious oxygen.
+~
+101 adfir 8
+D1
+~
+~
+0 0 10198
+S
+#10193
+An Underwater Channel~
+   The ever-rushing water, and the bone-chilling cold have nearly sapped your
+strength making it extremely difficult to maintain control over your position.
+You'd certainly hate to miss perhaps the only passage that might carry you
+to freedom! The water rushes endlessly toward the west.
+~
+101 adfiry 8
+D3
+~
+~
+0 0 10194
+D5
+~
+~
+0 0 10189
+S
+#10194
+An Underwater Channel~
+   An odd thought drifts into your mind as you continue along the channel in
+your desparate search for escape. What if the way out you find sends you to
+an even less hospitable environment? The thought jars you back to your senses,
+and you struggle onward, hands searching the walls for any sign of an opening.
+~
+101 adfirw 8
+D1
+~
+~
+0 0 10193
+D2
+~
+~
+0 0 10195
+S
+#10195
+An Underwater Channel~
+   A strange sense of calm overcomes you as your breath fades and you begin to
+lose consciousness. It looks as if a lightness is beginning to grow just above
+you, and you wonder if your gods are finally calling you home.
+~
+101 adfirz 8
+D0
+~
+~
+0 0 10194
+D4
+Dim light filters down through the water.
+~
+~
+0 0 10196
+S
+#10196
+Arriving at the Surface~
+   You explode through the surface of the water, sputtering and gasping for
+breath. Moments before, certain of your impending death, you now despair to
+find yourself weak and terrified upon the surface of the vast ocean - the
+deep water extending before you in all directions.
+~
+101 0 7
+D0
+~
+~
+0 0 24879
+D1
+~
+~
+0 0 24906
+D2
+~
+~
+0 0 24931
+D3
+~
+~
+0 0 24904
+S
+#10197
+Bottom of the Vortex~
+   Water spirals downward from above, violently spinning your body and
+crashing your frame against the rock walls. Try as you might, you are unable
+to overcome the forces of the water spiralling down from above.
+~
+101 acdfiry 8
+D3
+~
+~
+0 0 10176
+S
+#10198
+An Underwater Channel~
+   Struggling hard against the current now, you fight to make your way back
+upstream. If you stop moving, even for a second, you'll be dragged back to
+the dead end, and you don't want to keep that skeleton company any longer.
+~
+101 adfiry 8
+D1
+~
+~
+0 0 10190
+D3
+~
+~
+0 0 10192
+S
+$~

@@ -1,0 +1,118 @@
+#12832
+hunter treasure man~
+a treasure hunter~
+A treasure hunter stands here searching in vain for treasure.
+~
+He is very dirty, and looks as though he hasn't seen the light of day in
+several months.
+~
+cdfg kt -100 E
+63 117 63d8+1500 6d6
+93 25002
+8 8 1
+Race: 0
+E
+#12848
+knight demon~
+the Demon Knight~
+A large demon knight stands before you looking for his next victim.
+~
+You are so repulsed by his looks that you almost cannot bear to look at him
+He is a decaying corpse, with pieces of putrid flesh hanging loosely from his
+body. There is blood dripping from many parts of him. You gaze into his
+demonic eyes, and you realize that he most certainly means to kill you. The
+Demon Knight grins at you with a satanic grin.
+~
+cdefnpt bdfhk -600 E
+78 149 78d8+2066 6d7
+228 34443
+8 8 1
+BareHandAttack: 10
+Race: 13
+Script: magic_user.lua 256
+E
+#12850
+indiana indy jones~
+Indiana Jones~
+Indiana Jones stands here ready for action.
+~
+He stands up from a kneeling position, and turns around to face you. He is a
+man of about six feet in height, and a medium build. He looks a little rough,
+since he hasn't shaved in a couple of days. He has a bullwhip in one hand, and
+a glowing golden idol in the other. He is wearing a leather jacket that is
+is quite old and dirty. His hat also has that same much-used look about it. He
+looks at you but does not say anything.
+~
+dgi dh 1000 E
+96 190 96d8+2821 8d9
+264 47030
+8 8 1
+Race: 0
+Script: fighter.lua 256
+E
+#12868
+crypt keeper cryptkeeper~
+the Cryptkeeper~
+A short skeleton with a satanic grin on his face stands here.
+~
+It appears to be a living, breathing skeleton. The skeleton is short in
+stature, and stands there with an evil grin. He would look quite harmless were
+it not for the very large scythe he is wielding in his right hand. You wonder
+how such a tiny creature could wield such a large and heavy weapon.
+~
+bdfnprt dfhk -1000 E
+78 149 78d8+2066 6d7
+111 34443
+8 8 1
+Race: 32
+E
+#12870
+robber thief~
+a grave robber~
+A grave robber pops out of the shadows and attacks.
+~
+He is a little upset that you are coming after his treasure.
+~
+cdfgl kt -1000 E
+63 117 63d8+1500 6d6
+108 25002
+8 8 1
+Race: 0
+E
+#12876
+guardian guard statue~
+a Guardian of the Tomb~
+A statue stands here blocking your path.
+~
+It is made of solid gold, as is much of this tomb. The statue stands about ten
+feet in height, and appears to be looking down at you. As you try to move past
+him, he blocks your path and says, "None shall pass."
+~
+bdeflnpqr dfhkp 100 E
+93 183 93d8+2690 8d8
+1 44842
+8 8 1
+BareHandAttack: 12
+Race: 25
+Script: no_move.lua 512
+E
+#12877
+solomon king~
+King Solomon~
+The wise King Solomon stands here adorned in gold.
+~
+He looks to be about seven feet tall with a very big build. You feel dwarfed
+as you stand before this mighty king. He projects an aura of intelligence and
+wisdom greater than any that you have ever seen. His face wears the burden of
+a very troubled man who has ruled for many, many years. He looks as though he
+is still alive.
+~
+bdeilnp dfhk 500 E
+100 199 100d8+3000 9d9
+2317 50000
+8 8 1
+BareHandAttack: 12
+Race: 12
+Script: cleric.lua 256
+E
+$

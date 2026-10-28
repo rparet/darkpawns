@@ -1,0 +1,358 @@
+#10200
+money coins treasure~
+the brass dragon's treasure~
+The brass dragon's treasure lies scattered about.~
+~
+20 0 a 0
+8000 0 0 0 0
+20 3 0 50 0 1
+#10201
+armor vengeful~
+some vengeful armor~
+Some armor lies in a heap here.~
+~
+9 ag ad 0
+13 0 0 0 3
+20 3 4575 10 0 1
+E
+armor vengeful~
+This studded-leather armor appears to have been reinforced with studs
+of titanium, rather than iron.  The suit is so tightly fitted together
+that the leather itself is hardly visible between the shiny silver
+studs.  Upon closer inspection, the armor appears to have been blessed
+or enchanted, as it glows with an almost angry hum.
+~
+A
+1 1
+A
+19 1
+#10202
+blade vengeful~
+a vengeful blade~
+A blade sticks up out of the sand.~
+~
+5 g an 0
+1 3 8 3 3
+5 2 3750 10 0 1
+A
+18 2
+A
+19 2
+R
+1 1
+#10203
+lamp brass~
+a brass lamp~
+A lamp has been discarded here.~
+~
+1 ag ao 0
+0 0 -1 0 0
+2 3 9750 30 0 1
+A
+27 3
+#10204
+dragon scale~
+a dragon scale~
+A large dragon scale has been left on the ground.~
+~
+12 0 a 0
+0 0 0 0 0
+4 3 100 40 0 1
+E
+dragon scale~
+It's a rather large section from the hide of a dragon - it reflects a lot
+of the ambient light with its silvery smooth surface. It is quite thick
+and could afford some protection if you found someone to fashion some armor
+from it.
+~
+#10205
+cistern ancient well~
+a cistern~
+An ancient cistern stands against the crumbling city wall.~
+~
+23 e 0 0
+5000 5000 15 0 0
+505 3 0 100 0 1
+E
+cistern~
+The low cistern walls have collapsed inward, leaving only a low rim of stones
+at its base. Dropping a pebble into the narrow hole, you hear the faint echo
+of a splash. With any luck, it may contain some water.
+~
+#10206
+altar pagan black obsidian~
+a pagan altar~
+A blood-stained altar stands in the corner of the room.~
+~
+15 be 0 0
+200 5 -1 0 0
+1 3 0 100 0 1
+E
+altar pagan black blood stone~
+The altar's surface is of highly-polished black stone, while the sides of the
+stone are rough-cut; chipped down to the floor. The glassy surfaces cast
+strange reflections across the room.
+~
+#10207
+basin depression pit~
+a sacrificial basin~
+A shallow depression opens in the center of the altar's tile surface.~
+~
+15 ae 0 0
+200 0 -1 0 0
+1 3 0 100 0 1
+E
+depression firepit basin~
+In the center of the raised altar, a shallow, circular basin forms what appears
+to serve as a sacrificial pyre - a place of offering in reverence to the God
+of Fire.
+~
+#10208
+moon stone crescent moonstone amulet~
+a moonstone amulet~
+A beautiful, crescent-shaped stone hangs from a silken thread.~
+~
+9 acq ac k
+3 0 0 0 4
+2 3 0 100 0 1
+E
+moon stone crescent moonstone amulet~
+A glisening white stone, polished in the shape of a crescent moon, hangs from
+a delicate thread resembling spun spidersilk.
+~
+#10209
+spaulders etched steel~
+a set of etched, steel spaulders~
+A pair of etched steel armguards lies here.~
+~
+9 k ai 0
+12 0 0 0 3
+10 3 400 20 0 1
+E
+spaulders etched steel~
+Overlapping plates of etched steel are hinged together to protect the knight's
+shoulders and upper arms.
+~
+A
+2 2
+#10210
+crystal blue icy frost~
+an icy, blue crystal~
+A frosted crystal shard lies here.~
+~
+4 aek ao 0
+100 2 2 58 0
+4 3 800 20 0 1
+E
+crystal blue icy frost~
+You watch intently as this crystal, though solid as ice, seems to morph
+slowly into a variety of shapes reminiscent of flame. Crystals of frost
+form along its ever-shifting facets as the process continues.
+~
+A
+19 1
+#10211
+sleeves ritualistic black silk~
+some ritualistic sleeves~
+A pile of flowing, black silk has been left here on the ground.~
+~
+11 gh ai 0
+0 0 0 0 0
+3 3 1200 20 0 1
+E
+sleeves ritualistic black silken~
+These black, silken sleeves are long enough to drape down across your hands,
+and flow downward below your knees. Covered in strange sigils of red and silver
+threads, these sleeves are obviously used in some type of dark magic.
+~
+A
+19 1
+A
+27 2
+A
+5 -2
+#10212
+form steel~
+a strange steel form~
+A steel form rests atop the ancient forge.~
+~
+15 ae 0 0
+6 1 -1 0 0
+1 1 0 100 0 1
+E
+form steel~
+Looking closely at the inside of this ancient form, you see the etched design
+of a moon and sun intertwined beneath the form's cover. It looks as though you
+might be able to insert similarly-shaped objects into the form and close the
+cover... but how would you be able to heat the forge?
+~
+E
+forge~
+The forge has stood cold and unused for many ages. The leather bellows has
+rotted through in several places, and ancient ashes lie heaped in the firepit.
+~
+#10213
+shroud burial gauze cloth~
+a burial shroud~
+A swath of dirty, white gauze lies in a heap.~
+~
+11 0 ak 0
+0 0 0 0 6
+2 3 350 60 0 1
+E
+shroud burial cloth~
+This thin, ragged shroud looks like it wouldn't offer you much in the way of
+protection, and it certainly smells awful. Perhaps you'd best just leave it
+where you found it.
+~
+A
+5 -2
+A
+10 -50
+A
+28 -1
+A
+17 -2
+#10214
+statue child girl~
+an enchanting statue~
+The alabaster likeness of a small child stands within the garden.~
+~
+8 i 0 0
+0 0 0 0 0
+10 1 1000 100 0 1
+E
+statue child girl alabaster Jadyn~
+You immediately recognize this enchanting statue as that of the child goddess,
+Jadyn. Her likeness stands alone within the gardens, untouched by the battles
+that ravaged this place so long ago. Her sweet face is smiling, and her hands
+reach toward you, as if asking to be lifted into your arms.
+~
+#10215
+stone sunstone sun amulet~
+a sunstone amulet~
+A sunstone amulet lies here.~
+~
+11 0 ac 0
+0 0 0 0 2
+3 3 5000 100 0 1
+E
+stone sunstone sun amulet~
+A glisening white stone, polished in the shape of a sun, hangs from a delicate
+thread resembling spun spidersilk.
+~
+#10216
+celestial strange key~
+a celestial key~
+A strange key, formed by two distinct shapes has been left here.~
+~
+18 cep a 0
+0 0 0 0 0
+2 3 150 100 2 1
+E
+celestial strange key~
+The key appears to be made from two highly polished white stones and you can
+make out the faint shape of a crescent moon and sun.
+~
+#10300
+medallion dirty brown~
+a dirty brown medallion~
+A dirty brown medallion lies on the ground here.~
+~
+8 gj ac 0
+10 0 0 0 0
+1 3 7000 3 0 1
+A
+19 2
+#10301
+necklace blue dragon~
+a necklace of blue dragon scales~
+A hand-crafted necklace of shiny scales has been left here.~
+~
+8 agk ac 0
+0 0 0 0 2
+1 3 9500 20 0 1
+E
+necklace blue dragon~
+This priceless necklace has been forged by fastening the thick, armored scales
+of a great blue dragon around a glimmering platinum chain. Its length is
+adjustable so that two may be worn in overlapping fashion, providing excellent
+protection for the neck.
+~
+A
+19 2
+A
+7 -1
+#10303
+money coins treasure~
+the blue dragon's treasure~
+The blue dragon's treasure lies scattered about.~
+~
+20 0 a 0
+8000 0 0 0 0
+10 3 0 50 0 1
+#10304
+gem sapphire~
+a sky-blue sapphire~
+A blue gem has been carelessly tossed here.~
+~
+8 0 ao 0
+0 0 0 0 0
+2 3 1000 20 0 1
+#10305
+claws dracolich~
+the wickedly-sharp claws of a dracolich~
+The mighty claws of the ancient dracolich glow with forboding power.~
+~
+9 bgjl ah 0
+12 0 0 0 1
+8 3 3000 5 0 1
+E
+claws dracolich~
+Cut straight from the corpse of a dragon, these razor-sharp claws have been
+crafted to be worn as gloves.
+~
+A
+19 3
+A
+2 2
+#10306
+tooth dragon~
+a dragon's tooth~
+A dragon's tooth has been left here by some poor fool.~
+~
+1 ag ao 0
+0 0 -1 0 4
+1 3 1 5 0 1
+A
+27 1
+A
+7 -1
+#10307
+avataric stone serapis~
+the avataric stone of Serapis~
+A small stone lies in the dirt.~
+~
+8 0 ao 0
+0 0 0 0 0
+1 3 6000 100 0 1
+A
+19 2
+A
+27 4
+A
+26 4
+#10308
+oasis pool water~
+a desert oasis~
+A small pool of clear water shines on the desert sand.~
+~
+23 e 0 0
+5000 5000 15 0 0
+5005 3 0 100 0 1
+E
+oasis pool water~
+A small pool of cool, clear water shimmers on the desert sands. It would feel
+so nice to soak your blistered feet here for a while.
+~
+$~

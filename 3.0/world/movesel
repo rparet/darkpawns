@@ -1,0 +1,11 @@
+#/bin/sh
+#usage: ./movesel <zone#>
+
+echo "Moving zone $1...."
+cp obj/$1.obj ~pawns/mud/lib/world/obj/$1.obj
+cp wld/$1.wld ~pawns/mud/lib/world/wld/$1.wld
+cp shp/$1.shp ~pawns/mud/lib/world/shp/$1.shp
+cp zon/$1.zon ~pawns/mud/lib/world/zon/$1.zon
+cp mob/$1.mob ~pawns/mud/lib/world/mob/$1.mob
+echo "Finished moving zone $1 to main port!"
+

@@ -1,0 +1,229 @@
+#2200
+golden talisman~
+a golden talisman~
+A golden talisman has been left here.~
+~
+8 acdq ac 0
+0 0 0 0 0
+2 3 100 100 0 1
+E
+golden talisman~
+The talisman is carved in the shape of a sea shell and glows softly.
+~
+A
+7 -1
+#2201
+spear crude~
+a crude spear~
+A crude spear lies on the ground.~
+~
+5 0 an 0
+4 2 4 14 6
+3 3 30 20 0 1
+#2202
+vest wooden wood~
+a wooden vest~
+A small pile of wood lies here.~
+~
+9 0 ad 0
+5 0 0 0 6
+7 2 40 25 0 1
+E
+wooden wood vest~
+It appears to be a basic form of armor.
+~
+#2203
+staff cursed~
+a cursed staff~
+A forgotten staff has been discarded here.~
+$n points $p at $N.
+~
+4 dhj ao 0
+75 3 3 27 0
+4 3 500 20 0 1
+A
+1 -2
+R
+6 3
+#2204
+priest robes~
+a priest's robe~
+A priestly robe lies in a crumpled heap.~
+~
+11 gj ak 0
+0 0 0 0 0
+6 3 200 20 0 1
+A
+10 -10
+#2205
+armor bone pile~
+some bone armor~
+A pile of bones lies on the ground.~
+~
+9 0 ad 0
+10 0 0 0 3
+7 3 100 30 0 1
+#2206
+helm bone~
+a bone helm~
+A bone helm lies here.~
+~
+9 0 ae 0
+4 0 0 0 3
+5 3 80 25 0 1
+#2207
+sword bone~
+a bone sword~
+A sword made from human bones sits here.~
+~
+5 0 an 0
+1 4 5 3 4
+6 2 120 25 0 1
+E
+bone sword~
+Despite the fact it is probably made from some of your comrades, the sword
+has been expertly crafted.
+~
+R
+1 1
+#2208
+staff daemonic daemon~
+a daemonic staff~
+A mythical staff of daemons radiates magickal energy nearby.~
+~
+5 g an 0
+3 6 6 5 2
+3 3 220 20 0 1
+E
+daemonic staff demons~
+Energy surges through your body as you examine the staff - you can feel
+the power within it yet something in the back of mind warns you...
+~
+A
+26 -2
+A
+7 1
+R
+3 2
+#2209
+silver figurine~
+a silver figurine~
+A silver figurine glows softly nearby.~
+~
+8 acdq a 0
+0 0 0 0 0
+2 3 150 100 0 1
+E
+silver figurine~
+It is humanoid shaped and has been crafted from pure silver. It looks quite
+nice really.
+~
+#2210
+crystal gem~
+a crystal gem~
+A beautiful gem has been forgotten and lies here.~
+~
+8 acdq a 0
+0 0 0 0 0
+2 3 500 100 0 1
+E
+crystal gem~
+The gem is like none you have come across before. It is exquisite and must
+be worth quite a bit.
+~
+#2211
+sandstone vessel~
+a sandstone vessel~
+A large sandstone vessel sits here.~
+~
+17 0 a 0
+20 0 15 0 0
+25 3 60 100 0 1
+E
+sandstone vessel~
+Similar in shape to a large vase, it looks well suited to carrying liquids.
+~
+#2212
+dagger sacrificial~
+a sacrificial dagger~
+A sacraficial dagger lies here stained with blood.~
+~
+5 jl an 0
+6 4 3 11 4
+3 1 40 20 0 1
+A
+18 2
+A
+2 -1
+R
+6 2
+#2213
+staff bone keeper bonekeeper~
+a bonekeeper staff~
+A staff carved from bone levitates nearby.~
+$n aims $p at $N and mumbles a few words.
+~
+4 agij ao 0
+100 5 5 36 2
+6 3 1000 10 0 1
+E
+bone keeper staff~
+The staff has been carved from a single bone which obviously came from a
+large creature judging by the size of the staff itself.
+~
+A
+13 -100
+A
+5 1
+A
+27 3
+R
+3 3
+#2214
+manticore claws~
+some manticore claws~
+A pair of manticore claws have been discarded here.~
+~
+11 ag ah 0
+0 0 0 0 0
+3 3 600 15 0 1
+E
+manticore claw~
+They were at one time, part of a larger beast but someone has vanquished
+such a foe and this is all that remains. They are rather sharp and glow softly.
+~
+A
+1 1
+A
+19 2
+A
+18 -1
+#2215
+sandstone key~
+a sandstone key~
+A sandstone key on the ground could be of use.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 100 3 1
+#2216
+sandstone key~
+a sandstone key~
+A sandstone key on the ground could be of use.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 100 3 1
+#2217
+topaz amulet~
+a topaz amulet~
+A beautiful amulet with a topaz stone sits here.~
+~
+11 ag ac 0
+0 0 0 0 2
+2 3 500 10 0 1
+A
+23 -2
+A
+24 -2
+$~

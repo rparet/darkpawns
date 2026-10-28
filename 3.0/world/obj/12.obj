@@ -1,0 +1,1242 @@
+#1200
+wooden cabinet~
+a large, wooden cabinet~
+A weapons cabinet stands against the back wall.~
+~
+15 e 0 0
+1000 5 -1 0 0
+1 3 0 100 0 1
+E
+cabinet weapons~
+A cabinet of dark hardwood stands against the back wall of the room. Its once
+fine surface is flecked with gouges caused by careless handling of the heavy
+weaponry contained within.
+~
+#1201
+case armor~
+a case of armor~
+An armor storage case stands in the corner.~
+~
+15 e 0 0
+1000 5 -1 0 0
+1 3 0 100 0 1
+E
+case~
+A large metal case stands in the corner of the room. While covered in dust,
+it serves nicely to house the various items of armor donated by the citizens
+of the town.
+~
+#1202
+metal chest~
+a metal chest~
+A huge, metal chest rests in the center of the room.~
+~
+15 e 0 0
+1000 5 -1 0 0
+1 3 0 100 0 1
+E
+chest~
+A battered and tarnished metal chest rests in the center of the room. Its
+lid is quite dented, and the wide leather straps are nearly worn through. It
+is used to store a variety of useful items donated for the use of the less
+fortunate adventurer.
+~
+#1203
+brazier earthen pot conjure~
+an earthen brazier~
+An earthen pot used for rituals sits on the ground here.~
+~
+12 eg a 0
+0 0 0 0 0
+2 3 1000 10 0 1
+#1204
+clock water bowl conjure~
+a water clock~
+A tall vase used as a water clock stands here.~
+~
+12 eg a 0
+0 0 0 0 0
+15 3 1000 10 0 1
+E
+water clock~
+This tall vase has holes marked evenly into its sides, and when filled
+with water at sunrise, it marks the passage of time.
+~
+#1205
+flute bone instrument bones conjure~
+a bone flute~
+A slender instrument made from animal bones lies here.~
+~
+12 eg a 0
+0 0 0 0 0
+1 3 1000 10 0 1
+E
+bone flute instrument~
+This flute has been ornately carved, and appears to be made from the
+bones of some animal.
+~
+#1206
+candle red ceremonial conjure~
+a large red candle~
+A large red ceremonial candle stands here.~
+~
+12 eg a 0
+0 0 0 0 0
+2 3 1000 10 0 1
+E
+candle red ceremonial conjure~
+The outer surface of this wide tallow rod is coated in a rich red sheen. For
+a candle is has a very satisfying heft to it.
+~
+#1207
+piece parchment~
+a piece of parchment~
+A piece of parchment has been rolled up and left here.~
+~
+16 0 a 0
+0 0 0 0 0
+1 3 5 100 0 1
+E
+piece parchament~
+This rolled, wide piece of paper is freyed at the edges and tinged yellow with
+age.
+~
+#1208
+quill pen~
+a quill pen~
+A beautiful quill pen has been left nearby.~
+~
+21 0 ao 0
+0 0 0 0 0
+1 3 10 100 0 1
+E
+quill pen~
+Very bright with numerous colors, the quill must have belonged to a beautiful
+bird at one point.
+~
+#1209
+runic design parchment~
+a runic design~
+A small portion of parchment has been carelessly dropped here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 100 100 0 1
+E
+runic design parchment~
+The parchment contains a very detailed rubbing of an ancient rune. It has
+been said that such runes can empower their owners with great magicks.
+~
+#1210
+bulletin board sale trade~
+a bulletin board~
+A large board filled with items for sale or trade hangs from the wall.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+board~
+Try "look board" to read the messages.
+~
+#1211
+bulletin board chosen~
+a chosen board~
+A holy looking bulletin board has been mounted on a wall here.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+board~
+Try "look board" to read the messages.
+~
+#1212
+area creation bulletin board~
+an area-creation bulletin board~
+A large bulletin board dedicated to zone creation is here.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+board~
+Try "look board" to read the messages.
+~
+#1213
+frozen bulletin board~
+a frozen bulletin board~
+A large bulletin board is here, carved from a block of ice.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+board~
+Try "look board" to read the messages.
+~
+#1214
+holy bulletin board~
+a holy bulletin board~
+A large bulletin board is mounted on a wall here. It glows with a faint aura. ~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+board~
+Try "look board" to read the messages.
+~
+#1215
+bulletin board~
+a bulletin board~
+A large bulletin board is mounted on a wall here.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+board~
+Try "look board" to read the messages.
+~
+#1216
+meat chunk~
+a piece of meat~
+A rather dubious looking piece of meat is on the ground here.~
+~
+19 0 a 0
+4 0 0 0 0
+5 3 20 100 6 1
+E
+meat chunk~
+It's not so much that the meat looks poisoned or anything, but that you
+just are not sure of it's origins.  You doubt that a hunter would drop a
+side of venison or rabbit meat... what in the world could this meat have
+come from, you wonder...
+~
+#1217
+animal fur~
+an animal fur~
+A stained and bloodied animal fur lies on the ground.~
+~
+11 0 ak 0
+0 0 0 0 5
+3 3 50 100 0 1
+E
+animal fur~
+The fur looks like it was simply pulled off the poor creature it once belonged
+to. Despite being covered in blood and cut in all number of places, it
+provides some warmth and may be worth a few coins.
+~
+#1218
+animal pelt~
+an animal pelt~
+A smooth animal pelt has been left here.~
+~
+11 0 ak 0
+0 0 0 0 5
+3 3 80 100 0 1
+E
+animal pelt~
+The pelt is in good condition and although relatively thin, it is covered
+in a light layer of oil which help insulate you and keep you warm. It might
+be worth a few gold coins.
+~
+#1219
+animal hide~
+an animal hide~
+The hide of a poor creature has been left here.~
+~
+11 0 ak 0
+0 0 0 0 5
+3 3 60 100 0 1
+E
+animal hide~
+You have to feel some pity for the poor creature from which this hide was
+obtained. It was certainly not removed from a skilled artisan, more like it
+hacked off while the creature still lived.
+~
+#1220
+feather feathered head dress~
+a feathered head-dress~
+A simple feathered head-dress lies on the ground.~
+~
+11 0 ae 0
+0 0 0 0 5
+3 3 120 100 0 1
+E
+feather feathered head dress~
+Made from a collection of colorful feathers, the head-dress is more
+ornamental than anything else but could earn you a few coins at the local
+market.
+~
+#1221
+bundle wood~
+a small bundle of wood~
+A small bundle of wood lies neatly stacked on the ground.~
+~
+13 0 a 0
+0 0 0 0 0
+8 3 30 100 0 1
+E
+bundle wood~
+The wood has been chopped well and shows little sign of damage. It should
+provide its owner with a few gold coins.
+~
+#1222
+eloquent scroll~
+an eloquent scroll~
+An eloquent scroll has been carelessly left nearby.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 50 100 0 1
+E
+eloquent scroll~
+This rather formal document appears to be the deed to a vacant store, and
+fortunately for you, has yet to be signed. Perhaps if you could locate one of
+the local stores you might be able to secure it as your own with this scroll.
+~
+#1223
+deed~
+the deed to the store~
+The deed to the store hangs on a nearby wall.~
+~
+12 0 0 0
+0 0 0 0 0
+2 3 100 100 0 1
+E
+deed~
+There is nothing on it!
+~
+#1224
+coins gold~
+a coin prototype~
+A coin prototype is here - please inform a staff member.~
+~
+20 0 a 0
+0 0 0 0 0
+1 3 0 100 0 1
+#1225
+ash reagent~
+a bit of ash~
+A small pile of ash lies here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 300 50 0 1
+E
+ash reagent~
+This small pile of flakes smears under the smallest amount of pressure.
+~
+#1226
+sand reagent~
+a pinch of sand~
+A small pile of sand lies here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 25 100 0 1
+E
+sand reagent~
+The scent of the ocean clings to these few grainy bits of sand.
+~
+#1227
+eye beholder reagent~
+the eye of a beholder~
+An eye the size of your fist lies here, staring at you.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 1000 100 0 1
+E
+eye beholder reagent~
+This large, bulbous eye still has a bit of meaty stalk attached to it. It
+glares nicely in any direction its pointed.
+~
+#1228
+frog leg reagent~
+the leg of a frog~
+A small, stringy green leg is trying to move here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 400 100 0 1
+E
+frog leg reagent~
+It has the strong odor of pungent preservatives.
+~
+#1229
+chunk iron reagent~
+a small chunk of iron~
+A small chunk of black iron is sitting here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+chunk iron reagent~
+This cracked piece of pig iron is rough and heavy in the hand.
+~
+#1230
+dust vampire~
+some vampire dust~
+A small pile of dust lies here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+dust vampire~
+This small ashen pile has a quiet malevolence about it.
+~
+#1231
+small crystal reagent~
+a small, glittering crystal~
+A small crystal glitters brilliantly here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 50 100 0 1
+E
+small crystal reagent~
+This chunk of raw crystal, though cloudy, seems to always catch the light.
+~
+#1232
+hop reagent~
+a hop~
+The dried, ripe flower of a hop plant is here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+hop~
+It's a dried, ripe flower.
+~
+#1233
+feather raven reagent~
+a raven feather~
+A long, black feather is here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 500 100 0 1
+E
+raven feather reagent~
+The glossy black feather was left in the wake of a raven's passing.
+~
+#1234
+lens reagent~
+a small, clouded lens~
+A small, dirty lens is sitting here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 90 100 0 1
+E
+lens~
+It's a round, dirty piece of glass.
+~
+#1235
+brass scale~
+a brass dragon scale~
+The scale of a brass dragon is here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+brass scale~
+The serpentine scale of giant proportions radiates a subtle warmth from
+beneath its burnished surface.
+~
+#1236
+prism reagent~
+a prism~
+A small, crystal prism sits here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 85 100 0 1
+E
+prism reagent~
+A ghostly whisp of a rainbow wavers from the glassy surface when the light
+catches it.
+~
+#1237
+hellstone reagent~
+a hellstone~
+A hellstone sits here, burning with infernal fires.~
+~
+12 0 a 0
+0 0 0 0 0
+2 3 1 100 0 1
+E
+hellstone~
+A black, smoking volcanic rock which has a terrible odor like that of burning
+hair or flesh, this hellstone violently convulses in place, as if possessed.
+It feels dirty and nasty in your hand, and gripping it seems to nauseate you
+and whisper faint urges of murder and bloodlust into your psyche.
+~
+#1238
+globe reagent~
+a small globe~
+A small globe is sitting here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 2 100 0 1
+#1239
+obsidian shard reagent~
+a shard of obsidian~
+A shard of obsidian is here.~
+~
+12 q a 0
+0 0 0 0 0
+1 3 10 100 0 1
+E
+shard obsidian~
+It's a small black piece of rock.
+~
+#1240
+sapphire tiny reagent~
+a tiny sapphire~
+A tiny, blue sapphire is glinting here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+sapphire tiny reagent~
+An exquisitely cut blue gem twinkles distractingly, demanding attention.
+~
+#1241
+steel ball reagent~
+a steel ball~
+A ball made from steel rolls around here.~
+~
+12 0 a 0
+0 0 0 0 0
+3 3 1 100 0 1
+E
+ball steel~
+A smooth, durable sphere made from steel.
+~
+#1242
+glass lens reagent~
+a small, glass lens~
+A glass lens has been left here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 10 100 0 1
+#1243
+tattered black leather book dyes~
+a book of dyes~
+A tattered, black leather book sits here.~
+~
+14 0 a 0
+0 0 0 0 4
+3 3 650 100 0 1
+E
+tattered black leather book dyes~
+The book contains a number of natural items that can be used to create
+colored dyes. Of interest is mainly the first page...
+
+&rRed Dye&n    - Two portions of red berries, common in forested areas
+Black Dye  - Two portions of bark from a logwood sapling
+&YYellow Dye&n - Two portions of onion, common in farming communities
+&cBlue Dye&n   - Two portions of leaves from the woad tree
+&WWhite Dye&n  - One portion of white root, common in forested areas
+&gGreen Dye&n  - One portion of white root, one onion and two woad leaves
+&yOrange Dye&n - One portion of white root, two onions and red berries
+&mPurple Dye&n - One portion of white root, red berries and two woad leaves
+~
+#1244
+scroll prototype~
+a scroll prototype~
+A scroll has careless been left here.~
+~
+2 0 a 0
+0 0 0 0 3
+2 3 0 100 0 1
+E
+scroll~
+It's a magical scroll...recite it if you want to make use of it.
+~
+#1245
+letter introduction rich~
+a letter of introduction~
+A letter of introduction has carelessly been left here.~
+~
+7 q a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+letter introduction~
+The letter is a formal document that proclaims your birth right, and carries
+the crest of your family. You will need to present it to the town clerk in
+order to receive some basic equipment.
+~
+#1246
+letter introduction average~
+a letter of introduction~
+A letter of introduction has carelessly been left here.~
+~
+7 q a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+letter introduction~
+The letter is a formal document that proclaims your birth right, and carries
+the crest of your family. You will need to present it to the town clerk in
+order to receive some basic equipment.
+~
+#1247
+letter introduction poor~
+a letter of introduction~
+A letter of introduction has carelessly been left here.~
+~
+7 q a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+letter introduction~
+The letter is a formal document that proclaims your birth right, and carries
+the crest of your family. You will need to present it to the town clerk in
+order to receive some basic equipment.
+~
+#1248
+bond certificate~
+a bond certificate~
+A bond certificate has carelessly been left here.~
+~
+7 q a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+bond certificate~
+The bond certificate is essentially a form of currency, although rarely used
+these days throughout the realm. You should take it to your city bank in
+order to cash it in for gold coins.
+~
+#1250
+nightshade mushroom reagent~
+some nightshade~
+A small mushroom is lying on the ground.~
+~
+12 n a 0
+0 0 0 0 0
+1 3 350 100 0 1
+E
+nightshade mushroom~
+This hallucinogenic mushroom is often the critical ingredient in spells that
+create illusions or poisonous effects. Sprouting in swamps and only in the
+dark of night, this mushroom is easily distinguished from others by the way
+its stalk bruises when crushed.
+~
+#1251
+black pearl reagent~
+a black pearl~
+A rare black pearl has carelessly been left here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 500 100 0 1
+E
+black pearl~
+One oyster in ten thousand will yield a black pearl suitable for spellcasting
+purposes. It is usually crushed into a fine, iridescent powder before being
+combined with other reagents.
+~
+#1252
+blood moss reagent~
+some blood moss~
+A blood-colored moss has been discarded nearby.~
+~
+12 n a 0
+0 0 0 0 0
+1 3 200 100 0 1
+E
+blood moss reagent~
+In reality, the blood moss is a fungus gathered in the enchanted forest of
+Spiritwood. There, it is found growing under the loose, dead bark of fallen
+trees.
+~
+#1253
+clove garlic reagent~
+a clove of garlic~
+A clove of garlic has been left on the ground.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 100 100 0 1
+E
+clove garlic reagent~
+This common household spice is effective in warding off evil spirits and
+negating black magic. Preparations for use generally involve the grinding of
+washed cloves of garlic between two flatirons until they are reduced to a
+pungent paste.
+~
+#1254
+ginseng root reagent~
+a ginseng root~
+A ginseng root has been left here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 200 100 0 1
+E
+ginseng root reagent~
+Often used as a curative power, this bitter root must be reboiled forty
+times with clear mountain water, letting the mixture develop a strong, acrid
+odor before use.
+~
+#1255
+mandrake root reagent~
+a mandrake root~
+An odd shaped root has been left on the ground.~
+~
+12 n a 0
+0 0 0 0 0
+1 3 350 100 0 1
+E
+mandrake root reagent~
+The most sought after herb of the spellcaster, mandrake root grows along
+the loamy banks of stagnant swamps. Once found, it must be dug up carefully
+so as not to damage the tap root, for it is in the rot that the greatest
+concentration of active ingredients is found.
+~
+#1256
+spider silk reagent~
+some spider's silk~
+A bundle of spider's silk has been carefully wound up.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 150 100 0 1
+E
+spider silk reagent~
+It takes many spider's webs to make a full ounce of the silk, but the
+binding power it adds to spells makes the effort well worthwhile.
+~
+#1257
+mortar pestle~
+a mortar~
+Someone has left a mortar and pestle lying here.~
+~
+15 0 a 0
+10 0 -1 0 0
+2 3 350 100 0 1
+S mix_lookup.lua 1
+E
+mortar pestle~
+The mortar is a small vessel made of hard material, in which ingredients
+are pounded with a pestle. Often used in alchemy, the trained adventurer would
+be able to mix their own potions with the proper reagents.
+~
+#1258
+vial empty~
+an empty vial~
+An empty vial lies discarded on the ground.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 100 100 0 1
+E
+empty vial~
+A delicately crafted vial of clear, blown glass awaits the latest creation of
+some chemical mastermind.
+~
+#1259
+leather book alchemy~
+a book of alchemy~
+A leather-bound book has been left nearby.~
+~
+14 0 a 0
+0 0 0 0 0
+3 3 650 100 0 1
+E
+two~
+First Circle:
+-------------
+"&gRejuvenation&w" - Sulfurous ash, nightshade, blood moss and mandrake root
+"&gShield of Good&w" - Sulfurous ash, nightshade, garlic and ginseng
+"&gShield of Evil&w" - Sulfurous ash, black pearl, garlic and ginseng
+"&gTraveller's Focus&w" - Black pearl, blood moss, mandrake root and spider's silk
+
+Second Circle:
+--------------
+"&gFighter's Bane&w" - Sulfurous ash, nightshade and garlic
+"&gHaven&w" - Sulfurous ash, garlic and ginseng
+"&gWeariness&w" - Nightshade, black pearl and spider's silk
+"&gEthereal Cloak&w" - Nightshade, blood moss and mandrake root
+"&gFighter's Remedy&w" - Garlic, ginseng and mandrake root
+
+Third Circle:
+-------------
+"&gEthereal Sight&w" - Sulfurous ash and nightshade
+"&gSelf Restoration&w" - Ginseng and spider's silk
+~
+E
+one~
+&gBlack pearl&w - Born of an oyster bathed in water magic, a black pearl channels
+energy of projection in manners both foreceful and absurd.
+
+&gBlood moss&w - The energy of blood rolled in battle imbues a common type of moss
+with a magical potential that is suitable for spells of movement.
+
+&gGarlic&w - For eons, common garlic has warded off creatures of undead
+enchantment, though some have developed resistances over time.
+
+&gGinseng&w - In ancient eras, ginseng was crushed into a fine powder and added to
+the ale of warriors on the eve of battle.
+
+&gMandrake root&w - Known to mages of yore as the Root of Life for its aptitude in
+binding spells of power.
+
+&gNightshade&w - A deadly plant if eaten, nightshade can bind illusions or, if
+used by different method, spells of poison.
+
+&gSpider's silk&w - Little in the natural world has the tensile strength of a
+spider's webbing.
+
+&gSulfurous ash&w - Sulfurous ash holds the energy of friction from the volcanic
+eruption that begot it.
+~
+E
+leather book alchemy~
+The first few pages of the book give a brief history of alchemy, most of which
+does not interest you. There are, however, bits and pieces of information on
+pages one and two which you might find useful.
+
+Page one deals primarily with reagents, whose unique properties form magical
+elixirs when bound together in the correct combination.
+
+Page two lists detailed ingredients for a number of the more common potions
+discovered over time. The text goes on to explain that not all combinations
+have been tested and it is rumored that several magical elixirs still await
+discovery.
+~
+#1260
+purple potion~
+a purple potion~
+A purple potion has been left here.~
+~
+10 0 a 0
+100 98 0 0 0
+1 3 240 100 0 1
+E
+purple potion~
+The deep aubergine fluid is nearly impossible to see through, although the
+liquid, itself, is perfectly clear.
+~
+#1261
+vial amber~
+a vial of amber liquid~
+A vial of amber liquid lies here.~
+~
+10 0 a 0
+100 67 0 0 0
+1 3 350 100 0 1
+E
+vial amber~
+The thick, tacky fluid clings stiffly to the sides of the narrow vial, looking
+something akin to raw honey.
+~
+#1262
+dark red elixir~
+a dark red elixir~
+A dark red elixir lies here.~
+~
+10 0 a 0
+100 34 0 0 0
+1 3 500 100 0 1
+E
+dark red elixir~
+Thick and viscous, the sanguine, crimson color of this elixir bears the claret
+of congealing blood.
+~
+#1263
+dark blue elixir~
+a dark blue elixir~
+A dark blue elixir lies here.~
+~
+10 0 a 0
+100 95 0 0 0
+1 3 500 100 0 1
+E
+dark blue elixir~
+A deep, indigo fluid swirls at the bottom of a thin, crystal vial, looking
+something akin to ink, but leaving no residue on the interior of the glass.
+~
+#1264
+glowing white potion~
+a glowing white potion~
+A glowing white potion lies here.~
+~
+10 0 a 0
+100 66 0 0 0
+1 3 700 100 0 1
+E
+glowing white potion~
+If it were only a bit brighter, it would serve as an elegant light source in
+the dark places of the world. The vial rests lightly in your palm, sending
+soft shimmers of pale, white light streaming outward between your fingers.
+~
+#1265
+vial clear liquid~
+a vial of clear liquid~
+A vial of clear liquid lies here.~
+~
+10 0 a 0
+100 68 0 0 0
+1 3 350 100 0 1
+E
+vial clear liquid~
+Though it looks clear and clean as spring water, the awful stench tells you
+that this definitely isn't the case.
+~
+#1266
+vial bubbling liquid~
+a vial of bubbling liquid~
+A vial of bubbling liquid lies here.~
+~
+10 0 a 0
+100 53 0 0 0
+1 3 500 100 0 1
+E
+vial bubbling liquid~
+Steamy wisps waft from the top of the vial, dissipating quickly in the air,
+while the strange liquid continues to froth atop the thin column of creamy
+fluid.
+~
+#1267
+red potion~
+a red potion~
+A red potion lies here.~
+~
+10 0 a 0
+100 17 0 0 0
+1 3 180 100 0 1
+E
+red potion~
+A brilliant, scarlet fluid rests tantalizingly within its vial, similar in
+many ways to common paint!
+~
+#1268
+white potion~
+a white potion~
+A white potion lies here.~
+~
+10 0 a 0
+100 36 0 0 0
+1 3 550 100 0 1
+E
+white potion~
+A simple, white potion lies sedately within its vial. It looks fairly
+innocent, but sometimes looks can be deceiving.
+~
+#1269
+green potion~
+a green potion~
+A green potion lies here.~
+~
+10 0 a 0
+100 33 0 0 0
+1 3 150 100 0 1
+E
+green potion~
+A sickly green swill fills the vial, a thin layer of slime clinging to the
+surface of the fluid, while a deeper green-brown sediment collects at the
+bottom of the glass.
+~
+#1270
+black potion~
+a black potion~
+A black potion lies here.~
+~
+10 0 a 0
+100 38 0 0 0
+1 3 200 100 0 1
+E
+black potion~
+Inky black, and icy cold to the touch, this vial of deepest midnight seems
+to absorb all nearby light, making itself appear hidden in shadow.
+~
+#1271
+opaque elixir~
+an opaque elixir~
+An opaque elixir lies here.~
+~
+10 0 a 0
+100 29 0 0 0
+1 3 400 100 0 1
+E
+opaque elixir~
+The fluid within the vial possess some strange property that plays havoc with
+the surrounding light, bending and amplifying the rays, and lending an odd
+opacity to the fluid.
+~
+#1272
+vial milky white liquid~
+a vial of milky-white liquid~
+A vial of milky-white liquid lies here.~
+~
+10 0 a 0
+100 1 0 0 0
+1 3 550 100 0 1
+E
+vial milky white liquid~
+A milk-white draught resides within a slender vial. It smells faintly of
+peppermint, but appearances can be deceiving.
+~
+#1273
+swirling red yellow potion~
+a swirling red and yellow potion~
+A swirling red and yellow potion lies here.~
+~
+10 0 a 0
+100 35 0 0 0
+1 3 240 100 0 1
+E
+swirling red yellow potion~
+Spiralling threads of crimsom and jasmine fluids writhe and twist like
+miniature serpents imprisoned within the glass vial.
+~
+#1274
+dark yellow potion~
+a dark yellow potion~
+A dark yellow potion lies here.~
+~
+10 0 a 0
+100 48 0 0 0
+1 3 400 100 0 1
+E
+dark yellow potion~
+A deep saffron in color, this strange potion coats the interior of its glass
+phial, leaving thick traces above meniscus of the fluid.
+~
+#1275
+golden elixir~
+a golden elixir~
+A golden elixir lies here.~
+~
+10 0 a 0
+100 19 0 0 0
+1 3 150 100 0 1
+E
+golden elixir~
+Viscous veins of fluid trickle down the sides of the vial as you swirl the
+glass between your fingers, sparkling in the light like golden threads.
+~
+#1276
+blue potion~
+a blue potion~
+A blue potion lies here.~
+~
+10 0 a 0
+100 4 0 0 0
+1 3 180 100 0 1
+E
+blue potion~
+A dense fluid, in a shade of jade as deep and bright as glacier flour, rests 
+within this phial.
+~
+#1277
+swirling green yellow potion~
+a swirling green and yellow potion~
+A swirling green and yellow potion lies here.~
+~
+10 0 a 0
+100 43 0 0 0
+1 3 200 100 0 1
+E
+swirling green yellow potion~
+Thin fingers of pale green and soft yellow fluid intertwine within the phial.
+Though the two liquids fail to separate into distinct layers, they refuse to
+meld into a single substance.
+~
+#1278
+yellow potion~
+a yellow potion~
+A yellow potion lies here.~
+~
+10 0 a 0
+100 28 0 0 0
+1 3 250 100 0 1
+E
+yellow potion~
+Only a few scant drams of some pale, yellow substance lie within this slender
+tube.
+~
+#1279
+bubbly amber elixir~
+a bubbly amber elixir~
+A bubbly amber elixir has been left here.~
+~
+10 0 a 0
+100 0 0 0 0
+1 3 5000 100 0 1
+E
+bubbly amber elixir~
+Pale yellow froth accumulates at the surface of this amber amber fluid,
+threatening to overflow its narrow vial and pour over the sides.
+~
+#1280
+parchment scrolled~
+a scrolled parchment~
+A scrolled parchment has carelessly been left here.~
+~
+12 0 a 0
+0 0 0 0 5
+1 3 0 0 0 1
+S spell_scroll.lua 2
+E
+parchment scrolled~
+You almost dare not touch it, given the extremely fragile state that it's in.
+However with a bit of luck, you are able to unroll it and read the following
+inscription...
+~
+#1281
+vial red dye~
+a vial of red dye~
+A vial of red dye has been left on the ground.~
+~
+12 0 a 0
+0 0 0 0 3
+1 3 30 100 0 1
+E
+vial red dye~
+The vial contains a red liquid that can be used to color all manner of items.
+~
+#1282
+vial green dye~
+a vial of green dye~
+A vial of green dye has been left here.~
+~
+12 0 a 0
+0 0 0 0 3
+1 3 45 100 0 1
+E
+vial green dye~
+The vial contains a green liquid that can be used to color all manner of
+items.
+~
+#1283
+vial black dye~
+a vial of black dye~
+A vial of black dye has been left here.~
+~
+12 0 a 0
+0 0 0 0 3
+1 3 45 100 0 1
+E
+vial black dye~
+The vial contains a black liquid that can be used to color all manner of
+items.
+~
+#1284
+vial yellow dye~
+a vial of yellow dye~
+A vial of yellow dye has been left here.~
+~
+12 0 a 0
+0 0 0 0 3
+1 3 30 100 0 1
+E
+vial yellow dye~
+The vial contains a yellow liquid that can be used to color all manner of
+items.
+~
+#1285
+vial orange dye~
+a vial of orange dye~
+A vial of orange dye has been left here.~
+~
+12 0 a 0
+0 0 0 0 3
+1 3 45 100 0 1
+E
+vial orange dye~
+The vial contains an orange liquid that can be used to color all manner of
+items.
+~
+#1286
+vial blue dye~
+a vial of blue dye~
+A vial of blue dye has been left here.~
+~
+12 0 a 0
+0 0 0 0 3
+1 3 45 100 0 1
+E
+vial blue dye~
+The vial contains a blue liquid that can be used to color all manner of items.
+~
+#1287
+vial white dye~
+a vial of white dye~
+A vial of white dye has been left here.~
+~
+12 0 a 0
+0 0 0 0 3
+1 3 30 100 0 1
+E
+vial white dye~
+The vial contains a white liquid that can be used to color all manner of
+items.
+~
+#1288
+vial purple dye~
+a vial of purple dye~
+A vial of purple dye has been left here.~
+~
+12 0 a 0
+0 0 0 0 3
+1 3 45 100 0 1
+E
+vial purple dye~
+The vial contains a purple liquid that can be used to color all manner of
+items.
+~
+#1289
+scroll~
+a prototype scroll~
+A scroll has carelessly been left here.~
+~
+2 0 a 0
+0 0 0 0 0
+2 3 0 100 0 1
+E
+scroll~
+A number of archaic symbols have been scrawled across the scroll, obviously
+an incantation of a spell.
+~
+#1290
+vial herbs preservation~
+a vial of crushed herbs~
+A vial of crushed herbs lies here.~
+~
+12 0 a 0
+0 0 0 0 0
+1 3 10 100 0 1
+E
+vial herbs~
+The vial contains some crushed thyme, commonly used in the preservation of
+food.
+~
+#1291
+vial cedar oil embalming~
+a vial of cedar oil~
+A vial of cedar oil lies here.~
+~
+10 0 a 0
+100 33 0 0 0
+1 3 10 100 0 1
+E
+vial cedar oil~
+The vial contains an aromatic oil extracted from a piece of cedar.
+~
+$~

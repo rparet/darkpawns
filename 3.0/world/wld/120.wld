@@ -1,0 +1,820 @@
+#12001
+Black Sand Desert~
+   A structure of some sort rises out of the sand to the southeast. In all
+other directions, you see only the wavy black line of the desert horizon.
+~
+120 0 10
+D0
+~
+~
+0 0 5601
+D1
+~
+~
+0 0 12002
+D2
+~
+~
+0 0 12006
+D3
+~
+~
+0 0 5605
+S
+#12002
+Black Sand Desert~
+   A dark, unmoving shape to the south is dwarfed only slightly by the dune
+that blocks your view to the southeast. The heat that rises from the desert
+sand makes you feel like you are trudging through Hell.
+~
+120 0 10
+D0
+~
+~
+0 0 5601
+D1
+~
+~
+0 0 12003
+D2
+~
+~
+0 0 12007
+D3
+~
+~
+0 0 12001
+S
+#12003
+Black Sand Desert~
+   The dryness of the air flakes your skin, and makes you mouth so dry it
+seems to crack even the inner walls of your cheeks. Looking southward, you 
+see a large dune rise against the horizon. Elsewhere, you see only dark sand.
+~
+120 0 10
+D0
+~
+~
+0 0 5602
+D1
+~
+~
+0 0 12004
+D2
+~
+~
+0 0 12008
+D3
+~
+~
+0 0 12002
+S
+#12004
+Black Sand Desert~
+   A dark, unmoving shape to the south is dwarfed only slightly by the dune
+that blocks your view to the southwest. Strong gusts beat on you, pelting you
+you with stinging sand.
+~
+120 0 10
+D0
+~
+~
+0 0 5603
+D1
+~
+~
+0 0 12005
+D2
+~
+~
+0 0 12009
+D3
+~
+~
+0 0 12003
+S
+#12005
+Black Sand Desert~
+   A statuesque monument stands to the southwest. You wonder what it is, and
+who could have built it.
+~
+120 0 10
+D0
+~
+~
+0 0 5603
+D1
+~
+~
+0 0 5609
+D2
+~
+~
+0 0 12010
+D3
+~
+~
+0 0 12004
+S
+#12006
+Black Sand Desert~
+   A large statue of some sort lies to the east. Judging the distance, you
+would guess it is larger than most of the shops in Malikor.
+~
+120 0 10
+D0
+~
+~
+0 0 12001
+D1
+~
+~
+0 0 12007
+D2
+~
+~
+0 0 12011
+D3
+~
+~
+0 0 5605
+S
+#12007
+Before the Sphinx~
+   Perhaps the only shade for miles is here, at the base of stone upon which
+rests an enormous figure. A massive dune towers to the southeast, and other
+marble figures can be seen to the south and east.
+~
+120 0 10
+D0
+~
+~
+0 0 12002
+D1
+~
+~
+0 0 12008
+D2
+~
+~
+0 0 12012
+D3
+~
+~
+0 0 12006
+S
+#12008
+North of the Enormous Dune~
+   South of you is an enormous sand dune, not quite tall enough to shelter you
+from the heat of the sun that bakes your skin. East and west of you stand huge
+marble sphinxes. Oddly, they appear to be watching you.
+~
+120 0 10
+D0
+~
+~
+0 0 12003
+D1
+~
+~
+0 0 12009
+D2
+~
+~
+0 0 12013
+D3
+~
+~
+0 0 12007
+S
+#12009
+Before the Sphinx~
+   Perhaps the only shade for miles is here, at the base of stone upon which
+rests an enormous figure. A massive dune towers to the southwest, and other   
+marble figures can be seen to the south and west.
+~
+120 0 10
+D0
+~
+~
+0 0 12004
+D1
+~
+~
+0 0 12010
+D2
+~
+~
+0 0 12014
+D3
+~
+~
+0 0 12008
+S
+#12010
+Black Sand Desert~
+   To the west, a marble figure stands guardian over the desert. Nothing else
+can be seen for miles.
+~
+120 0 10
+D0
+~
+~
+0 0 12005
+D1
+~
+~
+0 0 5609
+D2
+~
+~
+0 0 12015
+D3
+~
+~
+0 0 12009
+S
+#12011
+Black Sand Desert~
+   You notice that the large dune to the east is flanked on the north and south
+by large statues, as though the tall marble figures stood as sentinels to guard
+the sandy mound.
+~
+120 0 10
+D0
+~
+~
+0 0 12006
+D1
+~
+~
+0 0 12012
+D2
+~
+~
+0 0 12016
+D3
+~
+~
+0 0 5616
+S
+#12012
+West of the Enormous Dune~
+   East of you is an enormous sand dune that is easily tall enough to protect
+against daylight sun and nighttime winds. North and south of you stand huge
+marble sphinxes. Oddly, they appear to be watching you.
+~
+120 0 10
+D0
+~
+~
+0 0 12007
+D1
+~
+~
+0 0 12013
+D2
+~
+~
+0 0 12017
+D3
+~
+~
+0 0 12011
+S
+#12013
+On Top of a Sand Dune~
+   You sink ankle-deep into the top of the dune, as you peer around at the
+bleak desert before you. Mountains loom far to the north and west, and the   
+black desert spreads out as far you can see to the southeast. Just below, you
+notice a patch of oddly-colored sand.
+~
+120 0 10
+D0
+~
+~
+0 0 12008
+D1
+~
+~
+0 0 12014
+D2
+~
+~
+0 0 12018
+D3
+~
+~
+0 0 12012
+D5
+~
+tomb~
+2 12004 12026
+E
+tomb~
+0~
+
+Inscribed upon the entrance, you translate:
+
+       To the stars, great one!
+     Live forever among the stars,
+       And shine your light down
+        upon our unworthy faces.
+              To the stars!
+
+~
+E
+sand~
+0~
+Brushing away the sand reveals the entrance to a great tomb.
+~
+S
+#12014
+East Of The Enormous Dune~
+   West of you is an enormous sand dune that is easily tall enough to protect
+against daylight sun and nighttime winds. North and south of you stand huge
+marble sphinxes. Oddly, they appear to be watching you.
+~
+120 0 10
+D0
+~
+~
+0 0 12009
+D1
+~
+~
+0 0 12015
+D2
+~
+~
+0 0 12019
+D3
+~
+~
+0 0 12013
+S
+#12015
+Black Sand Desert~
+   The large dune to the west is flanked on the north and south by large
+statues.
+~
+120 0 10
+D0
+~
+~
+0 0 12010
+D1
+~
+~
+0 0 5620
+D2
+~
+~
+0 0 12020
+D3
+~
+~
+0 0 12014
+E
+statues~
+0~
+They are huge, and seem to be made of marble.  They are fashioned in
+an image of a lion with a man's head.
+~
+S
+#12016
+Black Sand Desert~
+   Directly east of you, a gigantic marble sphinx sits watching the desert.
+Northeast of you is a massive dune of black sand, just one of many that rise in
+the desert.
+~
+120 0 10
+D0
+~
+~
+0 0 12011
+D1
+~
+~
+0 0 12017
+D2
+~
+~
+0 0 12021
+D3
+~
+~
+0 0 5629
+S
+#12017
+Before the Sphinx~
+   Perhaps the only shade for miles is here, beside the base of stone upon
+which rests an enormous figure. A massive dune towers to the northeast, and
+other marble figures can be seen to the north and east.
+~
+120 0 10
+D0
+~
+~
+0 0 12012
+D1
+~
+~
+0 0 12018
+D2
+~
+~
+0 0 12022
+D3
+~
+~
+0 0 12016
+S
+#12018
+South of the Enormous Dune~
+   North of you is an enormous sand dune, almost tall enough to block out the
+nighttime winds, and blot out the daytime sun. East and west of here stand two
+enormous marble sphinxes.
+~
+120 0 10
+D0
+~
+~
+0 0 12013
+D1
+~
+~
+0 0 12019
+D2
+~
+~
+0 0 12023
+D3
+~
+~
+0 0 12017
+S
+#12019
+Before the Sphinx~
+   Perhaps what would be the only shade from the daytime sun for miles lies
+here, upon the base of stone that rises well above you. A dark statue rises  
+into the desert sky. A massive dune towers to the northwest, while other
+marble figures can be seen to the north and west.
+~
+120 0 10
+D0
+~
+~
+0 0 12014
+D1
+~
+~
+0 0 12020
+D2
+~
+~
+0 0 12024
+D3
+~
+~
+0 0 12018
+S
+#12020
+Black Sand Desert~
+   West of here, a stone sphinx rests on a marble base, stories tall. Just 
+northwest of it, a black sand dune touches the sky.
+~
+120 0 10
+D0
+~
+~
+0 0 12015
+D1
+~
+~
+0 0 5633
+D2
+~
+~
+0 0 12025
+D3
+~
+~
+0 0 12019
+S
+#12021
+Black Sand Desert~
+   A massive statue on a marble base towers above you to the northeast. Only
+slightly larger is the black dune of sand which rises behind the statue.
+~
+120 0 10
+D0
+~
+~
+0 0 12016
+D1
+~
+~
+0 0 12022
+D2
+~
+~
+0 0 5645
+D3
+~
+~
+0 0 5629
+S
+#12022
+Black Sand Desert~
+   A dark unmoving shape to the north is dwarfed only slightly by the dune that
+blocks your view to the northeast. The wind-tossed sands beat into you like
+fiery hailstones.
+~
+120 0 10
+D0
+~
+~
+0 0 12017
+D1
+~
+~
+0 0 12023
+D2
+~
+~
+0 0 5645
+D3
+~
+~
+0 0 12021
+S
+#12023
+Black Sand Desert~
+   Your mouth is so dry it seems to crumble. Looking northward, you see a
+rather large dune rise against the horizon. Elsewhere, you see only sand.
+~
+120 0 10
+D0
+~
+~
+0 0 12018
+D1
+~
+~
+0 0 12024
+D2
+~
+~
+0 0 5646
+D3
+~
+~
+0 0 12022
+S
+#12024
+Black Sand Desert~
+   A dark, unmoving shape to the north is dwarfed only slightly by the dune to
+the northwest. Blowing sands beat down on you like a seraing rain.
+~
+120 0 10
+D0
+~
+~
+0 0 12019
+D1
+~
+~
+0 0 12025
+D2
+~
+~
+0 0 5647
+D3
+~
+~
+0 0 12023
+S
+#12025
+Black Sand Desert~
+   A large dune rises behind the unmoving statue to the northwest. Everywhere
+else, the desert sucks the life out of its residents.
+~
+120 0 10
+D0
+~
+~
+0 0 12020
+D1
+~
+~
+0 0 5633
+D2
+~
+~
+0 0 5647
+D3
+~
+~
+0 0 12024
+S
+#12026
+Inside the Tomb~
+   Sand filters in from above, threatening to fill the shaft. The smell of
+decay makes your stomach churn, and light from the opening above you seems to
+dissolve as it reaches the ground. You think you hear something stirring in the
+enormous cavern to the south.
+~
+120 acd 0
+D2
+~
+~
+0 0 12027
+D4
+~
+tomb~
+2 12004 12013
+S
+#12027
+Inside the Tomb~
+   Even with a light source, the darkness here is barely pierced. The stench of
+death is overwhelming. You hear something rustle in the darkness to the south,
+and you catch yourself glancing longingly at the entrance shaft to the north.
+~
+120 ad 0
+D0
+~
+~
+0 0 12026
+D1
+~
+~
+0 0 12028
+D2
+~
+~
+0 0 12029
+D3
+~
+~
+0 0 12037
+S
+#12028
+In the Tomb~
+   Walls surround you north and east, and a pillar of granite blocks your way
+to the south. Something seems to be moving on the other side of the pillar, but
+you cannot be sure if its not just your imagination.
+~
+120 ad 0
+D3
+~
+~
+0 0 12027
+S
+#12029
+Between Two Pillars~
+   The light from the entrance to the north is barely a flicker, and the
+darkness to the south, complete. You get a strong feeling that you are being
+watched from behind the pillars on either side of you.
+~
+120 ad 0
+D0
+~
+~
+0 0 12027
+D2
+~
+~
+0 0 12031
+S
+#12030
+Behind the Drape~
+   The decapitated corpses of the dead are strewn haphazardly about the room,
+and a wall of gleaming skulls seems to peer intently at you. You sense an old,
+powerful presence here, and feel certain that it has sensed you. The only exit
+is to the east.
+~
+120 ad 0
+D1
+~
+drape~
+1 0 12031
+S
+#12031
+Inside the Tomb~
+   A gold drape to your west covers a doorway, and crumbles at your touch. You
+can barely squeeze between two pillars to the east, and the tomb seems to open
+up to the south.
+~
+120 ad 0
+D0
+~
+~
+0 0 12029
+D1
+~
+~
+0 0 12032
+D2
+~
+~
+0 0 12033
+D3
+~
+drape~
+1 0 12030
+S
+#12032
+Behind the Pillar~
+   In the corner lays an emaciated body, obviously at least part of the source
+of the tremendous odor in this tomb. Judging from the smell, and new, bloated
+appearance, the corpse couldn't be more than a few days old. The cause of death
+seems to have been starvation. But what could have made a man choose certain
+excruciating death by starvation over the chance of survival in the open
+desert?
+~
+120 acd 0
+D3
+~
+~
+0 0 12031
+E
+corpse~
+0~
+It's a very dead male human corpse.
+~
+S
+#12033
+In the Tomb~
+   You wonder if you haven't gotten disoriented in the vast darkness. The
+southern wall of the tomb suddenly appears before you, and a pillar blocks
+your way west. To the east, darkness reigns supreme.
+~
+120 ad 0
+D0
+~
+~
+0 0 12031
+D1
+~
+~
+0 0 12034
+S
+#12034
+Before the Heathen Altar~
+   A black altar inscribed with pagan runes drips fresh blood steadily onto
+the rough-hewn floor. Waves of evil emanate from behind the altar to the south.
+~
+120 ad 0
+D2
+Something senses your movements, and stirs from behind the altar.
+~
+~
+0 0 12035
+D3
+~
+~
+0 0 12033
+S
+#12035
+Behind the Heathen Altar~
+   Blood and gore cover the walls in this den of putrid evil. You wonder to
+yourself what has led you to proceed into this mausoleum, and the dark shape
+that seems to rise endlessly from the floor makes you wonder if this will be
+your final resting place.
+~
+120 ad 0
+D0
+~
+~
+0 0 12034
+D5
+~
+door~
+2 12000 12036
+S
+#12036
+The Nest~
+   This room housed some sort of nest for the creature above. Mangled
+bones, weapons, armor, and treasure are intermingled in a horrible matte
+of nauseating excrement.
+~
+120 acdh 0
+D4
+~
+door~
+2 12000 12035
+S
+#12037
+In The Tomb~
+   Walls surround you north and west, and a pillar of granite blocks your way
+to the south. Something seems to be moving on the other side of the pillar, but
+you cannot be sure if its not just your imagination.
+~
+120 ad 0
+D1
+~
+~
+0 0 12027
+S
+$~

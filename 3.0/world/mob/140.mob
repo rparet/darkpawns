@@ -1,0 +1,173 @@
+#14001
+man retired gatekeeper keeper~
+the arena gatekeeper~
+A retired, powerful-looking man controls the entry of new gladiators.
+~
+The man appears to be in his late fifties to mid sixties, and is probably a
+retired gladiator or warrior, judging by the various scars on his face, neck,
+and arms.  He has been given the position of gatekeeper: to make sure noone
+unauthorized enters the arena, and to register new challengers.  He looks
+friendly, but not like a man you'd want to mess with.
+~
+256010 0 0 0 144424 0 0 0 235 E
+34 -14 -24 34d5+12500 22d4+22
+225 270000
+8 8 1
+BareHandAttack: 9
+Race: 30
+E
+#14002
+small snake~
+a small snake~
+A small snake slivers along the ground towards you.
+~
+The snake is about one foot in length, and looks pretty harmless.
+~
+40 0 0 0 0 0 0 0 -1000 E
+4 16 6 4d5+50 2d4+2
+0 600
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#14003
+mob unfinished~
+a small black rabbit~
+A small rabbit with black fur hops around innocently...then jumps at you!
+~
+The rabbit looks so cute with snuggly fur, but then bears its teeth.
+~
+40 0 0 0 0 0 0 0 -750 E
+3 17 7 3d5+40 1d4+1
+0 350
+8 8 0
+BareHandAttack: 4
+Race: 22
+E
+#14004
+rattlesnake snake striped~
+a rattlesnake~
+A striped snake rattles its tail in warning.
+~
+The snake looks like its been in combat before...and won.
+~
+40 0 0 0 0 0 0 0 -1000 E
+8 12 2 8d5+90 4d4+4
+0 3500
+8 8 0
+BareHandAttack: 1
+Race: 13
+E
+#14005
+female hill giant tall dumb~
+a hill giant~
+A tall, but dumb looking female swings her club at you!
+~
+She stands about eight feet tall, and has a look of idiocy about her.
+~
+40 0 0 0 0 0 0 0 250 E
+8 12 2 8d5+90 4d4+4
+13 3500
+8 8 2
+BareHandAttack: 7
+Race: 18
+E
+#14006
+elven slave elf~
+an elven slave~
+An elf in shackles can barely walk, let alone fight.
+~
+He looks sad, like he doesn't really want to fight.  Someone must have put
+him here with force.
+~
+40 0 0 0 0 0 0 0 1000 E
+5 15 10 5d5+60 2d4+2
+2 900
+8 8 1
+Race: 1
+E
+#14007
+angry troll~
+an angry troll~
+An angry-looking troll looks at you as if you were a big juicy steak.
+~
+The troll has green scaly skin and is about seven feet tall.
+~
+40 0 0 0 1024 0 0 0 -1000 E
+9 11 1 9d5+100 4d4+4
+23 4500
+8 8 0
+BareHandAttack: 8
+Race: 6
+E
+#14008
+mountain lion~
+a mountain lion~
+A hungry mountain lion leaps toward your neck!
+~
+The lion is rather large, definitely an adult.  It looks starved.
+~
+40 0 0 0 1024 0 0 0 -500 E
+9 11 1 9d6+145 4d2+4
+0 4500
+8 8 2
+BareHandAttack: 4
+Race: 22
+E
+#14009
+man charioteer chariot~
+a charioteer~
+A man riding a chariot tramples you with his horses!
+~
+The man would be very hard to hit, up there.
+~
+8 0 0 0 0 0 0 0 0 E
+7 20 -2 7d5+55 3d4+3
+45 2500
+8 8 1
+BareHandAttack: 6
+Race: 0
+E
+#14010
+small orc~
+a small orc~
+A small orc swings a rusty scimitar at your head!
+~
+The orc is about three feet tall, and looks both angry and confused.
+~
+40 0 0 0 0 0 0 0 -1000 E
+4 16 6 4d5+50 2d4+2
+8 600
+8 8 1
+BareHandAttack: 3
+Race: 22
+E
+#14011
+large orc~
+a large orc~
+A tall orc looks at you, laughs, and takes a cheap shot at your chest!
+~
+The orc is over five feet tall and looks like it has been in battle before.
+~
+40 0 0 0 0 0 0 0 -1000 E
+7 13 3 7d5+80 3d4+3
+45 2500
+8 8 1
+BareHandAttack: 14
+Race: 22
+E
+#14012
+brutus gladiator~
+the gladiator Brutus~
+A tall, muscular gladiator grins evilly and approaches.
+~
+Brutus looks very strong, and he has obviously fought here before.
+~
+40 0 0 0 0 0 0 0 -500 E
+10 10 0 10d5+110 5d4+5
+95 6000
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+$

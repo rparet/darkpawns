@@ -1,0 +1,264 @@
+#1300
+churka venomous fish carve_meat~
+a venomous churka~
+A ferocious-looking fish swims toward you.
+~
+The churka has extremely sharp teeth, and its mouth is full of them. While not
+overly large, it tends to hunt in packs, which allows it to combat far larger
+prey. It excretes a venom into its victim that slowly poisons it, should it
+escape.
+~
+deflnpqrs dfksK 300 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 10
+Race: 18
+Script: snake.lua 256
+E
+#1301
+rock golem~
+a rock golem~
+The ground shakes as a huge rock golem walks by.
+~
+These creatures have been given life by the greatest of magicks and, as such,
+serve their masters until their destruction. Composed completely of rock, they
+possess massive strength.
+~
+delnpqr m 600 E
+80 154 80d8+2146 7d7
+50 35777
+8 8 0
+BareHandAttack: 7
+Race: 25
+E
+#1302
+aeolian essence strange shape~
+an aeolian essence~
+A strange shape moves silently on unseen air currents.
+~
+Nothing more than a collection of particles, the essence has been given the
+gift of sentience, and serves its master with complete devotion.
+~
+delnpqr dfst 500 E
+65 121 65d8+1572 6d6
+0 26202
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#1303
+magma beast~
+a magma beast~
+A large magma beast lumbers past you.
+~
+This beast has been 'constructed' of molten lava, and moves with heavy steps.
+Given its nature, the magma beast is able to regenerate quickly, making it
+quite difficult to kill.
+~
+dnpr h 300 E
+65 121 65d8+1572 6d6
+20 26202
+8 8 0
+BareHandAttack: 7
+Race: 25
+E
+#1304
+lurker creature carve_meat~
+a lurker~
+A strange creature brushes against your leg.
+~
+Preferring to swim beyond your sight, you're not exactly sure what the lurker
+is. It obviously intends you no harm as it passes by, but provoking something
+you can't see may not be wise.
+~
+demnpq fgms 800 E
+65 121 65d8+1572 6d6
+0 26202
+8 8 0
+BareHandAttack: 10
+Race: 18
+Noise: You are tossed around in the turbulent water.
+E
+#1305
+khelereth earth elemental~
+Khelereth, the earth elemental~
+An earth elemental materialises before you.
+~
+Khelereth is an elemental of the earth - it can disappear and reappear at
+will, and can take on the form of any earth-bound creature. Within the earthly
+plane, however, Khelereth exists in its natural form, and is quite annoyed at
+your intrusion.
+~
+bdeflnqx dfh 1000 E
+100 199 100d8+3000 9d9
+100 50000
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: cleric.lua 256
+E
+#1306
+geshrak air elemental~
+Geshrak, the air elemental~
+An air elemental tries to knock you off your feet.
+~
+Geshrak is everywhere, making it a difficult opponent. It has the ability to
+disperse and reform anywhere it chooses, but within the aerial plane such
+powers are weaker, making him slightly more vulnerable to attack.
+~
+bdeflnq bfh -1000 E
+100 199 100d8+3000 9d9
+100 50000
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#1307
+aspra fire elemental~
+Aspra, the fire elemental~
+In an explosion of flame, a fire elemental engulfs you.
+~
+With intense magickal powers, the fire elemental is able to sustain itself
+without the need of a fuel source. It can assume any shape or form, but still
+retains its flames.
+~
+bdeflnqx dfE 1000 E
+100 199 100d8+3000 9d9
+100 50000
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: magic_user.lua 256
+E
+#1308
+shadrac water elemental~
+Shadrac, the water elemental~
+Arising from the water depths, a water elemental crashes down upon you.
+~
+A magickal construct of water, the elemental is extremely difficult to hit
+and destroy using conventional means. In this environment, it simply crashes
+down upon you and reforms without damage to itself.
+~
+bdenpqrt dfgp -1000 E
+100 199 100d8+3000 9d9
+100 50000
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#1309
+ratnaraj crystalline entity~
+a ratnaraj~
+A small, crystalline entity floats nearby.
+~
+It closely resembles an uncut gem, and you would almost assume it was, except
+for the fact that it glows softly, and seems to have a mind of its own. The
+creature looks very quick and agile.
+~
+delmnpqr mA 500 E
+60 110 60d8+1394 6d6
+30 23237
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#1310
+mistral something~
+a mistral~
+Something swirls around your body.
+~
+You're not exactly sure what it is, since you can't see it. You only feel its
+presence.
+~
+dehnpqr pstA 1000 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+BareHandAttack: 12
+Race: 15
+Noise: The wind blows softly across your face.
+E
+#1311
+fire sprite impish creature~
+a fire sprite~
+An impish little creature dances around you.
+~
+The sprite looks like a ball of flame, dancing around with sheer pleasure only
+it knows. You glance into its eye and there is a definate twinkle... perhaps
+it is up to some kind of mischief.
+~
+cdhmnpq fA -200 E
+60 110 60d8+1394 6d6
+10 23237
+8 8 0
+BareHandAttack: 12
+Race: 15
+Noise: The surrounding lava bubbles away quietly.
+E
+#1312
+ophidiotaur creature~
+the Ophidiotaur~
+A dangerous-looking creature scuttles towards you.
+~
+You're not sure what it is, exactly, but it has a dangerous-looking set of
+fangs and a tail with a sharp series of spikes. It crawls along on six legs,
+and a forked tongue flicks out occassionally from a gaping mouth.
+~
+dfln df -500 E
+72 136 72d8+1832 6d7
+50 30547
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#1313
+elemental minion servant~
+an elemental minion~
+A servant to the elements awaits a command from his master.
+~
+The minion has little to no intelligence of his own, only a strict desire to
+obey his master. He will do whatever is necessarily to accomplish that, and is
+even willing to sacrifice his own life.
+~
+cdhlmpr 0 -300 E
+54 98 54d8+1190 5d6
+30 19840
+8 8 1
+Script: minion.lua 64
+E
+#1314
+guardian spirit~
+a guardian spirit~
+A guardian spirit chants softly in odd tones.
+~
+The spirit has been summoned to this place in an effort to keep adventurers
+such as yourself out! It is quite devoted to fulfilling this role so that
+it may return to its etherial slumber.
+~
+delmnpq dfhps 1000 E
+78 149 78d8+2066 6d7
+0 34443
+8 8 2
+Race: 32
+Noise: A soothing chant floats softly through the chamber.
+Script: guardian.lua 128
+E
+#1315
+galeru master elements rainbow snake~
+Galeru, the Master of the Elements~
+A giant rainbow snake coils itself around you.
+~
+Galeru is a symbol for the maintenance of life, the master of elements from
+which all things in this world were formed. You have intruded upon its abode,
+and it doesn't look happy.
+~
+bdeflnpqx dfhkt 1000 E
+100 199 100d8+3000 9d9
+100 50000
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: magic_user.lua 256
+E
+$

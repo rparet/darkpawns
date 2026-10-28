@@ -1,0 +1,607 @@
+#3600
+A Lagoon~
+   The opening in the crags to the east has allowed the formation of this
+small, shallow lagoon. Like liquid within a bowl, the crags lagoon the water
+in all directions, leaving the waters fairly calm, aside from a few humps
+that roll across the waters from waves that manage to break through the small
+opening to the east.
+~
+36 0 6
+D1
+~
+~
+0 0 42729
+D2
+~
+~
+0 0 3601
+D3
+~
+~
+0 0 3603
+S
+#3601
+A Lagoon~
+   South of here are towering jagged cliffs that lean out over the lagoon,
+casting a shadow over the waters. Small swells ripple through the opening 
+to the east, though the water remains calm enough to traverse comfortably. 
+When compared to the ocean, the lagoon is clear and relatively shallow,
+making a wonderful habitat for exotic fish.
+~
+36 0 6
+D0
+~
+~
+0 0 3600
+D1
+~
+~
+0 0 42799
+D3
+~
+~
+0 0 3602
+S
+#3602
+A Lagoon~
+   The water feels like a warm-springs due to the tropical climate, and 
+because of the encompassing crags, the water remains calm and clear, 
+allowing you to see through the surface. Purple sea-cucumbers and wispy 
+urchins clad the lagoon's floor. West of here is a sandy inlet that 
+extends out from the base of the craggs to the north and south.
+~
+36 0 6
+D0
+~
+~
+0 0 3603
+D1
+~
+~
+0 0 3601
+D3
+~
+~
+0 0 3606
+S
+#3603
+A Lagoon~
+   There's an abundance of beautiful fish, including harmless sand-sharks,
+that glide about within the clear lagoon. You see a thin, white fish with
+yellow bands and silky threaded fins dart underneath some rocks on the
+lagoon's floor as you pass. To the west is a black-sand beach that stretches
+across to each crags' base.
+~
+36 0 6
+D1
+~
+~
+0 0 3600
+D2
+~
+~
+0 0 3602
+D3
+~
+~
+0 0 3604
+S
+#3604
+A Sandy Shore~
+   In the distance to your north and south, you see towering black cliffs that
+form a small lagoon to the east. The cliffs provide shelter from the raging
+waters, and have allowed the formation of this sandy inlet. Pale water surges
+onto the shore after each breaking wave, leaving white film behind at the
+contour of its reach. The sand is opaque, which in turn absorbs the heat from
+the sun, making your feet noticeably warmer. To your west is a thick, topical
+jungle.
+~
+36 0 2
+D0
+~
+~
+0 0 3605
+D1
+~
+~
+0 0 3603
+D2
+~
+~
+0 0 3606
+D3
+~
+~
+0 0 3609
+S
+#3605
+A Sandy Shore~
+   Black cliffs rise out of the sand to the north, and curve out to the east
+like a demon's horn. The tide swells inland, then quickly rolls back into the
+small lagoon to the east. A tropical jungle outlines the beach to your west
+that, upon further notice, appears to have been trimmed somewhat. Slash marks
+cover the palms, and whole bushels of various plant life have been mutilated,
+allowing a crude passage.
+~
+36 0 2
+D2
+~
+~
+0 0 3604
+D3
+~
+~
+0 0 3608
+S
+#3606
+A Sandy Shore~
+   To your east, a calm lagoon has been formed by the island's cradling rock
+formation, and outstretched at the shore of the lagoon is a small black-sand
+beach. West of here, outlining the beach, is a thick tropical jungle. Glancing
+further west, you can see the cliffs circle around the fringes of the jungle
+in the form of a circle. From this observation, you realize that the only way
+into the heart of the isle is through the small opening into the lagoon.
+~
+36 0 2
+D0
+~
+~
+0 0 3604
+D1
+~
+~
+0 0 3602
+D2
+~
+~
+0 0 3607
+D3
+~
+~
+0 0 3610
+S
+#3607
+A Sandy Shore~
+   Dark cliffs hang over the cove to the south and curl to the east, forming
+a small lagoon. The cliffs prevent any significant ocean activity, allowed the
+formation of this small, sandy inlet. After walking about for a bit, you
+notice your footprints on the sand's surface, and while doing so become aware
+of others - others that, when observed closely, look to be fresly made.
+However, these prints are not your own. The prints recede into a lush jungle
+to your west.
+~
+36 0 2
+D0
+~
+~
+0 0 3606
+D3
+~
+~
+0 0 3611
+S
+#3608
+A Lush Jungle~
+   If it were not for the pre-clearing of paths through the jungle, moving 
+about would be impossible due to the thickness of the plant life. Narrow 
+trails lead off to the west and south, and to the north the isle's crags 
+rise high above the tropical trees.
+~
+36 0 3
+D1
+~
+~
+0 0 3605
+D2
+~
+~
+0 0 3609
+D3
+~
+~
+0 0 3613
+S
+#3609
+A Lush Jungle~
+   Ferns, palms, sugar cane, guava trees, and hundreds of other exotic plant
+life imbue the entire area. However, every so often you notice some sort of
+deformity in the foliage, as if caused by a clash between unknown forces,
+tearing at each other and, in turn, destroying the environment.
+~
+36 0 3
+D0
+~
+~
+0 0 3608
+D1
+~
+~
+0 0 3604
+D2
+~
+~
+0 0 3610
+D3
+~
+~
+0 0 3614
+S
+#3610
+A Lush Jungle~
+   Constant chirping from strange birds and tree-animals almost drowns out
+the hacking noise in the distance: a steady, repetitive chopping, much like
+the noise one makes when clearing a path in the forest. Bamboo shoots are
+scattered about here, and a delicate mango tree has sprouted up within the
+center of the area.
+~
+36 0 3
+D0
+~
+~
+0 0 3609
+D1
+~
+~
+0 0 3606
+D2
+~
+~
+0 0 3611
+D3
+~
+~
+0 0 3615
+S
+#3611
+A Lush Jungle~
+   South of here, the cliffs curve around and continue back into the jungle.
+You can hear the lapping of the lagoon's waters to the east, and also a faint
+hacking noise in the distance to your west. The humidity here makes breathing 
+difficult, and holding onto your weapon becomes increasingly challenging given
+your damp grip.
+~
+36 0 3
+D0
+~
+~
+0 0 3610
+D1
+~
+~
+0 0 3607
+D3
+~
+~
+0 0 3616
+S
+#3612
+A Lush Jungle~
+   The craggs block passage to the north and east, and continue to stretch
+out to your west. A strange symbol has been carved into the wall of the north
+cragg that seems to be placed as a territorial mark, indicating the perceived
+ownership of the isle. Clearings have been made to your west and south.
+~
+36 0 3
+D2
+~
+~
+0 0 3613
+D3
+~
+~
+0 0 3618
+S
+#3613
+A Lush Jungle~
+   A large tropical tree juts out of the earth here, and covering its trunk
+are thousands of intertwined roots that twist about the trunk. You see monkeys
+springing from one branch to the next above you, and to the north a bit is a
+patch of rubber trees and bamboo.
+~
+36 0 3
+D0
+~
+~
+0 0 3612
+D1
+~
+~
+0 0 3608
+D2
+~
+~
+0 0 3614
+D3
+~
+~
+0 0 3619
+S
+#3614
+A Lush Jungle~
+   On the ground are a few empty coconut shells that have been crudely bashed
+open. A patch of sugar cane has been partially chopped down behind you, as
+well, leaving the ground skattered with chunks of cane and leaves. The sound
+of birds chirping fills the air, and all you can see is jungle in every
+direction.
+~
+36 0 3
+D0
+~
+~
+0 0 3613
+D1
+~
+~
+0 0 3609
+D2
+~
+~
+0 0 3615
+D3
+~
+~
+0 0 3620
+S
+#3615
+A Lush Jungle~
+   A boar's hide has been strung up on a tree here to dry, along with some
+kelp. To the east, you can make out a small clearing, and thin paths are torn 
+through the jungle in every other direction. A few ant beds rise up from the
+ground, and you realize that you've been treading over a bed of ants the
+entire time!
+~
+36 0 3
+D0
+~
+~
+0 0 3614
+D1
+~
+~
+0 0 3610
+D2
+~
+~
+0 0 3616
+D3
+~
+~
+0 0 3621
+S
+#3616
+A Lush Jungle~
+   You notice a large, unset snare resting in the center of the trail here.
+You admire the craftmenship of the snare until, after looking up, you realize
+its full intention: the snare is designed to fling an animal - or human - into
+a bed of sharpened stakes that are fastened to a tree above your head.
+~
+36 0 3
+D0
+~
+~
+0 0 3615
+D1
+~
+~
+0 0 3611
+D2
+~
+~
+0 0 3617
+D3
+~
+~
+0 0 3622
+S
+#3617
+A Lush Jungle~
+   Black cliffs rise up to the south, and are angled such that they jut out
+over the jungle a bit, casting shadows along its base. A strange symbol has
+been carved on the cliff's wall to the south that may be some sort of
+territorial marking.
+~
+36 0 3
+D0
+~
+~
+0 0 3616
+D3
+~
+~
+0 0 3623
+S
+#3618
+Dense Jungle~
+   Various fruit trees hang low enough for one to pluck the offerings without
+stretching. Ferns and moss-covered rocks blanket the ground, making everything
+seem as if it were painted with a dark green. The island's craggs rise up to
+the north and curve around to the west, allowing passage to the east and
+south.
+~
+36 0 3
+D1
+~
+~
+0 0 3612
+D2
+~
+~
+0 0 3619
+S
+#3619
+Dense Jungle~
+   Hundreds of birds inhabit the tree here, making you cringe from the sound
+of their constant chatter. Small felines scatter upon sensing your presence,
+as if conditioned to be hypersensitive to potential danger. The trails taper
+off here, making passage difficult, though you manage to cut yourself a path
+wherever you please, except to the west, where a large boulder blocks your
+way.
+~
+36 0 3
+D0
+~
+~
+0 0 3618
+D1
+~
+~
+0 0 3613
+D2
+~
+~
+0 0 3620
+D3
+~
+~
+0 0 3624
+S
+#3620
+A Jungle Clearing~
+   Fastened between two palms is a bench, and a braided rope made from kelp
+has been strung across further up the palms to hold bags of food off of the
+ground and out of reach of animals. A fire pit has been constructed from large
+shards of black rock. Palm leaves rest upon wooden beams that are secured on
+various trees, forming sturdy roofing designed to keep the area dry during the
+rains.
+~
+36 0 3
+D0
+~
+~
+0 0 3619
+D1
+~
+~
+0 0 3614
+D2
+~
+~
+0 0 3621
+D3
+~
+~
+0 0 3625
+S
+#3621
+Dense Jungle~
+   A faint buzzing noise comes from the south, and narrow trails have been
+carved into the jungle in almost every direction. You can see the sky for the
+first time here, through a small opening in the tropical trees. Arrrgh! The
+mosquitoes are driving you mad! You decide to move on, before they eat you
+alive!
+~
+36 0 3
+D0
+~
+~
+0 0 3620
+D1
+~
+~
+0 0 3615
+D2
+~
+~
+0 0 3622
+D3
+~
+~
+0 0 3626
+S
+#3622
+Dense Jungle~
+   A bright, multicolored bird rests at the base of a trunk here that quickly
+flutters away when you get too close. A wasp hive has been plastered to the
+base of a palm here, and swarms of wasps buzz in and out of the hive, paying
+no attention to your presence. 
+~
+36 0 3
+D0
+~
+~
+0 0 3621
+D1
+~
+~
+0 0 3616
+D2
+~
+~
+0 0 3623
+S
+#3623
+Dense Jungle~
+   Cliffs continue to encircle the jungle, halting passage to the south. The
+surrounding jungle seems to be left undisturbed compared to the rest of the
+island, making you feel more alone and at ease. Somewhere to the northeast,
+you hear a cacophony of birds chattering and chirping.
+~
+36 0 3
+D0
+~
+~
+0 0 3622
+D1
+~
+~
+0 0 3617
+S
+#3624
+Dense Jungle~
+   Aside from the irritating bugs and mosquitoes, the pepetual high-
+pitched noises, the stifling heat and dreary moisture, this jungle 
+is rather pleasant . . . right? The isle's craggs block passage to 
+the north and west.
+~
+36 0 3
+D1
+~
+~
+0 0 3619
+D2
+~
+~
+0 0 3625
+S
+#3625
+Dense Jungle~
+   You marvel at the intricate designs of nature as you pause for a 
+moment to take in the surroundings. Thousands of intertwined roots  
+twist about the trunk of a large, willowy tree and small plants have 
+pushed their way through a bed of rocks. Your path is blocked by the
+dark craggs to the west, though you can walk along its base to the
+north and south.
+~
+36 0 3
+D0
+~
+~
+0 0 3624
+D1
+~
+~
+0 0 3620
+D2
+~
+~
+0 0 3626
+S
+#3626
+Dense Jungle~
+   A marking has been carved into a tree here along with what appears 
+to be slash marks from some sort of weapon. It seems as though whoever
+lives within these jungles wants to make it clear that visitors are not
+welcome. Black craggs spire upwards to the west and south, forming a 
+wall that impedes passage.
+~
+36 0 3
+D0
+~
+~
+0 0 3625
+D1
+~
+~
+0 0 3621
+S
+$~

@@ -1,0 +1,147 @@
+#5800
+warden boundary~
+a boundary warden~
+A boundary warden stands here on constant vigil.
+~
+   This man knows how to kill, that is obvious at first glance.  He is
+covered in weapons, although he doesn't look like he would need them.  In
+fact, it looks like he uses his bare hands most of the time.
+~
+6208 0 0 0 262152 0 0 0 1000 S
+12 9 2 1d12+250 12d4+6
+100 6500
+8 8 1 
+#5801
+zedd wizard mage~
+Zedd, wizard of the First Order~
+Zedd stands here adorned in plain robes.
+~
+   This is the one of the most powerful wizards in the land.  He is eating
+his stew and looks no more concerned of your presence than he would be of a
+fly. His robes are very plain and he wears a stone around his neck.
+~
+2050 0 0 0 67109000 0 0 0 1000 S
+30 0 -11 1d12+840 4d30+45
+500 30000
+6 6 1 
+#5802
+heart hound dog~
+a heart hound~
+A heart hound rushes at you, aimed for your heart!
+~
+   This hound looks really nasty and has large teeth and claws.  It goes
+directly for the heart.
+~
+4192 0 0 0 1064 0 0 0 0 S
+12 9 2 1d12+240 12d4+1
+0 6500
+8 8 0 
+#5803
+wraith shadow~
+a shadowy wraith~
+A shadowy wraith appears from the mist and attacks!
+~
+   It looks like night itself and is coming for you!
+~
+4192 0 0 0 1064 0 0 0 0 S
+13 9 2 1d12+310 2d26+13
+0 7500
+8 8 0 
+#5804
+woman witch shota~
+Shota the witch woman~
+Shota the witch woman glares at you icily.
+~
+   She is one of the most beautiful creatures you have ever seen in all
+your travels.  She is so beautiful, you don't know if you could ever
+even attempt to bring her harm. She doesn't look as nasty and evil as
+the rumors say she is supposed to be.
+~
+2210 0 0 0 1032 0 0 0 -1000 S
+22 0 -1 1d12+540 11d8+14
+100 10000
+8 8 2 
+#5805
+gar long long-tailed~
+a long-tailed gar~
+A long-tailed gar charges at you intent on killing you!
+~
+   It has a long tail, two big arms and two large wings.  It also has teeth
+and claws to match.
+~
+4196 0 0 0 67372032 0 0 0 -1000 S
+15 6 1 1d12+350 7d8+12
+0 7000
+8 8 0 
+#5806
+scarlet crimson dragon~
+Scarlet, the crimson dragon~
+A huge crimson dragon is here protecting her egg.
+~
+   Scarlet is a dragon of a crimson tone.  She is a very majestic and
+beautiful creature that is fiercely protective of her egg.
+~
+38 0 0 0 67110024 0 0 0 0 S
+25 0 -4 1d12+660 4d26+34
+1000 15000
+8 8 2 
+#5807
+woman mud~
+a mud woman~
+A woman covered in mud is here.
+~
+   She is covered in mud from head to toe.  She is too busy with her
+tasks to pay you any mind.
+~
+4164 0 0 0 0 0 0 0 1000 S
+10 11 2 1d12+210 1d40+1
+10 5000
+8 8 2 
+#5808
+child kid mud~
+a mud child~
+A child covered in mud is playing here.
+~
+   It is covered in mud, just like the adults, and is busy playing.
+~
+4164 0 0 0 0 0 0 0 1000 S
+1 11 2 1d12+40 1d4+1
+0 100
+8 8 1 
+#5809
+man male mud~
+a mud man~
+A man covered in mud sharpens his spear here.
+~
+   He is covered in mud and looks very competent with that spear.
+~
+4164 0 0 0 262144 0 0 0 1000 S
+10 11 2 1d12+230 2d20+1
+10 5000
+8 8 1 
+#5810
+man male bird mud~
+The Bird Man~
+The wise Bird Man stands here covered in mud.
+~
+   He looks to be the ruler of these people.  He is old and wise but
+still looks capable of defending himself.
+~
+6150 0 0 0 128 0 0 0 1000 S
+15 6 1 1d12+390 7d8+10
+500 8800
+8 8 1 
+#5888
+Brophy keeper shopkeeper~
+Brophy the shopkeeper~
+Brophy the shopkeeper stands here selling his wares.
+~
+   He looks to be a fair and honest businessman.  His wares seem to be
+of high quality and at a fair price.
+~
+3 0 0 0 0 0 0 0 0 S
+33 0 -10 1d1+3000 33d8+90
+30000 150000
+8 8 1 
+#99999
+$~

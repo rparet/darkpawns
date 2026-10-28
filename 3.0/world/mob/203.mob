@@ -1,0 +1,226 @@
+#20301
+bakhna rakhna goblin creature~
+a bakhna rakhna~
+A small, white, goblin-like creature skulks around here.
+~
+He looks like a goblin, except he is pale white in color, and his ratty hair
+is a light shade of yellow. He has a flat face and sloping forehead, with a
+broad nose, and pointed ears. His wide mouth is filled with sharp fangs. He
+is short, but lanky, and his long arms hang to his knees.
+~
+cdghu fks 100 E
+27 44 27d8+420 3d5
+10 7014
+8 8 1
+Race: 20
+E
+#20302
+olab~
+an olab~
+A strange, reptilian olab stands here.
+~
+The olab is essentially reptilian, but with feathery crests and neck wattles.
+Its face is almost human. Its fore legs resemble the arms and hands of man,
+but its hind legs are incredibly long and stork-like. Balanced on those long
+legs, its body towers above you.
+~
+cdfglqu gk 0 E
+30 49 30d8+492 4d5
+3 8215
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#20303
+mist giant creature~
+the Mist Giant~
+A giant mist creature is here, waiting for its next victim.
+~
+It's white, like mist, yet somehow darker. Stretching high above your head, it
+is nearly eight feet tall, and almost as broad. Two eyes, the color of thin,
+yellow wine, are set high in the creature's body, though it has no distinct
+head. A mouthish slit filled with fangs lies just beneath the eyes. It has no
+nose or ears that you can see. Four appendages spring from its upper parts,
+and its lower body slithers along the ground, unsupported by any limbs.
+~
+defglnpqrsu bfghkp -999 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#20304
+dog dharzi hunting carve_meat~
+a Dharzi hunting dog~
+A hunting dog of the Dharzi is sniffing a tree here.
+~
+It first appears to be a dog, but this is no dog...it is half dog and half
+bird with a lean, shaggy body and legs but also possessing birdlike talons in
+place of paws and savagely curved beaks which snap where muzzles should be.
+These strange creatures have been domesticated by the Dharzi orcs, the only
+things the dogs won't attack. Unfortunately, you don't appear to be a Dharzi
+orc.
+~
+dfghlu dfkp -600 E
+21 33 21d8+288 3d5
+20 4811
+8 8 1
+BareHandAttack: 4
+Race: 11
+Noise: You hear a low growl nearby.
+E
+#20305
+orc~
+an orc~
+A pig-headed orc stands here, peering through the trees.
+~
+His hairy face is painted with crude war paint, and he looks like he's been
+trained for battle all his life.
+~
+cdfglu k -600 E
+48 85 48d8+997 5d5
+20 16627
+8 8 1
+Race: 28
+E
+#20306
+dark elf~
+a dark elf~
+A dark elf appears from behind one of the trees.
+~
+Like their close relatives, the dark elf is tall and thin and looks incredibly
+frail. However, there is a certain glint in its eye that leads you to
+believe there is more to it than its appearance.
+~
+defglnu dfkn -200 E
+48 85 48d8+997 5d5
+50 16627
+8 8 2
+Race: 1
+E
+#20307
+hob goblin impish sprite~
+a hobgoblin~
+An impish and mischievous sprite darts between the trees.
+~
+Small and ugly, the hobgoblin is well known for playing tricks on unsuspecting
+adventurers and within these woods, the trees provide excellent camouflage
+for him to achieve his goals.
+~
+dghu fk 200 E
+36 61 36d8+648 4d5
+10 10800
+8 8 1
+E
+#20308
+fiend red skinned horned beast~
+the fiend~
+A red-skinned, horned beast lunges at you.
+~
+The fiend is usually employed as a guardian and while its sinewy body looks
+weak and frail, a large group of them can inflict great damage.
+~
+dfgmu dfk -300 E
+15 22 15d8+174 3d4
+10 2904
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#20309
+bandit~
+a bandit~
+A bandit leaps from the shadows and comes for you.
+~
+Clothed in simple furs, the bandit makes excellent use of any cover he can
+find before striking an unsuspecting victim.
+~
+cdfgnux st -100 E
+36 61 36d8+648 4d5
+40 10800
+8 8 1
+Race: 2
+E
+#20310
+frond tri-flower stalk trumpet flower~
+a tri-flower frond~
+A stalk of beautiful flowers rises from the dense undergrowth.
+~
+The tall, deep green stalks of this plant are topped by many trumpet-shaped
+flowers of vivid orange, bright yellow, and intense red. Long, pollen-covered
+tendrils curl downward from the orange blossoms, wavering gently with the
+slightest breeze. The yellow blossom bends over in your direction, shaking
+down a heavy shower of its sticky enzyme. It looks very beautiful, but perhaps
+you'd best keep your distance.
+~
+bdenpqru dfhk -200 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 10
+Race: 36
+Script: triflower.lua 384
+E
+#20311
+ball pulsating mist pulsing~
+a pulsating ball of mist~
+A pulsing ball of mist floats towards you.
+~
+The ball is nothing more than a collection of swirling gases and it pulses
+softly as you look at it. Judging by the way it moves, you believe it might
+actually have some form of intelligence.
+~
+degnpqru dfkpA 600 E
+24 38 24d8+352 3d5
+0 5878
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#20501
+orc scout~
+an orc scout~
+An orc scout hides in some brush here.
+~
+He is a pig headed humanoid that looks about as intelligent as one of your
+boots.  Blood stained tusks jut out around his vile pink snout.
+~
+dfgu sx -400 E
+8 10 8d8+67 3d3
+5 1131
+8 8 1
+Race: 27
+Noise: Some leaves crunch behind you.
+E
+#20502
+orc ~
+an orc~
+A pig-headed orc stands here, peering through the trees.
+~
+His hairy face is painted with crude war paint, and he looks like he's been
+trained for battle all his life.
+~
+dfgu 0 -600 E
+9 12 9d8+81 3d3
+10 1350
+8 8 1
+Race: 27
+E
+#20503
+orc commander~
+an orc commander~
+A tall, well-muscled orc stands here.
+~
+His garb shows him to be of a commander's rank; you suppose this mean he has
+an intellegence greater than his orcish comrades, yet much less than your
+average humanoid.  He does appear strong however, and there is the look
+of blood lust and death in his eyes.
+~
+dfgsu 0 0 E
+10 14 10d8+94 3d4
+20 1581
+8 8 1
+Race: 27
+E
+$

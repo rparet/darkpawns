@@ -1,0 +1,446 @@
+#16100
+deva~
+a deva~
+A deva stands guard here.
+~
+  A winged human with golden skin and glowing golden eyes.  Your unsure if the
+deva is a devine creature or a magical construct, considering it's unsual
+appearance.  Then again, almost nothing in Elysium is exactly what one would
+expect.  Regardless, the deva looks like it means business.
+~
+194842 0 0 0 5292 0 0 0 950 E
+22 -2 -12 22d5+230 14d4+14
+250 30000
+8 8 1
+BareHandAttack: 11
+Race: 27
+E
+#16101
+naga~
+a naga~
+A naga slithers about here.
+~
+  The naga appears as a twenty foot long snake with green gold scales and
+a humanoid head.  Silver ridges line the spine of the naga, which shift in
+dizzying motion as the naga looks at you with strange, yet beautiful golden
+eyes.
+~
+4120 0 0 0 33848 0 0 0 100 E
+22 -2 -12 22d5+230 14d4+13
+60 30000
+8 8 0
+BareHandAttack: 2
+Race: 13
+E
+#16102
+faerie dragon~
+a faerie dragon~
+A faerie dragon flutters about here.
+~
+  What first appeared as a flying cat is upon closer inspection actually a
+tiny dragon.  The large, butterfly like wings of the faerie dragon keep it
+aloft as it grins at you in a most upsurd way while making all sorts of
+beeping and clicking sounds.
+~
+141464 0 0 0 5130 0 0 0 100 E
+20 0 -10 20d5+210 13d4+19
+50 25000
+8 8 0
+BareHandAttack: 1
+Race: 10
+E
+#16103
+phoenix~
+a phoenix~
+A phoenix stands here.
+~
+  With large violet, red, and orange colored wings spread out before you,
+the phoenix is truly a sight to behold.  Ruby colored eyes look at you
+nervously as the blue-violet beak and claws click together in apprehension.
+The phoenix's plumage gives it the illusion of being aflame.  Or is it 
+illusion?
+~
+253978 0 0 0 5160 0 0 0 1000 E
+29 -9 -19 29d5+391 19d4+13
+1 55000
+8 8 0
+BareHandAttack: 8
+Race: 24
+E
+#16104
+coatyl winged snake~
+a coatyl~
+A coatyl flies about here.
+~
+  Feathers cover the body of this snake, and end in a crop of tail feathers
+at the tail of the coatyl.  Wings jut from the back of the creature, granting
+it flight.  Aside from the serpent like appearance of this beast, it's eyes
+tell of a divine goodness belittling it's evil visage.
+~
+65560 0 0 0 1068 0 0 0 500 E
+20 0 -10 20d5+210 13d4+14
+150 25000
+8 8 0
+BareHandAttack: 4
+Race: 24
+E
+#16105
+cockatrice~
+a cockatrice~
+A cockatrice lightly steps about here.
+~
+  The cockatrice resembles a rooster with scales covering a large portion of
+it's body and large, reptillian wings sprouting from it's back.  The tail of
+the cockatrice is a long, snake-like tail which ends in a plume of feathers.
+
+~
+90264 0 0 0 0 0 0 0 150 E
+22 -2 -12 22d5+230 14d4+18
+1 30000
+8 8 0
+BareHandAttack: 8
+Race: 24
+E
+#16106
+ki-rin golden horse~
+a ki-rin~
+A golden horse floats in the air here.
+~
+  Light dances across the golden hair of this marvelous horse like creature.
+A long, flowing golden mane trails behind the ki-rin and whips about in the
+air like a great cape.  A single spiraling horn juts from the beast's forehead
+and seems to have an inner luminosity, much the same as the hooves that enable
+him to hover in the air. 
+
+~
+237592 0 0 0 37950 0 0 0 920 E
+27 -7 -17 27d5+345 18d4+13
+300 45000
+8 8 1
+Race: 12
+E
+#16107
+pixie~
+a pixie~
+A pixie flitters about here.
+~
+  A two and half foot tall elven creature flies about supported by insect
+like wings.  The strange grinning face gives you the impression this small
+fellow can be a trouble maker...
+
+~
+67720 0 0 0 26 0 0 0 130 E
+20 0 -10 20d5+210 13d4+16
+100 25000
+8 8 0
+BareHandAttack: 1
+Race: 28
+E
+#16108
+lammasu~
+a lammasu~
+A lammasu stands here.
+~
+  Standing before you is a large, winged feline with the head of a human male.
+The hair on the beast's head is long, unkept, and pointing out in all 
+directions, giving it's head the appearance of having a mane.
+~
+268314 0 0 0 394272 0 0 0 100 E
+25 -5 -15 25d5+299 16d4+20
+0 37500
+8 8 0
+BareHandAttack: 9
+Race: 22
+E
+#16109
+brass dragon arathorn~
+Arathorn~
+A brass dragon stands here.
+~
+  Small circle-shaped brass scales cover Arathorn, reflecting the light
+
+shining upon him, and giving him the appearance of being aflame.  A curved
+plate-like protrusion extends out of the base of Arathorn's skull, 
+complimented by the two, scaley whiskers jutting from his grinning lower
+jaw.  Twin, fan shaped fin-like wings protruding from his back, slowly flap
+in apprehension.
+~
+260378 0 0 0 5180 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+750 60000
+8 8 0
+BareHandAttack: 10
+Race: 10
+E
+#16110
+copper dragon dracmus~
+Dracmus~
+A copper dragon stomps about here.
+~
+    Large, odd-shaped copper plates cover the back of Dracmus's back, while
+his underbelly is lined with fine stone shaped copper plates.  Large, 
+fin-like wings protrude from his back, somewhat resembling a large sailfish.
+A single, curved horn juts from the back of his skull, and curves downward
+adding to the regal appearance of this majestic dragon.
+~
+225290 0 0 0 5180 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+700 60000
+8 8 0
+BareHandAttack: 6
+Race: 10
+E
+#16111
+gold dragon goldscale~
+Goldscale~
+A gold dragon glides through the air here.
+~
+   Slinking through the air with an unnatural ease and grace is Goldscale.
+Goldscale has no wings, yet flies as though his long serpentine body is held
+aloft by the very air itself.  Resembling a 54 foot long snake with legs,
+
+Goldscale is covered in beautiful golden scales, accentuated by hair-like
+golden scales lining his spine.  Large golden eyes look down upon you as if
+in judgement...
+~
+256026 0 0 0 4140 0 0 0 250 E
+31 -11 -21 31d5+997 20d4+22
+1500 90000
+8 8 0
+BareHandAttack: 10
+Race: 10
+E
+#16112
+platinum dragon bahamut~
+Bahamut~
+A platinum dragon stands in majesty here.
+~
+  Looming before you is the massive form of Bahamut, king of good dragons
+and the ruler of the Elysium Castle.  All manner of exotic creatures of good
+and neutral alignment pay homage to Bahamut, and in return have free access
+to the divine kingdom.  Light dances across the 72 foot long body covered in
+silvery gold scales.  Wispy, ethereal whiskers jut from several places on
+Bahamut's face, and twin, spiraling horns jut from Bahamut's head.  As you
+look into the large, lantern-like eyes, you feel more than know the awesome
+power he wields...
+~
+260378 0 0 0 38056 0 0 0 1000 E
+34 -14 -24 34d5+2746 22d4+14
+2000 270000
+8 8 0
+BareHandAttack: 12
+Race: 10
+E
+#16113
+sylph~
+a sylph~
+A sylph flits about here.
+~
+  Flitting about before you is a beautiful, naked female human with 
+transparent wings sprouting from her shoulders.  A transparent weblike cloth
+is wrapped around her, giving her a lightweight, wispy appearance.
+~
+65560 0 0 0 528444 0 0 0 600 E
+21 -1 -11 21d5+220 14d4+15
+100 27500
+8 8 0
+Race: 28
+E
+#16114
+griffon~
+a griffon~
+A griffon stands here.
+~
+  The haunches of a lion and the forelegs, wings and head of an eagle is the
+griffon.  Stories of how traveller's have lost their horses to this creature
+come to mind, and seem much more believable now, as the griffon looks large
+enough to easily kill a horse and fly away with it.
+~
+2072 0 0 0 394272 0 0 0 200 E
+23 -3 -13 23d5+253 15d4+15
+50 32500
+8 8 0
+BareHandAttack: 8
+Race: 22
+E
+#16115
+hippogriff~
+a hippogriff~
+A hippogriff stalks about here.
+~
+  Flapping it's wings above you is a creature with the body of a horse, yet
+with the head and front legs of an eagle.  The hippogriff pays you no mind,
+and seems to have an air of indifference about it.
+
+~
+24 0 0 0 136252 0 0 0 230 E
+23 -3 -13 23d5+253 15d4+14
+80 32500
+8 8 0
+BareHandAttack: 7
+Race: 12
+E
+#16116
+pseudo dragon~
+a pseudo dragon~
+A pseudo dragon stands here.
+~
+  The pseudo dragon looks like a small, foot long red dragon.  The appearance
+of being a red dragon of any size is unnerving giving the evil nature of red
+dragons, there is also a scorpion's stinger at the end of the dragon's tail,
+adding to your sense of paranoia...
+~
+152 0 0 0 529418 0 0 0 800 E
+22 -2 -12 22d5+230 14d4+16
+350 30000
+8 8 0
+BareHandAttack: 1
+Race: 10
+E
+#16117
+shedu~
+a shedu ~
+A shedu boldly stands here.
+~
+  The shedu resembles the winged horse, pegasus, but has a human head with
+a long, well kept beard.  Though noble-looking, this powerfully strong
+creature appears ready to assist those in need, and to battle evil.
+~
+137496 0 0 0 1084 0 0 0 220 E
+25 -5 -15 25d5+299 16d4+16
+200 37500
+8 8 1
+BareHandAttack: 6
+Race: 22
+E
+#16118
+sphinx~
+a sphinx~
+A sphinx stands watch here.
+~
+  The spinx appears as a winged lion with the head and upper torso of a naked
+human female.  Strange yet wonderous to gaze upon, the seven foot tall spinx
+returns your gaze rather inquisitively.
+~
+12314 0 0 0 135212 0 0 0 50 E
+24 -4 -14 24d5+276 16d4+16
+200 35000
+8 8 2
+BareHandAttack: 8
+E
+#16119
+opinicus~
+an opinicus~
+An opinicus stumbles about here.
+~
+  A golden brown camel with the wings of an eagle, the feet of a monkey, and
+the head of a monkey at the end of a long, snake-like neck covered in fur.
+An extremely bizarre looking creature, something about the opinicus instills
+a sense of paranoia in you.
+~
+10264 0 0 0 4980768 0 0 0 150 E
+24 -4 -14 24d5+276 16d4+20
+150 35000
+8 8 0
+BareHandAttack: 3
+Race: 22
+E
+#16120
+bronze dragon~
+Ridgeback~
+A bronze dragon lies here.
+~
+  Forty-two foot long, and covered in bronze plates, Ridgeback is quite a 
+sight to behold.  Spikes connected by scaley webbing protrude from his head
+to his tail, going between the large, fin-like wings jutting from his
+shoulders.  The smooth, benevolent looking face belittles the large, sinister
+looking claws attached to the muscled feet of this dragon.
+
+~
+221210 0 0 0 5164 0 0 0 800 E
+30 -10 -20 30d5+414 20d4+13
+850 60000
+8 8 0
+BareHandAttack: 12
+Race: 10
+E
+#16121
+golden bird flax~
+Flax~
+Flax, the garden keeper, flitters about here.
+~
+  Flax is a very intelligent, gold plated bird, no bigger than your head.
+Flax looks at you in mild interest with small, emerald colored eyes.  
+~
+207130 0 0 0 5164 0 0 0 780 E
+20 0 -10 20d5+210 13d4+16
+3 25000
+8 8 0
+BareHandAttack: 4
+Race: 24
+E
+#16122
+opinicus foosa~
+Foosa~
+An opinicus stands proudly here.
+~
+  A golden brown camel with the wings of an eagle, the feet of a monkey, and
+the head of a monkey at the end of a long snake-like neck.  Foosa resembles
+his other opinicus brethren in that he looks rather bizarre, and instills in
+you a sense of paranoia.
+~
+253978 0 0 0 5160 0 0 0 100 E
+25 -5 -15 25d5+299 16d4+17
+100 37500
+8 8 0
+BareHandAttack: 6
+Race: 22
+E
+#16123
+Kir-lan lammasu~
+Kir-lan~
+A lammasu stands about here.
+~
+  Standing before you is a large, winged feline with the head of a human.
+The hair on Kir-lan's head is long, unkept and pointing out in all directions,
+giving his head the appearance of having a mane.
+~
+188442 0 0 0 5280 0 0 0 700 E
+26 -6 -16 26d5+322 17d4+18
+120 40000
+8 8 0
+Race: 22
+E
+#16124
+Lardran ki-rin~
+Lardran~
+A ki-rin stands here, glittering in the bright light.
+~
+  Light dances across the golden hair of this marvelous horse like creature.
+A long, flowing golden mane trails behind Lardran and whips about in the air
+like a great cape.  A single spiraling horn juts from his forehead and seems
+to have an inner luminosity, much the same as the hooves that enable him to
+hover in the air.
+~
+188442 0 0 0 4252 0 0 0 900 E
+28 -8 -18 28d5+368 18d4+14
+120 50000
+8 8 0
+Race: 12
+E
+#16125
+Shaldra sylph~
+Shaldra~
+A sylph flutters about here.
+~
+  Flitting about before you is what resembles a beautiful naked female human
+with transparent wings sprouting from her shoulders.  A transparent web-like
+cloth is wrapped around Shaldra giving her a lightweight, wispy appearance.
+~
+188442 0 0 0 5288 0 0 0 300 E
+22 -2 -12 22d5+230 14d4+22
+120 30000
+8 8 2
+Race: 27
+E
+$

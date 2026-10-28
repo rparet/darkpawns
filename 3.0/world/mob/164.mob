@@ -1,0 +1,195 @@
+#16400
+tyannosaurus rex~
+Tyannosaurus Rex~
+A massive Tyannosaurus Rex rears up before you.
+~
+It is a gigantic beast with dark scaly skin and huge claws. It look at you with
+as he is about to chomp  you in one single bite.
+~
+1917032 0 0 0 1064 0 0 0 -400 E
+30 -10 -20 30d5+700 24d4+45
+0 75000
+8 8 0
+BareHandAttack: 10
+Race: 13
+Noise: The ground shakes under your feet.
+E
+#16401
+dinosaur brontosaurus~
+a brontosaurus~
+a gigantic brontosaurus is here chewing on some leaves.
+~
+this is a enormous beast probably the biggest living think you
+have ever seen, he has a huge body with a long tail and a long
+neck sorta like a griaffe.  I'd be careful thou woudn't want
+him to not see you and step on you.
+~
+1132632 0 0 0 1064 0 0 0 0 E
+28 -8 -18 28d5+400 22d4+24
+0 60000
+8 8 0
+BareHandAttack: 6
+Race: 13
+E
+#16402
+raptor adult dinosaur~
+an Adult Raptor~
+An large velociraptor scans the area for it's next victim...
+~
+this is a menacing looking animal, it stand about 6 feet tall and has some
+menacing looking claws on it's legs.  It moves with a swiftness unexpected of a animal of it's size. It almost looks like a giant scaled ostrage.
+~
+1314920 0 0 0 1311784 0 0 0 -400 E
+22 -2 -12 22d5+300 17d4+18
+0 37500
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#16403
+dinosaur parasaurolophus duck billed~
+a parasaurolophus~
+A duck billed dinosaur is here, eating some small shrubs.
+~
+This dinosaur looks sort of like a gorilla with a long head and a ducks beak.
+~
+1048712 0 0 0 33824 0 0 0 0 E
+17 3 -7 17d5+250 13d4+14
+0 25000
+8 8 0
+Race: 13
+E
+#16404
+stegosaurus dinosaur~
+a Stegosaurus~
+A large strange looking dinosaur is here, feeding on some ferns.
+~
+This is a strange looking dinosaur, it has large plates sticking out of it's
+back and has some large spines at the end of it's tail.
+~
+1048600 0 0 0 132128 0 0 0 400 E
+22 -10 -15 22d5+270 17d4+20
+0 37250
+8 8 0
+BareHandAttack: 2
+Race: 13
+E
+#16405
+triceratops dinosaur armored~
+a triceratops~
+A rhinosourus looking dinosaur is here, mangeling some vegatation.
+~
+It looks like a rhinosourus only with 3 horns and heavy armoring.
+~
+3151880 0 0 0 5152 0 0 0 400 E
+20 0 -10 20d5+275 16d4+16
+0 35000
+8 8 0
+BareHandAttack: 9
+Race: 13
+E
+#16406
+dinosaur heavy muscular diplodocus~
+a Diplodocus~
+A heavy muscular looking beast is here, chewing on some tree limbs.
+~
+This dinosaur looks very muscular and heavy, it's legs looking like pillars.
+It glances at you then continues with feeding itself, you think to yourself
+what a strange beast.
+~
+3227784 0 0 0 1052712 0 0 0 0 E
+22 -2 -12 22d5+350 17d4+18
+0 37500
+8 8 0
+BareHandAttack: 6
+Race: 13
+E
+#16407
+green grey ankylosaur dinosaur reptile~
+an Ankylosaur~
+A green and grey reptile is here, swinging it's clubbed tail around.
+~
+It has a green armored shell with spikes on it, with a grey body. It's tail
+has a large boney club at the end. I'd watch out or it might pound you.
+~
+1067032 0 0 0 1179688 0 0 0 400 E
+19 -10 -15 19d5+275 15d4+20
+0 30000
+8 8 0
+BareHandAttack: 7
+Race: 13
+E
+#16408
+lizard moloch~
+a Moloch Lizard~
+A small thorny lizard is chasing after some small insects.
+~
+It is a small green lizard, it's entire body is covered with tiny little thorns.
+~
+1310856 0 0 0 1246248 0 0 0 400 E
+12 -10 -2 12d5+175 9d4+10
+0 150000
+8 8 0
+BareHandAttack: 4
+Race: 13
+E
+#16409
+dinosaur reptile armored scelidosaurus~
+a Scelidosaurus~
+A heavily armored reptile slowly lumbers around.
+~
+This reptile sorta look like a aligator with small head.
+~
+1058840 0 0 0 1128 0 0 0 0 E
+19 1 -9 19d5+250 15d4+16
+0 29000
+8 8 0
+BareHandAttack: 5
+Race: 13
+E
+#16410
+dinosaur gigantic brachiosaurus~
+a brachiosaurus~
+A gigantic dinosaur is lumbering around here, muching on treetops.
+~
+This is surely the largest beast you have ever seen with your own eyes.
+This beast stand about forty feet tall, and is about seventy feet long, it
+must weigh over sixty-five tones at least.  You would be incredibly foolish
+to try to harm such a beast.
+~
+1335448 0 0 0 1073742952 0 0 0 400 E
+32 -12 -22 32d5+2000 25d4+26
+0 150000
+8 8 0
+BareHandAttack: 6
+Race: 13
+E
+#16498
+leveling mob~
+leveling mob~
+leveling mob
+~
+it looks like a good mob to level on
+~
+10 0 0 0 0 0 0 0 0 E
+39 19 10 1d1+1 1d1+1
+5000000 5000000
+8 8 0
+E
+#16499
+striker~
+Striker~
+Striker is here, kicking some ass.
+~
+Striker is a enormous man, almost godlike, you feel that you have steped in
+the wrong room, you better get the hell out of here!
+~
+2095164 0 0 0 1075819754 0 0 0 0 E
+39 -19 -29 39d5+10000 31d4+32
+1000000 5000000
+8 8 1
+BareHandAttack: 13
+Race: 19
+Noise: You hear an evil cackle.
+E
+$

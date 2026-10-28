@@ -1,0 +1,95 @@
+#11900
+box crate old~
+an old crate~
+An old crate, covered with dust, has been left here to rot.~
+~
+15 e 0 0
+200 5 -1 0 0
+1 3 0 100 0 1
+#11901
+cauldron boiling~
+a boiling cauldron~
+A boiling cauldron is here.~
+~
+15 e 0 0
+200 0 -1 0 0
+1 3 0 100 0 1
+#11902
+necklace bone bones~
+a necklace made of bones~
+A necklace, cunningly made from hundreds of bone fragments lies here.~
+~
+8 0 ac 0
+0 0 0 0 0
+1 3 2450 15 0 1
+A
+18 1
+A
+19 1
+A
+6 -1
+#11903
+human arm part~
+a human's arm~
+A rotting arm has been left here.~
+~
+19 0 a 0
+2 0 0 0 0
+4 3 0 40 6 1
+#11904
+leg human part~
+a human's leg~
+A rotting leg has been left here.~
+~
+19 0 a 0
+4 0 0 0 0
+6 3 0 50 6 1
+#11905
+bone brush~
+a bone brush~
+A brush made from a large, sun-bleached bone is here.~
+~
+8 0 ao 0
+0 0 0 0 0
+3 3 75 25 0 1
+#11906
+armor suit shining~
+a suit of shining armor~
+A suit of shining armor stands here.~
+~
+9 a ad 0
+14 0 0 0 2
+25 3 1300 10 0 1
+A
+6 2
+A
+18 1
+#11907
+ball light~
+a ball of light~
+A ball of light floats here.~
+~
+1 abgi as 0
+0 0 -1 0 0
+1 3 160 10 0 1
+#11908
+blade sun holy~
+the Sun Blade~
+One of the holy Sun Blades has been left here.~
+~
+5 k an m
+1 12 2 3 2
+7 2 8000 30 0 1
+R
+1 2
+#11909
+talisman blood bloody~
+a bloody talisman~
+A talisman, covered in blood, lies on the ground.~
+~
+8 hj ac 0
+0 0 0 0 4
+2 3 650 10 0 1
+A
+27 2
+$~

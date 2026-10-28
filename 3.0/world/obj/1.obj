@@ -1,0 +1,112 @@
+#100
+greaves leather~
+some leather greaves~
+A pair of leather greaves has been left here.~
+~
+9 0 af 0
+3 0 0 0 5
+4 3 100 50 0 1
+#101
+boots leather~
+some leather boots~
+A pair of leather boots has been left here.~
+~
+9 0 ag 0
+3 0 0 0 5
+2 3 200 50 0 1
+E
+boots leather~
+Their dark brown surface shines from a recent polish.
+~
+#102
+girdle leather~
+a leather girdle~
+A leather girdle has been left here.~
+~
+9 0 al 0
+4 0 0 0 5
+6 3 140 50 0 1
+E
+girdle leather~
+Its various buckles hang down carelessly, resting upon its faded brown
+surface.
+~
+#103
+bracer leather~
+a leather bracer~
+A leather bracer has been left here.~
+~
+9 0 am 0
+1 0 0 0 5
+1 2 40 50 0 1
+#104
+skirt leather~
+a leather skirt~
+A leather skirt has been left here.~
+~
+9 0 aq 0
+2 0 0 0 5
+8 3 60 50 0 1
+E
+skirt leather~
+It has jagged stitchings combining various multi-colored patches of cow hide.
+~
+#105
+jacket leather~
+a leather jacket~
+A leather jacket has been left here.~
+~
+9 0 ad 0
+5 0 0 0 5
+10 2 60 50 0 1
+#106
+cap leather~
+a leather cap~
+A leather cap has been left here.~
+~
+9 0 ae 0
+2 0 0 0 5
+3 3 40 50 0 1
+E
+cap leather~
+It's made of soft, pliable sections of worn leather. It has a small visor
+to shield light from the user's eyes.
+~
+#107
+sleeves leather~
+some leather sleeves~
+Some leather sleeves have been left here.~
+~
+9 0 ai 0
+1 0 0 0 5
+3 2 60 50 0 1
+E
+sleeves leather~
+They consist of long matted portions of brown leather.
+~
+#108
+gloves leather~
+some leather gloves~
+A pair of leather gloves have been left here.~
+~
+9 0 ah 0
+1 0 0 0 5
+2 2 30 50 0 1
+E
+gloves leather~
+These dirt covered slips of raw cow-hide are cut off at the knuckles and
+wrist.
+~
+#109
+collar leather~
+a leather collar~
+A leather collar has been left here.~
+~
+9 0 ac 0
+1 0 0 0 5
+3 2 80 50 0 1
+E
+collar leather~
+It's a simple band of light brown leather.
+~
+$~

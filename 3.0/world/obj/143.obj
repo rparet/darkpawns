@@ -1,0 +1,187 @@
+#14300
+sword flamberge~
+a large flamberge~
+A long, jagged-edged sword is laying here, in the dirt.~
+~
+5 j an 0
+1 4 4 3 4
+14 2 600 5 0 1
+A
+19 2
+#14301
+whip cat o nine tails cords handle~
+a cat-o'-nine-tails~
+A whip consisting of nine knotted cords fastened to a handle lays here.~
+~
+5 j an 0
+7 6 4 10 4
+4 3 300 25 0 1
+A
+19 3
+A
+6 -3
+#14302
+mace war hammer~
+a huge warhammer~
+A huge warhammer has been left here by some clumsy adventurer.~
+~
+5 0 an 0
+5 5 3 9 4
+15 2 700 10 0 1
+A
+19 3
+A
+28 -1
+#14303
+axe giant~
+a giant axe~
+A giant axe reflects your light from the ground here.~
+~
+5 bgj an 0
+2 4 6 3 5
+14 3 1000 15 0 1
+E
+axe~
+This is what the emperor of the ogres uses to keep the rest of the ogres in
+line. With this weapon, he slayed the previous occupant of his position and
+his entire clan.
+~
+A
+19 3
+#14304
+manacles set manacle~
+a set of iron manacles~
+A crude-looking set of iron manacles must have fallen off a slave here.~
+~
+9 h af 0
+6 0 0 0 7
+30 1 10 30 0 1
+A
+2 -5
+A
+14 -100
+A
+7 -1
+#14305
+collar spiked silver~
+a silver-spiked collar~
+A large, silver spiked collar is here, gathering dust.~
+~
+8 ai ac 0
+5 0 0 0 0
+3 2 600 25 0 1
+A
+1 1
+A
+2 -1
+#14306
+silver heart~
+a giant, silver heart~
+A giant, silver heart lays here, beating.~
+~
+8 ci ao 0
+0 0 0 0 3
+7 3 800 15 0 1
+A
+6 5
+A
+26 1
+#14307
+fire beetle gland~
+a fire beetle gland~
+The glowing gland of a fire beetle lays here, emitting a strange, red aura.~
+~
+1 acq ao 0
+0 0 10 0 0
+1 3 5 100 0 1
+#14309
+black dragon claw~
+a black dragon's claw~
+The large claw of a black dragon is here.~
+$n points $p at $N as a spray of acid flows forth.
+~
+4 ahj ao 0
+45 10 8 75 4
+4 3 1100 10 0 1
+E
+claw black dragon~
+It's the left front paw of a large black dragon, it seems to have been
+preserved so that it wouldn't rot.
+~
+A
+19 1
+A
+23 -5
+A
+7 -1
+#14310
+axe halberd~
+a halberd~
+A long, sharp halberd is here, collecting rust.~
+~
+5 0 an 0
+2 6 4 3 5
+13 3 200 25 0 1
+A
+18 3
+#14311
+ring wisdom stone stone~
+a small, stone ring~
+A small ring made of carven stone is here.~
+~
+11 ai ab 0
+0 0 0 0 0
+1 3 300 10 0 1
+A
+4 2
+#14312
+sword troll~
+a troll sword~
+A short, clumsily-made sword is here, growing moss.~
+~
+5 aj an 0
+1 4 4 3 6
+5 2 70 10 0 1
+A
+19 -2
+#14313
+pile corpse corpses~
+a pile of corpses~
+A large pile of corpses sits here, decomposing.~
+~
+15 e 0 0
+300 0 -1 0 0
+1 3 0 100 0 1
+S carrion.lua 2
+E
+corpse corpses pile~
+Ewwww! It's a rotting pile of corpses, maggots crawling over everything
+along with other vermin. Not all the bodies are whole and some are missing
+limbs, or just have chunks missing where the ogres have ripped pieces out
+to eat.
+~
+#14314
+gilded ring~
+a gilded ring~
+A beautiful gilded ring sits here, yearning to be worn.~
+~
+11 a ab 0
+0 0 0 0 4
+1 3 1000 40 0 1
+E
+gilded ring~
+Ornate in its appearance, it's difficult to believe that the ring is not in
+fact made from solid gold. It bears an interesting crest, that of a phoenix
+rising from the ashes of a large fire.
+~
+A
+6 2
+#14315
+wooden key~
+a wooden key~
+An ugly, wooden key sits here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 50 5 1
+$~

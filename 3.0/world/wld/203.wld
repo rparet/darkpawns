@@ -1,0 +1,9910 @@
+#20300
+The Immortal Map Room of Spiritwood~
+   The "map" command is useful for the forest given it's size. The area has
+been redesigned to get rid of a lot of the confusion and it is now rather
+logically set out.
+~
+203 cdgjm 0
+S
+#20301
+Spiritwood~
+   You are standing at what seems to be the edge of the vast forest known as
+Spiritwood to the orcs. Mountains rise sharply to the north and west making
+travel in those directions impossible. At the horizon, to the east, you see
+the huge grey shape of the Kretrun mountain chain but that is some distance
+away. You may move along the edge of the forest by continuing to the east or
+you may enter these vast, dark woods to the south.
+~
+203 0 3
+D1
+~
+~
+0 0 20302
+D2
+~
+~
+0 0 20312
+S
+#20302
+Spiritwood~
+   Cold, mountain air rushes past you from the high peaks above. The trees
+of Spiritwood to the south almost act as an impenetrable wall, hence the
+air circulates solely in this area creating quite a breeze. The sounds of
+life abound from the depths of the forest but light does not penetrate the
+canopy and you cannot see any deeper beyond the first few trees.
+~
+203 m 3
+D1
+~
+~
+0 0 20303
+D2
+~
+~
+0 0 20313
+D3
+~
+~
+0 0 20301
+S
+#20303
+Spiritwood~
+   There is a soft orange glow far to the south and you think you can just
+make out smoke rising lazily from the tree tops. Specks in the sky, most
+likely birds, circle the smoke looking for an easy insect meal - from here,
+it looks like it could take days to even reach but your perception from
+the edge of the woods is very distorted.
+~
+203 0 3
+D1
+~
+~
+0 0 20304
+D2
+~
+~
+0 0 20314
+D3
+~
+~
+0 0 20302
+S
+#20304
+Spiritwood~
+   Several pair of red eyes stare at you intently from the safety of the
+darkness to the south, either inquisitive looks or perhaps sizing up their
+next meal. High mountain peaks prevent passage to the north and stretch as
+far as the eye can see to the west and east.
+~
+203 0 3
+D1
+~
+~
+0 0 20305
+D2
+~
+~
+0 0 20315
+D3
+~
+~
+0 0 20303
+S
+#20305
+Spiritwood~
+   The orcs call these woods Spiritwood and you think you know why - all
+manner of sounds come from its depths although you can see nothing. You
+think you can see creatures dash by but perhaps it's only your imagination.
+Away to the southeast, you see the dominant peaks of the Kretrun mountain
+chain, stretching far to the south. You can continue along the forest edge
+by travelling east or west.
+~
+203 0 3
+D1
+~
+~
+0 0 20306
+D2
+~
+~
+0 0 20316
+D3
+~
+~
+0 0 20304
+S
+#20306
+Spiritwood~
+   Cold, mountain air rushes past you from the high peaks above. The trees
+of Spiritwood to the south almost act as an impenetrable wall, hence the
+air circulates solely in this area creating quite a breeze. The sounds of
+life abound from the depths of the forest but light does not penetrate the
+canopy and you cannot see any deeper beyond the first few trees.
+~
+203 0 3
+D1
+~
+~
+0 0 20307
+D2
+~
+~
+0 0 20317
+D3
+~
+~
+0 0 20305
+S
+#20307
+Spiritwood~
+   Several pair of red eyes stare at you intently from the safety of the
+darkness to the south, either inquisitive looks or perhaps sizing up their
+next meal. High mountain peaks prevent passage to the north and stretch as
+far as the eye can see to the west and east.
+~
+203 m 3
+D1
+~
+~
+0 0 20308
+D2
+~
+~
+0 0 20318
+D3
+~
+~
+0 0 20306
+S
+#20308
+Spiritwood~
+   The orcs call these woods Spiritwood and you think you know why - all
+manner of sounds come from its depths although you can see nothing. You
+think you can see creatures dash by but perhaps it's only your imagination.
+Away to the southeast, you see the dominant peaks of the Kretrun mountain
+chain, stretching far to the south. You can continue along the forest edge
+by travelling east or west.
+~
+203 m 3
+D1
+~
+~
+0 0 20309
+D2
+~
+~
+0 0 20319
+D3
+~
+~
+0 0 20307
+S
+#20309
+Spiritwood~
+   There is a soft orange glow far to the south and you think you can just
+make out smoke rising lazily from the tree tops. Specks in the sky, most
+likely birds, circle the smoke looking for an easy insect meal - from here,
+it looks like it could take days to even reach but your perception from
+the edge of the woods is very distorted.
+~
+203 0 3
+D1
+~
+~
+0 0 20310
+D2
+~
+~
+0 0 20320
+D3
+~
+~
+0 0 20308
+S
+#20310
+Spiritwood~
+   You are standing at what seems to be the edge of the vast forest known as
+Spiritwood to the orcs. Mountains rise sharply to the north and west making
+travel in those directions impossible. At the horizon, to the east, you see
+the huge grey shape of the Kretrun mountain chain but that is some distance
+away. You may move along the edge of the forest by continuing to the west or
+you may enter these vast, dark woods to the south.
+~
+203 0 3
+D2
+~
+~
+0 0 20321
+D3
+~
+~
+0 0 20309
+S
+#20311
+Spiritwood~
+   You reach the edge of Spiritwood and break out into a small clearing.
+There are, however, not many options apart from returning to the forest
+behind you. Mountains block your path to the north and west and all look
+too steep to climb.
+~
+203 0 3
+D1
+~
+~
+0 0 20312
+D2
+~
+~
+0 0 20328
+S
+#20312
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20301
+D1
+~
+~
+0 0 20313
+D2
+~
+~
+0 0 20329
+D3
+~
+~
+0 0 20311
+S
+#20313
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20302
+D1
+~
+~
+0 0 20314
+D2
+~
+~
+0 0 20330
+D3
+~
+~
+0 0 20312
+S
+#20314
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20303
+D1
+~
+~
+0 0 20315
+D2
+~
+~
+0 0 20331
+D3
+~
+~
+0 0 20313
+S
+#20315
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20304
+D1
+~
+~
+0 0 20316
+D2
+~
+~
+0 0 4001
+D3
+~
+~
+0 0 20314
+S
+#20316
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20305
+D1
+~
+~
+0 0 20317
+D2
+~
+~
+0 0 20333
+D3
+~
+~
+0 0 20315
+S
+#20317
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20306
+D1
+~
+~
+0 0 20318
+D2
+~
+~
+0 0 20334
+D3
+~
+~
+0 0 20316
+S
+#20318
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20307
+D1
+~
+~
+0 0 20319
+D2
+~
+~
+0 0 20335
+D3
+~
+~
+0 0 20317
+S
+#20319
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20308
+D1
+~
+~
+0 0 20320
+D2
+~
+~
+0 0 20336
+D3
+~
+~
+0 0 20318
+S
+#20320
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20309
+D1
+~
+~
+0 0 20321
+D2
+~
+~
+0 0 20337
+D3
+~
+~
+0 0 20319
+S
+#20321
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20310
+D1
+~
+~
+0 0 20322
+D2
+~
+~
+0 0 20338
+D3
+~
+~
+0 0 20320
+S
+#20322
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D1
+~
+~
+0 0 20323
+D2
+~
+~
+0 0 20339
+D3
+~
+~
+0 0 20321
+S
+#20323
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest continues endlessly to the west, south and
+east.
+~
+203 0 3
+D1
+~
+~
+0 0 20324
+D2
+~
+~
+0 0 20340
+D3
+~
+~
+0 0 20322
+S
+#20324
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue to the 
+west, south and east.
+~
+203 0 3
+D1
+~
+~
+0 0 20325
+D2
+~
+~
+0 0 20341
+D3
+~
+~
+0 0 20323
+S
+#20325
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+to the west, south and east.
+~
+203 0 3
+D1
+~
+~
+0 0 20326
+D2
+~
+~
+0 0 20342
+D3
+~
+~
+0 0 20324
+S
+#20326
+Spiritwood~
+   The air is thick and rank, even though you find yourself on the edge of
+this huge forest. The strong trees in this area completely block out any
+source of light and a heavy, silvery fog swirls around your ankles. You can
+venture into its depths of the forest to the west or south.
+~
+203 0 3
+D2
+~
+~
+0 0 20343
+D3
+~
+~
+0 0 20325
+S
+#20327
+Spiritwood~
+   You stand at the very edge of the huge woodland the orcs call Spiritwood.
+Small rocks tumble from on high and land with a loud crack on the rocky
+ground. Your passage north and west is restricted by a vertical cliff face,
+your only option to skirt the edge of the forest to the south or enter to the
+east.
+~
+203 0 3
+D1
+~
+~
+0 0 20328
+D2
+~
+~
+0 0 20346
+S
+#20328
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20311
+D1
+~
+~
+0 0 20329
+D2
+~
+~
+0 0 20347
+D3
+~
+~
+0 0 20327
+S
+#20329
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20312
+D1
+~
+~
+0 0 20330
+D2
+~
+~
+0 0 20348
+D3
+~
+~
+0 0 20328
+S
+#20330
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20313
+D1
+~
+~
+0 0 20331
+D2
+~
+~
+0 0 20349
+D3
+~
+~
+0 0 20329
+S
+#20331
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20314
+D1
+~
+~
+0 0 4001
+D2
+~
+~
+0 0 20350
+D3
+~
+~
+0 0 20330
+S
+#20333
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20316
+D1
+~
+~
+0 0 20334
+D2
+~
+~
+0 0 20352
+D3
+~
+~
+0 0 4001
+S
+#20334
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20317
+D1
+~
+~
+0 0 20335
+D2
+~
+~
+0 0 20353
+D3
+~
+~
+0 0 20333
+S
+#20335
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20318
+D1
+~
+~
+0 0 20336
+D2
+~
+~
+0 0 20354
+D3
+~
+~
+0 0 20334
+S
+#20336
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20319
+D1
+~
+~
+0 0 20337
+D2
+~
+~
+0 0 20355
+D3
+~
+~
+0 0 20335
+S
+#20337
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20320
+D1
+~
+~
+0 0 20338
+D2
+~
+~
+0 0 20356
+D3
+~
+~
+0 0 20336
+S
+#20338
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20321
+D1
+~
+~
+0 0 20339
+D2
+~
+~
+0 0 20357
+D3
+~
+~
+0 0 20337
+S
+#20339
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20322
+D1
+~
+~
+0 0 20340
+D2
+~
+~
+0 0 20358
+D3
+~
+~
+0 0 20338
+S
+#20340
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20323
+D1
+~
+~
+0 0 20341
+D2
+~
+~
+0 0 20359
+D3
+~
+~
+0 0 20339
+S
+#20341
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 m 3
+D0
+~
+~
+0 0 20324
+D1
+~
+~
+0 0 20342
+D2
+~
+~
+0 0 20360
+D3
+~
+~
+0 0 20340
+S
+#20342
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20325
+D1
+~
+~
+0 0 20343
+D2
+~
+~
+0 0 20361
+D3
+~
+~
+0 0 20341
+S
+#20343
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20326
+D1
+~
+~
+0 0 20344
+D2
+~
+~
+0 0 20362
+D3
+~
+~
+0 0 20342
+S
+#20344
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue to the
+west, south and east.
+~
+203 0 3
+D1
+~
+~
+0 0 20345
+D2
+~
+~
+0 0 20363
+D3
+~
+~
+0 0 20343
+S
+#20345
+Spiritwood~
+   The air here in the seemingly-boundless forest is thick with insects and
+has a discernible odor. The enchanted trees growing around here look very old
+and hearty, having survived here for some time. Every now and again, you note
+a small forest creature eyeing you with interest.
+~
+203 m 3
+D2
+~
+~
+0 0 20364
+D3
+~
+~
+0 0 20344
+S
+#20346
+Spiritwood~
+   The air is thick and rank, even though you find yourself on the edge of
+this huge forest. The strong trees in this area completely block out any
+source of light and a heavy, silvery fog swirls around your ankles. You can
+journey to the north along the edge of the forest or venture into its depths
+to the east.
+~
+203 0 3
+D0
+~
+~
+0 0 20327
+D1
+~
+~
+0 0 20347
+S
+#20347
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20328
+D1
+~
+~
+0 0 20348
+D2
+~
+~
+0 0 20367
+D3
+~
+~
+0 0 20346
+S
+#20348
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20329
+D1
+~
+~
+0 0 20349
+D2
+~
+~
+0 0 20368
+D3
+~
+~
+0 0 20347
+S
+#20349
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20330
+D1
+~
+~
+0 0 20350
+D2
+~
+~
+0 0 20369
+D3
+~
+~
+0 0 20348
+S
+#20350
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20331
+D1
+~
+~
+0 0 20351
+D2
+~
+~
+0 0 20370
+D3
+~
+~
+0 0 20349
+S
+#20351
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 4001
+D1
+~
+~
+0 0 20352
+D2
+~
+~
+0 0 20371
+D3
+~
+~
+0 0 20350
+S
+#20352
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20333
+D1
+~
+~
+0 0 20353
+D2
+~
+~
+0 0 20372
+D3
+~
+~
+0 0 20351
+S
+#20353
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20334
+D1
+~
+~
+0 0 20354
+D2
+~
+~
+0 0 20373
+D3
+~
+~
+0 0 20352
+S
+#20354
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20335
+D1
+~
+~
+0 0 20355
+D2
+~
+~
+0 0 20374
+D3
+~
+~
+0 0 20353
+S
+#20355
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20336
+D1
+~
+~
+0 0 20356
+D2
+~
+~
+0 0 20375
+D3
+~
+~
+0 0 20354
+S
+#20356
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20337
+D1
+~
+~
+0 0 20357
+D2
+~
+~
+0 0 20376
+D3
+~
+~
+0 0 20355
+S
+#20357
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20338
+D1
+~
+~
+0 0 20358
+D2
+~
+~
+0 0 20377
+D3
+~
+~
+0 0 20356
+S
+#20358
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20339
+D1
+~
+~
+0 0 20359
+D2
+~
+~
+0 0 20378
+D3
+~
+~
+0 0 20357
+S
+#20359
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20340
+D1
+~
+~
+0 0 20360
+D2
+~
+~
+0 0 20379
+D3
+~
+~
+0 0 20358
+S
+#20360
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 m 3
+D0
+~
+~
+0 0 20341
+D1
+~
+~
+0 0 20361
+D2
+~
+~
+0 0 20380
+D3
+~
+~
+0 0 20359
+S
+#20361
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20342
+D1
+~
+~
+0 0 20362
+D2
+~
+~
+0 0 20381
+D3
+~
+~
+0 0 20360
+S
+#20362
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20343
+D1
+~
+~
+0 0 20363
+D2
+~
+~
+0 0 20382
+D3
+~
+~
+0 0 20361
+S
+#20363
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20344
+D1
+~
+~
+0 0 20364
+D2
+~
+~
+0 0 20383
+D3
+~
+~
+0 0 20362
+S
+#20364
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20345
+D1
+~
+~
+0 0 20365
+D2
+~
+~
+0 0 20384
+D3
+~
+~
+0 0 20363
+S
+#20365
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D1
+~
+~
+0 0 20366
+D2
+~
+~
+0 0 20385
+D3
+~
+~
+0 0 20364
+S
+#20366
+Spiritwood~
+   You stand at the very edge of the huge woodland the orcs call Spiritwood.
+Small rocks tumble from on high and land with a loud crack on the rocky
+ground. Your passage north and east is restricted by a vertical cliff face,
+your only option to enter the woods to the west or south.
+~
+203 0 3
+D2
+~
+~
+0 0 20386
+D3
+~
+~
+0 0 20365
+S
+#20367
+Spiritwood~
+   You fight your way through a thicket and emerge into a small clearing
+nestled against several large mountains to the west. You have multiple cuts
+and scratches all over your body, the effort to work through these woods is
+extremely tiring and it's dark in there - but, you can go back in to the
+north or east if you really want to.
+~
+203 m 3
+D0
+~
+~
+0 0 20347
+D1
+~
+~
+0 0 20368
+S
+#20368
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20348
+D1
+~
+~
+0 0 20369
+D2
+~
+~
+0 0 20398
+D3
+~
+~
+0 0 20367
+S
+#20369
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20349
+D1
+~
+~
+0 0 20370
+D2
+~
+~
+0 0 20399
+D3
+~
+~
+0 0 20368
+S
+#20370
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20350
+D1
+~
+~
+0 0 20371
+D2
+~
+~
+0 0 20400
+D3
+~
+~
+0 0 20369
+S
+#20371
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20351
+D1
+~
+~
+0 0 20372
+D2
+~
+~
+0 0 20401
+D3
+~
+~
+0 0 20370
+S
+#20372
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20352
+D1
+~
+~
+0 0 20373
+D2
+~
+~
+0 0 20402
+D3
+~
+~
+0 0 20371
+S
+#20373
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20353
+D1
+~
+~
+0 0 20374
+D2
+~
+~
+0 0 20403
+D3
+~
+~
+0 0 20372
+S
+#20374
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20354
+D1
+~
+~
+0 0 20375
+D2
+~
+~
+0 0 20404
+D3
+~
+~
+0 0 20373
+S
+#20375
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20355
+D1
+~
+~
+0 0 20376
+D2
+~
+~
+0 0 20405
+D3
+~
+~
+0 0 20374
+S
+#20376
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20356
+D1
+~
+~
+0 0 20377
+D2
+~
+~
+0 0 20406
+D3
+~
+~
+0 0 20375
+S
+#20377
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20357
+D1
+~
+~
+0 0 20378
+D2
+~
+~
+0 0 20407
+D3
+~
+~
+0 0 20376
+S
+#20378
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 m 3
+D0
+~
+~
+0 0 20358
+D1
+~
+~
+0 0 20379
+D2
+~
+~
+0 0 20408
+D3
+~
+~
+0 0 20377
+S
+#20379
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20359
+D1
+~
+~
+0 0 20380
+D2
+~
+~
+0 0 20409
+D3
+~
+~
+0 0 20378
+S
+#20380
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20360
+D1
+~
+~
+0 0 20381
+D2
+~
+~
+0 0 20410
+D3
+~
+~
+0 0 20379
+S
+#20381
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20361
+D1
+~
+~
+0 0 20382
+D2
+~
+~
+0 0 20411
+D3
+~
+~
+0 0 20380
+S
+#20382
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20362
+D1
+~
+~
+0 0 20383
+D2
+~
+~
+0 0 20412
+D3
+~
+~
+0 0 20381
+S
+#20383
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20363
+D1
+~
+~
+0 0 20384
+D2
+~
+~
+0 0 20413
+D3
+~
+~
+0 0 20382
+S
+#20384
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20364
+D1
+~
+~
+0 0 20385
+D2
+~
+~
+0 0 20414
+D3
+~
+~
+0 0 20383
+S
+#20385
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20365
+D1
+~
+~
+0 0 20386
+D2
+~
+~
+0 0 20415
+D3
+~
+~
+0 0 20384
+S
+#20386
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20366
+D1
+~
+~
+0 0 20387
+D2
+~
+~
+0 0 20416
+D3
+~
+~
+0 0 20385
+S
+#20387
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue to the
+west, south and east.
+~
+203 0 3
+D1
+~
+~
+0 0 20388
+D2
+~
+~
+0 0 20417
+D3
+~
+~
+0 0 20386
+S
+#20388
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D1
+~
+~
+0 0 20389
+D2
+~
+~
+0 0 20418
+D3
+~
+~
+0 0 20387
+S
+#20389
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D1
+~
+~
+0 0 20390
+D2
+~
+~
+0 0 20419
+D3
+~
+~
+0 0 20388
+S
+#20390
+The Edge of the Forest~
+   The treeline begins here, separating the dense woods to the south from the
+dry, rocky slope to the north. A winding trail leads northward along the base
+of a tall mountain, and into a deep valley.
+   The cold breeze, carried down from the mountains, smells strongly of
+sulfur. It is becoming quite cold.
+~
+203 m 3
+D0
+~
+~
+0 0 4701
+D1
+~
+~
+0 0 20391
+D2
+~
+~
+0 0 20420
+D3
+~
+~
+0 0 20389
+S
+#20391
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 m 3
+D1
+~
+~
+0 0 20392
+D2
+~
+~
+0 0 20421
+D3
+~
+~
+0 0 20390
+S
+#20392
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue to the
+west, south and east. Your path north blocked by an almost-vertical cliff
+face.
+~
+203 0 3
+D1
+~
+~
+0 0 20393
+D2
+~
+~
+0 0 20422
+D3
+~
+~
+0 0 20391
+S
+#20393
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D1
+~
+~
+0 0 20394
+D2
+~
+~
+0 0 20423
+D3
+~
+~
+0 0 20392
+S
+#20394
+SpiritWood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. You can continue along the edge of the woods to the west or east
+or plunge into its depths to the south.
+~
+203 0 3
+D1
+~
+~
+0 0 20395
+D2
+~
+~
+0 0 20424
+D3
+~
+~
+0 0 20393
+S
+#20395
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D1
+~
+~
+0 0 20396
+D2
+~
+~
+0 0 20425
+D3
+~
+~
+0 0 20394
+S
+#20396
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly to the west and
+south but opens into a small clearing to the east.
+~
+203 0 3
+D1
+~
+~
+0 0 20397
+D2
+~
+~
+0 0 20426
+D3
+~
+~
+0 0 20395
+S
+#20397
+Spiritwood~
+   You emerge into a grassy clearing and are confronted by rather formidable
+mountains on all sides except to the west. You can take this opportunity to
+rest if you wish, or proceed into the woods.
+~
+203 0 3
+D3
+~
+~
+0 0 20396
+S
+#20398
+Spiritwood~
+   You cast your gaze to the north and south and from this position, you
+estimate you have reached approximately the middle of the woods. The strong
+trees to the east reach up towards the heavens and fill the air with a
+fine, powder-like pollen making it difficult to breathe. You can skirt the
+edge of the trees by journeying to the south or you may enter the woods to
+the north and east.
+~
+203 m 3
+D0
+~
+~
+0 0 20368
+D1
+~
+~
+0 0 20399
+D2
+~
+~
+0 0 20427
+S
+#20399
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 m 3
+D0
+~
+~
+0 0 20369
+D1
+~
+~
+0 0 20400
+D2
+~
+~
+0 0 20428
+D3
+~
+~
+0 0 20398
+S
+#20400
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20370
+D1
+~
+~
+0 0 20401
+D2
+~
+~
+0 0 20429
+D3
+~
+~
+0 0 20399
+S
+#20401
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 m 3
+D0
+~
+~
+0 0 20371
+D1
+~
+~
+0 0 20402
+D2
+~
+~
+0 0 20430
+D3
+~
+~
+0 0 20400
+S
+#20402
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20372
+D1
+~
+~
+0 0 20403
+D2
+~
+~
+0 0 20431
+D3
+~
+~
+0 0 20401
+S
+#20403
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20373
+D1
+~
+~
+0 0 20404
+D2
+~
+~
+0 0 20432
+D3
+~
+~
+0 0 20402
+D5
+The hole lies in the base of a tree but it's very dark and you can't see down
+there clearly.
+~
+~
+0 0 2149
+S
+#20404
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20374
+D1
+~
+~
+0 0 20405
+D2
+~
+~
+0 0 20433
+D3
+~
+~
+0 0 20403
+S
+#20405
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20375
+D1
+~
+~
+0 0 20406
+D2
+~
+~
+0 0 20434
+D3
+~
+~
+0 0 20404
+S
+#20406
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20376
+D1
+~
+~
+0 0 20407
+D2
+~
+~
+0 0 20435
+D3
+~
+~
+0 0 20405
+S
+#20407
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20377
+D1
+~
+~
+0 0 20408
+D2
+~
+~
+0 0 20436
+D3
+~
+~
+0 0 20406
+S
+#20408
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20378
+D1
+~
+~
+0 0 20409
+D2
+~
+~
+0 0 20437
+D3
+~
+~
+0 0 20407
+S
+#20409
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20379
+D1
+~
+~
+0 0 20410
+D2
+~
+~
+0 0 20438
+D3
+~
+~
+0 0 20408
+S
+#20410
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20380
+D1
+~
+~
+0 0 20411
+D2
+~
+~
+0 0 20439
+D3
+~
+~
+0 0 20409
+S
+#20411
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20381
+D1
+~
+~
+0 0 20412
+D2
+~
+~
+0 0 20440
+D3
+~
+~
+0 0 20410
+S
+#20412
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20382
+D1
+~
+~
+0 0 20413
+D2
+~
+~
+0 0 20441
+D3
+~
+~
+0 0 20411
+S
+#20413
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20383
+D1
+~
+~
+0 0 20414
+D2
+~
+~
+0 0 20442
+D3
+~
+~
+0 0 20412
+S
+#20414
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20384
+D1
+~
+~
+0 0 20415
+D2
+~
+~
+0 0 20443
+D3
+~
+~
+0 0 20413
+S
+#20415
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20385
+D1
+~
+~
+0 0 20416
+D2
+~
+~
+0 0 20444
+D3
+~
+~
+0 0 20414
+S
+#20416
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20386
+D1
+~
+~
+0 0 20417
+D2
+~
+~
+0 0 20445
+D3
+~
+~
+0 0 20415
+S
+#20417
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20387
+D1
+~
+~
+0 0 20418
+D2
+~
+~
+0 0 20446
+D3
+~
+~
+0 0 20416
+S
+#20418
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20388
+D1
+~
+~
+0 0 20419
+D2
+~
+~
+0 0 20447
+D3
+~
+~
+0 0 20417
+S
+#20419
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20389
+D1
+~
+~
+0 0 20420
+D2
+~
+~
+0 0 20448
+D3
+~
+~
+0 0 20418
+S
+#20420
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20390
+D1
+~
+~
+0 0 20421
+D2
+~
+~
+0 0 20449
+D3
+~
+~
+0 0 20419
+S
+#20421
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20391
+D1
+~
+~
+0 0 20422
+D2
+~
+~
+0 0 20450
+D3
+~
+~
+0 0 20420
+S
+#20422
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20392
+D1
+~
+~
+0 0 20423
+D2
+~
+~
+0 0 20451
+D3
+~
+~
+0 0 20421
+S
+#20423
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20393
+D1
+~
+~
+0 0 20424
+D2
+~
+~
+0 0 20452
+D3
+~
+~
+0 0 20422
+S
+#20424
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever to the west, north and
+east despite the fact that you are currently on the edge of these darks woods.
+~
+203 0 3
+D0
+~
+~
+0 0 20394
+D1
+~
+~
+0 0 20425
+D3
+~
+~
+0 0 20423
+S
+#20425
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees.
+~
+203 0 3
+D0
+~
+~
+0 0 20395
+D1
+~
+~
+0 0 20426
+D3
+~
+~
+0 0 20424
+S
+#20426
+Spiritwood~
+   You reach the edge of Spiritwood and break out into a small clearing.
+There are, however, not many options apart from returning to the forest
+behind you. Mountains block your path to the south and east and all look
+too steep to climb.
+~
+203 m 3
+D0
+~
+~
+0 0 20396
+D3
+~
+~
+0 0 20425
+S
+#20427
+Spiritwood~
+   You cast your gaze to the north and south and from this position, you
+estimate you have reached approximately the middle of the woods. The strong
+trees to the east reach up towards the heavens and fill the air with a
+fine, powder-like pollen making it difficult to breathe. You can skirt the
+edge of the trees by journeying to the south or north; alternatively you may
+enter the woods to the east.
+~
+203 0 3
+D0
+~
+~
+0 0 20398
+D1
+~
+~
+0 0 20428
+D2
+~
+~
+0 0 20453
+S
+#20428
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20399
+D1
+~
+~
+0 0 20429
+D2
+~
+~
+0 0 20454
+D3
+~
+~
+0 0 20427
+S
+#20429
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20400
+D1
+~
+~
+0 0 20430
+D2
+~
+~
+0 0 20455
+D3
+~
+~
+0 0 20428
+S
+#20430
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20401
+D1
+~
+~
+0 0 20431
+D2
+~
+~
+0 0 20456
+D3
+~
+~
+0 0 20429
+S
+#20431
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20402
+D1
+~
+~
+0 0 20432
+D2
+~
+~
+0 0 20457
+D3
+~
+~
+0 0 20430
+S
+#20432
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20403
+D1
+~
+~
+0 0 20433
+D2
+~
+~
+0 0 20458
+D3
+~
+~
+0 0 20431
+S
+#20433
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20404
+D1
+~
+~
+0 0 20434
+D2
+~
+~
+0 0 20459
+D3
+~
+~
+0 0 20432
+S
+#20434
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20405
+D1
+~
+~
+0 0 20435
+D2
+~
+~
+0 0 20460
+D3
+~
+~
+0 0 20433
+S
+#20435
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20406
+D1
+~
+~
+0 0 20436
+D2
+~
+~
+0 0 20461
+D3
+~
+~
+0 0 20434
+S
+#20436
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20407
+D1
+~
+~
+0 0 20437
+D2
+~
+~
+0 0 20462
+D3
+~
+~
+0 0 20435
+S
+#20437
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20408
+D1
+~
+~
+0 0 20438
+D2
+~
+~
+0 0 20463
+D3
+~
+~
+0 0 20436
+S
+#20438
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20409
+D1
+~
+~
+0 0 20439
+D2
+~
+~
+0 0 20464
+D3
+~
+~
+0 0 20437
+S
+#20439
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20410
+D1
+~
+~
+0 0 20440
+D2
+~
+~
+0 0 20465
+D3
+~
+~
+0 0 20438
+S
+#20440
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20411
+D1
+~
+~
+0 0 20441
+D2
+~
+~
+0 0 20466
+D3
+~
+~
+0 0 20439
+S
+#20441
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20412
+D1
+~
+~
+0 0 20442
+D2
+~
+~
+0 0 20467
+D3
+~
+~
+0 0 20440
+S
+#20442
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20413
+D1
+~
+~
+0 0 20443
+D2
+~
+~
+0 0 20468
+D3
+~
+~
+0 0 20441
+S
+#20443
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20414
+D1
+~
+~
+0 0 20444
+D2
+~
+~
+0 0 20469
+D3
+~
+~
+0 0 20442
+S
+#20444
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20415
+D1
+~
+~
+0 0 20445
+D2
+~
+~
+0 0 20470
+D3
+~
+~
+0 0 20443
+S
+#20445
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20416
+D1
+~
+~
+0 0 20446
+D2
+~
+~
+0 0 20471
+D3
+~
+~
+0 0 20444
+S
+#20446
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20417
+D1
+~
+~
+0 0 20447
+D2
+~
+~
+0 0 20472
+D3
+~
+~
+0 0 20445
+S
+#20447
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20418
+D1
+~
+~
+0 0 20448
+D2
+~
+~
+0 0 20473
+D3
+~
+~
+0 0 20446
+S
+#20448
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20419
+D1
+~
+~
+0 0 20449
+D2
+~
+~
+0 0 20474
+D3
+~
+~
+0 0 20447
+S
+#20449
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20420
+D1
+~
+~
+0 0 20450
+D2
+~
+~
+0 0 20475
+D3
+~
+~
+0 0 20448
+S
+#20450
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20421
+D1
+~
+~
+0 0 20451
+D2
+~
+~
+0 0 20476
+D3
+~
+~
+0 0 20449
+S
+#20451
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20422
+D1
+~
+~
+0 0 20452
+D2
+~
+~
+0 0 20477
+D3
+~
+~
+0 0 20450
+S
+#20452
+Spiritwood~
+   The air is thick and rank, even though you find yourself on the edge of
+this huge forest. The strong trees in this area completely block out any
+source of light and a heavy, silvery fog swirls around your ankles. You can
+journey to the south along the edge of the forest or venture into its depths
+to the west.
+~
+203 0 3
+D0
+~
+~
+0 0 20423
+D2
+~
+~
+0 0 20478
+D3
+~
+~
+0 0 20451
+S
+#20453
+Spiritwood~
+   You cast your gaze to the north and south and from this position, you
+estimate you have reached approximately the middle of the woods. The strong
+trees to the east reach up towards the heavens and fill the air with a
+fine, powder-like pollen making it difficult to breathe. You can skirt the
+edge of the trees by journeying to the north or you may enter the woods to
+the south and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20427
+D1
+~
+~
+0 0 20454
+S
+#20454
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20428
+D1
+~
+~
+0 0 20455
+D3
+~
+~
+0 0 20453
+S
+#20455
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20429
+D1
+~
+~
+0 0 20456
+D2
+~
+~
+0 0 20667
+D3
+~
+~
+0 0 20454
+S
+#20456
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20430
+D1
+~
+~
+0 0 20457
+D2
+~
+~
+0 0 20668
+D3
+~
+~
+0 0 20455
+S
+#20457
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 m 3
+D0
+~
+~
+0 0 20431
+D1
+~
+~
+0 0 20458
+D2
+~
+~
+0 0 20484
+D3
+~
+~
+0 0 20456
+S
+#20458
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20432
+D1
+~
+~
+0 0 20459
+D2
+~
+~
+0 0 20485
+D3
+~
+~
+0 0 20457
+S
+#20459
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20433
+D1
+~
+~
+0 0 20460
+D2
+~
+~
+0 0 20486
+D3
+~
+~
+0 0 20458
+S
+#20460
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20434
+D1
+~
+~
+0 0 20461
+D2
+~
+~
+0 0 20487
+D3
+~
+~
+0 0 20459
+S
+#20461
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20435
+D1
+~
+~
+0 0 20462
+D2
+~
+~
+0 0 20488
+D3
+~
+~
+0 0 20460
+S
+#20462
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20436
+D1
+~
+~
+0 0 20463
+D2
+~
+~
+0 0 20489
+D3
+~
+~
+0 0 20461
+S
+#20463
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20437
+D1
+~
+~
+0 0 20464
+D2
+~
+~
+0 0 20490
+D3
+~
+~
+0 0 20462
+S
+#20464
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 m 3
+D0
+~
+~
+0 0 20438
+D1
+~
+~
+0 0 20465
+D2
+~
+~
+0 0 20491
+D3
+~
+~
+0 0 20463
+S
+#20465
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20439
+D1
+~
+~
+0 0 20466
+D2
+~
+~
+0 0 20492
+D3
+~
+~
+0 0 20464
+S
+#20466
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20440
+D1
+~
+~
+0 0 20467
+D2
+~
+~
+0 0 20493
+D3
+~
+~
+0 0 20465
+S
+#20467
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20441
+D1
+~
+~
+0 0 20468
+D2
+~
+~
+0 0 20494
+D3
+~
+~
+0 0 20466
+S
+#20468
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20442
+D1
+~
+~
+0 0 20469
+D2
+~
+~
+0 0 20495
+D3
+~
+~
+0 0 20467
+S
+#20469
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20443
+D1
+~
+~
+0 0 20470
+D2
+~
+~
+0 0 20496
+D3
+~
+~
+0 0 20468
+S
+#20470
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20444
+D1
+~
+~
+0 0 20471
+D2
+~
+~
+0 0 20497
+D3
+~
+~
+0 0 20469
+S
+#20471
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20445
+D1
+~
+~
+0 0 20472
+D2
+~
+~
+0 0 20498
+D3
+~
+~
+0 0 20470
+S
+#20472
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20446
+D1
+~
+~
+0 0 20473
+D2
+~
+~
+0 0 20499
+D3
+~
+~
+0 0 20471
+S
+#20473
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20447
+D1
+~
+~
+0 0 20474
+D2
+~
+~
+0 0 20500
+D3
+~
+~
+0 0 20472
+S
+#20474
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20448
+D1
+~
+~
+0 0 20475
+D2
+~
+~
+0 0 20501
+D3
+~
+~
+0 0 20473
+S
+#20475
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20449
+D1
+~
+~
+0 0 20476
+D2
+~
+~
+0 0 20502
+D3
+~
+~
+0 0 20474
+S
+#20476
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20450
+D1
+~
+~
+0 0 20477
+D2
+~
+~
+0 0 20503
+D3
+~
+~
+0 0 20475
+S
+#20477
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20451
+D1
+~
+~
+0 0 20478
+D2
+~
+~
+0 0 20504
+D3
+~
+~
+0 0 20476
+S
+#20478
+Spiritwood~
+   You cast your gaze to the north and south and from this position, you
+estimate you have reached approximately the middle of the woods. The strong
+trees to the west reach up towards the heavens and fill the air with a
+fine, powder-like pollen making it difficult to breathe. You can skirt the
+edge of the trees by journeying to the north or you may enter the woods to
+the south and west.
+~
+203 0 3
+D0
+~
+~
+0 0 20452
+D2
+~
+~
+0 0 20505
+D3
+~
+~
+0 0 20477
+S
+#20479
+Spiritwood~
+   The seemingly-endless woodland which lies before you to the east is known
+as Spiritwood. The strong trees stretch up towards the sky forming an
+effective barrier against light. You notice a tiny forest creature hiding
+in a lofty tree and it merely gazes at you before disappearing into the
+depths.
+~
+203 m 3
+D1
+~
+~
+0 0 20480
+D2
+~
+~
+0 0 20510
+S
+#20480
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 m 3
+D1
+~
+~
+0 0 20671
+D2
+~
+~
+0 0 20511
+D3
+~
+~
+0 0 20479
+S
+#20481
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20697
+D1
+~
+~
+0 0 20482
+D2
+~
+~
+0 0 20512
+D3
+~
+~
+0 0 20542
+S
+#20482
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20698
+D1
+~
+~
+0 0 20483
+D2
+~
+~
+0 0 20513
+D3
+~
+~
+0 0 20481
+S
+#20483
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20699
+D1
+~
+~
+0 0 20669
+D2
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20482
+S
+#20484
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20457
+D1
+~
+~
+0 0 20485
+D2
+~
+~
+0 0 20515
+D3
+~
+~
+0 0 20668
+S
+#20485
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20458
+D1
+~
+~
+0 0 20486
+D2
+~
+~
+0 0 20516
+D3
+~
+~
+0 0 20484
+S
+#20486
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20459
+D1
+~
+~
+0 0 20487
+D2
+~
+~
+0 0 20517
+D3
+~
+~
+0 0 20485
+S
+#20487
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20460
+D1
+~
+~
+0 0 20488
+D2
+~
+~
+0 0 20518
+D3
+~
+~
+0 0 20486
+S
+#20488
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20461
+D1
+~
+~
+0 0 20489
+D2
+~
+~
+0 0 20519
+D3
+~
+~
+0 0 20487
+S
+#20489
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20462
+D1
+~
+~
+0 0 20490
+D2
+~
+~
+0 0 20520
+D3
+~
+~
+0 0 20488
+S
+#20490
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20463
+D1
+~
+~
+0 0 20491
+D2
+~
+~
+0 0 20521
+D3
+~
+~
+0 0 20489
+S
+#20491
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20464
+D1
+~
+~
+0 0 20492
+D2
+~
+~
+0 0 20522
+D3
+~
+~
+0 0 20490
+S
+#20492
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20465
+D1
+~
+~
+0 0 20493
+D2
+~
+~
+0 0 20523
+D3
+~
+~
+0 0 20491
+S
+#20493
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20466
+D1
+~
+~
+0 0 20494
+D2
+~
+~
+0 0 20524
+D3
+~
+~
+0 0 20492
+S
+#20494
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20467
+D1
+~
+~
+0 0 20495
+D2
+~
+~
+0 0 20525
+D3
+~
+~
+0 0 20493
+S
+#20495
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20468
+D1
+~
+~
+0 0 20496
+D2
+~
+~
+0 0 20526
+D3
+~
+~
+0 0 20494
+S
+#20496
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20469
+D1
+~
+~
+0 0 20497
+D2
+~
+~
+0 0 20527
+D3
+~
+~
+0 0 20495
+S
+#20497
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20470
+D1
+~
+~
+0 0 20498
+D2
+~
+~
+0 0 20528
+D3
+~
+~
+0 0 20496
+S
+#20498
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20471
+D1
+~
+~
+0 0 20499
+D2
+~
+~
+0 0 20529
+D3
+~
+~
+0 0 20497
+S
+#20499
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20472
+D1
+~
+~
+0 0 20500
+D2
+~
+~
+0 0 20530
+D3
+~
+~
+0 0 20498
+S
+#20500
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20473
+D1
+~
+~
+0 0 20501
+D2
+~
+~
+0 0 20531
+D3
+~
+~
+0 0 20499
+S
+#20501
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20474
+D1
+~
+~
+0 0 20502
+D2
+~
+~
+0 0 20532
+D3
+~
+~
+0 0 20500
+S
+#20502
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20475
+D1
+~
+~
+0 0 20503
+D2
+~
+~
+0 0 20533
+D3
+~
+~
+0 0 20501
+S
+#20503
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20476
+D1
+~
+~
+0 0 20504
+D2
+~
+~
+0 0 20534
+D3
+~
+~
+0 0 20502
+S
+#20504
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20477
+D1
+~
+~
+0 0 20505
+D2
+~
+~
+0 0 20535
+D3
+~
+~
+0 0 20503
+S
+#20505
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20478
+D1
+~
+~
+0 0 20506
+D2
+~
+~
+0 0 20536
+D3
+~
+~
+0 0 20504
+S
+#20506
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. An
+enormous mountain peak stretches far above your head to the north, preventing
+travel in that direction.
+~
+203 0 3
+D1
+~
+~
+0 0 20507
+D2
+~
+~
+0 0 20537
+D3
+~
+~
+0 0 20505
+S
+#20507
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing.
+~
+203 0 3
+D1
+~
+~
+0 0 20508
+D2
+~
+~
+0 0 20538
+D3
+~
+~
+0 0 20506
+S
+#20508
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues to the west and south while a small clearing opens up to the
+east.
+~
+203 0 3
+D1
+~
+~
+0 0 20509
+D2
+~
+~
+0 0 20539
+D3
+~
+~
+0 0 20507
+S
+#20509
+Spiritwood~
+   You fight your way through a thicket and emerge into a small clearing
+nestled against several large mountains to the west. You have multiple cuts
+and scratches all over your body, the effort to work through these woods is
+extremely tiring and it's dark in there - but, you can go back in to the
+south or west if you really want to.
+~
+203 0 3
+D2
+~
+~
+0 0 20540
+D3
+~
+~
+0 0 20508
+S
+#20510
+Spiritwood~
+   This huge, shadow-filled woodland is called Spiritwood. The trees have an
+almost enchanted look and show the signs of many ages of growth. Casting your
+eyes upwards, you can barely make out the mountain peaks which prevent
+travel to the west. You can make your way to the north around the edge of the
+woods or boldly enter them to the east.
+~
+203 0 3
+D0
+~
+~
+0 0 20479
+D1
+~
+~
+0 0 20511
+S
+#20511
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the
+darkness. The air hangs heavy with mist and pollen, making breathing
+difficult. The dense forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20480
+D1
+~
+~
+0 0 20697
+D2
+~
+~
+0 0 20542
+D3
+~
+~
+0 0 20510
+S
+#20512
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 a 3
+D0
+~
+~
+0 0 20481
+D1
+~
+~
+0 0 20513
+D2
+~
+~
+0 0 20543
+D3
+~
+~
+0 0 20574
+S
+#20513
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20482
+D1
+~
+~
+0 0 20514
+D2
+~
+~
+0 0 20544
+D3
+~
+~
+0 0 20512
+S
+#20514
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20483
+D1
+~
+~
+0 0 20696
+D2
+~
+~
+0 0 20545
+D3
+~
+~
+0 0 20513
+S
+#20515
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20484
+D1
+~
+~
+0 0 20516
+D2
+~
+~
+0 0 20546
+D3
+~
+~
+0 0 20605
+S
+#20516
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20485
+D1
+~
+~
+0 0 20517
+D2
+~
+~
+0 0 20547
+D3
+~
+~
+0 0 20515
+S
+#20517
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20486
+D1
+~
+~
+0 0 20518
+D2
+~
+~
+0 0 20548
+D3
+~
+~
+0 0 20516
+S
+#20518
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20487
+D1
+~
+~
+0 0 20519
+D2
+~
+~
+0 0 20549
+D3
+~
+~
+0 0 20517
+S
+#20519
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20488
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20550
+D3
+~
+~
+0 0 20518
+S
+#20520
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20489
+D1
+~
+~
+0 0 20521
+D2
+~
+~
+0 0 20551
+D3
+~
+~
+0 0 20519
+S
+#20521
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20490
+D1
+~
+~
+0 0 20522
+D2
+~
+~
+0 0 20552
+D3
+~
+~
+0 0 20520
+S
+#20522
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20491
+D1
+~
+~
+0 0 20523
+D2
+~
+~
+0 0 20553
+D3
+~
+~
+0 0 20521
+S
+#20523
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20492
+D1
+~
+~
+0 0 20524
+D2
+~
+~
+0 0 20554
+D3
+~
+~
+0 0 20522
+S
+#20524
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20493
+D1
+~
+~
+0 0 20525
+D2
+~
+~
+0 0 20555
+D3
+~
+~
+0 0 20523
+S
+#20525
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20494
+D1
+~
+~
+0 0 20526
+D2
+~
+~
+0 0 20556
+D3
+~
+~
+0 0 20524
+S
+#20526
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20495
+D1
+~
+~
+0 0 20527
+D2
+~
+~
+0 0 20557
+D3
+~
+~
+0 0 20525
+S
+#20527
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20496
+D1
+~
+~
+0 0 20528
+D2
+~
+~
+0 0 20558
+D3
+~
+~
+0 0 20526
+S
+#20528
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20497
+D1
+~
+~
+0 0 20529
+D2
+~
+~
+0 0 20559
+D3
+~
+~
+0 0 20527
+S
+#20529
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20498
+D1
+~
+~
+0 0 20530
+D2
+~
+~
+0 0 20560
+D3
+~
+~
+0 0 20528
+S
+#20530
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20499
+D1
+~
+~
+0 0 20531
+D2
+~
+~
+0 0 20561
+D3
+~
+~
+0 0 20529
+S
+#20531
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20500
+D1
+~
+~
+0 0 20532
+D2
+~
+~
+0 0 20562
+D3
+~
+~
+0 0 20530
+S
+#20532
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20501
+D1
+~
+~
+0 0 20533
+D2
+~
+~
+0 0 20563
+D3
+~
+~
+0 0 20531
+S
+#20533
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20502
+D1
+~
+~
+0 0 20534
+D2
+~
+~
+0 0 20564
+D3
+~
+~
+0 0 20532
+S
+#20534
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 aj 3
+D0
+~
+~
+0 0 20503
+D1
+~
+~
+0 0 20535
+D2
+~
+~
+0 0 20565
+D3
+~
+~
+0 0 20533
+S
+#20535
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20504
+D1
+~
+~
+0 0 20536
+D2
+~
+~
+0 0 20566
+D3
+~
+~
+0 0 20534
+S
+#20536
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20505
+D1
+~
+~
+0 0 20537
+D2
+~
+~
+0 0 20567
+D3
+~
+~
+0 0 20535
+S
+#20537
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20506
+D1
+~
+~
+0 0 20538
+D2
+~
+~
+0 0 20568
+D3
+~
+~
+0 0 20536
+S
+#20538
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20507
+D1
+~
+~
+0 0 20539
+D2
+~
+~
+0 0 20569
+D3
+~
+~
+0 0 20537
+S
+#20539
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20508
+D1
+~
+~
+0 0 20540
+D2
+~
+~
+0 0 20570
+D3
+~
+~
+0 0 20538
+S
+#20540
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20509
+D1
+~
+~
+0 0 20541
+D2
+~
+~
+0 0 20571
+D3
+~
+~
+0 0 20539
+S
+#20541
+End of the Road~
+   Breaking through the trees, you come upon a winding footpath leading uphill
+northward to a deserted-looking keep. Resting high on the treeless hillside,
+this place - decrepit though it may be - must provide a splendid view over
+the treetops of this dark woods.
+~
+203 m 16
+D0
+~
+~
+0 0 19701
+D1
+~
+~
+0 0 9619
+D2
+~
+~
+0 0 20572
+D3
+~
+~
+0 0 20540
+S
+#20542
+Spiritwood~
+   The air here in the seemingly-boundless forest is thick with insects and
+has a discernible odor. The enchanted trees growing around here look very old
+and hearty, having survived here for some time. Every now and again, you note
+a small forest creature eyeing you with interest. A small opening in the
+mountain-side lies to the west.
+~
+203 0 3
+D0
+~
+~
+0 0 20511
+D1
+~
+~
+0 0 20481
+D2
+~
+~
+0 0 20574
+D3
+~
+~
+0 0 10171
+S
+#20543
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of
+direction. The thick undergrowth in the forest appears to be interlaced with
+the trails of small game. Occasionally, you hear something scamper through the
+bracken nearby, although you see no movement in the foliage. The dark forest
+continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20512
+D1
+~
+~
+0 0 20544
+D3
+~
+~
+0 0 20607
+S
+#20544
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20513
+D1
+~
+~
+0 0 20545
+D3
+~
+~
+0 0 20543
+S
+#20545
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20514
+D3
+~
+~
+0 0 20544
+S
+#20546
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20515
+D1
+~
+~
+0 0 20547
+D2
+~
+~
+0 0 20578
+S
+#20547
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 a 3
+D0
+~
+~
+0 0 20516
+D1
+~
+~
+0 0 20548
+D2
+~
+~
+0 0 20579
+D3
+~
+~
+0 0 20546
+S
+#20548
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20517
+D1
+~
+~
+0 0 20549
+D2
+~
+~
+0 0 20580
+D3
+~
+~
+0 0 20547
+S
+#20549
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20518
+D1
+~
+~
+0 0 20550
+D2
+~
+~
+0 0 20581
+D3
+~
+~
+0 0 20548
+S
+#20550
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20519
+D1
+~
+~
+0 0 20551
+D2
+~
+~
+0 0 20582
+D3
+~
+~
+0 0 20549
+S
+#20551
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20552
+D2
+~
+~
+0 0 20583
+D3
+~
+~
+0 0 20550
+S
+#20552
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20521
+D1
+~
+~
+0 0 20553
+D2
+~
+~
+0 0 20584
+D3
+~
+~
+0 0 20551
+S
+#20553
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20522
+D1
+~
+~
+0 0 20554
+D2
+~
+~
+0 0 20585
+D3
+~
+~
+0 0 20552
+S
+#20554
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20523
+D1
+~
+~
+0 0 20555
+D2
+~
+~
+0 0 20586
+D3
+~
+~
+0 0 20553
+S
+#20555
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20524
+D1
+~
+~
+0 0 20556
+D2
+~
+~
+0 0 11914
+D3
+~
+~
+0 0 20554
+S
+#20556
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20525
+D1
+~
+~
+0 0 20557
+D2
+~
+~
+0 0 20588
+D3
+~
+~
+0 0 20555
+S
+#20557
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20526
+D1
+~
+~
+0 0 20558
+D2
+~
+~
+0 0 20589
+D3
+~
+~
+0 0 20556
+S
+#20558
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20527
+D1
+~
+~
+0 0 20559
+D2
+~
+~
+0 0 20590
+D3
+~
+~
+0 0 20557
+S
+#20559
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20528
+D1
+~
+~
+0 0 20560
+D2
+~
+~
+0 0 20591
+D3
+~
+~
+0 0 20558
+S
+#20560
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20529
+D1
+~
+~
+0 0 20561
+D2
+~
+~
+0 0 20592
+D3
+~
+~
+0 0 20559
+S
+#20561
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20530
+D1
+~
+~
+0 0 20562
+D2
+~
+~
+0 0 20593
+D3
+~
+~
+0 0 20560
+S
+#20562
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20531
+D1
+~
+~
+0 0 20563
+D2
+~
+~
+0 0 20594
+D3
+~
+~
+0 0 20561
+S
+#20563
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20532
+D1
+~
+~
+0 0 20564
+D2
+~
+~
+0 0 20595
+D3
+~
+~
+0 0 20562
+S
+#20564
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20533
+D1
+~
+~
+0 0 20565
+D2
+~
+~
+0 0 20596
+D3
+~
+~
+0 0 20563
+S
+#20565
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20534
+D1
+~
+~
+0 0 20566
+D2
+~
+~
+0 0 20597
+D3
+~
+~
+0 0 20564
+S
+#20566
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20535
+D1
+~
+~
+0 0 20567
+D2
+~
+~
+0 0 20598
+D3
+~
+~
+0 0 20565
+S
+#20567
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20536
+D1
+~
+~
+0 0 20568
+D2
+~
+~
+0 0 20599
+D3
+~
+~
+0 0 20566
+S
+#20568
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20537
+D1
+~
+~
+0 0 20569
+D2
+~
+~
+0 0 20600
+D3
+~
+~
+0 0 20567
+S
+#20569
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20538
+D1
+~
+~
+0 0 20570
+D2
+~
+~
+0 0 20601
+D3
+~
+~
+0 0 20568
+S
+#20570
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 a 3
+D0
+~
+~
+0 0 20539
+D1
+~
+~
+0 0 20571
+D2
+~
+~
+0 0 20602
+D3
+~
+~
+0 0 20569
+S
+#20571
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20540
+D1
+~
+~
+0 0 20572
+D2
+~
+~
+0 0 20603
+D3
+~
+~
+0 0 20570
+S
+#20572
+Spiritwood~
+   You stand at the beginning of a wide, dirt path which weaves its way
+through a mountain valley to the east and beyond. To the west, the trees
+of Spiritwood lie before you in an almost impenetrable wall of wood. The
+woods sound alive with life with you can see nothing beyond the treeline.
+~
+203 0 3
+D0
+~
+~
+0 0 20541
+D1
+~
+~
+0 0 9101
+D2
+~
+~
+0 0 20604
+D3
+~
+~
+0 0 20571
+S
+#20573
+Spiritwood~
+   The seemingly-endless woodland which lies before you to the east is known
+as Spiritwood. The strong trees stretch up towards the sky forming an
+effective barrier against light. You notice a tiny forest creature hiding
+in a lofty tree and it merely gazes at you before disappearing into the
+depths.
+~
+203 0 3
+D1
+~
+~
+0 0 20574
+D2
+~
+~
+0 0 20606
+S
+#20574
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20542
+D1
+~
+~
+0 0 20512
+D2
+~
+~
+0 0 20607
+D3
+~
+~
+0 0 20573
+S
+#20575
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20639
+D1
+~
+~
+0 0 20576
+D3
+~
+~
+0 0 20670
+S
+#20576
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20640
+D1
+~
+~
+0 0 20577
+D3
+~
+~
+0 0 20575
+S
+#20577
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20641
+D3
+~
+~
+0 0 20576
+S
+#20578
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20546
+D1
+~
+~
+0 0 20579
+D2
+~
+~
+0 0 20611
+S
+#20579
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20547
+D1
+~
+~
+0 0 20580
+D2
+~
+~
+0 0 20612
+D3
+~
+~
+0 0 20578
+S
+#20580
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20548
+D1
+~
+~
+0 0 20581
+D2
+~
+~
+0 0 20613
+D3
+~
+~
+0 0 20579
+S
+#20581
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20549
+D1
+~
+~
+0 0 20582
+D2
+~
+~
+0 0 20614
+D3
+~
+~
+0 0 20580
+S
+#20582
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20550
+D1
+~
+~
+0 0 20583
+D2
+~
+~
+0 0 20615
+D3
+~
+~
+0 0 20581
+S
+#20583
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20551
+D1
+~
+~
+0 0 20584
+D2
+~
+~
+0 0 20616
+D3
+~
+~
+0 0 20582
+S
+#20584
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20552
+D1
+~
+~
+0 0 20585
+D2
+~
+~
+0 0 20617
+D3
+~
+~
+0 0 20583
+S
+#20585
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20553
+D1
+~
+~
+0 0 20586
+D2
+~
+~
+0 0 20618
+D3
+~
+~
+0 0 20584
+S
+#20586
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20554
+D1
+~
+~
+0 0 11914
+D2
+~
+~
+0 0 20619
+D3
+~
+~
+0 0 20585
+S
+#20587
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20555
+D1
+~
+~
+0 0 20588
+D2
+~
+~
+0 0 20620
+D3
+~
+~
+0 0 20586
+S
+#20588
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20556
+D1
+~
+~
+0 0 20589
+D2
+~
+~
+0 0 20621
+D3
+~
+~
+0 0 11914
+S
+#20589
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20557
+D1
+~
+~
+0 0 20590
+D2
+~
+~
+0 0 20622
+D3
+~
+~
+0 0 20588
+S
+#20590
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20558
+D1
+~
+~
+0 0 20591
+D2
+~
+~
+0 0 20623
+D3
+~
+~
+0 0 20589
+S
+#20591
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20559
+D1
+~
+~
+0 0 20592
+D2
+~
+~
+0 0 20624
+D3
+~
+~
+0 0 20590
+S
+#20592
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 m 3
+D0
+~
+~
+0 0 20560
+D1
+~
+~
+0 0 20593
+D2
+~
+~
+0 0 20625
+D3
+~
+~
+0 0 20591
+S
+#20593
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20561
+D1
+~
+~
+0 0 20594
+D2
+~
+~
+0 0 20626
+D3
+~
+~
+0 0 20592
+S
+#20594
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20562
+D1
+~
+~
+0 0 20595
+D2
+~
+~
+0 0 20627
+D3
+~
+~
+0 0 20593
+S
+#20595
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20563
+D1
+~
+~
+0 0 20596
+D2
+~
+~
+0 0 20628
+D3
+~
+~
+0 0 20594
+S
+#20596
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20564
+D1
+~
+~
+0 0 20597
+D2
+~
+~
+0 0 20629
+D3
+~
+~
+0 0 20595
+S
+#20597
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20565
+D1
+~
+~
+0 0 20598
+D2
+~
+~
+0 0 20630
+D3
+~
+~
+0 0 20596
+S
+#20598
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20566
+D1
+~
+~
+0 0 20599
+D2
+~
+~
+0 0 20631
+D3
+~
+~
+0 0 20597
+S
+#20599
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20567
+D1
+~
+~
+0 0 20600
+D2
+~
+~
+0 0 20632
+D3
+~
+~
+0 0 20598
+S
+#20600
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20568
+D1
+~
+~
+0 0 20601
+D2
+~
+~
+0 0 20633
+D3
+~
+~
+0 0 20599
+S
+#20601
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20569
+D1
+~
+~
+0 0 20602
+D2
+~
+~
+0 0 20634
+D3
+~
+~
+0 0 20600
+S
+#20602
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20570
+D1
+~
+~
+0 0 20603
+D2
+~
+~
+0 0 20635
+D3
+~
+~
+0 0 20601
+S
+#20603
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20571
+D1
+~
+~
+0 0 20604
+D2
+~
+~
+0 0 20636
+D3
+~
+~
+0 0 20602
+S
+#20604
+Spiritwood~
+   A wide, dirt path commences here and travels to the east through a large
+gap in the mountains. Almost immediately to the west, the dense trees of
+Spiritwood loom skyward and you shiver unconsciously. A thick mist swirls
+around at ground level, disturbed by an unseen force beyond the treeline.
+~
+203 m 3
+D0
+~
+~
+0 0 20572
+D1
+~
+~
+0 0 9114
+D3
+~
+~
+0 0 20603
+S
+#20605
+Spiritwood~
+   You emerge into a grassy clearing and are confronted by rather formidable
+mountains to the south and west. You can take this opportunity to rest if you
+wish, or proceed into the gloomy forest.
+~
+203 0 3
+D0
+~
+~
+0 0 20668
+D1
+~
+~
+0 0 20515
+S
+#20606
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20573
+D1
+~
+~
+0 0 20607
+S
+#20607
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20574
+D1
+~
+~
+0 0 20543
+D3
+~
+~
+0 0 20606
+S
+#20608
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20679
+D1
+~
+~
+0 0 20609
+D3
+~
+~
+0 0 20641
+S
+#20609
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20680
+D1
+~
+~
+0 0 20610
+D3
+~
+~
+0 0 20608
+S
+#20610
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20681
+D3
+~
+~
+0 0 20609
+S
+#20611
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20578
+D1
+~
+~
+0 0 20612
+D2
+~
+~
+0 0 20642
+S
+#20612
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20579
+D1
+~
+~
+0 0 20613
+D2
+~
+~
+0 0 20643
+D3
+~
+~
+0 0 20611
+S
+#20613
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20580
+D1
+~
+~
+0 0 20614
+D2
+~
+~
+0 0 20644
+D3
+~
+~
+0 0 20612
+S
+#20614
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20581
+D1
+~
+~
+0 0 20615
+D2
+~
+~
+0 0 20645
+D3
+~
+~
+0 0 20613
+S
+#20615
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20582
+D1
+~
+~
+0 0 20616
+D2
+~
+~
+0 0 20646
+D3
+~
+~
+0 0 20614
+S
+#20616
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20583
+D1
+~
+~
+0 0 20617
+D2
+~
+~
+0 0 20647
+D3
+~
+~
+0 0 20615
+S
+#20617
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of
+direction. The thick undergrowth in the forest appears to be interlaced with
+the trails of small game. Occasionally, you hear something scamper through the
+bracken nearby, although you see no movement in the foliage. The dark forest
+continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20584
+D1
+~
+~
+0 0 20618
+D2
+~
+~
+0 0 20648
+D3
+~
+~
+0 0 20616
+S
+#20618
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20585
+D1
+~
+~
+0 0 20619
+D2
+~
+~
+0 0 20649
+D3
+~
+~
+0 0 20617
+S
+#20619
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20586
+D1
+~
+~
+0 0 20620
+D2
+~
+~
+0 0 20650
+D3
+~
+~
+0 0 20618
+S
+#20620
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of
+direction. The thick undergrowth in the forest appears to be interlaced with
+the trails of small game. Occasionally, you hear something scamper through the
+bracken nearby, although you see no movement in the foliage. The dark forest
+continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 11914
+D1
+~
+~
+0 0 20621
+D2
+~
+~
+0 0 20651
+D3
+~
+~
+0 0 20619
+S
+#20621
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20588
+D1
+~
+~
+0 0 20622
+D2
+~
+~
+0 0 20652
+D3
+~
+~
+0 0 20620
+S
+#20622
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20589
+D1
+~
+~
+0 0 20623
+D2
+~
+~
+0 0 20653
+D3
+~
+~
+0 0 20621
+S
+#20623
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20590
+D1
+~
+~
+0 0 20624
+D2
+~
+~
+0 0 20654
+D3
+~
+~
+0 0 20622
+S
+#20624
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20591
+D1
+~
+~
+0 0 20625
+D2
+~
+~
+0 0 20655
+D3
+~
+~
+0 0 20623
+S
+#20625
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20592
+D1
+~
+~
+0 0 20626
+D2
+~
+~
+0 0 20656
+D3
+~
+~
+0 0 20624
+S
+#20626
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20593
+D1
+~
+~
+0 0 20627
+D2
+~
+~
+0 0 20657
+D3
+~
+~
+0 0 20625
+S
+#20627
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20594
+D1
+~
+~
+0 0 20628
+D2
+~
+~
+0 0 20658
+D3
+~
+~
+0 0 20626
+S
+#20628
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20595
+D1
+~
+~
+0 0 20629
+D2
+~
+~
+0 0 20659
+D3
+~
+~
+0 0 20627
+S
+#20629
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20596
+D1
+~
+~
+0 0 20630
+D2
+~
+~
+0 0 20660
+D3
+~
+~
+0 0 20628
+S
+#20630
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20597
+D1
+~
+~
+0 0 20631
+D2
+~
+~
+0 0 20661
+D3
+~
+~
+0 0 20629
+S
+#20631
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20598
+D1
+~
+~
+0 0 20632
+D2
+~
+~
+0 0 20662
+D3
+~
+~
+0 0 20630
+S
+#20632
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20599
+D1
+~
+~
+0 0 20633
+D2
+~
+~
+0 0 20663
+D3
+~
+~
+0 0 20631
+S
+#20633
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20600
+D1
+~
+~
+0 0 20634
+D2
+~
+~
+0 0 20664
+D3
+~
+~
+0 0 20632
+S
+#20634
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20601
+D1
+~
+~
+0 0 20635
+D2
+~
+~
+0 0 20665
+D3
+~
+~
+0 0 20633
+S
+#20635
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20602
+D1
+~
+~
+0 0 20636
+D2
+~
+~
+0 0 20666
+D3
+~
+~
+0 0 20634
+S
+#20636
+Spiritwood~
+   This huge, shadow-filled woodland is called Spiritwood. The trees have an
+almost enchanted look and show the signs of many ages of growth. Casting your
+eyes upwards, you can barely make out the mountain peaks which prevent
+travel to the east. You can make your way to the north around the edge of the
+woods or boldly enter them to the west.
+~
+203 0 3
+D0
+~
+~
+0 0 20603
+D3
+~
+~
+0 0 20635
+S
+#20637
+Spiritwood~
+   From the edge of the woods, you notice that you have almost reached the
+southernmost area of Spiritwood. The trees are thining out slightly, but
+not enough to reveal the mysteries of the forest. A shrill bird call startles
+you but you can see no sign of movement and decide it may be worth moving
+on.
+~
+203 0 3
+D0
+~
+~
+0 0 20674
+D1
+~
+~
+0 0 20638
+D2
+~
+~
+0 0 20669
+D3
+~
+~
+0 0 20699
+S
+#20638
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the
+darkness. The air hangs heavy with mist and pollen, making breathing
+difficult. The dense forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20675
+D1
+~
+~
+0 0 20639
+D2
+~
+~
+0 0 20670
+D3
+~
+~
+0 0 20637
+S
+#20639
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20676
+D1
+~
+~
+0 0 20640
+D2
+~
+~
+0 0 20575
+D3
+~
+~
+0 0 20638
+S
+#20640
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20677
+D1
+~
+~
+0 0 20641
+D2
+~
+~
+0 0 20576
+D3
+~
+~
+0 0 20639
+S
+#20641
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20678
+D1
+~
+~
+0 0 20608
+D2
+~
+~
+0 0 20577
+D3
+~
+~
+0 0 20640
+S
+#20642
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20611
+D1
+~
+~
+0 0 20643
+D2
+~
+~
+0 0 20671
+S
+#20643
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20612
+D1
+~
+~
+0 0 20644
+D2
+~
+~
+0 0 20672
+D3
+~
+~
+0 0 20642
+S
+#20644
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20613
+D1
+~
+~
+0 0 20645
+D2
+~
+~
+0 0 20673
+D3
+~
+~
+0 0 20643
+S
+#20645
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 m 3
+D0
+~
+~
+0 0 20614
+D1
+~
+~
+0 0 20646
+D2
+~
+~
+0 0 20674
+D3
+~
+~
+0 0 20644
+S
+#20646
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20615
+D1
+~
+~
+0 0 20647
+D2
+~
+~
+0 0 20675
+D3
+~
+~
+0 0 20645
+S
+#20647
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20616
+D1
+~
+~
+0 0 20648
+D2
+~
+~
+0 0 20676
+D3
+~
+~
+0 0 20646
+S
+#20648
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20617
+D1
+~
+~
+0 0 20649
+D2
+~
+~
+0 0 20677
+D3
+~
+~
+0 0 20647
+S
+#20649
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20618
+D1
+~
+~
+0 0 20650
+D2
+~
+~
+0 0 20678
+D3
+~
+~
+0 0 20648
+S
+#20650
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 a 3
+D0
+~
+~
+0 0 20619
+D1
+~
+~
+0 0 20651
+D2
+~
+~
+0 0 20679
+D3
+~
+~
+0 0 20649
+S
+#20651
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20620
+D1
+~
+~
+0 0 20652
+D2
+~
+~
+0 0 20680
+D3
+~
+~
+0 0 20650
+S
+#20652
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20621
+D1
+~
+~
+0 0 20653
+D2
+~
+~
+0 0 20681
+D3
+~
+~
+0 0 20651
+S
+#20653
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20622
+D1
+~
+~
+0 0 20654
+D2
+~
+~
+0 0 20682
+D3
+~
+~
+0 0 20652
+S
+#20654
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20623
+D1
+~
+~
+0 0 20655
+D2
+~
+~
+0 0 20683
+D3
+~
+~
+0 0 20653
+S
+#20655
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20624
+D1
+~
+~
+0 0 20656
+D2
+~
+~
+0 0 20684
+D3
+~
+~
+0 0 20654
+S
+#20656
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20625
+D1
+~
+~
+0 0 20657
+D2
+~
+~
+0 0 20685
+D3
+~
+~
+0 0 20655
+S
+#20657
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20626
+D1
+~
+~
+0 0 20658
+D2
+~
+~
+0 0 20686
+D3
+~
+~
+0 0 20656
+S
+#20658
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20627
+D1
+~
+~
+0 0 20659
+D2
+~
+~
+0 0 20687
+D3
+~
+~
+0 0 20657
+S
+#20659
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20628
+D1
+~
+~
+0 0 20660
+D2
+~
+~
+0 0 20688
+D3
+~
+~
+0 0 20658
+S
+#20660
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20629
+D1
+~
+~
+0 0 20661
+D2
+~
+~
+0 0 20689
+D3
+~
+~
+0 0 20659
+S
+#20661
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20630
+D1
+~
+~
+0 0 20662
+D2
+~
+~
+0 0 20690
+D3
+~
+~
+0 0 20660
+S
+#20662
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. The dark forest continues
+in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20631
+D1
+~
+~
+0 0 20663
+D2
+~
+~
+0 0 20691
+D3
+~
+~
+0 0 20661
+S
+#20663
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue in any
+direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20632
+D1
+~
+~
+0 0 20664
+D2
+~
+~
+0 0 20692
+D3
+~
+~
+0 0 20662
+S
+#20664
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 a 3
+D0
+~
+~
+0 0 20633
+D1
+~
+~
+0 0 20665
+D2
+~
+~
+0 0 20693
+D3
+~
+~
+0 0 20663
+S
+#20665
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The dense
+forest continues in all directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20634
+D1
+~
+~
+0 0 20666
+D2
+~
+~
+0 0 20694
+D3
+~
+~
+0 0 20664
+S
+#20666
+Spiritwood~
+   The tall trees here have been partially cleared away, and a deep, wide pit
+has been dug into the ground. You peer over the edge carefully, and cannot see
+the bottom in the darkness. Far below, however, you hear the sounds of
+trickling water and suspect that there may be caves cut into the earth by an
+underground stream.
+~
+203 0 3
+D0
+~
+~
+0 0 20635
+D2
+~
+~
+0 0 20695
+D3
+~
+~
+0 0 20665
+S
+#20667
+Spiritwood~
+   A large pile of orc skulls has been left here, perhaps as a warning or
+deterrent to the remainder that inhabit these woods. What creature killed
+so many orcs is not clear, but it may not be safe to remain here to find
+out. The woods continue to the north and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20455
+D1
+~
+~
+0 0 20668
+S
+#20668
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue to the west,
+north and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20456
+D1
+~
+~
+0 0 20484
+D2
+~
+~
+0 0 20605
+D3
+~
+~
+0 0 20667
+S
+#20669
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination.
+~
+203 0 3
+D0
+~
+~
+0 0 20637
+D1
+~
+~
+0 0 20670
+D2
+~
+~
+0 0 20696
+D3
+~
+~
+0 0 20483
+S
+#20670
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever in every direction.
+~
+203 0 3
+D0
+~
+~
+0 0 20638
+D1
+~
+~
+0 0 20575
+D3
+~
+~
+0 0 20669
+S
+#20671
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue in all
+directions.
+~
+203 0 3
+D0
+~
+~
+0 0 20642
+D1
+~
+~
+0 0 20672
+D2
+~
+~
+0 0 20697
+D3
+~
+~
+0 0 20480
+S
+#20672
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20643
+D1
+~
+~
+0 0 20673
+D2
+~
+~
+0 0 20698
+D3
+~
+~
+0 0 20671
+S
+#20673
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20644
+D1
+~
+~
+0 0 20674
+D2
+~
+~
+0 0 20699
+D3
+~
+~
+0 0 20672
+S
+#20674
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20645
+D1
+~
+~
+0 0 20675
+D2
+~
+~
+0 0 20637
+D3
+~
+~
+0 0 20673
+S
+#20675
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue to the
+west, north and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20646
+D1
+~
+~
+0 0 20676
+D2
+~
+~
+0 0 20638
+D3
+~
+~
+0 0 20674
+S
+#20676
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20647
+D1
+~
+~
+0 0 20677
+D2
+~
+~
+0 0 20639
+D3
+~
+~
+0 0 20675
+S
+#20677
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness.
+~
+203 0 3
+D0
+~
+~
+0 0 20648
+D1
+~
+~
+0 0 20678
+D2
+~
+~
+0 0 20640
+D3
+~
+~
+0 0 20676
+S
+#20678
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage.
+~
+203 0 3
+D0
+~
+~
+0 0 20649
+D1
+~
+~
+0 0 20679
+D2
+~
+~
+0 0 20641
+D3
+~
+~
+0 0 20677
+S
+#20679
+Spiritwood~
+   You stand deep within the forest, listening intently for any sound of
+danger. Occasionally, you spot the tracks of some large animal which must have
+passed this way recently. The trees rise high above, their branches reaching
+downward toward you as if to ensnare you in their embrace, and hold you here
+forever in darkness. The forest seems to continue endlessly to the west,
+north and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20650
+D1
+~
+~
+0 0 20680
+D2
+~
+~
+0 0 20608
+D3
+~
+~
+0 0 20678
+S
+#20680
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing.
+~
+203 m 3
+D0
+~
+~
+0 0 20651
+D1
+~
+~
+0 0 20681
+D2
+~
+~
+0 0 20609
+D3
+~
+~
+0 0 20679
+S
+#20681
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing.
+~
+203 0 3
+D0
+~
+~
+0 0 20652
+D1
+~
+~
+0 0 20682
+D2
+~
+~
+0 0 20610
+D3
+~
+~
+0 0 20680
+S
+#20682
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest is nestled right against the mountains to the south
+and seems to continue forever to the west, north and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20653
+D1
+~
+~
+0 0 20683
+D3
+~
+~
+0 0 20681
+S
+#20683
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. The dark woods continue to the
+west, north and east.
+~
+203 m 3
+D0
+~
+~
+0 0 20654
+D1
+~
+~
+0 0 20684
+D3
+~
+~
+0 0 20682
+S
+#20684
+Spiritwood~
+   The seemingly boundless, gloomy forest in which you stand is known as
+Spiritwood. The strong trees rise far overhead and fill the air with a foul-
+smelling mist. Noises can be heard from the surrounding darkness but given 
+the immenseness of this place, you are unable to determine from where.
+~
+203 0 3
+D0
+~
+~
+0 0 20655
+D1
+~
+~
+0 0 20685
+D3
+~
+~
+0 0 20683
+S
+#20685
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. You can move around the
+edge of these woods to the west or east, or travel into the darkness to the
+north.
+~
+203 0 3
+D0
+~
+~
+0 0 20656
+D1
+~
+~
+0 0 20686
+D3
+~
+~
+0 0 20684
+S
+#20686
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue to the
+west, north and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20657
+D1
+~
+~
+0 0 20687
+D3
+~
+~
+0 0 20685
+S
+#20687
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. Your only saving grace is the sheer cliff face to the south which
+provides some sense of direction.
+~
+203 m 3
+D0
+~
+~
+0 0 20658
+D1
+~
+~
+0 0 20688
+D3
+~
+~
+0 0 20686
+S
+#20688
+Spiritwood~
+  You stand amidst the tall, dark trees in the dark forest the orcs call
+Spiritwood. You notice that the tall, mystical trees in this area appear to
+be quite old and fill the thick air with a rotten-grey pollen. The intense
+heat is starting to affect you and you swear you can hear whispering in the
+trees. For as far as the eye can see, these gloomy woods continue to the
+west, north and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20659
+D1
+~
+~
+0 0 20689
+D3
+~
+~
+0 0 20687
+S
+#20689
+Spiritwood~
+   This huge, mystical woodland is known simply as Spiritwood; the origin
+of such a name unknown to you. The evil, lofty trees in this part of the
+forest emit a strange, yellowish pollen. Every once in a while, you note a
+small forest animal crouching in the darkness but before you can approach,
+it is gone.
+~
+203 0 3
+D0
+~
+~
+0 0 20660
+D1
+~
+~
+0 0 20690
+D3
+~
+~
+0 0 20688
+S
+#20690
+Spiritwood~
+   The air here is hot, foul-smelling and incredibly stale. It's as if there
+is no air flow within these woods which is not so hard to believe. The lofty
+trees tower high above your head and block out almost all sources of natural
+light. Sounds echo around in the darkness and you quickly lose any sense of
+bearing. This vast forest seems to continue forever to the west, north and
+east.
+~
+203 0 3
+D0
+~
+~
+0 0 20661
+D1
+~
+~
+0 0 20691
+D3
+~
+~
+0 0 20689
+S
+#20691
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. Your
+feet are also lost in a swirl of fog and moving is becoming increasingly
+difficult as you take care not to trip on anything.
+~
+203 0 3
+D0
+~
+~
+0 0 20662
+D1
+~
+~
+0 0 20692
+D3
+~
+~
+0 0 20690
+S
+#20692
+Spiritwood~
+   Dense trees close in around you, causing you to lose all sense of direction.
+The thick undergrowth in the forest appears to be interlaced with the trails
+of small game. Occasionally, you hear something scamper through the bracken
+nearby, although you see no movement in the foliage. Several small rocks
+tumble down from on high, probably dislodged by some mountain-dwelling
+creature.
+~
+203 0 3
+D0
+~
+~
+0 0 20663
+D1
+~
+~
+0 0 20693
+D3
+~
+~
+0 0 20691
+S
+#20693
+Spiritwood~
+   The dark trees here tower overhead, blocking any traces of light or fresh
+air. Strange echoes from the trees play tricks on your imagination, making you
+feel that someone or something must be watching you from within the branches.
+At least, you hope it's only your imagination. You can enter the dark woods to
+the north or skirt the edge to the west and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20664
+D1
+~
+~
+0 0 20694
+D3
+~
+~
+0 0 20692
+S
+#20694
+Spiritwood~
+   The air in this part of the forest is positively stifling - the sky
+blanketed with dark, leafy branches holding in the oppressive, stagnant air.
+The silent trees grow thick here, making sounds echo strangely in the darkness.
+The air hangs heavy with mist and pollen, making breathing difficult. The edge
+of the woods continues to the west and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20665
+D1
+~
+~
+0 0 20695
+D3
+~
+~
+0 0 20693
+S
+#20695
+Spiritwood~
+   You fight your way through a thicket and emerge into a small clearing
+nestled against several large mountains to the east. You have multiple cuts
+and scratches all over your body, the effort to work through these woods is
+extremely tiring and it's dark in there - but, you can go back in to the
+west if you really want to.
+~
+203 0 3
+D0
+~
+~
+0 0 20666
+D3
+~
+~
+0 0 20694
+S
+#20696
+Spiritwood~
+   There is a definate chill in the air as you reach the southern boundary
+of Spiritwood. As for most of these woods, large mountains surround the
+perimeter and prevent any further travel beyond the extremities. Casting
+your gaze to the east, an almost vertical cliff-face stretches away - it
+looks more like it was constructed rather than formed.
+~
+203 0 3
+D0
+~
+~
+0 0 20669
+D3
+~
+~
+0 0 20514
+S
+#20697
+Spiritwood~
+   Several pair of red eyes stare at you intently from the safety of the
+darkness to the north, either inquisitive looks or perhaps sizing up their
+next meal. High mountain peaks prevent passage to the south and stretch as
+far as the eye can see to the west and east.
+~
+203 0 3
+D0
+~
+~
+0 0 20671
+D1
+~
+~
+0 0 20698
+D2
+~
+~
+0 0 20481
+D3
+~
+~
+0 0 20511
+S
+#20698
+Spiritwood~
+   Cold, mountain air rushes past you from the high peaks above. The trees
+of Spiritwood to the north almost act as an impenetrable wall, hence the
+air circulates solely in this area creating quite a breeze. The sounds of
+life abound from the depths of the forest but light does not penetrate the
+canopy and you cannot see any deeper beyond the first few trees.
+~
+203 0 3
+D0
+~
+~
+0 0 20672
+D1
+~
+~
+0 0 20699
+D2
+~
+~
+0 0 20482
+D3
+~
+~
+0 0 20697
+S
+#20699
+Spiritwood~
+   You stand amidst the strong, dark trees in the enchanted woodland the orcs
+call Spiritwood. The enchanted, strong trees here seem to emit a difficult-to-
+breathe, green dust. There are a couple of odd-looking bushes on the rocky
+forest floor in this part of the forest and you give them as wide a berth as
+you can.
+~
+203 0 3
+D0
+~
+~
+0 0 20673
+D1
+~
+~
+0 0 20637
+D2
+~
+~
+0 0 20483
+D3
+~
+~
+0 0 20698
+S
+$~

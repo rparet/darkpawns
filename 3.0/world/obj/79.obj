@@ -1,0 +1,366 @@
+#7901
+cape vampiric~
+a vampiric cape~
+A black velvet cape with red lining lies here.~
+~
+11 fg ak t
+8 0 0 0 2
+5 3 3500 20 0 1
+E
+cape vampiric~
+This ethereal cape is barely visible, although it emits a faint red mist.
+~
+A
+19 2
+#7903
+small card~
+a small card~
+A small card has been tossed aside.~
+~
+13 cm a 0
+0 0 0 0 0
+1 3 1 100 0 1
+E
+small card~
+The card contains a few simple instructions and price list:
+
+LIST to determine what items can be forged and BUY <item> to have an item
+created for you. Please ensure you have the scales of a dragon and the
+correct amount of gold before disturbing me.
+
+Dragon Scale Gloves - 2000 gold, 1 dragon scale
+Dragon Scale Leggings or Sleeves - 5000 gold, 3 dragon scales
+Dragon Scale Breastplate - 9000 gold, 5 dragon scales
+~
+#7904
+stake wooden~
+a wooden stake~
+A crudely sharpened stake lies here.~
+~
+5 i an 0
+6 1 4 14 7
+1 1 15 100 0 1
+#7905
+dagger spike silver~
+a silver spike~
+A silver spike lies here.~
+~
+5 i an 0
+6 1 4 14 5
+2 1 25 100 0 1
+#7906
+gloves dragon scale~
+a pair of dragon-scale gloves~
+A pair of dragon-scale gloves has been carelessly left here.~
+~
+9 g ah 0
+7 0 0 0 1
+3 3 2000 100 0 1
+E
+dragon scale gloves~
+The gloves radiate a magical glow and have been expertly crafted from the
+scales of a dragon.
+~
+A
+19 1
+A
+23 -1
+A
+7 -1
+#7907
+leggings dragon scale~
+some dragon-scale leggings~
+A magnificient set of dragon-scale leggings lies forgotten.~
+~
+9 g af 0
+13 0 0 0 1
+7 3 5000 100 0 1
+E
+dragon scale leggings~
+The leggings glisten softly with a magical glow having been crafted by an
+expert forger. They look as if they will offer you good protection.
+~
+A
+19 2
+A
+24 -1
+A
+7 -1
+#7908
+sleeves dragon scale~
+some dragon scale sleeves~
+A wonderfully crafted set of dragon scale sleeves lies nearby.~
+~
+9 g ai 0
+13 0 0 0 1
+5 3 5000 100 0 1
+E
+dragon scale sleeves~
+The sleeves fit you comfortably and you feel a slight buzz pass through
+your body.
+~
+A
+19 2
+A
+27 2
+A
+7 -1
+#7909
+breastplate dragon scale breast plate~
+a dragon scale breastplate~
+A magnificent breastplate made from dragon scales has been left here.~
+~
+9 g ad 0
+18 0 0 0 1
+15 3 9000 100 0 1
+E
+dragon scale breast plate breastplate~
+This piece is remarkable! It glows with a mystical brightness and seems to
+reflect the majority of the ambient light. It is rather heavy but should
+afford you great protection from your foes.
+~
+A
+7 -1
+#7910
+staff zen~
+the zen staff~
+A simple, well-worn staff is lying here.~
+~
+5 gkl an 0
+3 6 9 5 2
+9 3 4500 100 0 1
+A
+26 2
+A
+27 1
+R
+3 3
+#7911
+horn white spiralled~
+a white, spiralled horn~
+A length of twisted bone glows softly, here.~
+~
+4 a ao 0
+100 3 3 52 0
+6 3 5500 20 0 1
+E
+horn long twisted spiralled unicorn~
+Two lengths of glowing, white bone spiral about each other, forming a long,
+twisted spike. You can feel its power as you run your hand down the length
+of the bones... this could only be the horn of the elusive unicorn!
+~
+A
+6 2
+A
+24 -2
+#7912
+helm ancient dwarven~
+an ancient dwarven helm~
+An ancient helm of dwarven design rests here.~
+~
+9 agk ae 0
+15 0 0 0 1
+7 3 8200 10 0 1
+A
+7 1
+#7913
+chakram band~
+Chakram~
+A band of gold lies here.~
+~
+5 gk an 0
+3 8 6 0 3
+1 3 4000 9 0 1
+A
+19 2
+A
+18 1
+R
+3 3
+#7914
+dagger twisted assassin blade~
+a twisted dagger~
+An assassin's dagger with a twisted blade lies in the dirt here.~
+~
+5 gj an 0
+6 5 4 11 2
+4 1 4900 10 0 1
+E
+dagger twisted assassin blade~
+A jagged, rusty blade spirals its way up from a worn sandalwood grip. Though
+crude and unglamorous, the dagger is obviously an effective instrument of 
+death as its bloodstained blade demonstrates.
+~
+A
+19 1
+A
+18 1
+R
+6 4
+#7915
+sword holy~
+a holy sword~
+A holy-looking sword lies on the ground here.~
+~
+5 aeikl an 0
+1 5 7 3 1
+7 2 10000 8 0 1
+A
+18 4
+A
+19 4
+R
+1 3
+#7916
+gloves mithril chain~
+a pair of mithril chain gloves~
+A pair of mithril chain gloves lies here.~
+~
+9 0 ah 0
+3 0 0 0 3
+2 3 900 15 0 1
+A
+17 5
+#7917
+belt mithril chain~
+a mithril chain belt~
+A mithril chain belt lies here.~
+~
+9 0 al 0
+3 0 0 0 3
+2 3 300 15 0 1
+A
+17 5
+#7918
+boots mithril chain~
+a pair of mithril chain boots~
+A pair of mithril chain boots lies here.~
+~
+9 0 ag 0
+2 0 0 0 3
+2 3 300 15 0 1
+A
+17 5
+#7919
+mask mithril chain~
+a mithril chain mask~
+A mithril chain mask lies here.~
+~
+9 0 ar 0
+2 0 0 0 3
+2 3 300 30 0 1
+A
+17 5
+#7920
+sleeves mithril chain~
+a pair of mithril chain sleeves~
+A pair of mithril chain sleeves lies here.~
+~
+9 0 ai 0
+5 0 0 0 3
+5 2 600 30 0 1
+A
+17 5
+#7921
+cap mithril chain~
+a mithril chain cap~
+A mithril chain cap lies here.~
+~
+9 0 ae 0
+3 0 0 0 3
+3 3 600 30 0 1
+A
+17 5
+#7922
+skirt mithril chain~
+a mithril chain skirt~
+A mithril chain skirt lies here.~
+~
+9 0 aq 0
+7 0 0 0 3
+10 3 300 30 0 1
+A
+17 5
+#7923
+leggings mithril chain~
+a pair of mithril chain leggings~
+A pair of mithril chain leggings lies here.~
+~
+9 0 af 0
+9 0 0 0 3
+8 3 900 30 0 1
+A
+17 5
+#7924
+vest mithril chain~
+a mithril chain vest~
+A mithril chain vest lies here.~
+~
+9 0 ad 0
+9 0 0 0 3
+10 3 900 30 0 1
+A
+17 5
+#7925
+necklace head shrunken~
+a necklace of shrunken heads~
+A collection of shrunken heads has been fashioned into a crude necklace.~
+~
+8 0 ac 0
+0 0 0 0 7
+5 3 50 100 0 1
+E
+necklace head shrunken~
+A number of shrunken heads have been crudely attached to the necklace and
+you recognise:
+
+~
+#7926
+cloak mithril~
+a mithril cloak~
+A long mithril cloak glistens here.~
+~
+9 0 ak 0
+10 0 0 0 3
+6 3 550 50 0 1
+#7927
+helm mithril chain~
+a mithril chain helm~
+A mithril chain helm lies here.~
+~
+9 0 ae 0
+5 0 0 0 3
+6 2 800 30 0 1
+A
+17 5
+#7928
+shield mithril chain~
+a mithril chain shield~
+A mithril chain shield lies here.~
+~
+9 0 aj 0
+7 0 0 0 3
+12 3 1000 30 0 1
+A
+17 5
+#7929
+neckguard mithril chain~
+a mithril chain neckguard~
+A mithril chain neckguard lies here.~
+~
+9 0 ac 0
+2 0 0 0 3
+5 3 350 30 0 1
+A
+17 5
+#7930
+wristguard wrist guard mithril chain~
+a mithril chain wrist-guard~
+A mithril chain wrist-guard lies here.~
+~
+9 0 am 0
+2 0 0 0 3
+3 3 250 30 0 1
+A
+17 5
+$~

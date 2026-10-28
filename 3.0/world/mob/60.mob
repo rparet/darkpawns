@@ -1,0 +1,68 @@
+#6000
+dune stalker~
+a dune stalker~
+A dune stalker roams the desert, searching for its summoner.
+~
+It looks like a naked human, with clawed fingers and toes. Its bony appearance
+belies its true nature as a creature of great strength.
+~
+dgtu dkst -500 E
+90 176 90d8+2561 8d8
+40 42690
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#6001
+sandworm enormous sand worm~
+an enormous sandworm~
+An enormous, reticulated worm writhes up from a steaming sandpit.
+~
+The sand becomes totally flaccid, melting beneath your feet, and the desert
+floor trembles violently. Erupting out of the blistering crystal a gigantic
+worm rises high overhead and then crashes to the ground mere inches from your
+feet.
+~
+defghnpqru dfk -200 E
+93 183 93d8+2690 8d8
+0 44842
+8 8 0
+BareHandAttack: 10
+Race: 7
+Noise: A nearby blast fills the air with particles of smoking sand.
+E
+#6002
+amphisbaena lizard carve_meat~
+an amphisbaena~
+A great lizard crawls up from a scorching sand-pit.
+~
+It crawls forth slowly from a steaming sand-pit, its rough, leathery skin
+burned black all along its underside, and glowing red along the center of
+its horny backside. Dual heads mounted at opposite ends of its body raise
+alternately, scanning the area.
+~
+dgiquv dfk 400 E
+78 149 78d8+2066 6d7
+0 34443
+8 8 1
+BareHandAttack: 4
+Race: 29
+E
+#6003
+desert wing bat~
+a desert wing~
+A large bat-like creature circles above you.
+~
+Sharing many similarities with the common bat, these creatures have adapted
+well to the desert environment. With large wings and sandy covered skin, the
+desert wings soar with thermal currents and spend the night burrowed into the
+sand.
+~
+dehquz fkpA 0 E
+9 12 9d8+81 3d3
+0 1350
+8 8 0
+BareHandAttack: 8
+Race: 10
+E
+$

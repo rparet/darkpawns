@@ -1,0 +1,506 @@
+#7900
+Anastatia~
+Anastatia~
+Anastatia is here, searching for demons.
+~
+She is a young, beautiful human, charged by her religion with a horrible
+quest: To seek out and destroy demons - the bane of humanity. A pity really,
+as she is quite beautiful, but beneath those shy and naive-looking eyes lives
+the soul of a killer. Don't mess with her.
+~
+cdlptA dhkm 400 E
+93 183 93d8+2690 8d8
+666 44842
+8 8 2
+Race: 1
+Script: breed_killer.lua 384
+E
+#7901
+talon~
+Talon~
+Talon is here, looking for his brother.
+~
+Talon is a tall elf with blond hair and icy blue eyes. His fair skin is
+flawless, with the exception of a narrow scar that runs across his neck -
+the result of a failed assassination attempt. He is looking for his lost
+brother.
+~
+cdehlqxA dhknps -600 E
+100 199 100d8+3000 9d9
+400 50000
+8 8 1
+Race: 1
+Script: fighter.lua 256
+E
+#7902
+dag barbarian~
+Dag, the barbarian~
+Dag grunts in your general direction.
+~
+Dag is a big, mean, smelly barbarian. He takes one look at you and snorts
+loudly, disgusted by your sophistication.
+~
+cdlnprstA dkp -350 E
+100 199 100d8+3000 9d9
+200 50000
+8 8 1
+Race: 1
+Script: fighter.lua 256
+E
+#7903
+dracula figure~
+Dracula~
+A black cloaked figure sweeps by you and disappears.
+~
+Dracula stares back at you, his cold eyes peering deep into your soul. You
+feel mesmerized...
+~
+cdlptA dfghk -700 E
+96 190 96d8+2821 8d9
+50 47030
+8 8 1
+BareHandAttack: 4
+Race: 35
+Script: dracula.lua 512
+E
+#7904
+war horseman apocalypse man~
+War~
+War rides through on a horse black as night.
+~
+War is one of the four horsemen of the Apocalypse. Clothed head-to-toe in
+black armor, he fears no mortal man.
+~
+cdlpstA dghk -700 E
+93 183 93d8+2690 8d8
+50 44842
+8 8 1
+BareHandAttack: 12
+Race: 12
+E
+#7905
+Death horseman apocalypse man~
+Death~
+Death rides on a pale horse.
+~
+Death is one of the four horsemen of the Apocalypse. This skeletal figure has
+one goal: to collect souls for judgment. It looks as though he has decided to
+start with yours.
+~
+cdlpstA dghk -700 E
+93 183 93d8+2690 8d8
+50 44842
+8 8 1
+BareHandAttack: 12
+Race: 12
+E
+#7906
+Famine horseman apocalypse man~
+Famine~
+An imposing man on a black horse rides here.
+~
+Famine is one of the four horsemen of the Apocalypse. Although wearing only
+rags, his immortal stature makes him a threat to your very existence.
+~
+cdlpstA dgk -700 E
+93 183 93d8+2690 8d8
+50 44842
+8 8 1
+BareHandAttack: 12
+Race: 12
+E
+#7907
+Pestilence horseman apocalypse man~
+Pestilence~
+Pestilence rides here on a lame horse.
+~
+Pestilence is one of the four horsemen of the Apocalypse. Spreading disease
+and death across the land, he pays little attention to the living.
+~
+cdlpstA dgk -700 E
+93 183 93d8+2690 8d8
+50 44842
+8 8 1
+BareHandAttack: 12
+Race: 12
+E
+#7908
+Quetzalcoatl snake~
+Quetzalcoatl~
+The mighty Quetzalcoatl hovers before you.
+~
+Quetzalcoatl is a giant feathered snake. The Ssaurs and Lizardmen worship him
+as a trickster god - both benevolent and destructive at the same time.
+Standing before him, you feel a sense of awe - and fear.
+~
+dlnpqrsA dhkpA 0 E
+100 199 100d8+3000 9d9
+1000 50000
+8 8 1
+BareHandAttack: 12
+Race: 12
+E
+#7909
+elf elven avenger~
+the elven avenger~
+A sharply-dressed, lithe elf adventures here.
+~
+He looks very strong and agile. Muscles ripple beneath his green tunic, and
+his eyes seem to size you up with a glance. He's easily the scariest elf
+you've ever seen.
+~
+dnpstA dk 1000 E
+90 176 90d8+2561 8d8
+120 42690
+8 8 1
+Race: 1
+Script: rescuer.lua 128
+E
+#7910
+killer hunter nightbreed~
+a nightbreed hunter~
+A nightbreed hunter is here, looking for weres and vamps.
+~
+He's muttering something about revenge, and seems quite insane with rage.
+~
+dls dfhk 500 E
+90 176 90d8+2561 8d8
+550 42690
+8 8 1
+Race: 1
+Script: breed_killer.lua 384
+E
+#7911
+assassin man~
+an assassin~
+An assassin hunts you down.
+~
+He is a lithe, foreign-looking man who wears a constant sneer across his
+scarred face.
+~
+dehlnpsx dknps -800 E
+100 199 100d8+3000 9d9
+1230 50000
+8 8 1
+Race: 2
+E
+#7912
+spy far off land~
+a spy~
+A spy from a far-off land sneaks about.
+~
+Although he tries to remain unobtrusive, this foreign spy sticks out like a
+sore thumb.
+~
+cdehlsx dks -500 E
+93 183 93d8+2690 8d8
+2222 44842
+8 8 1
+Race: 2
+E
+#7913
+shambler~
+the Shambler~
+A huge mound of rotting vegetation shambles toward you.
+~
+No one knows how the Shambler came to be, one day it just seemed to appear. It
+stands ten feet tall, and is composed of rotting leaves, decomposing wood, and
+putrid vines. Two moldy, quivering stumps hang from its sides, slimy roots
+flailing wildly about. It has no legs, instead moving like a slug, leaving a
+trail of thick, green-tinted slime.
+~
+dlnqtA dgk -800 E
+100 199 100d8+3000 9d9
+8 50000
+8 8 0
+BareHandAttack: 10
+Race: 36
+E
+#7914
+behemoth~
+the Behemoth~
+The huge, green scaled Behemoth is here, eating everything in sight.
+~
+The behemoth is huge. It's at least fifty feet long and twenty feet tall. Its
+huge jaw clamps down on everything it sees. It has two bulging, red eyes on
+the front of its reptilian face, each as large as your head. The mottled-green
+scales covering its body look thicker than the plates of steel used to make
+the strongest of armors.
+~
+deflpqstxA dghk -1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 0
+BareHandAttack: 4
+Race: 29
+Noise: The earth shakes.
+E
+#7915
+paladin mighty man~
+a Mighty Paladin~
+A Mighty Paladin searches for evil things to destroy.
+~
+He is a tall, handsome human, dressed in full battle armor. His white armor
+gleams in the sunlight, and he smiles as he surveys the landscape in front of
+him.
+~
+dehlpsA dhkmp 900 E
+96 190 96d8+2821 8d9
+100 47030
+8 8 1
+Race: 1
+Script: paladin.lua 256
+E
+#7916
+barnstad dwarf old ancient~
+Barnstad~
+An old dwarf treks across the countryside.
+~
+Barnstad's entire race was nearly wiped out by the Dark One hundreds of years
+ago. He used to be a happy man, and a fine craftsman. But now, his friends are
+all dead, battle scars mar his face, and all that is left within is hatred.
+~
+delpsxA dghkmp 900 E
+96 190 96d8+2821 8d9
+500 47030
+8 8 1
+Race: 2
+E
+#7917
+ssauran forger wise old lizard man~
+a ssauran forger~
+A wise, old lizard man smiles warmly as he passes you by.
+~
+Despite his age and frail appearance, you have a strange feeling that not
+all is as it seems. There is a sparkle in his eye as he returns your gaze
+and he gives you a small nod in acknowledgment.
+~
+dlnpA dfk 1000 E
+93 183 93d8+2690 8d8
+100 44842
+8 8 1
+BareHandAttack: 8
+Race: 5
+Script: dragon_forger.lua 512
+E
+#7918
+death dealer~
+Death Dealer~
+The Death Dealer looks over you coldly.
+~
+A tall, otherworldly man in jet black armor with a sinister lochaber. The
+Death Dealer wanders the world in search of souls for his demonic masters.
+~
+dlnpstA dfghk -1000 E
+96 190 96d8+2821 8d9
+3300 47030
+8 8 1
+Race: 1
+Script: paladin.lua 256
+E
+#7919
+zen master~
+the Zen Master~
+An ancient Zen master wanders about.
+~
+He walks about, aware of the world, but at the same time aware of another
+reality completely. He has found the inner peace.
+~
+denpA dhkm 1000 E
+93 183 93d8+2690 8d8
+0 44842
+8 8 1
+Race: 0
+Script: zen_master.lua 256
+E
+#7920
+head shrinker man tribal~
+the head shrinker~
+A small man of tribal origin dances before you.
+~
+Standing only 4 feet tall, the individual before you still manages to scare
+you with the evil grin he now has directed at you. He wears a meager outfit
+made from long strands of grass and has a collection of skulls around his
+neck.
+~
+cdhnA 0 -1000 E
+48 85 48d8+997 5d5
+200 16627
+8 8 1
+Race: 2
+Script: head_shrinker.lua 512
+E
+#7921
+remorter man~
+the remorter~
+An aged man stands here, selling used souls.
+~
+A grey goatee matches tangled shoulder-length hair. An aura of great
+power surrounds him.
+~
+adlnpA dhk 0 E
+93 183 93d8+2690 8d8
+1000 44842
+8 8 1
+Race: 0
+E
+#7922
+recharger man~
+the recharger~
+An old man carrying a bundle of staves and wands stands here.
+~
+He looks like a half-elf, and has a very dour expression on his face. Perhaps
+he is tired of selling his goods (or services?)
+~
+adhlnsA h 0 E
+90 176 90d8+2561 8d8
+0 42690
+8 8 1
+Noise: Someone yells out, "Recharge your staves here! Recharge your wands!"
+E
+#7924
+wight lord~
+a wight lord~
+A wight lord searches out its next victim.
+~
+A lord of the undead, this creature is fearsome to say the least! It has a
+misshapen body, as if distorted by pain in numerous areas yet it moves quickly
+and without much sound toward its prey. A pair of soulless eyes focus on
+you as the creature gives what can only be described as an evil grin.
+~
+dfnprA dfk -1000 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 0
+BareHandAttack: 12
+Race: 32
+E
+#7969
+black cloaked wanderer mysterious man~
+a black-cloaked wanderer~
+A mysterious man in a long black cloak wanders about.
+~
+To say that he is inconspicuous would be an understatement. You find that if
+you don't concentrate on following his movements every second, you lose track
+of exactly what he is doing.
+~
+delnprstA dghkp -700 E
+100 199 100d8+3000 9d9
+50 50000
+8 8 1
+BareHandAttack: 12
+Race: 12
+Script: magic_user.lua 256
+E
+#7970
+unicorn~
+the Unicorn~
+A beautiful white horse with a single, spiral horn stands here.
+~
+The Unicorn is an ancient, mystical creature, the symbol of Life in druidic
+religions. There is rumored to be only a single one in the entire world.
+~
+delnprA dghkmp 1000 E
+93 183 93d8+2690 8d8
+0 44842
+8 8 2
+BareHandAttack: 9
+Race: 33
+Script: cleric.lua 256
+E
+#7971
+dymas teacher mage~
+Dymas~
+A wandering mage nods politely as you pass each other.
+~
+A soft glow surrounds the mage before you, and his kindly face and warm smile
+set you at ease instantly. He has the look of a well-traveled scholar..
+perhaps you might learn a thing or two from him?
+~
+dA dfhk -700 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 2
+Script: teacher.lua 512
+E
+#7972
+kahtra scholar teacher~
+Kahtra~
+A scholar wanders past, her head buried deep in a book.
+~
+Wrapped in a forest-green cloak and wearing simple leather boots, the
+individual before you would look suited to almost any environment she was
+placed in. Even though she is absorbed in her reading, she still has an accute
+awareness of her surroundings.
+~
+dA f 1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 2
+Race: 2
+Script: teacher.lua 512
+E
+#7973
+amandil warrior~
+Amandil~
+A battle-weary warrior trudges past you.
+~
+You need only look at this warrior briefly to determine that combat with him
+would be hazardous to your health! Scars cover his body, and it is apparent
+that he wears no armor...not that he needs to, his sheer size and weight alone
+are enough to deter most would-be attackers. Perhaps he could teach you a
+thing or two about combat?
+~
+denpq 0 0 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+Race: 19
+Script: teacher.lua 1
+E
+#7979
+kender thief~
+a kender~
+A wide-eyed kender is here, adventuring.
+~
+Complete with top-knot and rows and rows of pouches, he looks to have been
+adventuring for some time. His happy countenance is marked with a look of
+much experience.
+~
+d ks 0 E
+48 85 48d8+997 5d5
+0 16627
+8 8 1
+Race: 3
+Script: eq_thief.lua 128
+E
+#7980
+xena princess warrior~
+Xena, warrior princess~
+Xena, warrior princess, searches for new adventure.
+~
+Wearing a low-cut, steel-breasted garment that leaves little to the
+imagination, she's an intelligent vixen who kicks ass and doesn't bother to
+take names.
+~
+delsA dkp 600 E
+96 190 96d8+2821 8d9
+25 47030
+8 8 2
+Race: 0
+E
+#7981
+space gnome~
+a space gnome~
+A devilish space gnome is here.
+~
+These little buggers are the scum of the universe.
+Whack 'em.
+~
+dhA bp 0 E
+15 22 15d8+174 3d4
+0 2904
+8 8 1
+E
+$

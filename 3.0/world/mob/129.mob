@@ -1,0 +1,369 @@
+#12900
+Xiaoming tempest~
+Xiaoming~
+A beautiful tempest eyes you seductively.
+~
+Face painted stark-white, with rosy red cheeks and deep black-painted liquid
+eyes, Xiaoming is a very beautiful lady, indeed. Delicate, silken eyelashes
+shutter extraordinary black eyes, and her hair is neatly-trimmed to ear-
+length. She wears a low-cut, long, black kimono with a golden dragon on it,
+and its snaky body wraps around the entire length. Xiaoming is a seductress,
+and an assassin for the Liu'she Ch'uan Tong; her beauty combined with near-
+perfect skill makes her an incredibly dangerous foe.
+~
+dglmnpr dfhs 0 E
+75 143 75d8+1948 6d7
+28 32475
+8 8 2
+BareHandAttack: 13
+Race: 0
+E
+#12901
+Lin Yao~
+Lin Yao~
+Lin Yao stands here adorned in jade.
+~
+Her name means "Beautiful Jade Treasure", and she lives up to her name. Lin
+Yao's hair is done up with a green jade hairpin, and her short fingers are
+adorned in jaded rings of the highest value. She is wearing a black veil
+partially hiding the beauty behind it. Lin Yao is the twin of Ming Yue, and
+their features are identical: the thin, pouty lips; the short frame; the pale
+white skin, which gives off a pearlescent gleam in the darkness.
+~
+dgmnpr dk -500 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 2
+E
+#12902
+Ming Yue~
+Ming Yue~
+Ming Yue beams in the darkness.
+~
+Her name means "Bright Moon", and her personality definately reflects it. She
+has a happy-go-lucky attitude on life, and is terribly embarassed at the
+things that go in within the Tong hideout - her home. She is Lin Yao's twin
+sister, and aside from the difference of her personality, her facial features
+are almost exactly the same as her sister's. She is wearing an off-white dress
+with a variety of symbols that you do not understand. Her fine black eyelashes
+curl exquisitely and her pale skin gives you the impression that she doesn't
+get out very often.
+~
+dgmnpr dk 500 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 2
+E
+#12903
+Tatsuya~
+Tatsuya~
+Tatsuya rests with his hands over a gnarled staff.
+~
+Tatsuya is an old man - he was a small child when the Tong was first founded,
+and has worked his way up. He now oversees the largest operations of the
+criminal organization; Seiji picked the right man for the job. He is an
+utterly ruthless and sinister man, his tactics usually involving bloodshed and
+and torture. His old age denys him the pleasure however, as he usually gets
+the younger members of the Tong to carry out his deeds for him.
+~
+bdmnpr dk 0 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+Race: 0
+Noise: You hear echoing whispers.
+E
+#12904
+Seiji man~
+Seiji~
+An old man is smoking a pipe here.
+~
+Seiji's name means "Sage" in his tounge, and he certainly lives up to his
+title. Unlike most old people, Seiji has gained more knowledge over his
+seemingly endless lifespan rather than forgotten. He is a short man, standing
+about five and a half feet, and wears a thick embroidered robe with the Tong
+symbol of a snake-like golden dragon on it.
+~
+bdemnpr dhkmn 0 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+Race: 0
+Noise: You smell a strange smoke.
+Script: seiji.lua 16
+E
+#12905
+Tensui~
+Tensui~
+Tensui stands here, awaiting his orders.
+~
+Born and bred for assassination, Tensui is adorned in various weapons of
+all shapes and sizes. He is skilled in virtually every form of combat, and
+serves as Tatsuya's personal bodyguard and assassin. He is the father of
+the twins Lin Yao and Ming Yue. Their mother died decades ago of some very
+peculiar circumstances; she was prying too much in Tong affairs.
+~
+degmnpr dhknp -500 E
+78 149 78d8+2066 6d7
+0 34443
+8 8 1
+Race: 0
+Script: neckbreak.lua 128
+E
+#12906
+Kumiko Akimoto~
+Kumiko Akimoto~
+Kumiko Akimoto is here, overseeing the smuggling operations.
+~
+His mother and father were extremely poor, and so he was sold into
+slavery at a very young age. Kumiko Akimoto was raised as a member of
+the Tong orginization, his sole purpose in life to oversee the goings
+on of the smuggling of stolen goods. At his waist he wears the sash
+with the Liu'she Ch'uan Tong insignia on it, and in his hand is a
+seven-sectioned whip chain to keep his underlings in line.
+~
+dgnpr dk 0 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+E
+#12907
+guard tong~
+a Tong guard~
+A Tong guard patrols the hideout.
+~
+He is wearing a black suit with the Tong insignia on the breast. Wielding
+an incredibly sharp katana, he takes his job very seriously.
+~
+dgmnpr dk 0 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 1
+Race: 0
+Script: strike.lua 128
+E
+#12908
+Liu'she Ch'uan Tong student~
+a student~
+A student of the Liu'she Ch'uan Tong practices here.
+~
+By no means a master, this student lives only to serve the Tong. He is
+wearing weighted training clothes, and wields a wooden training sword.
+He looks frightening in all the padding, like a life-size animated
+teddy bear.
+~
+bdmnpr dk 0 E
+30 49 30d8+492 4d5
+0 8215
+8 8 1
+Race: 0
+E
+#12909
+Ayumi Matsuo elder~
+Ayumi Matsuo~
+An elder eyes you through the thick smoke.
+~
+Ayumi Matsuo has been a member of the Tong hierarchy for decades. He is
+a ruthless leader, the punishment of choice usually death, or if he's in
+a good mood, torture. Ayumi wears a colorful robe with a snake-like dragon
+on it, and another symbol which probably signifies leadership. He has long,
+grey hair, tied in the back, which extends to his lower torso. His frail-
+looking frame is the perfect camouflage for the element of surprise.
+~
+bdemnpr dhk 0 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+Race: 0
+E
+#12910
+tong smuggler~
+a Tong smuggler~
+A Tong smuggler lifts a heavy crate.
+~
+Loyalty is an important quality in the Tong organization, and he has just
+that. Willing to give his life for the good of the clan, he makes the best
+possible laborer the Tong could ever hope for.
+~
+dgnpr dk 0 E
+30 49 30d8+492 4d5
+42 8215
+8 8 1
+E
+#12911
+Miyuki Nakazaki~
+Miyuki Nakazaki~
+Miyuki Nakazaki whips you into shape.
+~
+He is the leader and trainer of the Tong guards, and also serves as the
+protector of the elders. Mikyuki is wearing a black suit with a red sash
+at his waist bearing the Tong insignia, with his muscles bulging through
+the fabric. At his hip, a mystical katana is sheathed; the scabbard of
+which is decorated in golden symbols which you don't comprehend.
+~
+dgmnpr dhk 0 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+Script: neckbreak.lua 128
+E
+#12912
+Ayaka Misaki~
+Ayaka Misaki~
+Ayaka Misaki sits with her legs spread.
+~
+She is wearing a long, black dress and has her hair up with two pins. Ayaka
+Misaki is the chief Tong assassin; her rank even above the notorious Miyuki
+Nakazaki. She's sitting very unladylike, exposing her sex through lace
+stockings that match her dress. Ayaka's face is ceremoniously painted: white
+all over, red cheeks, deep black eyes. You see the hilt of what appears to
+be a dagger, although you are unsure - it could be any number of things
+knowing this particular lady.
+~
+bdmnpr dfkp -500 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 2
+Race: 0
+Script: backstabber.lua 128
+E
+#12913
+Daiki~
+Daiki~
+Daiki winks at you with one malicious eye.
+~
+Daiki is a large man, his rolls of fat grotesquely bulging from his jet black
+garments. He is wearing a patch over his left eye, and bares a scar the length
+of his right cheek. The Tong torturer, Daiki takes his job very seriously: he
+is holding a spiked whip; he has a brass knuckles-like apparatus on his right
+hand where the knuckles have a multitude of poisoned needles on them; and a
+dagger can be seen sheathed to his bulbous right forearm.
+~
+degmnpr dk -500 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+Race: 0
+E
+#12914
+Kentu Kazuki~
+Kentu Kazuki~
+Kentu Kazuki glares at you over faded, dangerous eyebrows.
+~
+Kentu Kazuki is a very young man; he was at one point a monk for the city
+of Kir-Oshi until one night Seiji used his superior intellect in a debate
+after he spied Kentu in a bar fight. The end result was the newest member
+of the Tong organization. Since then, Kentu has excelled in everything that
+has to do with fighting because of the oneness he learned in his short time
+as a monk. Kentu is wearing a simple robe with long, black hair pulled back
+into a ponytail. His eyes and nose are both pierced several times, and he is
+wielding a pair of sais that twinkle slightly in the darkness.
+~
+degmnpr dk 0 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+Race: 0
+E
+#12915
+Aki Kuroda~
+Aki Kuroda~
+Aki Kuroda stands here, painting a lovely picture.
+~
+Aki Kuroda is one of the many sources of money for the Tong. He is a painter,
+and a very good one indeed. He doesn't do any original works, however; he is
+a forger, copying rare and sacred works of art to sell on the black market.
+He is wearing a simple black robe which has been splattered several different
+colors of paint. Aki is sporting a very stylish and artistic goatee, which
+juts from his chiselled chin.
+~
+bdmnpr dk 300 E
+75 143 75d8+1948 6d7
+0 32475
+8 8 1
+Race: 0
+Script: aki_kuroda.lua 528
+E
+#12916
+apprentice painter~
+an apprentice painter~
+An apprentice painter mockingly throws paint in your direction.
+~
+He is painting furiously on an already paint-covered canvas. His childlike
+drawing matches his young and boyish face. He is wearing a simple white
+robe that drapes to the ground, covering his feet. In his left and most
+paint-splattered hand he holds a large brush.
+~
+bdmnpr dk 0 E
+39 67 39d8+730 4d5
+0 12177
+8 8 1
+E
+#12917
+tong guard~
+a Tong guard~
+A guard hides in the shadows.
+~
+He is wearing a black suit with the Tong insignia on the breast. Wielding
+an incredibly sharp katana, he takes his job very seriously.
+~
+bdmnpr dkt 0 E
+66 123 66d8+1608 6d6
+0 26809
+8 8 1
+Race: 0
+E
+#12918
+Jen Tsung~
+Jen Tsung~
+Jen Tsung stands here, overseeing the counterfeiting operations.
+~
+Tattooed on his massive left arm is the Tong insignia. Jen Tsung is a
+very powerful and rich man, as evidenced by the golden piercings and
+rings covering his ears and fingers. He is the overseer of the Tong
+counterfeiting operations, and is wielding a seven-sectioned whip chain
+to keep his slow and weak underlings in line. His hair is long and black,
+tied in the back, and reaches nearly to the small of his back. A ruthless
+and cunning fighter, Jen Tsung excells at his jobs: preventing you from
+accessing the Tong treasure, and keeping his workers in line.
+~
+bdeflmnpqr dhk -500 E
+60 110 60d8+1394 6d6
+266 23237
+8 8 1
+BareHandAttack: 13
+Race: 0
+E
+#12919
+bat~
+a bat~
+A hideous-looking bat flutters around here.
+~
+It is black and misshapen; not like any other bat you've ever seen. It has
+strange fangs protruding from its distorted mouth. Its wings are much longer
+than that of a normal bat, and its feet are clawed ugly talons.
+~
+bdfmnpr dkt -500 E
+30 49 30d8+492 4d5
+0 8215
+8 8 0
+BareHandAttack: 4
+Race: 15
+E
+#12920
+member tong~
+a Tong member~
+A member of the Tong busily presses coins here.
+~
+He is covered in sweat and black filth, and looks like it has been awhile
+since he's had a good bath. Naked from the waist up, you see his ribs
+protruding sickly from his torso. It has probably been quite a long time
+since his last meal.
+~
+bdmnprs dkx 0 E
+51 91 51d8+1092 5d6
+25 18210
+8 8 1
+Race: 0
+E
+$

@@ -1,0 +1,2287 @@
+#6000
+Immortal Map Room for the Blasted Desert~
+   The Blasted Desert occupies an area to the northwest of the Black Sands
+Desert. The Nixith area resides within the Blasted Desert.
+~
+60 cdgj 0
+S
+#6001
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass. Something has
+melted the black sand with intense heat, and formed a queer landscape - giant
+crystalline spires of hardened silica twisting upward from the ground.
+~
+60 0 10
+D1
+~
+~
+0 0 6002
+D2
+~
+~
+0 0 6007
+S
+#6002
+The Blasted Desert~
+   All around you, deadly sand-geysers spew molten silica from behind crystal
+monoliths. These giant spires buffer you against the full force of the geyser,
+but the strength of even a partial blast could easily prove fatal.
+~
+60 0 12
+R elemental_room.lua 4
+D1
+~
+~
+0 0 6003
+D2
+~
+~
+0 0 6008
+D3
+~
+~
+0 0 6001
+S
+#6003
+The Blasted Desert~
+   A circular sheet of dark glass has formed on the desert floor in this area.
+Perhaps created by a lightning strike, this still-smoking ring of glass looks
+as smooth as a sheet of black ice.
+~
+60 0 10
+D1
+~
+~
+0 0 6004
+D2
+~
+~
+0 0 6009
+D3
+~
+~
+0 0 6002
+S
+#6004
+The Blasted Desert~
+   Black sand geysers and horrid sandholes threaten to quickly swallow you and
+end your days with a suffocating, crushing death. You hasten your pace, in the
+effort to avoid such a miserable demise.
+~
+60 0 10
+D1
+~
+~
+0 0 6005
+D2
+~
+~
+0 0 6010
+D3
+~
+~
+0 0 6003
+S
+#6005
+The Blasted Desert~
+   A deadly sandhole funnels downward into the surrounding earth, winding
+slowly, swallowing the terrain and anything else unlucky enough to cross its
+path. You skirt the edge quickly and carefully, and hasten on your way.
+~
+60 0 12
+R elemental_room.lua 4
+D2
+~
+~
+0 0 6011
+D3
+~
+~
+0 0 6004
+S
+#6006
+The Blasted Desert~
+   A swirling sandhole has opened up, collapsing the nearby terrain and spewing
+forth again, in the form of semi-molton geysers. The molton sand congeals,
+still smoking, forming great massifs of blackened crystal.
+~
+60 0 12
+R elemental_room.lua 4
+D1
+~
+~
+0 0 6007
+D2
+~
+~
+0 0 6014
+S
+#6007
+The Blasted Desert~
+   The land in this area is marked with dark scars and small irregular craters.
+Similarly, active craters mar the surrounding terrain, as deadly sandholes
+swallow and spew tendrils of molton sand into the sky.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6001
+D1
+~
+~
+0 0 6008
+D2
+~
+~
+0 0 6015
+D3
+~
+~
+0 0 6006
+S
+#6008
+The Blasted Desert~
+   A smooth disc of darker black mars the ground here. It looks as if
+lightning struck here long ago, turning the sand into a circular sheet of black
+glass. All around you, globules of molton glass arc slowly into the air.
+~
+60 0 10
+D0
+~
+~
+0 0 6002
+D1
+~
+~
+0 0 6009
+D2
+~
+~
+0 0 6016
+D3
+~
+~
+0 0 6007
+S
+#6009
+The Blasted Desert~
+   From behind a wave-shaped wall of crystal, you hear the rumblings and wild
+churning of sand being crushed and tossed into the air. A gaping sandhole seems
+to appear before your eyes, engulfing the surrounding desert sands.
+~
+60 0 10
+D0
+~
+~
+0 0 6003
+D1
+~
+~
+0 0 6010
+D2
+~
+~
+0 0 6017
+D3
+~
+~
+0 0 6008
+S
+#6010
+The Blasted Desert~
+   A nearby sand geyser spews tons of fine grains into the air, falling as a
+stinging rain that pelts you, drawing blood from your exposed flesh. This
+incredible and treacherous terrain extends in all directions.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6004
+D1
+~
+~
+0 0 6011
+D2
+~
+~
+0 0 6018
+D3
+~
+~
+0 0 6009
+S
+#6011
+The Blasted Desert~
+   Jet-black circles dot the ground in this area. A series of blasts is heard
+from nearby, where geysers of half-molten sand spew into the air. Even from
+this distance, you feel the sting of smouldering sand.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6005
+D1
+~
+~
+0 0 6012
+D2
+~
+~
+0 0 6019
+D3
+~
+~
+0 0 6010
+S
+#6012
+The Blasted Desert~
+   The desert is cratered with great holes and jagged black scars. In the
+distance, large sandholes appear - eddies of funneling sand, consuming the
+desert, and anything that dares to exist within it.
+~
+60 0 10
+D1
+~
+~
+0 0 6013
+D2
+~
+~
+0 0 6020
+D3
+~
+~
+0 0 6011
+S
+#6013
+The Blasted Desert~
+   The smooth surface of the dunes is marred by strange, unnatural shapes, and
+patches of black on the desert floor - blacker than the sands surrounding them.
+This alien landscape extends in all directions.
+~
+60 0 10
+D2
+~
+~
+0 0 6021
+D3
+~
+~
+0 0 6012
+S
+#6014
+The Blasted Desert~
+   A circular sheet of dark glass has formed on the desert floor in this area.
+Perhaps created by a lightning strike, this still-smoking ring of glass looks
+as smooth as a sheet of black ice.
+~
+60 0 10
+D0
+~
+~
+0 0 6006
+D1
+~
+~
+0 0 6015
+D2
+~
+~
+0 0 6025
+S
+#6015
+The Blasted Desert~
+   All around you, deadly sand-geysers spew molten silica from behind crystal
+monoliths. These giant spires buffer you against the full force of the geyser,
+but the strength of even a partial blast could easily prove fatal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6007
+D1
+~
+~
+0 0 6016
+D2
+~
+~
+0 0 6026
+D3
+~
+~
+0 0 6014
+S
+#6016
+The Blasted Desert~
+   A circular sheet of dark glass has formed on the desert floor in this area.
+Perhaps created by a lightning strike, this still-smoking ring of glass looks
+as smooth as a sheet of black ice.
+~
+60 m 10
+D0
+~
+~
+0 0 6008
+D1
+~
+~
+0 0 6017
+D2
+~
+~
+0 0 6027
+D3
+~
+~
+0 0 6015
+S
+#6017
+The Blasted Desert~
+   Black sand geysers and horrid sandholes threaten to quickly swallow you and
+end your days with a suffocating, crushing death. You hasten your pace, in the
+effort to avoid such a miserable demise.
+~
+60 0 10
+D0
+~
+~
+0 0 6009
+D1
+~
+~
+0 0 6018
+D2
+~
+~
+0 0 6028
+D3
+~
+~
+0 0 6016
+S
+#6018
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass. Something has
+melted the black sand with intense heat, and formed a queer landscape - giant
+crystalline spires of hardened silica twisting upward from the ground.
+~
+60 0 10
+D0
+~
+~
+0 0 6010
+D1
+~
+~
+0 0 6019
+D2
+~
+~
+0 0 6029
+D3
+~
+~
+0 0 6017
+S
+#6019
+The Blasted Desert~
+   A circular sheet of dark glass has formed on the desert floor in this area.
+Perhaps created by a lightning strike, this still-smoking ring of glass looks
+as smooth as a sheet of black ice.
+~
+60 0 10
+D0
+~
+~
+0 0 6011
+D1
+~
+~
+0 0 6020
+D2
+~
+~
+0 0 6030
+D3
+~
+~
+0 0 6018
+S
+#6020
+The Blasted Desert~
+   Black sand geysers and horrid sandholes threaten to quickly swallow you and
+end your days with a suffocating, crushing death. You hasten your pace, in the
+effort to avoid such a miserable demise.
+~
+60 0 10
+D0
+~
+~
+0 0 6012
+D1
+~
+~
+0 0 6021
+D2
+~
+~
+0 0 6031
+D3
+~
+~
+0 0 6019
+S
+#6021
+The Blasted Desert~
+   A nearby sand geyser spews tons of fine grains into the air, falling as a
+stinging rain that pelts you, drawing blood from your exposed flesh. This
+incredible and treacherous terrain extends in all directions.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6013
+D1
+~
+~
+0 0 6022
+D2
+~
+~
+0 0 6032
+D3
+~
+~
+0 0 6020
+S
+#6022
+The Blasted Desert~
+   A smooth disc of darker black mars the ground here. It looks as if
+lightning struck here long ago, turning the sand into a circular sheet of black
+glass. All around you, globules of molton glass arc slowly into the air.
+~
+60 0 10
+D1
+~
+~
+0 0 6023
+D2
+~
+~
+0 0 6033
+D3
+~
+~
+0 0 6021
+S
+#6023
+The Blasted Desert~
+   Looking down, you see scattered hoofprints of a horse, ending in a great
+disarray of sand. Some great struggle took place here recently, carrying the
+poor beast into the air, or perhaps beneath the sand.
+~
+60 0 10
+D1
+~
+~
+0 0 6024
+D2
+~
+~
+0 0 6034
+D3
+~
+~
+0 0 6022
+S
+#6024
+The Blasted Desert~
+   The desert is cratered with great holes and jagged black scars. In the
+distance, large sandholes appear - eddies of funneling sand, consuming the
+desert, and anything that dares to exist within it.
+~
+60 0 10
+D2
+~
+~
+0 0 5601
+D3
+~
+~
+0 0 6023
+S
+#6025
+The Blasted Desert~
+   Looking down, you see scattered hoofprints of a horse, ending in a great
+disarray of sand. Some great struggle took place here recently, carrying the
+poor beast into the air, or perhaps beneath the sand.
+~
+60 0 10
+D0
+~
+~
+0 0 6014
+D1
+~
+~
+0 0 6026
+D2
+~
+~
+0 0 6073
+S
+#6026
+The Blasted Desert~
+   The desert is cratered with great holes and jagged black scars. In the
+distance, large sandholes appear - eddies of funneling sand, consuming the
+desert, and anything that dares to exist within it.
+~
+60 0 10
+D0
+~
+~
+0 0 6015
+D1
+~
+~
+0 0 6027
+D2
+~
+~
+0 0 6037
+D3
+~
+~
+0 0 6025
+S
+#6027
+The Blasted Desert~
+   A smooth disc of darker black mars the ground here. It looks as if
+lightning struck here long ago, turning the sand into a circular sheet of black
+glass. All around you, globules of molton glass arc slowly into the air.
+~
+60 0 10
+D0
+~
+~
+0 0 6016
+D1
+~
+~
+0 0 6028
+D2
+~
+~
+0 0 6038
+D3
+~
+~
+0 0 6026
+S
+#6028
+The Blasted Desert~
+   The smooth surface of the dunes is marred by strange, unnatural shapes, and
+patches of black on the desert floor - blacker than the sands surrounding them.
+This alien landscape extends in all directions.
+~
+60 0 10
+D0
+~
+~
+0 0 6017
+D1
+~
+~
+0 0 6029
+D2
+~
+~
+0 0 6039
+D3
+~
+~
+0 0 6027
+S
+#6029
+The Blasted Desert~
+   Jet-black circles dot the ground in this area. A series of blasts is heard
+from nearby, where geysers of half-molten sand spew into the air. Even from
+this distance, you feel the sting of smouldering sand.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6018
+D1
+~
+~
+0 0 6030
+D2
+~
+~
+0 0 6040
+D3
+~
+~
+0 0 6028
+S
+#6030
+The Blasted Desert~
+   All around you, deadly sand-geysers spew molten silica from behind crystal
+monoliths. These giant spires buffer you against the full force of the geyser,
+but the strength of even a partial blast could easily prove fatal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6019
+D1
+~
+~
+0 0 6031
+D2
+~
+~
+0 0 6041
+D3
+~
+~
+0 0 6029
+S
+#6031
+The Blasted Desert~
+   The desert is cratered with great holes and jagged black scars. In the
+distance, large sandholes appear - eddies of funneling sand, consuming the
+desert, and anything that dares to exist within it.
+~
+60 0 10
+D0
+~
+~
+0 0 6020
+D1
+~
+~
+0 0 6032
+D2
+~
+~
+0 0 6042
+D3
+~
+~
+0 0 6030
+S
+#6032
+The Blasted Desert~
+   Looking down, you see scattered hoofprints of a horse, ending in a great
+disarray of sand. Some great struggle took place here recently, carrying the
+poor beast into the air, or perhaps beneath the sand.
+~
+60 0 10
+D0
+~
+~
+0 0 6021
+D1
+~
+~
+0 0 6033
+D2
+~
+~
+0 0 6043
+D3
+~
+~
+0 0 6031
+S
+#6033
+The Blasted Desert~
+   A nearby sand geyser spews tons of fine grains into the air, falling as a
+stinging rain that pelts you, drawing blood from your exposed flesh. This
+incredible and treacherous terrain extends in all directions.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6022
+D1
+~
+~
+0 0 6034
+D2
+~
+~
+0 0 6044
+D3
+~
+~
+0 0 6032
+S
+#6034
+The Blasted Desert~
+   Black sand geysers and horrid sandholes threaten to quickly swallow you and
+end your days with a suffocating, crushing death. You hasten your pace, in the
+effort to avoid such a miserable demise.
+~
+60 0 10
+D0
+~
+~
+0 0 6023
+D1
+~
+~
+0 0 5601
+D2
+~
+~
+0 0 5605
+D3
+~
+~
+0 0 6033
+S
+#6035
+The Blasted Desert~
+   All around you, deadly sand-geysers spew molten silica from behind crystal
+monoliths. These giant spires buffer you against the full force of the geyser,
+but the strength of even a partial blast could easily prove fatal.
+~
+60 0 12
+R elemental_room.lua 4
+D1
+~
+~
+0 0 6073
+D2
+~
+~
+0 0 6045
+S
+#6036
+The Blasted Desert~
+   A deadly sandhole funnels downward into the surrounding earth, winding
+slowly, swallowing the terrain and anything else unlucky enough to cross its
+path. You skirt the edge quickly and carefully, and hasten on your way.
+~
+60 0 10
+D0
+~
+~
+0 0 6025
+D1
+~
+~
+0 0 6037
+D2
+~
+~
+0 0 6046
+D3
+~
+~
+0 0 6035
+S
+#6037
+The Blasted Desert~
+   The land in this area is marked with dark scars and small irregular craters.
+Similarly, active craters mar the surrounding terrain, as deadly sandholes
+swallow and spew tendrils of molton sand into the sky.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6026
+D1
+~
+~
+0 0 6038
+D2
+~
+~
+0 0 6047
+D3
+~
+~
+0 0 6073
+S
+#6038
+The Blasted Desert~
+   The land in this area is marked with dark scars and small irregular craters.
+Similarly, active craters mar the surrounding terrain, as deadly sandholes
+swallow and spew tendrils of molton sand into the sky.
+~
+60 0 10
+D0
+~
+~
+0 0 6027
+D1
+~
+~
+0 0 6039
+D2
+~
+~
+0 0 6048
+D3
+~
+~
+0 0 6037
+S
+#6039
+The Blasted Desert~
+   All around you, deadly sand-geysers spew molten silica from behind crystal
+monoliths. These giant spires buffer you against the full force of the geyser,
+but the strength of even a partial blast could easily prove fatal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6028
+D1
+~
+~
+0 0 6040
+D2
+~
+~
+0 0 6049
+D3
+~
+~
+0 0 6038
+S
+#6040
+The Blasted Desert~
+   Black sand geysers and horrid sandholes threaten to quickly swallow you and
+end your days with a suffocating, crushing death. You hasten your pace, in the
+effort to avoid such a miserable demise.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6029
+D1
+~
+~
+0 0 6041
+D2
+~
+~
+0 0 6050
+D3
+~
+~
+0 0 6039
+S
+#6041
+The Blasted Desert~
+   A deadly sandhole funnels downward into the surrounding earth, winding
+slowly, swallowing the terrain and anything else unlucky enough to cross its
+path. You skirt the edge quickly and carefully, and hasten on your way.
+~
+60 0 10
+D0
+~
+~
+0 0 6030
+D1
+~
+~
+0 0 6042
+D2
+~
+~
+0 0 6051
+D3
+~
+~
+0 0 6040
+S
+#6042
+The Blasted Desert~
+   Looking down, you see scattered hoofprints of a horse, ending in a great
+disarray of sand. Some great struggle took place here recently, carrying the
+poor beast into the air, or perhaps beneath the sand.
+~
+60 0 10
+D0
+~
+~
+0 0 6031
+D1
+~
+~
+0 0 6043
+D2
+~
+~
+0 0 6052
+D3
+~
+~
+0 0 6041
+S
+#6043
+The Blasted Desert~
+   The desert is cratered with great holes and jagged black scars. In the
+distance, large sandholes appear - eddies of funneling sand, consuming the
+desert, and anything that dares to exist within it.
+~
+60 0 10
+D0
+~
+~
+0 0 6032
+D1
+~
+~
+0 0 6044
+D2
+~
+~
+0 0 6053
+D3
+~
+~
+0 0 6042
+S
+#6044
+The Blasted Desert~
+   A smooth disc of darker black mars the ground here. It looks as if
+lightning struck here long ago, turning the sand into a circular sheet of black
+glass. All around you, globules of molton glass arc slowly into the air.
+~
+60 0 10
+D0
+~
+~
+0 0 6033
+D1
+~
+~
+0 0 5605
+D2
+~
+~
+0 0 5615
+D3
+~
+~
+0 0 6043
+S
+#6045
+The Blasted Desert~
+   A smooth disc of darker black mars the ground here. It looks as if
+lightning struck here long ago, turning the sand into a circular sheet of black
+glass. All around you, globules of molton glass arc slowly into the air.
+~
+60 0 10
+D0
+~
+~
+0 0 6035
+D1
+~
+~
+0 0 6046
+D2
+~
+~
+0 0 6054
+S
+#6046
+The Blasted Desert~
+   From behind a wave-shaped wall of crystal, you hear the rumblings and wild
+churning of sand being crushed and tossed into the air. A gaping sandhole seems
+to appear before your eyes, engulfing the surrounding desert sands.
+~
+60 0 10
+D0
+~
+~
+0 0 6073
+D1
+~
+~
+0 0 6047
+D2
+~
+~
+0 0 6055
+D3
+~
+~
+0 0 6045
+S
+#6047
+The Blasted Desert~
+   All around you, deadly sand-geysers spew molten silica from behind crystal
+monoliths. These giant spires buffer you against the full force of the geyser,
+but the strength of even a partial blast could easily prove fatal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6037
+D1
+~
+~
+0 0 6048
+D2
+~
+~
+0 0 6056
+D3
+~
+~
+0 0 6046
+S
+#6048
+The Blasted Desert~
+   A smooth disc of darker black mars the ground here. It looks as if
+lightning struck here long ago, turning the sand into a circular sheet of black
+glass. All around you, globules of molton glass arc slowly into the air.
+~
+60 0 10
+D0
+~
+~
+0 0 6038
+D1
+~
+~
+0 0 6049
+D2
+~
+~
+0 0 6057
+D3
+~
+~
+0 0 6047
+S
+#6049
+The Blasted Desert~
+   The land in this area is marked with dark scars and small irregular craters.
+Similarly, active craters mar the surrounding terrain, as deadly sandholes
+swallow and spew tendrils of molton sand into the sky.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6039
+D1
+~
+~
+0 0 6050
+D2
+~
+~
+0 0 6058
+D3
+~
+~
+0 0 6048
+S
+#6050
+The Blasted Desert~
+   Looking down, you see scattered hoofprints of a horse, ending in a great
+disarray of sand. Some great struggle took place here recently, carrying the
+poor beast into the air, or perhaps beneath the sand.
+~
+60 m 10
+D0
+~
+~
+0 0 6040
+D1
+~
+~
+0 0 6051
+D2
+~
+~
+0 0 6059
+D3
+~
+~
+0 0 6049
+S
+#6051
+The Blasted Desert~
+   A nearby sand geyser spews tons of fine grains into the air, falling as a
+stinging rain that pelts you, drawing blood from your exposed flesh. This
+incredible and treacherous terrain extends in all directions.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6041
+D1
+~
+~
+0 0 6052
+D2
+~
+~
+0 0 6060
+D3
+~
+~
+0 0 6050
+S
+#6052
+The Blasted Desert~
+   A deadly sandhole funnels downward into the surrounding earth, winding
+slowly, swallowing the terrain and anything else unlucky enough to cross its
+path. You skirt the edge quickly and carefully, and hasten on your way.
+~
+60 0 10
+D0
+~
+~
+0 0 6042
+D1
+~
+~
+0 0 6053
+D2
+~
+~
+0 0 6061
+D3
+~
+~
+0 0 6051
+S
+#6053
+The Blasted Desert~
+   A smooth disc of darker black mars the ground here. It looks as if
+lightning struck here long ago, turning the sand into a circular sheet of black
+glass. All around you, globules of molton glass arc slowly into the air.
+~
+60 0 10
+D0
+~
+~
+0 0 6043
+D1
+~
+~
+0 0 5615
+D2
+~
+~
+0 0 6062
+D3
+~
+~
+0 0 6052
+S
+#6054
+The Blasted Desert~
+   From behind a wave-shaped wall of crystal, you hear the rumblings and wild
+churning of sand being crushed and tossed into the air. A gaping sandhole seems
+to appear before your eyes, engulfing the surrounding desert sands.
+~
+60 0 10
+D0
+~
+~
+0 0 6045
+D1
+~
+~
+0 0 6055
+D2
+~
+~
+0 0 6063
+S
+#6055
+The Blasted Desert~
+   Black sand geysers and horrid sandholes threaten to quickly swallow you and
+end your days with a suffocating, crushing death. You hasten your pace, in the
+effort to avoid such a miserable demise.
+~
+60 0 10
+D0
+~
+~
+0 0 6046
+D1
+~
+~
+0 0 6056
+D2
+~
+~
+0 0 6064
+D3
+~
+~
+0 0 6054
+S
+#6056
+The Blasted Desert~
+   The desert is cratered with great holes and jagged black scars. In the
+distance, large sandholes appear - eddies of funneling sand, consuming the
+desert, and anything that dares to exist within it.
+~
+60 0 10
+D0
+~
+~
+0 0 6047
+D1
+~
+~
+0 0 6057
+D2
+~
+~
+0 0 6065
+D3
+~
+~
+0 0 6055
+S
+#6057
+The Blasted Desert~
+   A circular sheet of dark glass has formed on the desert floor in this area.
+Perhaps created by a lightning strike, this still-smoking ring of glass looks
+as smooth as a sheet of black ice.
+~
+60 0 10
+D0
+~
+~
+0 0 6048
+D1
+~
+~
+0 0 6058
+D2
+~
+~
+0 0 6066
+D3
+~
+~
+0 0 6056
+S
+#6058
+The Blasted Desert~
+   The land in this area is marked with dark scars and small irregular craters.
+Similarly, active craters mar the surrounding terrain, as deadly sandholes
+swallow and spew tendrils of molton sand into the sky.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6049
+D1
+~
+~
+0 0 6059
+D2
+~
+~
+0 0 6067
+D3
+~
+~
+0 0 6057
+S
+#6059
+The Blasted Desert~
+   Jet-black circles dot the ground in this area. A series of blasts is heard
+from nearby, where geysers of half-molten sand spew into the air. Even from
+this distance, you feel the sting of smouldering sand.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6050
+D1
+~
+~
+0 0 6060
+D2
+~
+~
+0 0 6068
+D3
+~
+~
+0 0 6058
+S
+#6060
+The Blasted Desert~
+   Black sand geysers and horrid sandholes threaten to quickly swallow you and
+end your days with a suffocating, crushing death. You hasten your pace, in the
+effort to avoid such a miserable demise.
+~
+60 0 10
+D0
+~
+~
+0 0 6051
+D1
+~
+~
+0 0 6061
+D2
+~
+~
+0 0 6069
+D3
+~
+~
+0 0 6059
+S
+#6061
+The Blasted Desert~
+   The desert is cratered with great holes and jagged black scars. In the
+distance, large sandholes appear - eddies of funneling sand, consuming the
+desert, and anything that dares to exist within it.
+~
+60 0 10
+D0
+~
+~
+0 0 6052
+D1
+~
+~
+0 0 6062
+D2
+~
+~
+0 0 6070
+D3
+~
+~
+0 0 6060
+S
+#6062
+The Blasted Desert~
+   The land in this area is marked with dark scars and small irregular craters.
+Similarly, active craters mar the surrounding terrain, as deadly sandholes
+swallow and spew tendrils of molton sand into the sky.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6053
+D1
+~
+~
+0 0 5628
+D2
+~
+~
+0 0 6071
+D3
+~
+~
+0 0 6061
+S
+#6063
+The Blasted Desert~
+   A swirling sandhole has opened up, collapsing the nearby terrain and spewing
+forth again, in the form of semi-molton geysers. The molton sand congeals,
+still smoking, forming great massifs of blackened crystal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6054
+D1
+~
+~
+0 0 6064
+D2
+~
+~
+0 0 6072
+S
+#6064
+The Blasted Desert~
+   A nearby sand geyser spews tons of fine grains into the air, falling as a
+stinging rain that pelts you, drawing blood from your exposed flesh. This
+incredible and treacherous terrain extends in all directions.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6055
+D1
+~
+~
+0 0 6065
+D2
+~
+~
+0 0 10303
+D3
+~
+~
+0 0 6063
+S
+#6065
+The Blasted Desert~
+   A deadly sandhole funnels downward into the surrounding earth, winding
+slowly, swallowing the terrain and anything else unlucky enough to cross its
+path. You skirt the edge quickly and carefully, and hasten on your way.
+~
+60 0 10
+D0
+~
+~
+0 0 6056
+D1
+~
+~
+0 0 6066
+D2
+~
+~
+0 0 6074
+D3
+~
+~
+0 0 6064
+S
+#6066
+The Blasted Desert~
+   Black sand geysers and horrid sandholes threaten to quickly swallow you and
+end your days with a suffocating, crushing death. You hasten your pace, in the
+effort to avoid such a miserable demise.
+~
+60 0 10
+D0
+~
+~
+0 0 6057
+D1
+~
+~
+0 0 6067
+D2
+~
+~
+0 0 6075
+D3
+~
+~
+0 0 6065
+S
+#6067
+The Blasted Desert~
+   A nearby sand geyser spews tons of fine grains into the air, falling as a
+stinging rain that pelts you, drawing blood from your exposed flesh. This
+incredible and treacherous terrain extends in all directions.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6058
+D1
+~
+~
+0 0 6068
+D2
+~
+~
+0 0 6076
+D3
+~
+~
+0 0 6066
+S
+#6068
+The Blasted Desert~
+   The smooth surface of the dunes is marred by strange, unnatural shapes, and
+patches of black on the desert floor - blacker than the sands surrounding them.
+This alien landscape extends in all directions.
+~
+60 0 10
+D0
+~
+~
+0 0 6059
+D1
+~
+~
+0 0 6069
+D2
+~
+~
+0 0 6077
+D3
+~
+~
+0 0 6067
+S
+#6069
+The Blasted Desert~
+   A swirling sandhole has opened up, collapsing the nearby terrain and spewing
+forth again, in the form of semi-molton geysers. The molton sand congeals,
+still smoking, forming great massifs of blackened crystal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6060
+D1
+~
+~
+0 0 6070
+D2
+~
+~
+0 0 6078
+D3
+~
+~
+0 0 6068
+S
+#6070
+The Blasted Desert~
+   A smooth disc of darker black mars the ground here. It looks as if
+lightning struck here long ago, turning the sand into a circular sheet of black
+glass. All around you, globules of molton glass arc slowly into the air.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6061
+D1
+~
+~
+0 0 6071
+D2
+~
+~
+0 0 6079
+D3
+~
+~
+0 0 6069
+S
+#6071
+The Blasted Desert~
+   Jet-black circles dot the ground in this area. A series of blasts is heard
+from nearby, where geysers of half-molten sand spew into the air. Even from
+this distance, you feel the sting of smouldering sand.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6062
+D1
+~
+~
+0 0 5643
+D2
+~
+~
+0 0 5660
+D3
+~
+~
+0 0 6070
+S
+#6072
+The Blasted Desert~
+   A swirling sandhole has opened up, collapsing the nearby terrain and spewing
+forth again, in the form of semi-molton geysers. The molton sand congeals,
+still smoking, forming great massifs of blackened crystal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6063
+D1
+~
+~
+0 0 10303
+D2
+~
+~
+0 0 6080
+S
+#6073
+The Blasted Desert~
+   Looking down, you see scattered hoofprints of a horse, ending in a great
+disarray of sand. Some great struggle took place here recently, carrying the
+poor beast into the air, or perhaps beneath the sand.
+~
+60 0 10
+D0
+~
+~
+0 0 6025
+D1
+~
+~
+0 0 6037
+D2
+~
+~
+0 0 6046
+D3
+~
+~
+0 0 6035
+S
+#6074
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass. Something has
+melted the black sand with intense heat, and formed a queer landscape - giant
+crystalline spires of hardened silica twisting upward from the ground.
+~
+60 m 10
+D0
+~
+~
+0 0 6065
+D1
+~
+~
+0 0 6075
+D2
+~
+~
+0 0 6082
+D3
+~
+~
+0 0 10303
+S
+#6075
+The Blasted Desert~
+   The smooth surface of the dunes is marred by strange, unnatural shapes, and
+patches of black on the desert floor - blacker than the sands surrounding them.
+This alien landscape extends in all directions.
+~
+60 0 10
+D0
+~
+~
+0 0 6066
+D1
+~
+~
+0 0 6076
+D2
+~
+~
+0 0 6083
+D3
+~
+~
+0 0 6074
+S
+#6076
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass. Something has
+melted the black sand with intense heat, and formed a queer landscape - giant
+crystalline spires of hardened silica twisting upward from the ground.
+~
+60 0 10
+D0
+~
+~
+0 0 6067
+D1
+~
+~
+0 0 6077
+D2
+~
+~
+0 0 6084
+D3
+~
+~
+0 0 6075
+S
+#6077
+The Blasted Desert~
+   The smooth surface of the dunes is marred by strange, unnatural shapes, and
+patches of black on the desert floor - blacker than the sands surrounding them.
+This alien landscape extends in all directions.
+~
+60 0 10
+D0
+~
+~
+0 0 6068
+D1
+~
+~
+0 0 6078
+D2
+~
+~
+0 0 6085
+D3
+~
+~
+0 0 6076
+S
+#6078
+The Blasted Desert~
+   A swirling sandhole has opened up, collapsing the nearby terrain and spewing
+forth again, in the form of semi-molton geysers. The molton sand congeals,
+still smoking, forming great massifs of blackened crystal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6069
+D1
+~
+~
+0 0 6079
+D2
+~
+~
+0 0 6086
+D3
+~
+~
+0 0 6077
+S
+#6079
+The Blasted Desert~
+   A circular sheet of dark glass has formed on the desert floor in this area.
+Perhaps created by a lightning strike, this still-smoking ring of glass looks
+as smooth as a sheet of black ice.
+~
+60 0 10
+D0
+~
+~
+0 0 6070
+D1
+~
+~
+0 0 5660
+D2
+~
+~
+0 0 6087
+D3
+~
+~
+0 0 6078
+S
+#6080
+The Blasted Desert~
+   The smooth surface of the dunes is marred by strange, unnatural shapes, and
+patches of black on the desert floor - blacker than the sands surrounding them.
+This alien landscape extends in all directions.
+~
+60 0 10
+D0
+~
+~
+0 0 6072
+D1
+~
+~
+0 0 6081
+S
+#6081
+The Blasted Desert~
+   From behind a wave-shaped wall of crystal, you hear the rumblings and wild
+churning of sand being crushed and tossed into the air. A gaping sandhole seems
+to appear before your eyes, engulfing the surrounding desert sands.
+~
+60 0 10
+D0
+~
+~
+0 0 10303
+D1
+~
+~
+0 0 6082
+D2
+~
+~
+0 0 6088
+D3
+~
+~
+0 0 6080
+S
+#6082
+The Blasted Desert~
+   All around you, deadly sand-geysers spew molten silica from behind crystal
+monoliths. These giant spires buffer you against the full force of the geyser,
+but the strength of even a partial blast could easily prove fatal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6074
+D1
+~
+~
+0 0 6083
+D2
+~
+~
+0 0 6089
+D3
+~
+~
+0 0 6081
+S
+#6083
+The Blasted Desert~
+   The smooth surface of the dunes is marred by strange, unnatural shapes, and
+patches of black on the desert floor - blacker than the sands surrounding them.
+This alien landscape extends in all directions.
+~
+60 0 10
+D0
+~
+~
+0 0 6075
+D1
+~
+~
+0 0 6084
+D2
+~
+~
+0 0 6090
+D3
+~
+~
+0 0 6082
+S
+#6084
+The Blasted Desert~
+   A smooth disc of darker black mars the ground here. It looks as if
+lightning struck here long ago, turning the sand into a circular sheet of black
+glass. All around you, globules of molton glass arc slowly into the air.
+~
+60 0 10
+D0
+~
+~
+0 0 6076
+D1
+~
+~
+0 0 6085
+D2
+~
+~
+0 0 6091
+D3
+~
+~
+0 0 6083
+S
+#6085
+The Blasted Desert~
+   The smooth surface of the dunes is marred by strange, unnatural shapes, and
+patches of black on the desert floor - blacker than the sands surrounding them.
+This alien landscape extends in all directions.
+~
+60 0 10
+D0
+~
+~
+0 0 6077
+D1
+~
+~
+0 0 6086
+D2
+~
+~
+0 0 6092
+D3
+~
+~
+0 0 6084
+S
+#6086
+The Blasted Desert~
+   All around you, deadly sand-geysers spew molten silica from behind crystal
+monoliths. These giant spires buffer you against the full force of the geyser,
+but the strength of even a partial blast could easily prove fatal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6078
+D1
+~
+~
+0 0 6087
+D2
+~
+~
+0 0 5698
+D3
+~
+~
+0 0 6085
+S
+#6087
+The Blasted Desert~
+   A deadly sandhole funnels downward into the surrounding earth, winding
+slowly, swallowing the terrain and anything else unlucky enough to cross its
+path. You skirt the edge quickly and carefully, and hasten on your way.
+~
+60 0 10
+D0
+~
+~
+0 0 6079
+D1
+~
+~
+0 0 5679
+D2
+~
+~
+0 0 5699
+D3
+~
+~
+0 0 6086
+S
+#6088
+The Blasted Desert~
+   A swirling sandhole has opened up, collapsing the nearby terrain and spewing
+forth again, in the form of semi-molton geysers. The molton sand congeals,
+still smoking, forming great massifs of blackened crystal.
+~
+60 0 10
+D0
+~
+~
+0 0 6081
+D1
+~
+~
+0 0 6089
+S
+#6089
+The Blasted Desert~
+   Jet-black circles dot the ground in this area. A series of blasts is heard
+from nearby, where geysers of half-molten sand spew into the air. Even from
+this distance, you feel the sting of smouldering sand.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6082
+D1
+~
+~
+0 0 6090
+D2
+~
+~
+0 0 6093
+D3
+~
+~
+0 0 6088
+S
+#6090
+The Blasted Desert~
+   The land in this area is marked with dark scars and small irregular craters.
+Similarly, active craters mar the surrounding terrain, as deadly sandholes
+swallow and spew tendrils of molton sand into the sky.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6083
+D1
+~
+~
+0 0 6091
+D2
+~
+~
+0 0 6094
+D3
+~
+~
+0 0 6089
+S
+#6091
+The Blasted Desert~
+   A smooth disc of darker black mars the ground here. It looks as if
+lightning struck here long ago, turning the sand into a circular sheet of black
+glass. All around you, globules of molton glass arc slowly into the air.
+~
+60 0 10
+D0
+~
+~
+0 0 6084
+D1
+~
+~
+0 0 6092
+D2
+~
+~
+0 0 6095
+D3
+~
+~
+0 0 6090
+S
+#6092
+The Blasted Desert~
+   From behind a wave-shaped wall of crystal, you hear the rumblings and wild
+churning of sand being crushed and tossed into the air. A gaping sandhole seems
+to appear before your eyes, engulfing the surrounding desert sands.
+~
+60 0 10
+D0
+~
+~
+0 0 6085
+D1
+~
+~
+0 0 5698
+D2
+~
+~
+0 0 6096
+D3
+~
+~
+0 0 6091
+S
+#6093
+The Blasted Desert~
+   Looking down, you see scattered hoofprints of a horse, ending in a great
+disarray of sand. Some great struggle took place here recently, carrying the
+poor beast into the air, or perhaps beneath the sand.
+~
+60 0 10
+D0
+~
+~
+0 0 6089
+D1
+~
+~
+0 0 6094
+S
+#6094
+The Blasted Desert~
+   A swirling sandhole has opened up, collapsing the nearby terrain and spewing
+forth again, in the form of semi-molton geysers. The molton sand congeals,
+still smoking, forming great massifs of blackened crystal.
+~
+60 0 10
+D0
+~
+~
+0 0 6090
+D1
+~
+~
+0 0 6095
+D2
+~
+~
+0 0 6097
+D3
+~
+~
+0 0 6093
+S
+#6095
+The Blasted Desert~
+   A circular sheet of dark glass has formed on the desert floor in this area.
+Perhaps created by a lightning strike, this still-smoking ring of glass looks
+as smooth as a sheet of black ice.
+~
+60 0 10
+D0
+~
+~
+0 0 6091
+D1
+~
+~
+0 0 6096
+D2
+~
+~
+0 0 6098
+D3
+~
+~
+0 0 6094
+S
+#6096
+The Blasted Desert~
+   The land in this area is marked with dark scars and small irregular craters.
+Similarly, active craters mar the surrounding terrain, as deadly sandholes
+swallow and spew tendrils of molton sand into the sky.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6092
+D1
+~
+~
+0 0 5721
+D2
+~
+~
+0 0 6099
+D3
+~
+~
+0 0 6095
+S
+#6097
+The Blasted Desert~
+   All around you, deadly sand-geysers spew molten silica from behind crystal
+monoliths. These giant spires buffer you against the full force of the geyser,
+but the strength of even a partial blast could easily prove fatal.
+~
+60 0 12
+R elemental_room.lua 4
+D0
+~
+~
+0 0 6094
+D1
+~
+~
+0 0 6098
+S
+#6098
+The Blasted Desert~
+   The ground is pock-marked with obsidian-like natural glass. Something has
+melted the black sand with intense heat, and formed a queer landscape - giant
+crystalline spires of hardened silica twisting upward from the ground.
+~
+60 0 10
+D0
+~
+~
+0 0 6095
+D1
+~
+~
+0 0 6099
+D3
+~
+~
+0 0 6097
+S
+#6099
+The Blasted Desert~
+   The desert is cratered with great holes and jagged black scars. In the
+distance, large sandholes appear - eddies of funneling sand, consuming the
+desert, and anything that dares to exist within it.
+~
+60 0 10
+D0
+~
+~
+0 0 6096
+D1
+~
+~
+0 0 5744
+D2
+~
+~
+0 0 5767
+D3
+~
+~
+0 0 6098
+S
+$~

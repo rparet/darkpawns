@@ -1,0 +1,373 @@
+#9900
+gauntlet gauntlets paladin~
+a silvery set of gauntlets~
+A silvery set of gauntlets lies here.~
+~
+11 2954240 0 0 0 129 0 0 0
+5 0 0 0 0
+5 1000 10065
+E
+gauntlet gauntlets paladin~
+The gauntlets are clearly mithril and seem tailored to the hands of a human.
+~
+A
+24 -5
+#9901
+girth paladin belt~
+a paladin's girth~
+A silver girth lies here, bearing the mark of a paladin.~
+~
+11 233697536 0 0 0 2049 0 0 0
+10 0 0 0 0
+1 1200 10015
+E
+girth paladin belt~
+Leather and reinforced with bands of flexible mithril, this girth
+seems capable of defending the waist while restraining chainmail.
+~
+#9902
+reddish longsword~
+a reddish longsword~
+A flame-red sword lies discarded here.~
+~
+5 159744 0 0 0 8193 0 0 0
+0 4 3 3 0
+10 1250 10025
+E
+sword longsword long flame red~
+This longsword appears to have been forged from a superior-quality
+ore.  Bands of bright silver wind their way up the magically sharp 
+blade.
+~
+A
+25 6
+A
+18 2
+A
+19 1
+#9903
+shiny plate leggings~
+shiny plate leggings~
+A set of shiny leggings lies in a heap here.~
+~
+9 2913280 0 0 0 24577 0 0 0
+8 0 0 0 0
+1 600 10025
+E
+shiny plate leggings~
+These leggings are thick steel plates.  They have aged well over the
+years.
+~
+#9904
+shield paladin silvery~
+a paladin's shield~
+A silvery shield lies here, bearing the crest of a long-dead paladin.~
+~
+9 233632000 0 0 0 513 0 0 0
+15 0 0 0 0
+10 800 10020
+E
+shield paladin silvery~
+The shield bears the crest of two rampant unircorns.  It is tall
+enough to be considered a body shield, yet not as cumbersome as
+other defensive armwear.
+~
+#9905
+armlets paladins guards arm~
+a set of armlets~
+A set of armlets shines on the ground here.~
+~
+9 122185 0 0 0 257 0 0 0
+4 0 0 0 0
+3 800 10020
+E
+armlets paladins guards arm~
+The armlets are made of pure mithril and were probably forged by a 
+dwarf.
+~
+A
+1 1
+#9906
+bow long longbow Alarian~
+Alarian's Longbow~
+Alarian's Longbow pulses subtly with a dull glow.~
+~
+2 141422921 0 0 0 8193 0 0 0
+0 4 4 0 0
+4 1200 10040
+E
+bow long longbow Alarian~
+Alarian's longbow is an ancient oak weapon once carved by a druid.
+The haft and handle are well suited for gripping and the stem holds
+a thread of magical silver wire that seems to bend with unnatural ease.
+~
+A
+18 1
+A
+19 1
+#9907
+buckler alarian shield ranger~
+a ranger's buckler~
+A buckler rests on the ground here.~
+~
+8 140792065 0 0 0 513 0 0 0
+10 0 0 0 0
+1 1400 10090
+E
+buckler alarian shield ranger~
+This buckler is small and wooden, though it has been reinforced
+with heavy bands.
+~
+#9908
+boots rangers ranger leather~
+a pair of ranger's boots~
+A pair of boots lie dusy from neglect.~
+~
+3 167571776 0 0 0 65 0 0 0
+4 0 0 0 0
+3 1500 10020
+E
+boots rangers ranger leather~
+The boots are elven-crafted and seem to be deerhide.  The soles are
+tanned and pale from use, but seem sturdy enough for daily wear.
+~
+A
+29 15
+A
+29 18
+#9909
+arm quiver~
+an arm quiver~
+A short leather quiver lies here.~
+~
+0 167702786 0 0 0 257 0 0 0
+10 1 -1 0 0
+3 1000 10050
+E
+quiver arm leather short~
+This quiver, made of tanned leather, is used to hold arrows for the members of the Ranger's guild.
+~
+A
+18 2
+#9910
+bracer bracers alarian oaken~
+a set of oaken bracers~
+A set of bracers lies on the ground.~
+~
+0 201121921 0 0 0 4097 0 0 0
+5 0 0 0 0
+2 2000 10065
+E
+bracer bracers alarian oaken~
+The bracers seems to be made from carved and enchanted oak.
+~
+#9911
+vest alarian leather crested crest~
+a crested leather vest~
+A crested leather vest lies in a heap here.~
+~
+0 159184192 0 0 0 9 0 0 0
+12 0 0 0 0
+10 3500 10050
+E
+vest alarian leather crested crest~
+The vest is deerhide and bears a ranger's crest.  A few tears have
+begun to appear at the seams, but it is still a servicable piece
+of armor.
+~
+A
+14 20
+#9912
+dagger alarian short~
+a short dagger~
+A short, tarnished dagger lies here, serviceable but dull.~
+~
+3 186966016 0 0 0 8193 0 0 0
+0 4 4 11 0
+7 750 10080
+E
+dagger alarian short~
+The dagger is small and sharp, but does not seem anything other than
+ordinary.  It appears to be the kind of knife a kobold would use.
+~
+A
+19 1
+A
+25 20
+#9913
+shrake winged daemon fly red devil devilish~
+a red-eyed, devilish shrake~
+A winged daemon with glowing eyes flies circles around your head.~
+~
+3 89768064 0 0 0 262145 0 0 0
+0 20 20 26 0
+1 2500 10030
+E
+shrake winged demon daemon~
+The shrake is a familiar and is known to serve his master until
+his destruction.
+
+It appears to be a small leathery gargoyle, with a wingspan of no
+more than a yard.
+~
+A
+12 6
+A
+24 -2
+A
+27 4
+#9914
+dagger demonic flaming legendary assassin woe~
+the Legendary Demonic Dagger of Woe~
+A small silvery dagger lies here.~
+~
+0 263712968 0 0 0 8193 0 0 0
+0 7 3 11 0
+2 3500 10001
+E
+dagger~
+This dagger bears a horrible curse.  The inscription says that it
+will age its wielder a hundred years - which would certainly kill
+any non-elf.
+~
+A
+18 2
+A
+19 2
+#9915
+tomb tombstone stone~
+a tombstone~
+A tombstone lies askew here.~
+~
+0 0 0 0 0 0 0 0 0
+500 10 9923 0 0
+0 0 10100
+E
+tomb tombstone stone~
+This is a simple tombstone.  The etching have been dulled over the
+years and are unreadable.
+~
+#9916
+tomb tombstone stone stationary~
+a tombstone~
+A tombstone lies askew here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+500 0 10100
+E
+tomb tombstone stone stationary~
+The tombstone is stone and seems to be eroded on the edges.
+~
+#9917
+key cemetary iron~
+the cemetary key~
+An iron key lies here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0
+0 10 10100
+E
+key ~
+It appears to unlock a gate.  It is small and iron and hasn't
+seen much use.
+~
+#9918
+urn~
+an urn~
+A small urn of ashes lies here.~
+~
+0 0 0 0 0 1 0 0 0
+5 5 -1 0 0
+5 100 10020
+E
+urn~
+The urn is golden and holds the ashes of a long-dead human.
+~
+#9919
+casket golden~
+a golden casket~
+The golden casket of a long-dead elf lies here.~
+~
+0 0 0 0 0 0 0 0 0
+550 5 -1 0 0
+500 0 10100
+E
+casket golden~
+The casket is small and seems to be tailored for the elf queen entombed
+within.  Though not of solid gold, the casket is adorned with rubies,
+emeralds, and sapphires to match the ruby lips, emerald eyes, and
+sapphire-blue tunic on the queen.
+~
+#9920
+corpse queen brail'lin~
+the corpse of clan Queen Brail'lin~
+The preserved corpse of Queen Brail'lin lies peacefully here.~
+~
+0 1 0 0 0 0 0 0 0
+0 0 0 0 0
+200 0 10100
+E
+corpse tela~
+The corpse is that of a perfectly preserved elf queen.  Though
+renowned to be cruel and manipulative, the serenity of a long
+peaceful death has brought the image of benelovence to her
+angular face and tapered ears.
+~
+#9921
+jadeite gem~
+a jadeite gem~
+A jadeite gem lies here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0
+0 50 10020
+E
+jadeite gem~
+It is a simple green semi-precious stone.
+~
+#9922
+chalice~
+a chalice~
+A silver chalice rests here, undisturbed by dust.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0
+0 2500 10100
+E
+chalice~
+The chalice is made from silver and seems to have been crafted
+specifically for the royal family of elves.  The chalice depicts
+a scene of a battle between an elvish mage and human wizard.  As
+you turn the chalice to follow the battle, you see the elf laying
+dead, the wizard standing above him, and a lithe elf woman at 
+the human's side, clasping the man in a warm embrace.
+~
+#9923
+key casket~
+the casket key~
+A small key lies here in a mound of dust.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0
+0 0 10085
+E
+key casket~
+The key is small and silver, finely polished, and probably enchanted
+because the key shows no signs of age.
+~
+#9924
+casket silver~
+a silver casket~
+A silver casket lies here.~
+~
+0 0 0 0 0 0 0 0 0
+250 5 -1 0 0
+0 0 10100
+E
+silver casket~
+The casket is simple, constructed from pure silver and etched with
+magical runes.  Its lid is also silver, and unlike its companion,
+shows no signs of a glass window.
+~
+$~

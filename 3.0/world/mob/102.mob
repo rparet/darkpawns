@@ -1,0 +1,366 @@
+#10200
+dragon brass xedent~
+Xedent, the brass dragon~
+The brass dragon lunges at you from across the room.
+~
+Covered in burnished scales, the brass dragon has made the abandoned citadel
+his home, and is not happy you have entered. A long tongue snakes from his
+mouth, and sharp talons claw the air.
+~
+defglnpqt dfhkst -1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+BareHandAttack: 3
+Race: 14
+Noise: The floor shakes beneath your feet.
+Script: dragon_breath.lua 256
+E
+#10201
+spirit vengeful~
+a vengeful spirit~
+The vengeful spirit of a Knight of Solamnia floats about.
+~
+When the last tortured scream of this Knight of Solamnia died out, his spirit
+was perversed through the dark forces of the black coven. The spirit resents
+your intrusion into its home - its final resting place. Even more, it resents
+your life, where it has none.
+~
+cdfgnpr bdfht -10 E
+60 110 60d8+1394 6d6
+0 23237
+8 8 0
+Race: 32
+E
+#10202
+hideous spider~
+a hideous spider~
+A hideous spider scurries across the stone floor.
+~
+Its swollen, black body pulsates as it creeps across the room. Perhaps the
+creature it has eaten most recently is somehow still alive within its bowels.
+Upon its back grows a ridge of hooked spikes, extending down toward its 
+hindmost legs, while sharp fangs protrude from between the short feeding
+appendages alongside its hideous mouth.
+~
+dlmnqz dfks -300 E
+39 67 39d8+730 4d5
+0 12177
+8 8 0
+BareHandAttack: 4
+Race: 8
+E
+#10203
+worm earthworm~
+a slime-covered worm~
+A great earthworm crawls up from between the cracked stones.
+~
+It creeps up from the dark earth, sliding slowly along the floor toward you.
+Leaving a smoking trail slime upon all that it touches, it looks as if the
+bodily secretions of this enormous annelid possess highly acidic qualities.
+Deep etchings are left across the stone where the beast has passed.
+~
+dfqrsz fks 0 E
+45 79 45d8+905 5d5
+0 15093
+8 8 0
+BareHandAttack: 10
+Race: 7
+E
+#10204
+aboleth beast carve_meat~
+the aboleth~
+A monstrous beast glides in through open channels in the floor.
+~
+Resembling a great, prehistoric eel, this agile creature swims deftly through
+this underwater temple turned tomb. Four long tentacles sprouting from behind
+the massive head twist and reach toward you, while pulsating organs alongside
+it's head secrete a foul, gray slime.
+~
+bdefpr dfghkpK -400 E
+75 143 75d8+1948 6d7
+50 32475
+8 8 0
+BareHandAttack: 10
+Race: 6
+E
+#10205
+Fire Ice flame blue~
+Fire and Ice~
+A great blue flame spirals high above the altar.
+~
+Spiralling wildly, a brilliant blue flame rises high above the altar. The
+roar of the air intensifies as it rushes to be consumed by the brilliant blue
+flame. Strangely, the air temperature appears to drop significantly, as if the
+flame were of burning ice.
+~
+bdenpqr dhkmpA 400 E
+84 163 84d8+2309 7d8
+0 38493
+8 8 0
+BareHandAttack: 12
+Race: 15
+Script: sungod.lua 64
+E
+#10206
+priestess high eyes shape dark takhisis~
+the High Priestess of Takhisis~
+Evil black eyes pierce the darkness, as a dark shape lunges toward you.
+~
+Covered in a black, hooded robe, with sleeves draped down over her hands, it's
+difficult to discern her shape as female, but the distinctly female voice
+raised in an eerie chant betrays her. Emblazoned upon her robes, the image of
+her goddess, Takhisis, the five-headed dragon spews flame across her form.
+Tall and strong beyond belief, all who must face her cringe in terror.
+~
+bdenpr dfhkptE -800 E
+84 163 84d8+2309 7d8
+1400 38493
+8 8 2
+BareHandAttack: 12
+Race: 13
+E
+#10207
+bat blood~
+a blood bat~
+A blood bat glides across the darkened room.
+~
+You see naught but darkness where the bat has passed.
+~
+dflqz fkpA -500 E
+21 33 21d8+288 3d5
+0 4811
+8 8 0
+BareHandAttack: 8
+Race: 10
+Noise: Something brushes against your face in the darkness.
+E
+#10208
+roach cockroach black~
+a filthy cockroach~
+A black roach scuttles across the floor.
+~
+Roach! Foulest of creatures, who attacks with yellow teeth. It scuttles as a
+mechanized lump of coal which the gods turned their wrath upon ages ago,
+making this the most loathsome of all creatures.
+~
+cdefhpqrz fks -300 E
+30 49 30d8+492 4d5
+20 8215
+8 8 0
+BareHandAttack: 10
+Race: 23
+E
+#10209
+Sturm knight ghost~
+Sturm Brightblade, the Protector~
+A knight of Solamnia wanders the narrow halls and empty streets.
+~
+Sturm, faithful protector of the citadel forever wanders the old roadways and
+halls seeking redemption from his disgrace in life. Failing in his sworn duty
+to defend the Citadel, he remains ever bound to rid this place of intruders.
+~
+degimpqrsu bdfkpsA 700 E
+72 136 72d8+1832 6d7
+0 30547
+8 8 1
+BareHandAttack: 12
+Race: 37
+E
+#10210
+squire shadow spirit~
+a squire's shadow~
+A lowly squire passes, intent upon the service of his knight.
+~
+The disembodied spirit of a knight's squire wanders this place on some
+unknown errand. Barely noticeable against the backdrop of the bleached-white
+walls of the city, this spectre takes no notice of your presence.
+~
+dmnprz df 300 E
+42 73 42d8+816 5d5
+55 13609
+8 8 1
+Race: 32
+E
+#10211
+Gunther Uth Wistan Lord Rose grand master~
+Lord Gunther Uth Wistan~
+The grand master is here, revealing his battle plans to his lords.
+~
+It looks, err, unfinished.
+~
+bdilmnprx dfhm 1000 E
+90 176 90d8+2561 8d8
+2 42690
+8 8 1
+Race: 32
+Script: no_move.lua 512
+E
+#10212
+Alfred MarKenin Lord Sword justice~
+Lord Alfred Markenin~
+A wise, old lord listens intently to his master.
+~
+It looks, err, unfinished.
+~
+bcdelmnprs dfh 700 E
+90 176 90d8+2561 8d8
+3 42690
+8 8 1
+Race: 32
+E
+#10213
+page boy child~
+a page~
+A young boy scurries past, clasping a roll of parchment in his hands.
+~
+You wonder what this small boy is doing in such a desolate place as this. The
+expression on his face shows a sense of urgency that surrounds his errand.
+You don't notice until he has passed, the shafts of several black arrows
+protruding from his back... He could never have survived such a grevious
+wound.
+~
+cdhmnprz dfk 200 E
+36 61 36d8+648 4d5
+25 10800
+8 8 1
+Race: 32
+E
+#10214
+Tanis Captain half-elven~
+Tanis Half-elven~
+The Captain of the Guards is here, watching over the broken Citadel gates.
+~
+The Captain of the Citadel guard stands before you, long dead, but forever
+holding his silent vigil over this broken holdfast. His eyes gaze out past the
+pillars, as if to pierce the blowing clouds of black sand in search of signs
+of approaching evil. His armor displays many dents and gashes that speak of
+both brave deeds and grave defeat.
+~
+bdlnprtx dfhkm 800 E
+96 190 96d8+2821 8d9
+1400 47030
+8 8 1
+Race: 32
+E
+#10216
+gebbeth zombie~
+a gebbeth~
+Wrapped in its burial shroud, a solitary being wanders the crypts.
+~
+You first notice two bright blue points of light emerge from the gloom of the
+crypt passageway. The stench of death and decay overwhelms you, as you realize
+that these are glowing eyes amidst a face of rotting flesh. Its foul form
+moves toward you in a slow, twisted fashion, its entrails dangling from its
+ravaged midsection, and dragging along the stone floor. Your mind wonders -
+Why is Frontline following me?
+~
+defnprsxz dfhkH -600 E
+78 149 78d8+2066 6d7
+300 34443
+8 8 0
+Race: 32
+E
+#10217
+Michael Jeoffrey Lord Crown~
+Lord Michael Jeoffrey~
+A young lord paces impatiently, in anticipation of battle.
+~
+It looks, err, unfinished.
+~
+bcdelmnpqrs bdfhkpsA 700 E
+90 176 90d8+2561 8d8
+1500 42690
+8 8 1
+BareHandAttack: 12
+Race: 37
+E
+#10218
+eel carve_meat~
+an eel~
+An eel swarms through the icy waters, circling around you.
+~
+Emitting sporadic flashes of dim blue light, the eel circles the room, drawing
+ever closer and more aggressive. Its mouth open, baring rows of razor-sharp
+triangular teeth.
+~
+dmqz dkpK 300 E
+24 38 24d8+352 3d5
+0 5878
+8 8 0
+BareHandAttack: 10
+Race: 18
+E
+#10275
+rat~
+a black rat~
+A large black rat scurries amid the refuse on the ground.
+~
+Dark eyes and sharp teeth flash as the rat turns to face you. His raises up
+on his haunches, his claws outstretched in a defensive posture.
+~
+cdhnqz kt 0 E
+21 33 21d8+288 3d5
+0 4811
+8 8 0
+BareHandAttack: 4
+Race: 30
+E
+#10300
+dragon brown shax'in shaxin~
+Shax'in, the brown dragon~
+The brown dragon rises up from the sand!
+~
+This wingless dragon is covered in craggy scales that seem to blend into the
+sand around him. Razor sharp teeth are honed to the point that tearing flesh
+from bones is child's play.
+~
+bdeflnpqt dfhkt -1000 E
+99 197 99d8+2955 9d9
+2000 49251
+8 8 1
+BareHandAttack: 3
+Race: 14
+Script: dragon_breath.lua 256
+E
+#10301
+dragon blue nixith~
+Nixith, the blue dragon~
+The blue dragon is here, watching you with sparkling eyes.
+~
+Covered in deep indigo scales, the blue dragon roars at you through a mouth
+full of glistening fangs. A sharp row of small horns starts at the tip of his
+snout, and morphs into rigid fins as they continue down the back of his neck.
+The great wyrm seems infuriated at your presence.
+~
+defglnpqt dfhkt -1000 E
+100 199 100d8+3000 9d9
+0 50000
+8 8 1
+BareHandAttack: 3
+Race: 14
+Script: dragon_breath.lua 256
+E
+#10302
+dracolich skeletal dragon~
+the dracolich~
+A skeletal dragon rises before you.
+~
+The creature bolts up in shock at the sight of you, emitting a terrifying ear-
+piercing shriek that sounds like the wailing screams of a thousand dying
+souls. At the end of each wing bone are claws with 8 hooked talons covered in
+decaying remains. Exoskeletal horns twist their way up from its skull, ending
+in points finer than any weapon. A skeletal mandible juts out, exposing
+thousands of tiny needle-sized fangs. The dracolich lunges in your direction
+with liquid speed, running in an eerily disjointed manner as it focuses its
+terrible undead gaze on you!
+~
+bdflnp bdfhk -1000 E
+100 199 100d8+3000 9d9
+5500 50000
+8 8 0
+BareHandAttack: 3
+Race: 14
+Script: dragon_breath.lua 256
+E
+$

@@ -1,0 +1,357 @@
+#3100
+helm black lacquered~
+a black-lacquered helm~
+A black-lacquered helm lies here.~
+~
+9 a ae 0
+7 0 0 0 4
+7 3 5000 50 0 1
+A
+18 2
+#3101
+blade enchanted~
+an enchanted blade~
+A glowing blade lies here.~
+~
+5 bg an 0
+1 5 4 3 3
+8 2 5000 50 0 1
+A
+18 3
+A
+19 3
+A
+7 -1
+R
+1 1
+#3102
+ninja suit cloth~
+a ninja suit~
+A black pile of cloth lies here.~
+~
+9 0 ad 0
+5 0 0 0 3
+1 2 6000 55 0 1
+A
+28 2
+#3103
+cloak ninja cloth~
+a ninja cloak~
+A black pile of cloth lies here.~
+~
+11 0 ak 0
+0 0 0 0 3
+2 3 6000 45 0 1
+A
+19 1
+#3104
+sword katana~
+a katana~
+A katana lies in the dirt.~
+~
+5 0 an 0
+1 4 4 3 4
+3 2 5000 10 0 1
+A
+18 2
+A
+1 -1
+#3105
+sword pure~
+a pure sword~
+A flawless sword lies here.~
+~
+5 g an 0
+1 9 2 3 4
+10 2 8000 45 0 1
+A
+18 -3
+R
+1 1
+#3106
+chain mail silver~
+some silver chain mail~
+A pile of silver chain mail lies here.~
+~
+9 0 ad 0
+8 0 0 0 6
+15 3 400 90 0 1
+#3107
+boots black~
+some black boots~
+A pair of black boots sit here.~
+~
+9 0 ag 0
+2 0 0 0 7
+4 3 101 85 0 1
+#3108
+helmet golden~
+a golden helmet~
+A golden helmet lies here.~
+~
+9 gk ae 0
+10 0 0 0 2
+10 3 7000 5 0 1
+A
+27 1
+A
+7 -1
+#3109
+armor golden~
+some golden armor~
+Some golden armor lies here.~
+~
+9 bgk ad 0
+10 0 0 0 2
+30 3 7000 50 0 1
+A
+4 1
+A
+27 3
+A
+7 -1
+#3110
+boots golden~
+some golden boots~
+A pair of golden boots sit here.~
+~
+9 b ag 0
+5 0 0 0 3
+7 2 1000 45 0 1
+A
+28 1
+A
+23 -2
+A
+7 -1
+#3111
+tunic forest green cloth~
+a forest-green tunic~
+A forest-green tunic lies here.~
+~
+9 0 ad 0
+5 0 0 0 6
+4 2 120 95 0 1
+#3112
+pants forest green cloth~
+some forest-green pants~
+Some forest-green pants lie here.~
+~
+11 0 af 0
+5 0 0 0 6
+5 2 125 80 0 1
+A
+17 1
+#3113
+dirk shiny~
+a shiny dirk~
+A shiny dirk lies here.~
+~
+5 hj an 0
+6 2 2 11 6
+3 1 650 55 0 1
+A
+18 2
+A
+19 2
+#3116
+cowl monk cloth~
+a monk's cowl~
+A pile of brown cloth lies here.~
+~
+9 jk ad 0
+3 0 0 0 5
+7 3 1500 90 0 1
+E
+monk cowl cloth~
+It's a coarse, brown hooded robe.~
+A
+18 1
+A
+24 -4
+#3117
+shirt velvet~
+a velvet shirt~
+A velvet shirt lies here.~
+~
+11 0 ad 0
+0 0 0 0 4
+1 3 100 100 0 1
+E
+shirt~
+It's made of soft black velvet. Elvis would have loved it.~
+#3118
+pants pair velvet~
+a pair of velvet pants~
+A pair of velvet pants lies here.~
+~
+11 0 af 0
+0 0 0 0 5
+3 3 110 95 0 1
+E
+pants pair~
+  It's made of soft black velvet. Elvis would have loved it.~
+#3119
+dirk silver~
+a silver dirk~
+A sleek silver dirk lies here.~
+~
+5 0 an 0
+6 2 2 11 6
+1 1 400 65 0 1
+E
+dirk sleek shiny~
+  The sleek little knife sharply shines.~
+#3120
+apron dingy~
+a dingy apron~
+A dingy apron lies here.~
+~
+11 0 ak 0
+0 0 0 0 7
+1 3 20 95 0 1
+#3121
+towel~
+a bar towel~
+A towel lies here in the dust.~
+~
+13 cdp ao 0
+0 0 0 0 0
+1 3 2 100 0 1
+E
+towel~
+  No hoopy frood would be caught dead without one.~
+#3122
+board~
+a board~
+A small wooden board carved with runes lies here.~
+~
+5 gjk an 0
+5 3 5 7 5
+8 2 150 75 0 1
+A
+19 4
+#3123
+armor dull black~
+some dull black armor~
+A set of dull black armor is lying here.~
+~
+9 agj ad 0
+5 0 0 0 4
+20 2 6000 45 0 1
+A
+27 1
+A
+3 1
+A
+7 1
+#3124
+sleeves dull black~
+some dull black sleeves~
+A pair of dull black sleeves are lying here.~
+~
+9 agj ai 0
+5 0 0 0 4
+8 2 2020 45 0 1
+A
+27 3
+A
+20 -1
+A
+24 -1
+A
+7 1
+#3126
+medallion death~
+a medallion of Death~
+A dark medallion lies here.~
+~
+8 agj ac 0
+0 0 0 0 2
+1 3 1650 35 0 1
+E
+medallion death~
+It's a black medallion with a skull imprinted on it.~
+A
+27 1
+A
+9 10
+A
+5 -2
+#3127
+robes velvet~
+velvet robes~
+Some velvet robes lie on the floor.~
+~
+11 0 ak 0
+0 0 0 0 3
+4 3 500 90 0 1
+#3128
+skull~
+a skull~
+An elven skull lies here.~
+~
+12 0 ao 0
+0 0 0 0 0
+3 3 10 100 0 1
+#3129
+leggings dull black~
+some dull, black leggings~
+Some dull, black leggings are lying here.~
+~
+9 agj af 0
+6 0 0 0 4
+9 1 4800 40 0 1
+A
+27 1
+A
+7 1
+#3137
+vial blood potion~
+a vial of blood~
+A vial of blood lies here.~
+~
+10 ag a 0
+50 95 0 0 0
+1 3 200 40 0 1
+E
+vial blood potion~
+It's a vial of blood from some poor soul.~
+#3143
+table wooden plain~
+a table~
+A wooden table sits here on four uneven legs.~
+~
+13 ep 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+#3144
+chair~
+a chair~
+A wooden chair sits here.~
+~
+13 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+#3146
+throne~
+a black throne~
+A gigantic black throne is here.~
+~
+13 0 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+throne~
+It looks to be made of elven bones, dyed black with blood and ichor.~
+#3150
+armor black lacquered~
+a suit of black, lacquered armor~
+A suit of black, lacquered armor lies here.~
+~
+9 bg ad 0
+10 0 0 0 3
+13 3 2000 50 0 1
+A
+1 2
+$~

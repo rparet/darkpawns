@@ -1,0 +1,9 @@
+#sh
+
+echo Copying script files...
+cp obj/* ~pawns/mud/lib/scripts/obj
+cp mob/* ~pawns/mud/lib/scripts/mob
+cp room/* ~pawns/mud/lib/scripts/room
+cp globals.lua ~pawns/mud/lib/scripts
+
+echo Done!

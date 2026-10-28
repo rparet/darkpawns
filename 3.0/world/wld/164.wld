@@ -1,0 +1,205 @@
+#16400
+A large clearing~
+You are standing in a small clearing in a field. As you look
+around you see you are in a enormous valley, all around you are
+large leafy plants and trees. There is some large footprints
+in the ground here, looks like they were made from some
+gigantic beast.
+~
+164 0 0 0 0 2
+D0
+~
+~
+0 0 16401
+D1
+~
+~
+0 0 16405
+D2
+~
+~
+0 0 16408
+D3
+~
+~
+0 0 16409
+S
+#16401
+Edge of a clearing~
+You are in the northern end of the clearing birds and sound of
+other animals are all round you. The jungle is just before
+you, it is quite dark and mysterious. There is some bones a
+flesh scattered around here.
+~
+164 0 0 0 0 2
+D0
+~
+~
+0 0 16402
+D2
+~
+~
+0 0 16400
+S
+#16402
+Edge of the jungle~
+You have just entered the outer rim of the jungle, there is
+many strange plants and little rodents scurring around as you
+enter. This jungle is quite dark, except for some rays of
+sinlight poking through the canopy. You think you see some
+large outlines in the distance, they almost look like they are
+moving.
+~
+164 0 0 0 0 3
+D0
+~
+~
+0 0 16403
+D2
+~
+~
+0 0 16401
+S
+#16403
+In the jungle~
+You are now fairly deep into the jungle, there is strange
+sounds comeing from all over the place it seems. You are able
+to make out the outlines, they look like giant beasts of some
+sort. There is dense foliage and lots of leaves and broken sticks
+on the ground here making it difficult to walk.
+~
+164 0 0 0 0 3
+D2
+~
+~
+0 0 16402
+D3
+~
+~
+0 0 16404
+S
+#16404
+In the jungle~
+You follow what seems to be a path, however you have no idea
+hwere it leady, except into darkness. You can hear what sounds
+like twigs snapping, and some of the tree's around here look as
+if some giant beast has beeing grazing on them. There is also
+large indentations in the ground here.
+~
+164 0 0 0 0 3
+D1
+~
+~
+0 0 16403
+S
+#16405
+Edge of a clearing~
+You are standing on the eastern edge of the clearing, the jungle is just
+before you, you hear strange sounds comeing from it. There is some large ferns
+and other plantlife around here, as you bend down to examine a shrub a small
+lizard scurries out from under it, scaring the wits out of you.
+~
+164 0 0 0 0 2
+D1
+~
+~
+0 0 16406
+D3
+~
+~
+0 0 16400
+E
+<not set>~
+<not set>
+~
+S
+#16406
+In the jungle~
+You have just entered the dark jungle, strange vines and webs lash you in the
+face, making it difficult to walk through. There is all sorta of plantlife
+htat you have never seen before, and you notice some large footprints in the
+ground here, perhaps made by some gigantic beast.
+~
+164 0 0 0 0 3
+D2
+~
+~
+0 0 16407
+D3
+~
+~
+0 0 16405
+S
+#16407
+In the jungle~
+You have entered deeper into the jungle, not much light passes throught the
+dense canopy far above you. The tree are covered with dense vines and ivy,
+making them slick and slimey. An occasional ray of sunlight passes through the
+treetops, helping calm your senses.
+~
+164 0 0 0 0 3
+D0
+~
+~
+0 0 16406
+S
+#16408
+Edge of a clearing~
+You are standing at the southern edge of a clearing, you can see the valley
+extends far in all directions. You can catch glimses of snowcapped mountains
+in the distance. The jungle begins to the south and is spooky and creepy,
+you are beginning to wonder if this is a dream...
+~
+164 0 0 0 0 0
+D0
+~
+~
+0 0 16400
+D2
+~
+~
+0 0 16410
+S
+#16409
+Edge of a clearing~
+You are standing on the western edge of a large clearing, the dense jingle
+is just to your west. There is some parge leafy plants and tall tree, almost
+like a rainforest. You see that some of the plants are here have been uprooted
+and the leave have been eaten off, you wonder what kind of animal did it.
+~
+164 0 0 0 0 0
+D1
+<NONE>@
+~
+~
+0 0 16400
+S
+#16410
+Edge of the jungle~
+You are standing on the edge of the jungle, and a strange jungle at that. It
+almost seems alien, you don't reckonize any of the oversized ferns and other
+plantlife that grows within it. You wonder what kind of animals would live in
+such a place.
+~
+164 0 0 0 0 3
+D0
+~
+~
+0 0 16408
+S
+#16499
+Swank's special room~
+You are standing in a very special room, the only thing here is a very large
+bookah type bong in the center of the room.
+~
+164 787676 0 0 0 0
+D0
+~
+~
+0 0 1204
+D5
+~
+~
+0 0 16400
+S
+$~

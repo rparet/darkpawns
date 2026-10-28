@@ -1,0 +1,868 @@
+#16200
+Entrance to the Darkwood Forest~
+You stand among huge black trunked trees that reach into a canopy of
+leaves that rests like a huge upside ocean nearly forty feet above your
+head. The underbrush here is thick with thorns and wiry vines.
+~
+162 4 0 0 0 3
+D0
+~
+~
+0 0 16201
+D2
+~
+~
+0 0 19793
+E
+map~
+map goes here.
+~
+S
+#16201
+A Small Trail in Darkwood Forest~
+You stand on a small trail that winds through the dense undergrowth. The
+path continues to the north, and you may be able to push your way through
+to the east or west where a small stream cuts through the thorn bushes.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16202
+D2
+~
+~
+0 0 16200
+D3
+~
+~
+0 0 16203
+S
+#16202
+A Trail in Darkwood Forest~
+The trail continues to the north, thorns and rough branches rip at your
+face and armor as you force your way through the dense undergrowth.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16206
+D2
+~
+~
+0 0 16201
+S
+#16203
+In a Small Stream~
+You stand about knee deep and a small stream that runs downhill to the
+west. A small dirt path meets the stream to the north.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16204
+D1
+~
+~
+0 0 16201
+S
+#16204
+A Path Ending ~
+You stand at the end of a small dirt path through the forest, a small
+steam flows downhill to the west just south of here.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16205
+D2
+~
+~
+0 0 16203
+S
+#16205
+A Path in the Darkwood Forest~
+Your standing on a path that heads east and south through the dense
+forest. It looks like you could probably force your way through the
+brush to the west.
+~
+162 1 0 0 0 3
+D1
+~
+~
+0 0 16206
+D2
+~
+~
+0 0 16204
+D3
+~
+~
+0 0 16219
+S
+#16206
+An Intersection in Darkwood~
+A trail heading north and south crosses a narrow dirt path here. This
+place in the dark woods seems strangely quiet, and there is no sign of
+any wildlife.
+~
+162 5 0 0 0 3
+D0
+~
+~
+0 0 16207
+D1
+~
+~
+0 0 16208
+D2
+~
+~
+0 0 16202
+D3
+~
+~
+0 0 16205
+S
+#16207
+A Dead End~
+The trail becomes entirely overgrown with thorn bushes here. 
+~
+162 1 0 0 0 3
+D2
+~
+~
+0 0 16206
+S
+#16208
+A Turn in the Path~
+The path turns here running west and north.  There is something sinister
+about the forest here, the deep shadows among the trees and brush seem
+to shift and twist before your eyes, stretching strange darks ribbons
+across the path around you.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16209
+D3
+~
+~
+0 0 16206
+S
+#16209
+On a Path Through Darkwood Forest~
+There is something sinister about the forest here, the deep shadows
+among the trees and undergrowth seem to shift before your eyes, casting
+strange dark ribbons across the path.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16210
+D2
+~
+~
+0 0 16208
+S
+#16210
+A T-Intersection in the Path~
+You stand at an intersection, the path continues to the west and east. 
+The western branch of the path is almost entirely overgrown with thick
+thorn bushes and vines.
+~
+162 1 0 0 0 3
+D1
+~
+~
+0 0 16217
+D2
+~
+~
+0 0 16209
+D3
+~
+~
+0 0 16211
+S
+#16211
+An Overgrown Path in Darkwood~
+The undergrowth here is barely thin enough for you to hack and force your
+way along the path.  The forest seems a bit less dense to the east.
+~
+162 1 0 0 0 3
+D1
+~
+~
+0 0 16210
+D3
+~
+~
+0 0 16212
+S
+#16212
+An Overgrown Path in Darkwood~
+The path cuts a small hole through the brush to the south here, if you
+kneel down and scrunch up your shoulders you may be able to crawl through.
+~
+162 1 0 0 0 3
+D1
+~
+~
+0 0 16211
+D2
+~
+~
+0 0 16213
+S
+#16213
+A Small Clearing~
+The thorn bushes and vines have been cleared away here in about a fifteen
+square foot area.  An old crumbling gore stained altar stands at the
+center of the clearing on a small mound.  The whole area stinks of death
+and decay.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16212
+S
+#16214
+A Dead End~
+It's hard to tell if the path actually stops here or if over time the 
+forest has just entirely overgrown it to the west. Either way the only
+exit appears to be back the way you came to the east. A large vine
+covered pit descends down into the darkness before you.
+~
+162 1 0 0 0 3
+D1
+~
+~
+0 0 16215
+D5
+The pit leads down into darkness; no sound comes from within and it certainly
+doesn't look inviting.
+~
+~
+0 0 16231
+S
+#16215
+An Overgrown Path in Darkwood~
+The dark forest here seems jagged, the strange twisted shadows of huge
+skeletal limbed trees and thorn covered undergrowth tower over you
+menacingly.  The path continues to the east and west from here.
+~
+162 1 0 0 0 3
+D1
+~
+~
+0 0 16216
+D3
+~
+~
+0 0 16214
+S
+#16216
+An Overgrown Path in Darkwood~
+The dark forest here seems jagged, the strange twisted shadows of huge
+skeletal limbed trees and thorn covered undergrowth tower over you
+menacingly.  The path continues through the darkness to the east and
+west.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16229
+D1
+~
+~
+0 0 16218
+D3
+~
+~
+0 0 16215
+S
+#16217
+Along a Path in Darkwood~
+The path turns to the north here. There is an eerie stillness to the
+forest here, as if everything living suddenly disappeared..
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16218
+D2
+~
+~
+0 0 16230
+D3
+~
+~
+0 0 16210
+S
+#16218
+An Intersection of Paths in Darkwood~
+The path turns sharply to the west here. There is something strange
+looking about the brush to the east.
+~
+162 0 0 0 0 3
+D1
+~
+brush secret~
+1 0 16250
+D2
+~
+~
+0 0 16217
+D3
+~
+~
+0 0 16216
+E
+brush~
+Its looks very.. ordered is the only word that comes to mind. The brush looks
+like it was placed in such a way as if to conceal something...
+~
+S
+#16219
+Along the River in Darkwood~
+You stand in the dense brush along a river bank, just south of here a  
+small stream runs into a wide churning river. You can hear the water as
+it crashes into the banks and rocks that jut from it's foaming surface.
+~
+162 5 0 0 0 3
+D1
+~
+~
+0 0 16205
+D3
+~
+~
+0 0 16220
+S
+#16220
+Along the River in Darkwood~
+You stand in the dense brush along a river bank, just south of here a
+a wide river crashes against the banks. To the west you can barely make
+out a rope bridge crossing the water.
+~
+162 1 0 0 0 3
+D1
+~
+~
+0 0 16219
+D3
+~
+~
+0 0 16221
+S
+#16221
+At the Darkwood River Bridge~
+The forest opens up here a little at the edge of the river where a
+rickety looking rope bridge is tied across the water to the south.
+~
+162 1 0 0 0 3
+D1
+~
+~
+0 0 16220
+D2
+~
+~
+0 0 16222
+S
+#16222
+On the Rope Bridge~
+You stand on a rope and wooden plank bridge that teeters dangerously
+over the rushing water below you. The planks look old and rotten.
+you would be wise to get off this thing before you tumble into river
+and drown.
+~
+162 0 0 0 0 3
+D0
+~
+~
+0 0 16221
+D2
+~
+~
+0 0 16223
+S
+#16223
+At the Darkwood River Bridge~
+The forest opens up here a little at the edge of the river where a
+rickety looking rope bridge is tied across the water to the north.
+There is a small burned out campfire here.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16222
+D1
+~
+~
+0 0 16224
+S
+#16224
+Along the River in Darkwood~
+You stand in the dense brush along a river bank, just north of here a
+a wide river crashes against the banks. To the northwest you see a rope 
+bridge crossing the churning water.
+~
+162 1 0 0 0 3
+D1
+~
+~
+0 0 16225
+D2
+~
+~
+0 0 16226
+D3
+~
+~
+0 0 16223
+S
+#16225
+Along the River in Darkwood~
+You stand in the dense brush along a river bank. You hear the sounds
+of crashing water as the river smashes into the banks and rocks
+to the north of here.
+~
+162 5 0 0 0 0
+D2
+~
+~
+0 0 16227
+D3
+~
+~
+0 0 16224
+S
+#16226
+In Darkwood Forest~
+There is a small circle of grass and vines here where the brush is
+mysteriously absent. You also notice that it's strangely quiet here
+not even the crickets are making any noise.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16224
+S
+#16227
+In Darkwood Forest~
+There is a small mound of leaves and branches in the brambles here, you
+realize on second glance that it is a small hut of some kind. the
+undergrowth to the east and west is to thick to allow passage, the only
+exit appears to be back the way you came to the north.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16225
+D2
+~
+hut~
+1 0 16228
+S
+#16228
+In the Goblin Hut~
+You have to kneel down to get through the small doorway, the roof of
+limbs, leaves and vines is only about 5 feet above the ground.
+Several animal skins and hunks of dried meat hang from the walls and
+ceiling. A small hole in the roof allows smoke from a cook-fire to escape.
+~
+162 1 0 0 0 3
+D0
+~
+hut~
+1 0 16227
+S
+#16229
+In the Dense Undergrowth of Darkwood Forest~
+You stand in a narrow clear area in the ocean of thorny brush and vines
+where a massive Darkwood tree has fallen.
+~
+162 1 0 0 0 3
+D2
+~
+~
+0 0 16216
+S
+#16230
+In the Dense Undergrowth of Darkwood Forest~
+There is a small circle of grass and vines here where the brush is
+mysteriously absent.
+~
+162 1 0 0 0 3
+D0
+~
+~
+0 0 16217
+S
+#16231
+In the Dead-fall~
+You tumble down the rough rock and dirt covered wall of the dead-fall to
+land with a painful crash at the bottom.  As you stand and dust yourself
+off you notice several nasty looking spears stuck in the ground, their
+sharp barbed tips pointing towards the sky.  Your lucky you didn't
+disembowel yourself on one when you landed.
+~
+162 5 0 0 0 0
+D1
+~
+grate~
+1 0 16271
+S
+#16250
+A Cave Entrance~
+   A low dark cave is buried in the undergrowth the east.  A few small
+wisps of smoke rise lazily from it's edges.
+~
+162 1 0 0 0 3
+D1
+~
+~
+0 0 16251
+D3
+~
+brush secret~
+1 0 16218
+S
+#16251
+In a Dark Moldy Passage~
+You stand in a damp mold and rotten vegetation filled passage that runs
+east and west. There are a few tanned leather hides tied to poles here,
+one with a gruesome image of a human skull with the side caved in,
+the other with some unknown language scrawled across it in deep
+red lettering.
+~
+162 1 0 0 0 0
+D1
+~
+~
+0 0 16252
+D3
+~
+~
+0 0 16250
+S
+#16252
+In a Dark Moldy Passage~
+The passage turns to the south here, and also leads back to the west.
+The ground under your feet makes disgusting sucking and squishing noises
+every time you take a step.
+~
+162 5 0 0 0 0
+D2
+~
+~
+0 0 16253
+D3
+~
+~
+0 0 16251
+S
+#16253
+In a Dark Moldy Passage~
+The passage turns to the east here, and also leads back to the north.
+The ground under your feet makes disgusting sucking and squishing noises
+every time you take a step.
+~
+162 1 0 0 0 0
+D0
+~
+~
+0 0 16252
+D1
+~
+~
+0 0 16254
+S
+#16254
+In A Damp Passage~
+Some of the rotten vegetation and vines have been cleared away here.
+Shadows cast by a few torches further down the hall to the east play
+across the raw earth walls.
+~
+162 1 0 0 0 0
+D1
+~
+~
+0 0 16255
+D3
+~
+~
+0 0 16253
+S
+#16255
+A Guard Post in the Passage~
+A few logs are here set on end for chair, along with a small cook fire.
+The northern wall is entirely covered with various animal skins, one
+stirs a little as if brushed by a slight breeze. Glancing at the
+torches in the wall you can't help but wonder why these goblins would
+have torches when they can obviously see in the darkness just fine.
+~
+162 0 0 0 0 0
+D0
+~
+fur~
+1 0 16257
+D1
+~
+~
+0 0 16256
+D3
+~
+~
+0 0 16254
+S
+#16256
+A Gate in the Passage~
+The passage is blocked here by a large wood an vine woven gate. Furs and
+various other animal skins cover the muddy floors and walls.
+~
+162 1 0 0 0 0
+D1
+~
+gate~
+1 0 16267
+D3
+~
+~
+0 0 16255
+S
+#16257
+In a Secret Passage~
+You stand in a narrow passage leading north. The south wall is covered in
+furs and vines.
+~
+162 5 0 0 0 0
+D0
+~
+~
+0 0 16258
+D2
+~
+fur~
+1 0 16255
+S
+#16258
+In a Secret Passage~
+The passage turns the the west here and heads back to the south.
+~
+162 1 0 0 0 0
+D2
+~
+~
+0 0 16257
+D3
+~
+~
+0 0 16259
+S
+#16259
+A Small Chamber~
+This room is littered with bones, hunks of flesh and several other things
+that you can't quite figure out what are <or where>.  The walls are
+decorated with several banners of tanned leather covered in strange
+writing and symbols.
+~
+162 1 0 0 0 0
+D1
+~
+~
+0 0 16258
+S
+#16260
+A Large Open Chamber~
+You stand in an immense open chamber, the ceiling is hidden in deep
+shadows about twenty feet overhead. The floor of the chamber is dotted
+with cook fires surrounded by small areas of animal skins. 
+~
+162 1 0 0 0 0
+D1
+~
+~
+0 0 16261
+D2
+~
+~
+0 0 16262
+D3
+~
+~
+0 0 16267
+S
+#16261
+NE Corner of a Large Open Chamber~
+You stand in an immense open chamber, the ceiling is hidden in deep
+shadows about twenty feet overhead. The floor of the chamber is dotted
+with cook fires surrounded by small areas of animal skins. 
+~
+162 1 0 0 0 0
+D2
+~
+~
+0 0 16263
+D3
+~
+~
+0 0 16260
+S
+#16262
+SW Corner of a Large Open Chamber~
+You stand in an immense open chamber, the ceiling is hidden in deep
+shadows about twenty feet overhead. The floor of the chamber is dotted
+with cook fires surrounded by small areas of animal skins. 
+~
+162 1 0 0 0 0
+D0
+~
+~
+0 0 16260
+D1
+~
+~
+0 0 16263
+S
+#16263
+SE Corner of a Large Open Chamber~
+You stand in an immense open chamber, the ceiling is hidden in deep
+shadows about twenty feet overhead. The floor of the chamber is dotted
+with cook fires surrounded by small areas of animal skins. There is
+a dark tunnel opening in the south wall here.
+~
+162 1 0 0 0 0
+D0
+~
+~
+0 0 16261
+D2
+~
+~
+0 0 16264
+D3
+~
+~
+0 0 16262
+S
+#16264
+In a Damp Tunnel~
+You are in a damp tunnel than runs north and south from here.
+~
+162 261 0 0 0 0
+D0
+~
+~
+0 0 16263
+D2
+~
+~
+0 0 16265
+S
+#16265
+In a Damp Tunnel~
+The tunnel comes to a stop here at a large black wooden door. A tanned
+animal skin with a big caved in human skull drawn on it is nailed into
+the wood with iron spikes.
+~
+162 1 0 0 0 0
+D0
+~
+~
+0 0 16264
+D2
+~
+door~
+1 16234 16266
+S
+#16266
+The Goblin Lords Throne Room~
+You stand in a large dark room, a black wooden throne cut out of a big
+tree stump is sitting in the center of the room. The walls are covered
+with furs and skins depicting scenes of battle and destruction.
+Two poles rise on either side of the throne with rotten elven heads
+jammed on then ends.
+~
+162 1 0 0 0 0
+D0
+~
+door~
+1 16234 16265
+S
+#16267
+In a Dark Moldy Passage~
+The narrow muddy passage runs to the east into a large chamber from here
+and west to a gate of woven vines and limbs.
+~
+162 5 0 0 0 0
+D1
+~
+~
+0 0 16260
+D3
+~
+gate~
+1 0 16256
+S
+#16271
+A Moldy Damp Passage~
+You stand in a damp moldy tunnel which extends into the darkness to the
+east. The smell of rotting vegetation and damp earth hangs in the air
+here like a fog, it makes you want to gag.
+~
+162 257 0 0 0 0
+D1
+~
+~
+0 0 16272
+D3
+~
+grate~
+1 0 16231
+S
+#16272
+A Moldy Damp Passage~
+You stand in a damp moldy tunnel which extends into darkness to the west
+and east. The smell of rotting vegetation and damp earth hangs in the
+here like a fog, it makes you want to gag.
+~
+162 257 0 0 0 0
+D1
+~
+~
+0 0 16273
+D3
+~
+~
+0 0 16271
+S
+#16273
+A Moldy Damp Passage~
+The tunnel comes to a halt here, a small wooden ladder leads up to
+a trap door made of woven vines and tree limbs.
+~
+162 257 0 0 0 0
+D3
+~
+~
+0 0 16272
+D4
+~
+trapdoor~
+1 0 16255
+S
+$~

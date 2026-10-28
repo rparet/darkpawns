@@ -1,0 +1,114 @@
+#11700
+crystal shard~
+a shard of crystal~
+A crystal shard lies here.~
+~
+1 ag ao 0
+0 0 50 0 0
+1 3 100 20 0 1
+#11701
+chunk crystal crystalline~
+a crystalline chunk~
+A small chunk of crystal has been left here.~
+~
+12 a a 0
+0 0 0 0 0
+2 3 300 100 0 1
+E
+chunk crystal crystalline~
+The crystal glows softly in your hands, pulsing at irregular intervals.
+~
+#11702
+wooden crate~
+a wooden crate~
+A wooden crate sits on the sandy ground.~
+~
+15 0 0 0
+20 0 -1 0 0
+10 3 50 100 0 1
+E
+wooden crate~
+It's a simple wooden crate, although it has lengths of rope at each end to
+assist in lifting and carrying it.
+~
+#11703
+staff crystal~
+a crystal staff~
+A clear staff lies in the dirt here.~
+$n waves $p around in the air and an ethereal glow descends upon $N.
+~
+4 abg ao 0
+30 3 2 1 4
+6 3 200 20 0 1
+R
+6 1
+#11704
+sword crystal~
+a crystal sword~
+A crystal sword has been dropped here.~
+~
+5 b an 0
+1 4 4 3 4
+5 2 100 20 0 1
+#11705
+ring crystal~
+a crystal ring~
+A clear ring has been dropped here.~
+~
+11 a ab 0
+0 0 0 0 0
+1 3 150 20 0 1
+A
+18 1
+#11706
+gloves crystalline crystal~
+some crystalline gloves~
+A pair of crystalline gloves lies on the ground.~
+~
+9 a ah 0
+3 0 0 0 3
+2 3 220 100 0 1
+E
+crystal crystalline gloves~
+The gloves are quite solid and suprisingly fairly light.
+~
+#11707
+leggings crystalline crystal~
+some crystalline leggings~
+A set of crystalline leggings has been left here.~
+~
+9 a af 0
+5 0 0 0 3
+10 2 400 100 0 1
+E
+crystal crystalline leggings~
+The leggings have been constructed from chunks of pure crystal but,
+surprisingly, are quite flexible and strong.
+~
+#11708
+sleeves crystalline crystal~
+some crystalline sleeves~
+A set of crystalline sleeves has been left here.~
+~
+9 a ai 0
+5 0 0 0 3
+6 2 540 100 0 1
+E
+crystal crystalline sleeves~
+The sleeves have been constructed from chunks of pure crystal but,
+surprisingly, are quite flexible and strong.
+~
+#11709
+breastplate crystal crystalline breast plate~
+a crystalline breastplate~
+A crystalline breastplate has been carelessly left here.~
+~
+9 a ad 0
+10 0 0 0 3
+30 3 850 100 0 1
+E
+crystal crystalline breast plate breastplate~
+The breastplate is quite solid and bulky and should afford you some good
+protection.
+~
+$~

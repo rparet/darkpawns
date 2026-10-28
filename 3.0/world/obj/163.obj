@@ -1,0 +1,119 @@
+#16300
+wooden desk~
+a wooden desk~
+A small wooden desk covered with guard applications sits against the wall.~
+~
+12 e 0 0
+0 0 0 0 0
+1 0 100
+E
+desk~
+The desk is covered with forms and memoranda from the Church, as well as
+a stack of guard service applications.  Completing training in this facility
+is almost a guarentee of acceptance into the ranks of the Holy Guard.
+~
+#16301
+spear pitchfork~
+a pitchfork~
+A pitchfork is lying here.~
+~
+5 0 an 0
+4 1 7 14 6
+8 28 60
+#16302
+hat straw~
+a straw hat~
+A dirty old straw hat is lying here.~
+~
+11 0 ae 0
+0 0 0 0 0
+2 0 90
+#16303
+mace nightstick wooden~
+a black wooden nightstick~
+A short black nightstick is lying here.~
+~
+5 0 an 0
+5 2 4 7 4
+3 0 70
+#16304
+jumpsuit grey cloth~
+a grey jumpsuit~
+A grey jumpsuit that is labeled "Trainee" lies here.~
+~
+9 0 ad 0
+1 0 0 0 6
+2 5 100
+#16305
+jumpsuit white cloth~
+a white jumpsuit~
+A white jumpsuit labeled "Trainee" lies here.~
+~
+9 0 ad 0
+2 0 0 0 6
+2 30 100
+#16306
+armor green training~
+some green training armor~
+Some light green armor used for training lies here.~
+~
+9 0 ad 0
+4 0 0 0 6
+10 150 100
+#16307
+armor brown training~
+some brown training armor~
+Some brown armor suitable for practice lies here.~
+~
+9 0 ad 0
+5 0 0 0 6
+10 200 100
+#16308
+sword sabre training~
+a training sabre~
+A poorly crafted sabre used for training lies in the dust here.~
+~
+5 0 an 0
+1 1 10 3 7
+7 50 80
+#16309
+fountain water drinking white~
+a white drinking fountain~
+A white drinking fountain is installed on the wall here.~
+~
+23 e 0 0
+5000 5000 0 0 0
+5005 0 100
+#16310
+blade guard~
+a guard's blade~
+A blade made for military use is collecting dust here.~
+~
+5 0 an 0
+1 2 6 3 5
+9 100 75
+#16311
+leggings white~
+some white leggings~
+Some white protective leggings lie here.~
+~
+9 0 af 0
+1 0 0 0 6
+5 30 100
+#16312
+helmet brown guard~
+a brown guard helmet~
+A brown guard helmet is lying here.~
+~
+9 0 ae 0
+2 0 0 0 6
+5 100 100
+#16313
+spear wooden polearm~
+a wooden polearm~
+A long wooden polearm lies here.~
+~
+5 0 an 0
+4 2 5 0 5
+10 90 100
+$~

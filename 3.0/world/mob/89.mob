@@ -1,0 +1,306 @@
+#8900
+wyvern~
+a wyvern~
+A wyvern soars overhead, terrorizing the countryside.
+~
+At first sight, you believe that you've happened upon an immature dragon.
+Though smaller, and lacking the ability to cast spells as a true dragon, this
+wyrm has the distinct advantage of a scorpions stinger on its tail. The wyvern
+hisses sharply - the sound of a newly-forged blade plunged into cool water.
+~
+degnpqu dfhkA -700 E
+19 29 19d8+248 3d4
+30 4140
+8 8 0
+BareHandAttack: 10
+Race: 13
+E
+#8901
+xorn~
+a xorn~
+A xorn burrows through solid rock.
+~
+A xorn burrows swiftly through an outcropping of solid rock, making incredibly
+easy work of the task. The gaping three-cornered maw atop its conical head
+churns steadily forward, while three stone-lidded eyes, symmetrically
+positioned about its narrow head, occasionally blink away the falling rubble.
+Directly below each eye, an elephantine foot works steadily to propel its body
+further into the massif.
+~
+deglnpqrsu dfkp 650 E
+16 24 16d8+192 3d4
+20 3200
+8 8 0
+BareHandAttack: 12
+Race: 15
+E
+#8902
+pincher spider~
+a pincher~
+A pincher is here, snapping its beak at anything that moves.
+~
+This large brown spider has a small body and powerful head and jaws. Her
+underbody is striped with blue and yellow along each side. Her two forelegs
+are quite short, and each ends in a wicked, gripping claw.
+~
+dghlqu fkst -300 E
+2 2 2d8+8 2d3
+5 141
+8 8 2
+BareHandAttack: 4
+Race: 8
+E
+#8903
+boar wild carve_meat skin_pelt~
+the wild boar~
+A wild boar charges you!
+~
+What this pig lacks in size he makes up for in pure energy. The two large
+tusks protruding from his lower jaw twist around in a complete spiral before
+the tips extend beyond his snout.
+~
+dfgu k 0 E
+5 6 5d8+33 3d3
+5 559
+8 8 1
+BareHandAttack: 4
+Race: 26
+E
+#8904
+wolf black dog carve_meat skin_pelt~
+a black wolf~
+A black wolf howls at the moon.
+~
+This huge wolf stands nearly four feet in height, covered in a mantle of
+glossy black. His red eyes glare at you visciously, as he bares his fangs and
+bristles his fur.
+~
+dgu k 0 E
+7 9 7d8+55 3d3
+5 926
+8 8 1
+BareHandAttack: 4
+Race: 11
+E
+#8905
+korred small man~
+a korred~
+A small man taunts you from behind a tree.
+~
+Perhaps the most striking feature of this gnome-like being is his wild,
+flowing hair and beard. It snakes out in all directions. His entire body is
+covered in bristly hair, and his lower quarters resemble those of a goat.
+Smelling strongly of pine trees and fresh earth, he wears leather britches,
+and carries a large leather pouch across his shoulder.
+~
+cdghnpu dfps -350 E
+5 6 5d8+33 3d3
+5 559
+8 8 1
+Race: 16
+E
+#8906
+satyr man goat goat-man~
+a satyr~
+A satyr is here, communing with nature.
+~
+The head, torso, and arms of a human, combined with the hind of a goat make
+the satyr a cunning and agile creature. Sharp black horns jut through the
+coarse, curly hair atop his head. Like the sylvan areas in which he dwells,
+the satyr is the very personification of nature - the embodiment of all that
+is wild and carefree.
+~
+dgnpu dfk 550 E
+11 15 11d8+109 3d4
+12 1824
+8 8 1
+Race: 16
+E
+#8907
+ettercap~
+an ettercap~
+An ettercap moves lightly through the brush, checking its snares.
+~
+The ettercap stands nearly six feet tall, even with its stooping gait and
+hunched shoulders. It has short, spindly legs, and long arms that reach nearly
+to its ankles. Its hands have a thumb and three long fingers that end in
+razor-sharp claws. Tufts of wiry, black hair cover its dark, rough skin.
+Almost equine in shape, its face is dominated by large reptilian eyes, and
+large fangs protrude downward from each side of its mouth.
+~
+cdgqu kt 0 E
+13 19 13d8+140 3d4
+15 2343
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#8908
+leprechaun~
+a leprechaun~
+A leprechaun frolics here.
+~
+Dancing merrily before you is an odd creature, clad in green, and holding a
+long-stemmed pipe and a thick wooden shillelagh. Standing about two feet tall,
+and wearing a wide smile on his bearded face... Why, this must be a
+leprechaun! Rumored to be a cross between a species of halfling and a strong
+strain of pixie, leprechauns are masters of illusion, and are, thus, seldom
+seen in these woods.
+~
+dgnpru dfkptH 400 E
+5 6 5d8+33 3d3
+250 559
+8 8 1
+Race: 16
+E
+#8909
+beastman man beast~
+a beastman~
+A beastman is here, camouflaged by surrounding foliage.
+~
+The beastman before you resembles a short, slender human, except for the fine
+layer of dark green fur that covers his body, allowing him to blend well into
+the surrounding greenery. He roams the forest, weaponless, subsisting on wild
+onions and small game.
+~
+cdgnu 0 500 E
+8 10 8d8+67 3d3
+10 1131
+8 8 1
+E
+#8910
+lizard bonesnapper~
+a bonesnapper~
+A large lizard walks upright, sniffing the air.
+~
+The bonesnapper, raised up on its hind legs, walks convulsively on wide,
+clawed feet. Standing about five feet tall, its tough hide is thick and
+leathery, like the bark of an ancient tree. Ridges of bone alternate down the
+length of its neck and back, ending in two sharp spikes at the tip of a
+massive tail. Its dark green color enables it to vanish into the foliage.
+~
+dgqu dfk 0 E
+14 20 14d8+157 3d4
+30 2619
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#8911
+buckawn man~
+a buckawn~
+A buckawn melts into the background.
+~
+This tiny humanoid stands only two feet tall. Garbed in simple earthtones, the
+buckawn has distinctly elven features; pointed ears and angular jawline. His
+skin is tanned and his hair is blonde and straight. The buckawn has acute
+senses, much keener than those of any human, making him extraordinarily adept
+in skills of stealth.
+~
+cdgnpu dfst 350 E
+5 6 5d8+33 3d3
+5 559
+8 8 1
+Race: 16
+E
+#8912
+insect swarm~
+an insect swarm~
+A swarm of stinging insects flies furiously about your head.
+~
+Thousands of these tiny insects buzz about your ears and eyes, making it
+nearly impossible to see or hear what is going on around you. The biting and
+stinging is intolerable.
+~
+defghnpqru kAH 0 E
+2 2 2d8+8 2d3
+0 141
+8 8 0
+BareHandAttack: 1
+Race: 23
+E
+#8913
+hydra plant~
+the hydra~
+The hydra's leaves unfurl slowly, as it reaches for its next victim.
+~
+This large, spiny plant has many broad, jagged-edged leaves. Its thick stem
+supports a leafy, bulbous head filled with inwardly-curving teeth. Dozens of
+tendrils at its base move about, waving menacingly.
+~
+bdelnpqru f 0 E
+12 17 12d8+124 3d4
+10 2078
+8 8 0
+BareHandAttack: 10
+Race: 36
+E
+#8914
+drake dragon dragonet~
+a drake~
+A drake flies about, spewing flames.
+~
+This small dragonet has the features and proportions of a miniature red
+dragon, but her mottled, scaly hide is thinner, and somewhat translucent. A
+shimmer of heat surrounds her body, making her skin appear to twitch and
+quiver almost imperceptibly. Her wings beat slowly, as if fanning her own
+internal fire.
+~
+degnprsu dfkA 0 E
+20 31 20d8+268 3d5
+30 4472
+8 8 2
+BareHandAttack: 3
+Race: 14
+Script: drake.lua 256
+E
+#8915
+headless~
+a headless~
+A headless creature moves through the trees.
+~
+Possibly the result of a cruel prank on the part of a powerful sorcerer, this
+misshapen creature stands before you. Without head or neck, you wonder how he
+manages to sense his world, but he appears to be quite aware of your presence,
+and is becoming a bit agitated.
+~
+dghru af 600 E
+13 19 13d8+140 3d4
+30 2343
+8 8 1
+E
+#8916
+gazer~
+a gazer~
+A gazer hovers just above the ground, watching and waiting.
+~
+Mystical floating eyes hover here, conjoined by articulated stalks to a
+central probing eye. The mental powers of the gazer, more than make up for its
+weak and clumsy physique. Its mesmerizing attack is known to cause permanent
+madness to those of low intellect. Its eyes constantly sweep and reach to
+provide perfect peripheral vision.
+~
+degnpqru dfkA 0 E
+11 15 11d8+109 3d4
+10 1824
+8 8 0
+BareHandAttack: 12
+Race: 25
+Script: gazer.lua 256
+E
+#8917
+goblin~
+a goblin~
+A goblin leers at you through cat-like eyes.
+~
+This sly goblin has olive-grey skin and luminescent red eyes. He wears black
+chainmail armor encrusted with filth, and wields a cruel-looking morning-star.
+He leers evilly at you and chuckles.
+~
+cdgnu f -500 E
+8 10 8d8+67 3d3
+12 1131
+8 8 0
+Race: 20
+E
+$

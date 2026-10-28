@@ -1,0 +1,306 @@
+CircleMUD v3.0 Shop File~
+#18808~
+18824
+18826
+-1
+1.10
+0.50
+9
+-1
+%s Not in stock, sorry.  Try again tommorow.~
+%s Hmm.. You don't have that.  It must be in your other pack.~
+%s I don't trade in such items.~
+%s Don't have the cash.  Come back tommorow.~
+%s You do not have enough coins.~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18802
+0
+18808
+-1
+0
+28
+0
+0
+#18810~
+18828
+18829
+-1
+1.00
+0.50
+5
+-1
+%s Oh, I am sorry.  I do not stock that item.~
+%s You are teasing.  You do not have that item.~
+%s I don't trade in such items.~
+%s I am low on coins.  I cannot afford that. ~
+%s Hmm... You do not have that much coins.~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18803
+0
+18810
+-1
+0
+28
+0
+0
+#18813~
+18813
+18814
+18815
+18816
+-1
+1.00
+0.24
+12
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to havg that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s I'm sorry, you don't have enough.~
+%s They're pretty aren't they.  That will be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18808
+0
+18813
+-1
+0
+28
+0
+0
+#18817~
+18808
+18809
+18810
+18811
+18812
+18823
+-1
+1.00
+0.25
+19
+-1
+%s Sorry, I do not stock that item.~
+%s You don't seem to have that.~
+%s We do not sell that here.~
+%s I regret I can not afford that.~
+%s You seem not to be able to cover the costs.~
+%s Yes sir, that will be %d coins, thank you.~
+%s I will give you %d coins for that.~
+0
+0
+18804
+0
+18817
+-1
+0
+28
+0
+0
+#18818~
+18817
+18818
+18819
+18820
+-1
+1.00
+0.50
+8
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can not buy that right now.~
+%s You do not have enough.~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18810
+0
+18818
+-1
+0
+28
+0
+0
+#18822~
+18801
+18802
+18803
+18804
+18805
+-1
+1.00
+0.50
+-1
+%s Oh no, I don't have any of those.~
+%s Oh, you don't have that.~
+%s Oh, I don't buy those here.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18807
+0
+18822
+-1
+0
+28
+0
+0
+#18823~
+18821
+18822
+-1
+1.00
+0.50
+17
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I don't seem to have enough.~
+%s You do not have enough.~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18806
+0
+18823
+-1
+0
+28
+0
+0
+#18862~
+18833
+18834
+-1
+1.00
+0.35
+0
+3
+12
+21
+1
+4
+10
+19
+2
+8
+11
+17
+-1
+%s Hmm.. Amazing I do not have one of those.~
+%s You don't seem to have that.~
+%s I am sorry.  I do not trade in such items.~
+%s I presently do not have enough coins.~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+18829
+0
+18862
+-1
+0
+28
+0
+0
+#18863~
+18830
+18831
+18832
+-1
+1.30
+0.80
+-1
+%s I don't have that now.~
+%s Check your pack.  You don't have that.~
+%s What do you think this is.  It's a bar.~
+%s If you would spend some money.  Maybe I could afford that.~
+%s Geez!  Come back when you have money.~
+%s Finally, you spend some money.  Hand over %d coin.~
+%s I'll give you %d coins for that.~
+0
+0
+18828
+0
+18863
+-1
+0
+28
+0
+0
+#18865~
+18832
+18831
+18830
+18823
+-1
+1.30
+0.80
+-1
+%s I'm sorry, I don't serve that here.~
+%s Oh, you don't have one of those.~
+%s I don't trade in such items.~
+%s Oh baby.. I don't have enough coin right now.~
+%s I'm sorry darling, you don't have enough coin.~
+%s Pay me %d coin, and see what I give you.~
+%s Hmm.. for something like that I'll give you %d coins.~
+0
+0
+18833
+0
+18865
+-1
+0
+28
+0
+0
+#18866~
+18835
+18837
+-1
+1.00
+0.25
+0
+3
+12
+4
+10
+2
+8
+11
+-1
+%s That doesn't seem to be in my shop today.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s Aiiii.. my money, where is it?~
+%s Your desires outweigh your purse.~
+%s No one can leave without buying this.  My purse will be %d coins heavier.~
+%s My desires are quenched.  I give you %d for that.~
+0
+0
+18838
+0
+18866
+-1
+0
+28
+0
+0
+$~

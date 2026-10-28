@@ -1,0 +1,66 @@
+#6300
+sand viper carve_meat~
+a sand viper~
+A sand viper slithers by beneath the surface.
+~
+This long, mottled serpent is, perhaps, twenty feet in length. Its grey-green
+hide is thick and smooth, and its head arrow-shaped and blunt. The snake peers
+at you through malicious yellow eyes, and slithers slowly in your direction.
+~
+degnqu k 0 E
+7 9 7d8+55 3d3
+0 926
+8 8 0
+BareHandAttack: 4
+Race: 29
+E
+#6301
+moor slayer~
+a moor-slayer~
+A moor-slayer rides the hillsides in search of evil creatures.
+~
+Mounted atop his noble steed, this holy crusader roams the hillsides in search
+of evil in the land. Though his weapon and armor are weathered and tarnished,
+his faith holds him high in his saddle. All evil beings quail under his
+glance.
+~
+cdeimnpquz km 900 E
+75 143 75d8+1948 6d7
+200 32475
+8 8 1
+Race: 0
+E
+#6302
+sand creeper~
+a sand creeper~
+A sand creeper lies spread over a vast area of the ground.
+~
+A native form of plant life, the sand creeper has roots stretching hundreds of
+feet beneath the surface searching for precious water to sustain itself. It
+usually feeds on sunlight but has been known to kill anything nearby and
+absorb nutrients through the rotting flesh.
+~
+bdefnpqru dfk -200 E
+6 7 6d8+44 3d3
+0 734
+8 8 0
+BareHandAttack: 10
+Race: 36
+E
+#6303
+white haired creature saurus~
+a saurus~
+A white-haired creature lumbers nearby.
+~
+A beast of burden, the saurus are extremely hard to tame and will defend their
+young at all costs. Generally they travel in small herds, but it would appear
+this one has been separated.
+~
+dhuvz 0 200 E
+18 27 18d8+229 3d4
+0 3818
+8 8 2
+BareHandAttack: 9
+Race: 33
+E
+$

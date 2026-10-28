@@ -1,0 +1,495 @@
+#5300
+stack wheat~
+a stack of wheat~
+A pile of wheat has been neatly stacked nearby.~
+~
+12 0 a 0
+0 0 0 0 0
+10 3 80 100 0 1
+E
+stack wheat~
+The wheat has been collected and rolled into a large cylinder, although it is
+still quite manageable. Perhaps if you could find someone who wanted it, you
+could earn yourself some gold?
+~
+#5301
+fountain swirls pedestal~
+a fountain~
+A magnificent fountain dominates the center of the street.~
+~
+23 e 0 0
+999999 999999 15 0 0
+5005 3 0 100 0 1
+E
+fountain swirls pedestal~
+The fountain stands over two stories tall, a central pedestal surrounded by
+swirls of mist that rise up and simply disappear. The water looks cool and
+inviting, obviously magickal in nature.
+~
+#5302
+spear pike~
+a pike~
+A long, sharp pike is here.~
+~
+5 0 an 0
+4 5 5 3 4
+9 3 100 30 0 1
+E
+pike~
+The pike is a an infantry-type weapon with a steel head that sits on a long
+wooden shaft.
+~
+#5303
+helm plate mail~
+a plate mail helm~
+A plate mail helm has been left here.~
+~
+9 0 ae 0
+9 0 0 0 4
+10 3 580 100 0 1
+E
+plate mail helm~
+It has been fashioned from the finest materials and reflects all sources of
+light. It will protect you well.
+~
+#5304
+leggings plate mail~
+some plate mail leggings~
+Some plate mail leggings have been left here.~
+~
+9 0 af 0
+10 0 0 0 4
+12 3 620 100 0 1
+E
+plate mail leggings~
+They have been fashioned from only the finest of materials and reflect all
+sources of light. They will protect you well.
+~
+#5305
+sleeves plate mail~
+some plate mail sleeves~
+Some plate mail sleeves have been left here.~
+~
+9 0 ai 0
+5 0 0 0 4
+10 2 520 100 0 1
+E
+plate mail sleeves~
+They have been fashioned from only the finest of materials and reflect all
+sources of light. They will protect you well.
+~
+#5306
+cloak misty~
+a misty cloak~
+A misty cloak swirls around, almost as if it weren't real.~
+~
+9 g ak 0
+7 0 0 0 3
+7 3 700 100 0 1
+E
+misty cloak~
+You're not even sure if would protect or cover you, it's just a collection
+of mist swirls that form a cloak.
+~
+#5307
+sword short~
+a short sword~
+A short sword lies discarded nearby.~
+~
+5 0 an 0
+1 4 3 11 5
+3 2 30 100 0 1
+E
+short sword~
+It's cheap and easy to use, perfect for the beginner!
+~
+#5308
+sword long~
+a long sword~
+A long sword lies discarded nearby.~
+~
+5 0 an 0
+1 4 4 3 5
+8 2 60 100 0 1
+E
+long sword~
+A medium sized weapon capable of striking at an opponent from a larger
+distance, it is a weapon best used by the intermediate warrior.
+~
+#5309
+wooden pole~
+a wooden pole~
+A simple wooden pole has been discarded here.~
+~
+5 0 an 0
+3 5 5 5 4
+7 3 120 100 0 1
+E
+wooden pole~
+Used mainly in the construction of a pike, the wooden pole can be used by
+itself as a long range weapon.
+~
+#5310
+sword elemental mystical~
+an elemental sword~
+A mystical sword glows softly as you approach.~
+~
+5 a an 0
+1 3 6 3 3
+7 2 1500 100 0 1
+E
+elemental sword mystical~
+It's as if the sword were made from the elements of earth, air, fire and
+water itself. As you watch it, it changes colors to reflect each elemental
+state.
+~
+A
+18 1
+A
+7 1
+R
+1 1
+#5311
+bracelet golden~
+a golden bracelet~
+Someone has left a golden bracelet on the ground.~
+~
+8 0 am 0
+0 0 0 0 4
+3 3 400 100 0 1
+E
+golden bracelet~
+It's a simple golden bracelet, it might be worth something if you could find
+a place to sell it.
+~
+A
+7 -1
+#5312
+string pearls necklace~
+a string of pearls~
+A string of pearls, fashioned into a necklace has been left here.~
+~
+8 0 ac 0
+0 0 0 0 0
+3 3 320 100 0 1
+E
+string pearls necklace~
+Each pearl has been expertly pierced and a thin thread passed through,
+connecting them all into a necklace.
+~
+#5313
+lantern~
+a lantern~
+A small lantern has been left here.~
+~
+1 0 ao 0
+0 0 24 0 0
+3 3 30 100 0 1
+#5314
+water bottle~
+a water bottle~
+Someone has left their water bottle sitting here.~
+~
+17 q a 0
+8 8 15 0 0
+10 3 20 100 0 1
+#5315
+smoked kethna strips~
+some smoked kethna strips~
+A pile of smoked kethna strips lies here.~
+~
+19 0 a 0
+5 0 0 0 0
+2 2 5 100 120 1
+#5316
+torch~
+a torch~
+A torch has been left here.~
+~
+1 0 ao 0
+0 0 6 0 0
+1 3 3 100 0 1
+#5317
+ale mug~
+a mug~
+A mug of refreshing ale waits for a thirsty traveller.~
+~
+17 0 a 0
+3 3 3 0 0
+4 3 3 100 0 1
+#5318
+bottle~
+a bottle~
+An interesting bottle of wine awaits a thirsty traveller.~
+~
+17 0 a 0
+12 12 2 0 0
+14 3 20 100 0 1
+#5319
+spirits bottle~
+a bottle~
+A bottle of spirits sits here, waiting for a refined drinker.~
+~
+17 0 a 0
+12 12 5 0 0
+14 3 30 100 0 1
+E
+bottle spirits~
+It's a fine bottle of whiskey, aged several years and ready for the drinking.
+~
+#5320
+coin purse~
+a coin purse~
+A small coin purse has been dropped nearby.~
+~
+15 0 a 0
+7 5 -1 0 0
+2 3 10 30 0 1
+E
+coin purse~
+It's not very large so it may not hold a lot apart from a few gold coins.
+~
+#5321
+collection pelts~
+a collection of pelts~
+A collection of animal pelts has been stacked on the ground.~
+~
+12 0 a 0
+0 0 0 0 0
+6 3 130 20 0 1
+E
+collection pelts~
+The animal pelts come from a collection of beasts...they may be worth something
+to someone.
+~
+#5322
+animal traps~
+some animal traps~
+There are a few animal traps lieing on the ground empty.~
+~
+12 0 a 0
+0 0 0 0 0
+6 3 20 10 0 1
+E
+animal traps~
+They are crude and have been constructed from wood. A piece of food is left
+at one end of the trap and as the animal attempts to retrieve it, the rear
+closes like a door.
+~
+#5323
+lute~
+a lute~
+There is a lute here, waiting for someone to play it.~
+~
+12 0 ao 0
+0 0 0 0 0
+5 3 50 10 0 1
+E
+lute~
+A guitar-like instrument, it is used by entertainers and bards around the
+world as a source of income.
+~
+A
+6 1
+#5324
+small collection gold coins~
+a small collection of gold coins~
+A small collection of gold coins sits on the ground.~
+~
+20 0 a 0
+30 0 0 0 0
+1 3 0 20 0 1
+#5325
+juggling balls colored~
+some juggling balls~
+A few colored balls roll around your feet.~
+~
+13 p ao 0
+0 0 0 0 0
+3 3 5 30 0 1
+E
+juggling balls colored~
+By themselves they're nothing spectacular, but in the hands of an entertainer
+you would be amused for hours.
+~
+#5326
+book fairy tales children~
+a book of fairy tales~
+A children's book has been left here.~
+~
+14 p ao 0
+0 0 0 0 0
+5 3 200 50 0 1
+E
+book fairy tales children~
+All of the old time favorites are here, perhaps if you feel the urge to
+hang up your sword you could read a few.
+~
+#5327
+orb mists~
+the orb of mists~
+The mystical orb of mists floats around you.~
+~
+11 afgk as 0
+0 0 0 0 1
+2 3 1000 10 0 1
+E
+orb mists~
+The orb is nothing more than swirls of mist gathered tightly together. It
+glows softly and you definately feel a magical presence.
+~
+A
+12 100
+A
+27 2
+#5328
+grate key small~
+grate key~
+A small key sits forgotten on the ground.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 10 0 1
+#5329
+scruffy child doll~
+a child's doll~
+A scruffy looking doll, covered in dirt sits here smiling.~
+~
+13 p ao 0
+0 0 0 0 0
+2 3 40 20 0 1
+E
+scruffy child doll~
+It has been forgotten for a long time - it looks as if the dirt has been
+baked on and is definately more than a few years old.
+~
+#5330
+worn backpack~
+a worn backpack~
+A worn backpack has been dropped by a fellow adventurer.~
+~
+15 0 ak 0
+20 5 -1 0 0
+5 3 60 100 0 1
+#5331
+blesbok steak piece meat~
+a blesbok steak~
+Somebody has dropped a piece of meat here.~
+~
+19 q a 0
+8 0 0 0 0
+2 3 5 100 6 1
+#5332
+mystic shield~
+a mystic shield~
+A mystic shield glows softly as if sensing your presence.~
+~
+9 ag aj 0
+10 0 0 0 3
+15 3 900 5 0 1
+A
+17 5
+A
+24 -3
+#5333
+bag~
+a bag~
+A small bag is here.~
+~
+15 0 a 0
+20 0 -1 0 0
+1 3 20 100 0 1
+#5334
+onion~
+an onion~
+Several rows of onions have been planted in a small corner of the farm.~
+~
+19 0 a 0
+1 0 0 0 0
+1 2 15 100 72 1
+E
+onion~
+There are enough here to feed the citizens of the nearby Keep - you might be
+able to take one without the farmer noticing.
+~
+#5335
+vest chain mail~
+a chain mail vest~
+A chain mail vest lies here.~
+~
+9 0 ad 0
+7 0 0 0 5
+10 3 100 40 0 1
+#5336
+gloves plate mail~
+some plate mail gloves~
+A pair of plate mail gloves has been left here.~
+~
+9 0 ah 0
+4 0 0 0 4
+4 3 300 100 0 1
+E
+plate mail gloves~
+It has been fashioned from the finest materials and reflects all sources of
+light. It will protect you well.
+~
+#5337
+boots plate mail~
+some plate mail boots~
+A pair of plate mail boots has been left here.~
+~
+9 0 ag 0
+3 0 0 0 4
+4 3 260 100 0 1
+E
+plate mail boots~
+It has been fashioned from the finest materials and reflects all sources of
+light. It will protect you well.
+~
+#5338
+broadsword sword~
+a broadsword~
+A broadsword has been impaled into the ground.~
+~
+5 0 an 0
+1 4 4 3 4
+8 2 450 100 0 1
+#5339
+blade guard~
+a guard's blade~
+A blade made for military use is collecting dust here.~
+~
+5 0 an 0
+1 3 6 3 4
+6 2 100 100 0 1
+R
+1 1
+#5340
+pitchfork farmer~
+a farmer's pitchfork~
+A farmer's pitchfork has been left nearby.~
+~
+5 0 an 0
+4 1 7 14 5
+7 3 30 100 0 1
+#5341
+pile coins~
+a big pile of gold coins~
+A big pile of gold coins is lying here.~
+~
+20 0 a 0
+5000 0 0 0 0
+5 3 5000 100 0 1
+#5342
+bulletin board~
+a bulletin board~
+A large bulletin board is mounted on a wall here.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+board~
+Try "look board" to read the messages.
+~
+$~

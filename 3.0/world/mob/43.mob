@@ -1,0 +1,15 @@
+#4300
+slayer statue~
+the Slayer~
+A huge, stone statue guards the sanctity of the room.
+~
+   The statue of the Slayer is taller than any being you have seen. The detail is so extensive you mistake it for being a live creature. This winged demon was placed here to scare off anyone who attempted to plunder the tombs riches.
+~
+bdegjloq cdefhknuH -100 E
+30 -10 -20 0d0+450 20d4+20
+1563 20000
+8 8 0
+BareHandAttack: 10
+Noise: A feint grunt echos about the room.
+E
+$

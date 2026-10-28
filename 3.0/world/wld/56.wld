@@ -1,0 +1,9324 @@
+#5600
+Map Room for the Black Sands Desert~
+   The Black Sands Desert covers the majority of the western area of the
+world, extending from the Sphinx in the north to the oasis in the south.
+~
+56 cdgj 0
+D5
+~
+~
+0 0 5833
+S
+#5601
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 6024
+D1
+~
+~
+0 0 5602
+D2
+~
+~
+0 0 12001
+D3
+~
+~
+0 0 6034
+S
+#5602
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north.
+The opposite rim of the canyon, far in the distance, is dotted with trees and
+other signs of flourishing life, but the deadly drop before you holds this
+pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5603
+D2
+~
+~
+0 0 12003
+D3
+~
+~
+0 0 5601
+S
+#5603
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north.
+The opposite rim of the canyon, far in the distance, is dotted with trees and
+other signs of flourishing life, but the deadly drop before you holds this
+pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5604
+D2
+~
+~
+0 0 12005
+D3
+~
+~
+0 0 5602
+S
+#5604
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north
+and east. The opposite rim of the canyon, far in the distance, is dotted with
+trees and other signs of flourishing life, but the deadly drop before you holds
+this pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5999
+D2
+~
+~
+0 0 5609
+D3
+~
+~
+0 0 5603
+S
+#5605
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. The black sands extend in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 6034
+D1
+~
+~
+0 0 12001
+D2
+~
+~
+0 0 5616
+D3
+~
+~
+0 0 6044
+S
+#5606
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5601
+D1
+~
+~
+0 0 5607
+D2
+~
+~
+0 0 5617
+D3
+~
+~
+0 0 5605
+S
+#5607
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5602
+D1
+~
+~
+0 0 5608
+D2
+~
+~
+0 0 5618
+D3
+~
+~
+0 0 5606
+S
+#5608
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5603
+D1
+~
+~
+0 0 5609
+D2
+~
+~
+0 0 5619
+D3
+~
+~
+0 0 5607
+S
+#5609
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5604
+D1
+~
+~
+0 0 5610
+D2
+~
+~
+0 0 5620
+D3
+~
+~
+0 0 12005
+S
+#5610
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north.
+The opposite rim of the canyon, far in the distance, is dotted with trees and
+other signs of flourishing life, but the deadly drop before you holds this
+pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5611
+D2
+~
+~
+0 0 5621
+D3
+~
+~
+0 0 5609
+S
+#5611
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north.
+The opposite rim of the canyon, far in the distance, is dotted with trees and
+other signs of flourishing life, but the deadly drop before you holds this
+pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5612
+D2
+~
+~
+0 0 5622
+D3
+~
+~
+0 0 5610
+S
+#5612
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north.
+The opposite rim of the canyon, far in the distance, is dotted with trees and
+other signs of flourishing life, but the deadly drop before you holds this
+pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5613
+D2
+~
+~
+0 0 5623
+D3
+~
+~
+0 0 5611
+S
+#5613
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north.
+The opposite rim of the canyon, far in the distance, is dotted with trees and
+other signs of flourishing life, but the deadly drop before you holds this
+pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5614
+D2
+~
+~
+0 0 5624
+D3
+~
+~
+0 0 5612
+S
+#5614
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north
+and east. The opposite rim of the canyon, far in the distance, is dotted with
+trees and other signs of flourishing life, but the deadly drop before you holds
+this pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5999
+D2
+~
+~
+0 0 5625
+D3
+~
+~
+0 0 5613
+S
+#5615
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 6044
+D1
+~
+~
+0 0 5616
+D2
+~
+~
+0 0 5628
+D3
+~
+~
+0 0 6053
+S
+#5616
+The Black Sand Desert~
+   Rays of searing heat seem to melt into your brain; the sun never seeming
+to set in this desolate wasteland. Fatigue, which seemingly vanished during
+the last rest period, returns with a vengeance.
+~
+56 0 10
+D0
+~
+~
+0 0 5605
+D1
+~
+~
+0 0 12011
+D2
+~
+~
+0 0 5629
+D3
+~
+~
+0 0 5615
+S
+#5617
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5606
+D1
+~
+~
+0 0 5618
+D2
+~
+~
+0 0 5630
+D3
+~
+~
+0 0 5616
+S
+#5618
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5607
+D1
+~
+~
+0 0 5619
+D2
+~
+~
+0 0 5631
+D3
+~
+~
+0 0 5617
+S
+#5619
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5608
+D1
+~
+~
+0 0 5620
+D2
+~
+~
+0 0 5632
+D3
+~
+~
+0 0 5618
+S
+#5620
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5609
+D1
+~
+~
+0 0 5621
+D2
+~
+~
+0 0 5633
+D3
+~
+~
+0 0 12015
+S
+#5621
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5610
+D1
+~
+~
+0 0 5622
+D2
+~
+~
+0 0 5634
+D3
+~
+~
+0 0 5620
+S
+#5622
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5611
+D1
+~
+~
+0 0 5623
+D2
+~
+~
+0 0 5635
+D3
+~
+~
+0 0 5621
+S
+#5623
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5612
+D1
+~
+~
+0 0 5624
+D2
+~
+~
+0 0 5636
+D3
+~
+~
+0 0 5622
+S
+#5624
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5613
+D1
+~
+~
+0 0 5625
+D2
+~
+~
+0 0 5637
+D3
+~
+~
+0 0 5623
+S
+#5625
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5614
+D1
+~
+~
+0 0 5626
+D2
+~
+~
+0 0 5638
+D3
+~
+~
+0 0 5624
+S
+#5626
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north.
+The opposite rim of the canyon, far in the distance, is dotted with trees and
+other signs of flourishing life, but the deadly drop before you holds this
+pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5627
+D2
+~
+~
+0 0 5639
+D3
+~
+~
+0 0 5625
+S
+#5627
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north
+and east. The opposite rim of the canyon, far in the distance, is dotted with
+trees and other signs of flourishing life, but the deadly drop before you holds
+this pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5999
+D2
+~
+~
+0 0 5640
+D3
+~
+~
+0 0 5626
+S
+#5628
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5615
+D1
+~
+~
+0 0 5629
+D2
+~
+~
+0 0 5643
+D3
+~
+~
+0 0 6062
+S
+#5629
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5616
+D1
+~
+~
+0 0 12021
+D2
+~
+~
+0 0 5644
+D3
+~
+~
+0 0 5628
+S
+#5630
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5617
+D1
+~
+~
+0 0 5631
+D2
+~
+~
+0 0 5645
+D3
+~
+~
+0 0 5629
+S
+#5631
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+   A small pinacle of rock protrudes from the desert sand, breaking the
+monotony of this place.
+~
+56 0 10
+R tattoo_rune.lua 32
+D0
+~
+~
+0 0 5618
+D1
+~
+~
+0 0 5632
+D2
+~
+~
+0 0 5646
+D3
+~
+~
+0 0 5630
+E
+etching~
+0~
+The etching is in fact an ancient runic symbol, having been carved long ago.
+This particular one depicts a scorpion poised to strike.
+~
+E
+rock~
+0~
+Quite unremarkable really, except for the fact that it's the only piece of
+scenary that you can see in the immediate area. There is, however, an etching
+on one of its sides.
+~
+S
+#5632
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5619
+D1
+~
+~
+0 0 5633
+D2
+~
+~
+0 0 5647
+D3
+~
+~
+0 0 5631
+S
+#5633
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5620
+D1
+~
+~
+0 0 5634
+D2
+~
+~
+0 0 5648
+D3
+~
+~
+0 0 12025
+S
+#5634
+End of the Cobblestone Road~
+   This road of small cobblestones ends here, covered beneath the desert sand.
+You figure that the next storm will destroy the last remaining traces of the
+ancient civilization that must have existed here. The roadway extends eastward.
+~
+56 0 16
+D0
+~
+~
+0 0 5621
+D1
+~
+~
+0 0 5635
+D2
+~
+~
+0 0 5649
+D3
+~
+~
+0 0 5633
+S
+#5635
+An Ancient Cobblestone Roadway~
+   To the west lies the end of the cobblestone road. All around, black dunes
+have formed, threatening to engulf the roadway. The roadway runs to the south
+and west from here.
+~
+56 0 16
+D0
+~
+~
+0 0 5622
+D1
+~
+~
+0 0 5636
+D2
+~
+~
+0 0 5650
+D3
+~
+~
+0 0 5634
+S
+#5636
+The Black Sand Desert~
+   A faint figure appears momentairly before you, then suddenly shimmers out
+of existence - you are, apparently, hallucinating. You trudge onward through
+this arid region, no longer certain of where you are; no longer caring.
+~
+56 0 10
+D0
+~
+~
+0 0 5623
+D1
+~
+~
+0 0 5637
+D2
+~
+~
+0 0 5651
+D3
+~
+~
+0 0 5635
+S
+#5637
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5624
+D1
+~
+~
+0 0 5638
+D2
+~
+~
+0 0 5652
+D3
+~
+~
+0 0 5636
+S
+#5638
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5625
+D1
+~
+~
+0 0 5639
+D2
+~
+~
+0 0 5653
+D3
+~
+~
+0 0 5637
+S
+#5639
+The Black Sand Desert~
+   Rays of searing heat seem to melt into your brain; the sun never seeming
+to set in this desolate wasteland. Fatigue, which seemingly vanished during
+the last rest period, returns with a vengeance.
+~
+56 0 10
+D0
+~
+~
+0 0 5626
+D1
+~
+~
+0 0 5640
+D2
+~
+~
+0 0 5654
+D3
+~
+~
+0 0 5638
+S
+#5640
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5627
+D1
+~
+~
+0 0 5641
+D2
+~
+~
+0 0 5655
+D3
+~
+~
+0 0 5639
+S
+#5641
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north.
+The opposite rim of the canyon, far in the distance, is dotted with trees and
+other signs of flourishing life, but the deadly drop before you holds this
+pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D1
+~
+~
+0 0 5642
+D2
+~
+~
+0 0 5656
+D3
+~
+~
+0 0 5640
+S
+#5642
+The Edge of the Canyonlands~
+   You stand at the very brink of a vast array of deep canyons to the north.
+The opposite rim of the canyon, far in the distance, is dotted with trees and
+other signs of flourishing life, but the deadly drop before you holds this
+pleasant scene far out of reach.
+~
+56 0 10
+D0
+~
+~
+0 0 5999
+D2
+~
+~
+0 0 5657
+D3
+~
+~
+0 0 5641
+S
+#5643
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5628
+D1
+~
+~
+0 0 5644
+D2
+~
+~
+0 0 5661
+D3
+~
+~
+0 0 6071
+S
+#5644
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5629
+D1
+~
+~
+0 0 5645
+D2
+~
+~
+0 0 5662
+D3
+~
+~
+0 0 5643
+S
+#5645
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 12021
+D1
+~
+~
+0 0 5646
+D2
+~
+~
+0 0 5663
+D3
+~
+~
+0 0 5644
+S
+#5646
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 12023
+D1
+~
+~
+0 0 5647
+D2
+~
+~
+0 0 5664
+D3
+~
+~
+0 0 5645
+S
+#5647
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 12025
+D1
+~
+~
+0 0 5648
+D2
+~
+~
+0 0 5665
+D3
+~
+~
+0 0 5646
+S
+#5648
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5633
+D1
+~
+~
+0 0 5649
+D2
+~
+~
+0 0 5666
+D3
+~
+~
+0 0 5647
+S
+#5649
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5634
+D1
+~
+~
+0 0 5650
+D2
+~
+~
+0 0 5667
+D3
+~
+~
+0 0 5648
+S
+#5650
+An Ancient Cobblestone Roadway~
+   The ancient cobbles are worn nearly smooth by the desert winds and blowing
+sands. The road's surface is in amazingly good condition, considering the ages
+of travel it must have withstood. The roadway bends to the north and east.
+~
+56 0 16
+D0
+~
+~
+0 0 5635
+D1
+~
+~
+0 0 5651
+D2
+~
+~
+0 0 5668
+D3
+~
+~
+0 0 5649
+S
+#5651
+An Ancient Cobblestone Roadway~
+   This small road of cobblestones seems to be one of the last vestiges of
+some ancient civilization. All around, black dunes cast shadows on the roadway
+that winds west and south.
+~
+56 0 16
+D0
+~
+~
+0 0 5636
+D1
+~
+~
+0 0 5652
+D2
+~
+~
+0 0 5669
+D3
+~
+~
+0 0 5650
+S
+#5652
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5637
+D1
+~
+~
+0 0 5653
+D2
+~
+~
+0 0 5670
+D3
+~
+~
+0 0 5651
+S
+#5653
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5638
+D1
+~
+~
+0 0 5654
+D2
+~
+~
+0 0 5671
+D3
+~
+~
+0 0 5652
+S
+#5654
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5639
+D1
+~
+~
+0 0 5655
+D2
+~
+~
+0 0 5672
+D3
+~
+~
+0 0 5653
+S
+#5655
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5640
+D1
+~
+~
+0 0 5656
+D2
+~
+~
+0 0 5673
+D3
+~
+~
+0 0 5654
+S
+#5656
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5641
+D1
+~
+~
+0 0 5657
+D2
+~
+~
+0 0 5674
+D3
+~
+~
+0 0 5655
+S
+#5657
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5642
+D1
+~
+~
+0 0 5658
+D2
+~
+~
+0 0 4004
+D3
+~
+~
+0 0 5656
+S
+#5658
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D1
+~
+~
+0 0 5659
+D2
+~
+~
+0 0 5676
+D3
+~
+~
+0 0 5657
+S
+#5659
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D2
+~
+~
+0 0 5677
+D3
+~
+~
+0 0 5658
+S
+#5660
+The Black Sand Desert~
+   A crystal spring bubbles up before you, spilling onto the black sand.
+Rushing forward, you find that it's only another mirage. Crestfallen, you
+steel yourself and trudge onward across the dunes.
+~
+56 0 10
+D0
+~
+~
+0 0 6071
+D1
+~
+~
+0 0 5661
+D2
+~
+~
+0 0 5679
+D3
+~
+~
+0 0 6079
+S
+#5661
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5643
+D1
+~
+~
+0 0 5662
+D2
+~
+~
+0 0 5680
+D3
+~
+~
+0 0 5660
+S
+#5662
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5644
+D1
+~
+~
+0 0 5663
+D2
+~
+~
+0 0 5681
+D3
+~
+~
+0 0 5661
+S
+#5663
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5645
+D1
+~
+~
+0 0 5664
+D2
+~
+~
+0 0 5682
+D3
+~
+~
+0 0 5662
+S
+#5664
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5646
+D1
+~
+~
+0 0 5665
+D2
+~
+~
+0 0 5683
+D3
+~
+~
+0 0 5663
+S
+#5665
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5647
+D1
+~
+~
+0 0 5666
+D2
+~
+~
+0 0 5684
+D3
+~
+~
+0 0 5664
+S
+#5666
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5648
+D1
+~
+~
+0 0 5667
+D2
+~
+~
+0 0 5685
+D3
+~
+~
+0 0 5665
+S
+#5667
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5649
+D1
+~
+~
+0 0 5668
+D2
+~
+~
+0 0 5686
+D3
+~
+~
+0 0 5666
+S
+#5668
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5650
+D1
+~
+~
+0 0 5669
+D2
+~
+~
+0 0 5687
+D3
+~
+~
+0 0 5667
+S
+#5669
+An Ancient Cobblestone Roadway~
+   This worn cobblestone roadway is nearly buried beneath the ever-shifting
+desert sands. Broken in places, it appears older than the sand itself. The
+road extends to the north and south.
+~
+56 0 16
+D0
+~
+~
+0 0 5651
+D1
+~
+~
+0 0 5670
+D2
+~
+~
+0 0 5688
+D3
+~
+~
+0 0 5668
+S
+#5670
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5652
+D1
+~
+~
+0 0 5671
+D2
+~
+~
+0 0 5689
+D3
+~
+~
+0 0 5669
+S
+#5671
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5653
+D1
+~
+~
+0 0 5672
+D2
+~
+~
+0 0 5690
+D3
+~
+~
+0 0 5670
+S
+#5672
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5654
+D1
+~
+~
+0 0 5673
+D2
+~
+~
+0 0 5691
+D3
+~
+~
+0 0 5671
+S
+#5673
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. The black sands extend in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5655
+D1
+~
+~
+0 0 5674
+D2
+~
+~
+0 0 5692
+D3
+~
+~
+0 0 5672
+S
+#5674
+The Black Sand Desert~
+   A pile of bleached bones stare up at you from the black sand. You try not to
+think that it could be you one day very soon. A cluster of trees appears to the
+east - it must to be a mirage.
+~
+56 0 10
+D0
+~
+~
+0 0 5656
+D1
+~
+~
+0 0 4004
+D2
+~
+~
+0 0 5693
+D3
+~
+~
+0 0 5673
+S
+#5675
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5657
+D1
+~
+~
+0 0 5676
+D2
+~
+~
+0 0 5694
+D3
+~
+~
+0 0 5674
+S
+#5676
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5658
+D1
+~
+~
+0 0 5677
+D2
+~
+~
+0 0 5695
+D3
+~
+~
+0 0 4004
+S
+#5677
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5659
+D1
+~
+~
+0 0 5678
+D2
+~
+~
+0 0 5696
+D3
+~
+~
+0 0 5676
+S
+#5678
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D2
+~
+~
+0 0 5697
+D3
+~
+~
+0 0 5677
+S
+#5679
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5660
+D1
+~
+~
+0 0 5680
+D2
+~
+~
+0 0 5700
+D3
+~
+~
+0 0 6087
+S
+#5680
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5661
+D1
+~
+~
+0 0 5681
+D2
+~
+~
+0 0 5701
+D3
+~
+~
+0 0 5679
+S
+#5681
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5662
+D1
+~
+~
+0 0 5682
+D2
+~
+~
+0 0 5702
+D3
+~
+~
+0 0 5680
+S
+#5682
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5663
+D1
+~
+~
+0 0 5683
+D2
+~
+~
+0 0 5703
+D3
+~
+~
+0 0 5681
+S
+#5683
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5664
+D1
+~
+~
+0 0 5684
+D2
+~
+~
+0 0 5704
+D3
+~
+~
+0 0 5682
+S
+#5684
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5665
+D1
+~
+~
+0 0 5685
+D2
+~
+~
+0 0 5705
+D3
+~
+~
+0 0 5683
+S
+#5685
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5666
+D1
+~
+~
+0 0 5686
+D2
+~
+~
+0 0 5706
+D3
+~
+~
+0 0 5684
+S
+#5686
+The Black Sand Desert~
+   A crystal spring bubbles up before you, spilling onto the black sand.
+Rushing forward, you find that it's only another mirage. Crestfallen, you
+steel yourself and trudge onward across the dunes.
+~
+56 0 10
+D0
+~
+~
+0 0 5667
+D1
+~
+~
+0 0 5687
+D2
+~
+~
+0 0 5707
+D3
+~
+~
+0 0 5685
+S
+#5687
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5668
+D1
+~
+~
+0 0 5688
+D2
+~
+~
+0 0 5708
+D3
+~
+~
+0 0 5686
+S
+#5688
+An Ancient Cobblestone Roadway~
+   An ancient roadway runs to the north and south, surrounded by great dunes on
+both sides. Away in the distance to the south, you can just make out the walls
+of a small village between the dunes.
+~
+56 0 16
+D0
+~
+~
+0 0 5669
+D1
+~
+~
+0 0 5689
+D2
+~
+~
+0 0 5709
+D3
+~
+~
+0 0 5687
+S
+#5689
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5670
+D1
+~
+~
+0 0 5690
+D2
+~
+~
+0 0 5710
+D3
+~
+~
+0 0 5688
+S
+#5690
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5671
+D1
+~
+~
+0 0 5691
+D2
+~
+~
+0 0 5711
+D3
+~
+~
+0 0 5689
+S
+#5691
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5672
+D1
+~
+~
+0 0 5692
+D2
+~
+~
+0 0 5712
+D3
+~
+~
+0 0 5690
+S
+#5692
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5673
+D1
+~
+~
+0 0 5693
+D2
+~
+~
+0 0 5713
+D3
+~
+~
+0 0 5691
+S
+#5693
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5674
+D1
+~
+~
+0 0 5694
+D2
+~
+~
+0 0 5714
+D3
+~
+~
+0 0 5692
+S
+#5694
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 4004
+D1
+~
+~
+0 0 5695
+D2
+~
+~
+0 0 5715
+D3
+~
+~
+0 0 5693
+S
+#5695
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5676
+D1
+~
+~
+0 0 5696
+D2
+~
+~
+0 0 5716
+D3
+~
+~
+0 0 5694
+S
+#5696
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5677
+D1
+~
+~
+0 0 5697
+D2
+~
+~
+0 0 5717
+D3
+~
+~
+0 0 5695
+S
+#5697
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5678
+D2
+~
+~
+0 0 5718
+D3
+~
+~
+0 0 5696
+S
+#5698
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 6086
+D1
+~
+~
+0 0 5699
+D2
+~
+~
+0 0 5721
+D3
+~
+~
+0 0 6092
+S
+#5699
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 6087
+D1
+~
+~
+0 0 5700
+D2
+~
+~
+0 0 5722
+D3
+~
+~
+0 0 5698
+S
+#5700
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5679
+D1
+~
+~
+0 0 5701
+D2
+~
+~
+0 0 5723
+D3
+~
+~
+0 0 5699
+S
+#5701
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5680
+D1
+~
+~
+0 0 5702
+D2
+~
+~
+0 0 5724
+D3
+~
+~
+0 0 5700
+S
+#5702
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5681
+D1
+~
+~
+0 0 5703
+D2
+~
+~
+0 0 5725
+D3
+~
+~
+0 0 5701
+S
+#5703
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5682
+D1
+~
+~
+0 0 5704
+D2
+~
+~
+0 0 5726
+D3
+~
+~
+0 0 5702
+S
+#5704
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5683
+D1
+~
+~
+0 0 5705
+D2
+~
+~
+0 0 5727
+D3
+~
+~
+0 0 5703
+S
+#5705
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5684
+D1
+~
+~
+0 0 5706
+D2
+~
+~
+0 0 5728
+D3
+~
+~
+0 0 5704
+S
+#5706
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5685
+D1
+~
+~
+0 0 5707
+D2
+~
+~
+0 0 5729
+D3
+~
+~
+0 0 5705
+S
+#5707
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5686
+D1
+~
+~
+0 0 5708
+D2
+~
+~
+0 0 11800
+D3
+~
+~
+0 0 5706
+S
+#5708
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5687
+D1
+~
+~
+0 0 5709
+D2
+~
+~
+0 0 11802
+D3
+~
+~
+0 0 5707
+S
+#5709
+An Ancient Cobblestone Roadway~
+   The ancient cobbles are worn nearly smooth by the desert winds and blowing
+sands. The road's surface is in amazingly good condition, considering the ages
+of travel it must have withstood. The roadway extends to the north and south.
+~
+56 0 16
+D0
+~
+~
+0 0 5688
+D1
+~
+~
+0 0 5710
+D2
+~
+~
+0 0 11803
+D3
+~
+~
+0 0 5708
+S
+#5710
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5689
+D1
+~
+~
+0 0 5711
+D2
+~
+~
+0 0 11804
+D3
+~
+~
+0 0 5709
+S
+#5711
+The Black Sand Desert~
+   Rays of searing heat seem to melt into your brain; the sun never seeming
+to set in this desolate wasteland. Fatigue, which seemingly vanished during
+the last rest period, returns with a vengeance.
+~
+56 0 10
+D0
+~
+~
+0 0 5690
+D1
+~
+~
+0 0 5712
+D2
+~
+~
+0 0 11806
+D3
+~
+~
+0 0 5710
+S
+#5712
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5691
+D1
+~
+~
+0 0 5713
+D2
+~
+~
+0 0 5735
+D3
+~
+~
+0 0 5711
+S
+#5713
+The Black Sand Desert~
+   A crystal spring bubbles up before you, spilling onto the black sand.
+Rushing forward, you find that it's only another mirage. Crestfallen, you
+steel yourself and trudge onward across the dunes.
+~
+56 0 10
+D0
+~
+~
+0 0 5692
+D1
+~
+~
+0 0 5714
+D2
+~
+~
+0 0 5736
+D3
+~
+~
+0 0 5712
+S
+#5714
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5693
+D1
+~
+~
+0 0 5715
+D2
+~
+~
+0 0 5737
+D3
+~
+~
+0 0 5713
+S
+#5715
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5694
+D1
+~
+~
+0 0 5716
+D2
+~
+~
+0 0 5738
+D3
+~
+~
+0 0 5714
+S
+#5716
+The Black Sand Desert~
+   Rays of searing heat seem to melt into your brain; the sun never seeming
+to set in this desolate wasteland. Fatigue, which seemingly vanished during
+the last rest period, returns with a vengeance.
+~
+56 0 10
+D0
+~
+~
+0 0 5695
+D1
+~
+~
+0 0 5717
+D2
+~
+~
+0 0 5739
+D3
+~
+~
+0 0 5715
+S
+#5717
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5696
+D1
+~
+~
+0 0 5718
+D2
+~
+~
+0 0 5740
+D3
+~
+~
+0 0 5716
+S
+#5718
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5697
+D1
+~
+~
+0 0 5719
+D2
+~
+~
+0 0 5741
+D3
+~
+~
+0 0 5717
+S
+#5719
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D1
+~
+~
+0 0 5720
+D2
+~
+~
+0 0 5742
+D3
+~
+~
+0 0 5718
+S
+#5720
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. The black sands extend in all directions.
+~
+56 0 10
+D2
+~
+~
+0 0 5743
+D3
+~
+~
+0 0 5719
+S
+#5721
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5698
+D1
+~
+~
+0 0 5722
+D2
+~
+~
+0 0 5744
+D3
+~
+~
+0 0 6096
+S
+#5722
+The Black Sand Desert~
+   A faint figure appears momentairly before you, then suddenly shimmers out
+of existence - you are, apparently, hallucinating. You trudge onward through
+this arid region, no longer certain of where you are; no longer caring.
+~
+56 0 10
+D0
+~
+~
+0 0 5699
+D1
+~
+~
+0 0 5723
+D2
+~
+~
+0 0 5745
+D3
+~
+~
+0 0 5721
+S
+#5723
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5700
+D1
+~
+~
+0 0 5724
+D2
+~
+~
+0 0 5746
+D3
+~
+~
+0 0 5722
+S
+#5724
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5701
+D1
+~
+~
+0 0 5725
+D2
+~
+~
+0 0 5747
+D3
+~
+~
+0 0 5723
+S
+#5725
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5702
+D1
+~
+~
+0 0 5726
+D2
+~
+~
+0 0 5748
+D3
+~
+~
+0 0 5724
+S
+#5726
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5703
+D1
+~
+~
+0 0 5727
+D2
+~
+~
+0 0 5749
+D3
+~
+~
+0 0 5725
+S
+#5727
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5704
+D1
+~
+~
+0 0 5728
+D2
+~
+~
+0 0 5750
+D3
+~
+~
+0 0 5726
+S
+#5728
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5705
+D1
+~
+~
+0 0 5729
+D2
+~
+~
+0 0 5751
+D3
+~
+~
+0 0 5727
+S
+#5729
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5706
+D1
+~
+~
+0 0 11800
+D2
+~
+~
+0 0 5752
+D3
+~
+~
+0 0 5728
+S
+#5730
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5707
+D1
+~
+~
+0 0 5731
+D2
+~
+~
+0 0 5753
+D3
+~
+~
+0 0 5729
+S
+#5731
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5708
+D1
+~
+~
+0 0 5732
+D2
+~
+~
+0 0 5754
+D3
+~
+~
+0 0 5730
+S
+#5732
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5709
+D1
+~
+~
+0 0 5733
+D2
+~
+~
+0 0 5755
+D3
+~
+~
+0 0 5731
+S
+#5733
+The Black Sand Desert~
+   A faint figure appears momentairly before you, then suddenly shimmers out
+of existence - you are, apparently, hallucinating. You trudge onward through
+this arid region, no longer certain of where you are; no longer caring.
+~
+56 0 10
+D0
+~
+~
+0 0 5710
+D1
+~
+~
+0 0 5734
+D2
+~
+~
+0 0 5756
+D3
+~
+~
+0 0 5732
+S
+#5734
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5711
+D1
+~
+~
+0 0 5735
+D2
+~
+~
+0 0 5757
+D3
+~
+~
+0 0 5733
+S
+#5735
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5712
+D1
+~
+~
+0 0 5736
+D2
+~
+~
+0 0 5758
+D3
+~
+~
+0 0 11806
+S
+#5736
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5713
+D1
+~
+~
+0 0 5737
+D2
+~
+~
+0 0 5759
+D3
+~
+~
+0 0 5735
+S
+#5737
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5714
+D1
+~
+~
+0 0 5738
+D2
+~
+~
+0 0 5760
+D3
+~
+~
+0 0 5736
+S
+#5738
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5715
+D1
+~
+~
+0 0 5739
+D2
+~
+~
+0 0 5761
+D3
+~
+~
+0 0 5737
+S
+#5739
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5716
+D1
+~
+~
+0 0 5740
+D2
+~
+~
+0 0 5762
+D3
+~
+~
+0 0 5738
+S
+#5740
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5717
+D1
+~
+~
+0 0 5741
+D2
+~
+~
+0 0 5763
+D3
+~
+~
+0 0 5739
+S
+#5741
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5718
+D1
+~
+~
+0 0 5742
+D2
+~
+~
+0 0 5764
+D3
+~
+~
+0 0 5740
+S
+#5742
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5719
+D1
+~
+~
+0 0 5743
+D2
+~
+~
+0 0 5765
+D3
+~
+~
+0 0 5741
+S
+#5743
+The Black Sands Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+The desert extends to the north, west and south of here.
+~
+56 0 10
+D0
+~
+~
+0 0 5720
+D2
+~
+~
+0 0 5766
+D3
+~
+~
+0 0 5742
+S
+#5744
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5721
+D1
+~
+~
+0 0 5745
+D2
+~
+~
+0 0 5768
+D3
+~
+~
+0 0 6099
+S
+#5745
+The Black Sand Desert~
+   A crystal spring bubbles up before you, spilling onto the black sand.
+Rushing forward, you find that it's only another mirage. Crestfallen, you
+steel yourself and trudge onward across the dunes.
+~
+56 0 10
+D0
+~
+~
+0 0 5722
+D1
+~
+~
+0 0 5746
+D2
+~
+~
+0 0 5769
+D3
+~
+~
+0 0 5744
+S
+#5746
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5723
+D1
+~
+~
+0 0 5747
+D2
+~
+~
+0 0 5770
+D3
+~
+~
+0 0 5745
+S
+#5747
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5724
+D1
+~
+~
+0 0 5748
+D2
+~
+~
+0 0 5771
+D3
+~
+~
+0 0 5746
+S
+#5748
+The Black Sand Desert~
+   Rays of searing heat seem to melt into your brain; the sun never seeming
+to set in this desolate wasteland. Fatigue, which seemingly vanished during
+the last rest period, returns with a vengeance.
+~
+56 0 10
+D0
+~
+~
+0 0 5725
+D1
+~
+~
+0 0 5749
+D2
+~
+~
+0 0 5772
+D3
+~
+~
+0 0 5747
+S
+#5749
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5726
+D1
+~
+~
+0 0 5750
+D2
+~
+~
+0 0 5773
+D3
+~
+~
+0 0 5748
+S
+#5750
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5727
+D1
+~
+~
+0 0 5751
+D2
+~
+~
+0 0 5774
+D3
+~
+~
+0 0 5749
+S
+#5751
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5728
+D1
+~
+~
+0 0 5752
+D2
+~
+~
+0 0 5775
+D3
+~
+~
+0 0 5750
+S
+#5752
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5729
+D1
+~
+~
+0 0 11807
+D2
+~
+~
+0 0 5776
+D3
+~
+~
+0 0 5751
+S
+#5753
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5730
+D1
+~
+~
+0 0 5754
+D2
+~
+~
+0 0 5777
+D3
+~
+~
+0 0 5752
+S
+#5754
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5731
+D1
+~
+~
+0 0 5755
+D2
+~
+~
+0 0 5778
+D3
+~
+~
+0 0 5753
+S
+#5755
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5732
+D1
+~
+~
+0 0 5756
+D2
+~
+~
+0 0 5779
+D3
+~
+~
+0 0 5754
+S
+#5756
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5733
+D1
+~
+~
+0 0 5757
+D2
+~
+~
+0 0 5780
+D3
+~
+~
+0 0 5755
+S
+#5757
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5734
+D1
+~
+~
+0 0 5758
+D2
+~
+~
+0 0 5781
+D3
+~
+~
+0 0 5756
+S
+#5758
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5735
+D1
+~
+~
+0 0 5759
+D2
+~
+~
+0 0 5782
+D3
+~
+~
+0 0 11813
+S
+#5759
+The Black Sand Desert~
+   Rays of searing heat seem to melt into your brain; the sun never seeming
+to set in this desolate wasteland. Fatigue, which seemingly vanished during
+the last rest period, returns with a vengeance.
+~
+56 0 10
+D0
+~
+~
+0 0 5736
+D1
+~
+~
+0 0 5760
+D2
+~
+~
+0 0 5783
+D3
+~
+~
+0 0 5758
+S
+#5760
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5737
+D1
+~
+~
+0 0 5761
+D2
+~
+~
+0 0 5784
+D3
+~
+~
+0 0 5759
+S
+#5761
+The Black Sand Desert~
+   Rays of searing heat seem to melt into your brain; the sun never seeming
+to set in this desolate wasteland. Fatigue, which seemingly vanished during
+the last rest period, returns with a vengeance.
+~
+56 0 10
+D0
+~
+~
+0 0 5738
+D1
+~
+~
+0 0 5762
+D2
+~
+~
+0 0 5785
+D3
+~
+~
+0 0 5760
+S
+#5762
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5739
+D1
+~
+~
+0 0 5763
+D2
+~
+~
+0 0 5786
+D3
+~
+~
+0 0 5761
+S
+#5763
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5740
+D1
+~
+~
+0 0 5764
+D2
+~
+~
+0 0 5787
+D3
+~
+~
+0 0 5762
+S
+#5764
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5741
+D1
+~
+~
+0 0 5765
+D2
+~
+~
+0 0 5788
+D3
+~
+~
+0 0 5763
+S
+#5765
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5742
+D1
+~
+~
+0 0 5766
+D2
+~
+~
+0 0 5789
+D3
+~
+~
+0 0 5764
+S
+#5766
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5743
+D3
+~
+~
+0 0 5765
+S
+#5767
+The Black Sand Desert~
+   Rays of searing heat seem to melt into your brain; the sun never seeming
+to set in this desolate wasteland. Fatigue, which seemingly vanished during
+the last rest period, returns with a vengeance.
+~
+56 0 10
+D0
+~
+~
+0 0 6099
+D1
+~
+~
+0 0 5768
+D2
+~
+~
+0 0 5790
+S
+#5768
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5744
+D1
+~
+~
+0 0 5769
+D2
+~
+~
+0 0 5791
+D3
+~
+~
+0 0 5767
+S
+#5769
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5745
+D1
+~
+~
+0 0 5770
+D2
+~
+~
+0 0 5792
+D3
+~
+~
+0 0 5768
+S
+#5770
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5746
+D1
+~
+~
+0 0 5771
+D2
+~
+~
+0 0 5793
+D3
+~
+~
+0 0 5769
+S
+#5771
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5747
+D1
+~
+~
+0 0 5772
+D2
+~
+~
+0 0 5794
+D3
+~
+~
+0 0 5770
+S
+#5772
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5748
+D1
+~
+~
+0 0 5773
+D2
+~
+~
+0 0 5795
+D3
+~
+~
+0 0 5771
+S
+#5773
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5749
+D1
+~
+~
+0 0 5774
+D2
+~
+~
+0 0 5796
+D3
+~
+~
+0 0 5772
+S
+#5774
+The Black Sand Desert~
+   A faint figure appears momentairly before you, then suddenly shimmers out
+of existence - you are, apparently, hallucinating. You trudge onward through
+this arid region, no longer certain of where you are; no longer caring.
+~
+56 0 10
+D0
+~
+~
+0 0 5750
+D1
+~
+~
+0 0 5775
+D2
+~
+~
+0 0 5797
+D3
+~
+~
+0 0 5773
+S
+#5775
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5751
+D1
+~
+~
+0 0 5776
+D2
+~
+~
+0 0 5798
+D3
+~
+~
+0 0 5774
+S
+#5776
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5752
+D1
+~
+~
+0 0 11827
+D2
+~
+~
+0 0 5799
+D3
+~
+~
+0 0 5775
+S
+#5777
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5753
+D1
+~
+~
+0 0 5778
+D2
+~
+~
+0 0 5800
+D3
+~
+~
+0 0 5776
+S
+#5778
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5754
+D1
+~
+~
+0 0 5779
+D2
+~
+~
+0 0 5801
+D3
+~
+~
+0 0 5777
+S
+#5779
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5755
+D1
+~
+~
+0 0 5780
+D2
+~
+~
+0 0 5802
+D3
+~
+~
+0 0 5778
+S
+#5780
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5756
+D1
+~
+~
+0 0 5781
+D2
+~
+~
+0 0 5803
+D3
+~
+~
+0 0 5779
+S
+#5781
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5757
+D1
+~
+~
+0 0 5782
+D2
+~
+~
+0 0 5804
+D3
+~
+~
+0 0 5780
+S
+#5782
+The Black Sand Desert~
+   Rays of searing heat seem to melt into your brain; the sun never seeming
+to set in this desolate wasteland. Fatigue, which seemingly vanished during
+the last rest period, returns with a vengeance.
+~
+56 0 10
+D0
+~
+~
+0 0 5758
+D1
+~
+~
+0 0 5783
+D2
+~
+~
+0 0 5805
+D3
+~
+~
+0 0 11840
+S
+#5783
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5759
+D1
+~
+~
+0 0 5784
+D2
+~
+~
+0 0 5806
+D3
+~
+~
+0 0 5782
+S
+#5784
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5760
+D1
+~
+~
+0 0 5785
+D2
+~
+~
+0 0 5807
+D3
+~
+~
+0 0 5783
+S
+#5785
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5761
+D1
+~
+~
+0 0 5786
+D2
+~
+~
+0 0 5808
+D3
+~
+~
+0 0 5784
+S
+#5786
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5762
+D1
+~
+~
+0 0 5787
+D2
+~
+~
+0 0 5809
+D3
+~
+~
+0 0 5785
+S
+#5787
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. The black sands extend in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5763
+D1
+~
+~
+0 0 5788
+D2
+~
+~
+0 0 5810
+D3
+~
+~
+0 0 5786
+S
+#5788
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5764
+D1
+~
+~
+0 0 5789
+D2
+~
+~
+0 0 5811
+D3
+~
+~
+0 0 5787
+S
+#5789
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5765
+D2
+~
+~
+0 0 5812
+D3
+~
+~
+0 0 5788
+S
+#5790
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5767
+D1
+~
+~
+0 0 5791
+S
+#5791
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. The black sands extend in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5768
+D1
+~
+~
+0 0 5792
+D3
+~
+~
+0 0 5790
+S
+#5792
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5769
+D1
+~
+~
+0 0 5793
+D3
+~
+~
+0 0 5791
+S
+#5793
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5770
+D1
+~
+~
+0 0 5794
+D3
+~
+~
+0 0 5792
+S
+#5794
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5771
+D1
+~
+~
+0 0 5795
+D3
+~
+~
+0 0 5793
+S
+#5795
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5772
+D1
+~
+~
+0 0 5796
+D3
+~
+~
+0 0 5794
+S
+#5796
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5773
+D1
+~
+~
+0 0 5797
+D2
+~
+~
+0 0 5813
+D3
+~
+~
+0 0 5795
+S
+#5797
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5774
+D1
+~
+~
+0 0 5798
+D2
+~
+~
+0 0 5814
+D3
+~
+~
+0 0 5796
+S
+#5798
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5775
+D1
+~
+~
+0 0 5799
+D2
+~
+~
+0 0 5815
+D3
+~
+~
+0 0 5797
+S
+#5799
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5776
+D1
+~
+~
+0 0 11841
+D2
+~
+~
+0 0 5816
+D3
+~
+~
+0 0 5798
+S
+#5800
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. The black sands extend in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5777
+D1
+~
+~
+0 0 5801
+D2
+~
+~
+0 0 5817
+D3
+~
+~
+0 0 5799
+S
+#5801
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5778
+D1
+~
+~
+0 0 5802
+D2
+~
+~
+0 0 5818
+D3
+~
+~
+0 0 5800
+S
+#5802
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5779
+D1
+~
+~
+0 0 5803
+D2
+~
+~
+0 0 5819
+D3
+~
+~
+0 0 5801
+S
+#5803
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5780
+D1
+~
+~
+0 0 5804
+D2
+~
+~
+0 0 5820
+D3
+~
+~
+0 0 5802
+S
+#5804
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5781
+D1
+~
+~
+0 0 5805
+D2
+~
+~
+0 0 5821
+D3
+~
+~
+0 0 5803
+S
+#5805
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5782
+D1
+~
+~
+0 0 5806
+D2
+~
+~
+0 0 5822
+D3
+~
+~
+0 0 11847
+S
+#5806
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5783
+D1
+~
+~
+0 0 5807
+D2
+~
+~
+0 0 5823
+D3
+~
+~
+0 0 5805
+S
+#5807
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5784
+D1
+~
+~
+0 0 5808
+D2
+~
+~
+0 0 5824
+D3
+~
+~
+0 0 5806
+S
+#5808
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5785
+D1
+~
+~
+0 0 5809
+D2
+~
+~
+0 0 5825
+D3
+~
+~
+0 0 5807
+S
+#5809
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5786
+D1
+~
+~
+0 0 5810
+D2
+~
+~
+0 0 5826
+D3
+~
+~
+0 0 5808
+S
+#5810
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5787
+D1
+~
+~
+0 0 5811
+D2
+~
+~
+0 0 5827
+D3
+~
+~
+0 0 5809
+S
+#5811
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5788
+D1
+~
+~
+0 0 5812
+D2
+~
+~
+0 0 5828
+D3
+~
+~
+0 0 5810
+S
+#5812
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. To the east lies the sand-covered entrance
+to a mine, while the black sands extend in all other directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5789
+D1
+~
+~
+0 0 12832
+D3
+~
+~
+0 0 5811
+S
+#5813
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat, and
+you hug the bluff walls to the south and west, hoping for a bit of shade.
+~
+56 0 10
+D0
+~
+~
+0 0 5796
+D1
+~
+~
+0 0 5814
+S
+#5814
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. You find shelter from the elements here, beneath
+an overhanging sandstone bluff.
+~
+56 0 10
+D0
+~
+~
+0 0 5797
+D1
+~
+~
+0 0 5815
+D3
+~
+~
+0 0 5813
+S
+#5815
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5798
+D1
+~
+~
+0 0 5816
+D2
+~
+~
+0 0 5829
+D3
+~
+~
+0 0 5814
+S
+#5816
+The Black Sand Desert~
+   A faint figure appears momentairly before you, then suddenly shimmers out
+of existence - you are, apparently, hallucinating. You trudge onward through
+this arid region, no longer certain of where you are; no longer caring.
+~
+56 0 10
+D0
+~
+~
+0 0 5799
+D1
+~
+~
+0 0 11855
+D2
+~
+~
+0 0 5830
+D3
+~
+~
+0 0 5815
+S
+#5817
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5800
+D1
+~
+~
+0 0 5818
+D2
+~
+~
+0 0 5831
+D3
+~
+~
+0 0 5816
+S
+#5818
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5801
+D1
+~
+~
+0 0 5819
+D2
+~
+~
+0 0 5832
+D3
+~
+~
+0 0 5817
+S
+#5819
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5802
+D1
+~
+~
+0 0 5820
+D2
+~
+~
+0 0 5833
+D3
+~
+~
+0 0 5818
+S
+#5820
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5803
+D1
+~
+~
+0 0 5821
+D2
+~
+~
+0 0 5834
+D3
+~
+~
+0 0 5819
+S
+#5821
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5804
+D1
+~
+~
+0 0 5822
+D2
+~
+~
+0 0 5835
+D3
+~
+~
+0 0 5820
+S
+#5822
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5805
+D1
+~
+~
+0 0 5823
+D2
+~
+~
+0 0 5836
+D3
+~
+~
+0 0 11861
+S
+#5823
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5806
+D1
+~
+~
+0 0 5824
+D2
+~
+~
+0 0 5837
+D3
+~
+~
+0 0 5822
+S
+#5824
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5807
+D1
+~
+~
+0 0 5825
+D2
+~
+~
+0 0 5838
+D3
+~
+~
+0 0 5823
+S
+#5825
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5808
+D1
+~
+~
+0 0 5826
+D2
+~
+~
+0 0 5839
+D3
+~
+~
+0 0 5824
+S
+#5826
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5809
+D1
+~
+~
+0 0 5827
+D2
+~
+~
+0 0 5840
+D3
+~
+~
+0 0 5825
+S
+#5827
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5810
+D1
+~
+~
+0 0 5828
+D3
+~
+~
+0 0 5826
+S
+#5828
+The Black Sand Desert~
+   A crystal spring bubbles up before you, spilling onto the black sand.
+Rushing forward, you find that it's only another mirage. Crestfallen, you
+steel yourself and trudge onward across the dunes.
+~
+56 0 10
+D0
+~
+~
+0 0 5811
+D3
+~
+~
+0 0 5827
+S
+#5829
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. The black sands extend before you to the east,
+while a great sandstone bluff shelters you on the west.
+~
+56 0 10
+D0
+~
+~
+0 0 5815
+D1
+~
+~
+0 0 5830
+D2
+~
+~
+0 0 5841
+S
+#5830
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5816
+D1
+~
+~
+0 0 5831
+D2
+~
+~
+0 0 5842
+D3
+~
+~
+0 0 5829
+S
+#5831
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 11855
+D1
+~
+~
+0 0 5832
+D2
+~
+~
+0 0 5843
+D3
+~
+~
+0 0 5830
+S
+#5832
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 11856
+D1
+~
+~
+0 0 5833
+D2
+~
+~
+0 0 5844
+D3
+~
+~
+0 0 5831
+S
+#5833
+An Ancient Cobblestone Roadway~
+   The ancient cobbles are worn nearly smooth by the desert winds and blowing
+sands. The road's surface is in amazingly good condition, considering the ages
+of travel it must have withstood. The roadway extends to the north and south.
+~
+56 0 16
+D0
+~
+~
+0 0 11858
+D1
+~
+~
+0 0 5834
+D2
+~
+~
+0 0 5845
+D3
+~
+~
+0 0 5832
+S
+#5834
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 11859
+D1
+~
+~
+0 0 5835
+D2
+~
+~
+0 0 5846
+D3
+~
+~
+0 0 5833
+S
+#5835
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 11861
+D1
+~
+~
+0 0 5836
+D2
+~
+~
+0 0 5847
+D3
+~
+~
+0 0 5834
+S
+#5836
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5822
+D1
+~
+~
+0 0 5837
+D2
+~
+~
+0 0 5848
+D3
+~
+~
+0 0 5835
+S
+#5837
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5823
+D1
+~
+~
+0 0 5838
+D2
+~
+~
+0 0 5849
+D3
+~
+~
+0 0 5836
+S
+#5838
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5824
+D1
+~
+~
+0 0 5839
+D2
+~
+~
+0 0 5850
+D3
+~
+~
+0 0 5837
+S
+#5839
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5825
+D1
+~
+~
+0 0 5840
+D2
+~
+~
+0 0 5851
+D3
+~
+~
+0 0 5838
+S
+#5840
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5826
+D2
+~
+~
+0 0 5852
+D3
+~
+~
+0 0 5839
+S
+#5841
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any length of time without suffering permanent
+ill effects. To the west, a high sandstone bluff bars your passage.
+~
+56 0 10
+D0
+~
+~
+0 0 5829
+D1
+~
+~
+0 0 5842
+D2
+~
+~
+0 0 5853
+S
+#5842
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5830
+D1
+~
+~
+0 0 5843
+D2
+~
+~
+0 0 5854
+D3
+~
+~
+0 0 5841
+S
+#5843
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. The black sands extend in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5831
+D1
+~
+~
+0 0 5844
+D2
+~
+~
+0 0 5855
+D3
+~
+~
+0 0 5842
+S
+#5844
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5832
+D1
+~
+~
+0 0 5845
+D2
+~
+~
+0 0 5856
+D3
+~
+~
+0 0 5843
+S
+#5845
+An Ancient Cobblestone Roadway~
+   This ancient roadway ends to the north at the southern boundary of a small
+village. High dunes surround the road on all sides, threatening to bury it
+beneath black sand.
+~
+56 0 16
+D0
+~
+~
+0 0 5833
+D1
+~
+~
+0 0 5846
+D2
+~
+~
+0 0 5857
+D3
+~
+~
+0 0 5844
+S
+#5846
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5834
+D1
+~
+~
+0 0 5847
+D2
+~
+~
+0 0 5858
+D3
+~
+~
+0 0 5845
+S
+#5847
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 5835
+D1
+~
+~
+0 0 5848
+D2
+~
+~
+0 0 5859
+D3
+~
+~
+0 0 5846
+S
+#5848
+The Black Sand Desert~
+   A faint figure appears momentairly before you, then suddenly shimmers out
+of existence - you are, apparently, hallucinating. You trudge onward through
+this arid region, no longer certain of where you are; no longer caring.
+~
+56 0 10
+D0
+~
+~
+0 0 5836
+D1
+~
+~
+0 0 5849
+D2
+~
+~
+0 0 5860
+D3
+~
+~
+0 0 5847
+S
+#5849
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5837
+D1
+~
+~
+0 0 5850
+D2
+~
+~
+0 0 5861
+D3
+~
+~
+0 0 5848
+S
+#5850
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5838
+D1
+~
+~
+0 0 5851
+D2
+~
+~
+0 0 5862
+D3
+~
+~
+0 0 5849
+S
+#5851
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5839
+D1
+~
+~
+0 0 5852
+D2
+~
+~
+0 0 5863
+D3
+~
+~
+0 0 5850
+S
+#5852
+The Black Sand Desert~
+   A crystal spring bubbles up before you, spilling onto the black sand.
+Rushing forward, you find that it's only another mirage. Crestfallen, you
+steel yourself and trudge onward across the dunes.
+~
+56 0 10
+D0
+~
+~
+0 0 5840
+D2
+~
+~
+0 0 5864
+D3
+~
+~
+0 0 5851
+S
+#5853
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5841
+D1
+~
+~
+0 0 5854
+D2
+~
+~
+0 0 5865
+D3
+~
+~
+0 0 6102
+S
+#5854
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5842
+D1
+~
+~
+0 0 5855
+D2
+~
+~
+0 0 5866
+D3
+~
+~
+0 0 5853
+S
+#5855
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5843
+D1
+~
+~
+0 0 5856
+D2
+~
+~
+0 0 5867
+D3
+~
+~
+0 0 5854
+S
+#5856
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5844
+D1
+~
+~
+0 0 5857
+D2
+~
+~
+0 0 5868
+D3
+~
+~
+0 0 5855
+S
+#5857
+An Ancient Cobblestone Roadway~
+   This worn cobblestone roadway is nearly buried beneath the ever-shifting
+desert sands. Broken in places, it appears older than the sand itself. The
+road extends to the north and east.
+~
+56 0 16
+D0
+~
+~
+0 0 5845
+D1
+~
+~
+0 0 5858
+D2
+~
+~
+0 0 5869
+D3
+~
+~
+0 0 5856
+S
+#5858
+An Ancient Cobblestone Roadway~
+   The ancient cobbles are worn nearly smooth by the desert winds and blowing
+sands. The road's surface is in amazingly good condition, considering the ages
+of travel it must have withstood. The roadway extends to the east and west.
+~
+56 0 16
+D0
+~
+~
+0 0 5846
+D1
+~
+~
+0 0 5859
+D2
+~
+~
+0 0 5870
+D3
+~
+~
+0 0 5857
+S
+#5859
+An Ancient Cobblestone Roadway~
+   This small road of cobblestones seems to be one of the last vestiges of
+some ancient civilization. All around, black dunes cast shadows on the roadway
+that winds west and south.
+~
+56 0 16
+D0
+~
+~
+0 0 5847
+D1
+~
+~
+0 0 5860
+D2
+~
+~
+0 0 5871
+D3
+~
+~
+0 0 5858
+S
+#5860
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5848
+D1
+~
+~
+0 0 5861
+D2
+~
+~
+0 0 5872
+D3
+~
+~
+0 0 5859
+S
+#5861
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5849
+D1
+~
+~
+0 0 5862
+D2
+~
+~
+0 0 10101
+D3
+~
+~
+0 0 5860
+S
+#5862
+The Black Sand Desert~
+   A crystal spring bubbles up before you, spilling onto the black sand.
+Rushing forward, you find that it's only another mirage. Crestfallen, you
+steel yourself and trudge onward across the dunes.
+~
+56 0 10
+D0
+~
+~
+0 0 5850
+D1
+~
+~
+0 0 5863
+D2
+~
+~
+0 0 10102
+D3
+~
+~
+0 0 5861
+S
+#5863
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5851
+D1
+~
+~
+0 0 5864
+D2
+~
+~
+0 0 10103
+D3
+~
+~
+0 0 5862
+S
+#5864
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5852
+D2
+~
+~
+0 0 5876
+D3
+~
+~
+0 0 5863
+S
+#5865
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only rolling dunes to the east, and raging winds to the west.
+~
+56 0 10
+D0
+~
+~
+0 0 5853
+D1
+~
+~
+0 0 5866
+D2
+~
+~
+0 0 5878
+D3
+~
+~
+0 0 6105
+S
+#5866
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5854
+D1
+~
+~
+0 0 5867
+D2
+~
+~
+0 0 5879
+D3
+~
+~
+0 0 5865
+S
+#5867
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5855
+D1
+~
+~
+0 0 5868
+D2
+~
+~
+0 0 5880
+D3
+~
+~
+0 0 5866
+S
+#5868
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5856
+D1
+~
+~
+0 0 5869
+D2
+~
+~
+0 0 5881
+D3
+~
+~
+0 0 5867
+S
+#5869
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5857
+D1
+~
+~
+0 0 5870
+D2
+~
+~
+0 0 5882
+D3
+~
+~
+0 0 5868
+S
+#5870
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5858
+D1
+~
+~
+0 0 5871
+D2
+~
+~
+0 0 5883
+D3
+~
+~
+0 0 5869
+S
+#5871
+An Ancient Cobblestone Roadway~
+   This worn cobblestone roadway is nearly buried beneath the ever-shifting
+desert sands. Broken in places, it appears older than the sand itself. The
+road extends to the north and south.
+~
+56 0 16
+D0
+~
+~
+0 0 5859
+D1
+~
+~
+0 0 5872
+D2
+~
+~
+0 0 5884
+D3
+~
+~
+0 0 5870
+S
+#5872
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5860
+D1
+~
+~
+0 0 10101
+D2
+~
+~
+0 0 5885
+D3
+~
+~
+0 0 5871
+S
+#5873
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5861
+D1
+~
+~
+0 0 5874
+D2
+~
+~
+0 0 5886
+D3
+~
+~
+0 0 5872
+S
+#5874
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5862
+D1
+~
+~
+0 0 5875
+D2
+~
+~
+0 0 5887
+D3
+~
+~
+0 0 5873
+S
+#5875
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5863
+D1
+~
+~
+0 0 5876
+D2
+~
+~
+0 0 5888
+D3
+~
+~
+0 0 5874
+S
+#5876
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5864
+D1
+~
+~
+0 0 5877
+D2
+~
+~
+0 0 5889
+D3
+~
+~
+0 0 10103
+S
+#5877
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D2
+~
+~
+0 0 5890
+D3
+~
+~
+0 0 5876
+S
+#5878
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5865
+D1
+~
+~
+0 0 5879
+D2
+~
+~
+0 0 5891
+D3
+~
+~
+0 0 6108
+S
+#5879
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5866
+D1
+~
+~
+0 0 5880
+D2
+~
+~
+0 0 5892
+D3
+~
+~
+0 0 5878
+S
+#5880
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5867
+D1
+~
+~
+0 0 5881
+D2
+~
+~
+0 0 5893
+D3
+~
+~
+0 0 5879
+S
+#5881
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5868
+D1
+~
+~
+0 0 5882
+D2
+~
+~
+0 0 5894
+D3
+~
+~
+0 0 5880
+S
+#5882
+The Black Sand Desert~
+   A faint figure appears momentairly before you, then suddenly shimmers out
+of existence - you are, apparently, hallucinating. You trudge onward through
+this arid region, no longer certain of where you are; no longer caring.
+~
+56 0 10
+D0
+~
+~
+0 0 5869
+D1
+~
+~
+0 0 5883
+D2
+~
+~
+0 0 5895
+D3
+~
+~
+0 0 5881
+S
+#5883
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5870
+D1
+~
+~
+0 0 5884
+D2
+~
+~
+0 0 5896
+D3
+~
+~
+0 0 5882
+S
+#5884
+An Ancient Cobblestone Roadway~
+   To the south lies the end of the cobblestone road. All around, black dunes
+have formed, threatening to engulf the roadway. The roadway runs to the north
+and south from here.
+~
+56 0 16
+D0
+~
+~
+0 0 5871
+D1
+~
+~
+0 0 5885
+D2
+~
+~
+0 0 5897
+D3
+~
+~
+0 0 5883
+S
+#5885
+The Black Sand Desert~
+   A faint figure appears momentairly before you, then suddenly shimmers out
+of existence - you are, apparently, hallucinating. You trudge onward through
+this arid region, no longer certain of where you are; no longer caring.
+~
+56 0 10
+D0
+~
+~
+0 0 5872
+D1
+~
+~
+0 0 10104
+D2
+~
+~
+0 0 5898
+D3
+~
+~
+0 0 5884
+S
+#5886
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5873
+D1
+~
+~
+0 0 5887
+D2
+~
+~
+0 0 5899
+D3
+~
+~
+0 0 5885
+S
+#5887
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5874
+D1
+~
+~
+0 0 5888
+D2
+~
+~
+0 0 5900
+D3
+~
+~
+0 0 5886
+S
+#5888
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5875
+D1
+~
+~
+0 0 5889
+D2
+~
+~
+0 0 5901
+D3
+~
+~
+0 0 5887
+S
+#5889
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5876
+D1
+~
+~
+0 0 5890
+D2
+~
+~
+0 0 5902
+D3
+~
+~
+0 0 10106
+S
+#5890
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5877
+D2
+~
+~
+0 0 5903
+D3
+~
+~
+0 0 5889
+S
+#5891
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. To the east, all
+is barren and utterly quiet, while the winds to the west howls wildly.
+~
+56 0 10
+D0
+~
+~
+0 0 5878
+D1
+~
+~
+0 0 5892
+D2
+~
+~
+0 0 5904
+D3
+~
+~
+0 0 6112
+S
+#5892
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5879
+D1
+~
+~
+0 0 5893
+D2
+~
+~
+0 0 5905
+D3
+~
+~
+0 0 5891
+S
+#5893
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5880
+D1
+~
+~
+0 0 5894
+D2
+~
+~
+0 0 5906
+D3
+~
+~
+0 0 5892
+S
+#5894
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5881
+D1
+~
+~
+0 0 5895
+D2
+~
+~
+0 0 5907
+D3
+~
+~
+0 0 5893
+S
+#5895
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5882
+D1
+~
+~
+0 0 5896
+D2
+~
+~
+0 0 5908
+D3
+~
+~
+0 0 5894
+S
+#5896
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5883
+D1
+~
+~
+0 0 5897
+D2
+~
+~
+0 0 5909
+D3
+~
+~
+0 0 5895
+S
+#5897
+End of the Cobblestone Road~
+   This road of cobblestones ends here, covered beneath the desert sands. You
+figure the next storm will destroy the last remaining traces of the ancient
+civilization that must have existed here. The roadway extends to the north.
+~
+56 0 16
+D0
+~
+~
+0 0 5884
+D1
+~
+~
+0 0 5898
+D2
+~
+~
+0 0 5910
+D3
+~
+~
+0 0 5896
+S
+#5898
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. The black sands extend in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5885
+D1
+~
+~
+0 0 10107
+D2
+~
+~
+0 0 5911
+D3
+~
+~
+0 0 5897
+S
+#5899
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5886
+D1
+~
+~
+0 0 5900
+D2
+~
+~
+0 0 5912
+D3
+~
+~
+0 0 5898
+S
+#5900
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5887
+D1
+~
+~
+0 0 5901
+D2
+~
+~
+0 0 5913
+D3
+~
+~
+0 0 5899
+S
+#5901
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5888
+D1
+~
+~
+0 0 5902
+D2
+~
+~
+0 0 5914
+D3
+~
+~
+0 0 5900
+S
+#5902
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5889
+D1
+~
+~
+0 0 5903
+D2
+~
+~
+0 0 5915
+D3
+~
+~
+0 0 10109
+S
+#5903
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5890
+D1
+~
+~
+0 0 6301
+D2
+~
+~
+0 0 6303
+D3
+~
+~
+0 0 5902
+S
+#5904
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking to the east, you see only
+the same barren, trackless desert. To the west, however, the black sands are
+blown high into the sky by the raging desert winds.
+~
+56 0 10
+D0
+~
+~
+0 0 5891
+D1
+~
+~
+0 0 5905
+D2
+~
+~
+0 0 5916
+D3
+~
+~
+0 0 6116
+S
+#5905
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5892
+D1
+~
+~
+0 0 5906
+D2
+~
+~
+0 0 5917
+D3
+~
+~
+0 0 5904
+S
+#5906
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5893
+D1
+~
+~
+0 0 5907
+D2
+~
+~
+0 0 5918
+D3
+~
+~
+0 0 5905
+S
+#5907
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5894
+D1
+~
+~
+0 0 5908
+D2
+~
+~
+0 0 5919
+D3
+~
+~
+0 0 5906
+S
+#5908
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5895
+D1
+~
+~
+0 0 5909
+D2
+~
+~
+0 0 5920
+D3
+~
+~
+0 0 5907
+S
+#5909
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5896
+D1
+~
+~
+0 0 5910
+D2
+~
+~
+0 0 5921
+D3
+~
+~
+0 0 5908
+S
+#5910
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5897
+D1
+~
+~
+0 0 5911
+D2
+~
+~
+0 0 5922
+D3
+~
+~
+0 0 5909
+S
+#5911
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5898
+D1
+~
+~
+0 0 5912
+D2
+~
+~
+0 0 5923
+D3
+~
+~
+0 0 5910
+S
+#5912
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 10107
+D1
+~
+~
+0 0 5913
+D2
+~
+~
+0 0 5924
+D3
+~
+~
+0 0 5911
+S
+#5913
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 10108
+D1
+~
+~
+0 0 5914
+D2
+~
+~
+0 0 5925
+D3
+~
+~
+0 0 5912
+S
+#5914
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 10109
+D1
+~
+~
+0 0 5915
+D2
+~
+~
+0 0 5926
+D3
+~
+~
+0 0 5913
+S
+#5915
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5902
+D1
+~
+~
+0 0 6303
+D2
+~
+~
+0 0 5927
+D3
+~
+~
+0 0 5914
+S
+#5916
+The Black Sand Desert~
+   A faint figure appears momentairly before you, then suddenly shimmers out
+of existence - you are, apparently, hallucinating. You trudge onward through
+this arid region, no longer certain of where you are; no longer caring.
+~
+56 0 10
+D0
+~
+~
+0 0 5904
+D1
+~
+~
+0 0 5917
+D2
+~
+~
+0 0 6123
+D3
+~
+~
+0 0 6120
+S
+#5917
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The sky remains calm
+and clear; black dunes extending lifelessly to the northeast. An occasional
+blast of desert sand smites you from the stormy southwest.
+~
+56 0 10
+D0
+~
+~
+0 0 5905
+D1
+~
+~
+0 0 5918
+D2
+~
+~
+0 0 5928
+D3
+~
+~
+0 0 5916
+S
+#5918
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5906
+D1
+~
+~
+0 0 5919
+D2
+~
+~
+0 0 10318
+D3
+~
+~
+0 0 5917
+S
+#5919
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5907
+D1
+~
+~
+0 0 5920
+D2
+~
+~
+0 0 10319
+D3
+~
+~
+0 0 5918
+S
+#5920
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. The black sands extend in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5908
+D1
+~
+~
+0 0 5921
+D2
+~
+~
+0 0 10320
+D3
+~
+~
+0 0 5919
+S
+#5921
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5909
+D1
+~
+~
+0 0 5922
+D2
+~
+~
+0 0 5932
+D3
+~
+~
+0 0 5920
+S
+#5922
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5910
+D1
+~
+~
+0 0 5923
+D2
+~
+~
+0 0 5933
+D3
+~
+~
+0 0 5921
+S
+#5923
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5911
+D1
+~
+~
+0 0 5924
+D2
+~
+~
+0 0 5934
+D3
+~
+~
+0 0 5922
+S
+#5924
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5912
+D1
+~
+~
+0 0 5925
+D2
+~
+~
+0 0 5935
+D3
+~
+~
+0 0 5923
+S
+#5925
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5913
+D1
+~
+~
+0 0 5926
+D2
+~
+~
+0 0 5936
+D3
+~
+~
+0 0 5924
+S
+#5926
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5914
+D1
+~
+~
+0 0 5927
+D2
+~
+~
+0 0 5937
+D3
+~
+~
+0 0 5925
+S
+#5927
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5915
+D1
+~
+~
+0 0 6306
+D2
+~
+~
+0 0 5938
+D3
+~
+~
+0 0 5926
+S
+#5928
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5917
+D1
+~
+~
+0 0 10318
+D2
+~
+~
+0 0 5939
+D3
+~
+~
+0 0 6123
+S
+#5929
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5918
+D1
+~
+~
+0 0 5930
+D2
+~
+~
+0 0 5940
+D3
+~
+~
+0 0 5928
+S
+#5930
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5919
+D1
+~
+~
+0 0 5931
+D2
+~
+~
+0 0 5941
+D3
+~
+~
+0 0 5929
+S
+#5931
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5920
+D1
+~
+~
+0 0 5932
+D2
+~
+~
+0 0 5942
+D3
+~
+~
+0 0 5930
+S
+#5932
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5921
+D1
+~
+~
+0 0 5933
+D2
+~
+~
+0 0 5943
+D3
+~
+~
+0 0 10320
+S
+#5933
+The Black Sand Desert~
+   A crystal spring bubbles up before you, spilling onto the black sand.
+Rushing forward, you find that it's only another mirage. Crestfallen, you
+steel yourself and trudge onward across the dunes.
+~
+56 0 10
+D0
+~
+~
+0 0 5922
+D1
+~
+~
+0 0 5934
+D2
+~
+~
+0 0 5944
+D3
+~
+~
+0 0 5932
+S
+#5934
+The Black Sand Desert~
+   A crystal spring bubbles up before you, spilling onto the black sand.
+Rushing forward, you find that it's only another mirage. Crestfallen, you
+steel yourself and trudge onward across the dunes.
+~
+56 0 10
+D0
+~
+~
+0 0 5923
+D1
+~
+~
+0 0 5935
+D2
+~
+~
+0 0 5945
+D3
+~
+~
+0 0 5933
+S
+#5935
+The Black Sand Desert~
+   You find yourself gazing absently off into the horizon, wondering if you
+will be able to explore here for any significant length of time without
+suffering permanent ill effects. The black sands extend in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5924
+D1
+~
+~
+0 0 5936
+D2
+~
+~
+0 0 5946
+D3
+~
+~
+0 0 5934
+S
+#5936
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5925
+D1
+~
+~
+0 0 5937
+D2
+~
+~
+0 0 5947
+D3
+~
+~
+0 0 5935
+S
+#5937
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5926
+D1
+~
+~
+0 0 5938
+D2
+~
+~
+0 0 5948
+D3
+~
+~
+0 0 5936
+S
+#5938
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5927
+D1
+~
+~
+0 0 6310
+D2
+~
+~
+0 0 5949
+D3
+~
+~
+0 0 5937
+S
+#5939
+The Black Sand Desert~
+   You gaze hard into the storm that rises to the west, wondering if you will
+be able to explore there for any significant length of time without suffering
+permanent ill effects. To the east, dunes extend to the horizon.
+~
+56 0 10
+D0
+~
+~
+0 0 5928
+D1
+~
+~
+0 0 10321
+D2
+~
+~
+0 0 5950
+D3
+~
+~
+0 0 6126
+S
+#5940
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5929
+D1
+~
+~
+0 0 5941
+D2
+~
+~
+0 0 5951
+D3
+~
+~
+0 0 5939
+S
+#5941
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5930
+D1
+~
+~
+0 0 5942
+D2
+~
+~
+0 0 5952
+D3
+~
+~
+0 0 5940
+S
+#5942
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5931
+D1
+~
+~
+0 0 5943
+D2
+~
+~
+0 0 5953
+D3
+~
+~
+0 0 5941
+S
+#5943
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5932
+D1
+~
+~
+0 0 5944
+D2
+~
+~
+0 0 5954
+D3
+~
+~
+0 0 10323
+S
+#5944
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5933
+D1
+~
+~
+0 0 5945
+D2
+~
+~
+0 0 5955
+D3
+~
+~
+0 0 5943
+S
+#5945
+The Black Sand Desert~
+   All you see turns to black as the desert heat rises off the ground. Your
+skin begins to blister from the fierce heat, and your lips and tongue thicken
+as your body dehydrates. It's a continual struggle to keep moving.
+~
+56 0 10
+D0
+~
+~
+0 0 5934
+D1
+~
+~
+0 0 5946
+D2
+~
+~
+0 0 5956
+D3
+~
+~
+0 0 5944
+S
+#5946
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional distant blast of desert sand.
+The black sands extend lifelessly in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5935
+D1
+~
+~
+0 0 5947
+D2
+~
+~
+0 0 5957
+D3
+~
+~
+0 0 5945
+S
+#5947
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5936
+D1
+~
+~
+0 0 5948
+D2
+~
+~
+0 0 5958
+D3
+~
+~
+0 0 5946
+S
+#5948
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5937
+D1
+~
+~
+0 0 5949
+D2
+~
+~
+0 0 5959
+D3
+~
+~
+0 0 5947
+S
+#5949
+The Black Sand Desert~
+   The black sand that absorbs the desert heat burns blisters through the
+soles of your boots. There seems to be no escape from the unbearable heat.
+You see only gently rolling sand dunes, stretching before you for miles.
+~
+56 0 10
+D0
+~
+~
+0 0 5938
+D1
+~
+~
+0 0 6316
+D2
+~
+~
+0 0 6322
+D3
+~
+~
+0 0 5948
+S
+#5950
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking east, you see only the
+same barren, trackless desert, while to the west, the black sands swirl high
+into the desert sky, blocking out the landscape.
+~
+56 0 10
+D0
+~
+~
+0 0 5939
+D1
+~
+~
+0 0 10324
+D2
+~
+~
+0 0 5960
+D3
+~
+~
+0 0 6130
+S
+#5951
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5940
+D1
+~
+~
+0 0 5952
+D2
+~
+~
+0 0 5961
+D3
+~
+~
+0 0 5950
+S
+#5952
+The Black Sand Desert~
+   Rays of searing heat seem to melt into your brain; the sun never seeming
+to set in this desolate wasteland. Fatigue, which seemingly vanished during
+the last rest period, returns with a vengeance.
+~
+56 0 10
+D0
+~
+~
+0 0 5941
+D1
+~
+~
+0 0 5953
+D2
+~
+~
+0 0 5962
+D3
+~
+~
+0 0 5951
+S
+#5953
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5942
+D1
+~
+~
+0 0 5954
+D2
+~
+~
+0 0 5963
+D3
+~
+~
+0 0 5952
+S
+#5954
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend to the horizon in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5943
+D1
+~
+~
+0 0 5955
+D2
+~
+~
+0 0 5964
+D3
+~
+~
+0 0 10326
+S
+#5955
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5944
+D1
+~
+~
+0 0 5956
+D2
+~
+~
+0 0 5965
+D3
+~
+~
+0 0 5954
+S
+#5956
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5945
+D1
+~
+~
+0 0 5957
+D2
+~
+~
+0 0 5966
+D3
+~
+~
+0 0 5955
+S
+#5957
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5946
+D1
+~
+~
+0 0 5958
+D2
+~
+~
+0 0 5967
+D3
+~
+~
+0 0 5956
+S
+#5958
+The Black Sand Desert~
+   You stop for a moment, dumping the handfuls of fine black sand that have
+collected within your boots and chafed your skin to the point of bleeding.
+You have stopped sweating; a sure sign that heat stroke can't be far away.
+~
+56 0 10
+D0
+~
+~
+0 0 5947
+D1
+~
+~
+0 0 5959
+D2
+~
+~
+0 0 5968
+D3
+~
+~
+0 0 5957
+S
+#5959
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. Around you, all is silent; the
+barren black dunes stretching endlessly before you.
+~
+56 0 10
+D0
+~
+~
+0 0 5948
+D1
+~
+~
+0 0 6322
+D2
+~
+~
+0 0 5969
+D3
+~
+~
+0 0 5958
+S
+#5960
+The Black Sand Desert~
+   You stand at the edge of the desert, nearly engulfed by the black winds
+the rage around you to the west and south. You peer into the depths of the
+storm, unable to make out any sign of life or landmark within.
+~
+56 0 10
+D0
+~
+~
+0 0 5950
+D1
+~
+~
+0 0 5961
+D2
+~
+~
+0 0 6141
+D3
+~
+~
+0 0 6135
+S
+#5961
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 10324
+D1
+~
+~
+0 0 5962
+D2
+~
+~
+0 0 6142
+D3
+~
+~
+0 0 5960
+S
+#5962
+The Black Sand Desert~
+   Stopping once again, you empty your boots of sand which has been grinding
+its way into your cracked and bleeding feet. To the northeast, all is silent,
+while to the southwest, black winds swirl wildly.
+~
+56 0 10
+D0
+~
+~
+0 0 10325
+D1
+~
+~
+0 0 5963
+D2
+~
+~
+0 0 5970
+D3
+~
+~
+0 0 5961
+S
+#5963
+The Black Sand Desert~
+   The sections of your armor, warmed by the latent heat of the scorching
+desert sands, sizzle as droplets of sweat streak across them. Around you,
+all is barren and utterly quiet.
+~
+56 0 10
+D0
+~
+~
+0 0 10326
+D1
+~
+~
+0 0 5964
+D2
+~
+~
+0 0 5971
+D3
+~
+~
+0 0 5962
+S
+#5964
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5954
+D1
+~
+~
+0 0 5965
+D2
+~
+~
+0 0 5972
+D3
+~
+~
+0 0 5963
+S
+#5965
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5955
+D1
+~
+~
+0 0 5966
+D2
+~
+~
+0 0 5973
+D3
+~
+~
+0 0 5964
+S
+#5966
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 5956
+D1
+~
+~
+0 0 5967
+D2
+~
+~
+0 0 5974
+D3
+~
+~
+0 0 5965
+S
+#5967
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5957
+D1
+~
+~
+0 0 5968
+D2
+~
+~
+0 0 5975
+D3
+~
+~
+0 0 5966
+S
+#5968
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5958
+D1
+~
+~
+0 0 5969
+D2
+~
+~
+0 0 6334
+D3
+~
+~
+0 0 5967
+S
+#5969
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5959
+D1
+~
+~
+0 0 6328
+D2
+~
+~
+0 0 6335
+D3
+~
+~
+0 0 5968
+S
+#5970
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5962
+D1
+~
+~
+0 0 5971
+D2
+~
+~
+0 0 6151
+D3
+~
+~
+0 0 6142
+S
+#5971
+The Black Sand Desert~
+   The ground around you is pitch black like cinders. The air in all directions
+remains calm and clear, except for the occasional blast of desert sand from
+the wild, windy lands to the south.
+~
+56 0 10
+D0
+~
+~
+0 0 5963
+D1
+~
+~
+0 0 5972
+D2
+~
+~
+0 0 6152
+D3
+~
+~
+0 0 5970
+S
+#5972
+The Black Sand Desert~
+   Waves of heat roll off the desert floor making mirages shimmer constantly
+on the horizon. The endless dark sand only heightens this hallucinatory
+effect. The barren sands extend north, while wild, black winds rage south.
+~
+56 0 10
+D0
+~
+~
+0 0 5964
+D1
+~
+~
+0 0 5973
+D2
+~
+~
+0 0 6153
+D3
+~
+~
+0 0 5971
+S
+#5973
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5965
+D1
+~
+~
+0 0 5974
+D2
+~
+~
+0 0 5976
+D3
+~
+~
+0 0 5972
+S
+#5974
+The Black Sand Desert~
+   The heat rising off the arid sands is almost unbearable, causing a steady
+stream of sweat that trails down your neck and back. If you don't find water
+soon, you'll certainly expire.
+~
+56 0 10
+D0
+~
+~
+0 0 5966
+D1
+~
+~
+0 0 5975
+D2
+~
+~
+0 0 5977
+D3
+~
+~
+0 0 5973
+S
+#5975
+The Black Sand Desert~
+   You top a dune somewhat higher than the rest, stumbling and sinking into
+the fine black sand. From your new vantage point, you see only more black
+desert sands stretching to the horizon in every direction.
+~
+56 0 10
+D0
+~
+~
+0 0 5967
+D1
+~
+~
+0 0 6334
+D2
+~
+~
+0 0 5978
+D3
+~
+~
+0 0 5974
+S
+#5976
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert to the northeast, and harsh black winds to the
+southwest. Nothing much matters to you anymore except your lack of water.
+~
+56 0 10
+D0
+~
+~
+0 0 5973
+D1
+~
+~
+0 0 5977
+D2
+~
+~
+0 0 5979
+D3
+~
+~
+0 0 6153
+S
+#5977
+The Black Sand Desert~
+   You arrive at the crest of a large dune. Looking out, you see only the
+same barren, trackless desert. Nothing much matters to you anymore except
+water. The black sands extend before you in all directions.
+~
+56 0 10
+D0
+~
+~
+0 0 5974
+D1
+~
+~
+0 0 5978
+D2
+~
+~
+0 0 5980
+D3
+~
+~
+0 0 5976
+S
+#5978
+The Black Sand Desert~
+   A faint figure appears in the distance, and then suddenly shimmers out of
+existence; an apparent hallucination. Wiping the sweat from your brow for the
+hundredth time, you stumble onward across barren black sands.
+~
+56 0 10
+D0
+~
+~
+0 0 5975
+D1
+~
+~
+0 0 6342
+D2
+~
+~
+0 0 5981
+D3
+~
+~
+0 0 5977
+S
+#5979
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional blast of desert sand from the windy area to the southwest.
+~
+56 0 10
+D0
+~
+~
+0 0 5976
+D1
+~
+~
+0 0 5980
+D2
+~
+~
+0 0 6176
+D3
+~
+~
+0 0 6164
+S
+#5980
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5977
+D1
+~
+~
+0 0 5981
+D2
+~
+~
+0 0 5982
+D3
+~
+~
+0 0 5979
+S
+#5981
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+All horizons look the same in this bleak, black desert.
+~
+56 0 10
+D0
+~
+~
+0 0 5978
+D1
+~
+~
+0 0 6348
+D2
+~
+~
+0 0 5983
+D3
+~
+~
+0 0 5980
+S
+#5982
+The Black Sand Desert~
+   A sun-bleached bone glares against the dark ground, evidence that you are
+not the first to brave this desolate region. Hopefully, you will not meet the
+same fate as this poor soul.
+~
+56 0 10
+D0
+~
+~
+0 0 5980
+D1
+~
+~
+0 0 5983
+D2
+~
+~
+0 0 6186
+D3
+~
+~
+0 0 6176
+S
+#5983
+The Black Sand Desert~
+   The searing black sand seems to sap the strength from your limbs, making
+your journey all the more difficult. Time and distance are meaningless now.
+Only your meager will to live keeps you stumbling forward.
+~
+56 0 10
+D0
+~
+~
+0 0 5981
+D1
+~
+~
+0 0 5984
+D2
+~
+~
+0 0 5986
+D3
+~
+~
+0 0 5982
+S
+#5984
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional distant blast of desert sand.
+~
+56 0 10
+D0
+~
+~
+0 0 6348
+D1
+~
+~
+0 0 5985
+D2
+~
+~
+0 0 5987
+D3
+~
+~
+0 0 5983
+S
+#5985
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 6349
+D1
+~
+~
+0 0 6354
+D2
+~
+~
+0 0 5988
+D3
+~
+~
+0 0 5984
+S
+#5986
+The Black Sand Desert~
+   The metal in your equipment has become sandblasted nearly beyond usefulness,
+and your skin is chaffed raw and burned from the intense reflection off the
+sand. You wonder if anything could survive here - including yourself.
+~
+56 0 10
+D0
+~
+~
+0 0 5983
+D1
+~
+~
+0 0 5987
+D2
+~
+~
+0 0 5990
+D3
+~
+~
+0 0 6186
+S
+#5987
+The Black Sand Desert~
+   You are afraid you have become lost in the desert, wandering aimlessly with
+no landmark to fix upon in your quest for escape. The black sands shift too
+rapidly to gain any sense of distance or orientation.
+~
+56 0 10
+D0
+~
+~
+0 0 5984
+D1
+~
+~
+0 0 5988
+D2
+~
+~
+0 0 5991
+D3
+~
+~
+0 0 5986
+S
+#5988
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 5985
+D1
+~
+~
+0 0 5989
+D2
+~
+~
+0 0 5992
+D3
+~
+~
+0 0 5987
+S
+#5989
+The Black Sand Desert~
+   You catch a glimpse of movement in the sand beneath your feet. A large,
+hairy tarantula senses your movements, and quickly burrows beneath the sand,
+making you wonder how many other creatures live beneath the desert floor.
+~
+56 0 10
+D0
+~
+~
+0 0 6354
+D2
+~
+~
+0 0 5993
+D3
+~
+~
+0 0 5988
+S
+#5990
+The Black Sand Desert~
+   Somewhat larger dunes rise from the sands, here. You struggle constantly to
+stay on your feet, wondering if a climb up a large dune might be worth the
+effort for what might be visible from higher ground.
+~
+56 0 10
+D0
+~
+~
+0 0 5986
+D1
+~
+~
+0 0 5991
+D2
+~
+~
+0 0 6198
+D3
+~
+~
+0 0 6191
+S
+#5991
+The Black Sand Desert~
+   You stumble and fall to your knees in the searing black sand. It requires
+your full force of willpower to stand again. The urge to succumb to the heat
+radiating upward from the sand is overwhelming.
+~
+56 0 10
+D0
+~
+~
+0 0 5987
+D1
+~
+~
+0 0 5992
+D2
+~
+~
+0 0 6199
+D3
+~
+~
+0 0 5990
+S
+#5992
+The Black Sand Desert~
+   Your feet begin to blister from the latent heat of the sands. There seems to
+be no escape from the heat. In all directions, the air remains calm, except
+for the occasional blast of desert sand from the windy area to the south.
+~
+56 0 10
+D0
+~
+~
+0 0 5988
+D1
+~
+~
+0 0 5993
+D2
+~
+~
+0 0 6200
+D3
+~
+~
+0 0 5991
+S
+#5993
+The Black Sand Desert~
+   You pitch forward onto the sand, collapsing from the heat and effort. After
+a moments rest, you drag yourself to your feet and manage to struggle onward.
+Off to the south, the wind picks up, throwing black sand high into the air.
+~
+56 0 10
+D0
+~
+~
+0 0 5989
+D2
+~
+~
+0 0 6201
+D3
+~
+~
+0 0 5992
+S
+#5999
+A Drop to Death~
+   You plummet, screaming over the rim of the canyon, bouncing off the canyon
+wall as you hurtle toward your death. In a few moments, it will all be over...
+~
+56 bc 0
+S
+$~

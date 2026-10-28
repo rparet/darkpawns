@@ -1,0 +1,160 @@
+#10100
+ring onyx slick~
+a slick onyx ring~
+A wet stone ring lies here.~
+~
+1 g ab 0
+0 0 -1 0 3
+1 3 2500 20 0 1
+E
+ring stone onyx wet slick~
+This simple black stone ring glows softly, becoming more intense as you slip
+it onto your finger. Try as you might, you can't seem to dry it off. It appears
+to exude its own moisture.
+~
+A
+4 1
+A
+19 2
+#10101
+armor burnt~
+some burnt armor~
+Some armor lies piled up in a blackened heap here.~
+~
+9 gj ad 0
+15 0 0 0 2
+30 3 6575 10 0 1
+A
+26 2
+A
+18 5
+#10102
+leg guards burnt~
+some burnt leg guards~
+Some blackened leg guards lie here in ashes.~
+~
+9 gj aq 0
+10 0 0 0 2
+12 3 6500 10 0 1
+A
+26 4
+A
+18 3
+#10103
+shard stone~
+a stone shard~
+A shard of stone lies on the ground.~
+~
+12 g ao 0
+0 0 0 0 0
+1 3 10 10 0 1
+A
+22 -2
+#10104
+ring onyx~
+an onyx ring~
+A ring made of onyx lies here.~
+~
+8 0 ab 0
+0 0 0 0 0
+1 3 1500 20 0 1
+E
+ring onyx~
+The ring appears to be made from white gold and has an onyx gem in
+its shiny setting.
+~
+A
+18 1
+A
+19 1
+#10105
+cape sandy~
+a sandy cape~
+A cape has been left here in the sand.~
+~
+11 g ad 0
+0 0 0 0 4
+5 3 4500 15 0 1
+A
+26 1
+A
+5 1
+A
+2 2
+#10106
+brass horn~
+a brass horn~
+A long golden horn is here, collecting dust.~
+~
+8 abdgq ae 0
+0 0 0 0 0
+3 3 8000 5 0 1
+A
+23 -5
+A
+19 1
+A
+6 -1
+#10107
+sandstone brown ring~
+a ring of sandstone~
+A sandy, brown ring is lying here.~
+~
+11 0 ab 0
+0 0 0 0 3
+1 3 8000 5 0 1
+A
+22 -5
+A
+14 100
+A
+18 1
+#10108
+lightning rod~
+a lightning rod~
+A long, slender pole is here, crackling with power.~
+~
+11 0 ao 0
+0 0 0 0 0
+13 3 8000 5 0 1
+A
+18 5
+A
+2 -1
+#10109
+skeleton human~
+a human skeleton~
+A human skeleton is here, no longer in need of air.~
+~
+15 e 0 0
+25 0 -1 0 0
+1 3 0 100 0 1
+E
+skeleton human~
+This skeleton lies frozen in time, frozen in the icy waters, frozen helplessly
+to the rock. Its waterlogged leather armor is what has destined it to lie here
+for eternity. As you look upon it, you're suddenly aware of your own heavy,
+water-laden equipment.
+~
+#10110
+jar earthenware cracked~
+a clay jar~
+A cracked earthenware jar rests in the corner.~
+~
+23 e 0 0
+5000 5000 0 0 5
+505 3 0 100 0 1
+E
+jar earthenware clay cracked~
+A crack runs downward from the lip of this heavy jar nearly to the base. It
+once served as a useful vessel, but it looks to be worthless now.
+~
+#10111
+doubloon purse~
+a purse of gold doubloons~
+A small purse brimming with coins lies here.~
+~
+20 0 a 0
+3500 0 0 0 0
+5 3 0 50 0 1
+$~

@@ -1,0 +1,5432 @@
+#1400
+The Immortal Map Room of Stonekeep~
+   Area under construction.
+~
+14 cdej 0
+D5
+~
+~
+0 0 1401
+S
+#1401
+A Giant Nest~
+   This nest is absolutely enormous! It's been made from numerous small
+saplings, more than likely from the forest below. There is an unnatural
+warmth radiating from its base and a thin layer of ash covers the surface
+although there are no indications as to why. Perhaps you should move along
+before the owner returns...
+~
+14 c 2
+D5
+~
+~
+0 0 20548
+S
+#1402
+A Small Clearing~
+   There is only one word to describe this, and that's breathtaking! You
+stand in a small clearing of dirt, high above the earth at the northern end
+of a narrow ridgeline. To the west, the peaks of the Kretrun mountains
+are clearly visible, as is the Sulfur Fur Valley far below to the east and
+beyond that, the Bhyroga Valley.
+   Gazing to the south, a path weaves its way up to a plateau of sorts upon
+which stands a large mountain keep, a stone tower that reaches even higher
+towards the heavens.
+   Off to the side of the clearing is a knee-high polished boulder.
+~
+14 d 5
+R tattoo_rune.lua 32
+D2
+~
+~
+0 0 1403
+E
+design~
+0~
+It is a depiction of the Sun God, Aethen, and has been carefully carved in
+intricate detail.
+~
+E
+boulder~
+0~
+The surface of this stone is perfectly smooth to the touch, most likely a
+result of exposure to the elements at this altitude. A design has been carved
+into one of its sides.
+~
+S
+#1403
+A Mountain Path~
+   The path is littered with a few loose stones and is nothing more than
+a channel carved into the ridgeline. A light dusting of snow covers the
+ground either side of you, and given the temperature at this height, it could
+have been there for some time.
+~
+14 0 5
+D0
+~
+~
+0 0 1402
+D2
+~
+~
+0 0 1404
+S
+#1404
+A Mountain Path~
+   Large boulders remain precariously perched at various places along the
+ridge line, forcing the path to weave in and out making your journey that
+much more difficult. You may continue to the north or east, any other
+direction would result in a disastrous fall.
+~
+14 0 5
+D0
+~
+~
+0 0 1403
+D1
+~
+~
+0 0 1405
+S
+#1405
+A Mountain Path~
+   You pause long enough to take in the view before you. You estimate you're
+approximately half way along the path which descends to a small clearing
+to the northwest of here and ascends to a foreboding keep to south. You
+shiver momentarily, a combination of the extreme cold and perhaps anticipation
+as to what lies ahead.
+~
+14 0 5
+D2
+~
+~
+0 0 1406
+D3
+~
+~
+0 0 1404
+S
+#1406
+A Mountain Path~
+   There is a constant, bone-chilling wind at these lofty heights and it
+almost feels like it's trying to stop you from continuing. You are buffeted
+numerous times by large gusts and seek shelter behind a nearby boulder. When
+you are ready to continue, you can travel north or south along the path.
+~
+14 0 5
+D0
+~
+~
+0 0 1405
+D2
+~
+~
+0 0 1407
+S
+#1407
+A Mountain Path~
+   You dislodge a few loose pebbles and they cascade down the side of the
+ridgeline, picking up speed and striking other larger rocks as they travel.
+If you're not careful, you could instigate a rock-slide which would be
+unfortunate for anyone travelling below at the base of the mountains. The
+path turns here sharply and you can follow it to the west or north.
+~
+14 0 5
+D0
+~
+~
+0 0 1406
+D3
+~
+~
+0 0 1408
+S
+#1408
+A Mountain Path~
+   You take a moment to catch your breath, the lack of oxygen at this
+altitude weakens you considerably. The stone walls of a large keep loom
+fairly close to the south while the path you are on descends along a narrow
+ridgeline to the east before continuing to the north.
+~
+14 0 5
+D1
+~
+~
+0 0 1407
+D2
+~
+~
+0 0 1409
+S
+#1409
+A Mountain Path~
+   The path is littered with a few loose stones and is nothing more than
+a channel carved into the ridgeline. A light dusting of snow covers the
+ground either side of you, and given the temperature at this height, it could
+have been there for some time.
+~
+14 0 5
+D0
+~
+~
+0 0 1408
+D2
+~
+~
+0 0 1412
+S
+#1410
+An Empowering Circle~
+   Located at equidistant points around a circle, five stone obelisks rise
+up from the earth and surround a glowing circle on the ground. There is a
+great power here; you feel it as you pass between two of the obelisks.
+Apart from the spectacular view of the Kretrun mountains before you, the
+only exit available is back alone the rough path to the east.
+~
+14 c 5
+D1
+~
+~
+0 0 1411
+E
+circle~
+0~
+The circle surrounds a five-pointed star which glows a soft red color. It is
+used to harness the power of a daemon and bind it within a specially crafted
+artifact provided the proper ceremony is performed.
+~
+E
+obelisks~
+0~
+The obelisks converge near their tops like a giant claw closing on a
+helpless victim. Each is carved with a series of symbols and has been placed
+at an equal distance from the center of the circle they surround and from
+each other.
+~
+E
+symbols~
+0~
+The symbols closely resemble the reagents used in sorcery...ash, pumice,
+obsidian and daemon bone.
+~
+S
+#1411
+A Rough Pathway~
+   The pathway you are on is nothing more than compacted earth, part of the
+plateau upon which the keep has been constructed. You hug the wall to avoid
+getting too close to the edge of the plateau and possible misfortune and
+may continue to the west or east.
+~
+14 0 5
+D1
+~
+~
+0 0 1412
+D3
+There are several stone obelisks to the west and they have been placed in
+such a way as to prevent you seeing what lies beyond.
+~
+~
+0 0 1410
+S
+#1412
+The Entrance to the Keep~
+   You stand at the base of a towering stone keep, a single arch to the south
+the only visible entrance. This northern face is smooth to the touch and
+you recoil harshly as a single image flashes through your mind, leaving you
+slightly shaken.
+   Gazing to the north, a path weaves its way down from here to a small
+clearing in the distance. Rough pathways also lead to the west and east
+in front of the keep wall.
+~
+14 0 5
+D0
+~
+~
+0 0 1409
+D1
+~
+~
+0 0 1413
+D2
+You could be mistaken, but it's as if a blanket of darkness has been used
+to cover the interior of whatever lies beyond the arch. You can't see anything
+in there.
+~
+~
+0 0 1415
+D3
+~
+~
+0 0 1411
+E
+plaque~
+0~
+"Any kingdom divided against itself will be ruined, and a house divided
+against itself will fall."
+~
+E
+arch~
+0~
+Sitting at waist level, just to the side of the arch, a brass plaque has
+been affixed to the stone wall.
+~
+E
+image~
+0~
+The image was very brief and the only thing you remember is the sight of
+a huge daemon within a circle of fire.
+~
+S
+#1413
+A Rough Pathway~
+   The pathway you are on is nothing more than compacted earth, part of the
+plateau upon which the keep has been constructed. You hug the wall to avoid
+getting too close to the edge of the plateau and possible misfortune and
+may continue to the west or east.
+~
+14 0 5
+D1
+It looks like the pathway ends to the east and there is quite a large
+statue of some description.
+~
+~
+0 0 1414
+D3
+~
+~
+0 0 1412
+S
+#1414
+A Rough Pathway~
+   The strong smell of sulfur is almost overpowering here, generated by a
+number of thermal vents lower down the mountain side. The Sulfur Fur Forest
+is aptly named and you gaze over it as it stretches far beyond sight to
+the east. The only exit available to you is back along the pathway to the
+west.
+~
+14 0 5
+R keep_portal.lua 32
+D3
+~
+~
+0 0 1413
+E
+circle~
+0~
+The circle surrounds a five-pointed star which glows a soft red color. It is
+used to harness the power of a daemon and bind it within a specially crafted
+artifact provided the proper ceremony is performed.
+~
+E
+obelisk~
+0~
+The obelisks converge near their tops like a giant claw closing on a
+helpless victim. Each is carved with a single symbol and has been placed
+at an equal distance from the center of the circle they surround and from
+each other.
+~
+E
+symbol~
+0~
+The obelisk nearest to you has what appears to be the symbol of a candle.
+~
+S
+#1415
+The Northern Antechamber~
+   The chamber is eerily dark and any sound seems to be absorbed before it
+has a chance to echo. An arch to the north leads to the outside world while
+a small opening in the southern wall enters another chamber within the keep.
+You almost missed it in the darkness, but you notice a small button inset
+into the stone wall.
+~
+14 adfgh 0
+D0
+~
+~
+0 0 1412
+D2
+It's as if the darkness anticipates what you are trying to do...you can't
+see more than a few feet in front of you let alone what lies within the
+chamber.
+~
+panel~
+2 0 1417
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1416
+The Western Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exit is
+back the way you came.
+~
+14 adfir 0
+D1
+~
+panel~
+2 0 1417
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1417
+The Central Chamber~
+   There is a distinct chill in the air as if the walls themselves were
+absorbing the heat from your body. You are aware of a force at work within
+this keep and you would be well advised to remain on guard. The chamber
+almost feels like it's rotating, very subtly so that it's difficult to
+even notice.
+~
+14 adfgr 0
+D0
+~
+panel~
+2 0 1415
+D1
+~
+panel~
+2 0 1418
+D2
+~
+panel~
+2 0 1420
+D3
+~
+panel~
+2 0 1416
+S
+#1418
+The Eastern Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exits are
+back the way you came and up the metal ladder affixed to the wall.
+~
+14 adfir 0
+D3
+~
+panel~
+2 0 1417
+D4
+~
+~
+0 0 1428
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1419
+A Darkened Room~
+   The room is unnaturally dark and despite your best efforts, you cannot
+see further than a few feet in front of your face. You accidently brush
+one of the walls and it's absolutely freezing, although you cannot see a
+reason as to why. To the south, an arch leads to the outside world while
+a ladder on the northern wall descends into the depths of the keep.
+~
+14 adfgh 0
+D2
+~
+~
+0 0 1422
+D5
+The darkness prevents you from seeing what lies below.
+~
+~
+0 0 1435
+S
+#1420
+The Southern Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exit is
+back the way you came.
+~
+14 adfir 0
+D0
+~
+panel~
+2 0 1417
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1421
+A Darkened Room~
+   You enter the darkened chamber and immediately feel as if you're being
+watched. There is nothing visible within the room, but then again you can't
+see very far into it given the unnatural darkness that surrounds you. An
+arch to the south leads out of the keep while a ladder on the northern wall
+provides access to the levels below.
+~
+14 adfgh 0
+D2
+~
+~
+0 0 1424
+D5
+The darkness prevents you from seeing what lies below.
+~
+~
+0 0 1437
+S
+#1422
+A Narrow Ledge~
+   Moving carefully, you manage to reach an arch in the southern face of
+the stone keep before you. You can either enter the keep through the arch
+or make your way back along the ledge to the east.
+~
+14 0 4
+D0
+It's extremely dark beyond the arch and you cannot see what lies within.
+~
+~
+0 0 1419
+D1
+~
+~
+0 0 1423
+S
+#1423
+A Narrow Ledge~
+   You stand at the base of a towering stone keep, two archways visible to
+the west and east. The southern face of the keep is only a few paces from
+the edge of the plateau upon which it was built, leaving a narrow ledge to
+negotiate along.
+   Far below you to the south, the trees of Spiritwood are nestled in a
+mountainous valley, hiding all number of secrets.
+~
+14 0 4
+R keep_portal.lua 32
+D1
+~
+~
+0 0 1424
+D3
+~
+~
+0 0 1422
+S
+#1424
+A Narrow Ledge~
+   The ledge you are on ends abruptly and you are offered only two choices:
+enter the stone keep before you by passing through the arch to the north or
+skirt your way along the ledge to the west.
+~
+14 0 4
+D0
+It's extremely dark beyond the arch and you cannot see what lies within.
+~
+~
+0 0 1421
+D3
+~
+~
+0 0 1423
+S
+#1425
+The Northern Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exit is
+back the way you came.
+~
+14 adfir 0
+D2
+~
+panel~
+2 0 1427
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1426
+The Western Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exit is
+back the way you came.
+~
+14 adfir 0
+D1
+~
+panel~
+2 0 1427
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1427
+The Central Chamber~
+   Darkness engulfs you and for a brief moment, panic sets in. The lack of
+sound is beginning to play on your mind and you fight to remain focused.
+Something moves in the shadows behind you and you spin around in time to
+see...nothing.
+~
+14 adfgr 0
+D0
+~
+panel~
+2 0 1425
+D1
+~
+panel~
+2 0 1428
+D2
+~
+panel~
+2 0 1429
+D3
+~
+panel~
+2 0 1426
+S
+#1428
+The Eastern Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exits are
+back the way you came and down the metal ladder affixed to the wall.
+~
+14 adfir 0
+D3
+~
+panel~
+2 0 1427
+D5
+~
+~
+0 0 1418
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1429
+The Southern Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exits are
+back the way you came and up the metal ladder affixed to the wall.
+~
+14 adfir 0
+D0
+~
+panel~
+2 0 1427
+D4
+~
+~
+0 0 1434
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1430
+The Northern Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exit is
+back the way you came.
+~
+14 adfir 0
+D2
+~
+panel~
+2 0 1432
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1431
+The Western Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exits are
+back the way you came and up the metal ladder affixed to the wall.
+~
+14 acdfmr 0
+D1
+~
+panel~
+2 0 1432
+D4
+~
+~
+0 0 1441
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1432
+The Central Chamber~
+   The air continues to grow even colder as you progress upwards within
+the keep. Something dwells within this place and you can feel it on
+numerous physical and mental levels. You should continue moving before you
+succumb to the cold.
+~
+14 adfgr 0
+D0
+~
+panel~
+2 0 1430
+D1
+~
+panel~
+2 0 1433
+D2
+~
+panel~
+2 0 1434
+D3
+~
+panel~
+2 0 1431
+S
+#1433
+The Eastern Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exit is
+back the way you came.
+~
+14 adfir 0
+D3
+~
+panel~
+2 0 1432
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1434
+The Southern Antechamber~
+   You find yourself in a cramped, confined chamber with barely enough room
+to turn around. There is nothing remarkable about it whatsoever and the only
+visible feature is the small button inset in the wall. The only exits are
+back the way you came and down the metal ladder affixed to the wall.
+~
+14 adfir 0
+D0
+~
+panel~
+2 0 1432
+D5
+~
+~
+0 0 1429
+E
+button~
+0~
+The button is quite cleverly concealed and you would have missed it if not
+for your keen observation. Perhaps you should push it?
+~
+S
+#1435
+The End of a Corridor~
+   This is the western end of a darkened corridor which extends into the
+darkness. A ladder allows access to the level above but it is equally as 
+dark as your current location.
+~
+14 adfh 0
+D1
+It is too dark to see down the corridor.
+~
+~
+0 0 1436
+D4
+The darkness prevents you from seeing what lies above.
+~
+~
+0 0 1419
+S
+#1436
+Midway Down a Corridor~
+   The corridor proceeds to the east and west although given the inky
+blackness around you, you're uncertain as to how far it extends. There is
+a small trapdoor in the floor which has been fastened open and provides 
+passage to the sublevels.
+   You notice a brass plaque affixed to the wall.
+~
+14 acdfh 0
+D1
+It is too dark to see down the corridor.
+~
+~
+0 0 1437
+D3
+It is too dark to see down the corridor.
+~
+~
+0 0 1435
+D5
+You cannot see down into the darkness.
+~
+~
+0 0 1513
+E
+plaque~
+0~
+"A man of perverse heart does not prosper; he whose tongue is deceitful
+shall fall into trouble."
+~
+S
+#1437
+The End of a Corridor~
+   You fumble your way in the darkness, unable to see far ahead of you.
+After banging into a few of the walls, you realise this is the eastern end
+of a corridor and have the choice of following it westward or climbing the
+ladder you've stumbled across.
+~
+14 adfh 0
+D3
+It is too dark to see down the corridor.
+~
+~
+0 0 1436
+D4
+The darkness prevents you from seeing what lies above.
+~
+~
+0 0 1421
+S
+#1438
+A Dark Corner in the Chamber~
+   It may provide some form of comfort, but you are no longer within the
+summoning circle and mid-way between two points of the star. If you feel
+safe in the shadows of this chamber, then perhaps you can afford to rest
+here awhile.
+~
+14 adfr 0
+D1
+~
+~
+0 0 1439
+D2
+~
+~
+0 0 1441
+S
+#1439
+The Point of a Star~
+   You stand at the northern point of a five-pointed star which glows softly
+in the darkness. Remarkably, this does not provide a source of light which
+merely adds to the mystery that is Stonekeep. Relative safety beyond the
+great circle lies to the west and east where you can cower in the shadows.
+~
+14 adfr 0
+R keep_conversation.lua 32
+D1
+While you know the corner of the chamber lies to the east, you cannot see
+if anything is there...you'll need to go over there if you want to know.
+~
+~
+0 0 1440
+D2
+~
+~
+0 0 1442
+D3
+~
+~
+0 0 1438
+S
+#1440
+A Dark Corner in the Chamber~
+   If it was possible that the darkness surrounding you could grow even
+darker, then you have found such a spot. It's as if the darkness has a
+sentience of its own and prohibits all forms of light escaping. You are
+safe here provided no one comes to join you...
+~
+14 adfr 0
+D2
+~
+~
+0 0 1443
+D3
+~
+~
+0 0 1439
+S
+#1441
+The Point of a Star~
+   You are uncertain as to what is more disconcerting - the fact that this
+entire level appears to be one giant summoning circle or that you're standing
+at one point of a five-pointed star within the circle. The star glows a soft
+red color and every few minutes, pulses with a wave of energy that radiates
+around the chamber.
+   A metal ladder protrudes slightly through a small hole in the floor and
+provides access to the level below.
+~
+14 adfgr 0
+R keep_conversation.lua 32
+D0
+~
+~
+0 0 1438
+D1
+~
+~
+0 0 1442
+D2
+~
+~
+0 0 1444
+D5
+~
+~
+0 0 1431
+S
+#1442
+The Great Summoning Circle~
+   As if on cue, you enter the center of the circle and it feels like time
+itself has stopped. There is an immediate silence and your senses are
+heightened to a greater level than you have ever known. The star now remains
+a pale red color and glows softly within the darkened chamber. You gaze
+down at the floor and realize it's not there - in its place, a swirling
+mass of light the likes of which you have never seen!
+~
+14 adfgr 0
+D0
+~
+~
+0 0 1439
+D1
+~
+~
+0 0 1443
+D2
+~
+~
+0 0 1445
+D3
+~
+~
+0 0 1441
+S
+#1443
+The Point of a Star~
+   You stand at the eastern point of a five-pointed star which is the
+dominant feature within the chamber. Specifically, the star is the only
+feature within the chamber - the walls are bare and cool to the touch, the
+floor is devoid of everything and you cannot even see the ceiling given the
+darkness which blankets this place.
+   You can move to another point on the star by moving to the south or seek
+shelter in the relative darkness in the chamber's corner to the north.
+Alternatively, you could venture forth into the center of the circle to the
+west.
+~
+14 adfr 0
+R keep_conversation.lua 32
+D0
+While you know the corner of the chamber lies to the north, you cannot see
+if anything is there...you'll need to go over there if you want to know.
+~
+~
+0 0 1440
+D2
+~
+~
+0 0 1446
+D3
+~
+~
+0 0 1442
+S
+#1444
+The Point of a Star~
+   As you approach the corner of the chamber, the star begins to pulse
+with a greater frequency. You reposition yourself to various places and
+observe the pulses are the strongest when you actually stand on the point
+of the star.
+   To the east, you notice a small dais that provides a slightly better
+overview of the chamber.
+~
+14 adfmr 0
+R keep_conversation.lua 32
+D0
+~
+~
+0 0 1441
+D1
+~
+~
+0 0 1445
+S
+#1445
+A Small Dais~
+   The dais is nothing more than a platform a few feet above floor level.
+It does offer, however, a slightly improved view of the chamber although
+the corners to the northwest and northeast remain just beyond the limit of
+your vision.
+   The chamber itself is consumed wholely by a summoning circle which
+surrounds a five-pointed star, each point located along the chamber walls.
+You can progress into the center of the circle by travelling north, or
+position yourself on one of the points to the east and west.
+~
+14 adfr 0
+R keep_conversation.lua 32
+D0
+~
+~
+0 0 1442
+D1
+~
+~
+0 0 1446
+D3
+~
+~
+0 0 1444
+E
+circle~
+0~
+Given the size of this summoning circle, you imagine the beast it calls
+forth must be as immense and of great power.
+~
+S
+#1446
+The Point of a Star~
+   You stand at the point and watch as pulses of energy flow along the lines
+from which this magickal symbol has been created. The pulses appear to be
+coming from you which you confirm by moving slightly off the point of the
+star.
+   To the west, a small platform offers an improved viewing position of the
+chamber.
+~
+14 adfr 0
+R keep_conversation.lua 32
+D0
+~
+~
+0 0 1443
+D3
+~
+~
+0 0 1445
+S
+#1447
+A Grand Chamber~
+   You climb down the ladder and enter a rather lavish chamber. The cold
+blocks from which this keep has been constructed have been replaced with
+earthen walls and the darkness is kept at bay by numerous braziers.
+Furnishings scattered around you suggest this chamber is used as a place
+of residence and study...its occupant obviously has no intention of navigating
+the tunnels of the maze above you.
+~
+14 cdgm 0
+D4
+~
+~
+0 0 1605
+S
+#1448
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D1
+~
+~
+0 0 1402
+D2
+~
+~
+0 0 1449
+S
+#1449
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gh 5
+D0
+~
+~
+0 0 1448
+D2
+~
+~
+0 0 1450
+S
+#1450
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gh 5
+D0
+~
+~
+0 0 1449
+D2
+~
+~
+0 0 1451
+S
+#1451
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gh 5
+D0
+~
+~
+0 0 1450
+D1
+~
+~
+0 0 1452
+D2
+~
+~
+0 0 1453
+S
+#1452
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D3
+~
+~
+0 0 1451
+S
+#1453
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1451
+D2
+~
+~
+0 0 1454
+S
+#1454
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1453
+D1
+~
+~
+0 0 1409
+D2
+~
+~
+0 0 1411
+D3
+~
+~
+0 0 1455
+S
+#1455
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D1
+~
+~
+0 0 1454
+D3
+~
+~
+0 0 1471
+S
+#1456
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D2
+~
+~
+0 0 1457
+D3
+~
+~
+0 0 1402
+S
+#1457
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1456
+D1
+~
+~
+0 0 1458
+S
+#1458
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D2
+~
+~
+0 0 1459
+D3
+~
+~
+0 0 1457
+S
+#1459
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1458
+D2
+~
+~
+0 0 1460
+D3
+~
+~
+0 0 1405
+S
+#1460
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1459
+D2
+~
+~
+0 0 1461
+S
+#1461
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1460
+D2
+~
+~
+0 0 1462
+S
+#1462
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1461
+D1
+~
+~
+0 0 1477
+D3
+~
+~
+0 0 1463
+S
+#1463
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D1
+~
+~
+0 0 1462
+S
+#1464
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1476
+D1
+~
+~
+0 0 1422
+D2
+~
+~
+0 0 1465
+S
+#1465
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1464
+D1
+~
+~
+0 0 1466
+S
+#1466
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D1
+~
+~
+0 0 1467
+D3
+~
+~
+0 0 1465
+S
+#1467
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1423
+D1
+~
+~
+0 0 1468
+D3
+~
+~
+0 0 1466
+S
+#1468
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D1
+~
+~
+0 0 1469
+D3
+~
+~
+0 0 1467
+S
+#1469
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1470
+D3
+~
+~
+0 0 1468
+S
+#1470
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1482
+D2
+~
+~
+0 0 1469
+D3
+~
+~
+0 0 1424
+S
+#1471
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D1
+~
+~
+0 0 1455
+D2
+~
+~
+0 0 1472
+S
+#1472
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1471
+D1
+~
+~
+0 0 1410
+D2
+~
+~
+0 0 1473
+S
+#1473
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1472
+D1
+~
+~
+0 0 1474
+S
+#1474
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D2
+~
+~
+0 0 1475
+D3
+~
+~
+0 0 1473
+S
+#1475
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1474
+D2
+~
+~
+0 0 1476
+S
+#1476
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1475
+D2
+~
+~
+0 0 1464
+S
+#1477
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D2
+~
+~
+0 0 1478
+D3
+~
+~
+0 0 1462
+S
+#1478
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1477
+D2
+~
+~
+0 0 1479
+D3
+~
+~
+0 0 1414
+S
+#1479
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1478
+D3
+~
+~
+0 0 1480
+S
+#1480
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D1
+~
+~
+0 0 1479
+D2
+~
+~
+0 0 1481
+S
+#1481
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1480
+D2
+~
+~
+0 0 1482
+S
+#1482
+Flying near Stonekeep~
+   Alternate pathway that allows the phoenix mobs to fly along the player
+pathway and thus generate sounds without them actually being there.
+~
+14 gj 5
+D0
+~
+~
+0 0 1481
+D2
+~
+~
+0 0 1470
+S
+#1500
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1590
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1501
+S
+#1501
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1502
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1500
+S
+#1502
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1592
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1503
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1501
+S
+#1503
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1502
+S
+#1504
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1505
+S
+#1505
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1506
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1515
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1504
+S
+#1506
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1507
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1516
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1505
+S
+#1507
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1508
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1517
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1506
+S
+#1508
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1518
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1507
+S
+#1509
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1599
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1519
+S
+#1510
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1511
+S
+#1511
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1512
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1521
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1510
+S
+#1512
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1511
+S
+#1513
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1514
+D4
+~
+~
+0 0 1436
+S
+#1514
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1524
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1513
+S
+#1515
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1505
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1516
+S
+#1516
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1506
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1515
+S
+#1517
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1507
+S
+#1518
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1508
+S
+#1519
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1509
+S
+#1520
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1530
+S
+#1521
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1511
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1522
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1531
+S
+#1522
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1532
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1521
+S
+#1523
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1533
+S
+#1524
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1514
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1534
+S
+#1525
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1526
+S
+#1526
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1527
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1536
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1525
+S
+#1527
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1537
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1526
+S
+#1528
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1529
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1538
+S
+#1529
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1539
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1528
+S
+#1530
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1520
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1531
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1539
+S
+#1531
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1521
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1530
+S
+#1532
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1522
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1533
+S
+#1533
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1523
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1543
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1532
+S
+#1534
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1524
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1544
+S
+#1535
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1545
+S
+#1536
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1526
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1537
+S
+#1537
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1527
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1536
+S
+#1538
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1528
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1548
+S
+#1539
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1529
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1530
+S
+#1540
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1549
+S
+#1541
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1551
+S
+#1542
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1552
+S
+#1543
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1533
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1553
+S
+#1544
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1534
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1554
+S
+#1545
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1535
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1546
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1555
+S
+#1546
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1547
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1545
+S
+#1547
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1548
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1546
+S
+#1548
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1538
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1549
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1547
+S
+#1549
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1540
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1559
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1548
+S
+#1550
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1560
+S
+#1551
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1541
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1561
+S
+#1552
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1542
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1553
+S
+#1553
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1543
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1563
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1552
+S
+#1554
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1544
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1564
+S
+#1555
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1545
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1565
+S
+#1556
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1557
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1566
+S
+#1557
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1558
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1556
+S
+#1558
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1559
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1557
+S
+#1559
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1549
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1569
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1558
+S
+#1560
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1550
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1561
+S
+#1561
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1551
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1562
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1560
+S
+#1562
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1572
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1561
+S
+#1563
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1553
+S
+#1564
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1554
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1565
+S
+#1565
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1555
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1564
+S
+#1566
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1556
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1576
+S
+#1567
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1568
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1577
+D5
+~
+~
+0 0 1667
+S
+#1568
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1578
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1567
+S
+#1569
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1559
+S
+#1570
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1580
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1579
+S
+#1571
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1572
+S
+#1572
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1562
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1573
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1571
+S
+#1573
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1583
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1572
+S
+#1574
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1584
+S
+#1575
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1576
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1585
+S
+#1576
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1566
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1577
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1586
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1575
+S
+#1577
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1567
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1576
+S
+#1578
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1568
+S
+#1579
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1570
+S
+#1580
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1570
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1581
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1589
+S
+#1581
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1582
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1580
+S
+#1582
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1583
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1581
+S
+#1583
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1573
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1593
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1582
+S
+#1584
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1574
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1585
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1594
+S
+#1585
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1575
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1595
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1584
+S
+#1586
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1576
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1587
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1596
+S
+#1587
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1586
+S
+#1588
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1598
+S
+#1589
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1580
+S
+#1590
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1591
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1500
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1599
+S
+#1591
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1592
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1590
+S
+#1592
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1593
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1502
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1591
+S
+#1593
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1583
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1592
+S
+#1594
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1584
+S
+#1595
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1585
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1596
+S
+#1596
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1586
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1597
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1595
+S
+#1597
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1598
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1596
+S
+#1598
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1588
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1597
+S
+#1599
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1590
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1509
+S
+#1600
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1601
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1610
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1609
+S
+#1601
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1611
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1600
+S
+#1602
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1603
+S
+#1603
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1693
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1613
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1602
+S
+#1604
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1694
+S
+#1605
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1695
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1606
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1615
+D5
+At last! You can't see down there, but the area is certainly lit which
+would be a welcome change.
+~
+~
+0 0 1447
+S
+#1606
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1607
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1605
+S
+#1607
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1697
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1606
+S
+#1608
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1698
+S
+#1609
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1699
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1600
+S
+#1610
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1600
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1619
+S
+#1611
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1601
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1621
+S
+#1612
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1622
+S
+#1613
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1603
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1623
+S
+#1614
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1615
+S
+#1615
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1605
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1625
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1614
+S
+#1616
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1626
+S
+#1617
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1618
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1627
+S
+#1618
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1617
+S
+#1619
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1610
+S
+#1620
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1621
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1630
+S
+#1621
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1611
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1622
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1620
+S
+#1622
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1612
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1621
+S
+#1623
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1613
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1624
+S
+#1624
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1625
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1623
+S
+#1625
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1615
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1626
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1624
+S
+#1626
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1616
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1625
+S
+#1627
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1617
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1628
+S
+#1628
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1629
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1627
+S
+#1629
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1639
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1628
+S
+#1630
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1620
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1639
+S
+#1631
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1632
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1641
+S
+#1632
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1633
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1642
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1631
+S
+#1633
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1632
+S
+#1634
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1635
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1644
+S
+#1635
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1645
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1634
+S
+#1636
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1637
+S
+#1637
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1638
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1636
+S
+#1638
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1639
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1637
+S
+#1639
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1629
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1630
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1638
+S
+#1640
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1641
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1650
+S
+#1641
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1631
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1651
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1640
+S
+#1642
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1632
+S
+#1643
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1653
+S
+#1644
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1634
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1645
+S
+#1645
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1635
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1644
+S
+#1646
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1647
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1656
+S
+#1647
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1646
+S
+#1648
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1649
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1658
+S
+#1649
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1648
+S
+#1650
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1640
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1660
+S
+#1651
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1641
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1652
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1661
+S
+#1652
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1653
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1651
+S
+#1653
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1643
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1652
+S
+#1654
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1655
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1664
+S
+#1655
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1654
+S
+#1656
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1646
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1657
+S
+#1657
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1658
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1656
+S
+#1658
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1648
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1659
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1657
+S
+#1659
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1669
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1658
+S
+#1660
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1650
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1669
+S
+#1661
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1651
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1662
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1671
+S
+#1662
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1663
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1672
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1661
+S
+#1663
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1662
+S
+#1664
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1654
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1674
+S
+#1665
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1666
+S
+#1666
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1676
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1665
+S
+#1667
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1668
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1677
+D4
+~
+~
+0 0 1567
+S
+#1668
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1678
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1667
+S
+#1669
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1659
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1660
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1679
+S
+#1670
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1671
+S
+#1671
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1661
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1670
+S
+#1672
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1662
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1673
+S
+#1673
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1683
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1672
+S
+#1674
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1664
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1675
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1684
+S
+#1675
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1685
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1674
+S
+#1676
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1666
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1677
+S
+#1677
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1667
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1676
+S
+#1678
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1668
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1679
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1688
+S
+#1679
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1669
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1689
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1678
+S
+#1680
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1681
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1690
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1689
+S
+#1681
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1682
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1680
+S
+#1682
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1683
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1681
+S
+#1683
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1673
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1682
+S
+#1684
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1674
+S
+#1685
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1675
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1686
+S
+#1686
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1696
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1685
+S
+#1687
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1697
+S
+#1688
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1678
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1698
+S
+#1689
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1679
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1680
+S
+#1690
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1680
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1699
+S
+#1691
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1692
+S
+#1692
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1693
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1691
+S
+#1693
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1694
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1603
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1692
+S
+#1694
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1604
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1693
+S
+#1695
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adgh 0
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1605
+S
+#1696
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1686
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1697
+S
+#1697
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1687
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1698
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1607
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1696
+S
+#1698
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D0
+You can't see that far into the darkness.
+~
+~
+0 0 1688
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1608
+D3
+You can't see that far into the darkness.
+~
+~
+0 0 1697
+S
+#1699
+The Maze of Illusions~
+   Sounds echo from within the darkness which surrounds you like a blanket.
+You can't even see more than a few feet in front of you and the longer you
+spend navigating these passages, the more disoriented you become. You have
+little idea of where you actually are, let alone where you should be going.
+~
+14 adghp 0
+D1
+You can't see that far into the darkness.
+~
+~
+0 0 1690
+D2
+You can't see that far into the darkness.
+~
+~
+0 0 1609
+S
+$~

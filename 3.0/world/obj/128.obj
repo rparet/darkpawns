@@ -1,0 +1,209 @@
+#12800
+hat battered brown~
+a battered, brown hat~
+The trademark hat of Indiana Jones lies here.~
+~
+11 g ae 0
+5 0 0 0 0
+3 2 5000 15 0 1
+E
+hat indy~
+This is the trademark hat of Indiana Jones himself.  He is never without
+his hat, so what do you think you're doing with it?
+~
+A
+2 2
+A
+5 2
+A
+18 2
+#12801
+idol light~
+a golden idol~
+A glowing golden idol lies here.~
+~
+1 agkl ao 0
+0 0 -1 0 4
+3 3 7500 10 0 1
+E
+idol golden~
+It looks like a small statue of a god of some sort.  It is made of gold
+and it's glow lights the whole room.  You wonder what magical properties
+this idol might contain.
+~
+A
+18 2
+A
+19 2
+A
+7 -1
+#12802
+bull whip bullwhip~
+a bullwhip~
+An old bullwhip is lying on the ground.~
+~
+5 g an 0
+7 6 8 2 6
+7 3 6000 10 0 1
+E
+bullwhip whip weapon~
+It is a strong bullwhip of considerable length.  It appears to be made
+of a very strong material.  This whip looks as though it has been
+thoroughly used.
+~
+A
+18 3
+A
+19 3
+R
+7 2
+#12803
+shield golden~
+a golden shield~
+Some idiot left a shield made of solid gold lying here.~
+~
+9 ag aj 0
+10 0 0 0 2
+17 3 6000 25 0 1
+E
+shield golden~
+It is made of solid gold and has an eerie glow to it.  It looks as
+though it could be worn quite easily.
+~
+A
+18 3
+A
+7 -1
+#12804
+axe golden~
+a golden axe~
+An exquisite axe made of solid gold lies here.~
+~
+5 ag an 0
+2 7 8 3 2
+13 3 10000 10 0 1
+E
+axe golden weapon~
+It is forged of the highest quality, with intricate carvings on the
+blade itself.  It has a strange glow to it that is almost blinding.
+~
+A
+18 3
+A
+19 5
+A
+7 -1
+R
+2 3
+#12805
+ring ancient~
+an ancient ring~
+An ancient, powerful ring lies here in the dirt.~
+~
+9 g ab 0
+5 0 0 0 1
+1 2 10000 10 0 1
+E
+ring golden~
+It looks like some type of king's seal.  Solomon probably used it to 
+authenticate his royal documents.  It is made of solid gold, except 
+for one diamond that is set into the band.
+~
+A
+19 3
+A
+7 1
+#12806
+blade scythe sickle~
+a large scythe~
+A large sickle-shaped weapon is lying here.~
+~
+5 bfj an 0
+1 5 6 3 3
+16 2 6500 10 0 1
+E
+scythe blade weapon~
+This weapon has a very large, curved blade with a long, thick, wooden
+handle.  It looks intimidating and very heavy.
+~
+A
+2 2
+A
+19 1
+R
+1 2
+#12808
+dagger tiny blade~
+a tiny dagger~
+A dagger with a long blade lies here.~
+~
+5 0 an 0
+6 1 4 11 4
+1 1 10 80 0 1
+#12809
+dagger elven adamantite~
+a long elven dagger~
+A long elven dagger made of adamantite lies here.~
+~
+5 g an 0
+6 3 2 11 3
+2 1 2650 25 0 1
+A
+4 1
+A
+19 2
+#12810
+golden crown~
+a golden crown~
+A crown made of solid gold has been foolishly left here.~
+~
+8 ak ae 0
+0 0 0 0 2
+4 3 8000 25 0 1
+A
+27 1
+A
+26 1
+A
+7 -1
+#12811
+cloak golden~
+a golden cloak~
+A cloak made of solid gold has been foolishly left here.~
+~
+11 agi ak 0
+0 0 0 0 3
+8 3 8000 25 0 1
+A
+27 1
+A
+26 1
+A
+7 -1
+#12861
+fleshy key~
+a fleshy key~
+A key made of metal covered with decaying human flesh lies here.~
+~
+18 cegp a 0
+0 0 0 0 0
+1 3 10 100 2 1
+E
+key fleshy~
+This key is made of a strange looking metal.  It is partially covered
+with human flesh!?!  EWWW!  
+~
+#12872
+gold key~
+a strange golden key~
+A key made of solid gold lies here.~
+~
+18 acegp a 0
+0 0 0 0 0
+1 3 10 100 2 1
+E
+key gold~
+This key seems to be made of solid gold. It has the initials K.S. engraved
+on it.
+~
+$~

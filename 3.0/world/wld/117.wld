@@ -1,0 +1,924 @@
+#11700
+The Immortal Map Room of the Crystal Mines~
+   Fairly straight forward...go explore!
+~
+117 cdk 0
+S
+#11701
+A Mineshaft~
+   The mineshaft shows signs of recent use...strong wooden beams support the
+earthern walls, while several thick lengths of rope descend into the darkness
+below. You can hear the faint sounds of metal upon stone from down there while
+the light from the outside world pierces the blackness through a hole above
+your head.
+~
+117 acdm 0
+D4
+~
+~
+0 0 9575
+D5
+It's too dark to see down there.
+~
+~
+0 0 11702
+S
+#11702
+A Mineshaft~
+   Roughly cut hand and foot holds sit at irregular intervals in the shaft
+walls, allowing your climb or descent to proceed with safety. The continuous
+"clink" of metal tools can be heard from below but the darkness prevents you
+from seeing too much into the depths.
+~
+117 acdm 0
+D4
+It's too dark to see up there.
+~
+~
+0 0 11701
+D5
+It's too dark to see down there.
+~
+~
+0 0 11703
+S
+#11703
+A Mineshaft~
+   The mineshaft has been constructed with the utmost in care and safety with
+numerous wooden support beams maintaining the structural integrity of the
+shaft walls. You find it odd that although a number of oil lamps have been
+affixed to the walls, none of them are lit...then again, who would want to
+climb up and down here to light them.
+~
+117 acdm 0
+D4
+It's too dark to see up there.
+~
+~
+0 0 11702
+D5
+It's too dark to see down there.
+~
+~
+0 0 11704
+S
+#11704
+A Mineshaft~
+   The air is noticeably cooler here, perhaps just a localised pocket. There
+are definate sounds of life coming from the darkness below you but at this
+point in time, you can't see your own hand in front of your face. Maybe if
+you continued on...
+~
+117 acdm 0
+D4
+It's too dark to see up there.
+~
+~
+0 0 11703
+D5
+It's too dark to see down there.
+~
+~
+0 0 11705
+S
+#11705
+A Mineshaft~
+   As you ponder which direction to travel, one of the thick lengths of rope
+in front of you begins to move. Slowly rising from the depths, a small wooden
+bucket laden with crystalline chunks passes you and disappears above your
+head.
+~
+117 acdm 0
+D4
+It's too dark to see up there.
+~
+~
+0 0 11704
+D5
+It's too dark to see down there.
+~
+~
+0 0 11706
+E
+crystalline~
+0~
+They are roughly cut, varying in size and mass. What little light there is
+reflects off several flat surfaces, creating a dazzling array of colors on
+the shaft walls.
+~
+S
+#11706
+A Mineshaft~
+   You are startled by a loud grunt which echos up and down the shaft for a
+few seconds. Although you can't see below you, you're almost positive that
+whatever made the sound lies only a short distance away. You can continue
+your journey upwards or downwards when you feel ready.
+~
+117 acd 0
+D4
+It's too dark to see up there.
+~
+~
+0 0 11705
+D5
+It's too dark to see down there.
+~
+~
+0 0 11707
+S
+#11707
+A Mineshaft~
+   Faint flickers of light can be seen from below but they do little to pierce
+the blackness surrounding you, merely providing some clue as to what lies
+below. As if on cue, an empty bucket descends from above and lands gently on
+the sandy floor.
+~
+117 acd 0
+D4
+It's too dark to see up there.
+~
+~
+0 0 11706
+D5
+~
+~
+0 0 11708
+E
+bucket~
+0~
+Since you can see no sign of any mechanism here, you can only assume that the
+bucket is controlled by someone or something on the surface.
+~
+S
+#11708
+The Base of a Mineshaft~
+   You stand at the base of a lengthy mineshaft which stretches high above
+you into the blackness. A few lengths of rope appear from the murky darkness
+and rest comfortably on the floor, one of them attached to an empty wooden
+bucket. Tunnels continue in each of the four cardinal directions, each lined
+with a number of oil lamps to provide rudementary lighting.
+~
+117 dm 0
+D0
+~
+~
+0 0 11709
+D1
+~
+~
+0 0 11719
+D2
+~
+~
+0 0 11720
+D3
+~
+~
+0 0 11735
+D4
+~
+~
+0 0 11707
+S
+#11709
+A Tunnel Within the Mine~
+   Crystal chunks protrude from the rocky tunnel wall which shows severe signs
+of scoring. Crumbled crystalline fragments litter the ground and you observe
+numerous large footprints in the dust. Oil lamps attached to the walls and
+resting on the ground provide adequate light.
+~
+117 dm 0
+D0
+~
+~
+0 0 11710
+D2
+~
+~
+0 0 11708
+S
+#11710
+A Tunnel Within the Mine~
+   You stumble on a broken pick, its iron head almost worn bare with use and
+its wooden handle splintered right down the middle. Lamplight dances off a
+number of crystal rocks that barely protrude from the shaft walls and it
+soon becomes apparent what work is conducted here.
+~
+117 d 0
+D0
+~
+~
+0 0 11711
+D2
+~
+~
+0 0 11709
+S
+#11711
+A Tunnel Within the Mine~
+   There is quite a marked hole in the wall here, not quite large enough to
+fit through but with a bit more work it could be expanded. You notice some of
+the wooden support beams which keep this tunnel open appear to be showing the
+signs of age and stress, the wood bowed in the center. Perhaps you should move
+forward...
+~
+117 dm 0
+D1
+~
+~
+0 0 11712
+D2
+~
+~
+0 0 11710
+D3
+~
+~
+0 0 11740
+E
+hole~
+0~
+Yes, it's a hole. Now if only you could dig further...
+~
+S
+#11712
+A Tunnel Within the Mine~
+   The air is incredibly stale down here and you wonder how anything could
+survive for any length of time. Large footprints criss-cross on the dusty
+floor, some with what appear to be drag marks behind them although of what,
+you cannot be sure.
+~
+117 d 0
+D1
+~
+~
+0 0 11713
+D3
+~
+~
+0 0 11711
+S
+#11713
+A Tunnel Within the Mine~
+   The tunnel system stretches ever onward and you wonder who, or what,
+created this mine and for what purpose. Small chunks of crystal lie on the
+ground, apparently worth little or of no concern to the workers of this place.
+~
+117 d 0
+D1
+~
+~
+0 0 11714
+D3
+~
+~
+0 0 11712
+S
+#11714
+A Tunnel Within the Mine~
+   You crush a small chunk of crystal which was left on the ground and
+silently curse as the noise sends a resounding "crack" throughout the mine
+tunnels. Any element of stealth you wished to retain is now lost...
+~
+117 d 0
+D2
+~
+~
+0 0 11715
+D3
+~
+~
+0 0 11713
+S
+#11715
+A Tunnel Within the Mine~
+   The tunnel is certainly well frequented as is evident by the fresh dirt
+scuffed up at your feet. Numerous crystalline deposits can be seen protruding
+from the tunnel walls and ceiling - if you had the right equipment, perhaps
+you could mine for some of it yourself?
+~
+117 d 0
+D0
+~
+~
+0 0 11714
+D2
+~
+~
+0 0 11716
+S
+#11716
+A Tunnel Within the Mine~
+   A small puddle of water has formed on the floor, fed by a trickle that
+seeps from a small crack in the ceiling. A strange moss grows around the
+crack, using what little oxygen exists down here to grow. The tunnel
+continues to the north and south.
+~
+117 d 0
+D0
+~
+~
+0 0 11715
+D2
+~
+~
+0 0 11717
+E
+moss~
+0~
+Almost crystalline in nature, the moss has a number of crystal spikes
+extending from the main body mass. It might be wise to avoid it.
+~
+S
+#11717
+A Tunnel Within the Mine~
+   You have reached an intersection within the tunnel system allowing you to
+journey to the north, south or west. Crumbled rock lies scattered about the
+floor having fallen from a section of the eastern wall. Extra support beams
+have been placed in an effort to prevent the remainder of the wall collapsing.
+~
+117 dm 0
+D0
+~
+~
+0 0 11716
+D2
+~
+~
+0 0 11727
+D3
+~
+~
+0 0 11718
+S
+#11718
+A Tunnel Within the Mine~
+   Crystal chunks protrude from the rocky tunnel wall which shows severe signs
+of scoring. Crumbled crystalline fragments litter the ground and you observe
+numerous large footprints in the dust. Oil lamps attached to the walls and
+resting on the ground provide adequate light.
+~
+117 dm 0
+D1
+~
+~
+0 0 11717
+D3
+~
+~
+0 0 11719
+S
+#11719
+A Tunnel Within the Mine~
+   A thin layer of smoke lines the tunnel ceiling, generated from the oil
+lamps affixed to the shaft walls. Given the stale nature of the air in here,
+it's a wonder that they continue to burn at all.
+~
+117 dm 0
+D1
+~
+~
+0 0 11718
+D3
+~
+~
+0 0 11708
+S
+#11720
+A Tunnel Within the Mine~
+   The tunnel system stretches ever onward and you wonder who, or what,
+created this mine and for what purpose. Small chunks of crystal lie on the
+ground, apparently worth little or of no concern to the workers of this place.
+~
+117 d 0
+D0
+~
+~
+0 0 11708
+D2
+~
+~
+0 0 11721
+S
+#11721
+A Tunnel Within the Mine~
+   The mine continues to the north and south, discarded equipment left lieing
+on the ground. Small deposits of crystal have been exposed on the tunnel walls
+but have not been removed as of yet. You attempt to do so with your hands on
+one of the smaller deposits and it merely crumbles away.
+~
+117 dm 0
+D0
+~
+~
+0 0 11720
+D2
+~
+~
+0 0 11722
+E
+equipment~
+0~
+You can see why it has been discarded - most of it appears to be broken!
+~
+S
+#11722
+A Tunnel Within the Mine~
+   The shaft branches here and you can continue to the north, west or east.
+The closest oil lamp flickers briefly and extinguishes, its flame disturbed by
+your passage. Fortunately, the remaining lamps provide adequate light for you
+to see clearly.
+~
+117 d 0
+D0
+~
+~
+0 0 11721
+D1
+~
+~
+0 0 11723
+D3
+~
+~
+0 0 11728
+S
+#11723
+A Tunnel Within the Mine~
+   One of the support beams across the ceiling has a distinct crack along its
+length, water dripping from it and landing in a small puddle on the ground.
+Judging by the debris scattered around the area, the beam may not hold for
+much longer.
+~
+117 dm 0
+D1
+~
+~
+0 0 11724
+D3
+~
+~
+0 0 11722
+S
+#11724
+A Tunnel Within the Mine~
+   The light from a nearby oil lamp flickers over a crystalline chunk which
+protrudes from the shaft wall. A myriad of colors dances over you as a result
+and you stand in awe of the display. If nothing else, these crystals provide
+some form of entertainment.
+~
+117 d 0
+D1
+~
+~
+0 0 11725
+D3
+~
+~
+0 0 11723
+S
+#11725
+A Tunnel Within the Mine~
+   The tunnel bends here, continuing to the north and west. Extra wooden beams
+have been placed in the corner as shoring for what is obviously an extremely
+weak support beam. An ornate crystal formation has actually begun to grow over
+the sides of one such beam, suggesting perhaps it is a living entity.
+~
+117 d 0
+D0
+~
+~
+0 0 11726
+D3
+~
+~
+0 0 11724
+E
+formation~
+0~
+On closer inspection, the formation is actually some form of moss which has
+large crystalline spikes attached to its central mass.
+~
+S
+#11726
+A Tunnel Within the Mine~
+   You stumble on a broken pick, its iron head almost worn bare with use and
+its wooden handle splintered right down the middle. Lamplight dances off a
+number of crystal rocks that barely protrude from the shaft walls and it
+soon becomes apparent what work is conducted here.
+~
+117 d 0
+D0
+~
+~
+0 0 11727
+D2
+~
+~
+0 0 11725
+S
+#11727
+A Tunnel Within the Mine~
+   One of the oil lamps has fallen from its mount and lies broken on the
+ground, oil leaking from its reservoir. You wonder why it hasn't seeped into
+the sandy floor but on closer inspection, the sand is merely a light covering
+for the rock that lies beneath. A large cavern opens up to the east while the
+tunnel continues to the north and south.
+~
+117 d 0
+D0
+~
+~
+0 0 11717
+D1
+~
+~
+0 0 11744
+D2
+~
+~
+0 0 11726
+S
+#11728
+A Tunnel Within the Mine~
+   A rather solid looking crystal spike extends from the ground and it appears
+as if someone has attempted to remove it with tools but been unsuccessful.
+A few broken picks have been left nearby, most likely in disgust at the
+apparently unbreakable crystal formation.
+~
+117 d 0
+D1
+~
+~
+0 0 11722
+D3
+~
+~
+0 0 11729
+S
+#11729
+A Tunnel Within the Mine~
+   The tunnel system stretches ever onward and you wonder who, or what,
+created this mine and for what purpose. Small chunks of crystal lie on the
+ground, apparently worth little or of no concern to the workers of this place.
+~
+117 d 0
+D1
+~
+~
+0 0 11728
+D3
+~
+~
+0 0 11730
+S
+#11730
+A Tunnel Within the Mine~
+   The air is incredibly stale down here and you wonder how anything could
+survive for any length of time. Large footprints criss-cross on the dusty
+floor, some with what appear to be drag marks behind them although of what,
+you cannot be sure.
+~
+117 d 0
+D0
+~
+~
+0 0 11731
+D1
+~
+~
+0 0 11729
+S
+#11731
+A Tunnel Within the Mine~
+   A narrow channel has been carved out of the rocky floor to the west, most
+likely to funnel away the water which seeps in through a crack in the wall.
+Good intentions perhaps, but the water has no where to go and pools regardless
+of the channel.
+~
+117 d 0
+D0
+~
+~
+0 0 11732
+D1
+~
+~
+0 0 11743
+D2
+~
+~
+0 0 11730
+S
+#11732
+A Tunnel Within the Mine~
+   The tunnel is certainly well frequented as is evident by the fresh dirt
+scuffed up at your feet. Numerous crystalline deposits can be seen protruding
+from the tunnel walls and ceiling - if you had the right equipment, perhaps
+you could mine for some of it yourself?
+~
+117 d 0
+D0
+~
+~
+0 0 11733
+D2
+~
+~
+0 0 11731
+D3
+~
+~
+0 0 11741
+S
+#11733
+A Tunnel Within the Mine~
+   The shaft offers three choices here: north, south or east. The walls are
+literally covered in crystalline deposits which glow softly in the lamplight.
+This appears to be the focus of the mining effort, the dusty floor showing
+many footprints and recently scuffed dirt.
+~
+117 d 0
+D0
+~
+~
+0 0 11736
+D1
+~
+~
+0 0 11734
+D2
+~
+~
+0 0 11732
+S
+#11734
+A Tunnel Within the Mine~
+   A thin layer of smoke lines the tunnel ceiling, generated from the oil
+lamps affixed to the shaft walls. Given the stale nature of the air in here,
+it's a wonder that they continue to burn at all.
+~
+117 d 0
+D1
+~
+~
+0 0 11735
+D3
+~
+~
+0 0 11733
+S
+#11735
+A Tunnel Within the Mine~
+   The mine continues to the north and south, discarded equipment left lieing
+on the ground. Small deposits of crystal have been exposed on the tunnel walls
+but have not been removed as of yet. You attempt to do so with your hands on
+one of the smaller deposits and it merely crumbles away.
+~
+117 0 0
+D1
+~
+~
+0 0 11708
+D3
+~
+~
+0 0 11734
+S
+#11736
+A Tunnel Within the Mine~
+   Several larger chunks of rock have fallen away from the walls, an effort
+perhaps to dig deeper for crystalline deposits. This, however, has made the
+remaining walls quite unstable as is evident by four wooden beams used as
+shoring.
+~
+117 dm 0
+D0
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11733
+S
+#11737
+A Tunnel Within the Mine~
+   A small puddle of water has formed on the floor, fed by a trickle that
+seeps from a small crack in the ceiling. A strange moss grows around the
+crack, using what little oxygen exists down here to grow. The tunnel
+continues to the north and south.
+~
+117 0 0
+D0
+~
+~
+0 0 11738
+D2
+~
+~
+0 0 11736
+E
+moss~
+0~
+Almost crystalline in nature, the moss has a number of crystal spikes
+extending from the main body mass. It might be wise to avoid it.
+~
+S
+#11738
+A Tunnel Within the Mine~
+   The tunnel bends here, continuing to the north and west. Extra wooden beams
+have been placed in the corner as shoring for what is obviously an extremely
+weak support beam. An ornate crystal formation has actually begun to grow over
+the sides of one such beam, suggesting perhaps it is a living entity.
+~
+117 0 0
+D1
+~
+~
+0 0 11739
+D2
+~
+~
+0 0 11737
+E
+formation~
+0~
+On closer inspection, the formation is actually some form of moss which has
+large crystalline spikes attached to its central mass.
+~
+S
+#11739
+A Tunnel Within the Mine~
+   You stumble and fall after tripping over a small crystalline protrusion
+in the tunnel floor. Barely noticeable, it has almost been worn away and shows
+distinct signs of having been worked upon with tools. Perhaps this last
+remaining piece was too difficult to remove and was simply left to be walked
+over.
+~
+117 d 0
+D1
+~
+~
+0 0 11740
+D3
+~
+~
+0 0 11738
+S
+#11740
+A Tunnel Within the Mine~
+   One of the support beams across the ceiling has a distinct crack along its
+length, water dripping from it and landing in a small puddle on the ground.
+Judging by the debris scattered around the area, the beam may not hold for
+much longer.
+~
+117 d 0
+D1
+~
+~
+0 0 11711
+D3
+~
+~
+0 0 11739
+S
+#11741
+A Tunnel Within the Mine~
+   You travel through what looks like a recently created section of tunnel,
+the walls not yet supported by wooden beams. The ceiling is also quite low and
+the walls converge towards the west.
+~
+117 dm 0
+D1
+~
+~
+0 0 11732
+D3
+~
+~
+0 0 11742
+S
+#11742
+A Tunnel Within the Mine~
+   The tunnel ends abruptly here, a pile of rubble blocking what could have
+been an exit at some time but is no more. A solitary oil lamp sits on the
+ground, providing an interesting shadow effect on the walls but there appears
+to be little else for you to do.
+~
+117 d 0
+D1
+~
+~
+0 0 11741
+S
+#11743
+A Tunnel Within the Mine~
+   This area is more a hole than anything else...it is large enough only for
+you to crawl through and that's about it. There are no sources of light and
+none of the telltale wooden beams used to support the mineshaft. It might be
+best if you were to rejoin the main tunnel system to the west.
+~
+117 di 0
+D3
+~
+~
+0 0 11731
+S
+#11744
+An Open Cavern~
+   The cavern before you is, to say the least, amazing...the ceiling vanishes
+into the darkness above and the amount of crystalline deposits growing from
+the cavern walls is remarkable. Oil lamps have been left scattered around the
+floor and a large collection of timber beams sits in the center of the cavern,
+perhaps to be used as supports in the near future.
+~
+117 dm 2
+D0
+~
+~
+0 0 11745
+D1
+~
+~
+0 0 11747
+D3
+~
+~
+0 0 11727
+S
+#11745
+An Open Cavern~
+   You stand in the northwestern corner of quite a large cavern, its height
+unknown as you can't quite see into the inky blackness. A collection of picks
+has been left here, stacked neatly in the corner of the cavern.
+~
+117 m 2
+D1
+~
+~
+0 0 11746
+D2
+~
+~
+0 0 11744
+E
+picks~
+0~
+You would consider taking one, but they are all ingeniously chained together
+and removing one is simply impossible. Besides..that would be stealing!
+~
+S
+#11746
+An Open Cavern~
+   The light effect created by the crystals in this room is simply inspiring!
+They have a unique way of reflecting the light and breaking it down into its
+rudementary colors, creating a dazzling display about the cavern. Only
+crystals of the highest quality would provide for such an effect, making this
+quite a profitable mine.
+~
+117 dm 2
+D2
+~
+~
+0 0 11747
+D3
+~
+~
+0 0 11745
+S
+#11747
+An Open Cavern~
+   The cavern is essentially square in shape, indicating a certain methodical
+process to the mining. For some reason, work in this area seems to have halted
+as dust once again settles on the rocky ground. A small alcove lies to the
+south while the cavern continues to the north and west.
+~
+117 dm 2
+D0
+~
+~
+0 0 11746
+D2
+~
+~
+0 0 11748
+D3
+~
+~
+0 0 11744
+S
+#11748
+A Small Alcove~
+   The alcove is almost entirely surrounded in crystals of varying shapes and
+sizes. Large spikes extend from the walls, focusing what little light there is
+towards the center of the room. The alcove opens into a larger chamber to the
+north.
+~
+117 dm 0
+D0
+~
+~
+0 0 11747
+S
+$~

@@ -1,0 +1,196 @@
+#4201
+chief chieftain shartu bhyroga~
+Chief Shartu~
+Shartu, Chieftain of the Bhyroga, looks towards you for help.
+~
+A stocky man with blonde hair and deep blue eyes, Shartu looks as if he's seen
+more of the world than his fellow villagers. His face holds a pained look as
+he thinks of all the tragedies happening now. His eyes plead for your help in
+freeing him from the terrible ice giants.
+~
+dglms dk 800 E
+60 110 60d8+1394 6d6
+3 23237
+5 8 1
+Race: 2
+E
+#4202
+shaman bhyroga~
+the Shaman of Bhyroga~
+The Shaman of Bhyroga looks at you oddly.
+~
+An elderly man, he seems to be stirring something in a cauldron. The stuff
+looks so disgusting, you're almost afraid to ask what it is. He stares at you,
+and you wonder if maybe you should leave.
+~
+bdl dhkm 650 E
+60 110 60d8+1394 6d6
+123 23237
+8 8 1
+Race: 2
+Script: magic_user.lua 256
+E
+#4203
+fisherman bhyroga~
+a fisherman~
+A fisherman from Bhyroga is carrying a basket full of fish.
+~
+A scrawny fisherman is moving about on his daily work. You notice that in
+addition to carrying a fishing pole and a basket full of fish, he also has a
+small saw with a sharp tip. There seems to be something fishy about him.
+~
+dg 0 400 E
+33 55 33d8+568 4d5
+5 9478
+8 8 1
+Race: 2
+E
+#4204
+woman bhyroga~
+a woman~
+A woman of Bhyroga is wandering around.
+~
+A blonde-haired, blue-eyed lady, she wanders about doing her daily tasks. She
+seems to have a bag full of all sorts of things, but what they are is anyone's
+guess.
+~
+dgh 0 350 E
+27 44 27d8+420 3d5
+12 7014
+8 8 2
+Race: 2
+E
+#4205
+vendor bhyroga fishseller~
+a vendor~
+A vendor is here, selling fish.
+~
+One of the people of Bhyroga has apparently decided that fishing isn't his lot
+in life, so here he is, SELLING fish. The poor guy, you can almost feel sorry
+for him - almost.
+~
+bdl 0 600 E
+100 199 100d8+3000 9d9
+50 50000
+8 8 1
+Race: 2
+Noise: You hear the harsh voice of a fishmonger hawking his wares.
+E
+#4206
+vendor bhyroga~
+a vendor~
+A vendor is here, selling his wares.
+~
+One of the fishsellers has apparantly moved up in the world, and become a
+genuine vendor. Heck, he might actually have something you want!
+~
+bdl 0 600 E
+100 199 100d8+3000 9d9
+2000 50000
+8 8 1
+Race: 2
+E
+#4207
+warrior bhyroga~
+a Bhyroga warrior~
+A warrior of the Bhyroga is here, defending his town.
+~
+This guy's armed to the teeth! He looks as if he is going to single-handedly
+take on all the giants by himself. You doubt this is true, but he does look
+pumped up and ready for action.
+~
+dglms 0 800 E
+45 79 45d8+905 5d5
+50 15093
+8 8 1
+Race: 2
+E
+#4208
+child bhyroga~
+a child~
+A small child is wandering about.
+~
+Awww, such a cute little thing...
+~
+cdghn 0 1000 E
+18 27 18d8+229 3d4
+1 3818
+8 8 0
+Race: 2
+E
+#4209
+dragon ice kaerdein~
+Kaerdein, the Ice Dragon~
+A dragon as white and clear as ice rises up before you.
+~
+A snaking iceberg stretches across the cavern floor, pale-blue shadows and
+sparkling, silver streaks highlighting frost-white scales. His blunt wedge of
+a head sweeps back in silver-tipped fringe from his glassy brow and jaws of
+glistening fangs, his massive head crowned by a pair of twisted, crystalline
+horns.
+~
+bdeflnpqx dfhknA -1000 E
+100 199 100d8+3000 9d9
+1000 50000
+8 8 1
+BareHandAttack: 3
+Race: 14
+Script: dragon_breath.lua 260
+E
+#4211
+vendor bhyroga fishseller~
+a vendor~
+A vendor is here, selling fish.
+~
+One of the people of Bhyroga has apparantly decided that fishing isn't his lot
+in life, so here he is, SELLING fish. The poor guy, you can almost feel sorry
+for him.... almost.
+~
+bdl 0 600 E
+100 199 100d8+3000 9d9
+2000 50000
+8 8 1
+Race: 2
+E
+#4212
+vendor bhyroga~
+a vendor~
+A vendor is here, selling his wares.
+~
+One of the fishsellers has apparantly moved up in the world, and become a
+genuine vendor. Heck, he might actually have something you want!
+~
+abd 0 600 E
+100 199 100d8+3000 9d9
+2000 50000
+8 8 1
+Race: 2
+E
+#4213
+giant ice~
+an ice giant~
+A menacing ice giant glares at you.
+~
+He's huge! He's made of ice! He's an ice giant!
+~
+cdfgln k -800 E
+51 91 51d8+1092 5d6
+23 18210
+8 8 1
+Race: 19
+E
+#4214
+uglar giant ice chieftain~
+Uglar, the Ice Giant Chieftain~
+A huge ice giant towers over you.
+~
+This ice giant brings a whole new definition to the word giant. He's thirty
+feet tall, and looks ready to pound you into a pulp.
+~
+cdfglm dk -800 E
+60 110 60d8+1394 6d6
+76 23237
+8 8 0
+Race: 19
+E
+$

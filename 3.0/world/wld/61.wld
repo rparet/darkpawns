@@ -1,0 +1,5097 @@
+#6100
+Immortal Map Room for the Black Winds~
+   The Black Winds occupies an area to the west of the Rakshasa village and
+extends to the coastal waters on the western edge of the world. 
+~
+61 cdgj 0
+S
+#6101
+Black Winds~
+   The sand spins violently, nearly becoming a whirlwind. Though the wind
+whirls furiously, it doesn't appear to move in any particular direction. It
+pelts your skin from all angles, and drives its way beneath your clothing.
+~
+61 fg 10
+D1
+It hurts too much to open your eyes.
+~
+~
+0 0 6102
+D2
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6104
+S
+#6102
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 5853
+D2
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6105
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6101
+S
+#6103
+Black Winds~
+   The screaming wind blows stinging black sand at you so hard that your
+exposed flesh tears and bleeds. You can hardly bear to open your eyes as you
+stumble, nearly blind, through this driving desert storm.
+~
+61 fg 10
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6104
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6106
+S
+#6104
+Black Winds~
+   The wind drives the sand incessantly into your eyes so that you can barely
+open them to orient yourself. You struggle intently as you stumble forward
+through this nightmare, hoping against hope that you may survive this ordeal.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6101
+D1
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6105
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6107
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6103
+S
+#6105
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6102
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 5865
+D2
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6108
+D3
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6104
+S
+#6106
+Black Winds~
+   So much sand is in your eyes that you wish you were blind, and the heat
+rising from the desert dunes nearly grants your wish, as your tears congeal
+with the grains in your eyes. The world is shrouded in whirling black sand.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6103
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6107
+D2
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6110
+S
+#6107
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6104
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6108
+D2
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6111
+D3
+The black sands churn incessantly here.
+~
+~
+0 0 6106
+S
+#6108
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6105
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 5878
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6112
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6107
+S
+#6109
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6110
+D2
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6113
+S
+#6110
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6106
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6111
+D2
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6114
+D3
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6109
+S
+#6111
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6107
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6112
+D2
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6115
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6110
+S
+#6112
+Black Winds~
+   You strive constantly against the ever-shifting winds in this place. It's
+all you can do to keep yourself afoot and traveling in anything resembling
+a proper course. The sand enters your nostrils, making each breath painful.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6108
+D1
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 5891
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6116
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6111
+S
+#6113
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6109
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6114
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6117
+S
+#6114
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6110
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6115
+D2
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6118
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6113
+S
+#6115
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D0
+The black sands churn incessantly here.
+~
+~
+0 0 6111
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6116
+D2
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6119
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6114
+S
+#6116
+Black Winds~
+   The sand spins violently, nearly becoming a whirlwind. Though the wind
+whirls furiously, it doesn't appear to move in any particular direction. It
+pelts your skin from all angles, and drives its way beneath your clothing.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6112
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 5904
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6120
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6115
+S
+#6117
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6113
+D1
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6118
+S
+#6118
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6114
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6119
+D3
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6117
+S
+#6119
+Black Winds~
+   The sand spins violently, nearly becoming a whirlwind. Though the wind
+whirls furiously, it doesn't appear to move in any particular direction. It
+pelts your skin from all angles, and drives its way beneath your clothing.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6115
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6120
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6121
+D3
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6118
+S
+#6120
+Black Winds~
+   The screaming wind blows stinging black sand at you so hard that your
+exposed flesh tears and bleeds. You can hardly bear to open your eyes as you
+stumble, nearly blind, through this driving desert storm.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6116
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 5916
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6122
+D3
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6119
+S
+#6121
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6119
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6122
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6124
+S
+#6122
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6120
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6123
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6125
+D3
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6121
+S
+#6123
+Black Winds~
+   The sand spins violently, nearly becoming a whirlwind. Though the wind
+whirls furiously, it doesn't appear to move in any particular direction. It
+pelts your skin from all angles, and drives its way beneath your clothing.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 5916
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 5928
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6126
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6122
+S
+#6124
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D0
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6121
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6125
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6128
+S
+#6125
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6122
+D1
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6126
+D2
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6129
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6124
+S
+#6126
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6123
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 5939
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6130
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6125
+S
+#6127
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D1
+It hurts too much to open your eyes.
+~
+~
+0 0 6128
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6132
+S
+#6128
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6124
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6129
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6133
+D3
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6127
+S
+#6129
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D0
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6125
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6130
+D2
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6134
+D3
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6128
+S
+#6130
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6126
+D1
+It hurts too much to open your eyes.
+~
+~
+0 0 5950
+D2
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6135
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6129
+S
+#6131
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6132
+D2
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6136
+S
+#6132
+Black Winds~
+   The wind drives the sand incessantly into your eyes so that you can barely
+open them to orient yourself. You struggle intently as you stumble forward
+through this nightmare, hoping against hope that you may survive this ordeal.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6127
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6133
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6137
+D3
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6131
+S
+#6133
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6128
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6134
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6138
+D3
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6132
+S
+#6134
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6129
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6135
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6139
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6133
+S
+#6135
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6130
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 5960
+D2
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6140
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6134
+S
+#6136
+Black Winds~
+   So much sand is in your eyes that you wish you were blind, and the heat
+rising from the desert dunes nearly grants your wish, as your tears congeal
+with the grains in your eyes. The world is shrouded in whirling black sand.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6131
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6137
+D2
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6144
+S
+#6137
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6132
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6138
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6145
+D3
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6136
+S
+#6138
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D0
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6133
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6139
+D2
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6146
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6137
+S
+#6139
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6134
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6140
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6147
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6138
+S
+#6140
+Black Winds~
+   The screaming wind blows stinging black sand at you so hard that your
+exposed flesh tears and bleeds. You can hardly bear to open your eyes as you
+stumble, nearly blind, through this driving desert storm.
+~
+61 fg 10
+D0
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6135
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6141
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6148
+D3
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6139
+S
+#6141
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 5960
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6142
+D2
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6149
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6140
+S
+#6142
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 5961
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 5970
+D2
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6150
+D3
+The black sands churn incessantly here.
+~
+~
+0 0 6141
+S
+#6143
+Black Winds~
+   So much sand is in your eyes that you wish you were blind, and the heat
+rising from the desert dunes nearly grants your wish, as your tears congeal
+with the grains in your eyes. The world is shrouded in whirling black sand.
+~
+61 fg 10
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6144
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6154
+S
+#6144
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6136
+D1
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6145
+D2
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6155
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6143
+S
+#6145
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6137
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6146
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6156
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6144
+S
+#6146
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6138
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6147
+D2
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6157
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6145
+S
+#6147
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6139
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6148
+D2
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6158
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6146
+S
+#6148
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6140
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6149
+D2
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6159
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6147
+S
+#6149
+Black Winds~
+   The wind drives the sand incessantly into your eyes so that you can barely
+open them to orient yourself. You struggle intently as you stumble forward
+through this nightmare, hoping against hope that you may survive this ordeal.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6141
+D1
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6150
+D2
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6160
+D3
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6148
+S
+#6150
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6142
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6151
+D2
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6161
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6149
+S
+#6151
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 5970
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6152
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6162
+D3
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6150
+S
+#6152
+Black Winds~
+   You strive constantly against the ever-shifting winds in this place. It's
+all you can do to keep yourself afoot and traveling in anything resembling
+a proper course. The sand enters your nostrils, making each breath painful.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 5971
+D1
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6153
+D2
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6163
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6151
+S
+#6153
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 5972
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 5976
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6164
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6152
+S
+#6154
+Black Winds~
+   The screaming wind blows stinging black sand at you so hard that your
+exposed flesh tears and bleeds. You can hardly bear to open your eyes as you
+stumble, nearly blind, through this driving desert storm.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6143
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6155
+D2
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6165
+D3
+~
+~
+0 0 14101
+S
+#6155
+Black Winds~
+   So much sand is in your eyes that you wish you were blind, and the heat
+rising from the desert dunes nearly grants your wish, as your tears congeal
+with the grains in your eyes. The world is shrouded in whirling black sand.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6144
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6156
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6166
+D3
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6154
+S
+#6156
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6145
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6157
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6167
+D3
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6155
+S
+#6157
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6146
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6158
+D2
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6168
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6156
+S
+#6158
+Black Winds~
+   The sand spins violently, nearly becoming a whirlwind. Though the wind
+whirls furiously, it doesn't appear to move in any particular direction. It
+pelts your skin from all angles, and drives its way beneath your clothing.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6147
+D1
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6159
+D2
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6169
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6157
+S
+#6159
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6148
+D1
+It hurts too much to open your eyes.
+~
+~
+0 0 6160
+D2
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6170
+D3
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6158
+S
+#6160
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6149
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6161
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6171
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6159
+S
+#6161
+Black Winds~
+   The screaming wind blows stinging black sand at you so hard that your
+exposed flesh tears and bleeds. You can hardly bear to open your eyes as you
+stumble, nearly blind, through this driving desert storm.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6150
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6162
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6172
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6160
+S
+#6162
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6151
+D1
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6163
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6173
+D3
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6161
+S
+#6163
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6152
+D1
+It hurts too much to open your eyes.
+~
+~
+0 0 6164
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6174
+D3
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6162
+S
+#6164
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6153
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 5979
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6175
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6163
+S
+#6165
+Black Winds~
+   The screaming wind blows stinging black sand at you so hard that your
+exposed flesh tears and bleeds. You can hardly bear to open your eyes as you
+stumble, nearly blind, through this driving desert storm.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6154
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6166
+S
+#6166
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6155
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6167
+D2
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6177
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6165
+S
+#6167
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6156
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6168
+D2
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6178
+D3
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6166
+S
+#6168
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6157
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6169
+D2
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6179
+D3
+It hurts too much to open your eyes.
+~
+~
+0 0 6167
+S
+#6169
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6158
+D1
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6170
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6168
+S
+#6170
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6159
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6171
+D3
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6169
+S
+#6171
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6160
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6172
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6170
+S
+#6172
+Black Winds~
+   So much sand is in your eyes that you wish you were blind, and the heat
+rising from the desert dunes nearly grants your wish, as your tears congeal
+with the grains in your eyes. The world is shrouded in whirling black sand.
+~
+61 fg 10
+D0
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6161
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6173
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6171
+S
+#6173
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6162
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6174
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6182
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6172
+S
+#6174
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6163
+D1
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6175
+D2
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6183
+D3
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6173
+S
+#6175
+Black Winds~
+   So much sand is in your eyes that you wish you were blind, and the heat
+rising from the desert dunes nearly grants your wish, as your tears congeal
+with the grains in your eyes. The world is shrouded in whirling black sand.
+~
+61 fg 10
+D0
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6164
+D1
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6176
+D2
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6184
+D3
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6174
+S
+#6176
+Black Winds~
+   The wind drives the sand incessantly into your eyes so that you can barely
+open them to orient yourself. You struggle intently as you stumble forward
+through this nightmare, hoping against hope that you may survive this ordeal.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 5979
+D1
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 5982
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6185
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6175
+S
+#6177
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6166
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6178
+S
+#6178
+Black Winds~
+   The screaming wind blows stinging black sand at you so hard that your
+exposed flesh tears and bleeds. You can hardly bear to open your eyes as you
+stumble, nearly blind, through this driving desert storm.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6167
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6179
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6180
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6177
+S
+#6179
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6168
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6181
+D3
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6178
+S
+#6180
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6178
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6181
+S
+#6181
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6179
+D3
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6180
+S
+#6182
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6173
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6183
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6187
+S
+#6183
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6174
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6184
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6188
+D3
+The black sands churn incessantly here.
+~
+~
+0 0 6182
+S
+#6184
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6175
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6185
+D2
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6189
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6183
+S
+#6185
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6176
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6186
+D2
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6190
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6184
+S
+#6186
+Black Winds~
+   So much sand is in your eyes that you wish you were blind, and the heat
+rising from the desert dunes nearly grants your wish, as your tears congeal
+with the grains in your eyes. The world is shrouded in whirling black sand.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 5982
+D1
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 5986
+D2
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6191
+D3
+The black sands churn incessantly here.
+~
+~
+0 0 6185
+S
+#6187
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6182
+D1
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6188
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6193
+S
+#6188
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6183
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6189
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6194
+D3
+It hurts too much to open your eyes.
+~
+~
+0 0 6187
+S
+#6189
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6184
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6190
+D3
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6188
+S
+#6190
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6185
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6191
+D2
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6196
+D3
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6189
+S
+#6191
+Black Winds~
+   So much sand is in your eyes that you wish you were blind, and the heat
+rising from the desert dunes nearly grants your wish, as your tears congeal
+with the grains in your eyes. The world is shrouded in whirling black sand.
+~
+61 fg 10
+D0
+The black sands churn incessantly here.
+~
+~
+0 0 6186
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 5990
+D2
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6197
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6190
+S
+#6192
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D1
+It hurts too much to open your eyes.
+~
+~
+0 0 6193
+D2
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6203
+S
+#6193
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6187
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6194
+D2
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6204
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6192
+S
+#6194
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6188
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6193
+S
+#6195
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6189
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6196
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6206
+D3
+It hurts too much to open your eyes.
+~
+~
+0 0 6194
+S
+#6196
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6190
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6197
+D2
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6207
+S
+#6197
+Black Winds~
+   You strive constantly against the ever-shifting winds in this place. It's
+all you can do to keep yourself afoot and traveling in anything resembling
+a proper course. The sand enters your nostrils, making each breath painful.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6191
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6198
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6208
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6196
+S
+#6198
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 5990
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6199
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6209
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6197
+S
+#6199
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 5991
+D1
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6200
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6210
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6198
+S
+#6200
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 5992
+D1
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6201
+D2
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6211
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6199
+S
+#6201
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 5993
+D1
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6202
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6212
+D3
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6200
+S
+#6202
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6213
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6201
+S
+#6203
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6192
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6204
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6215
+S
+#6204
+Black Winds~
+   You strive constantly against the ever-shifting winds in this place. It's
+all you can do to keep yourself afoot and traveling in anything resembling
+a proper course. The sand enters your nostrils, making each breath painful.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6193
+D2
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6216
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6203
+S
+#6205
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6194
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6206
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6217
+D3
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6204
+S
+#6206
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6195
+D1
+It hurts too much to open your eyes.
+~
+~
+0 0 6207
+D2
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6218
+D3
+It hurts too much to open your eyes.
+~
+~
+0 0 6205
+S
+#6207
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6196
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6208
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6219
+S
+#6208
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6197
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6209
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6220
+D3
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6207
+S
+#6209
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6198
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6210
+D2
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6221
+D3
+It hurts too much to open your eyes.
+~
+~
+0 0 6208
+S
+#6210
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6199
+D1
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6211
+D2
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6222
+D3
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6209
+S
+#6211
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6200
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6212
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6223
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6210
+S
+#6212
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6201
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6213
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6224
+D3
+It hurts too much to open your eyes.
+~
+~
+0 0 6211
+S
+#6213
+Black Winds~
+   The sand spins violently, nearly becoming a whirlwind. Though the wind
+whirls furiously, it doesn't appear to move in any particular direction. It
+pelts your skin from all angles, and drives its way beneath your clothing.
+~
+61 fg 10
+D0
+The black sands churn incessantly here.
+~
+~
+0 0 6202
+D2
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6225
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6212
+S
+#6214
+Black Winds~
+   The sand spins violently, nearly becoming a whirlwind. Though the wind
+whirls furiously, it doesn't appear to move in any particular direction. It
+pelts your skin from all angles, and drives its way beneath your clothing.
+~
+61 fg 10
+D1
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6215
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6227
+S
+#6215
+Black Winds~
+   The screaming wind blows stinging black sand at you so hard that your
+exposed flesh tears and bleeds. You can hardly bear to open your eyes as you
+stumble, nearly blind, through this driving desert storm.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6203
+D1
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6216
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6228
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6214
+S
+#6216
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6204
+D2
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6229
+D3
+The black sands churn incessantly here.
+~
+~
+0 0 6215
+S
+#6217
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+The black sands churn incessantly here.
+~
+~
+0 0 6205
+D1
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6218
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6230
+D3
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6216
+S
+#6218
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6219
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6231
+S
+#6219
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6207
+D1
+It hurts too much to open your eyes.
+~
+~
+0 0 6220
+D2
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6232
+D3
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6218
+S
+#6220
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6208
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6221
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6233
+D3
+It hurts too much to open your eyes.
+~
+~
+0 0 6219
+S
+#6221
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6209
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6222
+D2
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6234
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6220
+S
+#6222
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6210
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6223
+D2
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6235
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6221
+S
+#6223
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6211
+D1
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6224
+D2
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6236
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6222
+S
+#6224
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6212
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6225
+D2
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6237
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6223
+S
+#6225
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6213
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6226
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6238
+D3
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6224
+S
+#6226
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D2
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6239
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6225
+S
+#6227
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6214
+D1
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6228
+S
+#6228
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6215
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6229
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6227
+S
+#6229
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6216
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6230
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6242
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6228
+S
+#6230
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+R citadel.lua 32
+D0
+You're not sure of it, but the winds appear to be less intense in this
+direction.
+~
+~
+0 0 10201
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6231
+D2
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6243
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6229
+S
+#6231
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6218
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6232
+D2
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6244
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6230
+S
+#6232
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6219
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6233
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6245
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6231
+S
+#6233
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6220
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6234
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6246
+D3
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6232
+S
+#6234
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6221
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6235
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6247
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6233
+S
+#6235
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6222
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6236
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6248
+D3
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6234
+S
+#6236
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6223
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6237
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6249
+D3
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6235
+S
+#6237
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6224
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6238
+D2
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6250
+D3
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6236
+S
+#6238
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 0 10
+D0
+The black sands churn incessantly here.
+~
+~
+0 0 6225
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6239
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6251
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6237
+S
+#6239
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6226
+D1
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6240
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6252
+D3
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6238
+S
+#6240
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6241
+D2
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6253
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6239
+S
+#6241
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D2
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6254
+D3
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6240
+S
+#6242
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6229
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6243
+S
+#6243
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6230
+D1
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6244
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6257
+D3
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6242
+S
+#6244
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6231
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6245
+D2
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6258
+D3
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6243
+S
+#6245
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6232
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6246
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6259
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6244
+S
+#6246
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6233
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6247
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6260
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6245
+S
+#6247
+Black Winds~
+   So much sand is in your eyes that you wish you were blind, and the heat
+rising from the desert dunes nearly grants your wish, as your tears congeal
+with the grains in your eyes. The world is shrouded in whirling black sand.
+~
+61 fg 10
+D0
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6234
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6248
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6261
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6246
+S
+#6248
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6235
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6249
+D2
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6262
+D3
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6247
+S
+#6249
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6236
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6250
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6263
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6248
+S
+#6250
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6237
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6251
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6264
+D3
+It hurts too much to open your eyes.
+~
+~
+0 0 6249
+S
+#6251
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+The black sands churn incessantly here.
+~
+~
+0 0 6238
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6252
+D2
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6265
+D3
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6250
+S
+#6252
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6239
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6253
+D2
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6266
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6251
+S
+#6253
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+The black sands churn incessantly here.
+~
+~
+0 0 6240
+D1
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6254
+D2
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6267
+D3
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6252
+S
+#6254
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6241
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6255
+D2
+The black sands churn incessantly here.
+~
+~
+0 0 6268
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6253
+S
+#6255
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6256
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6269
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6254
+S
+#6256
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D2
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6270
+D3
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6255
+S
+#6257
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6243
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6258
+S
+#6258
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6244
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6259
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6257
+S
+#6259
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6245
+D1
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6260
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6273
+D3
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6258
+S
+#6260
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6246
+D1
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6261
+D2
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6274
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6259
+S
+#6261
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6247
+D1
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6262
+D2
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6275
+D3
+The black sands churn incessantly here.
+~
+~
+0 0 6260
+S
+#6262
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6248
+D1
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6263
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6276
+D3
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6261
+S
+#6263
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6249
+D1
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6264
+D2
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6277
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6262
+S
+#6264
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6250
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6265
+D2
+~
+~
+0 0 6279
+D3
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6263
+S
+#6265
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D0
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6251
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6266
+D2
+~
+~
+0 0 10315
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6264
+S
+#6266
+Black Winds~
+   The wind drives the sand incessantly into your eyes so that you can barely
+open them to orient yourself. You struggle intently as you stumble forward
+through this nightmare, hoping against hope that you may survive this ordeal.
+~
+61 fg 10
+D0
+It hurts too much to open your eyes.
+~
+~
+0 0 6252
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6267
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6280
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6265
+S
+#6267
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+The black sands churn incessantly here.
+~
+~
+0 0 6253
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6268
+D2
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6281
+D3
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6266
+S
+#6268
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6254
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6269
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6282
+D3
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6267
+S
+#6269
+Black Winds~
+   The wind drives the sand incessantly into your eyes so that you can barely
+open them to orient yourself. You struggle intently as you stumble forward
+through this nightmare, hoping against hope that you may survive this ordeal.
+~
+61 fg 10
+D0
+The black sands churn incessantly here.
+~
+~
+0 0 6255
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6270
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6283
+D3
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6268
+S
+#6270
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6256
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6271
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6284
+D3
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6269
+S
+#6271
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6272
+D2
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6285
+D3
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6270
+S
+#6272
+Black Winds~
+   Stinging sand fills your boots and the crevices in your clothing. Stopping
+now is no option, however, so you press onward, the sharp grains in your boots
+grinding into your feet like shards of glass.
+~
+61 fg 10
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6286
+D3
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6271
+S
+#6273
+Black Winds~
+   The wind drives the sand incessantly into your eyes so that you can barely
+open them to orient yourself. You struggle intently as you stumble forward
+through this nightmare, hoping against hope that you may survive this ordeal.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6259
+D1
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6274
+D2
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6287
+S
+#6274
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6260
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6275
+D2
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6288
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6273
+S
+#6275
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6261
+D1
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6276
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6289
+D3
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6274
+S
+#6276
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6262
+D1
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6277
+D2
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6290
+D3
+It's impossible to see anything, for all the flying sand.
+~
+~
+0 0 6275
+S
+#6277
+Black Winds~
+   Looking back the way you've come, you barely see the remains of your
+footsteps as they quickly vanish; erased by the desert winds that blow
+continuously, yet cool nothing.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6263
+D1
+~
+~
+0 0 6279
+D3
+The black sands churn incessantly here.
+~
+~
+0 0 6276
+S
+#6278
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D0
+~
+~
+0 0 6294
+D1
+~
+~
+0 0 6299
+D3
+~
+~
+0 0 6297
+S
+#6279
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+~
+~
+0 0 6264
+D1
+~
+~
+0 0 10315
+D3
+~
+~
+0 0 6277
+S
+#6280
+Black Winds~
+   The sand spins violently, nearly becoming a whirlwind. Though the wind
+whirls furiously, it doesn't appear to move in any particular direction. It
+pelts your skin from all angles, and drives its way beneath your clothing.
+~
+61 fg 10
+D0
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6266
+D1
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6281
+D3
+~
+~
+0 0 10315
+S
+#6281
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6267
+D1
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6282
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6291
+D3
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6280
+S
+#6282
+Black Winds~
+   The sand biting at your exposed flesh is almost unbearable. You pull your
+limbs close to your body in an attempt to protect yourself as much as possible.
+From every side, the black sands relentlessly pelt you, while the wind howls.
+~
+61 fg 10
+D0
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6268
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6283
+D2
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6292
+D3
+It hurts too much to open your eyes.
+~
+~
+0 0 6281
+S
+#6283
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6269
+D1
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6284
+D2
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6293
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6282
+S
+#6284
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6270
+D1
+You can make out no landmarks within the swirling sandstorm.
+~
+~
+0 0 6285
+D2
+It hurts too much to open your eyes.
+~
+~
+0 0 6294
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6283
+S
+#6285
+Black Winds~
+   A sudden great burst of wind catches you and sends you sprawling. You
+lay prone for a few moments, allowing your battered body a short rest while
+the winds howl above. You struggle to regain your footing, and press onward.
+~
+61 fg 10
+D0
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6271
+D1
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6286
+D2
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6295
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6284
+S
+#6286
+Black Winds~
+   The sand spins furiously here, nearly becoming a whirlwind. It whips at
+your body, stinging your face and other exposed flesh. Though it spins with
+great force, it doesn't appear to be moving in any particular direction.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6272
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6296
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6285
+S
+#6287
+Black Winds~
+   The wind quickly picks up speed. A cloud of black sand whips around you,
+tearing at your exposed flesh. Closing your eyes does little to block the
+unforgiving winds and harsh, biting sands.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6273
+D1
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6288
+S
+#6288
+Black Winds~
+   The sand spins violently, nearly becoming a whirlwind. Though the wind
+whirls furiously, it doesn't appear to move in any particular direction. It
+pelts your skin from all angles, and drives its way beneath your clothing.
+~
+61 fg 10
+D0
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6274
+D1
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6289
+D3
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6287
+S
+#6289
+Black Winds~
+   You strive constantly against the ever-shifting winds in this place. It's
+all you can do to keep yourself afoot and traveling in anything resembling
+a proper course. The sand enters your nostrils, making each breath painful.
+~
+61 fg 10
+D0
+You can't even see your own hand before your face, much less anything else.
+~
+~
+0 0 6275
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6290
+D3
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6288
+S
+#6290
+Black Winds~
+   The screaming wind blows stinging black sand at you so hard that your
+exposed flesh tears and bleeds. You can hardly bear to open your eyes as you
+stumble, nearly blind, through this driving desert storm.
+~
+61 fg 10
+D0
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6276
+D3
+You see nothing but raging clouds of black sand.
+~
+~
+0 0 6289
+S
+#6291
+Black Winds~
+   The winds blow stinging sand into your eyes, making it impossible to keep
+them open for more than just a moment. Cursing, you stumble, almost blindly,
+forward through the shrieking desert winds.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6281
+D1
+Your vision is obscured by the raging black sand.
+~
+~
+0 0 6292
+S
+#6292
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6282
+D1
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6293
+D3
+Your eyes sting as you try to open them to see what lies before you.
+~
+~
+0 0 6291
+S
+#6293
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6283
+D1
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6294
+D2
+All signs of life lie hidden behind black clouds of sand.
+~
+~
+0 0 6297
+D3
+Any sensible creature has fled this area, or burrowed beneath the sand.
+~
+~
+0 0 6292
+S
+#6294
+Black Winds~
+   You strive constantly against the ever-shifting winds in this place. It's
+all you can do to keep yourself afoot and traveling in anything resembling
+a proper course. The sand enters your nostrils, making each breath painful.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6284
+D1
+The black sands churn incessantly here.
+~
+~
+0 0 6295
+D2
+~
+~
+0 0 6278
+D3
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6293
+S
+#6295
+Black Winds~
+   The intense black wind blows the sands so forcefully into your face that you
+can barely stand to open your eyes as you stumble through the desert. You
+stagger forward blindly through the howling black cloud of stinging sand.
+~
+61 fg 10
+D0
+You can't see a thing except swirling black sand.
+~
+~
+0 0 6285
+D1
+You can hardly breathe here, let alone see anything.
+~
+~
+0 0 6296
+D2
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6299
+D3
+It hurts too much to open your eyes.
+~
+~
+0 0 6294
+S
+#6296
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+The black sands churn incessantly here.
+~
+~
+0 0 6286
+D3
+You just can't bear to open your eyes in this wind.
+~
+~
+0 0 6295
+S
+#6297
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+If only you could see, perhaps you could find your way out of this place.
+~
+~
+0 0 6293
+D1
+~
+~
+0 0 6278
+S
+#6298
+Black Winds~
+   The sky has disappeared into a cloud of spiralling black sand. You see
+nothing but blackness before you - nothing but blackness behind. Your hopes
+waning, you struggle to maintain your footing as you inch your way forward.
+~
+61 fg 10
+D0
+You open your eyes only the slightest crack, and already they begin to sting.
+~
+~
+0 0 6294
+D1
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6299
+D3
+Is this the proper direction? You just cannot tell for sure.
+~
+~
+0 0 6297
+S
+#6299
+Black Winds~
+   The black winds and biting sands drive you to the point of exhaustion and to
+the brink of utter madness. You don't know how much longer you can stand this
+torture - you wonder if you can even find your way out of this horrid place.
+~
+61 fg 10
+D0
+~
+~
+0 0 6295
+D3
+~
+~
+0 0 6278
+S
+$~

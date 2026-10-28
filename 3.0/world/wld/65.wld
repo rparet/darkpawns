@@ -1,0 +1,4727 @@
+#6500
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D1
+~
+~
+0 0 6501
+D2
+~
+~
+0 0 6514
+D3
+~
+~
+0 0 6702
+S
+#6501
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D1
+~
+~
+0 0 6502
+D2
+~
+~
+0 0 6515
+D3
+~
+~
+0 0 6500
+S
+#6502
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi. A few
+prickly pear cacti dot the sandy ground, offering some small amount of
+protection for the snakes, scorpions, and desert rats that live beneath
+the spiny leaves.
+~
+65 0 10
+D1
+~
+~
+0 0 6503
+D2
+~
+~
+0 0 6516
+D3
+~
+~
+0 0 6501
+S
+#6503
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D1
+~
+~
+0 0 6504
+D2
+~
+~
+0 0 6517
+D3
+~
+~
+0 0 6502
+S
+#6504
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D1
+~
+~
+0 0 6505
+D2
+~
+~
+0 0 6518
+D3
+~
+~
+0 0 6503
+S
+#6505
+Caravan Road~
+   You stand on a caravan road that winds through the desert. Warm breezes
+blow across the sand, cooling your skin and making the desert seem less
+desolate.
+   The desert continues to the west, split only by this small road that
+runs to the north and south and the city stables which lie to the east.
+~
+65 0 16
+D0
+~
+~
+0 0 4860
+D1
+~
+~
+0 0 4828
+D2
+~
+~
+0 0 6519
+D3
+~
+~
+0 0 6504
+S
+#6507
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D1
+~
+~
+0 0 6508
+D2
+~
+~
+0 0 6521
+S
+#6508
+Burning Sands~
+   Sand whips at your exposed flesh as the wind suddenly increases in
+intensity. You shield your eyes in a vain attempt to protect yourself but
+it does little good. Then, as quickly as it arrived, the wind subsides.
+~
+65 0 10
+D0
+~
+~
+0 0 22358
+D1
+~
+~
+0 0 6509
+D2
+~
+~
+0 0 6522
+D3
+~
+~
+0 0 6507
+S
+#6509
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 22359
+D1
+~
+~
+0 0 6510
+D2
+~
+~
+0 0 6523
+D3
+~
+~
+0 0 6508
+S
+#6510
+Burning Sands~
+   You pause a moment and gaze at your surrounds. There is little to see
+apart from the expanse of sand around you and even your footprints have
+begun to fade as the desert wind covers your tracks.
+~
+65 0 10
+D0
+~
+~
+0 0 22360
+D1
+~
+~
+0 0 6511
+D2
+~
+~
+0 0 6524
+D3
+~
+~
+0 0 6509
+S
+#6511
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 22361
+D1
+~
+~
+0 0 6730
+D2
+~
+~
+0 0 6525
+D3
+~
+~
+0 0 6510
+S
+#6512
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6701
+D1
+~
+~
+0 0 6513
+D2
+~
+~
+0 0 6532
+D3
+~
+~
+0 0 6705
+S
+#6513
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6702
+D1
+~
+~
+0 0 6514
+D2
+~
+~
+0 0 6533
+D3
+~
+~
+0 0 6512
+S
+#6514
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6500
+D1
+~
+~
+0 0 6515
+D2
+~
+~
+0 0 6534
+D3
+~
+~
+0 0 6513
+S
+#6515
+Burning Sands~
+   You pause a moment and gaze at your surrounds. There is little to see
+apart from the expanse of sand around you and even your footprints have
+begun to fade as the desert wind covers your tracks.
+~
+65 0 10
+D0
+~
+~
+0 0 6501
+D1
+~
+~
+0 0 6516
+D2
+~
+~
+0 0 6535
+D3
+~
+~
+0 0 6514
+S
+#6516
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi. A few
+prickly pear cacti dot the sandy ground, offering some small amount of
+protection for the snakes, scorpions, and desert rats that live beneath
+the spiny leaves.
+~
+65 0 10
+D0
+~
+~
+0 0 6502
+D1
+~
+~
+0 0 6517
+D2
+~
+~
+0 0 6536
+D3
+~
+~
+0 0 6515
+S
+#6517
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6503
+D1
+~
+~
+0 0 6518
+D2
+~
+~
+0 0 6537
+D3
+~
+~
+0 0 6516
+S
+#6518
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6504
+D1
+~
+~
+0 0 6519
+D2
+~
+~
+0 0 6538
+D3
+~
+~
+0 0 6517
+S
+#6519
+Caravan Road~
+   You stand on a caravan road that winds through the desert. Warm breezes
+blow across the sand, cooling your skin and making the desert seem less
+desolate.
+   The desert continues to the east and west, split only by this small road
+that runs to the north and south.
+~
+65 0 16
+D0
+~
+~
+0 0 6505
+D1
+~
+~
+0 0 6520
+D2
+~
+~
+0 0 6539
+D3
+~
+~
+0 0 6518
+S
+#6520
+Burning Sands~
+   Sand whips at your exposed flesh as the wind suddenly increases in
+intensity. You shield your eyes in a vain attempt to protect yourself but
+it does little good. Then, as quickly as it arrived, the wind subsides.
+~
+65 0 10
+D1
+~
+~
+0 0 6521
+D2
+~
+~
+0 0 6540
+D3
+~
+~
+0 0 6519
+S
+#6521
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6507
+D1
+~
+~
+0 0 6522
+D2
+~
+~
+0 0 6541
+D3
+~
+~
+0 0 6520
+S
+#6522
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6508
+D1
+~
+~
+0 0 6523
+D2
+~
+~
+0 0 6542
+D3
+~
+~
+0 0 6521
+S
+#6523
+Burning Sands~
+   You pause a moment and gaze at your surrounds. There is little to see
+apart from the expanse of sand around you and even your footprints have
+begun to fade as the desert wind covers your tracks.
+~
+65 0 10
+D0
+~
+~
+0 0 6509
+D1
+~
+~
+0 0 6524
+D2
+~
+~
+0 0 6543
+D3
+~
+~
+0 0 6522
+S
+#6524
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi. A few
+prickly pear cacti dot the sandy ground, offering some small amount of
+protection for the snakes, scorpions, and desert rats that live beneath
+the spiny leaves.
+~
+65 0 10
+D0
+~
+~
+0 0 6510
+D1
+~
+~
+0 0 6525
+D2
+~
+~
+0 0 6544
+D3
+~
+~
+0 0 6523
+S
+#6525
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6511
+D1
+~
+~
+0 0 6526
+D2
+~
+~
+0 0 6545
+D3
+~
+~
+0 0 6524
+S
+#6526
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi. A few
+prickly pear cacti dot the sandy ground, offering some small amount of
+protection for the snakes, scorpions, and desert rats that live beneath
+the spiny leaves.
+~
+65 0 10
+D0
+~
+~
+0 0 6730
+D1
+~
+~
+0 0 6527
+D2
+~
+~
+0 0 6546
+D3
+~
+~
+0 0 6525
+S
+#6527
+Burning Sands~
+   You pause a moment and gaze at your surrounds. There is little to see
+apart from the expanse of sand around you and even your footprints have
+begun to fade as the desert wind covers your tracks.
+~
+65 0 10
+D0
+~
+~
+0 0 6731
+D1
+~
+~
+0 0 6528
+D2
+~
+~
+0 0 6547
+D3
+~
+~
+0 0 6526
+S
+#6528
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6732
+D1
+~
+~
+0 0 6529
+D2
+~
+~
+0 0 6548
+D3
+~
+~
+0 0 6527
+S
+#6529
+Burning Sands~
+   You pause a moment and gaze at your surrounds. There is little to see
+apart from the expanse of sand around you and even your footprints have
+begun to fade as the desert wind covers your tracks. Ocean waves lap softly
+at the coast to the north.
+~
+65 0 10
+D0
+~
+~
+0 0 22302
+D1
+~
+~
+0 0 6530
+D2
+~
+~
+0 0 6549
+D3
+~
+~
+0 0 6528
+S
+#6530
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on. Ocean waves lap softly
+at the coast to the north.
+~
+65 0 10
+D0
+~
+~
+0 0 22303
+D1
+~
+~
+0 0 6733
+D2
+~
+~
+0 0 6550
+D3
+~
+~
+0 0 6529
+S
+#6531
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6705
+D1
+~
+~
+0 0 6532
+D2
+~
+~
+0 0 6554
+D3
+~
+~
+0 0 6708
+S
+#6532
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6512
+D1
+~
+~
+0 0 6533
+D2
+~
+~
+0 0 6555
+D3
+~
+~
+0 0 6531
+S
+#6533
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6513
+D1
+~
+~
+0 0 6534
+D2
+~
+~
+0 0 6556
+D3
+~
+~
+0 0 6532
+S
+#6534
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi. A few
+prickly pear cacti dot the sandy ground, offering some small amount of
+protection for the snakes, scorpions, and desert rats that live beneath
+the spiny leaves.
+~
+65 0 10
+D0
+~
+~
+0 0 6514
+D1
+~
+~
+0 0 6535
+D2
+~
+~
+0 0 6557
+D3
+~
+~
+0 0 6533
+S
+#6535
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6515
+D1
+~
+~
+0 0 6536
+D2
+~
+~
+0 0 6558
+D3
+~
+~
+0 0 6534
+S
+#6536
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+   A solitary stone protrudes from the sand, an etching of some kind on
+the northern face.
+~
+65 0 10
+R tattoo_rune.lua 32
+D0
+~
+~
+0 0 6516
+D1
+~
+~
+0 0 6537
+D2
+~
+~
+0 0 6559
+D3
+~
+~
+0 0 6535
+E
+etching~
+0~
+It is surprising to find such a thing out here, but someone has gone to great
+lengths to carve a skull resting on a bed of thorns.
+~
+S
+#6537
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6517
+D1
+~
+~
+0 0 6538
+D2
+~
+~
+0 0 6560
+D3
+~
+~
+0 0 6536
+S
+#6538
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6518
+D1
+~
+~
+0 0 6539
+D2
+~
+~
+0 0 6561
+D3
+~
+~
+0 0 6537
+S
+#6539
+Caravan Road~
+   You stand on a caravan road that winds through the desert. Warm breezes
+blow across the sand, cooling your skin and making the desert seem less
+desolate.
+   The desert continues to the east and west, split only by this small road
+that runs to the north and south.
+~
+65 0 16
+D0
+~
+~
+0 0 6519
+D1
+~
+~
+0 0 6540
+D2
+~
+~
+0 0 6562
+D3
+~
+~
+0 0 6538
+S
+#6540
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 6520
+D1
+~
+~
+0 0 6541
+D2
+~
+~
+0 0 6563
+D3
+~
+~
+0 0 6539
+S
+#6541
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6521
+D1
+~
+~
+0 0 6542
+D2
+~
+~
+0 0 6564
+D3
+~
+~
+0 0 6540
+S
+#6542
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6522
+D1
+~
+~
+0 0 6543
+D2
+~
+~
+0 0 6565
+D3
+~
+~
+0 0 6541
+S
+#6543
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6523
+D1
+~
+~
+0 0 6544
+D2
+~
+~
+0 0 6566
+D3
+~
+~
+0 0 6542
+S
+#6544
+Burning Sands~
+   You pause a moment and gaze at your surrounds. There is little to see
+apart from the expanse of sand around you and even your footprints have
+begun to fade as the desert wind covers your tracks.
+~
+65 0 10
+D0
+~
+~
+0 0 6524
+D1
+~
+~
+0 0 6545
+D2
+~
+~
+0 0 6567
+D3
+~
+~
+0 0 6543
+S
+#6545
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6525
+D1
+~
+~
+0 0 6546
+D2
+~
+~
+0 0 6568
+D3
+~
+~
+0 0 6544
+S
+#6546
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6526
+D1
+~
+~
+0 0 6547
+D2
+~
+~
+0 0 6569
+D3
+~
+~
+0 0 6545
+S
+#6547
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6527
+D1
+~
+~
+0 0 6548
+D2
+~
+~
+0 0 6570
+D3
+~
+~
+0 0 6546
+S
+#6548
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 6528
+D1
+~
+~
+0 0 6549
+D2
+~
+~
+0 0 6571
+D3
+~
+~
+0 0 6547
+S
+#6549
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6529
+D1
+~
+~
+0 0 6550
+D2
+~
+~
+0 0 6572
+D3
+~
+~
+0 0 6548
+S
+#6550
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6530
+D1
+~
+~
+0 0 6551
+D2
+~
+~
+0 0 6573
+D3
+~
+~
+0 0 6549
+S
+#6551
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6733
+D1
+~
+~
+0 0 6552
+D2
+~
+~
+0 0 6574
+D3
+~
+~
+0 0 6550
+S
+#6552
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6734
+D1
+~
+~
+0 0 6553
+D2
+~
+~
+0 0 6575
+D3
+~
+~
+0 0 6551
+S
+#6553
+Burning Sands~
+   Sand whips at your exposed flesh as the wind suddenly increases in
+intensity. You shield your eyes in a vain attempt to protect yourself but
+it does little good. Then, as quickly as it arrived, the wind subsides.
+~
+65 0 10
+D0
+~
+~
+0 0 6735
+D1
+~
+~
+0 0 6736
+D2
+~
+~
+0 0 6576
+D3
+~
+~
+0 0 6552
+S
+#6554
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6531
+D1
+~
+~
+0 0 6555
+D2
+~
+~
+0 0 6714
+D3
+~
+~
+0 0 6711
+S
+#6555
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6532
+D1
+~
+~
+0 0 6556
+D2
+~
+~
+0 0 6577
+D3
+~
+~
+0 0 6554
+S
+#6556
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6533
+D1
+~
+~
+0 0 6557
+D2
+~
+~
+0 0 6578
+D3
+~
+~
+0 0 6555
+S
+#6557
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6534
+D1
+~
+~
+0 0 6558
+D2
+~
+~
+0 0 6579
+D3
+~
+~
+0 0 6556
+S
+#6558
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6535
+D1
+~
+~
+0 0 6559
+D2
+~
+~
+0 0 6580
+D3
+~
+~
+0 0 6557
+S
+#6559
+Burning Sands~
+   You pause a moment and gaze at your surrounds. There is little to see
+apart from the expanse of sand around you and even your footprints have
+begun to fade as the desert wind covers your tracks.
+~
+65 0 10
+D0
+~
+~
+0 0 6536
+D1
+~
+~
+0 0 6560
+D2
+~
+~
+0 0 6581
+D3
+~
+~
+0 0 6558
+S
+#6560
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6537
+D1
+~
+~
+0 0 6561
+D2
+~
+~
+0 0 6582
+D3
+~
+~
+0 0 6559
+S
+#6561
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6538
+D1
+~
+~
+0 0 6562
+D2
+~
+~
+0 0 6583
+D3
+~
+~
+0 0 6560
+S
+#6562
+Caravan Road~
+   You stand on a caravan road that winds through the desert. Warm breezes
+blow across the sand, cooling your skin and making the desert seem less
+desolate.
+   The desert continues to the east and west, split only by this small road
+that runs to the north and south.
+~
+65 0 16
+D0
+~
+~
+0 0 6539
+D1
+~
+~
+0 0 6563
+D2
+~
+~
+0 0 6584
+D3
+~
+~
+0 0 6561
+S
+#6563
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6540
+D1
+~
+~
+0 0 6564
+D2
+~
+~
+0 0 6585
+D3
+~
+~
+0 0 6562
+S
+#6564
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6541
+D1
+~
+~
+0 0 6565
+D2
+~
+~
+0 0 6586
+D3
+~
+~
+0 0 6563
+S
+#6565
+Burning Sands~
+   Sand whips at your exposed flesh as the wind suddenly increases in
+intensity. You shield your eyes in a vain attempt to protect yourself but
+it does little good. Then, as quickly as it arrived, the wind subsides.
+~
+65 0 10
+D0
+~
+~
+0 0 6542
+D1
+~
+~
+0 0 6566
+D2
+~
+~
+0 0 6587
+D3
+~
+~
+0 0 6564
+S
+#6566
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6543
+D1
+~
+~
+0 0 6567
+D2
+~
+~
+0 0 6588
+D3
+~
+~
+0 0 6565
+S
+#6567
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6544
+D1
+~
+~
+0 0 6568
+D2
+~
+~
+0 0 6589
+D3
+~
+~
+0 0 6566
+S
+#6568
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6545
+D1
+~
+~
+0 0 6569
+D2
+~
+~
+0 0 6590
+D3
+~
+~
+0 0 6567
+S
+#6569
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6546
+D1
+~
+~
+0 0 6570
+D2
+~
+~
+0 0 6591
+D3
+~
+~
+0 0 6568
+S
+#6570
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6547
+D1
+~
+~
+0 0 6571
+D2
+~
+~
+0 0 6592
+D3
+~
+~
+0 0 6569
+S
+#6571
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6548
+D1
+~
+~
+0 0 6572
+D2
+~
+~
+0 0 6593
+D3
+~
+~
+0 0 6570
+S
+#6572
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6549
+D1
+~
+~
+0 0 6573
+D2
+~
+~
+0 0 6594
+D3
+~
+~
+0 0 6571
+S
+#6573
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6550
+D1
+~
+~
+0 0 6574
+D2
+~
+~
+0 0 6595
+D3
+~
+~
+0 0 6572
+S
+#6574
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 6551
+D1
+~
+~
+0 0 6575
+D2
+~
+~
+0 0 6596
+D3
+~
+~
+0 0 6573
+S
+#6575
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6552
+D1
+~
+~
+0 0 6576
+D2
+~
+~
+0 0 6597
+D3
+~
+~
+0 0 6574
+S
+#6576
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6553
+D1
+~
+~
+0 0 6739
+D2
+~
+~
+0 0 6598
+D3
+~
+~
+0 0 6575
+S
+#6577
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6555
+D1
+~
+~
+0 0 6578
+D2
+~
+~
+0 0 6717
+D3
+~
+~
+0 0 6714
+S
+#6578
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6556
+D1
+~
+~
+0 0 6579
+D2
+~
+~
+0 0 6599
+D3
+~
+~
+0 0 6577
+S
+#6579
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6557
+D1
+~
+~
+0 0 6580
+D2
+~
+~
+0 0 6600
+D3
+~
+~
+0 0 6578
+S
+#6580
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6558
+D1
+~
+~
+0 0 6581
+D2
+~
+~
+0 0 6601
+D3
+~
+~
+0 0 6579
+S
+#6581
+Burning Sands~
+   Sand whips at your exposed flesh as the wind suddenly increases in
+intensity. You shield your eyes in a vain attempt to protect yourself but
+it does little good. Then, as quickly as it arrived, the wind subsides.
+~
+65 0 10
+D0
+~
+~
+0 0 6559
+D1
+~
+~
+0 0 6582
+D2
+~
+~
+0 0 6602
+D3
+~
+~
+0 0 6580
+S
+#6582
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6560
+D1
+~
+~
+0 0 6583
+D2
+~
+~
+0 0 6603
+D3
+~
+~
+0 0 6581
+S
+#6583
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6561
+D1
+~
+~
+0 0 6584
+D2
+~
+~
+0 0 6604
+D3
+~
+~
+0 0 6582
+S
+#6584
+Caravan Road~
+   You stand on a caravan road that winds through the desert. Warm breezes
+blow across the sand, cooling your skin and making the desert seem less
+desolate.
+   The desert continues to the east and west, split only by this small road
+that runs to the north and south.
+~
+65 0 16
+D0
+~
+~
+0 0 6562
+D1
+~
+~
+0 0 6585
+D2
+~
+~
+0 0 6605
+D3
+~
+~
+0 0 6583
+S
+#6585
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6563
+D1
+~
+~
+0 0 6586
+D2
+~
+~
+0 0 6606
+D3
+~
+~
+0 0 6584
+S
+#6586
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6564
+D1
+~
+~
+0 0 6587
+D2
+~
+~
+0 0 6607
+D3
+~
+~
+0 0 6585
+S
+#6587
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 6565
+D1
+~
+~
+0 0 6588
+D2
+~
+~
+0 0 6608
+D3
+~
+~
+0 0 6586
+S
+#6588
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6566
+D1
+~
+~
+0 0 6589
+D2
+~
+~
+0 0 6609
+D3
+~
+~
+0 0 6587
+S
+#6589
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6567
+D1
+~
+~
+0 0 6590
+D2
+~
+~
+0 0 6610
+D3
+~
+~
+0 0 6588
+S
+#6590
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6568
+D1
+~
+~
+0 0 6591
+D2
+~
+~
+0 0 6611
+D3
+~
+~
+0 0 6589
+S
+#6591
+Burning Sands~
+   You pause a moment and gaze at your surrounds. There is little to see
+apart from the expanse of sand around you and even your footprints have
+begun to fade as the desert wind covers your tracks.
+~
+65 0 10
+D0
+~
+~
+0 0 6569
+D1
+~
+~
+0 0 6592
+D2
+~
+~
+0 0 6612
+D3
+~
+~
+0 0 6590
+S
+#6592
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6570
+D1
+~
+~
+0 0 6593
+D2
+~
+~
+0 0 6613
+D3
+~
+~
+0 0 6591
+S
+#6593
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6571
+D1
+~
+~
+0 0 6594
+D2
+~
+~
+0 0 6614
+D3
+~
+~
+0 0 6592
+S
+#6594
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6572
+D1
+~
+~
+0 0 6595
+D2
+~
+~
+0 0 6615
+D3
+~
+~
+0 0 6593
+S
+#6595
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6573
+D1
+~
+~
+0 0 6596
+D2
+~
+~
+0 0 2401
+D3
+~
+~
+0 0 6594
+S
+#6596
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6574
+D1
+~
+~
+0 0 6597
+D2
+~
+~
+0 0 6617
+D3
+~
+~
+0 0 6595
+S
+#6597
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6575
+D1
+~
+~
+0 0 6598
+D2
+~
+~
+0 0 6618
+D3
+~
+~
+0 0 6596
+S
+#6598
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 6576
+D1
+~
+~
+0 0 6742
+D2
+~
+~
+0 0 6745
+D3
+~
+~
+0 0 6597
+S
+#6599
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6578
+D1
+~
+~
+0 0 6600
+D2
+~
+~
+0 0 6619
+D3
+~
+~
+0 0 6717
+S
+#6600
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6579
+D1
+~
+~
+0 0 6601
+D2
+~
+~
+0 0 6620
+D3
+~
+~
+0 0 6599
+S
+#6601
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi. A few
+prickly pear cacti dot the sandy ground, offering some small amount of
+protection for the snakes, scorpions, and desert rats that live beneath
+the spiny leaves.
+~
+65 0 10
+D0
+~
+~
+0 0 6580
+D1
+~
+~
+0 0 6602
+D2
+~
+~
+0 0 6621
+D3
+~
+~
+0 0 6600
+S
+#6602
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6581
+D1
+~
+~
+0 0 6603
+D2
+~
+~
+0 0 6622
+D3
+~
+~
+0 0 6601
+S
+#6603
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi. A few
+prickly pear cacti dot the sandy ground, offering some small amount of
+protection for the snakes, scorpions, and desert rats that live beneath
+the spiny leaves.
+~
+65 0 10
+D0
+~
+~
+0 0 6582
+D1
+~
+~
+0 0 6604
+D2
+~
+~
+0 0 6623
+D3
+~
+~
+0 0 6602
+S
+#6604
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6583
+D1
+~
+~
+0 0 6605
+D2
+~
+~
+0 0 6624
+D3
+~
+~
+0 0 6603
+S
+#6605
+Caravan Road~
+   You stand on a caravan road that winds through the desert. Warm breezes
+blow across the sand, cooling your skin and making the desert seem less
+desolate.
+   The desert continues to the east and west, split only by this small road
+that runs to the north and south.
+~
+65 0 16
+D0
+~
+~
+0 0 6584
+D1
+~
+~
+0 0 6606
+D2
+~
+~
+0 0 6625
+D3
+~
+~
+0 0 6604
+S
+#6606
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6585
+D1
+~
+~
+0 0 6607
+D2
+~
+~
+0 0 6626
+D3
+~
+~
+0 0 6605
+S
+#6607
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6586
+D1
+~
+~
+0 0 6608
+D2
+~
+~
+0 0 6627
+D3
+~
+~
+0 0 6606
+S
+#6608
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 6587
+D1
+~
+~
+0 0 6609
+D2
+~
+~
+0 0 6628
+D3
+~
+~
+0 0 6607
+S
+#6609
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6588
+D1
+~
+~
+0 0 6610
+D2
+~
+~
+0 0 6629
+D3
+~
+~
+0 0 6608
+S
+#6610
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6589
+D1
+~
+~
+0 0 6611
+D2
+~
+~
+0 0 6630
+D3
+~
+~
+0 0 6609
+S
+#6611
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6590
+D1
+~
+~
+0 0 6612
+D2
+~
+~
+0 0 6631
+D3
+~
+~
+0 0 6610
+S
+#6612
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6591
+D1
+~
+~
+0 0 6613
+D2
+~
+~
+0 0 6632
+D3
+~
+~
+0 0 6611
+S
+#6613
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6592
+D1
+~
+~
+0 0 6614
+D2
+~
+~
+0 0 6633
+D3
+~
+~
+0 0 6612
+S
+#6614
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6593
+D1
+~
+~
+0 0 6615
+D2
+~
+~
+0 0 6634
+D3
+~
+~
+0 0 6613
+S
+#6615
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6594
+D2
+~
+~
+0 0 6635
+D3
+~
+~
+0 0 6614
+S
+#6617
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6596
+D1
+~
+~
+0 0 6618
+D2
+~
+~
+0 0 6637
+S
+#6618
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6597
+D1
+~
+~
+0 0 6745
+D2
+~
+~
+0 0 6638
+D3
+~
+~
+0 0 6617
+S
+#6619
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6599
+D1
+~
+~
+0 0 6620
+D2
+~
+~
+0 0 6641
+D3
+~
+~
+0 0 6720
+S
+#6620
+Burning Sands~
+   You pause a moment and gaze at your surrounds. There is little to see
+apart from the expanse of sand around you and even your footprints have
+begun to fade as the desert wind covers your tracks.
+~
+65 0 10
+D0
+~
+~
+0 0 6600
+D1
+~
+~
+0 0 6621
+D2
+~
+~
+0 0 6642
+D3
+~
+~
+0 0 6619
+S
+#6621
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6601
+D1
+~
+~
+0 0 6622
+D2
+~
+~
+0 0 6643
+D3
+~
+~
+0 0 6620
+S
+#6622
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6602
+D1
+~
+~
+0 0 6623
+D2
+~
+~
+0 0 6644
+D3
+~
+~
+0 0 6621
+S
+#6623
+Burning Sands~
+   Sand whips at your exposed flesh as the wind suddenly increases in
+intensity. You shield your eyes in a vain attempt to protect yourself but
+it does little good. Then, as quickly as it arrived, the wind subsides.
+~
+65 0 10
+D0
+~
+~
+0 0 6603
+D1
+~
+~
+0 0 6624
+D2
+~
+~
+0 0 6645
+D3
+~
+~
+0 0 6622
+S
+#6624
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6604
+D1
+~
+~
+0 0 6625
+D2
+~
+~
+0 0 6646
+D3
+~
+~
+0 0 6623
+S
+#6625
+Caravan Road~
+   You stand on a caravan road that winds through the desert. Warm breezes
+blow across the sand, cooling your skin and making the desert seem less
+desolate.
+   The desert continues to the east and west, split only by this small road
+that runs to the north and south.
+~
+65 0 16
+D0
+~
+~
+0 0 6605
+D1
+~
+~
+0 0 6626
+D2
+~
+~
+0 0 6647
+D3
+~
+~
+0 0 6624
+S
+#6626
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6606
+D1
+~
+~
+0 0 6627
+D2
+~
+~
+0 0 6648
+D3
+~
+~
+0 0 6625
+S
+#6627
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6607
+D1
+~
+~
+0 0 6628
+D2
+~
+~
+0 0 6649
+D3
+~
+~
+0 0 6626
+S
+#6628
+Burning Sands~
+   Sand whips at your exposed flesh as the wind suddenly increases in
+intensity. You shield your eyes in a vain attempt to protect yourself but
+it does little good. Then, as quickly as it arrived, the wind subsides.
+~
+65 0 10
+D0
+~
+~
+0 0 6608
+D1
+~
+~
+0 0 6629
+D2
+~
+~
+0 0 6650
+D3
+~
+~
+0 0 6627
+S
+#6629
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6609
+D1
+~
+~
+0 0 6630
+D2
+~
+~
+0 0 6651
+D3
+~
+~
+0 0 6628
+S
+#6630
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6610
+D1
+~
+~
+0 0 6631
+D2
+~
+~
+0 0 6652
+D3
+~
+~
+0 0 6629
+S
+#6631
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6611
+D1
+~
+~
+0 0 6632
+D2
+~
+~
+0 0 6653
+D3
+~
+~
+0 0 6630
+S
+#6632
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi. A few
+prickly pear cacti dot the sandy ground, offering some small amount of
+protection for the snakes, scorpions, and desert rats that live beneath
+the spiny leaves.
+~
+65 0 10
+D0
+~
+~
+0 0 6612
+D1
+~
+~
+0 0 6633
+D2
+~
+~
+0 0 6654
+D3
+~
+~
+0 0 6631
+S
+#6633
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6613
+D1
+~
+~
+0 0 6634
+D2
+~
+~
+0 0 6655
+D3
+~
+~
+0 0 6632
+S
+#6634
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6614
+D1
+~
+~
+0 0 6635
+D2
+~
+~
+0 0 6656
+D3
+~
+~
+0 0 6633
+S
+#6635
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6615
+D1
+~
+~
+0 0 6636
+D2
+~
+~
+0 0 6657
+D3
+~
+~
+0 0 6634
+S
+#6636
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D1
+~
+~
+0 0 6637
+D2
+~
+~
+0 0 6658
+D3
+~
+~
+0 0 6635
+S
+#6637
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors.
+~
+65 0 10
+D0
+~
+~
+0 0 6617
+D1
+~
+~
+0 0 6638
+D2
+~
+~
+0 0 6659
+D3
+~
+~
+0 0 6636
+S
+#6638
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6618
+D1
+~
+~
+0 0 6639
+D2
+~
+~
+0 0 6660
+D3
+~
+~
+0 0 6637
+S
+#6639
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6745
+D1
+~
+~
+0 0 6748
+D2
+~
+~
+0 0 6661
+D3
+~
+~
+0 0 6638
+S
+#6640
+Burning Sands~
+   You pause a moment and gaze at your surrounds. There is little to see
+apart from the expanse of sand around you and even your footprints have
+begun to fade as the desert wind covers your tracks.
+~
+65 0 10
+D0
+~
+~
+0 0 6720
+D1
+~
+~
+0 0 6641
+D2
+~
+~
+0 0 6726
+D3
+~
+~
+0 0 6723
+S
+#6641
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6619
+D1
+~
+~
+0 0 6642
+D2
+~
+~
+0 0 6662
+D3
+~
+~
+0 0 6640
+S
+#6642
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 6620
+D1
+~
+~
+0 0 6643
+D2
+~
+~
+0 0 6663
+D3
+~
+~
+0 0 6641
+S
+#6643
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6621
+D1
+~
+~
+0 0 6644
+D2
+~
+~
+0 0 6664
+D3
+~
+~
+0 0 6642
+S
+#6644
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6622
+D1
+~
+~
+0 0 6645
+D2
+~
+~
+0 0 6665
+D3
+~
+~
+0 0 6643
+S
+#6645
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6623
+D1
+~
+~
+0 0 6646
+D2
+~
+~
+0 0 6666
+D3
+~
+~
+0 0 6644
+S
+#6646
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6624
+D1
+~
+~
+0 0 6647
+D2
+~
+~
+0 0 6667
+D3
+~
+~
+0 0 6645
+S
+#6647
+Caravan Road~
+   You stand on a caravan road that winds through the desert. Warm breezes
+blow across the sand, cooling your skin and making the desert seem less
+desolate.
+   The desert continues to the east and west, split only by this small road
+that runs to the north and south.
+~
+65 0 16
+D0
+~
+~
+0 0 6625
+D1
+~
+~
+0 0 6648
+D2
+~
+~
+0 0 6668
+D3
+~
+~
+0 0 6646
+S
+#6648
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6626
+D1
+~
+~
+0 0 6649
+D2
+~
+~
+0 0 6669
+D3
+~
+~
+0 0 6647
+S
+#6649
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6627
+D1
+~
+~
+0 0 6650
+D2
+~
+~
+0 0 6670
+D3
+~
+~
+0 0 6648
+S
+#6650
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6628
+D1
+~
+~
+0 0 6651
+D2
+~
+~
+0 0 6671
+D3
+~
+~
+0 0 6649
+S
+#6651
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6629
+D1
+~
+~
+0 0 6652
+D2
+~
+~
+0 0 6672
+D3
+~
+~
+0 0 6650
+S
+#6652
+Burning Sands~
+   Sand whips at your exposed flesh as the wind suddenly increases in
+intensity. You shield your eyes in a vain attempt to protect yourself but
+it does little good. Then, as quickly as it arrived, the wind subsides.
+~
+65 0 10
+D0
+~
+~
+0 0 6630
+D1
+~
+~
+0 0 6653
+D2
+~
+~
+0 0 6673
+D3
+~
+~
+0 0 6651
+S
+#6653
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6631
+D1
+~
+~
+0 0 6654
+D2
+~
+~
+0 0 6674
+D3
+~
+~
+0 0 6652
+S
+#6654
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6632
+D1
+~
+~
+0 0 6655
+D2
+~
+~
+0 0 6675
+D3
+~
+~
+0 0 6653
+S
+#6655
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6633
+D1
+~
+~
+0 0 6656
+D2
+~
+~
+0 0 6676
+D3
+~
+~
+0 0 6654
+S
+#6656
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6634
+D1
+~
+~
+0 0 6657
+D2
+~
+~
+0 0 6677
+D3
+~
+~
+0 0 6655
+S
+#6657
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6635
+D1
+~
+~
+0 0 6658
+D2
+~
+~
+0 0 6678
+D3
+~
+~
+0 0 6656
+S
+#6658
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6636
+D1
+~
+~
+0 0 6659
+D2
+~
+~
+0 0 6679
+D3
+~
+~
+0 0 6657
+S
+#6659
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6637
+D1
+~
+~
+0 0 6660
+D2
+~
+~
+0 0 6680
+D3
+~
+~
+0 0 6658
+S
+#6660
+Burning Sands~
+   Sand whips at your exposed flesh as the wind suddenly increases in
+intensity. You shield your eyes in a vain attempt to protect yourself but
+it does little good. Then, as quickly as it arrived, the wind subsides.
+~
+65 0 10
+D0
+~
+~
+0 0 6638
+D1
+~
+~
+0 0 6661
+D2
+~
+~
+0 0 6754
+D3
+~
+~
+0 0 6659
+S
+#6661
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6639
+D1
+~
+~
+0 0 6751
+D2
+~
+~
+0 0 6755
+D3
+~
+~
+0 0 6660
+S
+#6662
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6641
+D1
+~
+~
+0 0 6663
+D2
+~
+~
+0 0 6682
+D3
+~
+~
+0 0 6726
+S
+#6663
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on.
+~
+65 0 10
+D0
+~
+~
+0 0 6642
+D1
+~
+~
+0 0 6664
+D2
+~
+~
+0 0 6683
+D3
+~
+~
+0 0 6662
+S
+#6664
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there.
+~
+65 0 10
+D0
+~
+~
+0 0 6643
+D1
+~
+~
+0 0 6665
+D2
+~
+~
+0 0 6684
+D3
+~
+~
+0 0 6663
+S
+#6665
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 6644
+D1
+~
+~
+0 0 6666
+D2
+~
+~
+0 0 6685
+D3
+~
+~
+0 0 6664
+S
+#6666
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+~
+65 0 10
+D0
+~
+~
+0 0 6645
+D1
+~
+~
+0 0 6667
+D2
+~
+~
+0 0 6686
+D3
+~
+~
+0 0 6665
+S
+#6667
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6646
+D1
+~
+~
+0 0 6668
+D2
+~
+~
+0 0 6687
+D3
+~
+~
+0 0 6666
+S
+#6668
+Caravan Road~
+   You stand on a caravan road that winds through the desert. Warm breezes
+blow across the sand, cooling your skin and making the desert seem less
+desolate.
+   The desert continues to the east and west, split only by this small road
+that runs to the north and south.
+~
+65 0 16
+D0
+~
+~
+0 0 6647
+D1
+~
+~
+0 0 6669
+D2
+~
+~
+0 0 6688
+D3
+~
+~
+0 0 6667
+S
+#6669
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6648
+D1
+~
+~
+0 0 6670
+D2
+~
+~
+0 0 6689
+D3
+~
+~
+0 0 6668
+S
+#6670
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 6649
+D1
+~
+~
+0 0 6671
+D2
+~
+~
+0 0 6690
+D3
+~
+~
+0 0 6669
+S
+#6671
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6650
+D1
+~
+~
+0 0 6672
+D2
+~
+~
+0 0 6691
+D3
+~
+~
+0 0 6670
+S
+#6672
+Burning Sands~
+   Sand whips at your exposed flesh as the wind suddenly increases in
+intensity. You shield your eyes in a vain attempt to protect yourself but
+it does little good. Then, as quickly as it arrived, the wind subsides.
+~
+65 0 10
+D0
+~
+~
+0 0 6651
+D1
+~
+~
+0 0 6673
+D2
+~
+~
+0 0 6692
+D3
+~
+~
+0 0 6671
+S
+#6673
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6652
+D1
+~
+~
+0 0 6674
+D2
+~
+~
+0 0 6693
+D3
+~
+~
+0 0 6672
+S
+#6674
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving.
+~
+65 0 10
+D0
+~
+~
+0 0 6653
+D1
+~
+~
+0 0 6675
+D2
+~
+~
+0 0 6694
+D3
+~
+~
+0 0 6673
+S
+#6675
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6654
+D1
+~
+~
+0 0 6676
+D2
+~
+~
+0 0 6695
+D3
+~
+~
+0 0 6674
+S
+#6676
+Burning Sands~
+   The heat is almost unbearable! The sand radiates it to such a degree
+that you can find no respite. Even in the shade of the few cacti you can
+see, the heat saps at your mental and physical strength.
+~
+65 0 10
+D0
+~
+~
+0 0 6655
+D1
+~
+~
+0 0 6677
+D2
+~
+~
+0 0 6696
+D3
+~
+~
+0 0 6675
+S
+#6677
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into amorphous dunes. Beneath the moving dunes, a few desert
+rodents leave raised paths that make the surface of the sands appear to be
+alive with pulsing veins and arteries.
+~
+65 0 10
+D0
+~
+~
+0 0 6656
+D1
+~
+~
+0 0 6678
+D2
+~
+~
+0 0 6697
+D3
+~
+~
+0 0 6676
+S
+#6678
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+~
+65 0 10
+D0
+~
+~
+0 0 6657
+D1
+~
+~
+0 0 6679
+D2
+~
+~
+0 0 6698
+D3
+~
+~
+0 0 6677
+S
+#6679
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+~
+65 0 10
+D0
+~
+~
+0 0 6658
+D1
+~
+~
+0 0 6680
+D2
+~
+~
+0 0 6699
+D3
+~
+~
+0 0 6678
+S
+#6680
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed.
+~
+65 0 10
+D0
+~
+~
+0 0 6659
+D1
+~
+~
+0 0 6754
+D2
+~
+~
+0 0 6757
+D3
+~
+~
+0 0 6679
+S
+#6681
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving. The tall peaks of a large mountain
+range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6726
+D1
+~
+~
+0 0 6682
+D3
+~
+~
+0 0 6729
+S
+#6682
+Burning Sands~
+   You stand parched amidst the shifting, burning sands of Xixieqi. Here,
+a few cacti provide meager shade for the eyeless, desert voles that live
+within their spiny, pulpy interiors. The tall peaks of a large mountain
+range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6662
+D1
+~
+~
+0 0 6683
+D3
+~
+~
+0 0 6681
+S
+#6683
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+  The tall peaks of a large mountain range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6663
+D1
+~
+~
+0 0 6684
+D3
+~
+~
+0 0 6682
+S
+#6684
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving. The tall peaks of a large mountain
+range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6664
+D1
+~
+~
+0 0 6685
+D3
+~
+~
+0 0 6683
+S
+#6685
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+The tall peaks of a large mountain range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6665
+D1
+~
+~
+0 0 6686
+D3
+~
+~
+0 0 6684
+S
+#6686
+Burning Sands~
+   The sand dunes around you are becoming more and more disorienting as
+time passes...you're not really sure if you've passed by this way before
+and the wind that blows constantly across the sands has covered your trail.
+The tall peaks of a large mountain range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6666
+D1
+~
+~
+0 0 6687
+D3
+~
+~
+0 0 6685
+S
+#6687
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving. The tall peaks of a large mountain
+range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6667
+D1
+~
+~
+0 0 6688
+D3
+~
+~
+0 0 6686
+S
+#6688
+Caravan Road~
+   You stand on a caravan road that winds through the desert. Warm breezes
+blow across the sand, cooling your skin and making the desert seem less
+desolate.
+   The desert continues to the east and west, split only by this small road
+that runs to the north and south.
+~
+65 0 16
+D0
+~
+~
+0 0 6668
+D1
+~
+~
+0 0 6689
+D2
+~
+~
+0 0 7093
+D3
+~
+~
+0 0 6687
+S
+#6689
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi. A few
+prickly pear cacti dot the sandy ground, offering some small amount of
+protection for the snakes, scorpions, and desert rats that live beneath
+the spiny leaves. The tall peaks of a large mountain range prevent travel
+to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6669
+D1
+~
+~
+0 0 6690
+D3
+~
+~
+0 0 6688
+S
+#6690
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on. The tall peaks of a large
+mountain range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6670
+D1
+~
+~
+0 0 6691
+D3
+~
+~
+0 0 6689
+S
+#6691
+Burning Sands~
+   Warm winds blow as you scan the desert, wary of desert raiders and
+unexpected dust storms. The heat haze makes it difficult to see very far
+into the distance so perhaps it is time to move on. The tall peaks of a large
+mountain range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6671
+D1
+~
+~
+0 0 6692
+D3
+~
+~
+0 0 6690
+S
+#6692
+Burning Sands~
+   You stand parched amidst the shifting, searing sands of Xixieqi. A few
+prickly pear cacti dot the sandy ground, offering some small amount of
+protection for the snakes, scorpions, and desert rats that live beneath
+the spiny leaves. The tall peaks of a large mountain range prevent travel
+to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6672
+D1
+~
+~
+0 0 6693
+D3
+~
+~
+0 0 6691
+S
+#6693
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+   The tall peaks of a large mountain range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6673
+D1
+~
+~
+0 0 6694
+D3
+~
+~
+0 0 6692
+S
+#6694
+Burning Sands~
+   Tiny footprints in the sand lead in every direction although there is
+no sign of the creatures they belong to. There is almost no vegetation to
+be found save the odd cacti here and there. The tall peaks of a large mountain
+range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6674
+D1
+~
+~
+0 0 6695
+D3
+~
+~
+0 0 6693
+S
+#6695
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+   The tall peaks of a large mountain range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6675
+D1
+~
+~
+0 0 6696
+D3
+~
+~
+0 0 6694
+S
+#6696
+Burning Sands~
+   Sands shift and move in waves here as the strong desert winds pile the
+burning grains into shapeless dunes. There is no sign of life, only the
+bleak, burnished sands and dead, rotting tumbleweed. The tall peaks of a
+large mountain range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6676
+D1
+~
+~
+0 0 6697
+D3
+~
+~
+0 0 6695
+S
+#6697
+Burning Sands~
+   Stopping to rest, you begin to slowly sink into the sand. It takes
+some effort to free yourself but you eventually do so and decide that
+it would be best to continue moving. The tall peaks of a large mountain
+range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6677
+D1
+~
+~
+0 0 6698
+D3
+~
+~
+0 0 6696
+S
+#6698
+Burning Sands~
+   You clamber your way up one of the numerous dunes around you, only to
+be greeted by a greater expanse of desert sand. The Xixieqi sands are well
+reknowned for claiming the lives of hapless travellers who lost their will
+to live...
+   The tall peaks of a large mountain range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6678
+D1
+~
+~
+0 0 6699
+D3
+~
+~
+0 0 6697
+S
+#6699
+Burning Sands~
+   You stand in a barren wasteland of parched sand. Desert winds blow
+warmly across the sand, carrying the faint scent of blooming cacti and
+salt. Predatory birds circle high overhead on unseen currents of air.
+The tall peaks of a large mountain range prevent travel to the south.
+~
+65 0 10
+D0
+~
+~
+0 0 6679
+D1
+~
+~
+0 0 6757
+D3
+~
+~
+0 0 6698
+S
+$~

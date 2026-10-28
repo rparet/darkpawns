@@ -1,0 +1,877 @@
+#3300
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3301
+S
+#3301
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3303
+D1
+~
+~
+0 0 3302
+D2
+~
+~
+0 0 3305
+D3
+~
+~
+0 0 3300
+S
+#3302
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3317
+D1
+~
+~
+0 0 3314
+D3
+~
+~
+0 0 3301
+S
+#3303
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D2
+~
+~
+0 0 3301
+D3
+~
+~
+0 0 3304
+S
+#3304
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3303
+S
+#3305
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3301
+D1
+~
+~
+0 0 3306
+S
+#3306
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3307
+D3
+~
+~
+0 0 3305
+S
+#3307
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D2
+~
+~
+0 0 3308
+D3
+~
+~
+0 0 3306
+S
+#3308
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3307
+D1
+~
+~
+0 0 3309
+S
+#3309
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3310
+D3
+~
+~
+0 0 3308
+S
+#3310
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3311
+D3
+~
+~
+0 0 3309
+S
+#3311
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3312
+D3
+~
+~
+0 0 3310
+S
+#3312
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3313
+D2
+~
+~
+0 0 3311
+S
+#3313
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D3
+~
+~
+0 0 3312
+S
+#3314
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3318
+D1
+~
+~
+0 0 3315
+D3
+~
+~
+0 0 3302
+S
+#3315
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3316
+D3
+~
+~
+0 0 3314
+S
+#3316
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D3
+~
+~
+0 0 3315
+S
+#3317
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3318
+D2
+~
+~
+0 0 3302
+S
+#3318
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3319
+D2
+~
+~
+0 0 3314
+D3
+~
+~
+0 0 3317
+S
+#3319
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3320
+D3
+~
+~
+0 0 3318
+S
+#3320
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3321
+D3
+~
+~
+0 0 3319
+S
+#3321
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D2
+~
+~
+0 0 3320
+D3
+~
+~
+0 0 3322
+S
+#3322
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3321
+D5
+A murky black hole in the bottom of the cavern floor, almost completely
+circular.  If you decend down it, you don't know if you will be able to
+get back up.
+~
+~
+0 0 3323
+S
+#3323
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3324
+D1
+~
+~
+0 0 3325
+D2
+~
+~
+0 0 3326
+D3
+~
+~
+0 0 3327
+D5
+A murky black hole in the cavern floor, almost completely circular
+in nature.  If you go down it, you don't know if you will be able to
+get back up.
+~
+~
+0 0 3333
+S
+#3324
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D2
+~
+~
+0 0 3323
+S
+#3325
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D3
+~
+~
+0 0 3323
+S
+#3326
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3323
+S
+#3327
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3323
+S
+#3328
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3329
+D1
+~
+~
+0 0 3330
+D2
+~
+~
+0 0 3331
+D3
+~
+~
+0 0 3332
+D5
+A murky black hole in the cavern floor, almost completely circular
+in nature.  If you go down it, you don't know if you will be able to
+get back up.
+~
+~
+0 0 3337
+S
+#3329
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D2
+~
+~
+0 0 3328
+S
+#3330
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D3
+~
+~
+0 0 3328
+S
+#3331
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3328
+S
+#3332
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3328
+S
+#3333
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3334
+S
+#3334
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3335
+D3
+~
+~
+0 0 3333
+S
+#3335
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3338
+D1
+~
+~
+0 0 3336
+D2
+~
+~
+0 0 3343
+D3
+~
+~
+0 0 3334
+S
+#3336
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3337
+D3
+~
+~
+0 0 3335
+S
+#3337
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D3
+~
+~
+0 0 3336
+S
+#3338
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3339
+D2
+~
+~
+0 0 3335
+S
+#3339
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3341
+D1
+~
+~
+0 0 3340
+D2
+~
+~
+0 0 3338
+D3
+~
+~
+0 0 3342
+S
+#3340
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D3
+~
+~
+0 0 3339
+S
+#3341
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D2
+~
+~
+0 0 3339
+D5
+A murky black hole in the cavern floor, almost completely circular
+in nature.  If you go down it, you don't know if you will be able to
+get back up.
+~
+~
+0 0 3348
+S
+#3342
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3339
+S
+#3343
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3335
+D2
+~
+~
+0 0 3344
+S
+#3344
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3343
+D1
+~
+~
+0 0 3345
+D2
+~
+~
+0 0 3346
+D3
+~
+~
+0 0 3347
+S
+#3345
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D3
+~
+~
+0 0 3344
+S
+#3346
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3344
+D5
+A murky black hole in the cavern floor, almost completely circular
+in nature.  If you go down it, you don't know if you will be able to
+get back up.
+~
+~
+0 0 3352
+S
+#3347
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3344
+S
+#3348
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3349
+D2
+~
+~
+0 0 3355
+S
+#3349
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3350
+D3
+~
+~
+0 0 3348
+S
+#3350
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D2
+~
+~
+0 0 3351
+D3
+~
+~
+0 0 3349
+S
+#3351
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3350
+D2
+~
+~
+0 0 3352
+S
+#3352
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3351
+D3
+~
+~
+0 0 3353
+S
+#3353
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3356
+D1
+~
+~
+0 0 3352
+D3
+~
+~
+0 0 3354
+S
+#3354
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3355
+D1
+~
+~
+0 0 3353
+S
+#3355
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3348
+D2
+~
+~
+0 0 3354
+S
+#3356
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D2
+~
+~
+0 0 3353
+D5
+A murky black hole in the ground, almost perfectly circular.
+~
+~
+0 0 3357
+S
+#3357
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3358
+D1
+~
+~
+0 0 3359
+D2
+~
+~
+0 0 3360
+D3
+~
+~
+0 0 3361
+S
+#3358
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D2
+~
+~
+0 0 3357
+S
+#3359
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D3
+~
+~
+0 0 3357
+S
+#3360
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D0
+~
+~
+0 0 3357
+S
+#3361
+Lava Tubes~
+You are in a maze of twisty passages, all alike.
+~
+33 9 0 0 0 0
+D1
+~
+~
+0 0 3357
+S
+$~

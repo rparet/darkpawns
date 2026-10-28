@@ -1,0 +1,121 @@
+act.comm.o: act.comm.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h constants.h screen.h faction.h
+act.display.o: act.display.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h db.h screen.h vt100.h
+act.informative.o: act.informative.c conf.h sysdep.h structs.h utils.h \
+  comm.h interpreter.h handler.h db.h spells.h screen.h oc.h faction.h \
+  vt100.h constants.h timezone.h
+act.item.o: act.item.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h house.h db.h constants.h spells.h
+act.movement.o: act.movement.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h house.h constants.h
+act.offensive.o: act.offensive.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h events.h
+act.other.o: act.other.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h screen.h house.h faction.h \
+  events.h constants.h
+act.social.o: act.social.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h
+act.wizard.o: act.wizard.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h house.h screen.h olc.h faction.h \
+  constants.h shop.h
+alias.o: alias.c conf.h sysdep.h structs.h utils.h db.h interpreter.h
+ban.o: ban.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+  handler.h db.h
+boards.o: boards.c conf.h sysdep.h structs.h utils.h comm.h db.h boards.h \
+  interpreter.h handler.h
+class.o: class.c conf.h sysdep.h structs.h db.h utils.h spells.h \
+  interpreter.h handler.h
+comm.o: comm.c conf.h sysdep.h vt100.h events.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h house.h olc.h screen.h telnet.h spells.h
+config.o: config.c conf.h sysdep.h structs.h
+constants.o: constants.c conf.h sysdep.h structs.h spells.h shop.h
+db.o: db.c conf.h sysdep.h structs.h utils.h db.h comm.h handler.h \
+  spells.h interpreter.h house.h constants.h olc.h
+dream.o: dream.c conf.h sysdep.h structs.h utils.h comm.h dream.h \
+  handler.h db.h interpreter.h
+fight.o: fight.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
+  interpreter.h db.h spells.h screen.h house.h vt100.h events.h
+gate.o: gate.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+  handler.h db.h spells.h screen.h constants.h
+graph.o: graph.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+  handler.h db.h spells.h
+handler.o: handler.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+  handler.h interpreter.h spells.h events.h house.h
+house.o: house.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+  interpreter.h utils.h house.h
+interpreter.o: interpreter.c conf.h sysdep.h structs.h comm.h \
+  interpreter.h db.h utils.h spells.h handler.h screen.h olc.h faction.h \
+  events.h
+limits.o: limits.c conf.h sysdep.h structs.h utils.h spells.h comm.h db.h \
+  handler.h interpreter.h screen.h dream.h house.h vt100.h
+magic.o: magic.c conf.h sysdep.h structs.h utils.h comm.h spells.h \
+  handler.h db.h
+mail.o: mail.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+  interpreter.h handler.h constants.h
+mapcode.o: mapcode.c conf.h sysdep.h structs.h utils.h comm.h db.h
+medit.o: medit.c conf.h sysdep.h structs.h comm.h spells.h utils.h db.h \
+  shop.h olc.h constants.h
+mobact.o: mobact.c conf.h sysdep.h structs.h utils.h db.h comm.h \
+  interpreter.h handler.h spells.h house.h
+modify.o: modify.c conf.h sysdep.h structs.h utils.h interpreter.h \
+  handler.h db.h comm.h spells.h boards.h olc.h
+new_cmds.o: new_cmds.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h screen.h
+new_cmds2.o: new_cmds2.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h screen.h olc.h
+notes.o: notes.c conf.h sysdep.h structs.h utils.h db.h interpreter.h \
+  comm.h handler.h
+objsave.o: objsave.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+  interpreter.h utils.h spells.h
+oc.o: oc.c conf.h sysdep.h structs.h utils.h db.h comm.h handler.h \
+  screen.h oc.h
+oedit.o: oedit.c conf.h sysdep.h structs.h comm.h spells.h utils.h db.h \
+  boards.h shop.h olc.h constants.h
+olc.o: olc.c conf.h sysdep.h structs.h interpreter.h comm.h utils.h db.h \
+  olc.h screen.h
+pc_shop.o: pc_shop.c conf.h sysdep.h structs.h utils.h db.h interpreter.h \
+  comm.h shop.h olc.h screen.h handler.h constants.h
+poof.o: poof.c conf.h sysdep.h structs.h utils.h interpreter.h comm.h \
+  handler.h db.h
+random.o: random.c
+redit.o: redit.c conf.h sysdep.h structs.h comm.h utils.h db.h boards.h \
+  olc.h
+scripts.o: scripts.c include/lua.h include/lualib.h include/lua.h \
+  include/lauxlib.h conf.h sysdep.h structs.h utils.h spells.h db.h \
+  comm.h interpreter.h handler.h events.h vt100.h shop.h
+sedit.o: sedit.c conf.h sysdep.h structs.h comm.h utils.h db.h shop.h \
+  olc.h
+shop.o: shop.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+  interpreter.h utils.h shop.h screen.h spells.h
+spec_assign.o: spec_assign.c conf.h sysdep.h structs.h db.h interpreter.h \
+  utils.h
+spec_procs.o: spec_procs.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h screen.h
+spec_procs2.o: spec_procs2.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h house.h
+spec_procs3.o: spec_procs3.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h events.h screen.h shop.h
+spec_procs4.o: spec_procs4.c conf.h sysdep.h structs.h utils.h comm.h \
+  interpreter.h handler.h db.h spells.h events.h
+spell_parser.o: spell_parser.c conf.h sysdep.h structs.h utils.h \
+  interpreter.h spells.h handler.h comm.h db.h events.h
+spells.o: spells.c conf.h sysdep.h structs.h utils.h comm.h spells.h \
+  handler.h db.h interpreter.h
+sql.o: sql.c conf.h sysdep.h structs.h utils.h db.h comm.h handler.h \
+  constants.h interpreter.h shop.h
+tattoo.o: tattoo.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+  handler.h db.h spells.h screen.h
+tedit.o: tedit.c conf.h sysdep.h structs.h comm.h utils.h olc.h db.h \
+  handler.h
+utils.o: utils.c conf.h sysdep.h structs.h utils.h comm.h screen.h \
+  spells.h handler.h db.h constants.h
+version.o: version.c conf.h sysdep.h structs.h utils.h interpreter.h \
+  build.count.h
+weather.o: weather.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
+  interpreter.h db.h spells.h
+whod.o: whod.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+  whod.h screen.h
+zedit.o: zedit.c conf.h sysdep.h structs.h comm.h utils.h db.h olc.h
+events.o: events.c conf.h sysdep.h structs.h utils.h interpreter.h db.h \
+  events.h

@@ -1,0 +1,560 @@
+#12900
+diary dissolution~
+the Diary of Dissolutionment~
+A leather-bound book is here, with its pages strewn chaotically about.~
+~
+14 e ao 0
+0 0 0 0 0
+5 3 300 100 0 1
+E
+diary dissolution~
+It is a ragged diary - obviously it's seen better days. There are several
+entries written within, but the only semi-legible ones are the first and
+second pages.
+~
+E
+first~
+   It has now been eleven days since the ruthless members of the Liu'she
+Ch'uan Tong have imprisoned me. It all started when I noticed peculiar
+disappearences of goods and thefts of the sacred offerings at the temple
+left by the whole-hearted citizens of Kir-Oshi. I decided to launch an
+investigation to see if I could put an end to these loathsome happenings.
+What an error I have made.
+   I searched throughout the entire city... But alas, I was unable to find
+any information of value. I spoke with the dirty and stinking sailors and
+pirates passing through the harbor; and met a mysterious merchant passing
+through who told me that the members of the Liu'she Ch'uan Tong criminal
+orginization have been making enormous amounts of profit from the trade of
+theft and smuggling. 
+~
+E
+second~
+   I began to ask around town, but could not receive any straightforward
+answer as to the location of the Tong hideout. While I was taking a break
+from the investigation drinking at the local Bars Crossed Tavern, I met
+a beautiful young lady who claimed she was an ex-member of the notorious
+gang. We began to talk whilst drinking expensive ale, and I managed to get
+quite drunk off of the accursed necture.
+   The next morning, I awoke chained to a filthy ship, with mere scraps of
+food and dirty water to accompany me. Apparently this woman poisoned the
+ale that I drank and imprisoned me for snooping around. There is no hope
+now, save for an adventurer stumbling onto my floating prison and saving me
+before I meet my end.
+~
+#12901
+key claustrophobia~
+the key of claustrophobia~
+The key of claustrophobia is lying here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 100 1 1
+E
+key claustrophobia~
+It looks as if it could free a person from shackles in very tight situations.
+~
+#12902
+dagger sai double manji~
+a double-edged manji sai~
+A sharp sai has been left here.~
+~
+5 j an 0
+6 3 3 11 4
+4 1 6000 10 0 1
+E
+manji sai~
+It is a three-pronged dagger which has been sharpened to perfection. The hilt
+of the sai bares the Lui'she Ch'uan Tong insignia.
+~
+A
+18 3
+R
+6 1
+#12903
+symbolic headband~
+a symbolic headband~
+A thin strip of painted cloth lies here.~
+~
+11 a ae 0
+0 0 0 0 5
+2 3 5000 15 0 1
+E
+symbolic headband~
+The headband has a golden dragon painted along the edge and bares the
+insignia of the Lui'she Ch'uan Tong.
+~
+A
+18 2
+A
+17 2
+#12904
+sword serrate jagged wakizashi~
+a serrated wakizashi~
+A jagged sword is lying here.~
+~
+5 j an 0
+1 5 3 3 4
+6 2 4000 15 0 1
+E
+serrated wakizashi~
+The blade is incredibly long, and has been sharpened to perfection. The
+colorful black woven handle bares the painted insignia of the Lui'she
+Ch'uan tong. The blade of the wakizashi has been highly polished, serving
+not only for aestetic value, but also serves to make the slice better
+through flesh.
+~
+A
+19 3
+A
+26 1
+#12905
+wand netherworldly blashphemy~
+the netherworldly wand of blasphemy~
+An arcane wand hovers around you.~
+~
+3 g an 0
+1 0 0 0 3
+4 2 6000 20 0 1
+E
+netherworldly wand blasphemy~
+This wand looks incredibly strange, like nothing you've seen in this world.
+It is jet black, and about the length and width of your leg; making it an
+excellent, although strange, walking staff. There is a crystalline ball
+hovering strangely at the tip of it and, looking within, you are able to see
+several miniature soul-like figures swirling hideously inside. You wonder
+where the Tong could've possibly gotten something so utterly alien to this
+civilization. It was probably stolen from a travelling mage; forged from
+pure magic and conjured reagents, its orgins baffle you completely.
+~
+A
+12 100
+#12906
+staff rataan combat cane~
+a rattan combat cane~
+A deadly-looking cane is lying here.~
+~
+5 0 an 0
+3 5 5 7 4
+6 3 2000 65 0 1
+E
+rattan combat cane~
+It is made of ironwood from the toughest of trees. There is a symbol
+carved at the base of it; probably the signal of Tong leadership.
+~
+#12907
+sword wooden bamboo bokken~
+a bamboo bokken~
+A wooden practice sword lies here in the dirt.~
+~
+5 0 an 0
+1 3 4 3 6
+4 2 500 80 0 1
+E
+bamboo bokken~
+This is a bamboo training sword designed to provide the students
+of the Liu'she Ch'uan Tong an excellent means to perfect their
+blossoming skill.
+~
+#12908
+pants weighted training~
+a pair of weighted training pants~
+A heavy set of weighted pants lies here.~
+~
+11 0 af 0
+0 0 0 0 0
+10 3 300 80 0 1
+E
+pair weighted training pants~
+Embedded within the simple cloth is what appears to be a lead-like
+substance. Excellent for building muscles while training in intense
+situations.
+~
+A
+10 10
+#12909
+shirt weighted training~
+a weighted training shirt~
+A heavy shirt lies here in the dust.~
+~
+11 0 ad 0
+0 0 0 0 0
+10 3 200 80 0 1
+E
+weighted training shirt~
+Made of simple cloth with embedded weights, it is superb for
+training in intense surroundings.
+~
+A
+10 10
+#12910
+zori straw sandals~
+a pair of straw zoris~
+A pair of straw sandals are lying here.~
+~
+11 0 ag 0
+0 0 0 0 5
+3 3 200 80 0 1
+E
+pair straw zori~
+The soles are made of straw, with a cloth strip to go along the
+perimeter of the feet.
+~
+A
+28 1
+A
+17 -2
+#12911
+sword black daito ornate~
+a black daito sword~
+A beautiful, ornate sword lies here.~
+~
+5 0 an 0
+1 4 5 3 4
+6 2 3000 10 0 1
+E
+sword black daito ornate~
+The blade is about three feet long and very thin. The steel has
+been polished to perfection, and the Liu'she Ch'uan Tong insignia
+is carved into the wooden handle.
+~
+R
+1 1
+#12913
+sake bottle~
+a bottle of sake~
+A simple bottle of rice wine lies here.~
+~
+17 0 a 0
+8 8 8 0 0
+10 3 30 80 0 1
+E
+bottle sake~
+The actual bottle is made of porcelain and is about six inches high and
+three inches wide. The whole thing has been painted white, with a black
+symbol - probably the signature of the sculpture - is painted on the 
+ornate drinking bottle. It usually serves as a way to hold the liquid as
+it's poured into smaller porcelain shot glasses.
+~
+#12914
+ivory tusk~
+an ivory tusk~
+An ivory tusk with several minutely carved figues is lying here.~
+~
+8 0 ao 0
+0 0 0 0 0
+5 3 1000 75 0 1
+E
+ivory tusk~
+Carved into it is a scene with hundreds of tiny figures smaller than
+a pea. Looking closely, the people are all clothed in ceremonious
+garb. The craftsmanship is absolutely exquisite; it must have taken
+the artist decades to produce such a fine piece. It still retains the
+basic shape of a tusk however - that being a slightly curved, off-white
+enamel. The Tong probably make heaps of money off of items like this on
+a daily basis.
+~
+#12915
+disturbing painting~
+a painting~
+A disturbing painting hangs on the wall, half hidden by the other canvases.~
+~
+15 e 0 0
+200 15 12916 0 0
+1 3 0 100 0 1
+E
+disturbing painting~
+It is a superb and haunting watercolor brush painting of an old sage identified
+as Seiji. The actual &Wframe&n looks older than the painting itself, as evidenced
+by the dust around the worn edges. It is painted on a fine grade of rice
+paper - four sheets that have been joined to a single large sheet. You are
+particularly taken with the solemn, but gentle expression of this ancient wise
+man, noticing also how cleverly the artist portrayed the diaphonous nature of
+the head scarf as the ears show through it. Very strong rhythmic strokes of the
+brush skillfully set forth the head scarf. Yet the face - in particular the sad
+contemplative eyes and the flowing beard - are done in wonderful detail. One
+small touch of red on the handle of the whisk makes a dramatic contrast to the
+overall somber colors of tans and grays. There is a strange, symbolic &Wsignature&n
+in the right hand corner of the painting.
+~
+E
+signature~
+It is a four character signature with a miniature seal placed in the bottom
+right hand corner of the painting. The seal in particular is a work of
+exquisite art: a golden, snake-like dragon - the Liu'she Ch'uan Tong insignia.
+You wonder as to the origins of this painting ... Was it made as a gift for
+the Tong? Or did an artist from within the orginization paint it? It is also
+quite possible that a lowly member of the Tong came across this ancient relic
+during his scheming smuggling operations. The answer seems hidden within the
+sage's sad, worn eyes.
+~
+E
+frame~
+The frame of the painting is made of solid gold. It is ornately carved and, by
+the dust which covers it, you are able to ascertain that it is very old indeed.
+~
+#12916
+narrow key~
+a narrow key~
+A thin, narrow key is lying here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 40 3 1
+E
+narrow key~
+It has the sign of Toba on it.
+~
+#12917
+iron safe~
+an iron safe~
+An iron safe is partly obscured by the painting.~
+~
+15 c a 0
+100 15 12918 0 0
+40 3 200 100 0 1
+E
+iron safe~
+It has a combination lock on it, and looks to be utterly impossible to
+break into without destroying the contents.
+~
+#12918
+thin strip paper~
+a thin strip of paper~
+A thin strip of paper has been disgarded here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 55 0 1
+E
+thin strip paper~
+The parchment is yellow with age, and has some words written on it. They
+look to be some sort of code, although you are unable to distinguish the
+strange symbols.
+~
+#12919
+porcelin figurine~
+a porcelin figurine~
+A beautiful procelin figurine is lying here.~
+~
+8 0 ao 0
+0 0 0 0 0
+3 3 2000 75 0 1
+E
+porcelin figurine~
+This is a porcelain figurine of the Taoist Immortal Li Tieguai. He is
+modeled with his right foot resting on a crutch and holds a yellow
+double gourd flask in his right hand. He wears a long coat that is
+painted with several multi-colored flowers on a black background. The
+delicate silken cloth also has a border around the edges consisting of
+more beautiful flowers on a yellow background. He wears aubergine-colored
+pants with flowers painted on them and his hair is black. Li Tieguai is
+standing on a square base that is open in the front and has a yellow
+kerchief draped on it. The sides are solid and have flowers on a light
+turquoise background painted with a "cracked ice" pattern.
+~
+#12920
+small soapstone statue~
+a small soapstone statue~
+A small soapstone statue is lying on the ground here.~
+~
+8 0 ao 0
+0 0 0 0 0
+6 3 2000 75 0 1
+E
+small soapstone statue~
+A finely carved figure executed in a lovely golden tannish soapstone.
+It portrays the Goddess of Mercy pouring water from a jar into the
+mouth of a dragon at her feet. Her face is superb and has an incredibly
+lively prescence.
+~
+#12921
+sacred amulet R'lyeh~
+the sacred amulet of R'lyeh~
+A sacred amulet hovers strangely in the air.~
+~
+9 abg ac 0
+3 0 0 0 3
+2 3 5000 15 0 1
+E
+sacred amulet yhul'lha~
+It is a rare, sacred amulet, probably used in religious rites. The top
+half depicts six birds flanking a vase who are resting on energy spirals
+on the outer ring. The amulet has its orgins in ancient long-life and
+fortune-bestowing rituals. It is made of a meteoric metal which is
+totally alien to you. The real significance of this talisman - art and
+antique value aside - is the arcane and seemingly ancient words carved
+into the back of the medallion. They look to be written in a language
+you've never seen before: &WCthulhu&n fhtagan.
+~
+E
+cthulhu~
+You've heard blasphemous rumours of the immortal, and dream-invading
+Cthulhu, but you've never actually believed them until there was hard
+evidence to prove its existance...
+~
+A
+19 1
+#12922
+key paint splattered~
+a paint-splattered key~
+A key covered in paint is lying here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 50 3 1
+E
+paint splattered key~
+It is very large and made of steel; covered from end to end still-wet,
+multi-colored paint drips from it.
+~
+#12923
+wooden practice dummy~
+a wooden practice dummy~
+A wooden practice dummy is being ruthlessly beaten.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+wooden practice dummy~
+It is made out of the most sturdy Ironwood, and looks as if it has seen
+better days. The face is painted to look more realistic, and it is wearing
+a blood-stained &Wrobe&n.
+~
+E
+robe~
+Looking closer to the robe you realise, to your horror, that is it one of
+the monks' garmets from Kir-Oshi.
+~
+#12924
+ancient coin five dynasties~
+the ancient coin of Five Dynasties~
+An ancient rusted coin lies here.~
+~
+8 0 ao 0
+0 0 0 0 0
+2 3 2000 100 0 1
+E
+ancient coin five dynasties~
+The coin is circular in shape, with a square hole cut in the middle of it. It
+appears to be centuries old; a real gem for the collectors of the Tong. Along
+the edge of the coin, some strange &Wsymbols&n have been written on it.
+~
+E
+symbols~
+It reads:
+   "Wu hsing ta pu" - Great Currency of the Five Elements
+~
+#12925
+strange metal apparatus~
+a strange metal apparatus~
+A strange metal apparatus casts eerie shadows in the half-darkness.~
+~
+12 e 0 0
+0 0 0 0 0
+1 3 0 100 0 1
+E
+mold~
+It is apparently the currency of Kir-Oshi. Aside from the eternal face of
+Ts'ao Ts'ao, there are some words written on it which you do not understand.
+It must have taken literally ages for the mold to be crafted; the detail of
+it absolutely fascinates you.
+~
+E
+strange metal apparatus~
+It looks more like a torture device than a coin press. The coins are made
+from the metal, apparently brass, which is heaped in a haphazard pile next
+to the apparatus. The metal is then heated up to a liquid form, and poured
+into a &Wmold&n. There is a screw handle on top of it, which turns a wheel
+to tighten it. The Tong then strike it with a heavy sledge hammer, finalizing
+the process. At the base of the press, there are some strange &Wcarvings&n
+that catch your attention.
+~
+E
+carvings~
+They read:
+   "Ts'ao Ts'ao chung pao" - The Heavy Currency of Ts'ao Ts'ao
+~
+#12926
+mace sledge hammer~
+a heavy sledge hammer~
+A sledge hammer lies here. It looks too heavy to pick up.~
+~
+5 0 an 0
+5 3 3 7 4
+19 2 1000 20 0 1
+E
+heavy sledge hammer~
+The handle is made of reinforced wood. The hammer portion of this strange
+weapon is made of steel, and carved into it is the Tong insignia.
+~
+A
+1 2
+A
+2 -1
+A
+19 5
+#12927
+Tong treasure~
+the Tong treasure~
+The Tong treasure is lying here.~
+~
+20 0 a 0
+300 0 0 0 0
+1 3 0 75 0 1
+#12928
+dagger dragon handle~
+a dragon-handled dagger~
+A dagger with a carved hilt in the shape of a dragon lies here.~
+~
+5 a an 0
+6 3 1 11 4
+2 1 100 100 0 1
+E
+dragon handled dagger~
+It is a rough dagger, perfect for assassination.
+~
+A
+7 -1
+#12929
+jade hairpin~
+a jade hairpin~
+A beautiful hairpin made of jade lies here.~
+~
+8 0 ae 0
+0 0 0 0 0
+1 3 500 75 0 1
+E
+jade hairpin~
+It is crafted out of the finest jade. Enscribed in the middle of it is the
+insignia of the Liu'she Ch'uan Tong.
+~
+#12930
+jade dragon statue~
+a jade dragon statue~
+A jade statue of a dragon lies here.~
+~
+8 0 ao 0
+0 0 0 0 3
+6 3 1000 50 0 1
+E
+jade dragon statue~
+It is wonderfully carved, made out of the finest jade. It looks quite
+valueable.
+~
+A
+7 -1
+#12931
+bamboo pipe~
+a bamboo pipe~
+A bamboo pipe lies on the ground, still smoking.~
+~
+13 cepq ao 0
+0 0 0 0 0
+2 3 1 100 0 1
+E
+pipe bamboo~
+It is made of still-green bamboo, with the freshly-carved Tong insignia
+on its handle.
+~
+$~

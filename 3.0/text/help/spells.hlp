@@ -1,0 +1,1318 @@
+"ACID BLAST"
+
+Usage : cast 'acid blast'
+Group : Malediction
+Mana  : 400 - 500
+
+With this spell, the caster shoots forth a spray of deadly, flesh-dissolving
+acid from the fingertips of both hands. The spray is directed toward all non-
+group-member occupants in the room.
+#
+"ADRENALINE BOOST"
+
+Usage       : will 'adrenaline boost' 
+
+With this mind-skill, the psionic increases his body's adrenaline production,
+effectively making himself several degrees stronger.
+#
+ANIMATE "ANIMATE DEAD"
+
+Usage : cast 'animate dead' <corpse>
+Group : Necromancy
+Mana  : 80 - 100
+
+With a powerful prayer (or unholy curse!), the caster may seek to infuse life
+into the dead. The resulting undead zombie will obey the caster and follow
+loyally until destroyed.
+#
+ASTRAL
+
+The spells of this group represent the ability to control the realm of the
+astral plane. They include:
+
+Level 1: Recall
+Level 2: Gate
+Level 3: Group Recall
+Level 4: Dream Travel
+
+Learning this group will also allow you to wield higher damage staves, as 
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified).
+ 
+See Also: REQUIREMENT IDENTIFY
+#
+BLESS
+
+Usage    : cast 'bless' <victim | object>
+Duration : 2 Hours, permanent for objects.
+Group    : Protection
+Mana     : 40 - 50
+
+Bless on a victim will improve the victim's saving throw versus spells
+and hitroll. The amount will vary depending on the caster's level.
+
+It is only possible to bless non-magic items, and the object blessed may 
+weigh no more than the level of caster. 
+
+A blessed weapon gains a hitroll modifier. Other blessed objects are not yet
+defined.
+#
+BLINDNESS
+
+Usage    : cast 'blindness' <victim>
+Duration : 2 Hours
+Group    : Malediction
+Mana     : 200 - 300
+
+Blindness will blind a victim failing its saving throw. A blinded person will
+will have a penalty to both hitroll and AC.
+
+See Also: HITROLL AC
+#
+"BURNING HANDS"
+
+Usage : cast 'burning hands' <victim>
+Group : Malediction
+Mana  : 40 - 70
+
+Engulfs the caster's hands with flames that you can then use to grab your enemy
+and subsequently burn them.
+#
+"CALL LIGHTNING"
+
+Usage : cast 'call lightning' <victim>
+Group : Environmental
+Mana  : 40 - 70
+
+This spell will use the "force of nature" to make lightning strike the victim.
+It is therefore only possible to call lightning outside, and it has to be
+raining (or worse).
+
+See Also: "CONTROL WEATHER" WEATHER
+#
+CAST
+
+Usage: cast '<spell name>' [target]
+
+For magickal people.  If you want to throw a spell at someone or something.
+You must be wielding a wand in order to cast your spell.
+
+Example:
+
+  > cast 'burning hands' <player>
+  Note that the name of the spell must be enclosed by "'"s.
+
+Examples:
+
+  > help cure ligh
+  > help ventri
+  > help energy drain
+
+Refer to the individual spell help files for further information on a
+particular spell.
+#
+"CELL ADJUSTMENT"
+
+Usage       : will 'cell adjustment' <self>
+
+The psionic focuses his mental abilities on his own healing processes,
+Causing his wounds to mend much faster than normal.
+#
+CHAMELEON
+
+Usage      : will 'chameleon' <self>
+
+The psionic change his colors to match the surroundings, effectively
+Becoming hidden in a room.  If successful, you can only be "sensed" 
+by the "sense life" spell.  Even if sensed your identity will remain 
+hidden. This is a rather taxing mental feat, and can only be attempted
+once per day.  You may be able to perform actions and still remain hidden,
+but the chances of this are slight.
+
+#
+"CHANGE DENSITY"
+
+Usage       : will 'change density' <self>
+
+The psionic changes the physical make-up of his body, assuming the
+ability  to walk, lie down, etc, on liquid surfaces.
+#
+"CHARM PERSON"
+
+Usage       : cast 'charm person' <victim>
+
+It is not possible to charm anyone that is already charmed, if
+you're charmed yourself, or if the person is higher level than
+yourself.  The person will get a saving throw versus "paralysis".
+
+A charmed person will follow you, and not be able to attack you. You
+can order the charmed person using the order command. Monsters don't
+like being charmed, and a failed attempt will usually result in your
+being attacked.
+
+See Also: FOLLOW ORDER
+#
+"CHILL TOUCH"
+
+Usage       : cast 'chill touch' <victim>
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the flame arrow spell.
+A victim failing its saving throw will get its strength
+reduced by one.
+
+See Also: "FLAME ARROW"
+#
+CLONE
+
+Usage : cast 'clone'
+Group : Necromancy
+Mana  : 100 - 150
+
+By using this powerful ability, the mentalist may create a clone of him or
+herself. This clone is not perfect, however, and will not stand up to close
+scrutiny - it is also very aggressive and will attack most creatures (be they
+friend or foe) on sight. It is however, useful for evading pursuers and fooling
+the enemy.
+#
+COLORSPRAY "COLOR SPRAY"
+
+Usage : cast 'color spray' <victim>
+Group : Malediction
+Mana  : 100 - 150
+
+Send a colorful but deadly spray at your victim.
+For help on actual color, see: ANSI
+#
+"CONJURE ELEMENTAL" CONJURE ELEMENTAL
+
+Usage    : cast 'conjure elemental'
+Duration : Varies with the caster's level
+Group    : Necromancy
+Mana     : 500 - 700
+
+By means of this powerful conjuration spell, the caster can summon elementals
+from their planes of existence to aid him or her in battle or other tasks.
+In order to summon an elemental, the caster first needs to have the correct 
+reagents for the elemental type that he or she wishes to summon.  Information
+on elemental reagents can be found in books on arcane spellcraft, or consult
+your local sage.
+#
+"CONTROL WEATHER"
+
+Usage : cast 'control weather' <'better' | 'worse'>
+Group : Environmental
+Mana  : 200 - 300
+
+This spell will change the "course" of the current weather. It is useful if
+you want to alter the weather so you can cast another spell, call lightning
+for example.
+
+Obviously, you must be outside to cast this spell.
+
+Example:
+  > cast 'control weather' worse
+#
+"CREATE FOOD"
+
+Usage : cast 'create food'
+Group : Utility
+Mana  : 40 - 50
+
+This spell instantly creates a fresh mushroom, capable of keeping you full
+for 10 hours.
+
+See Also: "CREATE WATER"
+#
+"CREATE WATER"
+
+Usage : cast 'create water' <drink container>
+Group : Utility
+Mana  : 40 - 50
+
+Expect disastrous results if cast upon a drink container which contains
+another liquid than water.  Empty or water containers will be filled.
+
+See Also: "CREATE FOOD"
+#
+"CURE BLIND"
+
+Usage : cast 'cure blind' <victim>
+Group : Rejuvenation
+Mana  : 40 - 50
+  
+This spell will cure a person blinded by the "blindness" spell, it
+can not remove blindness caused by, for example, cursed items.
+#
+"CURE CRITIC"
+
+Usage       : cast 'cure critic' <victim>
+Duration    : Instantaneous
+
+This spell cures many hitpoints of damage.
+
+#
+"CURE LIGHT"
+
+Usage : cast 'cure light' <victim>
+Group : Rejuventation
+Mana  : 40 - 50
+
+Cures minor wounds and scratches.
+#
+CURSE
+
+Usage    : cast 'curse' <victim | object>
+Duration : Varies with caster's level, or permanent on objects.
+Group    : Malediction
+Mana     : 40 - 70
+
+Curse cast on a person that fails the saving throw, will reduce their
+hitroll and damage roll significantly.  It will also reduce the saving
+throw versus paralysis by one. At higher levels, it is possible that
+a curse might cause the victim to have an unfortunate accident of the
+lethal type.
+
+When cast upon an object, the object will become undropable.
+#
+DETECTION
+
+The spells of this group represent the ability to see beyond the natural
+world. They include:
+
+Level 1: Detect Alignment, Detect Magic, Infravision
+Level 2: Detect Invisibility, Sense Life, Detect Race
+Level 3: Detect Poison
+Level 4: Mindsight
+
+Learning this group will also allow you to wield higher damage staves, as 
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified).
+ 
+See Also: REQUIREMENT IDENTIFY
+#
+"DETECT ALIGNMENT"
+
+Usage    : cast 'detect alignment' <victim>
+Duration : Varies with the caster's level
+Group    : Detection
+Mana     : 20 - 40
+
+Allows the caster to detect the alignment of those around them.
+Evil will show as a red aura, good in a blue aura.
+
+See Also: "DETECT INVISIBILITY"
+#
+"DETECT INVISIBILITY"
+
+Usage    : cast 'detect invisibility' <victim>
+Duration : Varies with the caster's level
+Group    : Detection
+Mana     : 100 - 150
+
+This spell enables you to see invisible items and players.
+#
+"DETECT MAGIC"
+
+Usage    : cast 'detect magic' <victim>
+Duration : Varies with the caster's level
+Group    : Detection
+Mana     : 20 - 40
+
+This spell will let you see the magical aura surrounding magical objects.
+#
+"DETECT POISON"
+
+Usage : cast 'detect poison' <victim | food | drink>
+Group : Detection
+Mana  : 200 - 300
+
+Cast on food or drinks (drink containers) you will be able to sense if it is
+poisoned. Cast on a person you will be able to see if that person is
+poisoned.
+#
+"DETECT RACE"
+
+Usage    : cast 'detect race' <victim>
+Duration : Varies with the caster's level
+Group    : Detection
+Mana     : 80 - 100
+
+Not all races are easy to detect with the eye, so this spell will let you
+see the victim's race.
+#
+DISINTEGRATION DISINTEGRATE
+
+Usage : cast 'disintegration' <victim>
+Group : Malediction
+Mana  : 500 - 700
+
+This powerful spell calls forth a beam of raw energy that can be directed by the
+caster. Bewhere though, this energy is very unstable and can have devastating
+results if not used carefully!
+#
+"DISPEL EVIL"
+
+Usage : cast 'dispel evil' <victim>
+Group : Necromancy
+Mana  : 40 - 70
+
+This spell will only affect evil creatures.  An evil person of level equal or less
+than caster will suffer much damage. While an evil person of higher level will
+suffer slightly less damage.
+
+See Also: "DISPEL GOOD"
+#
+"DISPEL GOOD"
+
+Usage : cast 'dispel good' <victim>
+Group : Necromancy
+Mana  : 40 - 70
+
+This spell will only affect good creatures.  A good person of level equal or less
+than caster will suffer much damage. While a good person of higher level will
+suffer slightly less damage.
+
+See Also: "DISPEL EVIL"
+#
+"DIVINE INTERVENTION" DIVINE INTERVENTION
+
+Usage    : cast 'divine intervention'
+Duration : Varies with the caster's level
+Group    : Necromancy
+Mana     : 500 - 700
+
+The most powerful prayer someone can make, divine intervention will summon
+warrior angels from the caster's Gods to serve them for a short period of time.
+Should the caster be pure evil or good, the prayer will be answered two-fold.
+#
+DOMINATE
+
+Usage : cast 'dominate' <victim>
+Group : Necromancy
+Mana  : 100 - 150
+
+The caster forces his mental energies on the victim, over-coming any free
+thinking and assuming the ability to order the victim to do most anything.
+
+See Also: FOLLOW ORDER "MASS DOMINATE"
+#
+"DREAM TRAVEL"
+
+Usage    : cast 'dream travel'
+Duration : 5 Hours
+Group    : Astral
+Mana     : 400 - 500
+
+By the means of this power, the caster can make his or her body travel thousands
+of miles while they sleep. The caster merely begins the incantation and then
+goes to sleep. Then he/she has a dream about the place they are going to, and
+when they awake, they find that they have arrived! A very efficient means of
+transportation.
+#
+EARTHQUAKE
+
+Usage : cast 'earthquake'
+Group : Environmental
+Mana  : 350 - 400
+
+The spell causes an earthquake to occur in a small radius surrounding the
+caster. The earthquake will damage everyone in the room, save the caster and
+his or her friends.
+#
+"ENCHANT WEAPON"
+
+Usage    : cast 'enchant weapon' <weapon>
+Duration : Permanent
+Group    : Utility
+Mana     : 500 - 700
+
+This spell will enchant non-magical (non-modifying) weapons only. By non-modifying
+weapons we refer to weapons that might alter any ability such as, for example, damage.
+The only way to know if a weapon is suitable for enchantment is to fully identify it.
+
+The amount of enchantment will vary depending on the caster's level.
+Enchanted weapons become unusable by people of the caster's opposite
+alignment. (ie. If the caster is good, only good people can subsequently
+use the weapon)
+#
+"ENCHANT ARMOR"
+
+Usage    : cast 'enchant armor' <armor>
+Duration : Permanent
+Group    : Utility
+Mana     : 500 - 700
+
+This spell will enchant non-magical (non-modifying) armor only. By non-modifying
+armor we refer to armor that might alter any ability such as, for example, damage.
+The only way to know if a piece of armor is suitable for enchantment is to fully
+identify it.
+
+The enchantment is based on the caster's level. Enchanted armor becomes unusable
+by people of the caster's opposite alignment. (ie. If the caster is good, only good
+people can subsequently use the armor)
+#
+"ENERGY DRAIN"
+
+Usage : cast 'energy drain' <victim>
+
+This spell sucks the life force from the victim, causing a tremendous amount
+damage.
+#
+ENTRAP ENTRAPMENT
+
+Usage    : cast 'entrapment' <victim>
+Duration : Varies with the caster's level 
+Group    : Malediction
+Mana     : 100 - 150
+
+This spell sends forth a series of binding strands, similar to that of a
+spider's web, which will ensnare the victim and prevent them from functioning
+during a battle.
+
+Due to the complicated nature of this spell, if you are observed casting it
+on a victim, they will be able to strike at you once before the incantation is
+complete.
+#
+ENVIRONMENTAL
+
+The spells of this group represent the ability to effect the caster's
+surrounding environment. They include:
+
+Level 1: Call Lightning, Invisibility, Waterwalk, Waterbreathe
+Level 2: Fly, Haste, Slow
+Level 3: Control Weather, Group Invisibility, Earthquake
+Level 4: Meteor Swarm, Hellfire, Flamestrike, Smokescreen
+
+Learning this group will also allow you to wield higher damage staves, as 
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified).
+ 
+See Also: REQUIREMENT IDENTIFY
+#
+"FLESH OF STONE"
+Usage      : will 'flesh of stone'
+
+The psionic's mental concentration changes his physical make-up, hardening the
+surface layer of skin to the density of stone, protecting the psionic from many
+light blows, and softening harder strikes.
+#
+"FIELD CRAFT"
+
+The skills of this group represent the ability for the character to be
+self-sufficient when away from the confines of a city. They include:
+
+Level 1: Scrounge, Scout, Track, Alchemy, Skin
+Level 2: Detect, First Aid, Refuge
+Level 3: Rescue, Ambush
+Level 4: Evasion, Scribe
+#
+FIREBALL
+
+Usage : cast 'fireball' <victim>
+Group : Malediction
+Mana  : 200 - 250
+
+With a word of command, the caster shoots forth a ball of fire from his palm,
+incinerating the victim and dealing massive damage.
+
+See Also: "COLOR SPRAY"
+#
+"FLAME STRIKE" FLAME STRIKE FLAMESTRIKE
+
+Usage    : cast 'flame strike' <victim>
+Duration : Varies with the caster's level
+Group    : Environmental
+Mana     : 500 - 700
+
+Causes a bolt of fire from the heavens to come down and strike the victim.
+Will usually cause the victim to be set on fire and burn considerably. 
+Can only be used outdoors, of course. Fun for the whole family!
+#
+FLY
+
+Usage    : cast 'fly' <victim>
+Duration : Varies with the caster's level
+Group    : Environmental
+Mana     : 150 - 200
+
+Look ma, I'm flying! Useful for getting around in places you can't walk, like
+over water, deep chasms, sky castles, etc.
+#
+GATE
+
+Usage : cast 'gate'
+Group : Astral
+Mana  : 150 - 200
+
+This spell, when cast in the secluded groves and magickal centers of energy
+where moongates normally appear, causes a portal to appear, regardless of
+the date or time. 
+
+This portal functions similar to other moongates; taking you to the farthest
+reaches of the cosmos where the moongates intersect in their
+faster-than-light paths of travel.
+
+Casting this spell in a room where a gate already exists can have strange,
+far-reaching side-affects. Few have returned to tell what those side-affects 
+actually are.
+
+See Also: MOONGATE
+#
+"HAND TO HAND"
+
+The skills of this group represent the ability to fight without the use of a
+weapon. They include:
+
+Level 1: Kick, Bash, Headbutt
+Level 2: Bearhug, Trip, Slug
+Level 3: Smackheads
+Level 4: Neckbreak, Groinrip, Sleeper
+#
+HARM
+
+Usage : cast 'harm' <victim>
+Group : Malediction
+Mana  : 300 - 400
+
+Using this spell, a caster can inflict grievous harm upon his or her enemies. 
+#
+HASTE
+
+Usage    : cast 'haste' <self>
+Duration : Varies with the caster's level
+Group    : Environmental
+Mana     : 150 - 200
+
+By use of this power, the caster can speed up his or her actions in movement
+as well as in combat.
+
+See Also: SLOW
+#
+HEAL
+
+Usage : cast 'heal' <victim>
+Group : Rejuvenation
+Mana  : 150 - 200
+
+Heal will restore anywhere from 200 to 300 hitpoints for the victim. A
+victim who is blinded will also be cured by the heal spell.
+
+See Also: "CURE BLINDNESS"
+#
+HELLFIRE
+
+Usage : cast 'hellfire'
+Group : Environmental
+Mana  : 500 - 700
+
+Summon the flames of hell to scorch thy enemies. Let the pretenders drown in
+the fiery grave you create for them.
+#
+"HOLY WARD" WARD
+
+Usage	    : cast 'holy ward' <target>
+Duration    : Varies
+
+The holy ward grants magickal protection to the target against things that
+would normally damage him or her. 
+
+#
+"HOLY SHIELD"
+
+Usage	   : cast 'holy shield'
+Duration : 2 Hours
+
+Creates a magickal barrier around your entire party. The protection afforded
+by the barrier is dependant upon the level of the caster.
+#
+INFRAVISION
+
+Usage    : cast 'infravision'
+Duration : Varies with the caster's level
+Group    : Infravision
+Mana     : 40 - 70
+
+Allows the caster to detect the heat given off by objects giving them
+the ability to have much better vision in dark conditions.
+
+See Also: "DETECT INVISIBILITY"
+#
+INVIGORATE
+
+Usage : cast 'invigorate' <victim>
+Group : Rejuvenation
+Mana  : 200 - 300
+
+This spell alleviates the pains of traveling, leaving the victim refreshed
+and ready to continue their journey.
+#
+INVISIBILITY
+
+Usage    : cast 'invisibility' <victim | object>
+Duration : Varies with the caster's level
+Group    : Invisibility
+Mana     : 80 - 100
+
+Makes the target of the spell invisible to everyone except those who have
+the "detect invisibility" spell.
+
+See Also: "DETECT INVISIBILITY"
+#
+INVULNERABILITY INVULN GLOBE "GLOBE OF INVULNERABILITY"
+
+Usage    : cast 'globe of invulnerability' <self>
+Duration : 2 Hours
+Group    : Protection
+Mana     : 500 - 700
+
+Drako's minor globe of invulnerability is an ancient spell, powerful and
+efficient. It protects the victim from a variety of attacks, as well as 
+increasing resistance to certain magickal offenses. The magnitude of the
+protections is dependant upon the level of the caster.
+#
+LAY HANDS "LAY HANDS"
+
+Usage: cast "lay hands" <self>
+
+This prayer-spell brings a flow of healing through the Paladin's hands, 
+restoring health to himself.
+
+#
+"LESSER PERCEPTION"
+Conquering the realm of the unseen, the psionic can focus his mental
+energies towards seeing the unseen.  This lesser version is great for 
+seeing in the dark, as well as seeing other people's true nature.
+
+See Also: "GREATER PERCEPTION"
+#
+"GREATER PERCEPTION"
+Mastering the realm of the unseen, the psionic can focus his mental
+Energies towards seeing the normally hidden creatures in a room and
+invisible objects/creatures.
+
+See Also: "LESSER PERCEPTION"
+#
+"GROUP HEAL"
+
+Usage : cast 'group heal'
+Group : Rejuventation
+Mana  : 500 - 700
+
+This powerful prayer heals the caster's entire group.
+
+See Also: HEAL
+#
+"GROUP RECALL"
+
+Usage : cast 'group recall'
+Group : Astral
+Mana  : 350 - 400
+
+This spell will recall the caster's entire group to their respective
+home towns, given they are not fighting and in the same room as the caster.
+
+See Also: "WORD OF RECALL"
+#
+"GROUP INVISIBILITY" "GROUP INVIS"
+
+Usage    : cast 'group invisibility'
+Duration : Varies with the caster's level
+Group    : Environmental
+Mana     : 300 - 400
+
+This powerful magick allows the caster to conceal his or her entire party behind
+a veil of invisibility.
+
+See Also: INVISIBILITY VISIBLE
+#
+LEVITATE
+
+Usage	: will 'levitate' <self>
+
+Using the power of mind-over-matter, the psionic can levitate himself into
+the air, hovering 2-3 feet above the ground (or water).
+#
+"LIGHTNING BOLT"
+
+Usage       : cast 'lightning bolt' <victim>
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the shocking grasp spell.
+
+See Also: "SHOCKING GRASP"
+#
+"FLAME ARROW"
+
+Usage       : cast 'FLAME ARROW' <victim>
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+Causes a bolt of magical flame to be thrown from the casters hands at the
+victim.
+#
+"MAGIC MISSILE" MISSILE
+
+Usage : cast 'magic missile' <victim>
+Group : Malediction
+Mana  : 80 - 100
+
+Creates a magical bolt of energy which is fired at the victim, similar to
+an arrow.
+#
+MALEDICTION
+
+The spells of this group represent harm that can be inflicted on others
+both in, and out of battle. They include:
+
+Level 1: Poison, Curse, Burning Hands
+Level 2: Magic Missile, Color Spray, Entrapment
+Level 3: Blindness, Harm, Fireball
+Level 4: Energy Drain, Acid Blast, Ray of Disruption, Disintegration
+
+Learning this group will also allow you to wield higher damage staves, as 
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified).
+ 
+See Also: REQUIREMENT IDENTIFY
+#
+"MENTAL LAPSE" MENTAL LAPSE
+
+Usage : cast 'mental lapse' <victim>
+Group : Psychic
+Mana  : 400 - 500
+
+Projecting a mental voice across virtually endless distance, the caster
+can stop <victim> from hunting them. At the highest mastery level, the
+caster can stop <victim> from hunting anyone.
+#
+METALSKIN "METAL SKIN"
+
+Usage    : cast 'metalskin' <target>
+Duration : 2 Hours
+Group    : Protection
+Mana     : 200 - 300
+
+Causes the target's skin to turn metallic, protecting them from damage. The
+amount of protection is dependant upon the level of the caster.
+#
+"METEOR SWARM" METEOR SWARM
+
+Usage : cast 'meteor swarm'
+Group : Environmental
+Mana  : 500 - 700
+
+By means of this powerful magick, the caster can call meteors from the heavens
+down to smite all of his or her enemies in the room.  This can obviously only
+work when the spell is cast outdoors.
+#
+"MASS HEAL"
+
+Usage: cast 'mass heal' <target>
+
+Twice as strong as the heal spell, this powerful healing will restore from
+400 to 500 hitpoints.
+#
+"MASS DOMINATE"
+
+Usage : cast 'mass dominate'
+Group : Necromancy
+Mana  : 300 - 400
+
+An improved version of the dominate power that will assert your control
+over everyone in the room that is not in your party.  Useful for redominating
+part of your army that has strayed.
+#
+"MIND ATTACK" MINDATTACK
+
+Usage : cast 'mind attack' <victim>
+Group : Psychic
+Mana  : 80 - 100
+
+An attack on the mind of a victim is an appalling sight. The victim first
+feels a mental invasion, which causes pressure that slowly increases to the
+point of extreme, incredible pain. The victim's brain, revolting against the
+attack, sometime succumbs to the pressure, exploding through the skull.
+#
+"MIND BAR" MINDBAR
+
+Usage    : cast 'mind bar' <victim>
+Duration : Varies with the caster's level
+Group    : Psychic
+Mana     : 500 - 700
+
+By use of this power, you can place a mental bar across a vicitim's mind,
+leaving them without access to his or her intellect. Successful barring leaves
+the victim dumbfounded, unable to speak or perform many other tasks.
+
+#
+"MIND BLAST" MINDBLAST
+
+Usage : cast 'mind blast' <victim>
+Group : Psychic
+Mana  : 100 - 150
+
+A mental blast of pure energy erupts from the attacker, surging toward the
+victim and hitting their mind like a physical blow.
+#
+"MIND POKE" MINDPOKE
+
+Usage: cast 'mind poke' <victim>
+Group : Psychic
+Mana  : 40 - 70
+
+A victim of this mind-spell receives a powerful jolt of energy in their mind,
+causing level-based damage ranging from a mild head-ache to a physical hole.
+#
+"MIND SIGHT" MINDSIGHT
+
+Usage : cast 'mindsight' <victim>
+Group : Detection
+Mana  : 400 - 700
+
+Using mental telepathy, the caster "looks" through the eyes of the victim
+and sees the world wherever the victim may be. If the victim is of a 
+significantly higher level than the caster, the caster may not be able to
+penetrate their mind. It is also noted that certain races and peoples have
+natural shields against this type of mind probing. Others in the victim's room
+(or the victim himself, if familiar with the spell) will be able to sense the sighting.
+#
+UTILITY
+
+The skills and spells of this group represent various abilities that do not
+fall into other categories, but are useful nonetheless. They include:
+
+Level 1: Create Food, Create Water
+Level 2: Sleep
+Level 3: Word of Strength, Word of Intellect
+Level 4: Enchant Weapon, Enchant Armor
+
+Learning this group will also allow you to wield higher damage staves, as 
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified).
+ 
+See Also: REQUIREMENT IDENTIFY
+#
+NECROMANCY
+
+The spells of this group represent the ability to effect life on a
+molecular level. They include:
+
+Level 1: Dispel Good, Dispel Evil, Animate Dead
+Level 2: Clone, Dominate
+Level 3: Mass Dominate, Syphon Energy
+Level 4: Conjure Elemental, Divine Intervention
+
+Learning this group will also allow you to wield higher damage staves, as 
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified).
+ 
+See Also: REQUIREMENT IDENTIFY
+#
+PARALYSIS PARALYSE
+
+There are various magickal spells and toxins in the realm that are capable of
+rendering their target immobile for a period of time. While the spell itself
+won't kill, the target is unable to do anything and is completely vulnerable.
+#
+POISON
+
+Usage    : cast 'poison' <victim | food | drink>
+Duration : Varies with caster's level, or permanent on food and drinks.
+Group    : Malediction
+Mana     : 40 - 70
+
+Casting poison on food or drink (containers) will poison it. Eating
+poisoned food/drinks will poison the person eating or drinking.
+
+A person who is poisoned will suffer damage every hour, lose strength, and
+gain less points than usual.
+
+See Also: "REMOVE POISON" "DETECT POISON"
+#
+PROTECTION
+
+The spells of this group represent the ability to protect yourself and
+others in preparation for battle. They include:
+
+Level 1: Bless
+Level 2: Protection From Evil, Protection From Good
+Level 3: Sanctuary, Metal Skin
+Level 4: Holy Shield, Invulnerability, Group Protection From Evil/Good
+
+Learning this group will also allow you to wield higher damage staves, as
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified).
+
+See Also: REQUIREMENT IDENTIFY
+#
+"PROTECTION FROM EVIL" "P F E" "PFE"
+
+Usage    : cast 'protection from evil' <self>
+Duration : Varies with the caster's level
+Group    : Protection
+Mana     : 100 - 150
+
+Gives minor protection from the attacks of evil opponents, and wards off
+some aggressive mobs. 
+
+Note: Casting this spell upon yourself when you are evil can have
+disasterous side effects.
+#
+"PROTECTION FROM GOOD" "P F G" "PFG"
+
+Usage    : cast 'protection from good' <self>
+Duration : Varies with the caster's level
+Group    : Protection
+Mana     : 100 - 150
+
+Gives minor protection from the attacks of good opponents, and wards off
+those pesky do-gooders who always wish you harm.
+
+Note: Casting this spell upon yourself while you are good can have
+disasterous side effects.
+#
+PSIBLAST
+
+Usage		: will 'psiblast' <victim>
+Duration	: Instantaneous
+Save        : versus psychic for half damage
+
+This incredibly powerful psionic attack is capable of devastating an opponent.
+The psionic must be careful, however, for this power is difficult to control.
+There is a chance that a psiblast might backfire on the psionic, causing
+permanent brain damage to him or her.
+
+#
+"PSYCHIC SHIELD"
+
+Usage: will 'psychic shield' self
+Duration: Instananeous
+Save: -
+
+By means of this power, the psionic can shield himself from damage done by others
+to him.  The psychic shield shields the psionic from normal, as well as magical and psychic
+attacks.
+
+#
+PSYCHIC
+
+The spells of this group represent the ability of the caster to effect the minds
+of others. They include:
+
+Level 1: Mind Poke, Mind Attack
+Level 2: Mind Blast, Turn (skill)
+Level 3: Flesh Alter (skill), Mind link (skill)
+Level 4: Mental Lapse, Mind Bar, Soul Trap
+
+Learning this group will also allow you to wield higher damage staves, as 
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified).
+ 
+See Also: REQUIREMENT IDENTIFY
+#
+"RAY OF DISRUPTION" RAY DISRUPTION
+
+Usage : cast 'ray of disruption' <victim>
+Group : Malediction
+Mana  : 500 - 700
+
+Karnek's Ray of Disruption is one of the most powerful spells known. It calls forth
+a ray of pure energy that can burn through most anything. This spell can backfire,
+the results usually being fatal.
+#
+REJUVENATION
+
+The spells of this group represent the ability to heal both yourself and
+others. They include:
+
+Level 1: Cure Light, Remove Curse, Remove Poison, Sobriety
+Level 2: Heal, Cure Blind
+Level 3: Mass Heal, Invigorate
+Level 4: Vitality, Group Heal
+
+Learning this group will also allow you to wield higher damage staves, as 
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified).
+ 
+See Also: REQUIREMENT IDENTIFY
+#
+"REMOVE CURSE"
+
+Usage : cast 'remove curse' <victim | object>
+Group : Rejuvenation
+Mana  : 40 - 60
+
+Will remove a curse on carried objects or any persons in the room.
+#
+"REMOVE POISON"
+
+Usage : cast 'remove poison' <victim | food | drink> 
+Group : Rejuvenation
+Mana  : 40 - 60
+
+Will remove the affects of poison from a victim or an object.
+
+See Also: POISON
+#
+SANCTUARY
+
+Usage    : cast 'sanctuary' <victim>
+Duration : Varies with the caster's level
+Group    : Protection
+Mana     : 200 - 300
+
+When protected by sanctuary <victim> will only receive 1/2 the normal
+damage caused by a particular blow. The default victim is the caster.
+
+See Also: "HOLY SHIELD" BLESS
+#
+"SHOCKING GRASP"
+
+Usage       : cast 'shocking grasp' <victim>
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the burning hands spell.
+
+See Also: "BURNING HANDS"
+#
+"SENSE LIFE"
+
+Usage    : cast 'sense life'
+Duration : Varies with the caster's level
+Group    : Detection
+Mana     : 100 - 150
+
+Allows the caster to sense the presence of a player or monster in the
+room which is hiding.  The true identity will remain hidden however.
+Invisible persons are also considered hidden.
+
+See Also: HIDE
+
+#
+"SHIFT REALITY" SHIFT REALITY
+Usage		: will 'shift reality'
+Duration	: Instantaneous
+Save		: Versus psychic to prevent
+
+By use of this mental power, the psionic or mystic can shift their location
+in the material world to somewhere else.  Like all forms of psychic transfer,
+the mentalist has no control over where he or she ends up, making this power
+somewhat hazardous.
+
+#
+SLOW
+
+Usage    : cast 'slow' <victim>
+Duration : Varies with the caster's level
+Group    : Environmental
+Mana     : 150 - 200
+
+Sends the forces of time against the victim, causing him or her to slow down
+in relation to other PC's and NPC's in the game. Primarily, this affects
+combat and skill use.
+
+See Also: HASTE
+#
+SMOKESCREEN SMOKE
+
+Usage    : cast 'smokescreen'
+Duration : Varies with the caster's level
+Group    : Environmental
+Mana     : 400 - 500
+
+This spell creates a blinding cloud of acrid smoke that affects everyone
+in the room except the caster.
+
+See Also: BLIND
+#
+SOBRIETY
+
+Usage : cast 'sobriety' <victim>
+Group : Rejuvenation
+Mana  : 40 - 50
+
+Removes all affects of alcohol from the victim.
+#
+"SOUL LEECH"
+
+Usage	: cast 'soul leech' <victim>
+
+One of the darkest and feared magic abilities -- the power to steal life from
+another. If successful, the caster will gain about a third of the victim's life
+added to his own life total.
+#
+"SOUL TRAP"
+
+Usage    : cast 'soul trap' <victim>
+Duration : Varies with the caster's level
+Group    : Psychic
+Mana     : 500 - 700
+
+If successful, the victim's soul will be drawn from its corpse and trapped
+for use by the caster. The caster must be holding a soul gem prior to casting
+the spell, and the gem must be of a high enough quality to hold the trapped
+soul.
+
+Note that this spell will only work on the creatures of the realm, and not
+on your fellow players!
+
+#
+"SPELL STRENGTH" "STRENGTH SPELL"
+
+Usage    : cast 'strength' <victim>
+Duration : 2 Hours
+Group    : Utility
+Mana     : 200 - 300
+
+The target of this spell will benefit from increased strength (the amount
+dependant on the caster's level) for its duration.
+#
+STAFF STAVES
+
+Usage : use <staff>
+
+Staves come in two primary forms - one type is magickal and the other is as
+a weapon.
+
+Using a magickal staff will automatically target everybody (or everything)
+in a room, except yourself.  Therefore staves are naturally very powerful,
+and yet may be very dangerous to use around other players.
+
+Staves capable of magic must be held prior to use, while those that can be
+used as a weapon must be wielded.
+#
+STEALTH
+
+The skills of this group represent the abilities commonly known to
+thieves. They include:
+
+Level 1: Pick Lock, Peek, Palm
+Level 2: Shadow, Hide, Retreat
+Level 3: Circle, Backstab, Subdue
+Level 4: Sneak, Steal
+
+Learning this group will also allow you to wield higher damage daggers, as
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified).
+
+See Also: REQUIREMENT IDENTIFY
+#
+SYPHON "SYPHON ENERGY"
+
+Usage : cast 'syphon energy' <corpse>
+Group : Necromancy
+Mana  : 200 - 300
+
+This spell draws any remaining energy from a corpse and helps to restore
+the caster's own life force.
+#
+VITALITY
+
+Usage : cast 'vitality' <target>
+Group : Rejuvenation
+Mana  : 400 - 500
+
+This spell restores the vital functions of the target, leaving them healthier 
+and refreshed.
+#
+WAND WANDS
+
+Wands cannot cast spells themselves, but must be wielded in order for you to
+cast one. Each wand is subtly different, be it the material it was made from
+or the benefit to you as a spell caster. Similarly, each spell has a mana
+cost associated with it - these mana values vary depending on the type of wand
+being wielded.
+
+See Also: SPELLS
+#
+WATERBREATHE
+
+Usage    : cast 'waterbreathe' <target>
+Duration : Varies with the caster's level
+Group    : Environmental
+Mana     : 80 - 100
+
+The target gains the ability to breathe underwater like a fish.  This magick does
+not affect the targets ability to move underwater, however.
+#
+WATERWALK
+
+Usage    : cast 'waterwalk' <target>
+Duration : Varies with the caster's level
+Group    : Environmental
+Mana     : 80 - 100
+
+Target gains the ability to walk on water. (and not just when it freezes!)
+#
+WILL
+
+Usage: will '<mind-skill name>' [target]
+
+For psionics.  If you want to use your mental abilities on someone or
+something. (i.e Force your will)
+
+Example:
+
+  > will 'mind poke' warg
+  Note that the name of the mind-skill must be enclosed by "'"s.
+
+You can also find help on each individual mind-skill.
+
+Examples:
+
+  > help mind poke
+  > help levitate
+  > help dominate
+#
+WEAPONRY
+
+The skills of this group represent an advanced ability when using weapons.
+They include:
+
+Level 1: Appraise, Compare
+Level 2: Parry, Cutthroat
+Level 3: Charge, Berserk
+Level 4: Disembowel, Disarm
+
+Learning this group will also allow you to wield higher damage weapons, as
+indicated by any REQUIREMENT on them (which can be determined by having your
+weapon identified). The exception to this will be staves, which can only be
+wielded by those who study spell-casting groups.
+
+See Also: REQUIREMENT IDENTIFY
+#
+"WORD OF INTELLECT"
+
+Usage    : cast 'word of intellect'
+Duration : 2 Hours
+Group    : Utility
+Mana     : 200 - 300
+
+This short prayer, if answered, causes the victim to become smarter for a 
+brief while. The amount of intelligence gain will be dependant on the caster's
+level.
+#
+"WORD OF RECALL"
+
+Usage : cast 'word of recall'
+Group : Astral
+Mana  : 40 - 70
+
+The caster will be transferred back to his or her home-town sanctuary 
+(Whatever city you started in.)  Word of Recall cannot be used during combat.
+This applies to all forms of Word of Recall, whether it is a cast spell, 
+scroll, etc.
+#
+ZEN
+
+Usage	: cast 'zen' <self>
+
+Instantly puts the caster into a meditative trance, used for focusing inner
+strengths on healing. While meditating, the caster's wound heal somewhat, but
+the caster is unable to move for a short time.
+#
+$

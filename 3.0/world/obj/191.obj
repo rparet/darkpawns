@@ -1,0 +1,653 @@
+#19101
+sword damned~
+the sword of the Damned~
+The sword of the Damned lies here.~
+~
+5 bj an 0
+1 4 4 3 3
+5 2 1000 10 0 1
+E
+Sword Damned~
+The sword gives off an evil radiance of blackflame.  The hilt has intricate
+carvings of skulls and other such skeletal forms all over it.
+~
+A
+19 2
+A
+1 2
+A
+18 3
+A
+6 -3
+A
+5 -1
+A
+9 5
+#19102
+slimescale necklace~
+a slimescale necklace~
+A slimescale necklace lies here.~
+~
+9 dj ac 0
+3 0 0 0 4
+1 3 500 50 0 1
+E
+slimescale necklace~
+This odd looking serpent scale is like nothing you've ever seen before.
+You have your doubts about it, but one thing is for sure, it's not of
+this world...
+~
+A
+17 -3
+A
+23 -2
+A
+6 -1
+A
+4 1
+#19103
+compass~
+an old compass~
+An old compass lies here.~
+~
+8 df ao 0
+0 0 0 0 0
+1 3 700 10 0 1
+E
+compass~
+North...
+~
+A
+28 1
+A
+4 1
+A
+2 1
+#19104
+molded bread loaf stale~
+a loaf of molded bread~
+A loaf of molded bread lies here, rotting.~
+~
+19 q a 0
+2 0 0 0 0
+1 3 2 100 24 1
+E
+molded bread loaf stale~
+A loaf of hard, stale bread is flecked with patches of mold. It smells musty,
+as does the rest of this place. Hmmm... Should you eat this? They always say
+a little mold won't hurt ya.
+~
+#19105
+knife crimson~
+a crimson knife~
+A crimson knife is lying here.~
+~
+5 djq an 0
+6 2 2 11 4
+1 1 1500 75 0 1
+E
+knife~
+This knife has permanent blood stains all over it, and drips a shadow of
+old blood that has been shed by it's owner.  The blade is a 
+blackish crimson in color and gives you the creeps.
+~
+A
+6 -4
+A
+9 3
+A
+5 -1
+A
+19 3
+A
+18 2
+#19106
+spyglass damned telescoping~
+spyglass of the damned~
+A telescoping spyglass lies here.~
+~
+8 0 ac 0
+0 0 0 0 4
+2 3 500 20 0 1
+E
+binoculars~
+The old spyglass seem to exude a strange coldness. The brass casing is heavily
+tarnished, but the glass still seems quite serviceable.
+~
+A
+4 1
+A
+3 1
+A
+18 2
+#19107
+feather~
+a dark colored feather~
+A dark colored feather lies on the ground here.~
+~
+1 ad as 0
+0 0 -1 0 0
+1 3 3000 5 0 1
+E
+feather~
+This drab looking feather seems to emanate a ghostly cool light by some
+unknown means.
+~
+A
+6 -1
+A
+10 -3
+A
+1 -1
+#19108
+eyepatch tattered ~
+a tattered eyepatch~
+A tattered eyepatch lies here.~
+~
+11 dj ar 0
+0 0 0 0 0
+1 3 200 20 0 1
+E
+eyepatch tattered~
+This old eyepatch has seen many years of use, perhaps too many.  The
+patch looks like it's falling apart at the seams.
+~
+A
+18 -2
+A
+6 -1
+A
+22 1
+A
+23 1
+A
+24 1
+A
+21 1
+#19109
+woodstove cast iron stove~
+a cast-iron woodstove~
+A cast-iron woodstove stands rusting in the corner.~
+~
+15 e 0 0
+140 5 -1 0 0
+1 3 0 100 0 1
+E
+stove wood cast iron~
+Half-standing in the corner of the galley is an ancient iron woodstove. Its
+legs have nearly corroded through, causing it to list precariously to one side.
+It looks as if it could topple over at any second.
+~
+#19110
+duffle canvas dufflebag~
+an old dufflebag~
+A seaman's canvas dufflebag lies slouched on the ground.~
+~
+15 0 ak 0
+85 5 -1 0 4
+5 3 50 100 0 1
+#19111
+shadow cape~
+a shadow cape~
+A strange looking shadow lies here.~
+~
+9 fj ak 0
+2 0 0 0 3
+4 3 1000 90 0 1
+E
+shadow cape~
+This very odd shadow seems to defy the very laws of physics, and appears
+to be something that can be worn.  The mere touch of it sends chills up
+and down your spine.
+~
+A
+27 1
+A
+28 1
+A
+2 1
+A
+18 -1
+A
+5 -1
+#19112
+spectacles~
+a pair of old spectacles~
+A pair old old spectacles are lying here.~
+~
+11 0 ar 0
+0 0 0 0 0
+1 3 100 10 0 1
+E
+spectacles~
+You hold in your hand a pair of glasses that appear to be a miracle in
+and of itself in that it is still in one piece.  Quite stylish, about a 
+couple hundred odd years or so ago...
+~
+A
+6 -2
+A
+4 1
+#19113
+shield rusted~
+a rusted shield~
+A rusty disk of metal lies here.~
+~
+9 0 aj 0
+4 0 0 0 6
+8 3 35 70 0 1
+E
+shield rusted~
+This ancient-looking shield is most definitely past its prime. Rust has worn
+small holes here and there across the corroded surface.
+~
+A
+17 -2
+A
+6 -1
+A
+20 1
+A
+22 1
+#19114
+pants dusty cloth~
+a pair of dusty pants~
+A pair of dusty pants lie here.~
+~
+9 0 af 0
+2 0 0 0 6
+2 3 100 30 0 1
+E
+pants, dusty~
+This pair of pants is coated with a thick layer of dust. No amount of cleaning
+will change that. Careful, something this old might fall apart.
+~
+A
+10 -6
+#19115
+ring sorrow~
+a ring of sorrow~
+A small ring lies discarded here.~
+~
+11 fj ab 0
+0 0 0 0 4
+1 3 5000 15 0 1
+E
+ring sorrow~
+This small, odd looking ring has various abstract forms carved into it
+by a master jeweler.  The carvings instill various feelings in you, is
+it a matter of art appreciation or something more?
+~
+A
+17 -2
+A
+19 1
+A
+18 1
+A
+27 1
+A
+6 -2
+A
+4 -1
+#19116
+broken blade~
+a broken blade~
+The hilt-end of a broken blade lies here.~
+~
+18 cep an 0
+0 0 0 0 0
+1 3 10 75 0 1
+E
+broken blade~
+This broken blade ends in a nasty-looking jagged edge. Although not the most
+functional weapon, it could serve as a weapon of desperation.
+~
+A
+19 3
+A
+18 3
+A
+8 -3
+#19117
+key brig~
+a brig key~
+A key is lying here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 80 2 1
+E
+brig key~
+An old key.
+~
+#19118
+brass tarnished key~
+a tarnished brass key~
+A tarnished brass key lies here.~
+This tarnished, brass key bears the insignia of the ship's captain.
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 70 1 1
+E
+small key~
+A small, rusted, common key.
+~
+#19119
+hub~
+the ship's wheel~
+The ship's wheel hovers just above the deck.~
+~
+15 abe 0 0
+110 15 19128 0 0
+1 3 0 100 0 1
+E
+hub~
+Trimmed in a tarnished brass ring, the center of the wheel's hub is covered
+by an opaque plate of crystalline material. Upon close examination, you see
+that the hub itself is affixed with a hinge and a tight-fitting locking
+mechanism.
+~
+E
+spokes~
+Heavy wooden spokes, banded in tarnished brass radiate outward from the
+wheel's &whub&n. Several of the spokes appear to be broken, but hold fast
+together as if held together by powerful magic forces.
+~
+E
+wheel~
+The &wspokes&n of the ship's great wheel radiate outward from a central hub,
+cracked and weathered from the elements over the ages. Although the navigator
+appears to control the wheel with ease, it does not move for you.
+~
+#19120
+journal old~
+an old journal~
+Someone has left their journal here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 100 0 1
+E
+journal old~
+It seems to be the journal of an old explorer, you find an interesting
+passage:
+
+I have many times heard tales of the legendary Ghost Ship that occasionally
+docks in the port cities of Alaozar and Xixieqi. Tonight I shall finally see
+if those rumors are true, I shall stake out at the docks north of Alaozar and
+try to come aboard the apparition, for I have heard there are hordes of jewels
+and artifacts inside the ship's hold. I shall leave this journal with my
+friend, who shall warn the populace of the threat that comes so close to home.
+
+                                                             Twick Elmdaerle
+~
+#19121
+chest sea old~
+an old seachest~
+A battered seaman's chest lies here.~
+~
+15 e 0 0
+130 15 19122 0 0
+1 3 0 100 0 1
+E
+old chest~
+This wood of this ancient seachest is held together by heavy iron straps. It's
+a wonder that it is still in one piece, much less operable.
+~
+#19122
+shadowy key~
+a shadowy key~
+The faint shadow of a key lies here.~
+~
+18 cfgp a 0
+0 0 0 0 0
+1 3 10 40 3 1
+E
+shadow key~
+This faint, nondescript key resembles a shadow. Oddly enough, it is a shadow
+that is tangible, allowing you to grasp it.
+~
+#19123
+hole jagged~
+an ancient lifeboat~
+An ancient lifeboat rests here on the deck.~
+~
+15 ae 0 0
+120 0 -1 0 0
+1 3 0 100 0 1
+E
+hole~
+Given the size and location of this hole, this lifeboat has seen its last
+days on the water.
+~
+E
+lifeboat boat ancient~
+This old lifeboat looks as thought it has undergone years of use, but you
+hardly think it's seaworthy now, given the jagged hole piercing its hull.
+~
+#19124
+dagger jewel studded~
+a jewel-studded dagger~
+A jewel-handled dagger rests here.~
+~
+5 b an 0
+6 3 2 11 4
+4 1 2500 15 0 1
+E
+dagger jeweled~
+The dagger's hilt flashes brilliantly in your hands; its finely-edged, golden
+blade steeled to perfection.
+~
+A
+2 2
+A
+19 2
+A
+6 1
+#19125
+spear iron fire poker rod~
+a fireplace poker~
+A short iron rod rests here.~
+~
+5 0 an 0
+4 3 5 5 5
+3 3 100 100 0 1
+E
+poker fire iron rod~
+This heavy rod of iron has a cast handle at one end, and an ash-covered hook
+at the other. For its small size, it looks like it could deal a fair degree
+of damage.
+~
+A
+2 1
+A
+1 1
+#19126
+gold coin pile doubloon primitive~
+a pile of gold doubloons~
+A pile of primitive golden coins lies here.~
+~
+20 0 a 0
+2500 0 0 0 0
+1 3 0 100 0 1
+E
+gold coin doubloon pile primitive~
+These ancient coins appear to have been hand-struck many ages ago. Their shape
+is very irregular, and they are marked with a simple four-pointed star on
+each side.
+~
+#19127
+feather bed tattered featherbed~
+a tattered featherbed~
+A tattered featherbed spews dust and feathers as you walk upon it.~
+~
+15 e 0 0
+110 5 -1 0 0
+1 3 0 100 0 1
+E
+feather bed tattered featherbed~
+You break into a fit of coughing as dust and feathers billow forth from the
+rotting remains of this featherbed.
+~
+#19128
+book volume diary~
+a worn, leather-bound book~
+A small, worn volume lies here.~
+~
+18 cep a 0
+0 0 0 0 0
+1 3 10 60 0 1
+E
+key~
+You wonder what in the world this book might have to do with keys...
+~
+E
+entry~
+&r      ___________________________________________________
+&r    /                                                     \
+&r   |   The 4th Day of the Moon Month, Year 32.             |
+&r   |                                                       <
+&r   |  At last, the tre...re of a lifetime - The .... of    |
+&r   >  ..as, is mine! Now, I must find the perfect hidi..   <
+&r   >  ...ce. It must be unpr.......le. Certainly, any      <
+&r   |  seek.. .. this jew.. .ould t... my chambers to       |
+&r   |  shreads. It must be hidden op...., disguised, under  |
+&r   |  the .... nose of the woud-be thie.. - s. ..vious     |
+&r   |  that none shall re...nize it.                        <
+&r   >  Ahh! I have th. ..ry place! I swear by the eter...   |
+&r   |  abyss that I will carry this treasure to my grave!   <
+&r   |                                 _  _                  |
+&r   |                                  |/ .                 |
+&r    \_____________________________________________________/&n.
+~
+E
+book~
+Both the front and back cover of this book are embossed with the figure of a
+large&w key&n. Upon opening this volume, you see that most of the handwritten text
+has faded beyond recognition; however, you find one partially-legible&w entry&n
+toward the end.
+~
+#19129
+barnacle chunk shell~
+a chunk of barnacle~
+A rough chunk of shell lies here.~
+~
+10 0 a 0
+30 102 51 0 0
+3 3 600 25 0 1
+E
+shell barnacle chunk~
+Minute bubbles issue from the craggy surface of this broken barnacle. Its
+porous shell seems to contain a fair amount of air.
+~
+#19130
+sword sabre rusty~
+a rusty sabre~
+An old blade lies here, covered in dust.~
+~
+5 0 an 0
+1 3 5 3 6
+5 2 120 80 0 1
+E
+sabre rusty~
+Although the blade surface wears a fine layer of rust, the hilt is intact.
+The blade, itself, appears to be dull, yet serviceable.
+~
+A
+18 2
+#19131
+crystal tear seas jewel~
+the Tear of Seas~
+A tear-shaped crystal flashes brightly here.~
+~
+8 ak ac 0
+0 0 0 0 0
+2 3 3500 30 0 1
+E
+jewel tear seas~
+In your hands, you hold a brilliant, multi-faceted jewel, suspended upon a
+delicate silver thread. It appears to amplify even the smallest amound of
+light somehow, brightening the space around itself.
+~
+A
+18 3
+A
+26 2
+A
+17 5
+#19132
+halo disc~
+a mystical halo~
+A dull disc of metal pulses like a heart.~
+~
+11 ak as 0
+0 0 0 0 3
+1 3 1300 30 0 1
+E
+metal~
+The material it's made from is like no other substance you've ever seen. It
+looks otherworldly, as if it were constructed of magic itself.
+~
+E
+halo disc~
+The halo shimmers softly, like burnished metal from the local smithy's shop.
+It eminates an aura of unmistakable strangeness - as if it could aid in
+protection from the greatest of evils.
+~
+A
+27 2
+#19133
+staff iron hardwood~
+an iron-shod staff~
+An iron-shod staff of hardwood rests here.~
+~
+4 bg ao 0
+60 2 2 53 3
+6 3 1500 20 0 1
+A
+1 1
+A
+18 2
+R
+6 2
+#19134
+water cask~
+a water cask~
+An ancient wooden cask rests here.~
+~
+23 e 0 0
+5000 5000 15 0 0
+1005 3 0 100 0 1
+E
+cask water ancient~
+You are amazed to find that not only does this particular cask contain water,
+it also appears to be clean and fresh.
+~
+#19135
+sextant brass~
+a tarnished, brass sextant~
+A complex-looking instrument lies here.~
+~
+12 be ao 0
+0 0 0 0 0
+5 3 4000 5 0 1
+A
+3 2
+#19136
+cloth black strip~
+a strip of black cloth~
+A strip of worn black cloth lies here.~
+~
+9 0 am 0
+5 0 0 0 5
+3 2 250 40 0 1
+E
+cloth black strip~
+The ragged edges of this strip of black cloth are bleached grey and
+encrusted with sea salts.
+~
+A
+1 1
+$~

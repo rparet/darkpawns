@@ -1,0 +1,161 @@
+#1202
+The Ice Box~
+   Here lie the frozen remains of mud players who just couldn't play with
+the other kids in the sandbox.
+~
+12 cdfhjrt 0
+S
+#1204
+The Board Room Of The Immortals~
+   This large room is well-decorated, and lit from above by a soft, magical
+glow of no particular origin. Scattered around the room are comfortable chairs
+and piles of furs of various dimension, and in the very middle there is a huge
+oaken table that shimmers in an odd manner. A large picture window looks down
+over the whole world, showing the exploits of the many intrepid mortals. A
+spiral staircase leads down to another part of this room. There is a sign
+hovering in the awesomeness of this room.
+~
+12 cdj 0
+D5
+You see the lower part of this room, and the normal board.
+~
+~
+0 -1 1205
+E
+sign~
+0~
+Type "help mail" if you don't know how to use the dang mailman!
+~
+S
+#1205
+The Lower Board Room of the Immortals~
+   This room is a close twin to the main Immortal Board Room at the top of the
+spiral staircase. Your mind and body cannot help but relax as you gaze around
+this comfortable room, and hope that you will be able to linger here a while.
+Many green plants line a marble stairway that leads down to the Temple of Kir
+Drax'in.
+~
+12 cdjn 0
+D4
+You see the main Immortal Board Room at the top of the spiral staircase
+~
+~
+0 -1 1204
+D5
+~
+~
+0 0 8004
+S
+#1210
+A Burning Hut~
+   You stand inside a burning hut; what you considered home until a few
+moments ago when the orcs entered the village. You slept soundly until it was
+too late; only the horrified screams of your parents dying woke you.
+Now you stand bravely, though petrified with fear in your mind, as you watch
+the hairy, tusked orcs advance toward you, swords in hand.
+~
+12 cdek 0
+R start_room.lua 36
+E
+orcs~
+0~
+The orcs are dark-furred and clothed in the remains of of their victim's
+armor. Sharp tusks protrude from their bottom jaw, and they stand almost a 
+head taller than you.
+~
+S
+#1211
+A Darkened Alley~
+   You are cornered! You thought you had given them the slip by ducking down
+one of the side alleys but to no avail, you have left yourself with no
+options. Now you stand bravely, thought petrified with fear in your mind, as
+the leader of the roughian group before you advances, sword in hand.
+~
+12 cdek 0
+R start_room.lua 36
+S
+#1212
+The Beast Lair~
+   You didn't have to accept the quest at hand, but yet, somehow you felt
+compelled to do so. Now, hugging the far wall of the cavern, you have entered
+the beast's lair and been discovered. You stand still, petrified with fear
+although years of training allow you to face death with a brave stance. The
+beast shuffles towards you with heavy feet, an evil toothy-grin across its
+face.
+~
+12 cdek 0
+R start_room.lua 36
+S
+#1220
+The City Armory~
+   All manner of exotic and common pieces of armor hang from the walls,
+while the more expensive items are housed behind a locked grill on the far
+wall. The only exit appears to be via the same way you came in.
+~
+12 cdE 0
+S
+#1221
+The City Weaponsmith~
+   You've got to be careful navigating your way through the store to avoid
+cutting yourself on any number of sharp weapons hanging from the walls and
+ceiling. Buried over in the corner is a small counter where you can conduct
+your business; alternatively, you could leave via the same way you came in.
+~
+12 cdE 0
+S
+#1222
+The City Jeweler~
+   The wealth displayed in this store alone is almost beyond comprehension -
+some of the finest jewels and artifacts from around the realm are displayed
+in numerous cases around the room. You can stand here in awe for as long as
+you wish, or exit via the same way you came in.
+~
+12 cdE 0
+S
+#1223
+The City Provisioner~
+   The smell of freshly cooked food is quite enticing as you stand in this
+small store and enjoy the aroma. Adventurers from across the realm pass in
+and out, collecting food supplies for their journies. The only exit is back
+via the way you came.
+~
+12 cdE 0
+S
+#1224
+The City General Store~
+   Travellers from other cities pour into and out of this store, equipping
+themselves with supplies for their long and arduous expeditions. All manner
+of items hang from the walls, completely covering them in some places. You can
+either purchase something, or leave via the way you came in.
+~
+12 cdE 0
+S
+#1225
+The City Apothecary~
+   The aroma of freshly crushed herbs and reagents fills the air and, for a
+brief moment, clears your mind of all of your troubles. Shelves on the far
+wall contain potions of varying use, most of which appear unfamiliar to you.
+The only exit is back via the way you came.
+~
+12 cdE 0
+S
+#1226
+A Store for the Mystical Arts~
+   This store, at least it would appear as one, is quite unlike others you
+have seen before. There are no walls, no ceiling and no floor, only darkness -
+yet, your feet stand on solid ground and the exit is quite clear. Pulsing
+spheres of light dance around the room, almost as if they had a life of their
+own...
+~
+12 cdE 0
+S
+#1230
+An Empty Store~
+   It doesn't look like anyone or anything has been in here in some time.
+The floor is littered with garbage and covered in a thick layer of dust; the
+windows are boarded up and the air is very stale. The only exit is back out
+the way you came.
+~
+12 cd 0
+S
+$~
